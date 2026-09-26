@@ -95,6 +95,9 @@ export type Changes = {
   "change-agent/move-folder": Parameters<
     typeof import("akasha/change/agent/folder/move-folder/move-folder.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/move-lore-disclosure-to-facts": Parameters<
+    typeof import("akasha/change/agent/page-type/move-lore-disclosure-to-facts/move-lore-disclosure-to-facts.change-agent.code.ts")["runChange"]
+  >[1]
   "change-agent/move-page": Parameters<
     typeof import("akasha/change/agent/file/move-page/move-page.change-agent.code.ts")["runChange"]
   >[1]
