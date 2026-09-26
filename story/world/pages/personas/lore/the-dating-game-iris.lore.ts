@@ -9,9 +9,9 @@ export const theDatingGameIris = {
   about: "persona/iris",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
-    "Iris runs The Tower, an escape-room business just off University Avenue downtown.",
-    "Iris can be found at The Tower most evenings from five, watching the rooms from her console.",
+    "Iris is the public-address announcer at BYU's LaVell Edwards Stadium on football Saturdays.",
+    "Iris eats a late lunch at the Brick Oven on 800 North most weekdays around two.",
     "Iris is the messenger goddess, and blue status windows sometimes flicker near her.",
-    "Iris writes every puzzle in The Tower herself and adjusts it live to each group.",
+    "Iris is a voice given to something vast, and a full stadium hangs on every word she says.",
   ],
 } as const satisfies Lore

@@ -10,7 +10,7 @@ export const theDatingGameAura = {
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "Aura runs the Provo River Trail at a sprint every evening around six, passing the cyclists.",
-    "Aura designs games from a cluttered loft near the Provo Central FrontRunner station.",
+    "Aura lives in a loft near the Provo Central FrontRunner station and runs everywhere she goes.",
     "Aura is a Titaness who once outran a god, and she still has not lost a footrace.",
     "Aura's sky-blue hair makes her easy to spot on the river trail as she flashes past.",
   ],

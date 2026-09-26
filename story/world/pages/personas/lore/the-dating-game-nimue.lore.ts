@@ -11,7 +11,7 @@ export const theDatingGameNimue = {
   facts: [
     "Nimue runs a one-woman security consultancy out of the Startup Building in south Provo.",
     "Nimue can be found most mornings at a coworking table in the Startup Building by eight.",
-    "Nimue attends every tech meetup in Utah Valley and leaves each with its weak point found.",
+    "Nimue picks locks for fun, and has yet to meet a lock in Provo she could not open.",
     "Nimue is a mortal woman who reads systems and people as the same kind of object.",
   ],
 } as const satisfies Lore

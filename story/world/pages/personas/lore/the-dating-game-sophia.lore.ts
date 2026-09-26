@@ -10,7 +10,7 @@ export const theDatingGameSophia = {
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
     "Sophia lives up at Sundance Mountain Resort, above Provo Canyon.",
-    "Sophia leads character-writing workshops at Sundance through the summer and autumn.",
+    "Sophia hikes to Stewart Falls from Sundance at first light, alone, most mornings.",
     "Sophia can be found on the Sundance lodge deck most afternoons, notebook open.",
     "Sophia is the Aeon of Wisdom, who authored herself out of nothing.",
   ],

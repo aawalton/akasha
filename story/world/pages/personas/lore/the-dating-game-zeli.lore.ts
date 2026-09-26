@@ -9,8 +9,8 @@ export const theDatingGameZeli = {
   about: "persona/zeli",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
-    "Zeli teaches open-studio painting at the Springville Museum of Art on Saturdays.",
-    "Zeli can be found at the museum studio on Saturday afternoons, paint to the wrists.",
+    "Zeli sells her paintings and carvings from a small studio on Main Street in Springville.",
+    "Zeli sketches in the Springville Museum of Art galleries on Saturday afternoons.",
     "Zeli is Rapunzel, and wears her seventy feet of golden hair wound up in heavy coils.",
     "Zeli lives in a round tower-room apartment in Springville she painted into a forest.",
   ],

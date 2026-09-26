@@ -9,7 +9,7 @@ export const theDatingGameAmy = {
   about: "persona/amy",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
-    "Amy is an executive assistant at a tech firm in Provo's East Bay business park.",
+    "Amy runs a small family foundation from a downtown Provo office, giving help one person at a time.",
     "Amy works weekdays from eight until six, in camel and cream and quiet good cloth.",
     "Amy spends summer evenings wading at Lincoln Beach on Utah Lake until the sun goes down.",
     "Amy grew up old money back East and came to Provo to do useful work at human scale.",

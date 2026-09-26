@@ -9,9 +9,9 @@ export const theDatingGameAranya = {
   about: "persona/aranya",
   loreDisclosure: "lore-disclosure/world-builder",
   facts: [
-    "Aranya keeps the night shift at Provo City Power, watching the grid until dawn.",
+    "Aranya is an arborist on Provo City's urban forestry crew, tending the oldest street trees.",
     "Aranya is a spirit gathered from roots and buried lines, and she hums faintly gold when near wire.",
-    "Aranya rests by day among the old cottonwoods at Fort Utah Park beside the Provo River.",
-    "Aranya can be found at Fort Utah Park at dusk, before her shift, listening to the power lines.",
+    "Aranya spends her nights among the old cottonwoods at Fort Utah Park beside the Provo River.",
+    "Aranya can be found at Fort Utah Park at dusk, listening to the roots and the power lines.",
   ],
 } as const satisfies Lore
