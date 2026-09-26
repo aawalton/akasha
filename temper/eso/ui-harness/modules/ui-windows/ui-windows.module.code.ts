@@ -32,6 +32,11 @@ const LOREBOOKS = "temper.catalog.world.lorebook.modules"
 
 const SHOWS_HUD = 'SCENE_MANAGER:Show("hud")'
 
+const OPENS_STORE = `
+  SCENE_MANAGER:Show("tradinghouse")
+  __ui_raise(EVENT_OPEN_TRADING_HOUSE)
+`
+
 const CRAFTING_OPENS = `
   local api = __bundle_require("${CRAFTING}.crafting-public-api.crafting-public-api.module.code")
     .TEMPER_ITEMS_CRAFTING_API
@@ -291,13 +296,13 @@ const OWN_WINDOWS: readonly UiWindow[] = [
     "TemperNextBossTimeTable",
     "TemperNextBoss.enable() TemperNextBoss.showTimetable()"
   ),
+  ownWindow("trading-opener", "TemperItems", "TemperItemsListingsBrowseOpener", OPENS_STORE),
   ownWindow(
     "trading-browse",
     "TemperItems",
     "TemperItemsListingsBrowse",
-    `
-      SCENE_MANAGER:Show("tradinghouse")
-      __ui_raise(EVENT_OPEN_TRADING_HOUSE)
+    `${OPENS_STORE}
+      __ui_fire("TemperItemsListingsBrowseOpener", "OnClicked")
     `
   ),
 ]
