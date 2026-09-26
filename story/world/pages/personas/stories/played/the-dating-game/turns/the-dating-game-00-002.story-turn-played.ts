@@ -6,9 +6,8 @@ export const theDatingGame00002 = {
   slug: "the-dating-game-00-002",
   partOfCollections: ["story-played/the-dating-game"],
   position: 2,
-  ownLength: 493,
   unit: "unit/words",
-  prose: "txt",
-  characters: ["character-player/the-dating-game-alan", "character-other/the-dating-game-echo"],
-  turnStatus: "turn-status/player",
+  turnStatus: "turn-status/world-builder",
+  action:
+    "I eat a quiet breakfast, looking out over the valley, then get dressed in my favorite comfortable clothing: black shorts over black compression tights, light blue dusty Ecco slip-ons, and a loose grey athletic shirt, then go out my door, and start hiking up to Rock Canyon",
 } as const satisfies StoryTurnPlayed
