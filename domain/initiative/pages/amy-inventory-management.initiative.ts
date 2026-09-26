@@ -12,5 +12,9 @@ export const amyInventoryManagement = {
     { statement: "Guild trader automation is finished and tested in the game." },
     { statement: "Alan's inventory plan is worked through." },
     { statement: "Erin carries nothing that is neither useful to her nor in transit elsewhere." },
+    {
+      statement:
+        "Each Saturday, Inventory Management counts a character whose items belong and who saw a banker.",
+    },
   ],
 } as const satisfies Initiative
