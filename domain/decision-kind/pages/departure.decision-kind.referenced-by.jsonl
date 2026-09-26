@@ -5699,6 +5699,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-attribute/temper-attribute.page-type.ts","id":"01a0df4d-9bd9-7911-8b81-1b30b84f24e0"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts","id":"01a0df46-e492-7e35-a44f-6d004d07a1c9"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-character-source.domain.ts","id":"01a060ea-ac66-7120-a995-b58614b651f2"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts","id":"01a0df64-1044-741d-8fad-c665ba1d8093"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.ts","id":"01a0df56-c3db-7e0d-9336-655bfce43dde"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-target/temper-target.page-type.ts","id":"01a0df56-c3dc-7c2d-a644-96687915fe2c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.ts","id":"01a0de73-1713-7598-b66f-9183a99a877a"}
