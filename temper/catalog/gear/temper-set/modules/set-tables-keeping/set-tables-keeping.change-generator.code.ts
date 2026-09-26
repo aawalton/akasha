@@ -9,12 +9,12 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 import {
   type BodyAt,
   KEYED_PAGE_TYPES,
-  keysIn,
   type PagesOf,
   SETS_ROWS_AT,
   setRowsPagesIn,
   setsRowsBody,
 } from "akasha/temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.code.ts"
+import { keysIn } from "akasha/temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts"
 import { temperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.ts"
 
 export const TABLES_AT: readonly string[] = [SETS_ROWS_AT]
@@ -47,7 +47,10 @@ export function setTablesOver(reader: Reader): Tables {
   if (sets === 0) return { refused: "no set page was found" }
   let rows: ReturnType<typeof setsRowsBody>
   try {
-    rows = setsRowsBody(setRowsPagesIn(reader.pagesOf, reader.bodyAt), keysIn(reader.pagesOf))
+    rows = setsRowsBody(
+      setRowsPagesIn(reader.pagesOf, reader.bodyAt),
+      keysIn((pageTypeSlug) => reader.pagesOf(pageTypeSlug).values())
+    )
   } catch (thrown) {
     rows = { refused: saidBy(thrown) }
   }

@@ -4926,6 +4926,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","id":"01a0d8c5-6849-7240-a278-39392a74c2a7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.ts","id":"01a0d95d-99eb-74b8-9435-368d9872043c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.ts","id":"01a0da03-a0cd-797e-b485-2b88326e4044"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.ts","id":"01a0de32-9635-7c38-a44b-a268b1083d65"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-status.text-property.ts","id":"01a05fd1-d437-73eb-b682-b54edb64a96b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-armor-types.text-property.ts","id":"01a0d8bc-31d5-75b6-a61b-ed960bf34e03"}

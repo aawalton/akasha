@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"set-category-ids.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/activity-category-mapping/activity-category-mapping.module.code.ts","typed":true,"deferred":false}
