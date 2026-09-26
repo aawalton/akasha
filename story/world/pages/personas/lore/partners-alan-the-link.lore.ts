@@ -10,6 +10,5 @@ export const partnersAlanTheLink = {
   loreDisclosure: "lore-disclosure/game-master",
   facts: [
     "The Link forms with a companion whose bond reaches Linked, at 300 bond points and a mutual yes.",
-    "Crane is watching Alan.",
   ],
 } as const satisfies Lore
