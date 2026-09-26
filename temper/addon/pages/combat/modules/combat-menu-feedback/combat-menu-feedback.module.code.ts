@@ -31,36 +31,36 @@ function prefillMail(this: void): undefined {
   return undefined
 }
 
-function sendIngameMail(this: void): undefined {
+export function sendIngameMail(this: void): undefined {
   sendGold = 0
   SCENE_MANAGER.Show("mailSend")
   zo_callLater(prefillMail, 250)
   return undefined
 }
 
-function gotoEsoui(this: void): undefined {
+export function gotoEsoui(this: void): undefined {
   RequestOpenUnsafeURL(GetString(SI_TEMPER_COMBAT_FEEDBACK_ESOUIURL))
   return undefined
 }
 
-function gotoGithub(this: void): undefined {
+export function gotoGithub(this: void): undefined {
   RequestOpenUnsafeURL(GetString(SI_TEMPER_COMBAT_FEEDBACK_GITHUBURL))
   return undefined
 }
 
-function gotoDiscord(this: void): undefined {
+export function gotoDiscord(this: void): undefined {
   RequestOpenUnsafeURL(GetString(SI_TEMPER_COMBAT_FEEDBACK_DISCORDURL))
   return undefined
 }
 
-function donateGold(this: void): undefined {
+export function donateGold(this: void): undefined {
   sendGold = 5000
   SCENE_MANAGER.Show("mailSend")
   zo_callLater(prefillMail, 200)
   return undefined
 }
 
-function gotoEsouiDonation(this: void): undefined {
+export function gotoEsouiDonation(this: void): undefined {
   RequestOpenUnsafeURL(GetString(SI_TEMPER_COMBAT_DONATE_ESOUIURL))
   return undefined
 }

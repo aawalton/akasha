@@ -1,5 +1,13 @@
 import "akasha/temper/addon/pages/combat/modules/combat-ui-settings-menu/combat-ui-settings-menu.module.code.ts"
 
+import {
+  donateGold,
+  gotoDiscord,
+  gotoEsoui,
+  gotoEsouiDonation,
+  gotoGithub,
+  sendIngameMail,
+} from "akasha/temper/addon/pages/combat/modules/combat-menu-feedback/combat-menu-feedback.module.code.ts"
 import { getDb } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import type { BuffRowControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-buff-panel/combat-ui-buff-panel.module.code.ts"
 import {
@@ -23,6 +31,11 @@ import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-p
 import "akasha/temper/addon/pages/combat/modules/combat-public-api/combat-public-api.module.code.ts"
 import "akasha/temper/addon/pages/combat/combat-string-ids-menus/combat-string-ids-menus.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-ui-state-declarations/combat-ui-state-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/type/temper-custom-menu-global/temper-custom-menu-global.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-addon-screen/eso-addon-screen.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -193,5 +206,131 @@ function unitContextMenu(this: void, unitItem: SelectionRowControl, upInside: bo
   return undefined
 }
 
+const SOLINUR_GUILD_ID = 64745
+
+function showGuildInfo(this: void): undefined {
+  GUILD_BROWSER_GUILD_INFO_KEYBOARD.SetGuildToShow(SOLINUR_GUILD_ID)
+  MAIN_MENU_KEYBOARD.ShowSceneGroup("guildsSceneGroup", "linkGuildInfoKeyboard")
+  GUILD_BROWSER_GUILD_INFO_KEYBOARD.closeCallback = TemperCombat_Report.Toggle
+  return undefined
+}
+
+function notificationRead(this: void): undefined {
+  const db = getDb()
+  db.NotificationRead = db.currentNotificationVersion
+  updateReport(getCurrentFight())
+  return undefined
+}
+
+function disableNotifications(this: void): undefined {
+  const db = getDb()
+  db.NotificationRead = db.currentNotificationVersion
+  db.NotificationAllowed = false
+  updateReport(getCurrentFight())
+  return undefined
+}
+
+function notificationContextMenu(this: void, button: Control, upInside: boolean): undefined {
+  if (!upInside) {
+    return undefined
+  }
+
+  ClearMenu()
+
+  AddCustomMenuItem(GetString(SI_TEMPER_COMBAT_NOTIFICATION_GUILD), showGuildInfo)
+  AddCustomMenuItem(GetString(SI_TEMPER_COMBAT_NOTIFICATION_ACCEPT), notificationRead)
+  AddCustomMenuItem(GetString(SI_TEMPER_COMBAT_NOTIFICATION_DISCARD), disableNotifications)
+
+  ShowMenu(button)
+  AnchorMenu(button)
+  return undefined
+}
+
+function donateDialog(this: void): Control | undefined {
+  return TemperCombat_Report.GetNamedChild("_DonateDialog")
+}
+
+function closeDonateDialog(this: void): undefined {
+  donateDialog()?.SetHidden(true)
+  return undefined
+}
+
+function donateCrowns(this: void): undefined {
+  const dialog = donateDialog()
+  if (dialog === undefined) {
+    return undefined
+  }
+  const editbox = dialog.GetNamedChild("AccountInfo")?.GetNamedChild<EditControl>("EditBox")
+
+  dialog.SetHidden(false)
+
+  dialog.GetNamedChild("Button")?.SetHandler("OnClicked", closeDonateDialog, "TemperCombat")
+  editbox?.SetText("@Solinur")
+  editbox?.TakeFocus()
+  editbox?.SelectAll()
+  return undefined
+}
+
+function feedbackContextMenu(this: void, button: Control, upInside: boolean): undefined {
+  if (!upInside) {
+    return undefined
+  }
+
+  ClearMenu()
+
+  const isEUServer = GetWorldName() === "EU Megaserver"
+  const euOnly = (label: string): string =>
+    isEUServer ? label : ZO_CachedStrFormat(SI_TEMPER_COMBAT_FEEDBACK_EUONLY_FORMAT, label)
+
+  const feedbackSubItems: TemperCustomMenuEntry[] = [
+    {
+      label: euOnly(GetString(SI_TEMPER_COMBAT_FEEDBACK_MAIL)),
+      callback: sendIngameMail,
+      disabled: !isEUServer,
+    },
+    { label: GetString(SI_TEMPER_COMBAT_FEEDBACK_ESOUI), callback: gotoEsoui },
+    { label: GetString(SI_TEMPER_COMBAT_FEEDBACK_GITHUB), callback: gotoGithub },
+    { label: GetString(SI_TEMPER_COMBAT_FEEDBACK_DISCORD), callback: gotoDiscord },
+  ]
+
+  const donationSubItems: TemperCustomMenuEntry[] = [
+    {
+      label: euOnly(GetString(SI_TEMPER_COMBAT_DONATE_GOLD)),
+      callback: donateGold,
+      disabled: !isEUServer,
+    },
+    {
+      label: euOnly(GetString(SI_TEMPER_COMBAT_DONATE_CROWNS)),
+      callback: donateCrowns,
+      disabled: !isEUServer,
+    },
+    { label: GetString(SI_TEMPER_COMBAT_DONATE_ESOUI), callback: gotoEsouiDonation },
+  ]
+
+  const itemYPad = 2
+  AddCustomSubMenuItem(
+    GetString(SI_TEMPER_COMBAT_FEEDBACK_SEND),
+    feedbackSubItems,
+    undefined,
+    undefined,
+    undefined,
+    itemYPad
+  )
+  AddCustomSubMenuItem(
+    GetString(SI_TEMPER_COMBAT_DONATE),
+    donationSubItems,
+    undefined,
+    undefined,
+    undefined,
+    itemYPad
+  )
+
+  ShowMenu(button)
+  AnchorMenu(button)
+  return undefined
+}
+
 TemperCombat.BuffContextMenu = buffContextMenu
 TemperCombat.UnitContextMenu = unitContextMenu
+TemperCombat.NotificationContextMenu = notificationContextMenu
+TemperCombat.FeedbackContextMenu = feedbackContextMenu
