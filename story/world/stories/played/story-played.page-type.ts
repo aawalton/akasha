@@ -27,6 +27,8 @@ export const storyPlayed = {
     "page-type/story-turn-played",
     "relation-property/world",
     "multi-relation-property/panels",
+    "text-property/chapter-break",
+    "text-property/coordinator-agent",
   ],
   decisions: [
     {
@@ -47,5 +49,8 @@ export const storyPlayed = {
   schema: "jsonl",
   properties: [
     { pageProperty: "multi-relation-property/panels", required: false, many: true, maxCount: null },
+    { pageProperty: "text-property/external-id", required: false, many: false },
+    { pageProperty: "text-property/coordinator-agent", required: false, many: false },
+    { pageProperty: "text-property/chapter-break", required: false, many: false },
   ],
 } as const satisfies PageType

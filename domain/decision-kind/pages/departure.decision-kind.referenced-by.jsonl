@@ -3661,7 +3661,6 @@
 {"propertySlug":"decision-kind","path":"story/game/game-panel/properties/drawn-in.relation-property.ts","id":"01a0c4c8-fe4c-7fa4-ae78-af86f4bbc920"}
 {"propertySlug":"decision-kind","path":"story/game/game-panel/properties/drawn.file-property.ts","id":"01a0c4aa-d1e0-72a8-83ce-aa0c398fe652"}
 {"propertySlug":"decision-kind","path":"story/game/properties/card-vocabulary.text-property.ts","id":"01a0c490-93a4-7348-934e-965d459c9515"}
-{"propertySlug":"decision-kind","path":"story/game/properties/chapter-break.text-property.ts","id":"01a0d4e1-a12d-7dcc-9da9-a8637b4b4192"}
 {"propertySlug":"decision-kind","path":"story/game/properties/game-engine.text-property.ts","id":"01a0673c-8e0e-7000-9766-2ad03b196843"}
 {"propertySlug":"decision-kind","path":"story/game/story-game.page-type.ts","id":"01a0673e-1000-7005-9766-e0a425ef3a66"}
 {"propertySlug":"decision-kind","path":"story/item/item.page-type.ts","id":"01a0ca42-3962-7211-864c-1c57568c322b"}
@@ -3762,6 +3761,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-shell/played-shell.module.ts","id":"01a0a164-5a91-7e83-b7f5-92c604ad817e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.ts","id":"01a0de4c-3554-7639-96b1-340c959aae40"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/prose-beside/prose-beside.module.ts","id":"01a0a161-77ae-7c52-b1d4-6e0f8a35c92b"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/properties/chapter-break.text-property.ts","id":"01a0d4e1-a12d-7dcc-9da9-a8637b4b4192"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/panels.multi-relation-property.ts","id":"01a0de26-1951-7113-998f-3eb408acf2e1"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/properties/prose.file-property.ts","id":"01a06424-329c-73d2-a881-67d728085a28"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}

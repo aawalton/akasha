@@ -15,7 +15,6 @@ export const storyGame = {
     "select-property/controlled-entity-kind",
     "select-property/mechanics-weight",
     "select-property/resolution",
-    "text-property/coordinator-agent",
     "text-property/game-engine",
     "text-property/genre",
     "text-property/premise",
@@ -24,7 +23,6 @@ export const storyGame = {
     "text-property/tone",
     "text-property/card-vocabulary",
     "page-type/game-panel",
-    "text-property/chapter-break",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

@@ -5,13 +5,13 @@ export const chapterBreak = {
   type: "page-type/text-property",
   slug: "chapter-break",
   propertySlug: "chapter-break",
-  definition: "what ends a chapter of a game's story",
+  definition: "what ends a chapter of a story played",
   maxLength: 200,
   nameFormat: null,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game names what ends a chapter, and its game master closes one there.",
+      statement: "A story played names what ends a chapter, and its game master closes one there.",
     },
   ],
   types: "ts",
