@@ -18,7 +18,7 @@ export const metricFormulaWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An object or a list is written one entry to a line.",
+      statement: "The formatter has the last word on how the body is laid out.",
     },
   ],
 } as const satisfies Module
