@@ -1,5 +1,35 @@
 {
   "build": {
+    "jewelry": {
+      "1": {
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "2": {
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      },
+      "3": {
+        "displayText": "Shattering",
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "isEmpty": false
+      }
+    },
+    "companionId": 5,
     "armor": {
       "1": {
         "displayText": "Medium, Focused",
@@ -65,37 +95,7 @@
         "isEmpty": false
       }
     },
-    "mainHandWeaponType": 4,
     "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA",
-    "jewelry": {
-      "1": {
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "2": {
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      },
-      "3": {
-        "displayText": "Shattering",
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "isEmpty": false
-      }
-    },
     "skillAbilityIds": {
       "1": 152624,
       "2": 164291,
@@ -104,7 +104,6 @@
       "5": 0,
       "6": 164191
     },
-    "companionId": 5,
     "weapons": {
       "1": {
         "displayText": "Greatsword, Shattering",
@@ -124,7 +123,8 @@
         },
         "isEmpty": true
       }
-    }
+    },
+    "mainHandWeaponType": 4
   },
   "targetBuildHash": "AjEANJEkSRJE8TxPDw8PCvO5BzAADgA",
   "level": 20,
