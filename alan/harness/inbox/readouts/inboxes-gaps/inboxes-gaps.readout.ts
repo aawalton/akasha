@@ -8,7 +8,7 @@ export const inboxesGaps = {
   label: "Gaps",
   unit: "gaps",
   place: 5,
-  scale: "readout-scale/gap-count",
+  scale: "readout-scale/inbox-count",
   groups: ["readout-group/inboxes"],
   wireKey: "gaps",
   servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
@@ -27,11 +27,6 @@ export const inboxesGaps = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The gaps come just before the refusals in the group.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The gaps take the gap count scale rather than the daily inbox scale, so a thousand gaps are red.",
     },
     {
       decisionKind: "decision-kind/departure",

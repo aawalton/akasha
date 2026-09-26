@@ -8,7 +8,7 @@ export const inboxesTasks = {
   label: "Tasks",
   unit: "tasks",
   place: 2,
-  scale: "readout-scale/daily-inbox",
+  scale: "readout-scale/inbox-count",
   groups: ["readout-group/inboxes"],
   wireKey: "tasks",
   servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],

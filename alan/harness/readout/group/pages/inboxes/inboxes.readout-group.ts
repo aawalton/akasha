@@ -16,8 +16,7 @@ export const inboxes = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A daily inbox of at least a hundred readings is black rather than a reading gone missing.",
+      statement: "An inbox of at least ten thousand is black rather than a reading gone missing.",
     },
     {
       decisionKind: "decision-kind/departure",

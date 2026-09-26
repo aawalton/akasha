@@ -8,7 +8,7 @@ export const inboxesEmail = {
   label: "Email",
   unit: "messages",
   place: 1,
-  scale: "readout-scale/lowest-inbox-count",
+  scale: "readout-scale/inbox-count",
   groups: ["readout-group/inboxes"],
   wireKey: "email",
   servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],

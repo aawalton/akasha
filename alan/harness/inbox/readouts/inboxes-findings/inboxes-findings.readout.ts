@@ -8,7 +8,7 @@ export const inboxesFindings = {
   label: "Findings",
   unit: "findings",
   place: 4,
-  scale: "readout-scale/daily-inbox",
+  scale: "readout-scale/inbox-count",
   groups: ["readout-group/inboxes"],
   wireKey: "findings",
   servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],
@@ -27,11 +27,6 @@ export const inboxesFindings = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The findings come just before the gaps in the group.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "The findings take the daily inbox scale, so one finding is yellow and ten are red.",
     },
     {
       decisionKind: "decision-kind/departure",

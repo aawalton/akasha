@@ -35,7 +35,7 @@ const READOUT_ROWS = [
     label: "Email",
     unit: "messages",
     place: 1,
-    scale: "lowest-inbox-count",
+    scale: "inbox-count",
     wireKey: "email",
     groups: [GROUP],
   },
@@ -44,7 +44,7 @@ const READOUT_ROWS = [
     label: "Tasks",
     unit: "tasks",
     place: 2,
-    scale: "daily-inbox",
+    scale: "inbox-count",
     wireKey: "tasks",
     groups: [GROUP],
   },
@@ -53,7 +53,7 @@ const READOUT_ROWS = [
     label: "Temper",
     unit: "tasks",
     place: 3,
-    scale: "daily-inbox",
+    scale: "inbox-count",
     wireKey: "temperTasks",
     groups: [GROUP],
   },
@@ -62,7 +62,7 @@ const READOUT_ROWS = [
     label: "Findings",
     unit: "findings",
     place: 4,
-    scale: "daily-inbox",
+    scale: "inbox-count",
     wireKey: "findings",
     groups: [GROUP],
   },
@@ -71,7 +71,7 @@ const READOUT_ROWS = [
     label: "Gaps",
     unit: "gaps",
     place: 5,
-    scale: "gap-count",
+    scale: "inbox-count",
     wireKey: "gaps",
     groups: [GROUP],
   },
@@ -80,41 +80,19 @@ const READOUT_ROWS = [
     label: "Refusals",
     unit: "refusals",
     place: 6,
-    scale: "refusal-count",
+    scale: "inbox-count",
     wireKey: "refusals",
     groups: [GROUP],
   },
 ]
 
 const SCALE_ROWS: Record<string, Record<string, unknown>> = {
-  "daily-inbox": {
-    slug: "daily-inbox",
-    blackAt: 100,
-    redAt: 10,
-    yellowAt: 1,
-    blueAt: 0,
-  },
-  "lowest-inbox-count": {
-    slug: "lowest-inbox-count",
-    blackAt: 100,
-    redAt: 20,
-    yellowAt: 10,
-    greenAt: 1,
-    blueAt: 0,
-  },
-  "gap-count": {
-    slug: "gap-count",
-    blackAt: 2000,
-    redAt: 500,
-    yellowAt: 100,
-    greenAt: 1,
-    blueAt: 0,
-  },
-  "refusal-count": {
-    slug: "refusal-count",
+  "inbox-count": {
+    slug: "inbox-count",
     blackAt: 10000,
     redAt: 1000,
-    yellowAt: 100,
+    orangeAt: 100,
+    yellowAt: 10,
     greenAt: 1,
     blueAt: 0,
   },
@@ -240,33 +218,33 @@ test("the rings come back in the place order the readout pages state", async () 
   ])
 })
 
-test("the refusals are the last ring, coloured by the refusal count scale", async () => {
+test("the refusals are the last ring, coloured by the inbox count scale", async () => {
   await carryAll()
   const refusals = (await tile.drawn())[5]
   expect(refusals?.inbox).toBe("refusals")
   expect(refusals?.reading).toBe("4200")
   expect(refusals?.tier).toBe("red")
-  expect(refusals?.nextTier).toBe("yellow")
+  expect(refusals?.nextTier).toBe("orange")
   await carryNow("inboxes-refusals", 99)
-  expect((await tile.ringFor("refusals"))?.tier).toBe("green")
+  expect((await tile.ringFor("refusals"))?.tier).toBe("yellow")
 })
 
-test("the gaps are the fifth ring, coloured by the gap count scale", async () => {
+test("the gaps are the fifth ring, coloured by the inbox count scale", async () => {
   await carryAll()
   const gaps = (await tile.drawn())[4]
   expect(gaps?.inbox).toBe("gaps")
   expect(gaps?.reading).toBe("993")
-  expect(gaps?.tier).toBe("red")
+  expect(gaps?.tier).toBe("orange")
   expect(gaps?.nextTier).toBe("yellow")
   await carryNow("inboxes-gaps", 99)
-  expect((await tile.ringFor("gaps"))?.tier).toBe("green")
+  expect((await tile.ringFor("gaps"))?.tier).toBe("yellow")
 })
 
-test("the findings are the fourth ring, coloured by the daily inbox scale", async () => {
+test("the findings are the fourth ring, coloured by the inbox count scale", async () => {
   await carryAll()
   const findings = (await tile.drawn())[3]
   expect(findings?.inbox).toBe("findings")
-  expect(findings?.tier).toBe("yellow")
+  expect(findings?.tier).toBe("green")
   expect(findings?.nextTier).toBe("blue")
   await carryNow("inboxes-findings", 0)
   expect((await tile.ringFor("findings"))?.tier).toBe("blue")
@@ -310,15 +288,33 @@ test("an inbox at empty is blue, with no tier above it", async () => {
 test("a falling scale colours a rising count worse rather than better", async () => {
   await carryAll()
   const [, tasks, temperTasks] = await tile.drawn()
-  expect(tasks?.tier).toBe("yellow")
-  expect(temperTasks?.tier).toBe("red")
+  expect(tasks?.tier).toBe("green")
+  expect(temperTasks?.tier).toBe("yellow")
 })
 
-test("an inbox over a hundred is black rather than a reading gone missing", async () => {
-  await carryNow("inboxes-tasks", 140)
+test("each rung above green is ten times the one below it", async () => {
+  for (const [count, tier] of [
+    [0, "blue"],
+    [1, "green"],
+    [9, "green"],
+    [10, "yellow"],
+    [99, "yellow"],
+    [100, "orange"],
+    [999, "orange"],
+    [1000, "red"],
+    [9999, "red"],
+    [10000, "black"],
+  ] as const) {
+    await carryNow("inboxes-tasks", count)
+    expect((await tile.ringFor("tasks"))?.tier).toBe(tier)
+  }
+})
+
+test("an inbox of ten thousand or more is black rather than a reading gone missing", async () => {
+  await carryNow("inboxes-tasks", 14000)
   const one = await tile.ringFor("tasks")
   expect(one?.tier).toBe("black")
-  expect(one?.reading).toBe("140")
+  expect(one?.reading).toBe("14000")
 })
 
 test("a count of zero and a count never carried are told apart on the wire", async () => {
@@ -336,7 +332,7 @@ test("the tier a falling reading is next to reach is the better one", async () =
   await carryAll()
   const [, tasks, temperTasks] = await tile.drawn()
   expect(tasks?.nextTier).toBe("blue")
-  expect(temperTasks?.nextTier).toBe("yellow")
+  expect(temperTasks?.nextTier).toBe("green")
 })
 
 test("how far a falling reading has come is the fraction of its band it has come down", async () => {

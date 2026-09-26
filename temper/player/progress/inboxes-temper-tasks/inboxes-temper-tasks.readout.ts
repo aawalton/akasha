@@ -8,7 +8,7 @@ export const inboxesTemperTasks = {
   label: "Temper",
   unit: "tasks",
   place: 3,
-  scale: "readout-scale/daily-inbox",
+  scale: "readout-scale/inbox-count",
   groups: ["readout-group/inboxes"],
   wireKey: "temperTasks",
   servedBy: ["module/inbox-reading", "service-workstation/inbox-relay-service"],

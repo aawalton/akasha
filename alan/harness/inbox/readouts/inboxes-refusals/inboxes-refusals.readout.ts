@@ -8,7 +8,7 @@ export const inboxesRefusals = {
   label: "Refusals",
   unit: "refusals",
   place: 6,
-  scale: "readout-scale/refusal-count",
+  scale: "readout-scale/inbox-count",
   groups: ["readout-group/inboxes"],
   wireKey: "refusals",
   servedBy: ["module/inbox-reading"],
