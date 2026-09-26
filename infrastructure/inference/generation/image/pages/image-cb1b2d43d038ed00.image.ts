@@ -4,4 +4,14 @@ export const imageCb1b2d43d038ed00 = {
   id: "019f1838-ae63-7e99-a8bb-b8b23caf4b31",
   type: "page-type/image",
   slug: "image-cb1b2d43d038ed00",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "an 18-year-old human young woman, petite and short with a slender frame, a thin fine lovely face with delicate refined features, vivid bright red hair, natural soft warm blue eyes that look believably human and not glowing or oversaturated, fair skin lightly sun-warmed and faintly freckled, arms subtly toned from training, youthful and pretty with the upright poised bearing of a princess, wearing an elegant integrated deep burgundy dress with a fitted laced princess-cut bodice and gold embroidered trim, short puffed sleeves, a modest neckline with covered shoulders, the dress reading as one cohesive tailored garment and not a separate blouse, ankle-length skirt, her bright red hair half-up with soft waves, caught in a bright genuine warm laugh, eyes alight with spirited delight, lively and radiant, turning toward the viewer, the warm spark of Lyonette the Fiery, inside a warm wooden medieval fantasy inn, hearth firelight, close upper-body portrait, painterly character portrait, richly detailed, sharp focus on her eyes, warm cinematic lighting",
+  seed: 41180011,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

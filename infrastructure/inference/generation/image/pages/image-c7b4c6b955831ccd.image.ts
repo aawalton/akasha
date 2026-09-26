@@ -5,4 +5,14 @@ export const imageC7b4c6b955831ccd = {
   type: "page-type/image",
   slug: "image-c7b4c6b955831ccd",
   grade: "B+",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "nude woman behind fogged shower glass, form softened by condensation, water droplets, soft light, beautiful young woman, photorealistic photograph, natural skin texture, soft flattering light, film grain, tasteful fine-art nude photography",
+  seed: 1131461441,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

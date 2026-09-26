@@ -5,4 +5,14 @@ export const imageC06c7bc8f586d0ff = {
   type: "page-type/image",
   slug: "image-c06c7bc8f586d0ff",
   grade: "A+",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "sleepy-eyed woman in a bias-cut champagne slip, stretching by a tall window with a soft morning smile, Parisian apartment, dawn light, photorealistic photograph, natural skin texture, film grain",
+  seed: 1946984367,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
