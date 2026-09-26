@@ -1,6 +1,6 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts"
 import "akasha/temper/addon/pages/combat/combat-alerts-declarations/combat-alerts-declarations.type-declaration.d.ts"
-import "akasha/temper/addon/pages/combat/combat-alerts-panels-declarations/combat-alerts-panels-declarations.type-declaration.d.ts"
+import "akasha/temper/addon/pages/combat/combat-alerts-panels/declarations/combat-alerts-panels-declarations.type-declaration.d.ts"
 import { dbg } from "akasha/temper/addon/pages/combat/modules/combat-alerts-boss-api/combat-alerts-boss-api.module.code.ts"
 import {
   BOSS_HEALTHS,
