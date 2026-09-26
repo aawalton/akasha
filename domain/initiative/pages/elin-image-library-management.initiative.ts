@@ -6,5 +6,8 @@ export const elinImageLibraryManagement = {
   slug: "elin-image-library-management",
   domain: "page-type/image",
   persona: "persona/elin",
-  intentStack: [],
+  intentStack: [
+    { statement: "Every image states how it was made, well enough to make it again." },
+    { statement: "No generation run is kept apart from the image it made." },
+  ],
 } as const satisfies Initiative
