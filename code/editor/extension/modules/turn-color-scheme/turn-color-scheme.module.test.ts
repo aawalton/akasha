@@ -16,8 +16,6 @@ import { z } from "zod"
 const SHADES_SCHEMA = z.object({
   dark: z.string(),
   light: z.string(),
-  highContrast: z.string(),
-  highContrastLight: z.string(),
 })
 
 const MANIFEST_SCHEMA = z.object({
@@ -66,7 +64,7 @@ test("a color the manifest contributes is the hex the palette answers that name 
     const hex = colorNamed(one.id.slice(COLOR_ID_PREFIX.length)) ?? ""
     expect({ id: one.id, defaults: one.defaults }).toEqual({
       id: one.id,
-      defaults: { dark: hex, light: hex, highContrast: hex, highContrastLight: hex },
+      defaults: { dark: hex, light: hex },
     })
   }
 })
