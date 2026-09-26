@@ -5,7 +5,7 @@ import type { Rolls } from "akasha/story/world/stories/played/turns/properties/r
 import type { TurnStatus } from "akasha/story/world/stories/played/turns/properties/turn-status.relation-property.types.ts"
 
 export type StoryTurnPlayed = Collection & {
-  prose: Prose
+  prose?: Prose
   rolls?: Rolls
   characters?: Characters
   turnStatus: TurnStatus

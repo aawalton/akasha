@@ -10,7 +10,7 @@ export const storyTurnPlayed = {
   runsTabooCheck: false,
   parts: ["file-property/rolls", "page-type/turn-status", "relation-property/turn-status"],
   properties: [
-    { pageProperty: "file-property/prose", required: true, many: false },
+    { pageProperty: "file-property/prose", required: false, many: false },
     { pageProperty: "file-property/rolls", required: false, many: false, default: "jsonl" },
     {
       pageProperty: "multi-relation-property/characters",
