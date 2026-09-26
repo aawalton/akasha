@@ -187,6 +187,7 @@ export const temperAddonCombat = {
     "module/data-encode-self-test",
     "module/data-encode-surface",
     "module/data-encode-types",
+    "module/combat-legacy-cp-strings",
   ],
   interfaces: [
     "eso-interface/combat-templates-layout",
