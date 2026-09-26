@@ -11,4 +11,5 @@ export const templarDawnsWrath = {
   maxRank: 50,
   category: "temper-skill-line-category/character-class",
   class: "temper-class/templar",
+  hashPlace: 5,
 } as const satisfies TemperSkillLine

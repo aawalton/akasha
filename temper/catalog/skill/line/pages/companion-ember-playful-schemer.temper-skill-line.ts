@@ -10,4 +10,5 @@ export const companionEmberPlayfulSchemer = {
   esoSkillLineId: 198,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 85,
 } as const satisfies TemperSkillLine

@@ -10,4 +10,5 @@ export const vengeanceNightbladeAssassination = {
   esoSkillLineId: 300,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 110,
 } as const satisfies TemperSkillLine

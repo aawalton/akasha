@@ -19,7 +19,9 @@ export const temperSkillLine = {
     { pageProperty: "number-property/max-rank", required: true, many: false },
     { pageProperty: "relation-property/skill-line-class", required: false, many: false },
     { pageProperty: "relation-property/skill-line-category", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

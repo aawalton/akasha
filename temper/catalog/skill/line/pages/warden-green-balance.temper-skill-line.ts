@@ -11,4 +11,5 @@ export const wardenGreenBalance = {
   maxRank: 50,
   category: "temper-skill-line-category/character-class",
   class: "temper-class/warden",
+  hashPlace: 2,
 } as const satisfies TemperSkillLine

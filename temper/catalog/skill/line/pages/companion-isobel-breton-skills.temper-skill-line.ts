@@ -10,4 +10,5 @@ export const companionIsobelBretonSkills = {
   esoSkillLineId: 203,
   maxRank: 1,
   category: "temper-skill-line-category/companion",
+  hashPlace: 90,
 } as const satisfies TemperSkillLine

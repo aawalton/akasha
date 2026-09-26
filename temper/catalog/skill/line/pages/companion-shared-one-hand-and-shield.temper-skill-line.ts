@@ -10,4 +10,5 @@ export const companionSharedOneHandAndShield = {
   esoSkillLineId: 181,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 64,
 } as const satisfies TemperSkillLine

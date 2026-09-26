@@ -10,4 +10,5 @@ export const worldVampire = {
   esoSkillLineId: 51,
   maxRank: 10,
   category: "temper-skill-line-category/world",
+  hashPlace: 35,
 } as const satisfies TemperSkillLine

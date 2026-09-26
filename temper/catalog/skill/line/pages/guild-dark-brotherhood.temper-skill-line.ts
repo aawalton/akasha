@@ -10,4 +10,5 @@ export const guildDarkBrotherhood = {
   esoSkillLineId: 118,
   maxRank: 12,
   category: "temper-skill-line-category/guild",
+  hashPlace: 37,
 } as const satisfies TemperSkillLine

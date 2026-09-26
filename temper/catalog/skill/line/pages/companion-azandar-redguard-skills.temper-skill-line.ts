@@ -10,4 +10,5 @@ export const companionAzandarRedguardSkills = {
   esoSkillLineId: 249,
   maxRank: 1,
   category: "temper-skill-line-category/companion",
+  hashPlace: 98,
 } as const satisfies TemperSkillLine

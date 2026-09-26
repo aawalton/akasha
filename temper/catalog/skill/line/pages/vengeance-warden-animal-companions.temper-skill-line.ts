@@ -10,4 +10,5 @@ export const vengeanceWardenAnimalCompanions = {
   esoSkillLineId: 309,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 119,
 } as const satisfies TemperSkillLine

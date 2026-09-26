@@ -10,4 +10,5 @@ export const worldWerewolf = {
   esoSkillLineId: 50,
   maxRank: 10,
   category: "temper-skill-line-category/world",
+  hashPlace: 36,
 } as const satisfies TemperSkillLine

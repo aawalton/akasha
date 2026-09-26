@@ -11,4 +11,5 @@ export const necromancerBoneTyrant = {
   maxRank: 50,
   category: "temper-skill-line-category/character-class",
   class: "temper-class/necromancer",
+  hashPlace: 17,
 } as const satisfies TemperSkillLine

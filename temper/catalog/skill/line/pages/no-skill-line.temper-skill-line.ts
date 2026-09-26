@@ -10,4 +10,5 @@ export const noSkillLine = {
   esoSkillLineId: 0,
   maxRank: 0,
   category: "temper-skill-line-category/none",
+  hashPlace: 0,
 } as const satisfies TemperSkillLine

@@ -10,4 +10,5 @@ export const vengeanceDragonknightDraconicPower = {
   esoSkillLineId: 298,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 108,
 } as const satisfies TemperSkillLine

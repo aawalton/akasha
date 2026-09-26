@@ -11,4 +11,5 @@ export const templarRestoringLight = {
   maxRank: 50,
   category: "temper-skill-line-category/character-class",
   class: "temper-class/templar",
+  hashPlace: 6,
 } as const satisfies TemperSkillLine

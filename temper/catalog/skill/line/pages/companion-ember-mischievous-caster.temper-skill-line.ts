@@ -10,4 +10,5 @@ export const companionEmberMischievousCaster = {
   esoSkillLineId: 197,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 84,
 } as const satisfies TemperSkillLine

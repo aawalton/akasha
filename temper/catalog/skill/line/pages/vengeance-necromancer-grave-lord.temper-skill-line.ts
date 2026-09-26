@@ -10,4 +10,5 @@ export const vengeanceNecromancerGraveLord = {
   esoSkillLineId: 312,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 122,
 } as const satisfies TemperSkillLine

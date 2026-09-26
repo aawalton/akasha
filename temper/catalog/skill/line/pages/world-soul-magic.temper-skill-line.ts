@@ -10,4 +10,5 @@ export const worldSoulMagic = {
   esoSkillLineId: 72,
   maxRank: 6,
   category: "temper-skill-line-category/world",
+  hashPlace: 34,
 } as const satisfies TemperSkillLine

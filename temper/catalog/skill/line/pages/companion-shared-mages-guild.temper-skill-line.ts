@@ -10,4 +10,5 @@ export const companionSharedMagesGuild = {
   esoSkillLineId: 190,
   maxRank: 10,
   category: "temper-skill-line-category/companion",
+  hashPlace: 73,
 } as const satisfies TemperSkillLine

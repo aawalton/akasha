@@ -10,4 +10,5 @@ export const guildFightersGuild = {
   esoSkillLineId: 45,
   maxRank: 10,
   category: "temper-skill-line-category/guild",
+  hashPlace: 38,
 } as const satisfies TemperSkillLine

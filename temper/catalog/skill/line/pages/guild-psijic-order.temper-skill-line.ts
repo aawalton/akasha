@@ -10,4 +10,5 @@ export const guildPsijicOrder = {
   esoSkillLineId: 130,
   maxRank: 10,
   category: "temper-skill-line-category/guild",
+  hashPlace: 40,
 } as const satisfies TemperSkillLine

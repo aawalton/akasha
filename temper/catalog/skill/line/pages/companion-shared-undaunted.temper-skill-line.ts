@@ -10,4 +10,5 @@ export const companionSharedUndaunted = {
   esoSkillLineId: 191,
   maxRank: 10,
   category: "temper-skill-line-category/companion",
+  hashPlace: 74,
 } as const satisfies TemperSkillLine

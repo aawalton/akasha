@@ -10,4 +10,5 @@ export const companionTanlorinHighElfSkills = {
   esoSkillLineId: 267,
   maxRank: 1,
   category: "temper-skill-line-category/companion",
+  hashPlace: 102,
 } as const satisfies TemperSkillLine

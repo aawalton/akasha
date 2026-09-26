@@ -10,4 +10,5 @@ export const companionBastianImperialSkills = {
   esoSkillLineId: 192,
   maxRank: 1,
   category: "temper-skill-line-category/companion",
+  hashPlace: 78,
 } as const satisfies TemperSkillLine

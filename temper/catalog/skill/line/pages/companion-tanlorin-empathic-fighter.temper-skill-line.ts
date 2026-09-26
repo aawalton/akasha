@@ -10,4 +10,5 @@ export const companionTanlorinEmpathicFighter = {
   esoSkillLineId: 266,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 101,
 } as const satisfies TemperSkillLine

@@ -10,4 +10,5 @@ export const companionAzandarQuillKnight = {
   esoSkillLineId: 247,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 96,
 } as const satisfies TemperSkillLine

@@ -11,4 +11,5 @@ export const nightbladeShadow = {
   maxRank: 50,
   category: "temper-skill-line-category/character-class",
   class: "temper-class/nightblade",
+  hashPlace: 11,
 } as const satisfies TemperSkillLine

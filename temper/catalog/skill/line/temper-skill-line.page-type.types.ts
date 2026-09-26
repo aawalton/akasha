@@ -1,3 +1,4 @@
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { EsoSkillLineId } from "akasha/temper/catalog/skill/line/properties/eso-skill-line-id.number-property.types.ts"
 import type { MaxRank } from "akasha/temper/catalog/skill/line/properties/max-rank.number-property.types.ts"
 import type { SkillLineCategory } from "akasha/temper/catalog/skill/line/properties/skill-line-category.relation-property.types.ts"
@@ -13,4 +14,5 @@ export type TemperSkillLine = TemperCatalogThing & {
   maxRank: MaxRank
   class?: SkillLineClass
   category: SkillLineCategory
+  hashPlace: HashPlace
 }

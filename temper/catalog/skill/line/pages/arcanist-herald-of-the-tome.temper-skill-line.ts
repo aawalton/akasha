@@ -11,4 +11,5 @@ export const arcanistHeraldOfTheTome = {
   maxRank: 50,
   category: "temper-skill-line-category/character-class",
   class: "temper-class/arcanist",
+  hashPlace: 19,
 } as const satisfies TemperSkillLine

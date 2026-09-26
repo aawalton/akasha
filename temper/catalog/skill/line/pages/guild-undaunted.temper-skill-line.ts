@@ -10,4 +10,5 @@ export const guildUndaunted = {
   esoSkillLineId: 55,
   maxRank: 10,
   category: "temper-skill-line-category/guild",
+  hashPlace: 42,
 } as const satisfies TemperSkillLine

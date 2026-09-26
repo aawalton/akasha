@@ -10,4 +10,5 @@ export const vengeanceSorcererDarkMagic = {
   esoSkillLineId: 307,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 117,
 } as const satisfies TemperSkillLine

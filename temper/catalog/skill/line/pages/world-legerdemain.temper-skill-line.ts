@@ -10,4 +10,5 @@ export const worldLegerdemain = {
   esoSkillLineId: 111,
   maxRank: 20,
   category: "temper-skill-line-category/world",
+  hashPlace: 32,
 } as const satisfies TemperSkillLine

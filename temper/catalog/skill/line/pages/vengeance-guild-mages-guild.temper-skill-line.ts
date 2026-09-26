@@ -10,4 +10,5 @@ export const vengeanceGuildMagesGuild = {
   esoSkillLineId: 331,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 137,
 } as const satisfies TemperSkillLine

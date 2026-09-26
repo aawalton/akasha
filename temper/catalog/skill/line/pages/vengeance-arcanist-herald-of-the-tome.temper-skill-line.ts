@@ -10,4 +10,5 @@ export const vengeanceArcanistHeraldOfTheTome = {
   esoSkillLineId: 317,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 127,
 } as const satisfies TemperSkillLine

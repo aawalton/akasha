@@ -10,4 +10,5 @@ export const companionSharedLightArmor = {
   esoSkillLineId: 186,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 69,
 } as const satisfies TemperSkillLine

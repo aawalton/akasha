@@ -10,4 +10,5 @@ export const vengeanceTemplarRestoringLight = {
   esoSkillLineId: 305,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 115,
 } as const satisfies TemperSkillLine

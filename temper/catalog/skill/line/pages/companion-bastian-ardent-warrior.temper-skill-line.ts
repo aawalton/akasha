@@ -10,4 +10,5 @@ export const companionBastianArdentWarrior = {
   esoSkillLineId: 174,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 75,
 } as const satisfies TemperSkillLine

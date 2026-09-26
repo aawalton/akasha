@@ -10,4 +10,5 @@ export const companionZerithRemedyOfAtonement = {
   esoSkillLineId: 261,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 104,
 } as const satisfies TemperSkillLine

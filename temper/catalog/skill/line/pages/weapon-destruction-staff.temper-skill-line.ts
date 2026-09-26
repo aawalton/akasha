@@ -10,4 +10,5 @@ export const weaponDestructionStaff = {
   esoSkillLineId: 33,
   maxRank: 50,
   category: "temper-skill-line-category/weapon",
+  hashPlace: 26,
 } as const satisfies TemperSkillLine

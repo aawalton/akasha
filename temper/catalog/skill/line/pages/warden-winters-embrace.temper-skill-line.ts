@@ -11,4 +11,5 @@ export const wardenWintersEmbrace = {
   maxRank: 50,
   category: "temper-skill-line-category/character-class",
   class: "temper-class/warden",
+  hashPlace: 3,
 } as const satisfies TemperSkillLine

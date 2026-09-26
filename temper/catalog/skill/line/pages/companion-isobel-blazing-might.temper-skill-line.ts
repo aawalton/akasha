@@ -10,4 +10,5 @@ export const companionIsobelBlazingMight = {
   esoSkillLineId: 200,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 87,
 } as const satisfies TemperSkillLine

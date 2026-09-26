@@ -10,4 +10,5 @@ export const craftBlacksmithing = {
   esoSkillLineId: 79,
   maxRank: 50,
   category: "temper-skill-line-category/craft",
+  hashPlace: 57,
 } as const satisfies TemperSkillLine

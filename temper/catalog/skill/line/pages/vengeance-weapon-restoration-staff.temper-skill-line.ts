@@ -10,4 +10,5 @@ export const vengeanceWeaponRestorationStaff = {
   esoSkillLineId: 324,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 133,
 } as const satisfies TemperSkillLine

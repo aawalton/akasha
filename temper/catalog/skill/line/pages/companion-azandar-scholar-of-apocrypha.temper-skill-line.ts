@@ -10,4 +10,5 @@ export const companionAzandarScholarOfApocrypha = {
   esoSkillLineId: 246,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 95,
 } as const satisfies TemperSkillLine

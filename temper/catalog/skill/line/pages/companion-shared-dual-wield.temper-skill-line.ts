@@ -10,4 +10,5 @@ export const companionSharedDualWield = {
   esoSkillLineId: 182,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 65,
 } as const satisfies TemperSkillLine

@@ -10,4 +10,5 @@ export const vengeanceAllianceWarSupport = {
   esoSkillLineId: 326,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 135,
 } as const satisfies TemperSkillLine

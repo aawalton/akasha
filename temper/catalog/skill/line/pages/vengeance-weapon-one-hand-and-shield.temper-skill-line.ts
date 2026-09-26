@@ -10,4 +10,5 @@ export const vengeanceWeaponOneHandAndShield = {
   esoSkillLineId: 320,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 129,
 } as const satisfies TemperSkillLine

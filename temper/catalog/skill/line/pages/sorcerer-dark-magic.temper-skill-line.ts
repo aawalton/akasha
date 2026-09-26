@@ -11,4 +11,5 @@ export const sorcererDarkMagic = {
   maxRank: 50,
   category: "temper-skill-line-category/character-class",
   class: "temper-class/sorcerer",
+  hashPlace: 13,
 } as const satisfies TemperSkillLine

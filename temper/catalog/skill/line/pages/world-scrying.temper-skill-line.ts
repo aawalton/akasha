@@ -10,4 +10,5 @@ export const worldScrying = {
   esoSkillLineId: 155,
   maxRank: 10,
   category: "temper-skill-line-category/world",
+  hashPlace: 33,
 } as const satisfies TemperSkillLine

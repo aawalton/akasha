@@ -10,4 +10,5 @@ export const companionSharpArgonianSkills = {
   esoSkillLineId: 250,
   maxRank: 1,
   category: "temper-skill-line-category/companion",
+  hashPlace: 94,
 } as const satisfies TemperSkillLine

@@ -10,4 +10,5 @@ export const companionIsobelHealingGrace = {
   esoSkillLineId: 202,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 89,
 } as const satisfies TemperSkillLine

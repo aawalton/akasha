@@ -10,4 +10,5 @@ export const vengeanceDragonknightArdentFlame = {
   esoSkillLineId: 297,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 107,
 } as const satisfies TemperSkillLine

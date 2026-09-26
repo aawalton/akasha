@@ -10,4 +10,5 @@ export const craftClothing = {
   esoSkillLineId: 81,
   maxRank: 50,
   category: "temper-skill-line-category/craft",
+  hashPlace: 58,
 } as const satisfies TemperSkillLine

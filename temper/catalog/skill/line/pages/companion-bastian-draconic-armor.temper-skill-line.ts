@@ -10,4 +10,5 @@ export const companionBastianDraconicArmor = {
   esoSkillLineId: 175,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 76,
 } as const satisfies TemperSkillLine

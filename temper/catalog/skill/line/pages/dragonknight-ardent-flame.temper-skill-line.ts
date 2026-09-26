@@ -11,4 +11,5 @@ export const dragonknightArdentFlame = {
   maxRank: 50,
   category: "temper-skill-line-category/character-class",
   class: "temper-class/dragonknight",
+  hashPlace: 7,
 } as const satisfies TemperSkillLine

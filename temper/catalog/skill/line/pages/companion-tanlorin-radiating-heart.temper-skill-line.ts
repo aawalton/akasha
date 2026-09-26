@@ -10,4 +10,5 @@ export const companionTanlorinRadiatingHeart = {
   esoSkillLineId: 264,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 99,
 } as const satisfies TemperSkillLine

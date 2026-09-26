@@ -10,4 +10,5 @@ export const vengeanceWardenWintersEmbrace = {
   esoSkillLineId: 311,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 121,
 } as const satisfies TemperSkillLine

@@ -10,4 +10,5 @@ export const armorLightArmor = {
   esoSkillLineId: 24,
   maxRank: 50,
   category: "temper-skill-line-category/armor",
+  hashPlace: 28,
 } as const satisfies TemperSkillLine

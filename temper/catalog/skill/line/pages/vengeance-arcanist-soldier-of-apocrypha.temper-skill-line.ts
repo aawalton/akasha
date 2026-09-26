@@ -10,4 +10,5 @@ export const vengeanceArcanistSoldierOfApocrypha = {
   esoSkillLineId: 316,
   maxRank: 0,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 126,
 } as const satisfies TemperSkillLine

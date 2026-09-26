@@ -10,4 +10,5 @@ export const companionEmberKhajiitSkills = {
   esoSkillLineId: 199,
   maxRank: 1,
   category: "temper-skill-line-category/companion",
+  hashPlace: 86,
 } as const satisfies TemperSkillLine

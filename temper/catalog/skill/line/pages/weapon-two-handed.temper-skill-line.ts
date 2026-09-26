@@ -10,4 +10,5 @@ export const weaponTwoHanded = {
   esoSkillLineId: 30,
   maxRank: 50,
   category: "temper-skill-line-category/weapon",
+  hashPlace: 22,
 } as const satisfies TemperSkillLine

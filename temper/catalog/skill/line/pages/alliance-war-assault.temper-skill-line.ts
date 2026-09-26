@@ -10,4 +10,5 @@ export const allianceWarAssault = {
   esoSkillLineId: 48,
   maxRank: 10,
   category: "temper-skill-line-category/alliance-war",
+  hashPlace: 43,
 } as const satisfies TemperSkillLine

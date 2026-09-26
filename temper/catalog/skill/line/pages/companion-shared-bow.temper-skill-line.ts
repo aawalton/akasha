@@ -10,4 +10,5 @@ export const companionSharedBow = {
   esoSkillLineId: 183,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 66,
 } as const satisfies TemperSkillLine

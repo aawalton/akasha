@@ -10,4 +10,5 @@ export const racialNordSkills = {
   esoSkillLineId: 65,
   maxRank: 50,
   category: "temper-skill-line-category/racial",
+  hashPlace: 55,
 } as const satisfies TemperSkillLine

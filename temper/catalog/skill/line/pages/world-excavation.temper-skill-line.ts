@@ -10,4 +10,5 @@ export const worldExcavation = {
   esoSkillLineId: 157,
   maxRank: 10,
   category: "temper-skill-line-category/world",
+  hashPlace: 31,
 } as const satisfies TemperSkillLine

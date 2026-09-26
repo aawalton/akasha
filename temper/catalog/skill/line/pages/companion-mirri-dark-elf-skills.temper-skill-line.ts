@@ -10,4 +10,5 @@ export const companionMirriDarkElfSkills = {
   esoSkillLineId: 193,
   maxRank: 1,
   category: "temper-skill-line-category/companion",
+  hashPlace: 82,
 } as const satisfies TemperSkillLine

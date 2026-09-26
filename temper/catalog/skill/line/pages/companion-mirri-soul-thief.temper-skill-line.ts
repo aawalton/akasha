@@ -10,4 +10,5 @@ export const companionMirriSoulThief = {
   esoSkillLineId: 179,
   maxRank: 20,
   category: "temper-skill-line-category/companion",
+  hashPlace: 81,
 } as const satisfies TemperSkillLine
