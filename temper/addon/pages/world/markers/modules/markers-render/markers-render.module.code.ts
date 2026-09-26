@@ -30,7 +30,7 @@ export function newMarkerPool(this: void, parent: Control, prefix: string): Mark
   return ZO_ControlPool.New<MarkerControl>(TEMPLATE_NAME, parent, prefix)
 }
 
-function sceneChanged(this: void, scene: Scene, newState: number): undefined {
+function sceneChanged(this: void, scene: Scene, _oldState: number, newState?: number): undefined {
   if (scene.name !== "hud" && scene.name !== "hudui" && newState === SCENE_SHOWING) {
     TemperWorldMarkerPlaceToplevel.SetHidden(true)
   }
