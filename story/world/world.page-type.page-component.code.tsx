@@ -14,7 +14,7 @@ const STORY = toPageTypeSlug("story")
 
 const WORLD = "world"
 
-const AS_CARDS: ListingConfig = { layout: "cards" }
+const AS_CARDS: ListingConfig = { layout: "cards", includeDescendants: false }
 
 export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const { page } = usePage({ pageTypeSlug, id })
