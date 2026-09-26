@@ -5057,6 +5057,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.ts","id":"01a0df08-262b-788e-be8c-027acc34f01d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.ts","id":"01a0de72-b25e-78d7-a1ee-d4d009422dd0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.ts","id":"01a0d8d6-bfb1-7643-9c74-a5008642408e"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids-keeping/grimoire-ids-keeping.change-generator.ts","id":"01a0df09-68eb-7d95-9fb5-69c816d4e3f8"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids/grimoire-ids.data-table.ts","id":"01a0df09-68ec-70e3-b83a-cf2c380da46f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/properties/applied-debuffs.one-of-property.ts","id":"01a0d893-0d21-7527-b312-94ab6d00c5ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/properties/granted-buffs.one-of-property.ts","id":"01a0d893-0d21-7323-85a9-1c2a83fc8477"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-scribing-source/properties/zone-slugs.multi-relation-property.ts","id":"01a05fca-cb88-7387-b51b-731bff669c39"}

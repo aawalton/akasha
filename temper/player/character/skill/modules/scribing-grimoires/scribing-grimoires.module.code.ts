@@ -1,4 +1,5 @@
 import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { GrimoireId as GrimoirePageSlug } from "akasha/temper/catalog/skill/temper-grimoire/modules/grimoire-ids/grimoire-ids.data-table.code.ts"
 import type { AffixScriptId } from "akasha/temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.code.ts"
 import type { FocusScriptId } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
 import type { SignatureScriptId } from "akasha/temper/catalog/skill-kind/modules/scribing-signature-scripts/scribing-signature-scripts.module.code.ts"
@@ -17,7 +18,7 @@ const GRIMOIRES_DATA = {
 
 export const grimoires = createDataFile<GrimoireTemplate>()(GRIMOIRES_DATA)
 
-export type GrimoireId = (typeof grimoires.ids)[number]
+export type GrimoireId = GrimoirePageSlug
 
 export function getGrimoireCompatibleScripts(grimoireId: GrimoireId): {
   focus: readonly FocusScriptId[]

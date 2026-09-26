@@ -1,0 +1,13 @@
+export type GrimoireId =
+  | "banner-bearer"
+  | "elemental-explosion"
+  | "menders-bond"
+  | "shield-throw"
+  | "smash"
+  | "soul-burst"
+  | "torchbearer"
+  | "trample"
+  | "traveling-knife"
+  | "ulfsilds-contingency"
+  | "vault"
+  | "wield-soul"

@@ -16,6 +16,8 @@ export const temperGrimoire = {
     "relation-property/class-id",
     "multi-relation-property/focus-scripts",
     "relation-property/script-id",
+    "change-generator/grimoire-ids-keeping",
+    "data-table/grimoire-ids",
   ],
   properties: [
     { pageProperty: "text-property/icon", required: true, many: false },
