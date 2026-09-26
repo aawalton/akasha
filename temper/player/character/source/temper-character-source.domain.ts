@@ -21,6 +21,7 @@ export const temperCharacterSource = {
     "module/target-armors",
     "module/target-source",
     "module/vampire-stages",
+    "page-type/temper-attribute",
     "page-type/temper-base-stat",
   ],
   decisions: [
