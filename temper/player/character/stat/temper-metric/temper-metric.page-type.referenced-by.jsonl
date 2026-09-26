@@ -331,3 +331,4 @@
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/ultimate-restore/ultimate-restore.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}
 {"propertySlug":"target-page-type","path":"temper/catalog/companion/base-role/properties/role-total-metric.relation-property.ts","id":"01a0df21-8c4e-789e-9dd7-201540a55991"}
+{"propertySlug":"target-page-type","path":"temper/player/character/source/temper-base-stat/properties/base-stat-metric.relation-property.ts","id":"01a0df46-e492-70d2-abeb-f7b819283a2c"}

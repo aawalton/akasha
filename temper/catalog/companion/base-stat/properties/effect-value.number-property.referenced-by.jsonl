@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/thing/properties/effects.page-property-entry.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts","id":"01a0ded3-d592-77b3-9bed-24fef59501e9"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.ts","id":"01a06196-037a-7895-82cf-ee84fd21570f"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.ts","id":"01a06196-037a-7e14-80f7-0ae4cc1593d4"}
@@ -12,4 +13,5 @@
 {"propertySlug":"page-property","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.ts","id":"01a05fcf-2469-73b4-a32a-44ca09660ace"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}
 {"propertySlug":"page-property","path":"temper/catalog/thing/properties/effects.page-property-entry.ts","id":"01a05fb0-3ceb-742c-998f-6122c9954a30"}
+{"propertySlug":"page-property","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts","id":"01a0df46-e492-7e35-a44f-6d004d07a1c9"}
 {"propertySlug":"parts","path":"temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts","id":"01a0ded3-d592-77b3-9bed-24fef59501e9"}
