@@ -1,4 +1,3 @@
-import { isMainThread } from "node:worker_threads"
 import { refreshingTurns } from "akasha/agent/seat/observation/seat-turn/modules/turn-refreshing/turn-refreshing.module.code.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import {
@@ -16,11 +15,7 @@ import {
   followingFor,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
 import { answering } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
-import {
-  type Threads,
-  threadedAt,
-  threadsFor,
-} from "akasha/page/service/modules/page-threading/page-threading.module.code.ts"
+
 import { writerFor } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
 
@@ -35,21 +30,15 @@ export type Listening = {
   readonly port: number
   readonly binds: readonly string[]
   readonly following?: Following
-  readonly threads?: Threads
 }
 
 function boundAt(given: Listening, hostname: string, writer: Writer) {
-  const { root, port, following, threads } = given
+  const { root, port, following } = given
   return Bun.serve({
     port,
     hostname,
     fetch: (request) =>
-      threads !== undefined && threadedAt(request.url)
-        ? threads.answered(request)
-        : answering(
-            following === undefined ? { root, writer } : { root, writer, following },
-            request
-          ),
+      answering(following === undefined ? { root, writer } : { root, writer, following }, request),
   })
 }
 
@@ -101,7 +90,6 @@ function answeredAt(bound: Bound): string {
 }
 
 export function runPageListening(root: string): undefined {
-  if (!isMainThread) return
   const port = portFor(root, SERVICE_SLUG)
   const page = pagePathFor(root, SERVICE_SLUG)
   if (port === null || page === null) {
@@ -111,7 +99,7 @@ export function runPageListening(root: string): undefined {
   }
   const following = followingFor(root)
   const binds = bindsFor(root, SERVICE_SLUG)
-  const stated: Listening = { root, port, binds, following, threads: threadsFor(root) }
+  const stated: Listening = { root, port, binds, following }
   refreshingTurns(root, (sat) => following.changed({ pageTypeSlug: seat.slug, slug: sat.slug }))
   let bound = serversFor(stated)
   saying(root, page, unboundIn(bound))

@@ -401,7 +401,6 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/owned-puts/owned-puts.module.ts","id":"01a0d982-8524-7f12-aed1-0f5283c630df"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-composing/page-composing.module.ts","id":"01a05de9-57a4-7810-8d1f-402752b1598b"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-serving/page-serving.module.ts","id":"01a05a0c-e821-77b9-8798-ffe359e087ba"}
-{"propertySlug":"decision-kind","path":"page/service/modules/read-settling/read-settling.module.ts","id":"01a0deed-1edf-75c6-b82f-a115865ff28b"}
 {"propertySlug":"decision-kind","path":"page/service/page-service.service-workstation.ts","id":"01a05a43-5afa-7d0d-8d60-dbd3c3498f99"}
 {"propertySlug":"decision-kind","path":"page/type/page-property/page-property.page-type.ts","id":"01a04dff-9d7d-7459-a8c0-e038dc7714c3"}
 {"propertySlug":"decision-kind","path":"page/type/properties/loaded-export.text-property.ts","id":"01a0b86a-b8c8-7c0c-a118-b4007378118e"}

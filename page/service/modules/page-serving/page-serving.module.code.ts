@@ -53,7 +53,7 @@ export const READ_AT = "/read"
 
 export const WRITE_AT = "/write"
 
-export const SHAPE_AT = "/shape"
+const SHAPE_AT = "/shape"
 
 export const FILE_AT = "/file"
 

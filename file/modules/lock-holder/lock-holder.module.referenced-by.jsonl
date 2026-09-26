@@ -7,5 +7,4 @@
 {"propertySlug":"import","fileName":"lock-holder.module.code.ts","path":"file/modules/lock-holder/lock-holder.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lock-holder.module.code.ts","path":"git/modules/holding/holding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lock-holder.module.code.ts","path":"page/modules/uncommitted/page-uncommitted.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"lock-holder.module.code.ts","path":"page/service/modules/read-settling/read-settling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"file/file.domain.ts","id":"01a049e9-651c-7004-a164-c9c8df818b18"}

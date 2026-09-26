@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import { mkdtempSync, rmSync } from "node:fs"
-import { join } from "node:path"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import {
   bindsFor,
@@ -16,7 +15,6 @@ import {
   UNBOUND,
   unboundIn,
 } from "akasha/page/service/modules/page-listening/page-listening.module.code.ts"
-import { threadsFor } from "akasha/page/service/modules/page-threading/page-threading.module.code.ts"
 
 const ROOT = rootOf(import.meta.dir)
 
@@ -131,27 +129,6 @@ test("a host name that will not bind is unbound again after another try", () => 
   expect(unboundIn(again)).toEqual([NOWHERE])
   expect(again.servers.length).toBe(0)
 })
-
-test("a question reaches a server bound with threads and is answered on a thread", async () => {
-  const code = join(ROOT, "page/service/modules/page-threading/page-threading.module.code.ts")
-  const entry = URL.createObjectURL(new Blob([`import ${JSON.stringify(code)}\n`]))
-  const threads = threadsFor(ROOT, entry, 1)
-  const bound = serversFor({ root: ROOT, port: 0, binds: [LOOPBACK], threads })
-  try {
-    const one = bound.servers[0]
-    if (one === undefined) throw new Error("nothing was bound")
-    const answered = await fetch(`http://localhost:${one.port}/ask`, {
-      method: "POST",
-      body: JSON.stringify({ pageTypeSlug: "decision-kind", keys: ["slug"] }),
-    })
-    expect(answered.status).toBe(200)
-    const held = (await answered.json()) as { rows: readonly Record<string, unknown>[] }
-    expect(held.rows.map((row) => row.slug)).toContain("departure")
-  } finally {
-    for (const one of bound.servers) one.stop(true)
-    await threads.stopped()
-  }
-}, 60000)
 
 test("a question is answered while another is still being answered", async () => {
   const { server, at } = onlyOne()
