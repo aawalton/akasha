@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/astra-realtime-pages-for-web.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/awen-engine-improvements.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/dalla-resource-management.initiative.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/elin-image-library-management.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/elin-wandering-inn-wiki.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/ember-absorb-community-addons.initiative.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"initiative.page-type.types.ts","path":"domain/initiative/pages/nimue-local-image.initiative.ts","typed":true,"deferred":false}

@@ -9838,6 +9838,7 @@
 {"propertySlug":"import","fileName":"image.page-type.types.ts","path":"infrastructure/inference/generation/image/pages/image-ffea6fa7f9608015.image.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"image.page-type.types.ts","path":"infrastructure/inference/generation/image/pages/image-ffedb705ac180859.image.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"image.page-type.types.ts","path":"infrastructure/inference/generation/image/pages/image-ffef0b031166448e.image.ts","typed":true,"deferred":false}
+{"propertySlug":"page-domain","path":"domain/initiative/pages/elin-image-library-management.initiative.ts","id":"01a0de74-a006-74a5-9b5c-bcd439801eb1"}
 {"propertySlug":"parts","path":"infrastructure/inference/generation/generation.domain.ts","id":"01a0658b-0f02-7c33-9784-2d0807309315"}
 {"propertySlug":"target-page-type","path":"alan/track/daily/day/properties/meal-pictures.multi-relation-property.ts","id":"01a0d3d9-dd42-7a6d-8dcd-e4095c0f9d61"}
 {"propertySlug":"target-page-type","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-image.relation-property.ts","id":"01a0d8a3-4bd2-7ca8-a60c-2742ea798d63"}
