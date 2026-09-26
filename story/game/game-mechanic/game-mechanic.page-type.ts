@@ -8,7 +8,6 @@ export const gameMechanic = {
   extends: ["page-type/module"],
   parts: [
     "module/mechanic-running",
-    "module/linear-stat",
     "game-mechanic/phys-atk",
     "game-mechanic/focus-max",
     "game-mechanic/hp-max",

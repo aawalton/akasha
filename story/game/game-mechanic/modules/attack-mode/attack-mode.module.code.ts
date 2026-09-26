@@ -2,7 +2,7 @@ import type {
   Reading,
   Sheet,
   Summed,
-} from "akasha/story/game/game-mechanic/modules/linear-stat/linear-stat.module.code.ts"
+} from "akasha/story/mechanic/modules/linear-stat/linear-stat.module.code.ts"
 
 type Facing = {
   readonly attacker: Sheet

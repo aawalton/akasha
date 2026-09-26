@@ -1,6 +1,6 @@
 import { expect, test } from "bun:test"
 import { attackBy } from "akasha/story/game/game-mechanic/modules/attack-mode/attack-mode.module.code.ts"
-import { summingBy } from "akasha/story/game/game-mechanic/modules/linear-stat/linear-stat.module.code.ts"
+import { summingBy } from "akasha/story/mechanic/modules/linear-stat/linear-stat.module.code.ts"
 
 const MODE = attackBy(
   summingBy([{ of: "might", by: 2 }], 0, "none"),

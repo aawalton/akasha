@@ -1,4 +1,4 @@
-const HERE = "story/game/game-mechanic/modules/linear-stat"
+const HERE = "story/mechanic/modules/linear-stat"
 
 type Rounding = "none" | "down" | "up" | "nearest"
 

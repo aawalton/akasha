@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { summed } from "akasha/story/game/game-mechanic/modules/linear-stat/linear-stat.module.code.ts"
+import { summed } from "akasha/story/mechanic/modules/linear-stat/linear-stat.module.code.ts"
 
 test("a term adds as much of the value the term names as the term says", () => {
   expect(
