@@ -48,6 +48,8 @@ import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
+import type { CompanionEquipmentConstant } from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts"
+import { temperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.page-type.ts"
 import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
 import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
@@ -79,6 +81,8 @@ const WEAPON_TYPE_KEYS: readonly string[] = [
   "hashPlace",
 ]
 
+const CONSTANT_KEYS: readonly string[] = ["slug", "key", "kind", "keyText", "valueNum", "valueText"]
+
 const BASE_ROLE_KEYS: readonly string[] = [
   "slug",
   "key",
@@ -102,7 +106,20 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionEquipmentQuality.slug, QUALITY_KEYS],
   [temperCompanionWeaponRole.slug, WEAPON_ROLE_KEYS],
   [temperCompanionWeaponType.slug, WEAPON_TYPE_KEYS],
+  [temperEsoCompanionEquipmentConstant.slug, CONSTANT_KEYS],
 ]
+
+function constantsFrom(rows: readonly Row[]): readonly CompanionEquipmentConstant[] {
+  return rows.map((row) => {
+    const at = String(row.slug ?? row.key ?? "a companion equipment constant")
+    return {
+      kind: textIn(row.kind, "kind", at),
+      keyText: textIn(row.keyText, "keyText", at),
+      valueNum: typeof row.valueNum === "number" ? row.valueNum : null,
+      valueText: typeof row.valueText === "string" ? row.valueText : null,
+    }
+  })
+}
 
 function weaponTypesFrom(rows: readonly Row[]): readonly CompanionWeaponTypeTemplate[] {
   return inHashPlace(rows, "companion weapon type", (row, at) => {
@@ -190,5 +207,6 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     qualities: qualitiesFrom(rowsOf(temperCompanionEquipmentQuality.slug)),
     weaponRoles: weaponRolesFrom(rowsOf(temperCompanionWeaponRole.slug)),
     weaponTypes: weaponTypesFrom(rowsOf(temperCompanionWeaponType.slug)),
+    equipmentConstants: constantsFrom(rowsOf(temperEsoCompanionEquipmentConstant.slug)),
   })
 }

@@ -26,6 +26,7 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-v49/companion-codec-v49.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/watcher/modules/watcher-import-companions/watcher-import-companions.module.code.ts","typed":false,"deferred":false}

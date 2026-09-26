@@ -12,6 +12,7 @@ import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
 import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
+import { temperEsoCompanionEquipmentConstant } from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/temper-eso-companion-equipment-constant.page-type.ts"
 import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
 import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
@@ -31,6 +32,10 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const qualities = usePages({ pageTypeSlug: temperCompanionEquipmentQuality.slug, limit: EVERY })
   const weaponRoles = usePages({ pageTypeSlug: temperCompanionWeaponRole.slug, limit: EVERY })
   const weaponTypes = usePages({ pageTypeSlug: temperCompanionWeaponType.slug, limit: EVERY })
+  const constants = usePages({
+    pageTypeSlug: temperEsoCompanionEquipmentConstant.slug,
+    limit: EVERY,
+  })
   const read = [
     companions,
     skills,
@@ -42,6 +47,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     qualities,
     weaponRoles,
     weaponTypes,
+    constants,
   ]
   const failed = read.find((one) => one.error !== null)?.error ?? null
   const loading = read.some((one) => one.isLoading)
@@ -58,6 +64,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperCompanionEquipmentQuality.slug, qualities.rows],
       [temperCompanionWeaponRole.slug, weaponRoles.rows],
       [temperCompanionWeaponType.slug, weaponTypes.rows],
+      [temperEsoCompanionEquipmentConstant.slug, constants.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -72,6 +79,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     qualities.rows,
     weaponRoles.rows,
     weaponTypes.rows,
+    constants.rows,
   ])
   if (failed !== null) throw failed
   return catalog

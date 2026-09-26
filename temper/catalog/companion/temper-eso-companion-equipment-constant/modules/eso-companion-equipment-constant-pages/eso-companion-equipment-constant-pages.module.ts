@@ -4,16 +4,16 @@ export const esoCompanionEquipmentConstantPages = {
   id: "01a0d62f-91ec-7359-b3c6-02f07f883204",
   type: "page-type/module",
   slug: "eso-companion-equipment-constant-pages",
-  definition: "every companion equipment constant page, in order of its kind and then its place",
+  definition: "the companion equipment constants, read from the pages that hold them",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The pages are imported rather than read, so a browser holds them as well.",
+      statement: "A constant is read from its page as the companion catalogue holds it.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An equip type no page numbers stops the code importing this from loading.",
+      statement: "An equip type no page numbers is refused where it is asked for.",
     },
   ],
 } as const satisfies Module

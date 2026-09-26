@@ -17,8 +17,8 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import {
-  ESO_COMPANION_EQUIPMENT_CONSTANT_PAGES,
   equipTypeNumber,
+  esoQualityToCompanion,
 } from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
@@ -73,19 +73,14 @@ const ARMOR_TYPE_TO_WEIGHT: Record<number, string> = {
   3: "Heavy",
 }
 
-const EQUIP_TYPE_TO_SLOT_CATEGORY: Record<number, string> = {}
-for (const slot of companionArmorSlots.list) EQUIP_TYPE_TO_SLOT_CATEGORY[slot.equipType] = slot.id
-for (const slot of companionJewelrySlots.list)
-  EQUIP_TYPE_TO_SLOT_CATEGORY[slot.equipType] = slot.slotCategory
-EQUIP_TYPE_TO_SLOT_CATEGORY[equipTypeNumber("EQUIP_TYPE_ONE_HAND")] = "one-hand"
-EQUIP_TYPE_TO_SLOT_CATEGORY[equipTypeNumber("EQUIP_TYPE_TWO_HAND")] = "two-hand"
-EQUIP_TYPE_TO_SLOT_CATEGORY[equipTypeNumber("EQUIP_TYPE_OFF_HAND")] = "one-hand"
-
-const ESO_QUALITY_TO_COMPANION_QUALITY: Record<string, string> = {}
-for (const one of ESO_COMPANION_EQUIPMENT_CONSTANT_PAGES) {
-  if (one.kind === "quality-eso-to-companion" && one.valueText !== undefined) {
-    ESO_QUALITY_TO_COMPANION_QUALITY[one.keyText] = one.valueText
-  }
+function slotCategoriesByEquipType(): Record<number, string> {
+  const categories: Record<number, string> = {}
+  for (const slot of companionArmorSlots.list) categories[slot.equipType] = slot.id
+  for (const slot of companionJewelrySlots.list) categories[slot.equipType] = slot.slotCategory
+  categories[equipTypeNumber("EQUIP_TYPE_ONE_HAND")] = "one-hand"
+  categories[equipTypeNumber("EQUIP_TYPE_TWO_HAND")] = "two-hand"
+  categories[equipTypeNumber("EQUIP_TYPE_OFF_HAND")] = "one-hand"
+  return categories
 }
 
 interface PlanEntity {
@@ -187,6 +182,7 @@ function makeKey(category: string, trait: string, quality: string, weight?: stri
 
 function indexInventory(inventory: InventoryDatabase): Map<InventoryKey, number> {
   const counts = new Map<InventoryKey, number>()
+  const slotCategoryOf = slotCategoriesByEquipType()
 
   for (const location of Object.values(inventory.locations)) {
     for (const bag of Object.values(location.bags)) {
@@ -207,13 +203,13 @@ function indexInventory(inventory: InventoryDatabase): Map<InventoryKey, number>
           continue
         }
 
-        const quality = ESO_QUALITY_TO_COMPANION_QUALITY[item.quality]
+        const quality = esoQualityToCompanion(item.quality)
         if (quality == null) continue
         if (trait === undefined) continue
 
         const slotCategory =
           item.equipType !== undefined
-            ? (EQUIP_TYPE_TO_SLOT_CATEGORY[item.equipType] ?? broadCategory)
+            ? (slotCategoryOf[item.equipType] ?? broadCategory)
             : broadCategory
         const weight =
           broadCategory === "armor" ? ARMOR_TYPE_TO_WEIGHT[item.armorType ?? 0] : undefined
