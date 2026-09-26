@@ -25,6 +25,7 @@ export const gamePanel = {
     "relation-property/drawn-in",
     "page-type/panel-place",
     "change-generator/game-panel-drawing",
+    "game-panel/persona-cover",
   ],
   decisions: [
     {

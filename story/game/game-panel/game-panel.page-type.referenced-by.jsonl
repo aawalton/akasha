@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/game-panel/pages/character-sheet/character-sheet.game-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/game-panel/pages/hotel-hud/hotel-hud.game-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/game-panel/pages/hotel-sheet/hotel-sheet.game-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/game-panel/pages/persona-cover/persona-cover.game-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/game-panel/pages/quest-list/quest-list.game-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/game-panel/pages/story-so-far/story-so-far.game-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"game-panel.page-type.types.ts","path":"story/game/game-panel/pages/tower-hud/tower-hud.game-panel.ts","typed":true,"deferred":false}
