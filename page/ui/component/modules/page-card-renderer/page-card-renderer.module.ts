@@ -6,4 +6,10 @@ export const pageCardRenderer = {
   slug: "page-card-renderer",
   definition: "the card a row of a view is shown as",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gallery card's picture may be an image page as well as an address.",
+    },
+  ],
 } as const satisfies Module

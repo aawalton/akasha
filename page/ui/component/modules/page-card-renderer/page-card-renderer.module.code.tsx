@@ -9,6 +9,7 @@ import {
 } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
 import { PageCard } from "akasha/page/ui/component/modules/page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "akasha/page/ui/component/modules/page-card-notes/page-card-notes.module.code.tsx"
+import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import {
   buildRelationBackLinkHref,
@@ -69,7 +70,8 @@ export function PageCardRenderer({
   const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(page._id)
   const coverUrl =
     galleryCardSize != null && galleryCoverSourceId != null
-      ? resolveGalleryCoverUrl(page[galleryCoverSourceId])
+      ? (coverSource(page[galleryCoverSourceId]) ??
+        resolveGalleryCoverUrl(page[galleryCoverSourceId]))
       : null
   const { _id: id, ...rest } = page
   const pageData = pageRowToPageDataJSON(rest)
