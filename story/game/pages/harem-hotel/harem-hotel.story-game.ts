@@ -50,5 +50,4 @@ export const haremHotel = {
   ],
   defaultDice: "game-mechanic/two-d-ten",
   cardVocabulary: ["LEVEL UP", "SKILL", "AFFINITY", "CLASS", "TITLE"],
-  player: "game-entity/harem-hotel-alan",
 } as const satisfies StoryGame

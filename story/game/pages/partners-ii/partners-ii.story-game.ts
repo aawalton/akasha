@@ -19,5 +19,4 @@ export const partnersIi = {
   themes: "Bonds as power; mutual becoming; appetite and trust; the earned yes.",
   genre: ["litrpg", "adventure", "progression"],
   resolutionMechanism: "json",
-  player: "game-entity/partners-ii-partners-alan",
 } as const satisfies StoryGame
