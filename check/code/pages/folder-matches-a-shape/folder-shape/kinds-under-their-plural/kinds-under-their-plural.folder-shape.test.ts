@@ -2,6 +2,7 @@ import { expect, test } from "bun:test"
 import {
   folderFrom,
   gatheringFrom,
+  holdsFrom,
 } from "akasha/check/code/pages/folder-matches-a-shape/folder-matches-a-shape.check-code.decision.test-fixtures.ts"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
 import { kindsUnderTheirPlural } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/kinds-under-their-plural/kinds-under-their-plural.folder-shape.code.ts"
@@ -53,6 +54,30 @@ test("the read, written and played folders under a world's stories take the shap
 
 test("a subfolder named a covered page type's own slug takes the shape", () => {
   expect(kindsUnderTheirPlural(over(MECHANICS, ["world-mechanic/one.book.ts"])([]))).toEqual([])
+})
+
+function holdingDodge(named: string): Standing {
+  return folderFrom({
+    folder: MECHANICS,
+    pageTypes: PAGE_TYPES,
+    extending: (pageTypeSlug, wanted) =>
+      pageTypeSlug === "ember-dodging"
+        ? wanted === "world-mechanic"
+        : extending(pageTypeSlug, wanted),
+    gathered,
+    deep: [`${named}/ember-dodging.page-type.ts`],
+    holds: holdsFrom({ [`${MECHANICS}/${named}`]: ["page-type/ember-dodging"] }),
+  })([])
+}
+
+test("a subfolder holding a covered page type whose slug ends with its name takes the shape", () => {
+  expect(kindsUnderTheirPlural(holdingDodge("dodging"))).toEqual([])
+})
+
+test("a subfolder holding a covered page type whose slug ends otherwise is refused", () => {
+  const said = kindsUnderTheirPlural(holdingDodge("parrying"))
+  expect(said).toHaveLength(1)
+  expect(said[0]).toContain("parrying")
 })
 
 test("a folder named no page type's plural is refused, and the reason names it", () => {

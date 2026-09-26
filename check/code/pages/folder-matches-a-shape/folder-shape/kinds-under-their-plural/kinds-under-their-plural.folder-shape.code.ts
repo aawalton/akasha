@@ -1,7 +1,23 @@
 import { basename } from "node:path"
 import type { Standing } from "akasha/check/code/pages/folder-matches-a-shape/folder-shape/folder-shape.page-type.ts"
-import { kindsNamedBy } from "akasha/check/code/pages/folder-matches-a-shape/modules/kind-naming/kind-naming.module.code.ts"
+import {
+  covering,
+  kindsNamedBy,
+} from "akasha/check/code/pages/folder-matches-a-shape/modules/kind-naming/kind-naming.module.code.ts"
 import { saidInside } from "akasha/check/modules/shape-saying/shape-saying.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+
+const PAGE_TYPE = "page-type"
+
+function heldKindNamed(standing: Standing, wanted: readonly string[], at: string): boolean {
+  const name = basename(at)
+  return standing.holds(at).some((one) => {
+    const address = addressIn(one)
+    if (address.kind !== "qualified" || address.pageTypeSlug !== PAGE_TYPE) return false
+    const slug = address.slug
+    return (slug === name || slug.endsWith(`-${name}`)) && covering(standing, wanted, slug)
+  })
+}
 
 export function kindsUnderTheirPlural(standing: Standing): readonly string[] {
   const named = basename(standing.folder)
@@ -16,7 +32,9 @@ export function kindsUnderTheirPlural(standing: Standing): readonly string[] {
     )
   }
   const apart = standing.subfolders.filter(
-    (at) => kindsNamedBy(standing, wanted, basename(at)).length === 0
+    (at) =>
+      kindsNamedBy(standing, wanted, basename(at)).length === 0 &&
+      !heldKindNamed(standing, wanted, at)
   )
   if (apart.length > 0) {
     said.push(
