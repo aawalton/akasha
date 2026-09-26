@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHVMUAAIBkRRP__AAABzZaZ7V0KywQAAAAS5LAAIA1BAAQBgAAkACAAEgAAhAAAycAIwBmAEZAAQiMCAAQySBQIxEANIAAAAgDAByAIAHEAAAwOMujXqNSLEnDKx5MsuZNnZ9GnVr2z6FGlTqeKqxtHZGzx9cvQMWSFoibI3TtIlTJ36hTBVQlcdYYOGyRsCVLAjAMIFDGTQcQJNnBQsYNHDyBEkdJgAgMg4xIGsA",
+  "buildHash": "ATQHVMUAAIBkRRNiU_lYtP5ULmC1C5gtQuYLULmC1C5gtEGjtRBAq0QQKtJhEx2xEEx1ujIAHN0RnsABNgAAANZABE8AAgDUEABAGAACQAIAASAACEAADJwAjAGYARkABCIwIABDJIFAjEQA0gAAACAMAHIAgAcQAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0nAUAyDjEgaw",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -2475,7 +2475,7 @@
     },
     "55": {
       "currentRank": 3,
-      "currentXP": 75,
+      "currentXP": 125,
       "nextRankXP": 150,
       "skills": {
         "39425": {
@@ -3302,7 +3302,7 @@
             "name": "The Languid Eye",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -4959,8 +4959,8 @@
     }
   },
   "skillPoints": {
-    "total": 352,
-    "unassigned": 6,
+    "total": 353,
+    "unassigned": 3,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -4971,7 +4971,7 @@
     "skyshardPoints": 173,
     "totalSkyshards": 520,
     "zoneQuestTotal": 51,
-    "groupDungeonTotal": 0,
+    "groupDungeonTotal": 1,
     "publicDungeonTotal": 36,
     "skyshards": {
       "CY": 0,
@@ -5075,7 +5075,7 @@
       "LM": 0,
       "CA1": 0,
       "BS": 0,
-      "BC1": 0,
+      "BC1": 1,
       "DC2": 0,
       "ERE": 0,
       "FV": 0,
@@ -6661,6 +6661,7 @@
     }
   },
   "companionRapport": {
+    "6": 2132,
     "13": 817
   },
   "quests": [
@@ -6862,6 +6863,7 @@
     4087,
     4095,
     4106,
+    4107,
     4115,
     4116,
     4117,
@@ -7087,6 +7089,7 @@
     5071,
     5073,
     5088,
+    5244,
     5249,
     5259,
     5289,
@@ -11731,6 +11734,7 @@
       36,
       39,
       41,
+      42,
       43,
       48,
       53,
@@ -11739,6 +11743,7 @@
       59,
       60,
       65,
+      66,
       67,
       68,
       69,
@@ -12363,6 +12368,7 @@
       36,
       37,
       38,
+      39,
       40,
       43,
       47,
