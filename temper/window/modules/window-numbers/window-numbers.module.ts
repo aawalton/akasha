@@ -29,10 +29,6 @@ export const windowNumbers = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A span measured in parts of a second is seconds to two decimals, then an s.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A span counted in days is days, hours and minutes, each with its letter.",
     },
     {

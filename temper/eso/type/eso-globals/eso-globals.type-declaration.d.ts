@@ -65,6 +65,13 @@ declare function zo_iconFormat(
   height: number | string
 ): string
 
+declare function zo_iconTextFormat(
+  path: string,
+  width: number | string,
+  height: number | string,
+  text: string | number | undefined
+): string
+
 declare function ZO_GetNextBagSlotIndex(
   bagId: number,
   lastSlotIndex: number | undefined

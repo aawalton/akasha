@@ -18,12 +18,7 @@ import { updateRightInfoPanel } from "akasha/temper/addon/pages/combat/modules/c
 import { numberValue } from "akasha/temper/addon/pages/combat/modules/combat-ui-main-panel/combat-ui-main-panel.module.code.ts"
 import { getFightData } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import type { SkillRowControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-tooltips/combat-ui-tooltips.module.code.ts"
-import {
-  formatCount,
-  formatPercent,
-  formatRate,
-  formatSeconds,
-} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
+
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
@@ -39,7 +34,7 @@ import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-extra/eso-ui-extra.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 
-const LIB_COMBAT_VERSION = 88
+const LIB_COMBAT_VERSION = 89
 
 const SKILL_BAR_ITEMS = [
   "LightAttack",
@@ -145,8 +140,12 @@ function updateLeftInfoPanel(this: void, panel: Control): undefined {
 
       timeratio = (barStats.totalTime ?? 0) / totalTime
     }
-    subPanel.GetNamedChild<LabelControl>("Value1")?.SetText(formatPercent(timeratio ?? 0))
-    subPanel.GetNamedChild<LabelControl>("Value2")?.SetText(formatPercent(dpsratio ?? 0))
+    subPanel
+      .GetNamedChild<LabelControl>("Value1")
+      ?.SetText(string.format("%.1f%%", (timeratio ?? 0) * 100))
+    subPanel
+      .GetNamedChild<LabelControl>("Value2")
+      ?.SetText(string.format("%.1f%%", (dpsratio ?? 0) * 100))
 
     for (const [line, controlName] of ipairs(SKILL_BAR_ITEMS)) {
       const control = subPanel.GetNamedChild<SkillRowControl>(controlName)
@@ -175,16 +174,16 @@ function updateLeftInfoPanel(this: void, panel: Control): undefined {
       let color = WhiteColor
 
       if (slotdata?.count != null && slotdata.count > 0) {
-        strings[0] = formatCount(slotdata.count)
+        strings[0] = string.format("%d", slotdata.count)
 
         const weave = slotdata.weavingTimeAvg ?? legacyNumber(slotdata, "skillNextAvg")
-        strings[1] = weave != null ? formatSeconds(weave / 1000) : "-"
+        strings[1] = weave != null ? string.format("%.2f", weave / 1000) : "-"
 
         const errors = slotdata.weavingErrors
-        strings[2] = weave != null && errors != null ? formatCount(errors) : "-"
+        strings[2] = weave != null && errors != null ? string.format("%d", errors) : "-"
 
         const diff = slotdata.diffTimeAvg ?? legacyNumber(slotdata, "difftimesAvg")
-        strings[3] = diff != null ? formatSeconds(diff / 1000) : "-"
+        strings[3] = diff != null ? string.format("%.2f", diff / 1000) : "-"
 
         control.delay = slotdata.delayAvg
         if (slotdata.ignored === true) {
@@ -231,12 +230,12 @@ function updateWeavingStatRows(
   let value2string = " -"
 
   if (totalWeavingTimeCount != null && totalWeavingTimeCount > 0 && totalWeavingTimeSum != null) {
-    value1string = formatSeconds(totalWeavingTimeSum / (1000 * totalWeavingTimeCount))
-    value2string = formatSeconds(totalWeavingTimeSum / 1000)
+    value1string = string.format("%.3f s", totalWeavingTimeSum / (1000 * totalWeavingTimeCount))
+    value2string = string.format("%.3f s", totalWeavingTimeSum / 1000)
   }
 
-  const value3string = totalWeaponAttacks != null ? formatCount(totalWeaponAttacks) : " -"
-  const value4string = totalSkillsFired != null ? formatCount(totalSkillsFired) : " -"
+  const value3string = totalWeaponAttacks != null ? tostring(totalWeaponAttacks) : " -"
+  const value4string = totalSkillsFired != null ? tostring(totalSkillsFired) : " -"
 
   statrow
     .GetNamedChild<LabelControl>("Label")
@@ -318,10 +317,33 @@ export function updateInfoRowPanel(this: void, panel: Control): undefined {
   const date = data.date
   const account = data.account
 
-  const accountstring = account != null ? string.format("%s, ", account) : ""
+  const accountstring = account ?? ""
+  let levelString = "?"
+
+  const charData = fightData?.charData
+  const level = charData?.level
+
+  if (level == null || level === 0) {
+    levelString = "?"
+  } else if (level < 50) {
+    levelString = ZO_CachedStrFormat("L<<1>>", level)
+  } else {
+    levelString = zo_iconTextFormat(
+      "esoui/art/champion/champion_icon.dds",
+      "auto",
+      "auto",
+      charData?.CPtotal
+    )
+  }
 
   const datestring = (typeof date === "number" ? GetDateStringFromTimestamp(date) : date) ?? ""
-  const timestring = string.format("%s%s, %s", accountstring, datestring, data.time ?? "")
+  const timestring = string.format(
+    "%s %s, %s, %s",
+    accountstring,
+    levelString,
+    datestring,
+    data.time ?? ""
+  )
   const versionstring = string.format(
     "%s / CMX %s / LC %s",
     data.ESOversion ?? "<= 3.2",
@@ -347,7 +369,12 @@ export function updateInfoRowPanel(this: void, panel: Control): undefined {
 
     const barlabelcontrol = barcontrol?.GetNamedChild<LabelControl>("Label")
     barlabelcontrol?.SetText(
-      `${GetString(SI_TEMPER_COMBAT_SAVED_FIGHTS)}: ${formatCount(GetNumFights())} / ${formatCount(db.maxSavedFights)}`
+      string.format(
+        "%s: %d / %d",
+        GetString(SI_TEMPER_COMBAT_SAVED_FIGHTS),
+        GetNumFights(),
+        db.maxSavedFights
+      )
     )
   } else {
     const calculated = fightData?.calculated
@@ -357,11 +384,16 @@ export function updateInfoRowPanel(this: void, panel: Control): undefined {
     if (count > 0 && performance != null) {
       performancecontrol?.SetHidden(false)
 
-      const fpsString = `${formatRate(performance.avgAvg ?? 0, "fps")}  |cAAAAAA(${formatCount(performance.minAvg ?? 0)} - ${formatCount(performance.maxAvg ?? 0)})|r `
-      const pingString = `Ping: ${formatRate(performance.avgPing ?? 0, "ms")}`
+      const fpsString = string.format(
+        "FPS: %d  |cAAAAAA(%d - %d)|r ",
+        performance.avgAvg ?? 0,
+        performance.minAvg ?? 0,
+        performance.maxAvg ?? 0
+      )
+      const pingString = string.format("Ping: %d ms", performance.avgPing ?? 0)
 
       const delayString =
-        calculated?.delayAvg != null ? ` - Desync: ${formatRate(calculated.delayAvg, "ms")}` : ""
+        calculated?.delayAvg != null ? string.format(" - Desync: %d ms", calculated.delayAvg) : ""
 
       const fullString = string.format("%s - %s%s", fpsString, pingString, delayString)
 
