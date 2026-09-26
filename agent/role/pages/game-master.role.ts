@@ -206,6 +206,18 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Settle The Roll",
+      act: "Settle every roll your game calls for with `akasha story settle` before telling its outcome.",
+      warrant:
+        "A roll made up in the telling reads exactly like one the dice made, and only a settled roll is kept.",
+      aids: [
+        "Hand in the check, what it reads and the dice; the command rolls them.",
+        "Tell the result the roll answered, whatever the scene wanted.",
+        "An act your game does not roll is never settled.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Fair Puzzle",
       act: "Deal every clue a puzzle needs before the puzzle asks the player for its answer.",
       warrant:
