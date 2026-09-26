@@ -1,11 +1,11 @@
 import type { Initiative } from "akasha/domain/initiative/initiative.page-type.types.ts"
 
-export const emberMagickaWardenBuild = {
+export const amyMagickaWardenBuild = {
   id: "01a0de47-b798-7ab0-85e3-167e35639195",
   type: "page-type/initiative",
-  slug: "ember-magicka-warden-build",
+  slug: "amy-magicka-warden-build",
   domain: "domain/temper-player",
-  persona: "persona/ember",
+  persona: "persona/amy",
   intentStack: [
     {
       statement: "Alan has a Warden character for this build.",
