@@ -3349,6 +3349,7 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/page-shaping/page-shaping.module.ts","id":"01a0c9a9-c5ec-7648-8037-793824183f8e"}
 {"propertySlug":"decision-kind","path":"page/service/modules/page-writing/page-writing.module.ts","id":"01a05abd-fe05-794d-8493-811846971bf6"}
 {"propertySlug":"decision-kind","path":"page/service/modules/pages-foldered/pages-foldered.module.ts","id":"01a0a5a9-545f-783d-8733-5a27ccc6ba98"}
+{"propertySlug":"decision-kind","path":"page/service/modules/read-settling/read-settling.module.ts","id":"01a0deed-1edf-75c6-b82f-a115865ff28b"}
 {"propertySlug":"decision-kind","path":"page/service/modules/reads-keeping/reads-keeping.module.ts","id":"01a0d4da-95ae-71bd-a4e3-35db49d47caa"}
 {"propertySlug":"decision-kind","path":"page/service/modules/refusal-fault/refusal-fault.module.ts","id":"01a0d92a-75b2-7000-b56b-cc28e4f4593c"}
 {"propertySlug":"decision-kind","path":"page/service/modules/where-testing/where-testing.module.ts","id":"01a05bdd-d54c-7989-aac7-52cb42d778c4"}
