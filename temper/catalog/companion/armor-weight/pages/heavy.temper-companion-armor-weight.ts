@@ -8,4 +8,6 @@ export const heavy = {
   title: "Heavy",
   hashPlace: 3,
   armorType: 3,
+  armorPassiveId: "temper-companion-skill/all-shared-firmness",
+  armorSkillLineId: "temper-companion-skill-line/armor-heavy",
 } as const satisfies TemperCompanionArmorWeight

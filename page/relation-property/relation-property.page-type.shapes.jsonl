@@ -10,6 +10,8 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-antiquity-set","unique":null,"uniquePropertySlug":null,"slug":"antiquity-set","propertySlug":"set","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"ios-app","unique":null,"uniquePropertySlug":null,"slug":"app","propertySlug":"app","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"argument","unique":null,"uniquePropertySlug":null,"slug":"argument","propertySlug":"argument","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-skill","unique":null,"uniquePropertySlug":null,"slug":"armor-passive","propertySlug":"armor-passive-id","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-companion-skill-line","unique":null,"uniquePropertySlug":null,"slug":"armor-skill-line","propertySlug":"armor-skill-line-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-armor-slot","unique":null,"uniquePropertySlug":null,"slug":"armor-slot","propertySlug":"armor-slot","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-armor-trait","unique":null,"uniquePropertySlug":null,"slug":"armor-trait","propertySlug":"armor-trait","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"artist","unique":null,"uniquePropertySlug":null,"slug":"artist","propertySlug":"artist","fileName":null,"folderName":null}

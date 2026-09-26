@@ -123,3 +123,4 @@
 {"propertySlug":"import","fileName":"temper-companion-skill.page-type.types.ts","path":"temper/catalog/companion/skill/pages/zerith-var-zerith-var-third-moons-chosen/zerith-var-zerith-var-third-moons-chosen.temper-companion-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-skill.page-type.types.ts","path":"temper/catalog/companion/skill/pages/zerith-var-zerith-var-varmiinas-visage/zerith-var-zerith-var-varmiinas-visage.temper-companion-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}
+{"propertySlug":"target-page-type","path":"temper/catalog/companion/armor-weight/properties/armor-passive.relation-property.ts","id":"01a0df43-4d16-7852-a27e-89da9c1154a2"}

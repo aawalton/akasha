@@ -8,4 +8,6 @@ export const light = {
   title: "Light",
   hashPlace: 1,
   armorType: 1,
+  armorPassiveId: "temper-companion-skill/all-shared-flow",
+  armorSkillLineId: "temper-companion-skill-line/armor-light",
 } as const satisfies TemperCompanionArmorWeight

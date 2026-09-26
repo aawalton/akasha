@@ -6,11 +6,17 @@ export const temperCompanionArmorWeight = {
   slug: "temper-companion-armor-weight",
   definition: "how heavy a companion's body armor is made",
   extends: ["page-type/temper-companion-thing"],
-  parts: ["number-property/armor-type"],
+  parts: [
+    "number-property/armor-type",
+    "relation-property/armor-passive",
+    "relation-property/armor-skill-line",
+  ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/armor-type", required: false, many: false },
+    { pageProperty: "relation-property/armor-passive", required: false, many: false },
+    { pageProperty: "relation-property/armor-skill-line", required: false, many: false },
   ],
   decisions: [
     {

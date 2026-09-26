@@ -8,4 +8,6 @@ export const medium = {
   title: "Medium",
   hashPlace: 2,
   armorType: 2,
+  armorPassiveId: "temper-companion-skill/all-shared-flexibility",
+  armorSkillLineId: "temper-companion-skill-line/armor-medium",
 } as const satisfies TemperCompanionArmorWeight
