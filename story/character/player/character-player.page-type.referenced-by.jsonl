@@ -3,5 +3,6 @@
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/date-night-the-reading-room/characters/date-night-the-reading-room-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/characters/dragons-and-dungeons-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/harem-hotel/characters/harem-hotel-alan.character-player.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/characters/partners-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-player.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/characters/the-tower-alan.character-player.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/character/character.page-type.ts","id":"01a0c9ee-9556-79b7-90b9-394c11c2cf2b"}
