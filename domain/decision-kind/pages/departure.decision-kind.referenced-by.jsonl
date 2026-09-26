@@ -1310,7 +1310,6 @@
 {"propertySlug":"decision-kind","path":"change/agent/file/add-file/add-file.change-agent.ts","id":"01a07813-6e3b-77c3-9c1e-b0c5778fd31b"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-game-mechanic/add-game-mechanic.change-agent.ts","id":"01a0c496-2b97-76ff-8b10-c786cbff7340"}
 {"propertySlug":"decision-kind","path":"change/agent/file/add-image/add-image.change-agent.ts","id":"01a0d8af-2ae2-74bf-9141-797b10d92e3b"}
-{"propertySlug":"decision-kind","path":"change/agent/file/add-temper-metric-pages/add-temper-metric-pages.change-agent.ts","id":"01a0de64-e49f-75a7-88ae-5f38f14d686e"}
 {"propertySlug":"decision-kind","path":"change/agent/file/change-page-page-type/change-page-page-type.change-agent.ts","id":"01a07883-67ee-73cd-8370-4730fab7c87c"}
 {"propertySlug":"decision-kind","path":"change/agent/file/divide-file-code/divide-file-code.change-agent.ts","id":"01a09c47-b808-729b-93da-e1e57e0056a9"}
 {"propertySlug":"decision-kind","path":"change/agent/file/divide-page-property/divide-page-property.change-agent.ts","id":"01a08df3-43fc-70b7-b21c-a996acd3d268"}
@@ -5750,7 +5749,10 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-armors/target-armors.module.ts","id":"01a060ea-ac64-73f9-9faf-71788fd4b609"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/vampire-stages/vampire-stages.module.ts","id":"01a060ea-ac65-780c-876f-8ff34a264cc4"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-character-source.domain.ts","id":"01a060ea-ac66-7120-a995-b58614b651f2"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.ts","id":"01a0de73-1713-7598-b66f-9183a99a877a"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-reading/metric-reading.module.ts","id":"01a0de73-1713-74bd-aea0-cc41151a61a8"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.ts","id":"01a0d89c-8d0f-761e-97e4-9da2a32bd2fd"}
+{"propertySlug":"decision-kind","path":"temper/player/character/stat/modules/metrics/metrics.module.ts","id":"01a06131-abb7-7c5f-81a0-69154a33d704"}
 {"propertySlug":"decision-kind","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","id":"01a05fcd-f547-75dd-87b1-fce27e98fddd"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/modules/account-address/account-address.module.ts","id":"01a0d429-47a8-7060-8ba6-1e2dc523c0f6"}
@@ -6005,6 +6007,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/format-time-ago/format-time-ago.module.ts","id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/import-result/import-result.module.ts","id":"01a0640f-8510-79d2-a33e-1cfc18d185ee"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.ts","id":"01a06432-b190-70c9-b375-374e6c886d6a"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.ts","id":"01a0de73-1714-784a-96bf-19fa89a27ce0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.ts","id":"01a0d8c0-ee3f-7d46-8a94-09141a86ca9b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-reading/mine-row-reading.module.ts","id":"01a0d8d0-d4ed-7067-9018-4e495b5cba65"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mined-item-rows/mined-item-rows.module.ts","id":"01a0640f-8510-7325-9208-0be4870d37e6"}
@@ -6027,6 +6030,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.ts","id":"01a06421-f74b-780d-8790-490781880039"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.ts","id":"01a0640f-8510-7768-9aee-350974e45eea"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.ts","id":"01a0de73-1714-7025-882f-ddee0054b5c9"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-player/use-player.module.ts","id":"01a06354-4b4b-79cd-a3ce-5867c52ff199"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-recipe-catalog/use-recipe-catalog.module.ts","id":"01a0de64-3221-76c6-b047-3d627aa593b5"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.ts","id":"01a0de3d-b262-75f1-b48f-8c82016f6f74"}

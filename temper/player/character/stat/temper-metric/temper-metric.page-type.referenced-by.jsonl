@@ -1,4 +1,5 @@
-{"propertySlug":"import","fileName":"temper-metric.page-type.ts","path":"change/agent/file/add-temper-metric-pages/add-temper-metric-pages.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric.page-type.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-metric.page-type.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/alliance-points-gain/alliance-points-gain.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/attack-crit-damage-spell/attack-crit-damage-spell.temper-metric.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-metric.page-type.types.ts","path":"temper/player/character/stat/temper-metric/pages/attack-crit-damage-weapon/attack-crit-damage-weapon.temper-metric.ts","typed":true,"deferred":false}

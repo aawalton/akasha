@@ -107,7 +107,7 @@ export function diffEffectSources(
 function extractMetricIds(effects: readonly Effect[]): readonly MetricId[] {
   const ids: MetricId[] = []
   for (const effect of effects) {
-    if (isMetricEffect(effect) && metrics.has(effect.metricId)) {
+    if (isMetricEffect(effect) && metrics().has(effect.metricId)) {
       ids.push(effect.metricId)
     }
   }

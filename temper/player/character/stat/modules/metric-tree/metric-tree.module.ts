@@ -10,7 +10,8 @@ export const metricTree = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tree is built from the metric-tree pages the bundler's glob finds.",
+      statement:
+        "The tree is built from the metric-tree pages last read, and held until read again.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -147,8 +147,8 @@ function evaluatePlayerLeaf(node: FormulaNode, context: PlayerFormulaContext): n
         }
 
         if (node.convertRatingToChance) {
-          if (metrics.has(metricId)) {
-            const referencedMetric = metrics.data[metricId]
+          if (metrics().has(metricId)) {
+            const referencedMetric = metrics().data[metricId]
             if (referencedMetric.valueType === "rating" && "divisor" in referencedMetric) {
               total += convertRatingToChance(value, referencedMetric.divisor, referencedMetric.cap)
               continue

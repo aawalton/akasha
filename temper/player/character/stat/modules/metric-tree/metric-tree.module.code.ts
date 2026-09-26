@@ -1,13 +1,23 @@
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import type {
   CategoryNode,
   MetricTree,
   MetricTreeNode,
 } from "akasha/temper/player/character/stat/modules/metric-tree-types/metric-tree-types.module.code.ts"
-import type { TemperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.types.ts"
-import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
-type Paged = Readonly<Record<string, TemperMetricTree>>
+type Node = {
+  readonly slug: string
+  readonly nodeId: string
+  readonly nodeType: string
+  readonly title: string | null
+  readonly parent: string | null
+  readonly displayOrder: number
+  readonly includeInChildAggregates: boolean
+  readonly useAccentColor: boolean
+}
+
+type Under = ReadonlyMap<string | null, readonly Node[]>
 
 type Held = { readonly children?: readonly MetricTreeNode[] }
 
@@ -15,15 +25,31 @@ const PARENT = "temper-metric-tree/"
 
 const SUBCATEGORY = "subcategory"
 
-const FOUND = import.meta.glob<Paged>(
-  "../../../../progress/temper-metric-tree/**/*.temper-metric-tree.ts",
-  { eager: true }
-)
+const UNREAD =
+  "the stat tree is read from pages, and nothing has read it yet — gate the screen on `MetricCatalogGate`, or hold it before the work starts"
 
-function byParent(
-  nodes: readonly TemperMetricTree[]
-): ReadonlyMap<string | undefined, readonly TemperMetricTree[]> {
-  const under = new Map<string | undefined, TemperMetricTree[]>()
+class MetricTreeUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "MetricTreeUnread"
+  }
+}
+
+function nodeOf(value: Value): Node {
+  return {
+    slug: String(value.slug),
+    nodeId: String(value.nodeId),
+    nodeType: String(value.nodeType),
+    title: typeof value.title === "string" ? value.title : null,
+    parent: typeof value.parent === "string" ? value.parent : null,
+    displayOrder: typeof value.displayOrder === "number" ? value.displayOrder : 0,
+    includeInChildAggregates: value.includeInChildAggregates === true,
+    useAccentColor: value.useAccentColor === true,
+  }
+}
+
+function byParent(nodes: readonly Node[]): Under {
+  const under = new Map<string | null, Node[]>()
   for (const node of nodes) {
     const held = under.get(node.parent) ?? []
     held.push(node)
@@ -33,34 +59,47 @@ function byParent(
   return under
 }
 
-const UNDER = byParent(Object.values(FOUND).flatMap((paged) => Object.values(paged)))
-
-function nameOf(node: TemperMetricTree): string {
+function nameOf(node: Node): string {
   return node.title ?? node.nodeId
 }
 
-function heldUnder(node: TemperMetricTree): Held {
-  const held = UNDER.get(`${PARENT}${node.slug}`)
-  return held === undefined ? {} : { children: held.map(treeNode) }
+function heldUnder(under: Under, node: Node): Held {
+  const held = under.get(`${PARENT}${node.slug}`)
+  return held === undefined ? {} : { children: held.map((one) => treeNode(under, one)) }
 }
 
-function treeNode(node: TemperMetricTree): MetricTreeNode {
+function treeNode(under: Under, node: Node): MetricTreeNode {
   if (node.nodeType === SUBCATEGORY) {
-    return { type: SUBCATEGORY, id: node.nodeId, name: nameOf(node), ...heldUnder(node) }
+    return { type: SUBCATEGORY, id: node.nodeId, name: nameOf(node), ...heldUnder(under, node) }
   }
   return {
     type: "metric",
     id: node.nodeId as MetricId,
-    ...(node.includeInChildAggregates === true ? { includeInChildAggregates: true } : {}),
-    ...(node.useAccentColor === true ? { useAccentColor: true } : {}),
-    ...heldUnder(node),
+    ...(node.includeInChildAggregates ? { includeInChildAggregates: true } : {}),
+    ...(node.useAccentColor ? { useAccentColor: true } : {}),
+    ...heldUnder(under, node),
   }
 }
 
-function categoryNode(node: TemperMetricTree): CategoryNode {
-  return { id: node.nodeId, name: nameOf(node), ...heldUnder(node) }
+function categoryNode(under: Under, node: Node): CategoryNode {
+  return { id: node.nodeId, name: nameOf(node), ...heldUnder(under, node) }
 }
 
-export const METRIC_TREE: MetricTree = Object.fromEntries(
-  (UNDER.get(undefined) ?? []).map((node) => [node.nodeId, categoryNode(node)])
-)
+export function metricTreeOf(pages: Iterable<Value>): MetricTree {
+  const under = byParent([...pages].map(nodeOf))
+  return Object.fromEntries(
+    (under.get(null) ?? []).map((node) => [node.nodeId, categoryNode(under, node)])
+  )
+}
+
+let held: MetricTree | null = null
+
+export function holdMetricTree(tree: MetricTree): MetricTree {
+  held = tree
+  return tree
+}
+
+export function metricTree(): MetricTree {
+  if (held === null) throw new MetricTreeUnread()
+  return held
+}

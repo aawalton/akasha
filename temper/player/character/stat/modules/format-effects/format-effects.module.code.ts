@@ -14,7 +14,7 @@ import {
 } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 
 function resolveMetricName(metricId: string): string {
-  return metrics.has(metricId) ? getMetricDisplayName(metricId) : metricId
+  return metrics().has(metricId) ? getMetricDisplayName(metricId) : metricId
 }
 
 export function formatEffects(

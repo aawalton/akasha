@@ -29,7 +29,7 @@ function extractMetricReferences(node: FormulaNode): Set<MetricId> {
 
   if (node.type === "metric-refs") {
     for (const metricIdStr of node.metricIds) {
-      if (metrics.has(metricIdStr)) {
+      if (metrics().has(metricIdStr)) {
         refs.add(metricIdStr)
       }
     }
@@ -69,7 +69,8 @@ function buildDependencyGraph(metrics: readonly MetricWithFormula[]): Map<Metric
 function calculateBaseStats(
   sources: readonly EffectSource[]
 ): Partial<Record<MetricId, MetricValue>> {
-  const dependencies = buildDependencyGraph(metricsWithFormulas)
+  const withFormulas = metricsWithFormulas()
+  const dependencies = buildDependencyGraph(withFormulas)
 
   const allReferencedMetricIds = new Set<MetricId>()
   for (const deps of dependencies.values()) {
@@ -80,8 +81,8 @@ function calculateBaseStats(
 
   const metricValues = new Map<MetricId, number>()
   for (const metricId of allReferencedMetricIds) {
-    if (metrics.has(metricId)) {
-      const metric = metrics.data[metricId]
+    if (metrics().has(metricId)) {
+      const metric = metrics().data[metricId]
       if (!hasFormula(metric)) {
         metricValues.set(metricId, 0)
       }
@@ -89,7 +90,7 @@ function calculateBaseStats(
   }
 
   const calculationOrder = topologicalSort(
-    metricsWithFormulas,
+    withFormulas,
     (metric) => metric.id,
     (metric) => dependencies.get(metric.id) ?? new Set()
   )

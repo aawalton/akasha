@@ -57,7 +57,7 @@ function convertPlayerLeaf(
       const results: DisplayResult[] = []
 
       for (const metricIdStr of node.metricIds) {
-        if (!metrics.has(metricIdStr)) {
+        if (!metrics().has(metricIdStr)) {
           results.push({
             node: { type: "variable", label: metricIdStr },
             value: 0,
@@ -78,7 +78,7 @@ function convertPlayerLeaf(
         }
 
         if (node.convertRatingToChance) {
-          const referencedMetric = metrics.data[metricId]
+          const referencedMetric = metrics().data[metricId]
           if (referencedMetric.valueType === "rating" && "divisor" in referencedMetric) {
             const chanceValue = convertRatingToChance(
               rawValue,
@@ -98,7 +98,7 @@ function convertPlayerLeaf(
           }
         }
 
-        const referencedMetric = metrics.data[metricId]
+        const referencedMetric = metrics().data[metricId]
         const format: NumberFormat =
           referencedMetric.valueType === "fractional-change" ? "percent" : "integer"
         results.push({

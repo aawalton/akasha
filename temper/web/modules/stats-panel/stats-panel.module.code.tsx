@@ -15,7 +15,7 @@ import {
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { isNamedSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
-import { METRIC_TREE } from "akasha/temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts"
+import { metricTree } from "akasha/temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts"
 import {
   isMetricNode,
   isSubcategoryNode,
@@ -52,6 +52,7 @@ export function StatsPanel({
   columnCount,
 }: StatsPanelProps) {
   const [searchFilter, setSearchFilter] = useState("")
+  const tree = metricTree()
 
   const { frontStats, backStats, frontSources, backSources, isLoading } = useStatsCalculation(build)
 
@@ -154,7 +155,7 @@ export function StatsPanel({
   const debuffs = activeSources.filter(isNamedSource).filter((s) => s.categoryId === "debuffs")
   const hasBuffResults = filterEffectsBySearch(buffs, searchFilter).length > 0
   const hasDebuffResults = filterEffectsBySearch(debuffs, searchFilter).length > 0
-  const hasStatCategoryResults = Object.values(METRIC_TREE).some((category) =>
+  const hasStatCategoryResults = Object.values(tree).some((category) =>
     categoryHasResults(category, activeStats, searchFilter)
   )
   const hasResults = hasBuffResults || hasDebuffResults || hasStatCategoryResults
@@ -187,7 +188,7 @@ export function StatsPanel({
       </Empty>
     )
   } else {
-    Object.entries(METRIC_TREE).forEach(([categoryKey, category]) => {
+    Object.entries(tree).forEach(([categoryKey, category]) => {
       panelChildren.push(
         <StatCategoryPanelCard
           key={category.name}

@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-calculator/metric-calculator.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-display-formula/metric-display-formula.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-formulas/metric-formulas.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/modules/metric-template/metric-template.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/alliance-points-gain/alliance-points-gain.temper-metric.formula.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"formula-types.module.code.ts","path":"temper/player/character/stat/temper-metric/pages/attack-crit-damage-spell/attack-crit-damage-spell.temper-metric.formula.ts","typed":true,"deferred":false}

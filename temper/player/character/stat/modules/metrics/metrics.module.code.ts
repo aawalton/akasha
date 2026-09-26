@@ -1,54 +1,11 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import {
+  createDataFile,
+  type DataFile,
+} from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
 import type { MetricTemplate } from "akasha/temper/player/character/stat/modules/metric-template/metric-template.module.code.ts"
-import { METRICS_DATA_01 } from "akasha/temper/player/character/stat/modules/metrics-data-01/metrics-data-01.module.code.ts"
-import { METRICS_DATA_02 } from "akasha/temper/player/character/stat/modules/metrics-data-02/metrics-data-02.module.code.ts"
-import { METRICS_DATA_03 } from "akasha/temper/player/character/stat/modules/metrics-data-03/metrics-data-03.module.code.ts"
-import { METRICS_DATA_04 } from "akasha/temper/player/character/stat/modules/metrics-data-04/metrics-data-04.module.code.ts"
-import { METRICS_DATA_05 } from "akasha/temper/player/character/stat/modules/metrics-data-05/metrics-data-05.module.code.ts"
-import { METRICS_DATA_06 } from "akasha/temper/player/character/stat/modules/metrics-data-06/metrics-data-06.module.code.ts"
-import { METRICS_DATA_07 } from "akasha/temper/player/character/stat/modules/metrics-data-07/metrics-data-07.module.code.ts"
-import { METRICS_DATA_08 } from "akasha/temper/player/character/stat/modules/metrics-data-08/metrics-data-08.module.code.ts"
-import { METRICS_DATA_09 } from "akasha/temper/player/character/stat/modules/metrics-data-09/metrics-data-09.module.code.ts"
-import { METRICS_DATA_10 } from "akasha/temper/player/character/stat/modules/metrics-data-10/metrics-data-10.module.code.ts"
-import { METRICS_DATA_11 } from "akasha/temper/player/character/stat/modules/metrics-data-11/metrics-data-11.module.code.ts"
-import { METRICS_DATA_12 } from "akasha/temper/player/character/stat/modules/metrics-data-12/metrics-data-12.module.code.ts"
-import { METRICS_DATA_13 } from "akasha/temper/player/character/stat/modules/metrics-data-13/metrics-data-13.module.code.ts"
-import { METRICS_DATA_14 } from "akasha/temper/player/character/stat/modules/metrics-data-14/metrics-data-14.module.code.ts"
-import { METRICS_DATA_15 } from "akasha/temper/player/character/stat/modules/metrics-data-15/metrics-data-15.module.code.ts"
-import { METRICS_DATA_16 } from "akasha/temper/player/character/stat/modules/metrics-data-16/metrics-data-16.module.code.ts"
 
-type MetricsRecord = Record<MetricId, MetricTemplate>
-function asMetricsRecord(value: unknown): MetricsRecord {
-  return value as MetricsRecord
-}
-
-const METRICS_DATA = asMetricsRecord({
-  ...METRICS_DATA_01,
-  ...METRICS_DATA_02,
-  ...METRICS_DATA_03,
-  ...METRICS_DATA_04,
-  ...METRICS_DATA_05,
-  ...METRICS_DATA_06,
-  ...METRICS_DATA_07,
-  ...METRICS_DATA_08,
-  ...METRICS_DATA_09,
-  ...METRICS_DATA_10,
-  ...METRICS_DATA_11,
-  ...METRICS_DATA_12,
-  ...METRICS_DATA_13,
-  ...METRICS_DATA_14,
-  ...METRICS_DATA_15,
-  ...METRICS_DATA_16,
-})
-
-const METRICS_DATA_WITH_FORMULAS = asMetricsRecord(
-  Object.fromEntries(Object.entries(METRICS_DATA).filter(([, m]) => m.formula !== undefined))
-)
-
-export const metrics = createDataFile<MetricTemplate>()(METRICS_DATA)
-
-const metricsWithFormulasDataFile = createDataFile<MetricTemplate>()(METRICS_DATA_WITH_FORMULAS)
+export type MetricCatalog = DataFile<MetricId, MetricTemplate>
 
 export type Metric = MetricTemplate & { id: MetricId }
 
@@ -56,11 +13,51 @@ export type MetricWithFormula = Metric & {
   formula: NonNullable<MetricTemplate["formula"]>
 }
 
-export const metricsWithFormulas: readonly MetricWithFormula[] =
-  metricsWithFormulasDataFile.list.filter(hasFormula)
+const UNREAD =
+  "the stat catalogue is read from pages, and nothing has read it yet — gate the screen on `MetricCatalogGate`, or hold it before the work starts"
+
+class MetricCatalogUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "MetricCatalogUnread"
+  }
+}
+
+function keyedById(templates: readonly MetricTemplate[]): Record<MetricId, MetricTemplate> {
+  const keyed: Partial<Record<MetricId, MetricTemplate>> = {}
+  for (const one of templates) keyed[one.id] = one
+  return keyed as Record<MetricId, MetricTemplate>
+}
+
+export function metricCatalogOf(templates: readonly MetricTemplate[]): MetricCatalog {
+  return createDataFile<MetricTemplate>()(keyedById(templates))
+}
+
+let held: MetricCatalog | null = null
+
+const WITH_FORMULAS = new WeakMap<MetricCatalog, readonly MetricWithFormula[]>()
+
+export function holdMetricCatalog(catalog: MetricCatalog): MetricCatalog {
+  held = catalog
+  return catalog
+}
+
+export function metrics(): MetricCatalog {
+  if (held === null) throw new MetricCatalogUnread()
+  return held
+}
+
+export function metricsWithFormulas(): readonly MetricWithFormula[] {
+  const catalog = metrics()
+  const already = WITH_FORMULAS.get(catalog)
+  if (already !== undefined) return already
+  const found = catalog.list.filter(hasFormula)
+  WITH_FORMULAS.set(catalog, found)
+  return found
+}
 
 export function getMetricDisplayName(metricId: MetricId): string {
-  return metrics.data[metricId].name
+  return metrics().data[metricId].name
 }
 
 export function hasFormula(

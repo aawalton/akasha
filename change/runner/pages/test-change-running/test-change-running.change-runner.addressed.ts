@@ -38,9 +38,6 @@ export type Changes = {
   "change-agent/add-property-values": Parameters<
     typeof import("akasha/change/agent/file-content/add-property-values/add-property-values.change-agent.code.ts")["runChange"]
   >[1]
-  "change-agent/add-temper-metric-pages": Parameters<
-    typeof import("akasha/change/agent/file/add-temper-metric-pages/add-temper-metric-pages.change-agent.code.ts")["runChange"]
-  >[1]
   "change-agent/append-lines": Parameters<
     typeof import("akasha/change/agent/file-content/append-lines/append-lines.change-agent.code.ts")["runChange"]
   >[1]

@@ -15,7 +15,7 @@
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"product/audhdalan/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"product/smilingjenny/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"product/wandering-inn-wiki/web/root.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/player/character/stat/modules/metric-formula-files/metric-formula-files.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"vite-client.type-declaration.d.ts","path":"temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.test.ts","typed":false,"deferred":false}

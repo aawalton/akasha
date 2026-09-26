@@ -127,7 +127,7 @@ export function explainBuff(
   const metricEffects: MetricEffect[] = buff.effects.filter(isMetricEffect)
   const effects: BuffEffectDetail[] = metricEffects.map((effect) => {
     return {
-      metricName: metrics.has(effect.metricId)
+      metricName: metrics().has(effect.metricId)
         ? getMetricDisplayName(effect.metricId)
         : effect.metricId,
       effectType: effect.effectType,

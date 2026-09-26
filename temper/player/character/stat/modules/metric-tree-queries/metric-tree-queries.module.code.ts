@@ -1,5 +1,5 @@
 import type { MetricId } from "akasha/temper/player/character/formula-framework/modules/metric-id/metric-id.module.code.ts"
-import { METRIC_TREE } from "akasha/temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts"
+import { metricTree } from "akasha/temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts"
 import {
   isMetricNode,
   type MetricTree,
@@ -44,8 +44,16 @@ function buildParentChainIndex(tree: MetricTree): Map<MetricId, MetricId[]> {
   return index
 }
 
-const METRIC_PARENT_CHAIN = buildParentChainIndex(METRIC_TREE)
+const CHAINS = new WeakMap<MetricTree, Map<MetricId, MetricId[]>>()
+
+function chainsOf(tree: MetricTree): Map<MetricId, MetricId[]> {
+  const already = CHAINS.get(tree)
+  if (already !== undefined) return already
+  const built = buildParentChainIndex(tree)
+  CHAINS.set(tree, built)
+  return built
+}
 
 export function getAggregateMetricIds(metricId: MetricId): readonly MetricId[] {
-  return METRIC_PARENT_CHAIN.get(metricId) ?? [metricId]
+  return chainsOf(metricTree()).get(metricId) ?? [metricId]
 }

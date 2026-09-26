@@ -39,6 +39,7 @@ import {
 import { CharacterEditor } from "akasha/temper/web/modules/character-editor/character-editor.module.code.tsx"
 import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.code.tsx"
 import { CompanionEditor } from "akasha/temper/web/modules/companion-editor/companion-editor.module.code.tsx"
+import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
 import { useEffect } from "react"
@@ -287,17 +288,23 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
         fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
       >
         {(catalog) => (
-          <CharacterEditor
-            buildId={toBuildId(loaderData.buildId)}
-            initialTab={tab}
-            initialBuild={loaderData.initialBuild}
-            initialBuildHash={loaderData.initialBuildHash}
-            isOwner={loaderData.isOwner}
-            initialVisibility={loaderData.initialVisibility}
-            isTargetBuild={loaderData.isTargetBuild}
-            availableSkills={skills.list}
-            availableSets={catalog.list}
-          />
+          <MetricCatalogGate
+            fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
+          >
+            {() => (
+              <CharacterEditor
+                buildId={toBuildId(loaderData.buildId)}
+                initialTab={tab}
+                initialBuild={loaderData.initialBuild}
+                initialBuildHash={loaderData.initialBuildHash}
+                isOwner={loaderData.isOwner}
+                initialVisibility={loaderData.initialVisibility}
+                isTargetBuild={loaderData.isTargetBuild}
+                availableSkills={skills.list}
+                availableSets={catalog.list}
+              />
+            )}
+          </MetricCatalogGate>
         )}
       </SetCatalogGate>
     )
@@ -308,15 +315,21 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
       <CompanionCatalogGate
         fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
       >
-        <CompanionEditor
-          buildId={toBuildId(loaderData.buildId)}
-          initialTab={tab}
-          initialBuild={loaderData.initialBuild}
-          initialBuildHash={loaderData.initialBuildHash}
-          isOwner={loaderData.isOwner}
-          initialVisibility={loaderData.initialVisibility}
-          isTargetBuild={loaderData.isTargetBuild}
-        />
+        <MetricCatalogGate
+          fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
+        >
+          {() => (
+            <CompanionEditor
+              buildId={toBuildId(loaderData.buildId)}
+              initialTab={tab}
+              initialBuild={loaderData.initialBuild}
+              initialBuildHash={loaderData.initialBuildHash}
+              isOwner={loaderData.isOwner}
+              initialVisibility={loaderData.initialVisibility}
+              isTargetBuild={loaderData.isTargetBuild}
+            />
+          )}
+        </MetricCatalogGate>
       </CompanionCatalogGate>
     )
   }
