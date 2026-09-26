@@ -28,6 +28,7 @@ export const worldDerivedMetric = {
     "world-derived-metric/harem-hotel-mental-attack",
     "world-derived-metric/harem-hotel-mental-defence",
     "world-derived-metric/harem-hotel-leveling",
+    "world-derived-metric/cornerstone-wakefulness",
   ],
   properties: [{ pageProperty: "module-property-group/formula", required: true, many: false }],
   types: "ts",
