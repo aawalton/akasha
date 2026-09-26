@@ -9,7 +9,7 @@ export const companionActivationBuffs = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the companion pages rather than by hand.",
+      statement: "A buff's name is read from its page rather than from a copy in code.",
     },
   ],
 } as const satisfies Module

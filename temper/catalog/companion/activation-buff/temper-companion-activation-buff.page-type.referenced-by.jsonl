@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-companion-activation-buff.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-activation-buff.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-activation-buff.page-type.types.ts","path":"temper/catalog/companion/activation-buff/pages/damage-taken-increase.temper-companion-activation-buff.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-activation-buff.page-type.types.ts","path":"temper/catalog/companion/activation-buff/pages/flat-damage-reduction.temper-companion-activation-buff.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-activation-buff.page-type.types.ts","path":"temper/catalog/companion/activation-buff/pages/flat-resistance.temper-companion-activation-buff.ts","typed":true,"deferred":false}

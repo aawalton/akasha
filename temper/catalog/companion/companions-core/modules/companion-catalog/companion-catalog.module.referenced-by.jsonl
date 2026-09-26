@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
@@ -6,6 +7,7 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-optimizer/companion-optimizer.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-passive-effects/companion-passive-effects.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-passive-metrics/companion-passive-metrics.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-reading/companion-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-metrics/companion-rotation-metrics.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-results/companion-rotation-results.module.code.ts","typed":false,"deferred":false}

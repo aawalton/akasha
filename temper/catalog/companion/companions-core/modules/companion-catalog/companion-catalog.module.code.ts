@@ -42,11 +42,15 @@ export interface CompanionCatalogParts {
   readonly weaponRoles: readonly CompanionWeaponRoleTemplate[]
   readonly weaponTypes: readonly CompanionWeaponTypeTemplate[]
   readonly equipmentConstants: readonly CompanionEquipmentConstant[]
+  readonly activationBuffs: readonly CompanionRoleTemplate[]
+  readonly passiveMetrics: readonly CompanionRoleTemplate[]
 }
 
 export interface CompanionCatalog {
   readonly weaponTypes: readonly CompanionWeaponTypeTemplate[]
   readonly equipmentConstants: readonly CompanionEquipmentConstant[]
+  readonly activationBuffs: readonly CompanionRoleTemplate[]
+  readonly passiveMetrics: readonly CompanionRoleTemplate[]
   readonly roles: readonly CompanionRoleTemplate[]
   readonly baseRoles: readonly CompanionBaseRoleTemplate[]
   readonly qualities: readonly CompanionEquipmentQualityTemplate[]
@@ -86,6 +90,8 @@ export function catalogOf({
   weaponRoles,
   weaponTypes,
   equipmentConstants,
+  activationBuffs,
+  passiveMetrics,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -102,6 +108,8 @@ export function catalogOf({
     weaponRoles,
     weaponTypes,
     equipmentConstants,
+    activationBuffs,
+    passiveMetrics,
     companions,
     companionsById,
     skills,

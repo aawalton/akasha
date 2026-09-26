@@ -1,6 +1,6 @@
-import { companionActivationBuffs } from "akasha/temper/catalog/companion/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.code.ts"
+import { companionActivationBuffName } from "akasha/temper/catalog/companion/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
-import { companionPassiveMetrics } from "akasha/temper/catalog/companion/companions-core/modules/companion-passive-metrics/companion-passive-metrics.module.code.ts"
+import { companionPassiveMetricName } from "akasha/temper/catalog/companion/companions-core/modules/companion-passive-metrics/companion-passive-metrics.module.code.ts"
 import type {
   SpecialEffectType,
   StatusEffectType,
@@ -15,22 +15,16 @@ import { buffOrDebuff } from "akasha/temper/player/character/formula-framework/m
 
 const buffOrDebuffByName: Readonly<Record<string, { name: string }>> = buffOrDebuff.data
 
+function buffLabel(buff: string): string {
+  return buffOrDebuffByName[buff]?.name ?? companionActivationBuffName(buff) ?? buff
+}
+
 export function formatBuffType(buff: ActivationBuffType): string {
-  const entry = buffOrDebuffByName[buff]
-  if (entry) return entry.name
-  if (companionActivationBuffs.has(buff)) {
-    return companionActivationBuffs.data[buff].name
-  }
-  return buff
+  return buffLabel(buff)
 }
 
 export function formatDebuffType(debuff: ActivationDebuffType): string {
-  const entry = buffOrDebuffByName[debuff]
-  if (entry) return entry.name
-  if (companionActivationBuffs.has(debuff)) {
-    return companionActivationBuffs.data[debuff].name
-  }
-  return debuff
+  return buffLabel(debuff)
 }
 
 export function formatStatusEffect(status: StatusEffectType): string {
@@ -42,8 +36,5 @@ export function formatSpecialEffect(effect: SpecialEffectType): string {
 }
 
 export function formatPassiveMetric(metricId: CompanionMetricId): string {
-  if (companionPassiveMetrics.has(metricId)) {
-    return companionPassiveMetrics.data[metricId].name
-  }
-  return metricId
+  return companionPassiveMetricName(metricId) ?? metricId
 }

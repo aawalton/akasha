@@ -1,4 +1,5 @@
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { temperCompanionActivationBuff } from "akasha/temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.ts"
 import { temperCompanionBaseRole } from "akasha/temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"
 import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
@@ -45,6 +46,7 @@ import {
   isCompanionWeaponTypeId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { temperCompanionEquipmentQuality } from "akasha/temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts"
+import { temperCompanionPassiveMetric } from "akasha/temper/catalog/companion/passive-metric/temper-companion-passive-metric.page-type.ts"
 import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
@@ -120,6 +122,8 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionWeaponRole.slug, WEAPON_ROLE_KEYS],
   [temperCompanionWeaponType.slug, WEAPON_TYPE_KEYS],
   [temperEsoCompanionEquipmentConstant.slug, CONSTANT_KEYS],
+  [temperCompanionActivationBuff.slug, NAMED_KEYS],
+  [temperCompanionPassiveMetric.slug, NAMED_KEYS],
 ]
 
 function constantsFrom(rows: readonly Row[]): readonly CompanionEquipmentConstant[] {
@@ -233,5 +237,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     weaponRoles: weaponRolesFrom(rowsOf(temperCompanionWeaponRole.slug)),
     weaponTypes: weaponTypesFrom(rowsOf(temperCompanionWeaponType.slug)),
     equipmentConstants: constantsFrom(rowsOf(temperEsoCompanionEquipmentConstant.slug)),
+    activationBuffs: namedFrom(rowsOf(temperCompanionActivationBuff.slug)),
+    passiveMetrics: namedFrom(rowsOf(temperCompanionPassiveMetric.slug)),
   })
 }
