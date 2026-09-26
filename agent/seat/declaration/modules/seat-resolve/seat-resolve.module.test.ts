@@ -15,7 +15,7 @@ import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { relationProperty } from "akasha/page/relation-property/relation-property.page-type.ts"
-import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
+import { theTower } from "akasha/story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts"
 
 const ROOT = rootOf(import.meta.dir)
 

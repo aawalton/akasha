@@ -16,6 +16,10 @@
 {"propertySlug":"character-story","path":"story/world/pages/personas/stories/played/the-tower/characters/the-tower-the-host-trueform-02.character-other.ts","id":"01a0ca2c-cfdd-7e32-9a6f-013b26b28bf0"}
 {"propertySlug":"character-story","path":"story/world/pages/personas/stories/played/the-tower/characters/the-tower-the-welcomer-01.character-other.ts","id":"01a0ca2c-fbcd-7652-bdd6-29d28dfb2987"}
 {"propertySlug":"character-story","path":"story/world/pages/personas/stories/played/the-tower/characters/the-tower-the-welcomers-pair-01.character-other.ts","id":"01a0ca2c-ecce-7a07-a722-26c28491eb6e"}
+{"propertySlug":"import","fileName":"the-tower.story-played.ts","path":"agent/message/recipient-resolving/modules/recipient-resolver-registry/recipient-resolver-registry.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"the-tower.story-played.ts","path":"agent/seat/declaration/modules/seat-resolve/seat-resolve.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"the-tower.story-played.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"the-tower.story-played.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"item-story","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-alcove-scratched-words.item.ts","id":"01a0d443-8cd5-7aa8-817f-5f2a587444da"}
 {"propertySlug":"item-story","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-ashling-living-ember.item.ts","id":"01a0d3dd-b74f-7c36-b921-e85947018666"}
 {"propertySlug":"item-story","path":"story/world/pages/personas/stories/played/the-tower/items/the-tower-blackened-bone-scatter.item.ts","id":"01a0d442-ba42-78d6-a8f9-9c2c9e4a9057"}

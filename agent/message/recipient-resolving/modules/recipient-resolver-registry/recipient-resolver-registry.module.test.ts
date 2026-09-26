@@ -11,7 +11,7 @@ import {
   ACTION_BAR_PLAYER,
   ACTION_BAR_SENDER,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
-import { theTower } from "akasha/story/game/pages/the-tower/the-tower.story-game.ts"
+import { theTower } from "akasha/story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts"
 
 const ROOT = rootOf(import.meta.dir)
 

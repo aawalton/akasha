@@ -5,7 +5,7 @@ export const mariGameMasterTheDatingGame = {
   type: "page-type/seat",
   slug: "mari-game-master-the-dating-game",
   persona: "persona/mari",
-  assignmentSlug: "story-game/the-dating-game",
+  assignmentSlug: "story-played/the-dating-game",
   role: "role/game-master",
   person: "person/alan",
   startMode: "seat-mode/interactive",

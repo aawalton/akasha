@@ -138,12 +138,12 @@ export const gameMaster = {
     {
       directiveKind: "directive-kind/rule",
       name: "Close The Chapter",
-      act: "Close the chapter with `akasha story chapter-close` once a turn crosses your game's chapter break.",
+      act: "Close the chapter with `akasha story chapter-close` once a turn crosses your story's chapter break.",
       warrant:
         "Turns left open pile up on the play page, and a reader reads the story whole only as chapters.",
       aids: [
         "Close through the turn that crosses, titled for what the chapter told.",
-        "A game naming no chapter break closes no chapter.",
+        "A story played naming no chapter break closes no chapter.",
       ],
     },
     {

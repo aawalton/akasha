@@ -27,7 +27,7 @@ import {
 
 const ROOT = rootFor(resolveRoots(), AKASHA)
 
-const GAME = "story-game"
+const GAME = "story-played"
 
 const GAME_MASTER = "game-master"
 
