@@ -3026,7 +3026,6 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.ts","id":"01a09467-62d1-7e1e-b24d-b6186ad6cf98"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/modules/file-following/file-following.module.ts","id":"01a05a5e-4f46-76e6-8f54-5318900f7d74"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/modules/run-composing/run-composing.module.ts","id":"01a08dff-2d3f-7efd-945c-c66c06e004db"}
-{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/modules/run-outcome/run-outcome.module.ts","id":"01a0b71e-6a03-7c15-aa64-3cd18c31ba0c"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/modules/service-alerting/service-alerting.module.ts","id":"01a0821e-fce5-7c36-a9bf-49d374faeb31"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/modules/service-asking/service-asking.module.ts","id":"01a09424-ecd8-7c1f-b068-99932a16c139"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/modules/service-beating/service-beating.module.ts","id":"01a08cb0-defb-7ab1-9512-d43812f8fe80"}
@@ -3074,6 +3073,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/properties/worked-at.instant-property.ts","id":"01a08caf-449d-7319-acb4-c598e9e345ee"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/properties/works-within-seconds.number-property.ts","id":"01a08caf-5c90-7f52-b4dc-e6e010e9aa46"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/service-workstation/test-fixtures/run-outcome/run-outcome.test-fixture.ts","id":"01a0b71e-6a03-7c15-aa64-3cd18c31ba0c"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/vendored-workload/vendored-workload.page-type.ts","id":"01a068e5-527b-7fd9-b67c-c38bcf39040a"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-env-writing/dev-server-env-writing.module.ts","id":"01a06583-0030-7006-a432-522c63fe9935"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-recording/dev-server-recording.module.ts","id":"01a06583-0030-7005-bc8d-acc88730da21"}

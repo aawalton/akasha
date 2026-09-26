@@ -1,8 +1,8 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
+import type { TestFixture } from "akasha/check/test/fixture/test-fixture.page-type.types.ts"
 
 export const runOutcome = {
   id: "01a0b71e-6a03-7c15-aa64-3cd18c31ba0c",
-  type: "page-type/module",
+  type: "page-type/test-fixture",
   slug: "run-outcome",
   definition: "whether a service's run answered or is still working",
   code: "ts",
@@ -20,4 +20,4 @@ export const runOutcome = {
       statement: "A clock reaching the end first says the run is following its work on.",
     },
   ],
-} as const satisfies Module
+} as const satisfies TestFixture

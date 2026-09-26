@@ -2,7 +2,7 @@ import { expect, mock, test } from "bun:test"
 import {
   FOLLOWING_ON,
   outcomeOf,
-} from "akasha/infrastructure/service/akasha-service/service-workstation/modules/run-outcome/run-outcome.module.code.ts"
+} from "akasha/infrastructure/service/akasha-service/service-workstation/test-fixtures/run-outcome/run-outcome.test-fixture.code.ts"
 
 const HANDED: (readonly string[])[] = []
 
