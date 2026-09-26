@@ -218,6 +218,19 @@ export const gameMaster = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Current Sheet",
+      act: "Write every number a turn changed onto the page keeping it, in the landing publishing the turn.",
+      warrant:
+        "His sheet is drawn from those pages alone, so a number left unwritten shows him a stale sheet.",
+      aids: [
+        "A metric page takes its new value, and its history a line of the turn's number and that value.",
+        "Add a history line with the `append-lines` change; a history is never written over.",
+        "A skill the turn advanced takes its new rank, level and demonstrations on its holding page.",
+        "A game still keeping game-turn pages writes its game-turn page as before.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Fair Puzzle",
       act: "Deal every clue a puzzle needs before the puzzle asks the player for its answer.",
       warrant:
