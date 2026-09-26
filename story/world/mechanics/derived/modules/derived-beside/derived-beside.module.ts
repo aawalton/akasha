@@ -38,6 +38,14 @@ export const derivedBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every item's numbers are asked beside the player, and the worn ones kept here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The reads wait on each other twice at most: for the player, then for its pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A derived number whose formula refuses is left out.",
     },
 

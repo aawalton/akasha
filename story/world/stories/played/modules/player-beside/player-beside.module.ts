@@ -18,6 +18,10 @@ export const playerBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The story and every character player are asked at once, and joined here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A story with no character player is answered nothing.",
     },
     {

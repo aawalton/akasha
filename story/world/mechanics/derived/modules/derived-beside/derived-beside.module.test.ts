@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  carriedIn,
   derivedIn,
   heldIn,
 } from "akasha/story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts"
@@ -32,4 +33,13 @@ test("a derived number is named by its page's title and left out where its formu
   expect(derivedIn({ [MIGHT]: 7, [GEAR]: 3 }, WORKINGS)).toEqual({ Health: 15, Attack: 3 })
   expect(derivedIn({}, WORKINGS)).toEqual({})
   expect(derivedIn({ [MIGHT]: 7 }, [])).toEqual({})
+})
+
+test("an item's numbers count only where the item is worn", () => {
+  const rows = [
+    { values: { type: GEAR, item: "item/sword", value: 4 } },
+    { values: { type: GEAR, item: "item/shield", value: 9 } },
+  ]
+  expect(carriedIn(rows, ["item/sword"]).map((row) => row.values.value)).toEqual([4])
+  expect(carriedIn(rows, [])).toEqual([])
 })

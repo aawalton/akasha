@@ -21,22 +21,22 @@ export function characterIn(rows: readonly Played[]): string | null {
   return null
 }
 
-async function characterOf(story: unknown): Promise<string | null> {
-  if (typeof story !== "string" || story === "") return null
-  const asked = await askComposed({
-    "page-type": characterPlayer.slug,
-    where: { story: { is: namedAs(storyPlayed.slug, story, null) } },
-    keys: [SLUG_KEY, STORY_KEY],
-  })
-  return asked.ok ? characterIn(asked.answer.rows) : null
+export function playerIn(stories: readonly Played[], players: readonly Played[]): string | null {
+  const slug = stories[0]?.values[SLUG_KEY]
+  if (typeof slug !== "string" || slug === "") return null
+  const story = namedAs(storyPlayed.slug, slug, null)
+  return characterIn(players.filter((row) => row.values[STORY_KEY] === story))
 }
 
 export async function playerOf(game: string): Promise<string | null> {
-  const asked = await askComposed({
-    "page-type": storyPlayed.slug,
-    where: { externalId: { is: game } },
-    keys: [EXTERNAL_KEY, SLUG_KEY],
-  })
-  if (!asked.ok) return null
-  return characterOf(asked.answer.rows[0]?.values[SLUG_KEY])
+  const [stories, players] = await Promise.all([
+    askComposed({
+      "page-type": storyPlayed.slug,
+      where: { externalId: { is: game } },
+      keys: [EXTERNAL_KEY, SLUG_KEY],
+    }),
+    askComposed({ "page-type": characterPlayer.slug, keys: [SLUG_KEY, STORY_KEY] }),
+  ])
+  if (!stories.ok || !players.ok) return null
+  return playerIn(stories.answer.rows, players.answer.rows)
 }

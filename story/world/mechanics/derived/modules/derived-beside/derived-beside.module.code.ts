@@ -78,10 +78,22 @@ function unwornIn(rows: readonly QueryRow[]): Record<string, number> {
   return held
 }
 
+export function carriedIn(rows: readonly QueryRow[], worn: readonly string[]): readonly QueryRow[] {
+  return rows.filter((row) => worn.includes(textIn(row.values[ITEM_KEY]) ?? ""))
+}
+
 async function readDerived(game: string, workings: readonly Working[]): Promise<Sheet> {
-  const character = await playerOf(game)
+  const [character, gear, metrics] = await Promise.all([
+    playerOf(game),
+    askComposed({
+      "page-type": pageType.slug,
+      where: { [EXTENDS_KEY]: { has: GEAR } },
+      keys: [SLUG_KEY, EXTENDS_KEY],
+    }),
+    askComposed({ "page-type": metricItem.slug, keys: [TYPE_KEY, ITEM_KEY, VALUE_KEY] }),
+  ])
   if (character === null) return NO_DERIVED
-  const [attributes, items, gear] = await Promise.all([
+  const [attributes, items] = await Promise.all([
     askComposed({
       "page-type": metricCharacterAttribute.slug,
       where: { character: { is: character } },
@@ -92,24 +104,12 @@ async function readDerived(game: string, workings: readonly Working[]): Promise<
       where: { character: { is: character } },
       keys: [SLUG_KEY, CHARACTER_KEY, SLOT_KEY],
     }),
-    askComposed({
-      "page-type": pageType.slug,
-      where: { [EXTENDS_KEY]: { has: GEAR } },
-      keys: [SLUG_KEY, EXTENDS_KEY],
-    }),
   ])
   if (!attributes.ok || attributes.answer.rows.length === 0) return NO_DERIVED
   const held = gear.ok ? unwornIn(gear.answer.rows) : {}
   heldIn(attributes.answer.rows, held)
   const worn = items.ok ? wornIn(items.answer.rows) : []
-  if (worn.length > 0) {
-    const carried = await askComposed({
-      "page-type": metricItem.slug,
-      where: { item: { in: [...worn] } },
-      keys: [TYPE_KEY, ITEM_KEY, VALUE_KEY],
-    })
-    if (carried.ok) heldIn(carried.answer.rows, held)
-  }
+  if (metrics.ok) heldIn(carriedIn(metrics.answer.rows, worn), held)
   return derivedIn(held, workings)
 }
 
