@@ -4,17 +4,17 @@ export type TextureNamed = {
   readonly line: number
 }
 
-export type TextureFound = {
+type TextureFound = {
   readonly named: readonly TextureNamed[]
   readonly built: readonly TextureNamed[]
 }
 
-export type AddonTexture = {
+type AddonTexture = {
   readonly addon: string
   readonly rest: string
 }
 
-export type Bindings = ReadonlyMap<string, readonly string[]>
+type Bindings = ReadonlyMap<string, readonly string[]>
 
 const QUOTED = /["'`]([^"'`\n]*?\.dds)["'`]/gi
 
