@@ -109,10 +109,5 @@ export const temperCompanionsCore = {
       statement:
         "How a fight is modelled stays in code, in the default rotation and extraction configs.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement:
-        "A new build's epic quality and dungeon target are written in code rather than on a page.",
-    },
   ],
 } as const satisfies Domain
