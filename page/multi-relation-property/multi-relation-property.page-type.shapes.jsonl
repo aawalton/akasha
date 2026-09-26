@@ -17,6 +17,12 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-attribute","unique":null,"uniquePropertySlug":null,"slug":"game-attributes","propertySlug":"attributes","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"game-mechanic","unique":null,"uniquePropertySlug":null,"slug":"game-mechanics","propertySlug":"mechanics","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"readout-group","unique":null,"uniquePropertySlug":null,"slug":"groups","propertySlug":"groups","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"age-tag","unique":null,"uniquePropertySlug":null,"slug":"image-age-tags","propertySlug":"age-tags","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"ethnicity-tag","unique":null,"uniquePropertySlug":null,"slug":"image-ethnicity-tags","propertySlug":"ethnicity-tags","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"fantasy-tag","unique":null,"uniquePropertySlug":null,"slug":"image-fantasy-tags","propertySlug":"fantasy-tags","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"pose-tag","unique":null,"uniquePropertySlug":null,"slug":"image-pose-tags","propertySlug":"pose-tags","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"setting-tag","unique":null,"uniquePropertySlug":null,"slug":"image-setting-tags","propertySlug":"setting-tags","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"wardrobe-tag","unique":null,"uniquePropertySlug":null,"slug":"image-wardrobe-tags","propertySlug":"wardrobe-tags","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"location","unique":null,"uniquePropertySlug":null,"slug":"locations","propertySlug":"locations","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"lua-module","unique":null,"uniquePropertySlug":null,"slug":"lua-modules","propertySlug":"lua-modules","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"meal-pictures","propertySlug":"meals","fileName":null,"folderName":null}

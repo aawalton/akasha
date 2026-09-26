@@ -1,7 +1,13 @@
 import type { Prompt } from "akasha/agent/model/test/properties/prompt.text-property.types.ts"
 import type { EsoDay } from "akasha/infrastructure/inference/generation/image/properties/eso-day.calendar-date-property.types.ts"
+import type { ImageAgeTags } from "akasha/infrastructure/inference/generation/image/properties/image-age-tags.multi-relation-property.types.ts"
 import type { ImageBytes } from "akasha/infrastructure/inference/generation/image/properties/image-bytes.file-property.types.ts"
+import type { ImageEthnicityTags } from "akasha/infrastructure/inference/generation/image/properties/image-ethnicity-tags.multi-relation-property.types.ts"
+import type { ImageFantasyTags } from "akasha/infrastructure/inference/generation/image/properties/image-fantasy-tags.multi-relation-property.types.ts"
 import type { ImagePersona } from "akasha/infrastructure/inference/generation/image/properties/image-persona.relation-property.types.ts"
+import type { ImagePoseTags } from "akasha/infrastructure/inference/generation/image/properties/image-pose-tags.multi-relation-property.types.ts"
+import type { ImageSettingTags } from "akasha/infrastructure/inference/generation/image/properties/image-setting-tags.multi-relation-property.types.ts"
+import type { ImageWardrobeTags } from "akasha/infrastructure/inference/generation/image/properties/image-wardrobe-tags.multi-relation-property.types.ts"
 import type { InferenceGuidance } from "akasha/infrastructure/inference/generation/image/properties/inference-guidance.number-property.types.ts"
 import type { InferenceHeight } from "akasha/infrastructure/inference/generation/image/properties/inference-height.number-property.types.ts"
 import type { InferenceQuantize } from "akasha/infrastructure/inference/generation/image/properties/inference-quantize.number-property.types.ts"
@@ -39,4 +45,10 @@ export type Image = Page & {
   referenceImages?: ReferenceImages
   serviceVersions?: ServiceVersions
   prompt?: Prompt
+  settingTags?: ImageSettingTags
+  poseTags?: ImagePoseTags
+  wardrobeTags?: ImageWardrobeTags
+  fantasyTags?: ImageFantasyTags
+  ethnicityTags?: ImageEthnicityTags
+  ageTags?: ImageAgeTags
 }

@@ -26,6 +26,13 @@ export const image = {
     "relation-property/input-image",
     "multi-relation-property/reference-images",
     "text-property/service-versions",
+    "page-type/image-tag",
+    "multi-relation-property/image-setting-tags",
+    "multi-relation-property/image-pose-tags",
+    "multi-relation-property/image-wardrobe-tags",
+    "multi-relation-property/image-fantasy-tags",
+    "multi-relation-property/image-ethnicity-tags",
+    "multi-relation-property/image-age-tags",
   ],
   properties: [
     {
@@ -57,6 +64,42 @@ export const image = {
     },
     { pageProperty: "text-property/service-versions", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/prompt", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/image-setting-tags",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/image-pose-tags",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/image-wardrobe-tags",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/image-fantasy-tags",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/image-ethnicity-tags",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/image-age-tags",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {

@@ -1,0 +1,13 @@
+{"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/tag/age-tag/age-tag.page-type.ts","id":"01a0de87-c73f-7882-bf31-0222b36154a0"}
+{"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/tag/ethnicity-tag/ethnicity-tag.page-type.ts","id":"01a0de87-c73f-7095-8002-812ea0142cf0"}
+{"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/tag/fantasy-tag/fantasy-tag.page-type.ts","id":"01a0de87-c73f-747e-9ac4-e9357557e5b6"}
+{"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/tag/pose-tag/pose-tag.page-type.ts","id":"01a0de87-c740-79ad-98b1-cdaffc15183a"}
+{"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/tag/setting-tag/setting-tag.page-type.ts","id":"01a0de87-c740-7f2f-8b53-a405781be0a0"}
+{"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/tag/wardrobe-tag/wardrobe-tag.page-type.ts","id":"01a0de87-c740-78a9-9460-ff8b7e4bdabe"}
+{"propertySlug":"import","fileName":"image-tag.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/age-tag/age-tag.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"image-tag.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/ethnicity-tag/ethnicity-tag.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"image-tag.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/fantasy-tag/fantasy-tag.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"image-tag.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/pose-tag/pose-tag.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"image-tag.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/setting-tag/setting-tag.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"image-tag.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/wardrobe-tag/wardrobe-tag.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}

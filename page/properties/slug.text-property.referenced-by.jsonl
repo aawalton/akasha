@@ -128,7 +128,13 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/edges.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"graph/predicate/properties/followed-attribute.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/auth/sign-in/properties/sign-in-contributor.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/image-age-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/image-ethnicity-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/image-fantasy-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/image-persona.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/image-pose-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/image-setting-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/image-wardrobe-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/input-image.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/inference/generation/image/properties/reference-images.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"infrastructure/service/akasha-service/properties/deploys-after.multi-relation-property.types.ts","typed":true,"deferred":false}
