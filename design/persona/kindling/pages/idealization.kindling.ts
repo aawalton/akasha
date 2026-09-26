@@ -10,5 +10,9 @@ export const idealization = {
       decisionKind: "decision-kind/departure",
       statement: "Alan idealizes a persona in the gaps between what he has seen and heard of her.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Idealization runs strongest early, when most of a persona is still a gap.",
+    },
   ],
 } as const satisfies Kindling
