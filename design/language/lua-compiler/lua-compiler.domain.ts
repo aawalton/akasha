@@ -59,6 +59,7 @@ export const luaCompiler = {
     "module/optional-chain-data",
     "module/plugin-no-multi-store",
     "module/plugin-no-truthy-numbers",
+    "module/plugin-pages-of-type",
     "module/preceding-statements",
     "module/safe-names",
     "module/scope",

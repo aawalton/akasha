@@ -21,6 +21,8 @@ declare const $range: ((start: number, limit: number, step?: number) => Iterable
 
 declare const $vararg: string[] & LuaExtension<"VarargConstant">
 
+declare function $pagesOfType<T>(pageType: { readonly slug: string }): readonly T[]
+
 declare type LuaIterator<TValue, TState> = TState extends undefined
   ? (this: void) => TValue
   : LuaMultiReturn<
