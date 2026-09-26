@@ -34,7 +34,7 @@ export function sizeOf(size: TypeSize): number {
   return SIZES[size]
 }
 
-export function faceOf(weight: TypeWeight, family: TypeFamily = "sans"): string {
+function faceOf(weight: TypeWeight, family: TypeFamily = "sans"): string {
   const file = family === "mono" ? MONO[weight] : SANS[weight]
   return `${FONTS_AT}/${file}.slug`
 }

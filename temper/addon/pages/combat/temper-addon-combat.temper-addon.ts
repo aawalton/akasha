@@ -152,7 +152,6 @@ export const temperAddonCombat = {
     "module/combat-ui-report-init",
     "module/combat-report-type",
     "module/combat-ui-report-rows",
-    "module/combat-ui-report-state",
     "module/combat-ui-resource-panel",
     "module/combat-ui-selection",
     "module/combat-ui-settings-menu",

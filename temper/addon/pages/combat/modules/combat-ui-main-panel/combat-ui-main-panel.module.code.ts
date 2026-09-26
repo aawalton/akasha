@@ -7,7 +7,10 @@ import {
   reportFont,
 } from "akasha/temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.code.ts"
 import { getDb } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
-import { isLabelControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
+import {
+  isLabelControl,
+  type LayoutControl,
+} from "akasha/temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import type { BarsPanelControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
 import type { UpdatableControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -61,7 +64,8 @@ export function adjustRowSize(
     return undefined
   }
 
-  row.scale = db.FightReport.scale
+  const scale = db.FightReport.scale
+  row.scale = scale
 
   for (let i = 1; i <= header.GetNumChildren(); i++) {
     const child = header.GetChild(i)
@@ -71,23 +75,32 @@ export function adjustRowSize(
 
     const childname = zo_strgsub(child.GetName(), header.GetName(), "")
 
-    const template = header.GetNamedChild(childname)
+    const template = header.GetNamedChild<LayoutControl>(childname)
     const rowchild = row.GetNamedChild(childname)
 
     if (template != null && rowchild != null) {
-      const [x, y] = template.GetDimensions()
+      const [liveX, liveY] = template.GetDimensions()
+      const sizes = template.sizes
+      const x = sizes != null ? sizes[0] * scale : liveX
+      const y = sizes != null ? sizes[1] * scale : liveY
       rowchild.SetDimensions(x, y)
 
-      const [valid1, , , , anchorX, anchorY] = template.GetAnchor(0)
+      const templateAnchor = template.anchors?.[0]
       const [valid2, point, relativeTo, relativePoint] = rowchild.GetAnchor(0)
 
-      if (valid1 && valid2) {
+      if (templateAnchor != null && valid2) {
         rowchild.ClearAnchors()
-        rowchild.SetAnchor(point, relativeTo, relativePoint, anchorX, anchorY)
+        rowchild.SetAnchor(
+          point,
+          relativeTo,
+          relativePoint,
+          templateAnchor[3] * scale,
+          templateAnchor[4] * scale
+        )
       }
 
       if (isLabelControl(rowchild)) {
-        rowchild.SetFont(reportFont(REPORT_SIZE * row.scale))
+        rowchild.SetFont(reportFont(REPORT_SIZE * scale, "soft-shadow-thin"))
       }
     }
   }

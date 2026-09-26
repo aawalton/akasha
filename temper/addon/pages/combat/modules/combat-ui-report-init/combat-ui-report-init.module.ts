@@ -9,8 +9,7 @@ export const combatUiReportInit = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Each section of the report sits on a panel, and the pages inside one are cleared.",
+      statement: "The report window keeps the frame, fonts and layout Combat Metrics gives it.",
     },
   ],
 } as const satisfies Module

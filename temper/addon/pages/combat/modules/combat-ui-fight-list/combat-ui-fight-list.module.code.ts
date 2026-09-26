@@ -21,10 +21,6 @@ import {
   clearSelections,
   type FightListItemControl,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-nav/combat-ui-nav.module.code.ts"
-import {
-  showFightListState,
-  showReportState,
-} from "akasha/temper/addon/pages/combat/modules/combat-ui-report-state/combat-ui-report-state.module.code.ts"
 import type { BarsPanelControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-selection/combat-ui-selection.module.code.ts"
 import {
   getCurrentFight,
@@ -37,10 +33,6 @@ import {
   type UpdatableControl,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import { DPS_STRINGS } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts"
-import {
-  formatCount,
-  formatDuration,
-} from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-ui-state-declarations/combat-ui-state-declarations.type-declaration.d.ts"
@@ -84,17 +76,14 @@ export function updateFightReport(this: void, control: Control, fightId?: number
   setFightData(fightData)
 
   if (fightData !== undefined && fightData.calculated == null && fightData.log != null) {
-    showReportState("loading")
     calculateFight(fightData)
     updateReportDeferred()
     return undefined
   }
   if (fightData !== undefined && fightData.calculating === true) {
-    showReportState("loading")
     EVENT_MANAGER.RegisterForUpdate("TemperCombat_Report_Update_Delay", 500, updateReportDeferred)
     return undefined
   }
-  showReportState(fightData === undefined ? "empty" : "loaded")
 
   const selectionData =
     fightData !== undefined
@@ -150,12 +139,12 @@ function updateFightListPanel(
         EVENT_MANAGER.RegisterForUpdate(stringId, 50, () => {
           updateFightListPanel(panel, data, issaved)
         })
-        showFightListState(panel, issaved, "loading")
+        panel.GetNamedChild("LoadingLabel")?.SetHidden(false)
         return undefined
       }
     }
   }
-  showFightListState(panel, issaved, data.length === 0 ? "empty" : "loaded")
+  panel.GetNamedChild("LoadingLabel")?.SetHidden(true)
 
   if (data.length === 0) {
     return undefined
@@ -187,14 +176,14 @@ function updateFightListPanel(
     const category = db.FightReport.category
     const activetime =
       category === "healingOut" || category === "healingIn"
-        ? (fight.hpstime ?? 1)
-        : (fight.dpstime ?? 1)
+        ? zo_roundToNearest(fight.hpstime ?? 1, 0.1)
+        : zo_roundToNearest(fight.dpstime ?? 1, 0.1)
 
-    const durationstring = formatDuration(activetime)
+    const durationstring = string.format("%d:%04.1f", activetime / 60, activetime % 60)
 
     const dpsKey = DPS_STRINGS[db.FightReport.category]
     const dpsRaw = fight.calculated?.[dpsKey] ?? fight[dpsKey] ?? 0
-    const dps = typeof dpsRaw === "number" ? dpsRaw : 0
+    const dps = zo_round(typeof dpsRaw === "number" ? dpsRaw : 0)
 
     const row = GetControl<FightListRowControl>(rowBaseName, id)
     if (row == null) {
@@ -218,7 +207,7 @@ function updateFightListPanel(
 
     row.GetNamedChild<LabelControl>("Time")?.SetText(timestring)
     row.GetNamedChild<LabelControl>("Duration")?.SetText(durationstring)
-    row.GetNamedChild<LabelControl>("DPS")?.SetText(formatCount(dps))
+    row.GetNamedChild<LabelControl>("DPS")?.SetText(tostring(dps))
 
     const buttonControl = row.GetNamedChild("Buttons")
     const deleteLogControl = buttonControl?.GetNamedChild<ButtonControl>("DeleteLog")

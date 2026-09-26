@@ -1,5 +1,4 @@
 import { REPORT_SCENE_NAME } from "akasha/temper/addon/pages/combat/modules/combat-constants/combat-constants.module.code.ts"
-import { reportFontOf } from "akasha/temper/addon/pages/combat/modules/combat-report-type/combat-report-type.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts"
 import { getDb } from "akasha/temper/addon/pages/combat/modules/combat-saved-variables/combat-saved-variables.module.code.ts"
 import { updateAbilityPanel } from "akasha/temper/addon/pages/combat/modules/combat-ui-ability-panel/combat-ui-ability-panel.module.code.ts"
@@ -40,7 +39,6 @@ import {
   initPlotWindow,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-plot-init/combat-ui-plot-init.module.code.ts"
 import type { PlotWindowControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-plot-math/combat-ui-plot-math.module.code.ts"
-import { buildReportState } from "akasha/temper/addon/pages/combat/modules/combat-ui-report-state/combat-ui-report-state.module.code.ts"
 import { updateResourcePanel } from "akasha/temper/addon/pages/combat/modules/combat-ui-resource-panel/combat-ui-resource-panel.module.code.ts"
 import type { UpdatableControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
 import {
@@ -50,15 +48,6 @@ import {
 import { updateFightStatsPanelRight } from "akasha/temper/addon/pages/combat/modules/combat-ui-stats-right/combat-ui-stats-right.module.code.ts"
 import { updateTitlePanel } from "akasha/temper/addon/pages/combat/modules/combat-ui-title-panel/combat-ui-title-panel.module.code.ts"
 import { updateUnitPanel } from "akasha/temper/addon/pages/combat/modules/combat-ui-unit-panel/combat-ui-unit-panel.module.code.ts"
-import {
-  FRAME_PADDING,
-  FRAME_TOP,
-  frameWindow,
-} from "akasha/temper/window/modules/window-frame/window-frame.module.code.ts"
-import {
-  clearBackdrop,
-  paintPanel,
-} from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-ui-state-declarations/combat-ui-state-declarations.type-declaration.d.ts"
 import "akasha/temper/addon/pages/temper-core/temper-addon-menu/addon-menu-eso-window/addon-menu-eso-window.type-declaration.d.ts"
@@ -159,66 +148,7 @@ function resize(this: void, control: LayoutControl, scale: number | undefined): 
   return undefined
 }
 
-function takeReportFonts(this: void, control: LayoutControl): undefined {
-  const fontcontrol = control.GetNamedChild<LayoutControl>("Font")
-  const fontspec = fontcontrol?.font
-  if (fontcontrol != null && fontspec != null) fontcontrol.font = reportFontOf(fontspec)
-  for (let i = 1; i <= control.GetNumChildren(); i++) {
-    const child = control.GetChild<LayoutControl>(i)
-    if (child != null) takeReportFonts(child)
-  }
-  return undefined
-}
-
 let scene: Scene | undefined
-
-const REPORT_TITLE = "Combat Report"
-
-const TITLE_ROW_HEIGHT = 44
-
-const OLD_MARGIN = 4
-
-const PANEL_GAP = 4
-
-const INFO_ROW_HEIGHT = 24
-
-const SECTION_PANELS = ["_MainPanel", "_RightPanel", "_UnitPanel", "_AbilityPanel", "_InfoPanel"]
-
-const MAIN_PANEL_PAGES = ["FightStats", "CombatLog", "Graph"]
-
-function frameReport(
-  this: void,
-  report: TopLevelWindow,
-  toggleFightReport: (this: void) => undefined
-): undefined {
-  const { body } = frameWindow(report, REPORT_TITLE, toggleFightReport)
-  const titlePanel = namedChild(report, "_Title")
-  titlePanel.ClearAnchors()
-  titlePanel.SetAnchor(TOPLEFT, body, TOPLEFT, 0, 0)
-  titlePanel.SetAnchor(BOTTOMRIGHT, body, TOPRIGHT, 0, TITLE_ROW_HEIGHT)
-  const mainPanel = namedChild(report, "_MainPanel")
-  const unitPanel = namedChild(report, "_UnitPanel")
-  unitPanel.ClearAnchors()
-  unitPanel.SetAnchor(TOPLEFT, mainPanel, BOTTOMLEFT, 0, PANEL_GAP)
-  unitPanel.SetAnchor(BOTTOMLEFT, body, BOTTOMLEFT, 0, -(INFO_ROW_HEIGHT + PANEL_GAP))
-  const infoRow = namedChild(report, "_InfoRow")
-  infoRow.ClearAnchors()
-  infoRow.SetAnchor(TOPLEFT, unitPanel, BOTTOMLEFT, 0, PANEL_GAP)
-  infoRow.SetAnchor(BOTTOMRIGHT, body, BOTTOMRIGHT, 0, 0)
-  for (const name of SECTION_PANELS) {
-    paintPanel(namedChild<BackdropControl>(namedChild(report, name), "BG"))
-  }
-  for (const name of MAIN_PANEL_PAGES) {
-    clearBackdrop(namedChild<BackdropControl>(namedChild(mainPanel, name), "BG"))
-  }
-  buildReportState(report, titlePanel, body)
-  const [width, height] = report.GetDimensions()
-  report.SetDimensions(
-    width + (FRAME_PADDING - OLD_MARGIN) * 2,
-    height + FRAME_TOP - OLD_MARGIN + FRAME_PADDING - OLD_MARGIN
-  )
-  return undefined
-}
 
 export function initFightReport(
   this: void,
@@ -226,8 +156,6 @@ export function initFightReport(
 ): undefined {
   const db = getDb()
   const fightReport = TemperCombat_Report
-  frameReport(fightReport, toggleFightReport)
-  takeReportFonts(fightReport)
   storeOrigLayout(fightReport)
 
   const pos = db.TemperCombat_Report
@@ -246,7 +174,9 @@ export function initFightReport(
     resize(fightReport, scale)
 
     if (!fightReport.IsHidden()) {
-      fightReport.Update?.(fightReport)
+      zo_callLater(() => {
+        fightReport.Update?.(fightReport)
+      }, 1)
     }
     return undefined
   }
