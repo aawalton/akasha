@@ -1,5 +1,6 @@
-{"propertySlug":"import","fileName":"temper-world-zone.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-tables-keeping/set-tables-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-zone.page-type.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.ts","path":"temper/web/item-browser/modules/item-browser-place-kinds/item-browser-place-kinds.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/aetherian-archive/aetherian-archive.temper-world-zone.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/alikr-desert/alikr-desert.temper-world-zone.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-world-zone.page-type.types.ts","path":"temper/catalog/world/zone/pages/apocrypha/apocrypha.temper-world-zone.ts","typed":true,"deferred":false}

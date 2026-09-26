@@ -4,12 +4,12 @@ export const setsDataRegisterData = {
   id: "01a061fc-cee8-7e0a-a57e-257c1300fc25",
   type: "page-type/module",
   slug: "sets-data-register-data",
-  definition: "the generated set tables placed onto the library table",
+  definition: "the set tables placed onto the library table",
   code: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The set tables placed are the ones written from the set pages.",
+      statement: "The set tables placed are the ones worked out from the set pages.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -3161,6 +3161,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-ui/sets-search-ui-shared-ui.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-shared-xml-handlers/sets-search-ui-shared-xml-handlers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-xml-api/sets-search-ui-xml-api.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-text-default-layout/sets-set-text-default-layout.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-text-set-data-text-index/sets-set-text-set-data-text-index.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-text-set-info-parts/sets-set-text-set-info-parts.module.ts","typed":true,"deferred":false}
@@ -4875,7 +4877,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/temper-set/modules/set-tables-writing/set-tables-writing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/side-file/modules/catalog-file-paths/catalog-file-paths.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/side-file/modules/catalog-side-file/catalog-side-file.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/scribing-affix-scripts/scribing-affix-scripts.module.ts","typed":true,"deferred":false}

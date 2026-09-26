@@ -1,7 +1,6 @@
 import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textIn, textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
-import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -16,28 +15,11 @@ import {
   setRowsPagesIn,
   setsRowsBody,
 } from "akasha/temper/catalog/gear/temper-set/modules/set-rows-writing/set-rows-writing.module.code.ts"
-import {
-  placeKindsOf,
-  SET_DATA_AT,
-  SET_INFO_AT,
-  setDataBody,
-  setInfoBody,
-  setPagesOf,
-} from "akasha/temper/catalog/gear/temper-set/modules/set-tables-writing/set-tables-writing.module.code.ts"
 import { temperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.ts"
-import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
-import { temperPublicDungeon } from "akasha/temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts"
-import { temperWorldZone } from "akasha/temper/catalog/world/zone/temper-world-zone.page-type.ts"
 
-export const TABLES_AT: readonly string[] = [SET_INFO_AT, SET_DATA_AT, SETS_ROWS_AT]
+export const TABLES_AT: readonly string[] = [SETS_ROWS_AT]
 
-const READ_FROM: ReadonlySet<string> = new Set([
-  temperSet.slug,
-  temperClass.slug,
-  temperPublicDungeon.slug,
-  temperWorldZone.slug,
-  ...KEYED_PAGE_TYPES,
-])
+const READ_FROM: ReadonlySet<string> = new Set([temperSet.slug, ...KEYED_PAGE_TYPES])
 
 const BYTES = new TextEncoder()
 
@@ -60,26 +42,9 @@ type Written = {
 
 const NOTHING: Written = { edits: [], said: [] }
 
-function classIdsIn(pagesOf: PagesOf): ReadonlyMap<string, number> {
-  const found = new Map<string, number>()
-  for (const value of pagesOf(temperClass.slug).values()) {
-    const esoClassId = parseNumber(value.esoClassId)
-    if (typeof value.slug === "string" && esoClassId !== undefined) {
-      found.set(`${temperClass.slug}/${value.slug}`, esoClassId)
-    }
-  }
-  return found
-}
-
-function publicDungeonsIn(pagesOf: PagesOf): readonly number[] {
-  return [...pagesOf(temperPublicDungeon.slug).values()]
-    .map((value) => parseNumber(value.esoZoneId))
-    .filter((one): one is number => one !== undefined)
-}
-
 export function setTablesOver(reader: Reader): Tables {
-  const sets = setPagesOf(reader.pagesOf(temperSet.slug))
-  if (sets.length === 0) return { refused: "no set page was found" }
+  const sets = reader.pagesOf(temperSet.slug).size
+  if (sets === 0) return { refused: "no set page was found" }
   let rows: ReturnType<typeof setsRowsBody>
   try {
     rows = setsRowsBody(setRowsPagesIn(reader.pagesOf, reader.bodyAt), keysIn(reader.pagesOf))
@@ -87,22 +52,7 @@ export function setTablesOver(reader: Reader): Tables {
     rows = { refused: saidBy(thrown) }
   }
   if ("refused" in rows) return rows
-  return {
-    tables: [
-      [SET_INFO_AT, setInfoBody(sets, classIdsIn(reader.pagesOf))],
-      [
-        SET_DATA_AT,
-        setDataBody(
-          sets,
-          publicDungeonsIn(reader.pagesOf),
-          placeKindsOf(reader.pagesOf(temperWorldZone.slug).values())
-        ),
-      ],
-
-      [SETS_ROWS_AT, rows.body],
-    ],
-    sets: sets.length,
-  }
+  return { tables: [[SETS_ROWS_AT, rows.body]], sets }
 }
 
 function turning(path: string): boolean {

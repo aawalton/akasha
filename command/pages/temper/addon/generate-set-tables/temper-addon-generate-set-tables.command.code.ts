@@ -32,7 +32,7 @@ const NAMED = [codeRootArgument] as const
 
 const PUT = `${changeMechanical.slug}/${addFileOfAnyKind.slug}` as const
 
-const MESSAGE = "Write the set tables of the sets addon and character builds from the set pages"
+const MESSAGE = "Write the set table of character builds from the set pages"
 
 type Taken = Taking<typeof page, typeof NAMED>
 
