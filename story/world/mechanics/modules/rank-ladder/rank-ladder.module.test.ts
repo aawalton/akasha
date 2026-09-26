@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { climbingBy } from "akasha/story/mechanic/modules/rank-ladder/rank-ladder.module.code.ts"
+import { climbingBy } from "akasha/story/world/mechanics/modules/rank-ladder/rank-ladder.module.code.ts"
 
 const LADDER = climbingBy(["novice", "adept", "master"])
 

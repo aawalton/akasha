@@ -1,4 +1,4 @@
-import { summingBy } from "akasha/story/mechanic/modules/linear-stat/linear-stat.module.code.ts"
+import { summingBy } from "akasha/story/world/mechanics/modules/linear-stat/linear-stat.module.code.ts"
 import { towerLevel } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/tower-level.page-type.ts"
 
 const POINTS_PER_LEVEL = 3

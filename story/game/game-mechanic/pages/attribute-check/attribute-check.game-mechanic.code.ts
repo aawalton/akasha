@@ -1,4 +1,4 @@
-import type { Rolled } from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
+import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import type { Resolved } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.mechanic-check.settling.code.ts"
 import { checked } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attribute-check.mechanic-check.settling.code.ts"
 

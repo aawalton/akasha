@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import type { Rolled } from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
+import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import { theTowerAffinity } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/ranks/pages/the-tower-affinity.tower-attunement-rank.ts"
 import { theTowerSoul } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/ranks/pages/the-tower-soul.tower-attunement-rank.ts"
 import { theTowerSpirit } from "akasha/story/world/pages/personas/stories/played/the-tower/mechanics/attunements/ranks/pages/the-tower-spirit.tower-attunement-rank.ts"

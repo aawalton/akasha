@@ -12,7 +12,7 @@ import {
   type Turn,
   taken,
 } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
-import { facesFrom } from "akasha/story/mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
+import { facesFrom } from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
 
 const CALLED = "akasha story settle"
 

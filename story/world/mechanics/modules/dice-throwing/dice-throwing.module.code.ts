@@ -1,11 +1,11 @@
 import {
   type Rolled,
   readingBy,
-} from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
+} from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import {
   type Dice,
   facesFrom,
-} from "akasha/story/mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
+} from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
 
 export type Throw = { readonly dice: Dice; readonly roll: Rolled }
 

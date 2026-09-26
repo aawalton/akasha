@@ -14,8 +14,8 @@ import {
 import { ranAt } from "akasha/story/game/game-mechanic/modules/mechanic-running/mechanic-running.module.code.ts"
 import { gameMechanicRun } from "akasha/story/game/game-mechanic-run/game-mechanic-run.page-type.ts"
 import { storyGame } from "akasha/story/game/story-game.page-type.ts"
-import type { Dice } from "akasha/story/mechanic/modules/dice-rolling/dice-rolling.module.code.ts"
-import { thrownFrom } from "akasha/story/mechanic/modules/dice-throwing/dice-throwing.module.code.ts"
+import type { Dice } from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
+import { thrownFrom } from "akasha/story/world/mechanics/modules/dice-throwing/dice-throwing.module.code.ts"
 
 const RUN = "run"
 const WORKINGS = "workings"

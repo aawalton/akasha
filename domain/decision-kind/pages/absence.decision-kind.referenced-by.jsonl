@@ -1821,12 +1821,12 @@
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.ts","id":"01a0da6b-b93f-789a-a8cd-4da980b5664a"}
 {"propertySlug":"decision-kind","path":"story/mechanic/check/mechanic-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"decision-kind","path":"story/mechanic/metric/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
-{"propertySlug":"decision-kind","path":"story/mechanic/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
-{"propertySlug":"decision-kind","path":"story/mechanic/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
-{"propertySlug":"decision-kind","path":"story/mechanic/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/ui/modules/newest-divider/newest-divider.module.ts","id":"01a0629b-682c-7208-a65c-1d5fdba6f831"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/max-level.computed-property.ts","id":"01a0657a-9ccc-799d-b3da-5f74e280345a"}
 {"propertySlug":"decision-kind","path":"story/world/designs/properties/visual-style.text-property.ts","id":"01a06577-f385-7c1c-8e0b-5a8d4ac8821f"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/linear-stat/linear-stat.module.ts","id":"01a0c471-ac2e-74b8-a2de-da9cac658a5e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/modules/tower-attunements-beside/tower-attunements-beside.module.ts","id":"01a0ca9c-ba6b-72de-8f44-1bc1163474d9"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/checks/tower-attack-resolution.mechanic-check.ts","id":"01a0de1c-e954-742b-969b-e66eaf0b328e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/the-tower/mechanics/derived/tower-leveling.metric-character-derived.ts","id":"01a0de20-a6d4-73a4-a12e-c9a785855d39"}

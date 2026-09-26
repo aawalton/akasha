@@ -1,5 +1,5 @@
 import type { Bonus } from "akasha/story/game/game-mechanic/modules/mechanic-run/mechanic-run.module.code.ts"
-import type { Rolled } from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
+import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import {
   type Resolved,
   struck,

@@ -1,4 +1,4 @@
-const HERE = "story/mechanic/modules/dice-reading"
+const HERE = "story/world/mechanics/modules/dice-reading"
 
 export type Rolled = {
   readonly total: number

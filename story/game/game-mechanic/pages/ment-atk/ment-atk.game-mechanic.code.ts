@@ -1,6 +1,6 @@
 import { intellect } from "akasha/story/game/game-attribute/pages/intellect.game-attribute.ts"
 import { will } from "akasha/story/game/game-attribute/pages/will.game-attribute.ts"
-import { summingBy } from "akasha/story/mechanic/modules/linear-stat/linear-stat.module.code.ts"
+import { summingBy } from "akasha/story/world/mechanics/modules/linear-stat/linear-stat.module.code.ts"
 
 export const runMechanic = summingBy(
   [

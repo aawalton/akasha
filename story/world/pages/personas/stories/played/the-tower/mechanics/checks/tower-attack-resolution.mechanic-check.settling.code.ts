@@ -1,5 +1,5 @@
-import { heldIntent } from "akasha/story/mechanic/modules/action-intent/action-intent.module.code.ts"
-import type { Rolled } from "akasha/story/mechanic/modules/dice-reading/dice-reading.module.code.ts"
+import { heldIntent } from "akasha/story/world/mechanics/modules/action-intent/action-intent.module.code.ts"
+import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/dice-reading.module.code.ts"
 import { z } from "zod"
 
 const WHOLE = 1

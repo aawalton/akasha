@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto"
 import { z } from "zod"
 
-const HERE = "story/mechanic/modules/dice-rolling"
+const HERE = "story/world/mechanics/modules/dice-rolling"
 const DIGEST = "sha256"
 const SAID = /^([1-9][0-9]*)d([1-9][0-9]*)$/
 const HANDFUL = z.tuple([z.string(), z.coerce.number(), z.coerce.number()])
