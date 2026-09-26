@@ -8,6 +8,7 @@ interface SourceCategoryTemplate {
   readonly name: string
   readonly displayOrder: number
   readonly subject: string | null
+  readonly wornGear: boolean
 }
 
 type SourceCategoryCatalog = {
@@ -32,6 +33,7 @@ function templateOf(value: Value): SourceCategoryTemplate {
     name: typeof value.title === "string" ? value.title : id,
     displayOrder: typeof value.displayOrder === "number" ? value.displayOrder : 0,
     subject: typeof value.subject === "string" ? value.subject : null,
+    wornGear: value.wornGear === true,
   }
 }
 
@@ -57,6 +59,11 @@ export function holdSourceCategories(read: SourceCategoryCatalog): SourceCategor
 export function sourceCategories(): SourceCategoryCatalog {
   if (held === null) throw new SourceCategoriesUnread()
   return held
+}
+
+export function isWornGearCategory(id: string): boolean {
+  const { data } = sourceCategories()
+  return (data as Readonly<Record<string, SourceCategoryTemplate>>)[id]?.wornGear === true
 }
 
 export function sourceCategoriesOfSubject(subject: string): readonly SourceCategoryId[] {

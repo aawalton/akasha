@@ -18,7 +18,8 @@ export const companionSkillFormula = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "Equipment sources are left out of the non-soothing healing done list.",
+      statement:
+        "Sources whose category page marks worn gear are left out of the non-soothing healing list.",
     },
   ],
 } as const satisfies Module

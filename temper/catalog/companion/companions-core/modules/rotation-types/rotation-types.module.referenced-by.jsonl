@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"rotation-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-state/companion-rotation-state.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rotation-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-executor/companion-skill-executor.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rotation-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-executor/companion-skill-executor.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"rotation-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rotation-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-line-queries/companion-skill-line-queries.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rotation-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-stats-calculator-impl/companion-stats-calculator-impl.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rotation-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts","typed":true,"deferred":false}

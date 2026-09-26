@@ -5,15 +5,15 @@ import type {
   CompanionScalingMetricId,
   CompanionValueFormula,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
-
-const EQUIPMENT_CATEGORIES = new Set(["companion-armor", "companion-jewelry", "companion-weapons"])
+import { combatMechanics } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+import { isWornGearCategory } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
 
 export function extractNonSoothingHealingDoneSources(
   sources: readonly CompanionEffectSource[]
 ): readonly number[] {
   const hdSources: number[] = []
   for (const source of sources) {
-    if (EQUIPMENT_CATEGORIES.has(source.categoryId)) continue
+    if (isWornGearCategory(source.categoryId)) continue
     for (const effect of source.effects) {
       if (
         effect.metricId === "companion-healing-done" &&
@@ -84,7 +84,7 @@ export function evaluateSkillFormula(
       break
     }
     case "player-health-percent": {
-      const playerHealth = stats.playerMaxHealth ?? 25000
+      const playerHealth = stats.playerMaxHealth ?? combatMechanics().playerHealth
       if (coefficientMultiplier != null) {
         let coeff = badTruncate(formula.percent / 100)
         coeff = badTruncate(coeff * coefficientMultiplier)

@@ -76,7 +76,7 @@ const TREE_FIELDS: readonly string[] = [
   "useAccentColor",
 ]
 
-const CATEGORY_FIELDS: readonly string[] = ["slug", "title", "displayOrder", "subject"]
+const CATEGORY_FIELDS: readonly string[] = ["slug", "title", "displayOrder", "subject", "wornGear"]
 
 const BASE_STAT_FIELDS: readonly string[] = ["slug", "metric", "effectType", "value"]
 
