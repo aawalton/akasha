@@ -10,7 +10,7 @@ export const ruleCraftingStolen = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/crafting",
-  displayOrder: 59,
+  displayOrder: 60,
   action: "temper-item-action/fence-launder",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

@@ -11,7 +11,7 @@ export const ruleAllianceWarBank = {
   destination: "bank",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/alliance-war",
-  displayOrder: 66,
+  displayOrder: 67,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

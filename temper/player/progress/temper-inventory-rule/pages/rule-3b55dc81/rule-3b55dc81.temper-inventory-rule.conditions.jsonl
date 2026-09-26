@@ -1,3 +1,3 @@
-{"id":"01a0963e-c194-744e-9e54-c1ef8f2d4e5f","conditionField":"temper-condition-field/known","conditionValue":"known"}
-{"id":"01a0963e-c194-7405-8178-f9d573c4bcee","conditionField":"temper-condition-field/market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a0963e-c194-7940-86cc-54dd84e446f2","conditionField":"temper-condition-field/market-value-op","conditionValue":"temper-comparison-op/less-than"}
+{"id":"01a0decd-98f8-757d-b6b0-b4267a4de089","conditionField":"temper-condition-field/known","conditionValue":"known"}
+{"id":"01a0decd-98f8-7787-a87e-10f44decd4e1","conditionField":"temper-condition-field/market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a0decd-98f8-7840-9cb3-6d7cbd600cc2","conditionField":"temper-condition-field/market-value-op","conditionValue":"temper-comparison-op/less-than"}

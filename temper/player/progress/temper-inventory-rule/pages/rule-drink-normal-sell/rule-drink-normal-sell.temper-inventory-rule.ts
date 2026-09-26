@@ -11,7 +11,7 @@ export const ruleDrinkNormalSell = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/drink",
-  displayOrder: 76,
+  displayOrder: 77,
   action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-07-05T12:17:47.953Z",

@@ -11,7 +11,7 @@ export const ruleTreasuresEpicStolen = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasures",
-  displayOrder: 61,
+  displayOrder: 62,
   action: "temper-item-action/fence-launder",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

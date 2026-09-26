@@ -9,7 +9,7 @@ export const ruleFe8bd926 = {
   destination: "bank",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/scrolls",
-  displayOrder: 35,
+  displayOrder: 36,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-09-13T14:39:00.855Z",

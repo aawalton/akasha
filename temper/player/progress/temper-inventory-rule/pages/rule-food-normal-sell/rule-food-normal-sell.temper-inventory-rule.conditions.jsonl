@@ -1,3 +1,3 @@
-{"id":"01a0d495-6f5f-7195-a9c4-e862a8df9700","conditionField":"temper-condition-field/max-quality","conditionValue":"2"}
-{"id":"01a0d495-6f5f-71c3-bec5-778730e4bb2f","conditionField":"temper-condition-field/crafted","conditionValue":"not-crafted"}
-{"id":"01a0d495-6f5f-7ef7-b052-b226de1c27d4","conditionField":"temper-condition-field/can-sell","conditionValue":"can-sell"}
+{"id":"01a0decd-98f9-7415-a0a0-9bee275c6750","conditionField":"temper-condition-field/max-quality","conditionValue":"2"}
+{"id":"01a0decd-98f9-7de8-8417-68904ba1ae48","conditionField":"temper-condition-field/crafted","conditionValue":"not-crafted"}
+{"id":"01a0decd-98f9-7104-98e3-fe43b0a73b3e","conditionField":"temper-condition-field/can-sell","conditionValue":"can-sell"}

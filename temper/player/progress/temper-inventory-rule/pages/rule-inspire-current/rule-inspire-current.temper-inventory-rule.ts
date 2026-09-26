@@ -12,7 +12,7 @@ export const ruleInspireCurrent = {
   destination: "character:by-priority",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/equipment",
-  displayOrder: 46,
+  displayOrder: 47,
   action: "temper-item-action/deconstruct",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

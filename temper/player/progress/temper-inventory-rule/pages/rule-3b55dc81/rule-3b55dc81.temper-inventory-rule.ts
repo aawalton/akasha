@@ -9,7 +9,7 @@ export const rule3b55dc81 = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/containers",
-  displayOrder: 10,
+  displayOrder: 11,
   action: "temper-item-action/destroy",
   active: true,
   updatedAt: "2026-06-02T20:49:28.407Z",

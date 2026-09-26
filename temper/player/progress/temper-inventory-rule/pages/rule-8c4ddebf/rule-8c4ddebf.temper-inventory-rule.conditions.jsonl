@@ -1,5 +1,5 @@
-{"id":"01a0d495-6f5e-79cd-9edc-d59f86f1cc76","conditionField":"temper-condition-field/max-quality","conditionValue":"1"}
-{"id":"01a0d495-6f5e-7431-ab24-5d6966730698","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
-{"id":"01a0d495-6f5e-7bb0-b3ba-3d8c3a852639","conditionField":"temper-condition-field/crafted","conditionValue":"not-crafted"}
-{"id":"01a0d495-6f5e-7e9c-9f2a-5b10ada6ae49","conditionField":"temper-condition-field/potion-effects","conditionValue":"[\"magicka-restore\"]"}
-{"id":"01a0d495-6f5e-7778-93e0-f5bd3c182d33","conditionField":"temper-condition-field/potion-effects-mode","conditionValue":"any"}
+{"id":"01a0decd-98f8-770b-b2fa-15af4b25694a","conditionField":"temper-condition-field/max-quality","conditionValue":"1"}
+{"id":"01a0decd-98f8-7917-93b6-cec0b13ba31d","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
+{"id":"01a0decd-98f8-7889-b1e7-913f4a47d8ef","conditionField":"temper-condition-field/crafted","conditionValue":"not-crafted"}
+{"id":"01a0decd-98f8-779a-847c-4af5f67bf847","conditionField":"temper-condition-field/potion-effects","conditionValue":"[\"magicka-restore\"]"}
+{"id":"01a0decd-98f8-78de-b6cb-c06b2aa40fe6","conditionField":"temper-condition-field/potion-effects-mode","conditionValue":"any"}
