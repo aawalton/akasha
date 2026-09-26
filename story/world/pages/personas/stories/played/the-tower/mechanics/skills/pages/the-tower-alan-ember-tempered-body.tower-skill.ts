@@ -4,7 +4,6 @@ export const theTowerAlanEmberTemperedBody = {
   id: "01a0de1d-8eba-793b-8576-302209087b7f",
   type: "page-type/tower-skill",
   slug: "the-tower-alan-ember-tempered-body",
-  title: "Ember-Tempered Body",
   character: "character-player/the-tower-alan",
   skill: "world-skill/the-tower-ember-tempered-body",
   rank: "tower-skill-rank/the-tower-apprentice",

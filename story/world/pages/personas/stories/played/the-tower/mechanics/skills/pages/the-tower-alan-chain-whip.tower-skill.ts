@@ -4,7 +4,6 @@ export const theTowerAlanChainWhip = {
   id: "01a0de1d-8eb9-79a2-b3c8-22187df5da1a",
   type: "page-type/tower-skill",
   slug: "the-tower-alan-chain-whip",
-  title: "Chain Whip",
   character: "character-player/the-tower-alan",
   skill: "world-skill/the-tower-chain-whip",
   rank: "tower-skill-rank/the-tower-novice",

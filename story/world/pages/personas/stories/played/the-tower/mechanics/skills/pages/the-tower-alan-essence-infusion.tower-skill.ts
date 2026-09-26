@@ -4,7 +4,6 @@ export const theTowerAlanEssenceInfusion = {
   id: "01a0de1d-8eba-738f-8a02-9e1bf52231f6",
   type: "page-type/tower-skill",
   slug: "the-tower-alan-essence-infusion",
-  title: "Essence Infusion",
   character: "character-player/the-tower-alan",
   skill: "world-skill/the-tower-essence-infusion",
   rank: "tower-skill-rank/the-tower-apprentice",

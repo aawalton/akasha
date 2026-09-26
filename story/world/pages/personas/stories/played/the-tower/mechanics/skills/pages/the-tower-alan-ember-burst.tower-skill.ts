@@ -4,7 +4,6 @@ export const theTowerAlanEmberBurst = {
   id: "01a0de1d-8eba-7e4c-a936-9957a2a3c9d5",
   type: "page-type/tower-skill",
   slug: "the-tower-alan-ember-burst",
-  title: "Ember Burst",
   character: "character-player/the-tower-alan",
   skill: "world-skill/the-tower-ember-burst",
   rank: "tower-skill-rank/the-tower-apprentice",

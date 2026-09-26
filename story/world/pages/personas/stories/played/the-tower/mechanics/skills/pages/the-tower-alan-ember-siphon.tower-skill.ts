@@ -4,7 +4,6 @@ export const theTowerAlanEmberSiphon = {
   id: "01a0de1d-8eba-725a-b549-ba4c36dd2682",
   type: "page-type/tower-skill",
   slug: "the-tower-alan-ember-siphon",
-  title: "Ember Siphon",
   character: "character-player/the-tower-alan",
   skill: "world-skill/the-tower-ember-siphon",
   rank: "tower-skill-rank/the-tower-apprentice",

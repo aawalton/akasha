@@ -4,7 +4,6 @@ export const theTowerAlanEmberWave = {
   id: "01a0de1d-8eba-7509-865e-282e8b66f6b4",
   type: "page-type/tower-skill",
   slug: "the-tower-alan-ember-wave",
-  title: "Ember Wave",
   character: "character-player/the-tower-alan",
   skill: "world-skill/the-tower-ember-wave",
   rank: "tower-skill-rank/the-tower-novice",
