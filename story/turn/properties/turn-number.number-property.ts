@@ -5,13 +5,13 @@ export const turnNumber = {
   type: "page-type/number-property",
   slug: "turn-number",
   propertySlug: "number",
-  definition: "which turn of its game's play this is",
+  definition: "which turn of its story's play this is",
   nullable: false,
   max: null,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn's number orders its game's play.",
+      statement: "A turn's number orders its story's play.",
     },
   ],
   types: "ts",
