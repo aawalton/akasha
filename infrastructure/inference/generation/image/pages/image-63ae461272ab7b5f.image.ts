@@ -7,4 +7,5 @@ export const image63ae461272ab7b5f = {
   title: "Aria & Mari — Caer Arianrhod",
   description:
     "Aria and Mari together in the great hall of Caer Arianrhod under a full moon — the silver dragon and the black dragon, the two storytellers of the table. Combined 21:9 ultrawide wallpaper.",
+  grade: "S-",
 } as const satisfies Image
