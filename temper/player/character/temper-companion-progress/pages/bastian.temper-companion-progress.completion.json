@@ -30,6 +30,7 @@
         "isEmpty": false
       }
     },
+    "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg",
     "skillAbilityIds": {
       "1": 155355,
       "2": 154926,
@@ -38,7 +39,6 @@
       "5": 156340,
       "6": 157016
     },
-    "hash": "AjEIFzHMcxzHMcxzExMTBzGzCkyGMhFg",
     "weapons": {
       "1": {
         "displayText": "Mace, Vigorous",

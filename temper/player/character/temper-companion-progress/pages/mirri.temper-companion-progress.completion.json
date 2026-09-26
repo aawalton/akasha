@@ -30,6 +30,7 @@
         "isEmpty": false
       }
     },
+    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "skillAbilityIds": {
       "1": 153685,
       "2": 155408,
@@ -38,7 +39,6 @@
       "5": 153066,
       "6": 157259
     },
-    "hash": "AjEIItC0LQtC0LQtDQ0NGNMSWtYymAA",
     "weapons": {
       "1": {
         "displayText": "Restoration Staff, Quickened",

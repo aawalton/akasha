@@ -30,6 +30,7 @@
         "isEmpty": false
       }
     },
+    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
     "skillAbilityIds": {
       "1": 214948,
       "2": 214703,
@@ -38,7 +39,6 @@
       "5": 215001,
       "6": 215215
     },
-    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
     "weapons": {
       "1": {
         "displayText": "Bow, Quickened",

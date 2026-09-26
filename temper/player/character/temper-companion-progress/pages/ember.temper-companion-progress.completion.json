@@ -30,6 +30,7 @@
         "isEmpty": false
       }
     },
+    "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA",
     "skillAbilityIds": {
       "1": 152624,
       "2": 164291,
@@ -38,7 +39,6 @@
       "5": 0,
       "6": 164191
     },
-    "hash": "AjEINJEkSRJE8TxPDw8PCvM5BQAADgA",
     "weapons": {
       "1": {
         "displayText": "Greatsword, Shattering",

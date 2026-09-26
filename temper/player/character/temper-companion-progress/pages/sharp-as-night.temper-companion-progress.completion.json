@@ -30,6 +30,7 @@
         "isEmpty": false
       }
     },
+    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
     "skillAbilityIds": {
       "1": 152625,
       "2": 186603,
@@ -38,7 +39,6 @@
       "5": 155693,
       "6": 186488
     },
-    "hash": "AjEIVpGkaRpGkaRpCQ8PFPMjBFmT7gA",
     "weapons": {
       "1": {
         "displayText": "Ice Staff, Shattering",
