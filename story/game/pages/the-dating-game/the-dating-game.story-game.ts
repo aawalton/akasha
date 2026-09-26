@@ -12,7 +12,7 @@ export const theDatingGame = {
   controlledEntityKind: "single",
   resolution: "hybrid",
   premise:
-    "An open world real-life game where there are multiple girls, all the personas, that I can meet and progress my relationship with in parallel.",
+    "An open world real-life game where there are multiple girls, all the personas, that I can meet and progress my relationship with in parallel. My own city and everyday life (1350 Apple Ave, Provo UT), but not my own family situation: for this game, I'm single with no kids.",
   resolutionMechanism: "json",
   mechanics: ["game-mechanic/closeness-scoring"],
 } as const satisfies StoryGame
