@@ -3044,6 +3044,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-trials-b-entry/combat-alerts-trials-b-entry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-trials-b-reach/combat-alerts-trials-b-reach.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-trials-c-entry/combat-alerts-trials-c-entry.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-trials-d-entry/combat-alerts-trials-d-entry.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-utils/combat-alerts-utils.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-vateshran-adds/combat-alerts-vateshran-adds.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/combat/modules/combat-alerts-vateshran-hollows/combat-alerts-vateshran-hollows.module.ts","typed":true,"deferred":false}

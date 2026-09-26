@@ -1,0 +1,8 @@
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-ossein-cage/combat-alerts-ossein-cage.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-ossein-carrion/combat-alerts-ossein-carrion.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-ossein-twins-health/combat-alerts-ossein-twins-health.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-ossein-twins-panel/combat-alerts-ossein-twins-panel.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-ossein-twins-titans/combat-alerts-ossein-twins-titans.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-ossein-twins-curses/combat-alerts-ossein-twins-curses.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-ossein-twins/combat-alerts-ossein-twins.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-opulent-ordeal/combat-alerts-opulent-ordeal.module.code.ts"
