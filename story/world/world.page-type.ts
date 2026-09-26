@@ -13,6 +13,7 @@ export const world = {
   runsTabooCheck: false,
   parts: [
     "number-property/appearance-count",
+    "number-property/chapter-number",
     "page-property-entry/character-readings",
     "page-property-entry/mechanic-readings",
     "page-type/named-event",
@@ -22,7 +23,6 @@ export const world = {
     "page-type/story-design-note",
     "page-type/story-played",
     "page-type/story-read",
-    "page-type/story-wiki-entry",
     "page-type/story-written",
     "page-type/world-character",
     "page-type/world-mechanic",

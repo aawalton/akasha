@@ -121,7 +121,6 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/world-mechanic.page-type.ts","id":"01a06558-a991-7f75-b03b-962c2df9e390"}
 {"propertySlug":"extends-type","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
 {"propertySlug":"extends-type","path":"story/world/stories/played/elements/story-element-played.page-type.ts","id":"01a06828-cb9a-765c-a42b-ad24c065bb9b"}
-{"propertySlug":"extends-type","path":"story/world/wiki-entries/story-wiki-entry.page-type.ts","id":"01a06578-d638-7c48-8225-eb46a4fbf9c6"}
 {"propertySlug":"extends-type","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"extends-type","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
 {"propertySlug":"import","fileName":"page.page-type.ts","path":"agent/model/account/modules/marking/model-account-marking.module.test-fixtures.ts","typed":false,"deferred":false}
@@ -279,7 +278,6 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/mechanics/world-mechanic.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/named-events/named-event.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/stories/played/elements/story-element-played.page-type.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/wiki-entries/story-wiki-entry.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/world.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"temper/thing/temper-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-domain","path":"domain/initiative/pages/astra-realtime-pages-for-web.initiative.ts","id":"01a0d4c4-1471-78d7-8198-0a23f1adbb7f"}

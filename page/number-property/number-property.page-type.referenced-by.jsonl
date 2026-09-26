@@ -314,7 +314,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/named-events/properties/evidence-beat.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/attunements/ranks/properties/tower-attunement-bias.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/properties/appearance-count.number-property.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/wiki-entries/properties/chapter-number.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"story/world/properties/chapter-number.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/ability-id.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/alternate-ability-ids.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/conditional-multiplier.number-property.ts","typed":true,"deferred":false}
