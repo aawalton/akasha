@@ -20,5 +20,11 @@ export const companionCatalogReading = {
       decisionKind: "decision-kind/departure",
       statement: "Nothing here reads a page, so the caller hands in the rows of each page type.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A key the list asks of a page type is asked of the checkout as the server asks it.",
+    },
   ],
+  test: "ts",
 } as const satisfies Module
