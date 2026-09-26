@@ -4,6 +4,7 @@ export const image70fc28c7c16febd5 = {
   id: "019f06b9-41a8-73ea-a9f0-6eae0c131041",
   type: "page-type/image",
   slug: "image-70fc28c7c16febd5",
+  grade: "F",
   service: "image-edit-nano-banana",
   operation: "edit",
   model: "gemini-3-pro-image",
