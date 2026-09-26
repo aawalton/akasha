@@ -7,4 +7,5 @@ export const imperial = {
   title: "Imperial",
   key: "imperial",
   esoRaceId: 10,
+  racialSkillLine: "temper-skill-line/racial-imperial-skills",
 } as const satisfies TemperRace

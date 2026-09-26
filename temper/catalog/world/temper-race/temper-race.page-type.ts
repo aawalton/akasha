@@ -6,11 +6,16 @@ export const temperRace = {
   slug: "temper-race",
   definition: "a character's own people",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["number-property/eso-race-id", "text-property/alt-name"],
+  parts: [
+    "number-property/eso-race-id",
+    "text-property/alt-name",
+    "relation-property/racial-skill-line",
+  ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/alt-name", required: false, many: false },
     { pageProperty: "number-property/eso-race-id", required: true, many: false },
+    { pageProperty: "relation-property/racial-skill-line", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

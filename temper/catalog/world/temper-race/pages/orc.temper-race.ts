@@ -8,4 +8,5 @@ export const orc = {
   key: "orc",
   altName: "Orsimer",
   esoRaceId: 3,
+  racialSkillLine: "temper-skill-line/racial-orc-skills",
 } as const satisfies TemperRace

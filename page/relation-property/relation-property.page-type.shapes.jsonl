@@ -170,6 +170,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-quality","unique":null,"uniquePropertySlug":null,"slug":"quality","propertySlug":"quality","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-quest-giver","unique":null,"uniquePropertySlug":null,"slug":"quest-giver","propertySlug":"quest-giver","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"all-about-alan-topic","unique":null,"uniquePropertySlug":null,"slug":"question-topic","propertySlug":"topic","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-skill-line","unique":null,"uniquePropertySlug":null,"slug":"racial-skill-line","propertySlug":"racial-skill-line","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"attunement-rank","unique":null,"uniquePropertySlug":null,"slug":"rank-of-attunement","propertySlug":"rank","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"harem-hotel-skill-rank","unique":null,"uniquePropertySlug":null,"slug":"rank-of-harem-hotel-skill","propertySlug":"rank","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"tower-skill-rank","unique":null,"uniquePropertySlug":null,"slug":"rank-of-tower-skill","propertySlug":"rank","fileName":null,"folderName":null}

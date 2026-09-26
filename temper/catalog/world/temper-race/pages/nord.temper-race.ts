@@ -7,4 +7,5 @@ export const nord = {
   title: "Nord",
   key: "nord",
   esoRaceId: 5,
+  racialSkillLine: "temper-skill-line/racial-nord-skills",
 } as const satisfies TemperRace

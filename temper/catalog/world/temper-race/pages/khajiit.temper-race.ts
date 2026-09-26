@@ -7,4 +7,5 @@ export const khajiit = {
   title: "Khajiit",
   key: "khajiit",
   esoRaceId: 9,
+  racialSkillLine: "temper-skill-line/racial-khajiit-skills",
 } as const satisfies TemperRace

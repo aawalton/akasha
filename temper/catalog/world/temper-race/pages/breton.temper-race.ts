@@ -7,4 +7,5 @@ export const breton = {
   title: "Breton",
   key: "breton",
   esoRaceId: 1,
+  racialSkillLine: "temper-skill-line/racial-breton-skills",
 } as const satisfies TemperRace

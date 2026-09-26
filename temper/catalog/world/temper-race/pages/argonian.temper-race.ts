@@ -7,4 +7,5 @@ export const argonian = {
   title: "Argonian",
   key: "argonian",
   esoRaceId: 6,
+  racialSkillLine: "temper-skill-line/racial-argonian-skills",
 } as const satisfies TemperRace
