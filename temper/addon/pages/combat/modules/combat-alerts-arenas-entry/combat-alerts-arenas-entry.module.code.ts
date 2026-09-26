@@ -5,3 +5,4 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-black-gem-foundry
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-dragonstar-arena/combat-alerts-dragonstar-arena.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-bedlam-veil/combat-alerts-bedlam-veil.module.code.ts"
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-coral-aerie/combat-alerts-coral-aerie.module.code.ts"
+import "akasha/temper/addon/pages/combat/modules/combat-alerts-shipwrights-regret/combat-alerts-shipwrights-regret.module.code.ts"

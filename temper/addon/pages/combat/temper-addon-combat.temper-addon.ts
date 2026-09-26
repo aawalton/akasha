@@ -240,6 +240,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-dragonstar-arena",
     "module/combat-alerts-bedlam-veil",
     "module/combat-alerts-coral-aerie",
+    "module/combat-alerts-shipwrights-regret",
     "module/combat-alerts-maelstrom-arena",
     "type-declaration/combat-alerts-trials-c-declarations",
     "module/combat-alerts-alerts-prominent",
