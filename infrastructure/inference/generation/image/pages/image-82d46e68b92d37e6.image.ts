@@ -5,6 +5,7 @@ export const image82d46e68b92d37e6 = {
   type: "page-type/image",
   slug: "image-82d46e68b92d37e6",
   title: "Aura — wallpaper L01 (Bonding)",
+  grade: "S-",
   esoDay: "2026-07-05",
   relationshipLevel: "closeness-level/level-1",
   service: "seedvr2-upscale",
