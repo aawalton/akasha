@@ -11,10 +11,17 @@
     "TemperCombat_FightData",
     "TemperActions_SavedVariables",
     "TemperCombat_CombatMetricsSave",
-    "TemperCombat_CombatMetricsFightData"
+    "TemperCombat_CombatMetricsFightData",
+    "TemperCombatAlertsSavedVariables",
+    "TemperCombatAlertsInstallationWide"
   ],
   "dependsOn": ["Temper"],
-  "optionalDependsOn": [],
+  "optionalDependsOn": [
+    "OdySupportIcons",
+    "LibFilteredChatPanel",
+    "LibGroupBroadcast>=91",
+    "LibCustomIcons"
+  ],
   "xmlFiles": {
     "afterBundle": [
       "TemperCombat_Templates.xml",
@@ -58,6 +65,39 @@
     "art/line4.dds",
     "art/simpleframe1.dds",
     "art/simpleframe2.dds",
-    "art/simpleframe4.dds"
+    "art/simpleframe4.dds",
+    "assets/jetplane.dds",
+    "assets/poop.dds",
+    "assets/floor/circle.dds",
+    "assets/floor/curse.dds",
+    "assets/floor/square.dds",
+    "assets/shape/chevron.dds",
+    "assets/shape/chevronthin.dds",
+    "assets/shape/circle.dds",
+    "assets/shape/diamond.dds",
+    "assets/shape/diamond_magenta.dds",
+    "assets/shape/diamond_blue.dds",
+    "assets/shape/diamond_blue_1.dds",
+    "assets/shape/diamond_blue_2.dds",
+    "assets/shape/diamond_blue_3.dds",
+    "assets/shape/diamond_blue_4.dds",
+    "assets/shape/diamond_blue_5.dds",
+    "assets/shape/diamond_blue_6.dds",
+    "assets/shape/diamond_blue_7.dds",
+    "assets/shape/diamond_blue_8.dds",
+    "assets/shape/diamond_orange.dds",
+    "assets/shape/diamond_orange_1.dds",
+    "assets/shape/diamond_orange_2.dds",
+    "assets/shape/diamond_orange_3.dds",
+    "assets/shape/diamond_orange_4.dds",
+    "assets/shape/diamond_red.dds",
+    "assets/shape/diamond_red_1.dds",
+    "assets/shape/diamond_red_2.dds",
+    "assets/shape/diamond_red_3.dds",
+    "assets/shape/diamond_red_4.dds",
+    "assets/shape/diamond_red_5.dds",
+    "assets/shape/diamond_red_6.dds",
+    "assets/shape/diamond_red_7.dds",
+    "assets/shape/diamond_red_8.dds"
   ]
 }

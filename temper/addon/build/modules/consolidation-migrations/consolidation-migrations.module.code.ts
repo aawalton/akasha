@@ -32,6 +32,26 @@ export const CONSOLIDATION_MIGRATIONS = [
   },
   {
     mode: "append",
+    runFor: "TemperCombat",
+    spec: {
+      absorbedFileBase: "CrutchAlerts",
+      absorbedGlobal: "CrutchAlertsSavedVariables",
+      targetFileBase: "TemperCombat",
+      renamedTo: "TemperCombatAlertsSavedVariables",
+    },
+  },
+  {
+    mode: "append",
+    runFor: "TemperCombat",
+    spec: {
+      absorbedFileBase: "CrutchAlerts",
+      absorbedGlobal: "CrutchAlertsInstallationWide",
+      targetFileBase: "TemperCombat",
+      renamedTo: "TemperCombatAlertsInstallationWide",
+    },
+  },
+  {
+    mode: "append",
     runFor: "TemperCharacters",
     spec: {
       absorbedFileBase: "TemperSkillPointFinder",
