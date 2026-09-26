@@ -10,6 +10,7 @@ export const temperAddonWorld = {
   addonManifest: "json",
   addonIconsFolder: true,
   addonDdsFile: true,
+  addonTexturesFolder: true,
   bindings: "xml",
   bundleEntry: "module/world-entry",
   parts: [

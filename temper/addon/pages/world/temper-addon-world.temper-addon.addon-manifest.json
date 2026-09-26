@@ -85,6 +85,22 @@
     "Icons/Skyshard-collected-alternative.dds",
     "Icons/Skyshard-collected-Esohead.dds",
     "Icons/Skyshard-collected-Rushmik.dds",
-    "Icons/Skyshard-collected-Heidra.dds"
+    "Icons/Skyshard-collected-Heidra.dds",
+    "textures/Arcana.dds",
+    "textures/blank.dds",
+    "textures/chevron.dds",
+    "textures/circle.dds",
+    "textures/diamond.dds",
+    "textures/EditorIcon.dds",
+    "textures/hexagon.dds",
+    "textures/octagon.dds",
+    "textures/OpenSettings.dds",
+    "textures/PlaceAtCursor.dds",
+    "textures/PlaceMarker.dds",
+    "textures/PlaceTempMarker.dds",
+    "textures/ProfileSelectIcon.dds",
+    "textures/RemoveMarker.dds",
+    "textures/sharkpog.dds",
+    "textures/square.dds"
   ]
 }
