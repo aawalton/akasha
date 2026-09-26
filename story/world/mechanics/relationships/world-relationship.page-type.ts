@@ -12,6 +12,7 @@ export const worldRelationship = {
     "multi-relation-property/relationship-characters",
     "number-property/relationship-points",
     "computed-property/world-relationship-level",
+    "page-type/partners-bond",
   ],
   properties: [
     {

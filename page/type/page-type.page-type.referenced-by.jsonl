@@ -605,6 +605,8 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/metrics/resources/hp/partners-ii-hp.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/metrics/resources/stamina/partners-ii-stamina.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/skills/partners-ii-skill.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/partners-bond.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/stages/partners-bond-stage.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/attributes/essence/partners-essence.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/attributes/mind/partners-mind.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/attributes/partners-attribute.page-type.ts","typed":true,"deferred":false}

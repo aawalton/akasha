@@ -119,6 +119,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/elements/world-element.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/mechanics/traits/world-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/named-events/named-event.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/stages/partners-bond-stage.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"story/world/world.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.types.ts","typed":true,"deferred":false}
@@ -248,6 +249,7 @@
 {"propertySlug":"page-property","path":"story/world/mechanics/elements/world-element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"page-property","path":"story/world/mechanics/traits/world-trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}
 {"propertySlug":"page-property","path":"story/world/named-events/named-event.page-type.ts","id":"01a0658b-9f41-7cc1-93d8-f47f7aa3b771"}
+{"propertySlug":"page-property","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/stages/partners-bond-stage.page-type.ts","id":"01a0de4b-e1c6-7323-a91c-ceea5b0a9447"}
 {"propertySlug":"page-property","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts","id":"01a0de18-0b70-730f-a089-da22794b99f8"}
 {"propertySlug":"page-property","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts","id":"01a0d3e2-b138-7ae3-a092-02aca2555e4f"}

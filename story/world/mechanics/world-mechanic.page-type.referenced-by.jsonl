@@ -25,6 +25,7 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/spells/world-spell.page-type.ts","id":"01a06558-a991-7470-be3c-3b147e9922f7"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/titles/world-title.page-type.ts","id":"01a06558-a991-7a45-b681-fed7723c95e3"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/traits/world-trait.page-type.ts","id":"01a0ca5d-0f58-748c-a396-b0062affcee6"}
+{"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/stages/partners-bond-stage.page-type.ts","id":"01a0de4b-e1c6-7323-a91c-ceea5b0a9447"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.ts","id":"01a0de18-0b70-730f-a089-da22794b99f8"}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/aspects/world-aspect.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/mechanics/attunements/ranks/attunement-rank.page-type.types.ts","typed":true,"deferred":false}
@@ -60,6 +61,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-experience.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-party-and-gear.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners-ii/mechanics/mechanics/partners-ii-resolution.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/bonds/stages/partners-bond-stage.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/ranks/tower-skill-rank.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/the-tower-resolution.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
