@@ -6,6 +6,7 @@ export const gamePanelDrawing = {
   slug: "game-panel-drawing",
   definition: "the script each game panel is drawn by, turned from the code beside that panel",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -14,6 +15,10 @@ export const gamePanelDrawing = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The scripts are turned again only where the change has a panel's file.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel page the change adds is drawn in the landing adding that page.",
     },
   ],
 } as const satisfies ChangeGenerator
