@@ -5,6 +5,7 @@ export const image7014867e49247f31 = {
   type: "page-type/image",
   slug: "image-7014867e49247f31",
   title: "Abby — wallpaper L01 (Integrating)",
+  grade: "S-",
   esoDay: "2026-07-05",
   relationshipLevel: "closeness-level/level-1",
   service: "seedvr2-upscale",
