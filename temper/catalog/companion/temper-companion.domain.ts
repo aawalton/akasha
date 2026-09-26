@@ -10,6 +10,7 @@ export const temperCompanion = {
     "page-type/temper-companion-armor-slot",
     "page-type/temper-companion-armor-weight",
     "page-type/temper-companion-base-role",
+    "page-type/temper-companion-base-stat",
     "page-type/temper-companion-equipment-quality",
     "page-type/temper-companion-jewelry-slot",
     "page-type/temper-companion-passive-metric",
