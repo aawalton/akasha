@@ -1,7 +1,10 @@
 import { Buffer } from "node:buffer"
 import { existsSync, readdirSync, readFileSync, rmSync, statSync, symlinkSync } from "node:fs"
 import { join } from "node:path"
-import { said as gitSaid } from "akasha/git/modules/running/git-running.module.code.ts"
+import {
+  said as gitSaid,
+  told as gitTold,
+} from "akasha/git/modules/running/git-running.module.code.ts"
 import { bundleCommitIn } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/code-moving/code-moving.module.code.ts"
 import {
   SERVICE_SUFFIX,
@@ -42,6 +45,8 @@ const BUN = "bun"
 
 const READ_BY_BUNDLER = /\.(ts|tsx|js|jsx|mjs|cjs|json)$/
 
+const READ_AS_TEXT = /\.jsonl$/
+
 const RECORDER = "service-bundling-closure"
 
 const TREE = join(STUBS, "tree")
@@ -49,6 +54,12 @@ const TREE = join(STUBS, "tree")
 const NODE_MODULES = "node_modules"
 
 const CODE: readonly string[] = ["*.ts", "*.tsx", "*.js", "*.jsx", "*.mjs", "*.cjs", "*.json"]
+
+const SOURCES: readonly string[] = ["*.ts", "*.tsx"]
+
+const IMPORTING = '"akasha/[^"]+" with [{]'
+
+const IMPORTED = /"akasha\/([^"]+)" with \{/g
 
 export const TELLER_STEM = TELLING_TEMPLATE.slice(0, -SERVICE_SUFFIX.length)
 
@@ -167,6 +178,9 @@ function recordingInto(read: string[]): BunPlugin {
       build.onLoad({ filter: READ_BY_BUNDLER }, (args) => {
         read.push(args.path)
       })
+      build.onLoad({ filter: READ_AS_TEXT }, (args) => {
+        read.push(args.path)
+      })
     },
   }
 }
@@ -208,12 +222,26 @@ function treeMade(root: string, commit: string, at: string): undefined {
   rmSync(at, { recursive: true, force: true })
   gitSaid(root, ["worktree", "prune"])
   gitSaid(root, ["worktree", "add", "--detach", "--no-checkout", at, commit])
-  gitSaid(at, ["sparse-checkout", "set", "--no-cone", ...CODE])
+}
+
+function textImportedIn(said: string): readonly string[] {
+  const found = new Set<string>()
+  for (const one of said.matchAll(IMPORTED)) {
+    const path = one[1]
+    if (path !== undefined && !READ_BY_BUNDLER.test(path)) found.add(`/${path}`)
+  }
+  return [...found].sort()
+}
+
+function textImportedAt(root: string, commit: string): readonly string[] {
+  const said = gitTold(root, ["grep", "-h", "-o", "-E", IMPORTING, commit, "--", ...SOURCES])
+  return said === null ? [] : textImportedIn(said)
 }
 
 export function checkedOut(root: string, commit: string, at: string = TREE): Checked {
   try {
     if (!existsSync(join(at, ".git"))) treeMade(root, commit, at)
+    gitSaid(at, ["sparse-checkout", "set", "--no-cone", ...CODE, ...textImportedAt(root, commit)])
     gitSaid(at, ["checkout", "--detach", "--force", commit])
     const modules = join(at, NODE_MODULES)
     if (!existsSync(modules)) symlinkSync(join(root, NODE_MODULES), modules)

@@ -40,6 +40,22 @@ test("a commit is checked out apart, holding only code, and moved to the next co
   expect(readFileSync(join(at, "one.ts"), "utf8")).toBe("export const one = 2\n")
 })
 
+test("a file code imports as text is checked out beside the code, and no other such file", () => {
+  const root = scratch.rootFor("akasha-bundling-text-")
+  gitSaid(root, ["init", "-q"])
+  mkdirSync(join(root, "rows"))
+  writeFileSync(join(root, "rows", "read.jsonl"), "{}\n")
+  writeFileSync(join(root, "rows", "unread.jsonl"), "{}\n")
+  const commit = committed(
+    root,
+    'import read from "akasha/rows/read.jsonl" with { type: "text" }\n\nexport const one = read\n'
+  )
+  const at = join(scratch.rootFor("akasha-bundling-text-tree-"), "tree")
+  expect(checkedOut(root, commit, at)).toEqual({ tree: at })
+  expect(existsSync(join(at, "rows", "read.jsonl"))).toBe(true)
+  expect(existsSync(join(at, "rows", "unread.jsonl"))).toBe(false)
+})
+
 const HOME = "/home/one"
 
 const RUNNING = "/repo/one/running.code.ts"
