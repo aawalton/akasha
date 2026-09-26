@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNIDAAIBhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIABurwAAzpNjr2ymLCGAAAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM8EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
+  "buildHash": "ATQHNIDAAIBhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAAAAAowzpNhi2ygACGAAAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWOo7I2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -1661,7 +1661,7 @@
             "name": "Cauterize",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 2,
           "abilityIndex": 6,
           "isUltimate": false,
           "atMorph": true
@@ -1945,7 +1945,7 @@
             "name": "Fragmented Shield",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 4,
           "isUltimate": false,
           "atMorph": true
@@ -3319,7 +3319,7 @@
             "name": "Replenishing Barrier",
             "rank": 4
           },
-          "currentMorph": 0,
+          "currentMorph": 1,
           "abilityIndex": 1,
           "isUltimate": true,
           "atMorph": true
@@ -16358,7 +16358,7 @@
   },
   "skillPoints": {
     "total": 577,
-    "unassigned": 184,
+    "unassigned": 182,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 0,
@@ -28270,5 +28270,9 @@
       5,
       4
     ]
+  },
+  "inventoryCheck": {
+    "date": "2026-09-26",
+    "misplaced": 129
   }
 }
