@@ -156,6 +156,7 @@ export const temperAddonCharacters = {
     "module/pithka-layout",
     "module/pithka-nav-bar",
     "module/pithka-screens",
+    "module/pithka-group-finder-window",
   ],
   interfaces: ["eso-interface/skill-point-finder-layout"],
   decisions: [
