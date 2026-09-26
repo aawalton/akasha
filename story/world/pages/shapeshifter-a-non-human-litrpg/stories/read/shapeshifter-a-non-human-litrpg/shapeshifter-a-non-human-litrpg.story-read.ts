@@ -6,7 +6,7 @@ export const shapeshifterANonHumanLitrpg = {
   slug: "shapeshifter-a-non-human-litrpg",
   grade: "C",
   unit: "unit/words",
-  title: "\\nFaceless Hunter",
+  title: "Faceless Hunter: A Shapeshifter LitRPG",
   world: "world/shapeshifter-a-non-human-litrpg",
   externalIdentity: [
     {
