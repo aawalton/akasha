@@ -22,10 +22,12 @@ import {
   loreWorld,
   OTHER_SEAT,
   OUTSIDE_AT,
+  REVIEWER_SEAT,
   referencesWritten,
   TARGET_AT,
   toldAlso,
   UNDER_GAME_MASTER,
+  WRITER_SEAT,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 
 const scratch = scratchWorld()
@@ -46,6 +48,21 @@ test("a subagent under a game master's seat is judged by that seat", () => {
   const root = loreWorld(scratch)
   expect(seatOf(UNDER_GAME_MASTER)).toBe(GAME_MASTER_SEAT)
   expect(gameMasterIn(root, UNDER_GAME_MASTER)).toBe(true)
+})
+
+test("a reviewer's seat and a writer's seat are judged as a game master's", () => {
+  const root = loreWorld(scratch)
+  expect(gameMasterIn(root, REVIEWER_SEAT)).toBe(true)
+  expect(gameMasterIn(root, WRITER_SEAT)).toBe(true)
+  expect(gameMasterIn(root, `${WRITER_SEAT}--held-sub`)).toBe(true)
+})
+
+test("a reviewer and a writer are withheld what a game master is", () => {
+  const root = loreWorld(scratch)
+  const held = withheldFor(root, GAME_MASTER_SEAT)
+  expect(withheldFor(root, REVIEWER_SEAT)).toEqual(held)
+  expect(withheldFor(root, WRITER_SEAT)).toEqual(held)
+  expect(withheldFor(root, REVIEWER_SEAT)).toContain(LORE_AT)
 })
 
 test("a seat of another role, or no agent at all, is no game master's", () => {

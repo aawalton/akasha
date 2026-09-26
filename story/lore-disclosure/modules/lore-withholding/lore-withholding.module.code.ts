@@ -3,6 +3,8 @@ import { dirname, join, matchesGlob, sep } from "node:path"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
+import { reviewer } from "akasha/agent/role/pages/reviewer.role.ts"
+import { writer } from "akasha/agent/role/pages/writer.role.ts"
 import { role } from "akasha/agent/seat/properties/role.relation-property.ts"
 import { storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
@@ -51,9 +53,12 @@ export function seatOf(agentId: string): string {
   return at < 0 ? agentId : agentId.slice(0, at)
 }
 
+export const HELD_ROLES: readonly string[] = [gameMaster.id, reviewer.id, writer.id]
+
 export function gameMasterIn(root: string, agentId: string | null): boolean {
   if (agentId === null || agentId === "") return false
-  return idsNaming(root, gameMaster.id, role.propertySlug).includes(seatOf(agentId))
+  const seat = seatOf(agentId)
+  return HELD_ROLES.some((one) => idsNaming(root, one, role.propertySlug).includes(seat))
 }
 
 function pathOf(root: string, about: string): string | null {

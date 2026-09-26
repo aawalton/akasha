@@ -11,7 +11,8 @@ export const loreWithholding = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game master's seat is one the game master role's references name by role.",
+      statement:
+        "A seat a game master, reviewer or writer role's references name by role is held as a game master's.",
     },
     {
       decisionKind: "decision-kind/departure",

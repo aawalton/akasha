@@ -3,6 +3,8 @@ import { dirname, join } from "node:path"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { definer } from "akasha/agent/role/pages/definer.role.ts"
 import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
+import { reviewer } from "akasha/agent/role/pages/reviewer.role.ts"
+import { writer } from "akasha/agent/role/pages/writer.role.ts"
 import { role as rolePageType } from "akasha/agent/role/role.page-type.ts"
 import { role } from "akasha/agent/seat/properties/role.relation-property.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
@@ -22,6 +24,10 @@ import { worldBuilder } from "akasha/story/lore-disclosure/pages/world-builder.l
 export const GAME_MASTER_SEAT = "01a0d600-0000-7000-8000-000000000001"
 
 export const OTHER_SEAT = "01a0d600-0000-7000-8000-000000000002"
+
+export const REVIEWER_SEAT = "01a0d600-0000-7000-8000-000000000007"
+
+export const WRITER_SEAT = "01a0d600-0000-7000-8000-000000000008"
 
 export const UNDER_GAME_MASTER = `${GAME_MASTER_SEAT}${SUBAGENT_MARK}held-sub`
 
@@ -46,6 +52,14 @@ const ROLE_AT = "agent/role/pages/game-master.role.ts"
 const GAME_MASTER_AT = "agent/seat/pages/held/held.seat.ts"
 
 const OTHER_AT = "agent/seat/pages/other/other.seat.ts"
+
+const REVIEWER_ROLE_AT = "agent/role/pages/reviewer.role.ts"
+
+const WRITER_ROLE_AT = "agent/role/pages/writer.role.ts"
+
+const REVIEWER_AT = "agent/seat/pages/reviewing/reviewing.seat.ts"
+
+const WRITER_AT = "agent/seat/pages/writing/writing.seat.ts"
 
 type Naming = { readonly propertySlug: string; readonly path: string; readonly id: string }
 
@@ -81,6 +95,24 @@ function seatsFiled(root: string): undefined {
         type: typeOf(seat.slug),
         slug: "other",
         [role.propertySlug]: addressOf(rolePageType.slug, definer.slug),
+      },
+    },
+    {
+      path: REVIEWER_AT,
+      value: {
+        id: REVIEWER_SEAT,
+        type: typeOf(seat.slug),
+        slug: "reviewing",
+        [role.propertySlug]: addressOf(rolePageType.slug, reviewer.slug),
+      },
+    },
+    {
+      path: WRITER_AT,
+      value: {
+        id: WRITER_SEAT,
+        type: typeOf(seat.slug),
+        slug: "writing",
+        [role.propertySlug]: addressOf(rolePageType.slug, writer.slug),
       },
     },
   ])
@@ -122,6 +154,14 @@ function pagesFiled(root: string, about: string): undefined {
       path: ROLE_AT,
       value: { id: gameMaster.id, type: typeOf(rolePageType.slug), slug: gameMaster.slug },
     },
+    {
+      path: REVIEWER_ROLE_AT,
+      value: { id: reviewer.id, type: typeOf(rolePageType.slug), slug: reviewer.slug },
+    },
+    {
+      path: WRITER_ROLE_AT,
+      value: { id: writer.id, type: typeOf(rolePageType.slug), slug: writer.slug },
+    },
   ])
   valueAlsoFiled(root, disclosureType.slug, [
     {
@@ -149,6 +189,12 @@ export function loreWorld(scratch: Scratch, about: string = TARGET): string {
   pagesFiled(root, about)
   referencesWritten(root, ROLE_AT, [
     { propertySlug: role.propertySlug, path: GAME_MASTER_AT, id: GAME_MASTER_SEAT },
+  ])
+  referencesWritten(root, REVIEWER_ROLE_AT, [
+    { propertySlug: role.propertySlug, path: REVIEWER_AT, id: REVIEWER_SEAT },
+  ])
+  referencesWritten(root, WRITER_ROLE_AT, [
+    { propertySlug: role.propertySlug, path: WRITER_AT, id: WRITER_SEAT },
   ])
   referencesWritten(root, DISCLOSURE_AT, [
     { propertySlug: loreDisclosure.propertySlug, path: LORE_AT, id: LORE_ID },
