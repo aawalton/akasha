@@ -44,5 +44,10 @@ export const completionCardCheckers = {
       decisionKind: "decision-kind/departure",
       statement: "A page naming the whole zone-quest branch is still answered.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A character keeps her inventory today once she banked today and holds nothing misplaced.",
+    },
   ],
 } as const satisfies Module

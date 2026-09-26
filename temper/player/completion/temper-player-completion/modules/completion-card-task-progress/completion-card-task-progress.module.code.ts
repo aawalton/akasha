@@ -39,7 +39,6 @@ const UNMEASURED_CARD_IDS: readonly string[] = [
   "guild-sales",
   "hireling-mails",
   "active-quests",
-  "inventory-management",
   "dungeon-sets",
   "antiquity-leads-motifs",
   "antiquity-leads-legendary",

@@ -1,5 +1,6 @@
 import { getEsoDateString } from "akasha/temper/player/character/formula-framework/modules/eso-date/eso-date.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import {
   countAchievementPath,
@@ -7,7 +8,10 @@ import {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-tally/completion-achievement-tally.module.code.ts"
 import { countCadwell } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cadwell-tally/completion-cadwell-tally.module.code.ts"
 import type { CompletionCardChecker } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
-import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import type {
+  CharacterCardId,
+  TaskCardId,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { countCompanionQuests } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-quest-tally/completion-companion-quest-tally.module.code.ts"
 import { countCompanionRapport } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-rapport-tally/completion-companion-rapport-tally.module.code.ts"
 import { isLoreLibraryItemComplete } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
@@ -24,7 +28,21 @@ import { SKILL_MORPHS_CHECKER } from "akasha/temper/player/skill-morph/access/mo
 
 const DAILY_WRIT_TOTAL = 7
 
-export const COMPLETION_CARD_CHECKERS: Partial<Record<CharacterCardId, CompletionCardChecker>> = {
+export function isInventoryKeptToday(completion: CharacterCompletion | null | undefined): boolean {
+  if (!completion) return false
+  const today = getEsoDateString()
+  const check = completion.inventoryCheck
+  return (
+    completion.bankVisitDate === today &&
+    check !== undefined &&
+    check.date === today &&
+    check.misplaced === 0
+  )
+}
+
+export const COMPLETION_CARD_CHECKERS: Partial<
+  Record<CharacterCardId | TaskCardId, CompletionCardChecker>
+> = {
   "mount-training": {
     isCardComplete(completion) {
       if (!completion) return false
@@ -279,6 +297,13 @@ export const COMPLETION_CARD_CHECKERS: Partial<Record<CharacterCardId, Completio
         return { current: 0, total: DAILY_WRIT_TOTAL }
       }
       return { current: dailyWrits.completed, total: DAILY_WRIT_TOTAL }
+    },
+  },
+
+  "inventory-management": {
+    isCardComplete: isInventoryKeptToday,
+    getItemProgress(completion) {
+      return { current: isInventoryKeptToday(completion) ? 1 : 0, total: 1 }
     },
   },
 

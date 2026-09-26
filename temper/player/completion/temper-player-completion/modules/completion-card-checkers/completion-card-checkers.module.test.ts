@@ -1,8 +1,12 @@
 import { describe, expect, test } from "bun:test"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
+import { getEsoDateString } from "akasha/temper/player/character/formula-framework/modules/eso-date/eso-date.module.code.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"
+import {
+  COMPLETION_CARD_CHECKERS,
+  isInventoryKeptToday,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts"
 import {
   type CompletionCatalogs,
   NO_COMPLETION_CATALOGS,
@@ -118,5 +122,57 @@ describe("character-achievements", () => {
 
   test("a character the store has not read answers nothing", () => {
     expect(checker.getItemProgress?.({}, ["Dragonhold"], CATALOGS)).toBeUndefined()
+  })
+})
+
+describe("inventory-management", () => {
+  const today = getEsoDateString()
+
+  test("a character is done once she banked today and nothing she holds is misplaced", () => {
+    expect(
+      isInventoryKeptToday({
+        bankVisitDate: today,
+        inventoryCheck: { date: today, misplaced: 0 },
+      })
+    ).toBe(true)
+  })
+
+  test("a character who has not banked today is not done", () => {
+    expect(
+      isInventoryKeptToday({
+        bankVisitDate: "2000-01-01",
+        inventoryCheck: { date: today, misplaced: 0 },
+      })
+    ).toBe(false)
+  })
+
+  test("a character holding a misplaced item is not done", () => {
+    expect(
+      isInventoryKeptToday({
+        bankVisitDate: today,
+        inventoryCheck: { date: today, misplaced: 2 },
+      })
+    ).toBe(false)
+  })
+
+  test("a check from another day does not count", () => {
+    expect(
+      isInventoryKeptToday({
+        bankVisitDate: today,
+        inventoryCheck: { date: "2000-01-01", misplaced: 0 },
+      })
+    ).toBe(false)
+  })
+
+  test("the card counts one for a character who is done", () => {
+    const inventory = COMPLETION_CARD_CHECKERS["inventory-management"]
+    expect(
+      inventory?.getItemProgress?.(
+        { bankVisitDate: today, inventoryCheck: { date: today, misplaced: 0 } },
+        [],
+        CATALOGS
+      )
+    ).toEqual({ current: 1, total: 1 })
+    expect(inventory?.getItemProgress?.({}, [], CATALOGS)).toEqual({ current: 0, total: 1 })
   })
 })
