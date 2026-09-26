@@ -1,3 +1,3 @@
-import type { Element } from "akasha/story/mechanic/element/element.page-type.types.ts"
+import type { WorldElement } from "akasha/story/world/mechanics/elements/world-element.page-type.types.ts"
 
-export type TowerElement = Element & {}
+export type TowerElement = WorldElement & {}

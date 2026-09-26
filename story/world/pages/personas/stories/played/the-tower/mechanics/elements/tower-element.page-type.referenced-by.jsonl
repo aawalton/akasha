@@ -4,5 +4,5 @@
 {"propertySlug":"import","fileName":"tower-element.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-force.tower-element.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"tower-element.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-mind.tower-element.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"tower-element.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/elements/pages/the-tower-sound.tower-element.ts","typed":true,"deferred":false}
-{"propertySlug":"parts","path":"story/mechanic/element/element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
+{"propertySlug":"parts","path":"story/world/mechanics/elements/world-element.page-type.ts","id":"01a0ca6d-c8e0-7304-b515-37e66f045ec1"}
 {"propertySlug":"target-page-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/skills/properties/tower-skill-element.relation-property.ts","id":"01a0de18-0b70-73d2-8a38-9519764627da"}

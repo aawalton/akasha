@@ -6,7 +6,7 @@ export const itemEssence = {
   slug: "item-essence",
   propertySlug: "essence",
   definition: "the element of the essence an item carries",
-  targetPageType: "page-type/element",
+  targetPageType: "page-type/world-element",
   decisions: [
     {
       decisionKind: "decision-kind/departure",

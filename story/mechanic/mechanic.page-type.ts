@@ -10,7 +10,6 @@ export const mechanic = {
   parts: [
     "page-type/metric-character-derived",
     "page-type/trait",
-    "page-type/element",
     "page-type/attunement",
     "page-type/mechanic-check",
     "page-type/skill",

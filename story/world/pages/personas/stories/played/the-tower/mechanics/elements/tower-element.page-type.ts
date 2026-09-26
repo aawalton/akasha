@@ -6,7 +6,7 @@ export const towerElement = {
   slug: "tower-element",
   definition: "a kind of essence the world of the Tower is made of",
   pluralSlug: "elements",
-  extends: ["page-type/element"],
+  extends: ["page-type/world-element"],
   parts: ["module/affinity-element"],
   decisions: [],
   types: "ts",

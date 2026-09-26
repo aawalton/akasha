@@ -7,7 +7,7 @@ import { useEffect, useState } from "react"
 
 const ATTUNEMENT_TYPE = "attunement"
 
-const ELEMENT_TYPE = "element"
+const ELEMENT_TYPE = "world-element"
 
 const RANK_TYPE = "attunement-rank"
 

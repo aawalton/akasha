@@ -27,6 +27,7 @@ export const worldMechanic = {
     "page-type/world-class",
     "page-type/world-condition",
     "page-type/world-curse",
+    "page-type/world-element",
     "page-type/world-enchantment",
     "page-type/world-item",
     "page-type/world-legacy",
