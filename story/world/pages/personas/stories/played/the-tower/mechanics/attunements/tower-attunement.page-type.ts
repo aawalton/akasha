@@ -6,7 +6,7 @@ export const towerAttunement = {
   slug: "tower-attunement",
   definition: "how much control a character in the Tower has over an element",
   pluralSlug: "attunements",
-  extends: ["page-type/attunement"],
+  extends: ["page-type/world-attunement"],
   parts: ["module/tower-attunements-beside"],
   types: "ts",
   schema: "jsonl",

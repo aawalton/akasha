@@ -6,7 +6,7 @@ export const attunementRank = {
   slug: "attunement-rank",
   definition: "a rung on the ladder of control over an element",
   pluralSlug: "ranks",
-  extends: ["page-type/mechanic"],
+  extends: ["page-type/world-mechanic"],
   parts: ["number-property/attunement-rank-cap", "page-type/tower-attunement-rank"],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },

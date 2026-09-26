@@ -1,12 +1,12 @@
 import type { PageType } from "akasha/page/type/page-type.page-type.types.ts"
 
-export const attunement = {
+export const worldAttunement = {
   id: "01a0ca70-87e3-7f2e-a7a8-97be013a98f5",
   type: "page-type/page-type",
-  slug: "attunement",
+  slug: "world-attunement",
   definition: "how much control a character has over an element",
   pluralSlug: "attunements",
-  extends: ["page-type/mechanic"],
+  extends: ["page-type/world-mechanic"],
   parts: [
     "number-property/attunement-counter",
     "relation-property/attunement-character",

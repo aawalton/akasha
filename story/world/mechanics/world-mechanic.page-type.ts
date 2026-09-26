@@ -22,6 +22,7 @@ export const worldMechanic = {
     "number-property/reference-level",
     "page-property-entry/references",
     "page-type/world-aspect",
+    "page-type/world-attunement",
     "page-type/world-boon",
     "page-type/world-carried-memory",
     "page-type/world-class",

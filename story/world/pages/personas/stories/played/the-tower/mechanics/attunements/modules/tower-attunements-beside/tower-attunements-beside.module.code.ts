@@ -5,7 +5,7 @@ import { askComposed } from "akasha/page/query/modules/store-spelled-asking/stor
 import { playerOf } from "akasha/story/world/stories/played/modules/game-player-beside/game-player-beside.module.code.ts"
 import { useEffect, useState } from "react"
 
-const ATTUNEMENT_TYPE = "attunement"
+const ATTUNEMENT_TYPE = "world-attunement"
 
 const ELEMENT_TYPE = "world-element"
 

@@ -1,3 +1,3 @@
-import type { Attunement } from "akasha/story/mechanic/attunement/attunement.page-type.types.ts"
+import type { WorldAttunement } from "akasha/story/world/mechanics/attunements/world-attunement.page-type.types.ts"
 
-export type TowerAttunement = Attunement & {}
+export type TowerAttunement = WorldAttunement & {}
