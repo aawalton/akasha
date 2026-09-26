@@ -21,9 +21,9 @@ export const loremaster = {
     {
       directiveKind: "directive-kind/rule",
       name: "Never World Builder",
-      act: "Propose a new fact at game-master or player disclosure, never at world-builder.",
+      act: "Propose each new fact with the game master among its knowers, and every character who learned it.",
       warrant: "A fact above the game master is one only the world builder weighs.",
-      aids: ["A fact the player saw in the turn is at player disclosure."],
+      aids: ["A fact the player saw in the turn is known to the player's character."],
     },
   ],
 } as const satisfies Role
