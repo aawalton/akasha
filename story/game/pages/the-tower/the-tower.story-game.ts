@@ -51,5 +51,4 @@ export const theTower = {
   ],
   defaultDice: "game-mechanic/two-d-ten",
   cardVocabulary: ["LEVEL UP", "SKILL", "AFFINITY", "TITLE", "ESSENCE ABSORBED"],
-  player: "game-entity/the-tower-alan",
 } as const satisfies StoryGame
