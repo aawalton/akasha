@@ -29,5 +29,14 @@ export const needsAttention = {
       decisionKind: "decision-kind/departure",
       statement: "The model quotes the asking before it answers, and the answer is the last line.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question in a turn is put to Alan unless the turn itself shows otherwise.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Three runs each kept 34 of the 35 cases, and the one missed asks Alan about this test's subject.",
+    },
   ],
 } as const satisfies ModelTest
