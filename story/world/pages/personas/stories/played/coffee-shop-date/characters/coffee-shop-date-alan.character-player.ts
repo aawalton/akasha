@@ -1,11 +1,12 @@
-import type { StoryElementPlayed } from "akasha/story/world/stories/played/elements/story-element-played.page-type.types.ts"
+import type { CharacterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.types.ts"
 
 export const coffeeShopDateAlan = {
   id: "01a0682a-d9b5-7ff8-9c8b-a9abe2285bbc",
-  type: "page-type/story-element-played",
+  type: "page-type/character-player",
   slug: "coffee-shop-date-alan",
-  playedStory: "story-played/coffee-shop-date",
-  elementKind: "agent",
+  title: "Alan",
+  story: "story-played/coffee-shop-date",
+  person: "person/alan",
   perceiving:
     "Alan's attention is drawn to structure — the system beneath the surface, the load-bearing joint, the place where a design will later strain. He notices friction first: the redundant step, the abstraction that doesn't fit, the \"why is this harder than it should be.\" Elegance and waste both register loudly; the mundane middle often doesn't.\n\nHis focus is bursty — seized hard by a novel idea or a clean reduction, prone to skating past routine detail until it becomes interesting. He catches when something is *off* before he can say why, and trusts that signal enough to dig.",
   knowing:
@@ -17,4 +18,4 @@ export const coffeeShopDateAlan = {
   doing:
     'He thinks out loud in hypotheses and questions — "here\'s an idea," "is this just X?" — and drives a conversation by building on what the other person said rather than overriding it. He reduces, names, reframes; he defers and sequences openly ("for now," "later, when it\'s needed").\n\nHis register is concise and precise, with a low tolerance for bloat — as much a function of limited patience for noise as of taste. Direct. The warmth shows less in what he says than in the care he takes to get it right and to make sure the other person is still with him.',
   turnStates: "jsonl",
-} as const satisfies StoryElementPlayed
+} as const satisfies CharacterPlayer
