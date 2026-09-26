@@ -10,6 +10,7 @@ export const kindling = {
     { partOfSpeech: "part-of-speech/noun", spelling: "kindlings" },
   ],
   extends: ["page-type/domain"],
+  parts: ["kindling/familiarity"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
