@@ -4,7 +4,7 @@ export const tmuxSession = {
   id: "01a0c9ed-0747-74e1-adb1-380621bd6c5d",
   type: "page-type/module",
   slug: "tmux-session",
-  definition: "the tmux session a seat's name holds, read and ended",
+  definition: "the tmux session of a seat",
   code: "ts",
   decisions: [
     {

@@ -5,7 +5,7 @@ export const machine = {
   type: "page-type/domain",
   slug: "machine",
   definition: "the machines Alan has",
-  parts: ["domain/provisioning", "page-type/computer", "page-type/host"],
+  parts: ["domain/provisioning", "page-type/computer", "page-type/host", "domain/tmux"],
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "machine" },
     { partOfSpeech: "part-of-speech/noun", spelling: "machines" },

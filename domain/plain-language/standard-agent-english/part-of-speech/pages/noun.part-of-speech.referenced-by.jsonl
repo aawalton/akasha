@@ -236,6 +236,7 @@
 {"propertySlug":"part-of-speech","path":"infrastructure/machine/computer/computer.page-type.ts","id":"01a0658c-329a-7d00-b3f3-8abf47bf46cf"}
 {"propertySlug":"part-of-speech","path":"infrastructure/machine/host/host.page-type.ts","id":"01a06590-e94f-7d6f-a415-867286e194a2"}
 {"propertySlug":"part-of-speech","path":"infrastructure/machine/machine.domain.ts","id":"01a06596-0000-7000-8000-000000000301"}
+{"propertySlug":"part-of-speech","path":"infrastructure/machine/tmux/tmux.domain.ts","id":"01a0ddea-66cd-7bed-aa1b-1dc5841cde2c"}
 {"propertySlug":"part-of-speech","path":"infrastructure/memory/memory.domain.ts","id":"01a09115-c783-7db5-b3bb-5b8349b6b51d"}
 {"propertySlug":"part-of-speech","path":"infrastructure/network/certificate/certificate.domain.ts","id":"01a0658b-0f02-7cc7-a170-0193d5a4bc1d"}
 {"propertySlug":"part-of-speech","path":"infrastructure/network/network.domain.ts","id":"01a0658b-0f02-7e55-94d1-d612c0ed6115"}
