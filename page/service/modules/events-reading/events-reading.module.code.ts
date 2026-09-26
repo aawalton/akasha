@@ -6,6 +6,8 @@ const UNNAMED = "message"
 
 const FAILED = "error"
 
+const SILENT_MS = 15_000
+
 type Opening = (signal: AbortSignal) => Promise<Response>
 
 type Heard = { readonly name: string; readonly data: string }
@@ -20,25 +22,40 @@ export function eventIn(block: string): Heard | null {
   return data.length === 0 ? null : { name, data: data.join("\n") }
 }
 
-export function streamOver(opening: Opening): StreamLike {
+export function streamOver(opening: Opening, silentMs: number = SILENT_MS): StreamLike {
   const aborting = new AbortController()
   const heard = new Map<string, ((data: unknown) => undefined)[]>()
   let closed = false
+  let quiet: ReturnType<typeof setTimeout> | null = null
 
   const tell = (name: string, data: unknown): undefined => {
     for (const one of heard.get(name) ?? []) one(data)
     return undefined
   }
 
+  const hushed = (): undefined => {
+    if (quiet !== null) clearTimeout(quiet)
+    quiet = null
+    return undefined
+  }
+
   const ended = (): undefined => {
+    hushed()
     if (closed) return undefined
     closed = true
     aborting.abort()
     return tell(FAILED, undefined)
   }
 
+  const listening = (): undefined => {
+    hushed()
+    if (!closed) quiet = setTimeout(ended, silentMs)
+    return undefined
+  }
+
   const read = async (): Promise<undefined> => {
     try {
+      listening()
       const answered = await opening(aborting.signal)
       if (!answered.ok || answered.body === null) return ended()
       const reader = answered.body.getReader()
@@ -47,6 +64,7 @@ export function streamOver(opening: Opening): StreamLike {
       for (;;) {
         const { value, done } = await reader.read()
         if (done) break
+        listening()
         waiting += decoder.decode(value, { stream: true })
         const blocks = waiting.split(APART)
         waiting = blocks.pop() ?? ""
@@ -67,6 +85,7 @@ export function streamOver(opening: Opening): StreamLike {
     },
     closed: () => closed,
     close: () => {
+      hushed()
       if (closed) return undefined
       closed = true
       aborting.abort()
