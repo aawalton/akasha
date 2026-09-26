@@ -21,6 +21,7 @@ export const metricCharacterAttribute = {
     "page-type/cornerstone-faculty",
     "page-type/tower-of-nimue-attribute",
     "page-type/tower-of-nimue-level",
+    "page-type/the-beholder-attribute",
   ],
 
   types: "ts",

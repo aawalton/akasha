@@ -9,6 +9,7 @@
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/levels/partners-level.page-type.ts","id":"01a0de47-b6d3-7e7f-b886-9bee3bc0e7d8"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-attribute.page-type.ts","id":"01a0ca26-9ce6-7a3c-8e2d-eb3199a1ecdd"}
 {"propertySlug":"extends-type","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/tower-level.page-type.ts","id":"01a0ca39-5f14-7739-9c6a-7e0e48d7e818"}
+{"propertySlug":"extends-type","path":"story/world/pages/the-beholder/stories/written/the-beholder/mechanics/metrics/attributes/the-beholder-attribute.page-type.ts","id":"01a0deec-7455-7d2c-a9a6-9fa1a5ad06e0"}
 {"propertySlug":"extends-type","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/attributes/tower-of-nimue-attribute.page-type.ts","id":"01a0dee9-5494-73ec-b731-6b43baa9beea"}
 {"propertySlug":"extends-type","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/level/tower-of-nimue-level.page-type.ts","id":"01a0dee9-5494-7564-ab27-80bb2b1ac27b"}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.code.ts","typed":false,"deferred":false}
@@ -24,6 +25,7 @@
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/partners/mechanics/metrics/levels/partners-level.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/attributes/tower-attribute.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/metrics/tower-level/tower-level.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/the-beholder/stories/written/the-beholder/mechanics/metrics/attributes/the-beholder-attribute.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/attributes/tower-of-nimue-attribute.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-character-attribute.page-type.types.ts","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/mechanics/metrics/level/tower-of-nimue-level.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/mechanics/metrics/metric-character/metric-character.page-type.ts","id":"01a0ca49-6168-7496-8941-ce63271b7a53"}
