@@ -6,6 +6,7 @@ export const partnersIiAmyLaurens = {
   slug: "partners-ii-amy-laurens",
   title: "Amy Laurens",
   world: "world/personas",
+  about: "character-other/partners-ii-amy",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Amy Laurens has kept Hearthholt's affairs a good many years.",

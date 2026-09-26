@@ -6,6 +6,7 @@ export const partnersIiAlan = {
   slug: "partners-ii-alan",
   title: "Alan",
   world: "world/personas",
+  about: "character-player/partners-ii-alan",
   loreDisclosure: "lore-disclosure/player",
   facts: [
     "Alan crossed into Aravel mid-stride at dusk, a stranger.",
