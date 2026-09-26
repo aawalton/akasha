@@ -12,6 +12,10 @@ export const metricCharacterResource = {
     "page-type/tower-mana",
     "page-type/tower-stamina",
     "page-type/tower-attribute-point",
+    "page-type/harem-hotel-health",
+    "page-type/harem-hotel-mana",
+    "page-type/harem-hotel-stamina",
+    "page-type/harem-hotel-attribute-point",
   ],
 
   types: "ts",
