@@ -40,7 +40,7 @@ type Page = {
   refused: readonly Judged[] | null
 }
 
-export type Holding = {
+type Holding = {
   readonly refused: () => readonly Judged[]
   readonly gaps: () => Gaps
 }
