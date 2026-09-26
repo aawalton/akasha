@@ -5,4 +5,14 @@ export const image03c81ca5af8fecb9 = {
   type: "page-type/image",
   slug: "image-03c81ca5af8fecb9",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "transported ballerina in a black leotard and torn rehearsal tights en pointe at the barre, dusty window light in an old studio, photorealistic photograph, natural skin texture, film grain",
+  seed: 355710512,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

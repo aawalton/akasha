@@ -5,4 +5,14 @@ export const image06400efea4ecc5de = {
   type: "page-type/image",
   slug: "image-06400efea4ecc5de",
   grade: "A-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "topless woman seated, arms and hands artfully crossed over her chest, tousled auburn hair, warm window light, tender downward gaze, beautiful young woman, photorealistic photograph, natural skin texture, soft flattering light, film grain, tasteful fine-art nude photography",
+  seed: 32569136,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

@@ -5,4 +5,13 @@ export const image1159120635ed10c3 = {
   type: "page-type/image",
   slug: "image-1159120635ed10c3",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman nude in a warm shower, water running over her shoulders and back, steam in the air, soft tender expression toward the viewer, soft diffused bathroom light, tasteful intimate framing, 50mm, visible skin texture, photoreal",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

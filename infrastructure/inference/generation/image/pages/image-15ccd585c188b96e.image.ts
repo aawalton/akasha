@@ -5,4 +5,13 @@ export const image15ccd585c188b96e = {
   type: "page-type/image",
   slug: "image-15ccd585c188b96e",
   persona: "persona/abby",
+  service: "image-gen-abby",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "abbyz woman stepping across stones in a mossy forest stream, casual outdoor layers, focused playful expression, soft green dappled light, 35mm, candid, visible skin texture, photoreal",
+  width: 1024,
+  height: 1024,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

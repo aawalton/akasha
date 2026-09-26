@@ -5,4 +5,14 @@ export const image0aaa1247461e9586 = {
   type: "page-type/image",
   slug: "image-0aaa1247461e9586",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "Attractive woman sitting on a New York fire escape on a sweltering summer night, thin white slip and bare feet on the iron grating, a bottle of beer sweating beside her, knees up, looking directly at the camera, sodium street light from below and neon spill from across the street, gritty intimate 35mm photography\n",
+  seed: 479911579,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

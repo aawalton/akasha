@@ -5,4 +5,14 @@ export const image0158c78553ac2da1 = {
   type: "page-type/image",
   slug: "image-0158c78553ac2da1",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "woman in a colorful summer dress on the mosaic terrace of Park Güell in Barcelona, trencadís tiles glittering, city and sea beyond, beautiful young woman, face fully in frame looking directly at the camera with warm eye contact, photorealistic photograph, natural skin texture, golden summer light, film grain, candid travel editorial photography",
+  seed: 1561027160,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
