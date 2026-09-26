@@ -5,6 +5,7 @@ export const haremHotelJourneyman = {
   type: "page-type/harem-hotel-skill-rank",
   slug: "harem-hotel-journeyman",
   title: "Journeyman",
+  place: 3,
   description: "Does it reliably when set to it, the move coming from the plan.",
   width: 25,
 } as const satisfies HaremHotelSkillRank

@@ -5,6 +5,7 @@ export const haremHotelNovice = {
   type: "page-type/harem-hotel-skill-rank",
   slug: "harem-hotel-novice",
   title: "Novice",
+  place: 1,
   description: "Has found the skill and not yet entered it.",
   width: 5,
 } as const satisfies HaremHotelSkillRank

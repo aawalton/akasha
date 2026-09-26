@@ -5,6 +5,7 @@ export const haremHotelGrandmaster = {
   type: "page-type/harem-hotel-skill-rank",
   slug: "harem-hotel-grandmaster",
   title: "Grandmaster",
+  place: 6,
   description: "Adds to the art with an original technique no master taught.",
   width: 250,
 } as const satisfies HaremHotelSkillRank

@@ -6,17 +6,12 @@ export const haremHotelSkillRank = {
   slug: "harem-hotel-skill-rank",
   definition: "a rung on the Harem Hotel's ladder a skill climbs",
   pluralSlug: "ranks",
-  extends: ["page-type/world-mechanic"],
+  extends: ["page-type/world-rank"],
   parts: ["number-property/harem-hotel-skill-rank-width"],
   properties: [
-    { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "number-property/harem-hotel-skill-rank-width", required: false, many: false },
   ],
   decisions: [
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The ranks climb in the order their widths rise.",
-    },
     {
       decisionKind: "decision-kind/departure",
       statement: "The one rank stating no width is the top of the ladder.",
