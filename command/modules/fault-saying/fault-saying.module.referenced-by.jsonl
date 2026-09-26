@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/model/test/model-test.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/seat/refresh-settings/seat-refresh-settings.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/seat/transcript-list/seat-transcript-list.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fault-saying.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.code.ts","typed":false,"deferred":false}
