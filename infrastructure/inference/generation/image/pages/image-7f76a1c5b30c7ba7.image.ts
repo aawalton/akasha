@@ -4,6 +4,7 @@ export const image7f76a1c5b30c7ba7 = {
   id: "019f1836-d755-76f2-8b5c-edf7dc28e35b",
   type: "page-type/image",
   slug: "image-7f76a1c5b30c7ba7",
+  grade: "A+",
   persona: "persona/abby",
   service: "image-gen-abby",
   operation: "generate",
