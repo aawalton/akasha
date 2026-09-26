@@ -134,7 +134,8 @@ export function compressLoaded(this: void): string {
   const shared: Groups = {}
   for (const [texture, indexes] of pairs(textures)) {
     const builtIn = builtInIndexOf(texture)
-    shared[builtIn === undefined ? canonicalTexture(texture) : `^${builtIn}`] = indexes
+    const key = builtIn === undefined ? canonicalTexture(texture) : `^${builtIn}`
+    for (const index of indexes) grouped(shared, key, index)
   }
 
   const out =
@@ -207,7 +208,7 @@ export function decompressString(this: void, exportString: string): undefined {
   eachIndex(texture ?? "", (value, index) => {
     let path = value
     if (string.find(value, "%^")[0] !== undefined) {
-      const [, builtIn] = zo_strsplit("^", value)
+      const [builtIn] = zo_strsplit("^", value)
       path = builtInTextureAt(builtIn ?? "") ?? ""
     }
     const icon = icons[index]
