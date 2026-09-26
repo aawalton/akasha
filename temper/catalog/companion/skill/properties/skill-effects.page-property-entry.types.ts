@@ -1,4 +1,5 @@
 import type { Id } from "akasha/page/properties/id.text-property.types.ts"
+import type { EffectValue } from "akasha/temper/catalog/companion/base-stat/properties/effect-value.number-property.types.ts"
 import type { AugmentDelay } from "akasha/temper/catalog/companion/skill/properties/augment-delay.boolean-property.types.ts"
 import type { CarriedEffect } from "akasha/temper/catalog/companion/skill/properties/carried-effect.one-of-property.types.ts"
 import type { ConditionalMultiplier } from "akasha/temper/catalog/companion/skill/properties/conditional-multiplier.number-property.types.ts"
@@ -30,7 +31,6 @@ import type { Trigger } from "akasha/temper/catalog/companion/skill/properties/t
 import type { CompanionMetric } from "akasha/temper/catalog/companion/trait/properties/companion-metric.relation-property.types.ts"
 import type { Cooldown } from "akasha/temper/catalog/gear/temper-poison-effect/properties/cooldown.number-property.types.ts"
 import type { ArmorWeight } from "akasha/temper/catalog/thing/properties/armor-weight.text-property.types.ts"
-import type { EffectValue } from "akasha/temper/catalog/thing/properties/effect-value.number-property.types.ts"
 import type { ValuePerPiece } from "akasha/temper/catalog/thing/properties/value-per-piece.number-property.types.ts"
 import type { DamageType } from "akasha/temper/player/character/skill-activation/properties/damage-type.text-property.types.ts"
 

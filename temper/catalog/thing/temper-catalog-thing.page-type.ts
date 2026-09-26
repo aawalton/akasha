@@ -11,7 +11,6 @@ export const temperCatalogThing = {
     "boolean-property/is-two-handed",
     "boolean-property/per-weapon",
     "number-property/effect-seconds",
-    "number-property/effect-value",
     "number-property/item-id",
     "number-property/quality-value",
     "number-property/value-per-ability",
