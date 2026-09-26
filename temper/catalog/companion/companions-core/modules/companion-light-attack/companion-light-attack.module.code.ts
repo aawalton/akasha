@@ -2,7 +2,7 @@ import type {
   LightAttackHealBuff,
   RotationState,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
-import { rotationTimings } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+import { combatMechanics } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 
 export function calculateLightAttackDamage(
   weaponPower: number,
@@ -29,10 +29,10 @@ export function activateLightAttack(
   healingMult: number,
   targetCount: number
 ): undefined {
-  const timings = rotationTimings()
-  state.globalCooldownEndsAt = state.currentTime + timings.lightAttackCooldown
+  const mechanics = combatMechanics()
+  state.globalCooldownEndsAt = state.currentTime + mechanics.lightAttackCooldown
 
-  state.ultimateWindowExpiresAt = state.currentTime + timings.ultimateGenerationWindow
+  state.ultimateWindowExpiresAt = state.currentTime + mechanics.ultimateGenerationWindow
 
   state.lightAttackDamageMultSum += getLightAttackDamageMult(state)
   state.lightAttackCount++

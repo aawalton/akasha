@@ -4872,6 +4872,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts","id":"01a0ded3-d592-77b3-9bed-24fef59501e9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/combat-mechanic/temper-companion-combat-mechanic.page-type.ts","id":"01a0dee9-195c-7c3e-b739-2a1dec512911"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-activation-buffs/companion-activation-buffs.module.ts","id":"01a06110-abe1-76b3-a5f0-27936e095c05"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-armor-base-values/companion-armor-base-values.module.ts","id":"01a06152-c2c3-745e-9ada-68a8820c6c2f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.ts","id":"01a06108-0761-7fc9-97df-bfad364def9c"}
@@ -4943,7 +4944,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.ts","id":"01a06110-abe5-7eeb-859b-48fffcfee56d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.ts","id":"01a06152-c2da-7a46-9d70-0b6d3eec75de"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}
-{"propertySlug":"decision-kind","path":"temper/catalog/companion/rotation-timing/temper-companion-rotation-timing.page-type.ts","id":"01a0dee9-195c-7c3e-b739-2a1dec512911"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/carried-effect.one-of-property.ts","id":"01a08ece-d396-7735-b4e0-bbe153126211"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/cast-conditions.page-property-entry.ts","id":"01a06197-3a25-77c0-86b3-5e7cc53ae0c5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/skill/properties/companion-skill-line.relation-property.ts","id":"01a0cad6-787b-7695-9873-1e5fd26d5b56"}

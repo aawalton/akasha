@@ -24,8 +24,8 @@ import type {
   RotationResult,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import {
+  combatMechanics,
   DEFAULT_ROTATION_CONFIG,
-  rotationTimings,
   SIMULATION_TICK_INTERVAL,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
@@ -84,7 +84,7 @@ export function simulateCompanionRotation(
   const buffDurationMod = metricsMap.get("companion-buff-duration") ?? 0
   const ultimateGenMod = metricsMap.get("companion-ultimate-generation") ?? 0
   const ultimateGenPerTick =
-    rotationTimings().ultimateGenerationRate * (1 + ultimateGenMod) * SIMULATION_TICK_INTERVAL
+    combatMechanics().ultimateGenerationRate * (1 + ultimateGenMod) * SIMULATION_TICK_INTERVAL
 
   const healingDone = metricsMap.get("companion-healing-done") ?? 0
   const tooltipHealingMult = 1 + healingDone

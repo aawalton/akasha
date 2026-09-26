@@ -690,11 +690,11 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/combat-mechanic/temper-companion-combat-mechanic.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/passive-metric/temper-companion-passive-metric.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/role/temper-companion-role.page-type.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/rotation-timing/temper-companion-rotation-timing.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/skill-slot/temper-companion-skill-slot.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.ts","typed":true,"deferred":false}

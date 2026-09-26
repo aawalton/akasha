@@ -13,7 +13,7 @@ export const rotationTypes = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A timing the game holds a rotation to is read from its page.",
+      statement: "A number the game holds a companion's combat to is read from its page.",
     },
     {
       decisionKind: "decision-kind/departure",

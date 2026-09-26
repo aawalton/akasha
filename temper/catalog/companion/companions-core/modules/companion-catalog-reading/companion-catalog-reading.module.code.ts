@@ -4,6 +4,7 @@ import { temperCompanionArmorSlot } from "akasha/temper/catalog/companion/armor-
 import { temperCompanionArmorWeight } from "akasha/temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts"
 import { temperCompanionBaseRole } from "akasha/temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts"
 import { temperCompanionBaseStat } from "akasha/temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts"
+import { temperCompanionCombatMechanic } from "akasha/temper/catalog/companion/combat-mechanic/temper-companion-combat-mechanic.page-type.ts"
 import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import {
   type CompanionBaseRoleTemplate,
@@ -58,12 +59,11 @@ import {
   TRAIT_KEYS,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts"
 import type { CompanionWeaponRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
-import type { RotationTimings } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+import type { CombatMechanics } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { temperCompanionEquipmentQuality } from "akasha/temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts"
 import { temperCompanionJewelrySlot } from "akasha/temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.ts"
 import { temperCompanionPassiveMetric } from "akasha/temper/catalog/companion/passive-metric/temper-companion-passive-metric.page-type.ts"
 import { temperCompanionRole } from "akasha/temper/catalog/companion/role/temper-companion-role.page-type.ts"
-import { temperCompanionRotationTiming } from "akasha/temper/catalog/companion/rotation-timing/temper-companion-rotation-timing.page-type.ts"
 import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
 import { temperCompanionSkillLine } from "akasha/temper/catalog/companion/skill-line/temper-companion-skill-line.page-type.ts"
 import { temperCompanionSkillSlot } from "akasha/temper/catalog/companion/skill-slot/temper-companion-skill-slot.page-type.ts"
@@ -89,7 +89,7 @@ const NAMED_KEYS: readonly string[] = ["slug", "key", "title"]
 
 const BASE_STAT_KEYS: readonly string[] = ["slug", "key", "metricId", "effectType", "value"]
 
-const TIMING_KEYS: readonly string[] = ["slug", "key", "timingValue"]
+const MECHANIC_KEYS: readonly string[] = ["slug", "key", "mechanicValue"]
 
 const EFFECT_KEYS: readonly string[] = ["slug", "key", "effectCategory"]
 
@@ -147,20 +147,20 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionSkillSlot.slug, NAMED_KEYS],
   [temperCompanionArmorWeight.slug, ARMOR_WEIGHT_KEYS],
   [temperCompanionBaseStat.slug, BASE_STAT_KEYS],
-  [temperCompanionRotationTiming.slug, TIMING_KEYS],
+  [temperCompanionCombatMechanic.slug, MECHANIC_KEYS],
 ]
 
-function timingsFrom(rows: readonly Row[]): RotationTimings {
-  const timingOf = (key: string): number => {
+function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
+  const mechanicOf = (key: string): number => {
     const row = rows.find((one) => one.key === key)
-    if (row === undefined) throw new Error(`no companion rotation timing page states \`${key}\``)
-    return numberIn(row.timingValue, "timingValue", key)
+    if (row === undefined) throw new Error(`no companion combat mechanic page states \`${key}\``)
+    return numberIn(row.mechanicValue, "mechanicValue", key)
   }
   return {
-    globalCooldown: timingOf("global-cooldown"),
-    lightAttackCooldown: timingOf("light-attack-cooldown"),
-    ultimateGenerationWindow: timingOf("ultimate-generation-window"),
-    ultimateGenerationRate: timingOf("ultimate-generation-rate"),
+    globalCooldown: mechanicOf("global-cooldown"),
+    lightAttackCooldown: mechanicOf("light-attack-cooldown"),
+    ultimateGenerationWindow: mechanicOf("ultimate-generation-window"),
+    ultimateGenerationRate: mechanicOf("ultimate-generation-rate"),
   }
 }
 
@@ -224,7 +224,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     passiveMetrics: namedFrom(rowsOf(temperCompanionPassiveMetric.slug)),
     armorWeights: armorWeightsFrom(rowsOf(temperCompanionArmorWeight.slug)),
     baseStats: baseStatsFrom(rowsOf(temperCompanionBaseStat.slug)),
-    rotationTimings: timingsFrom(rowsOf(temperCompanionRotationTiming.slug)),
+    combatMechanics: mechanicsFrom(rowsOf(temperCompanionCombatMechanic.slug)),
     effectCategories: categoriesFrom(rowsOf),
     slots: {
       armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),

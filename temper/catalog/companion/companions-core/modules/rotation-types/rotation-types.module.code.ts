@@ -45,15 +45,15 @@ export const DEFAULT_ROTATION_CONFIG: RotationConfig = {
 
 export const SIMULATION_TICK_INTERVAL = 0.1
 
-export interface RotationTimings {
+export interface CombatMechanics {
   readonly globalCooldown: number
   readonly lightAttackCooldown: number
   readonly ultimateGenerationWindow: number
   readonly ultimateGenerationRate: number
 }
 
-export function rotationTimings(): RotationTimings {
-  return companionCatalog().rotationTimings
+export function combatMechanics(): CombatMechanics {
+  return companionCatalog().combatMechanics
 }
 
 export interface SkillUsageSummary {
