@@ -5,4 +5,14 @@ export const image74d9ad1c2fcce219 = {
   type: "page-type/image",
   slug: "image-74d9ad1c2fcce219",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "New Mexico personified as a beautiful young woman in her early twenties — long black hair, turquoise-and-silver squash blossom necklace over an earth-toned dress, adobe walls with chile ristras and colorful hot air balloons rising over desert mesas behind her, luminous high-desert morning light, photorealistic photograph, natural skin texture, film grain, three-quarter view portrait",
+  seed: 537595089,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

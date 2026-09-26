@@ -5,4 +5,14 @@ export const image78c4fecafb406e67 = {
   type: "page-type/image",
   slug: "image-78c4fecafb406e67",
   grade: "B-",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "Kansas personified as a beautiful young woman in her early twenties — wheat-blonde hair loose in the wind, simple sky-blue dress, standing in a field of giant sunflowers with golden wheat and a dramatic prairie thunderhead far behind, luminous plains light, photorealistic photograph, natural skin texture, film grain, three-quarter view portrait",
+  seed: 1543290839,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

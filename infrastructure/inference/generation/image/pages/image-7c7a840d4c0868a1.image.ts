@@ -5,4 +5,14 @@ export const image7c7a840d4c0868a1 = {
   type: "page-type/image",
   slug: "image-7c7a840d4c0868a1",
   grade: "A",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "fully nude woman stretched on a sun lounger on a Santorini terrace, bare body glistening with oil, long legs, caldera behind, seductive gaze, beautiful young woman, face fully in frame looking directly at the camera with warm eye contact, photorealistic photograph, natural skin texture, golden summer light, film grain, candid travel editorial photography",
+  seed: 1514191458,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

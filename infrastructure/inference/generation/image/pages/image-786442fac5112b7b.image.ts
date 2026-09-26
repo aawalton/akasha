@@ -5,4 +5,14 @@ export const image786442fac5112b7b = {
   type: "page-type/image",
   slug: "image-786442fac5112b7b",
   grade: "B",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "nude woman resting at the edge of a moonlit pool, water lapping her waist, wet glistening skin, beautiful young woman, photorealistic photograph, natural skin texture, soft flattering light, film grain, tasteful fine-art nude photography",
+  seed: 375123421,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
