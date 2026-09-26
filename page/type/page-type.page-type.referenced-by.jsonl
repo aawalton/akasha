@@ -423,6 +423,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/git-transport/git-hook/git-hook.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/generation/audio/audio.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/generation/image/image.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/generation/image/review/review.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/age-tag/age-tag.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/ethnicity-tag/ethnicity-tag.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/fantasy-tag/fantasy-tag.page-type.ts","typed":true,"deferred":false}

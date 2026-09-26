@@ -78,6 +78,7 @@
 {"propertySlug":"extends-type","path":"infrastructure/auth/sign-in/sign-in.page-type.ts","id":"01a0baea-de7e-759b-9308-31ab255cc263"}
 {"propertySlug":"extends-type","path":"infrastructure/inference/generation/audio/audio.page-type.ts","id":"019f189b-018c-74b8-920b-845fe171aee7"}
 {"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/image.page-type.ts","id":"019f14c3-27e4-7b72-bc0c-6e12bbd8577a"}
+{"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/review/review.page-type.ts","id":"01a0deb3-08b8-769d-92a9-df95450e043a"}
 {"propertySlug":"extends-type","path":"infrastructure/inference/generation/image/tag/image-tag.page-type.ts","id":"01a0de87-c73f-7ecf-9155-3df91513dec0"}
 {"propertySlug":"extends-type","path":"infrastructure/machine/computer/computer.page-type.ts","id":"01a0658c-329a-7d00-b3f3-8abf47bf46cf"}
 {"propertySlug":"extends-type","path":"infrastructure/service/akasha-service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
@@ -231,6 +232,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/auth/sign-in/sign-in.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/inference/generation/audio/audio.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/inference/generation/image/image.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/inference/generation/image/review/review.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/inference/generation/image/tag/image-tag.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/machine/computer/computer.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"infrastructure/service/akasha-service/secret/secret.page-type.types.ts","typed":true,"deferred":false}

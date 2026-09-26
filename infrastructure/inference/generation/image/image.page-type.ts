@@ -25,6 +25,7 @@ export const image = {
     "number-property/upscale-softness",
     "text-property/upscale-resolution",
     "relation-property/input-image",
+    "page-type/review",
     "multi-relation-property/reference-images",
     "text-property/service-versions",
     "page-type/image-tag",
