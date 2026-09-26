@@ -2,6 +2,7 @@
 {"propertySlug":"extends-type","path":"temper/player/character/source/temper-attribute/temper-attribute.page-type.ts","id":"01a0df4d-9bd9-7911-8b81-1b30b84f24e0"}
 {"propertySlug":"extends-type","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts","id":"01a0df46-e492-7e35-a44f-6d004d07a1c9"}
 {"propertySlug":"extends-type","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts","id":"01a0df64-1044-741d-8fad-c665ba1d8093"}
+{"propertySlug":"extends-type","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","id":"01a0df69-bdeb-70c4-a287-ed88cc239a92"}
 {"propertySlug":"extends-type","path":"temper/player/character/source/temper-target/temper-target.page-type.ts","id":"01a0df56-c3dc-7c2d-a644-96687915fe2c"}
 {"propertySlug":"extends-type","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"extends-type","path":"temper/player/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
@@ -16,6 +17,7 @@
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/source/temper-attribute/temper-attribute.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/source/temper-target/temper-target.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/thing/temper-character-thing.page-type.types.ts","typed":true,"deferred":false}

@@ -795,6 +795,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/source/temper-attribute/temper-attribute.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/source/temper-target/temper-target.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/character/temper-account-character/temper-account-character.page-type.ts","typed":true,"deferred":false}

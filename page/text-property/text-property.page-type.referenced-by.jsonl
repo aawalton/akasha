@@ -587,6 +587,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/skill-activation/properties/description-template.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/skill-activation/properties/scaling-kind.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/skill-activation/properties/scaling-stat.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/source/temper-mundus-stone/properties/eso-icon-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/eso-stat-constant-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/eso-stat-value-part.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/metric-effect-type.text-property.ts","typed":true,"deferred":false}
