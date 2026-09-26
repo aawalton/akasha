@@ -9,8 +9,7 @@ export const combatUiHelpers = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A tip over the report's controls is Temper's popover, gone when the pointer leaves.",
+      statement: "A tip over the report's controls is the game's information tooltip.",
     },
   ],
 } as const satisfies Module

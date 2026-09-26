@@ -1,3 +1,5 @@
+import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
+import { addTooltipLine } from "akasha/temper/addon/pages/combat/modules/combat-ui-helpers/combat-ui-helpers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-controls-report/combat-controls-report.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
@@ -120,6 +122,16 @@ function cpTooltipOnMouseEnterLegacy(this: void, control: CPLegacyControl): unde
   }
 
   InitializeTooltip(InformationTooltip, control, TOPLEFT, 0, 5, BOTTOMLEFT)
+
+  const allLegacyRaw: unknown = TemperCombat.CPLegacyStrings
+  const allLegacy = isObjectRecord(allLegacyRaw) ? allLegacyRaw : undefined
+  const legacyRaw = allLegacy?.[GetCVar("language.2")] ?? allLegacy?.["en"]
+  const legacy = isObjectRecord(legacyRaw) ? legacyRaw : undefined
+  const disciplineRaw = control.discipline != null ? legacy?.[control.discipline] : undefined
+  const discipline = isObjectRecord(disciplineRaw) ? disciplineRaw : undefined
+  const line = discipline?.[control.skillId]
+
+  addTooltipLine(control, InformationTooltip, typeof line === "string" ? line : undefined)
   return undefined
 }
 

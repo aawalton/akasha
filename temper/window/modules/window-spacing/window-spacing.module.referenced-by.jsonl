@@ -1,7 +1,6 @@
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/characters/modules/characters-tab-manager/characters-tab-manager.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/characters/modules/companions-equipment-rows/companions-equipment-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/characters/modules/companions-skills-panel/companions-skills-panel.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-report-rows/combat-ui-report-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-search-ui-list-keyboard/sets-search-ui-list-keyboard.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-rune-selection/craft-rune-selection.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"window-spacing.module.code.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-style-rows/craft-style-rows.module.code.ts","typed":false,"deferred":false}

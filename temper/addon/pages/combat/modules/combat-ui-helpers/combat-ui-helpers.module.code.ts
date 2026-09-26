@@ -1,9 +1,5 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import type { UpdatableControl } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
-import {
-  hidePopover,
-  showPopover,
-} from "akasha/temper/window/modules/window-popover/window-popover.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/addon/pages/combat/combat-public-api-declarations/combat-public-api-declarations.type-declaration.d.ts"
@@ -240,34 +236,45 @@ export interface TooltipCarrier extends Control {
 
 const TIP_GAP = -2
 
-function tooltipTextOf(this: void, tooltip: TooltipSpec): string {
-  if (typeof tooltip === "string") return tooltip
-  if (typeof tooltip === "number") return GetString(tooltip)
-  if (typeof tooltip === "function") return tooltip()
-  return ""
-}
-
-function hidesOnExit(this: void, control: TooltipCarrier): undefined {
-  if (control.hidesTip === true) return undefined
-  control.hidesTip = true
-  ZO_PreHookHandler(control, "OnMouseExit", function (this: void): undefined {
-    hidePopover()
+export function addTooltipLine(
+  this: void,
+  control: Control,
+  tooltipControl: TooltipControl,
+  tooltip: TooltipSpec | undefined
+): undefined {
+  let text: string
+  if (typeof tooltip === "string") {
+    if (tooltip === "") {
+      ZO_Options_OnMouseExit(control)
+      return undefined
+    }
+    text = tooltip
+  } else if (typeof tooltip === "number") {
+    text = GetString(tooltip)
+  } else if (typeof tooltip === "function") {
+    text = tooltip()
+  } else {
+    ZO_Options_OnMouseExit(control)
     return undefined
-  })
+  }
+
+  SetTooltipText(tooltipControl, text)
   return undefined
 }
 
 export function onMouseEnter(this: void, control: TooltipCarrier): undefined {
   const tooltipText = control.tooltip
   if (tooltipText == null || tooltipText.length === 0) return undefined
-  const lines: string[] = []
+
+  InitializeTooltip(InformationTooltip, control, BOTTOMLEFT, 0, TIP_GAP, TOPLEFT)
+
   if (typeof tooltipText === "object") {
-    for (const [, line] of ipairs(tooltipText)) lines.push(tooltipTextOf(line))
+    for (const [, line] of ipairs(tooltipText)) {
+      addTooltipLine(control, InformationTooltip, line)
+    }
   } else {
-    lines.push(tooltipText)
+    addTooltipLine(control, InformationTooltip, tooltipText)
   }
-  hidesOnExit(control)
-  showPopover(control, lines, BOTTOMLEFT, 0, TIP_GAP, TOPLEFT)
   return undefined
 }
 
