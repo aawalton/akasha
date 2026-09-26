@@ -1,0 +1,106 @@
+import type { CrutchStringId } from "akasha/temper/addon/pages/combat/modules/combat-alerts-lang-ids/combat-alerts-lang-ids.module.code.ts"
+
+export const CRUTCH_LINE_STRINGS_ZH: Partial<Record<CrutchStringId, string>> = {
+  CRUTCH_DMG_AND_THERE_WE_HAVE_IT_THE_WINNERS_OF_THE_GRAND: "出现了！大决战的胜利者！",
+  CRUTCH_DMG_ARCHWIZARD_TWELVANE: "首席巫师特尔乌万",
+  CRUTCH_DMG_BARGING_INTO_A_LADYS_PRIVATE_CHAMBERS: "你很大胆，竟敢闯入一位女士的私人房间。",
+  CRUTCH_DMG_BEHOLD_MY_BANQUET: "见证我的盛宴！",
+  CRUTCH_DMG_CALUURION_SEE_THAT_OUR_UNINVITED_GUESTS_ARE_MADE:
+    "卡鲁里昂，务必要让我们的不速之客在这很长很长的逗留期间感到舒适。",
+  CRUTCH_DMG_CLOUDREST_HAS_ALREADY_FALLEN_AND_SO_TOO: "云栖城不再，而你们将迎来同样的命运。",
+  CRUTCH_DMG_COME_CATTLE_TIME_FOR_THE_SLAUGHTER: "来吧！杀戮时刻开始！",
+  CRUTCH_DMG_COME_ON_TURLI_LETS_SECURE_THE: "快来，特里，让我们巩固胜果。",
+  CRUTCH_DMG_CONGRATULATIONS_YOUVE_PASSED_THE_FIRST_TRIAL: "恭喜，你通过了第一项试炼。",
+  CRUTCH_DMG_DAGRUND_THE_BULKY: "“大块头”达格伦德^M",
+  CRUTCH_DMG_DARKNESS_SHALL_REIGN_ACROSS_SUMMERSET: "黑暗会统治整个夏暮岛！",
+  CRUTCH_DMG_DID_YOU_TAKE_THE_LIONS_FIRE: "你竟夺走了狮子的火焰？",
+  CRUTCH_DMG_DIVAYTH_FYR: "迪瓦伊斯·弗雷^M",
+  CRUTCH_DMG_DO_YOU_TRULY_THINK_YOU_CAN_STAND_AGAINST: "你真的以为你可以反抗我的阴影吗？",
+  CRUTCH_DMG_DONT_GET_UP_LY_THIS_WILL_JUST_BE_A: "不要起身，林恩。等一会儿就好。",
+  CRUTCH_DMG_DONT_ITS_TRAP_HES_COMING: "别……这是……陷阱。他来了！",
+  CRUTCH_DMG_FEED_MY_PETS_FEED: "吃吧，我的宠物们。吃吧！",
+  CRUTCH_DMG_FEEL_THAT_A_CHILL_BREEZE_WE_MUST_BE_NEARING_AN:
+    "感觉到了吧？一阵凉爽的微风，我们肯定离出口不远了！",
+  CRUTCH_DMG_FLEET_QUEEN_TALERIA: "舰队女王塔勒里亚^F",
+  CRUTCH_DMG_FOR_HER_WE_KEPT_IT_HIDDEN_FROM_OUR_BRETHREN_AND:
+    "为了美瑞蒂亚，我们将它从我们弟兄的面前隐去，又用我们的眼泪埋葬了他们。你也会在此溺毙身亡。",
+  CRUTCH_DMG_FRESH_CHALLENGERS_MORE_LIKE: "更像是新手挑战者。",
+  CRUTCH_DMG_GO_CHILDREN_AND_DRINK_YOUR_FILL: "去吧，孩子们，喝个够！",
+  CRUTCH_DMG_GREAT_XALVAKKA_DRANK_DEEP_FROM_THE:
+    "我们将灵魂供给伟大的夏尔瓦卡吸食，不用多久她就会降临于此！",
+  CRUTCH_DMG_HAD_YOUR_WARM_UP_THEN: "那你热身没有？",
+  CRUTCH_DMG_HAVE_YOU_NOT_HEARD_ME_HAVE_I_NOT_MADE_YOUR_CHOICE:
+    "你没听到我说话吗？我不是把你的选择说清楚了吗？你们会听的，凡人……即使这意味着从你们的头皮上剥下耳朵，在你们破碎的头骨上呼喊纳米拉的意志！",
+  CRUTCH_DMG_I_CAN_WAIT_AFTER_ALL_YOUR_DEATHS_ARE: "我可以等。毕竟，你们都只有死路一条。",
+  CRUTCH_DMG_I_DONT_WANT_TO_FINISH_THEM_OFF_BEFORE: "我不想在你尝试之前，就解决他们，莱。",
+  CRUTCH_DMG_I_DONT_WISH_TO_HOG_ALL_THE_EXCITEMENT:
+    "我不想独占所有的兴奋。特里，为什么你不加入呢？",
+  CRUTCH_DMG_I_WONT_BE_BEATEN_ILL_SMASH_THIS: "我不会被打败！如果有必要，我会砸碎这个护符。",
+  CRUTCH_DMG_IF_YOURE_DONE_SULKING_LY_SOME: "如果你不生气了，莱，希望你能来提供一些帮助。",
+  CRUTCH_DMG_ILL_CALL_FIRST_ROUND: "我来第一轮。",
+  CRUTCH_DMG_ILL_TAKE_THE_FIRST_ROUND_LY: "我要来第一轮，林恩。",
+  CRUTCH_DMG_INTERESTING_THESE_DEVICES_HAVE_ALL_RESET: "有趣。这些设备都自动复位了。我一点都没动。",
+  CRUTCH_DMG_IT_WOULD_SEEM_MY_BAD_LUCK_HAS_RUBBED_OFF: "看起来我的霉运已经影响到你了，莱。",
+  CRUTCH_DMG_KULANDRO: "库兰-德罗",
+  CRUTCH_DMG_LIKE_THEM: "比如他们！",
+  CRUTCH_DMG_MADE_IT_FARTHER_THAN_THE_THRALLS_DO: "比鸫鸟还要远。",
+  CRUTCH_DMG_MIRARRO: "米拉洛^M",
+  CRUTCH_DMG_NOT_YOUR_FINEST_HOUR_LY_LET_ME_SHOW:
+    "这不是最好的状态，莱。让我给你演示一下该怎么做。",
+  CRUTCH_DMG_NOW_THE_REAL_FIGHT_BEGINS: "现在，真正的战斗开始了。",
+  CRUTCH_DMG_ORRYN_THE_BLACK: "乌黑者奥瑞恩^M",
+  CRUTCH_DMG_PLAGUE_CONCOCTER_MORTIEU: "瘟疫调制者莫提乌^M",
+  CRUTCH_DMG_REPROCESSING_YARD_CONTAMINATION_CRITICAL:
+    "再加工场污染严重。暂停拆卸状态。启动质量重新激活。",
+  CRUTCH_DMG_SKORKHIF: "斯科尔基弗",
+  CRUTCH_DMG_SNAGG_GROMASHUL: "斯纳格·格罗马舒尔^M",
+  CRUTCH_DMG_SO_BUSY_SO_BUSY_AND_NOW_I_MUST_ENTERTAIN_THESE:
+    "我忙得要死了，现在还要来讨这些客人的欢心？",
+  CRUTCH_DMG_SO_MANY_OF_THE_THINGS_YOUVE_BROKEN_I_CAN_EASILY:
+    "你弄坏的所有东西我都能轻易替换，但卡鲁里昂……他是独一无二的。他再也回不到从前了。",
+  CRUTCH_DMG_SOON_MY_SHADOWS_SHALL_SPREAD_TO_ALL_OF: "很快，我的阴影就会蔓延到整个夏暮岛上。",
+  CRUTCH_DMG_THARAYYA: "莎莱雅^F",
+  CRUTCH_DMG_THAT_WAS_A_LIMP_PERFORMANCE_TURLI_ILL:
+    "这是一种无力的表现，特里。我会让他们知道什么才是真正的力量。",
+  CRUTCH_DMG_THAT_WAS_JUST_A_TASTE_OF_WHATS_TO_COME: "这仅仅是未来事物的小小预演。",
+  CRUTCH_DMG_THE_BEAST_MASTER: "驯兽大师^F",
+  CRUTCH_DMG_THE_GRYPHON_IS_STRONG_BUT_YOU_MAY_BE_STRONGER: "狮鹫很强大，但你可以更强大。",
+  CRUTCH_DMG_THE_SHADOWS_ANSWER_TO_ME_NOW: "黑暗正在回应我。",
+  CRUTCH_DMG_THE_WAMASUS_POWER_CAN_TURN_AGAINST_THE_CHIMERA: "雷光蜥蜴的力量可以对抗奇美拉！",
+  CRUTCH_DMG_THESE_CHALLENGERS_ARE_SURPRISINGLY_FIERCE_BUT:
+    "这些挑战者真是出乎意料地凶悍啊！不过，这也正是你们今天来到这里的真正原因！",
+  CRUTCH_DMG_TO_RESTORE_THE_NATURAL_ORDER_TO_RECLAIM:
+    "为了重建自然的秩序。为了感化所有的过去和将来。为了纠正凡人的错误。",
+  CRUTCH_DMG_TROLLS_BLOOD_IT_HAS_TO_BE_HERE_SOMEWHERE_KEEP: "巨魔血液一定就在这附近！继续找。",
+  CRUTCH_DMG_TURLASSIL: "图拉塞尔^M",
+  CRUTCH_DMG_WARLOCK_VANTON: "法士威顿^M",
+  CRUTCH_DMG_WAS_VYKOSA_NOT_TOLD_THE_INTRUDERS_WOULD_BE_DEALT:
+    "维科萨没说要怎么处理这些入侵者吗？所有事情都必须得让她亲自动手吗？",
+  CRUTCH_DMG_WATCH_ME_TURLI_THIS_IS_HOW_ITS_DONE: "你看好了，特里。就该这么做！",
+  CRUTCH_DMG_WELL_WELL_NOW_THATS_THE_SECOND_LARGEST: "嗯。这是我见过的第二大结构，目前不活跃。",
+  CRUTCH_DMG_WHAT_IMPOSSIBLE_HOW_DID_YOU_WIN: "什么？不可能？你怎么赢的？",
+  CRUTCH_DMG_WHEN_IM_THE_ONE_WHO_CAUSED_THEIR_SUFFERING: "让他们受苦的人不是我吗？",
+  CRUTCH_DMG_WHO_ARE_YOU_ARE_YOU_ONE_OF_HERS_SHES_HURTING_ME:
+    "你是谁？你是她的人吗？她正在伤害我。",
+  CRUTCH_DMG_WHY_DO_YOU_STILL_HESITATE_VANTON: "威顿，你为什么还在犹豫？",
+  CRUTCH_DMG_XORYN: "佐林",
+  CRUTCH_DMG_YOU_BEAT_THE_HOUSE_OF_THE_LION: "你竟打败了雄狮之屋？",
+  CRUTCH_DMG_YOU_BEAT_THE_WAMASU_PLEASE_DONT_DIE_NOW: "你打败了雷光蜥蜴。你可别死啊。",
+  CRUTCH_DMG_YOU_CHALLENGE_THE_POWER_OF_THE_SEA: "你竟敢挑战海蛞蝓人的力量？这是个致命的错误。",
+  CRUTCH_DMG_YOU_DARE_FACE_ME_BALEFUL_POWER_LURKS:
+    "你胆敢面对我？在你脚下潜伏着黑暗的力量，而我将拥有它！",
+  CRUTCH_DMG_YOU_DARE_FIGHT_AGAINST_DARKNESS_ITSELF: "你竟敢反抗黑暗本身？真愚蠢。",
+  CRUTCH_DMG_YOU_DID_IT_YOU_WOKE_THE_GRYPHON: "你做到了？你唤醒了狮鹫？",
+  CRUTCH_DMG_YOU_DONT_LOOK_TO_BE_FAIRING_ANY_BETTER: "你看起来并不比我好到哪去，特里。",
+  CRUTCH_DMG_YOU_HAVE_THE_WAMASUS_POWER: "你拥有了雷光蜥蜴的力量？",
+  CRUTCH_DMG_YOU_LOOKED_A_LITTLE_TOO_EAGER_TO_KILL:
+    "你好像有点太想杀死我们的猎犬了，我不喜欢这样。",
+  CRUTCH_DMG_YOU_PASS_BARELY: "你通过了。勉强通过。",
+  CRUTCH_DMG_YOU_TAMED_THE_GRYPHON_ITS_VULNERABLE: "你驯服了狮鹫。它很脆弱。",
+  CRUTCH_DMG_YOU_WISH_TO_SEE_MY_WORKS_VERY_WELL_I:
+    "你想看看我的能耐？很好！我会让你陷入更深的黑暗！",
+  CRUTCH_DMG_YOUR_SORCERY_DECEIVES_GOOD_PEOPLE_IT:
+    "你的巫术欺骗了善良的人民。它带来的就只有痛苦，你个害人精！",
+  CRUTCH_DMG_YOURE_STILL_HERE_IF_YOU_MUST_ADMIRE_MY_WORK_AT:
+    "你还在这？如果你非要欣赏我的作品，请允许我把我展示我最好的化石。",
+}

@@ -1,0 +1,130 @@
+import type { CrutchStringId } from "akasha/temper/addon/pages/combat/modules/combat-alerts-lang-ids/combat-alerts-lang-ids.module.code.ts"
+
+export const CRUTCH_LINE_STRINGS_DE: Partial<Record<CrutchStringId, string>> = {
+  CRUTCH_DMG_AND_THERE_WE_HAVE_IT_THE_WINNERS_OF_THE_GRAND:
+    "Da haben wir sie! Die Sieger des großen Gefechts!",
+  CRUTCH_DMG_ARCHWIZARD_TWELVANE: "Erzzaubermeisterin Twelvane^F",
+  CRUTCH_DMG_BARGING_INTO_A_LADYS_PRIVATE_CHAMBERS:
+    "Ihr stürmt einfach in die Privatgemächer einer Dame. Dreist.",
+  CRUTCH_DMG_BEHOLD_MY_BANQUET: "Seht nur: mein Bankett!",
+  CRUTCH_DMG_CALUURION_SEE_THAT_OUR_UNINVITED_GUESTS_ARE_MADE:
+    "Caluurion. Seht zu, dass sich unsere ungebetenen Gäste auf einen langen Aufenthalt einrichten.",
+  CRUTCH_DMG_CLOUDREST_HAS_ALREADY_FALLEN_AND_SO_TOO:
+    "Wolkenruh ist schon gefallen. Und das werdet Ihr auch.",
+  CRUTCH_DMG_COME_CATTLE_TIME_FOR_THE_SLAUGHTER: "Kommt, Vieh! Zeit für die Schlachtung!",
+  CRUTCH_DMG_COME_ON_TURLI_LETS_SECURE_THE: "Kommt schon, Turli. Sichern wir uns den Sieg.",
+  CRUTCH_DMG_CONGRATULATIONS_YOUVE_PASSED_THE_FIRST_TRIAL:
+    "Glückwunsch. Ihr habt die erste Prüfung bestanden.",
+  CRUTCH_DMG_DAGRUND_THE_BULKY: "Dagrund der Füllige^M",
+  CRUTCH_DMG_DARKNESS_SHALL_REIGN_ACROSS_SUMMERSET: "Die Dunkelheit wird auf Sommersend regieren!",
+  CRUTCH_DMG_DID_YOU_TAKE_THE_LIONS_FIRE: "Habt Ihr das Feuer des Löwen?",
+  CRUTCH_DMG_DIVAYTH_FYR: "Divayth Fyr^M",
+  CRUTCH_DMG_DO_YOU_TRULY_THINK_YOU_CAN_STAND_AGAINST:
+    "Meint Ihr wirklich, dass Ihr meinen Schatten standhalten könnt?",
+  CRUTCH_DMG_DONT_GET_UP_LY_THIS_WILL_JUST_BE_A:
+    "Steht nicht auf, Ly. Das wird nur einen Augenblick dauern.",
+  CRUTCH_DMG_DONT_ITS_TRAP_HES_COMING: "Nicht ... Eine ... Falle. Er kommt!",
+  CRUTCH_DMG_FEED_MY_PETS_FEED: "Nährt Euch, meine Lieblinge. Trinkt!",
+  CRUTCH_DMG_FEEL_THAT_A_CHILL_BREEZE_WE_MUST_BE_NEARING_AN:
+    "Spürt Ihr das? Eine kühle Brise. Wir müssen uns einem Ausgang nähern!",
+  CRUTCH_DMG_FLEET_QUEEN_TALERIA: "Flottenkönigin Taleria^F",
+  CRUTCH_DMG_FOR_HER_WE_KEPT_IT_HIDDEN_FROM_OUR_BRETHREN_AND:
+    "Für sie verbargen wir ihn vor unseren Kameraden und begruben sie mit unseren Tränen. Hier werdet auch Ihr ertrinken.",
+  CRUTCH_DMG_FRESH_CHALLENGERS_MORE_LIKE: "Eher neue Herausforderer.",
+  CRUTCH_DMG_GO_CHILDREN_AND_DRINK_YOUR_FILL: "Geht, Kinder! Trinkt Euch voll!",
+  CRUTCH_DMG_GREAT_XALVAKKA_DRANK_DEEP_FROM_THE:
+    "Die große Xalvakka hat sich an den Seelen gelabt, die wir Ihr angedient haben. Bald wird sie kommen!",
+  CRUTCH_DMG_HAD_YOUR_WARM_UP_THEN: "Seid Ihr jetzt aufgewärmt?",
+  CRUTCH_DMG_HAVE_YOU_NOT_HEARD_ME_HAVE_I_NOT_MADE_YOUR_CHOICE:
+    "Habt Ihr mich nicht gehört? Hatte ich mich nicht klar ausgedrückt? Ihr werdet zuhören, Sterbliche ... und wenn ich Euch dafür die Ohren abreißen und Namiiras Willen geradewegs in die aufgeknackten Schädel schreien muss!",
+  CRUTCH_DMG_I_CAN_WAIT_AFTER_ALL_YOUR_DEATHS_ARE:
+    "Ich kann warten. Schließlich ist Euer aller Tod unausweichlich.",
+  CRUTCH_DMG_I_DONT_WANT_TO_FINISH_THEM_OFF_BEFORE:
+    "Ich will sie nicht besiegen, bevor Ihr ihnen nicht auch ein paar verpasst habt, Ly.",
+  CRUTCH_DMG_I_DONT_WISH_TO_HOG_ALL_THE_EXCITEMENT:
+    "Ich will den ganzen Spaß nicht für mich allein. Turli, warum steigt Ihr nicht ein?",
+  CRUTCH_DMG_I_WONT_BE_BEATEN_ILL_SMASH_THIS:
+    "Ich lasse mich nicht besiegen! Ich werde dieses Amulett zerschlagen, wenn es sein muss.",
+  CRUTCH_DMG_IF_YOURE_DONE_SULKING_LY_SOME:
+    "Wenn Ihr mit dem Schmollen fertig seid, Ly, wäre etwas Hilfe willkommen.",
+  CRUTCH_DMG_ILL_CALL_FIRST_ROUND: "Ich nehme die erste Runde.",
+  CRUTCH_DMG_ILL_TAKE_THE_FIRST_ROUND_LY: "Ich übernehme die erste Runde, Ly.",
+  CRUTCH_DMG_INTERESTING_THESE_DEVICES_HAVE_ALL_RESET:
+    "Interessant. Diese Maschinen haben sich alle zurückgesetzt. Das war nicht ich.",
+  CRUTCH_DMG_IT_WOULD_SEEM_MY_BAD_LUCK_HAS_RUBBED_OFF:
+    "Anscheinend hat mein Pech auf Euch abgefärbt, Ly.",
+  CRUTCH_DMG_KULANDRO: "Kulan-dro^M",
+  CRUTCH_DMG_LIKE_THEM: "Wie sie!",
+  CRUTCH_DMG_MADE_IT_FARTHER_THAN_THE_THRALLS_DO: "Das war weiter, als es die Sklaven schaffen.",
+  CRUTCH_DMG_MIRARRO: "Mirarro^M",
+  CRUTCH_DMG_NOT_YOUR_FINEST_HOUR_LY_LET_ME_SHOW:
+    "Nicht Eure beste Leistung, Ly. Lasst es mich vormachen.",
+  CRUTCH_DMG_NOW_THE_REAL_FIGHT_BEGINS: "Jetzt beginnt der richtige Kampf.",
+  CRUTCH_DMG_ORRYN_THE_BLACK: "Orryn der Schwarze^M",
+  CRUTCH_DMG_PLAGUE_CONCOCTER_MORTIEU: "Seuchenbrauer Mortieu^M",
+  CRUTCH_DMG_REPROCESSING_YARD_CONTAMINATION_CRITICAL:
+    "Kritische Kontamination auf dem Wertstoffhof. Ausschlachtung wird ausgesetzt. Massenreaktivierung eingeleitet.",
+  CRUTCH_DMG_SKORKHIF: "Skorkhif^M",
+  CRUTCH_DMG_SNAGG_GROMASHUL: "Snagg gro-Mashul^M",
+  CRUTCH_DMG_SO_BUSY_SO_BUSY_AND_NOW_I_MUST_ENTERTAIN_THESE:
+    "Ich habe noch viel Forschungsarbeit vor mir. Ich freue mich, dass Ihr hier seid, um zu helfen!",
+  CRUTCH_DMG_SO_MANY_OF_THE_THINGS_YOUVE_BROKEN_I_CAN_EASILY:
+    "Vieles von dem, was Ihr zerstört habt, ist leicht zu ersetzen, aber Caluurion ... Ein einzigartiges Exemplar. Er wird nie mehr der Gleiche sein.",
+  CRUTCH_DMG_SOON_MY_SHADOWS_SHALL_SPREAD_TO_ALL_OF:
+    "Bald verbreiten sich meine Schatten über ganz Sommersend!",
+  CRUTCH_DMG_THARAYYA: "Tharayya^F",
+  CRUTCH_DMG_THAT_WAS_A_LIMP_PERFORMANCE_TURLI_ILL:
+    "Das war eine schwache Darbietung, Turli. Ich werde ihnen zeigen, was wahre Macht ist.",
+  CRUTCH_DMG_THAT_WAS_JUST_A_TASTE_OF_WHATS_TO_COME:
+    "Das war nur ein Vorgeschmack auf das, was kommt.",
+  CRUTCH_DMG_THE_BEAST_MASTER: "Bestienmeisterin^fd",
+  CRUTCH_DMG_THE_GRYPHON_IS_STRONG_BUT_YOU_MAY_BE_STRONGER:
+    "Der Greif ist stark, aber Ihr könntet stärker sein.",
+  CRUTCH_DMG_THE_SHADOWS_ANSWER_TO_ME_NOW: "Jetzt gehorchen die Schatten nur mir.",
+  CRUTCH_DMG_THE_WAMASUS_POWER_CAN_TURN_AGAINST_THE_CHIMERA:
+    "Die Macht des Wamasu kann sich gegen die Schimäre wenden!",
+  CRUTCH_DMG_THESE_CHALLENGERS_ARE_SURPRISINGLY_FIERCE_BUT:
+    "Diese Herausforderer sind überraschend stark! Aber hier ist der wahre Grund, warum ihr gekommen seid!",
+  CRUTCH_DMG_TO_RESTORE_THE_NATURAL_ORDER_TO_RECLAIM:
+    "Um die natürliche Ordnung wiederherzustellen. Das, was war und sein wird. Um sterbliche Fehler zu berichtigen.",
+  CRUTCH_DMG_TROLLS_BLOOD_IT_HAS_TO_BE_HERE_SOMEWHERE_KEEP:
+    "Trollblut! Es muss hier irgendwo sein! Haltet die Augen offen.",
+  CRUTCH_DMG_TURLASSIL: "Turlassil^M",
+  CRUTCH_DMG_WARLOCK_VANTON: "Hexenmeister Vanton^M",
+  CRUTCH_DMG_WAS_VYKOSA_NOT_TOLD_THE_INTRUDERS_WOULD_BE_DEALT:
+    "Hatte man Vykosa nicht versprochen, sich um diese Sache zu kümmern? Muss sie denn alles selbst machen?",
+  CRUTCH_DMG_WATCH_ME_TURLI_THIS_IS_HOW_ITS_DONE: "Seht gut her, Turli. So wird's gemacht!",
+  CRUTCH_DMG_WELL_WELL_NOW_THATS_THE_SECOND_LARGEST:
+    "Sieh an, sieh an. Das ist das zweitgrößte Konstrukt, das ich je gesehen habe. Im Moment aber inaktiv.",
+  CRUTCH_DMG_WHAT_IMPOSSIBLE_HOW_DID_YOU_WIN: "Was? Unmöglich? Wie konntet Ihr gewinnen?",
+  CRUTCH_DMG_WHEN_IM_THE_ONE_WHO_CAUSED_THEIR_SUFFERING:
+    "Obwohl ich doch der bin, der sie leiden ließ?",
+  CRUTCH_DMG_WHO_ARE_YOU_ARE_YOU_ONE_OF_HERS_SHES_HURTING_ME:
+    "Wer seid Ihr? Gehört Ihr zu ihr? Sie tut mir weh.",
+  CRUTCH_DMG_WHY_DO_YOU_STILL_HESITATE_VANTON: "Warum zögert Ihr noch, Vanton?",
+  CRUTCH_DMG_XORYN: "Xoryn^M",
+  CRUTCH_DMG_YOU_BEAT_THE_HOUSE_OF_THE_LION: "Ihr habt das Haus des Löwen besiegt?",
+  CRUTCH_DMG_YOU_BEAT_THE_WAMASU_PLEASE_DONT_DIE_NOW:
+    "Ihr habt den Wamasu besiegt. Bitte sterbt nicht.",
+  CRUTCH_DMG_YOU_CHALLENGE_THE_POWER_OF_THE_SEA:
+    "Ihr wagt es, die Macht der Seekrecken herauszufordern? Das wird Euer letzter Fehler sein.",
+  CRUTCH_DMG_YOU_DARE_FACE_ME_BALEFUL_POWER_LURKS:
+    "Ihr wollt Euch mir stellen? Unheilvolle Macht lauert unter Euren Füßen. Und ich werde sie mir aneignen!",
+  CRUTCH_DMG_YOU_DARE_FIGHT_AGAINST_DARKNESS_ITSELF:
+    "Ihr wagt es, gegen die Finsternis selbst zu kämpfen? Töricht.",
+  CRUTCH_DMG_YOU_DID_IT_YOU_WOKE_THE_GRYPHON: "Geschafft? Ihr habt den Greifen erweckt?",
+  CRUTCH_DMG_YOU_DONT_LOOK_TO_BE_FAIRING_ANY_BETTER:
+    "Es sieht nicht so aus, als ob es Euch besser ergeht als mir, Turli.",
+  CRUTCH_DMG_YOU_HAVE_THE_WAMASUS_POWER: "Ihr habt die Macht des Wamasu?",
+  CRUTCH_DMG_YOU_LOOKED_A_LITTLE_TOO_EAGER_TO_KILL:
+    "Für meinen Geschmack wirktet Ihr ein bisschen zu versessen darauf, unsere Hunde zu töten.",
+  CRUTCH_DMG_YOU_PASS_BARELY: "Das reicht. Gerade so.",
+  CRUTCH_DMG_YOU_TAMED_THE_GRYPHON_ITS_VULNERABLE:
+    "Ihr habt den Greifen gezähmt. Er ist verwundbar.",
+  CRUTCH_DMG_YOU_WISH_TO_SEE_MY_WORKS_VERY_WELL_I:
+    "Ihr wollt meine Macht sehen? Wohlan denn! Ich stürze Euch in die finsterste Finsternis!",
+  CRUTCH_DMG_YOUR_SORCERY_DECEIVES_GOOD_PEOPLE_IT:
+    "Eure Zauberei täuscht gute Leute. Sie bringt nichts als Schmerz, Untäter!",
+  CRUTCH_DMG_YOURE_STILL_HERE_IF_YOU_MUST_ADMIRE_MY_WORK_AT:
+    "Ihr seid noch hier? Wenn Ihr mein Werk bewundern müsst, lasst mich wenigstens mein bestes Fossil vorschicken.",
+}

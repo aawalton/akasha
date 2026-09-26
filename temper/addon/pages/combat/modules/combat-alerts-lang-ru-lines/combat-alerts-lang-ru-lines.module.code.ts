@@ -1,0 +1,123 @@
+import type { CrutchStringId } from "akasha/temper/addon/pages/combat/modules/combat-alerts-lang-ids/combat-alerts-lang-ids.module.code.ts"
+
+export const CRUTCH_LINE_STRINGS_RU: Partial<Record<CrutchStringId, string>> = {
+  CRUTCH_DMG_AND_THERE_WE_HAVE_IT_THE_WINNERS_OF_THE_GRAND:
+    "А вот и они! Победители Великой потасовки!",
+  CRUTCH_DMG_ARCHWIZARD_TWELVANE: "Архимаг Твелвейн^F",
+  CRUTCH_DMG_BARGING_INTO_A_LADYS_PRIVATE_CHAMBERS:
+    "Вламываться в личные покои дамы? Какая наглость!",
+  CRUTCH_DMG_BEHOLD_MY_BANQUET: "Добро пожаловать на мой банкет!",
+  CRUTCH_DMG_CALUURION_SEE_THAT_OUR_UNINVITED_GUESTS_ARE_MADE:
+    "Калурион! Проследи, чтобы наших незваных гостей удобно разместили и приготовили к долгому пребыванию здесь.",
+  CRUTCH_DMG_CLOUDREST_HAS_ALREADY_FALLEN_AND_SO_TOO: "Клаудрест уже пал. Падете и вы.",
+  CRUTCH_DMG_COME_CATTLE_TIME_FOR_THE_SLAUGHTER: "Скот сам пожаловал на убой!",
+  CRUTCH_DMG_COME_ON_TURLI_LETS_SECURE_THE: "Давай, Турли, пора с ними заканчивать.",
+  CRUTCH_DMG_CONGRATULATIONS_YOUVE_PASSED_THE_FIRST_TRIAL:
+    "Мои поздравления. Вы прошли первое испытание.",
+  CRUTCH_DMG_DAGRUND_THE_BULKY: "Дагрунд Грузный^M",
+  CRUTCH_DMG_DARKNESS_SHALL_REIGN_ACROSS_SUMMERSET: "Тьма накроет Саммерсет!",
+  CRUTCH_DMG_DID_YOU_TAKE_THE_LIONS_FIRE: "Вы сумели пережить львиный огонь?",
+  CRUTCH_DMG_DIVAYTH_FYR: "Дивайт Фир^Mln{1,2}",
+  CRUTCH_DMG_DO_YOU_TRULY_THINK_YOU_CAN_STAND_AGAINST:
+    "Вы и правда думаете, что сможете выстоять против моих теней?",
+  CRUTCH_DMG_DONT_GET_UP_LY_THIS_WILL_JUST_BE_A: "Не вставай, Ли. Скоро все закончится.",
+  CRUTCH_DMG_DONT_ITS_TRAP_HES_COMING: "Не надо… Это ловушка. Он близко!",
+  CRUTCH_DMG_FEED_MY_PETS_FEED: "Этот пир для вас, мои питомцы!",
+  CRUTCH_DMG_FEEL_THAT_A_CHILL_BREEZE_WE_MUST_BE_NEARING_AN:
+    "Чувствуешь? Тянет прохладой. Должно быть, выход совсем рядом!",
+  CRUTCH_DMG_FLEET_QUEEN_TALERIA: "Повелительница флота Талерия^F",
+  CRUTCH_DMG_FOR_HER_WE_KEPT_IT_HIDDEN_FROM_OUR_BRETHREN_AND:
+    "Ради нее мы прятали его от наших братьев и похоронили их в океане наших слез. Теперь в них утонешь и ты.",
+  CRUTCH_DMG_FRESH_CHALLENGERS_MORE_LIKE: "Скорее, новые претенденты.",
+  CRUTCH_DMG_GO_CHILDREN_AND_DRINK_YOUR_FILL: "Вперед, дети мои! Испейте все до последней капли!",
+  CRUTCH_DMG_GREAT_XALVAKKA_DRANK_DEEP_FROM_THE:
+    "Великая Залвакка досыта наелась душ, которыми мы ее угостили. Скоро она будет здесь!",
+  CRUTCH_DMG_HAD_YOUR_WARM_UP_THEN: "У вас было время размяться?",
+  CRUTCH_DMG_HAVE_YOU_NOT_HEARD_ME_HAVE_I_NOT_MADE_YOUR_CHOICE:
+    "Вы не слышали меня? Разве я не предложил вам простой выбор? Вы услышите меня, смертные… Даже если для этого мне придется отрезать вам уши и прокричать волю Намирры прямо в ваши пустые черепа!",
+  CRUTCH_DMG_I_CAN_WAIT_AFTER_ALL_YOUR_DEATHS_ARE: "Я могу подождать. Вы ведь все равно умрете.",
+  CRUTCH_DMG_I_DONT_WANT_TO_FINISH_THEM_OFF_BEFORE:
+    "Ли, я бы их уже прикончил, но ты же тогда совсем не поучаствуешь в бою.",
+  CRUTCH_DMG_I_DONT_WISH_TO_HOG_ALL_THE_EXCITEMENT:
+    "Обидно будет, если все удовольствие достанется мне. Турли, может, присоединишься?",
+  CRUTCH_DMG_I_WONT_BE_BEATEN_ILL_SMASH_THIS:
+    "Я не проиграю! Если придется, я разобью этот амулет.",
+  CRUTCH_DMG_IF_YOURE_DONE_SULKING_LY_SOME: "Ли, если тебе надоело дуться — можешь помочь.",
+  CRUTCH_DMG_ILL_CALL_FIRST_ROUND: "Первый раунд — мой.",
+  CRUTCH_DMG_ILL_TAKE_THE_FIRST_ROUND_LY: "Ли, первый раунд мой.",
+  CRUTCH_DMG_INTERESTING_THESE_DEVICES_HAVE_ALL_RESET:
+    "Как интересно. Все эти устройства перезагрузились сами собой. Это не я.",
+  CRUTCH_DMG_IT_WOULD_SEEM_MY_BAD_LUCK_HAS_RUBBED_OFF:
+    "Кажется, мое невезение заразило и тебя, Ли.",
+  CRUTCH_DMG_KULANDRO: "Кулан-дро^m",
+  CRUTCH_DMG_LIKE_THEM: "Вот они, например!",
+  CRUTCH_DMG_MADE_IT_FARTHER_THAN_THE_THRALLS_DO: "Вам удалось пройти дальше, чем рабам.",
+  CRUTCH_DMG_MIRARRO: "Мирарро^M",
+  CRUTCH_DMG_NOT_YOUR_FINEST_HOUR_LY_LET_ME_SHOW: "Не лучший твой бой, Ли. Посмотри, как надо.",
+  CRUTCH_DMG_NOW_THE_REAL_FIGHT_BEGINS: "Вот теперь начнется настоящий бой.",
+  CRUTCH_DMG_ORRYN_THE_BLACK: "Оррин Черный^Mln{1}a{2}",
+  CRUTCH_DMG_PLAGUE_CONCOCTER_MORTIEU: "Создатель чумы Мортье^Mln{1}x{2,3}",
+  CRUTCH_DMG_REPROCESSING_YARD_CONTAMINATION_CRITICAL:
+    "Критический уровень загрязнения на станции переработки. Процесс демонтажа приостановлен. Инициирована полная расконсервация.",
+  CRUTCH_DMG_SKORKHIF: "Скоркиф^Ml",
+  CRUTCH_DMG_SNAGG_GROMASHUL: "Снагг гро-Машул^M",
+  CRUTCH_DMG_SO_BUSY_SO_BUSY_AND_NOW_I_MUST_ENTERTAIN_THESE:
+    "У меня так много дел, а теперь я должен еще и развлекать гостей?",
+  CRUTCH_DMG_SO_MANY_OF_THE_THINGS_YOUVE_BROKEN_I_CAN_EASILY:
+    "Многое из того, что вы разрушили, я с легкостью могу заменить, но Калурион… он был уникальным экземпляром. Он уже никогда не станет прежним.",
+  CRUTCH_DMG_SOON_MY_SHADOWS_SHALL_SPREAD_TO_ALL_OF:
+    "Скоро мои тени распространятся по всему Саммерсету!",
+  CRUTCH_DMG_THARAYYA: "Тарайя^F",
+  CRUTCH_DMG_THAT_WAS_A_LIMP_PERFORMANCE_TURLI_ILL:
+    "Как-то слабовато, Турли. Давай я покажу им настоящую мощь.",
+  CRUTCH_DMG_THAT_WAS_JUST_A_TASTE_OF_WHATS_TO_COME: "Это лишь малая часть того, что тебя ждет.",
+  CRUTCH_DMG_THE_BEAST_MASTER: "Дрессировщица^F",
+  CRUTCH_DMG_THE_GRYPHON_IS_STRONG_BUT_YOU_MAY_BE_STRONGER:
+    "Грифон силен, но ты, пожалуй, еще сильнее.",
+  CRUTCH_DMG_THE_SHADOWS_ANSWER_TO_ME_NOW: "Эти тени теперь подчиняются мне.",
+  CRUTCH_DMG_THE_WAMASUS_POWER_CAN_TURN_AGAINST_THE_CHIMERA:
+    "Сила вамасу может обратиться против химеры!",
+  CRUTCH_DMG_THESE_CHALLENGERS_ARE_SURPRISINGLY_FIERCE_BUT:
+    "Эти претенденты невероятно грозны! Но вот истинная причина того, почему вы пришли сегодня!",
+  CRUTCH_DMG_TO_RESTORE_THE_NATURAL_ORDER_TO_RECLAIM:
+    "Чтобы восстановить естественный порядок вещей. Вернуть все, что было и будет. Исправить ошибку смертных.",
+  CRUTCH_DMG_TROLLS_BLOOD_IT_HAS_TO_BE_HERE_SOMEWHERE_KEEP:
+    "Троллья кровь, он должен быть где-то здесь! Смотрите в оба.",
+  CRUTCH_DMG_TURLASSIL: "Турлассил^M",
+  CRUTCH_DMG_WARLOCK_VANTON: "Чародей Вантон^M",
+  CRUTCH_DMG_WAS_VYKOSA_NOT_TOLD_THE_INTRUDERS_WOULD_BE_DEALT:
+    "Разве Вайкосе не обещали разобраться с незваными гостями? Она что, должна всем заниматься сама?",
+  CRUTCH_DMG_WATCH_ME_TURLI_THIS_IS_HOW_ITS_DONE: "Турли, смотри и учись!",
+  CRUTCH_DMG_WELL_WELL_NOW_THATS_THE_SECOND_LARGEST:
+    "Так-так. Это вторая по величине конструкция из тех, что я видел. И на данный момент она не работает.",
+  CRUTCH_DMG_WHAT_IMPOSSIBLE_HOW_DID_YOU_WIN: "Что? Это невозможно! Как вы победили?",
+  CRUTCH_DMG_WHEN_IM_THE_ONE_WHO_CAUSED_THEIR_SUFFERING: "Но ведь это я заставил их страдать.",
+  CRUTCH_DMG_WHO_ARE_YOU_ARE_YOU_ONE_OF_HERS_SHES_HURTING_ME:
+    "Кто ты? Ты служишь ей? Она делает мне больно.",
+  CRUTCH_DMG_WHY_DO_YOU_STILL_HESITATE_VANTON: "Что же ты медлишь, Вантон?",
+  CRUTCH_DMG_XORYN: "Зорин^M",
+  CRUTCH_DMG_YOU_BEAT_THE_HOUSE_OF_THE_LION: "Вы одолели льва?",
+  CRUTCH_DMG_YOU_BEAT_THE_WAMASU_PLEASE_DONT_DIE_NOW:
+    "Ты <<player{победил/победила}>> вамасу. Пожалуйста, только не погибни.",
+  CRUTCH_DMG_YOU_CHALLENGE_THE_POWER_OF_THE_SEA:
+    "Хотите помериться силами с морским слоадом? Это станет вашей последней ошибкой.",
+  CRUTCH_DMG_YOU_DARE_FACE_ME_BALEFUL_POWER_LURKS:
+    "Решили противостоять мне? Прямо у вас под ногами скрывается губительная сила, и вся она будет моей!",
+  CRUTCH_DMG_YOU_DARE_FIGHT_AGAINST_DARKNESS_ITSELF: "Вы смеете сражаться с самой тьмой? Глупцы.",
+  CRUTCH_DMG_YOU_DID_IT_YOU_WOKE_THE_GRYPHON:
+    "У тебя получилось? Ты <<player{разбудил/разбудила}>> грифона?",
+  CRUTCH_DMG_YOU_DONT_LOOK_TO_BE_FAIRING_ANY_BETTER:
+    "Кажется, у тебя получается не лучше моего, Турли.",
+  CRUTCH_DMG_YOU_HAVE_THE_WAMASUS_POWER: "Ты <<player{обрел/обрела}>> силу вамасу?",
+  CRUTCH_DMG_YOU_LOOKED_A_LITTLE_TOO_EAGER_TO_KILL:
+    "Мне не нравится, что ты так хочешь убить наших псов.",
+  CRUTCH_DMG_YOU_PASS_BARELY: "Ты проходишь в следующий раунд. С огромным трудом.",
+  CRUTCH_DMG_YOU_TAMED_THE_GRYPHON_ITS_VULNERABLE:
+    "Ты <<player{сумел/сумела}>> укротить грифона. Он уязвим.",
+  CRUTCH_DMG_YOU_WISH_TO_SEE_MY_WORKS_VERY_WELL_I:
+    "Желаете увидеть результат моих трудов? Что ж, так и быть! Вы познаете бездну тьмы!",
+  CRUTCH_DMG_YOUR_SORCERY_DECEIVES_GOOD_PEOPLE_IT:
+    "Твои чары обманывают честных людей. Они приносят только боль, злоумышленница!",
+  CRUTCH_DMG_YOURE_STILL_HERE_IF_YOU_MUST_ADMIRE_MY_WORK_AT:
+    "Вы еще здесь? Если вам так уж надо восхититься моей работой, хотя бы позвольте мне предложить вам мою лучшую окаменелость.",
+}
