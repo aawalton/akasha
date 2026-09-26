@@ -16,5 +16,17 @@ export const keyboardRegistry = {
       decisionKind: "decision-kind/departure",
       statement: "The last registration of an id describes it, and the first sets where it sits.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A digit chord is met by that digit's key on the top row or on the number pad.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key on the number pad is read by where it sits, whatever Num Lock says.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chord `Space` is met by the space bar.",
+    },
   ],
 } as const satisfies Module

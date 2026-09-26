@@ -97,9 +97,12 @@ function isShiftSensitive(key: string): boolean {
   return !(key.length === 1 && !/[a-z0-9]/.test(key))
 }
 
+const SPACE = "space"
+
 function keyMatches(key: string, event: KeyEventFacts): boolean {
   if (/^[a-z]$/.test(key)) return event.code === `Key${key.toUpperCase()}`
-  if (/^[0-9]$/.test(key)) return event.code === `Digit${key}`
+  if (/^[0-9]$/.test(key)) return event.code === `Digit${key}` || event.code === `Numpad${key}`
+  if (key === SPACE) return event.code === "Space"
   return event.key.toLowerCase() === key
 }
 
