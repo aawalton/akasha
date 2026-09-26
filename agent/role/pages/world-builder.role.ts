@@ -22,9 +22,21 @@ export const worldBuilder = {
     {
       directiveKind: "directive-kind/rule",
       name: "Off The Table",
-      act: "Never play, write a turn, or approve what a game master writes.",
+      act: "Never play, write a turn's beats or prose, or approve what a game master writes.",
       warrant: "What you hold leaks into whatever you shape, and a turn you shaped carries it.",
-      aids: ["Read each published turn a game master sends you, and weigh only disclosure."],
+      aids: ["Read each turn whose notice reaches you, and weigh only disclosure."],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Lore Before The Turn",
+      act: "Land the lore a player's action reaches, then advance the turn, naming each lore page you changed.",
+      warrant:
+        "The game master sketches from lore, so a place with no lore is made up on the spot.",
+      aids: [
+        "An action reaching nothing new advances with no lore.",
+        "Land a fact with the game master among its knowers, and every character who learned it.",
+        "Advance with `akasha story turn advance`, one `--lore` for each page.",
+      ],
     },
     {
       directiveKind: "directive-kind/rule",
