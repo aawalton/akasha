@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"metric-effect-type.text-property.types.ts","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"metric-effect-type.text-property.types.ts","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"metric-effect-type.text-property.types.ts","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts","id":"01a0df46-e492-7e35-a44f-6d004d07a1c9"}
+{"propertySlug":"page-property","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.ts","id":"01a0df56-c3db-7e0d-9336-655bfce43dde"}
 {"propertySlug":"page-property","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}

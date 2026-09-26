@@ -224,6 +224,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/place-kinds.number-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/build/build-hash/properties/hash-indexed.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/companion-build/properties/base-roles.select-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-account-character/properties/character-roles.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-companion-progress/properties/companion-roles.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/player/character/temper-mine/properties/set-bonuses.record-property.types.ts","typed":true,"deferred":false}

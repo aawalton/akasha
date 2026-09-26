@@ -23,6 +23,7 @@ export const temperCharacterSource = {
     "module/vampire-stages",
     "page-type/temper-attribute",
     "page-type/temper-base-stat",
+    "page-type/temper-target",
   ],
   decisions: [
     {

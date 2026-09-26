@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/catalog/thing/properties/effects.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/player/character/source/temper-attribute/temper-attribute.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect-value.number-property.types.ts","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts","id":"01a0ded3-d592-77b3-9bed-24fef59501e9"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-buff.record-property.ts","id":"01a06196-037a-7895-82cf-ee84fd21570f"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/properties/effect-debuff.record-property.ts","id":"01a06196-037a-7e14-80f7-0ae4cc1593d4"}
@@ -16,4 +17,5 @@
 {"propertySlug":"page-property","path":"temper/catalog/thing/properties/effects.page-property-entry.ts","id":"01a05fb0-3ceb-742c-998f-6122c9954a30"}
 {"propertySlug":"page-property","path":"temper/player/character/source/temper-attribute/temper-attribute.page-type.ts","id":"01a0df4d-9bd9-7911-8b81-1b30b84f24e0"}
 {"propertySlug":"page-property","path":"temper/player/character/source/temper-base-stat/temper-base-stat.page-type.ts","id":"01a0df46-e492-7e35-a44f-6d004d07a1c9"}
+{"propertySlug":"page-property","path":"temper/player/character/source/temper-target/properties/source-effects.record-property.ts","id":"01a0df56-c3db-7e0d-9336-655bfce43dde"}
 {"propertySlug":"parts","path":"temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts","id":"01a0ded3-d592-77b3-9bed-24fef59501e9"}
