@@ -7,7 +7,7 @@ export const level6 = {
   definition: "Full explicit intimacy where the scene calls for it — inside the guard, unveiled.",
   level: 6,
   pointsToHere: 2428,
-  pointsToNext: 0,
+  pointsToNext: 4860,
   stage: "Intimate",
   wardrobe: "Undress — nudity and explicit presentation where the scene calls for it.",
   pose: "Fully explicit intimacy permitted; she holds the frame, oriented to the viewer; nothing clinical.",
