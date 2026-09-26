@@ -71,6 +71,12 @@ function LadderRow({
   )
 }
 
+const SHOWN_NUMBER: Intl.NumberFormatOptions = { maximumFractionDigits: 2 }
+
+function shownOf(value: number | string): string {
+  return typeof value === "number" ? value.toLocaleString(undefined, SHOWN_NUMBER) : value
+}
+
 function ScalarRows({ record }: { record: Readonly<Record<string, number | string>> }) {
   const entries = Object.entries(record)
   return (
@@ -81,7 +87,7 @@ function ScalarRows({ record }: { record: Readonly<Record<string, number | strin
           className="flex items-baseline justify-between gap-2 border-surface-3 border-b border-dotted py-[2px]"
         >
           <span className="min-w-0 break-words text-tertiary">{key}</span>
-          <b className="flex-none font-bold text-accent">{value}</b>
+          <b className="flex-none font-bold text-accent">{shownOf(value)}</b>
         </div>
       ))}
     </div>
