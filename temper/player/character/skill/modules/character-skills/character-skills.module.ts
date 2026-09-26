@@ -9,9 +9,7 @@ export const characterSkills = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Scribed skills follow the catalog skills rather than sorting among the catalog skills.",
+      statement: "The skills are the held skill catalogue's, read whenever they are asked for.",
     },
   ],
-  hashIndexed: ["SKILLS_DATA"],
 } as const satisfies Module

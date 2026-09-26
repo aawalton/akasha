@@ -105,7 +105,9 @@ export function refusalsOver(
 function refusalsIn(change: Change, shadow: Shadow): readonly Judged[] {
   const marks = [...markedIn(shadow.index), ...markedBefore(change)]
   const rowsOf = (kind: string): readonly string[] =>
-    shadow.index.everyOfType(kind).map((one) => one.path)
+    [...shadow.index.kindsUnder(kind)].flatMap((under) =>
+      shadow.index.everyOfType(under).map((one) => one.path)
+    )
   return refusalsOver(change, marks, rowsOf)
 }
 

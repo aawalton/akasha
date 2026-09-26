@@ -5,8 +5,7 @@ import { scribedSkills } from "akasha/temper/player/character/skill/modules/scri
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 
 test("each scribed skill's grimoire and focus script name its place in the scribed skills table", () => {
-  for (const [index, skillId] of scribedSkills.ids.entries()) {
-    const skill = scribedSkills.data[skillId]
+  for (const [index, skill] of scribedSkills.list.entries()) {
     const grimoireName = grimoires.data[skill.grimoireId].name
     const focusScriptName = focusScripts.data[skill.focusScriptId].name
     expect(getScribedSkillIndex(grimoireName, focusScriptName)).toBe(index)

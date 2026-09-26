@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"character-skill-template.module.code.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-skill-template.module.code.ts","path":"temper/player/character/skill/modules/character-skills-00/character-skills-00.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-skill-template.module.code.ts","path":"temper/player/character/skill/modules/character-skills-01/character-skills-01.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-skill-template.module.code.ts","path":"temper/player/character/skill/modules/character-skills-02/character-skills-02.module.code.ts","typed":true,"deferred":false}
@@ -85,5 +86,6 @@
 {"propertySlug":"import","fileName":"character-skill-template.module.code.ts","path":"temper/player/character/skill/modules/character-skills-84/character-skills-84.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-skill-template.module.code.ts","path":"temper/player/character/skill/modules/character-skills-from-pages/character-skills-from-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-skill-template.module.code.ts","path":"temper/player/character/skill/modules/character-skills/character-skills.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-skill-template.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-skill-template.module.code.ts","path":"temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/skill/temper-character-skill.domain.ts","id":"01a0617a-2c72-7654-ad18-45a07d7e27ca"}

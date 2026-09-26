@@ -1,22 +1,15 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { FocusScriptId } from "akasha/temper/catalog/skill-kind/modules/scribing-focus-scripts/scribing-focus-scripts.module.code.ts"
+import {
+  type SkillTable,
+  skillCatalog,
+  tableView,
+} from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import type { ScribedSkillTemplate } from "akasha/temper/player/character/skill/modules/scribed-skill-template/scribed-skill-template.module.code.ts"
-import { SCRIBED_SKILLS_00 } from "akasha/temper/player/character/skill/modules/scribed-skills-00/scribed-skills-00.module.code.ts"
-import { SCRIBED_SKILLS_01 } from "akasha/temper/player/character/skill/modules/scribed-skills-01/scribed-skills-01.module.code.ts"
-import { SCRIBED_SKILLS_02 } from "akasha/temper/player/character/skill/modules/scribed-skills-02/scribed-skills-02.module.code.ts"
-import { SCRIBED_SKILLS_03 } from "akasha/temper/player/character/skill/modules/scribed-skills-03/scribed-skills-03.module.code.ts"
-import { SCRIBED_SKILLS_04 } from "akasha/temper/player/character/skill/modules/scribed-skills-04/scribed-skills-04.module.code.ts"
 import type { GrimoireId } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 
-const SCRIBED_SKILLS_DATA = {
-  ...SCRIBED_SKILLS_00,
-  ...SCRIBED_SKILLS_01,
-  ...SCRIBED_SKILLS_02,
-  ...SCRIBED_SKILLS_03,
-  ...SCRIBED_SKILLS_04,
-} satisfies Record<string, ScribedSkillTemplate>
-
-export const scribedSkills = createDataFile<ScribedSkillTemplate>()(SCRIBED_SKILLS_DATA)
+export const scribedSkills: SkillTable<ScribedSkillTemplate> = tableView(
+  () => skillCatalog().scribedSkills
+)
 
 export type ScribedSkillId = (typeof scribedSkills.ids)[number]
 

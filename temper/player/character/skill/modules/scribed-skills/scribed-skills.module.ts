@@ -9,16 +9,11 @@ export const scribedSkills = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the skill pages rather than by hand.",
+      statement: "The scribed skills are the held skill catalogue's, read whenever asked for.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "An entry's place in this table is the index a build hash has.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "This table is divided across runs.",
+      statement: "A scribed skill's place among the scribed skills is the index a build hash has.",
     },
   ],
-  hashIndexed: ["SCRIBED_SKILLS_DATA"],
 } as const satisfies Module

@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-skill-type.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-type.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-type.page-type.types.ts","path":"temper/catalog/skill/type/pages/active.temper-skill-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-type.page-type.types.ts","path":"temper/catalog/skill/type/pages/passive.temper-skill-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-type.page-type.types.ts","path":"temper/catalog/skill/type/pages/ultimate.temper-skill-type.ts","typed":true,"deferred":false}

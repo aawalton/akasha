@@ -1262,6 +1262,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/character-skills-from-pages/character-skills-from-pages.module.ts","id":"01a06187-b3a0-7150-bb13-34820d779cb1"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/find-skill-by-id/find-skill-by-id.module.ts","id":"01a06187-b3a3-7d2a-b33f-3befa93b8a07"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/grimoire-template/grimoire-template.module.ts","id":"01a0617a-2c71-79f4-a4d5-74abd5b08c47"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.ts","id":"01a0de72-b25f-7e1a-a89a-ce881f70b14a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/passive-queries/passive-queries.module.ts","id":"01a06187-b3a4-7d21-b96e-890c450998e3"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/query-shapes/query-shapes.module.ts","id":"01a06187-b3a3-7eb8-8802-5c8042236869"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skill-source/scribed-skill-source.module.ts","id":"01a06187-b3a2-76d2-b668-400fec70d2e3"}

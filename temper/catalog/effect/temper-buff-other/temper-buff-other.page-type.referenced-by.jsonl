@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-buff-other.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.ts","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/empower/empower.temper-buff-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buff-other.page-type.types.ts","path":"temper/catalog/effect/temper-buff-other/pages/vanish/vanish.temper-buff-other.ts","typed":true,"deferred":false}
