@@ -10,4 +10,5 @@ export const dagger = {
   isTwoHanded: false,
   displayOrder: 4,
   hashPlace: 4,
+  equipmentIconName: "dagger",
 } as const satisfies TemperCompanionWeaponType

@@ -7,4 +7,5 @@ export const head = {
   key: "head",
   title: "Head",
   equipType: 1,
+  equipmentIconName: "helm",
 } as const satisfies TemperCompanionArmorSlot

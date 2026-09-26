@@ -10,4 +10,5 @@ export const battleaxe = {
   isTwoHanded: true,
   displayOrder: 6,
   hashPlace: 6,
+  equipmentIconName: "battleaxe",
 } as const satisfies TemperCompanionWeaponType

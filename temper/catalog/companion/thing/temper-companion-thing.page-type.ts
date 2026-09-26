@@ -6,8 +6,11 @@ export const temperCompanionThing = {
   slug: "temper-companion-thing",
   definition: "anything with a page on the companion side of the catalog",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["number-property/equip-type"],
-  properties: [{ pageProperty: "number-property/equip-type", required: false, many: false }],
+  parts: ["number-property/equip-type", "text-property/equipment-icon-name"],
+  properties: [
+    { pageProperty: "number-property/equip-type", required: false, many: false },
+    { pageProperty: "text-property/equipment-icon-name", required: false, many: false },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

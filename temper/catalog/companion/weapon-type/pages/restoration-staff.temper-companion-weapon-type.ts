@@ -10,4 +10,5 @@ export const restorationStaff = {
   isTwoHanded: true,
   displayOrder: 12,
   hashPlace: 12,
+  equipmentIconName: "restostaff",
 } as const satisfies TemperCompanionWeaponType

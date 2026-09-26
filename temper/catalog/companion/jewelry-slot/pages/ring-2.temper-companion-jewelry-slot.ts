@@ -8,4 +8,5 @@ export const ring2 = {
   title: "Ring 2",
   equipType: 12,
   slotCategory: "ring",
+  equipmentIconName: "ring",
 } as const satisfies TemperCompanionJewelrySlot

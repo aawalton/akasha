@@ -10,4 +10,5 @@ export const iceStaff = {
   isTwoHanded: true,
   displayOrder: 10,
   hashPlace: 10,
+  equipmentIconName: "froststaff",
 } as const satisfies TemperCompanionWeaponType

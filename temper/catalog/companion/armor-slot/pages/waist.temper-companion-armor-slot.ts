@@ -7,4 +7,5 @@ export const waist = {
   key: "waist",
   title: "Waist",
   equipType: 8,
+  equipmentIconName: "belt",
 } as const satisfies TemperCompanionArmorSlot

@@ -10,4 +10,5 @@ export const shield = {
   isTwoHanded: false,
   displayOrder: 13,
   hashPlace: 13,
+  equipmentIconName: "shield",
 } as const satisfies TemperCompanionWeaponType
