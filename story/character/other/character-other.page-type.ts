@@ -6,6 +6,10 @@ export const characterOther = {
   slug: "character-other",
   definition: "a character no player plays",
   extends: ["page-type/character"],
+  parts: ["relation-property/character-persona"],
+  properties: [
+    { pageProperty: "relation-property/character-persona", required: false, many: false },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

@@ -64,5 +64,5 @@
 {"propertySlug":"target-page-type","path":"persona/craft-day/properties/personas-crafted.multi-relation-property.ts","id":"01a0655b-4a9b-7004-9d62-a9d0909a21ea"}
 {"propertySlug":"target-page-type","path":"persona/review-session/properties/session-persona.relation-property.ts","id":"01a06d67-5303-706a-b90c-da8a8764a769"}
 {"propertySlug":"target-page-type","path":"persona/wallpaper-notification/properties/notification-persona.relation-property.ts","id":"01a06d66-40f9-7210-8fcc-86ba1e3ac448"}
-{"propertySlug":"target-page-type","path":"story/world/stories/played/turns/properties/turn-personas.multi-relation-property.ts","id":"01a0de7c-3833-7912-b7c0-bef007c0e776"}
+{"propertySlug":"target-page-type","path":"story/character/other/properties/character-persona.relation-property.ts","id":"01a0de8a-32e1-74b8-8abf-107a1d0269a0"}
 {"propertySlug":"view-page-type","path":"page/view/pages/personas-all.view.ts","id":"01a0de75-35c8-733a-b988-e8aac10da25c"}

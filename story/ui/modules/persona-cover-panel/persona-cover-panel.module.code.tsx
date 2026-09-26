@@ -12,8 +12,10 @@ import {
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
+import { characterOther } from "akasha/story/character/other/character-other.page-type.ts"
+import { characterPersona } from "akasha/story/character/other/properties/character-persona.relation-property.ts"
+import { characters } from "akasha/story/character/properties/characters.multi-relation-property.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
-import { turnPersonas } from "akasha/story/world/stories/played/turns/properties/turn-personas.multi-relation-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { useMemo } from "react"
 
@@ -25,6 +27,10 @@ const COVER_KEY = "cover"
 
 const ONE = 1
 
+function inList(keyed: string): readonly string[] {
+  return keyed === "" ? [] : keyed.split(" ")
+}
+
 export type PersonaCover = {
   readonly slug: string
   readonly name: string
@@ -35,14 +41,32 @@ export function latestTurnId(turns: readonly ClientStoryTurn[]): string | null {
   return turns.at(-1)?.id ?? null
 }
 
-export function personaSlugsIn(value: unknown): readonly string[] {
+function slugOf(value: unknown, pageTypeSlug: string): string | null {
+  if (typeof value !== "string") return null
+  const address = addressIn(value)
+  if (address.kind !== "qualified" || address.pageTypeSlug !== pageTypeSlug) return null
+  return address.slug === "" ? null : address.slug
+}
+
+export function characterSlugsIn(value: unknown): readonly string[] {
   if (!Array.isArray(value)) return []
   const held: string[] = []
   for (const one of value) {
-    if (typeof one !== "string") continue
-    const address = addressIn(one)
-    const slug = address.kind === "qualified" ? address.slug : one
-    if (slug !== "" && !held.includes(slug)) held.push(slug)
+    const slug = slugOf(one, characterOther.slug)
+    if (slug !== null && !held.includes(slug)) held.push(slug)
+  }
+  return held
+}
+
+export function personaSlugsOf(
+  characterSlugs: readonly string[],
+  rows: readonly Page[]
+): readonly string[] {
+  const held: string[] = []
+  for (const slug of characterSlugs) {
+    const row = rows.find((one) => one.slug === slug)
+    const her = slugOf(row?.[characterPersona.propertySlug], persona.slug)
+    if (her !== null && !held.includes(her)) held.push(her)
   }
   return held
 }
@@ -74,12 +98,21 @@ export function PersonaCoverPanel({ turns }: { turns: readonly ClientStoryTurn[]
     [turnId]
   )
   const turnRows = usePages(turnOptions)
-  const slugs = personaSlugsIn(turnRows.rows[0]?.[turnPersonas.propertySlug])
+  const characterKeyed = characterSlugsIn(turnRows.rows[0]?.[characters.propertySlug]).join(" ")
+  const characterOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({
+      pageTypeSlug: characterOther.slug,
+      where: [{ key: SLUG_KEY, in: inList(characterKeyed) }],
+    }),
+    [characterKeyed]
+  )
+  const characterRows = usePages(characterOptions)
+  const slugs = personaSlugsOf(inList(characterKeyed), characterRows.rows)
   const keyed = slugs.join(" ")
   const personaOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: persona.slug,
-      where: [{ key: SLUG_KEY, in: keyed === "" ? [] : keyed.split(" ") }],
+      where: [{ key: SLUG_KEY, in: inList(keyed) }],
     }),
     [keyed]
   )

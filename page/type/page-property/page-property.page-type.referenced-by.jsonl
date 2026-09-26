@@ -165,6 +165,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/properties/cover-images.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"persona/properties/wallpaper-images.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"product/kofi/feature-request/properties/feature-request-boosts.record-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/character/properties/characters.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/game-entity/properties/attribute-scores.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/game-entity/properties/entity-affinities.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/game/game-entity/properties/entity-bonds.record-property.types.ts","typed":true,"deferred":false}
@@ -184,10 +185,8 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/aliases.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-from-slugs.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/properties/evolves-to-slugs.multi-relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/mechanics/relationships/properties/relationship-characters.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/named-events/properties/event-aliases.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/played/properties/panels.multi-relation-property.types.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/played/turns/properties/turn-personas.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"story/world/stories/read/properties/external-tags.text-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/eso-interfaces.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"temper/addon/properties/lua-modules.multi-relation-property.types.ts","typed":true,"deferred":false}

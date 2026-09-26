@@ -2,10 +2,13 @@ import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
+import { characterOther } from "akasha/story/character/other/character-other.page-type.ts"
+import { characterPlayer } from "akasha/story/character/player/character-player.page-type.ts"
 import {
+  characterSlugsIn,
   latestTurnId,
   personaCoversOf,
-  personaSlugsIn,
+  personaSlugsOf,
 } from "akasha/story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx"
 
 function turn(id: string) {
@@ -28,13 +31,30 @@ function her(slug: string): string {
   return namedAs(persona.slug, slug, null)
 }
 
-test("a turn's personas are read as slugs, once each", () => {
-  expect(personaSlugsIn([her("one"), her("two"), her("one")])).toEqual(["one", "two"])
+function other(slug: string): string {
+  return namedAs(characterOther.slug, slug, null)
+}
+
+test("a turn's other characters are read as slugs, once each", () => {
+  expect(characterSlugsIn([other("a"), other("b"), other("a")])).toEqual(["a", "b"])
 })
 
-test("a turn naming no personas names none", () => {
-  expect(personaSlugsIn(undefined)).toEqual([])
-  expect(personaSlugsIn(her("one"))).toEqual([])
+test("the character the player plays is passed over", () => {
+  expect(characterSlugsIn([namedAs(characterPlayer.slug, "p", null), other("a")])).toEqual(["a"])
+})
+
+test("a turn naming no characters names none", () => {
+  expect(characterSlugsIn(undefined)).toEqual([])
+  expect(characterSlugsIn(other("a"))).toEqual([])
+})
+
+test("each character who is a persona gives her, in the order the turn names them", () => {
+  const rows = [
+    row({ slug: "b", persona: her("two") }),
+    row({ slug: "a", persona: her("one") }),
+    row({ slug: "c" }),
+  ]
+  expect(personaSlugsOf(["a", "b", "c"], rows)).toEqual(["one", "two"])
 })
 
 test("each persona named is drawn by her cover, in the order the turn names her", () => {

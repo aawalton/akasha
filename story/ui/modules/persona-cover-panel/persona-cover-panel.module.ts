@@ -10,11 +10,11 @@ export const personaCoverPanel = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The personas drawn are the ones the latest turn drawn names.",
+      statement: "The personas drawn are the ones the characters of the latest turn drawn are.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn naming no persona draws no panel.",
+      statement: "A turn with no character who is a persona draws no panel.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -152,6 +152,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-product.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"product/kofi/feature-request/properties/feature-request-proposer.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/chapter/properties/chapter-story.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/character/other/properties/character-persona.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/character/properties/character-place.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/character/properties/character-story.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"story/game/game-entity/properties/bond-attribute.relation-property.ts","typed":true,"deferred":false}

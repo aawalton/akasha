@@ -9,7 +9,6 @@ export const worldRelationship = {
   extends: ["page-type/world-mechanic"],
   runsTabooCheck: false,
   parts: [
-    "multi-relation-property/relationship-characters",
     "number-property/relationship-points",
     "computed-property/world-relationship-level",
     "page-type/partners-bond",
@@ -17,7 +16,7 @@ export const worldRelationship = {
   ],
   properties: [
     {
-      pageProperty: "multi-relation-property/relationship-characters",
+      pageProperty: "multi-relation-property/characters",
       required: true,
       many: true,
       maxCount: null,

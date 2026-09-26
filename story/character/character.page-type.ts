@@ -16,6 +16,7 @@ export const character = {
     "relation-property/character-place",
     "page-type/character-player",
     "page-type/character-other",
+    "multi-relation-property/characters",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
