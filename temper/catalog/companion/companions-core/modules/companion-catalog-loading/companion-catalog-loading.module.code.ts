@@ -1,4 +1,5 @@
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
+import { heldReading } from "akasha/page/service/modules/held-reading/held-reading.module.code.ts"
 import {
   type CompanionCatalog,
   heldCompanionCatalog,
@@ -18,9 +19,7 @@ async function rowsOf(pageTypeSlug: string, select: readonly string[]): Promise<
   return rows
 }
 
-export async function loadCompanionCatalog(): Promise<CompanionCatalog> {
-  const already = heldCompanionCatalog()
-  if (already !== null) return already
+async function readCompanionCatalog(): Promise<CompanionCatalog> {
   const read = await Promise.all(
     CATALOG_READS.map(
       async ([pageTypeSlug, keys]) => [pageTypeSlug, await rowsOf(pageTypeSlug, keys)] as const
@@ -30,4 +29,13 @@ export async function loadCompanionCatalog(): Promise<CompanionCatalog> {
   return holdCompanionCatalog(
     companionCatalogFrom((pageTypeSlug) => byType.get(pageTypeSlug) ?? [])
   )
+}
+
+const kept = heldReading(
+  CATALOG_READS.map(([pageTypeSlug]) => pageTypeSlug),
+  readCompanionCatalog
+)
+
+export async function loadCompanionCatalog(): Promise<CompanionCatalog> {
+  return heldCompanionCatalog() ?? (await kept())
 }
