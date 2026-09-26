@@ -138,6 +138,7 @@ export const temperAddonCharacters = {
     "module/qr-code-galois",
     "module/qr-code-patterns",
     "module/qr-code-matrix",
+    "module/qr-code-encode",
     "module/pithka-constants",
     "module/pithka-achievements",
     "module/pithka-saved-vars",

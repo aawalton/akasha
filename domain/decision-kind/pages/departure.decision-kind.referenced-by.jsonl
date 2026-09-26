@@ -3907,6 +3907,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-summary-refresh/companions-summary-refresh.module.ts","id":"01a08871-6a01-7c73-b5a1-f0397f9ff734"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-target-build-input/companions-target-build-input.module.ts","id":"01a0611d-84e6-77f3-8e05-8b4ff7570c86"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-blocks/qr-code-blocks.module.ts","id":"01a0de9b-3c6f-7838-9b53-a5d239ec0593"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-encode/qr-code-encode.module.ts","id":"01a0dea1-68fa-7d13-b0c0-5f37fad2e44f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-galois/qr-code-galois.module.ts","id":"01a0de9e-3aef-7485-9742-542763552a73"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-matrix/qr-code-matrix.module.ts","id":"01a0dea0-7728-7ed3-b242-dc87bb0e3978"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/qr-code-patterns/qr-code-patterns.module.ts","id":"01a0de9f-412c-7189-8885-0722986bb7f5"}
