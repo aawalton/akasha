@@ -265,9 +265,13 @@
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/date-night-the-reading-room/date-night-the-reading-room.story-played.ts","id":"01a06425-4433-7d9d-9e93-330d36ad90d4"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/dragons-and-dungeons.story-played.ts","id":"01a06425-4433-7ef5-b909-fc3115093731"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/harem-hotel/harem-hotel.story-played.ts","id":"01a06425-4433-7e95-ad6a-45d83fdf02ef"}
+{"propertySlug":"world","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-challenge-gate.world-mechanic.ts","id":"01a0dec3-f566-74de-9efd-b3e3464e0f90"}
+{"propertySlug":"world","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-companion-bind.world-mechanic.ts","id":"01a0dec3-f567-7957-a600-a403dfb7f7f8"}
+{"propertySlug":"world","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/mechanics/harem-hotel-talent-safety-net.world-mechanic.ts","id":"01a0dec3-f567-71f0-8d4b-10db4ecdc266"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/partners-ii/partners-ii.story-played.ts","id":"01a06425-4433-7862-87db-a4cd6e6aa459"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/partners/partners.story-played.ts","id":"01a06425-4433-7655-b718-bd2bf4d44c7a"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/the-dating-game/the-dating-game.story-played.ts","id":"01a0de37-a4ce-75e7-b1cc-7be7e09c8244"}
+{"propertySlug":"world","path":"story/world/pages/personas/stories/played/the-tower/mechanics/mechanics/the-tower-death-loop.world-mechanic.ts","id":"01a0dec3-f567-78c1-b9fb-f115d9952ba1"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/the-tower/the-tower.story-played.ts","id":"01a06425-4433-7452-bd78-2410fa95fb44"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/played/the-violet-hour/the-violet-hour.story-played.ts","id":"01a06425-4433-7dbe-8a10-b6a603b54acf"}
 {"propertySlug":"world","path":"story/world/pages/personas/stories/written/anthology/anthology.story-written.ts","id":"01a06585-da9a-79e2-9904-3842ab34d2ab"}
