@@ -184,7 +184,7 @@ export const persona = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A persona sits in one seat besides a handler's, or in a game's game master and world builder seats.",
+        "A persona sits in one seat besides a handler's, or in the seats making a game's turns.",
     },
     {
       decisionKind: "decision-kind/departure",
