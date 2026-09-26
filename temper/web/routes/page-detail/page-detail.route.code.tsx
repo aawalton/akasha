@@ -18,6 +18,7 @@ import {
 } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
 import { createEmptyCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import {
   buildHash as toBuildHash,
@@ -145,6 +146,7 @@ async function readerAccountPage(request: Request): Promise<string | null> {
 }
 
 async function loadCharacterDetail(page: Record<string, unknown>, request: Request) {
+  await loadSetCatalog()
   const r = asCharacterPageRow(page)
   const buildId = r.id
   const accountPage = await readerAccountPage(request)

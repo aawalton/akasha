@@ -5545,6 +5545,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/loadout-types/loadout-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/merge-item-data/merge-item-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/set-equipment-types/set-equipment-types.module.ts","typed":true,"deferred":false}

@@ -62,6 +62,10 @@ export const watcherSettingsEquipment = {
         "The companion catalogue is read here, because decoding a companion build needs it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The set catalogue is read here, because decoding a character build needs it.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes a page.",
     },

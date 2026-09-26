@@ -8,6 +8,7 @@ import { races } from "akasha/temper/catalog/character-race/modules/races/races.
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { buildSlug } from "akasha/temper/player/character/build/build-support/modules/build-slug/build-slug.module.code.ts"
+import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import type {
   BuildHash,
   BuildId,
@@ -62,6 +63,7 @@ export async function importCharacterFromHash(
     return { result: { error: "no-account", message: noAccountPageWhy(userId) }, headers }
   }
 
+  await loadSetCatalog()
   const buildState = decodeBuild(hash)
   if (!buildState) {
     return { result: { error: "invalid-hash" }, headers }

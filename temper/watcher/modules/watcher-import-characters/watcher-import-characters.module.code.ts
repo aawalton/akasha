@@ -8,6 +8,7 @@ import {
   encodeBuild,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
+import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
   type SkillLineId,
@@ -218,5 +219,6 @@ export async function runImportCharacters(
   options: { userId?: string } = {},
   seams: CharacterImportSeams = {}
 ): Promise<void> {
+  await loadSetCatalog()
   await executeCharacterImportPlan(planCharacterImport(content), supabase, options, seams)
 }

@@ -18,6 +18,7 @@ import {
   compileWantedCompanionEquipment as compileCompanionSignatures,
 } from "akasha/temper/items/rules/matcher/modules/rule-matcher-context-equipment/rule-matcher-context-equipment.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import { loadSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts"
 
 export const CHARACTER_PAGE_TYPE_SLUG = "temper-account-character"
 export const COMPANION_PAGE_TYPE_SLUG = "temper-companion-progress"
@@ -207,6 +208,7 @@ export async function compileWantedEquipment(
     sortOrder: row.sortOrder,
   }))
 
+  await loadSetCatalog()
   return compileCharacterSignatures(characters, buildById, automationSettings)
 }
 

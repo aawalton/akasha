@@ -5575,6 +5575,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.ts","id":"01a0616f-8e17-7f39-850b-c2da8d153a31"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.ts","id":"01a0616f-8e14-79ec-a8cd-c4989b33053d"}
+{"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.ts","id":"01a0de3a-6829-7f01-b43e-d311f5dbbda7"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.ts","id":"01a0616f-8e15-7812-a6e6-cca332a9a6e5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.ts","id":"01a061a4-18b0-70f3-9811-f8f48f7e103b"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-rows/sets-rows.data-table.ts","id":"01a0d95f-49dd-720b-8acc-bc0a016bb596"}

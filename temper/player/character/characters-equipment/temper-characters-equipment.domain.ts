@@ -25,6 +25,7 @@ export const temperCharactersEquipment = {
     "module/loadout-types",
     "module/merge-item-data",
     "module/mythic-set-rules",
+    "module/set-catalog-loading",
     "module/set-categories",
     "module/set-class-restrictions",
     "module/set-equipment-types",

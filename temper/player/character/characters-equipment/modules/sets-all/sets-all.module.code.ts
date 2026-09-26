@@ -26,6 +26,10 @@ export function holdSetCatalog(catalog: SetCatalog): SetCatalog {
   return catalog
 }
 
+export function heldSetCatalog(): SetCatalog | null {
+  return held
+}
+
 export function setsAll(): SetCatalog {
   return held
 }
