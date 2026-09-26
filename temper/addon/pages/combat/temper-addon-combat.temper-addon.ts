@@ -222,6 +222,7 @@ export const temperAddonCombat = {
     "module/combat-alerts-boss-api",
     "module/combat-alerts-info-panel",
     "module/combat-alerts-info-panel-utils",
+    "module/combat-alerts-broadcast",
     "module/combat-ui-stats-penetration",
     "module/data-encode-casts",
     "module/data-encode-charset",
