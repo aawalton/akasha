@@ -13,7 +13,17 @@ export const tradingBrowseWindow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A filter group moves to a new row where the screen has no room left for it.",
+      statement:
+        "A filter group moves to a new row where the list's width has no room left for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The window is as wide as its list, or its widest filter row where that is wider.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "On first opening the window sits right of the chat window where it would otherwise cover chat.",
     },
     {
       decisionKind: "decision-kind/departure",

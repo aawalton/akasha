@@ -77,6 +77,8 @@ const MAX_VISIBLE_ROWS = 50
 const INSET_X = FRAME_PADDING - PADDING_X
 const INSET_Y = FRAME_TOP
 const SCREEN_MARGIN = 80
+const CHAT_WINDOW = "ZO_ChatWindow"
+const WINDOW_GAP = 16
 const PANEL_LEVEL = 2
 const NOT_SEARCHED = "Search all guilds to list what is for sale."
 const NONE_MATCH = "No listing matches these filters."
@@ -160,7 +162,7 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
       }
     },
   }
-  const barCap = GuiRoot.GetWidth() - SCREEN_MARGIN * 2 - INSET_X * 2
+  const barCap = LIST_WIDTH
   const groups = buildFilterGroups(ctx, content)
   let rowX = 0
   let rowY = -PADDING_Y
@@ -175,7 +177,7 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
     rowX += width
     filterBarWidth = math.max(filterBarWidth, rowX)
   }
-  const windowWidth = math.max(filterBarWidth, LIST_WIDTH, 600)
+  const windowWidth = math.max(filterBarWidth, LIST_WIDTH)
 
   const searchY = rowY + FILTER_ROW_HEIGHT
   const search = createBarButton(
@@ -274,9 +276,27 @@ export function createBrowseWindow(this: void, engine: BrowseEngine): BrowseWind
     return "empty"
   }
 
+  let placed = false
+
+  function placeClearOfChat(this: void): undefined {
+    if (placed) return undefined
+    placed = true
+    const chat = WINDOW_MANAGER.GetControlByName<Control>(CHAT_WINDOW)
+    if (chat === undefined) return undefined
+    const overlaps =
+      chat.GetLeft() < SCREEN_MARGIN + tlw.GetWidth() &&
+      chat.GetTop() < SCREEN_MARGIN + tlw.GetHeight()
+    const left = chat.GetRight() + WINDOW_GAP
+    if (!overlaps || left + tlw.GetWidth() > GuiRoot.GetWidth()) return undefined
+    tlw.ClearAnchors()
+    tlw.SetAnchor(TOPLEFT, GuiRoot, TOPLEFT, left, SCREEN_MARGIN)
+    return undefined
+  }
+
   function show(this: void): undefined {
     savedBar.refresh()
     repaint()
+    placeClearOfChat()
     tlw.SetHidden(false)
   }
 
