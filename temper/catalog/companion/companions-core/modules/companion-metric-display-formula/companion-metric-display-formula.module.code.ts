@@ -1,6 +1,6 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { CompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import { companionCatalog } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+
 import type { CompanionEffectSource } from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionFormulaNode } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-template/companion-metric-template.module.code.ts"
@@ -20,9 +20,11 @@ import type {
 import { formatDecimal } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import {
-  type SourceCategoryId,
   sourceCategories,
+  sourceCategoriesOfSubject,
 } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
+
+const COMPANION_SUBJECT = "companion"
 
 function getContributionsByCategory(
   sources: readonly CompanionEffectSource[],
@@ -32,7 +34,7 @@ function getContributionsByCategory(
   const format: NumberFormat = effectType === "fractional-change" ? "percent" : "integer"
   const contributions: DisplayResult[] = []
 
-  for (const categoryId of companionCatalog().sourceCategories as readonly SourceCategoryId[]) {
+  for (const categoryId of sourceCategoriesOfSubject(COMPANION_SUBJECT)) {
     let categoryTotal = 0
 
     for (const source of sources) {

@@ -1,7 +1,5 @@
-{"propertySlug":"import","fileName":"temper-source-category.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-source-category.page-type.ts","path":"temper/catalog/world/temper-source-category/modules/source-category-ids-keeping/source-category-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-source-category.page-type.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-source-category.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-source-category.page-type.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-source-category.page-type.types.ts","path":"temper/catalog/world/temper-source-category/pages/account.temper-source-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-source-category.page-type.types.ts","path":"temper/catalog/world/temper-source-category/pages/armor.temper-source-category.ts","typed":true,"deferred":false}

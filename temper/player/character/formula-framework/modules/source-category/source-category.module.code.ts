@@ -7,6 +7,7 @@ interface SourceCategoryTemplate {
   readonly id: SourceCategoryId
   readonly name: string
   readonly displayOrder: number
+  readonly subject: string | null
 }
 
 type SourceCategoryCatalog = {
@@ -30,6 +31,7 @@ function templateOf(value: Value): SourceCategoryTemplate {
     id,
     name: typeof value.title === "string" ? value.title : id,
     displayOrder: typeof value.displayOrder === "number" ? value.displayOrder : 0,
+    subject: typeof value.subject === "string" ? value.subject : null,
   }
 }
 
@@ -55,4 +57,9 @@ export function holdSourceCategories(read: SourceCategoryCatalog): SourceCategor
 export function sourceCategories(): SourceCategoryCatalog {
   if (held === null) throw new SourceCategoriesUnread()
   return held
+}
+
+export function sourceCategoriesOfSubject(subject: string): readonly SourceCategoryId[] {
+  const { ids, data } = sourceCategories()
+  return ids.filter((id) => data[id].subject === subject)
 }

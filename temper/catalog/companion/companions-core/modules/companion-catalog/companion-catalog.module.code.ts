@@ -52,7 +52,6 @@ export interface CompanionSlots {
 export interface CompanionCatalogParts {
   readonly effectCategories: Readonly<Record<string, BuffCategory>>
   readonly effectValues: Readonly<Record<string, number>>
-  readonly sourceCategories: readonly string[]
   readonly combatMechanics: CombatMechanics
   readonly baseStats: readonly CompanionEffect[]
   readonly armorWeights: readonly CompanionArmorWeightTemplate[]
@@ -74,7 +73,6 @@ export interface CompanionCatalogParts {
 export interface CompanionCatalog {
   readonly effectCategories: Readonly<Record<string, BuffCategory>>
   readonly effectValues: Readonly<Record<string, number>>
-  readonly sourceCategories: readonly string[]
   readonly combatMechanics: CombatMechanics
   readonly baseStats: readonly CompanionEffect[]
   readonly armorWeights: readonly CompanionArmorWeightTemplate[]
@@ -130,7 +128,6 @@ export function catalogOf({
   combatMechanics,
   effectCategories,
   effectValues,
-  sourceCategories,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -155,7 +152,6 @@ export function catalogOf({
     combatMechanics,
     effectCategories,
     effectValues,
-    sourceCategories,
     companions,
     companionsById,
     skills,

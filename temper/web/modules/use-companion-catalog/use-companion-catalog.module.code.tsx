@@ -32,7 +32,7 @@ import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/
 import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts"
 import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
 import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
-import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
+
 import { createContext, useContext, useMemo } from "react"
 
 const EVERY = 500
@@ -73,9 +73,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const majorDebuffs = usePages({ pageTypeSlug: temperDebuffMajor.slug, limit: EVERY })
   const minorDebuffs = usePages({ pageTypeSlug: temperDebuffMinor.slug, limit: EVERY })
   const otherDebuffs = usePages({ pageTypeSlug: temperDebuffOther.slug, limit: EVERY })
-  const sources = usePages({ pageTypeSlug: temperSourceCategory.slug, limit: EVERY })
   const read = [
-    sources,
     majorBuffs,
     minorBuffs,
     otherBuffs,
@@ -134,7 +132,6 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperDebuffMajor.slug, majorDebuffs.rows],
       [temperDebuffMinor.slug, minorDebuffs.rows],
       [temperDebuffOther.slug, otherDebuffs.rows],
-      [temperSourceCategory.slug, sources.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -165,7 +162,6 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     majorDebuffs.rows,
     minorDebuffs.rows,
     otherDebuffs.rows,
-    sources.rows,
   ])
   if (failed !== null) throw failed
   return catalog

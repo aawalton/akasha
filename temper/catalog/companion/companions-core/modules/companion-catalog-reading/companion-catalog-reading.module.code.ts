@@ -76,7 +76,6 @@ import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temp
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 import { temperCompanionWeaponSlot } from "akasha/temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts"
 import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
-import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
 
@@ -101,10 +100,6 @@ const BASE_ROLE_KEYS: readonly string[] = [
   "totalMetric",
 ]
 
-const SOURCE_CATEGORY_KEYS: readonly string[] = ["slug", "key", "displayOrder", "subject"]
-
-const COMPANION_SUBJECT = "companion"
-
 export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = [
   [temperEsoCompanion.slug, COMPANION_KEYS],
   [temperCompanionSkill.slug, SKILL_KEYS],
@@ -127,7 +122,6 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionArmorWeight.slug, ARMOR_WEIGHT_KEYS],
   [temperCompanionBaseStat.slug, BASE_STAT_KEYS],
   [temperCompanionCombatMechanic.slug, MECHANIC_KEYS],
-  [temperSourceCategory.slug, SOURCE_CATEGORY_KEYS],
 ]
 
 function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
@@ -182,13 +176,6 @@ function baseRolesFrom(rows: readonly Row[]): readonly CompanionBaseRoleTemplate
   })
 }
 
-function sourceCategoriesFrom(rows: readonly Row[]): readonly string[] {
-  return rows
-    .filter((row) => row.subject === COMPANION_SUBJECT)
-    .sort(byOrder)
-    .map((row) => textIn(row.key, "key", String(row.slug ?? "a source category")))
-}
-
 function namedFrom(rows: readonly Row[]): readonly CompanionRoleTemplate[] {
   return rows
     .map((row) => {
@@ -220,7 +207,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     combatMechanics: mechanicsFrom(rowsOf(temperCompanionCombatMechanic.slug)),
     effectCategories: categoriesFrom(rowsOf),
     effectValues: effectValuesFrom(rowsOf),
-    sourceCategories: sourceCategoriesFrom(rowsOf(temperSourceCategory.slug)),
+
     slots: {
       armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),
       jewelry: slotsFrom(rowsOf(temperCompanionJewelrySlot.slug)),

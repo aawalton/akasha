@@ -56,7 +56,7 @@ const TREE_FIELDS: readonly string[] = [
   "useAccentColor",
 ]
 
-const CATEGORY_FIELDS: readonly string[] = ["slug", "title", "displayOrder"]
+const CATEGORY_FIELDS: readonly string[] = ["slug", "title", "displayOrder", "subject"]
 
 export function holdMetricCatalogFromCheckout(): MetricCatalog {
   const categories = asking(akashaRoot(), {
