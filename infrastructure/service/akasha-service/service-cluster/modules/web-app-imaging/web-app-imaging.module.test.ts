@@ -10,7 +10,6 @@ import {
   imageArgv,
   imageBuilt,
   imageTargetOf,
-  webAppImage,
   webDockerfile,
   withCommit,
 } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-imaging/web-app-imaging.module.code.ts"
@@ -30,7 +29,9 @@ afterAll(() => {
 
 const SHA = "0123456789abcdef0123456789abcdef01234567"
 
-const IMAGED = "registry.registry.svc.cluster.local:5000/web-app/one-web:0123456789ab"
+const REPOSITORY = "registry.registry.svc.cluster.local:5000/web-app/one-web"
+
+const IMAGED = `${REPOSITORY}:0123456789ab`
 
 function plan(containers: readonly string[]): Plan {
   const yaml = [
@@ -77,12 +78,8 @@ const TARGET: ImageTarget = {
   tag: "0123456789ab",
 }
 
-test("a web app's image is tagged with the commit it is built from", () => {
-  expect(webAppImage("one-web", SHA)).toBe(IMAGED)
-})
-
 test("a written image naming the commit placeholder is given the deployed commit's tag", () => {
-  const written = `          image: ${webAppImage("one-web", COMMIT_PLACEHOLDER)}\n`
+  const written = `          image: ${REPOSITORY}:${COMMIT_PLACEHOLDER}\n`
   expect(written).toContain(":COMMIT\n")
   expect(withCommit(written, SHA)).toBe(`          image: ${IMAGED}\n`)
 })

@@ -5,7 +5,6 @@ import {
   BUILD_STAMP,
   BUILDER_AT,
   CHECKOUT_PLACEHOLDER,
-  commitHere,
   SERVED_BUILD_AT,
 } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache/orchestrator-cache.module.code.ts"
 import { ORCHESTRATOR_CACHE_REPO_PATH } from "akasha/infrastructure/cluster/k8s-type/modules/orchestrator-cache-locations/orchestrator-cache-locations.module.code.ts"
@@ -58,10 +57,6 @@ const NOTHING_HANDED: Resolved = { env: [], hidden: [], missing: [] }
 
 export function imageTagOf(sha: string): string {
   return sha.slice(0, TAG_LENGTH)
-}
-
-export function webAppImage(name: string, sha: string = commitHere()): string {
-  return refFor(`${WEB_APP_IMAGES}/${name}`, imageTagOf(sha))
 }
 
 export const COMMIT_PLACEHOLDER = "COMMIT"
