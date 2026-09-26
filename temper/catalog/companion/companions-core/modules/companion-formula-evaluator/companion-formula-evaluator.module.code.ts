@@ -46,6 +46,15 @@ export function sumEffects(
   return total
 }
 
+export function sumRating(
+  sources: readonly CompanionEffectSource[],
+  metricId: CompanionMetricId,
+  divisor: number
+): number {
+  const fraction = sumEffects(sources, metricId, "fractional-change")
+  return sumEffects(sources, metricId, "integer") + fraction * divisor
+}
+
 function evaluateCompanionLeaf(
   node: CompanionFormulaNode,
   context: CompanionFormulaContext

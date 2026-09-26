@@ -10,6 +10,7 @@ import {
   evaluateFormula,
   extractMetricReferences,
   sumEffects,
+  sumRating,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import {
@@ -56,7 +57,10 @@ export function calculateCompanionStatsWithBaseline(
 
     if (metric.effectType == null) continue
 
-    const value = sumEffects(sources, metric.id, metric.effectType)
+    const value =
+      metric.valueType === "rating"
+        ? sumRating(sources, metric.id, metric.divisor)
+        : sumEffects(sources, metric.id, metric.effectType)
 
     metricValues.set(metric.id, value)
 

@@ -18,6 +18,10 @@ export const companionFormulaEvaluator = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A fractional effect on a rating counts as that fraction of the rating's divisor.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A metric reference missing from the value map is refused, naming both the formula and that metric.",
     },
