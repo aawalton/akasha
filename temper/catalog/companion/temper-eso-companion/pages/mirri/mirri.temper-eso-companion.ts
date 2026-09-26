@@ -12,4 +12,5 @@ export const mirri = {
   esoCompanionId: 2,
   classPassiveId: "mirri-dynamic",
   passiveEffects: "jsonl",
+  hashPlace: 2,
 } as const satisfies TemperEsoCompanion

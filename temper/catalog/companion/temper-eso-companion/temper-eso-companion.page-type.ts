@@ -21,7 +21,15 @@ export const temperEsoCompanion = {
     { pageProperty: "number-property/eso-companion-id", required: true, many: false },
     { pageProperty: "text-property/class-passive-id", required: false, many: false },
     { pageProperty: "page-property-entry/passive-effects", required: false, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A companion's build-hash place is the index a build hash has.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

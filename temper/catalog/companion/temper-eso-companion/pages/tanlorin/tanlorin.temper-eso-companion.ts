@@ -12,4 +12,5 @@ export const tanlorin = {
   esoCompanionId: 12,
   classPassiveId: "tanlorin-spirited",
   passiveEffects: "jsonl",
+  hashPlace: 7,
 } as const satisfies TemperEsoCompanion

@@ -8,4 +8,5 @@ export const noCompanion = {
   title: "No Companion",
   alliance: "temper-alliance/no-alliance",
   esoCompanionId: 0,
+  hashPlace: 0,
 } as const satisfies TemperEsoCompanion

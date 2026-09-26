@@ -12,4 +12,5 @@ export const isobel = {
   esoCompanionId: 6,
   classPassiveId: "isobel-enchanted",
   passiveEffects: "jsonl",
+  hashPlace: 4,
 } as const satisfies TemperEsoCompanion

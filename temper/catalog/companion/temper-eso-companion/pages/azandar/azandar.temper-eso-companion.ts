@@ -12,4 +12,5 @@ export const azandar = {
   esoCompanionId: 9,
   classPassiveId: "azandar-son-of-kozanset",
   passiveEffects: "jsonl",
+  hashPlace: 6,
 } as const satisfies TemperEsoCompanion

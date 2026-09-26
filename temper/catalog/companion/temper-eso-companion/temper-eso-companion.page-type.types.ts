@@ -4,6 +4,7 @@ import type { EsoCompanionId } from "akasha/temper/catalog/companion/temper-eso-
 import type { PassiveEffects } from "akasha/temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.types.ts"
 import type { Subtitle } from "akasha/temper/catalog/companion/temper-eso-companion/properties/subtitle.text-property.types.ts"
 import type { TemperCompanionThing } from "akasha/temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts"
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 
 export type TemperEsoCompanion = TemperCompanionThing & {
@@ -13,4 +14,5 @@ export type TemperEsoCompanion = TemperCompanionThing & {
   esoCompanionId: EsoCompanionId
   classPassiveId?: ClassPassiveId
   passiveEffects?: PassiveEffects
+  hashPlace: HashPlace
 }

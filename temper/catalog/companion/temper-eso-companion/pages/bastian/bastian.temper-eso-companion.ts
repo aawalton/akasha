@@ -12,4 +12,5 @@ export const bastian = {
   esoCompanionId: 1,
   classPassiveId: "bastian-tough",
   passiveEffects: "jsonl",
+  hashPlace: 1,
 } as const satisfies TemperEsoCompanion

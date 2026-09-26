@@ -12,4 +12,5 @@ export const ember = {
   esoCompanionId: 5,
   classPassiveId: "ember-cunning",
   passiveEffects: "jsonl",
+  hashPlace: 3,
 } as const satisfies TemperEsoCompanion

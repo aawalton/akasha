@@ -12,4 +12,5 @@ export const zerithVar = {
   esoCompanionId: 13,
   classPassiveId: "zerith-var-third-moons-chosen",
   passiveEffects: "jsonl",
+  hashPlace: 8,
 } as const satisfies TemperEsoCompanion
