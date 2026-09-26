@@ -14,5 +14,31 @@ export const imageIntelligence = {
       decisionKind: "decision-kind/departure",
       statement: "Alan judges the quality of a picture himself.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Pictures are read on the MacBook rather than the workstation.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Qwen3.6-35B-A3B Abliterated Heretic at Q4_K_M reads a picture, served by llama.cpp.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A face names a persona only where ArcFace buffalo_l, antelopev2 and AdaFace agree.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A face of no persona still scores up to about 0.6 against some persona's anchor.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "JoyCaption Beta One misjudges the closeness rung and miscounts the people shown.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Stock Qwen3.6-35B-A3B gets clothing wrong more often than the Heretic build.",
+    },
   ],
 } as const satisfies Domain
