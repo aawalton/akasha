@@ -81,6 +81,11 @@ import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temp
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 import { temperCompanionWeaponSlot } from "akasha/temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts"
 import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
+import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
+import {
+  holdTargetArmors,
+  targetArmorsOf,
+} from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 import { temperRotationBreakdownRow } from "akasha/temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
@@ -92,6 +97,8 @@ const NAMED_KEYS: readonly string[] = ["slug", "key", "title"]
 const BASE_STAT_KEYS: readonly string[] = ["slug", "key", "metricId", "effectType", "value"]
 
 const MECHANIC_KEYS: readonly string[] = ["slug", "key", "mechanicValue"]
+
+const TARGET_ARMOR_KEYS: readonly string[] = ["slug", "key", "title", "armor"]
 
 const BASE_ROLE_KEYS: readonly string[] = [
   "slug",
@@ -129,6 +136,7 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperCompanionBaseStat.slug, BASE_STAT_KEYS],
   [temperCompanionCombatMechanic.slug, MECHANIC_KEYS],
   [temperRotationBreakdownRow.slug, BREAKDOWN_ROW_KEYS],
+  [temperTargetArmor.slug, TARGET_ARMOR_KEYS],
 ]
 
 function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
@@ -195,6 +203,7 @@ function namedFrom(rows: readonly Row[]): readonly CompanionRoleTemplate[] {
 }
 
 export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
+  holdTargetArmors(targetArmorsOf(rowsOf(temperTargetArmor.slug)))
   return catalogOf({
     companions: companionsFrom(rowsOf(temperEsoCompanion.slug)),
     skills: companionSkillsFrom(rowsOf(temperCompanionSkill.slug)),

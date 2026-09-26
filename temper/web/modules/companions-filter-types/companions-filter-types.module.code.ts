@@ -9,12 +9,9 @@ import {
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import type { SortField } from "akasha/temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx"
 
-export const LEADERBOARD_TARGET_ARMOR_ITEMS: BadgeToggleGroupItem[] = targetArmor.list.map(
-  (ta) => ({
-    value: ta.id,
-    label: ta.name,
-  })
-)
+export function targetArmorItems(): BadgeToggleGroupItem[] {
+  return targetArmor().list.map((ta) => ({ value: ta.id, label: ta.name }))
+}
 
 export const LEADERBOARD_TARGET_COUNT_ITEMS: BadgeToggleGroupItem[] = [
   { value: "1", label: "Single Target" },
@@ -54,7 +51,7 @@ export function isValidCompanion(value: unknown): value is CompanionId {
 }
 
 export function isValidTargetArmor(value: unknown): value is TargetArmorId {
-  return typeof value === "string" && targetArmor.has(value)
+  return typeof value === "string" && value !== ""
 }
 
 export function isValidTargetCount(value: unknown): value is string {

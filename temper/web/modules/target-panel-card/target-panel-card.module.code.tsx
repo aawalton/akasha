@@ -40,7 +40,7 @@ export function TargetPanelCard({
         <Select
           value={target.armor}
           onValueChange={(v) => {
-            if (targetArmor.has(v)) onUpdate({ armor: v })
+            if (targetArmor().has(v)) onUpdate({ armor: v })
           }}
           disabled={readOnly}
         >
@@ -48,7 +48,7 @@ export function TargetPanelCard({
             <SelectValue />
           </SelectTrigger>
           <SelectContent>
-            {targetArmor.list.map((ta) => (
+            {targetArmor().list.map((ta) => (
               <SelectItem key={ta.id} value={ta.id}>
                 {ta.name} ({ta.armor})
               </SelectItem>

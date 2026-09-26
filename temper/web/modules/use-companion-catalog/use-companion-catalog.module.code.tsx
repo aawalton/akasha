@@ -32,6 +32,7 @@ import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/
 import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts"
 import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
 import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
+import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
 import { temperRotationBreakdownRow } from "akasha/temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts"
 import { createContext, useContext, useMemo } from "react"
 
@@ -74,7 +75,9 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const minorDebuffs = usePages({ pageTypeSlug: temperDebuffMinor.slug, limit: EVERY })
   const otherDebuffs = usePages({ pageTypeSlug: temperDebuffOther.slug, limit: EVERY })
   const breakdownRows = usePages({ pageTypeSlug: temperRotationBreakdownRow.slug, limit: EVERY })
+  const targetArmors = usePages({ pageTypeSlug: temperTargetArmor.slug, limit: EVERY })
   const read = [
+    targetArmors,
     breakdownRows,
     majorBuffs,
     minorBuffs,
@@ -135,6 +138,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperDebuffMinor.slug, minorDebuffs.rows],
       [temperDebuffOther.slug, otherDebuffs.rows],
       [temperRotationBreakdownRow.slug, breakdownRows.rows],
+      [temperTargetArmor.slug, targetArmors.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -166,6 +170,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     minorDebuffs.rows,
     otherDebuffs.rows,
     breakdownRows.rows,
+    targetArmors.rows,
   ])
   if (failed !== null) throw failed
   return catalog

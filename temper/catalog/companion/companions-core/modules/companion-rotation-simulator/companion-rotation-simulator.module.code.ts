@@ -26,7 +26,7 @@ import type {
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import {
   combatMechanics,
-  DEFAULT_ROTATION_CONFIG,
+  defaultRotationConfig,
   SIMULATION_TICK_INTERVAL,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
@@ -34,7 +34,7 @@ import { convertRatingToChance } from "akasha/temper/player/character/formula-fr
 export function simulateCompanionRotation(
   skillIds: readonly CompanionSkillId[],
   metrics: readonly CompanionMetricValue[],
-  config: RotationConfig = DEFAULT_ROTATION_CONFIG
+  config: RotationConfig = defaultRotationConfig()
 ): RotationResult {
   const skills = companionSkills()
   const validSkillIds = skillIds.filter(

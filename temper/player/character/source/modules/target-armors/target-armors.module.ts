@@ -9,7 +9,12 @@ export const targetArmors = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the character pages rather than by hand.",
+      statement: "Each target armor is read from its own temper-target-armor page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The companion catalogue and the stat catalogue each hold the target armors they read.",
     },
   ],
 } as const satisfies Module

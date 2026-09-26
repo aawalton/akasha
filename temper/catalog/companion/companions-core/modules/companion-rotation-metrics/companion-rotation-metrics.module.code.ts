@@ -17,7 +17,7 @@ import {
   type RotationResult,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
-import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import { targetArmorValue } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export interface RotationMetricEntry {
   metricId: CompanionMetricId
@@ -71,7 +71,7 @@ export function computeDpsMetrics(
   let breachPenetration = 0
 
   const basePenetration = metricValues.get("companion-penetration") ?? 0
-  const targetArmorValue = targetArmor.data[build.target.armor].armor
+  const armorValue = targetArmorValue(build.target.armor)
 
   for (const summary of rotation.skillSummaries) {
     if (summary.uptime <= 0) continue
@@ -145,10 +145,10 @@ export function computeDpsMetrics(
   }
 
   const totalPenetration = basePenetration + breachPenetration
-  const remainingArmorWithBreach = Math.max(0, targetArmorValue - totalPenetration)
+  const remainingArmorWithBreach = Math.max(0, armorValue - totalPenetration)
   const damageMultiplierWithBreach = 1 - companionArmorMitigation(remainingArmorWithBreach)
 
-  const remainingArmorBase = Math.max(0, targetArmorValue - basePenetration)
+  const remainingArmorBase = Math.max(0, armorValue - basePenetration)
   const damageMultiplierBase = 1 - companionArmorMitigation(remainingArmorBase)
 
   const breachMultiplier =

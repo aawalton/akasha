@@ -17,7 +17,7 @@ import type {
   SortOption,
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import { targetArmorItems } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { useEffect, useState } from "react"
 
 export type SortField = "updated" | "name" | "score"
@@ -62,11 +62,6 @@ const ROLE_ITEMS: BadgeToggleGroupItem[] = [
   { value: "healer", label: "Healer" },
   { value: "support", label: "Support" },
 ]
-
-const TARGET_ARMOR_ITEMS: BadgeToggleGroupItem[] = targetArmor.list.map((ta) => ({
-  value: ta.id,
-  label: ta.name,
-}))
 
 const TARGET_COUNT_ITEMS: BadgeToggleGroupItem[] = [
   { value: "1", label: "Single Target" },
@@ -129,7 +124,7 @@ const COMPANION_FILTERS: CompanionFilterDef[] = [
       }
       return (
         <BadgeToggleGroup
-          items={TARGET_ARMOR_ITEMS}
+          items={targetArmorItems()}
           value={
             props.selectedTargetArmor != null
               ? [{ value: props.selectedTargetArmor, label: "" }]

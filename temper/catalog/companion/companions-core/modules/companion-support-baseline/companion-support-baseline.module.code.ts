@@ -11,7 +11,7 @@ import {
   type ReferenceBaseline,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-support-types/companion-support-types.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
-import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import { targetArmorValue } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export function computeReferenceBaseline(build: CompanionState): ReferenceBaseline {
   const result = calculateCompanionStatsWithBaseline(build, EMPTY_BASELINE)
@@ -32,7 +32,7 @@ export function computeReferenceBaseline(build: CompanionState): ReferenceBaseli
   let breachPenetration = 0
 
   const basePenetration = metricValues.get("companion-penetration") ?? 0
-  const targetArmorValue = targetArmor.data[build.target.armor].armor
+  const armorValue = targetArmorValue(build.target.armor)
 
   if (rotation) {
     for (const summary of rotation.skillSummaries) {
@@ -103,7 +103,7 @@ export function computeReferenceBaseline(build: CompanionState): ReferenceBaseli
     baseVulnerabilityMultiplier: vulnerabilityMultiplier,
     baseBreachPenetration: breachPenetration,
     basePenetration,
-    targetArmor: targetArmorValue,
+    targetArmor: armorValue,
     baseToughness,
     healthMax,
     baseArmor,

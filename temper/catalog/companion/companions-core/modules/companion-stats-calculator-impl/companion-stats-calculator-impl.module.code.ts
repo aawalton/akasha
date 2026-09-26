@@ -29,10 +29,10 @@ import type { ReferenceBaseline } from "akasha/temper/catalog/companion/companio
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { DEFAULT_COMPANION_ROTATION_CONFIG } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companionBaseSource } from "akasha/temper/catalog/companion/companions-core/modules/companions-base-source/companions-base-source.module.code.ts"
-import { DEFAULT_ROTATION_CONFIG } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+import { defaultRotationConfig } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { calculateRatingSurplus } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import { topologicalSort } from "akasha/temper/player/character/formula-framework/modules/topological-sort/topological-sort.module.code.ts"
-import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import { targetArmorValue } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export function calculateCompanionStatsWithBaseline(
   build: CompanionState,
@@ -124,11 +124,11 @@ export function calculateCompanionStatsWithBaseline(
   )
 
   const rotation = simulateCompanionRotation(skillIds, metricsForRotation, {
-    ...DEFAULT_ROTATION_CONFIG,
+    ...defaultRotationConfig(),
     cycleDuration: rotationConfig.cycleDuration,
     ultimateThreshold: rotationConfig.ultimateThreshold,
     targetCount: build.target.targetCount ?? 1,
-    targetArmor: targetArmor.data[build.target.armor].armor,
+    targetArmor: targetArmorValue(build.target.armor),
     enemyHealthStart: build.target.targetHealth === "execute" ? 25 : 100,
   })
 

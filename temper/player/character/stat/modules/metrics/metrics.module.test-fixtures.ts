@@ -9,6 +9,7 @@ import {
   companionMetricCatalogOf,
   holdCompanionMetricCatalog,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
+import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
 import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 import {
   holdSourceCategories,
@@ -18,6 +19,10 @@ import {
   baseStatsOf,
   holdBaseStats,
 } from "akasha/temper/player/character/source/modules/base-source/base-source.module.code.ts"
+import {
+  holdTargetArmors,
+  targetArmorsOf,
+} from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 import {
   holdTarget,
   targetOf,
@@ -72,6 +77,8 @@ const BASE_STAT_FIELDS: readonly string[] = ["slug", "metric", "effectType", "va
 
 const TARGET_FIELDS: readonly string[] = ["slug", "title", "effects"]
 
+const TARGET_ARMOR_FIELDS: readonly string[] = ["slug", "key", "title", "armor"]
+
 export function holdMetricCatalogFromCheckout(): MetricCatalog {
   const categories = asking(akashaRoot(), {
     pageTypeSlug: temperSourceCategory.slug,
@@ -91,6 +98,12 @@ export function holdMetricCatalogFromCheckout(): MetricCatalog {
   } as never)
   if ("refused" in targets) throw new Error(targets.refused)
   holdTarget(targetOf(targets.rows as readonly Value[]))
+  const armors = asking(akashaRoot(), {
+    pageTypeSlug: temperTargetArmor.slug,
+    keys: TARGET_ARMOR_FIELDS,
+  } as never)
+  if ("refused" in armors) throw new Error(armors.refused)
+  holdTargetArmors(targetArmorsOf(armors.rows as readonly Value[]))
   const nodes = asking(akashaRoot(), {
     pageTypeSlug: temperMetricTree.slug,
     keys: TREE_FIELDS,

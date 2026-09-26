@@ -17,7 +17,7 @@ import { isTwoHandedWeapon } from "akasha/temper/catalog/companion/companions-co
 import { companionAt } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { combatMechanics } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import type { SourceCategoryId } from "akasha/temper/player/character/formula-framework/modules/source-category/source-category.module.code.ts"
-import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import { targetArmorValue } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export interface CompanionEffectSource {
   id: string
@@ -190,7 +190,7 @@ export function extractSkillSources(build: CompanionState): readonly CompanionEf
 }
 
 export function extractTargetSource(build: CompanionState): CompanionEffectSource {
-  const armorValue = targetArmor.data[build.target.armor].armor
+  const armorValue = targetArmorValue(build.target.armor)
 
   return {
     id: "companion-target",
