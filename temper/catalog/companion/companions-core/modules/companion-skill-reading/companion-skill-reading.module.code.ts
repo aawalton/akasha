@@ -1,8 +1,7 @@
-import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { slugAt, slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
-import { temperCompanionSkill } from "akasha/temper/catalog/companion/skill/temper-companion-skill.page-type.ts"
+
 import type { EffectCondition } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 type CompanionSkillKind = CompanionSkillTemplate["skillType"]
@@ -64,30 +63,32 @@ function numberIn(said: unknown, key: string, at: string): number {
   throw new Error(`${at} states no ${key}`)
 }
 
-export async function readCompanionSkills(): Promise<readonly CompanionSkillTemplate[]> {
-  const { rows } = await getPages({
-    pageTypeSlug: temperCompanionSkill.slug,
-    select: [
-      "slug",
-      "key",
-      "title",
-      "icon",
-      "description",
-      "abilityId",
-      "companionId",
-      "skillLineId",
-      "skillType",
-      "validRoles",
-      "tags",
-      "alternateAbilityIds",
-      "skillEffects",
-      "castConditions",
-    ],
-    order: [{ by: "slug", dir: "asc" }],
-    limit: 500,
-  })
-  return rows.map((row) => {
-    const at = row.slug ?? row.id
+export const SKILL_KEYS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "icon",
+  "description",
+  "abilityId",
+  "companionId",
+  "skillLineId",
+  "skillType",
+  "validRoles",
+  "tags",
+  "alternateAbilityIds",
+  "skillEffects",
+  "castConditions",
+]
+
+type Row = Readonly<Record<string, unknown>>
+
+function bySlug(one: Row, other: Row): number {
+  return String(one.slug) < String(other.slug) ? -1 : 1
+}
+
+export function companionSkillsFrom(rows: readonly Row[]): readonly CompanionSkillTemplate[] {
+  return [...rows].sort(bySlug).map((row) => {
+    const at = String(row.slug ?? row.id)
     return {
       id: textIn(row.key, "key", at),
       abilityId: numberIn(row.abilityId, "abilityId", at),

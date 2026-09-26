@@ -1,10 +1,8 @@
-import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import { textIn } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts"
 import type { CompanionTraitTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
-import { temperCompanionTraitGrade } from "akasha/temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts"
-import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
+
 import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 
 type Row = Readonly<Record<string, unknown>>
@@ -99,22 +97,4 @@ export function companionTraitsFrom(
     }
   }
   return placed.map(({ trait }) => trait)
-}
-
-export async function readCompanionTraits(): Promise<readonly CompanionTraitTemplate[]> {
-  const [traits, grades] = await Promise.all([
-    getPages({
-      pageTypeSlug: temperCompanionTrait.slug,
-      select: [...TRAIT_KEYS],
-      order: [{ by: "hashPlace", dir: "asc" }],
-      limit: 500,
-    }),
-    getPages({
-      pageTypeSlug: temperCompanionTraitGrade.slug,
-      select: [...GRADE_KEYS],
-      order: [{ by: "slug", dir: "asc" }],
-      limit: 500,
-    }),
-  ])
-  return companionTraitsFrom(traits.rows, grades.rows)
 }

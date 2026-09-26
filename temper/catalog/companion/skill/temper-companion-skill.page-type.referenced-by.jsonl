@@ -1,5 +1,5 @@
+{"propertySlug":"import","fileName":"temper-companion-skill.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-skill.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-companion-skill.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-skill-reading/companion-skill-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-skill.page-type.types.ts","path":"temper/catalog/companion/skill/pages/all-no-skill/all-no-skill.temper-companion-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-skill.page-type.types.ts","path":"temper/catalog/companion/skill/pages/all-shared-arcane-nova/all-shared-arcane-nova.temper-companion-skill.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-skill.page-type.types.ts","path":"temper/catalog/companion/skill/pages/all-shared-bashing-bulwark/all-shared-bashing-bulwark.temper-companion-skill.ts","typed":true,"deferred":false}
