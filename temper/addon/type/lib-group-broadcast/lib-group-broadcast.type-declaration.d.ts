@@ -3,6 +3,12 @@ interface GroupBroadcastNumericFieldOptions {
   maxValue?: number
   numBits?: number
   precision?: number
+  trimValues?: boolean
+}
+
+interface GroupBroadcastStringFieldOptions {
+  minLength?: number
+  maxLength?: number
 }
 
 interface GroupBroadcastField {
@@ -14,6 +20,8 @@ interface GroupBroadcastFinalizeOptions {
   replaceQueuedMessages?: boolean
 }
 
+type GroupBroadcastData = Readonly<Record<string, number | string | boolean | undefined>>
+
 interface GroupBroadcastProtocol {
   AddField: (this: GroupBroadcastProtocol, field: GroupBroadcastField) => void
   OnData: (
@@ -21,7 +29,7 @@ interface GroupBroadcastProtocol {
     callback: (this: void, unitTag: string, data: Readonly<Record<string, number>>) => void
   ) => void
   Finalize: (this: GroupBroadcastProtocol, options?: GroupBroadcastFinalizeOptions) => boolean
-  Send: (this: GroupBroadcastProtocol, payload: Record<string, number>) => void
+  Send: (this: GroupBroadcastProtocol, payload: GroupBroadcastData) => void
 }
 
 interface GroupBroadcastHandler {
@@ -37,6 +45,13 @@ interface GroupBroadcastLibrary {
     label: string,
     options?: GroupBroadcastNumericFieldOptions
   ) => GroupBroadcastField
+  CreateFlagField: (this: void, label: string) => GroupBroadcastField
+  CreateStringField: (
+    this: void,
+    label: string,
+    options?: GroupBroadcastStringFieldOptions
+  ) => GroupBroadcastField
+  CreateOptionalField: (this: void, field: GroupBroadcastField) => GroupBroadcastField
 }
 
 declare const LibGroupBroadcast: GroupBroadcastLibrary | undefined
