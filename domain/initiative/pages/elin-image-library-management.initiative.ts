@@ -11,5 +11,9 @@ export const elinImageLibraryManagement = {
     {
       statement: "Every image states its rung on the closeness ladder as its maturity rating.",
     },
+    {
+      statement:
+        "Alan grades every image he has not graded from a review page, one key to an image.",
+    },
   ],
 } as const satisfies Initiative
