@@ -27,8 +27,6 @@ import {
   getUiSelectionData,
   type UISelections,
 } from "akasha/temper/addon/pages/combat/modules/combat-ui-state/combat-ui-state.module.code.ts"
-import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
-import { showChosen } from "akasha/temper/window/modules/window-rows/window-rows.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -49,12 +47,20 @@ export type RowAnchor = [number, Control, number, number, number]
 const PERCENT = 100
 
 export function pairedCounts(this: void, mine: number, group: number, mineOnly: boolean): string {
-  if (mineOnly) return formatCount(math.floor(mine))
-  return `${formatCount(math.floor(mine))}/${formatCount(math.floor(group))}`
+  return mineOnly ? string.format("%d", mine) : string.format("%d/%d", mine, group)
 }
 
-export function pairedUptimes(this: void, mine: number, group: number, mineOnly: boolean): string {
-  return pairedCounts(mine * PERCENT, group * PERCENT, mineOnly)
+export function pairedUptimes(
+  this: void,
+  mine: number,
+  group: number,
+  mineOnly: boolean,
+  single = "%d",
+  paired = "%d/%d"
+): string {
+  return mineOnly
+    ? string.format(single, mine * PERCENT)
+    : string.format(paired, mine * PERCENT, group * PERCENT)
 }
 
 export function effectColor(
@@ -278,7 +284,7 @@ export function updateBuffPanelLegacy(this: void, panel: BarsPanelControl): unde
 
     const textcolor = buffTextColor(favs[buffName] === true)
 
-    showChosen(row.GetNamedChild<BackdropControl>("HighLight"), highlight)
+    row.GetNamedChild("HighLight")?.SetHidden(!highlight)
     row.GetNamedChild<TextureControl>("Icon")?.SetTexture(icon)
 
     const nameControl = row.GetNamedChild<LabelControl>("Name")
@@ -299,7 +305,7 @@ export function updateBuffPanelLegacy(this: void, panel: BarsPanelControl): unde
       ?.SetText(pairedCounts(count, groupCount, hideGroupValues))
     row
       .GetNamedChild<LabelControl>("Uptime")
-      ?.SetText(pairedUptimes(uptimeRatio, groupUptimeRatio, hideGroupValues))
+      ?.SetText(pairedUptimes(uptimeRatio, groupUptimeRatio, hideGroupValues, "%.0f", "%.0f/%.0f"))
 
     currentanchor = [TOPLEFT, row, BOTTOMLEFT, 0, getDx()]
 
