@@ -1,0 +1,11 @@
+import type { AgentMessage } from "akasha/agent/message/agent-message.page-type.types.ts"
+
+export const message389896bd9cff = {
+  id: "01a0dee0-c6f5-7000-8014-389896bd9cff",
+  type: "page-type/agent-message",
+  slug: "message-389896bd9cff",
+  to: "seat/alan",
+  from: "audit-running",
+  warrant: "announce",
+  body: "the audit at e30906bcdf25647e137f55a85b301680e925fa6a found 2 checks newly refusing.\n`domain-is-named-by-a-parent` refused 2 times:\n  temper/catalog/thing/properties/effect-value.number-property.ts — 2 pages name `number-property/effect-value` among their parts — every page under `domain` but `domain/akasha` is a part of exactly one page above it\n  temper/player/character/temper-mine/properties/armor-type.number-property.ts — 2 pages name `number-property/armor-type` among their parts — every page under `domain` but `domain/akasha` is a part of exactly one page above it\n`no-unused-exports` refused 17 times:\n  agent/modules/read-record/read-record.module.code.ts — exports `sightingsIn`, which only a test names — a value only a test names is code only the test runs\n  alan/harness/code-editor/data-interface/modules/tree-row-fields/tree-row-fields.module.code.ts — exports `TreeRow`, which nothing names — a value nothing names is code nothing runs\n  alan/harness/readout/group/pages/workstation/readouts/memory/workstation-memory.readout.reading.code.ts — exports `sampler`, which only a test names — a value only a test names is code only the test runs\n  alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.reading.code.ts — exports `ProcessorTimes`, which no other file names — a value only its own file names is published for nothing\n  alan/harness/readout/group/pages/workstation/readouts/processor/workstation-processor.readout.reading.code.ts — exports `sampler`, which only a test names — a value only a test names is code only the test runs\nwhat each of them answered is on the newest row of the audit log beside that check's page. This was meant for `thea`, whom nothing could reach: no seat holds the name `thea`, so a message written there would wait in a directory nothing drains. Refused rather than landed, because a send nobody receives must not answer as one that arrived.\n",
+} as const satisfies AgentMessage
