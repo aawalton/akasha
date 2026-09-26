@@ -14,7 +14,6 @@ export const generation = {
     "module/comfy-up-building",
     "module/comfy-up-guarding",
     "page-type/audio",
-    "page-type/generation-log",
     "page-type/image",
     "text-property/inference-model",
     "text-property/inference-operation",
