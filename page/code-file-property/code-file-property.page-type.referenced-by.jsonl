@@ -30,4 +30,5 @@
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/properties/compiled-lua.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"design/language/lua-compiler/lualib-helper/properties/lua50-code.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/manifest-code.code-file-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"code-file-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/metric-formula.code-file-property.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}

@@ -182,6 +182,8 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-display-name","propertySlug":"display-name","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-enchant-constant-name","propertySlug":"eso-enchant-constant-name","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-equip-types","propertySlug":"eso-equip-types","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-stat-constant-name","propertySlug":"eso-stat-constant-name","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-stat-value-part","propertySlug":"eso-stat-value-part","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-trait-constant-name","propertySlug":"eso-trait-constant-name","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-weapon-type","propertySlug":"eso-weapon-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-weapon-types","propertySlug":"eso-weapon-types","fileName":null,"folderName":null}
@@ -325,6 +327,8 @@
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"merchant","propertySlug":"merchant","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"merchant-patterns","propertySlug":"merchant-patterns","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"metric","propertySlug":"metric","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"metric-polarity","propertySlug":"polarity","fileName":null,"folderName":null}
+{"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"metric-value-type","propertySlug":"value-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"minute-unit","propertySlug":"minute-unit","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"mobility-reading-value-text","propertySlug":"mobility-reading-value-text","fileName":null,"folderName":null}
 {"pageTypeSlug":"text-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"model","propertySlug":"model","fileName":null,"folderName":null}

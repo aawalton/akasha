@@ -594,6 +594,10 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/skill-activation/properties/description-template.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/skill-activation/properties/scaling-kind.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/skill-activation/properties/scaling-stat.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/eso-stat-constant-name.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/eso-stat-value-part.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/metric-polarity.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/stat/temper-metric/properties/metric-value-type.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/first-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account-character/properties/live-build-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/collectible-link.text-property.ts","typed":true,"deferred":false}

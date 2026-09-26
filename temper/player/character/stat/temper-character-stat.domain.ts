@@ -58,5 +58,6 @@ export const temperCharacterStat = {
     "module/passive-eligibility",
     "module/pipeline-types",
     "module/source-lookup",
+    "page-type/temper-metric",
   ],
 } as const satisfies Domain

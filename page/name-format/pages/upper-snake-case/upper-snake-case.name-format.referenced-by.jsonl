@@ -13,4 +13,5 @@
 {"propertySlug":"name-format","path":"temper/catalog/gear/temper-weapon-type/properties/eso-weapon-type.text-property.ts","id":"01a05fd1-d43b-781e-b83d-8550054c5d2b"}
 {"propertySlug":"name-format","path":"temper/catalog/gear/thing/properties/eso-enchant-constant-name.text-property.ts","id":"01a05fcc-41f2-79fd-b6e5-16cff264ed35"}
 {"propertySlug":"name-format","path":"temper/catalog/thing/properties/eso-trait-constant-name.text-property.ts","id":"01a05fb0-3cec-795c-95ad-9ceda7a30724"}
+{"propertySlug":"name-format","path":"temper/player/character/stat/temper-metric/properties/eso-stat-constant-name.text-property.ts","id":"01a0de62-56cf-765f-91b6-0557fe39653d"}
 {"propertySlug":"parts","path":"page/name-format/name-format.page-type.ts","id":"01a04eaf-67bf-7b05-9aef-8137a7c25513"}

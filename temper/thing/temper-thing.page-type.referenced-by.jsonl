@@ -1,4 +1,5 @@
 {"propertySlug":"extends-type","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
+{"propertySlug":"extends-type","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.ts","id":"01a0de62-56d1-75d0-b8d4-a408bdd782f2"}
 {"propertySlug":"extends-type","path":"temper/player/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
 {"propertySlug":"extends-type","path":"temper/player/holdings/temper-guild-trader/temper-guild-trader.page-type.ts","id":"01a05fcb-fd2c-7cff-9144-3d6612a42fa5"}
 {"propertySlug":"extends-type","path":"temper/player/holdings/temper-guild/temper-guild.page-type.ts","id":"01a0d8a0-61b4-76dd-999f-c1340a514527"}
@@ -8,6 +9,7 @@
 {"propertySlug":"extends-type","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.ts","id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}
 {"propertySlug":"extends-type","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/stat/temper-metric/temper-metric.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/character/thing/temper-character-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/holdings/temper-guild-trader/temper-guild-trader.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/player/holdings/temper-guild/temper-guild.page-type.types.ts","typed":true,"deferred":false}
