@@ -1,5 +1,6 @@
 import {
   type CompanionSkillId,
+  companionSkillAt,
   companionSkills,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import { extractFormulaComponents } from "akasha/temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.code.ts"
@@ -9,10 +10,11 @@ import {
   getSkillUltimateCost,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionScalingStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
-import type {
-  RotationCategory,
-  RotationState,
-  SkillState,
+import {
+  combatMechanics,
+  type RotationCategory,
+  type RotationState,
+  type SkillState,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import type { TargetType } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
@@ -111,13 +113,13 @@ export function initializeState(
   const skillStates = new Map<CompanionSkillId, SkillState>()
 
   for (const skillId of skillIds) {
-    const skill = companionSkills().data[skillId]
+    const skill = companionSkillAt(skillId)
     const category = classifySkill(skillId)
-    const castConditions = skill && "castConditions" in skill ? (skill.castConditions ?? []) : []
+    const castConditions = "castConditions" in skill ? (skill.castConditions ?? []) : []
     let ultimateCost = 0
     if (category === "ultimate") {
-      const cost = skill ? getSkillUltimateCost(skill) : 100
-      ultimateCost = cost !== 0 ? cost : 100
+      const cost = getSkillUltimateCost(skill)
+      ultimateCost = cost !== 0 ? cost : combatMechanics().defaultUltimateCost
     }
     skillStates.set(skillId, {
       skillId,
@@ -126,8 +128,8 @@ export function initializeState(
       effectActiveTime: 0,
       usageCount: 0,
       category,
-      baseCooldown: skill ? getSkillCooldown(skill) : 6,
-      castTime: skill ? getSkillCastTime(skill) : 0,
+      baseCooldown: getSkillCooldown(skill),
+      castTime: getSkillCastTime(skill),
       ultimateCost,
       castConditions,
       baseEffectDuration: getSkillEffectDuration(skillId),

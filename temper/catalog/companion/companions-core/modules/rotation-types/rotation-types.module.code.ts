@@ -53,6 +53,8 @@ export interface CombatMechanics {
   readonly ultimateCap: number
   readonly baseCriticalHealing: number
   readonly lightAttackCoefficient: number
+  readonly playerHealth: number
+  readonly defaultUltimateCost: number
 }
 
 export function combatMechanics(): CombatMechanics {

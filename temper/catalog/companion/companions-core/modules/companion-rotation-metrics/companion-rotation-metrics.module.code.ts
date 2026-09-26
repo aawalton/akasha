@@ -12,7 +12,10 @@ import {
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import type { CompanionValueFormula } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
-import type { RotationResult } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
+import {
+  combatMechanics,
+  type RotationResult,
+} from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { convertRatingToChance } from "akasha/temper/player/character/formula-framework/modules/rating-chance/rating-chance.module.code.ts"
 import { targetArmor } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
@@ -47,7 +50,7 @@ function evaluateShieldFormula(
       return (formula.percent / 100) * metricValue
     }
     case "player-health-percent":
-      return (formula.percent / 100) * 25000
+      return (formula.percent / 100) * combatMechanics().playerHealth
     case "fixed":
       return formula.value
     default:

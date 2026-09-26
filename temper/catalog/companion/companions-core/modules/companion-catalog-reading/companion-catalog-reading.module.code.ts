@@ -76,7 +76,6 @@ import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temp
 import { temperCompanionWeaponRole } from "akasha/temper/catalog/companion/weapon-role/temper-companion-weapon-role.page-type.ts"
 import { temperCompanionWeaponSlot } from "akasha/temper/catalog/companion/weapon-slot/temper-companion-weapon-slot.page-type.ts"
 import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
-
 import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
@@ -145,6 +144,8 @@ function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
     ultimateCap: mechanicOf("ultimate-cap"),
     baseCriticalHealing: mechanicOf("base-critical-healing"),
     lightAttackCoefficient: mechanicOf("light-attack-coefficient"),
+    playerHealth: mechanicOf("player-health"),
+    defaultUltimateCost: mechanicOf("default-ultimate-cost"),
   }
 }
 

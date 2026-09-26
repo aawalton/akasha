@@ -13,7 +13,8 @@ export const companionRotationState = {
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "An ultimate with no stated cost is treated as costing one hundred.",
+      statement:
+        "An ultimate with no stated cost costs what the default ultimate cost page states.",
     },
     {
       decisionKind: "decision-kind/departure",
