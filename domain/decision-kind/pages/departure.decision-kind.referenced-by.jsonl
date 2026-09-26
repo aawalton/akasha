@@ -3807,6 +3807,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-placing/addon-placing.module.ts","id":"01a090b8-6baa-7001-902c-0a3fc6d7cf83"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.ts","id":"01a0c4e2-1f00-7a10-9b42-6c1d0f3a8e55"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/build-output/build-output.module.ts","id":"01a09190-5f20-7946-9db3-368a18b17537"}
+{"propertySlug":"decision-kind","path":"temper/addon/build/modules/consolidation-migrations-world/consolidation-migrations-world.module.ts","id":"01a0de93-2c05-70ba-a4b1-e147c151e6ec"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/consolidation-migrations/consolidation-migrations.module.ts","id":"01a06038-2cc2-79bf-bf75-d6b79d64ce35"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/global-name-dependents/global-name-dependents.module.ts","id":"01a06038-2cc1-77dd-90fd-2e476aa73f6c"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.ts","id":"01a06038-2cc1-7c3a-8b5e-0c9e254e7632"}

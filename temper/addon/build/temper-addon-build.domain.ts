@@ -16,6 +16,7 @@ export const temperAddonBuild = {
     "module/addon-placing",
     "module/build-output",
     "module/consolidation-migrations",
+    "module/consolidation-migrations-world",
     "module/global-name-dependents",
     "module/lua-build-command", "domain/temper-addon-deploy-check", "domain/temper-addon-resolve", "module/addon-sweeping",
   ],

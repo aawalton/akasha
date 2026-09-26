@@ -1,3 +1,4 @@
+import { WORLD_MIGRATIONS } from "akasha/temper/addon/build/modules/consolidation-migrations-world/consolidation-migrations-world.module.code.ts"
 import type { ConsolidationMigration } from "akasha/temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.code.ts"
 
 export const CONSOLIDATION_MIGRATIONS = [
@@ -309,94 +310,7 @@ export const CONSOLIDATION_MIGRATIONS = [
       targetFileBase: "Temper",
     },
   },
-  {
-    mode: "rename",
-    runFor: "TemperWorld",
-    oldFileBase: "TemperNavigation",
-    newFileBase: "TemperWorld",
-    renames: [],
-  },
-  {
-    mode: "append",
-    runFor: "TemperWorld",
-    spec: {
-      absorbedFileBase: "TemperQuests",
-      absorbedGlobal: "TemperQuests_SavedVariables",
-      targetFileBase: "TemperWorld",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperWorld",
-    spec: {
-      absorbedFileBase: "TemperAntiquities",
-      absorbedGlobal: "TemperLeads_SavedVariables",
-      targetFileBase: "TemperWorld",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperWorld",
-    spec: {
-      absorbedFileBase: "TemperCollections",
-      absorbedGlobal: "TemperSkyShards_SavedVariables",
-      targetFileBase: "TemperWorld",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperWorld",
-    spec: {
-      absorbedFileBase: "TemperCollections",
-      absorbedGlobal: "TemperLoreBooks_SavedVariables",
-      targetFileBase: "TemperWorld",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperWorld",
-    spec: {
-      absorbedFileBase: "TemperCollections",
-      absorbedGlobal: "TemperLostTreasure_Account",
-      targetFileBase: "TemperWorld",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperWorld",
-    spec: {
-      absorbedFileBase: "TemperCollections",
-      absorbedGlobal: "TemperLostTreasure_Character",
-      targetFileBase: "TemperWorld",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperWorld",
-    spec: {
-      absorbedFileBase: "TemperCollections",
-      absorbedGlobal: "TemperDungeonChampions_SavedVariables",
-      targetFileBase: "TemperWorld",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperWorld",
-    spec: {
-      absorbedFileBase: "TemperCollections",
-      absorbedGlobal: "TemperItemBrowser_SavedVariables",
-      targetFileBase: "TemperWorld",
-    },
-  },
-  {
-    mode: "append",
-    runFor: "TemperWorld",
-    spec: {
-      absorbedFileBase: "TemperCollections",
-      absorbedGlobal: "TemperCollections_TooltipColors",
-      targetFileBase: "TemperWorld",
-    },
-  },
+  ...WORLD_MIGRATIONS,
   {
     mode: "append",
     runFor: "Temper",

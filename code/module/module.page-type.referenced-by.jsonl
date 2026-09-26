@@ -2718,6 +2718,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/addon-placing/addon-placing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/addon-sweeping/addon-sweeping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/build-output/build-output.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/consolidation-migrations-world/consolidation-migrations-world.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/consolidation-migrations/consolidation-migrations.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/global-name-dependents/global-name-dependents.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/modules/lua-build-command/lua-build-command.module.ts","typed":true,"deferred":false}
