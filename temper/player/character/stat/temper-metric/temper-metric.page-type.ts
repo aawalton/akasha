@@ -22,6 +22,7 @@ export const temperMetric = {
     "change-generator/metric-ids-keeping",
     "data-table/metric-ids",
     "module/metric-formula-writing",
+    "change-generator/metric-formula-keeping",
   ],
   properties: [
     { pageProperty: "text-property/category", required: false, many: false },

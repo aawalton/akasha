@@ -19,6 +19,5 @@ export const changeAgentFile = {
     "change-agent/move-pages-under",
     "change-agent/move-file",
     "change-agent/add-image",
-    "change-agent/write-metric-formula-files",
   ],
 } as const satisfies Domain

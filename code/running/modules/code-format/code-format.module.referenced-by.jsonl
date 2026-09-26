@@ -8,4 +8,5 @@
 {"propertySlug":"import","fileName":"code-format.module.code.ts","path":"command/pages/temper/eso/generate/declaration/temper-eso-generate-declaration.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-format.module.code.ts","path":"page/type/modules/type-generating/type-generating.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"code-format.module.code.ts","path":"temper/modules/slug-union-keeping/slug-union-keeping.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"code-format.module.code.ts","path":"temper/player/character/stat/temper-metric/modules/metric-formula-keeping/metric-formula-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/running/code-running.domain.ts","id":"01a09b28-b8af-7f7c-804c-05aff06380bf"}
