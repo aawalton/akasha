@@ -40,6 +40,7 @@ export interface CompanionSlotTemplate {
   readonly name: string
   readonly equipType: number | null
   readonly slotCategory: string | null
+  readonly iconName: string | null
 }
 
 export interface CompanionSlots {

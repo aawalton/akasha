@@ -1,18 +1,20 @@
 import type { CompanionArmorSlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import type { CompanionArmorWeight } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
+import {
+  companionCatalog,
+  companionSlotAt,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import type { CompanionJewelrySlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
-import type { CompanionWeaponTypeId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
+import {
+  type CompanionWeaponTypeId,
+  companionWeaponTypes,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/player/character/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
 
-const ARMOR_SLOT_TO_ICON_NAME: Record<CompanionArmorSlotId, string> = {
-  head: "helm",
-  shoulders: "shoulders",
-  chest: "chest",
-  hands: "gloves",
-  waist: "belt",
-  legs: "pants",
-  feet: "boots",
+function equipmentIconUrl(iconName: string | null, suffix = ""): string | null {
+  if (iconName === null) return null
+  return getEsoIconUrl(`/esoui/art/icons/companions_u30_equipment_${iconName}${suffix}.dds`)
 }
 
 export function getCompanionArmorIcon(
@@ -20,9 +22,8 @@ export function getCompanionArmorIcon(
   weight: CompanionArmorWeight = "no-weight"
 ): string | null {
   if (weight === "no-weight") return null
-  const iconName = ARMOR_SLOT_TO_ICON_NAME[slotId]
-  const iconPath = `/esoui/art/icons/companions_u30_equipment_${iconName}_${weight}.dds`
-  return getEsoIconUrl(iconPath)
+  const slot = companionSlotAt(companionCatalog().slots.armor, slotId)
+  return equipmentIconUrl(slot.iconName, `_${weight}`)
 }
 
 export function getCompanionJewelryIcon(
@@ -30,31 +31,10 @@ export function getCompanionJewelryIcon(
   quality: CompanionEquipmentQualityId = "no-quality"
 ): string | null {
   if (quality === "no-quality") return null
-  const iconName = slotId === "necklace" ? "necklace" : "ring"
-  const iconPath = `/esoui/art/icons/companions_u30_equipment_${iconName}.dds`
-  return getEsoIconUrl(iconPath)
-}
-
-const WEAPON_TYPE_TO_ICON_NAME: Record<CompanionWeaponTypeId, string | null> = {
-  "no-type": null,
-  sword: "sword",
-  axe: "axe",
-  mace: "mace",
-  dagger: "dagger",
-  greatsword: "greatsword",
-  battleaxe: "battleaxe",
-  maul: "maul",
-  bow: "bow",
-  "inferno-staff": "infernostaff",
-  "ice-staff": "froststaff",
-  "lightning-staff": "lightningstaff",
-  "restoration-staff": "restostaff",
-  shield: "shield",
+  return equipmentIconUrl(companionSlotAt(companionCatalog().slots.jewelry, slotId).iconName)
 }
 
 export function getCompanionWeaponIcon(weaponType: CompanionWeaponTypeId): string | null {
-  const iconName = WEAPON_TYPE_TO_ICON_NAME[weaponType]
-  if (iconName == null) return null
-  const iconPath = `/esoui/art/icons/companions_u30_equipment_${iconName}.dds`
-  return getEsoIconUrl(iconPath)
+  const type = companionWeaponTypes().find((one) => one.id === weaponType)
+  return equipmentIconUrl(type?.iconName ?? null)
 }

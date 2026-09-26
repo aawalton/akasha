@@ -53,6 +53,7 @@ export const WEAPON_TYPE_KEYS: readonly string[] = [
   "isTwoHanded",
   "isOffHandOnly",
   "hashPlace",
+  "equipmentIconName",
 ]
 
 export const ARMOR_WEIGHT_KEYS: readonly string[] = [
@@ -65,7 +66,13 @@ export const ARMOR_WEIGHT_KEYS: readonly string[] = [
   "armorSkillLineId",
 ]
 
-export const ARMOR_SLOT_KEYS: readonly string[] = ["slug", "key", "title", "equipType"]
+export const ARMOR_SLOT_KEYS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "equipType",
+  "equipmentIconName",
+]
 
 export const JEWELRY_SLOT_KEYS: readonly string[] = [...ARMOR_SLOT_KEYS, "slotCategory"]
 
@@ -77,6 +84,10 @@ export const CONSTANT_KEYS: readonly string[] = [
   "valueNum",
   "valueText",
 ]
+
+function iconNameOf(row: Row): string | null {
+  return typeof row.equipmentIconName === "string" ? row.equipmentIconName : null
+}
 
 export function byId(one: { readonly id: string }, other: { readonly id: string }): number {
   return one.id < other.id ? -1 : 1
@@ -125,6 +136,7 @@ export function slotsFrom(rows: readonly Row[]): readonly CompanionSlotTemplate[
       name: textIn(row.title, "title", at),
       equipType: typeof row.equipType === "number" ? row.equipType : null,
       slotCategory: typeof row.slotCategory === "string" ? row.slotCategory : null,
+      iconName: iconNameOf(row),
     }
   })
 }
@@ -152,6 +164,7 @@ export function weaponTypesFrom(rows: readonly Row[]): readonly CompanionWeaponT
       name: textIn(row.title, "title", at),
       isTwoHanded: row.isTwoHanded === true,
       isOffHandOnly: row.isOffHandOnly === true,
+      iconName: iconNameOf(row),
     }
   })
 }

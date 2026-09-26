@@ -42,6 +42,7 @@ export interface CompanionWeaponTypeTemplate {
   readonly name: string
   readonly isTwoHanded: boolean
   readonly isOffHandOnly: boolean
+  readonly iconName: string | null
 }
 
 export function companionWeaponTypes(): readonly CompanionWeaponTypeTemplate[] {

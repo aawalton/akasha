@@ -12,6 +12,10 @@ export const companionEquipmentIcons = {
       statement: "Jewelry icons ignore quality apart from returning null for no-quality.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each slot's and weapon's art name is read from its page.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "Icon paths follow the companions_u30_equipment naming scheme.",
     },
