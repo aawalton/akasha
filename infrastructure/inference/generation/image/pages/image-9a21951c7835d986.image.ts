@@ -5,4 +5,14 @@ export const image9a21951c7835d986 = {
   type: "page-type/image",
   slug: "image-9a21951c7835d986",
   grade: "B+",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "woman in delicate lace lingerie at a tall Parisian window with shutters open, zinc rooftops behind, morning croissant abandoned on the sill, beautiful young woman, face fully in frame looking directly at the camera with warm eye contact, photorealistic photograph, natural skin texture, golden summer light, film grain, candid travel editorial photography",
+  seed: 1113829183,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

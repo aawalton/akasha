@@ -5,4 +5,14 @@ export const image9df9dc2af670924e = {
   type: "page-type/image",
   slug: "image-9df9dc2af670924e",
   grade: "B+",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "photorealistic radiant portrait of a beautiful young woman with sun-kissed skin and long wavy hair, soft joyful feminine smile, wearing a flattering summer swimsuit, on a sunlit beach, lots of warm bare skin, golden hour glow, relaxed playful feminine energy, 85mm, natural luminous skin detail, shallow depth of field",
+  seed: 813546897,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image

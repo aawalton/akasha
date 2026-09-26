@@ -5,4 +5,14 @@ export const image9fd43bf4a9fa9e14 = {
   type: "page-type/image",
   slug: "image-9fd43bf4a9fa9e14",
   grade: "B",
+  service: "image-gen",
+  operation: "generate",
+  model: "Tongyi-MAI/Z-Image-Turbo",
+  prompt:
+    "nude woman hugging a big feather pillow to her front, feathers floating in the air, playful pillow-fight energy, beautiful young woman, face fully in frame looking directly at the camera with intimate eye contact, photorealistic photograph, natural skin texture, soft flattering light, film grain, tasteful fine-art nude photography",
+  seed: 1978907466,
+  width: 832,
+  height: 1216,
+  quantize: 8,
+  serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
 } as const satisfies Image
