@@ -16,5 +16,10 @@ export const temperRequests = {
       decisionKind: "decision-kind/departure",
       statement: "This page serves the published requests alone, most points first.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The wording is read from web phrase pages in the loader, so a signed-out reader sees it.",
+    },
   ],
 } as const satisfies Route

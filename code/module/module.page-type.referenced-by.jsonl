@@ -6094,6 +6094,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/companion-import/companion-import.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/served-watcher-version/served-watcher-version.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/watcher-dir/watcher-dir.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/.server/web-phrase-loading/web-phrase-loading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.ts","typed":true,"deferred":false}
