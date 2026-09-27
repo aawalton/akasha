@@ -35,6 +35,11 @@ export const tanstackLive = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Pages acquired by name together are ready once every name the reader may read is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A pipeline asked again starts from the rows it last read under the same question.",
     },
   ],

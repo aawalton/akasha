@@ -31,6 +31,7 @@ import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import {
   namedShapeDescriptor,
   type ShapeDescriptor,
@@ -56,6 +57,10 @@ const VIEW = "view"
 const PAGE_TYPE = "page-type"
 
 const PAGE_TYPE_KEY = "pageType"
+
+const HELD_BY_ID_SUFFIX = createHeldSnapshots<IdSuffixResult>(256)
+
+const HELD_RELATED = createHeldSnapshots<readonly PageRow[]>(256)
 
 function targetSlugOf(
   config: unknown,
@@ -89,11 +94,12 @@ export function usePageByIdSuffix({
   const { snapshot: result, error: readError } = usePipelineLive<IdSuffixResult>(
     (collection) => createIdSuffixPipeline(collection, options),
     depsKey,
-    enabled
+    enabled,
+    HELD_BY_ID_SUFFIX
   )
 
   const page = useMemo<PageWithProperties | null>(() => {
-    if (!enabled || idSuffix == null || result === null) return null
+    if (!enabled || idSuffix == null || result === null || !acquire.ready) return null
     const matches = result.rows
     if (matches.length === 0) return null
     if (matches.length === 1) {
@@ -109,12 +115,9 @@ export function usePageByIdSuffix({
     const fallback = flat[0]
     if (fallback === undefined) return null
     return toPageWithProperties(fallback)
-  }, [enabled, idSuffix, result, slug])
+  }, [enabled, idSuffix, result, slug, acquire.ready])
 
-  const isLoading =
-    idSuffix != null &&
-    readError === null &&
-    (result === null || (!acquire.ready && result.rows.length === 0))
+  const isLoading = idSuffix != null && readError === null && (result === null || !acquire.ready)
   return { page, isLoading }
 }
 
@@ -250,21 +253,22 @@ export function useRelatedPages({
   )
   const groupsKey = useMemo(() => JSON.stringify(groups), [groups])
   const shapes = useMemo(() => groups.map(shapeReading), [groups])
-  useAcquireShapes(shapes)
+  const { ready } = useAcquireShapes(shapes)
   const { snapshot } = usePipelineLive(
     (collection) => createRelatedPipeline(collection, groups),
     groupsKey,
-    groups.length > 0
+    groups.length > 0,
+    HELD_RELATED
   )
   return useMemo(
     () =>
       relatedAsNamed(
-        (snapshot ?? []).map((row) => toPageWithProperties(flattenRow(row))),
+        (ready ? (snapshot ?? []) : []).map((row) => toPageWithProperties(flattenRow(row))),
         pages,
         specs,
         pageTypes
       ),
-    [snapshot, pages, specs, pageTypes]
+    [ready, snapshot, pages, specs, pageTypes]
   )
 }
 

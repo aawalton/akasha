@@ -3,6 +3,7 @@
 import { BOOT_GATE_TIMEOUT_MS } from "akasha/page/ui/cache/modules/boot-gate/boot-gate.module.code.ts"
 import {
   ANSWERED_LISTINGS,
+  answeredAll,
   type HeldSnapshots,
 } from "akasha/page/ui/cache/modules/listing-readiness/listing-readiness.module.code.ts"
 import type { ShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
@@ -239,10 +240,17 @@ function pageTypesOf(descriptors: readonly ShapeDescriptor[]): readonly string[]
   return [...slugs]
 }
 
-export function useAcquireShapes(descriptors: readonly ShapeDescriptor[]): undefined {
+function shapeKeysOf(descriptors: readonly ShapeDescriptor[]): readonly string[] {
+  return descriptors.map((one) => one.shapeKey)
+}
+
+export function useAcquireShapes(descriptors: readonly ShapeDescriptor[]): {
+  readonly ready: boolean
+} {
   const depsKey = JSON.stringify(descriptors)
   const latest = useRef(descriptors)
   latest.current = descriptors
+  const [answeredKey, setAnsweredKey] = useState<string | null>(null)
   useEffect(() => {
     const asked = depsKey === "" ? [] : latest.current
     if (asked.length === 0) return
@@ -250,13 +258,21 @@ export function useAcquireShapes(descriptors: readonly ShapeDescriptor[]): undef
     let acquired = false
     let cancelled = false
     void (async () => {
-      const store = await awaitPagesStoreReady()
-      if (cancelled) return
-      const named = await store.rosterNamed(pageTypesOf(asked))
-      if (cancelled) return
-      held = shapesNamed(asked, named)
-      for (const one of held) store.acquireFilteredStream(one)
-      acquired = true
+      try {
+        const store = await awaitPagesStoreReady()
+        if (cancelled) return
+        const named = await store.rosterNamed(pageTypesOf(asked))
+        if (cancelled) return
+        held = shapesNamed(asked, named)
+        for (const one of held) store.acquireFilteredStream(one)
+        acquired = true
+        await Promise.all(held.map((one) => store.whenFilteredReady(one.shapeKey)))
+        if (cancelled) return
+        for (const key of shapeKeysOf(asked)) ANSWERED_LISTINGS.answer(key)
+      } catch (err) {
+        console.error("[pages-cache] acquireFilteredStream (multi) failed", err)
+      }
+      if (!cancelled) setAnsweredKey(depsKey)
     })()
     return () => {
       cancelled = true
@@ -271,7 +287,9 @@ export function useAcquireShapes(descriptors: readonly ShapeDescriptor[]): undef
       })()
     }
   }, [depsKey])
-  return undefined
+  return {
+    ready: answeredKey === depsKey || answeredAll(ANSWERED_LISTINGS, shapeKeysOf(descriptors)),
+  }
 }
 
 interface PipelineLiveResult<R> {

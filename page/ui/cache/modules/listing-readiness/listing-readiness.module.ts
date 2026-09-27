@@ -23,6 +23,10 @@ export const listingReadiness = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Several questions asked together are answered only once every one of them is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A listing asked again shows the rows it last held while it is read again.",
     },
     {

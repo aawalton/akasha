@@ -32,6 +32,19 @@ export const hooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Related pages are shown only once their own question has been answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page read by id suffix is shown only once its own question has been answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page or its related pages read again start from what was last read for the same question.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A related page of a page type the reader may not read is never asked for.",
     },
     {

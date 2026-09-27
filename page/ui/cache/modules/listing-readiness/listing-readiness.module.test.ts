@@ -1,8 +1,18 @@
 import { expect, test } from "bun:test"
 import {
+  answeredAll,
   createAnsweredListings,
   createHeldSnapshots,
 } from "akasha/page/ui/cache/modules/listing-readiness/listing-readiness.module.code.ts"
+
+test("a set of questions counts as answered only once every one of them was answered", () => {
+  const answered = createAnsweredListings()
+  expect(answeredAll(answered, [])).toBe(true)
+  answered.answer("temper-skill:slug:acid-spray")
+  expect(answeredAll(answered, ["temper-skill:slug:acid-spray", "temper-set:id:one"])).toBe(false)
+  answered.answer("temper-set:id:one")
+  expect(answeredAll(answered, ["temper-skill:slug:acid-spray", "temper-set:id:one"])).toBe(true)
+})
 
 test("a listing counts as answered only once its own question was answered", () => {
   const answered = createAnsweredListings()

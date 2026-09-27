@@ -16,6 +16,10 @@ export function createAnsweredListings(): AnsweredListings {
 
 export const ANSWERED_LISTINGS: AnsweredListings = createAnsweredListings()
 
+export function answeredAll(answered: AnsweredListings, keys: readonly string[]): boolean {
+  return keys.every((key) => answered.has(key))
+}
+
 export interface HeldSnapshots<R> {
   readonly get: (key: string) => R | undefined
   readonly hold: (key: string, snapshot: R) => undefined
