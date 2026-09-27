@@ -1,4 +1,5 @@
-import { basename } from "node:path"
+import { createRequire } from "node:module"
+import { basename, join } from "node:path"
 import type { Adding, Replacing } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
   bodyFor,
@@ -6,12 +7,18 @@ import {
   heldOver,
 } from "akasha/code/body/modules/body-loading/body-loading.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
+import { said as gitIn } from "akasha/git/modules/running/git-running.module.code.ts"
+import {
+  type Answering,
+  answeringOver,
+} from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import { fileOf } from "akasha/page/index/modules/property-file/property-file.module.code.ts"
+import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import type { Settling } from "akasha/page/index/modules/settling/index-settling.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
+import type { Made, Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 
@@ -32,6 +39,14 @@ const SLUG = "slug"
 const PROPERTY_SLUG = "propertySlug"
 
 const ENDING = "."
+
+const PARTED_BY = "/"
+
+const INDEXED = `${indexNamed()}${PARTED_BY}`
+
+const NUL = "\0"
+
+const LOADED = createRequire(import.meta.url).cache
 
 type Writing = (given: string | Reading) => string
 
@@ -197,14 +212,113 @@ function couldWrite(change: Change): boolean {
   return false
 }
 
+type Kept = {
+  readonly root: string
+  readonly base: string
+  readonly touched: readonly string[]
+  readonly read: ReadonlySet<string>
+}
+
+let kept: Kept | null = null
+
+function recorded(reading: Reading, read: Set<string>): Reading {
+  return {
+    holds: (at) => {
+      read.add(at)
+      return reading.holds(at)
+    },
+    listing: (at) => {
+      read.add(at)
+      return reading.listing(at)
+    },
+    lines: (at) => {
+      read.add(at)
+      return reading.lines(at)
+    },
+    read: (path) => {
+      read.add(path)
+      return reading.read(path)
+    },
+  }
+}
+
+function touchedBy(change: Change, settled: Settling): readonly string[] {
+  return [
+    ...change.changed,
+    ...settled.filings.map((one) => one.at),
+    ...settled.references.map((one) => one.at),
+    ...settled.beside.keys(),
+  ]
+}
+
+export function readOver(read: ReadonlySet<string>, path: string): boolean {
+  let at = path.startsWith(INDEXED) ? path.slice(INDEXED.length) : path
+  for (;;) {
+    if (read.has(at)) return true
+    const cut = at.lastIndexOf(PARTED_BY)
+    if (cut < 0) return false
+    at = at.slice(0, cut)
+  }
+}
+
+function movedSince(root: string, from: string, to: string): readonly string[] {
+  if (from === to) return []
+  return gitIn(root, ["diff", "--name-only", "--no-renames", "-z", from, to])
+    .split(NUL)
+    .filter((one) => one !== "")
+}
+
+function unturned(change: Change, touched: readonly string[]): boolean {
+  const base = change.base
+  if (kept === null || base === undefined || kept.root !== change.root) return false
+  let since: readonly string[]
+  try {
+    since = movedSince(change.root, kept.base, base)
+  } catch {
+    return false
+  }
+  for (const path of [...since, ...kept.touched, ...touched]) {
+    if (readOver(kept.read, path)) return false
+    if (join(change.root, path) in LOADED) return false
+  }
+  return true
+}
+
+function keptOver(change: Change, cast: Made): Written {
+  const settled = cast.settled
+  const base = change.base
+  if (settled === null || base === undefined) {
+    kept = null
+    return writtenOver(change, cast.shadow, cast.reading)
+  }
+  const touched = touchedBy(change, settled)
+  if (unturned(change, touched)) return NOTHING_WRITTEN
+  kept = null
+  const read = new Set<string>()
+  const reading = recorded(cast.reading, read)
+  const pageOf = (path: string) => {
+    read.add(path)
+    return cast.shadow.pageOf(path)
+  }
+  const codeAt = (path: string) => {
+    read.add(path)
+    return cast.shadow.codeAt(path)
+  }
+  const index = answeringOver(reading, pageOf)
+  const written = writtenOver(change, { ...cast.shadow, pageOf, codeAt, index }, reading)
+  kept = { root: change.root, base, touched, read }
+  return written
+}
+
 export function generateChange(change: Change): Written {
   try {
     if (!couldWrite(change)) return NOTHING_WRITTEN
     const cast = shadowFor(change)
     if ("refused" in cast)
       return { edits: [], said: ["no group wrote its file again — " + cast.refused] }
-    return writtenOver(change, cast.shadow, cast.reading)
+    return keptOver(change, cast)
   } catch (thrown) {
+    kept = null
     return {
       edits: [],
       said: [

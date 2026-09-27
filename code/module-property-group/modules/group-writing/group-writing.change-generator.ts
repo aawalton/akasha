@@ -83,6 +83,34 @@ export const groupWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run keeps every path it read, the commit it ran on and the paths it touched.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change is passed over where no path it touches is a path that run read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nor may a path that run touched, or a path moved since that commit, be one read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A folder that run listed is read for every path under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change touching code already loaded is never passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change stating no commit, or leaving no index settled, is never passed over.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a run keeps lives as long as the loaded code of this generator.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Nothing here refuses a landing.",
     },
     {

@@ -5,10 +5,12 @@ import {
   groupAt,
   groupsIn,
   type Reaching,
+  readOver,
   writingIn,
   writtenOver,
 } from "akasha/code/module-property-group/modules/group-writing/group-writing.change-generator.code.ts"
 import { bodyIn as bodyOf } from "akasha/command/modules/change-preparing/change-preparing.module.code.ts"
+import { indexNamed } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import { shadowAt, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
@@ -128,6 +130,29 @@ describe("the body a group's code is loaded from", () => {
   test("a group is run off the checkout again once that body is loaded", () => {
     const reached = writingIn(NOTHING, ONE)
     expect("writing" in reached ? reached.writing(ROOT) : reached.missing).not.toBe(MARKER)
+  })
+})
+
+describe("whether a path moved what the last run read", () => {
+  const read = new Set(["page-type/shell-script/slug", "code/one.shell-script.ts"])
+
+  test("a path the last run read is read", () => {
+    expect(readOver(read, "code/one.shell-script.ts")).toBe(true)
+  })
+
+  test("a path under a folder the last run listed is read", () => {
+    expect(readOver(read, "page-type/shell-script/slug/two.jsonl")).toBe(true)
+  })
+
+  test("an index path is read as the index names it", () => {
+    const at = join(indexNamed(), "page-type/shell-script/slug/two.jsonl")
+    expect(readOver(read, at)).toBe(true)
+  })
+
+  test("a path the last run read nothing of is not read", () => {
+    const at = join(indexNamed(), "page-type/agent-message/slug/message-0.jsonl")
+    expect(readOver(read, "agent/message/pages/message-0.agent-message.ts")).toBe(false)
+    expect(readOver(read, at)).toBe(false)
   })
 })
 
