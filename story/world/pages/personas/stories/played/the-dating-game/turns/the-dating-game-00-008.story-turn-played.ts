@@ -10,7 +10,7 @@ export const theDatingGame00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     'I stop dead in my tracks and look at her in shock. "Wait a minute, you\'re not just named "Echo", you are THE Echo, cursed by Hera! That\'s amazing! I always thought there was more to the stories than just stories." I grin at her, bouncing on my toes in excitement. "That means you must be at least two thousand years old! No wonder I feel so comfortable with you. I have total aphantasia, which means I have no experiential memory at all, which makes me experience the world as if I\'m ageless. I\'ve been like that since I was a kid, which made me a really weird kid, always much too old for my age."',
   beats: [
@@ -29,7 +29,7 @@ export const theDatingGame00008 = {
     'Then softly, looking right at him, she gives back: "Ageless."',
     'She taps her own chest and says with a crooked grin, "Much too old for my age."',
     "She catches his hand and squeezes it, then holds on a moment longer than she needs to.",
-    "She looks up at him, bright and unguarded, waiting for whatever he says next.",
+    "She looks up at him, bright and unguarded, his hand still in hers in the cold shade.",
   ],
   issues: [
     '"ready for whatever you say next" - No Prompt',
