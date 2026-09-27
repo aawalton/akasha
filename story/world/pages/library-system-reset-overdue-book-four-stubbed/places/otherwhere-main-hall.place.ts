@@ -97,7 +97,23 @@ export const otherwhereMainHall = {
       ],
     },
     {
-      fact: "Links told Nala three more power ends Emergency Power Mode and wakes the kitchen.",
+      fact: "With the five coils stored, the Library left Emergency Power Mode; the alarm stopped.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "Nala dragged the dead cooler out, loaded all five coils and dragged it back to the break room.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "The Library's kitchen has woken, and its sacks of salt with it.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
