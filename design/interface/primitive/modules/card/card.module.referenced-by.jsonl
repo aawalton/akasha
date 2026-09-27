@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/player-economics-ui/modules/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/player-economics-ui/modules/shopping-list-empty-card/shopping-list-empty-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/player-economics-ui/modules/shopping-list-tab-content/shopping-list-tab-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/player-economics-ui/modules/shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"card.module.code.tsx","path":"temper/web/player-economics-ui/modules/shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx","typed":false,"deferred":false}

@@ -25,5 +25,8 @@ export const temperPlayerEconomicsUi = {
     "module/use-companion-shopping-data",
     "module/use-shopping-list",
     "module/use-shopping-optimizer",
+    "module/shopping-abandon-trip-dialog",
+    "module/shopping-list-empty-card",
+    "module/shopping-search-progress",
   ],
 } as const satisfies Domain

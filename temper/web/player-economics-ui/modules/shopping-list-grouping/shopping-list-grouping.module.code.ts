@@ -2,6 +2,7 @@ import { companionTraits } from "akasha/temper/catalog/companion/companions-core
 import type { ShoppingPlan } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import type { CompanionGearNeed } from "akasha/temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import { getQualityClassName } from "akasha/temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
+import type { Phrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import {
   getCompanionGearItemName,
   resolveNeedPrice,
@@ -25,7 +26,7 @@ interface GroupedItem {
 }
 
 interface CategoryGroup {
-  category: "Armor" | "Jewelry" | "Weapons"
+  category: "companion-armor" | "companion-jewelry" | "companion-weapons"
   items: readonly GroupedItem[]
   totalCount: number
   totalCost: number | null
@@ -40,12 +41,13 @@ const traitName = (need: CompanionGearNeed): string =>
 export function buildCategoryGroups(
   listedNeeds: readonly IndexedNeed[],
   slotPriceMap: SlotPriceMap | null,
-  blendedPriceMap: BlendedPriceMap | null
+  blendedPriceMap: BlendedPriceMap | null,
+  phrase: Phrase
 ): readonly CategoryGroup[] {
   const buckets: [CategoryGroup["category"], "armor" | "jewelry" | "weapon"][] = [
-    ["Armor", "armor"],
-    ["Jewelry", "jewelry"],
-    ["Weapons", "weapon"],
+    ["companion-armor", "armor"],
+    ["companion-jewelry", "jewelry"],
+    ["companion-weapons", "weapon"],
   ]
 
   const result: CategoryGroup[] = []
@@ -56,7 +58,7 @@ export function buildCategoryGroups(
     const grouped = new Map<string, GroupedItem>()
     const keysByDisplayKey = new Map<string, string[]>()
     for (const { need, index, key } of catNeeds) {
-      const itemName = getCompanionGearItemName(need)
+      const itemName = getCompanionGearItemName(need, phrase)
       const trait = traitName(need)
       const displayKey = `${itemName}:${trait}:${need.quality}`
 
@@ -105,7 +107,8 @@ export function buildCategoryGroups(
 export function buildMissingItemDisplays(
   plan: ShoppingPlan | null,
   extraMissing: ReadonlySet<string>,
-  listedNeeds: readonly IndexedNeed[]
+  listedNeeds: readonly IndexedNeed[],
+  phrase: Phrase
 ): readonly MissingItemDisplay[] {
   if (!plan) return []
 
@@ -115,7 +118,7 @@ export function buildMissingItemDisplays(
   const grouped = new Map<string, MissingItemDisplay>()
   for (const { need, key } of listedNeeds) {
     if (!allMissingKeys.has(key)) continue
-    const itemName = getCompanionGearItemName(need)
+    const itemName = getCompanionGearItemName(need, phrase)
     const trait = traitName(need)
     const displayKey = `${itemName}:${trait}:${need.quality}`
 

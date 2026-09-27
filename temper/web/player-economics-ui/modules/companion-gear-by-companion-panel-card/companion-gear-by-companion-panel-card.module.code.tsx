@@ -11,14 +11,19 @@ import type { CompanionGearPriceResult } from "akasha/temper/economy/trading/pri
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
 import type { CompanionGearNeed } from "akasha/temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 import { getQualityClassName } from "akasha/temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionGearByCompanionPanelCardAddAll } from "akasha/temper/web/phrase/pages/companion-gear-by-companion-panel-card-add-all.temper-web-phrase.ts"
+import { companionGearByCompanionPanelCardRemoveAll } from "akasha/temper/web/phrase/pages/companion-gear-by-companion-panel-card-remove-all.temper-web-phrase.ts"
+import { companionGearByCompanionPanelCardTitle } from "akasha/temper/web/phrase/pages/companion-gear-by-companion-panel-card-title.temper-web-phrase.ts"
+import { companionGearByCompanionPanelCardTotal } from "akasha/temper/web/phrase/pages/companion-gear-by-companion-panel-card-total.temper-web-phrase.ts"
 import {
   type BlendedPriceKey,
   buildBlendedPriceMap,
   buildSlotPriceMap,
   computeGroupCost,
   computeTotalCost,
-  formatGold,
   getCompanionGearItemName,
+  goldIn,
   resolveNeedPrice,
   type SlotPriceKey,
 } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
@@ -42,6 +47,7 @@ export function CompanionGearByCompanionPanelCard({
   pricing,
   shoppingList,
 }: CompanionGearByCompanionPanelCardProps) {
+  const phrase = usePhrase()
   const eligibleKeys = useMemo(
     () => needs.filter((n) => !n.owned).map((n) => needToShoppingKey(n)),
     [needs]
@@ -95,7 +101,7 @@ export function CompanionGearByCompanionPanelCard({
     <PanelCard
       id="companion-gear-by-companion"
       collapsible
-      title="Companion Gear by Companion"
+      title={phrase(companionGearByCompanionPanelCardTitle.slug)}
       headerSubtitle={
         shoppingList && eligibleKeys.length > 0 ? (
           <CardTitleBadges>
@@ -107,7 +113,11 @@ export function CompanionGearByCompanionPanelCard({
                 else shoppingList.addAll(eligibleKeys)
               }}
             >
-              {allInList ? "Remove All" : "Add All"}
+              {phrase(
+                allInList
+                  ? companionGearByCompanionPanelCardRemoveAll.slug
+                  : companionGearByCompanionPanelCardAddAll.slug
+              )}
             </ButtonBadge>
           </CardTitleBadges>
         ) : undefined
@@ -115,9 +125,9 @@ export function CompanionGearByCompanionPanelCard({
     >
       <div className="flex flex-col gap-1.5">
         <ItemRow
-          label="Total"
+          label={phrase(companionGearByCompanionPanelCardTotal.slug)}
           quantity={needs.length}
-          value={totalCost !== null ? `${formatGold(totalCost)}g` : undefined}
+          value={totalCost !== null ? goldIn(phrase, totalCost) : undefined}
           accent
           actionButtonCount={1}
         />
@@ -146,6 +156,7 @@ function CompanionGroupRow({
   blendedPriceMap: Map<BlendedPriceKey, CompanionGearPriceResult> | null
   shoppingList?: ShoppingList
 }) {
+  const phrase = usePhrase()
   const [expanded, setExpanded] = useState(false)
 
   const groupCost =
@@ -158,7 +169,7 @@ function CompanionGroupRow({
       <ItemRow
         label={group.companionName}
         quantity={group.needs.length}
-        value={groupCost !== null ? `${formatGold(groupCost)}g` : undefined}
+        value={groupCost !== null ? goldIn(phrase, groupCost) : undefined}
         actionButtonCount={1}
         expanded={expanded}
         onToggle={() => setExpanded(!expanded)}
@@ -168,11 +179,13 @@ function CompanionGroupRow({
         <div className="flex flex-col py-1">
           {group.needs
             .toSorted((a, b) =>
-              getCompanionGearItemName(a.need).localeCompare(getCompanionGearItemName(b.need))
+              getCompanionGearItemName(a.need, phrase).localeCompare(
+                getCompanionGearItemName(b.need, phrase)
+              )
             )
             .map(({ need, index, key }) => {
               const qualityClass = getQualityClassName(need.quality)
-              const itemName = getCompanionGearItemName(need)
+              const itemName = getCompanionGearItemName(need, phrase)
               const traitName = companionTraits().data[need.trait]?.name ?? need.trait
               const price =
                 !need.owned && slotPriceMap && blendedPriceMap
@@ -192,7 +205,7 @@ function CompanionGroupRow({
                       `${itemName} (${traitName})`
                     )
                   }
-                  value={price ? `${formatGold(price.estimatedCost)}g` : undefined}
+                  value={price ? goldIn(phrase, price.estimatedCost) : undefined}
                   depth={1}
                   actionButtonCount={1}
                   onAccept={

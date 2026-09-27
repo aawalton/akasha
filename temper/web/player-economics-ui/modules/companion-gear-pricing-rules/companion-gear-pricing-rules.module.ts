@@ -6,4 +6,11 @@ export const companionGearPricingRules = {
   slug: "companion-gear-pricing-rules",
   definition: "what a companion gear need is called and what it costs",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A gear name and a gold amount are worded by phrase pages the caller's phrase reads.",
+    },
+  ],
 } as const satisfies Module

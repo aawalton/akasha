@@ -12,5 +12,10 @@ export const shoppingListTabContent = {
       statement:
         "The list's piece names are worked out again whenever the trade numbers are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The list's wording is read from phrase pages, and its category names from the tree.",
+    },
   ],
 } as const satisfies Module

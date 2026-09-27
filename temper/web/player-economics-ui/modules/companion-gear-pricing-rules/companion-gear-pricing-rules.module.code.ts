@@ -7,15 +7,25 @@ import {
 } from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
 import type { UnfulfilledGearNeed } from "akasha/temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
+import type { Phrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionGearPricingRulesGold } from "akasha/temper/web/phrase/pages/companion-gear-pricing-rules-gold.temper-web-phrase.ts"
+import { companionGearPricingRulesItemName } from "akasha/temper/web/phrase/pages/companion-gear-pricing-rules-item-name.temper-web-phrase.ts"
 
-export function getCompanionGearItemName(need: UnfulfilledGearNeed): string {
-  if (need.category === "weapon") return `Companion's ${need.weaponType ?? need.slotName}`
-  const piece = companionPieceNameOf(need.category, need.slotId, need.weight)
-  return `Companion's ${piece ?? need.slotName}`
+function pieceOf(need: UnfulfilledGearNeed): string {
+  if (need.category === "weapon") return need.weaponType ?? need.slotName
+  return companionPieceNameOf(need.category, need.slotId, need.weight) ?? need.slotName
+}
+
+export function getCompanionGearItemName(need: UnfulfilledGearNeed, phrase: Phrase): string {
+  return phrase(companionGearPricingRulesItemName.slug, { piece: pieceOf(need) })
 }
 
 export function formatGold(value: number): string {
   return Number.isFinite(value) ? value.toLocaleString("en-US") : "—"
+}
+
+export function goldIn(phrase: Phrase, value: number): string {
+  return phrase(companionGearPricingRulesGold.slug, { gold: formatGold(value) })
 }
 
 export type SlotPriceKey = string

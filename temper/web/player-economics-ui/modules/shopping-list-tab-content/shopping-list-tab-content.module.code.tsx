@@ -5,38 +5,26 @@ import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-h
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { PanelToggleProvider } from "akasha/design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import {
-  Empty,
-  EmptyDescription,
-  EmptyHeader,
-  EmptyMedia,
-  EmptyTitle,
-} from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
-import {
-  AlertDialog,
-  AlertDialogAction,
-  AlertDialogCancel,
-  AlertDialogContent,
-  AlertDialogDescription,
-  AlertDialogFooter,
-  AlertDialogHeader,
-  AlertDialogTitle,
-} from "akasha/design/interface/primitive/modules/alert-dialog/alert-dialog.module.code.tsx"
-import {
-  Card,
-  CardContent,
-  CardTitleBadges,
-} from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
-import { Progress } from "akasha/design/interface/primitive/modules/progress-bar/progress-bar.module.code.tsx"
-import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+
 import {
   needToShoppingItem,
   needToShoppingKey,
 } from "akasha/temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import { isShoppingSettings } from "akasha/temper/economy/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
 import { heldCompanionGearTtc } from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
-import { formatGold } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+import { useItemCategoryTree } from "akasha/temper/web/modules/use-item-category-tree/use-item-category-tree.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { shoppingListTabContentClearList } from "akasha/temper/web/phrase/pages/shopping-list-tab-content-clear-list.temper-web-phrase.ts"
+import { shoppingListTabContentFindListings } from "akasha/temper/web/phrase/pages/shopping-list-tab-content-find-listings.temper-web-phrase.ts"
+
+import { shoppingListTabContentStopSearch } from "akasha/temper/web/phrase/pages/shopping-list-tab-content-stop-search.temper-web-phrase.ts"
+import { shoppingListTabContentTitle } from "akasha/temper/web/phrase/pages/shopping-list-tab-content-title.temper-web-phrase.ts"
+import { shoppingListTabContentTotalEstimated } from "akasha/temper/web/phrase/pages/shopping-list-tab-content-total-estimated.temper-web-phrase.ts"
+import { goldIn } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+import { ShoppingAbandonTripDialog } from "akasha/temper/web/player-economics-ui/modules/shopping-abandon-trip-dialog/shopping-abandon-trip-dialog.module.code.tsx"
+import { ShoppingListEmptyCard } from "akasha/temper/web/player-economics-ui/modules/shopping-list-empty-card/shopping-list-empty-card.module.code.tsx"
 import {
   buildCategoryGroups,
   buildMissingItemDisplays,
@@ -48,12 +36,12 @@ import type {
   UpdateShoppingMarks,
 } from "akasha/temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { ShoppingRouteOverviewPanelCard } from "akasha/temper/web/player-economics-ui/modules/shopping-route-overview-panel-card/shopping-route-overview-panel-card.module.code.tsx"
+import { ShoppingSearchProgress } from "akasha/temper/web/player-economics-ui/modules/shopping-search-progress/shopping-search-progress.module.code.tsx"
 import { ShoppingTripCompletePanelCard } from "akasha/temper/web/player-economics-ui/modules/shopping-trip-complete-panel-card/shopping-trip-complete-panel-card.module.code.tsx"
 import { useCompanionShoppingData } from "akasha/temper/web/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.code.ts"
 import type { ShoppingList } from "akasha/temper/web/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
 import { useShoppingOptimizer } from "akasha/temper/web/player-economics-ui/modules/use-shopping-optimizer/use-shopping-optimizer.module.code.ts"
 import { PricingRegionNote } from "akasha/temper/web/player-inventory-management-ui/modules/pricing-region-note/pricing-region-note.module.code.tsx"
-import { ShoppingCart } from "lucide-react"
 import { Fragment, useCallback, useMemo, useState } from "react"
 
 interface ShoppingListTabContentProps {
@@ -71,6 +59,13 @@ export function ShoppingListTabContent({
 }: ShoppingListTabContentProps) {
   const { unownedNeeds, pricing, slotPriceMap, blendedPriceMap, regionNote, pricingRegion } =
     useCompanionShoppingData(userId)
+  const phrase = usePhrase()
+  const categoryTree = useItemCategoryTree()
+  const categoryName = (slug: string): string => {
+    if (categoryTree === null) return ""
+    const found = categoryTree.keyed.companion?.children?.find((one) => one.id === slug)
+    return found?.name ?? slug
+  }
   const [expandedCategories, setExpandedCategories] = useState<Set<string>>(new Set())
   const [showClearConfirm, setShowClearConfirm] = useState(false)
 
@@ -102,8 +97,8 @@ export function ShoppingListTabContent({
   const ttcRead = heldCompanionGearTtc()
 
   const categories = useMemo(
-    () => buildCategoryGroups(listedNeeds, slotPriceMap, blendedPriceMap),
-    [listedNeeds, slotPriceMap, blendedPriceMap, ttcRead]
+    () => buildCategoryGroups(listedNeeds, slotPriceMap, blendedPriceMap, phrase),
+    [listedNeeds, slotPriceMap, blendedPriceMap, ttcRead, phrase]
   )
 
   const totalCost = useMemo(() => {
@@ -119,8 +114,14 @@ export function ShoppingListTabContent({
   const allKeys = useMemo(() => listedNeeds.map((n) => n.key), [listedNeeds])
 
   const missingGroupedItems = useMemo(
-    () => buildMissingItemDisplays(optimizer.state.plan, optimizer.state.missingItems, listedNeeds),
-    [optimizer.state.plan, optimizer.state.missingItems, listedNeeds]
+    () =>
+      buildMissingItemDisplays(
+        optimizer.state.plan,
+        optimizer.state.missingItems,
+        listedNeeds,
+        phrase
+      ),
+    [optimizer.state.plan, optimizer.state.missingItems, listedNeeds, phrase]
   )
 
   const handleFindListings = useCallback(() => {
@@ -165,7 +166,7 @@ export function ShoppingListTabContent({
     return (
       <PanelToggleProvider>
         <div className="flex flex-col gap-6">
-          <PageTabHeader title="Shopping List" subtitle={regionHint} />
+          <PageTabHeader title={phrase(shoppingListTabContentTitle.slug)} subtitle={regionHint} />
           <ShoppingTripCompletePanelCard
             spentTotal={optimizer.state.spentTotal}
             purchasedCount={optimizer.state.purchasedCount}
@@ -181,22 +182,8 @@ export function ShoppingListTabContent({
     return (
       <PanelToggleProvider>
         <div className="flex flex-col gap-6">
-          <PageTabHeader title="Shopping List" subtitle={regionHint} />
-          <Card>
-            <CardContent>
-              <Empty>
-                <EmptyHeader>
-                  <EmptyMedia variant="icon">
-                    <ShoppingCart />
-                  </EmptyMedia>
-                  <EmptyTitle>Shopping list is empty</EmptyTitle>
-                  <EmptyDescription>
-                    Add items from the Companion tab to start building your shopping list.
-                  </EmptyDescription>
-                </EmptyHeader>
-              </Empty>
-            </CardContent>
-          </Card>
+          <PageTabHeader title={phrase(shoppingListTabContentTitle.slug)} subtitle={regionHint} />
+          <ShoppingListEmptyCard />
         </div>
       </PanelToggleProvider>
     )
@@ -205,12 +192,12 @@ export function ShoppingListTabContent({
   return (
     <PanelToggleProvider>
       <div className="flex flex-col gap-6">
-        <PageTabHeader title="Shopping List" subtitle={regionHint} />
+        <PageTabHeader title={phrase(shoppingListTabContentTitle.slug)} subtitle={regionHint} />
         <ResponsiveColumns hasSummaryPanel>
           <PanelCard
             id="shopping-list"
             collapsible
-            title="Shopping List"
+            title={phrase(shoppingListTabContentTitle.slug)}
             headerSubtitle={
               <CardTitleBadges>
                 <ButtonBadge
@@ -226,7 +213,11 @@ export function ShoppingListTabContent({
                   disabled={!isSearching && listedNeeds.length === 0}
                   className="disabled:cursor-not-allowed disabled:opacity-38"
                 >
-                  {isSearching ? "Stop Search" : "Find Listings"}
+                  {phrase(
+                    isSearching
+                      ? shoppingListTabContentStopSearch.slug
+                      : shoppingListTabContentFindListings.slug
+                  )}
                 </ButtonBadge>
                 <ButtonBadge
                   variant="elevation-muted"
@@ -235,16 +226,16 @@ export function ShoppingListTabContent({
                     handleClearListClick()
                   }}
                 >
-                  Clear List
+                  {phrase(shoppingListTabContentClearList.slug)}
                 </ButtonBadge>
               </CardTitleBadges>
             }
           >
             <div className="flex flex-col gap-1.5">
               <ItemRow
-                label="Total Estimated"
+                label={phrase(shoppingListTabContentTotalEstimated.slug)}
                 quantity={listedNeeds.length}
-                value={totalCost !== null ? `${formatGold(totalCost)}g` : undefined}
+                value={totalCost !== null ? goldIn(phrase, totalCost) : undefined}
                 accent
                 actionButtonCount={2}
               />
@@ -253,9 +244,9 @@ export function ShoppingListTabContent({
                 return (
                   <Fragment key={cat.category}>
                     <ItemRow
-                      label={cat.category}
+                      label={categoryName(cat.category)}
                       quantity={cat.totalCount}
-                      value={cat.totalCost != null ? `${formatGold(cat.totalCost)}g` : undefined}
+                      value={cat.totalCost != null ? goldIn(phrase, cat.totalCost) : undefined}
                       actionButtonCount={2}
                       onRemove={() =>
                         shoppingList.removeAll(cat.items.flatMap((item) => item.keys))
@@ -285,7 +276,7 @@ export function ShoppingListTabContent({
                           }
                           quantity={item.count > 1 ? item.count : undefined}
                           value={
-                            item.unitPrice != null ? `${formatGold(item.unitPrice)}g` : undefined
+                            item.unitPrice != null ? goldIn(phrase, item.unitPrice) : undefined
                           }
                           depth={1}
                           actionButtonCount={2}
@@ -296,20 +287,7 @@ export function ShoppingListTabContent({
                 )
               })}
             </div>
-            {isSearching && (
-              <div className="flex flex-col gap-2 pt-3">
-                <Progress value={optimizer.state.progress} />
-                <Text variant="caption">
-                  Searching items ({optimizer.state.searchCompleted} / {optimizer.state.searchTotal}
-                  )
-                </Text>
-              </div>
-            )}
-            {optimizer.state.status === "error" && (
-              <Text variant="caption" className="pt-2 text-orange">
-                {optimizer.state.error}
-              </Text>
-            )}
+            <ShoppingSearchProgress state={optimizer.state} />
           </PanelCard>
           {isComplete && (
             <ShoppingRouteOverviewPanelCard
@@ -340,24 +318,13 @@ export function ShoppingListTabContent({
             />
           )}
         </ResponsiveColumns>
-        <AlertDialog open={showClearConfirm} onOpenChange={setShowClearConfirm}>
-          <AlertDialogContent>
-            <AlertDialogHeader>
-              <AlertDialogTitle>Abandon shopping trip?</AlertDialogTitle>
-              <AlertDialogDescription>
-                You've spent {formatGold(optimizer.state.spentTotal)}g on{" "}
-                {optimizer.state.purchasedCount} item(s) so far. Clearing the list discards this
-                trip and its progress.
-              </AlertDialogDescription>
-            </AlertDialogHeader>
-            <AlertDialogFooter>
-              <AlertDialogCancel>Keep Trip</AlertDialogCancel>
-              <AlertDialogAction variant="destructive" onClick={handleConfirmClear}>
-                Clear List
-              </AlertDialogAction>
-            </AlertDialogFooter>
-          </AlertDialogContent>
-        </AlertDialog>
+        <ShoppingAbandonTripDialog
+          open={showClearConfirm}
+          onOpenChange={setShowClearConfirm}
+          spentTotal={optimizer.state.spentTotal}
+          purchasedCount={optimizer.state.purchasedCount}
+          onConfirm={handleConfirmClear}
+        />
       </div>
     </PanelToggleProvider>
   )

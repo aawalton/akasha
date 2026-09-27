@@ -6305,7 +6305,15 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.ts","id":"01a06270-883d-7001-a3e2-19a44697e51c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.ts","id":"01a06267-372c-7002-bf32-c613086380b1"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.ts","id":"01a06363-f687-70fb-8023-b311dc463a1b"}
+{"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.ts","id":"01a063a1-8cc1-7000-b772-229eab01131b"}
+{"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.ts","id":"01a063a1-8cc1-7001-9790-51327f6c3879"}
+{"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.ts","id":"01a063a1-8cc1-7002-9ca6-b359c4f2532f"}
+{"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.ts","id":"01a063a1-8cc1-7003-97fa-84c90d755406"}
+{"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/shopping-abandon-trip-dialog/shopping-abandon-trip-dialog.module.ts","id":"01a0e2a8-fbc3-7820-9c5f-79e837e1e920"}
+{"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/shopping-list-empty-card/shopping-list-empty-card.module.ts","id":"01a0e2a8-fbc3-7adb-af1c-5d3efab1dcda"}
+{"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/shopping-list-grouping/shopping-list-grouping.module.ts","id":"01a063a1-8cc1-7005-876e-c44fdd6786cf"}
 {"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/shopping-list-tab-content/shopping-list-tab-content.module.ts","id":"01a063a1-8cc1-7006-9e30-88a844c05bf5"}
+{"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/shopping-search-progress/shopping-search-progress.module.ts","id":"01a0e2a8-fbc3-7ba2-8b6c-96af28c8da83"}
 {"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.ts","id":"01a063a1-8cc1-7010-8b74-d5f6fa0b08d5"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/action-filter-cascades/action-filter-cascades.module.ts","id":"01a0636c-5d96-7661-9fd2-10320c6d0000"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/action-options/action-options.module.ts","id":"01a0636c-5d96-7dc6-a22c-810f2f640002"}

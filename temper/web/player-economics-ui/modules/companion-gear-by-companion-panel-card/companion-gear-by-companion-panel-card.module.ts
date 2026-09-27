@@ -6,4 +6,10 @@ export const companionGearByCompanionPanelCard = {
   slug: "companion-gear-by-companion-panel-card",
   definition: "the gear a player still needs, filed under each companion",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card's wording is read from phrase pages rather than written in its code.",
+    },
+  ],
 } as const satisfies Module

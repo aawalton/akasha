@@ -6,4 +6,10 @@ export const companionGearByPricePanelCard = {
   slug: "companion-gear-by-price-panel-card",
   definition: "the gear a player still needs, filed by what it costs",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A price bucket is held by id, and its label is read from phrase pages.",
+    },
+  ],
 } as const satisfies Module
