@@ -5,6 +5,8 @@ export const fargraveGuardian = {
   type: "page-type/temper-motif-style",
   slug: "fargrave-guardian",
   title: "Fargrave Guardian",
+  esoItemStyleId: 126,
+  styleName: "Fargrave Guardian",
   collectionIndex: 93,
   sourceDescription: "WB dailies (Deadlands/Fargrave)",
   dropSources: [
