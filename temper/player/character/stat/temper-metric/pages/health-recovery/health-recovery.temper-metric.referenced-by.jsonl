@@ -1,2 +1,13 @@
 {"propertySlug":"base-stat-metric","path":"temper/player/character/source/temper-base-stat/pages/health-recovery.temper-base-stat.ts","id":"01a0df49-5528-7d69-82a8-f27c04515bd5"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/artaeum-takeaway-broth.temper-food-or-drink.ts","id":"01a0e05d-1464-7d67-b9b1-f8f0edd3695e"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/bergama-warning-fire.temper-food-or-drink.ts","id":"01a0e05d-1464-7ffb-92dd-254fce5b989f"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/bewitched-sugar-skulls.temper-food-or-drink.ts","id":"01a0e05d-1464-7b80-a320-3cbbbaa47214"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/camlorn-sweet-brown-ale.temper-food-or-drink.ts","id":"01a0e05d-1464-7c49-b2a7-adff345f903a"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/clockwork-citrus-filet.temper-food-or-drink.ts","id":"01a0e05d-1464-7066-9988-db86dee1e705"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/corrupting-bloody-mara.temper-food-or-drink.ts","id":"01a0e05d-1464-758d-a3e1-8b0e32e4b955"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/crown-refreshing-drink.temper-food-or-drink.ts","id":"01a0e05d-1464-7b7c-84ef-76d3bd63d173"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/frosted-brains.temper-food-or-drink.ts","id":"01a0e05d-1464-7bc9-9534-c5ce2381801f"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/markarth-mead.temper-food-or-drink.ts","id":"01a0e05d-1465-7911-970c-f7e9b36a89be"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/orzorgas-smoked-bear-haunch.temper-food-or-drink.ts","id":"01a0e05d-1465-7b7f-9c6f-a5f4983d90f0"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/port-hunding-pinot-noir.temper-food-or-drink.ts","id":"01a0e05d-1465-7be8-9381-ae35dcd0ccc7"}
 {"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-mundus-stone/pages/the-steed.temper-mundus-stone.ts","id":"01a0df6c-b4e2-799a-8a51-ef30623fc33d"}

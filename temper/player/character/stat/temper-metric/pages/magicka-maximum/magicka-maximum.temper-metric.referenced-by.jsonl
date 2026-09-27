@@ -1,3 +1,17 @@
 {"propertySlug":"base-stat-metric","path":"temper/player/character/source/temper-base-stat/pages/magicka-maximum.temper-base-stat.ts","id":"01a0df49-5528-7cf5-85a0-a2704a5f375c"}
 {"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-attribute/pages/magicka.temper-attribute.ts","id":"01a0e057-42d1-7347-89a7-0153e02b3904"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/artaeum-pickled-fish-bowl.temper-food-or-drink.ts","id":"01a0e05d-1463-7e0e-b68a-576b597afc24"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/bewitched-sugar-skulls.temper-food-or-drink.ts","id":"01a0e05d-1464-7b80-a320-3cbbbaa47214"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/clockwork-citrus-filet.temper-food-or-drink.ts","id":"01a0e05d-1464-7066-9988-db86dee1e705"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/corrupting-bloody-mara.temper-food-or-drink.ts","id":"01a0e05d-1464-758d-a3e1-8b0e32e4b955"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/crown-fortifying-meal.temper-food-or-drink.ts","id":"01a0e05d-1464-763a-bc76-844234e2287e"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/crunchy-spider-skewer.temper-food-or-drink.ts","id":"01a0e05d-1464-7d5a-bfe6-4f32734d295b"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/firsthold-fruit-and-cheese-plate.temper-food-or-drink.ts","id":"01a0e05d-1464-757e-ac5a-7f21376f56ad"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/frosted-brains.temper-food-or-drink.ts","id":"01a0e05d-1464-7bc9-9534-c5ce2381801f"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/ghastly-eye-bowl.temper-food-or-drink.ts","id":"01a0e05d-1464-7fe2-afea-f88015b9d459"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/invigorated-stewed-merringar.temper-food-or-drink.ts","id":"01a0e05d-1465-770d-b62a-7c00214eafb8"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/mistral-banana-bunny-hash.temper-food-or-drink.ts","id":"01a0e05d-1465-7863-9b12-aa1c83497b20"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/purifying-bloody-mara.temper-food-or-drink.ts","id":"01a0e05d-1465-72ad-a6a7-0496f2c441e6"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/spring-loaded-infusion.temper-food-or-drink.ts","id":"01a0e05d-1465-7c37-be8a-e8893f952b65"}
+{"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/witchmothers-potent-brew.temper-food-or-drink.ts","id":"01a0e05d-1465-7d23-b2c3-72aa511b0df0"}
 {"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-mundus-stone/pages/the-mage.temper-mundus-stone.ts","id":"01a0df6c-b4e2-723c-98f6-64281137ce93"}
