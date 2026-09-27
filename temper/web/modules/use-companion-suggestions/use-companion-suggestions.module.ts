@@ -6,4 +6,11 @@ export const useCompanionSuggestions = {
   slug: "use-companion-suggestions",
   definition: "what a companion could change, worked out from its build",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The suggestions are worked out again whenever the companion or stat catalogue is read again.",
+    },
+  ],
 } as const satisfies Module

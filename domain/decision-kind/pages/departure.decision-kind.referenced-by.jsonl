@@ -6162,7 +6162,9 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-build-sync/use-build-sync.module.ts","id":"01a0640f-8510-7137-a8d9-9ada066e759b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.ts","id":"01a0de52-ecc3-7d27-995b-dd636d5d8cb3"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-companion-gear-ttc/use-companion-gear-ttc.module.ts","id":"01a0e0bf-70b2-701d-b71a-f3e0311fcb51"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-companion-set-target/use-companion-set-target.module.ts","id":"01a0642f-8c3c-7327-a586-7f38b3e81460"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-companion-stats-calculation/use-companion-stats-calculation.module.ts","id":"01a0641f-8bec-7676-815f-cf8474c5046d"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-companion-suggestions/use-companion-suggestions.module.ts","id":"01a0641f-8bec-7494-8de4-af5227c3f0e5"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-bodies/use-completion-bodies.module.ts","id":"01a076b9-598a-7c82-b905-b629a56a823f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.ts","id":"01a06421-f74b-780d-8790-490781880039"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}

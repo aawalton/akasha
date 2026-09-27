@@ -18,6 +18,7 @@ import {
   extractCompanionMetadata,
 } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useMemo, useState, useTransition } from "react"
@@ -48,6 +49,7 @@ export function useCompanionSetTarget({
   const { setTarget } = useCompanionLifecycle()
 
   const buildMap = useMemo(() => new Map(companionBuilds.map((b) => [b.id, b])), [companionBuilds])
+  const catalog = useHeldCompanionCatalog()
 
   const computeSetTargetArgs = (entityId: string) => {
     const entity = completionCompanions.find((e) => e.id === entityId)
@@ -134,7 +136,7 @@ export function useCompanionSetTarget({
           targetManuallyEdited,
         }
       })
-  }, [isAuthenticated, completionCompanions, buildMap, companionId])
+  }, [isAuthenticated, completionCompanions, buildMap, companionId, catalog])
 
   const handleSetTarget = () => {
     const entity = setTargetEntities[0]

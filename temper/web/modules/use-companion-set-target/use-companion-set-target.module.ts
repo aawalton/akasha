@@ -6,4 +6,11 @@ export const useCompanionSetTarget = {
   slug: "use-companion-set-target",
   definition: "how a companion's target is set",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The companions offered are worked out again whenever the companion catalogue is read again.",
+    },
+  ],
 } as const satisfies Module
