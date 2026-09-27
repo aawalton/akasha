@@ -16,4 +16,5 @@ export const image299732a3fc47d466 = {
   poseTags: ["pose-tag/profile", "pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

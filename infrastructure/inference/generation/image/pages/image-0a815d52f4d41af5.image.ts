@@ -10,4 +10,5 @@ export const image0a815d52f4d41af5 = {
   poseTags: ["pose-tag/standing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/magic"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

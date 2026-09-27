@@ -27,4 +27,5 @@ export const image48ac7b246315bee0 = {
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/dragon-horns", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

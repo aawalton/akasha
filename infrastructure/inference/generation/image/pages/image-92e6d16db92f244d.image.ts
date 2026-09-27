@@ -14,4 +14,5 @@ export const image92e6d16db92f244d = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

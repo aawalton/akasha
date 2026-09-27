@@ -16,4 +16,5 @@ export const imageAce3801b342a1c4b = {
     "wardrobe-tag/skirt",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

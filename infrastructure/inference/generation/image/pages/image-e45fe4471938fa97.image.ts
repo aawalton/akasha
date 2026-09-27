@@ -10,4 +10,5 @@ export const imageE45fe4471938fa97 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

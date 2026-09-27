@@ -11,4 +11,5 @@ export const image1dfaead07d468fc1 = {
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/sheer", "wardrobe-tag/dress"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

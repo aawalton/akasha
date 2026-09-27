@@ -20,4 +20,5 @@ export const image10512fe73f54f123 = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/glasses"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

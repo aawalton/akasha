@@ -11,4 +11,5 @@ export const image20e0a26face417a0 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk", "fantasy-tag/android"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const imageEe978241d146a68c = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cloak", "wardrobe-tag/gown"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image52018ee167f1d5df = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

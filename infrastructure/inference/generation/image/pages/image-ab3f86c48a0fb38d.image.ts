@@ -22,4 +22,5 @@ export const imageAb3f86c48a0fb38d = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/writing-on-skin"],
   fantasyTags: ["fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

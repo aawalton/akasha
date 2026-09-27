@@ -21,4 +21,5 @@ export const image6c8837fefb58b30d = {
   poseTags: ["pose-tag/looking-up", "pose-tag/profile", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image55df47c8187bac96 = {
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

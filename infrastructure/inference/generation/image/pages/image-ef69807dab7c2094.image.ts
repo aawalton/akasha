@@ -18,4 +18,5 @@ export const imageEf69807dab7c2094 = {
   ],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

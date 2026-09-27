@@ -10,4 +10,5 @@ export const image0879a61b166b70fa = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/back-view", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

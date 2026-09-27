@@ -21,4 +21,5 @@ export const image34ce6c47d84b42ad = {
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

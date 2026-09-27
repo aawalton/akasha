@@ -10,4 +10,5 @@ export const image26976c2dc539f7a3 = {
   poseTags: ["pose-tag/kissing", "pose-tag/leaning", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/t-shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image3a5acc7cc1c48d26 = {
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/choker", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

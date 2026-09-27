@@ -20,4 +20,5 @@ export const image083fd8b4614788c3 = {
     "wardrobe-tag/partial-undress",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image454f3d03d8623e0c = {
   poseTags: ["pose-tag/stretching", "pose-tag/bent-over"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

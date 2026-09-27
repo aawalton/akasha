@@ -15,4 +15,5 @@ export const imageA0859737974b650d = {
   ],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/sleeveless", "wardrobe-tag/high-slit"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image08876b2f0a7fbaa4 = {
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

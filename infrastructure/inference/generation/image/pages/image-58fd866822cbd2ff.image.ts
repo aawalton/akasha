@@ -11,4 +11,5 @@ export const image58fd866822cbd2ff = {
   poseTags: ["pose-tag/eating", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/backless", "wardrobe-tag/cleavage"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

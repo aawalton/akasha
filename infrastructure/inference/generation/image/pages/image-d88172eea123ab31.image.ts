@@ -10,4 +10,5 @@ export const imageD88172eea123ab31 = {
   poseTags: ["pose-tag/standing", "pose-tag/hands-on-chest", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

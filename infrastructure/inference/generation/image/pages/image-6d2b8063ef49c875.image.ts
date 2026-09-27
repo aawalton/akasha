@@ -21,4 +21,5 @@ export const image6d2b8063ef49c875 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/bikini", "wardrobe-tag/bare-midriff"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

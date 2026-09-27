@@ -17,4 +17,5 @@ export const imageEd8732aea96672cc = {
   ],
   fantasyTags: ["fantasy-tag/cyberpunk"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

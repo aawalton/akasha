@@ -21,4 +21,5 @@ export const image86c76350e87e6a3c = {
   poseTags: ["pose-tag/kissing", "pose-tag/bathing", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

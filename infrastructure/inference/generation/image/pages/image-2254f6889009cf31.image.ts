@@ -21,4 +21,5 @@ export const image2254f6889009cf31 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/lying-on-stomach", "pose-tag/sleeping"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

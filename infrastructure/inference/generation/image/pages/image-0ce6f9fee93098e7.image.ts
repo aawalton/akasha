@@ -21,4 +21,5 @@ export const image0ce6f9fee93098e7 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/surreal"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

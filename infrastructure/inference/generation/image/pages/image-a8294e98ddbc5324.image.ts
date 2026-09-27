@@ -16,4 +16,5 @@ export const imageA8294e98ddbc5324 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless", "wardrobe-tag/body-paint"],
   ethnicityTags: ["ethnicity-tag/mixed", "ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

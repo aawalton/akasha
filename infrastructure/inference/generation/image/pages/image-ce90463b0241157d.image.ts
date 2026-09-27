@@ -12,4 +12,5 @@ export const imageCe90463b0241157d = {
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/bikini", "wardrobe-tag/wet"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

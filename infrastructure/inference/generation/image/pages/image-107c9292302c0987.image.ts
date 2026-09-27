@@ -11,4 +11,5 @@ export const image107c9292302c0987 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/high-neck", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

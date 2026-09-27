@@ -26,4 +26,5 @@ export const image5b4bf58f50c1d8ce = {
   ],
   fantasyTags: ["fantasy-tag/animal-ears"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

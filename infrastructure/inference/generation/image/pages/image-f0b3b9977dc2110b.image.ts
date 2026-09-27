@@ -15,4 +15,5 @@ export const imageF0b3b9977dc2110b = {
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

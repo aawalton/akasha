@@ -22,4 +22,5 @@ export const image9450c7d9d8e3d9c6 = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

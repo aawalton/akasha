@@ -10,4 +10,5 @@ export const image7cb27d57ee03b313 = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageEcb0ca557bf389ec = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/sheet"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

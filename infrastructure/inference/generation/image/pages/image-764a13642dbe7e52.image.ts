@@ -20,4 +20,5 @@ export const image764a13642dbe7e52 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

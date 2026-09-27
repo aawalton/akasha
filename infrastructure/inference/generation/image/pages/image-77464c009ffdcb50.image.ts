@@ -20,4 +20,5 @@ export const image77464c009ffdcb50 = {
     "wardrobe-tag/bare-midriff",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

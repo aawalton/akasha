@@ -11,4 +11,5 @@ export const imageAfcad2bcc8116340 = {
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/skirt", "wardrobe-tag/crop-top"],
   fantasyTags: ["fantasy-tag/horns"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

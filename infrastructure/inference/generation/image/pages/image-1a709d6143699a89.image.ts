@@ -10,4 +10,5 @@ export const image1a709d6143699a89 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-raised", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

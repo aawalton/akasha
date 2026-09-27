@@ -22,4 +22,5 @@ export const imageEcd59a7336267f27 = {
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/jeans", "wardrobe-tag/casual-wear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

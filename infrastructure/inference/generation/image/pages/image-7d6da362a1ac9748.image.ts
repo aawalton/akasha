@@ -12,4 +12,5 @@ export const image7d6da362a1ac9748 = {
   poseTags: ["pose-tag/running", "pose-tag/walking", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/sneakers"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image3c3baf1989cdfdef = {
   poseTags: ["pose-tag/kissing", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jeans"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageB24f6a739fd9a52e = {
   ],
   wardrobeTags: ["wardrobe-tag/shorts", "wardrobe-tag/cardigan", "wardrobe-tag/sports-bra"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

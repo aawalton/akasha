@@ -21,4 +21,5 @@ export const image48545ef7353de05a = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

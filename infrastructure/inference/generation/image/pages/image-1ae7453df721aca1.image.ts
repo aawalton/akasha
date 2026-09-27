@@ -21,4 +21,5 @@ export const image1ae7453df721aca1 = {
   poseTags: ["pose-tag/profile", "pose-tag/back-view", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

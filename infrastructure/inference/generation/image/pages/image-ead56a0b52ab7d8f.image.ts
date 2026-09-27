@@ -12,4 +12,5 @@ export const imageEad56a0b52ab7d8f = {
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless", "wardrobe-tag/choker"],
   fantasyTags: ["fantasy-tag/purple-eyes", "fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageFe4d6327d582e467 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/latex", "wardrobe-tag/stockings"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/demon"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

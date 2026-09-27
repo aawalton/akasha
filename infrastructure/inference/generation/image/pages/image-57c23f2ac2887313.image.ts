@@ -15,4 +15,5 @@ export const image57c23f2ac2887313 = {
     "wardrobe-tag/off-shoulder",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image41575e19003127ae = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/black"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

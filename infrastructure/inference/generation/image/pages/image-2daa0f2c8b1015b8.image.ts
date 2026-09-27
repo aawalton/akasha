@@ -31,4 +31,5 @@ export const image2daa0f2c8b1015b8 = {
     "fantasy-tag/fire",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

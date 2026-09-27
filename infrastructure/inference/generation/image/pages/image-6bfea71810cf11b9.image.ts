@@ -15,4 +15,5 @@ export const image6bfea71810cf11b9 = {
     "wardrobe-tag/hair-accessory",
   ],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image205a366e5f8392da = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

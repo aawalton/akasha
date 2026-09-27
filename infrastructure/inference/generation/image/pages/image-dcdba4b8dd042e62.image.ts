@@ -10,4 +10,5 @@ export const imageDcdba4b8dd042e62 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/tongue-out", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

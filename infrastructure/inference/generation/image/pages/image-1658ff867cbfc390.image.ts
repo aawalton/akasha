@@ -21,4 +21,5 @@ export const image1658ff867cbfc390 = {
   wardrobeTags: ["wardrobe-tag/saree"],
   fantasyTags: ["fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

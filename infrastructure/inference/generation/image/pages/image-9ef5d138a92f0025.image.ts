@@ -20,4 +20,5 @@ export const image9ef5d138a92f0025 = {
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sundress", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

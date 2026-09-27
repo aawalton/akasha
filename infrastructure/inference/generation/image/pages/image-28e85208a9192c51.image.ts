@@ -21,4 +21,5 @@ export const image28e85208a9192c51 = {
   poseTags: ["pose-tag/legs-up", "pose-tag/reclining", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

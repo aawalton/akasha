@@ -20,4 +20,5 @@ export const image20e8e872c6780418 = {
   poseTags: ["pose-tag/close-up", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

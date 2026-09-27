@@ -22,4 +22,5 @@ export const imageB1a33f89bf11e286 = {
   ],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

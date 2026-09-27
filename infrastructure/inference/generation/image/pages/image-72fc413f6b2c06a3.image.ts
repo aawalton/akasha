@@ -11,4 +11,5 @@ export const image72fc413f6b2c06a3 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/jeans"],
   fantasyTags: ["fantasy-tag/purple-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image55bbee960205666c = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/body-paint", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

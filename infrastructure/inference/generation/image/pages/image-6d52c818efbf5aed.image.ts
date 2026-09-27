@@ -15,4 +15,5 @@ export const image6d52c818efbf5aed = {
     "wardrobe-tag/writing-on-skin",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

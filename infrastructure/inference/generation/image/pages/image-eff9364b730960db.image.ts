@@ -14,4 +14,5 @@ export const imageEff9364b730960db = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

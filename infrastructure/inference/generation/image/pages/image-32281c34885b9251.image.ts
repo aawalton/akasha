@@ -21,4 +21,5 @@ export const image32281c34885b9251 = {
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/angel", "fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/demon"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

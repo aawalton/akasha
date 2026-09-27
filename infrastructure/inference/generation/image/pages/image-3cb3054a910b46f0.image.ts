@@ -16,4 +16,5 @@ export const image3cb3054a910b46f0 = {
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/warrior", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const image2d988033ee91a868 = {
   poseTags: ["pose-tag/reclining", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

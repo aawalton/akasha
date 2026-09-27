@@ -13,4 +13,5 @@ export const image2003be33dc827e7c = {
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/dress", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

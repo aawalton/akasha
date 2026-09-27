@@ -11,4 +11,5 @@ export const image96130ce03b9cb843 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34", "age-tag/age-18-24"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const image9855f07f18e51ef1 = {
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

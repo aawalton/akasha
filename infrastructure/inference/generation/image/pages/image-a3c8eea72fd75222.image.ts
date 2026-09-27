@@ -16,4 +16,5 @@ export const imageA3c8eea72fd75222 = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headphones"],
   fantasyTags: ["fantasy-tag/fire"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

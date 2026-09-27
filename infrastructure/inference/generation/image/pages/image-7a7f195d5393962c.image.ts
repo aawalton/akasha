@@ -11,4 +11,5 @@ export const image7a7f195d5393962c = {
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sheer-dress", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

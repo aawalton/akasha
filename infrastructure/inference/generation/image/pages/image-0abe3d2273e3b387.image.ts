@@ -10,4 +10,5 @@ export const image0abe3d2273e3b387 = {
   poseTags: ["pose-tag/kissing", "pose-tag/reclining", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/panties"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

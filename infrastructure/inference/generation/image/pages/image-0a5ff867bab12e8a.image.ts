@@ -12,4 +12,5 @@ export const image0a5ff867bab12e8a = {
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/deep-v-neck", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

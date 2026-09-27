@@ -11,4 +11,5 @@ export const imageFe7e2188200013cd = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/sweatpants", "wardrobe-tag/loungewear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

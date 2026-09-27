@@ -10,4 +10,5 @@ export const imageAbe87ad1a7eaec56 = {
   poseTags: ["pose-tag/kissing", "pose-tag/reclining", "pose-tag/lying-down", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

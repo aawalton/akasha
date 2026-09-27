@@ -10,4 +10,5 @@ export const image4f56a2d0cec28d4a = {
   poseTags: ["pose-tag/stretching", "pose-tag/arms-raised", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

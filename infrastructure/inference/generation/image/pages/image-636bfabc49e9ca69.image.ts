@@ -26,4 +26,5 @@ export const image636bfabc49e9ca69 = {
     "fantasy-tag/bioluminescence",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

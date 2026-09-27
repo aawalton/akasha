@@ -21,4 +21,5 @@ export const image857e310d9bf04c95 = {
   wardrobeTags: ["wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

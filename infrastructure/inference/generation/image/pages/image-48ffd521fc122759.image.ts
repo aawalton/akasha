@@ -26,4 +26,5 @@ export const image48ffd521fc122759 = {
   ],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/hat"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

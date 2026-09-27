@@ -21,4 +21,5 @@ export const image5bae30b5b3741ddd = {
   wardrobeTags: ["wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/nature-spirit", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

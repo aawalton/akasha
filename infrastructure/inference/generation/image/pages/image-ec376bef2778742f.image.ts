@@ -10,4 +10,5 @@ export const imageEc376bef2778742f = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/topless", "wardrobe-tag/backless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image4458fefaaa51d19b = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

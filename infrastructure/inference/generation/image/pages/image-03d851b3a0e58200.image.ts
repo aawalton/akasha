@@ -21,4 +21,5 @@ export const image03d851b3a0e58200 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/holding-drink", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/kimono"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

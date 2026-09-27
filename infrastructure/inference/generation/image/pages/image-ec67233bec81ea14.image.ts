@@ -10,4 +10,5 @@ export const imageEc67233bec81ea14 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/masturbation", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

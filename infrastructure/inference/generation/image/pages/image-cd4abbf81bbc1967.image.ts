@@ -10,4 +10,5 @@ export const imageCd4abbf81bbc1967 = {
   poseTags: ["pose-tag/bent-over", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

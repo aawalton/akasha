@@ -18,4 +18,5 @@ export const image65f5279d20f0e0db = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

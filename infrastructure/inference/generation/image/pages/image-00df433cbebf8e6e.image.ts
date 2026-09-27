@@ -11,4 +11,5 @@ export const image00df433cbebf8e6e = {
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/gold-trim", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

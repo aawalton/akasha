@@ -12,4 +12,5 @@ export const image6993dadec55581e2 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

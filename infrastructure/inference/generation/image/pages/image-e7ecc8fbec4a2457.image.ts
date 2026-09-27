@@ -17,4 +17,5 @@ export const imageE7ecc8fbec4a2457 = {
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/holding-drink"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt", "wardrobe-tag/casual-wear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

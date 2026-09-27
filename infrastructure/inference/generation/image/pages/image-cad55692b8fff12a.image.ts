@@ -12,4 +12,5 @@ export const imageCad55692b8fff12a = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nipples-visible", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageB560fa98497b782f = {
   poseTags: ["pose-tag/kneeling", "pose-tag/eating", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

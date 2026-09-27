@@ -21,4 +21,5 @@ export const imageE17bb1dbb59e756b = {
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageDd4de94654b742de = {
   poseTags: ["pose-tag/sex", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

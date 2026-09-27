@@ -20,4 +20,5 @@ export const image3d80056136921425 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/holding-flowers"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image0c2874f88207d908 = {
   wardrobeTags: ["wardrobe-tag/vest", "wardrobe-tag/shirt", "wardrobe-tag/goggles"],
   fantasyTags: ["fantasy-tag/steampunk"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

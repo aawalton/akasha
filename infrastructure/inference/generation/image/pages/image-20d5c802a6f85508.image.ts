@@ -21,4 +21,5 @@ export const image20d5c802a6f85508 = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/antlers", "fantasy-tag/elf-ears", "fantasy-tag/bioluminescence"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const image2056cab940856db3 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

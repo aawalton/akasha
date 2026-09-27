@@ -21,4 +21,5 @@ export const imageDad182e0d146063b = {
   poseTags: ["pose-tag/kissing", "pose-tag/embracing", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

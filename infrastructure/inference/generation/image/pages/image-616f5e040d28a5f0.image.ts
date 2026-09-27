@@ -16,4 +16,5 @@ export const image616f5e040d28a5f0 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

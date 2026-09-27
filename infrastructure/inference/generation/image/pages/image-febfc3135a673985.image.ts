@@ -10,4 +10,5 @@ export const imageFebfc3135a673985 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/gold-trim", "wardrobe-tag/high-slit"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

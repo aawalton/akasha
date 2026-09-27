@@ -11,4 +11,5 @@ export const imageC1ca60bc88b91426 = {
   poseTags: ["pose-tag/standing", "pose-tag/hands-on-chest", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

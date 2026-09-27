@@ -26,4 +26,5 @@ export const imageF09a41e661e36507 = {
     "fantasy-tag/blue-skin",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

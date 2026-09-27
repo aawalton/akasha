@@ -10,4 +10,5 @@ export const imageCc0a6fc2aa2cab24 = {
   poseTags: ["pose-tag/kissing", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

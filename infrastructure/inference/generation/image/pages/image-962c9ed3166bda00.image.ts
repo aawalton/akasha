@@ -15,4 +15,5 @@ export const image962c9ed3166bda00 = {
     "wardrobe-tag/headband",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

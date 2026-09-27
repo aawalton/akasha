@@ -21,4 +21,5 @@ export const image65c32873fc436fea = {
   poseTags: ["pose-tag/squatting", "pose-tag/reaching", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sweater", "wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

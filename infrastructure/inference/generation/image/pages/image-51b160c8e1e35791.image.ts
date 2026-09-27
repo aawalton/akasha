@@ -10,4 +10,5 @@ export const image51b160c8e1e35791 = {
   poseTags: ["pose-tag/legs-spread", "pose-tag/sex", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

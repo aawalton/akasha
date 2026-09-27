@@ -17,4 +17,5 @@ export const imageAdbec242acb03306 = {
   ],
   fantasyTags: ["fantasy-tag/dragon", "fantasy-tag/scales", "fantasy-tag/monster-girl"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

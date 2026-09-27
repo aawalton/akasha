@@ -21,4 +21,5 @@ export const image476b9dd57d730b60 = {
   poseTags: ["pose-tag/kissing", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

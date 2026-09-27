@@ -10,4 +10,5 @@ export const image9a5c1c73ead21b91 = {
   poseTags: ["pose-tag/fighting"],
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/weapons", "fantasy-tag/monster-girl"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

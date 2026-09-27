@@ -11,4 +11,5 @@ export const imageF1a2726f18e48dcd = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

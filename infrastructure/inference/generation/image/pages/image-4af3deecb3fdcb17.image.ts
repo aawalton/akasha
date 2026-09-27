@@ -29,4 +29,5 @@ export const image4af3deecb3fdcb17 = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/tights"],
   fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/elf-ears", "fantasy-tag/red-eyes"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image16df67249e1af94b = {
   poseTags: ["pose-tag/straddling", "pose-tag/looking-at-viewer", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

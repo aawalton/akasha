@@ -31,4 +31,5 @@ export const imageE92ed7648460a61e = {
   ],
   wardrobeTags: ["wardrobe-tag/bikini"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

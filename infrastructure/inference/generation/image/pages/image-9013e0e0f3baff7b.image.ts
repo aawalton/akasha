@@ -11,4 +11,5 @@ export const image9013e0e0f3baff7b = {
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

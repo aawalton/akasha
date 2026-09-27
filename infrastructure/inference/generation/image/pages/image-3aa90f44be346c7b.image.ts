@@ -12,4 +12,5 @@ export const image3aa90f44be346c7b = {
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/backless", "wardrobe-tag/high-slit"],
   fantasyTags: ["fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

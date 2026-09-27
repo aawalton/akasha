@@ -26,4 +26,5 @@ export const imageAdd3ae215800f7e5 = {
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/cardigan"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

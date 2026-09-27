@@ -10,4 +10,5 @@ export const imageB6b53e217615b520 = {
   poseTags: ["pose-tag/kissing", "pose-tag/embracing", "pose-tag/bathing", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

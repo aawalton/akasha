@@ -12,4 +12,5 @@ export const image2df322f62913eb13 = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/armor", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/mermaid", "fantasy-tag/mythological", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

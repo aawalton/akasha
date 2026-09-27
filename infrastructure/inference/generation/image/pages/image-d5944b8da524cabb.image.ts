@@ -20,4 +20,5 @@ export const imageD5944b8da524cabb = {
   poseTags: ["pose-tag/close-up", "pose-tag/embracing", "pose-tag/eyes-closed", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/black"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

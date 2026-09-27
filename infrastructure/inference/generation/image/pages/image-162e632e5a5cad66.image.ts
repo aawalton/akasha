@@ -11,4 +11,5 @@ export const image162e632e5a5cad66 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

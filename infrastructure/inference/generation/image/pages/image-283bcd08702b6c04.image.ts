@@ -26,4 +26,5 @@ export const image283bcd08702b6c04 = {
     "wardrobe-tag/garter-belt",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

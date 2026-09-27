@@ -25,4 +25,5 @@ export const image92873baf6328c2ef = {
   poseTags: ["pose-tag/standing", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/tights"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

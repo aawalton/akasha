@@ -21,4 +21,5 @@ export const image1d772ce13dbfab88 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-45-plus"],
 } as const satisfies Image

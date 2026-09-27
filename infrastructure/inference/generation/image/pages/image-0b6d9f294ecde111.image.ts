@@ -21,4 +21,5 @@ export const image0b6d9f294ecde111 = {
   wardrobeTags: ["wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

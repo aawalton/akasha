@@ -12,4 +12,5 @@ export const image06f2b8b4e5802e33 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sweatpants", "wardrobe-tag/hoodie"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

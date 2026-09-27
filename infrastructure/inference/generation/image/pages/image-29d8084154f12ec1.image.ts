@@ -10,4 +10,5 @@ export const image29d8084154f12ec1 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/knees-up", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

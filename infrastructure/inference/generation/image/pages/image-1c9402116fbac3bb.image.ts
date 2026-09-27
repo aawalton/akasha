@@ -21,4 +21,5 @@ export const image1c9402116fbac3bb = {
   poseTags: ["pose-tag/sitting", "pose-tag/legs-up", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/shirt", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

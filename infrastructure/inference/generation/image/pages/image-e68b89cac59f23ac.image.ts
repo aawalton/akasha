@@ -20,4 +20,5 @@ export const imageE68b89cac59f23ac = {
   poseTags: ["pose-tag/lying-down", "pose-tag/lying-on-stomach", "pose-tag/selfie"],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/sweater", "wardrobe-tag/sleepwear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

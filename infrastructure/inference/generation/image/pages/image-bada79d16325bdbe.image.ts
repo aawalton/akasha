@@ -20,4 +20,5 @@ export const imageBada79d16325bdbe = {
   poseTags: ["pose-tag/kissing", "pose-tag/cowgirl", "pose-tag/reclining", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

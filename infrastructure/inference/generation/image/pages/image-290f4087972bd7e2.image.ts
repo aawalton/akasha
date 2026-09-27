@@ -12,4 +12,5 @@ export const image290f4087972bd7e2 = {
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/tube-top", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

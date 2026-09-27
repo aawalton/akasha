@@ -16,4 +16,5 @@ export const imageA86bc633a2c0ebc6 = {
   ],
   fantasyTags: ["fantasy-tag/steampunk", "fantasy-tag/android"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

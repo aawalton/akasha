@@ -11,4 +11,5 @@ export const imageA8c4966b62f19d04 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/suit", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk", "fantasy-tag/purple-hair"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

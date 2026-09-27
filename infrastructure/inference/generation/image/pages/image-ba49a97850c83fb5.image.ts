@@ -10,4 +10,5 @@ export const imageBa49a97850c83fb5 = {
   poseTags: ["pose-tag/leaning-forward", "pose-tag/laughing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

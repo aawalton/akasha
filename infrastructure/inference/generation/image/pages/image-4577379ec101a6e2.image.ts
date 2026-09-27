@@ -20,4 +20,5 @@ export const image4577379ec101a6e2 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/all-fours", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

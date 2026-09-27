@@ -27,4 +27,5 @@ export const image35f26039af41756a = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/nature-spirit"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageB8fa61e4700bd7da = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/side-by-side"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/tube-top"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

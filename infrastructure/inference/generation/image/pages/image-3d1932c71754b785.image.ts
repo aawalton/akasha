@@ -10,4 +10,5 @@ export const image3d1932c71754b785 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/bare-shoulders", "wardrobe-tag/backless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

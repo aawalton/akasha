@@ -10,4 +10,5 @@ export const imageF72e49a834f3deaa = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/surreal"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

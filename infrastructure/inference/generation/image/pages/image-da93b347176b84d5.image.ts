@@ -22,4 +22,5 @@ export const imageDa93b347176b84d5 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fur"],
   fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/medieval"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const image6f504587683abf6d = {
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/slip-dress", "wardrobe-tag/sleepwear"],
   fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail", "fantasy-tag/animal-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

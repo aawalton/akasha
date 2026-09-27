@@ -12,4 +12,5 @@ export const image572b36347c785e57 = {
   wardrobeTags: ["wardrobe-tag/gold-trim", "wardrobe-tag/sheet"],
   fantasyTags: ["fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

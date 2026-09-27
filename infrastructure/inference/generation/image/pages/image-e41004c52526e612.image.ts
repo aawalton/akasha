@@ -22,4 +22,5 @@ export const imageE41004c52526e612 = {
   wardrobeTags: ["wardrobe-tag/cloak"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay", "fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

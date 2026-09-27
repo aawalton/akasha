@@ -22,4 +22,5 @@ export const image13d53976c1dff2a2 = {
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/towel"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

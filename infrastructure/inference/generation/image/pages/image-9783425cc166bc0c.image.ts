@@ -11,4 +11,5 @@ export const image9783425cc166bc0c = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/gold-trim", "wardrobe-tag/high-neck"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

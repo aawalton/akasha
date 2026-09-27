@@ -16,4 +16,5 @@ export const image3533ccae932dbcd2 = {
   ],
   fantasyTags: ["fantasy-tag/surreal"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

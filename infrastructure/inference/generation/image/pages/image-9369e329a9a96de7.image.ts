@@ -15,4 +15,5 @@ export const image9369e329a9a96de7 = {
   ],
   fantasyTags: ["fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

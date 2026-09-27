@@ -11,4 +11,5 @@ export const imageB2daaa9bce50e82d = {
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing", "fantasy-tag/ethereal"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image8c8018bd4929a462 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/kissing", "pose-tag/oral-sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

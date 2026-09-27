@@ -20,4 +20,5 @@ export const imageAac732d19270ee7c = {
   poseTags: ["pose-tag/embracing", "pose-tag/eyes-closed", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/bare-shoulders", "wardrobe-tag/backless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

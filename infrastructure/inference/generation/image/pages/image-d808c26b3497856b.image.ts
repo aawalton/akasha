@@ -17,4 +17,5 @@ export const imageD808c26b3497856b = {
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/armor", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/historical", "fantasy-tag/warrior"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

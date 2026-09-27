@@ -16,4 +16,5 @@ export const image1f94b0f3b0513450 = {
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/jewelry", "wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

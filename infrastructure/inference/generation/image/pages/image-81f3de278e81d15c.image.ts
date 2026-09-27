@@ -10,4 +10,5 @@ export const image81f3de278e81d15c = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/monster-girl"],
+  ageTags: ["age-tag/age-45-plus"],
 } as const satisfies Image

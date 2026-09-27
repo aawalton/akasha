@@ -12,4 +12,5 @@ export const image2829b1860b68d4fa = {
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

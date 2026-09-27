@@ -16,4 +16,5 @@ export const image46830b82368426c0 = {
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/high-slit", "wardrobe-tag/backless"],
   fantasyTags: ["fantasy-tag/android", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

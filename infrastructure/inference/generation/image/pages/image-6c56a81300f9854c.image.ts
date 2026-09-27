@@ -11,4 +11,5 @@ export const image6c56a81300f9854c = {
   wardrobeTags: ["wardrobe-tag/bodysuit"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

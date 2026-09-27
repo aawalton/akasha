@@ -15,4 +15,5 @@ export const image372895aadf297267 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34", "age-tag/age-45-plus"],
 } as const satisfies Image

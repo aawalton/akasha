@@ -10,4 +10,5 @@ export const imageEd645c2787d50cea = {
   poseTags: ["pose-tag/straddling", "pose-tag/kneeling", "pose-tag/lying-down", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

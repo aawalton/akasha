@@ -10,4 +10,5 @@ export const image81dd241c5235847e = {
   poseTags: ["pose-tag/sex", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

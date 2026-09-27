@@ -10,4 +10,5 @@ export const imageEf7865f006191800 = {
   poseTags: ["pose-tag/reclining", "pose-tag/reaching", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

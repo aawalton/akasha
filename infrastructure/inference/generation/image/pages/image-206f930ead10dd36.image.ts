@@ -13,4 +13,5 @@ export const image206f930ead10dd36 = {
   wardrobeTags: ["wardrobe-tag/tunic"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

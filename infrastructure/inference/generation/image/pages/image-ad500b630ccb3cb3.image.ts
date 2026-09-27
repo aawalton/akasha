@@ -10,4 +10,5 @@ export const imageAd500b630ccb3cb3 = {
   poseTags: ["pose-tag/sleeping", "pose-tag/lying-down", "pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/sheet"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

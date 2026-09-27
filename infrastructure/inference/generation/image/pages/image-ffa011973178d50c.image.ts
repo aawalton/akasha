@@ -10,4 +10,5 @@ export const imageFfa011973178d50c = {
   poseTags: ["pose-tag/reclining", "pose-tag/embracing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace", "wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

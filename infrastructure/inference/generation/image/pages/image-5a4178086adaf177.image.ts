@@ -15,4 +15,5 @@ export const image5a4178086adaf177 = {
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

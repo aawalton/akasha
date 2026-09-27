@@ -10,4 +10,5 @@ export const imageA953ca0115e36084 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-in-mirror", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

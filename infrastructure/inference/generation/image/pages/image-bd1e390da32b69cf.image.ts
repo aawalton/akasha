@@ -10,4 +10,5 @@ export const imageBd1e390da32b69cf = {
   poseTags: ["pose-tag/kissing", "pose-tag/face-to-face", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

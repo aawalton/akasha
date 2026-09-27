@@ -25,4 +25,5 @@ export const imageDb2a2a02dbc157a4 = {
     "wardrobe-tag/strapless",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

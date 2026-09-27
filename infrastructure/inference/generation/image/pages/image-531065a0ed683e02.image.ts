@@ -11,4 +11,5 @@ export const image531065a0ed683e02 = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

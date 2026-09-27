@@ -16,4 +16,5 @@ export const image4e1e89bb58f3a151 = {
   ],
   fantasyTags: ["fantasy-tag/historical", "fantasy-tag/medieval"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

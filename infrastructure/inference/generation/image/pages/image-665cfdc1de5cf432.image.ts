@@ -21,4 +21,5 @@ export const image665cfdc1de5cf432 = {
   poseTags: ["pose-tag/reclining", "pose-tag/profile", "pose-tag/curled-up", "pose-tag/sleeping"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

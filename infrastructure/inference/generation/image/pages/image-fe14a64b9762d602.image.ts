@@ -14,4 +14,5 @@ export const imageFe14a64b9762d602 = {
     "wardrobe-tag/boots",
     "wardrobe-tag/belt",
   ],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

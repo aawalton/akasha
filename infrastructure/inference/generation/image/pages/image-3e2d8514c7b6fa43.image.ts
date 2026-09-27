@@ -27,4 +27,5 @@ export const image3e2d8514c7b6fa43 = {
   ],
   fantasyTags: ["fantasy-tag/steampunk", "fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

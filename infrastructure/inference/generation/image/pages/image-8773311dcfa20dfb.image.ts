@@ -22,4 +22,5 @@ export const image8773311dcfa20dfb = {
   poseTags: ["pose-tag/walking", "pose-tag/back-view", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/jeans", "wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

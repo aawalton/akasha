@@ -21,4 +21,5 @@ export const imageA4fa0f5bf8eca97d = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/glowing-eyes", "fantasy-tag/nature-spirit"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

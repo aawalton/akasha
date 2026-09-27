@@ -25,4 +25,5 @@ export const image02eaa1220691dc0d = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/swimsuit", "wardrobe-tag/spaghetti-straps"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

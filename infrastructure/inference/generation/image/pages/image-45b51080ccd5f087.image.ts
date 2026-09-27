@@ -10,4 +10,5 @@ export const image45b51080ccd5f087 = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

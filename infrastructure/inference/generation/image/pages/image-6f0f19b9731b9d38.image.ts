@@ -22,4 +22,5 @@ export const image6f0f19b9731b9d38 = {
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

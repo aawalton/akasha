@@ -21,4 +21,5 @@ export const image5884452d20d83fd9 = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/bare-legs", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/cosmic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

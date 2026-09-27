@@ -16,4 +16,5 @@ export const image38c5b3cab408bd02 = {
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/red-string"],
   fantasyTags: ["fantasy-tag/fairy-tale", "fantasy-tag/gothic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

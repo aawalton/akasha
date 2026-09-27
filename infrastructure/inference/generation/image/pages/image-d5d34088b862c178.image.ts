@@ -22,4 +22,5 @@ export const imageD5d34088b862c178 = {
   wardrobeTags: ["wardrobe-tag/shorts", "wardrobe-tag/crop-top", "wardrobe-tag/high-heels"],
   fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

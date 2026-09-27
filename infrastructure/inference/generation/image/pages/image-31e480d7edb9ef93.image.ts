@@ -21,4 +21,5 @@ export const image31e480d7edb9ef93 = {
   poseTags: ["pose-tag/kissing", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

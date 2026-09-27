@@ -10,4 +10,5 @@ export const imageD7679a30805aaa55 = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/knees-up", "pose-tag/all-fours"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const image48015294d82fce5c = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

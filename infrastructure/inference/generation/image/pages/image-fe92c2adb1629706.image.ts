@@ -10,4 +10,5 @@ export const imageFe92c2adb1629706 = {
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

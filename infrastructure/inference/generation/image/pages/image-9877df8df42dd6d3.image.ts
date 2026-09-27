@@ -21,4 +21,5 @@ export const image9877df8df42dd6d3 = {
   poseTags: ["pose-tag/kissing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

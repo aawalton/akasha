@@ -21,4 +21,5 @@ export const image85a9e4a64a2834f1 = {
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/saree", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/mythological", "fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

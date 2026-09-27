@@ -11,4 +11,5 @@ export const imageEb99f0acf2239ab6 = {
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/sheet", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

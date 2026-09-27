@@ -20,4 +20,5 @@ export const image9f203489ab89e433 = {
   poseTags: ["pose-tag/looking-up", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

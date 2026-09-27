@@ -10,4 +10,5 @@ export const imageB24d2115daacf8fa = {
   poseTags: ["pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts", "wardrobe-tag/hat"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

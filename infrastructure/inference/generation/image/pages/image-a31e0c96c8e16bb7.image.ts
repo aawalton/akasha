@@ -10,4 +10,5 @@ export const imageA31e0c96c8e16bb7 = {
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/jewelry", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel", "fantasy-tag/mythological"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

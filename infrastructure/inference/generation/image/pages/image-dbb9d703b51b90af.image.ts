@@ -26,4 +26,5 @@ export const imageDbb9d703b51b90af = {
   ],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/dress", "wardrobe-tag/sheer"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

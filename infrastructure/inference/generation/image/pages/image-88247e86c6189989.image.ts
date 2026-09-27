@@ -21,4 +21,5 @@ export const image88247e86c6189989 = {
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-face", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/backpack"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

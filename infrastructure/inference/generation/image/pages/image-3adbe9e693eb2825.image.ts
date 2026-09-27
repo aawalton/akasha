@@ -10,4 +10,5 @@ export const image3adbe9e693eb2825 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/top-down-view", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

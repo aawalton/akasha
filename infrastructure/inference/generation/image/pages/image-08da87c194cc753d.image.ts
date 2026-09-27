@@ -11,4 +11,5 @@ export const image08da87c194cc753d = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/skirt", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/bioluminescence", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

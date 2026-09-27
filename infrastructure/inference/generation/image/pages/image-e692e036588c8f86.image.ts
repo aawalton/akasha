@@ -20,4 +20,5 @@ export const imageE692e036588c8f86 = {
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/silk"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

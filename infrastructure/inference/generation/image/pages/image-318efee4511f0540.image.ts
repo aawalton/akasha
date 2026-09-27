@@ -10,4 +10,5 @@ export const image318efee4511f0540 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

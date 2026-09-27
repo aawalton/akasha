@@ -10,4 +10,5 @@ export const image40159159fc81fdab = {
   poseTags: ["pose-tag/bent-over", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

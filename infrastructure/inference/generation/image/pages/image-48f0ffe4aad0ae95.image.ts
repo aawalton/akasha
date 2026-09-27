@@ -10,4 +10,5 @@ export const image48f0ffe4aad0ae95 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/red-string"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

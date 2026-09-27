@@ -20,4 +20,5 @@ export const image701ca6a00bf5ff2b = {
   poseTags: ["pose-tag/close-up", "pose-tag/profile", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

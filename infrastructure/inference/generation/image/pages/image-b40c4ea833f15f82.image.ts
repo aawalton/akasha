@@ -21,4 +21,5 @@ export const imageB40c4ea833f15f82 = {
   poseTags: ["pose-tag/sitting", "pose-tag/kneeling", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/gown"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

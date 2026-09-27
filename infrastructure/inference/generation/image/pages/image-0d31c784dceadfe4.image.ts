@@ -11,4 +11,5 @@ export const image0d31c784dceadfe4 = {
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/surreal"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageA551e3ccdf03291f = {
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

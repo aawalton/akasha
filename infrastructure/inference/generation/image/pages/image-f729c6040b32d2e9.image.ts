@@ -10,4 +10,5 @@ export const imageF729c6040b32d2e9 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/back-view", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/backless", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

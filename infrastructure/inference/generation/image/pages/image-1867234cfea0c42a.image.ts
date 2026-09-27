@@ -10,4 +10,5 @@ export const image1867234cfea0c42a = {
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

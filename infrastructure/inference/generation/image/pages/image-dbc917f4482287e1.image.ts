@@ -31,4 +31,5 @@ export const imageDbc917f4482287e1 = {
     "fantasy-tag/red-eyes",
     "fantasy-tag/cosplay",
   ],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

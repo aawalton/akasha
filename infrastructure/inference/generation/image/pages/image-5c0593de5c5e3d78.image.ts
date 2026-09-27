@@ -17,4 +17,5 @@ export const image5c0593de5c5e3d78 = {
     "fantasy-tag/hologram",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

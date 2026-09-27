@@ -12,4 +12,5 @@ export const image962cd9ecc8d8d07c = {
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/cosplay", "fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

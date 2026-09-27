@@ -12,4 +12,5 @@ export const imageB1c198d8e80fcf0d = {
   wardrobeTags: ["wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/nature-spirit"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

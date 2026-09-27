@@ -18,4 +18,5 @@ export const image26e76fbe5314eaba = {
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

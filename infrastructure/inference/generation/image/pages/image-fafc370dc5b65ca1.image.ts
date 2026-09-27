@@ -33,4 +33,5 @@ export const imageFafc370dc5b65ca1 = {
   ],
   fantasyTags: ["fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

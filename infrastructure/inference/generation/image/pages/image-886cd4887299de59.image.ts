@@ -22,4 +22,5 @@ export const image886cd4887299de59 = {
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/gothic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

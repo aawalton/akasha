@@ -23,4 +23,5 @@ export const image38f756ed225febfb = {
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

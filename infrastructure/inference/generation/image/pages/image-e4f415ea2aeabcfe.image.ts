@@ -31,4 +31,5 @@ export const imageE4f415ea2aeabcfe = {
     "fantasy-tag/scales",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

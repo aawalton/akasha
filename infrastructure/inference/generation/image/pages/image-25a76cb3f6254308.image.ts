@@ -12,4 +12,5 @@ export const image25a76cb3f6254308 = {
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/bodysuit", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageF04abf14b8573216 = {
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/lingerie"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

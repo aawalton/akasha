@@ -24,4 +24,5 @@ export const image29ffc8f878ad1576 = {
     "fantasy-tag/medieval",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

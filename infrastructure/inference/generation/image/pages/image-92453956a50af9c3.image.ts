@@ -12,4 +12,5 @@ export const image92453956a50af9c3 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/top", "wardrobe-tag/corset"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/sci-fi", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image47e36e29fcea2a65 = {
   poseTags: ["pose-tag/cowgirl", "pose-tag/kneeling", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/sunglasses"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

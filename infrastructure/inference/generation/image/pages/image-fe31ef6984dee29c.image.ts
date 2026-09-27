@@ -21,4 +21,5 @@ export const imageFe31ef6984dee29c = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/apron", "wardrobe-tag/puffed-sleeves"],
   fantasyTags: ["fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageE3417d82e1809a37 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/flower-crown"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

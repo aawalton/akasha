@@ -31,4 +31,5 @@ export const image3a8e949290224f1e = {
   ],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/demon", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

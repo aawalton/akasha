@@ -10,4 +10,5 @@ export const image0f67f15e70d19910 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

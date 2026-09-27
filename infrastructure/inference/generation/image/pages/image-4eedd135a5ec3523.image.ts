@@ -20,4 +20,5 @@ export const image4eedd135a5ec3523 = {
     "wardrobe-tag/tunic",
   ],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/elf-ears", "fantasy-tag/monster-girl"],
+  ageTags: ["age-tag/age-25-34", "age-tag/age-35-44"],
 } as const satisfies Image

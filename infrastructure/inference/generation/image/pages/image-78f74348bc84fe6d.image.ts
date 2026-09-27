@@ -22,4 +22,5 @@ export const image78f74348bc84fe6d = {
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/cloak", "wardrobe-tag/bare-legs"],
   fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

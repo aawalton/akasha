@@ -21,4 +21,5 @@ export const image6011a53f78801dfc = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

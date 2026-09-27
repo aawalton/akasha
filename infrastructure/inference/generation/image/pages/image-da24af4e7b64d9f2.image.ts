@@ -10,4 +10,5 @@ export const imageDa24af4e7b64d9f2 = {
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-thigh", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

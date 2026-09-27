@@ -12,4 +12,5 @@ export const imageF07fa08c88ecff66 = {
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

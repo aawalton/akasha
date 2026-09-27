@@ -23,4 +23,5 @@ export const imageAc69647f9c467cfe = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

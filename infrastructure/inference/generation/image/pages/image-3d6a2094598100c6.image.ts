@@ -11,4 +11,5 @@ export const image3d6a2094598100c6 = {
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

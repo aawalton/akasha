@@ -10,4 +10,5 @@ export const imageD7f05cb7f884b644 = {
   poseTags: ["pose-tag/reaching", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

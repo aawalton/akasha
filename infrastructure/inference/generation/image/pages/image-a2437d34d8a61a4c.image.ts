@@ -20,4 +20,5 @@ export const imageA2437d34d8a61a4c = {
   poseTags: ["pose-tag/arms-crossed", "pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/headband", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

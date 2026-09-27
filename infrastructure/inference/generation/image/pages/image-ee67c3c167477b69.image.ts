@@ -18,4 +18,5 @@ export const imageEe67c3c167477b69 = {
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

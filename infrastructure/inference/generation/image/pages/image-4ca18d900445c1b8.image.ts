@@ -20,4 +20,5 @@ export const image4ca18d900445c1b8 = {
   poseTags: ["pose-tag/face-to-face", "pose-tag/profile", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

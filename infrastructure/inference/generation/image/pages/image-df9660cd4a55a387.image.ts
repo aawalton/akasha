@@ -22,4 +22,5 @@ export const imageDf9660cd4a55a387 = {
   ],
   wardrobeTags: ["wardrobe-tag/shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

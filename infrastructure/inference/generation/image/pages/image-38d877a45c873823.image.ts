@@ -11,4 +11,5 @@ export const image38d877a45c873823 = {
   wardrobeTags: ["wardrobe-tag/halter-top", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image48e38f58d8424a2c = {
   poseTags: ["pose-tag/reclining", "pose-tag/eyes-closed", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/partial-undress", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/black"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

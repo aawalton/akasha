@@ -11,4 +11,5 @@ export const image2d91c2ed89141f18 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

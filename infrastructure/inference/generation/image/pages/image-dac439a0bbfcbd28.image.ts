@@ -22,4 +22,5 @@ export const imageDac439a0bbfcbd28 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fur", "wardrobe-tag/tunic"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/warrior"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

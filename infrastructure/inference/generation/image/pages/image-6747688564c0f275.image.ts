@@ -25,4 +25,5 @@ export const image6747688564c0f275 = {
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/barefoot"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

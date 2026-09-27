@@ -20,4 +20,5 @@ export const imageB474ad42da17b041 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/serious-expression"],
   wardrobeTags: ["wardrobe-tag/backpack"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-45-plus"],
 } as const satisfies Image

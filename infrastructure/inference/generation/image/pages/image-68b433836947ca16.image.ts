@@ -12,4 +12,5 @@ export const image68b433836947ca16 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/bodysuit"],
   fantasyTags: ["fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

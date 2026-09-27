@@ -16,4 +16,5 @@ export const imageBb433bc888175d1d = {
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

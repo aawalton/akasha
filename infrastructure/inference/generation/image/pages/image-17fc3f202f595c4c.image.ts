@@ -20,4 +20,5 @@ export const image17fc3f202f595c4c = {
   poseTags: ["pose-tag/reclining", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const imageBfcd4e40e62764f5 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/harness", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/warrior"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

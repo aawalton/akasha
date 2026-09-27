@@ -12,4 +12,5 @@ export const image01ead0998c2248f3 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/high-heels", "wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image570bd463bfeb5062 = {
   poseTags: ["pose-tag/running"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/tunic", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/anthro", "fantasy-tag/medieval"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

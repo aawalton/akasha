@@ -21,4 +21,5 @@ export const image7423ac4cb2288234 = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/bioluminescence"],
   ethnicityTags: ["ethnicity-tag/black"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const imageD00b8ad491a8910e = {
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/gold-trim"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

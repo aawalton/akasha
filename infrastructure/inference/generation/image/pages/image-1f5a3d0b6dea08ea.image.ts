@@ -21,4 +21,5 @@ export const image1f5a3d0b6dea08ea = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/off-shoulder", "wardrobe-tag/cleavage"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

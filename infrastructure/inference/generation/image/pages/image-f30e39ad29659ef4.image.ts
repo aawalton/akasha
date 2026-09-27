@@ -21,4 +21,5 @@ export const imageF30e39ad29659ef4 = {
     "wardrobe-tag/gloves",
   ],
   fantasyTags: ["fantasy-tag/magic"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

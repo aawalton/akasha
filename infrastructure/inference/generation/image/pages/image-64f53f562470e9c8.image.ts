@@ -16,4 +16,5 @@ export const image64f53f562470e9c8 = {
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/off-shoulder", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

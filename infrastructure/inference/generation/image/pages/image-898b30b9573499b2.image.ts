@@ -18,4 +18,5 @@ export const image898b30b9573499b2 = {
   wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

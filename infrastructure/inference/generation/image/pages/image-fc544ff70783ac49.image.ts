@@ -26,4 +26,5 @@ export const imageFc544ff70783ac49 = {
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

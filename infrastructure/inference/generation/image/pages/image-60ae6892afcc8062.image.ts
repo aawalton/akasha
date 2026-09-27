@@ -23,4 +23,5 @@ export const image60ae6892afcc8062 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/purple-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

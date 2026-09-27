@@ -20,4 +20,5 @@ export const image27369b6812b39afe = {
   poseTags: ["pose-tag/profile", "pose-tag/face-to-face", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

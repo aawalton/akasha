@@ -11,4 +11,5 @@ export const image8aefdcd1c14e4be9 = {
   poseTags: ["pose-tag/legs-spread", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

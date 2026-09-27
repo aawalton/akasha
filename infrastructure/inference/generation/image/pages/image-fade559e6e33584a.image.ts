@@ -10,4 +10,5 @@ export const imageFade559e6e33584a = {
   poseTags: ["pose-tag/reclining", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

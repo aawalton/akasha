@@ -14,4 +14,5 @@ export const image64e4b7cab30a2119 = {
     "pose-tag/looking-up",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

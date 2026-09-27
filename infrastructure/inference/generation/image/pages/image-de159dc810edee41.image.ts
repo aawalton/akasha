@@ -20,4 +20,5 @@ export const imageDe159dc810edee41 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/robe", "wardrobe-tag/silk"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

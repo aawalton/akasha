@@ -22,4 +22,5 @@ export const imageAb9f2dffe5936a53 = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress", "wardrobe-tag/silk"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/cosmic"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

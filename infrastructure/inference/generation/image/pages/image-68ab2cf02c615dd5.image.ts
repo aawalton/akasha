@@ -30,4 +30,5 @@ export const image68ab2cf02c615dd5 = {
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/tube-top", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/latina"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image3ded2f18214ab916 = {
   poseTags: ["pose-tag/laughing", "pose-tag/sitting", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/hat", "wardrobe-tag/sunglasses"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

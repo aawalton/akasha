@@ -10,4 +10,5 @@ export const imageAef60d3302a0844b = {
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   ethnicityTags: ["ethnicity-tag/latina"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

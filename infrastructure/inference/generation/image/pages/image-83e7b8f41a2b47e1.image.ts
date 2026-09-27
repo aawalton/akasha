@@ -10,4 +10,5 @@ export const image83e7b8f41a2b47e1 = {
   poseTags: ["pose-tag/fighting", "pose-tag/standing", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/monster-girl", "fantasy-tag/magic"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

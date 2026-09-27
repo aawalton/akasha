@@ -10,4 +10,5 @@ export const image5bab237be1892d49 = {
   poseTags: ["pose-tag/cowgirl", "pose-tag/straddling", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

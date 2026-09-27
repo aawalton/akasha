@@ -10,4 +10,5 @@ export const imageA492b4b437c85c97 = {
   poseTags: ["pose-tag/cowgirl", "pose-tag/straddling", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

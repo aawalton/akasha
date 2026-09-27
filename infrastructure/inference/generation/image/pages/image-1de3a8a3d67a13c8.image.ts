@@ -15,4 +15,5 @@ export const image1de3a8a3d67a13c8 = {
   ],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/lingerie", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

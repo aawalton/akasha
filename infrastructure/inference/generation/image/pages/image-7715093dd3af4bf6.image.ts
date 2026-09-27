@@ -12,4 +12,5 @@ export const image7715093dd3af4bf6 = {
   wardrobeTags: ["wardrobe-tag/bodysuit"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

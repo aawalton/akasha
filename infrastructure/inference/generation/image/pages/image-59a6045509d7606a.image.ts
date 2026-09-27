@@ -23,4 +23,5 @@ export const image59a6045509d7606a = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/purple-eyes", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

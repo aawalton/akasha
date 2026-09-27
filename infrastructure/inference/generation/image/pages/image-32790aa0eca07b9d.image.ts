@@ -31,4 +31,5 @@ export const image32790aa0eca07b9d = {
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/towel"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

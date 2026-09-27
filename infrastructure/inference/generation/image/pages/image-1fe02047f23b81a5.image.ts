@@ -12,4 +12,5 @@ export const image1fe02047f23b81a5 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/exposed-genitals", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

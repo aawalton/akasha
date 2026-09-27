@@ -21,4 +21,5 @@ export const imageBf9bd2fcd7dc3167 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/hands-behind-head", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

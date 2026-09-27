@@ -10,4 +10,5 @@ export const image5dadad260d960bf2 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/mouth-open"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

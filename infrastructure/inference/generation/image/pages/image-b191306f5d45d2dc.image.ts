@@ -21,4 +21,5 @@ export const imageB191306f5d45d2dc = {
     "fantasy-tag/cosplay",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

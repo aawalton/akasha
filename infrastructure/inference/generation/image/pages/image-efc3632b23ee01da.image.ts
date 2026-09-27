@@ -12,4 +12,5 @@ export const imageEfc3632b23ee01da = {
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/top", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

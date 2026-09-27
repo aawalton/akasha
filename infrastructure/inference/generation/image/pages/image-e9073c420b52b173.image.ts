@@ -15,4 +15,5 @@ export const imageE9073c420b52b173 = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

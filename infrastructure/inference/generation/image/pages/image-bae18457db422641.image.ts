@@ -11,4 +11,5 @@ export const imageBae18457db422641 = {
   wardrobeTags: ["wardrobe-tag/bikini"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

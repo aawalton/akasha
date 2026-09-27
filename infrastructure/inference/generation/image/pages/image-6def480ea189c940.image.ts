@@ -10,4 +10,5 @@ export const image6def480ea189c940 = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

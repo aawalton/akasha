@@ -11,4 +11,5 @@ export const imageFda9c4015082a744 = {
   wardrobeTags: ["wardrobe-tag/halter-top", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/demon"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

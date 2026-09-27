@@ -10,4 +10,5 @@ export const image60780f1260905b9c = {
   poseTags: ["pose-tag/reclining", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

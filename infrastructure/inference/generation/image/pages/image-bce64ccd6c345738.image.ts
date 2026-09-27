@@ -20,4 +20,5 @@ export const imageBce64ccd6c345738 = {
   poseTags: ["pose-tag/looking-away", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sheet", "wardrobe-tag/sleepwear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

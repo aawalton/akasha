@@ -12,4 +12,5 @@ export const image8d2fcf36eb44a218 = {
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/jewelry", "wardrobe-tag/choker"],
   fantasyTags: ["fantasy-tag/gothic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

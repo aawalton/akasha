@@ -11,4 +11,5 @@ export const imageBcad26667a68b509 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fire", "fantasy-tag/angel"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

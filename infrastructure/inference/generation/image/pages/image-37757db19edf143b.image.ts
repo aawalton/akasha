@@ -10,4 +10,5 @@ export const image37757db19edf143b = {
   poseTags: ["pose-tag/close-up", "pose-tag/eyes-closed", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

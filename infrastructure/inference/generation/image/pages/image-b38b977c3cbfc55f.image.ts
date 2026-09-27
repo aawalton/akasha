@@ -17,4 +17,5 @@ export const imageB38b977c3cbfc55f = {
   ],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/witch", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

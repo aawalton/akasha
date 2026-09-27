@@ -11,4 +11,5 @@ export const imageC91ae74546fdcfe7 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/painting"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

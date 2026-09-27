@@ -25,4 +25,5 @@ export const imageBb72e0be26ba568f = {
   ],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

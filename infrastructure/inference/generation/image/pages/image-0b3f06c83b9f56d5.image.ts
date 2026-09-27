@@ -25,4 +25,5 @@ export const image0b3f06c83b9f56d5 = {
     "wardrobe-tag/veil",
   ],
   ethnicityTags: ["ethnicity-tag/south-asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageF94dcfbfde4487ee = {
   poseTags: ["pose-tag/cowgirl", "pose-tag/straddling", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

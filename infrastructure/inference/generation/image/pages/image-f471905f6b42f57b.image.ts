@@ -22,4 +22,5 @@ export const imageF471905f6b42f57b = {
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

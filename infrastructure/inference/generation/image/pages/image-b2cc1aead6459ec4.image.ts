@@ -21,4 +21,5 @@ export const imageB2cc1aead6459ec4 = {
   poseTags: ["pose-tag/stretching"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

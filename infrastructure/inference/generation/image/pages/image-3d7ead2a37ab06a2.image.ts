@@ -11,4 +11,5 @@ export const image3d7ead2a37ab06a2 = {
   wardrobeTags: ["wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/mermaid"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

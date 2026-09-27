@@ -10,4 +10,5 @@ export const image78e37546740a96be = {
   poseTags: ["pose-tag/sitting", "pose-tag/working", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/shorts", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -30,4 +30,5 @@ export const imageE7489dd70275c431 = {
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sundress", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

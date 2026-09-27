@@ -10,4 +10,5 @@ export const imageB981cbe33e512634 = {
   poseTags: ["pose-tag/legs-spread", "pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

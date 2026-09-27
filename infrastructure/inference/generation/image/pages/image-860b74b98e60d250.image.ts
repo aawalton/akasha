@@ -20,4 +20,5 @@ export const image860b74b98e60d250 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/headphones"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

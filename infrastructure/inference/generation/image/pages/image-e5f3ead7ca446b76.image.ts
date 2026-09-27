@@ -20,4 +20,5 @@ export const imageE5f3ead7ca446b76 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/face-to-face", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

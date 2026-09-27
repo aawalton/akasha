@@ -10,4 +10,5 @@ export const image53ecf84ebd0672b6 = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

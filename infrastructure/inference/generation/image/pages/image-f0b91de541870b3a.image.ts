@@ -10,4 +10,5 @@ export const imageF0b91de541870b3a = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/reclining", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/panties", "wardrobe-tag/lingerie"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

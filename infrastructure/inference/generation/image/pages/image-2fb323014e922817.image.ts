@@ -10,4 +10,5 @@ export const image2fb323014e922817 = {
   poseTags: ["pose-tag/bent-over", "pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/panties", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

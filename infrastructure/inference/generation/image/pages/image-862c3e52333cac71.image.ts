@@ -20,4 +20,5 @@ export const image862c3e52333cac71 = {
   poseTags: ["pose-tag/kissing", "pose-tag/close-up", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

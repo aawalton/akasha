@@ -12,4 +12,5 @@ export const imageF46f30c9c729bac3 = {
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

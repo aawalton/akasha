@@ -12,4 +12,5 @@ export const image0cc9008510fb3292 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/selfie"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

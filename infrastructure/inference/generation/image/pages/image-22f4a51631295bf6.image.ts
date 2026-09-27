@@ -18,4 +18,5 @@ export const image22f4a51631295bf6 = {
   ],
   fantasyTags: ["fantasy-tag/cosmic", "fantasy-tag/ethereal"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -31,4 +31,5 @@ export const image95ded653d526c4d0 = {
   ],
   wardrobeTags: ["wardrobe-tag/kimono"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageC04a1840faed0a50 = {
   poseTags: ["pose-tag/embracing", "pose-tag/face-to-face", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

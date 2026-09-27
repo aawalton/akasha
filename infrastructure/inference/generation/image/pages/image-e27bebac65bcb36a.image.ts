@@ -11,4 +11,5 @@ export const imageE27bebac65bcb36a = {
   poseTags: ["pose-tag/looking-up", "pose-tag/top-down-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

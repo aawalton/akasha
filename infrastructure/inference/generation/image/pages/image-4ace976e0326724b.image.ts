@@ -11,4 +11,5 @@ export const image4ace976e0326724b = {
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

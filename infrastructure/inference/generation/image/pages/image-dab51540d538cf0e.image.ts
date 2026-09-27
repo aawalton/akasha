@@ -22,4 +22,5 @@ export const imageDab51540d538cf0e = {
     "wardrobe-tag/lingerie",
   ],
   ethnicityTags: ["ethnicity-tag/south-asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

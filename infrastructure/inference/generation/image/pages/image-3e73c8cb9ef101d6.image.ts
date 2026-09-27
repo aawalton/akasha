@@ -10,4 +10,5 @@ export const image3e73c8cb9ef101d6 = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe", "wardrobe-tag/cloak"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing"],
+  ageTags: ["age-tag/age-25-34", "age-tag/age-35-44"],
 } as const satisfies Image

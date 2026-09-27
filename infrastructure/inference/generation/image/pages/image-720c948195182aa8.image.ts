@@ -16,4 +16,5 @@ export const image720c948195182aa8 = {
     "fantasy-tag/monster-girl",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

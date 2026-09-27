@@ -15,4 +15,5 @@ export const image95db9efc8374fb08 = {
   ],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

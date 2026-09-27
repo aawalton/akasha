@@ -26,4 +26,5 @@ export const image3ccd9a20c96a1070 = {
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/warrior"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

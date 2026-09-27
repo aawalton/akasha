@@ -12,4 +12,5 @@ export const image902414013da4ff6d = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/suit", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/bunny-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

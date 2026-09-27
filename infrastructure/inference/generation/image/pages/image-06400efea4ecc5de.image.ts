@@ -21,4 +21,5 @@ export const image06400efea4ecc5de = {
   poseTags: ["pose-tag/arms-crossed", "pose-tag/looking-down", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

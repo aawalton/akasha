@@ -15,4 +15,5 @@ export const image5c215700f1d8f917 = {
     "pose-tag/head-tilt",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

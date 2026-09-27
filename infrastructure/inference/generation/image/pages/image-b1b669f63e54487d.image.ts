@@ -22,4 +22,5 @@ export const imageB1b669f63e54487d = {
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/belt", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageDbb8107387711d6c = {
   wardrobeTags: ["wardrobe-tag/silk", "wardrobe-tag/bare-legs", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

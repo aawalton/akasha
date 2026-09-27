@@ -11,4 +11,5 @@ export const image06842b21060790c4 = {
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/silk", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/horns"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

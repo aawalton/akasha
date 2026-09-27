@@ -15,4 +15,5 @@ export const imageE3cd8d823fa6da03 = {
   poseTags: ["pose-tag/legs-up", "pose-tag/hand-on-thigh", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

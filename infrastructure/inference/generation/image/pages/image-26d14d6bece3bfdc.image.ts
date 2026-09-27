@@ -10,4 +10,5 @@ export const image26d14d6bece3bfdc = {
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

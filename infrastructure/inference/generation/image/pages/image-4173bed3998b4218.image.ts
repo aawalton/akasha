@@ -10,4 +10,5 @@ export const image4173bed3998b4218 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -28,4 +28,5 @@ export const image29cb95e0e11e458e = {
   ],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/witch", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

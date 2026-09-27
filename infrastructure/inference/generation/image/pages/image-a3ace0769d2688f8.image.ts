@@ -20,4 +20,5 @@ export const imageA3ace0769d2688f8 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/cowgirl", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

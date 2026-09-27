@@ -10,4 +10,5 @@ export const image82868dda83c5cc4b = {
   poseTags: ["pose-tag/all-fours", "pose-tag/lying-on-stomach", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

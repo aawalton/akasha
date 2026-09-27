@@ -21,4 +21,5 @@ export const image054d9243543c31a5 = {
   poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

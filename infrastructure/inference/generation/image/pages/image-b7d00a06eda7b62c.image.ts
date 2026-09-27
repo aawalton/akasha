@@ -21,4 +21,5 @@ export const imageB7d00a06eda7b62c = {
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/bioluminescence"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

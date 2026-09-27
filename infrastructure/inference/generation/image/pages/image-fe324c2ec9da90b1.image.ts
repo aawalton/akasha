@@ -10,4 +10,5 @@ export const imageFe324c2ec9da90b1 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/panties"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageF6d40d4c977f598d = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

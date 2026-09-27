@@ -11,4 +11,5 @@ export const imageAf759091bdf2e5fe = {
   poseTags: ["pose-tag/kneeling", "pose-tag/embracing", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

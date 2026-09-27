@@ -15,4 +15,5 @@ export const image03544a8b13c600ea = {
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

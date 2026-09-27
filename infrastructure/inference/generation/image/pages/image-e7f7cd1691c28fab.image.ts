@@ -21,4 +21,5 @@ export const imageE7f7cd1691c28fab = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

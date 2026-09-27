@@ -21,4 +21,5 @@ export const image4dd3431ab65faead = {
   poseTags: ["pose-tag/kneeling", "pose-tag/back-view", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image8757e188ed01ea25 = {
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

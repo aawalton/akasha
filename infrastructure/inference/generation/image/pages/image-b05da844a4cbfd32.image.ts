@@ -27,4 +27,5 @@ export const imageB05da844a4cbfd32 = {
   ],
   fantasyTags: ["fantasy-tag/ethereal", "fantasy-tag/glowing", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

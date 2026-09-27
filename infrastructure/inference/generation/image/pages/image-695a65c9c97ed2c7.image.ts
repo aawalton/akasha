@@ -11,4 +11,5 @@ export const image695a65c9c97ed2c7 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/selfie", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

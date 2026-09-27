@@ -12,4 +12,5 @@ export const image00947048b754c58d = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageE9827efde5e4fb93 = {
   poseTags: ["pose-tag/kissing", "pose-tag/bathing", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

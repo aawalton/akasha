@@ -10,4 +10,5 @@ export const imageC2c1b8849c3749b4 = {
   poseTags: ["pose-tag/sitting", "pose-tag/curled-up", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/barefoot"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

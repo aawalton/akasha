@@ -21,4 +21,5 @@ export const image8de5f66a5811c995 = {
   poseTags: ["pose-tag/jumping", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans", "wardrobe-tag/sneakers"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

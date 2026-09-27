@@ -10,4 +10,5 @@ export const image300b8d6ddcf71cf5 = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/oral-sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

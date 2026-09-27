@@ -11,4 +11,5 @@ export const imageC651073950b70e5a = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

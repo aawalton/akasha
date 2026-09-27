@@ -22,4 +22,5 @@ export const imageC32df55b57361cd6 = {
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/mermaid"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

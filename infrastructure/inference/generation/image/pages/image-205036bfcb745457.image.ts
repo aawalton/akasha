@@ -11,4 +11,5 @@ export const image205036bfcb745457 = {
   wardrobeTags: ["wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageDe4867683a927a5c = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/hat"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

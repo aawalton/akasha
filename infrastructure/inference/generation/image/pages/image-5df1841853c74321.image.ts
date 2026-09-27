@@ -10,4 +10,5 @@ export const image5df1841853c74321 = {
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/dress", "wardrobe-tag/sheer"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

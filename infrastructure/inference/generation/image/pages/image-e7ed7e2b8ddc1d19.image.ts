@@ -19,4 +19,5 @@ export const imageE7ed7e2b8ddc1d19 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/restaurant", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/profile"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

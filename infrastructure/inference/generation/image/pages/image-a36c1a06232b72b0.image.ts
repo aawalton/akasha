@@ -20,4 +20,5 @@ export const imageA36c1a06232b72b0 = {
     "wardrobe-tag/slip-dress",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageDc53e6873a888587 = {
   poseTags: ["pose-tag/smiling", "pose-tag/looking-away", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweater"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

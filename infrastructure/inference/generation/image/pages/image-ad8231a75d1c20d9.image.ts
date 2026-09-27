@@ -11,4 +11,5 @@ export const imageAd8231a75d1c20d9 = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24", "age-tag/age-25-34"],
 } as const satisfies Image

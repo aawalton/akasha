@@ -16,4 +16,5 @@ export const image12378c185136f5b2 = {
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

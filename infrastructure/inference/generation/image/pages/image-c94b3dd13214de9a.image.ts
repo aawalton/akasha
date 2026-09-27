@@ -11,4 +11,5 @@ export const imageC94b3dd13214de9a = {
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/off-shoulder", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/golden-eyes", "fantasy-tag/cat-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

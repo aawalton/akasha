@@ -10,4 +10,5 @@ export const image667597123f495e94 = {
   poseTags: ["pose-tag/kissing", "pose-tag/sitting", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

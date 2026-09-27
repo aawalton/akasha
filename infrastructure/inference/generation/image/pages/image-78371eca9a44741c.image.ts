@@ -11,4 +11,5 @@ export const image78371eca9a44741c = {
   poseTags: ["pose-tag/looking-back", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/strapless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

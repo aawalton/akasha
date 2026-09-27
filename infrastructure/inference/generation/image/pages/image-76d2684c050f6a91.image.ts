@@ -20,4 +20,5 @@ export const image76d2684c050f6a91 = {
   poseTags: ["pose-tag/stretching", "pose-tag/lying-down", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/tank-top"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

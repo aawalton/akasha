@@ -12,4 +12,5 @@ export const image4f7d3967ddf5a5af = {
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/sheer", "wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

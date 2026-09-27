@@ -22,4 +22,5 @@ export const image7f87eef43a1fd329 = {
   poseTags: ["pose-tag/smiling", "pose-tag/hand-on-face", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

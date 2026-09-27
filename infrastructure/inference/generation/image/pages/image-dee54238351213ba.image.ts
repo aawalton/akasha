@@ -18,4 +18,5 @@ export const imageDee54238351213ba = {
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/pants"],
   fantasyTags: ["fantasy-tag/blue-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

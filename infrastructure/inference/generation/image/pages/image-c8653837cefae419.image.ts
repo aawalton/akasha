@@ -11,4 +11,5 @@ export const imageC8653837cefae419 = {
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/skirt", "wardrobe-tag/cloak"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

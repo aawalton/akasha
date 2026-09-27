@@ -10,4 +10,5 @@ export const imageBfd01adddf8e985b = {
   poseTags: ["pose-tag/kneeling", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

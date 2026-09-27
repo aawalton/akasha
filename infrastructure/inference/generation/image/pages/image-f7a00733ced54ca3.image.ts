@@ -11,4 +11,5 @@ export const imageF7a00733ced54ca3 = {
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/body-paint", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

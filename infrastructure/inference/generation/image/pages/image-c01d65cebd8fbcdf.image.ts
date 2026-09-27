@@ -23,4 +23,5 @@ export const imageC01d65cebd8fbcdf = {
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/bra", "wardrobe-tag/bare-midriff"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

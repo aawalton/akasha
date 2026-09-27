@@ -10,4 +10,5 @@ export const image78c47dd9c729cca5 = {
   poseTags: ["pose-tag/standing", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/coat", "wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

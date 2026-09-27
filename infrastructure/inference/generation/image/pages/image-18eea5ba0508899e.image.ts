@@ -11,4 +11,5 @@ export const image18eea5ba0508899e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-down", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweater"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

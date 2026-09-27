@@ -15,4 +15,5 @@ export const image4bfa784bb6152a2f = {
   ],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/tube-top", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

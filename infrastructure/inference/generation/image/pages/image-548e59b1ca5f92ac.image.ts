@@ -10,4 +10,5 @@ export const image548e59b1ca5f92ac = {
   poseTags: ["pose-tag/kneeling", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top", "wardrobe-tag/mini-dress"],
   fantasyTags: ["fantasy-tag/surreal"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

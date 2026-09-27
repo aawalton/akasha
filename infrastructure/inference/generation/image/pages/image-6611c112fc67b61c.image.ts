@@ -10,4 +10,5 @@ export const image6611c112fc67b61c = {
   poseTags: ["pose-tag/lying-down", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

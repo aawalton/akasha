@@ -25,4 +25,5 @@ export const imageD5c02cf6ad36e8e1 = {
   ],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/camisole", "wardrobe-tag/sleepwear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

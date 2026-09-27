@@ -10,4 +10,5 @@ export const image1b5304e62fbb1467 = {
   poseTags: ["pose-tag/reclining", "pose-tag/straddling", "pose-tag/sex", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

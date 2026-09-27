@@ -30,4 +30,5 @@ export const image190a44310d4f8a7b = {
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

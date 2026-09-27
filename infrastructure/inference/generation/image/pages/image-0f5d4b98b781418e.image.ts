@@ -10,4 +10,5 @@ export const image0f5d4b98b781418e = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
   ethnicityTags: ["ethnicity-tag/latina"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

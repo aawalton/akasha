@@ -11,4 +11,5 @@ export const image651f82a68f81f081 = {
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/surreal"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

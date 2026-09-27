@@ -10,4 +10,5 @@ export const image04f877d35ba3f1f7 = {
   poseTags: ["pose-tag/arms-raised", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

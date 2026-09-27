@@ -21,4 +21,5 @@ export const image23f7529bda1a712e = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/wings", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

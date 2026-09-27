@@ -21,4 +21,5 @@ export const imageDe966beae479f2eb = {
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

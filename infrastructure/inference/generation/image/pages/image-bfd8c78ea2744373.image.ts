@@ -11,4 +11,5 @@ export const imageBfd8c78ea2744373 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/cosmic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

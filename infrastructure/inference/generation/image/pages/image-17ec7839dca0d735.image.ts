@@ -11,4 +11,5 @@ export const image17ec7839dca0d735 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/top-down-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

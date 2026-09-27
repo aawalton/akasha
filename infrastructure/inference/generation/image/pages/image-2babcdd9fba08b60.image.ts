@@ -11,4 +11,5 @@ export const image2babcdd9fba08b60 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

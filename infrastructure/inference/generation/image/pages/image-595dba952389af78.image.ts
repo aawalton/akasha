@@ -10,4 +10,5 @@ export const image595dba952389af78 = {
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/legs-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

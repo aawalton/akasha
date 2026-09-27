@@ -15,4 +15,5 @@ export const imageDb56316f1f646354 = {
   ],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

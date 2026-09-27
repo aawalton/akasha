@@ -21,4 +21,5 @@ export const image26aa1caadda77dc2 = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android", "fantasy-tag/bioluminescence"],
   ethnicityTags: ["ethnicity-tag/black"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

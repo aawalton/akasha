@@ -11,4 +11,5 @@ export const image53fd8356f6f17732 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bikini", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/mermaid", "fantasy-tag/naga", "fantasy-tag/scales"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

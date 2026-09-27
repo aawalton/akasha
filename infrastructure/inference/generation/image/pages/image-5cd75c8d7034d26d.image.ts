@@ -17,4 +17,5 @@ export const image5cd75c8d7034d26d = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/towel"],
   fantasyTags: ["fantasy-tag/fairy"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

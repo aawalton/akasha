@@ -10,4 +10,5 @@ export const image514123120a6a01f2 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread", "pose-tag/sex", "pose-tag/oral-sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

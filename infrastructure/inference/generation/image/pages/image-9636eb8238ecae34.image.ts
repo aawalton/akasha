@@ -11,4 +11,5 @@ export const image9636eb8238ecae34 = {
   wardrobeTags: ["wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/ethereal"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

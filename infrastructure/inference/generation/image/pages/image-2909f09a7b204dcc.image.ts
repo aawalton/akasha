@@ -9,4 +9,5 @@ export const image2909f09a7b204dcc = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/silk", "wardrobe-tag/deep-v-neck", "wardrobe-tag/cleavage"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

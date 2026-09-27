@@ -22,4 +22,5 @@ export const imageAb15122aceb34bb8 = {
   wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/unusual-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

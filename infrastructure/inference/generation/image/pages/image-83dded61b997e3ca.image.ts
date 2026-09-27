@@ -20,4 +20,5 @@ export const image83dded61b997e3ca = {
   poseTags: ["pose-tag/holding-lantern", "pose-tag/looking-down", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/top", "wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

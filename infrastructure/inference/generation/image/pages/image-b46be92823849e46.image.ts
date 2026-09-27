@@ -20,4 +20,5 @@ export const imageB46be92823849e46 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/sitting", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheet", "wardrobe-tag/sweater"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

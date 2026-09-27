@@ -21,4 +21,5 @@ export const image1cb6df138cb1b986 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

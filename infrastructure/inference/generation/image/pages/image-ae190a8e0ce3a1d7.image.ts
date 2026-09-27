@@ -15,4 +15,5 @@ export const imageAe190a8e0ce3a1d7 = {
   ],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

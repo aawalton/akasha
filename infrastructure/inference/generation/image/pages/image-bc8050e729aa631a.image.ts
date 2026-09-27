@@ -21,4 +21,5 @@ export const imageBc8050e729aa631a = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/top", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

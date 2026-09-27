@@ -23,4 +23,5 @@ export const image4520228bc0f350a8 = {
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/nature-spirit"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const imageA01d52a435cdcb3e = {
     "fantasy-tag/glowing-eyes",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image8f4203b54717d028 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-up", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/exposed-genitals", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

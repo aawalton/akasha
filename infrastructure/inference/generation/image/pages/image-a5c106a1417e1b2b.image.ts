@@ -20,4 +20,5 @@ export const imageA5c106a1417e1b2b = {
   poseTags: ["pose-tag/arms-crossed", "pose-tag/looking-up", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

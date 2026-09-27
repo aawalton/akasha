@@ -11,4 +11,5 @@ export const image96645ee781eac650 = {
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/deep-v-neck", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/gothic", "fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

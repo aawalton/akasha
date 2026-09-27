@@ -17,4 +17,5 @@ export const image30d3f0c984b89678 = {
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/animal-ears"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

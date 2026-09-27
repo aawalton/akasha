@@ -21,4 +21,5 @@ export const imageD47e40f25fae85b8 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/leaning", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/mini-dress", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

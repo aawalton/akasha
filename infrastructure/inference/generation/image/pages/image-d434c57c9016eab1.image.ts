@@ -12,4 +12,5 @@ export const imageD434c57c9016eab1 = {
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/pants-down", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

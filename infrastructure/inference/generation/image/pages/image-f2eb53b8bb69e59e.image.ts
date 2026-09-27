@@ -20,4 +20,5 @@ export const imageF2eb53b8bb69e59e = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/lying-down", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

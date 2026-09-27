@@ -10,4 +10,5 @@ export const image42c808b815fc2201 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

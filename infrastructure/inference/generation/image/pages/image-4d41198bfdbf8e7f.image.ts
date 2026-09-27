@@ -11,4 +11,5 @@ export const image4d41198bfdbf8e7f = {
   poseTags: ["pose-tag/looking-away", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/top"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

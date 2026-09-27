@@ -10,4 +10,5 @@ export const imageAc89cc2e9c2adb68 = {
   poseTags: ["pose-tag/hands-behind-head", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

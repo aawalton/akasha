@@ -25,4 +25,5 @@ export const image9ff8fa42286bd66b = {
   ],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/bikini"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

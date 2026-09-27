@@ -10,4 +10,5 @@ export const image765967021527d678 = {
   poseTags: ["pose-tag/reclining", "pose-tag/reaching", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

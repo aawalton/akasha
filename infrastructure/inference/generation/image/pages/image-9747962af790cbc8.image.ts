@@ -11,4 +11,5 @@ export const image9747962af790cbc8 = {
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/horns"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

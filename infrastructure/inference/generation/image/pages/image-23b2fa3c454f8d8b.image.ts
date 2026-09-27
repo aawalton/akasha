@@ -10,4 +10,5 @@ export const image23b2fa3c454f8d8b = {
   poseTags: ["pose-tag/looking-in-mirror", "pose-tag/hand-on-face", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/hair-accessory"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

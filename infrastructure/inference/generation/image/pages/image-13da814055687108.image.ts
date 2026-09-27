@@ -11,4 +11,5 @@ export const image13da814055687108 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageE7997ca9d92385df = {
   poseTags: ["pose-tag/sitting", "pose-tag/back-view", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

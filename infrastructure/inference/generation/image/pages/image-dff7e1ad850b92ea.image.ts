@@ -22,4 +22,5 @@ export const imageDff7e1ad850b92ea = {
   wardrobeTags: ["wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

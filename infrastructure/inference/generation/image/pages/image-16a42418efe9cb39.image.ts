@@ -10,4 +10,5 @@ export const image16a42418efe9cb39 = {
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

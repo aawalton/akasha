@@ -9,4 +9,5 @@ export const imageFdde0d3cc5b4de9e = {
   settingTags: ["setting-tag/desert", "setting-tag/tent", "setting-tag/outdoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageF7c7fae919e3c887 = {
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/suit"],
   fantasyTags: ["fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

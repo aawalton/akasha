@@ -12,4 +12,5 @@ export const imageD0c331f5eb41e3c6 = {
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/deep-v-neck", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

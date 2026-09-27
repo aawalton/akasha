@@ -10,4 +10,5 @@ export const image71122cf02e40af96 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-up", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

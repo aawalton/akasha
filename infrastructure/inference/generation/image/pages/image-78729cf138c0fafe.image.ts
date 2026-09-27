@@ -31,4 +31,5 @@ export const image78729cf138c0fafe = {
     "fantasy-tag/bioluminescence",
   ],
   ethnicityTags: ["ethnicity-tag/black"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

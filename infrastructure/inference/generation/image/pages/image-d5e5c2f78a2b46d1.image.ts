@@ -22,4 +22,5 @@ export const imageD5e5c2f78a2b46d1 = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/surreal"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

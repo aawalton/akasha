@@ -10,4 +10,5 @@ export const imageDcf56b28c4e53cf2 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/bare-shoulders", "wardrobe-tag/high-slit"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

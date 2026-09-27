@@ -10,4 +10,5 @@ export const imageAbae6c5a0dd3af72 = {
   poseTags: ["pose-tag/hands-on-chest", "pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

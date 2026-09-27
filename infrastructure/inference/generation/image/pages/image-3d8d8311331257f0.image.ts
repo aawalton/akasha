@@ -21,4 +21,5 @@ export const image3d8d8311331257f0 = {
   ],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

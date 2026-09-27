@@ -23,4 +23,5 @@ export const imageBa3a155516bdf76e = {
     "fantasy-tag/dragon-horns",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

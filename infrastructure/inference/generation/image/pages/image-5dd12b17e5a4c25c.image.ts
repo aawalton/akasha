@@ -15,4 +15,5 @@ export const image5dd12b17e5a4c25c = {
   ],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi", "fantasy-tag/android"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

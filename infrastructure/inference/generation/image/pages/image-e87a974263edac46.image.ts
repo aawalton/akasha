@@ -11,4 +11,5 @@ export const imageE87a974263edac46 = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

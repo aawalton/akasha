@@ -11,4 +11,5 @@ export const imageBc02f03c70b771c1 = {
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageE55a5809aea5476f = {
   ],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/lingerie", "wardrobe-tag/barefoot"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

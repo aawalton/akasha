@@ -11,4 +11,5 @@ export const image4ef114d48f4d43c3 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/scales"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

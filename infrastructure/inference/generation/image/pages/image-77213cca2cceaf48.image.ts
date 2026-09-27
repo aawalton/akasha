@@ -11,4 +11,5 @@ export const image77213cca2cceaf48 = {
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/body-paint", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fire"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

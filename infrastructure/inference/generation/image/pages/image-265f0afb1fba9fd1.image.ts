@@ -25,4 +25,5 @@ export const image265f0afb1fba9fd1 = {
     "wardrobe-tag/headphones",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

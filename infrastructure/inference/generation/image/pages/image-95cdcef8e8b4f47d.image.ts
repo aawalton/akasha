@@ -26,4 +26,5 @@ export const image95cdcef8e8b4f47d = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-umbrella", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

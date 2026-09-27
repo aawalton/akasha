@@ -21,4 +21,5 @@ export const imageE4b66e997ca34ac3 = {
   poseTags: ["pose-tag/standing", "pose-tag/eyes-closed", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/hat", "wardrobe-tag/spaghetti-straps"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

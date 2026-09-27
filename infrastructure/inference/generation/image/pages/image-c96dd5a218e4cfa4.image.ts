@@ -16,4 +16,5 @@ export const imageC96dd5a218e4cfa4 = {
   ],
   fantasyTags: ["fantasy-tag/mermaid"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

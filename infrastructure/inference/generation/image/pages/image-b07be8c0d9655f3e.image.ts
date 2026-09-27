@@ -19,4 +19,5 @@ export const imageB07be8c0d9655f3e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/market"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/skirt"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

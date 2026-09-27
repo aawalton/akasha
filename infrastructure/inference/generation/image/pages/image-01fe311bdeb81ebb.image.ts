@@ -10,4 +10,5 @@ export const image01fe311bdeb81ebb = {
   poseTags: ["pose-tag/standing", "pose-tag/reclining", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/ethereal", "fantasy-tag/glowing"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

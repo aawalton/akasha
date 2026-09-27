@@ -10,4 +10,5 @@ export const image97c2a56197dfd2d0 = {
   poseTags: ["pose-tag/floating"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

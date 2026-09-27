@@ -12,4 +12,5 @@ export const imageCa3434e93fe15e46 = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/shorts", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/cosmic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

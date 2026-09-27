@@ -10,4 +10,5 @@ export const image03f20284cc236207 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

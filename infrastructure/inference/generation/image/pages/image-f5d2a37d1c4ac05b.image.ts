@@ -11,4 +11,5 @@ export const imageF5d2a37d1c4ac05b = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-in-mirror", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

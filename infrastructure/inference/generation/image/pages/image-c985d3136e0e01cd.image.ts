@@ -10,4 +10,5 @@ export const imageC985d3136e0e01cd = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

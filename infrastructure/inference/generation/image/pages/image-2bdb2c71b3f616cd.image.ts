@@ -20,4 +20,5 @@ export const image2bdb2c71b3f616cd = {
   poseTags: ["pose-tag/leaning", "pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans", "wardrobe-tag/boots"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

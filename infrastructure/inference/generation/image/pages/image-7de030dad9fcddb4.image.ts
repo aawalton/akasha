@@ -21,4 +21,5 @@ export const image7de030dad9fcddb4 = {
   poseTags: ["pose-tag/sitting", "pose-tag/side-by-side", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/bare-shoulders", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

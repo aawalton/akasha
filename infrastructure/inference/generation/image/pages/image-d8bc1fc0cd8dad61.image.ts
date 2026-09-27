@@ -10,4 +10,5 @@ export const imageD8bc1fc0cd8dad61 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/cowgirl", "pose-tag/sex", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

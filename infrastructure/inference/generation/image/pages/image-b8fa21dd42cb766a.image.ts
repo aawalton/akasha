@@ -11,4 +11,5 @@ export const imageB8fa21dd42cb766a = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

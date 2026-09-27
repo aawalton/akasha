@@ -17,4 +17,5 @@ export const imageBaee31664007c26d = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/hologram"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

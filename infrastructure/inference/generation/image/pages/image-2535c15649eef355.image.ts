@@ -31,4 +31,5 @@ export const image2535c15649eef355 = {
   ],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

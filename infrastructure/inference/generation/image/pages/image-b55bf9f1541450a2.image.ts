@@ -21,4 +21,5 @@ export const imageB55bf9f1541450a2 = {
   poseTags: ["pose-tag/sitting", "pose-tag/side-by-side", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

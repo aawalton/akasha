@@ -19,4 +19,5 @@ export const image182de987cb5675c2 = {
     "pose-tag/looking-away",
   ],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/tunic", "wardrobe-tag/armor"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

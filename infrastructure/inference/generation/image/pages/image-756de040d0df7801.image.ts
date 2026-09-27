@@ -20,4 +20,5 @@ export const image756de040d0df7801 = {
     "wardrobe-tag/barefoot",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

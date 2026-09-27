@@ -15,4 +15,5 @@ export const imageF9042dfe9175fbca = {
     "wardrobe-tag/sleepwear",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

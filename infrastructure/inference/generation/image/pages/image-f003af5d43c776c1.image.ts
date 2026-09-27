@@ -21,4 +21,5 @@ export const imageF003af5d43c776c1 = {
   poseTags: ["pose-tag/laughing", "pose-tag/leaning-forward", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

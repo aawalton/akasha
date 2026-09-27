@@ -26,4 +26,5 @@ export const image180d3f0d7d352572 = {
   ],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/t-shirt", "wardrobe-tag/sheer"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

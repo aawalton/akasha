@@ -16,4 +16,5 @@ export const image65e6068f02f33abb = {
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sweater"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

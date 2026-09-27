@@ -20,4 +20,5 @@ export const imageD6d798c9012d3f29 = {
   ],
   wardrobeTags: ["wardrobe-tag/bikini"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

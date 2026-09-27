@@ -11,4 +11,5 @@ export const image05abbebbd29fc229 = {
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

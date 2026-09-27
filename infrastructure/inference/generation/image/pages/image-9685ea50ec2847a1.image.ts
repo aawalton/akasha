@@ -12,4 +12,5 @@ export const image9685ea50ec2847a1 = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/sneakers"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

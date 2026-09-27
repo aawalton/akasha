@@ -26,4 +26,5 @@ export const image47c09f69703ef3e1 = {
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

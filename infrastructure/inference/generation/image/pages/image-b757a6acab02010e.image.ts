@@ -11,4 +11,5 @@ export const imageB757a6acab02010e = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/corset", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/android"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

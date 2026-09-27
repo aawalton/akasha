@@ -20,4 +20,5 @@ export const imageC50e6647512f94a4 = {
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/eating"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/casual-wear"],
   ethnicityTags: ["ethnicity-tag/mixed", "ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

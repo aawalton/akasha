@@ -10,4 +10,5 @@ export const image2f5ecf798e1175bc = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

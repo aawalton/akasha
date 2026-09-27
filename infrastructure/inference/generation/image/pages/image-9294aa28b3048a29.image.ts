@@ -10,4 +10,5 @@ export const image9294aa28b3048a29 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-up", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image85d674c7c7fbe6fc = {
   poseTags: ["pose-tag/close-up", "pose-tag/front-view", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const image0e026e622f0673d7 = {
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

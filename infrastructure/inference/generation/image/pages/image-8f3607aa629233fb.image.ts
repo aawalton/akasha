@@ -10,4 +10,5 @@ export const image8f3607aa629233fb = {
   poseTags: ["pose-tag/kissing", "pose-tag/leaning", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/slip-dress"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

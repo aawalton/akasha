@@ -21,4 +21,5 @@ export const image481b893279e2e519 = {
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/silk", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/medieval"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

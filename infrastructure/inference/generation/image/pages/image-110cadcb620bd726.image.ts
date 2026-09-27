@@ -18,4 +18,5 @@ export const image110cadcb620bd726 = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/crop-top"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

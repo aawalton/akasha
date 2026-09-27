@@ -10,4 +10,5 @@ export const imageAa075fc6327c2414 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-away", "pose-tag/looking-in-mirror"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

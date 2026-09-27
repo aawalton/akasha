@@ -15,4 +15,5 @@ export const image0954b9c811841ec9 = {
   ],
   wardrobeTags: ["wardrobe-tag/mask", "wardrobe-tag/gloves"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

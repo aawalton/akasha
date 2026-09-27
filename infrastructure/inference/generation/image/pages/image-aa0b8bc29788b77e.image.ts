@@ -20,4 +20,5 @@ export const imageAa0b8bc29788b77e = {
   poseTags: ["pose-tag/kissing", "pose-tag/sex", "pose-tag/cowgirl", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageEe992bbccb2b7022 = {
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/tights"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

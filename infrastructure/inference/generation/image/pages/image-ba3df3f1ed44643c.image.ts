@@ -30,4 +30,5 @@ export const imageBa3df3f1ed44643c = {
     "wardrobe-tag/headphones",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

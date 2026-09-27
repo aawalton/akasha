@@ -20,4 +20,5 @@ export const image2dcbc1d4465c768c = {
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/lingerie"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

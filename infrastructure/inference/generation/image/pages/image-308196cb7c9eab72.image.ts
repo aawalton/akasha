@@ -19,4 +19,5 @@ export const image308196cb7c9eab72 = {
     "wardrobe-tag/barefoot",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

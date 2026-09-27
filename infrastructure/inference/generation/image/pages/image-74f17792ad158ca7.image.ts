@@ -17,4 +17,5 @@ export const image74f17792ad158ca7 = {
   ],
   fantasyTags: ["fantasy-tag/purple-eyes", "fantasy-tag/gothic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

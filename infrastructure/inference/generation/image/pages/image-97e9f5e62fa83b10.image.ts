@@ -12,4 +12,5 @@ export const image97e9f5e62fa83b10 = {
   poseTags: ["pose-tag/looking-up", "pose-tag/arms-raised", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

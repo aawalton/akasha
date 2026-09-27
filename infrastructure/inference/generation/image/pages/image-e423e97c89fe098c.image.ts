@@ -26,4 +26,5 @@ export const imageE423e97c89fe098c = {
   wardrobeTags: ["wardrobe-tag/bodysuit"],
   fantasyTags: ["fantasy-tag/wings"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

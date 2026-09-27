@@ -22,4 +22,5 @@ export const imageF977b60bd1d6fee8 = {
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/corset", "wardrobe-tag/tiara"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/fairy-tale"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

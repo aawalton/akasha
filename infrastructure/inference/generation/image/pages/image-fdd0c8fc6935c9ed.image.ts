@@ -21,4 +21,5 @@ export const imageFdd0c8fc6935c9ed = {
   poseTags: ["pose-tag/reclining", "pose-tag/leaning", "pose-tag/looking-away", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans", "wardrobe-tag/barefoot"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

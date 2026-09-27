@@ -11,4 +11,5 @@ export const image863ffc93c0d358bc = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/red-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageD91ea6807e5cd7a6 = {
   poseTags: ["pose-tag/looking-in-mirror", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

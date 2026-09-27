@@ -10,4 +10,5 @@ export const image529dcc88bb323630 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

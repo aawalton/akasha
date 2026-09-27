@@ -10,4 +10,5 @@ export const imageEe3aaa563bf78c77 = {
   poseTags: ["pose-tag/bathing", "pose-tag/walking", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots", "wardrobe-tag/fully-clothed"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

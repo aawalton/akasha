@@ -25,4 +25,5 @@ export const image9259c93dd5e4d25a = {
     "wardrobe-tag/bare-midriff",
   ],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

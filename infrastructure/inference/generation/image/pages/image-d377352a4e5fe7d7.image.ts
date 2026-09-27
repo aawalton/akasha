@@ -21,4 +21,5 @@ export const imageD377352a4e5fe7d7 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/horns", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

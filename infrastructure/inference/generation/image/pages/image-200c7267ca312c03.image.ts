@@ -10,4 +10,5 @@ export const image200c7267ca312c03 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/nude", "wardrobe-tag/bottomless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

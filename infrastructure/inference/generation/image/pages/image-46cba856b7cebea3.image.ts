@@ -25,4 +25,5 @@ export const image46cba856b7cebea3 = {
   ],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/crop-top", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

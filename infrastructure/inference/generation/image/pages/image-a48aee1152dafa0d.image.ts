@@ -18,4 +18,5 @@ export const imageA48aee1152dafa0d = {
   ],
   fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/magic", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

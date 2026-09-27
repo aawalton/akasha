@@ -21,4 +21,5 @@ export const image22e60046c4a8ee32 = {
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/sleepwear", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/red-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

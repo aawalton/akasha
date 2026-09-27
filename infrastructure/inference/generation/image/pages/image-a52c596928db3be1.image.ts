@@ -20,4 +20,5 @@ export const imageA52c596928db3be1 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   fantasyTags: ["fantasy-tag/mermaid", "fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

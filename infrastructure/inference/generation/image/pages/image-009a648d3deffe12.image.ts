@@ -15,4 +15,5 @@ export const image009a648d3deffe12 = {
     "fantasy-tag/magic",
     "fantasy-tag/warrior",
   ],
+  ageTags: ["age-tag/age-35-44", "age-tag/age-45-plus"],
 } as const satisfies Image

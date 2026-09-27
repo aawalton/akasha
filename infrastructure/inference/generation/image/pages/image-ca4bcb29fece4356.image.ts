@@ -10,4 +10,5 @@ export const imageCa4bcb29fece4356 = {
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

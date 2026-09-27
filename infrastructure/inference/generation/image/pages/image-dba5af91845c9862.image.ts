@@ -15,4 +15,5 @@ export const imageDba5af91845c9862 = {
     "wardrobe-tag/tiara",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

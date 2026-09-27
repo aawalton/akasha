@@ -18,4 +18,5 @@ export const imageE8dd9cc20572e946 = {
   wardrobeTags: ["wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

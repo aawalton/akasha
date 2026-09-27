@@ -12,4 +12,5 @@ export const image0903df61c84a5118 = {
   poseTags: ["pose-tag/laughing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sundress"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

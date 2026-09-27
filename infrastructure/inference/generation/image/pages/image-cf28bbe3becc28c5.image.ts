@@ -16,4 +16,5 @@ export const imageCf28bbe3becc28c5 = {
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/sitting", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

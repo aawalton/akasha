@@ -10,4 +10,5 @@ export const imageB2347e760fde9f1e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -28,4 +28,5 @@ export const imageCa3a741df4cd2782 = {
     "fantasy-tag/weapons",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

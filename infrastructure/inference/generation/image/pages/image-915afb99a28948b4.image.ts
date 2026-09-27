@@ -27,4 +27,5 @@ export const image915afb99a28948b4 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/shorts", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

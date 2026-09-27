@@ -21,4 +21,5 @@ export const imageEd28c60d16e89ec6 = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-away", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/sunglasses"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

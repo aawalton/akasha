@@ -17,4 +17,5 @@ export const image61ba34f6057eaecf = {
   poseTags: ["pose-tag/looking-back", "pose-tag/eating", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sundress"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

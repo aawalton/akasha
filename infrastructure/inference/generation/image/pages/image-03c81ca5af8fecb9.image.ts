@@ -21,4 +21,5 @@ export const image03c81ca5af8fecb9 = {
   poseTags: ["pose-tag/arms-raised", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/tights"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

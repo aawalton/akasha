@@ -10,4 +10,5 @@ export const image22f99c1ab5cc7acc = {
   poseTags: ["pose-tag/kneeling", "pose-tag/back-view", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

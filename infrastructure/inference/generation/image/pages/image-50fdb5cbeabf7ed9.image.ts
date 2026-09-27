@@ -25,4 +25,5 @@ export const image50fdb5cbeabf7ed9 = {
     "wardrobe-tag/high-neck",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageF92343644cb5c70c = {
   poseTags: ["pose-tag/embracing", "pose-tag/laughing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

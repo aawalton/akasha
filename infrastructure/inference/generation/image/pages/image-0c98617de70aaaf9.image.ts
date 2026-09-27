@@ -16,4 +16,5 @@ export const image0c98617de70aaaf9 = {
     "wardrobe-tag/off-shoulder",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image6cb4681bbbaa9ed1 = {
   poseTags: ["pose-tag/standing", "pose-tag/hands-on-chest", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const image0ba5041afaf9a098 = {
     "wardrobe-tag/nipples-visible",
   ],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

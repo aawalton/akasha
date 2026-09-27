@@ -11,4 +11,5 @@ export const image27871a4de16eba54 = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/mermaid"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

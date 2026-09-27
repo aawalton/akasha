@@ -21,4 +21,5 @@ export const imageC8752c734a3e56e9 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/glowing-eyes", "fantasy-tag/green-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

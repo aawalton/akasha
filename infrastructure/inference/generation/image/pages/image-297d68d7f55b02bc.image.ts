@@ -12,4 +12,5 @@ export const image297d68d7f55b02bc = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/latex"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

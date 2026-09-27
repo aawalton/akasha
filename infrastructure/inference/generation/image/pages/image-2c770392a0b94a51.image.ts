@@ -22,4 +22,5 @@ export const image2c770392a0b94a51 = {
   wardrobeTags: ["wardrobe-tag/jewelry", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

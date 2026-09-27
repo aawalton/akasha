@@ -22,4 +22,5 @@ export const imageAdaff096672346ca = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageDfa38aa7227e9935 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/silk", "wardrobe-tag/slip-dress", "wardrobe-tag/spaghetti-straps"],
   ethnicityTags: ["ethnicity-tag/black"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

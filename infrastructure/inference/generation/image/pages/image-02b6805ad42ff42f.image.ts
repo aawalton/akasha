@@ -10,4 +10,5 @@ export const image02b6805ad42ff42f = {
   poseTags: ["pose-tag/standing", "pose-tag/painting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

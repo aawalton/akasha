@@ -21,4 +21,5 @@ export const imageD3828c35e83ee216 = {
   poseTags: ["pose-tag/standing", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

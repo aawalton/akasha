@@ -31,4 +31,5 @@ export const image04cfdecc22f91c78 = {
   ],
   fantasyTags: ["fantasy-tag/warrior"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

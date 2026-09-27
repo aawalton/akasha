@@ -20,4 +20,5 @@ export const imageFc810f0778043562 = {
   poseTags: ["pose-tag/laughing", "pose-tag/looking-up", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/deep-v-neck"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

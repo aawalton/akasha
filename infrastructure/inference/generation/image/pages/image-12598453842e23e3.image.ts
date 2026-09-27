@@ -15,4 +15,5 @@ export const image12598453842e23e3 = {
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

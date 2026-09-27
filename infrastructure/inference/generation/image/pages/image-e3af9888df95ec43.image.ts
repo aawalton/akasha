@@ -11,4 +11,5 @@ export const imageE3af9888df95ec43 = {
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/silk"],
   fantasyTags: ["fantasy-tag/fairy-tale"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

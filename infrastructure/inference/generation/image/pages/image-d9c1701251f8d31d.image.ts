@@ -12,4 +12,5 @@ export const imageD9c1701251f8d31d = {
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/sleepwear", "wardrobe-tag/camisole"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

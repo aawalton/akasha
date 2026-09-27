@@ -12,4 +12,5 @@ export const imageBea53cb007c1ef26 = {
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/boots", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

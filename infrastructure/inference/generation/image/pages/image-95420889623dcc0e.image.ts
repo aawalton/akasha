@@ -10,4 +10,5 @@ export const image95420889623dcc0e = {
   poseTags: ["pose-tag/cowgirl", "pose-tag/fighting"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/dragon", "fantasy-tag/monster-girl", "fantasy-tag/magic"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

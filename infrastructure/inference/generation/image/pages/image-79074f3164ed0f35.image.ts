@@ -18,4 +18,5 @@ export const image79074f3164ed0f35 = {
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

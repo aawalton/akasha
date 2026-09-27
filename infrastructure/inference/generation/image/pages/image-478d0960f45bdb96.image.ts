@@ -10,4 +10,5 @@ export const image478d0960f45bdb96 = {
   poseTags: ["pose-tag/looking-in-mirror", "pose-tag/hand-in-hair", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/robe"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

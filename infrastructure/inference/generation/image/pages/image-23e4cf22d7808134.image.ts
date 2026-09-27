@@ -27,4 +27,5 @@ export const image23e4cf22d7808134 = {
   ],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/sheer", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

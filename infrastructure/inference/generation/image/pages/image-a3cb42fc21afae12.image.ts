@@ -11,4 +11,5 @@ export const imageA3cb42fc21afae12 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/partial-undress", "wardrobe-tag/barefoot"],
   ethnicityTags: ["ethnicity-tag/latina"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

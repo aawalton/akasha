@@ -17,4 +17,5 @@ export const imageBb26fe821e48726d = {
     "fantasy-tag/android",
   ],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

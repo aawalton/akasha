@@ -21,4 +21,5 @@ export const image2ba7955fb2efea75 = {
   ],
   fantasyTags: ["fantasy-tag/antlers"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

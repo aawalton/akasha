@@ -11,4 +11,5 @@ export const image9cce4974d26c6757 = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk", "wardrobe-tag/lingerie"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

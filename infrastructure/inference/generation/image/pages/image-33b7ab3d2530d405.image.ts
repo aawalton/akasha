@@ -20,4 +20,5 @@ export const image33b7ab3d2530d405 = {
   poseTags: ["pose-tag/side-by-side", "pose-tag/embracing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

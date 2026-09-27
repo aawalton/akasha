@@ -26,4 +26,5 @@ export const image990c3a82df5da5a8 = {
   ],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

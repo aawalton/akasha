@@ -30,4 +30,5 @@ export const imageD522bd08ba0a15fa = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gown"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const imageD6da2eb6abf15f76 = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/silk", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/cosmic", "fantasy-tag/ethereal"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

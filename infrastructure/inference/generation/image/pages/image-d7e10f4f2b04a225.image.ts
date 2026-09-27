@@ -10,4 +10,5 @@ export const imageD7e10f4f2b04a225 = {
   poseTags: ["pose-tag/back-view", "pose-tag/sex", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

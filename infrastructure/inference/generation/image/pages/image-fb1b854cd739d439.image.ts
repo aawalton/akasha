@@ -20,4 +20,5 @@ export const imageFb1b854cd739d439 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/cloak"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

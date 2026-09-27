@@ -16,4 +16,5 @@ export const imageCfcf22e5b8045c0d = {
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/monster-girl", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

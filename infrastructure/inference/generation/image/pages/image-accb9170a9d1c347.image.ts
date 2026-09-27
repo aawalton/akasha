@@ -11,4 +11,5 @@ export const imageAccb9170a9d1c347 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing-eyes", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/black"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image7207470c6444c44f = {
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

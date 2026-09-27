@@ -11,4 +11,5 @@ export const image5bd4a438bf6ae367 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/pants"],
   fantasyTags: ["fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

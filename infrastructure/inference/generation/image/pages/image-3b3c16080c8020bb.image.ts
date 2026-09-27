@@ -21,4 +21,5 @@ export const image3b3c16080c8020bb = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-up", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const image1a53e297e1b492d0 = {
   wardrobeTags: ["wardrobe-tag/stockings", "wardrobe-tag/lingerie", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/monster-girl", "fantasy-tag/mermaid"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image53aab45446d4d580 = {
   poseTags: ["pose-tag/leaning-forward", "pose-tag/winking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/headband", "wardrobe-tag/leggings"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

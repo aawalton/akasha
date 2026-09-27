@@ -10,4 +10,5 @@ export const imageFa0ac0f713da77e6 = {
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

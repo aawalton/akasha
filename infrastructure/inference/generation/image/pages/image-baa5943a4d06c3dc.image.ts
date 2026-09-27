@@ -10,4 +10,5 @@ export const imageBaa5943a4d06c3dc = {
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/headband"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

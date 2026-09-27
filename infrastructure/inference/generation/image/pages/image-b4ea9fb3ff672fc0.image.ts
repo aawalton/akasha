@@ -20,4 +20,5 @@ export const imageB4ea9fb3ff672fc0 = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/latex", "wardrobe-tag/bodysuit", "wardrobe-tag/gloves"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

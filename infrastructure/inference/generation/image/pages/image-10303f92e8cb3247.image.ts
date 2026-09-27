@@ -11,4 +11,5 @@ export const image10303f92e8cb3247 = {
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

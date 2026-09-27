@@ -10,4 +10,5 @@ export const image9c116e88799c3d5e = {
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/partial-undress", "wardrobe-tag/body-paint"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

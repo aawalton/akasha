@@ -15,4 +15,5 @@ export const imageCe543388203c0f19 = {
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/choker", "wardrobe-tag/hair-accessory"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

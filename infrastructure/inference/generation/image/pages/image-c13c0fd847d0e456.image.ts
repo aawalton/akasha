@@ -16,4 +16,5 @@ export const imageC13c0fd847d0e456 = {
   ],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing", "fantasy-tag/ethereal"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageAc3a27a469b8ffbf = {
   poseTags: ["pose-tag/looking-back", "pose-tag/back-view", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/towel", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

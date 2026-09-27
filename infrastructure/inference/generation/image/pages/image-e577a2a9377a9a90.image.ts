@@ -22,4 +22,5 @@ export const imageE577a2a9377a9a90 = {
   wardrobeTags: ["wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/monster-girl", "fantasy-tag/ghost", "fantasy-tag/gothic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

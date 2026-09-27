@@ -21,4 +21,5 @@ export const imageB9bc7062e9e3f5dc = {
   ],
   fantasyTags: ["fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

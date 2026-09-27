@@ -12,4 +12,5 @@ export const image343353eadde37451 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/mermaid"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

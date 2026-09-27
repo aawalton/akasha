@@ -10,4 +10,5 @@ export const imageC945098157145367 = {
   poseTags: ["pose-tag/legs-spread", "pose-tag/masturbation", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

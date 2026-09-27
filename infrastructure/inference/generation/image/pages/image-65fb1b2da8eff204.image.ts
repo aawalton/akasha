@@ -20,4 +20,5 @@ export const image65fb1b2da8eff204 = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/jeans", "wardrobe-tag/sweater", "wardrobe-tag/sneakers"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

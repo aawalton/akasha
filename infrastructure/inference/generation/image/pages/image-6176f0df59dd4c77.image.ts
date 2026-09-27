@@ -15,4 +15,5 @@ export const image6176f0df59dd4c77 = {
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/tank-top", "wardrobe-tag/panties"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

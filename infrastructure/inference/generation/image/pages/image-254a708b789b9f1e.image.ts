@@ -23,4 +23,5 @@ export const image254a708b789b9f1e = {
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/bare-shoulders", "wardrobe-tag/silk"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/purple-eyes", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageAdd499c60ccc5bae = {
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-up", "pose-tag/mouth-open"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const image71a4f78d1e9ddab3 = {
     "fantasy-tag/nature-spirit",
   ],
   ethnicityTags: ["ethnicity-tag/black"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

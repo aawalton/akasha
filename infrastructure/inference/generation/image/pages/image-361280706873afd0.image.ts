@@ -20,4 +20,5 @@ export const image361280706873afd0 = {
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const imageBc242ad943db5b90 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/topless", "wardrobe-tag/bottomless"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/nature-spirit", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

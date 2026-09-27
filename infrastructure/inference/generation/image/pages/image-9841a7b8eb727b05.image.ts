@@ -10,4 +10,5 @@ export const image9841a7b8eb727b05 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

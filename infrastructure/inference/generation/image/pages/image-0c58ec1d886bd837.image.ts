@@ -21,4 +21,5 @@ export const image0c58ec1d886bd837 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

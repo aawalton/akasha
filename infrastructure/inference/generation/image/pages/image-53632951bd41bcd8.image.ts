@@ -26,4 +26,5 @@ export const image53632951bd41bcd8 = {
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

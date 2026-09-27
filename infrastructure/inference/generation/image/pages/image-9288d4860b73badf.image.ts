@@ -10,4 +10,5 @@ export const image9288d4860b73badf = {
   poseTags: ["pose-tag/straddling", "pose-tag/sitting", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

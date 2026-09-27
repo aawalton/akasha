@@ -12,4 +12,5 @@ export const imageF99e215649bef225 = {
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/gloves", "wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

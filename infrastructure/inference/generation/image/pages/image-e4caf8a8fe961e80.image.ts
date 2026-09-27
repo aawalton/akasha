@@ -26,4 +26,5 @@ export const imageE4caf8a8fe961e80 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

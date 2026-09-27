@@ -16,4 +16,5 @@ export const image9eecb10d460975d3 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/magic", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

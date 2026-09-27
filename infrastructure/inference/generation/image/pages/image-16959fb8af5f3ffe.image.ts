@@ -16,4 +16,5 @@ export const image16959fb8af5f3ffe = {
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

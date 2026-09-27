@@ -16,4 +16,5 @@ export const imageBaf28ce1f6029db6 = {
   ],
   fantasyTags: ["fantasy-tag/glowing"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

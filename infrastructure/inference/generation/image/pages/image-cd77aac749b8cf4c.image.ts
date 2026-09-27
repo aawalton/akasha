@@ -26,4 +26,5 @@ export const imageCd77aac749b8cf4c = {
   ],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

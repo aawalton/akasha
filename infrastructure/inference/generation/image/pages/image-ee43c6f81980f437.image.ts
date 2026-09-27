@@ -15,4 +15,5 @@ export const imageEe43c6f81980f437 = {
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const image26bf1589d43249d9 = {
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/sheet"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

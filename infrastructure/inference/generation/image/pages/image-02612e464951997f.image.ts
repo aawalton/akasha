@@ -25,4 +25,5 @@ export const image02612e464951997f = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/casual-wear"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

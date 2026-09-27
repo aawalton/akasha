@@ -22,4 +22,5 @@ export const image71a3827fad15c047 = {
   wardrobeTags: ["wardrobe-tag/belt", "wardrobe-tag/skirt", "wardrobe-tag/bare-midriff"],
   fantasyTags: ["fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

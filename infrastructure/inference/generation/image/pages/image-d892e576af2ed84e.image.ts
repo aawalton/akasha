@@ -21,4 +21,5 @@ export const imageD892e576af2ed84e = {
   ],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageE10458d906899772 = {
     "wardrobe-tag/body-paint",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

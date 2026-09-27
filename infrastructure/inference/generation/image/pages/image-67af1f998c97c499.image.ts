@@ -12,4 +12,5 @@ export const image67af1f998c97c499 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/wig", "wardrobe-tag/socks"],
   fantasyTags: ["fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

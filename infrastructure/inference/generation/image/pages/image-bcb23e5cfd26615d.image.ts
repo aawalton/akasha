@@ -11,4 +11,5 @@ export const imageBcb23e5cfd26615d = {
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageCa0558332a061e52 = {
   poseTags: ["pose-tag/looking-away", "pose-tag/sitting", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/casual-wear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

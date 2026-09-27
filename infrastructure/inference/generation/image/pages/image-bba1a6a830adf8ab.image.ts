@@ -11,4 +11,5 @@ export const imageBba1a6a830adf8ab = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

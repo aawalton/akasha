@@ -20,4 +20,5 @@ export const image9eb8f0cf4e973c23 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/wet"],
   ethnicityTags: ["ethnicity-tag/latina"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

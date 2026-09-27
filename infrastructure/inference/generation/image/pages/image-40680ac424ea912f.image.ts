@@ -21,4 +21,5 @@ export const image40680ac424ea912f = {
   poseTags: ["pose-tag/leaning", "pose-tag/looking-up", "pose-tag/reading", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/sweater"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

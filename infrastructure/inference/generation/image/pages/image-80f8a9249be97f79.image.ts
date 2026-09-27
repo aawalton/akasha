@@ -16,4 +16,5 @@ export const image80f8a9249be97f79 = {
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/off-shoulder", "wardrobe-tag/sleepwear"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

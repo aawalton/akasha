@@ -15,4 +15,5 @@ export const imageB552fd8dedfe35ac = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/partial-undress", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

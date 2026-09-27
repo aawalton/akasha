@@ -10,4 +10,5 @@ export const image5ceb8bc7900d92d9 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/working", "pose-tag/bent-over", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/shorts", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

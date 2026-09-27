@@ -9,4 +9,5 @@ export const image3907e2c9bfb70fed = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/serious-expression", "pose-tag/front-view"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

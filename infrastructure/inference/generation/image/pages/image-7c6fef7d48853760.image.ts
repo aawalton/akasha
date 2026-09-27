@@ -22,4 +22,5 @@ export const image7c6fef7d48853760 = {
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/surreal", "fantasy-tag/cosmic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

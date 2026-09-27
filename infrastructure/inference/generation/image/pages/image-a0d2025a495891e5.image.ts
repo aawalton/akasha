@@ -20,4 +20,5 @@ export const imageA0d2025a495891e5 = {
   poseTags: ["pose-tag/close-up", "pose-tag/embracing", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

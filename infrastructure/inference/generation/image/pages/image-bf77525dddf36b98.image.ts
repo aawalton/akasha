@@ -25,4 +25,5 @@ export const imageBf77525dddf36b98 = {
     "wardrobe-tag/strapless",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

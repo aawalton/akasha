@@ -16,4 +16,5 @@ export const imageEe2031c71de732da = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/fur", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/antlers", "fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

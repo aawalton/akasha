@@ -21,4 +21,5 @@ export const image62c87182b09eea8c = {
   poseTags: ["pose-tag/standing", "pose-tag/gaming", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

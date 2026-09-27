@@ -27,4 +27,5 @@ export const imageBe71580897b43cc4 = {
   ],
   fantasyTags: ["fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image6f1de68b56dff618 = {
   poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

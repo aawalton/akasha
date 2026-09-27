@@ -21,4 +21,5 @@ export const image3ac49a8912f0530e = {
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/hat"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

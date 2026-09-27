@@ -22,4 +22,5 @@ export const image81f74ac8516f85da = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

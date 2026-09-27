@@ -11,4 +11,5 @@ export const image458d627d2ca1befc = {
   poseTags: ["pose-tag/sitting", "pose-tag/profile", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweater", "wardrobe-tag/loungewear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const image9638981433a4c0ca = {
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/boots", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const image4eefb2443e65d721 = {
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/leggings", "wardrobe-tag/long-sleeves"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

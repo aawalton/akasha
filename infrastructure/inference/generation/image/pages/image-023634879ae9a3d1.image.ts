@@ -12,4 +12,5 @@ export const image023634879ae9a3d1 = {
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/belt", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/mythological", "fantasy-tag/magic", "fantasy-tag/dragon"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

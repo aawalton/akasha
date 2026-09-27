@@ -10,4 +10,5 @@ export const image00374c8100d21246 = {
   poseTags: ["pose-tag/kissing", "pose-tag/bathing", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

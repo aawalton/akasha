@@ -11,4 +11,5 @@ export const image03ec99087a12cad3 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

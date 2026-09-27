@@ -20,4 +20,5 @@ export const imageDe1270ad9506e7e8 = {
   ],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/crop-top", "wardrobe-tag/jeans"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-35-44"],
 } as const satisfies Image

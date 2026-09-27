@@ -17,4 +17,5 @@ export const imageEde274c08bac94bf = {
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/skirt", "wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing-eyes", "fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const image3f4611d8707dc98a = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bikini"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image470560d434ea12cc = {
   poseTags: ["pose-tag/back-view", "pose-tag/reclining", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

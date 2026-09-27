@@ -9,4 +9,5 @@ export const image7d2d3bc8f43553cc = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

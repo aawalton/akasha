@@ -30,4 +30,5 @@ export const image38ce7efd1499da0a = {
   ],
   wardrobeTags: ["wardrobe-tag/sleeveless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

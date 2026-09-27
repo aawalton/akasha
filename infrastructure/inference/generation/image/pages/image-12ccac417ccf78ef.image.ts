@@ -20,4 +20,5 @@ export const image12ccac417ccf78ef = {
   poseTags: ["pose-tag/straddling", "pose-tag/cowgirl", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

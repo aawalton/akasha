@@ -21,4 +21,5 @@ export const image5acc98c2dc6f1eee = {
   poseTags: ["pose-tag/reclining", "pose-tag/curled-up", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/lingerie"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

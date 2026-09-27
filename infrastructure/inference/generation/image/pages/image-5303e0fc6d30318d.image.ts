@@ -10,4 +10,5 @@ export const image5303e0fc6d30318d = {
   poseTags: ["pose-tag/reclining", "pose-tag/straddling", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24", "age-tag/age-35-44"],
 } as const satisfies Image

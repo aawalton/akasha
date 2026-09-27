@@ -12,4 +12,5 @@ export const image9e264edfe00ade7d = {
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/nude", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

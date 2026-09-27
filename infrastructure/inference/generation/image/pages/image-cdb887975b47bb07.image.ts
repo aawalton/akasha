@@ -21,4 +21,5 @@ export const imageCdb887975b47bb07 = {
   poseTags: ["pose-tag/stretching", "pose-tag/arms-raised", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const imageE0fe25abda1cdbd1 = {
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/tights"],
   fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/elf-ears", "fantasy-tag/red-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

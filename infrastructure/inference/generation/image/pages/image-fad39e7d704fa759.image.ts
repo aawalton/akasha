@@ -11,4 +11,5 @@ export const imageFad39e7d704fa759 = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

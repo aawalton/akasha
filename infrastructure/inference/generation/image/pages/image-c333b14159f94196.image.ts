@@ -12,4 +12,5 @@ export const imageC333b14159f94196 = {
   poseTags: ["pose-tag/looking-away", "pose-tag/profile", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

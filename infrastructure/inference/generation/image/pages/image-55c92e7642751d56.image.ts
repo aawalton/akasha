@@ -31,4 +31,5 @@ export const image55c92e7642751d56 = {
     "wardrobe-tag/deep-v-neck",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

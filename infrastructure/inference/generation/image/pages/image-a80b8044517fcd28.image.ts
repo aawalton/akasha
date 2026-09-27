@@ -10,4 +10,5 @@ export const imageA80b8044517fcd28 = {
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

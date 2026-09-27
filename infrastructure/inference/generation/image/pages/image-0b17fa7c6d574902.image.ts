@@ -9,4 +9,5 @@ export const image0b17fa7c6d574902 = {
   settingTags: ["setting-tag/spa", "setting-tag/bathroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/wet", "wardrobe-tag/dress"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

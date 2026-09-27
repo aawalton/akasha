@@ -15,4 +15,5 @@ export const image9444b40d851fa9a6 = {
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/corset", "wardrobe-tag/strapless"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image2221f285c5db6024 = {
   poseTags: ["pose-tag/bathing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

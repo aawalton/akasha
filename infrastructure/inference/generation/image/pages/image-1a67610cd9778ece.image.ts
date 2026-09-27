@@ -10,4 +10,5 @@ export const image1a67610cd9778ece = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/floating"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/ghost", "fantasy-tag/ethereal"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageC2486f31750c2cb5 = {
   poseTags: ["pose-tag/close-up", "pose-tag/kissing", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

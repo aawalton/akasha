@@ -31,4 +31,5 @@ export const image1e10148bd82df468 = {
   ],
   fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

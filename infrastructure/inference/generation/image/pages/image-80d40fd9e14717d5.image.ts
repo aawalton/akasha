@@ -10,4 +10,5 @@ export const image80d40fd9e14717d5 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/all-fours", "pose-tag/sex", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

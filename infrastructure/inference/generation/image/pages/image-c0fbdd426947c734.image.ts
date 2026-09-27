@@ -10,4 +10,5 @@ export const imageC0fbdd426947c734 = {
   poseTags: ["pose-tag/sleeping", "pose-tag/reclining", "pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/sheet"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageF8da512a7bd61594 = {
     "wardrobe-tag/choker",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

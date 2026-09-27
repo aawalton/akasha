@@ -27,4 +27,5 @@ export const imageCa56b7aeeafdd3cd = {
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/tank-top", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/animal-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

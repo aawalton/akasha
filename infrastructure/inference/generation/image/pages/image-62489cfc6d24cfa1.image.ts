@@ -11,4 +11,5 @@ export const image62489cfc6d24cfa1 = {
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/monster-girl"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

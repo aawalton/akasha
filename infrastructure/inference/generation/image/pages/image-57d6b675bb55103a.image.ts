@@ -22,4 +22,5 @@ export const image57d6b675bb55103a = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/flower-crown"],
   fantasyTags: ["fantasy-tag/nature-spirit"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

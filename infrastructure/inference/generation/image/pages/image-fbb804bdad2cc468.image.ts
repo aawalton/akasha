@@ -10,4 +10,5 @@ export const imageFbb804bdad2cc468 = {
   poseTags: ["pose-tag/cowgirl", "pose-tag/kneeling", "pose-tag/lying-down", "pose-tag/tongue-out"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

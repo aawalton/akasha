@@ -12,4 +12,5 @@ export const imageB5b295b6f2927983 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/glowing-eyes", "fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

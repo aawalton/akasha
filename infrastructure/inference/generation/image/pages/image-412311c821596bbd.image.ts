@@ -20,4 +20,5 @@ export const image412311c821596bbd = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cloak"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

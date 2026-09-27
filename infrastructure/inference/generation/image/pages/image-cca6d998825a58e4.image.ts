@@ -21,4 +21,5 @@ export const imageCca6d998825a58e4 = {
   wardrobeTags: ["wardrobe-tag/tunic", "wardrobe-tag/sheet", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

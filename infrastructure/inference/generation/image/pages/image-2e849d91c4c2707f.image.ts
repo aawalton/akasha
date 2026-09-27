@@ -10,4 +10,5 @@ export const image2e849d91c4c2707f = {
   poseTags: ["pose-tag/lying-down", "pose-tag/curled-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

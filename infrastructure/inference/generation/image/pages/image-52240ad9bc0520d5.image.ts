@@ -10,4 +10,5 @@ export const image52240ad9bc0520d5 = {
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless", "wardrobe-tag/dress"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

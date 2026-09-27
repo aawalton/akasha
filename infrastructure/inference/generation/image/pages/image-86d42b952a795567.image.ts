@@ -16,4 +16,5 @@ export const image86d42b952a795567 = {
   ],
   fantasyTags: ["fantasy-tag/purple-hair", "fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

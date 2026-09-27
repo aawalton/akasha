@@ -16,4 +16,5 @@ export const imageAd5d2f59784b7c42 = {
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/leggings", "wardrobe-tag/barefoot"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

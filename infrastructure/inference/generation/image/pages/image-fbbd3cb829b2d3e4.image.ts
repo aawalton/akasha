@@ -22,4 +22,5 @@ export const imageFbbd3cb829b2d3e4 = {
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/purple-eyes", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image59c90b8ac49135f2 = {
   poseTags: ["pose-tag/reclining", "pose-tag/legs-spread", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const imageB66f95ea3624807a = {
   ],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/sleeveless", "wardrobe-tag/casual-wear"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

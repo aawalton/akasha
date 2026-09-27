@@ -12,4 +12,5 @@ export const image5395cfc7c239e301 = {
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/sports-bra", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

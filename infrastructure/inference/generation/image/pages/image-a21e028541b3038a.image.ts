@@ -21,4 +21,5 @@ export const imageA21e028541b3038a = {
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/gloves", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

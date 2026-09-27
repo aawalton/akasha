@@ -11,4 +11,5 @@ export const image0fde79ddaeba85b8 = {
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/arms-crossed", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/leggings"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

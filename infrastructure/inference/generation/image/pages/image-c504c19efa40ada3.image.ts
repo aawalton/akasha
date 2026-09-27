@@ -10,4 +10,5 @@ export const imageC504c19efa40ada3 = {
   poseTags: ["pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/sheet"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const imageAb73854db07fa869 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/warrior"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

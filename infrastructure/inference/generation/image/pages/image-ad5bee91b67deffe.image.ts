@@ -20,4 +20,5 @@ export const imageAd5bee91b67deffe = {
   poseTags: ["pose-tag/cowgirl", "pose-tag/laughing", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/sneakers"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

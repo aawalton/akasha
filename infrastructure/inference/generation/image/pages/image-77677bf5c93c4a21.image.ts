@@ -15,4 +15,5 @@ export const image77677bf5c93c4a21 = {
   ],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

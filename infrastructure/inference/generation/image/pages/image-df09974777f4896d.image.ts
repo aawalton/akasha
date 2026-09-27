@@ -9,4 +9,5 @@ export const imageDf09974777f4896d = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image78b3c8328fba82ad = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-away", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

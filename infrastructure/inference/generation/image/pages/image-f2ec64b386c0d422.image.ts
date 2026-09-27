@@ -15,4 +15,5 @@ export const imageF2ec64b386c0d422 = {
     "wardrobe-tag/cleavage",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

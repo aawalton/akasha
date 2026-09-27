@@ -15,4 +15,5 @@ export const image4ab4fc38e721ef7b = {
     "wardrobe-tag/qipao",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

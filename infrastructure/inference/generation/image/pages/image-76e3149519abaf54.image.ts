@@ -20,4 +20,5 @@ export const image76e3149519abaf54 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-in-mirror"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageD4a655e2989d79a5 = {
   wardrobeTags: ["wardrobe-tag/swimsuit"],
   fantasyTags: ["fantasy-tag/cosmic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

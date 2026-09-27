@@ -11,4 +11,5 @@ export const image8ac87b178270bd98 = {
   wardrobeTags: ["wardrobe-tag/suit", "wardrobe-tag/tights", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/fire"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

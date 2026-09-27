@@ -10,4 +10,5 @@ export const image1f2b708b82665185 = {
   poseTags: ["pose-tag/fighting", "pose-tag/running", "pose-tag/floating", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/tunic", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/anthro", "fantasy-tag/magic"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

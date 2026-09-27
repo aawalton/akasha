@@ -21,4 +21,5 @@ export const imageFa195e768cf4b7b3 = {
   ],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/monster-girl", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34", "age-tag/age-35-44"],
 } as const satisfies Image

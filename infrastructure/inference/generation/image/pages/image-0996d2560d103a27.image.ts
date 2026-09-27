@@ -12,4 +12,5 @@ export const image0996d2560d103a27 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

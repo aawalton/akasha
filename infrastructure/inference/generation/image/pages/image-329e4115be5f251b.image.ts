@@ -15,4 +15,5 @@ export const image329e4115be5f251b = {
   ],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/sports-bra", "wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

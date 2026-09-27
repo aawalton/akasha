@@ -15,4 +15,5 @@ export const image60787295edb4f120 = {
     "wardrobe-tag/gloves",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34", "age-tag/age-45-plus"],
 } as const satisfies Image

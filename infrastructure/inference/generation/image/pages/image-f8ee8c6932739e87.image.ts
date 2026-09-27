@@ -12,4 +12,5 @@ export const imageF8ee8c6932739e87 = {
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/deep-v-neck", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

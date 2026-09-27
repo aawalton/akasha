@@ -11,4 +11,5 @@ export const image0bd96f71731b3788 = {
   wardrobeTags: ["wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/silver-hair", "fantasy-tag/red-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

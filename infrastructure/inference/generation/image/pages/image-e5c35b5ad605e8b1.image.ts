@@ -27,4 +27,5 @@ export const imageE5c35b5ad605e8b1 = {
   ],
   fantasyTags: ["fantasy-tag/angel", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

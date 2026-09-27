@@ -20,4 +20,5 @@ export const image40a26b67996eb1e3 = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

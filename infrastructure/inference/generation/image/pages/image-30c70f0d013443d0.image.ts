@@ -11,4 +11,5 @@ export const image30c70f0d013443d0 = {
   wardrobeTags: ["wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

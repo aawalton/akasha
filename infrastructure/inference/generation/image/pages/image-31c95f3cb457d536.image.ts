@@ -11,4 +11,5 @@ export const image31c95f3cb457d536 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/robe"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

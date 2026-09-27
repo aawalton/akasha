@@ -20,4 +20,5 @@ export const imageAdf8f91968abf35b = {
   poseTags: ["pose-tag/sitting", "pose-tag/leaning-forward", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/headphones"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

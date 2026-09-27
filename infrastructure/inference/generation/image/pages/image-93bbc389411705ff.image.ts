@@ -21,4 +21,5 @@ export const image93bbc389411705ff = {
   wardrobeTags: ["wardrobe-tag/deep-v-neck", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

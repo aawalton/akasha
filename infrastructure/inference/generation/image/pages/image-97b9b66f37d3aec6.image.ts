@@ -10,4 +10,5 @@ export const image97b9b66f37d3aec6 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/kneeling", "pose-tag/legs-up", "pose-tag/oral-sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image64d1714f48ef2439 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/gold-trim", "wardrobe-tag/high-neck"],
   fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/latina"],
+  ageTags: ["age-tag/age-25-34"],
 } as const satisfies Image
