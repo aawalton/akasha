@@ -17,15 +17,20 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-slots/companion-armor-slots.module.code.ts"
 import {
   type CompanionArmorWeight,
+  companionArmorWeightAt,
   companionArmorWeights,
   isCompanionArmorWeight,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-armor-weights/companion-armor-weights.module.code.ts"
 import { getCompanionArmorIcon } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { isCompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import {
+  companionEquipmentQualityName,
+  isCompanionEquipmentQualityId,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { availableQualityOptions } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import {
   type CompanionTraitId,
+  companionTraitAt,
   companionTraits,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionArmorSlotItem } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
@@ -40,9 +45,6 @@ import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/c
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { companionArmorPanelCardArmor } from "akasha/temper/web/phrase/pages/companion-armor-panel-card-armor.temper-web-phrase.ts"
-import { companionArmorPanelCardNoQuality } from "akasha/temper/web/phrase/pages/companion-armor-panel-card-no-quality.temper-web-phrase.ts"
-import { companionArmorPanelCardNoTrait } from "akasha/temper/web/phrase/pages/companion-armor-panel-card-no-trait.temper-web-phrase.ts"
-import { companionArmorPanelCardNoWeight } from "akasha/temper/web/phrase/pages/companion-armor-panel-card-no-weight.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 export function CompanionArmorPanelCard({
@@ -51,9 +53,9 @@ export function CompanionArmorPanelCard({
   readOnly,
 }: CompanionEquipmentPanelProps) {
   const phrase = usePhrase()
-  const noQuality = phrase(companionArmorPanelCardNoQuality.slug)
-  const noWeight = phrase(companionArmorPanelCardNoWeight.slug)
-  const noTrait = phrase(companionArmorPanelCardNoTrait.slug)
+  const noQuality = companionEquipmentQualityName("no-quality")
+  const noWeight = companionArmorWeightAt("no-weight").name
+  const noTrait = companionTraitAt("no-trait").name
   const weightOptions = companionArmorWeights()
 
   const handleArmorChange = (
