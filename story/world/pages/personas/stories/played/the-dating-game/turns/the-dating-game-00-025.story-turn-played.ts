@@ -10,7 +10,7 @@ export const theDatingGame00025 = {
   position: 25,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“Hi there!” I walk over toward her. “I don’t think I’ve seen you here before. I’m Alan, I live just down the street there on Apple” I gesture back the way I came. “Nice to meet you!”",
   beats: [
@@ -18,7 +18,7 @@ export const theDatingGame00025 = {
     "\"I don't think I've seen you here before. I'm Alan, I live just down the street there on Apple.\"",
     'He gestures back the way he came. "Nice to meet you!"',
     "She follows his gesture down the street, then brings those gold eyes back to him.",
-    "She doesn't get up, but she leans back on her hands on the step, easy, making room for him.",
+    "She doesn't get up; she just sits back against the door frame, easy and unhurried.",
     '"Grace," she says. "Nice to meet you, Alan."',
     "She says his name slowly, as if setting it somewhere safe.",
     "\"You wouldn't have seen me. I keep late hours; I'm mostly out once it's dark.\"",
