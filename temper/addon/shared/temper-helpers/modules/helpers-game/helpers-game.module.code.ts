@@ -45,20 +45,22 @@ export function getServerName(this: void): string {
 
 const LOADSCREEN = { count: 0 }
 
+const BUNDLE_TOKEN = tostring(LOADSCREEN)
+
 export function runAfterInitialLoadscreen(
   this: void,
   func: (this: void, eventCode: number, ...args: unknown[]) => void
 ): undefined {
   LOADSCREEN.count = LOADSCREEN.count + 1
   EVENT_MANAGER.RegisterForEvent(
-    string.format("%s%d_%d", NAME, VERSION, LOADSCREEN.count),
+    string.format("%s%d_%s_%d", NAME, VERSION, BUNDLE_TOKEN, LOADSCREEN.count),
     EVENT_PLAYER_ACTIVATED,
     func,
     true
   )
 }
 
-const ZONE_EVENT_NAME = string.format("%s%d_ZoneChange", NAME, VERSION)
+const ZONE_EVENT_NAME = string.format("%s%d_%s_ZoneChange", NAME, VERSION, BUNDLE_TOKEN)
 const ZONE_CALLBACKS: Record<
   string,
   ((this: void, currentZoneId: number, previousZoneId: number) => void) | undefined

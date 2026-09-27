@@ -862,6 +862,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/narrow/modules/require-saved-variables/require-saved-variables.module.ts","id":"01a08e11-e16f-78aa-8cc2-9f44f46d50cf"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/narrow/temper-narrow.domain.ts","id":"01a060b6-99a1-7f39-a4b3-1a7f8d33b445"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/settings-panel/modules/dropdown/dropdown.module.ts","id":"01a06053-3637-7cbf-af2a-2b25ec6eea55"}
+{"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.ts","id":"01a0617d-5451-7952-9d26-5748fb7a36ff"}
 {"propertySlug":"decision-kind","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-alliance-map/character-capture-alliance-map.module.ts","id":"01a0616b-5a16-7e5f-b792-c43a0671a8d9"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.ts","id":"01a0616b-23c3-7958-8a1f-21a8646a50db"}
