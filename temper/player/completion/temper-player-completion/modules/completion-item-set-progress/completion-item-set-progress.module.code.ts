@@ -11,27 +11,27 @@ import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-
 export interface SetCategoryCatalogEntry {
   key: string
   activity?: string
+  esoCategoryNames?: readonly string[]
 }
 
 const NO_ACTIVITY: ActivityCategoryId = "other"
 
-const ESO_CATEGORY_NAME_MAP: Record<string, SetCategoryId> = {
-  dungeons: "dungeon",
-  "dlc dungeons": "dungeon",
-  trials: "trial",
-  arenas: "arena",
-  "infinite archive": "arena",
-  pvp: "pvp",
-  "aldmeri dominion": "overland",
-  "daggerfall covenant": "overland",
-  "ebonheart pact": "overland",
-  "dlc zones": "overland",
-  miscellaneous: "overland",
-  "season of the worm cult part 1": "overland",
+const NO_CATEGORY: SetCategoryId = "other"
+
+type CategoryOfName = ReadonlyMap<string, SetCategoryId>
+
+function categoriesByEsoName(catalog: readonly SetCategoryCatalogEntry[]): CategoryOfName {
+  const byName = new Map<string, SetCategoryId>()
+  for (const entry of catalog) {
+    for (const name of entry.esoCategoryNames ?? []) {
+      byName.set(name.toLowerCase(), entry.key as SetCategoryId)
+    }
+  }
+  return byName
 }
 
-function resolveSetCategoryId(esoCategoryName: string): SetCategoryId {
-  return ESO_CATEGORY_NAME_MAP[esoCategoryName.toLowerCase()] ?? "other"
+function resolveSetCategoryId(byName: CategoryOfName, esoCategoryName: string): SetCategoryId {
+  return byName.get(esoCategoryName.toLowerCase()) ?? NO_CATEGORY
 }
 
 const NESTED_ROOTS = new Set(["Infinite Archive"])
@@ -102,7 +102,8 @@ function sortedSubcategory(name: string, sets: ItemSetEntry[]): ItemSetSubcatego
 }
 
 function groupSetsByCategory(
-  addonSets: AccountCompletion["itemSets"] | undefined
+  addonSets: AccountCompletion["itemSets"] | undefined,
+  byName: CategoryOfName
 ): Map<SetCategoryId, Map<string, Map<string, ItemSetEntry[]>>> {
   const grouped = new Map<SetCategoryId, Map<string, Map<string, ItemSetEntry[]>>>()
 
@@ -113,7 +114,7 @@ function groupSetsByCategory(
 
     const categoryId =
       addonProgress?.categoryName != null
-        ? resolveSetCategoryId(addonProgress.categoryName)
+        ? resolveSetCategoryId(byName, addonProgress.categoryName)
         : set.subcategoryId
 
     if (categoryId === "crafted") continue
@@ -241,7 +242,7 @@ export function transformItemSetProgress(
   completion: AccountCompletion | null | undefined,
   setCategoryCatalog: readonly SetCategoryCatalogEntry[]
 ): ItemSetOverallProgress {
-  const grouped = groupSetsByCategory(completion?.itemSets)
+  const grouped = groupSetsByCategory(completion?.itemSets, categoriesByEsoName(setCategoryCatalog))
   const activities = new Map<string, ActivityCategoryId>()
   for (const entry of setCategoryCatalog) {
     if (entry.activity !== undefined)

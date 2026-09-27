@@ -8,4 +8,12 @@ export const overland = {
   key: "overland",
   displayOrder: 4,
   activity: "temper-activity-category/exploration",
+  esoCategoryNames: [
+    "Aldmeri Dominion",
+    "Daggerfall Covenant",
+    "Ebonheart Pact",
+    "DLC Zones",
+    "Miscellaneous",
+    "Season of the Worm Cult Part 1",
+  ],
 } as const satisfies TemperSetCategory

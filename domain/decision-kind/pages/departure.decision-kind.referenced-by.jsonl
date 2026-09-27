@@ -5060,6 +5060,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-quality/properties/game-name.text-property.ts","id":"01a0e10f-604e-7bfd-9d06-e043676e7fa7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-quality/temper-quality.page-type.ts","id":"01a05fd1-d43f-7460-806b-41a2697dcbed"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.ts","id":"01a05fd1-d435-7be6-b06d-cee7752f59c6"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set-category/properties/eso-category-names.text-property.ts","id":"01a0e110-59ba-7cad-8b46-f3f3f315505d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","id":"01a0d8c5-6849-7240-a278-39392a74c2a7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.ts","id":"01a0de32-9635-7c38-a44b-a268b1083d65"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/bonus-effects.record-property.ts","id":"01a05fd1-d436-73c6-b34e-3d504facf23f"}

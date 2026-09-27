@@ -8,4 +8,5 @@ export const dungeon = {
   key: "dungeon",
   displayOrder: 2,
   activity: "temper-activity-category/group-dungeons",
+  esoCategoryNames: ["Dungeons", "DLC Dungeons"],
 } as const satisfies TemperSetCategory

@@ -25,6 +25,10 @@ export const completionItemSetProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The category the add-on names is found among the set category pages' ESO names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A category with several named roots nests its subcategories under those roots.",
     },
   ],
