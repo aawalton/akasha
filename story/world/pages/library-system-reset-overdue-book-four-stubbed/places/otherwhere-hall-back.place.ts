@@ -233,6 +233,14 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "A dried bookworm coil weighs a few pounds, light enough to carry two at once.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The five coils lie by the broken oval, some fifty feet out from the back steps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Dried bookworms feed the Library power once stored dry and safe for the night owls.",
       knowers: [
         "lore-disclosure/game-master",
