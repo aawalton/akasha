@@ -107,6 +107,10 @@ export const otherwhereCoreChamber = {
       fact: "Time feels fluid near the core under emergency protocols, and hours pass unnoticed.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Librarian syncs with the core by laying both hands on the trunk, shoulder-width apart.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
