@@ -1,4 +1,6 @@
 {"propertySlug":"base-stat-metric","path":"temper/player/character/source/temper-base-stat/pages/health-maximum.temper-base-stat.ts","id":"01a0df49-5528-73a5-9a6b-b16dc16abfc8"}
+{"propertySlug":"source-effect-metric","path":"temper/catalog/champion-point/temper-champion-star/pages/boundless-vitality.temper-champion-star.ts","id":"01a0e13c-0019-743b-ba2a-5ac7cf169120"}
+{"propertySlug":"source-effect-metric","path":"temper/catalog/champion-point/temper-champion-star/pages/heros-vigor.temper-champion-star.ts","id":"01a0e13c-001a-7c08-9ce2-1af74b0f8418"}
 {"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-attribute/pages/health.temper-attribute.ts","id":"01a0e057-42d0-783e-a498-d74ef6cc8307"}
 {"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/artaeum-pickled-fish-bowl.temper-food-or-drink.ts","id":"01a0e05d-1463-7e0e-b68a-576b597afc24"}
 {"propertySlug":"source-effect-metric","path":"temper/player/character/source/temper-food-or-drink/pages/artaeum-takeaway-broth.temper-food-or-drink.ts","id":"01a0e05d-1464-7d67-b9b1-f8f0edd3695e"}
