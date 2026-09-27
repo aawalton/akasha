@@ -10,7 +10,7 @@ export const otherwhere00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "I walk over and put my hand on the trunk.",
   beats: [
     "She walks toward the trunk in her socks, the springy floor carrying each step too far.",
@@ -30,5 +30,5 @@ export const otherwhere00003 = {
   ],
   issues: ['"low and patient, as if it\'s waiting" - No Prompt'],
   lore: ["place/otherwhere-core-chamber"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
