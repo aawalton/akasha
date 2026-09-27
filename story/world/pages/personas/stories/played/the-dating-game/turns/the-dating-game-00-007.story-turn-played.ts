@@ -10,7 +10,7 @@ export const theDatingGame00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I laugh and splash her back playfully from the fountain. The cool water feels great with the exertion of the hike. As we start walking again, I turn to her and ask \"So, I know this might be sensitive, but I noticed you mostly repeat things I've said. Why is that? No judgment, I'm autistic myself and that's not uncommon for autistic kids, so it's not unfamiliar for me.\"",
   beats: [
@@ -28,7 +28,8 @@ export const theDatingGame00007 = {
     '"You shall have the last word, and never the first."',
     "It sounds like someone else's sentence, said to her long ago; the walls throw it back.",
     'In her own warm voice again she says, "Never the first," and touches her lips.',
-    "She points to her mouth, then to the walls, then to him, and watches whether he understands.",
+    "She points to her mouth, then to the walls, then to him.",
+    "She waits, watching his face, to see whether he understands.",
   ],
   issues: ['"Then to you." - prose leaves out the beat where she watches whether he understands'],
   lore: ["lore/the-dating-game-echo"],
