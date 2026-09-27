@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"temper-skill-line-category.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-line-category.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-line-category.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-line-category.page-type.ts","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-line-category.page-type.ts","path":"temper/web/modules/use-passive-filter/use-passive-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-line-category.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-line-category.page-type.types.ts","path":"temper/catalog/skill/line-category/pages/alliance-war.temper-skill-line-category.ts","typed":true,"deferred":false}

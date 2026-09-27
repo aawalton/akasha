@@ -7,6 +7,7 @@ import {
   CollapsibleTrigger,
 } from "akasha/design/interface/primitive/modules/collapsible/collapsible.module.code.tsx"
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
+import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
   type SkillLineCategoryId,
@@ -24,6 +25,7 @@ import {
 } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import { getWeaponSkillLineIdsForBar } from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import { SkillCollapsibleCard } from "akasha/temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { passiveSkillsPanelCardNoMatch } from "akasha/temper/web/phrase/pages/passive-skills-panel-card-no-match.temper-web-phrase.ts"
 import { passiveSkillsPanelCardTitle } from "akasha/temper/web/phrase/pages/passive-skills-panel-card-title.temper-web-phrase.ts"
@@ -62,7 +64,6 @@ interface SkillLineGroup {
 
 interface CategoryGroup {
   categoryId: SkillLineCategoryId
-  categoryName: string
   skillLines: readonly SkillLineGroup[]
 }
 
@@ -122,6 +123,7 @@ export function PassiveSkillsPanelCard({
   selectedCategory = null,
 }: PassiveSkillsPanelCardProps) {
   const phrase = usePhrase()
+  const categoryTitles = useKeyedTitles(temperSkillLineCategory.slug)
   const allSkills = skills.list
   const categories = useMemo(() => {
     const applicableSkillLineIds = getApplicableSkillLineIds(character, equipment)
@@ -170,7 +172,6 @@ export function PassiveSkillsPanelCard({
       if (!groups || groups.length === 0) continue
       result.push({
         categoryId: category.id,
-        categoryName: category.name,
         skillLines: groups,
       })
     }
@@ -195,7 +196,7 @@ export function PassiveSkillsPanelCard({
           {categories.map((category) => (
             <div key={category.categoryId} className="space-y-1">
               <Heading variant="label-muted" as="h3" className="px-2">
-                {category.categoryName}
+                {categoryTitles?.titles.get(category.categoryId) ?? ""}
               </Heading>
               {category.skillLines.map((group) => (
                 <Collapsible key={group.skillLineId} defaultOpen={false}>
