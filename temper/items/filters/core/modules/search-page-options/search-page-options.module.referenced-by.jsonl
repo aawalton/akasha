@@ -3,5 +3,7 @@
 {"propertySlug":"import","fileName":"search-page-options.module.code.ts","path":"temper/items/filters/core/modules/search-item-type-filter/search-item-type-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"search-page-options.module.code.ts","path":"temper/items/filters/core/modules/search-item-type-filter/search-item-type-filter.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"search-page-options.module.code.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"search-page-options.module.code.ts","path":"temper/items/filters/core/modules/search-recipe-subtype-filter/search-recipe-subtype-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"search-page-options.module.code.ts","path":"temper/items/filters/core/modules/search-recipe-subtype-filter/search-recipe-subtype-filter.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"search-page-options.module.code.ts","path":"temper/items/filters/core/modules/search-weapon-type-filter/search-weapon-type-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/filters/core/temper-items-filters-core.domain.ts","id":"01a0613a-e0b3-78d9-aaac-decd150b1b76"}

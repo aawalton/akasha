@@ -5,12 +5,13 @@ export const searchRecipeSubtypeFilter = {
   type: "page-type/module",
   slug: "search-recipe-subtype-filter",
   definition:
-    "the specialized item type of a recipe, narrowed by a multiselect of nine recipe subtypes",
+    "the specialized item type of a recipe, narrowed by a multiselect of the specialized item type pages",
   code: "ts",
+  test: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "The nine option values are client specialized item-type numbers 170 through 178.",
+      decisionKind: "decision-kind/departure",
+      statement: "Each option is a specialized item type page's title under its number.",
     },
     {
       decisionKind: "decision-kind/absence",

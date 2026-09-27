@@ -1163,7 +1163,6 @@
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-item-name-filter/search-item-name-filter.module.ts","id":"01a0613a-e0a8-75a5-b44f-e3ccf7935549"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-quality-filter/search-quality-filter.module.ts","id":"01a0613a-e0ab-7528-b275-c36c451d9da6"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.ts","id":"01a0613a-e0ac-785c-a9b6-1aa6dca2564d"}
-{"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-recipe-subtype-filter/search-recipe-subtype-filter.module.ts","id":"01a0613a-e0ad-73d1-95f0-27bb2a879d89"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-server-narrowing/search-server-narrowing.module.ts","id":"01a0613a-e0ae-75b0-9cbe-58f1edfb2323"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-style-page-filter/search-style-page-filter.module.ts","id":"01a0613a-e0b0-7abb-9113-6a345a4c8717"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-survey-filter/search-survey-filter.module.ts","id":"01a0613a-e0b0-7b63-86a0-4e084089702c"}
