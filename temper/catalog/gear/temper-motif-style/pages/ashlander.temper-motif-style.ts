@@ -6,6 +6,7 @@ export const ashlander = {
   slug: "ashlander",
   title: "Ashlander",
   esoItemStyleId: 54,
+  styleName: "Ashlander",
   collectionIndex: 36,
   sourceDescription: "Hunting/relic dailies (Vvardenfell)",
   dropSources: [
