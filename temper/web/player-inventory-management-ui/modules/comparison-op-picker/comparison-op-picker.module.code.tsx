@@ -24,7 +24,7 @@ interface ComparisonOpPickerProps {
   onChange: (op: ComparisonOpId) => void
 }
 
-function useOperatorTitles(): ReadonlyMap<string, string> {
+export function useOperatorTitles(): ReadonlyMap<string, string> {
   const pages = usePages({ pageTypeSlug: temperComparisonOp.slug, limit: EVERY_OP })
   const titles = useMemo(() => {
     const byKey = new Map<string, string>()

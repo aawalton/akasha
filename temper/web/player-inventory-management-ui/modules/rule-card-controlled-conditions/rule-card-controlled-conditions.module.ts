@@ -15,5 +15,9 @@ export const ruleCardControlledConditions = {
       decisionKind: "decision-kind/departure",
       statement: "A negated chip is named by its condition value page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The quality chip's operator is its comparison op page's title.",
+    },
   ],
 } as const satisfies Module

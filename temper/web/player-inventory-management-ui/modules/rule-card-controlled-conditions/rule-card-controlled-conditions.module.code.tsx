@@ -3,6 +3,7 @@
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import type { ControlledRule } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import { qualityOptions } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
+import { useOperatorTitles } from "akasha/temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx"
 import {
   titleOfCondition,
   useConditionFieldTitles,
@@ -19,6 +20,7 @@ interface ControlledRuleConditionsProps {
 export function ControlledRuleConditions({ conditions }: ControlledRuleConditionsProps) {
   const titles = useConditionFieldTitles()
   const values = useConditionValueOptions()
+  const operators = useOperatorTitles()
   if (titles === null || values === null) return null
   const title = (key: string) => titleOfCondition(titles, key)
   const chips: { label: string }[] = []
@@ -33,7 +35,7 @@ export function ControlledRuleConditions({ conditions }: ControlledRuleCondition
     const qualityLabel =
       qualityOptions().find((q) => Number(q.value) === conditions.maxQuality)?.label ??
       String(conditions.maxQuality)
-    const op = conditions.qualityOp ?? "<="
+    const op = operators.get(conditions.qualityOp ?? "<=") ?? ""
     chips.push({ label: `${title("maxQuality")} ${op} ${qualityLabel}` })
   }
   if (conditions.isTargetEquip === "is-target-equip") chips.push({ label: title("isTargetEquip") })
