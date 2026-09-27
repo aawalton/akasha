@@ -15,7 +15,6 @@ export const temperAlchemy = {
     "module/potions-crafted-stamina",
     "module/potions-crown",
     "module/potions-dropped",
-    "module/reagent",
   ],
   decisions: [
     {
@@ -24,7 +23,7 @@ export const temperAlchemy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The potion and reagent tables here are written out from the temper pages.",
+      statement: "The potion tables here are written out from the temper pages.",
     },
   ],
 } as const satisfies Domain

@@ -5001,7 +5001,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-crafted/potions-crafted.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-crown/potions-crown.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-dropped/potions-dropped.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/reagent/reagent.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/craft-passives/craft-passives.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/craft-slottables/craft-slottables.module.ts","typed":true,"deferred":false}
