@@ -14,7 +14,7 @@ export const otherwhere00023 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I grab two handfuls of salt in my hands then grip it by the neck, holding it in the salt",
   beats: [
@@ -27,5 +27,5 @@ export const otherwhere00023 = {
     "Where she scooped, the gap in the oval has opened wider than her forearm.",
     "Outside, the first bookworm drops the chewed broom and turns its blind head toward the wider gap.",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
