@@ -9,5 +9,5 @@ export const alanwaltonAtlasWebHome = {
     "Your content will appear here as it is added. Use the sidebar to navigate between collections once they exist.",
   webApp: "web-app/alanwalton-atlas-web",
   urlPath: "",
-  lead: "Welcome to your Atlas.",
+  lead: "Welcome to your Atlas. (live check)",
 } as const satisfies SiteDocument
