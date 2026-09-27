@@ -12,7 +12,6 @@ export interface RuleMatcherContext {
   characterLevels: Map<string, number>
   knownRecipesByCharacter: Map<string, Set<number>>
   knownMotifsByCharacter: Map<string, Map<number, Set<number>>>
-  knownMotifsByStyleIdByCharacter: Map<string, Map<number, Set<number>>>
   knownScriptsByCharacter: Map<string, Set<number>>
   researchedTraitsByCharacter: Map<string, Map<number, Map<string, boolean>>>
   characterPriority: readonly string[]

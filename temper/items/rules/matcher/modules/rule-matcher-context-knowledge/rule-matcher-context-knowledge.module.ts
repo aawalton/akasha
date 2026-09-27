@@ -23,10 +23,6 @@ export const ruleMatcherContextKnowledge = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every character holds a motif chapter map, empty where the game wrote none.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A trait a character has yet to research is recorded as unknown.",
     },
     {

@@ -74,34 +74,6 @@ export function compileKnownMotifs(
   return result
 }
 
-export function compileKnownMotifsByStyleId(
-  characters: readonly CompletionCharacterInput[]
-): Map<string, Map<number, Set<number>>> {
-  const result = new Map<string, Map<number, Set<number>>>()
-  for (const char of characters) {
-    const charMap = new Map<number, Set<number>>()
-    const motifKnowledge = recordField(char.completion, "motifKnowledge")
-    if (isObjectRecord(motifKnowledge)) {
-      for (const [styleIdStr, chapters] of Object.entries(motifKnowledge)) {
-        const styleId = Number(styleIdStr)
-        const chapterSet = new Set<number>()
-        if (Array.isArray(chapters)) {
-          for (const chapterId of chapters) {
-            if (typeof chapterId === "number") chapterSet.add(chapterId)
-          }
-        } else if (isObjectRecord(chapters)) {
-          for (const v of Object.values(chapters)) {
-            if (typeof v === "number") chapterSet.add(v)
-          }
-        }
-        if (chapterSet.size > 0) charMap.set(styleId, chapterSet)
-      }
-    }
-    result.set(char.esoCharacterId, charMap)
-  }
-  return result
-}
-
 export function compileResearchableTraits(
   characters: readonly CompletionCharacterInput[]
 ): Map<string, Map<number, Map<string, boolean>>> {

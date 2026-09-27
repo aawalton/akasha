@@ -97,7 +97,6 @@ export function buildMatcherContext(
 ): RuleMatcherContext {
   const knownRecipesByCharacter = new Map<string, Set<number>>()
   const knownMotifsByCharacter = new Map<string, Map<number, Set<number>>>()
-  const knownMotifsByStyleIdByCharacter = new Map<string, Map<number, Set<number>>>()
   const knownScriptsByCharacter = new Map<string, Set<number>>()
   const researchedTraitsByCharacter = new Map<string, Map<number, Map<string, boolean>>>()
   for (const [charId, knowledge] of charactersById) {
@@ -107,11 +106,6 @@ export function buildMatcherContext(
       motifMap.set(styleId, new Set(chapters))
     }
     knownMotifsByCharacter.set(charId, motifMap)
-    const motifKnowledgeMap = new Map<number, Set<number>>()
-    for (const [styleId, chapters] of knowledge.motifKnowledgeByStyle) {
-      motifKnowledgeMap.set(styleId, new Set(chapters))
-    }
-    knownMotifsByStyleIdByCharacter.set(charId, motifKnowledgeMap)
     knownScriptsByCharacter.set(charId, new Set(knowledge.unlockedScriptIds))
     const researchedMap = new Map<number, Map<string, boolean>>()
     for (const [craftingType, researched] of knowledge.researchedTraitsByCraftingType) {
@@ -129,7 +123,6 @@ export function buildMatcherContext(
     characterLevels: new Map(),
     knownRecipesByCharacter,
     knownMotifsByCharacter,
-    knownMotifsByStyleIdByCharacter,
     knownScriptsByCharacter,
     researchedTraitsByCharacter,
     characterPriority: config.characterPriority,

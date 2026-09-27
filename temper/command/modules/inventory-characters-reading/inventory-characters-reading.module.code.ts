@@ -20,7 +20,6 @@ export interface CharacterKnowledge {
   readonly name: string | null
   readonly recipeResultItemIds: ReadonlySet<number>
   readonly motifChaptersByStyle: ReadonlyMap<number, ReadonlySet<number>>
-  readonly motifKnowledgeByStyle: ReadonlyMap<number, ReadonlySet<number>>
   readonly unlockedScriptIds: ReadonlySet<number>
   readonly skillLineRanksByEsoLineId: ReadonlyMap<number, number>
   readonly researchedTraitsByCraftingType: ReadonlyMap<number, ReadonlyMap<string, boolean>>
@@ -54,8 +53,6 @@ const SCRIBING_SCHEMA = z
   })
   .passthrough()
   .optional()
-
-const MOTIF_KNOWLEDGE_SCHEMA = z.record(z.string(), NUMBER_LIST_OR_RECORD_SCHEMA).optional()
 
 const SKILL_LINE_PROGRESS_ENTRY_SCHEMA = z
   .object({ currentRank: z.number().optional(), skills: z.unknown().optional() })
@@ -96,7 +93,6 @@ const CHARACTER_RECORD_SCHEMA = z
     raceId: z.number().optional().catch(undefined),
     recipes: RECIPES_SCHEMA,
     loreLibrary: LORE_LIBRARY_SCHEMA,
-    motifKnowledge: MOTIF_KNOWLEDGE_SCHEMA,
     scribing: SCRIBING_SCHEMA,
     skillLineProgress: SKILL_LINE_PROGRESS_SCHEMA,
     traitResearch: TRAIT_RESEARCH_SCHEMA,
@@ -157,21 +153,6 @@ function collectMotifChaptersByStyle(
   return knownMotifChaptersByStyleFromLore(
     (collectionIndex, bookIndex) => booksByCollection.get(collectionIndex)?.has(bookIndex) === true
   )
-}
-
-function collectMotifKnowledgeByStyle(
-  motifKnowledge: z.infer<typeof MOTIF_KNOWLEDGE_SCHEMA>
-): ReadonlyMap<number, ReadonlySet<number>> {
-  const out = new Map<number, Set<number>>()
-  if (!motifKnowledge) return out
-  for (const [styleKey, chapters] of Object.entries(motifKnowledge)) {
-    const styleId = Number(styleKey)
-    if (!Number.isInteger(styleId)) continue
-    const chapterSet = new Set<number>()
-    for (const chapterId of valuesAsNumbers(chapters)) chapterSet.add(chapterId)
-    if (chapterSet.size > 0) out.set(styleId, chapterSet)
-  }
-  return out
 }
 
 function collectUnlockedScriptIds(scribing: z.infer<typeof SCRIBING_SCHEMA>): ReadonlySet<number> {
@@ -329,7 +310,6 @@ export function parseTemperCharacters(content: string): ReadonlyArray<CharacterK
       name: record.name ?? null,
       recipeResultItemIds: collectRecipeResultIds(record.recipes),
       motifChaptersByStyle: collectMotifChaptersByStyle(record.loreLibrary),
-      motifKnowledgeByStyle: collectMotifKnowledgeByStyle(record.motifKnowledge),
       unlockedScriptIds: collectUnlockedScriptIds(record.scribing),
       skillLineRanksByEsoLineId: collectSkillLineRanks(record.skillLineProgress),
       researchedTraitsByCraftingType: collectResearchedTraits(record.traitResearch),

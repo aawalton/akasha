@@ -31,7 +31,6 @@ function knowing(rank: number): ReadonlyMap<string, CharacterKnowledge> {
         name: "Emberkin",
         recipeResultItemIds: new Set<number>(),
         motifChaptersByStyle: new Map<number, ReadonlySet<number>>(),
-        motifKnowledgeByStyle: new Map<number, ReadonlySet<number>>(),
         unlockedScriptIds: new Set<number>(),
         skillLineRanksByEsoLineId: new Map([[LEGERDEMAIN_ESO_LINE_ID, rank]]),
         researchedTraitsByCraftingType: new Map<number, ReadonlyMap<string, boolean>>(),

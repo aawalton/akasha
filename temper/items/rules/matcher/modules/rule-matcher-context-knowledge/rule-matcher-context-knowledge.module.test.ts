@@ -3,7 +3,6 @@ import {
   compileBankStock,
   compileConsumableStock,
   compileKnownMotifs,
-  compileKnownMotifsByStyleId,
   compileKnownRecipes,
   compileKnownScripts,
   compileResearchableTraits,
@@ -38,15 +37,6 @@ describe("A list the game wrote sparsely and one it wrote as a record say the sa
     const found = compileKnownMotifs([sparse, recorded])
 
     expect(found.get(CHARACTER)?.get(7)).toEqual(found.get(OTHER)?.get(7))
-  })
-
-  test("motif chapters written either way come out the same", () => {
-    const sparse = knowing({ motifKnowledge: { 5: [1, 4, 14] } })
-    const recorded = knowing({ motifKnowledge: { 5: { "1": 1, "2": 4, "3": 14 } } }, OTHER)
-
-    const found = compileKnownMotifsByStyleId([sparse, recorded])
-
-    expect(found.get(CHARACTER)?.get(5)).toEqual(found.get(OTHER)?.get(5))
   })
 })
 
@@ -100,41 +90,6 @@ describe("Only the crafting motif category of the lore library counts as motif k
 
     expect(found?.has(7)).toBe(false)
     expect(found?.has(8)).toBe(true)
-  })
-})
-
-describe("Every character holds a motif chapter map, empty where the game wrote none.", () => {
-  test("each style holds the chapters that character has", () => {
-    const held = knowing({ motifKnowledge: { 5: [1, 4, 14], 29: [3] } })
-
-    const found = compileKnownMotifsByStyleId([held]).get(CHARACTER)
-
-    expect(found?.get(5)).toEqual(new Set([1, 4, 14]))
-    expect(found?.get(29)).toEqual(new Set([3]))
-  })
-
-  test("a racial style the lore library never names is held all the same", () => {
-    const chapters = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14]
-    const held = knowing({ motifKnowledge: { 1: chapters } })
-
-    expect(compileKnownMotifsByStyleId([held]).get(CHARACTER)?.get(1)?.size).toBe(chapters.length)
-  })
-
-  test("a style holding no chapter at all is left out", () => {
-    const found = compileKnownMotifsByStyleId([knowing({ motifKnowledge: { 5: [], 6: [1] } })])
-
-    expect(found.get(CHARACTER)?.has(5)).toBe(false)
-    expect(found.get(CHARACTER)?.has(6)).toBe(true)
-  })
-
-  test("a character the game wrote no chapters for holds an empty map", () => {
-    const held = knowing({ loreLibrary: { [MOTIFS]: { 7: [1, 5] } } })
-
-    expect(compileKnownMotifsByStyleId([held]).get(CHARACTER)?.size).toBe(0)
-  })
-
-  test("no characters at all hold nothing", () => {
-    expect(compileKnownMotifsByStyleId([])).toEqual(new Map())
   })
 })
 

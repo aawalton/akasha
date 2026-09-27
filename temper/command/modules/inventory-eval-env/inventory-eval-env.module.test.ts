@@ -21,7 +21,6 @@ function knowing(over: Partial<CharacterKnowledge>): CharacterKnowledge {
     name: "Ayrenn",
     recipeResultItemIds: new Set<number>(),
     motifChaptersByStyle: new Map(),
-    motifKnowledgeByStyle: new Map(),
     unlockedScriptIds: new Set<number>(),
     skillLineRanksByEsoLineId: new Map<number, number>(),
     researchedTraitsByCraftingType: new Map<number, ReadonlyMap<string, boolean>>(),

@@ -272,7 +272,6 @@ function collectAllCharacterIds(ctx: RuleMatcherContext): readonly string[] {
   const sources: ReadonlyArray<ReadonlyMap<string, unknown>> = [
     ctx.knownRecipesByCharacter,
     ctx.knownMotifsByCharacter,
-    ctx.knownMotifsByStyleIdByCharacter,
     ctx.knownScriptsByCharacter,
     ctx.researchedTraitsByCharacter,
     ctx.craftingLevels,

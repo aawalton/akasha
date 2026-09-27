@@ -29,7 +29,7 @@ const ONE_CHARACTER = savedVariables(
           {
             ["name"] = "Ayrenn",
             ["recipes"] = { ["food"] = { [1] = 41, [2] = 42 }, ["drink"] = { ["a"] = 43 } },
-            ["motifKnowledge"] = { ["7"] = { [1] = 1, [2] = 2 } },
+            ["loreLibrary"] = { ["2"] = { ["62"] = { [1] = 3 } } },
             ["scribing"] = { ["scripts"] = { ["45"] = { ["unlocked"] = true, ["name"] = "Interrupt" }, ["44"] = { ["unlocked"] = false, ["name"] = "Off Balance" } } },
             ["curseState"] = "vampire",
             ["skillLineProgress"] = { [111] = { ["currentRank"] = 7 }, [117] = { } },
@@ -52,9 +52,9 @@ test("a lua list and a lua table of the same numbers read the same", () => {
   expect([...(held[0]?.recipeResultItemIds ?? [])].sort()).toEqual([41, 42, 43])
 })
 
-test("a motif style carries the chapters said under it", () => {
+test("a motif is known by motif number from the lore book the character read", () => {
   const held = parseTemperCharacters(ONE_CHARACTER)
-  expect([...(held[0]?.motifKnowledgeByStyle.get(7) ?? [])].sort()).toEqual([1, 2])
+  expect([...(held[0]?.motifChaptersByStyle.get(76) ?? [])]).toEqual([3])
 })
 
 test("a scribing script counts as known only where it says it is unlocked", () => {

@@ -23,7 +23,6 @@ import {
   compileBankStock,
   compileConsumableStock,
   compileKnownMotifs,
-  compileKnownMotifsByStyleId,
   compileKnownRecipes,
   compileKnownScripts,
   compileResearchableTraits,
@@ -42,7 +41,6 @@ interface BuildDerivedContext {
   characterLevels: RuleMatcherContext["characterLevels"]
   knownRecipesByCharacter: RuleMatcherContext["knownRecipesByCharacter"]
   knownMotifsByCharacter: RuleMatcherContext["knownMotifsByCharacter"]
-  knownMotifsByStyleIdByCharacter: RuleMatcherContext["knownMotifsByStyleIdByCharacter"]
   knownScriptsByCharacter: RuleMatcherContext["knownScriptsByCharacter"]
   researchedTraitsByCharacter: RuleMatcherContext["researchedTraitsByCharacter"]
   characterPriority: RuleMatcherContext["characterPriority"]
@@ -87,7 +85,6 @@ export function buildDerivedContext(
       )
     )
   }
-  const knownMotifsByStyleIdByCharacter = compileKnownMotifsByStyleId(completionCharacters)
   const knownScriptsByCharacter = compileKnownScripts(completionCharacters)
   const researchedTraitsByCharacter = compileResearchableTraits(completionCharacters)
   const characterPriority = [...completionCharacters]
@@ -107,7 +104,6 @@ export function buildDerivedContext(
     characterLevels,
     knownRecipesByCharacter,
     knownMotifsByCharacter,
-    knownMotifsByStyleIdByCharacter,
     knownScriptsByCharacter,
     researchedTraitsByCharacter,
     characterPriority,

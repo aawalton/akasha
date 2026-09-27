@@ -37,9 +37,8 @@ export function inventoryItemUseKey(
   if (
     (item.specializedItemType === ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER ||
       item.specializedItemType === ESO_SPECIALIZED_ITEMTYPE_MOTIF_BOOK) &&
-    ((context.knownMotifsByCharacter !== undefined && context.knownMotifsByCharacter.size > 0) ||
-      (context.knownMotifsByStyleIdByCharacter !== undefined &&
-        context.knownMotifsByStyleIdByCharacter.size > 0))
+    context.knownMotifsByCharacter !== undefined &&
+    context.knownMotifsByCharacter.size > 0
   ) {
     const parsed = parseMotifBookName(item.itemName)
     if (parsed !== undefined) {

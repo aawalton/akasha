@@ -34,7 +34,6 @@ export function makeContext(
     characterLevels: new Map(),
     knownRecipesByCharacter,
     knownMotifsByCharacter: new Map(),
-    knownMotifsByStyleIdByCharacter: new Map(),
     knownScriptsByCharacter: new Map(),
     researchedTraitsByCharacter: new Map(),
     characterPriority: priority ?? Object.keys(knownByChar),
