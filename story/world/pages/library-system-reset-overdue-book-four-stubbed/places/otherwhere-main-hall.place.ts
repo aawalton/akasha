@@ -240,7 +240,7 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala flung salt on the nearest small engorged bookworm; it's hurt along one flank and chasing her.",
+      fact: "Nala's first salt throw caught the nearest small engorged bookworm along one flank.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
