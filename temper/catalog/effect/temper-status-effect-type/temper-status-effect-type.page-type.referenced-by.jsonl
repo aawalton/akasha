@@ -1,4 +1,6 @@
+{"propertySlug":"import","fileName":"temper-status-effect-type.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-status-effect-type.page-type.ts","path":"temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids-keeping/status-effect-type-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-status-effect-type.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-status-effect-type.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect-type/pages/burning.temper-status-effect-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-status-effect-type.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect-type/pages/chilled.temper-status-effect-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-status-effect-type.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect-type/pages/concussed.temper-status-effect-type.ts","typed":true,"deferred":false}

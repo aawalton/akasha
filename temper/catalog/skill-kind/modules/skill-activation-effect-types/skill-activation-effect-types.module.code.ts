@@ -1,3 +1,4 @@
+import type { StatusEffectType } from "akasha/temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids/status-effect-type-ids.data-table.code.ts"
 import type {
   ActivationBuffEffect,
   ActivationDebuffEffect,
@@ -102,20 +103,6 @@ interface CompoundCondition {
 }
 
 export type EffectCondition = BaseEffectCondition | CompoundCondition
-
-export type StatusEffectType =
-  | "stun"
-  | "fear"
-  | "immobilize"
-  | "knockback"
-  | "knockup"
-  | "off-balance"
-  | "snare"
-  | "burning"
-  | "chilled"
-  | "concussed"
-  | "taunt"
-  | "invisible"
 
 export interface StatusEffect {
   status: StatusEffectType

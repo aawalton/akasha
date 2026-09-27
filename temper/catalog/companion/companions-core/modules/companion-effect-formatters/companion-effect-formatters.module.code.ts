@@ -1,8 +1,11 @@
+import {
+  companionCatalog,
+  companionNameIn,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type {
   TargetScope,
   TargetType,
 } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { statusEffectTypes } from "akasha/temper/catalog/skill-kind/modules/status-effect-types/status-effect-types.module.code.ts"
 import { targetScopes } from "akasha/temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.code.ts"
 import { targetTypes } from "akasha/temper/catalog/skill-kind/modules/target-types/target-types.module.code.ts"
 import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
@@ -34,10 +37,7 @@ export function formatEnemyType(type: string): string {
 }
 
 export function formatStatusType(status: string): string {
-  if (statusEffectTypes.has(status)) {
-    return statusEffectTypes.data[status].name
-  }
-  return status
+  return companionNameIn(companionCatalog().statusEffectTypes, status) ?? status
 }
 
 export function formatWeaponType(type: string): string {

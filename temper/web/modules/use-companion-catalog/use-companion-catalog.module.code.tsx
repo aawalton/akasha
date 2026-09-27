@@ -33,6 +33,7 @@ import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/
 import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts"
 import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
 import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
+import { temperStatusEffectType } from "akasha/temper/catalog/effect/temper-status-effect-type/temper-status-effect-type.page-type.ts"
 import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 import { temperRotationBreakdownRow } from "akasha/temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts"
@@ -80,7 +81,9 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const targetArmors = usePages({ pageTypeSlug: temperTargetArmor.slug, limit: EVERY })
   const effectCategories = usePages({ pageTypeSlug: temperEffectCategory.slug, limit: EVERY })
   const metricNodes = usePages({ pageTypeSlug: temperMetricTree.slug, limit: EVERY })
+  const statusEffects = usePages({ pageTypeSlug: temperStatusEffectType.slug, limit: EVERY })
   const read = [
+    statusEffects,
     metricNodes,
     effectCategories,
     targetArmors,
@@ -147,6 +150,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperTargetArmor.slug, targetArmors.rows],
       [temperEffectCategory.slug, effectCategories.rows],
       [temperMetricTree.slug, metricNodes.rows],
+      [temperStatusEffectType.slug, statusEffects.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -181,6 +185,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     targetArmors.rows,
     effectCategories.rows,
     metricNodes.rows,
+    statusEffects.rows,
   ])
   if (failed !== null) throw failed
   return catalog

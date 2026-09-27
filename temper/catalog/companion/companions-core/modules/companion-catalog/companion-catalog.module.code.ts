@@ -80,9 +80,11 @@ export interface CompanionCatalogParts {
   readonly equipmentConstants: readonly CompanionEquipmentConstant[]
   readonly activationBuffs: readonly CompanionRoleTemplate[]
   readonly passiveMetrics: readonly CompanionRoleTemplate[]
+  readonly statusEffectTypes: readonly CompanionRoleTemplate[]
 }
 
 export interface CompanionCatalog {
+  readonly statusEffectTypes: readonly CompanionRoleTemplate[]
   readonly effectCategoryOrder: Readonly<Record<string, number>>
   readonly breakdownRows: readonly RotationBreakdownRowTemplate[]
   readonly effectCategories: Readonly<Record<string, BuffCategory>>
@@ -144,6 +146,7 @@ export function catalogOf({
   effectValues,
   breakdownRows,
   effectCategoryOrder,
+  statusEffectTypes,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -154,6 +157,7 @@ export function catalogOf({
   const traitsById: Record<string, CompanionTraitTemplate> = {}
   for (const trait of traits) traitsById[trait.id] = trait
   return {
+    statusEffectTypes,
     roles,
     baseRoles,
     qualities,
@@ -250,6 +254,23 @@ export function slotTableOf<Id extends string, Held extends { readonly id: Id }>
     },
     has: (id: string): id is Id => ids.some((one) => one === id),
   }
+}
+
+export function companionNameIn(
+  named: readonly CompanionRoleTemplate[],
+  id: string
+): string | undefined {
+  return named.find((one) => one.id === id)?.name
+}
+
+export function companionNameAt(
+  named: readonly CompanionRoleTemplate[],
+  id: string,
+  kind: string
+): string {
+  const name = companionNameIn(named, id)
+  if (name === undefined) throw new Error(`no ${kind} page answers to \`${id}\``)
+  return name
 }
 
 export function companionSkillAt(id: string): CompanionSkillTemplate {
