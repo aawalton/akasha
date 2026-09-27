@@ -26,6 +26,11 @@ export const inventoryEvents = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A backpack slot changing while containers wait for room opens them once room is there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A listener this module hands out to another takes a namespace under this one rather than this one.",
     },
   ],

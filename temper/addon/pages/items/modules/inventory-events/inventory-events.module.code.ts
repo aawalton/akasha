@@ -63,7 +63,10 @@ import { isPacedBankRunning } from "akasha/temper/addon/pages/items/modules/inve
 import { dispatchEquipActions } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-equip/inventory-rules-dispatch-equip.module.code.ts"
 import { onOpenGuildBank } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts"
 import { dispatchGuildBankCurrency } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-guild-currency/inventory-rules-dispatch-guild-currency.module.code.ts"
-import { isOpenQueueActive } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
+import {
+  isOpenQueueActive,
+  takeRoomForWaitingOpens,
+} from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
 import { dispatchUnlockActions } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-unlock/inventory-rules-dispatch-unlock.module.code.ts"
 import {
   dispatchSafeOpenActions,
@@ -316,10 +319,13 @@ export function registerInventoryEvents(): undefined {
         annotateContainerIfPending(bagId, slotIndex)
         evaluateRules(bagId, slotIndex)
         fireInventoryActionsChanged()
-        const action = getPendingAction(bagId, slotIndex)
-        if (action !== "use" && action !== "open") return
         if (isOpenQueueActive() || isPacedBankRunning()) return
-        dispatchUseActions()
+        const action = getPendingAction(bagId, slotIndex)
+        if (action === "use" || action === "open") {
+          dispatchUseActions()
+        } else if (takeRoomForWaitingOpens()) {
+          rescanInventory()
+        }
       }, 0)
     }
   )

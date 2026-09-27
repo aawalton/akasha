@@ -112,8 +112,10 @@ function sayRoomWait(): undefined {
   d(`[${ADDON_NAME}] ${line}`)
 }
 
-export function hasRoomForWaitingOpens(): boolean {
-  return waitingForRoom !== undefined && hasRoomAboveBuffer(waitingForRoom.lootSlots)
+export function takeRoomForWaitingOpens(): boolean {
+  if (waitingForRoom === undefined || !hasRoomAboveBuffer(waitingForRoom.lootSlots)) return false
+  waitingForRoom = undefined
+  return true
 }
 
 function finishOpenQueue(): undefined {
