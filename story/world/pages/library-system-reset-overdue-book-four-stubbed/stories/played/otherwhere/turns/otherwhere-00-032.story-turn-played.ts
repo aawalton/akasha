@@ -4,6 +4,7 @@ export const otherwhere00032 = {
   id: "01a0e524-5aa2-7fbe-a2b5-fa257f614f40",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-032",
+  cover: "image/image-0fd91336e0de0f1d",
   ownLength: 132,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -32,5 +33,5 @@ export const otherwhere00032 = {
   issues: ["\"I just can't carry salt\" - Links's solid purple hand carried the broom in turn 9"],
   lore: ["lore/otherwhere-universe", "place/otherwhere-hall-back", "place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
