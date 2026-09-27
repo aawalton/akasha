@@ -4,7 +4,7 @@ export const alanwaltonAtlasWeb = {
   id: "01a05b26-f8b6-728b-8cfa-601811ce0f90",
   type: "page-type/web-app",
   slug: "alanwalton-atlas-web",
-  title: "Atlas Live Check",
+  title: "Atlas",
   definition: "the website drawing Alan's map and taking in the locations his phone sends",
   sourceDirectory: "alan/atlas-web",
   buildCommand: "bun run build",
