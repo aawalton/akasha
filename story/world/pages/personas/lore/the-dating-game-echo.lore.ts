@@ -32,6 +32,10 @@ export const theDatingGameEcho = {
       fact: "Echo is three thousand years old.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Echo narrates audiobooks and radio drama in the BYUradio studios on campus.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
