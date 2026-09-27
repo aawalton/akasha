@@ -273,7 +273,11 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "The fourth small bookworm coils just past the scattered salt, between Nala and the dark.",
+      fact: "Nala baited the fourth small bookworm's lunge, seized its neck and drove it into the salt heap.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The fourth small bookworm is pinned in the salt heap under Nala, shrunken but not yet dry.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],

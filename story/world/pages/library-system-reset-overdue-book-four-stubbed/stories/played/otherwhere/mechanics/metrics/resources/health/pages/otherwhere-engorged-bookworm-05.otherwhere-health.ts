@@ -5,7 +5,7 @@ export const otherwhereEngorgedBookworm05 = {
   type: "page-type/otherwhere-health",
   slug: "otherwhere-engorged-bookworm-05",
   character: "character-other/otherwhere-engorged-bookworm-05",
-  value: 12,
+  value: 3,
   minValue: 0,
   maxValue: 12,
   history: "jsonl",
