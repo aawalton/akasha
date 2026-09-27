@@ -7,6 +7,7 @@ export const dragonsAndDungeonsTygryth = {
   title: "Tygryth",
   world: "world/personas",
   about: "character-other/dragons-and-dungeons-tygryth",
+  secrets: "jsonl",
   facts: [
     {
       fact: "Tygryth is a vast dark-scaled dragon with molten gold, slit-pupiled eyes.",
