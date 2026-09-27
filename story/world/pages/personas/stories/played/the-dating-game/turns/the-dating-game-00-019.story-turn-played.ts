@@ -28,4 +28,5 @@ export const theDatingGame00019 = {
     '"Next Saturday," she says, in her announcer\'s voice, and lifts her eyebrows, pleased with the plan.',
     "A system window opens: [Echo, Closeness Level 2: a friend you are getting to know.]",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
