@@ -5,6 +5,8 @@ export const arkthzandArmory = {
   type: "page-type/temper-motif-style",
   slug: "arkthzand-armory",
   title: "Arkthzand Armory",
+  esoItemStyleId: 112,
+  styleName: "Arkthzand Armory",
   collectionIndex: 81,
   sourceDescription: "WB/Delve dailies (The Reach)",
   dropSources: [
