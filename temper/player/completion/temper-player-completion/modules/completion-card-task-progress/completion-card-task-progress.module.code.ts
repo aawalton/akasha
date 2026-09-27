@@ -17,19 +17,29 @@ import {
 import type { MorphCharacterRow } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { resolveSkillMorphs } from "akasha/temper/player/skill-morph/access/modules/skill-morphs-resolver/skill-morphs-resolver.module.code.ts"
 
-const APPLICABLE_SKILL_LINES_BY_KIND = new Map<
-  string,
-  ReturnType<typeof getApplicableSkillLineIds>
+const APPLICABLE_SKILL_LINES_BY_LIST = new WeakMap<
+  object,
+  Map<string, ReturnType<typeof getApplicableSkillLineIds>>
 >()
+
+function applicableByKind(): Map<string, ReturnType<typeof getApplicableSkillLineIds>> {
+  const list = skillLines.list
+  const kept = APPLICABLE_SKILL_LINES_BY_LIST.get(list)
+  if (kept !== undefined) return kept
+  const made = new Map<string, ReturnType<typeof getApplicableSkillLineIds>>()
+  APPLICABLE_SKILL_LINES_BY_LIST.set(list, made)
+  return made
+}
 
 function applicableSkillLineIds(charCompletion: CharacterCompletion | null | undefined) {
   const classId = classIdOfEso(charCompletion?.classId ?? 0) ?? "no-class"
   const raceId = raceIdOfEso(charCompletion?.raceId ?? 0) ?? "no-race"
   const key = `${classId}:${raceId}`
-  const memoized = APPLICABLE_SKILL_LINES_BY_KIND.get(key)
+  const byKind = applicableByKind()
+  const memoized = byKind.get(key)
   if (memoized !== undefined) return memoized
   const computed = getApplicableSkillLineIds(classId, raceId)
-  APPLICABLE_SKILL_LINES_BY_KIND.set(key, computed)
+  byKind.set(key, computed)
   return computed
 }
 

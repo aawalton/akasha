@@ -36,5 +36,10 @@ export const completionAccountCheckers = {
       decisionKind: "decision-kind/departure",
       statement: "A card counted against a catalog answers nothing where no catalog was handed in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A card's remembered tree is built again once the skill lines or morph ranks are read again.",
+    },
   ],
 } as const satisfies Module

@@ -30,6 +30,11 @@ export const completionCardTaskProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The skill lines a kind of character can use are worked out again once the lines are read again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The antiquity-lore catalog is handed in rather than imported.",
     },
     {

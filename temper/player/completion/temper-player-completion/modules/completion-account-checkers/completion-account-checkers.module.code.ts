@@ -46,10 +46,25 @@ import { transformSubclassingSkillMorphProgress } from "akasha/temper/player/ski
 
 type Nodes = (completion: AccountCompletion | null) => readonly ProgressNode[]
 
+function catalogRead(): readonly unknown[] {
+  return [skillLines.list, heldMorphRankMost()]
+}
+
+function sameRead(one: readonly unknown[], other: readonly unknown[]): boolean {
+  return one.length === other.length && one.every((value, at) => value === other[at])
+}
+
 function remembered(build: Nodes): Nodes {
-  const held = new WeakMap<AccountCompletion, readonly ProgressNode[]>()
+  let held = new WeakMap<AccountCompletion, readonly ProgressNode[]>()
   let empty: readonly ProgressNode[] | undefined
+  let builtFrom: readonly unknown[] = []
   return (completion) => {
+    const reading = catalogRead()
+    if (!sameRead(reading, builtFrom)) {
+      held = new WeakMap()
+      empty = undefined
+      builtFrom = reading
+    }
     if (completion === null) {
       empty ??= build(null)
       return empty
