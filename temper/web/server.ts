@@ -1,6 +1,7 @@
 import { join } from "node:path"
 import { handoverReader } from "akasha/alan/harness/handover-rr/modules/handover-reader/handover-reader.module.code.ts"
 import {
+  endedOnTerm,
   type RouterAppServing,
   servedBy,
 } from "akasha/alan/harness/modules/router-app-serving/router-app-serving.module.code.ts"
@@ -37,7 +38,7 @@ const HOST_SCHEMA = z.string().min(1).default("0.0.0.0")
 const port = PORT_SCHEMA.parse(process.env["PORT"])
 const hostname = HOST_SCHEMA.parse(process.env["HOST"])
 
-Bun.serve({
+const server = Bun.serve({
   port,
   hostname,
   error(error: Error) {
@@ -48,5 +49,7 @@ Bun.serve({
     return servedBy(SERVING, request, new URL(request.url).pathname)
   },
 })
+
+endedOnTerm(server)
 
 console.log(`[temper/web] listening on http://${hostname}:${port}`)

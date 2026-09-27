@@ -69,6 +69,47 @@ export async function answerFollow(request: Request, readUser: ReadUser): Promis
   return Response.json({ ...said, withheld: gated.withheld }, { status: answered.status })
 }
 
+const open = new Set<() => undefined>()
+
+export function eventsEnded(): undefined {
+  for (const end of [...open]) end()
+  return undefined
+}
+
+export function endable(given: ReadableStream<Uint8Array>): ReadableStream<Uint8Array> {
+  const reader = given.getReader()
+  let end = (): undefined => undefined
+  return new ReadableStream<Uint8Array>({
+    start(controller) {
+      end = () => {
+        open.delete(end)
+        try {
+          controller.close()
+        } catch {}
+        reader.cancel().catch(() => undefined)
+        return undefined
+      }
+      open.add(end)
+    },
+    async pull(controller) {
+      try {
+        const { value, done } = await reader.read()
+        if (!done) return controller.enqueue(value)
+        open.delete(end)
+        controller.close()
+      } catch (thrown) {
+        if (!open.has(end)) return
+        open.delete(end)
+        controller.error(thrown)
+      }
+    },
+    cancel(reason) {
+      open.delete(end)
+      return reader.cancel(reason)
+    },
+  })
+}
+
 export async function answerEvents(request: Request): Promise<Response> {
   let answered: Response
   try {
@@ -81,7 +122,7 @@ export async function answerEvents(request: Request): Promise<Response> {
     const error = `The pages service answered ${answered.status} rather than a stream.`
     return Response.json({ ok: false, error }, { status: UNREACHED })
   }
-  return new Response(answered.body, {
+  return new Response(endable(answered.body), {
     status: 200,
     headers: {
       "content-type": "text/event-stream",

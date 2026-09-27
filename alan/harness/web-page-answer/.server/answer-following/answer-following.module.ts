@@ -28,5 +28,13 @@ export const answerFollowing = {
       decisionKind: "decision-kind/departure",
       statement: "A narrow a browser says for itself is dropped.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A site going away ends every stream it holds cleanly before it stops.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stream ended cleanly is opened again by its browser with no error shown.",
+    },
   ],
 } as const satisfies Module

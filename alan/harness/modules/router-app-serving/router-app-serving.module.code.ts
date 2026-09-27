@@ -6,6 +6,7 @@ import {
   type AppCspConfig,
   buildSecurityHeaders,
 } from "akasha/alan/harness/modules/security-headers/security-headers.module.code.ts"
+import { eventsEnded } from "akasha/alan/harness/web-page-answer/.server/answer-following/answer-following.module.code.ts"
 import {
   htmlCacheControl,
   serveClientStatic,
@@ -13,6 +14,19 @@ import {
 import { randomId } from "akasha/page/id/modules/random-id/random-id.module.code.ts"
 
 const HTML = "text/html"
+
+const STOPPED_WITHIN_MS = 15_000
+
+type Stopping = { readonly stop: () => Promise<void> }
+
+export function endedOnTerm(server: Stopping): undefined {
+  process.once("SIGTERM", () => {
+    eventsEnded()
+    setTimeout(() => process.exit(0), STOPPED_WITHIN_MS).unref()
+    void server.stop().finally(() => process.exit(0))
+  })
+  return undefined
+}
 
 type RoutesReached = (request: Request, context: { readonly nonce: string }) => Promise<Response>
 

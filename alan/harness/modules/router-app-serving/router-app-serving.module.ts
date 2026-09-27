@@ -51,5 +51,10 @@ export const routerAppServing = {
       statement:
         "A site taking every visitor as one person names that person rather than reading a session.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A site told to stop ends its streams, finishes what it is answering, and then exits.",
+    },
   ],
 } as const satisfies Module
