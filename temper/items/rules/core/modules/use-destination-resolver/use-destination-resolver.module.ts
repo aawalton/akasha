@@ -27,6 +27,14 @@ export const useDestinationResolver = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A copy in the bank or house storage is held in storage.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A copy in the craft bag, a house, a companion or a guild bank is not counted.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A character already knowing the item is passed over.",
     },
     {

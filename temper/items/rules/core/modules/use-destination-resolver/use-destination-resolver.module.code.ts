@@ -1,4 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import type {
   CharacterId,
   ItemKey,
@@ -19,6 +20,13 @@ export function hashItemKey(itemKey: ItemKey): string {
     default:
       return assertNever(itemKey)
   }
+}
+
+export function copyHolderOfLocation(locationKey: string): CharacterId | undefined | null {
+  const kind = classifyLocation(locationKey)
+  if (kind === "character") return locationKey as CharacterId
+  if (kind === "bank" || kind === "housing-storage") return undefined
+  return null
 }
 
 function isClaimable(itemKey: ItemKey): boolean {

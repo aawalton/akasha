@@ -14,7 +14,10 @@ import {
   buildUseDestinationContext,
   inventoryItemUseKey,
 } from "akasha/temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"
-import { planUseDestinationsForStack } from "akasha/temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
+import {
+  copyHolderOfLocation,
+  planUseDestinationsForStack,
+} from "akasha/temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
 import type {
   CharacterId,
   UseStackHolding,
@@ -47,13 +50,6 @@ interface AllocationEnv {
     countOf: (ci: ClassifiedInventoryItem) => number
   ) => void
   resetClaims: () => void
-}
-
-function holderOfUseStack(locationKey: string): CharacterId | undefined | null {
-  const kind = classifyLocation(locationKey)
-  if (kind === "character") return locationKey as CharacterId
-  if (kind === "bank" || kind === "housing-storage") return undefined
-  return null
 }
 
 export function createAllocationEnv(context: RuleMatcherContext | undefined): AllocationEnv {
@@ -121,11 +117,11 @@ export function createAllocationEnv(context: RuleMatcherContext | undefined): Al
     copies.delete(ci)
     const elsewhere: { holder: CharacterId | undefined; count: number }[] = []
     for (const [other, count] of copies) {
-      const holder = holderOfUseStack(other.locationKey)
+      const holder = copyHolderOfLocation(other.locationKey)
       if (holder === null) continue
       elsewhere.push({ holder, count })
     }
-    return { holder: holderOfUseStack(ci.locationKey) ?? undefined, elsewhere }
+    return { holder: copyHolderOfLocation(ci.locationKey) ?? undefined, elsewhere }
   }
 
   function beginUseRuleGroup(

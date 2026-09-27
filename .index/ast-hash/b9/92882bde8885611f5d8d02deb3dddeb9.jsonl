@@ -1,1 +1,1 @@
-{"path":"temper/items/rules/matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.code.ts","name":"holderOfUseStack"}
+{"path":"temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts","name":"copyHolderOfLocation"}
