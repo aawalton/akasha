@@ -5,6 +5,8 @@ export const shardborn = {
   type: "page-type/temper-motif-style",
   slug: "shardborn",
   title: "Shardborn",
+  esoItemStyleId: 147,
+  styleName: "Shardborn",
   collectionIndex: 110,
   sourceDescription: "Delve/WB dailies (Gold Road)",
   dropSources: [
