@@ -1,3 +1,4 @@
+import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
@@ -12,6 +13,7 @@ import {
   type OpenQueueEntry,
   resetAttemptedOpenLinksForChain,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
+import { mayUse } from "akasha/temper/addon/pages/items/modules/inventory-use-guard/inventory-use-guard.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -108,6 +110,12 @@ function useItem(gen: number, bagId: number, slotIndex: number): boolean {
     return false
   }
   const link = GetItemLink(bagId, slotIndex, LINK_STYLE_BRACKETS)
+  const [slotItemType, specializedItemType] = GetItemType(bagId, slotIndex)
+  if (!mayUse(slotItemType, specializedItemType)) {
+    d(`[${ADDON_NAME}] Refused to use ${link}: a map, survey or writ is never used unasked`)
+    clearPendingAction(bagId, slotIndex)
+    return false
+  }
   if (link !== "") {
     const [iType] = GetItemLinkItemType(link)
     const unlockable = isItemUnlockable(link, iType)

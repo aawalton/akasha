@@ -24,6 +24,7 @@ import {
 import { reportAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import { RESCAN_INVENTORY_HOLDER } from "akasha/temper/addon/pages/items/modules/inventory-rules-rescan-ref/inventory-rules-rescan-ref.module.code.ts"
 import { evaluateScriptKnowledgeForOpen } from "akasha/temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
+import { mayOpen } from "akasha/temper/addon/pages/items/modules/inventory-use-guard/inventory-use-guard.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api-2/eso-api-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
@@ -167,6 +168,13 @@ function processNextOpen(): undefined {
   if (stackCount === 0) {
     clearPendingAction(entry.bagId, entry.slotIndex)
     dropHeadAndAdvance()
+    return
+  }
+
+  const [itemType] = GetItemType(entry.bagId, entry.slotIndex)
+  if (!mayOpen(itemType)) {
+    d(`[${ADDON_NAME}] Refused to open ${entry.itemLink}: not a container`)
+    skipEntryAndAdvance(entry)
     return
   }
 

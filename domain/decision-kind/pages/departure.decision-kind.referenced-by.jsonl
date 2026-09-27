@@ -4228,6 +4228,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.ts","id":"01a06258-b534-7658-a6f9-6918c06107d4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.ts","id":"01a06258-b534-70ec-b172-fd006cbff261"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.ts","id":"01a0e0f3-80e9-72bb-b96d-6fc54b4b7e52"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-use-guard/inventory-use-guard.module.ts","id":"01a0e37b-d8b2-77ef-ad9e-8324ce35bc8d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-titles/inventory-venue-titles.module.ts","id":"01a0e0d4-8faf-700c-aa29-74433f2c6c31"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.ts","id":"01a06258-b536-712e-9550-52d00f78c679"}
