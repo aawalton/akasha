@@ -1,5 +1,7 @@
 "use client"
 
+import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { viewFailedToLoad } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-failed-to-load.web-phrase.ts"
 import { completionShapeOf } from "akasha/page/core/modules/task-lifecycle/task-lifecycle.module.code.ts"
 import {
   isLocked,
@@ -82,6 +84,7 @@ export function ViewTabContent({
     pageTypeOptions,
   })
 
+  const phrase = usePhrase()
   const setProperty = useSetPropertyOptimistic()
   const completePage = useCompletePageOptimistic()
   const userId = useUserId()
@@ -167,7 +170,7 @@ export function ViewTabContent({
           role="alert"
           className="rounded-md border border-red/40 bg-red/10 p-3 text-red text-sm"
         >
-          This view failed to load: {error.message}
+          {phrase(viewFailedToLoad.slug, { why: error.message })}
         </div>
       ) : null}
       <PageSystemTabContent

@@ -5,6 +5,7 @@ import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-
 import { useLayoutSearchParams } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { viewBack } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-back.web-phrase.ts"
 import { viewPageEmpty } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-page-empty.web-phrase.ts"
 import { viewPageEmptyTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-page-empty-title.web-phrase.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
@@ -204,7 +205,7 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
                   className="inline-flex items-center justify-center rounded-md p-1 text-primary hover:text-primary"
                 >
                   <ArrowLeft className="size-5" aria-hidden />
-                  <span className="sr-only">Back</span>
+                  <span className="sr-only">{phrase(viewBack.slug)}</span>
                 </PagesUILink>
               )}
               {editing ? (
