@@ -6,6 +6,7 @@ export const dragonsAndDungeonsTheMap = {
   slug: "dragons-and-dungeons-the-map",
   title: "The Map of the Scattered Brood",
   world: "world/personas",
+  secrets: "jsonl",
   facts: [
     {
       fact: "The ring's carvings are a map of where Tygryth's three young were driven.",
