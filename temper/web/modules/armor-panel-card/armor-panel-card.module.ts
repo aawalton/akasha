@@ -11,5 +11,9 @@ export const armorPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The slots are drawn again whenever the gear tables are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

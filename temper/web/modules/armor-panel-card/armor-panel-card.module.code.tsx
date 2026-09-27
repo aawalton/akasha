@@ -36,6 +36,7 @@ import { ArmorCard } from "akasha/temper/web/modules/armor-card/armor-card.modul
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
 import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import type { EquipmentSectionProps } from "akasha/temper/web/modules/equipment-types/equipment-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { useMemo } from "react"
 
 export function ArmorPanelCard({
@@ -47,6 +48,7 @@ export function ArmorPanelCard({
   className,
   readOnly,
 }: EquipmentSectionProps) {
+  const phrase = usePhrase()
   const updateArmorSlot = (slot: ArmorSlotId, updates: ArmorUpdateParams) => {
     const currentSlot = equipment.armor[slot]
     if (currentSlot.itemType === "armor") {
@@ -194,7 +196,7 @@ export function ArmorPanelCard({
     <PanelCard
       id="armor"
       collapsible={true}
-      title="Armor"
+      title={phrase("armor-panel-card--title")}
       headerSubtitle={
         !readOnly ? (
           <div className="flex flex-wrap gap-1">
