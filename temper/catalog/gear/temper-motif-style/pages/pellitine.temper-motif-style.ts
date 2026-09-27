@@ -5,6 +5,8 @@ export const pellitine = {
   type: "page-type/temper-motif-style",
   slug: "pellitine",
   title: "Pellitine",
+  esoItemStyleId: 85,
+  styleName: "Pellitine",
   collectionIndex: 60,
   sourceDescription: "Dragon Hunt dailies (Northern Elsweyr)",
   dropSources: [
