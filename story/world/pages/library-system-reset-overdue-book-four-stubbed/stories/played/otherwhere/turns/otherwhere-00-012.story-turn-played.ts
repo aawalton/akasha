@@ -36,4 +36,5 @@ export const otherwhere00012 = {
     "Links stands beside the box, fur bristling, his runes racing.",
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
