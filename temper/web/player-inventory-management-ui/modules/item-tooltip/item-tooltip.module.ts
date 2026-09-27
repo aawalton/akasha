@@ -15,5 +15,10 @@ export const itemTooltip = {
       decisionKind: "decision-kind/departure",
       statement: "Every text the game gives the tooltip is drawn through `eso-markup-text`.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Style names are motif style pages; labels are web phrases in the game's spelling.",
+    },
   ],
 } as const satisfies Module

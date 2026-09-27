@@ -1,6 +1,12 @@
 "use client"
 
+import {
+  numberAt,
+  textAt,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { gearTypeNames } from "akasha/temper/catalog/gear/equipment/modules/gear-type-names/gear-type-names.module.code.ts"
+import { temperMotifStyle } from "akasha/temper/catalog/gear/temper-motif-style/temper-motif-style.page-type.ts"
 import type {
   ItemTooltipData,
   SetBonusEntry,
@@ -9,58 +15,39 @@ import { convertIconPathToUrl } from "akasha/temper/player/character/characters-
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import { EsoMarkupText } from "akasha/temper/web/modules/eso-markup-text/eso-markup-text.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { itemTooltipArmor } from "akasha/temper/web/phrase/pages/item-tooltip-armor.temper-web-phrase.ts"
+import { itemTooltipBound } from "akasha/temper/web/phrase/pages/item-tooltip-bound.temper-web-phrase.ts"
+import { itemTooltipCooldown } from "akasha/temper/web/phrase/pages/item-tooltip-cooldown.temper-web-phrase.ts"
+import { itemTooltipCp } from "akasha/temper/web/phrase/pages/item-tooltip-cp.temper-web-phrase.ts"
+import { itemTooltipDamage } from "akasha/temper/web/phrase/pages/item-tooltip-damage.temper-web-phrase.ts"
+import { itemTooltipGold } from "akasha/temper/web/phrase/pages/item-tooltip-gold.temper-web-phrase.ts"
+import { itemTooltipLevel } from "akasha/temper/web/phrase/pages/item-tooltip-level.temper-web-phrase.ts"
+import { itemTooltipPerfected } from "akasha/temper/web/phrase/pages/item-tooltip-perfected.temper-web-phrase.ts"
+import { itemTooltipSetSize } from "akasha/temper/web/phrase/pages/item-tooltip-set-size.temper-web-phrase.ts"
+import { itemTooltipStolen } from "akasha/temper/web/phrase/pages/item-tooltip-stolen.temper-web-phrase.ts"
+import { itemTooltipTrait } from "akasha/temper/web/phrase/pages/item-tooltip-trait.temper-web-phrase.ts"
+import { itemTooltipUnavailable } from "akasha/temper/web/phrase/pages/item-tooltip-unavailable.temper-web-phrase.ts"
+import { itemTooltipUnique } from "akasha/temper/web/phrase/pages/item-tooltip-unique.temper-web-phrase.ts"
+import { itemTooltipUniqueEquipped } from "akasha/temper/web/phrase/pages/item-tooltip-unique-equipped.temper-web-phrase.ts"
+import { itemTooltipUse } from "akasha/temper/web/phrase/pages/item-tooltip-use.temper-web-phrase.ts"
+import { useMemo } from "react"
 
-const STYLE_NAMES: Record<number, string> = {
-  1: "Aldmeri",
-  2: "Daggerfall",
-  3: "Ebonheart",
-  4: "Ancient Elf",
-  5: "Barbaric",
-  6: "Primal",
-  7: "Daedric",
-  8: "Ancient Orc",
-  9: "Dwemer",
-  10: "Imperial",
-  11: "Akaviri",
-  12: "Breton",
-  13: "Redguard",
-  14: "Dunmer",
-  15: "Nord",
-  16: "Argonian",
-  17: "Khajiit",
-  18: "Bosmer",
-  19: "Altmer",
-  20: "Orsimer",
-  21: "Trinimac",
-  22: "Malacath",
-  23: "Thieves Guild",
-  24: "Dark Brotherhood",
-  25: "Assassins League",
-  26: "Morag Tong",
-  27: "Abah's Watch",
-  28: "Clockwork",
-  29: "Dro-m'Athra",
-  30: "Xivkyn",
-  31: "Soul Shriven",
-  32: "Hollowjack",
-  33: "Order of the Hour",
-  34: "Bloodforge",
-  35: "Draugr",
-  36: "Worm Cult",
-  37: "Buoyant Armiger",
-  38: "Glass",
-  39: "Ebony",
-  40: "Apostle",
-  41: "Psijic",
-  42: "Militant Ordinator",
-  43: "Welkynar",
-  44: "Silver Dawn",
-  45: "Ashlander",
-  46: "Telvanni",
-  47: "Ra Gada",
-  48: "Ancestral Reach",
-  49: "Ancestral High Elf",
-  50: "Ancestral Orc",
+const EVERY_STYLE = 500
+
+function useStyleTitles(): ReadonlyMap<number, string> {
+  const pages = usePages({ pageTypeSlug: temperMotifStyle.slug, limit: EVERY_STYLE })
+  const titles = useMemo(() => {
+    const byId = new Map<number, string>()
+    for (const row of pages.rows) {
+      const id = numberAt(row, "esoItemStyleId")
+      const title = textAt(row, "title")
+      if (id !== null && title !== null) byId.set(id, title)
+    }
+    return byId
+  }, [pages.rows])
+  if (pages.error !== null) throw pages.error
+  return titles
 }
 
 interface ItemTooltipProps {
@@ -69,11 +56,15 @@ interface ItemTooltipProps {
 
 export function ItemTooltip({ data }: ItemTooltipProps) {
   const { referenceData, quality, bound, stolen } = data
+  const phrase = usePhrase()
+  const styleTitles = useStyleTitles()
 
   if (!referenceData) {
     return (
       <div style={TOOLTIP_STYLE}>
-        <p style={{ color: "var(--secondary)", fontSize: "13px" }}>Item data unavailable</p>
+        <p style={{ color: "var(--secondary)", fontSize: "13px" }}>
+          {phrase(itemTooltipUnavailable.slug)}
+        </p>
       </div>
     )
   }
@@ -125,7 +116,7 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
     if (equipLabel != null) typeLineParts.push(equipLabel)
   }
   if (style !== 0) {
-    const styleName = STYLE_NAMES[style]
+    const styleName = styleTitles.get(style)
     if (styleName != null) typeLineParts.push(styleName)
   }
 
@@ -156,8 +147,10 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
           </p>
           {(isUnique || isUniqueEquipped) && (
             <div style={{ display: "flex", gap: "4px", marginTop: "3px" }}>
-              {isUnique && <span style={BADGE_STYLE}>Unique</span>}
-              {isUniqueEquipped && <span style={BADGE_STYLE}>Unique-Equipped</span>}
+              {isUnique && <span style={BADGE_STYLE}>{phrase(itemTooltipUnique.slug)}</span>}
+              {isUniqueEquipped && (
+                <span style={BADGE_STYLE}>{phrase(itemTooltipUniqueEquipped.slug)}</span>
+              )}
             </div>
           )}
         </div>
@@ -173,8 +166,16 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
       {}
       {(bound || stolen) && (
         <div style={{ display: "flex", gap: "6px", marginBottom: "6px" }}>
-          {bound && <span style={{ color: "var(--secondary)", fontSize: "12px" }}>Bound</span>}
-          {stolen && <span style={{ color: "var(--red)", fontSize: "12px" }}>Stolen</span>}
+          {bound && (
+            <span style={{ color: "var(--secondary)", fontSize: "12px" }}>
+              {phrase(itemTooltipBound.slug)}
+            </span>
+          )}
+          {stolen && (
+            <span style={{ color: "var(--red)", fontSize: "12px" }}>
+              {phrase(itemTooltipStolen.slug)}
+            </span>
+          )}
         </div>
       )}
 
@@ -183,25 +184,25 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
         <div style={{ marginBottom: "6px" }}>
           {weaponPower > 0 && (
             <p style={STAT_LINE_STYLE}>
-              <span style={STAT_LABEL_STYLE}>Weapon Power</span>
+              <span style={STAT_LABEL_STYLE}>{phrase(itemTooltipDamage.slug)}</span>
               <span style={STAT_VALUE_STYLE}>{weaponPower}</span>
             </p>
           )}
           {armorRating > 0 && (
             <p style={STAT_LINE_STYLE}>
-              <span style={STAT_LABEL_STYLE}>Armor Rating</span>
+              <span style={STAT_LABEL_STYLE}>{phrase(itemTooltipArmor.slug)}</span>
               <span style={STAT_VALUE_STYLE}>{armorRating}</span>
             </p>
           )}
           {requiredLevel > 0 && (
             <p style={STAT_LINE_STYLE}>
-              <span style={STAT_LABEL_STYLE}>Requires Level</span>
+              <span style={STAT_LABEL_STYLE}>{phrase(itemTooltipLevel.slug)}</span>
               <span style={STAT_VALUE_STYLE}>{requiredLevel}</span>
             </p>
           )}
           {requiredCp > 0 && (
             <p style={STAT_LINE_STYLE}>
-              <span style={STAT_LABEL_STYLE}>Requires CP</span>
+              <span style={STAT_LABEL_STYLE}>{phrase(itemTooltipCp.slug)}</span>
               <span style={STAT_VALUE_STYLE}>{requiredCp}</span>
             </p>
           )}
@@ -226,7 +227,9 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
       {hasOnUseAbility && abilityHeader !== "" && (
         <div style={{ marginBottom: "6px" }}>
           <p style={{ color: "var(--secondary)", fontSize: "12px", margin: 0 }}>
-            <span style={{ color: "var(--primary)", fontWeight: "bold" }}>Use: </span>
+            <span style={{ color: "var(--primary)", fontWeight: "bold" }}>
+              {phrase(itemTooltipUse.slug)}{" "}
+            </span>
             <EsoMarkupText text={abilityHeader} />
           </p>
           {abilityDescription !== "" && (
@@ -236,7 +239,7 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
           )}
           {abilityCooldown > 0 && (
             <p style={{ color: "var(--tertiary)", fontSize: "11px", margin: "2px 0 0" }}>
-              Cooldown: {abilityCooldown}s
+              {phrase(itemTooltipCooldown.slug, { seconds: abilityCooldown })}
             </p>
           )}
         </div>
@@ -245,7 +248,7 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
       {}
       {traitDescription !== "" && traitType !== 0 && (
         <div style={{ marginBottom: "6px" }}>
-          <p style={SECTION_HEADER_STYLE}>TRAIT</p>
+          <p style={SECTION_HEADER_STYLE}>{phrase(itemTooltipTrait.slug)}</p>
           <p style={DESCRIPTION_STYLE}>
             <EsoMarkupText text={traitDescription} />
           </p>
@@ -258,7 +261,8 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
           <div style={DIVIDER_STYLE} />
           {}
           <p style={{ ...SECTION_HEADER_STYLE, marginBottom: "4px" }}>
-            <EsoMarkupText text={setName} /> ({setMaxEquip}-piece set)
+            <EsoMarkupText text={setName} />{" "}
+            {phrase(itemTooltipSetSize.slug, { count: setMaxEquip })}
           </p>
           {Array.isArray(setBonuses) &&
             setBonuses.map((bonus: SetBonusEntry, index: number) => (
@@ -274,7 +278,9 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
                 <span style={{ color: "var(--tertiary)" }}>({bonus.numRequired})</span>{" "}
                 <EsoMarkupText text={bonus.description} />
                 {bonus.isPerfected && (
-                  <span style={{ color: "var(--secondary)", marginLeft: "4px" }}>[Perfected]</span>
+                  <span style={{ color: "var(--secondary)", marginLeft: "4px" }}>
+                    {phrase(itemTooltipPerfected.slug)}
+                  </span>
                 )}
               </p>
             ))}
@@ -295,7 +301,7 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
       {merchantValue > 0 && <div style={{ ...DIVIDER_STYLE, marginBottom: "4px" }} />}
       {merchantValue > 0 && (
         <p style={{ color: "var(--secondary)", fontSize: "12px", margin: 0 }}>
-          <span style={{ color: "var(--yellow)" }}>Gold: </span>
+          <span style={{ color: "var(--yellow)" }}>{phrase(itemTooltipGold.slug)} </span>
           {merchantValue.toLocaleString()}
         </p>
       )}
