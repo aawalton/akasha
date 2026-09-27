@@ -10,7 +10,7 @@ export const otherwhere00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "I walk over and put my hand on the trunk.",
   beats: [
     "She walks toward the trunk in her socks, the springy floor carrying each step too far.",
@@ -23,7 +23,7 @@ export const otherwhere00003 = {
     "The surface is smooth, hard as stone, and warm as skin in the sun.",
     "The hum comes up through her palm and into her arm, steady and deep.",
     "The knot of light gathers under her palm and brightens around her fingers.",
-    "The warmth spreads up her wrist, and the hum settles, slower, as if it's waiting.",
+    "The warmth spreads up her wrist, and the hum settles, slower and deeper.",
     "No panel appears, and no voice speaks.",
     "A shoulder's width to the side of her hand, a second knot of light kindles under the grey surface.",
     "It pulses at the same height, slow and even, in time with the one beneath her palm.",
