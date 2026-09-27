@@ -21,7 +21,6 @@
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-research/knowledge-research.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/potion-search/potion-search.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-categories/inventory-browser-categories.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-11.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts","typed":false,"deferred":false}

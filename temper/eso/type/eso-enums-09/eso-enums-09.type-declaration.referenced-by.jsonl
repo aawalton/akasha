@@ -31,7 +31,6 @@
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/writ-tooltip/writ-tooltip.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-auto-maintenance-engine/inventory-auto-maintenance-engine.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-categories/inventory-browser-categories.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-data/inventory-browser-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-provisioning/inventory-craft-shortfall-provisioning.module.code.ts","typed":false,"deferred":false}

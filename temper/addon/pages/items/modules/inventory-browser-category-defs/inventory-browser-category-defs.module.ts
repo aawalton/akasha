@@ -14,11 +14,12 @@ export const inventoryBrowserCategoryDefs = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which items a category or subfilter takes in is held here under its page's slug.",
+      statement:
+        "What a category takes in is written from its page's links as the add-on compiles.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page whose slug nothing here holds is offered by no category.",
+      statement: "A category matches items the way its page's match names.",
     },
   ],
 } as const satisfies Module

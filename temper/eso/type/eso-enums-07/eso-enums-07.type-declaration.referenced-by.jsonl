@@ -54,7 +54,6 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-bag-scanner/inventory-bag-scanner.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-categories/inventory-browser-categories.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-buy-explain-trace-builder/inventory-buy-explain-trace-builder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.code.ts","typed":false,"deferred":false}
