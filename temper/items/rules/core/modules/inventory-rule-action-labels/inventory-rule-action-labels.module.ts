@@ -13,12 +13,13 @@ export const inventoryRuleActionLabels = {
       statement: "Every action has a verb shown to a reader.",
     },
     {
-      decisionKind: "decision-kind/departure",
-      statement: "An action's verb is the title of that action's item action page.",
+      decisionKind: "decision-kind/stopgap",
+      statement:
+        "The verbs are kept here as the addon shows them, not read from item action pages.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The titles are read from the item action pages the addon build also holds.",
+      statement: "A web screen names an action from its item action page, never from here.",
     },
     {
       decisionKind: "decision-kind/departure",
