@@ -7,5 +7,5 @@ export const smilingjennyWebHome = {
   title: "Smiling Jenny",
   webApp: "web-app/smilingjenny-web",
   urlPath: "",
-  lead: "Signed in (live check)",
+  lead: "Signed in",
 } as const satisfies SiteDocument
