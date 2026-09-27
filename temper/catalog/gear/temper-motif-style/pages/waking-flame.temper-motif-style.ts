@@ -5,6 +5,8 @@ export const wakingFlame = {
   type: "page-type/temper-motif-style",
   slug: "waking-flame",
   title: "Waking Flame",
+  esoItemStyleId: 117,
+  styleName: "Waking Flame",
   collectionIndex: 85,
   sourceDescription: "The Cauldron dungeon",
 } as const satisfies TemperMotifStyle
