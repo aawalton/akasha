@@ -5,4 +5,5 @@ export const image4e247732c8fb8208 = {
   type: "page-type/image",
   slug: "image-4e247732c8fb8208",
   title: "Castello cheese, 2 gouda + 1 havarti (63 g)",
+  grade: "B",
 } as const satisfies Image
