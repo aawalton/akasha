@@ -18,6 +18,7 @@ export const storyTurnPlayed = {
     "text-property/turn-beats",
     "text-property/turn-issues",
     "multi-relation-property/turn-lore",
+    "multi-relation-property/turn-recorded-by",
     "multi-relation-property/turn-reviewed-by",
   ],
   properties: [
@@ -40,6 +41,12 @@ export const storyTurnPlayed = {
     },
     {
       pageProperty: "multi-relation-property/turn-reviewed-by",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/turn-recorded-by",
       required: false,
       many: true,
       maxCount: null,
