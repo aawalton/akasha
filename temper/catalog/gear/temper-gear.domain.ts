@@ -21,6 +21,7 @@ export const temperGear = {
     "page-type/temper-jewelry-type",
     "page-type/temper-motif-style",
     "page-type/temper-poison-effect",
+    "page-type/temper-potion",
     "page-type/temper-potion-crafted",
     "page-type/temper-potion-crown",
     "page-type/temper-potion-dropped",
