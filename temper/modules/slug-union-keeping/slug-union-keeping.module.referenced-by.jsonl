@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids-keeping/target-type-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/gear/temper-quality/modules/quality-ids-keeping/quality-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/skill/line/modules/skill-line-ids-keeping/skill-line-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/skill/slot/modules/skill-slot-ids-keeping/skill-slot-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/skill/temper-class/modules/class-ids-keeping/class-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids-keeping/grimoire-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/skill/temper-script/modules/script-ids-keeping/script-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}

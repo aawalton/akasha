@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids/target-type-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/gear/temper-quality/modules/quality-ids/quality-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/slot/modules/skill-slot-ids/skill-slot-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/temper-class/modules/class-ids/class-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids/grimoire-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.ts","typed":true,"deferred":false}
