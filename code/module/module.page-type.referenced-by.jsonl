@@ -6495,6 +6495,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/deconstruct-scope-select/deconstruct-scope-select.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/destination-cascade/destination-cascade.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/eso-markup-text/eso-markup-text.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-buy-rules-panel/inventory-buy-rules-panel.module.ts","typed":true,"deferred":false}

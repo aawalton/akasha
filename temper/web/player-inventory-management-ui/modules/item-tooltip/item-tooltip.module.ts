@@ -11,5 +11,9 @@ export const itemTooltip = {
       decisionKind: "decision-kind/departure",
       statement: "The tooltip names an item's equip, weapon and armor type by the gear pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every text the game gives the tooltip is drawn through `eso-markup-text`.",
+    },
   ],
 } as const satisfies Module

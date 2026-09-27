@@ -8,6 +8,7 @@ import type {
 import { convertIconPathToUrl } from "akasha/temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
+import { EsoMarkupText } from "akasha/temper/web/player-inventory-management-ui/modules/eso-markup-text/eso-markup-text.module.code.tsx"
 
 const STYLE_NAMES: Record<number, string> = {
   1: "Aldmeri",
@@ -210,8 +211,14 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
       {}
       {enchantHeader !== "" && (
         <div style={{ marginBottom: "6px" }}>
-          <p style={SECTION_HEADER_STYLE}>{enchantHeader.toUpperCase()}</p>
-          {enchantDescription !== "" && <p style={DESCRIPTION_STYLE}>{enchantDescription}</p>}
+          <p style={SECTION_HEADER_STYLE}>
+            <EsoMarkupText text={enchantHeader.toUpperCase()} />
+          </p>
+          {enchantDescription !== "" && (
+            <p style={DESCRIPTION_STYLE}>
+              <EsoMarkupText text={enchantDescription} />
+            </p>
+          )}
         </div>
       )}
 
@@ -220,9 +227,13 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
         <div style={{ marginBottom: "6px" }}>
           <p style={{ color: "var(--secondary)", fontSize: "12px", margin: 0 }}>
             <span style={{ color: "var(--primary)", fontWeight: "bold" }}>Use: </span>
-            {abilityHeader}
+            <EsoMarkupText text={abilityHeader} />
           </p>
-          {abilityDescription !== "" && <p style={DESCRIPTION_STYLE}>{abilityDescription}</p>}
+          {abilityDescription !== "" && (
+            <p style={DESCRIPTION_STYLE}>
+              <EsoMarkupText text={abilityDescription} />
+            </p>
+          )}
           {abilityCooldown > 0 && (
             <p style={{ color: "var(--tertiary)", fontSize: "11px", margin: "2px 0 0" }}>
               Cooldown: {abilityCooldown}s
@@ -235,7 +246,9 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
       {traitDescription !== "" && traitType !== 0 && (
         <div style={{ marginBottom: "6px" }}>
           <p style={SECTION_HEADER_STYLE}>TRAIT</p>
-          <p style={DESCRIPTION_STYLE}>{traitDescription}</p>
+          <p style={DESCRIPTION_STYLE}>
+            <EsoMarkupText text={traitDescription} />
+          </p>
         </div>
       )}
 
@@ -245,7 +258,7 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
           <div style={DIVIDER_STYLE} />
           {}
           <p style={{ ...SECTION_HEADER_STYLE, marginBottom: "4px" }}>
-            {setName} ({setMaxEquip}-piece set)
+            <EsoMarkupText text={setName} /> ({setMaxEquip}-piece set)
           </p>
           {Array.isArray(setBonuses) &&
             setBonuses.map((bonus: SetBonusEntry, index: number) => (
@@ -259,7 +272,7 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
                 }}
               >
                 <span style={{ color: "var(--tertiary)" }}>({bonus.numRequired})</span>{" "}
-                {bonus.description}
+                <EsoMarkupText text={bonus.description} />
                 {bonus.isPerfected && (
                   <span style={{ color: "var(--secondary)", marginLeft: "4px" }}>[Perfected]</span>
                 )}
@@ -272,7 +285,9 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
       {flavorText !== "" && (
         <div style={{ marginBottom: "6px" }}>
           <div style={DIVIDER_STYLE} />
-          <p style={FLAVOR_TEXT_STYLE}>{flavorText}</p>
+          <p style={FLAVOR_TEXT_STYLE}>
+            <EsoMarkupText text={flavorText} />
+          </p>
         </div>
       )}
 

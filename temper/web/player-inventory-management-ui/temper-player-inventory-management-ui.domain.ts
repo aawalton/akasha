@@ -17,6 +17,7 @@ export const temperPlayerInventoryManagementUi = {
     "module/comparison-op-picker",
     "module/deconstruct-scope-select",
     "module/destination-cascade",
+    "module/eso-markup-text",
     "module/hooks-inventory",
     "module/hooks-inventory-settings",
     "module/inventory-buy-rules-panel",
