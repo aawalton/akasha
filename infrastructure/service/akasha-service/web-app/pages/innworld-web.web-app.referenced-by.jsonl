@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"innworld-web.web-app.ts","path":"product/wandering-inn-wiki/web/modules/innworld-app-id/innworld-app-id.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"innworld-web.web-app.ts","path":"product/wandering-inn-wiki/web/routes/_app-layout.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"innworld-web.web-app.ts","path":"product/wandering-inn-wiki/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"innworld-web.web-app.ts","path":"product/wandering-inn-wiki/web/routes/innworld-home/innworld-home.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"nav-app","path":"page/nav/pages/innworld-aspects.nav.ts","id":"01a0d926-50ee-78f1-9600-2fced57e2f63"}
 {"propertySlug":"nav-app","path":"page/nav/pages/innworld-boons.nav.ts","id":"01a0d926-50ee-7d99-a1cb-32521607824d"}

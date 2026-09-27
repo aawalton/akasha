@@ -4,7 +4,7 @@ export const innworldWeb = {
   id: "01a0c5e8-634d-7877-94a2-18ccefbef0c4",
   type: "page-type/web-app",
   slug: "innworld-web",
-  title: "Innworld",
+
   definition: "the wiki of The Wandering Inn",
   sourceDirectory: "product/wandering-inn-wiki/web",
   buildCommand: "bun run build",
