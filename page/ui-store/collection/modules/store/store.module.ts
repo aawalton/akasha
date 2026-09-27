@@ -93,7 +93,7 @@ export const store = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "An answer carried is taken in place of its read once, and only within thirty seconds.",
+        "An answer carried is taken in place of a shape's first read, and only within thirty seconds.",
     },
     {
       decisionKind: "decision-kind/departure",

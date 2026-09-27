@@ -113,3 +113,16 @@ test("an answer carried more than thirty seconds before its read is not taken", 
   expect(fetched).toEqual([MODEL_VERSION_READ])
   store.releaseSlug("model-version")
 })
+
+test("a shape attached again within thirty seconds takes the answer carried again rather than asking", async () => {
+  const { store, fetched } = storeOver([["page-type", "model-version"]])
+  store.seed({ [MODEL_VERSION_READ]: NOTHING_HELD })
+  store.acquireSlug("model-version")
+  await settled()
+  store.releaseSlug("model-version")
+  store.acquireSlug("model-version")
+  await settled()
+
+  expect(fetched).toEqual([])
+  store.releaseSlug("model-version")
+})

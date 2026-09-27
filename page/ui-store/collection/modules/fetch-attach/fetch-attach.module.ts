@@ -14,6 +14,14 @@ export const fetchAttach = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A shape handed an answer on attaching takes that answer as its first read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every read after the first asks, whatever the shape was handed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A shape never yet read is read again within seconds, whether or not a stream follows it.",
     },

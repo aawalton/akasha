@@ -160,7 +160,8 @@ export function attachFetch(
   deps: FetchAttachDeps,
   pageTypeSlug: string,
   carry: readonly string[] = [],
-  named: NamedPages | undefined = undefined
+  named: NamedPages | undefined = undefined,
+  carried: unknown = undefined
 ): () => undefined {
   const shapeKey = named === undefined ? pageTypeSlug : namedShapeKey(pageTypeSlug, named)
   let stopped = false
@@ -202,6 +203,25 @@ export function attachFetch(
   const held = (): string =>
     `holding the ${deps.deliveredByShape.get(shapeKey)?.size ?? 0} row(s) already shown`
 
+  const answered = (body: unknown, only: ReadonlySet<string> | null): boolean => {
+    const rows = readAnswerRows(body)
+    if (rows === null) {
+      console.warn(
+        `pages-ui-store: file-backed answer did not match the page row shape shape=${shapeKey} — ${held()}`
+      )
+      return false
+    }
+    const cut = readAnswerCut(body, rows.length)
+    if (cut !== null) {
+      emitStoreDiagnostic({
+        reason: "file-answer-cut",
+        message: `[pages-ui-store] ${shapeKey} answered ${cut.carried} of ${cut.held} pages — this shape is short and nothing else says so`,
+        detail: `shape=${shapeKey} carried=${cut.carried} held=${cut.held}`,
+      })
+    }
+    return apply(rows, only)
+  }
+
   const poll = async (ids?: readonly string[]): Promise<boolean> => {
     const { at, only } = askingAgain(pageTypeSlug, carry, named, ids)
     let response: Response
@@ -235,34 +255,28 @@ export function attachFetch(
       return false
     }
     if (stopped) return false
-    const rows = readAnswerRows(body)
-    if (rows === null) {
-      console.warn(
-        `pages-ui-store: file-backed answer did not match the page row shape shape=${shapeKey} — ${held()}`
-      )
-      return false
-    }
-    const cut = readAnswerCut(body, rows.length)
-    if (cut !== null) {
-      emitStoreDiagnostic({
-        reason: "file-answer-cut",
-        message: `[pages-ui-store] ${shapeKey} answered ${cut.carried} of ${cut.held} pages — this shape is short and nothing else says so`,
-        detail: `shape=${shapeKey} carried=${cut.carried} held=${cut.held}`,
-      })
-    }
-    return apply(rows, only)
+    return answered(body, only)
   }
 
   let read = false
 
   let missed = 0
 
+  let first = carried
+
+  const firstRead = (): Promise<boolean> => {
+    const body = first
+    first = undefined
+    if (body === undefined) return poll(undefined)
+    return Promise.resolve().then(() => !stopped && answered(body, null))
+  }
+
   const tick = (): undefined => {
     const followed = read && deps.followed?.(shapeKey) === true
-    void (followed ? Promise.resolve(true) : poll(undefined)).then((answered) => {
+    void (followed ? Promise.resolve(true) : firstRead()).then((took) => {
       if (stopped) return
-      if (answered) read = true
-      missed = answered ? 0 : missed + 1
+      if (took) read = true
+      missed = took ? 0 : missed + 1
       timer = setTimeout(tick, read ? deps.pollMs : retryAfter(missed, deps.pollMs))
     })
   }

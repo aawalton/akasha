@@ -29,6 +29,7 @@ import {
   type ReadAgain,
 } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import {
+  FILE_BACKED_ROSTER_PATH,
   type PageTypeBacking,
   type RosterAnswer,
   type RosterReader,
@@ -128,7 +129,8 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
     fetched === null
       ? null
       : (input, init) => {
-          const held = init?.method === undefined ? seedFresh(input) : null
+          const rostered = input === FILE_BACKED_ROSTER_PATH && init?.method === undefined
+          const held = rostered ? seedFresh(input) : null
           if (held === null) return fetched(input, init)
           seeds.delete(input)
           return Promise.resolve(Response.json(held.body))
@@ -295,7 +297,8 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
     if (fetchImpl === null) return null
     const key = named === undefined ? pageTypeSlug : namedShapeKey(pageTypeSlug, named)
     const carry = fileBacking.carry?.[pageTypeSlug] ?? []
-    if (seedFresh(filePagesPath(pageTypeSlug, carry, named)) !== null) seededKeys.add(key)
+    const seed = seedFresh(filePagesPath(pageTypeSlug, carry, named))
+    if (seed !== null) seededKeys.add(key)
     following.follow(key, followedOf(pageTypeSlug, named))
     const detach = attachFetch(
       {
@@ -310,7 +313,8 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
       },
       pageTypeSlug,
       carry,
-      named
+      named,
+      seed?.body
     )
     return () => {
       following.unfollow(key)
