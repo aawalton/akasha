@@ -1,21 +1,10 @@
 import {
   appendIn,
-  objectIn,
   placeIn,
-  queryIn,
-  readIn,
   writeIn,
 } from "akasha/page/service/modules/call-reading/call-reading.module.code.ts"
-import {
-  type Named as FileNamed,
-  filing,
-} from "akasha/page/service/modules/file-answering/file-answering.module.code.ts"
 import { ownedRefused } from "akasha/page/service/modules/owned-puts/owned-puts.module.code.ts"
 import { appending } from "akasha/page/service/modules/page-appending/page-appending.module.code.ts"
-import {
-  answeringWithin,
-  askingAt,
-} from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import { foldedFor } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
   EVENTS_AT,
@@ -28,11 +17,6 @@ import {
   incrementing,
 } from "akasha/page/service/modules/page-incrementing/page-incrementing.module.code.ts"
 import { placing } from "akasha/page/service/modules/page-placing/page-placing.module.code.ts"
-import { reading } from "akasha/page/service/modules/page-reading/page-reading.module.code.ts"
-import {
-  shaping,
-  shapingEvery,
-} from "akasha/page/service/modules/page-shaping/page-shaping.module.code.ts"
 import type {
   Asked,
   Fresh,
@@ -40,12 +24,17 @@ import type {
   Put,
   Writer,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import {
+  type Answer,
+  answeredRead,
+  type ReadKind,
+  UNPARSED,
+} from "akasha/page/service/modules/read-answering/read-answering.module.code.ts"
 import { keptReads } from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 import {
   type Refusal,
   STATUS_FOR,
 } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
-import { withholdingFor } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 export const ASK_AT = "/ask"
 
@@ -65,7 +54,23 @@ export const INCREMENT_AT = "/increment"
 
 export const ASKING_AGENT = "akasha-agent-id"
 
-const OCTETS = "application/octet-stream"
+const READ_KINDS: ReadonlyMap<string, ReadKind> = new Map([
+  [ASK_AT, "ask"],
+  [READ_AT, "read"],
+  [SHAPE_AT, "shape"],
+  [FILE_AT, "file"],
+])
+
+function readKindAt(at: string): ReadKind | null {
+  return READ_KINDS.get(at) ?? null
+}
+
+function responseOf(answer: Answer): Response {
+  return new Response(answer.body, {
+    status: answer.status,
+    headers: { "content-type": answer.type },
+  })
+}
 
 function askerOf(request: Request): string | null {
   const named = request.headers.get(ASKING_AGENT)?.trim() ?? ""
@@ -77,51 +82,6 @@ export type Serving = {
   readonly writer: Writer
   readonly answeredAtMost?: number
   readonly following?: Following
-}
-
-type Shaping =
-  | { readonly pageTypeSlug: string }
-  | { readonly pageTypeSlugs: readonly string[] }
-  | { readonly refused: string }
-
-function shapeIn(given: unknown): Shaping {
-  const held = objectIn(given)
-  if (held === null) return { refused: "a shape is asked for by a JSON object" }
-  const pageTypeSlugs = held.pageTypeSlugs
-  if (pageTypeSlugs !== undefined) {
-    if (
-      !Array.isArray(pageTypeSlugs) ||
-      !pageTypeSlugs.every((one): one is string => typeof one === "string" && one !== "")
-    ) {
-      return { refused: "shapes name their page types as a list of slugs under `pageTypeSlugs`" }
-    }
-    return { pageTypeSlugs }
-  }
-  const pageTypeSlug = held.pageTypeSlug
-  if (typeof pageTypeSlug !== "string" || pageTypeSlug === "") {
-    return { refused: "a shape names a page type as `pageTypeSlug`" }
-  }
-  return { pageTypeSlug }
-}
-
-type Filed = { readonly named: FileNamed } | { readonly refused: string }
-
-function fileIn(given: unknown): Filed {
-  const held = objectIn(given)
-  if (held === null) return { refused: "a file is asked for by a JSON object" }
-  const pageTypeSlug = held.pageTypeSlug
-  if (typeof pageTypeSlug !== "string" || pageTypeSlug === "") {
-    return { refused: "a file names a page type as `pageTypeSlug`" }
-  }
-  const slug = held.slug
-  if (typeof slug !== "string" || slug === "") {
-    return { refused: "a file names its page as `slug`" }
-  }
-  const key = held.key
-  if (typeof key !== "string" || key === "") {
-    return { refused: "a file names the key its page holds that file under as `key`" }
-  }
-  return { named: { pageTypeSlug, slug, key } }
 }
 
 export function foldedInto(
@@ -193,27 +153,12 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     return said({ refused: `a question arrives by POST rather than by ${request.method}` }, 405)
   }
   const body = await bodyIn(request)
-  if (body === undefined) return said({ refused: "the body did not parse as JSON" }, 400)
-  if (at === SHAPE_AT) {
-    const sought = shapeIn(body)
-    if ("refused" in sought) return said({ refused: sought.refused }, 400)
-    if ("pageTypeSlugs" in sought) {
-      const every = shapingEvery(given.root, sought.pageTypeSlugs)
-      if ("refused" in every) return refusedAs(every)
-      return said(every, 200)
-    }
-    const found = shaping(given.root, sought.pageTypeSlug)
-    if ("refused" in found) return refusedAs(found)
-    return said(found, 200)
-  }
-  if (at === FILE_AT) {
-    const sought = fileIn(body)
-    if ("refused" in sought) return said({ refused: sought.refused }, 400)
-    const withholding = withholdingFor(given.root, askerOf(request)) ?? []
-    const found = filing(given.root, sought.named, withholding)
-    if ("refused" in found && found.withheld) return said({ refused: found.refused }, 403)
-    if ("refused" in found) return refusedAs(found)
-    return new Response(found.bytes, { status: 200, headers: { "content-type": OCTETS } })
+  if (body === undefined) return said({ refused: UNPARSED }, 400)
+  const kind = readKindAt(at)
+  if (kind !== null) {
+    const answer = answeredRead(given.root, kind, body, askerOf(request), given.answeredAtMost)
+    if (answer.read !== undefined) keptReads(given.root, answer.read)
+    return responseOf(answer)
   }
   if (at === APPEND_AT) {
     const sought = appendIn(body)
@@ -236,49 +181,24 @@ export async function answering(given: Serving, request: Request): Promise<Respo
     if ("refused" in done) return refusedAs(done)
     return said(done, 200)
   }
-  if (at === READ_AT) {
-    const sought = readIn(body)
-    if ("refused" in sought) return said({ refused: sought.refused }, 400)
-    const found = reading({ root: given.root, asking: askerOf(request) }, sought.asked)
-    if ("refused" in found && found.withheld) return said({ refused: found.refused }, 403)
-    if ("refused" in found) return refusedAs(found)
-    return said(found, 200)
-  }
-  if (at === WRITE_AT) {
-    const read = writeIn(body)
-    if ("refused" in read) return said({ refused: read.refused }, 400)
-    const reached = [
-      ...(read.asked.puts ?? []).map((one) => one.path),
-      ...(read.asked.removes ?? []),
-    ]
-    const owned = ownedRefused(given.root, reached, read.writtenBy ?? null)
-    if (owned !== null) return said({ refused: owned }, 400)
-    const folded = foldedFor(given.root, read.pages)
-    if ("refused" in folded) return refusedAs(folded)
-    const wrote = await given.writer.writing(
-      foldedInto(
-        read.asked,
-        folded.puts,
-        folded.kept,
-        folded.removes,
-        folded.keptPuts,
-        folded.keptRemoves,
-        folded.fresh
-      )
-    )
-    if ("refused" in wrote) return refusedAs(wrote)
-    return said(wrote, 200)
-  }
-  const read = queryIn(body)
+  const read = writeIn(body)
   if ("refused" in read) return said({ refused: read.refused }, 400)
-  const answered = askingAt(given.root, read.query, askerOf(request))
-  if ("refused" in answered && answered.withheld) return said({ refused: answered.refused }, 403)
-  if ("refused" in answered) return refusedAs(answered)
-  if (answered.read !== undefined) keptReads(given.root, answered.read)
-  const within = answeringWithin(read.query, answered, given.answeredAtMost)
-  if ("refused" in within) return refusedAs(within)
-  return new Response(within.said, {
-    status: 200,
-    headers: { "content-type": "application/json" },
-  })
+  const reached = [...(read.asked.puts ?? []).map((one) => one.path), ...(read.asked.removes ?? [])]
+  const owned = ownedRefused(given.root, reached, read.writtenBy ?? null)
+  if (owned !== null) return said({ refused: owned }, 400)
+  const folded = foldedFor(given.root, read.pages)
+  if ("refused" in folded) return refusedAs(folded)
+  const wrote = await given.writer.writing(
+    foldedInto(
+      read.asked,
+      folded.puts,
+      folded.kept,
+      folded.removes,
+      folded.keptPuts,
+      folded.keptRemoves,
+      folded.fresh
+    )
+  )
+  if ("refused" in wrote) return refusedAs(wrote)
+  return said(wrote, 200)
 }

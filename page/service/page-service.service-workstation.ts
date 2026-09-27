@@ -174,5 +174,6 @@ export const pageService = {
     "module/where-testing",
     "module/page-incrementing",
     "module/read-settling",
+    "module/read-answering",
   ],
 } as const satisfies ServiceWorkstation
