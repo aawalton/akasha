@@ -16,5 +16,10 @@ export const useRuleCard = {
       statement:
         "Chosen locations are named from the location type and bag pages, read again as they change.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A filter offered is named by its condition field's page, and none is offered before.",
+    },
   ],
 } as const satisfies Module

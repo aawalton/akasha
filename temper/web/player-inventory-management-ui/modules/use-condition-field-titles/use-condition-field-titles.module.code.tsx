@@ -2,6 +2,8 @@
 
 import { textAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import { FILTER_CONDITION_KEYS } from "akasha/temper/items/rules/core/modules/rule-filter-registry/rule-filter-registry.module.code.ts"
+import type { FilterId } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { temperConditionField } from "akasha/temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts"
 import { useMemo } from "react"
 
@@ -40,4 +42,8 @@ export function useConditionFieldTitles(): ConditionFieldTitles | null {
   )
   if (pages.error !== null) throw pages.error
   return titles
+}
+
+export function titleOfFilter(titles: ConditionFieldTitles, id: FilterId): string {
+  return titleOfCondition(titles, FILTER_CONDITION_KEYS[id])
 }

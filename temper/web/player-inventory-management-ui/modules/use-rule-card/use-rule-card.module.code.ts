@@ -33,6 +33,10 @@ import {
 } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 import { deriveConditionValues } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-conditions-derive/rule-card-conditions-derive.module.code.ts"
 import { patchConditions } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-conditions-patch/rule-card-conditions-patch.module.code.ts"
+import {
+  titleOfFilter,
+  useConditionFieldTitles,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-field-titles/use-condition-field-titles.module.code.tsx"
 import { buildActionChangeHandler } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card-action-handler/use-rule-card-action-handler.module.code.ts"
 import { buildCategorySelectHandler } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card-category-handler/use-rule-card-category-handler.module.code.ts"
 import { useConditionHandlers } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card-condition-handlers/use-rule-card-condition-handlers.module.code.ts"
@@ -142,18 +146,21 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
     return map
   }, [eligibilityMap, addedFilters, rule.conditions])
 
+  const conditionTitles = useConditionFieldTitles()
+
   const availableFilters = useMemo(() => {
     const filters: { id: FilterId; label: string }[] = []
+    if (conditionTitles === null) return filters
     for (const filter of INVENTORY_RULE_FILTERS) {
       const eligible = eligibilityMap.get(filter.id) ?? false
       const shown = showFilter.get(filter.id) ?? false
       if (!eligible || shown || filter.offered === false) continue
       const blocked = filter.mutuallyExclusive.some((id) => showFilter.get(id))
       if (blocked) continue
-      filters.push({ id: filter.id, label: filter.label })
+      filters.push({ id: filter.id, label: titleOfFilter(conditionTitles, filter.id) })
     }
     return filters
-  }, [eligibilityMap, showFilter])
+  }, [eligibilityMap, showFilter, conditionTitles])
 
   const conditionValues = deriveConditionValues(rule.conditions)
 

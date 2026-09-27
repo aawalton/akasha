@@ -15,5 +15,10 @@ export const useConditionFieldTitles = {
       decisionKind: "decision-kind/departure",
       statement: "A condition field is found by the key a rule writes rather than by its slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A rule filter is named by the title of the condition field the registry gives it.",
+    },
   ],
 } as const satisfies Module
