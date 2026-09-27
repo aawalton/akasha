@@ -1885,6 +1885,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.ts","id":"01a06258-b52f-7219-a9f9-f6d5b67fe4a5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.ts","id":"01a06258-b532-7d2c-96c6-42f3ce92a045"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.ts","id":"01a0e368-1a45-73b9-9f3d-974730c1f2ed"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/sales-addon-name/sales-addon-name.module.ts","id":"01a060e2-3181-7b51-b345-f0965034e14a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/tamriel-tomes-buy-all/tamriel-tomes-buy-all.module.ts","id":"01a0de5f-77d5-7f45-aa4e-1e5ac881f98f"}

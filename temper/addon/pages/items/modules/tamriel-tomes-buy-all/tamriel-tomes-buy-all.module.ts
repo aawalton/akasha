@@ -34,17 +34,8 @@ export const tamrielTomesBuyAll = {
       statement: "Full bags stop the buying.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "The game drops a player who sends more than 100 actions in 10 seconds.",
-    },
-    {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Rewards are bought as fast as the game answers until 95 were bought in the last 10.5 seconds.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "At that count the next reward waits for the oldest of them to age out.",
+      statement: "Each reward bought is counted in the addon's shared server action window.",
     },
     {
       decisionKind: "decision-kind/departure",

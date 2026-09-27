@@ -1,11 +1,14 @@
 import { requireAt } from "akasha/code/type/narrowing/modules/require-at/require-at.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
+import {
+  noteServerAction,
+  serverActionWaitMs,
+} from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -15,10 +18,6 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const TOMES_SCENE = "TamrielTomesSceneKeyboard"
 const NS = `${ADDON_NAME}_TomesBuyAll`
 const SETTLE_TIMEOUT_MS = 5000
-const ACTION_LIMIT = 95
-const ACTION_WINDOW_MS = 10000
-const ACTION_WINDOW_MARGIN_MS = 500
-const ACTION_HELD_MS = ACTION_WINDOW_MS + ACTION_WINDOW_MARGIN_MS
 
 interface ActiveTome {
   readonly index: number
@@ -73,18 +72,6 @@ function unboughtRewards(this: void, tome: ActiveTome): TomeReward[] {
 let buying = false
 let tomesShown = false
 let run = 0
-let claimTimes: number[] = []
-
-function windowWaitMs(this: void): number {
-  const now = GetGameTimeMilliseconds()
-  const kept: number[] = []
-  for (const at of claimTimes) if (now - at < ACTION_HELD_MS) kept.push(at)
-  claimTimes = kept
-  const oldest = kept[0]
-  if (kept.length < ACTION_LIMIT || oldest === undefined) return 0
-  const wait = ACTION_HELD_MS - (now - oldest)
-  return wait > 0 ? wait : 1
-}
 
 function buyAll(this: void): undefined {
   if (buying) return
@@ -132,7 +119,7 @@ function buyAll(this: void): undefined {
         unaffordable++
         continue
       }
-      const wait = windowWaitMs()
+      const wait = serverActionWaitMs()
       if (wait > 0) {
         zo_callLater(() => {
           if (buying && run === thisRun) buyNext()
@@ -143,7 +130,7 @@ function buyAll(this: void): undefined {
       waiting = reward
       attempt++
       const thisAttempt = attempt
-      claimTimes.push(GetGameTimeMilliseconds())
+      noteServerAction()
       ClaimRewardTrackReward(
         REWARD_TRACK_TYPE_TAMRIEL_TOMES,
         tomeIndex,

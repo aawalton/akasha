@@ -3892,6 +3892,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables/inventory-saved-variables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-session-tracking/inventory-session-tracking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-set-categories/inventory-set-categories.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-skill-gate-eval-types/inventory-skill-gate-eval-types.module.ts","typed":true,"deferred":false}

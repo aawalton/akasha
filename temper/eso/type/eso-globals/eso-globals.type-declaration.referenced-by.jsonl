@@ -317,6 +317,7 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-list/inventory-rules-list.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-slash-command/inventory-rules-slash-command.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-saved-variables/inventory-saved-variables.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-temper-lock-migrate/inventory-temper-lock-migrate.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts","typed":false,"deferred":false}

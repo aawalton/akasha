@@ -239,6 +239,7 @@ export const temperAddonItems = {
     "module/inventory-rule-held",
     "module/inventory-rules-guild-buy-core",
     "module/inventory-rules-dispatch-guild-buy",
+    "module/inventory-server-action-window",
   ],
   decisions: [
     {
