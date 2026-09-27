@@ -6,5 +6,16 @@ export const armorMedium = {
   slug: "armor-medium",
   title: "Medium",
   displayOrder: 3,
+  match: "Armor",
+  armorWeights: ["temper-armor-weight/medium"],
+  equipTypes: [
+    "temper-equip-type/head",
+    "temper-equip-type/shoulders",
+    "temper-equip-type/chest",
+    "temper-equip-type/hands",
+    "temper-equip-type/legs",
+    "temper-equip-type/feet",
+    "temper-equip-type/waist",
+  ],
   parent: "temper-browser-category/armor",
 } as const satisfies TemperBrowserCategory

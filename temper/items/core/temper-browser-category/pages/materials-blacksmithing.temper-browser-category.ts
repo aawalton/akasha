@@ -6,5 +6,11 @@ export const materialsBlacksmithing = {
   slug: "materials-blacksmithing",
   title: "Blacksmithing",
   displayOrder: 2,
+  match: "Materials",
+  itemTypes: [
+    "temper-item-type/blacksmithing-raw-material",
+    "temper-item-type/blacksmithing-material",
+    "temper-item-type/blacksmithing-booster",
+  ],
   parent: "temper-browser-category/materials",
 } as const satisfies TemperBrowserCategory

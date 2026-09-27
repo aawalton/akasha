@@ -6,5 +6,11 @@ export const weaponsTwoHanded = {
   slug: "weapons-two-handed",
   title: "Two-Handed",
   displayOrder: 3,
+  match: "Weapons",
+  weaponTypes: [
+    "temper-weapon-type/battleaxe",
+    "temper-weapon-type/maul",
+    "temper-weapon-type/greatsword",
+  ],
   parent: "temper-browser-category/weapons",
 } as const satisfies TemperBrowserCategory

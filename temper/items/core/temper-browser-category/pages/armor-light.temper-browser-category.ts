@@ -6,5 +6,16 @@ export const armorLight = {
   slug: "armor-light",
   title: "Light",
   displayOrder: 4,
+  match: "Armor",
+  armorWeights: ["temper-armor-weight/light"],
+  equipTypes: [
+    "temper-equip-type/head",
+    "temper-equip-type/shoulders",
+    "temper-equip-type/chest",
+    "temper-equip-type/hands",
+    "temper-equip-type/legs",
+    "temper-equip-type/feet",
+    "temper-equip-type/waist",
+  ],
   parent: "temper-browser-category/armor",
 } as const satisfies TemperBrowserCategory

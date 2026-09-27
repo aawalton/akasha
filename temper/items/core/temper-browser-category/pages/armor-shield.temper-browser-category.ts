@@ -6,5 +6,7 @@ export const armorShield = {
   slug: "armor-shield",
   title: "Shield",
   displayOrder: 6,
+  match: "Weapons",
+  armorWeights: ["temper-armor-weight/shield"],
   parent: "temper-browser-category/armor",
 } as const satisfies TemperBrowserCategory

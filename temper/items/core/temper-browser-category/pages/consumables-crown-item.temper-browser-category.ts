@@ -6,5 +6,7 @@ export const consumablesCrownItem = {
   slug: "consumables-crown-item",
   title: "Crown Item",
   displayOrder: 11,
+  match: "Consumable",
+  itemTypes: ["temper-item-type/crown-item"],
   parent: "temper-browser-category/consumables",
 } as const satisfies TemperBrowserCategory

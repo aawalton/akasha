@@ -6,5 +6,11 @@ export const materialsWoodworking = {
   slug: "materials-woodworking",
   title: "Woodworking",
   displayOrder: 4,
+  match: "Materials",
+  itemTypes: [
+    "temper-item-type/woodworking-raw-material",
+    "temper-item-type/woodworking-material",
+    "temper-item-type/woodworking-booster",
+  ],
   parent: "temper-browser-category/materials",
 } as const satisfies TemperBrowserCategory

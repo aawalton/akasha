@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"temper-browser-category.page-type.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-browser-category.page-type.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-placing/inventory-browser-category-placing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-browser-category.page-type.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-placing/inventory-browser-category-placing.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-browser-category.page-type.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-types/inventory-browser-category-types.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-browser-category.page-type.types.ts","path":"temper/items/core/temper-browser-category/pages/all.temper-browser-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-browser-category.page-type.types.ts","path":"temper/items/core/temper-browser-category/pages/armor-all.temper-browser-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-browser-category.page-type.types.ts","path":"temper/items/core/temper-browser-category/pages/armor-clothing.temper-browser-category.ts","typed":true,"deferred":false}

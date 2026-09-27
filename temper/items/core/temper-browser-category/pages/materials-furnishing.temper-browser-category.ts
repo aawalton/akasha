@@ -6,5 +6,7 @@ export const materialsFurnishing = {
   slug: "materials-furnishing",
   title: "Furnishing",
   displayOrder: 11,
+  match: "Materials",
+  itemTypes: ["temper-item-type/furnishing-material"],
   parent: "temper-browser-category/materials",
 } as const satisfies TemperBrowserCategory

@@ -6,5 +6,7 @@ export const weaponsHealingStaff = {
   slug: "weapons-healing-staff",
   title: "Healing Staff",
   displayOrder: 6,
+  match: "Weapons",
+  weaponTypes: ["temper-weapon-type/restoration-staff"],
   parent: "temper-browser-category/weapons",
 } as const satisfies TemperBrowserCategory

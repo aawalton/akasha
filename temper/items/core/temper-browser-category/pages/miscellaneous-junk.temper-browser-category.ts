@@ -6,5 +6,7 @@ export const miscellaneousJunk = {
   slug: "miscellaneous-junk",
   title: "Junk",
   displayOrder: 10,
+  match: "Junk",
+  itemTypes: ["temper-item-type/trash"],
   parent: "temper-browser-category/miscellaneous",
 } as const satisfies TemperBrowserCategory

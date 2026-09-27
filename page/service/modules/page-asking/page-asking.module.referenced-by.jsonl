@@ -37,6 +37,7 @@
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"story/world/characters/modules/character-filing/character-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"story/world/stories/read/wandering-inn/modules/chapter-filing/chapter-filing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-types/inventory-browser-category-types.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-asking.module.code.ts","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts","typed":false,"deferred":false}

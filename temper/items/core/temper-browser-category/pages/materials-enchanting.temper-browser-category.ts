@@ -6,5 +6,11 @@ export const materialsEnchanting = {
   slug: "materials-enchanting",
   title: "Enchanting",
   displayOrder: 7,
+  match: "Materials",
+  itemTypes: [
+    "temper-item-type/enchanting-rune-aspect",
+    "temper-item-type/enchanting-rune-essence",
+    "temper-item-type/enchanting-rune-potency",
+  ],
   parent: "temper-browser-category/materials",
 } as const satisfies TemperBrowserCategory

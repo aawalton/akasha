@@ -1,1 +1,4 @@
+{"propertySlug":"browser-item-types","path":"temper/items/core/temper-browser-category/pages/consumables-all.temper-browser-category.ts","id":"01a0e10d-1b60-7540-bd96-fe2f6cbe6eb7"}
+{"propertySlug":"browser-item-types","path":"temper/items/core/temper-browser-category/pages/consumables-master-writ.temper-browser-category.ts","id":"01a0e10d-1b60-7d00-805c-0148425148c6"}
+{"propertySlug":"browser-item-types","path":"temper/items/core/temper-browser-category/pages/consumables.temper-browser-category.ts","id":"01a0e10d-1b61-7daf-8e50-3c943afa4402"}
 {"propertySlug":"import","fileName":"master-writ.temper-item-type.ts","path":"temper/items/filters/core/modules/search-item-type-filter/search-item-type-filter.module.test.ts","typed":false,"deferred":false}

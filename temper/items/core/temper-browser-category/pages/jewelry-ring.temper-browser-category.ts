@@ -6,5 +6,7 @@ export const jewelryRing = {
   slug: "jewelry-ring",
   title: "Ring",
   displayOrder: 3,
+  match: "Jewelry",
+  equipTypes: ["temper-equip-type/ring"],
   parent: "temper-browser-category/jewelry",
 } as const satisfies TemperBrowserCategory

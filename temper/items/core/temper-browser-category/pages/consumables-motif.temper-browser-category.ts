@@ -6,5 +6,7 @@ export const consumablesMotif = {
   slug: "consumables-motif",
   title: "Motif",
   displayOrder: 7,
+  match: "Consumable",
+  itemTypes: ["temper-item-type/racial-style-motif"],
   parent: "temper-browser-category/consumables",
 } as const satisfies TemperBrowserCategory

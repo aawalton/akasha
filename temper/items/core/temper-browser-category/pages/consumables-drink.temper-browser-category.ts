@@ -6,5 +6,17 @@ export const consumablesDrink = {
   slug: "consumables-drink",
   title: "Drink",
   displayOrder: 3,
+  match: "Specialized",
+  itemTypes: ["temper-item-type/drink"],
+  specializedItemTypes: [
+    "temper-specialized-item-type/drink-alcoholic",
+    "temper-specialized-item-type/drink-cordial-tea",
+    "temper-specialized-item-type/drink-distillate",
+    "temper-specialized-item-type/drink-liqueur",
+    "temper-specialized-item-type/drink-tea",
+    "temper-specialized-item-type/drink-tincture",
+    "temper-specialized-item-type/drink-tonic",
+    "temper-specialized-item-type/drink-unique",
+  ],
   parent: "temper-browser-category/consumables",
 } as const satisfies TemperBrowserCategory

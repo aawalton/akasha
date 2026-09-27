@@ -6,5 +6,7 @@ export const miscellaneousBait = {
   slug: "miscellaneous-bait",
   title: "Bait",
   displayOrder: 8,
+  match: "Misc",
+  itemTypes: ["temper-item-type/lure"],
   parent: "temper-browser-category/miscellaneous",
 } as const satisfies TemperBrowserCategory

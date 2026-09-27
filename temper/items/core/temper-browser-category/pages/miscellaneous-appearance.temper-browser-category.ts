@@ -6,5 +6,11 @@ export const miscellaneousAppearance = {
   slug: "miscellaneous-appearance",
   title: "Appearance",
   displayOrder: 2,
+  match: "Appearance",
+  specializedItemTypes: [
+    "temper-specialized-item-type/disguise",
+    "temper-specialized-item-type/costume",
+    "temper-specialized-item-type/tabard",
+  ],
   parent: "temper-browser-category/miscellaneous",
 } as const satisfies TemperBrowserCategory

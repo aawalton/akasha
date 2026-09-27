@@ -6,4 +6,5 @@ export const companion = {
   slug: "companion",
   title: "Companion",
   displayOrder: 8,
+  match: "Companion",
 } as const satisfies TemperBrowserCategory

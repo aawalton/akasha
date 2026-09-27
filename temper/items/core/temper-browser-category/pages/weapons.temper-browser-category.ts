@@ -6,4 +6,5 @@ export const weapons = {
   slug: "weapons",
   title: "Weapons",
   displayOrder: 2,
+  match: "Weapons",
 } as const satisfies TemperBrowserCategory

@@ -6,5 +6,7 @@ export const miscellaneousSoulGem = {
   slug: "miscellaneous-soul-gem",
   title: "Soul Gem",
   displayOrder: 4,
+  match: "Misc",
+  itemTypes: ["temper-item-type/soul-gem"],
   parent: "temper-browser-category/miscellaneous",
 } as const satisfies TemperBrowserCategory

@@ -6,5 +6,12 @@ export const weaponsOneHanded = {
   slug: "weapons-one-handed",
   title: "One-Handed",
   displayOrder: 2,
+  match: "Weapons",
+  weaponTypes: [
+    "temper-weapon-type/axe",
+    "temper-weapon-type/mace",
+    "temper-weapon-type/sword",
+    "temper-weapon-type/dagger",
+  ],
   parent: "temper-browser-category/weapons",
 } as const satisfies TemperBrowserCategory

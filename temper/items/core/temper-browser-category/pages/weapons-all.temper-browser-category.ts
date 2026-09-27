@@ -6,5 +6,6 @@ export const weaponsAll = {
   slug: "weapons-all",
   title: "All",
   displayOrder: 1,
+  match: "Weapons",
   parent: "temper-browser-category/weapons",
 } as const satisfies TemperBrowserCategory

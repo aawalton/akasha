@@ -6,5 +6,11 @@ export const consumablesContainer = {
   slug: "consumables-container",
   title: "Container",
   displayOrder: 9,
+  match: "Consumable",
+  itemTypes: [
+    "temper-item-type/container",
+    "temper-item-type/container-currency",
+    "temper-item-type/container-stackable",
+  ],
   parent: "temper-browser-category/consumables",
 } as const satisfies TemperBrowserCategory

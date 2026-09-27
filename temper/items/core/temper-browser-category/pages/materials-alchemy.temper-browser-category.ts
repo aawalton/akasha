@@ -6,5 +6,11 @@ export const materialsAlchemy = {
   slug: "materials-alchemy",
   title: "Alchemy",
   displayOrder: 6,
+  match: "Materials",
+  itemTypes: [
+    "temper-item-type/reagent",
+    "temper-item-type/potion-base",
+    "temper-item-type/poison-base",
+  ],
   parent: "temper-browser-category/materials",
 } as const satisfies TemperBrowserCategory

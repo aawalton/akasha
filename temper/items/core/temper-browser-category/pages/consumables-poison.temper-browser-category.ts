@@ -6,5 +6,7 @@ export const consumablesPoison = {
   slug: "consumables-poison",
   title: "Poison",
   displayOrder: 6,
+  match: "Consumable",
+  itemTypes: ["temper-item-type/poison"],
   parent: "temper-browser-category/consumables",
 } as const satisfies TemperBrowserCategory

@@ -6,5 +6,17 @@ export const consumablesFood = {
   slug: "consumables-food",
   title: "Food",
   displayOrder: 2,
+  match: "Specialized",
+  itemTypes: ["temper-item-type/food"],
+  specializedItemTypes: [
+    "temper-specialized-item-type/food-entremet",
+    "temper-specialized-item-type/food-fruit",
+    "temper-specialized-item-type/food-gourmet",
+    "temper-specialized-item-type/food-meat",
+    "temper-specialized-item-type/food-ragout",
+    "temper-specialized-item-type/food-savoury",
+    "temper-specialized-item-type/food-unique",
+    "temper-specialized-item-type/food-vegetable",
+  ],
   parent: "temper-browser-category/consumables",
 } as const satisfies TemperBrowserCategory

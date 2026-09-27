@@ -1,2 +1,5 @@
+{"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/companion-jewelry.temper-browser-category.ts","id":"01a0e10d-1b60-7f0d-9e83-637e9ace60a5"}
+{"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/jewelry-all.temper-browser-category.ts","id":"01a0e10d-1b61-70ad-beae-a983f41f6608"}
+{"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/jewelry-necklace.temper-browser-category.ts","id":"01a0e10d-1b61-764d-bca8-3f68cc88422d"}
 {"propertySlug":"import","fileName":"neck.temper-equip-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"slot-equip-type","path":"temper/catalog/gear/temper-jewelry-type/pages/necklace.temper-jewelry-type.ts","id":"019e46b4-42ab-7172-b0cb-06555bd2abb6"}

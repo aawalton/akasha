@@ -6,5 +6,7 @@ export const consumablesMisc = {
   slug: "consumables-misc",
   title: "Misc",
   displayOrder: 12,
+  match: "Consumable",
+  itemTypes: ["temper-item-type/dye-stamp", "temper-item-type/recall-stone"],
   parent: "temper-browser-category/consumables",
 } as const satisfies TemperBrowserCategory

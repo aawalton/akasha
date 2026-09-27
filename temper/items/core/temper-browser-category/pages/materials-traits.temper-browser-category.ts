@@ -6,5 +6,12 @@ export const materialsTraits = {
   slug: "materials-traits",
   title: "Traits",
   displayOrder: 10,
+  match: "Materials",
+  itemTypes: [
+    "temper-item-type/weapon-trait",
+    "temper-item-type/armor-trait",
+    "temper-item-type/jewelry-trait",
+    "temper-item-type/jewelry-raw-trait",
+  ],
   parent: "temper-browser-category/materials",
 } as const satisfies TemperBrowserCategory

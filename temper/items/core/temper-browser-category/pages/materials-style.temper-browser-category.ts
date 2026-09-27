@@ -6,5 +6,7 @@ export const materialsStyle = {
   slug: "materials-style",
   title: "Style",
   displayOrder: 9,
+  match: "Materials",
+  itemTypes: ["temper-item-type/style-material"],
   parent: "temper-browser-category/materials",
 } as const satisfies TemperBrowserCategory

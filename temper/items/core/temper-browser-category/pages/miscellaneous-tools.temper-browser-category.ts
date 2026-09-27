@@ -6,5 +6,7 @@ export const miscellaneousTools = {
   slug: "miscellaneous-tools",
   title: "Tools",
   displayOrder: 6,
+  match: "Misc",
+  itemTypes: ["temper-item-type/tool", "temper-item-type/lockpick"],
   parent: "temper-browser-category/miscellaneous",
 } as const satisfies TemperBrowserCategory

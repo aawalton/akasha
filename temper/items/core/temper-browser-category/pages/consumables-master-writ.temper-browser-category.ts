@@ -6,5 +6,7 @@ export const consumablesMasterWrit = {
   slug: "consumables-master-writ",
   title: "Master Writ",
   displayOrder: 8,
+  match: "Consumable",
+  itemTypes: ["temper-item-type/master-writ"],
   parent: "temper-browser-category/consumables",
 } as const satisfies TemperBrowserCategory

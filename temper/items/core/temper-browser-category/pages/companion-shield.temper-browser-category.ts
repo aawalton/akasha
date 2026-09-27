@@ -6,5 +6,8 @@ export const companionShield = {
   slug: "companion-shield",
   title: "Shield",
   displayOrder: 5,
+  match: "Companion",
+  itemTypes: ["temper-item-type/weapon"],
+  armorWeights: ["temper-armor-weight/shield"],
   parent: "temper-browser-category/companion",
 } as const satisfies TemperBrowserCategory

@@ -6,5 +6,11 @@ export const miscellaneousScribing = {
   slug: "miscellaneous-scribing",
   title: "Scribing",
   displayOrder: 11,
+  match: "Misc",
+  itemTypes: [
+    "temper-item-type/scribing-ink",
+    "temper-item-type/crafted-ability",
+    "temper-item-type/crafted-ability-script",
+  ],
   parent: "temper-browser-category/miscellaneous",
 } as const satisfies TemperBrowserCategory

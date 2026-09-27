@@ -6,4 +6,5 @@ export const all = {
   slug: "all",
   title: "All",
   displayOrder: 1,
+  match: "All",
 } as const satisfies TemperBrowserCategory

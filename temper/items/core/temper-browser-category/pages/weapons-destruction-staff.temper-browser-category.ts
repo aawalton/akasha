@@ -6,5 +6,11 @@ export const weaponsDestructionStaff = {
   slug: "weapons-destruction-staff",
   title: "Destruction Staff",
   displayOrder: 5,
+  match: "Weapons",
+  weaponTypes: [
+    "temper-weapon-type/inferno-staff",
+    "temper-weapon-type/ice-staff",
+    "temper-weapon-type/lightning-staff",
+  ],
   parent: "temper-browser-category/weapons",
 } as const satisfies TemperBrowserCategory

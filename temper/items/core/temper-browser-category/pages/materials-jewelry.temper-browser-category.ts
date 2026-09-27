@@ -6,5 +6,11 @@ export const materialsJewelry = {
   slug: "materials-jewelry",
   title: "Jewelry",
   displayOrder: 5,
+  match: "Materials",
+  itemTypes: [
+    "temper-item-type/jewelrycrafting-raw-material",
+    "temper-item-type/jewelrycrafting-material",
+    "temper-item-type/jewelrycrafting-booster",
+  ],
   parent: "temper-browser-category/materials",
 } as const satisfies TemperBrowserCategory

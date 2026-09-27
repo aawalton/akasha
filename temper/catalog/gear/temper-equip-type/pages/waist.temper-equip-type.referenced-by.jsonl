@@ -1,2 +1,7 @@
+{"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/armor-clothing.temper-browser-category.ts","id":"01a0e10d-1b60-7683-95e7-c89beec908c1"}
+{"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/armor-heavy.temper-browser-category.ts","id":"01a0e10d-1b60-7e73-9f2a-87db073aa308"}
+{"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/armor-light.temper-browser-category.ts","id":"01a0e10d-1b60-7a2b-8873-048745e18e5c"}
+{"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/armor-medium.temper-browser-category.ts","id":"01a0e10d-1b60-7dcb-9187-f2af38b7fb4f"}
+{"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/companion-armor.temper-browser-category.ts","id":"01a0e10d-1b60-7503-8236-bc308da6f342"}
 {"propertySlug":"import","fileName":"waist.temper-equip-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"slot-equip-type","path":"temper/catalog/gear/temper-armor-slot/pages/waist.temper-armor-slot.ts","id":"01a05fd4-d96f-73b3-b9fe-4c3996d59a22"}

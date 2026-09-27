@@ -6,5 +6,12 @@ export const consumablesRepair = {
   slug: "consumables-repair",
   title: "Repair",
   displayOrder: 10,
+  match: "Consumable",
+  itemTypes: [
+    "temper-item-type/tool",
+    "temper-item-type/ava-repair",
+    "temper-item-type/crown-repair",
+    "temper-item-type/group-repair",
+  ],
   parent: "temper-browser-category/consumables",
 } as const satisfies TemperBrowserCategory

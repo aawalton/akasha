@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/addon/pages/combat/modules/combat-categories/combat-categories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/addon/pages/combat/modules/combat-ui-stats-panels/combat-ui-stats-panels.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-types/inventory-browser-category-types.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/addon/pages/temper-core/temper-addon-menu/modules/addon-menu-widget-colorpicker/addon-menu-widget-colorpicker.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-number.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.code.ts","typed":false,"deferred":false}

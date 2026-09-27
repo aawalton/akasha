@@ -6,5 +6,18 @@ export const materialsProvisioning = {
   slug: "materials-provisioning",
   title: "Provisioning",
   displayOrder: 8,
+  match: "Specialized",
+  itemTypes: ["temper-item-type/ingredient"],
+  specializedItemTypes: [
+    "temper-specialized-item-type/ingredient-alcohol",
+    "temper-specialized-item-type/ingredient-drink-additive",
+    "temper-specialized-item-type/ingredient-food-additive",
+    "temper-specialized-item-type/ingredient-fruit",
+    "temper-specialized-item-type/ingredient-meat",
+    "temper-specialized-item-type/ingredient-rare",
+    "temper-specialized-item-type/ingredient-tea",
+    "temper-specialized-item-type/ingredient-tonic",
+    "temper-specialized-item-type/ingredient-vegetable",
+  ],
   parent: "temper-browser-category/materials",
 } as const satisfies TemperBrowserCategory

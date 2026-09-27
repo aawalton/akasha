@@ -61,7 +61,7 @@ export const temperBrowserCategory = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Which items a category takes in is the addon's, reached by the page's slug.",
+      statement: "Which items a category takes in is stated by the category's own links.",
     },
   ],
   types: "ts",

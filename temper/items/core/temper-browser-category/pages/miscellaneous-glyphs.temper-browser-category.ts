@@ -6,5 +6,11 @@ export const miscellaneousGlyphs = {
   slug: "miscellaneous-glyphs",
   title: "Glyphs",
   displayOrder: 3,
+  match: "Misc",
+  itemTypes: [
+    "temper-item-type/glyph-armor",
+    "temper-item-type/glyph-jewelry",
+    "temper-item-type/glyph-weapon",
+  ],
   parent: "temper-browser-category/miscellaneous",
 } as const satisfies TemperBrowserCategory

@@ -6,5 +6,13 @@ export const miscellaneousCollectibles = {
   slug: "miscellaneous-collectibles",
   title: "Collectibles",
   displayOrder: 12,
+  match: "MiscSubfilter",
+  specializedItemTypes: [
+    "temper-specialized-item-type/collectible-monster-trophy",
+    "temper-specialized-item-type/collectible-rare-fish",
+    "temper-specialized-item-type/collectible-style-page",
+    "temper-specialized-item-type/fish",
+    "temper-specialized-item-type/treasure",
+  ],
   parent: "temper-browser-category/miscellaneous",
 } as const satisfies TemperBrowserCategory

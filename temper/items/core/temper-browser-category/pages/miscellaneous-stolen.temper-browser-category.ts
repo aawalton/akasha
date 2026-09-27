@@ -6,5 +6,6 @@ export const miscellaneousStolen = {
   slug: "miscellaneous-stolen",
   title: "Stolen",
   displayOrder: 9,
+  match: "Stolen",
   parent: "temper-browser-category/miscellaneous",
 } as const satisfies TemperBrowserCategory

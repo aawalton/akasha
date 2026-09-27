@@ -1,1 +1,4 @@
+{"propertySlug":"browser-item-types","path":"temper/items/core/temper-browser-category/pages/companion-shield.temper-browser-category.ts","id":"01a0e10d-1b60-7f1f-a9e1-07bbeae6b18d"}
+{"propertySlug":"browser-item-types","path":"temper/items/core/temper-browser-category/pages/companion-weapons.temper-browser-category.ts","id":"01a0e10d-1b60-7185-af64-d1b3d8380734"}
+{"propertySlug":"import","fileName":"weapon.temper-item-type.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-types/inventory-browser-category-types.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"weapon.temper-item-type.ts","path":"temper/items/filters/core/modules/search-item-type-filter/search-item-type-filter.module.test.ts","typed":false,"deferred":false}
