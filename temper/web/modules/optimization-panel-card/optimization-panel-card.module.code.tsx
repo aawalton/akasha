@@ -2,6 +2,10 @@ import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/pan
 import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
 import type { MetricValue } from "akasha/temper/player/character/stat/modules/metric-value/metric-value.module.code.ts"
 import type { StatsRecord } from "akasha/temper/web/modules/stats-types/stats-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { optimizationPanelCardCappedAt } from "akasha/temper/web/phrase/pages/optimization-panel-card-capped-at.temper-web-phrase.ts"
+import { optimizationPanelCardSurplus } from "akasha/temper/web/phrase/pages/optimization-panel-card-surplus.temper-web-phrase.ts"
+import { optimizationPanelCardTitle } from "akasha/temper/web/phrase/pages/optimization-panel-card-title.temper-web-phrase.ts"
 
 interface OptimizationPanelCardProps {
   stats: StatsRecord
@@ -27,6 +31,8 @@ export function OptimizationPanelCard({
   searchTerm,
   className,
 }: OptimizationPanelCardProps) {
+  const phrase = usePhrase()
+  const title = phrase(optimizationPanelCardTitle.slug)
   const lowerSearch = searchTerm.trim().toLowerCase()
 
   const overcappedMetrics = Object.values(stats).filter(
@@ -35,7 +41,7 @@ export function OptimizationPanelCard({
       isOvercappedRatingMetric(stat) &&
       (lowerSearch === "" ||
         stat.name.toLowerCase().includes(lowerSearch) ||
-        "optimization".includes(lowerSearch))
+        title.toLowerCase().includes(lowerSearch))
   )
 
   if (overcappedMetrics.length === 0) {
@@ -43,7 +49,7 @@ export function OptimizationPanelCard({
   }
 
   return (
-    <PanelCard id="optimization" collapsible={true} title="Optimization" className={className}>
+    <PanelCard id="optimization" collapsible={true} title={title} className={className}>
       <div className="space-y-4">
         {overcappedMetrics.map((stat) => {
           const surplusRating = stat.value - stat.cap * stat.divisor
@@ -55,7 +61,7 @@ export function OptimizationPanelCard({
             <div key={stat.id} className="space-y-1">
               <StatRow label={stat.name} useAccentColor depth={0} />
               <StatRow
-                label="Surplus"
+                label={phrase(optimizationPanelCardSurplus.slug)}
                 value={
                   <span className="text-warning">
                     +{Math.round(surplusRating).toLocaleString()} (+{surplusPercent}%)
@@ -64,7 +70,7 @@ export function OptimizationPanelCard({
                 depth={1}
               />
               <StatRow
-                label={`Capped at ${capPercent}%`}
+                label={phrase(optimizationPanelCardCappedAt.slug, { percent: capPercent })}
                 value={cappedRating.toLocaleString()}
                 depth={1}
               />

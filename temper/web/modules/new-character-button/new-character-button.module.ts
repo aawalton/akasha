@@ -6,4 +6,10 @@ export const newCharacterButton = {
   slug: "new-character-button",
   definition: "the button making a new character",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

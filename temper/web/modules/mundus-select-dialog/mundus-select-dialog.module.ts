@@ -11,5 +11,9 @@ export const mundusSelectDialog = {
       decisionKind: "decision-kind/departure",
       statement: "The stones offered are drawn again whenever the mundus stones are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

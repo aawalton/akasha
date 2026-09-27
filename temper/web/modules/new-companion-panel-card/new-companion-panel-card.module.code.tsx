@@ -5,10 +5,15 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { useNewCompanion } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { newCompanionPanelCardCreate } from "akasha/temper/web/phrase/pages/new-companion-panel-card-create.temper-web-phrase.ts"
+import { newCompanionPanelCardCreating } from "akasha/temper/web/phrase/pages/new-companion-panel-card-creating.temper-web-phrase.ts"
+import { newCompanionPanelCardInvitation } from "akasha/temper/web/phrase/pages/new-companion-panel-card-invitation.temper-web-phrase.ts"
 import { Plus } from "lucide-react"
 
 export function NewCompanionPanelCard() {
   const { isCreating, handleCreate } = useNewCompanion()
+  const phrase = usePhrase()
 
   return (
     <PanelCard
@@ -30,9 +35,11 @@ export function NewCompanionPanelCard() {
         </div>
         <div className="space-y-1 text-center">
           <p className="font-semibold text-lg">
-            {isCreating ? "Creating Build..." : "Create New Build"}
+            {phrase(
+              isCreating ? newCompanionPanelCardCreating.slug : newCompanionPanelCardCreate.slug
+            )}
           </p>
-          <Text>Optimize your companion&apos;s gear and skills.</Text>
+          <Text>{phrase(newCompanionPanelCardInvitation.slug)}</Text>
         </div>
       </div>
     </PanelCard>

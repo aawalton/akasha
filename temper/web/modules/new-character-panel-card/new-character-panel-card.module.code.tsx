@@ -5,10 +5,15 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { useNewCharacter } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { newCharacterPanelCardCreate } from "akasha/temper/web/phrase/pages/new-character-panel-card-create.temper-web-phrase.ts"
+import { newCharacterPanelCardCreating } from "akasha/temper/web/phrase/pages/new-character-panel-card-creating.temper-web-phrase.ts"
+import { newCharacterPanelCardInvitation } from "akasha/temper/web/phrase/pages/new-character-panel-card-invitation.temper-web-phrase.ts"
 import { Plus } from "lucide-react"
 
 export function NewCharacterPanelCard() {
   const { isCreating, handleCreate } = useNewCharacter()
+  const phrase = usePhrase()
 
   return (
     <PanelCard
@@ -30,9 +35,11 @@ export function NewCharacterPanelCard() {
         </div>
         <div className="space-y-1 text-center">
           <p className="font-semibold text-lg">
-            {isCreating ? "Creating Build..." : "Create New Build"}
+            {phrase(
+              isCreating ? newCharacterPanelCardCreating.slug : newCharacterPanelCardCreate.slug
+            )}
           </p>
-          <Text>Plan your stats and optimize your potential.</Text>
+          <Text>{phrase(newCharacterPanelCardInvitation.slug)}</Text>
         </div>
       </div>
     </PanelCard>

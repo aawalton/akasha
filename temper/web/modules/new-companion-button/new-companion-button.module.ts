@@ -6,4 +6,10 @@ export const newCompanionButton = {
   slug: "new-companion-button",
   definition: "the button creating a companion",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

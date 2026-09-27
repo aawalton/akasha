@@ -6,4 +6,10 @@ export const newCharacterPanelCard = {
   slug: "new-character-panel-card",
   definition: "a panel card making a new character",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

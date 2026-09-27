@@ -12,6 +12,11 @@ import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,
 } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { mundusSelectDialogCategory } from "akasha/temper/web/phrase/pages/mundus-select-dialog-category.temper-web-phrase.ts"
+import { mundusSelectDialogEmpty } from "akasha/temper/web/phrase/pages/mundus-select-dialog-empty.temper-web-phrase.ts"
+import { mundusSelectDialogSearch } from "akasha/temper/web/phrase/pages/mundus-select-dialog-search.temper-web-phrase.ts"
+import { mundusSelectDialogTitle } from "akasha/temper/web/phrase/pages/mundus-select-dialog-title.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 interface MundusSelectDialogProps {
@@ -37,12 +42,15 @@ export function MundusSelectDialog({
   onSelect,
 }: MundusSelectDialogProps) {
   const held = mundus()
+  const phrase = usePhrase()
   const config: FilterableSelectDialogConfig<MundusSource> = useMemo(
     () => ({
-      title: "Select Mundus Stone",
-      searchPlaceholder: "Search mundus stones...",
-      emptyMessage: "No mundus stones found.",
-      categories: [{ id: "all", label: "Mundus Stones", items: mundusStones(held) }],
+      title: phrase(mundusSelectDialogTitle.slug),
+      searchPlaceholder: phrase(mundusSelectDialogSearch.slug),
+      emptyMessage: phrase(mundusSelectDialogEmpty.slug),
+      categories: [
+        { id: "all", label: phrase(mundusSelectDialogCategory.slug), items: mundusStones(held) },
+      ],
       allItems: [...held.list],
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
@@ -57,7 +65,7 @@ export function MundusSelectDialog({
         ) : null
       },
     }),
-    [held]
+    [held, phrase]
   )
 
   const handleSelect = (itemId: MundusId) => {
