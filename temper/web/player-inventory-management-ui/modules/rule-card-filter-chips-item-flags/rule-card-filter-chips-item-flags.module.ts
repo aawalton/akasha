@@ -12,5 +12,9 @@ export const ruleCardFilterChipsItemFlags = {
       statement:
         "A chip's options are its condition field's value pages, and none is drawn before.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chip's remove label is the remove-filter phrase.",
+    },
   ],
 } as const satisfies Module

@@ -15,5 +15,9 @@ export const ruleCardFilterChipItemIds = {
       decisionKind: "decision-kind/departure",
       statement: "An item whose name the lookup does not give is shown by its id.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chip's remove label is the remove-filter phrase.",
+    },
   ],
 } as const satisfies Module

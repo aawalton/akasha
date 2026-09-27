@@ -9,6 +9,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import { useRemoveFilterLabel } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import {
   optionsOf,
   useConditionValueOptions,
@@ -45,8 +46,10 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
     handleRemoveFilter,
   } = state
   const values = useConditionValueOptions()
+  const removeLabel = useRemoveFilterLabel()
   if (values === null) return null
   const options = optionsOf(values, id)
+  const remove = removeLabel?.(id)
 
   switch (id) {
     case "reconstructed":
@@ -57,7 +60,7 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("reconstructed")}
-              removeLabel="Remove reconstructed status filter"
+              removeLabel={remove}
             >
               <SelectValue />
             </Badge>
@@ -80,7 +83,7 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("transmuted")}
-              removeLabel="Remove transmuted status filter"
+              removeLabel={remove}
             >
               <SelectValue />
             </Badge>
@@ -103,7 +106,7 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("known")}
-              removeLabel="Remove known status filter"
+              removeLabel={remove}
             >
               <SelectValue />
             </Badge>

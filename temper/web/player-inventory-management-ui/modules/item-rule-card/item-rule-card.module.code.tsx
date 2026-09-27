@@ -203,11 +203,12 @@ export const ItemRuleCard = memo(
                           variant={useChain ? "accent" : "elevation-muted"}
                           className="shrink-0"
                           onClick={() => handleToggleDestinationChain(!useChain)}
-                          aria-label={
+                          aria-label={titleIn(
+                            phrases,
                             useChain
-                              ? "Switch to single destination"
-                              : "Switch to cascading destinations"
-                          }
+                              ? "switch-to-single-destination"
+                              : "switch-to-cascading-destinations"
+                          )}
                         >
                           {titleIn(
                             phrases,

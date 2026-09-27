@@ -180,9 +180,10 @@ export function RuleCardActionRow({
           <ButtonBadge
             variant={useChain ? "accent" : "elevation-muted"}
             onClick={() => handleToggleDestinationChain(!useChain)}
-            aria-label={
-              useChain ? "Switch to single destination" : "Switch to cascading destinations"
-            }
+            aria-label={titleIn(
+              phrases,
+              useChain ? "switch-to-single-destination" : "switch-to-cascading-destinations"
+            )}
           >
             {titleIn(phrases, useChain ? "single-destination" : "cascading-destinations")}
           </ButtonBadge>

@@ -1,6 +1,7 @@
 "use client"
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { useRemoveFilterLabel } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import { type ReactNode, useEffect, useState } from "react"
 
@@ -17,6 +18,7 @@ interface NamedItem {
 
 export function RuleCardFilterChipItemIds({ state }: RuleCardFilterChipItemIdsProps): ReactNode {
   const { itemIdsValue, handleRemoveFilter } = state
+  const removeLabel = useRemoveFilterLabel()
   const [names, setNames] = useState<ReadonlyMap<number, string>>(new Map())
   const idsKey = itemIdsValue.join(",")
 
@@ -41,7 +43,7 @@ export function RuleCardFilterChipItemIds({ state }: RuleCardFilterChipItemIdsPr
       variant="accent"
       className="shrink-0"
       onRemove={() => handleRemoveFilter("item-ids")}
-      removeLabel="Remove item ids filter"
+      removeLabel={removeLabel?.("item-ids")}
     >
       <span>Items: {said}</span>
     </Badge>

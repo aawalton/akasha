@@ -15,5 +15,9 @@ export const ruleCardFilterChipsQuantity = {
       decisionKind: "decision-kind/departure",
       statement: "The stock threshold chip words its counts with rule card phrases.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chip's remove label is the remove-filter phrase.",
+    },
   ],
 } as const satisfies Module

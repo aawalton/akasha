@@ -17,6 +17,7 @@ import type { RuleCardState } from "akasha/temper/web/player-inventory-managemen
 import {
   phraseOf,
   type RuleCardPhrases,
+  useRemoveFilterLabel,
   useRuleCardPhrases,
 } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import {
@@ -44,6 +45,7 @@ interface TraitsChipProps {
 export function TraitsChip({ state }: TraitsChipProps): ReactNode {
   const { traitOptions, selectedTraitItems, handleTraitChange, handleRemoveFilter } = state
   const phrases = useRuleCardPhrases()
+  const removeLabel = useRemoveFilterLabel()
   const titles = useConditionFieldTitles()
   if (phrases === null || titles === null) return null
 
@@ -55,7 +57,7 @@ export function TraitsChip({ state }: TraitsChipProps): ReactNode {
           className="shrink-0 cursor-pointer"
           asChild
           onRemove={() => handleRemoveFilter("traits")}
-          removeLabel="Remove trait filter"
+          removeLabel={removeLabel?.("traits")}
         >
           <span>
             {chosenOf(phrases, selectedTraitItems.length, {
@@ -92,6 +94,7 @@ interface SetSourcesChipProps {
 export function SetSourcesChip({ state }: SetSourcesChipProps): ReactNode {
   const { selectedSetSourceItems, handleSetSourceTypesChange, handleRemoveFilter } = state
   const phrases = useRuleCardPhrases()
+  const removeLabel = useRemoveFilterLabel()
   const titles = useConditionFieldTitles()
   if (phrases === null || titles === null) return null
 
@@ -103,7 +106,7 @@ export function SetSourcesChip({ state }: SetSourcesChipProps): ReactNode {
           className="shrink-0 cursor-pointer"
           asChild
           onRemove={() => handleRemoveFilter("set-sources")}
-          removeLabel="Remove set sources filter"
+          removeLabel={removeLabel?.("set-sources")}
         >
           <span>
             {chosenOf(phrases, selectedSetSourceItems.length, {
@@ -143,6 +146,7 @@ export function LocationChip({ state }: LocationChipProps): ReactNode {
   const bags = useKeyedTitles(temperBag.slug)
   const options = useMemo(() => locationOptions(), [places, bags])
   const phrases = useRuleCardPhrases()
+  const removeLabel = useRemoveFilterLabel()
   if (phrases === null) return null
 
   return (
@@ -153,7 +157,7 @@ export function LocationChip({ state }: LocationChipProps): ReactNode {
           className="shrink-0 cursor-pointer"
           asChild
           onRemove={() => handleRemoveFilter("location")}
-          removeLabel="Remove location filter"
+          removeLabel={removeLabel?.("location")}
         >
           <span>
             {chosenOf(phrases, selectedLocationItems.length, {

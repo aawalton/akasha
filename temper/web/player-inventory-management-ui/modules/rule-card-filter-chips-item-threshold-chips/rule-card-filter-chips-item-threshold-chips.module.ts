@@ -11,5 +11,9 @@ export const ruleCardFilterChipsItemThresholdChips = {
       decisionKind: "decision-kind/departure",
       statement: "A level option is spelled by the rule card phrase its key names.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chip's remove label is the remove-filter phrase.",
+    },
   ],
 } as const satisfies Module

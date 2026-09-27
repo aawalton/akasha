@@ -31,6 +31,20 @@ export function phraseOf(
   )
 }
 
+export type RemoveFilterLabel = (filter: FilterId) => string
+
+export function useRemoveFilterLabel(): RemoveFilterLabel | null {
+  const phrases = useRuleCardPhrases()
+  const fields = useConditionFieldTitles()
+  return useMemo(
+    () =>
+      phrases === null || fields === null
+        ? null
+        : (filter) => phraseOf(phrases, "remove-filter", { filter: titleOfFilter(fields, filter) }),
+    [phrases, fields]
+  )
+}
+
 export type LockReason = (
   phraseKey: string,
   action: string,

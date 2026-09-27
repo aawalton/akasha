@@ -20,6 +20,7 @@ import {
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type { RequiredSkillLinesCondition } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
+import { useRemoveFilterLabel } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -58,6 +59,7 @@ export function RuleCardFilterChipRequiredSkillLines({
     handleRemoveFilter,
   } = state
   const options = skillLineOptions()
+  const removeLabel = useRemoveFilterLabel()
 
   const selectedItems: readonly BadgeToggleGroupItem[] = requiredSkillLinesValue.skillLineIds
     .map((id) => options.find((o) => o.value === id))
@@ -76,7 +78,7 @@ export function RuleCardFilterChipRequiredSkillLines({
           className="shrink-0 cursor-pointer"
           asChild
           onRemove={() => handleRemoveFilter("required-skill-lines")}
-          removeLabel="Remove required skill lines filter"
+          removeLabel={removeLabel?.("required-skill-lines")}
         >
           <span>
             {triggerLabel}

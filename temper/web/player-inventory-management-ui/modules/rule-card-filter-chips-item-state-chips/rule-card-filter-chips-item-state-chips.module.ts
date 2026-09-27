@@ -16,5 +16,9 @@ export const ruleCardFilterChipsItemStateChips = {
       decisionKind: "decision-kind/departure",
       statement: "A locked chip's reason is a rule card phrase naming its action and filter.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chip's remove label is the remove-filter phrase.",
+    },
   ],
 } as const satisfies Module

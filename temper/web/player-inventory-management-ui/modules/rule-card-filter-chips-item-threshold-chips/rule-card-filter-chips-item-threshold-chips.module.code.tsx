@@ -14,6 +14,7 @@ import { ComparisonOpPicker } from "akasha/temper/web/player-inventory-managemen
 import type { RuleCardState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 import {
   phraseOf,
+  useRemoveFilterLabel,
   useRuleCardPhrases,
 } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { ReactNode } from "react"
@@ -39,6 +40,7 @@ export function QualityChip({ state }: QualityChipProps): ReactNode {
     handleQualityOpChange,
     handleRemoveFilter,
   } = state
+  const removeLabel = useRemoveFilterLabel()
 
   return (
     <Select value={qualityValue} onValueChange={handleQualityChange}>
@@ -48,7 +50,7 @@ export function QualityChip({ state }: QualityChipProps): ReactNode {
           className="shrink-0"
           frontAction={<ComparisonOpPicker value={qualityOp} onChange={handleQualityOpChange} />}
           onRemove={() => handleRemoveFilter("quality")}
-          removeLabel="Remove quality filter"
+          removeLabel={removeLabel?.("quality")}
         >
           <SelectValue />
         </Badge>
@@ -74,6 +76,7 @@ interface LevelChipProps {
 export function LevelChip({ state }: LevelChipProps): ReactNode {
   const { levelValue, levelOp, handleLevelChange, handleLevelOpChange, handleRemoveFilter } = state
   const phrases = useRuleCardPhrases()
+  const removeLabel = useRemoveFilterLabel()
   if (phrases === null) return null
 
   return (
@@ -84,7 +87,7 @@ export function LevelChip({ state }: LevelChipProps): ReactNode {
           className="shrink-0"
           frontAction={<ComparisonOpPicker value={levelOp} onChange={handleLevelOpChange} />}
           onRemove={() => handleRemoveFilter("level")}
-          removeLabel="Remove level filter"
+          removeLabel={removeLabel?.("level")}
         >
           <SelectValue />
         </Badge>

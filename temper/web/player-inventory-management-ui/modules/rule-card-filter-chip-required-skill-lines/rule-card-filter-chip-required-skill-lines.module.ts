@@ -6,4 +6,10 @@ export const ruleCardFilterChipRequiredSkillLines = {
   slug: "rule-card-filter-chip-required-skill-lines",
   definition: "the chip narrowing a rule by the skill lines an item needs",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chip's remove label is the remove-filter phrase.",
+    },
+  ],
 } as const satisfies Module

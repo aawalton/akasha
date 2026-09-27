@@ -19,5 +19,9 @@ export const ruleCardPhrase = {
       decisionKind: "decision-kind/departure",
       statement: "A lock reason's action and filter are named by their own pages' titles.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chip's remove label names its filter by the filter's condition field title.",
+    },
   ],
 } as const satisfies Module

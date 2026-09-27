@@ -7,6 +7,7 @@ import {
   PopoverTrigger,
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { useRemoveFilterLabel } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -20,6 +21,7 @@ export function RuleCardFilterChipCanLevelMorphs({
   state,
 }: RuleCardFilterChipCanLevelMorphsProps): ReactNode {
   const { handleRemoveFilter } = state
+  const removeLabel = useRemoveFilterLabel()
 
   return (
     <Popover>
@@ -29,7 +31,7 @@ export function RuleCardFilterChipCanLevelMorphs({
           className="shrink-0 cursor-pointer"
           asChild
           onRemove={() => handleRemoveFilter("can-level-morphs")}
-          removeLabel="Remove can level morphs filter"
+          removeLabel={removeLabel?.("can-level-morphs")}
         >
           <span>Can Level Morphs</span>
         </Badge>

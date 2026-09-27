@@ -13,7 +13,10 @@ import { titleOf } from "akasha/temper/items/core/modules/keyed-titles/keyed-tit
 import { temperDeconstructMode } from "akasha/temper/items/rules/core/temper-deconstruct-mode/temper-deconstruct-mode.page-type.ts"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { FilterLock } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
-import { useLockReason } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  useLockReason,
+  useRemoveFilterLabel,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import {
   titleOfFilter,
   useConditionFieldTitles,
@@ -83,8 +86,11 @@ export function RuleCardFilterChipAbility({
   const values = useConditionValueOptions()
   const lockReason = useLockReason()
   const modes = useKeyedTitles(temperDeconstructMode.slug)
+  const removeLabel = useRemoveFilterLabel()
   if (titles === null || values === null || lockReason === null || modes === null) return null
+  if (removeLabel === null) return null
   const title = titleOfFilter(titles, id)
+  const remove = removeLabel(id)
   const options = optionsOf(values, id)
   const chosen = (value: string) => valueLabelOf(values, id, value)
 
@@ -106,7 +112,7 @@ export function RuleCardFilterChipAbility({
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("can-inspire")}
-              removeLabel="Remove can inspire filter"
+              removeLabel={remove}
             >
               <SelectValue />
             </Badge>
@@ -134,7 +140,7 @@ export function RuleCardFilterChipAbility({
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("can-research")}
-              removeLabel="Remove can research filter"
+              removeLabel={remove}
             >
               <SelectValue />
             </Badge>
@@ -162,7 +168,7 @@ export function RuleCardFilterChipAbility({
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("can-unlock")}
-              removeLabel="Remove can unlock filter"
+              removeLabel={remove}
             >
               <SelectValue />
             </Badge>
@@ -188,7 +194,7 @@ export function RuleCardFilterChipAbility({
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("can-open")}
-          removeLabel="Remove can open filter"
+          removeLabel={remove}
         >
           {chosen(canOpenValue)}
         </Badge>
@@ -210,7 +216,7 @@ export function RuleCardFilterChipAbility({
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("can-sell")}
-          removeLabel="Remove can sell filter"
+          removeLabel={remove}
         >
           {title}
         </Badge>
@@ -227,7 +233,7 @@ export function RuleCardFilterChipAbility({
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("can-list-at-guild-trader")}
-          removeLabel="Remove can list at guild trader filter"
+          removeLabel={remove}
         >
           {title}
         </Badge>
@@ -239,7 +245,7 @@ export function RuleCardFilterChipAbility({
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("can-give-max-rewards")}
-          removeLabel="Remove can give max rewards filter"
+          removeLabel={remove}
         >
           {chosen(canGiveMaxRewardsValue)}
         </Badge>
@@ -258,7 +264,7 @@ export function RuleCardFilterChipAbility({
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("can-companion-equip")}
-              removeLabel="Remove can companion equip filter"
+              removeLabel={remove}
             >
               <SelectValue />
             </Badge>
@@ -284,7 +290,7 @@ export function RuleCardFilterChipAbility({
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("needed-for-target-character-build")}
-          removeLabel="Remove needed for target character build filter"
+          removeLabel={remove}
         >
           {title}
         </Badge>
@@ -301,7 +307,7 @@ export function RuleCardFilterChipAbility({
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("needed-for-target-companion-build")}
-          removeLabel="Remove needed for target companion build filter"
+          removeLabel={remove}
         >
           {title}
         </Badge>

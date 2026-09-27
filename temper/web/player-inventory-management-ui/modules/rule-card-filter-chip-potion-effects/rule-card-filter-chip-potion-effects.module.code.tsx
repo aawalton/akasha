@@ -19,6 +19,7 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { POTION_EFFECTS_OPTIONS } from "akasha/temper/items/rules/core/modules/potion-effects-filter/potion-effects-filter.module.code.ts"
+import { useRemoveFilterLabel } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -53,6 +54,7 @@ export function RuleCardFilterChipPotionEffects({
     handlePotionEffectsModeChange,
     handleRemoveFilter,
   } = state
+  const removeLabel = useRemoveFilterLabel()
 
   const selectedItems: readonly BadgeToggleGroupItem[] = potionEffectsValue.effects
     .map((id) => EFFECT_OPTIONS.find((o) => o.value === id))
@@ -71,7 +73,7 @@ export function RuleCardFilterChipPotionEffects({
           className="shrink-0 cursor-pointer"
           asChild
           onRemove={() => handleRemoveFilter("potion-effects")}
-          removeLabel="Remove potion effects filter"
+          removeLabel={removeLabel?.("potion-effects")}
         >
           <span>
             {triggerLabel}

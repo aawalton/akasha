@@ -16,6 +16,7 @@ import {
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type { RequiredCurseStateCondition } from "akasha/temper/items/rules/core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import { curses } from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
+import { useRemoveFilterLabel } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -34,6 +35,7 @@ export function RuleCardFilterChipRequiredCurseState({
   state,
 }: RuleCardFilterChipRequiredCurseStateProps): ReactNode {
   const { requiredCurseStateValue, handleRequiredCurseStateChange, handleRemoveFilter } = state
+  const removeLabel = useRemoveFilterLabel()
   const held = curses().list
   const stateOptions = CURSE_STATES.map((value) => ({
     value,
@@ -51,7 +53,7 @@ export function RuleCardFilterChipRequiredCurseState({
           className="shrink-0 cursor-pointer"
           asChild
           onRemove={() => handleRemoveFilter("required-curse-state")}
-          removeLabel="Remove required curse state filter"
+          removeLabel={removeLabel?.("required-curse-state")}
         >
           <span>{triggerLabel}</span>
         </Badge>

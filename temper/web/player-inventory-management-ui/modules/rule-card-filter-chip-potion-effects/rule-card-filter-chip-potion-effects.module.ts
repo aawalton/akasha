@@ -6,4 +6,10 @@ export const ruleCardFilterChipPotionEffects = {
   slug: "rule-card-filter-chip-potion-effects",
   definition: "the chip narrowing a rule by what a potion does",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chip's remove label is the remove-filter phrase.",
+    },
+  ],
 } as const satisfies Module

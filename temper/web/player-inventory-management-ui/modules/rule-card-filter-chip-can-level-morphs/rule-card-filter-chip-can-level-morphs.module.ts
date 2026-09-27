@@ -6,4 +6,10 @@ export const ruleCardFilterChipCanLevelMorphs = {
   slug: "rule-card-filter-chip-can-level-morphs",
   definition: "the chip narrowing a rule to items that level a morph",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chip's remove label is the remove-filter phrase.",
+    },
+  ],
 } as const satisfies Module

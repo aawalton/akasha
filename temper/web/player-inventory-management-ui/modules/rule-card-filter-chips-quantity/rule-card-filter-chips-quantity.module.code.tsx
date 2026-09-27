@@ -115,6 +115,7 @@ export function RuleCardFilterChipQuantity({
   const phrases = useRuleCardPhrases()
   if (titles === null || values === null || phrases === null) return null
   const title = titleOfFilter(titles, id)
+  const remove = phraseOf(phrases, "remove-filter", { filter: title })
 
   switch (id) {
     case "all-stocked":
@@ -125,7 +126,7 @@ export function RuleCardFilterChipQuantity({
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("all-stocked")}
-              removeLabel="Remove all stocked filter"
+              removeLabel={remove}
             >
               <SelectValue />
             </Badge>
@@ -148,7 +149,7 @@ export function RuleCardFilterChipQuantity({
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("stock-threshold")}
-              removeLabel="Remove stock threshold filter"
+              removeLabel={remove}
             >
               {phraseOf(phrases, "stock-threshold-prefix")} <SelectValue />
             </Badge>
@@ -170,7 +171,7 @@ export function RuleCardFilterChipQuantity({
           className="shrink-0"
           frontAction={<ComparisonOpPicker value={valueOp} onChange={handleValueOpChange} />}
           onRemove={() => handleRemoveFilter("value")}
-          removeLabel="Remove value filter"
+          removeLabel={remove}
         >
           <EditableNumber
             value={Number(valueValue)}
@@ -192,7 +193,7 @@ export function RuleCardFilterChipQuantity({
             <ComparisonOpPicker value={marketValueOp} onChange={handleMarketValueOpChange} />
           }
           onRemove={() => handleRemoveFilter("market-value")}
-          removeLabel="Remove market value filter"
+          removeLabel={remove}
         >
           <EditableNumber
             value={Number(marketValueValue)}
@@ -214,7 +215,7 @@ export function RuleCardFilterChipQuantity({
             <ComparisonOpPicker value={merchantValueOp} onChange={handleMerchantValueOpChange} />
           }
           onRemove={() => handleRemoveFilter("merchant-value")}
-          removeLabel="Remove merchant value filter"
+          removeLabel={remove}
         >
           <EditableNumber
             value={Number(merchantValueValue)}
@@ -239,7 +240,7 @@ export function RuleCardFilterChipQuantity({
             />
           }
           onRemove={() => handleRemoveFilter("replacement-value")}
-          removeLabel="Remove replacement value filter"
+          removeLabel={remove}
         >
           <EditableNumber
             value={Number(replacementValueValue)}
@@ -260,7 +261,7 @@ export function RuleCardFilterChipQuantity({
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("keep-quantity")}
-              removeLabel="Remove keep quantity filter"
+              removeLabel={remove}
             >
               {title} <SelectValue />
             </Badge>
@@ -283,7 +284,7 @@ export function RuleCardFilterChipQuantity({
               variant="elevation-muted"
               className="shrink-0"
               onRemove={() => handleRemoveFilter("target-quantity")}
-              removeLabel="Remove target quantity filter"
+              removeLabel={remove}
             >
               {title} <SelectValue />
             </Badge>
@@ -304,7 +305,7 @@ export function RuleCardFilterChipQuantity({
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("item-name")}
-          removeLabel="Remove item name filter"
+          removeLabel={remove}
         >
           <EditableTextValue value={itemNamePatternValue} onChange={handleItemNamePatternChange} />
         </Badge>

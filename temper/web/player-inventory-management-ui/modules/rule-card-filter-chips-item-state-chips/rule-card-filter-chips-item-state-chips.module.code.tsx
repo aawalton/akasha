@@ -10,7 +10,10 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import type { RuleCardState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 import { FilterLock } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
-import { useLockReason } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  useLockReason,
+  useRemoveFilterLabel,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import {
   optionsOf,
   useConditionValueOptions,
@@ -28,6 +31,7 @@ interface StolenChipProps {
 export function StolenChip({ state }: StolenChipProps): ReactNode {
   const { action, displayAction, stolenValue, handleStolenChange, handleRemoveFilter } = state
   const values = useConditionValueOptions()
+  const removeLabel = useRemoveFilterLabel()
   const lockReason = useLockReason()
   if (values === null || lockReason === null) return null
 
@@ -48,7 +52,7 @@ export function StolenChip({ state }: StolenChipProps): ReactNode {
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("stolen")}
-          removeLabel="Remove stolen status filter"
+          removeLabel={removeLabel?.("stolen")}
         >
           <SelectValue />
         </Badge>
@@ -71,6 +75,7 @@ interface CraftedChipProps {
 export function CraftedChip({ state }: CraftedChipProps): ReactNode {
   const { craftedValue, handleCraftedChange, handleRemoveFilter } = state
   const values = useConditionValueOptions()
+  const removeLabel = useRemoveFilterLabel()
   if (values === null) return null
 
   return (
@@ -80,7 +85,7 @@ export function CraftedChip({ state }: CraftedChipProps): ReactNode {
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("crafted")}
-          removeLabel="Remove crafted status filter"
+          removeLabel={removeLabel?.("crafted")}
         >
           <SelectValue />
         </Badge>
@@ -103,6 +108,7 @@ interface BoundChipProps {
 export function BoundChip({ state }: BoundChipProps): ReactNode {
   const { boundValue, handleBoundChange, handleRemoveFilter } = state
   const values = useConditionValueOptions()
+  const removeLabel = useRemoveFilterLabel()
   if (values === null) return null
 
   return (
@@ -112,7 +118,7 @@ export function BoundChip({ state }: BoundChipProps): ReactNode {
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("bound")}
-          removeLabel="Remove bound status filter"
+          removeLabel={removeLabel?.("bound")}
         >
           <SelectValue />
         </Badge>
@@ -138,6 +144,7 @@ interface BopTradeableChipProps {
 export function BopTradeableChip({ state }: BopTradeableChipProps): ReactNode {
   const { bopTradeableValue, handleBopTradeableChange, handleRemoveFilter } = state
   const values = useConditionValueOptions()
+  const removeLabel = useRemoveFilterLabel()
   if (values === null) return null
 
   return (
@@ -147,7 +154,7 @@ export function BopTradeableChip({ state }: BopTradeableChipProps): ReactNode {
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("bop-tradeable")}
-          removeLabel="Remove BoP-tradeable status filter"
+          removeLabel={removeLabel?.("bop-tradeable")}
         >
           <SelectValue />
         </Badge>
@@ -173,6 +180,7 @@ interface QuestRelevantChipProps {
 export function QuestRelevantChip({ state }: QuestRelevantChipProps): ReactNode {
   const { questRelevantValue, handleQuestRelevantChange, handleRemoveFilter } = state
   const values = useConditionValueOptions()
+  const removeLabel = useRemoveFilterLabel()
   if (values === null) return null
 
   return (
@@ -182,7 +190,7 @@ export function QuestRelevantChip({ state }: QuestRelevantChipProps): ReactNode 
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("quest-relevant")}
-          removeLabel="Remove quest-relevant status filter"
+          removeLabel={removeLabel?.("quest-relevant")}
         >
           <SelectValue />
         </Badge>
@@ -208,6 +216,7 @@ interface StackFullnessChipProps {
 export function StackFullnessChip({ state }: StackFullnessChipProps): ReactNode {
   const { stackFullnessValue, handleStackFullnessChange, handleRemoveFilter } = state
   const values = useConditionValueOptions()
+  const removeLabel = useRemoveFilterLabel()
   if (values === null) return null
 
   return (
@@ -217,7 +226,7 @@ export function StackFullnessChip({ state }: StackFullnessChipProps): ReactNode 
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("stack-fullness")}
-          removeLabel="Remove stack fullness filter"
+          removeLabel={removeLabel?.("stack-fullness")}
         >
           <SelectValue />
         </Badge>
@@ -243,6 +252,7 @@ interface LockedChipProps {
 export function LockedChip({ state }: LockedChipProps): ReactNode {
   const { displayAction, lockedValue, handleLockedChange, handleRemoveFilter } = state
   const values = useConditionValueOptions()
+  const removeLabel = useRemoveFilterLabel()
   const lockReason = useLockReason()
   if (values === null || lockReason === null) return null
 
@@ -267,7 +277,7 @@ export function LockedChip({ state }: LockedChipProps): ReactNode {
           variant="elevation-muted"
           className="shrink-0"
           onRemove={() => handleRemoveFilter("locked")}
-          removeLabel="Remove lock status filter"
+          removeLabel={removeLabel?.("locked")}
         >
           <SelectValue />
         </Badge>

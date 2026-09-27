@@ -17,6 +17,10 @@ export const ruleCardFilterChipsAbility = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A chip's remove label is the remove-filter phrase.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A chip's options are its condition field's value pages, and none is drawn before.",
     },
