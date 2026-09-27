@@ -15,6 +15,7 @@ export const temperInventoryRule = {
     "relation-property/character-condition-field",
     "multi-relation-property/skill-lines",
     "boolean-property/craft-shortfall",
+    "boolean-property/buy-shortfall",
   ],
   properties: [
     { pageProperty: "relation-property/account-page", required: true, many: false },
@@ -26,6 +27,7 @@ export const temperInventoryRule = {
     { pageProperty: "page-property-entry/destination-chain", required: false, many: false },
     { pageProperty: "relation-property/item-category", required: true, many: false },
     { pageProperty: "boolean-property/craft-shortfall", required: false, many: false },
+    { pageProperty: "boolean-property/buy-shortfall", required: false, many: false },
   ],
   decisions: [
     {
