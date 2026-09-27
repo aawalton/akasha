@@ -1,1 +1,4 @@
+{"propertySlug":"import","fileName":"temper-attribute.page-type.types.ts","path":"temper/player/character/source/temper-attribute/pages/health.temper-attribute.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-attribute.page-type.types.ts","path":"temper/player/character/source/temper-attribute/pages/magicka.temper-attribute.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-attribute.page-type.types.ts","path":"temper/player/character/source/temper-attribute/pages/stamina.temper-attribute.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/source/temper-character-source.domain.ts","id":"01a060ea-ac66-7120-a995-b58614b651f2"}
