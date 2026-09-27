@@ -6,7 +6,11 @@ export const temperClass = {
   slug: "temper-class",
   definition: "a calling making a character",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["number-property/eso-class-id"],
+  parts: [
+    "number-property/eso-class-id",
+    "change-generator/class-ids-keeping",
+    "data-table/class-ids",
+  ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/eso-class-id", required: true, many: false },

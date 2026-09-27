@@ -162,9 +162,11 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest-writing/eso-sandbox-manifest-writing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/companion/base-role/modules/base-roles-keeping/base-roles-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/skill/line/modules/skill-line-ids-keeping/skill-line-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/skill/temper-class/modules/class-ids-keeping/class-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids-keeping/grimoire-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/skill/temper-script/modules/script-ids-keeping/script-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/world/lorebook/modules/lore-book-writing/lore-book-writing.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/world/temper-race/modules/race-ids-keeping/race-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/world/temper-source-category/modules/source-category-ids-keeping/source-category-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/modules/slug-union-keeping/slug-union-keeping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/player/character/role/modules/role-ids-keeping/role-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}

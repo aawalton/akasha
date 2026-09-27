@@ -1,0 +1,12 @@
+export type RaceId =
+  | "altmer"
+  | "argonian"
+  | "bosmer"
+  | "breton"
+  | "dunmer"
+  | "imperial"
+  | "khajiit"
+  | "no-race"
+  | "nord"
+  | "orc"
+  | "redguard"

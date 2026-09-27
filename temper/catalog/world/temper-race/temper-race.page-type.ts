@@ -10,6 +10,8 @@ export const temperRace = {
     "number-property/eso-race-id",
     "text-property/alt-name",
     "relation-property/racial-skill-line",
+    "change-generator/race-ids-keeping",
+    "data-table/race-ids",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

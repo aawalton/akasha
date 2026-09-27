@@ -5074,6 +5074,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/line/modules/skill-line-ids-keeping/skill-line-ids-keeping.change-generator.ts","id":"01a0df08-262b-73d8-9c3d-0b76baed9088"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.ts","id":"01a0df08-262b-788e-be8c-027acc34f01d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.ts","id":"01a0de72-b25e-78d7-a1ee-d4d009422dd0"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-class/modules/class-ids-keeping/class-ids-keeping.change-generator.ts","id":"01a0e08d-6075-7446-8172-389d3faa1db4"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-class/modules/class-ids/class-ids.data-table.ts","id":"01a0e08d-6075-7d2d-a242-ca61bb1be908"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.ts","id":"01a0d8d6-bfb1-7643-9c74-a5008642408e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids-keeping/grimoire-ids-keeping.change-generator.ts","id":"01a0df09-68eb-7d95-9fb5-69c816d4e3f8"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids/grimoire-ids.data-table.ts","id":"01a0df09-68ec-70e3-b83a-cf2c380da46f"}
@@ -5256,6 +5258,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/modules/public-dungeon-pages/public-dungeon-pages.module.ts","id":"01a0d8a5-1cee-7341-899a-4f34c7fb7a44"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts","id":"01a0d89e-8371-74e9-89b8-8064ba78445b"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/temper-race/modules/race-ids-keeping/race-ids-keeping.change-generator.ts","id":"01a0e08d-6075-7fce-8b3e-5d7804281be8"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/temper-race/modules/race-ids/race-ids.data-table.ts","id":"01a0e08d-6075-779c-a9ce-24a50b5f5bbf"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-source-category/modules/source-category-ids-keeping/source-category-ids-keeping.change-generator.ts","id":"01a0df30-d97d-76c9-9886-a40519ffbd91"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-source-category/modules/source-category-ids/source-category-ids.data-table.ts","id":"01a0df30-d97d-7a1d-ada2-f3d69bd4abf1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}

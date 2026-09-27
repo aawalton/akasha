@@ -1,7 +1,9 @@
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/companion/base-role/modules/base-roles-keeping/base-roles-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/skill/line/modules/skill-line-ids-keeping/skill-line-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/skill/temper-class/modules/class-ids-keeping/class-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids-keeping/grimoire-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/skill/temper-script/modules/script-ids-keeping/script-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/world/temper-race/modules/race-ids-keeping/race-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/catalog/world/temper-source-category/modules/source-category-ids-keeping/source-category-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/modules/slug-union-keeping/slug-union-keeping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"slug-union-keeping.module.code.ts","path":"temper/player/character/role/modules/role-ids-keeping/role-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
