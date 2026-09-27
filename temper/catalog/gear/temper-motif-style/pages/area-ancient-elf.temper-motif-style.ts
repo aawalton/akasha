@@ -4,6 +4,7 @@ export const areaAncientElf = {
   id: "01a0e0f0-2749-71c2-b679-62b65698ede3",
   type: "page-type/temper-motif-style",
   slug: "area-ancient-elf",
-  title: "ITEMSTYLE_AREA_ANCIENT_ELF",
+  title: "Ancient Elf",
   esoItemStyleId: 15,
+  styleName: "Ancient Elf",
 } as const satisfies TemperMotifStyle
