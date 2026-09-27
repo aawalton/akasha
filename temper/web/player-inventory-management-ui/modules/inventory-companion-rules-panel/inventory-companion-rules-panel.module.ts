@@ -6,4 +6,11 @@ export const inventoryCompanionRulesPanel = {
   slug: "inventory-companion-rules-panel",
   definition: "a reader's companion rules panel",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The panel's wording is web phrase pages, and its rule status labels are rule card phrases.",
+    },
+  ],
 } as const satisfies Module

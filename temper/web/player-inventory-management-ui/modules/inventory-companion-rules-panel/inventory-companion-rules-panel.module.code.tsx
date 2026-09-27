@@ -9,9 +9,16 @@ import {
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { ControlledRule } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryCompanionRulesPanelCollapseAll } from "akasha/temper/web/phrase/pages/inventory-companion-rules-panel-collapse-all.temper-web-phrase.ts"
+import { inventoryCompanionRulesPanelExpandAll } from "akasha/temper/web/phrase/pages/inventory-companion-rules-panel-expand-all.temper-web-phrase.ts"
+import { inventoryCompanionRulesPanelNoMatchDescription } from "akasha/temper/web/phrase/pages/inventory-companion-rules-panel-no-match-description.temper-web-phrase.ts"
+import { inventoryCompanionRulesPanelNoMatchTitle } from "akasha/temper/web/phrase/pages/inventory-companion-rules-panel-no-match-title.temper-web-phrase.ts"
+import { inventoryCompanionRulesPanelTitle } from "akasha/temper/web/phrase/pages/inventory-companion-rules-panel-title.temper-web-phrase.ts"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
@@ -19,7 +26,13 @@ import type {
 import type { InventoryRulesHandlers } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
 import { RuleBulkActionBadge } from "akasha/temper/web/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"
 import { RuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card/rule-card.module.code.tsx"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
+import { ruleActive } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-active.temper-rule-card-phrase.ts"
+import { ruleDuplicate } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-duplicate.temper-rule-card-phrase.ts"
+import { ruleInactive } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-inactive.temper-rule-card-phrase.ts"
+import { ruleLocked } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-locked.temper-rule-card-phrase.ts"
+import { ruleUnlocked } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-unlocked.temper-rule-card-phrase.ts"
 import { useCallback, useState } from "react"
 
 const EMPTY_AFFECTED_ITEMS: AffectedItem[] = []
@@ -94,6 +107,8 @@ export function CompanionRulesPanel({
     handleBulkForceSetCategoryInactive,
   } = handlers
 
+  const phrase = usePhrase()
+  const statuses = useRuleCardPhrases()
   const ruleCount = companionRules.length
   const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set())
   const allIds = ruleCount + controlledRules.length
@@ -113,12 +128,12 @@ export function CompanionRulesPanel({
       collapsible
       forceMount
       id="companion-rules"
-      title="Companion Automations"
+      title={phrase(inventoryCompanionRulesPanelTitle.slug)}
       headerSubtitle={
         <CardTitleBadges className="w-full">
           {activeCompanionRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Active"
+              label={titleIn(statuses, ruleActive.key)}
               count={activeCompanionRuleIds.length}
               variant="accent"
               ruleDescriptions={activeDescriptions}
@@ -131,7 +146,7 @@ export function CompanionRulesPanel({
           )}
           {inactiveCompanionRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Inactive"
+              label={titleIn(statuses, ruleInactive.key)}
               count={inactiveCompanionRuleIds.length}
               variant="elevation-muted"
               ruleDescriptions={inactiveDescriptions}
@@ -144,7 +159,7 @@ export function CompanionRulesPanel({
           )}
           {duplicateCompanionRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Duplicate"
+              label={titleIn(statuses, ruleDuplicate.key)}
               count={duplicateCompanionRuleIds.length}
               variant="elevation-muted"
               ruleDescriptions={duplicateDescriptions}
@@ -156,7 +171,7 @@ export function CompanionRulesPanel({
           )}
           {lockedCompanionRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Locked"
+              label={titleIn(statuses, ruleLocked.key)}
               count={lockedCompanionRuleIds.length}
               variant="elevation-muted"
               onShow={() => onRuleLockChange(["locked"])}
@@ -167,7 +182,7 @@ export function CompanionRulesPanel({
           )}
           {unlockedCompanionRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Unlocked"
+              label={titleIn(statuses, ruleUnlocked.key)}
               count={unlockedCompanionRuleIds.length}
               variant="elevation-muted"
               ruleDescriptions={unlockedDescriptions}
@@ -197,7 +212,11 @@ export function CompanionRulesPanel({
                   }
                 }}
               >
-                {allExpanded ? "Collapse All" : "Expand All"}
+                {phrase(
+                  allExpanded
+                    ? inventoryCompanionRulesPanelCollapseAll.slug
+                    : inventoryCompanionRulesPanelExpandAll.slug
+                )}
               </ButtonBadge>
             </div>
           )}
@@ -226,8 +245,10 @@ export function CompanionRulesPanel({
         {filteredCompanionRules.length === 0 && ruleCount > 0 && (
           <Empty>
             <EmptyHeader>
-              <EmptyTitle>No matching rules</EmptyTitle>
-              <EmptyDescription>No companion rules match the current filter.</EmptyDescription>
+              <EmptyTitle>{phrase(inventoryCompanionRulesPanelNoMatchTitle.slug)}</EmptyTitle>
+              <EmptyDescription>
+                {phrase(inventoryCompanionRulesPanelNoMatchDescription.slug)}
+              </EmptyDescription>
             </EmptyHeader>
           </Empty>
         )}
