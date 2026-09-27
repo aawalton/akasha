@@ -6,4 +6,10 @@ export const ruleCardDeleteDialog = {
   slug: "rule-card-delete-dialog",
   definition: "the dialog asking whether a rule goes",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The dialog's title, warning, summary and buttons are rule card phrases.",
+    },
+  ],
 } as const satisfies Module
