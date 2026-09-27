@@ -25,4 +25,5 @@ export const otherwhere00035 = {
     "She looks down at her left arm: still torn, crusted with salt and dried blood, no better at all.",
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall", "place/otherwhere-core-chamber"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
