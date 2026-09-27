@@ -5,6 +5,8 @@ export const ivoryBrigade = {
   type: "page-type/temper-motif-style",
   slug: "ivory-brigade",
   title: "Ivory Brigade",
+  esoItemStyleId: 121,
+  styleName: "Ivory Brigade",
   collectionIndex: 88,
   sourceDescription: "WB dailies (Blackwood)",
   dropSources: [
