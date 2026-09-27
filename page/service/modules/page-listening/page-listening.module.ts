@@ -66,5 +66,14 @@ export const pageListening = {
       decisionKind: "decision-kind/departure",
       statement: "The slug is read off the service's own page rather than spelled here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An answer taking a second or more is logged with its path, time, asker and question.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The thread held two seconds or more is logged with how long and the memory held.",
+    },
   ],
 } as const satisfies Module

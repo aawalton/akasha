@@ -22,6 +22,11 @@ import { pageService } from "akasha/page/service/page-service.service-workstatio
 export const SERVICE_SLUG = pageService.slug
 export const UNBOUND = "unbound"
 export const TRIED_AGAIN_MS = 30_000
+export const SLOW_MS = 1_000
+const LOOKED_MS = 1_000
+export const HELD_MS = 2_000
+const ASKED_CHARS = 400
+const MB = 1024 * 1024
 
 type Writer = ReturnType<typeof writerFor>
 
@@ -32,13 +37,49 @@ export type Listening = {
   readonly following?: Following
 }
 
+export function slowSaid(request: Request, spent: number, asked: string): string {
+  const at = new URL(request.url).pathname
+  const agent = request.headers.get("akasha-agent-id") ?? "no agent"
+  return `slow: ${request.method} ${at} took ${Math.round(spent)} ms for ${agent}: ${asked}\n`
+}
+
+export async function timed(
+  request: Request,
+  answered: (one: Request) => Promise<Response>
+): Promise<Response> {
+  const copy = request.method === "POST" ? request.clone() : null
+  const started = performance.now()
+  const response = await answered(request)
+  const spent = performance.now() - started
+  if (spent < SLOW_MS) return response
+  const asked = copy === null ? "" : await copy.text().catch(() => "")
+  process.stdout.write(slowSaid(request, spent, asked.slice(0, ASKED_CHARS)))
+  return response
+}
+
+function watchingHeld(): undefined {
+  let last = performance.now()
+  setInterval(() => {
+    const now = performance.now()
+    const held = now - last - LOOKED_MS
+    last = now
+    if (held < HELD_MS) return
+    const memory = process.memoryUsage()
+    process.stdout.write(
+      `stalled: the thread was held ${Math.round(held)} ms; ` +
+        `heap ${Math.round(memory.heapUsed / MB)} MB, rss ${Math.round(memory.rss / MB)} MB\n`
+    )
+  }, LOOKED_MS).unref()
+  return undefined
+}
+
 function boundAt(given: Listening, hostname: string, writer: Writer) {
   const { root, port, following } = given
+  const serving = following === undefined ? { root, writer } : { root, writer, following }
   return Bun.serve({
     port,
     hostname,
-    fetch: (request) =>
-      answering(following === undefined ? { root, writer } : { root, writer, following }, request),
+    fetch: (request) => timed(request, (one) => answering(serving, one)),
   })
 }
 
@@ -97,6 +138,7 @@ export function runPageListening(root: string): undefined {
       `no page is slugged ${SERVICE_SLUG} under ${SERVICE_PAGE_TYPE}, or it states no port`
     )
   }
+  watchingHeld()
   const following = followingFor(root)
   const binds = bindsFor(root, SERVICE_SLUG)
   const stated: Listening = { root, port, binds, following }

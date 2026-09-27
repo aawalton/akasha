@@ -12,6 +12,8 @@ import {
   SERVICE_SLUG,
   saying,
   serversFor,
+  slowSaid,
+  timed,
   UNBOUND,
   unboundIn,
 } from "akasha/page/service/modules/page-listening/page-listening.module.code.ts"
@@ -151,3 +153,19 @@ test("a question is answered while another is still being answered", async () =>
     server.stop(true)
   }
 }, 30000)
+
+test("a slow answer is said with its path, its time, its asker and what it asked", () => {
+  const request = new Request("http://localhost/ask", {
+    method: "POST",
+    headers: { "akasha-agent-id": "seat-one" },
+  })
+  expect(slowSaid(request, 1234.4, '{"pageTypeSlug":"module"}')).toBe(
+    'slow: POST /ask took 1234 ms for seat-one: {"pageTypeSlug":"module"}\n'
+  )
+})
+
+test("a timed answer is the answer the question was given", async () => {
+  const request = new Request("http://localhost/ask", { method: "POST", body: "{}" })
+  const answered = await timed(request, async (one) => new Response(await one.text()))
+  expect(await answered.text()).toBe("{}")
+})
