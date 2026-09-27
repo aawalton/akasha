@@ -40,6 +40,10 @@ export const alanWebPageDetail = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The tab icon is named by the root rather than by this route's head.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The reads the loader carried are handed to the page store before it asks for them.",
     },

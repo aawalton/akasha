@@ -22,28 +22,12 @@ import {
 type PageDetailLoaderData = Awaited<ReturnType<typeof pageDetailLoader>>["data"]
 
 function buildPageDetailMeta(
-  loaderData:
-    | {
-        title: string | null
-        faviconIdSuffix: string | null
-        faviconIcon: string
-        covers?: readonly string[]
-      }
-    | undefined,
+  loaderData: { title: string | null; covers?: readonly string[] } | undefined,
   site: string | null
 ): MetaDescriptor[] {
   const title = loaderData?.title ?? site
   const descriptors: MetaDescriptor[] = title === null ? [] : [{ title }]
   if (loaderData == null) return descriptors
-  if (loaderData.faviconIdSuffix != null) {
-    descriptors.push({
-      tagName: "link",
-      rel: "icon",
-      href: `/api/nav-icon/${loaderData.faviconIdSuffix}?icon=${encodeURIComponent(loaderData.faviconIcon)}`,
-      type: "image/svg+xml",
-      sizes: "any",
-    })
-  }
   for (const href of loaderData.covers ?? []) {
     descriptors.push({ tagName: "link", rel: "preload", as: "image", href })
   }
