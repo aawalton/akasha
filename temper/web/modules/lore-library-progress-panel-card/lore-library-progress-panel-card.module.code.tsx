@@ -2,6 +2,7 @@ import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/r
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type {
   CharacterLoreLibraryProgress,
   CompletionCharacter,
@@ -45,6 +46,7 @@ export function LoreLibraryProgressPanelCard({
 
   const charNames = new Map(characters.map((c) => [c.id, c.name]))
   const filterNode = createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])
+  const title = completionCardTitle("characters", "lore-library-character")
 
   if (isAggregate && selectedProgress.length > 1) {
     const template = requireFirst(selectedProgress)
@@ -114,7 +116,7 @@ export function LoreLibraryProgressPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Lore Library"
+        title={title}
         items={withActivityCategories(items, "exploration")}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -147,7 +149,7 @@ export function LoreLibraryProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Lore Library"
+      title={title}
       items={withActivityCategories(items, "exploration")}
       filterNode={filterNode}
       sortMode={sortMode}

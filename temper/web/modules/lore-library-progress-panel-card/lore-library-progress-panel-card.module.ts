@@ -5,5 +5,12 @@ export const loreLibraryProgressPanelCard = {
   type: "page-type/module",
   slug: "lore-library-progress-panel-card",
   definition: "the lore books each selected character has collected",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The card's title is read from the character lore library's completion category page.",
+    },
+  ],
   code: "tsx",
 } as const satisfies Module
