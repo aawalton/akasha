@@ -7,6 +7,7 @@ export const temperTargetScope = {
   definition: "the shape of ground an ability covers",
   extends: ["page-type/temper-catalog-thing"],
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
+  parts: ["change-generator/target-scope-ids-keeping", "data-table/target-scope-ids"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
