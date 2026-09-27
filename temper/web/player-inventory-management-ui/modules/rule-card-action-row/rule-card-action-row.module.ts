@@ -20,5 +20,9 @@ export const ruleCardActionRow = {
       decisionKind: "decision-kind/departure",
       statement: "The destination toggle's aria-label is a rule card phrase.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The mail recipient's placeholder and aria-label are rule card phrases.",
+    },
   ],
 } as const satisfies Module

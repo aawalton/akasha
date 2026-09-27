@@ -41,6 +41,8 @@ import { RuleCardDestinationChain } from "akasha/temper/web/player-inventory-man
 import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import { StockScopeSelect } from "akasha/temper/web/player-inventory-management-ui/modules/stock-scope-select/stock-scope-select.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
+import { mailRecipientLabel } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/mail-recipient-label.temper-rule-card-phrase.ts"
+import { mailRecipientPlaceholder } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/mail-recipient-placeholder.temper-rule-card-phrase.ts"
 import { ChevronRight } from "lucide-react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
@@ -247,6 +249,7 @@ function MailRecipientInput({
   destination: MoveToDestination | undefined
   onChange: (handle: string) => void
 }) {
+  const phrases = useRuleCardPhrases()
   const handle = destination?.startsWith("mail:") ? destination.slice(5) : ""
 
   return (
@@ -258,14 +261,14 @@ function MailRecipientInput({
         </InputGroupAddon>
         <InputGroupInput
           type="text"
-          placeholder="PlayerName"
+          placeholder={titleIn(phrases, mailRecipientPlaceholder.key)}
           value={handle}
           onChange={(e) => {
             const raw = e.target.value.replace(/^@+/, "")
             onChange(raw)
           }}
           className="h-7 px-1 text-xs"
-          aria-label="Recipient account handle"
+          aria-label={titleIn(phrases, mailRecipientLabel.key)}
         />
       </InputGroup>
     </div>
