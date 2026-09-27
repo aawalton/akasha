@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"iterate.module.code.ts","path":"page/ui/component/modules/use-descendant-pages/use-descendant-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"iterate.module.code.ts","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"iterate.module.code.ts","path":"product/kofi/feature-request/modules/serving/feature-request-serving.module.test.ts","typed":false,"deferred":true}
+{"propertySlug":"import","fileName":"iterate.module.code.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-placing/inventory-browser-category-placing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"iterate.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"iterate.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"iterate.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts","typed":false,"deferred":false}

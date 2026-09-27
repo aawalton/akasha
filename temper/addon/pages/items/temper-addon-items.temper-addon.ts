@@ -68,6 +68,7 @@ export const temperAddonItems = {
     "module/inventory-browser",
     "module/inventory-browser-categories",
     "module/inventory-browser-category-defs",
+    "module/inventory-browser-category-placing",
     "module/inventory-browser-data",
     "module/inventory-browser-filter",
     "module/inventory-browser-filterbar",
