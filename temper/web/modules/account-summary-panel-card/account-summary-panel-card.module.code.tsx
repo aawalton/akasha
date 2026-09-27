@@ -1,6 +1,8 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { CUMULATIVE_ACCOUNT_CARDS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cumulative-cards/completion-cumulative-cards.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { accountSummaryPanelCardTitle } from "akasha/temper/web/phrase/pages/account-summary-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -26,6 +28,7 @@ export function AccountSummaryPanelCard({
   onItemClick,
   collapseProtected,
 }: AccountSummaryPanelCardProps) {
+  const phrase = usePhrase()
   const hasData = Object.values(summary).some((entry) => entry.total > 0)
   if (!hasData) return null
 
@@ -38,7 +41,7 @@ export function AccountSummaryPanelCard({
 
   return (
     <CompletionPanelCard
-      title="Account Summary"
+      title={phrase(accountSummaryPanelCardTitle.slug)}
       items={items}
       filterNode={createNodeFilter(completionFilter ?? [], undefined)}
       sortMode={sortMode}

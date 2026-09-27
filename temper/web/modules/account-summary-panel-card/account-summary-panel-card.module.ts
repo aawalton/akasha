@@ -6,4 +6,10 @@ export const accountSummaryPanelCard = {
   slug: "account-summary-panel-card",
   definition: "each account-wide card as one row of count against total",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
