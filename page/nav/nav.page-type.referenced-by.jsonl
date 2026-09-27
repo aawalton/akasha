@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/design-system.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/games.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/grafana.nav.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/images.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/innworld-aspects.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/innworld-boons.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/innworld-carried-memories.nav.ts","typed":true,"deferred":false}
