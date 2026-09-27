@@ -34,7 +34,7 @@ export const relationPicker = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page with no title is named by its slug.",
+      statement: "A picked page is named as its page's header names it.",
     },
     {
       decisionKind: "decision-kind/departure",

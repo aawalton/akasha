@@ -1,6 +1,7 @@
 "use client"
 
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
+import { pageName } from "akasha/page/core/modules/page-name/page-name.module.code.ts"
 import {
   type PageTypeForInheritance,
   pageTypeChain,
@@ -120,7 +121,7 @@ export function pickedFrom(answers: readonly Answered[]): Picked {
       const id = textIn(row.values[ID])
       if (id === null || seen.has(id)) continue
       seen.add(id)
-      pages.push({ id, title: textIn(row.values[TITLE]) ?? textIn(row.values[SLUG]) ?? id })
+      pages.push({ id, title: pageName(row.values) })
     }
   }
   return { pages, more }

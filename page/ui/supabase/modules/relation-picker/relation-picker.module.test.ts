@@ -52,7 +52,7 @@ test("no search asks once for the first pages of the type", () => {
   expect(asked[0]?.limit).toBe(PICKED_AT_ONCE)
 })
 
-test("a page is named by its title, else by its slug", () => {
+test("a page is named by its title, else by its slug as the page header names it", () => {
   const picked = pickedFrom([
     {
       rows: [
@@ -64,7 +64,7 @@ test("a page is named by its title, else by its slug", () => {
   ])
   expect(picked.pages).toEqual([
     { id: "1", title: "Definer" },
-    { id: "2", title: "worker" },
+    { id: "2", title: "Worker" },
   ])
   expect(picked.more).toBe(false)
 })
