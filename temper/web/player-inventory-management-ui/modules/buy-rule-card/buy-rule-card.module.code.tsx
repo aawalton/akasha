@@ -25,7 +25,9 @@ import {
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import { RuleNotesDialog } from "akasha/temper/web/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"
 import { EllipsisVertical, Info, ShoppingCart } from "lucide-react"
 import { memo, useEffect, useState } from "react"
@@ -48,7 +50,9 @@ const SOURCE_LABEL = "Merchant"
 export const BuyRuleCard = memo(
   ({ rule, onUpdate, onRemove, onDuplicate, onLock }: BuyRuleCardProps) => {
     const surface = useSurface()
+    const phrases = useRuleCardPhrases()
     const isActive = rule.active === true
+    const activeTitle = titleIn(phrases, isActive ? "rule-active" : "rule-inactive")
     const [optimisticLocked, setOptimisticLocked] = useState(rule.locked === true)
     useEffect(() => {
       setOptimisticLocked(rule.locked === true)
@@ -130,7 +134,7 @@ export const BuyRuleCard = memo(
                 <div className="flex flex-wrap items-center gap-1.5">
                   {isLocked ? (
                     <Badge variant={isActive ? "accent" : "elevation-muted"} className="shrink-0">
-                      {isActive ? "Active" : "Inactive"}
+                      {activeTitle}
                     </Badge>
                   ) : (
                     <ButtonBadge
@@ -138,7 +142,7 @@ export const BuyRuleCard = memo(
                       className="shrink-0"
                       onClick={() => onUpdate(rule.id, { active: !isActive })}
                     >
-                      {isActive ? "Active" : "Inactive"}
+                      {activeTitle}
                     </ButtonBadge>
                   )}
                   <ButtonBadge
@@ -149,7 +153,7 @@ export const BuyRuleCard = memo(
                       onLock(rule.id, !isLocked)
                     }}
                   >
-                    {isLocked ? "Locked" : "Unlocked"}
+                    {titleIn(phrases, isLocked ? "rule-locked" : "rule-unlocked")}
                   </ButtonBadge>
                   {}
                   <Badge variant="elevation-muted" className="shrink-0">

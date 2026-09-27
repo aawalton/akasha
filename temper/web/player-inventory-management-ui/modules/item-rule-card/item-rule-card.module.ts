@@ -19,5 +19,9 @@ export const itemRuleCard = {
       decisionKind: "decision-kind/departure",
       statement: "The destination toggle's aria-label is a rule card phrase.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The active and lock toggles are worded by rule card phrases.",
+    },
   ],
 } as const satisfies Module

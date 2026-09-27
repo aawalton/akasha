@@ -6,4 +6,10 @@ export const buyRuleCard = {
   slug: "buy-rule-card",
   definition: "the card for editing a buy rule",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The active and lock toggles are worded by rule card phrases.",
+    },
+  ],
 } as const satisfies Module

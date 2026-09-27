@@ -11,6 +11,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { ControlledRule } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import {
   goalIdToValue,
@@ -18,6 +19,7 @@ import {
   inventoryRuleGoals,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 
 interface RuleCardPriorityRowProps {
   rule: CategoryRule
@@ -58,6 +60,9 @@ export function RuleCardPriorityRow({
   onToggleLock,
   openAffectedDialog,
 }: RuleCardPriorityRowProps) {
+  const phrases = useRuleCardPhrases()
+  const activeTitle = titleIn(phrases, isActive ? "rule-active" : "rule-inactive")
+
   return (
     <div className="flex items-center gap-1.5">
       {isControlled ? (
@@ -111,7 +116,9 @@ export function RuleCardPriorityRow({
       {isControlled && controlled ? (
         <>
           <Badge variant="accent" className="shrink-0 cursor-pointer" asChild>
-            <LayoutLink href={controlled.settingsPath}>Active</LayoutLink>
+            <LayoutLink href={controlled.settingsPath}>
+              {titleIn(phrases, "rule-active")}
+            </LayoutLink>
           </Badge>
           <Badge variant="elevation-muted" className="shrink-0 cursor-pointer" asChild>
             <LayoutLink href={controlled.settingsPath}>Controlled</LayoutLink>
@@ -123,7 +130,7 @@ export function RuleCardPriorityRow({
         </Badge>
       ) : isLocked ? (
         <Badge variant={isActive ? "accent" : "elevation-muted"} className="shrink-0">
-          {isActive ? "Active" : "Inactive"}
+          {activeTitle}
         </Badge>
       ) : (
         <ButtonBadge
@@ -131,12 +138,12 @@ export function RuleCardPriorityRow({
           className="shrink-0"
           onClick={() => onUpdate?.(rule.id, { active: !isActive })}
         >
-          {isActive ? "Active" : "Inactive"}
+          {activeTitle}
         </ButtonBadge>
       )}
       {!isControlled && (
         <ButtonBadge variant="elevation-muted" className="shrink-0" onClick={onToggleLock}>
-          {isLocked ? "Locked" : "Unlocked"}
+          {titleIn(phrases, isLocked ? "rule-locked" : "rule-unlocked")}
         </ButtonBadge>
       )}
       {hasAffectedItems &&

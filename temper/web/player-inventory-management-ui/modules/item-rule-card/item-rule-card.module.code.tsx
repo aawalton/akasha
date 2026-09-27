@@ -107,7 +107,7 @@ export const ItemRuleCard = memo(
                   <div className="flex flex-wrap items-center gap-1.5">
                     {isLocked ? (
                       <Badge variant={isActive ? "accent" : "elevation-muted"} className="shrink-0">
-                        {isActive ? "Active" : "Inactive"}
+                        {titleIn(phrases, isActive ? "rule-active" : "rule-inactive")}
                       </Badge>
                     ) : (
                       <ButtonBadge
@@ -115,7 +115,7 @@ export const ItemRuleCard = memo(
                         className="shrink-0"
                         onClick={() => onUpdate(rule.id, { active: !isActive })}
                       >
-                        {isActive ? "Active" : "Inactive"}
+                        {titleIn(phrases, isActive ? "rule-active" : "rule-inactive")}
                       </ButtonBadge>
                     )}
                     <ButtonBadge
@@ -126,7 +126,7 @@ export const ItemRuleCard = memo(
                         onLock(rule.id, !isLocked)
                       }}
                     >
-                      {isLocked ? "Locked" : "Unlocked"}
+                      {titleIn(phrases, isLocked ? "rule-locked" : "rule-unlocked")}
                     </ButtonBadge>
                     <Select value={displayAction} onValueChange={handleActionChange}>
                       <SelectTrigger hideChevron>

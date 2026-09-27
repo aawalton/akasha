@@ -6,4 +6,10 @@ export const ruleCardPriorityRow = {
   slug: "rule-card-priority-row",
   definition: "the row where a rule's priority is set",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The active and lock toggles are worded by rule card phrases.",
+    },
+  ],
 } as const satisfies Module
