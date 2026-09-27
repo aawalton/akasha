@@ -21,7 +21,11 @@ export const temperItemType = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A sort of item no filter offers has no page.",
+      statement: "A sort of item no filter or item browser category offers has no page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sort of item a filter never offered is titled as the game names it.",
     },
   ],
   types: "ts",
