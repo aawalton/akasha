@@ -4,7 +4,7 @@ export const houseRedoran = {
   id: "019e5a46-c3f6-7716-962c-64961ebca441",
   type: "page-type/temper-motif-style",
   slug: "house-redoran",
-  title: "House Redoran",
+  title: "Redoran",
   esoItemStyleId: 48,
   styleName: "Redoran",
   collectionIndex: 38,
