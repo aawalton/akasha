@@ -17,6 +17,10 @@ export const searchPotionEffectsFilter = {
       statement: "The three restore effects are offered rather than the full potion effect list.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each effect is offered under the slug and title of its stat page.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here narrows the server request.",
     },
