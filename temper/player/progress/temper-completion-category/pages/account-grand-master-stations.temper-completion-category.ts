@@ -9,4 +9,5 @@ export const accountGrandMasterStations = {
   tab: "account",
   displayOrder: 7,
   parent: "temper-completion-category/account",
+  completionMost: 332,
 } as const satisfies TemperCompletionCategory

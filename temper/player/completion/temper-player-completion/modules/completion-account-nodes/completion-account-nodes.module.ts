@@ -16,5 +16,10 @@ export const completionAccountNodes = {
       decisionKind: "decision-kind/departure",
       statement: "An account checker counts from the same nodes the panel draws.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each craft's station share is the category's page cap split over the four crafts.",
+    },
   ],
 } as const satisfies Module

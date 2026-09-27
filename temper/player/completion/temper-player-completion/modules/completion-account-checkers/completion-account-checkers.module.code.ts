@@ -111,7 +111,7 @@ const subclassingSkillMorphNodes = remembered((completion) =>
 )
 
 const grandMasterNodes = remembered((completion) =>
-  grandMasterStationNodes(completion?.grandMasterStations)
+  grandMasterStationNodes(completion?.grandMasterStations, completionMost("grand-master-stations"))
 )
 
 export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<

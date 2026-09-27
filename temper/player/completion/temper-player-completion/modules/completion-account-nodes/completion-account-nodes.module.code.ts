@@ -1,4 +1,3 @@
-import { TOTAL_GRAND_MASTER_STATIONS } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type {
   AccountRecipeUnionProgress,
   AccountScribingUnionProgress,
@@ -152,14 +151,16 @@ export function accountTributeNodes(
 const GRAND_MASTER_FALLBACK_LABELS = ["Blacksmithing", "Clothier", "Jewelrycrafting", "Woodworking"]
 
 export function grandMasterStationNodes(
-  stations: Record<number, { name: string; unlocked: number[] }> | undefined
+  stations: Record<number, { name: string; unlocked: number[] }> | undefined,
+  most: number
 ): readonly ProgressLeaf[] {
+  const eachCraft = most / GRAND_MASTER_FALLBACK_LABELS.length
   if (stations === undefined || Object.keys(stations).length === 0) {
     return GRAND_MASTER_FALLBACK_LABELS.map((label) => ({
       key: label,
       label,
       count: 0,
-      total: TOTAL_GRAND_MASTER_STATIONS,
+      total: eachCraft,
     }))
   }
   return Object.entries(stations)
@@ -167,7 +168,7 @@ export function grandMasterStationNodes(
       key,
       label: entry.name,
       count: entry.unlocked.length,
-      total: TOTAL_GRAND_MASTER_STATIONS,
+      total: eachCraft,
     }))
     .sort((a, b) => a.label.localeCompare(b.label))
 }

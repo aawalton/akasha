@@ -3,6 +3,10 @@ import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-
 import { grandMasterStationNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
+  completionCardTitle,
+  completionMost,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
+import {
   type CompletionFilter,
   CompletionPanelCard,
   type CompletionSortMode,
@@ -30,8 +34,11 @@ export function GrandMasterStationsPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Grand Master Crafting Stations"
-      items={withActivityCategories(grandMasterStationNodes(grandMasterStations), "crafting")}
+      title={completionCardTitle("account", "grand-master-stations")}
+      items={withActivityCategories(
+        grandMasterStationNodes(grandMasterStations, completionMost("grand-master-stations")),
+        "crafting"
+      )}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
       sortDirection={sortDirection}

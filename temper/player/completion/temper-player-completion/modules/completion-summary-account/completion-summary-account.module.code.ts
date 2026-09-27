@@ -1,4 +1,3 @@
-import { TOTAL_GRAND_MASTER_STATIONS } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type {
   AccountRecipeUnionProgress,
   AccountScribingUnionProgress,
@@ -89,7 +88,7 @@ export function buildAccountSummary(
       count: grandMasterStations
         ? Object.values(grandMasterStations).reduce((sum, entry) => sum + entry.unlocked.length, 0)
         : 0,
-      total: TOTAL_GRAND_MASTER_STATIONS * 4,
+      total: completionMost("grand-master-stations"),
     },
     "item-sets": {
       count: itemSetProgress.slotsUnlocked,

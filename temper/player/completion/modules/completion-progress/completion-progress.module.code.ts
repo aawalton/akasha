@@ -26,8 +26,6 @@ export function emptySkillPointProgress(): SkillPointProgress {
   }
 }
 
-export const TOTAL_GRAND_MASTER_STATIONS = 83
-
 export function unlockedCollectibleIds(
   completion: AccountCompletion | null | undefined
 ): Set<number> {
