@@ -31,6 +31,7 @@ const STUB_ENV: EvalEnv = {
   getKnownChapterCountForStyle: () => "unknown",
   getSetCategory: () => "unknown",
   getTraitOfEso: () => "unknown",
+  isCompanionTrait: () => "unknown",
 }
 
 export function ctxWith(overrides: Partial<EvalEnv>): EvalContext {

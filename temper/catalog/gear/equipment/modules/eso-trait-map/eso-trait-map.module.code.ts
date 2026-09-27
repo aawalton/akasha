@@ -6,6 +6,7 @@ import {
 import {
   type EsoTraitLookups,
   esoTraitToTemperId,
+  isCompanionTraitNumber,
 } from "akasha/temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"
 
 const HELD_LOOKUPS: EsoTraitLookups = {
@@ -16,4 +17,8 @@ const HELD_LOOKUPS: EsoTraitLookups = {
 
 export function heldTraitOfEso(esoTraitType: number, equipType?: number): string | undefined {
   return esoTraitToTemperId(HELD_LOOKUPS, esoTraitType, equipType)
+}
+
+export function heldIsCompanionTrait(esoTraitType: number): boolean {
+  return isCompanionTraitNumber(companionTraitOfEso, esoTraitType)
 }

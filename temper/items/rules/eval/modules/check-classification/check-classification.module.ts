@@ -13,7 +13,7 @@ export const checkClassification = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Companion equippability is decided by a trait type in the range 34 through 60.",
+      statement: "An item is companion equippable when its trait number is a companion trait's.",
     },
     {
       decisionKind: "decision-kind/departure",

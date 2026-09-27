@@ -8,6 +8,15 @@ export type EsoTraitLookups = {
   readonly isJewelry: (equipType: number) => boolean
 }
 
+const FAMILIES: readonly GearFamily[] = ["weapon", "armor", "jewelry"]
+
+export function isCompanionTraitNumber(companion: TraitOfEso, esoTraitType: number): boolean {
+  for (const family of FAMILIES) {
+    if (companion(family, esoTraitType) !== undefined) return true
+  }
+  return false
+}
+
 export function esoTraitToTemperId(
   lookups: EsoTraitLookups,
   esoTraitType: number,

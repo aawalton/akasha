@@ -43,7 +43,14 @@ export function checkClassification(
         missingSignal: "traitType",
       }
     }
-    const isCompanionEquippable = facts.traitType >= 34 && facts.traitType <= 60
+    const isCompanionEquippable = ctx.env.isCompanionTrait(facts.traitType)
+    if (isCompanionEquippable === "unknown") {
+      return {
+        kind: "indeterminate",
+        conditionKind: "canCompanionEquip",
+        missingSignal: "traitId",
+      }
+    }
     if (rule.canCompanionEquip === "can-companion-equip" && !isCompanionEquippable) {
       return { kind: "fail", conditionKind: "canCompanionEquip" }
     }

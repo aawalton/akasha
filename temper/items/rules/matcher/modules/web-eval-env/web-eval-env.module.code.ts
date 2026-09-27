@@ -1,5 +1,8 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
-import { heldTraitOfEso } from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
+import {
+  heldIsCompanionTrait,
+  heldTraitOfEso,
+} from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import { findCooldownGroup } from "akasha/temper/items/core/modules/cooldown-groups/cooldown-groups.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/items/core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
@@ -202,6 +205,7 @@ export function buildWebEvalEnv(
     },
     getSetCategory: setCategoryOfEsoSet,
     getTraitOfEso: heldTraitOfEso,
+    isCompanionTrait: heldIsCompanionTrait,
   }
 }
 
@@ -233,6 +237,7 @@ const UNKNOWN_ENV: EvalEnv = {
   getKnownChapterCountForStyle: () => "unknown",
   getSetCategory: setCategoryOfEsoSet,
   getTraitOfEso: heldTraitOfEso,
+  isCompanionTrait: heldIsCompanionTrait,
 }
 
 export function buildItemIdToCooldownGroup(

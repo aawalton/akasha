@@ -16,6 +16,7 @@ import type { TemperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon
 import {
   esoTraitToTemperId,
   type GearFamily,
+  isCompanionTraitNumber,
 } from "akasha/temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"
 
 type ByKey = { [key: string]: string | undefined }
@@ -125,6 +126,10 @@ export function addonTraitOfEso(esoTraitType: number, equipType?: number): strin
     esoTraitType,
     equipType
   )
+}
+
+export function addonIsCompanionTrait(esoTraitType: number): boolean {
+  return isCompanionTraitNumber(addonCompanionTraitOfEso, esoTraitType)
 }
 
 export function addonTraitEsoNumbers(traitId: string): readonly number[] {

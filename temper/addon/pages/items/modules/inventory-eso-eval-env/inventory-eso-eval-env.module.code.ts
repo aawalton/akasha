@@ -18,7 +18,10 @@ import { setCategoryOf } from "akasha/temper/addon/pages/items/modules/inventory
 import { buildGetCharacterSkillLineRanks } from "akasha/temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"
 import { canCharacterLevelMorphs } from "akasha/temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import { addonTraitOfEso } from "akasha/temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts"
+import {
+  addonIsCompanionTrait,
+  addonTraitOfEso,
+} from "akasha/temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
 import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
@@ -305,5 +308,6 @@ export function buildEsoEvalEnv(): EvalEnv {
     },
     getSetCategory: (esoSetId) => setCategoryOf(esoSetId),
     getTraitOfEso: (esoTraitType, equipType) => addonTraitOfEso(esoTraitType, equipType),
+    isCompanionTrait: (esoTraitType) => addonIsCompanionTrait(esoTraitType),
   }
 }

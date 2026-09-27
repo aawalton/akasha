@@ -17,6 +17,10 @@ export const esoTraitReverseMap = {
       statement: "A player trait map is read before a companion trait map.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion trait number is one a companion trait map has, for any gear family.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here answers for an ESO trait number no map has.",
     },

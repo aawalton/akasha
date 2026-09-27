@@ -82,6 +82,8 @@ export interface EvalEnv {
     esoTraitType: number,
     equipType: number | undefined
   ) => LookupResult<string | undefined>
+
+  readonly isCompanionTrait: (esoTraitType: number) => LookupResult<boolean>
 }
 
 export interface WantedEquipmentFacts {
