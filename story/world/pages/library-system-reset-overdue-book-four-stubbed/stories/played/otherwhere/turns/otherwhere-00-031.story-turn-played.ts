@@ -4,10 +4,20 @@ export const otherwhere00031 = {
   id: "01a0e51c-b07a-74c8-b5b4-7d4b3fbdd0ba",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-031",
+  ownLength: 136,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 31,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-alan",
+    "character-other/otherwhere-links",
+    "character-other/otherwhere-engorged-bookworm-03",
+    "character-other/otherwhere-engorged-bookworm-04",
+    "character-other/otherwhere-engorged-bookworm-05",
+    "character-other/otherwhere-engorged-bookworm-06",
+  ],
+  turnStatus: "turn-status/reviewers",
   action:
     "“Okay, Links. The small ones are done but we’re out of salt. How do we deal with the big one?”",
   beats: [
