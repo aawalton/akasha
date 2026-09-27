@@ -6,4 +6,11 @@ export const useRuleMatcherContext = {
   slug: "use-rule-matcher-context",
   definition: "what the rules are matched against for a player",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The builds are read again whenever the skill, set or companion catalogue is read again.",
+    },
+  ],
 } as const satisfies Module
