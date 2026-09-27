@@ -55,6 +55,7 @@
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-submitted-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"persona/properties/last-messaged-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"product/kofi/contributor/properties/contribution-point-at.instant-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/played/turns/properties/turn-ends-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/marked-read-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"story/world/stories/read/chapters/properties/removed-at.instant-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"instant-property.page-type.types.ts","path":"temper/catalog/world/properties/captured-at.instant-property.ts","typed":true,"deferred":false}

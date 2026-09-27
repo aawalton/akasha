@@ -21,6 +21,7 @@ export const storyTurnPlayed = {
     "multi-relation-property/turn-lore",
     "multi-relation-property/turn-recorded-by",
     "multi-relation-property/turn-reviewed-by",
+    "instant-property/turn-ends-at",
   ],
   properties: [
     { pageProperty: "file-property/outcomes", required: false, many: false, default: "jsonl" },
@@ -52,6 +53,7 @@ export const storyTurnPlayed = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "instant-property/turn-ends-at", required: false, many: false },
   ],
   decisions: [
     {
