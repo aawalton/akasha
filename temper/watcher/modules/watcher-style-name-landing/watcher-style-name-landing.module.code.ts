@@ -13,15 +13,21 @@ const STYLE_ID = "esoItemStyleId"
 
 const STYLE_NAME = "styleName"
 
+const TITLE = "title"
+
+const CONSTANT_TITLE = /^ITEMSTYLE_[A-Z0-9_]+$/
+
 export interface StylePage {
   readonly id: string
   readonly styleId: number
   readonly styleName: string | undefined
+  readonly title: string | null
 }
 
 export interface StyleNameWrite {
   readonly id: string
   readonly styleName: string
+  readonly title?: string
 }
 
 export function styleNamesIn(content: string): ReadonlyMap<number, string> {
@@ -52,8 +58,10 @@ export function styleNameWrites(
   for (const page of pages) {
     paged.add(page.styleId)
     const name = names.get(page.styleId)
-    if (name === undefined || name === page.styleName) continue
-    writes.push({ id: page.id, styleName: name })
+    if (name === undefined) continue
+    const retitled = page.title !== null && CONSTANT_TITLE.test(page.title)
+    if (name === page.styleName && !retitled) continue
+    writes.push({ id: page.id, styleName: name, ...(retitled ? { title: name } : {}) })
   }
   const unpaged = [...names.keys()]
     .filter((styleId) => !paged.has(styleId))
@@ -68,7 +76,12 @@ async function stylePagesOverPages(): Promise<readonly StylePage[]> {
     if (typeof styleId !== "number") return []
     const styleName = row[STYLE_NAME]
     return [
-      { id: row.id, styleId, styleName: typeof styleName === "string" ? styleName : undefined },
+      {
+        id: row.id,
+        styleId,
+        styleName: typeof styleName === "string" ? styleName : undefined,
+        title: row.title,
+      },
     ]
   })
 }
@@ -77,7 +90,10 @@ async function nameOverPages(write: StyleNameWrite): Promise<unknown> {
   return patchPageById({
     pageTypeSlug: temperMotifStyle.slug,
     id: write.id,
-    set: { [STYLE_NAME]: write.styleName },
+    set: {
+      [STYLE_NAME]: write.styleName,
+      ...(write.title === undefined ? {} : { [TITLE]: write.title }),
+    },
   })
 }
 
@@ -98,8 +114,9 @@ export async function landStyleNames(
   const report = deps.report ?? log
   const { writes, unpaged } = styleNameWrites(names, await stylePages())
   for (const write of writes) await name(write)
+  const unpagedNames = unpaged.map((styleId) => `${styleId} ${names.get(styleId) ?? ""}`)
   report(
-    `${writes.length} motif style page(s) given the name the game shows; ${unpaged.length} captured style number(s) no page states${unpaged.length === 0 ? "" : `: ${unpaged.join(", ")}`}`
+    `${writes.length} motif style page(s) given the name the game shows; ${unpaged.length} captured style number(s) no page states${unpaged.length === 0 ? "" : `: ${unpagedNames.join(", ")}`}`
   )
   return { named: writes.length, unpaged }
 }

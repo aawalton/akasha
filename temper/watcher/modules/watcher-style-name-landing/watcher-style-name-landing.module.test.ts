@@ -35,10 +35,25 @@ const THREE_STYLES = captureOf(`["itemStyleCatalog"] =
                 },`)
 
 const PAGES: readonly StylePage[] = [
-  { id: "hour", styleId: 16, styleName: undefined },
-  { id: "barbaric", styleId: 17, styleName: "Barbaric" },
-  { id: "breton", styleId: 1, styleName: undefined },
+  { id: "hour", styleId: 16, styleName: undefined, title: "Order of the Hour" },
+  { id: "barbaric", styleId: 17, styleName: "Barbaric", title: "Barbaric" },
+  { id: "breton", styleId: 1, styleName: undefined, title: "ITEMSTYLE_RACIAL_BRETON" },
 ]
+
+test("a page still titled with its constant is retitled with the captured name", () => {
+  const names = new Map([
+    [17, "Barbaric"],
+    [120, "Ascendant Order"],
+  ])
+  const pages: readonly StylePage[] = [
+    { id: "reach", styleId: 17, styleName: "Barbaric", title: "ITEMSTYLE_AREA_REACH" },
+    { id: "ascendant", styleId: 120, styleName: undefined, title: "Ascendant Order Motif" },
+  ]
+  expect(styleNameWrites(names, pages).writes).toEqual([
+    { id: "reach", styleName: "Barbaric", title: "Barbaric" },
+    { id: "ascendant", styleName: "Ascendant Order" },
+  ])
+})
 
 test("each style number the capture names is read with the name the game gave it", () => {
   expect([...styleNamesIn(THREE_STYLES)]).toEqual([

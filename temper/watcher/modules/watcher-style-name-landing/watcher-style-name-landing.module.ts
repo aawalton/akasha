@@ -23,7 +23,17 @@ export const watcherStyleNameLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A captured style number no page states is reported rather than given a page.",
+      statement:
+        "A page still titled with its `ITEMSTYLE_` constant takes the captured name as its title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page titled otherwise keeps its title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A captured style number no page states is reported with its name rather than given a page.",
     },
     {
       decisionKind: "decision-kind/absence",
