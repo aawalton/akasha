@@ -51,7 +51,7 @@ interface ParametricMapDialog extends ZO_DialogData {
   }
 }
 
-export const EDITOR_SCENE = "TemperWorldMarkerEditorScene"
+const EDITOR_SCENE = "TemperWorldMarkerEditorScene"
 const MAP_SELECT_DIALOG = "TemperWorldMarkerEditorMapSelect"
 
 const scene = ZO_InteractScene.New(EDITOR_SCENE, SCENE_MANAGER, {
@@ -96,7 +96,7 @@ registerDialog(MAP_SELECT_DIALOG, {
   ],
 })
 
-export function showEditorMapSelect(this: void): undefined {
+function showEditorMapSelect(this: void): undefined {
   ZO_Dialogs_ShowPlatformDialog(MAP_SELECT_DIALOG)
   return undefined
 }

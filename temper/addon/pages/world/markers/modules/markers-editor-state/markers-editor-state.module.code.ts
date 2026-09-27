@@ -19,7 +19,7 @@ export interface EditorTiles extends ZoWorldMapTilesManager {
   totalTiles?: number
 }
 
-export interface EditorState {
+interface EditorState {
   scene?: Scene
   frame?: BackdropControl
   image?: EditorImage
