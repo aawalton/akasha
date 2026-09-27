@@ -5,3 +5,4 @@
 {"propertySlug":"import","fileName":"story-written.page-type.types.ts","path":"story/world/pages/the-beholder/stories/written/the-beholder/the-beholder.story-written.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"story-written.page-type.types.ts","path":"story/world/pages/tower-of-nimue/stories/written/tower-of-nimue/tower-of-nimue.story-written.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
+{"propertySlug":"view-page-type","path":"page/view/pages/stories-written.view.ts","id":"01a0e4a3-d9bb-7aae-9b58-d54bbc864314"}
