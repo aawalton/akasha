@@ -64,6 +64,18 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Since the sync, the bookworms' feeding costs the Library 1 power for each day they are left.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The bookworm guide holds no power; an hour's reading teaches their habits, bite and salt.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Library's first task for its Librarian is to clear the engorged bookworms from the hall.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
