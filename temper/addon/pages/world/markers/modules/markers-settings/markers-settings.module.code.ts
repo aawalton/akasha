@@ -18,7 +18,7 @@ import {
 import { BUILT_IN_TEXTURES } from "akasha/temper/addon/pages/world/markers/modules/markers-textures/markers-textures.module.code.ts"
 import "akasha/temper/addon/type/temper-addon-menu-global/temper-addon-menu-global.type-declaration.d.ts"
 
-export const SETTINGS_PANEL = "TemperWorldMarkersSettingsPanel"
+const SETTINGS_PANEL = "TemperWorldMarkersSettingsPanel"
 
 const IMPORT_HINT =
   "Insert either a More Markers Profile String here, or insert an Elm's Markers or Akamatsu's Marker Import String to automatically convert it."

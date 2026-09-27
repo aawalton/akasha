@@ -37,7 +37,7 @@ function storedString(this: void, zone: number, profileName: string): string | u
   return pieces === undefined ? undefined : table.concat(pieces, "")
 }
 
-export function loadZone(this: void, zone: number): string | undefined {
+function loadZone(this: void, zone: number): string | undefined {
   const zoneString = storedString(zone, MM.vars.loadedProfile[zone] ?? "Default")
   if (zoneString !== undefined && zoneString !== "") {
     decompressString(zoneString)
