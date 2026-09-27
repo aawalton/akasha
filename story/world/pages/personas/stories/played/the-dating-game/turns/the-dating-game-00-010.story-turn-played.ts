@@ -29,4 +29,5 @@ export const theDatingGame00010 = {
     "She taps his chest once with a fingertip, and her grin turns sly.",
     "She tugs his hand, and they walk on up the canyon.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
