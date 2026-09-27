@@ -106,7 +106,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "A synced Librarian and Links talk by directional telepathy when she aims a thought at him.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The Library's interface shows a status as a name and flat fields, as Status: Alert.",
