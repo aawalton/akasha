@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHSrTAAIBkBRMiijtQso7WLmCVi5glYuYJWLmCVi5glEGjtRBBu0QQbtJhEx2xEEx0sAAAHNz2azXQrIAAAAAABE8AAgDUEABAGAACQAIBAQQACEAADJwAjAGYABkABCAwIABDJIFAjEQgwhQCgiAMAHIAxAcAABDA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkLEMEnYOQNYA",
+  "buildHash": "ATQHSrTAAIBkBRMiijtQso7QLmCUC5glAuYJQLmCUC5glEGjtRBBu0QQbtJhEx2xEEx0sAAAHNz2azXQrIAAAAAABE8AAgDUEABAGAACQAIBAQQACEAADJwAjAGYABkABCAwIABDJIFAjEQgwhQCgiAMAHIAxAcAABDA4y6NeozIsSZWPJllzJs7Po06te2fQo0qdTxVWNlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBw2SNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpMAEBkLEMEnYOQNYA",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -13623,11 +13623,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "seen": [
       5,
       3,
@@ -13646,5 +13646,9 @@
       4,
       5
     ]
+  },
+  "inventoryCheck": {
+    "date": "2026-09-27",
+    "misplaced": 12
   }
 }

@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHVMUAAIBkRRNiU_lYtP5ULmC1C5gtQuYLULmC1C5gtEGjtRBAq0QQKtJhEx2xEEx1ujIAHN0RnsABNgAAANZABE8AAgDUEABAGAACQAIAASAACEAADJwAjAGYARkABCIwIABDJIFAjEQA0gAAACAMAHIAgAcQAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0nAUAyDjEgaw",
+  "buildHash": "ATQHVMUAAIBkRRMCU_lAtP5ULmC1C5gtQuYLULmC1C5gtEGjtRBAq0QQKtJhEx2xEEx1ujIAHN0RKyABNgAAAAALTE8AAgDUEABAGAACQAIAASAACEAADJwAjAGYARkABCIwIABDJIFAjEQA0gAAACAMAHIAgAcQAADA4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0nAUAyDjEgaw",
   "gender": 1,
   "level": 50,
   "classId": 5,
@@ -2478,6 +2478,24 @@
       "currentXP": 125,
       "nextRankXP": 200,
       "skills": {
+        "39369": {
+          "base": {
+            "name": "Bone Shield",
+            "rank": 1
+          },
+          "morph1": {
+            "name": "Spiked Bone Shield",
+            "rank": 1
+          },
+          "morph2": {
+            "name": "Bone Surge",
+            "rank": 1
+          },
+          "currentMorph": 0,
+          "abilityIndex": 4,
+          "isUltimate": false,
+          "atMorph": false
+        },
         "39425": {
           "base": {
             "name": "Trapping Webs",
@@ -4961,7 +4979,7 @@
   },
   "skillPoints": {
     "total": 354,
-    "unassigned": 4,
+    "unassigned": 3,
     "level": 64,
     "mainQuests": 11,
     "tutorial": 1,
@@ -6662,7 +6680,7 @@
     }
   },
   "companionRapport": {
-    "6": 2137,
+    "6": 2147,
     "13": 817
   },
   "quests": [
@@ -13154,11 +13172,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "seen": [
       5,
       3,
@@ -13177,5 +13195,9 @@
       4,
       5
     ]
+  },
+  "inventoryCheck": {
+    "date": "2026-09-27",
+    "misplaced": 11
   }
 }
