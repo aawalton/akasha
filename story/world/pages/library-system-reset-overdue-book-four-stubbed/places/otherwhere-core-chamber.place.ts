@@ -64,8 +64,12 @@ export const otherwhereCoreChamber = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "The chamber is lit red now, and the floor heaved once more when the alarm began.",
+      fact: "The chamber was lit red while the alarm sounded, and the floor heaved once when it began.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "With the alarm stopped, the chamber's glow is its dim blue-green again.",
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A trunk wider than a house rises from the chamber's center into the dark.",
@@ -169,6 +173,14 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "Syncing floods the Librarian with visions of the universe and burns through the veins with pain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "When the Library has grown enough, a window in her vision asks her to come to the core and sync.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Outside Emergency Power Mode, a sync still burns and brings visions, but takes no mana or health.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
