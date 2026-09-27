@@ -218,13 +218,27 @@ function askedOf(
   return named === undefined ? related : { ...named, ...related }
 }
 
+function valuesOf(test: Test | undefined): readonly string[] | null {
+  if (test?.is !== undefined) return [test.is]
+  return test?.in ?? null
+}
+
+function heldBy(allowed: Test | undefined, asked: Test | undefined): boolean {
+  const within = valuesOf(allowed)
+  const named = valuesOf(asked)
+  if (within === null || named === null) return false
+  return named.every((one) => within.includes(one))
+}
+
 export function namedWithin(
   narrowed: Readonly<Record<string, Test>> | undefined,
   named: Readonly<Record<string, Test>> | undefined
 ): Readonly<Record<string, Test>> | undefined | null {
   if (named === undefined) return narrowed
   if (narrowed === undefined) return named
-  for (const key of Object.keys(named)) if (key in narrowed) return null
+  for (const key of Object.keys(named)) {
+    if (key in narrowed && !heldBy(narrowed[key], named[key])) return null
+  }
   return { ...narrowed, ...named }
 }
 

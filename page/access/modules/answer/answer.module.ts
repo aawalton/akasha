@@ -53,7 +53,8 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Pages named by the key a reader's narrow holds are refused rather than asked.",
+      statement:
+        "Pages named by the key a reader's narrow holds are asked only where every one lies within it.",
     },
     {
       decisionKind: "decision-kind/departure",

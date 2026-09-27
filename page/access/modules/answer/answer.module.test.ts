@@ -322,8 +322,10 @@ test("pages named within a narrow are asked within that narrow", async () => {
   expect(asked).toEqual([{ app: { is: "web-app/one" }, slug: { in: ["one"] } }])
 })
 
-test("pages named by the key a narrow holds are refused rather than widening it", () => {
+test("pages named by a narrow's key are asked within it", () => {
   expect(namedWithin({ slug: { is: "one" } }, { slug: { in: ["two"] } })).toBeNull()
+  const a = { slug: { in: ["a"] } }
+  expect(namedWithin({ slug: { in: ["b", "a"] } }, a)).toEqual(a)
 })
 
 test("an access stating no narrow asks the pages without one", async () => {
