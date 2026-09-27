@@ -4,6 +4,7 @@ export const otherwhere00031 = {
   id: "01a0e51c-b07a-74c8-b5b4-7d4b3fbdd0ba",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-031",
+  cover: "image/image-27a59c7373d479ab",
   ownLength: 136,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -17,7 +18,7 @@ export const otherwhere00031 = {
     "character-other/otherwhere-engorged-bookworm-05",
     "character-other/otherwhere-engorged-bookworm-06",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“Okay, Links. The small ones are done but we’re out of salt. How do we deal with the big one?”",
   beats: [
@@ -32,5 +33,5 @@ export const otherwhere00031 = {
   ],
   lore: ["place/otherwhere-hall-back", "lore/otherwhere-universe"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

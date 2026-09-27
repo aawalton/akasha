@@ -248,7 +248,6 @@ export const otherwhereHallBack = {
       fact: "The chewed broom still sweeps, its bristles bitten ragged down one side.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Further back in the gloom beyond the columns, wet chewing still goes on.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -280,6 +279,18 @@ export const otherwhereHallBack = {
         "character-player/otherwhere-alan",
         "character-other/otherwhere-links",
       ],
+    },
+    {
+      fact: "The big engorged bookworm bites far harder than the small ones do.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The big engorged bookworm is far too big to hold down in heaped salt.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "As the last small bookworm dried still, the hall's gold light brightened another shade.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
 } as const satisfies Place
