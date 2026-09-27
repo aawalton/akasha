@@ -26,4 +26,5 @@ export const otherwhere00022 = {
     "Now the bookworm is inside the oval with her, between Nala and the gap, head swaying.",
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
