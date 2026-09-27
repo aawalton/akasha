@@ -28,4 +28,5 @@ export const otherwhere00024 = {
     "Blood runs down her left arm and drips onto the salt, and the arm is going numb and shaky.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
