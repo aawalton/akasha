@@ -6,4 +6,10 @@ export const comparisonOpPicker = {
   slug: "comparison-op-picker",
   definition: "the picker choosing how a rule's condition compares",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The picker's accessible name is a web phrase page filled with the operator.",
+    },
+  ],
 } as const satisfies Module

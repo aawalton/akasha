@@ -10,6 +10,8 @@ import {
   type ComparisonOpId,
   comparisonOps,
 } from "akasha/temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { comparisonOpPickerOperatorLabel } from "akasha/temper/web/phrase/pages/comparison-op-picker-operator-label.temper-web-phrase.ts"
 
 interface ComparisonOpPickerProps {
   value: ComparisonOpId
@@ -17,6 +19,7 @@ interface ComparisonOpPickerProps {
 }
 
 export function ComparisonOpPicker({ value, onChange }: ComparisonOpPickerProps) {
+  const phrase = usePhrase()
   return (
     <DropdownMenu>
       <DropdownMenuTrigger asChild>
@@ -24,7 +27,9 @@ export function ComparisonOpPicker({ value, onChange }: ComparisonOpPickerProps)
           role="button"
           tabIndex={0}
           className="cursor-pointer px-0.5 font-medium text-current outline-none focus-visible:[outline-offset:-1px] focus-visible:[outline:1.5px_solid_var(--color-accent)]"
-          aria-label={`Comparison operator: ${comparisonOps.data[value].name}`}
+          aria-label={phrase(comparisonOpPickerOperatorLabel.slug, {
+            operator: comparisonOps.data[value].name,
+          })}
         >
           {comparisonOps.data[value].name}
         </span>

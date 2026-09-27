@@ -45,5 +45,6 @@
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/action-filter-cascades/action-filter-cascades.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/companion-target-select/companion-target-select.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-category-rules-panel/inventory-category-rules-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}
