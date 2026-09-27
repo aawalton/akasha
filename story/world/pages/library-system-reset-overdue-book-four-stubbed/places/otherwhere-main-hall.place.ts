@@ -135,6 +135,10 @@ export const otherwhereMainHall = {
       fact: "The big engorged bookworm is bloated and matte grey, its colored mouth rings blotched.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "An engorged bookworm has no eyes, and a round mouth rimmed with rows of jagged teeth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
