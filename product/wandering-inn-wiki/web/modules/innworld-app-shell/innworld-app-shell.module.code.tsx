@@ -15,16 +15,15 @@ import {
 } from "akasha/product/wandering-inn-wiki/web/modules/innworld-app-id/innworld-app-id.module.code.ts"
 import { useMemo } from "react"
 
-const BRAND = "INNWORLD"
-
 const NO_CODED_ITEMS: readonly AppNavItem[] = []
 
 interface AppShellProps {
   children: React.ReactNode
+  brand: string
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
 
-function AppShellInner({ children, ssrNavItems }: AppShellProps) {
+function AppShellInner({ children, brand, ssrNavItems }: AppShellProps) {
   const {
     items,
     bottomSections,
@@ -46,7 +45,7 @@ function AppShellInner({ children, ssrNavItems }: AppShellProps) {
     () => ({
       primaryItems: items,
       bottomSections,
-      brandLabel: BRAND,
+      brandLabel: brand.toUpperCase(),
       bottomNavMaxItems: 5,
       navReady,
       renderPrimaryItems: (primary, renderItem) => (
@@ -63,6 +62,7 @@ function AppShellInner({ children, ssrNavItems }: AppShellProps) {
       ),
     }),
     [
+      brand,
       items,
       bottomSections,
       navReady,

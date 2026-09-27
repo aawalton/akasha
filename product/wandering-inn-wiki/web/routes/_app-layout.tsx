@@ -1,3 +1,8 @@
+import {
+  WEB_APP,
+  webAppTitle,
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/naming/web-app-naming.module.code.ts"
+import { innworldWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/innworld-web.web-app.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AppEditingProvider } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { AuthProvider } from "akasha/page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"
@@ -9,14 +14,15 @@ import { INNWORLD_VISITOR } from "akasha/product/wandering-inn-wiki/web/modules/
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
 
-const READ = ["page-type", "nav"]
+const READ = ["page-type", "nav", WEB_APP]
 
 export async function loader() {
-  const [shownTypes, nav] = await Promise.all([
+  const [shownTypes, nav, brand] = await Promise.all([
     shownTypesRead(),
     getPages({ pageTypeSlug: "nav", where: [{ key: "app", eq: INNWORLD_APP }], limit: 200 }),
+    webAppTitle(innworldWeb.slug),
   ])
-  return data({ shownTypes, navItems: nav.rows })
+  return data({ shownTypes, navItems: nav.rows, brand })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
@@ -24,7 +30,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
   return (
     <AuthProvider reader={INNWORLD_VISITOR} accountId={null}>
       <AppEditingProvider editing={false}>
-        <AppShell ssrNavItems={loaderData.navItems}>
+        <AppShell brand={loaderData.brand} ssrNavItems={loaderData.navItems}>
           <Outlet />
         </AppShell>
       </AppEditingProvider>

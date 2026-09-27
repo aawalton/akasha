@@ -24,5 +24,9 @@ export const innworldAppShell = {
       decisionKind: "decision-kind/departure",
       statement: "Which section a page type sits under is settled on the nav items.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The name over the sidebar is the title of the Innworld web app page.",
+    },
   ],
 } as const satisfies Module
