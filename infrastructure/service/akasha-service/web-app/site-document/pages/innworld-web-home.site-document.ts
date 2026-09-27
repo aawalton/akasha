@@ -4,7 +4,7 @@ export const innworldWebHome = {
   id: "01a0e2a3-3183-77cc-81de-a381d7fcec70",
   type: "page-type/site-document",
   slug: "innworld-web-home",
-  title: "Innworld",
+  title: "Innworld Live Check",
   description: "A fan wiki of The Wandering Inn, whose characters and world belong to pirateaba.",
   webApp: "web-app/innworld-web",
   urlPath: "",
