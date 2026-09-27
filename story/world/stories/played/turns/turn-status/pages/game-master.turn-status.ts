@@ -9,15 +9,11 @@ export const gameMaster = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game master advances a turn no reviewer has checked to reviewers.",
+      statement: "The game master advances every turn to writer.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The game master advances a turn the reviewers have checked to writer.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A turn back from the reviewers has its issues repaired here.",
+      statement: "A turn back from the reviewers has its beats mended here.",
     },
   ],
 } as const satisfies TurnStatus

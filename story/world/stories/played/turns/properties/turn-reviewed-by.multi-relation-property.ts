@@ -5,7 +5,7 @@ export const turnReviewedBy = {
   type: "page-type/multi-relation-property",
   slug: "turn-reviewed-by",
   propertySlug: "reviewed-by",
-  definition: "the story reviewers that have checked a played turn's beats",
+  definition: "the story reviewers that have checked a played turn's beats and prose",
   targetPageType: "page-type/story-reviewer",
   decisions: [
     {
