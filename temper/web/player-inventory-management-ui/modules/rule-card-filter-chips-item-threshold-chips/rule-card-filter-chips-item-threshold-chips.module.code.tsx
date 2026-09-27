@@ -12,6 +12,10 @@ import { LEVEL_OPTIONS } from "akasha/temper/items/rules/core/modules/level-filt
 import { qualityOptions } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
 import { ComparisonOpPicker } from "akasha/temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx"
 import type { RuleCardState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
+import {
+  phraseOf,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { ReactNode } from "react"
 
 interface QualityChipProps {
@@ -69,6 +73,8 @@ interface LevelChipProps {
 
 export function LevelChip({ state }: LevelChipProps): ReactNode {
   const { levelValue, levelOp, handleLevelChange, handleLevelOpChange, handleRemoveFilter } = state
+  const phrases = useRuleCardPhrases()
+  if (phrases === null) return null
 
   return (
     <Select value={levelValue} onValueChange={handleLevelChange}>
@@ -86,7 +92,7 @@ export function LevelChip({ state }: LevelChipProps): ReactNode {
       <SelectContent>
         {LEVEL_OPTIONS.map((opt) => (
           <SelectItem key={opt.value} value={opt.value}>
-            {opt.label}
+            {phraseOf(phrases, opt.phraseKey, { level: String(opt.level) })}
           </SelectItem>
         ))}
       </SelectContent>

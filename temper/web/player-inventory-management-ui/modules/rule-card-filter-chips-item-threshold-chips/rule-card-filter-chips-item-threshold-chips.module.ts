@@ -6,4 +6,10 @@ export const ruleCardFilterChipsItemThresholdChips = {
   slug: "rule-card-filter-chips-item-threshold-chips",
   definition: "the item chips setting a threshold",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A level option is spelled by the rule card phrase its key names.",
+    },
+  ],
 } as const satisfies Module

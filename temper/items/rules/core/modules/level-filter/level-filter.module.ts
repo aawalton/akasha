@@ -19,5 +19,9 @@ export const levelFilter = {
       decisionKind: "decision-kind/departure",
       statement: "A category outside `equipment` is offered no Level condition.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An option names the phrase key spelling it, and the card fills `{level}`.",
+    },
   ],
 } as const satisfies Module
