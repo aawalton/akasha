@@ -6,4 +6,10 @@ export const restoreConfirmDialog = {
   slug: "restore-confirm-dialog",
   definition: "the dialog where a companion restore is confirmed",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

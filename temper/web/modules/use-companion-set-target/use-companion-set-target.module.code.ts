@@ -20,6 +20,12 @@ import {
 import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
+import {
+  phraseIn,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { useCompanionSetTargetNoBuild } from "akasha/temper/web/phrase/pages/use-companion-set-target-no-build.temper-web-phrase.ts"
+import { useCompanionSetTargetUnknown } from "akasha/temper/web/phrase/pages/use-companion-set-target-unknown.temper-web-phrase.ts"
 import { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useMemo, useState, useTransition } from "react"
 
@@ -50,6 +56,7 @@ export function useCompanionSetTarget({
 
   const buildMap = useMemo(() => new Map(companionBuilds.map((b) => [b.id, b])), [companionBuilds])
   const catalog = useHeldCompanionCatalog()
+  const phrases = useWebPhrases()
 
   const computeSetTargetArgs = (entityId: string) => {
     const entity = completionCompanions.find((e) => e.id === entityId)
@@ -118,10 +125,14 @@ export function useCompanionSetTarget({
           entity.targetBuildId != null ? buildMap.get(entity.targetBuildId) : undefined
         const refBuild = liveBuild ?? targetBuild
 
-        const companionName = companionsData().data[companionId]?.name ?? "Unknown"
+        const companionName =
+          companionsData().data[companionId]?.name ??
+          phraseIn(phrases, useCompanionSetTargetUnknown.slug)
         const decoded =
           refBuild?.buildHash != null ? decodeCompanion(toBuildHash(refBuild.buildHash)) : null
-        const subtitle = decoded ? getBaseRoleName(decoded.companion.baseRoles) : "No build"
+        const subtitle = decoded
+          ? getBaseRoleName(decoded.companion.baseRoles)
+          : phraseIn(phrases, useCompanionSetTargetNoBuild.slug)
 
         let targetManuallyEdited = false
         if (liveBuild && targetBuild) {
@@ -136,7 +147,7 @@ export function useCompanionSetTarget({
           targetManuallyEdited,
         }
       })
-  }, [isAuthenticated, completionCompanions, buildMap, companionId, catalog])
+  }, [isAuthenticated, completionCompanions, buildMap, companionId, catalog, phrases])
 
   const handleSetTarget = () => {
     const entity = setTargetEntities[0]

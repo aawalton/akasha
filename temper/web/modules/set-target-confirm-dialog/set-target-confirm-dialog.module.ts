@@ -6,4 +6,10 @@ export const setTargetConfirmDialog = {
   slug: "set-target-confirm-dialog",
   definition: "the question asked before a hand-edited target build is overwritten",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

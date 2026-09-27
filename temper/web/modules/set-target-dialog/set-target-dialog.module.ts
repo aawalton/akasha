@@ -6,4 +6,10 @@ export const setTargetDialog = {
   slug: "set-target-dialog",
   definition: "the list pointing a build at a character or companion",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

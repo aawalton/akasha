@@ -12,5 +12,9 @@ export const useCompanionSetTarget = {
       statement:
         "The companions offered are worked out again whenever the companion catalogue is read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module
