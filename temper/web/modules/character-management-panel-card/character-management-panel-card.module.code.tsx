@@ -70,16 +70,15 @@ export function CharacterManagementPanelCard({
       await deleteBuild()
       router.push("/character-build")
     } catch (error) {
+      console.error("[character-management-panel-card] deleting the build failed:", error)
       toast.error(
-        error instanceof CharacterDeleteRefused
-          ? phrase(
-              error.kind === "signed-out"
-                ? characterManagementPanelCardSignedOut.slug
-                : characterManagementPanelCardUnread.slug
-            )
-          : error instanceof Error
-            ? error.message
-            : phrase(characterManagementPanelCardDeleteFailed.slug)
+        phrase(
+          !(error instanceof CharacterDeleteRefused)
+            ? characterManagementPanelCardDeleteFailed.slug
+            : error.kind === "signed-out"
+              ? characterManagementPanelCardSignedOut.slug
+              : characterManagementPanelCardUnread.slug
+        )
       )
       setIsDeleting(false)
       setShowDeleteDialog(false)
