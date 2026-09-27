@@ -16,6 +16,12 @@ import type {
   SortDirection,
   SortOption,
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { charactersTabFiltersActivity } from "akasha/temper/web/phrase/pages/characters-tab-filters-activity.temper-web-phrase.ts"
+import { charactersTabFiltersCharacter } from "akasha/temper/web/phrase/pages/characters-tab-filters-character.temper-web-phrase.ts"
+import { charactersTabFiltersSearch } from "akasha/temper/web/phrase/pages/characters-tab-filters-search.temper-web-phrase.ts"
+import { charactersTabFiltersSkills } from "akasha/temper/web/phrase/pages/characters-tab-filters-skills.temper-web-phrase.ts"
+import { charactersTabFiltersStatus } from "akasha/temper/web/phrase/pages/characters-tab-filters-status.temper-web-phrase.ts"
 import type { CompletionSortMode } from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { useState } from "react"
 
@@ -32,14 +38,14 @@ function isFilterId(id: string): id is FilterId {
 
 interface CharactersFilterDef {
   id: FilterId
-  label: string
+  labelPhrase: string
 }
 
 const CHARACTERS_FILTERS: CharactersFilterDef[] = [
-  { id: "status", label: "Status" },
-  { id: "activity", label: "Activity" },
-  { id: "character", label: "Character" },
-  { id: "skills", label: "Skills" },
+  { id: "status", labelPhrase: charactersTabFiltersStatus.slug },
+  { id: "activity", labelPhrase: charactersTabFiltersActivity.slug },
+  { id: "character", labelPhrase: charactersTabFiltersCharacter.slug },
+  { id: "skills", labelPhrase: charactersTabFiltersSkills.slug },
 ]
 
 interface CharactersTabFiltersProps {
@@ -89,6 +95,7 @@ export function CharactersTabFilters({
   onSortChange,
   onSearchChange,
 }: CharactersTabFiltersProps) {
+  const phrase = usePhrase()
   const hasStatusValue = selectedStatus.length > 0
   const hasActivityValue = selectedActivity.length > 0
   const hasCharacterValue = selectedCharacter !== null
@@ -145,7 +152,11 @@ export function CharactersTabFilters({
   return (
     <PageTabHeader title={title}>
       <SearchSortFilterRow hasActiveFilters={hasActiveFilters} onReset={onReset}>
-        <SearchButton value={search} onChange={onSearchChange} placeholder="Search..." />
+        <SearchButton
+          value={search}
+          onChange={onSearchChange}
+          placeholder={phrase(charactersTabFiltersSearch.slug)}
+        />
         <SortButton
           options={sortOptions}
           sorts={[{ field: sortMode, direction: sortDirection }]}
@@ -163,14 +174,17 @@ export function CharactersTabFilters({
             hasSkillsValue ||
             addedFilters.size > 0
           }
-          emptySelectOptions={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+          emptySelectOptions={availableFilters.map((f) => ({
+            id: f.id,
+            label: phrase(f.labelPhrase),
+          }))}
           onEmptySelect={handleAdd}
         >
           <div className="flex flex-col gap-3">
             {visibleFilters.map((filterDef) => (
               <FilterGroup
                 key={filterDef.id}
-                label={filterDef.label}
+                label={phrase(filterDef.labelPhrase)}
                 onRemove={() => handleRemove(filterDef.id)}
               >
                 {filterDef.id === "status" && (
@@ -212,7 +226,7 @@ export function CharactersTabFilters({
               </FilterGroup>
             ))}
             <AddFilterButton
-              options={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+              options={availableFilters.map((f) => ({ id: f.id, label: phrase(f.labelPhrase) }))}
               onAdd={handleAdd}
             />
           </div>

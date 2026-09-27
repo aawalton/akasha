@@ -6,4 +6,10 @@ export const charactersTabFilters = {
   slug: "characters-tab-filters",
   definition: "the search, filter and sort controls above the characters tab's cards",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
