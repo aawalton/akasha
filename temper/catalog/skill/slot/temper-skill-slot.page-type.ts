@@ -6,10 +6,15 @@ export const temperSkillSlot = {
   slug: "temper-skill-slot",
   definition: "a place on the bar for a skill",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["change-generator/skill-slot-ids-keeping", "data-table/skill-slot-ids"],
+  parts: [
+    "change-generator/skill-slot-ids-keeping",
+    "data-table/skill-slot-ids",
+    "boolean-property/holds-ultimate",
+  ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "boolean-property/holds-ultimate", required: false, many: false },
   ],
   decisions: [
     {
