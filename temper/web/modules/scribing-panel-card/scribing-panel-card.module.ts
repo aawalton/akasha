@@ -12,5 +12,9 @@ export const scribingPanelCard = {
       statement:
         "Whether a grimoire is left is worked out again whenever the grimoires are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

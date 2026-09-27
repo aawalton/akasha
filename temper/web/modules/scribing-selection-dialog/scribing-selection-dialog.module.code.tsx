@@ -23,6 +23,15 @@ import {
   getGrimoireCompatibleScripts,
   grimoires,
 } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { scribingSelectionDialogAllInUse } from "akasha/temper/web/phrase/pages/scribing-selection-dialog-all-in-use.temper-web-phrase.ts"
+import { scribingSelectionDialogBack } from "akasha/temper/web/phrase/pages/scribing-selection-dialog-back.temper-web-phrase.ts"
+import { scribingSelectionDialogNoFocusScriptsMatch } from "akasha/temper/web/phrase/pages/scribing-selection-dialog-no-focus-scripts-match.temper-web-phrase.ts"
+import { scribingSelectionDialogNoGrimoiresMatch } from "akasha/temper/web/phrase/pages/scribing-selection-dialog-no-grimoires-match.temper-web-phrase.ts"
+import { scribingSelectionDialogSearchFocusScripts } from "akasha/temper/web/phrase/pages/scribing-selection-dialog-search-focus-scripts.temper-web-phrase.ts"
+import { scribingSelectionDialogSearchGrimoires } from "akasha/temper/web/phrase/pages/scribing-selection-dialog-search-grimoires.temper-web-phrase.ts"
+import { scribingSelectionDialogSelectFocusScript } from "akasha/temper/web/phrase/pages/scribing-selection-dialog-select-focus-script.temper-web-phrase.ts"
+import { scribingSelectionDialogSelectGrimoire } from "akasha/temper/web/phrase/pages/scribing-selection-dialog-select-grimoire.temper-web-phrase.ts"
 import { ArrowLeft } from "lucide-react"
 import { useState } from "react"
 
@@ -41,6 +50,7 @@ export function ScribingSelectionDialog({
   onComplete,
   scribing,
 }: ScribingSelectionDialogProps) {
+  const phrase = usePhrase()
   const [step, setStep] = useState<SelectionStep>("grimoire")
   const [selectedGrimoire, setSelectedGrimoire] = useState<GrimoireId | null>(null)
   const [searchFilter, setSearchFilter] = useState("")
@@ -120,17 +130,25 @@ export function ScribingSelectionDialog({
                   size="icon"
                   onClick={handleBack}
                   className="shrink-0"
-                  title="Back to grimoire selection"
+                  title={phrase(scribingSelectionDialogBack.slug)}
                 >
                   <ArrowLeft className="h-4 w-4" />
                 </Button>
               )}
               <DialogTitle>
-                {step === "grimoire" ? "Select Grimoire" : "Select Focus Script"}
+                {phrase(
+                  step === "grimoire"
+                    ? scribingSelectionDialogSelectGrimoire.slug
+                    : scribingSelectionDialogSelectFocusScript.slug
+                )}
               </DialogTitle>
             </div>
             <CommandInput
-              placeholder={step === "grimoire" ? "Search grimoires..." : "Search focus scripts..."}
+              placeholder={phrase(
+                step === "grimoire"
+                  ? scribingSelectionDialogSearchGrimoires.slug
+                  : scribingSelectionDialogSearchFocusScripts.slug
+              )}
               value={searchFilter}
               onValueChange={setSearchFilter}
             />
@@ -142,11 +160,15 @@ export function ScribingSelectionDialog({
                 <>
                   {filteredGrimoires.length === 0 && searchFilter !== "" && (
                     <div className="py-6 text-center text-sm">
-                      No grimoires match "{searchFilter}"
+                      {phrase(scribingSelectionDialogNoGrimoiresMatch.slug, {
+                        search: searchFilter,
+                      })}
                     </div>
                   )}
                   {filteredGrimoires.length === 0 && searchFilter === "" && (
-                    <div className="py-6 text-center text-sm">All grimoires are already in use</div>
+                    <div className="py-6 text-center text-sm">
+                      {phrase(scribingSelectionDialogAllInUse.slug)}
+                    </div>
                   )}
                   <div className="space-y-2">
                     {filteredGrimoires.map((grimoire) => {
@@ -185,7 +207,9 @@ export function ScribingSelectionDialog({
                 <>
                   {filteredFocusScripts.length === 0 && searchFilter !== "" && (
                     <div className="py-6 text-center text-sm">
-                      No focus scripts match "{searchFilter}"
+                      {phrase(scribingSelectionDialogNoFocusScriptsMatch.slug, {
+                        search: searchFilter,
+                      })}
                     </div>
                   )}
                   <div className="space-y-2">

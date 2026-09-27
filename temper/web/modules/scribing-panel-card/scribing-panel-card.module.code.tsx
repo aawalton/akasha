@@ -6,6 +6,10 @@ import { skillLines } from "akasha/temper/player/character/skill/line/modules/sk
 import type { ScribedSkill } from "akasha/temper/player/character/skill/modules/scribed-skill-types/scribed-skill-types.module.code.ts"
 import { getScribedSkillName } from "akasha/temper/player/character/skill/modules/scribed-skills/scribed-skills.module.code.ts"
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { scribingPanelCardCraft } from "akasha/temper/web/phrase/pages/scribing-panel-card-craft.temper-web-phrase.ts"
+import { scribingPanelCardRemove } from "akasha/temper/web/phrase/pages/scribing-panel-card-remove.temper-web-phrase.ts"
+import { scribingPanelCardTitle } from "akasha/temper/web/phrase/pages/scribing-panel-card-title.temper-web-phrase.ts"
 import { Plus } from "lucide-react"
 import { useMemo } from "react"
 
@@ -24,6 +28,7 @@ function ScribedSkillItem({
   onRemoveSkill,
   readOnly,
 }: ScribedSkillItemProps) {
+  const phrase = usePhrase()
   const grimoireDef = grimoires.data[skill.grimoireId]
   const iconUrl = getEsoIconUrl(grimoireDef.abilityIcon)
   const skillName = getScribedSkillName(skill.grimoireId, skill.focusScriptId)
@@ -55,7 +60,7 @@ function ScribedSkillItem({
         </div>
       )}
       onRemove={readOnly ? undefined : () => onRemoveSkill(originalIndex)}
-      removeLabel="Remove scribed skill"
+      removeLabel={phrase(scribingPanelCardRemove.slug)}
     />
   )
 }
@@ -77,6 +82,7 @@ export function ScribingPanelCard({
   className,
   readOnly,
 }: ScribingPanelCardProps) {
+  const phrase = usePhrase()
   const grimoireIds = grimoires.ids
 
   const hasGrimoiresLeft = useMemo(() => {
@@ -88,7 +94,12 @@ export function ScribingPanelCard({
   }, [sortedScribing, grimoireIds])
 
   return (
-    <PanelCard id="scribing" collapsible={true} title="Scribing" className={className}>
+    <PanelCard
+      id="scribing"
+      collapsible={true}
+      title={phrase(scribingPanelCardTitle.slug)}
+      className={className}
+    >
       {sortedScribing.length > 0 &&
         sortedScribing.map(({ skill, originalIndex }) => (
           <ScribedSkillItem
@@ -104,7 +115,7 @@ export function ScribingPanelCard({
       {!readOnly && hasGrimoiresLeft && (
         <Button variant="secondary" className="w-full" onClick={onOpenGrimoireSelect} type="button">
           <Plus className="h-4 w-4" />
-          Craft Scribed Skill
+          {phrase(scribingPanelCardCraft.slug)}
         </Button>
       )}
     </PanelCard>

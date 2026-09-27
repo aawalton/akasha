@@ -30,6 +30,17 @@ import {
 } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import { getCombinedScriptDescription } from "akasha/temper/player/character/skill/modules/scribing-script-description/scribing-script-description.module.code.ts"
 import type { PendingScriptEdits } from "akasha/temper/web/modules/skills-types/skills-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { scriptEditDialogAffix } from "akasha/temper/web/phrase/pages/script-edit-dialog-affix.temper-web-phrase.ts"
+import { scriptEditDialogCancel } from "akasha/temper/web/phrase/pages/script-edit-dialog-cancel.temper-web-phrase.ts"
+import { scriptEditDialogDescription } from "akasha/temper/web/phrase/pages/script-edit-dialog-description.temper-web-phrase.ts"
+import { scriptEditDialogEditScripts } from "akasha/temper/web/phrase/pages/script-edit-dialog-edit-scripts.temper-web-phrase.ts"
+import { scriptEditDialogFocus } from "akasha/temper/web/phrase/pages/script-edit-dialog-focus.temper-web-phrase.ts"
+import { scriptEditDialogInvalid } from "akasha/temper/web/phrase/pages/script-edit-dialog-invalid.temper-web-phrase.ts"
+import { scriptEditDialogNone } from "akasha/temper/web/phrase/pages/script-edit-dialog-none.temper-web-phrase.ts"
+import { scriptEditDialogSave } from "akasha/temper/web/phrase/pages/script-edit-dialog-save.temper-web-phrase.ts"
+import { scriptEditDialogSelectFocusScript } from "akasha/temper/web/phrase/pages/script-edit-dialog-select-focus-script.temper-web-phrase.ts"
+import { scriptEditDialogSignature } from "akasha/temper/web/phrase/pages/script-edit-dialog-signature.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 interface ScriptEditDialogProps {
@@ -50,11 +61,13 @@ export function ScriptEditDialog({
   onEditChange,
 }: ScriptEditDialogProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
+  const none = phrase(scriptEditDialogNone.slug)
   const catalog = skillCatalog()
   const { focusScripts, signatureScripts, affixScripts } = catalog
   const compatible =
     skill?.grimoireId != null ? getGrimoireCompatibleScripts(skill.grimoireId) : null
-  let grimoireName = "Edit Scripts"
+  let grimoireName = phrase(scriptEditDialogEditScripts.slug)
   if (skill?.grimoireId != null && grimoires.has(skill.grimoireId)) {
     grimoireName = grimoires.data[skill.grimoireId].name
   }
@@ -83,7 +96,7 @@ export function ScriptEditDialog({
         {pendingEdits && (
           <DialogBody className="space-y-4">
             <div className="flex items-center justify-between">
-              <span className="text-sm text-tertiary">Focus</span>
+              <span className="text-sm text-tertiary">{phrase(scriptEditDialogFocus.slug)}</span>
               <Select<FocusScriptId>
                 value={pendingEdits.focusScriptId}
                 onValueChange={(v) =>
@@ -94,9 +107,9 @@ export function ScriptEditDialog({
                 }
               >
                 <SelectTrigger className="w-[180px]">
-                  <SelectValue placeholder="Select focus script" />
+                  <SelectValue placeholder={phrase(scriptEditDialogSelectFocusScript.slug)} />
                 </SelectTrigger>
-                <SelectContent nullSentinel={{ value: "no-focus-script", label: "None" }} sorted>
+                <SelectContent nullSentinel={{ value: "no-focus-script", label: none }} sorted>
                   {compatible?.focus
                     .map((id) => focusScripts.data[id])
                     .map((script) => (
@@ -109,7 +122,9 @@ export function ScriptEditDialog({
             </div>
 
             <div className="flex items-center justify-between">
-              <span className="text-sm text-tertiary">Signature</span>
+              <span className="text-sm text-tertiary">
+                {phrase(scriptEditDialogSignature.slug)}
+              </span>
               <Select<SignatureScriptId>
                 value={pendingEdits.signatureScriptId}
                 onValueChange={(v) =>
@@ -122,10 +137,7 @@ export function ScriptEditDialog({
                 <SelectTrigger className="w-[180px]">
                   <SelectValue />
                 </SelectTrigger>
-                <SelectContent
-                  nullSentinel={{ value: "no-signature-script", label: "None" }}
-                  sorted
-                >
+                <SelectContent nullSentinel={{ value: "no-signature-script", label: none }} sorted>
                   {compatible?.signature
                     .map((id) => signatureScripts.data[id])
                     .map((script) => (
@@ -138,7 +150,7 @@ export function ScriptEditDialog({
             </div>
 
             <div className="flex items-center justify-between">
-              <span className="text-sm text-tertiary">Affix</span>
+              <span className="text-sm text-tertiary">{phrase(scriptEditDialogAffix.slug)}</span>
               <Select<AffixScriptId>
                 value={pendingEdits.affixScriptId}
                 onValueChange={(v) =>
@@ -151,7 +163,7 @@ export function ScriptEditDialog({
                 <SelectTrigger className="w-[180px]">
                   <SelectValue />
                 </SelectTrigger>
-                <SelectContent nullSentinel={{ value: "no-affix-script", label: "None" }} sorted>
+                <SelectContent nullSentinel={{ value: "no-affix-script", label: none }} sorted>
                   {compatible?.affix
                     .map((id) => affixScripts.data[id])
                     .map((script) => (
@@ -164,7 +176,9 @@ export function ScriptEditDialog({
             </div>
 
             <div className="space-y-2">
-              <span className="text-secondary text-sm">Description</span>
+              <span className="text-secondary text-sm">
+                {phrase(scriptEditDialogDescription.slug)}
+              </span>
               <div
                 className={`max-h-[300px] overflow-y-auto rounded-md ${surfaceClass(surface + 1)} p-3`}
               >
@@ -175,7 +189,7 @@ export function ScriptEditDialog({
                     ))}
                   </div>
                 ) : (
-                  <Text className="italic">Invalid script combination</Text>
+                  <Text className="italic">{phrase(scriptEditDialogInvalid.slug)}</Text>
                 )}
               </div>
             </div>
@@ -183,9 +197,9 @@ export function ScriptEditDialog({
         )}
         <DialogFooter className="gap-2">
           <Button variant="tertiary" onClick={onCancel}>
-            Cancel
+            {phrase(scriptEditDialogCancel.slug)}
           </Button>
-          <Button onClick={onSave}>Save</Button>
+          <Button onClick={onSave}>{phrase(scriptEditDialogSave.slug)}</Button>
         </DialogFooter>
       </DialogContent>
     </Dialog>
