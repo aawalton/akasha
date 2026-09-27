@@ -10,7 +10,7 @@ export const theDatingGame00014 = {
   position: 14,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "\"Ah, that makes sense. I can totally see why you would enjoy Carl now. The characters really do have strong voices. I shared an elevator with Matt Dimon at LitRPG Con last year, he's a fun guy. If you like voices though, you should definitely try The Wandering Inn. They actually had to swap audio book narrators because there are so many characters with distinct voices that the narrator got overwhelmed after the first 5 million or so words. I've actually been considering making my own custom narration with AI voice synthesis so I can get all the characters right and have them consistent across the whole series.\"",
   beats: [
@@ -30,5 +30,5 @@ export const theDatingGame00014 = {
     "Then she taps her own chest twice, grinning, and holds his eyes.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

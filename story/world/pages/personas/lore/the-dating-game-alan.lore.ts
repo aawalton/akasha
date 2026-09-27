@@ -124,5 +124,13 @@ export const theDatingGameAlan = {
       fact: "Alan's favorite LitRPG is The Wandering Inn: 16 million words, and still constantly surprising.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
     },
+    {
+      fact: "Alan shared an elevator with Matt Dinniman at LitRPG Con last year.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "Alan is considering making his own AI-voiced narration of The Wandering Inn.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
   ],
 } as const satisfies Lore
