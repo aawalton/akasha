@@ -22,7 +22,10 @@ import {
   getTraitFamily,
   traitOptionsByFamily,
 } from "akasha/temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts"
+import { heldSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
+import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import {
   ACTION_OPTIONS,
   NOTHING_ACTION,
@@ -85,9 +88,13 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
     [rule.categoryId, categories]
   )
 
+  const skillCatalogRead = heldSkillCatalog()
+  const setCatalogRead = heldSetCatalog()
+  const companionCatalogRead = useHeldCompanionCatalog()
+
   const traitOptions = useMemo(
     () => (traitFamily != null ? (traitOptionsByFamily()[traitFamily] ?? []) : []),
-    [traitFamily]
+    [traitFamily, skillCatalogRead, companionCatalogRead]
   )
 
   const selectedTraitItems = useMemo(() => {
@@ -100,7 +107,7 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
     const types = rule.conditions?.setSourceTypes
     if (!types || types.length === 0) return []
     return setSourceTypeOptions().filter((opt) => types.includes(opt.value))
-  }, [rule.conditions?.setSourceTypes])
+  }, [rule.conditions?.setSourceTypes, setCatalogRead])
 
   const selectedLocationItems = useMemo(() => {
     const location = rule.conditions?.location

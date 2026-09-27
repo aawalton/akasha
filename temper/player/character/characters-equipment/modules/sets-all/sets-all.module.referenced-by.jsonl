@@ -15,6 +15,7 @@
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.test-fixtures.ts","path":"temper/player/character/build/build-codec/modules/build-codec/build-codec.module.test.ts","typed":false,"deferred":false}

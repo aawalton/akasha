@@ -6,4 +6,10 @@ export const useRuleCard = {
   slug: "use-rule-card",
   definition: "the rule a rule card is editing",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The trait and set source options are read again whenever their catalogue is.",
+    },
+  ],
 } as const satisfies Module

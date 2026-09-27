@@ -6215,6 +6215,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/item-tooltip/item-tooltip.module.ts","id":"01a0636c-5d9b-72cf-8645-abd4e5160035"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-item-ids/rule-card-filter-chip-item-ids.module.ts","id":"01a0dece-5017-7174-a964-bbaa92cf078a"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-settings-state/use-inventory-rules-settings-state.module.ts","id":"01a0636c-5da1-7d24-92b7-2d9551ec0065"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.ts","id":"01a0636c-5da1-73ac-82cb-033685f0006c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.ts","id":"01a0636c-5da1-77e1-8885-a26516fc006d"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-shape/api-shape.route.ts","id":"01a0e172-7749-7e43-bba1-fc59fde42b86"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.ts","id":"01a082a9-b67b-7606-b042-c4f5c9e5d6ac"}
