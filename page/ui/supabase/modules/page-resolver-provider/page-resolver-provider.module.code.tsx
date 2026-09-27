@@ -15,6 +15,7 @@ import {
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
   pickedSlugFor,
+  titledFor,
   usePaginatedRelationPicker,
 } from "akasha/page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts"
 import { createContext, useCallback, useContext, useMemo } from "react"
@@ -29,6 +30,7 @@ interface SupabasePageResolverProviderProps {
 
 interface PickerEnv {
   pageTypeSlug: string
+  pageTypes: readonly PageWithProperties[]
   slugById: ReadonlyMap<string, string>
   getDescendantSet: (targetId: string) => Set<string>
 }
@@ -40,26 +42,23 @@ function useSupabaseRelationPicker(
 ): RelationPickerResult {
   const env = useContext(PickerEnvContext)
 
-  const pageTypeIds = useMemo(() => {
-    if (!env || targetPageTypeId == null) return undefined
-    return Array.from(env.getDescendantSet(targetPageTypeId))
-  }, [env, targetPageTypeId])
-
   const pageTypeSlug = env ? pickedSlugFor(env.slugById, targetPageTypeId, env.pageTypeSlug) : ""
+
+  const titled = useMemo(() => {
+    if (!env || targetPageTypeId == null) return false
+    return titledFor(env.pageTypes, pageTypeSlug, env.getDescendantSet(targetPageTypeId))
+  }, [env, targetPageTypeId, pageTypeSlug])
 
   const result = usePaginatedRelationPicker({
     pageTypeSlug,
-    pageTypeIds,
+    titled,
     searchTerm: args.searchTerm,
-    enabled: (args.enabled ?? true) && env != null,
+    enabled: (args.enabled ?? true) && env != null && targetPageTypeId != null,
   })
 
   return useMemo<RelationPickerResult>(
     () => ({
-      pages: result.pages.map((p) => ({
-        id: p._id,
-        title: String(p.properties?.title ?? p._id),
-      })),
+      pages: result.pages,
       loadMore: result.loadMore,
       canLoadMore: result.canLoadMore,
       isLoading: result.isLoading,
@@ -97,9 +96,9 @@ export function SupabasePageResolverProvider({
   const pickerEnv = useMemo<PickerEnv | null>(
     () =>
       pickerPageTypeSlug != null
-        ? { pageTypeSlug: pickerPageTypeSlug, slugById, getDescendantSet }
+        ? { pageTypeSlug: pickerPageTypeSlug, pageTypes, slugById, getDescendantSet }
         : null,
-    [pickerPageTypeSlug, slugById, getDescendantSet]
+    [pickerPageTypeSlug, pageTypes, slugById, getDescendantSet]
   )
 
   const usePickerImpl = useCallback(useSupabaseRelationPicker, [])

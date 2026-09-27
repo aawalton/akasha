@@ -16,5 +16,25 @@ export const relationPicker = {
       decisionKind: "decision-kind/departure",
       statement: "A target type no page type names is asked for under the provider's own type.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A search is run by the page service rather than over pages held in the browser.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A search keeps a page whose title or slug holds it, whatever the case.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A type that no type above or below it titles is searched by slug alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page with no title is named by its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picker asks for 50 pages at a time, and loading more asks for 50 more.",
+    },
   ],
 } as const satisfies Module
