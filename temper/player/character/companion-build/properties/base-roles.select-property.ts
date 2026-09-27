@@ -6,7 +6,7 @@ export const baseRoles = {
   slug: "base-roles",
   propertySlug: "base-roles",
   definition: "the parts a companion build is arranged to play",
-  values: ["tank", "healer"],
+  values: ["tank", "healer", "dps", "support"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
