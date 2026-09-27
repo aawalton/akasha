@@ -14,7 +14,7 @@ export interface RecipeCatalog {
 const UNREAD =
   "the recipe catalogue is read from pages, and nothing has read it yet — await `loadRecipeCatalog()` where the work starts, or gate the screen on `RecipeCatalogGate`"
 
-export class RecipeCatalogUnread extends Error {
+class RecipeCatalogUnread extends Error {
   constructor() {
     super(UNREAD)
     this.name = "RecipeCatalogUnread"
