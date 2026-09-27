@@ -30,4 +30,5 @@ export const theDatingGame00006 = {
     "She grins and waits to see what he does.",
   ],
   lore: ["place/the-dating-game-rock-canyon"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
