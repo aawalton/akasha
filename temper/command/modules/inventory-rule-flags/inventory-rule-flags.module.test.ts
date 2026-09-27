@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import {
-  BUY_SOURCE_VALUES,
   narrowCategoryId,
   narrowItemAction,
   narrowMoveToDestination,
@@ -12,11 +11,6 @@ import {
 import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
 
 const TREE = holdItemCategoryTreeFromCheckout().keyed
-
-test("a buy source the rules package declares is taken", () => {
-  expect(BUY_SOURCE_VALUES).toEqual(["merchant"])
-  expect(BUY_SOURCE_VALUES.find((one) => one === "merchant")).toBe("merchant")
-})
 
 test("an action the rules package declares is taken", () => {
   expect(narrowItemAction("sell", "--action")).toBe("sell")

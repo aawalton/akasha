@@ -80,8 +80,8 @@ test("a rule copied is said to have been copied", async () => {
 })
 
 test("what a write is said by names the kind of rule and its id", () => {
-  const said = wroteSaid("buy", HELD, "copied")
-  expect(said).toContain("buy rule")
+  const said = wroteSaid("item", HELD, "copied")
+  expect(said).toContain("item rule")
   expect(said).toContain(HELD)
   expect(said).toContain("copied")
 })

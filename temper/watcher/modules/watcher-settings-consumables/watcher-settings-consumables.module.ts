@@ -42,7 +42,6 @@ export const watcherSettingsConsumables = {
       decisionKind: "decision-kind/departure",
       statement: "A data file the inventory shape refuses is a failure rather than an inventory.",
     },
-
     {
       decisionKind: "decision-kind/departure",
       statement: "An account holding no inventory settings at all is answered an empty rule set.",

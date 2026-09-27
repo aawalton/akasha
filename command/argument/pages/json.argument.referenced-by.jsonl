@@ -71,7 +71,6 @@
 {"propertySlug":"argument","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.ts","id":"01a0603c-c1ce-749d-a434-9035b90e6e37"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/bank/profile/temper-inventory-bank-profile.command.ts","id":"01a0603c-c1ce-74dd-8c14-84a8dc5bd418"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.ts","id":"01a0603c-c1cf-7944-91f2-3c13783517fa"}
-{"propertySlug":"argument","path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.ts","id":"01a0603c-c1d0-7e92-8585-751f1a226c8f"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.ts","id":"01a0603c-c1d1-78cf-9174-01514c3d023a"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.ts","id":"01a095a3-61d5-77ef-98a6-20d7e3eee889"}
 {"propertySlug":"argument","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts","id":"01a0603c-c1d9-7bdc-8aab-dcc717f3de9b"}
@@ -184,7 +183,6 @@
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/inventory/automation/list/temper-inventory-automation-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/inventory/bank/profile/temper-inventory-bank-profile.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"json.argument.ts","path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts","typed":false,"deferred":false}

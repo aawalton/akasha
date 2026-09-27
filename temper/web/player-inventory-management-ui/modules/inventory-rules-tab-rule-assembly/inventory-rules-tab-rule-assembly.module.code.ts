@@ -19,7 +19,6 @@ interface AssembledInventoryRules {
   allRulesForMatching: readonly CategoryRule[]
   globalPriorityMap: Map<string, number>
   deferredItemRules: readonly ItemRule[] | undefined
-
   deferredAllRulesForMatching: readonly CategoryRule[]
   duplicateRuleIds: Set<string>
   itemRules: readonly ItemRule[]
@@ -50,7 +49,6 @@ export function useAssembledInventoryRules(
 
   const deferredRules = useDeferredValue(localSettings.rules)
   const deferredItemRules = useDeferredValue(localSettings.itemRules)
-
   const deferredAllRulesForMatching = useMemo(
     () => [...controlledCharacterRules, ...controlledCompanionRules, ...deferredRules],
     [controlledCharacterRules, controlledCompanionRules, deferredRules]

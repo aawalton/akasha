@@ -1,6 +1,5 @@
 import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
 import type { ItemCategoriesKeyed } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
-import type { BuySource } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import {
   destinationFormsSaid,
   narrowDestination,
@@ -32,8 +31,6 @@ export function narrowCategoryId(
 }
 
 const STOCK_SCOPE_VALUES = ["current-character", "any-character"] as const
-
-export const BUY_SOURCE_VALUES: readonly BuySource[] = ["merchant"]
 
 export function narrowItemAction(value: string, flagName: string): ItemAction {
   const found = ITEM_ACTION_VALUES.find((one) => one === value)

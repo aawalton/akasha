@@ -23,7 +23,6 @@ export const temperInventory = {
     "command/temper-inventory-venue-trace",
     "namespace/temper-inventory-automation",
     "namespace/temper-inventory-bank",
-    "namespace/temper-inventory-buy-rule",
     "namespace/temper-inventory-item-rule",
     "namespace/temper-inventory-master",
     "namespace/temper-inventory-rule",

@@ -9,18 +9,11 @@ import {
 import type { Answer } from "akasha/command/modules/calling/calling.module.code.ts"
 import { emitTsv } from "akasha/temper/command/modules/format-output/format-output.module.code.ts"
 import {
-  BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,
   itemRuleRow,
   RULE_SHOW_COLUMNS,
 } from "akasha/temper/command/modules/inventory-rule-rows/inventory-rule-rows.module.code.ts"
 import { inventorySettings } from "akasha/temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.code.ts"
-import {
-  duplicateBuyRule,
-  lockBuyRule,
-  removeBuyRule,
-} from "akasha/temper/items/rules/core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
-import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import { buildAllControlledRules } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import {
   duplicateCategoryRule,
@@ -36,7 +29,7 @@ import type {
   ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-type Kind = "category" | "item" | "buy"
+type Kind = "category" | "item"
 
 type Held = { readonly id: string; readonly locked?: boolean }
 
@@ -64,18 +57,6 @@ export function categoryRow(rule: CategoryRule): Record<string, unknown> {
   }
 }
 
-function buyRuleRow(rule: BuyRule): Record<string, unknown> {
-  return {
-    id: rule.id,
-    itemId: rule.itemId,
-    itemName: rule.itemName,
-    targetQuantity: rule.targetQuantity,
-    source: rule.source,
-    active: rule.active,
-    locked: rule.locked,
-  }
-}
-
 const KINDLY: Record<Kind, Kindly> = {
   category: {
     named: "category rule",
@@ -94,15 +75,6 @@ const KINDLY: Record<Kind, Kindly> = {
     copying: duplicateItemRule,
     rowOf: (rule) => itemRuleRow(rule as ItemRule),
     columns: ITEM_RULE_COLUMNS,
-  },
-  buy: {
-    named: "buy rule",
-    heldIn: (settings) => settings.buyRules ?? [],
-    locking: lockBuyRule,
-    dropping: removeBuyRule,
-    copying: duplicateBuyRule,
-    rowOf: (rule) => buyRuleRow(rule as BuyRule),
-    columns: BUY_RULE_COLUMNS,
   },
 }
 

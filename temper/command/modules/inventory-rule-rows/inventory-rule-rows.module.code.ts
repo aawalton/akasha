@@ -11,16 +11,6 @@ export const ITEM_RULE_COLUMNS = [
   "destination",
 ] as const
 
-export const BUY_RULE_COLUMNS = [
-  "id",
-  "itemId",
-  "itemName",
-  "targetQuantity",
-  "source",
-  "active",
-  "locked",
-] as const
-
 export const RULE_SHOW_COLUMNS = [
   "id",
   "title",

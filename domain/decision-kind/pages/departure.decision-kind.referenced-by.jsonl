@@ -2445,14 +2445,6 @@
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.ts","id":"01a0603c-c1ce-7042-a37c-880bfd4380f9"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/bank/profile/temper-inventory-bank-profile.command.ts","id":"01a0603c-c1ce-74dd-8c14-84a8dc5bd418"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.ts","id":"01a0603c-c1cf-7944-91f2-3c13783517fa"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.ts","id":"01a0603c-c1cf-7f09-859a-70e4e6aaa5e3"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/buy-rule/delete/temper-inventory-buy-rule-delete.command.ts","id":"01a0603c-c1cf-7d7d-8d74-72103cd55734"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/buy-rule/duplicate/temper-inventory-buy-rule-duplicate.command.ts","id":"01a0603c-c1cf-724f-8dcf-c1faa571392d"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/buy-rule/list/temper-inventory-buy-rule-list.command.ts","id":"01a0603c-c1d0-7e92-8585-751f1a226c8f"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/buy-rule/lock/temper-inventory-buy-rule-lock.command.ts","id":"01a0603c-c1d0-727d-9e10-7b3b2d6bec58"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/buy-rule/show/temper-inventory-buy-rule-show.command.ts","id":"01a0603c-c1d1-7af1-a8ec-2f502e0eb1db"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/buy-rule/unlock/temper-inventory-buy-rule-unlock.command.ts","id":"01a0603c-c1d1-7388-9210-2b06caa8d25f"}
-{"propertySlug":"decision-kind","path":"command/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.ts","id":"01a0603c-c1d1-7778-bcb7-99cee8e25369"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.ts","id":"01a0603c-c1d1-78cf-9174-01514c3d023a"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.ts","id":"01a095a3-61d5-77ef-98a6-20d7e3eee889"}
 {"propertySlug":"decision-kind","path":"command/pages/temper/inventory/configuration/temper-inventory-configuration.command.ts","id":"01a0603c-c1d9-7bdc-8aab-dcc717f3de9b"}

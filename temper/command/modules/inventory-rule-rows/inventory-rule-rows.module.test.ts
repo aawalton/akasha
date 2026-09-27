@@ -1,6 +1,5 @@
 import { describe, expect, test } from "bun:test"
 import {
-  BUY_RULE_COLUMNS,
   ITEM_RULE_COLUMNS,
   itemRuleRow,
   RULE_SHOW_COLUMNS,
@@ -40,13 +39,7 @@ describe("itemRuleRow", () => {
 describe("the column sets", () => {
   test("every listing names its id first", () => {
     expect(ITEM_RULE_COLUMNS[0]).toBe("id")
-    expect(BUY_RULE_COLUMNS[0]).toBe("id")
     expect(RULE_SHOW_COLUMNS[0]).toBe("id")
-  })
-
-  test("a buy rule is listed by its target quantity and source", () => {
-    expect(BUY_RULE_COLUMNS).toContain("targetQuantity")
-    expect(BUY_RULE_COLUMNS).toContain("source")
   })
 
   test("a rule shown is listed by its category rather than its item", () => {

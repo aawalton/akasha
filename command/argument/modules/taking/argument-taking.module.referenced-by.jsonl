@@ -241,8 +241,6 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/bank/profile/temper-inventory-bank-profile.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/bank/trace/temper-inventory-bank-trace.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/capacity-audit/temper-inventory-capacity-audit.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts","typed":false,"deferred":false}
@@ -332,11 +330,6 @@
 {"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/talos/health/talos-health.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/temper/inventory/buy-rule/delete/temper-inventory-buy-rule-delete.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/temper/inventory/buy-rule/duplicate/temper-inventory-buy-rule-duplicate.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/temper/inventory/buy-rule/lock/temper-inventory-buy-rule-lock.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/temper/inventory/buy-rule/show/temper-inventory-buy-rule-show.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/temper/inventory/buy-rule/unlock/temper-inventory-buy-rule-unlock.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/temper/inventory/item-rule/delete/temper-inventory-item-rule-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/temper/inventory/item-rule/duplicate/temper-inventory-item-rule-duplicate.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.test-fixtures.ts","path":"command/pages/temper/inventory/item-rule/lock/temper-inventory-item-rule-lock.command.test.ts","typed":false,"deferred":false}

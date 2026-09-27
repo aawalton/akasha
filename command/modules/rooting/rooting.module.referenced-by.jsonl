@@ -126,13 +126,6 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/talos/config-gen/talos-config-gen.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/talos/health/talos-health.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/buy-rule/delete/temper-inventory-buy-rule-delete.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/buy-rule/duplicate/temper-inventory-buy-rule-duplicate.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/buy-rule/lock/temper-inventory-buy-rule-lock.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/buy-rule/show/temper-inventory-buy-rule-show.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/buy-rule/unlock/temper-inventory-buy-rule-unlock.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/buy-rule/update/temper-inventory-buy-rule-update.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/item-rule/create/temper-inventory-item-rule-create.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/item-rule/delete/temper-inventory-item-rule-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"command/pages/temper/inventory/item-rule/duplicate/temper-inventory-item-rule-duplicate.command.test.ts","typed":false,"deferred":false}

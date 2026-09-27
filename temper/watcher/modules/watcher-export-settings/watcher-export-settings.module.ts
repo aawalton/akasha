@@ -88,7 +88,6 @@ export const watcherExportSettings = {
       statement:
         "Automation reaches the file only where automation has a characters record and a companions record.",
     },
-
     {
       decisionKind: "decision-kind/departure",
       statement: "A side file is written only where the caller named a path for that file.",

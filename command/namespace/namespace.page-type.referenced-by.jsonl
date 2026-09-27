@@ -62,7 +62,6 @@
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/temper/eso/temper-eso.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/temper/inventory/automation/temper-inventory-automation.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/temper/inventory/bank/temper-inventory-bank.namespace.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/temper/inventory/buy-rule/temper-inventory-buy-rule.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/temper/inventory/item-rule/temper-inventory-item-rule.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/temper/inventory/master/temper-inventory-master.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/temper/inventory/rule/temper-inventory-rule.namespace.ts","typed":true,"deferred":false}

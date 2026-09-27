@@ -71,20 +71,3 @@ export function duplicateBuyRule(settings: InventoryRules, ruleId: string): Inve
   newBuyRules.splice(sourceIndex + 1, 0, clone)
   return { ...settings, buyRules: newBuyRules }
 }
-
-export function bulkUpdateBuyRules(
-  settings: InventoryRules,
-  ruleIds: readonly string[],
-  patch: Partial<
-    Pick<BuyRule, "targetQuantity" | "source" | "active" | "goal" | "title" | "notes">
-  >,
-  opts?: { force?: boolean }
-): InventoryRules {
-  const idSet = new Set(ruleIds)
-  return {
-    ...settings,
-    buyRules: (settings.buyRules ?? []).map((r) =>
-      idSet.has(r.id) && (opts?.force || !r.locked) ? { ...r, ...patch, updatedAt: Date.now() } : r
-    ),
-  }
-}

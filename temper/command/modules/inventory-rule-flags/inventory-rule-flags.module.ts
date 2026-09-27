@@ -27,10 +27,6 @@ export const inventoryRuleFlags = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The sources a buy rule may take are the ones the rules package declares.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
       statement: "A condition and a destination chain arrive as JSON.",
     },
     {

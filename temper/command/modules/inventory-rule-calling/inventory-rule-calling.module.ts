@@ -11,7 +11,7 @@ export const inventoryRuleCalling = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The category rules and the item rules and the buy rules have one act set.",
+      statement: "The category rules and the item rules have one act set.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -119,7 +119,7 @@ export const inventoryRuleCalling = {
     {
       decisionKind: "decision-kind/stopgap",
       statement:
-        "An item rule or buy rule write is worked out and then refused, since only a rule is a page yet.",
+        "An item rule write is worked out and then refused, since only a rule is a page yet.",
     },
     {
       decisionKind: "decision-kind/departure",
