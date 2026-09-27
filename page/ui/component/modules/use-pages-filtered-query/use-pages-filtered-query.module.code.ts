@@ -33,16 +33,16 @@ import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"
 
-const ANY_PAGES = "Items"
-
-function namedAsType(properties: Readonly<Record<string, unknown>> | undefined): string {
+function namedAsType(
+  properties: Readonly<Record<string, unknown>> | undefined,
+  asked: PageTypeSlug
+): string {
   const title = properties?.["title"]
   if (typeof title === "string" && title !== "") return title
   const plural = properties?.["pluralSlug"]
   if (typeof plural === "string" && plural !== "") return titledAs(plural)
   const slug = properties?.["slug"]
-  if (typeof slug === "string" && slug !== "") return titledAs(slug)
-  return ANY_PAGES
+  return titledAs(typeof slug === "string" && slug !== "" ? slug : asked)
 }
 
 export function groupedSlugOf(
@@ -80,7 +80,7 @@ export function usePagesFilteredQuery(args: {
     [pageTypes]
   )
 
-  const pageTypeName = namedAsType(targetPageType?.properties)
+  const pageTypeName = namedAsType(targetPageType?.properties, pageTypeSlug)
 
   const baseFilters = useMemo<readonly ViewFilter[]>(
     () => buildBaseFilters(searchParams),

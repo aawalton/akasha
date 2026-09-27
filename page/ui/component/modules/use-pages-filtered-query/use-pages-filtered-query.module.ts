@@ -18,6 +18,10 @@ export const usePagesFilteredQuery = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page type not yet read is named by the slug the listing asked for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A listing config handed in is read rather than the one the page type states.",
     },
   ],
