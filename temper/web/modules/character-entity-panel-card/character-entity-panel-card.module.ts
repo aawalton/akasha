@@ -6,4 +6,10 @@ export const characterEntityPanelCard = {
   slug: "character-entity-panel-card",
   definition: "a panel card naming a character",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

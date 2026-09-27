@@ -6155,6 +6155,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-editor-content/character-editor-content.module.ts","id":"01a06589-8d61-7000-ba09-7e4fd000c64c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-editor-header/character-editor-header.module.ts","id":"01a0642c-5b86-784e-a52e-216b681ef987"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-editor-tabs-list/character-editor-tabs-list.module.ts","id":"01a0642c-5b87-7905-916b-30572f40b7dd"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/character-entity-panel-card/character-entity-panel-card.module.ts","id":"01a0642c-5b89-7569-8055-280e439c99a1"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-level-panel-card/character-level-panel-card.module.ts","id":"01a06421-f74b-7fa3-954a-6f7d00050015"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-live-only-panel-card/character-live-only-panel-card.module.ts","id":"01a0642c-5b8c-7103-bb20-3b45d03008e8"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-management-panel-card/character-management-panel-card.module.ts","id":"01a06589-8d6b-7000-a576-a0cff7027bd0"}

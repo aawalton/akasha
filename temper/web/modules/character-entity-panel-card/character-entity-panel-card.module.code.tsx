@@ -21,6 +21,11 @@ import {
   characterRoles,
   type RoleId,
 } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { characterEntityPanelCardLive } from "akasha/temper/web/phrase/pages/character-entity-panel-card-live.temper-web-phrase.ts"
+import { characterEntityPanelCardTarget } from "akasha/temper/web/phrase/pages/character-entity-panel-card-target.temper-web-phrase.ts"
+import { characterEntityPanelCardUnknownCharacter } from "akasha/temper/web/phrase/pages/character-entity-panel-card-unknown-character.temper-web-phrase.ts"
+import { characterEntityPanelCardUntitled } from "akasha/temper/web/phrase/pages/character-entity-panel-card-untitled.temper-web-phrase.ts"
 
 interface CharacterPlanBuild {
   id: string
@@ -61,6 +66,7 @@ function BuildRow({
   getRaceName: (raceId: RaceId) => string
 }) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const classId = build.buildData?.character?.class
   const raceId = build.buildData?.character?.race
   const className = classId != null && classId !== "no-class" ? getClassName(classId) : null
@@ -73,10 +79,14 @@ function BuildRow({
     >
       <div className="flex items-center justify-between gap-2">
         <span className="truncate text-primary text-sm">
-          {build.name !== "" ? build.name : "Untitled Build"}
+          {build.name !== "" ? build.name : phrase(characterEntityPanelCardUntitled.slug)}
         </span>
         <Badge variant="elevation" className="shrink-0">
-          {variant === "live" ? "Live" : "Target"}
+          {phrase(
+            variant === "live"
+              ? characterEntityPanelCardLive.slug
+              : characterEntityPanelCardTarget.slug
+          )}
         </Badge>
       </div>
       {(className != null || raceName != null) && (
@@ -108,6 +118,7 @@ export function CharacterEntityPanelCard({
   totalEntities,
   onReorder,
 }: CharacterEntityPanelCardProps) {
+  const phrase = usePhrase()
   const liveBuildData = entity.liveBuild.buildData
 
   const characterName =
@@ -137,7 +148,9 @@ export function CharacterEntityPanelCard({
   return (
     <PanelCard id={`character-entity-${entity.entityId}`} className="h-auto justify-between">
       <CardContent className="flex flex-col gap-3">
-        <CardTitle className="text-lg">{characterName ?? "Unknown Character"}</CardTitle>
+        <CardTitle className="text-lg">
+          {characterName ?? phrase(characterEntityPanelCardUnknownCharacter.slug)}
+        </CardTitle>
         {(onReorder != null ||
           className != null ||
           raceName != null ||
