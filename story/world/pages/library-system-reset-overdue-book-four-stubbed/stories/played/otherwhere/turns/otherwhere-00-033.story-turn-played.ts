@@ -17,13 +17,13 @@ export const otherwhere00033 = {
     "character-other/otherwhere-engorged-bookworm-05",
     "character-other/otherwhere-engorged-bookworm-06",
   ],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“Okay, we’ll start there.” I quietly go back and get the cooler and collect the dormant bookworms, the start spring books back onto the shelves, taking care to listen for the large bookworm and stay far away from it.",
   beats: [
     '"Okay, we\'ll start there," Nala says.',
     "In the break room she empties the dead cooler, a knee-high chest, and drags it out into the hall.",
-    "She keeps well out from the back steps, listening, but no roar comes from the dark.",
+    "She keeps well out from the back steps; no roar comes, only the wet chewing in the gloom.",
     "The coils weigh a few pounds each; she carries them two at a time and packs all five in.",
     "She drags the loaded cooler back to the break room and shuts its lid on them.",
     "A tone rings through the hall, and the alarm she'd stopped hearing falls silent.",
