@@ -15,4 +15,5 @@ export const image4a2bc285675ddac7 = {
   height: 1216,
   quantize: 8,
   serviceVersions: ["mlx-openai-server 1.8.1", "mlx 0.31.0", "mlx-metal 0.31.0"],
+  subjects: "F",
 } as const satisfies Image

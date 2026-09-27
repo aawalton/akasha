@@ -11,4 +11,5 @@ export const imageD8f19c3b60ccaeab = {
   softness: 0.45,
   resolution: "1500",
   serviceVersions: ["mlx 0.31.0"],
+  subjects: "F",
 } as const satisfies Image

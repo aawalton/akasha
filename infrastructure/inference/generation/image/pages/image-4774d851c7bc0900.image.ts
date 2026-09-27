@@ -5,4 +5,5 @@ export const image4774d851c7bc0900 = {
   type: "page-type/image",
   slug: "image-4774d851c7bc0900",
   title: "Outshine fruit bar, 1 pop",
+  subjects: "F",
 } as const satisfies Image

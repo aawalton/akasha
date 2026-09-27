@@ -10,4 +10,5 @@ export const image2056cab940856db3 = {
   prompt:
     "Create a new ultra widescreen image that keeps the subject woman exactly the same in all respects — identical face, head pose, expression, direct eye contact, hair, and gold one-shoulder draped gown — but places her in a brand new strong right composition: she stands in the right third of the frame, emerging from deep darkness. The rest of the frame is near-black shadow: the glowing golden warp threads she touches trail away to the left and dissolve into the darkness, fading like embers, with no visible structure, no far loom frame, no background objects — only darkness and the dying gold light of the threads. All the light in the scene comes from the glowing threads, warm gold on her face, hands, and gown. The full scene should have consistent orientation lines.",
   inputImage: "image/image-070d57a5af44b12c",
+  subjects: "F",
 } as const satisfies Image

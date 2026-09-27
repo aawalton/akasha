@@ -12,4 +12,5 @@ export const image29ffc8f878ad1576 = {
   resolution: "1440",
   inputImage: "image/image-021b41354170be5a",
   serviceVersions: ["mlx 0.31.0"],
+  subjects: "FF",
 } as const satisfies Image

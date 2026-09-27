@@ -10,4 +10,5 @@ export const image002855af801b7865 = {
     "setting-tag/rocks",
     "setting-tag/sunset",
   ],
+  subjects: "F",
 } as const satisfies Image

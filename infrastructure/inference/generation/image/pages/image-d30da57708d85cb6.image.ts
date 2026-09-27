@@ -6,4 +6,5 @@ export const imageD30da57708d85cb6 = {
   slug: "image-d30da57708d85cb6",
   title: "Zadi cover L4",
   relationshipLevel: "closeness-level/level-4",
+  subjects: "F",
 } as const satisfies Image

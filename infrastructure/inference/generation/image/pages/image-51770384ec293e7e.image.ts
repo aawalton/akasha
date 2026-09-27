@@ -5,4 +5,5 @@ export const image51770384ec293e7e = {
   type: "page-type/image",
   slug: "image-51770384ec293e7e",
   title: "Nova among the books",
+  subjects: "F",
 } as const satisfies Image

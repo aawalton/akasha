@@ -5,4 +5,5 @@ export const image404c923c0a7d3dc3 = {
   type: "page-type/image",
   slug: "image-404c923c0a7d3dc3",
   grade: "A-",
+  subjects: "F",
 } as const satisfies Image

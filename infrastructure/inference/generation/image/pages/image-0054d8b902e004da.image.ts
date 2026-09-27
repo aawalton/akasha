@@ -5,4 +5,5 @@ export const image0054d8b902e004da = {
   type: "page-type/image",
   slug: "image-0054d8b902e004da",
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
+  subjects: "F",
 } as const satisfies Image

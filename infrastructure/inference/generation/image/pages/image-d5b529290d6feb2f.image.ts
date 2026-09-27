@@ -11,4 +11,5 @@ export const imageD5b529290d6feb2f = {
   prompt:
     "Keep this young woman's face, short dark brunette wavy bob, large wide-set blue eyes, very fair flawless porcelain skin, small delicate nose and mouth, youthful sweet appearance, and her cream-and-crimson healer's robes with gold sun embroidery EXACTLY the same. Change ONLY her pose and expression. Photoreal full portrait, warm golden dawn light, soft natural background. Pose and expression: head softly tilted, a gentle caring smile, one hand resting near her heart, soft and kind",
   inputImage: "image/image-43da1244f9ca3e60",
+  subjects: "F",
 } as const satisfies Image

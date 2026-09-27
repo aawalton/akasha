@@ -5,4 +5,5 @@ export const image01602296cc9a4a77 = {
   type: "page-type/image",
   slug: "image-01602296cc9a4a77",
   settingTags: ["setting-tag/forest", "setting-tag/night"],
+  subjects: "F",
 } as const satisfies Image

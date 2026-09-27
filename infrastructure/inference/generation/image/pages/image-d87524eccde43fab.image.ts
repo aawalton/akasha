@@ -10,4 +10,5 @@ export const imageD87524eccde43fab = {
   prompt:
     "Add a matched pair of slender swept-back ridged horns of polished gold rising from her hair above her temples, growing naturally from her head as if they are her own, and a faint scatter of tiny gold-leaf scales high on her cheekbones. Keep her face, expression, hair, dress, hands, lighting, background, and framing exactly unchanged. Photorealistic, natural skin texture.",
   inputImage: "image/image-1d6f127f3b8be467",
+  subjects: "F",
 } as const satisfies Image

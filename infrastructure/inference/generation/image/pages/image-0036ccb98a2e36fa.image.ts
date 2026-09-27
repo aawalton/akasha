@@ -6,4 +6,5 @@ export const image0036ccb98a2e36fa = {
   slug: "image-0036ccb98a2e36fa",
   persona: "persona/aura",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
+  subjects: "F",
 } as const satisfies Image

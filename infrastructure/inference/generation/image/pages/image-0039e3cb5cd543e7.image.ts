@@ -5,4 +5,5 @@ export const image0039e3cb5cd543e7 = {
   type: "page-type/image",
   slug: "image-0039e3cb5cd543e7",
   settingTags: ["setting-tag/workshop"],
+  subjects: "F",
 } as const satisfies Image

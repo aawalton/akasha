@@ -10,4 +10,5 @@ export const image2752e53c83e5adec = {
   prompt:
     "Keep the composition, framing, pose, background, moon, and her exact face and identity unchanged. Change ONLY the lighting on her face and figure: light her with warm, soft studio lighting — a gentle golden key light on her face giving warm highlights and soft warm skin tones, as if lit by a warm portrait softbox, while the surrounding forest and moon stay cool and dark. Warm flattering glow on her face, cool moody background. Photorealistic, realistic skin texture, sharp focus.",
   inputImage: "image/image-d0b73415fd1efd54",
+  subjects: "F",
 } as const satisfies Image

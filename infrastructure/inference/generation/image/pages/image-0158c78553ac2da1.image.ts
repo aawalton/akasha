@@ -21,4 +21,5 @@ export const image0158c78553ac2da1 = {
     "setting-tag/city",
     "setting-tag/daytime",
   ],
+  subjects: "F",
 } as const satisfies Image

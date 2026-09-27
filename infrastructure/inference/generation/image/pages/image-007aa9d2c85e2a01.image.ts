@@ -20,4 +20,5 @@ export const image007aa9d2c85e2a01 = {
     "setting-tag/rocks",
     "setting-tag/daytime",
   ],
+  subjects: "F",
 } as const satisfies Image

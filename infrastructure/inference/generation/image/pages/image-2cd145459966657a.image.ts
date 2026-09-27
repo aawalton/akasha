@@ -7,4 +7,5 @@ export const image2cd145459966657a = {
   title: "Abby cover L1",
   grade: "A+",
   relationshipLevel: "closeness-level/level-1",
+  subjects: "F",
 } as const satisfies Image

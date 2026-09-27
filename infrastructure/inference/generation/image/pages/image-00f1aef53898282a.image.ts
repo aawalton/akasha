@@ -5,4 +5,5 @@ export const image00f1aef53898282a = {
   type: "page-type/image",
   slug: "image-00f1aef53898282a",
   settingTags: ["setting-tag/cave", "setting-tag/ruins"],
+  subjects: "MMM",
 } as const satisfies Image

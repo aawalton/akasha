@@ -16,4 +16,5 @@ export const image010bbc07500666f2 = {
   quantize: 8,
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/nature"],
+  subjects: "F",
 } as const satisfies Image

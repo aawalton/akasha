@@ -10,4 +10,5 @@ export const image271a90df0aa2e0b9 = {
   seed: 536808492,
   resolution: "1500",
   serviceVersions: ["mlx 0.31.0"],
+  subjects: "F",
 } as const satisfies Image

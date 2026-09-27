@@ -11,4 +11,5 @@ export const image42f3632f6175d8c8 = {
     "Remove the second moon in the upper-left of the frame — there must be only ONE moon in the sky: the full moon in the upper-right behind the woman, exactly as it is. Where the upper-left moon was, continue the natural night sky with the same deep blue gradient and faint stars. Change absolutely nothing else — the woman (match her face exactly to the reference image), the microphone, the gorge, the river, the mist, the railing, the lamp, and the right-side moon all stay identical.",
   inputImage: "image/image-c1547816a1bca125",
   referenceImages: ["image/image-b76ab03f19af0c86"],
+  subjects: "F",
 } as const satisfies Image

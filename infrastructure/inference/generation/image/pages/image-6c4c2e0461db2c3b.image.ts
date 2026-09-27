@@ -11,4 +11,5 @@ export const image6c4c2e0461db2c3b = {
     "Recompose this exact same woman at a distance, small in the frame, full body standing in a wide open grassy park meadow facing the camera, natural daylight, lots of environment around her. Her face is small but her features remain recognizable and consistent with the reference. Preserve her exact hair color, length and style, her build and skin tone — same person as the reference image. Photorealistic wide environmental photograph, natural proportions, correct anatomy.",
   inputImage: "image/image-2cd145459966657a",
   referenceImages: ["image/image-2cd145459966657a"],
+  subjects: "F",
 } as const satisfies Image

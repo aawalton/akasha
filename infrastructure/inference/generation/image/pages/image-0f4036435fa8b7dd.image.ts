@@ -10,4 +10,5 @@ export const image0f4036435fa8b7dd = {
   prompt:
     "Extend this portrait into a cinematic ultrawide 21:9 frame. Keep the woman EXACTLY as in the reference — the same extreme close-up of her face and bare shoulders, the same scale, the same features, the same intense cosmic-blue eyes, the golden star-freckles on her face, the dark wavy hair with scattered golden starlight, the same soft lighting and faint inner glow. Do NOT relight her, do not change her face, do not zoom out from her. Position her toward the RIGHT side of the wide frame. Extend ONLY the existing deep indigo-blue cosmic background outward — the same dark starfield and faint golden stardust — seamlessly filling the LEFT of the frame with calm, open, uncluttered cosmic space. Photorealistic, a seamless continuation of the existing scene's colors and light.",
   inputImage: "image/image-50f66899f612c4bf",
+  subjects: "F",
 } as const satisfies Image

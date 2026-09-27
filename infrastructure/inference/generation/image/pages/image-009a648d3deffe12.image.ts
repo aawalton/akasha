@@ -5,4 +5,5 @@ export const image009a648d3deffe12 = {
   type: "page-type/image",
   slug: "image-009a648d3deffe12",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sky"],
+  subjects: "FFM",
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image748a00e9ad205d03 = {
     "Recompose this exact same woman seen from directly behind, full body, walking away from the camera along a busy city sidewalk, bright natural daylight, buildings and pedestrians softly blurred. Face not visible. Preserve her exact hair color, length and style, her build and skin tone — same person as the reference image. Photorealistic street photograph, natural proportions, correct anatomy, two arms two legs.",
   inputImage: "image/image-2cd145459966657a",
   referenceImages: ["image/image-2cd145459966657a"],
+  subjects: "F",
 } as const satisfies Image

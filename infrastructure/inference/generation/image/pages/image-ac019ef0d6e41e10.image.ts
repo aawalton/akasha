@@ -11,4 +11,5 @@ export const imageAc019ef0d6e41e10 = {
     "Recompose this exact same woman seen from behind, full body, walking away across wet sand at the edge of a beach at sunset, gentle waves, warm backlight. Face not visible. Preserve her exact hair color, length and style, her build and skin tone — same person as the reference image. Photorealistic candid photograph, natural proportions, correct anatomy.",
   inputImage: "image/image-2cd145459966657a",
   referenceImages: ["image/image-2cd145459966657a"],
+  subjects: "F",
 } as const satisfies Image

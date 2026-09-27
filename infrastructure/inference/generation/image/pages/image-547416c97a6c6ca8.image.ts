@@ -10,4 +10,5 @@ export const image547416c97a6c6ca8 = {
   prompt:
     "Keep the exact same woman from the reference image -- identical face, bone structure, nose, lips, jawline, and her fair, freckled skin, and the same natural hair length and texture. Keep her hair its natural coppery-red color, long and softly waved -- do not darken it to brown or change it to blonde -- and keep her natural hazel-green eyes and warm, freckled features exactly as in the reference. Do not slim, age, beautify, or glamorize her features. Render her freckles as a sparse, flat dusting of small pale gingery-tan pigment freckles thinly across the nose-bridge and the tops of the cheeks only, with most of the face clear smooth skin; do not render acne, pimples, raised bumps, or red or dark clustered spots. Recompose the reference into ONE entirely new photograph: sitting at a window table in a cozy cafe, warm afternoon light, hair in a loose low ponytail, wearing a chambray denim shirt, calm soft smile, candid photo. Natural skin texture, realistic photographic lighting, sharp focus on the face. photo",
   inputImage: "image/image-db929a98a98dee9c",
+  subjects: "F",
 } as const satisfies Image

@@ -7,4 +7,5 @@ export const image002a479ca8547c1d = {
   grade: "S-",
   persona: "persona/aelwyn",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/indoor"],
+  subjects: "F",
 } as const satisfies Image

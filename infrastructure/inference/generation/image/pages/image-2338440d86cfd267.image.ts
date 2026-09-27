@@ -6,4 +6,5 @@ export const image2338440d86cfd267 = {
   slug: "image-2338440d86cfd267",
   title: "Ruby cover L1",
   relationshipLevel: "closeness-level/level-1",
+  subjects: "F",
 } as const satisfies Image

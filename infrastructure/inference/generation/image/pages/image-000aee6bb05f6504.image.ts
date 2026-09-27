@@ -5,4 +5,5 @@ export const image000aee6bb05f6504 = {
   type: "page-type/image",
   slug: "image-000aee6bb05f6504",
   settingTags: ["setting-tag/water", "setting-tag/dimly-lit", "setting-tag/night"],
+  subjects: "F",
 } as const satisfies Image

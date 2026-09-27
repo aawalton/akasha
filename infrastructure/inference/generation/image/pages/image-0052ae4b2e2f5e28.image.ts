@@ -15,4 +15,5 @@ export const image0052ae4b2e2f5e28 = {
   quantize: 8,
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   settingTags: ["setting-tag/forest", "setting-tag/nature"],
+  subjects: "FF",
 } as const satisfies Image

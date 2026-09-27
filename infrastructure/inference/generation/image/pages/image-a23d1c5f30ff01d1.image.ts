@@ -7,4 +7,5 @@ export const imageA23d1c5f30ff01d1 = {
   title: "Athena — wallpaper L05 (Bonding)",
   esoDay: "2026-07-30",
   relationshipLevel: "closeness-level/level-5",
+  subjects: "F",
 } as const satisfies Image

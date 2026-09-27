@@ -24,4 +24,5 @@ export const imageC3f3f948e96081b0 = {
     "seedvr2-node 5a4bf428f3735cc72ac760d40f372f94dec28422",
     "torch-vision 0.24.1",
   ],
+  subjects: "F",
 } as const satisfies Image

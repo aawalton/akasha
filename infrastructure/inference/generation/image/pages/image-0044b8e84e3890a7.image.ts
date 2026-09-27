@@ -12,4 +12,5 @@ export const image0044b8e84e3890a7 = {
   inputImage: "image/image-2cd55ce9e9fc582d",
   referenceImages: ["image/image-bd3140298ad22250"],
   settingTags: ["setting-tag/dark-background", "setting-tag/abstract-background"],
+  subjects: "F",
 } as const satisfies Image

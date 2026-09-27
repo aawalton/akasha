@@ -16,4 +16,5 @@ export const image4576867c3d285dfe = {
   quantize: 8,
   inputImage: "image/image-e3274d67e3859b6b",
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
+  subjects: "F",
 } as const satisfies Image

@@ -6,4 +6,5 @@ export const image024d1b14c69f1fb0 = {
   slug: "image-024d1b14c69f1fb0",
   title: "Olwen in the gold wood",
   persona: "persona/olwen",
+  subjects: "F",
 } as const satisfies Image

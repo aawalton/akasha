@@ -7,4 +7,5 @@ export const imageFe2eb5731e8768e8 = {
   title: "Aura — wallpaper L02 (Experimenting)",
   esoDay: "2026-08-12",
   relationshipLevel: "closeness-level/level-2",
+  subjects: "F",
 } as const satisfies Image

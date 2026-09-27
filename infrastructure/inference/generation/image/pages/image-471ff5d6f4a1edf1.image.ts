@@ -5,4 +5,5 @@ export const image471ff5d6f4a1edf1 = {
   type: "page-type/image",
   slug: "image-471ff5d6f4a1edf1",
   persona: "persona/aura",
+  subjects: "F",
 } as const satisfies Image
