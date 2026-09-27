@@ -9,6 +9,7 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import type { BuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { BuildActionButtons } from "akasha/temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"
 
 interface CompanionEditorHeaderProps {
@@ -44,6 +45,12 @@ export function CompanionEditorHeader({
   onRemix,
   remixDisabled,
 }: CompanionEditorHeaderProps) {
+  const phrase = usePhrase()
+  const untitled = phrase("companion-editor-header--untitled-build")
+  const visibilityLabel =
+    visibility === "live"
+      ? phrase("companion-editor-header--live")
+      : phrase("companion-editor-header--target")
   return (
     <div className="flex items-center justify-between gap-4">
       <div className="flex min-w-0 items-center gap-4">
@@ -54,15 +61,15 @@ export function CompanionEditorHeader({
         </Button>
         <div className="flex min-w-0 items-center gap-3">
           {nameReadOnly ? (
-            <h1 className={cn(PAGE_TITLE_CLASSES, "truncate")}>
-              {name !== "" ? name : "Untitled Build"}
-            </h1>
+            <h1 className={cn(PAGE_TITLE_CLASSES, "truncate")}>{name !== "" ? name : untitled}</h1>
           ) : (
             <InlineEditableText
               value={name}
               onChange={(v) => onUpdateMeta({ name: v })}
-              placeholder="Untitled Build"
-              validate={(v) => (v.trim().length === 0 ? "Build name is required" : null)}
+              placeholder={untitled}
+              validate={(v) =>
+                v.trim().length === 0 ? phrase("companion-editor-header--name-required") : null
+              }
               className={PAGE_TITLE_CLASSES}
             />
           )}
@@ -71,20 +78,24 @@ export function CompanionEditorHeader({
               <Badge variant="elevation" className="shrink-0 cursor-pointer" asChild>
                 <Link
                   href={partnerBuildUrl}
-                  title={visibility === "live" ? "Go to Target build" : "Go to Live build"}
+                  title={
+                    visibility === "live"
+                      ? phrase("companion-editor-header--go-to-target")
+                      : phrase("companion-editor-header--go-to-live")
+                  }
                 >
-                  {visibility === "live" ? "Live" : "Target"}
+                  {visibilityLabel}
                 </Link>
               </Badge>
             ) : (
               <Badge variant="elevation" className="shrink-0">
-                {visibility === "live" ? "Live" : "Target"}
+                {visibilityLabel}
               </Badge>
             )
           ) : !isOwner ? (
             <Badge variant="elevation-muted" className="shrink-0 gap-1">
               <Eye className="h-3 w-3" />
-              View Only
+              {phrase("companion-editor-header--view-only")}
             </Badge>
           ) : null}
         </div>
@@ -95,7 +106,9 @@ export function CompanionEditorHeader({
             <Button variant="secondary" size="sm" className={cn("gap-2", surfaceClass(1))} asChild>
               <Link href={browseHref}>
                 <Search className="h-4 w-4" />
-                <span className="@[1016px]:inline hidden">Browse</span>
+                <span className="@[1016px]:inline hidden">
+                  {phrase("companion-editor-header--browse")}
+                </span>
               </Link>
             </Button>
           )}
@@ -111,7 +124,9 @@ export function CompanionEditorHeader({
                 onClick={onSetTarget}
               >
                 <Target className="h-4 w-4" />
-                <span className="@[1016px]:inline hidden">Set Target</span>
+                <span className="@[1016px]:inline hidden">
+                  {phrase("companion-editor-header--set-target")}
+                </span>
               </Button>
             )}
           <Button
@@ -122,7 +137,9 @@ export function CompanionEditorHeader({
             onClick={onRemix}
           >
             <Copy className="h-4 w-4" />
-            <span className="@[1016px]:inline hidden">Remix</span>
+            <span className="@[1016px]:inline hidden">
+              {phrase("companion-editor-header--remix")}
+            </span>
           </Button>
         </div>
       ) : (

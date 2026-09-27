@@ -6,4 +6,10 @@ export const companionEditorHeader = {
   slug: "companion-editor-header",
   definition: "the header a companion's editor draws",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
