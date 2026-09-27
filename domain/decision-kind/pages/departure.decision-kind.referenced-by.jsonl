@@ -4174,6 +4174,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/guild-history/modules/sales-history-status-window/sales-history-status-window.module.ts","id":"01a06197-4c9c-7d54-9cfe-eec960253bbb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/inventory-config-file/inventory-config-file.lua-module.ts","id":"01a06258-b536-7417-855d-e9bd5aa14816"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-assistant-chain/inventory-assistant-chain.module.ts","id":"01a0c9a1-4d3e-7c10-9f2b-6a51d0c3e8b4"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.ts","id":"01a06258-b526-7d25-ae50-a9ad55256535"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-trace-fold/inventory-bank-trace-fold.module.ts","id":"01a06258-b528-7c01-a1ff-06f7e3a14a57"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.ts","id":"01a06258-b528-744f-9bd2-f905f500edb0"}

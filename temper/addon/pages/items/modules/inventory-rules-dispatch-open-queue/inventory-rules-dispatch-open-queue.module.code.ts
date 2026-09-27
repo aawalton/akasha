@@ -2,6 +2,8 @@ import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/r
 import {
   getConfiguredBufferSlots,
   hasRoomAboveBuffer,
+  hasRoomToOpen,
+  slotsAnOpenTakes,
 } from "akasha/temper/addon/pages/items/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
@@ -113,7 +115,7 @@ function sayRoomWait(): undefined {
 }
 
 export function takeRoomForWaitingOpens(): boolean {
-  if (waitingForRoom === undefined || !hasRoomAboveBuffer(waitingForRoom.lootSlots)) return false
+  if (waitingForRoom === undefined || !hasRoomAboveBuffer(waitingForRoom.slotsTaken)) return false
   waitingForRoom = undefined
   return true
 }
@@ -254,9 +256,10 @@ function processNextOpen(): undefined {
         }
       }
       const baseGameHasSpace = CheckInventorySpaceAndWarn(slotsNeeded)
-      if (!baseGameHasSpace || !hasRoomAboveBuffer(slotsNeeded)) {
+      const slotsTaken = slotsAnOpenTakes(slotsNeeded, stackBefore === 1)
+      if (!baseGameHasSpace || !hasRoomToOpen(slotsTaken)) {
         cleanupOpenLootEvents()
-        runRoomWait = waitForRoom(runRoomWait, slotsNeeded)
+        runRoomWait = waitForRoom(runRoomWait, slotsTaken)
         ATTEMPTED_OPEN_LINKS_HOLDER.set.add(entry.itemLink)
         clearPendingAction(entry.bagId, entry.slotIndex)
         zo_callLater(function (this: void): undefined {

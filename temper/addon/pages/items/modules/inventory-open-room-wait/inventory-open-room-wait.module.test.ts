@@ -9,16 +9,16 @@ describe("inventory-open-room-wait", () => {
     let wait = waitForRoom(undefined, 2)
     wait = waitForRoom(wait, 1)
     wait = waitForRoom(wait, 3)
-    expect(wait).toEqual({ containers: 3, lootSlots: 1 })
+    expect(wait).toEqual({ containers: 3, slotsTaken: 1 })
   })
 
   test("the line names the free slots the smallest open needs above the buffer", () => {
-    const wait = { containers: 9, lootSlots: 1 }
+    const wait = { containers: 9, slotsTaken: 1 }
     expect(roomWaitLine(wait, 15)).toBe("9 containers waiting: need 16 free slots")
   })
 
   test("a single container is named in the singular", () => {
-    expect(roomWaitLine({ containers: 1, lootSlots: 0 }, 15)).toBe(
+    expect(roomWaitLine({ containers: 1, slotsTaken: 0 }, 15)).toBe(
       "1 container waiting: need 15 free slots"
     )
   })

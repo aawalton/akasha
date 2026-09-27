@@ -16,3 +16,23 @@ function backpackFreeSlotsAboveBuffer(): number {
 export function hasRoomAboveBuffer(slotsNeeded: number): boolean {
   return backpackFreeSlotsAboveBuffer() >= slotsNeeded
 }
+
+export function slotsAnOpenTakes(lootSlots: number, containerSlotFreed: boolean): number {
+  return Math.max(0, lootSlots - (containerSlotFreed ? 1 : 0))
+}
+
+export function openFitsAboveBuffer(
+  slotsTaken: number,
+  freeSlots: number,
+  bufferSlots: number
+): boolean {
+  return slotsTaken === 0 || freeSlots - bufferSlots >= slotsTaken
+}
+
+export function hasRoomToOpen(slotsTaken: number): boolean {
+  return openFitsAboveBuffer(
+    slotsTaken,
+    GetNumBagFreeSlots(BAG_BACKPACK),
+    getConfiguredBufferSlots()
+  )
+}

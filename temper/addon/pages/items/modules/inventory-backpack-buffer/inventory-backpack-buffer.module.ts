@@ -6,4 +6,17 @@ export const inventoryBackpackBuffer = {
   slug: "inventory-backpack-buffer",
   definition: "how many backpack slots are kept free, and whether there is room above that buffer",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Opening a container counts the slot the container empties against the slots its loot takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An open whose loot takes no more slots than it empties needs no room above the buffer.",
+    },
+  ],
 } as const satisfies Module
