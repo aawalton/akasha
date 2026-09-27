@@ -41,7 +41,6 @@ const read = (c: CategoryRule["conditions"]) =>
 
 export const LOCATION_FILTER: InventoryRuleFilter = {
   id: "location",
-  label: "Location",
   priority: 4,
   isEligible: () => true,
   mutuallyExclusive: [],

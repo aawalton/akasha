@@ -16,5 +16,10 @@ export const locationFilter = {
       statement:
         "Worn and backpack are named by bag pages, every other location by location type pages.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement:
+        "This filter states no label; the rule card names it by its condition field title.",
+    },
   ],
 } as const satisfies Module

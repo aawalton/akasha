@@ -2110,6 +2110,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/modules/explain-walk/explain-walk.module.ts","id":"01a06036-188c-735e-bae8-be4f3d907a2f"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts","id":"01a068e2-226a-7523-928d-85398937e67c"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.ts","id":"01a072dd-5d04-75d2-8bb2-1d5b8ac04825"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/location-filter/location-filter.module.ts","id":"01a06100-3bf2-77cf-bcc7-b09945beb2f9"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/potion-restore-resolve/potion-restore-resolve.module.ts","id":"01a060d9-44cb-7685-bea5-8baa5a8a8943"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.ts","id":"01a06100-3bf9-77a0-a8e9-669771a20507"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}
