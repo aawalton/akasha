@@ -20,4 +20,5 @@ export const theDatingGame00023 = {
     "He turns onto Apple Avenue, his own street, quiet in the late Saturday afternoon.",
     "His house is just ahead at 1350.",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
