@@ -5,6 +5,8 @@ export const trueSworn = {
   type: "page-type/temper-motif-style",
   slug: "true-sworn",
   title: "True-Sworn",
+  esoItemStyleId: 116,
+  styleName: "True-Sworn",
   collectionIndex: 84,
   sourceDescription: "Black Drake Villa dungeon",
 } as const satisfies TemperMotifStyle
