@@ -24,8 +24,9 @@ export const temperRuleCardPhrase = {
       statement: "A name in braces in the title is filled from a page the card reads.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No phrase names a condition, a value or an action a page of its own names.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A lock reason names its action, filter and value in braces, filled from their pages.",
     },
   ],
   types: "ts",
