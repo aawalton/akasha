@@ -11,4 +11,5 @@ export const aria = {
   startMode: "seat-mode/interactive",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "e8d019fa-bc94-477c-b804-d9bac7cfb1a2",
 } as const satisfies Seat
