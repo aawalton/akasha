@@ -1161,7 +1161,6 @@
 {"propertySlug":"decision-kind","path":"temper/items/filters/addon/temper-items-filters-addon.domain.ts","id":"01a0614b-6734-767e-be82-2cfd13e1d6a8"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-eval-adapter/search-eval-adapter.module.ts","id":"01a0613a-e0a7-755c-8441-e2bc847bee09"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-item-name-filter/search-item-name-filter.module.ts","id":"01a0613a-e0a8-75a5-b44f-e3ccf7935549"}
-{"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-quality-filter/search-quality-filter.module.ts","id":"01a0613a-e0ab-7528-b275-c36c451d9da6"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.ts","id":"01a0613a-e0ac-785c-a9b6-1aa6dca2564d"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-server-narrowing/search-server-narrowing.module.ts","id":"01a0613a-e0ae-75b0-9cbe-58f1edfb2323"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-style-page-filter/search-style-page-filter.module.ts","id":"01a0613a-e0b0-7abb-9113-6a345a4c8717"}

@@ -16,8 +16,12 @@ export const searchQualityFilter = {
       statement: "An empty selection matches every item.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "The option values are the client quality numbers 0 through 5.",
+      decisionKind: "decision-kind/departure",
+      statement: "The options are the available quality pages, compiled in as the add-on compiles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An option's value is the quality's game number and its label the game's name.",
     },
   ],
 } as const satisfies Module
