@@ -17,6 +17,7 @@ export const worldCheck = {
     "world-check/harem-hotel-attack-resolution",
     "world-check/the-dating-game-closeness-scoring",
     "world-check/otherwhere-action-check",
+    "world-check/otherwhere-harm",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [

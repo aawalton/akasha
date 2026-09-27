@@ -3780,6 +3780,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/cornerstone-wakefulness-tier.page-type.ts","id":"01a0dee6-492e-7912-9c50-5b25d4ebb420"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/stories/written/cornerstone/mechanics/metrics/attributes/cornerstone-faculty.page-type.ts","id":"01a0dee4-467b-76be-b386-8f81567faec4"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/checks/otherwhere-action-check.world-check.ts","id":"01a0e35d-c37f-706b-b681-d6e791bc2b7a"}
+{"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/checks/otherwhere-harm.world-check.ts","id":"01a0e363-de4d-707a-b798-b425b58c417a"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/checks/harem-hotel-attack-resolution.world-check.ts","id":"01a0de4f-b413-77b3-9c4c-10de6f313ef8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/classes/harem-hotel-class.page-type.ts","id":"01a0de51-b972-7e50-a28d-49e039320ff6"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-leveling.world-derived-metric.ts","id":"01a0de4e-cf62-7069-8c91-a842c9cabc81"}
