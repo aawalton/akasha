@@ -116,9 +116,8 @@ export function CompanionEditorContent({ initialTab }: CompanionEditorContentPro
       await remix({ sourceId: buildId, newId, newBuildHash, newBuildMetadata })
       router.push(`${companionUrl(toBuildId(newId), remixedBuild.name)}?tab=companion`)
     } catch (error) {
-      toast.error(
-        error instanceof Error ? error.message : phrase(companionEditorContentRemixFailed.slug)
-      )
+      console.error("[companion-editor-content] remixing the build failed:", error)
+      toast.error(phrase(companionEditorContentRemixFailed.slug))
     } finally {
       setIsRemixing(false)
     }
