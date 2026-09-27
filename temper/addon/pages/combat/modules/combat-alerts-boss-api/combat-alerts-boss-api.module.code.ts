@@ -2,7 +2,7 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
 import type { OptionColor } from "akasha/temper/addon/pages/combat/modules/combat-alerts-options/combat-alerts-options.module.code.ts"
 
-export type BossStages = Record<number, string>
+type BossStages = Record<number, string>
 
 export interface BossThresholds {
   [percentage: number]: string
@@ -15,7 +15,7 @@ export interface BossThresholds {
   Hardmode?: BossThresholds
 }
 
-export type ThresholdsChangeListener = (this: void, name: string, isAdded: boolean) => void
+type ThresholdsChangeListener = (this: void, name: string, isAdded: boolean) => void
 
 export type BossHealthFunction = (
   this: void

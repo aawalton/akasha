@@ -67,16 +67,12 @@ export function getScaledFont(this: void, size: number): string {
   return CRUTCH.GetStyles().GetBHBFont(size * getScale())
 }
 
-export function setLabelColor(this: void, label: LabelControl, color: OptionColor): undefined {
+function setLabelColor(this: void, label: LabelControl, color: OptionColor): undefined {
   const [r, g, b, a] = unpack(color as [number, number, number, number])
   label.SetColor(r, g, b, a)
 }
 
-export function setCenterColor(
-  this: void,
-  backdrop: BackdropControl,
-  color: OptionColor
-): undefined {
+function setCenterColor(this: void, backdrop: BackdropControl, color: OptionColor): undefined {
   const [r, g, b, a] = unpack(color as [number, number, number, number])
   backdrop.SetCenterColor(r, g, b, a)
 }
@@ -205,7 +201,7 @@ BHB.GetFirstValidBossTag = function (this: void) {
   return ""
 }
 
-export interface BossHealth {
+interface BossHealth {
   current: number
   max: number
 }
