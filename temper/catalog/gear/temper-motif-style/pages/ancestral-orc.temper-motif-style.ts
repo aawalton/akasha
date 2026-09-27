@@ -5,6 +5,8 @@ export const ancestralOrc = {
   type: "page-type/temper-motif-style",
   slug: "ancestral-orc",
   title: "Ancestral Orc",
+  esoItemStyleId: 105,
+  styleName: "Ancestral Orc",
   collectionIndex: 74,
   sourceDescription: "Treasure maps and antiquities (DC zones)",
 } as const satisfies TemperMotifStyle
