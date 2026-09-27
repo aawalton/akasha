@@ -13,6 +13,8 @@ import { Input } from "akasha/design/interface/primitive/modules/input/input.mod
 import { Label } from "akasha/design/interface/primitive/modules/label/label.module.code.tsx"
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
 import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { dialogCancel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/dialog-cancel.web-phrase.ts"
+import { dialogDone } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/dialog-done.web-phrase.ts"
 import { featureRequestBoostButton } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boost-button.web-phrase.ts"
 import { featureRequestBoostPointsLabel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boost-points-label.web-phrase.ts"
 import { featureRequestBoostTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boost-title.web-phrase.ts"
@@ -111,12 +113,12 @@ export function BoostDialog({
         <DialogFooter>
           {boosted ? (
             <Button variant="accent" onClick={close}>
-              Done
+              {phrase(dialogDone.slug)}
             </Button>
           ) : (
             <>
               <Button variant="tertiary" onClick={close} disabled={working}>
-                Cancel
+                {phrase(dialogCancel.slug)}
               </Button>
               <Button
                 variant="accent"

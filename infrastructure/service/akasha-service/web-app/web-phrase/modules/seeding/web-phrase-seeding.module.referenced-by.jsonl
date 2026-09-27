@@ -9,5 +9,6 @@
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"product/audhdalan/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"product/audhdalan/web/routes/audhdalan-api-subscribe/audhdalan-api-subscribe.route.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"product/kofi/feature-request/modules/asking/feature-request-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"product/wandering-inn-wiki/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/web-app/web-phrase/web-phrase.page-type.ts","id":"01a0e2cf-ad28-78e4-9bdf-143ec9e12032"}

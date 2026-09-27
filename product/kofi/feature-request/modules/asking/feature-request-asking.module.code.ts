@@ -1,4 +1,8 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { phrasingRead } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
+import { featureRequestNoPoints } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-no-points.web-phrase.ts"
+import { featureRequestNothingToDo } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-nothing-to-do.web-phrase.ts"
+import { featureRequestSignedOut } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-signed-out.web-phrase.ts"
 import {
   boostedBy,
   type Landed,
@@ -9,11 +13,13 @@ const PROPOSE = "propose"
 
 const BOOST = "boost"
 
-export const SIGNED_OUT = "sign in to open a request or to boost one"
+export const SIGNED_OUT = featureRequestSignedOut.slug
 
-export const NOTHING_TO_DO = "this post says nothing to do"
+export const NOTHING_TO_DO = featureRequestNothingToDo.slug
 
-export const NO_POINTS = "how many points to commit is said as a number"
+export const NO_POINTS = featureRequestNoPoints.slug
+
+const PHRASED: readonly string[] = [SIGNED_OUT, NOTHING_TO_DO, NO_POINTS]
 
 type Posting = {
   readonly product: string
@@ -67,7 +73,10 @@ export async function answeredFor(request: Request, posting: Posting): Promise<R
   const landed = await landedFor(await bodyOf(request), posting)
   if ("refused" in landed) {
     const status = landed.refused === SIGNED_OUT ? 401 : 400
-    return Response.json({ error: landed.refused }, { status })
+    const error = PHRASED.includes(landed.refused)
+      ? (await phrasingRead())(landed.refused)
+      : landed.refused
+    return Response.json({ error }, { status })
   }
   return Response.json({ slug: landed.slug })
 }

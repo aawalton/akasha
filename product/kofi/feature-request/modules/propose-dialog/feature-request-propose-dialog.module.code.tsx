@@ -13,6 +13,8 @@ import { Label } from "akasha/design/interface/primitive/modules/label/label.mod
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
 import { Textarea } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { dialogCancel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/dialog-cancel.web-phrase.ts"
+import { dialogDone } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/dialog-done.web-phrase.ts"
 import { featureRequestAskLabel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-ask-label.web-phrase.ts"
 import { featureRequestCosts } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-costs.web-phrase.ts"
 import { featureRequestOpenButton } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-open-button.web-phrase.ts"
@@ -110,12 +112,12 @@ export function ProposeDialog({
         <DialogFooter>
           {opened ? (
             <Button variant="accent" onClick={close}>
-              Done
+              {phrase(dialogDone.slug)}
             </Button>
           ) : (
             <>
               <Button variant="tertiary" onClick={close} disabled={working}>
-                Cancel
+                {phrase(dialogCancel.slug)}
               </Button>
               <Button
                 variant="accent"

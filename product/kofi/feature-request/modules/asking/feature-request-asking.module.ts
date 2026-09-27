@@ -38,6 +38,10 @@ export const featureRequestAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A refusal made here is a web phrase's slug, answered as the phrase's words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An act that landed answers the slug it landed on.",
     },
     {
