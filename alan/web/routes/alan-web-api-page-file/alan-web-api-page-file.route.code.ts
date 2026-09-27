@@ -88,6 +88,20 @@ export async function loader({
     return new Response("Forbidden", { status: 403, headers })
   }
 
+  const width =
+    params.pageTypeSlug === NAMED_BY_BYTES
+      ? snappedWidth(new URL(request.url).searchParams.get(WIDTH_ASKED))
+      : null
+  const sizedKey = width === null ? null : `${params.slug}/${params.key}/${width}`
+  const already = sizedKey === null ? undefined : sized.get(sizedKey)
+  if (sizedKey !== null && already !== undefined) {
+    headers.set("X-Content-Type-Options", "nosniff")
+    headers.set("Cache-Control", HELD_FOR_GOOD)
+    headers.set("Content-Type", SIZED_TYPE)
+    headers.set("ETag", `"${sizedKey}"`)
+    return new Response(already, { headers })
+  }
+
   const held = await filingFor({
     pageTypeSlug: params.pageTypeSlug,
     slug: params.slug,
@@ -97,12 +111,10 @@ export async function loader({
 
   headers.set("X-Content-Type-Options", "nosniff")
   headers.set("Cache-Control", params.pageTypeSlug === NAMED_BY_BYTES ? HELD_FOR_GOOD : HELD_FOR)
-  const width = snappedWidth(new URL(request.url).searchParams.get(WIDTH_ASKED))
-  if (params.pageTypeSlug === NAMED_BY_BYTES && width !== null && endingOf(held.bytes) !== null) {
-    const key = `${params.slug}/${params.key}/${width}`
+  if (sizedKey !== null && width !== null && endingOf(held.bytes) !== null) {
     headers.set("Content-Type", SIZED_TYPE)
-    headers.set("ETag", `"${key}"`)
-    return new Response(await sizedBytes(key, held.bytes, width), { headers })
+    headers.set("ETag", `"${sizedKey}"`)
+    return new Response(await sizedBytes(sizedKey, held.bytes, width), { headers })
   }
   headers.set("Content-Type", typeOf(held.bytes))
   return new Response(held.bytes, { headers })

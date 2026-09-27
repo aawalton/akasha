@@ -35,7 +35,8 @@ export const alanWebApiPageFile = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The last sixty-four images made at a width are held rather than made again.",
+      statement:
+        "The last sixty-four images made at a width are held, and answered without reading the image again.",
     },
     {
       decisionKind: "decision-kind/departure",
