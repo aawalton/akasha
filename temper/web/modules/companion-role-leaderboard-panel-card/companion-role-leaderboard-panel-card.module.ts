@@ -11,5 +11,9 @@ export const companionRoleLeaderboardPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its roles are named by the base role names module.",
+    },
   ],
 } as const satisfies Module

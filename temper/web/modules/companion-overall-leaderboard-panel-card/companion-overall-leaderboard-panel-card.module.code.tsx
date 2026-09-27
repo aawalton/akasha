@@ -12,8 +12,7 @@ import {
   TableRow,
   TableTotalCell,
 } from "akasha/design/interface/primitive/modules/table/table.module.code.tsx"
-import type { CompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
-import { getBaseRoleName } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+
 import {
   type Build,
   getBuildScore,
@@ -78,10 +77,7 @@ export function CompanionOverallLeaderboardPanelCard({
 }: CompanionOverallLeaderboardPanelCardProps) {
   const phrase = usePhrase()
   const overallData = useMemo(() => {
-    const roleSetBuilds = new Map<
-      string,
-      { roles: CompanionBaseRoleId[]; bestByCompanion: Map<CompanionId, number> }
-    >()
+    const roleSetBuilds = new Map<string, { bestByCompanion: Map<CompanionId, number> }>()
 
     for (const build of builds) {
       if (!build.buildData) continue
@@ -94,7 +90,7 @@ export function CompanionOverallLeaderboardPanelCard({
 
       let entry = roleSetBuilds.get(key)
       if (!entry) {
-        entry = { roles, bestByCompanion: new Map() }
+        entry = { bestByCompanion: new Map() }
         roleSetBuilds.set(key, entry)
       }
 
@@ -108,12 +104,11 @@ export function CompanionOverallLeaderboardPanelCard({
 
     const categoryResults: {
       key: string
-      label: string
       rankMap: Map<CompanionId, number>
       defaultRank: number
     }[] = []
 
-    for (const [key, { roles, bestByCompanion }] of roleSetBuilds) {
+    for (const [key, { bestByCompanion }] of roleSetBuilds) {
       if (bestByCompanion.size === 0) continue
 
       const sorted = [...bestByCompanion.entries()].sort((a, b) => b[1] - a[1])
@@ -124,7 +119,6 @@ export function CompanionOverallLeaderboardPanelCard({
 
       categoryResults.push({
         key,
-        label: getBaseRoleName(roles),
         rankMap,
         defaultRank: sorted.length + 1,
       })

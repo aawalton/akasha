@@ -2,7 +2,7 @@
 {"propertySlug":"import","fileName":"companion-leaderboard.module.code.ts","path":"temper/web/modules/companion-identity-leaderboard-panel-card/companion-identity-leaderboard-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-leaderboard.module.code.ts","path":"temper/web/modules/companion-leaderboard-content/companion-leaderboard-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-leaderboard.module.code.ts","path":"temper/web/modules/companion-overall-leaderboard-panel-card/companion-overall-leaderboard-panel-card.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"companion-leaderboard.module.code.ts","path":"temper/web/modules/companion-role-leaderboard-panel-card/companion-role-leaderboard-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-leaderboard.module.code.ts","path":"temper/web/modules/companion-role-leaderboard-panel-card/companion-role-leaderboard-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-leaderboard.module.code.ts","path":"temper/web/modules/companions-data-content/companions-data-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-leaderboard.module.code.ts","path":"temper/web/modules/companions-leaderboard-tab/companions-leaderboard-tab.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-leaderboard.module.code.ts","path":"temper/web/modules/companions-plan-tab/companions-plan-tab.module.code.tsx","typed":true,"deferred":false}

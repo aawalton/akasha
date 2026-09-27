@@ -381,6 +381,7 @@ export const temperWeb = {
     "module/character-passive-search-row",
     "module/automation-tab-wording",
     "module/completion-page-tabs-list",
+    "module/base-role-names",
   ],
   decisions: [
     {

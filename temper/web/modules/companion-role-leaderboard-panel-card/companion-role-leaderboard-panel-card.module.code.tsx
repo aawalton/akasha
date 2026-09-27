@@ -16,14 +16,12 @@ import {
   TableValue,
 } from "akasha/design/interface/primitive/modules/table/table.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import {
-  displayRolesToLabel,
-  type RankedEntry,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
+import type { RankedEntry } from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import { getCompanionMetricName } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { baseRoleNames } from "akasha/temper/web/modules/base-role-names/base-role-names.module.code.ts"
 import { LEADERBOARD_COLUMNS } from "akasha/temper/web/modules/leaderboard-columns/leaderboard-columns.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { companionRoleLeaderboardPanelCardCompanion } from "akasha/temper/web/phrase/pages/companion-role-leaderboard-panel-card-companion.temper-web-phrase.ts"
@@ -46,7 +44,7 @@ export function CompanionRoleLeaderboardPanelCard({
   onCompanionClick,
 }: CompanionRoleLeaderboardPanelCardProps) {
   const phrase = usePhrase()
-  const roleLabel = displayRolesToLabel(displayRoles)
+  const roleLabel = baseRoleNames(phrase, displayRoles)
 
   return (
     <PanelCard

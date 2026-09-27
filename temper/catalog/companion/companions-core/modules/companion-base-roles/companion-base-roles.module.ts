@@ -28,5 +28,9 @@ export const companionBaseRoles = {
       statement:
         "A build's default armor weight is the heaviest weight any of its roles is built around.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here words a set of roles for a reader; the web does.",
+    },
   ],
 } as const satisfies Module

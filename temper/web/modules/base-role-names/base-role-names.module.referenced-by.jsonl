@@ -1,0 +1,6 @@
+{"propertySlug":"import","fileName":"base-role-names.module.code.ts","path":"temper/web/modules/companion-entity-panel-card/companion-entity-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"base-role-names.module.code.ts","path":"temper/web/modules/companion-list-panel-card/companion-list-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"base-role-names.module.code.ts","path":"temper/web/modules/companion-role-leaderboard-panel-card/companion-role-leaderboard-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"base-role-names.module.code.ts","path":"temper/web/modules/recent-companions-card/recent-companions-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"base-role-names.module.code.ts","path":"temper/web/modules/use-companion-set-target/use-companion-set-target.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

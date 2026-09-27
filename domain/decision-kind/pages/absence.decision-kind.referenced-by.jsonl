@@ -2010,6 +2010,8 @@
 {"propertySlug":"decision-kind","path":"temper/capture/sale/modules/sales-payload/sales-payload.module.ts","id":"01a0608a-15b3-7095-b65b-bb44a69a01c0"}
 {"propertySlug":"decision-kind","path":"temper/capture/sale/temper-capture-sale.domain.ts","id":"01a0608a-15b3-7222-9758-3efaaecd469e"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.ts","id":"01a06108-0764-711e-b931-1a61746c79b0"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.ts","id":"01a06152-c2ca-7bf7-a6bf-86af486302c4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/batch-config/batch-config.module.ts","id":"01a06071-0c77-7e96-8044-2bad3e05b280"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/catalog-payload/catalog-payload.module.ts","id":"01a06071-0c78-7ec6-a529-55cd1d262309"}
@@ -2223,6 +2225,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.ts","id":"01a06333-1bcc-7c92-9074-8986a87d036f"}
 {"propertySlug":"decision-kind","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.ts","id":"01a06360-7480-7003-a85c-d8871a560ac7"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-overall-leaderboard-panel-card/companion-overall-leaderboard-panel-card.module.ts","id":"01a0641f-8bee-72e7-a4fe-7fb4c37b2268"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-filter-types/companions-filter-types.module.ts","id":"01a06421-2527-72cf-81cf-35554408ce56"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/eso-markup-text/eso-markup-text.module.ts","id":"01a0e157-1cce-78d5-b867-717faa29b3e0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/format-time-ago/format-time-ago.module.ts","id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}

@@ -8,10 +8,7 @@ import {
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import {
-  type CompanionBaseRoleId,
-  getBaseRoleName,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import type { CompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { calculateCompanionStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-calculator/companion-stats-calculator.module.code.ts"
 import type { CompanionStatsResult } from "akasha/temper/catalog/companion/companions-core/modules/companion-stats-result/companion-stats-result.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
@@ -20,6 +17,7 @@ import { companionWeaponRoleAt } from "akasha/temper/catalog/companion/companion
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { baseRoleNames } from "akasha/temper/web/modules/base-role-names/base-role-names.module.code.ts"
 import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { companionListPanelCardDamage } from "akasha/temper/web/phrase/pages/companion-list-panel-card-damage.temper-web-phrase.ts"
@@ -108,7 +106,9 @@ export function CompanionListPanelCard({
             {buildData?.companion?.id != null && buildData.companion.id !== "no-companion" && (
               <Badge variant="elevation-muted">{getCompanionName(buildData.companion.id)}</Badge>
             )}
-            {roles.length > 0 && <Badge variant="elevation-muted">{getBaseRoleName(roles)}</Badge>}
+            {roles.length > 0 && (
+              <Badge variant="elevation-muted">{baseRoleNames(phrase, roles)}</Badge>
+            )}
             {weaponRoleId !== "no-weapon-role" && (
               <Badge variant="elevation-muted">{companionWeaponRoleAt(weaponRoleId).name}</Badge>
             )}

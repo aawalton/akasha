@@ -16,5 +16,9 @@ export const useCompanionSetTarget = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build's roles are named by the base role names module.",
+    },
   ],
 } as const satisfies Module

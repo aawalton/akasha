@@ -1,6 +1,5 @@
 "use client"
 
-import { getBaseRoleName } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { confirmingTarget } from "akasha/temper/player/character/build/build-support/modules/confirm-set-target/confirm-set-target.module.code.ts"
@@ -13,6 +12,7 @@ import {
   useCompanionLifecycle,
   useCompanionList,
 } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
+import { baseRoleNames } from "akasha/temper/web/modules/base-role-names/base-role-names.module.code.ts"
 import {
   applyCompanionMetadata,
   extractCompanionMetadata,
@@ -131,7 +131,10 @@ export function useCompanionSetTarget({
         const decoded =
           refBuild?.buildHash != null ? decodeCompanion(toBuildHash(refBuild.buildHash)) : null
         const subtitle = decoded
-          ? getBaseRoleName(decoded.companion.baseRoles)
+          ? baseRoleNames(
+              (slug, fills) => phraseIn(phrases, slug, fills),
+              decoded.companion.baseRoles
+            )
           : phraseIn(phrases, useCompanionSetTargetNoBuild.slug)
 
         let targetManuallyEdited = false

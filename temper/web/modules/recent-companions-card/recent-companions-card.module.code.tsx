@@ -14,11 +14,12 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
-import { getBaseRoleName } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { getCompanionName } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { baseRoleNames } from "akasha/temper/web/modules/base-role-names/base-role-names.module.code.ts"
 import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
@@ -76,7 +77,7 @@ export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
                 getCompanionName(buildData.companion.id),
               buildData?.companion?.baseRoles != null &&
                 buildData.companion.baseRoles.length > 0 &&
-                getBaseRoleName(buildData.companion.baseRoles),
+                baseRoleNames(phrase, buildData.companion.baseRoles),
             ]
               .filter((s): s is string => typeof s === "string" && s.length > 0)
               .join(" · ")

@@ -20,5 +20,9 @@ export const companionLeaderboard = {
       decisionKind: "decision-kind/departure",
       statement: "Target filters apply only to combinations that include the damage role.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here names a role combination in words; the web does.",
+    },
   ],
 } as const satisfies Module

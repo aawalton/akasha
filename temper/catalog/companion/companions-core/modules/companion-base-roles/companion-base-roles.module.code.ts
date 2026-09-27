@@ -75,10 +75,3 @@ export function getArmorWeightForBaseRoles(
   if (heaviest === undefined) throw new Error("no companion armor weight page states an armor type")
   return heaviest.id as Exclude<CompanionArmorWeight, "no-weight">
 }
-
-export function getBaseRoleName(roles: readonly CompanionBaseRoleId[]): string {
-  if (roles.length === 0) return "No Role"
-  const names = [...new Set(roles.map((id) => companionBaseRoleAt(id).name))]
-  names.sort()
-  return names.join(" + ")
-}

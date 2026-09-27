@@ -12,7 +12,6 @@ import {
   type CompanionBaseRoleId,
   companionBaseRoleAt,
   companionBaseRoles,
-  getBaseRoleName,
   isCompanionBaseRoleId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import {
@@ -26,6 +25,7 @@ import { companionWeaponRoleAt } from "akasha/temper/catalog/companion/companion
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { baseRoleNames } from "akasha/temper/web/modules/base-role-names/base-role-names.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { companionEntityPanelCardBrowseBuilds } from "akasha/temper/web/phrase/pages/companion-entity-panel-card-browse-builds.temper-web-phrase.ts"
 import { companionEntityPanelCardLive } from "akasha/temper/web/phrase/pages/companion-entity-panel-card-live.temper-web-phrase.ts"
@@ -201,7 +201,7 @@ export function CompanionEntityPanelCard({
               <div className="flex items-center gap-1.5">
                 {priorityBadge}
                 {roles.length > 0 && (
-                  <Badge variant="elevation-muted">{getBaseRoleName(roles)}</Badge>
+                  <Badge variant="elevation-muted">{baseRoleNames(phrase, roles)}</Badge>
                 )}
               </div>
             )}

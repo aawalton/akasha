@@ -42,10 +42,6 @@ function displayRoleOrder(): readonly string[] {
   return companionBaseRoleIds()
 }
 
-function nameOfRole(role: string): string {
-  return isCompanionBaseRoleId(role) ? companionBaseRoleAt(role).name : role
-}
-
 function abbreviationOfRole(role: string): string {
   return isCompanionBaseRoleId(role)
     ? companionBaseRoleAt(role).abbreviation
@@ -68,10 +64,6 @@ export function compareDisplayRoleCombos(a: readonly string[], b: readonly strin
 function inRoleOrder(displayRoles: readonly string[]): readonly string[] {
   const order = displayRoleOrder()
   return [...displayRoles].sort((a, b) => order.indexOf(a) - order.indexOf(b))
-}
-
-export function displayRolesToLabel(displayRoles: readonly string[]): string {
-  return inRoleOrder(displayRoles).map(nameOfRole).join(" + ")
 }
 
 export function displayRolesToAbbreviation(displayRoles: readonly string[]): string {
