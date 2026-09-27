@@ -21,4 +21,6 @@ export const otherwhere = {
     "Each chapter closes when a task the Library set is done. The first task is keeping the Library alive: sync with the core, then deal with the engorged bookworms. Later tasks follow the Library's own restoration as play reaches them.",
   continuity:
     "Canon stands as the first book tells it up to the moment Alan arrives, and from there Alan's choices are the story. Quinn never arrives.",
+  visualStyle: "fantasy photorealistic",
+  imageSeed: 381241034,
 } as const satisfies StoryDesign
