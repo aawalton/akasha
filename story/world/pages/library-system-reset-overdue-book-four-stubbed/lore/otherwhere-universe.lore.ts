@@ -129,6 +129,14 @@ export const otherwhereUniverse = {
       ],
     },
     {
+      fact: "The Library's kitchen stores sacks of salt, but the kitchen sleeps until the Library has more power.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
       fact: "The Library's hospital wing stays shut and dark until the Library has more power to open it.",
       knowers: [
         "lore-disclosure/game-master",
