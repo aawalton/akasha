@@ -13,7 +13,10 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { getCompanionJewelryIcon } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { isCompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import {
+  companionEquipmentQualityName,
+  isCompanionEquipmentQualityId,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import {
   capQualityForSlot,
   getAvailableQualityOptions,
@@ -25,10 +28,13 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-jewelry-slots/companion-jewelry-slots.module.code.ts"
 import {
   type CompanionTraitId,
+  companionTraitAt,
   companionTraits,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionJewelrySlotItem } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
+import { jewelry as jewelrySource } from "akasha/temper/catalog/world/temper-source-category/pages/jewelry.temper-source-category.ts"
+import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
@@ -37,10 +43,7 @@ import {
 } from "akasha/temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
-import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
-import { companionJewelryPanelCardJewelry } from "akasha/temper/web/phrase/pages/companion-jewelry-panel-card-jewelry.temper-web-phrase.ts"
-import { companionJewelryPanelCardNoQuality } from "akasha/temper/web/phrase/pages/companion-jewelry-panel-card-no-quality.temper-web-phrase.ts"
-import { companionJewelryPanelCardNoTrait } from "akasha/temper/web/phrase/pages/companion-jewelry-panel-card-no-trait.temper-web-phrase.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { useMemo } from "react"
 
 export function CompanionJewelryPanelCard({
@@ -48,9 +51,10 @@ export function CompanionJewelryPanelCard({
   onUpdate,
   readOnly,
 }: CompanionEquipmentPanelProps) {
-  const phrase = usePhrase()
-  const noQuality = phrase(companionJewelryPanelCardNoQuality.slug)
-  const noTrait = phrase(companionJewelryPanelCardNoTrait.slug)
+  const sourceCategories = useKeyedTitles(temperSourceCategory.slug)
+  const title = sourceCategories?.titles.get(jewelrySource.key) ?? ""
+  const noQuality = companionEquipmentQualityName("no-quality")
+  const noTrait = companionTraitAt("no-trait").name
   const handleJewelryChange = (
     slotId: CompanionJewelrySlotId,
     field: "trait" | "quality",
@@ -150,7 +154,7 @@ export function CompanionJewelryPanelCard({
     <PanelCard
       id="companion-jewelry"
       collapsible
-      title={phrase(companionJewelryPanelCardJewelry.slug)}
+      title={title}
       headerSubtitle={
         <div className="flex flex-wrap gap-1">
           {jewelryQualityCounts.map(([quality, count]) => (

@@ -9,7 +9,7 @@ export const companionJewelryPanelCard = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Its wording is read from web phrase pages.",
+      statement: "Its title and empty choices are read from catalog pages.",
     },
   ],
 } as const satisfies Module

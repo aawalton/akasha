@@ -12,10 +12,14 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { getCompanionWeaponIcon } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
-import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import {
+  type CompanionEquipmentQualityId,
+  companionEquipmentQualityName,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { availableQualityOptions } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import {
   type CompanionTraitId,
+  companionTraitAt,
   companionTraits,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionWeaponSlotItem } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
@@ -24,10 +28,13 @@ import {
   companionWeaponSlots,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import {
+  companionWeaponTypeName,
   companionWeaponTypes,
   isTwoHandedWeapon,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { weaponSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
+import { weapons as weaponsSource } from "akasha/temper/catalog/world/temper-source-category/pages/weapons.temper-source-category.ts"
+import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
@@ -37,11 +44,7 @@ import {
 import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
 import { weaponsAfterChange } from "akasha/temper/web/modules/companion-weapons-after-change/companion-weapons-after-change.module.code.ts"
-import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
-import { companionWeaponBarPanelCardNoQuality } from "akasha/temper/web/phrase/pages/companion-weapon-bar-panel-card-no-quality.temper-web-phrase.ts"
-import { companionWeaponBarPanelCardNoTrait } from "akasha/temper/web/phrase/pages/companion-weapon-bar-panel-card-no-trait.temper-web-phrase.ts"
-import { companionWeaponBarPanelCardNoType } from "akasha/temper/web/phrase/pages/companion-weapon-bar-panel-card-no-type.temper-web-phrase.ts"
-import { companionWeaponBarPanelCardWeapons } from "akasha/temper/web/phrase/pages/companion-weapon-bar-panel-card-weapons.temper-web-phrase.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { useMemo } from "react"
 
 export function CompanionWeaponBarPanelCard({
@@ -49,10 +52,11 @@ export function CompanionWeaponBarPanelCard({
   onUpdate,
   readOnly,
 }: CompanionEquipmentPanelProps) {
-  const phrase = usePhrase()
-  const noQuality = phrase(companionWeaponBarPanelCardNoQuality.slug)
-  const noType = phrase(companionWeaponBarPanelCardNoType.slug)
-  const noTrait = phrase(companionWeaponBarPanelCardNoTrait.slug)
+  const sourceCategories = useKeyedTitles(temperSourceCategory.slug)
+  const title = sourceCategories?.titles.get(weaponsSource.key) ?? ""
+  const noQuality = companionEquipmentQualityName("no-quality")
+  const noType = companionWeaponTypeName("no-type")
+  const noTrait = companionTraitAt("no-trait").name
   const mainHandSlot = equipment.weapons["main-hand"]
   const mainHandType = mainHandSlot.itemType === "weapon" ? mainHandSlot.data.type : "no-type"
   const isMainHandTwoHanded = mainHandType !== "no-type" && isTwoHandedWeapon(mainHandType)
@@ -143,7 +147,7 @@ export function CompanionWeaponBarPanelCard({
     <PanelCard
       id="companion-weapons"
       collapsible
-      title={phrase(companionWeaponBarPanelCardWeapons.slug)}
+      title={title}
       headerSubtitle={
         <div className="flex flex-wrap gap-1">
           {weaponQualityCounts.map(([quality, count]) => (
