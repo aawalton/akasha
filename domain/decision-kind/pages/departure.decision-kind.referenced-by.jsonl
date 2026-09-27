@@ -1255,6 +1255,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.ts","id":"01a08834-9fa8-7538-bb21-73af9a36b58d"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-image/alan-web-api-seat-image.route.ts","id":"01a0d49f-ffe0-7a3c-9a82-45a6c09b5b3a"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.ts","id":"01a0d493-a7df-70bc-8964-34c002acd32e"}
+{"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-shape/alan-web-api-shape.route.ts","id":"01a0e17c-6623-70a6-ab15-2e192f21e346"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.ts","id":"01a08836-b1d8-7284-9c85-85d40203b334"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.ts","id":"01a090d4-4959-7068-b799-d973b6d7993e"}
 {"propertySlug":"decision-kind","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.ts","id":"01a08830-10e1-711f-916e-888aba8c6066"}
@@ -3322,6 +3323,7 @@
 {"propertySlug":"decision-kind","path":"page/property-entry/modules/entry-rows/entry-rows.module.ts","id":"01a0c570-221d-73e8-8433-a1d654e49aab"}
 {"propertySlug":"decision-kind","path":"page/property-entry/page-property-entry.page-type.ts","id":"01a05f80-3969-7000-8ccd-6284909fc036"}
 {"propertySlug":"decision-kind","path":"page/property-entry/properties/entry-written-by.relation-property.ts","id":"01a0d970-b209-7b6e-85fe-46e639d56b8f"}
+{"propertySlug":"decision-kind","path":"page/query/modules/store-carrying/store-carrying.module.ts","id":"01a0e17c-6623-7357-abdd-bb781784d366"}
 {"propertySlug":"decision-kind","path":"page/query/modules/store-questioning/store-questioning.module.ts","id":"01a05aec-eaaa-7127-aa3c-7494fc98ae9b"}
 {"propertySlug":"decision-kind","path":"page/query/modules/store-reaching/store-reaching.module.ts","id":"01a05aec-eaaa-7fea-bdc1-a5818c78d54a"}
 {"propertySlug":"decision-kind","path":"page/query/modules/store-spelled-asking/store-spelled-asking.module.ts","id":"01a063ba-dbcd-72dd-9475-fbcddbebcd88"}

@@ -1,4 +1,4 @@
-{"propertySlug":"import","fileName":"store-reaching.module.code.ts","path":"alan/web/.server/alan-answer-ask/alan-answer-ask.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"store-reaching.module.code.ts","path":"page/query/modules/store-carrying/store-carrying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-reaching.module.code.ts","path":"page/query/modules/store-page-asking/store-page-asking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-reaching.module.code.ts","path":"page/query/modules/store-page-asking/store-page-asking.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-reaching.module.code.ts","path":"page/query/modules/store-questioning/store-questioning.module.code.ts","typed":false,"deferred":false}
@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"store-reaching.module.code.ts","path":"page/query/modules/store-spelled-asking/store-spelled-asking.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"store-reaching.module.code.ts","path":"page/query/modules/store-writing/store-writing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-reaching.module.code.ts","path":"page/query/modules/store-writing/store-writing.module.test.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"store-reaching.module.code.ts","path":"temper/web/.server/answer-ask/answer-ask.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-reaching.module.test-fixtures.ts","path":"page/query/modules/store-page-asking/store-page-asking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-reaching.module.test-fixtures.ts","path":"page/query/modules/store-questioning/store-questioning.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"store-reaching.module.test-fixtures.ts","path":"page/query/modules/store-reaching/store-reaching.module.test.ts","typed":false,"deferred":false}

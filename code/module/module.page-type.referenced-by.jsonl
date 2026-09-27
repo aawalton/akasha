@@ -2204,6 +2204,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/modules/folder-named/folder-named.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/naming/named-for/modules/page-stem/page-stem.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/property-entry/modules/entry-rows/entry-rows.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/query/modules/store-carrying/store-carrying.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/query/modules/store-page-asking/store-page-asking.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/query/modules/store-questioning/store-questioning.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/query/modules/store-reaching/store-reaching.module.ts","typed":true,"deferred":false}

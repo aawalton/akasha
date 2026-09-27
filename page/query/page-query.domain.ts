@@ -7,6 +7,7 @@ export const pageQuery = {
   definition: "how code calls the page service",
 
   parts: [
+    "module/store-carrying",
     "module/store-page-asking",
     "module/store-questioning",
     "module/store-reaching",

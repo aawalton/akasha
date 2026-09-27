@@ -20,5 +20,9 @@ export const alanAnswerAsk = {
       statement:
         "The store's answer is carried back unchanged, so the caller reads the store's own shape.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type's shape asked in a browser is carried the same way as a question.",
+    },
   ],
 } as const satisfies Module

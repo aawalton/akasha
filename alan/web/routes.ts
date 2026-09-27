@@ -71,6 +71,7 @@ export default [
     "routes/alan-web-api-spotify-callback/alan-web-api-spotify-callback.route.code.ts"
   ),
   route("api/ask", "routes/alan-web-api-ask/alan-web-api-ask.route.code.ts"),
+  route("api/shape", "routes/alan-web-api-shape/alan-web-api-shape.route.code.ts"),
   route(
     "api/seat/message",
     "routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts"

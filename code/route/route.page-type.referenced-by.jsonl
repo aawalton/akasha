@@ -73,6 +73,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-push-register/alan-web-api-push-register.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-seat-image/alan-web-api-seat-image.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-shape/alan-web-api-shape.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-sms-verification-status/alan-web-api-sms-verification-status.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"alan/web/routes/alan-web-api-sms-webhook/alan-web-api-sms-webhook.route.ts","typed":true,"deferred":false}
