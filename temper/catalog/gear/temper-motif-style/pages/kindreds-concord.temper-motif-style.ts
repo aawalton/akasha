@@ -5,6 +5,8 @@ export const kindredsConcord = {
   type: "page-type/temper-motif-style",
   slug: "kindreds-concord",
   title: "Kindred's Concord",
+  esoItemStyleId: 144,
+  styleName: "Kindred's Concord",
   collectionIndex: 107,
   sourceDescription: "Bastion Nymic",
 } as const satisfies TemperMotifStyle
