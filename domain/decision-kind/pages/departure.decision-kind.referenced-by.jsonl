@@ -3758,6 +3758,7 @@
 {"propertySlug":"decision-kind","path":"story/world/decisions/story-decision.page-type.ts","id":"01a06578-d638-7072-8faf-6245b8cda4ae"}
 {"propertySlug":"decision-kind","path":"story/world/design-notes/story-design-note.page-type.ts","id":"01a06578-d638-794d-b1f4-f5c46500a7e9"}
 {"propertySlug":"decision-kind","path":"story/world/designs/properties/arc-structure.file-property.ts","id":"01a06577-f385-7d82-9322-ca4e27181d96"}
+{"propertySlug":"decision-kind","path":"story/world/designs/properties/image-seed.number-property.ts","id":"01a0e39e-b242-7997-9eac-8f7f0a3b2180"}
 {"propertySlug":"decision-kind","path":"story/world/designs/properties/story-premise.file-property.ts","id":"01a06577-f385-7179-9713-a0ebc7944548"}
 {"propertySlug":"decision-kind","path":"story/world/designs/properties/visual-style.text-property.ts","id":"01a06577-f385-7c1c-8e0b-5a8d4ac8821f"}
 {"propertySlug":"decision-kind","path":"story/world/designs/story-design.page-type.ts","id":"01a06578-d638-7c98-b608-6c1fc38de0d7"}

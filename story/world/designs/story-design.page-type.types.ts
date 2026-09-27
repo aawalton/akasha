@@ -10,6 +10,7 @@ import type { DesignSystem } from "akasha/story/world/designs/properties/design-
 import type { DesignVersion } from "akasha/story/world/designs/properties/design-version.text-property.types.ts"
 import type { DungeonNature } from "akasha/story/world/designs/properties/dungeon-nature.text-property.types.ts"
 import type { GbwwReadings } from "akasha/story/world/designs/properties/gbww-readings.text-property.types.ts"
+import type { ImageSeed } from "akasha/story/world/designs/properties/image-seed.number-property.types.ts"
 import type { MemoryDistribution } from "akasha/story/world/designs/properties/memory-distribution.text-property.types.ts"
 import type { Narrator } from "akasha/story/world/designs/properties/narrator.text-property.types.ts"
 import type { SeriesName } from "akasha/story/world/designs/properties/series-name.text-property.types.ts"
@@ -53,4 +54,5 @@ export type StoryDesign = Page & {
   dungeonNature?: DungeonNature
   gbwwReadings?: GbwwReadings
   prose?: Prose
+  imageSeed?: ImageSeed
 }

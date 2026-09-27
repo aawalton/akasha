@@ -32,6 +32,7 @@ export const storyDesign = {
     "text-property/timeline-distribution",
     "text-property/visual-style",
     "text-property/writing-philosophy",
+    "number-property/image-seed",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -60,6 +61,7 @@ export const storyDesign = {
     { pageProperty: "text-property/dungeon-nature", required: false, many: false },
     { pageProperty: "text-property/gbww-readings", required: false, many: false },
     { pageProperty: "file-property/prose", required: false, many: false },
+    { pageProperty: "number-property/image-seed", required: false, many: false },
   ],
   decisions: [
     {
