@@ -5,6 +5,8 @@ export const moongraveFane = {
   type: "page-type/temper-motif-style",
   slug: "moongrave-fane",
   title: "Moongrave Fane",
+  esoItemStyleId: 93,
+  styleName: "Moongrave Fane",
   collectionIndex: 64,
   sourceDescription: "Moongrave Fane dungeon",
 } as const satisfies TemperMotifStyle
