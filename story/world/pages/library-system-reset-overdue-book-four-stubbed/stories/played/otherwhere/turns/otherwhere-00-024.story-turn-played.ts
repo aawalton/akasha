@@ -7,7 +7,17 @@ export const otherwhere00024 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 24,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I hold down the first worm with a knee, grab two more handfuls of salt, then wait for the second worm to lunge, grabbing it by the neck as well",
+  beats: [
+    "Nala plants a knee on the pinned bookworm, holding it against the salt line.",
+    "She scoops two more fistfuls of salt from the gap's edge, and the gap spreads wider.",
+    "Under her knee the bookworm gives a last shudder and dries into a hard grey coil, alive and still.",
+    "The bookworm that chewed the broom pours through the widened gap and lunges at her.",
+    "Its teeth sink into her left forearm before her hands can close, deep and tearing.",
+    "She clamps both salted fists round its neck behind the mouth and wrenches it off her arm.",
+    "Its skin puckers and hisses under the salt; it thrashes, weaker now, but still strong in her grip.",
+    "Blood runs down her left arm and drips onto the salt, and the arm is going numb and shaky.",
+  ],
 } as const satisfies StoryTurnPlayed
