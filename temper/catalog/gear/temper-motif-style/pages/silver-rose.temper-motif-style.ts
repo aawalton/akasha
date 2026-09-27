@@ -5,6 +5,8 @@ export const silverRose = {
   type: "page-type/temper-motif-style",
   slug: "silver-rose",
   title: "Silver Rose",
+  esoItemStyleId: 124,
+  styleName: "Silver Rose",
   collectionIndex: 91,
   sourceDescription: "Red Petal Bastion dungeon",
 } as const satisfies TemperMotifStyle
