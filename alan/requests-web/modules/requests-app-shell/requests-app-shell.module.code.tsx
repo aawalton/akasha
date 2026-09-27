@@ -2,6 +2,7 @@ import {
   REQUESTS_APP,
   REQUESTS_APP_ID,
 } from "akasha/alan/requests-web/modules/requests-app-id/requests-app-id.module.code.ts"
+import { NavCommands } from "akasha/alan/requests-web/modules/requests-nav-command/requests-nav-command.module.code.tsx"
 import { PRIMARY_NAV_ITEMS } from "akasha/alan/requests-web/modules/requests-nav-items/requests-nav-items.module.code.ts"
 import { AuthFooter } from "akasha/code/router-app/modules/auth-footer/auth-footer.module.code.tsx"
 import {
@@ -71,7 +72,12 @@ function AppShellInner({ children, brand, signedIn, ssrNavItems }: AppShellProps
     ]
   )
 
-  return <SharedAppShell config={config}>{children}</SharedAppShell>
+  return (
+    <SharedAppShell config={config}>
+      <NavCommands entries={dynamicPrimaryItems} />
+      {children}
+    </SharedAppShell>
+  )
 }
 
 export function AppShell(props: AppShellProps) {

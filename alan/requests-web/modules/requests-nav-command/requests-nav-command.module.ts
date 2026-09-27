@@ -6,4 +6,10 @@ export const requestsNavCommand = {
   slug: "requests-nav-command",
   definition: "the commands offered beside the Requests site's navigation items",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The commands are the nav pages the sidebar draws, as those pages are now.",
+    },
+  ],
 } as const satisfies Module

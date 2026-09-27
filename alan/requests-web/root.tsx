@@ -7,7 +7,7 @@ import {
 } from "akasha/alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"
 import { REQUESTS_APP } from "akasha/alan/requests-web/modules/requests-app-id/requests-app-id.module.code.ts"
 import { REQUESTS_SITE } from "akasha/alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"
-import { NavCommands } from "akasha/alan/requests-web/modules/requests-nav-command/requests-nav-command.module.code.tsx"
+
 import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
@@ -81,7 +81,6 @@ export function Layout({ children }: { children: React.ReactNode }) {
           {children}
           <CommandPalette />
           <ShortcutSheet />
-          <NavCommands />
         </SurfaceProvider>
         <ScrollRestoration nonce={nonce} />
         <Scripts nonce={nonce} />

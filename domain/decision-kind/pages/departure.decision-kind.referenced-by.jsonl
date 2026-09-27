@@ -1128,6 +1128,7 @@
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-app-shell/requests-app-shell.module.ts","id":"01a0c537-ba8c-76cf-8c53-2c9af0c65345"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.ts","id":"01a0c537-bbe7-7ea3-aabc-220dc3ae73ca"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-handover-site/requests-handover-site.module.ts","id":"01a0c537-ba9b-797c-9ce3-0dd6a8f02f52"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-nav-command/requests-nav-command.module.ts","id":"01a0c537-baaa-710a-91ba-8d1a3c37ca13"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-nav-items/requests-nav-items.module.ts","id":"01a0c537-baba-7ce4-8b4f-d7076df6a4cd"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-page-write/requests-api-page-write.route.ts","id":"01a0c537-bb7d-769b-ad76-62d6b52dd185"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.ts","id":"01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a"}
