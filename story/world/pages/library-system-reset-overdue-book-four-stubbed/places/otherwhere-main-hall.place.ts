@@ -74,7 +74,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The break room has a stone sink whose tap still runs cold, clean water.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
 
     {
@@ -113,7 +117,11 @@ export const otherwhereMainHall = {
 
     {
       fact: "The Library keeps roots and vegetables that are safe for a human to eat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Nala set the salt box down on the floor where the hall's gold light thins into gloom.",
