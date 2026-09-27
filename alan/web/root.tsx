@@ -18,6 +18,7 @@ import {
   openAt,
   siteDocumentAt,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { phrasesRead } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import type React from "react"
@@ -98,11 +99,12 @@ export const meta = metaFor(null)
 export async function loader({ request }: Route.LoaderArgs) {
   const guarded = await guardedRoot(request, AUTH_CONFIG)
   if (guarded !== null) throw guarded
-  const [document, home] = await Promise.all([
+  const [document, home, phrases] = await Promise.all([
     siteDocumentAt(WEB_APP, ""),
     siteDocumentAt(WEB_APP, HOME_PATH),
+    phrasesRead(),
   ])
-  return { document, homeLabel: home.title }
+  return { document, homeLabel: home.title, phrases }
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {

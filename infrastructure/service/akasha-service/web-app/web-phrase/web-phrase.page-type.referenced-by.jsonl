@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"web-phrase.page-type.ts","path":"alan/atlas-web/routes/_app-layout.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-capture-message.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-capture-title.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-map-count-one.web-phrase.ts","typed":true,"deferred":false}

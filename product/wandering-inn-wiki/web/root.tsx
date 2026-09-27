@@ -6,6 +6,7 @@ import {
   loaderAt,
   metaFor,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { phrasesRead } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type React from "react"
 import { isRouteErrorResponse, Links, Meta, Scripts, ScrollRestoration } from "react-router"
@@ -17,7 +18,10 @@ const WEB_APP = namedAs("web-app", innworldWeb.slug, null)
 
 export const meta = metaFor(null)
 
-export const loader = loaderAt(WEB_APP, "")
+export async function loader() {
+  const [site, phrases] = await Promise.all([loaderAt(WEB_APP, "")(), phrasesRead()])
+  return { ...site, phrases }
+}
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useDocumentNonce()

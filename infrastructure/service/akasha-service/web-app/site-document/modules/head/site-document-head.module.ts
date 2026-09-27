@@ -11,5 +11,9 @@ export const siteDocumentHead = {
       decisionKind: "decision-kind/departure",
       statement: "The root reads its title and description again whenever a site document changes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The phrases a root's loader read seed every route drawn beneath it.",
+    },
   ],
 } as const satisfies Module

@@ -17,6 +17,7 @@ import {
   metaFor,
   siteDocumentAt,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { phrasesRead } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
@@ -46,7 +47,8 @@ export const meta = metaFor(null)
 export async function loader({ request }: Route.LoaderArgs) {
   const guarded = await handoverGuard(REQUESTS_SITE, request, GUARD)
   if (guarded !== null) throw guarded
-  return { document: await siteDocumentAt(REQUESTS_APP, "") }
+  const [document, phrases] = await Promise.all([siteDocumentAt(REQUESTS_APP, ""), phrasesRead()])
+  return { document, phrases }
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {

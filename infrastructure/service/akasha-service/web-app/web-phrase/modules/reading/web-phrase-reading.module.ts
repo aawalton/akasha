@@ -13,7 +13,12 @@ export const webPhraseReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A phrase not yet read is drawn as nothing rather than as wording in code.",
+      statement:
+        "Until the live pages are read, a phrase is drawn from the phrases the root's loader read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A phrase neither read is drawn as nothing rather than as wording in code.",
     },
     {
       decisionKind: "decision-kind/absence",

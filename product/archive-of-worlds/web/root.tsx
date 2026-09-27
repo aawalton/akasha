@@ -14,6 +14,7 @@ import {
   metaFor,
   siteDocumentAt,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { phrasesRead } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { ARCHIVE_OF_WORLDS_APP } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
 import { ARCHIVE_OF_WORLDS_SITE } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.code.ts"
@@ -35,7 +36,11 @@ export const meta = metaFor(null)
 export async function loader({ request }: Route.LoaderArgs) {
   const guarded = await handoverGuard(ARCHIVE_OF_WORLDS_SITE, request, GUARD)
   if (guarded !== null) throw guarded
-  return { document: await siteDocumentAt(ARCHIVE_OF_WORLDS_APP, "") }
+  const [document, phrases] = await Promise.all([
+    siteDocumentAt(ARCHIVE_OF_WORLDS_APP, ""),
+    phrasesRead(),
+  ])
+  return { document, phrases }
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {

@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"web-phrase-reading.module.code.tsx","path":"alan/atlas-web/routes/atlas-map/atlas-map.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-reading.module.code.tsx","path":"alan/atlas-web/routes/atlas-search/atlas-search.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-reading.module.code.tsx","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase-reading.module.code.tsx","path":"infrastructure/service/akasha-service/web-app/site-document/modules/head/site-document-head.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-reading.module.code.tsx","path":"page/ui/component/modules/view-page-content/view-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-reading.module.code.tsx","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-reading.module.code.tsx","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx","typed":false,"deferred":false}
