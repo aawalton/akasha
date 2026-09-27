@@ -6,4 +6,10 @@ export const raceSelectDialog = {
   slug: "race-select-dialog",
   definition: "the dialog selecting a race",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The races offered are drawn again whenever the skill catalogue is read again.",
+    },
+  ],
 } as const satisfies Module

@@ -28,13 +28,15 @@ export function RaceSelectDialog({
   selectedRaceId,
   onSelect,
 }: RaceSelectDialogProps) {
+  const sorted = sortedRaces()
+  const all = allRaceSources()
   const config: FilterableSelectDialogConfig<RaceSource> = useMemo(
     () => ({
       title: "Select Race",
       searchPlaceholder: "Search races...",
       emptyMessage: "No races found.",
-      categories: [{ id: "all", label: "Races", items: sortedRaces() }],
-      allItems: allRaceSources(),
+      categories: [{ id: "all", label: "Races", items: sorted }],
+      allItems: all,
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
         return (
@@ -48,7 +50,7 @@ export function RaceSelectDialog({
         ) : null
       },
     }),
-    []
+    [sorted, all]
   )
 
   const handleSelect = (itemId: RaceId) => {
