@@ -5,6 +5,4 @@ export const recentCompanionsCardGetStarted = {
   type: "page-type/temper-web-phrase",
   slug: "recent-companions-card-get-started",
   title: "Create your first build to get started.",
-  key: "recent-companions-card--get-started",
-  displayOrder: 3,
 } as const satisfies TemperWebPhrase

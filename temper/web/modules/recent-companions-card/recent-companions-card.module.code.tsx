@@ -22,6 +22,10 @@ import { buildId } from "akasha/temper/player/character/formula-framework/module
 import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { recentCompanionsCardGetStarted } from "akasha/temper/web/phrase/pages/recent-companions-card-get-started.temper-web-phrase.ts"
+import { recentCompanionsCardHeading } from "akasha/temper/web/phrase/pages/recent-companions-card-heading.temper-web-phrase.ts"
+import { recentCompanionsCardNoBuilds } from "akasha/temper/web/phrase/pages/recent-companions-card-no-builds.temper-web-phrase.ts"
+import { recentCompanionsCardUntitled } from "akasha/temper/web/phrase/pages/recent-companions-card-untitled.temper-web-phrase.ts"
 import { FolderOpen } from "lucide-react"
 
 interface Build {
@@ -44,7 +48,7 @@ export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
       id="recent-companions"
       title={
         <Link href="/companion-build" className="hover:text-accent">
-          {phrase("recent-companions-card--heading")}
+          {phrase(recentCompanionsCardHeading.slug)}
         </Link>
       }
       collapsible
@@ -55,8 +59,8 @@ export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
             <EmptyMedia variant="icon">
               <FolderOpen />
             </EmptyMedia>
-            <EmptyTitle>{phrase("recent-companions-card--no-builds")}</EmptyTitle>
-            <EmptyDescription>{phrase("recent-companions-card--get-started")}</EmptyDescription>
+            <EmptyTitle>{phrase(recentCompanionsCardNoBuilds.slug)}</EmptyTitle>
+            <EmptyDescription>{phrase(recentCompanionsCardGetStarted.slug)}</EmptyDescription>
           </EmptyHeader>
           <EmptyContent>
             <NewCompanionButton />
@@ -85,7 +89,7 @@ export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
               >
                 <div className="flex items-center justify-between gap-2">
                   <span className="truncate font-medium text-primary">
-                    {build.name !== "" ? build.name : phrase("recent-companions-card--untitled")}
+                    {build.name !== "" ? build.name : phrase(recentCompanionsCardUntitled.slug)}
                   </span>
                   <Text variant="caption" className="shrink-0">
                     {buildDateLine(build)}

@@ -27,6 +27,10 @@ import { getRoleName } from "akasha/temper/player/character/source/modules/chara
 import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { recentCharactersCardGetStarted } from "akasha/temper/web/phrase/pages/recent-characters-card-get-started.temper-web-phrase.ts"
+import { recentCharactersCardHeading } from "akasha/temper/web/phrase/pages/recent-characters-card-heading.temper-web-phrase.ts"
+import { recentCharactersCardNoBuilds } from "akasha/temper/web/phrase/pages/recent-characters-card-no-builds.temper-web-phrase.ts"
+import { recentCharactersCardUntitled } from "akasha/temper/web/phrase/pages/recent-characters-card-untitled.temper-web-phrase.ts"
 import { FolderOpen } from "lucide-react"
 
 interface Build {
@@ -52,7 +56,7 @@ export function RecentCharactersCard({ builds }: RecentCharactersCardProps) {
       id="recent-characters"
       title={
         <Link href="/character-build" className="hover:text-accent">
-          {phrase("recent-characters-card--heading")}
+          {phrase(recentCharactersCardHeading.slug)}
         </Link>
       }
       collapsible
@@ -63,8 +67,8 @@ export function RecentCharactersCard({ builds }: RecentCharactersCardProps) {
             <EmptyMedia variant="icon">
               <FolderOpen />
             </EmptyMedia>
-            <EmptyTitle>{phrase("recent-characters-card--no-builds")}</EmptyTitle>
-            <EmptyDescription>{phrase("recent-characters-card--get-started")}</EmptyDescription>
+            <EmptyTitle>{phrase(recentCharactersCardNoBuilds.slug)}</EmptyTitle>
+            <EmptyDescription>{phrase(recentCharactersCardGetStarted.slug)}</EmptyDescription>
           </EmptyHeader>
           <EmptyContent>
             <NewCharacterButton />
@@ -93,7 +97,7 @@ export function RecentCharactersCard({ builds }: RecentCharactersCardProps) {
               >
                 <div className="flex items-center justify-between gap-2">
                   <span className="truncate font-medium text-primary">
-                    {build.name !== "" ? build.name : phrase("recent-characters-card--untitled")}
+                    {build.name !== "" ? build.name : phrase(recentCharactersCardUntitled.slug)}
                   </span>
                   <Text variant="caption" className="shrink-0">
                     {buildDateLine(build)}

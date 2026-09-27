@@ -5,6 +5,4 @@ export const recentCompanionsCardUntitled = {
   type: "page-type/temper-web-phrase",
   slug: "recent-companions-card-untitled",
   title: "Untitled Build",
-  key: "recent-companions-card--untitled",
-  displayOrder: 4,
 } as const satisfies TemperWebPhrase
