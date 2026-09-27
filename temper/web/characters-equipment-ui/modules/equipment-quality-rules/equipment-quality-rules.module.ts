@@ -15,5 +15,9 @@ export const equipmentQualityRules = {
       decisionKind: "decision-kind/absence",
       statement: "The absence of a quality is shown muted rather than as a quality.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quality no page names is labelled with the no-quality page's title.",
+    },
   ],
 } as const satisfies Module
