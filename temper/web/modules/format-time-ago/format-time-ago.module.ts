@@ -16,5 +16,14 @@ export const formatTimeAgo = {
       decisionKind: "decision-kind/departure",
       statement: "An instant that is no date is written as no words rather than as the epoch.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its wording is read from web phrase pages, the held ones unless a caller hands some in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An instant is written as no words while no phrases are held.",
+    },
   ],
 } as const satisfies Module
