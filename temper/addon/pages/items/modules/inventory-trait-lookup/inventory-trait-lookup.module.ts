@@ -18,6 +18,10 @@ export const inventoryTraitLookup = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The jewelry equip types are the equip types the jewelry type pages link.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The tables are built the first time a trait is asked for, and held after.",
     },
   ],

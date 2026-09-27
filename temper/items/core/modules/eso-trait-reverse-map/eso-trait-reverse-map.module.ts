@@ -10,8 +10,7 @@ export const esoTraitReverseMap = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An equip type the game numbers as jewelry is read against the jewelry maps alone.",
+      statement: "An equip type a jewelry type page links is read against the jewelry maps alone.",
     },
     {
       decisionKind: "decision-kind/departure",

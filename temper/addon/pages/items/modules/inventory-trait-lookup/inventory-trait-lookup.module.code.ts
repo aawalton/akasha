@@ -3,10 +3,14 @@ import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temp
 import type { TemperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.types.ts"
 import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts"
 import type { TemperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.types.ts"
+import { temperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts"
+import type { TemperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.types.ts"
 import { temperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.ts"
 import type { TemperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.types.ts"
 import { temperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts"
 import type { TemperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.types.ts"
+import { temperJewelryType } from "akasha/temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts"
+import type { TemperJewelryType } from "akasha/temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.types.ts"
 import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
 import type { TemperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.types.ts"
 import {
@@ -24,6 +28,7 @@ type TraitTables = {
   readonly player: ByKey
   readonly companion: ByKey
   readonly numbers: Numbers
+  readonly jewelry: { [equipType: string]: boolean | undefined }
 }
 
 let held: TraitTables | undefined
@@ -78,7 +83,20 @@ function tablesOf(this: void): TraitTables {
       noted(numbers, one.key, esoNumber)
     }
   }
-  return { player, companion, numbers }
+  const equipNumbers: { [slug: string]: number | undefined } = {}
+  for (const one of $pagesOfType<Pick<TemperEquipType, "slug" | "equipType">>(temperEquipType)) {
+    equipNumbers[one.slug] = one.equipType
+  }
+  const jewelry: { [equipType: string]: boolean | undefined } = {}
+  for (const one of $pagesOfType<Pick<TemperJewelryType, "slotEquipType">>(temperJewelryType)) {
+    const number = equipNumbers[slugIn(one.slotEquipType)]
+    if (number !== undefined) jewelry[`${number}`] = true
+  }
+  return { player, companion, numbers, jewelry }
+}
+
+function addonIsJewelry(this: void, equipType: number): boolean {
+  return tables().jewelry[`${equipType}`] === true
 }
 
 function tables(this: void): TraitTables {
@@ -99,7 +117,11 @@ function addonCompanionTraitOfEso(family: GearFamily, esoTraitType: number): str
 
 export function addonTraitOfEso(esoTraitType: number, equipType?: number): string | undefined {
   return esoTraitToTemperId(
-    { player: addonPlayerTraitOfEso, companion: addonCompanionTraitOfEso },
+    {
+      player: addonPlayerTraitOfEso,
+      companion: addonCompanionTraitOfEso,
+      isJewelry: addonIsJewelry,
+    },
     esoTraitType,
     equipType
   )

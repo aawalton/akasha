@@ -12,8 +12,10 @@ import {
   slugOf,
 } from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
 import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts"
+import { temperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts"
 import { temperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.ts"
 import { temperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts"
+import { temperJewelryType } from "akasha/temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts"
 import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
@@ -66,6 +68,8 @@ let esoNumbers: ReadonlyMap<string, number> = new Map()
 
 let traitsByEso: ReadonlyMap<string, string> = new Map()
 
+let jewelryEquipTypes: ReadonlySet<number> = new Set()
+
 export function traitTable<Id extends string>(
   family: TraitFamily
 ): DataFile<Id, TraitTemplate<Id>> {
@@ -106,6 +110,20 @@ export function holdTraits(rowsOf: (pageTypeSlug: string) => Iterable<Row>): und
   }
   esoNumbers = foundNumbers
   traitsByEso = foundTraits
+  const equipNumbers = new Map<string, number>()
+  for (const row of rowsOf(temperEquipType.slug)) {
+    equipNumbers.set(String(row.slug), Number(row.equipType))
+  }
+  const foundJewelry = new Set<number>()
+  for (const row of rowsOf(temperJewelryType.slug)) {
+    const number = equipNumbers.get(slugOf(row.slotEquipType))
+    if (number !== undefined) foundJewelry.add(number)
+  }
+  jewelryEquipTypes = foundJewelry
+}
+
+export function isJewelryEquipType(equipType: number): boolean {
+  return jewelryEquipTypes.has(equipType)
 }
 
 export function traitGradeValue(
