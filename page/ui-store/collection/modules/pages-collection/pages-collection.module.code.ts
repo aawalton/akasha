@@ -18,6 +18,7 @@ export function createPagesCollection(): PagesCollectionHandle {
   const controller = createPagesSyncController()
   const config: CollectionConfig<PageRow, string> = {
     getKey: pageRowKey,
+    gcTime: 0,
     sync: { sync: controller.sync },
   }
   const collection = createCollection(config)

@@ -6,4 +6,12 @@ export const pagesCollection = {
   slug: "pages-collection",
   definition: "the collection holding the page rows",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The collection keeps its rows and keeps syncing while nothing is subscribed to it.",
+    },
+  ],
 } as const satisfies Module

@@ -1,5 +1,8 @@
 import type { SyncConfig } from "@tanstack/db"
-import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
+import {
+  type PageRow,
+  pageRowKey,
+} from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 
 type SyncParams = Parameters<SyncConfig<PageRow, string>["sync"]>[0]
 
@@ -14,30 +17,31 @@ export interface PagesSyncController {
 
 export function createPagesSyncController(): PagesSyncController {
   let handles: SyncParams | null = null
+  const held = new Map<string, PageRow>()
 
   const sync: SyncConfig<PageRow, string>["sync"] = (params) => {
     handles = params
+    if (held.size > 0) {
+      params.begin()
+      for (const row of held.values()) params.write({ type: "insert", value: row })
+      params.commit()
+      held.clear()
+    }
     params.markReady()
     return () => {
       handles = null
     }
   }
 
-  const requireHandles = (): SyncParams => {
-    if (handles === null) {
-      throw new Error(
-        "PagesSyncController: push before the collection started syncing (sync handles not captured)"
-      )
-    }
-    return handles
-  }
-
   const writeAll = (rows: readonly PageRow[], type: "insert" | "update"): undefined => {
-    const h = requireHandles()
     if (rows.length === 0) return
-    h.begin()
-    for (const row of rows) h.write({ type, value: row })
-    h.commit()
+    if (handles === null) {
+      for (const row of rows) held.set(pageRowKey(row), row)
+      return
+    }
+    handles.begin()
+    for (const row of rows) handles.write({ type, value: row })
+    handles.commit()
   }
 
   return {
@@ -45,17 +49,23 @@ export function createPagesSyncController(): PagesSyncController {
     seed: (rows) => writeAll(rows, "insert"),
     applyUpserts: (rows) => writeAll(rows, "update"),
     applyDeletes: (ids) => {
-      const h = requireHandles()
       if (ids.length === 0) return
-      h.begin()
-      for (const id of ids) h.write({ type: "delete", key: id })
-      h.commit()
+      if (handles === null) {
+        for (const id of ids) held.delete(id)
+        return
+      }
+      handles.begin()
+      for (const id of ids) handles.write({ type: "delete", key: id })
+      handles.commit()
     },
     resetAll: () => {
-      const h = requireHandles()
-      h.begin()
-      h.truncate()
-      h.commit()
+      if (handles === null) {
+        held.clear()
+        return
+      }
+      handles.begin()
+      handles.truncate()
+      handles.commit()
     },
     isReady: () => handles !== null,
   }
