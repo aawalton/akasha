@@ -21,6 +21,8 @@ const ASTRA: ForestRow = {
   principal: "alan",
   launch: "opened",
   mode: "acceptEdits",
+  role: "definer",
+  assignment: "domain/astra",
   live: true,
 }
 
@@ -31,6 +33,8 @@ const BOREA: ForestRow = {
   principal: "agent",
   launch: "spawned",
   mode: null,
+  role: null,
+  assignment: null,
   live: false,
 }
 

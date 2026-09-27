@@ -15,5 +15,9 @@ export const seatForest = {
       decisionKind: "decision-kind/departure",
       statement: "A seat nothing observed a mode of shows the mode that seat was started in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row's role is the role's bare slug, and its assignment keeps the page type.",
+    },
   ],
 } as const satisfies Module

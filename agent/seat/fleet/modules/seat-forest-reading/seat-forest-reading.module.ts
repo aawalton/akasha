@@ -18,6 +18,11 @@ export const seatForestReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A row carries `role` and `assignment`, each as the seat's page states it or null.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A row carries `live`, `state`, `waitingOn`, `color` and `at` as well.",
     },
     {

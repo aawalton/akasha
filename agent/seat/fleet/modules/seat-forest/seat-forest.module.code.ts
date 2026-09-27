@@ -21,6 +21,10 @@ const PRINCIPAL_KEY = "principal-seat-name"
 
 const START_MODE_KEY = "start-mode"
 
+const ROLE_KEY = "role-slug"
+
+const ASSIGNMENT_KEY = "domain-slug"
+
 const ID_KEY = "id"
 
 const OPENED = "opened"
@@ -34,6 +38,8 @@ export interface ForestRow {
   readonly principal: string | null
   readonly launch: string | null
   readonly mode: string | null
+  readonly role: string | null
+  readonly assignment: string | null
   readonly live: boolean
 }
 
@@ -59,6 +65,8 @@ function forestRow(seat: SeatStanding): ForestRow {
     principal: person ?? (parentName === null ? null : FLEET),
     launch: person !== null ? OPENED : parentName !== null ? SPAWNED : null,
     mode: runningModeOf(seat) ?? startMode,
+    role: textAt(seat.frontmatter, ROLE_KEY),
+    assignment: textAt(seat.frontmatter, ASSIGNMENT_KEY),
     live: seat.live,
   }
 }
