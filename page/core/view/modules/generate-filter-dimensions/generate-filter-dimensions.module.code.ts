@@ -16,6 +16,7 @@ export interface PageFilterDimension {
   options?: readonly SelectOption[]
   operators: readonly FilterOperatorOption[]
   targetPageTypeId?: string
+  targetPageTypeSlug?: string
 }
 
 function readOptions(config: PropertyDefinition["config"]): readonly SelectOption[] | undefined {
@@ -24,8 +25,8 @@ function readOptions(config: PropertyDefinition["config"]): readonly SelectOptio
   return raw.filter(isSelectOption)
 }
 
-function readTargetPageTypeId(config: PropertyDefinition["config"]): string | undefined {
-  const raw = config?.targetPageTypeId
+function readText(config: PropertyDefinition["config"], key: string): string | undefined {
+  const raw = config?.[key]
   return typeof raw === "string" ? raw : undefined
 }
 
@@ -39,10 +40,7 @@ export function generateFilterDimensions(
     if (!handler) continue
 
     const operators = handler.getFilterOperators(prop)
-    const targetPageTypeId =
-      prop.type === "relation" || prop.type === "multi-relation"
-        ? readTargetPageTypeId(prop.config)
-        : undefined
+    const relating = prop.type === "relation" || prop.type === "multi-relation"
 
     const dim: PageFilterDimension = {
       id: prop.id,
@@ -50,7 +48,8 @@ export function generateFilterDimensions(
       type: prop.type,
       options: readOptions(prop.config),
       operators,
-      targetPageTypeId,
+      targetPageTypeId: relating ? readText(prop.config, "targetPageTypeId") : undefined,
+      targetPageTypeSlug: relating ? readText(prop.config, "targetPageTypeSlug") : undefined,
     }
     dims.push(dim)
   }

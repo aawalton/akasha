@@ -6,4 +6,10 @@ export const generateFilterDimensions = {
   slug: "generate-filter-dimensions",
   definition: "the filter dimensions a page type's properties offer",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation dimension carries its target type by id and by slug.",
+    },
+  ],
 } as const satisfies Module

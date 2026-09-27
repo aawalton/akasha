@@ -3191,6 +3191,7 @@
 {"propertySlug":"decision-kind","path":"page/core/schema/modules/property-carried/property-carried.module.ts","id":"01a0cad6-b438-739a-a8a6-4fb44c76dd99"}
 {"propertySlug":"decision-kind","path":"page/core/schema/modules/property-config-schemas/property-config-schemas.module.ts","id":"01a05b92-a9c7-7af9-b3b1-08c7b46c9a92"}
 {"propertySlug":"decision-kind","path":"page/core/view-state/modules/reducers/reducers.module.ts","id":"01a05b92-a9c7-78e7-86ac-75649bdb58ed"}
+{"propertySlug":"decision-kind","path":"page/core/view/modules/generate-filter-dimensions/generate-filter-dimensions.module.ts","id":"01a05b92-a9c7-7876-8031-2783b890904c"}
 {"propertySlug":"decision-kind","path":"page/core/view/modules/page-query-times/page-query-times.module.ts","id":"01a05b92-a9c7-70aa-8322-24d56a21550f"}
 {"propertySlug":"decision-kind","path":"page/edge/page-edge.domain.ts","id":"01a049e9-651c-7005-9845-75ac1a5fb3a0"}
 {"propertySlug":"decision-kind","path":"page/email-address-property/email-address-property.page-type.ts","id":"01a053ef-69a0-7d7d-ac01-f2cb92cc7c63"}

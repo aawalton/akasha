@@ -56,6 +56,7 @@ export function RelationValueInput({
   const debouncedSearch = useDebouncedValue(searchValue, RELATION_SEARCH_DEBOUNCE_MS)
 
   const picker = useRelationPicker(dimension.targetPageTypeId, {
+    targetPageTypeSlug: dimension.targetPageTypeSlug,
     searchTerm: debouncedSearch,
     enabled: open,
   })
@@ -128,6 +129,7 @@ export function MultiRelationValueInput({
   const debouncedSearch = useDebouncedValue(searchValue, RELATION_SEARCH_DEBOUNCE_MS)
 
   const picker = useRelationPicker(dimension.targetPageTypeId, {
+    targetPageTypeSlug: dimension.targetPageTypeSlug,
     searchTerm: debouncedSearch,
     enabled: open,
   })
