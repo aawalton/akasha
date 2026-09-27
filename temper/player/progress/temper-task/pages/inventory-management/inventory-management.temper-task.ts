@@ -14,7 +14,7 @@ export const inventoryManagement = {
   scope: "all_characters",
   priority: "p2",
   progress: "jsonl",
-  progressCurrent: 7,
+  progressCurrent: 0,
   progressTotal: 20,
   effectiveCharacter: "temper-account-character/erin-solstice",
   lastCompletedAt: "2026-09-27T01:11:17.438Z",
