@@ -10,7 +10,7 @@ export const otherwhere00018 = {
   position: 18,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "“Fine. In the future, please give me the information I need and not just what I ask for, please.” I go and get the broom, dump out the whole box of salt at the entrance, then start sweeping it outward, keeping a solid perimeter the whole time.",
   beats: [
@@ -27,5 +27,5 @@ export const otherwhere00018 = {
     'He looks up at her. "The small ones, a line will hold."',
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
