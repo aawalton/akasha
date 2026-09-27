@@ -98,6 +98,10 @@ export async function startChannelListener(
     markInjected: (messageId) => {
       markInjected(to, messageId)
     },
+    offerAgain: (messageId) => {
+      releaseClaim(to, messageId)
+      watching.offerAgain(messageId)
+    },
   })
 
   const watching = watchMessagesTo(to, (message) =>
