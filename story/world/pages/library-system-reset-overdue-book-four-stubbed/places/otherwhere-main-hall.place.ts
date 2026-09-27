@@ -105,7 +105,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The break room's cupboards hold a large box of salt, which never spoils.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A break room off the hall holds a dead magical cooler and overgrown terrarium gardens.",
