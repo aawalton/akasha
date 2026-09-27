@@ -3,6 +3,7 @@ import { asPage, type Page } from "akasha/page/core/modules/page-types/page-type
 import {
   PLAYED_ROWS_DRAWN,
   playedChaptersOf,
+  playedClockOf,
   playedEnvelope,
   playedHrefsOf,
   playedMaking,
@@ -123,6 +124,25 @@ describe("playedReady and playedMaking", () => {
   test("nothing is being made once the latest turn is at player", () => {
     expect(playedMaking([read])).toBeNull()
     expect(playedMaking([])).toBeNull()
+  })
+})
+
+describe("playedClockOf", () => {
+  test("says the in-game day and clock time the latest ready turn ends at", () => {
+    const rows = [
+      turnPage({ id: "b", position: 2, endsAt: "2026-09-26T11:42:00.000Z" }),
+      turnPage({ id: "a", position: 1, endsAt: "2026-09-26T09:05:00.000Z" }),
+    ]
+    expect(playedClockOf(rows)).toBe("Saturday, September 26 · 11:42 AM")
+  })
+
+  test("says nothing where the latest ready turn states no end time", () => {
+    const rows = [
+      turnPage({ id: "a", position: 1, endsAt: "2026-09-26T09:05:00.000Z" }),
+      turnPage({ id: "b", position: 2 }),
+    ]
+    expect(playedClockOf(rows)).toBeNull()
+    expect(playedClockOf([])).toBeNull()
   })
 })
 

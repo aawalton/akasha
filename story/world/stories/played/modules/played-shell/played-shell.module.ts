@@ -63,6 +63,10 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The in-game time the latest turn at player ends at is a line under the title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The panels sit in a drawer on a narrow screen and beside the run on a wide one.",
     },
 

@@ -42,6 +42,7 @@ import {
   PLAYED_TURN_PAGE_TYPE_SLUG,
   type PlayedList,
   playedChaptersOf,
+  playedClockOf,
   playedEnvelope,
   playedHrefsOf,
   playedListsOf,
@@ -72,6 +73,8 @@ const PANELS_ASIDE = "hidden flex-col gap-4 lg:sticky lg:top-6 lg:self-start min
 const ASIDE_UNDRAWN = "hidden"
 
 const NOTE_LINE = "font-mono text-tertiary text-xs"
+
+const CLOCK_LINE = "text-secondary text-sm"
 
 const GAME_UNREAD = "The game beside this story went unread, so only its own prose is drawn."
 
@@ -218,6 +221,7 @@ function PlayedStory({
   const characters = usePages(characterOptions)
   const characterAddress = namedAs(characterPlayer.slug, textIn(characters.rows[0]?.slug), null)
   const lastTurn = useMemo(() => lastTurnOf(ready), [ready])
+  const clock = useMemo(() => playedClockOf(ready), [ready])
   const filed = usePlayedState(characterAddress, lastTurn)
   const characterName = textIn(characters.rows[0]?.title)
   const state = useMemo(() => {
@@ -301,6 +305,7 @@ function PlayedStory({
       head={
         <>
           {titleRow}
+          {clock === null ? null : <p className={CLOCK_LINE}>{clock}</p>}
           {beside.kind === "unread" ? <p className={NOTE_LINE}>{GAME_UNREAD}</p> : null}
         </>
       }

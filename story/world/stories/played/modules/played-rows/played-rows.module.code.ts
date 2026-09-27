@@ -126,6 +126,27 @@ export function playedMaking(rows: readonly Page[]): Making | null {
   return { slug: slugIn(last) ?? last.id, action: typeof action === "string" ? action : "", step }
 }
 
+const PLAYED_TURN_ENDS_AT_KEY = "endsAt"
+
+const PLAYED_CLOCK = new Intl.DateTimeFormat("en-US", {
+  timeZone: "UTC",
+  weekday: "long",
+  month: "long",
+  day: "numeric",
+  hour: "numeric",
+  minute: "2-digit",
+})
+
+export function playedClockOf(ready: readonly Page[]): string | null {
+  const ends = playedOrder(ready).at(-1)?.[PLAYED_TURN_ENDS_AT_KEY]
+  if (typeof ends !== "string") return null
+  const at = new Date(ends)
+  if (Number.isNaN(at.getTime())) return null
+  const part = new Map(PLAYED_CLOCK.formatToParts(at).map((one) => [one.type, one.value]))
+  const day = `${part.get("weekday")}, ${part.get("month")} ${part.get("day")}`
+  return `${day} · ${part.get("hour")}:${part.get("minute")} ${part.get("dayPeriod")}`
+}
+
 export function playedTail(rows: readonly Page[]): PlayedTail {
   const ordered = playedOrder(rows)
   const earlier = Math.max(0, ordered.length - PLAYED_ROWS_DRAWN)

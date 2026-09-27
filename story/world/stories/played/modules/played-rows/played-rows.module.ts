@@ -39,6 +39,11 @@ export const playedRows = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The in-game time said is the end time the latest turn at player states, or none if it states none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Every section a panel reads is composed, and the panels named settle what is drawn.",
     },
     {
