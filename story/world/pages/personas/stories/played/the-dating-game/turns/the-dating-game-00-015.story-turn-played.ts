@@ -7,8 +7,18 @@ export const theDatingGame00015 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 15,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     '"You think you could do it? I\'d love a partner on this. Can you make a voice after reading the text without hearing it first?"',
+  beats: [
+    'Alan: "You think you could do it? I\'d love a partner on this."',
+    '"Can you make a voice after reading the text without hearing it first?"',
+    "Echo's squint melts into a slow, pleased smile.",
+    '"I\'d love a partner on this," she gives back, meaning it, though her eyes stay a touch careful.',
+    "She nods at the rest, sure of herself, as easy as a craftswoman asked if she can use her tools.",
+    '"Without hearing it first," she says, and taps her throat: yes.',
+    "Then she holds out her open palm to him, flat, the way a narrator waits for a script.",
+    '"Reading the text," she says, and lifts her eyebrows, waiting for him to give her some.',
+  ],
   lore: ["lore/the-dating-game-echo"],
 } as const satisfies StoryTurnPlayed
