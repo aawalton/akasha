@@ -7,6 +7,7 @@ export const dragonsAndDungeonsMari = {
   title: "Mari",
   world: "world/personas",
   about: "character-other/dragons-and-dungeons-mari",
+  secrets: "jsonl",
   facts: [
     {
       fact: "Mari is a black dragon, Aria's cousin, with amber eyes, obsidian horns and black wings.",
