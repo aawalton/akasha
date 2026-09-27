@@ -7,5 +7,11 @@ export const theDatingGameEcho = {
   title: "Echo",
   world: "world/personas",
   about: "persona/echo",
+  facts: [
+    {
+      fact: "Echo is an Oread, a mountain nymph, who speaks only in words others have said, any she has heard in three thousand years, and leans toward the newest.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
