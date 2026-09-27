@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-equip-type.page-type.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.ts","path":"temper/items/filters/core/modules/search-equip-slot-filter/search-equip-slot-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-equip-type.page-type.ts","path":"temper/web/modules/use-gear-pages/use-gear-pages.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/chest.temper-equip-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/feet.temper-equip-type.ts","typed":true,"deferred":false}
@@ -14,4 +15,6 @@
 {"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/shoulders.temper-equip-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/two-hand.temper-equip-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/waist.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/items/filters/core/modules/search-equip-slot-filter/search-equip-slot-filter.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}

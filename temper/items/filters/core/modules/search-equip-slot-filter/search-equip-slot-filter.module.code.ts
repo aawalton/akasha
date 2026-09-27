@@ -1,22 +1,17 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import { temperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts"
+import type { TemperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.types.ts"
 import { defineFilter } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
+import { numberedOptions } from "akasha/temper/items/filters/core/modules/search-page-options/search-page-options.module.code.ts"
 import { selectedIdsToServerTerms } from "akasha/temper/items/filters/core/modules/search-server-narrowing/search-server-narrowing.module.code.ts"
 import { parseStringArray } from "akasha/temper/items/filters/core/modules/search-string-array-parse/search-string-array-parse.module.code.ts"
 
-const EQUIP_SLOT_OPTIONS = [
-  { value: "1", label: "Head" },
-  { value: "2", label: "Neck" },
-  { value: "3", label: "Chest" },
-  { value: "4", label: "Shoulders" },
-  { value: "5", label: "One Hand" },
-  { value: "6", label: "Two Hand" },
-  { value: "7", label: "Off Hand" },
-  { value: "8", label: "Waist" },
-  { value: "9", label: "Legs" },
-  { value: "10", label: "Feet" },
-  { value: "12", label: "Ring" },
-  { value: "13", label: "Hand" },
-  { value: "14", label: "Main Hand" },
-] as const
+type EquipTypeRow = Pick<TemperEquipType, "title" | "equipType">
+
+const EQUIP_SLOT_OPTIONS = numberedOptions(
+  $pagesOfType<EquipTypeRow>(temperEquipType),
+  (row) => row.equipType
+)
 
 export const EQUIP_SLOT_FILTER = defineFilter<readonly string[]>({
   id: "equip-slot",

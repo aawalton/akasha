@@ -5,6 +5,21 @@ import { medium } from "akasha/temper/catalog/gear/temper-armor-weight/pages/med
 import { noWeight } from "akasha/temper/catalog/gear/temper-armor-weight/pages/no-weight/no-weight.temper-armor-weight.ts"
 import { shield } from "akasha/temper/catalog/gear/temper-armor-weight/pages/shield/shield.temper-armor-weight.ts"
 import type { TemperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.types.ts"
+import { chest } from "akasha/temper/catalog/gear/temper-equip-type/pages/chest.temper-equip-type.ts"
+import { feet } from "akasha/temper/catalog/gear/temper-equip-type/pages/feet.temper-equip-type.ts"
+import { hands } from "akasha/temper/catalog/gear/temper-equip-type/pages/hands.temper-equip-type.ts"
+import { head } from "akasha/temper/catalog/gear/temper-equip-type/pages/head.temper-equip-type.ts"
+import { legs } from "akasha/temper/catalog/gear/temper-equip-type/pages/legs.temper-equip-type.ts"
+import { mainHand } from "akasha/temper/catalog/gear/temper-equip-type/pages/main-hand.temper-equip-type.ts"
+import { neck } from "akasha/temper/catalog/gear/temper-equip-type/pages/neck.temper-equip-type.ts"
+import { offHand } from "akasha/temper/catalog/gear/temper-equip-type/pages/off-hand.temper-equip-type.ts"
+import { oneHand } from "akasha/temper/catalog/gear/temper-equip-type/pages/one-hand.temper-equip-type.ts"
+import { poison } from "akasha/temper/catalog/gear/temper-equip-type/pages/poison.temper-equip-type.ts"
+import { ring } from "akasha/temper/catalog/gear/temper-equip-type/pages/ring.temper-equip-type.ts"
+import { shoulders } from "akasha/temper/catalog/gear/temper-equip-type/pages/shoulders.temper-equip-type.ts"
+import { twoHand } from "akasha/temper/catalog/gear/temper-equip-type/pages/two-hand.temper-equip-type.ts"
+import { waist } from "akasha/temper/catalog/gear/temper-equip-type/pages/waist.temper-equip-type.ts"
+import type { TemperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.types.ts"
 import { axe } from "akasha/temper/catalog/gear/temper-weapon-type/pages/axe/axe.temper-weapon-type.ts"
 import { battleaxe } from "akasha/temper/catalog/gear/temper-weapon-type/pages/battleaxe/battleaxe.temper-weapon-type.ts"
 import { bow } from "akasha/temper/catalog/gear/temper-weapon-type/pages/bow/bow.temper-weapon-type.ts"
@@ -61,6 +76,42 @@ test("the armor weight pages offer the three weights the search filter offered b
     { value: "1", label: "Light" },
     { value: "2", label: "Medium" },
     { value: "3", label: "Heavy" },
+  ])
+})
+
+const EQUIP_TYPES: readonly TemperEquipType[] = [
+  chest,
+  feet,
+  hands,
+  head,
+  legs,
+  mainHand,
+  neck,
+  offHand,
+  oneHand,
+  poison,
+  ring,
+  shoulders,
+  twoHand,
+  waist,
+]
+
+test("the equip type pages offer the slots the filter offered by hand, with Hands and Poison as the game names them", () => {
+  expect(numberedOptions(EQUIP_TYPES, (row) => row.equipType)).toEqual([
+    { value: "1", label: "Head" },
+    { value: "2", label: "Neck" },
+    { value: "3", label: "Chest" },
+    { value: "4", label: "Shoulders" },
+    { value: "5", label: "One Hand" },
+    { value: "6", label: "Two Hand" },
+    { value: "7", label: "Off Hand" },
+    { value: "8", label: "Waist" },
+    { value: "9", label: "Legs" },
+    { value: "10", label: "Feet" },
+    { value: "12", label: "Ring" },
+    { value: "13", label: "Hands" },
+    { value: "14", label: "Main Hand" },
+    { value: "15", label: "Poison" },
   ])
 })
 

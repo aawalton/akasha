@@ -4,9 +4,13 @@ export const searchEquipSlotFilter = {
   id: "01a0613a-e0a7-7f9d-b9bd-ff1e3517930d",
   type: "page-type/module",
   slug: "search-equip-slot-filter",
-  definition: "the equip slot an item occupies, narrowed by a multiselect of thirteen slot numbers",
+  definition: "the equip slot an item occupies, narrowed by a multiselect of equip type numbers",
   code: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The options are the equip type pages, written into the add-on as it compiles.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "The equip slot filter also adds the selected slot numbers to the server request.",
