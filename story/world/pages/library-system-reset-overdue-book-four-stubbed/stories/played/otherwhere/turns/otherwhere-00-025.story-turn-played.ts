@@ -4,10 +4,17 @@ export const otherwhere00025 = {
   id: "01a0e4f4-9ddc-7ef6-a091-e9b6b4eacce5",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-025",
+  ownLength: 114,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 25,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-alan",
+    "character-other/otherwhere-engorged-bookworm-03",
+    "character-other/otherwhere-engorged-bookworm-04",
+  ],
+  turnStatus: "turn-status/reviewers",
   action: "I tackle it into the salt, holding it down with my weight until it stops moving",
   beats: [
     "Nala throws her whole weight forward and drives the bookworm down into the salt line.",
