@@ -5,6 +5,8 @@ export const blackreachVanguard = {
   type: "page-type/temper-motif-style",
   slug: "blackreach-vanguard",
   title: "Blackreach Vanguard",
+  esoItemStyleId: 100,
+  styleName: "Blackreach Vanguard",
   collectionIndex: 69,
   sourceDescription: "Delve/WB dailies (Western Skyrim)",
   dropSources: [
