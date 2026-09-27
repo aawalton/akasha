@@ -6,4 +6,10 @@ export const affectedItemsDialog = {
   slug: "affected-items-dialog",
   definition: "the dialog naming the items a rule would affect",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The dialog's title is a web phrase page.",
+    },
+  ],
 } as const satisfies Module

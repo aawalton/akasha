@@ -16,5 +16,9 @@ export const affectedItemsViews = {
       decisionKind: "decision-kind/departure",
       statement: "The By Location tree is named from the location type and bag pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tab names and the empty note are web phrase pages.",
+    },
   ],
 } as const satisfies Module

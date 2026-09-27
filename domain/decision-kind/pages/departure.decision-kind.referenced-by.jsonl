@@ -6291,6 +6291,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.ts","id":"01a063a1-8cc1-7010-8b74-d5f6fa0b08d5"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/action-filter-cascades/action-filter-cascades.module.ts","id":"01a0636c-5d96-7661-9fd2-10320c6d0000"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/action-options/action-options.module.ts","id":"01a0636c-5d96-7dc6-a22c-810f2f640002"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/affected-items-dialog/affected-items-dialog.module.ts","id":"01a0636c-5d96-71d4-b6a9-8ec22f7e0003"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.ts","id":"01a0636c-5d96-799f-a4a3-b169e3670004"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.ts","id":"01a0636c-5d97-72db-98d0-8c886c670005"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.ts","id":"01a0636c-5d97-74d0-b867-42b23aa30006"}

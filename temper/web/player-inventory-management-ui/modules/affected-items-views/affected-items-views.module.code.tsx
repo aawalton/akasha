@@ -30,6 +30,11 @@ import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { affectedItemsViewsEmpty } from "akasha/temper/web/phrase/pages/affected-items-views-empty.temper-web-phrase.ts"
+import { affectedItemsViewsList } from "akasha/temper/web/phrase/pages/affected-items-views-list.temper-web-phrase.ts"
+import { inventoryPageContentByLocation } from "akasha/temper/web/phrase/pages/inventory-page-content-by-location.temper-web-phrase.ts"
+import { inventoryPageContentByType } from "akasha/temper/web/phrase/pages/inventory-page-content-by-type.temper-web-phrase.ts"
 import {
   leafToValueData,
   type ValueExplanationData,
@@ -128,6 +133,7 @@ export function AffectedItemsViews({
   className,
 }: AffectedItemsViewsProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const [viewMode, setViewMode] = useState<ViewMode>(defaultView)
   const [valueDialogData, setValueDialogData] = useState<ValueExplanationData | null>(null)
   const [valueDialogOpen, setValueDialogOpen] = useState(false)
@@ -251,7 +257,7 @@ export function AffectedItemsViews({
   if (items.length === 0) {
     return (
       <Text variant="hint" className="py-4 text-center">
-        No items to show.
+        {phrase(affectedItemsViewsEmpty.slug)}
       </Text>
     )
   }
@@ -269,16 +275,16 @@ export function AffectedItemsViews({
           {showFlatTab && (
             <TabsTrigger value="flat">
               <List className="size-3.5" />
-              List
+              {phrase(affectedItemsViewsList.slug)}
             </TabsTrigger>
           )}
           <TabsTrigger value="type">
             <LayoutList className="size-3.5" />
-            By Type
+            {phrase(inventoryPageContentByType.slug)}
           </TabsTrigger>
           <TabsTrigger value="location">
             <MapPin className="size-3.5" />
-            By Location
+            {phrase(inventoryPageContentByLocation.slug)}
           </TabsTrigger>
         </TabsList>
         <TabsContent value="flat" className="min-h-0">
