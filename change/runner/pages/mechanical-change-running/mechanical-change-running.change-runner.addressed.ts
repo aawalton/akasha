@@ -149,6 +149,9 @@ export type Changes = {
   "change-mechanical-page-type/sort-property-values-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
+  "change-mechanical-page-type/unquote-text-on-every-page": Parameters<
+    typeof import("akasha/change/mechanical/page-type/change/unquote-text-on-every-page/unquote-text-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
   "change-mechanical/add-file-code": Parameters<
     typeof import("akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.code.ts")["runChange"]
   >[1]

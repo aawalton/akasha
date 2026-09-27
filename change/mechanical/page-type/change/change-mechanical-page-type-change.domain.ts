@@ -10,6 +10,7 @@ export const changeMechanicalPageTypeChange = {
     "change-mechanical-page-type/change-property-on-page-type",
     "change-mechanical-page-type/qualify-relation-by-key-on-every-page",
     "change-mechanical-page-type/qualify-relation-on-every-page",
+    "change-mechanical-page-type/unquote-text-on-every-page",
   ],
   decisions: [
     {

@@ -185,4 +185,7 @@ export type Changes = {
   "change-agent/sort-property-values-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/unquote-text-on-every-page": Parameters<
+    typeof import("akasha/change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.code.ts")["runChange"]
+  >[1]
 }

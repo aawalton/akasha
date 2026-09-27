@@ -185,6 +185,9 @@ export type Changes = {
   "change-agent/sort-property-values-on-every-page": Parameters<
     typeof import("akasha/change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts")["runChange"]
   >[1]
+  "change-agent/unquote-text-on-every-page": Parameters<
+    typeof import("akasha/change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.code.ts")["runChange"]
+  >[1]
   "change-mechanical-file-content/add-page-property": Parameters<
     typeof import("akasha/change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.code.ts")["runChange"]
   >[1]
@@ -334,6 +337,9 @@ export type Changes = {
   >[1]
   "change-mechanical-page-type/sort-property-values-on-every-page": Parameters<
     typeof import("akasha/change/mechanical/page-type/move/sort-property-values-on-every-page/sort-property-values-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
+  >[1]
+  "change-mechanical-page-type/unquote-text-on-every-page": Parameters<
+    typeof import("akasha/change/mechanical/page-type/change/unquote-text-on-every-page/unquote-text-on-every-page.change-mechanical-page-type.code.ts")["runChange"]
   >[1]
   "change-mechanical/add-file-code": Parameters<
     typeof import("akasha/change/mechanical/file/add/add-file-code/add-file-code.change-mechanical.code.ts")["runChange"]

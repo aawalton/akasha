@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/remove-every-page-of-a-type/remove-every-page-of-a-type.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/remove-property-from-every-page/remove-property-from-every-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/mechanical/page-type/add/copy-property-on-every-page/copy-property-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/mechanical/page-type/move/move-property-on-every-page/move-property-on-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"value-carrying.module.code.ts","path":"change/mechanical/page-type/remove/remove-property-from-every-page/remove-property-from-every-page.change-mechanical-page-type.code.ts","typed":false,"deferred":false}

@@ -48,6 +48,7 @@
 {"propertySlug":"change-kind","path":"change/agent/page-type/remove-property-from-page-type/remove-property-from-page-type.change-agent.ts","id":"01a08287-d90b-7f07-9a9e-bf6209c40126"}
 {"propertySlug":"change-kind","path":"change/agent/page-type/rename-page-type/rename-page-type.change-agent.ts","id":"01a0828f-8c20-74d5-b11c-d220948452b4"}
 {"propertySlug":"change-kind","path":"change/agent/page-type/sort-property-values-on-every-page/sort-property-values-on-every-page.change-agent.ts","id":"01a095a8-fcf7-7a63-8a11-80ee5c1a3025"}
+{"propertySlug":"change-kind","path":"change/agent/page-type/unquote-text-on-every-page/unquote-text-on-every-page.change-agent.ts","id":"01a0e189-620e-72ae-b4cb-00cc07319d6f"}
 {"propertySlug":"change-kind","path":"change/agent/page/rename-page/rename-page.change-agent.ts","id":"01a07718-c9b6-7e8c-bc13-5927529ac249"}
 {"propertySlug":"change-kind","path":"change/agent/page/rename-pages/rename-pages.change-agent.ts","id":"01a08337-0d7c-7cd3-bad9-c30420f68ccf"}
 {"propertySlug":"change-kind","path":"change/agent/prose/change-prose-pattern/change-prose-pattern.change-agent.ts","id":"01a0824b-a376-7b9f-a01a-c3a1e81c3286"}
