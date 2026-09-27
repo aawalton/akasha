@@ -23,6 +23,14 @@ export const hashTableEntries = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A table built from `$pagesOfType` is read as the pages of the page type named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A call handed such pages is read as those same pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every file a table is read through is named with the entries.",
     },
     {

@@ -6,6 +6,7 @@ import {
   markedIn,
   marksOf,
   movedIn,
+  pagesMarked,
   placeOf,
   rowTypeOf,
   tableOf,
@@ -67,11 +68,11 @@ function unmarkedAtBase(change: Change, one: Marked): boolean {
 }
 
 function keptByPages(was: TableRead, marks: readonly Marked[], now: World): boolean {
-  if ("unread" in was) return false
+  if (!("entries" in was)) return false
   return marks.some((other) => {
     if (other.code !== null) return false
     const table = tableOf(other, now)
-    return !("unread" in table) && movedIn(was.entries, table.entries).length === 0
+    return "entries" in table && movedIn(was.entries, table.entries).length === 0
   })
 }
 
@@ -102,6 +103,7 @@ export function refusalsOver(
     if (!touched(one, after.paths, changed)) continue
     const before = tableOf(one, was)
     if ("unread" in after && keptByPages(before, marks, now)) continue
+    if ("pages" in after && pagesMarked(after.pages, marks)) continue
     const reason = judged(one, before, after)
     if (reason !== null) said.push({ path: placeOf(one), reason })
   }

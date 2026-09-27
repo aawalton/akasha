@@ -1,7 +1,9 @@
 import {
   markedIn,
+  pagesMarked,
   placeOf,
   tableOf,
+  unmarkedPagesWhy,
   unreadFor,
   type World,
 } from "akasha/check/code/pages/hash-indexed-entry-keeps-its-place/hash-indexed-entry-keeps-its-place.check-code.decision.code.ts"
@@ -16,9 +18,13 @@ export function hashIndexedEntryKeepsItsPlace(root: string): readonly Judged[] {
     valueOf: commit.pageOf,
   }
   const said: Judged[] = []
-  for (const one of markedIn(commit.index)) {
+  const marks = markedIn(commit.index)
+  for (const one of marks) {
     const found = tableOf(one, world)
     if ("unread" in found) said.push({ path: placeOf(one), reason: unreadFor(one, found.unread) })
+    if ("pages" in found && !pagesMarked(found.pages, marks)) {
+      said.push({ path: placeOf(one), reason: unreadFor(one, unmarkedPagesWhy(found.pages)) })
+    }
   }
   return said
 }

@@ -5,6 +5,7 @@ export type Reader = (path: string) => string | null
 
 export type TableRead =
   | { readonly entries: readonly string[]; readonly paths: readonly string[] }
+  | { readonly pages: string; readonly paths: readonly string[] }
   | { readonly unread: string; readonly paths: readonly string[] }
 
 type Shape = "array" | "record"
@@ -14,9 +15,13 @@ type Held = {
   readonly entries: readonly string[]
 }
 
+type Paged = { readonly pages: string }
+
 type Unread = { readonly unread: string }
 
-type Found = Held | Unread
+type Found = Held | Paged | Unread
+
+const PAGES_OF_TYPE = "$pagesOfType"
 
 type Scope = {
   readonly path: string
@@ -199,6 +204,7 @@ function arrayIn(
     }
     const inner = heldIn(reading, scope, one.expression, depth + 1)
     if ("unread" in inner) return inner
+    if ("pages" in inner) return said(scope, one, "spreads pages into an array")
     if (inner.shape !== "array") return said(scope, one, "spreads a record into an array")
     joined(entries, inner.entries, "array")
   }
@@ -216,6 +222,7 @@ function recordIn(
     if (ts.isSpreadAssignment(one)) {
       const inner = heldIn(reading, scope, one.expression, depth + 1)
       if ("unread" in inner) return inner
+      if ("pages" in inner) return said(scope, one, "spreads pages into a record")
       if (inner.shape !== "record") return said(scope, one, "spreads an array into a record")
       joined(entries, inner.entries, "record")
       continue
@@ -236,16 +243,27 @@ function readingObject(callee: ts.Expression): boolean {
   )
 }
 
+function pagesIn(scope: Scope, node: ts.CallExpression, first: ts.Expression): Found {
+  const named = unwrapped(first)
+  const imported = ts.isIdentifier(named) ? importedIn(scope.source, named.text) : null
+  if (imported === null) return said(scope, node, "reads the pages of no page type it imports")
+  return { pages: imported.path }
+}
+
 function calledIn(reading: Reading, scope: Scope, node: ts.CallExpression, depth: number): Found {
   const callee = unwrapped(node.expression)
   const first = node.arguments[0]
   if (first === undefined) return said(scope, node, "calls something handed no table")
+  if (ts.isIdentifier(callee) && callee.text === PAGES_OF_TYPE) return pagesIn(scope, node, first)
   if (ts.isCallExpression(callee)) return heldIn(reading, scope, first, depth + 1)
   if (!readingObject(callee)) {
+    const handed = heldIn(reading, scope, first, depth + 1)
+    if ("pages" in handed) return handed
     return said(scope, node, `calls \`${collapsed(scope, callee)}\`, which is read no further`)
   }
   const inner = heldIn(reading, scope, first, depth + 1)
   if ("unread" in inner) return inner
+  if ("pages" in inner) return said(scope, node, "reads the keys of pages")
   return { shape: "array", entries: inner.entries }
 }
 
@@ -271,5 +289,6 @@ export function tableIn(read: Reader, path: string, name: string): TableRead {
   if (declared === null) return { unread: `${path} declares no \`${name}\``, paths: paths() }
   const found = heldIn(reading, { path, source }, declared, 0)
   if ("unread" in found) return { unread: found.unread, paths: paths() }
+  if ("pages" in found) return { pages: found.pages, paths: paths() }
   return { entries: counted(found.entries), paths: paths() }
 }

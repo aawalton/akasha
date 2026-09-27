@@ -14,6 +14,7 @@ const IMPORTED = 'import { PART } from "akasha/part/part.module.code.ts"'
 function entriesOf(files: Readonly<Record<string, string>>): readonly string[] {
   const found = tableIn(reading(files), AT, "TABLE")
   if ("unread" in found) throw new Error(found.unread)
+  if ("pages" in found) throw new Error(`read as the pages of ${found.pages}`)
   return found.entries
 }
 
@@ -82,6 +83,23 @@ test("a name the code declares nowhere is unread, and says so", () => {
 
 test("a table built by a call read no further is unread, and names the call", () => {
   expect(unreadOf({ [AT]: "const TABLE = rowsFrom(OTHER)\n" })).toContain("`rowsFrom`")
+})
+
+test("a table read from a page type's pages is read as those pages, through a call over them", () => {
+  const body = [
+    'import { kit } from "akasha/kit/kit.page-type.ts"',
+    "const ROWS = $pagesOfType<Row>(kit)",
+    "const TABLE = namesByPlace(ROWS)",
+    "",
+  ].join("\n")
+  const found = tableIn(reading({ [AT]: body }), AT, "TABLE")
+  expect("pages" in found && found.pages).toBe("kit/kit.page-type.ts")
+})
+
+test("pages of a page type the module does not import are unread", () => {
+  expect(unreadOf({ [AT]: "const TABLE = $pagesOfType<Row>(kit)\n" })).toContain(
+    "reads the pages of no page type it imports"
+  )
 })
 
 test("a table imported from a file that is not there is unread", () => {

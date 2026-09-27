@@ -4,6 +4,7 @@ import {
   type Marked,
   marksOf,
   movedIn,
+  pagesMarked,
   placeOf,
   reasonFor,
   tableOf,
@@ -131,6 +132,17 @@ test("a page stating no value for the field its type is ordered by is no entry",
 test("a page that could not be read is unread", () => {
   const found = tableOf({ ...ROWS, name: "hashPlace" }, world({}, [SKILL_A]))
   expect("unread" in found && found.unread).toContain("could not be read")
+})
+
+test("a table now read from a page type's pages is refused where that type marks no place", () => {
+  const was = tableOf(TABLE, world({ [CODE]: HELD }))
+  const now = { pages: TYPE_PAGE, paths: [CODE] }
+  expect(judged(TABLE, was, now)).toContain("marks no place its pages keep")
+})
+
+test("pages are held by a mark only their own page type states", () => {
+  expect(pagesMarked(TYPE_PAGE, [TABLE, ROWS])).toBe(true)
+  expect(pagesMarked(TYPE_PAGE, [TABLE])).toBe(false)
 })
 
 test("a refusal over code lands on the code, and over pages on the page type", () => {

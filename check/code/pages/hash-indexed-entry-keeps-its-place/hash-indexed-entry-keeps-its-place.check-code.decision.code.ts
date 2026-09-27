@@ -153,8 +153,17 @@ export function unreadFor(one: Marked, why: string): string {
   return `${describedAs(one)} is named as a table a build hash reads by place and could not be read — ${why}`
 }
 
+export function pagesMarked(pages: string, marks: readonly Marked[]): boolean {
+  return marks.some((other) => other.code === null && other.page === pages)
+}
+
+export function unmarkedPagesWhy(pages: string): string {
+  return `it is read from the pages of ${pages}, and that page type marks no place its pages keep`
+}
+
 export function judged(one: Marked, was: TableRead, now: TableRead): string | null {
-  if ("unread" in was) return null
+  if (!("entries" in was)) return null
   if ("unread" in now) return unreadFor(one, now.unread)
+  if ("pages" in now) return unreadFor(one, unmarkedPagesWhy(now.pages))
   return reasonFor(one, movedIn(was.entries, now.entries))
 }
