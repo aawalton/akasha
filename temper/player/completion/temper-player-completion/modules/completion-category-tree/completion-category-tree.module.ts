@@ -9,7 +9,19 @@ export const completionCategoryTree = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the completion-category pages rather than by hand.",
+      statement: "The tree's names, order and nesting are read from the completion category pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card ids stay in code, because a checker answers to each by name.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "Pages naming other cards under a tab than the code names are refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tree is held with the skill catalogue.",
     },
     {
       decisionKind: "decision-kind/departure",

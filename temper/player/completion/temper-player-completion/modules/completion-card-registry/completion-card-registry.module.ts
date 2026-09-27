@@ -9,7 +9,11 @@ export const completionCardRegistry = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A card identifier is a literal type read off the category tree.",
+      statement: "A card identifier is a literal type read off the card ids in code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A card's title is read from its completion category page when asked for.",
     },
   ],
 } as const satisfies Module

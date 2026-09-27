@@ -1,46 +1,47 @@
-import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
+import {
+  CARD_IDS,
+  completionCardTitle,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type { CompletionTab } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 
-export type AccountCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.account)[number]["id"]
-export type CharacterCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.characters)[number]["id"]
-export type CompanionCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.companions)[number]["id"]
-export type TaskCardId = (typeof COMPLETION_CATEGORY_TREE_STATIC.tasks)[number]["id"]
+export type AccountCardId = (typeof CARD_IDS.account)[number]
+export type CharacterCardId = (typeof CARD_IDS.characters)[number]
+export type CompanionCardId = (typeof CARD_IDS.companions)[number]
+export type TaskCardId = (typeof CARD_IDS.tasks)[number]
 type CompletionCardId = AccountCardId | CharacterCardId | CompanionCardId | TaskCardId
 
 export interface CardDescriptor<T extends CompletionCardId> {
-  id: T
-  tab: CompletionTab
-  title: string
+  readonly id: T
+  readonly tab: CompletionTab
+  readonly title: string
 }
 
-export const ACCOUNT_CARDS: CardDescriptor<AccountCardId>[] =
-  COMPLETION_CATEGORY_TREE_STATIC.account.map((n) => ({
-    id: n.id,
-    tab: "account" as const,
-    title: n.name,
+function cardsOf<T extends CompletionCardId>(
+  tab: CompletionTab,
+  ids: readonly T[]
+): CardDescriptor<T>[] {
+  return ids.map((id) => ({
+    id,
+    tab,
+    get title() {
+      return completionCardTitle(tab, id)
+    },
   }))
+}
 
-export const CHARACTER_CARDS: CardDescriptor<CharacterCardId>[] =
-  COMPLETION_CATEGORY_TREE_STATIC.characters.map((n) => ({
-    id: n.id,
-    tab: "characters" as const,
-    title: n.name,
-  }))
+export const ACCOUNT_CARDS: CardDescriptor<AccountCardId>[] = cardsOf("account", CARD_IDS.account)
 
-export const COMPANION_CARDS: CardDescriptor<CompanionCardId>[] =
-  COMPLETION_CATEGORY_TREE_STATIC.companions.map((n) => ({
-    id: n.id,
-    tab: "companions" as const,
-    title: n.name,
-  }))
-
-export const TASK_CARDS: CardDescriptor<TaskCardId>[] = COMPLETION_CATEGORY_TREE_STATIC.tasks.map(
-  (n) => ({
-    id: n.id,
-    tab: "tasks" as const,
-    title: n.name,
-  })
+export const CHARACTER_CARDS: CardDescriptor<CharacterCardId>[] = cardsOf(
+  "characters",
+  CARD_IDS.characters
 )
+
+export const COMPANION_CARDS: CardDescriptor<CompanionCardId>[] = cardsOf(
+  "companions",
+  CARD_IDS.companions
+)
+
+export const TASK_CARDS: CardDescriptor<TaskCardId>[] = cardsOf("tasks", CARD_IDS.tasks)
 
 export type AccountSummaryData = Record<AccountCardId, { count: number; total: number }>
 export type CharacterSummaryData = Record<CharacterCardId, { count: number; total: number }>

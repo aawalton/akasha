@@ -1,273 +1,142 @@
 import type {
   CompletionCategoryNode,
+  CompletionCategoryTree,
   CompletionTab,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
 
-export const COMPLETION_CATEGORY_TREE_STATIC = {
+export const CARD_IDS = {
   account: [
-    {
-      id: "account-achievements",
-      name: "Achievements",
-    },
-    {
-      id: "antiquity-leads-legendary",
-      name: "Antiquity Leads — Legendary",
-    },
-    {
-      id: "antiquity-leads-motifs",
-      name: "Antiquity Leads — Motifs",
-    },
-    {
-      id: "antiquity-lore",
-      name: "Antiquity Lore",
-    },
-    {
-      id: "bank-upgrades",
-      name: "Bank Upgrades",
-    },
-    {
-      id: "champion-points",
-      name: "Champion Points",
-    },
-    {
-      id: "collectibles",
-      name: "Collectibles",
-    },
-    {
-      id: "grand-master-stations",
-      name: "Grand Master Crafting Stations",
-    },
-    {
-      id: "account-recipes",
-      name: "Crafting Recipes",
-    },
-    {
-      id: "account-trait-research",
-      name: "Crafting Traits",
-    },
-    {
-      id: "item-sets",
-      name: "Item Sets",
-    },
-    {
-      id: "lore-library",
-      name: "Lore Library",
-    },
-    {
-      id: "account-points-of-interest",
-      name: "Points of Interest",
-    },
-    {
-      id: "account-quests",
-      name: "Quests",
-    },
-    {
-      id: "account-scribing-knowledge",
-      name: "Skill Scribing",
-      children: [
-        {
-          id: "grimoires",
-          name: "Grimoires",
-        },
-        {
-          id: "scripts",
-          name: "Scripts",
-          children: [
-            {
-              id: "focusScripts",
-              name: "Focus Scripts",
-            },
-            {
-              id: "signatureScripts",
-              name: "Signature Scripts",
-            },
-            {
-              id: "affixScripts",
-              name: "Affix Scripts",
-            },
-          ],
-        },
-      ],
-    },
-    {
-      id: "subclassing-skill-lines",
-      name: "Subclassing Skill Lines",
-    },
-    {
-      id: "subclassing-skill-morphs",
-      name: "Subclassing Skill Morphs",
-    },
-    {
-      id: "tales-of-tribute",
-      name: "Tales of Tribute",
-    },
-    {
-      id: "account-zone-completion",
-      name: "Zone Completion",
-    },
+    "account-achievements",
+    "antiquity-leads-legendary",
+    "antiquity-leads-motifs",
+    "antiquity-lore",
+    "bank-upgrades",
+    "champion-points",
+    "collectibles",
+    "grand-master-stations",
+    "account-recipes",
+    "account-trait-research",
+    "item-sets",
+    "lore-library",
+    "account-points-of-interest",
+    "account-quests",
+    "account-scribing-knowledge",
+    "subclassing-skill-lines",
+    "subclassing-skill-morphs",
+    "tales-of-tribute",
+    "account-zone-completion",
   ],
   characters: [
-    {
-      id: "character-achievements",
-      name: "Achievements",
-    },
-    {
-      id: "alliance-rank",
-      name: "Alliance Rank",
-    },
-    {
-      id: "cadwells-almanac",
-      name: "Cadwell's Almanac",
-    },
-    {
-      id: "character-level",
-      name: "Character Level",
-    },
-    {
-      id: "companion-quests",
-      name: "Companion Quests",
-    },
-    {
-      id: "daily-writs",
-      name: "Daily Crafting Writs",
-    },
-    {
-      id: "companion-rapport-character",
-      name: "Companion Rapport",
-    },
-    {
-      id: "recipes",
-      name: "Crafting Recipes",
-    },
-    {
-      id: "trait-research",
-      name: "Crafting Traits",
-    },
-    {
-      id: "lore-library-character",
-      name: "Lore Library",
-    },
-    {
-      id: "mount-training",
-      name: "Mount Training",
-    },
-    {
-      id: "pack-upgrades",
-      name: "Pack Upgrades",
-    },
-    {
-      id: "points-of-interest",
-      name: "Points of Interest",
-    },
-    {
-      id: "quests",
-      name: "Quests",
-    },
-    {
-      id: "skill-lines",
-      name: "Skill Lines",
-    },
-    {
-      id: "skill-morphs",
-      name: "Skill Morphs",
-    },
-    {
-      id: "skill-points",
-      name: "Skill Points",
-      children: [
-        {
-          id: "general",
-          name: "General",
-        },
-        {
-          id: "skyshards",
-          name: "Skyshards",
-        },
-        {
-          id: "storyZoneQuests",
-          name: "Story Zone Quests",
-        },
-        {
-          id: "groupDungeons",
-          name: "Group Dungeons",
-        },
-        {
-          id: "publicDungeons",
-          name: "Public Dungeons",
-        },
-      ],
-    },
-    {
-      id: "scribing-knowledge",
-      name: "Skill Scribing",
-      children: [
-        {
-          id: "grimoires",
-          name: "Grimoires",
-        },
-        {
-          id: "scripts",
-          name: "Scripts",
-          children: [
-            {
-              id: "focusScripts",
-              name: "Focus Scripts",
-            },
-            {
-              id: "signatureScripts",
-              name: "Signature Scripts",
-            },
-            {
-              id: "affixScripts",
-              name: "Affix Scripts",
-            },
-          ],
-        },
-      ],
-    },
-    {
-      id: "zone-completion",
-      name: "Zone Completion",
-    },
+    "character-achievements",
+    "alliance-rank",
+    "cadwells-almanac",
+    "character-level",
+    "companion-quests",
+    "daily-writs",
+    "companion-rapport-character",
+    "recipes",
+    "trait-research",
+    "lore-library-character",
+    "mount-training",
+    "pack-upgrades",
+    "points-of-interest",
+    "quests",
+    "skill-lines",
+    "skill-morphs",
+    "skill-points",
+    "scribing-knowledge",
+    "zone-completion",
   ],
   companions: [
-    {
-      id: "companion-level",
-      name: "Companion Level",
-    },
-    {
-      id: "companion-quests-union",
-      name: "Companion Quests",
-    },
-    {
-      id: "companion-rapport",
-      name: "Companion Rapport",
-    },
-    {
-      id: "companion-skill-lines",
-      name: "Companion Skill Lines",
-    },
+    "companion-level",
+    "companion-quests-union",
+    "companion-rapport",
+    "companion-skill-lines",
   ],
-  tasks: [
-    {
-      id: "guild-sales",
-      name: "Guild Sales",
-    },
-    {
-      id: "hireling-mails",
-      name: "Hireling Mails",
-    },
-    {
-      id: "active-quests",
-      name: "Active Quests",
-    },
-    {
-      id: "inventory-management",
-      name: "Inventory Management",
-    },
-    {
-      id: "dungeon-sets",
-      name: "Dungeon Sets",
-    },
-  ],
-} as const satisfies Record<CompletionTab, readonly CompletionCategoryNode[]>
+  tasks: ["guild-sales", "hireling-mails", "active-quests", "inventory-management", "dungeon-sets"],
+} as const satisfies Record<CompletionTab, readonly string[]>
+
+interface CompletionCategoryPage {
+  readonly slug?: unknown
+  readonly title?: unknown
+  readonly nodeId?: unknown
+  readonly tab?: unknown
+  readonly displayOrder?: unknown
+  readonly parent?: unknown
+}
+
+export const COMPLETION_CATEGORY_FIELDS: readonly string[] = [
+  "slug",
+  "title",
+  "nodeId",
+  "tab",
+  "displayOrder",
+  "parent",
+]
+
+const TABS: readonly CompletionTab[] = ["account", "characters", "companions", "tasks"]
+
+const UNREAD =
+  "the completion tree is read from the completion category pages, and nothing has read it yet — hold the skill catalogue before the work starts"
+
+let held: CompletionCategoryTree | null = null
+
+function parentOf(page: CompletionCategoryPage): string | null {
+  if (typeof page.parent !== "string") return null
+  const named = page.parent.split("/")
+  return named[named.length - 1] ?? null
+}
+
+function placeOf(page: CompletionCategoryPage): number {
+  if (typeof page.displayOrder !== "number") {
+    throw new Error(`the completion category ${String(page.slug)} states no place`)
+  }
+  return page.displayOrder
+}
+
+function nodesUnder(
+  pages: readonly CompletionCategoryPage[],
+  parent: unknown
+): readonly CompletionCategoryNode[] {
+  return pages
+    .filter((page) => parentOf(page) === parent)
+    .sort((one, other) => placeOf(one) - placeOf(other))
+    .map((page) => {
+      const node = { id: String(page.nodeId), name: String(page.title) }
+      const children = nodesUnder(pages, page.slug)
+      return children.length > 0 ? { ...node, children } : node
+    })
+}
+
+function treeOf(pages: readonly CompletionCategoryPage[]): CompletionCategoryTree {
+  const tree: Partial<Record<CompletionTab, readonly CompletionCategoryNode[]>> = {}
+  for (const tab of TABS) {
+    const root = pages.find((page) => parentOf(page) === null && page.tab === tab)
+    const cards = root === undefined ? [] : nodesUnder(pages, root.slug)
+    const named = cards.map((card) => card.id).join(",")
+    if (named !== CARD_IDS[tab].join(",")) {
+      throw new Error(
+        `the ${tab} completion pages name the cards ${named}, and no others are drawn`
+      )
+    }
+    tree[tab] = cards
+  }
+  return tree as CompletionCategoryTree
+}
+
+export function holdCompletionCategoryPages(pages: readonly CompletionCategoryPage[]): undefined {
+  held = treeOf(pages)
+  return undefined
+}
+
+export function completionCategoryTree(): CompletionCategoryTree {
+  const tree = held
+  if (tree === null) throw new Error(UNREAD)
+  return tree
+}
+
+export function completionCardTitle(tab: CompletionTab, cardId: string): string {
+  const card = completionCategoryTree()[tab].find((one) => one.id === cardId)
+  if (card === undefined) throw new Error(`no ${tab} completion page names the card ${cardId}`)
+  return card.name
+}

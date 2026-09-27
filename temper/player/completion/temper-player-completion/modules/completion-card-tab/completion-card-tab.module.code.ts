@@ -1,4 +1,4 @@
-import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
+import { completionCategoryTree } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type {
   CompletionCategoryNode,
   CompletionCategoryTree,
@@ -40,7 +40,7 @@ function cardTabMap(tree: CompletionCategoryTree): Map<string, CompletionTab | n
 
 export function getCompletionCardTab(
   cardId: string,
-  tree: CompletionCategoryTree = COMPLETION_CATEGORY_TREE_STATIC
+  tree: CompletionCategoryTree = completionCategoryTree()
 ): CompletionTab | undefined {
   return cardTabMap(tree).get(cardId) ?? undefined
 }

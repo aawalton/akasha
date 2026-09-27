@@ -1,9 +1,12 @@
 import { describe, expect, test } from "bun:test"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { getCompletionCardTab } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-tab/completion-card-tab.module.code.ts"
 import {
   type AchievementHeading,
   composeCompletionCategoryTree,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
+
+holdSkillCatalogFromCheckout()
 
 const ACCOUNT_HEADINGS: readonly AchievementHeading[] = [
   { name: "Alliance War", subCategories: [{ name: "Emperor" }] },

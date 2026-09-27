@@ -41,6 +41,7 @@ import { temperFoodOrDrink } from "akasha/temper/player/character/source/temper-
 import { temperMundusStone } from "akasha/temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts"
 import { temperSkillBar } from "akasha/temper/player/character/temper-skill-bar/temper-skill-bar.page-type.ts"
 import { temperSkillPoint } from "akasha/temper/player/character/temper-skill-point/temper-skill-point.page-type.ts"
+import { temperCompletionCategory } from "akasha/temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 import { useMemo } from "react"
 
@@ -81,7 +82,12 @@ export function useSkillCatalog(): SkillCatalog | null {
   const races = usePages({ pageTypeSlug: temperRace.slug, limit: EVERY })
   const qualities = usePages({ pageTypeSlug: temperQuality.slug, limit: EVERY })
   const skillPoints = usePages({ pageTypeSlug: temperSkillPoint.slug, limit: EVERY })
+  const completionCategories = usePages({
+    pageTypeSlug: temperCompletionCategory.slug,
+    limit: EVERY,
+  })
   const read = [
+    completionCategories,
     skillPoints,
     qualities,
     allPotions,
@@ -156,6 +162,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperRace.slug, races.rows],
       [temperQuality.slug, qualities.rows],
       [temperSkillPoint.slug, skillPoints.rows],
+      [temperCompletionCategory.slug, completionCategories.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -196,6 +203,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     races.rows,
     qualities.rows,
     skillPoints.rows,
+    completionCategories.rows,
   ])
   if (failed !== null) throw failed
   return catalog

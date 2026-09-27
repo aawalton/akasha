@@ -26,7 +26,7 @@ export const completionCardTab = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The tree answered from is handed in, and the static tree where it is not.",
+      statement: "The tree answered from is handed in, and the held page tree where it is not.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,4 +1,4 @@
-import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
+import { completionCategoryTree } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type {
   CompletionCategoryNode,
   CompletionCategoryTree,
@@ -41,18 +41,15 @@ export function composeCompletionCategoryTree(
   accountHeadings: readonly AchievementHeading[],
   characterHeadings: readonly AchievementHeading[]
 ): CompletionCategoryTree {
+  const tree = completionCategoryTree()
   return {
-    account: attachAchievementChildren(
-      COMPLETION_CATEGORY_TREE_STATIC.account,
-      ACCOUNT_ACHIEVEMENTS_CARD_ID,
-      accountHeadings
-    ),
+    account: attachAchievementChildren(tree.account, ACCOUNT_ACHIEVEMENTS_CARD_ID, accountHeadings),
     characters: attachAchievementChildren(
-      COMPLETION_CATEGORY_TREE_STATIC.characters,
+      tree.characters,
       CHARACTER_ACHIEVEMENTS_CARD_ID,
       characterHeadings
     ),
-    companions: COMPLETION_CATEGORY_TREE_STATIC.companions,
-    tasks: COMPLETION_CATEGORY_TREE_STATIC.tasks,
+    companions: tree.companions,
+    tasks: tree.tasks,
   }
 }

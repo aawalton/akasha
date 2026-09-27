@@ -15,7 +15,7 @@ export const completionCardPage = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Both answers are read off the category tree rather than off the pages.",
+      statement: "Both answers are read off the card ids rather than off the pages.",
     },
     {
       decisionKind: "decision-kind/departure",

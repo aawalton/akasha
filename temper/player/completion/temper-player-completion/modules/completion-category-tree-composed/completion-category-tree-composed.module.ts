@@ -30,7 +30,7 @@ export const completionCategoryTreeComposed = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Composing over the static tree leaves the static tree unchanged.",
+      statement: "Composing over the held page tree leaves that tree unchanged.",
     },
   ],
 } as const satisfies Module

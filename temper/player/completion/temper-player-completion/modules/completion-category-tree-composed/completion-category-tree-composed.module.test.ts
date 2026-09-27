@@ -1,5 +1,6 @@
 import { describe, expect, test } from "bun:test"
-import { COMPLETION_CATEGORY_TREE_STATIC } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+import { completionCategoryTree } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import {
   ACCOUNT_ACHIEVEMENTS_CARD_ID,
   type AchievementHeading,
@@ -7,6 +8,10 @@ import {
   composeCompletionCategoryTree,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.code.ts"
 import type { CompletionCategoryNode } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
+
+holdSkillCatalogFromCheckout()
+
+const COMPLETION_CATEGORY_TREE_STATIC = completionCategoryTree()
 
 const ACCOUNT_HEADINGS: readonly AchievementHeading[] = [
   { name: "Recent Seasons", subCategories: [{ name: "General" }] },

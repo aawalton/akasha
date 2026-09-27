@@ -1,5 +1,5 @@
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-skill-point.page-type.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-point.page-type.ts","path":"temper/player/completion/temper-player-completion/modules/completion-page-reading/completion-page-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/ad0.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/ad1.temper-skill-point.ts","typed":true,"deferred":false}
