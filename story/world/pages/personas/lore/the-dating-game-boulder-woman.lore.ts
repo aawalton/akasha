@@ -72,5 +72,6 @@ export const theDatingGameBoulderWoman = {
       fact: "Every word she said after Alan called up to her was one of his.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    { fact: "Her name is Echo.", knowers: ["lore-disclosure/game-master"] },
   ],
 } as const satisfies Lore
