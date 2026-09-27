@@ -5107,9 +5107,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/enchant-reading/enchant-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/gear-type-names/gear-type-names.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/graded-effects/graded-effects.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/gear/equipment/modules/set-category-ids/set-category-ids.module.ts","typed":true,"deferred":false}
@@ -5766,7 +5768,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/clear-incompatible-sets/clear-incompatible-sets.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/item-composites/item-composites.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/jewelry-source/jewelry-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/character/characters-equipment/modules/jewelry-trait-effects/jewelry-trait-effects.module.ts","typed":true,"deferred":false}
@@ -6427,6 +6428,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-completion-filters/use-completion-filters.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-filtered-builds/use-filtered-builds.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-gear-pages/use-gear-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-item-category-tree/use-item-category-tree.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.ts","typed":true,"deferred":false}

@@ -8,9 +8,11 @@ export const temperEquipment = {
   parts: [
     "module/armor-traits",
     "module/armor-weight-ids",
+    "module/enchant-reading",
     "module/eso-trait-map",
     "module/gear-reading",
     "module/gear-type-names",
+    "module/graded-effects",
     "module/held-gear-table",
     "module/trait-reading",
     "module/jewelry-traits",

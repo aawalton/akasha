@@ -11,4 +11,6 @@ export const prismaticOnslaught = {
   essenceRune: "Hakeijo",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_ONSLAUGHT",
   displayOrder: 14,
+  hashPlace: 14,
+  esoEnchantSearchCategory: 35,
 } as const satisfies TemperWeaponEnchant

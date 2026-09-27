@@ -11,4 +11,6 @@ export const absorbMagicka = {
   essenceRune: "Makkoma",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_ABSORB_MAGICKA",
   displayOrder: 3,
+  hashPlace: 3,
+  esoEnchantSearchCategory: 23,
 } as const satisfies TemperWeaponEnchant

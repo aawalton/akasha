@@ -304,6 +304,7 @@ export const temperWeb = {
     "module/use-completion-filters",
     "module/use-completion-progress",
     "module/use-filtered-builds",
+    "module/use-gear-pages",
     "module/use-import-error-toast",
     "module/use-partner-build-url",
     "module/use-passive-filter",

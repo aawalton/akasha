@@ -12,4 +12,6 @@ export const reduceSpellCost = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_REDUCE_SPELL_COST",
   displayOrder: 7,
   effects: "jsonl",
+  hashPlace: 7,
+  esoEnchantSearchCategory: 25,
 } as const satisfies TemperJewelryEnchant

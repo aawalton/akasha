@@ -12,4 +12,6 @@ export const diseaseResist = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_DISEASE_RESISTANT",
   displayOrder: 14,
   effects: "jsonl",
+  hashPlace: 14,
+  esoEnchantSearchCategory: 5,
 } as const satisfies TemperJewelryEnchant

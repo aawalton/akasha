@@ -1,3 +1,9 @@
+{"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.ts","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids-keeping/gear-kind-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.ts","path":"temper/catalog/gear/equipment/modules/enchant-reading/enchant-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.ts","path":"temper/web/modules/use-gear-pages/use-gear-pages.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bashing/bashing.temper-jewelry-enchant.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/bracing/bracing.temper-jewelry-enchant.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-jewelry-enchant.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/pages/decrease-physical-harm/decrease-physical-harm.temper-jewelry-enchant.ts","typed":true,"deferred":false}

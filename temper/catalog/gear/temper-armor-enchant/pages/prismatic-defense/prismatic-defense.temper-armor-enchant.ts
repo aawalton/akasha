@@ -12,4 +12,6 @@ export const prismaticDefense = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_DEFENSE",
   displayOrder: 4,
   effects: "jsonl",
+  hashPlace: 4,
+  esoEnchantSearchCategory: 36,
 } as const satisfies TemperArmorEnchant

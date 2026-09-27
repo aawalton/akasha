@@ -1,7 +1,7 @@
 {"propertySlug":"import","fileName":"temper-quality.page-type.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-quality.page-type.ts","path":"temper/catalog/gear/temper-quality/modules/quality-ids-keeping/quality-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-quality.page-type.ts","path":"temper/player/character/build/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-quality.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-quality.page-type.ts","path":"temper/web/modules/use-gear-pages/use-gear-pages.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-quality.page-type.types.ts","path":"temper/catalog/gear/temper-quality/pages/epic.temper-quality.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-quality.page-type.types.ts","path":"temper/catalog/gear/temper-quality/pages/fine.temper-quality.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-quality.page-type.types.ts","path":"temper/catalog/gear/temper-quality/pages/legendary.temper-quality.ts","typed":true,"deferred":false}

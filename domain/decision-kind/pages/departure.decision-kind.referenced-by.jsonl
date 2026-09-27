@@ -5024,9 +5024,11 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.ts","id":"01a0610f-45b9-7cd1-b86c-956394916d9b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.ts","id":"01a060f0-3eac-71f4-ab24-ac7b5ad15139"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/enchant-reading/enchant-reading.module.ts","id":"01a0e107-cf3c-7482-bded-1ed7ecba215f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.ts","id":"01a0610f-45ba-79d3-b258-2e9d709283b7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.ts","id":"01a0e0a8-7160-7e48-98ca-a76cb2d40608"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/gear-type-names/gear-type-names.module.ts","id":"01a0e0f1-c52f-79b5-8396-13fc14696f93"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/graded-effects/graded-effects.module.ts","id":"01a0e107-cf3c-7810-b278-64f5c55a9a2b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.ts","id":"01a0e0c4-2114-71f3-b6a1-be4494c0f478"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.ts","id":"01a0610f-45bb-7e6d-9e65-09ec21c0cff3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.ts","id":"01a0e0f3-80ea-7bb5-8c71-3c713f08bb69"}
@@ -5035,11 +5037,13 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.ts","id":"01a0d3e3-15fd-7894-84c4-490fc66d1590"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/item-set/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.ts","id":"01a05fd1-d42e-7a0a-9e97-561c71aeccd4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts","id":"01a05fb0-3ceb-7229-9089-127418274d52"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.ts","id":"01a0d62c-4624-7bf3-b478-830ca19d8e09"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.one-of-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts","id":"01a05fd1-d432-7bca-b936-c66974cf77aa"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts","id":"01a05fd1-d433-7c53-933e-ed171c6f7cf9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts","id":"01a05fd1-d433-7778-b5e5-05081a435bde"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.multi-relation-property.ts","id":"01a05fd1-d439-7027-bdca-1804e14d6caf"}
@@ -5074,6 +5078,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/valid-pieces.text-property.ts","id":"01a05fd1-d43f-7be1-a074-25f62cd6a7ee"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-talisman-gem/temper-talisman-gem.page-type.ts","id":"01a0d986-17f8-7c83-850b-f9d408fc31db"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts","id":"01a05fd1-d441-7e40-89d2-1fcb87133420"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","id":"01a05fd1-d442-7175-b5e4-f7ef9e21a36c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
@@ -5733,7 +5738,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/character-build/version/properties/character-build-version-build.relation-property.ts","id":"01a0d89d-06ef-7056-b5d4-54f6aac7beb1"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.ts","id":"01a0616f-8e17-7a0c-8406-2388ce2938e6"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.ts","id":"01a0616f-8e17-7f39-850b-c2da8d153a31"}
-{"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/jewelry-enchants-data/jewelry-enchants-data.module.ts","id":"01a0616f-8e14-79ec-a8cd-c4989b33053d"}
+{"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.ts","id":"01a0616f-8e17-7f4a-88b7-d9d36af92429"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.ts","id":"01a0de3a-6829-7f01-b43e-d311f5dbbda7"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.ts","id":"01a0616f-8e15-7812-a6e6-cca332a9a6e5"}
 {"propertySlug":"decision-kind","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.ts","id":"01a061a4-18b0-70f3-9811-f8f48f7e103b"}
@@ -6111,6 +6116,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-bodies/use-completion-bodies.module.ts","id":"01a076b9-598a-7c82-b905-b629a56a823f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.ts","id":"01a06421-f74b-780d-8790-490781880039"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-gear-pages/use-gear-pages.module.ts","id":"01a0e107-cf3c-7860-82f3-d5a0a554c6cf"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.ts","id":"01a0640f-8510-7768-9aee-350974e45eea"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-item-category-tree/use-item-category-tree.module.ts","id":"01a0e0db-a703-7a94-a155-73ba17689053"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.ts","id":"01a0e0a0-2424-7002-ba1d-fa31bcb70e5b"}

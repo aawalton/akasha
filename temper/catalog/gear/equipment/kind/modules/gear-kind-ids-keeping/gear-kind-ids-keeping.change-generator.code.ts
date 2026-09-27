@@ -1,9 +1,12 @@
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { temperArmorEnchant } from "akasha/temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.ts"
 import { temperArmorSlot } from "akasha/temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts"
 import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts"
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
+import { temperJewelryEnchant } from "akasha/temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts"
 import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
 import { temperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts"
+import { temperWeaponEnchant } from "akasha/temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts"
 import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
 import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
 import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
@@ -36,6 +39,9 @@ const KEEPING: Keeping = {
     { name: "ArmorTraitId", holds: every, pageTypeSlug: temperArmorTrait.slug },
     { name: "WeaponTraitId", holds: every, pageTypeSlug: temperWeaponTrait.slug },
     { name: "JewelryTraitId", holds: every, pageTypeSlug: temperJewelryTrait.slug },
+    { name: "ArmorEnchantId", holds: every, pageTypeSlug: temperArmorEnchant.slug },
+    { name: "WeaponEnchantId", holds: every, pageTypeSlug: temperWeaponEnchant.slug },
+    { name: "JewelryEnchantId", holds: every, pageTypeSlug: temperJewelryEnchant.slug },
   ],
 }
 

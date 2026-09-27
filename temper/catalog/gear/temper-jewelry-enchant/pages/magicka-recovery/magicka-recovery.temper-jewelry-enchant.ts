@@ -12,4 +12,6 @@ export const magickaRecovery = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_MAGICKA_REGEN",
   displayOrder: 3,
   effects: "jsonl",
+  hashPlace: 3,
+  esoEnchantSearchCategory: 14,
 } as const satisfies TemperJewelryEnchant

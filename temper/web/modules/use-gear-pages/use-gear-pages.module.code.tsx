@@ -1,0 +1,103 @@
+"use client"
+
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import { temperGearGrade } from "akasha/temper/catalog/gear/grade/temper-gear-grade.page-type.ts"
+import { temperArmorEnchant } from "akasha/temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.ts"
+import { temperArmorSlot } from "akasha/temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts"
+import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts"
+import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
+import { temperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.ts"
+import { temperJewelryEnchant } from "akasha/temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts"
+import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
+import { temperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts"
+import { temperJewelryType } from "akasha/temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts"
+import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
+import { temperWeaponEnchant } from "akasha/temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts"
+import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
+import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
+import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
+import { useMemo } from "react"
+
+const EVERY = 5000
+
+export interface GearPages {
+  readonly loading: boolean
+  readonly failed: Error | null
+  readonly rows: ReadonlyMap<string, Iterable<Value>>
+}
+
+export function useGearPages(): GearPages {
+  const qualities = usePages({ pageTypeSlug: temperQuality.slug, limit: EVERY })
+  const armorSlots = usePages({ pageTypeSlug: temperArmorSlot.slug, limit: EVERY })
+  const jewelrySlots = usePages({ pageTypeSlug: temperJewelrySlot.slug, limit: EVERY })
+  const jewelryTypes = usePages({ pageTypeSlug: temperJewelryType.slug, limit: EVERY })
+  const weaponSlots = usePages({ pageTypeSlug: temperWeaponSlot.slug, limit: EVERY })
+  const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
+  const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
+  const weaponTypes = usePages({ pageTypeSlug: temperWeaponType.slug, limit: EVERY })
+  const armorTraits = usePages({ pageTypeSlug: temperArmorTrait.slug, limit: EVERY })
+  const weaponTraits = usePages({ pageTypeSlug: temperWeaponTrait.slug, limit: EVERY })
+  const jewelryTraits = usePages({ pageTypeSlug: temperJewelryTrait.slug, limit: EVERY })
+  const traitNumbers = usePages({ pageTypeSlug: temperEsoTraitMap.slug, limit: EVERY })
+  const armorEnchants = usePages({ pageTypeSlug: temperArmorEnchant.slug, limit: EVERY })
+  const weaponEnchants = usePages({ pageTypeSlug: temperWeaponEnchant.slug, limit: EVERY })
+  const jewelryEnchants = usePages({ pageTypeSlug: temperJewelryEnchant.slug, limit: EVERY })
+  const read = [
+    qualities,
+    armorSlots,
+    jewelrySlots,
+    jewelryTypes,
+    weaponSlots,
+    armorWeights,
+    grades,
+    weaponTypes,
+    armorTraits,
+    weaponTraits,
+    jewelryTraits,
+    traitNumbers,
+    armorEnchants,
+    weaponEnchants,
+    jewelryEnchants,
+  ]
+  const failed = read.find((one) => one.error !== null)?.error ?? null
+  const loading = read.some((one) => one.isLoading)
+  const rows = useMemo(
+    () =>
+      new Map<string, Iterable<Value>>([
+        [temperQuality.slug, qualities.rows],
+        [temperArmorSlot.slug, armorSlots.rows],
+        [temperJewelrySlot.slug, jewelrySlots.rows],
+        [temperJewelryType.slug, jewelryTypes.rows],
+        [temperWeaponSlot.slug, weaponSlots.rows],
+        [temperArmorWeight.slug, armorWeights.rows],
+        [temperGearGrade.slug, grades.rows],
+        [temperWeaponType.slug, weaponTypes.rows],
+        [temperArmorTrait.slug, armorTraits.rows],
+        [temperWeaponTrait.slug, weaponTraits.rows],
+        [temperJewelryTrait.slug, jewelryTraits.rows],
+        [temperEsoTraitMap.slug, traitNumbers.rows],
+        [temperArmorEnchant.slug, armorEnchants.rows],
+        [temperWeaponEnchant.slug, weaponEnchants.rows],
+        [temperJewelryEnchant.slug, jewelryEnchants.rows],
+      ]),
+    [
+      qualities.rows,
+      armorSlots.rows,
+      jewelrySlots.rows,
+      jewelryTypes.rows,
+      weaponSlots.rows,
+      armorWeights.rows,
+      grades.rows,
+      weaponTypes.rows,
+      armorTraits.rows,
+      weaponTraits.rows,
+      jewelryTraits.rows,
+      traitNumbers.rows,
+      armorEnchants.rows,
+      weaponEnchants.rows,
+      jewelryEnchants.rows,
+    ]
+  )
+  return { loading, failed, rows }
+}

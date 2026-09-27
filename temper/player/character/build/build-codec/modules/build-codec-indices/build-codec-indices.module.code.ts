@@ -41,13 +41,6 @@ import { vampireStages } from "akasha/temper/player/character/source/modules/vam
 
 
 
-const armorEnchantIds = armorEnchants.ids
-
-
-const jewelryEnchantIds = jewelryEnchants.ids
-
-
-const weaponEnchantIds = weaponEnchantments.ids
 const poisonIds = poisons.ids
 
 
@@ -67,10 +60,6 @@ const championPointIds = championPoints.ids
 export const ATTRIBUTE_BITS = 7
 
 
-export const ARMOR_ENCHANT_BITS = bitsNeeded(armorEnchantIds.length)
-export const JEWELRY_ENCHANT_BITS = bitsNeeded(jewelryEnchantIds.length)
-
-export const WEAPON_ENCHANT_BITS = bitsNeeded(weaponEnchantIds.length)
 export const POISON_BITS = bitsNeeded(poisonIds.length)
 
 
@@ -163,6 +152,18 @@ export const jewelryTraitBits = jewelryTraitPlaces.bits
 const weaponTraitPlaces = placesOver(() => weaponTraits.ids)
 
 export const weaponTraitBits = weaponTraitPlaces.bits
+
+const armorEnchantPlaces = placesOver(() => armorEnchants.ids)
+
+export const armorEnchantBits = armorEnchantPlaces.bits
+
+const jewelryEnchantPlaces = placesOver(() => jewelryEnchants.ids)
+
+export const jewelryEnchantBits = jewelryEnchantPlaces.bits
+
+const weaponEnchantPlaces = placesOver(() => weaponEnchantments.ids)
+
+export const weaponEnchantBits = weaponEnchantPlaces.bits
 
 const qualityPlaces = placesOver(() => equipmentQualities().ids)
 
@@ -336,12 +337,12 @@ export const getMundusIndex = mundusPlaces.indexOf
 export const getSkillLineIndex = skillLinePlaces.indexOf
 export const getArmorWeightIndex = armorWeightPlaces.indexOf
 export const getArmorTraitIndex = armorTraitPlaces.indexOf
-export const getArmorEnchantIndex = indexIn(armorEnchantIds)
+export const getArmorEnchantIndex = armorEnchantPlaces.indexOf
 export const getJewelryTraitIndex = jewelryTraitPlaces.indexOf
-export const getJewelryEnchantIndex = indexIn(jewelryEnchantIds)
+export const getJewelryEnchantIndex = jewelryEnchantPlaces.indexOf
 export const getWeaponTypeIndex = weaponTypePlaces.indexOf
 export const getWeaponTraitIndex = weaponTraitPlaces.indexOf
-export const getWeaponEnchantIndex = indexIn(weaponEnchantIds)
+export const getWeaponEnchantIndex = weaponEnchantPlaces.indexOf
 export const getPoisonIndex = indexIn(poisonIds)
 export const getQualityIndex = qualityPlaces.indexOf
 
@@ -365,12 +366,12 @@ export const getMundusId = mundusPlaces.idOf
 export const getSkillLineId = skillLinePlaces.idOf
 export const getArmorWeightId = armorWeightPlaces.idOf
 export const getArmorTraitId = armorTraitPlaces.idOf
-export const getArmorEnchantId = idIn(armorEnchantIds)
+export const getArmorEnchantId = armorEnchantPlaces.idOf
 export const getJewelryTraitId = jewelryTraitPlaces.idOf
-export const getJewelryEnchantId = idIn(jewelryEnchantIds)
+export const getJewelryEnchantId = jewelryEnchantPlaces.idOf
 export const getWeaponTypeId = weaponTypePlaces.idOf
 export const getWeaponTraitId = weaponTraitPlaces.idOf
-export const getWeaponEnchantId = idIn(weaponEnchantIds)
+export const getWeaponEnchantId = weaponEnchantPlaces.idOf
 export const getPoisonId = idIn(poisonIds)
 export const getQualityId = qualityPlaces.idOf
 

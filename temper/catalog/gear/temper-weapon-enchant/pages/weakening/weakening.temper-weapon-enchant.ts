@@ -11,4 +11,6 @@ export const weakening = {
   essenceRune: "Okori",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POWER",
   displayOrder: 11,
+  hashPlace: 11,
+  esoEnchantSearchCategory: 19,
 } as const satisfies TemperWeaponEnchant

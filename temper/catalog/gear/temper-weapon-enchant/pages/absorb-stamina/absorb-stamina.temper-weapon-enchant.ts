@@ -11,4 +11,6 @@ export const absorbStamina = {
   essenceRune: "Deni",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_ABSORB_STAMINA",
   displayOrder: 4,
+  hashPlace: 4,
+  esoEnchantSearchCategory: 22,
 } as const satisfies TemperWeaponEnchant

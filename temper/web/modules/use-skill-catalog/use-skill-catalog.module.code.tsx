@@ -10,23 +10,11 @@ import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-ma
 import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
 import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
 import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
-import { temperGearGrade } from "akasha/temper/catalog/gear/grade/temper-gear-grade.page-type.ts"
-import { temperArmorSlot } from "akasha/temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts"
-import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts"
-import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
-import { temperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.ts"
-import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
-import { temperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts"
-import { temperJewelryType } from "akasha/temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts"
 import { temperPotion } from "akasha/temper/catalog/gear/temper-potion/temper-potion.page-type.ts"
 import { temperPotionCrafted } from "akasha/temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts"
 import { temperPotionCrown } from "akasha/temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts"
 import { temperPotionDropped } from "akasha/temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts"
-import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
 import { temperReagent } from "akasha/temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts"
-import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
-import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
-import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { catalogTemplatesOf } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
@@ -55,11 +43,13 @@ import { temperSkillBar } from "akasha/temper/player/character/temper-skill-bar/
 import { temperSkillPoint } from "akasha/temper/player/character/temper-skill-point/temper-skill-point.page-type.ts"
 import { temperCompletionCategory } from "akasha/temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
+import { useGearPages } from "akasha/temper/web/modules/use-gear-pages/use-gear-pages.module.code.tsx"
 import { useMemo } from "react"
 
 const EVERY = 5000
 
 export function useSkillCatalog(): SkillCatalog | null {
+  const gear = useGearPages()
   const allPotions = usePages({ pageTypeSlug: temperPotion.slug, limit: EVERY })
   const crownPotions = usePages({ pageTypeSlug: temperPotionCrown.slug, limit: EVERY })
   const droppedPotions = usePages({ pageTypeSlug: temperPotionDropped.slug, limit: EVERY })
@@ -93,38 +83,14 @@ export function useSkillCatalog(): SkillCatalog | null {
   const bars = usePages({ pageTypeSlug: temperSkillBar.slug, limit: EVERY })
   const skillSlots = usePages({ pageTypeSlug: temperSkillSlot.slug, limit: EVERY })
   const races = usePages({ pageTypeSlug: temperRace.slug, limit: EVERY })
-  const qualities = usePages({ pageTypeSlug: temperQuality.slug, limit: EVERY })
-  const armorSlots = usePages({ pageTypeSlug: temperArmorSlot.slug, limit: EVERY })
-  const jewelrySlots = usePages({ pageTypeSlug: temperJewelrySlot.slug, limit: EVERY })
-  const jewelryTypes = usePages({ pageTypeSlug: temperJewelryType.slug, limit: EVERY })
-  const weaponSlots = usePages({ pageTypeSlug: temperWeaponSlot.slug, limit: EVERY })
-  const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
-  const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
-  const weaponTypes = usePages({ pageTypeSlug: temperWeaponType.slug, limit: EVERY })
-  const armorTraits = usePages({ pageTypeSlug: temperArmorTrait.slug, limit: EVERY })
-  const weaponTraits = usePages({ pageTypeSlug: temperWeaponTrait.slug, limit: EVERY })
-  const jewelryTraits = usePages({ pageTypeSlug: temperJewelryTrait.slug, limit: EVERY })
-  const traitNumbers = usePages({ pageTypeSlug: temperEsoTraitMap.slug, limit: EVERY })
   const skillPoints = usePages({ pageTypeSlug: temperSkillPoint.slug, limit: EVERY })
   const completionCategories = usePages({
     pageTypeSlug: temperCompletionCategory.slug,
     limit: EVERY,
   })
   const read = [
-    armorTraits,
-    weaponTraits,
-    jewelryTraits,
-    traitNumbers,
-    weaponTypes,
-    armorSlots,
-    jewelrySlots,
-    jewelryTypes,
-    weaponSlots,
-    armorWeights,
-    grades,
     completionCategories,
     skillPoints,
-    qualities,
     allPotions,
     crownPotions,
     droppedPotions,
@@ -159,11 +125,12 @@ export function useSkillCatalog(): SkillCatalog | null {
     classes,
     categories,
   ]
-  const failed = read.find((one) => one.error !== null)?.error ?? null
-  const loading = read.some((one) => one.isLoading)
+  const failed = gear.failed ?? read.find((one) => one.error !== null)?.error ?? null
+  const loading = gear.loading || read.some((one) => one.isLoading)
   const catalog = useMemo(() => {
     if (loading) return null
     const byType = new Map<string, Iterable<Value>>([
+      ...gear.rows,
       [temperPotion.slug, allPotions.rows],
       [temperPotionCrown.slug, crownPotions.rows],
       [temperPotionDropped.slug, droppedPotions.rows],
@@ -197,26 +164,15 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperSkillBar.slug, bars.rows],
       [temperSkillSlot.slug, skillSlots.rows],
       [temperRace.slug, races.rows],
-      [temperQuality.slug, qualities.rows],
       [temperSkillPoint.slug, skillPoints.rows],
       [temperCompletionCategory.slug, completionCategories.rows],
-      [temperArmorSlot.slug, armorSlots.rows],
-      [temperJewelrySlot.slug, jewelrySlots.rows],
-      [temperJewelryType.slug, jewelryTypes.rows],
-      [temperWeaponSlot.slug, weaponSlots.rows],
-      [temperArmorWeight.slug, armorWeights.rows],
-      [temperGearGrade.slug, grades.rows],
-      [temperWeaponType.slug, weaponTypes.rows],
-      [temperArmorTrait.slug, armorTraits.rows],
-      [temperWeaponTrait.slug, weaponTraits.rows],
-      [temperJewelryTrait.slug, jewelryTraits.rows],
-      [temperEsoTraitMap.slug, traitNumbers.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
     )
   }, [
     loading,
+    gear.rows,
     allPotions.rows,
     crownPotions.rows,
     droppedPotions.rows,
@@ -250,20 +206,8 @@ export function useSkillCatalog(): SkillCatalog | null {
     bars.rows,
     skillSlots.rows,
     races.rows,
-    qualities.rows,
     skillPoints.rows,
     completionCategories.rows,
-    armorSlots.rows,
-    jewelrySlots.rows,
-    jewelryTypes.rows,
-    weaponSlots.rows,
-    armorWeights.rows,
-    grades.rows,
-    weaponTypes.rows,
-    armorTraits.rows,
-    weaponTraits.rows,
-    jewelryTraits.rows,
-    traitNumbers.rows,
   ])
   if (failed !== null) throw failed
   return catalog

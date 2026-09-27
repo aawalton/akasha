@@ -11,4 +11,6 @@ export const decreaseHealth = {
   essenceRune: "Okoma",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_DAMAGE_HEALTH",
   displayOrder: 6,
+  hashPlace: 6,
+  esoEnchantSearchCategory: 24,
 } as const satisfies TemperWeaponEnchant

@@ -1,6 +1,6 @@
 {"propertySlug":"import","fileName":"temper-jewelry-slot.page-type.ts","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids-keeping/gear-kind-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-jewelry-slot.page-type.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"temper-jewelry-slot.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-jewelry-slot.page-type.ts","path":"temper/web/modules/use-gear-pages/use-gear-pages.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-jewelry-slot.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/pages/necklace.temper-jewelry-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-jewelry-slot.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/pages/ring-1.temper-jewelry-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-jewelry-slot.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/pages/ring-2.temper-jewelry-slot.ts","typed":true,"deferred":false}

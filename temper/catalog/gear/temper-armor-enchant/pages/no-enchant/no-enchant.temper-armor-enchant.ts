@@ -8,4 +8,6 @@ export const noEnchant = {
   key: "no-enchant",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_NONE",
   displayOrder: 0,
+  hashPlace: 0,
+  esoEnchantSearchCategory: 0,
 } as const satisfies TemperArmorEnchant

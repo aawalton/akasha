@@ -11,4 +11,6 @@ export const foulness = {
   essenceRune: "Haoko",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_BEFOULED_WEAPON",
   displayOrder: 13,
+  hashPlace: 13,
+  esoEnchantSearchCategory: 1,
 } as const satisfies TemperWeaponEnchant

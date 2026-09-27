@@ -47,7 +47,7 @@ export const singleton = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An armor, weapon or jewelry trait's listing carries the effect rows beside it.",
+      statement: "A trait's or an enchant's listing carries the effect rows filed beside it.",
     },
     {
       decisionKind: "decision-kind/departure",

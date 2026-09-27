@@ -12,4 +12,6 @@ export const reduceFeatCost = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_REDUCE_FEAT_COST",
   displayOrder: 8,
   effects: "jsonl",
+  hashPlace: 8,
+  esoEnchantSearchCategory: 26,
 } as const satisfies TemperJewelryEnchant

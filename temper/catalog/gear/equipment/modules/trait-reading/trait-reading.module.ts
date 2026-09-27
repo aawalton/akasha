@@ -13,15 +13,8 @@ export const traitReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A trait's worth at a quality is the grade under it naming the same stat.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A trait with one grade at a quality is worth that grade whatever stat it names.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An effect keeps the sign its page states and takes its size from the grade.",
+      statement:
+        "A trait's worth at a quality is asked of the graded effects the gear reading holds.",
     },
     {
       decisionKind: "decision-kind/departure",

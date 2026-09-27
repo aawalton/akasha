@@ -12,4 +12,6 @@ export const prismaticRecovery = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_PRISMATIC_REGEN",
   displayOrder: 6,
   effects: "jsonl",
+  hashPlace: 6,
+  esoEnchantSearchCategory: 37,
 } as const satisfies TemperJewelryEnchant

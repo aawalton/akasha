@@ -12,4 +12,6 @@ export const stamina = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_STAMINA",
   displayOrder: 3,
   effects: "jsonl",
+  hashPlace: 3,
+  esoEnchantSearchCategory: 17,
 } as const satisfies TemperArmorEnchant

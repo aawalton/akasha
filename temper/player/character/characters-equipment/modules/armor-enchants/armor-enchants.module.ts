@@ -9,16 +9,12 @@ export const armorEnchants = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the glyph pages rather than by hand.",
+      statement:
+        "The glyphs and their worth at each quality are read from the enchant pages, live.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A glyph's place in this table is the index a build hash has.",
-    },
-    {
-      decisionKind: "decision-kind/upkeep",
-      statement: "The generator writes this table outside akasha.",
+      decisionKind: "decision-kind/departure",
+      statement: "A piece other than the head, chest or legs carries a smaller share of the glyph.",
     },
   ],
-  hashIndexed: ["TEMPER_ARMOR_ENCHANTS_BY_ID"],
 } as const satisfies Module

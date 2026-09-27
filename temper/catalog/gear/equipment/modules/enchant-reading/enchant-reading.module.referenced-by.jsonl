@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"enchant-reading.module.code.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"enchant-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"enchant-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"enchant-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"parts","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}

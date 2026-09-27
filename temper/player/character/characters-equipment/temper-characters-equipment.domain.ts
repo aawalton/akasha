@@ -18,7 +18,6 @@ export const temperCharactersEquipment = {
     "module/get-equipment-icon",
     "module/item-composites",
     "module/jewelry-enchants",
-    "module/jewelry-enchants-data",
     "module/jewelry-source",
     "module/jewelry-trait-effects",
     "module/level-scaling",

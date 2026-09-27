@@ -12,4 +12,6 @@ export const increasePhysicalHarm = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_INCREASE_PHYSICAL_DAMAGE",
   displayOrder: 1,
   effects: "jsonl",
+  hashPlace: 1,
+  esoEnchantSearchCategory: 31,
 } as const satisfies TemperJewelryEnchant

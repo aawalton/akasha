@@ -12,4 +12,6 @@ export const reduceSkillCost = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_REDUCE_POWER",
   displayOrder: 9,
   effects: "jsonl",
+  hashPlace: 9,
+  esoEnchantSearchCategory: 19,
 } as const satisfies TemperJewelryEnchant

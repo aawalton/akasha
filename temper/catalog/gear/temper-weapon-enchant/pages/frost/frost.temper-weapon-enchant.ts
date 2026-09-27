@@ -11,4 +11,6 @@ export const frost = {
   essenceRune: "Dekeipa",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_FROZEN_WEAPON",
   displayOrder: 8,
+  hashPlace: 8,
+  esoEnchantSearchCategory: 9,
 } as const satisfies TemperWeaponEnchant

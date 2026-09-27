@@ -11,6 +11,7 @@ export const temperGearThing = {
     "one-of-property/buff-id",
     "relation-property/debuff-id",
     "text-property/eso-enchant-constant-name",
+    "number-property/eso-enchant-search-category",
     "text-property/essence-rune",
     "text-property/glyph-name",
     "text-property/item-level",

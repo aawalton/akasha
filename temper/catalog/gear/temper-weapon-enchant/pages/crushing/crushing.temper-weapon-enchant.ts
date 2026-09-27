@@ -12,4 +12,6 @@ export const crushing = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_REDUCE_ARMOR",
   displayOrder: 5,
   effects: "jsonl",
+  hashPlace: 5,
+  esoEnchantSearchCategory: 4,
 } as const satisfies TemperWeaponEnchant

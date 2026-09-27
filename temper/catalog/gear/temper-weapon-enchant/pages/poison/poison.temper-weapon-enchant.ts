@@ -11,4 +11,6 @@ export const poison = {
   essenceRune: "Kuoko",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_POISONED_WEAPON",
   displayOrder: 10,
+  hashPlace: 10,
+  esoEnchantSearchCategory: 16,
 } as const satisfies TemperWeaponEnchant

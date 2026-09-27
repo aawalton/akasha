@@ -12,4 +12,6 @@ export const staminaRecovery = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_STAMINA_REGEN",
   displayOrder: 4,
   effects: "jsonl",
+  hashPlace: 4,
+  esoEnchantSearchCategory: 18,
 } as const satisfies TemperJewelryEnchant

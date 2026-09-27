@@ -74,10 +74,7 @@
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-enchants/weapon-enchants.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/formula-framework/modules/display-formula-latex/display-formula-latex.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/formula-framework/modules/effect-value-update/effect-value-update.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"assert-never.module.code.ts","path":"temper/player/character/stat/modules/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts","typed":false,"deferred":false}

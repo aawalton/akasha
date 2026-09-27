@@ -12,4 +12,6 @@ export const poisonResist = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_POISON_RESISTANT",
   displayOrder: 13,
   effects: "jsonl",
+  hashPlace: 13,
+  esoEnchantSearchCategory: 15,
 } as const satisfies TemperJewelryEnchant

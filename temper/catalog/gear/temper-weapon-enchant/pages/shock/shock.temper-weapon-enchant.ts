@@ -11,4 +11,6 @@ export const shock = {
   essenceRune: "Meip",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_CHARGED_WEAPON",
   displayOrder: 9,
+  hashPlace: 9,
+  esoEnchantSearchCategory: 3,
 } as const satisfies TemperWeaponEnchant

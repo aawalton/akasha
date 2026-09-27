@@ -11,4 +11,6 @@ export const absorbHealth = {
   essenceRune: "Okoma",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_ABSORB_HEALTH",
   displayOrder: 2,
+  hashPlace: 2,
+  esoEnchantSearchCategory: 20,
 } as const satisfies TemperWeaponEnchant

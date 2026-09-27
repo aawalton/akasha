@@ -11,4 +11,6 @@ export const flame = {
   essenceRune: "Rakeipa",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_FIERY_WEAPON",
   displayOrder: 7,
+  hashPlace: 7,
+  esoEnchantSearchCategory: 6,
 } as const satisfies TemperWeaponEnchant

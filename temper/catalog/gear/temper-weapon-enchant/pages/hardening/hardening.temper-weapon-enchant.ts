@@ -11,4 +11,6 @@ export const hardening = {
   essenceRune: "Derado",
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_DAMAGE_SHIELD",
   displayOrder: 12,
+  hashPlace: 12,
+  esoEnchantSearchCategory: 10,
 } as const satisfies TemperWeaponEnchant

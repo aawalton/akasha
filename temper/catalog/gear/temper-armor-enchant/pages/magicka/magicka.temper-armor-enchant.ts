@@ -12,4 +12,6 @@ export const magicka = {
   esoEnchantConstantName: "ENCHANTMENT_SEARCH_CATEGORY_MAGICKA",
   displayOrder: 2,
   effects: "jsonl",
+  hashPlace: 2,
+  esoEnchantSearchCategory: 13,
 } as const satisfies TemperArmorEnchant

@@ -8,8 +8,9 @@ export const jewelryEnchants = {
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/upkeep",
-      statement: "The generator writes this table outside akasha.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The glyphs and their worth at each quality are read from the enchant pages, live.",
     },
   ],
 } as const satisfies Module

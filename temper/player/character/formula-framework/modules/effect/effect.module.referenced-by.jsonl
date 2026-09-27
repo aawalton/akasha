@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/gear/equipment/modules/enchant-reading/enchant-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/gear/equipment/modules/graded-effects/graded-effects.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"effect.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts","typed":true,"deferred":false}
