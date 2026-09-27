@@ -7,6 +7,6 @@ export const otherwhereAlan = {
   character: "character-player/otherwhere-alan",
   value: 1,
   minValue: 0,
-  maxValue: 10,
+  maxValue: 12,
   history: "jsonl",
 } as const satisfies OtherwhereMana

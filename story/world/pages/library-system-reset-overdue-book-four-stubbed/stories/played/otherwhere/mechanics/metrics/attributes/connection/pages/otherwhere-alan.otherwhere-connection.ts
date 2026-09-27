@@ -5,7 +5,7 @@ export const otherwhereAlan = {
   type: "page-type/otherwhere-connection",
   slug: "otherwhere-alan",
   character: "character-player/otherwhere-alan",
-  value: 1,
+  value: 2,
   minValue: 0,
   history: "jsonl",
 } as const satisfies OtherwhereConnection

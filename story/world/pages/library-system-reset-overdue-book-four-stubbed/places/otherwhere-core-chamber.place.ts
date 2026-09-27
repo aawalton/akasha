@@ -247,6 +247,18 @@ export const otherwhereCoreChamber = {
       fact: "The Library's books are upstairs from the round chamber, and only some of them are left.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "At her second sync the walk to the trunk was an ordinary walk, under the dim blue-green glow.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala's second sync burned, and showed her the waking kitchen, sealed wings and dark branches.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The second sync took none of Nala's mana or health.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
