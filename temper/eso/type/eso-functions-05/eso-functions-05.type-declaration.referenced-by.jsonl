@@ -36,6 +36,7 @@
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-mail-handler/inventory-mail-handler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rule-held/inventory-rule-held.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-mail/inventory-rules-dispatch-mail.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-05.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-writ-crafting-alchemy/inventory-writ-crafting-alchemy.module.code.ts","typed":false,"deferred":false}

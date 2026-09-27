@@ -6,4 +6,27 @@ export const inventoryRulesDispatchBuy = {
   slug: "inventory-rules-dispatch-buy",
   definition: "buying items at a store by rule, up to the target quantity",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A stocking rule buying its shortfall buys only at a store selling an item it takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a rule holds is counted among the item types of the entries it takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each rule's buy spends from the gold the rules before it left.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every buy at one store is confirmed and reported together.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule short of its target that buys nothing says why in chat.",
+    },
+  ],
 } as const satisfies Module

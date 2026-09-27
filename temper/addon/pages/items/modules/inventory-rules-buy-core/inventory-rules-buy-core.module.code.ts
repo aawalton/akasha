@@ -1,3 +1,38 @@
+import { stockPriorityRank } from "akasha/temper/items/rules/core/modules/stock-item-priority/stock-item-priority.module.code.ts"
+
+export interface StoreOffer {
+  readonly entryIndex: number
+  readonly itemId: number
+  readonly itemType: number
+  readonly link: string
+  readonly price: number
+  readonly maxBuyable: number
+}
+
+export function bestOffer(
+  offers: readonly StoreOffer[],
+  itemIds: readonly number[] | undefined
+): StoreOffer | undefined {
+  let best: StoreOffer | undefined
+  let bestRank = 0
+  for (const offer of offers) {
+    const rank = stockPriorityRank(itemIds, offer.itemId)
+    if (best === undefined || rank < bestRank) {
+      best = offer
+      bestRank = rank
+    }
+  }
+  return best
+}
+
+export function itemTypesOf(offers: readonly StoreOffer[]): number[] {
+  const types: number[] = []
+  for (const offer of offers) {
+    if (!types.includes(offer.itemType)) types.push(offer.itemType)
+  }
+  return types
+}
+
 export function computeGlobalTotal(
   liveCurrentCharBackpack: number,
   currentCharId: string,
