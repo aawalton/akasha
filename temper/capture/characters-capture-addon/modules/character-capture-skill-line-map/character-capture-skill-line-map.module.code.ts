@@ -46,17 +46,22 @@ export type DetailsByLine = { [esoSkillLineId: number]: readonly MorphableDetail
 
 type Places = { [esoSkillLineId: number]: number | undefined }
 
+let every: readonly PlayerSkillLine[] | undefined
+
 let lines: readonly PlayerSkillLine[] | undefined
 
 let places: Places | undefined
 
 let details: DetailsByLine | undefined
 
+function everySkillLine(this: void): readonly PlayerSkillLine[] {
+  every ??= [...$pagesOfType<PlayerSkillLine>(temperSkillLine)]
+  return every
+}
+
 export function playerSkillLines(): readonly PlayerSkillLine[] {
   if (lines !== undefined) return lines
-  const found = [...$pagesOfType<PlayerSkillLine>(temperSkillLine)].filter(
-    (one) => one.category !== COMPANION
-  )
+  const found = everySkillLine().filter((one) => one.category !== COMPANION)
   found.sort((one, other) => one.hashPlace - other.hashPlace)
   lines = found
   return found
@@ -111,7 +116,7 @@ function groupsOf(this: void): readonly Group[] {
 
 function detailsOf(this: void): DetailsByLine {
   const esoOf: { [address: string]: number | undefined } = {}
-  for (const one of $pagesOfType<PlayerSkillLine>(temperSkillLine)) {
+  for (const one of everySkillLine()) {
     esoOf[`${temperSkillLine.slug}/${one.slug}`] = one.esoSkillLineId
   }
   const grouped: { [esoSkillLineId: number]: Group[] | undefined } = {}
