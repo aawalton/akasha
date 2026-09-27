@@ -16,6 +16,19 @@ export const companionsReverseMappings = {
       statement:
         "A trait, armor weight or weapon type index is held in place by the hash places its pages state.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each is named by the title of its page, compiled in as the add-on compiles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The page at place 0 names nothing, so an index of 0 reads back as the empty entry.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon type index is two-handed where its page says the weapon is.",
+    },
   ],
   hashIndexed: ["INDEX_TO_QUALITY_COLOR"],
 } as const satisfies Module

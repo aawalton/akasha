@@ -1,6 +1,8 @@
+{"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.ts","path":"temper/addon/pages/characters/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.ts","path":"temper/player/character/build/bit-codec/modules/equipment-mappings/equipment-mappings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.types.ts","path":"temper/addon/pages/characters/modules/companions-reverse-mappings/companions-reverse-mappings.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.types.ts","path":"temper/catalog/companion/armor-weight/pages/heavy.temper-companion-armor-weight.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.types.ts","path":"temper/catalog/companion/armor-weight/pages/light.temper-companion-armor-weight.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.types.ts","path":"temper/catalog/companion/armor-weight/pages/medium.temper-companion-armor-weight.ts","typed":true,"deferred":false}

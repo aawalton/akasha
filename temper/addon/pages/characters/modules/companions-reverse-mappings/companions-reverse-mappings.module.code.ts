@@ -1,5 +1,13 @@
 import "akasha/temper/eso/type/eso-lua-sandbox/eso-lua-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { SKILL_ABILITY_ID_TO_INDEX } from "akasha/temper/addon/pages/characters/modules/companions-skill-map/companions-skill-map.module.code.ts"
+import { temperCompanionArmorWeight } from "akasha/temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts"
+import type { TemperCompanionArmorWeight } from "akasha/temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.types.ts"
+import { noTrait } from "akasha/temper/catalog/companion/trait/pages/no-trait/no-trait.temper-companion-trait.ts"
+import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
+import type { TemperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.types.ts"
+import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
+import type { TemperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.types.ts"
 import {
   ARMOR_TRAIT_TO_INDEX,
   ARMOR_TYPE_TO_INDEX,
@@ -11,37 +19,36 @@ import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declara
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 
-const INDEX_TO_ARMOR_WEIGHT: string[] = ["", "Light", "Medium", "Heavy"]
+type Placed = { readonly hashPlace: number; readonly title?: string }
 
-const INDEX_TO_TRAIT: string[] = [
-  "No Trait",
-  "Aggressive",
-  "Augmented",
-  "Bolstered",
-  "Focused",
-  "Prolific",
-  "Quickened",
-  "Shattering",
-  "Soothing",
-  "Vigorous",
-]
+type Names = { [place: number]: string | undefined }
 
-const INDEX_TO_WEAPON_TYPE: string[] = [
-  "",
-  "Sword",
-  "Axe",
-  "Mace",
-  "Dagger",
-  "Greatsword",
-  "Battleaxe",
-  "Maul",
-  "Bow",
-  "Inferno Staff",
-  "Ice Staff",
-  "Lightning Staff",
-  "Restoration Staff",
-  "Shield",
-]
+function namesByPlace(this: void, pages: readonly Placed[]): Names {
+  const names: Names = {}
+  for (const page of pages) {
+    if (page.hashPlace !== 0) names[page.hashPlace] = page.title
+  }
+  return names
+}
+
+const INDEX_TO_ARMOR_WEIGHT: Names = namesByPlace(
+  $pagesOfType<Pick<TemperCompanionArmorWeight, "hashPlace" | "title">>(temperCompanionArmorWeight)
+)
+
+const INDEX_TO_TRAIT: Names = namesByPlace(
+  $pagesOfType<Pick<TemperCompanionTrait, "hashPlace" | "title">>(temperCompanionTrait)
+)
+
+type WeaponTypeRow = Pick<TemperCompanionWeaponType, "hashPlace" | "title" | "isTwoHanded">
+
+const WEAPON_TYPES = $pagesOfType<WeaponTypeRow>(temperCompanionWeaponType)
+
+const INDEX_TO_WEAPON_TYPE: Names = namesByPlace(WEAPON_TYPES)
+
+const TWO_HANDED_INDICES: { [place: number]: boolean | undefined } = {}
+for (const weaponType of WEAPON_TYPES) {
+  TWO_HANDED_INDICES[weaponType.hashPlace] = weaponType.isTwoHanded
+}
 
 const INDEX_TO_QUALITY_COLOR: [number, number, number][] = [
   [0.5, 0.5, 0.5],
@@ -143,7 +150,7 @@ export function formatJewelryFromIndices(isEmpty: boolean, traitIndex: number): 
   const trait = INDEX_TO_TRAIT[traitIndex]
   if (trait !== undefined && traitIndex !== 0) return trait
 
-  return "No Trait"
+  return noTrait.title
 }
 
 export function formatWeaponFromIndices(
@@ -171,5 +178,5 @@ export function getAbilityIdFromSkillIndex(skillIndex: number): number {
 }
 
 export function isWeaponIndexTwoHanded(typeIndex: number): boolean {
-  return typeIndex >= 5 && typeIndex <= 12
+  return TWO_HANDED_INDICES[typeIndex] === true
 }
