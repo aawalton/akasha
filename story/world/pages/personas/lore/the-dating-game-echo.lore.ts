@@ -76,6 +76,18 @@ export const theDatingGameEcho = {
       fact: "Echo can give a character a voice from the page alone, without hearing it first.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Alan called Echo's narration the best he has ever heard, and said he could listen to her all day.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "Echo took up Alan's word for her curse: a blessing, for her narration.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Echo proposed meeting Alan again next Saturday, tapping the book she reads to him.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
