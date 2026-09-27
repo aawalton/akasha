@@ -6,4 +6,10 @@ export const importSummaries = {
   slug: "import-summaries",
   definition: "what an import did, written out for the account and the characters",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
