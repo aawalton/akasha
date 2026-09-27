@@ -98,6 +98,10 @@ export const viewNamesADeclaredKey = {
       statement: "A page type under the view page type has its pages judged as well.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A sort naming `random` names no key and is let through.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here judges a field of a view that names no key.",
     },

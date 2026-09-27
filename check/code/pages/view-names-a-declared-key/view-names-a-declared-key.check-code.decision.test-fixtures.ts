@@ -90,7 +90,17 @@ export function rooted(prefix: string = "akasha-viewed-"): string {
     propertySlug: "ordering",
     properties: [{ pagePropertySlug: `${TEXT}/ordered-by`, required: true, many: false }],
   })
-  typed(root, VIEW, "page", [`${TEXT}/grouped`, `${TEXT}/shown`, `${RECORD}/ordering`])
+  declaring(root, "view-sorts", { pageTypeSlug: RECORD })
+  paged(root, RECORD, "view-sorts", {
+    propertySlug: "view-sorts",
+    properties: [{ pagePropertySlug: `${TEXT}/ordered-by`, required: true, many: false }],
+  })
+  typed(root, VIEW, "page", [
+    `${TEXT}/grouped`,
+    `${TEXT}/shown`,
+    `${RECORD}/ordering`,
+    `${RECORD}/view-sorts`,
+  ])
   typed(root, QUOIN, "page", [`${TEXT}/${HELD}`])
   return root
 }

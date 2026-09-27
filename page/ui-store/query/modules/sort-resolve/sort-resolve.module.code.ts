@@ -115,7 +115,22 @@ function relationValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValu
   return asSortValue(raw)
 }
 
+export const RANDOM_SORT_KEY = "random"
+
+const LOAD_SEED = crypto.getRandomValues(new Uint32Array(1))[0] ?? 0
+
+function seededRank(id: string, seed: number): number {
+  let h = (0x811c9dc5 ^ seed) >>> 0
+  for (const ch of id) {
+    h = Math.imul(h ^ ch.charCodeAt(0), 0x01000193) >>> 0
+  }
+  h = Math.imul(h ^ (h >>> 16), 0x85ebca6b) >>> 0
+  h = Math.imul(h ^ (h >>> 13), 0xc2b2ae35) >>> 0
+  return (h ^ (h >>> 16)) >>> 0
+}
+
 function resolveSortValue(row: PageRow, key: string, ctx: ViewResolveCtx): SortValue {
+  if (key === RANDOM_SORT_KEY) return seededRank(String(asPageRecord(row).id), LOAD_SEED)
   const info = ctx.keyInfo.get(key)
   if (info === undefined || info.kind === "promoted") return promotedValue(row, key)
   switch (info.kind) {

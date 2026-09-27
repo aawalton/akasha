@@ -9,5 +9,11 @@ export const sortKey = {
   namesAPropertyKey: true,
   maxLength: 100,
   nameFormat: null,
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The key `random` names no property and orders a view's pages in a shuffle.",
+    },
+  ],
   types: "ts",
 } as const satisfies TextProperty

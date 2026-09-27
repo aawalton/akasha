@@ -2,9 +2,11 @@ import type { Paged } from "akasha/check/modules/audit-commit/audit-commit.modul
 import type { Judged } from "akasha/check/modules/judging/judging.module.code.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { exportedAs } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { type Parted, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Shadow } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { RANDOM_SORT_KEY } from "akasha/page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts"
 import {
   headOf,
   type Keying,
@@ -12,7 +14,9 @@ import {
   viewKeying,
   viewKinds,
 } from "akasha/page/view/modules/key-naming/key-naming.module.code.ts"
+import { groupSorts } from "akasha/page/view/properties/group-sorts.record-property.ts"
 import { viewPageType } from "akasha/page/view/properties/view-page-type.relation-property.ts"
+import { viewSorts } from "akasha/page/view/properties/view-sorts.record-property.ts"
 
 type Viewing = {
   readonly path: string
@@ -31,6 +35,14 @@ const PAGE_PROPERTY = "page-property"
 const LISTS = viewPageType.slug
 
 const NO_KINDS: ReadonlySet<string> = new Set()
+
+const SORTED_UNDER = [exportedAs(viewSorts.propertySlug), exportedAs(groupSorts.propertySlug)]
+
+function shuffles(naming: Naming): boolean {
+  return (
+    naming.key === RANDOM_SORT_KEY && SORTED_UNDER.some((one) => naming.at.startsWith(`${one}[`))
+  )
+}
 
 type Kinding = {
   readonly views: ReadonlySet<string>
@@ -170,6 +182,7 @@ export function refusalsOver(held: readonly Viewing[], paged: Paged): readonly J
     const keys = known.get(listed) ?? null
     if (keys === null) continue
     for (const naming of namingsIn(one.value, keying)) {
+      if (shuffles(naming)) continue
       const key = headOf(naming.key)
       if (keys.has(key)) continue
       said.push({ path: one.path, reason: undeclared(naming.at, key, listed, keys) })

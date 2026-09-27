@@ -3481,6 +3481,7 @@
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/condition-eval/condition-eval.module.ts","id":"01a05b69-454c-7ec3-ba3c-2370dee03d6a"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/condition-expr/condition-expr.module.ts","id":"01a05b69-454d-7b7a-b33e-c2de2e06ae06"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/related-pipeline/related-pipeline.module.ts","id":"01a0c5fc-c478-7997-a120-966993c5a392"}
+{"propertySlug":"decision-kind","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.ts","id":"01a05b69-4550-734f-b117-9948906f14a9"}
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/view-match/view-match.module.ts","id":"01a05b69-4551-75ff-b040-d348271da6aa"}
 {"propertySlug":"decision-kind","path":"page/ui/cache/modules/listing-readiness/listing-readiness.module.ts","id":"01a0e1b5-3737-7636-9d4d-147e23ec7960"}
 {"propertySlug":"decision-kind","path":"page/ui/cache/modules/tanstack-live/tanstack-live.module.ts","id":"01a05cba-9cbc-7f0a-9fe4-2beece336d54"}
@@ -3548,6 +3549,7 @@
 {"propertySlug":"decision-kind","path":"page/view/properties/narrow-values.text-property.ts","id":"01a063ee-2a3b-74ff-8037-ee9c7cf9f335"}
 {"propertySlug":"decision-kind","path":"page/view/properties/narrows.record-property.ts","id":"01a063ee-2a3b-732c-983b-68ef37a472f5"}
 {"propertySlug":"decision-kind","path":"page/view/properties/nav.relation-property.ts","id":"01a0680d-4d00-7001-8a73-4f2c6d9e4102"}
+{"propertySlug":"decision-kind","path":"page/view/properties/sort-key.text-property.ts","id":"01a0680d-4d00-7005-8f26-2a7d5c1b4106"}
 {"propertySlug":"decision-kind","path":"page/view/properties/view-page-type.relation-property.ts","id":"01a078d1-cb91-71c2-895b-d2fc87b9e79e"}
 {"propertySlug":"decision-kind","path":"page/view/properties/view-predicate.text-property.ts","id":"01a0680d-4d00-7002-b647-3d1a8c5f4103"}
 {"propertySlug":"decision-kind","path":"page/view/properties/view-sorts.record-property.ts","id":"01a0680d-4d00-7004-a139-6e5c8b2f4105"}

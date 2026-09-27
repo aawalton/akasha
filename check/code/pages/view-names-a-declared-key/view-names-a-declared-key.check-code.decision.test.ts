@@ -77,6 +77,20 @@ test("a key a record of a view states is judged like any other", () => {
   expect(judged(root)[0] ?? "").toContain("`gone` at `ordering[0].key`")
 })
 
+test("a view sorting by `random` is let through", () => {
+  const root = rooted(UNDER)
+  viewing(root, "looking", { pageType: LISTS_QUOIN, viewSorts: [{ key: "random" }] })
+
+  expect(judged(root)).toEqual([])
+})
+
+test("`random` named anywhere but a sort is judged like any other key", () => {
+  const root = rooted(UNDER)
+  viewing(root, "looking", { pageType: LISTS_QUOIN, shown: ["random"] })
+
+  expect(judged(root)[0] ?? "").toContain("`random` at `shown[0]`")
+})
+
 test("a key parted by dots is judged by the segment before the first dot", () => {
   const root = rooted(UNDER)
   viewing(root, "looking", { pageType: LISTS_QUOIN, grouped: "held.deeper" })

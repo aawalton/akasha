@@ -6,4 +6,18 @@ export const sortResolve = {
   slug: "sort-resolve",
   definition: "the value a page row sorts by under a key",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The key `random` sorts a page by a rank drawn from its id and a seed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser draws that seed once each time the app loads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A shuffle keeps its order while that load lasts and changes on the next load.",
+    },
+  ],
 } as const satisfies Module
