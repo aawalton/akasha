@@ -1,7 +1,14 @@
 {
   "build": {
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
     "mainHandWeaponType": 2,
+    "skillAbilityIds": {
+      "1": 152625,
+      "2": 155328,
+      "3": 154926,
+      "4": 163442,
+      "5": 155693,
+      "6": 0
+    },
     "weapons": {
       "1": {
         "qualityColor": {
@@ -21,14 +28,6 @@
         "displayText": "Shield, Vigorous",
         "isEmpty": false
       }
-    },
-    "skillAbilityIds": {
-      "1": 152625,
-      "2": 155328,
-      "3": 154926,
-      "4": 163442,
-      "5": 155693,
-      "6": 0
     },
     "armor": {
       "1": {
@@ -124,7 +123,8 @@
         "isEmpty": false
       }
     },
-    "companionId": 6
+    "companionId": 6,
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA"
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
   "level": 20,
