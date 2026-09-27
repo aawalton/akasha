@@ -64,7 +64,7 @@ export const DEFAULT_VARS: MarkersVars = {
   latestUpdateMessage: 0,
 }
 
-export interface MarkersState {
+interface MarkersState {
   vars: MarkersVars
   facing: MarkerIcon[]
   ground: MarkerIcon[]

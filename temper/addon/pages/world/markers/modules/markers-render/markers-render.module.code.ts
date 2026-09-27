@@ -17,9 +17,9 @@ import "akasha/temper/eso/type/eso-ui-4/eso-ui-4.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-world-map-window/eso-world-map-window.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-sort-filter-list/eso-sort-filter-list.type-declaration.d.ts"
 
-export type MarkerPool = ZoControlPool<MarkerControl>
+type MarkerPool = ZoControlPool<MarkerControl>
 
-export const TEMPLATE_NAME = "TemperWorldMarkersTemplate"
+const TEMPLATE_NAME = "TemperWorldMarkersTemplate"
 
 const UPDATE_TICK = "TemperWorldMarkersUpdateTick"
 const CULL_TICK = "TemperWorldMarkersCullTick"
