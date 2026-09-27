@@ -75,5 +75,17 @@ export const theDatingGameRockCanyon = {
       fact: "The side path ends where the creek pools, dark and still, under an overhanging ledge of pink stone.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Past the pool, the side path crosses the creek and climbs a narrow trail to Kyhv Peak.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Kyhv Peak is about two and a half hours' hike from the canyon mouth, with wide views from the top.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "The main trail passes drinking fountains that run cold mountain spring water.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Place
