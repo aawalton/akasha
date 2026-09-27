@@ -5,8 +5,12 @@ import {
 } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { MetricChange } from "akasha/temper/player/character/stat/modules/compare-stats/compare-stats.module.code.ts"
 import { getMetricDisplayName } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
-import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { statChangesDescriptionAdded } from "akasha/temper/web/phrase/pages/stat-changes-description-added.temper-web-phrase.ts"
+import { statChangesDescriptionPerSecond } from "akasha/temper/web/phrase/pages/stat-changes-description-per-second.temper-web-phrase.ts"
 import { statChangesDescriptionRemoved } from "akasha/temper/web/phrase/pages/stat-changes-description-removed.temper-web-phrase.ts"
 import { Minus, Plus, TrendingDown, TrendingUp } from "lucide-react"
 
@@ -16,13 +20,13 @@ export interface StatChangeNotification {
   removedBuffIds: readonly BuffOrDebuffId[]
 }
 
-function formatDelta(delta: number, metric: MetricChange["metric"]): string {
+function formatDelta(delta: number, metric: MetricChange["metric"], phrase: Phrase): string {
   const sign = delta > 0 ? "+" : ""
   switch (metric.valueType) {
     case "fractional-change":
       return `${sign}${(delta * 100).toFixed(1)}%`
     case "number-per-second":
-      return `${sign}${Math.round(delta)}/s`
+      return phrase(statChangesDescriptionPerSecond.slug, { value: `${sign}${Math.round(delta)}` })
     case "rating": {
       const pctDelta = (delta / metric.divisor) * 100
       return `(${sign}${Math.round(delta).toLocaleString()}) ${sign}${pctDelta.toFixed(2)}%`
@@ -57,6 +61,7 @@ function BuffChangeRow({ buffId, isAdded }: { buffId: BuffOrDebuffId; isAdded: b
 }
 
 function MetricChangeRow({ change }: { change: MetricChange }) {
+  const phrase = usePhrase()
   const isBeneficial =
     change.metric.polarity === "higher-is-better" ? change.delta > 0 : change.delta < 0
   const name = getMetricDisplayName(change.metric.id) ?? change.metric.id
@@ -76,7 +81,7 @@ function MetricChangeRow({ change }: { change: MetricChange }) {
           isBeneficial ? "text-green" : "text-red"
         }`}
       >
-        {formatDelta(change.delta, change.metric)}
+        {formatDelta(change.delta, change.metric, phrase)}
       </span>
     </div>
   )
