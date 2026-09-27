@@ -44,6 +44,10 @@ export const theDatingGameGrace = {
       fact: "At dusk Grace lights her brass storm lantern; she calls it her hour starting.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Grace walks the Provo City Cemetery at dusk carrying a lit storm lantern.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
