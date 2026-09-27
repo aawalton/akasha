@@ -5,7 +5,12 @@ export const temperChampionPoint = {
   type: "page-type/domain",
   slug: "temper-champion-point",
   definition: "the champion stars a character earns past level fifty",
-  parts: ["module/champion-point-source", "page-type/temper-champion-star"],
+  parts: [
+    "module/champion-point-source",
+    "data-table/champion-star-ids",
+    "change-generator/champion-star-ids-keeping",
+    "page-type/temper-champion-star",
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",

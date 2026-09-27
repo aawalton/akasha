@@ -2,6 +2,7 @@ import {
   createDataFile,
   type DataFile,
 } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { ChampionStarId } from "akasha/temper/catalog/champion-point/modules/champion-star-ids/champion-star-ids.data-table.code.ts"
 import { temperChampionStar } from "akasha/temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts"
 import { inGearOrder } from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
@@ -50,7 +51,7 @@ export const CHAMPION_STAR_READS: readonly Read[] = [
 
 export const MAX_CHAMPION_POINTS = 3600
 
-export type ChampionPointId = string
+export type ChampionPointId = ChampionStarId
 
 export type ChampionPointSource = ChampionPointTemplate & { id: ChampionPointId }
 
@@ -82,7 +83,7 @@ function starOf(row: Row): ChampionPointSource {
   if (typeof row.esoChampionSkillId !== "number") throw new Error(`${at} states no game number`)
   const slottable = row.isSlottable === true
   return {
-    id: String(row.slug),
+    id: String(row.slug) as ChampionPointId,
     name: String(row.title),
     description: String(row.description),
     categoryId: "champion-points",
