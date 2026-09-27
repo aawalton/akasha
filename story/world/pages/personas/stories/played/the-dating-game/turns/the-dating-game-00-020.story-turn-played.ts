@@ -23,4 +23,6 @@ export const theDatingGame00020 = {
     "Outside, the lot is still mostly bare and the afternoon sun lies warm across campus.",
     "Up the hill, Rock Canyon opens dark between the mountains where the day began.",
   ],
+  issues: ['"Rock Canyon opens dark between the mountains, where the day began" - Leave It Open'],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
