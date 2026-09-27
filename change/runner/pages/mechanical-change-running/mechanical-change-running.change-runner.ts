@@ -79,6 +79,22 @@ export const mechanicalChangeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller may hand in edits an agent kept, to land in the same commit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Kept edits come before the changes named, and every change reads them landed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing carrying kept edits runs the checks an apply runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A kept edit whose file moved since that edit's read refuses the landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body that is not text refuses the landing rather than being decoded.",
     },
     {

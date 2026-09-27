@@ -11,6 +11,7 @@ import { ledgerAt, type Reaching } from "akasha/change/modules/shadow/change-sha
 import {
   type Asking,
   foldedOver,
+  keptFolded,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { EXIT } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
@@ -90,6 +91,43 @@ test("a call naming no change lands nothing and says so", async () => {
     refusals: ["no change was named, so nothing is run and nothing lands"],
     code: EXIT.INPUT,
   })
+})
+
+test("kept edits come first, and each change reads the world with them landed", async () => {
+  const seen: string[] = []
+  const world = ledgerAt(
+    "/nowhere",
+    () => null,
+    (one) => {
+      seen.push(one.textOf(ONE) ?? "nothing")
+      return Promise.resolve(stating([{ kind: "move", pathFrom: ONE, pathTo: TWO }]))
+    }
+  )
+  const said = await keptFolded(world, [{ kind: "add", path: ONE, content: "one\n" }], [MOVING])
+  expect(said.refused).toBeNull()
+  expect(said.edits).toEqual([
+    { kind: "add", path: ONE, content: "one\n" },
+    { kind: "move", pathFrom: ONE, pathTo: TWO },
+  ])
+  expect(seen).toEqual(["one\n"])
+})
+
+test("a kept edit that will not land refuses the whole landing and runs no change", async () => {
+  const ran: string[] = []
+  const world = ledgerAt(
+    "/nowhere",
+    () => null,
+    (_one, at) => {
+      ran.push(at)
+      return Promise.resolve(stating([]))
+    }
+  )
+  const stale = { kind: "replace", path: ONE, contentFrom: "was\n", contentTo: "now\n" } as const
+  const said = await keptFolded(world, [stale], [ADDING])
+  expect(said.refused).not.toBeNull()
+  expect(ran).toEqual([])
+  const landed = await runMechanicalChange("/nowhere", [ADDING], "held", { kept: [stale] })
+  expect("refusals" in landed && landed.code).toBe(EXIT.DATA)
 })
 
 test("every change stating no edit gathers to no edit and refuses nothing", async () => {
