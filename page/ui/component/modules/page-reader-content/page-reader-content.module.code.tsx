@@ -85,7 +85,7 @@ export function PageReaderContent({
   drawProse,
 }: PageReaderContentProps) {
   const source = useReaderPageSource()
-  const { pageTypeData } = source.useReaderPageType(pageTypeSlug)
+  const { pageTypeData, isLoading: pageTypeIsLoading } = source.useReaderPageType(pageTypeSlug)
   const detailConfig = pageTypeData.detailConfig
 
   const { page, isLoading } = source.useReaderPage({ pageTypeSlug, id })
@@ -101,7 +101,7 @@ export function PageReaderContent({
       ? `${FILE_AT}/${[pageTypeSlug, data.slug, bodyPropertyId].map(encodeURIComponent).join("/")}`
       : null
   const fileBody = useFileBody(fileHref)
-  const bodyWaiting = fileHref !== null && fileBody === null
+  const bodyWaiting = pageTypeIsLoading || (fileHref !== null && fileBody === null)
   const bodyValue = bodyPropertyId != null ? data[bodyPropertyId] : undefined
   const body =
     fileHref !== null
