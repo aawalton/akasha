@@ -31,6 +31,7 @@ export const temperWeb = {
   server: "ts",
   sidebarBoot: "js",
   placeholderImage: "svg",
+  siteIcon: "svg",
   gitIgnore: "gitignore",
   testPreload: "toml",
   routeTypesDirectory: true,

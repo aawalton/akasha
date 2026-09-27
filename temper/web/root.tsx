@@ -62,7 +62,10 @@ const GUARD: HandoverGuardConfig = {
   atRoot: { reader: HOME_PATH },
 }
 
-export const links: LinksFunction = () => fontPreloading(geistSansWoff2)
+export const links: LinksFunction = () => [
+  ...fontPreloading(geistSansWoff2),
+  { rel: "icon", href: "/favicon.svg", type: "image/svg+xml", sizes: "any" },
+]
 
 export const meta: MetaFunction = () => [
   { title: "Temper | The Ultimate ESO Build Editor & Optimizer" },
