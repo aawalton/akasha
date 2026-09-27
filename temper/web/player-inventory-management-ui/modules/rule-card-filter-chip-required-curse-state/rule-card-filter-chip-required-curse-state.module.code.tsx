@@ -15,6 +15,7 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type { RequiredCurseStateCondition } from "akasha/temper/items/rules/core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
+import { curses } from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -27,17 +28,19 @@ interface RuleCardFilterChipRequiredCurseStateProps {
   >
 }
 
-const STATE_OPTIONS: readonly { value: RequiredCurseStateCondition["state"]; label: string }[] = [
-  { value: "vampire", label: "Vampire" },
-  { value: "werewolf", label: "Werewolf" },
-]
+const CURSE_STATES: readonly RequiredCurseStateCondition["state"][] = ["vampire", "werewolf"]
 
 export function RuleCardFilterChipRequiredCurseState({
   state,
 }: RuleCardFilterChipRequiredCurseStateProps): ReactNode {
   const { requiredCurseStateValue, handleRequiredCurseStateChange, handleRemoveFilter } = state
+  const held = curses().list
+  const stateOptions = CURSE_STATES.map((value) => ({
+    value,
+    label: held.find((one) => one.id === value)?.name ?? value,
+  }))
 
-  const selectedOption = STATE_OPTIONS.find((o) => o.value === requiredCurseStateValue?.state)
+  const selectedOption = stateOptions.find((o) => o.value === requiredCurseStateValue?.state)
   const triggerLabel = selectedOption?.label ?? "Select Curse State"
 
   return (
@@ -65,7 +68,7 @@ export function RuleCardFilterChipRequiredCurseState({
             <SelectValue placeholder="Select Curse State" />
           </SelectTrigger>
           <SelectContent>
-            {STATE_OPTIONS.map((opt) => (
+            {stateOptions.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>

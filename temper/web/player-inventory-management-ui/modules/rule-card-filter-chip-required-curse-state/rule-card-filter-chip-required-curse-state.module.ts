@@ -6,4 +6,10 @@ export const ruleCardFilterChipRequiredCurseState = {
   slug: "rule-card-filter-chip-required-curse-state",
   definition: "the chip narrowing a rule by an item's curse",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A curse is labelled by its curse page's title.",
+    },
+  ],
 } as const satisfies Module
