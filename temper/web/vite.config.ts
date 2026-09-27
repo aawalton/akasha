@@ -13,8 +13,13 @@ const JSONL_TEXT: Plugin = {
   },
 }
 
+const FONT_FILE = /\.(woff2?|ttf|otf)$/
+
 export default defineConfig({
   plugins: [JSONL_TEXT, tailwindcss(), reactRouter()],
+  build: {
+    assetsInlineLimit: (file) => (FONT_FILE.test(file) ? false : undefined),
+  },
   define: { ...buildShaDefine() },
   ssr: {
     noExternal: ["rrule", "lucide-react"],
