@@ -365,7 +365,8 @@ export function useNewCompanion() {
       await createNew({ id, buildHash, buildMetadata })
       router.push(`${companionUrl(toBuildId(id), build.name)}?tab=companion`)
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : phrase(useCompanionsCreateFailed.slug))
+      console.error("[use-companions] making a companion build failed:", error)
+      toast.error(phrase(useCompanionsCreateFailed.slug))
       setIsCreating(false)
     }
   }

@@ -53,6 +53,10 @@ export const useCompanions = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A failed making shows no error's own text, which goes to the console.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A delete refused before it starts says which refusal it is by its kind.",
     },
   ],
