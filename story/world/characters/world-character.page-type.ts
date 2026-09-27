@@ -76,6 +76,10 @@ export const worldCharacter = {
       decisionKind: "decision-kind/departure",
       statement: "What a place sets in the way of the one playing is the characters in it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character's cover is the image a play screen draws that character as.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
