@@ -33,4 +33,5 @@ export const otherwhere00013 = {
     "Further back in the dark, the other shapes stay on their heaps, heads raised, listening.",
   ],
   lore: ["place/otherwhere-main-hall", "lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
