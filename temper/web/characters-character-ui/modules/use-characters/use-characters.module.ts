@@ -37,6 +37,10 @@ export const useCharacters = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A build's roles are read again whenever the role pages are held again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Making a new build, filing it and going to its page is one act here.",
     },
     {

@@ -88,10 +88,12 @@ export function useCharacterList() {
     limit: 500,
   })
 
+  const rolesRead = heldCharacterRoles()
+
   const builds = useMemo<CharacterBuildRow[]>(() => {
     if (userId == null) return []
     return rows.map((row) => mapBuildRow(row, buildMetadataOf))
-  }, [rows, userId])
+  }, [rows, userId, rolesRead])
 
   return {
     builds,
@@ -113,11 +115,13 @@ export function useCharacter(buildId: string) {
   const runPatch = useOptimisticPatchPage((args) => patchPage(args))
   const runDelete = useOptimisticDeletePage((args) => deletePage(args))
 
+  const rolesRead = heldCharacterRoles()
+
   const build = useMemo<CharacterBuildRow | undefined>(() => {
     const row = rows[0]
     if (!row) return undefined
     return mapBuildRow(row, buildMetadataOf)
-  }, [rows])
+  }, [rows, rolesRead])
 
   const buildSlug = typeof rows[0]?.slug === "string" ? rows[0].slug : null
 
