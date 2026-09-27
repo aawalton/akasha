@@ -19,7 +19,7 @@ export const completionAccountNodes = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Each craft's station share is the category's page cap split over the four crafts.",
+        "Each craft's station share is the category's page cap split over the craft pages.",
     },
   ],
 } as const satisfies Module

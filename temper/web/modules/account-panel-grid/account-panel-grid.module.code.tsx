@@ -51,6 +51,7 @@ export function AccountPanelGrid({
     championPointsEarned,
     collectiblesProgress,
     grandMasterStations,
+    grandMasterCrafts,
     recipeUnion,
     traitResearchUnion,
     itemSetProgress,
@@ -117,6 +118,7 @@ export function AccountPanelGrid({
       <GrandMasterStationsPanelCard
         id="grand-master-stations"
         grandMasterStations={grandMasterStations}
+        crafts={grandMasterCrafts}
         completionFilter={completionFilter}
         activityCategoryFilter={activityCategoryFilter}
         sortMode={sortMode}

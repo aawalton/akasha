@@ -119,7 +119,12 @@ describe("accountTributeNodes", () => {
 
 describe("grandMasterStationNodes", () => {
   test("offers the four crafts at nothing when no station is captured", () => {
-    const nodes = grandMasterStationNodes(undefined, 332)
+    const nodes = grandMasterStationNodes(undefined, 332, [
+      "Woodworking",
+      "Blacksmithing",
+      "Jewelrycrafting",
+      "Clothier",
+    ])
     expect(nodes.map((node) => node.label)).toEqual([
       "Blacksmithing",
       "Clothier",
@@ -135,7 +140,8 @@ describe("grandMasterStationNodes", () => {
         2: { name: "Woodworking", unlocked: [1] },
         1: { name: "Clothier", unlocked: [1, 2] },
       },
-      332
+      332,
+      ["Clothier", "Woodworking"]
     )
     expect(nodes.map((node) => [node.label, node.count])).toEqual([
       ["Clothier", 2],

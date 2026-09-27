@@ -114,10 +114,6 @@ const subclassingSkillMorphNodes = remembered((completion) =>
   }))
 )
 
-const grandMasterNodes = remembered((completion) =>
-  grandMasterStationNodes(completion?.grandMasterStations, completionMost("grand-master-stations"))
-)
-
 export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
   Record<AccountCardId, AccountCompletionCardChecker>
 > = {
@@ -189,7 +185,16 @@ export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
     return measured(progress.unlockedCount, progress.totalCount)
   }),
 
-  "grand-master-stations": countChecker(({ account }) => progressAt(grandMasterNodes(account), [])),
+  "grand-master-stations": countChecker(({ account, catalogs }) =>
+    progressAt(
+      grandMasterStationNodes(
+        account?.grandMasterStations,
+        completionMost("grand-master-stations"),
+        catalogs.craftTypes.map((craft) => craft.title)
+      ),
+      []
+    )
+  ),
 
   "item-sets": countChecker(({ account, catalogs }) => {
     const progress = transformItemSetProgress(account, catalogs.setCategories)

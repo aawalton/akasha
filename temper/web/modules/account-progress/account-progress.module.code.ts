@@ -65,6 +65,7 @@ export interface AccountProgressData {
   bankUpgrade: { current: number; max: number }
   championPointsEarned: number
   grandMasterStations: Record<number, { name: string; unlocked: number[] }> | undefined
+  grandMasterCrafts: readonly string[]
 }
 
 interface UseAccountProgressArgs {
@@ -199,6 +200,10 @@ export function useAccountProgress({
   )
   const championPointsEarned = accountCompletion?.championPointsEarned ?? 0
   const grandMasterStations = accountCompletion?.grandMasterStations
+  const grandMasterCrafts = useMemo(
+    () => catalogs.craftTypes.map((craft) => craft.title),
+    [catalogs.craftTypes]
+  )
   const measured = isAccountMeasured(accountCompletion)
 
   const accountProgress: AccountProgressData = {
@@ -220,6 +225,7 @@ export function useAccountProgress({
     bankUpgrade,
     championPointsEarned,
     grandMasterStations,
+    grandMasterCrafts,
   }
 
   return { accountProgress, accountSummary }

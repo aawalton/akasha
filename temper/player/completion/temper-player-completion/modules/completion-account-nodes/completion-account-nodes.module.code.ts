@@ -148,20 +148,16 @@ export function accountTributeNodes(
   }))
 }
 
-const GRAND_MASTER_FALLBACK_LABELS = ["Blacksmithing", "Clothier", "Jewelrycrafting", "Woodworking"]
-
 export function grandMasterStationNodes(
   stations: Record<number, { name: string; unlocked: number[] }> | undefined,
-  most: number
+  most: number,
+  crafts: readonly string[]
 ): readonly ProgressLeaf[] {
-  const eachCraft = most / GRAND_MASTER_FALLBACK_LABELS.length
+  const eachCraft = most / crafts.length
   if (stations === undefined || Object.keys(stations).length === 0) {
-    return GRAND_MASTER_FALLBACK_LABELS.map((label) => ({
-      key: label,
-      label,
-      count: 0,
-      total: eachCraft,
-    }))
+    return crafts
+      .map((label) => ({ key: label, label, count: 0, total: eachCraft }))
+      .sort((a, b) => a.label.localeCompare(b.label))
   }
   return Object.entries(stations)
     .map(([key, entry]) => ({

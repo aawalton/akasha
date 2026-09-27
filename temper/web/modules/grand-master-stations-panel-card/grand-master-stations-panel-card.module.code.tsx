@@ -17,6 +17,7 @@ import {
 interface GrandMasterStationsPanelCardProps {
   id?: AccountCardId
   grandMasterStations?: Record<number, { name: string; unlocked: number[] }>
+  crafts: readonly string[]
   completionFilter?: CompletionFilter
   activityCategoryFilter?: readonly ActivityCategoryId[]
   sortMode?: CompletionSortMode
@@ -26,6 +27,7 @@ interface GrandMasterStationsPanelCardProps {
 export function GrandMasterStationsPanelCard({
   id,
   grandMasterStations,
+  crafts,
   completionFilter,
   activityCategoryFilter,
   sortMode,
@@ -36,7 +38,11 @@ export function GrandMasterStationsPanelCard({
       id={id}
       title={completionCardTitle("account", "grand-master-stations")}
       items={withActivityCategories(
-        grandMasterStationNodes(grandMasterStations, completionMost("grand-master-stations")),
+        grandMasterStationNodes(
+          grandMasterStations,
+          completionMost("grand-master-stations"),
+          crafts
+        ),
         "crafting"
       )}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
