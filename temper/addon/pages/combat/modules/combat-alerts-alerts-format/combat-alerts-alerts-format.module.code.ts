@@ -2,7 +2,7 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-constants/combat-alerts-constants.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
 
-export interface FormatWithText {
+interface FormatWithText {
   info: number
   text: string
 }

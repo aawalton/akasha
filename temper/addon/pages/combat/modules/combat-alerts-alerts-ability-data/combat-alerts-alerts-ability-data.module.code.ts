@@ -1,11 +1,7 @@
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-alerts-eso-reach.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
 
-export type AbilityFilter = (
-  this: void,
-  hitValue: number,
-  targetUnitTag: string | undefined
-) => boolean
+type AbilityFilter = (this: void, hitValue: number, targetUnitTag: string | undefined) => boolean
 
 export type OthersZone = Record<number, boolean | ((this: void) => boolean)>
 

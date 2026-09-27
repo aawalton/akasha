@@ -9,12 +9,12 @@ import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-h
 import { optionSection } from "akasha/temper/addon/pages/combat/modules/combat-alerts-options/combat-alerts-options.module.code.ts"
 import { luaTruthy } from "akasha/temper/addon/pages/items/crafting-station/modules/price-lua-truthy/price-lua-truthy.module.code.ts"
 
-export interface EffectFilters {
+interface EffectFilters {
   [filter: number]: string
   filterFunction?: (this: void) => boolean
 }
 
-export interface EffectAbility {
+interface EffectAbility {
   format: string
   duration?: number
   filters: EffectFilters
@@ -23,7 +23,7 @@ export interface EffectAbility {
   settings: AlertSettingData
 }
 
-export interface EffectZone {
+interface EffectZone {
   settingsSubcategory: string
   [abilityId: number]: EffectAbility
 }
