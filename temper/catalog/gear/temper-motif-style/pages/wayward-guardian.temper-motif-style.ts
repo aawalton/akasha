@@ -5,6 +5,8 @@ export const waywardGuardian = {
   type: "page-type/temper-motif-style",
   slug: "wayward-guardian",
   title: "Wayward Guardian",
+  esoItemStyleId: 113,
+  styleName: "Wayward Guardian",
   collectionIndex: 82,
   sourceDescription: "Dailies from Ardanir (The Reach)",
   dropSources: [
