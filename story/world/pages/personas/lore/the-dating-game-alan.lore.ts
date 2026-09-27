@@ -196,5 +196,13 @@ export const theDatingGameAlan = {
       fact: "Alan's sleep is irregular, so he is sometimes out walking at almost any hour.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan walks around his neighborhood, and sometimes up the canyon into the forest.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan has watched the sun rise from the top of the mountain a few times.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore

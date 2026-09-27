@@ -10,7 +10,7 @@ export const theDatingGame00027 = {
   position: 27,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“Usually just around the neighborhood. Sometime up the canyon, into the forest. I’ve watched the sun rise from the top of the mountain a few times.”",
   beats: [
@@ -27,6 +27,6 @@ export const theDatingGame00027 = {
   ],
   issues: ['"her gold eyes rest on you a moment, unhurried" - No Prompt'],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-26T19:15:00.000Z",
 } as const satisfies StoryTurnPlayed

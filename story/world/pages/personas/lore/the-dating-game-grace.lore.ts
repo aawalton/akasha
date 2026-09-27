@@ -40,6 +40,10 @@ export const theDatingGameGrace = {
       fact: "The dark has never frightened Grace; to her it's where things get honest.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "At dusk Grace lights her brass storm lantern; she calls it her hour starting.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
