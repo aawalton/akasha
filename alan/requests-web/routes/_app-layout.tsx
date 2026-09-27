@@ -8,6 +8,7 @@ import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AppEditingProvider } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { CreateOverrideProvider } from "akasha/page/ui/component/modules/create-override/create-override.module.code.tsx"
 import { registerActionVerb } from "akasha/page/ui/modules/action-verb-registry/action-verb-registry.module.code.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import {
   BoostDialog,
@@ -23,6 +24,8 @@ import type { Route } from "./+types/_app-layout"
 const FEATURE_REQUEST = "feature-request"
 
 const REQUESTS_PATH = "/api/requests"
+
+const READ = ["contributor"]
 
 function boostingIn(held: Record<string, unknown>): Boosting {
   const slug = held.slug
@@ -57,6 +60,7 @@ export async function loader({ request }: Route.LoaderArgs) {
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
+  useLoaderFollowing(READ)
   const [proposing, setProposing] = useState(false)
   const [boosting, setBoosting] = useState<Boosting | null>(null)
   const overrides = useMemo(() => ({ [FEATURE_REQUEST]: () => setProposing(true) }), [])
