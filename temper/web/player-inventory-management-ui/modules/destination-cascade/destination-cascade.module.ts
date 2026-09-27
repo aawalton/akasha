@@ -11,5 +11,9 @@ export const destinationCascade = {
       decisionKind: "decision-kind/departure",
       statement: "Any place of a group reads Any and the group's name, read from its page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Any wording is the web phrase page the action filter cascades read.",
+    },
   ],
 } as const satisfies Module

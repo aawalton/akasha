@@ -9,6 +9,8 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import type { MoveToDestination } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { actionFilterCascadesAnyGroup } from "akasha/temper/web/phrase/pages/action-filter-cascades-any-group.temper-web-phrase.ts"
 import type { ActionVariant } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import { ChevronRight } from "lucide-react"
@@ -26,6 +28,7 @@ export function DestinationCascade({
   onChange,
   variant = "green",
 }: DestinationCascadeProps) {
+  const phrase = usePhrase()
   const currentCategory = options.getCategoryFor(destination)
   const currentGroup = options.groups.find((g) => g.category === currentCategory)
 
@@ -44,7 +47,7 @@ export function DestinationCascade({
 
   const isSentinel = destination === "house-storage" || destination === "guild-bank"
   const itemValue = hasItems || isSentinel ? destination : undefined
-  const anyLabel = `Any ${currentGroup.label}`
+  const anyLabel = phrase(actionFilterCascadesAnyGroup.slug, { group: currentGroup.label })
   const itemLabel = isSentinel
     ? anyLabel
     : currentGroup.items.find((i) => i.value === destination)?.label
