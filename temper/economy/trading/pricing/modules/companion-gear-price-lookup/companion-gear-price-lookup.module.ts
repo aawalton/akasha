@@ -22,6 +22,10 @@ export const companionGearPriceLookup = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A screen can tell the numbers held now from the ones it last worked from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An equipment slot Tamriel Trade Centre prices no item for answers with nothing.",
     },
     {

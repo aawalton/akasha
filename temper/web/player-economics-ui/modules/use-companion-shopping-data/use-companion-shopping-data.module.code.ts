@@ -6,7 +6,10 @@ import {
   companions,
   getCompanionName,
 } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import type { CompanionGearPriceResult } from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
+import {
+  type CompanionGearPriceResult,
+  heldCompanionGearTtc,
+} from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
 import {
   type CompanionGearNeed,
@@ -121,15 +124,17 @@ export function useCompanionShoppingData(userId: string | null): CompanionShoppi
 
   const unownedNeeds = useMemo(() => allNeeds.filter((n) => !n.owned), [allNeeds])
 
+  const ttcRead = heldCompanionGearTtc()
+
   const slotPriceMap = useMemo(() => {
     if (!pricing) return null
     return buildSlotPriceMap(unownedNeeds, pricing)
-  }, [unownedNeeds, pricing])
+  }, [unownedNeeds, pricing, ttcRead])
 
   const blendedPriceMap = useMemo(() => {
     if (!pricing) return null
     return buildBlendedPriceMap(unownedNeeds, pricing)
-  }, [unownedNeeds, pricing])
+  }, [unownedNeeds, pricing, ttcRead])
 
   const totalCost = useMemo(() => {
     if (!slotPriceMap || !blendedPriceMap) return null

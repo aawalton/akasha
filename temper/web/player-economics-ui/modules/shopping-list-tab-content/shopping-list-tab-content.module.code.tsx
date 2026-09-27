@@ -35,6 +35,7 @@ import {
   needToShoppingKey,
 } from "akasha/temper/economy/shopping/modules/companion-gear-shopping-bridge/companion-gear-shopping-bridge.module.code.ts"
 import { isShoppingSettings } from "akasha/temper/economy/shopping/modules/shopping-settings/shopping-settings.module.code.ts"
+import { heldCompanionGearTtc } from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import { formatGold } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import {
   buildCategoryGroups,
@@ -98,9 +99,11 @@ export function ShoppingListTabContent({
     return result
   }, [unownedNeeds, shoppingList])
 
+  const ttcRead = heldCompanionGearTtc()
+
   const categories = useMemo(
     () => buildCategoryGroups(listedNeeds, slotPriceMap, blendedPriceMap),
-    [listedNeeds, slotPriceMap, blendedPriceMap]
+    [listedNeeds, slotPriceMap, blendedPriceMap, ttcRead]
   )
 
   const totalCost = useMemo(() => {

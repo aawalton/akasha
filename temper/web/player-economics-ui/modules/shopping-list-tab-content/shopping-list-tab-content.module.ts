@@ -6,4 +6,11 @@ export const shoppingListTabContent = {
   slug: "shopping-list-tab-content",
   definition: "a player's shopping list",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The list's piece names are worked out again whenever the trade numbers are read again.",
+    },
+  ],
 } as const satisfies Module

@@ -97,6 +97,10 @@ export function holdCompanionGearTtc(ttc: CompanionGearTtc): CompanionGearTtc {
   return ttc
 }
 
+export function heldCompanionGearTtc(): CompanionGearTtc | null {
+  return held
+}
+
 function companionGearTtc(): CompanionGearTtc {
   if (held === null) throw new CompanionGearTtcUnread()
   return held
