@@ -7,8 +7,20 @@ export const theDatingGame00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 4,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/reviewers",
   action:
     "I like that she's walking close, and I bump my shoulder gently into hers from time to time. \"I'm Alan, what's your name?\"",
+  beats: [
+    "Walking on up the canyon, Alan bumps his shoulder gently into hers.",
+    "She glances at him, surprised, then laughs without a sound, just breath and a bright look.",
+    "A few steps on she bumps him back, a little harder, eyes on the trail as if innocent.",
+    "He keeps it up now and then, and she answers each bump in kind.",
+    "Then he says: \"I'm Alan, what's your name?\"",
+    '"Alan," she says, trying it slowly, as if tasting it.',
+    "She touches two fingers to her own chest.",
+    '"Echo," she says.',
+    "The walls give the word back once, faint, from up the canyon.",
+    "She bumps his shoulder and watches his face to see what he makes of it.",
+  ],
   lore: ["lore/the-dating-game-boulder-woman"],
 } as const satisfies StoryTurnPlayed
