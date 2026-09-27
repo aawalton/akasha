@@ -104,5 +104,17 @@ export const theDatingGameAlan = {
       fact: "Alan really likes Echo, and told her so.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
     },
+    {
+      fact: "Alan's aphantasia leaves him no sense of time, so he finds it hard to tell when timing is right.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "Alan asked Echo to set the pace between them, and she agreed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -107,5 +107,13 @@ export const theDatingGameRockCanyon = {
         "character-other/the-dating-game-echo",
       ],
     },
+    {
+      fact: "Further up the trail, a knee-high slab of pink-and-grey quartzite juts across it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
+    },
   ],
 } as const satisfies Place

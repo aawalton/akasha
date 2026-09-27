@@ -10,7 +10,7 @@ export const theDatingGame00012 = {
   position: 12,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     '"Okay, I\'m glad you have good boundaries. With the aphantasia I have no sense of time, which makes it hard for me to tell when the timing is right, but I\'m happy to let you set the pace. I really do like you."\n\n"So, you read LitRPG? What\'s one of your favorite series?"',
   beats: [
@@ -29,5 +29,5 @@ export const theDatingGame00012 = {
     'Then she turns his own question back on him, head tilted: "What\'s one of your favorite series?"',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
