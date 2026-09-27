@@ -32,4 +32,5 @@ export const theDatingGame00017 = {
     "Through the glass she lifts her eyes to his, the book open under her hand.",
   ],
   lore: ["place/the-dating-game-byu-broadcasting", "lore/the-dating-game-alan"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
