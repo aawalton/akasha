@@ -53,7 +53,11 @@ export const otherwhereAlan = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Alan's black shorts and compression tights slide off her hips.",
+      fact: "Alan's black shorts are too big to stay on her hips.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Alan's black compression tights hang loose on her, but stay up.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
