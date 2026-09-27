@@ -68,7 +68,12 @@ export const visualStyle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A picture goes live only in a set someone has looked at.",
+      statement:
+        "A picture other than a played turn's goes live only in a set someone has looked at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A played turn's picture goes live as the recorder making it sets it.",
     },
     {
       decisionKind: "decision-kind/departure",
