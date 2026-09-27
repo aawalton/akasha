@@ -6,4 +6,10 @@ export const inventoryRulesFilterItems = {
   slug: "inventory-rules-filter-items",
   definition: "the choices the rules filter bar offers",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Filter labels are web phrases and status labels rule card phrases, read as held.",
+    },
+  ],
 } as const satisfies Module
