@@ -1,7 +1,7 @@
 "use client"
 
+import { PersonaCoverPanel } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import { HudPanel } from "akasha/story/ui/modules/hud-panel/hud-panel.module.code.tsx"
-import { PersonaCoverPanel } from "akasha/story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx"
 import { QuestsPanel } from "akasha/story/ui/modules/quests-panel/quests-panel.module.code.tsx"
 import { SheetPanel } from "akasha/story/ui/modules/sheet-panel/sheet-panel.module.code.tsx"
 import { StorySoFar } from "akasha/story/ui/modules/story-so-far/story-so-far.module.code.tsx"
@@ -26,7 +26,7 @@ const OFFERED: Readonly<Record<string, Readonly<Record<string, unknown>>>> = {
     poolPanelBy,
   },
   "akasha/story/ui/modules/hud-panel/hud-panel.module.code.tsx": { HudPanel },
-  "akasha/story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx": {
+  "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx": {
     PersonaCoverPanel,
   },
   "akasha/story/ui/modules/quests-panel/quests-panel.module.code.tsx": { QuestsPanel },

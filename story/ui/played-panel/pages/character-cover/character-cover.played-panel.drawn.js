@@ -1,6 +1,6 @@
 const { PersonaCoverPanel } =
   globalThis.akashaDrawing[
-    "akasha/story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx"
+    "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
   ]
 const { panelBy } =
   globalThis.akashaDrawing[

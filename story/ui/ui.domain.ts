@@ -33,7 +33,7 @@ export const ui = {
     "module/system-choice-card",
     "module/system-window-card",
     "module/story-chapters",
-    "module/persona-cover-panel",
+    "module/character-cover-panel",
     "page-type/played-panel",
   ],
 } as const satisfies Domain

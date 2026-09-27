@@ -28,8 +28,8 @@ import {
   characterSlugsIn,
   personaCoversOf,
   personaSlugsOf,
-} from "akasha/story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx"
-import { personaCover } from "akasha/story/ui/played-panel/pages/persona-cover/persona-cover.played-panel.ts"
+} from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
+import { characterCover } from "akasha/story/ui/played-panel/pages/character-cover/character-cover.played-panel.ts"
 import { playedPanel } from "akasha/story/ui/played-panel/played-panel.page-type.ts"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
@@ -100,7 +100,7 @@ async function seedsFor(
   return Object.fromEntries(answered.filter((one): one is Answered => one !== null))
 }
 
-const PERSONA_COVER_PANEL = namedAs(playedPanel.slug, personaCover.slug, null)
+const PERSONA_COVER_PANEL = namedAs(playedPanel.slug, characterCover.slug, null)
 
 type Covered = { readonly seeds: Seeds; readonly covers: readonly string[] }
 

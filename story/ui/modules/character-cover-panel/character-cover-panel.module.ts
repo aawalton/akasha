@@ -1,9 +1,9 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const personaCoverPanel = {
+export const characterCoverPanel = {
   id: "01a0de7e-118e-760a-aace-b82f91d94001",
   type: "page-type/module",
-  slug: "persona-cover-panel",
+  slug: "character-cover-panel",
   definition: "the covers of the personas the latest turn of play is with",
   code: "tsx",
   test: "ts",
