@@ -15,6 +15,7 @@ export const webApp = {
     "module/web-app-naming",
     "number-property/base-port",
     "page-type/site-document",
+    "page-type/web-phrase",
     "multi-relation-property/service-clusters",
     "text-property/build-command",
     "text-property/secret-resource",

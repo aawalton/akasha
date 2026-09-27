@@ -447,6 +447,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/site-document.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/slide.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/web-phrase.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/storage/git-repo/repo/repo.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"infrastructure/telemetry/dashboard/dashboard.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"page/action-button-property/action-button-property.page-type.ts","typed":true,"deferred":false}
