@@ -4,10 +4,13 @@ export const theDatingGame00011 = {
   id: "01a0e348-5c5a-76af-ba2a-5313d80a4947",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-011",
+  ownLength: 178,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 11,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     '"Oh! Another LitRPG enthusiast! I\'m so excited I could kiss you right now. I mean..." I stop and turn to face her "Could I? Kiss you right now? I know we just met today, but I really like you."',
   beats: [
