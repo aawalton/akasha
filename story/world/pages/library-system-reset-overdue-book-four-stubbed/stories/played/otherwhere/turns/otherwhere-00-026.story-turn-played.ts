@@ -4,6 +4,7 @@ export const otherwhere00026 = {
   id: "01a0e4fa-9abc-7486-89b7-a3035c2af69a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-026",
+  cover: "image/image-da31dcd3a85de604",
   ownLength: 114,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -15,7 +16,7 @@ export const otherwhere00026 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "“Links, is the big one the last one, or are there more?”",
   beats: [
     "Still lying across the dried coil, Nala calls out to Links, asking if the big one is the last.",
@@ -29,5 +30,5 @@ export const otherwhere00026 = {
   ],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
