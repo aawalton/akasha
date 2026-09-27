@@ -47,6 +47,10 @@ export const otherwhereMainHall = {
       fact: "Loose pages flutter across the main hall, and it smells stale, sad and faintly of hope.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Two short steps at the dark back of the hall lead up to a floor of more books and carved rails.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
