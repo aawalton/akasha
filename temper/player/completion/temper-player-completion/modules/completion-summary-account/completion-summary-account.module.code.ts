@@ -1,4 +1,3 @@
-import { MAX_CHAMPION_POINTS } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import { TOTAL_GRAND_MASTER_STATIONS } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type {
   AccountRecipeUnionProgress,
@@ -12,6 +11,7 @@ import type {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
 import type { AccountAchievementOverallProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { AccountSummaryData } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionMost } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type { ItemSetOverallProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
 import type { SubclassingSkillLineProgressResult } from "akasha/temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
 import type {
@@ -79,7 +79,7 @@ export function buildAccountSummary(
     },
     "champion-points": {
       count: championPointsEarned,
-      total: MAX_CHAMPION_POINTS,
+      total: completionMost("champion-points"),
     },
     "collectibles": {
       count: collectiblesProgress.unlockedCount,

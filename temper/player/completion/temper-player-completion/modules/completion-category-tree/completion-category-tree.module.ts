@@ -25,6 +25,10 @@ export const completionCategoryTree = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A card's cap, where the game has one, is read from its category page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A card the completion window never shows hangs under the tasks tab.",
     },
     {

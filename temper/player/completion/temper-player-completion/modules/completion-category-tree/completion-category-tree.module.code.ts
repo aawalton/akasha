@@ -63,6 +63,7 @@ interface CompletionCategoryPage {
   readonly tab?: unknown
   readonly displayOrder?: unknown
   readonly parent?: unknown
+  readonly completionMost?: unknown
 }
 
 export const COMPLETION_CATEGORY_FIELDS: readonly string[] = [
@@ -72,7 +73,10 @@ export const COMPLETION_CATEGORY_FIELDS: readonly string[] = [
   "tab",
   "displayOrder",
   "parent",
+  "completionMost",
 ]
+
+let most: ReadonlyMap<string, number> = new Map()
 
 const TABS: readonly CompletionTab[] = ["account", "characters", "companions", "tasks"]
 
@@ -126,7 +130,18 @@ function treeOf(pages: readonly CompletionCategoryPage[]): CompletionCategoryTre
 
 export function holdCompletionCategoryPages(pages: readonly CompletionCategoryPage[]): undefined {
   held = treeOf(pages)
+  const found = new Map<string, number>()
+  for (const page of pages) {
+    if (typeof page.completionMost === "number") found.set(String(page.nodeId), page.completionMost)
+  }
+  most = found
   return undefined
+}
+
+export function completionMost(nodeId: string): number {
+  const cap = most.get(nodeId)
+  if (cap === undefined) throw new Error(`no completion page caps the category ${nodeId}`)
+  return cap
 }
 
 export function completionCategoryTree(): CompletionCategoryTree {

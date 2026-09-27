@@ -14,7 +14,7 @@ export const completionSummaryAccount = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads a catalog.",
+      statement: "Nothing here reads a catalog but the caps the completion category pages state.",
     },
   ],
 } as const satisfies Module

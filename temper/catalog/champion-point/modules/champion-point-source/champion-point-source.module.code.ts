@@ -49,8 +49,6 @@ export const CHAMPION_STAR_READS: readonly Read[] = [
   ],
 ]
 
-export const MAX_CHAMPION_POINTS = 3600
-
 export type ChampionPointId = ChampionStarId
 
 export type ChampionPointSource = ChampionPointTemplate & { id: ChampionPointId }

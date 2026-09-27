@@ -9,4 +9,5 @@ export const accountChampionPoints = {
   tab: "account",
   displayOrder: 5,
   parent: "temper-completion-category/account",
+  completionMost: 3600,
 } as const satisfies TemperCompletionCategory

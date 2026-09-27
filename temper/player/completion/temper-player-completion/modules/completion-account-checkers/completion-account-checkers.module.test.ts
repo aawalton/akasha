@@ -1,5 +1,4 @@
 import { describe, expect, test } from "bun:test"
-import { MAX_CHAMPION_POINTS } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import { ACCOUNT_COMPLETION_CARD_CHECKERS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.code.ts"
@@ -142,7 +141,7 @@ describe("champion-points", () => {
     const completion = account({ championPointsEarned: 120 })
     expect(resolveGenericCheckerProgress("champion-points", [], null, completion)).toEqual({
       current: 120,
-      total: MAX_CHAMPION_POINTS,
+      total: 3600,
     })
     expect(ACCOUNT_COMPLETION_CARD_CHECKERS["champion-points"]?.isCardComplete(completion)).toBe(
       false
