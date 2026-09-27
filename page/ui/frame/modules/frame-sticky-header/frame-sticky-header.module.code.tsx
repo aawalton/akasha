@@ -61,13 +61,13 @@ export function FrameStickyHeader({
       )}
     >
       {}
-      <div className="grid h-12 grid-cols-[auto_1fr_auto] items-center gap-2 px-4 min-[584px]:hidden">
+      <div className="grid h-11 grid-cols-[auto_1fr_auto] items-center gap-2 px-4 min-[584px]:hidden">
         {header.showBack === true ? (
           <button
             type="button"
             aria-label="Back"
             onClick={onBack}
-            className="flex h-8 w-8 items-center justify-center rounded-md text-primary"
+            className="-ml-1.5 flex h-11 w-11 items-center justify-center rounded-md text-primary"
           >
             <ArrowLeft className="h-4 w-4" />
           </button>
