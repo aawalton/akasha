@@ -25,4 +25,5 @@ export const otherwhere00026 = {
     '"You\'re bleeding on my floor," he says, but it comes out quieter than the rest.',
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
