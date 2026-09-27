@@ -9,6 +9,7 @@ import {
 } from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
 import { pageTypeChain } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { createHeldSnapshots } from "akasha/page/ui/cache/modules/listing-readiness/listing-readiness.module.code.ts"
 import {
   useAcquireFilteredStream,
   useAcquireShapes,
@@ -140,6 +141,8 @@ function slugsIn(key: string): readonly string[] {
   return key === "" ? NO_SLUGS : key.split(",")
 }
 
+const HELD_PAGE_TYPES = createHeldSnapshots<RegularResult>(256)
+
 function usePageTypesNamed(slugs: readonly string[]): {
   pageTypes: readonly PageWithProperties[]
   ready: boolean
@@ -163,13 +166,14 @@ function usePageTypesNamed(slugs: readonly string[]): {
   const { snapshot } = usePipelineLive<RegularResult>(
     (collection) => createRegularPipeline(collection, options),
     JSON.stringify(options),
-    key !== ""
+    key !== "",
+    HELD_PAGE_TYPES
   )
   const pageTypes = useMemo(
     () => (snapshot?.rows ?? []).map((row) => toPageWithProperties(flattenRow(row))),
     [snapshot]
   )
-  return { pageTypes, ready: key === "" || acquire.ready }
+  return { pageTypes, ready: key === "" || (acquire.ready && snapshot !== null) }
 }
 
 function slugOfType(pageType: PageWithProperties): unknown {

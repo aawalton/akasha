@@ -61,6 +61,14 @@ export const hooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Page types read by name are ready only once they have been read from the store.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Page types read by name again start from the ones last read under those names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page type's line is asked for type by type, each after the type extending it.",
     },
   ],
