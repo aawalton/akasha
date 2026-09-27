@@ -73,6 +73,7 @@ import {
   onInventorySingleSlotUpdate,
   onInventorySlotAdded,
   onInventorySlotRemoved,
+  onInventorySlotUpdated,
   onMoneyUpdate,
   onStackSplitShow,
   stampCachedSlots,
@@ -251,6 +252,7 @@ export function onAddOnLoaded(this: void): undefined {
 
   SHARED_INVENTORY.RegisterCallback("SlotAdded", timed(onInventorySlotAdded))
   SHARED_INVENTORY.RegisterCallback("SlotRemoved", timed(onInventorySlotRemoved))
+  SHARED_INVENTORY.RegisterCallback("SlotUpdated", timed(onInventorySlotUpdated))
   stampCachedSlots()
   ZO_PreHookHandler(ZO_StackSplit, "OnShow", onStackSplitShow)
   ZO_PreHookHandler(ZO_EnchantingTopLevelModeMenuBarButton1, "OnMouseDown", runeCreationTabShow)

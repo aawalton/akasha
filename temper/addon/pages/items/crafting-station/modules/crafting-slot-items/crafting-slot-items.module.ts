@@ -18,6 +18,10 @@ export const craftingSlotItems = {
       decisionKind: "decision-kind/departure",
       statement: "A removed slot whose item is known nowhere is passed over.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot that takes another item in place is stamped again with that item.",
+    },
   ],
   code: "ts",
   test: "ts",

@@ -20,6 +20,19 @@ export function rememberSlotItem(
   held[slot] = item
 }
 
+export function restampSlotItem(
+  this: void,
+  items: SlotItems,
+  bag: number,
+  slot: number,
+  stamped: { lnk?: string; uid?: string },
+  item: SlotItem
+): undefined {
+  stamped.lnk = item.lnk
+  stamped.uid = item.uid
+  rememberSlotItem(items, bag, slot, item)
+}
+
 export function removedSlotItem(
   this: void,
   items: SlotItems,

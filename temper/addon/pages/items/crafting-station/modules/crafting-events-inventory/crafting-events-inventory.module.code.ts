@@ -13,6 +13,7 @@ import {
 import {
   rememberSlotItem,
   removedSlotItem,
+  restampSlotItem,
   type SlotItems,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-slot-items/crafting-slot-items.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
@@ -138,6 +139,25 @@ export function onInventorySlotAdded(
       updateStored("added", data)
     }
   }
+}
+
+export function onInventorySlotUpdated(
+  this: void,
+  bag: number,
+  slot: number,
+  data: SharedInventorySlotData
+): undefined {
+  if (!isTrackedBag(bag)) {
+    return
+  }
+  const itemLink = GetItemLink(bag, slot)
+  if (itemLink === "") {
+    return
+  }
+  restampSlotItem(SLOT_ITEMS, bag, slot, data, {
+    lnk: stripLink(itemLink),
+    uid: Id64ToString(GetItemUniqueId(bag, slot)),
+  })
 }
 
 export function onInventorySlotRemoved(

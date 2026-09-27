@@ -2,6 +2,7 @@ import { describe, expect, test } from "bun:test"
 import {
   rememberSlotItem,
   removedSlotItem,
+  restampSlotItem,
   type SlotItems,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-slot-items/crafting-slot-items.module.code.ts"
 
@@ -35,6 +36,16 @@ describe("crafting-slot-items", () => {
     const items: SlotItems = {}
     rememberSlotItem(items, 1, 12, { lnk: SWORD, uid: "5" })
     rememberSlotItem(items, 1, 12, { lnk: DUMMY, uid: "77" })
+    expect(removedSlotItem(items, 1, 12, {})).toEqual({ lnk: DUMMY, uid: "77" })
+  })
+
+  test("a slot that swaps item in place is removed as its new item", () => {
+    const items: SlotItems = {}
+    const data: { lnk?: string; uid?: string } = { lnk: SWORD, uid: "5" }
+    rememberSlotItem(items, 1, 12, { lnk: SWORD, uid: "5" })
+    restampSlotItem(items, 1, 12, data, { lnk: DUMMY, uid: "77" })
+    expect(data).toEqual({ lnk: DUMMY, uid: "77" })
+    expect(removedSlotItem(items, 1, 12, data)).toEqual({ lnk: DUMMY, uid: "77" })
     expect(removedSlotItem(items, 1, 12, {})).toEqual({ lnk: DUMMY, uid: "77" })
   })
 })
