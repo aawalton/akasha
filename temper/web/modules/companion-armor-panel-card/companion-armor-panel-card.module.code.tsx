@@ -38,6 +38,11 @@ import {
 } from "akasha/temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionArmorPanelCardArmor } from "akasha/temper/web/phrase/pages/companion-armor-panel-card-armor.temper-web-phrase.ts"
+import { companionArmorPanelCardNoQuality } from "akasha/temper/web/phrase/pages/companion-armor-panel-card-no-quality.temper-web-phrase.ts"
+import { companionArmorPanelCardNoTrait } from "akasha/temper/web/phrase/pages/companion-armor-panel-card-no-trait.temper-web-phrase.ts"
+import { companionArmorPanelCardNoWeight } from "akasha/temper/web/phrase/pages/companion-armor-panel-card-no-weight.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 export function CompanionArmorPanelCard({
@@ -45,6 +50,10 @@ export function CompanionArmorPanelCard({
   onUpdate,
   readOnly,
 }: CompanionEquipmentPanelProps) {
+  const phrase = usePhrase()
+  const noQuality = phrase(companionArmorPanelCardNoQuality.slug)
+  const noWeight = phrase(companionArmorPanelCardNoWeight.slug)
+  const noTrait = phrase(companionArmorPanelCardNoTrait.slug)
   const weightOptions = companionArmorWeights()
 
   const handleArmorChange = (
@@ -182,7 +191,7 @@ export function CompanionArmorPanelCard({
     <PanelCard
       id="companion-armor"
       collapsible
-      title="Armor"
+      title={phrase(companionArmorPanelCardArmor.slug)}
       headerSubtitle={
         <div className="flex flex-wrap gap-1">
           {armorQualityCounts.map(([quality, count]) => (
@@ -247,10 +256,10 @@ export function CompanionArmorPanelCard({
                       >
                         <SelectTrigger hideChevron>
                           <Badge variant={getQualityVariant(armorData?.quality ?? "no-quality")}>
-                            <SelectValue placeholder="No Quality" />
+                            <SelectValue placeholder={noQuality} />
                           </Badge>
                         </SelectTrigger>
-                        <SelectContent nullSentinel={{ value: "no-quality", label: "No Quality" }}>
+                        <SelectContent nullSentinel={{ value: "no-quality", label: noQuality }}>
                           {availableQualityOptions()
                             .filter((quality) => quality.id !== "no-quality")
                             .map((quality) => (
@@ -271,10 +280,10 @@ export function CompanionArmorPanelCard({
                       >
                         <SelectTrigger hideChevron>
                           <Badge variant="elevation-muted">
-                            <SelectValue placeholder="No Weight" />
+                            <SelectValue placeholder={noWeight} />
                           </Badge>
                         </SelectTrigger>
-                        <SelectContent nullSentinel={{ value: "no-weight", label: "No Weight" }}>
+                        <SelectContent nullSentinel={{ value: "no-weight", label: noWeight }}>
                           {weightOptions
                             .filter((weight) => weight.id !== "no-weight")
                             .map((weight) => (
@@ -291,13 +300,10 @@ export function CompanionArmorPanelCard({
                       >
                         <SelectTrigger hideChevron>
                           <Badge variant="elevation-muted">
-                            <SelectValue placeholder="No Trait" />
+                            <SelectValue placeholder={noTrait} />
                           </Badge>
                         </SelectTrigger>
-                        <SelectContent
-                          nullSentinel={{ value: "no-trait", label: "No Trait" }}
-                          sorted
-                        >
+                        <SelectContent nullSentinel={{ value: "no-trait", label: noTrait }} sorted>
                           {companionTraits()
                             .list.filter((trait) => trait.id !== "no-trait")
                             .map((trait) => (

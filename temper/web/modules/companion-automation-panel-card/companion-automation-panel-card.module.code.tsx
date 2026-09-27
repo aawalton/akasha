@@ -5,6 +5,13 @@ import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { AutomationSelect } from "akasha/temper/web/modules/automation-select/automation-select.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionAutomationPanelCardAutomation } from "akasha/temper/web/phrase/pages/companion-automation-panel-card-automation.temper-web-phrase.ts"
+import { companionAutomationPanelCardConfigureDefaults } from "akasha/temper/web/phrase/pages/companion-automation-panel-card-configure-defaults.temper-web-phrase.ts"
+import { companionAutomationPanelCardEquipment } from "akasha/temper/web/phrase/pages/companion-automation-panel-card-equipment.temper-web-phrase.ts"
+import { companionAutomationPanelCardEquipmentHint } from "akasha/temper/web/phrase/pages/companion-automation-panel-card-equipment-hint.temper-web-phrase.ts"
+import { companionAutomationPanelCardSkills } from "akasha/temper/web/phrase/pages/companion-automation-panel-card-skills.temper-web-phrase.ts"
+import { companionAutomationPanelCardSkillsHint } from "akasha/temper/web/phrase/pages/companion-automation-panel-card-skills-hint.temper-web-phrase.ts"
 import { useAutomationSettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 
 interface CompanionAutomationPanelCardProps {
@@ -17,6 +24,7 @@ export function CompanionAutomationPanelCard({
   readOnly,
 }: CompanionAutomationPanelCardProps) {
   const { automationSettings, updateCompanionToggle } = useAutomationSettings()
+  const phrase = usePhrase()
 
   if (readOnly) return null
 
@@ -27,21 +35,23 @@ export function CompanionAutomationPanelCard({
     <InputPanelCard
       id="companion-automation"
       collapsible={true}
-      title="Automation"
+      title={phrase(companionAutomationPanelCardAutomation.slug)}
       headerSubtitle={
         <CardTitleBadges>
           <Link
             href="/settings?tab=automation"
             className="cursor-pointer text-tertiary text-xs hover:text-secondary"
           >
-            Configure Defaults
+            {phrase(companionAutomationPanelCardConfigureDefaults.slug)}
           </Link>
         </CardTitleBadges>
       }
     >
       <InputPanelCard.Row
-        label="Equipment"
-        description={<Text variant="hint">Automatically equip gear to match this build.</Text>}
+        label={phrase(companionAutomationPanelCardEquipment.slug)}
+        description={
+          <Text variant="hint">{phrase(companionAutomationPanelCardEquipmentHint.slug)}</Text>
+        }
       >
         <AutomationSelect
           value={settings?.equipment}
@@ -51,12 +61,9 @@ export function CompanionAutomationPanelCard({
       </InputPanelCard.Row>
 
       <InputPanelCard.Row
-        label="Skills"
+        label={phrase(companionAutomationPanelCardSkills.slug)}
         description={
-          <Text variant="hint">
-            Automatically equip skills to match this build. Coming soon — this toggle will take
-            effect once addon support is added.
-          </Text>
+          <Text variant="hint">{phrase(companionAutomationPanelCardSkillsHint.slug)}</Text>
         }
       >
         <AutomationSelect
