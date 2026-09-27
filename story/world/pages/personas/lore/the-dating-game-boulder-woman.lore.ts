@@ -73,5 +73,25 @@ export const theDatingGameBoulderWoman = {
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     { fact: "Her name is Echo.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "She laughs without any sound, just a breath let out and a bright look.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "She answers each shoulder bump from Alan with one of her own.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: 'She said "Alan" back slowly, as if tasting it.',
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: 'Asked her name, she touched her chest, and the walls gave back "name" late and faint.',
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "She pointed up the canyon where the echo came from, then touched her chest again and smiled.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore

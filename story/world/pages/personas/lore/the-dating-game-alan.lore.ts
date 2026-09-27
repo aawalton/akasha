@@ -48,5 +48,9 @@ export const theDatingGameAlan = {
       fact: "Alan's favorite shoes are dusty light blue Ecco slip-ons.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Alan told the woman from the boulder his name.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
   ],
 } as const satisfies Lore
