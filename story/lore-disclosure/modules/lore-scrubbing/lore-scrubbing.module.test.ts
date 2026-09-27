@@ -31,6 +31,7 @@ import {
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
 import { turnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.ts"
+import { turnBeats } from "akasha/story/world/stories/played/turns/properties/turn-beats.text-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const scratch = scratchWorld()
@@ -160,6 +161,10 @@ const PLAYED_AT =
 
 const ACTION = "I tell her the ferryman remembers every crossing, so she should ask him"
 
+const QUOTING = 'Alan: "The ferryman remembers every crossing."'
+
+const OWN = "Seven lanterns burn beneath the pier as she listens."
+
 function playedWorld(): string {
   const root = sealedWorld()
   valueAlsoFiled(root, storyTurnPlayed.slug, [
@@ -170,6 +175,7 @@ function playedWorld(): string {
         type: `page-type/${storyTurnPlayed.slug}`,
         slug: "held-00-001",
         [turnAction.propertySlug]: ACTION,
+        [turnBeats.propertySlug]: [QUOTING, OWN],
       },
     },
   ])
@@ -180,6 +186,17 @@ test("a player's action is kept where it shares words with a withheld fact", () 
   const scrubber = scrubberOf(playedWorld())
   expect(heldIn(`  action: ${JSON.stringify(ACTION)},`, scrubber)).toBe(false)
   expect(heldIn(`"${FACT}"`, scrubber)).toBe(true)
+})
+
+test("a beat quoting the player is kept where it shares words with a withheld fact", () => {
+  const scrubber = scrubberOf(playedWorld())
+  expect(heldIn(`    ${JSON.stringify(QUOTING)},`, scrubber)).toBe(false)
+})
+
+test("a beat the game master wrote is kept, and the withheld fact it echoes is still held", () => {
+  const scrubber = scrubberOf(playedWorld())
+  expect(heldIn(`    ${JSON.stringify(OWN)},`, scrubber)).toBe(false)
+  expect(heldIn(`"${SECOND}"`, scrubber)).toBe(true)
 })
 
 test("a fact told to no game master lends no withheld words back", () => {

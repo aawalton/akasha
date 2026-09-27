@@ -46,6 +46,11 @@ export const loreScrubbing = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Words a played turn's beats state are never left out, whatever withheld prose shares them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "Words are compared without case or punctuation, so an escaped copy is left out too.",
     },
     {
