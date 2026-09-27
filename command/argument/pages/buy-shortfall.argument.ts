@@ -5,6 +5,7 @@ export const buyShortfall = {
   type: "page-type/argument",
   slug: "buy-shortfall",
   said: "--buy-shortfall",
-  takes: "whether a stocking rule buys at a merchant what the account holds short of its target",
+  takes:
+    "whether a stocking rule buys at a merchant or guild store what it holds short of its target",
   value: "true-or-false",
 } as const satisfies Argument

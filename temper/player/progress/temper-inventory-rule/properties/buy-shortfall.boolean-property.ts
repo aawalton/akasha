@@ -6,7 +6,7 @@ export const buyShortfall = {
   slug: "buy-shortfall",
   propertySlug: "buy-shortfall",
   definition:
-    "whether a stocking rule buys at a merchant what the account holds short of its target",
+    "whether a stocking rule buys at a merchant or guild store what it holds short of its target",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -27,6 +27,10 @@ export const buyShortfall = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A rule buys its shortfall at a merchant selling an item the rule takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule buys its shortfall at the guild store the player is at.",
     },
     {
       decisionKind: "decision-kind/departure",
