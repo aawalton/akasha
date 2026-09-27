@@ -25,21 +25,20 @@ import {
   DESTRUCTIVE_ACTIONS,
   type DestructiveAction,
 } from "akasha/temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 import {
   useLoggingSettings,
   useSafetySettings,
 } from "akasha/temper/web/modules/player-settings/player-settings.module.code.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { useBackpackSettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useEffect, useMemo, useState } from "react"
 
 type ConfirmActionItem = BadgeToggleGroupItem & { value: DestructiveAction }
-const CONFIRM_ACTION_ITEMS: ConfirmActionItem[] = DESTRUCTIVE_ACTIONS.map((a) => ({
-  value: a.value,
-  label: a.label,
-}))
 
 function isDestructiveAction(value: string): value is DestructiveAction {
-  return CONFIRM_ACTION_ITEMS.some((c) => c.value === value)
+  return DESTRUCTIVE_ACTIONS.some((c) => c.value === value)
 }
 
 interface NotificationsTabProps {
@@ -57,9 +56,19 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
     setDraftBuffer(String(backpackSettings.bufferSlots))
   }, [backpackSettings.bufferSlots])
 
+  const actionTitles = useKeyedTitles(temperItemAction.slug)
+  const confirmActionItems = useMemo<ConfirmActionItem[]>(
+    () =>
+      DESTRUCTIVE_ACTIONS.map((a) => ({
+        value: a.value,
+        label: a.label ?? titleIn(actionTitles, a.value),
+      })),
+    [actionTitles]
+  )
+
   const selectedItems = useMemo(
-    () => CONFIRM_ACTION_ITEMS.filter((item) => safetySettings.confirmActions.includes(item.value)),
-    [safetySettings.confirmActions]
+    () => confirmActionItems.filter((item) => safetySettings.confirmActions.includes(item.value)),
+    [confirmActionItems, safetySettings.confirmActions]
   )
 
   if (!active) return null
@@ -110,7 +119,7 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
           description="Show an in-game confirmation dialog before the addon automatically executes these actions."
         >
           <BadgeToggleGroup
-            items={CONFIRM_ACTION_ITEMS}
+            items={confirmActionItems}
             value={selectedItems}
             onSelect={(items) =>
               updateSafetySettings({

@@ -6,4 +6,10 @@ export const notificationsTab = {
   slug: "notifications-tab",
   definition: "the notifications tab of settings, where reports and tracing are set",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The actions to confirm are named from their item action pages.",
+    },
+  ],
 } as const satisfies Module

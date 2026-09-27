@@ -6,4 +6,14 @@ export const inventorySafetyTypes = {
   slug: "inventory-safety-types",
   definition: "the actions a player must agree to before they run",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An action with an item action page is named by that page's title.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Buying has no item action page, so its label is kept here.",
+    },
+  ],
 } as const satisfies Module

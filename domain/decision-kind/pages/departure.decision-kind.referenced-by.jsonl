@@ -5512,6 +5512,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.ts","id":"01a0626e-3e05-702f-9116-c504ffbe4049"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser-own-link/inventory-parser-own-link.module.ts","id":"01a0e173-815b-79b9-a56f-35777ee82907"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.ts","id":"01a060c5-3c23-74f6-af7d-2a1dd331431c"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.ts","id":"01a0626e-3e05-7472-a932-18d141f849b6"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-types/inventory-types.module.ts","id":"01a060c5-3c23-76ec-aa93-fa279ae67a96"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.ts","id":"01a0e0da-fccf-71f1-9a8a-9f3c03f4bc9b"}
@@ -6160,6 +6161,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/mined-item-rows/mined-item-rows.module.ts","id":"01a0640f-8510-7325-9208-0be4870d37e6"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mount-training-panel-card/mount-training-panel-card.module.ts","id":"01a06421-f74b-7aed-a3f9-5ade7268002e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mundus-select-dialog/mundus-select-dialog.module.ts","id":"01a0642c-5b7e-73e5-82b3-b4a417f524d1"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/notifications-tab/notifications-tab.module.ts","id":"01a06432-b190-74d1-baf2-ed7d76418c85"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.ts","id":"01a06421-f74b-7add-bb48-388a4598002f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.ts","id":"01a0642c-5ba6-754c-abac-523c83014b8e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/plan-tab/plan-tab.module.ts","id":"01a0642c-5b90-7ad7-8e2f-c7aad5cfa434"}

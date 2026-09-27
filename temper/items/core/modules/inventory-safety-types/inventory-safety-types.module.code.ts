@@ -1,11 +1,11 @@
 export type DestructiveAction = "deconstruct" | "refine" | "sell" | "research" | "destroy" | "buy"
 
-export const DESTRUCTIVE_ACTIONS: { value: DestructiveAction; label: string }[] = [
-  { value: "deconstruct", label: "Deconstruct" },
-  { value: "refine", label: "Refine" },
-  { value: "sell", label: "Sell" },
-  { value: "research", label: "Research" },
-  { value: "destroy", label: "Destroy" },
+export const DESTRUCTIVE_ACTIONS: { value: DestructiveAction; label?: string }[] = [
+  { value: "deconstruct" },
+  { value: "refine" },
+  { value: "sell" },
+  { value: "research" },
+  { value: "destroy" },
   { value: "buy", label: "Buy" },
 ]
 
