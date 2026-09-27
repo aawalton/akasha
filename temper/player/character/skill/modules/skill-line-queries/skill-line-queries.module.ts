@@ -17,7 +17,7 @@ export const skillLineQueries = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A skill line's category is named by its skill line category page's title.",
+      statement: "A skill line's category is given by id, and a screen names it from its page.",
     },
   ],
 } as const satisfies Module

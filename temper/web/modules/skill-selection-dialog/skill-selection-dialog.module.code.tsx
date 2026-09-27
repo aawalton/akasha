@@ -17,12 +17,14 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
+import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import {
   type SkillId,
   skills,
 } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import type { CategoryData } from "akasha/temper/player/skill-morph/modules/skill-organization/skill-organization.module.code.ts"
 import { SkillCollapsibleCard } from "akasha/temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { skillSelectionDialogCollapseAll } from "akasha/temper/web/phrase/pages/skill-selection-dialog-collapse-all.temper-web-phrase.ts"
 import { skillSelectionDialogExpandAll } from "akasha/temper/web/phrase/pages/skill-selection-dialog-expand-all.temper-web-phrase.ts"
@@ -60,6 +62,7 @@ export function SkillSelectionDialog({
   onCollapseAll,
 }: SkillSelectionDialogProps) {
   const phrase = usePhrase()
+  const categoryTitles = useKeyedTitles(temperSkillLineCategory.slug)
   const [expandedSkillId, setExpandedSkillId] = useState<SkillId | null>(null)
 
   function handleClose() {
@@ -118,9 +121,12 @@ export function SkillSelectionDialog({
             )}
 
             {organizedSkills.map((category) => (
-              <CommandGroup key={category.name} heading={category.name}>
+              <CommandGroup
+                key={category.id}
+                heading={categoryTitles?.titles.get(category.id) ?? ""}
+              >
                 {category.skillLines.map((skillLine) => {
-                  const skillLineKey = `${category.name}::${skillLine.displayName}`
+                  const skillLineKey = `${category.id}::${skillLine.displayName}`
                   return (
                     <Collapsible
                       key={skillLineKey}

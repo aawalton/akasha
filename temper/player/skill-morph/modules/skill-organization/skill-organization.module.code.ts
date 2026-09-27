@@ -1,9 +1,12 @@
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
-import { skillLineCategoriesSorted } from "akasha/temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
+import {
+  type SkillLineCategoryId,
+  skillLineCategoriesSorted,
+} from "akasha/temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import type { SkillLineId } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import {
-  getSkillCategory,
+  getSkillCategoryId,
   getSkillLineName,
   getSkillLineOrder,
 } from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
@@ -19,7 +22,7 @@ interface SkillLineData {
 }
 
 export interface CategoryData {
-  name: string
+  id: SkillLineCategoryId
   skillLines: readonly SkillLineData[]
 }
 
@@ -39,10 +42,10 @@ export function organizeSkills(
         )
       : skills
 
-  const categoryMap = new Map<string, Map<SkillLineId, Skill[]>>()
+  const categoryMap = new Map<SkillLineCategoryId, Map<SkillLineId, Skill[]>>()
 
   for (const skill of filteredSkills) {
-    const category = getSkillCategory(skill.skillLineId)
+    const category = getSkillCategoryId(skill.skillLineId)
     const skillLineId = skill.skillLineId
 
     if (!categoryMap.has(category)) {
@@ -57,9 +60,11 @@ export function organizeSkills(
 
   const categories: CategoryData[] = []
 
-  const categoryOrder = skillLineCategoriesSorted.map((category) => category.name)
-  for (const categoryName of categoryOrder) {
-    const skillLineMap = categoryMap.get(categoryName)
+  const categoryOrder = skillLineCategoriesSorted
+    .map((category) => category.id)
+    .filter((id) => id !== "none")
+  for (const categoryId of categoryOrder) {
+    const skillLineMap = categoryMap.get(categoryId)
     if (!skillLineMap || skillLineMap.size === 0) continue
 
     const skillLines: SkillLineData[] = []
@@ -82,7 +87,7 @@ export function organizeSkills(
     })
 
     categories.push({
-      name: categoryName,
+      id: categoryId,
       skillLines,
     })
   }

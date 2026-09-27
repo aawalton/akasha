@@ -6,4 +6,14 @@ export const skillOrganization = {
   slug: "skill-organization",
   definition: "the skills a search leaves put into categories, lines and morph pairs",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A category is given by id, and the screen names it from its page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Skills whose line has no category are left out.",
+    },
+  ],
 } as const satisfies Module

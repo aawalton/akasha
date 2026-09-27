@@ -96,7 +96,7 @@ export function useSkillBars(options: UseSkillBarsOptions): UseSkillBarsReturn {
 
   const expandAllSkillLines = (organizedSkills: readonly CategoryData[]) => {
     const allKeys = organizedSkills.flatMap((cat) =>
-      cat.skillLines.map((sl) => `${cat.name}::${sl.displayName}`)
+      cat.skillLines.map((sl) => `${cat.id}::${sl.displayName}`)
     )
     setExpandedSkillLines(new Set(allKeys))
   }
@@ -110,7 +110,7 @@ export function useSkillBars(options: UseSkillBarsOptions): UseSkillBarsReturn {
     setSearchFilter("")
     const organized = getOrganizedSkillsForDialog(false, bar)
     const allKeys = organized.flatMap((cat) =>
-      cat.skillLines.map((sl) => `${cat.name}::${sl.displayName}`)
+      cat.skillLines.map((sl) => `${cat.id}::${sl.displayName}`)
     )
     setExpandedSkillLines(new Set(allKeys))
   }
@@ -120,7 +120,7 @@ export function useSkillBars(options: UseSkillBarsOptions): UseSkillBarsReturn {
     setSearchFilter("")
     const organized = getOrganizedSkillsForDialog(true, bar)
     const allKeys = organized.flatMap((cat) =>
-      cat.skillLines.map((sl) => `${cat.name}::${sl.displayName}`)
+      cat.skillLines.map((sl) => `${cat.id}::${sl.displayName}`)
     )
     setExpandedSkillLines(new Set(allKeys))
   }
