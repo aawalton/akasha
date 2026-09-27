@@ -34,5 +34,7 @@ export const theDatingGame00016 = {
     '"Guide me through what we need," she gives back, and the offer is plain on her face.',
     "She turns to start back down the trail beside him, the campus below them in the sun.",
   ],
+  issues: ['"She turns to start back down the trail beside you" - Leave It Open'],
   lore: ["place/the-dating-game-rock-canyon", "lore/the-dating-game-alan"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
