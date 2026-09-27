@@ -58,19 +58,19 @@ test("any character knowing it is enough", () => {
 
 test("a motif with no chapter named is known only where every chapter of it is known", () => {
   const all = envOf(
-    knowing({ motifKnowledgeByStyle: new Map([[STYLED, new Set(CHAPTERS_OF_STYLED)]]) })
+    knowing({ motifChaptersByStyle: new Map([[STYLED, new Set(CHAPTERS_OF_STYLED)]]) })
   )
   expect(all.isKnownByCharacter({ kind: "motif", styleId: STYLED, chapterId: null }, "111")).toBe(
     CHAPTERS_OF_STYLED.length > 0
   )
-  const some = envOf(knowing({ motifKnowledgeByStyle: new Map([[STYLED, new Set([1])]]) }))
+  const some = envOf(knowing({ motifChaptersByStyle: new Map([[STYLED, new Set([1])]]) }))
   expect(some.isKnownByCharacter({ kind: "motif", styleId: STYLED, chapterId: null }, "111")).toBe(
     CHAPTERS_OF_STYLED.length === 1
   )
 })
 
 test("a style the chapter table has never heard of is known by nobody", () => {
-  const env = envOf(knowing({ motifKnowledgeByStyle: new Map([[999999, new Set([1])]]) }))
+  const env = envOf(knowing({ motifChaptersByStyle: new Map([[999999, new Set([1])]]) }))
   expect(env.isKnownByCharacter({ kind: "motif", styleId: 999999, chapterId: null }, "111")).toBe(
     false
   )
