@@ -4,6 +4,7 @@ import { Button } from "akasha/design/interface/primitive/modules/button/button.
 import { FrameHeaderAction } from "akasha/page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"
 import { BookOpen, PanelRight } from "lucide-react"
 import { type ReactNode, type RefCallback, useEffect, useRef, useState } from "react"
+import { flushSync } from "react-dom"
 
 const WIDE_PAGE =
   "mx-auto flex w-full max-w-[1100px] flex-col gap-6 px-6 pt-3 pb-12 min-[584px]:pt-6"
@@ -26,7 +27,7 @@ const PANELS_ASIDE = "hidden flex-col gap-4 lg:sticky lg:top-6 lg:self-start min
 const PANELS_SHOWN = "flex flex-col gap-4 max-[583px]:order-first lg:sticky lg:top-6 lg:self-start"
 
 const PANELS_FLAT =
-  "max-[583px]:[&_[data-surface=1]]:rounded-none max-[583px]:[&_[data-surface=1]]:bg-transparent max-[583px]:[&_[data-surface=1]]:px-0 max-[583px]:[&_[data-surface=1]]:shadow-none"
+  "max-[583px]:**:data-[surface=1]:rounded-none max-[583px]:**:data-[surface=1]:bg-transparent max-[583px]:**:data-[surface=1]:px-0 max-[583px]:**:data-[surface=1]:shadow-none"
 
 const PANELS_TOGGLE = "min-[584px]:hidden"
 
@@ -75,13 +76,14 @@ export function PlayedLayout({
   const toggle = () => {
     if (showing) {
       const at = textAt.current
-      setPanelsChosen(false)
-      requestAnimationFrame(() => window.scrollTo(0, at))
+      flushSync(() => setPanelsChosen(false))
+      window.scrollTo(0, at)
       return
     }
     textAt.current = window.scrollY
-    setPanelsChosen(true)
-    requestAnimationFrame(() => window.scrollTo(0, 0))
+    flushSync(() => setPanelsChosen(true))
+    window.scrollTo(0, 0)
+    requestAnimationFrame(() => requestAnimationFrame(() => window.scrollTo(0, 0)))
   }
   return (
     <div className={wide ? WIDE_PAGE : NARROW_PAGE}>
