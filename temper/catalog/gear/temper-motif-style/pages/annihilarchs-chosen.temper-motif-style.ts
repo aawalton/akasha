@@ -5,6 +5,8 @@ export const annihilarchsChosen = {
   type: "page-type/temper-motif-style",
   slug: "annihilarchs-chosen",
   title: "Annihilarch's Chosen",
+  esoItemStyleId: 125,
+  styleName: "Annihilarch's Chosen",
   collectionIndex: 92,
   sourceDescription: "Atoll of Immolation",
 } as const satisfies TemperMotifStyle
