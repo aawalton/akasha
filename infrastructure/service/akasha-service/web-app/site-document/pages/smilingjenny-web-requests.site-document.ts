@@ -12,7 +12,7 @@ export const smilingjennyWebRequests = {
     {
       anchor: "unpublished",
       title: "Nothing published",
-      text: "Nothing has been published here yet. (live check)",
+      text: "Nothing has been published here yet.",
     },
   ],
 } as const satisfies SiteDocument
