@@ -11,4 +11,5 @@ export const iris = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "cdc1bbc3-6764-4089-8625-54669fd58b26",
 } as const satisfies Seat
