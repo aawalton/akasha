@@ -11,5 +11,9 @@ export const companionSkillCard = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cost names its resource as the resource page's title does.",
+    },
   ],
 } as const satisfies Module

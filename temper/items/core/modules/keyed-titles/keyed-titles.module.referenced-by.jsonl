@@ -10,6 +10,8 @@
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/items/rules/routing/modules/inventory-management-plan-grouping/inventory-management-plan-grouping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/completion-page-filter-constants/completion-page-filter-constants.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/notifications-tab/notifications-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx","typed":false,"deferred":false}

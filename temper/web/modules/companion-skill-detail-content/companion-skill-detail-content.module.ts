@@ -6,4 +6,10 @@ export const companionSkillDetailContent = {
   slug: "companion-skill-detail-content",
   definition: "what a companion skill's own view draws",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cost is worded by a web phrase page and names the resource page's title.",
+    },
+  ],
 } as const satisfies Module

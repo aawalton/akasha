@@ -13,6 +13,8 @@ import {
   extractPrimaryTargeting,
   updateDescriptionWithCalculatedValues,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+import { temperResource } from "akasha/temper/catalog/skill/resource/temper-resource.page-type.ts"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/player/character/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
 import { ConstraintBadges } from "akasha/temper/web/modules/constraint-badges/constraint-badges.module.code.tsx"
 import { EffectBadge } from "akasha/temper/web/modules/effect-badge/effect-badge.module.code.tsx"
@@ -22,7 +24,9 @@ import {
   TargetingBadge,
 } from "akasha/temper/web/modules/targeting-badges/targeting-badges.module.code.tsx"
 import { TimingBadges } from "akasha/temper/web/modules/timing-badges/timing-badges.module.code.tsx"
-import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionSkillDetailContentCost } from "akasha/temper/web/phrase/pages/companion-skill-detail-content-cost.temper-web-phrase.ts"
 
 const SKILL_DETAIL_WIDTH = COLUMN_WIDTH
 
@@ -32,6 +36,8 @@ interface CompanionSkillDetailContentProps {
 }
 
 export function CompanionSkillDetailContent({ skill, stats }: CompanionSkillDetailContentProps) {
+  const phrase = usePhrase()
+  const resources = useKeyedTitles(temperResource.slug)
   const iconUrl = getEsoIconUrl(skill.icon)
   const timing = extractSkillTiming(skill.effects)
 
@@ -79,7 +85,10 @@ export function CompanionSkillDetailContent({ skill, stats }: CompanionSkillDeta
           <div className="flex items-center gap-2 text-secondary text-sm">
             {resourceCost && resourceCost.resource !== "ultimate" ? (
               <span className="shrink-0">
-                {resourceCost.amount} {capitalize(resourceCost.resource)}
+                {phrase(companionSkillDetailContentCost.slug, {
+                  amount: resourceCost.amount,
+                  resource: titleIn(resources, resourceCost.resource),
+                })}
               </span>
             ) : null}
             {displayEffects.length > 0 ? (

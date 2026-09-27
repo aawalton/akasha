@@ -13,6 +13,8 @@ import {
   extractPrimaryTargeting,
   updateDescriptionWithCalculatedValues,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+import { temperResource } from "akasha/temper/catalog/skill/resource/temper-resource.page-type.ts"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { getEsoIconUrl } from "akasha/temper/player/character/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
 import { formatAbbreviated } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
 import { CollapsibleSkillCard } from "akasha/temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
@@ -26,9 +28,10 @@ import {
   TargetingBadge,
 } from "akasha/temper/web/modules/targeting-badges/targeting-badges.module.code.tsx"
 import { TimingBadges } from "akasha/temper/web/modules/timing-badges/timing-badges.module.code.tsx"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionSkillCardCost } from "akasha/temper/web/phrase/pages/companion-skill-card-cost.temper-web-phrase.ts"
 import { companionSkillCardEffects } from "akasha/temper/web/phrase/pages/companion-skill-card-effects.temper-web-phrase.ts"
-import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
 import type { ReactNode } from "react"
 
 interface CompanionSkillCardProps {
@@ -59,6 +62,7 @@ export function CompanionSkillCard({
   className,
 }: CompanionSkillCardProps) {
   const phrase = usePhrase()
+  const resources = useKeyedTitles(temperResource.slug)
   const iconUrl = getEsoIconUrl(skill.icon)
   const timing = extractSkillTiming(skill.effects)
   const resourceCost = skill.effects.find(isResourceCostEffect)
@@ -78,7 +82,10 @@ export function CompanionSkillCard({
   const subtitleParts: string[] = []
   if (resourceCost && resourceCost.resource !== "ultimate") {
     subtitleParts.push(
-      `${formatAbbreviated(resourceCost.amount)} ${capitalize(resourceCost.resource)}`
+      phrase(companionSkillCardCost.slug, {
+        amount: formatAbbreviated(resourceCost.amount),
+        resource: titleIn(resources, resourceCost.resource),
+      })
     )
   }
   const subtitleString = subtitleParts.join(" / ")
