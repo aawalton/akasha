@@ -29,5 +29,5 @@ export const theDatingGame00028 = {
   issues: ['"So nobody has to walk in it without a light." - Nobody Acts'],
   lore: ["lore/the-dating-game-grace", "place/the-dating-game-provo-city-cemetery"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
