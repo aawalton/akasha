@@ -5,6 +5,16 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type * as React from "react"
 
+type EnterPressed = {
+  readonly key: string
+  readonly shiftKey: boolean
+  readonly nativeEvent: { readonly isComposing: boolean }
+}
+
+function sendsNow(event: EnterPressed): boolean {
+  return event.key === "Enter" && !event.shiftKey && !event.nativeEvent.isComposing
+}
+
 function Textarea({ className, autoComplete = "off", ...props }: React.ComponentProps<"textarea">) {
   const surface = useSurface()
 
@@ -26,4 +36,4 @@ function Textarea({ className, autoComplete = "off", ...props }: React.Component
   )
 }
 
-export { Textarea }
+export { sendsNow, Textarea }

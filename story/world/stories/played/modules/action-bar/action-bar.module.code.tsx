@@ -1,8 +1,11 @@
 "use client"
 
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
-import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
+import {
+  sendsNow,
+  Textarea,
+} from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { useKeyboardInset } from "akasha/page/ui/block-editor/modules/use-keyboard-inset/use-keyboard-inset.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import {
@@ -199,13 +202,20 @@ export function ActionBar({
         ) : error === null ? null : (
           <p className={ERROR_LINE}>{error}</p>
         )}
-        <div className="flex gap-2">
-          <Input
+        <div className="flex items-end gap-2">
+          <Textarea
             value={text}
             onChange={(event) => onType(event.target.value)}
+            onKeyDown={(event) => {
+              if (!sendsNow(event)) return
+              event.preventDefault()
+              event.currentTarget.form?.requestSubmit()
+            }}
+            rows={1}
+            enterKeyHint="send"
             placeholder={making === null ? PLACEHOLDER : MAKING_PLACEHOLDER}
             aria-label="Your action"
-            className={surfaceClass(1)}
+            className={`${surfaceClass(1)} max-h-48 min-h-9 flex-1 resize-none`}
           />
           <Button type="submit" disabled={sending}>
             Send

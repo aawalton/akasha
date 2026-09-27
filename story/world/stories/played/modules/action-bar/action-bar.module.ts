@@ -37,5 +37,9 @@ export const actionBar = {
       decisionKind: "decision-kind/departure",
       statement: "The line rises above the keyboard on a phone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Enter sends, and Shift with Enter starts a new line.",
+    },
   ],
 } as const satisfies Module

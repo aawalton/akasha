@@ -6,4 +6,12 @@ export const textarea = {
   slug: "textarea",
   definition: "the many line text field",
   code: "tsx",
+  test: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Enter alone sends, Shift with Enter starts a new line, and Enter mid-word sends nothing.",
+    },
+  ],
 } as const satisfies Module

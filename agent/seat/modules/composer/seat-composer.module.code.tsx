@@ -1,9 +1,12 @@
 "use client"
 
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
-import { Textarea } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
+import {
+  sendsNow,
+  Textarea,
+} from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
 import { ImagePlus, X } from "lucide-react"
-import { type ChangeEvent, type KeyboardEvent, useEffect, useRef, useState } from "react"
+import { type ChangeEvent, useEffect, useRef, useState } from "react"
 
 const SEND_AT = "/api/seat/message"
 
@@ -148,10 +151,6 @@ function Thumbnail({ one, remove }: { one: Attached; remove: (key: number) => vo
       </button>
     </li>
   )
-}
-
-function sendsNow(event: KeyboardEvent<HTMLTextAreaElement>): boolean {
-  return event.key === "Enter" && !event.shiftKey && !event.nativeEvent.isComposing
 }
 
 export function SeatComposer({
