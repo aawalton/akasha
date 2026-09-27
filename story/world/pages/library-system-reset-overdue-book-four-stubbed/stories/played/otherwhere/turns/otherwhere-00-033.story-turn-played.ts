@@ -4,7 +4,7 @@ export const otherwhere00033 = {
   id: "01a0e52b-b64c-750e-8228-48e1abcf5695",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-033",
-  ownLength: 147,
+  ownLength: 154,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 33,
@@ -17,7 +17,7 @@ export const otherwhere00033 = {
     "character-other/otherwhere-engorged-bookworm-05",
     "character-other/otherwhere-engorged-bookworm-06",
   ],
-  turnStatus: "turn-status/writer",
+  turnStatus: "turn-status/recorders",
   action:
     "“Okay, we’ll start there.” I quietly go back and get the cooler and collect the dormant bookworms, the start spring books back onto the shelves, taking care to listen for the large bookworm and stay far away from it.",
   beats: [
