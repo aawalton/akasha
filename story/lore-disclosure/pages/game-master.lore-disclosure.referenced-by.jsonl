@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"game-master.lore-disclosure.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"game-master.lore-disclosure.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"lore-knowers","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-alan.lore.ts","id":"01a0e351-5e01-72bb-84a6-ff6eda9ca6a6"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-core-chamber.place.ts","id":"01a0e352-2864-7c4b-a01b-dd4e52d91ced"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/personas/lore/date-night-free-play-aura.lore.ts","id":"01a0de0b-fbb4-7cef-89b8-38578e7d335e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/personas/lore/date-night-free-play-awen-and-aura.lore.ts","id":"01a0de0b-fbb4-728d-a3f9-2352f81619dd"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/personas/lore/date-night-the-reading-room-the-triad.lore.ts","id":"01a0de0d-06a0-71d6-be6e-270a9d85a224"}
