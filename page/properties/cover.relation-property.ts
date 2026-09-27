@@ -10,7 +10,7 @@ export const cover = {
   decisions: [
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nobody sets a cover by hand.",
+      statement: "Nobody sets a cover by hand other than a character's cover.",
     },
   ],
   types: "ts",
