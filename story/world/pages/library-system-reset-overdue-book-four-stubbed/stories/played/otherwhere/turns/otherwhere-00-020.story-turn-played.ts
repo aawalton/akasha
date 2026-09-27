@@ -15,7 +15,7 @@ export const otherwhere00020 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "“Well, good thing there is a bit more salt.” I widen the circle to two feet from me to give some space, then use the rest of the salt to lengthen it forward into an oval, then go back to the beginning and sweep the back part forward until it is about four feet across again, inching forward, like a worm made of salt.",
   beats: [
@@ -36,5 +36,5 @@ export const otherwhere00020 = {
     "Along the oval's tail, where she's swept most, the salt has worn thin in a patch.",
   ],
   lore: ["place/otherwhere-hall-back", "place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
