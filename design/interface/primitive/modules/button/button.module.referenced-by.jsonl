@@ -83,7 +83,6 @@
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"temper/web/modules/watcher-page-content/watcher-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"temper/web/player-economics-ui/modules/shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"temper/web/player-economics-ui/modules/shopping-trip-complete-panel-card/shopping-trip-complete-panel-card.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"button.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-buy-rules-panel/inventory-buy-rules-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-category-rules-panel/inventory-category-rules-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"button.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-item-rules-panel/inventory-item-rules-panel.module.code.tsx","typed":false,"deferred":false}

@@ -153,7 +153,6 @@
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"temper/web/modules/version-history-item/version-history-item.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"temper/web/modules/watcher-page-content/watcher-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/item-rule-card-dialogs/item-rule-card-dialogs.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"surface-class.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-delete-dialog/rule-card-delete-dialog.module.code.tsx","typed":false,"deferred":false}

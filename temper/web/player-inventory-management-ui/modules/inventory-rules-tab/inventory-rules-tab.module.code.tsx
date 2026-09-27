@@ -324,7 +324,6 @@ export function InventoryRulesTab({
           itemActiveDescriptions,
           itemInactiveDescriptions,
           itemUnlockedDescriptions,
-          buyRules: localSettings.buyRules ?? [],
           globalPriorityMap,
           totalRules: allRulesForMatching.length,
           controlledRulesCount,

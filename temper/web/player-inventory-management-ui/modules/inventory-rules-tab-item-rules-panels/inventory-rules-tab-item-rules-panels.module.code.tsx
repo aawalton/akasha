@@ -1,12 +1,10 @@
 "use client"
 
-import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type {
   CategoryRule,
   ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { BuyRulesPanel } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-buy-rules-panel/inventory-buy-rules-panel.module.code.tsx"
 import { CategoryRulesPanel } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-category-rules-panel/inventory-category-rules-panel.module.code.tsx"
 import type {
   ActiveStatusFilter,
@@ -44,7 +42,6 @@ interface ItemRulesPanelsProps {
   itemActiveDescriptions: readonly string[]
   itemInactiveDescriptions: readonly string[]
   itemUnlockedDescriptions: readonly string[]
-  buyRules: readonly BuyRule[]
   globalPriorityMap: Map<string, number>
   totalRules: number
   controlledRulesCount: number
@@ -78,7 +75,6 @@ export function ItemRulesPanels({
   itemActiveDescriptions,
   itemInactiveDescriptions,
   itemUnlockedDescriptions,
-  buyRules,
   globalPriorityMap,
   totalRules,
   controlledRulesCount,
@@ -137,6 +133,5 @@ export function ItemRulesPanels({
         handlers={handlers}
       />
     </div>,
-    <BuyRulesPanel key="buy-rules" buyRules={buyRules} handlers={handlers} />,
   ]
 }

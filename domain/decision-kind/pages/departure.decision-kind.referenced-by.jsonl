@@ -5605,7 +5605,6 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/bound-filter/bound-filter.module.ts","id":"01a06100-3be2-7f00-99b6-1c954caa2761"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.ts","id":"01a060d9-44c8-7b58-864b-b81a0c27cbac"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.ts","id":"01a0d8c8-b513-7c0f-9b4c-dba3562af97a"}
-{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-settings/buy-rule-settings.module.ts","id":"01a06100-3be3-78c1-9ab2-bfad6e349dd6"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.ts","id":"01a060d9-44c9-749c-9acb-57edbe6a08a9"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/can-companion-equip-filter/can-companion-equip-filter.module.ts","id":"01a06100-3be3-7f9c-94ec-fd44ada789d8"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/can-give-max-rewards-filter/can-give-max-rewards-filter.module.ts","id":"01a06100-3be5-777a-bd80-406d92d501f0"}
@@ -6432,7 +6431,6 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/action-options/action-options.module.ts","id":"01a0636c-5d96-7dc6-a22c-810f2f640002"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/affected-items-dialog/affected-items-dialog.module.ts","id":"01a0636c-5d96-71d4-b6a9-8ec22f7e0003"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.ts","id":"01a0636c-5d96-799f-a4a3-b169e3670004"}
-{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.ts","id":"01a0636c-5d97-72db-98d0-8c886c670005"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.ts","id":"01a0636c-5d97-74d0-b867-42b23aa30006"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/companion-target-select/companion-target-select.module.ts","id":"01a0636c-5d97-7235-ae2a-a0e6ccc00008"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.ts","id":"01a0636c-5d97-7635-8e9c-cc6653c00009"}
@@ -6441,7 +6439,6 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/gold-amount/gold-amount.module.ts","id":"01a0e2ba-f250-73b7-ac0b-80825a213092"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.ts","id":"01a0636c-5d97-76ed-b991-13a9b7f8000d"}
-{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-buy-rules-panel/inventory-buy-rules-panel.module.ts","id":"01a0636c-5d97-7495-be04-eff90cab000e"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.ts","id":"01a0636c-5d9a-7374-a500-82c80d66000f"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-category-rules-panel/inventory-category-rules-panel.module.ts","id":"01a0636c-5d9a-7de9-b294-e95e566d0010"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-character-rules-panel/inventory-character-rules-panel.module.ts","id":"01a0636c-5d9a-7dec-b460-45bc5ec10011"}

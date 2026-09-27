@@ -73,7 +73,6 @@
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/player-completion-ui/modules/completion-category-badges/completion-category-badges.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/action-filter-cascades/action-filter-cascades.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/companion-target-select/companion-target-select.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/deconstruct-scope-select/deconstruct-scope-select.module.code.tsx","typed":false,"deferred":false}

@@ -18,7 +18,6 @@
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/player-completion-ui/modules/completion-category-badges/completion-category-badges.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/action-filter-cascades/action-filter-cascades.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/deconstruct-scope-select/deconstruct-scope-select.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-currency-panel-card/inventory-currency-panel-card.module.code.tsx","typed":false,"deferred":false}

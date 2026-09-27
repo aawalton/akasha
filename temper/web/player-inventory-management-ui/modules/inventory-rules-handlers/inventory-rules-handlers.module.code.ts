@@ -1,12 +1,4 @@
 import {
-  addBuyRule,
-  duplicateBuyRule,
-  lockBuyRule,
-  removeBuyRule,
-  updateBuyRule,
-} from "akasha/temper/items/rules/core/modules/buy-rule-settings/buy-rule-settings.module.code.ts"
-import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
-import {
   addCategoryRule,
   addItemRule,
   bulkLockCategoryRules,
@@ -38,8 +30,6 @@ import {
 } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-state/inventory-rules-state.module.code.ts"
 import { type RefObject, useCallback } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-
-const DEFAULT_BUY_TARGET_QUANTITY = 200
 
 export interface InventoryRulesHandlers {
   handleAddRule: (onAdded?: ((id: string) => void) | unknown) => void
@@ -90,17 +80,6 @@ export interface InventoryRulesHandlers {
   handleDuplicateItemRule: (ruleId: string) => void
   handleLockItemRule: (ruleId: string, locked: boolean) => void
   handleResetItemRules: () => void
-
-  handleAddBuyRule: (params: { itemId: number; itemName: string }) => void
-  handleUpdateBuyRule: (
-    ruleId: string,
-    patch: Partial<
-      Pick<BuyRule, "targetQuantity" | "source" | "active" | "goal" | "title" | "notes">
-    >
-  ) => void
-  handleRemoveBuyRule: (ruleId: string) => void
-  handleDuplicateBuyRule: (ruleId: string) => void
-  handleLockBuyRule: (ruleId: string, locked: boolean) => void
 
   handleBulkSetCategoryActive: (ruleIds: readonly string[]) => void
   handleBulkSetCategoryInactive: (ruleIds: readonly string[]) => void
@@ -162,24 +141,6 @@ export function useInventoryRulesHandlers(
       rules: preserveLocked(createDefaultRuleSettings(craftBagAccess).rules, current.rules),
     })
   }, [craftBagAccess, persist, settingsRef])
-
-  const handleAddBuyRule = useCallback(
-    ({ itemId, itemName }: { itemId: number; itemName: string }) => {
-      persist(
-        addBuyRule(settingsRef.current, {
-          itemId,
-          itemName,
-          targetQuantity: DEFAULT_BUY_TARGET_QUANTITY,
-        })
-      )
-    },
-    [persist, settingsRef]
-  )
-
-  const handleUpdateBuyRule = useStableSettingsHandler(settingsRef, persist, updateBuyRule)
-  const handleRemoveBuyRule = useStableSettingsHandler(settingsRef, persist, removeBuyRule)
-  const handleDuplicateBuyRule = useStableSettingsHandler(settingsRef, persist, duplicateBuyRule)
-  const handleLockBuyRule = useStableSettingsHandler(settingsRef, persist, lockBuyRule)
 
   const handleResetItemRules = useCallback(() => {
     const current = settingsRef.current
@@ -276,11 +237,6 @@ export function useInventoryRulesHandlers(
     handleDuplicateItemRule,
     handleLockItemRule,
     handleResetItemRules,
-    handleAddBuyRule,
-    handleUpdateBuyRule,
-    handleRemoveBuyRule,
-    handleDuplicateBuyRule,
-    handleLockBuyRule,
     handleBulkSetCategoryActive,
     handleBulkSetCategoryInactive,
     handleBulkDeleteCategoryRules,

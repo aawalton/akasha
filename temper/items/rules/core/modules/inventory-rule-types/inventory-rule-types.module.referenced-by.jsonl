@@ -41,7 +41,6 @@
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/all-stocked-filter/all-stocked-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/bop-tradeable-filter/bop-tradeable-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/bound-filter/bound-filter.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/buy-rule-settings/buy-rule-settings.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/can-companion-equip-filter/can-companion-equip-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/can-give-max-rewards-filter/can-give-max-rewards-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"inventory-rule-types.module.code.ts","path":"temper/items/rules/core/modules/can-inspire-filter/can-inspire-filter.module.code.ts","typed":true,"deferred":false}

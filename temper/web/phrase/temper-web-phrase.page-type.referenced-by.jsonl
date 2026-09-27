@@ -590,10 +590,6 @@
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/import-summaries-skipped-one.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/import-summaries-up-to-date.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/import-summaries-updated.temper-web-phrase.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/inventory-buy-rules-panel-add-buy-rule.temper-web-phrase.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/inventory-buy-rules-panel-empty-description.temper-web-phrase.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/inventory-buy-rules-panel-empty-title.temper-web-phrase.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/inventory-buy-rules-panel-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/inventory-category-rules-panel-add-rule.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/inventory-category-rules-panel-collapse-all.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/inventory-category-rules-panel-empty-description.temper-web-phrase.ts","typed":true,"deferred":false}

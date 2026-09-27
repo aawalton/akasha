@@ -102,14 +102,7 @@ export function rulesFingerprint(s: InventoryRules): string {
         `${r.id}:${r.itemId}:${r.action}:${r.destination ?? ""}:${r.updatedAt ?? 0}:${r.active !== false}:${r.locked === true}:${r.goal ?? ""}:${r.title ?? ""}:${r.notes ?? ""}`
     )
     .join("|")
-  const buyRules = [...(s.buyRules ?? [])]
-    .sort((a, b) => a.id.localeCompare(b.id))
-    .map(
-      (r) =>
-        `${r.id}:${r.itemId}:${r.targetQuantity}:${r.source}:${r.updatedAt ?? 0}:${r.active !== false}:${r.locked === true}:${r.goal ?? ""}:${r.title ?? ""}:${r.notes ?? ""}`
-    )
-    .join("|")
-  return `${rules}~${itemRules}~${buyRules}`
+  return `${rules}~${itemRules}`
 }
 
 export function useStableSettingsHandler<A extends unknown[]>(

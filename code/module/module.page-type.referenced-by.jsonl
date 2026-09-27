@@ -5582,7 +5582,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/bound-filter/bound-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/buy-rule-settings/buy-rule-settings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/can-companion-equip-filter/can-companion-equip-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/rules/core/modules/can-give-max-rewards-filter/can-give-max-rewards-filter.module.ts","typed":true,"deferred":false}
@@ -6488,7 +6487,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/action-options/action-options.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-dialog/affected-items-dialog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/buy-rule-card/buy-rule-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/companion-target-select/companion-target-select.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.ts","typed":true,"deferred":false}
@@ -6497,7 +6495,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/gold-amount/gold-amount.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-buy-rules-panel/inventory-buy-rules-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-category-rules-panel/inventory-category-rules-panel.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-character-rules-panel/inventory-character-rules-panel.module.ts","typed":true,"deferred":false}

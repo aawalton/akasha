@@ -12,7 +12,6 @@ export const temperItemsRulesCore = {
     "module/bop-tradeable-filter",
     "module/bound-filter",
     "module/buy-rule-eval",
-    "module/buy-rule-settings",
     "module/buy-rule-types",
     "module/can-companion-equip-filter",
     "module/can-give-max-rewards-filter",
