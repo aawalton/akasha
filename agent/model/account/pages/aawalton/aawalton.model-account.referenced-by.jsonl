@@ -2,3 +2,4 @@
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/launching/seat-launching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/modules/akasha-read/seat-akasha-read.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"aawalton.model-account.ts","path":"agent/seat/supervisor/seat-claude-code-setup/modules/supervisor-agent/supervisor-agent.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"registration-account","path":"agent/seat/pages/alan/alan.seat.ts","id":"01a0d3f2-4967-7000-827c-676b6015676c"}
