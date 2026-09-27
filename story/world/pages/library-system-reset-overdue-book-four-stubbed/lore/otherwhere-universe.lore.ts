@@ -118,7 +118,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Night owls are the Library's owls, who need bookworm-fed magical quills.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "A Librarian can heal by magic only once she has learned a healing power from a book.",
