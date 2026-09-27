@@ -12,7 +12,7 @@ import { armorSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/ar
 import { resolveQuality } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import { esoNumberOfTrait } from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
-import { ESO_PLAYER_EQUIPMENT_CONSTANT_PAGES } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.code.ts"
+import { playerEsoNumOf } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.code.ts"
 import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.page-type.types.ts"
 import type {
   WantedCompanionEquipmentSignature,
@@ -21,14 +21,10 @@ import type {
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 
-function esoNumsIn(
-  family: TemperEsoPlayerEquipmentConstant["constantFamily"]
-): ReadonlyMap<string, number> {
-  const found = new Map<string, number>()
-  for (const one of ESO_PLAYER_EQUIPMENT_CONSTANT_PAGES) {
-    if (one.constantFamily === family) found.set(one.constantId, one.esoNum)
-  }
-  return found
+type EsoNums = { readonly get: (constantId: string) => number | undefined }
+
+function esoNumsIn(family: TemperEsoPlayerEquipmentConstant["constantFamily"]): EsoNums {
+  return { get: (constantId) => playerEsoNumOf(family, constantId) }
 }
 
 const PLAYER_WEAPON_TYPE_TO_ESO = esoNumsIn("weapon-type")

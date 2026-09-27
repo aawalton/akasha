@@ -9,6 +9,7 @@ import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/
 import { temperArmorType } from "akasha/temper/catalog/gear/temper-armor-type/temper-armor-type.page-type.ts"
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
 import { temperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts"
+import { temperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.page-type.ts"
 import { temperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.ts"
 import { temperJewelryEnchant } from "akasha/temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts"
 import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
@@ -40,6 +41,7 @@ export function useGearPages(): GearPages {
   const equipTypes = usePages({ pageTypeSlug: temperEquipType.slug, limit: EVERY })
   const levelBands = usePages({ pageTypeSlug: temperLevelBand.slug, limit: EVERY })
   const setBonusSteps = usePages({ pageTypeSlug: temperSetBonusStep.slug, limit: EVERY })
+  const constants = usePages({ pageTypeSlug: temperEsoPlayerEquipmentConstant.slug, limit: EVERY })
   const weaponSlots = usePages({ pageTypeSlug: temperWeaponSlot.slug, limit: EVERY })
   const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
   const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
@@ -60,6 +62,7 @@ export function useGearPages(): GearPages {
     equipTypes,
     levelBands,
     setBonusSteps,
+    constants,
     weaponSlots,
     armorWeights,
     grades,
@@ -85,6 +88,7 @@ export function useGearPages(): GearPages {
         [temperEquipType.slug, equipTypes.rows],
         [temperLevelBand.slug, levelBands.rows],
         [temperSetBonusStep.slug, setBonusSteps.rows],
+        [temperEsoPlayerEquipmentConstant.slug, constants.rows],
         [temperWeaponSlot.slug, weaponSlots.rows],
         [temperArmorWeight.slug, armorWeights.rows],
         [temperGearGrade.slug, grades.rows],
@@ -106,6 +110,7 @@ export function useGearPages(): GearPages {
       equipTypes.rows,
       levelBands.rows,
       setBonusSteps.rows,
+      constants.rows,
       weaponSlots.rows,
       armorWeights.rows,
       grades.rows,

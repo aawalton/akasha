@@ -27,6 +27,8 @@ import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/
 import { temperArmorType } from "akasha/temper/catalog/gear/temper-armor-type/temper-armor-type.page-type.ts"
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
 import { temperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts"
+import { holdPlayerEquipmentConstants } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.code.ts"
+import { temperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.page-type.ts"
 import { temperJewelryEnchant } from "akasha/temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts"
 import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
 import { temperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts"
@@ -71,6 +73,7 @@ export const GEAR_READS: readonly Read[] = [
     ],
   ],
   [temperSetBonusStep.slug, ["slug", "setBonusScale"]],
+  [temperEsoPlayerEquipmentConstant.slug, ["slug", "constantFamily", "constantId", "esoNum"]],
   [temperArmorSlot.slug, ["slug", "title", "icon", "hashPlace", "slotEquipType"]],
   [temperArmorType.slug, ["slug", "title", "armorMultiplier", "enchantmentMultiplier"]],
   [temperJewelrySlot.slug, ["slug", "title", "icon", "jewelryType", "hashPlace"]],
@@ -157,6 +160,7 @@ export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undef
   holdWeaponSlots(rowsOf(temperWeaponSlot.slug))
   holdLevelBands(rowsOf(temperLevelBand.slug))
   holdSetBonusSteps(rowsOf(temperSetBonusStep.slug))
+  holdPlayerEquipmentConstants(rowsOf(temperEsoPlayerEquipmentConstant.slug))
   holdArmorWeights(rowsOf(temperArmorWeight.slug), rowsOf(temperGearGrade.slug))
   holdWeaponTypes(rowsOf(temperWeaponType.slug), rowsOf(temperGearGrade.slug))
   holdTraits(rowsOf)
