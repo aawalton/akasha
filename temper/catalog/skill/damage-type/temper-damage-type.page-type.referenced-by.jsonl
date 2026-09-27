@@ -1,1 +1,10 @@
+{"propertySlug":"import","fileName":"temper-damage-type.page-type.types.ts","path":"temper/catalog/skill/damage-type/pages/bleed.temper-damage-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-damage-type.page-type.types.ts","path":"temper/catalog/skill/damage-type/pages/disease.temper-damage-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-damage-type.page-type.types.ts","path":"temper/catalog/skill/damage-type/pages/flame.temper-damage-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-damage-type.page-type.types.ts","path":"temper/catalog/skill/damage-type/pages/frost.temper-damage-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-damage-type.page-type.types.ts","path":"temper/catalog/skill/damage-type/pages/magic.temper-damage-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-damage-type.page-type.types.ts","path":"temper/catalog/skill/damage-type/pages/oblivion.temper-damage-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-damage-type.page-type.types.ts","path":"temper/catalog/skill/damage-type/pages/physical.temper-damage-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-damage-type.page-type.types.ts","path":"temper/catalog/skill/damage-type/pages/poison.temper-damage-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-damage-type.page-type.types.ts","path":"temper/catalog/skill/damage-type/pages/shock.temper-damage-type.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
