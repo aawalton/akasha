@@ -10,6 +10,16 @@ export type ItemKey =
   | { kind: "script"; scriptId: number }
   | { kind: "consumable"; itemId: number }
 
+interface UseCopiesHeld {
+  readonly holder: CharacterId | undefined
+  readonly count: number
+}
+
+export interface UseStackHolding {
+  readonly holder: CharacterId | undefined
+  readonly elsewhere: readonly UseCopiesHeld[]
+}
+
 export interface UseDestinationContext {
   readonly characterPriority: ReadonlyArray<CharacterId>
   readonly knowsItem: (charId: CharacterId, itemKey: ItemKey) => boolean

@@ -6,7 +6,25 @@ export const useDestinationResolver = {
   slug: "use-destination-resolver",
   definition: "which character an item worth learning goes to, given who already knows the item",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "N copies held anywhere go to the first N characters in priority lacking the item.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character among those N holding a copy takes her own copy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A copy in storage goes to one of those N before a character's spare copy does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A copy beyond the characters lacking the item goes to no character.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A character already knowing the item is passed over.",

@@ -3,6 +3,7 @@ import type {
   CharacterId,
   ItemKey,
   UseDestinationContext,
+  UseStackHolding,
 } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export function hashItemKey(itemKey: ItemKey): string {
@@ -37,12 +38,37 @@ export function orderedForMasterMotif<T>(
   return decorated.map(([one]) => one)
 }
 
+function heldStackOrder(
+  eligible: readonly CharacterId[],
+  stackCount: number,
+  holding: UseStackHolding
+): readonly CharacterId[] {
+  let heldElsewhere = 0
+  let storedElsewhere = 0
+  const holders = new Set<CharacterId>()
+  if (holding.holder !== undefined) holders.add(holding.holder)
+  for (const one of holding.elsewhere) {
+    if (one.count <= 0) continue
+    heldElsewhere += one.count
+    if (one.holder === undefined) storedElsewhere += one.count
+    else holders.add(one.holder)
+  }
+  const targets = eligible.slice(0, stackCount + heldElsewhere)
+  const order: CharacterId[] = []
+  if (holding.holder !== undefined && targets.includes(holding.holder)) order.push(holding.holder)
+  const pool = targets.filter((one) => !holders.has(one))
+  const skip = holding.holder === undefined ? 0 : storedElsewhere
+  for (const one of pool.slice(skip)) order.push(one)
+  return order
+}
+
 export function planUseDestinationsForStack(
   itemKey: ItemKey,
   stackCount: number,
   ctx: UseDestinationContext,
   claims: Map<CharacterId, Set<string>>,
-  eligibilityPredicate?: (charId: CharacterId) => boolean
+  eligibilityPredicate?: (charId: CharacterId) => boolean,
+  holding?: UseStackHolding
 ): readonly CharacterId[] {
   if (stackCount <= 0) return []
   const claimable = isClaimable(itemKey)
@@ -71,8 +97,11 @@ export function planUseDestinationsForStack(
     for (const charId of ordered) eligible.push(charId)
   }
 
+  const order =
+    claimable && holding !== undefined ? heldStackOrder(eligible, stackCount, holding) : eligible
+
   const allocations: CharacterId[] = []
-  for (const charId of eligible) {
+  for (const charId of order) {
     if (allocations.length >= stackCount) break
     allocations.push(charId)
     if (claimable && hash !== undefined) {

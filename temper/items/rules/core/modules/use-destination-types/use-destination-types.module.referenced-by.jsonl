@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"use-destination-types.module.code.ts","path":"temper/items/rules/core/modules/stock-destination-types/stock-destination-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"use-destination-types.module.code.ts","path":"temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-destination-types.module.code.ts","path":"temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"use-destination-types.module.code.ts","path":"temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-destination-types.module.code.ts","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"use-destination-types.module.code.ts","path":"temper/items/rules/eval/modules/destination-resolve/destination-resolve.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-destination-types.module.code.ts","path":"temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts","typed":true,"deferred":false}

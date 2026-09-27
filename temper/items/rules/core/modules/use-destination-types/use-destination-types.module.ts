@@ -19,5 +19,9 @@ export const useDestinationTypes = {
       decisionKind: "decision-kind/departure",
       statement: "A motif chapter of null names the master book covering every chapter.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A copy held in storage names no holder.",
+    },
   ],
 } as const satisfies Module
