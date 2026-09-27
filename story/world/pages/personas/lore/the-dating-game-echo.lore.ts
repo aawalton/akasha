@@ -34,7 +34,7 @@ export const theDatingGameEcho = {
     },
     {
       fact: "Echo narrates audiobooks and radio drama in the BYUradio studios on campus.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
   secrets: "jsonl",

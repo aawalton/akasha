@@ -72,5 +72,21 @@ export const theDatingGameAlan = {
         "character-player/the-dating-game-alan",
       ],
     },
+    {
+      fact: "Alan has a goal to learn everything.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "Alan reads a lot of books.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "Alan sometimes watches shows and movies, especially anime, and listens to music.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "Alan's life feels to him like endless time.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
   ],
 } as const satisfies Lore

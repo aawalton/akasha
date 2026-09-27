@@ -10,7 +10,7 @@ export const theDatingGame00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I squeeze back and hold her hand while we walk. \"Wow, three thousand years. So, what do you do to pass the time? I've thought a lot about what I'd do with endless time, since that's how my life feels anyways. I have a goal to learn everything, I read a lot of books, sometimes watch shows and movies, especially anime, listen to music. What are you into?\"",
   beats: [
@@ -32,5 +32,5 @@ export const theDatingGame00009 = {
   ],
   lore: ["lore/the-dating-game-echo"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
