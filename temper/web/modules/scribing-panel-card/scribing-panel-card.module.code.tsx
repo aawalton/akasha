@@ -77,13 +77,15 @@ export function ScribingPanelCard({
   className,
   readOnly,
 }: ScribingPanelCardProps) {
+  const grimoireIds = grimoires.ids
+
   const hasGrimoiresLeft = useMemo(() => {
-    const totalGrimoires = grimoires.ids.length
+    const totalGrimoires = grimoireIds.length
     const usedGrimoireIds = new Set(
       sortedScribing.map(({ skill }) => skill.grimoireId).filter(Boolean)
     )
     return usedGrimoireIds.size < totalGrimoires
-  }, [sortedScribing])
+  }, [sortedScribing, grimoireIds])
 
   return (
     <PanelCard id="scribing" collapsible={true} title="Scribing" className={className}>

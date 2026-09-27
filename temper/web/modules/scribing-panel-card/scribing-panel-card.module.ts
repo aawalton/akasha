@@ -6,4 +6,11 @@ export const scribingPanelCard = {
   slug: "scribing-panel-card",
   definition: "a panel card holding scribed skills",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Whether a grimoire is left is worked out again whenever the grimoires are read again.",
+    },
+  ],
 } as const satisfies Module
