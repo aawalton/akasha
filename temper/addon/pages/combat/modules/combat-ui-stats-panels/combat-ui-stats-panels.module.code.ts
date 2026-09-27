@@ -82,13 +82,13 @@ export const STAT_KEYS_LEGACY: Record<number, string> = {
   [LIBCOMBAT_STAT_CRITICALRESISTANCE]: "critres",
 }
 
-export type StatFormatter = (this: void, value: number) => string
+type StatFormatter = (this: void, value: number) => string
 
 export function asStatCount(this: void, value: number): string {
   return string.format("%d", value)
 }
 
-export function asStatPercent(this: void, value: number): string {
+function asStatPercent(this: void, value: number): string {
   return string.format("%.1f%%", value)
 }
 
