@@ -5,6 +5,8 @@ export const deadKeeper = {
   type: "page-type/temper-motif-style",
   slug: "dead-keeper",
   title: "Dead Keeper",
+  esoItemStyleId: 143,
+  styleName: "Dead Keeper",
   collectionIndex: 106,
   sourceDescription: "Delve/WB dailies (Necrom)",
   dropSources: [
