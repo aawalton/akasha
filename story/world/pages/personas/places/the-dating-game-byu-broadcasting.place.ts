@@ -9,15 +9,27 @@ export const theDatingGameByuBroadcasting = {
   facts: [
     {
       fact: "BYUradio broadcasts from the BYU Broadcasting Building on the east side of campus.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
     {
       fact: "The building's audio booths are small, padded rooms with a window onto a control desk.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
     {
       fact: "On a Saturday the building is nearly empty, and Echo has a badge that opens it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
   ],
 } as const satisfies Place
