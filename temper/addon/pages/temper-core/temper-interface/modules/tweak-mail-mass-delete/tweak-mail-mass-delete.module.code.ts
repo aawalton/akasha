@@ -44,16 +44,37 @@ function deleteMailNow(this: void, mailEntryData: MailInboxEntry): undefined {
   }
 }
 
+const DELETE_LIMIT = 95
+const DELETE_HELD_MS = 10500
+let deletedAt: number[] = []
+
+function deletePaced(this: void, queue: readonly MailInboxEntry[], from: number): undefined {
+  for (let i = from; i < queue.length; i++) {
+    const now = GetGameTimeMilliseconds()
+    deletedAt = deletedAt.filter((at) => now - at < DELETE_HELD_MS)
+    const oldest = deletedAt[0]
+    if (deletedAt.length >= DELETE_LIMIT && oldest !== undefined) {
+      const wait = DELETE_HELD_MS - (now - oldest)
+      zo_callLater(() => deletePaced(queue, i), wait > 0 ? wait : 1)
+      return
+    }
+    const entry = queue[i]
+    if (entry === undefined) continue
+    deletedAt.push(now)
+    deleteMailNow(entry)
+  }
+}
+
 function deleteQueuedMails(this: void): undefined {
   if (ZO_IsTableEmpty(MAILS_TO_DELETE)) {
     return
   }
   const mailDeleteDelay = getMailSettings().mailDeleteDelay ?? 0
-  let delay = 0
-  for (const [, mailEntryData] of ipairs(MAILS_TO_DELETE)) {
-    if (mailDeleteDelay === 0) {
-      deleteMailNow(mailEntryData)
-    } else {
+  if (mailDeleteDelay === 0) {
+    deletePaced(MAILS_TO_DELETE, 0)
+  } else {
+    let delay = 0
+    for (const [, mailEntryData] of ipairs(MAILS_TO_DELETE)) {
       const mailEntryDataCopy = ZO_ShallowTableCopy(mailEntryData)
       zo_callLater(() => {
         deleteMailNow(mailEntryDataCopy)
