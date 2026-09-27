@@ -1,1 +1,5 @@
+{"propertySlug":"import","fileName":"temper-resource.page-type.types.ts","path":"temper/catalog/skill/resource/pages/health.temper-resource.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-resource.page-type.types.ts","path":"temper/catalog/skill/resource/pages/magicka.temper-resource.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-resource.page-type.types.ts","path":"temper/catalog/skill/resource/pages/stamina.temper-resource.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-resource.page-type.types.ts","path":"temper/catalog/skill/resource/pages/ultimate.temper-resource.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
