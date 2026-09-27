@@ -7,7 +7,7 @@ export const alanwaltonWebPrinciples = {
   title: "Principles",
   webApp: "web-app/alanwalton-web",
   urlPath: "principles",
-  lead: "All Principles",
+  lead: "All Principles (live check)",
   sections: [
     {
       anchor: "principle-1",
