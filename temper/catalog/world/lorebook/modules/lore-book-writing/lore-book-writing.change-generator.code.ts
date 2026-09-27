@@ -38,6 +38,7 @@ const ROW = z.record(z.string(), z.unknown())
 
 const BOOK = "temper-lore-book"
 const COLLECTION = "temper-lore-collection"
+const CATEGORY = "temper-lore-category"
 const MODULE = "module"
 const JSONL = "jsonl"
 const POSITIONS = "positions"
@@ -127,7 +128,12 @@ function tablesIn(change: Change, shadow: Shadow): Tables {
     const pins = value.shalidorPins === JSONL ? rowsOf(change, one.path, PINS) : []
     books.push({ value, positions, pins })
   }
-  return tablesOf(books, collections)
+  const categories: Row[] = []
+  for (const one of shadow.index.everyOfType(CATEGORY)) {
+    const value = shadow.pageOf(one.path)
+    if (value !== null) categories.push(value)
+  }
+  return tablesOf(books, collections, categories)
 }
 
 function namesOver(
@@ -273,7 +279,10 @@ function capturedData(shadow: Shadow, tables: Tables): Outcome {
 export function couldTurn(change: Change): boolean {
   return change.changed.some((path) => {
     const said = partedIn(path)
-    return said !== null && (said.pageType === BOOK || said.pageType === COLLECTION)
+    return (
+      said !== null &&
+      (said.pageType === BOOK || said.pageType === COLLECTION || said.pageType === CATEGORY)
+    )
   })
 }
 

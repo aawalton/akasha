@@ -33,12 +33,6 @@ export type Tables = {
   readonly captured: readonly Captured[]
 }
 
-const CATEGORY_NAMES: Readonly<Record<number, string>> = {
-  1: "Shalidor's Library",
-  2: "Crafting Motifs",
-  3: "Eidetic Memory",
-}
-
 const SHALIDOR = 1
 
 const PLACE_KEYS: Readonly<Record<string, string>> = {
@@ -125,8 +119,14 @@ function byNumber<T>(pairs: Iterable<readonly [number, T]>): (readonly [number, 
 
 export function tablesOf(
   books: readonly BookRead[],
-  collections: readonly CollectionRead[]
+  collections: readonly CollectionRead[],
+  categories: readonly Row[]
 ): Tables {
+  const categoryNames = new Map<number, string>()
+  for (const one of categories) {
+    const index = num(one.esoLoreCategoryId)
+    if (index !== undefined) categoryNames.set(index, text(one.title) ?? "")
+  }
   const collectionAt = new Map(collections.map((one) => [one.address, one.value]))
   const bookTable = new Map<number, unknown>()
   const maps = new Map<number, [number, Record<string, unknown>][]>()
@@ -186,7 +186,7 @@ export function tablesOf(
     library: byNumber(library).map(([category, held]) => [category, byNumber(held)] as const),
     captured: byNumber(captured).map(([categoryIndex, held]) => ({
       categoryIndex,
-      name: CATEGORY_NAMES[categoryIndex] ?? "",
+      name: categoryNames.get(categoryIndex) ?? "",
       collections: [...held].sort((a, b) => a.collectionIndex - b.collectionIndex),
     })),
   }
