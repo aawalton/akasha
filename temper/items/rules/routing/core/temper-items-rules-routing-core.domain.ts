@@ -13,6 +13,7 @@ export const temperItemsRulesRoutingCore = {
     "module/inventory-management-plan-route-steps",
     "module/inventory-management-plan-route-venue",
     "module/inventory-management-plan-types",
+    "page-type/temper-venue",
   ],
   decisions: [
     {

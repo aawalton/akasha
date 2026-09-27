@@ -1,4 +1,6 @@
 import { describe, expect, test } from "bun:test"
+import { holdKeyedTitlesFromCheckout } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.test-fixtures.ts"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 import { buildManagementPlan } from "akasha/temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"
 import { applyDestinationCapacityFilter } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
 import {
@@ -12,6 +14,8 @@ import {
   sumPlanStackCount,
 } from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"
 import fc from "fast-check"
+
+holdKeyedTitlesFromCheckout(temperVenue.slug)
 
 describe("An item dropped for want of room is recorded against the rule sending the item.", () => {
   test("a move-to rule plans as many as the bank has room for and no more", () => {

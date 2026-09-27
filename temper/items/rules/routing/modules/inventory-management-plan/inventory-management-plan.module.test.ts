@@ -1,4 +1,6 @@
 import { describe, expect, test } from "bun:test"
+import { holdKeyedTitlesFromCheckout } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.test-fixtures.ts"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 import { buildManagementPlan } from "akasha/temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"
 import {
   buildRecipeDedupScenario,
@@ -16,6 +18,8 @@ import {
   sumPlanStackCount,
 } from "akasha/temper/items/rules/routing/test-fixtures/inventory-management-plan-property-fixtures/inventory-management-plan-property-fixtures.test-fixture.code.ts"
 import fc from "fast-check"
+
+holdKeyedTitlesFromCheckout(temperVenue.slug)
 
 function charactersFor(priorityNumbers: readonly number[]): readonly string[] {
   const named: string[] = []

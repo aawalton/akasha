@@ -4174,6 +4174,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.ts","id":"01a06258-b534-7658-a6f9-6918c06107d4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.ts","id":"01a06258-b534-70ec-b172-fd006cbff261"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-titles/inventory-venue-titles.module.ts","id":"01a0e0d4-8faf-700c-aa29-74433f2c6c31"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.ts","id":"01a06258-b536-712e-9550-52d00f78c679"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/sales-addon-entry/sales-addon-entry.module.ts","id":"01a060e2-3180-7c1e-a6c8-0d7019081afa"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/sales-capture/sales-capture.module.ts","id":"01a060e2-3181-7087-9742-dc3d075f9c3c"}
@@ -5649,6 +5650,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route/inventory-management-plan-route.module.ts","id":"01a06151-3709-7e05-8784-492a19817f13"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.ts","id":"01a06151-370a-7582-a557-5052447bbc7c"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/core/temper-items-rules-routing-core.domain.ts","id":"01a06151-370b-7fa6-ad43-f200b0ae0fb9"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts","id":"01a0e0d4-8faf-7000-a663-56081a452c8e"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-buy/inventory-management-plan-buy.module.ts","id":"01a06289-2676-71eb-b326-afa48bd70c7a"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.ts","id":"01a0615a-a1d8-791c-8a78-ea5520c12370"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/modules/inventory-management-plan-capacity/inventory-management-plan-capacity.module.ts","id":"01a0615a-a1da-7c31-ab71-f3b4228cff88"}

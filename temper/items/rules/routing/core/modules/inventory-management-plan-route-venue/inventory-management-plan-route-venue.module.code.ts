@@ -1,4 +1,8 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import {
+  heldKeyedTitles,
+  titleOf,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import type {
   ItemAction,
@@ -8,6 +12,7 @@ import type {
   PlanItem,
   VenueType,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 
 export const VENUE_ORDER: VenueType[] = [
   "bank",
@@ -22,21 +27,17 @@ export const VENUE_ORDER: VenueType[] = [
   "backpack",
 ]
 
-export const VENUE_LABELS: Record<VenueType, string> = {
-  backpack: "Backpack",
-  bank: "Bank",
-  "crafting-station": "Crafting Station",
-  vendor: "Merchant",
-  fence: "Fence",
-  "guild-store": "Guild Store",
-  "guild-bank": "Guild Bank",
-  "house-storage": "House Storage",
-  "companion-menu": "Companion Menu",
-  mailbox: "Mailbox",
+const UNREAD =
+  'the venues are read from pages, and nothing has read them yet — await `loadKeyedTitles("temper-venue")` where the work starts, or gate the screen on `KeyedTitlesGate`'
+
+export function venueLabelOf(venue: VenueType): string {
+  const titles = heldKeyedTitles(temperVenue.slug)
+  if (titles === null) throw new Error(UNREAD)
+  return titleOf(titles, venue)
 }
 
 export function buildVenueLabel(venue: VenueType, venueDetail?: string): string {
-  return venueDetail ?? VENUE_LABELS[venue]
+  return venueDetail ?? venueLabelOf(venue)
 }
 
 export const LOCATION_ACCESS_VENUE: Record<LocationTypeId, VenueType | null> = {

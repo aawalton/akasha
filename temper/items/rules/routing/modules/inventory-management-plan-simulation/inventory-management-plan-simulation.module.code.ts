@@ -1,7 +1,7 @@
 import {
   buildVenueLabel,
-  VENUE_LABELS,
   VENUE_ORDER,
+  venueLabelOf,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import type {
   PlanItem,
@@ -215,7 +215,7 @@ export function simulateCharacterSession(
       slotCount,
       totalValue: sumTotalValues(actionGroups.map((g) => g.totalValue)),
     }
-    if (best.venueDetail != null) stop.venueCategory = VENUE_LABELS[best.venue]
+    if (best.venueDetail != null) stop.venueCategory = venueLabelOf(best.venue)
     venues.push(stop)
   }
 

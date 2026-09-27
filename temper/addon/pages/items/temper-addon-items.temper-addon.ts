@@ -170,6 +170,7 @@ export const temperAddonItems = {
     "module/inventory-scribing-knowledge",
     "module/inventory-set-categories",
     "module/inventory-location-order",
+    "module/inventory-venue-titles",
     "module/inventory-session-tracking",
     "module/inventory-skill-gate-eval-types",
     "module/inventory-skill-line-ranks",

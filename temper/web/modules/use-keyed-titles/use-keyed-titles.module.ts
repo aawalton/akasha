@@ -12,5 +12,9 @@ export const useKeyedTitles = {
       decisionKind: "decision-kind/departure",
       statement: "Until the pages are read there are no titles rather than empty ones.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the browser reads is held, so code reached without the hook reads it too.",
+    },
   ],
 } as const satisfies Module

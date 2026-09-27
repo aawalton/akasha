@@ -10,6 +10,7 @@ import {
 import type { AddonItemAction } from "akasha/temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
 import { isSavedVariablesReady } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { addToTally } from "akasha/temper/addon/pages/items/modules/inventory-tally/inventory-tally.module.code.ts"
+import { venueTitleOf } from "akasha/temper/addon/pages/items/modules/inventory-venue-titles/inventory-venue-titles.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -42,19 +43,6 @@ const VENUE_ORDER: StaticVenueKey[] = [
   "mailbox",
 ]
 
-const VENUE_LABELS: Record<StaticVenueKey, string> = {
-  bank: "Bank",
-  "house-storage": "House Storage",
-  "furniture-vault": "Furniture Vault",
-  "guild-bank": "Guild Bank",
-  "crafting-station": "Crafting Station",
-  vendor: "Merchant",
-  fence: "Fence",
-  "guild-store": "Guild Store",
-  "companion-menu": "Companion Menu",
-  mailbox: "Mailbox",
-}
-
 function destinationToVenue(destination: string): string | undefined {
   if (
     destination === "bank" ||
@@ -79,12 +67,12 @@ function destinationToVenue(destination: string): string | undefined {
 }
 
 function isStaticVenueKey(value: string): value is StaticVenueKey {
-  return value in VENUE_LABELS
+  return VENUE_ORDER.some((one) => one === value)
 }
 
 export function resolveVenueLabel(venueKey: string): string {
   if (isStaticVenueKey(venueKey)) {
-    return VENUE_LABELS[venueKey]
+    return venueTitleOf(venueKey)
   }
   if (venueKey.startsWith("house-storage:")) {
     const idStr = venueKey.substring("house-storage:".length)
@@ -92,7 +80,7 @@ export function resolveVenueLabel(venueKey: string): string {
     if (collectibleId !== undefined && collectibleId > 0) {
       return getChestDisplayName(collectibleId)
     }
-    return "House Storage"
+    return venueTitleOf("house-storage")
   }
   return venueKey
 }
