@@ -6,4 +6,10 @@ export const constellationPanelCard = {
   slug: "constellation-panel-card",
   definition: "a champion point constellation and the stars holding a build's points",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

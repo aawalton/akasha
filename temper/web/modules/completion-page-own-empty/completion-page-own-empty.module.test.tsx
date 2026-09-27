@@ -1,5 +1,5 @@
 import { describe, expect, test } from "bun:test"
-import { CompletionPageOwnEmpty } from "akasha/temper/web/modules/completion-page-own-empty/completion-page-own-empty.module.code.tsx"
+import { CompletionPageOwnEmptyView } from "akasha/temper/web/modules/completion-page-own-empty/completion-page-own-empty.module.code.tsx"
 import type { ReactElement, ReactNode } from "react"
 
 type LinkLikeProps = { href?: unknown; children?: ReactNode }
@@ -15,7 +15,7 @@ function hrefsIn(node: ReactNode): readonly string[] {
 
 describe("CompletionPageOwnEmpty", () => {
   test("renders CTA links to the watcher and to manual import", () => {
-    const hrefs = hrefsIn(CompletionPageOwnEmpty())
+    const hrefs = hrefsIn(CompletionPageOwnEmptyView({ phrase: (slug) => slug }))
     expect(hrefs).toContain("/watcher")
     expect(hrefs).toContain("/import")
   })

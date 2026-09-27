@@ -6,4 +6,10 @@ export const completionSummaryTab = {
   slug: "completion-summary-tab",
   definition: "the completion page's summary tab and the rollup cards on it",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

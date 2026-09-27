@@ -9,6 +9,13 @@ import {
   getCPSkillDisplayName,
 } from "akasha/temper/player/character/stat/modules/extract-champion-points/extract-champion-points.module.code.ts"
 import { StarSelectionDialog } from "akasha/temper/web/modules/star-selection-dialog/star-selection-dialog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { constellationPanelCardAddStar } from "akasha/temper/web/phrase/pages/constellation-panel-card-add-star.temper-web-phrase.ts"
+import { constellationPanelCardCraft } from "akasha/temper/web/phrase/pages/constellation-panel-card-craft.temper-web-phrase.ts"
+import { constellationPanelCardFitness } from "akasha/temper/web/phrase/pages/constellation-panel-card-fitness.temper-web-phrase.ts"
+import { constellationPanelCardNoStars } from "akasha/temper/web/phrase/pages/constellation-panel-card-no-stars.temper-web-phrase.ts"
+import { constellationPanelCardRemoveStar } from "akasha/temper/web/phrase/pages/constellation-panel-card-remove-star.temper-web-phrase.ts"
+import { constellationPanelCardWarfare } from "akasha/temper/web/phrase/pages/constellation-panel-card-warfare.temper-web-phrase.ts"
 import { Hammer, Plus, Shield, Swords } from "lucide-react"
 import { useState } from "react"
 
@@ -21,23 +28,25 @@ interface ConstellationPanelCardProps {
   collapseProtected?: boolean
 }
 
+const MOST_STARS = 4
+
 const CONSTELLATION_CONFIG = {
   warfare: {
-    name: "Warfare",
+    nameSlug: constellationPanelCardWarfare.slug,
     icon: Swords,
     noStarId: "no-warfare-star",
   },
   fitness: {
-    name: "Fitness",
+    nameSlug: constellationPanelCardFitness.slug,
     icon: Shield,
     noStarId: "no-fitness-star",
   },
   craft: {
-    name: "Craft",
+    nameSlug: constellationPanelCardCraft.slug,
     icon: Hammer,
     noStarId: "no-craft-star",
   },
-} as const satisfies Record<string, { name: string; icon: unknown; noStarId: ChampionPointId }>
+} as const satisfies Record<string, { nameSlug: string; icon: unknown; noStarId: ChampionPointId }>
 
 export function ConstellationPanelCard({
   constellation,
@@ -47,6 +56,7 @@ export function ConstellationPanelCard({
   readOnly,
   collapseProtected,
 }: ConstellationPanelCardProps) {
+  const phrase = usePhrase()
   const [dialogOpen, setDialogOpen] = useState(false)
   const config = CONSTELLATION_CONFIG[constellation]
   const Icon = config.icon
@@ -80,7 +90,7 @@ export function ConstellationPanelCard({
         id={`cp-${constellation}`}
         collapsible={true}
         collapseProtected={collapseProtected}
-        title={config.name}
+        title={phrase(config.nameSlug)}
         className={className}
       >
         {actualStars.length > 0 ? (
@@ -104,14 +114,14 @@ export function ConstellationPanelCard({
                     </>
                   )}
                   onRemove={readOnly ? undefined : () => handleRemoveStar(index)}
-                  removeLabel={`Remove ${name}`}
+                  removeLabel={phrase(constellationPanelCardRemoveStar.slug, { name })}
                 />
               )
             })}
           </div>
         ) : (
           <p className="text-sm text-tertiary">
-            No stars slotted. Click the button below to add up to 4 stars.
+            {phrase(constellationPanelCardNoStars.slug, { count: MOST_STARS })}
           </p>
         )}
 
@@ -123,7 +133,7 @@ export function ConstellationPanelCard({
             type="button"
           >
             <Plus className="h-4 w-4" />
-            Add Star
+            {phrase(constellationPanelCardAddStar.slug)}
           </Button>
         )}
       </PanelCard>

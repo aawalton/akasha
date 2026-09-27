@@ -22,6 +22,10 @@ import { CharactersSummaryPanelCard } from "akasha/temper/web/modules/characters
 import { CompanionsSummaryPanelCard } from "akasha/temper/web/modules/companions-summary-panel-card/companions-summary-panel-card.module.code.tsx"
 import { useCompletionToolbar } from "akasha/temper/web/modules/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 import { OverallSummaryPanelCard } from "akasha/temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { completionSummaryTabSearch } from "akasha/temper/web/phrase/pages/completion-summary-tab-search.temper-web-phrase.ts"
+import { completionSummaryTabStatus } from "akasha/temper/web/phrase/pages/completion-summary-tab-status.temper-web-phrase.ts"
+import { completionSummaryTabTitle } from "akasha/temper/web/phrase/pages/completion-summary-tab-title.temper-web-phrase.ts"
 import { useState } from "react"
 
 type FilterId = "status"
@@ -31,10 +35,12 @@ function isFilterId(id: string): id is FilterId {
 
 interface SummaryFilterDef {
   id: FilterId
-  label: string
+  labelSlug: string
 }
 
-const SUMMARY_FILTERS: SummaryFilterDef[] = [{ id: "status", label: "Status" }]
+const SUMMARY_FILTERS: SummaryFilterDef[] = [
+  { id: "status", labelSlug: completionSummaryTabStatus.slug },
+]
 
 interface CompletionSummaryTabProps {
   active: boolean
@@ -71,6 +77,7 @@ export function CompletionSummaryTab({
     onSortChange,
     onSearchChange,
   } = useCompletionToolbar()
+  const phrase = usePhrase()
 
   const [addedFilters, setAddedFilters] = useState<Set<FilterId>>(() => {
     const initial = new Set<FilterId>()
@@ -107,9 +114,13 @@ export function CompletionSummaryTab({
     <TabsContent value="summary">
       <PanelToggleProvider active={active}>
         <div className="flex flex-col gap-6">
-          <PageTabHeader title="Summary">
+          <PageTabHeader title={phrase(completionSummaryTabTitle.slug)}>
             <SearchSortFilterRow hasActiveFilters={hasActiveFilters} onReset={onReset}>
-              <SearchButton value={search} onChange={onSearchChange} placeholder="Search..." />
+              <SearchButton
+                value={search}
+                onChange={onSearchChange}
+                placeholder={phrase(completionSummaryTabSearch.slug)}
+              />
               <SortButton
                 options={sortOptions}
                 sorts={[{ field: sortMode, direction: sortDirection }]}
@@ -121,14 +132,17 @@ export function CompletionSummaryTab({
               />
               <FilterButton
                 hasActiveFilters={hasStatusValue || addedFilters.size > 0}
-                emptySelectOptions={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+                emptySelectOptions={availableFilters.map((f) => ({
+                  id: f.id,
+                  label: phrase(f.labelSlug),
+                }))}
                 onEmptySelect={handleAdd}
               >
                 <div className="flex flex-col gap-3">
                   {visibleFilters.map((filterDef) => (
                     <FilterGroup
                       key={filterDef.id}
-                      label={filterDef.label}
+                      label={phrase(filterDef.labelSlug)}
                       onRemove={() => handleRemove(filterDef.id)}
                     >
                       {filterDef.id === "status" && (
@@ -143,7 +157,10 @@ export function CompletionSummaryTab({
                     </FilterGroup>
                   ))}
                   <AddFilterButton
-                    options={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+                    options={availableFilters.map((f) => ({
+                      id: f.id,
+                      label: phrase(f.labelSlug),
+                    }))}
                     onAdd={handleAdd}
                   />
                 </div>

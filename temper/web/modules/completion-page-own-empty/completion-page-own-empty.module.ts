@@ -7,4 +7,10 @@ export const completionPageOwnEmpty = {
   definition: "what the completion page draws before the signed-in player has imported anything",
   code: "tsx",
   test: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
