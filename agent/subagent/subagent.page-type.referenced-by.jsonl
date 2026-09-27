@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/astra-a0b6c656a1a62c5da/astra-a0b6c656a1a62c5da.subagent.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/astra-a4c122c1bc377be9b/astra-a4c122c1bc377be9b.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/astra-a5a4cbfca58fcd0af/astra-a5a4cbfca58fcd0af.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/astra-a8fd4af7242717857/astra-a8fd4af7242717857.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/astra-a91d7f69135236d5f/astra-a91d7f69135236d5f.subagent.ts","typed":true,"deferred":false}
