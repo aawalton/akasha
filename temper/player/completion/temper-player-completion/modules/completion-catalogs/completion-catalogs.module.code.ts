@@ -146,7 +146,7 @@ export async function completionCatalogsFrom(rowsOf: CatalogRows): Promise<Compl
     ]) as readonly TraitResearchCatalogLine[],
     setCategories: slim(
       setCategory,
-      ["key", "activity", "esoCategoryNames"],
+      ["key", "activity", "esoCategoryNames", "nestedEsoCategoryNames"],
       null,
       []
     ) as readonly SetCategoryCatalogEntry[],

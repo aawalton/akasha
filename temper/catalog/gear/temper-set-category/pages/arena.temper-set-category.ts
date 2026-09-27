@@ -9,4 +9,5 @@ export const arena = {
   displayOrder: 3,
   activity: "temper-activity-category/arenas",
   esoCategoryNames: ["Arenas", "Infinite Archive"],
+  nestedEsoCategoryNames: ["Infinite Archive"],
 } as const satisfies TemperSetCategory

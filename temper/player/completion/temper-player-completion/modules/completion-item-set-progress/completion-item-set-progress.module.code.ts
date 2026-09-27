@@ -12,6 +12,7 @@ export interface SetCategoryCatalogEntry {
   key: string
   activity?: string
   esoCategoryNames?: readonly string[]
+  nestedEsoCategoryNames?: readonly string[]
 }
 
 const NO_ACTIVITY: ActivityCategoryId = "other"
@@ -34,7 +35,13 @@ function resolveSetCategoryId(byName: CategoryOfName, esoCategoryName: string): 
   return byName.get(esoCategoryName.toLowerCase()) ?? NO_CATEGORY
 }
 
-const NESTED_ROOTS = new Set(["Infinite Archive"])
+function nestedRootsOf(catalog: readonly SetCategoryCatalogEntry[]): ReadonlySet<string> {
+  const nested = new Set<string>()
+  for (const entry of catalog) {
+    for (const name of entry.nestedEsoCategoryNames ?? []) nested.add(name)
+  }
+  return nested
+}
 
 interface ItemSetEntry {
   esoSetId: number
@@ -197,14 +204,15 @@ function nestedRootSubcategory(
 
 function subcategoriesOfCategory(
   rootMap: Map<string, Map<string, ItemSetEntry[]>>,
-  categoryName: string
+  categoryName: string,
+  nestedRoots: ReadonlySet<string>
 ): readonly ItemSetSubcategoryProgress[] {
   const nonEmptyRoots = [...rootMap.keys()].filter((r) => r !== "")
 
   if (nonEmptyRoots.length > 1) {
     const subcategories: ItemSetSubcategoryProgress[] = []
     for (const [rootName, subMap] of rootMap) {
-      if (NESTED_ROOTS.has(rootName)) {
+      if (nestedRoots.has(rootName)) {
         subcategories.push(nestedRootSubcategory(rootName, subMap))
         continue
       }
@@ -249,6 +257,8 @@ export function transformItemSetProgress(
       activities.set(entry.key, entry.activity as ActivityCategoryId)
   }
 
+  const nestedRoots = nestedRootsOf(setCategoryCatalog)
+
   const sortedCategoryIds = [...setCategories.ids].sort(
     (a, b) => setCategories.data[a].displayOrder - setCategories.data[b].displayOrder
   )
@@ -261,7 +271,7 @@ export function transformItemSetProgress(
     if (!rootMap || rootMap.size === 0) continue
 
     const categoryName = setCategories.data[categoryId].name
-    const subcategories = subcategoriesOfCategory(rootMap, categoryName)
+    const subcategories = subcategoriesOfCategory(rootMap, categoryName, nestedRoots)
 
     let categoryTotals = NO_TOTALS
     for (const subcategory of subcategories) {

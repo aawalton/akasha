@@ -29,7 +29,7 @@ export const completionItemSetProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A category with several named roots nests its subcategories under those roots.",
+      statement: "A root its set category page flags as nested keeps its subcategories under it.",
     },
   ],
 } as const satisfies Module
