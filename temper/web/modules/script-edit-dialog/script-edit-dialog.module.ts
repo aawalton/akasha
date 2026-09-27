@@ -6,4 +6,11 @@ export const scriptEditDialog = {
   slug: "script-edit-dialog",
   definition: "the dialog editing a scribing script",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The scripts' description is worked out again whenever the skill catalogue is read again.",
+    },
+  ],
 } as const satisfies Module

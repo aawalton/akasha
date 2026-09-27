@@ -50,7 +50,8 @@ export function ScriptEditDialog({
   onEditChange,
 }: ScriptEditDialogProps) {
   const surface = useSurface()
-  const { focusScripts, signatureScripts, affixScripts } = skillCatalog()
+  const catalog = skillCatalog()
+  const { focusScripts, signatureScripts, affixScripts } = catalog
   const compatible =
     skill?.grimoireId != null ? getGrimoireCompatibleScripts(skill.grimoireId) : null
   let grimoireName = "Edit Scripts"
@@ -71,7 +72,7 @@ export function ScriptEditDialog({
         : pendingEdits.signatureScriptId,
       pendingEdits.affixScriptId === "no-affix-script" ? undefined : pendingEdits.affixScriptId
     )
-  }, [skill?.grimoireId, pendingEdits])
+  }, [skill?.grimoireId, pendingEdits, catalog])
 
   return (
     <Dialog open={open} onOpenChange={(open) => !open && onCancel()}>
