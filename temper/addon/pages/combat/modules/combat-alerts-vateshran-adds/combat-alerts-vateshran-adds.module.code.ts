@@ -1,4 +1,4 @@
-export interface VateshranGate {
+interface VateshranGate {
   normal?: number
   bannermen?: number
   champion?: number

@@ -2,7 +2,7 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-info-panel/combat-alerts-info-panel.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
 
-export type DecorateMillisecondsFunc = (this: void, ms: number) => string
+type DecorateMillisecondsFunc = (this: void, ms: number) => string
 
 declare module "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts" {
   interface CrutchInfoPanel {

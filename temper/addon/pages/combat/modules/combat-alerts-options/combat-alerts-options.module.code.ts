@@ -2,7 +2,7 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-
 
 export type OptionColor = number[]
 
-export type RoleName = "NEVER" | "TANK" | "HEAL" | "ALWAYS" | "VET" | "HM" | string
+type RoleName = "NEVER" | "TANK" | "HEAL" | "ALWAYS" | "VET" | "HM" | string
 
 export function createDefaultOptions(this: void) {
   return {
