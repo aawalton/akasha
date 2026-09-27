@@ -11,5 +11,9 @@ export const notificationsTab = {
       decisionKind: "decision-kind/departure",
       statement: "The actions to confirm are named from their item action and buy action pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

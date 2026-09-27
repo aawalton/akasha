@@ -33,6 +33,25 @@ import {
   useSafetySettings,
 } from "akasha/temper/web/modules/player-settings/player-settings.module.code.ts"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { notificationsTabActionReports } from "akasha/temper/web/phrase/pages/notifications-tab-action-reports.temper-web-phrase.ts"
+import { notificationsTabActionReportsAbout } from "akasha/temper/web/phrase/pages/notifications-tab-action-reports-about.temper-web-phrase.ts"
+import { notificationsTabAutoStack } from "akasha/temper/web/phrase/pages/notifications-tab-auto-stack.temper-web-phrase.ts"
+import { notificationsTabAutoStackAbout } from "akasha/temper/web/phrase/pages/notifications-tab-auto-stack-about.temper-web-phrase.ts"
+import { notificationsTabBackpackBuffer } from "akasha/temper/web/phrase/pages/notifications-tab-backpack-buffer.temper-web-phrase.ts"
+import { notificationsTabBackpackBufferAbout } from "akasha/temper/web/phrase/pages/notifications-tab-backpack-buffer-about.temper-web-phrase.ts"
+import { notificationsTabConfirmActions } from "akasha/temper/web/phrase/pages/notifications-tab-confirm-actions.temper-web-phrase.ts"
+import { notificationsTabConfirmActionsAbout } from "akasha/temper/web/phrase/pages/notifications-tab-confirm-actions-about.temper-web-phrase.ts"
+import { notificationsTabCooldownProtection } from "akasha/temper/web/phrase/pages/notifications-tab-cooldown-protection.temper-web-phrase.ts"
+import { notificationsTabCooldownProtectionAbout } from "akasha/temper/web/phrase/pages/notifications-tab-cooldown-protection-about.temper-web-phrase.ts"
+import { notificationsTabLevelMinimal } from "akasha/temper/web/phrase/pages/notifications-tab-level-minimal.temper-web-phrase.ts"
+import { notificationsTabLevelNone } from "akasha/temper/web/phrase/pages/notifications-tab-level-none.temper-web-phrase.ts"
+import { notificationsTabLevelVerbose } from "akasha/temper/web/phrase/pages/notifications-tab-level-verbose.temper-web-phrase.ts"
+import { notificationsTabLogging } from "akasha/temper/web/phrase/pages/notifications-tab-logging.temper-web-phrase.ts"
+import { notificationsTabNotifications } from "akasha/temper/web/phrase/pages/notifications-tab-notifications.temper-web-phrase.ts"
+import { notificationsTabPerfTracing } from "akasha/temper/web/phrase/pages/notifications-tab-perf-tracing.temper-web-phrase.ts"
+import { notificationsTabPerfTracingAbout } from "akasha/temper/web/phrase/pages/notifications-tab-perf-tracing-about.temper-web-phrase.ts"
+import { notificationsTabSafety } from "akasha/temper/web/phrase/pages/notifications-tab-safety.temper-web-phrase.ts"
 import { useBackpackSettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useEffect, useMemo, useState } from "react"
 
@@ -48,6 +67,7 @@ interface NotificationsTabProps {
 
 export function NotificationsTab({ active }: NotificationsTabProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const { loggingSettings, updateLoggingSettings } = useLoggingSettings()
   const { safetySettings, updateSafetySettings } = useSafetySettings()
   const { backpackSettings, updateBackpackSettings } = useBackpackSettings()
@@ -77,10 +97,10 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
 
   return (
     <ResponsiveColumns>
-      <InputPanelCard id="logging" title="Addon Logging">
+      <InputPanelCard id="logging" title={phrase(notificationsTabLogging.slug)}>
         <InputPanelCard.Row
-          label="Action Reports"
-          description="Controls how verbose inventory rule action reports are in your addon console."
+          label={phrase(notificationsTabActionReports.slug)}
+          description={phrase(notificationsTabActionReportsAbout.slug)}
         >
           <Select<InventoryLoggingLevel>
             value={loggingSettings.actionReports}
@@ -90,15 +110,21 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem<InventoryLoggingLevel> value="none">None</SelectItem>
-              <SelectItem<InventoryLoggingLevel> value="minimal">Minimal</SelectItem>
-              <SelectItem<InventoryLoggingLevel> value="verbose">Verbose</SelectItem>
+              <SelectItem<InventoryLoggingLevel> value="none">
+                {phrase(notificationsTabLevelNone.slug)}
+              </SelectItem>
+              <SelectItem<InventoryLoggingLevel> value="minimal">
+                {phrase(notificationsTabLevelMinimal.slug)}
+              </SelectItem>
+              <SelectItem<InventoryLoggingLevel> value="verbose">
+                {phrase(notificationsTabLevelVerbose.slug)}
+              </SelectItem>
             </SelectContent>
           </Select>
         </InputPanelCard.Row>
         <InputPanelCard.Row
-          label="Performance Tracing"
-          description="Outputs load time and saved variable size for each Temper addon when it finishes loading."
+          label={phrase(notificationsTabPerfTracing.slug)}
+          description={phrase(notificationsTabPerfTracingAbout.slug)}
         >
           <Select<InventoryPerfTracingLevel>
             value={loggingSettings.perfTracing}
@@ -108,17 +134,21 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem<InventoryPerfTracingLevel> value="none">None</SelectItem>
-              <SelectItem<InventoryPerfTracingLevel> value="minimal">Minimal</SelectItem>
+              <SelectItem<InventoryPerfTracingLevel> value="none">
+                {phrase(notificationsTabLevelNone.slug)}
+              </SelectItem>
+              <SelectItem<InventoryPerfTracingLevel> value="minimal">
+                {phrase(notificationsTabLevelMinimal.slug)}
+              </SelectItem>
             </SelectContent>
           </Select>
         </InputPanelCard.Row>
       </InputPanelCard>
 
-      <InputPanelCard id="safety" title="Addon Safety">
+      <InputPanelCard id="safety" title={phrase(notificationsTabSafety.slug)}>
         <InputPanelCard.Row
-          label="Confirm Before Action"
-          description="Show an in-game confirmation dialog before the addon automatically executes these actions."
+          label={phrase(notificationsTabConfirmActions.slug)}
+          description={phrase(notificationsTabConfirmActionsAbout.slug)}
         >
           <BadgeToggleGroup
             items={confirmActionItems}
@@ -134,8 +164,8 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
           />
         </InputPanelCard.Row>
         <InputPanelCard.Row
-          label="Container Cooldown Protection"
-          description="Skip auto-opening containers when a boosted reward (e.g. transmutation geode) was received recently."
+          label={phrase(notificationsTabCooldownProtection.slug)}
+          description={phrase(notificationsTabCooldownProtectionAbout.slug)}
         >
           <div className="flex h-9 items-center">
             <Switch
@@ -148,10 +178,10 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
         </InputPanelCard.Row>
       </InputPanelCard>
 
-      <InputPanelCard id="addon-notifications" title="Addon Notifications">
+      <InputPanelCard id="addon-notifications" title={phrase(notificationsTabNotifications.slug)}>
         <InputPanelCard.Row
-          label="Backpack Buffer"
-          description="Reserve this many backpack slots when managing inventory."
+          label={phrase(notificationsTabBackpackBuffer.slug)}
+          description={phrase(notificationsTabBackpackBufferAbout.slug)}
         >
           <Input
             type="number"
@@ -173,8 +203,8 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
           />
         </InputPanelCard.Row>
         <InputPanelCard.Row
-          label="Auto-Stack"
-          description="Automatically consolidate partial stacks when logging in and at a banker."
+          label={phrase(notificationsTabAutoStack.slug)}
+          description={phrase(notificationsTabAutoStackAbout.slug)}
         >
           <div className="flex h-9 items-center">
             <Switch
