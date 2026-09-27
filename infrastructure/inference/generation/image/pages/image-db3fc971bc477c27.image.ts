@@ -16,4 +16,5 @@ export const imageDb3fc971bc477c27 = {
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/temple", "setting-tag/snow", "setting-tag/outdoor"],
 } as const satisfies Image

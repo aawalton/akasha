@@ -10,4 +10,5 @@ export const imageCaa3d821e7b7cd28 = {
   relationshipLevel: "closeness-level/level-1",
   esoDay: "2026-07-25",
   subjects: "F",
+  settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
 } as const satisfies Image

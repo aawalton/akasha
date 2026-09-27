@@ -12,4 +12,5 @@ export const image55187e61dc6ad2f7 = {
   inputImage: "image/image-f25c882c9b062373",
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
 } as const satisfies Image

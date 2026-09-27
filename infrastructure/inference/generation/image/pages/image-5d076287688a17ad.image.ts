@@ -20,4 +20,5 @@ export const image5d076287688a17ad = {
   ],
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
+  settingTags: ["setting-tag/indoor"],
 } as const satisfies Image

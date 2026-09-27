@@ -7,4 +7,5 @@ export const imageE878aec0e63b6951 = {
   title: "Amy — anchor",
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/outdoor"],
 } as const satisfies Image

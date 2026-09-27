@@ -7,4 +7,5 @@ export const image27058fa720942ff3 = {
   persona: "persona/aura",
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
+  settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/arcade"],
 } as const satisfies Image

@@ -6,4 +6,9 @@ export const imageCa1525adc1f6489e = {
   slug: "image-ca1525adc1f6489e",
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: [
+    "setting-tag/dark-background",
+    "setting-tag/studio",
+    "setting-tag/abstract-background",
+  ],
 } as const satisfies Image

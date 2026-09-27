@@ -7,4 +7,5 @@ export const imageF25c882c9b062373 = {
   title: "Aura — anchor",
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
+  settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
 } as const satisfies Image

@@ -7,4 +7,5 @@ export const image40fcb658abfc5567 = {
   title: "Rhia cover L2",
   relationshipLevel: "closeness-level/level-2",
   subjects: "F",
+  settingTags: ["setting-tag/library", "setting-tag/indoor"],
 } as const satisfies Image
