@@ -145,6 +145,39 @@ test("a page added among a marked type's pages at the end lands", () => {
   expect(refusalsOver(over, [ROWS], () => [SKILL_A, SKILL_B, SKILL_C])).toEqual([])
 })
 
+test("the last page losing its place in the field its type is ordered by is refused", () => {
+  const placed = (at: number): string => `export const held = { hashPlace: ${at} }\n`
+  const over = changing(
+    { [SKILL_A]: placed(0), [SKILL_B]: placed(1) },
+    { [SKILL_B]: "export const held = {}\n" }
+  )
+  const said = refusalsOver(over, [{ ...ROWS, name: "hashPlace" }], () => [SKILL_A, SKILL_B])
+  expect(said.map((one) => one.path)).toEqual([SKILL_TYPE])
+  expect(said[0]?.reason).toContain('"b" was at index 1 and is gone')
+})
+
+test("a page losing its place ahead of others is refused for every entry it moves", () => {
+  const placed = (at: number): string => `export const held = { hashPlace: ${at} }\n`
+  const over = changing(
+    { [SKILL_A]: placed(0), [SKILL_B]: placed(1), [SKILL_C]: placed(2) },
+    { [SKILL_A]: "export const held = {}\n" }
+  )
+  const rows = (): readonly string[] => [SKILL_A, SKILL_B, SKILL_C]
+  const said = refusalsOver(over, [{ ...ROWS, name: "hashPlace" }], rows)
+  expect(said[0]?.reason).toContain('"a" was at index 0 and is gone')
+  expect(said[0]?.reason).toContain('"b" moved from index 1 to index 0')
+})
+
+test("a page added with no place in the field its type is ordered by lands", () => {
+  const placed = (at: number): string => `export const held = { hashPlace: ${at} }\n`
+  const over = changing(
+    { [SKILL_A]: placed(0), [SKILL_B]: placed(1) },
+    { [SKILL_C]: "export const held = {}\n" }
+  )
+  const rows = (): readonly string[] => [SKILL_A, SKILL_B, SKILL_C]
+  expect(refusalsOver(over, [{ ...ROWS, name: "hashPlace" }], rows)).toEqual([])
+})
+
 test("a page given another place in the field its type is ordered by is refused", () => {
   const placed = (at: number): string => `export const held = { hashPlace: ${at} }\n`
   const over = changing({ [SKILL_A]: placed(0), [SKILL_B]: placed(1) }, { [SKILL_A]: placed(2) })

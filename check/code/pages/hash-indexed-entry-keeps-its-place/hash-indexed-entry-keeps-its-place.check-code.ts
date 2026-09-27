@@ -58,6 +58,10 @@ export const hashIndexedEntryKeepsItsPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page that had a value at the base and states none now is an entry taken out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A table spread in from another constant or module is read in the place it is spread.",
     },
