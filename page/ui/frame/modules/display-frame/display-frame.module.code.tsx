@@ -12,11 +12,12 @@ import { FrameSafeAreaMasks } from "akasha/page/ui/frame/modules/frame-safe-area
 import { FrameStickyFooter } from "akasha/page/ui/frame/modules/frame-sticky-footer/frame-sticky-footer.module.code.tsx"
 import {
   type FrameHeader,
+  FrameHeaderActionAt,
   FrameStickyHeader,
 } from "akasha/page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"
 import { useFollowAnchor } from "akasha/page/ui/frame/modules/use-follow-anchor/use-follow-anchor.module.code.ts"
 import { ArrowDown } from "lucide-react"
-import { type ReactNode, type RefObject, useCallback } from "react"
+import { type ReactNode, type RefObject, useCallback, useState } from "react"
 
 interface DisplayFrameProps {
   readonly config?: FrameConfig
@@ -37,6 +38,7 @@ export function DisplayFrame({
   followAnchor,
   children,
 }: DisplayFrameProps) {
+  const [actionAt, setActionAt] = useState<HTMLElement | null>(null)
   const focusEnabled = frameSupportsFocusMode(config)
   const { chromeHidden, onSurfaceClick } = useChromeToggle()
 
@@ -59,13 +61,13 @@ export function DisplayFrame({
     <div className="flex min-h-screen flex-col">
       {}
       {config?.edgeToEdge === true && <FrameSafeAreaMasks chromeHidden={chromeHidden} />}
-      {header != null && <FrameStickyHeader header={header} />}
+      {header != null && <FrameStickyHeader header={header} actionAt={setActionAt} />}
       {}
       <article
         className="flex flex-1 flex-col"
         onClick={focusEnabled ? handleCanvasClick : undefined}
       >
-        {children}
+        <FrameHeaderActionAt value={actionAt}>{children}</FrameHeaderActionAt>
       </article>
       {footer != null && <FrameStickyFooter>{footer}</FrameStickyFooter>}
       {}

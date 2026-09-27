@@ -7,7 +7,15 @@ import {
   usePagesUIRouter,
 } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { ArrowLeft } from "lucide-react"
-import type { ReactNode } from "react"
+import { createContext, type ReactNode, useContext } from "react"
+import { createPortal } from "react-dom"
+
+export const FrameHeaderActionAt = createContext<HTMLElement | null>(null)
+
+export function FrameHeaderAction({ children }: { children: ReactNode }) {
+  const at = useContext(FrameHeaderActionAt)
+  return at === null ? null : createPortal(<span className="contents">{children}</span>, at)
+}
 
 export interface FrameHeader {
   readonly title?: string
@@ -18,7 +26,13 @@ export interface FrameHeader {
   readonly menu?: ReactNode
 }
 
-export function FrameStickyHeader({ header }: { header: FrameHeader }) {
+export function FrameStickyHeader({
+  header,
+  actionAt,
+}: {
+  header: FrameHeader
+  actionAt?: (at: HTMLElement | null) => void
+}) {
   const router = usePagesUIRouter()
   const title = header.title ?? ""
 
@@ -68,7 +82,10 @@ export function FrameStickyHeader({ header }: { header: FrameHeader }) {
         >
           {titleNode}
         </h1>
-        <div className="flex h-8 w-8 items-center justify-center">{header.menu}</div>
+        <div className="flex h-8 min-w-8 items-center justify-end gap-1">
+          <span ref={actionAt} className="contents" />
+          {header.menu}
+        </div>
       </div>
       {}
       {header.mobileOnly === true ? null : (
