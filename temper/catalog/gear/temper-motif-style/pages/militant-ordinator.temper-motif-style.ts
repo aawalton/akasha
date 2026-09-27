@@ -6,6 +6,7 @@ export const militantOrdinator = {
   slug: "militant-ordinator",
   title: "Militant Ordinator",
   esoItemStyleId: 50,
+  styleName: "Militant Ordinator",
   collectionIndex: 34,
   sourceDescription: "Battlegrounds vendors",
 } as const satisfies TemperMotifStyle
