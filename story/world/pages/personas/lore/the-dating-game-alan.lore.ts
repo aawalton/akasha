@@ -180,5 +180,13 @@ export const theDatingGameAlan = {
       fact: "Echo has begun reading Alan's one-of-a-kind Wandering Inn aloud to him from the booth.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Alan told Grace his name.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan told Grace he lives just down the street from her, on Apple.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore
