@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"git/modules/head-commit/head-commit.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/generated-file/generated-file.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"infrastructure/cluster/k8s-synth/modules/synth-drift/synth-drift.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-there.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-audit/orphan-resource-audit.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"page/index/modules/indexing/indexing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-there.module.code.ts","path":"page/index/modules/keeping/index-keeping.module.code.ts","typed":false,"deferred":false}

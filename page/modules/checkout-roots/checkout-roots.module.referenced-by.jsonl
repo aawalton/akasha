@@ -137,6 +137,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"domain/plain-language/modules/onnx-parsing/onnx-parsing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/k8s-type/modules/secret-checksum/secret-checksum.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-audit/orphan-resource-audit.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-audit/orphan-resource-audit.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-config/tunnel-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/manifest/modules/tunnel-route-discovery/tunnel-route-discovery.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"infrastructure/cluster/provisioning/talos/modules/paths/paths.module.code.ts","typed":false,"deferred":false}

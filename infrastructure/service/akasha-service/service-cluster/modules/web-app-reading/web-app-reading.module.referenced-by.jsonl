@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"command/pages/deploy/modules/kind-reading/deploy-kind-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"command/pages/deploy/modules/web-putting-up/deploy-web-putting-up.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-audit/orphan-resource-audit.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/cluster/manifest/modules/orphan-resource-audit/orphan-resource-audit.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/cluster-health/cluster-health.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-app-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-cluster/modules/web-app-building/web-app-building.module.test.ts","typed":true,"deferred":false}
