@@ -4,6 +4,7 @@ export const otherwhere00030 = {
   id: "01a0e516-ca38-7d82-ad3b-ce479f40e98e",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-030",
+  cover: "image/image-94ade544a2fd094c",
   ownLength: 172,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -17,7 +18,7 @@ export const otherwhere00030 = {
     "character-other/otherwhere-engorged-bookworm-05",
     "character-other/otherwhere-engorged-bookworm-06",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I wait until this one stops moving, then I repeat the process for the last small one",
   beats: [
     "Nala stays on the pinned bookworm until it shudders and dries into a hard grey coil, alive.",
@@ -32,5 +33,5 @@ export const otherwhere00030 = {
   ],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
