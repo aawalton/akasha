@@ -8,6 +8,10 @@ export const skillLineCategoryData = {
   code: "ts",
   decisions: [
     {
+      decisionKind: "decision-kind/absence",
+      statement: "It holds no category names; a screen reads them from the category pages.",
+    },
+    {
       decisionKind: "decision-kind/departure",
       statement: "This code is written out from the skill-line-category pages rather than by hand.",
     },
