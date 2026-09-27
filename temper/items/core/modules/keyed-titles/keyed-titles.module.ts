@@ -23,6 +23,10 @@ export const keyedTitles = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A key is titled by the key itself while its pages are not yet read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page stating no key, title or display order is refused rather than skipped.",
     },
     {

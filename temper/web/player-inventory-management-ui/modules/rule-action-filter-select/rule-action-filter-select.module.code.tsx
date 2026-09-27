@@ -8,6 +8,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
@@ -26,10 +27,8 @@ import {
 } from "akasha/temper/web/player-inventory-management-ui/modules/action-filter-utils/action-filter-utils.module.code.ts"
 import {
   ACTION_OPTIONS,
-  actionLabelIn,
   NOTHING_ACTION,
   SELL_DESTINATION_OPTIONS,
-  sellDestinationLabelIn,
 } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 
 export function RuleActionFilterSelect({
@@ -82,7 +81,7 @@ export function RuleActionFilterSelect({
           value={sub}
           options={SELL_DESTINATION_OPTIONS.map((o) => ({
             value: o.value,
-            label: sellDestinationLabelIn(venues, o),
+            label: titleIn(venues, o.venue),
           }))}
           allLabel="Any Destination"
           onChange={handleSubChange}
@@ -133,11 +132,11 @@ export function RuleActionFilterSelect({
         </SelectTrigger>
         <SelectContent nullSentinel={{ value: NULL_SENTINEL, label: "All Actions" }} sorted>
           <SelectItem value={NOTHING_ACTION.value}>
-            {actionLabelIn(actionTitles, NOTHING_ACTION.value)}
+            {titleIn(actionTitles, NOTHING_ACTION.value)}
           </SelectItem>
           {ACTION_OPTIONS.map((opt) => (
             <SelectItem key={opt.value} value={opt.value}>
-              {actionLabelIn(actionTitles, opt.value)}
+              {titleIn(actionTitles, opt.value)}
             </SelectItem>
           ))}
         </SelectContent>

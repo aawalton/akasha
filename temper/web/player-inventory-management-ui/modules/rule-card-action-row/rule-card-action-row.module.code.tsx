@@ -15,7 +15,7 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { titleOf } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type {
   CategoryRule,
   DestinationChain,
@@ -29,11 +29,9 @@ import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-k
 import {
   ACTION_OPTIONS,
   type ActionVariant,
-  actionLabelIn,
   NOTHING_ACTION,
   SELL_ACTIONS,
   SELL_DESTINATION_OPTIONS,
-  sellDestinationLabelIn,
 } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 import { CharacterTargetSelect } from "akasha/temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.code.tsx"
 import { CompanionTargetSelect } from "akasha/temper/web/player-inventory-management-ui/modules/companion-target-select/companion-target-select.module.code.tsx"
@@ -89,7 +87,7 @@ export function RuleCardActionRow({
   const venues = useKeyedTitles(temperVenue.slug)
   const nothingSentinel = {
     value: NOTHING_ACTION.value,
-    label: actionLabelIn(actionTitles, NOTHING_ACTION.value),
+    label: titleIn(actionTitles, NOTHING_ACTION.value),
   }
 
   return (
@@ -114,7 +112,7 @@ export function RuleCardActionRow({
             <SelectContent nullSentinel={nothingSentinel} sorted>
               {currencyActionOptions.map((opt) => (
                 <SelectItem key={opt.value} value={opt.value}>
-                  {actionLabelIn(actionTitles, opt.value)}
+                  {titleIn(actionTitles, opt.value)}
                 </SelectItem>
               ))}
             </SelectContent>
@@ -122,7 +120,7 @@ export function RuleCardActionRow({
             <SelectContent nullSentinel={nothingSentinel} sorted>
               {ACTION_OPTIONS.map((opt) => (
                 <SelectItem key={opt.value} value={opt.value}>
-                  {actionLabelIn(actionTitles, opt.value)}
+                  {titleIn(actionTitles, opt.value)}
                 </SelectItem>
               ))}
             </SelectContent>
@@ -140,7 +138,7 @@ export function RuleCardActionRow({
             <SelectContent>
               {SELL_DESTINATION_OPTIONS.map((opt) => (
                 <SelectItem key={opt.value} value={opt.value}>
-                  {sellDestinationLabelIn(venues, opt)}
+                  {titleIn(venues, opt.venue)}
                 </SelectItem>
               ))}
             </SelectContent>
@@ -153,7 +151,7 @@ export function RuleCardActionRow({
             <div className="flex items-center gap-1">
               <ChevronRight className="size-3 text-tertiary" />
               <Badge variant={actionOption.variant} className="shrink-0">
-                {venues === null ? bank.key : titleOf(venues, bank.key)}
+                {titleIn(venues, bank.key)}
               </Badge>
             </div>
           ) : (

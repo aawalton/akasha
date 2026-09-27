@@ -9,30 +9,34 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { character } from "akasha/temper/catalog/world/temper-location-type/pages/character.temper-location-type.ts"
+import { craftbag } from "akasha/temper/catalog/world/temper-location-type/pages/craftbag.temper-location-type.ts"
+import { housingStorage } from "akasha/temper/catalog/world/temper-location-type/pages/housing-storage.temper-location-type.ts"
+import { temperLocationType } from "akasha/temper/catalog/world/temper-location-type/temper-location-type.page-type.ts"
+import {
+  type KeyedTitles,
+  titleIn,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { forInspiration } from "akasha/temper/items/rules/core/temper-deconstruct-mode/pages/for-inspiration.temper-deconstruct-mode.ts"
+import { forMaterials } from "akasha/temper/items/rules/core/temper-deconstruct-mode/pages/for-materials.temper-deconstruct-mode.ts"
+import { temperDeconstructMode } from "akasha/temper/items/rules/core/temper-deconstruct-mode/temper-deconstruct-mode.page-type.ts"
+import { bank } from "akasha/temper/items/rules/routing/core/temper-venue/pages/bank.temper-venue.ts"
+import { furnitureVault } from "akasha/temper/items/rules/routing/core/temper-venue/pages/furniture-vault.temper-venue.ts"
+import { guildBank } from "akasha/temper/items/rules/routing/core/temper-venue/pages/guild-bank.temper-venue.ts"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { NULL_SENTINEL } from "akasha/temper/web/player-inventory-management-ui/modules/action-filter-utils/action-filter-utils.module.code.ts"
 import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 
-const MOVE_TO_CATEGORY_OPTIONS: { value: string; label: string }[] = [
-  { value: "bank", label: "Bank" },
-  { value: "craft-bag", label: "Craft Bag" },
-  { value: "character", label: "Character" },
-  { value: "guild-bank", label: "Guild Bank" },
-  { value: "housing-storage", label: "Housing Storage" },
-]
-
-const STOCK_SCOPE_OPTIONS: { value: string; label: string }[] = [
-  { value: "bank", label: "Bank" },
-  { value: "character", label: "Character" },
-]
-
-const DECONSTRUCT_MODE_OPTIONS: { value: string; label: string }[] = [
-  { value: "for-inspiration", label: "For Inspiration" },
-  { value: "for-materials", label: "For Materials" },
-]
+function usePlaceTitles(): { venues: KeyedTitles | null; places: KeyedTitles | null } {
+  const venues = useKeyedTitles(temperVenue.slug)
+  const places = useKeyedTitles(temperLocationType.slug)
+  return { venues, places }
+}
 
 export function SubBadgeSelect({
   value,
@@ -88,6 +92,18 @@ export function MoveToCascade({
   const userId = useUserId()
   const { inventory } = useInventory(userId)
   const { managedSet } = useManagedGuildBanks()
+  const { venues, places } = usePlaceTitles()
+
+  const categoryOptions = useMemo(
+    () => [
+      { value: "bank", label: titleIn(venues, bank.key) },
+      { value: "craft-bag", label: titleIn(places, craftbag.key) },
+      { value: "character", label: titleIn(places, character.key) },
+      { value: "guild-bank", label: titleIn(venues, guildBank.key) },
+      { value: "housing-storage", label: titleIn(places, housingStorage.key) },
+    ],
+    [venues, places]
+  )
 
   const characterOptions = useMemo(() => {
     const characters = inventory?.currencies?.characters
@@ -116,7 +132,7 @@ export function MoveToCascade({
   const housingStorageOptions = useMemo(() => {
     const locations = inventory?.locations
     const items: { value: string; label: string }[] = [
-      { value: "furniture-vault", label: "Furniture Vault" },
+      { value: "furniture-vault", label: titleIn(venues, furnitureVault.key) },
     ]
     if (locations) {
       for (const [key, loc] of Object.entries(locations)) {
@@ -132,7 +148,7 @@ export function MoveToCascade({
       }
     }
     return items
-  }, [inventory])
+  }, [inventory, venues])
 
   function handleCategoryChange(val: string | null) {
     onSubChange(val)
@@ -141,11 +157,7 @@ export function MoveToCascade({
   return (
     <>
       {}
-      <SubBadgeSelect
-        value={sub}
-        options={MOVE_TO_CATEGORY_OPTIONS}
-        onChange={handleCategoryChange}
-      />
+      <SubBadgeSelect value={sub} options={categoryOptions} onChange={handleCategoryChange} />
 
       {}
       {sub === "character" && (
@@ -201,6 +213,15 @@ export function StockCascade({
     }))
   }, [inventory])
 
+  const { venues, places } = usePlaceTitles()
+  const scopeOptions = useMemo(
+    () => [
+      { value: "bank", label: titleIn(venues, bank.key) },
+      { value: "character", label: titleIn(places, character.key) },
+    ],
+    [venues, places]
+  )
+
   function handleScopeChange(val: string | null) {
     onSubChange(val)
   }
@@ -210,7 +231,7 @@ export function StockCascade({
       {}
       <SubBadgeSelect
         value={sub}
-        options={STOCK_SCOPE_OPTIONS}
+        options={scopeOptions}
         allLabel="Any Scope"
         onChange={handleScopeChange}
       />
@@ -254,6 +275,16 @@ export function DeconstructCascade({
     ]
   }, [inventory])
 
+  const modes = useKeyedTitles(temperDeconstructMode.slug)
+  const modeOptions = useMemo(
+    () =>
+      [forInspiration, forMaterials].map((one) => ({
+        value: one.key,
+        label: titleIn(modes, one.key),
+      })),
+    [modes]
+  )
+
   function handleModeChange(val: string | null) {
     onSubChange(val)
   }
@@ -263,7 +294,7 @@ export function DeconstructCascade({
       {}
       <SubBadgeSelect
         value={sub}
-        options={DECONSTRUCT_MODE_OPTIONS}
+        options={modeOptions}
         allLabel="Any Mode"
         onChange={handleModeChange}
       />

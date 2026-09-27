@@ -1,7 +1,6 @@
 import {
   heldKeyedTitles,
-  type KeyedTitles,
-  titleOf,
+  titleIn,
 } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { fence } from "akasha/temper/items/rules/routing/core/temper-venue/pages/fence.temper-venue.ts"
@@ -52,17 +51,6 @@ export const SELL_DESTINATION_OPTIONS: readonly SellDestinationOption[] = [
   { value: "list", venue: guildStore.key },
 ]
 
-export function sellDestinationLabelIn(
-  venues: KeyedTitles | null,
-  option: SellDestinationOption
-): string {
-  return venues === null ? option.venue : titleOf(venues, option.venue)
-}
-
-export function actionLabelIn(titles: KeyedTitles | null, action: string): string {
-  return titles === null ? action : titleOf(titles, action)
-}
-
 export function getActionLabel(action: string): string {
-  return actionLabelIn(heldKeyedTitles(temperItemAction.slug), action)
+  return titleIn(heldKeyedTitles(temperItemAction.slug), action)
 }

@@ -52,6 +52,10 @@ export function titleOf(titles: KeyedTitles, key: string): string {
   return titles.titles.get(key) ?? key
 }
 
+export function titleIn(titles: KeyedTitles | null, key: string): string {
+  return titles === null ? key : titleOf(titles, key)
+}
+
 const held = new Map<string, KeyedTitles>()
 
 export function holdKeyedTitles(titles: KeyedTitles): KeyedTitles {

@@ -6,4 +6,10 @@ export const deconstructScopeSelect = {
   slug: "deconstruct-scope-select",
   definition: "the select naming whose items a deconstruct rule reaches",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Deconstruct modes are named from deconstruct mode pages.",
+    },
+  ],
 } as const satisfies Module

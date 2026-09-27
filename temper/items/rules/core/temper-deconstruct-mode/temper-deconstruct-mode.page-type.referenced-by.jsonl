@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-deconstruct-mode.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/action-filter-cascades/action-filter-cascades.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-deconstruct-mode.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/deconstruct-scope-select/deconstruct-scope-select.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-deconstruct-mode.page-type.types.ts","path":"temper/items/rules/core/temper-deconstruct-mode/pages/for-inspiration.temper-deconstruct-mode.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-deconstruct-mode.page-type.types.ts","path":"temper/items/rules/core/temper-deconstruct-mode/pages/for-materials.temper-deconstruct-mode.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

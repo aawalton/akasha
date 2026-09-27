@@ -6,4 +6,14 @@ export const actionFilterCascades = {
   slug: "action-filter-cascades",
   definition: "the linked selects narrowing where a rule's action sends an item",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Destinations are named from venue and location type pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Deconstruct modes are named from deconstruct mode pages.",
+    },
+  ],
 } as const satisfies Module
