@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"turn-status.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"turn-status.page-type.types.ts","path":"story/world/stories/played/turns/turn-status/pages/game-master.turn-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-status.page-type.types.ts","path":"story/world/stories/played/turns/turn-status/pages/player.turn-status.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"turn-status.page-type.types.ts","path":"story/world/stories/played/turns/turn-status/pages/recorders.turn-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-status.page-type.types.ts","path":"story/world/stories/played/turns/turn-status/pages/reviewers.turn-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-status.page-type.types.ts","path":"story/world/stories/played/turns/turn-status/pages/world-builder.turn-status.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"turn-status.page-type.types.ts","path":"story/world/stories/played/turns/turn-status/pages/writer.turn-status.ts","typed":true,"deferred":false}
