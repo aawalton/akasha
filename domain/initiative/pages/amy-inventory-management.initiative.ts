@@ -16,5 +16,9 @@ export const amyInventoryManagement = {
       statement:
         "Each Saturday, Inventory Management counts a character whose items belong and who saw a banker.",
     },
+    {
+      statement:
+        "Buy shortfall buys guild store stacks within the shortfall, at most TTC's suggested price.",
+    },
   ],
 } as const satisfies Initiative
