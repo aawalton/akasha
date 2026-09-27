@@ -30,4 +30,5 @@ export const theDatingGame00014 = {
     "Then she taps her own chest twice, grinning, and holds his eyes.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
