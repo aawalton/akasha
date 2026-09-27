@@ -8,4 +8,5 @@ export const templar = {
   key: "templar",
   icon: "☀️",
   esoClassId: 6,
+  hashPlace: 6,
 } as const satisfies TemperClass

@@ -8,4 +8,5 @@ export const argonian = {
   key: "argonian",
   esoRaceId: 6,
   racialSkillLine: "temper-skill-line/racial-argonian-skills",
+  hashPlace: 6,
 } as const satisfies TemperRace

@@ -8,4 +8,5 @@ export const arcanist = {
   key: "arcanist",
   icon: "📖",
   esoClassId: 117,
+  hashPlace: 0,
 } as const satisfies TemperClass

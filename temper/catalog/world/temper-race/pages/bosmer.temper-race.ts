@@ -9,4 +9,5 @@ export const bosmer = {
   altName: "Bosmer",
   esoRaceId: 8,
   racialSkillLine: "temper-skill-line/racial-wood-elf-skills",
+  hashPlace: 8,
 } as const satisfies TemperRace

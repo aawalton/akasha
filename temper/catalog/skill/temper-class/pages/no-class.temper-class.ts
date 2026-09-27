@@ -7,4 +7,5 @@ export const noClass = {
   title: "No Class",
   key: "no-class",
   esoClassId: 0,
+  hashPlace: 4,
 } as const satisfies TemperClass

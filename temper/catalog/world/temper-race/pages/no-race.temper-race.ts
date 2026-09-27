@@ -7,4 +7,5 @@ export const noRace = {
   title: "No Race",
   key: "no-race",
   esoRaceId: 0,
+  hashPlace: 0,
 } as const satisfies TemperRace

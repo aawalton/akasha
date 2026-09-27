@@ -8,4 +8,5 @@ export const nightblade = {
   key: "nightblade",
   icon: "🗡️",
   esoClassId: 3,
+  hashPlace: 3,
 } as const satisfies TemperClass

@@ -8,4 +8,5 @@ export const imperial = {
   key: "imperial",
   esoRaceId: 10,
   racialSkillLine: "temper-skill-line/racial-imperial-skills",
+  hashPlace: 10,
 } as const satisfies TemperRace

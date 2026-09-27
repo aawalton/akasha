@@ -8,4 +8,5 @@ export const warden = {
   key: "warden",
   icon: "🐻",
   esoClassId: 4,
+  hashPlace: 7,
 } as const satisfies TemperClass

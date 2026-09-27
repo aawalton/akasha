@@ -8,4 +8,5 @@ export const redguard = {
   key: "redguard",
   esoRaceId: 2,
   racialSkillLine: "temper-skill-line/racial-redguard-skills",
+  hashPlace: 2,
 } as const satisfies TemperRace

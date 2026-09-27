@@ -16,7 +16,9 @@ export const temperRace = {
     { pageProperty: "text-property/alt-name", required: false, many: false },
     { pageProperty: "number-property/eso-race-id", required: true, many: false },
     { pageProperty: "relation-property/racial-skill-line", required: false, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

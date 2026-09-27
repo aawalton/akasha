@@ -10,7 +10,9 @@ export const temperClass = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/eso-class-id", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

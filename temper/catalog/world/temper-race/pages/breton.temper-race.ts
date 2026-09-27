@@ -8,4 +8,5 @@ export const breton = {
   key: "breton",
   esoRaceId: 1,
   racialSkillLine: "temper-skill-line/racial-breton-skills",
+  hashPlace: 1,
 } as const satisfies TemperRace

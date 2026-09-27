@@ -8,4 +8,5 @@ export const nord = {
   key: "nord",
   esoRaceId: 5,
   racialSkillLine: "temper-skill-line/racial-nord-skills",
+  hashPlace: 5,
 } as const satisfies TemperRace
