@@ -36,7 +36,6 @@ import {
 import {
   foldedFor,
   type Naming,
-  pagesAtFor,
 } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import {
   putting,
@@ -47,15 +46,14 @@ import { storyRecorderInstructions } from "akasha/story/recorder/properties/stor
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewerInstructions } from "akasha/story/reviewer/properties/story-reviewer-instructions.file-property.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
-import { styleRule } from "akasha/story/style/style-rule/style-rule.page-type.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
   bareOf,
-  builderOf,
   noticeOf,
   TURN_SENDER,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { noticedOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const CLI = "command/modules/cli/cli.module.code.ts"
@@ -115,7 +113,6 @@ export type Reach = {
   readonly release: (root: string, turn: string) => boolean
   readonly seatOf: (root: string, agentId: string | null) => Seated | null
   readonly storyOf: (root: string, game: string) => Story | null
-  readonly rulesAt: (root: string) => string
   readonly fold: (root: string, naming: Naming) => readonly Asking[] | { readonly refused: string }
   readonly start: (starting: Starting, done: string[]) => Promise<string>
   readonly stop: (root: string, seat: string) => undefined
@@ -142,8 +139,7 @@ export async function noticesSent(
     after.faults.push(`\`${game}\` names no game master seat, so no seat was told the turn moved`)
     return undefined
   }
-  const builder = builderOf(master, game)
-  for (const to of builder === null ? [master] : [master, builder]) {
+  for (const to of noticedOf(master, game)) {
     const why = await reach.notify(to, noticeOf(turn, status))
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the turn moved: ${why}`)
@@ -283,7 +279,6 @@ export const REACHED: Reach = {
   release: sweptAll,
   seatOf: seatIndexed,
   storyOf: storyIndexed,
-  rulesAt: (root) => pagesAtFor(root, styleRule.slug),
   fold: foldedOver,
   start: seatStarted,
   stop: stoppedApart,

@@ -1,6 +1,5 @@
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
-import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import {
   type Landing,
   runMechanicalChange,
@@ -58,7 +57,7 @@ const PROSE_HELD = "txt"
 
 const TRAILING_LINES = /(?:\r?\n)+$/
 
-const STOPPED: readonly string[] = [reviewerRole.slug, writerRole.slug, storyRecorderRole.slug]
+const STOPPED: readonly string[] = [reviewerRole.slug, storyRecorderRole.slug]
 
 type Taken = { readonly turn: string; readonly action: string | null }
 

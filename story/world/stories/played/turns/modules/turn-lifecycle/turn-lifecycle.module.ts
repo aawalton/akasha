@@ -7,6 +7,7 @@ export const turnLifecycle = {
   definition: "how a played turn moves from one status to the next",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -18,7 +19,15 @@ export const turnLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game master's advance goes to writer once every story reviewer has run.",
+      statement: "A game master's advance goes to writer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The writer's advance goes to reviewers while any story reviewer has not run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The writer's advance on a reviewed turn goes to recorders.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -26,13 +35,29 @@ export const turnLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A reviewer's, the writer's and a recorder's seats are stopped once each advances.",
+      statement: "A turn the last reviewer finds issues in goes to game-master.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The writer's advance goes to recorders, or to player where no story recorder is.",
+      statement: "A turn the last reviewer finds no issue in goes to recorders.",
     },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A reviewed turn with no prose yet goes to writer rather than recorders.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A move to recorders goes to player where no story recorder is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reviewer's and a recorder's seats are stopped once each advances.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The writer's seat outlives its advance, as the game master's does.",
+    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "The recorder completing the set moves the turn to player.",

@@ -32,6 +32,8 @@ const MASTER = "mari-game-master-the-game"
 
 const BUILDER = "mari-world-builder-the-game"
 
+const WRITER = "mari-writer-the-game"
+
 const MADE_AT = "stories/the-game/turns/the-game-00-003.story-turn-played.ts"
 
 function effectsWith(over: Partial<ActionBarEffects> = {}) {
@@ -106,7 +108,7 @@ test("a game master whose seat is not running is the action bar player's, to be 
   })
 })
 
-test("an action makes the game's next turn and tells both game seats, starting either", async () => {
+test("an action makes the game's next turn and tells every game seat, starting any", async () => {
   const { effects, written, made } = effectsWith({
     seatOf: async () => gameSeatHeld(MASTER, GAME, undefined),
   })
@@ -118,6 +120,7 @@ test("an action makes the game's next turn and tells both game seats, starting e
   expect(written).toEqual([
     { to: MASTER, from: TURN_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
     { to: BUILDER, from: TURN_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
+    { to: WRITER, from: TURN_SENDER, warrant: "announce", body: notice, startedOnDemand: true },
   ])
 })
 

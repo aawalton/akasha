@@ -4,7 +4,7 @@ export const turnPrompting = {
   id: "01a0deca-7611-7c9f-94b0-89aa26759a71",
   type: "page-type/module",
   slug: "turn-prompting",
-  definition: "the prompt a fresh reviewer, writer or recorder seat starts on",
+  definition: "the prompt a fresh reviewer or recorder seat starts on",
   code: "ts",
   decisions: [
     {
@@ -13,8 +13,7 @@ export const turnPrompting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A writer's prompt sends the writer to the story's mechanics for the limits on a scene.",
+      statement: "A reviewer's prompt sends the reviewer to the turn's beats and its prose.",
     },
     {
       decisionKind: "decision-kind/departure",

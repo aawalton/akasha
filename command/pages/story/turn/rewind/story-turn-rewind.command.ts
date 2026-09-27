@@ -34,7 +34,7 @@ export const storyTurnRewind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rewind stops every reviewer, writer and recorder seat of the turn's game.",
+      statement: "A rewind stops every reviewer and recorder seat of the turn's game.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -42,7 +42,7 @@ export const storyTurnRewind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rewind tells the game's game master and world builder seats of it.",
+      statement: "A rewind tells the game's game master, world builder and writer seats of it.",
     },
     {
       decisionKind: "decision-kind/departure",

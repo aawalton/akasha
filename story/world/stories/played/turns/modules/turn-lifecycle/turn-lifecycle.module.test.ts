@@ -1,86 +1,35 @@
 import { expect, test } from "bun:test"
-import { words } from "akasha/alan/collection/unit/pages/words.unit.ts"
-import { unit } from "akasha/alan/collection/unit/unit.page-type.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
-import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
-import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import {
-  type Advanced,
-  advanced as advancedOver,
-  builderOf,
   type Caller,
-  flexOf,
-  type Handed,
-  type Held,
   type Latest,
   linesIn,
-  type Moved,
   slugAfter,
   stepIn,
-  type TurnStep,
   turnAfter,
   workingSaid,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import {
+  advanced,
+  at,
+  BUILDER,
+  by,
+  CAST,
+  heldAt,
+  MASTER,
+  movedOf,
+  PROSE,
+  RECORDER,
+  REVIEWER,
+  recordedBy,
+  refusalOf,
+  TWO,
+  VOICE,
+  WORDS,
+  WRITER,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.test-fixtures.ts"
 import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
-
-const GAME = "the-saga"
-
-const VOICE = "voice"
-
-const TWO = [continuity.slug, VOICE]
-
-const CAST = "cast"
-
-const RECORDING = [memory.slug, CAST]
-
-const BUILDER: Caller = { role: "world-builder", game: GAME }
-
-const MASTER: Caller = { role: "game-master", game: GAME }
-
-const REVIEWER: Caller = { role: "reviewer", game: GAME }
-
-const WRITER: Caller = { role: "writer", game: GAME }
-
-const RECORDER: Caller = { role: "story-recorder", game: GAME }
-
-const WORDS = `${unit.slug}/${words.slug}`
-
-function at(step: TurnStep): string {
-  return `${turnStatus.slug}/${step}`
-}
-
-function by(reviewer: string): string {
-  return `${storyReviewer.slug}/${reviewer}`
-}
-
-function recordedBy(recorder: string): string {
-  return `${storyRecorder.slug}/${recorder}`
-}
-
-function heldAt(status: TurnStep, more: Partial<Held> = {}): Held {
-  return { game: GAME, status, lore: [], issues: [], reviewedBy: [], recordedBy: [], ...more }
-}
-
-function advanced(
-  held: Held,
-  caller: Caller,
-  handed: Handed,
-  reviewers: readonly string[],
-  recorders: readonly string[] = RECORDING
-): Advanced {
-  return advancedOver(held, caller, handed, reviewers, recorders)
-}
-
-function movedOf(said: Advanced): Moved {
-  if ("refused" in said) throw new Error(said.refused)
-  return said
-}
-
-function refusalOf(said: Advanced): string {
-  if (!("refused" in said)) throw new Error(`moved to ${said.status}`)
-  return said.refused
-}
 
 test("the world builder hands in the lore it landed and the turn goes to the game master", () => {
   const said = movedOf(
@@ -98,27 +47,20 @@ test("the world builder may hand in no lore", () => {
   expect(said.values).toEqual({ turnStatus: at("game-master") })
 })
 
-test("the game master's beats send an unreviewed turn to every reviewer", () => {
+test("the game master's beats go to the writer, starting no seat and stopping none", () => {
   const beats = ["Mara opens the gate", "The hall is dark"]
   const said = movedOf(advanced(heldAt("game-master"), MASTER, { kind: "beats", beats }, TWO))
-  expect(said.status).toBe("reviewers")
-  expect(said.values).toEqual({ turnStatus: at("reviewers"), beats })
-  expect(said.starts).toEqual([
-    { kind: "reviewer", reviewer: continuity.slug },
-    { kind: "reviewer", reviewer: VOICE },
-  ])
+  expect(said.status).toBe("writer")
+  expect(said.values).toEqual({ turnStatus: at("writer"), beats })
+  expect(said.starts).toEqual([])
+  expect(said.stopsCaller).toBe(false)
 })
 
-test("the game master's repair after review goes straight to the writer", () => {
-  const held = heldAt("game-master", { reviewedBy: TWO, issues: ["a fault"] })
+test("the game master's mended beats after review go to the writer too", () => {
+  const held = heldAt("game-master", { reviewedBy: TWO, issues: ["a fault"], written: true })
   const said = movedOf(advanced(held, MASTER, { kind: "beats", beats: ["mended"] }, TWO))
   expect(said.status).toBe("writer")
-  expect(said.starts).toEqual([{ kind: "writer" }])
-})
-
-test("with no story reviewer the game master's beats go to the writer", () => {
-  const said = movedOf(advanced(heldAt("game-master"), MASTER, { kind: "beats", beats: ["a"] }, []))
-  expect(said.status).toBe("writer")
+  expect(said.starts).toEqual([])
 })
 
 test("a reviewer that is not the last adds itself and its issues and leaves the turn with the reviewers", () => {
@@ -147,12 +89,39 @@ test("the last reviewer sends a turn with issues back to the game master", () =>
   expect(said.stopsCaller).toBe(true)
 })
 
-test("the last reviewer sends a turn with no issues on to the writer", () => {
+test("the last reviewer sends a written turn with no issues on to the recorders, starting each", () => {
+  const held = heldAt("reviewers", { reviewedBy: [VOICE], written: true })
+  const found = { kind: "review", reviewer: continuity.slug, issues: [] } as const
+  const said = movedOf(advanced(held, REVIEWER, found, TWO))
+  expect(said.status).toBe("recorders")
+  expect(said.values).toEqual({
+    turnStatus: at("recorders"),
+    reviewedBy: [by(VOICE), by(continuity.slug)],
+  })
+  expect(said.prose).toBeNull()
+  expect(said.starts).toEqual([
+    { kind: "recorder", recorder: memory.slug },
+    { kind: "recorder", recorder: CAST },
+  ])
+  expect(said.stopsCaller).toBe(true)
+  expect(said.landsKept).toBe(false)
+})
+
+test("with no story recorder the last clean reviewer sends the turn to the player", () => {
+  const held = heldAt("reviewers", { reviewedBy: [VOICE], written: true })
+  const found = { kind: "review", reviewer: continuity.slug, issues: [] } as const
+  const said = movedOf(advanced(held, REVIEWER, found, TWO, []))
+  expect(said.status).toBe("player")
+  expect(said.starts).toEqual([])
+  expect(said.landsKept).toBe(false)
+})
+
+test("a clean review of a turn with no prose yet sends it to the writer", () => {
   const held = heldAt("reviewers", { reviewedBy: [VOICE] })
   const found = { kind: "review", reviewer: continuity.slug, issues: [] } as const
   const said = movedOf(advanced(held, REVIEWER, found, TWO))
   expect(said.status).toBe("writer")
-  expect(said.starts).toEqual([{ kind: "writer" }])
+  expect(said.starts).toEqual([])
 })
 
 test("a reviewer reviews a turn once", () => {
@@ -166,36 +135,58 @@ test("a reviewer no page names is refused", () => {
   expect(refusalOf(advanced(heldAt("reviewers"), REVIEWER, found, TWO))).toContain("taste")
 })
 
-const PROSE = {
-  kind: "prose",
-  prose: "Mara opens the gate.",
-  characters: ["character-player/mara", "character-other/ceri"],
-} as const
-
-test("the writer's prose moves the turn to the recorders, starting one seat for each", () => {
+test("the writer's first prose moves the turn to the reviewers, starting one seat for each", () => {
   const said = movedOf(advanced(heldAt("writer"), WRITER, PROSE, TWO))
-  expect(said.status).toBe("recorders")
+  expect(said.status).toBe("reviewers")
   expect(said.prose).toBe("Mara opens the gate.\n")
   expect(said.values).toEqual({
-    turnStatus: at("recorders"),
+    turnStatus: at("reviewers"),
     prose: "txt",
     ownLength: 4,
     characters: ["character-player/mara", "character-other/ceri"],
   })
   expect(said.starts).toEqual([
-    { kind: "recorder", recorder: memory.slug },
-    { kind: "recorder", recorder: CAST },
+    { kind: "reviewer", reviewer: continuity.slug },
+    { kind: "reviewer", reviewer: VOICE },
   ])
-  expect(said.stopsCaller).toBe(true)
+  expect(said.stopsCaller).toBe(false)
   expect(said.landsKept).toBe(false)
 })
 
-test("with no story recorder the writer's prose moves the turn straight to the player", () => {
-  const said = movedOf(advanced(heldAt("writer"), WRITER, PROSE, TWO, []))
+test("the writer's prose on a reviewed turn skips the reviewers for the recorders", () => {
+  const held = heldAt("writer", { reviewedBy: TWO, issues: ["a fault"], written: true })
+  const said = movedOf(advanced(held, WRITER, PROSE, TWO))
+  expect(said.status).toBe("recorders")
+  expect(said.prose).toBe("Mara opens the gate.\n")
+  expect(said.starts).toEqual([
+    { kind: "recorder", recorder: memory.slug },
+    { kind: "recorder", recorder: CAST },
+  ])
+  expect(said.stopsCaller).toBe(false)
+})
+
+test("with no story reviewer the writer's prose goes to the recorders, or to the player with none", () => {
+  expect(movedOf(advanced(heldAt("writer"), WRITER, PROSE, [])).status).toBe("recorders")
+  const said = movedOf(advanced(heldAt("writer"), WRITER, PROSE, [], []))
   expect(said.status).toBe("player")
   expect(said.values["turnStatus"]).toBe(at("player"))
   expect(said.starts).toEqual([])
   expect(said.landsKept).toBe(false)
+})
+
+test("a turn with issues goes game master, writer, then recorders, and is reviewed once", () => {
+  const found = { kind: "review", reviewer: continuity.slug, issues: ["a fault"] } as const
+  const reviewed = { reviewedBy: TWO, issues: ["a fault"], written: true }
+  const back = movedOf(
+    advanced(heldAt("reviewers", { ...reviewed, reviewedBy: [VOICE] }), REVIEWER, found, TWO)
+  )
+  expect(back.status).toBe("game-master")
+  const beats = { kind: "beats", beats: ["mended"] } as const
+  const mended = movedOf(advanced(heldAt(back.status, reviewed), MASTER, beats, TWO))
+  expect(mended.status).toBe("writer")
+  const rewritten = movedOf(advanced(heldAt(mended.status, reviewed), WRITER, PROSE, TWO))
+  expect(rewritten.status).toBe("recorders")
+  expect(rewritten.starts.map((one) => one.kind)).toEqual(["recorder", "recorder"])
 })
 
 test("a recorder that is not the last names itself, keeps the turn with the recorders and lands nothing kept", () => {
@@ -316,16 +307,13 @@ test("a slug's last number counts on, padded as it was", () => {
   expect(slugAfter("the-saga")).toBeNull()
 })
 
-test("the words naming a step, and the seats a turn's notices reach", () => {
+test("the words naming a step, and the lines of a handed-in file", () => {
   expect(stepIn(at("game-master"))).toBe("game-master")
   expect(stepIn(at("recorders"))).toBe("recorders")
   expect(stepIn(`${turnStatus.slug}/nobody`)).toBeNull()
   expect(workingSaid("world-builder")).toBe("The world builder is working…")
+  expect(workingSaid("writer")).toBe("The writer is working…")
   expect(workingSaid("reviewers")).toBe("The reviewers are working…")
   expect(workingSaid("recorders")).toBe("The recorders are working…")
-  expect(builderOf("mari-game-master-the-saga", GAME)).toBe("mari-world-builder-the-saga")
-  expect(builderOf("the-saga-game-master", GAME)).toBeNull()
-  expect(flexOf([VOICE, continuity.slug], VOICE)).toBe("flex-2")
-  expect(flexOf(RECORDING, memory.slug)).toBe("flex-2")
   expect(linesIn(" one \n\n two\r\n")).toEqual(["one", "two"])
 })

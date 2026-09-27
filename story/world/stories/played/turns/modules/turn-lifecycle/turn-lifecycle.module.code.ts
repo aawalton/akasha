@@ -17,8 +17,8 @@ import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/
 export const TURN_STEPS = [
   worldBuilder.slug,
   gameMaster.slug,
-  reviewersStatus.slug,
   writer.slug,
+  reviewersStatus.slug,
   recordersStatus.slug,
   player.slug,
 ] as const
@@ -63,12 +63,6 @@ const LINES = /\r?\n/
 
 const LAST_NUMBER = /^(.*?)(\d+)$/
 
-const GAME_MASTER_ROLE = gameMasterRole.slug
-
-const WORLD_BUILDER_ROLE = worldBuilderRole.slug
-
-const FLEX = "flex-"
-
 export type Handed =
   | { readonly kind: "lore"; readonly lore: readonly string[] }
   | { readonly kind: "beats"; readonly beats: readonly string[] }
@@ -85,13 +79,13 @@ export type Held = {
   readonly issues: readonly string[]
   readonly reviewedBy: readonly string[]
   readonly recordedBy: readonly string[]
+  readonly written: boolean
 }
 
 export type Caller = { readonly role: string | null; readonly game: string | null }
 
 export type Start =
   | { readonly kind: "reviewer"; readonly reviewer: string }
-  | { readonly kind: "writer" }
   | { readonly kind: "recorder"; readonly recorder: string }
 
 export type Moved = {
@@ -118,10 +112,10 @@ export type Made =
   | { readonly refused: string }
 
 const ROLE_OF: Readonly<Record<TurnStep, string | null>> = {
-  "world-builder": WORLD_BUILDER_ROLE,
-  "game-master": GAME_MASTER_ROLE,
-  reviewers: reviewerRole.slug,
+  "world-builder": worldBuilderRole.slug,
+  "game-master": gameMasterRole.slug,
   writer: writerRole.slug,
+  reviewers: reviewerRole.slug,
   recorders: storyRecorderRole.slug,
   player: null,
 }
@@ -129,8 +123,8 @@ const ROLE_OF: Readonly<Record<TurnStep, string | null>> = {
 const TAKES: Readonly<Record<TurnStep, Kind | null>> = {
   "world-builder": "lore",
   "game-master": "beats",
-  reviewers: "review",
   writer: "prose",
+  reviewers: "review",
   recorders: "record",
   player: null,
 }
@@ -146,8 +140,8 @@ const SAID_AS: Readonly<Record<Kind, string>> = {
 const WHO: Readonly<Record<TurnStep, string>> = {
   "world-builder": "the world builder",
   "game-master": "the game master",
-  reviewers: "the reviewers",
   writer: "the writer",
+  reviewers: "the reviewers",
   recorders: "the recorders",
   player: "the player",
 }
@@ -181,23 +175,6 @@ export function linesIn(text: string): readonly string[] {
 
 export function noticeOf(turn: string, step: TurnStep): string {
   return `The turn \`${turn}\` is at ${step}.`
-}
-
-export function builderOf(master: string, game: string): string | null {
-  const tail = `-${GAME_MASTER_ROLE}-${game}`
-  if (!master.endsWith(tail) || master.length === tail.length) return null
-  return `${master.slice(0, -tail.length)}-${WORLD_BUILDER_ROLE}-${game}`
-}
-
-export function personaOf(master: string, game: string): string | null {
-  const tail = `-${GAME_MASTER_ROLE}-${game}`
-  if (!master.endsWith(tail) || master.length === tail.length) return null
-  return master.slice(0, -tail.length)
-}
-
-export function flexOf(reviewers: readonly string[], reviewer: string): string {
-  const at = reviewers.toSorted().indexOf(reviewer)
-  return `${FLEX}${at < 0 ? reviewers.length + 1 : at + 1}`
 }
 
 function linesRefused(what: string, lines: readonly string[]): string | null {
@@ -247,29 +224,31 @@ function fromWorldBuilder(held: Held, lore: readonly string[]): Advanced {
   return moved(GAME_MASTER, kept.length === 0 ? {} : { lore: kept })
 }
 
-function fromGameMaster(
-  held: Held,
-  beats: readonly string[],
-  reviewers: readonly string[]
-): Advanced {
+function fromGameMaster(beats: readonly string[]): Advanced {
   if (beats.length === 0)
     return { refused: "a game master's advance hands in beats, and this has none" }
   const wrong = linesRefused("beats", beats)
   if (wrong !== null) return { refused: wrong }
-  const left = reviewers.filter((one) => !held.reviewedBy.includes(one))
-  if (left.length === 0) return moved(WRITER, { beats }, [{ kind: "writer" }])
-  return moved(
-    REVIEWERS,
-    { beats },
-    left.map((reviewer) => ({ kind: "reviewer", reviewer }))
-  )
+  return moved(WRITER, { beats })
+}
+
+function onward(
+  values: Readonly<Record<string, unknown>>,
+  recorders: readonly string[],
+  stopsCaller: boolean,
+  prose: string | null
+): Moved {
+  if (recorders.length === 0) return moved(PLAYER, values, [], stopsCaller, prose)
+  const starts = recorders.map((recorder): Start => ({ kind: "recorder", recorder }))
+  return moved(RECORDERS, values, starts, stopsCaller, prose)
 }
 
 function fromReviewer(
   held: Held,
   reviewer: string,
   found: readonly string[],
-  reviewers: readonly string[]
+  reviewers: readonly string[],
+  recorders: readonly string[]
 ): Advanced {
   if (!reviewers.includes(reviewer)) {
     return {
@@ -293,12 +272,15 @@ function fromReviewer(
     return moved(REVIEWERS, values, [], true)
   }
   if (issues.length > 0) return moved(GAME_MASTER, values, [], true)
-  return moved(WRITER, values, [{ kind: "writer" }], true)
+  if (!held.written) return moved(WRITER, values, [], true)
+  return onward(values, recorders, true, null)
 }
 
 function fromWriter(
+  held: Held,
   prose: string,
   characters: readonly string[],
+  reviewers: readonly string[],
   recorders: readonly string[]
 ): Advanced {
   if (prose.trim() === "")
@@ -312,9 +294,10 @@ function fromWriter(
     ownLength: wordCount(prose),
     ...(kept.length === 0 ? {} : { characters: kept }),
   }
-  if (recorders.length === 0) return moved(PLAYER, values, [], true, written)
-  const starts = recorders.map((recorder): Start => ({ kind: "recorder", recorder }))
-  return moved(RECORDERS, values, starts, true, written)
+  const left = reviewers.filter((one) => !held.reviewedBy.includes(one))
+  if (left.length === 0) return onward(values, recorders, false, written)
+  const starts = left.map((reviewer): Start => ({ kind: "reviewer", reviewer }))
+  return moved(REVIEWERS, values, starts, false, written)
 }
 
 function fromRecorder(held: Held, recorder: string, recorders: readonly string[]): Advanced {
@@ -353,12 +336,12 @@ export function advanced(
     }
   }
   if (handed.kind === "lore") return fromWorldBuilder(held, handed.lore)
-  if (handed.kind === "beats") return fromGameMaster(held, handed.beats, reviewers)
+  if (handed.kind === "beats") return fromGameMaster(handed.beats)
   if (handed.kind === "review") {
-    return fromReviewer(held, handed.reviewer, handed.issues, reviewers)
+    return fromReviewer(held, handed.reviewer, handed.issues, reviewers, recorders)
   }
   if (handed.kind === "record") return fromRecorder(held, handed.recorder, recorders)
-  return fromWriter(handed.prose, handed.characters, recorders)
+  return fromWriter(held, handed.prose, handed.characters, reviewers, recorders)
 }
 
 export function slugAfter(slug: string): string | null {

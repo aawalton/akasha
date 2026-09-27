@@ -1,6 +1,5 @@
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
-import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import {
   type Landing,
   runMechanicalChange,
@@ -36,7 +35,6 @@ import {
   type Reviewer,
   recorderPrompt,
   reviewerPrompt,
-  writerPrompt,
 } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import {
   noticesSent,
@@ -53,15 +51,17 @@ import {
   advanced,
   bareOf,
   type Caller,
-  flexOf,
   type Handed,
   type Held,
   linesIn,
-  personaOf,
   type Start,
   stepIn,
   type TurnStep,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import {
+  flexOf,
+  personaOf,
+} from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const NAMED = [
@@ -86,6 +86,8 @@ const ISSUES = "issues"
 const REVIEWED_BY = "reviewedBy"
 
 const RECORDED_BY = "recordedBy"
+
+const PROSE = "prose"
 
 const PARTED = "/"
 
@@ -195,6 +197,7 @@ export function heldOf(turn: Turn): Held | { readonly refused: string } {
     issues: stringsIn(turn.value[ISSUES]),
     reviewedBy: stringsIn(turn.value[REVIEWED_BY]).map(bareOf),
     recordedBy: stringsIn(turn.value[RECORDED_BY]).map(bareOf),
+    written: turn.value[PROSE] !== undefined,
   }
 }
 
@@ -204,7 +207,6 @@ type Context = {
   readonly reviewers: readonly Reviewer[]
   readonly recorders: readonly Recorder[]
   readonly prompting: Prompting
-  readonly rulesAt: string
 }
 
 function recorderStarting(recorder: string, persona: string, at: Context): Starting | string {
@@ -219,10 +221,6 @@ function recorderStarting(recorder: string, persona: string, at: Context): Start
 }
 
 function startingOf(start: Start, persona: string, at: Context): Starting | string {
-  if (start.kind === "writer") {
-    const prompt = writerPrompt(at.prompting, at.rulesAt)
-    return { persona, role: writerRole.slug, game: at.game, flex: null, prompt }
-  }
   if (start.kind === "recorder") return recorderStarting(start.recorder, persona, at)
   const found = at.reviewers.find((one) => one.slug === start.reviewer)
   if (found === undefined) return `\`${start.reviewer}\` is no story reviewer page`
@@ -324,7 +322,6 @@ async function advancedOn(
       address: `${storyTurnPlayed.slug}${PARTED}${slug}`,
       calledAs: given.calledAs,
     },
-    rulesAt: reach.rulesAt(given.root),
   }
   const moving = `${slug}\t${held.status}\t${said.status}`
   const report = said.landsKept ? [moving, `landed\t${kept.length} kept edit(s)`] : [moving]

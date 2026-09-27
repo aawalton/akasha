@@ -13,8 +13,11 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A reviewer, writer or recorder seat starts headless, as Alan's, with no seat above it.",
+      statement: "A reviewer or recorder seat starts headless, as Alan's, with no seat above it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice reaches the game's game master, world builder and writer seats.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -21,7 +21,7 @@ export const actionBarAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn made is told to the game's game master and world builder seats.",
+      statement: "A turn made is told to the game's game master, world builder and writer seats.",
     },
     {
       decisionKind: "decision-kind/departure",

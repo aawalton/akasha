@@ -9,6 +9,12 @@ import {
   storyTurnAdvance,
   taken,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
+import {
+  DRAFTED,
+  RECORDERS,
+  REVIEWED,
+  REVIEWERS,
+} from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
 import type {
   Reach,
   Seated,
@@ -35,40 +41,11 @@ const MASTER = "mari-game-master-the-saga"
 
 const BUILDER = "mari-world-builder-the-saga"
 
-const REVIEWERS = [
-  {
-    slug: "continuity",
-    name: "Continuity",
-    at: "reviewers/continuity.story-reviewer.ts",
-    instructionsAt: "reviewers/continuity.story-reviewer.instructions.md",
-  },
-  {
-    slug: "voice",
-    name: "Voice",
-    at: "reviewers/voice.story-reviewer.ts",
-    instructionsAt: "reviewers/voice.story-reviewer.instructions.md",
-  },
-]
+const WRITER = "mari-writer-the-saga"
 
-const RECORDERS = [
-  {
-    slug: "memory",
-    name: "Memory",
-    at: "recorders/memory.story-recorder.ts",
-    instructionsAt: "recorders/memory.story-recorder.instructions.md",
-  },
-  {
-    slug: "cast",
-    name: "Cast",
-    at: "recorders/cast.story-recorder.ts",
-    instructionsAt: "recorders/cast.story-recorder.instructions.md",
-  },
-]
-
-const DRAFTED: readonly FileChange[] = [
-  { kind: "add", path: "lore/a-hall.lore.ts", content: "cast\n" },
-  { kind: "add", path: "lore/the-gate.lore.ts", content: "memory\n" },
-]
+function toldAll(step: TurnStep): string[] {
+  return [MASTER, BUILDER, WRITER].map((to) => `${to}: The turn \`${AT}\` is at ${step}.`)
+}
 
 const GIVEN: Given = { root: ROOT, calledAs: CALLED, from: "", writer: null, agentId: "an-agent" }
 
@@ -140,7 +117,6 @@ function reachOver(
     },
     seatOf: () => seat,
     storyOf: () => ({ title: "The Saga", master: MASTER }),
-    rulesAt: () => "style/style-rule/pages",
     fold: (_root, naming) => {
       into.folded.push(naming)
       return []
@@ -185,47 +161,53 @@ async function advancedBy(
   )
 }
 
-test("the game master's beats land on the turn and start one fresh seat for each reviewer", async () => {
+test("the game master's beats land on the turn and tell the writer, starting no seat", async () => {
   const into = seen()
   const reach = reachOver(turnAt("game-master"), seatOf("game-master", MASTER), into)
   const answer = await advancedBy(["--beats-file", join(ROOT, "beats.txt")], reach)
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
-    turnStatus: `${turnStatus.slug}/reviewers`,
+    turnStatus: `${turnStatus.slug}/writer`,
     beats: ["Mara opens the gate", "The hall is dark"],
   })
   expect(into.folded[0]?.path).toBe(AT)
   expect(into.folded[0]?.merge).toBe(true)
-  expect(into.starts.map((one) => [one.persona, one.role, one.game, one.flex])).toEqual([
-    ["mari", "reviewer", "the-saga", "flex-1"],
-    ["mari", "reviewer", "the-saga", "flex-2"],
-  ])
-  const prompt = into.starts[0]?.prompt ?? ""
-  expect(prompt).toContain(AT)
-  expect(prompt).toContain("reviewers/continuity.story-reviewer.instructions.md")
-  expect(prompt).toContain(
-    `${CALLED} --turn story-turn-played/${SLUG} --reviewer continuity --issues-file <path>`
-  )
-  expect(into.notices).toEqual([
-    `${MASTER}: The turn \`${AT}\` is at reviewers.`,
-    `${BUILDER}: The turn \`${AT}\` is at reviewers.`,
-  ])
+  expect(into.starts).toEqual([])
+  expect(into.notices).toEqual(toldAll("writer"))
   expect(into.stops).toEqual([])
 })
 
-test("the last reviewer's clean review starts the writer and stops the reviewer's seat", async () => {
+test("the last reviewer's clean review starts the recorders and stops the reviewer's seat", async () => {
   const into = seen()
-  const turn = turnAt("reviewers", { reviewedBy: ["story-reviewer/voice"] })
+  const turn = turnAt("reviewers", { reviewedBy: ["story-reviewer/voice"], prose: "txt" })
   const reviewer = "mari-reviewer-the-saga-flex-1"
   const answer = await advancedBy(
     ["--reviewer", "continuity"],
     reachOver(turn, seatOf("reviewer", reviewer), into)
   )
   expect(answer.refusals).toEqual([])
-  expect(into.folded[0]?.values["turnStatus"]).toBe(`${turnStatus.slug}/writer`)
-  expect(into.starts.map((one) => [one.role, one.flex])).toEqual([["writer", null]])
-  expect(into.starts[0]?.prompt).toContain("style/style-rule/pages")
-  expect(into.starts[0]?.prompt).toContain(`--prose-file <path> --character <address>`)
+  expect(into.folded[0]?.values["turnStatus"]).toBe(`${turnStatus.slug}/recorders`)
+  expect(into.folded[0]?.bodies).toBeUndefined()
+  expect(into.starts.map((one) => [one.role, one.flex])).toEqual([
+    ["story-recorder", "flex-2"],
+    ["story-recorder", "flex-1"],
+  ])
+  expect(into.notices).toEqual(toldAll("recorders"))
+  expect(into.stops).toEqual([reviewer])
+})
+
+test("the last reviewer's issues send the turn back to the game master, starting nothing", async () => {
+  const into = seen()
+  const turn = turnAt("reviewers", { reviewedBy: ["story-reviewer/voice"], prose: "txt" })
+  const reviewer = "mari-reviewer-the-saga-flex-1"
+  const answer = await advancedBy(
+    ["--reviewer", "continuity", "--issues-file", join(ROOT, "issues.txt")],
+    reachOver(turn, seatOf("reviewer", reviewer), into)
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.folded[0]?.values["turnStatus"]).toBe(`${turnStatus.slug}/game-master`)
+  expect(into.starts).toEqual([])
+  expect(into.notices).toEqual(toldAll("game-master"))
   expect(into.stops).toEqual([reviewer])
 })
 
@@ -248,12 +230,41 @@ test("a reviewer that is not the last lands its issues, tells nobody and stops i
 
 const WRITTEN = ["--prose-file", join(ROOT, "prose.txt"), "--character", "character-player/mara"]
 
-test("with no story recorder the writer's prose lands beside the turn at the player, and the writer's seat stops", async () => {
+test("the writer's first prose lands beside the turn and starts one fresh seat for each reviewer", async () => {
   const into = seen()
-  const writer = "mari-writer-the-saga"
   const answer = await advancedBy(
     WRITTEN,
-    reachOver(turnAt("writer"), seatOf("writer", writer), into, [])
+    reachOver(turnAt("writer"), seatOf("writer", WRITER), into)
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.folded[0]?.values).toEqual({
+    turnStatus: `${turnStatus.slug}/reviewers`,
+    prose: "txt",
+    ownLength: 4,
+    characters: ["character-player/mara"],
+  })
+  expect(into.folded[0]?.bodies).toEqual({ prose: "Mara opens the gate.\n" })
+  expect(into.starts.map((one) => [one.persona, one.role, one.game, one.flex])).toEqual([
+    ["mari", "reviewer", "the-saga", "flex-1"],
+    ["mari", "reviewer", "the-saga", "flex-2"],
+  ])
+  const prompt = into.starts[0]?.prompt ?? ""
+  expect(prompt).toContain(AT)
+  expect(prompt).toContain("its prose")
+  expect(prompt).toContain("reviewers/continuity.story-reviewer.instructions.md")
+  expect(prompt).toContain(
+    `${CALLED} --turn story-turn-played/${SLUG} --reviewer continuity --issues-file <path>`
+  )
+  expect(into.notices).toEqual(toldAll("reviewers"))
+  expect(into.stops).toEqual([])
+})
+
+test("with no story recorder the writer's prose on a reviewed turn goes to the player, and the writer's seat runs on", async () => {
+  const into = seen()
+  const reviewed = { reviewedBy: REVIEWED }
+  const answer = await advancedBy(
+    WRITTEN,
+    reachOver(turnAt("writer", reviewed), seatOf("writer", WRITER), into, [])
   )
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
@@ -264,15 +275,19 @@ test("with no story recorder the writer's prose lands beside the turn at the pla
   })
   expect(into.folded[0]?.bodies).toEqual({ prose: "Mara opens the gate.\n" })
   expect(into.starts).toEqual([])
-  expect(into.stops).toEqual([writer])
+  expect(into.stops).toEqual([])
 })
 
-test("the writer's prose moves the turn to the recorders and starts one fresh seat for each", async () => {
+test("the writer's rewrite skips the reviewers, moving the turn to the recorders with one fresh seat for each", async () => {
   const into = seen()
-  const writer = "mari-writer-the-saga"
+  const reviewed = {
+    reviewedBy: REVIEWED,
+    issues: ['"opens" - it was locked'],
+    prose: "txt",
+  }
   const answer = await advancedBy(
     WRITTEN,
-    reachOver(turnAt("writer"), seatOf("writer", writer), into),
+    reachOver(turnAt("writer", reviewed), seatOf("writer", WRITER), into),
     landingInto(into)
   )
   expect(answer.refusals).toEqual([])
@@ -289,11 +304,8 @@ test("the writer's prose moves the turn to the recorders and starts one fresh se
   expect(prompt).toContain("recorders/memory.story-recorder.instructions.md")
   expect(prompt).toContain("akasha change apply --draft")
   expect(prompt).toContain(`${CALLED} --turn story-turn-played/${SLUG} --recorder memory`)
-  expect(into.notices).toEqual([
-    `${MASTER}: The turn \`${AT}\` is at recorders.`,
-    `${BUILDER}: The turn \`${AT}\` is at recorders.`,
-  ])
-  expect(into.stops).toEqual([writer])
+  expect(into.notices).toEqual(toldAll("recorders"))
+  expect(into.stops).toEqual([])
 })
 
 const RECORDER_SEAT = "mari-story-recorder-the-saga-flex-1"
@@ -333,10 +345,7 @@ test("the last recorder lands every recorder's kept edits with the move to playe
   })
   expect(into.landings).toEqual([DRAFTED])
   expect(into.releases).toEqual([AT])
-  expect(into.notices).toEqual([
-    `${MASTER}: The turn \`${AT}\` is at player.`,
-    `${BUILDER}: The turn \`${AT}\` is at player.`,
-  ])
+  expect(into.notices).toEqual(toldAll("player"))
   expect(into.stops).toEqual([RECORDER_SEAT])
 })
 

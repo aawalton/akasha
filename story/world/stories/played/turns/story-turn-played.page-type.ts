@@ -12,6 +12,7 @@ export const storyTurnPlayed = {
     "file-property/rolls",
     "module/turn-lifecycle",
     "module/turn-making",
+    "module/turn-seats",
     "page-type/turn-status",
     "relation-property/turn-status",
     "text-property/turn-action",

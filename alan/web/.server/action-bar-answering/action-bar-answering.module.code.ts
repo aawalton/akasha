@@ -32,7 +32,6 @@ import {
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
-  builderOf,
   noticeOf,
   TURN_SENDER,
   WORLD_BUILDER,
@@ -41,6 +40,7 @@ import {
   type TurnMade,
   turnMadeFor,
 } from "akasha/story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts"
+import { noticedOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 
 const CORS_METHODS = "GET, POST, OPTIONS"
 
@@ -272,8 +272,7 @@ async function turnMade(
     console.error(`a turn of ${game} was not made: ${made.why}`)
     return answer({ ok: false, error: NOT_LISTENING }, 503)
   }
-  const builder = builderOf(seat, game)
-  for (const to of builder === null ? [seat] : [seat, builder]) {
+  for (const to of noticedOf(seat, game)) {
     const body = noticeOf(made.at, WORLD_BUILDER)
     const told = await writtenBy(effects, {
       to,

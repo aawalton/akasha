@@ -7,6 +7,7 @@ export const storyTurnAdvance = {
   definition: "the command moving a played turn on from its status, with what that status made",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   parts: [],
   decisions: [
     {
@@ -19,7 +20,8 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn moving tells the game's game master and world builder seats of it.",
+      statement:
+        "A turn moving tells the game's game master, world builder and writer seats of it.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -27,7 +29,7 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn moving into writer starts one fresh seat for the writer.",
+      statement: "A turn moving into writer starts no seat, since its notice reaches the writer.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -53,8 +55,7 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A reviewer's, the writer's or a recorder's seat is stopped once its advance lands.",
+      statement: "A reviewer's or a recorder's seat is stopped once its advance lands.",
     },
     {
       decisionKind: "decision-kind/departure",

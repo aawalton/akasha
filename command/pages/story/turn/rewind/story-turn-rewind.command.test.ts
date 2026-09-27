@@ -33,6 +33,8 @@ const MASTER = "mari-game-master-the-saga"
 
 const BUILDER = "mari-world-builder-the-saga"
 
+const WRITER = "mari-writer-the-saga"
+
 const UNIT = `${unit.slug}/${words.slug}`
 
 const GIVEN: Given = { root: ROOT, calledAs: CALLED, from: "", writer: null, agentId: "an-agent" }
@@ -50,7 +52,7 @@ const SEATS: readonly Seated[] = [
   { name: MASTER, role: "game-master", game: "the-saga" },
   { name: BUILDER, role: "world-builder", game: "the-saga" },
   { name: "mari-reviewer-the-saga-flex-1", role: "reviewer", game: "the-saga" },
-  { name: "mari-writer-the-saga", role: "writer", game: "the-saga" },
+  { name: WRITER, role: "writer", game: "the-saga" },
   { name: "mari-story-recorder-the-saga-flex-1", role: "story-recorder", game: "the-saga" },
   { name: "mari-reviewer-another-flex-1", role: "reviewer", game: "another" },
 ]
@@ -101,7 +103,6 @@ function reachOver(turn: Turn, into: Seen, latest = SLUG): Rewinding {
     },
     seatOf: () => null,
     storyOf: () => ({ title: "The Saga", master: MASTER }),
-    rulesAt: () => "style/style-rule/pages",
     fold: (_root, naming) => {
       into.folded.push(naming)
       return []
@@ -167,17 +168,17 @@ test("a rewind clears which recorders ran and discards the edits they kept besid
   expect(answer.report).toContain("discarded\tthe recorders' kept edits")
 })
 
-test("a rewind stops the game's reviewer, writer and recorder seats and tells its game master and world builder", async () => {
+test("a rewind stops the game's reviewer and recorder seats and tells its game master, world builder and writer", async () => {
   const into = seen()
   await rewoundBy([], reachOver(turnAt({ action: "I open the gate" }), into), into)
   expect(into.stops).toEqual([
     "mari-reviewer-the-saga-flex-1",
-    "mari-writer-the-saga",
     "mari-story-recorder-the-saga-flex-1",
   ])
   expect(into.notices).toEqual([
     `${MASTER}: The turn \`${AT}\` is at world-builder.`,
     `${BUILDER}: The turn \`${AT}\` is at world-builder.`,
+    `${WRITER}: The turn \`${AT}\` is at world-builder.`,
   ])
 })
 
@@ -199,7 +200,7 @@ test("a turn already rewound lands nothing and is told again", async () => {
   expect(answer.refusals).toEqual([])
   expect(into.folded).toEqual([])
   expect(into.asked).toEqual([])
-  expect(into.notices).toHaveLength(2)
+  expect(into.notices).toHaveLength(3)
 })
 
 test("an action file sets the action, trimmed of its trailing lines", async () => {
