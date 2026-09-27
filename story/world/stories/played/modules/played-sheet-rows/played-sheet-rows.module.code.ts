@@ -45,7 +45,7 @@ const LEVEL = "level"
 
 const JOINED = " and "
 
-export type Titles = ReadonlyMap<string, string>
+type Titles = ReadonlyMap<string, string>
 
 export type Skill = {
   readonly name: string
@@ -56,7 +56,7 @@ export type Skill = {
 
 export type Counted = { readonly name: string; readonly value?: number }
 
-export type Scores = {
+type Scores = {
   readonly level?: number
   readonly attributes: Readonly<Record<string, number>>
 }
