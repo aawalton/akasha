@@ -32,6 +32,7 @@ export const temperGear = {
     "page-type/temper-set",
     "page-type/temper-set-category",
     "page-type/temper-set-bonus-step",
+    "page-type/temper-set-rule",
     "page-type/temper-weapon-enchant",
     "page-type/temper-weapon-slot",
     "page-type/temper-weapon-trait",
