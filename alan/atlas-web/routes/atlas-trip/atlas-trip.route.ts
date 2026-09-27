@@ -10,7 +10,7 @@ export const atlasTrip = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A collection stating no title is titled Trip.",
+      statement: "A collection stating no title is named by its slug.",
     },
     {
       decisionKind: "decision-kind/departure",

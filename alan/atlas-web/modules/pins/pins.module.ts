@@ -6,4 +6,10 @@ export const pins = {
   slug: "pins",
   definition: "a location page taken as a pin on a map",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A location with no title is named by its slug.",
+    },
+  ],
 } as const satisfies Module

@@ -480,6 +480,7 @@
 {"propertySlug":"decision-kind","path":"alan/atlas-web/modules/location-batch/location-batch.module.ts","id":"01a06582-6b30-7821-aec9-e664610f024b"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/modules/location-capture-client/location-capture-client.module.ts","id":"01a06582-6b30-7bd3-9a85-c6ccf0abc52e"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/modules/location-capture/location-capture.module.ts","id":"01a06582-6b30-7826-936e-11f37187f8d8"}
+{"propertySlug":"decision-kind","path":"alan/atlas-web/modules/pins/pins.module.ts","id":"01a06582-6b30-7e6b-ba22-c1e3bc1b2900"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-api-locations-ingest/atlas-api-locations-ingest.route.ts","id":"01a0883c-14d1-7a1c-a698-90f866ce6b06"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-api-page-write/atlas-api-page-write.route.ts","id":"01a08838-c84b-70c9-ae34-60620a677571"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-api-places-add/atlas-api-places-add.route.ts","id":"01a0883b-b4dd-7183-8f6a-4afc210a6fc8"}

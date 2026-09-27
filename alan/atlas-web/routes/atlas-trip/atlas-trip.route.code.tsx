@@ -14,6 +14,14 @@ import {
   ItemDescription,
   ItemTitle,
 } from "akasha/design/interface/pattern/modules/item/item.module.code.tsx"
+import { siteNamedIn } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { atlasTripCount } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-count.web-phrase.ts"
+import { atlasTripCountOne } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-count-one.web-phrase.ts"
+import { atlasTripCountSome } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-count-some.web-phrase.ts"
+import { atlasTripEmpty } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-empty.web-phrase.ts"
+import { atlasTripEmptyTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-empty-title.web-phrase.ts"
+import { atlasTripListed } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-listed.web-phrase.ts"
 import { getPageByIdSuffix, getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import type { PageOrder, PageSelect } from "akasha/page/access/modules/types/types.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
@@ -35,8 +43,6 @@ const READ = [COLLECTION_SLUG, STOP_SLUG]
 const STOPS_LIMIT = 1000
 
 const DATE_LENGTH = 10
-
-const NOTHING_NAMES_IT = "A stop is a location naming this collection. Nothing names this one yet."
 
 const STOP_SELECT: PageSelect = ["id", "title", "slug", "address", "scheduledStartAt"]
 
@@ -66,7 +72,7 @@ function detailOf(row: Page): string | null {
 
 function stopsFrom(rows: readonly Page[]): readonly TripStop[] {
   return rows.map((row) => {
-    const title = textIn(row.title) ?? "Untitled location"
+    const title = textIn(row.title) ?? textIn(row.slug) ?? row.id
     return {
       id: row.id,
       title,
@@ -81,9 +87,9 @@ function stopsFrom(rows: readonly Page[]): readonly TripStop[] {
   })
 }
 
-function countSays(shown: number, total: number): string {
-  if (shown < total) return `Showing the first ${shown} of ${total} stops on this trip.`
-  return shown === 1 ? "1 stop on this trip." : `${shown} stops on this trip.`
+function countSlug(shown: number, total: number): string {
+  if (shown < total) return atlasTripCountSome.slug
+  return shown === 1 ? atlasTripCountOne.slug : atlasTripCount.slug
 }
 
 export async function loader({ params }: { params: { tripParam: string } }) {
@@ -99,7 +105,7 @@ export async function loader({ params }: { params: { tripParam: string } }) {
   if (!collection || typeof collection.id !== "string") {
     throw new Response("Not Found", { status: 404 })
   }
-  const tripTitle = typeof collection.title === "string" ? collection.title : "Trip"
+  const tripTitle = textIn(collection.title) ?? textIn(collection.slug) ?? collection.id
 
   const collectionSlug = textIn(collection.slug)
   const found =
@@ -120,13 +126,22 @@ export async function loader({ params }: { params: { tripParam: string } }) {
 
 type TripLoaderData = Awaited<ReturnType<typeof loader>>["data"]
 
-export function meta({ data: loaderData }: { data: TripLoaderData | undefined }) {
-  const title = loaderData?.tripTitle
-  return [{ title: title !== undefined ? `${title} · Atlas` : "Trip · Atlas" }]
+export function meta({
+  data: loaderData,
+  matches,
+}: {
+  data: TripLoaderData | undefined
+  matches: readonly ({ readonly data: unknown } | undefined)[]
+}) {
+  const site = siteNamedIn(matches)
+  const title = loaderData?.tripTitle ?? site
+  if (title === null) return []
+  return [{ title: site === null || title === site ? title : `${title} — ${site}` }]
 }
 
 export default function TripRoute({ loaderData }: { loaderData: TripLoaderData }) {
   useLoaderFollowing(READ)
+  const phrase = usePhrase()
   const { tripTitle, stops, stopCount } = loaderData
   return (
     <PageLayout>
@@ -137,16 +152,20 @@ export default function TripRoute({ loaderData }: { loaderData: TripLoaderData }
         {stops.length === 0 ? (
           <Empty data-testid="atlas-trip-empty">
             <EmptyHeader>
-              <EmptyTitle>No stops on this trip yet</EmptyTitle>
-              <EmptyDescription>{NOTHING_NAMES_IT}</EmptyDescription>
+              <EmptyTitle>{phrase(atlasTripEmptyTitle.slug)}</EmptyTitle>
+              <EmptyDescription>{phrase(atlasTripEmpty.slug)}</EmptyDescription>
             </EmptyHeader>
           </Empty>
         ) : (
           <div className="space-y-3">
             <p className="text-secondary text-sm" data-testid="atlas-trip-count">
-              {countSays(stops.length, stopCount)}
+              {phrase(countSlug(stops.length, stopCount), {
+                shown: stops.length,
+                total: stopCount,
+                count: stops.length,
+              })}
             </p>
-            <ul className="flex flex-col gap-1" aria-label="Stops on this trip">
+            <ul className="flex flex-col gap-1" aria-label={phrase(atlasTripListed.slug)}>
               {stops.map((stop) => (
                 <li key={stop.id}>
                   <Item asChild size="sm">

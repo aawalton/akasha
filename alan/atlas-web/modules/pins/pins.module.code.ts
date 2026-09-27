@@ -23,8 +23,7 @@ export function toPins(rows: readonly Page[]): readonly LocationPin[] {
     if (latitude === null || longitude === null) continue
     const candidate = {
       id: row.id,
-      title:
-        typeof row.title === "string" && row.title.length > 0 ? row.title : "Untitled location",
+      title: typeof row.title === "string" && row.title.length > 0 ? row.title : row.slug,
       latitude,
       longitude,
       address: typeof row.address === "string" && row.address.length > 0 ? row.address : undefined,
