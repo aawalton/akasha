@@ -5,6 +5,8 @@ export const ebonshadow = {
   type: "page-type/temper-motif-style",
   slug: "ebonshadow",
   title: "Ebonshadow",
+  esoItemStyleId: 66,
+  styleName: "Ebonshadow",
   collectionIndex: 43,
   sourceDescription: "Blackfeather Court Tributes (Clockwork City)",
   dropSources: [
