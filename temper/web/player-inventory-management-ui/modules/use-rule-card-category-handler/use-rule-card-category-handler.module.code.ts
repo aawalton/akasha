@@ -1,6 +1,6 @@
 "use client"
 
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
+import type { ItemCategoriesKeyed } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   type CategoryRule,
@@ -15,17 +15,18 @@ export function buildCategorySelectHandler(
   rule: CategoryRule,
   addedFilters: readonly FilterId[],
   setAddedFilters: React.Dispatch<React.SetStateAction<FilterId[]>>,
-  onUpdate: RuleCardOnUpdate
+  onUpdate: RuleCardOnUpdate,
+  categories: ItemCategoriesKeyed
 ): (categoryId: string) => void {
   return function handleCategorySelect(categoryId: string) {
     const prevCategoryId = rule.categoryId
 
     const newEligibility = new Map<FilterId, boolean>()
     for (const filter of INVENTORY_RULE_FILTERS) {
-      newEligibility.set(filter.id, filter.isEligible(categoryId, ITEM_CATEGORY_TREE))
+      newEligibility.set(filter.id, filter.isEligible(categoryId, categories))
     }
     const newTraitFamily =
-      categoryId === ALL_CATEGORIES_ID ? "all" : getTraitFamily(categoryId, ITEM_CATEGORY_TREE)
+      categoryId === ALL_CATEGORIES_ID ? "all" : getTraitFamily(categoryId, categories)
     newEligibility.set("traits", newTraitFamily !== null)
 
     const merged: Partial<NonNullable<CategoryRule["conditions"]>> = {}
@@ -47,7 +48,7 @@ export function buildCategorySelectHandler(
         rule.conditions,
         prevCategoryId,
         categoryId,
-        ITEM_CATEGORY_TREE
+        categories
       )
       if (Object.keys(carried).length === 0) {
         needsConditionUpdate = true

@@ -8,12 +8,12 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getNodeChildren } from "akasha/temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"
+import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { ChevronRight } from "lucide-react"
 
 interface RuleCardCategoryRowProps {
@@ -23,12 +23,13 @@ interface RuleCardCategoryRowProps {
 }
 
 export function RuleCardCategoryRow({ path, deepestChildren, onSelect }: RuleCardCategoryRowProps) {
+  const categories = useItemCategories().keyed
   return (
     <div className="flex flex-wrap items-center gap-1.5">
       {}
       {path.map((node, depth) => {
         const parent = depth > 0 ? path[depth - 1] : undefined
-        const treeChildren = getNodeChildren(parent?.id, ITEM_CATEGORY_TREE)
+        const treeChildren = getNodeChildren(parent?.id, categories)
         const allOption = parent
           ? { id: parent.id, name: `All ${parent.name}` }
           : ALL_CATEGORIES_NODE

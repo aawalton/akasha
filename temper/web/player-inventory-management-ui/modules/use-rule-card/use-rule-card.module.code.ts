@@ -1,6 +1,5 @@
 "use client"
 
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
@@ -23,6 +22,7 @@ import {
   getTraitFamily,
   traitOptionsByFamily,
 } from "akasha/temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts"
+import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import {
   ACTION_OPTIONS,
   NOTHING_ACTION,
@@ -55,22 +55,24 @@ export type RuleCardOnUpdate = (
 ) => void
 
 export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
+  const categories = useItemCategories().keyed
+
   const path = useMemo(
     () =>
       rule.categoryId === ALL_CATEGORIES_ID
         ? [ALL_CATEGORIES_NODE]
         : rule.categoryId !== ""
-          ? getNodePath(rule.categoryId, ITEM_CATEGORY_TREE)
+          ? getNodePath(rule.categoryId, categories)
           : [],
-    [rule.categoryId]
+    [rule.categoryId, categories]
   )
 
   const deepestChildren = useMemo(
     () =>
       rule.categoryId === ALL_CATEGORIES_ID
-        ? getNodeChildren(undefined, ITEM_CATEGORY_TREE)
-        : getNodeChildren(rule.categoryId !== "" ? rule.categoryId : undefined, ITEM_CATEGORY_TREE),
-    [rule.categoryId]
+        ? getNodeChildren(undefined, categories)
+        : getNodeChildren(rule.categoryId !== "" ? rule.categoryId : undefined, categories),
+    [rule.categoryId, categories]
   )
 
   const traitFamily = useMemo(
@@ -78,9 +80,9 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
       rule.categoryId === ALL_CATEGORIES_ID
         ? "all"
         : rule.categoryId !== ""
-          ? getTraitFamily(rule.categoryId, ITEM_CATEGORY_TREE)
+          ? getTraitFamily(rule.categoryId, categories)
           : "all",
-    [rule.categoryId]
+    [rule.categoryId, categories]
   )
 
   const traitOptions = useMemo(
@@ -119,13 +121,13 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
     const map = new Map<FilterId, boolean>()
     for (const filter of INVENTORY_RULE_FILTERS) {
       const categoryEligible =
-        rule.categoryId === "" || filter.isEligible(rule.categoryId, ITEM_CATEGORY_TREE)
+        rule.categoryId === "" || filter.isEligible(rule.categoryId, categories)
       const actionEligible = !filter.isEligibleForAction || filter.isEligibleForAction(rule.action)
       map.set(filter.id, categoryEligible && actionEligible)
     }
     map.set("traits", traitFamily !== null)
     return map
-  }, [rule.categoryId, rule.action, traitFamily])
+  }, [rule.categoryId, rule.action, traitFamily, categories])
 
   const showFilter = useMemo(() => {
     const map = new Map<FilterId, boolean>()
@@ -182,7 +184,8 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
     rule,
     addedFilters,
     setAddedFilters,
-    onUpdate
+    onUpdate,
+    categories
   )
   const handleActionChange = buildActionChangeHandler(rule, addedFilters, setAddedFilters, onUpdate)
 
