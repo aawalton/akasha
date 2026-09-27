@@ -257,6 +257,14 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "The fifth small bookworm feeds about thirty feet out from the back steps, where the big one lies.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Once the fourth is dried, the heap holds salt enough for one more small bookworm, and barely.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Further back in the gloom beyond the columns, wet chewing still goes on.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
