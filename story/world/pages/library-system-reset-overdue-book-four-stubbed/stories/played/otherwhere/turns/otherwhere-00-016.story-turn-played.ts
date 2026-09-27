@@ -4,6 +4,7 @@ export const otherwhere00016 = {
   id: "01a0e49b-fab5-73e0-be55-1578042475a5",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-016",
+  cover: "image/image-1925c2eaa0521926",
   ownLength: 160,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -14,7 +15,7 @@ export const otherwhere00016 = {
     "character-other/otherwhere-links",
     "character-other/otherwhere-engorged-bookworm-01",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I keep it there until it stops moving",
   beats: [
     "She keeps her weight on it and holds it down in the salt.",
@@ -29,5 +30,5 @@ export const otherwhere00016 = {
   ],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

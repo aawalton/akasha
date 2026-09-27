@@ -276,6 +276,18 @@ export const otherwhereMainHall = {
       fact: "The pinned bookworm's teeth caught Nala's forearm, a shallow stinging scrape.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Held in the salt, the first small bookworm dried into a hard grey coil, alive but helpless.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "As the first bookworm dried still, the hall's gold light brightened a shade.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
