@@ -54,11 +54,23 @@ export const theDatingGameAlan = {
     },
     {
       fact: "Alan has total aphantasia and no experiential memory, so he feels ageless.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
     {
       fact: "Alan is autistic, and as a child he was always much too old for his age.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "As a kid Alan was a really weird kid, always much too old for his age.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-other/the-dating-game-echo",
+        "character-player/the-dating-game-alan",
+      ],
     },
   ],
 } as const satisfies Lore
