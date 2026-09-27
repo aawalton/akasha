@@ -68,6 +68,22 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The break room's door opens off the hall's left side, partway back along the columns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The salt box is heavy, near twenty pounds, but she can carry it hugged in both arms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The break room's cupboards also hold chipped mugs, a dented tin scoop and a small bucket.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Engorged bookworms go on feeding until a Librarian comes within about twenty feet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
