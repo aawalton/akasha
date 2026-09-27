@@ -191,6 +191,10 @@ export const otherwhereCoreChamber = {
       fact: "Since Alan laid both hands on its knots, the trunk's veins burn a steady blue all the way up.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "The chamber is the Library's control center, beneath the main hall, and Links calls it a basement.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
