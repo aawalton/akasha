@@ -173,5 +173,6 @@ export const pageService = {
     "module/select-refusing",
     "module/where-testing",
     "module/page-incrementing",
+    "module/read-settling",
   ],
 } as const satisfies ServiceWorkstation

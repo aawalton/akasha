@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"git/modules/holding/holding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"git/modules/store-sweeping/git-store-sweeping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"page/modules/secret/page-secret.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"git-place.module.code.ts","path":"page/service/modules/read-settling/read-settling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"git-place.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"file/file.domain.ts","id":"01a049e9-651c-7004-a164-c9c8df818b18"}
