@@ -6282,6 +6282,11 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/skill-slot-card/skill-slot-card.module.ts","id":"01a0642c-5bae-7b7b-bebc-f37e1800336e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/skills-panel/skills-panel.module.ts","id":"01a0642c-5baf-76da-97a7-2f5fa510dec7"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/star-selection-dialog/star-selection-dialog.module.ts","id":"01a06432-b190-70ca-8fae-defba6b87018"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/stat-changes-description/stat-changes-description.module.ts","id":"01a0642c-5b9e-7e2d-900f-e5523b61154d"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/stat-explanation-dialog/stat-explanation-dialog.module.ts","id":"01a0642c-5bbc-747d-b3cb-8b0bd17e3786"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/stats-header-panel-card/stats-header-panel-card.module.ts","id":"01a0642c-5bb8-7455-ab8c-419f976e678b"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/stats-panel/stats-panel.module.ts","id":"01a0642c-5bbd-7439-bf0b-b3a865e8b977"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/stats-toolbar/stats-toolbar.module.ts","id":"01a0642c-5bb9-7cc8-9782-2ee1c065d7b4"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.ts","id":"01a06421-f74b-7c10-81f6-98e711570037"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/tab-defaults/tab-defaults.module.ts","id":"01a0640f-850f-70cf-af93-e19e03bde002"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.ts","id":"01a06429-76ff-706c-b325-038f0e4a4fb7"}

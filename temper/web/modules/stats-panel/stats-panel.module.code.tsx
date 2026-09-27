@@ -33,6 +33,14 @@ import { StatsHeaderPanelCard } from "akasha/temper/web/modules/stats-header-pan
 import type { StatsRecord } from "akasha/temper/web/modules/stats-types/stats-types.module.code.ts"
 import { useStatsCalculation } from "akasha/temper/web/modules/use-stats-calculation/use-stats-calculation.module.code.ts"
 import { useStatsUIState } from "akasha/temper/web/modules/use-stats-ui-state/use-stats-ui-state.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { statsPanelDefensive } from "akasha/temper/web/phrase/pages/stats-panel-defensive.temper-web-phrase.ts"
+import { statsPanelNoMatch } from "akasha/temper/web/phrase/pages/stats-panel-no-match.temper-web-phrase.ts"
+import { statsPanelNoResults } from "akasha/temper/web/phrase/pages/stats-panel-no-results.temper-web-phrase.ts"
+import { statsPanelOffensive } from "akasha/temper/web/phrase/pages/stats-panel-offensive.temper-web-phrase.ts"
+import { statsPanelResources } from "akasha/temper/web/phrase/pages/stats-panel-resources.temper-web-phrase.ts"
+import { statsPanelSelfBuffs } from "akasha/temper/web/phrase/pages/stats-panel-self-buffs.temper-web-phrase.ts"
+import { statsPanelTargetDebuffs } from "akasha/temper/web/phrase/pages/stats-panel-target-debuffs.temper-web-phrase.ts"
 import { Search } from "lucide-react"
 import { useCallback, useState } from "react"
 
@@ -53,6 +61,7 @@ export function StatsPanel({
 }: StatsPanelProps) {
   const [searchFilter, setSearchFilter] = useState("")
   const tree = metricTree()
+  const phrase = usePhrase()
 
   const { frontStats, backStats, frontSources, backSources, isLoading } = useStatsCalculation(build)
 
@@ -144,9 +153,24 @@ export function StatsPanel({
           onShowAdvancedMetricsChange={() => {}}
           className={className}
         />
-        <PanelCardSkeleton collapsible={false} rows={3} className={className} title="Resources" />
-        <PanelCardSkeleton collapsible={false} rows={3} className={className} title="Offensive" />
-        <PanelCardSkeleton collapsible={false} rows={3} className={className} title="Defensive" />
+        <PanelCardSkeleton
+          collapsible={false}
+          rows={3}
+          className={className}
+          title={phrase(statsPanelResources.slug)}
+        />
+        <PanelCardSkeleton
+          collapsible={false}
+          rows={3}
+          className={className}
+          title={phrase(statsPanelOffensive.slug)}
+        />
+        <PanelCardSkeleton
+          collapsible={false}
+          rows={3}
+          className={className}
+          title={phrase(statsPanelDefensive.slug)}
+        />
       </div>
     )
   }
@@ -182,8 +206,10 @@ export function StatsPanel({
           <EmptyMedia variant="icon">
             <Search />
           </EmptyMedia>
-          <EmptyTitle>No results found</EmptyTitle>
-          <EmptyDescription>No stats match &quot;{searchFilter}&quot;</EmptyDescription>
+          <EmptyTitle>{phrase(statsPanelNoResults.slug)}</EmptyTitle>
+          <EmptyDescription>
+            {phrase(statsPanelNoMatch.slug, { search: searchFilter })}
+          </EmptyDescription>
         </EmptyHeader>
       </Empty>
     )
@@ -210,7 +236,7 @@ export function StatsPanel({
       <EffectsPanelCard
         key="self-buffs"
         id="self-buffs"
-        cardTitle="Self Buffs"
+        cardTitle={phrase(statsPanelSelfBuffs.slug)}
         effectCategory="buffs"
         sources={activeSources}
         searchTerm={searchFilter}
@@ -223,7 +249,7 @@ export function StatsPanel({
       <EffectsPanelCard
         key="target-debuffs"
         id="target-debuffs"
-        cardTitle="Target Debuffs"
+        cardTitle={phrase(statsPanelTargetDebuffs.slug)}
         effectCategory="debuffs"
         sources={activeSources}
         searchTerm={searchFilter}

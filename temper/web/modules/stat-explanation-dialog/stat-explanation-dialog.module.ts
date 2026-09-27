@@ -6,4 +6,10 @@ export const statExplanationDialog = {
   slug: "stat-explanation-dialog",
   definition: "the dialog explaining a stat",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

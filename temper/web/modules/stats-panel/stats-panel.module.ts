@@ -6,4 +6,10 @@ export const statsPanel = {
   slug: "stats-panel",
   definition: "the panel with a character's stats",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

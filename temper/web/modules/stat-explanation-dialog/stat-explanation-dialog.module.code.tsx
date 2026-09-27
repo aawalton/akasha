@@ -19,6 +19,8 @@ import { metricToDisplayFormula } from "akasha/temper/player/character/stat/modu
 import type { MetricValue } from "akasha/temper/player/character/stat/modules/metric-value/metric-value.module.code.ts"
 import { getMetricDisplayName } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
 import { FormulaDisplay } from "akasha/temper/web/modules/formula-display/formula-display.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { statExplanationDialogNoFormula } from "akasha/temper/web/phrase/pages/stat-explanation-dialog-no-formula.temper-web-phrase.ts"
 
 interface StatExplanationDialogProps {
   open: boolean
@@ -36,6 +38,7 @@ export function StatExplanationDialog({
   allStats,
 }: StatExplanationDialogProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
 
   if (!metric) {
     return null
@@ -61,7 +64,9 @@ export function StatExplanationDialog({
             {displayFormula ? (
               <FormulaDisplay formula={displayFormula} />
             ) : (
-              <Text>{formatStatValue(metric)} (no formula)</Text>
+              <Text>
+                {phrase(statExplanationDialogNoFormula.slug, { value: formatStatValue(metric) })}
+              </Text>
             )}
           </div>
         </DialogBody>

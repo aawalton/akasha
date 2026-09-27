@@ -6,4 +6,10 @@ export const statsHeaderPanelCard = {
   slug: "stats-header-panel-card",
   definition: "a panel card heading a character's stats",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

@@ -5,6 +5,9 @@ import {
 } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { MetricChange } from "akasha/temper/player/character/stat/modules/compare-stats/compare-stats.module.code.ts"
 import { getMetricDisplayName } from "akasha/temper/player/character/stat/modules/metrics/metrics.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { statChangesDescriptionAdded } from "akasha/temper/web/phrase/pages/stat-changes-description-added.temper-web-phrase.ts"
+import { statChangesDescriptionRemoved } from "akasha/temper/web/phrase/pages/stat-changes-description-removed.temper-web-phrase.ts"
 import { Minus, Plus, TrendingDown, TrendingUp } from "lucide-react"
 
 export interface StatChangeNotification {
@@ -32,6 +35,7 @@ function formatDelta(delta: number, metric: MetricChange["metric"]): string {
 }
 
 function BuffChangeRow({ buffId, isAdded }: { buffId: BuffOrDebuffId; isAdded: boolean }) {
+  const phrase = usePhrase()
   const buffData = buffOrDebuff().data[buffId]
   const name = buffData?.name ?? buffId
 
@@ -46,7 +50,7 @@ function BuffChangeRow({ buffId, isAdded }: { buffId: BuffOrDebuffId; isAdded: b
         <span className="text-secondary text-xs">{name}</span>
       </div>
       <span className={`font-medium text-xs ${isAdded ? "text-green" : "text-red"}`}>
-        {isAdded ? "Added" : "Removed"}
+        {phrase(isAdded ? statChangesDescriptionAdded.slug : statChangesDescriptionRemoved.slug)}
       </span>
     </div>
   )

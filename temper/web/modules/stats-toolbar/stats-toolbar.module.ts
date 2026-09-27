@@ -6,4 +6,10 @@ export const statsToolbar = {
   slug: "stats-toolbar",
   definition: "the toolbar a character's stats carry",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
