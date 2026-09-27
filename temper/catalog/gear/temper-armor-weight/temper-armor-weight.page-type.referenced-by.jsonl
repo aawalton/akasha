@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.ts","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids-keeping/gear-kind-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-weight.page-type.ts","path":"temper/items/filters/core/modules/search-armor-weight-filter/search-armor-weight-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.types.ts","path":"temper/catalog/gear/temper-armor-weight/pages/heavy/heavy.temper-armor-weight.ts","typed":true,"deferred":false}
@@ -8,5 +9,6 @@
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.types.ts","path":"temper/catalog/gear/temper-armor-weight/pages/medium/medium.temper-armor-weight.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.types.ts","path":"temper/catalog/gear/temper-armor-weight/pages/no-weight/no-weight.temper-armor-weight.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.types.ts","path":"temper/catalog/gear/temper-armor-weight/pages/shield/shield.temper-armor-weight.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-weight.page-type.types.ts","path":"temper/items/filters/core/modules/search-armor-weight-filter/search-armor-weight-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-weight.page-type.types.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}

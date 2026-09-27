@@ -4,7 +4,7 @@ export const searchArmorWeightFilter = {
   id: "01a0613a-e0a5-73ad-8749-ca689469fc54",
   type: "page-type/module",
   slug: "search-armor-weight-filter",
-  definition: "the armor weight of an item, narrowed by a multiselect of light, medium, and heavy",
+  definition: "the armor weight of an item, narrowed by a multiselect of the armor weight pages",
   code: "ts",
   decisions: [
     {
@@ -15,6 +15,11 @@ export const searchArmorWeightFilter = {
     {
       decisionKind: "decision-kind/departure",
       statement: "An item with no armor type fails a non-empty selection.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The options are written into the addon from the armor weight pages as it compiles.",
     },
   ],
 } as const satisfies Module
