@@ -61,15 +61,19 @@ export const otherwhereMainHall = {
     },
     {
       fact: "A short passage behind the Counter leads to the quarters, a snug wood-panelled room.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Under a dust sheet the Librarian's bed is clean, soft and wide.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "At night the Library dims its lights to a low amber, and brightens them again for morning.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala slept her first night in the quarters, and woke to the smell of fresh bread.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Awake again, the kitchen bakes a little on its own, and fresh bread is ready by morning.",
