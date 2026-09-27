@@ -6,4 +6,10 @@ export const consumablesPanelCard = {
   slug: "consumables-panel-card",
   definition: "a panel card with a character's consumables",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

@@ -24,8 +24,64 @@ import {
   MundusSelectDialog,
 } from "akasha/temper/web/modules/mundus-select-dialog/mundus-select-dialog.module.code.tsx"
 import { PotionSelectDialog } from "akasha/temper/web/modules/potion-select-dialog/potion-select-dialog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { consumablesPanelCardFoodDrink } from "akasha/temper/web/phrase/pages/consumables-panel-card-food-drink.temper-web-phrase.ts"
+import { consumablesPanelCardMundusStone } from "akasha/temper/web/phrase/pages/consumables-panel-card-mundus-stone.temper-web-phrase.ts"
+import { consumablesPanelCardNoFoodDrink } from "akasha/temper/web/phrase/pages/consumables-panel-card-no-food-drink.temper-web-phrase.ts"
+import { consumablesPanelCardNoMundus } from "akasha/temper/web/phrase/pages/consumables-panel-card-no-mundus.temper-web-phrase.ts"
+import { consumablesPanelCardNoPotion } from "akasha/temper/web/phrase/pages/consumables-panel-card-no-potion.temper-web-phrase.ts"
+import { consumablesPanelCardPotion } from "akasha/temper/web/phrase/pages/consumables-panel-card-potion.temper-web-phrase.ts"
+import { consumablesPanelCardPotionSecond } from "akasha/temper/web/phrase/pages/consumables-panel-card-potion-second.temper-web-phrase.ts"
+import { consumablesPanelCardReagentCombinations } from "akasha/temper/web/phrase/pages/consumables-panel-card-reagent-combinations.temper-web-phrase.ts"
+import { consumablesPanelCardTitle } from "akasha/temper/web/phrase/pages/consumables-panel-card-title.temper-web-phrase.ts"
+import { consumablesPanelCardViewReagents } from "akasha/temper/web/phrase/pages/consumables-panel-card-view-reagents.temper-web-phrase.ts"
 import { Info } from "lucide-react"
 import { useState } from "react"
+
+function ReagentPopover({ potionId }: { readonly potionId: PotionId }) {
+  const phrase = usePhrase()
+  const potion = potions().data[potionId]
+  if (!potion) return null
+  if (!("reagents" in potion)) return null
+  const reagents = potion.reagents
+  if (!reagents || reagents.length === 0) return null
+  return (
+    <Popover>
+      <PopoverTrigger asChild>
+        <Button
+          variant="tertiary"
+          size="icon"
+          className="h-9 w-9 shrink-0"
+          title={phrase(consumablesPanelCardViewReagents.slug)}
+        >
+          <Info className="h-4 w-4 text-tertiary" />
+        </Button>
+      </PopoverTrigger>
+      <PopoverContent align="end" className="w-fit">
+        <div className="space-y-3">
+          <h4 className="font-medium text-sm">
+            {phrase(consumablesPanelCardReagentCombinations.slug)}
+          </h4>
+          <div className="space-y-4">
+            {reagents.map((combination, index) => (
+              <div key={index} className="flex gap-1">
+                {combination.map((reagent) => (
+                  <Badge
+                    key={reagent}
+                    variant="elevation"
+                    className="whitespace-nowrap font-normal text-xs"
+                  >
+                    {reagent}
+                  </Badge>
+                ))}
+              </div>
+            ))}
+          </div>
+        </div>
+      </PopoverContent>
+    </Popover>
+  )
+}
 
 interface ConsumablesPanelCardProps {
   consumables: {
@@ -48,6 +104,7 @@ export function ConsumablesPanelCard({
   className,
   readOnly,
 }: ConsumablesPanelCardProps) {
+  const phrase = usePhrase()
   const [isPotionDialogOpen, setIsPotionDialogOpen] = useState(false)
   const [isPotion2DialogOpen, setIsPotion2DialogOpen] = useState(false)
   const [isFoodDrinkDialogOpen, setIsFoodDrinkDialogOpen] = useState(false)
@@ -61,126 +118,59 @@ export function ConsumablesPanelCard({
 
   return (
     <>
-      <InputPanelCard id="consumables" collapsible={true} title="Consumables" className={className}>
-        <InputPanelCard.Row label="Mundus Stone">
+      <InputPanelCard
+        id="consumables"
+        collapsible={true}
+        title={phrase(consumablesPanelCardTitle.slug)}
+        className={className}
+      >
+        <InputPanelCard.Row label={phrase(consumablesPanelCardMundusStone.slug)}>
           <FilterableSelectTrigger
             onClick={() => setIsMundusDialogOpen(true)}
             className="w-full min-w-0 max-w-[240px]"
             disabled={readOnly}
           >
-            <span className="truncate">{selectedMundus?.name ?? "No Mundus"}</span>
+            <span className="truncate">
+              {selectedMundus?.name ?? phrase(consumablesPanelCardNoMundus.slug)}
+            </span>
           </FilterableSelectTrigger>
         </InputPanelCard.Row>
 
-        <InputPanelCard.Row label="Food / Drink">
+        <InputPanelCard.Row label={phrase(consumablesPanelCardFoodDrink.slug)}>
           <FilterableSelectTrigger
             onClick={() => setIsFoodDrinkDialogOpen(true)}
             className="w-full min-w-0 max-w-[240px]"
             disabled={readOnly}
           >
-            <span className="truncate">{selectedFoodDrink?.name ?? "No Food or Drink"}</span>
+            <span className="truncate">
+              {selectedFoodDrink?.name ?? phrase(consumablesPanelCardNoFoodDrink.slug)}
+            </span>
           </FilterableSelectTrigger>
         </InputPanelCard.Row>
 
-        <InputPanelCard.Row label="Potion">
-          {(() => {
-            const potion = heldPotions.data[consumables.potion]
-            if (!potion) return null
-            if (!("reagents" in potion)) return null
-            const reagents = potion.reagents
-            if (!reagents || reagents.length === 0) return null
-            return (
-              <Popover>
-                <PopoverTrigger asChild>
-                  <Button
-                    variant="tertiary"
-                    size="icon"
-                    className="h-9 w-9 shrink-0"
-                    title="View reagent combinations"
-                  >
-                    <Info className="h-4 w-4 text-tertiary" />
-                  </Button>
-                </PopoverTrigger>
-                <PopoverContent align="end" className="w-fit">
-                  <div className="space-y-3">
-                    <h4 className="font-medium text-sm">Reagent Combinations</h4>
-                    <div className="space-y-4">
-                      {reagents.map((combination, index) => (
-                        <div key={index} className="flex gap-1">
-                          {combination.map((reagent) => (
-                            <Badge
-                              key={reagent}
-                              variant="elevation"
-                              className="whitespace-nowrap font-normal text-xs"
-                            >
-                              {reagent}
-                            </Badge>
-                          ))}
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                </PopoverContent>
-              </Popover>
-            )
-          })()}
+        <InputPanelCard.Row label={phrase(consumablesPanelCardPotion.slug)}>
+          <ReagentPopover potionId={consumables.potion} />
           <FilterableSelectTrigger
             onClick={() => setIsPotionDialogOpen(true)}
             className="w-full min-w-0 max-w-[240px]"
             disabled={readOnly}
           >
-            <span className="truncate">{selectedPotion?.name ?? "No Potion"}</span>
+            <span className="truncate">
+              {selectedPotion?.name ?? phrase(consumablesPanelCardNoPotion.slug)}
+            </span>
           </FilterableSelectTrigger>
         </InputPanelCard.Row>
 
-        <InputPanelCard.Row label="Potion 2">
-          {(() => {
-            const potion2 = heldPotions.data[consumables.potion2]
-            if (!potion2) return null
-            if (!("reagents" in potion2)) return null
-            const reagents = potion2.reagents
-            if (!reagents || reagents.length === 0) return null
-            return (
-              <Popover>
-                <PopoverTrigger asChild>
-                  <Button
-                    variant="tertiary"
-                    size="icon"
-                    className="h-9 w-9 shrink-0"
-                    title="View reagent combinations"
-                  >
-                    <Info className="h-4 w-4 text-tertiary" />
-                  </Button>
-                </PopoverTrigger>
-                <PopoverContent align="end" className="w-fit">
-                  <div className="space-y-3">
-                    <h4 className="font-medium text-sm">Reagent Combinations</h4>
-                    <div className="space-y-4">
-                      {reagents.map((combination, index) => (
-                        <div key={index} className="flex gap-1">
-                          {combination.map((reagent) => (
-                            <Badge
-                              key={reagent}
-                              variant="elevation"
-                              className="whitespace-nowrap font-normal text-xs"
-                            >
-                              {reagent}
-                            </Badge>
-                          ))}
-                        </div>
-                      ))}
-                    </div>
-                  </div>
-                </PopoverContent>
-              </Popover>
-            )
-          })()}
+        <InputPanelCard.Row label={phrase(consumablesPanelCardPotionSecond.slug)}>
+          <ReagentPopover potionId={consumables.potion2} />
           <FilterableSelectTrigger
             onClick={() => setIsPotion2DialogOpen(true)}
             className="w-full min-w-0 max-w-[240px]"
             disabled={readOnly}
           >
-            <span className="truncate">{selectedPotion2?.name ?? "No Potion"}</span>
+            <span className="truncate">
+              {selectedPotion2?.name ?? phrase(consumablesPanelCardNoPotion.slug)}
+            </span>
           </FilterableSelectTrigger>
         </InputPanelCard.Row>
       </InputPanelCard>
