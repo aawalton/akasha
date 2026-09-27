@@ -7,7 +7,10 @@ import type {
   ShoppingPlan,
   TaggedListing,
 } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
-import { kioskLocationName } from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
+import {
+  type KioskNames,
+  kioskLocationName,
+} from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
 import {
   TTC_AGO,
   type TTCListingClient,
@@ -141,6 +144,7 @@ function selectCheapestWithConsolidation(
 export async function optimizeShopping(
   client: TTCListingClient,
   items: readonly ShoppingItem[],
+  kioskNames: KioskNames,
   options?: ShoppingOptimizerOptions
 ): Promise<ShoppingPlan> {
   const ago = options?.ago ?? TTC_AGO.Hours6
@@ -217,7 +221,7 @@ export async function optimizeShopping(
   const locations = [...locationCounts.keys()].sort((a, b) => {
     const diff = (locationCounts.get(b) ?? 0) - (locationCounts.get(a) ?? 0)
     if (diff !== 0) return diff
-    return kioskLocationName(a).localeCompare(kioskLocationName(b))
+    return kioskLocationName(kioskNames, a).localeCompare(kioskLocationName(kioskNames, b))
   })
 
   const selectedIDs = new Set(purchases.map((p) => p.listing.ID))

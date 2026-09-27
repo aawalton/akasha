@@ -10,6 +10,7 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { companionTraits } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"
 import { kioskLocationName } from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
+import { useKioskNames } from "akasha/temper/web/modules/use-kiosk-names/use-kiosk-names.module.code.tsx"
 import { formatGold } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { LocationPurchase } from "akasha/temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { ChevronRight } from "lucide-react"
@@ -42,6 +43,7 @@ export function ShoppingNextLocationPanelCard({
   onNotAvailable,
   onAdvance,
 }: ShoppingNextLocationPanelCardProps) {
+  const kioskNames = useKioskNames()
   const allGuildNames = locationPurchases.map((g) => g.guildName)
   const guildKey = useMemo(() => allGuildNames.join("\0"), [locationPurchases])
   const [expandedGuilds, setExpandedGuilds] = useState<Set<string>>(() => new Set(allGuildNames))
@@ -58,7 +60,7 @@ export function ShoppingNextLocationPanelCard({
       id="shopping-next-location"
       collapsible
       defaultOpen
-      title={kioskLocationName(location)}
+      title={kioskLocationName(kioskNames, location)}
       headerSubtitle={
         <CardTitleBadges>
           <ButtonBadge

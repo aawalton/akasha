@@ -319,6 +319,8 @@ export const temperWeb = {
     "module/use-rule-templates",
     "module/keyed-titles-gate",
     "module/use-keyed-titles",
+    "module/kiosk-names-loading",
+    "module/use-kiosk-names",
     "module/metric-catalog-gate",
     "module/use-metric-catalog",
     "module/skill-catalog-gate",

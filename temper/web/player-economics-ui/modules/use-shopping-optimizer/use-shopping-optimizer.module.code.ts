@@ -5,6 +5,7 @@ import type {
   PurchaseRecommendation,
   ShoppingItem,
 } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import { useKioskNames } from "akasha/temper/web/modules/use-kiosk-names/use-kiosk-names.module.code.tsx"
 import {
   pinLocationIndex,
   recomputeLocations,
@@ -51,6 +52,10 @@ export function useShoppingOptimizer(
   const [state, setState] = useState<OptimizerState>(
     () => loadCachedRoute(notAvailable.userId) ?? IDLE_STATE
   )
+
+  const kioskNames = useKioskNames()
+  const kioskNamesRef = useRef(kioskNames)
+  kioskNamesRef.current = kioskNames
 
   const abortRef = useRef<AbortController | null>(null)
 
@@ -207,7 +212,7 @@ export function useShoppingOptimizer(
         const purchase = prev.plan.purchases.find((p) => p.key === key)
         const unitPrice = purchase?.unitPrice ?? 0
         const purchases = prev.plan.purchases.filter((p) => p.key !== key)
-        const locations = recomputeLocations(purchases)
+        const locations = recomputeLocations(purchases, kioskNamesRef.current)
         const totalCost = purchases.reduce((sum, p) => sum + p.unitPrice, 0)
         const currentLocationIndex = pinLocationIndex(pinnedLocation, locations)
         const locationCleared = pinnedLocation !== undefined && !locations.includes(pinnedLocation)
@@ -255,7 +260,7 @@ export function useShoppingOptimizer(
             : [...prev.plan.missingItems, key]
         }
 
-        const locations = recomputeLocations(purchases)
+        const locations = recomputeLocations(purchases, kioskNamesRef.current)
         const totalCost = purchases.reduce((sum, p) => sum + p.unitPrice, 0)
         const currentLocationIndex = pinLocationIndex(pinnedLocation, locations)
 

@@ -6324,6 +6324,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/keyboard-shortcuts-page-content/keyboard-shortcuts-page-content.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/kiosk-names-loading/kiosk-names-loading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/known-issues-methodology/known-issues-methodology.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/leaderboard-columns/leaderboard-columns.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/lore-library-panel-card/lore-library-panel-card.module.ts","typed":true,"deferred":false}
@@ -6425,6 +6426,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-filtered-builds/use-filtered-builds.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-kiosk-names/use-kiosk-names.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-partner-build-url/use-partner-build-url.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-passive-filter/use-passive-filter.module.ts","typed":true,"deferred":false}

@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/modules/kiosk-names-loading/kiosk-names-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/routes/_app-layout.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/routes/character-versions/character-versions.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/web/routes/companion-versions/companion-versions.route.code.ts","typed":false,"deferred":false}

@@ -1,6 +1,7 @@
 import { optimizeShopping } from "akasha/temper/economy/shopping/modules/ttc-shopping-optimizer/ttc-shopping-optimizer.module.code.ts"
 import type { ShoppingItem } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { TTC_AGO } from "akasha/temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
+import { loadKioskNames } from "akasha/temper/web/modules/kiosk-names-loading/kiosk-names-loading.module.code.ts"
 import { createTTCListingClient } from "akasha/temper/web/modules/ttc-listing-client/ttc-listing-client.module.code.ts"
 
 const ttcClient = createTTCListingClient()
@@ -43,7 +44,8 @@ export async function action({ request }: { request: Request }): Promise<Respons
       }
 
       try {
-        const plan = await optimizeShopping(ttcClient, items, {
+        const kioskNames = await loadKioskNames()
+        const plan = await optimizeShopping(ttcClient, items, kioskNames, {
           ago: TTC_AGO.Hours6,
           maxPagesPerItem: 3,
           onSearchProgress: (completed, total) => {

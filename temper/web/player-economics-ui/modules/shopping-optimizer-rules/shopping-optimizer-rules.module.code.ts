@@ -1,8 +1,12 @@
 import type { PurchaseRecommendation } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
-import { kioskLocationName } from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
+import {
+  type KioskNames,
+  kioskLocationName,
+} from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
 
 export function recomputeLocations(
-  purchases: readonly PurchaseRecommendation[]
+  purchases: readonly PurchaseRecommendation[],
+  kioskNames: KioskNames
 ): readonly string[] {
   const counts = new Map<string, number>()
   for (const p of purchases) {
@@ -12,7 +16,7 @@ export function recomputeLocations(
   return [...counts.keys()].sort((a, b) => {
     const diff = (counts.get(b) ?? 0) - (counts.get(a) ?? 0)
     if (diff !== 0) return diff
-    return kioskLocationName(a).localeCompare(kioskLocationName(b))
+    return kioskLocationName(kioskNames, a).localeCompare(kioskLocationName(kioskNames, b))
   })
 }
 

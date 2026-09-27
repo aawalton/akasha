@@ -9,6 +9,7 @@ import { companionTraits } from "akasha/temper/catalog/companion/companions-core
 import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"
 import type { PurchaseRecommendation } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { kioskLocationName } from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
+import { useKioskNames } from "akasha/temper/web/modules/use-kiosk-names/use-kiosk-names.module.code.tsx"
 import { formatGold } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { LocationSummary } from "akasha/temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { Fragment, useMemo, useState } from "react"
@@ -55,6 +56,7 @@ export function ShoppingRouteOverviewPanelCard({
   missingItems,
   spentTotal,
 }: ShoppingRouteOverviewPanelCardProps) {
+  const kioskNames = useKioskNames()
   const [collapsedLocations, setCollapsedLocations] = useState<Set<string>>(new Set())
   const [collapsedGuilds, setCollapsedGuilds] = useState<Set<string>>(new Set())
   const [missingExpanded, setMissingExpanded] = useState(false)
@@ -165,9 +167,11 @@ export function ShoppingRouteOverviewPanelCard({
               <ItemRow
                 label={
                   locIndex === currentLocationIndex ? (
-                    kioskLocationName(loc.location)
+                    kioskLocationName(kioskNames, loc.location)
                   ) : (
-                    <span className="text-tertiary">{kioskLocationName(loc.location)}</span>
+                    <span className="text-tertiary">
+                      {kioskLocationName(kioskNames, loc.location)}
+                    </span>
                   )
                 }
                 quantity={summary.itemCount}

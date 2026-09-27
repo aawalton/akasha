@@ -6033,6 +6033,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/import-result/import-result.module.ts","id":"01a0640f-8510-79d2-a33e-1cfc18d185ee"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.ts","id":"01a06432-b190-70c9-b375-374e6c886d6a"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.ts","id":"01a0e0a0-2424-7003-ad9b-86cbf222b843"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/kiosk-names-loading/kiosk-names-loading.module.ts","id":"01a0e0b5-f996-7000-99ed-1f1b5400201e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.ts","id":"01a0de73-1714-784a-96bf-19fa89a27ce0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.ts","id":"01a0d8c0-ee3f-7d46-8a94-09141a86ca9b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-reading/mine-row-reading.module.ts","id":"01a0d8d0-d4ed-7067-9018-4e495b5cba65"}
@@ -6060,6 +6061,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.ts","id":"01a0640f-8510-7768-9aee-350974e45eea"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.ts","id":"01a0e0a0-2424-7002-ba1d-fa31bcb70e5b"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-kiosk-names/use-kiosk-names.module.ts","id":"01a0e0b5-f996-7001-9bab-93d329240b99"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.ts","id":"01a0de73-1714-7025-882f-ddee0054b5c9"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-player/use-player.module.ts","id":"01a06354-4b4b-79cd-a3ce-5867c52ff199"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-recipe-catalog/use-recipe-catalog.module.ts","id":"01a0de64-3221-76c6-b047-3d627aa593b5"}

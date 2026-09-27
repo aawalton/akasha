@@ -27,5 +27,9 @@ export const ttcShoppingOptimizer = {
       decisionKind: "decision-kind/departure",
       statement: "An item no listing answers comes back among the missing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Kiosks holding as many purchases are ordered by the names the caller hands in.",
+    },
   ],
 } as const satisfies Module
