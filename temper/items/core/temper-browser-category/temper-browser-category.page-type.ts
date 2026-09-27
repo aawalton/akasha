@@ -6,10 +6,49 @@ export const temperBrowserCategory = {
   slug: "temper-browser-category",
   definition: "a category or subfilter the addon's item browser sorts items under",
   extends: ["page-type/temper-thing"],
-  parts: ["relation-property/browser-category-parent"],
+  parts: [
+    "relation-property/browser-category-parent",
+    "select-property/browser-match",
+    "multi-relation-property/browser-item-types",
+    "multi-relation-property/browser-specialized-item-types",
+    "multi-relation-property/browser-weapon-types",
+    "multi-relation-property/browser-armor-weights",
+    "multi-relation-property/browser-equip-types",
+  ],
   properties: [
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "relation-property/browser-category-parent", required: false, many: false },
+    { pageProperty: "select-property/browser-match", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/browser-item-types",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/browser-specialized-item-types",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/browser-weapon-types",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/browser-armor-weights",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
+    {
+      pageProperty: "multi-relation-property/browser-equip-types",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {

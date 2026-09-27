@@ -20,3 +20,4 @@
 {"propertySlug":"import","fileName":"temper-weapon-type.page-type.types.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-type.page-type.types.ts","path":"temper/items/filters/core/modules/search-weapon-type-filter/search-weapon-type-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
+{"propertySlug":"target-page-type","path":"temper/items/core/temper-browser-category/properties/browser-weapon-types.multi-relation-property.ts","id":"01a0e11e-6894-7680-aa8e-e1e42184f449"}

@@ -127,6 +127,7 @@
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-player-equipment-constant/properties/constant-family.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/catalog/skill/temper-script/properties/slot-type.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/catalog/thing/properties/slotted-behavior.select-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/items/core/temper-browser-category/properties/browser-match.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/character-build/properties/build-visibility.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/companion-build/properties/base-roles.select-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"select-property.page-type.types.ts","path":"temper/player/character/temper-account/properties/platform.select-property.ts","typed":true,"deferred":false}

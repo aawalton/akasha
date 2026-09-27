@@ -1,5 +1,10 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-poison-effect","unique":null,"uniquePropertySlug":null,"slug":"alchemy-effects","propertySlug":"alchemy-effects","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"graph-attribute","unique":null,"uniquePropertySlug":null,"slug":"attributes","propertySlug":"attributes","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-armor-weight","unique":null,"uniquePropertySlug":null,"slug":"browser-armor-weights","propertySlug":"armor-weights","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-equip-type","unique":null,"uniquePropertySlug":null,"slug":"browser-equip-types","propertySlug":"equip-types","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-item-type","unique":null,"uniquePropertySlug":null,"slug":"browser-item-types","propertySlug":"item-types","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-specialized-item-type","unique":null,"uniquePropertySlug":null,"slug":"browser-specialized-item-types","propertySlug":"specialized-item-types","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-weapon-type","unique":null,"uniquePropertySlug":null,"slug":"browser-weapon-types","propertySlug":"weapon-types","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"router-app","unique":null,"uniquePropertySlug":null,"slug":"carried-to","propertySlug":"carried-to","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-character-role","unique":null,"uniquePropertySlug":null,"slug":"character-roles","propertySlug":"roles","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"characters","propertySlug":"characters","fileName":null,"folderName":null}
