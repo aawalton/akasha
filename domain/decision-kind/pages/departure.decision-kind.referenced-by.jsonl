@@ -6342,6 +6342,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/pricing-region-note/pricing-region-note.module.ts","id":"01a0636c-5d9b-78f4-ba33-e3faa97e0037"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/pricing-source-note/pricing-source-note.module.ts","id":"01a0636c-5d9b-7f84-8400-1cfae15e0039"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-action-filter-select/rule-action-filter-select.module.ts","id":"01a0636c-5d9b-78f5-a696-1e40eeec003b"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.ts","id":"01a0636c-5d9b-7a86-a917-068ac844003c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-action-row/rule-card-action-row.module.ts","id":"01a0636c-5d9b-7ced-ac2b-1712d9b2003d"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-controlled-conditions/rule-card-controlled-conditions.module.ts","id":"01a0636c-5d9b-75a6-9606-38540c960042"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-format/rule-card-destination-format.module.ts","id":"01a0636c-5d9b-71fc-ab4b-253da6d40046"}

@@ -22,6 +22,20 @@ import {
 import { ScrollArea } from "akasha/design/interface/primitive/modules/scroll-area/scroll-area.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { ruleBulkActionBadgeCancel } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-cancel.temper-web-phrase.ts"
+import { ruleBulkActionBadgeDelete } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-delete.temper-web-phrase.ts"
+import { ruleBulkActionBadgeDeleteBodyMany } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-delete-body-many.temper-web-phrase.ts"
+import { ruleBulkActionBadgeDeleteBodyOne } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-delete-body-one.temper-web-phrase.ts"
+import { ruleBulkActionBadgeDeleteRule } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-delete-rule.temper-web-phrase.ts"
+import { ruleBulkActionBadgeDeleteRules } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-delete-rules.temper-web-phrase.ts"
+import { ruleBulkActionBadgeDeleteTitleMany } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-delete-title-many.temper-web-phrase.ts"
+import { ruleBulkActionBadgeDeleteTitleOne } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-delete-title-one.temper-web-phrase.ts"
+import { ruleBulkActionBadgeLock } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-lock.temper-web-phrase.ts"
+import { ruleBulkActionBadgeSetActive } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-set-active.temper-web-phrase.ts"
+import { ruleBulkActionBadgeSetInactive } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-set-inactive.temper-web-phrase.ts"
+import { ruleBulkActionBadgeShow } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-show.temper-web-phrase.ts"
+import { ruleBulkActionBadgeUnlock } from "akasha/temper/web/phrase/pages/rule-bulk-action-badge-unlock.temper-web-phrase.ts"
 import type { VariantProps } from "class-variance-authority"
 import { useState } from "react"
 
@@ -53,7 +67,10 @@ export function RuleBulkActionBadge({
   onDelete,
 }: RuleBulkActionBadgeProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const [showDeleteDialog, setShowDeleteDialog] = useState(false)
+  const one = count === 1
+  const deleteFills = { count, status: label.toLowerCase() }
 
   return (
     <>
@@ -64,19 +81,37 @@ export function RuleBulkActionBadge({
           </ButtonBadge>
         </DropdownMenuTrigger>
         <DropdownMenuContent align="start">
-          {onShow && <DropdownMenuItem onClick={onShow}>Show</DropdownMenuItem>}
+          {onShow && (
+            <DropdownMenuItem onClick={onShow}>
+              {phrase(ruleBulkActionBadgeShow.slug)}
+            </DropdownMenuItem>
+          )}
           {onShow && (onSetActive || onSetInactive || onLock || onUnlock || onDelete) && (
             <DropdownMenuSeparator />
           )}
-          {onSetActive && <DropdownMenuItem onClick={onSetActive}>Set Active</DropdownMenuItem>}
-          {onSetInactive && (
-            <DropdownMenuItem onClick={onSetInactive}>Set Inactive</DropdownMenuItem>
+          {onSetActive && (
+            <DropdownMenuItem onClick={onSetActive}>
+              {phrase(ruleBulkActionBadgeSetActive.slug)}
+            </DropdownMenuItem>
           )}
-          {onLock && <DropdownMenuItem onClick={onLock}>Lock</DropdownMenuItem>}
-          {onUnlock && <DropdownMenuItem onClick={onUnlock}>Unlock</DropdownMenuItem>}
+          {onSetInactive && (
+            <DropdownMenuItem onClick={onSetInactive}>
+              {phrase(ruleBulkActionBadgeSetInactive.slug)}
+            </DropdownMenuItem>
+          )}
+          {onLock && (
+            <DropdownMenuItem onClick={onLock}>
+              {phrase(ruleBulkActionBadgeLock.slug)}
+            </DropdownMenuItem>
+          )}
+          {onUnlock && (
+            <DropdownMenuItem onClick={onUnlock}>
+              {phrase(ruleBulkActionBadgeUnlock.slug)}
+            </DropdownMenuItem>
+          )}
           {onDelete && (
             <DropdownMenuItem variant="destructive" onClick={() => setShowDeleteDialog(true)}>
-              Delete
+              {phrase(ruleBulkActionBadgeDelete.slug)}
             </DropdownMenuItem>
           )}
         </DropdownMenuContent>
@@ -87,13 +122,22 @@ export function RuleBulkActionBadge({
           <AlertDialogContent>
             <AlertDialogHeader>
               <AlertDialogTitle>
-                Delete {count} {label} {count === 1 ? "Rule" : "Rules"}?
+                {phrase(
+                  one
+                    ? ruleBulkActionBadgeDeleteTitleOne.slug
+                    : ruleBulkActionBadgeDeleteTitleMany.slug,
+                  { count, status: label }
+                )}
               </AlertDialogTitle>
               <AlertDialogDescription asChild>
                 <div className="space-y-3 text-secondary text-sm">
                   <div>
-                    This will permanently delete {count} {label.toLowerCase()}{" "}
-                    {count === 1 ? "rule" : "rules"}. This action cannot be undone.
+                    {phrase(
+                      one
+                        ? ruleBulkActionBadgeDeleteBodyOne.slug
+                        : ruleBulkActionBadgeDeleteBodyMany.slug,
+                      deleteFills
+                    )}
                   </div>
                   {ruleDescriptions && ruleDescriptions.length > 0 && (
                     <ScrollArea className="max-h-[20vh]">
@@ -113,9 +157,11 @@ export function RuleBulkActionBadge({
             </AlertDialogHeader>
             <AlertDialogFooter>
               <AlertDialogAction variant="destructive" onClick={onDelete}>
-                Delete {count === 1 ? "Rule" : "Rules"}
+                {phrase(
+                  one ? ruleBulkActionBadgeDeleteRule.slug : ruleBulkActionBadgeDeleteRules.slug
+                )}
               </AlertDialogAction>
-              <AlertDialogCancel>Cancel</AlertDialogCancel>
+              <AlertDialogCancel>{phrase(ruleBulkActionBadgeCancel.slug)}</AlertDialogCancel>
             </AlertDialogFooter>
           </AlertDialogContent>
         </AlertDialog>

@@ -6,4 +6,10 @@ export const ruleBulkActionBadge = {
   slug: "rule-bulk-action-badge",
   definition: "the badge setting an action across many rules",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The badge's menu and delete dialog are worded by web phrase pages.",
+    },
+  ],
 } as const satisfies Module
