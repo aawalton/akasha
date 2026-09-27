@@ -80,6 +80,10 @@ export const otherwhereAlan = {
       fact: "Alan's socks sag past her heels.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "The Library's information packet failed to load into her, so she knows nothing of the Library.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
