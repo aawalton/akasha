@@ -11,5 +11,10 @@ export const locationFilter = {
       decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `location` condition alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Worn and backpack are named by bag pages, every other location by location type pages.",
+    },
   ],
 } as const satisfies Module

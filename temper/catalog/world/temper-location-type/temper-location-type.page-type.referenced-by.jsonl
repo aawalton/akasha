@@ -1,9 +1,11 @@
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/addon/pages/items/modules/inventory-location-order/inventory-location-order.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/items/rules/core/modules/location-filter/location-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-format/rule-card-destination-format.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-selection-chips/rule-card-filter-chips-item-selection-chips.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/rule-location-filter-select/rule-location-filter-select.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/web/routes/inventory/inventory.route.code.tsx","typed":false,"deferred":false}

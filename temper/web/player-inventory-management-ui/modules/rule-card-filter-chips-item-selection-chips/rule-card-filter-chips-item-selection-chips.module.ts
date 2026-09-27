@@ -6,4 +6,10 @@ export const ruleCardFilterChipsItemSelectionChips = {
   slug: "rule-card-filter-chips-item-selection-chips",
   definition: "the item chips a reader chooses from a list",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The location chips are named from the location type and bag pages.",
+    },
+  ],
 } as const satisfies Module

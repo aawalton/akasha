@@ -5,6 +5,7 @@
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/items/core/modules/location-classify/location-classify.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/items/rules/core/modules/location-filter/location-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-helpers/inventory-management-plan-route-helpers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts","typed":true,"deferred":false}

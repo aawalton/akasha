@@ -6,4 +6,10 @@ export const useRuleCardConditionHandlers = {
   slug: "use-rule-card-condition-handlers",
   definition: "what a reader's change to a rule's condition does",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A location is kept only where the location filter lists its value.",
+    },
+  ],
 } as const satisfies Module

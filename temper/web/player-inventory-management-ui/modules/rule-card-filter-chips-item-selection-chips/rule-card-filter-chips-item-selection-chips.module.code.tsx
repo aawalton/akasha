@@ -8,10 +8,13 @@ import {
   PopoverTrigger,
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import { LOCATION_OPTIONS } from "akasha/temper/items/rules/core/modules/location-filter/location-filter.module.code.ts"
+import { temperBag } from "akasha/temper/catalog/world/temper-bag/temper-bag.page-type.ts"
+import { temperLocationType } from "akasha/temper/catalog/world/temper-location-type/temper-location-type.page-type.ts"
+import { locationOptions } from "akasha/temper/items/rules/core/modules/location-filter/location-filter.module.code.ts"
 import { setSourceTypeOptions } from "akasha/temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import type { RuleCardState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
-import type { ReactNode } from "react"
+import { type ReactNode, useMemo } from "react"
 
 interface TraitsChipProps {
   state: Pick<
@@ -108,6 +111,9 @@ interface LocationChipProps {
 
 export function LocationChip({ state }: LocationChipProps): ReactNode {
   const { selectedLocationItems, handleLocationChange, handleRemoveFilter } = state
+  const places = useKeyedTitles(temperLocationType.slug)
+  const bags = useKeyedTitles(temperBag.slug)
+  const options = useMemo(() => locationOptions(), [places, bags])
 
   return (
     <Popover>
@@ -131,7 +137,7 @@ export function LocationChip({ state }: LocationChipProps): ReactNode {
           Locations
         </Text>
         <BadgeToggleGroup
-          items={LOCATION_OPTIONS}
+          items={options}
           value={selectedLocationItems}
           onSelect={handleLocationChange}
           unselectedVariant="elevation"

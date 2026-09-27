@@ -1,3 +1,9 @@
+import { temperBag } from "akasha/temper/catalog/world/temper-bag/temper-bag.page-type.ts"
+import { temperLocationType } from "akasha/temper/catalog/world/temper-location-type/temper-location-type.page-type.ts"
+import {
+  heldKeyedTitles,
+  titleOf,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { InventoryLocationConditionId } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
@@ -5,16 +11,30 @@ import type {
   InventoryRuleFilter,
 } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 
-export const LOCATION_OPTIONS: readonly FilterOption[] = [
-  { value: "worn", label: "Worn (Equipped)" },
-  { value: "backpack", label: "Backpack" },
-  { value: "bank", label: "Bank" },
-  { value: "craftbag", label: "Craft Bag" },
-  { value: "housing-storage", label: "Housing Storage" },
-  { value: "house", label: "House" },
-  { value: "companion", label: "Companion (Equipped)" },
-  { value: "guild", label: "Guild Bank" },
-] satisfies readonly { value: InventoryLocationConditionId; label: string }[]
+const LOCATION_TITLED_BY: readonly {
+  value: InventoryLocationConditionId
+  pageTypeSlug: string
+}[] = [
+  { value: "worn", pageTypeSlug: temperBag.slug },
+  { value: "backpack", pageTypeSlug: temperBag.slug },
+  { value: "bank", pageTypeSlug: temperLocationType.slug },
+  { value: "craftbag", pageTypeSlug: temperLocationType.slug },
+  { value: "housing-storage", pageTypeSlug: temperLocationType.slug },
+  { value: "house", pageTypeSlug: temperLocationType.slug },
+  { value: "companion", pageTypeSlug: temperLocationType.slug },
+  { value: "guild", pageTypeSlug: temperLocationType.slug },
+]
+
+export const LOCATION_VALUES: readonly InventoryLocationConditionId[] = LOCATION_TITLED_BY.map(
+  (one) => one.value
+)
+
+export function locationOptions(): readonly FilterOption[] {
+  return LOCATION_TITLED_BY.map(({ value, pageTypeSlug }) => {
+    const titles = heldKeyedTitles(pageTypeSlug)
+    return { value, label: titles === null ? value : titleOf(titles, value) }
+  })
+}
 
 const read = (c: CategoryRule["conditions"]) =>
   c?.location && c.location.length > 0 ? c.location : undefined

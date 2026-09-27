@@ -4,7 +4,7 @@ import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules
 import type { InventoryLocationConditionId } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
 import type { ComparisonOpId } from "akasha/temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { LOCATION_OPTIONS } from "akasha/temper/items/rules/core/modules/location-filter/location-filter.module.code.ts"
+import { LOCATION_VALUES } from "akasha/temper/items/rules/core/modules/location-filter/location-filter.module.code.ts"
 import type { RequiredCurseStateCondition } from "akasha/temper/items/rules/core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import type {
   RequiredSkillLinesCondition,
@@ -42,7 +42,7 @@ export function useConditionHandlers(
   }
 
   function handleLocationChange(selected: readonly BadgeToggleGroupItem[]) {
-    const validIds = new Set(LOCATION_OPTIONS.map((o) => o.value))
+    const validIds = new Set<string>(LOCATION_VALUES)
     const ids = selected
       .map((s) => s.value)
       .filter((v): v is InventoryLocationConditionId => validIds.has(v))

@@ -14,7 +14,7 @@ import {
   getNodeChildren,
   getNodePath,
 } from "akasha/temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"
-import { LOCATION_OPTIONS } from "akasha/temper/items/rules/core/modules/location-filter/location-filter.module.code.ts"
+import { locationOptions } from "akasha/temper/items/rules/core/modules/location-filter/location-filter.module.code.ts"
 import { INVENTORY_RULE_FILTERS } from "akasha/temper/items/rules/core/modules/rule-filter-registry/rule-filter-registry.module.code.ts"
 import type { FilterId } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { setSourceTypeOptions } from "akasha/temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"
@@ -109,12 +109,8 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
     return setSourceTypeOptions().filter((opt) => types.includes(opt.value))
   }, [rule.conditions?.setSourceTypes, setCatalogRead])
 
-  const selectedLocationItems = useMemo(() => {
-    const location = rule.conditions?.location
-    if (!location || location.length === 0) return []
-    const selected = new Set<string>(location)
-    return LOCATION_OPTIONS.filter((opt) => selected.has(opt.value))
-  }, [rule.conditions?.location])
+  const chosenLocations = new Set<string>(rule.conditions?.location ?? [])
+  const selectedLocationItems = locationOptions().filter((opt) => chosenLocations.has(opt.value))
 
   const [addedFilters, setAddedFilters] = useState<FilterId[]>(() => {
     const initial: FilterId[] = []

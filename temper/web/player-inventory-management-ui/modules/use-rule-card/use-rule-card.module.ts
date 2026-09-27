@@ -11,5 +11,10 @@ export const useRuleCard = {
       decisionKind: "decision-kind/departure",
       statement: "The trait and set source options are read again whenever their catalogue is.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Chosen locations are named from the location type and bag pages, read again as they change.",
+    },
   ],
 } as const satisfies Module
