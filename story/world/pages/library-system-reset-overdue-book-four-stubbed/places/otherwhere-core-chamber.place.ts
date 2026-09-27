@@ -129,7 +129,7 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "A Librarian syncs with the core by laying both hands on the trunk, shoulder-width apart.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Walking toward the trunk, it seemed to come no closer, until all at once it was right there.",
