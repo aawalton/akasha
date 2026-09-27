@@ -6,4 +6,10 @@ export const pricingRegionNote = {
   slug: "pricing-region-note",
   definition: "the note saying a price's region",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The note's wording and its settings link are read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

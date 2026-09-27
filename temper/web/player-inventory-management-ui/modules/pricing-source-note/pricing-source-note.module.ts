@@ -6,4 +6,10 @@ export const pricingSourceNote = {
   slug: "pricing-source-note",
   definition: "the note naming a price's source",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each note is read whole from a web phrase page's description.",
+    },
+  ],
 } as const satisfies Module
