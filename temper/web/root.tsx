@@ -30,6 +30,13 @@ import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surfa
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+import { rootDocumentDescription } from "akasha/temper/web/phrase/pages/root-document-description.temper-web-phrase.ts"
+import { rootDocumentTitle } from "akasha/temper/web/phrase/pages/root-document-title.temper-web-phrase.ts"
+import { rootErrorDetails } from "akasha/temper/web/phrase/pages/root-error-details.temper-web-phrase.ts"
+import { rootErrorStatus } from "akasha/temper/web/phrase/pages/root-error-status.temper-web-phrase.ts"
+import { rootErrorTitle } from "akasha/temper/web/phrase/pages/root-error-title.temper-web-phrase.ts"
+import { rootGoHome } from "akasha/temper/web/phrase/pages/root-go-home.temper-web-phrase.ts"
+import { rootNotFoundDetails } from "akasha/temper/web/phrase/pages/root-not-found-details.temper-web-phrase.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect } from "react"
 import {
@@ -68,8 +75,8 @@ export const links: LinksFunction = () => [
 ]
 
 export const meta: MetaFunction = () => [
-  { title: "Temper | The Ultimate ESO Build Editor & Optimizer" },
-  { name: "description", content: "The Elder Scrolls Online Build Planner" },
+  { title: rootDocumentTitle.title },
+  { name: "description", content: rootDocumentDescription.title },
 ]
 
 export async function loader({ request }: LoaderFunctionArgs<AppLoadContext>) {
@@ -127,15 +134,15 @@ export default function App() {
 export function ErrorBoundary({ error }: { error: unknown }) {
   useReportRenderError(error, "temper")
 
-  let message = "Oops!"
-  let details = "An unexpected error occurred."
+  let message: string = rootErrorTitle.title
+  let details: string = rootErrorDetails.title
   let stack: string | undefined
 
   if (isRouteErrorResponse(error)) {
-    message = error.status === 404 ? "404" : "Error"
+    message = error.status === 404 ? "404" : rootErrorStatus.title
     details =
       error.status === 404
-        ? "The requested page could not be found."
+        ? rootNotFoundDetails.title
         : error.statusText !== ""
           ? error.statusText
           : details
@@ -156,7 +163,7 @@ export function ErrorBoundary({ error }: { error: unknown }) {
         </EmptyHeader>
         <EmptyContent>
           <Button asChild>
-            <a href="/">Go to Home</a>
+            <a href="/">{rootGoHome.title}</a>
           </Button>
         </EmptyContent>
       </Empty>

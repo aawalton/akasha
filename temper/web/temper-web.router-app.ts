@@ -379,4 +379,11 @@ export const temperWeb = {
     "module/version-history-item",
     "module/companion-weapons-after-change",
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The root route reads its title and error wording from web phrase pages it imports.",
+    },
+  ],
 } as const satisfies RouterApp
