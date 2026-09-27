@@ -19,5 +19,10 @@ export const companionsDataContent = {
       decisionKind: "decision-kind/departure",
       statement: "A companion's progress page is found by the address of the companion's page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The builds are decoded and ranked again whenever the companion or stat catalogue is read again.",
+    },
   ],
 } as const satisfies Module

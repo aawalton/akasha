@@ -27,8 +27,10 @@ import {
   ownerIdOf,
   useAccountAddress,
 } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { usePlanEntities } from "akasha/temper/web/modules/use-companion-plan-entities/use-companion-plan-entities.module.code.ts"
 import { useFilteredBuilds } from "akasha/temper/web/modules/use-filtered-builds/use-filtered-builds.module.code.ts"
+import { useHeldMetricCatalog } from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
 import { usePlanSetTarget } from "akasha/temper/web/modules/use-plan-set-target/use-plan-set-target.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef } from "react"
@@ -122,6 +124,9 @@ export function CompanionsDataContent({
     visibleCountRef.current = count
   }, [])
 
+  const companionCatalogRead = useHeldCompanionCatalog()
+  const metricCatalogRead = useHeldMetricCatalog()
+
   const decodedBuilds = useMemo(() => {
     return builds.map((build) => {
       const metadata = build.buildMetadata
@@ -138,7 +143,7 @@ export function CompanionsDataContent({
         buildData,
       }
     })
-  }, [builds, accountPage, userId])
+  }, [builds, accountPage, userId, companionCatalogRead, metricCatalogRead])
 
   const planRankingsMap = useMemo(
     () => buildRankingsMap(decodedBuilds, null, null, null),
