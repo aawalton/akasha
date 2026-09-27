@@ -5,6 +5,8 @@ export const ancestralBreton = {
   type: "page-type/temper-motif-style",
   slug: "ancestral-breton",
   title: "Ancestral Breton",
+  esoItemStyleId: 109,
+  styleName: "Ancestral Breton",
   collectionIndex: 78,
   sourceDescription: "Treasure maps and antiquities (High Isle)",
 } as const satisfies TemperMotifStyle
