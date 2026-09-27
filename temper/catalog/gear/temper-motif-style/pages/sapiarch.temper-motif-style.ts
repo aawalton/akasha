@@ -5,6 +5,8 @@ export const sapiarch = {
   type: "page-type/temper-motif-style",
   slug: "sapiarch",
   title: "Sapiarch",
+  esoItemStyleId: 72,
+  styleName: "Sapiarch",
   collectionIndex: 48,
   sourceDescription: "Divine Prosecution dailies (Summerset)",
   dropSources: [
