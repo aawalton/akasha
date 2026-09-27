@@ -29,6 +29,7 @@ import { itemRuleActionHandlers } from "akasha/temper/web/player-inventory-manag
 import { ItemRuleCardDialogs } from "akasha/temper/web/player-inventory-management-ui/modules/item-rule-card-dialogs/item-rule-card-dialogs.module.code.tsx"
 import { ItemRuleCardHeader } from "akasha/temper/web/player-inventory-management-ui/modules/item-rule-card-header/item-rule-card-header.module.code.tsx"
 import { RuleCardDestinationChain } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-destination-chain/rule-card-destination-chain.module.code.tsx"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import { StockScopeSelect } from "akasha/temper/web/player-inventory-management-ui/modules/stock-scope-select/stock-scope-select.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import { memo, useEffect, useState } from "react"
@@ -64,6 +65,7 @@ export const ItemRuleCard = memo(
     const actionOption = ACTION_OPTIONS.find((o) => o.value === displayAction) ?? NOTHING_ACTION
     const actionTitles = useKeyedTitles(temperItemAction.slug)
     const venues = useKeyedTitles(temperVenue.slug)
+    const phrases = useRuleCardPhrases()
     const isActive = rule.active !== false
     const [optimisticLocked, setOptimisticLocked] = useState(rule.locked === true)
     useEffect(() => {
@@ -207,7 +209,10 @@ export const ItemRuleCard = memo(
                               : "Switch to cascading destinations"
                           }
                         >
-                          {useChain ? "Single destination" : "Cascading destinations"}
+                          {titleIn(
+                            phrases,
+                            useChain ? "single-destination" : "cascading-destinations"
+                          )}
                         </ButtonBadge>
                       </>
                     )}

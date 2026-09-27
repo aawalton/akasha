@@ -38,6 +38,7 @@ import { CompanionTargetSelect } from "akasha/temper/web/player-inventory-manage
 import { DeconstructScopeSelect } from "akasha/temper/web/player-inventory-management-ui/modules/deconstruct-scope-select/deconstruct-scope-select.module.code.tsx"
 import { DestinationCascade } from "akasha/temper/web/player-inventory-management-ui/modules/destination-cascade/destination-cascade.module.code.tsx"
 import { RuleCardDestinationChain } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-destination-chain/rule-card-destination-chain.module.code.tsx"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import { StockScopeSelect } from "akasha/temper/web/player-inventory-management-ui/modules/stock-scope-select/stock-scope-select.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
 import { ChevronRight } from "lucide-react"
@@ -85,6 +86,7 @@ export function RuleCardActionRow({
   )
   const actionTitles = useKeyedTitles(temperItemAction.slug)
   const venues = useKeyedTitles(temperVenue.slug)
+  const phrases = useRuleCardPhrases()
   const nothingSentinel = {
     value: NOTHING_ACTION.value,
     label: titleIn(actionTitles, NOTHING_ACTION.value),
@@ -182,7 +184,7 @@ export function RuleCardActionRow({
               useChain ? "Switch to single destination" : "Switch to cascading destinations"
             }
           >
-            {useChain ? "Single destination" : "Cascading destinations"}
+            {titleIn(phrases, useChain ? "single-destination" : "cascading-destinations")}
           </ButtonBadge>
         )}
 

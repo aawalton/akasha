@@ -12,5 +12,9 @@ export const ruleCardActionRow = {
       statement:
         "Action, sell destination and bank labels are read from item action and venue pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The destination toggle is worded by rule card phrases.",
+    },
   ],
 } as const satisfies Module

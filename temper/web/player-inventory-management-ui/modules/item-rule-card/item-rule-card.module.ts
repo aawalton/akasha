@@ -11,5 +11,9 @@ export const itemRuleCard = {
       decisionKind: "decision-kind/departure",
       statement: "Action and sell destination labels are read from item action and venue pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The destination toggle is worded by rule card phrases.",
+    },
   ],
 } as const satisfies Module
