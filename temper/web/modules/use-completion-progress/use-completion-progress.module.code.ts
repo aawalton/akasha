@@ -7,7 +7,6 @@ import {
   characterCompletionSchema,
   companionCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import type {
   AccountSummaryData,
   CharacterSummaryData,
@@ -25,6 +24,7 @@ import { useAccountAddress } from "akasha/temper/web/modules/use-account-address
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useCompletionBodies } from "akasha/temper/web/modules/use-completion-bodies/use-completion-bodies.module.code.ts"
 import { useCompletionCatalogs } from "akasha/temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.code.ts"
+import { useHeldLoreLibrary } from "akasha/temper/web/modules/use-lore-library/use-lore-library.module.code.tsx"
 import {
   useAccountCompletion,
   useAccountCompletionByUser,
@@ -40,6 +40,12 @@ const COMPANION_TYPE = "temper-companion-progress"
 const ACCOUNT_TYPE = "temper-account"
 const OWNER_KEY = "accountPage"
 const ACCOUNT_OWNER_KEY = "key"
+const UNGATED =
+  "the completion progress counts against the lore library — draw it inside `LoreLibraryGate`"
+
+function ungated(): never {
+  throw new Error(UNGATED)
+}
 
 interface CompletionProgressData {
   accountProgress: AccountProgressData
@@ -93,6 +99,7 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
   const skillCatalogRead = heldSkillCatalog()
   const setCatalogRead = heldSetCatalog()
   const companionCatalogRead = useHeldCompanionCatalog()
+  const loreLibrary = useHeldLoreLibrary() ?? ungated()
 
   const rows = useMemo(
     () =>
@@ -139,7 +146,7 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
       companionQuestProgress,
       companionRapportProgress,
       catalogs,
-      loreLibrary: LORE_LIBRARY_DATA,
+      loreLibrary,
     })
 
   const { accountProgress, accountSummary } = useAccountProgress({
