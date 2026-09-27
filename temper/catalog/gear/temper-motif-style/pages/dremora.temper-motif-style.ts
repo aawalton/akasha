@@ -5,6 +5,8 @@ export const dremora = {
   type: "page-type/temper-motif-style",
   slug: "dremora",
   title: "Dremora",
+  esoItemStyleId: 74,
+  styleName: "Dremora",
   collectionIndex: 50,
   sourceDescription: "Witches Festival event",
 } as const satisfies TemperMotifStyle
