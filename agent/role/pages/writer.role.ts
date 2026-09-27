@@ -4,15 +4,51 @@ export const writer = {
   id: "01a0debc-6739-78f9-980f-5b2633b9f9d1",
   type: "page-type/role",
   slug: "writer",
-  definition: "an agent that writes one played turn's prose from its beats",
-  onCall: false,
+  definition: "an agent that writes each played turn's prose from its beats",
+  onCall: true,
   directives: [
     {
       directiveKind: "directive-kind/rule",
       name: "The Beats Are The Turn",
       act: "Write every beat, in order, and no event the beats don't hold.",
-      warrant: "The beats passed review, and an event added in the prose skipped it.",
+      warrant:
+        "What happens is the game master's to decide, and an event added in the prose was never decided.",
       aids: ["How a beat is told is yours; what happens in it is not."],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Write From The Story",
+      act: "Write from the turn's action and beats and the story's prose, characters, lore and mechanics.",
+      warrant: "The player reads only the prose, so whatever it leaves out never happened for him.",
+      aids: [
+        "The story's prose is its turns before this one whose status is player.",
+        "Hold to every limit the mechanics in the story's folder set on a scene.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Read The Style Rules",
+      act: "Read every style rule at `story/style/style-rule/pages` before writing a turn's prose.",
+      warrant:
+        "A style reviewer checks the prose against each rule, and every break sends the turn round again.",
+      aids: ["Read them again for each turn, since a rule may have changed."],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Answer The Issues",
+      act: "When the turn carries issues, rewrite its prose answering each one.",
+      warrant: "A turn is reviewed once, so an issue the rewrite leaves reaches the player.",
+      aids: ["The game master has mended the beats first, so write the beats as they are now."],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Advance When Done",
+      act: "Advance the turn with `akasha story turn advance` once its prose is written.",
+      warrant: "Nothing else moves a turn on, so a turn left unadvanced stalls the game.",
+      aids: [
+        "Hand the prose in as a file with `--prose-file`.",
+        "A notice naming any step but writer asks nothing of you.",
+      ],
     },
     {
       directiveKind: "directive-kind/rule",
