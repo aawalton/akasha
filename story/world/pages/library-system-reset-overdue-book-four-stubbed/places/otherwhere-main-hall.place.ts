@@ -247,10 +247,7 @@ export const otherwhereMainHall = {
       fact: "The salted bookworm's shriek stopped the chewing, and other bookworms lifted blind heads toward it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "A second salting shrank the nearest bookworm along half its length, but it still moves.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Moving silently did not hide Nala; the blind bookworm turned and tracked her anyway.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
