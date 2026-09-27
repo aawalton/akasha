@@ -6,4 +6,10 @@ export const starSelectionDialog = {
   slug: "star-selection-dialog",
   definition: "the dialog for choosing a champion point star",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stars offered are drawn again whenever the champion stars are read again.",
+    },
+  ],
 } as const satisfies Module

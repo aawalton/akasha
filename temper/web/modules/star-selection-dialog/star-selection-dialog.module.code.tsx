@@ -53,6 +53,8 @@ export function StarSelectionDialog({
 }: StarSelectionDialogProps) {
   const [selectedItemId, setSelectedItemId] = useState<ChampionPointId>(NO_STAR[constellation])
 
+  const stars = championPoints.list
+
   const availableStars = useMemo(() => {
     const actualSlottedStars = slottedStars.filter((id) => !id.startsWith("no-"))
     const slottedSet = new Set(actualSlottedStars)
@@ -60,11 +62,11 @@ export function StarSelectionDialog({
     return slottableIds(constellation)
       .filter((id) => !id.startsWith("no-") && !slottedSet.has(id))
       .map((id): ChampionPointSource => {
-        const source = championPoints.list.find((cp) => cp.id === id)
+        const source = stars.find((cp) => cp.id === id)
         if (!source) throw new Error(`Champion point ${id} not found`)
         return source
       })
-  }, [constellation, slottedStars])
+  }, [constellation, slottedStars, stars])
 
   const Icon = CONSTELLATION_ICONS[constellation]
 
