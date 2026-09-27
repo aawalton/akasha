@@ -38,18 +38,6 @@ export const writer = {
     },
     {
       directiveKind: "directive-kind/rule",
-      name: "No Handoff",
-      act: "Never close a beat by addressing the player in the narrator's voice.",
-      warrant:
-        "The action bar is always there, so a prompt line spends a beat telling him what he can see.",
-      aids: [
-        "Description that waits on him is still a prompt.",
-        "One character may invite another.",
-        "Every turn ending poised is a handoff by pattern.",
-      ],
-    },
-    {
-      directiveKind: "directive-kind/rule",
       name: "Continue Mid-Stream",
       act: "Open a turn with a scene still running by continuing its last sentence, never by re-narrating it.",
       warrant:
