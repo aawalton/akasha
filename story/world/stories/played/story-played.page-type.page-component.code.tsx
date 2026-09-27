@@ -5,10 +5,10 @@ import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-det
 
 import { PlayedShell } from "akasha/story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"
 
-export function Drawing({ pageTypeSlug, id, nextUnreadHref }: PageDrawingProps) {
+export function Drawing({ pageTypeSlug, id, nextUnreadHref, page }: PageDrawingProps) {
   return (
     <PageCollectionContent pageTypeSlug={pageTypeSlug} id={id} nextUnreadHref={nextUnreadHref}>
-      <PlayedShell pageTypeSlug={pageTypeSlug} id={id} />
+      <PlayedShell pageTypeSlug={pageTypeSlug} id={id} page={page ?? null} />
     </PageCollectionContent>
   )
 }

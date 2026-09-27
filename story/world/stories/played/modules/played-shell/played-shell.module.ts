@@ -22,6 +22,14 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The story is the page its drawing was handed rather than a page read here again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No row is asked for before the story's address is known.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Nothing is drawn until the rows of the story have arrived.",
     },
     {

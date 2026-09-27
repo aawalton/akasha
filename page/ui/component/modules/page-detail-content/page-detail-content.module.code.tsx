@@ -8,6 +8,7 @@ import { useAppEditing } from "akasha/page/ui/component/modules/app-editing/app-
 import { drawingAlong } from "akasha/page/ui/component/modules/page-drawings/page-drawings.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx"
 import { usePageTypeLine } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
+import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
 import { useRecordPageView } from "akasha/page/ui/supabase/modules/use-record-page-view/use-record-page-view.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
@@ -21,6 +22,7 @@ export interface PageDrawingProps {
   nextUnreadHref?: string | null
   onReadToEnd?: () => void
   drawnPlainly?: boolean
+  page?: PageWithProperties | null
 }
 
 const FALLS_BACK_TO = "page"
@@ -37,7 +39,7 @@ export function PageDetailContent(props: PageDrawingProps) {
   })
   const Own = props.drawnPlainly === true ? undefined : drawingAlong([pageTypeSlug])
   const { pageTypes } = usePageTypeLine(Own === undefined ? pageTypeSlug : null)
-  if (Own !== undefined && page != null) return <Own {...props} />
+  if (Own !== undefined && page != null) return <Own {...props} page={page} />
   const known = pageTypes.some((pt) => pt.properties?.slug === pageTypeSlug)
   if (!known) {
     const pageNotFound = page == null && !pageIsLoading

@@ -17,5 +17,9 @@ export const pageDetailContent = {
       statement:
         "A page whose own type has a drawing is drawn once the page is read, before the page types load.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That drawing is handed the page as read, so it need not read the page again.",
+    },
   ],
 } as const satisfies Module

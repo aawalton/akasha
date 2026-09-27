@@ -6,7 +6,7 @@ import type { Page } from "akasha/page/core/modules/page-types/page-types.module
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
-import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
+import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
   type UsePagesSupabaseOptions,
   usePages,
@@ -151,9 +151,23 @@ export function PlayedLayout({
   )
 }
 
-export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; id: string }) {
-  const { page } = usePage({ pageTypeSlug, id })
-  const data = toPageDataJSON(page?.properties)
+type PlayedShellProps = {
+  readonly pageTypeSlug: PageTypeSlug
+  readonly id: string
+  readonly page: PageWithProperties | null
+}
+
+export function PlayedShell({ pageTypeSlug, id, page }: PlayedShellProps) {
+  if (page === null) return null
+  return <PlayedStory pageTypeSlug={pageTypeSlug} id={id} page={page} />
+}
+
+function PlayedStory({
+  pageTypeSlug,
+  id,
+  page,
+}: PlayedShellProps & { readonly page: PageWithProperties }) {
+  const data = toPageDataJSON(page.properties)
   const title = textIn(data.title)
   const slug = textIn(data.slug)
   const storyAddress = namedAs(pageTypeSlug, slug, null)
