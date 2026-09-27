@@ -10,7 +10,7 @@ export const otherwhere00017 = {
   position: 17,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "“Okay, that was harder than expected. Is there an easy way here that I’m missing, or were you really expecting me to take on a room of these with a broom?”",
   beats: [
@@ -25,5 +25,5 @@ export const otherwhere00017 = {
     '"I could claw them myself," he says, more quietly. "Every swipe costs power I haven\'t got."',
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
