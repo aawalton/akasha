@@ -60,6 +60,14 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "Five small engorged bookworms and one big one infest the back of the main hall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Library's first task for its Librarian is to clear the engorged bookworms from the hall.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Links named the hall the Magical Library of Everywhere when Nala first saw it.",
       knowers: [
         "lore-disclosure/game-master",
