@@ -3,6 +3,5 @@
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"writer.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
-{"propertySlug":"role","path":"agent/seat/pages/aria-writer-dragons-and-dungeons/aria-writer-dragons-and-dungeons.seat.ts","id":"01a0e3a2-ba16-7000-b21d-34c06aab0e11"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-writer-otherwhere/iris-writer-otherwhere.seat.ts","id":"01a0e357-d723-7000-8b36-3ef7c9a77a26"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-writer-the-dating-game/mari-writer-the-dating-game.seat.ts","id":"01a0e30c-45d3-7000-bb99-87931d138c61"}
