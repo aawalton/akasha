@@ -11,5 +11,9 @@ export const comparisonOpPicker = {
       decisionKind: "decision-kind/departure",
       statement: "The picker's accessible name is a web phrase page filled with the operator.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each operator is shown by its comparison op page's title, found by key.",
+    },
   ],
 } as const satisfies Module

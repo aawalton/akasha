@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts","typed":false,"deferred":false}

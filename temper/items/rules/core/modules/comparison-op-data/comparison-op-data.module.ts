@@ -19,5 +19,9 @@ export const comparisonOpData = {
       decisionKind: "decision-kind/constraint",
       statement: "An operator's place in this table is the order the operators are offered in.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The table holds no operator's shown name; a screen reads it from the page.",
+    },
   ],
 } as const satisfies Module
