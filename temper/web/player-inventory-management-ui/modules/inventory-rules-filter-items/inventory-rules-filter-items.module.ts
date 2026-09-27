@@ -11,5 +11,9 @@ export const inventoryRulesFilterItems = {
       decisionKind: "decision-kind/departure",
       statement: "Filter labels are web phrases and status labels rule card phrases, read as held.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Goal choices are named by the held rule goal page titles.",
+    },
   ],
 } as const satisfies Module

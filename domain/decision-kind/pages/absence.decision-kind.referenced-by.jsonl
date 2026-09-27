@@ -2109,6 +2109,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.ts","id":"01a06038-b7a4-7626-9f8d-00da1e05f38a"}
 {"propertySlug":"decision-kind","path":"temper/items/modules/explain-walk/explain-walk.module.ts","id":"01a06036-188c-735e-bae8-be4f3d907a2f"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.ts","id":"01a060d9-44ca-7f34-b2bb-07aab8837d17"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.ts","id":"01a060d9-44ca-7d5d-bec0-67931a83447a"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts","id":"01a068e2-226a-7523-928d-85398937e67c"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.ts","id":"01a072dd-5d04-75d2-8bb2-1d5b8ac04825"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/location-filter/location-filter.module.ts","id":"01a06100-3bf2-77cf-bcc7-b09945beb2f9"}

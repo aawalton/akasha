@@ -122,5 +122,6 @@ export const temperPlayerInventoryManagementUi = {
     "module/use-condition-value-options",
     "module/rule-card-phrase",
     "module/inventory-rules-no-inventory",
+    "module/use-rule-goal-titles",
   ],
 } as const satisfies Domain

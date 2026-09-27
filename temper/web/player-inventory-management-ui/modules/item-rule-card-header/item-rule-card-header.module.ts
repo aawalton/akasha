@@ -12,5 +12,9 @@ export const itemRuleCardHeader = {
       statement:
         "The title placeholder, notes labels, menu and goal sentinel are rule card phrases.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each goal is named by its rule goal page's title.",
+    },
   ],
 } as const satisfies Module

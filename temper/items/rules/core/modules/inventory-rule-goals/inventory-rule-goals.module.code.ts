@@ -1,23 +1,32 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
-
-interface GoalTemplate {
-  name: string
-  priority: number
+interface Goal {
+  readonly id: string
+  readonly priority: number
 }
 
 export const GOAL_NONE_ID = "none"
 
-export const inventoryRuleGoals = createDataFile<GoalTemplate>()({
-  none: { id: "none", name: "No Goal", priority: Infinity },
-  equip: { id: "equip", name: "Equip", priority: 1 },
-  unlock: { id: "unlock", name: "Unlock", priority: 2 },
-  progress: { id: "progress", name: "Progress", priority: 3 },
-  use: { id: "use", name: "Use", priority: 4 },
-  task: { id: "task", name: "Task", priority: 5 },
-  hoard: { id: "hoard", name: "Hoard", priority: 6 },
-  sell: { id: "sell", name: "Sell", priority: 7 },
-  destroy: { id: "destroy", name: "Destroy", priority: 8 },
-})
+const GOALS = {
+  none: { id: "none", priority: Infinity },
+  equip: { id: "equip", priority: 1 },
+  unlock: { id: "unlock", priority: 2 },
+  progress: { id: "progress", priority: 3 },
+  use: { id: "use", priority: 4 },
+  task: { id: "task", priority: 5 },
+  hoard: { id: "hoard", priority: 6 },
+  sell: { id: "sell", priority: 7 },
+  destroy: { id: "destroy", priority: 8 },
+} as const satisfies Record<string, Goal>
+
+function goalsFile<K extends string>(data: Readonly<Record<K, Goal & { readonly id: K }>>) {
+  const list = Object.values<Goal & { readonly id: K }>(data)
+  return {
+    data,
+    ids: list.map((goal) => goal.id),
+    list,
+  } as const
+}
+
+export const inventoryRuleGoals = goalsFile(GOALS)
 
 export function goalIdToValue(id: string): string | null {
   return id === GOAL_NONE_ID ? null : id

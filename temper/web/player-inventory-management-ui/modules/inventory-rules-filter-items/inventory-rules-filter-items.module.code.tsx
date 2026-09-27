@@ -8,7 +8,10 @@ import {
   heldKeyedTitles,
   titleIn,
 } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
-import { inventoryRuleGoals } from "akasha/temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
+import {
+  GOAL_NONE_ID,
+  inventoryRuleGoals,
+} from "akasha/temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import {
   heldWebPhrases,
   phraseIn,
@@ -30,6 +33,11 @@ import {
 import { RuleActionFilterSelect } from "akasha/temper/web/player-inventory-management-ui/modules/rule-action-filter-select/rule-action-filter-select.module.code.tsx"
 import { RuleCategoryFilterSelect } from "akasha/temper/web/player-inventory-management-ui/modules/rule-category-filter-select/rule-category-filter-select.module.code.tsx"
 import { RuleLocationFilterSelect } from "akasha/temper/web/player-inventory-management-ui/modules/rule-location-filter-select/rule-location-filter-select.module.code.tsx"
+import {
+  goalTitleIn,
+  heldRuleGoalTitles,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-goal-titles/use-rule-goal-titles.module.code.tsx"
+import { noGoal } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/no-goal.temper-rule-card-phrase.ts"
 import { ruleActive } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-active.temper-rule-card-phrase.ts"
 import { ruleDuplicate } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-duplicate.temper-rule-card-phrase.ts"
 import { ruleInactive } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-inactive.temper-rule-card-phrase.ts"
@@ -76,9 +84,18 @@ function labelled(values: readonly StatusValue[]): readonly BadgeToggleGroupItem
   )
 }
 
-export const GOAL_FILTER_ITEMS: readonly BadgeToggleGroupItem[] = sortFilterItems(
-  inventoryRuleGoals.list.map((g) => ({ value: g.id, label: g.name }))
-)
+export const GOAL_FILTER_ITEMS: readonly string[] = inventoryRuleGoals.list.map((g) => g.id)
+
+function labelledGoals(): readonly BadgeToggleGroupItem[] {
+  const goals = heldRuleGoalTitles()
+  const statuses = heldKeyedTitles(temperRuleCardPhrase.slug)
+  return sortFilterItems(
+    GOAL_FILTER_ITEMS.map((id) => ({
+      value: id,
+      label: id === GOAL_NONE_ID ? titleIn(statuses, noGoal.key) : goalTitleIn(goals, id),
+    }))
+  )
+}
 
 export const RULE_VIEW_FILTERS: RuleFilterDef[] = [
   {
@@ -142,10 +159,11 @@ export const RULE_VIEW_FILTERS: RuleFilterDef[] = [
     },
     hasValue: ({ ruleGoal }) => ruleGoal.length > 0,
     renderGroup: ({ ruleGoal, onRuleGoalChange }: RuleFilterPopoverProps) => {
-      const selectedGoals = GOAL_FILTER_ITEMS.filter((g) => ruleGoal.includes(g.value))
+      const goalItems = labelledGoals()
+      const selectedGoals = goalItems.filter((g) => ruleGoal.includes(g.value))
       return (
         <BadgeToggleGroup
-          items={GOAL_FILTER_ITEMS}
+          items={goalItems}
           value={selectedGoals}
           onSelect={(items) => onRuleGoalChange(items.map((i) => i.value))}
           unselectedVariant="elevation-muted"

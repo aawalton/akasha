@@ -6479,6 +6479,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-descriptions/use-inventory-rules-tab-descriptions.module.ts","id":"01a0636c-5da1-74ed-a270-389ba82d0067"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-rule-card-condition-handlers/use-rule-card-condition-handlers.module.ts","id":"01a0636c-5da1-7e9a-8fbb-687bd452006b"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.ts","id":"01a0636c-5da1-73ac-82cb-033685f0006c"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-rule-goal-titles/use-rule-goal-titles.module.ts","id":"01a0e2b7-d3d6-7fb7-9923-f191bf9febfe"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.ts","id":"01a0636c-5da1-77e1-8885-a26516fc006d"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/value-explanation-dialog/value-explanation-dialog.module.ts","id":"01a0636c-5da1-7111-9485-6b20a0ac006e"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/temper-rule-card-phrase/temper-rule-card-phrase.page-type.ts","id":"01a0e272-3ee8-728e-bb34-eea061366568"}

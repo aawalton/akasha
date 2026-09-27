@@ -23,6 +23,10 @@ import {
   phraseOf,
   useRuleCardPhrases,
 } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  goalTitleIn,
+  useRuleGoalTitles,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-goal-titles/use-rule-goal-titles.module.code.tsx"
 
 interface RuleCardPriorityRowProps {
   rule: CategoryRule
@@ -64,6 +68,7 @@ export function RuleCardPriorityRow({
   openAffectedDialog,
 }: RuleCardPriorityRowProps) {
   const phrases = useRuleCardPhrases()
+  const goals = useRuleGoalTitles()
   const activeTitle = titleIn(phrases, isActive ? "rule-active" : "rule-inactive")
   const itemCount =
     phrases === null
@@ -119,7 +124,7 @@ export function RuleCardPriorityRow({
               .filter((g) => g.id !== "none")
               .map((g) => (
                 <SelectItem key={g.id} value={g.id}>
-                  {g.name}
+                  {goalTitleIn(goals, g.id)}
                 </SelectItem>
               ))}
           </SelectContent>

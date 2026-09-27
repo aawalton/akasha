@@ -23,6 +23,10 @@ import {
 } from "akasha/temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  goalTitleIn,
+  useRuleGoalTitles,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-goal-titles/use-rule-goal-titles.module.code.tsx"
 import { addNotes } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/add-notes.temper-rule-card-phrase.ts"
 import { addTitle } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/add-title.temper-rule-card-phrase.ts"
 import { deleteRule } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/delete-rule.temper-rule-card-phrase.ts"
@@ -52,6 +56,7 @@ export function ItemRuleCardHeader({
   onOpenDelete,
 }: ItemRuleCardHeaderProps) {
   const phrases = useRuleCardPhrases()
+  const goals = useRuleGoalTitles()
   const notesTitle = titleIn(phrases, rule.notes != null ? editNotes.key : addNotes.key)
   return (
     <>
@@ -125,7 +130,7 @@ export function ItemRuleCardHeader({
               .filter((g) => g.id !== "none")
               .map((g) => (
                 <SelectItem key={g.id} value={g.id}>
-                  {g.name}
+                  {goalTitleIn(goals, g.id)}
                 </SelectItem>
               ))}
           </SelectContent>

@@ -15,5 +15,9 @@ export const inventoryRuleGoals = {
       decisionKind: "decision-kind/departure",
       statement: "A rule pursuing no goal is stored against the goal id GOAL_NONE_ID.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No goal carries a name here; a goal is named by its rule goal page.",
+    },
   ],
 } as const satisfies Module

@@ -15,5 +15,9 @@ export const ruleCardPriorityRow = {
       decisionKind: "decision-kind/departure",
       statement: "Every word the row shows, the item count included, is a rule card phrase.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each goal in the goal select is named by its rule goal page's title.",
+    },
   ],
 } as const satisfies Module
