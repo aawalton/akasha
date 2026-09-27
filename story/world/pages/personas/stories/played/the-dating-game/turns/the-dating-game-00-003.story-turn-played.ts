@@ -4,10 +4,13 @@ export const theDatingGame00003 = {
   id: "01a0e2f3-f40b-7df7-83f1-a6ec0ec9ab62",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-003",
+  ownLength: 231,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 3,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/the-dating-game-alan", "character-other/the-dating-game-echo"],
+  turnStatus: "turn-status/recorders",
   action:
     '"Hi there! Would you be interested in some company? I\'d love someone to chat with on the hike."',
   beats: [
