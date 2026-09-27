@@ -10,7 +10,7 @@ export const theDatingGame00018 = {
   position: 18,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "I sit in the chair. \"Okay, you tell me what to do, I'm yours for as long as you want me. Otherwise, I'll gladly just listen.\"",
   beats: [
@@ -32,7 +32,10 @@ export const theDatingGame00018 = {
     'A little further on, the same voice, small and plaintive: "I just wanted to go to the bathroom."',
     "She holds her place with one finger and looks up at him through the glass.",
   ],
-  issues: ['"holds up one finger. Press it once." - No Prompt'],
+  issues: [
+    '"holds up one finger. Press it once." - No Prompt',
+    '"She turns to the first page" - she already set it open and smoothed the first page flat',
+  ],
   lore: ["lore/the-dating-game-alan"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
