@@ -4,6 +4,7 @@ import type {
   CategoryRule,
   ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import {
   getCategoryRuleDescriptions,
   getItemRuleDescriptions,
@@ -57,53 +58,54 @@ export function useInventoryRulesTabDescriptions({
   inactiveItemRuleIds,
   unlockedItemRuleIds,
 }: UseInventoryRulesTabDescriptionsArgs): InventoryRulesTabDescriptions {
+  const categories = useItemCategories().keyed
   const characterActiveDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, characterPartition.active),
-    [rules, characterPartition.active]
+    () => getCategoryRuleDescriptions(rules, characterPartition.active, categories),
+    [rules, characterPartition.active, categories]
   )
   const characterInactiveDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, characterPartition.inactive),
-    [rules, characterPartition.inactive]
+    () => getCategoryRuleDescriptions(rules, characterPartition.inactive, categories),
+    [rules, characterPartition.inactive, categories]
   )
   const characterDuplicateDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, characterPartition.duplicate),
-    [rules, characterPartition.duplicate]
+    () => getCategoryRuleDescriptions(rules, characterPartition.duplicate, categories),
+    [rules, characterPartition.duplicate, categories]
   )
   const characterUnlockedDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, characterPartition.unlocked),
-    [rules, characterPartition.unlocked]
+    () => getCategoryRuleDescriptions(rules, characterPartition.unlocked, categories),
+    [rules, characterPartition.unlocked, categories]
   )
   const companionActiveDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, companionPartition.active),
-    [rules, companionPartition.active]
+    () => getCategoryRuleDescriptions(rules, companionPartition.active, categories),
+    [rules, companionPartition.active, categories]
   )
   const companionInactiveDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, companionPartition.inactive),
-    [rules, companionPartition.inactive]
+    () => getCategoryRuleDescriptions(rules, companionPartition.inactive, categories),
+    [rules, companionPartition.inactive, categories]
   )
   const companionDuplicateDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, companionPartition.duplicate),
-    [rules, companionPartition.duplicate]
+    () => getCategoryRuleDescriptions(rules, companionPartition.duplicate, categories),
+    [rules, companionPartition.duplicate, categories]
   )
   const companionUnlockedDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, companionPartition.unlocked),
-    [rules, companionPartition.unlocked]
+    () => getCategoryRuleDescriptions(rules, companionPartition.unlocked, categories),
+    [rules, companionPartition.unlocked, categories]
   )
   const categoryActiveDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, categoryPartition.active),
-    [rules, categoryPartition.active]
+    () => getCategoryRuleDescriptions(rules, categoryPartition.active, categories),
+    [rules, categoryPartition.active, categories]
   )
   const categoryInactiveDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, categoryPartition.inactive),
-    [rules, categoryPartition.inactive]
+    () => getCategoryRuleDescriptions(rules, categoryPartition.inactive, categories),
+    [rules, categoryPartition.inactive, categories]
   )
   const categoryDuplicateDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, categoryPartition.duplicate),
-    [rules, categoryPartition.duplicate]
+    () => getCategoryRuleDescriptions(rules, categoryPartition.duplicate, categories),
+    [rules, categoryPartition.duplicate, categories]
   )
   const categoryUnlockedDescriptions = useMemo(
-    () => getCategoryRuleDescriptions(rules, categoryPartition.unlocked),
-    [rules, categoryPartition.unlocked]
+    () => getCategoryRuleDescriptions(rules, categoryPartition.unlocked, categories),
+    [rules, categoryPartition.unlocked, categories]
   )
   const itemActiveDescriptions = useMemo(
     () => getItemRuleDescriptions(itemRules, activeItemRuleIds),
