@@ -7,8 +7,8 @@ export function RuleTemplatesGate({
   children,
   fallback,
 }: {
-  children: ReactNode
+  children: () => ReactNode
   fallback: ReactNode
 }) {
-  return <>{useRuleTemplates() === null ? fallback : children}</>
+  return <>{useRuleTemplates() === null ? fallback : children()}</>
 }

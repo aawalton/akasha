@@ -11,5 +11,9 @@ export const ruleTemplatesGate = {
       decisionKind: "decision-kind/departure",
       statement: "Until the templates are read the screen shows what it is handed instead.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The content is drawn again whenever the templates are read again.",
+    },
   ],
 } as const satisfies Module
