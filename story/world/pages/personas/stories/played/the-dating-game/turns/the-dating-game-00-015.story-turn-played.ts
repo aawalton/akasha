@@ -24,4 +24,5 @@ export const theDatingGame00015 = {
     '"Reading the text," she says, and lifts her eyebrows, waiting for him to give her some.',
   ],
   lore: ["lore/the-dating-game-echo"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
