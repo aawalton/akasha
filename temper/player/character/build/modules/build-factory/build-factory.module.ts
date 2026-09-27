@@ -6,4 +6,10 @@ export const buildFactory = {
   slug: "build-factory",
   definition: "a new character build made, either started or left empty",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A started build is named by its caller, and named nothing where none is given.",
+    },
+  ],
 } as const satisfies Module

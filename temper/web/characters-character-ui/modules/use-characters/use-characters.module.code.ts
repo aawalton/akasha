@@ -44,6 +44,7 @@ import {
 } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { useCharactersCreateFailed } from "akasha/temper/web/phrase/pages/use-characters-create-failed.temper-web-phrase.ts"
+import { useCharactersNewBuildName } from "akasha/temper/web/phrase/pages/use-characters-new-build-name.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 
@@ -374,7 +375,7 @@ export function useNewCharacter() {
     if (userId == null) return
     setIsCreating(true)
     try {
-      const build = createNewCharacter()
+      const build = createNewCharacter(phrase(useCharactersNewBuildName.slug))
       const buildHash = encodeBuild(build)
       const buildMetadata = extractCharacterMetadata(build)
       const id = uuidVersion7()

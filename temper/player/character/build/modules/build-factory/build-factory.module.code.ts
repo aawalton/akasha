@@ -4,9 +4,9 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { defaultTargetArmorId } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
-export const createNewCharacter = (): CharacterState => ({
+export const createNewCharacter = (name = ""): CharacterState => ({
   id: buildId(""),
-  name: "New Build",
+  name,
   description: "",
 
   character: {

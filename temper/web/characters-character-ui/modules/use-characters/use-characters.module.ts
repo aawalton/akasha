@@ -59,5 +59,9 @@ export const useCharacters = {
       decisionKind: "decision-kind/departure",
       statement: "A delete refused before it starts says which refusal it is by its kind.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A new build's name is read from a web phrase page.",
+    },
   ],
 } as const satisfies Module
