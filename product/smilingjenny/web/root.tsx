@@ -80,6 +80,7 @@ export default function App() {
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
   useReportRenderError(error, "smilingjenny")
 
+  useLoaderFollowing(READ)
   const sections = useRouteLoaderData<DocumentData>(ROOT)?.document.sections ?? []
   const notFound = isRouteErrorResponse(error) && error.status === 404
   const refused = isRouteErrorResponse(error) && error.status === 403
