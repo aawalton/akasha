@@ -11,4 +11,5 @@ export const mariStoryRecorderTheDatingGameFlex3 = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "e0f33ed9-be5d-4ebd-98ab-e5c97673e9e7",
 } as const satisfies Seat
