@@ -10,4 +10,6 @@ export const necklace = {
   slotCategory: "necklace",
   equipmentIconName: "necklace",
   allowsLegendary: false,
+  pieceName: "Necklace",
+  ttcItemId: 23706,
 } as const satisfies TemperCompanionJewelrySlot

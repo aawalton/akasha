@@ -10,8 +10,10 @@ export const temperCompanionArmorWeight = {
     "number-property/armor-type",
     "relation-property/armor-passive",
     "relation-property/armor-skill-line",
+    "number-property/ttc-category-id",
   ],
   properties: [
+    { pageProperty: "number-property/ttc-category-id", required: false, many: false },
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/armor-type", required: false, many: false },

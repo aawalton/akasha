@@ -11,4 +11,5 @@ export const sword = {
   displayOrder: 1,
   hashPlace: 1,
   equipmentIconName: "sword",
+  ttcItemId: 23597,
 } as const satisfies TemperCompanionWeaponType

@@ -1,36 +1,17 @@
 import {
   type CompanionGearPriceResult,
   type CompanionGearSlotDescriptor,
+  companionPieceNameOf,
   lookupCompanionGearPrice,
   lookupCompanionGearPriceForSlot,
 } from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
 import type { UnfulfilledGearNeed } from "akasha/temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts"
 
-const ARMOR_ITEM_NAMES: Record<string, Record<string, string>> = {
-  head: { Light: "Hat", Medium: "Helmet", Heavy: "Helm" },
-  shoulders: { Light: "Epaulets", Medium: "Arm Cops", Heavy: "Pauldrons" },
-  chest: { Light: "Robe", Medium: "Jack", Heavy: "Cuirass" },
-  hands: { Light: "Gloves", Medium: "Bracers", Heavy: "Gauntlets" },
-  waist: { Light: "Sash", Medium: "Belt", Heavy: "Girdle" },
-  legs: { Light: "Breeches", Medium: "Guards", Heavy: "Greaves" },
-  feet: { Light: "Shoes", Medium: "Boots", Heavy: "Sabatons" },
-}
-
-const JEWELRY_ITEM_NAMES: Record<string, string> = {
-  necklace: "Necklace",
-  "ring-1": "Ring",
-  "ring-2": "Ring",
-}
-
 export function getCompanionGearItemName(need: UnfulfilledGearNeed): string {
   if (need.category === "weapon") return `Companion's ${need.weaponType ?? need.slotName}`
-  if (need.category === "jewelry")
-    return `Companion's ${JEWELRY_ITEM_NAMES[need.slotId] ?? need.slotName}`
-  const armorSlot = ARMOR_ITEM_NAMES[need.slotId]
-  if (armorSlot != null && need.weight != null)
-    return `Companion's ${armorSlot[need.weight] ?? need.slotName}`
-  return `Companion's ${need.slotName}`
+  const piece = companionPieceNameOf(need.category, need.slotId, need.weight)
+  return `Companion's ${piece ?? need.slotName}`
 }
 
 export function formatGold(value: number): string {

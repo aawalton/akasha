@@ -14,4 +14,5 @@ export const vigorous = {
   esoWeaponTraitType: 42,
   esoArmorTraitType: 51,
   esoJewelryTraitType: 60,
+  ttcTraitId: 34,
 } as const satisfies TemperCompanionTrait

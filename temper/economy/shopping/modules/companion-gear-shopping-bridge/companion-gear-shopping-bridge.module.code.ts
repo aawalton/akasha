@@ -1,10 +1,11 @@
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { ShoppingItem } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import {
-  COMPANION_TRAIT_TO_TTC_TRAIT,
   type CompanionGearSlotDescriptor,
   resolveTtcItemId,
-  WEIGHT_TO_CATEGORY2,
+  ttcCategoryOf,
+  ttcQualityIdOf,
+  ttcTraitIdOf,
 } from "akasha/temper/economy/trading/pricing/modules/companion-gear-price-lookup/companion-gear-price-lookup.module.code.ts"
 import { isPriceEntry } from "akasha/temper/economy/trading/pricing/modules/is-price-entry/is-price-entry.module.code.ts"
 import type { PricingData } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
@@ -19,14 +20,6 @@ interface CompanionGearNeed {
   weaponTypeId?: string
 }
 
-const QUALITY_TO_LIVE_API: Partial<Record<Slug, number>> = {
-  normal: 0,
-  fine: 1,
-  superior: 2,
-  epic: 3,
-  legendary: 4,
-}
-
 export function needToShoppingKey(need: CompanionGearNeed): string {
   return `${need.companionId}:${need.slotId}:${need.trait}:${need.quality}`
 }
@@ -35,8 +28,8 @@ export function needToShoppingItem(
   need: CompanionGearNeed,
   pricing: PricingData | null
 ): ShoppingItem | null {
-  const ttcTraitId = COMPANION_TRAIT_TO_TTC_TRAIT[need.trait]
-  const qualityId = QUALITY_TO_LIVE_API[need.quality]
+  const ttcTraitId = ttcTraitIdOf(need.trait)
+  const qualityId = ttcQualityIdOf(need.quality)
   if (ttcTraitId == null || qualityId === undefined) return null
 
   const descriptor: CompanionGearSlotDescriptor = {
@@ -61,7 +54,7 @@ export function needToShoppingItem(
   }
 
   if (need.category === "armor" && need.weight != null) {
-    const cat2 = WEIGHT_TO_CATEGORY2[need.weight.toLowerCase()]
+    const cat2 = ttcCategoryOf(need.weight)
     if (cat2 != null) {
       searchParams.ItemCategory2ID = Number(cat2)
     }
@@ -77,7 +70,7 @@ export function needToShoppingItem(
 
     if (traitData) {
       if (need.category === "armor" && need.weight != null) {
-        const cat2 = WEIGHT_TO_CATEGORY2[need.weight.toLowerCase()]
+        const cat2 = ttcCategoryOf(need.weight)
         if (cat2 != null && !isPriceEntry(traitData)) {
           priceData = traitData[cat2]
         }

@@ -14,4 +14,5 @@ export const prolific = {
   esoWeaponTraitType: 35,
   esoArmorTraitType: 44,
   esoJewelryTraitType: 53,
+  ttcTraitId: 30,
 } as const satisfies TemperCompanionTrait

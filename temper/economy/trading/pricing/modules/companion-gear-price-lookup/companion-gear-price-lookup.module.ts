@@ -9,6 +9,19 @@ export const companionGearPriceLookup = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The numbers Tamriel Trade Centre files companion gear under are read from the companion pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A piece of armor is found by the place it is worn and the weight it is made at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Asking before those pages are read is refused rather than answered empty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An equipment slot Tamriel Trade Centre prices no item for answers with nothing.",
     },
     {

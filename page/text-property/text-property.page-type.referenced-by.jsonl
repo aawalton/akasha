@@ -516,6 +516,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/class-passive-id.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/subtitle.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/thing/properties/equipment-icon-name.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/thing/properties/piece-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/trait/properties/trait-effect-type.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/weapon-role/properties/valid-main-hand-weapon-types.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/catalog/companion/weapon-role/properties/valid-off-hand-weapon-types.text-property.ts","typed":true,"deferred":false}

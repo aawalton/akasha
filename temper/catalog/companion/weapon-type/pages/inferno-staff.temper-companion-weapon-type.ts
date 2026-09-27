@@ -11,4 +11,5 @@ export const infernoStaff = {
   displayOrder: 9,
   hashPlace: 9,
   equipmentIconName: "infernostaff",
+  ttcItemId: 23640,
 } as const satisfies TemperCompanionWeaponType

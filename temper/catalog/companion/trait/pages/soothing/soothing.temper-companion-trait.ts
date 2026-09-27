@@ -14,4 +14,5 @@ export const soothing = {
   esoWeaponTraitType: 39,
   esoArmorTraitType: 48,
   esoJewelryTraitType: 57,
+  ttcTraitId: 33,
 } as const satisfies TemperCompanionTrait

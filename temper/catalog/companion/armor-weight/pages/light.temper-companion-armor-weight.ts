@@ -10,4 +10,5 @@ export const light = {
   armorType: 1,
   armorPassiveId: "temper-companion-skill/all-shared-flow",
   armorSkillLineId: "temper-companion-skill-line/armor-light",
+  ttcCategoryId: 2,
 } as const satisfies TemperCompanionArmorWeight

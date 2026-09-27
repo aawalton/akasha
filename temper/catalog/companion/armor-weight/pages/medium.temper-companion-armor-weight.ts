@@ -10,4 +10,5 @@ export const medium = {
   armorType: 2,
   armorPassiveId: "temper-companion-skill/all-shared-flexibility",
   armorSkillLineId: "temper-companion-skill-line/armor-medium",
+  ttcCategoryId: 3,
 } as const satisfies TemperCompanionArmorWeight

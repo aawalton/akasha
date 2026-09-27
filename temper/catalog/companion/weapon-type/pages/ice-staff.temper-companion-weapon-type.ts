@@ -11,4 +11,5 @@ export const iceStaff = {
   displayOrder: 10,
   hashPlace: 10,
   equipmentIconName: "froststaff",
+  ttcItemId: 23585,
 } as const satisfies TemperCompanionWeaponType

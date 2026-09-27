@@ -6,6 +6,7 @@ import type { EsoWeaponTraitType } from "akasha/temper/catalog/companion/trait/p
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { IsReduction } from "akasha/temper/catalog/companion/trait/properties/is-reduction.boolean-property.types.ts"
 import type { TraitEffectType } from "akasha/temper/catalog/companion/trait/properties/trait-effect-type.text-property.types.ts"
+import type { TtcTraitId } from "akasha/temper/catalog/companion/trait/properties/ttc-trait-id.number-property.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 
 export type TemperCompanionTrait = TemperCompanionThing & {
@@ -17,4 +18,5 @@ export type TemperCompanionTrait = TemperCompanionThing & {
   esoWeaponTraitType?: EsoWeaponTraitType
   esoArmorTraitType?: EsoArmorTraitType
   esoJewelryTraitType?: EsoJewelryTraitType
+  ttcTraitId?: TtcTraitId
 }

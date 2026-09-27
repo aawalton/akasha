@@ -15,6 +15,7 @@ export const temperCompanionTrait = {
     "number-property/eso-weapon-trait-type",
     "number-property/eso-armor-trait-type",
     "number-property/eso-jewelry-trait-type",
+    "number-property/ttc-trait-id",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -25,6 +26,7 @@ export const temperCompanionTrait = {
     { pageProperty: "number-property/eso-weapon-trait-type", required: false, many: false },
     { pageProperty: "number-property/eso-armor-trait-type", required: false, many: false },
     { pageProperty: "number-property/eso-jewelry-trait-type", required: false, many: false },
+    { pageProperty: "number-property/ttc-trait-id", required: false, many: false },
   ],
   decisions: [
     {

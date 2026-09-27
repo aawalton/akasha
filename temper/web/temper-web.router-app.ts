@@ -321,6 +321,8 @@ export const temperWeb = {
     "module/use-keyed-titles",
     "module/kiosk-names-loading",
     "module/use-kiosk-names",
+    "module/companion-gear-ttc-gate",
+    "module/use-companion-gear-ttc",
     "module/metric-catalog-gate",
     "module/use-metric-catalog",
     "module/skill-catalog-gate",

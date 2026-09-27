@@ -1,4 +1,10 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import {
+  numberAt,
+  slugAt,
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import { isPriceEntry } from "akasha/temper/economy/trading/pricing/modules/is-price-entry/is-price-entry.module.code.ts"
 import type {
@@ -6,76 +12,122 @@ import type {
   TTCPriceEntry,
 } from "akasha/temper/economy/trading/pricing/modules/pricing-types/pricing-types.module.code.ts"
 
-const ARMOR_TTC_ITEMS: Record<string, string> = {
-  "head:light": "23761",
-  "head:medium": "23533",
-  "head:heavy": "23490",
-  "shoulders:light": "23651",
-  "shoulders:medium": "23757",
-  "shoulders:heavy": "23614",
-  "chest:light": "23407",
-  "chest:medium": "23467",
-  "chest:heavy": "23459",
-  "hands:light": "23793",
-  "hands:medium": "23719",
-  "hands:heavy": "23732",
-  "waist:light": "23537",
-  "waist:medium": "23541",
-  "waist:heavy": "23418",
-  "legs:light": "23652",
-  "legs:medium": "23540",
-  "legs:heavy": "23594",
-  "feet:light": "23520",
-  "feet:medium": "23495",
-  "feet:heavy": "23405",
+export const COMPANION_GEAR_TTC_TYPES = {
+  armorPiece: "temper-companion-armor-piece",
+  jewelrySlot: "temper-companion-jewelry-slot",
+  weaponType: "temper-companion-weapon-type",
+  armorWeight: "temper-companion-armor-weight",
+  trait: "temper-companion-trait",
+  quality: "temper-companion-equipment-quality",
+} as const
+
+export type CompanionGearTtcType = keyof typeof COMPANION_GEAR_TTC_TYPES
+
+export interface CompanionGearTtc {
+  readonly armorItems: ReadonlyMap<string, number>
+  readonly armorNames: ReadonlyMap<string, string>
+  readonly jewelryItems: ReadonlyMap<string, number>
+  readonly jewelryNames: ReadonlyMap<string, string>
+  readonly weaponItems: ReadonlyMap<string, number>
+  readonly categories: ReadonlyMap<string, number>
+  readonly traits: ReadonlyMap<string, number>
+  readonly qualities: ReadonlyMap<string, number>
 }
 
-const JEWELRY_TTC_ITEMS: Record<string, string> = {
-  necklace: "23706",
-  "ring-1": "23725",
-  "ring-2": "23725",
+function armorKey(slotId: string, weight: string): string {
+  return `${slotId}:${weight}`
 }
 
-const WEAPON_TTC_ITEMS: Record<string, string> = {
-  sword: "23597",
-  axe: "23609",
-  mace: "23712",
-  dagger: "23430",
-  greatsword: "23654",
-  battleaxe: "23792",
-  maul: "23471",
-  bow: "23789",
-  "inferno-staff": "23640",
-  "ice-staff": "23585",
-  "lightning-staff": "23413",
-  "restoration-staff": "23630",
-  shield: "23435",
+function numbersBy(rows: readonly Value[], field: string): ReadonlyMap<string, number> {
+  const found = new Map<string, number>()
+  for (const row of rows) {
+    const key = textAt(row, "key")
+    const value = numberAt(row, field)
+    if (key !== null && value !== null) found.set(key, value)
+  }
+  return found
 }
 
-export const WEIGHT_TO_CATEGORY2: Record<string, string> = {
-  light: "2",
-  medium: "3",
-  heavy: "4",
+export function companionGearTtcFrom(
+  rowsOf: (kind: CompanionGearTtcType) => readonly Value[]
+): CompanionGearTtc {
+  const armorItems = new Map<string, number>()
+  const armorNames = new Map<string, string>()
+  for (const row of rowsOf("armorPiece")) {
+    const slot = slugAt(row, "companionArmorSlot")
+    const weight = slugAt(row, "companionArmorWeight")
+    const itemId = numberAt(row, "ttcItemId")
+    if (slot === null || weight === null || itemId === null) continue
+    armorItems.set(armorKey(slot, weight), itemId)
+    const title = textAt(row, "title")
+    if (title !== null) armorNames.set(armorKey(slot, weight), title)
+  }
+  const jewelryNames = new Map<string, string>()
+  for (const row of rowsOf("jewelrySlot")) {
+    const key = textAt(row, "key")
+    const name = textAt(row, "pieceName")
+    if (key !== null && name !== null) jewelryNames.set(key, name)
+  }
+  return {
+    armorItems,
+    armorNames,
+    jewelryItems: numbersBy(rowsOf("jewelrySlot"), "ttcItemId"),
+    jewelryNames,
+    weaponItems: numbersBy(rowsOf("weaponType"), "ttcItemId"),
+    categories: numbersBy(rowsOf("armorWeight"), "ttcCategoryId"),
+    traits: numbersBy(rowsOf("trait"), "ttcTraitId"),
+    qualities: numbersBy(rowsOf("quality"), "ttcQualityId"),
+  }
 }
 
-export const COMPANION_TRAIT_TO_TTC_TRAIT: Partial<Record<Slug, string>> = {
-  aggressive: "26",
-  augmented: "27",
-  bolstered: "28",
-  focused: "29",
-  prolific: "30",
-  quickened: "31",
-  shattering: "32",
-  soothing: "33",
-  vigorous: "34",
+const UNREAD =
+  "the Tamriel Trade Centre numbers for companion gear are read from pages, and nothing has read them yet — gate the screen on `CompanionGearTtcGate`"
+
+class CompanionGearTtcUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "CompanionGearTtcUnread"
+  }
 }
 
-const QUALITY_TO_TTC_QUALITY: Partial<Record<Slug, string>> = {
-  normal: "0",
-  fine: "1",
-  superior: "2",
-  epic: "3",
-  legendary: "4",
+let held: CompanionGearTtc | null = null
+
+export function holdCompanionGearTtc(ttc: CompanionGearTtc): CompanionGearTtc {
+  held = ttc
+  return ttc
+}
+
+function companionGearTtc(): CompanionGearTtc {
+  if (held === null) throw new CompanionGearTtcUnread()
+  return held
+}
+
+function textOf(value: number | undefined): string | undefined {
+  return value === undefined ? undefined : String(value)
+}
+
+export function ttcTraitIdOf(trait: Slug): string | undefined {
+  return textOf(companionGearTtc().traits.get(trait))
+}
+
+export function ttcQualityIdOf(quality: Slug): number | undefined {
+  return companionGearTtc().qualities.get(quality)
+}
+
+export function ttcCategoryOf(weight: string): string | undefined {
+  return textOf(companionGearTtc().categories.get(weight.toLowerCase()))
+}
+
+export function companionPieceNameOf(
+  category: "armor" | "jewelry" | "weapon",
+  slotId: string,
+  weight: string | undefined
+): string | undefined {
+  const ttc = companionGearTtc()
+  if (category === "jewelry") return ttc.jewelryNames.get(slotId)
+  if (category === "armor" && weight != null)
+    return ttc.armorNames.get(armorKey(slotId, weight.toLowerCase()))
+  return undefined
 }
 
 export interface CompanionGearPriceResult {
@@ -123,13 +175,21 @@ function collectCompanionEntries(
 }
 
 export function resolveTtcItemId(slot: CompanionGearSlotDescriptor): string | null {
+  const ttc = companionGearTtc()
   switch (slot.category) {
     case "armor":
-      return (slot.weight != null ? ARMOR_TTC_ITEMS[`${slot.slotId}:${slot.weight}`] : null) ?? null
+      return (
+        textOf(
+          slot.weight != null ? ttc.armorItems.get(armorKey(slot.slotId, slot.weight)) : undefined
+        ) ?? null
+      )
     case "jewelry":
-      return JEWELRY_TTC_ITEMS[slot.slotId] ?? null
+      return textOf(ttc.jewelryItems.get(slot.slotId)) ?? null
     case "weapon":
-      return (slot.weaponTypeId != null ? WEAPON_TTC_ITEMS[slot.weaponTypeId] : null) ?? null
+      return (
+        textOf(slot.weaponTypeId != null ? ttc.weaponItems.get(slot.weaponTypeId) : undefined) ??
+        null
+      )
     default:
       return assertNever(slot.category)
   }
@@ -141,8 +201,8 @@ export function lookupCompanionGearPriceForSlot(
   trait: Slug,
   quality: Slug
 ): CompanionGearPriceResult | null {
-  const ttcTraitId = COMPANION_TRAIT_TO_TTC_TRAIT[trait]
-  const ttcQualityId = QUALITY_TO_TTC_QUALITY[quality]
+  const ttcTraitId = ttcTraitIdOf(trait)
+  const ttcQualityId = textOf(ttcQualityIdOf(quality))
   if (ttcTraitId == null || ttcQualityId == null) return null
 
   const itemId = resolveTtcItemId(slot)
@@ -162,7 +222,7 @@ export function lookupCompanionGearPriceForSlot(
 
   let entry: TTCPriceEntry | undefined
   if (slot.category === "armor" && slot.weight != null) {
-    const category2 = WEIGHT_TO_CATEGORY2[slot.weight]
+    const category2 = ttcCategoryOf(slot.weight)
     if (category2 == null) return null
     if (!isPriceEntry(traitData)) {
       entry = traitData[category2]
@@ -188,8 +248,8 @@ export function lookupCompanionGearPrice(
   trait: Slug,
   quality: Slug
 ): CompanionGearPriceResult | null {
-  const ttcTraitId = COMPANION_TRAIT_TO_TTC_TRAIT[trait]
-  const ttcQualityId = QUALITY_TO_TTC_QUALITY[quality]
+  const ttcTraitId = ttcTraitIdOf(trait)
+  const ttcQualityId = textOf(ttcQualityIdOf(quality))
 
   if (ttcTraitId == null || ttcQualityId == null) return null
 

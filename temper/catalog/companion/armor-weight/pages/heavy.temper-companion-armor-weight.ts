@@ -10,4 +10,5 @@ export const heavy = {
   armorType: 3,
   armorPassiveId: "temper-companion-skill/all-shared-firmness",
   armorSkillLineId: "temper-companion-skill-line/armor-heavy",
+  ttcCategoryId: 4,
 } as const satisfies TemperCompanionArmorWeight

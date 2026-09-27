@@ -15,4 +15,5 @@ export const fine = {
   oneHandedWeaponDamage: 350,
   twoHandedWeaponDamage: 700,
   shieldArmorValue: 2700,
+  ttcQualityId: 1,
 } as const satisfies TemperCompanionEquipmentQuality

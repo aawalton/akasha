@@ -8,3 +8,4 @@
 {"propertySlug":"import","fileName":"temper-companion-armor-slot.page-type.types.ts","path":"temper/catalog/companion/armor-slot/pages/shoulders.temper-companion-armor-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-slot.page-type.types.ts","path":"temper/catalog/companion/armor-slot/pages/waist.temper-companion-armor-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}
+{"propertySlug":"target-page-type","path":"temper/catalog/companion/armor-piece/properties/piece-armor-slot.relation-property.ts","id":"01a0e0bf-70b2-7006-8e7b-674bd38d5ef2"}

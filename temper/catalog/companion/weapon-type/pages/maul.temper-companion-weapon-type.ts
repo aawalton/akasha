@@ -11,4 +11,5 @@ export const maul = {
   displayOrder: 7,
   hashPlace: 7,
   equipmentIconName: "maul",
+  ttcItemId: 23471,
 } as const satisfies TemperCompanionWeaponType

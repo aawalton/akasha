@@ -11,4 +11,5 @@ export const lightningStaff = {
   displayOrder: 11,
   hashPlace: 11,
   equipmentIconName: "lightningstaff",
+  ttcItemId: 23413,
 } as const satisfies TemperCompanionWeaponType

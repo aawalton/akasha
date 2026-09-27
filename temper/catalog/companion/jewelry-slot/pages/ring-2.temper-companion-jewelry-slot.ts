@@ -10,4 +10,6 @@ export const ring2 = {
   slotCategory: "ring",
   equipmentIconName: "ring",
   allowsLegendary: true,
+  pieceName: "Ring",
+  ttcItemId: 23725,
 } as const satisfies TemperCompanionJewelrySlot

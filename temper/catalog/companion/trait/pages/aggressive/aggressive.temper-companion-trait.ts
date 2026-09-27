@@ -14,4 +14,5 @@ export const aggressive = {
   esoWeaponTraitType: 38,
   esoArmorTraitType: 47,
   esoJewelryTraitType: 56,
+  ttcTraitId: 26,
 } as const satisfies TemperCompanionTrait

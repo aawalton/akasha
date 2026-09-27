@@ -5,3 +5,4 @@
 {"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.types.ts","path":"temper/catalog/companion/armor-weight/pages/medium.temper-companion-armor-weight.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-companion-armor-weight.page-type.types.ts","path":"temper/catalog/companion/armor-weight/pages/no-weight.temper-companion-armor-weight.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/temper-companion.domain.ts","id":"01a05fba-ce3c-7e66-903a-166903fcf181"}
+{"propertySlug":"target-page-type","path":"temper/catalog/companion/armor-piece/properties/piece-armor-weight.relation-property.ts","id":"01a0e0bf-70b2-7007-9cd7-325aea75b7c8"}

@@ -14,4 +14,5 @@ export const bolstered = {
   esoWeaponTraitType: 41,
   esoArmorTraitType: 50,
   esoJewelryTraitType: 59,
+  ttcTraitId: 28,
 } as const satisfies TemperCompanionTrait

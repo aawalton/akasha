@@ -7,6 +7,7 @@ export const temperCompanion = {
   definition: "the companions who travel with a character",
   parts: [
     "page-type/temper-companion-activation-buff",
+    "page-type/temper-companion-armor-piece",
     "page-type/temper-companion-armor-slot",
     "page-type/temper-companion-armor-weight",
     "page-type/temper-companion-base-role",

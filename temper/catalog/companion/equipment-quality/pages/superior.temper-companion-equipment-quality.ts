@@ -15,4 +15,5 @@ export const superior = {
   oneHandedWeaponDamage: 400,
   twoHandedWeaponDamage: 800,
   shieldArmorValue: 2800,
+  ttcQualityId: 2,
 } as const satisfies TemperCompanionEquipmentQuality

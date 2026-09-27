@@ -11,4 +11,5 @@ export const bow = {
   displayOrder: 8,
   hashPlace: 8,
   equipmentIconName: "bow",
+  ttcItemId: 23789,
 } as const satisfies TemperCompanionWeaponType

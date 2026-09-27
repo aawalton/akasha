@@ -15,4 +15,5 @@ export const legendary = {
   oneHandedWeaponDamage: 500,
   twoHandedWeaponDamage: 1000,
   shieldArmorValue: 3000,
+  ttcQualityId: 4,
 } as const satisfies TemperCompanionEquipmentQuality

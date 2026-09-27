@@ -11,4 +11,5 @@ export const dagger = {
   displayOrder: 4,
   hashPlace: 4,
   equipmentIconName: "dagger",
+  ttcItemId: 23430,
 } as const satisfies TemperCompanionWeaponType

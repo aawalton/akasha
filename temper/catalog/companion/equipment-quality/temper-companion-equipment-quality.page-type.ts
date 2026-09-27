@@ -14,6 +14,7 @@ export const temperCompanionEquipmentQuality = {
     "number-property/two-handed-weapon-damage",
     "number-property/shield-armor-value",
     "boolean-property/default-quality",
+    "number-property/ttc-quality-id",
   ],
   properties: [
     { pageProperty: "number-property/light-armor-value", required: true, many: false },
@@ -27,6 +28,7 @@ export const temperCompanionEquipmentQuality = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "boolean-property/default-quality", required: false, many: false },
+    { pageProperty: "number-property/ttc-quality-id", required: false, many: false },
   ],
   decisions: [
     {

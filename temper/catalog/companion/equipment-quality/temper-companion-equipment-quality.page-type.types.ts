@@ -4,6 +4,7 @@ import type { LightArmorValue } from "akasha/temper/catalog/companion/equipment-
 import type { MediumArmorValue } from "akasha/temper/catalog/companion/equipment-quality/properties/medium-armor-value.number-property.types.ts"
 import type { OneHandedWeaponDamage } from "akasha/temper/catalog/companion/equipment-quality/properties/one-handed-weapon-damage.number-property.types.ts"
 import type { ShieldArmorValue } from "akasha/temper/catalog/companion/equipment-quality/properties/shield-armor-value.number-property.types.ts"
+import type { TtcQualityId } from "akasha/temper/catalog/companion/equipment-quality/properties/ttc-quality-id.number-property.types.ts"
 import type { TwoHandedWeaponDamage } from "akasha/temper/catalog/companion/equipment-quality/properties/two-handed-weapon-damage.number-property.types.ts"
 import type { TemperCompanionThing } from "akasha/temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
@@ -23,4 +24,5 @@ export type TemperCompanionEquipmentQuality = TemperCompanionThing & {
   displayOrder: DisplayOrder
   hashPlace: HashPlace
   defaultQuality?: DefaultQuality
+  ttcQualityId?: TtcQualityId
 }

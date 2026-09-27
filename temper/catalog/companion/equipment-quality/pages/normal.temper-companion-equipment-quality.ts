@@ -15,4 +15,5 @@ export const normal = {
   oneHandedWeaponDamage: 300,
   twoHandedWeaponDamage: 600,
   shieldArmorValue: 2600,
+  ttcQualityId: 0,
 } as const satisfies TemperCompanionEquipmentQuality

@@ -11,4 +11,5 @@ export const shield = {
   displayOrder: 13,
   hashPlace: 13,
   equipmentIconName: "shield",
+  ttcItemId: 23435,
 } as const satisfies TemperCompanionWeaponType
