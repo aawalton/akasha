@@ -15,6 +15,7 @@ import {
   listedById,
   readingIn,
   type Valued,
+  valueByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -147,18 +148,23 @@ function codeAt(path: string): string {
   return path.replace(/\.ts$/, CODE)
 }
 
-function computedFor(root: string, carried: readonly Carried[]): readonly Computed[] {
+function computedPage(reading: Reading, slug: string): Valued | undefined {
+  const listed = listedAt(reading, COMPUTED, slug)[0]
+  const value = listed === undefined ? null : valueByPath(reading, listed.path)
+  return listed === undefined || value === null ? undefined : { path: listed.path, value }
+}
+
+function computedFor(
+  root: string,
+  reading: Reading,
+  carried: readonly Carried[]
+): readonly Computed[] {
   const wanted = carried.filter((one) => one.pageTypeSlug === COMPUTED)
   if (wanted.length === 0) return []
-  const bySlug = new Map<string, Valued>()
-  for (const one of valuesOfType(root, COMPUTED)) {
-    const slug = textAt(one.value, "slug")
-    if (slug !== null && !bySlug.has(slug)) bySlug.set(slug, one)
-  }
   const found: Computed[] = []
   const textOf = textOver(root)
   for (const one of wanted) {
-    const page = bySlug.get(one.pagePropertySlug)
+    const page = computedPage(reading, one.pagePropertySlug)
     const at = page === undefined ? null : codeAt(page.path)
     const body = at === null ? null : textOf(at)
     const loaded =
@@ -176,7 +182,9 @@ function computedFor(root: string, carried: readonly Carried[]): readonly Comput
       slug: one.propertySlug,
       key: one.key,
       holds: page === undefined ? "" : (textAt(page.value, "holds") ?? ""),
-      ...(reached === null ? {} : { reaches: { slug: reached, kinds: kindsUnder(reached, root) } }),
+      ...(reached === null
+        ? {}
+        : { reaches: { slug: reached, kinds: kindsUnder(reached, reading) } }),
       ...(page?.value[ASKED_BY_NAME] === true ? { askedByName: true } : {}),
       work: held,
     }
@@ -206,23 +214,13 @@ function reachingIn(
 ): Placing {
   const reading = readingIn(root)
   const carried = new Map<string, readonly Computed[]>()
-  const valued = new Map<string, ReadonlyMap<string, Value>>()
   const made = new Map<string, Subject | null>()
 
   const computedOf = (pageTypeSlug: string): readonly Computed[] => {
     const already = carried.get(pageTypeSlug)
     if (already !== undefined) return already
-    const found = computedFor(root, carriedFor(reading, pageTypeSlug))
+    const found = computedFor(root, reading, carriedFor(reading, pageTypeSlug))
     carried.set(pageTypeSlug, found)
-    return found
-  }
-
-  const valuesOf = (pageTypeSlug: string): ReadonlyMap<string, Value> => {
-    const already = valued.get(pageTypeSlug)
-    if (already !== undefined) return already
-    const found = new Map<string, Value>()
-    for (const one of valuesOfType(reading, pageTypeSlug)) found.set(one.path, one.value)
-    valued.set(pageTypeSlug, found)
     return found
   }
 
@@ -232,9 +230,9 @@ function reachingIn(
     const already = made.get(path)
     if (already !== undefined) return already
     const parted = partedIn(path)
-    const value = parted === null ? undefined : valuesOf(parted.pageType).get(path)
+    const value = parted === null ? null : valueByPath(reading, path)
     const subject =
-      parted === null || value === undefined
+      parted === null || value === null
         ? null
         : { id: textAt(value, "id") ?? path, value, computed: computedOf(parted.pageType) }
     made.set(path, subject)
@@ -424,7 +422,7 @@ export function gatheredFor(
     const read = valuesOfType(reading, kind)
     if (read.length === 0) continue
     const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind)
-    const computed = computedFor(root, own)
+    const computed = computedFor(root, reading, own)
     const testing = bodyTests(tests, own, entrying)
     const fallbacks = sidecars.get(kind)?.besides ?? NO_FALLBACKS
     const gathering = { carried: own, fallbacks, files, entries, testing, entrying }

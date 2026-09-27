@@ -100,7 +100,7 @@ export const kindsGathering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A page type's values are read once however many pages reach into that page type.",
+      statement: "A page a calculation reaches is read alone rather than with its whole page type.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -108,7 +108,11 @@ export const kindsGathering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "No page type is read until a calculation reaches into that page type.",
+      statement: "No page is read until a calculation reaches that page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A calculation's page is found by its slug in the index.",
     },
     {
       decisionKind: "decision-kind/absence",
