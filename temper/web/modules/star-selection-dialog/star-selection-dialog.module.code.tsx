@@ -26,17 +26,23 @@ const CONSTELLATION_ICONS = {
   craft: Hammer,
 } as const
 
-const DEFAULT_ITEMS = {
-  warfare: championPoints.data["no-warfare-star"],
-  fitness: championPoints.data["no-fitness-star"],
-  craft: championPoints.data["no-craft-star"],
+const NO_STAR = {
+  warfare: "no-warfare-star",
+  fitness: "no-fitness-star",
+  craft: "no-craft-star",
 } as const
 
-const SLOTTABLE_IDS = {
-  warfare: getSubcategory(championPoints, "warfare-slottables").ids,
-  fitness: getSubcategory(championPoints, "fitness-slottables").ids,
-  craft: getSubcategory(championPoints, "craft-slottables").ids,
-} as const
+type Constellation = StarSelectionDialogProps["constellation"]
+
+function defaultItem(constellation: Constellation): ChampionPointSource {
+  const found = championPoints.data[NO_STAR[constellation]]
+  if (found === undefined) throw new Error(`no champion star page is \`${NO_STAR[constellation]}\``)
+  return found
+}
+
+function slottableIds(constellation: Constellation): readonly ChampionPointId[] {
+  return getSubcategory(championPoints, `${constellation}-slottables`).ids
+}
 
 export function StarSelectionDialog({
   open,
@@ -45,16 +51,13 @@ export function StarSelectionDialog({
   slottedStars,
   onSelect,
 }: StarSelectionDialogProps) {
-  const [selectedItemId, setSelectedItemId] = useState<ChampionPointId>(
-    DEFAULT_ITEMS[constellation].id
-  )
+  const [selectedItemId, setSelectedItemId] = useState<ChampionPointId>(NO_STAR[constellation])
 
   const availableStars = useMemo(() => {
-    const slottableIds = SLOTTABLE_IDS[constellation]
     const actualSlottedStars = slottedStars.filter((id) => !id.startsWith("no-"))
     const slottedSet = new Set(actualSlottedStars)
 
-    return slottableIds
+    return slottableIds(constellation)
       .filter((id) => !id.startsWith("no-") && !slottedSet.has(id))
       .map((id): ChampionPointSource => {
         const source = championPoints.list.find((cp) => cp.id === id)
@@ -77,7 +80,7 @@ export function StarSelectionDialog({
           items: availableStars,
         },
       ],
-      allItems: [DEFAULT_ITEMS[constellation], ...availableStars],
+      allItems: [defaultItem(constellation), ...availableStars],
       filterItem: (item, searchTerm) => {
         const lowerSearch = searchTerm.toLowerCase()
         return (
@@ -92,7 +95,7 @@ export function StarSelectionDialog({
 
   const handleSelect = (itemId: ChampionPointId) => {
     onSelect(itemId)
-    setSelectedItemId(DEFAULT_ITEMS[constellation].id)
+    setSelectedItemId(NO_STAR[constellation])
     onOpenChange(false)
   }
 
@@ -102,7 +105,7 @@ export function StarSelectionDialog({
       onOpenChange={onOpenChange}
       selectedItemId={selectedItemId}
       onSelect={handleSelect}
-      defaultItem={DEFAULT_ITEMS[constellation]}
+      defaultItem={defaultItem(constellation)}
       config={config}
     />
   )

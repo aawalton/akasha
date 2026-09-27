@@ -4,6 +4,11 @@ import {
   potionRestoresOf,
   potionsOf,
 } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
+import {
+  CHAMPION_STAR_READS,
+  holdChampionStars,
+} from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
+import { temperChampionStar } from "akasha/temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts"
 import { temperCurse } from "akasha/temper/catalog/effect/temper-curse/temper-curse.page-type.ts"
 import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
 import { temperSkillSlot } from "akasha/temper/catalog/skill/slot/temper-skill-slot.page-type.ts"
@@ -108,6 +113,7 @@ export const CHARACTER_SOURCE_READS: readonly Read[] = [
   [temperSkillSlot.slug, ["slug", "title", "hashPlace"]],
   ...BUFF_OR_DEBUFF_READS,
   ...POTION_READS,
+  ...CHAMPION_STAR_READS,
 ]
 
 export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undefined {
@@ -122,6 +128,7 @@ export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<
   holdSkillSlots(skillSlotsOf(rowsOf(temperSkillSlot.slug)))
   holdBuffsAndDebuffs(buffsAndDebuffsOf(rowsOf))
   holdPotions(potionsOf(rowsOf))
+  holdChampionStars(rowsOf(temperChampionStar.slug))
   const restores = potionRestoresOf(rowsOf)
   readPotionRestoresFrom(() => restores)
 }

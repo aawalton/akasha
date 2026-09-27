@@ -11,5 +11,10 @@ export const characterCaptureChampionPointMap = {
       decisionKind: "decision-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The places are compiled in from the champion star pages; an empty place has none.",
+    },
   ],
 } as const satisfies Module

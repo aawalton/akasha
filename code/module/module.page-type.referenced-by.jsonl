@@ -5003,12 +5003,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/poison-source/poison-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/craft-passives/craft-passives.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/craft-slottables/craft-slottables.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/fitness-passives/fitness-passives.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/fitness-slottables/fitness-slottables.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/warfare-passives/warfare-passives.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/warfare-slottables/warfare-slottables.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/character-race/modules/race-icon-url/race-icon-url.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/character-race/modules/races/races.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/companion/companions-core/modules/bad-truncate/bad-truncate.module.ts","typed":true,"deferred":false}

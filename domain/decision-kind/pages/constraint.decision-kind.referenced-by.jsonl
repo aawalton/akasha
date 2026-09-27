@@ -894,7 +894,6 @@
 {"propertySlug":"decision-kind","path":"temper/capture/player-answer/modules/player-answer-capture/player-answer-capture.module.ts","id":"01a0d578-6f2a-7c6e-973e-02a89d44f80e"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/temper-capture-shape.domain.ts","id":"01a0604d-23a0-70d4-9f11-7c21f7a7d1bc"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
-{"propertySlug":"decision-kind","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}

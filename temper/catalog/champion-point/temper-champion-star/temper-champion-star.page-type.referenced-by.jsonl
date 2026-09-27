@@ -1,3 +1,8 @@
+{"propertySlug":"import","fileName":"temper-champion-star.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-champion-star.page-type.ts","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-champion-star.page-type.ts","path":"temper/player/character/source/modules/character-source-reading/character-source-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-champion-star.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-champion-star.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-champion-star.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/pages/anglers-instincts.temper-champion-star.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-champion-star.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/pages/arcane-alacrity.temper-champion-star.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-champion-star.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/pages/arcane-supremacy.temper-champion-star.ts","typed":true,"deferred":false}

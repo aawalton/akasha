@@ -2,6 +2,7 @@
 
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import { temperChampionStar } from "akasha/temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts"
 import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts"
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
@@ -83,12 +84,14 @@ export function useSkillCatalog(): SkillCatalog | null {
   const bars = usePages({ pageTypeSlug: temperSkillBar.slug, limit: EVERY })
   const skillSlots = usePages({ pageTypeSlug: temperSkillSlot.slug, limit: EVERY })
   const races = usePages({ pageTypeSlug: temperRace.slug, limit: EVERY })
+  const stars = usePages({ pageTypeSlug: temperChampionStar.slug, limit: EVERY })
   const skillPoints = usePages({ pageTypeSlug: temperSkillPoint.slug, limit: EVERY })
   const completionCategories = usePages({
     pageTypeSlug: temperCompletionCategory.slug,
     limit: EVERY,
   })
   const read = [
+    stars,
     completionCategories,
     skillPoints,
     allPotions,
@@ -166,6 +169,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperRace.slug, races.rows],
       [temperSkillPoint.slug, skillPoints.rows],
       [temperCompletionCategory.slug, completionCategories.rows],
+      [temperChampionStar.slug, stars.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -208,6 +212,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     races.rows,
     skillPoints.rows,
     completionCategories.rows,
+    stars.rows,
   ])
   if (failed !== null) throw failed
   return catalog

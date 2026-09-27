@@ -1,5 +1,5 @@
 import {
-  CHAMPION_POINT_BITS,
+  championPointBits,
   getChampionPointId,
   getChampionPointIndex,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
@@ -29,13 +29,13 @@ function encodeCPDiscipline(
 ): undefined {
   for (let i = 0; i < 4; i++) {
     const cpId = slotted[i] ?? ""
-    writeBits(writer, getChampionPointIndex(cpId), CHAMPION_POINT_BITS)
+    writeBits(writer, getChampionPointIndex(cpId), championPointBits())
   }
 
   const passiveCount = passive.length
   writeBits(writer, passiveCount, CP_PASSIVE_COUNT_BITS)
   for (const cpId of passive) {
-    writeBits(writer, getChampionPointIndex(cpId), CHAMPION_POINT_BITS)
+    writeBits(writer, getChampionPointIndex(cpId), championPointBits())
   }
 }
 
@@ -53,13 +53,13 @@ function decodeCPDiscipline(reader: BitReaderState): {
 } {
   const slotted: ChampionPointId[] = []
   for (let i = 0; i < 4; i++) {
-    slotted.push(getChampionPointId(readBits(reader, CHAMPION_POINT_BITS)))
+    slotted.push(getChampionPointId(readBits(reader, championPointBits())))
   }
 
   const passiveCount = readBits(reader, CP_PASSIVE_COUNT_BITS)
   const passive: ChampionPointId[] = []
   for (let i = 0; i < passiveCount; i++) {
-    passive.push(getChampionPointId(readBits(reader, CHAMPION_POINT_BITS)))
+    passive.push(getChampionPointId(readBits(reader, championPointBits())))
   }
 
   return { slotted, passive }

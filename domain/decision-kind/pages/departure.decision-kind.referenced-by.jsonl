@@ -4811,6 +4811,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.ts","id":"01a0617d-5451-7952-9d26-5748fb7a36ff"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/temper-helpers.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
 {"propertySlug":"decision-kind","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-champion-point-map/character-capture-champion-point-map.module.ts","id":"01a0616b-23c3-7958-8a1f-21a8646a50db"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-class-map/character-capture-class-map.module.ts","id":"01a0616b-83c5-7863-8ef6-9a4458d16ae4"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.ts","id":"01a0616b-618d-790e-b832-fb5fba674711"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment/character-capture-equipment.module.ts","id":"01a0616b-69ef-7681-b39d-d35c456d1dc4"}
@@ -4905,6 +4906,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/temper-alchemy.domain.ts","id":"01a06076-1b69-7174-a838-dc7b0b111961"}
+{"propertySlug":"decision-kind","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.ts","id":"01a06076-1b65-7228-8994-fbce92968c6f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-point.domain.ts","id":"01a06076-1b64-7dfd-b35b-f6c86003f6c1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
