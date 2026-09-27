@@ -105,10 +105,18 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "A first sync leaves a Librarian drained and dazed, but unharmed.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "A sync halts the Library's power drain but leaves it in Emergency Power Mode, near empty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "With both hands on the knots, Alan felt burning pain and saw blue threads joining far worlds.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Afterward Alan knelt at the trunk's foot, wrung out and dizzy, but unhurt.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
