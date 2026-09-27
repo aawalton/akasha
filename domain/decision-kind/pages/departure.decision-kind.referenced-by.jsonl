@@ -5674,6 +5674,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.ts","id":"01a060d9-44ce-740b-8902-a0d1541b3f6e"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/use-destination-types/use-destination-types.module.ts","id":"01a060d9-44ce-76b7-8295-b4cd3f803801"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/value-filter/value-filter.module.ts","id":"01a06100-3c02-7e7f-8b1b-d2db429f456f"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/temper-deconstruct-mode/temper-deconstruct-mode.page-type.ts","id":"01a0e258-5155-7d12-89ba-fcb0c1fc600c"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/test-fixtures/inventory-rule-test-utils/inventory-rule-test-utils.test-fixture.ts","id":"01a06100-3bef-7eeb-afe9-e4458d43d5ef"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.ts","id":"01a06137-f960-762e-920f-bb17bcdd1294"}

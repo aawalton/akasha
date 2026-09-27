@@ -106,6 +106,7 @@ export const temperItemsRulesCore = {
     "module/rule-set-writes",
     "module/item-ids-filter",
     "module/stock-item-priority",
+    "page-type/temper-deconstruct-mode",
   ],
   decisions: [
     {
