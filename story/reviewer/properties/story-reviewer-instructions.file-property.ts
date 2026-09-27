@@ -5,7 +5,7 @@ export const storyReviewerInstructions = {
   type: "page-type/file-property",
   slug: "story-reviewer-instructions",
   propertySlug: "instructions",
-  definition: "what a story reviewer's agent does with a turn's beats",
+  definition: "what a story reviewer's agent does with a turn's beats and prose",
   extensions: ["md"],
   decisions: [
     {

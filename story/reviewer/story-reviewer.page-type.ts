@@ -4,7 +4,7 @@ export const storyReviewer = {
   id: "01a0deb0-2f42-79ab-8969-52d0e5afcb0c",
   type: "page-type/page-type",
   slug: "story-reviewer",
-  definition: "a check run over every played turn's beats before the prose is written",
+  definition: "a check run over every played turn's beats and prose",
   spellings: [
     { partOfSpeech: "part-of-speech/noun", spelling: "story reviewer" },
     { partOfSpeech: "part-of-speech/noun", spelling: "story reviewers" },
