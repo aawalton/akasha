@@ -34,12 +34,12 @@ let skills: readonly SkillPage[] | undefined
 let lines: readonly SkillLinePage[] | undefined
 
 export function skillPages(): readonly SkillPage[] {
-  skills ??= [...$pagesOfType<SkillPage>(temperSkill)]
+  if (skills !== undefined) return skills
+  skills = $pagesOfType<SkillPage>(temperSkill)
   return skills
 }
 
 export function skillLinePages(): readonly SkillLinePage[] {
-  const held = lines ?? [...$pagesOfType<SkillLinePage>(temperSkillLine)]
-  lines = held
-  return held
+  if (lines === undefined) lines = $pagesOfType<SkillLinePage>(temperSkillLine)
+  return lines
 }

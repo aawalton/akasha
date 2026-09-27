@@ -20,7 +20,7 @@ let held: Places | undefined
 let scribed: readonly ScribedSkillPage[] | undefined
 
 export function scribedSkillPages(): readonly ScribedSkillPage[] {
-  if (scribed === undefined) scribed = [...$pagesOfType<ScribedSkillPage>(temperScribedSkill)]
+  if (scribed === undefined) scribed = $pagesOfType<ScribedSkillPage>(temperScribedSkill)
   return scribed
 }
 
