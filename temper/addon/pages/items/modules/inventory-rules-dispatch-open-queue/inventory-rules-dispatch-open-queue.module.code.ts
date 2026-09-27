@@ -1,5 +1,8 @@
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
-import { hasRoomAboveBuffer } from "akasha/temper/addon/pages/items/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
+import {
+  getConfiguredBufferSlots,
+  hasRoomAboveBuffer,
+} from "akasha/temper/addon/pages/items/modules/inventory-backpack-buffer/inventory-backpack-buffer.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   isAnyCooldownActive,
@@ -7,6 +10,11 @@ import {
   isOpenCooldownEnabled,
   onContainerOpenedForCooldown,
 } from "akasha/temper/addon/pages/items/modules/inventory-open-cooldown-protection/inventory-open-cooldown-protection.module.code.ts"
+import {
+  type RoomWait,
+  roomWaitLine,
+  waitForRoom,
+} from "akasha/temper/addon/pages/items/modules/inventory-open-room-wait/inventory-open-room-wait.module.code.ts"
 import {
   clearPendingAction,
   setPendingAction,
@@ -45,6 +53,9 @@ let openQueueGen = 0
 let openQueue: OpenQueueEntry[] = []
 let openQueueOpenedLinks: string[] = []
 let savedUpdateLootWindow: EsoLootWindow["UpdateLootWindow"] | undefined
+let runRoomWait: RoomWait | undefined
+let waitingForRoom: RoomWait | undefined
+let lastRoomWaitLine = ""
 
 export const ATTEMPTED_OPEN_LINKS_HOLDER: { set: LuaSet<string> } = { set: new LuaSet<string>() }
 let inFinishOpenQueueRescan = false
@@ -88,6 +99,23 @@ function cleanupOpenLootEvents(): undefined {
   unhookLootWindow()
 }
 
+function sayRoomWait(): undefined {
+  waitingForRoom = runRoomWait
+  runRoomWait = undefined
+  if (waitingForRoom === undefined) {
+    lastRoomWaitLine = ""
+    return
+  }
+  const line = roomWaitLine(waitingForRoom, getConfiguredBufferSlots())
+  if (line === lastRoomWaitLine) return
+  lastRoomWaitLine = line
+  d(`[${ADDON_NAME}] ${line}`)
+}
+
+export function hasRoomForWaitingOpens(): boolean {
+  return waitingForRoom !== undefined && hasRoomAboveBuffer(waitingForRoom.lootSlots)
+}
+
 function finishOpenQueue(): undefined {
   const hadOpens = openQueueOpenedLinks.length > 0
   if (hadOpens) {
@@ -95,6 +123,7 @@ function finishOpenQueue(): undefined {
   }
   openQueueOpenedLinks = []
   openQueue = []
+  sayRoomWait()
   inFinishOpenQueueRescan = true
   RESCAN_INVENTORY_HOLDER.fn?.()
   inFinishOpenQueueRescan = false
@@ -105,6 +134,7 @@ export function enqueueOpenItems(items: OpenQueueEntry[]): undefined {
   cleanupOpenLootEvents()
   openQueue = items
   openQueueOpenedLinks = []
+  runRoomWait = undefined
   processNextOpen()
 }
 
@@ -181,6 +211,7 @@ function processNextOpen(): undefined {
     return
   }
   if (entry.isStackable && !hasRoomAboveBuffer(1)) {
+    runRoomWait = waitForRoom(runRoomWait, 1)
     skipEntryAndAdvance(entry)
     return
   }
@@ -222,10 +253,14 @@ function processNextOpen(): undefined {
       }
       const baseGameHasSpace = CheckInventorySpaceAndWarn(slotsNeeded)
       if (!baseGameHasSpace || !hasRoomAboveBuffer(slotsNeeded)) {
-        ATTEMPTED_OPEN_LINKS_HOLDER.set.add(entry.itemLink)
         cleanupOpenLootEvents()
-        openQueue = []
-        finishOpenQueue()
+        runRoomWait = waitForRoom(runRoomWait, slotsNeeded)
+        ATTEMPTED_OPEN_LINKS_HOLDER.set.add(entry.itemLink)
+        clearPendingAction(entry.bagId, entry.slotIndex)
+        zo_callLater(function (this: void): undefined {
+          if (gen !== openQueueGen) return
+          dropHeadAndAdvance()
+        }, OPEN_RETRY_MS)
         return
       }
       LOOT_SHARED.LootAllItems()

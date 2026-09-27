@@ -11,6 +11,20 @@ export const inventoryRulesDispatchOpenQueue = {
       statement:
         "A stolen container opens while hidden, outside justice, or in an Outlaw's Refuge.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A container without backpack room is passed over, and the run goes on to the next.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A run that passed containers over says in chat how many and the free slots needed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The same line is not said again until what it says changes.",
+    },
   ],
   code: "ts",
 } as const satisfies Module
