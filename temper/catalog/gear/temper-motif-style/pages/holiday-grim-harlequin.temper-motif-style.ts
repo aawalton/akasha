@@ -4,6 +4,7 @@ export const holidayGrimHarlequin = {
   id: "01a0e0f0-274a-77dc-a1f7-7315f1413a43",
   type: "page-type/temper-motif-style",
   slug: "holiday-grim-harlequin",
-  title: "ITEMSTYLE_HOLIDAY_GRIM_HARLEQUIN",
+  title: "Grim Harlequin",
   esoItemStyleId: 58,
+  styleName: "Grim Harlequin",
 } as const satisfies TemperMotifStyle
