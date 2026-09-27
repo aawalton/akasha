@@ -5,6 +5,8 @@ export const greymoor = {
   type: "page-type/temper-motif-style",
   slug: "greymoor",
   title: "Greymoor",
+  esoItemStyleId: 101,
+  styleName: "Greymoor",
   collectionIndex: 70,
   sourceDescription: "Harrowstorm dailies (Western Skyrim)",
   dropSources: [
