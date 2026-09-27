@@ -1,84 +1,61 @@
-import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
-import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { temperCompanionArmorWeight } from "akasha/temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts"
+import type { TemperCompanionArmorWeight } from "akasha/temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.types.ts"
+import { temperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.ts"
+import type { TemperCompanionTrait } from "akasha/temper/catalog/companion/trait/temper-companion-trait.page-type.types.ts"
+import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts"
+import type { TemperCompanionWeaponType } from "akasha/temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.types.ts"
 import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
 import type { TemperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.types.ts"
 
-export const ARMOR_TRAIT_TO_INDEX: Record<number, number> = {
-  [ITEM_TRAIT_TYPE_NONE]: 0,
-  [ITEM_TRAIT_TYPE_ARMOR_AGGRESSIVE]: 1,
-  [ITEM_TRAIT_TYPE_ARMOR_AUGMENTED]: 2,
-  [ITEM_TRAIT_TYPE_ARMOR_BOLSTERED]: 3,
-  [ITEM_TRAIT_TYPE_ARMOR_FOCUSED]: 4,
-  [ITEM_TRAIT_TYPE_ARMOR_PROLIFIC]: 5,
-  [ITEM_TRAIT_TYPE_ARMOR_QUICKENED]: 6,
-  [ITEM_TRAIT_TYPE_ARMOR_SHATTERING]: 7,
-  [ITEM_TRAIT_TYPE_ARMOR_SOOTHING]: 8,
-  [ITEM_TRAIT_TYPE_ARMOR_VIGOROUS]: 9,
-}
+type Places = Record<number, number>
 
-export const JEWELRY_TRAIT_TO_INDEX: Record<number, number> = {
-  [ITEM_TRAIT_TYPE_NONE]: 0,
-  [ITEM_TRAIT_TYPE_JEWELRY_AGGRESSIVE]: 1,
-  [ITEM_TRAIT_TYPE_JEWELRY_AUGMENTED]: 2,
-  [ITEM_TRAIT_TYPE_JEWELRY_BOLSTERED]: 3,
-  [ITEM_TRAIT_TYPE_JEWELRY_FOCUSED]: 4,
-  [ITEM_TRAIT_TYPE_JEWELRY_PROLIFIC]: 5,
-  [ITEM_TRAIT_TYPE_JEWELRY_QUICKENED]: 6,
-  [ITEM_TRAIT_TYPE_JEWELRY_SHATTERING]: 7,
-  [ITEM_TRAIT_TYPE_JEWELRY_SOOTHING]: 8,
-  [ITEM_TRAIT_TYPE_JEWELRY_VIGOROUS]: 9,
-}
+type Placed = { readonly hashPlace: number }
 
-export const WEAPON_TRAIT_TO_INDEX: Record<number, number> = {
-  [ITEM_TRAIT_TYPE_NONE]: 0,
-  [ITEM_TRAIT_TYPE_WEAPON_AGGRESSIVE]: 1,
-  [ITEM_TRAIT_TYPE_WEAPON_AUGMENTED]: 2,
-  [ITEM_TRAIT_TYPE_WEAPON_BOLSTERED]: 3,
-  [ITEM_TRAIT_TYPE_WEAPON_FOCUSED]: 4,
-  [ITEM_TRAIT_TYPE_WEAPON_PROLIFIC]: 5,
-  [ITEM_TRAIT_TYPE_WEAPON_QUICKENED]: 6,
-  [ITEM_TRAIT_TYPE_WEAPON_SHATTERING]: 7,
-  [ITEM_TRAIT_TYPE_WEAPON_SOOTHING]: 8,
-  [ITEM_TRAIT_TYPE_WEAPON_VIGOROUS]: 9,
-}
+type TraitNumbers = Pick<
+  TemperCompanionTrait,
+  "hashPlace" | "esoArmorTraitType" | "esoJewelryTraitType" | "esoWeaponTraitType"
+>
 
-function qualityPlaces(this: void): Record<number, number> {
-  const found: Record<number, number> = {}
-  for (const one of $pagesOfType<Pick<TemperQuality, "esoDisplayQuality" | "hashPlace">>(
-    temperQuality
-  )) {
-    found[one.esoDisplayQuality] = one.hashPlace
+function placesBy<Page extends Placed>(
+  this: void,
+  pages: readonly Page[],
+  gameNumberOf: (this: void, page: Page) => number | undefined
+): Places {
+  const found: Places = {}
+  for (const page of pages) {
+    const gameNumber = gameNumberOf(page)
+    if (gameNumber !== undefined) found[gameNumber] = page.hashPlace
   }
   return found
 }
 
-export const QUALITY_TO_INDEX: Record<number, number> = qualityPlaces()
+const TRAITS = $pagesOfType<TraitNumbers>(temperCompanionTrait)
 
-export const ARMOR_TYPE_TO_INDEX: Record<number, number> = {
-  [ARMORTYPE_NONE]: 0,
-  [ARMORTYPE_LIGHT]: 1,
-  [ARMORTYPE_MEDIUM]: 2,
-  [ARMORTYPE_HEAVY]: 3,
-}
+export const ARMOR_TRAIT_TO_INDEX: Places = placesBy(TRAITS, (one) => one.esoArmorTraitType)
 
-const WEAPON_TYPE_TO_INDEX: Record<number, number> = {
-  [WEAPONTYPE_NONE]: 0,
-  [WEAPONTYPE_SWORD]: 1,
-  [WEAPONTYPE_AXE]: 2,
-  [WEAPONTYPE_HAMMER]: 3,
-  [WEAPONTYPE_DAGGER]: 4,
-  [WEAPONTYPE_TWO_HANDED_SWORD]: 5,
-  [WEAPONTYPE_TWO_HANDED_AXE]: 6,
-  [WEAPONTYPE_TWO_HANDED_HAMMER]: 7,
-  [WEAPONTYPE_BOW]: 8,
-  [WEAPONTYPE_FIRE_STAFF]: 9,
-  [WEAPONTYPE_FROST_STAFF]: 10,
-  [WEAPONTYPE_LIGHTNING_STAFF]: 11,
-  [WEAPONTYPE_HEALING_STAFF]: 12,
-  [WEAPONTYPE_SHIELD]: 13,
-}
+export const JEWELRY_TRAIT_TO_INDEX: Places = placesBy(TRAITS, (one) => one.esoJewelryTraitType)
+
+export const WEAPON_TRAIT_TO_INDEX: Places = placesBy(TRAITS, (one) => one.esoWeaponTraitType)
+
+export const QUALITY_TO_INDEX: Places = placesBy(
+  $pagesOfType<Pick<TemperQuality, "esoDisplayQuality" | "hashPlace">>(temperQuality),
+  (one) => one.esoDisplayQuality
+)
+
+export const ARMOR_TYPE_TO_INDEX: Places = placesBy(
+  $pagesOfType<Pick<TemperCompanionArmorWeight, "armorType" | "hashPlace">>(
+    temperCompanionArmorWeight
+  ),
+  (one) => one.armorType
+)
+
+const WEAPON_TYPE_TO_INDEX: Places = placesBy(
+  $pagesOfType<Pick<TemperCompanionWeaponType, "esoWeaponTypeNumber" | "hashPlace">>(
+    temperCompanionWeaponType
+  ),
+  (one) => one.esoWeaponTypeNumber
+)
 
 export function getArmorTraitIndex(traitType: number): number {
   return ARMOR_TRAIT_TO_INDEX[traitType] ?? 0

@@ -19,5 +19,14 @@ export const equipmentMappings = {
       decisionKind: "decision-kind/departure",
       statement: "A quality's index is the hash place its page states, compiled in from the pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A companion trait, armor weight or weapon type's index is its page's hash place, compiled in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The game constant each index answers to is the one its page states.",
+    },
   ],
 } as const satisfies Module

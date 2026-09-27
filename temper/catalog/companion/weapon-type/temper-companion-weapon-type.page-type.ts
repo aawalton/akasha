@@ -13,6 +13,7 @@ export const temperCompanionWeaponType = {
     { pageProperty: "boolean-property/is-off-hand-only", required: true, many: false },
     { pageProperty: "boolean-property/is-two-handed", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "number-property/eso-weapon-type-number", required: true, many: false },
   ],
   decisions: [
     {

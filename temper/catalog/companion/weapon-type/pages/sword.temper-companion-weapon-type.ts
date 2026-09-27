@@ -10,6 +10,7 @@ export const sword = {
   isTwoHanded: false,
   displayOrder: 1,
   hashPlace: 1,
+  esoWeaponTypeNumber: 3,
   equipmentIconName: "sword",
   ttcItemId: 23597,
 } as const satisfies TemperCompanionWeaponType

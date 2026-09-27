@@ -10,6 +10,7 @@ export const maul = {
   isTwoHanded: true,
   displayOrder: 7,
   hashPlace: 7,
+  esoWeaponTypeNumber: 6,
   equipmentIconName: "maul",
   ttcItemId: 23471,
 } as const satisfies TemperCompanionWeaponType

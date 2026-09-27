@@ -1,6 +1,7 @@
 import type { TemperCompanionThing } from "akasha/temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { IsOffHandOnly } from "akasha/temper/catalog/companion/weapon-type/properties/is-off-hand-only.boolean-property.types.ts"
+import type { EsoWeaponTypeNumber } from "akasha/temper/catalog/gear/temper-weapon-type/properties/eso-weapon-type-number.number-property.types.ts"
 import type { IsTwoHanded } from "akasha/temper/catalog/thing/properties/is-two-handed.boolean-property.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
@@ -11,4 +12,5 @@ export type TemperCompanionWeaponType = TemperCompanionThing & {
   isOffHandOnly: IsOffHandOnly
   isTwoHanded: IsTwoHanded
   hashPlace: HashPlace
+  esoWeaponTypeNumber: EsoWeaponTypeNumber
 }

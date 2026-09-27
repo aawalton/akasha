@@ -10,6 +10,7 @@ export const iceStaff = {
   isTwoHanded: true,
   displayOrder: 10,
   hashPlace: 10,
+  esoWeaponTypeNumber: 13,
   equipmentIconName: "froststaff",
   ttcItemId: 23585,
 } as const satisfies TemperCompanionWeaponType

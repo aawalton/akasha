@@ -10,6 +10,7 @@ export const mace = {
   isTwoHanded: false,
   displayOrder: 3,
   hashPlace: 3,
+  esoWeaponTypeNumber: 2,
   equipmentIconName: "mace",
   ttcItemId: 23712,
 } as const satisfies TemperCompanionWeaponType
