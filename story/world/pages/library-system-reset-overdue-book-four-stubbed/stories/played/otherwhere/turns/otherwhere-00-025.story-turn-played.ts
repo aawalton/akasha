@@ -14,7 +14,7 @@ export const otherwhere00025 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "I tackle it into the salt, holding it down with my weight until it stops moving",
   beats: [
     "Nala throws her whole weight forward and drives the bookworm down into the salt line.",
@@ -25,5 +25,8 @@ export const otherwhere00025 = {
     "Two dried coils lie beside her in the ruined oval, and her left sleeve is dark with blood.",
     "Beyond the columns, further back in the gloom, the wet chewing goes on.",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  issues: [
+    '"Two dried coils lie beside her in the ruined oval" - only 024\'s coil is in it; one is under her',
+  ],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
