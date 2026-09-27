@@ -21,15 +21,22 @@ import type { CompanionId } from "akasha/temper/catalog/companion/companions-cor
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionListPanelCardDamage } from "akasha/temper/web/phrase/pages/companion-list-panel-card-damage.temper-web-phrase.ts"
+import { companionListPanelCardHealing } from "akasha/temper/web/phrase/pages/companion-list-panel-card-healing.temper-web-phrase.ts"
+import { companionListPanelCardMyBuild } from "akasha/temper/web/phrase/pages/companion-list-panel-card-my-build.temper-web-phrase.ts"
+import { companionListPanelCardScore } from "akasha/temper/web/phrase/pages/companion-list-panel-card-score.temper-web-phrase.ts"
+import { companionListPanelCardSupport } from "akasha/temper/web/phrase/pages/companion-list-panel-card-support.temper-web-phrase.ts"
+import { companionListPanelCardTarget } from "akasha/temper/web/phrase/pages/companion-list-panel-card-target.temper-web-phrase.ts"
+import { companionListPanelCardToughness } from "akasha/temper/web/phrase/pages/companion-list-panel-card-toughness.temper-web-phrase.ts"
+import { companionListPanelCardUntitledBuild } from "akasha/temper/web/phrase/pages/companion-list-panel-card-untitled-build.temper-web-phrase.ts"
 
-function getRolePrimaryStats(roles: readonly CompanionBaseRoleId[]): ReadonlySet<string> {
-  const stats = new Set<string>()
-  if (roles.includes("dps")) stats.add("Damage")
-  if (roles.includes("healer")) stats.add("Healing")
-  if (roles.includes("support")) stats.add("Support")
-  if (roles.includes("tank")) stats.add("Toughness")
-  return stats
-}
+const ROLE_STATS = [
+  { role: "dps", metricId: "companion-dps-total", label: companionListPanelCardDamage },
+  { role: "healer", metricId: "companion-hps-total", label: companionListPanelCardHealing },
+  { role: "support", metricId: "companion-support-score", label: companionListPanelCardSupport },
+  { role: "tank", metricId: "companion-tps-total", label: companionListPanelCardToughness },
+] as const satisfies readonly { role: CompanionBaseRoleId; metricId: string; label: unknown }[]
 
 interface CompanionListPanelCardBuild {
   id: string
@@ -59,6 +66,7 @@ export function CompanionListPanelCard({
   userHandle,
   precomputedStats,
 }: CompanionListPanelCardProps) {
+  const phrase = usePhrase()
   const buildData = build.buildData
 
   const stats =
@@ -71,15 +79,7 @@ export function CompanionListPanelCard({
   const roles = buildData?.companion?.baseRoles ?? []
   const weaponRoleId = buildData ? getWeaponRole(buildData) : "no-weapon-role"
 
-  const allStats = [
-    { name: "Damage", metricId: "companion-dps-total" as const },
-    { name: "Healing", metricId: "companion-hps-total" as const },
-    { name: "Support", metricId: "companion-support-score" as const },
-    { name: "Toughness", metricId: "companion-tps-total" as const },
-  ]
-
-  const primaryNames = getRolePrimaryStats(roles)
-  const relevantStats = allStats.filter((s) => primaryNames.has(s.name))
+  const relevantStats = ROLE_STATS.filter((s) => roles.includes(s.role))
 
   return (
     <Link
@@ -93,11 +93,15 @@ export function CompanionListPanelCard({
       >
         <CardHeader className="flex-col items-stretch pb-3">
           <CardTitle className="text-lg">
-            {build.name !== "" ? build.name : "Untitled Build"}
+            {build.name !== "" ? build.name : phrase(companionListPanelCardUntitledBuild.slug)}
             <CardTitleBadges>
               {!isOwnBuild && userHandle != null && <Badge variant="accent">{userHandle}</Badge>}
-              {isOwnBuild && <Badge variant="accent">My Build</Badge>}
-              {isTarget && <Badge variant="elevation-muted">Target</Badge>}
+              {isOwnBuild && (
+                <Badge variant="accent">{phrase(companionListPanelCardMyBuild.slug)}</Badge>
+              )}
+              {isTarget && (
+                <Badge variant="elevation-muted">{phrase(companionListPanelCardTarget.slug)}</Badge>
+              )}
             </CardTitleBadges>
           </CardTitle>
           <BadgeRow>
@@ -111,14 +115,14 @@ export function CompanionListPanelCard({
           </BadgeRow>
           <BadgeRow>
             <Badge variant="accent" className="font-semibold">
-              <span>Score</span>
+              <span>{phrase(companionListPanelCardScore.slug)}</span>
               <span className="font-mono">{Math.round(build.score).toLocaleString()}</span>
             </Badge>
             {relevantStats.map((metric) => {
               const value = stats?.metrics[metric.metricId]?.value ?? 0
               return (
                 <Badge key={metric.metricId} variant="elevation-muted">
-                  <span className="text-secondary">{metric.name}</span>
+                  <span className="text-secondary">{phrase(metric.label.slug)}</span>
                   <span className="font-mono">{value.toLocaleString()}</span>
                 </Badge>
               )
