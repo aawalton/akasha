@@ -29,4 +29,5 @@ export const theDatingGame00019 = {
     "A system window opens: [Echo, Closeness Level 2: a friend you are getting to know.]",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
