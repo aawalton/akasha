@@ -10,7 +10,7 @@ export const otherwhere00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: '"Okay, I\'m in a magic library of some sort? Library, can you hear me?"',
   beats: [
     'Kneeling, she says, "Okay, I\'m in a magic library of some sort? Library, can you hear me?"',
@@ -28,5 +28,5 @@ export const otherwhere00005 = {
   ],
   issues: ['"It sits back on its haunches in front of you" - Leave It Open'],
   lore: ["lore/otherwhere-alan", "place/otherwhere-core-chamber", "lore/otherwhere-links"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
