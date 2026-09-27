@@ -83,6 +83,7 @@
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/inference/wan/frame/inference-wan-frame.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/inference/wan/generate/inference-wan-generate.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/inference/zimage-up/inference-zimage-up.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/inference/zimage/inference-zimage.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"command.page-type.types.ts","path":"command/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.ts","typed":true,"deferred":false}

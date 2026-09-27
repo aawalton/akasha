@@ -2255,6 +2255,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.ts","id":"01a072fa-322d-7288-8757-5da45309b677"}
 {"propertySlug":"decision-kind","path":"command/pages/inference/wan/modules/wan-hosting/wan-hosting.module.ts","id":"01a072fa-322d-77af-bb5a-82b475102492"}
 {"propertySlug":"decision-kind","path":"command/pages/inference/wan/score/inference-wan-score.command.ts","id":"01a093fb-9d2a-7ffc-a042-a59588f4a83d"}
+{"propertySlug":"decision-kind","path":"command/pages/inference/zimage-up/inference-zimage-up.command.ts","id":"01a0e36d-53a8-7f2c-acb3-effe08fa9d29"}
 {"propertySlug":"decision-kind","path":"command/pages/inference/zimage/inference-zimage.command.ts","id":"01a0680a-9cc0-7f99-8e78-ba4b0f5be1dd"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.ts","id":"01a09404-cdd0-7681-995a-00232cd57b1c"}
 {"propertySlug":"decision-kind","path":"command/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.ts","id":"01a09404-76c2-7202-b118-752495e599e2"}

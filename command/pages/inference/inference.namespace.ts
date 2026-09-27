@@ -17,6 +17,7 @@ export const inference = {
     "command/inference-upscale",
     "command/inference-video-qa",
     "command/inference-zimage",
+    "command/inference-zimage-up",
     "namespace/inference-voice",
     "namespace/inference-wan",
   ],

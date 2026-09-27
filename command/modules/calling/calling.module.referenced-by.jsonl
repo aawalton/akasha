@@ -197,6 +197,8 @@
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/inference/zimage-up/inference-zimage-up.command.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/inference/zimage-up/inference-zimage-up.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"calling.module.code.ts","path":"command/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.code.ts","typed":true,"deferred":false}

@@ -162,6 +162,7 @@
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/inference/wan/modules/wan-clip-rendering/wan-clip-rendering.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/inference/zimage-up/inference-zimage-up.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"command-answering.module.code.ts","path":"command/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.code.ts","typed":false,"deferred":false}

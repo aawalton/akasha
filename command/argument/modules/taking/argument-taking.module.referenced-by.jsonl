@@ -86,6 +86,7 @@
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/inference/wan/frame/inference-wan-frame.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/inference/wan/generate/inference-wan-generate.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/inference/wan/score/inference-wan-score.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/inference/zimage-up/inference-zimage-up.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/inference/zimage/inference-zimage.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/infrastructure/dev-server/bootstrap/infrastructure-dev-server-bootstrap.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"argument-taking.module.code.ts","path":"command/pages/infrastructure/dev-server/log/infrastructure-dev-server-log.command.code.ts","typed":false,"deferred":false}
