@@ -12,5 +12,9 @@ export const homePageContent = {
       statement:
         "The newest builds are decoded again whenever a catalogue they are decoded against is read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

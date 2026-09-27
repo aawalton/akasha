@@ -36,6 +36,11 @@ import { RecentCompanionsCard } from "akasha/temper/web/modules/recent-companion
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { homePageContentBringCharacters } from "akasha/temper/web/phrase/pages/home-page-content-bring-characters.temper-web-phrase.ts"
+import { homePageContentGetStarted } from "akasha/temper/web/phrase/pages/home-page-content-get-started.temper-web-phrase.ts"
+import { homePageContentPlansAround } from "akasha/temper/web/phrase/pages/home-page-content-plans-around.temper-web-phrase.ts"
+import { homePageContentTitle } from "akasha/temper/web/phrase/pages/home-page-content-title.temper-web-phrase.ts"
 import { useCompletionCharacters } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
@@ -43,10 +48,11 @@ import { Suspense, useMemo } from "react"
 const RECENT_BUILD_COUNT = 5
 
 export function HomePageContent() {
+  const phrase = usePhrase()
   return (
     <PageLayout skeleton={simplePageSkeleton({ titleWidth: 80 })}>
       <PageLayout.Header>
-        <PageTitle>Home</PageTitle>
+        <PageTitle>{phrase(homePageContentTitle.slug)}</PageTitle>
       </PageLayout.Header>
       <PageLayout.Content>
         <QueryErrorBoundary>
@@ -70,22 +76,20 @@ export function HomePageContent() {
 }
 
 function HomeGetStartedCard() {
+  const phrase = usePhrase()
   return (
-    <PanelCard id="home-get-started" title="Get Started">
+    <PanelCard id="home-get-started" title={phrase(homePageContentGetStarted.slug)}>
       <Empty>
         <EmptyHeader>
           <EmptyMedia variant="icon">
             <Gamepad2 />
           </EmptyMedia>
-          <EmptyTitle>Bring your ESO characters in</EmptyTitle>
-          <EmptyDescription>
-            Temper plans around your own characters, gear, and inventory. Start here to see what
-            connecting them involves.
-          </EmptyDescription>
+          <EmptyTitle>{phrase(homePageContentBringCharacters.slug)}</EmptyTitle>
+          <EmptyDescription>{phrase(homePageContentPlansAround.slug)}</EmptyDescription>
         </EmptyHeader>
         <EmptyContent>
           <Button asChild>
-            <Link href="/watcher">Get Started</Link>
+            <Link href="/watcher">{phrase(homePageContentGetStarted.slug)}</Link>
           </Button>
         </EmptyContent>
       </Empty>
