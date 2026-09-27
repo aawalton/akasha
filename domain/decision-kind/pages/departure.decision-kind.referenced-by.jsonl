@@ -6186,6 +6186,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/constraint-badges/constraint-badges.module.ts","id":"01a06421-2522-7797-9798-69269634bacb"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/consumables-panel-card/consumables-panel-card.module.ts","id":"01a0642c-5b7a-7ed1-98a3-03dc8ef27b95"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.ts","id":"01a06432-b190-7747-916a-01f0593a3621"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/effect-card/effect-card.module.ts","id":"01a0641f-8bec-738d-a051-aa742fad450a"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/effects-panel-card/effects-panel-card.module.ts","id":"01a0642c-5bb3-7bdb-83ac-f01c253585a7"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/equipment-panel/equipment-panel.module.ts","id":"01a0642d-9a17-7211-b1be-9d0aa3197165"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/eso-markup-text/eso-markup-text.module.ts","id":"01a0e157-1cce-78d5-b867-717faa29b3e0"}

@@ -6,4 +6,10 @@ export const effectCard = {
   slug: "effect-card",
   definition: "the card gathering the badges of a skill effect",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

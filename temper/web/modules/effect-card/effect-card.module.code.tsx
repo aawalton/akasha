@@ -16,6 +16,48 @@ import type { CompanionEffect } from "akasha/temper/catalog/companion/companions
 import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { calculateEffectValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
 import { formatAbbreviated } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
+import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { effectCardAllAbilities } from "akasha/temper/web/phrase/pages/effect-card-all-abilities.temper-web-phrase.ts"
+import { effectCardArmorPieceScaling } from "akasha/temper/web/phrase/pages/effect-card-armor-piece-scaling.temper-web-phrase.ts"
+import { effectCardCastTime } from "akasha/temper/web/phrase/pages/effect-card-cast-time.temper-web-phrase.ts"
+import { effectCardChannel } from "akasha/temper/web/phrase/pages/effect-card-channel.temper-web-phrase.ts"
+import { effectCardCooldown } from "akasha/temper/web/phrase/pages/effect-card-cooldown.temper-web-phrase.ts"
+import { effectCardCooldownReduction } from "akasha/temper/web/phrase/pages/effect-card-cooldown-reduction.temper-web-phrase.ts"
+import { effectCardDamage } from "akasha/temper/web/phrase/pages/effect-card-damage.temper-web-phrase.ts"
+import { effectCardDamageOverTime } from "akasha/temper/web/phrase/pages/effect-card-damage-over-time.temper-web-phrase.ts"
+import { effectCardDelay } from "akasha/temper/web/phrase/pages/effect-card-delay.temper-web-phrase.ts"
+import { effectCardDelayedEffect } from "akasha/temper/web/phrase/pages/effect-card-delayed-effect.temper-web-phrase.ts"
+import { effectCardDuration } from "akasha/temper/web/phrase/pages/effect-card-duration.temper-web-phrase.ts"
+import { effectCardHeal } from "akasha/temper/web/phrase/pages/effect-card-heal.temper-web-phrase.ts"
+import { effectCardHealOverTime } from "akasha/temper/web/phrase/pages/effect-card-heal-over-time.temper-web-phrase.ts"
+import { effectCardInterval } from "akasha/temper/web/phrase/pages/effect-card-interval.temper-web-phrase.ts"
+import { effectCardLightAttackHeal } from "akasha/temper/web/phrase/pages/effect-card-light-attack-heal.temper-web-phrase.ts"
+import { effectCardMultiHeal } from "akasha/temper/web/phrase/pages/effect-card-multi-heal.temper-web-phrase.ts"
+import { effectCardOtherAbilities } from "akasha/temper/web/phrase/pages/effect-card-other-abilities.temper-web-phrase.ts"
+import { effectCardPassive } from "akasha/temper/web/phrase/pages/effect-card-passive.temper-web-phrase.ts"
+import { effectCardPeriodicEffect } from "akasha/temper/web/phrase/pages/effect-card-periodic-effect.temper-web-phrase.ts"
+import { effectCardPlayerTrigger } from "akasha/temper/web/phrase/pages/effect-card-player-trigger.temper-web-phrase.ts"
+import { effectCardReset } from "akasha/temper/web/phrase/pages/effect-card-reset.temper-web-phrase.ts"
+import { effectCardResourceCost } from "akasha/temper/web/phrase/pages/effect-card-resource-cost.temper-web-phrase.ts"
+import { effectCardRetaliation } from "akasha/temper/web/phrase/pages/effect-card-retaliation.temper-web-phrase.ts"
+import { effectCardSeconds } from "akasha/temper/web/phrase/pages/effect-card-seconds.temper-web-phrase.ts"
+import { effectCardShield } from "akasha/temper/web/phrase/pages/effect-card-shield.temper-web-phrase.ts"
+import { effectCardSynergy } from "akasha/temper/web/phrase/pages/effect-card-synergy.temper-web-phrase.ts"
+import { effectCardUltimateGeneration } from "akasha/temper/web/phrase/pages/effect-card-ultimate-generation.temper-web-phrase.ts"
+
+const NAMED_BY_TYPE = {
+  passive: effectCardPassive.slug,
+  "multi-heal": effectCardMultiHeal.slug,
+  "player-trigger": effectCardPlayerTrigger.slug,
+  "light-attack-heal": effectCardLightAttackHeal.slug,
+  "resource-cost": effectCardResourceCost.slug,
+  "armor-piece-scaling": effectCardArmorPieceScaling.slug,
+  "cast-time": effectCardCastTime.slug,
+  channel: effectCardChannel.slug,
+} as const
 
 interface EffectCardProps {
   effect: CompanionEffect
@@ -24,7 +66,8 @@ interface EffectCardProps {
 
 export function EffectCard({ effect, stats }: EffectCardProps) {
   const surface = useSurface()
-  const { label, value, targetInfo } = getEffectCardDisplay(effect, stats)
+  const phrase = usePhrase()
+  const { label, value, targetInfo } = getEffectCardDisplay(effect, phrase, stats)
 
   return (
     <div
@@ -44,17 +87,20 @@ export function EffectCard({ effect, stats }: EffectCardProps) {
 
 function getEffectCardDisplay(
   effect: CompanionEffect,
+  phrase: Phrase,
   stats?: CompanionFormulaStats
 ): {
   label: string
   value: string | null
   targetInfo: string | null
 } {
+  const seconds = (count: number) => phrase(effectCardSeconds.slug, { seconds: count })
+  const damage = (type: string) => phrase(effectCardDamage.slug, { type })
   switch (effect.type) {
     case "damage": {
       const damageValue = calculateEffectValue(effect, stats)
       return {
-        label: formatDamageType(effect.damageType) + " Damage",
+        label: damage(formatDamageType(effect.damageType)),
         value: damageValue != null ? formatAbbreviated(Math.round(damageValue)) : null,
         targetInfo: formatTargetInfo(effect.target),
       }
@@ -63,10 +109,10 @@ function getEffectCardDisplay(
     case "dot": {
       const dotValue = calculateEffectValue(effect, stats)
       return {
-        label: formatDamageType(effect.damageType) + " DoT",
+        label: phrase(effectCardDamageOverTime.slug, { type: formatDamageType(effect.damageType) }),
         value:
           dotValue != null
-            ? `${formatAbbreviated(Math.round(dotValue))} / ${effect.duration}s`
+            ? `${formatAbbreviated(Math.round(dotValue))} / ${seconds(effect.duration)}`
             : null,
         targetInfo: formatTargetInfo(effect.target),
       }
@@ -75,7 +121,7 @@ function getEffectCardDisplay(
     case "heal": {
       const healValue = calculateEffectValue(effect, stats)
       return {
-        label: "Heal",
+        label: phrase(effectCardHeal.slug),
         value: healValue != null ? formatAbbreviated(Math.round(healValue)) : null,
         targetInfo: formatTargetInfo(effect.target),
       }
@@ -84,10 +130,10 @@ function getEffectCardDisplay(
     case "hot": {
       const hotValue = calculateEffectValue(effect, stats)
       return {
-        label: "Heal over Time",
+        label: phrase(effectCardHealOverTime.slug),
         value:
           hotValue != null
-            ? `${formatAbbreviated(Math.round(hotValue))} / ${effect.duration}s`
+            ? `${formatAbbreviated(Math.round(hotValue))} / ${seconds(effect.duration)}`
             : null,
         targetInfo: formatTargetInfo(effect.target),
       }
@@ -96,7 +142,7 @@ function getEffectCardDisplay(
     case "shield": {
       const shieldValue = calculateEffectValue(effect, stats)
       return {
-        label: "Shield",
+        label: phrase(effectCardShield.slug),
         value: shieldValue != null ? formatAbbreviated(Math.round(shieldValue)) : null,
         targetInfo: formatTargetInfo(effect.target),
       }
@@ -105,7 +151,7 @@ function getEffectCardDisplay(
     case "multi-hit": {
       const hitValue = calculateEffectValue(effect, stats)
       return {
-        label: formatDamageType(effect.damageType) + " Damage",
+        label: damage(formatDamageType(effect.damageType)),
         value:
           hitValue != null
             ? `${formatAbbreviated(Math.round(hitValue))} x ${effect.hitCount}`
@@ -117,55 +163,58 @@ function getEffectCardDisplay(
     case "apply-status":
       return {
         label: formatStatusEffect(effect.status.status),
-        value: `${effect.status.duration}s`,
+        value: seconds(effect.status.duration),
         targetInfo: formatTargetInfo(effect.target),
       }
 
     case "apply-buff":
       return {
         label: formatBuffType(effect.buff.buff),
-        value: `${effect.buff.duration}s`,
+        value: seconds(effect.buff.duration),
         targetInfo: formatTargetInfo(effect.target),
       }
 
     case "apply-debuff":
       return {
         label: formatDebuffType(effect.debuff.debuff),
-        value: `${effect.debuff.duration}s`,
+        value: seconds(effect.debuff.duration),
         targetInfo: formatTargetInfo(effect.target),
       }
 
     case "ultimate-generation":
       return {
-        label: "Ultimate Generation",
+        label: phrase(effectCardUltimateGeneration.slug),
         value: `+${effect.value}`,
         targetInfo: null,
       }
 
     case "cooldown":
       return {
-        label: "Cooldown",
-        value: `${effect.duration}s`,
+        label: phrase(effectCardCooldown.slug),
+        value: seconds(effect.duration),
         targetInfo: null,
       }
 
     case "cooldown-reduction":
       return {
-        label: "Cooldown Reduction",
-        value: effect.value === "reset" ? "Reset" : `-${effect.value}s`,
-        targetInfo: effect.scope === "all" ? "All abilities" : "Other abilities",
+        label: phrase(effectCardCooldownReduction.slug),
+        value:
+          effect.value === "reset" ? phrase(effectCardReset.slug) : `-${seconds(effect.value)}`,
+        targetInfo: phrase(
+          effect.scope === "all" ? effectCardAllAbilities.slug : effectCardOtherAbilities.slug
+        ),
       }
 
     case "special":
       return {
         label: formatSpecialEffect(effect.effect),
-        value: effect.duration != null ? `${effect.duration}s` : null,
+        value: effect.duration != null ? seconds(effect.duration) : null,
         targetInfo: null,
       }
 
     case "synergy":
       return {
-        label: `Synergy: ${effect.name}`,
+        label: phrase(effectCardSynergy.slug, { name: effect.name }),
         value: null,
         targetInfo: null,
       }
@@ -173,7 +222,7 @@ function getEffectCardDisplay(
     case "retaliation": {
       const retaliationValue = calculateEffectValue(effect, stats)
       return {
-        label: "Retaliation",
+        label: phrase(effectCardRetaliation.slug),
         value: retaliationValue != null ? formatAbbreviated(Math.round(retaliationValue)) : null,
         targetInfo: formatDamageType(effect.damageType),
       }
@@ -181,70 +230,28 @@ function getEffectCardDisplay(
 
     case "periodic-trigger":
       return {
-        label: "Periodic Effect",
-        value: `${effect.interval}s interval`,
-        targetInfo: `${effect.duration}s duration`,
+        label: phrase(effectCardPeriodicEffect.slug),
+        value: phrase(effectCardInterval.slug, { seconds: effect.interval }),
+        targetInfo: phrase(effectCardDuration.slug, { seconds: effect.duration }),
       }
 
     case "delayed":
       return {
-        label: "Delayed Effect",
-        value: `${effect.delay}s delay`,
+        label: phrase(effectCardDelayedEffect.slug),
+        value: phrase(effectCardDelay.slug, { seconds: effect.delay }),
         targetInfo: null,
       }
 
     case "passive":
-      return {
-        label: effect.type,
-        value: null,
-        targetInfo: null,
-      }
-
     case "multi-heal":
-      return {
-        label: effect.type,
-        value: null,
-        targetInfo: null,
-      }
-
     case "player-trigger":
-      return {
-        label: effect.type,
-        value: null,
-        targetInfo: null,
-      }
-
     case "light-attack-heal":
-      return {
-        label: effect.type,
-        value: null,
-        targetInfo: null,
-      }
-
     case "resource-cost":
-      return {
-        label: effect.type,
-        value: null,
-        targetInfo: null,
-      }
-
     case "armor-piece-scaling":
-      return {
-        label: effect.type,
-        value: null,
-        targetInfo: null,
-      }
-
     case "cast-time":
-      return {
-        label: effect.type,
-        value: null,
-        targetInfo: null,
-      }
-
     case "channel":
       return {
-        label: effect.type,
+        label: phrase(NAMED_BY_TYPE[effect.type]),
         value: null,
         targetInfo: null,
       }
