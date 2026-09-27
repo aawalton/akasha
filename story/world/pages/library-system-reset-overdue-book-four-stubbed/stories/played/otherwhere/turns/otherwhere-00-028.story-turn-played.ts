@@ -34,4 +34,5 @@ export const otherwhere00028 = {
     "It coils just past the scattered salt, head low, between her and the dark.",
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
