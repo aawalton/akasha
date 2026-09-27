@@ -31,4 +31,5 @@ export const theDatingGame00007 = {
     "She points to her mouth, then to the walls, then to him, and watches whether he understands.",
   ],
   lore: ["lore/the-dating-game-echo"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
