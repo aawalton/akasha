@@ -7,6 +7,7 @@ export type RouteAccessConfig = {
   readonly authPaths: readonly string[]
   readonly openPaths: readonly RegExp[]
   readonly externalRedirectPattern?: RegExp
+  readonly openAt?: (pathname: string) => Promise<boolean>
 }
 
 function landingAfterSignIn(url: URL, config: RouteAccessConfig): string {
@@ -30,6 +31,7 @@ export async function guardedRoot(
   }
 
   if (isAuthPath || config.openPaths.some((one) => one.test(pathname))) return null
+  if ((await config.openAt?.(pathname)) === true) return null
 
   const asked = `${pathname}${url.search}`
   return redirect(

@@ -52,6 +52,37 @@ export function metaFor(site: string | null): (args: { data: DocumentData | unde
   return ({ data }) => metaOf(data?.document, site)
 }
 
+type Matched = { readonly data: unknown } | undefined
+
+function siteNamedIn(matches: readonly Matched[]): string | null {
+  const root = asObjectRecord(matches[0]?.data)
+  return stringIn(asObjectRecord(root?.document)?.title)
+}
+
+export function metaUnderSite({
+  data,
+  matches,
+}: {
+  data: DocumentData | undefined
+  matches: readonly Matched[]
+}): Meta {
+  return metaOf(data?.document, siteNamedIn(matches))
+}
+
+export function openAt(webApp: string): (pathname: string) => Promise<boolean> {
+  return async (pathname) => {
+    const found = await collectPages({
+      pageTypeSlug: SITE_DOCUMENT,
+      where: [
+        { key: "webApp", eq: webApp },
+        { key: "urlPath", eq: pathname.replace(/^\//, "") },
+      ],
+      max: 1,
+    })
+    return found.length > 0
+  }
+}
+
 export function loaderAt(webApp: string, urlPath: string): () => Promise<DocumentData> {
   return async () => ({ document: await siteDocumentAt(webApp, urlPath) })
 }

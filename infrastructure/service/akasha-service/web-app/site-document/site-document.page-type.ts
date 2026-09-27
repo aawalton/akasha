@@ -15,6 +15,7 @@ export const siteDocument = {
     "module/site-document-reading",
     "module/site-document-drawing",
     "module/site-document-welcome",
+    "module/site-document-head",
     "page-type/slide",
   ],
   properties: [

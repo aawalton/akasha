@@ -1959,6 +1959,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/modules/host-answering/host-answering.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/modules/naming/web-app-naming.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/head/site-document-head.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/welcome/site-document-welcome.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/modules/reading/slide-reading.module.ts","typed":true,"deferred":false}

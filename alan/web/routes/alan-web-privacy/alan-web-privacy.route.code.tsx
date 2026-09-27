@@ -1,7 +1,7 @@
 import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
 import { SiteDocumentDrawing } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx"
 import {
-  metaOf,
+  metaUnderSite,
   SITE_DOCUMENT,
   siteDocumentAt,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
@@ -18,9 +18,7 @@ export async function loader() {
 
 type PrivacyLoaderData = Awaited<ReturnType<typeof loader>>
 
-export function meta({ data }: { data: PrivacyLoaderData | undefined }) {
-  return metaOf(data?.document, "Alan Walton")
-}
+export const meta = metaUnderSite
 
 export default function PrivacyRoute({ loaderData }: { loaderData: PrivacyLoaderData }) {
   useLoaderFollowing(READ)

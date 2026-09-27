@@ -16,5 +16,13 @@ export const siteDocumentReading = {
       decisionKind: "decision-kind/departure",
       statement: "A section naming no anchor or no title is not drawn.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A web app's name in a tab is the title of its site document at the empty path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A path showing a site document is open to a reader who has not signed in.",
+    },
   ],
 } as const satisfies Module

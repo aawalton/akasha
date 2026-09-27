@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"alan/atlas-web/routes/atlas-home/atlas-home.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"alan/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"alan/web/routes/about/about.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"alan/web/routes/alan-web-contact/alan-web-contact.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"alan/web/routes/alan-web-home/alan-web-home.route.code.tsx","typed":false,"deferred":false}
@@ -9,6 +10,7 @@
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"alan/web/routes/alan-web-sms/alan-web-sms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"alan/web/routes/alan-web-terms/alan-web-terms.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/drawing/site-document-drawing.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/head/site-document-head.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/welcome/site-document-welcome.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-home/archive-of-worlds-home.route.code.tsx","typed":false,"deferred":false}

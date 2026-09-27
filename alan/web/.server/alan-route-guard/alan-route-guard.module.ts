@@ -17,6 +17,10 @@ export const alanRouteGuard = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A path the guard is told shows a site document is reached by anybody.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reader sent to the sign-in route carries where they were asking for.",
     },
     {
