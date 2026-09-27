@@ -31,6 +31,15 @@ export const agentMessageSupervisorClaimedReconcile = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Every transcript of the seat's own since its oldest claim is read whole, never a tail.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A message those transcripts show delivered is taken rather than released.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reconcile that faults does not stop the resume that reconcile runs under.",
     },
   ],

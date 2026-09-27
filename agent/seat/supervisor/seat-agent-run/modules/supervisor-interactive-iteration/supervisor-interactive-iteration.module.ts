@@ -37,6 +37,10 @@ export const supervisorInteractiveIteration = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Redelivery is reconciled against every transcript of the seat's own, read whole.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The transcript is kept at the session's file under the project directory.",
     },
   ],

@@ -106,6 +106,15 @@ export const seatTranscriptRotation = {
       statement: "The rule is decided from a reading of the disk rather than from the disk.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat's own transcripts since a time are the files naming it written since then.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat's own transcripts run oldest first and end with the one the seat names.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here writes.",
     },

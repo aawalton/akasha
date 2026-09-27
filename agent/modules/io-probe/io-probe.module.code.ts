@@ -3,6 +3,20 @@ import {
   type TranscriptRecord,
   transcriptOf,
 } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
+import { ownTranscriptsSince } from "akasha/agent/seat/session/modules/seat-transcript-rotation/seat-transcript-rotation.module.code.ts"
+import { textThere } from "akasha/file/system/modules/text-there/text-there.module.code.ts"
+
+export function readOwnTranscriptsSince(
+  agentId: string,
+  sinceMs: number,
+  listOwn: (id: string, since: number) => readonly string[] = ownTranscriptsSince,
+  readWhole: (path: string) => string | null = textThere
+): string | null {
+  const texts = listOwn(agentId, sinceMs)
+    .map(readWhole)
+    .filter((one): one is string => one !== null)
+  return texts.length === 0 ? null : texts.join("\n")
+}
 
 export function readTranscriptMtimeMs(agentId: string): number | null {
   const stated = transcriptOf(agentId)

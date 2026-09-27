@@ -6,6 +6,7 @@ import {
   firstTimestampOf,
   type MisnamedReading,
   misnamedFrom,
+  ownTranscriptsFrom,
   rotationFrom,
   SETTLED_MS,
   type TranscriptCandidate,
@@ -113,6 +114,33 @@ test("a candidate naming the seat itself is weighed", () => {
   expect(rotationFrom(reading({ candidates: [candidate({ agentName: SEAT })] }))).toBe(
     "/transcripts/new.jsonl"
   )
+})
+
+test("a seat's own transcripts are the files naming it since then, oldest first, then its own", () => {
+  const beside = [
+    candidate({ path: "/transcripts/later.jsonl", mtimeMs: WROTE_AT + 20, agentName: SEAT }),
+    candidate({ path: "/transcripts/earlier.jsonl", mtimeMs: WROTE_AT + 10, agentName: SEAT }),
+    candidate({ path: "/transcripts/flex.jsonl", mtimeMs: WROTE_AT + 15, agentName: FLEX }),
+    candidate({ path: "/transcripts/unnamed.jsonl", mtimeMs: WROTE_AT + 15, agentName: null }),
+    candidate({ path: "/transcripts/before.jsonl", mtimeMs: WROTE_AT - 1, agentName: SEAT }),
+    candidate({ path: NAMED, mtimeMs: WROTE_AT + 30, agentName: SEAT }),
+  ]
+  expect(
+    ownTranscriptsFrom({ statedPath: NAMED, seatName: SEAT, sinceMs: WROTE_AT, beside })
+  ).toEqual(["/transcripts/earlier.jsonl", "/transcripts/later.jsonl", NAMED])
+})
+
+test("a seat naming no transcript has none of its own to read", () => {
+  expect(ownTranscriptsFrom({ statedPath: null, seatName: SEAT, sinceMs: 0, beside: [] })).toEqual(
+    []
+  )
+})
+
+test("a seat whose name is unknown reads only the transcript it names", () => {
+  const beside = [candidate({ agentName: SEAT })]
+  expect(ownTranscriptsFrom({ statedPath: NAMED, seatName: null, sinceMs: 0, beside })).toEqual([
+    NAMED,
+  ])
 })
 
 test("a subagent's transcript is passed over for the seat's own rotated one", () => {

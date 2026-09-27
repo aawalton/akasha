@@ -34,7 +34,7 @@ function transcriptFinding(
 
 interface ClaimedReconcileDeps {
   readonly readClaimed: (agentId: string, beforeMs: number) => Promise<readonly ClaimedCandidate[]>
-  readonly readTail?: (agentId: string) => string | null
+  readonly readTranscripts?: (agentId: string, sinceMs: number) => string | null
   readonly release?: (id: string) => Promise<void>
   readonly take?: (id: string) => Promise<string | null>
   readonly waitForRedeliveryWindow?: () => Promise<boolean>
@@ -54,12 +54,13 @@ export async function reconcileClaimedRedelivery(
   const logError = deps.logError ?? ((message, err) => console.error(message, err))
 
   try {
-    const transcript = deps.readTail?.(agentId) ?? null
-
     if (!(await waitForRedeliveryWindow())) return
 
     const candidates = await deps.readClaimed(agentId, processStartedAtMs)
     if (candidates.length === 0) return
+
+    const sinceMs = Math.min(...candidates.map((candidate) => candidate.claimedAtMs))
+    const transcript = deps.readTranscripts?.(agentId, sinceMs) ?? null
 
     const decision = await decide({
       processStartedAtMs,

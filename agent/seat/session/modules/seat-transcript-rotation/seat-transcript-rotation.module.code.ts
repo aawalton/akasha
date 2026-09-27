@@ -76,6 +76,29 @@ export function rotationFrom(reading: RotationReading): string | null {
   return left.length === 1 && only !== undefined ? only.path : null
 }
 
+export interface OwnTranscriptsReading {
+  readonly statedPath: string | null
+  readonly seatName: string | null
+  readonly sinceMs: number
+  readonly beside: readonly TranscriptCandidate[]
+}
+
+export function ownTranscriptsFrom(reading: OwnTranscriptsReading): readonly string[] {
+  const { statedPath, seatName, sinceMs, beside } = reading
+  if (statedPath === null) return []
+  const earlier = beside
+    .filter(
+      (one) =>
+        one.path !== statedPath &&
+        one.mtimeMs >= sinceMs &&
+        seatName !== null &&
+        one.agentName === seatName
+    )
+    .toSorted((one, other) => one.mtimeMs - other.mtimeMs)
+    .map((one) => one.path)
+  return [...earlier, statedPath]
+}
+
 function headTextOf(path: string): string {
   const file = openSync(path, "r")
   try {
@@ -195,6 +218,29 @@ function candidatesBeside(
     })
   }
   return found
+}
+
+function writtenSince(statedPath: string, sinceMs: number): readonly TranscriptCandidate[] {
+  const found: TranscriptCandidate[] = []
+  for (const entry of readdirSync(dirname(statedPath), { withFileTypes: true })) {
+    if (!entry.isFile() || !entry.name.endsWith(SUFFIX)) continue
+    const path = join(dirname(statedPath), entry.name)
+    const at = statSync(path, { throwIfNoEntry: false })
+    if (at === undefined || at.mtimeMs < sinceMs) continue
+    found.push({ path, mtimeMs: at.mtimeMs, firstTimestampMs: null, agentName: agentNameOf(path) })
+  }
+  return found
+}
+
+export function ownTranscriptsSince(agent: string, sinceMs: number): readonly string[] {
+  const stated = transcriptOf(agent)
+  if (stated === null || statSync(stated.value, { throwIfNoEntry: false }) === undefined) return []
+  return ownTranscriptsFrom({
+    statedPath: stated.value,
+    seatName: seatNameForAgent(agent),
+    sinceMs,
+    beside: writtenSince(stated.value, sinceMs),
+  })
 }
 
 export function rotatedTranscriptFor(agent: string): string | null {
