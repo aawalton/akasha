@@ -14,16 +14,68 @@ import { Heading } from "akasha/design/interface/primitive/modules/heading/headi
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import {
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import type { WatcherBuildSummary } from "akasha/temper/web/modules/watcher-build-status/watcher-build-status.module.code.ts"
 import { WatcherBuildStatusCard } from "akasha/temper/web/modules/watcher-build-status-card/watcher-build-status-card.module.code.tsx"
 import type { WatcherRunSummary } from "akasha/temper/web/modules/watcher-run-status/watcher-run-status.module.code.ts"
 import { WatcherRunStatusCard } from "akasha/temper/web/modules/watcher-run-status-card/watcher-run-status-card.module.code.tsx"
 import type { WatcherSyncSummary } from "akasha/temper/web/modules/watcher-sync-status/watcher-sync-status.module.code.ts"
 import { WatcherSyncStatusCard } from "akasha/temper/web/modules/watcher-sync-status-card/watcher-sync-status-card.module.code.tsx"
+import { watcherPageContentAddonsDownload } from "akasha/temper/web/phrase/pages/watcher-page-content-addons-download.temper-web-phrase.ts"
+import { watcherPageContentAddonsHeading } from "akasha/temper/web/phrase/pages/watcher-page-content-addons-heading.temper-web-phrase.ts"
+import { watcherPageContentAddonsName } from "akasha/temper/web/phrase/pages/watcher-page-content-addons-name.temper-web-phrase.ts"
+import { watcherPageContentAddonsNeed } from "akasha/temper/web/phrase/pages/watcher-page-content-addons-need.temper-web-phrase.ts"
+import { watcherPageContentAddonsPath } from "akasha/temper/web/phrase/pages/watcher-page-content-addons-path.temper-web-phrase.ts"
+import { watcherPageContentCharactersAddon } from "akasha/temper/web/phrase/pages/watcher-page-content-characters-addon.temper-web-phrase.ts"
+import { watcherPageContentHeading } from "akasha/temper/web/phrase/pages/watcher-page-content-heading.temper-web-phrase.ts"
+import { watcherPageContentIntro } from "akasha/temper/web/phrase/pages/watcher-page-content-intro.temper-web-phrase.ts"
+import { watcherPageContentItemsAddon } from "akasha/temper/web/phrase/pages/watcher-page-content-items-addon.temper-web-phrase.ts"
+import { watcherPageContentManual } from "akasha/temper/web/phrase/pages/watcher-page-content-manual.temper-web-phrase.ts"
+import { watcherPageContentManualHeading } from "akasha/temper/web/phrase/pages/watcher-page-content-manual-heading.temper-web-phrase.ts"
+import { watcherPageContentManualLink } from "akasha/temper/web/phrase/pages/watcher-page-content-manual-link.temper-web-phrase.ts"
+import { watcherPageContentMenu } from "akasha/temper/web/phrase/pages/watcher-page-content-menu.temper-web-phrase.ts"
+import { watcherPageContentNeedsHeading } from "akasha/temper/web/phrase/pages/watcher-page-content-needs-heading.temper-web-phrase.ts"
+import { watcherPageContentOnedrivePath } from "akasha/temper/web/phrase/pages/watcher-page-content-onedrive-path.temper-web-phrase.ts"
+import { watcherPageContentOutOfDate } from "akasha/temper/web/phrase/pages/watcher-page-content-out-of-date.temper-web-phrase.ts"
+import { watcherPageContentStepBrowser } from "akasha/temper/web/phrase/pages/watcher-page-content-step-browser.temper-web-phrase.ts"
+import { watcherPageContentStepCheck } from "akasha/temper/web/phrase/pages/watcher-page-content-step-check.temper-web-phrase.ts"
+import { watcherPageContentStepEnable } from "akasha/temper/web/phrase/pages/watcher-page-content-step-enable.temper-web-phrase.ts"
+import { watcherPageContentStepExtract } from "akasha/temper/web/phrase/pages/watcher-page-content-step-extract.temper-web-phrase.ts"
+import { watcherPageContentStepInstalls } from "akasha/temper/web/phrase/pages/watcher-page-content-step-installs.temper-web-phrase.ts"
+import { watcherPageContentStepLogin } from "akasha/temper/web/phrase/pages/watcher-page-content-step-login.temper-web-phrase.ts"
+import { watcherPageContentStepRun } from "akasha/temper/web/phrase/pages/watcher-page-content-step-run.temper-web-phrase.ts"
+import { watcherPageContentStepTtc } from "akasha/temper/web/phrase/pages/watcher-page-content-step-ttc.temper-web-phrase.ts"
+import { watcherPageContentStepWarning } from "akasha/temper/web/phrase/pages/watcher-page-content-step-warning.temper-web-phrase.ts"
+import { watcherPageContentTtcName } from "akasha/temper/web/phrase/pages/watcher-page-content-ttc-name.temper-web-phrase.ts"
+import { watcherPageContentTtcNeed } from "akasha/temper/web/phrase/pages/watcher-page-content-ttc-need.temper-web-phrase.ts"
+import { watcherPageContentWarningChoice } from "akasha/temper/web/phrase/pages/watcher-page-content-warning-choice.temper-web-phrase.ts"
+import { watcherPageContentWatcherCaption } from "akasha/temper/web/phrase/pages/watcher-page-content-watcher-caption.temper-web-phrase.ts"
+import { watcherPageContentWatcherDownload } from "akasha/temper/web/phrase/pages/watcher-page-content-watcher-download.temper-web-phrase.ts"
+import { watcherPageContentWatcherFile } from "akasha/temper/web/phrase/pages/watcher-page-content-watcher-file.temper-web-phrase.ts"
+import { watcherPageContentWatcherHeading } from "akasha/temper/web/phrase/pages/watcher-page-content-watcher-heading.temper-web-phrase.ts"
+import { watcherPageContentWindowsName } from "akasha/temper/web/phrase/pages/watcher-page-content-windows-name.temper-web-phrase.ts"
+import { watcherPageContentWindowsNeed } from "akasha/temper/web/phrase/pages/watcher-page-content-windows-need.temper-web-phrase.ts"
 import { FolderDown, MonitorDown } from "lucide-react"
+import { createElement, Fragment, type ReactNode } from "react"
 
 const SETUP_STEPS = "list-decimal space-y-3 pl-5 text-sm/relaxed text-secondary"
 const REQUIREMENTS = "space-y-3 text-sm/relaxed text-secondary"
+const SLOT = /(\{\w+\})/
+
+function filledWith(text: string, nodes: Readonly<Record<string, ReactNode>>): ReactNode {
+  const pieces = text.split(SLOT).map((piece) => {
+    const name = piece.startsWith("{") && piece.endsWith("}") ? piece.slice(1, -1) : null
+    return name !== null && name in nodes ? nodes[name] : piece
+  })
+  return createElement(Fragment, null, ...pieces)
+}
+
+function Strong({ children }: { children: ReactNode }) {
+  return <strong className="text-primary">{children}</strong>
+}
 
 export function WatcherPageContent({
   sync,
@@ -35,12 +87,15 @@ export function WatcherPageContent({
   run: WatcherRunSummary | null
 }) {
   const surface = useSurface()
+  const phrase = usePhrase()
+  const describe = usePhraseDescription()
   const path = `rounded ${surfaceClass(surface + 1)} px-1.5 py-0.5 text-xs`
+  const ttcName = <Strong>{phrase(watcherPageContentTtcName.slug)}</Strong>
 
   return (
     <PageLayout>
       <PageLayout.Header>
-        <PageTitle>Temper Watcher</PageTitle>
+        <PageTitle>{phrase(watcherPageContentHeading.slug)}</PageTitle>
       </PageLayout.Header>
 
       <PageLayout.Content>
@@ -56,42 +111,27 @@ export function WatcherPageContent({
           {}
           <Card>
             <CardContent className="flex flex-col gap-4">
-              <Text variant="prose">
-                The Temper Watcher keeps Temper in sync with your game — your characters,
-                companions, inventory, and completion upload themselves in the background, so you
-                never have to export a file by hand.
-              </Text>
+              <Text variant="prose">{phrase(watcherPageContentIntro.slug)}</Text>
             </CardContent>
           </Card>
 
           {}
           <Card>
             <CardContent className="flex flex-col gap-3">
-              <Heading as="h2">What you need first</Heading>
+              <Heading as="h2">{phrase(watcherPageContentNeedsHeading.slug)}</Heading>
               <ul className={REQUIREMENTS}>
                 <li>
-                  <strong className="text-primary">The Temper ESO add-ons.</strong> The Watcher does
-                  not read the game directly. It reads the SavedVariables files that the Temper
-                  add-ons — <strong className="text-primary">TemperCharacters</strong> and{" "}
-                  <strong className="text-primary">TemperItems</strong> — write while you play.
-                  Without those add-ons installed in ESO there are no files to read, and nothing
-                  will sync no matter how the rest of the setup goes. You download them from Temper,
-                  below.
+                  {filledWith(describe(watcherPageContentAddonsNeed.slug), {
+                    name: <Strong>{phrase(watcherPageContentAddonsName.slug)}</Strong>,
+                    characters: <Strong>{phrase(watcherPageContentCharactersAddon.slug)}</Strong>,
+                    items: <Strong>{phrase(watcherPageContentItemsAddon.slug)}</Strong>,
+                  })}
                 </li>
+                <li>{filledWith(describe(watcherPageContentTtcNeed.slug), { name: ttcName })}</li>
                 <li>
-                  <strong className="text-primary">Tamriel Trade Centre</strong>, for item prices.
-                  This one is not ours and is not in our download — it is a separate community
-                  add-on whose terms do not allow anyone else to redistribute it, so you install it
-                  yourself. It is where Temper gets guild-store prices. Without it Temper still sees
-                  every item you own, but it can only value them at what a vendor would pay, which
-                  is a small fraction of what they are actually worth. Your item values and
-                  affordability all inherit that. Temper tells you on the inventory pages when a
-                  sync arrived without it.
-                </li>
-                <li>
-                  <strong className="text-primary">Windows, for the Watcher only.</strong> The
-                  Watcher is a Windows 10 or 11 (64-bit) application. There is no macOS or Linux
-                  build. The add-ons themselves are just files and work on any system.
+                  {filledWith(phrase(watcherPageContentWindowsNeed.slug), {
+                    name: <Strong>{phrase(watcherPageContentWindowsName.slug)}</Strong>,
+                  })}
                 </li>
               </ul>
             </CardContent>
@@ -100,38 +140,30 @@ export function WatcherPageContent({
           {}
           <Card>
             <CardContent className="flex flex-col gap-3">
-              <Heading as="h2">Install the add-ons first</Heading>
+              <Heading as="h2">{phrase(watcherPageContentAddonsHeading.slug)}</Heading>
               <Button asChild variant="accent" className="w-fit">
                 <a href="/api/addons/download" download>
                   <FolderDown className="h-4 w-4" />
-                  Download the Temper add-ons
+                  {phrase(watcherPageContentAddonsDownload.slug)}
                 </a>
               </Button>
               <ol className={SETUP_STEPS}>
                 <li>
-                  Extract everything in the zip into your ESO add-ons folder,{" "}
-                  <code className={path}>Documents\Elder Scrolls Online\live\AddOns</code>. If your
-                  Documents folder syncs to OneDrive, the real one is{" "}
-                  <code className={path}>OneDrive\Documents\Elder Scrolls Online\live\AddOns</code>{" "}
-                  — extracting into the other looks like it worked and changes nothing in game.
+                  {filledWith(describe(watcherPageContentStepExtract.slug), {
+                    path: <code className={path}>{phrase(watcherPageContentAddonsPath.slug)}</code>,
+                    oneDrivePath: (
+                      <code className={path}>{phrase(watcherPageContentOnedrivePath.slug)}</code>
+                    ),
+                  })}
                 </li>
+                <li>{filledWith(phrase(watcherPageContentStepTtc.slug), { name: ttcName })}</li>
                 <li>
-                  Install <strong className="text-primary">Tamriel Trade Centre</strong> yourself,
-                  from Minion or from esoui.com. Everything else the Temper add-ons need is already
-                  in the zip.
+                  {filledWith(describe(watcherPageContentStepEnable.slug), {
+                    menu: <Strong>{phrase(watcherPageContentMenu.slug)}</Strong>,
+                    outOfDate: <Strong>{phrase(watcherPageContentOutOfDate.slug)}</Strong>,
+                  })}
                 </li>
-                <li>
-                  Start ESO and turn the add-ons on at{" "}
-                  <strong className="text-primary">Main Menu → Add-Ons</strong>, ticking{" "}
-                  <strong className="text-primary">Allow out of date AddOns</strong> if ours are
-                  listed as out of date — the versions we declare can lag a fresh ESO patch. An
-                  add-on that is installed but not enabled writes nothing, and looks exactly like
-                  one that was never installed.
-                </li>
-                <li>
-                  Log in to a character once, so the game writes its SavedVariables files. There is
-                  nothing to sync until this has happened.
-                </li>
+                <li>{phrase(watcherPageContentStepLogin.slug)}</li>
               </ol>
             </CardContent>
           </Card>
@@ -139,39 +171,28 @@ export function WatcherPageContent({
           {}
           <Card>
             <CardContent className="flex flex-col gap-3">
-              <Heading as="h2">Then install the Watcher</Heading>
+              <Heading as="h2">{phrase(watcherPageContentWatcherHeading.slug)}</Heading>
               <Button asChild variant="accent" className="w-fit">
                 <a href="/api/watcher/download" download>
                   <MonitorDown className="h-4 w-4" />
-                  Download for Windows
+                  {phrase(watcherPageContentWatcherDownload.slug)}
                 </a>
               </Button>
-              <Text variant="caption">
-                Windows 10 or 11 (64-bit). It only reads what the add-ons write, so do those first.
-              </Text>
+              <Text variant="caption">{phrase(watcherPageContentWatcherCaption.slug)}</Text>
               <ol className={SETUP_STEPS}>
                 <li>
-                  Run the downloaded <strong className="text-primary">temper-watcher.exe</strong>.
+                  {filledWith(phrase(watcherPageContentStepRun.slug), {
+                    file: <Strong>{phrase(watcherPageContentWatcherFile.slug)}</Strong>,
+                  })}
                 </li>
                 <li>
-                  If Windows warns about an unrecognized app, choose{" "}
-                  <strong className="text-primary">More info → Run anyway</strong> — the Watcher
-                  simply isn't signed yet.
+                  {filledWith(phrase(watcherPageContentStepWarning.slug), {
+                    choice: <Strong>{phrase(watcherPageContentWarningChoice.slug)}</Strong>,
+                  })}
                 </li>
-                <li>
-                  It installs itself: a small icon appears in your system tray, it starts
-                  automatically with Windows, and it quietly downloads its background sync helper
-                  the first time it runs.
-                </li>
-                <li>
-                  Your browser opens once so you can link the Watcher to your account — make sure
-                  you're signed in to Temper first.
-                </li>
-                <li>
-                  Come back to this page and check the status at the top. It tells you whether your
-                  data actually reached Temper — linking on its own does not mean anything has
-                  arrived.
-                </li>
+                <li>{phrase(watcherPageContentStepInstalls.slug)}</li>
+                <li>{phrase(watcherPageContentStepBrowser.slug)}</li>
+                <li>{phrase(watcherPageContentStepCheck.slug)}</li>
               </ol>
             </CardContent>
           </Card>
@@ -179,17 +200,15 @@ export function WatcherPageContent({
           {}
           <Card>
             <CardContent className="flex flex-col gap-2">
-              <Heading as="h2">Prefer a one-time manual upload?</Heading>
+              <Heading as="h2">{phrase(watcherPageContentManualHeading.slug)}</Heading>
               <Text variant="prose">
-                You can{" "}
-                <LayoutLink href="/import" className="text-accent hover:underline">
-                  upload your TemperCharacters file by hand
-                </LayoutLink>{" "}
-                instead, for your characters, companions and completion. It works on any operating
-                system, but you'll need to repeat it whenever you want Temper to see fresh data —
-                and it needs the same Temper ESO add-ons, since they are what create the file you
-                would be uploading. Your inventory reaches Temper through the Watcher and no other
-                way.
+                {filledWith(describe(watcherPageContentManual.slug), {
+                  link: (
+                    <LayoutLink href="/import" className="text-accent hover:underline">
+                      {phrase(watcherPageContentManualLink.slug)}
+                    </LayoutLink>
+                  ),
+                })}
               </Text>
             </CardContent>
           </Card>
