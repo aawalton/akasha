@@ -5,6 +5,8 @@ export const lucentSentinel = {
   type: "page-type/temper-motif-style",
   slug: "lucent-sentinel",
   title: "Lucent Sentinel",
+  esoItemStyleId: 149,
+  styleName: "Lucent Sentinel",
   collectionIndex: 112,
   sourceDescription: "Lucent Citadel trial",
 } as const satisfies TemperMotifStyle
