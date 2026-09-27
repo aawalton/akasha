@@ -6,4 +6,10 @@ export const armorCard = {
   slug: "armor-card",
   definition: "an armor slot: its set, trait, enchant, quality and weight, each pickable",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The weights offered are drawn again whenever the gear tables are read again.",
+    },
+  ],
 } as const satisfies Module

@@ -99,18 +99,18 @@ export function ArmorCard({
     return getValidSetsForArmorSlot(availableSets, slot)
   }, [availableSets, slot])
 
+  const weightsRead = standardArmorWeights.list
+
   const validWeightOptions = useMemo(() => {
     if (!selectedSet) {
-      return standardArmorWeights.list
+      return weightsRead
     }
     const validWeightIds = getValidWeightsForSet(selectedSet, slot)
     if (validWeightIds.length === 1) {
-      return standardArmorWeights.list.filter((w) => validWeightIds.includes(w.id))
+      return weightsRead.filter((w) => validWeightIds.includes(w.id))
     }
-    return standardArmorWeights.list.filter(
-      (w) => w.id === "no-weight" || validWeightIds.includes(w.id)
-    )
-  }, [selectedSet, slot])
+    return weightsRead.filter((w) => w.id === "no-weight" || validWeightIds.includes(w.id))
+  }, [selectedSet, slot, weightsRead])
 
   const handleSetSelect = (setId: Slug) => {
     const newSet = getSetById(setId, availableSets)

@@ -6113,6 +6113,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
 {"propertySlug":"decision-kind","path":"temper/web/look/temper-web-look.stylesheet.ts","id":"01a0640f-850f-7bfd-8070-ae903b54ddb0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-progress/account-progress.module.ts","id":"01a06421-f74b-7ac7-a2c3-4120a9e80006"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/armor-card/armor-card.module.ts","id":"01a0642d-9a17-7abb-8e55-5319438ebc16"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.ts","id":"01a06432-b190-7bdd-9689-8a19b01cb487"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-date-line/build-date-line.module.ts","id":"01a0d6db-3513-7e6e-900d-32de1dfa4c87"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
