@@ -261,7 +261,7 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Four small bookworms are dried into hard grey coils; the last small one and the big one remain.",
+      fact: "All five small bookworms are dried into hard grey coils; only the big one remains.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -273,12 +273,16 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala has the last small bookworm pinned by the neck in the dregs of her heap, not yet dry.",
+      fact: "Nala's salt is used up, only a thin scatter left on the floor.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala's salt heap is nearly used up, bare floor showing through under the pinned bookworm.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      fact: "Links told Nala salt still burns the big bookworm, but his kitchen's salt sleeps with the kitchen.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
 } as const satisfies Place
