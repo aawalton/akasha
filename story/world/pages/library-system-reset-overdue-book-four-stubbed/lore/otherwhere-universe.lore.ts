@@ -74,7 +74,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Reading a book within one's affinity and understanding it grants the power within it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "A Library book must be returned once its knowledge is gained.",
