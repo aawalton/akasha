@@ -20,5 +20,9 @@ export const actionFilterCascades = {
       statement:
         "A Move To group's Any choice reads Any and that group's venue or location type title.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other word the selects show is a web phrase page.",
+    },
   ],
 } as const satisfies Module

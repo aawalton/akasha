@@ -26,6 +26,19 @@ import { furnitureVault } from "akasha/temper/items/rules/routing/core/temper-ve
 import { guildBank } from "akasha/temper/items/rules/routing/core/temper-venue/pages/guild-bank.temper-venue.ts"
 import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
+import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { actionFilterCascadesAllCharacters } from "akasha/temper/web/phrase/pages/action-filter-cascades-all-characters.temper-web-phrase.ts"
+import { actionFilterCascadesAnyCharacter } from "akasha/temper/web/phrase/pages/action-filter-cascades-any-character.temper-web-phrase.ts"
+import { actionFilterCascadesAnyCompanion } from "akasha/temper/web/phrase/pages/action-filter-cascades-any-companion.temper-web-phrase.ts"
+import { actionFilterCascadesAnyGroup } from "akasha/temper/web/phrase/pages/action-filter-cascades-any-group.temper-web-phrase.ts"
+import { actionFilterCascadesAnyMode } from "akasha/temper/web/phrase/pages/action-filter-cascades-any-mode.temper-web-phrase.ts"
+import { actionFilterCascadesAnyScope } from "akasha/temper/web/phrase/pages/action-filter-cascades-any-scope.temper-web-phrase.ts"
+import { actionFilterCascadesByPriority } from "akasha/temper/web/phrase/pages/action-filter-cascades-by-priority.temper-web-phrase.ts"
+import { actionFilterCascadesCharacterFallback } from "akasha/temper/web/phrase/pages/action-filter-cascades-character-fallback.temper-web-phrase.ts"
+import { actionFilterCascadesStorageChestFallback } from "akasha/temper/web/phrase/pages/action-filter-cascades-storage-chest-fallback.temper-web-phrase.ts"
 import { NULL_SENTINEL } from "akasha/temper/web/player-inventory-management-ui/modules/action-filter-utils/action-filter-utils.module.code.ts"
 import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
@@ -36,6 +49,12 @@ function usePlaceTitles(): { venues: KeyedTitles | null; places: KeyedTitles | n
   const venues = useKeyedTitles(temperVenue.slug)
   const places = useKeyedTitles(temperLocationType.slug)
   return { venues, places }
+}
+
+export function characterLabel(phrase: Phrase, charId: string, displayName: string): string {
+  return displayName !== ""
+    ? displayName
+    : phrase(actionFilterCascadesCharacterFallback.slug, { id: charId })
 }
 
 export function SubBadgeSelect({
@@ -93,6 +112,7 @@ export function MoveToCascade({
   const { inventory } = useInventory(userId)
   const { managedSet } = useManagedGuildBanks()
   const { venues, places } = usePlaceTitles()
+  const phrase = usePhrase()
 
   const categoryOptions = useMemo(
     () => [
@@ -110,9 +130,9 @@ export function MoveToCascade({
     if (!characters) return []
     return Object.entries(characters).map(([charId, charData]) => ({
       value: `character:${charId}`,
-      label: charData.displayName !== "" ? charData.displayName : `Character ${charId}`,
+      label: characterLabel(phrase, charId, charData.displayName),
     }))
-  }, [inventory])
+  }, [inventory, phrase])
 
   const guildBankOptions = useMemo(() => {
     const locations = inventory?.locations
@@ -143,12 +163,15 @@ export function MoveToCascade({
         if (chestId == null) continue
         items.push({
           value: `house-storage:${chestId}`,
-          label: loc.displayName !== "" ? loc.displayName : `Storage Chest ${chestId}`,
+          label:
+            loc.displayName !== ""
+              ? loc.displayName
+              : phrase(actionFilterCascadesStorageChestFallback.slug, { id: chestId }),
         })
       }
     }
     return items
-  }, [inventory, venues])
+  }, [inventory, venues, phrase])
 
   function handleCategoryChange(val: string | null) {
     onSubChange(val)
@@ -164,7 +187,9 @@ export function MoveToCascade({
         <SubBadgeSelect
           value={sub2}
           options={characterOptions}
-          allLabel={`Any ${titleIn(places, character.key)}`}
+          allLabel={phrase(actionFilterCascadesAnyGroup.slug, {
+            group: titleIn(places, character.key),
+          })}
           onChange={onSub2Change}
         />
       )}
@@ -173,7 +198,9 @@ export function MoveToCascade({
         <SubBadgeSelect
           value={sub2}
           options={guildBankOptions}
-          allLabel={`Any ${titleIn(venues, guildBank.key)}`}
+          allLabel={phrase(actionFilterCascadesAnyGroup.slug, {
+            group: titleIn(venues, guildBank.key),
+          })}
           onChange={onSub2Change}
         />
       )}
@@ -182,7 +209,9 @@ export function MoveToCascade({
         <SubBadgeSelect
           value={sub2}
           options={housingStorageOptions}
-          allLabel={`Any ${titleIn(places, housingStorage.key)}`}
+          allLabel={phrase(actionFilterCascadesAnyGroup.slug, {
+            group: titleIn(places, housingStorage.key),
+          })}
           onChange={onSub2Change}
         />
       )}
@@ -203,15 +232,16 @@ export function StockCascade({
 }) {
   const userId = useUserId()
   const { inventory } = useInventory(userId)
+  const phrase = usePhrase()
 
   const characterOptions = useMemo(() => {
     const characters = inventory?.currencies?.characters
     if (!characters) return []
     return Object.entries(characters).map(([charId, charData]) => ({
       value: `character:${charId}`,
-      label: charData.displayName !== "" ? charData.displayName : `Character ${charId}`,
+      label: characterLabel(phrase, charId, charData.displayName),
     }))
-  }, [inventory])
+  }, [inventory, phrase])
 
   const { venues, places } = usePlaceTitles()
   const scopeOptions = useMemo(
@@ -232,7 +262,7 @@ export function StockCascade({
       <SubBadgeSelect
         value={sub}
         options={scopeOptions}
-        allLabel="Any Scope"
+        allLabel={phrase(actionFilterCascadesAnyScope.slug)}
         onChange={handleScopeChange}
       />
 
@@ -241,7 +271,7 @@ export function StockCascade({
         <SubBadgeSelect
           value={sub2}
           options={characterOptions}
-          allLabel="All Characters"
+          allLabel={phrase(actionFilterCascadesAllCharacters.slug)}
           onChange={onSub2Change}
         />
       )}
@@ -262,18 +292,19 @@ export function DeconstructCascade({
 }) {
   const userId = useUserId()
   const { inventory } = useInventory(userId)
+  const phrase = usePhrase()
 
   const characterOptions = useMemo(() => {
     const characters = inventory?.currencies?.characters
     if (!characters) return []
     return [
-      { value: "character:by-priority", label: "By Priority" },
+      { value: "character:by-priority", label: phrase(actionFilterCascadesByPriority.slug) },
       ...Object.entries(characters).map(([charId, charData]) => ({
         value: `character:${charId}`,
-        label: charData.displayName !== "" ? charData.displayName : `Character ${charId}`,
+        label: characterLabel(phrase, charId, charData.displayName),
       })),
     ]
-  }, [inventory])
+  }, [inventory, phrase])
 
   const modes = useKeyedTitles(temperDeconstructMode.slug)
   const modeOptions = useMemo(
@@ -295,7 +326,7 @@ export function DeconstructCascade({
       <SubBadgeSelect
         value={sub}
         options={modeOptions}
-        allLabel="Any Mode"
+        allLabel={phrase(actionFilterCascadesAnyMode.slug)}
         onChange={handleModeChange}
       />
 
@@ -304,7 +335,7 @@ export function DeconstructCascade({
         <SubBadgeSelect
           value={sub2}
           options={characterOptions}
-          allLabel="Any Character"
+          allLabel={phrase(actionFilterCascadesAnyCharacter.slug)}
           onChange={onSub2Change}
         />
       )}
@@ -323,23 +354,33 @@ export function CharacterTargetCascade({
 }) {
   const userId = useUserId()
   const { inventory } = useInventory(userId)
+  const phrase = usePhrase()
 
   const options = useMemo(() => {
     const byPriorityValue =
       action === "character-equip" ? "character-worn:by-priority" : "character:by-priority"
+    const byPriority = {
+      value: byPriorityValue,
+      label: phrase(actionFilterCascadesByPriority.slug),
+    }
     const characters = inventory?.currencies?.characters
-    if (!characters) return [{ value: byPriorityValue, label: "By Priority" }]
+    if (!characters) return [byPriority]
     return [
-      { value: byPriorityValue, label: "By Priority" },
+      byPriority,
       ...Object.entries(characters).map(([charId, charData]) => ({
         value: `character:${charId}`,
-        label: charData.displayName !== "" ? charData.displayName : `Character ${charId}`,
+        label: characterLabel(phrase, charId, charData.displayName),
       })),
     ]
-  }, [action, inventory])
+  }, [action, inventory, phrase])
 
   return (
-    <SubBadgeSelect value={sub} options={options} allLabel="Any Character" onChange={onSubChange} />
+    <SubBadgeSelect
+      value={sub}
+      options={options}
+      allLabel={phrase(actionFilterCascadesAnyCharacter.slug)}
+      onChange={onSubChange}
+    />
   )
 }
 
@@ -352,9 +393,13 @@ export function CompanionTargetCascade({
 }) {
   const userId = useUserId()
   const { inventory } = useInventory(userId)
+  const phrase = usePhrase()
 
   const options = useMemo(() => {
-    const byPriority = { value: "companion-worn:by-priority", label: "By Priority" }
+    const byPriority = {
+      value: "companion-worn:by-priority",
+      label: phrase(actionFilterCascadesByPriority.slug),
+    }
     const locations = inventory?.locations
     if (!locations) return [byPriority]
     const items = [byPriority]
@@ -367,9 +412,14 @@ export function CompanionTargetCascade({
       })
     }
     return items
-  }, [inventory])
+  }, [inventory, phrase])
 
   return (
-    <SubBadgeSelect value={sub} options={options} allLabel="Any Companion" onChange={onSubChange} />
+    <SubBadgeSelect
+      value={sub}
+      options={options}
+      allLabel={phrase(actionFilterCascadesAnyCompanion.slug)}
+      onChange={onSubChange}
+    />
   )
 }
