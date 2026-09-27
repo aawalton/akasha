@@ -25,6 +25,7 @@ import type { ItemCategories } from "akasha/temper/items/core/modules/item-categ
 import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import {
   InventoryPanelCard,
   type InventorySortMode,
@@ -136,6 +137,7 @@ export function InventoryLocationTypePanelCard({
 }: InventoryLocationTypePanelCardProps) {
   const isSingleton = card.groups.length === 1 && card.locationType !== "guild"
   const categories = useItemCategories()
+  const companionCatalogRead = useHeldCompanionCatalog()
 
   const nodes = useMemo(() => {
     if (isSingleton) {
@@ -206,6 +208,7 @@ export function InventoryLocationTypePanelCard({
     currencyTitles,
     conversionRates,
     categories,
+    companionCatalogRead,
   ])
 
   const singletonGroup = isSingleton ? card.groups[0] : undefined

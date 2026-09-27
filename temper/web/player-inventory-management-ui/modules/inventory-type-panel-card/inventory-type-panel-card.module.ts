@@ -6,4 +6,11 @@ export const inventoryTypePanelCard = {
   slug: "inventory-type-panel-card",
   definition: "the card drawing a kind of item's holdings",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Companion trait names are drawn again whenever the companion catalogue is read again.",
+    },
+  ],
 } as const satisfies Module

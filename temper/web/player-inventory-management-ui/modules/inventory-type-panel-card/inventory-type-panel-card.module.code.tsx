@@ -4,6 +4,7 @@ import type { SortDirection } from "akasha/design/interface/pattern/modules/sort
 import type { InventoryTypeGroup } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import { buildInventoryTypeNodes } from "akasha/temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import {
   InventoryPanelCard,
   type InventorySortMode,
@@ -24,10 +25,11 @@ export function InventoryTypePanelCard({
   const categoryId = group.category.toLowerCase().replace(/\s+/g, "-")
 
   const categories = useItemCategories().keyed
+  const companionCatalogRead = useHeldCompanionCatalog()
 
   const nodes = useMemo(
     () => buildInventoryTypeNodes(group.entries, group.category, categories),
-    [group.entries, group.category, categories]
+    [group.entries, group.category, categories, companionCatalogRead]
   )
 
   return (

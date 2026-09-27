@@ -6,4 +6,11 @@ export const affectedItemsViews = {
   slug: "affected-items-views",
   definition: "the ways a reader looks over the items a rule would affect",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Companion trait names are drawn again whenever the companion catalogue is read again.",
+    },
+  ],
 } as const satisfies Module
