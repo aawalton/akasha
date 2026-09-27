@@ -7,5 +7,11 @@ export const theDatingGameGrace = {
   title: "Grace",
   world: "world/personas",
   about: "persona/grace",
+  facts: [
+    {
+      fact: "Grace lives in a quiet rented house on Apple Avenue in Provo.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
 } as const satisfies Lore
