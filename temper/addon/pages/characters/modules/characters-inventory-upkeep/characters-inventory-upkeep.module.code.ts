@@ -16,7 +16,7 @@ function today(): string {
   return getEsoDayStringFromSec(GetTimeStamp())
 }
 
-export function isInventoryKept(
+function isInventoryKept(
   completion: Pick<CharacterCompletion, "bankVisitDate" | "inventoryCheck"> | undefined,
   day: string
 ): boolean {
