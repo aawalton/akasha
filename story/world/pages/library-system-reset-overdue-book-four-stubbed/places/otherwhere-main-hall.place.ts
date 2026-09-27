@@ -81,6 +81,14 @@ export const otherwhereMainHall = {
       ],
     },
     {
+      fact: "The dead cooler is a knee-high chest she can drag when empty, and it holds all five coils.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The lowest shelves are in reach from the floor; higher ones need the hall's rolling ladders.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Each book's spine bears a faint shelf mark that matches a mark on the shelf it belongs on.",
       knowers: [
         "lore-disclosure/game-master",
