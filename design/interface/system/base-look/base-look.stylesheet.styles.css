@@ -50,12 +50,14 @@
   html[data-frame-footer] nav[data-slot="app-shell-bottom-nav"] {
     display: none;
   }
-  html[data-panels-shown] [data-slot="frame-jump-to-latest"] {
-    display: none;
-  }
+
   html[data-chrome-hidden] [data-slot="reader-reading-progress"] {
     display: none;
   }
+}
+
+html[data-panels-shown] [data-slot="frame-jump-to-latest"] {
+  display: none;
 }
 
 ::-webkit-scrollbar {
