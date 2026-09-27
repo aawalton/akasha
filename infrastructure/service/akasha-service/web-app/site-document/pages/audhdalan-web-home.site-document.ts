@@ -4,7 +4,7 @@ export const audhdalanWebHome = {
   id: "01a0d5bc-524c-7600-b23f-a485d30f8c96",
   type: "page-type/site-document",
   slug: "audhdalan-web-home",
-  title: "AuDHD Alan (live check)",
+  title: "AuDHD Alan",
   webApp: "web-app/audhdalan-web",
   urlPath: "",
   sections: [
