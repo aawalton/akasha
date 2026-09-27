@@ -3,26 +3,30 @@ import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   storyTurnAdvance,
   taken,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
+  AT,
   DRAFTED,
-  RECORDERS,
+  ENDED,
+  LANDED,
+  landingInto,
+  MARA_LORE,
+  MASTER,
   REVIEWED,
-  REVIEWERS,
+  reachOver,
+  SLUG,
+  seatOf,
+  seen,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
 import { loreLine } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import type {
   Reach,
-  Seated,
-  Starting,
   Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
-import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -34,17 +38,9 @@ const ROOT = mkdtempSync(join("/var/tmp", "story-turn-advance-test-"))
 
 afterAll(() => rmSync(ROOT, { recursive: true, force: true }))
 
-const SLUG = "the-saga-00-003"
-
-const AT = `stories/the-saga/turns/${SLUG}.story-turn-played.ts`
-
-const MASTER = "mari-game-master-the-saga"
-
 const BUILDER = "mari-world-builder-the-saga"
 
 const WRITER = "mari-writer-the-saga"
-
-const MARA_LORE = "world/lore/mara.lore.ts"
 
 function toldAll(step: TurnStep): string[] {
   const said = `The turn \`${AT}\` is at ${step}.`
@@ -53,15 +49,6 @@ function toldAll(step: TurnStep): string[] {
 }
 
 const GIVEN: Given = { root: ROOT, calledAs: CALLED, from: "", writer: null, agentId: "an-agent" }
-
-const LANDED = {
-  base: "",
-  landed: [],
-  formatted: [],
-  said: [],
-  wrong: [],
-  commit: "a-commit",
-}
 
 writeFileSync(join(ROOT, "beats.txt"), "Mara opens the gate\n\nThe hall is dark\n")
 writeFileSync(join(ROOT, "issues.txt"), '"opens" - it was locked\n')
@@ -76,82 +63,6 @@ function turnAt(status: TurnStep, more: Record<string, unknown> = {}): Turn {
       turnStatus: `${turnStatus.slug}/${status}`,
       ...more,
     },
-  }
-}
-
-type Seen = {
-  readonly folded: Naming[]
-  readonly starts: Starting[]
-  readonly stops: string[]
-  readonly notices: string[]
-  readonly keeps: string[]
-  readonly releases: string[]
-  readonly landings: (readonly FileChange[])[]
-}
-
-function seen(): Seen {
-  return {
-    folded: [],
-    starts: [],
-    stops: [],
-    notices: [],
-    keeps: [],
-    releases: [],
-    landings: [],
-  }
-}
-
-function reachOver(
-  turn: Turn,
-  seat: Seated | null,
-  into: Seen,
-  recorders: typeof RECORDERS = RECORDERS
-): Reach {
-  return {
-    turnAt: (_root, slug) => (slug === turn.slug ? turn : null),
-    reviewersIn: () => REVIEWERS,
-    recordersIn: () => recorders,
-    keep: (_root, agentId, at) => {
-      into.keeps.push(`${agentId ?? ""} ${at}`)
-      return null
-    },
-    kept: () => DRAFTED,
-    release: (_root, at) => {
-      into.releases.push(at)
-      return true
-    },
-    seatOf: () => seat,
-    storyOf: () => ({ title: "The Saga", master: MASTER }),
-    fold: (_root, naming) => {
-      into.folded.push(naming)
-      return []
-    },
-    start: async (starting) => {
-      into.starts.push(starting)
-      const flex = starting.flex === null ? "" : `-${starting.flex}`
-      return `${starting.persona}-${starting.role}-${starting.game}${flex}`
-    },
-    stop: (_root, name) => {
-      into.stops.push(name)
-      return undefined
-    },
-    notify: async (to, body) => {
-      into.notices.push(`${to}: ${body}`)
-      return null
-    },
-    loreOf: () => [MARA_LORE],
-    changedLore: () => [],
-  }
-}
-
-function seatOf(role: string, name: string): Seated {
-  return { name, role, game: "the-saga" }
-}
-
-function landingInto(into: Seen, refusals: readonly string[] = []): Landing {
-  return async (_root, _asked, _message, writing) => {
-    into.landings.push(writing?.kept ?? [])
-    return refusals.length === 0 ? LANDED : { refusals, code: DATA }
   }
 }
 
@@ -355,6 +266,42 @@ test("the last recorder lands every recorder's kept edits with the move to playe
   expect(into.releases).toEqual([AT])
   expect(into.notices).toEqual(toldAll("player"))
   expect(into.stops).toEqual([RECORDER_SEAT])
+})
+
+test("a recorder's kept edit to the turn's own page is folded into the move to player", async () => {
+  const into = seen()
+  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
+  const reach = {
+    ...reachOver(turn, seatOf("story-recorder", RECORDER_SEAT), into),
+    kept: () => [...DRAFTED, ENDED],
+  }
+  const answer = await advancedBy(["--recorder", "memory"], reach, landingInto(into))
+  expect(answer.refusals).toEqual([])
+  expect(into.folded[0]?.values).toEqual({
+    endsAt: "2026-09-26T09:05:00.000Z",
+    turnStatus: `${turnStatus.slug}/player`,
+    recordedBy: ["story-recorder/cast", `${storyRecorder.slug}/${memory.slug}`],
+  })
+  expect(into.landings).toEqual([DRAFTED])
+})
+
+test("a kept edit to the turn's own page that no longer fits it lands nothing", async () => {
+  const into = seen()
+  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
+  const stale: FileChange = {
+    kind: "replace",
+    path: AT,
+    contentFrom: `  lore: ["world-place/the-hall"],\n`,
+    contentTo: `  endsAt: "2026-09-26T09:05:00.000Z",\n`,
+  }
+  const reach = {
+    ...reachOver(turn, seatOf("story-recorder", RECORDER_SEAT), into),
+    kept: () => [stale],
+  }
+  const answer = await advancedBy(["--recorder", "memory"], reach, landingInto(into))
+  expect(answer.refusals.join(" ")).toContain("no longer fits")
+  expect(into.folded).toEqual([])
+  expect(into.landings).toEqual([])
 })
 
 test("a refused landing keeps the edits beside the turn, the turn at recorders and the seat running", async () => {

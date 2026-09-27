@@ -132,6 +132,7 @@ export type Reach = {
   readonly seatOf: (root: string, agentId: string | null) => Seated | null
   readonly storyOf: (root: string, game: string) => Story | null
   readonly fold: (root: string, naming: Naming) => readonly Asking[] | { readonly refused: string }
+  readonly textIn: (root: string, path: string) => string
   readonly start: (starting: Starting, done: string[]) => Promise<string>
   readonly stop: (root: string, seat: string) => undefined
   readonly notify: (to: string, body: string) => Promise<string | null>
@@ -150,7 +151,6 @@ export type Rewinding = Reach & {
   readonly turnsOf: (root: string, game: string) => readonly Placed[]
   readonly seatsIn: () => readonly Seated[]
   readonly present: (root: string, path: string) => boolean
-  readonly textIn: (root: string, path: string) => string
   readonly addingOf: (root: string, check: string) => Promise<Adding | null>
   readonly pageAt: (root: string, page: string) => Paged | null
 }
@@ -342,6 +342,7 @@ export const REACHED: Reach = {
   seatOf: seatIndexed,
   storyOf: storyIndexed,
   fold: foldedOver,
+  textIn: (root, path) => readFileSync(join(root, path), "utf8"),
   start: seatStarted,
   stop: stoppedApart,
   notify: noticeSent,
@@ -383,7 +384,6 @@ export const REWOUND: Rewinding = {
   turnsOf: turnsIndexed,
   seatsIn: seatsStated,
   present: (root, path) => existsSync(join(root, path)),
-  textIn: (root, path) => readFileSync(join(root, path), "utf8"),
   addingOf: addingIndexed,
   pageAt: pageIndexed,
 }

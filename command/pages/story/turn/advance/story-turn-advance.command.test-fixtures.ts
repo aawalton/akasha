@@ -1,6 +1,32 @@
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import type {
+  Reach,
+  Seated,
+  Starting,
+  Turn,
+} from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { continuity } from "akasha/story/reviewer/pages/continuity.story-reviewer.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
+
+export const SLUG = "the-saga-00-003"
+
+export const AT = `stories/the-saga/turns/${SLUG}.story-turn-played.ts`
+
+export const MASTER = "mari-game-master-the-saga"
+
+export const MARA_LORE = "world/lore/mara.lore.ts"
+
+export const LANDED = {
+  base: "",
+  landed: [],
+  formatted: [],
+  said: [],
+  wrong: [],
+  commit: "a-commit",
+}
 
 export const REVIEWERS = [
   {
@@ -38,3 +64,97 @@ export const DRAFTED: readonly FileChange[] = [
   { kind: "add", path: "lore/a-hall.lore.ts", content: "cast\n" },
   { kind: "add", path: "lore/the-gate.lore.ts", content: "memory\n" },
 ]
+
+const TURN_TEXT = `export const theSaga00003 = {
+  id: "01a0e393-a07a-7840-b8b4-26277498779c",
+  type: "page-type/story-turn-played",
+  slug: "${SLUG}",
+  partOfCollections: ["story-played/the-saga"],
+  turnStatus: "turn-status/recorders",
+  recordedBy: ["story-recorder/cast"],
+} as const
+`
+
+export const ENDED: FileChange = {
+  kind: "replace",
+  path: AT,
+  contentFrom: `  recordedBy: ["story-recorder/cast"],\n`,
+  contentTo: `  recordedBy: ["story-recorder/cast"],\n  endsAt: "2026-09-26T09:05:00.000Z",\n`,
+}
+
+export type Seen = {
+  readonly folded: Naming[]
+  readonly starts: Starting[]
+  readonly stops: string[]
+  readonly notices: string[]
+  readonly keeps: string[]
+  readonly releases: string[]
+  readonly landings: (readonly FileChange[])[]
+}
+
+export function seen(): Seen {
+  return {
+    folded: [],
+    starts: [],
+    stops: [],
+    notices: [],
+    keeps: [],
+    releases: [],
+    landings: [],
+  }
+}
+
+export function reachOver(
+  turn: Turn,
+  seat: Seated | null,
+  into: Seen,
+  recorders: typeof RECORDERS = RECORDERS
+): Reach {
+  return {
+    turnAt: (_root, slug) => (slug === turn.slug ? turn : null),
+    reviewersIn: () => REVIEWERS,
+    recordersIn: () => recorders,
+    keep: (_root, agentId, at) => {
+      into.keeps.push(`${agentId ?? ""} ${at}`)
+      return null
+    },
+    kept: () => DRAFTED,
+    release: (_root, at) => {
+      into.releases.push(at)
+      return true
+    },
+    seatOf: () => seat,
+    storyOf: () => ({ title: "The Saga", master: MASTER }),
+    fold: (_root, naming) => {
+      into.folded.push(naming)
+      return []
+    },
+    textIn: () => TURN_TEXT,
+    start: async (starting) => {
+      into.starts.push(starting)
+      const flex = starting.flex === null ? "" : `-${starting.flex}`
+      return `${starting.persona}-${starting.role}-${starting.game}${flex}`
+    },
+    stop: (_root, name) => {
+      into.stops.push(name)
+      return undefined
+    },
+    notify: async (to, body) => {
+      into.notices.push(`${to}: ${body}`)
+      return null
+    },
+    loreOf: () => [MARA_LORE],
+    changedLore: () => [],
+  }
+}
+
+export function seatOf(role: string, name: string): Seated {
+  return { name, role, game: "the-saga" }
+}
+
+export function landingInto(into: Seen, refusals: readonly string[] = []): Landing {
+  return async (_root, _asked, _message, writing) => {
+    into.landings.push(writing?.kept ?? [])
+    return refusals.length === 0 ? LANDED : { refusals, code: DATA }
+  }
+}

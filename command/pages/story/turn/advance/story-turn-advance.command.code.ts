@@ -1,6 +1,12 @@
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import {
+  type FileChange,
+  pathsOf,
+  replayed,
+  stating,
+} from "akasha/change/modules/answer/change-answer.module.code.ts"
+import {
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
@@ -45,6 +51,8 @@ import {
   type Told,
   type Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import {
@@ -203,6 +211,32 @@ export function heldOf(turn: Turn): Held | { readonly refused: string } {
   }
 }
 
+const OWN_KEYS: readonly string[] = ["id", "type", "slug"]
+
+type Lifted = { readonly values: Value; readonly rest: readonly FileChange[] }
+
+export function liftedFrom(
+  turn: Turn,
+  kept: readonly FileChange[],
+  textOf: () => string
+): Lifted | { readonly refused: string } {
+  const own = kept.filter((one) => pathsOf(one).includes(turn.at))
+  if (own.length === 0) return { values: {}, rest: kept }
+  const played = replayed(stating(own), (path) => (path === turn.at ? textOf() : null))
+  if ("refused" in played) {
+    return { refused: `a recorder's kept edit no longer fits \`${turn.at}\`: ${played.refused}` }
+  }
+  const body = played.get(turn.at)
+  const value = typeof body === "string" ? valueIn(body) : null
+  if (value === null) return { refused: `the recorders' kept edits leave \`${turn.at}\` no page` }
+  const values: Record<string, unknown> = {}
+  for (const [key, one] of Object.entries(value)) {
+    if (OWN_KEYS.includes(key)) continue
+    if (JSON.stringify(one) !== JSON.stringify(turn.value[key])) values[key] = one
+  }
+  return { values, rest: kept.filter((one) => !own.includes(one)) }
+}
+
 type Context = {
   readonly game: string
   readonly story: Story | null
@@ -292,24 +326,26 @@ async function advancedOn(
   const recorded = recorders.map((one) => one.slug)
   const said = advanced(held, caller, read.handed, slugs, recorded)
   if ("refused" in said) return refused(said.refused, DATA)
-  const naming: Naming = {
-    pageTypeSlug: storyTurnPlayed.slug,
-    slug,
-    path: turn.at,
-    merge: true,
-    values: said.values,
-    ...(said.prose === null ? {} : { bodies: { prose: said.prose } }),
-  }
-  const asking = reach.fold(given.root, naming)
-  if ("refused" in asking) return refused(asking.refused, DATA)
   if (read.handed.kind === "record") {
     const why = reach.keep(given.root, given.agentId, turn.at)
     if (why !== null) return refused(why, DATA)
   }
   const kept = said.landsKept ? reach.kept(given.root, turn.at) : []
   if ("refused" in kept) return refused(kept.refused, DATA)
+  const lifted = liftedFrom(turn, kept, () => reach.textIn(given.root, turn.at))
+  if ("refused" in lifted) return refused(lifted.refused, DATA)
+  const naming: Naming = {
+    pageTypeSlug: storyTurnPlayed.slug,
+    slug,
+    path: turn.at,
+    merge: true,
+    values: { ...lifted.values, ...said.values },
+    ...(said.prose === null ? {} : { bodies: { prose: said.prose } }),
+  }
+  const asking = reach.fold(given.root, naming)
+  if ("refused" in asking) return refused(asking.refused, DATA)
   const message = `${slug} moves from ${held.status} to ${said.status}`
-  const by = { agentId: given.agentId, writer: given.writer, done, kept }
+  const by = { agentId: given.agentId, writer: given.writer, done, kept: lifted.rest }
   const landed = await landing(given.root, asking, message, by)
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   if (said.landsKept) reach.release(given.root, turn.at)
