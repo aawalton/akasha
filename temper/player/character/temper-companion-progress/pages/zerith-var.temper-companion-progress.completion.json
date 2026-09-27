@@ -1,33 +1,5 @@
 {
   "build": {
-    "weapons": {
-      "1": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Restoration Staff, Quickened"
-      },
-      "2": {
-        "isEmpty": true,
-        "qualityColor": {
-          "1": 0.5,
-          "2": 0.5,
-          "3": 0.5
-        },
-        "displayText": "Empty"
-      }
-    },
-    "skillAbilityIds": {
-      "1": 0,
-      "2": 0,
-      "3": 0,
-      "4": 0,
-      "5": 0,
-      "6": 0
-    },
     "armor": {
       "1": {
         "isEmpty": false,
@@ -93,8 +65,27 @@
         "displayText": "Heavy, Quickened"
       }
     },
-    "hash": "AjEIhtG0bRtG0bRtDQ0TGNIAAAAAAAA",
     "companionId": 13,
+    "weapons": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Restoration Staff, Quickened"
+      },
+      "2": {
+        "isEmpty": true,
+        "qualityColor": {
+          "1": 0.5,
+          "2": 0.5,
+          "3": 0.5
+        },
+        "displayText": "Empty"
+      }
+    },
     "jewelry": {
       "1": {
         "isEmpty": false,
@@ -124,6 +115,15 @@
         "displayText": "Vigorous"
       }
     },
+    "skillAbilityIds": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    "hash": "AjEIhtG0bRtG0bRtDQ0TGNIAAAAAAAA",
     "mainHandWeaponType": 9
   },
   "targetBuildHash": "AjEAgAbRtG0bRtGAbQENExjTV8A",

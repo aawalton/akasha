@@ -1,33 +1,5 @@
 {
   "build": {
-    "weapons": {
-      "1": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Mace, Vigorous"
-      },
-      "2": {
-        "isEmpty": false,
-        "qualityColor": {
-          "1": 0.65,
-          "2": 0.28,
-          "3": 0.86
-        },
-        "displayText": "Shield, Vigorous"
-      }
-    },
-    "skillAbilityIds": {
-      "1": 0,
-      "2": 0,
-      "3": 0,
-      "4": 0,
-      "5": 0,
-      "6": 0
-    },
     "armor": {
       "1": {
         "isEmpty": false,
@@ -93,8 +65,27 @@
         "displayText": "Heavy, Vigorous"
       }
     },
-    "hash": "AjEIFzHMcxzHMcxzExMTBzGzAAAAAAAA",
     "companionId": 1,
+    "weapons": {
+      "1": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Mace, Vigorous"
+      },
+      "2": {
+        "isEmpty": false,
+        "qualityColor": {
+          "1": 0.65,
+          "2": 0.28,
+          "3": 0.86
+        },
+        "displayText": "Shield, Vigorous"
+      }
+    },
     "jewelry": {
       "1": {
         "isEmpty": false,
@@ -124,6 +115,15 @@
         "displayText": "Vigorous"
       }
     },
+    "skillAbilityIds": {
+      "1": 0,
+      "2": 0,
+      "3": 0,
+      "4": 0,
+      "5": 0,
+      "6": 0
+    },
+    "hash": "AjEIFzHMcxzHMcxzExMTBzGzAAAAAAAA",
     "mainHandWeaponType": 2
   },
   "targetBuildHash": "AjEAFzHMcxzHMcxzExMTBzGzCnLWMtlg",
