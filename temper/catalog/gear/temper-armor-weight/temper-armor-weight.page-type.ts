@@ -19,6 +19,7 @@ export const temperArmorWeight = {
     { pageProperty: "number-property/crafted-glyph-item-id", required: false, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/armor-type", required: false, many: false },
+    { pageProperty: "number-property/eso-weapon-type-number", required: false, many: false },
   ],
   decisions: [
     {
@@ -28,6 +29,10 @@ export const temperArmorWeight = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A weight states the armor type the game numbers it by, where it has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weight the game numbers as a weapon type states that number.",
     },
     {
       decisionKind: "decision-kind/departure",

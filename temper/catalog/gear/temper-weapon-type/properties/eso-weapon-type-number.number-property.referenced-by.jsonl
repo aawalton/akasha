@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"eso-weapon-type-number.number-property.types.ts","path":"temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"eso-weapon-type-number.number-property.types.ts","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"eso-weapon-type-number.number-property.types.ts","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts","id":"01a05fcd-aed1-71b0-8b8c-2b74e9a2d662"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
