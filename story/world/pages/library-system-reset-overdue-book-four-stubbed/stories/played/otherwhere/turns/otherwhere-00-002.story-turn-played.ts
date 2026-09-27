@@ -10,7 +10,7 @@ export const otherwhere00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     'I let the shorts drop to the floor, more comfortable in my black compression tights anyways and slip out of my shoes, standing in my socks on the floor. Somehow, I feel comfortable in my new skin, more comfortable than I was before. "Okay, I guess we\'re implementing isekai protocol. Status? Character Sheet? System?" I try to visualize myself to see if the blue box in front of me changes.',
   beats: [
@@ -37,5 +37,5 @@ export const otherwhere00002 = {
   ],
   lore: ["lore/otherwhere-universe"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

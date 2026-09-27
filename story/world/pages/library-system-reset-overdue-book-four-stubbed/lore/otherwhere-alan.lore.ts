@@ -68,6 +68,18 @@ export const otherwhereAlan = {
       fact: "She has not chosen a name for herself in this body.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "She is more at home in this body than she ever was in the old one.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "She has shed the shorts and shoes, and wears only the tights, socks and grey shirt.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Alan's socks sag past her heels.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

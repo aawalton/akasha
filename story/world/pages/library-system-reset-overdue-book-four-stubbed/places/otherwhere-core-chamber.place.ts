@@ -87,6 +87,18 @@ export const otherwhereCoreChamber = {
       fact: "The trunk is the only warm thing in the chamber.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "No panel answered when Alan called aloud for Status, Character Sheet or System.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "On the trunk's side facing Alan, its veins hold steady in a knot of light at hand height.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The knot of light pulses slow and even with the hum, while the trunk's other veins flicker.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
