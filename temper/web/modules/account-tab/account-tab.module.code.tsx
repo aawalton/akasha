@@ -19,16 +19,41 @@ import {
   toCraftBagAccessValue,
 } from "akasha/temper/web/modules/craft-bag-access-select/craft-bag-access-select.module.code.ts"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
+import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { accountTabActive } from "akasha/temper/web/phrase/pages/account-tab-active.temper-web-phrase.ts"
+import { accountTabBadCharacters } from "akasha/temper/web/phrase/pages/account-tab-bad-characters.temper-web-phrase.ts"
+import { accountTabClearFailed } from "akasha/temper/web/phrase/pages/account-tab-clear-failed.temper-web-phrase.ts"
+import { accountTabEmail } from "akasha/temper/web/phrase/pages/account-tab-email.temper-web-phrase.ts"
+import { accountTabEsoPlus } from "akasha/temper/web/phrase/pages/account-tab-eso-plus.temper-web-phrase.ts"
+import { accountTabEsoPlusDescription } from "akasha/temper/web/phrase/pages/account-tab-eso-plus-description.temper-web-phrase.ts"
+import { accountTabEu } from "akasha/temper/web/phrase/pages/account-tab-eu.temper-web-phrase.ts"
+import { accountTabHandle } from "akasha/temper/web/phrase/pages/account-tab-handle.temper-web-phrase.ts"
+import { accountTabHandleDescription } from "akasha/temper/web/phrase/pages/account-tab-handle-description.temper-web-phrase.ts"
+import { accountTabHandlePlaceholder } from "akasha/temper/web/phrase/pages/account-tab-handle-placeholder.temper-web-phrase.ts"
+import { accountTabNa } from "akasha/temper/web/phrase/pages/account-tab-na.temper-web-phrase.ts"
+import { accountTabNotActive } from "akasha/temper/web/phrase/pages/account-tab-not-active.temper-web-phrase.ts"
+import { accountTabPc } from "akasha/temper/web/phrase/pages/account-tab-pc.temper-web-phrase.ts"
+import { accountTabPlatform } from "akasha/temper/web/phrase/pages/account-tab-platform.temper-web-phrase.ts"
+import { accountTabPlaystation } from "akasha/temper/web/phrase/pages/account-tab-playstation.temper-web-phrase.ts"
+import { accountTabSaveFailed } from "akasha/temper/web/phrase/pages/account-tab-save-failed.temper-web-phrase.ts"
+import { accountTabSelect } from "akasha/temper/web/phrase/pages/account-tab-select.temper-web-phrase.ts"
+import { accountTabServer } from "akasha/temper/web/phrase/pages/account-tab-server.temper-web-phrase.ts"
+import { accountTabTitle } from "akasha/temper/web/phrase/pages/account-tab-title.temper-web-phrase.ts"
+import { accountTabTooLong } from "akasha/temper/web/phrase/pages/account-tab-too-long.temper-web-phrase.ts"
+import { accountTabTooShort } from "akasha/temper/web/phrase/pages/account-tab-too-short.temper-web-phrase.ts"
+import { accountTabXbox } from "akasha/temper/web/phrase/pages/account-tab-xbox.temper-web-phrase.ts"
 import { useCraftBagAccess } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useCallback, useEffect, useState } from "react"
 
 const HANDLE_REGEX = /^[a-zA-Z0-9][a-zA-Z0-9-]*[a-zA-Z0-9]$/
 
-function validateHandle(value: string): string | null {
-  if (value.length < 3) return "Must be at least 3 characters"
-  if (value.length > 20) return "Must be 20 characters or fewer"
-  if (!HANDLE_REGEX.test(value))
-    return "Letters, numbers, and hyphens only (no leading/trailing hyphens)"
+function validateHandle(value: string, phrase: Phrase): string | null {
+  if (value.length < 3) return phrase(accountTabTooShort.slug)
+  if (value.length > 20) return phrase(accountTabTooLong.slug)
+  if (!HANDLE_REGEX.test(value)) return phrase(accountTabBadCharacters.slug)
   return null
 }
 
@@ -39,6 +64,7 @@ interface AccountTabProps {
 
 export function AccountTab({ active, user }: AccountTabProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const { handle, setHandle, profileMetadata, updateProfileMeta } = usePlayer()
   const { craftBagAccess, updateCraftBagAccess } = useCraftBagAccess()
   const [draftHandle, setDraftHandle] = useState(handle ?? "")
@@ -57,12 +83,12 @@ export function AccountTab({ active, user }: AccountTabProps) {
       try {
         await setHandle(null)
       } catch {
-        setHandleError("Failed to clear handle")
+        setHandleError(phrase(accountTabClearFailed.slug))
       }
       return
     }
 
-    const error = validateHandle(trimmed)
+    const error = validateHandle(trimmed, phrase)
     if (error != null) {
       setHandleError(error)
       return
@@ -72,16 +98,16 @@ export function AccountTab({ active, user }: AccountTabProps) {
     try {
       await setHandle(trimmed)
     } catch {
-      setHandleError("Couldn't save your handle. Try again.")
+      setHandleError(phrase(accountTabSaveFailed.slug))
     }
-  }, [draftHandle, handle, setHandle])
+  }, [draftHandle, handle, setHandle, phrase])
 
   if (!active) return null
 
   return (
     <ResponsiveColumns>
-      <InputPanelCard id="account" title="Account">
-        <InputPanelCard.Row label="Platform">
+      <InputPanelCard id="account" title={phrase(accountTabTitle.slug)}>
+        <InputPanelCard.Row label={phrase(accountTabPlatform.slug)}>
           <Select<NonNullable<ProfileMetadata["platform"]> | "no-platform">
             value={profileMetadata.platform ?? "no-platform"}
             onValueChange={(value) =>
@@ -89,18 +115,24 @@ export function AccountTab({ active, user }: AccountTabProps) {
             }
           >
             <SelectTrigger className={`w-full min-w-0 max-w-[240px] ${surfaceClass(surface + 1)}`}>
-              <SelectValue placeholder="Select..." />
+              <SelectValue placeholder={phrase(accountTabSelect.slug)} />
             </SelectTrigger>
-            <SelectContent nullSentinel={{ value: "no-platform", label: "Select..." }}>
-              <SelectItem<NonNullable<ProfileMetadata["platform"]>> value="PC">PC/Mac</SelectItem>
-              <SelectItem<NonNullable<ProfileMetadata["platform"]>> value="Xbox">Xbox</SelectItem>
+            <SelectContent
+              nullSentinel={{ value: "no-platform", label: phrase(accountTabSelect.slug) }}
+            >
+              <SelectItem<NonNullable<ProfileMetadata["platform"]>> value="PC">
+                {phrase(accountTabPc.slug)}
+              </SelectItem>
+              <SelectItem<NonNullable<ProfileMetadata["platform"]>> value="Xbox">
+                {phrase(accountTabXbox.slug)}
+              </SelectItem>
               <SelectItem<NonNullable<ProfileMetadata["platform"]>> value="PlayStation">
-                PlayStation
+                {phrase(accountTabPlaystation.slug)}
               </SelectItem>
             </SelectContent>
           </Select>
         </InputPanelCard.Row>
-        <InputPanelCard.Row label="Server">
+        <InputPanelCard.Row label={phrase(accountTabServer.slug)}>
           <Select<NonNullable<ProfileMetadata["server"]> | "no-server">
             value={profileMetadata.server ?? "no-server"}
             onValueChange={(value) =>
@@ -108,23 +140,29 @@ export function AccountTab({ active, user }: AccountTabProps) {
             }
           >
             <SelectTrigger className={`w-full min-w-0 max-w-[240px] ${surfaceClass(surface + 1)}`}>
-              <SelectValue placeholder="Select..." />
+              <SelectValue placeholder={phrase(accountTabSelect.slug)} />
             </SelectTrigger>
-            <SelectContent nullSentinel={{ value: "no-server", label: "Select..." }}>
-              <SelectItem<NonNullable<ProfileMetadata["server"]>> value="NA">NA</SelectItem>
-              <SelectItem<NonNullable<ProfileMetadata["server"]>> value="EU">EU</SelectItem>
+            <SelectContent
+              nullSentinel={{ value: "no-server", label: phrase(accountTabSelect.slug) }}
+            >
+              <SelectItem<NonNullable<ProfileMetadata["server"]>> value="NA">
+                {phrase(accountTabNa.slug)}
+              </SelectItem>
+              <SelectItem<NonNullable<ProfileMetadata["server"]>> value="EU">
+                {phrase(accountTabEu.slug)}
+              </SelectItem>
             </SelectContent>
           </Select>
         </InputPanelCard.Row>
-        <InputPanelCard.Row label="Email">
+        <InputPanelCard.Row label={phrase(accountTabEmail.slug)}>
           {}
           <span className="min-w-0 max-w-[240px] select-text break-all text-right text-secondary text-sm">
             {user.email ?? ""}
           </span>
         </InputPanelCard.Row>
         <InputPanelCard.Row
-          label="Handle"
-          description="3–20 characters. Letters, numbers, and hyphens."
+          label={phrase(accountTabHandle.slug)}
+          description={phrase(accountTabHandleDescription.slug)}
           error={handleError}
         >
           <Input
@@ -134,25 +172,31 @@ export function AccountTab({ active, user }: AccountTabProps) {
               setHandleError(null)
             }}
             onBlur={saveHandle}
-            placeholder="your-handle"
+            placeholder={phrase(accountTabHandlePlaceholder.slug)}
             maxLength={20}
             className={`w-full min-w-0 max-w-[240px] ${surfaceClass(surface + 1)}`}
           />
         </InputPanelCard.Row>
         <InputPanelCard.Row
-          label="ESO Plus"
-          description="Whether you subscribe. When active, crafting material rules route to the craft bag instead of the bank."
+          label={phrase(accountTabEsoPlus.slug)}
+          description={phrase(accountTabEsoPlusDescription.slug)}
         >
           <Select<CraftBagAccessValue>
             value={toCraftBagAccessValue(craftBagAccess)}
             onValueChange={(value) => updateCraftBagAccess(fromCraftBagAccessValue(value))}
           >
             <SelectTrigger className={`w-full min-w-0 max-w-[240px] ${surfaceClass(surface + 1)}`}>
-              <SelectValue placeholder="Select..." />
+              <SelectValue placeholder={phrase(accountTabSelect.slug)} />
             </SelectTrigger>
-            <SelectContent nullSentinel={{ value: "no-eso-plus-answer", label: "Select..." }}>
-              <SelectItem<CraftBagAccessValue> value="true">Active</SelectItem>
-              <SelectItem<CraftBagAccessValue> value="false">Not Active</SelectItem>
+            <SelectContent
+              nullSentinel={{ value: "no-eso-plus-answer", label: phrase(accountTabSelect.slug) }}
+            >
+              <SelectItem<CraftBagAccessValue> value="true">
+                {phrase(accountTabActive.slug)}
+              </SelectItem>
+              <SelectItem<CraftBagAccessValue> value="false">
+                {phrase(accountTabNotActive.slug)}
+              </SelectItem>
             </SelectContent>
           </Select>
         </InputPanelCard.Row>

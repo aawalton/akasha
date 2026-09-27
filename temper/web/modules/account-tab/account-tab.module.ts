@@ -6,4 +6,10 @@ export const accountTab = {
   slug: "account-tab",
   definition: "the account tab of settings: the handle, the ESO Plus answer and the guild banks",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

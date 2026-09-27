@@ -6130,6 +6130,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-quests-panel-card/account-quests-panel-card.module.ts","id":"01a06421-f74b-7ec3-8872-aa39e4d60007"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-recipes-panel-card/account-recipes-panel-card.module.ts","id":"01a06421-f74b-74eb-87e9-e619720b0008"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-summary-panel-card/account-summary-panel-card.module.ts","id":"01a06421-f74b-72e9-b673-edb9198c000a"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/account-tab/account-tab.module.ts","id":"01a06432-b190-7ad2-a1e5-8107cb828e08"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-trait-research-panel-card/account-trait-research-panel-card.module.ts","id":"01a06421-f74b-7a90-9c03-de25b3a2000b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-tribute-panel-card/account-tribute-panel-card.module.ts","id":"01a06421-f74b-7724-b242-e7d6d606000c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-zone-completion-panel-card/account-zone-completion-panel-card.module.ts","id":"01a06421-f74b-793e-882c-e2f59826000d"}
