@@ -30,6 +30,7 @@ import {
   UNDER_GAME_MASTER,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
+import { prose } from "akasha/story/world/stories/played/properties/prose.file-property.ts"
 import { turnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.ts"
 import { turnBeats } from "akasha/story/world/stories/played/turns/properties/turn-beats.text-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
@@ -165,6 +166,8 @@ const QUOTING = 'Alan: "The ferryman remembers every crossing."'
 
 const OWN = "Seven lanterns burn beneath the pier as she listens."
 
+const PROSE = "She had heard of every crossing the river has ever carried."
+
 function playedWorld(): string {
   const root = sealedWorld()
   valueAlsoFiled(root, storyTurnPlayed.slug, [
@@ -176,15 +179,25 @@ function playedWorld(): string {
         slug: "held-00-001",
         [turnAction.propertySlug]: ACTION,
         [turnBeats.propertySlug]: [QUOTING, OWN],
+        [prose.propertySlug]: "txt",
       },
     },
   ])
+  const written = join(root, PLAYED_AT.replace(/\.ts$/, ".prose.txt"))
+  mkdirSync(dirname(written), { recursive: true })
+  writeFileSync(written, `${PROSE}\n`)
   return root
 }
 
 test("a player's action is kept where it shares words with a withheld fact", () => {
   const scrubber = scrubberOf(playedWorld())
   expect(heldIn(`  action: ${JSON.stringify(ACTION)},`, scrubber)).toBe(false)
+  expect(heldIn(`"${FACT}"`, scrubber)).toBe(true)
+})
+
+test("a played turn's prose is kept, and the withheld fact it echoes is still held", () => {
+  const scrubber = scrubberOf(playedWorld())
+  expect(heldIn(`1\t${PROSE}`, scrubber)).toBe(false)
   expect(heldIn(`"${FACT}"`, scrubber)).toBe(true)
 })
 

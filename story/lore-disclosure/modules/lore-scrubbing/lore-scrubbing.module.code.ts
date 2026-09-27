@@ -1,8 +1,14 @@
 import { readFileSync } from "node:fs"
 import { constants } from "node:os"
+import { join } from "node:path"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { UNCLASSIFIED } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import { valuesByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
@@ -15,6 +21,7 @@ import {
   withheldFor,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
+import { prose } from "akasha/story/world/stories/played/properties/prose.file-property.ts"
 import { turnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.ts"
 import { turnBeats } from "akasha/story/world/stories/played/turns/properties/turn-beats.text-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
@@ -99,11 +106,19 @@ function toldProseIn(root: string): readonly string[] {
   return found
 }
 
+function proseOf(root: string, path: string, value: Value): string | null {
+  const held = textAt(value, prose.propertySlug)
+  const at = held === null ? null : besideAt(path, prose.propertySlug, held)
+  return at === null ? null : readFileSync(join(root, at), "utf8")
+}
+
 function playedIn(root: string): readonly string[] {
   const found: string[] = []
-  for (const value of valuesByPath(root, storyTurnPlayed.slug).values()) {
+  for (const [path, value] of valuesByPath(root, storyTurnPlayed.slug)) {
     const action = value[turnAction.propertySlug]
     if (typeof action === "string") found.push(action)
+    const written = proseOf(root, path, value)
+    if (written !== null) found.push(written)
     const beats = value[turnBeats.propertySlug]
     if (!Array.isArray(beats)) continue
     for (const one of beats) if (typeof one === "string") found.push(one)
