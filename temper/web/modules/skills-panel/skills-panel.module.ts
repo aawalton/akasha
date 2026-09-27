@@ -12,5 +12,9 @@ export const skillsPanel = {
       statement:
         "The skill lines a build's gear opens are worked out again whenever the gear tables are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

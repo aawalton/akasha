@@ -19,6 +19,11 @@ import { SkillSelectionDialog } from "akasha/temper/web/modules/skill-selection-
 import type { SkillsPanelProps } from "akasha/temper/web/modules/skills-types/skills-types.module.code.ts"
 import { useScribedSkills } from "akasha/temper/web/modules/use-scribed-skills/use-scribed-skills.module.code.ts"
 import { useSkillBars } from "akasha/temper/web/modules/use-skill-bars/use-skill-bars.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { skillsPanelBackupBar } from "akasha/temper/web/phrase/pages/skills-panel-backup-bar.temper-web-phrase.ts"
+import { skillsPanelPrimaryBar } from "akasha/temper/web/phrase/pages/skills-panel-primary-bar.temper-web-phrase.ts"
+import { skillsPanelSelectSkill } from "akasha/temper/web/phrase/pages/skills-panel-select-skill.temper-web-phrase.ts"
+import { skillsPanelSelectUltimate } from "akasha/temper/web/phrase/pages/skills-panel-select-ultimate.temper-web-phrase.ts"
 import { useDeferredValue, useMemo } from "react"
 
 export function SkillsPanel({
@@ -35,6 +40,7 @@ export function SkillsPanel({
   passiveSearch = "",
   passiveCategory = null,
 }: SkillsPanelProps) {
+  const phrase = usePhrase()
   const deferredPassiveSearch = useDeferredValue(passiveSearch)
   const deferredPassiveCategory = useDeferredValue(passiveCategory)
 
@@ -85,7 +91,7 @@ export function SkillsPanel({
         />
         <SkillBarPanelCard
           id="primary-skill-bar"
-          title="Primary Bar"
+          title={phrase(skillsPanelPrimaryBar.slug)}
           skills={activeSkillSlots().map((slot) => skills["primary-skill-bar"][slot.id])}
           ultimate={skills["primary-skill-bar"]["ultimate"]}
           findSkill={skillBars.findSkill}
@@ -97,7 +103,7 @@ export function SkillsPanel({
         />
         <SkillBarPanelCard
           id="backup-skill-bar"
-          title="Backup Bar"
+          title={phrase(skillsPanelBackupBar.slug)}
           skills={activeSkillSlots().map((slot) => skills["backup-skill-bar"][slot.id])}
           ultimate={skills["backup-skill-bar"]["ultimate"]}
           findSkill={skillBars.findSkill}
@@ -126,7 +132,7 @@ export function SkillsPanel({
       {!readOnly && (
         <SkillSelectionDialog
           open={skillBars.editingSkillSlot !== null}
-          title="Select Skill"
+          title={phrase(skillsPanelSelectSkill.slug)}
           onClose={skillBars.closeDialogs}
           onSelect={(skillId) => {
             if (skillBars.editingSkillSlot) {
@@ -160,7 +166,7 @@ export function SkillsPanel({
       {!readOnly && (
         <SkillSelectionDialog
           open={skillBars.editingUltimate !== null}
-          title="Select Ultimate"
+          title={phrase(skillsPanelSelectUltimate.slug)}
           onClose={skillBars.closeDialogs}
           onSelect={(skillId) => {
             if (skillBars.editingUltimate != null) {

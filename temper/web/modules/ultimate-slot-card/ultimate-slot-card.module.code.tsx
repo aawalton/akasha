@@ -7,6 +7,11 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { getEsoIconUrl } from "akasha/temper/player/character/formula-framework/modules/eso-icon-url/eso-icon-url.module.code.ts"
 import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { getSkillLineName } from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { ultimateSlotCardClear } from "akasha/temper/web/phrase/pages/ultimate-slot-card-clear.temper-web-phrase.ts"
+import { ultimateSlotCardClickToSelect } from "akasha/temper/web/phrase/pages/ultimate-slot-card-click-to-select.temper-web-phrase.ts"
+import { ultimateSlotCardEmpty } from "akasha/temper/web/phrase/pages/ultimate-slot-card-empty.temper-web-phrase.ts"
+import { ultimateSlotCardUltimate } from "akasha/temper/web/phrase/pages/ultimate-slot-card-ultimate.temper-web-phrase.ts"
 import { Plus, X } from "lucide-react"
 
 interface UltimateSlotCardProps {
@@ -18,6 +23,7 @@ interface UltimateSlotCardProps {
 
 export function UltimateSlotCard({ ultimate, onClick, onClear, readOnly }: UltimateSlotCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const iconUrl = ultimate ? getEsoIconUrl(ultimate.icon) : null
 
   return (
@@ -45,7 +51,7 @@ export function UltimateSlotCard({ ultimate, onClick, onClear, readOnly }: Ultim
           {iconUrl != null ? (
             <img
               src={iconUrl !== "" ? iconUrl : "/placeholder.svg"}
-              alt={ultimate?.name ?? "Ultimate"}
+              alt={ultimate?.name ?? phrase(ultimateSlotCardUltimate.slug)}
               width={40}
               height={40}
               className="h-full w-full object-cover"
@@ -57,10 +63,12 @@ export function UltimateSlotCard({ ultimate, onClick, onClear, readOnly }: Ultim
 
         <div className="min-w-0 flex-1">
           <div className="truncate font-medium text-sm">
-            {ultimate ? ultimate.name : "Empty Ultimate"}
+            {ultimate ? ultimate.name : phrase(ultimateSlotCardEmpty.slug)}
           </div>
           <div className="truncate text-secondary text-xs">
-            {ultimate ? getSkillLineName(ultimate.skillLineId) : "Click to select an ultimate"}
+            {ultimate
+              ? getSkillLineName(ultimate.skillLineId)
+              : phrase(ultimateSlotCardClickToSelect.slug)}
           </div>
         </div>
       </button>
@@ -76,8 +84,8 @@ export function UltimateSlotCard({ ultimate, onClick, onClear, readOnly }: Ultim
             onClear()
           }}
           onPointerDown={(e) => e.stopPropagation()}
-          title="Clear ultimate"
-          aria-label="Clear ultimate"
+          title={phrase(ultimateSlotCardClear.slug)}
+          aria-label={phrase(ultimateSlotCardClear.slug)}
           type="button"
         >
           <X className="h-4 w-4 text-tertiary" />

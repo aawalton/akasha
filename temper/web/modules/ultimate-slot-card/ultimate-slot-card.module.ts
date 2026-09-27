@@ -6,4 +6,10 @@ export const ultimateSlotCard = {
   slug: "ultimate-slot-card",
   definition: "a card with an ultimate slot",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

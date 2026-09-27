@@ -6,4 +6,10 @@ export const skillSlotCard = {
   slug: "skill-slot-card",
   definition: "a card with a skill slot",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

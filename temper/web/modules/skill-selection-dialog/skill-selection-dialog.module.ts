@@ -6,4 +6,10 @@ export const skillSelectionDialog = {
   slug: "skill-selection-dialog",
   definition: "the dialog selecting a skill",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

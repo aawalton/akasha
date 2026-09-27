@@ -18,6 +18,9 @@ import {
   getAvailableSkillLinesGrouped,
   getClassForSkillLine,
 } from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { skillLinesPanelCardNone } from "akasha/temper/web/phrase/pages/skill-lines-panel-card-none.temper-web-phrase.ts"
+import { skillLinesPanelCardTitle } from "akasha/temper/web/phrase/pages/skill-lines-panel-card-title.temper-web-phrase.ts"
 
 interface SkillLinesPanelCardProps {
   skillLineIds: readonly SkillLineId[]
@@ -36,6 +39,8 @@ export function SkillLinesPanelCard({
   readOnly,
   collapseProtected,
 }: SkillLinesPanelCardProps) {
+  const phrase = usePhrase()
+  const none = phrase(skillLinesPanelCardNone.slug)
   const getClassDisplayNameForSkillLine = (skillLineId: SkillLineId) => {
     const classId = getClassForSkillLine(skillLineId)
     if (classId == null) return ""
@@ -51,7 +56,7 @@ export function SkillLinesPanelCard({
       id="skill-lines"
       collapsible={true}
       collapseProtected={collapseProtected}
-      title="Skill Lines"
+      title={phrase(skillLinesPanelCardTitle.slug)}
       className={className}
     >
       {[0, 1, 2].map((index) => {
@@ -62,9 +67,9 @@ export function SkillLinesPanelCard({
           <div key={index} className="flex items-center justify-between">
             <span className="text-secondary text-sm">
               {(() => {
-                if (currentSkillLineId == null) return "None"
+                if (currentSkillLineId == null) return none
                 const displayName = getClassDisplayNameForSkillLine(currentSkillLineId)
-                return displayName !== "" ? displayName : "None"
+                return displayName !== "" ? displayName : none
               })()}
             </span>
             <Select

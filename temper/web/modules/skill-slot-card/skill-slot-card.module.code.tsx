@@ -6,6 +6,10 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { SkillCollapsibleCard } from "akasha/temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { skillSlotCardClear } from "akasha/temper/web/phrase/pages/skill-slot-card-clear.temper-web-phrase.ts"
+import { skillSlotCardClickToSelect } from "akasha/temper/web/phrase/pages/skill-slot-card-click-to-select.temper-web-phrase.ts"
+import { skillSlotCardEmpty } from "akasha/temper/web/phrase/pages/skill-slot-card-empty.temper-web-phrase.ts"
 import { Plus, X } from "lucide-react"
 
 interface SkillSlotCardProps {
@@ -24,6 +28,8 @@ export function SkillSlotCard({
   readOnly,
 }: SkillSlotCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
+  const clearLabel = phrase(skillSlotCardClear.slug, { slot: slotLabel })
   if (!skill) {
     return (
       <div
@@ -50,8 +56,10 @@ export function SkillSlotCard({
           </div>
 
           <div className="min-w-0 flex-1">
-            <div className="truncate font-medium text-sm">Empty Slot</div>
-            <div className="line-clamp-2 text-secondary text-xs">Click to select a skill</div>
+            <div className="truncate font-medium text-sm">{phrase(skillSlotCardEmpty.slug)}</div>
+            <div className="line-clamp-2 text-secondary text-xs">
+              {phrase(skillSlotCardClickToSelect.slug)}
+            </div>
           </div>
         </button>
 
@@ -66,8 +74,8 @@ export function SkillSlotCard({
               onClear()
             }}
             onPointerDown={(e) => e.stopPropagation()}
-            title={`Clear slot ${slotLabel}`}
-            aria-label={`Clear slot ${slotLabel}`}
+            title={clearLabel}
+            aria-label={clearLabel}
             type="button"
           >
             <X className="h-4 w-4 text-tertiary" />
@@ -93,8 +101,8 @@ export function SkillSlotCard({
                   onClear()
                 }}
                 onPointerDown={(e) => e.stopPropagation()}
-                title={`Clear slot ${slotLabel}`}
-                aria-label={`Clear slot ${slotLabel}`}
+                title={clearLabel}
+                aria-label={clearLabel}
                 type="button"
               >
                 <X className="h-4 w-4 text-tertiary" />

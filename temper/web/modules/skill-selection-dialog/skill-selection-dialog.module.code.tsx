@@ -23,6 +23,12 @@ import {
 } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import type { CategoryData } from "akasha/temper/player/skill-morph/modules/skill-organization/skill-organization.module.code.ts"
 import { SkillCollapsibleCard } from "akasha/temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { skillSelectionDialogCollapseAll } from "akasha/temper/web/phrase/pages/skill-selection-dialog-collapse-all.temper-web-phrase.ts"
+import { skillSelectionDialogExpandAll } from "akasha/temper/web/phrase/pages/skill-selection-dialog-expand-all.temper-web-phrase.ts"
+import { skillSelectionDialogNoMatch } from "akasha/temper/web/phrase/pages/skill-selection-dialog-no-match.temper-web-phrase.ts"
+import { skillSelectionDialogSearch } from "akasha/temper/web/phrase/pages/skill-selection-dialog-search.temper-web-phrase.ts"
+import { skillSelectionDialogSelect } from "akasha/temper/web/phrase/pages/skill-selection-dialog-select.temper-web-phrase.ts"
 import { Check, ChevronRight, ChevronsDown, ChevronsUp } from "lucide-react"
 import { useState } from "react"
 
@@ -53,6 +59,7 @@ export function SkillSelectionDialog({
   onExpandAll,
   onCollapseAll,
 }: SkillSelectionDialogProps) {
+  const phrase = usePhrase()
   const [expandedSkillId, setExpandedSkillId] = useState<SkillId | null>(null)
 
   function handleClose() {
@@ -77,7 +84,7 @@ export function SkillSelectionDialog({
             <DialogTitle>{title}</DialogTitle>
             <div className="flex w-full flex-start flex-row gap-2">
               <CommandInput
-                placeholder="Search skills..."
+                placeholder={phrase(skillSelectionDialogSearch.slug)}
                 value={searchFilter}
                 onValueChange={onSearchChange}
                 className="flex-1"
@@ -86,7 +93,7 @@ export function SkillSelectionDialog({
                 variant="secondary"
                 size="icon"
                 onClick={onExpandAll}
-                title="Expand all skill lines"
+                title={phrase(skillSelectionDialogExpandAll.slug)}
                 className="shrink-0"
               >
                 <ChevronsDown className="h-4 w-4" />
@@ -95,7 +102,7 @@ export function SkillSelectionDialog({
                 variant="secondary"
                 size="icon"
                 onClick={onCollapseAll}
-                title="Collapse all skill lines"
+                title={phrase(skillSelectionDialogCollapseAll.slug)}
                 className="shrink-0"
               >
                 <ChevronsUp className="h-4 w-4" />
@@ -105,7 +112,9 @@ export function SkillSelectionDialog({
 
           <CommandList className="max-h-none space-y-4 overflow-y-auto px-6 pt-3 pb-6">
             {organizedSkills.length === 0 && searchFilter !== "" && (
-              <div className="py-6 text-center text-sm">No skills match "{searchFilter}"</div>
+              <div className="py-6 text-center text-sm">
+                {phrase(skillSelectionDialogNoMatch.slug, { search: searchFilter })}
+              </div>
             )}
 
             {organizedSkills.map((category) => (
@@ -153,8 +162,12 @@ export function SkillSelectionDialog({
                                       handleSelect(skill.id)
                                     }}
                                     onPointerDown={(e) => e.stopPropagation()}
-                                    title={`Select ${skill.name}`}
-                                    aria-label={`Select ${skill.name}`}
+                                    title={phrase(skillSelectionDialogSelect.slug, {
+                                      name: skill.name,
+                                    })}
+                                    aria-label={phrase(skillSelectionDialogSelect.slug, {
+                                      name: skill.name,
+                                    })}
                                     type="button"
                                   >
                                     <Check className="h-4 w-4 text-tertiary" />

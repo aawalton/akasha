@@ -6264,8 +6264,11 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/set-target-dialog/set-target-dialog.module.ts","id":"01a06429-76ff-7b98-9350-f3aedb167a1a"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.ts","id":"01a0de7a-2f36-784f-bdd2-ba06f5ae41bf"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.ts","id":"01a0642c-5bab-77bc-bd5f-4f4709582c75"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/skill-lines-panel-card/skill-lines-panel-card.module.ts","id":"01a0642c-5bac-7578-9176-552f2bc3ddab"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.ts","id":"01a06421-f74b-752f-a6b5-360b99270035"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/skill-points-progress-panel-card/skill-points-progress-panel-card.module.ts","id":"01a06421-f74b-78a8-b600-7f8587eb0036"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/skill-selection-dialog/skill-selection-dialog.module.ts","id":"01a0642c-5bad-78c1-afbd-877051c08f76"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/skill-slot-card/skill-slot-card.module.ts","id":"01a0642c-5bae-7b7b-bebc-f37e1800336e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/skills-panel/skills-panel.module.ts","id":"01a0642c-5baf-76da-97a7-2f5fa510dec7"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/star-selection-dialog/star-selection-dialog.module.ts","id":"01a06432-b190-70ca-8fae-defba6b87018"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.ts","id":"01a06421-f74b-7c10-81f6-98e711570037"}
@@ -6276,6 +6279,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.ts","id":"01a0640f-8510-7c72-8ea7-ff3cbcdf74b3"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.ts","id":"01a06421-f74b-7a5d-8386-b8848da70038"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/ttc-listing-client/ttc-listing-client.module.ts","id":"01a0609f-a419-7ed6-80f9-4695f2d6e695"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.ts","id":"01a0642c-5bb1-70ad-ba21-7cb45c72fc9c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-account-address/use-account-address.module.ts","id":"01a0d432-ba07-790c-9d52-9b25d2599f63"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-build-sync/use-build-sync.module.ts","id":"01a0640f-8510-7137-a8d9-9ada066e759b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.ts","id":"01a0de52-ecc3-7d27-995b-dd636d5d8cb3"}
