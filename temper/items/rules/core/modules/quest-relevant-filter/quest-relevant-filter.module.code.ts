@@ -13,7 +13,6 @@ const read = (c: CategoryRule["conditions"]) => c?.questRelevant
 
 export const QUEST_RELEVANT_FILTER: InventoryRuleFilter = {
   id: "quest-relevant",
-  label: "Quest-Relevant Status",
   priority: 0,
   isEligible: () => true,
   mutuallyExclusive: [],

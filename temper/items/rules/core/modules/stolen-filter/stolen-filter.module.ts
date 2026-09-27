@@ -4,7 +4,7 @@ export const stolenFilter = {
   id: "01a06100-3bff-7782-8d27-8df8dd457040",
   type: "page-type/module",
   slug: "stolen-filter",
-  definition: "the Stolen Status condition a rule may carry, as the rule editor offers it",
+  definition: "the `stolen` condition a rule may carry, as the rule editor offers it",
   code: "ts",
   decisions: [
     {
@@ -14,11 +14,15 @@ export const stolenFilter = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A category under the two roots named in the code is offered no Stolen Status condition.",
+        "A category under the two roots named in the code is offered no `stolen` condition.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rule with the `crafted` condition is offered no Stolen Status condition.",
+      statement: "A rule with the `crafted` condition is offered no `stolen` condition.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
     },
   ],
 } as const satisfies Module

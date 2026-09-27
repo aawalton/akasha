@@ -16,7 +16,6 @@ const read = (c: CategoryRule["conditions"]) => c?.transmuted
 
 export const TRANSMUTED_FILTER: InventoryRuleFilter = {
   id: "transmuted",
-  label: "Transmuted Status",
   priority: 0,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, TRANSMUTED_ELIGIBLE_ROOTS, "opt-in", categories),

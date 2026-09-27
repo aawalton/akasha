@@ -13,7 +13,6 @@ const read = (c: CategoryRule["conditions"]) => c?.bound
 
 export const BOUND_FILTER: InventoryRuleFilter = {
   id: "bound",
-  label: "Bound Status",
   priority: 0,
   isEligible: () => true,
   mutuallyExclusive: [],

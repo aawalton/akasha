@@ -16,7 +16,6 @@ const read = (c: CategoryRule["conditions"]) => c?.stolen
 
 export const STOLEN_FILTER: InventoryRuleFilter = {
   id: "stolen",
-  label: "Stolen Status",
   priority: 1,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, STOLEN_INELIGIBLE_ROOTS, "opt-out", categories),

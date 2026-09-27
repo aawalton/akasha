@@ -4,7 +4,7 @@ export const transmutedFilter = {
   id: "01a06100-3c00-7289-bd55-ca10e321d94e",
   type: "page-type/module",
   slug: "transmuted-filter",
-  definition: "the Transmuted Status condition a rule may carry, as the rule editor offers it",
+  definition: "the `transmuted` condition a rule may carry, as the rule editor offers it",
   code: "ts",
   decisions: [
     {
@@ -13,7 +13,11 @@ export const transmutedFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A category outside `equipment` is offered no Transmuted Status condition.",
+      statement: "A category outside `equipment` is offered no `transmuted` condition.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
     },
   ],
 } as const satisfies Module

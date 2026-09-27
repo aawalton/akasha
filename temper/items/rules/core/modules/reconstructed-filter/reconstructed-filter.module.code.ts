@@ -16,7 +16,6 @@ const read = (c: CategoryRule["conditions"]) => c?.reconstructed
 
 export const RECONSTRUCTED_FILTER: InventoryRuleFilter = {
   id: "reconstructed",
-  label: "Reconstructed Status",
   priority: 0,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, RECONSTRUCTED_ELIGIBLE_ROOTS, "opt-in", categories),
