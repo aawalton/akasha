@@ -60,6 +60,14 @@ export const theDatingGameEcho = {
       fact: "Echo's favorite LitRPG series is Dungeon Crawler Carl.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "What Echo loves about Dungeon Crawler Carl is the voices.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Echo can do many distinct voices, from a gravel-throated dwarf to a chirpy game announcer.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

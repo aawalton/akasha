@@ -116,5 +116,13 @@ export const theDatingGameAlan = {
         "character-other/the-dating-game-echo",
       ],
     },
+    {
+      fact: "Alan read the first six Dungeon Crawler Carl books and can't see why they're so popular.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "Alan's favorite LitRPG is The Wandering Inn: 16 million words, and still constantly surprising.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
   ],
 } as const satisfies Lore
