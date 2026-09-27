@@ -20,6 +20,7 @@ import type {
   PointsData,
   QuestSkyshardRow,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-types/skill-point-finder-types.module.code.ts"
+import { ENDLESS_ARCHIVE_ZONE_ID } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.code.ts"
 import { formatCount } from "akasha/temper/window/modules/window-numbers/window-numbers.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -74,7 +75,7 @@ export function updateGuiTable(this: void, sVarPtsData: PointsData): undefined {
     ],
     [
       7,
-      zo_strformat("<<t:1>>", GetZoneNameById(GAME_DATA.ZId.ZN["EA"] ?? 0)),
+      zo_strformat("<<t:1>>", GetZoneNameById(ENDLESS_ARCHIVE_ZONE_ID)),
       getSV(sVarPtsData.EndlArch),
       tots.EndlArch,
       getTooltipEndlessArchive(),

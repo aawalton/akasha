@@ -10,4 +10,5 @@ export const ad0 = {
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 6,
+  esoZoneId: 537,
 } as const satisfies TemperSkillPoint

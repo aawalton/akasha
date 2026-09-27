@@ -9,4 +9,8 @@ export const bc = {
   questGiver: "temper-quest-giver/glirion-the-redbeard",
   rotationPosition: 11,
   soloDifficulty: "easy",
+  esoZoneId: 64,
+  zoneKey: "EP5",
+  questId: 4469,
+  displayOrder: 23,
 } as const satisfies TemperDungeon

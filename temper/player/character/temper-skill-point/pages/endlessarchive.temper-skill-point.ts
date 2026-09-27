@@ -9,4 +9,6 @@ export const endlessarchive = {
   displayOrder: 6,
   category: "general",
   maxValue: 1,
+  esoZoneId: 1436,
+  skillPointQuests: "jsonl",
 } as const satisfies TemperSkillPoint

@@ -9,4 +9,8 @@ export const eh2 = {
   questGiver: "temper-quest-giver/maj-al-ragath",
   rotationPosition: 10,
   soloDifficulty: "medium",
+  esoZoneId: 931,
+  zoneKey: "AD2",
+  questId: 4675,
+  displayOrder: 4,
 } as const satisfies TemperDungeon

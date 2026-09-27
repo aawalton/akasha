@@ -9,4 +9,8 @@ export const fv = {
   questGiver: "temper-quest-giver/urgarlag-chief-bane",
   rotationPosition: 11,
   soloDifficulty: "hard",
+  esoZoneId: 1080,
+  zoneKey: "EP4",
+  questId: 6249,
+  displayOrder: 36,
 } as const satisfies TemperDungeon

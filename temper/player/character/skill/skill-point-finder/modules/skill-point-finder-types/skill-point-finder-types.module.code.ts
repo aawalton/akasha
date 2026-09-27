@@ -1,7 +1,6 @@
 import type {
   GroupDungeonEntry,
   PublicDungeonEntry,
-  Tutorials,
 } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.code.ts"
 
 export type Rgb = number[]
@@ -134,7 +133,7 @@ export interface GameData {
   ZId: { ZN: Record<string, number> }
   MAAch: number
   zones: ZoneData[]
-  tutorials: Tutorials
+  tutorials: number[]
   GD: GroupDungeonEntry[]
   MQ: number[]
   EA: number[]

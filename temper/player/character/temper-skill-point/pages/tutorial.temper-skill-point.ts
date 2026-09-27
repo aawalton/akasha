@@ -9,4 +9,5 @@ export const tutorial = {
   displayOrder: 2,
   category: "general",
   maxValue: 1,
+  skillPointQuests: "jsonl",
 } as const satisfies TemperSkillPoint

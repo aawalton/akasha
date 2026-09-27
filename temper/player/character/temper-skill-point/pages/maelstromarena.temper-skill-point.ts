@@ -9,4 +9,5 @@ export const maelstromarena = {
   displayOrder: 5,
   category: "general",
   maxValue: 1,
+  skillPointAchievements: "jsonl",
 } as const satisfies TemperSkillPoint

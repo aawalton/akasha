@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-point.page-type.ts","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.ts","path":"temper/player/completion/temper-player-completion/modules/completion-page-reading/completion-page-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/ad0.temper-skill-point.ts","typed":true,"deferred":false}
@@ -8,6 +9,7 @@
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/ad4.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/ad5.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/ap.temper-skill-point.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/bgc.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/bw.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/cc.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/ch.temper-skill-point.ts","typed":true,"deferred":false}
@@ -44,6 +46,7 @@
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/so.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/su.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/td.temper-skill-point.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/tp.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/tr.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/tutorial.temper-skill-point.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-point.page-type.types.ts","path":"temper/player/character/temper-skill-point/pages/vv.temper-skill-point.ts","typed":true,"deferred":false}

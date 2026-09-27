@@ -10,4 +10,5 @@ export const dc0b = {
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 3,
+  esoZoneId: 534,
 } as const satisfies TemperSkillPoint

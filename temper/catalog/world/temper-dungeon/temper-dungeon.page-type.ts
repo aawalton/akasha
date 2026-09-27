@@ -7,6 +7,7 @@ export const temperDungeon = {
   definition: "a group instance a party fights through together",
   extends: ["page-type/temper-catalog-thing"],
   parts: [
+    "number-property/dungeon-quest-id",
     "number-property/rotation-position",
     "relation-property/quest-giver",
     "text-property/solo-difficulty",
@@ -16,6 +17,27 @@ export const temperDungeon = {
     { pageProperty: "relation-property/quest-giver", required: true, many: false },
     { pageProperty: "number-property/rotation-position", required: true, many: false },
     { pageProperty: "text-property/solo-difficulty", required: true, many: false },
+    { pageProperty: "number-property/eso-zone-id", required: false, many: false },
+    { pageProperty: "text-property/zone-key", required: false, many: false },
+    { pageProperty: "number-property/dungeon-quest-id", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A dungeon's zone id is the number the game gives the dungeon itself.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A dungeon names the zone it is in by the skill point finder's key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A dungeon's quest is the quest whose finishing hands a character a skill point.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The skill point finder lists the dungeons in their display order.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

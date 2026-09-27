@@ -56,7 +56,7 @@ function computeSkillPoints(): SkillPointProgress {
   }
 
   let tutorial = 0
-  for (const [, questId] of Object.entries(TUTORIALS)) {
+  for (const questId of TUTORIALS) {
     if (isQuestComplete(questId)) {
       tutorial = 1
       break

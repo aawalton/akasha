@@ -10,4 +10,5 @@ export const wp = {
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 1,
+  esoZoneId: 809,
 } as const satisfies TemperSkillPoint

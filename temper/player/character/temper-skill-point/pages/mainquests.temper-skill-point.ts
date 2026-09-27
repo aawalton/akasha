@@ -9,4 +9,5 @@ export const mainquests = {
   displayOrder: 1,
   category: "general",
   maxValue: 11,
+  skillPointQuests: "jsonl",
 } as const satisfies TemperSkillPoint

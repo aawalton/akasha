@@ -10,4 +10,6 @@ export const tr = {
   category: "zone",
   maxQuests: 9,
   maxSkyshards: 6,
+  esoZoneId: 1207,
+  skillPointQuests: "jsonl",
 } as const satisfies TemperSkillPoint

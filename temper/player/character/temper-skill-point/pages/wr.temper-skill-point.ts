@@ -10,4 +10,6 @@ export const wr = {
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 17,
+  esoZoneId: 684,
+  skillPointQuests: "jsonl",
 } as const satisfies TemperSkillPoint

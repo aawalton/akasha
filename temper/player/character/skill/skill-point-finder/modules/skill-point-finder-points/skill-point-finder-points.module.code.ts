@@ -96,15 +96,11 @@ function setQuestPoints(this: void): undefined {
     STATE.ptsData.MainQ = STATE.ptsData.MainQ + (questCompleted(questId) ? 1 : 0)
   }
 
-  STATE.ptsData.tutorial =
-    questCompleted(GAME_DATA.tutorials.MO) ||
-    questCompleted(GAME_DATA.tutorials.SO) ||
-    questCompleted(GAME_DATA.tutorials.EO) ||
-    questCompleted(GAME_DATA.tutorials.GO) ||
-    questCompleted(GAME_DATA.tutorials.BO) ||
-    STATE.settings.TUT
-      ? 1
-      : 0
+  let tutorialDone = STATE.settings.TUT
+  for (const questId of GAME_DATA.tutorials) {
+    if (questCompleted(questId)) tutorialDone = true
+  }
+  STATE.ptsData.tutorial = tutorialDone ? 1 : 0
 
   STATE.ptsData.EndlArch = questCompleted(GAME_DATA.EA[0] ?? 0) ? 1 : 0
 

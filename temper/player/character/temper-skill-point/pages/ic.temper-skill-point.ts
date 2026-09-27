@@ -11,4 +11,6 @@ export const ic = {
   maxQuests: 1,
   maxSkyshards: 13,
   pvp: true,
+  esoZoneId: 584,
+  skillPointQuests: "jsonl",
 } as const satisfies TemperSkillPoint

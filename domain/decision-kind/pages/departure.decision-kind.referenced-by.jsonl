@@ -5306,6 +5306,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-positions.record-property.ts","id":"01a0d5d4-6c7f-7827-8e5a-9a56d314ea76"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/place-kinds.number-property.ts","id":"01a0d5d4-6c7f-7d11-b6a8-b978871353e0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/temper-dungeon/temper-dungeon.page-type.ts","id":"01a05fc4-7a8e-73b2-936f-9e3b86b17549"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/modules/public-dungeon-pages/public-dungeon-pages.module.ts","id":"01a0d8a5-1cee-7341-899a-4f34c7fb7a44"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts","id":"01a0d89e-8371-74e9-89b8-8064ba78445b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-race/modules/race-ids-keeping/race-ids-keeping.change-generator.ts","id":"01a0e08d-6075-7fce-8b3e-5d7804281be8"}
@@ -5826,6 +5827,8 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-bar/modules/skill-bar-ids/skill-bar-ids.data-table.ts","id":"01a0e096-154e-7aad-9c47-c2d3bbb6448d"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-bar/temper-skill-bar.page-type.ts","id":"01a05fcd-f558-70b6-8f78-cec3aed405a1"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-point/properties/pvp.boolean-property.ts","id":"01a0c621-d1a9-7038-b83c-67261a3d7bce"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-point/properties/skill-point-quests.page-property-entry.ts","id":"01a0e0fe-fb56-7e09-bff4-59b4e22730e3"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-point/temper-skill-point.page-type.ts","id":"01a05fcd-f559-75c5-bd78-0041c552d484"}
 {"propertySlug":"decision-kind","path":"temper/player/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/completion-record/completion-record.module.ts","id":"01a0607a-9cbc-7c27-9e61-4050a73b66e7"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}

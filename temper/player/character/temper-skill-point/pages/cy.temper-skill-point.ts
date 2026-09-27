@@ -11,4 +11,5 @@ export const cy = {
   maxQuests: 0,
   maxSkyshards: 46,
   pvp: true,
+  esoZoneId: 181,
 } as const satisfies TemperSkillPoint
