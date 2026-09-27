@@ -4,9 +4,9 @@ import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temp
 
 const SIGNED_IN_ONLY = "this route answers a signed-in reader only"
 
-const TAKES = "an ask carries the question as a JSON body"
+const TAKES = "the question is carried as a JSON body"
 
-export async function answerAsk(request: Request): Promise<Response> {
+async function carried(request: Request, path: string, what: string): Promise<Response> {
   const reader = await signedInAs(TEMPER_SITE, request)
   if (reader === null) {
     return Response.json({ error: SIGNED_IN_ONLY }, { status: 401 })
@@ -17,9 +17,17 @@ export async function answerAsk(request: Request): Promise<Response> {
   } catch {
     return Response.json({ error: TAKES }, { status: 400 })
   }
-  const reached = await postingTo("/ask", "an ask carried through the web", body)
+  const reached = await postingTo(path, what, body)
   if (!reached.ok) {
     return Response.json({ refused: reached.why }, { status: reached.status ?? 502 })
   }
   return Response.json(reached.body)
+}
+
+export async function answerAsk(request: Request): Promise<Response> {
+  return carried(request, "/ask", "an ask carried through the web")
+}
+
+export async function answerShape(request: Request): Promise<Response> {
+  return carried(request, "/shape", "a shape asked through the web")
 }

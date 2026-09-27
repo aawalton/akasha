@@ -16,6 +16,7 @@ export const temperWebRoutes = {
     "route/api-live-version",
     "route/api-page-types",
     "route/api-page-write",
+    "route/api-shape",
     "route/api-shopping-optimize",
     "route/api-watcher-download",
     "route/api-watcher-upsert-listings",
