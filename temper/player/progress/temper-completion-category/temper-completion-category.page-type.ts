@@ -10,9 +10,11 @@ export const temperCompletionCategory = {
     "text-property/tab",
     "relation-property/completion-category-parent",
     "number-property/completion-most",
+    "number-property/morph-rank-most",
   ],
   properties: [
     { pageProperty: "number-property/completion-most", required: false, many: false },
+    { pageProperty: "number-property/morph-rank-most", required: false, many: false },
     { pageProperty: "text-property/node-id", required: true, many: false },
     { pageProperty: "text-property/tab", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
