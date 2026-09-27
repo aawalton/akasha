@@ -35,6 +35,10 @@ export const keepAlanDirectives = {
       statement: "A seat answering to no person is left alone.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat making a played game's turns is left alone.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "An interview ends every turn by handing back to the person and waiting.",
     },

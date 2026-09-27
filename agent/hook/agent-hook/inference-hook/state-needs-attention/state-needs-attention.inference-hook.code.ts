@@ -1,6 +1,7 @@
 import { spawn } from "node:child_process"
 import {
   lineFor,
+  makesTurns,
   personIn,
   rootHere,
   runningUnder,
@@ -54,6 +55,7 @@ export const GATES = {
   shell: "a background command still to report",
   words: "no words closing the turn",
   person: "a seat answering to no person",
+  game: "a seat making a played game's turns",
   model: "no model a call could reach",
   begun: "a turn begun before the answer came",
   threw: "a throw nothing else caught",
@@ -80,6 +82,7 @@ export const SCOPE: readonly string[] = [
   "  a turn ending with a subagent or a background command still to report",
   "  a turn the agent closed with no words",
   "  a seat answering to no person",
+  "  a seat making a played game's turns, which is never drawn red",
   "  a turn no model call reached",
   "",
   "WHAT IS LEFT ALONE:",
@@ -123,6 +126,7 @@ function cleared(gate: string): Settled {
 }
 
 async function settledFor(root: string, agent: string): Promise<Settled> {
+  if (makesTurns(valuesOfType(root, SEAT) as readonly Valued[], agent)) return cleared(GATES.game)
   const running = await runningUnder(agent)
   if (stillWorking(running, workingOf(agent))) {
     return cleared(running.length > 0 ? GATES.subagent : GATES.shell)

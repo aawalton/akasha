@@ -46,6 +46,10 @@ export const stateNeedsAttention = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A seat making a played game's turns asks Alan for nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn no model call reached asks Alan for nothing.",
     },
     {

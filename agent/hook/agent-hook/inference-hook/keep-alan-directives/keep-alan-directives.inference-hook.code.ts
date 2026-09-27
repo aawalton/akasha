@@ -48,6 +48,7 @@ import {
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 
 const HOOK = "keep-alan-directives"
 
@@ -62,6 +63,8 @@ const ID = "id"
 const DIRECTIVES = "directives"
 
 const ROLE = "role"
+
+const ASSIGNMENT = "assignmentSlug"
 
 const INTERVIEWER = "interviewer"
 
@@ -83,6 +86,7 @@ export const GATES = {
   shell: "a background command still to report",
   words: "no words closing the turn",
   person: "a seat answering to no person",
+  game: "a seat making a played game's turns",
   rule: "a person stating no rule",
   model: "no model a call could reach",
   threw: "a throw nothing else caught",
@@ -175,6 +179,7 @@ export const SCOPE: readonly string[] = [
   "",
   "It does not catch:",
   "  a turn under a seat that answers to no person.",
+  "  a turn under a seat making a played game's turns, which writes to the game and not to Alan.",
   "  a turn the agent closed with a tool call and no words.",
   "  a stop this hook held open already.",
   "  a turn ending while a subagent or a background command the seat started is still to report.",
@@ -204,6 +209,15 @@ export function personIn(listed: readonly Valued[], agent: string): string | nul
 
 export function roleIn(listed: readonly Valued[], agent: string): string | null {
   return namedIn(listed, agent, ROLE)
+}
+
+export function makesTurns(listed: readonly Valued[], agent: string): boolean {
+  for (const one of listed) {
+    if (one.value[ID] !== agent) continue
+    const held = one.value[ASSIGNMENT]
+    return typeof held === "string" && held.startsWith(`${storyPlayed.slug}/`)
+  }
+  return false
 }
 
 export function keptFor(
@@ -242,6 +256,10 @@ function judging(root: string, agent: string, asked: string, turn: string): Answ
   const person = personIn(seats, agent)
   if (person === null) {
     noting(root, agent, GATES.person)
+    return LET_THROUGH
+  }
+  if (makesTurns(seats, agent)) {
+    noting(root, agent, GATES.game)
     return LET_THROUGH
   }
   const stated = directivesIn(valuedAt(root, PERSON, person).value[DIRECTIVES])
