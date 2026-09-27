@@ -1,9 +1,11 @@
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { personSlugForContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
+import { alan } from "akasha/person/pages/alan/alan.person.ts"
+import { jenny } from "akasha/person/pages/jenny/jenny.person.ts"
 import { JENNY_SITE } from "akasha/product/smilingjenny/web/modules/jenny-handover-site/jenny-handover-site.module.code.ts"
 import { redirect } from "react-router"
 
-const ADMITTED: ReadonlySet<string> = new Set(["jenny", "alan"])
+const ADMITTED: ReadonlySet<string> = new Set([jenny.slug, alan.slug])
 
 type SignedIn = { contributor: string; headers: Headers }
 
