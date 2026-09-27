@@ -17,9 +17,11 @@ import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipm
 import {
   type ArmorTraitId,
   armorTraitOptions,
+  armorTraits,
 } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
+import { noSet } from "akasha/temper/catalog/gear/temper-set/pages/no-set/no-set.temper-set.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
   type ArmorEnchantId,
@@ -34,6 +36,7 @@ import {
   getValidSetsForArmorSlot,
   getValidWeightsForSet,
 } from "akasha/temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
@@ -47,11 +50,6 @@ import {
   SetSelectDialog,
 } from "akasha/temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
-import { armorCardNoEnchant } from "akasha/temper/web/phrase/pages/armor-card-no-enchant.temper-web-phrase.ts"
-import { armorCardNoQuality } from "akasha/temper/web/phrase/pages/armor-card-no-quality.temper-web-phrase.ts"
-import { armorCardNoSet } from "akasha/temper/web/phrase/pages/armor-card-no-set.temper-web-phrase.ts"
-import { armorCardNoTrait } from "akasha/temper/web/phrase/pages/armor-card-no-trait.temper-web-phrase.ts"
-import { armorCardNoWeight } from "akasha/temper/web/phrase/pages/armor-card-no-weight.temper-web-phrase.ts"
 import { armorCardRemove } from "akasha/temper/web/phrase/pages/armor-card-remove.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
 
@@ -86,6 +84,10 @@ export function ArmorCard({
 }: ArmorCardProps) {
   const [isSetDialogOpen, setIsSetDialogOpen] = useState(false)
   const phrase = usePhrase()
+  const noQualityName = getQualityLabel("no-quality")
+  const noWeightName = standardArmorWeights.data["no-weight"].name
+  const noTraitName = armorTraits.data["no-trait"].name
+  const noEnchantName = armorEnchants.data["no-enchant"].name
 
   const itemData = item.itemType === "armor" ? item.data : null
   const currentSetId = itemData?.set ?? "no-set"
@@ -173,9 +175,7 @@ export function ArmorCard({
                       {getQualityLabel(itemData?.quality ?? "no-quality")}
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent
-                    nullSentinel={{ value: "no-quality", label: phrase(armorCardNoQuality.slug) }}
-                  >
+                  <SelectContent nullSentinel={{ value: "no-quality", label: noQualityName }}>
                     {availableQualityOptions()
                       .filter((option) => option.id !== "no-quality")
                       .map((option) => (
@@ -196,7 +196,7 @@ export function ArmorCard({
                   disabled={readOnly}
                 >
                   <Badge variant="elevation-muted" className="shrink-0">
-                    {selectedSet?.name ?? phrase(armorCardNoSet.slug)}
+                    {selectedSet?.name ?? setsAll().data[noSet.slug]?.name}
                   </Badge>
                 </button>
                 <Select<StandardArmorWeightId>
@@ -206,12 +206,10 @@ export function ArmorCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder={phrase(armorCardNoWeight.slug)} />
+                      <SelectValue placeholder={noWeightName} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent
-                    nullSentinel={{ value: "no-weight", label: phrase(armorCardNoWeight.slug) }}
-                  >
+                  <SelectContent nullSentinel={{ value: "no-weight", label: noWeightName }}>
                     {validWeightOptions
                       .filter((option) => option.id !== "no-weight")
                       .map((option) => (
@@ -228,13 +226,10 @@ export function ArmorCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder={phrase(armorCardNoTrait.slug)} />
+                      <SelectValue placeholder={noTraitName} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent
-                    nullSentinel={{ value: "no-trait", label: phrase(armorCardNoTrait.slug) }}
-                    sorted
-                  >
+                  <SelectContent nullSentinel={{ value: "no-trait", label: noTraitName }} sorted>
                     {armorTraitOptions(itemData?.trait ?? "no-trait")
                       .filter((option) => option.id !== "no-trait")
                       .map((option) => (
@@ -251,11 +246,11 @@ export function ArmorCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder={phrase(armorCardNoEnchant.slug)} />
+                      <SelectValue placeholder={noEnchantName} />
                     </Badge>
                   </SelectTrigger>
                   <SelectContent
-                    nullSentinel={{ value: "no-enchant", label: phrase(armorCardNoEnchant.slug) }}
+                    nullSentinel={{ value: "no-enchant", label: noEnchantName }}
                     sorted
                   >
                     {armorEnchants.list
