@@ -3,6 +3,8 @@ import {
   alanContributor,
 } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import { ALANWALTON_APP } from "akasha/alan/web/modules/alan-app-id/alan-app-id.module.code.ts"
+import { webAppTitle } from "akasha/infrastructure/service/akasha-service/web-app/modules/naming/web-app-naming.module.code.ts"
+import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 
@@ -27,5 +29,6 @@ export async function loader({ request }: LoaderFunctionArgs) {
   const reader = await alanContributor(request)
   const accountId = reader === null ? null : await alanAccountId(reader)
   const navItems = reader === null ? null : await navItemsFor()
-  return data({ reader, accountId, signedIn: reader !== null, navItems })
+  const brand = await webAppTitle(alanwaltonWeb.slug)
+  return data({ reader, accountId, signedIn: reader !== null, navItems, brand })
 }

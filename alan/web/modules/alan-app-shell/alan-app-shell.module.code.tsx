@@ -30,6 +30,7 @@ import { useCallback, useEffect, useMemo, useState } from "react"
 
 interface AppShellProps {
   children: React.ReactNode
+  brand: string
   signedIn: boolean
   accountId: string | null
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
@@ -95,7 +96,7 @@ function AdminDialogs() {
   )
 }
 
-function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellProps) {
+function AppShellInner({ children, brand, signedIn, accountId, ssrNavItems }: AppShellProps) {
   const {
     items: dynamicPrimaryItems,
     bottomSections,
@@ -117,7 +118,7 @@ function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellP
     () => ({
       primaryItems: dynamicPrimaryItems,
       bottomSections,
-      brandLabel: "ALAN",
+      brandLabel: brand.toUpperCase(),
       bottomNavMaxItems: 5,
       navReady,
       footerSlot: <AuthFooter signedIn={signedIn} />,
@@ -136,6 +137,7 @@ function AppShellInner({ children, signedIn, accountId, ssrNavItems }: AppShellP
       ),
     }),
     [
+      brand,
       signedIn,
       dynamicPrimaryItems,
       bottomSections,

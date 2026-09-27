@@ -15,5 +15,9 @@ export const appLayoutLoading = {
       decisionKind: "decision-kind/departure",
       statement: "The sidebar is drawn on the first frame rather than after hydration.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The layout loads the name the site is shown under off its web app page.",
+    },
   ],
 } as const satisfies Module

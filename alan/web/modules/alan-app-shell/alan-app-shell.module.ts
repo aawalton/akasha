@@ -37,5 +37,9 @@ export const alanAppShell = {
       decisionKind: "decision-kind/departure",
       statement: "The pages quick add offers to complete from are read once quick add opens.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The name over the navigation is the title of the site's web app page.",
+    },
   ],
 } as const satisfies Module
