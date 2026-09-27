@@ -99,6 +99,14 @@ export const otherwhereMainHall = {
       fact: "Bookworms sense a Librarian's magic rather than her noise, so going quietly does not hide her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A bookworm pressed into heaped salt keeps drying for as long as it is held there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Salted bookworm skin goes dry and rough, easy to grip, though the mouth end still bites.",
+      knowers: ["lore-disclosure/game-master"],
+    },
 
     {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
