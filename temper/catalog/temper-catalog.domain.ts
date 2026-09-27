@@ -21,6 +21,7 @@ export const temperCatalog = {
     "domain/temper-champion-point",
     "domain/temper-skill-kind",
     "page-type/temper-item-type",
+    "page-type/temper-specialized-item-type",
   ],
   decisions: [
     {
