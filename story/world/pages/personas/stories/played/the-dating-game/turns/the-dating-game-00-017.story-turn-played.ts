@@ -4,10 +4,13 @@ export const theDatingGame00017 = {
   id: "01a0e37d-131a-7185-bbc4-4faee6d3bc92",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-017",
+  ownLength: 367,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 17,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "\"Oh, you want to do the recording at BYU Radio? I guess that works. Want to head there now? I'd have to stop in at my house to pick up the first volume, but its on the way, you'd be welcome to wait outside.\"",
   beats: [
