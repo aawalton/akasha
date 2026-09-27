@@ -105,11 +105,11 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "A first sync leaves a Librarian drained and dazed, but unharmed.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A sync halts the Library's power drain but leaves it in Emergency Power Mode, near empty.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Emergency protocols hamper movement near the core, so the core seems further than it is.",
@@ -121,7 +121,7 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "A Librarian syncs with the core by laying both hands on the trunk, shoulder-width apart.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Walking toward the trunk, it seemed to come no closer, until all at once it was right there.",
@@ -161,7 +161,7 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "Syncing floods the Librarian with visions of the universe and burns through the veins with pain.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The blue veins in the core are ley lines of magic, not electricity; the Library uses no electricity.",
@@ -170,6 +170,26 @@ export const otherwhereCoreChamber = {
     {
       fact: "The alarm marks how little power is left, rather than an attack.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The panel read: Librarian Link: Tentative",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The panel read: Power Drain: Halted",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The panel read: Status: Emergency Power Mode",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The panel read: Operational: 12%",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Since Alan laid both hands on its knots, the trunk's veins burn a steady blue all the way up.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
   secrets: "jsonl",
