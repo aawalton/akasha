@@ -4,6 +4,7 @@ export const holidayFrostcaster = {
   id: "01a0e0f0-274a-766e-b694-9f451bdf2529",
   type: "page-type/temper-motif-style",
   slug: "holiday-frostcaster",
-  title: "ITEMSTYLE_HOLIDAY_FROSTCASTER",
+  title: "Frostcaster",
   esoItemStyleId: 53,
+  styleName: "Frostcaster",
 } as const satisfies TemperMotifStyle
