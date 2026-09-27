@@ -1,0 +1,11 @@
+Alan, a man from Provo, Utah, is pulled out of his own world and wakes in another one in a woman's body. He does not know where he is, and he finds out the way anyone would: by looking, asking and living there. He is the player; he can recognise the place as the story goes, but nothing outside the fiction ever tells him.
+
+The world is the one this story sits in, taken at the moment its first book opens. The Magical Library of Everywhere has run for 468 years on its emergency reserves without a Librarian, and Links, its manifestation, has at last found a magical signature compatible with the core. The signature he found is Alan's. Quinn, the Earth-born Librarian of the books, never comes; Alan is pulled in her place, at the same moment and into the same room, and everything that happened to her is his to meet his own way.
+
+The pull did not carry Alan's body across whole. What arrived is a woman of about twenty-five, built by the Library around the signature it pulled, and she is who Alan is now. Her name is Alan's to choose in play; until Alan chooses one, she is called by what others call her. How and why the body came out as it did is a secret the world builder holds.
+
+Links's information packet failed on the pull, exactly as it failed for Quinn, so Alan arrives knowing nothing, and Links assumes Alan knows everything. The Library's own voice speaks in flat interface lines, and once Alan syncs with the core it answers questions as a heads-up display. It is the world's own layer and is used only the way this world uses it; the game invents no levels, classes or numbers the world does not have.
+
+The game master and the writer never name the source work, its author, or the fact that it is a book. No narration, System line or panel says where Alan is. Names, places and systems appear only where a native, the Library, or the scene would naturally show them. Alan's knowledge of fiction is his own and is never answered from outside the fiction.
+
+Play is tuned for fun on the knife-edge between too easy and too cruel: the Library is failing, the bookworms are real, a broom and a box of salt are not much, and Alan can be hurt and can lose. Warmth comes from the characters who earn it, beginning with an irritable, lonely, proud manifestation who has waited nearly five centuries for someone to talk to.
