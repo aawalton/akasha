@@ -5,6 +5,4 @@ export const characterLiveOnlyPanelCardSetTargetBuild = {
   type: "page-type/temper-web-phrase",
   slug: "character-live-only-panel-card-set-target-build",
   title: "Set target build",
-  key: "character-live-only-panel-card--set-target-build",
-  displayOrder: 4,
 } as const satisfies TemperWebPhrase

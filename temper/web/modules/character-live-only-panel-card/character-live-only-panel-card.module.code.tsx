@@ -14,6 +14,10 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { characterLiveOnlyPanelCardLive } from "akasha/temper/web/phrase/pages/character-live-only-panel-card-live.temper-web-phrase.ts"
+import { characterLiveOnlyPanelCardSetTargetBuild } from "akasha/temper/web/phrase/pages/character-live-only-panel-card-set-target-build.temper-web-phrase.ts"
+import { characterLiveOnlyPanelCardUnknownCharacter } from "akasha/temper/web/phrase/pages/character-live-only-panel-card-unknown-character.temper-web-phrase.ts"
+import { characterLiveOnlyPanelCardUntitledBuild } from "akasha/temper/web/phrase/pages/character-live-only-panel-card-untitled-build.temper-web-phrase.ts"
 
 interface LiveOnlyBuild {
   id: string
@@ -52,12 +56,10 @@ function LiveBuildRow({
     >
       <div className="flex items-center justify-between gap-2">
         <span className="truncate text-primary text-sm">
-          {build.name !== ""
-            ? build.name
-            : phrase("character-live-only-panel-card--untitled-build")}
+          {build.name !== "" ? build.name : phrase(characterLiveOnlyPanelCardUntitledBuild.slug)}
         </span>
         <Badge variant="elevation" className="shrink-0">
-          {phrase("character-live-only-panel-card--live")}
+          {phrase(characterLiveOnlyPanelCardLive.slug)}
         </Badge>
       </div>
       {(className != null || raceName != null) && (
@@ -95,7 +97,7 @@ export function CharacterLiveOnlyPanelCard({
     <PanelCard id={`character-entity-${entity.entityId}`} className="h-auto justify-between">
       <CardContent className="flex flex-col gap-3">
         <CardTitle className="text-lg">
-          {characterName ?? phrase("character-live-only-panel-card--unknown-character")}
+          {characterName ?? phrase(characterLiveOnlyPanelCardUnknownCharacter.slug)}
         </CardTitle>
         {(className != null || raceName != null) && (
           <div className="flex items-center gap-1.5">
@@ -113,7 +115,7 @@ export function CharacterLiveOnlyPanelCard({
           className="w-full"
           onClick={() => onSetTarget(entity.entityId, entity.esoCharacterId, entity.liveBuild.id)}
         >
-          {phrase("character-live-only-panel-card--set-target-build")}
+          {phrase(characterLiveOnlyPanelCardSetTargetBuild.slug)}
         </Button>
       </CardContent>
     </PanelCard>
