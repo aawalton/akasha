@@ -15,5 +15,9 @@ export const inventoryRulesUnread = {
       decisionKind: "decision-kind/departure",
       statement: "No rule is shown beside them, so none is acted on as if it were whole.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The alert's own wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module
