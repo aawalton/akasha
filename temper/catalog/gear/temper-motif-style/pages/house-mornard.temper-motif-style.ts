@@ -5,6 +5,8 @@ export const houseMornard = {
   type: "page-type/temper-motif-style",
   slug: "house-mornard",
   title: "House Mornard",
+  esoItemStyleId: 139,
+  styleName: "House Mornard",
   collectionIndex: 102,
   sourceDescription: "WB/Delve dailies (Galen)",
   dropSources: [
