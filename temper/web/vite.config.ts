@@ -1,5 +1,6 @@
 import { fileURLToPath } from "node:url"
 import { buildShaDefine } from "akasha/alan/harness/web-build-version/modules/build-sha-define/build-sha-define.module.code.ts"
+import { noInlinedFonts } from "akasha/code/router-app/modules/no-inlined-fonts/no-inlined-fonts.module.code.ts"
 import { reactRouter } from "@react-router/dev/vite"
 import tailwindcss from "@tailwindcss/vite"
 import { defineConfig, type Plugin } from "vite"
@@ -13,13 +14,8 @@ const JSONL_TEXT: Plugin = {
   },
 }
 
-const FONT_FILE = /\.(woff2?|ttf|otf)$/
-
 export default defineConfig({
-  plugins: [JSONL_TEXT, tailwindcss(), reactRouter()],
-  build: {
-    assetsInlineLimit: (file) => (FONT_FILE.test(file) ? false : undefined),
-  },
+  plugins: [JSONL_TEXT, noInlinedFonts(), tailwindcss(), reactRouter()],
   define: { ...buildShaDefine() },
   ssr: {
     noExternal: ["rrule", "lucide-react"],
