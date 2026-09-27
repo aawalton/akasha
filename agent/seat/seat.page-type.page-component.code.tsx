@@ -204,9 +204,6 @@ function PersonSaid({ entry }: { entry: Entry }) {
 function AgentSaid({ entry }: { entry: Entry }) {
   return (
     <div className="flex gap-2">
-      <span className="select-none pt-0.5 text-primary text-xs" aria-hidden>
-        ⏺
-      </span>
       <div className="flex min-w-0 flex-1 flex-col gap-2 break-words">
         <MarkdownRenderer content={entry.text ?? ""} />
       </div>
