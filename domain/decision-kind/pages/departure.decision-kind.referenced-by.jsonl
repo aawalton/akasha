@@ -5813,6 +5813,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribed-skills/scribed-skills.module.ts","id":"01a0617c-86c3-714d-94b6-7c2e12d57a1a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.ts","id":"01a0617c-86c1-7ff1-9fbb-5185c2f3eb4d"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.ts","id":"01a0de77-ea57-7d6d-a221-e5ec3e21af88"}
+{"propertySlug":"decision-kind","path":"temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.ts","id":"01a06187-b3a4-7f6e-9755-30b39a3b5cfb"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-api/skill-point-finder-api.module.ts","id":"01a060ec-5830-7970-9982-411f52b14cd8"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-char-list/skill-point-finder-char-list.module.ts","id":"01a060ec-5832-7174-b7a1-08495eb16e4c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-colors/skill-point-finder-colors.module.ts","id":"01a060ec-5834-7ce4-b990-b2f1dfab5f22"}

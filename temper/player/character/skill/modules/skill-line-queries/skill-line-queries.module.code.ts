@@ -13,6 +13,7 @@ import { armorWeights } from "akasha/temper/player/character/characters-equipmen
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import { valuesOf } from "akasha/temper/player/character/formula-framework/modules/record-parts/record-parts.module.code.ts"
+import { skillLineCategories } from "akasha/temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
   getSkillLineIdsForClass,
   type SkillLineId,
@@ -211,21 +212,11 @@ export function getArmorSkillLineIds(armor: ArmorShape): readonly SkillLineId[] 
 
 export function getSkillCategory(skillLineId: SkillLineId): string {
   const metadata = skillLines.data[skillLineId]
-
-  if (metadata.subcategoryId === "class") return "Class"
-
-  const categoryMap: Record<string, string> = {
-    weapon: "Weapon",
-    armor: "Armor",
-    guild: "Guild",
-    "alliance-war": "Alliance War",
-    world: "World",
-    racial: "Racial",
-    craft: "Craft",
-  }
-
-  return categoryMap[metadata.subcategoryId] ?? "Other"
+  const category = skillLineCategories.list.find((one) => one.id === metadata.subcategoryId)
+  return category === undefined || category.id === "none" ? OTHER_CATEGORY : category.name
 }
+
+const OTHER_CATEGORY = "Other"
 
 export function getSkillLineName(skillLineId: SkillLineId): string {
   return skillLines.data[skillLineId].name

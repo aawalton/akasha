@@ -15,5 +15,9 @@ export const skillLineQueries = {
       decisionKind: "decision-kind/constraint",
       statement: "Five pieces of one armour weight open that weight's line.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill line's category is named by its skill line category page's title.",
+    },
   ],
 } as const satisfies Module
