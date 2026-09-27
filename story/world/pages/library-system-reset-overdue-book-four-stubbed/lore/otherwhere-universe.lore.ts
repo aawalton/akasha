@@ -120,6 +120,22 @@ export const otherwhereUniverse = {
       fact: "Night owls are the Library's owls, who need bookworm-fed magical quills.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A Librarian can heal by magic only once she has learned a healing power from a book.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "The Library's hospital wing stays shut and dark until the Library has more power to open it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
