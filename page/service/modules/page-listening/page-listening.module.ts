@@ -90,5 +90,17 @@ export const pageListening = {
       decisionKind: "decision-kind/departure",
       statement: "The thread held two seconds or more is logged with how long and the memory held.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hold is logged with the routes, timers, landings and phases that held it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slow answer is logged with every landing that ran while it waited.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each such landing is said with its commit and the time each phase took.",
+    },
   ],
 } as const satisfies Module

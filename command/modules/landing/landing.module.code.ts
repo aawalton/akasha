@@ -98,6 +98,7 @@ import type { Facing } from "akasha/page/index/modules/property-carrying/propert
 import { valueByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
+import { phased } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
 
 export type Landed = Finished & {
   readonly base: string
@@ -302,7 +303,7 @@ async function landingHeld(
     over !== null && moves.length === 0 && swept.length === 0
       ? over
       : changeOf(root, judgedAt, judgedOver, filed)
-  const said = await judged(judging, change)
+  const said = await phased("judge", () => judged(judging, change))
   const orphaned = orphaningIn(change, absentAfter(edits, moves))
   if (orphaned.length > 0) {
     return {
@@ -370,7 +371,9 @@ async function landingHeld(
     try {
       const putting = committing.filter((one) => !lands.has(one.path))
       const put = wroteOnto(root, putting)
-      const noted = indexed(root, writing, moving.committing, before, keeping, settled, base)
+      const noted = phased("index write", () =>
+        indexed(root, writing, moving.committing, before, keeping, settled, base)
+      )
       const back = movedOnto(root, moves)
       try {
         const onto = committing.filter((one) => lands.has(one.path))
@@ -380,13 +383,8 @@ async function landingHeld(
         const took = [
           ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
         ]
-        const commit = committed(
-          root,
-          bodies,
-          took,
-          attributed(message, attributionHeld()),
-          writer,
-          staging
+        const commit = phased("commit", () =>
+          committed(root, bodies, took, attributed(message, attributionHeld()), writer, staging)
         )
         if (commit !== null) {
           made = true
@@ -424,7 +422,7 @@ async function landingHeld(
     }
   })
   if ("refusals" in landed) return landed
-  staging.run?.()
+  phased("git index", () => staging.run?.())
   const { cleared, ...ended } = landed
-  return { ...finishedOver(root, cleared, moves, homedir()), ...ended }
+  return { ...phased("finish", () => finishedOver(root, cleared, moves, homedir())), ...ended }
 }

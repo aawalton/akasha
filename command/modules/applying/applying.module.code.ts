@@ -63,6 +63,7 @@ import { said as gitSaid } from "akasha/git/modules/running/git-running.module.c
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { phased } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
 
 const NOTHING_HELD = "no rows were handed in, so nothing is there to apply"
 
@@ -359,7 +360,9 @@ export async function applied(
   const gate = running.checks ? judging : NO_GATE
   const moving = [...moves, ...(holding.moves ?? [])]
   const paths = pathsIn(holding.rows)
-  const prepared = preparing(root, head, holding.rows, moving, holding.formatted)
+  const prepared = phased("prepare", () =>
+    preparing(root, head, holding.rows, moving, holding.formatted)
+  )
   if ("refusals" in prepared) {
     return { refusals: [...prepared.refusals, UNEXPORTABLE], code: prepared.code }
   }
@@ -396,10 +399,13 @@ export async function applied(
   }
   let put: Put = { said: [], wrong: [] }
   try {
-    const carries = carriedFrom(root, last.head, moving)
-    carryLanded(root, last.head, running, last.prepared.changes, carries, holding.owed ?? new Map())
-    if (agentId !== null) recordedAsLanded(root, agentId, ownIn(holding))
-    put = installingIn(root, last.prepared.changes)
+    put = phased("after commit", () => {
+      const carries = carriedFrom(root, last.head, moving)
+      const owed = holding.owed ?? new Map()
+      carryLanded(root, last.head, running, last.prepared.changes, carries, owed)
+      if (agentId !== null) recordedAsLanded(root, agentId, ownIn(holding))
+      return installingIn(root, last.prepared.changes)
+    })
   } catch (thrown) {
     put = { said: [], wrong: [`${AFTER_COMMIT} ${whyOf(thrown)}`] }
   }

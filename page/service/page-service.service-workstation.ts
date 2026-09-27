@@ -148,6 +148,7 @@ export const pageService = {
     "module/events-reading",
     "module/file-answering",
     "module/held-reading",
+    "module/hold-naming",
     "module/follow-asking",
     "module/follow-planning",
     "module/follow-narrowing",

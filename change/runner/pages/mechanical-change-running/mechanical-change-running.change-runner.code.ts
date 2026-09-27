@@ -33,6 +33,7 @@ import {
 } from "akasha/command/modules/gate-building/gate-building.module.code.ts"
 import type { Committing, Refused } from "akasha/command/modules/landing/landing.module.code.ts"
 import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { phased } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
 
 const NOTHING_ASKED = "no change was named, so nothing is run and nothing lands"
 
@@ -106,7 +107,9 @@ export async function runMechanicalChange(
 ): Promise<Applied | Refused> {
   if (asked.length === 0) return { refusals: [NOTHING_ASKED], code: INPUT }
   const kept = writing.kept ?? []
-  const said = await keptFolded(ledgerAt(root, bodyIn(root), runAt), kept, asked)
+  const said = await phased("compose", () =>
+    keptFolded(ledgerAt(root, bodyIn(root), runAt), kept, asked)
+  )
   if (said.refused !== null) return { refusals: [said.refused], code: DATA }
   if (said.edits.length === 0) {
     return {
@@ -119,7 +122,7 @@ export async function runMechanicalChange(
       untracked: [],
     }
   }
-  const worked = landingFrom(root, baseOf(root), said)
+  const worked = phased("rows", () => landingFrom(root, baseOf(root), said))
   if ("why" in worked) return { refusals: [worked.why], code: DATA }
   const judging = await judgingFor(kept, root)
   if (typeof judging === "string") return { refusals: [judging], code: OPERATIONAL }

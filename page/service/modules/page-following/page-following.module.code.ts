@@ -25,6 +25,7 @@ import {
   pagesOf,
   plannedFor,
 } from "akasha/page/service/modules/follow-planning/follow-planning.module.code.ts"
+import { marked } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
 
 export const EVENTS_AT = "/events"
 
@@ -48,7 +49,7 @@ const SLOW_MS = 1_000
 
 function timedAs<T>(named: () => string, act: () => T): T {
   const started = performance.now()
-  const done = act()
+  const done = marked(named(), act)
   const spent = performance.now() - started
   if (spent >= SLOW_MS) process.stdout.write(`slow: ${named()} took ${Math.round(spent)} ms\n`)
   return done

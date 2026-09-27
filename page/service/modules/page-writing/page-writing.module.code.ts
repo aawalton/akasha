@@ -16,6 +16,7 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { landingMarked } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
 import type {
   Fault,
   Faulted,
@@ -255,6 +256,12 @@ export function batchIn<T extends Held>(
   return { batch: waiting.slice(0, taken), rest: waiting.slice(taken) }
 }
 
+export function landingNamed(batch: readonly Asked[]): string {
+  const writers = [...new Set(batch.map((one) => one.writer.split(" <")[0] ?? one.writer))]
+  const writes = batch.length === 1 ? "1 write" : `${batch.length} writes`
+  return `landing ${writes} by ${writers.join(", ")}`
+}
+
 function freshRefusal(one: Fresh): string {
   return `\`${one.pageTypeSlug}/${one.slug}\` is a page already, and a page written as new takes a slug no page of its type has`
 }
@@ -346,10 +353,12 @@ export function writerFor(given: Writing): Writer {
       for (const [one, refused] of read.refused) one.settle({ refused, fault: "caller" })
       const claimed = claimedIn(given.root, read.landing)
       if (claimed.landing.length > 0) {
+        const batch = claimed.landing.map((one) => one.asked)
         const wrote = await apart(() =>
-          landedIn(
-            given.root,
-            claimed.landing.map((one) => one.asked)
+          landingMarked(
+            landingNamed(batch),
+            () => landedIn(given.root, batch),
+            (done) => ("commit" in done ? done.commit : null)
           )
         )
         for (const one of claimed.landing) one.settle(wrote)

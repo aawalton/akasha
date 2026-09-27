@@ -8,6 +8,7 @@ import {
   type Listed,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { marked } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
 
 const TRANSCRIPT_KEY = "transcript-path"
@@ -20,7 +21,7 @@ const SLOW_MS = 1_000
 
 function timedAs(said: () => string, act: () => undefined): undefined {
   const started = performance.now()
-  act()
+  marked(said(), act)
   const spent = performance.now() - started
   if (spent >= SLOW_MS) process.stdout.write(`slow: ${said()} took ${Math.round(spent)} ms\n`)
   return undefined

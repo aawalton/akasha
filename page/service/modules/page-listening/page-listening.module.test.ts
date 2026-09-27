@@ -13,6 +13,7 @@ import {
   saying,
   serversFor,
   slowSaid,
+  stalledSaid,
   timed,
   UNBOUND,
   unboundIn,
@@ -161,6 +162,20 @@ test("a slow answer is said with its path, its time, its asker and what it asked
   })
   expect(slowSaid(request, 1234.4, '{"pageTypeSlug":"module"}')).toBe(
     'slow: POST /ask took 1234 ms for seat-one: {"pageTypeSlug":"module"}\n'
+  )
+})
+
+test("a slow answer is said with the landings that ran while it waited", () => {
+  const request = new Request("http://localhost/write", { method: "POST" })
+  const landings = "landing 1 write by Amy to 01234567 took 1500 ms (compose 20 ms, commit 90 ms)"
+  expect(slowSaid(request, 1600, "{}", landings)).toBe(
+    `slow: POST /write took 1600 ms for no agent; ${landings}: {}\n`
+  )
+})
+
+test("a hold is said with how long, the memory held and what held it", () => {
+  expect(stalledSaid(2400.2, "generator group-writing 2100 ms")).toMatch(
+    /^stalled: the thread was held 2400 ms; heap \d+ MB, rss \d+ MB; held by generator group-writing 2100 ms\n$/
   )
 })
 

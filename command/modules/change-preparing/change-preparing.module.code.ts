@@ -29,6 +29,7 @@ import { unexportableIn } from "akasha/page/modules/export-name/modules/export-n
 import { pageNamed } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module.code.ts"
 import { loadedFrom } from "akasha/page/modules/value/page-value.module.code.ts"
+import { phased } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
 
 type Formatting = {
   readonly edits: readonly Replacing[]
@@ -160,7 +161,7 @@ export function preparing(
   moves: readonly FileMove[] = [],
   already: ReadonlySet<string> = new Set()
 ): Prepared | Refused {
-  const formatting = formattingIn(root, changes, already)
+  const formatting = phased("format", () => formattingIn(root, changes, already))
   const folded = foldedOver(changes, formatting.edits)
   const stated = rowsFrom(root, base, folded)
   if ("why" in stated) return { refusals: [stated.why], code: DATA }
@@ -173,11 +174,13 @@ export function preparing(
   const unexportable = unexportableIn(rows)
   if (unexportable.length > 0) return { refusals: unexportable, code: DATA }
   const change = changeOf(root, base, rows)
-  const generated = generatedOver(change, (more) => changeOf(root, base, [...rows, ...more]))
+  const generated = phased("generators", () =>
+    generatedOver(change, (more) => changeOf(root, base, [...rows, ...more]))
+  )
   if (generated.refused.length > 0) return { refusals: generated.refused, code: DATA }
   const made = generated.edits
   const whole = made.length === 0 ? change : changeOf(root, base, [...rows, ...made])
-  const cast = shadowFor(whole)
+  const cast = phased("index settle", () => shadowFor(whole))
   const added = made
   const idless = "refused" in cast ? [] : idlessIn(cast.shadow, foldedOver(rows, added))
   if (idless.length > 0) return { refusals: idless, code: DATA }

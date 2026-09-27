@@ -11,6 +11,13 @@ import {
   mergeUncommitted,
 } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import {
+  forgotten,
+  heldSaid,
+  landingsSaid,
+  marked,
+  watching,
+} from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
+import {
   type Following,
   followingFor,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
@@ -42,10 +49,11 @@ export type Listening = {
   readonly threads?: Threads
 }
 
-export function slowSaid(request: Request, spent: number, asked: string): string {
+export function slowSaid(request: Request, spent: number, asked: string, landings = ""): string {
   const at = new URL(request.url).pathname
   const agent = request.headers.get("akasha-agent-id") ?? "no agent"
-  return `slow: ${request.method} ${at} took ${Math.round(spent)} ms for ${agent}: ${asked}\n`
+  const waited = landings === "" ? "" : `; ${landings}`
+  return `slow: ${request.method} ${at} took ${Math.round(spent)} ms for ${agent}${waited}: ${asked}\n`
 }
 
 export async function timed(
@@ -54,26 +62,38 @@ export async function timed(
 ): Promise<Response> {
   const copy = request.method === "POST" ? request.clone() : null
   const started = performance.now()
-  const response = await answered(request)
-  const spent = performance.now() - started
+  const route = `${request.method} ${new URL(request.url).pathname}`
+  const response = await marked(route, () => answered(request))
+  const ended = performance.now()
+  const spent = ended - started
   if (spent < SLOW_MS) return response
   const asked = copy === null ? "" : await copy.text().catch(() => "")
-  process.stdout.write(slowSaid(request, spent, asked.slice(0, ASKED_CHARS)))
+  process.stdout.write(
+    slowSaid(request, spent, asked.slice(0, ASKED_CHARS), landingsSaid(started, ended))
+  )
   return response
 }
 
+export function stalledSaid(heldMs: number, heldBy: string): string {
+  const memory = process.memoryUsage()
+  return (
+    `stalled: the thread was held ${Math.round(heldMs)} ms; ` +
+    `heap ${Math.round(memory.heapUsed / MB)} MB, rss ${Math.round(memory.rss / MB)} MB; ` +
+    `held by ${heldBy}\n`
+  )
+}
+
 function watchingHeld(): undefined {
+  watching()
   let last = performance.now()
   setInterval(() => {
     const now = performance.now()
-    const held = now - last - LOOKED_MS
+    const heldMs = now - last - LOOKED_MS
     last = now
-    if (held < HELD_MS) return
-    const memory = process.memoryUsage()
-    process.stdout.write(
-      `stalled: the thread was held ${Math.round(held)} ms; ` +
-        `heap ${Math.round(memory.heapUsed / MB)} MB, rss ${Math.round(memory.rss / MB)} MB\n`
-    )
+    if (heldMs >= HELD_MS) {
+      process.stdout.write(stalledSaid(heldMs, heldSaid(now - heldMs - LOOKED_MS, now)))
+    }
+    forgotten(now)
   }, LOOKED_MS).unref()
   return undefined
 }

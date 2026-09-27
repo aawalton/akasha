@@ -14,8 +14,11 @@ import {
   textAt,
   textsAt,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { phased } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
 
 const CHANGE_GENERATOR = "change-generator"
+
+const GENERATOR_NAMED_MS = 100
 
 const NAMED = `${CHANGE_GENERATOR}/`
 
@@ -146,7 +149,7 @@ function ranOne(
 function costedIn(root: string): Costing {
   return (one, running) => {
     const before = opening()
-    const ran = running()
+    const ran = phased(`generator ${one.slug}`, running, GENERATOR_NAMED_MS)
     if (existsSync(join(root, one.page))) {
       costRecorded(root, one.page, before, GENERATE, one.slug, ran.edits.length, ran.refused.length)
     }
