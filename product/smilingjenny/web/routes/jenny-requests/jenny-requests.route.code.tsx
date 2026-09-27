@@ -2,6 +2,12 @@ import {
   PageLayout,
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
+import { smilingjennyWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/smilingjenny-web.web-app.ts"
+import {
+  metaOf,
+  SITE_DOCUMENT,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { listingFor } from "akasha/product/kofi/feature-request/modules/listing/feature-request-listing.module.code.ts"
@@ -9,33 +15,43 @@ import { smilingjenny } from "akasha/product/smilingjenny/smilingjenny.domain.ts
 
 const PRODUCT = namedAs("domain", smilingjenny.slug, null)
 
-const READ = ["feature-request"]
+const WEB_APP = namedAs("web-app", smilingjennyWeb.slug, null)
 
-export function meta() {
-  return [{ title: "Feature requests — Smiling Jenny" }]
-}
+const READ = ["feature-request", SITE_DOCUMENT]
 
-export function loader() {
-  return listingFor(PRODUCT)
+const UNPUBLISHED = "unpublished"
+
+export async function loader() {
+  const [listing, document, home] = await Promise.all([
+    listingFor(PRODUCT),
+    siteDocumentAt(WEB_APP, "requests"),
+    siteDocumentAt(WEB_APP, ""),
+  ])
+  return { ...listing, document, site: home.title }
 }
 
 type RequestsLoaderData = Awaited<ReturnType<typeof loader>>
 
+export function meta({ data }: { data: RequestsLoaderData | undefined }) {
+  return metaOf(data?.document, data?.site ?? null)
+}
+
 export default function JennyRequestsRoute({ loaderData }: { loaderData: RequestsLoaderData }) {
   useLoaderFollowing(READ)
-  const { requests } = loaderData
+  const { requests, document } = loaderData
+  const unpublished = document.sections.find((one) => one.anchor === UNPUBLISHED)
   return (
     <PageLayout>
       <PageLayout.Header>
-        <PageTitle>Feature requests</PageTitle>
+        <PageTitle>{document.title}</PageTitle>
       </PageLayout.Header>
       <PageLayout.Content>
         <div className="flex flex-col gap-6">
-          <p className="text-base text-secondary">
-            What has been asked for here, and the contribution points behind each ask.
-          </p>
+          {document.lead === null ? null : (
+            <p className="text-base text-secondary">{document.lead}</p>
+          )}
           {requests.length === 0 ? (
-            <p className="text-base text-secondary">Nothing has been published here yet.</p>
+            <p className="text-base text-secondary">{unpublished?.text ?? null}</p>
           ) : (
             <ul className="flex flex-col gap-5">
               {requests.map((one) => (
