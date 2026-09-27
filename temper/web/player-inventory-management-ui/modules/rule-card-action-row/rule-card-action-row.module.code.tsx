@@ -41,7 +41,10 @@ import { RuleCardDestinationChain } from "akasha/temper/web/player-inventory-man
 import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import { StockScopeSelect } from "akasha/temper/web/player-inventory-management-ui/modules/stock-scope-select/stock-scope-select.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
+import { buyMaxPriceDefault } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/buy-max-price-default.temper-rule-card-phrase.ts"
+import { buyMaxPriceEach } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/buy-max-price-each.temper-rule-card-phrase.ts"
 import { buyShortfall } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/buy-shortfall.temper-rule-card-phrase.ts"
+import { editBuyMaxPrice } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/edit-buy-max-price.temper-rule-card-phrase.ts"
 import { mailRecipientLabel } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/mail-recipient-label.temper-rule-card-phrase.ts"
 import { mailRecipientPlaceholder } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/mail-recipient-placeholder.temper-rule-card-phrase.ts"
 import { toggleBuyShortfall } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/toggle-buy-shortfall.temper-rule-card-phrase.ts"
@@ -66,6 +69,7 @@ interface RuleCardActionRowProps {
   handleDestinationChainChange: (next: DestinationChain | undefined) => void
   handleToggleDestinationChain: (useChain: boolean) => void
   handleBuyShortfallChange: (buyShortfall: boolean) => void
+  handleBuyMaxPriceChange: (buyMaxPrice: number) => void
   handleMailRecipientChange: (handle: string) => void
 }
 
@@ -84,6 +88,7 @@ export function RuleCardActionRow({
   handleDestinationChainChange,
   handleToggleDestinationChain,
   handleBuyShortfallChange,
+  handleBuyMaxPriceChange,
   handleMailRecipientChange,
 }: RuleCardActionRowProps) {
   const useChain = rule.destinationChain !== undefined && rule.destinationChain.length > 0
@@ -205,6 +210,27 @@ export function RuleCardActionRow({
           >
             {titleIn(phrases, buyShortfall.key)}
           </ButtonBadge>
+        )}
+
+        {!isCurrency && rule.action === "stock" && buying && (
+          <Badge
+            variant="elevation-muted"
+            className="shrink-0"
+            title={titleIn(phrases, editBuyMaxPrice.key)}
+          >
+            <EditableNumber
+              value={rule.buyMaxPrice ?? 0}
+              max={99999999}
+              prefix="≤ "
+              format={(price) =>
+                price === 0
+                  ? titleIn(phrases, buyMaxPriceDefault.key)
+                  : `${price}${titleIn(phrases, buyMaxPriceEach.key)}`
+              }
+              onChange={handleBuyMaxPriceChange}
+              stopPropagation
+            />
+          </Badge>
         )}
 
         {}

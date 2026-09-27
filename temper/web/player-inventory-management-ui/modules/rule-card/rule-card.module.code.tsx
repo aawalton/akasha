@@ -42,6 +42,7 @@ interface RuleCardProps {
         | "destination"
         | "stockScope"
         | "buyShortfall"
+        | "buyMaxPrice"
         | "destinationChain"
         | "active"
         | "goal"
@@ -106,6 +107,10 @@ export const RuleCard = memo(function RuleCard({
 
   function handleBuyShortfallChange(buyShortfall: boolean) {
     onUpdate?.(rule.id, { buyShortfall })
+  }
+
+  function handleBuyMaxPriceChange(buyMaxPrice: number) {
+    onUpdate?.(rule.id, { buyMaxPrice })
   }
 
   const isActive = rule.active !== false
@@ -200,6 +205,7 @@ export const RuleCard = memo(function RuleCard({
                 handleDestinationChainChange={handleDestinationChainChange}
                 handleToggleDestinationChain={handleToggleDestinationChain}
                 handleBuyShortfallChange={handleBuyShortfallChange}
+                handleBuyMaxPriceChange={handleBuyMaxPriceChange}
                 handleMailRecipientChange={handleMailRecipientChange}
               />
               <RuleCardCategoryRow

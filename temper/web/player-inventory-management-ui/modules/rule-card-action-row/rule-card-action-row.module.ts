@@ -28,5 +28,13 @@ export const ruleCardActionRow = {
       decisionKind: "decision-kind/departure",
       statement: "A stocking rule's buy shortfall toggle and its aria-label are rule card phrases.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule buying its shortfall shows the most it pays for one beside that toggle.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A price of zero reads as the price paid where the rule states none.",
+    },
   ],
 } as const satisfies Module
