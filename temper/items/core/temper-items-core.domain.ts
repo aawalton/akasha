@@ -55,6 +55,7 @@ export const temperItemsCore = {
     "module/item-category-tree",
     "module/item-category-tree-reading",
     "module/item-category-tree-loading",
+    "page-type/temper-browser-category",
   ],
   decisions: [
     {

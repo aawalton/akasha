@@ -31,6 +31,7 @@
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/items/core/temper-browser-category/temper-browser-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/items/rules/routing/core/temper-venue/temper-venue.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/character/role/temper-character-role.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/character/temper-skill-bar/temper-skill-bar.page-type.types.ts","typed":true,"deferred":false}
@@ -78,6 +79,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.ts","id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-public-dungeon/temper-public-dungeon.page-type.ts","id":"01a0d89e-8371-74e9-89b8-8064ba78445b"}
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-source-category/temper-source-category.page-type.ts","id":"01a05fc4-7a95-78b9-afe6-0a16b2b185e3"}
+{"propertySlug":"page-property","path":"temper/items/core/temper-browser-category/temper-browser-category.page-type.ts","id":"01a0e10a-51a6-762e-937a-ab9ecab87881"}
 {"propertySlug":"page-property","path":"temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts","id":"01a0e0d4-8faf-7000-a663-56081a452c8e"}
 {"propertySlug":"page-property","path":"temper/player/character/role/temper-character-role.page-type.ts","id":"01a05fcd-f547-7e5d-aa6c-38b9f3d06600"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-skill-bar/temper-skill-bar.page-type.ts","id":"01a05fcd-f558-70b6-8f78-cec3aed405a1"}

@@ -5486,6 +5486,8 @@
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/location-classify/location-classify.module.ts","id":"01a060d9-498c-776f-ae38-08519b2ea266"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.ts","id":"01a060c5-3c25-71a5-8ae6-6300f17e08b1"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.ts","id":"01a060e6-c3e6-7bba-973c-033c3a1970b5"}
+{"propertySlug":"decision-kind","path":"temper/items/core/temper-browser-category/properties/browser-category-parent.relation-property.ts","id":"01a0e10a-51a5-7ea8-87f9-3a385664764b"}
+{"propertySlug":"decision-kind","path":"temper/items/core/temper-browser-category/temper-browser-category.page-type.ts","id":"01a0e10a-51a6-762e-937a-ab9ecab87881"}
 {"propertySlug":"decision-kind","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.ts","id":"01a0614b-6736-7575-aaa0-1766a1adf1a8"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/addon/modules/filter-bar/filter-bar.module.ts","id":"01a0614b-6735-71b0-b1bb-6d698f3b387d"}
