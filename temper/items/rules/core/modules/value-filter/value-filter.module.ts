@@ -11,5 +11,9 @@ export const valueFilter = {
       decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the conditions `value` and `valueOp`.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under the `value` condition field page's title.",
+    },
   ],
 } as const satisfies Module

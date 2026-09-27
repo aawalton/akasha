@@ -26,7 +26,6 @@ const readOp = (c: CategoryRule["conditions"]): ComparisonOpId | undefined => c?
 
 export const QUALITY_FILTER: InventoryRuleFilter = {
   id: "quality",
-  label: "Quality",
   priority: 5,
   isEligible: () => true,
   mutuallyExclusive: [],

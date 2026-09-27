@@ -29,7 +29,6 @@ const readOp = (c: CategoryRule["conditions"]): ComparisonOpId | undefined => c?
 
 export const LEVEL_FILTER: InventoryRuleFilter = {
   id: "level",
-  label: "Level",
   priority: 6,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, LEVEL_ELIGIBLE_ROOTS, "opt-in", categories),

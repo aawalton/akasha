@@ -13,6 +13,10 @@ export const levelFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under the `maxLevel` condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A category outside `equipment` is offered no Level condition.",
     },
   ],

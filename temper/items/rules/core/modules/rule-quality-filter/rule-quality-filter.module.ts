@@ -13,6 +13,10 @@ export const ruleQualityFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under the `maxQuality` condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The qualities offered are the graded quality pages, in hash-place order.",
     },
   ],

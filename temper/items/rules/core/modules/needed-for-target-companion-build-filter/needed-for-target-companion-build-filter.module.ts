@@ -14,6 +14,10 @@ export const neededForTargetCompanionBuildFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A category outside `companion` is offered no Needed for Target Companion Build condition.",
     },

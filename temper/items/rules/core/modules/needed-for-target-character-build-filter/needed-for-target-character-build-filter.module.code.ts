@@ -8,7 +8,6 @@ const read = (c: CategoryRule["conditions"]) => c?.isTargetEquip
 
 export const NEEDED_FOR_TARGET_CHARACTER_BUILD_FILTER: InventoryRuleFilter = {
   id: "needed-for-target-character-build",
-  label: "Needed for Target Character Build",
   priority: 0,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, ELIGIBLE_ROOTS, "opt-in", categories),
