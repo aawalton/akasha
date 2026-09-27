@@ -269,10 +269,6 @@ export const otherwhereMainHall = {
     },
 
     {
-      fact: "Nala pinned the salted bookworm in the heaped salt; it shrinks and weakens but isn't still yet.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
       fact: "The pinned bookworm's teeth caught Nala's forearm, a shallow stinging scrape.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
