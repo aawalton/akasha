@@ -2,7 +2,7 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-
 import type { DrawingOrientation } from "akasha/temper/addon/pages/combat/modules/combat-alerts-drawing-hub/combat-alerts-drawing-hub.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
 
-export type WorldIconSize = (this: void) => number
+type WorldIconSize = (this: void) => number
 
 export interface WorldIconData {
   x: number
@@ -12,7 +12,7 @@ export interface WorldIconData {
   size: WorldIconSize
 }
 
-export interface WorldIconGroupIcon {
+interface WorldIconGroupIcon {
   x: number
   y: number
   z: number
