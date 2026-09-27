@@ -27,4 +27,5 @@ export const otherwhere00018 = {
     'He looks up at her. "The small ones, a line will hold."',
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
