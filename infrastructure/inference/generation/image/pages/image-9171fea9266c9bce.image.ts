@@ -13,4 +13,5 @@ export const image9171fea9266c9bce = {
   inputImage: "image/image-15a98654134d2402",
   serviceVersions: ["mlx 0.31.0"],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-3",
 } as const satisfies Image

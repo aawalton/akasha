@@ -18,4 +18,5 @@ export const image9e6de5b900f421a4 = {
     "comfyui-gguf 6ea2651e7df66d7585f6ffee804b20e92fb38b8a",
     "seedvr2-node 5a4bf428f3735cc72ac760d40f372f94dec28422",
   ],
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

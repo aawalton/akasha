@@ -17,4 +17,5 @@ export const image4576867c3d285dfe = {
   inputImage: "image/image-e3274d67e3859b6b",
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

@@ -7,4 +7,5 @@ export const imageD6a4b4ce0bb3ec5d = {
   title: "Alan in winter",
   grade: "A+",
   subjects: "M",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

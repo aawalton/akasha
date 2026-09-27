@@ -11,4 +11,5 @@ export const image5bf2698edd820ed0 = {
   resolution: "1460",
   serviceVersions: ["mlx 0.31.0"],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-5",
 } as const satisfies Image

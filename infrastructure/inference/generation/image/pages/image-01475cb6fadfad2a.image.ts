@@ -17,4 +17,5 @@ export const image01475cb6fadfad2a = {
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   settingTags: ["setting-tag/indoor", "setting-tag/tatami-room"],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-6",
 } as const satisfies Image

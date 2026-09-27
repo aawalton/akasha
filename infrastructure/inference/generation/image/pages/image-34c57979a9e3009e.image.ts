@@ -5,4 +5,5 @@ export const image34c57979a9e3009e = {
   type: "page-type/image",
   slug: "image-34c57979a9e3009e",
   title: "Marbled Mint Cookies & Cream ice cream",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

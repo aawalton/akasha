@@ -6,4 +6,5 @@ export const image51770384ec293e7e = {
   slug: "image-51770384ec293e7e",
   title: "Nova among the books",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-5",
 } as const satisfies Image

@@ -5,4 +5,5 @@ export const imageC9f1ae2760195e6c = {
   type: "page-type/image",
   slug: "image-c9f1ae2760195e6c",
   title: "Steak Burrito Bowl",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

@@ -5,4 +5,5 @@ export const imageF076d45abb66f386 = {
   type: "page-type/image",
   slug: "image-f076d45abb66f386",
   title: "Orange chicken with white rice",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

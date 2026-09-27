@@ -9,4 +9,5 @@ export const imageC1c455e374ce026f = {
     "Aria and Mari at the dungeon-masters table — map, dice, and an open tome between them in candlelight and moonlight. The two dragons of the campaign, mid-game. Combined 21:9 ultrawide wallpaper.",
   grade: "S-",
   subjects: "FF",
+  relationshipLevel: "closeness-level/level-2",
 } as const satisfies Image

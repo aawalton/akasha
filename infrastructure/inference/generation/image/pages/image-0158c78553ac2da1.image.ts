@@ -22,4 +22,5 @@ export const image0158c78553ac2da1 = {
     "setting-tag/daytime",
   ],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-2",
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const image861db8719b756039 = {
     "Keep the exact same woman from the reference image -- identical face, bone structure, nose, lips, jawline, and her warm olive, Mediterranean complexion, and the same natural hair length and texture. Keep her hair its natural dark brown, loosely wavy color and texture, and keep her warm hazel-green eyes and strong brows exactly as in the reference; do not lighten her complexion or her hair. Do not slim, age, beautify, or glamorize her features. Re-render her as one new photograph with her identity locked -- recompose the entire frame freshly rather than editing or extending the original. 0; Full body seen from behind, climbing a wide outdoor stone staircase, viewed from the back. She wears a mustard-yellow hoodie and grey joggers. Her hair is half-up with the rest loose. Cool blue-hour dusk light in shade. Photorealistic photo.",
   inputImage: "image/image-2cd145459966657a",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

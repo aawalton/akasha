@@ -5,4 +5,5 @@ export const image2ea7208386bd5f6e = {
   type: "page-type/image",
   slug: "image-2ea7208386bd5f6e",
   title: "Dark Chocolate Acai",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

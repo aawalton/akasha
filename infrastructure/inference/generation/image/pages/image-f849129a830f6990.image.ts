@@ -6,4 +6,5 @@ export const imageF849129a830f6990 = {
   slug: "image-f849129a830f6990",
   title: "QR code for audhdalan.com",
   grade: "B",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

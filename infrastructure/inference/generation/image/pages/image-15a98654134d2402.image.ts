@@ -11,4 +11,5 @@ export const image15a98654134d2402 = {
     "Remove the microphone and its boom arm entirely, and remove the wooden porch railing and the lamp entirely — no studio elements remain. Fill those areas with a natural continuation of the moonlit gorge landscape: layered canyon ridges, silver mist, the winding moonlit river, deep blue night sky with faint stars. The result is just the woman standing against the vast night landscape, as if on an unseen ledge in the open air. Keep the woman herself and everything about her completely unchanged — face, freckles, grey-green eyes, headphones, hair, sheer white gown — and keep the single full moon in the upper-right exactly as it is.",
   inputImage: "image/image-aee6cbc6db60143d",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-2",
 } as const satisfies Image

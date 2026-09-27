@@ -6,4 +6,5 @@ export const image4774d851c7bc0900 = {
   slug: "image-4774d851c7bc0900",
   title: "Outshine fruit bar, 1 pop",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

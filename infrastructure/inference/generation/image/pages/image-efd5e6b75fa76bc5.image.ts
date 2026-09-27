@@ -7,4 +7,5 @@ export const imageEfd5e6b75fa76bc5 = {
   grade: "S-",
   persona: "persona/aelwyn",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-2",
 } as const satisfies Image

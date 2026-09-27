@@ -10,4 +10,5 @@ export const imageF934e737da42ec8b = {
   prompt:
     "Keep this exact woman completely unchanged — identical face with EXACTLY this expression (the same calm direct eyes and soft parted lips as in this image), pale silver-blue eyes, mother-of-pearl horns, dark hair with the silver-blue iridescent fall, the blue scale-glitter patch on ONE cheek only, and her exact navy-blue halter-neck dress with the strap around her neck, bare shoulders and bare back. Change the pose and setting: she is caught mid-turn with her body half-turned away toward the LEFT of the frame, looking back at the viewer over her RIGHT shoulder — the same direction of turn as in this image — bare line of her back and right shoulder toward the camera, an open book balanced in her left hand, hair swinging gently with the turn. WIDE, open, airy composition: she stands in the open center of a grand night library reading hall with generous space around her, shelves far behind in soft blur, a tall arched window with the full moon in the background, warm candle depth. Photorealistic.",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-5",
 } as const satisfies Image

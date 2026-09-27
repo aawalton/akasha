@@ -7,4 +7,5 @@ export const image024d1b14c69f1fb0 = {
   title: "Olwen in the gold wood",
   persona: "persona/olwen",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

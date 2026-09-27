@@ -5,4 +5,5 @@ export const imageAd61dee90aa48d43 = {
   type: "page-type/image",
   slug: "image-ad61dee90aa48d43",
   title: "Milk, small glass",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

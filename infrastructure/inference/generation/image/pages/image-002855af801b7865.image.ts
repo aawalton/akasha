@@ -11,4 +11,5 @@ export const image002855af801b7865 = {
     "setting-tag/sunset",
   ],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-6",
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image7dff61a8a2636150 = {
     "torch-vision 0.24.1",
   ],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-3",
 } as const satisfies Image

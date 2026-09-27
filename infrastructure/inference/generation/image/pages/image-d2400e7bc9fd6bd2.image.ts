@@ -5,4 +5,5 @@ export const imageD2400e7bc9fd6bd2 = {
   type: "page-type/image",
   slug: "image-d2400e7bc9fd6bd2",
   title: "Gouda and Havarti Cheese",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

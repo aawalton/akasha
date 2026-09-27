@@ -6,4 +6,5 @@ export const image1127e24490fc4d90 = {
   slug: "image-1127e24490fc4d90",
   persona: "persona/aura",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-6",
 } as const satisfies Image

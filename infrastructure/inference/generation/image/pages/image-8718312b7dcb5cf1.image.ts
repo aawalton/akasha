@@ -12,4 +12,5 @@ export const image8718312b7dcb5cf1 = {
   inputImage: "image/image-24731d4ffebdef55",
   serviceVersions: ["mlx 0.31.0"],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-2",
 } as const satisfies Image

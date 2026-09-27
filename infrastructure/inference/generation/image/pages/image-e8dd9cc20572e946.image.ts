@@ -12,4 +12,5 @@ export const imageE8dd9cc20572e946 = {
     "Keep this exact image unchanged EXCEPT her clothing: same woman, same face, same delighted grin, same leaned-in close pose and direct eye contact, the same skeleton holographic windows around her, the same pink-and-magenta neon haze background and composition, and the same slightly stylized glossy synthwave art style — do NOT make it more photorealistic. Change ONLY her outfit to: an elegant gown that looks like deep space and a field of stars, cosmic fabric glittering with tiny galaxies.",
   inputImage: "image/image-4bce3559375e0c86",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-3",
 } as const satisfies Image

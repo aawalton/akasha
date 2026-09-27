@@ -13,4 +13,5 @@ export const image0044b8e84e3890a7 = {
   referenceImages: ["image/image-bd3140298ad22250"],
   settingTags: ["setting-tag/dark-background", "setting-tag/abstract-background"],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-6",
 } as const satisfies Image

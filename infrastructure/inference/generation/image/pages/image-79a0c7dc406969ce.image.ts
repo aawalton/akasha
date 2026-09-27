@@ -15,4 +15,5 @@ export const image79a0c7dc406969ce = {
   quantize: 8,
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "FF",
+  relationshipLevel: "closeness-level/level-5",
 } as const satisfies Image

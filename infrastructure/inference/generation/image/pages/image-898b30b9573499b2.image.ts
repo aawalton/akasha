@@ -12,4 +12,5 @@ export const image898b30b9573499b2 = {
   inputImage: "image/image-ec75cc3f08f73404",
   referenceImages: ["image/image-ab15122aceb34bb8"],
   subjects: "F",
+  relationshipLevel: "closeness-level/level-5",
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image8b14b78b4904ef49 = {
     "Sharpen this image so the focus is consistent across the whole frame. Keep everything exactly as it is — same woman, same pose, same composition, same lighting, same colors — only increase sharpness and fine detail uniformly, removing the soft out-of-focus patches. Photorealistic clarity throughout.",
   inputImage: "image/image-e121e2a8dda9be42",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image
