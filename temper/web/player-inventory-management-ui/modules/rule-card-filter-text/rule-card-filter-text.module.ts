@@ -12,5 +12,9 @@ export const ruleCardFilterText = {
       statement:
         "This cancel and the one in number-badge close over different setters and are not one rule.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The syntax help, placeholder and empty text are rule card phrases.",
+    },
   ],
 } as const satisfies Module
