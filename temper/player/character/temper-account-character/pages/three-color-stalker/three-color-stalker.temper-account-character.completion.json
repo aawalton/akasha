@@ -17717,11 +17717,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "seen": [
       5,
       3,
@@ -17736,14 +17736,14 @@
       6,
       2,
       7,
-      4,
       3,
+      4,
       5
     ]
   },
   "bankVisitDate": "2026-09-26",
   "inventoryCheck": {
-    "date": "2026-09-26",
-    "misplaced": 0
+    "date": "2026-09-27",
+    "misplaced": 11
   }
 }
