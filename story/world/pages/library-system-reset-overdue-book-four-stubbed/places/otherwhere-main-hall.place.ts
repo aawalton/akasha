@@ -11,6 +11,10 @@ export const otherwhereMainHall = {
       fact: "The main hall is at the top of the spiral staircase from the core chamber.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The main hall is ornate and massive, and wrecked by centuries of neglect.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
