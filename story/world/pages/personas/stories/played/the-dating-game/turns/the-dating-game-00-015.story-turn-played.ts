@@ -26,4 +26,5 @@ export const theDatingGame00015 = {
   issues: ['"the way a narrator holds out a hand for the script" - No Prompt'],
   lore: ["lore/the-dating-game-echo"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
