@@ -20,7 +20,7 @@ export const audhdalanWebHome = {
     },
     {
       anchor: "stay-in-touch",
-      title: "Stay in touch",
+      title: "Stay in touch (live check)",
       text: "Occasional notes on autism, ADHD, and energy management.",
     },
   ],
