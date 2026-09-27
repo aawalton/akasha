@@ -6,4 +6,10 @@ export const charactersPlanEmpty = {
   slug: "characters-plan-empty",
   definition: "the empty characters plan",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

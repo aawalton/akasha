@@ -16,41 +16,58 @@ import {
   CardContent,
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import type { PlanEmptyState } from "akasha/temper/web/modules/characters-plan-empty-state/characters-plan-empty-state.module.code.ts"
+import {
+  type Phrase,
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { charactersPlanEmptyCheckSyncStatus } from "akasha/temper/web/phrase/pages/characters-plan-empty-check-sync-status.temper-web-phrase.ts"
+import { charactersPlanEmptyNoBuildsMany } from "akasha/temper/web/phrase/pages/characters-plan-empty-no-builds-many.temper-web-phrase.ts"
+import { charactersPlanEmptyNoBuildsOne } from "akasha/temper/web/phrase/pages/characters-plan-empty-no-builds-one.temper-web-phrase.ts"
+import { charactersPlanEmptyNoBuildsTitle } from "akasha/temper/web/phrase/pages/characters-plan-empty-no-builds-title.temper-web-phrase.ts"
+import { charactersPlanEmptyNoCharactersDescription } from "akasha/temper/web/phrase/pages/characters-plan-empty-no-characters-description.temper-web-phrase.ts"
+import { charactersPlanEmptyNoCharactersTitle } from "akasha/temper/web/phrase/pages/characters-plan-empty-no-characters-title.temper-web-phrase.ts"
+import { charactersPlanEmptyUnconfirmedDescription } from "akasha/temper/web/phrase/pages/characters-plan-empty-unconfirmed-description.temper-web-phrase.ts"
+import { charactersPlanEmptyUnconfirmedTitle } from "akasha/temper/web/phrase/pages/characters-plan-empty-unconfirmed-title.temper-web-phrase.ts"
 import { Gamepad2, Loader2 } from "lucide-react"
-
-const NO_CHARACTERS_DESCRIPTION =
-  "Temper has not received any characters for this account. The Temper ESO add-ons write the files the Watcher reads, so both need to be working before any characters reach Temper. Arriving does not attach a build, though, so this tab stays empty even once they land."
-
-const UNCONFIRMED_DESCRIPTION =
-  "Temper has not finished loading this account's characters, so this tab is not showing a final answer yet. Reload if it does not settle shortly."
-
-function noBuildsDescription(count: number): string {
-  const noun = count === 1 ? "character" : "characters"
-  return `Temper has ${count} ${noun} for this account. Planning compares a character's current build against a target, and none of them has a build attached yet — importing characters does not attach one, so importing again will not change this.`
-}
 
 interface CharactersPlanEmptyProps {
   state: PlanEmptyState
 }
 
-function planEmptyCopy(state: PlanEmptyState): { title: string; description: string } {
+function planEmptyCopy(
+  state: PlanEmptyState,
+  phrase: Phrase,
+  phraseDescription: Phrase
+): { title: string; description: string } {
   switch (state.kind) {
     case "unconfirmed":
-      return { title: "Still loading your characters", description: UNCONFIRMED_DESCRIPTION }
-    case "no-characters":
-      return { title: "No characters yet", description: NO_CHARACTERS_DESCRIPTION }
-    case "no-builds":
       return {
-        title: "No builds attached to your characters",
-        description: noBuildsDescription(state.importedCharacterCount),
+        title: phrase(charactersPlanEmptyUnconfirmedTitle.slug),
+        description: phrase(charactersPlanEmptyUnconfirmedDescription.slug),
       }
+    case "no-characters":
+      return {
+        title: phrase(charactersPlanEmptyNoCharactersTitle.slug),
+        description: phraseDescription(charactersPlanEmptyNoCharactersDescription.slug),
+      }
+    case "no-builds": {
+      const count = state.importedCharacterCount
+      const worded = count === 1 ? charactersPlanEmptyNoBuildsOne : charactersPlanEmptyNoBuildsMany
+      return {
+        title: phrase(charactersPlanEmptyNoBuildsTitle.slug),
+        description: phraseDescription(worded.slug, { count }),
+      }
+    }
     default:
       return assertNever(state)
   }
 }
 
 export function CharactersPlanEmpty({ state }: CharactersPlanEmptyProps) {
-  const { title, description } = planEmptyCopy(state)
+  const phrase = usePhrase()
+  const phraseDescription = usePhraseDescription()
+  const { title, description } = planEmptyCopy(state, phrase, phraseDescription)
 
   return (
     <Card>
@@ -65,7 +82,9 @@ export function CharactersPlanEmpty({ state }: CharactersPlanEmptyProps) {
           </EmptyHeader>
           <EmptyContent>
             <Button variant="secondary" asChild>
-              <LayoutLink href="/watcher">Check sync status</LayoutLink>
+              <LayoutLink href="/watcher">
+                {phrase(charactersPlanEmptyCheckSyncStatus.slug)}
+              </LayoutLink>
             </Button>
           </EmptyContent>
         </Empty>
