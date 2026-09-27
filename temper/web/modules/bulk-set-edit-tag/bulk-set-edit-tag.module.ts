@@ -6,4 +6,10 @@ export const bulkSetEditTag = {
   slug: "bulk-set-edit-tag",
   definition: "a chip setting one gear set across every slot of a section at once",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The empty choice is named by the no-set catalog page.",
+    },
+  ],
 } as const satisfies Module

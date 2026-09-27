@@ -3,6 +3,7 @@
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
+import { noSet } from "akasha/temper/catalog/gear/temper-set/pages/no-set/no-set.temper-set.ts"
 import { canClassEquipSet } from "akasha/temper/player/character/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts"
 import {
   createSetSelectConfig,
@@ -14,7 +15,10 @@ import {
   type SetSource,
   type SetSourceId,
 } from "akasha/temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts"
-import { isSetsAllId } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
+import {
+  isSetsAllId,
+  setsAll,
+} from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import { FilterableSelectDialog } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { useMemo, useState } from "react"
@@ -46,7 +50,9 @@ export function BulkSetEditTag({
     return availableSets.find((s) => s.id === currentValue) || null
   }, [availableSets, currentValue, isNoSet])
 
-  const displayValue = isNoSet ? "No Set" : (selectedSet?.name ?? currentValue)
+  const displayValue = isNoSet
+    ? setsAll().data[noSet.slug]?.name
+    : (selectedSet?.name ?? currentValue)
   const isMythicSet = selectedSet?.subcategoryId === "mythic"
 
   const filteredSets = useMemo(() => {
