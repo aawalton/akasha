@@ -4,7 +4,7 @@ export const alanwaltonWebLanding = {
   id: "01a0d5b4-244e-7cae-b50b-9d233d6a6511",
   type: "page-type/site-document",
   slug: "alanwalton-web-landing",
-  title: "Alan Walton (live check)",
+  title: "Alan Walton",
   description:
     "Alan Walton — sole proprietor operating a personal-assistant service, including the Amy SMS text line for scheduling, reminders, and coordination.",
   webApp: "web-app/alanwalton-web",
