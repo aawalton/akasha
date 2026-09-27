@@ -69,15 +69,15 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The break room's door opens off the hall's left side, partway back along the columns.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The salt box is heavy, near twenty pounds, but she can carry it hugged in both arms.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The break room's cupboards also hold chipped mugs, a dented tin scoop and a small bucket.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Engorged bookworms go on feeding until a Librarian comes within about twenty feet.",
@@ -125,7 +125,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "A break room off the hall holds a dead magical cooler and overgrown terrarium gardens.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links hands a newcomer a broom as her first weapon against the bookworms.",
@@ -182,6 +182,26 @@ export const otherwhereMainHall = {
     {
       fact: "The Library keeps roots and vegetables that are safe for a human to eat.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala set the salt box down on the floor where the hall's gold light thins into gloom.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "Nala took the dented tin scoop from the break room; it holds a good fistful of salt.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Low humped engorged bookworms chew wetly among heaps of books in the gloom at the hall's back.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The nearest engorged bookworm Nala has seen is about the size of a small dog.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
   secrets: "jsonl",
