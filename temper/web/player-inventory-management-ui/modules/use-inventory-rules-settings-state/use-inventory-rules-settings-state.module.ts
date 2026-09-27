@@ -15,5 +15,9 @@ export const useInventoryRulesSettingsState = {
       decisionKind: "decision-kind/departure",
       statement: "A reader is told nothing was saved and nothing was lost, rather than to retry.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The save toasts are worded by web phrase pages, read as held.",
+    },
   ],
 } as const satisfies Module

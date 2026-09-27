@@ -6,6 +6,13 @@ import {
 } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
+  heldWebPhrases,
+  phraseIn,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { useInventoryRulesSettingsStateSaveFailed } from "akasha/temper/web/phrase/pages/use-inventory-rules-settings-state-save-failed.temper-web-phrase.ts"
+import { useInventoryRulesSettingsStateUnreadDescription } from "akasha/temper/web/phrase/pages/use-inventory-rules-settings-state-unread-description.temper-web-phrase.ts"
+import { useInventoryRulesSettingsStateUnreadTitle } from "akasha/temper/web/phrase/pages/use-inventory-rules-settings-state-unread-title.temper-web-phrase.ts"
+import {
   isRulesUnreadWrite,
   useCraftBagAccess,
 } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
@@ -56,14 +63,14 @@ export function useInventoryRulesSettingsState(): InventoryRulesSettingsState {
       localFingerprintRef.current = rulesFingerprint(next)
       setLocalSettings(next)
       persistServer(next, (err) => {
+        const phrases = heldWebPhrases()
         if (isRulesUnreadWrite(err)) {
-          toast.warning("Nothing was saved, and nothing was lost.", {
-            description:
-              "One of your rules stopped being readable while this change was on its way, so it was not written. The rules panel says which rule.",
+          toast.warning(phraseIn(phrases, useInventoryRulesSettingsStateUnreadTitle.slug), {
+            description: phraseIn(phrases, useInventoryRulesSettingsStateUnreadDescription.slug),
           })
         } else {
           console.error("[inventory-rules] settings persist failed:", err)
-          toast.error("Couldn't save your rule change — reverting to the last saved version.")
+          toast.error(phraseIn(phrases, useInventoryRulesSettingsStateSaveFailed.slug))
         }
         dirtyRef.current = false
         localFingerprintRef.current = rulesFingerprint(revertTo)
