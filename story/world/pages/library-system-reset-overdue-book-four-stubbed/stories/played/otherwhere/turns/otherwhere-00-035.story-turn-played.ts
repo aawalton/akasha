@@ -4,13 +4,14 @@ export const otherwhere00035 = {
   id: "01a0e53b-dcaf-707d-8af3-f255e8020d37",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-035",
+  cover: "image/image-07375796d056bec7",
   ownLength: 161,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 35,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“Okay, so I’m synchronized now? Does that mean I get the orientation packet? Any special powers I should know about?” I look down at my arm to see if it looks any less mangled.",
   beats: [
@@ -26,5 +27,5 @@ export const otherwhere00035 = {
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall", "place/otherwhere-core-chamber"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

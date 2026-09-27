@@ -140,6 +140,18 @@ export const otherwhereAlan = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "Nala's second sync bound her to the core more deeply than her first.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala has read no book of power, so she has no special powers yet.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala's left arm is still torn and crusted with salt and dried blood, and no better.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
