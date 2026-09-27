@@ -75,6 +75,7 @@ import {
   onInventorySlotRemoved,
   onMoneyUpdate,
   onStackSplitShow,
+  stampCachedSlots,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-events-inventory/crafting-events-inventory.module.code.ts"
 import { filterPublishedItems } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
 import { TEMPER_ITEMS_CRAFTING_API } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-public-api/crafting-public-api.module.code.ts"
@@ -250,6 +251,7 @@ export function onAddOnLoaded(this: void): undefined {
 
   SHARED_INVENTORY.RegisterCallback("SlotAdded", timed(onInventorySlotAdded))
   SHARED_INVENTORY.RegisterCallback("SlotRemoved", timed(onInventorySlotRemoved))
+  stampCachedSlots()
   ZO_PreHookHandler(ZO_StackSplit, "OnShow", onStackSplitShow)
   ZO_PreHookHandler(ZO_EnchantingTopLevelModeMenuBarButton1, "OnMouseDown", runeCreationTabShow)
   ZO_PreHookHandler(ZO_EnchantingTopLevelModeMenuBarButton2, "OnMouseDown", runeExtractionTabShow)

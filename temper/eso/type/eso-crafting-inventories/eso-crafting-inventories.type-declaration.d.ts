@@ -26,3 +26,11 @@ interface SharedInventorySlotData {
   uid?: string
   lnk?: string
 }
+
+interface SharedInventoryManager {
+  HasBagCache: (this: SharedInventoryManager, bagId: number) => boolean
+  GetBagCache: (
+    this: SharedInventoryManager,
+    bagId: number
+  ) => Record<number, SharedInventorySlotData>
+}

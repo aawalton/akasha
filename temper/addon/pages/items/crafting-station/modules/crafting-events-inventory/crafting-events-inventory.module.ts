@@ -5,5 +5,15 @@ export const craftingEventsInventory = {
   type: "page-type/module",
   slug: "crafting-events-inventory",
   definition: "what the add-on does when a bag slot or the player's gold changes",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot cached before the slot listeners were registered is given its link then.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot in the furniture vault is not counted, so its removal is passed over.",
+    },
+  ],
   code: "ts",
 } as const satisfies Module

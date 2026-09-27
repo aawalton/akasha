@@ -23,6 +23,36 @@ import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declar
 const asSharedInventorySlotData = (value: { bagId: number }): SharedInventorySlotData =>
   value as SharedInventorySlotData
 
+function isTrackedBag(this: void, bag: number): boolean {
+  return (
+    bag === BAG_BACKPACK ||
+    bag === BAG_BANK ||
+    bag === BAG_SUBSCRIBER_BANK ||
+    bag === BAG_VIRTUAL ||
+    IsHouseBankBag(bag)
+  )
+}
+
+function trackedBags(this: void): number[] {
+  const bags = [BAG_BACKPACK, BAG_BANK, BAG_SUBSCRIBER_BANK, BAG_VIRTUAL]
+  for (let bag = BAG_HOUSE_BANK_ONE; bag <= BAG_HOUSE_BANK_TEN; bag++) {
+    bags.push(bag)
+  }
+  return bags
+}
+
+export function stampCachedSlots(this: void): undefined {
+  for (const bag of trackedBags()) {
+    if (!SHARED_INVENTORY.HasBagCache(bag)) {
+      continue
+    }
+    for (const [slot, data] of pairs(SHARED_INVENTORY.GetBagCache(bag))) {
+      data.uid = Id64ToString(GetItemUniqueId(bag, slot))
+      data.lnk = stripLink(GetItemLink(bag, slot))
+    }
+  }
+}
+
 function houseBankQuantity(
   this: void,
   bag: number,
@@ -54,13 +84,7 @@ export function onInventorySlotAdded(
   if (!replace) {
     replace = false
   }
-  if (
-    bag !== BAG_BACKPACK &&
-    bag !== BAG_BANK &&
-    bag !== BAG_SUBSCRIBER_BANK &&
-    bag !== BAG_VIRTUAL &&
-    !IsHouseBankBag(bag)
-  ) {
+  if (!isTrackedBag(bag)) {
     return
   }
   const link = stripLink(GetItemLink(bag, slot))
@@ -110,13 +134,7 @@ export function onInventorySlotRemoved(
   _slot: number,
   data: SharedInventorySlotData
 ): undefined {
-  if (
-    bag !== BAG_BACKPACK &&
-    bag !== BAG_BANK &&
-    bag !== BAG_SUBSCRIBER_BANK &&
-    bag !== BAG_VIRTUAL &&
-    !IsHouseBankBag(bag)
-  ) {
+  if (!isTrackedBag(bag)) {
     return
   }
   const link = stripLink(defined(data.lnk))
