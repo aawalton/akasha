@@ -4,6 +4,7 @@ export const otherwhere00025 = {
   id: "01a0e4f4-9ddc-7ef6-a091-e9b6b4eacce5",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-025",
+  cover: "image/image-6f3766622bb846ce",
   ownLength: 116,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -14,7 +15,7 @@ export const otherwhere00025 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I tackle it into the salt, holding it down with my weight until it stops moving",
   beats: [
     "Nala throws her whole weight forward and drives the bookworm down into the salt line.",
@@ -29,5 +30,5 @@ export const otherwhere00025 = {
     '"Two dried coils lie beside her in the ruined oval" - only 024\'s coil is in it; one is under her',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
