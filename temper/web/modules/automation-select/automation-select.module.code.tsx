@@ -10,6 +10,10 @@ import {
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { resolveToggle } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { automationSelectAccountDefault } from "akasha/temper/web/phrase/pages/automation-select-account-default.temper-web-phrase.ts"
+import { automationSelectOff } from "akasha/temper/web/phrase/pages/automation-select-off.temper-web-phrase.ts"
+import { automationSelectOn } from "akasha/temper/web/phrase/pages/automation-select-on.temper-web-phrase.ts"
 
 type AutomationToggleValue = "on" | "off" | "account-default"
 
@@ -34,7 +38,10 @@ interface AutomationSelectProps {
 export function AutomationSelect({ value, globalValue, onChange }: AutomationSelectProps) {
   const surface = useSurface()
   const selectValue = toToggleValue(value)
-  const resolvedLabel = resolveToggle(undefined, globalValue) ? "On" : "Off"
+  const phrase = usePhrase()
+  const on = phrase(automationSelectOn.slug)
+  const off = phrase(automationSelectOff.slug)
+  const resolvedLabel = resolveToggle(undefined, globalValue) ? on : off
 
   return (
     <Select<AutomationToggleValue>
@@ -45,10 +52,10 @@ export function AutomationSelect({ value, globalValue, onChange }: AutomationSel
         <SelectValue />
       </SelectTrigger>
       <SelectContent>
-        <SelectItem<AutomationToggleValue> value="on">On</SelectItem>
-        <SelectItem<AutomationToggleValue> value="off">Off</SelectItem>
+        <SelectItem<AutomationToggleValue> value="on">{on}</SelectItem>
+        <SelectItem<AutomationToggleValue> value="off">{off}</SelectItem>
         <SelectItem<AutomationToggleValue> value="account-default">
-          {resolvedLabel} (Account Default)
+          {phrase(automationSelectAccountDefault.slug, { setting: resolvedLabel })}
         </SelectItem>
       </SelectContent>
     </Select>

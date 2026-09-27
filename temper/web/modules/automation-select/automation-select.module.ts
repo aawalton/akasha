@@ -6,4 +6,10 @@ export const automationSelect = {
   slug: "automation-select",
   definition: "a control choosing on, off or whatever the global setting says",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
