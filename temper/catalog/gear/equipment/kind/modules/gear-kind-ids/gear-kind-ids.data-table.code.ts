@@ -116,3 +116,5 @@ export type ArmorTypeId =
   | "shield"
   | "shoulders"
   | "waist"
+
+export type WeaponBarId = "backup-weapon-bar" | "primary-weapon-bar"

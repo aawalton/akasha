@@ -4,7 +4,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/jewelry-types/jewelry-types.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/enchant-reading/enchant-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts","typed":true,"deferred":false}

@@ -9,7 +9,7 @@ import { companionQualityToEso } from "akasha/temper/catalog/companion/temper-es
 import { armorSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import { resolveQuality } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
-import { weaponBarsInOrder } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
+import { weaponBars } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import { equipTypeNumberOf } from "akasha/temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts"
 import { esoNumberOfTrait } from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
 import { playerEsoNumOf } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.code.ts"
@@ -85,7 +85,7 @@ export function compileWantedEquipmentForBuild(
     signatures.push({ esoCharId, equipType, traitType, quality })
   }
 
-  for (const barId of weaponBarsInOrder()) {
+  for (const barId of weaponBars.ids) {
     const bar = decoded.equipment[barId]
 
     const mainHand = bar["main-hand"]

@@ -81,7 +81,7 @@ export const GEAR_READS: readonly Read[] = [
   ],
   [temperSetBonusStep.slug, ["slug", "setBonusScale"]],
   [temperSetRule.slug, ["slug", "setPieceMost"]],
-  [temperWeaponBar.slug, ["slug", "displayOrder"]],
+  [temperWeaponBar.slug, ["slug", "title", "displayOrder"]],
   [temperEsoPlayerEquipmentConstant.slug, ["slug", "constantFamily", "constantId", "esoNum"]],
   [temperArmorSlot.slug, ["slug", "title", "icon", "hashPlace", "slotEquipType"]],
   [temperArmorType.slug, ["slug", "title", "armorMultiplier", "enchantmentMultiplier"]],

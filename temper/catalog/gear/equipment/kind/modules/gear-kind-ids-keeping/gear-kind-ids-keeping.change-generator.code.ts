@@ -17,6 +17,7 @@ import {
   slugUnionsKept,
   type Written,
 } from "akasha/temper/modules/slug-union-keeping/slug-union-keeping.module.code.ts"
+import { temperWeaponBar } from "akasha/temper/player/character/temper-weapon-bar/temper-weapon-bar.page-type.ts"
 
 function every(): boolean {
   return true
@@ -44,6 +45,7 @@ const KEEPING: Keeping = {
     { name: "WeaponEnchantId", holds: every, pageTypeSlug: temperWeaponEnchant.slug },
     { name: "JewelryEnchantId", holds: every, pageTypeSlug: temperJewelryEnchant.slug },
     { name: "ArmorTypeId", holds: every, pageTypeSlug: temperArmorType.slug },
+    { name: "WeaponBarId", holds: every, pageTypeSlug: temperWeaponBar.slug },
   ],
 }
 
