@@ -26,6 +26,14 @@ export const pageReferenceReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A question about one property parses only the lines naming that property.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a question is read afresh each time rather than held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Each way a file is imported is answered as the line filed says, and never read again off the body.",
     },

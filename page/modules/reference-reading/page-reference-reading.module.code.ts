@@ -34,10 +34,17 @@ function referencesFor(given: string | Reading, pagePath: string): readonly Refe
   return beside(given, pagePath)
 }
 
-function referencesOf(given: string | Reading, id: string): readonly Reference[] {
-  const reading = readingIn(given)
-  const listed = listedById(reading, id)
-  return listed === null ? [] : referencesFor(reading, listed.path)
+function referencesThrough(
+  reading: Reading,
+  pagePath: string,
+  propertySlug: string
+): readonly Reference[] {
+  const at = referencesAt(pagePath)
+  const body = at === null ? null : reading.read(at)
+  if (body === null) return []
+  const said = `"propertySlug":${JSON.stringify(propertySlug)}`
+  const lines = body.split(BREAK).filter((one) => one.includes(said))
+  return referencesEach(lines).filter((one) => one.propertySlug === propertySlug)
 }
 
 export function idsNaming(
@@ -45,9 +52,12 @@ export function idsNaming(
   id: string,
   propertySlug: string
 ): readonly string[] {
+  const reading = readingIn(given)
+  const listed = listedById(reading, id)
+  if (listed === null) return []
   const found: string[] = []
-  for (const one of referencesOf(given, id)) {
-    if (one.propertySlug === propertySlug && one.id !== null) found.push(one.id)
+  for (const one of referencesThrough(reading, listed.path, propertySlug)) {
+    if (one.id !== null) found.push(one.id)
   }
   return found.sort()
 }
