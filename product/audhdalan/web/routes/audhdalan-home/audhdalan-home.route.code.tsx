@@ -32,8 +32,9 @@ const PICTURED = "about"
 
 export async function loader() {
   const [document, slides] = await Promise.all([siteDocumentAt(WEB_APP, ""), slidesOf(DECK)])
-  const picture = slides.find((one) => one.kind === PICTURED)?.image ?? null
-  return { document, picture }
+  const pictured = slides.find((one) => one.kind === PICTURED)
+  const picture = pictured?.image ?? null
+  return { document, picture, caption: pictured?.imageCaption ?? "" }
 }
 
 type HomeLoaderData = Awaited<ReturnType<typeof loader>>
@@ -53,7 +54,15 @@ function Titled({ title }: { title: string }) {
   )
 }
 
-function AboutSection({ section, picture }: { section: DrawnSection; picture: string | null }) {
+function AboutSection({
+  section,
+  picture,
+  caption,
+}: {
+  section: DrawnSection
+  picture: string | null
+  caption: string
+}) {
   return (
     <section className="flex flex-col gap-10 sm:flex-row sm:items-start">
       <div className="flex flex-1 flex-col gap-6">
@@ -67,7 +76,7 @@ function AboutSection({ section, picture }: { section: DrawnSection; picture: st
       {picture === null ? null : (
         <img
           src={picture}
-          alt="Alan Walton"
+          alt={caption}
           width={280}
           height={373}
           className="rounded-xl object-cover shadow-lg"
@@ -100,7 +109,9 @@ export default function Home({ loaderData }: { loaderData: HomeLoaderData }) {
           </Heading>
           <Separator className="w-24 bg-accent" />
         </div>
-        {about === undefined ? null : <AboutSection section={about} picture={loaderData.picture} />}
+        {about === undefined ? null : (
+          <AboutSection section={about} picture={loaderData.picture} caption={loaderData.caption} />
+        )}
         {resources === undefined ? null : <ResourcesSection section={resources} />}
         <SubscribeForm />
       </div>
