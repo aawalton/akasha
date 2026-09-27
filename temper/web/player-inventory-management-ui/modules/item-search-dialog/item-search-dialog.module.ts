@@ -6,4 +6,10 @@ export const itemSearchDialog = {
   slug: "item-search-dialog",
   definition: "the dialog for finding an item",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The dialog's default title, placeholder and search states are web phrase pages.",
+    },
+  ],
 } as const satisfies Module
