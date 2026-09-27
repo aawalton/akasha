@@ -35,6 +35,16 @@ export const review = {
       decisionKind: "decision-kind/departure",
       statement: "Undoing a grade of `F` within fifteen minutes keeps the image.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A review page decodes the next three images and fetches only the bytes of the rest held ahead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A review page fetches four images ahead at a time, nearest first, once the image shown has loaded.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

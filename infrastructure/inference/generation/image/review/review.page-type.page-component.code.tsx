@@ -40,7 +40,7 @@ import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-co
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
-import { useEffect, useState } from "react"
+import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 import { toast } from "sonner"
 
 type Seen = {
@@ -54,8 +54,95 @@ const GROUP = "Review"
 
 const SUBDUED = "font-mono text-secondary text-xs"
 
+const DECODED_AHEAD = 3
+
+const FETCHED_AT_ONCE = 4
+
+type Fetching = { readonly decoded: boolean; readonly stop: () => undefined }
+
 function sourceOf(one: Queued): string | null {
   return coverSource(`image/${one.slug}`)
+}
+
+function fetchedAhead(src: string, decoded: boolean, settle: () => undefined): Fetching {
+  if (decoded) {
+    const image = new Image()
+    image.src = src
+    void image.decode().then(settle, settle)
+    return {
+      decoded,
+      stop: () => {
+        image.removeAttribute("src")
+        return undefined
+      },
+    }
+  }
+  const stopping = new AbortController()
+  void fetch(src, { signal: stopping.signal, priority: "low" })
+    .then((answer) => answer.body?.pipeTo(new WritableStream()))
+    .then(settle, settle)
+  return {
+    decoded,
+    stop: () => {
+      stopping.abort()
+      return undefined
+    },
+  }
+}
+
+function wantedOf(shown: Queued | null, ahead: readonly Queued[]): ReadonlyMap<string, boolean> {
+  const wanted = new Map<string, boolean>()
+  for (const [at, one] of [...(shown === null ? [] : [shown]), ...ahead].entries()) {
+    const src = sourceOf(one)
+    if (src !== null && !wanted.has(src)) wanted.set(src, at <= DECODED_AHEAD)
+  }
+  return wanted
+}
+
+function useFetchedAhead(shown: Queued | null, ahead: readonly Queued[], open: boolean): undefined {
+  const fetching = useRef(new Map<string, Fetching>())
+  const settled = useRef(new Set<Fetching>())
+  const wanted = useRef<ReadonlyMap<string, boolean>>(new Map())
+  const opened = useRef(false)
+
+  const pump = useCallback((): undefined => {
+    let running = fetching.current.size - settled.current.size
+    for (const [src, decoded] of wanted.current) {
+      if (!opened.current || running >= FETCHED_AT_ONCE) return undefined
+      if (fetching.current.has(src)) continue
+      const held: Fetching = fetchedAhead(src, decoded, () => {
+        if (fetching.current.get(src) !== held) return undefined
+        settled.current.add(held)
+        return pump()
+      })
+      fetching.current.set(src, held)
+      running += 1
+    }
+    return undefined
+  }, [])
+
+  useEffect(() => {
+    wanted.current = wantedOf(shown, ahead)
+    opened.current = open
+    for (const [src, held] of fetching.current) {
+      const decoded = wanted.current.get(src)
+      const done = settled.current.has(held)
+      if (decoded === held.decoded || (decoded !== undefined && !done)) continue
+      if (!done) held.stop()
+      settled.current.delete(held)
+      fetching.current.delete(src)
+    }
+    pump()
+  }, [shown, ahead, open, pump])
+
+  useEffect(() => {
+    const held = fetching.current
+    return () => {
+      for (const one of held.values()) one.stop()
+    }
+  }, [])
+
+  return undefined
 }
 
 function GradeBadge({ grade }: { grade: Grade }) {
@@ -122,6 +209,7 @@ function Stage({
             key={shown.id}
             src={src}
             alt={shown.slug}
+            fetchPriority="high"
             onLoad={(event) =>
               onSeen({
                 id: shown.id,
@@ -242,12 +330,8 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
 
   useKeyboardBindings(keysFor(grade, following))
 
-  useEffect(() => {
-    for (const one of aheadOf(review)) {
-      const src = sourceOf(one)
-      if (src !== null) new Image().src = src
-    }
-  }, [review])
+  const ahead = useMemo(() => aheadOf(review), [review])
+  useFetchedAhead(shown, ahead, shown !== null && seen?.id === shown.id)
 
   const graded = review.done.length
   const covered = graded + review.total
