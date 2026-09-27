@@ -148,6 +148,7 @@ export function pageFromRule(
     ...(rule.stockScope === undefined ? {} : { stockScope: rule.stockScope }),
     ...(rule.craftShortfall === undefined ? {} : { craftShortfall: rule.craftShortfall }),
     ...(rule.buyShortfall === undefined ? {} : { buyShortfall: rule.buyShortfall }),
+    ...(rule.buyMaxPrice === undefined ? {} : { buyMaxPrice: rule.buyMaxPrice }),
   }
   return { page, conditions: conditionsOf(rule), chain: chainEntriesOf(rule.destinationChain) }
 }

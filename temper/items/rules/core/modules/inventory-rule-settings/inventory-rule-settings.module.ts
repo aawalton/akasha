@@ -26,5 +26,9 @@ export const inventoryRuleSettings = {
       decisionKind: "decision-kind/departure",
       statement: "A rule added lands beside the anchor rule the caller named.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change naming a buy price of zero takes the rule's buy price away.",
+    },
   ],
 } as const satisfies Module

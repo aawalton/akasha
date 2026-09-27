@@ -35,3 +35,14 @@ test("a rule that does not stock never compiles as buying", () => {
   const sell: CategoryRule = { ...STOCK, action: "sell", buyShortfall: true }
   expect("buyShortfall" in compileCategoryRuleToOrdered(sell)).toBe(false)
 })
+
+test("a rule buying its shortfall compiles the most it pays for one", () => {
+  const buying: CategoryRule = { ...STOCK, buyShortfall: true, buyMaxPrice: 40 }
+  expect(compileCategoryRuleToOrdered(buying).buyMaxPrice).toBe(40)
+})
+
+test("a price on a rule not buying, or a price of zero, compiles as no price", () => {
+  expect("buyMaxPrice" in compileCategoryRuleToOrdered({ ...STOCK, buyMaxPrice: 40 })).toBe(false)
+  const zero: CategoryRule = { ...STOCK, buyShortfall: true, buyMaxPrice: 0 }
+  expect("buyMaxPrice" in compileCategoryRuleToOrdered(zero)).toBe(false)
+})

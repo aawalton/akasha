@@ -106,6 +106,7 @@ export interface CompiledOrderedRule extends ResolvedEntry {
   itemIds?: readonly number[]
   craftShortfall?: true
   buyShortfall?: true
+  buyMaxPrice?: number
 }
 
 export const IMPLICIT_TERMINAL_COMPILED_RULE: CompiledOrderedRule = {

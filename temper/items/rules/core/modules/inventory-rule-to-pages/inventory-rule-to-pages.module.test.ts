@@ -280,6 +280,7 @@ test("a rule written out and read back is the rule it was", () => {
     stockScope: "any-character",
     craftShortfall: true,
     buyShortfall: true,
+    buyMaxPrice: 40,
     conditions: { targetQuantity: 1000000 },
     destinationChain: [{ destination: "bank" }],
   }

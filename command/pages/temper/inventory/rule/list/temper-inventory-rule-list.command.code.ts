@@ -23,6 +23,7 @@ const COLUMNS = [
   "destination",
   "craftShortfall",
   "buyShortfall",
+  "buyMaxPrice",
   "controlled",
 ]
 

@@ -32,6 +32,7 @@ export interface RulePage {
   readonly stockScope?: string
   readonly craftShortfall?: boolean
   readonly buyShortfall?: boolean
+  readonly buyMaxPrice?: number
 }
 
 export interface ConditionEntry {
@@ -344,6 +345,7 @@ export function heldFromRow(row: Record<string, unknown>): HeldRule {
       : { stockScope: textAt(row, "stockScope") as string }),
     ...(typeof row.craftShortfall === "boolean" ? { craftShortfall: row.craftShortfall } : {}),
     ...(typeof row.buyShortfall === "boolean" ? { buyShortfall: row.buyShortfall } : {}),
+    ...(typeof row.buyMaxPrice === "number" ? { buyMaxPrice: row.buyMaxPrice } : {}),
   }
   return { page, conditions: conditionRowsIn(row, slug), chain: chainRowsIn(row, slug) }
 }
@@ -372,6 +374,7 @@ export function ruleFromPage(held: HeldRule): CategoryRule {
     ...(page.stockScope === undefined ? {} : { stockScope: page.stockScope as StockScope }),
     ...(page.craftShortfall === undefined ? {} : { craftShortfall: page.craftShortfall }),
     ...(page.buyShortfall === undefined ? {} : { buyShortfall: page.buyShortfall }),
+    ...(page.buyMaxPrice === undefined ? {} : { buyMaxPrice: page.buyMaxPrice }),
     ...(conditions === undefined ? {} : { conditions }),
     ...(destinationChain === undefined ? {} : { destinationChain }),
   }

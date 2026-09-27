@@ -75,6 +75,7 @@ function omitUndefinedRuleFields(patch: Partial<CategoryRule>): Partial<Category
   if (patch.stockScope !== undefined) out.stockScope = patch.stockScope
   if (patch.craftShortfall !== undefined) out.craftShortfall = patch.craftShortfall
   if (patch.buyShortfall !== undefined) out.buyShortfall = patch.buyShortfall
+  if (patch.buyMaxPrice !== undefined) out.buyMaxPrice = patch.buyMaxPrice
   if (patch.destinationChain !== undefined) out.destinationChain = patch.destinationChain
   if (patch.active !== undefined) out.active = patch.active
   if (patch.goal !== undefined) out.goal = patch.goal
@@ -83,7 +84,17 @@ function omitUndefinedRuleFields(patch: Partial<CategoryRule>): Partial<Category
   return out
 }
 
+function withoutZeroPrice(rule: CategoryRule): CategoryRule {
+  if (rule.buyMaxPrice !== 0) return rule
+  const { buyMaxPrice: dropped, ...rest } = rule
+  return rest
+}
+
 export function patchedRule(rule: CategoryRule, patch: Partial<CategoryRule>): CategoryRule {
+  return withoutZeroPrice(routedRule(rule, patch))
+}
+
+function routedRule(rule: CategoryRule, patch: Partial<CategoryRule>): CategoryRule {
   const { destination, destinationChain, ...rest } = { ...rule, ...patch }
   const chained = destinationChain !== undefined && destinationChain.length > 0
   if (patch.destinationChain !== undefined && chained) return { ...rest, destinationChain }
@@ -157,6 +168,7 @@ export function updateCategoryRule(
       | "stockScope"
       | "craftShortfall"
       | "buyShortfall"
+      | "buyMaxPrice"
       | "destinationChain"
       | "active"
       | "goal"
@@ -359,6 +371,7 @@ export function bulkUpdateCategoryRules(
       | "stockScope"
       | "craftShortfall"
       | "buyShortfall"
+      | "buyMaxPrice"
       | "active"
       | "goal"
       | "title"

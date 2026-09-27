@@ -54,6 +54,7 @@ export function categoryRow(rule: CategoryRule): Record<string, unknown> {
     destination: rule.destination,
     craftShortfall: rule.craftShortfall,
     buyShortfall: rule.buyShortfall,
+    buyMaxPrice: rule.buyMaxPrice,
   }
 }
 

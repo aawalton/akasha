@@ -51,3 +51,10 @@ test("an update and a bulk update each leave one destination form", () => {
   expect(one?.destination).toBeUndefined()
   expect(bulk?.destination).toBeUndefined()
 })
+
+test("a change naming a buy price sets it, and a price of zero takes it away", () => {
+  const priced = patchedRule(FLAT, { buyMaxPrice: 40 })
+  expect(priced.buyMaxPrice).toBe(40)
+  expect("buyMaxPrice" in patchedRule(priced, { buyMaxPrice: 0 })).toBe(false)
+  expect(patchedRule(priced, { title: "Stock tools" }).buyMaxPrice).toBe(40)
+})

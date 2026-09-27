@@ -1,6 +1,7 @@
 import type { TakenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { action } from "akasha/command/argument/pages/action.argument.ts"
 import { active } from "akasha/command/argument/pages/active.argument.ts"
+import { buyMaxPrice } from "akasha/command/argument/pages/buy-max-price.argument.ts"
 import { buyShortfall } from "akasha/command/argument/pages/buy-shortfall.argument.ts"
 import { category } from "akasha/command/argument/pages/category.argument.ts"
 import { categoryRuleId } from "akasha/command/argument/pages/category-rule-id.argument.ts"
@@ -55,6 +56,7 @@ const CHANGED = [
   stockScope,
   craftShortfall,
   buyShortfall,
+  buyMaxPrice,
 ]
 
 const PAGES = [...CHANGED, force, categoryRuleId]
@@ -88,6 +90,7 @@ export async function changing(
       : {}),
     ...(taken.craftShortfall !== undefined ? { craftShortfall: taken.craftShortfall } : {}),
     ...(taken.buyShortfall !== undefined ? { buyShortfall: taken.buyShortfall } : {}),
+    ...(taken.buyMaxPrice !== undefined ? { buyMaxPrice: taken.buyMaxPrice } : {}),
     ...(taken.goal !== undefined ? { goal: taken.goal } : {}),
     ...webOf(taken),
   }

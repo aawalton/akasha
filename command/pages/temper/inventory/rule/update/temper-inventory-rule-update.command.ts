@@ -61,5 +61,6 @@ export const temperInventoryRuleUpdate = {
     { argument: "argument/destination-chain" },
     { argument: "argument/craft-shortfall" },
     { argument: "argument/buy-shortfall" },
+    { argument: "argument/buy-max-price" },
   ],
 } as const satisfies Command

@@ -21,6 +21,7 @@ export const RULE_SHOW_COLUMNS = [
   "destination",
   "craftShortfall",
   "buyShortfall",
+  "buyMaxPrice",
 ] as const
 
 export function itemRuleRow(rule: ItemRule): Record<string, unknown> {
