@@ -3101,6 +3101,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/modules/head/site-document-head.module.ts","id":"01a0e2c2-28e0-754e-80b9-1eb3686dd4d3"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.ts","id":"01a0d5ab-cd7e-739f-94a3-f57107bc9e15"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/modules/welcome/site-document-welcome.module.ts","id":"01a0e2a5-7b74-7a34-95c9-61c41a059cba"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-public.boolean-property.ts","id":"01a0e330-5efd-7286-8602-61d0859a5b89"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/properties/site-document-sections.record-property.ts","id":"01a0d5a8-c966-784b-aec0-f6940cb22450"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/site-document.page-type.ts","id":"01a0d5a8-c966-7b3e-afc7-8a6f6ba43874"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/site-document/slide/modules/reading/slide-reading.module.ts","id":"01a0d624-9333-7b61-8905-306e02a3c6ac"}

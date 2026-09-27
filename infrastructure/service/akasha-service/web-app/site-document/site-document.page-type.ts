@@ -16,12 +16,14 @@ export const siteDocument = {
     "module/site-document-drawing",
     "module/site-document-welcome",
     "module/site-document-head",
+    "boolean-property/site-document-public",
     "page-type/slide",
   ],
   properties: [
     { pageProperty: "relation-property/site-document-web-app", required: true, many: false },
     { pageProperty: "text-property/url-path", required: true, many: false },
     { pageProperty: "text-property/site-document-lead", required: false, many: false },
+    { pageProperty: "boolean-property/site-document-public", required: false, many: false },
     {
       pageProperty: "record-property/site-document-sections",
       required: false,
