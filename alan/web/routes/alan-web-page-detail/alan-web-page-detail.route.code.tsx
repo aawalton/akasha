@@ -18,7 +18,9 @@ import {
 type PageDetailLoaderData = Awaited<ReturnType<typeof pageDetailLoader>>["data"]
 
 function buildPageDetailMeta(
-  loaderData: { title: string | null; faviconIdSuffix: string | null } | undefined,
+  loaderData:
+    | { title: string | null; faviconIdSuffix: string | null; faviconIcon: string }
+    | undefined,
   site: string | null
 ): MetaDescriptor[] {
   const title = loaderData?.title ?? site
@@ -28,7 +30,7 @@ function buildPageDetailMeta(
     descriptors.push({
       tagName: "link",
       rel: "icon",
-      href: `/api/nav-icon/${loaderData.faviconIdSuffix}`,
+      href: `/api/nav-icon/${loaderData.faviconIdSuffix}?icon=${encodeURIComponent(loaderData.faviconIcon)}`,
       type: "image/svg+xml",
       sizes: "any",
     })

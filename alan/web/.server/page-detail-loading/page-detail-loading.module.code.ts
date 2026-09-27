@@ -44,13 +44,14 @@ export async function loader({ params }: LoaderFunctionArgs) {
       pageTypeSlug: brandedSlug,
       idSuffix: parsed.idSuffix,
       slug: parsed.slug ?? undefined,
-      select: ["id", "title", "slug"],
+      select: ["id", "title", "slug", "icon"],
     })
     return data({
       kind: "nav" as const,
       pageTypeSlug,
       pageHrefParam,
       faviconIdSuffix: parsed.idSuffix,
+      faviconIcon: navPage && typeof navPage.icon === "string" ? navPage.icon : "",
       title: nameOf(navPage),
     })
   }
@@ -163,6 +164,7 @@ export async function loader({ params }: LoaderFunctionArgs) {
     pageTypeSlug: resolvedSlug,
     id,
     faviconIdSuffix: null,
+    faviconIcon: "",
     title,
     readerPrev,
     readerNext,
