@@ -6,6 +6,7 @@ export const mazzatun = {
   slug: "mazzatun",
   title: "Mazzatun",
   esoItemStyleId: 57,
+  styleName: "Mazzatun",
   collectionIndex: 32,
   sourceDescription: "Ruins of Mazzatun dungeon",
 } as const satisfies TemperMotifStyle
