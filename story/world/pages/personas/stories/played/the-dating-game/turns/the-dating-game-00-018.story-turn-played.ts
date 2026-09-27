@@ -32,5 +32,7 @@ export const theDatingGame00018 = {
     'A little further on, the same voice, small and plaintive: "I just wanted to go to the bathroom."',
     "She holds her place with one finger and looks up at him through the glass.",
   ],
+  issues: ['"holds up one finger. Press it once." - No Prompt'],
   lore: ["lore/the-dating-game-alan"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
