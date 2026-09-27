@@ -22,4 +22,5 @@ export const otherwhere00034 = {
     "A window opens: Synchronization Complete.",
   ],
   lore: ["place/otherwhere-core-chamber"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
