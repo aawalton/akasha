@@ -17,7 +17,7 @@ export const theDatingGameProvoCityCemetery = {
     },
     {
       fact: "At dusk the cemetery is empty, and its paths are unlit.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
 } as const satisfies Place

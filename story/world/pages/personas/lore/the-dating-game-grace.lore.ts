@@ -46,7 +46,7 @@ export const theDatingGameGrace = {
     },
     {
       fact: "Grace walks the Provo City Cemetery at dusk carrying a lit storm lantern.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
   secrets: "jsonl",
