@@ -100,6 +100,10 @@ export const otherwhereCoreChamber = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "One hand on the trunk does not sync a Librarian; the core warms to it and waits for the second.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Emergency protocols hamper movement near the core, so the core seems further than it is.",
       knowers: ["lore-disclosure/game-master"],
     },
