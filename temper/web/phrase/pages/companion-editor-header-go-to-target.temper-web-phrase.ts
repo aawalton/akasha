@@ -5,6 +5,4 @@ export const companionEditorHeaderGoToTarget = {
   type: "page-type/temper-web-phrase",
   slug: "companion-editor-header-go-to-target",
   title: "Go to Target build",
-  key: "companion-editor-header--go-to-target",
-  displayOrder: 3,
 } as const satisfies TemperWebPhrase

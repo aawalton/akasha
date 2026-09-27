@@ -5,6 +5,4 @@ export const companionEditorHeaderUntitledBuild = {
   type: "page-type/temper-web-phrase",
   slug: "companion-editor-header-untitled-build",
   title: "Untitled Build",
-  key: "companion-editor-header--untitled-build",
-  displayOrder: 1,
 } as const satisfies TemperWebPhrase

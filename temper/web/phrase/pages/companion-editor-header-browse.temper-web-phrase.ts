@@ -5,6 +5,4 @@ export const companionEditorHeaderBrowse = {
   type: "page-type/temper-web-phrase",
   slug: "companion-editor-header-browse",
   title: "Browse",
-  key: "companion-editor-header--browse",
-  displayOrder: 8,
 } as const satisfies TemperWebPhrase

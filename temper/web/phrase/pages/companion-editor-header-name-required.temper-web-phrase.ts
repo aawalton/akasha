@@ -5,6 +5,4 @@ export const companionEditorHeaderNameRequired = {
   type: "page-type/temper-web-phrase",
   slug: "companion-editor-header-name-required",
   title: "Build name is required",
-  key: "companion-editor-header--name-required",
-  displayOrder: 2,
 } as const satisfies TemperWebPhrase

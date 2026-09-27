@@ -10,6 +10,16 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import type { BuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { BuildActionButtons } from "akasha/temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionEditorHeaderBrowse } from "akasha/temper/web/phrase/pages/companion-editor-header-browse.temper-web-phrase.ts"
+import { companionEditorHeaderGoToLive } from "akasha/temper/web/phrase/pages/companion-editor-header-go-to-live.temper-web-phrase.ts"
+import { companionEditorHeaderGoToTarget } from "akasha/temper/web/phrase/pages/companion-editor-header-go-to-target.temper-web-phrase.ts"
+import { companionEditorHeaderLive } from "akasha/temper/web/phrase/pages/companion-editor-header-live.temper-web-phrase.ts"
+import { companionEditorHeaderNameRequired } from "akasha/temper/web/phrase/pages/companion-editor-header-name-required.temper-web-phrase.ts"
+import { companionEditorHeaderRemix } from "akasha/temper/web/phrase/pages/companion-editor-header-remix.temper-web-phrase.ts"
+import { companionEditorHeaderSetTarget } from "akasha/temper/web/phrase/pages/companion-editor-header-set-target.temper-web-phrase.ts"
+import { companionEditorHeaderTarget } from "akasha/temper/web/phrase/pages/companion-editor-header-target.temper-web-phrase.ts"
+import { companionEditorHeaderUntitledBuild } from "akasha/temper/web/phrase/pages/companion-editor-header-untitled-build.temper-web-phrase.ts"
+import { companionEditorHeaderViewOnly } from "akasha/temper/web/phrase/pages/companion-editor-header-view-only.temper-web-phrase.ts"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"
 
 interface CompanionEditorHeaderProps {
@@ -46,11 +56,11 @@ export function CompanionEditorHeader({
   remixDisabled,
 }: CompanionEditorHeaderProps) {
   const phrase = usePhrase()
-  const untitled = phrase("companion-editor-header--untitled-build")
+  const untitled = phrase(companionEditorHeaderUntitledBuild.slug)
   const visibilityLabel =
     visibility === "live"
-      ? phrase("companion-editor-header--live")
-      : phrase("companion-editor-header--target")
+      ? phrase(companionEditorHeaderLive.slug)
+      : phrase(companionEditorHeaderTarget.slug)
   return (
     <div className="flex items-center justify-between gap-4">
       <div className="flex min-w-0 items-center gap-4">
@@ -68,7 +78,7 @@ export function CompanionEditorHeader({
               onChange={(v) => onUpdateMeta({ name: v })}
               placeholder={untitled}
               validate={(v) =>
-                v.trim().length === 0 ? phrase("companion-editor-header--name-required") : null
+                v.trim().length === 0 ? phrase(companionEditorHeaderNameRequired.slug) : null
               }
               className={PAGE_TITLE_CLASSES}
             />
@@ -80,8 +90,8 @@ export function CompanionEditorHeader({
                   href={partnerBuildUrl}
                   title={
                     visibility === "live"
-                      ? phrase("companion-editor-header--go-to-target")
-                      : phrase("companion-editor-header--go-to-live")
+                      ? phrase(companionEditorHeaderGoToTarget.slug)
+                      : phrase(companionEditorHeaderGoToLive.slug)
                   }
                 >
                   {visibilityLabel}
@@ -95,7 +105,7 @@ export function CompanionEditorHeader({
           ) : !isOwner ? (
             <Badge variant="elevation-muted" className="shrink-0 gap-1">
               <Eye className="h-3 w-3" />
-              {phrase("companion-editor-header--view-only")}
+              {phrase(companionEditorHeaderViewOnly.slug)}
             </Badge>
           ) : null}
         </div>
@@ -107,7 +117,7 @@ export function CompanionEditorHeader({
               <Link href={browseHref}>
                 <Search className="h-4 w-4" />
                 <span className="@[1016px]:inline hidden">
-                  {phrase("companion-editor-header--browse")}
+                  {phrase(companionEditorHeaderBrowse.slug)}
                 </span>
               </Link>
             </Button>
@@ -125,7 +135,7 @@ export function CompanionEditorHeader({
               >
                 <Target className="h-4 w-4" />
                 <span className="@[1016px]:inline hidden">
-                  {phrase("companion-editor-header--set-target")}
+                  {phrase(companionEditorHeaderSetTarget.slug)}
                 </span>
               </Button>
             )}
@@ -138,7 +148,7 @@ export function CompanionEditorHeader({
           >
             <Copy className="h-4 w-4" />
             <span className="@[1016px]:inline hidden">
-              {phrase("companion-editor-header--remix")}
+              {phrase(companionEditorHeaderRemix.slug)}
             </span>
           </Button>
         </div>

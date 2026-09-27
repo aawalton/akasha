@@ -5,6 +5,4 @@ export const companionEditorHeaderViewOnly = {
   type: "page-type/temper-web-phrase",
   slug: "companion-editor-header-view-only",
   title: "View Only",
-  key: "companion-editor-header--view-only",
-  displayOrder: 7,
 } as const satisfies TemperWebPhrase
