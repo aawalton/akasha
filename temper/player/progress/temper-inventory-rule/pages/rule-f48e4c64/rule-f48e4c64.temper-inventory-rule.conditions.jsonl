@@ -1,3 +1,3 @@
-{"id":"01a0ded2-f2ce-7026-bfe6-63141a4aedda","conditionField":"temper-condition-field/max-quality","conditionValue":"3"}
-{"id":"01a0ded2-f2ce-7128-bf3c-5c60749e4052","conditionField":"temper-condition-field/quality-op","conditionValue":"temper-comparison-op/at-least"}
-{"id":"01a0ded2-f2ce-7011-a07c-d81453d1770e","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
+{"id":"01a0e31d-7173-781c-9071-7b975dfafad8","conditionField":"temper-condition-field/max-quality","conditionValue":"3"}
+{"id":"01a0e31d-7173-7d4e-945a-185e04694b29","conditionField":"temper-condition-field/quality-op","conditionValue":"temper-comparison-op/at-least"}
+{"id":"01a0e31d-7173-7763-bba1-147ec4492273","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}

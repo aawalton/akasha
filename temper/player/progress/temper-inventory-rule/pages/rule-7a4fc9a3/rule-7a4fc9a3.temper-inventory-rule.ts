@@ -7,7 +7,7 @@ export const rule7a4fc9a3 = {
   destination: "house-storage:4677",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/crown-repair-kits",
-  displayOrder: 2,
+  displayOrder: 3,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T19:27:29.381Z",

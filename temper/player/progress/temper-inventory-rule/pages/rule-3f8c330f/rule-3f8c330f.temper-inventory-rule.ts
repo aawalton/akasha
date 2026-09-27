@@ -11,7 +11,7 @@ export const rule3f8c330f = {
   destination: "guild-bank:Walton Mountain",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/container-stackable",
-  displayOrder: 8,
+  displayOrder: 9,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T21:31:48.189Z",

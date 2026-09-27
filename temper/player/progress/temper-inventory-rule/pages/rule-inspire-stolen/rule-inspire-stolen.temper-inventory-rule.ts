@@ -11,7 +11,7 @@ export const ruleInspireStolen = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/equipment",
-  displayOrder: 47,
+  displayOrder: 48,
   action: "temper-item-action/fence-launder",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

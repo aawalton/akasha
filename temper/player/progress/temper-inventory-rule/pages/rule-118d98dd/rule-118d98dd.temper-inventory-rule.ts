@@ -7,7 +7,7 @@ export const rule118d98dd = {
   destination: "character:8796093022338107",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/container-stackable",
-  displayOrder: 9,
+  displayOrder: 10,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T20:27:33.382Z",

@@ -11,7 +11,7 @@ export const ruleTreasuresStolenFence = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/treasures",
-  displayOrder: 72,
+  displayOrder: 73,
   action: "temper-item-action/fence-sell",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

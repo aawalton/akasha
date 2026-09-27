@@ -12,7 +12,7 @@ export const ruleGoldStock = {
   stockScope: "any-character",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/currency-gold",
-  displayOrder: 5,
+  displayOrder: 6,
   action: "temper-item-action/stock",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

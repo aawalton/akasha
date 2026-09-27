@@ -11,7 +11,7 @@ export const ruleEquipmentDeconstruct = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/equipment",
-  displayOrder: 58,
+  displayOrder: 59,
   action: "temper-item-action/deconstruct",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

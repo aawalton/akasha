@@ -12,7 +12,7 @@ export const ruleCompanionEpicNothing = {
   destination: "bank",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/companion",
-  displayOrder: 13,
+  displayOrder: 14,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-01T21:39:51.449Z",

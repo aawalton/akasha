@@ -7,7 +7,7 @@ export const rule2524af23 = {
   destination: "character:8796093022338107",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/survey-reports",
-  displayOrder: 52,
+  displayOrder: 53,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T20:31:51.801Z",

@@ -11,7 +11,7 @@ export const ruleFurnishingsHouseStorage = {
   destination: "furniture-vault",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/furnishings",
-  displayOrder: 41,
+  displayOrder: 42,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

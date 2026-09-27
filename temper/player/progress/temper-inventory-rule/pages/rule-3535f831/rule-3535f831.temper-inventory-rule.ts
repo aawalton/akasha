@@ -7,7 +7,7 @@ export const rule3535f831 = {
   destination: "house-storage:4677",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/crown-items",
-  displayOrder: 1,
+  displayOrder: 2,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-06-02T19:27:28.980Z",

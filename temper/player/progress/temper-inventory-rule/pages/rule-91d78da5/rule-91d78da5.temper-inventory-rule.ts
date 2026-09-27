@@ -9,7 +9,7 @@ export const rule91d78da5 = {
     "Stocks 200 lockpicks on every character by priority and banks the rest; buys the shortfall of 200 per character at a merchant.",
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
-  displayOrder: 87,
+  displayOrder: 0,
   action: "temper-item-action/stock",
   active: true,
   updatedAt: "2026-09-27T13:45:16.444Z",

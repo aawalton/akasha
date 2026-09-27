@@ -11,7 +11,7 @@ export const ruleContainersOpen = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/containers",
-  displayOrder: 12,
+  displayOrder: 13,
   action: "temper-item-action/open",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

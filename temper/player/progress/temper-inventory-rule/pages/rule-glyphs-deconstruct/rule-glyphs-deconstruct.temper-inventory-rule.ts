@@ -11,7 +11,7 @@ export const ruleGlyphsDeconstruct = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/glyphs",
-  displayOrder: 60,
+  displayOrder: 61,
   action: "temper-item-action/deconstruct",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

@@ -9,7 +9,7 @@ export const rule52020b3f = {
   destination: "character:8796093022338107",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/scrolls",
-  displayOrder: 0,
+  displayOrder: 1,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-09-12T12:02:38.463Z",
