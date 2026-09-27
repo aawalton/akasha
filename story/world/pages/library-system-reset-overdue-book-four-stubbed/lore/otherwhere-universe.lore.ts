@@ -108,6 +108,14 @@ export const otherwhereUniverse = {
       fact: "The Library's interface shows a status as a name and flat fields, as Status: Alert.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Before she syncs with the core, the interface answers nothing she asks of it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Library keeps no character sheet; what it shows of a person is what it knows of her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
