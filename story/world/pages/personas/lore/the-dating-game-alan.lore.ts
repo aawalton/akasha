@@ -172,5 +172,13 @@ export const theDatingGameAlan = {
         "character-other/the-dating-game-echo",
       ],
     },
+    {
+      fact: "Alan told Echo he's hers for as long as she wants him.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "Echo has begun reading Alan's one-of-a-kind Wandering Inn aloud to him from the booth.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore
