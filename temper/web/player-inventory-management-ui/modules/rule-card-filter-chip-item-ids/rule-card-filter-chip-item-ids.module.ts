@@ -19,5 +19,9 @@ export const ruleCardFilterChipItemIds = {
       decisionKind: "decision-kind/departure",
       statement: "The chip's remove label is the remove-filter phrase.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chip's wording around the item names is a rule card phrase.",
+    },
   ],
 } as const satisfies Module
