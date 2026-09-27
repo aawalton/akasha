@@ -73,11 +73,6 @@ export function onLureOfTheSea(this: void): undefined {
   PlaySound(SOUNDS.JUSTICE_NOW_KOS)
 }
 
-export function onPlatformFall(this: void): undefined {
-  CRUTCH.InfoPanel.CountDownDuration(PANEL_WINTER_STORM_INDEX, winterStormPrefix, 60000)
-  CRUTCH.InfoPanel.CountDownDuration(PANEL_SIREN_INDEX, sirenPrefix, 25300)
-}
-
 export function onCombat(this: void): undefined {
   if (isTaleria()) {
     if (CRUTCH.savedOptions.dreadsailreef.infoPanel.showMaelstrom) {
