@@ -6,4 +6,11 @@ export const itemTooltipPopover = {
   slug: "item-tooltip-popover",
   definition: "the popover drawing an item's tooltip",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The popover's loading, missing-detail notes and trigger label are web phrase pages.",
+    },
+  ],
 } as const satisfies Module

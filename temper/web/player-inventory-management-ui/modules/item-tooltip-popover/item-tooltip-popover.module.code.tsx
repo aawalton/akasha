@@ -6,6 +6,12 @@ import {
   PopoverTrigger,
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import type { ItemTooltipInstance } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { itemTooltipPopoverLoading } from "akasha/temper/web/phrase/pages/item-tooltip-popover-loading.temper-web-phrase.ts"
+import { itemTooltipPopoverLookupFailed } from "akasha/temper/web/phrase/pages/item-tooltip-popover-lookup-failed.temper-web-phrase.ts"
+import { itemTooltipPopoverNoReference } from "akasha/temper/web/phrase/pages/item-tooltip-popover-no-reference.temper-web-phrase.ts"
+import { itemTooltipPopoverUnreadableLink } from "akasha/temper/web/phrase/pages/item-tooltip-popover-unreadable-link.temper-web-phrase.ts"
+import { itemTooltipPopoverView } from "akasha/temper/web/phrase/pages/item-tooltip-popover-view.temper-web-phrase.ts"
 import { ItemTooltip } from "akasha/temper/web/player-inventory-management-ui/modules/item-tooltip/item-tooltip.module.code.tsx"
 import { useItemTooltipData } from "akasha/temper/web/player-inventory-management-ui/modules/use-item-tooltip-data/use-item-tooltip-data.module.code.ts"
 import { useState } from "react"
@@ -24,11 +30,12 @@ function ItemTooltipContent({
   instance: ItemTooltipInstance
 }) {
   const { data, isLoading, lookupFailed } = useItemTooltipData(itemLink, instance)
+  const phrase = usePhrase()
 
   if (isLoading) {
     return (
       <p style={{ color: "var(--secondary)", fontSize: "13px", margin: 0, padding: "4px" }}>
-        Loading...
+        {phrase(itemTooltipPopoverLoading.slug)}
       </p>
     )
   }
@@ -36,7 +43,7 @@ function ItemTooltipContent({
   if (!data) {
     return (
       <p style={{ color: "var(--tertiary)", fontSize: "13px", margin: 0, padding: "4px" }}>
-        Temper could not read this item's link, so it cannot look up any details.
+        {phrase(itemTooltipPopoverUnreadableLink.slug)}
       </p>
     )
   }
@@ -44,9 +51,9 @@ function ItemTooltipContent({
   if (!data.referenceData) {
     return (
       <p style={{ color: "var(--tertiary)", fontSize: "13px", margin: 0, padding: "4px" }}>
-        {lookupFailed
-          ? "Temper's item lookup did not answer, so these details are missing right now rather than absent. Reopening the tooltip will try again."
-          : "Temper has no reference entry for this item yet."}
+        {phrase(
+          lookupFailed ? itemTooltipPopoverLookupFailed.slug : itemTooltipPopoverNoReference.slug
+        )}
       </p>
     )
   }
@@ -56,6 +63,7 @@ function ItemTooltipContent({
 
 export function ItemTooltipPopover({ itemLink, instance, children }: ItemTooltipPopoverProps) {
   const [open, setOpen] = useState(false)
+  const phrase = usePhrase()
 
   if (!instance) return null
 
@@ -67,7 +75,7 @@ export function ItemTooltipPopover({ itemLink, instance, children }: ItemTooltip
         ) : (
           <button
             type="button"
-            aria-label="View item tooltip"
+            aria-label={phrase(itemTooltipPopoverView.slug)}
             style={{
               background: "transparent",
               border: "none",
