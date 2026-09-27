@@ -6,4 +6,14 @@ export const ruleCardControlledConditions = {
   slug: "rule-card-controlled-conditions",
   definition: "the conditions a rule card draws from what it is told",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chip is named by its condition field's page, and none is drawn before.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A negated chip is named by the option label its filter gives.",
+    },
+  ],
 } as const satisfies Module
