@@ -10,7 +10,7 @@ export const theDatingGame00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "\"This side path will take us up to Khyv peak. It's a bit of a longer hike, about two and a half hours from canyon entrance to the top, but the views are great. It's a little harder on conversations though, since the trail is narrower, so I'm thinking lets stay on the main trail for now. The main trail also has the best drinking fountains, fresh cold mountain spring water.\"",
   beats: [
@@ -31,4 +31,5 @@ export const theDatingGame00006 = {
   ],
   lore: ["place/the-dating-game-rock-canyon"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

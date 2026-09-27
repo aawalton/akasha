@@ -61,7 +61,11 @@ export const theDatingGameRockCanyon = {
     },
     {
       fact: "The main trail climbs on up the canyon into shade that grows deeper and colder.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
     {
       fact: "A narrow side path drops off the trail through the willows toward the creek.",
@@ -73,19 +77,35 @@ export const theDatingGameRockCanyon = {
     },
     {
       fact: "The side path ends where the creek pools, dark and still, under an overhanging ledge of pink stone.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
     {
       fact: "Past the pool, the side path crosses the creek and climbs a narrow trail to Kyhv Peak.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
     {
       fact: "Kyhv Peak is about two and a half hours' hike from the canyon mouth, with wide views from the top.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
     {
       fact: "The main trail passes drinking fountains that run cold mountain spring water.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
   ],
 } as const satisfies Place
