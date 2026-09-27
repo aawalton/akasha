@@ -1,7 +1,9 @@
 import { expect, test } from "bun:test"
+import { NO_CODE } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
   foundationHealthFor,
   PRESENCE_ASKED,
+  PRESENCE_AT_MOST_MS,
   presenceBrokenIn,
 } from "akasha/infrastructure/service/akasha-service/cluster-foundation/modules/foundation-health/foundation-health.module.code.ts"
 import type { Ran } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/workload-deploying/workload-deploying.module.code.ts"
@@ -31,6 +33,12 @@ test("a foundation the cluster lacks part of is broken with each thing the clust
 test("a cluster refusing with nothing said is broken with how kubectl exited", () => {
   expect(presenceBrokenIn({ ...LACKING, stderr: "" })).toBe(
     "kubectl get -f - --output name exited 1"
+  )
+})
+
+test("a cluster answering nothing within the bound is broken, named as killed", () => {
+  expect(presenceBrokenIn({ ...LACKING, code: NO_CODE, stderr: "" })).toBe(
+    `kubectl get -f - --output name was killed after ${PRESENCE_AT_MOST_MS / 1000}s and said nothing`
   )
 })
 

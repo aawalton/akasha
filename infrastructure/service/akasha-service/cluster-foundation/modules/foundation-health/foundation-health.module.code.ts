@@ -1,3 +1,4 @@
+import { NO_CODE } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { foundationNamed } from "akasha/infrastructure/service/akasha-service/cluster-foundation/modules/foundation-applying/foundation-applying.module.code.ts"
 import {
   planFor,
@@ -14,12 +15,21 @@ const DOCUMENT_BREAK = "\n---\n"
 
 export const PRESENCE_ASKED: readonly string[] = ["get", "-f", "-", "--output", "name"]
 
+export const PRESENCE_AT_MOST_MS = 20_000
+
 export type AskedOn = (argv: readonly string[], text: string) => Ran
 
 type Emitted = { readonly yaml: string } | { readonly why: string }
 
+function askingOn(argv: readonly string[], text: string): Ran {
+  return runKubectlOn(argv, text, PRESENCE_AT_MOST_MS)
+}
+
 export function presenceBrokenIn(ran: Ran): string | null {
   if (ran.code === 0) return null
+  if (ran.code === NO_CODE) {
+    return `kubectl ${ran.argv.join(" ")} was killed after ${PRESENCE_AT_MOST_MS / 1000}s and said nothing`
+  }
   const said = ran.stderr
     .split("\n")
     .map((line) => line.trim())
@@ -41,7 +51,7 @@ async function emittedBy(root: string, slug: string): Promise<Emitted> {
 
 export async function foundationHealthFor(
   root: string,
-  ask: AskedOn = runKubectlOn
+  ask: AskedOn = askingOn
 ): Promise<readonly Verdict[]> {
   const verdicts: Verdict[] = []
   for (const one of valuesOfType(root, CLUSTER_FOUNDATION_TYPE)) {

@@ -35,6 +35,10 @@ export const foundationHealth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A foundation the cluster has not answered for in twenty seconds is broken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A foundation whose manifests could not be made is broken.",
     },
     {
