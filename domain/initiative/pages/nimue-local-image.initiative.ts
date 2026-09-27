@@ -41,7 +41,7 @@ export const nimueLocalImage = {
       statement:
         "image-intelligence names the best open-weight way to read a picture on each machine.",
       workingMemory:
-        "Read off a picture: persona, relationship-level (the closeness rung, its maturity rating), subjects, and a free tag list per facet that the agent then folds. Rungs 5 and 6 need a model that never refuses. Persona is matched by face embedding against her anchor. Candidates: Qwen3.6-35B-A3B uncensored on the 5080 via llama.cpp, Qwen3.8-27B on the Macs, JoyCaption Beta One for captions, ArcFace with AdaFace for persona.",
+        "The MacBook way is chosen and has filled every field on the library. Still open: the way on the 5080 and on the Mac Studio. Face scores for every image are in faces.jsonl under ~/image-intel-persona on the MacBook, so a new rule is tested without a rerun.",
     },
   ],
   constraints: [
