@@ -50,7 +50,19 @@ const GRADED: readonly string[] = [
 ]
 
 export const GEAR_READS: readonly Read[] = [
-  [temperQuality.slug, ["slug", "title", "available", "hashPlace", "esoDisplayQuality"]],
+  [
+    temperQuality.slug,
+    [
+      "slug",
+      "title",
+      "available",
+      "hashPlace",
+      "esoDisplayQuality",
+      "armorLevelScale",
+      "weaponLevelScale",
+      "setBonusScale",
+    ],
+  ],
   [temperArmorSlot.slug, ["slug", "title", "icon", "hashPlace", "equipType"]],
   [temperJewelrySlot.slug, ["slug", "title", "icon", "jewelryType", "hashPlace"]],
   [temperJewelryType.slug, ["slug", "title", "equipType"]],
@@ -67,6 +79,8 @@ export const GEAR_READS: readonly Read[] = [
       "hashPlace",
       "armorType",
       "esoWeaponTypeNumber",
+      "levelSlope",
+      "levelIntercept",
     ],
   ],
   [temperGearGrade.slug, ["slug", "thing", "quality", "metric", "value", "rawValue"]],
@@ -85,6 +99,8 @@ export const GEAR_READS: readonly Read[] = [
       "skillLineId",
       "hashPlace",
       "esoWeaponTypeNumber",
+      "levelSlope",
+      "levelIntercept",
     ],
   ],
 ]

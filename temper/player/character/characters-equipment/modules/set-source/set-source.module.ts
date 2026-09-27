@@ -12,5 +12,9 @@ export const setSource = {
       decisionKind: "decision-kind/constraint",
       statement: "A source has the bonuses whose piece count the worn count reaches.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What each worn piece's quality counts for is read from its quality page.",
+    },
   ],
 } as const satisfies Module

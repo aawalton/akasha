@@ -6,4 +6,14 @@ export const levelScaling = {
   slug: "level-scaling",
   definition: "what a piece of gear is worth at a level, before its trait and its glyph",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A piece's slope and intercept come from its weight or weapon type page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A piece's quality share comes from its quality page.",
+    },
+  ],
 } as const satisfies Module

@@ -13,4 +13,6 @@ export const noType = {
   validSlots: ["temper-weapon-slot/main-hand"],
   hashPlace: 10,
   esoWeaponTypeNumber: 0,
+  levelSlope: 0,
+  levelIntercept: 0,
 } as const satisfies TemperWeaponType

@@ -11,4 +11,7 @@ export const superior = {
   hashPlace: 3,
   esoDisplayQuality: 3,
   gameName: "Superior",
+  weaponLevelScale: 0.8299625468164794,
+  armorLevelScale: 0.9427,
+  setBonusScale: 0.941,
 } as const satisfies TemperQuality

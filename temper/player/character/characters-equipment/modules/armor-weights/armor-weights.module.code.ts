@@ -6,6 +6,7 @@ import {
 } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import {
   type EquipmentQualityId,
+  qualityScale,
   resolveQuality,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type {
@@ -27,7 +28,11 @@ import type {
   ArmorItem,
   ItemLevel,
 } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
-import { getArmorBaseValueForLevel } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
+import {
+  type LevelScaling,
+  levelScaledWorth,
+  levelScalingOf,
+} from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
 interface ArmorWeightTemplate {
@@ -36,6 +41,7 @@ interface ArmorWeightTemplate {
   readonly baseValue: number
   readonly skillLineId: SkillLineId
   readonly isStandard: boolean
+  readonly levelScaling: LevelScaling | undefined
 }
 
 type StandardArmorWeightTemplate = ArmorWeightTemplate & { readonly id: StandardArmorWeightId }
@@ -64,6 +70,7 @@ function weightOf(row: Row): ArmorWeightTemplate {
     baseValue: Number(row.baseValue),
     skillLineId: slugOf(row.skillLineId) as SkillLineId,
     isStandard: row.isStandard === true,
+    levelScaling: levelScalingOf(row.levelSlope, row.levelIntercept),
   }
 }
 
@@ -91,21 +98,27 @@ function baseValueOf(weight: ArmorWeightId, quality: EquipmentQualityId): number
   return baseValues.get(`${weight}/${quality}`) ?? 0
 }
 
+function levelShare(
+  weight: ArmorWeightId,
+  isStandard: boolean,
+  quality: EquipmentQualityId
+): number {
+  if (isStandard) return qualityScale(quality, "armorLevelScale")
+  return baseValueOf(weight, quality) / baseValueOf(weight, "legendary")
+}
+
 function getArmorValue(
   type: ArmorTypeId,
   weight: ArmorWeightId,
   quality: EquipmentQualityId = "legendary",
   level?: ItemLevel
 ): number {
-  let baseValue: number
-  if (
-    level !== undefined &&
-    (weight === "light" || weight === "medium" || weight === "heavy" || weight === "shield")
-  ) {
-    baseValue = getArmorBaseValueForLevel(level, weight, quality)
-  } else {
-    baseValue = baseValueOf(weight, quality)
-  }
+  const made = armorWeights.data[weight]
+  const scaling = made.levelScaling
+  const baseValue =
+    level !== undefined && scaling !== undefined
+      ? levelScaledWorth(level, scaling, levelShare(weight, made.isStandard, quality))
+      : baseValueOf(weight, quality)
 
   const multiplier = getArmorMultiplier(type)
 

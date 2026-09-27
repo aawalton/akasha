@@ -11,4 +11,7 @@ export const fine = {
   hashPlace: 2,
   esoDisplayQuality: 2,
   gameName: "Fine",
+  weaponLevelScale: 0.8299625468164794,
+  armorLevelScale: 0.9427,
+  setBonusScale: 0.941,
 } as const satisfies TemperQuality

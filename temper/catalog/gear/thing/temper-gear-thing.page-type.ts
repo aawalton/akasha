@@ -15,6 +15,8 @@ export const temperGearThing = {
     "text-property/essence-rune",
     "text-property/glyph-name",
     "text-property/item-level",
+    "number-property/level-slope",
+    "number-property/level-intercept",
     "one-of-property/valid-slots",
   ],
   properties: [

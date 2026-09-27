@@ -12,4 +12,6 @@ export const light = {
   craftedGlyphItemId: 26582,
   hashPlace: 1,
   armorType: 1,
+  levelSlope: 2,
+  levelIntercept: 28.5,
 } as const satisfies TemperArmorWeight

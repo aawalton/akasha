@@ -22,8 +22,14 @@ export const temperWeaponType = {
     { pageProperty: "relation-property/skill-line", required: false, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/eso-weapon-type-number", required: true, many: false },
+    { pageProperty: "number-property/level-slope", required: true, many: false },
+    { pageProperty: "number-property/level-intercept", required: true, many: false },
   ],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon type states how its legendary power grows with item level.",
+    },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A weapon type's hash place is the index a build hash has for it.",

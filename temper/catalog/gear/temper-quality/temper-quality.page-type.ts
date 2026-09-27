@@ -11,6 +11,9 @@ export const temperQuality = {
     "data-table/quality-ids",
     "number-property/eso-display-quality",
     "text-property/game-name",
+    "number-property/armor-level-scale",
+    "number-property/weapon-level-scale",
+    "number-property/set-bonus-scale",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -19,8 +22,15 @@ export const temperQuality = {
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/eso-display-quality", required: true, many: false },
     { pageProperty: "text-property/game-name", required: false, many: false },
+    { pageProperty: "number-property/armor-level-scale", required: false, many: false },
+    { pageProperty: "number-property/weapon-level-scale", required: false, many: false },
+    { pageProperty: "number-property/set-bonus-scale", required: false, many: false },
   ],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A graded quality states how it scales level-made armor, weapons and set bonuses.",
+    },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A quality's hash place is the index a build hash has for it.",

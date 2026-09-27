@@ -14,4 +14,6 @@ export const restorationStaff = {
   skillLineId: "temper-skill-line/weapon-restoration-staff",
   hashPlace: 11,
   esoWeaponTypeNumber: 9,
+  levelSlope: 14,
+  levelIntercept: 313,
 } as const satisfies TemperWeaponType

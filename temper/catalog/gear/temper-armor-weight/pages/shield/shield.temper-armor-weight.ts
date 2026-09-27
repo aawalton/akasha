@@ -11,4 +11,6 @@ export const shield = {
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
   hashPlace: 4,
   esoWeaponTypeNumber: 14,
+  levelSlope: 20,
+  levelIntercept: 260,
 } as const satisfies TemperArmorWeight

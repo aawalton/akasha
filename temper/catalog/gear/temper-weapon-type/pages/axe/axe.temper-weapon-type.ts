@@ -13,4 +13,6 @@ export const axe = {
   validSlots: ["temper-weapon-slot/main-hand"],
   hashPlace: 0,
   esoWeaponTypeNumber: 1,
+  levelSlope: 14,
+  levelIntercept: 313,
 } as const satisfies TemperWeaponType

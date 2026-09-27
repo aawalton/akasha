@@ -1,5 +1,8 @@
 import type { Slug } from "akasha/page/properties/slug.text-property.types.ts"
-import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import {
+  type EquipmentQualityId,
+  qualityScale,
+} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type SetCatalog,
   setsAll,
@@ -67,21 +70,13 @@ export function isSetSourceId(value: string): value is SetSourceId {
   return setSources()[value] !== undefined
 }
 
-const QUALITY_MULTIPLIERS: Record<EquipmentQualityId, number> = {
-  normal: 0.9067,
-  fine: 0.941,
-  superior: 0.941,
-  epic: 0.965,
-  legendary: 1.0,
-}
-
 function calculateSetBonusMultiplier(pieceQualities: readonly EquipmentQualityId[]): number {
   if (pieceQualities.length === 0) {
     return 1.0
   }
 
   const totalMultiplier = pieceQualities.reduce(
-    (sum, quality) => sum + QUALITY_MULTIPLIERS[quality],
+    (sum, quality) => sum + qualityScale(quality, "setBonusScale"),
     0
   )
   const avgMultiplier = totalMultiplier / pieceQualities.length

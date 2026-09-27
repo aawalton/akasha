@@ -1,5 +1,8 @@
 import type { DataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
-import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import {
+  type EquipmentQualityId,
+  qualityScale,
+} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   gearTableOf,
   heldGearTable,
@@ -8,7 +11,11 @@ import {
 } from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type { ItemLevel } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
-import { getWeaponPowerForLevel } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
+import {
+  type LevelScaling,
+  levelScaledWorth,
+  levelScalingOf,
+} from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 
 interface WeaponTypeTemplate {
   readonly id: WeaponTypeId
@@ -19,13 +26,12 @@ interface WeaponTypeTemplate {
   readonly isTwoHanded: boolean
   readonly enchantmentMultiplier: number
   readonly skillLineId: string
+  readonly levelScaling: LevelScaling | undefined
 }
 
 type Row = Readonly<Record<string, unknown>>
 
 const TYPE_PAGES = "temper-weapon-type/"
-
-const TWO_HANDED_MELEE_LINE = "weapon-two-handed"
 
 const ONE_HAND_LINES = "weapon-one-hand"
 
@@ -53,6 +59,7 @@ function typeOf(row: Row): WeaponTypeTemplate {
     isTwoHanded: row.isTwoHanded === true,
     enchantmentMultiplier: Number(row.enchantmentMultiplier),
     skillLineId: lineOf(row),
+    levelScaling: levelScalingOf(row.levelSlope, row.levelIntercept),
   }
 }
 
@@ -85,9 +92,10 @@ export function getWeaponPower(
     return 0
   }
 
-  if (level !== undefined) {
-    const isTwoHandedMelee = weaponTypes.data[weaponType].skillLineId === TWO_HANDED_MELEE_LINE
-    return getWeaponPowerForLevel(level, isTwoHandedMelee, quality)
+  const scaling = weaponTypes.data[weaponType].levelScaling
+  if (level !== undefined && scaling !== undefined) {
+    const share = qualityScale(quality, "weaponLevelScale")
+    return Math.floor(levelScaledWorth(level, scaling, share))
   }
 
   return powerOf(weaponType, quality)

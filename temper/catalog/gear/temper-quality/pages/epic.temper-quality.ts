@@ -11,4 +11,7 @@ export const epic = {
   hashPlace: 4,
   esoDisplayQuality: 4,
   gameName: "Epic",
+  weaponLevelScale: 0.847940074906367,
+  armorLevelScale: 0.9656,
+  setBonusScale: 0.965,
 } as const satisfies TemperQuality

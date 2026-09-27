@@ -12,4 +12,6 @@ export const medium = {
   craftedGlyphItemId: 26588,
   hashPlace: 2,
   armorType: 2,
+  levelSlope: 3,
+  levelIntercept: 41.5,
 } as const satisfies TemperArmorWeight

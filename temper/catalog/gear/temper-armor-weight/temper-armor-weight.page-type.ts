@@ -20,8 +20,15 @@ export const temperArmorWeight = {
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/armor-type", required: false, many: false },
     { pageProperty: "number-property/eso-weapon-type-number", required: false, many: false },
+    { pageProperty: "number-property/level-slope", required: false, many: false },
+    { pageProperty: "number-property/level-intercept", required: false, many: false },
   ],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A weight a piece is made in states how its legendary armor grows with item level.",
+    },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A standard armor weight's hash place is the index a build hash has for it.",

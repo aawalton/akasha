@@ -14,4 +14,6 @@ export const infernoStaff = {
   skillLineId: "temper-skill-line/weapon-destruction-staff",
   hashPlace: 6,
   esoWeaponTypeNumber: 12,
+  levelSlope: 14,
+  levelIntercept: 313,
 } as const satisfies TemperWeaponType

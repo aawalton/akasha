@@ -4,6 +4,8 @@ import type { ArmorBaseValue } from "akasha/temper/catalog/gear/temper-armor-wei
 import type { CraftedGlyphItemId } from "akasha/temper/catalog/gear/temper-armor-weight/properties/crafted-glyph-item-id.number-property.types.ts"
 import type { IsStandard } from "akasha/temper/catalog/gear/temper-armor-weight/properties/is-standard.boolean-property.types.ts"
 import type { EsoWeaponTypeNumber } from "akasha/temper/catalog/gear/temper-weapon-type/properties/eso-weapon-type-number.number-property.types.ts"
+import type { LevelIntercept } from "akasha/temper/catalog/gear/thing/properties/level-intercept.number-property.types.ts"
+import type { LevelSlope } from "akasha/temper/catalog/gear/thing/properties/level-slope.number-property.types.ts"
 import type { SkillLine } from "akasha/temper/catalog/thing/properties/skill-line.relation-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
@@ -17,4 +19,6 @@ export type TemperArmorWeight = TemperCatalogThing & {
   hashPlace: HashPlace
   armorType?: ArmorType
   esoWeaponTypeNumber?: EsoWeaponTypeNumber
+  levelSlope?: LevelSlope
+  levelIntercept?: LevelIntercept
 }

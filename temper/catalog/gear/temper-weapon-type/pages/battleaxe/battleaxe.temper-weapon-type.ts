@@ -14,4 +14,6 @@ export const battleaxe = {
   skillLineId: "temper-skill-line/weapon-two-handed",
   hashPlace: 1,
   esoWeaponTypeNumber: 5,
+  levelSlope: 16.5,
+  levelIntercept: 366.5,
 } as const satisfies TemperWeaponType

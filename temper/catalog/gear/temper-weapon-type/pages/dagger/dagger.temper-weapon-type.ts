@@ -13,4 +13,6 @@ export const dagger = {
   validSlots: ["temper-weapon-slot/main-hand"],
   hashPlace: 3,
   esoWeaponTypeNumber: 11,
+  levelSlope: 14,
+  levelIntercept: 313,
 } as const satisfies TemperWeaponType

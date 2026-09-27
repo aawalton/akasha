@@ -14,4 +14,6 @@ export const maul = {
   skillLineId: "temper-skill-line/weapon-two-handed",
   hashPlace: 9,
   esoWeaponTypeNumber: 6,
+  levelSlope: 16.5,
+  levelIntercept: 366.5,
 } as const satisfies TemperWeaponType

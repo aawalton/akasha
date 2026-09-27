@@ -11,4 +11,7 @@ export const legendary = {
   hashPlace: 5,
   esoDisplayQuality: 5,
   gameName: "Legendary",
+  weaponLevelScale: 1,
+  armorLevelScale: 1,
+  setBonusScale: 1,
 } as const satisfies TemperQuality

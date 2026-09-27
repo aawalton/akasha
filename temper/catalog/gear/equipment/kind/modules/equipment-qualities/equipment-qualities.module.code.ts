@@ -16,7 +16,12 @@ interface EquipmentQualityTemplate {
   readonly name: string
   readonly available: boolean
   readonly esoDisplayQuality: number
+  readonly armorLevelScale: number
+  readonly weaponLevelScale: number
+  readonly setBonusScale: number
 }
+
+type QualityScale = "armorLevelScale" | "weaponLevelScale" | "setBonusScale"
 
 type Qualities = DataFile<EquipmentQualityOptionId, EquipmentQualityTemplate>
 
@@ -46,8 +51,15 @@ function placed(row: Row): readonly [number, EquipmentQualityTemplate] {
       name: row.title,
       available: row.available === true,
       esoDisplayQuality: row.esoDisplayQuality,
+      armorLevelScale: scaleOf(row.armorLevelScale),
+      weaponLevelScale: scaleOf(row.weaponLevelScale),
+      setBonusScale: scaleOf(row.setBonusScale),
     },
   ]
+}
+
+function scaleOf(value: unknown): number {
+  return typeof value === "number" ? value : 1
 }
 
 export function qualitiesOf(pages: Iterable<Row>): Qualities {
@@ -75,6 +87,10 @@ export function resolveQuality(quality: EquipmentQualityOptionId | undefined): E
   if (quality == null || quality === "no-quality") return "legendary"
   if (quality === "mythic") return "legendary"
   return quality
+}
+
+export function qualityScale(quality: EquipmentQualityId, scale: QualityScale): number {
+  return equipmentQualities().data[quality][scale]
 }
 
 export function minQuality(a: EquipmentQualityId, b: EquipmentQualityId): EquipmentQualityId {

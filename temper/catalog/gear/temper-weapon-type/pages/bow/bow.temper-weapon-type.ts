@@ -14,4 +14,6 @@ export const bow = {
   skillLineId: "temper-skill-line/weapon-bow",
   hashPlace: 2,
   esoWeaponTypeNumber: 8,
+  levelSlope: 14,
+  levelIntercept: 313,
 } as const satisfies TemperWeaponType
