@@ -157,6 +157,14 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "A small engorged bookworm weighs twenty-odd pounds, and a broom can drag it across the floor.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A bookworm dragged onto a salt line is burned by it, and its thrashing scuffs a gap in the line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
