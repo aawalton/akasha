@@ -216,18 +216,7 @@ export const otherwhereHallBack = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "Nala swept a doubly thick salt ring about three feet across round herself beside the salt box.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "After Nala's salt ring, a little under half the salt box is left.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "The broom's bristles are worn short and splayed, and skip over salt as much as push it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
