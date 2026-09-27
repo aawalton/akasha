@@ -1,5 +1,7 @@
 import {
+  type CompanionCatalog,
   type CompanionSkillId,
+  companionCatalog,
   companionSkillAt,
   companionSkills,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
@@ -61,9 +63,18 @@ function getSkillEffectDuration(skillId: CompanionSkillId, buffDurationMod = 0):
 }
 
 type SkillHealType = "heals-ally" | "heals-self-only" | "no-heal"
-const skillHealTypeCache = new Map<CompanionSkillId, SkillHealType>()
+const healTypesByCatalog = new WeakMap<CompanionCatalog, Map<CompanionSkillId, SkillHealType>>()
+
+function healTypesOf(catalog: CompanionCatalog): Map<CompanionSkillId, SkillHealType> {
+  const kept = healTypesByCatalog.get(catalog)
+  if (kept !== undefined) return kept
+  const made = new Map<CompanionSkillId, SkillHealType>()
+  healTypesByCatalog.set(catalog, made)
+  return made
+}
 
 function getSkillHealType(skillId: CompanionSkillId, stats: CompanionScalingStats): SkillHealType {
+  const skillHealTypeCache = healTypesOf(companionCatalog())
   let healType = skillHealTypeCache.get(skillId)
   if (healType !== undefined) return healType
 

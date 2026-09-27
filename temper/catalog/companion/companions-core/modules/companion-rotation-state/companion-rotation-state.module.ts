@@ -9,7 +9,7 @@ export const companionRotationState = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A skill's heal type is cached across calls in a module-level map.",
+      statement: "A skill's heal type is cached for the companion catalogue it was read from.",
     },
     {
       decisionKind: "decision-kind/constraint",
