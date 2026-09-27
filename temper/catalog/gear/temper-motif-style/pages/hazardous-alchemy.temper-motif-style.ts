@@ -5,6 +5,8 @@ export const hazardousAlchemy = {
   type: "page-type/temper-motif-style",
   slug: "hazardous-alchemy",
   title: "Hazardous Alchemy",
+  esoItemStyleId: 107,
+  styleName: "Hazardous Alchemy",
   collectionIndex: 76,
   sourceDescription: "Stone Garden dungeon",
 } as const satisfies TemperMotifStyle
