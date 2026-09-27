@@ -36,7 +36,6 @@ export const temperEsoUiHarness = {
     "module/ui-art-painting",
     "module/ui-kerning",
     "module/ui-virtuals-lua",
-    "module/ui-gaps",
   ],
   decisions: [
     {
