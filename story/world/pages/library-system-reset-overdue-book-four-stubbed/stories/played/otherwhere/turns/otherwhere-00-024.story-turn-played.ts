@@ -4,6 +4,7 @@ export const otherwhere00024 = {
   id: "01a0e4ee-6e2d-77eb-94b3-6db9d4865ef6",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-024",
+  cover: "image/image-5b1970dbb02b0aee",
   ownLength: 181,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -28,5 +29,5 @@ export const otherwhere00024 = {
     "Blood runs down her left arm and drips onto the salt, and the arm is going numb and shaky.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
