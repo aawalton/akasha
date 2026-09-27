@@ -5,13 +5,13 @@ export const loreScrubbing = {
   type: "page-type/module",
   slug: "lore-scrubbing",
   definition:
-    "what an akasha call prints a game master's seat, with the world builder's lore left out",
+    "what an akasha call prints a seat held from the world builder's lore, with that lore left out",
   code: "ts",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A game master's call runs as a child whose every printed line is judged here.",
+      statement: "A held seat's call runs as a child whose every printed line is judged here.",
     },
     {
       decisionKind: "decision-kind/departure",

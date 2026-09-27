@@ -4,7 +4,7 @@ export const loreWithholding = {
   id: "01a0d486-426b-7e79-bb02-c10a0233e201",
   type: "page-type/module",
   slug: "lore-withholding",
-  definition: "the lore a game master's seat is kept from reading, and whether a path reaches it",
+  definition: "the lore a held seat is kept from reading, and whether a path reaches it",
   code: "ts",
   test: "ts",
   testFixtures: "ts",
@@ -12,7 +12,7 @@ export const loreWithholding = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A seat whose role is game master, reviewer, writer or story recorder is held as a game master's.",
+        "A seat whose role is game master, reviewer, writer or story recorder is a held seat.",
     },
     {
       decisionKind: "decision-kind/departure",
