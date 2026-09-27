@@ -5,6 +5,8 @@ export const icereachCoven = {
   type: "page-type/temper-motif-style",
   slug: "icereach-coven",
   title: "Icereach Coven",
+  esoItemStyleId: 97,
+  styleName: "Icereach Coven",
   collectionIndex: 67,
   sourceDescription: "Icereach dungeon",
 } as const satisfies TemperMotifStyle
