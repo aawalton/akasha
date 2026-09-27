@@ -5,6 +5,8 @@ export const blessedInheritor = {
   type: "page-type/temper-motif-style",
   slug: "blessed-inheritor",
   title: "Blessed Inheritor",
+  esoItemStyleId: 141,
+  styleName: "Blessed Inheritor",
   collectionIndex: 104,
   sourceDescription: "Bal Sunnar dungeon",
 } as const satisfies TemperMotifStyle
