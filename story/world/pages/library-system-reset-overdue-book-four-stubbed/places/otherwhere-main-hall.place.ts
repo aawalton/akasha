@@ -105,11 +105,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "An engorged bookworm will not cross an unbroken line of salt, so a salt ring pens it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A bookworm pressed into heaped salt keeps drying for as long as it is held there.",
@@ -241,7 +241,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Links can rake a bookworm with his claws in lynx form, at a cost in power.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Salt puckers and shrinks a bookworm's skin where it hits; one spray hurts but doesn't dry it out.",
@@ -255,7 +255,6 @@ export const otherwhereMainHall = {
       fact: "The salted bookworm's shriek stopped the chewing, and other bookworms lifted blind heads toward it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Moving silently did not hide Nala; the blind bookworm turned and tracked her anyway.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -272,10 +271,13 @@ export const otherwhereMainHall = {
       fact: "Nala's third salt throw missed; the bookworm jerked aside, and the salt lies heaped beside it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "The pinned bookworm's teeth caught Nala's forearm, a shallow stinging scrape.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Held in the salt, the first small bookworm dried into a hard grey coil, alive but helpless.",
