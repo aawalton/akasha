@@ -5,6 +5,8 @@ export const exilesRevenge = {
   type: "page-type/temper-motif-style",
   slug: "exiles-revenge",
   title: "Exile's Revenge",
+  esoItemStyleId: 153,
+  styleName: "Exile's Revenge",
   collectionIndex: 114,
   sourceDescription: "Exiled Redoubt dungeon",
 } as const satisfies TemperMotifStyle
