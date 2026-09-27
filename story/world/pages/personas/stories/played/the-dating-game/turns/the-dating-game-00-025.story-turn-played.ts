@@ -26,4 +26,6 @@ export const theDatingGame00025 = {
     '"This is my quiet part of the day. Resting up before my night."',
     "Her hand rests on the brass lantern's handle beside her, unlit.",
   ],
+  issues: ['"and the move leaves room on the step beside her" - No Prompt'],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
