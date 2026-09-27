@@ -146,5 +146,14 @@ export const treeSearching = {
       decisionKind: "decision-kind/absence",
       statement: "The program that searches is not looked for on the path.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The program that searches is found under the root searched, or else beside this code.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The program that searches is looked for when a search first needs it.",
+    },
   ],
 } as const satisfies Module

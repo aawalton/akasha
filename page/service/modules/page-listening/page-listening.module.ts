@@ -49,7 +49,7 @@ export const pageListening = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Writes, follows and streams are answered on the thread that listens, and reads on reading threads.",
+        "Follows and streams are answered where the service listens, writes and reads on threads.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -18,7 +18,7 @@ type Phase = {
   readonly ms: number
 }
 
-type Landing = {
+export type Landing = {
   readonly name: string
   readonly began: number
   ended: number
@@ -35,6 +35,8 @@ let ended: Span[] = []
 let landing: Landing | null = null
 
 const LANDINGS: Landing[] = []
+
+let told: ((one: Landing) => undefined) | null = null
 
 export function watching(on = true): undefined {
   watched = on
@@ -118,9 +120,30 @@ export async function landingMarked<T>(
   } finally {
     one.ended = performance.now()
     if (landing === one) landing = null
-    LANDINGS.push(one)
-    if (LANDINGS.length > LANDINGS_KEPT) LANDINGS.shift()
+    kept(one)
+    told?.(one)
   }
+}
+
+function kept(one: Landing): undefined {
+  LANDINGS.push(one)
+  if (LANDINGS.length > LANDINGS_KEPT) LANDINGS.shift()
+  return undefined
+}
+
+export function landingsTold(to: ((one: Landing) => undefined) | null): undefined {
+  told = to
+  return undefined
+}
+
+export function landingHeard(one: Landing, origin: number): undefined {
+  const shift = origin - performance.timeOrigin
+  return kept({
+    ...one,
+    began: one.began + shift,
+    ended: one.ended + shift,
+    phases: one.phases.map((phase) => ({ ...phase, began: phase.began + shift })),
+  })
 }
 
 function landingSaid(one: Landing): string {

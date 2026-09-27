@@ -21,6 +21,10 @@ import {
   type Following,
   followingFor,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
+import {
+  type Landing,
+  landingThreadFor,
+} from "akasha/page/service/modules/page-landing/page-landing.module.code.ts"
 import { answering } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
 import {
   type Threads,
@@ -47,6 +51,7 @@ export type Listening = {
   readonly binds: readonly string[]
   readonly following?: Following
   readonly threads?: Threads
+  readonly landing?: Landing
 }
 
 export function slowSaid(request: Request, spent: number, asked: string, landings = ""): string {
@@ -99,12 +104,16 @@ function watchingHeld(): undefined {
 }
 
 function boundAt(given: Listening, hostname: string, writer: Writer) {
-  const { root, port, following, threads } = given
+  const { root, port, following, threads, landing } = given
   const serving = following === undefined ? { root, writer } : { root, writer, following }
   return Bun.serve({
     port,
     hostname,
-    fetch: (request) => timed(request, (one) => threads?.answered(one) ?? answering(serving, one)),
+    fetch: (request) =>
+      timed(
+        request,
+        (one) => threads?.answered(one) ?? landing?.answered(one) ?? answering(serving, one)
+      ),
   })
 }
 
@@ -165,9 +174,10 @@ export function runPageListening(root: string): undefined {
   }
   watchingHeld()
   const threads = threadsFor(root, { kept: (read) => keptReads(root, read) })
+  const landing = landingThreadFor(root, threads.readSlots)
   const following = followingFor(root, undefined, threads.heapsSaid)
   const binds = bindsFor(root, SERVICE_SLUG)
-  const stated: Listening = { root, port, binds, following, threads }
+  const stated: Listening = { root, port, binds, following, threads, landing }
   refreshingTurns(root, (sat) => following.changed({ pageTypeSlug: seat.slug, slug: sat.slug }))
   let bound = serversFor(stated, writerFor({ root, apart: threads.apart }))
   saying(root, page, unboundIn(bound))

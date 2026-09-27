@@ -43,6 +43,7 @@ type Slot = {
 export type Threads = {
   readonly answered: (request: Request) => Promise<Response> | null
   readonly apart: <T>(act: () => Promise<T>) => Promise<T>
+  readonly readSlots: Int32Array
   readonly heapsSaid: () => string
   readonly stopped: () => Promise<undefined>
 }
@@ -181,6 +182,7 @@ export function threadsFor(root: string, starting: Starting): Threads {
       return sent(request, kind)
     },
     apart: landingApart,
+    readSlots: apart,
     heapsSaid: () => `thread heaps ${slots.map(heapSaid).join(", ")} MB`,
     stopped: async () => {
       landingsKeptApart(null)

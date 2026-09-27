@@ -123,6 +123,7 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-installing/service-installing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-tree/dev-server-tree.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"page/modules/secret/page-secret.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"running.module.code.ts","path":"page/service/modules/page-landing/page-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"page/service/modules/page-threading/page-threading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"persona/modules/desktop-wallpaper-setting/desktop-wallpaper-setting.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"temper/addon/build/modules/addon-compiling/addon-compiling.module.code.ts","typed":false,"deferred":false}

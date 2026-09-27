@@ -71,7 +71,7 @@ export const pageThreading = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "No write, landing, follow or stream goes to a thread.",
+      statement: "No write, landing, follow or stream goes to a reading thread.",
     },
   ],
 } as const satisfies Module

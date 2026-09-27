@@ -48,7 +48,7 @@ export const FILE_AT = "/file"
 
 export const APPEND_AT = "/append"
 
-const PLACE_AT = "/place"
+export const PLACE_AT = "/place"
 
 export const INCREMENT_AT = "/increment"
 

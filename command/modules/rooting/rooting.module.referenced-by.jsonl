@@ -169,6 +169,7 @@
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/file-answering/file-answering.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-asking/page-asking.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-composing/page-composing.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-landing/page-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-listening/page-listening.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-picking/page-picking.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"rooting.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.test.ts","typed":false,"deferred":false}

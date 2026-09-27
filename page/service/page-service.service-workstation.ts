@@ -48,6 +48,15 @@ export const pageService = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Every write is composed and landed on a thread of its own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The thread that listens hands reads and writes to threads and runs follows and pushes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A read is never answered partway through a landing.",
     },
     {
@@ -177,5 +186,6 @@ export const pageService = {
     "module/read-settling",
     "module/read-answering",
     "module/page-threading",
+    "module/page-landing",
   ],
 } as const satisfies ServiceWorkstation

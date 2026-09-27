@@ -39,6 +39,10 @@ export const holdNaming = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A landing made on another thread is kept as that thread tells it, on this clock.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A phase is kept on a landing only at or over the least time its mark names.",
     },
   ],

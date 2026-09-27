@@ -1,5 +1,6 @@
 import { existsSync } from "node:fs"
-import { rgPath } from "@vscode/ripgrep"
+import { createRequire } from "node:module"
+import { join } from "node:path"
 import { type Answer, leftAt } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
@@ -7,6 +8,33 @@ import { indexNamed } from "akasha/page/index/modules/reading/index-reading.modu
 import { uncommittedSpelled } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 
 const BYTES = new TextEncoder()
+
+const RIPGREP = "@vscode/ripgrep"
+
+const MANIFEST = "package.json"
+
+const FOUND = new Map<string, string>()
+
+function ripgrepFrom(at: string): string | null {
+  try {
+    return (createRequire(at)(RIPGREP) as { readonly rgPath: string }).rgPath
+  } catch {
+    return null
+  }
+}
+
+function ripgrepFor(root: string): string {
+  const held = FOUND.get(root)
+  if (held !== undefined) return held
+  const found = ripgrepFrom(join(root, MANIFEST)) ?? ripgrepFrom(import.meta.url)
+  if (found === null) {
+    throw new Error(
+      `the program that searches is installed neither under \`${root}\` nor beside the code searching`
+    )
+  }
+  FOUND.set(root, found)
+  return found
+}
 
 const LINED = "\n"
 
@@ -76,7 +104,7 @@ function ranWith(
   fed: Uint8Array | null
 ): readonly string[] {
   const asked = fed === null ? {} : { stdin: fed }
-  const done = ran([rgPath, ...taking, ...globsFor(kinds), root], asked)
+  const done = ran([ripgrepFor(root), ...taking, ...globsFor(kinds), root], asked)
   return foundIn(done.out, done.code, done.err, root)
 }
 
