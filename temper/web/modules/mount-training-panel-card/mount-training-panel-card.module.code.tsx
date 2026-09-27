@@ -1,6 +1,10 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import {
+  completionCardLeaves,
+  completionCardTitle,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type {
   CharacterMountTrainingProgress,
   CompletionCharacter,
@@ -13,6 +17,13 @@ import {
   createNodeFilter,
   withActivityCategories,
 } from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
+
+function statOf(statId: string, p: CharacterMountTrainingProgress): readonly [number, number] {
+  if (statId === "speed") return [p.speed, p.maxSpeed]
+  if (statId === "stamina") return [p.stamina, p.maxStamina]
+  if (statId === "carryCapacity") return [p.carryCapacity, p.maxCarryCapacity]
+  throw new Error(`no riding stat is read for the mount training page ${statId}`)
+}
 
 interface MountTrainingPanelCardProps {
   id?: CharacterCardId
@@ -44,38 +55,21 @@ export function MountTrainingPanelCard({
     ? mountTrainingProgress
     : mountTrainingProgress.filter((p) => selectedCharacterIds.includes(p.characterId))
 
-  const items: CompletionNode[] = [
-    {
-      key: "carrying-capacity",
-      label: "Carrying Capacity",
-      children: filtered.map((p) => ({
-        key: p.characterId,
-        label: charNames.get(p.characterId) ?? p.characterId,
-        count: p.carryCapacity,
-        total: p.maxCarryCapacity,
-      })),
-    },
-    {
-      key: "speed",
-      label: "Speed",
-      children: filtered.map((p) => ({
-        key: p.characterId,
-        label: charNames.get(p.characterId) ?? p.characterId,
-        count: p.speed,
-        total: p.maxSpeed,
-      })),
-    },
-    {
-      key: "stamina",
-      label: "Stamina",
-      children: filtered.map((p) => ({
-        key: p.characterId,
-        label: charNames.get(p.characterId) ?? p.characterId,
-        count: p.stamina,
-        total: p.maxStamina,
-      })),
-    },
-  ]
+  const items: CompletionNode[] = completionCardLeaves("characters", "mount-training").map(
+    (stat) => ({
+      key: stat.id,
+      label: stat.name,
+      children: filtered.map((p) => {
+        const [count, total] = statOf(stat.id, p)
+        return {
+          key: p.characterId,
+          label: charNames.get(p.characterId) ?? p.characterId,
+          count,
+          total,
+        }
+      }),
+    })
+  )
 
   const totalChildren: CompletionNode[] | undefined =
     isAggregate && filtered.length > 1
@@ -90,7 +84,7 @@ export function MountTrainingPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Mount Training"
+      title={completionCardTitle("characters", "mount-training")}
       items={withActivityCategories(items, "characters")}
       totalChildren={totalChildren}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}

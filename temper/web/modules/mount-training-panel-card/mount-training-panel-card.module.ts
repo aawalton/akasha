@@ -6,4 +6,10 @@ export const mountTrainingPanelCard = {
   slug: "mount-training-panel-card",
   definition: "each selected character's mount training, by capacity, speed and stamina",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card and each riding stat are titled by their completion pages.",
+    },
+  ],
 } as const satisfies Module

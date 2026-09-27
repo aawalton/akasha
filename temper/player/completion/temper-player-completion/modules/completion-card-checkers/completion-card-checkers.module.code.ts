@@ -12,6 +12,7 @@ import type {
   CharacterCardId,
   TaskCardId,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardLeaves } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import { countCompanionQuests } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-quest-tally/completion-companion-quest-tally.module.code.ts"
 import { countCompanionRapport } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-rapport-tally/completion-companion-rapport-tally.module.code.ts"
 import { isLoreLibraryItemComplete } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
@@ -56,11 +57,10 @@ export const COMPLETION_CARD_CHECKERS: Partial<
       if (currentPath.length >= 1) return null
       return {
         label: "Stat",
-        options: [
-          { value: "speed", label: "Speed" },
-          { value: "stamina", label: "Stamina" },
-          { value: "carryCapacity", label: "Carrying Capacity" },
-        ],
+        options: completionCardLeaves("characters", "mount-training").map((stat) => ({
+          value: stat.id,
+          label: stat.name,
+        })),
       }
     },
   },

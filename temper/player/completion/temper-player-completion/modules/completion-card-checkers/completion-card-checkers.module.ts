@@ -49,5 +49,10 @@ export const completionCardCheckers = {
       statement:
         "A character keeps her inventory today once she banked today and holds nothing misplaced.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The riding stats the picker offers are the completion pages under mount training.",
+    },
   ],
 } as const satisfies Module
