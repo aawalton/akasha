@@ -6,4 +6,10 @@ export const classChangeConfirmationDialog = {
   slug: "class-change-confirmation-dialog",
   definition: "the dialog confirming a class change",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

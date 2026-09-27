@@ -23,6 +23,14 @@ import {
   getSkillsToRemoveOnClassChange,
   validateSkillLinesForClass,
 } from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { classChangeConfirmationDialogCancel } from "akasha/temper/web/phrase/pages/class-change-confirmation-dialog-cancel.temper-web-phrase.ts"
+import { classChangeConfirmationDialogChangeClass } from "akasha/temper/web/phrase/pages/class-change-confirmation-dialog-change-class.temper-web-phrase.ts"
+import { classChangeConfirmationDialogEmptySlot } from "akasha/temper/web/phrase/pages/class-change-confirmation-dialog-empty-slot.temper-web-phrase.ts"
+import { classChangeConfirmationDialogNoClass } from "akasha/temper/web/phrase/pages/class-change-confirmation-dialog-no-class.temper-web-phrase.ts"
+import { classChangeConfirmationDialogResetsLines } from "akasha/temper/web/phrase/pages/class-change-confirmation-dialog-resets-lines.temper-web-phrase.ts"
+import { classChangeConfirmationDialogResetsLinesAndSkills } from "akasha/temper/web/phrase/pages/class-change-confirmation-dialog-resets-lines-and-skills.temper-web-phrase.ts"
+import { classChangeConfirmationDialogTitle } from "akasha/temper/web/phrase/pages/class-change-confirmation-dialog-title.temper-web-phrase.ts"
 
 interface ClassChangeConfirmationDialogProps {
   open: boolean
@@ -47,6 +55,7 @@ export function ClassChangeConfirmationDialog({
   scribedSkillDefinitions = [],
   onConfirm,
 }: ClassChangeConfirmationDialogProps) {
+  const phrase = usePhrase()
   const newSkillLineIds =
     newClass != null ? validateSkillLinesForClass(newClass) : validateSkillLinesForClass("no-class")
 
@@ -70,11 +79,13 @@ export function ClassChangeConfirmationDialog({
     <AlertDialog open={open} onOpenChange={onOpenChange}>
       <AlertDialogContent>
         <AlertDialogHeader>
-          <AlertDialogTitle>Change Character Class?</AlertDialogTitle>
+          <AlertDialogTitle>{phrase(classChangeConfirmationDialogTitle.slug)}</AlertDialogTitle>
           <AlertDialogDescription>
-            Changing your character class will automatically reset all skill lines to the new
-            class&apos;s skill lines
-            {skillsToRemove.length > 0 && " and remove incompatible skills"}.
+            {phrase(
+              skillsToRemove.length > 0
+                ? classChangeConfirmationDialogResetsLinesAndSkills.slug
+                : classChangeConfirmationDialogResetsLines.slug
+            )}
           </AlertDialogDescription>
         </AlertDialogHeader>
 
@@ -84,7 +95,9 @@ export function ClassChangeConfirmationDialog({
             <span className="flex-1 text-right">{classes.data[currentClass].name}</span>
             <span>→</span>
             <span className="flex-1">
-              {newClass != null ? classes.data[newClass].name : "No class"}
+              {newClass != null
+                ? classes.data[newClass].name
+                : phrase(classChangeConfirmationDialogNoClass.slug)}
             </span>
           </div>
 
@@ -107,14 +120,16 @@ export function ClassChangeConfirmationDialog({
             <div key={skill.id} className="flex items-center gap-2">
               <span className="flex-1 text-right">{skill.name}</span>
               <span>→</span>
-              <span className="flex-1">Empty Slot</span>
+              <span className="flex-1">{phrase(classChangeConfirmationDialogEmptySlot.slug)}</span>
             </div>
           ))}
         </AlertDialogBody>
 
         <AlertDialogFooter>
-          <AlertDialogCancel>Cancel</AlertDialogCancel>
-          <AlertDialogAction onClick={onConfirm}>Change Class</AlertDialogAction>
+          <AlertDialogCancel>{phrase(classChangeConfirmationDialogCancel.slug)}</AlertDialogCancel>
+          <AlertDialogAction onClick={onConfirm}>
+            {phrase(classChangeConfirmationDialogChangeClass.slug)}
+          </AlertDialogAction>
         </AlertDialogFooter>
       </AlertDialogContent>
     </AlertDialog>
