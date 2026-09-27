@@ -7,6 +7,7 @@ export const dragonsAndDungeonsTheStillOne = {
   title: "The Still One",
   world: "world/personas",
   about: "character-other/dragons-and-dungeons-the-still-one",
+  secrets: "jsonl",
   facts: [
     {
       fact: "The still one is Tygryth's son, vast and ancient, his scales drained ashen grey.",
