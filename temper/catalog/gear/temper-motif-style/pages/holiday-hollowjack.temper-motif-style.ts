@@ -4,6 +4,7 @@ export const holidayHollowjack = {
   id: "01a0e0f0-274a-7f26-9653-d5576fc15139",
   type: "page-type/temper-motif-style",
   slug: "holiday-hollowjack",
-  title: "ITEMSTYLE_HOLIDAY_HOLLOWJACK",
+  title: "Hollowjack",
   esoItemStyleId: 59,
+  styleName: "Hollowjack",
 } as const satisfies TemperMotifStyle
