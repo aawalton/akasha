@@ -21,5 +21,5 @@ export const theDatingGame00023 = {
     "His house is just ahead at 1350.",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
