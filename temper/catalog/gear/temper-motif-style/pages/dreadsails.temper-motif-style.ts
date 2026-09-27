@@ -5,6 +5,8 @@ export const dreadsails = {
   type: "page-type/temper-motif-style",
   slug: "dreadsails",
   title: "Dreadsails",
+  esoItemStyleId: 128,
+  styleName: "Dreadsails",
   collectionIndex: 94,
   sourceDescription: "Shipwright's Regret dungeon",
 } as const satisfies TemperMotifStyle
