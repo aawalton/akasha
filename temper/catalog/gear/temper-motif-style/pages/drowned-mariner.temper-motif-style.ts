@@ -5,6 +5,8 @@ export const drownedMariner = {
   type: "page-type/temper-motif-style",
   slug: "drowned-mariner",
   title: "Drowned Mariner",
+  esoItemStyleId: 136,
+  styleName: "Drowned Mariner",
   collectionIndex: 100,
   sourceDescription: "Graven Deep dungeon",
 } as const satisfies TemperMotifStyle
