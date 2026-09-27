@@ -9,6 +9,6 @@ export const legs = {
   icon: "/resources/gearslot_legs.png",
   displayOrder: 5,
   hashPlace: 5,
-  equipType: 9,
+
   slotEquipType: "temper-equip-type/legs",
 } as const satisfies TemperArmorSlot

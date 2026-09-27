@@ -7,6 +7,6 @@ export const poison = {
   title: "Poison",
   key: "poison",
   displayOrder: 2,
-  equipType: 15,
+
   slotEquipType: "temper-equip-type/poison",
 } as const satisfies TemperWeaponSlot

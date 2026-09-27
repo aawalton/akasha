@@ -9,13 +9,12 @@ export const temperJewelryType = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "one-of-property/valid-slots", required: true, many: true, maxCount: null },
-    { pageProperty: "number-property/equip-type", required: true, many: false },
-    { pageProperty: "relation-property/slot-equip-type", required: false, many: false },
+    { pageProperty: "relation-property/slot-equip-type", required: true, many: false },
   ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A jewelry type states the equip type the game gives a piece of that type.",
+      statement: "A jewelry type links the equip type the game gives a piece of that type.",
     },
   ],
   types: "ts",
