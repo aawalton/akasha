@@ -69,6 +69,7 @@ export const modelAccount = {
     "text-property/scopes",
     "text-property/subscription-disabled-reason",
     "text-property/subscription-type",
+    "boolean-property/subscription-canceled",
     "module/oauth-types",
   ],
   properties: [
@@ -78,6 +79,7 @@ export const modelAccount = {
     { pageProperty: "text-property/subscription-type", required: false, many: false },
     { pageProperty: "text-property/rate-limit-tier", required: false, many: false },
     { pageProperty: "number-property/renewal-day", required: false, many: false },
+    { pageProperty: "boolean-property/subscription-canceled", required: false, many: false },
     { pageProperty: "text-property/scopes", required: false, many: true, maxCount: null },
     { pageProperty: "text-property/access-token", required: false, many: false, secret: true },
     { pageProperty: "text-property/refresh-token", required: false, many: false, secret: true },

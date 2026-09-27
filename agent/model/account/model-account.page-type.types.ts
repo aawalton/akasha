@@ -21,6 +21,7 @@ import type { Scopes } from "akasha/agent/model/account/properties/scopes.text-p
 import type { SevenDayPercentUsed } from "akasha/agent/model/account/properties/seven-day-percent-used.number-property.types.ts"
 import type { SevenDayResetsAt } from "akasha/agent/model/account/properties/seven-day-resets-at.instant-property.types.ts"
 import type { SevenDayStartedAt } from "akasha/agent/model/account/properties/seven-day-started-at.instant-property.types.ts"
+import type { SubscriptionCanceled } from "akasha/agent/model/account/properties/subscription-canceled.boolean-property.types.ts"
 import type { SubscriptionDisabledReason } from "akasha/agent/model/account/properties/subscription-disabled-reason.text-property.types.ts"
 import type { SubscriptionType } from "akasha/agent/model/account/properties/subscription-type.text-property.types.ts"
 import type { TerminalAlertedAt } from "akasha/agent/model/account/properties/terminal-alerted-at.instant-property.types.ts"
@@ -35,6 +36,7 @@ export type ModelAccount = Page & {
   subscriptionType?: SubscriptionType
   rateLimitTier?: RateLimitTier
   renewalDay?: RenewalDay
+  subscriptionCanceled?: SubscriptionCanceled
   scopes?: Scopes
   accessToken?: AccessToken
   refreshToken?: RefreshToken

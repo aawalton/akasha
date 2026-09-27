@@ -127,6 +127,7 @@
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/rescued-refresh-token.text-property.ts","id":"01a0637b-78bb-75b3-997f-1bd076da5799"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/retry-allowed-at.instant-property.ts","id":"01a054d8-1d39-7bdf-8472-b3d6b9b59e9f"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/scopes.text-property.ts","id":"01a054d8-1d39-7232-855e-3f83e6fed615"}
+{"propertySlug":"decision-kind","path":"agent/model/account/properties/subscription-canceled.boolean-property.ts","id":"01a0e2ed-9c52-7e56-b22d-42d0760946cd"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/subscription-disabled-reason.text-property.ts","id":"01a054d8-1d39-7c38-bbf0-00a17589572e"}
 {"propertySlug":"decision-kind","path":"agent/model/account/properties/subscription-type.text-property.ts","id":"01a054d8-1d39-7f29-a8c5-64ad5c76a3c3"}
 {"propertySlug":"decision-kind","path":"agent/model/family/properties/model-name.text-property.ts","id":"01a05a43-f8db-7b4e-86f6-e79220f0d6eb"}
