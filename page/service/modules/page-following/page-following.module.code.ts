@@ -374,7 +374,7 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
     const id = crypto.randomUUID()
     const encoder = new TextEncoder()
     let beat: ReturnType<typeof setInterval> | null = null
-    let pulledAt = Date.now()
+    let unpulled = 0
     const closed = (): undefined => {
       if (beat !== null) clearInterval(beat)
       beat = null
@@ -402,7 +402,8 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
         streams.set(id, { send: put, helds: [] })
         put(eventSaid("stream", { stream: id }))
         beat = setInterval(() => {
-          if (Date.now() - pulledAt > beatMs * UNREAD_BEATS) return unread()
+          if (unpulled >= UNREAD_BEATS) return unread()
+          unpulled += 1
           put(": beat\n\n")
         }, beatMs)
         request.signal.addEventListener("abort", () => {
@@ -413,7 +414,7 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
         })
       },
       pull() {
-        pulledAt = Date.now()
+        unpulled = 0
       },
       cancel() {
         closed()

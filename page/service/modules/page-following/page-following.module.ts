@@ -104,6 +104,10 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only a beat sent counts, so a service too busy to beat closes no stream for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "What such a stream held unread is let go with it rather than kept.",
     },
     {

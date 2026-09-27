@@ -149,6 +149,24 @@ test("a stream read as it beats stays open however long it runs", async () => {
   aborting.abort()
 })
 
+test("a stream read as it beats stays open through a stall of the service", async () => {
+  const following = followingFor(NOWHERE, 10)
+  const aborting = new AbortController()
+  const opened = following.opened(new Request("http://here/events", { signal: aborting.signal }))
+  const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
+  const [first] = await eventsFrom(reader, 1)
+  const { stream } = STREAM_SAID.parse(JSON.parse((first ?? "").split("data: ")[1] ?? "{}"))
+  const reading = (async () => {
+    while (!aborting.signal.aborted) await reader.read()
+  })()
+  const stalled = Date.now() + 100
+  while (Date.now() < stalled) {}
+  await Bun.sleep(30)
+  expect(following.followed({ stream, follows: [] }).status).toBe(200)
+  aborting.abort()
+  await reading.catch(() => undefined)
+})
+
 test("a change is pushed down the stream following it and no other change is", async () => {
   const following = followingFor(NOWHERE)
   const aborting = new AbortController()
