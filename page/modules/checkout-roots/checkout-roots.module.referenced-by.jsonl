@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/agent-hook/block-git-writes/block-git-writes.agent-hook.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/modules/links/hook-links.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/hook/modules/links/hook-links.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/file-watch/agent-message-file-watch.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/file/agent-message-file.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"agent/message/modules/sending/agent-message-sending.module.code.ts","typed":false,"deferred":false}

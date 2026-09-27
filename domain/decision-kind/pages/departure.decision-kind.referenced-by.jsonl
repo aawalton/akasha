@@ -58,6 +58,7 @@
 {"propertySlug":"decision-kind","path":"agent/hook/test-fixtures/payload/hook-payload.test-fixture.ts","id":"01a04f4d-f0ea-791d-8bb4-ce41b59e46b1"}
 {"propertySlug":"decision-kind","path":"agent/message/agent-message.page-type.ts","id":"01a06818-107b-7005-8e69-8cefb68f3cdf"}
 {"propertySlug":"decision-kind","path":"agent/message/modules/agent-id/agent-message-agent-id.module.ts","id":"01a0686c-f06b-700f-b509-474c22d7c815"}
+{"propertySlug":"decision-kind","path":"agent/message/modules/agent-tools/agent-message-agent-tools.module.ts","id":"01a0695a-d2ea-7719-a70d-79d222213a7b"}
 {"propertySlug":"decision-kind","path":"agent/message/modules/attached-images/agent-message-attached-images.computed-property-module.ts","id":"01a0d4a1-3f26-7853-9819-ff4b38e9cfec"}
 {"propertySlug":"decision-kind","path":"agent/message/modules/channel-delivery/agent-message-channel-delivery.module.ts","id":"01a0657e-795c-7001-943b-4973f01721fa"}
 {"propertySlug":"decision-kind","path":"agent/message/modules/console-stdout-guard/agent-message-console-stdout-guard.module.ts","id":"01a0686c-f06b-7010-8514-3620ed64900f"}
@@ -3853,6 +3854,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/story-played.page-type.ts","id":"01a06424-329c-7c08-a753-0e0520e2d22c"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.ts","id":"01a0dec2-87a0-7072-b427-5155e34684b0"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.ts","id":"01a0decc-a86e-79d7-b3b5-327c056ef9a5"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-notice/turn-notice.module.ts","id":"01a0e3ab-3602-7b99-b42d-d5909d6fd17a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.ts","id":"01a0e30b-7f83-7984-9180-2a2282b3cf3d"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/outcomes.file-property.ts","id":"01a0de23-015c-7892-8e17-ce5f54c5a9bc"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/turns/properties/turn-action.text-property.ts","id":"01a0deae-42b1-76ed-84f7-2a78c60194f3"}

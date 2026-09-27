@@ -6,4 +6,14 @@ export const agentMessageAgentTools = {
   slug: "agent-message-agent-tools",
   definition: "how code sends the messages that wait for a seat",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn notice whose turn has moved past it is taken without being sent.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn notice is weighed as it is offered, so a notice let go is weighed again.",
+    },
+  ],
 } as const satisfies Module

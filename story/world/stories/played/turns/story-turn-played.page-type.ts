@@ -12,6 +12,7 @@ export const storyTurnPlayed = {
     "file-property/outcomes",
     "module/turn-lifecycle",
     "module/turn-making",
+    "module/turn-notice",
     "module/turn-seats",
     "page-type/turn-status",
     "relation-property/turn-status",

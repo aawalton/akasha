@@ -8,6 +8,11 @@ import {
 import { watchMessagesTo } from "akasha/agent/message/modules/file-watch/agent-message-file-watch.module.code.ts"
 import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import { transcriptOf } from "akasha/agent/seat/session/modules/seat-transcript-path/seat-transcript-path.module.code.ts"
+import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { TURN_SENDER } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+import { noticeStale } from "akasha/story/world/stories/played/turns/modules/turn-notice/turn-notice.module.code.ts"
+import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const WITNESS_HEARTBEAT_MS = 30_000
 
@@ -75,6 +80,23 @@ async function deliverClaimedMessage(args: {
   args.witness?.(row.id)
 }
 
+function turnStatuses(): ReadonlyMap<string, unknown> {
+  const held = new Map<string, unknown>()
+  for (const one of valuesOfType(akashaRoot(), storyTurnPlayed.slug)) {
+    held.set(one.path, one.value["turnStatus"])
+  }
+  return held
+}
+
+async function dropStale(to: string, messageId: string): Promise<void> {
+  if (!claimMessage(to, messageId)) return
+  const taken = await takeMessage(to, messageId)
+  const kept = taken.kind === "refused" ? `; its page stays held (${taken.detail})` : ""
+  console.error(
+    `[messages] ${messageId} is a turn notice its turn has moved past, so it is dropped rather than sent${kept}`
+  )
+}
+
 export async function startChannelListener(
   server: ChannelServer,
   agentId: string
@@ -105,18 +127,20 @@ export async function startChannelListener(
   })
 
   const watching = watchMessagesTo(to, (message) =>
-    deliverClaimedMessage({
-      row: {
-        id: message.id,
-        content: message.body,
-        sender_agent_id: message.from,
-        source: MESSAGE_SOURCE,
-      },
-      claim: (messageId) => Promise.resolve(claimMessage(to, messageId)),
-      notify: (msg) => sendChannelNotification(server, msg),
-      release: (messageId) => Promise.resolve(releaseClaim(to, messageId)),
-      witness: witness.track,
-    })
+    message.from === TURN_SENDER && noticeStale(message.body, turnStatuses())
+      ? dropStale(to, message.id)
+      : deliverClaimedMessage({
+          row: {
+            id: message.id,
+            content: message.body,
+            sender_agent_id: message.from,
+            source: MESSAGE_SOURCE,
+          },
+          claim: (messageId) => Promise.resolve(claimMessage(to, messageId)),
+          notify: (msg) => sendChannelNotification(server, msg),
+          release: (messageId) => Promise.resolve(releaseClaim(to, messageId)),
+          witness: witness.track,
+        })
   )
 
   return () => {
