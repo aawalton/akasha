@@ -7,6 +7,7 @@ export const dragonsAndDungeonsTheDrownedHall = {
   title: "The Drowned Hall",
   world: "world/personas",
   within: "place/dragons-and-dungeons-the-stillwater",
+  secrets: "jsonl",
   exits: [
     {
       to: "place/dragons-and-dungeons-the-stillwater",
