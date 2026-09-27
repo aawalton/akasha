@@ -6,4 +6,11 @@ export const foodDrinkSelectDialog = {
   slug: "food-drink-select-dialog",
   definition: "the dialog selecting a food or a drink",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its wording is read from web phrase pages and the food and drink item type pages.",
+    },
+  ],
 } as const satisfies Module

@@ -2,3 +2,4 @@
 {"propertySlug":"browser-item-types","path":"temper/items/core/temper-browser-category/pages/consumables-drink.temper-browser-category.ts","id":"01a0e10d-1b60-7853-a851-53527e49df44"}
 {"propertySlug":"browser-item-types","path":"temper/items/core/temper-browser-category/pages/consumables.temper-browser-category.ts","id":"01a0e10d-1b61-7daf-8e50-3c943afa4402"}
 {"propertySlug":"import","fileName":"drink.temper-item-type.ts","path":"temper/items/filters/core/modules/search-item-type-filter/search-item-type-filter.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"drink.temper-item-type.ts","path":"temper/web/modules/food-drink-select-dialog/food-drink-select-dialog.module.code.tsx","typed":false,"deferred":false}

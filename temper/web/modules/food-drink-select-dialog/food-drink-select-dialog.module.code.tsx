@@ -1,6 +1,8 @@
 "use client"
 
 import { getSubcategory } from "akasha/code/type/narrowing/modules/get-subcategory/get-subcategory.module.code.ts"
+import { drink } from "akasha/temper/catalog/temper-item-type/pages/drink.temper-item-type.ts"
+import { food } from "akasha/temper/catalog/temper-item-type/pages/food.temper-item-type.ts"
 import { convertIconPathToUrl } from "akasha/temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import {
   type FoodOrDrinkId,
@@ -13,6 +15,13 @@ import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,
 } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import {
+  phraseIn,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { foodDrinkSelectDialogEmpty } from "akasha/temper/web/phrase/pages/food-drink-select-dialog-empty.temper-web-phrase.ts"
+import { foodDrinkSelectDialogSearch } from "akasha/temper/web/phrase/pages/food-drink-select-dialog-search.temper-web-phrase.ts"
+import { foodDrinkSelectDialogTitle } from "akasha/temper/web/phrase/pages/food-drink-select-dialog-title.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 interface FoodDrinkSelectDialogProps {
@@ -57,14 +66,15 @@ export function FoodDrinkSelectDialog({
   onSelect,
 }: FoodDrinkSelectDialogProps) {
   const held = foodOrDrink()
+  const phrases = useWebPhrases()
   const config: FilterableSelectDialogConfig<FoodOrDrinkSource> = useMemo(
     () => ({
-      title: "Select Food / Drink",
-      searchPlaceholder: "Search food and drinks...",
-      emptyMessage: "No food or drinks found.",
+      title: phraseIn(phrases, foodDrinkSelectDialogTitle.slug),
+      searchPlaceholder: phraseIn(phrases, foodDrinkSelectDialogSearch.slug),
+      emptyMessage: phraseIn(phrases, foodDrinkSelectDialogEmpty.slug),
       categories: [
-        { id: "food", label: "Food", items: byName(held, "food") },
-        { id: "drink", label: "Drink", items: byName(held, "drink") },
+        { id: "food", label: food.title, items: byName(held, "food") },
+        { id: "drink", label: drink.title, items: byName(held, "drink") },
       ],
       allItems: [...held.list],
       sortEffects,
@@ -81,7 +91,7 @@ export function FoodDrinkSelectDialog({
         ) : null
       },
     }),
-    [held]
+    [held, phrases]
   )
 
   const handleSelect = (itemId: FoodOrDrinkId) => {
