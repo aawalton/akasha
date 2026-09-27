@@ -370,5 +370,6 @@ export const temperWeb = {
     "module/mine-row-landing",
     "module/mine-row-reading",
     "module/filterable-select-trigger",
+    "module/writ-craft-items",
   ],
 } as const satisfies RouterApp

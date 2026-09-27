@@ -17,6 +17,7 @@ import type {
   CharacterAutomationToggles,
   CompanionAutomationToggles,
 } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import { useWritCraftItems } from "akasha/temper/web/modules/writ-craft-items/writ-craft-items.module.code.ts"
 import { useAutomationSettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { Info } from "lucide-react"
 import { useMemo } from "react"
@@ -68,28 +69,8 @@ const COMING_SOON_ITEMS: CharToggleItem[] = [
   { value: "attributes", label: "Attributes" },
 ]
 
-const WRIT_CRAFT_ITEMS: CharToggleItem[] = [
-  { value: "dailyWritBlacksmithing", label: "Blacksmithing" },
-  { value: "dailyWritClothier", label: "Clothier" },
-  { value: "dailyWritWoodworking", label: "Woodworking" },
-  { value: "dailyWritJewelrycrafting", label: "Jewelrycrafting" },
-  { value: "dailyWritEnchanting", label: "Enchanting" },
-  { value: "dailyWritAlchemy", label: "Alchemy" },
-  { value: "dailyWritProvisioning", label: "Provisioning" },
-]
-
 const WRIT_AUTOMATION_ITEMS: CharToggleItem[] = [
   { value: "dailyWritAutoCraft", label: "Auto-Craft" },
-]
-
-const MASTER_WRIT_CRAFT_ITEMS: CharToggleItem[] = [
-  { value: "masterWritBlacksmithing", label: "Blacksmithing" },
-  { value: "masterWritClothier", label: "Clothier" },
-  { value: "masterWritWoodworking", label: "Woodworking" },
-  { value: "masterWritJewelrycrafting", label: "Jewelrycrafting" },
-  { value: "masterWritEnchanting", label: "Enchanting" },
-  { value: "masterWritAlchemy", label: "Alchemy" },
-  { value: "masterWritProvisioning", label: "Provisioning" },
 ]
 
 const COMPANION_ITEMS: CompToggleItem[] = [
@@ -123,9 +104,11 @@ export function AutomationTab({ active }: AutomationTabProps) {
     [globalChar]
   )
 
+  const { writCraftItems, masterWritCraftItems } = useWritCraftItems()
+
   const writCraftSelected = useMemo(
-    () => WRIT_CRAFT_ITEMS.filter((item) => globalChar?.[item.value]),
-    [globalChar]
+    () => writCraftItems.filter((item) => globalChar?.[item.value]),
+    [globalChar, writCraftItems]
   )
 
   const writAutomationSelected = useMemo(
@@ -134,8 +117,8 @@ export function AutomationTab({ active }: AutomationTabProps) {
   )
 
   const masterWritCraftSelected = useMemo(
-    () => MASTER_WRIT_CRAFT_ITEMS.filter((item) => globalChar?.[item.value]),
-    [globalChar]
+    () => masterWritCraftItems.filter((item) => globalChar?.[item.value]),
+    [globalChar, masterWritCraftItems]
   )
 
   const companionSelected = useMemo(
@@ -262,9 +245,9 @@ export function AutomationTab({ active }: AutomationTabProps) {
               </InfoPopover>
             </div>
             <BadgeToggleGroup
-              items={WRIT_CRAFT_ITEMS}
+              items={writCraftItems}
               value={writCraftSelected}
-              onSelect={(items) => handleCharToggle(items, WRIT_CRAFT_ITEMS, writCraftSelected)}
+              onSelect={(items) => handleCharToggle(items, writCraftItems, writCraftSelected)}
               disabled={!dailyWritsEnabled}
               unselectedVariant="elevation-muted"
               wrap
@@ -323,10 +306,10 @@ export function AutomationTab({ active }: AutomationTabProps) {
               </InfoPopover>
             </div>
             <BadgeToggleGroup
-              items={MASTER_WRIT_CRAFT_ITEMS}
+              items={masterWritCraftItems}
               value={masterWritCraftSelected}
               onSelect={(items) =>
-                handleCharToggle(items, MASTER_WRIT_CRAFT_ITEMS, masterWritCraftSelected)
+                handleCharToggle(items, masterWritCraftItems, masterWritCraftSelected)
               }
               disabled={!masterWritsEnabled}
               unselectedVariant="elevation-muted"

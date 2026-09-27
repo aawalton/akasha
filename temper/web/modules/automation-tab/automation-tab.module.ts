@@ -6,4 +6,10 @@ export const automationTab = {
   slug: "automation-tab",
   definition: "the automation tab of settings, where each inventory toggle is set",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A writ craft's toggle is labelled by its craft type page's title.",
+    },
+  ],
 } as const satisfies Module

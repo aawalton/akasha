@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/web/modules/automation-select/automation-select.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/web/modules/automation-tab/automation-tab.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/web/modules/writ-craft-items/writ-craft-items.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-tab-rule-assembly/inventory-rules-tab-rule-assembly.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"automation-settings.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts","typed":true,"deferred":false}
