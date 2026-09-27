@@ -4,6 +4,7 @@ export const alanwaltonRequestsWeb = {
   id: "01a0c537-bbb9-76f6-9f8b-4c7ce619dfe9",
   type: "page-type/web-app",
   slug: "alanwalton-requests-web",
+  title: "Requests",
   definition: "the website drawing the Requests site",
   sourceDirectory: "alan/requests-web",
   buildCommand: "bun run build",

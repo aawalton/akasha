@@ -16,5 +16,9 @@ export const requestsAppShell = {
       decisionKind: "decision-kind/absence",
       statement: "This frame has no bottom section.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The name over the sidebar is the title of the Requests web app page.",
+    },
   ],
 } as const satisfies Module

@@ -4,6 +4,11 @@ import { AppShell } from "akasha/alan/requests-web/modules/requests-app-shell/re
 import { AuthProvider } from "akasha/alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.code.tsx"
 import { REQUESTS_SITE } from "akasha/alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
+import {
+  WEB_APP,
+  webAppTitle,
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/naming/web-app-naming.module.code.ts"
+import { alanwaltonRequestsWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-requests-web.web-app.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AppEditingProvider } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { CreateOverrideProvider } from "akasha/page/ui/component/modules/create-override/create-override.module.code.tsx"
@@ -25,7 +30,7 @@ const FEATURE_REQUEST = "feature-request"
 
 const REQUESTS_PATH = "/api/requests"
 
-const READ = ["contributor"]
+const READ = ["contributor", WEB_APP]
 
 function boostingIn(held: Record<string, unknown>): Boosting {
   const slug = held.slug
@@ -56,7 +61,9 @@ export async function loader({ request }: Route.LoaderArgs) {
 
   const balance = reader === null ? null : await balanceHeldBy(reader)
 
-  return data({ reader, accountId, signedIn, navItems, balance })
+  const brand = await webAppTitle(alanwaltonRequestsWeb.slug)
+
+  return data({ reader, accountId, signedIn, navItems, balance, brand })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
@@ -75,7 +82,11 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
     <AuthProvider reader={loaderData.reader} accountId={loaderData.accountId}>
       <AppEditingProvider editing={false}>
         <CreateOverrideProvider overrides={overrides}>
-          <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
+          <AppShell
+            brand={loaderData.brand}
+            signedIn={loaderData.signedIn}
+            ssrNavItems={loaderData.navItems}
+          >
             <Outlet />
           </AppShell>
         </CreateOverrideProvider>
