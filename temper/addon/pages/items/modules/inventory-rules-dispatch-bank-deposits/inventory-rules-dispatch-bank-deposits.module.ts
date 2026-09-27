@@ -23,6 +23,10 @@ export const inventoryRulesDispatchBankDeposits = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A fill tier naming a character hands off stock to that character alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "What another character holds toward a stocking rule is read from that character's last capture.",
     },

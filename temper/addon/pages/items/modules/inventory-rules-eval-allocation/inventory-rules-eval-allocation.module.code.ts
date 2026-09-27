@@ -210,6 +210,14 @@ export function countEligibleCharacters(conditions: CharEligibilityConditions | 
   return eligibleCharacters(conditions).length
 }
 
+export function chainFillCharacters(plan: {
+  readonly fillCharacter: string | undefined
+  readonly charEligibility: CharEligibilityConditions | undefined
+}): readonly string[] {
+  if (plan.fillCharacter !== undefined) return [plan.fillCharacter]
+  return eligibleCharacters(plan.charEligibility)
+}
+
 function resolveStockChainForCurrentChar(
   chain: DestinationChain
 ): { destination: string | undefined; targetQuantity: number } | undefined {

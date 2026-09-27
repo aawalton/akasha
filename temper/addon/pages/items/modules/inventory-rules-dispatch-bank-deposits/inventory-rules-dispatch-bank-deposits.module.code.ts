@@ -23,7 +23,7 @@ import {
   bankIsCorrectStorage,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 
-import { eligibleCharacters } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"
+import { chainFillCharacters } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import type { LocationData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import {
@@ -82,7 +82,7 @@ function handOffForRule(ruleIndex: number, itemId: number, currentCharId: string
   if (plan === undefined) return 0
   const locations = getDatabase().locations
   const heldByOthers: number[] = []
-  for (const charId of eligibleCharacters(plan.charEligibility)) {
+  for (const charId of chainFillCharacters(plan)) {
     if (charId === currentCharId) continue
     heldByOthers.push(storedCount(locations[charId], itemId))
   }
