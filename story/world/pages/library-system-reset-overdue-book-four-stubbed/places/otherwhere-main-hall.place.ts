@@ -92,6 +92,10 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Roused bookworms stir and listen, but leave their heaps only for a Librarian within twenty feet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
