@@ -33,4 +33,5 @@ export const theDatingGame00017 = {
   ],
   lore: ["place/the-dating-game-byu-broadcasting", "lore/the-dating-game-alan"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
