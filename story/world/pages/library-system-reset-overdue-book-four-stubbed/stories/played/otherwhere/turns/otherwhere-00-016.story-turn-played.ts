@@ -4,10 +4,17 @@ export const otherwhere00016 = {
   id: "01a0e49b-fab5-73e0-be55-1578042475a5",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-016",
+  ownLength: 160,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 16,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-alan",
+    "character-other/otherwhere-links",
+    "character-other/otherwhere-engorged-bookworm-01",
+  ],
+  turnStatus: "turn-status/reviewers",
   action: "I keep it there until it stops moving",
   beats: [
     "She keeps her weight on it and holds it down in the salt.",
