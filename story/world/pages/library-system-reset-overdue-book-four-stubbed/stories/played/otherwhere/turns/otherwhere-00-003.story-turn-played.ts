@@ -28,5 +28,7 @@ export const otherwhere00003 = {
     "A shoulder's width to the side of her hand, a second knot of light kindles under the grey surface.",
     "It pulses at the same height, slow and even, in time with the one beneath her palm.",
   ],
+  issues: ['"low and patient, as if it\'s waiting" - No Prompt'],
   lore: ["place/otherwhere-core-chamber"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
