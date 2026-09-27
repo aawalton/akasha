@@ -4,6 +4,7 @@ export const otherwhere00023 = {
   id: "01a0e4e8-ab0d-77ad-ba23-08583f164f23",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-023",
+  cover: "image/image-e66df2dcc5648c9d",
   ownLength: 173,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -14,7 +15,7 @@ export const otherwhere00023 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I grab two handfuls of salt in my hands then grip it by the neck, holding it in the salt",
   beats: [
@@ -28,5 +29,5 @@ export const otherwhere00023 = {
     "Outside, the first bookworm drops the chewed broom and turns its blind head toward the wider gap.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
