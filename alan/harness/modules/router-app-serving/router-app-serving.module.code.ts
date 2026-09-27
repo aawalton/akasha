@@ -21,9 +21,12 @@ type Stopping = { readonly stop: () => Promise<void> }
 
 export function endedOnTerm(server: Stopping): undefined {
   process.once("SIGTERM", () => {
-    eventsEnded()
+    console.log(`[router-app] told to stop; ended ${eventsEnded()} page-change streams`)
     setTimeout(() => process.exit(0), STOPPED_WITHIN_MS).unref()
-    void server.stop().finally(() => process.exit(0))
+    void server.stop().finally(() => {
+      console.log("[router-app] stopped")
+      process.exit(0)
+    })
   })
   return undefined
 }

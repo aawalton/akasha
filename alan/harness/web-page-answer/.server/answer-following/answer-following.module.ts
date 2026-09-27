@@ -36,5 +36,14 @@ export const answerFollowing = {
       decisionKind: "decision-kind/departure",
       statement: "A stream ended cleanly is opened again by its browser with no error shown.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A site's build carries its own copy of this module beside the one its server loads.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every copy of this module in one process holds the same open streams.",
+    },
   ],
 } as const satisfies Module

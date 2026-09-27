@@ -69,11 +69,22 @@ export async function answerFollow(request: Request, readUser: ReadUser): Promis
   return Response.json({ ...said, withheld: gated.withheld }, { status: answered.status })
 }
 
-const open = new Set<() => undefined>()
+const OPEN = Symbol.for("akasha.answer-following.open")
 
-export function eventsEnded(): undefined {
-  for (const end of [...open]) end()
-  return undefined
+type Holding = { [OPEN]?: Set<() => undefined> }
+
+function openIn(held: Holding): Set<() => undefined> {
+  const found = held[OPEN] ?? new Set<() => undefined>()
+  held[OPEN] = found
+  return found
+}
+
+const open = openIn(globalThis as Holding)
+
+export function eventsEnded(): number {
+  const ending = [...open]
+  for (const end of ending) end()
+  return ending.length
 }
 
 export function endable(given: ReadableStream<Uint8Array>): ReadableStream<Uint8Array> {
