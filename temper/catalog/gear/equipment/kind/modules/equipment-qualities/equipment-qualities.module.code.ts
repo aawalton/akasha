@@ -19,6 +19,8 @@ interface EquipmentQualityTemplate {
   readonly armorLevelScale: number
   readonly weaponLevelScale: number
   readonly setBonusScale: number
+  readonly graded: boolean
+  readonly isDefault: boolean
 }
 
 type QualityScale = "armorLevelScale" | "weaponLevelScale" | "setBonusScale"
@@ -54,6 +56,8 @@ function placed(row: Row): readonly [number, EquipmentQualityTemplate] {
       armorLevelScale: scaleOf(row.armorLevelScale),
       weaponLevelScale: scaleOf(row.weaponLevelScale),
       setBonusScale: scaleOf(row.setBonusScale),
+      graded: typeof row.setBonusScale === "number",
+      isDefault: row.defaultQuality === true,
     },
   ]
 }
@@ -83,10 +87,22 @@ export function equipmentQualities(): Qualities {
   return held
 }
 
+function isGraded(quality: EquipmentQualityOptionId): quality is EquipmentQualityId {
+  return equipmentQualities().data[quality]?.graded === true
+}
+
+function defaultQuality(): EquipmentQualityId {
+  const qualities = equipmentQualities()
+  const found = qualities.ids.find((id) => qualities.data[id].isDefault)
+  if (found === undefined || !isGraded(found)) {
+    throw new Error("no graded quality page is the default quality")
+  }
+  return found
+}
+
 export function resolveQuality(quality: EquipmentQualityOptionId | undefined): EquipmentQualityId {
-  if (quality == null || quality === "no-quality") return "legendary"
-  if (quality === "mythic") return "legendary"
-  return quality
+  if (quality != null && isGraded(quality)) return quality
+  return defaultQuality()
 }
 
 export function qualityScale(quality: EquipmentQualityId, scale: QualityScale): number {

@@ -19,5 +19,9 @@ export const equipmentQualities = {
       decisionKind: "decision-kind/departure",
       statement: "One quality is lower than another when its hash place is lower.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quality that is not graded is read as the quality page marked the default.",
+    },
   ],
 } as const satisfies Module

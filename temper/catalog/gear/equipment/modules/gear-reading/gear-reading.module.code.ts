@@ -76,6 +76,7 @@ export const GEAR_READS: readonly Read[] = [
       "armorLevelScale",
       "weaponLevelScale",
       "setBonusScale",
+      "defaultQuality",
     ],
   ],
   [temperSetBonusStep.slug, ["slug", "setBonusScale"]],

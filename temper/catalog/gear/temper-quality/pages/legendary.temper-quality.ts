@@ -14,4 +14,5 @@ export const legendary = {
   weaponLevelScale: 1,
   armorLevelScale: 1,
   setBonusScale: 1,
+  defaultQuality: true,
 } as const satisfies TemperQuality
