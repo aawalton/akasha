@@ -4,6 +4,7 @@ export const orgWormCult = {
   id: "01a0e0f0-274a-7e1c-9429-46a28f5de214",
   type: "page-type/temper-motif-style",
   slug: "org-worm-cult",
-  title: "ITEMSTYLE_ORG_WORM_CULT",
+  title: "Worm Cult",
   esoItemStyleId: 55,
+  styleName: "Worm Cult",
 } as const satisfies TemperMotifStyle
