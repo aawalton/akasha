@@ -10,7 +10,7 @@ export const theDatingGame00025 = {
   position: 25,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "“Hi there!” I walk over toward her. “I don’t think I’ve seen you here before. I’m Alan, I live just down the street there on Apple” I gesture back the way I came. “Nice to meet you!”",
   beats: [
@@ -27,5 +27,5 @@ export const theDatingGame00025 = {
     "Her hand rests on the brass lantern's handle beside her, unlit.",
   ],
   issues: ['"and the move leaves room on the step beside her" - No Prompt'],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
