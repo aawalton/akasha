@@ -5,6 +5,7 @@ import {
 import { charcoal } from "akasha/design/interface/color/pages/charcoal.color.ts"
 import { TEXT_PRIMARY } from "akasha/design/interface/token/modules/text-color/text-color.module.code.ts"
 import { engineConstantsTable } from "akasha/temper/eso/constant/modules/engine-constants-seeding/engine-constants-seeding.module.code.ts"
+import { markupPieces } from "akasha/temper/eso/string/modules/eso-markup/eso-markup.module.code.ts"
 import { paintArt } from "akasha/temper/eso/ui-harness/modules/ui-art-painting/ui-art-painting.module.code.ts"
 import { faceKey } from "akasha/temper/eso/ui-harness/modules/ui-fonts/ui-fonts.module.code.ts"
 import type {
@@ -145,13 +146,6 @@ function escaped(text: string): string {
     .replace(/"/g, "&quot;")
 }
 
-const MARKUP: readonly (readonly [RegExp, string])[] = [
-  [/\|u[^:|]*:[^:|]*:[^:|]*:([^|]*)\|u/g, "$1"],
-  [/\|H[^|]*\|h([^|]*)\|h/g, "$1"],
-]
-
-const CODES = /\|c([0-9a-fA-F]{6})|\|r|\|t([^|]*)\|t/g
-
 const PERCENT = 100
 
 function iconSize(said: string | undefined): string {
@@ -170,26 +164,14 @@ function iconHtml(said: string, options: UiPictureOptions): string {
 }
 
 function markedHtml(text: string, options: UiPictureOptions): string {
-  const plain = MARKUP.reduce((held, [shape, kept]) => held.replace(shape, kept), text)
-  const written: string[] = []
-  let open = 0
-  let from = 0
-  for (const matched of plain.matchAll(CODES)) {
-    written.push(escaped(plain.slice(from, matched.index)))
-    from = matched.index + matched[0].length
-    const [code, color, icon] = matched
-    if (color !== undefined) {
-      written.push(`<span style="color:#${color}">`)
-      open += 1
-    } else if (icon !== undefined) {
-      written.push(iconHtml(icon, options))
-    } else if (code === "|r" && open > 0) {
-      written.push("</span>")
-      open -= 1
-    }
-  }
-  written.push(escaped(plain.slice(from)), "</span>".repeat(open))
-  return written.join("")
+  return markupPieces(text)
+    .map((piece) => {
+      const shown = piece.kind === "icon" ? iconHtml(piece.icon, options) : escaped(piece.text)
+      return piece.color === undefined
+        ? shown
+        : `<span style="color:#${piece.color}">${shown}</span>`
+    })
+    .join("")
 }
 
 function asCss(color: UiColor): string {

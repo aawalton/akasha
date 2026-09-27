@@ -143,11 +143,7 @@ export const uiPicture = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A link or an underline the markup wraps is drawn as the words it wraps.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Text the markup colors is drawn in that color until the markup ends it.",
+      statement: "Text is drawn as the pieces `eso-markup` splits it into, each in its color.",
     },
     {
       decisionKind: "decision-kind/departure",
