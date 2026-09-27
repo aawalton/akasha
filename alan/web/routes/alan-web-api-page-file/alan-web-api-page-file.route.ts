@@ -20,5 +20,9 @@ export const alanWebApiPageFile = {
       decisionKind: "decision-kind/departure",
       statement: "A file that is no image and no text is answered as bytes to keep.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A browser keeps an image's file a year without asking for it again.",
+    },
   ],
 } as const satisfies Route

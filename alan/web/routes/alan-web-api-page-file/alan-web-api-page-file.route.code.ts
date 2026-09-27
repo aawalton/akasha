@@ -11,6 +11,10 @@ const BYTES_TYPE = "application/octet-stream"
 
 const HELD_FOR = "private, max-age=60, must-revalidate"
 
+const NAMED_BY_BYTES = "image"
+
+const HELD_FOR_GOOD = "private, max-age=31536000, immutable"
+
 function typeOf(bytes: Uint8Array): string {
   const ending = endingOf(bytes)
   if (ending !== null) return IMAGE_TYPE[ending]
@@ -46,6 +50,6 @@ export async function loader({
 
   headers.set("Content-Type", typeOf(held.bytes))
   headers.set("X-Content-Type-Options", "nosniff")
-  headers.set("Cache-Control", HELD_FOR)
+  headers.set("Cache-Control", params.pageTypeSlug === NAMED_BY_BYTES ? HELD_FOR_GOOD : HELD_FOR)
   return new Response(held.bytes, { headers })
 }
