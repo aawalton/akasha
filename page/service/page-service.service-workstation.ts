@@ -8,8 +8,8 @@ export const pageService = {
   enabled: true,
   port: 8787,
   binds: ["127.0.0.1", "::1", "workstation.alanwalton.ts.net"],
-  maxMemoryMb: 4096,
-  killMemoryMb: 6144,
+  maxMemoryMb: 16384,
+  killMemoryMb: 20480,
   systemd: {
     restartDelaySeconds: 1,
     startLimitIntervalSeconds: 0,
