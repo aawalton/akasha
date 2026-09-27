@@ -20,5 +20,9 @@ export const inventoryParser = {
       decisionKind: "decision-kind/departure",
       statement: "A bound item read out of a capture has a replacement value and no market value.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item keeps its enchant only where the capture names both its header and text.",
+    },
   ],
 } as const satisfies Module

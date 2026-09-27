@@ -44,6 +44,8 @@ export interface InventoryItemData {
   furnitureSubcategoryId?: number
   setId?: number
   isContainer?: boolean
+  enchantHeader?: string
+  enchantDescription?: string
   requiredLevel: number
   requiredCP: number
   stackCount: number

@@ -56,6 +56,10 @@ function giveTooltip(
     stackCount,
     charges: 0,
   }
+  if (row.enchantHeader !== undefined && row.enchantDescription !== undefined) {
+    instance.enchantHeader = row.enchantHeader
+    instance.enchantDescription = row.enchantDescription
+  }
   node.tooltipInstance = instance
   return undefined
 }

@@ -11,6 +11,8 @@ export interface ItemTooltipInstance {
   stolen: boolean
   stackCount: number
   charges: number
+  enchantHeader?: string
+  enchantDescription?: string
 }
 
 export interface MinedItemData {
@@ -70,12 +72,23 @@ export interface ItemTooltipData {
   charges: number
 }
 
+function withOwnEnchant(
+  reference: MinedItemData | null,
+  instance: ItemTooltipInstance
+): MinedItemData | null {
+  const { enchantHeader, enchantDescription } = instance
+  if (reference === null || enchantHeader === undefined || enchantDescription === undefined) {
+    return reference
+  }
+  return { ...reference, enchantHeader, enchantDescription }
+}
+
 export function resolveItemTooltipData(
   reference: MinedItemData | null,
   instance: ItemTooltipInstance
 ): ItemTooltipData {
   return {
-    referenceData: reference,
+    referenceData: withOwnEnchant(reference, instance),
     quality: instance.quality,
     level: instance.level,
     bound: instance.bound,

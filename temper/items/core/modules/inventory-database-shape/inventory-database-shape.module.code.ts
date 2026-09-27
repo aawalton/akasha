@@ -18,6 +18,8 @@ const itemSchema = z
     furnitureSubcategoryId: z.number().optional(),
     setId: z.number().optional(),
     isContainer: z.boolean().optional(),
+    enchantHeader: z.string().optional(),
+    enchantDescription: z.string().optional(),
     requiredLevel: z.number(),
     requiredCP: z.number(),
     stackCount: z.number(),

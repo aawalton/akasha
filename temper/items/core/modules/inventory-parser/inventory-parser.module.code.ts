@@ -141,6 +141,13 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
   if (typeof item.known === "boolean") parsed.known = item.known
   if (typeof item.crafted === "boolean") parsed.crafted = item.crafted
   if (typeof item.isContainer === "boolean") parsed.isContainer = item.isContainer
+
+  const enchantHeader = stringIn(item.enchantHeader)
+  const enchantDescription = stringIn(item.enchantDescription)
+  if (enchantHeader && enchantDescription) {
+    parsed.enchantHeader = enchantHeader
+    parsed.enchantDescription = enchantDescription
+  }
   if (typeof item.junk === "boolean") parsed.junk = item.junk
   if (typeof item.junkable === "boolean") parsed.junkable = item.junkable
 

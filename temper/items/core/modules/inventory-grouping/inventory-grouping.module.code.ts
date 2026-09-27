@@ -157,6 +157,8 @@ function flattenLocationItems(
       if (item.amountCount !== undefined) row.amountCount = item.amountCount
       if (item.saleAmountCount !== undefined) row.saleAmountCount = item.saleAmountCount
       if (item.suggestedPrice !== undefined) row.suggestedPrice = item.suggestedPrice
+      if (item.enchantHeader !== undefined) row.enchantHeader = item.enchantHeader
+      if (item.enchantDescription !== undefined) row.enchantDescription = item.enchantDescription
       items.push(row)
     }
   }

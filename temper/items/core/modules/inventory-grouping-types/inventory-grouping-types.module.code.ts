@@ -5,6 +5,8 @@ export interface InventoryItemRow {
   itemName: string
   quality: number
   itemLink?: string
+  enchantHeader?: string
+  enchantDescription?: string
   requiredLevel?: number
   stackCount: number
   value: number | undefined

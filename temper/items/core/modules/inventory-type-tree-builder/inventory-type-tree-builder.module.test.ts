@@ -66,6 +66,15 @@ test("two items of one name and quality but different links are a branch of leav
   expect(children.every((child) => child.tooltipInstance !== undefined)).toBe(true)
 })
 
+test("a leaf's tooltip carries the enchant its own slot was read with", () => {
+  const entry = entryOf("a", MACE_LINK)
+  entry.row.enchantHeader = "Absorb Stamina Enchantment"
+  entry.row.enchantDescription = "Deals |cffffff1124|r Physical Damage."
+  const leaf = leafOf(buildInventoryTypeNodes([entry], "Equipment", {})[0])
+  expect(leaf.tooltipInstance?.enchantHeader).toBe("Absorb Stamina Enchantment")
+  expect(leaf.tooltipInstance?.enchantDescription).toBe("Deals |cffffff1124|r Physical Damage.")
+})
+
 test("slots with no link still fold together, with no tooltip to open", () => {
   const [built] = buildInventoryTypeNodes(
     [entryOf("a", undefined), entryOf("b", undefined)],

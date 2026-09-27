@@ -6,4 +6,19 @@ export const itemTooltipTypes = {
   slug: "item-tooltip-types",
   definition: "what a tooltip says about an item",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a tooltip says of an item comes from what was read off its bare item id.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A bare item id is read at level 0, so the enchant read off it says 0.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An enchant read off the item's own link replaces the one its bare id gave.",
+    },
+  ],
 } as const satisfies Module
