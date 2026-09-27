@@ -61,6 +61,11 @@ function touched(one: Marked, paths: readonly string[], changed: ReadonlySet<str
   return [...changed].some((path) => pageTypeOf(path) === kind)
 }
 
+function unmarkedAtBase(change: Change, one: Marked): boolean {
+  const was = valued(textWas(change, one.page))
+  return was !== null && !marksOf(one.page, was).some((other) => keyOf(other) === keyOf(one))
+}
+
 function keptByPages(was: TableRead, marks: readonly Marked[], now: World): boolean {
   if ("unread" in was) return false
   return marks.some((other) => {
@@ -92,6 +97,7 @@ export function refusalsOver(
     const key = keyOf(one)
     if (seen.has(key)) continue
     seen.add(key)
+    if (unmarkedAtBase(change, one)) continue
     const after = tableOf(one, now)
     if (!touched(one, after.paths, changed)) continue
     const before = tableOf(one, was)

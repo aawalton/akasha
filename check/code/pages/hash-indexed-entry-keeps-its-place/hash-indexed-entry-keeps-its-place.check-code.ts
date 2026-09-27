@@ -73,6 +73,11 @@ export const hashIndexedEntryKeepsItsPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A mark a page gains in the change holds that page's table to nothing at the base.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A table the base could not read is held to nothing.",
     },
     {

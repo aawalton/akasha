@@ -123,6 +123,16 @@ test("a mark the change takes off a page still holds that change", () => {
   expect(markedBefore(over)).toEqual([TABLE])
 })
 
+test("a type the base held unmarked holds its pages to nothing", () => {
+  const unmarked = 'export const skill = { slug: "temper-skill" }\n'
+  const marked = 'export const skill = { slug: "temper-skill", hashIndexed: ["slug"] }\n'
+  const over = changing(
+    { [SKILL_TYPE]: unmarked, [SKILL_B]: "x", [SKILL_C]: "x" },
+    { [SKILL_TYPE]: marked, [SKILL_A]: "x" }
+  )
+  expect(refusalsOver(over, [ROWS], () => [SKILL_A, SKILL_B, SKILL_C])).toEqual([])
+})
+
 test("a page added among a marked type's pages ahead of the end is refused", () => {
   const over = changing({ [SKILL_B]: "x", [SKILL_C]: "x" }, { [SKILL_A]: "x" })
   const said = refusalsOver(over, [ROWS], () => [SKILL_A, SKILL_B, SKILL_C])
