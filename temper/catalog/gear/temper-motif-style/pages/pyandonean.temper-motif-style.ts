@@ -5,6 +5,8 @@ export const pyandonean = {
   type: "page-type/temper-motif-style",
   slug: "pyandonean",
   title: "Pyandonean",
+  esoItemStyleId: 75,
+  styleName: "Pyandonean",
   collectionIndex: 49,
   sourceDescription: "Rare fishing drop",
 } as const satisfies TemperMotifStyle
