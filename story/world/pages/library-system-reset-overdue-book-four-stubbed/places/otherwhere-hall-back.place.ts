@@ -73,6 +73,10 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "The big engorged bookworm senses a Librarian from about forty feet, and roars from there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "An engorged bookworm rears up and roars a squelching challenge when it senses a Librarian.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
