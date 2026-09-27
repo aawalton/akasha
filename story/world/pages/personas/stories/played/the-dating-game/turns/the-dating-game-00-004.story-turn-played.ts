@@ -4,10 +4,13 @@ export const theDatingGame00004 = {
   id: "01a0e304-a845-7da8-b30a-7516322ca43d",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-004",
+  ownLength: 257,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 4,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/the-dating-game-alan", "character-other/the-dating-game-echo"],
+  turnStatus: "turn-status/recorders",
   action:
     "I like that she's walking close, and I bump my shoulder gently into hers from time to time. \"I'm Alan, what's your name?\"",
   beats: [
