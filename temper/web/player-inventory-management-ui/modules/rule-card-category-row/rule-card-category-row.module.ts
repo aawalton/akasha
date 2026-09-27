@@ -11,5 +11,9 @@ export const ruleCardCategoryRow = {
       decisionKind: "decision-kind/departure",
       statement: "The all-of option and the select placeholder are rule card phrases.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The every-category option is named by the item category tree's all page.",
+    },
   ],
 } as const satisfies Module

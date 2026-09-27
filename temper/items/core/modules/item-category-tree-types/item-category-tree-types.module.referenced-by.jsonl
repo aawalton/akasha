@@ -1,5 +1,4 @@
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"command/pages/temper/inventory/category-list/temper-inventory-category-list.command.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"command/pages/temper/inventory/plan/temper-inventory-plan.command.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/addon/pages/items/modules/inventory-category-tree/inventory-category-tree.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts","typed":true,"deferred":false}

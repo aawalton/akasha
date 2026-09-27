@@ -8,11 +8,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import { categoryTitleOf } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
 import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
-import {
-  ALL_CATEGORIES_ID,
-  ALL_CATEGORIES_NODE,
-} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { ALL_CATEGORIES_ID } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getNodeChildren } from "akasha/temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import {
@@ -30,7 +28,9 @@ interface RuleCardCategoryRowProps {
 }
 
 export function RuleCardCategoryRow({ path, deepestChildren, onSelect }: RuleCardCategoryRowProps) {
-  const categories = useItemCategories().keyed
+  const tree = useItemCategories()
+  const categories = tree.keyed
+  const allNode = { id: ALL_CATEGORIES_ID, name: categoryTitleOf(tree, ALL_CATEGORIES_ID) }
   const phrases = useRuleCardPhrases()
   const allOf = (name: string): string =>
     phrases === null ? "" : phraseOf(phrases, ruleCardCategoryRowAll.key, { category: name })
@@ -40,7 +40,7 @@ export function RuleCardCategoryRow({ path, deepestChildren, onSelect }: RuleCar
       {path.map((node, depth) => {
         const parent = depth > 0 ? path[depth - 1] : undefined
         const treeChildren = getNodeChildren(parent?.id, categories)
-        const allOption = parent ? { id: parent.id, name: allOf(parent.name) } : ALL_CATEGORIES_NODE
+        const allOption = parent ? { id: parent.id, name: allOf(parent.name) } : allNode
         const siblings = [allOption, ...treeChildren]
         return (
           <CategoryBadgeSelect
@@ -58,8 +58,7 @@ export function RuleCardCategoryRow({ path, deepestChildren, onSelect }: RuleCar
         (() => {
           const deepest = path[path.length - 1]
           if (deepest === undefined) return null
-          const allName =
-            deepest.id === ALL_CATEGORIES_ID ? ALL_CATEGORIES_NODE.name : allOf(deepest.name)
+          const allName = deepest.id === ALL_CATEGORIES_ID ? allNode.name : allOf(deepest.name)
           return (
             <CategoryBadgeSelect
               depth={path.length}

@@ -11,5 +11,9 @@ export const ruleCategoryFilterSelect = {
       decisionKind: "decision-kind/departure",
       statement: "The choice of a whole category is worded by a web phrase page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The every-category choice is named by the item category tree's all page.",
+    },
   ],
 } as const satisfies Module

@@ -6,4 +6,10 @@ export const inventoryRulesDescriptions = {
   slug: "inventory-rules-descriptions",
   definition: "the sentence a reader is given for a rule",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule over every category is named by the item category tree's all page.",
+    },
+  ],
 } as const satisfies Module

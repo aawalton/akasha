@@ -22,6 +22,10 @@ export const inventoryRuleTypes = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The `all` category's name is its item category tree page's title, not held here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The rule settings hold the rules alone, and no item rule or buy rule.",
     },
     {

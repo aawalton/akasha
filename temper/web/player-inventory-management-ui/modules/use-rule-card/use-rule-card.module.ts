@@ -21,5 +21,9 @@ export const useRuleCard = {
       statement:
         "A filter offered is named by its condition field's page, and none is offered before.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule over every category is named by the item category tree's all page.",
+    },
   ],
 } as const satisfies Module

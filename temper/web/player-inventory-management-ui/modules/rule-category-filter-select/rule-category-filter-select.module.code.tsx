@@ -1,9 +1,7 @@
 "use client"
 
-import {
-  ALL_CATEGORIES_ID,
-  ALL_CATEGORIES_NODE,
-} from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { categoryTitleOf } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
+import { ALL_CATEGORIES_ID } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import {
   getNodeChildren,
   getNodePath,
@@ -21,17 +19,22 @@ export function RuleCategoryFilterSelect({
   ruleCategory: string
   onRuleCategoryChange: (id: string) => void
 }) {
-  const categories = useItemCategories().keyed
+  const tree = useItemCategories()
+  const categories = tree.keyed
   const phrase = usePhrase()
+  const allNode = useMemo(
+    () => ({ id: ALL_CATEGORIES_ID, name: categoryTitleOf(tree, ALL_CATEGORIES_ID) }),
+    [tree]
+  )
 
   const path = useMemo(
     () =>
       ruleCategory !== "" && ruleCategory !== ALL_CATEGORIES_ID
         ? getNodePath(ruleCategory, categories)
         : ruleCategory === ALL_CATEGORIES_ID
-          ? [{ id: ALL_CATEGORIES_ID, name: ALL_CATEGORIES_NODE.name }]
+          ? [allNode]
           : [],
-    [ruleCategory, categories]
+    [ruleCategory, categories, allNode]
   )
 
   const deepestChildren = useMemo(() => {
@@ -49,7 +52,7 @@ export function RuleCategoryFilterSelect({
         <CategoryBadgeSelect
           depth={0}
           selectedId={undefined}
-          options={[ALL_CATEGORIES_NODE, ...l0Children]}
+          options={[allNode, ...l0Children]}
           onSelect={(id) => onRuleCategoryChange(id === ALL_CATEGORIES_ID ? "" : id)}
         />
       </div>
@@ -66,7 +69,7 @@ export function RuleCategoryFilterSelect({
               id: parent.id,
               name: phrase(ruleCategoryFilterSelectAllOf.slug, { category: parent.name }),
             }
-          : ALL_CATEGORIES_NODE
+          : allNode
         const siblings = [allOption, ...treeChildren]
         return (
           <CategoryBadgeSelect
@@ -85,7 +88,7 @@ export function RuleCategoryFilterSelect({
           if (deepest === undefined) return null
           const allName =
             deepest.id === ALL_CATEGORIES_ID
-              ? ALL_CATEGORIES_NODE.name
+              ? allNode.name
               : phrase(ruleCategoryFilterSelectAllOf.slug, { category: deepest.name })
           return (
             <CategoryBadgeSelect

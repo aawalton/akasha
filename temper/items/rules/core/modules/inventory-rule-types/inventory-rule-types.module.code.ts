@@ -27,8 +27,6 @@ export type StockScope = "current-character" | "any-character"
 
 export const ALL_CATEGORIES_ID = "all"
 
-export const ALL_CATEGORIES_NODE = { id: ALL_CATEGORIES_ID, name: "All Categories" } as const
-
 export const IMPLICIT_TERMINAL_RULE_ID = "_implicit_all_nothing"
 
 export type MoveToDestination =

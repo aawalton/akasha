@@ -1,4 +1,7 @@
-import type { ItemCategoriesKeyed } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
+import {
+  heldCategoryTitle,
+  type ItemCategoriesKeyed,
+} from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
 import {
   classifyLocation,
   isLocationTypeId,
@@ -7,7 +10,6 @@ import { GOAL_NONE_ID } from "akasha/temper/items/rules/core/modules/inventory-r
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
-  ALL_CATEGORIES_NODE,
   type CategoryRule,
   type ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
@@ -119,7 +121,7 @@ export function buildCategorySearchText(r: CategoryRule, categories: ItemCategor
   if (r.title != null) parts.push(r.title.toLowerCase())
   if (r.notes != null) parts.push(r.notes.toLowerCase())
   if (r.categoryId === ALL_CATEGORIES_ID) {
-    parts.push(ALL_CATEGORIES_NODE.name.toLowerCase())
+    parts.push(heldCategoryTitle(ALL_CATEGORIES_ID).toLowerCase())
   } else {
     const path = getNodePath(r.categoryId, categories)
     if (path.length > 0) {

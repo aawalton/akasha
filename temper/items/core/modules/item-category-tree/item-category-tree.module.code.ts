@@ -13,13 +13,20 @@ export type ItemCategoriesKeyed = Readonly<Record<string, ItemCategoryNode>>
 export interface ItemCategories {
   readonly roots: ItemCategoryRoots
   readonly keyed: ItemCategoriesKeyed
+  readonly titles: ReadonlyMap<string, string>
 }
 
 export function itemCategoriesOf(rows: readonly Value[]): ItemCategories {
-  const roots = itemCategoryRootsOf(rows as readonly ItemCategoryRow[])
+  const branches = rows as readonly ItemCategoryRow[]
+  const roots = itemCategoryRootsOf(branches)
   const keyed: Record<string, ItemCategoryNode> = {}
   for (const root of roots) keyed[root.id] = root
-  return { roots, keyed }
+  const titles = new Map(branches.map((row) => [row.slug, row.title ?? row.slug]))
+  return { roots, keyed, titles }
+}
+
+export function categoryTitleOf(categories: ItemCategories, id: string): string {
+  return categories.titles.get(id) ?? id
 }
 
 const UNREAD =
@@ -41,6 +48,10 @@ export function holdItemCategories(categories: ItemCategories): ItemCategories {
 
 export function heldItemCategories(): ItemCategories | null {
   return held
+}
+
+export function heldCategoryTitle(id: string): string {
+  return held === null ? id : categoryTitleOf(held, id)
 }
 
 function itemCategories(): ItemCategories {

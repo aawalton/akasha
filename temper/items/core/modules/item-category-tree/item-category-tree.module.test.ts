@@ -58,6 +58,11 @@ test("a field a row holds as null is read as unstated, as the page service answe
   ])
 })
 
+test("every branch's title is held by slug, the branch that takes every item included", () => {
+  expect(probe.titles.get("all")).toBe("All Categories")
+  expect(probe.titles.get("bread")).toBe("bread")
+})
+
 test("the tree read from the checkout names each branch once and leaves out every item's branch", () => {
   const ids = everyId(holdItemCategoryTreeFromCheckout().roots)
   expect(ids.length).toBeGreaterThan(0)

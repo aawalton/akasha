@@ -3,19 +3,23 @@ import {
   categoriesSaid,
   categoryRows,
 } from "akasha/command/pages/temper/inventory/category-list/temper-inventory-category-list.command.code.ts"
+import type { ItemCategories } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
 import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
-import type { ItemCategoryRoots } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 
-const PROBE: ItemCategoryRoots = [
-  {
-    id: "currency",
-    name: "Currency",
-    children: [{ id: "currency-gold", name: "Gold" }],
-  },
-  { id: "tasks", name: "Tasks" },
-]
+const PROBE: ItemCategories = {
+  roots: [
+    {
+      id: "currency",
+      name: "Currency",
+      children: [{ id: "currency-gold", name: "Gold" }],
+    },
+    { id: "tasks", name: "Tasks" },
+  ],
+  keyed: {},
+  titles: new Map([["all", "All Categories"]]),
+}
 
-const REAL = holdItemCategoryTreeFromCheckout().roots
+const REAL = holdItemCategoryTreeFromCheckout()
 
 test("the category every item is in comes first and parents every root", () => {
   const rows = categoryRows(PROBE)
@@ -40,7 +44,7 @@ test("how deep a category sits is how far it is indented", () => {
 test("every root the tree read from the pages holds is given, in its order", () => {
   const rows = categoryRows(REAL)
   const roots = rows.filter((one) => one.depth === 1).map((one) => one.id)
-  expect(roots).toEqual(REAL.map((one) => one.id))
+  expect(roots).toEqual(REAL.roots.map((one) => one.id))
 })
 
 test("no category is named twice", () => {

@@ -22,5 +22,9 @@ export const itemCategoryTree = {
       statement:
         "The tree is answered both as its roots in priority order and keyed by each root's id.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every branch's title is held by slug, the branch taking every item included.",
+    },
   ],
 } as const satisfies Module

@@ -2,7 +2,6 @@
 
 import {
   ALL_CATEGORIES_ID,
-  ALL_CATEGORIES_NODE,
   type CategoryRule,
   CURRENCY_CATEGORY_PREFIX,
   type DestinationChain,
@@ -62,16 +61,17 @@ export type RuleCardOnUpdate = (
 ) => void
 
 export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
-  const categories = useItemCategories().keyed
+  const tree = useItemCategories()
+  const categories = tree.keyed
 
   const path = useMemo(
     () =>
       rule.categoryId === ALL_CATEGORIES_ID
-        ? [ALL_CATEGORIES_NODE]
+        ? [{ id: ALL_CATEGORIES_ID, name: tree.titles.get(ALL_CATEGORIES_ID) ?? ALL_CATEGORIES_ID }]
         : rule.categoryId !== ""
           ? getNodePath(rule.categoryId, categories)
           : [],
-    [rule.categoryId, categories]
+    [rule.categoryId, categories, tree]
   )
 
   const deepestChildren = useMemo(
@@ -222,10 +222,6 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
           : [...prev, "needed-for-target-companion-build"]
       )
       onUpdate(rule.id, { destination: value, conditions: equipPatch })
-      return
-    }
-    if (value === "character:by-priority") {
-      onUpdate(rule.id, { destination: value })
       return
     }
     onUpdate(rule.id, { destination: value })
