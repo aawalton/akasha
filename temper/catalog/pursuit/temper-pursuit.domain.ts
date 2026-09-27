@@ -17,6 +17,7 @@ export const temperPursuit = {
     "page-type/temper-recipe-list",
     "page-type/temper-research-line",
     "page-type/temper-tribute-patron",
+    "page-type/temper-lore-category",
   ],
   decisions: [
     {
