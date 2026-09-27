@@ -21,6 +21,7 @@ export const temperCharacterSource = {
     "module/mundus-source",
     "module/source-effects-reading",
     "module/target-armors",
+    "module/target-armor-loading",
     "module/target-source",
     "module/vampire-stages",
     "page-type/temper-attribute",

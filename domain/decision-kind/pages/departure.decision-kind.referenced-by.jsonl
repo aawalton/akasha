@@ -5703,6 +5703,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/eso-plus-source/eso-plus-source.module.ts","id":"01a060ea-ac63-7845-9a82-f9f16acf19da"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","id":"01a061a7-9bb1-778e-b38f-f397e2f754ea"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.ts","id":"01a0df59-89b4-7a82-a534-79cc5865c544"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-armor-loading/target-armor-loading.module.ts","id":"01a0e05b-db0c-74d1-b6f7-73473d64f37c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-armors/target-armors.module.ts","id":"01a060ea-ac64-73f9-9faf-71788fd4b609"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-source/target-source.module.ts","id":"01a060ea-ac65-7ac7-b0dd-b67eab31272a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/vampire-stages/vampire-stages.module.ts","id":"01a060ea-ac65-780c-876f-8ff34a264cc4"}

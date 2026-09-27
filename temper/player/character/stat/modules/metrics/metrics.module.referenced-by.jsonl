@@ -14,4 +14,5 @@
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/web/modules/stats-panel/stats-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.code.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"metrics.module.test-fixtures.ts","path":"temper/web/modules/character-reducer/character-reducer.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/stat/temper-character-stat.domain.ts","id":"01a0612f-aae6-7c1d-a590-b3004241a082"}

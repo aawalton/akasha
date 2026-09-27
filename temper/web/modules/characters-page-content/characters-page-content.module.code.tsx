@@ -29,6 +29,7 @@ import {
   isValidSortField,
   type SortField,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
+import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.code.tsx"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
@@ -116,7 +117,9 @@ export function CharactersPageContent({
             </Button>
             <PageTitle>Character Builds</PageTitle>
           </div>
-          {isAuthenticated && <NewCharacterButton />}
+          {isAuthenticated && (
+            <MetricCatalogGate fallback={null}>{() => <NewCharacterButton />}</MetricCatalogGate>
+          )}
         </div>
       </PageLayout.Header>
 
@@ -142,18 +145,22 @@ export function CharactersPageContent({
             <SkillCatalogGate fallback={<ListContentSkeleton />}>
               <SetCatalogGate fallback={<ListContentSkeleton />}>
                 {() => (
-                  <CharactersDataContent
-                    userId={userId}
-                    isAuthenticated={isAuthenticated}
-                    tab={tab}
-                    search={values.search}
-                    selectedRole={values.role}
-                    selectedClass={values.class}
-                    sortBy={values.sortBy}
-                    sortDirection={values.sortDirection}
-                    update={update}
-                    deferred={deferred}
-                  />
+                  <MetricCatalogGate fallback={<ListContentSkeleton />}>
+                    {() => (
+                      <CharactersDataContent
+                        userId={userId}
+                        isAuthenticated={isAuthenticated}
+                        tab={tab}
+                        search={values.search}
+                        selectedRole={values.role}
+                        selectedClass={values.class}
+                        sortBy={values.sortBy}
+                        sortDirection={values.sortDirection}
+                        update={update}
+                        deferred={deferred}
+                      />
+                    )}
+                  </MetricCatalogGate>
                 )}
               </SetCatalogGate>
             </SkillCatalogGate>

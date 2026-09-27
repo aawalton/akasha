@@ -2,6 +2,7 @@ import { getSubcategory } from "akasha/code/type/narrowing/modules/get-subcatego
 import { championPoints } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { defaultTargetArmorId } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 
 export const createNewCharacter = (): CharacterState => ({
   id: buildId(""),
@@ -220,15 +221,15 @@ export const createNewCharacter = (): CharacterState => ({
     potion: "no-potion",
     potion2: "no-potion",
   },
-  target: {
-    armor: "dungeon",
-    health: 1,
-    targetCount: 1,
-  },
+  target: defaultTarget(),
   account: {
     esoPlus: "no-eso-plus",
   },
 })
+
+function defaultTarget(): CharacterState["target"] {
+  return { armor: defaultTargetArmorId(), health: 1, targetCount: 1 }
+}
 
 export const createEmptyCharacter = (): CharacterState => {
   return {
@@ -444,11 +445,7 @@ export const createEmptyCharacter = (): CharacterState => {
       },
     },
     consumables: { foodOrDrink: "no-food-or-drink", potion: "no-potion", potion2: "no-potion" },
-    target: {
-      armor: "dungeon",
-      health: 1,
-      targetCount: 1,
-    },
+    target: defaultTarget(),
     account: {
       esoPlus: "no-eso-plus",
     },
