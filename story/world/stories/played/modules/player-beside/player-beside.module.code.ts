@@ -11,7 +11,7 @@ const SLUG_KEY = "slug"
 
 const STORY_KEY = "story"
 
-export type Played = { readonly values: Record<string, unknown> }
+type Played = { readonly values: Record<string, unknown> }
 
 export function characterIn(rows: readonly Played[]): string | null {
   for (const row of rows) {
