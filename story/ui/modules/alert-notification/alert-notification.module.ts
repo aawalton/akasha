@@ -6,4 +6,15 @@ export const alertNotification = {
   slug: "alert-notification",
   definition: "browser notification permission, and the notice raised when new content is ready",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice is raised only where the tab showing the content is out of focus.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Clicking a notice focuses the tab that raised it, back at the address it was raised on.",
+    },
+  ],
 } as const satisfies Module

@@ -23,6 +23,8 @@ import { useCallback, useEffect, useRef, useState } from "react"
 
 const UNFOLLOWED: StoryAlerts = { sound: "off", desktop: false }
 
+const NEW_CHAPTER = "A new chapter is ready."
+
 interface ChapterAlerts {
   readonly needsPermissionPrompt: boolean
   readonly enableAlerts: () => void
@@ -69,7 +71,7 @@ export function useChapterAlerts({
     if (seen === undefined) return
     if (!decideFrontierAdvance(seen, next)) return
     if (prefs.sound !== "off") playAlertSound(prefs.sound)
-    if (prefs.desktop) fireContentNotification(storyTitle, storyId)
+    if (prefs.desktop) fireContentNotification(storyTitle, NEW_CHAPTER, storyId)
   }, [envelope, prefs.sound, prefs.desktop, storyTitle, storyId])
 
   const enableAlerts = useCallback(() => {

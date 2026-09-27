@@ -18,15 +18,21 @@ export async function requestNotificationPermission(): Promise<AlertPermission> 
   }
 }
 
-export function fireContentNotification(gameTitle: string, tag: string): undefined {
+function whereShown(): string {
+  return `${window.location.pathname}${window.location.search}`
+}
+
+export function fireContentNotification(title: string, body: string, tag: string): undefined {
   if (!notificationSupported()) return
   if (Notification.permission !== "granted") return
   if (typeof document !== "undefined" && document.hasFocus()) return
+  const shownAt = whereShown()
   try {
-    void new Notification(gameTitle, {
-      body: "A new turn is ready.",
-      tag,
-      requireInteraction: true,
-    })
+    const notice = new Notification(title, { body, tag, requireInteraction: true })
+    notice.onclick = () => {
+      window.focus()
+      if (whereShown() !== shownAt) window.location.assign(shownAt)
+      notice.close()
+    }
   } catch {}
 }
