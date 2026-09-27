@@ -5,6 +5,4 @@ export const armorCardNoQuality = {
   type: "page-type/temper-web-phrase",
   slug: "armor-card-no-quality",
   title: "No Quality",
-  key: "armor-card--no-quality",
-  displayOrder: 1,
 } as const satisfies TemperWebPhrase

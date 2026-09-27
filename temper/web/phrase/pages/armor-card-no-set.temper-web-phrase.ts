@@ -5,6 +5,4 @@ export const armorCardNoSet = {
   type: "page-type/temper-web-phrase",
   slug: "armor-card-no-set",
   title: "No Set",
-  key: "armor-card--no-set",
-  displayOrder: 2,
 } as const satisfies TemperWebPhrase

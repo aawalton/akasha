@@ -47,6 +47,12 @@ import {
   SetSelectDialog,
 } from "akasha/temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { armorCardNoEnchant } from "akasha/temper/web/phrase/pages/armor-card-no-enchant.temper-web-phrase.ts"
+import { armorCardNoQuality } from "akasha/temper/web/phrase/pages/armor-card-no-quality.temper-web-phrase.ts"
+import { armorCardNoSet } from "akasha/temper/web/phrase/pages/armor-card-no-set.temper-web-phrase.ts"
+import { armorCardNoTrait } from "akasha/temper/web/phrase/pages/armor-card-no-trait.temper-web-phrase.ts"
+import { armorCardNoWeight } from "akasha/temper/web/phrase/pages/armor-card-no-weight.temper-web-phrase.ts"
+import { armorCardRemove } from "akasha/temper/web/phrase/pages/armor-card-remove.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
 
 export interface ArmorUpdateParams {
@@ -168,7 +174,7 @@ export function ArmorCard({
                     </Badge>
                   </SelectTrigger>
                   <SelectContent
-                    nullSentinel={{ value: "no-quality", label: phrase("armor-card--no-quality") }}
+                    nullSentinel={{ value: "no-quality", label: phrase(armorCardNoQuality.slug) }}
                   >
                     {availableQualityOptions()
                       .filter((option) => option.id !== "no-quality")
@@ -190,7 +196,7 @@ export function ArmorCard({
                   disabled={readOnly}
                 >
                   <Badge variant="elevation-muted" className="shrink-0">
-                    {selectedSet?.name ?? phrase("armor-card--no-set")}
+                    {selectedSet?.name ?? phrase(armorCardNoSet.slug)}
                   </Badge>
                 </button>
                 <Select<StandardArmorWeightId>
@@ -200,11 +206,11 @@ export function ArmorCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder={phrase("armor-card--no-weight")} />
+                      <SelectValue placeholder={phrase(armorCardNoWeight.slug)} />
                     </Badge>
                   </SelectTrigger>
                   <SelectContent
-                    nullSentinel={{ value: "no-weight", label: phrase("armor-card--no-weight") }}
+                    nullSentinel={{ value: "no-weight", label: phrase(armorCardNoWeight.slug) }}
                   >
                     {validWeightOptions
                       .filter((option) => option.id !== "no-weight")
@@ -222,11 +228,11 @@ export function ArmorCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder={phrase("armor-card--no-trait")} />
+                      <SelectValue placeholder={phrase(armorCardNoTrait.slug)} />
                     </Badge>
                   </SelectTrigger>
                   <SelectContent
-                    nullSentinel={{ value: "no-trait", label: phrase("armor-card--no-trait") }}
+                    nullSentinel={{ value: "no-trait", label: phrase(armorCardNoTrait.slug) }}
                     sorted
                   >
                     {armorTraitOptions(itemData?.trait ?? "no-trait")
@@ -245,11 +251,11 @@ export function ArmorCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder={phrase("armor-card--no-enchant")} />
+                      <SelectValue placeholder={phrase(armorCardNoEnchant.slug)} />
                     </Badge>
                   </SelectTrigger>
                   <SelectContent
-                    nullSentinel={{ value: "no-enchant", label: phrase("armor-card--no-enchant") }}
+                    nullSentinel={{ value: "no-enchant", label: phrase(armorCardNoEnchant.slug) }}
                     sorted
                   >
                     {armorEnchants.list
@@ -266,7 +272,7 @@ export function ArmorCard({
           </div>
         )}
         onRemove={!readOnly && hasValues ? onRemove : undefined}
-        removeLabel={phrase("armor-card--remove", { name })}
+        removeLabel={phrase(armorCardRemove.slug, { name })}
       />
 
       {!readOnly && (

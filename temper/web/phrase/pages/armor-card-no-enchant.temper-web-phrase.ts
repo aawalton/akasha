@@ -5,6 +5,4 @@ export const armorCardNoEnchant = {
   type: "page-type/temper-web-phrase",
   slug: "armor-card-no-enchant",
   title: "No Enchant",
-  key: "armor-card--no-enchant",
-  displayOrder: 5,
 } as const satisfies TemperWebPhrase

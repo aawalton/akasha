@@ -5,6 +5,4 @@ export const armorCardNoWeight = {
   type: "page-type/temper-web-phrase",
   slug: "armor-card-no-weight",
   title: "No Weight",
-  key: "armor-card--no-weight",
-  displayOrder: 3,
 } as const satisfies TemperWebPhrase

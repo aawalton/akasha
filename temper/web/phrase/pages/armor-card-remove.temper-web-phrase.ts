@@ -5,6 +5,4 @@ export const armorCardRemove = {
   type: "page-type/temper-web-phrase",
   slug: "armor-card-remove",
   title: "Remove {name}",
-  key: "armor-card--remove",
-  displayOrder: 6,
 } as const satisfies TemperWebPhrase
