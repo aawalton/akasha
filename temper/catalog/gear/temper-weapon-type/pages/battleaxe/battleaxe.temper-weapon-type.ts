@@ -4,7 +4,7 @@ export const battleaxe = {
   id: "019e46b6-4090-7d4c-a86c-10a0650be267",
   type: "page-type/temper-weapon-type",
   slug: "battleaxe",
-  title: "Battleaxe",
+  title: "Battle Axe",
   key: "battleaxe",
   enchantmentMultiplier: 1,
   esoWeaponType: "WEAPONTYPE_TWO_HANDED_AXE",

@@ -36,7 +36,7 @@ describe("The names read from the gear pages are the names the item tooltip drew
       2: "Mace",
       3: "Sword",
       4: "Greatsword",
-      5: "Battleaxe",
+      5: "Battle Axe",
       6: "Maul",
       8: "Bow",
       9: "Restoration Staff",

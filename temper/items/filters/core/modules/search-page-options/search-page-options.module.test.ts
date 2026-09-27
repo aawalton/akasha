@@ -45,7 +45,7 @@ test("the weapon type pages offer the twelve weapon types the search filter offe
     { value: "2", label: "Mace" },
     { value: "3", label: "Sword" },
     { value: "4", label: "Greatsword" },
-    { value: "5", label: "Battleaxe" },
+    { value: "5", label: "Battle Axe" },
     { value: "6", label: "Maul" },
     { value: "8", label: "Bow" },
     { value: "9", label: "Restoration Staff" },
