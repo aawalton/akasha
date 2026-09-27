@@ -26,5 +26,7 @@ export const otherwhere00005 = {
     "\"Not 'of some sort.' The Library. And this is the basement. Didn't you read the packet?\"",
     "It sits back on its haunches in front of her, ear tufts twitching, and waits for her answer.",
   ],
+  issues: ['"It sits back on its haunches in front of you" - Leave It Open'],
   lore: ["lore/otherwhere-alan", "place/otherwhere-core-chamber", "lore/otherwhere-links"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
