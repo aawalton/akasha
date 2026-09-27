@@ -67,7 +67,8 @@ export function ProposeDialog({
     const landed = await postedTo(postTo, { act: "propose", ask })
     setWorking(false)
     if ("refused" in landed) {
-      setRefused(landed.refused)
+      const worded = phrase(landed.refused, landed.fills)
+      setRefused(worded === "" ? landed.refused : worded)
       return
     }
     onProposed?.(landed.slug)

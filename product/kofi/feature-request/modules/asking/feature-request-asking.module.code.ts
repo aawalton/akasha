@@ -19,8 +19,6 @@ export const NOTHING_TO_DO = featureRequestNothingToDo.slug
 
 export const NO_POINTS = featureRequestNoPoints.slug
 
-const PHRASED: readonly string[] = [SIGNED_OUT, NOTHING_TO_DO, NO_POINTS]
-
 type Posting = {
   readonly product: string
   readonly contributor: string | null
@@ -73,10 +71,8 @@ export async function answeredFor(request: Request, posting: Posting): Promise<R
   const landed = await landedFor(await bodyOf(request), posting)
   if ("refused" in landed) {
     const status = landed.refused === SIGNED_OUT ? 401 : 400
-    const error = PHRASED.includes(landed.refused)
-      ? (await phrasingRead())(landed.refused)
-      : landed.refused
-    return Response.json({ error }, { status })
+    const phrased = (await phrasingRead())(landed.refused, landed.fills)
+    return Response.json({ error: phrased === "" ? landed.refused : phrased }, { status })
   }
   return Response.json({ slug: landed.slug })
 }

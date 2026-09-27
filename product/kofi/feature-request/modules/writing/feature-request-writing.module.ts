@@ -58,7 +58,8 @@ export const featureRequestWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refusal is answered in words rather than thrown.",
+      statement:
+        "A refusal made here is a web phrase's slug and its fills, answered rather than thrown.",
     },
     {
       decisionKind: "decision-kind/absence",

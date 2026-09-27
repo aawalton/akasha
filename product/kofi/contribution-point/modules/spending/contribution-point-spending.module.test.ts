@@ -44,7 +44,7 @@ test("a request at another standing takes no boost", () => {
       at: AT,
     })
     expect("refused" in said).toBe(true)
-    expect("refused" in said ? said.refused : "").toContain(standing)
+    expect("refused" in said ? said.fills?.standing : "").toBe(standing)
   }
 })
 
@@ -125,6 +125,7 @@ test("opening a request costs a hundred points and boosts that request with them
 test("a contributor under a hundred points opens no request", () => {
   const said = proposing({ contributor: ONE, balance: 99, at: AT })
   expect("refused" in said).toBe(true)
+  expect("refused" in said ? said.fills : {}).toEqual({ cost: PROPOSAL_COST, balance: 99 })
 })
 
 test("a denial gives back every boost but the hundred the proposer paid", () => {

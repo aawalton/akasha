@@ -34,11 +34,12 @@ export const featureRequestAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refusal is answered as JSON with 400, carrying the words the writing gave.",
+      statement:
+        "A refusal is answered as JSON with 400, carrying its phrase with the fills filled.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A refusal made here is a web phrase's slug, answered as the phrase's words.",
+      statement: "A refusal naming no phrase, as a failed read does, is answered in its own words.",
     },
     {
       decisionKind: "decision-kind/departure",

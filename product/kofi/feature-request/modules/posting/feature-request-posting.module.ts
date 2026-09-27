@@ -15,5 +15,10 @@ export const featureRequestPosting = {
       decisionKind: "decision-kind/departure",
       statement: "A post that reached nothing reads as a refusal rather than throwing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A post that reached nothing is refused as a phrase's slug, for the dialog to word.",
+    },
   ],
 } as const satisfies Module

@@ -1,4 +1,14 @@
+import { boostNotPublished } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/boost-not-published.web-phrase.ts"
+import { boostOverBalance } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/boost-over-balance.web-phrase.ts"
+import { boostPointsNotWhole } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/boost-points-not-whole.web-phrase.ts"
+import { proposalOverBalance } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/proposal-over-balance.web-phrase.ts"
+
 export const PROPOSAL_COST = 100
+
+export type Refused = {
+  readonly refused: string
+  readonly fills?: Readonly<Record<string, string | number>>
+}
 
 const PUBLISHED = "published"
 
@@ -18,7 +28,7 @@ type Moved = {
   readonly balance: number
 }
 
-type Moving = { readonly moved: Moved } | { readonly refused: string }
+type Moving = { readonly moved: Moved } | Refused
 
 function wholeAbove(points: number): boolean {
   return Number.isSafeInteger(points) && points > 0
@@ -44,13 +54,16 @@ export function boosting(given: {
   readonly at: string
 }): Moving {
   if (!wholeAbove(given.points)) {
-    return { refused: "the points committed are a whole number above nothing" }
+    return { refused: boostPointsNotWhole.slug }
   }
   if (given.standing !== PUBLISHED) {
-    return { refused: `a request Alan has left \`${given.standing}\` takes no boost` }
+    return { refused: boostNotPublished.slug, fills: { standing: given.standing } }
   }
   if (given.points > given.balance) {
-    return { refused: `${given.points} points are more than the ${given.balance} held` }
+    return {
+      refused: boostOverBalance.slug,
+      fills: { points: given.points, balance: given.balance },
+    }
   }
   return {
     moved: {
@@ -68,7 +81,8 @@ export function proposing(given: {
 }): Moving {
   if (given.balance < PROPOSAL_COST) {
     return {
-      refused: `opening a request costs ${PROPOSAL_COST} points, and ${given.balance} are held`,
+      refused: proposalOverBalance.slug,
+      fills: { cost: PROPOSAL_COST, balance: given.balance },
     }
   }
   return {

@@ -67,7 +67,8 @@ export function BoostDialog({
     })
     setWorking(false)
     if ("refused" in landed) {
-      setRefused(landed.refused)
+      const worded = phrase(landed.refused, landed.fills)
+      setRefused(worded === "" ? landed.refused : worded)
       return
     }
     setBoosted(true)

@@ -1,5 +1,9 @@
 import { contributorNamedAs } from "akasha/alan/harness/better-auth-rr/modules/sign-in-naming/sign-in-naming.module.code.ts"
 import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
+import { featureRequestAskMissing } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-ask-missing.web-phrase.ts"
+import { featureRequestAskTooLong } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-ask-too-long.web-phrase.ts"
+import { featureRequestNoContributor } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-no-contributor.web-phrase.ts"
+import { featureRequestNoSuchRequest } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-no-such-request.web-phrase.ts"
 import {
   recordsIn,
   type Value,
@@ -14,6 +18,7 @@ import {
   type Boost,
   boosting,
   proposing,
+  type Refused,
 } from "akasha/product/kofi/contribution-point/modules/spending/contribution-point-spending.module.code.ts"
 import { requestSlugFor } from "akasha/product/kofi/feature-request/modules/naming/feature-request-naming.module.code.ts"
 import { featureRequestAsk } from "akasha/product/kofi/feature-request/properties/feature-request-ask.text-property.ts"
@@ -32,7 +37,7 @@ const REQUEST_KEYS: readonly string[] = ["slug", "standing", "boosts"]
 
 const SLUG_KEYS: readonly string[] = ["slug"]
 
-export type Landed = { readonly slug: string } | { readonly refused: string }
+export type Landed = { readonly slug: string } | Refused
 
 type Held =
   | {
@@ -40,7 +45,7 @@ type Held =
       readonly transactions: readonly Value[]
       readonly read: string | undefined
     }
-  | { readonly refused: string }
+  | Refused
 
 async function heldBy(contributor: string): Promise<Held> {
   const asked = await askingFor({
@@ -50,7 +55,8 @@ async function heldBy(contributor: string): Promise<Held> {
   })
   if ("refused" in asked) return { refused: asked.refused }
   const row = asked.rows[0]
-  if (row === undefined) return { refused: `\`${contributor}\` names no contributor` }
+  if (row === undefined)
+    return { refused: featureRequestNoContributor.slug, fills: { contributor } }
   const transactions = recordsIn(row.transactions)
   return { balance: balanceOf(transactions), transactions, read: asked.at }
 }
@@ -101,10 +107,12 @@ type Proposal = {
 
 export async function proposedBy(given: Proposal): Promise<Landed> {
   const ask = given.ask.trim()
-  if (ask === "") return { refused: "a feature request says what it asks for" }
+  if (ask === "") return { refused: featureRequestAskMissing.slug }
   if (ask.length > featureRequestAsk.maxLength) {
-    const holds = `an ask holds ${featureRequestAsk.maxLength} characters`
-    return { refused: `${holds}, and this one runs to ${ask.length}` }
+    return {
+      refused: featureRequestAskTooLong.slug,
+      fills: { holds: featureRequestAsk.maxLength, length: ask.length },
+    }
   }
   const held = await heldBy(given.contributor)
   if ("refused" in held) return held
@@ -160,7 +168,7 @@ export async function boostedBy(given: Boosting): Promise<Landed> {
   if ("refused" in asked) return { refused: asked.refused }
   const row = asked.rows[0]
   if (row === undefined) {
-    return { refused: `\`${given.request}\` names no feature request of this product` }
+    return { refused: featureRequestNoSuchRequest.slug, fills: { request: given.request } }
   }
   const held = await heldBy(given.contributor)
   if ("refused" in held) return held
