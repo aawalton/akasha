@@ -11,5 +11,9 @@ export const inventoryRulesFilterBar = {
       decisionKind: "decision-kind/departure",
       statement: "The bar's title and search placeholder are read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sort names are web phrase pages the filter types read.",
+    },
   ],
 } as const satisfies Module

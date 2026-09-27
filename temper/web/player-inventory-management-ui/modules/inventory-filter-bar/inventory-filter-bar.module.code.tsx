@@ -14,59 +14,72 @@ import type { SortDirection } from "akasha/design/interface/pattern/modules/sort
 import { qualityOptions } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
 import { traitOptionsByFamily } from "akasha/temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts"
 import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryFilterBarArmorTraits } from "akasha/temper/web/phrase/pages/inventory-filter-bar-armor-traits.temper-web-phrase.ts"
+import { inventoryFilterBarCompanionTraits } from "akasha/temper/web/phrase/pages/inventory-filter-bar-companion-traits.temper-web-phrase.ts"
+import { inventoryFilterBarJewelryTraits } from "akasha/temper/web/phrase/pages/inventory-filter-bar-jewelry-traits.temper-web-phrase.ts"
+import { inventoryFilterBarSearch } from "akasha/temper/web/phrase/pages/inventory-filter-bar-search.temper-web-phrase.ts"
+import { inventoryFilterBarWeaponTraits } from "akasha/temper/web/phrase/pages/inventory-filter-bar-weapon-traits.temper-web-phrase.ts"
+import { inventoryFilterTypesSortQuality } from "akasha/temper/web/phrase/pages/inventory-filter-types-sort-quality.temper-web-phrase.ts"
+import {
   type InventoryViewFilterDef,
-  SORT_OPTIONS,
   type SortField,
+  sortOptions,
   type ViewFilterId,
   type ViewFilterPopoverProps,
 } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
-import { useState } from "react"
+import { useMemo, useState } from "react"
 
 type TraitFamilyKey = "armor" | "weapon" | "jewelry" | "companion"
 
 const TRAIT_FAMILY_CONFIG: {
   id: ViewFilterId
-  label: string
+  labelSlug: string
   familyKey: TraitFamilyKey
   getProp: (props: ViewFilterPopoverProps) => readonly string[]
   getOnChange: (props: ViewFilterPopoverProps) => (traits: readonly string[]) => void
 }[] = [
   {
     id: "armor-traits",
-    label: "Armor Traits",
+    labelSlug: inventoryFilterBarArmorTraits.slug,
     familyKey: "armor",
     getProp: (p) => p.armorTraits,
     getOnChange: (p) => p.onArmorTraitsChange,
   },
   {
     id: "weapon-traits",
-    label: "Weapon Traits",
+    labelSlug: inventoryFilterBarWeaponTraits.slug,
     familyKey: "weapon",
     getProp: (p) => p.weaponTraits,
     getOnChange: (p) => p.onWeaponTraitsChange,
   },
   {
     id: "jewelry-traits",
-    label: "Jewelry Traits",
+    labelSlug: inventoryFilterBarJewelryTraits.slug,
     familyKey: "jewelry",
     getProp: (p) => p.jewelryTraits,
     getOnChange: (p) => p.onJewelryTraitsChange,
   },
   {
     id: "companion-traits",
-    label: "Companion Traits",
+    labelSlug: inventoryFilterBarCompanionTraits.slug,
     familyKey: "companion",
     getProp: (p) => p.companionTraits,
     getOnChange: (p) => p.onCompanionTraitsChange,
   },
 ]
 
-function traitFamilyFilter(config: (typeof TRAIT_FAMILY_CONFIG)[number]): InventoryViewFilterDef {
-  const { id, label, familyKey, getProp, getOnChange } = config
+function traitFamilyFilter(
+  config: (typeof TRAIT_FAMILY_CONFIG)[number],
+  phrase: Phrase
+): InventoryViewFilterDef {
+  const { id, labelSlug, familyKey, getProp, getOnChange } = config
 
   return {
     id,
-    label,
+    label: phrase(labelSlug),
     hasValue: (props) => getProp(props).length > 0,
     renderGroup: (props: ViewFilterPopoverProps) => {
       const familyOptions = traitOptionsByFamily()[familyKey] ?? []
@@ -91,30 +104,32 @@ function traitFamilyFilter(config: (typeof TRAIT_FAMILY_CONFIG)[number]): Invent
   }
 }
 
-const INVENTORY_VIEW_FILTERS: InventoryViewFilterDef[] = [
-  {
-    id: "quality",
-    label: "Quality",
-    hasValue: ({ qualities }) => qualities.length > 0,
-    renderGroup: ({ qualities, onQualitiesChange }: ViewFilterPopoverProps) => {
-      const offered = qualityOptions()
-      const selectedItems = offered.filter((item) => qualities.includes(Number(item.value)))
-      const handleSelect = (items: readonly BadgeToggleGroupItem[]) => {
-        onQualitiesChange(items.map((item) => Number(item.value)))
-      }
-      return (
-        <BadgeToggleGroup
-          items={offered}
-          value={selectedItems}
-          onSelect={handleSelect}
-          unselectedVariant="elevation-muted"
-          wrap
-        />
-      )
+function inventoryViewFilters(phrase: Phrase): InventoryViewFilterDef[] {
+  return [
+    {
+      id: "quality",
+      label: phrase(inventoryFilterTypesSortQuality.slug),
+      hasValue: ({ qualities }) => qualities.length > 0,
+      renderGroup: ({ qualities, onQualitiesChange }: ViewFilterPopoverProps) => {
+        const offered = qualityOptions()
+        const selectedItems = offered.filter((item) => qualities.includes(Number(item.value)))
+        const handleSelect = (items: readonly BadgeToggleGroupItem[]) => {
+          onQualitiesChange(items.map((item) => Number(item.value)))
+        }
+        return (
+          <BadgeToggleGroup
+            items={offered}
+            value={selectedItems}
+            onSelect={handleSelect}
+            unselectedVariant="elevation-muted"
+            wrap
+          />
+        )
+      },
     },
-  },
-  ...TRAIT_FAMILY_CONFIG.map(traitFamilyFilter),
-]
+    ...TRAIT_FAMILY_CONFIG.map((config) => traitFamilyFilter(config, phrase)),
+  ]
+}
 
 interface InventoryFilterBarProps {
   search: string
@@ -155,6 +170,8 @@ export function InventoryFilterBar({
   hasActiveFilters,
   onReset,
 }: InventoryFilterBarProps) {
+  const phrase = usePhrase()
+  const filters = useMemo(() => inventoryViewFilters(phrase), [phrase])
   const popoverProps: ViewFilterPopoverProps = {
     qualities,
     armorTraits,
@@ -170,22 +187,20 @@ export function InventoryFilterBar({
 
   const [addedFilters, setAddedFilters] = useState<Set<ViewFilterId>>(() => {
     const initial = new Set<ViewFilterId>()
-    for (const f of INVENTORY_VIEW_FILTERS) {
+    for (const f of filters) {
       if (f.hasValue(popoverProps)) initial.add(f.id)
     }
     return initial
   })
 
-  const visibleFilters = INVENTORY_VIEW_FILTERS.filter(
-    (f) => addedFilters.has(f.id) || f.hasValue(popoverProps)
-  )
+  const visibleFilters = filters.filter((f) => addedFilters.has(f.id) || f.hasValue(popoverProps))
 
-  const availableFilters = INVENTORY_VIEW_FILTERS.filter(
+  const availableFilters = filters.filter(
     (f) => !addedFilters.has(f.id) && !f.hasValue(popoverProps)
   )
 
   function handleAdd(id: string) {
-    const filter = INVENTORY_VIEW_FILTERS.find((f) => f.id === id)
+    const filter = filters.find((f) => f.id === id)
     if (!filter) return
     setAddedFilters((prev) => new Set(prev).add(filter.id))
   }
@@ -218,10 +233,14 @@ export function InventoryFilterBar({
 
   return (
     <SearchSortFilterRow hasActiveFilters={hasActiveFilters} onReset={onReset}>
-      <SearchButton value={search} onChange={onSearchChange} placeholder="Search items..." />
+      <SearchButton
+        value={search}
+        onChange={onSearchChange}
+        placeholder={phrase(inventoryFilterBarSearch.slug)}
+      />
 
       <SortButton
-        options={SORT_OPTIONS}
+        options={sortOptions(phrase)}
         sorts={[{ field: sortBy, direction: sortDirection }]}
         onSortsChange={(sorts) => {
           const first = sorts[0]

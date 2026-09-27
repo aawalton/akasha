@@ -6,4 +6,10 @@ export const inventoryScopeNote = {
   slug: "inventory-scope-note",
   definition: "the note saying what an inventory count leaves out",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The note hands the web phrase reader to the words it shows.",
+    },
+  ],
 } as const satisfies Module

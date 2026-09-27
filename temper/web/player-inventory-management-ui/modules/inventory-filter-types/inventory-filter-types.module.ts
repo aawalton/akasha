@@ -6,4 +6,10 @@ export const inventoryFilterTypes = {
   slug: "inventory-filter-types",
   definition: "what an inventory filter and sort may have, and what admits a value",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Sort option names are web phrase pages, read through the phrase passed in.",
+    },
+  ],
 } as const satisfies Module

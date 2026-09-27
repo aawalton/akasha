@@ -18,7 +18,7 @@ import type {
   RuleFilterPopoverProps,
   RuleSortField,
 } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
-import { RULE_SORT_OPTIONS } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
+import { ruleSortOptions } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
 import {
   ACTIVE_STATUS_ITEMS,
   GOAL_FILTER_ITEMS,
@@ -177,7 +177,7 @@ export function InventoryRulesFilterBar({
         />
 
         <SortButton
-          options={RULE_SORT_OPTIONS}
+          options={ruleSortOptions(phrase)}
           sorts={[{ field: ruleSortBy, direction: ruleSortDir }]}
           onSortsChange={(sorts) => {
             const first = sorts[0]

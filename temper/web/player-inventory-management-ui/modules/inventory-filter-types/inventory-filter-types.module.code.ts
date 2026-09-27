@@ -4,19 +4,42 @@ import type {
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { ITEM_ACTION_VALUES } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { qualityOptions } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
+import type { Phrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryFilterTypesSortAction } from "akasha/temper/web/phrase/pages/inventory-filter-types-sort-action.temper-web-phrase.ts"
+import { inventoryFilterTypesSortCount } from "akasha/temper/web/phrase/pages/inventory-filter-types-sort-count.temper-web-phrase.ts"
+import { inventoryFilterTypesSortGoal } from "akasha/temper/web/phrase/pages/inventory-filter-types-sort-goal.temper-web-phrase.ts"
+import { inventoryFilterTypesSortName } from "akasha/temper/web/phrase/pages/inventory-filter-types-sort-name.temper-web-phrase.ts"
+import { inventoryFilterTypesSortPriority } from "akasha/temper/web/phrase/pages/inventory-filter-types-sort-priority.temper-web-phrase.ts"
+import { inventoryFilterTypesSortQuality } from "akasha/temper/web/phrase/pages/inventory-filter-types-sort-quality.temper-web-phrase.ts"
+import { inventoryFilterTypesSortUpdated } from "akasha/temper/web/phrase/pages/inventory-filter-types-sort-updated.temper-web-phrase.ts"
+import { inventoryFilterTypesSortValue } from "akasha/temper/web/phrase/pages/inventory-filter-types-sort-value.temper-web-phrase.ts"
 import type { ReactNode } from "react"
 
 export type SortField = "name" | "quality" | "count" | "value"
 
 export type RuleSortField = "priority" | "name" | "action" | "goal" | "updated"
 
-export const RULE_SORT_OPTIONS: SortOption<RuleSortField>[] = [
-  { value: "priority", label: "Priority", defaultDirection: "asc" },
-  { value: "name", label: "Name", defaultDirection: "asc" },
-  { value: "action", label: "Action", defaultDirection: "asc" },
-  { value: "goal", label: "Goal", defaultDirection: "asc" },
-  { value: "updated", label: "Updated", defaultDirection: "desc" },
-]
+export function ruleSortOptions(phrase: Phrase): SortOption<RuleSortField>[] {
+  return [
+    {
+      value: "priority",
+      label: phrase(inventoryFilterTypesSortPriority.slug),
+      defaultDirection: "asc",
+    },
+    { value: "name", label: phrase(inventoryFilterTypesSortName.slug), defaultDirection: "asc" },
+    {
+      value: "action",
+      label: phrase(inventoryFilterTypesSortAction.slug),
+      defaultDirection: "asc",
+    },
+    { value: "goal", label: phrase(inventoryFilterTypesSortGoal.slug), defaultDirection: "asc" },
+    {
+      value: "updated",
+      label: phrase(inventoryFilterTypesSortUpdated.slug),
+      defaultDirection: "desc",
+    },
+  ]
+}
 
 export function isValidRuleSortField(value: unknown): value is RuleSortField {
   return (
@@ -39,12 +62,18 @@ export type FilterValues = {
   companionTraits: readonly string[]
 }
 
-export const SORT_OPTIONS: SortOption<SortField>[] = [
-  { value: "name", label: "Name", defaultDirection: "asc" },
-  { value: "quality", label: "Quality", defaultDirection: "desc" },
-  { value: "count", label: "Count", defaultDirection: "desc" },
-  { value: "value", label: "Value", defaultDirection: "desc" },
-]
+export function sortOptions(phrase: Phrase): SortOption<SortField>[] {
+  return [
+    { value: "name", label: phrase(inventoryFilterTypesSortName.slug), defaultDirection: "asc" },
+    {
+      value: "quality",
+      label: phrase(inventoryFilterTypesSortQuality.slug),
+      defaultDirection: "desc",
+    },
+    { value: "count", label: phrase(inventoryFilterTypesSortCount.slug), defaultDirection: "desc" },
+    { value: "value", label: phrase(inventoryFilterTypesSortValue.slug), defaultDirection: "desc" },
+  ]
+}
 
 export function isValidSortField(value: unknown): value is SortField {
   return value === "name" || value === "quality" || value === "count" || value === "value"
