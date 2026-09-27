@@ -26,7 +26,7 @@ export const ui = {
     "module/revealed-frontier",
     "module/session-envelope",
     "module/sheet-panel",
-    "module/status-drawer",
+
     "module/story-prose-dividers",
     "module/story-so-far",
     "module/system-card",

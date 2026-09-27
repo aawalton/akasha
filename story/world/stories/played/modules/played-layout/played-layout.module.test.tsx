@@ -1,7 +1,7 @@
 import "akasha/check/test/modules/dom-registering/dom-registering.module.code.ts"
 import { expect, test } from "bun:test"
 import { render, waitFor } from "@testing-library/react"
-import { PlayedLayout } from "akasha/story/world/stories/played/modules/played-shell/played-shell.module.code.tsx"
+import { PlayedLayout } from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
 import type { ReactNode } from "react"
 
 const WIDE = "max-w-[1100px]"

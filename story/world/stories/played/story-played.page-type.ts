@@ -21,6 +21,7 @@ export const storyPlayed = {
     "module/action-bar-sending",
     "module/action-bar-state",
     "module/played-beside",
+    "module/played-layout",
     "module/player-beside",
     "module/played-channel",
     "module/played-panels",

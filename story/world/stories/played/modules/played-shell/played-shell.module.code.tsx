@@ -2,12 +2,13 @@
 
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
+
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
-import { FrameHeaderAction } from "akasha/page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"
+
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
   type UsePagesSupabaseOptions,
@@ -19,7 +20,7 @@ import {
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { ChapterProseTitles } from "akasha/story/engine/core/modules/story-display/story-display.module.code.ts"
-import { AwenStatusDrawer } from "akasha/story/ui/modules/status-drawer/status-drawer.module.code.tsx"
+
 import type { PanelRun } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
 import {
   shownIn,
@@ -35,6 +36,10 @@ import { ActionBar } from "akasha/story/world/stories/played/modules/action-bar/
 import { sendAction } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
 import { usePlayedBeside } from "akasha/story/world/stories/played/modules/played-beside/played-beside.module.code.ts"
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
+import {
+  NARROW_PAGE,
+  PlayedLayout,
+} from "akasha/story/world/stories/played/modules/played-layout/played-layout.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import {
   PLAYED_APPOINTMENT_AT_KEY,
@@ -62,23 +67,7 @@ import {
   usePlayedState,
 } from "akasha/story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts"
 import { usePlayedProse } from "akasha/story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts"
-import { type ReactNode, type RefCallback, useEffect, useMemo, useState } from "react"
-
-const WIDE_PAGE =
-  "mx-auto flex w-full max-w-[1100px] flex-col gap-6 px-6 pt-3 pb-12 min-[584px]:pt-6"
-
-const NARROW_PAGE =
-  "mx-auto flex w-full max-w-[820px] flex-col gap-6 px-6 pt-3 pb-12 min-[584px]:pt-6"
-
-const RUN_WITH_PANELS = "grid grid-cols-1 gap-6 lg:grid-cols-[1fr_300px]"
-
-const RUN_ALONE = "flex flex-col gap-6"
-
-const RUN_COLUMN = "flex min-w-0 flex-col gap-6"
-
-const PANELS_ASIDE = "hidden flex-col gap-4 lg:sticky lg:top-6 lg:self-start min-[584px]:flex"
-
-const ASIDE_UNDRAWN = "hidden"
+import { useMemo } from "react"
 
 const TITLE_ROW_WIDE = "hidden min-[584px]:block"
 
@@ -119,57 +108,6 @@ function lastTurnOf(rows: readonly Page[]): number | null {
     if (position !== null && (last === null || position > last)) last = position
   }
   return last
-}
-
-function useDrawsAnything(): readonly [RefCallback<HTMLElement>, boolean] {
-  const [at, setAt] = useState<HTMLElement | null>(null)
-  const [draws, setDraws] = useState(false)
-  useEffect(() => {
-    if (at === null) {
-      setDraws(false)
-      return
-    }
-    const judge = () => setDraws(at.hasChildNodes())
-    judge()
-    const watch = new MutationObserver(judge)
-    watch.observe(at, { childList: true })
-    return () => watch.disconnect()
-  }, [at])
-  return [setAt, draws]
-}
-
-export function PlayedLayout({
-  head,
-  panelsAbove,
-  runDrawn,
-  panelsAside,
-}: {
-  head: ReactNode
-  panelsAbove: ReactNode
-  runDrawn: ReactNode
-  panelsAside: ReactNode | null
-}) {
-  const [asideAt, asideDraws] = useDrawsAnything()
-  const wide = panelsAside !== null && asideDraws
-  return (
-    <div className={wide ? WIDE_PAGE : NARROW_PAGE}>
-      {head}
-      {wide ? (
-        <FrameHeaderAction>
-          <AwenStatusDrawer statusPanels={panelsAside} />
-        </FrameHeaderAction>
-      ) : null}
-      {panelsAbove}
-      <div className={wide ? RUN_WITH_PANELS : RUN_ALONE}>
-        <div className={RUN_COLUMN}>{runDrawn}</div>
-        {panelsAside === null ? null : (
-          <aside ref={asideAt} className={wide ? PANELS_ASIDE : ASIDE_UNDRAWN}>
-            {panelsAside}
-          </aside>
-        )}
-      </div>
-    </div>
-  )
 }
 
 type PlayedShellProps = {
@@ -361,15 +299,13 @@ function PlayedStory({
         <PlayedPanels shown={shownIn(shown, ABOVE)} envelope={envelope} run={panelRun} />
       }
       runDrawn={
-        <>
-          {drawnRun.length === 0 ? (
-            <PlayedChannel {...panelRun} />
-          ) : (
-            <PlayedPanels shown={drawnRun} envelope={envelope} run={panelRun} />
-          )}
-          {bar}
-        </>
+        drawnRun.length === 0 ? (
+          <PlayedChannel {...panelRun} />
+        ) : (
+          <PlayedPanels shown={drawnRun} envelope={envelope} run={panelRun} />
+        )
       }
+      bar={bar}
       panelsAside={
         drawnAside.length === 0 && timeDrawn === null ? null : (
           <>

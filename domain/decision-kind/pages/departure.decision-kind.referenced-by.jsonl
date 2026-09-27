@@ -3849,6 +3849,7 @@
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/action-bar/action-bar.module.ts","id":"01a0d48b-8f76-7e2b-9030-a05bc2c03057"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-beside/played-beside.module.ts","id":"01a0a160-1d33-7b41-8c07-5f9a2e6b3d18"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-channel/played-channel.module.ts","id":"01a0a162-9b05-7d36-a284-71c3ef40b6d7"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-layout/played-layout.module.ts","id":"01a0e53c-775d-7506-ae05-7a7bfffc74b5"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-panels/played-panels.module.ts","id":"01a0a163-2e7c-7f18-9a60-4d82b5e1c03f"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-rows/played-rows.module.ts","id":"01a0a15f-4c11-7a20-9e33-2b6f0d41c7a5"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.ts","id":"01a0de6e-26a8-7f96-83bb-6542390fc85b"}
