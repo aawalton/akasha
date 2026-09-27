@@ -7,7 +7,17 @@ export const theDatingGame00020 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 20,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I reach out to shake her hand with a huge smile \"It's a date! I'll see you Saturday!\", then turn to leave.",
+  beats: [
+    "Alan reaches out to shake her hand, smiling hugely: \"It's a date! I'll see you Saturday!\"",
+    "Echo takes his hand and shakes it, and holds it a moment past the shake.",
+    '"It\'s a date," she gives back, and lets the word date sit there on purpose.',
+    "She lets go, and he turns to leave.",
+    "He goes back down the quiet hall toward the door.",
+    'Behind him, faint through the hush of the empty building, her voice comes after him: "Saturday."',
+    "Outside, the lot is still mostly bare and the afternoon sun lies warm across campus.",
+    "Up the hill, Rock Canyon opens dark between the mountains where the day began.",
+  ],
 } as const satisfies StoryTurnPlayed
