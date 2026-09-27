@@ -3,6 +3,7 @@ import { answerPages } from "akasha/alan/web/.server/alan-answer-pages/alan-answ
 import { resolveReaderNeighbors } from "akasha/alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
 import { resolveNextUnreadHref } from "akasha/alan/web/modules/next-unread/next-unread.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import {
   getPage,
   getPageByIdSuffix,
@@ -11,6 +12,8 @@ import {
 } from "akasha/page/access/modules/get/get.module.code.ts"
 import { getDescendantPageTypeSlugs } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
 import { getSequenceConfig } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
+import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
+import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx"
 import { filePagesPath } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
@@ -20,7 +23,22 @@ import {
   parsePageHrefParam,
 } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { playedListsOf } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
+import { persona } from "akasha/persona/persona.page-type.ts"
+import {
+  characterSlugsIn,
+  personaCoversOf,
+  personaSlugsOf,
+} from "akasha/story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx"
+import { personaCover } from "akasha/story/ui/played-panel/pages/persona-cover/persona-cover.played-panel.ts"
+import { playedPanel } from "akasha/story/ui/played-panel/played-panel.page-type.ts"
+import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
+import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
+import {
+  PLAYED_TURN_PAGE_TYPE_SLUG,
+  playedListsOf,
+  playedReady,
+  playedTail,
+} from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 import { data, type LoaderFunctionArgs } from "react-router"
 
@@ -80,6 +98,59 @@ async function seedsFor(
   if (asked.length === 0) return NO_SEEDS
   const answered = await Promise.all(asked.map((one) => answerOf(request, one)))
   return Object.fromEntries(answered.filter((one): one is Answered => one !== null))
+}
+
+const PERSONA_COVER_PANEL = namedAs(playedPanel.slug, personaCover.slug, null)
+
+type Covered = { readonly seeds: Seeds; readonly covers: readonly string[] }
+
+function rowsIn(body: unknown): readonly Page[] {
+  if (!isRecord(body) || !Array.isArray(body.rows)) return []
+  return body.rows.filter(isRecord).map((row) => flattenRow(row))
+}
+
+async function namedRows(
+  request: Request,
+  pageTypeSlug: string,
+  by: "id" | "slug",
+  values: readonly string[]
+): Promise<{ readonly answer: Answered; readonly rows: readonly Page[] } | null> {
+  const path = filePagesPath(pageTypeSlug, [], { by, values: [...values] })
+  const answer = await answerOf(request, { path, pageTypeSlug })
+  return answer === null ? null : { answer, rows: rowsIn(answer[1]) }
+}
+
+async function coveredBy(
+  request: Request,
+  seeds: Seeds,
+  pageTypeSlug: string,
+  id: string,
+  slug: string | null
+): Promise<Covered> {
+  const unchanged: Covered = { seeds, covers: [] }
+  if (pageTypeSlug !== storyPlayed.slug || slug === null) return unchanged
+  const story = rowsIn(seeds[filePagesPath(pageTypeSlug, [], { by: "id", values: [id] })])[0]
+  if (!stringsIn(story?.panels).includes(PERSONA_COVER_PANEL)) return unchanged
+  const lists = playedListsOf(namedAs(pageTypeSlug, slug, null))
+  const turnsAt = filePagesPath(lists.turns.pageTypeSlug, [], lists.turns.named)
+  const latest = playedTail(playedReady(rowsIn(seeds[turnsAt]))).drawn.at(-1)
+  if (latest === undefined) return unchanged
+  const turn = await namedRows(request, PLAYED_TURN_PAGE_TYPE_SLUG, "id", [latest.id])
+  if (turn === null) return unchanged
+  const characterSlugs = characterSlugsIn(turn.rows[0]?.[characters.propertySlug])
+  const withTurn = { ...seeds, [turn.answer[0]]: turn.answer[1] }
+  if (characterSlugs.length === 0) return { seeds: withTurn, covers: [] }
+  const others = await namedRows(request, characterOther.slug, "slug", characterSlugs)
+  if (others === null) return { seeds: withTurn, covers: [] }
+  const personaSlugs = personaSlugsOf(characterSlugs, others.rows)
+  const withOthers = { ...withTurn, [others.answer[0]]: others.answer[1] }
+  if (personaSlugs.length === 0) return { seeds: withOthers, covers: [] }
+  const personas = await namedRows(request, persona.slug, "slug", personaSlugs)
+  if (personas === null) return { seeds: withOthers, covers: [] }
+  return {
+    seeds: { ...withOthers, [personas.answer[0]]: personas.answer[1] },
+    covers: personaCoversOf(personaSlugs, personas.rows).map((one) => one.source),
+  }
 }
 
 function nameOf(row: Readonly<Record<string, unknown>> | null | undefined): string | null {
@@ -150,7 +221,10 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
   }
 
   const pageSlug = exact && typeof exact.slug === "string" ? exact.slug : null
-  const seeding = seedsFor(request, resolvedSlug, id, pageSlug)
+  const resolvedId = id
+  const seeding = seedsFor(request, resolvedSlug, id, pageSlug).then((seeds) =>
+    coveredBy(request, seeds, resolvedSlug, resolvedId, pageSlug)
+  )
 
   let readerPrev: ReaderNeighborLink | null = null
   let readerNext: ReaderNeighborLink | null = null
@@ -239,6 +313,6 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
     storyTitle,
     nextUnreadHref,
     followsType: sequenceConfig != null || resolvedSlug === READING_STORY_SLUG,
-    seeds: await seeding,
+    ...(await seeding),
   })
 }

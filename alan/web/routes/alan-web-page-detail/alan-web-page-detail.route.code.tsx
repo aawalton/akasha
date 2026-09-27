@@ -23,7 +23,12 @@ type PageDetailLoaderData = Awaited<ReturnType<typeof pageDetailLoader>>["data"]
 
 function buildPageDetailMeta(
   loaderData:
-    | { title: string | null; faviconIdSuffix: string | null; faviconIcon: string }
+    | {
+        title: string | null
+        faviconIdSuffix: string | null
+        faviconIcon: string
+        covers?: readonly string[]
+      }
     | undefined,
   site: string | null
 ): MetaDescriptor[] {
@@ -38,6 +43,9 @@ function buildPageDetailMeta(
       type: "image/svg+xml",
       sizes: "any",
     })
+  }
+  for (const href of loaderData.covers ?? []) {
+    descriptors.push({ tagName: "link", rel: "preload", as: "image", href })
   }
   return descriptors
 }

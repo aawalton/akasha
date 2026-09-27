@@ -27,6 +27,15 @@ export const pageDetailLoading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A story drawn with persona covers carries its latest turn, its characters and their personas.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The covers those personas are drawn with are named for the page to fetch early.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A page in a sequence or a story read says its loader reads beyond the page itself.",
     },
   ],

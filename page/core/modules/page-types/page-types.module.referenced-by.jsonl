@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/harness/modules/overdue-rolling/overdue-rolling.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/answer-write/answer-write.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-types.module.code.ts","path":"page/access/modules/create/create.module.code.ts","typed":false,"deferred":false}

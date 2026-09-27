@@ -36,6 +36,10 @@ export const alanWebPageDetail = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Each cover the loader names is fetched early, from the head of the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The reads the loader carried are handed to the page store before it asks for them.",
     },

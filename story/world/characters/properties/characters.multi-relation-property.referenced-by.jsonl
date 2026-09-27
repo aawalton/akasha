@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"characters.multi-relation-property.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"characters.multi-relation-property.ts","path":"story/ui/modules/persona-cover-panel/persona-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"characters.multi-relation-property.types.ts","path":"story/world/mechanics/relationships/world-relationship.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"characters.multi-relation-property.types.ts","path":"story/world/stories/played/turns/story-turn-played.page-type.types.ts","typed":true,"deferred":false}
