@@ -17,6 +17,10 @@ export const itemCategoryTreeGate = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The whole content is drawn again whenever the tree is read again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Reading the tree outside the gate is refused rather than answered empty.",
     },
   ],

@@ -13,12 +13,12 @@ export function ItemCategoryTreeGate({
   children,
   fallback,
 }: {
-  children: ReactNode
+  children: () => ReactNode
   fallback: ReactNode
 }) {
   const categories = useItemCategoryTree()
   if (categories === null) return <>{fallback}</>
-  return <ItemCategoriesRead.Provider value={categories}>{children}</ItemCategoriesRead.Provider>
+  return <ItemCategoriesRead.Provider value={categories}>{children()}</ItemCategoriesRead.Provider>
 }
 
 export function useItemCategories(): ItemCategories {
