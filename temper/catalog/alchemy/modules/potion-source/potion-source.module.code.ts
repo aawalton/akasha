@@ -168,7 +168,7 @@ export function potionsOf(rowsOf: (pageTypeSlug: string) => Iterable<Row>): Poti
   )
   const seen = new Set(kinds.map(([, one]) => one.id))
   const none = [...rowsOf(temperPotion.slug)]
-    .filter((row) => !seen.has(String(row.key)))
+    .filter((row) => typeof row.hashPlace === "number" && !seen.has(String(row.key)))
     .map((row) => placed(row, "none", lookups))
   const read = inHashPlaces([...kinds, ...none])
   return createDataFile<PotionSource>()(Object.fromEntries(read.map((one) => [one.id, one])))

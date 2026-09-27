@@ -16,5 +16,9 @@ export const potionSource = {
       decisionKind: "decision-kind/departure",
       statement: "The potion pages are held wherever the skill catalogue is held.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A potion page stating no hash place is no potion a build takes.",
+    },
   ],
 } as const satisfies Module
