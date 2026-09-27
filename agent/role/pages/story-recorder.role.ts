@@ -26,6 +26,7 @@ export const storyRecorder = {
       aids: [
         "Tell with `akasha story tell --draft`, and settle with `akasha story settle --draft`.",
         "The advance to the player lands your edits.",
+        "A render lands the image page it makes, and that page is no edit of yours.",
       ],
     },
   ],
