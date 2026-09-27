@@ -98,7 +98,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "A synced Librarian who looks at a thing and asks is shown what the Library knows of it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "A synced Librarian and Links talk by directional telepathy when she aims a thought at him.",
