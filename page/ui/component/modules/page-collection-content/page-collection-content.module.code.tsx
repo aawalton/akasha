@@ -22,6 +22,7 @@ import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/
 import { PageDetailHeaderMenu } from "akasha/page/ui/component/modules/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
 import { PagesFilteredContent } from "akasha/page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
 import { PropertyRow } from "akasha/page/ui/component/modules/property-row/property-row.module.code.tsx"
+import { DisplayFrame } from "akasha/page/ui/frame/modules/display-frame/display-frame.module.code.tsx"
 import { PagesUILink } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { usePageTypeNamed } from "akasha/page/ui/supabase/modules/hooks/hooks.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
@@ -29,7 +30,7 @@ import {
   type PageTypeSlug,
   toPageTypeSlug,
 } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import type { ReactNode } from "react"
+import { type ReactNode, useRef } from "react"
 
 export function PageTitleRow({
   pageTypeSlug,
@@ -73,6 +74,7 @@ export function PageCollectionContent({
   const { page, isLoading } = usePage({ pageTypeSlug, id })
   const { pageType } = usePageTypeNamed(pageTypeSlug)
   const surface = useSurface()
+  const endRef = useRef<HTMLDivElement | null>(null)
 
   const { detailConfig, propertyDefinitions } = parsePageTypeData(pageType?.properties)
 
@@ -102,7 +104,7 @@ export function PageCollectionContent({
     )
   }
 
-  return (
+  const drawn = (
     <>
       {data.title != null && <title>{expandDateMentions(title)}</title>}
       {header != null && page != null && (
@@ -159,5 +161,15 @@ export function PageCollectionContent({
         />
       )}
     </>
+  )
+
+  const frame = detailConfig?.frame
+  if (frame === undefined) return drawn
+
+  return (
+    <DisplayFrame config={frame} followAnchor={{ ref: endRef, renderTrigger: page }}>
+      {drawn}
+      <div ref={endRef} />
+    </DisplayFrame>
   )
 }

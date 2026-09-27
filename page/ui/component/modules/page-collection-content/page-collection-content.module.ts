@@ -15,5 +15,9 @@ export const pageCollectionContent = {
       decisionKind: "decision-kind/departure",
       statement: "A caller handing nothing in draws the header and the child collection alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page type stating a detail frame has its collection page drawn in that frame.",
+    },
   ],
 } as const satisfies Module
