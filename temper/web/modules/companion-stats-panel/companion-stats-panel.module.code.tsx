@@ -26,6 +26,15 @@ import { useCompanion } from "akasha/temper/web/modules/use-companion/use-compan
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useCompanionStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
 import { useHeldMetricCatalog } from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
+import {
+  type Phrase,
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionStatsPanelCalculationFailed } from "akasha/temper/web/phrase/pages/companion-stats-panel-calculation-failed.temper-web-phrase.ts"
+import { companionStatsPanelNoCompanion } from "akasha/temper/web/phrase/pages/companion-stats-panel-no-companion.temper-web-phrase.ts"
+import { companionStatsPanelNoStats } from "akasha/temper/web/phrase/pages/companion-stats-panel-no-stats.temper-web-phrase.ts"
+import { companionStatsPanelTitle } from "akasha/temper/web/phrase/pages/companion-stats-panel-title.temper-web-phrase.ts"
 import { type ReactNode, useMemo, useState } from "react"
 
 interface CompanionStatsPanelProps {
@@ -38,8 +47,14 @@ function groupPanelId(group: CompanionMetricGroup) {
 }
 
 function StatsMessageCard({ className, children }: { className?: string; children: ReactNode }) {
+  const phrase = usePhrase()
   return (
-    <PanelCard id="companion-stats" collapsible={true} title="Stats" className={className}>
+    <PanelCard
+      id="companion-stats"
+      collapsible={true}
+      title={phrase(companionStatsPanelTitle.slug)}
+      className={className}
+    >
       <Text>{children}</Text>
     </PanelCard>
   )
@@ -51,6 +66,8 @@ interface StatsLeadPanelsArgs {
   stats: Partial<Record<CompanionMetricId, CompanionMetricValue>>
   className: string | undefined
   onStatClick: (stat: CompanionMetricValue) => void
+  phrase: Phrase
+  describe: Phrase
 }
 
 function StatsLeadPanels({
@@ -59,12 +76,14 @@ function StatsLeadPanels({
   stats,
   className,
   onStatClick,
+  phrase,
+  describe,
 }: StatsLeadPanelsArgs): ReactNode {
   switch (state) {
     case "no-companion":
       return (
         <StatsMessageCard className={className}>
-          Select a companion to see their stats.
+          {phrase(companionStatsPanelNoCompanion.slug)}
         </StatsMessageCard>
       )
     case "calculating":
@@ -79,17 +98,13 @@ function StatsLeadPanels({
     case "calculation-failed":
       return (
         <StatsMessageCard className={className}>
-          Temper could not finish calculating this companion's stats, so none are shown. The failure
-          is in Temper's calculation, not in your gear or skills — the error is in your browser
-          console. Changing anything in the build runs the calculation again.
+          {describe(companionStatsPanelCalculationFailed.slug)}
         </StatsMessageCard>
       )
     case "no-stats":
       return (
         <StatsMessageCard className={className}>
-          The stat calculation finished and returned nothing — not even the base stats every
-          companion starts with. No build setting can cause that, so it points at Temper's stat data
-          rather than at your companion.
+          {describe(companionStatsPanelNoStats.slug)}
         </StatsMessageCard>
       )
     case "stats":
@@ -110,6 +125,8 @@ function StatsLeadPanels({
 
 export function CompanionStatsPanel({ className, columnCount }: CompanionStatsPanelProps) {
   const build = useCompanion()
+  const phrase = usePhrase()
+  const describe = usePhraseDescription()
   const { stats, sources, isLoading, hasError } = useCompanionStats()
   const catalog = useHeldMetricCatalog()
   const roles = useHeldCompanionCatalog()
@@ -144,6 +161,8 @@ export function CompanionStatsPanel({ className, columnCount }: CompanionStatsPa
           stats,
           className,
           onStatClick: handleStatClick,
+          phrase,
+          describe,
         })}
         <CompanionSuggestionsPanelCard key="suggestions" className={className} />
         <CompanionRotationBreakdownPanelCard key="rotation" className={className} />

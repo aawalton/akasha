@@ -6,4 +6,10 @@ export const companionRotationBreakdownPanelCard = {
   slug: "companion-rotation-breakdown-panel-card",
   definition: "a panel card with a companion's rotation breakdown",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

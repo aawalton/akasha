@@ -6208,6 +6208,8 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-quests-union-panel-card/companion-quests-union-panel-card.module.ts","id":"01a06421-f74b-7675-b6fd-69c40e07001d"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-rapport-panel-card/companion-rapport-panel-card.module.ts","id":"01a06421-f74b-7aa4-a2e1-eaf4c62c001e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-role-leaderboard-panel-card/companion-role-leaderboard-panel-card.module.ts","id":"01a06421-2526-7be0-b86c-29c3fb3b75b0"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.ts","id":"01a0642f-8c31-7446-baa2-3fd036763c17"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-rotation-breakdown-table/companion-rotation-breakdown-table.module.ts","id":"01a0642f-8c31-7b23-b59d-0aadb80151ff"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-rotation-skill-column-header/companion-rotation-skill-column-header.module.ts","id":"01a0642f-8c32-789b-91be-f35bfeceec9b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-skill-bar-panel-card/companion-skill-bar-panel-card.module.ts","id":"01a0642f-8c32-7734-89b3-d6023374ce17"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.ts","id":"01a0642f-8c32-7405-ac05-1f265b98bb0b"}
@@ -6216,6 +6218,8 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-skill-slot-card/companion-skill-slot-card.module.ts","id":"01a0642f-8c33-75f7-8e5a-c8fba752443f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-skills-panel/companion-skills-panel.module.ts","id":"01a0642f-8c33-7ab0-8510-f81892666068"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-stats-panel/companion-stats-panel.module.ts","id":"01a06436-3557-72c0-9712-d936c8e8eaa3"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-suggestions-panel-card/companion-suggestions-panel-card.module.ts","id":"01a06421-2522-7599-826a-399a2ca51e7d"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-surplus-panel-card/companion-surplus-panel-card.module.ts","id":"01a06421-2522-734e-9fd5-5c82b057aca5"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-target-panel-card/companion-target-panel-card.module.ts","id":"01a06421-2528-75a3-8d13-1cd777feca6f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-ultimate-slot-card/companion-ultimate-slot-card.module.ts","id":"01a0642f-8c34-794d-a248-7c5518fe886d"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.ts","id":"01a06591-9eb0-7000-9053-bdd9b8e2dcfd"}

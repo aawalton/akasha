@@ -2,6 +2,10 @@ import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/pan
 import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
 import type { CompanionMetricValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import { useCompanionStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionSurplusPanelCardSurplus } from "akasha/temper/web/phrase/pages/companion-surplus-panel-card-surplus.temper-web-phrase.ts"
+import { companionSurplusPanelCardTitle } from "akasha/temper/web/phrase/pages/companion-surplus-panel-card-title.temper-web-phrase.ts"
+import { companionSurplusPanelCardToNext } from "akasha/temper/web/phrase/pages/companion-surplus-panel-card-to-next.temper-web-phrase.ts"
 
 interface CompanionSurplusPanelCardProps {
   className?: string
@@ -9,6 +13,7 @@ interface CompanionSurplusPanelCardProps {
 
 export function CompanionSurplusPanelCard({ className }: CompanionSurplusPanelCardProps) {
   const { stats } = useCompanionStats()
+  const phrase = usePhrase()
   const metricsWithSurplus = Object.values(stats).filter(
     (stat): stat is CompanionMetricValue =>
       stat !== undefined && stat.surplus !== undefined && stat.surplus.surplusRating > 0
@@ -19,7 +24,12 @@ export function CompanionSurplusPanelCard({ className }: CompanionSurplusPanelCa
   }
 
   return (
-    <PanelCard id="companion-surplus" collapsible={true} title="Optimization" className={className}>
+    <PanelCard
+      id="companion-surplus"
+      collapsible={true}
+      title={phrase(companionSurplusPanelCardTitle.slug)}
+      className={className}
+    >
       <div className="space-y-4">
         {metricsWithSurplus.map((stat) => {
           const { surplus } = stat
@@ -32,7 +42,7 @@ export function CompanionSurplusPanelCard({ className }: CompanionSurplusPanelCa
             <div key={stat.id} className="space-y-1">
               <StatRow label={stat.name} useAccentColor depth={0} />
               <StatRow
-                label="Surplus"
+                label={phrase(companionSurplusPanelCardSurplus.slug)}
                 value={
                   <span className="text-warning">
                     +{Math.round(surplus.surplusRating).toLocaleString()} (+{surplusPercent}%)
@@ -42,7 +52,9 @@ export function CompanionSurplusPanelCard({ className }: CompanionSurplusPanelCa
               />
               {surplus.ratingToNextThreshold > 0 && (
                 <StatRow
-                  label={`To next ${incrementPercent}%`}
+                  label={phrase(companionSurplusPanelCardToNext.slug, {
+                    percent: incrementPercent,
+                  })}
                   value={Math.round(surplus.ratingToNextThreshold).toLocaleString()}
                   depth={1}
                 />

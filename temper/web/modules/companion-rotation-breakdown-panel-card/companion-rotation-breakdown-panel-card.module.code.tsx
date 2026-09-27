@@ -19,6 +19,16 @@ import { SkillBreakdownTable } from "akasha/temper/web/modules/companion-rotatio
 import { deriveCompanionRotationOutcome } from "akasha/temper/web/modules/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"
 import { useCompanion } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
 import { useCompanionStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
+import {
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionRotationBreakdownPanelCardNoCompanion } from "akasha/temper/web/phrase/pages/companion-rotation-breakdown-panel-card-no-companion.temper-web-phrase.ts"
+import { companionRotationBreakdownPanelCardNoDamageOrHealing } from "akasha/temper/web/phrase/pages/companion-rotation-breakdown-panel-card-no-damage-or-healing.temper-web-phrase.ts"
+import { companionRotationBreakdownPanelCardNoSkills } from "akasha/temper/web/phrase/pages/companion-rotation-breakdown-panel-card-no-skills.temper-web-phrase.ts"
+import { companionRotationBreakdownPanelCardNothingSimulated } from "akasha/temper/web/phrase/pages/companion-rotation-breakdown-panel-card-nothing-simulated.temper-web-phrase.ts"
+import { companionRotationBreakdownPanelCardTitle } from "akasha/temper/web/phrase/pages/companion-rotation-breakdown-panel-card-title.temper-web-phrase.ts"
+import { companionRotationBreakdownPanelCardUnable } from "akasha/temper/web/phrase/pages/companion-rotation-breakdown-panel-card-unable.temper-web-phrase.ts"
 
 interface CompanionRotationBreakdownPanelCardProps {
   className?: string
@@ -28,21 +38,27 @@ export function CompanionRotationBreakdownPanelCard({
   className,
 }: CompanionRotationBreakdownPanelCardProps) {
   const build = useCompanion()
+  const phrase = usePhrase()
   const { rotation, isLoading, formulaStats, stats } = useCompanionStats()
 
   const hasCompanion = build.companion.id !== "no-companion"
   const hasSkills = Object.values(build.skills["skill-bar"]).some((id) => id !== "no-skill")
 
   return (
-    <PanelCard id="companion-rotation" collapsible={true} title="Rotation" className={className}>
+    <PanelCard
+      id="companion-rotation"
+      collapsible={true}
+      title={phrase(companionRotationBreakdownPanelCardTitle.slug)}
+      className={className}
+    >
       {!hasCompanion ? (
-        <Text>Select a companion to see rotation info.</Text>
+        <Text>{phrase(companionRotationBreakdownPanelCardNoCompanion.slug)}</Text>
       ) : !hasSkills ? (
-        <Text>Slot skills to see rotation simulation.</Text>
+        <Text>{phrase(companionRotationBreakdownPanelCardNoSkills.slug)}</Text>
       ) : isLoading ? (
         <RotationLoading />
       ) : !rotation ? (
-        <Text>Unable to simulate rotation.</Text>
+        <Text>{phrase(companionRotationBreakdownPanelCardUnable.slug)}</Text>
       ) : (
         <RotationContent
           rotation={rotation}
@@ -82,25 +98,14 @@ function RotationContent({
   skillBar,
   roles,
 }: RotationContentProps) {
+  const describe = usePhraseDescription()
   const outcome = deriveCompanionRotationOutcome(rotation)
 
   switch (outcome) {
     case "nothing-simulated":
-      return (
-        <Text>
-          None of the slotted skills are ones the rotation simulation runs. It skips passive skills
-          and any skill it has no data for, and every slot on the bar fell into one of those. If
-          these are normal active skills, the gap is in Temper's skill data, not in your setup.
-        </Text>
-      )
+      return <Text>{describe(companionRotationBreakdownPanelCardNothingSimulated.slug)}</Text>
     case "no-damage-or-healing":
-      return (
-        <Text>
-          The simulation ran your slotted skills and came back with no damage and no healing. A bar
-          of pure buff, debuff, or taunt skills produces exactly that. If a skill here should be
-          dealing damage or healing, the simulation is not reading it, and that is Temper's to fix.
-        </Text>
-      )
+      return <Text>{describe(companionRotationBreakdownPanelCardNoDamageOrHealing.slug)}</Text>
     case "breakdown":
       return (
         <SkillBreakdownTable

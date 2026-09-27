@@ -6,4 +6,10 @@ export const companionRotationBreakdownTable = {
   slug: "companion-rotation-breakdown-table",
   definition: "the table drawing each row of a companion's rotation breakdown",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

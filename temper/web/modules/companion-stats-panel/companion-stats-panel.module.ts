@@ -11,5 +11,9 @@ export const companionStatsPanel = {
       decisionKind: "decision-kind/departure",
       statement: "The groups are drawn again when the stat pages or the role pages are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

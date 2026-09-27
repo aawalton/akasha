@@ -25,6 +25,8 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts"
 import type { SkillBreakdownTableProps } from "akasha/temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
 import { SkillColumnHeader } from "akasha/temper/web/modules/companion-rotation-skill-column-header/companion-rotation-skill-column-header.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionRotationBreakdownTableTotal } from "akasha/temper/web/phrase/pages/companion-rotation-breakdown-table-total.temper-web-phrase.ts"
 
 function rowLabel(id: RotationBreakdownRowId) {
   const { name: label, fullName, description } = rotationBreakdownRowAt(id)
@@ -39,6 +41,7 @@ export function SkillBreakdownTable({
   skillBar,
   primaryRows,
 }: SkillBreakdownTableProps) {
+  const phrase = usePhrase()
   const slotData = buildSlotData(summaries, cycleDuration, formulaStats, metricStats, skillBar)
   const {
     totalDamage,
@@ -61,7 +64,7 @@ export function SkillBreakdownTable({
           {slotData.map((data) => (
             <SkillColumnHeader key={data.slotId} data={data} stats={formulaStats} />
           ))}
-          <TableHead>Total</TableHead>
+          <TableHead>{phrase(companionRotationBreakdownTableTotal.slug)}</TableHead>
         </TableRow>
       </TableHeader>
       <TableBody>

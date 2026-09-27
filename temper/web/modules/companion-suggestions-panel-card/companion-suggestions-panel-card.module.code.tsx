@@ -10,6 +10,9 @@ import {
   useCompanionMetadata,
 } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
 import { useCompanionSuggestions } from "akasha/temper/web/modules/use-companion-suggestions/use-companion-suggestions.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionSuggestionsPanelCardApply } from "akasha/temper/web/phrase/pages/companion-suggestions-panel-card-apply.temper-web-phrase.ts"
+import { companionSuggestionsPanelCardTitle } from "akasha/temper/web/phrase/pages/companion-suggestions-panel-card-title.temper-web-phrase.ts"
 
 interface CompanionSuggestionsPanelCardProps {
   className?: string
@@ -20,6 +23,7 @@ export function CompanionSuggestionsPanelCard({ className }: CompanionSuggestion
   const { isOwner } = useCompanionMetadata()
   const { updateEquipment, updateSkills } = useCompanionActions()
   const suggestions = useCompanionSuggestions(build)
+  const phrase = usePhrase()
 
   if (!isOwner || suggestions.length === 0) return null
 
@@ -32,7 +36,12 @@ export function CompanionSuggestionsPanelCard({ className }: CompanionSuggestion
   }
 
   return (
-    <PanelCard id="companion-suggestions" collapsible title="Suggestions" className={className}>
+    <PanelCard
+      id="companion-suggestions"
+      collapsible
+      title={phrase(companionSuggestionsPanelCardTitle.slug)}
+      className={className}
+    >
       <div className="space-y-2">
         {suggestions.map((suggestion, i) => (
           <div key={i} className="flex items-center justify-between gap-2">
@@ -47,7 +56,7 @@ export function CompanionSuggestionsPanelCard({ className }: CompanionSuggestion
                 +{suggestion.improvement.toFixed(1)}
               </span>
               <Button variant="secondary" size="sm" onClick={() => applySuggestion(suggestion)}>
-                Apply
+                {phrase(companionSuggestionsPanelCardApply.slug)}
               </Button>
             </div>
           </div>
