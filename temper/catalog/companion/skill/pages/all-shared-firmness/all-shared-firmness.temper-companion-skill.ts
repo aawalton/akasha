@@ -5,7 +5,7 @@ export const allSharedFirmness = {
   type: "page-type/temper-companion-skill",
   slug: "all-shared-firmness",
   key: "shared-firmness",
-  title: "Firmness.",
+  title: "Firmness",
   icon: "/esoui/art/icons/passive_companion_armor_heavy.dds",
   description:
     "Increases healing received by 1% for each piece of Heavy Armor equipped. Increases damage blocked by 1% for each piece of Heavy Armor equipped.",
