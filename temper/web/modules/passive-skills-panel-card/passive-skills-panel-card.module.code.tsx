@@ -32,8 +32,7 @@ let grouped: {
   readonly byLine: Map<SkillLineId, Skill[]>
 } | null = null
 
-function passivesBySkillLine(): Map<SkillLineId, Skill[]> {
-  const list = skills.list
+function passivesBySkillLine(list: readonly Skill[]): Map<SkillLineId, Skill[]> {
   if (grouped?.list === list) return grouped.byLine
   const byLine = new Map<SkillLineId, Skill[]>()
   for (const skill of list) {
@@ -119,13 +118,14 @@ export function PassiveSkillsPanelCard({
   search = "",
   selectedCategory = null,
 }: PassiveSkillsPanelCardProps) {
+  const allSkills = skills.list
   const categories = useMemo(() => {
     const applicableSkillLineIds = getApplicableSkillLineIds(character, equipment)
     const searchLower = search.toLowerCase()
 
     const groupsByCategory = new Map<SkillLineCategoryId, SkillLineGroup[]>()
     for (const skillLineId of applicableSkillLineIds) {
-      const passives = passivesBySkillLine().get(skillLineId)
+      const passives = passivesBySkillLine(allSkills).get(skillLineId)
       if (!passives || passives.length === 0) continue
 
       const skillLine = skillLines.data[skillLineId]
@@ -172,7 +172,7 @@ export function PassiveSkillsPanelCard({
     }
 
     return result
-  }, [character, equipment, search, selectedCategory])
+  }, [allSkills, character, equipment, search, selectedCategory])
 
   const hasActiveFilters = search !== "" || selectedCategory !== null
 

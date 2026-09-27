@@ -6143,6 +6143,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-reading/mine-row-reading.module.ts","id":"01a0d8d0-d4ed-7067-9018-4e495b5cba65"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mined-item-rows/mined-item-rows.module.ts","id":"01a0640f-8510-7325-9208-0be4870d37e6"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.ts","id":"01a06421-f74b-7add-bb48-388a4598002f"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.ts","id":"01a0642c-5ba6-754c-abac-523c83014b8e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/plan-tab/plan-tab.module.ts","id":"01a0642c-5b90-7ad7-8e2f-c7aad5cfa434"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/player-settings/player-settings.module.ts","id":"01a0640f-8510-7ec4-bf91-bd8c41002f73"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/recipe-catalog-gate/recipe-catalog-gate.module.ts","id":"01a0de64-3221-7119-9a0d-f29ee3b7ba8f"}

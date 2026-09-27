@@ -6,4 +6,10 @@ export const passiveSkillsPanelCard = {
   slug: "passive-skills-panel-card",
   definition: "a panel card with passive skills",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The passives are grouped again whenever the skill catalogue is read again.",
+    },
+  ],
 } as const satisfies Module
