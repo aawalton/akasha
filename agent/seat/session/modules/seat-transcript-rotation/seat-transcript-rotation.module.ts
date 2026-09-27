@@ -31,7 +31,16 @@ export const seatTranscriptRotation = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A transcript no other seat is bound to is the seat's own, however old.",
+      statement: "A transcript naming another agent in its opening records is that agent's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat naming a transcript another agent's is put back on the seat's own.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A transcript no other seat is bound to and naming no other agent is the seat's own, however old.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,6 +70,10 @@ export const seatTranscriptRotation = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A file any seat names is no candidate.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A file naming an agent other than the seat is no candidate.",
     },
     {
       decisionKind: "decision-kind/departure",

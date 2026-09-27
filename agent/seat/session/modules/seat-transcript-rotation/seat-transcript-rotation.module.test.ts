@@ -2,6 +2,7 @@ import { afterAll, expect, test } from "bun:test"
 import { writeFileSync } from "node:fs"
 import { join } from "node:path"
 import {
+  agentNameOf,
   firstTimestampOf,
   type MisnamedReading,
   misnamedFrom,
@@ -17,11 +18,16 @@ const WROTE_AT = 1_700_000_000_000
 
 const NOW = WROTE_AT + SETTLED_MS + 1
 
+const SEAT = "mari-game-master-the-dating-game"
+
+const FLEX = "mari-story-recorder-the-dating-game-flex-1"
+
 function candidate(one: Partial<TranscriptCandidate> = {}): TranscriptCandidate {
   return {
     path: "/transcripts/new.jsonl",
     mtimeMs: WROTE_AT + 5_000,
     firstTimestampMs: WROTE_AT + 50,
+    agentName: null,
     ...one,
   }
 }
@@ -32,6 +38,7 @@ function reading(one: {
   readonly nowMs?: number
   readonly candidates?: readonly TranscriptCandidate[]
   readonly takenPaths?: readonly string[]
+  readonly ownAgentName?: string | null
 }) {
   return {
     statedPath: NAMED,
@@ -39,6 +46,7 @@ function reading(one: {
     nowMs: NOW,
     candidates: [candidate()],
     takenPaths: [NAMED],
+    ownAgentName: SEAT,
     ...one,
   }
 }
@@ -97,6 +105,24 @@ test("no candidate at all leaves no answer", () => {
   expect(rotationFrom(reading({ candidates: [] }))).toBe(null)
 })
 
+test("a candidate naming another agent is that agent's, though no seat names it", () => {
+  expect(rotationFrom(reading({ candidates: [candidate({ agentName: FLEX })] }))).toBe(null)
+})
+
+test("a candidate naming the seat itself is weighed", () => {
+  expect(rotationFrom(reading({ candidates: [candidate({ agentName: SEAT })] }))).toBe(
+    "/transcripts/new.jsonl"
+  )
+})
+
+test("a subagent's transcript is passed over for the seat's own rotated one", () => {
+  const two = [
+    candidate({ path: "/transcripts/flex.jsonl", agentName: FLEX }),
+    candidate({ agentName: SEAT }),
+  ]
+  expect(rotationFrom(reading({ candidates: two }))).toBe("/transcripts/new.jsonl")
+})
+
 const OWN_SESSION = "de64f69c-0000-7000-8000-000000000001"
 
 const OTHER_SESSION = "67123964-0000-7000-8000-000000000002"
@@ -109,7 +135,9 @@ function misnamed(one: Partial<MisnamedReading> = {}): MisnamedReading {
   return {
     statedPath: OTHER_PATH,
     statedSession: OTHER_SESSION,
+    statedAgentName: null,
     ownSession: OWN_SESSION,
+    ownAgentName: SEAT,
     ownPath: OWN_PATH,
     otherSessions: [OTHER_SESSION],
     ...one,
@@ -118,6 +146,14 @@ function misnamed(one: Partial<MisnamedReading> = {}): MisnamedReading {
 
 test("a seat named onto another seat's transcript is put back on its own", () => {
   expect(misnamedFrom(misnamed())).toBe(OWN_PATH)
+})
+
+test("a seat named onto a transcript naming another agent is put back on its own", () => {
+  expect(misnamedFrom(misnamed({ otherSessions: [], statedAgentName: FLEX }))).toBe(OWN_PATH)
+})
+
+test("a transcript naming the seat itself is left for the rotation to weigh", () => {
+  expect(misnamedFrom(misnamed({ otherSessions: [], statedAgentName: SEAT }))).toBe(null)
 })
 
 test("a transcript stating the seat's own session is left as it is", () => {
@@ -185,4 +221,21 @@ test("a transcript whose opening records are all unstamped carries no first time
   const path = join(folderAt(), "bare.jsonl")
   writeFileSync(path, `${OPENING.split("\n").slice(0, 5).join("\n")}\n`)
   expect(firstTimestampOf(path)).toBe(null)
+})
+
+test("the agent a transcript is of is the name its opening agent-name record gives", () => {
+  const path = join(folderAt(), "named.jsonl")
+  const named = [
+    `{"type":"custom-title","customTitle":"${FLEX}","sessionId":"46eb1d08"}`,
+    `{"type":"agent-name","agentName":"${FLEX}","sessionId":"46eb1d08"}`,
+    OPENING,
+  ].join("\n")
+  writeFileSync(path, `${named}\n`)
+  expect(agentNameOf(path)).toBe(FLEX)
+})
+
+test("a transcript opening with no agent-name record names no agent", () => {
+  const path = join(folderAt(), "unnamed.jsonl")
+  writeFileSync(path, `${OPENING}\n`)
+  expect(agentNameOf(path)).toBe(null)
 })

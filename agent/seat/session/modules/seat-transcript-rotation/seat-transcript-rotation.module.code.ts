@@ -3,6 +3,7 @@ import { dirname, join } from "node:path"
 import { readTranscriptSessionId } from "akasha/agent/claude-code/session/modules/session-jsonl-reading/session-jsonl-reading.module.code.ts"
 import { akashaSeatsThatExist } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaObservedOf } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
+import { seatNameForAgent } from "akasha/agent/seat/observation/modules/seat-presence-read/seat-presence-read.module.code.ts"
 import {
   TRANSCRIPT_KEY,
   transcriptOf,
@@ -21,6 +22,7 @@ export interface TranscriptCandidate {
   readonly path: string
   readonly mtimeMs: number
   readonly firstTimestampMs: number | null
+  readonly agentName: string | null
 }
 
 interface RotationReading {
@@ -29,26 +31,36 @@ interface RotationReading {
   readonly nowMs: number
   readonly candidates: readonly TranscriptCandidate[]
   readonly takenPaths: readonly string[]
+  readonly ownAgentName: string | null
 }
 
 export interface MisnamedReading {
   readonly statedPath: string | null
   readonly statedSession: string | null
+  readonly statedAgentName: string | null
   readonly ownSession: string | null
+  readonly ownAgentName: string | null
   readonly ownPath: string | null
   readonly otherSessions: readonly string[]
+}
+
+function namesAnotherAgent(named: string | null, own: string | null): boolean {
+  return named !== null && own !== null && named !== own
 }
 
 export function misnamedFrom(reading: MisnamedReading): string | null {
   const { statedPath, statedSession, ownSession, ownPath, otherSessions } = reading
   if (statedPath === null || statedSession === null || ownSession === null) return null
   if (statedSession === ownSession) return null
-  if (!otherSessions.includes(statedSession)) return null
+  const anothers =
+    otherSessions.includes(statedSession) ||
+    namesAnotherAgent(reading.statedAgentName, reading.ownAgentName)
+  if (!anothers) return null
   return ownPath === null || ownPath === statedPath ? null : ownPath
 }
 
 export function rotationFrom(reading: RotationReading): string | null {
-  const { statedPath, statedMtimeMs, nowMs, candidates, takenPaths } = reading
+  const { statedPath, statedMtimeMs, nowMs, candidates, takenPaths, ownAgentName } = reading
   if (statedPath === null || statedMtimeMs === null) return null
   if (nowMs - statedMtimeMs < SETTLED_MS) return null
   const taken = new Set(takenPaths)
@@ -56,6 +68,7 @@ export function rotationFrom(reading: RotationReading): string | null {
     (one) =>
       one.mtimeMs > statedMtimeMs &&
       !taken.has(one.path) &&
+      !namesAnotherAgent(one.agentName, ownAgentName) &&
       one.firstTimestampMs !== null &&
       one.firstTimestampMs >= statedMtimeMs
   )
@@ -111,6 +124,32 @@ function sessionStatedIn(path: string): string | null {
   }
 }
 
+function agentNameIn(text: string): string | null {
+  for (const line of text.split("\n")) {
+    if (line === "") continue
+    let held: unknown
+    try {
+      held = JSON.parse(line)
+    } catch {
+      continue
+    }
+    if (held === null || typeof held !== "object") continue
+    const record = held as Record<string, unknown>
+    if (record.type !== "agent-name") continue
+    const named = record.agentName
+    return typeof named === "string" && named !== "" ? named : null
+  }
+  return null
+}
+
+export function agentNameOf(path: string): string | null {
+  try {
+    return agentNameIn(headTextOf(path))
+  } catch {
+    return null
+  }
+}
+
 function pathsSeatsName(): readonly string[] {
   const named: string[] = []
   for (const [id] of akashaSeatsThatExist()) {
@@ -148,7 +187,12 @@ function candidatesBeside(
     if (path === statedPath) continue
     const at = statSync(path, { throwIfNoEntry: false })
     if (at === undefined || at.mtimeMs <= statedMtimeMs) continue
-    found.push({ path, mtimeMs: at.mtimeMs, firstTimestampMs: firstTimestampOf(path) })
+    found.push({
+      path,
+      mtimeMs: at.mtimeMs,
+      firstTimestampMs: firstTimestampOf(path),
+      agentName: agentNameOf(path),
+    })
   }
   return found
 }
@@ -159,10 +203,13 @@ export function rotatedTranscriptFor(agent: string): string | null {
   const at = statSync(stated.value, { throwIfNoEntry: false })
   if (at === undefined) return null
   const ownSession = sessionOf(agent)?.value ?? null
+  const ownAgentName = seatNameForAgent(agent)
   const back = misnamedFrom({
     statedPath: stated.value,
     statedSession: sessionStatedIn(stated.value),
+    statedAgentName: agentNameOf(stated.value),
     ownSession,
+    ownAgentName,
     ownPath: ownSession === null ? null : besideNamed(stated.value, ownSession),
     otherSessions: sessionsOtherSeatsState(agent),
   })
@@ -173,5 +220,6 @@ export function rotatedTranscriptFor(agent: string): string | null {
     nowMs: Date.now(),
     candidates: candidatesBeside(stated.value, at.mtimeMs),
     takenPaths: pathsSeatsName(),
+    ownAgentName,
   })
 }
