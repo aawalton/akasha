@@ -32,4 +32,5 @@ export const otherwhere00008 = {
     '"Welcome to the Magical Library of Everywhere," he says quietly.',
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
