@@ -7,7 +7,19 @@ export const theDatingGame00027 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 27,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“Usually just around the neighborhood. Sometime up the canyon, into the forest. I’ve watched the sun rise from the top of the mountain a few times.”",
+  beats: [
+    'Alan: "Usually just around the neighborhood. Sometimes up the canyon, into the forest."',
+    '"I\'ve watched the sun rise from the top of the mountain a few times."',
+    'At "the top of the mountain" Grace\'s smile deepens, slow.',
+    '"Then you\'ve kept the whole night through, start to finish," she says. "Not many do."',
+    "She looks up the street toward the dark mouth of the canyon, as if seeing him up there.",
+    "The gold in the sky has gone to rose while they talked, and the first streetlight flickers on.",
+    "Grace glances at it, then rises from the step in one easy motion.",
+    "She lifts the brass storm lantern by its handle and strikes a match; the wick catches.",
+    "The lantern's small light comes up steady and warm between them.",
+    '"That\'s my hour starting," she says, and her gold eyes rest on him a moment, unhurried.',
+  ],
 } as const satisfies StoryTurnPlayed
