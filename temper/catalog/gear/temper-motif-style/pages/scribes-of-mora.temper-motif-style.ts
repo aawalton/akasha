@@ -5,6 +5,8 @@ export const scribesOfMora = {
   type: "page-type/temper-motif-style",
   slug: "scribes-of-mora",
   title: "Scribes of Mora",
+  esoItemStyleId: 140,
+  styleName: "Scribes of Mora",
   collectionIndex: 103,
   sourceDescription: "Scrivener's Hall dungeon",
 } as const satisfies TemperMotifStyle
