@@ -6,6 +6,7 @@ export const ebonheartPact = {
   slug: "ebonheart-pact",
   title: "Ebonheart Pact",
   esoItemStyleId: 24,
+  styleName: "Ebonheart Pact",
   collectionIndex: 16,
   sourceDescription: "EP treasure chests in Cyrodiil",
 } as const satisfies TemperMotifStyle
