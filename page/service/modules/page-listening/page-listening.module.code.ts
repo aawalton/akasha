@@ -15,8 +15,12 @@ import {
   followingFor,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
 import { answering } from "akasha/page/service/modules/page-serving/page-serving.module.code.ts"
-
+import {
+  type Threads,
+  threadsFor,
+} from "akasha/page/service/modules/page-threading/page-threading.module.code.ts"
 import { writerFor } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import { keptReads } from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
 
 export const SERVICE_SLUG = pageService.slug
@@ -35,6 +39,7 @@ export type Listening = {
   readonly port: number
   readonly binds: readonly string[]
   readonly following?: Following
+  readonly threads?: Threads
 }
 
 export function slowSaid(request: Request, spent: number, asked: string): string {
@@ -74,12 +79,12 @@ function watchingHeld(): undefined {
 }
 
 function boundAt(given: Listening, hostname: string, writer: Writer) {
-  const { root, port, following } = given
+  const { root, port, following, threads } = given
   const serving = following === undefined ? { root, writer } : { root, writer, following }
   return Bun.serve({
     port,
     hostname,
-    fetch: (request) => timed(request, (one) => answering(serving, one)),
+    fetch: (request) => timed(request, (one) => threads?.answered(one) ?? answering(serving, one)),
   })
 }
 
@@ -139,9 +144,10 @@ export function runPageListening(root: string): undefined {
     )
   }
   watchingHeld()
-  const following = followingFor(root)
+  const threads = threadsFor(root, { kept: (read) => keptReads(root, read) })
+  const following = followingFor(root, undefined, threads.heapsSaid)
   const binds = bindsFor(root, SERVICE_SLUG)
-  const stated: Listening = { root, port, binds, following }
+  const stated: Listening = { root, port, binds, following, threads }
   refreshingTurns(root, (sat) => following.changed({ pageTypeSlug: seat.slug, slug: sat.slug }))
   let bound = serversFor(stated)
   saying(root, page, unboundIn(bound))

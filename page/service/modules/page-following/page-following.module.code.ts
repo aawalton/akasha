@@ -156,7 +156,11 @@ function idOf(root: string, one: Changed): string | undefined {
   }
 }
 
-export function followingFor(root: string, beatMs: number = BEAT_MS): Following {
+export function followingFor(
+  root: string,
+  beatMs: number = BEAT_MS,
+  besideSaid: () => string = () => ""
+): Following {
   const streams = new Map<string, Stream>()
   const watchers = new Map<string, FSWatcher>()
   const sentAt = new Map<string, number>()
@@ -168,11 +172,12 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
   setInterval(() => {
     const memory = process.memoryUsage()
     const helds = [...streams.values()].reduce((sum, one) => sum + one.helds.length, 0)
+    const beside = besideSaid()
     process.stdout.write(
       `following: ${streams.size} streams, ${helds} follows, ${watchers.size} folders watched, ` +
         `${sentAt.size} pages spaced, ${counted.plans} plans, ${counted.heard} changes heard, ` +
         `${counted.pushed} pushes in the last minute; heap ${Math.round(memory.heapUsed / MB)} MB, ` +
-        `rss ${Math.round(memory.rss / MB)} MB\n`
+        `rss ${Math.round(memory.rss / MB)} MB${beside === "" ? "" : `, ${beside}`}\n`
     )
     counted.plans = 0
     counted.heard = 0

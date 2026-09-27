@@ -61,18 +61,21 @@ const READ_KINDS: ReadonlyMap<string, ReadKind> = new Map([
   [FILE_AT, "file"],
 ])
 
-function readKindAt(at: string): ReadKind | null {
+export function readKindAt(at: string): ReadKind | null {
   return READ_KINDS.get(at) ?? null
 }
 
-function responseOf(answer: Answer): Response {
+export function responseOf(
+  answer: Answer,
+  headers: Readonly<Record<string, string>> = {}
+): Response {
   return new Response(answer.body, {
     status: answer.status,
-    headers: { "content-type": answer.type },
+    headers: { "content-type": answer.type, ...headers },
   })
 }
 
-function askerOf(request: Request): string | null {
+export function askerOf(request: Request): string | null {
   const named = request.headers.get(ASKING_AGENT)?.trim() ?? ""
   return named === "" ? null : named
 }

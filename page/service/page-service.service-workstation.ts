@@ -175,5 +175,6 @@ export const pageService = {
     "module/page-incrementing",
     "module/read-settling",
     "module/read-answering",
+    "module/page-threading",
   ],
 } as const satisfies ServiceWorkstation

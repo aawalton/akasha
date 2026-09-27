@@ -117,6 +117,10 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That line ends with what the service hands it, as each reading thread's heap.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A plan or a push taking a second or more is logged with how long it took.",
     },
   ],
