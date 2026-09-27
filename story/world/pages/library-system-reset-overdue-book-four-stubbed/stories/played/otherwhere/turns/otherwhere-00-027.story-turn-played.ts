@@ -15,7 +15,7 @@ export const otherwhere00027 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“Do you have some kind of magical healing for me, or do I need to do this the hard way?”",
   beats: [
@@ -24,7 +24,6 @@ export const otherwhere00027 = {
     "\"The hospital wing's shut and dark until I've the power to open it. Three worms doesn't buy that.\"",
     '"So, the hard way. Wash it at the break room tap, eat something, sit still for once."',
     '"I keep roots and vegetables a human can eat," he adds, grudging, "if you\'re not fussy."',
-    "He glances past the columns toward the chewing, then back at her arm, and says nothing more.",
   ],
   issues: [
     '"toward the chewing, then back at your arm" - No Prompt',
