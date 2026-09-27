@@ -5,6 +5,8 @@ export const thornLegion = {
   type: "page-type/temper-motif-style",
   slug: "thorn-legion",
   title: "Thorn Legion",
+  esoItemStyleId: 106,
+  styleName: "Thorn Legion",
   collectionIndex: 75,
   sourceDescription: "Castle Thorn dungeon",
 } as const satisfies TemperMotifStyle
