@@ -5161,6 +5161,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.ts","id":"01a060db-b2bc-7125-b53b-c0f90c47961f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/temper-skill-kind.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/damage-type/temper-damage-type.page-type.ts","id":"01a0e2d1-c801-7eef-9a99-4bc07882db41"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/enemy-type/temper-enemy-type.page-type.ts","id":"01a0e2d1-c801-7cac-91a6-d4edd9dd1a78"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/line/modules/skill-line-ids-keeping/skill-line-ids-keeping.change-generator.ts","id":"01a0df08-262b-73d8-9c3d-0b76baed9088"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.ts","id":"01a0df08-262b-788e-be8c-027acc34f01d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.ts","id":"01a0de72-b25e-78d7-a1ee-d4d009422dd0"}

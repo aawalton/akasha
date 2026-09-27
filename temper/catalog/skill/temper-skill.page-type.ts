@@ -30,6 +30,8 @@ export const temperSkill = {
     "text-property/skill-status",
     "module/skill-templates-reading",
     "page-type/temper-resource",
+    "page-type/temper-damage-type",
+    "page-type/temper-enemy-type",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

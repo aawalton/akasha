@@ -53,6 +53,8 @@
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/damage-type/temper-damage-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/enemy-type/temper-enemy-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/line/temper-skill-line.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/resource/temper-resource.page-type.types.ts","typed":true,"deferred":false}
@@ -139,6 +141,8 @@
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","id":"01a05fd1-d442-7175-b5e4-f7ef9e21a36c"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.ts","id":"01a0616b-2cdf-7001-a24c-0dd3c96e1a6e"}
+{"propertySlug":"page-property","path":"temper/catalog/skill/damage-type/temper-damage-type.page-type.ts","id":"01a0e2d1-c801-7eef-9a99-4bc07882db41"}
+{"propertySlug":"page-property","path":"temper/catalog/skill/enemy-type/temper-enemy-type.page-type.ts","id":"01a0e2d1-c801-7cac-91a6-d4edd9dd1a78"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts","id":"01a05fca-cb8b-713e-b910-7148de1f3dbd"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/resource/temper-resource.page-type.ts","id":"01a0e2cf-29db-7f15-903a-a854167ea509"}
