@@ -46,6 +46,18 @@ test("a branch carries the tests its page states and nothing else", () => {
   })
 })
 
+test("a field a row holds as null is read as unstated, as the page service answers it", () => {
+  const unstated = { parent: null, priorityOrder: null, filterTypes: null, itemNameContains: null }
+  const served = itemCategoriesOf([
+    { ...unstated, slug: "all", title: "All Categories", displayOrder: 0 },
+    { ...unstated, slug: "food", title: "Food", displayOrder: 1 },
+    { ...unstated, slug: "stew", parent: `${UNDER}food`, displayOrder: 1, itemTypes: [5] },
+  ])
+  expect(served.roots).toEqual([
+    { id: "food", name: "Food", children: [{ id: "stew", name: "stew", itemTypes: [5] }] },
+  ])
+})
+
 test("the tree read from the checkout names each branch once and leaves out every item's branch", () => {
   const ids = everyId(holdItemCategoryTreeFromCheckout().roots)
   expect(ids.length).toBeGreaterThan(0)

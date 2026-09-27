@@ -29,5 +29,9 @@ export const itemCategoryTreeReading = {
       statement:
         "The addon compiles this module, so it reads a list of rows rather than asking for pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A field a row holds as null is read as a field the page leaves unstated.",
+    },
   ],
 } as const satisfies Module

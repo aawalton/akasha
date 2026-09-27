@@ -45,42 +45,42 @@ type Under = { [parent: string]: ItemCategoryRow[] | undefined }
 
 function parentOf(row: ItemCategoryRow): string | undefined {
   const parent = row.parent
-  if (parent === undefined) return undefined
+  if (parent == null) return undefined
   return parent.substring(parent.indexOf("/") + 1)
 }
 
 function statesATest(row: ItemCategoryRow): boolean {
   return (
-    row.filterTypes !== undefined ||
-    row.itemTypes !== undefined ||
-    row.specializedItemTypes !== undefined ||
-    row.traitTypeRange !== undefined ||
-    row.equipTypes !== undefined ||
-    row.weaponTypes !== undefined ||
-    row.armorTypes !== undefined ||
-    row.furnitureCategoryIds !== undefined ||
-    row.furnitureSubcategoryIds !== undefined ||
-    row.itemNameContains !== undefined
+    row.filterTypes != null ||
+    row.itemTypes != null ||
+    row.specializedItemTypes != null ||
+    row.traitTypeRange != null ||
+    row.equipTypes != null ||
+    row.weaponTypes != null ||
+    row.armorTypes != null ||
+    row.furnitureCategoryIds != null ||
+    row.furnitureSubcategoryIds != null ||
+    row.itemNameContains != null
   )
 }
 
 function nodeOf(row: ItemCategoryRow, children: ItemCategoryRoots): ItemCategoryNode {
   const node: ItemCategoryNode = { id: row.slug, name: row.title ?? row.slug }
-  if (row.filterTypes !== undefined) node.filterTypes = row.filterTypes
-  if (row.itemTypes !== undefined) node.itemTypes = row.itemTypes
-  if (row.specializedItemTypes !== undefined) node.specializedItemTypes = row.specializedItemTypes
-  if (row.traitTypeRange !== undefined) {
+  if (row.filterTypes != null) node.filterTypes = row.filterTypes
+  if (row.itemTypes != null) node.itemTypes = row.itemTypes
+  if (row.specializedItemTypes != null) node.specializedItemTypes = row.specializedItemTypes
+  if (row.traitTypeRange != null) {
     const [low, high] = row.traitTypeRange
-    if (low !== undefined && high !== undefined) node.traitTypeRange = [low, high]
+    if (low != null && high != null) node.traitTypeRange = [low, high]
   }
-  if (row.equipTypes !== undefined) node.equipTypes = row.equipTypes
-  if (row.weaponTypes !== undefined) node.weaponTypes = row.weaponTypes
-  if (row.armorTypes !== undefined) node.armorTypes = row.armorTypes
-  if (row.furnitureCategoryIds !== undefined) node.furnitureCategoryIds = row.furnitureCategoryIds
-  if (row.furnitureSubcategoryIds !== undefined) {
+  if (row.equipTypes != null) node.equipTypes = row.equipTypes
+  if (row.weaponTypes != null) node.weaponTypes = row.weaponTypes
+  if (row.armorTypes != null) node.armorTypes = row.armorTypes
+  if (row.furnitureCategoryIds != null) node.furnitureCategoryIds = row.furnitureCategoryIds
+  if (row.furnitureSubcategoryIds != null) {
     node.furnitureSubcategoryIds = row.furnitureSubcategoryIds
   }
-  if (row.itemNameContains !== undefined) node.itemNameContains = row.itemNameContains
+  if (row.itemNameContains != null) node.itemNameContains = row.itemNameContains
   if (children.length > 0) node.children = children
   return node
 }
