@@ -16,6 +16,18 @@ export const theDatingGameGrace = {
       fact: "Late on Saturday afternoons Grace sits on her front step, resting before her night.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Grace looks twenty-two, with long, straight, parted near-black hair.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Grace's eyes are gold and seem lit from inside; her mouth is red.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An unlit brass storm lantern sits on the step beside her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
