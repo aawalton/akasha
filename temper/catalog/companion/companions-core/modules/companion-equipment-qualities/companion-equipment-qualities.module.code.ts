@@ -21,7 +21,7 @@ export function isCompanionEquipmentQualityId(
   )
 }
 
-export interface CompanionBaseValues {
+interface CompanionBaseValues {
   readonly lightArmor: number
   readonly mediumArmor: number
   readonly heavyArmor: number
