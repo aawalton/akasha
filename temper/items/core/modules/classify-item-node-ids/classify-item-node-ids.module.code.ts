@@ -2,19 +2,17 @@ import {
   hasSignals,
   matchesSignals,
 } from "akasha/temper/items/core/modules/classify-item/classify-item.module.code.ts"
-import {
-  ITEM_CATEGORY_PRIORITY,
-  ITEM_CATEGORY_TREE,
-} from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 import type {
   ClassifiableItem,
   ItemCategoryNode,
+  ItemCategoryRoots,
 } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 
-export function classifyItemToNodeIds(item: ClassifiableItem): readonly string[] {
-  for (const categoryId of ITEM_CATEGORY_PRIORITY) {
-    const category = ITEM_CATEGORY_TREE[categoryId]
-    if (category === undefined) continue
+export function classifyItemToNodeIds(
+  item: ClassifiableItem,
+  roots: ItemCategoryRoots
+): readonly string[] {
+  for (const category of roots) {
     const path = matchNodeIds(item, category)
     if (path !== null) return path
   }

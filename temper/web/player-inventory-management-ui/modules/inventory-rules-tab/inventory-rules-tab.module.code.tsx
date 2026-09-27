@@ -12,6 +12,7 @@ import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { classifyAllInventoryItems } from "akasha/temper/items/rules/matcher/modules/inventory-item-classifier/inventory-item-classifier.module.code.ts"
+import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import {
   useAutomationSettings,
@@ -100,9 +101,10 @@ export function InventoryRulesTab({
         : { inventory: null, excluded: [] },
     [rawInventory, managedSet]
   )
+  const roots = useItemCategories().roots
   const classifiedItems = useMemo(
-    () => (inventory ? classifyAllInventoryItems(inventory) : null),
-    [inventory]
+    () => (inventory ? classifyAllInventoryItems(inventory, roots) : null),
+    [inventory, roots]
   )
 
   const automationSettingsFingerprintRef = useRef<string | null>(null)

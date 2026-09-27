@@ -10,6 +10,11 @@ import type {
   InventoryItemData,
   InventoryLocationData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { loadItemCategoryTree } from "akasha/temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts"
+import type {
+  ClassifiableItem,
+  ItemCategoryRoots,
+} from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import { parseItemLink } from "akasha/temper/items/core/modules/item-link-parser/item-link-parser.module.code.ts"
 import { locationConditionFromKeyAndBag } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
 import { computeStockGroups } from "akasha/temper/items/rules/eval/modules/compute-stock-groups/compute-stock-groups.module.code.ts"
@@ -30,7 +35,8 @@ export interface ResolvedInventoryItem {
 export interface ExplainCapabilities {
   readonly parseItemLink: typeof parseItemLink
   readonly parseInventoryContent: typeof parseInventoryContent
-  readonly classifyItemToNodeIds: typeof classifyItemToNodeIds
+  readonly itemCategoryRoots: ItemCategoryRoots
+  readonly classifyItemToNodeIds: (item: ClassifiableItem) => readonly string[]
   readonly locationConditionFromKeyAndBag: typeof locationConditionFromKeyAndBag
   readonly cliItemFactsFromInventoryItem: typeof cliItemFactsFromInventoryItem
   readonly buildCliEvalEnv: typeof buildCliEvalEnv
@@ -42,11 +48,16 @@ export interface ExplainCapabilities {
 }
 
 export async function explainCapabilities(): Promise<ExplainCapabilities> {
-  await Promise.all([loadRecipeCatalog(), loadSkillCatalog()])
+  const [{ roots }] = await Promise.all([
+    loadItemCategoryTree(),
+    loadRecipeCatalog(),
+    loadSkillCatalog(),
+  ])
   return {
     parseItemLink,
     parseInventoryContent,
-    classifyItemToNodeIds,
+    itemCategoryRoots: roots,
+    classifyItemToNodeIds: (item) => classifyItemToNodeIds(item, roots),
     locationConditionFromKeyAndBag,
     cliItemFactsFromInventoryItem,
     buildCliEvalEnv,

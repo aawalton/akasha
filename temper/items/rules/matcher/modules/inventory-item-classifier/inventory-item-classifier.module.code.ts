@@ -1,10 +1,12 @@
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type { ItemCategoryRoots } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import { getLocationDisplayName } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 export function classifyAllInventoryItems(
-  inventory: InventoryDatabase
+  inventory: InventoryDatabase,
+  roots: ItemCategoryRoots
 ): readonly ClassifiedInventoryItem[] {
   const results: ClassifiedInventoryItem[] = []
 
@@ -15,7 +17,7 @@ export function classifyAllInventoryItems(
           item,
           locationKey,
           locationDisplayName: getLocationDisplayName(locationKey, location.displayName),
-          nodeIds: classifyItemToNodeIds(item),
+          nodeIds: classifyItemToNodeIds(item, roots),
           bagId: Number(bagIdStr),
         })
       }

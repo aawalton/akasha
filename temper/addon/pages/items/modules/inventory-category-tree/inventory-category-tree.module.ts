@@ -6,4 +6,14 @@ export const inventoryCategoryTree = {
   slug: "inventory-category-tree",
   definition: "the item category tree flattened into nodes keyed by id, with parents and children",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tree is written from the branch pages as the addon compiles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tree is built the first time it is asked for, and held after.",
+    },
+  ],
 } as const satisfies Module

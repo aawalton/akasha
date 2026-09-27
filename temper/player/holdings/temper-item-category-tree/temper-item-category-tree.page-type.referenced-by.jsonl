@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"temper-item-category-tree.page-type.ts","path":"temper/addon/pages/items/modules/inventory-category-tree/inventory-category-tree.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.ts","path":"temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.ts","path":"temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.ts","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts","typed":false,"deferred":false}

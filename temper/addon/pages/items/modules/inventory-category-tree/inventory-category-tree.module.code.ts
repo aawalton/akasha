@@ -1,23 +1,13 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import {
-  ITEM_CATEGORY_PRIORITY,
-  ITEM_CATEGORY_TREE,
-} from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
-
-interface UpstreamCategoryNode {
-  id: string
-  name: string
-  filterTypes?: readonly number[]
-  itemTypes?: readonly number[]
-  specializedItemTypes?: readonly number[]
-  traitTypeRange?: readonly [number, number]
-  equipTypes?: readonly number[]
-  weaponTypes?: readonly number[]
-  armorTypes?: readonly number[]
-  furnitureCategoryIds?: readonly number[]
-  furnitureSubcategoryIds?: readonly number[]
-  itemNameContains?: string
-  children?: readonly UpstreamCategoryNode[]
-}
+  type ItemCategoryRow,
+  itemCategoryRootsOf,
+} from "akasha/temper/items/core/modules/item-category-tree-reading/item-category-tree-reading.module.code.ts"
+import type {
+  ItemCategoryNode,
+  ItemCategoryRoots,
+} from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import { temperItemCategoryTree } from "akasha/temper/player/holdings/temper-item-category-tree/temper-item-category-tree.page-type.ts"
 
 export interface CategoryNode {
   parentId?: string
@@ -46,10 +36,10 @@ function toMutableRange(src: readonly [number, number] | undefined): [number, nu
   return [src[0], src[1]]
 }
 
-function flattenTree(tree: typeof ITEM_CATEGORY_TREE): Record<string, CategoryNode> {
+function flattenTree(roots: ItemCategoryRoots): Record<string, CategoryNode> {
   const flat: Record<string, CategoryNode> = {}
 
-  function visit(node: UpstreamCategoryNode, parentId: string | undefined): undefined {
+  function visit(node: ItemCategoryNode, parentId: string | undefined): undefined {
     const children = node.children
     const childIds = children && children.length > 0 ? children.map((c) => c.id) : undefined
     const out: CategoryNode = {
@@ -75,7 +65,6 @@ function flattenTree(tree: typeof ITEM_CATEGORY_TREE): Record<string, CategoryNo
     }
   }
 
-  const roots: readonly UpstreamCategoryNode[] = Object.values(tree)
   for (const root of roots) {
     visit(root, undefined)
   }
@@ -83,6 +72,32 @@ function flattenTree(tree: typeof ITEM_CATEGORY_TREE): Record<string, CategoryNo
   return flat
 }
 
-export const CATEGORY_TREE: Record<string, CategoryNode> = flattenTree(ITEM_CATEGORY_TREE)
+interface CompiledTree {
+  readonly roots: ItemCategoryRoots
+  readonly flat: Record<string, CategoryNode>
+  readonly rootIds: string[]
+}
 
-export const CATEGORY_ROOTS: string[] = [...ITEM_CATEGORY_PRIORITY]
+function treeOfPages(this: void): CompiledTree {
+  const roots = itemCategoryRootsOf($pagesOfType<ItemCategoryRow>(temperItemCategoryTree))
+  return { roots, flat: flattenTree(roots), rootIds: roots.map((one) => one.id) }
+}
+
+let held: CompiledTree | undefined
+
+function compiledTree(): CompiledTree {
+  if (held === undefined) held = treeOfPages()
+  return held
+}
+
+export function categoryRoots(): ItemCategoryRoots {
+  return compiledTree().roots
+}
+
+export function categoryTree(): Record<string, CategoryNode> {
+  return compiledTree().flat
+}
+
+export function categoryRootIds(): string[] {
+  return compiledTree().rootIds
+}

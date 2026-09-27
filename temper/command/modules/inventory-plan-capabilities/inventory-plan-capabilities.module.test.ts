@@ -11,6 +11,7 @@ import {
   planInputs,
   ruleMatcher,
 } from "akasha/temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts"
+import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
 import { holdKeyedTitlesFromCheckout } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.test-fixtures.ts"
 import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
@@ -18,6 +19,7 @@ import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/ski
 holdRecipeCatalogFromCheckout()
 holdSkillCatalogFromCheckout()
 holdKeyedTitlesFromCheckout(temperVenue.slug)
+holdItemCategoryTreeFromCheckout()
 
 describe("planInputs", () => {
   test("hands over the two default saved variables paths and the two loaders", async () => {

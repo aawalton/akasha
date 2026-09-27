@@ -13,6 +13,8 @@ import {
 } from "akasha/temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"
+import { loadItemCategoryTree } from "akasha/temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts"
+import type { ClassifiableItem } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import { loadKeyedTitles } from "akasha/temper/items/core/modules/keyed-titles-loading/keyed-titles-loading.module.code.ts"
 import { itemOutcomes } from "akasha/temper/items/rules/matcher/modules/inventory-item-outcomes/inventory-item-outcomes.module.code.ts"
 import { computeAllRuleAffectedItems } from "akasha/temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.code.ts"
@@ -55,7 +57,7 @@ interface PlanChecklist {
 }
 
 interface ClassifyItem {
-  readonly classifyItemToNodeIds: typeof classifyItemToNodeIds
+  readonly classifyItemToNodeIds: (item: ClassifiableItem) => readonly string[]
 }
 
 interface InventoryParser {
@@ -105,8 +107,9 @@ export function planChecklist(): Promise<PlanChecklist> {
   return Promise.resolve({ formatPlanChecklist })
 }
 
-export function classifyItem(): Promise<ClassifyItem> {
-  return Promise.resolve({ classifyItemToNodeIds })
+export async function classifyItem(): Promise<ClassifyItem> {
+  const { roots } = await loadItemCategoryTree()
+  return { classifyItemToNodeIds: (item) => classifyItemToNodeIds(item, roots) }
 }
 
 export function inventoryParser(): Promise<InventoryParser> {

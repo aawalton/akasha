@@ -18,6 +18,8 @@ import { luaStringsOrEmpty } from "akasha/temper/eso/saved-variable/modules/lua-
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import { parseInventoryContent } from "akasha/temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { loadItemCategoryTree } from "akasha/temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts"
+import type { ItemCategoryRoots } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
@@ -81,7 +83,8 @@ export async function loadInventoryPlanInputs(
   const charactersById = new Map<string, CharacterKnowledge>(characters.map((one) => [one.id, one]))
 
   const context = buildMatcherContext(config, charactersById, db)
-  const classifiedItems = classifyInventoryForMatcher(db)
+  const { roots } = await loadItemCategoryTree()
+  const classifiedItems = classifyInventoryForMatcher(db, roots)
   const orderedRules: readonly CompiledOrderedRule[] = config.orderedRules.map((rule, i) => ({
     ...rule,
     id: config.rules[i]?.id ?? `rule#${i}`,
@@ -222,7 +225,8 @@ function compileBankStock(db: InventoryDatabase): Map<number, number> {
 }
 
 export function classifyInventoryForMatcher(
-  db: InventoryDatabase
+  db: InventoryDatabase,
+  roots: ItemCategoryRoots
 ): readonly ClassifiedInventoryItem[] {
   const out: ClassifiedInventoryItem[] = []
   for (const [locationKey, location] of Object.entries(db.locations)) {
@@ -232,7 +236,7 @@ export function classifyInventoryForMatcher(
           item,
           locationKey,
           locationDisplayName: location.displayName,
-          nodeIds: classifyItemToNodeIds(item),
+          nodeIds: classifyItemToNodeIds(item, roots),
           bagId: Number(bagIdStr),
         })
       }

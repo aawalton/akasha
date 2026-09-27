@@ -4145,6 +4145,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.ts","id":"01a06258-b528-744f-9bd2-f905f500edb0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-browser-data/inventory-browser-data.module.ts","id":"01a06258-b528-7be0-a890-a01ea7fe2fd5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.ts","id":"01a06258-b529-71ba-8496-6c343352f8de"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-category-tree/inventory-category-tree.module.ts","id":"01a06258-b52a-7a34-8e85-b99f40b1b436"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.ts","id":"01a0d4af-83e7-7b4c-8ba4-e8ac6451d959"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.ts","id":"01a0d4a7-fd95-712e-997a-e1cf26ec6a80"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-provisioning/inventory-craft-shortfall-provisioning.module.ts","id":"01a0d4ad-3d1a-7e34-ae35-c1f07a79ed05"}
@@ -5450,6 +5451,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-text-model/ui-text-model.lua-module.ts","id":"01a0c9f5-7be6-7247-880c-a8fde9d42eb2"}
 {"propertySlug":"decision-kind","path":"temper/eso/ui-harness/ui-tooltip-model/ui-tooltip-model.lua-module.ts","id":"01a0d636-e8b6-7723-9385-0733baa44008"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/capture-instant/capture-instant.module.ts","id":"01a0ba6c-9beb-78b6-ae42-ea76022acdac"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.ts","id":"01a060e4-b745-7028-bea7-10714af9a632"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/classify-item/classify-item.module.ts","id":"01a060e4-b745-7869-bf3d-8c96e819e7d4"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.ts","id":"01a0626e-3e05-7e6d-98ef-c71fb6d1a1cb"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/compute-item-stock/compute-item-stock.module.ts","id":"01a0626e-3e05-7d4e-803d-d88f172652ca"}

@@ -7,6 +7,7 @@ import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/parse-number.module.code.ts"
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
+import { categoryRoots } from "akasha/temper/addon/pages/items/modules/inventory-category-tree/inventory-category-tree.module.code.ts"
 import { buildUnlockItemKey } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"
 import type { BrowseListing } from "akasha/temper/economy/trading/listing/modules/browse-listings/browse-listings.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
@@ -145,7 +146,7 @@ export function readResultListing(index: number): BrowseListing<ItemFacts> | und
   const sellerName = stringIn(sellerNameRaw) ?? ""
 
   const item = linkToInventoryItem(itemLink, stackCount)
-  const nodeIds = classifyItemToNodeIds(toClassifiable(item))
+  const nodeIds = classifyItemToNodeIds(toClassifiable(item), categoryRoots())
   const facts = buildItemFactsFromInventoryItem({
     item,
     nodeIds,

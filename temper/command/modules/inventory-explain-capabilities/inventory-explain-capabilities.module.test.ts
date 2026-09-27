@@ -10,10 +10,12 @@ import type {
   InventoryDatabase,
   InventoryItemData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
 holdRecipeCatalogFromCheckout()
 holdSkillCatalogFromCheckout()
+holdItemCategoryTreeFromCheckout()
 
 function itemAt(itemId: number, itemName: string): InventoryItemData {
   return {
@@ -71,6 +73,7 @@ describe("explainCapabilities", () => {
       "classifyItemToNodeIds",
       "cliItemFactsFromInventoryItem",
       "computeStockGroups",
+      "itemCategoryRoots",
       "loadTemperCharactersFromPath",
       "loadTemperItemsConfigFromPath",
       "locationConditionFromKeyAndBag",

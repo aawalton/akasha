@@ -24,6 +24,7 @@ import type {
   InventoryDatabase,
   InventoryItemData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { loadItemCategoryTree } from "akasha/temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts"
 import { parseItemLink } from "akasha/temper/items/core/modules/item-link-parser/item-link-parser.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items/core/modules/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
@@ -157,9 +158,13 @@ export async function temperInventoryLookupItem(
       DATA
     )
   }
-  await Promise.all([loadRecipeCatalog(), loadSkillCatalog()])
+  const [{ roots }] = await Promise.all([
+    loadItemCategoryTree(),
+    loadRecipeCatalog(),
+    loadSkillCatalog(),
+  ])
   const classification: Classification = classificationOf(match.itemName)
-  const categoryNodeIds = classifyItemToNodeIds(match)
+  const categoryNodeIds = classifyItemToNodeIds(match, roots)
   if (taken.json) return asJson(jsonOf(itemId, match, classification, categoryNodeIds))
   return told([...rowsOf(itemId, match, classification, categoryNodeIds)])
 }

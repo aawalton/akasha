@@ -241,7 +241,9 @@ export async function temperInventoryEnvParity(
       db,
     })
     const planEnv = buildWebEvalEnv(buildMatcherContext(config, charactersById, db), {
-      itemIdToCooldownGroup: buildItemIdToCooldownGroup(classifyInventoryForMatcher(db)),
+      itemIdToCooldownGroup: buildItemIdToCooldownGroup(
+        classifyInventoryForMatcher(db, caps.itemCategoryRoots)
+      ),
     })
 
     const held = allBagItems(caps, db)

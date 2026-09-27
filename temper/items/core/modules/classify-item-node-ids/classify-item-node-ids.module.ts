@@ -6,4 +6,10 @@ export const classifyItemNodeIds = {
   slug: "classify-item-node-ids",
   definition: "the branch an item belongs under, given as branch identities rather than names",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The roots are handed in, so the addon and a server each hand the tree they hold.",
+    },
+  ],
 } as const satisfies Module

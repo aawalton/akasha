@@ -1,7 +1,7 @@
 import {
-  CATEGORY_ROOTS,
-  CATEGORY_TREE,
   type CategoryNode,
+  categoryRootIds,
+  categoryTree,
 } from "akasha/temper/addon/pages/items/modules/inventory-category-tree/inventory-category-tree.module.code.ts"
 import { luaStringContains } from "akasha/temper/addon/shared/narrow/modules/lua-string-contains/lua-string-contains.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
@@ -10,7 +10,7 @@ import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaratio
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 function resolveCategoryNode(signals: ItemSignals, nodeId: string): string | undefined {
-  const node = CATEGORY_TREE[nodeId]
+  const node = categoryTree()[nodeId]
   if (!node) return undefined
 
   if (hasSignals(node) && !matchesSignals(signals, node)) return undefined
@@ -28,7 +28,7 @@ function resolveCategoryNode(signals: ItemSignals, nodeId: string): string | und
 }
 
 export function classifyItem(signals: ItemSignals): string {
-  for (const rootId of CATEGORY_ROOTS) {
+  for (const rootId of categoryRootIds()) {
     const result = resolveCategoryNode(signals, rootId)
     if (result !== undefined) return result
   }
@@ -39,7 +39,7 @@ export function getAncestorChain(nodeId: string): string[] {
   const chain: string[] = [nodeId]
   let current = nodeId
   while (true) {
-    const node = CATEGORY_TREE[current]
+    const node = categoryTree()[current]
     if (!node || node.parentId == null) break
     chain.push(node.parentId)
     current = node.parentId
