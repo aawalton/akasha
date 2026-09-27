@@ -1,3 +1,6 @@
+import { accountFiltersActivity } from "akasha/temper/web/phrase/pages/account-filters-activity.temper-web-phrase.ts"
+import { accountFiltersStatus } from "akasha/temper/web/phrase/pages/account-filters-status.temper-web-phrase.ts"
+
 export type FilterId = "status" | "activity"
 
 const FILTER_IDS: ReadonlySet<string> = new Set<FilterId>(["status", "activity"])
@@ -8,10 +11,10 @@ export function isFilterId(id: string): id is FilterId {
 
 interface AccountFilterDef {
   id: FilterId
-  label: string
+  labelPhrase: string
 }
 
 export const ACCOUNT_FILTERS: AccountFilterDef[] = [
-  { id: "status", label: "Status" },
-  { id: "activity", label: "Activity" },
+  { id: "status", labelPhrase: accountFiltersStatus.slug },
+  { id: "activity", labelPhrase: accountFiltersActivity.slug },
 ]

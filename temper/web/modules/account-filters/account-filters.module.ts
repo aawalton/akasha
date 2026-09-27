@@ -6,4 +6,10 @@ export const accountFilters = {
   slug: "account-filters",
   definition: "the filters the account tab offers, and which ids name one",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each filter names the web phrase page its label is read from.",
+    },
+  ],
 } as const satisfies Module

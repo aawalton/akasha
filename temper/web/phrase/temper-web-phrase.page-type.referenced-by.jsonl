@@ -2,6 +2,8 @@
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.ts","path":"temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.ts","path":"temper/web/routes/landing/landing.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.ts","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/account-filters-activity.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/account-filters-status.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/account-summary-panel-card-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/account-tab-active.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/account-tab-bad-characters.temper-web-phrase.ts","typed":true,"deferred":false}
@@ -314,6 +316,11 @@
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/companion-version-actions-unknown-error.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/companions-summary-panel-card-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/comparison-op-picker-operator-label.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/completion-account-tab-get-started.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/completion-account-tab-not-measured.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/completion-account-tab-not-received.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/completion-account-tab-search.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/completion-account-tab-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/completion-document-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/completion-page-empty-no-data.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/completion-page-empty-signed-in-only.temper-web-phrase.ts","typed":true,"deferred":false}

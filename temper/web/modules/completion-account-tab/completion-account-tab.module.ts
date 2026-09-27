@@ -6,4 +6,10 @@ export const completionAccountTab = {
   slug: "completion-account-tab",
   definition: "the completion page's account tab, its toolbar and its cards",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

@@ -38,6 +38,12 @@ import {
 import { AccountPanelGrid } from "akasha/temper/web/modules/account-panel-grid/account-panel-grid.module.code.tsx"
 import type { AccountProgressData } from "akasha/temper/web/modules/account-progress/account-progress.module.code.ts"
 import { useCompletionToolbar } from "akasha/temper/web/modules/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { completionAccountTabGetStarted } from "akasha/temper/web/phrase/pages/completion-account-tab-get-started.temper-web-phrase.ts"
+import { completionAccountTabNotMeasured } from "akasha/temper/web/phrase/pages/completion-account-tab-not-measured.temper-web-phrase.ts"
+import { completionAccountTabNotReceived } from "akasha/temper/web/phrase/pages/completion-account-tab-not-received.temper-web-phrase.ts"
+import { completionAccountTabSearch } from "akasha/temper/web/phrase/pages/completion-account-tab-search.temper-web-phrase.ts"
+import { completionAccountTabTitle } from "akasha/temper/web/phrase/pages/completion-account-tab-title.temper-web-phrase.ts"
 import { Globe } from "lucide-react"
 import { useState } from "react"
 
@@ -74,6 +80,8 @@ export function CompletionAccountTab({
     onSortChange,
     onSearchChange,
   } = useCompletionToolbar()
+  const phrase = usePhrase()
+  const title = phrase(completionAccountTabTitle.slug)
 
   const { measured } = accountProgress
 
@@ -91,7 +99,7 @@ export function CompletionAccountTab({
     return (
       <TabsContent value="account">
         <div className="flex flex-col gap-6">
-          <PageTabHeader title="Account" />
+          <PageTabHeader title={title} />
           <Card>
             <CardContent>
               <Empty>
@@ -99,16 +107,16 @@ export function CompletionAccountTab({
                   <EmptyMedia variant="icon">
                     <Globe />
                   </EmptyMedia>
-                  <EmptyTitle>Account data not received</EmptyTitle>
+                  <EmptyTitle>{phrase(completionAccountTabNotReceived.slug)}</EmptyTitle>
                   <EmptyDescription>
-                    Nothing account-wide has reached Temper for this account yet, so there is
-                    nothing to measure here. This is not a score of zero — these figures are
-                    unknown, not low.
+                    {phrase(completionAccountTabNotMeasured.slug)}
                   </EmptyDescription>
                 </EmptyHeader>
                 <EmptyContent>
                   <Button variant="accent" asChild>
-                    <LayoutLink href="/watcher">Get Started</LayoutLink>
+                    <LayoutLink href="/watcher">
+                      {phrase(completionAccountTabGetStarted.slug)}
+                    </LayoutLink>
                   </Button>
                 </EmptyContent>
               </Empty>
@@ -154,9 +162,13 @@ export function CompletionAccountTab({
     <TabsContent value="account">
       <PanelToggleProvider active={active}>
         <div className="flex flex-col gap-6">
-          <PageTabHeader title="Account">
+          <PageTabHeader title={title}>
             <SearchSortFilterRow hasActiveFilters={hasActiveFilters} onReset={onReset}>
-              <SearchButton value={search} onChange={onSearchChange} placeholder="Search..." />
+              <SearchButton
+                value={search}
+                onChange={onSearchChange}
+                placeholder={phrase(completionAccountTabSearch.slug)}
+              />
               <SortButton
                 options={sortOptions}
                 sorts={[{ field: sortMode, direction: sortDirection }]}
@@ -168,14 +180,17 @@ export function CompletionAccountTab({
               />
               <FilterButton
                 hasActiveFilters={hasStatusValue || hasActivityValue || addedFilters.size > 0}
-                emptySelectOptions={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+                emptySelectOptions={availableFilters.map((f) => ({
+                  id: f.id,
+                  label: phrase(f.labelPhrase),
+                }))}
                 onEmptySelect={handleAdd}
               >
                 <div className="flex flex-col gap-3">
                   {visibleFilters.map((filterDef) => (
                     <FilterGroup
                       key={filterDef.id}
-                      label={filterDef.label}
+                      label={phrase(filterDef.labelPhrase)}
                       onRemove={() => handleRemove(filterDef.id)}
                     >
                       {filterDef.id === "status" && (
@@ -199,7 +214,10 @@ export function CompletionAccountTab({
                     </FilterGroup>
                   ))}
                   <AddFilterButton
-                    options={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+                    options={availableFilters.map((f) => ({
+                      id: f.id,
+                      label: phrase(f.labelPhrase),
+                    }))}
                     onAdd={handleAdd}
                   />
                 </div>
