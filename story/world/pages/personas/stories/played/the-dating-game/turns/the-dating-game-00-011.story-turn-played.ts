@@ -27,4 +27,5 @@ export const theDatingGame00011 = {
     "Then she turns, his hand still in hers, and draws him on up the trail beside her.",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
