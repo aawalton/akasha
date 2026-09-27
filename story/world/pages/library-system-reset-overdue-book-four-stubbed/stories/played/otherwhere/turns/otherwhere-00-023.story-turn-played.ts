@@ -7,7 +7,7 @@ export const otherwhere00023 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 23,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     "I grab two handfuls of salt in my hands then grip it by the neck, holding it in the salt",
 } as const satisfies StoryTurnPlayed
