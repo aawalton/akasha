@@ -21,7 +21,7 @@ import { CharacterEditorHeader } from "akasha/temper/web/modules/character-edito
 import { CharacterEditorTabsList } from "akasha/temper/web/modules/character-editor-tabs-list/character-editor-tabs-list.module.code.tsx"
 import { CharacterPassiveSearchRow } from "akasha/temper/web/modules/character-passive-search-row/character-passive-search-row.module.code.tsx"
 import { ClassChangeConfirmationDialog } from "akasha/temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"
-import { EDITOR_TAB_LABELS } from "akasha/temper/web/modules/editor-tab-labels/editor-tab-labels.module.code.ts"
+import { EDITOR_TAB_LABEL_PHRASES } from "akasha/temper/web/modules/editor-tab-labels/editor-tab-labels.module.code.ts"
 import { EditorTabPanels } from "akasha/temper/web/modules/editor-tab-panels/editor-tab-panels.module.code.tsx"
 import { GlobalSetBulkEditTags } from "akasha/temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx"
 import { SetTargetConfirmDialog } from "akasha/temper/web/modules/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx"
@@ -103,6 +103,7 @@ export function CharacterEditorContent({ initialTab }: BuildEditorContentProps) 
   } = useCharacterActions()
 
   const [activeTab, setActiveTab] = useState(initialTab ?? "general")
+  const tabLabelSlug = EDITOR_TAB_LABEL_PHRASES[activeTab]
   const [underConstructionFeature, setUnderConstructionFeature] = useState<string | null>(null)
   const [activeStatsTab, setActiveStatsTab] = useState<"primary" | "backup">("primary")
 
@@ -205,7 +206,7 @@ export function CharacterEditorContent({ initialTab }: BuildEditorContentProps) 
         <PageLayout.Content>
           <div className="flex flex-col gap-6">
             <PageTabHeader
-              title={EDITOR_TAB_LABELS[activeTab] ?? activeTab}
+              title={tabLabelSlug === undefined ? activeTab : phrase(tabLabelSlug)}
               subtitle={
                 activeTab === "equipment" && !readOnly ? (
                   <GlobalSetBulkEditTags
