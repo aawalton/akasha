@@ -7,7 +7,15 @@ export const otherwhere00029 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 29,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I pick up handfuls of salt again and bait out a lunge, then grab it by the neck and tackle it into the salt",
+  beats: [
+    "Nala scoops two fistfuls of salt from the heap and steps toward the coiled bookworm, arm held out.",
+    "It takes the bait and lunges at her outstretched arm; she whips it back and the teeth close on air.",
+    "Before it can draw back she clamps both salted fists round its neck behind the mouth.",
+    "Its skin puckers dry under her grip, and she throws her weight forward and drives it into the heap.",
+    "Salt sprays up round it; it shrieks and bucks, shrinking and greying fast.",
+    "She lies across it, fists locked, as the thrashing weakens under her.",
+  ],
 } as const satisfies StoryTurnPlayed
