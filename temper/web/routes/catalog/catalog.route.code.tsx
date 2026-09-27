@@ -1,11 +1,12 @@
 import { PageLayoutSkeleton } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { CatalogPageContent } from "akasha/temper/web/modules/catalog-page-content/catalog-page-content.module.code.tsx"
+import { catalogDocumentTitle } from "akasha/temper/web/phrase/pages/catalog-document-title.temper-web-phrase.ts"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 
 export function meta() {
-  return [{ title: "Temper | Catalog" }]
+  return [{ title: catalogDocumentTitle.title }]
 }
 
 export default function CatalogPage() {

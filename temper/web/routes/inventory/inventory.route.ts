@@ -12,5 +12,9 @@ export const inventory = {
       decisionKind: "decision-kind/departure",
       statement: "The screen holds the item action titles read from their pages before it draws.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
   ],
 } as const satisfies Route

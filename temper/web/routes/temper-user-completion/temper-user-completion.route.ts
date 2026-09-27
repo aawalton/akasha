@@ -7,4 +7,10 @@ export const temperUserCompletion = {
   definition: "a player's completion, read by anyone",
   code: "tsx",
   urlPath: "completion/u/:userId",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
+  ],
 } as const satisfies Route

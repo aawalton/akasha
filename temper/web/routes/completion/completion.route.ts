@@ -7,4 +7,10 @@ export const completion = {
   definition: "how much of the game the signed-in player has finished",
   code: "tsx",
   urlPath: "completion",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
+  ],
 } as const satisfies Route

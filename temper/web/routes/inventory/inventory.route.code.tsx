@@ -15,12 +15,13 @@ import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-c
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
 import { useLoreLibrary } from "akasha/temper/web/modules/use-lore-library/use-lore-library.module.code.tsx"
+import { inventoryDocumentTitle } from "akasha/temper/web/phrase/pages/inventory-document-title.temper-web-phrase.ts"
 import { InventoryPageContent } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-page-content/inventory-page-content.module.code.tsx"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 
 export function meta() {
-  return [{ title: "Temper | Inventory" }]
+  return [{ title: inventoryDocumentTitle.title }]
 }
 
 export default function InventoryPage() {

@@ -7,4 +7,10 @@ export const catalog = {
   definition: "the game's reference data, read on a screen",
   code: "tsx",
   urlPath: "catalog",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
+  ],
 } as const satisfies Route

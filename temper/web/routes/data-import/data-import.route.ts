@@ -7,4 +7,10 @@ export const dataImport = {
   definition: "the screen where a player brings in saved game data",
   code: "tsx",
   urlPath: "import",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
+  ],
 } as const satisfies Route

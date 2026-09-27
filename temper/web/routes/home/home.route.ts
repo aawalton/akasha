@@ -7,4 +7,10 @@ export const home = {
   definition: "a signed-in player's landing screen",
   code: "tsx",
   urlPath: "home",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
+  ],
 } as const satisfies Route

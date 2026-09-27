@@ -7,11 +7,12 @@ import { RecipeCatalogGate } from "akasha/temper/web/modules/recipe-catalog-gate
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
+import { temperUserCompletionDocumentTitle } from "akasha/temper/web/phrase/pages/temper-user-completion-document-title.temper-web-phrase.ts"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 
 export function meta() {
-  return [{ title: "Temper | Completion" }]
+  return [{ title: temperUserCompletionDocumentTitle.title }]
 }
 
 export default function CompletionPublicPage({ params }: { params: { userId: string } }) {

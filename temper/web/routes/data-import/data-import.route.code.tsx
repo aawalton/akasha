@@ -2,10 +2,11 @@ import { PageLayoutSkeleton } from "akasha/design/interface/layout/modules/page-
 import { simplePageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.code.tsx"
 import { ImportPageContent } from "akasha/temper/web/modules/import-page-content/import-page-content.module.code.tsx"
+import { dataImportDocumentTitle } from "akasha/temper/web/phrase/pages/data-import-document-title.temper-web-phrase.ts"
 import { Suspense } from "react"
 
 export function meta() {
-  return [{ title: "Temper | Import" }]
+  return [{ title: dataImportDocumentTitle.title }]
 }
 
 export default function ImportPage() {
