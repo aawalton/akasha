@@ -16,7 +16,7 @@ const NAV = toPageTypeSlug("nav")
 const EVERY_NAV_ITEM: Query = {
   pageTypeSlug: NAV,
   where: { app: { is: ALANWALTON_APP } },
-  keys: ["slug", "id", "navPlace", "navParent", "mobilePinOrder"],
+  keys: ["slug", "id", "title", "navPlace", "navParent", "mobilePinOrder"],
 }
 
 function placeOf(row: Row): number {
@@ -58,14 +58,20 @@ function paramOf(row: Row | undefined): string | null {
   })
 }
 
-function homeNavItemIdIn(asked: Asked): string | null {
+type HomeNavItem = { readonly param: string; readonly title: string | null }
+
+function homeNavItemIn(asked: Asked): HomeNavItem | null {
   if ("refused" in asked) {
     throw new Error(`${HOME_NAV_ITEM} went unread: ${asked.refused}`)
   }
   const ordered = inNavOrder(asked.rows)
-  return paramOf(ordered.find(pinned) ?? ordered[0])
+  const row = ordered.find(pinned) ?? ordered[0]
+  const param = paramOf(row)
+  if (param === null) return null
+  const title = row?.["title"]
+  return { param, title: typeof title === "string" && title !== "" ? title : null }
 }
 
-export async function readHomeNavItemParam(): Promise<string | null> {
-  return homeNavItemIdIn(await askingFor(EVERY_NAV_ITEM))
+export async function readHomeNavItem(): Promise<HomeNavItem | null> {
+  return homeNavItemIn(await askingFor(EVERY_NAV_ITEM))
 }

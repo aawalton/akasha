@@ -32,5 +32,9 @@ export const homeDniParam = {
       decisionKind: "decision-kind/departure",
       statement: "The nav item is answered as the param its href carries rather than as its id.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The nav item's title is answered beside its param.",
+    },
   ],
 } as const satisfies Module
