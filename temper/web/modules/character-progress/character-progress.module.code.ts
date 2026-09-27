@@ -1,4 +1,6 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
+import type { LoreLibrary } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts"
+import { transformAccountLoreUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"
 import type {
   AchievementTallyCategory,
   CharacterAchievementProgressResult,
@@ -75,6 +77,7 @@ interface UseCharacterProgressArgs {
   companionQuestProgress: readonly CharacterQuestProgress[]
   companionRapportProgress: readonly CharacterCompanionRapportProgress[]
   catalogs: CompletionCatalogs
+  loreLibrary: LoreLibrary
 }
 
 interface UseCharacterProgressResult {
@@ -90,6 +93,7 @@ export function useCharacterProgress({
   companionQuestProgress,
   companionRapportProgress,
   catalogs,
+  loreLibrary,
 }: UseCharacterProgressArgs): UseCharacterProgressResult {
   const accountCollectibles = accountCompletion?.collectibles
   const {
@@ -101,7 +105,6 @@ export function useCharacterProgress({
     recipeProgress,
     scribingProgress,
     traitResearchProgress,
-    loreProgress,
     rosterSize,
     measuredCharacterCount,
   } = useMemo(
@@ -126,7 +129,14 @@ export function useCharacterProgress({
     () => transformCadwellProgress(rows, catalogs.cadwellLevels),
     [rows, catalogs.cadwellLevels]
   )
-  const loreLibraryProgress = useMemo(() => transformLoreLibraryProgress(rows), [rows])
+  const loreLibraryProgress = useMemo(
+    () => transformLoreLibraryProgress(loreLibrary, rows),
+    [loreLibrary, rows]
+  )
+  const loreProgress = useMemo(
+    () => transformAccountLoreUnion(loreLibrary, rows),
+    [loreLibrary, rows]
+  )
   const questProgress = useMemo(
     () => transformQuestProgress(rows, catalogs.questZones),
     [rows, catalogs.questZones]

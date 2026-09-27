@@ -70,7 +70,7 @@ export const COMPLETION_CARD_CHECKERS: Partial<
       return false
     },
     isItemComplete(completion, itemPath) {
-      return isLoreLibraryItemComplete(completion, itemPath)
+      return isLoreLibraryItemComplete(LORE_LIBRARY_DATA, completion, itemPath)
     },
     getItemPickerLevels(_completions, currentPath) {
       if (currentPath.length === 0) {

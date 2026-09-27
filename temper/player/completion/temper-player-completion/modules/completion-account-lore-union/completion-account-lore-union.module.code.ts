@@ -1,8 +1,9 @@
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import type { LoreLibrary } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import type { AccountLoreProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
 export function transformAccountLoreUnion(
+  library: LoreLibrary,
   rows: readonly CompletionCharacterRow[]
 ): AccountLoreProgress {
   const knownSet = new Set<string>()
@@ -21,7 +22,7 @@ export function transformAccountLoreUnion(
   let totalKnown = 0
   let totalBooks = 0
 
-  const categories = LORE_LIBRARY_DATA.map((cat) => {
+  const categories = library.map((cat) => {
     let catKnown = 0
     let catTotal = 0
 

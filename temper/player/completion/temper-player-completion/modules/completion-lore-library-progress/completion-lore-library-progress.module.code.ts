@@ -1,5 +1,5 @@
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import type { LoreLibrary } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
 import type {
@@ -7,9 +7,9 @@ import type {
   LoreCategoryProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 
-type LoreLibrary = NonNullable<CharacterCompletion["loreLibrary"]>
+type KnownLore = NonNullable<CharacterCompletion["loreLibrary"]>
 
-export function extractLoreKnownSet(loreLibrary: LoreLibrary): Set<string> {
+export function extractLoreKnownSet(loreLibrary: KnownLore): Set<string> {
   const knownSet = new Set<string>()
   for (const [catIdx, category] of Object.entries(loreLibrary)) {
     for (const [colIdx, bookIndices] of Object.entries(category)) {
@@ -20,7 +20,8 @@ export function extractLoreKnownSet(loreLibrary: LoreLibrary): Set<string> {
 }
 
 export function countLoreLibrary(
-  loreLibrary: LoreLibrary,
+  library: LoreLibrary,
+  loreLibrary: KnownLore,
   itemPath?: readonly (string | number)[]
 ): { current: number; total: number } {
   const knownSet = extractLoreKnownSet(loreLibrary)
@@ -29,7 +30,7 @@ export function countLoreLibrary(
 
   let current = 0
   let total = 0
-  for (const cat of LORE_LIBRARY_DATA) {
+  for (const cat of library) {
     if (categoryFilter !== null && cat.categoryIndex !== categoryFilter) continue
     for (const col of cat.collections) {
       if (collectionFilter !== null && col.collectionIndex !== collectionFilter) continue
@@ -43,17 +44,21 @@ export function countLoreLibrary(
 }
 
 export function isLoreLibraryItemComplete(
+  library: LoreLibrary,
   completion: CharacterCompletion | null,
   itemPath: readonly (string | number)[]
 ): boolean {
   if (!completion || itemPath.length === 0) return false
   const ll = completion.loreLibrary
   if (!ll) return false
-  const { current, total } = countLoreLibrary(ll, itemPath)
+  const { current, total } = countLoreLibrary(library, ll, itemPath)
   return total > 0 && current === total
 }
 
-function buildCategories(knownSet: Set<string>): {
+function buildCategories(
+  library: LoreLibrary,
+  knownSet: Set<string>
+): {
   categories: readonly LoreCategoryProgress[]
   knownCount: number
   totalBooks: number
@@ -61,7 +66,7 @@ function buildCategories(knownSet: Set<string>): {
   let totalKnown = 0
   let totalBooks = 0
 
-  const categories = LORE_LIBRARY_DATA.map((cat) => {
+  const categories = library.map((cat) => {
     let catKnown = 0
     let catTotal = 0
 
@@ -98,9 +103,10 @@ function buildCategories(knownSet: Set<string>): {
 }
 
 export function transformLoreLibraryProgress(
+  library: LoreLibrary,
   rows: readonly CompletionCharacterRow[]
 ): readonly CharacterLoreLibraryProgress[] {
-  if (LORE_LIBRARY_DATA.length === 0) return []
+  if (library.length === 0) return []
 
   const result: CharacterLoreLibraryProgress[] = []
 
@@ -110,7 +116,7 @@ export function transformLoreLibraryProgress(
 
     const loreLibrary = completion.loreLibrary
     const knownSet = loreLibrary ? extractLoreKnownSet(loreLibrary) : new Set<string>()
-    const { categories, knownCount, totalBooks } = buildCategories(knownSet)
+    const { categories, knownCount, totalBooks } = buildCategories(library, knownSet)
 
     result.push({
       characterId: row.id,

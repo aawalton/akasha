@@ -7,6 +7,7 @@ import {
   characterCompletionSchema,
   companionCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import type {
   AccountSummaryData,
   CharacterSummaryData,
@@ -138,6 +139,7 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
       companionQuestProgress,
       companionRapportProgress,
       catalogs,
+      loreLibrary: LORE_LIBRARY_DATA,
     })
 
   const { accountProgress, accountSummary } = useAccountProgress({

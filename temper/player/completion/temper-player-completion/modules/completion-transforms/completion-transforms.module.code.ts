@@ -1,4 +1,3 @@
-import { transformAccountLoreUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
 import { transformRecipeProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-recipe-progress/completion-recipe-progress.module.code.ts"
@@ -10,7 +9,6 @@ import {
   transformTraitResearchProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import type {
-  AccountLoreProgress,
   CharacterMountTrainingProgress,
   CharacterPackUpgradesProgress,
   CharacterRecipeProgress,
@@ -43,7 +41,6 @@ interface CompletionTransformResult {
   traitResearchProgress: readonly CharacterTraitResearchProgress[]
   mountTrainingProgress: readonly CharacterMountTrainingProgress[]
   packUpgradesProgress: readonly CharacterPackUpgradesProgress[]
-  loreProgress: AccountLoreProgress
   rosterSize: number
   measuredCharacterCount: number
 }
@@ -128,7 +125,6 @@ export function transformCompletionCharacters(
     traitResearchProgress: transformTraitResearchProgress(rows, craftTypes, researchLines),
     mountTrainingProgress,
     packUpgradesProgress,
-    loreProgress: transformAccountLoreUnion(rows),
     rosterSize: rows.length,
     measuredCharacterCount,
   }

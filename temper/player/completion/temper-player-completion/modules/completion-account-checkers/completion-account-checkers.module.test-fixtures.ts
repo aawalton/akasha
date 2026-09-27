@@ -230,7 +230,7 @@ export function summaryOf({ account, rows, catalogs }: AccountCheckerInput): Acc
     transformAntiquityLoreProgress(account, catalogs.antiquityCategories),
     transformCollectiblesProgress(account, catalogs.collectibleCategories),
     transformItemSetProgress(account, catalogs.setCategories),
-    transformAccountLoreUnion(rows),
+    transformAccountLoreUnion(LORE_LIBRARY_DATA, rows),
     transformAccountPoiUnion(transformPoiProgress(rows, catalogs.poiZones), catalogs.poiZones),
     transformAccountQuestUnion(transformQuestProgress(rows, catalogs.questZones)),
     transformAccountRecipeUnion(transformRecipeProgress(rows)),
