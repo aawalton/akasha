@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHNIDAAIBhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAAAFpowzpNhiwAAACGcoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWOlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
+  "buildHash": "ATQHNIDAQABhxAljE_tYxP7WMmC1DJgtIyYLWMmC1jJgtEGjtRBAq0QQKtJHkx2xEEx1ujIAAAFpowzpNhiwAAACGcoAAgjlUgFAGWpToAAAEaCACEKgIJwg8AHQAjnVVqA4pUADJoBgjIhI4gQASCCc9HKRAQdoFYBg4y6KuozIsSZWPJllzJs7Po06te2fQo0qdTxVWOlbI2ePrl6BiyQtETZG6dpEqZO_UKYKqErjrDBI4bNgSpYEYBhAoYyaDiBJs4KFjBo4eQIkjpM4EBkywEEmvDJZzxMYJAYwoEI82C6xWuUzDEXPBJKEQA9vM2te081w9lAy",
   "gender": 1,
   "level": 50,
   "classId": 1,
@@ -28276,6 +28276,6 @@
   "bankVisitDate": "2026-09-26",
   "inventoryCheck": {
     "date": "2026-09-26",
-    "misplaced": 97
+    "misplaced": 100
   }
 }
