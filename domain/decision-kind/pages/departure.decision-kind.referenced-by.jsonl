@@ -6131,6 +6131,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-stats-panel/companion-stats-panel.module.ts","id":"01a06436-3557-72c0-9712-d936c8e8eaa3"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.ts","id":"01a06591-9eb0-7000-9053-bdd9b8e2dcfd"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-data-content/companions-data-content.module.ts","id":"01a0642f-8c39-76f1-b933-f9088eb0ca06"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companions-filter-bar/companions-filter-bar.module.ts","id":"01a0641f-8bef-7567-be70-80b3096ce27e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-filter-types/companions-filter-types.module.ts","id":"01a06421-2527-72cf-81cf-35554408ce56"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-page-content/companions-page-content.module.ts","id":"01a0642f-8c3a-7b91-8490-d1b8b3d052fb"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.ts","id":"01a06432-b190-7747-916a-01f0593a3621"}

@@ -21,6 +21,7 @@
 {"propertySlug":"import","fileName":"companion-base-roles.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-base-roles.module.code.ts","path":"temper/web/modules/companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-base-roles.module.code.ts","path":"temper/web/modules/companions-data-content/companions-data-content.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-base-roles.module.code.ts","path":"temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-base-roles.module.code.ts","path":"temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-base-roles.module.code.ts","path":"temper/web/modules/companions-page-content/companions-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-base-roles.module.code.ts","path":"temper/web/modules/companions-plan-tab/companions-plan-tab.module.code.tsx","typed":true,"deferred":false}

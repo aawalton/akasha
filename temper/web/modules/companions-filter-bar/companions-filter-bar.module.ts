@@ -6,4 +6,10 @@ export const companionsFilterBar = {
   slug: "companions-filter-bar",
   definition: "the bar filtering and sorting a companion list",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The roles offered are the companion base role pages, by their titles.",
+    },
+  ],
 } as const satisfies Module

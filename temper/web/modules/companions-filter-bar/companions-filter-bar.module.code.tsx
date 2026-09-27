@@ -16,6 +16,7 @@ import type {
   SortDirection,
   SortOption,
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { companionBaseRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { targetArmorItems } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { useEffect, useState } from "react"
@@ -56,12 +57,9 @@ interface CompanionFilterDef {
   renderGroup: (props: FilterPopoverProps) => React.ReactNode
 }
 
-const ROLE_ITEMS: BadgeToggleGroupItem[] = [
-  { value: "dps", label: "DPS" },
-  { value: "tank", label: "Tank" },
-  { value: "healer", label: "Healer" },
-  { value: "support", label: "Support" },
-]
+function roleItems(): BadgeToggleGroupItem[] {
+  return companionBaseRoles().map((role) => ({ value: role.id, label: role.name }))
+}
 
 const TARGET_COUNT_ITEMS: BadgeToggleGroupItem[] = [
   { value: "1", label: "Single Target" },
@@ -99,7 +97,7 @@ const COMPANION_FILTERS: CompanionFilterDef[] = [
       }
       return (
         <BadgeToggleGroup
-          items={ROLE_ITEMS}
+          items={roleItems()}
           value={props.selectedRoles.map((r) => ({ value: r, label: "" }))}
           onSelect={handleSelect}
           unselectedVariant="elevation-muted"
