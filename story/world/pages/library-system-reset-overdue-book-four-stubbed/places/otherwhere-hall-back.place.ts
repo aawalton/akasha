@@ -30,7 +30,11 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Five small engorged bookworms and one big one infest the back of the main hall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Since the sync, the bookworms' feeding costs the Library 1 power for each day they are left.",
@@ -252,7 +256,6 @@ export const otherwhereHallBack = {
       fact: "A small bookworm Nala hooked with the broom bit its bristles and wrenched the broom from her.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "A small engorged bookworm weighs twenty-odd pounds.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -269,17 +272,14 @@ export const otherwhereHallBack = {
       fact: "Nala's tackle slid off the bookworm's wet skin and left her on the floor; its bite missed her face.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "With salted hands Nala gripped the second bookworm behind its mouth and pinned it on the salt line.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Nala scooped salt from beside the gap, widening it past the width of her forearm.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Under Nala's knee the second small bookworm dried into a hard grey coil, alive and still.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
