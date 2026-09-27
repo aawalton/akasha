@@ -6,4 +6,10 @@ export const companionLiveOnlyPanelCard = {
   slug: "companion-live-only-panel-card",
   definition: "a panel card drawing a companion the game holds and no plan does",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

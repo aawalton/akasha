@@ -6182,6 +6182,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-info-panel-card/companion-info-panel-card.module.ts","id":"01a06421-251d-7c67-a950-17b3265fa30f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-jewelry-panel-card/companion-jewelry-panel-card.module.ts","id":"01a06421-251e-7014-98f4-c77091e7eb25"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-list-panel-card/companion-list-panel-card.module.ts","id":"01a0641f-8bee-7f39-b8bb-ded72e01e394"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-live-only-panel-card/companion-live-only-panel-card.module.ts","id":"01a0641f-8bee-7721-aab7-e59938f7ef2b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-skill-select-dialog/companion-skill-select-dialog.module.ts","id":"01a0642f-8c32-7775-b161-276fc7d4c191"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-stats-panel/companion-stats-panel.module.ts","id":"01a06436-3557-72c0-9712-d936c8e8eaa3"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.ts","id":"01a06591-9eb0-7000-9053-bdd9b8e2dcfd"}

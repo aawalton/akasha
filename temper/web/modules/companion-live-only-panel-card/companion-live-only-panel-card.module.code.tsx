@@ -14,6 +14,11 @@ import { companionWeaponRoleAt } from "akasha/temper/catalog/companion/companion
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionLiveOnlyPanelCardLive } from "akasha/temper/web/phrase/pages/companion-live-only-panel-card-live.temper-web-phrase.ts"
+import { companionLiveOnlyPanelCardScore } from "akasha/temper/web/phrase/pages/companion-live-only-panel-card-score.temper-web-phrase.ts"
+import { companionLiveOnlyPanelCardSetTargetBuild } from "akasha/temper/web/phrase/pages/companion-live-only-panel-card-set-target-build.temper-web-phrase.ts"
+import { companionLiveOnlyPanelCardUntitledBuild } from "akasha/temper/web/phrase/pages/companion-live-only-panel-card-untitled-build.temper-web-phrase.ts"
 
 interface LiveOnlyBuild {
   id: string
@@ -32,6 +37,7 @@ export interface CompanionLiveOnlyEntity {
 
 function LiveBuildRow({ build }: { build: LiveOnlyBuild }) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const weaponRoleId = build.buildData ? getWeaponRole(build.buildData) : null
   const weaponName =
     weaponRoleId != null && weaponRoleId !== "no-weapon-role"
@@ -45,10 +51,10 @@ function LiveBuildRow({ build }: { build: LiveOnlyBuild }) {
     >
       <div className="flex items-center justify-between gap-2">
         <span className="truncate text-primary text-sm">
-          {build.name !== "" ? build.name : "Untitled Build"}
+          {build.name !== "" ? build.name : phrase(companionLiveOnlyPanelCardUntitledBuild.slug)}
         </span>
         <Badge variant="elevation" className="shrink-0">
-          Live
+          {phrase(companionLiveOnlyPanelCardLive.slug)}
         </Badge>
       </div>
       {(build.score > 0 || weaponName != null) && (
@@ -56,7 +62,7 @@ function LiveBuildRow({ build }: { build: LiveOnlyBuild }) {
           {weaponName != null && <Badge variant="elevation-muted">{weaponName}</Badge>}
           {build.score > 0 && (
             <Badge variant="accent" className="font-semibold">
-              <span>Score</span>
+              <span>{phrase(companionLiveOnlyPanelCardScore.slug)}</span>
               <span className="font-mono">{Math.round(build.score).toLocaleString()}</span>
             </Badge>
           )}
@@ -77,6 +83,7 @@ export function CompanionLiveOnlyPanelCard({
   getCompanionName,
   onSetTarget,
 }: CompanionLiveOnlyPanelCardProps) {
+  const phrase = usePhrase()
   const companionName = getCompanionName(entity.companionId)
 
   return (
@@ -89,7 +96,7 @@ export function CompanionLiveOnlyPanelCard({
           className="w-full"
           onClick={() => onSetTarget(entity.entityId, entity.liveBuild.id, companionName)}
         >
-          Set target build
+          {phrase(companionLiveOnlyPanelCardSetTargetBuild.slug)}
         </Button>
       </CardContent>
     </PanelCard>
