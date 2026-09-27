@@ -84,6 +84,10 @@ export const otherwhereAlan = {
       fact: "The Library's information packet failed to load into her, so she knows nothing of the Library.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Library pulled Alan because his magical signature is compatible with its core.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
