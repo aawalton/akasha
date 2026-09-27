@@ -19,4 +19,5 @@ export const imageA1a56afe40f75000 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/painting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

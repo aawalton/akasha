@@ -9,4 +9,5 @@ export const imageAd66cfbe1db95e83 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature", "setting-tag/park"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/wig"],
 } as const satisfies Image

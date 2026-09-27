@@ -13,4 +13,11 @@ export const imageFfea6fa7f9608015 = {
     "pose-tag/reaching",
     "pose-tag/looking-away",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/gloves",
+    "wardrobe-tag/stockings",
+    "wardrobe-tag/armor",
+  ],
 } as const satisfies Image

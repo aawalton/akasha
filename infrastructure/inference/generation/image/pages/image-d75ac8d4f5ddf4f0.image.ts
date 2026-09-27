@@ -23,4 +23,11 @@ export const imageD75ac8d4f5ddf4f0 = {
     "pose-tag/front-view",
     "pose-tag/portrait",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/lace",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

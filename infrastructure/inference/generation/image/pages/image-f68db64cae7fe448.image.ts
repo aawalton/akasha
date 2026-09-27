@@ -14,4 +14,5 @@ export const imageF68db64cae7fe448 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/top"],
 } as const satisfies Image

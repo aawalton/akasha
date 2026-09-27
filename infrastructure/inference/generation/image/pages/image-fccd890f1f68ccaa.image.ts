@@ -8,4 +8,10 @@ export const imageFccd890f1f68ccaa = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/upper-body"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/writing-on-skin",
+  ],
 } as const satisfies Image

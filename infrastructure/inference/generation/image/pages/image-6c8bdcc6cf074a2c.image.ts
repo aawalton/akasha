@@ -22,4 +22,5 @@ export const image6c8bdcc6cf074a2c = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/tank-top"],
 } as const satisfies Image

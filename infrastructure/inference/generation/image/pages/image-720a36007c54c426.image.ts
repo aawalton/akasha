@@ -28,4 +28,10 @@ export const image720a36007c54c426 = {
     "pose-tag/cross-legged",
     "pose-tag/face-to-face",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/tank-top",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/sneakers",
+    "wardrobe-tag/camisole",
+  ],
 } as const satisfies Image

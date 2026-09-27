@@ -19,4 +19,5 @@ export const imageDf9ee4723c1f57e8 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/art-studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/painting", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/tank-top"],
 } as const satisfies Image

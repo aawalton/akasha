@@ -18,4 +18,5 @@ export const image057b36d511dff515 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/snow", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/fur"],
 } as const satisfies Image

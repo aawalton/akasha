@@ -14,4 +14,11 @@ export const image504d118e3b940407 = {
     "setting-tag/beach",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/school-uniform",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/gloves",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/jacket",
+  ],
 } as const satisfies Image

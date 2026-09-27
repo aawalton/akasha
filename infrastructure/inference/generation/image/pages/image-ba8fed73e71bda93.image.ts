@@ -19,4 +19,5 @@ export const imageBa8fed73e71bda93 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/art-studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
 } as const satisfies Image

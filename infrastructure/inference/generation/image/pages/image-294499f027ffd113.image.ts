@@ -19,4 +19,5 @@ export const image294499f027ffd113 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/puffed-sleeves"],
 } as const satisfies Image

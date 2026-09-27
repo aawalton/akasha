@@ -18,4 +18,5 @@ export const imageEcdac24f912b46bc = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/high-neck", "wardrobe-tag/gold-trim"],
 } as const satisfies Image

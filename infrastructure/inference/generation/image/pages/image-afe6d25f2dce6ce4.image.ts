@@ -18,4 +18,5 @@ export const imageAfe6d25f2dce6ce4 = {
     "pose-tag/close-up",
     "pose-tag/portrait",
   ],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt"],
 } as const satisfies Image

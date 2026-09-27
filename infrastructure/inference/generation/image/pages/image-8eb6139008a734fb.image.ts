@@ -19,4 +19,5 @@ export const image8eb6139008a734fb = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/art-studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/painting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/corset"],
 } as const satisfies Image

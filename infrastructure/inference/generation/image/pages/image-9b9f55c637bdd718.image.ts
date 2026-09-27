@@ -24,4 +24,5 @@ export const image9b9f55c637bdd718 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/wet"],
 } as const satisfies Image

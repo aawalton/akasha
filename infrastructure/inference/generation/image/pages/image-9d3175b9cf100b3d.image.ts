@@ -18,4 +18,5 @@ export const image9d3175b9cf100b3d = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
+  wardrobeTags: ["wardrobe-tag/camisole"],
 } as const satisfies Image

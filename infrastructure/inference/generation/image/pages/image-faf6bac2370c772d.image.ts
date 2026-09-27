@@ -14,4 +14,5 @@ export const imageFaf6bac2370c772d = {
     "setting-tag/candlelight",
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/kimono", "wardrobe-tag/off-shoulder"],
 } as const satisfies Image

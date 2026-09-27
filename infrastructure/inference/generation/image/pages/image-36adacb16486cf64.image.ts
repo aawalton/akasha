@@ -14,4 +14,10 @@ export const image36adacb16486cf64 = {
     "pose-tag/smiling",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/spaghetti-straps",
+    "wardrobe-tag/partial-undress",
+  ],
 } as const satisfies Image

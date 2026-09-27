@@ -13,4 +13,5 @@ export const image43302f4d00407e59 = {
     "setting-tag/autumn",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/high-slit"],
 } as const satisfies Image

@@ -23,4 +23,5 @@ export const imageDb3fc971bc477c27 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/smiling",
   ],
+  wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/fur"],
 } as const satisfies Image

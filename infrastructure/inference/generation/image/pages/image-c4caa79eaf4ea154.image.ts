@@ -14,4 +14,5 @@ export const imageC4caa79eaf4ea154 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/art-studio", "setting-tag/indoor", "setting-tag/workshop"],
   poseTags: ["pose-tag/sitting", "pose-tag/working", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/fully-clothed"],
 } as const satisfies Image

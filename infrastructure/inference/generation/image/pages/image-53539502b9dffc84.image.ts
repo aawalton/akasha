@@ -25,4 +25,9 @@ export const image53539502b9dffc84 = {
     "pose-tag/smiling",
     "pose-tag/upper-body",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/flower-crown",
+    "wardrobe-tag/spaghetti-straps",
+  ],
 } as const satisfies Image

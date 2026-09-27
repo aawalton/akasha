@@ -14,4 +14,5 @@ export const image2c2ffde140fb2b9c = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

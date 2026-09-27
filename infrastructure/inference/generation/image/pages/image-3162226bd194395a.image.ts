@@ -19,4 +19,5 @@ export const image3162226bd194395a = {
   subjects: "F",
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/tube-top"],
 } as const satisfies Image

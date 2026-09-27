@@ -9,4 +9,5 @@ export const image40fcb658abfc5567 = {
   subjects: "F",
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/backless"],
 } as const satisfies Image

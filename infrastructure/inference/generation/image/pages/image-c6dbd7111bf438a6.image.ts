@@ -19,4 +19,5 @@ export const imageC6dbd7111bf438a6 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sundress"],
 } as const satisfies Image

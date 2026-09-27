@@ -9,4 +9,5 @@ export const image41f95b642977daa5 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/cherry-blossoms", "setting-tag/park"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-crossed", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheer", "wardrobe-tag/silk"],
 } as const satisfies Image

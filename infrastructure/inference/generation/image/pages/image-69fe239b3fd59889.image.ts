@@ -19,4 +19,10 @@ export const image69fe239b3fd59889 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-dress",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/long-sleeves",
+  ],
 } as const satisfies Image

@@ -19,4 +19,10 @@ export const imageAfa09c2d0c6ad333 = {
   subjects: "F",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

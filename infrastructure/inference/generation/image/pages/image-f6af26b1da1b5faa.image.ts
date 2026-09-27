@@ -19,4 +19,5 @@ export const imageF6af26b1da1b5faa = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/art-studio", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/tank-top"],
 } as const satisfies Image

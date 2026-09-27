@@ -13,4 +13,5 @@ export const image9711c17de973d146 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/castle"],
   poseTags: ["pose-tag/looking-back", "pose-tag/reading", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless"],
 } as const satisfies Image

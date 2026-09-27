@@ -17,4 +17,9 @@ export const imageCa1525adc1f6489e = {
     "pose-tag/portrait",
     "pose-tag/hands-on-chest",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

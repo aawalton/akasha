@@ -18,4 +18,10 @@ export const image57983b020ac799f6 = {
     "pose-tag/back-view",
     "pose-tag/looking-back",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/backless",
+  ],
 } as const satisfies Image

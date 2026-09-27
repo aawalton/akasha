@@ -25,4 +25,5 @@ export const image32c6b73d6837f78b = {
   subjects: "F",
   settingTags: ["setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/lace"],
 } as const satisfies Image

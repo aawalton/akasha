@@ -8,4 +8,5 @@ export const imageDf342a7823a16ab9 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/spaceship", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/latex"],
 } as const satisfies Image

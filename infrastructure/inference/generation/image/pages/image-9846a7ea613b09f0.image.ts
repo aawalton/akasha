@@ -19,4 +19,5 @@ export const image9846a7ea613b09f0 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/top"],
 } as const satisfies Image

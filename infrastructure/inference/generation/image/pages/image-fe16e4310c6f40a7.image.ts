@@ -19,4 +19,5 @@ export const imageFe16e4310c6f40a7 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/tank-top"],
 } as const satisfies Image

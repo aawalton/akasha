@@ -18,4 +18,10 @@ export const imageFf8277fe74c770e2 = {
     "pose-tag/profile",
     "pose-tag/looking-back",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

@@ -18,4 +18,10 @@ export const image89d2abdc905f89a7 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/legs-crossed",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/high-heels",
+  ],
 } as const satisfies Image

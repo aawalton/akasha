@@ -19,4 +19,5 @@ export const imageEc6d36280d3a32c9 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/field", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/overalls", "wardrobe-tag/top", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

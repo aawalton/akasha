@@ -18,4 +18,5 @@ export const imageBeecea3c73863e66 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/nature"],
   poseTags: ["pose-tag/embracing", "pose-tag/smiling", "pose-tag/laughing"],
+  wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/swimsuit", "wardrobe-tag/tank-top"],
 } as const satisfies Image

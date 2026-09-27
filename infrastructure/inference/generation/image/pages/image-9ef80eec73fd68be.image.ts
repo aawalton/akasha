@@ -14,4 +14,5 @@ export const image9ef80eec73fd68be = {
     "setting-tag/castle",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/skirt"],
 } as const satisfies Image

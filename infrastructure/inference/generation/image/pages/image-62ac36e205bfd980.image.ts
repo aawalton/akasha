@@ -18,4 +18,5 @@ export const image62ac36e205bfd980 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/topless"],
 } as const satisfies Image

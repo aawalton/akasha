@@ -13,4 +13,10 @@ export const image97851156cfa317a1 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/arms-raised",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/stockings",
+    "wardrobe-tag/gloves",
+  ],
 } as const satisfies Image

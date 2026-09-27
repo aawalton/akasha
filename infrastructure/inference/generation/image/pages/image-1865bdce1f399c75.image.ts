@@ -13,4 +13,5 @@ export const image1865bdce1f399c75 = {
     "setting-tag/daytime",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

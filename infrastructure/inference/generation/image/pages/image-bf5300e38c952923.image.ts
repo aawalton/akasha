@@ -19,4 +19,5 @@ export const imageBf5300e38c952923 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/church"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

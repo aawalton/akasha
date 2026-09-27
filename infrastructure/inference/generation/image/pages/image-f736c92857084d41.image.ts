@@ -19,4 +19,10 @@ export const imageF736c92857084d41 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/reaching"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/gold-trim",
+  ],
 } as const satisfies Image

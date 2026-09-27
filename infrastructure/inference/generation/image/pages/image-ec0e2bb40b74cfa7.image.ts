@@ -19,4 +19,5 @@ export const imageEc0e2bb40b74cfa7 = {
   subjects: "F",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/art-studio"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/painting"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageEe41e3b575e232cc = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/dock", "setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/jacket"],
 } as const satisfies Image

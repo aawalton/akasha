@@ -8,4 +8,11 @@ export const imageEae53bfbcfeed465 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/beach", "setting-tag/sunset", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/school-uniform",
+    "wardrobe-tag/vest",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/shirt",
+  ],
 } as const satisfies Image

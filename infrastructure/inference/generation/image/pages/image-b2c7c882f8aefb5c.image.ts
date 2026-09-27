@@ -14,4 +14,10 @@ export const imageB2c7c882f8aefb5c = {
     "setting-tag/restaurant",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/sweater",
+    "wardrobe-tag/crop-top",
+  ],
 } as const satisfies Image

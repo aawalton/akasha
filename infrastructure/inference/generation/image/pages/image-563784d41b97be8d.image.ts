@@ -19,4 +19,5 @@ export const image563784d41b97be8d = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/art-studio"],
   poseTags: ["pose-tag/painting", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
+  wardrobeTags: ["wardrobe-tag/tank-top"],
 } as const satisfies Image

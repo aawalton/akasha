@@ -23,4 +23,10 @@ export const image19740e649c0e0f29 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/profile",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/puffed-sleeves",
+  ],
 } as const satisfies Image

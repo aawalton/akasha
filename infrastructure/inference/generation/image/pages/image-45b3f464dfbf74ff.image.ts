@@ -8,4 +8,5 @@ export const image45b3f464dfbf74ff = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dimly-lit", "setting-tag/underwater", "setting-tag/dark-background"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

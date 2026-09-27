@@ -13,4 +13,10 @@ export const image84ed3576fa5baaaf = {
     "pose-tag/upper-body",
     "pose-tag/front-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/cleavage",
+  ],
 } as const satisfies Image

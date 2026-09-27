@@ -16,4 +16,5 @@ export const image7c6702b425ec7722 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/top"],
 } as const satisfies Image

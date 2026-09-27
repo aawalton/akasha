@@ -18,4 +18,5 @@ export const image8057d35ddf79cf10 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/top"],
 } as const satisfies Image

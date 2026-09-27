@@ -19,4 +19,9 @@ export const imageFee3b84117991b64 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street", "setting-tag/home"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/sundress",
+    "wardrobe-tag/spaghetti-straps",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

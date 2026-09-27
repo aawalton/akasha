@@ -14,4 +14,5 @@ export const imageDad56364dd159317 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/athletic-wear", "wardrobe-tag/top"],
 } as const satisfies Image

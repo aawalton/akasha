@@ -14,4 +14,5 @@ export const image0cdb2903ad96502e = {
     "setting-tag/daytime",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
+  wardrobeTags: ["wardrobe-tag/swimsuit"],
 } as const satisfies Image

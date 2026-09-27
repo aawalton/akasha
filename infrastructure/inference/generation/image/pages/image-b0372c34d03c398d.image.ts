@@ -14,4 +14,5 @@ export const imageB0372c34d03c398d = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/market", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/shirt"],
 } as const satisfies Image

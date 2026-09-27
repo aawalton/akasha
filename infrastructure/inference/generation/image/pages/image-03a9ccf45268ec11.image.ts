@@ -19,4 +19,5 @@ export const image03a9ccf45268ec11 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/looking-back",
   ],
+  wardrobeTags: ["wardrobe-tag/shirt"],
 } as const satisfies Image

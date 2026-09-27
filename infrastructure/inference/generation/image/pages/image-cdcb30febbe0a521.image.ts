@@ -19,4 +19,5 @@ export const imageCdcb30febbe0a521 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/tank-top"],
 } as const satisfies Image

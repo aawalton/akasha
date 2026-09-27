@@ -9,4 +9,5 @@ export const imageDd22e396400686b7 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit", "setting-tag/rocks"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/body-paint"],
 } as const satisfies Image

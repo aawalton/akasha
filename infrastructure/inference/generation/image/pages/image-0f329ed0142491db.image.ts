@@ -24,4 +24,5 @@ export const image0f329ed0142491db = {
     "setting-tag/cherry-blossoms",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
 } as const satisfies Image

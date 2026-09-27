@@ -19,4 +19,5 @@ export const imageFc2cf4b91878a84d = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/arcade", "setting-tag/indoor"],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
+  wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/casual-wear"],
 } as const satisfies Image

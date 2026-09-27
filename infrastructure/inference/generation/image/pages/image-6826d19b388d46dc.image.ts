@@ -9,4 +9,5 @@ export const image6826d19b388d46dc = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans"],
 } as const satisfies Image

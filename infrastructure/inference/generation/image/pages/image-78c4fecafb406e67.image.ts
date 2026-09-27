@@ -19,4 +19,9 @@ export const image78c4fecafb406e67 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/sundress",
+    "wardrobe-tag/spaghetti-straps",
+    "wardrobe-tag/casual-wear",
+  ],
 } as const satisfies Image

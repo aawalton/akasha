@@ -19,4 +19,5 @@ export const imageF758222b5b2a91ab = {
   subjects: "F",
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/off-shoulder"],
 } as const satisfies Image

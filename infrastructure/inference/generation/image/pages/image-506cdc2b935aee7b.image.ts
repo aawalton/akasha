@@ -13,4 +13,5 @@ export const image506cdc2b935aee7b = {
     "pose-tag/hand-in-hair",
     "pose-tag/portrait",
   ],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/mini-dress", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

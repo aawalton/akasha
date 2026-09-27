@@ -18,4 +18,5 @@ export const image95698132755abf44 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/snow", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/fur", "wardrobe-tag/scarf"],
 } as const satisfies Image

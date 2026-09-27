@@ -14,4 +14,5 @@ export const image863d3987f230ae60 = {
     "pose-tag/head-tilt",
     "pose-tag/portrait",
   ],
+  wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/flower-crown"],
 } as const satisfies Image

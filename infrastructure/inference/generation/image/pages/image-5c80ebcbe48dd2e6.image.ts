@@ -12,4 +12,5 @@ export const image5c80ebcbe48dd2e6 = {
     "setting-tag/abstract-background",
   ],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

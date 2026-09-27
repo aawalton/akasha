@@ -8,4 +8,5 @@ export const imageCb95fe42bf75c5ce = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/sleeveless", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

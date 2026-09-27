@@ -18,4 +18,5 @@ export const imageBefbd6cd52ed495d = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

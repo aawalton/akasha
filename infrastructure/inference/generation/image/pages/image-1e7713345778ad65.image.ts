@@ -9,4 +9,5 @@ export const image1e7713345778ad65 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/spaceship"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/undressing"],
+  wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/shorts", "wardrobe-tag/jacket"],
 } as const satisfies Image

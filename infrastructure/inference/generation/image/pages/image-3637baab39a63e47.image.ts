@@ -14,4 +14,5 @@ export const image3637baab39a63e47 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/park"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/wig"],
 } as const satisfies Image

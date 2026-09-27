@@ -24,4 +24,10 @@ export const image36fc91756ac36a01 = {
     "setting-tag/city",
   ],
   poseTags: ["pose-tag/walking", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/jacket",
+    "wardrobe-tag/scarf",
+    "wardrobe-tag/jeans",
+    "wardrobe-tag/boots",
+  ],
 } as const satisfies Image

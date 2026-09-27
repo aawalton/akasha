@@ -13,4 +13,10 @@ export const image0823bd0f2b5e87b2 = {
     "pose-tag/holding-hands",
     "pose-tag/hand-on-face",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/partial-undress",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/gloves",
+    "wardrobe-tag/headband",
+  ],
 } as const satisfies Image
