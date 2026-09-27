@@ -6,4 +6,10 @@ export const companionRoleLeaderboardPanelCard = {
   slug: "companion-role-leaderboard-panel-card",
   definition: "a panel card ranking companions within a role",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

@@ -22,6 +22,7 @@ import {
   displayRolesToAbbreviation,
   type RankedEntry,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
+import { getCompanionMetricName } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
 import {
   type CompanionId,
   getCompanionName,
@@ -96,9 +97,9 @@ export function CompanionIdentityLeaderboardPanelCard({
             {LEADERBOARD_COLUMNS.map((col) => (
               <TableColumnLabel
                 key={col.metricKey}
-                label={col.label}
-                fullName={col.fullName}
-                description={col.description}
+                label={phrase(col.label.slug)}
+                fullName={getCompanionMetricName(col.metricKey)}
+                description={phrase(col.description.slug)}
               />
             ))}
           </TableRow>

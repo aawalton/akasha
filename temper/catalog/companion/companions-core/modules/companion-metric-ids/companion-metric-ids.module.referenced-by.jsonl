@@ -23,5 +23,6 @@
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/web/modules/companion-stat-group-panel-card/companion-stat-group-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/web/modules/companion-stats-context/companion-stats-context.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/web/modules/companion-stats-panel/companion-stats-panel.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/web/modules/leaderboard-columns/leaderboard-columns.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metric-ids.module.code.ts","path":"temper/web/modules/use-companion-stats-calculation/use-companion-stats-calculation.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/companion/companions-core/temper-companions-core.domain.ts","id":"01a06108-0770-7896-af0b-609e72d8fa97"}

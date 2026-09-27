@@ -9,6 +9,8 @@
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-identity-leaderboard-panel-card/companion-identity-leaderboard-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-role-leaderboard-panel-card/companion-role-leaderboard-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-panel-card/companion-rotation-breakdown-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-metrics.module.code.ts","path":"temper/web/modules/companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx","typed":false,"deferred":false}

@@ -22,7 +22,43 @@ import {
   type CompanionId,
   getCompanionName,
 } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionOverallLeaderboardPanelCardCompanion } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-companion.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardFirst } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-first.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardFirstDescription } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-first-description.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardFirstPlace } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-first-place.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardGolfScore } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-golf-score.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardSecond } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-second.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardSecondDescription } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-second-description.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardSecondPlace } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-second-place.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardThird } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-third.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardThirdDescription } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-third-description.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardThirdPlace } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-third-place.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardTitle } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-title.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardTotal } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-total.temper-web-phrase.ts"
+import { companionOverallLeaderboardPanelCardTotalDescription } from "akasha/temper/web/phrase/pages/companion-overall-leaderboard-panel-card-total-description.temper-web-phrase.ts"
 import { useMemo } from "react"
+
+const PLACE_COLUMNS = [
+  {
+    place: 1,
+    label: companionOverallLeaderboardPanelCardFirst,
+    fullName: companionOverallLeaderboardPanelCardFirstPlace,
+    description: companionOverallLeaderboardPanelCardFirstDescription,
+  },
+  {
+    place: 2,
+    label: companionOverallLeaderboardPanelCardSecond,
+    fullName: companionOverallLeaderboardPanelCardSecondPlace,
+    description: companionOverallLeaderboardPanelCardSecondDescription,
+  },
+  {
+    place: 3,
+    label: companionOverallLeaderboardPanelCardThird,
+    fullName: companionOverallLeaderboardPanelCardThirdPlace,
+    description: companionOverallLeaderboardPanelCardThirdDescription,
+  },
+] as const
 
 interface OverallRankedCompanion {
   companionId: CompanionId
@@ -40,6 +76,7 @@ export function CompanionOverallLeaderboardPanelCard({
   builds,
   onCompanionClick,
 }: CompanionOverallLeaderboardPanelCardProps) {
+  const phrase = usePhrase()
   const overallData = useMemo(() => {
     const roleSetBuilds = new Map<
       string,
@@ -133,32 +170,31 @@ export function CompanionOverallLeaderboardPanelCard({
   if (overallData.rankings.length === 0) return null
 
   return (
-    <PanelCard id="overall-leaderboard" collapsible title="Overall Leaderboard">
+    <PanelCard
+      id="overall-leaderboard"
+      collapsible
+      title={phrase(companionOverallLeaderboardPanelCardTitle.slug)}
+    >
       <Table>
         <TableHeader>
           <TableRow>
             <TableHead className="w-0 text-left">#</TableHead>
-            <TableHead className="w-0 text-left">Companion</TableHead>
+            <TableHead className="w-0 text-left">
+              {phrase(companionOverallLeaderboardPanelCardCompanion.slug)}
+            </TableHead>
             <TableColumnLabel
-              label="Total"
-              fullName="Golf Score"
-              description="Sum of position ranks across all roles (lower is better)"
+              label={phrase(companionOverallLeaderboardPanelCardTotal.slug)}
+              fullName={phrase(companionOverallLeaderboardPanelCardGolfScore.slug)}
+              description={phrase(companionOverallLeaderboardPanelCardTotalDescription.slug)}
             />
-            <TableColumnLabel
-              label="1st"
-              fullName="1st Place"
-              description="Roles where this companion ranks #1"
-            />
-            <TableColumnLabel
-              label="2nd"
-              fullName="2nd Place"
-              description="Roles where this companion ranks #2"
-            />
-            <TableColumnLabel
-              label="3rd"
-              fullName="3rd Place"
-              description="Roles where this companion ranks #3"
-            />
+            {PLACE_COLUMNS.map((column) => (
+              <TableColumnLabel
+                key={column.place}
+                label={phrase(column.label.slug)}
+                fullName={phrase(column.fullName.slug)}
+                description={phrase(column.description.slug)}
+              />
+            ))}
           </TableRow>
         </TableHeader>
         <TableBody>

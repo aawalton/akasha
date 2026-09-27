@@ -6,4 +6,14 @@ export const leaderboardColumns = {
   slug: "leaderboard-columns",
   definition: "the columns a companion leaderboard shows",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A column's short label and description are web phrase pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A column's full name is the title of the metric page it shows.",
+    },
+  ],
 } as const satisfies Module
