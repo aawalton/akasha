@@ -164,5 +164,9 @@ export const theDatingGameAlan = {
         "character-other/the-dating-game-echo",
       ],
     },
+    {
+      fact: "Alan's house on Apple Ave lies on the way from Rock Canyon down to campus.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore
