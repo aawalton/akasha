@@ -6315,6 +6315,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-build-status/watcher-build-status.module.ts","id":"01a0640f-8510-74a0-a7e6-a020f4b468ed"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-run-status-card/watcher-run-status-card.module.ts","id":"01a06432-b190-77c4-a0e2-46c923c46a0e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-run-status/watcher-run-status.module.ts","id":"01a0640f-8510-71f3-afa2-898d69327ed2"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/watcher-sync-status-card/watcher-sync-status-card.module.ts","id":"01a06432-b190-7ebf-b524-c6e62f828d65"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-sync-status/watcher-sync-status.module.ts","id":"01a0640f-8510-7f94-b946-33ea0f305e1f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.ts","id":"01a0642d-9a17-7966-86d1-afc3af62dec0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/weapon-card/weapon-card.module.ts","id":"01a0642d-9a17-71b0-8afa-a9b9f5057fc6"}

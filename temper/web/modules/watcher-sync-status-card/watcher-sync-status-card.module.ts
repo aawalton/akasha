@@ -6,4 +6,10 @@ export const watcherSyncStatusCard = {
   slug: "watcher-sync-status-card",
   definition: "the card telling what the watcher last synced, counted by source",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
