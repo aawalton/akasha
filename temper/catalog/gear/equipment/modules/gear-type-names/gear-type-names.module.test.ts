@@ -12,12 +12,14 @@ function named(held: ReadonlyMap<number, string>): Record<number, string> {
 }
 
 describe("The names read from the gear pages are the names the item tooltip drew from its tables.", () => {
-  test("each equip type is named by the slot or jewelry type stating it", () => {
+  test("each equip type is named by the equip type page stating it", () => {
     expect(named(gearTypeNames().equipTypes)).toEqual({
       1: "Head",
-      2: "Necklace",
+      2: "Neck",
       3: "Chest",
       4: "Shoulders",
+      5: "One Hand",
+      6: "Two Hand",
       7: "Off Hand",
       8: "Waist",
       9: "Legs",
@@ -59,14 +61,12 @@ describe("The names read from the gear pages are the names the item tooltip drew
 })
 
 describe("Two pages stating one number throw rather than naming it by either.", () => {
-  test("two slots stating one equip type throw", () => {
-    const slot = { title: "Ring 1", equipType: 12 }
+  test("two equip type pages stating one number throw", () => {
+    const one = { title: "Ring 1", equipType: 12 }
     const other = { title: "Ring 2", equipType: 12 }
     expect(() =>
       gearTypeNamesOf({
-        armorSlots: [slot, other],
-        weaponSlots: [],
-        jewelryTypes: [],
+        equipTypes: [one, other],
         weaponTypes: [],
         armorWeights: [],
       })

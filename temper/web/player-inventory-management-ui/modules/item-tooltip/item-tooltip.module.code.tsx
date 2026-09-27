@@ -9,11 +9,6 @@ import { convertIconPathToUrl } from "akasha/temper/player/character/characters-
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 
-const EQUIP_TYPES_NO_PAGE_NAMES: Readonly<Record<number, string>> = {
-  5: "One Hand",
-  6: "Two Hand",
-}
-
 const STYLE_NAMES: Record<number, string> = {
   1: "Aldmeri",
   2: "Daggerfall",
@@ -125,7 +120,7 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
     if (weaponLabel != null) typeLineParts.push(weaponLabel)
   }
   if (equipType !== 0) {
-    const equipLabel = gearNames.equipTypes.get(equipType) ?? EQUIP_TYPES_NO_PAGE_NAMES[equipType]
+    const equipLabel = gearNames.equipTypes.get(equipType)
     if (equipLabel != null) typeLineParts.push(equipLabel)
   }
   if (style !== 0) {

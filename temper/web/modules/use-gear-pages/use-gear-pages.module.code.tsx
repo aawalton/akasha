@@ -7,6 +7,7 @@ import { temperArmorEnchant } from "akasha/temper/catalog/gear/temper-armor-ench
 import { temperArmorSlot } from "akasha/temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts"
 import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts"
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
+import { temperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts"
 import { temperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.ts"
 import { temperJewelryEnchant } from "akasha/temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts"
 import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
@@ -32,6 +33,7 @@ export function useGearPages(): GearPages {
   const armorSlots = usePages({ pageTypeSlug: temperArmorSlot.slug, limit: EVERY })
   const jewelrySlots = usePages({ pageTypeSlug: temperJewelrySlot.slug, limit: EVERY })
   const jewelryTypes = usePages({ pageTypeSlug: temperJewelryType.slug, limit: EVERY })
+  const equipTypes = usePages({ pageTypeSlug: temperEquipType.slug, limit: EVERY })
   const weaponSlots = usePages({ pageTypeSlug: temperWeaponSlot.slug, limit: EVERY })
   const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
   const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
@@ -48,6 +50,7 @@ export function useGearPages(): GearPages {
     armorSlots,
     jewelrySlots,
     jewelryTypes,
+    equipTypes,
     weaponSlots,
     armorWeights,
     grades,
@@ -69,6 +72,7 @@ export function useGearPages(): GearPages {
         [temperArmorSlot.slug, armorSlots.rows],
         [temperJewelrySlot.slug, jewelrySlots.rows],
         [temperJewelryType.slug, jewelryTypes.rows],
+        [temperEquipType.slug, equipTypes.rows],
         [temperWeaponSlot.slug, weaponSlots.rows],
         [temperArmorWeight.slug, armorWeights.rows],
         [temperGearGrade.slug, grades.rows],
@@ -86,6 +90,7 @@ export function useGearPages(): GearPages {
       armorSlots.rows,
       jewelrySlots.rows,
       jewelryTypes.rows,
+      equipTypes.rows,
       weaponSlots.rows,
       armorWeights.rows,
       grades.rows,

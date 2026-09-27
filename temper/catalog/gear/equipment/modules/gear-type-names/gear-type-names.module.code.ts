@@ -7,9 +7,7 @@ export type GearTypeNames = {
 }
 
 export type GearTypeRows = {
-  readonly armorSlots: Iterable<Row>
-  readonly weaponSlots: Iterable<Row>
-  readonly jewelryTypes: Iterable<Row>
+  readonly equipTypes: Iterable<Row>
   readonly weaponTypes: Iterable<Row>
   readonly armorWeights: Iterable<Row>
 }
@@ -40,7 +38,7 @@ function titlesBy(field: string, ...pages: readonly Iterable<Row>[]): ReadonlyMa
 
 export function gearTypeNamesOf(rows: GearTypeRows): GearTypeNames {
   return {
-    equipTypes: titlesBy("equipType", rows.armorSlots, rows.weaponSlots, rows.jewelryTypes),
+    equipTypes: titlesBy("equipType", rows.equipTypes),
     weaponTypes: titlesBy("esoWeaponTypeNumber", rows.weaponTypes, rows.armorWeights),
     armorTypes: titlesBy("armorType", rows.armorWeights),
   }

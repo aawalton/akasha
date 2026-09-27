@@ -10,8 +10,7 @@ export const gearTypeNames = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "An equip type is named by the armor slot, weapon slot or jewelry type stating it.",
+      statement: "An equip type is named by the equip type page stating it.",
     },
     {
       decisionKind: "decision-kind/departure",

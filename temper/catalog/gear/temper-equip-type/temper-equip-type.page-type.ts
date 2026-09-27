@@ -21,6 +21,10 @@ export const temperEquipType = {
       statement:
         "One Hand and Two Hand keep the tooltip's names, not the game's One-Handed and Two-Handed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An equip type is named by its page here rather than by any slot page.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
