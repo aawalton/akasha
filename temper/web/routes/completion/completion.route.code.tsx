@@ -7,6 +7,7 @@ import { RecipeCatalogGate } from "akasha/temper/web/modules/recipe-catalog-gate
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
+import { useLoreLibrary } from "akasha/temper/web/modules/use-lore-library/use-lore-library.module.code.tsx"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 
@@ -17,6 +18,7 @@ export function meta() {
 export default function CompletionPage() {
   const [searchParams] = useSearchParams()
   const tab = searchParams.get("tab") ?? tabDefaultFor("/completion") ?? "summary"
+  useLoreLibrary()
   const skeleton = (
     <PageLayoutSkeleton
       config={tabbedPageSkeleton({

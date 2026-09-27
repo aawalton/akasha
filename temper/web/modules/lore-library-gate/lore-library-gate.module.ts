@@ -15,5 +15,10 @@ export const loreLibraryGate = {
       decisionKind: "decision-kind/departure",
       statement: "The content is drawn again whenever the lore library is read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A screen starts reading the lore library as it opens, beside the reads of its other gates.",
+    },
   ],
 } as const satisfies Module

@@ -14,6 +14,7 @@ import { RuleTemplatesGate } from "akasha/temper/web/modules/rule-templates-gate
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
+import { useLoreLibrary } from "akasha/temper/web/modules/use-lore-library/use-lore-library.module.code.tsx"
 import { InventoryPageContent } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-page-content/inventory-page-content.module.code.tsx"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
@@ -25,6 +26,7 @@ export function meta() {
 export default function InventoryPage() {
   const [searchParams] = useSearchParams()
   const tab = searchParams.get("tab") ?? tabDefaultFor("/inventory") ?? "rules"
+  useLoreLibrary()
   const skeleton = (
     <PageLayoutSkeleton
       config={tabbedPageSkeleton({
