@@ -1,7 +1,12 @@
 import { join } from "node:path"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
-import { type Filed, filedIn, filedOf } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
+import {
+  type Filed,
+  filedIn,
+  filedOf,
+  kindsUnderDomain,
+} from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import { textOnDisk } from "akasha/file/system/modules/text-on-disk/text-on-disk.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
@@ -80,15 +85,26 @@ function drawnByKind(held: ReadonlyMap<string, Filed>): ReadonlyMap<string, bool
   return kinds
 }
 
-function patched(held: ReadonlyMap<string, Filed>, change: Change): readonly Filed[] | null {
+const PERSONA = "persona"
+
+function patched(
+  held: ReadonlyMap<string, Filed>,
+  change: Change,
+  reading: Reading
+): readonly Filed[] | null {
   const kinds = drawnByKind(held)
+  let under: ReadonlySet<string> | null = null
   const made = new Map(held)
   for (const path of change.changed) {
     if (!pageShaped(path)) continue
     const parted = partedIn(path)
     if (parted === null) continue
     const drawn = kinds.get(parted.pageType)
-    if (drawn === undefined) return null
+    if (drawn === undefined) {
+      under ??= kindsUnderDomain(reading)
+      if (parted.pageType !== PERSONA && !under.has(parted.pageType)) continue
+      return null
+    }
     const body = textOf(change.after(path))
     const value = body === null ? null : valueIn(body)
     const one = value === null ? null : filedOf(path, value, drawn)
@@ -101,7 +117,7 @@ function patched(held: ReadonlyMap<string, Filed>, change: Change): readonly Fil
 export function keptFor(change: Change, reading: Reading, afresh: boolean): Kept {
   const was = textOnDisk(join(change.root, ROWS_AT))
   const filed = was === null || afresh ? null : heldIn(was)
-  const held = filed === null ? null : patched(filed, change)
+  const held = filed === null ? null : patched(filed, change, reading)
   const rows = held ?? filedIn(reading)
   const body = bodyOf(rows)
   if ((was ?? "") === body) return { rows, edits: [] }

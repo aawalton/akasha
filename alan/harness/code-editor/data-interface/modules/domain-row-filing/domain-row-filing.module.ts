@@ -31,6 +31,11 @@ export const domainRowFiling = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A page neither a persona nor of a kind under domain is passed over, since no row is filed for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A filed line not shaped as a row is read by reading every page once.",
     },
     {

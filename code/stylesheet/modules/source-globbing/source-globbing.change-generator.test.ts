@@ -233,6 +233,12 @@ test("a code file added where no app could reach it moves no glob", () => {
   expect(turnsOver({ came: ["agent/subagent/pages/akasha-a1/akasha-a1.subagent.ts"] })).toBe(false)
 })
 
+test("a message added or taken away moves no glob", () => {
+  const message = "agent/message/pages/message-0123456789ab.agent-message.ts"
+  expect(turnsOver({ came: [message] })).toBe(false)
+  expect(turnsOver({ went: [message] })).toBe(false)
+})
+
 test("a code file added in an app's own tree moves the globs", () => {
   expect(turnsOver({ came: ["one/app/fresh.tsx"], app: true })).toBe(true)
 })

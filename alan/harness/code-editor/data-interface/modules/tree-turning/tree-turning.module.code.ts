@@ -1,4 +1,5 @@
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
+import { kindsUnderDomain } from "akasha/domain/modules/rows/domain-rows.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageShaped, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueIn } from "akasha/page/modules/value/page-value.module.code.ts"
@@ -42,6 +43,22 @@ const CHAMPIONED = "championedDomain"
 
 const DEFINITION = "definition"
 
+const CHAMPIONED_DOMAIN = "championed-domain"
+
+const EXTENDS_TYPE = "extends-type"
+
+const BREAK = "\n"
+
+export type Filing = (pageType: string) => boolean
+
+function filingIn(root: string): Filing {
+  let kinds: ReadonlySet<string> | null = null
+  return (pageType) => {
+    kinds ??= kindsUnderDomain(root)
+    return kinds.has(pageType)
+  }
+}
+
 type Moved = {
   readonly pageType: string
   readonly was: Value | null
@@ -80,22 +97,45 @@ function appeared(one: Moved): boolean {
   return (one.was === null) !== (one.now === null)
 }
 
-function domainsMoved(change: Change, pages: readonly Moved[]): boolean {
-  if (change.changed.some((path) => path.endsWith(REFERENCED_BY))) return true
+function namingIn(body: Uint8Array | null, slugs: readonly string[]): string {
+  const text = textOf(body)
+  if (text === null) return ""
+  const said = slugs.map((slug) => `"propertySlug":${JSON.stringify(slug)}`)
+  return text
+    .split(BREAK)
+    .filter((line) => said.some((one) => line.includes(one)))
+    .sort()
+    .join(BREAK)
+}
+
+function namingMoved(change: Change, slugs: readonly string[]): boolean {
+  return change.changed.some(
+    (path) =>
+      path.endsWith(REFERENCED_BY) &&
+      namingIn(change.before(path), slugs) !== namingIn(change.after(path), slugs)
+  )
+}
+
+function filedFor(one: Moved, filing: Filing): boolean {
+  return one.pageType === PERSONA || one.pageType === PAGE_TYPE || filing(one.pageType)
+}
+
+function domainsMoved(change: Change, pages: readonly Moved[], filing: Filing): boolean {
+  if (namingMoved(change, [CHAMPIONED_DOMAIN, EXTENDS_TYPE])) return true
   return pages.some(
     (one) =>
-      appeared(one) ||
-      moved(one, ID) ||
-      moved(one, PARTS) ||
-      (one.pageType === PAGE_TYPE && moved(one, EXTENDS)) ||
-      (one.pageType === PERSONA && moved(one, CHAMPIONED))
+      (appeared(one) ||
+        moved(one, ID) ||
+        moved(one, PARTS) ||
+        (one.pageType === PAGE_TYPE && moved(one, EXTENDS)) ||
+        (one.pageType === PERSONA && moved(one, CHAMPIONED))) &&
+      filedFor(one, filing)
   )
 }
 
 function pageMoved(one: Moved): boolean {
-  if (appeared(one)) return true
   if (one.pageType !== PAGE_TYPE) return false
-  return moved(one, SLUG) || moved(one, EXTENDS) || moved(one, PROPERTIES)
+  return appeared(one) || moved(one, SLUG) || moved(one, EXTENDS) || moved(one, PROPERTIES)
 }
 
 function commandMoved(one: Moved): boolean {
@@ -119,16 +159,19 @@ function interfaceCame(one: Moved): string | null {
 }
 
 export function descentMoved(change: Change): boolean {
-  if (change.changed.some((path) => path.endsWith(REFERENCED_BY))) return true
+  if (namingMoved(change, [EXTENDS_TYPE])) return true
   return movedIn(change).some(
     (one) => one.pageType === PAGE_TYPE && (appeared(one) || moved(one, EXTENDS))
   )
 }
 
-export function turnedIn(change: Change): ReadonlySet<string> {
+export function turnedIn(
+  change: Change,
+  filing: Filing = filingIn(change.root)
+): ReadonlySet<string> {
   const pages = movedIn(change)
   const turned = new Set<string>()
-  if (domainsMoved(change, pages)) {
+  if (domainsMoved(change, pages, filing)) {
     turned.add(COMMAND_TREE)
     turned.add(DOMAIN_TREE)
   }

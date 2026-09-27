@@ -77,6 +77,44 @@ test("a landing overlapping another keeps the rows the other filed rather than w
   )
 })
 
+const BYTES = new TextEncoder()
+
+function changeAdding(root: string, path: string): Change {
+  const body = BYTES.encode(`export const one = {\n  id: "added",\n} as const\n`)
+  return {
+    root,
+    base: "",
+    changed: [path],
+    before: () => null,
+    after: (at) => (at === path ? body : null),
+  }
+}
+
+function rootHolding(rows: string): string {
+  const root = scratch.rootFor("akasha-rows-")
+  const at = join(root, domainRowsAt())
+  mkdirSync(dirname(at), { recursive: true })
+  writeFileSync(at, rows)
+  return root
+}
+
+test("a message that came keeps the filed rows rather than reading every page", () => {
+  const root = rootHolding(`${A}\n`)
+
+  const said = keptFor(changeAdding(root, "x/message-a.agent-message.ts"), readingIn(root), false)
+
+  expect(said.rows.map((one) => one.id)).toEqual(["a"])
+  expect(said.edits).toEqual([])
+})
+
+test("a persona that came where no persona row is filed is read by reading every page", () => {
+  const root = rootHolding(`${A}\n`)
+
+  const said = keptFor(changeAdding(root, "x/one.persona.ts"), readingIn(root), false)
+
+  expect(said.rows).toEqual([])
+})
+
 test("a reading with no row file is read whole rather than refused", () => {
   const root = scratch.rootFor("akasha-rows-")
 

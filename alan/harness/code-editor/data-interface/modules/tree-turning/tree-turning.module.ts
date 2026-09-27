@@ -32,6 +32,28 @@ export const treeTurning = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Such a file moves them only where a line naming a champion or a type extended moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Only a persona, a page type or a page of a kind under domain moves the pictures the domains carry.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a page type moves the page picture.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which kinds sit under domain is read from the index the checkout holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That index is read only where a page neither a persona nor a page type moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A world or a page naming a world moves the world picture where it came, went, or was renamed.",
     },
     {
@@ -40,7 +62,7 @@ export const treeTurning = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing here reads the index, or a page the change does not name.",
+      statement: "Nothing here reads a page the change does not name.",
     },
   ],
 } as const satisfies Module
