@@ -27,6 +27,7 @@
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-market-value-filter/search-market-value-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-merchant-value-filter/search-merchant-value-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-merchant-value-filter/search-merchant-value-filter.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-potion-effects-filter/search-potion-effects-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-potion-effects-filter/search-potion-effects-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-quality-filter/search-quality-filter.module.code.ts","typed":false,"deferred":false}

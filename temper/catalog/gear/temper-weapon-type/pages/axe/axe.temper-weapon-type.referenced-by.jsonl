@@ -3,3 +3,4 @@
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/axe/grades/weapon-type-axe-legendary.temper-gear-grade.ts","id":"01a0e0d2-8813-7b87-9f0d-ad51f2a3d617"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/axe/grades/weapon-type-axe-normal.temper-gear-grade.ts","id":"01a0e0d2-8813-76aa-b5a2-0a968e1b1fa1"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/axe/grades/weapon-type-axe-superior.temper-gear-grade.ts","id":"01a0e0d2-8813-7fc8-9df3-2762a535a003"}
+{"propertySlug":"import","fileName":"axe.temper-weapon-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}

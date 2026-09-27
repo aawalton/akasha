@@ -3,3 +3,4 @@
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/inferno-staff/grades/weapon-type-inferno-staff-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7d4f-af26-0f53d1ebd053"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/inferno-staff/grades/weapon-type-inferno-staff-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7686-8ed1-bca510fc7fb7"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/inferno-staff/grades/weapon-type-inferno-staff-superior.temper-gear-grade.ts","id":"01a0e0d2-8814-73f3-b660-1a403ceb9eb2"}
+{"propertySlug":"import","fileName":"inferno-staff.temper-weapon-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}

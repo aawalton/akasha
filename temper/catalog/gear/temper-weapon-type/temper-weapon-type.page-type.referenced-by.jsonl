@@ -16,4 +16,5 @@
 {"propertySlug":"import","fileName":"temper-weapon-type.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-type/pages/no-type/no-type.temper-weapon-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-type.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-type/pages/restoration-staff/restoration-staff.temper-weapon-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-type.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-type/pages/sword/sword.temper-weapon-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-type.page-type.types.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}

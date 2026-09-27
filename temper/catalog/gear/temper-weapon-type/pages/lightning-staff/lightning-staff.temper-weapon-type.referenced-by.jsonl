@@ -3,3 +3,4 @@
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/lightning-staff/grades/weapon-type-lightning-staff-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7b80-b156-cd1fc69255bd"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/lightning-staff/grades/weapon-type-lightning-staff-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7338-8796-63ab31c5ffc7"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/lightning-staff/grades/weapon-type-lightning-staff-superior.temper-gear-grade.ts","id":"01a0e0d2-8814-7794-8b84-a52c93423744"}
+{"propertySlug":"import","fileName":"lightning-staff.temper-weapon-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}

@@ -3,3 +3,4 @@
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/battleaxe/grades/weapon-type-battleaxe-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7a40-92d6-af9e149c06db"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/battleaxe/grades/weapon-type-battleaxe-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7b50-aa4d-93894a71c3c4"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/battleaxe/grades/weapon-type-battleaxe-superior.temper-gear-grade.ts","id":"01a0e0d2-8814-73b0-a7fe-1d9a830044ad"}
+{"propertySlug":"import","fileName":"battleaxe.temper-weapon-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}

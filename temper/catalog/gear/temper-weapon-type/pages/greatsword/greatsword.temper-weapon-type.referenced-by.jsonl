@@ -3,3 +3,4 @@
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/greatsword/grades/weapon-type-greatsword-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-74ee-bb39-582fef9b5b3f"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/greatsword/grades/weapon-type-greatsword-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-723e-935c-ab6fed471dd0"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/greatsword/grades/weapon-type-greatsword-superior.temper-gear-grade.ts","id":"01a0e0d2-8814-7884-9215-a8b301fd223b"}
+{"propertySlug":"import","fileName":"greatsword.temper-weapon-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}

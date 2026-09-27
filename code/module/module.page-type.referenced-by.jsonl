@@ -5542,6 +5542,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-locked-filter/search-locked-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-market-value-filter/search-market-value-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-merchant-value-filter/search-merchant-value-filter.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-potion-effects-filter/search-potion-effects-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-quality-filter/search-quality-filter.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.ts","typed":true,"deferred":false}

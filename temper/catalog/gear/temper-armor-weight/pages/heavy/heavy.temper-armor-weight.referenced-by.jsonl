@@ -3,4 +3,5 @@
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-armor-weight/pages/heavy/grades/armor-weight-heavy-legendary.temper-gear-grade.ts","id":"01a0e0c4-2114-7295-acb5-639534d0aa70"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-armor-weight/pages/heavy/grades/armor-weight-heavy-normal.temper-gear-grade.ts","id":"01a0e0c4-2114-7cfb-88f6-df2bf0c822d3"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-armor-weight/pages/heavy/grades/armor-weight-heavy-superior.temper-gear-grade.ts","id":"01a0e0c4-2114-732e-973d-acc40414566a"}
+{"propertySlug":"import","fileName":"heavy.temper-armor-weight.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heavy.temper-armor-weight.ts","path":"temper/web/item-browser/modules/item-browser-constants/item-browser-constants.module.code.ts","typed":false,"deferred":false}

@@ -2085,6 +2085,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-knowledge-filter/search-knowledge-filter.module.ts","id":"01a0613a-e0a9-7d8a-aa66-d1a77994500e"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-locked-filter/search-locked-filter.module.ts","id":"01a0613a-e0aa-7943-ae0c-5c2ed6437954"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-merchant-value-filter/search-merchant-value-filter.module.ts","id":"01a0613a-e0ab-7549-a285-5931f6ce1026"}
+{"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.ts","id":"01a0e0ee-912a-7881-b214-c61f4ff8a237"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-potion-effects-filter/search-potion-effects-filter.module.ts","id":"01a0613a-e0ab-720b-94a5-6dafe7b134f2"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-range-value-parse/search-range-value-parse.module.ts","id":"01a0613a-e0ac-785c-a9b6-1aa6dca2564d"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-recipe-subtype-filter/search-recipe-subtype-filter.module.ts","id":"01a0613a-e0ad-73d1-95f0-27bb2a879d89"}

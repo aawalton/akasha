@@ -42,6 +42,7 @@ export const temperItemsFiltersCore = {
     "module/search-treasure-map-filter",
     "module/search-value-filter",
     "module/search-weapon-type-filter",
+    "module/search-page-options",
   ],
   decisions: [
     {

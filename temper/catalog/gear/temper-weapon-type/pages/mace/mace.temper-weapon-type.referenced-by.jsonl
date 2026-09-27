@@ -3,3 +3,4 @@
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/mace/grades/weapon-type-mace-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7eff-8055-196477b8bd1b"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/mace/grades/weapon-type-mace-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7183-8c39-ff8193aa8546"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/mace/grades/weapon-type-mace-superior.temper-gear-grade.ts","id":"01a0e0d2-8814-70b3-8e06-7b16900626d4"}
+{"propertySlug":"import","fileName":"mace.temper-weapon-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}

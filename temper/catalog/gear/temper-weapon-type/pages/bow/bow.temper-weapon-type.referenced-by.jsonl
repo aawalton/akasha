@@ -3,3 +3,4 @@
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/bow/grades/weapon-type-bow-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7255-913d-18c63c465c67"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/bow/grades/weapon-type-bow-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-78e2-a429-f7f84fe8888e"}
 {"propertySlug":"graded-thing","path":"temper/catalog/gear/temper-weapon-type/pages/bow/grades/weapon-type-bow-superior.temper-gear-grade.ts","id":"01a0e0d2-8814-7283-a060-422ec948e4e3"}
+{"propertySlug":"import","fileName":"bow.temper-weapon-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}
