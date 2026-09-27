@@ -7,6 +7,7 @@ export const shellConfining = {
   definition: "whether an agent's shell can write akasha's files",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -19,8 +20,17 @@ export const shellConfining = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A run in double quotes holding a `$` or a backtick keeps a call inside.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
-        "A run in double quotes holding a `$`, a backtick or a backslash keeps a call inside.",
+        "A backslash in double quotes is read with the character after it, which no shell runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A lone call fed one heredoc whose delimiter is quoted and closes the last line runs outside.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,12 +1,5 @@
 import { afterAll, expect, test } from "bun:test"
-import {
-  copyFileSync,
-  existsSync,
-  mkdirSync,
-  readFileSync,
-  symlinkSync,
-  writeFileSync,
-} from "node:fs"
+import { existsSync, mkdirSync, symlinkSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import {
   ACTING_NAMED,
@@ -17,11 +10,26 @@ import {
   OUTSIDE,
   runsOutside,
 } from "akasha/agent/modules/shell-confining/shell-confining.module.code.ts"
+import {
+  bareBin,
+  bwrapHanded,
+  CHANGE,
+  FED,
+  FED_BODY,
+  FENCE,
+  fedBy,
+  type Held,
+  homeOf,
+  lineOf,
+  OWN_AKASHA,
+  OWN_BWRAP,
+  SCRIPT,
+  scriptIn,
+} from "akasha/agent/modules/shell-confining/shell-confining.module.test-fixtures.ts"
 import { NOTICE_AT } from "akasha/agent/modules/withheld-hiding/withheld-hiding.module.code.ts"
 import { ran, type Said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { SHAPE } from "akasha/code/type/narrowing/modules/shape/shape.module.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
-import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
 import {
   GAME_MASTER_SEAT,
   LORE_AT,
@@ -30,52 +38,6 @@ import {
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 
 const CODE = join(import.meta.dir, "shell-confining.module.code.ts")
-
-const FENCE = "HEREDOC"
-
-const CHANGE = [`akasha change apply --draft change-file <<'${FENCE}'`, "at: a.ts", FENCE].join(
-  "\n"
-)
-
-const FED = " < /dev/null"
-
-const SCRIPT_AT = join(
-  "code",
-  "shell-script",
-  "pages",
-  "shell-confinement",
-  "shell-confinement.shell-script.shell.sh"
-)
-
-const JUDGE_AT = join("agent", "modules", "shell-confining", "shell-confining.module.code.ts")
-
-const HIDER_AT = join("agent", "modules", "withheld-hiding", "withheld-hiding.module.code.ts")
-
-const SCRIPT = join(codeRoot(), SCRIPT_AT)
-
-const OWN_AKASHA = '#!/usr/bin/env bash\ntouch "$AKASHA_ROOT/by-akasha"\n'
-
-const BWRAP_HANDED = "bwrap-handed"
-
-const OWN_BWRAP = [
-  "#!/usr/bin/env bash",
-  `printf "%s\\n" "$@" > "$(dirname "$0")/${BWRAP_HANDED}"`,
-  "while [[ $1 != -- ]]; do shift; done",
-  "shift",
-  'exec "$@"',
-  "",
-].join("\n")
-
-function lineOf(command: string, fed = FED, cwdAt = "/var/tmp/claude-ab12-cwd"): string {
-  const quoted = command.replaceAll("'", `'"'"'`)
-  return `source /s/snapshot.sh 2>/dev/null || true && eval '${quoted}'${fed} && pwd -P >| ${cwdAt}`
-}
-
-type Held = {
-  readonly root: string
-  readonly bin: string
-  readonly cwd: string
-}
 
 const SCRATCH = scratchWorld()
 
@@ -104,11 +66,6 @@ function confining(
       ...env,
     },
   })
-}
-
-function bwrapHanded(held: Held): string | null {
-  const at = join(held.bin, BWRAP_HANDED)
-  return existsSync(at) ? readFileSync(at, "utf8") : null
 }
 
 function agentsLine(held: Held, command: string): string {
@@ -164,14 +121,50 @@ test("a lone call whose arguments are plain quoted words runs outside", () => {
   }
 })
 
+test("a lone call whose double quotes hold escaped characters runs outside", () => {
+  for (const command of [
+    'akasha seat send --to nobody --body "say \\"hi\\" now"',
+    'akasha search --pattern "a\\nb"',
+    'akasha search --pattern "a\\\\b"',
+    'akasha search --pattern "cost \\$5 and \\`no\\` call"',
+  ]) {
+    expect(runsOutside(lineOf(command))).toBe(true)
+  }
+})
+
+test("a lone call fed a heredoc with a quoted delimiter runs outside, body and all", () => {
+  const opening = `akasha seat send --to nobody --body-file - <<'${FENCE}'`
+  expect(runsOutside(lineOf(fedBy(opening, FED_BODY), ""))).toBe(true)
+  expect(
+    runsOutside(lineOf(fedBy("akasha seat send --body-file - <<'EOF'", FED_BODY, "EOF"), ""))
+  ).toBe(true)
+})
+
+test("a heredoc the shell would rewrite, or that does not end the call, runs inside", () => {
+  const send = "akasha seat send --to nobody --body-file -"
+  for (const command of [
+    fedBy(`${send} <<${FENCE}`, FED_BODY),
+    fedBy(`${send} <<"${FENCE}"`, FED_BODY),
+    fedBy(`${send} <<'${FENCE}'`, [...FED_BODY, FENCE, "touch a.ts"]),
+    `${fedBy(`${send} <<'${FENCE}'`, FED_BODY)}\ntouch a.ts`,
+    fedBy(`${send} <<'${FENCE}' | cat`, FED_BODY),
+    fedBy(`${send} "$(touch a.ts)" <<'${FENCE}'`, FED_BODY),
+    [`${send} <<'${FENCE}'`, ...FED_BODY].join("\n"),
+    `${send} <<'${FENCE}'`,
+  ]) {
+    expect(runsOutside(lineOf(command, ""))).toBe(false)
+  }
+})
+
 test("a lone call whose double quotes the shell would rewrite runs inside", () => {
   for (const command of [
     'akasha search --pattern "$HOME"',
     'akasha search --pattern "a${HOME}b"',
     'akasha search --pattern "$(touch a.ts)"',
     'akasha search --pattern "`touch a.ts`"',
-    'akasha search --pattern "a\\nb"',
-    'akasha search --pattern "say \\"hi\\""',
+    'akasha search --pattern "a\\\\$(touch a.ts)"',
+    'akasha search --pattern "a\\\\`touch a.ts`"',
+    'akasha search --pattern "say \\"hi\\" $(touch a.ts)"',
     'akasha search --pattern \\"hi\\"',
     "akasha search --pattern \\'hi\\'",
     'akasha search --pattern "open',
@@ -237,6 +230,20 @@ test("the script lets a lone akasha call with a double-quoted pattern write the 
   expect(bwrapHanded(held)).toBeNull()
 })
 
+test("the script lets a lone akasha call with escaped quotes or fed a heredoc write the checkout", () => {
+  for (const [command, fed] of [
+    ['akasha seat send --to nobody --body "say \\"hi\\""', FED],
+    [fedBy(`akasha seat send --to nobody --body-file - <<'${FENCE}'`, FED_BODY), ""],
+  ] as const) {
+    const held = heldAnew()
+
+    confining(held, lineOf(command, fed, held.cwd))
+
+    expect(existsSync(join(held.root, "by-akasha"))).toBe(true)
+    expect(bwrapHanded(held)).toBeNull()
+  }
+})
+
 test("the script keeps a lone akasha call with a substitution in double quotes inside", () => {
   const held = heldAnew()
 
@@ -260,19 +267,6 @@ function heldOverLore(): Held {
   mkdirSync(dirname(join(root, LORE_AT)), { recursive: true })
   writeFileSync(join(root, LORE_AT), "held\n")
   return { ...held, root }
-}
-
-function homeOf(held: Held): string {
-  return join(dirname(held.bin), "home")
-}
-
-function bareBin(held: Held): string {
-  const at = join(dirname(held.bin), "bare")
-  mkdirSync(at)
-  for (const one of ["bash", "bun", "dirname", "readlink", "touch"]) {
-    symlinkSync(SHAPE.string().parse(Bun.which(one)), join(at, one))
-  }
-  return at
 }
 
 function confiningAs(held: Held, seat: string, line: string, path?: string): Said {
@@ -342,15 +336,7 @@ test("an akasha call alone on the line still runs outside on a machine with no b
 })
 
 function scriptOverJudge(judge: string | null): string {
-  const tree = SCRATCH.rootFor("shell-confining-tree-")
-  for (const at of [SCRIPT_AT, JUDGE_AT, HIDER_AT]) {
-    mkdirSync(dirname(join(tree, at)), { recursive: true })
-  }
-  copyFileSync(SCRIPT, join(tree, SCRIPT_AT))
-  symlinkSync(join(codeRoot(), HIDER_AT), join(tree, HIDER_AT))
-  if (judge === null) symlinkSync(join(codeRoot(), JUDGE_AT), join(tree, JUDGE_AT))
-  else writeFileSync(join(tree, JUDGE_AT), judge)
-  return join(tree, SCRIPT_AT)
+  return scriptIn(SCRATCH.rootFor("shell-confining-tree-"), judge)
 }
 
 test("a copy of the script beside the judge itself lets an akasha call alone out", () => {
