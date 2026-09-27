@@ -5,6 +5,8 @@ export const sulXan = {
   type: "page-type/temper-motif-style",
   slug: "sul-xan",
   title: "Sul-Xan",
+  esoItemStyleId: 122,
+  styleName: "Sul-Xan",
   collectionIndex: 89,
   sourceDescription: "Rockgrove trial",
 } as const satisfies TemperMotifStyle
