@@ -371,5 +371,7 @@ export const temperWeb = {
     "module/mine-row-reading",
     "module/filterable-select-trigger",
     "module/writ-craft-items",
+    "module/lore-library-gate",
+    "module/use-lore-library",
   ],
 } as const satisfies RouterApp

@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/use-item-category-tree/use-item-category-tree.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/use-kiosk-names/use-kiosk-names.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/use-lore-library/use-lore-library.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/use-player/use-player.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/use-recipe-catalog/use-recipe-catalog.module.code.tsx","typed":false,"deferred":false}
