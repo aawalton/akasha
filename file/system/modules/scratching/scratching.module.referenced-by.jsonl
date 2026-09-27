@@ -158,6 +158,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/test-fixtures/staging/check-staging.test-fixture.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"check/test/fixture/repo-seeding/repo-seeding.test-fixture.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"code/body/modules/body-loading/body-loading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"code/body/modules/commit-loading/commit-loading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"code/editor/extension/modules/command-server/command-server.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"code/editor/extension/modules/transcript-sources/transcript-sources.module.test.ts","typed":false,"deferred":false}

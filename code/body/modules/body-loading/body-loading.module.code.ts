@@ -1,4 +1,4 @@
-import { existsSync, readFileSync } from "node:fs"
+import { existsSync, readFileSync, statSync } from "node:fs"
 import { createRequire } from "node:module"
 import { join } from "node:path"
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
@@ -57,17 +57,52 @@ function bodiesIn(change: Change): ReadonlyMap<string, string> {
   return made
 }
 
+const STAMPED = new Map<string, string>()
+
+const LOOKED = new WeakSet<Change>()
+
+function stampOf(full: string): string {
+  const said = statSync(full, { throwIfNoEntry: false })
+  return said === undefined ? "" : `${said.mtimeMs}:${said.size}`
+}
+
 function forgotten(full: string): undefined {
   delete loadFrom.cache[full]
   delete loadFrom.cache[`${CARRIED}:${full}`]
+  STAMPED.delete(full)
+}
+
+function cachedUnder(root: string): readonly string[] {
+  const under = `${root}/`
+  const away = `${root}${MODULES}`
+  return Object.keys(loadFrom.cache).filter(
+    (full) => full.startsWith(under) && !full.startsWith(away)
+  )
 }
 
 function forgottenUnder(root: string): undefined {
-  const under = `${root}/`
-  const away = `${root}${MODULES}`
-  for (const full of Object.keys(loadFrom.cache)) {
-    if (full.startsWith(under) && !full.startsWith(away)) forgotten(full)
+  for (const full of cachedUnder(root)) forgotten(full)
+}
+
+function stamping(root: string): undefined {
+  for (const full of cachedUnder(root)) {
+    if (!STAMPED.has(full)) STAMPED.set(full, stampOf(full))
   }
+}
+
+function moved(root: string): boolean {
+  const under = `${root}/`
+  for (const [full, stamp] of STAMPED) {
+    if (full.startsWith(under) && stampOf(full) !== stamp) return true
+  }
+  return false
+}
+
+function reaching(bodies: ReadonlyMap<string, string>): boolean {
+  for (const full of bodies.keys()) {
+    if (full in loadFrom.cache || `${CARRIED}:${full}` in loadFrom.cache) return true
+  }
+  return false
 }
 
 function anchored(one: string): RegExp {
@@ -131,9 +166,17 @@ function keeping(change: Change, bodies: ReadonlyMap<string, string>): undefined
 export function heldOver(change: Change, at: string, body: string | null): Held {
   const full = join(change.root, at)
   const bodies = bodiesIn(change)
-  if (bodies.size === 0 && body === null) {
-    if (KEPT.change !== null) closing(change.root)
-    return loadFrom(full) as Held
+  if (!LOOKED.has(change)) {
+    LOOKED.add(change)
+    if (KEPT.change !== change && moved(change.root)) closing(change.root)
+  }
+  if (body === null && !reaching(bodies)) {
+    if (KEPT.change !== null && KEPT.change !== change) closing(change.root)
+    const held = loadFrom(full) as Held
+    if (!reaching(bodies)) {
+      stamping(change.root)
+      return held
+    }
   }
   if (typeof Bun === "undefined") throw new Error(NO_PLUGIN)
   keeping(change, bodies)

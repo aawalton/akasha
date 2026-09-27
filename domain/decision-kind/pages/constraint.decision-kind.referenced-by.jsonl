@@ -247,6 +247,7 @@
 {"propertySlug":"decision-kind","path":"check/modules/tool-faults/tool-faults.module.ts","id":"01a0d58c-dd8a-7565-8c20-4353c938ed7e"}
 {"propertySlug":"decision-kind","path":"check/service-workstations/audit-running/audit-running.service-workstation.ts","id":"01a091e9-689c-7002-afcc-8b73def2b8f9"}
 {"propertySlug":"decision-kind","path":"check/test/test.domain.ts","id":"01a04f3e-eea5-79ee-8d0b-c822c492a981"}
+{"propertySlug":"decision-kind","path":"code/body/modules/body-loading/body-loading.module.ts","id":"01a09144-e05c-7d0e-996c-bbc555e3f9f7"}
 {"propertySlug":"decision-kind","path":"code/body/modules/body-text/body-text.module.ts","id":"01a04fa7-aae4-77e8-8e0c-b9e61046b33b"}
 {"propertySlug":"decision-kind","path":"code/body/modules/carried-file/carried-file.module.ts","id":"01a0693a-5bbe-7eb7-8820-1fde5da86eb5"}
 {"propertySlug":"decision-kind","path":"code/body/modules/utf8-body/utf8-body.module.ts","id":"01a06553-a9b5-76cc-b4e6-e4e42b4a0f0d"}

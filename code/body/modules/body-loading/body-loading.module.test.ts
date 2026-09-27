@@ -1,4 +1,6 @@
 import { describe, expect, test } from "bun:test"
+import { writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
   bodyFor,
   heldOver,
@@ -7,6 +9,7 @@ import {
   BESIDE,
   changing,
 } from "akasha/code/body/modules/body-loading/body-loading.module.test-fixtures.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
@@ -89,5 +92,50 @@ describe("the code loaded at a module path", () => {
     const held = heldOver(changing({}), AT, null)
     expect(held.bodyLoading).toBeDefined()
     expect(held.heldIn).toBeUndefined()
+  })
+})
+
+const FIXTURES = "code/body/modules/body-loading/body-loading.module.test-fixtures.ts"
+
+const ROOTED = "page/modules/code-root/code-root.module.code.ts"
+
+const UNLOADED = "code/body/modules/body-loading/unloaded/unloaded.module.code.ts"
+
+const ELSEWHERE = 'export function codeRoot(): string {\n  return "elsewhere"\n}\n'
+
+const HELD = "held.ts"
+
+function rootOf(held: Record<string, unknown>): unknown {
+  const made = held.changing as (given: Readonly<Record<string, string>>) => Change
+  return made({}).root
+}
+
+function within(root: string): Change {
+  return { root, changed: [], before: () => null, after: () => null }
+}
+
+describe("the modules a change reaches in the cache", () => {
+  test("a change carrying no module the cache holds is answered the cached code", () => {
+    const first = heldOver(changing({ [UNLOADED]: OVER }), FIXTURES, null)
+    expect(heldOver(changing({ [UNLOADED]: AGAIN }), FIXTURES, null)).toBe(first)
+  })
+
+  test("a change carrying a module the cache holds loads the code again over its body", () => {
+    heldOver(changing({}), FIXTURES, null)
+    expect(rootOf(heldOver(changing({ [ROOTED]: ELSEWHERE }), FIXTURES, null))).toBe("elsewhere")
+    expect(rootOf(heldOver(changing({}), FIXTURES, null))).toBe(ROOT)
+  })
+
+  test("a module whose file changed since it was cached is loaded again", () => {
+    const scratch = scratchWorld()
+    try {
+      const root = scratch.rootFor("body-loading-")
+      writeFileSync(join(root, HELD), 'export const said = "one"\n')
+      expect(heldOver(within(root), HELD, null).said).toBe("one")
+      writeFileSync(join(root, HELD), 'export const said = "two, written later"\n')
+      expect(heldOver(within(root), HELD, null).said).toBe("two, written later")
+    } finally {
+      scratch.sweep()
+    }
   })
 })

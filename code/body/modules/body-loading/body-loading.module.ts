@@ -74,7 +74,22 @@ export const bodyLoading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Every module cached under the repository is dropped where a load comes for another change.",
+        "Every module cached under the repository is dropped for a change carrying a module the cache holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A load for a change carrying no module the cache holds is answered from the cache.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every module cached under the repository is dropped where one's file changed since it was cached.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "A module loaded again is a second copy wherever anything outside the module holds the first.",
     },
     {
       decisionKind: "decision-kind/absence",
