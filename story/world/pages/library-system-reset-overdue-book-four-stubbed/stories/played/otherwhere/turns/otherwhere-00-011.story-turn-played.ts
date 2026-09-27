@@ -4,10 +4,13 @@ export const otherwhere00011 = {
   id: "01a0e401-d650-7eb9-bdf2-938766b02965",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-011",
+  ownLength: 331,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 11,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  turnStatus: "turn-status/reviewers",
   action:
     "I go and get the salt and carry the full box if I can to outside the room where the bookworms are. Then I go back to the break room to see if I can find a container I could use to scoop and throw the salt.",
   beats: [
