@@ -24,11 +24,16 @@ export const landingReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path whose readers owe reading has their readings of that path dropped.",
+      statement: "A path whose readers owe reading has their readings of that path marked changed.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The readings of one path are dropped rather than the readings of the whole set.",
+      statement:
+        "A path removed whose readers owe reading has their readings of that path dropped.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The readings of one path are marked rather than the readings of the whole set.",
     },
     {
       decisionKind: "decision-kind/departure",

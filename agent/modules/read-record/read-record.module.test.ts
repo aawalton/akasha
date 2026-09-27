@@ -6,6 +6,8 @@ import {
   carriedInto,
   carryReadings,
   dropReadings,
+  lastSeenIn,
+  markReadingsChanged,
   partly,
   readingIn,
   readsFileAt,
@@ -25,9 +27,11 @@ import {
   DAY,
   HELD_SEAT,
   HELD_SUB,
+  linesHeld,
   NOBODY,
   OTHER,
   rawAt,
+  readAt,
   readsBeside,
   rooted,
   scratch,
@@ -73,15 +77,15 @@ test("a reading recorded is the reading read back", () => {
 
 test("the last line naming a path is that path's reading", () => {
   const root = rooted()
-  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, carriedOid: null })
-  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "two", seenAt: 2, carriedOid: null })
-  expect(readingIn(root, AGENT, "akasha/a.ts")?.oid).toBe("two")
+  readAt(root, A, "one")
+  readAt(root, A, "two", 2)
+  expect(readingIn(root, AGENT, A)?.oid).toBe("two")
 })
 
 test("one agent's reading is not another's", () => {
   const root = rooted()
-  recordRead(root, AGENT, { path: "akasha/a.ts", oid: "one", seenAt: 1, carriedOid: null })
-  expect(readingIn(root, OTHER, "akasha/a.ts")).toBeNull()
+  readAt(root, A, "one")
+  expect(readingIn(root, OTHER, A)).toBeNull()
 })
 
 test("a path never read reads as nothing", () => {
@@ -179,8 +183,8 @@ test("every agent holding the body is carried, not the first one found", () => {
 test("a removal forgets the reading, for every agent holding one", () => {
   const root = rooted()
   for (const one of [AGENT, OTHER]) {
-    recordRead(root, one, { path: A, oid: "one", seenAt: 1, carriedOid: null })
-    recordRead(root, one, { path: B, oid: "two", seenAt: 1, carriedOid: null })
+    readAt(root, A, "one", 1, one)
+    readAt(root, B, "two", 1, one)
   }
   dropReadings(root, [A])
   for (const one of [AGENT, OTHER]) {
@@ -195,6 +199,21 @@ test("forgetting a reading nobody holds takes nothing away and throws nothing", 
   expect(() => dropReadings(root, [A])).not.toThrow()
   expect(() => dropReadings(rooted(), [A])).not.toThrow()
   expect(readingIn(root, AGENT, B)?.oid).toBe("two")
+})
+
+test("a reading marked changed is no reading, and one line holds it until the path is read again", () => {
+  const root = rooted()
+  readAt(root, A, "one")
+  readAt(root, A, "two", 2)
+  readAt(root, B, "other")
+  markReadingsChanged(root, [A], 5)
+  markReadingsChanged(root, [A], 9)
+  expect(readingIn(root, AGENT, A)).toBeNull()
+  expect(lastSeenIn(root, AGENT).get(A)).toMatchObject({ oid: "two", changedAt: 5 })
+  expect(linesHeld(root)).toBe(2)
+  readAt(root, A, "three", 6)
+  expect(readingIn(root, AGENT, A)?.oid).toBe("three")
+  expect(readingIn(root, AGENT, B)?.oid).toBe("other")
 })
 
 test("the mark that opens a subagent's name is spelled here once", () => {
@@ -265,9 +284,7 @@ test("a composite owner has a file of its own beside its seat's", () => {
 test("a sweep takes the agent it names and leaves another agent's fresh reading", () => {
   const root = rooted()
   const now = Date.now()
-  for (const one of [AGENT, OTHER]) {
-    recordRead(root, one, { path: A, oid: one, seenAt: now, carriedOid: null })
-  }
+  for (const one of [AGENT, OTHER]) readAt(root, A, one, now, one)
   expect(sweptReadings(root, AGENT, now - DAY)).toEqual({ agent: 1, stale: 0 })
   expect(readingIn(root, AGENT, A)).toBeNull()
   expect(readingIn(root, OTHER, A)?.oid).toBe(OTHER)
@@ -276,8 +293,8 @@ test("a sweep takes the agent it names and leaves another agent's fresh reading"
 test("a sweep takes every reading last seen before the moment it is handed", () => {
   const root = rooted()
   const now = Date.now()
-  recordRead(root, AGENT, { path: A, oid: "old", seenAt: now - DAY - 1, carriedOid: null })
-  recordRead(root, OTHER, { path: B, oid: "new", seenAt: now, carriedOid: null })
+  readAt(root, A, "old", now - DAY - 1)
+  readAt(root, B, "new", now, OTHER)
   expect(sweptReadings(root, null, now - DAY)).toEqual({ agent: 0, stale: 1 })
   expect(readingIn(root, AGENT, A)).toBeNull()
   expect(readingIn(root, OTHER, B)?.oid).toBe("new")

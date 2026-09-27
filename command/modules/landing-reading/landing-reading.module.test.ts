@@ -3,6 +3,7 @@ import { readFileSync } from "node:fs"
 import { join } from "node:path"
 import {
   blobIdOf,
+  lastSeenIn,
   readingIn,
   sameBody,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
@@ -67,6 +68,24 @@ test("a landing whose readers owe reading carries none, so every reader goes sta
 
 test("a landing handed no change kind carries nothing", () => {
   expect(carriedOver(undefined)).toBe(false)
+})
+
+test("a landing whose readers owe reading keeps each reading marked as changed, at the body read", () => {
+  const root = repoWith()
+  const base = baseOf(root)
+  const was = readFileSync(join(root, ONE_AT))
+  put(root, ONE_AT, AGAIN)
+  carryLanded(root, base, runningOf(AUTHORED), [rowAt(ONE_AT)], [], NO_OWING)
+  const seen = lastSeenIn(root, AGENT).get(ONE_AT)
+  expect(seen?.oid).toBe(blobIdOf(was))
+  expect(seen?.changedAt).toBeNumber()
+})
+
+test("a removal whose readers owe reading forgets their readings outright", () => {
+  const root = repoWith()
+  const base = baseOf(root)
+  carryLanded(root, base, runningOf(AUTHORED), [{ kind: "remove", path: ONE_AT }], [], NO_OWING)
+  expect(lastSeenIn(root, AGENT).has(ONE_AT)).toBe(false)
 })
 
 test("a path whose readers owe reading loses their readings while the path beside it keeps them", () => {

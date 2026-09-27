@@ -4,6 +4,7 @@ import {
   parseReading,
   type Reading,
   readsFileAt,
+  recordRead,
   type Sighting,
   SUBAGENT_MARK,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
@@ -109,6 +110,24 @@ export function rawAt(root: string, text: string): undefined {
   mkdirSync(dirname(at), { recursive: true })
   writeFileSync(at, text)
   return undefined
+}
+
+export function readAt(
+  root: string,
+  path: string,
+  oid: string,
+  seenAt = 1,
+  agentId: string = AGENT
+): undefined {
+  recordRead(root, agentId, { path, oid, seenAt, carriedOid: null })
+}
+
+export function linesHeld(root: string): number {
+  const at = readsFileAt(root, AGENT)
+  if (at === null || !existsSync(at)) return 0
+  return readFileSync(at, "utf8")
+    .split("\n")
+    .filter((one) => one.trim() !== "").length
 }
 
 export function thinAt(root: string, said: Record<string, unknown>): undefined {

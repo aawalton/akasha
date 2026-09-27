@@ -198,6 +198,18 @@ export const readRecord = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reading of a body a landing changed is kept, marked with when it changed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A reading marked changed answers nothing a reading is asked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Marking a path leaves one line for it, the last reading of it marked.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Forgetting a reading writes the file again without the lines that go.",
     },
     {

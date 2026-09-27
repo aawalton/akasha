@@ -20,11 +20,12 @@ export const reads = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The file is written again only to forget readings.",
+      statement: "The file is written again only to forget readings or to mark them changed.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The last line naming a path that is no sighting is that path's reading.",
+      statement:
+        "The last line naming a path that is neither a sighting nor marked changed is that path's reading.",
     },
     {
       decisionKind: "decision-kind/departure",

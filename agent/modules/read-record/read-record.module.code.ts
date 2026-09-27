@@ -43,6 +43,7 @@ export type Reading = {
   readonly carriedOid: string | null
   readonly readThrough?: number | null
   readonly linesShown?: readonly number[]
+  readonly changedAt?: number
 }
 
 export type Sighting = {
@@ -132,6 +133,10 @@ function sighted(held: Reading): boolean {
   return held.linesShown !== undefined
 }
 
+export function markedChanged(held: Reading): boolean {
+  return held.changedAt !== undefined
+}
+
 export function parseReading(value: unknown): Reading | null {
   if (value === null || typeof value !== "object" || Array.isArray(value)) return null
   const held = value as {
@@ -141,6 +146,7 @@ export function parseReading(value: unknown): Reading | null {
     carriedOid?: unknown
     readThrough?: unknown
     linesShown?: unknown
+    changedAt?: unknown
   }
   const { path, oid, seenAt, carriedOid, readThrough } = held
   if (typeof path !== "string" || path === "") return null
@@ -148,6 +154,11 @@ export function parseReading(value: unknown): Reading | null {
   if (typeof seenAt !== "number" || !Number.isFinite(seenAt)) return null
   const left = typeof carriedOid === "string" && carriedOid !== "" ? carriedOid : null
   const said = withReach({ path, oid, seenAt, carriedOid: left }, reachOf(readThrough))
+  if ("changedAt" in held) {
+    const { changedAt } = held
+    if (typeof changedAt !== "number" || !Number.isFinite(changedAt)) return null
+    return "linesShown" in held ? null : { ...said, changedAt }
+  }
   if (!("linesShown" in held)) return said
   const shown = shownOf(held.linesShown)
   return shown === null ? null : { ...said, linesShown: shown }
@@ -184,12 +195,22 @@ function readingsAt(at: string | null): readonly Reading[] {
 
 export function lastOf(every: readonly Reading[], path: string): Reading | null {
   let found: Reading | null = null
-  for (const one of every) if (one.path === path && !sighted(one)) found = one
+  for (const one of every) {
+    if (one.path === path && !sighted(one) && !markedChanged(one)) found = one
+  }
   return found
 }
 
 export function readingIn(root: string, agentId: string, path: string): Reading | null {
   return lastOf(readingsAt(readsFileAt(root, agentId)), path)
+}
+
+export function lastSeenIn(root: string, agentId: string): ReadonlyMap<string, Reading> {
+  const found = new Map<string, Reading>()
+  for (const one of readingsAt(readsFileAt(root, agentId))) {
+    if (!sighted(one)) found.set(one.path, one)
+  }
+  return found
 }
 
 export function recordRead(root: string, agentId: string, held: Reading): undefined {
@@ -278,6 +299,35 @@ export function dropReadings(root: string, paths: readonly string[]): undefined 
       keptIn(one.at, (held) => !gone.has(held.path))
     } catch {}
   }
+}
+
+function markedIn(at: string, changed: ReadonlySet<string>, when: number): undefined {
+  const every = readingsAt(at)
+  if (!every.some((one) => changed.has(one.path))) return undefined
+  const last = new Map<string, Reading>()
+  for (const one of every) if (changed.has(one.path) && !sighted(one)) last.set(one.path, one)
+  const left = every.filter((one) => !changed.has(one.path))
+  for (const one of last.values()) left.push(markedChanged(one) ? one : { ...one, changedAt: when })
+  exclusively(at, (): undefined => {
+    writeFileSync(at, left.map((one) => `${JSON.stringify(one)}\n`).join(""))
+    return undefined
+  })
+  return undefined
+}
+
+export function markReadingsChanged(
+  root: string,
+  paths: readonly string[],
+  when: number = Date.now()
+): undefined {
+  if (paths.length === 0) return undefined
+  const changed = new Set(paths)
+  for (const one of everyOwner(root)) {
+    try {
+      markedIn(one.at, changed, when)
+    } catch {}
+  }
+  return undefined
 }
 
 export function readingsDropped(root: string, page: string): undefined {

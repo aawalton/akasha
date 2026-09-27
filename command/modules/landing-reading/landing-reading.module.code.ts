@@ -3,6 +3,7 @@ import {
   type Carry,
   carryReadings,
   dropReadings,
+  markReadingsChanged,
 } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import type { Running } from "akasha/command/modules/change-kind-running/change-kind-running.module.code.ts"
@@ -18,10 +19,12 @@ export function carryLanded(
 ): undefined {
   const held: Carry[] = running.readersOweReading ? [] : [...handed]
   const dropped: string[] = []
+  const changed: string[] = []
   for (const one of changes) {
     if (one.kind === "move") continue
     if (owed.get(one.path) ?? running.readersOweReading) {
-      dropped.push(one.path)
+      if (one.kind === "remove") dropped.push(one.path)
+      else changed.push(one.path)
       continue
     }
     if (one.kind === "remove") continue
@@ -31,4 +34,5 @@ export function carryLanded(
   }
   carryReadings(root, held)
   dropReadings(root, dropped)
+  markReadingsChanged(root, changed)
 }
