@@ -10,7 +10,7 @@ export const otherwhere00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: '"Okay, I\'m in a magic library of some sort? Library, can you hear me?"',
   beats: [
     'Kneeling, she says, "Okay, I\'m in a magic library of some sort? Library, can you hear me?"',
@@ -23,8 +23,8 @@ export const otherwhere00005 = {
     "The eyes aren't kind; it looks her up and down as though she has already disappointed it.",
     'It speaks aloud, sharp and impatient: "Of course I can hear you. I am the Library. Links."',
     '"Like the cat. Spelled L-I-N-K-S," it adds, and its stripes twist.',
+    "It sits back on its haunches in front of her, ear tufts twitching.",
     "\"Not 'of some sort.' The Library. And this is the basement. Didn't you read the packet?\"",
-    "It sits back on its haunches in front of her, ear tufts twitching, and waits for her answer.",
   ],
   issues: ['"It sits back on its haunches in front of you" - Leave It Open'],
   lore: ["lore/otherwhere-alan", "place/otherwhere-core-chamber", "lore/otherwhere-links"],
