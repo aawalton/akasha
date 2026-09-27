@@ -44,9 +44,28 @@ function oldestFirst(one: Page, other: Page): number {
   return one.id < other.id ? -1 : 1
 }
 
-export function DungeonsTab() {
-  const givers = usePages({ pageTypeSlug: temperQuestGiver.slug }).rows
-  const dungeons = usePages({ pageTypeSlug: temperDungeon.slug }).rows
+interface DungeonListings {
+  readonly givers: readonly Page[]
+  readonly dungeons: readonly Page[]
+  readonly isLoading: boolean
+}
+
+export function useDungeonListings(): DungeonListings {
+  const givers = usePages({ pageTypeSlug: temperQuestGiver.slug })
+  const dungeons = usePages({ pageTypeSlug: temperDungeon.slug })
+  return {
+    givers: givers.rows,
+    dungeons: dungeons.rows,
+    isLoading: givers.isLoading || dungeons.isLoading,
+  }
+}
+
+interface DungeonsTabProps {
+  readonly givers: readonly Page[]
+  readonly dungeons: readonly Page[]
+}
+
+export function DungeonsTab({ givers, dungeons }: DungeonsTabProps) {
   return (
     <TabsContent value="dungeons">
       <ResponsiveColumns>
