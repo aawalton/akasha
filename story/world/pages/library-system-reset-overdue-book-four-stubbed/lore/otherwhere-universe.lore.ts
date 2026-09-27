@@ -141,7 +141,7 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "Mana in a body speeds its healing; a night's sleep knits a bite into a tender pink scar.",
+      fact: "A night's sleep restores a body's strength, but a deep bite stays raw for days before it knits.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
