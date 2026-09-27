@@ -180,6 +180,14 @@ export const otherwhereCoreChamber = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "With emergency protocols ended, the walk to the trunk is an ordinary walk across the floor.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A second sync shows the Library's own halls: the waking kitchen, sealed wings and dark branches.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Outside Emergency Power Mode, a sync still burns and brings visions, but takes no mana or health.",
       knowers: ["lore-disclosure/game-master"],
     },
