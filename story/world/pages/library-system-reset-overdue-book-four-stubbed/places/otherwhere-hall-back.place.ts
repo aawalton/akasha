@@ -237,15 +237,7 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala inches her salt oval caterpillar-fashion down the center of the hall, from inside it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
       fact: "Two small engorged bookworms came off their heaps at Nala and stopped dead at her salt oval.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "At the oval's center Nala is just beyond the reach of the two bookworms circling its edge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
