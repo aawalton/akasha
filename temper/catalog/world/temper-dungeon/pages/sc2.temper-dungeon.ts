@@ -4,7 +4,7 @@ export const sc2 = {
   id: "01a05fc5-742b-7a49-a5b6-09fb5027fbd1",
   type: "page-type/temper-dungeon",
   slug: "sc2",
-  title: "Spindleclutch II.",
+  title: "Spindleclutch II",
   key: "SC2",
   questGiver: "temper-quest-giver/maj-al-ragath",
   rotationPosition: 0,
