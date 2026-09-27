@@ -37,7 +37,6 @@ import {
 import type { PricingTables } from "akasha/temper/watcher/modules/watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
 import { computePricingTables } from "akasha/temper/watcher/modules/watcher-pricing-tables/watcher-pricing-tables.module.code.ts"
 import {
-  compileBuyStock,
   compileCharacterPriority,
   compileConsumableStock,
   compileWantedConsumables,
@@ -235,20 +234,6 @@ function timestampsOf(ruleSettings: RuleSettings): InventoryTimestamps {
   return timestamps
 }
 
-function activeBuyItemIds(ruleSettings: RuleSettings): Set<number> {
-  const itemIds = new Set<number>()
-  for (const rule of ruleSettings.buyRules ?? []) {
-    if (rule.active === false) continue
-    itemIds.add(rule.itemId)
-  }
-  return itemIds
-}
-
-function suspendedBuyRules(buyItemIds: ReadonlySet<number>): string {
-  const named = [...buyItemIds].join(", ")
-  return `${buyItemIds.size} buy rule(s) suspended for item(s) ${named}: without an inventory reading the addon cannot tell what is already owned, so it will decline rather than buy.`
-}
-
 type InventoryValues = Pick<SideFileValues, "sell" | "sellTimestamps" | "sellCompiled">
 
 async function compileInventoryValues(
@@ -292,9 +277,6 @@ async function compileInventoryValues(
     new Set(Object.keys(wantedConsumables).map(Number))
   )
 
-  const buyItemIds = activeBuyItemIds(ruleSettings)
-  const buyStock = compileBuyStock(inventoryRead, buyItemIds)
-
   const characterPriority = await compileCharacterPriority(accountPage, seams.readCharacters)
   if (characterPriority.length > 0) {
     say(`Compiled ${characterPriority.length} character(s) in priority order.`)
@@ -311,19 +293,7 @@ async function compileInventoryValues(
 
   const sell = rulesToInventoryConfig(ruleSettings, (await seams.itemCategories()).keyed)
   const sellTimestamps = timestampsOf(ruleSettings)
-  if (buyItemIds.size === 0) return { sell, sellTimestamps, sellCompiled: compiled }
-
-  if (!buyStock.available) say(suspendedBuyRules(buyItemIds))
-  return {
-    sell,
-    sellTimestamps,
-    sellCompiled: {
-      ...compiled,
-      buyStockAvailable: buyStock.available,
-      buyStockByChar: buyStock.buyStockByChar,
-      buyStockAccount: buyStock.buyStockAccount,
-    },
-  }
+  return { sell, sellTimestamps, sellCompiled: compiled }
 }
 
 interface ExportSettingsResult {

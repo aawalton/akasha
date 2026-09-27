@@ -88,14 +88,7 @@ export const watcherExportSettings = {
       statement:
         "Automation reaches the file only where automation has a characters record and a companions record.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Buy stock reaches the compiled block only where some buy rule is active.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A buy rule with no inventory reading behind that rule is said to be suspended.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A side file is written only where the caller named a path for that file.",

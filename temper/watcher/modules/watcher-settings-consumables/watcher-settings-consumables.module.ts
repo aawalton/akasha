@@ -42,10 +42,6 @@ export const watcherSettingsConsumables = {
       decisionKind: "decision-kind/departure",
       statement: "A data file the inventory shape refuses is a failure rather than an inventory.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Buy stock is unavailable and empty where the account's reading went unread.",
-    },
 
     {
       decisionKind: "decision-kind/departure",

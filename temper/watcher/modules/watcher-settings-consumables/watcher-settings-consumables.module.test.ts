@@ -4,20 +4,16 @@ import type {
   InventoryItemData,
   InventoryLocationData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import { computeBuyShortfall } from "akasha/temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
 import type { InventoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   ReadFiles,
   ReadPages,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import {
-  type BuyStock,
-  compileBuyStock,
   compileCharacterPriority,
   compileConsumableStock,
   compileWantedConsumables,
   describeInventoryReadFailure,
-  type InventoryReadFailure,
   type InventoryRow,
   type InventoryRowReader,
   readingDataOf,
@@ -136,28 +132,6 @@ test("nothing wanted is nothing stocked", () => {
 
 test("no inventory is nothing stocked", () => {
   expect(compileConsumableStock(null, new Set([GARLIC_HAGFISH_ITEM]))).toEqual({})
-})
-
-test("buy stock separates what characters hold from what account storage holds", () => {
-  expect(compileBuyStock({ ok: true, db: HOLDINGS }, new Set([GARLIC_HAGFISH_ITEM]))).toEqual({
-    available: true,
-    buyStockByChar: { [GARLIC_HAGFISH_ITEM]: { "111": 10, "222": 7 } },
-    buyStockAccount: { [GARLIC_HAGFISH_ITEM]: 107 },
-  })
-})
-
-test("buying nothing is available and empty", () => {
-  expect(compileBuyStock({ ok: true, db: HOLDINGS }, new Set())).toEqual({
-    available: true,
-    buyStockByChar: {},
-    buyStockAccount: {},
-  })
-})
-
-test("buy stock is unavailable where no inventory could be read", () => {
-  expect(
-    compileBuyStock({ ok: false, failure: { kind: "no-reading" } }, new Set([GARLIC_HAGFISH_ITEM]))
-  ).toEqual({ available: false, buyStockByChar: {}, buyStockAccount: {} })
 })
 
 test("each read failure is described", () => {
@@ -337,78 +311,4 @@ test("a store that refuses the data file is refused with what it said", async ()
   await expect(readingDataOf(READING_SLUG, readingPages, files)).rejects.toThrow(
     "the store was unreachable"
   )
-})
-
-const BUY_ITEM = 4000
-const BUY_TARGET = 4000
-const LIVE_BACKPACK = 200
-
-const SPREAD_LOCATIONS: Record<string, InventoryLocationData> = {
-  Bank: locationOf({ 1: { 0: itemAt(BUY_ITEM, 1796) } }),
-}
-for (let charId = 1; charId <= 11; charId++) {
-  SPREAD_LOCATIONS[String(charId)] = locationOf({ 1: { 0: itemAt(BUY_ITEM, LIVE_BACKPACK) } })
-}
-
-const SPREAD: InventoryDatabase = {
-  locations: SPREAD_LOCATIONS,
-  meta: { displayName: "someone", worldName: "PC-EU", lastFullScan: 0 },
-}
-
-const MID_WRITE: InventoryReadFailure = {
-  kind: "no-data",
-  readingId: "read-1",
-  slug: READING_SLUG,
-}
-
-const EVERY_FAILURE: readonly InventoryReadFailure[] = [
-  { kind: "no-reading" },
-  { kind: "reading-has-no-id" },
-  { kind: "reading-has-no-slug", readingId: "read-1" },
-  MID_WRITE,
-  { kind: "json-parse-failed", readingId: "read-1", bytes: 41230, message: "bad" },
-  { kind: "not-an-inventory", readingId: "read-1", message: "bad" },
-]
-
-function heldTotal(stock: BuyStock, itemId: number): number {
-  const byChar = Object.values(stock.buyStockByChar[itemId] ?? {})
-  return byChar.reduce((sum, held) => sum + held, 0) + (stock.buyStockAccount[itemId] ?? 0)
-}
-
-test("every kind of read failure leaves the stock unavailable and both records empty", () => {
-  for (const failure of EVERY_FAILURE) {
-    expect(compileBuyStock({ ok: false, failure }, new Set([BUY_ITEM]))).toEqual({
-      available: false,
-      buyStockByChar: {},
-      buyStockAccount: {},
-    })
-  }
-})
-
-test("an item the account holds none of is left out of both records", () => {
-  const stock = compileBuyStock({ ok: true, db: HOLDINGS }, new Set([GARLIC_HAGFISH_ITEM, 12345]))
-  expect(stock.buyStockByChar[12345]).toBeUndefined()
-  expect(stock.buyStockAccount[12345]).toBeUndefined()
-})
-
-test("a failed read reads as owning nothing, and availability alone tells them apart", () => {
-  const failed = compileBuyStock(
-    { ok: false, failure: { kind: "no-reading" } },
-    new Set([BUY_ITEM])
-  )
-  const nothing = compileBuyStock({ ok: true, db: EMPTY_DATABASE }, new Set([BUY_ITEM]))
-  expect(failed.buyStockByChar).toEqual(nothing.buyStockByChar)
-  expect(failed.buyStockAccount).toEqual(nothing.buyStockAccount)
-  expect(failed.available).not.toBe(nothing.available)
-})
-
-test("a failed read collapses 3996 held across eleven characters and the bank to nothing", () => {
-  const read = compileBuyStock({ ok: true, db: SPREAD }, new Set([BUY_ITEM]))
-  expect(Object.keys(read.buyStockByChar[BUY_ITEM] ?? {}).length).toBe(11)
-  expect(heldTotal(read, BUY_ITEM)).toBe(3996)
-  expect(computeBuyShortfall(BUY_TARGET, heldTotal(read, BUY_ITEM))).toBe(4)
-
-  const failed = compileBuyStock({ ok: false, failure: MID_WRITE }, new Set([BUY_ITEM]))
-  expect(heldTotal(failed, BUY_ITEM)).toBe(0)
-  expect(computeBuyShortfall(BUY_TARGET, LIVE_BACKPACK + heldTotal(failed, BUY_ITEM))).toBe(3800)
 })

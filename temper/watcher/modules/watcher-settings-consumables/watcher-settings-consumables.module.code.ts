@@ -3,7 +3,7 @@ import {
   readFiles,
   readPages,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
-import { computeItemStock } from "akasha/temper/items/core/modules/compute-item-stock/compute-item-stock.module.code.ts"
+
 import { inventoryDatabaseSchema } from "akasha/temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { InventoryRuleSettingsShape } from "akasha/temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.code.ts"
@@ -142,7 +142,7 @@ export async function compileWantedConsumables(
   return result
 }
 
-export type InventoryReadFailure =
+type InventoryReadFailure =
   | { readonly kind: "no-reading" }
   | { readonly kind: "reading-has-no-id" }
   | { readonly kind: "reading-has-no-slug"; readonly readingId: string }
@@ -241,26 +241,4 @@ export function compileConsumableStock(
     result[itemId] = held
   }
   return result
-}
-
-export interface BuyStock {
-  available: boolean
-  buyStockByChar: Record<number, Record<string, number>>
-  buyStockAccount: Record<number, number>
-}
-
-export function compileBuyStock(
-  read: InventoryReadResult,
-  buyItemIds: ReadonlySet<number>
-): BuyStock {
-  if (!read.ok) return { available: false, buyStockByChar: {}, buyStockAccount: {} }
-  if (buyItemIds.size === 0) return { available: true, buyStockByChar: {}, buyStockAccount: {} }
-
-  const buyStockByChar: Record<number, Record<string, number>> = {}
-  const buyStockAccount: Record<number, number> = {}
-  for (const [itemId, breakdown] of computeItemStock(read.db, buyItemIds)) {
-    buyStockByChar[itemId] = Object.fromEntries(breakdown.byChar)
-    buyStockAccount[itemId] = breakdown.accountStorage
-  }
-  return { available: true, buyStockByChar, buyStockAccount }
 }
