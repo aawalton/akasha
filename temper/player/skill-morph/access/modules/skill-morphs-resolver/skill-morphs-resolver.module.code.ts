@@ -6,6 +6,7 @@ import {
 } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { MorphCharacterRow } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { computeCharacterMorphProgress } from "akasha/temper/player/skill-morph/modules/character-morph-progress/character-morph-progress.module.code.ts"
+import { heldMorphRankMost } from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 import { resolveSkillMorphProgressByPath } from "akasha/temper/player/skill-morph/modules/skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts"
 
@@ -50,6 +51,7 @@ export function resolveSkillMorphs(
       skillBaseName,
       expectedSkillsForLine,
       skillLineProgress: completion.skillLineProgress,
+      morphRankMost: heldMorphRankMost(),
     })
   }
 

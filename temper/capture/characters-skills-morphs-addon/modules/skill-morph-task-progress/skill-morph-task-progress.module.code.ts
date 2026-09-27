@@ -7,6 +7,7 @@ import {
   computeCharacterMorphProgressByEsoId,
   type ExpectedMorphableSkill,
 } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import { addonMorphRankMost } from "akasha/temper/player/skill-morph/modules/morph-rank-pages/morph-rank-pages.module.code.ts"
 import { resolveSkillMorphProgressByPath } from "akasha/temper/player/skill-morph/modules/skill-morph-progress-paths/skill-morph-progress-paths.module.code.ts"
 
 const { baseApplicableEsoLineIds, classLinesByEsoClassId, racialLineByEsoRaceId } =
@@ -51,6 +52,7 @@ export function resolveSkillMorphs(
       skillBaseName,
       expectedSkillsForLine,
       skillLineProgress: slp,
+      morphRankMost: addonMorphRankMost(),
     })
   }
 
@@ -66,5 +68,6 @@ export function resolveSkillMorphs(
     applicableEsoLineIds,
     expectedSkillsByEsoLineId,
     skillLineProgress: slp,
+    morphRankMost: addonMorphRankMost(),
   })
 }

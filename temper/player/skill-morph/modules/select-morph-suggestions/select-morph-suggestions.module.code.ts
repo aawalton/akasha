@@ -52,6 +52,7 @@ interface MorphSuggestionInput {
   morphableLineDisplayOrders: ReadonlyMap<number, number>
   expectedSkillsByEsoLineId: ReadonlyMap<number, ReadonlyArray<ExpectedMorphableSkillForSuggestion>>
   skillLineRanks: ReadonlyMap<number, number>
+  morphRankMost: number
 }
 
 export interface MorphSuggestionEntry {
@@ -154,7 +155,13 @@ export function selectMorphSuggestions(input: MorphSuggestionInput): MorphSugges
               isUltimate: expected.skillType === "ultimate",
             }
 
-      const entry = buildMorphEntry(morphData, false, lineDisplayOrder, input.equippedSkillNames)
+      const entry = buildMorphEntry(
+        morphData,
+        false,
+        lineDisplayOrder,
+        input.equippedSkillNames,
+        input.morphRankMost
+      )
       if (entry === undefined) continue
       built.push({ entry, lineId })
       if (entry.isEquipped) levelingLineIds.add(lineId)

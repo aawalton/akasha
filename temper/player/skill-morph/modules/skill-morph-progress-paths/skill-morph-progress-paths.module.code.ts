@@ -2,6 +2,11 @@ import type {
   ExpectedMorphableSkill,
   MorphSkillLineProgressMap,
 } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import {
+  morphMost,
+  morphPoints,
+  morphRanksOf,
+} from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
 
 interface MorphVariantProgress {
   name: string
@@ -14,24 +19,21 @@ interface MorphSkillProgress {
   morph2: MorphVariantProgress
 }
 
-function pointsFor(morph: MorphSkillProgress): number {
-  return (
-    Math.min(morph.base.rank ?? 0, 4) +
-    Math.min(morph.morph1.rank ?? 0, 4) +
-    Math.min(morph.morph2.rank ?? 0, 4)
-  )
+function pointsFor(morph: MorphSkillProgress, morphRankMost: number): number {
+  return morphPoints(morphRanksOf(morph, morphRankMost))
 }
 
 interface SkillMorphLineProgressInput {
   expectedSkillsForLine: ReadonlyArray<ExpectedMorphableSkill>
   lineSkills: Record<number, MorphSkillProgress> | undefined
+  morphRankMost: number
 }
 
 function resolveSkillMorphLineProgress(input: SkillMorphLineProgressInput): {
   current: number
   total: number
 } {
-  const total = input.expectedSkillsForLine.length * 12
+  const total = input.expectedSkillsForLine.length * morphMost(input.morphRankMost)
 
   if (!input.lineSkills) return { current: 0, total }
 
@@ -43,7 +45,7 @@ function resolveSkillMorphLineProgress(input: SkillMorphLineProgressInput): {
   let current = 0
   for (const expected of input.expectedSkillsForLine) {
     const morph = addonLookup.get(expected.baseName)
-    if (morph !== undefined) current += pointsFor(morph)
+    if (morph !== undefined) current += pointsFor(morph, input.morphRankMost)
   }
   return { current, total }
 }
@@ -52,6 +54,7 @@ interface SkillMorphSkillProgressInput {
   expectedSkillsForLine: ReadonlyArray<ExpectedMorphableSkill>
   lineSkills: Record<number, MorphSkillProgress> | undefined
   skillBaseName: string
+  morphRankMost: number
 }
 
 function resolveSkillMorphSkillProgress(
@@ -59,15 +62,16 @@ function resolveSkillMorphSkillProgress(
 ): { current: number; total: number } | undefined {
   const isExpected = input.expectedSkillsForLine.some((s) => s.baseName === input.skillBaseName)
   if (!isExpected) return undefined
+  const total = morphMost(input.morphRankMost)
 
-  if (!input.lineSkills) return { current: 0, total: 12 }
+  if (!input.lineSkills) return { current: 0, total }
 
   for (const morph of Object.values(input.lineSkills)) {
     if (morph.base.name === input.skillBaseName) {
-      return { current: pointsFor(morph), total: 12 }
+      return { current: pointsFor(morph, input.morphRankMost), total }
     }
   }
-  return { current: 0, total: 12 }
+  return { current: 0, total }
 }
 
 interface SkillMorphProgressByPathInput {
@@ -75,6 +79,7 @@ interface SkillMorphProgressByPathInput {
   skillBaseName?: string
   expectedSkillsForLine: ReadonlyArray<ExpectedMorphableSkill> | undefined
   skillLineProgress: MorphSkillLineProgressMap | null | undefined
+  morphRankMost: number
 }
 
 export function resolveSkillMorphProgressByPath(
@@ -88,6 +93,7 @@ export function resolveSkillMorphProgressByPath(
       expectedSkillsForLine: input.expectedSkillsForLine,
       lineSkills: sl?.skills,
       skillBaseName: input.skillBaseName,
+      morphRankMost: input.morphRankMost,
     })
   }
 
@@ -95,5 +101,6 @@ export function resolveSkillMorphProgressByPath(
   return resolveSkillMorphLineProgress({
     expectedSkillsForLine: input.expectedSkillsForLine,
     lineSkills: sl.skills,
+    morphRankMost: input.morphRankMost,
   })
 }

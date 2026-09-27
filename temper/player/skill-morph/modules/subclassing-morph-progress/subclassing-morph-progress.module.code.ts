@@ -4,6 +4,12 @@ import type {
   MorphableSkillDetail,
   SkillMorphProgressEntry,
 } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
+import {
+  heldMorphRankMost,
+  type MorphRanks,
+  morphMost,
+  morphRanksOf,
+} from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
 export interface SubclassingSkillMorphProgressResult {
@@ -23,6 +29,7 @@ export function transformSubclassingSkillMorphProgress(
   const entries: SkillMorphProgressEntry[] = []
   let totalMorphRank = 0
   let totalMorphMax = 0
+  const rankMost = heldMorphRankMost()
 
   for (const sl of skillLines.list) {
     if (sl.subcategoryId !== "class") continue
@@ -33,17 +40,10 @@ export function transformSubclassingSkillMorphProgress(
 
     const slProgress = subclassingSkillLineProgress?.[esoId]
 
-    const addonLookup = new Map<
-      string,
-      { baseRank: number; morph1Rank: number; morph2Rank: number }
-    >()
+    const addonLookup = new Map<string, MorphRanks>()
     if (slProgress?.skills) {
       for (const morphData of Object.values(slProgress.skills)) {
-        addonLookup.set(morphData.base.name, {
-          baseRank: Math.min(morphData.base.rank ?? 0, 4),
-          morph1Rank: Math.min(morphData.morph1.rank ?? 0, 4),
-          morph2Rank: Math.min(morphData.morph2.rank ?? 0, 4),
-        })
+        addonLookup.set(morphData.base.name, morphRanksOf(morphData, rankMost))
       }
     }
 
@@ -53,7 +53,7 @@ export function transformSubclassingSkillMorphProgress(
       const morph1Rank = addon?.morph1Rank ?? 0
       const morph2Rank = addon?.morph2Rank ?? 0
       totalMorphRank += baseRank + morph1Rank + morph2Rank
-      totalMorphMax += 12
+      totalMorphMax += morphMost(rankMost)
       return {
         abilityIndex: index,
         baseName: expected.baseName,

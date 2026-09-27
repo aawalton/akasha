@@ -1,6 +1,10 @@
 import type { SkillLineId } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import {
+  heldMorphRankMost,
+  morphMost,
+} from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
+import {
   morphableSkillLineIds,
   morphableSkillsByLine,
 } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
@@ -33,5 +37,5 @@ export function getSkillLineMorphContribution(
   if (!morphableSkillLineIds().has(slId)) return null
   const numAbilities = morphableSkillsByLine().get(slId)?.length ?? 0
   const count = morphRankMap.get(characterId)?.get(slId) ?? 0
-  return { count, total: numAbilities * 12 }
+  return { count, total: numAbilities * morphMost(heldMorphRankMost()) }
 }

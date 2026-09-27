@@ -1,3 +1,8 @@
+import {
+  morphMost,
+  morphPoints,
+  morphRanksOf,
+} from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
 import type {
   MorphSuggestionEntry,
   SkillMorphInput,
@@ -7,17 +12,17 @@ export function buildMorphEntry(
   morphData: SkillMorphInput,
   isLineConflict: boolean,
   lineDisplayOrder: number,
-  equippedSkillNames: ReadonlySet<string>
+  equippedSkillNames: ReadonlySet<string>,
+  morphRankMost: number
 ): MorphSuggestionEntry | undefined {
   const skillType: "active" | "ultimate" = morphData.isUltimate === true ? "ultimate" : "active"
 
-  const baseRank = Math.min(morphData.base.rank ?? 0, 4)
-  const morph1Rank = Math.min(morphData.morph1.rank ?? 0, 4)
-  const morph2Rank = Math.min(morphData.morph2.rank ?? 0, 4)
+  const ranks = morphRanksOf(morphData, morphRankMost)
+  const { baseRank, morph1Rank, morph2Rank } = ranks
 
-  if (baseRank + morph1Rank + morph2Rank >= 12) return undefined
+  if (morphPoints(ranks) >= morphMost(morphRankMost)) return undefined
 
-  if (baseRank < 4 || (morphData.currentMorph === 0 && morphData.atMorph === false)) {
+  if (baseRank < morphRankMost || (morphData.currentMorph === 0 && morphData.atMorph === false)) {
     return makeEntry({
       skillName: morphData.base.name,
       skillType,
@@ -40,8 +45,8 @@ export function buildMorphEntry(
   if (morphData.currentMorph > 0) {
     const chosen = morphData.currentMorph === 1 ? morphData.morph1 : morphData.morph2
     const unchosen = morphData.currentMorph === 1 ? morphData.morph2 : morphData.morph1
-    chosenRank = Math.min(chosen.rank ?? 0, 4)
-    unchosenRank = Math.min(unchosen.rank ?? 0, 4)
+    chosenRank = Math.min(chosen.rank ?? 0, morphRankMost)
+    unchosenRank = Math.min(unchosen.rank ?? 0, morphRankMost)
     chosenName = chosen.name
     unchosenName = unchosen.name
     chosenVariant = morphData.currentMorph === 1 ? "morph1" : "morph2"
@@ -75,7 +80,7 @@ export function buildMorphEntry(
     })
   }
 
-  if (chosenRank < 4) {
+  if (chosenRank < morphRankMost) {
     return makeEntry({
       skillName: chosenName,
       skillType,
@@ -87,7 +92,7 @@ export function buildMorphEntry(
       equippedSkillNames,
     })
   }
-  if (unchosenRank < 4) {
+  if (unchosenRank < morphRankMost) {
     return makeEntry({
       skillName: unchosenName,
       skillType,

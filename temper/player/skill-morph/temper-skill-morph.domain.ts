@@ -13,6 +13,8 @@ export const temperSkillMorph = {
     "module/morph-conflict",
     "module/morph-pair",
     "module/morph-progress-types",
+    "module/morph-ranks",
+    "module/morph-rank-pages",
     "module/morphable-skills",
     "module/select-morph-suggestions",
     "module/skill-line-morph-totals",
@@ -28,11 +30,11 @@ export const temperSkillMorph = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A skill variant is ranked to four at most.",
+      statement: "A skill variant counts up to the rank its morph completion page states.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A morphable skill is worth twelve rank.",
+      statement: "A morphable skill is worth that rank for its base and each of its two morphs.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -9,6 +9,7 @@ import {
   type TaskData,
 } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { ExpectedMorphableSkill } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import { addonMorphRankMost } from "akasha/temper/player/skill-morph/modules/morph-rank-pages/morph-rank-pages.module.code.ts"
 import {
   type MorphSuggestionEntry,
   selectMorphSuggestions,
@@ -121,6 +122,7 @@ function computeSkillMorphResult(
     morphableLineDisplayOrders: MORPHABLE_LINE_DISPLAY_ORDERS,
     expectedSkillsByEsoLineId: EXPECTED_SKILLS_BY_ESO_LINE_ID,
     skillLineRanks: getSkillLineRanks(),
+    morphRankMost: addonMorphRankMost(),
   })
 }
 

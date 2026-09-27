@@ -1,3 +1,10 @@
+import {
+  type MorphRanks,
+  morphMost,
+  morphPoints,
+  morphRanksOf,
+} from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
+
 interface MorphVariantProgress {
   name: string
   rank: number | undefined
@@ -27,13 +34,15 @@ interface CharacterMorphProgressByEsoIdInput {
   applicableEsoLineIds: ReadonlySet<number>
   expectedSkillsByEsoLineId: ReadonlyMap<number, ReadonlyArray<ExpectedMorphableSkill>>
   skillLineProgress: MorphSkillLineProgressMap | null | undefined
+  morphRankMost: number
 }
 
 export function computeCharacterMorphProgressByEsoId(input: CharacterMorphProgressByEsoIdInput): {
   current: number
   total: number
 } {
-  const { applicableEsoLineIds, expectedSkillsByEsoLineId, skillLineProgress } = input
+  const { applicableEsoLineIds, expectedSkillsByEsoLineId, skillLineProgress, morphRankMost } =
+    input
 
   let current = 0
   let total = 0
@@ -45,24 +54,15 @@ export function computeCharacterMorphProgressByEsoId(input: CharacterMorphProgre
     const sl = skillLineProgress?.[esoLineId]
     if (!sl?.skills) continue
 
-    const addonLookup = new Map<
-      string,
-      { baseRank: number; morph1Rank: number; morph2Rank: number }
-    >()
+    const addonLookup = new Map<string, MorphRanks>()
     for (const morphData of Object.values(sl.skills)) {
-      addonLookup.set(morphData.base.name, {
-        baseRank: Math.min(morphData.base.rank ?? 0, 4),
-        morph1Rank: Math.min(morphData.morph1.rank ?? 0, 4),
-        morph2Rank: Math.min(morphData.morph2.rank ?? 0, 4),
-      })
+      addonLookup.set(morphData.base.name, morphRanksOf(morphData, morphRankMost))
     }
 
     for (const expected of expectedSkills) {
-      total += 12
+      total += morphMost(morphRankMost)
       const addon = addonLookup.get(expected.baseName)
-      if (addon !== undefined) {
-        current += addon.baseRank + addon.morph1Rank + addon.morph2Rank
-      }
+      if (addon !== undefined) current += morphPoints(addon)
     }
   }
 

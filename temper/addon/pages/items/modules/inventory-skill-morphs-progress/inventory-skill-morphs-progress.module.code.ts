@@ -8,6 +8,7 @@ import {
   type ExpectedMorphableSkill,
   type MorphSkillLineProgressMap,
 } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import { addonMorphRankMost } from "akasha/temper/player/skill-morph/modules/morph-rank-pages/morph-rank-pages.module.code.ts"
 
 const applicable = applicableInputs()
 
@@ -54,6 +55,7 @@ export function canCharacterLevelMorphs(charId: string): boolean {
     applicableEsoLineIds,
     expectedSkillsByEsoLineId,
     skillLineProgress,
+    morphRankMost: addonMorphRankMost(),
   })
 
   return total > 0 && current < total

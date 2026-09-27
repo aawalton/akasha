@@ -10,6 +10,13 @@ import type {
   MorphCharacterRow,
 } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { computeCharacterMorphProgress } from "akasha/temper/player/skill-morph/modules/character-morph-progress/character-morph-progress.module.code.ts"
+import {
+  heldMorphRankMost,
+  type MorphRanks,
+  morphMost,
+  morphPoints,
+  morphRanksOf,
+} from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
 export const SKILL_MORPHS_CHECKER: MorphCardChecker = {
@@ -29,38 +36,27 @@ export const SKILL_MORPHS_CHECKER: MorphCardChecker = {
     const slp = completion.skillLineProgress
     if (!slp) return false
     const [rawLineId, rawSkillId] = itemPath
+    const rankMost = heldMorphRankMost()
     const lineId = Number(rawLineId)
     const sl = slp[lineId]
     if (!sl?.skills) return false
     if (rawSkillId !== undefined) {
       const skill = sl.skills[Number(rawSkillId)]
       if (!skill) return false
-      return (
-        Math.min(skill.base.rank ?? 0, 4) +
-          Math.min(skill.morph1.rank ?? 0, 4) +
-          Math.min(skill.morph2.rank ?? 0, 4) >=
-        12
-      )
+      return morphPoints(morphRanksOf(skill, rankMost)) >= morphMost(rankMost)
     }
     const skillLineId = skillLineIdOfEso(lineId)
     if (skillLineId == null) return false
     const expectedSkills = morphableSkillsByLine().get(skillLineId)
     if (!expectedSkills) return false
-    const addonLookup = new Map<
-      string,
-      { baseRank: number; morph1Rank: number; morph2Rank: number }
-    >()
+    const addonLookup = new Map<string, MorphRanks>()
     for (const morphData of Object.values(sl.skills)) {
-      addonLookup.set(morphData.base.name, {
-        baseRank: Math.min(morphData.base.rank ?? 0, 4),
-        morph1Rank: Math.min(morphData.morph1.rank ?? 0, 4),
-        morph2Rank: Math.min(morphData.morph2.rank ?? 0, 4),
-      })
+      addonLookup.set(morphData.base.name, morphRanksOf(morphData, rankMost))
     }
     return expectedSkills.every((expected) => {
       const addon = addonLookup.get(expected.baseName)
       if (!addon) return false
-      return addon.baseRank + addon.morph1Rank + addon.morph2Rank >= 12
+      return morphPoints(addon) >= morphMost(rankMost)
     })
   },
   getItemPickerLevels(completions, currentPath) {

@@ -5,6 +5,11 @@ import type {
   MorphableSkillDetail,
   SkillMorphProgressEntry,
 } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
+import {
+  heldMorphRankMost,
+  type MorphRanks,
+  morphRanksOf,
+} from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
 export function transformSkillMorphProgress(
@@ -27,17 +32,10 @@ export function transformSkillMorphProgress(
         const expectedSkills = morphableSkillsByLine().get(skillLineId)
         if (!expectedSkills) continue
 
-        const addonLookup = new Map<
-          string,
-          { baseRank: number; morph1Rank: number; morph2Rank: number }
-        >()
+        const addonLookup = new Map<string, MorphRanks>()
         if (slProgress.skills) {
           for (const morphData of Object.values(slProgress.skills)) {
-            addonLookup.set(morphData.base.name, {
-              baseRank: Math.min(morphData.base.rank ?? 0, 4),
-              morph1Rank: Math.min(morphData.morph1.rank ?? 0, 4),
-              morph2Rank: Math.min(morphData.morph2.rank ?? 0, 4),
-            })
+            addonLookup.set(morphData.base.name, morphRanksOf(morphData, heldMorphRankMost()))
           }
         }
 

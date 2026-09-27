@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.ts","path":"temper/player/completion/temper-player-completion/modules/completion-page-reading/completion-page-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-completion-category.page-type.ts","path":"temper/player/skill-morph/modules/morph-rank-pages/morph-rank-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/account-account-achievements.temper-completion-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/account-account-points-of-interest.temper-completion-category.ts","typed":true,"deferred":false}
@@ -66,6 +67,7 @@
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks-hireling-mails.temper-completion-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks-inventory-management.temper-completion-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/progress/temper-completion-category/pages/tasks.temper-completion-category.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-completion-category.page-type.types.ts","path":"temper/player/skill-morph/modules/morph-rank-pages/morph-rank-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/progress/temper-progress.domain.ts","id":"01a05fac-7582-726f-ac10-d5261c7e1f65"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/temper-completion-category/properties/completion-category-parent.relation-property.ts","id":"01a0cae0-68ce-716e-9958-296e965e8ca5"}
 {"propertySlug":"target-page-type","path":"temper/player/progress/thing/properties/completion-card.relation-property.ts","id":"01a0c688-9666-72c8-b20b-f6fc5fd64234"}

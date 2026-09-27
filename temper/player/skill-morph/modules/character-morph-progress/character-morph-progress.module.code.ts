@@ -7,6 +7,7 @@ import {
   type ExpectedMorphableSkill,
   type MorphSkillLineProgressMap,
 } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
+import { heldMorphRankMost } from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
 interface CharacterMorphProgressInput {
@@ -44,5 +45,6 @@ export function computeCharacterMorphProgress(input: CharacterMorphProgressInput
     applicableEsoLineIds,
     expectedSkillsByEsoLineId,
     skillLineProgress: input.skillLineProgress,
+    morphRankMost: heldMorphRankMost(),
   })
 }

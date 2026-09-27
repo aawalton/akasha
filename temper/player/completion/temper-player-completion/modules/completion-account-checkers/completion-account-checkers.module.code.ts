@@ -38,6 +38,10 @@ import { transformSubclassingSkillLineProgress } from "akasha/temper/player/comp
 import { transformTraitResearchProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-trait-research-progress/completion-trait-research-progress.module.code.ts"
 import { transformTributeProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-tribute-progress/completion-tribute-progress.module.code.ts"
 import { transformZoneCompletionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-zone-progress/completion-zone-progress.module.code.ts"
+import {
+  heldMorphRankMost,
+  morphMost,
+} from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
 import { transformSubclassingSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
 
 type Nodes = (completion: AccountCompletion | null) => readonly ProgressNode[]
@@ -105,7 +109,7 @@ const subclassingSkillMorphNodes = remembered((completion) =>
       key: skill.baseName,
       label: skill.baseName,
       count: skill.baseRank + skill.morph1Rank + skill.morph2Rank,
-      total: 12,
+      total: morphMost(heldMorphRankMost()),
     })),
   }))
 )

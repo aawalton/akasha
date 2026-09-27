@@ -3,6 +3,7 @@ import type {
   CompletionCategoryTree,
   CompletionTab,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree-types/completion-category-tree-types.module.code.ts"
+import { holdMorphRankMost } from "akasha/temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.code.ts"
 
 export const CARD_IDS = {
   account: [
@@ -64,6 +65,7 @@ interface CompletionCategoryPage {
   readonly displayOrder?: unknown
   readonly parent?: unknown
   readonly completionMost?: unknown
+  readonly morphRankMost?: unknown
 }
 
 export const COMPLETION_CATEGORY_FIELDS: readonly string[] = [
@@ -74,6 +76,7 @@ export const COMPLETION_CATEGORY_FIELDS: readonly string[] = [
   "displayOrder",
   "parent",
   "completionMost",
+  "morphRankMost",
 ]
 
 let most: ReadonlyMap<string, number> = new Map()
@@ -133,6 +136,7 @@ export function holdCompletionCategoryPages(pages: readonly CompletionCategoryPa
   const found = new Map<string, number>()
   for (const page of pages) {
     if (typeof page.completionMost === "number") found.set(String(page.nodeId), page.completionMost)
+    if (typeof page.morphRankMost === "number") holdMorphRankMost(page.morphRankMost)
   }
   most = found
   return undefined

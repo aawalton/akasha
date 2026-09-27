@@ -6053,6 +6053,8 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/morph-conflict/morph-conflict.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/morph-pair/morph-pair.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/morph-rank-pages/morph-rank-pages.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/morph-ranks/morph-ranks.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/select-morph-suggestions/select-morph-suggestions.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/player/skill-morph/modules/skill-line-morph-totals/skill-line-morph-totals.module.ts","typed":true,"deferred":false}
