@@ -6159,6 +6159,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.ts","id":"01a0e0a0-2424-7003-ad9b-86cbf222b843"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/kiosk-names-loading/kiosk-names-loading.module.ts","id":"01a0e0b5-f996-7000-99ed-1f1b5400201e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/lore-library-gate/lore-library-gate.module.ts","id":"01a0e253-f855-7ce2-99e5-59b3cf0d1268"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/lore-library-panel-card/lore-library-panel-card.module.ts","id":"01a06421-f74b-7373-9a5c-c7e2f302002c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.ts","id":"01a0de73-1714-784a-96bf-19fa89a27ce0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.ts","id":"01a0d8c0-ee3f-7d46-8a94-09141a86ca9b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-reading/mine-row-reading.module.ts","id":"01a0d8d0-d4ed-7067-9018-4e495b5cba65"}
