@@ -2299,6 +2299,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/block-editor/modules/use-keyboard-inset/use-keyboard-inset.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/block-editor/modules/use-textarea-input/use-textarea-input.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/cache/modules/boot-gate/boot-gate.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/cache/modules/listing-readiness/listing-readiness.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/cache/modules/tanstack-live/tanstack-live.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/cache/modules/use-core-definitions-ready/use-core-definitions-ready.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"page/ui/cache/modules/use-query/use-query.module.ts","typed":true,"deferred":false}

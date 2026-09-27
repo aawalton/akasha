@@ -7,6 +7,7 @@ export const pageUiCache = {
   definition: "how a component reads the pages a browser keeps",
   parts: [
     "module/boot-gate",
+    "module/listing-readiness",
     "module/tanstack-live",
     "module/use-core-definitions-ready",
     "module/use-query",
