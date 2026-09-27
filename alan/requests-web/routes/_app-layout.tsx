@@ -4,11 +4,7 @@ import { AppShell } from "akasha/alan/requests-web/modules/requests-app-shell/re
 import { AuthProvider } from "akasha/alan/requests-web/modules/requests-auth-provider/requests-auth-provider.module.code.tsx"
 import { REQUESTS_SITE } from "akasha/alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
-import {
-  WEB_APP,
-  webAppTitle,
-} from "akasha/infrastructure/service/akasha-service/web-app/modules/naming/web-app-naming.module.code.ts"
-import { alanwaltonRequestsWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-requests-web.web-app.ts"
+import type { DocumentData } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AppEditingProvider } from "akasha/page/ui/component/modules/app-editing/app-editing.module.code.tsx"
 import { CreateOverrideProvider } from "akasha/page/ui/component/modules/create-override/create-override.module.code.tsx"
@@ -23,14 +19,16 @@ import { ProposeDialog } from "akasha/product/kofi/feature-request/modules/propo
 import { balanceHeldBy } from "akasha/product/kofi/feature-request/modules/writing/feature-request-writing.module.code.ts"
 import { featureRequestBoost } from "akasha/product/kofi/feature-request/properties/feature-request-boost.action-button-property.ts"
 import { useEffect, useMemo, useState } from "react"
-import { data, Outlet } from "react-router"
+import { data, Outlet, useRouteLoaderData } from "react-router"
 import type { Route } from "./+types/_app-layout"
 
 const FEATURE_REQUEST = "feature-request"
 
 const REQUESTS_PATH = "/api/requests"
 
-const READ = ["contributor", WEB_APP]
+const READ = ["contributor"]
+
+const ROOT = "root"
 
 function boostingIn(held: Record<string, unknown>): Boosting {
   const slug = held.slug
@@ -61,13 +59,12 @@ export async function loader({ request }: Route.LoaderArgs) {
 
   const balance = reader === null ? null : await balanceHeldBy(reader)
 
-  const brand = await webAppTitle(alanwaltonRequestsWeb.slug)
-
-  return data({ reader, accountId, signedIn, navItems, balance, brand })
+  return data({ reader, accountId, signedIn, navItems, balance })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
   useLoaderFollowing(READ)
+  const site = useRouteLoaderData<DocumentData>(ROOT)
   const [proposing, setProposing] = useState(false)
   const [boosting, setBoosting] = useState<Boosting | null>(null)
   const overrides = useMemo(() => ({ [FEATURE_REQUEST]: () => setProposing(true) }), [])
@@ -83,7 +80,7 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
       <AppEditingProvider editing={false}>
         <CreateOverrideProvider overrides={overrides}>
           <AppShell
-            brand={loaderData.brand}
+            brand={site?.document.title ?? ""}
             signedIn={loaderData.signedIn}
             ssrNavItems={loaderData.navItems}
           >

@@ -10,16 +10,6 @@ const NAV_PARAM = buildPageHrefParam({
   id: requests.id,
 })
 
-export function meta() {
-  return [
-    { title: "Requests" },
-    {
-      name: "description",
-      content: "What people have asked Alan to build, and the points behind each ask.",
-    },
-  ]
-}
-
 export default function HomeRoute() {
   return <ViewPageContent navItemIdParam={NAV_PARAM} />
 }

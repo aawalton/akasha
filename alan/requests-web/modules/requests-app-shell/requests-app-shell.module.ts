@@ -18,7 +18,7 @@ export const requestsAppShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The name over the sidebar is the title of the Requests web app page.",
+      statement: "The name over the sidebar is the title of the site document at the empty path.",
     },
   ],
 } as const satisfies Module

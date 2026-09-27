@@ -5,16 +5,22 @@ import {
   type HandoverGuardConfig,
   handoverGuard,
 } from "akasha/alan/harness/handover-rr/modules/handover-guard/handover-guard.module.code.ts"
+import { REQUESTS_APP } from "akasha/alan/requests-web/modules/requests-app-id/requests-app-id.module.code.ts"
 import { REQUESTS_SITE } from "akasha/alan/requests-web/modules/requests-handover-site/requests-handover-site.module.code.ts"
 import { NavCommands } from "akasha/alan/requests-web/modules/requests-nav-command/requests-nav-command.module.code.tsx"
 import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/document-nonce.module.code.tsx"
 import { CommandPalette } from "akasha/design/interface/primitive/modules/command-palette/command-palette.module.code.tsx"
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { SiteDocumentHead } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/head/site-document-head.module.code.tsx"
+import {
+  metaFor,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
-import { isRouteErrorResponse, Links, Meta, Outlet, Scripts, ScrollRestoration } from "react-router"
+import { isRouteErrorResponse, Links, Meta, Scripts, ScrollRestoration } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/alan/requests-web/look/alan-requests-web-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
@@ -35,13 +41,12 @@ const GUARD: HandoverGuardConfig = {
   externalReturnPattern: /^https:\/\/[a-z0-9-]+\.alanwalton\.com(\/|$)/,
 }
 
-export const meta: Route.MetaFunction = () => [
-  { title: "Requests" },
-  { name: "description", content: "Requests" },
-]
+export const meta = metaFor(null)
 
-export function loader({ request }: Route.LoaderArgs) {
-  return handoverGuard(REQUESTS_SITE, request, GUARD)
+export async function loader({ request }: Route.LoaderArgs) {
+  const guarded = await handoverGuard(REQUESTS_SITE, request, GUARD)
+  if (guarded !== null) throw guarded
+  return { document: await siteDocumentAt(REQUESTS_APP, "") }
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
@@ -86,7 +91,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
 }
 
 export default function App() {
-  return <Outlet />
+  return <SiteDocumentHead />
 }
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
