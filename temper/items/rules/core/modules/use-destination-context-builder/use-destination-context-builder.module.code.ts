@@ -6,7 +6,7 @@ import {
   ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER,
   type InventoryItemData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { styleChapters } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import { getRecipeResultId } from "akasha/temper/items/core/modules/recipe-result-id-lookup/recipe-result-id-lookup.module.code.ts"
 import {
@@ -76,11 +76,11 @@ export function buildUseDestinationContext(context: RuleMatcherContext): UseDest
           const knownChapters = lookupKnownMotifChapters(context, charId, itemKey.styleId)
           if (knownChapters === undefined) return false
           if (itemKey.chapterId === null) {
-            const styleChapters = STYLE_TO_CHAPTERS[itemKey.styleId]
-            if (styleChapters === undefined || styleChapters.length === 0) {
+            const chapters = styleChapters(itemKey.styleId)
+            if (chapters === undefined || chapters.length === 0) {
               return false
             }
-            return knownChapters.size === styleChapters.length
+            return knownChapters.size === chapters.length
           }
           return knownChapters.has(itemKey.chapterId)
         }

@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/player/completion/modules/held-lore-library-loading/held-lore-library-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.test.ts","typed":false,"deferred":false}
@@ -12,6 +13,9 @@
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/addon/pages/characters/modules/characters-scribing-source-motif-styles/characters-scribing-source-motif-styles.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.test-fixtures.ts","typed":false,"deferred":false}

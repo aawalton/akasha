@@ -4,11 +4,12 @@ import { savedVariablesRootSchema } from "akasha/temper/eso/saved-variable/modul
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
 import {
   knownMotifChaptersByStyleFromLore,
-  STYLE_TO_CHAPTERS,
+  styleChapters,
 } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
+import { loadLoreLibrary } from "akasha/temper/player/completion/modules/held-lore-library-loading/held-lore-library-loading.module.code.ts"
 import type { MorphCharacterCompletion } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import type { MorphSkillLineProgressMap } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import { z } from "zod"
@@ -259,9 +260,9 @@ export function knowsItem(held: CharacterKnowledge, itemKey: ItemKey): boolean {
       const knownChapters = knownMotifChapters(held, itemKey.styleId)
       if (knownChapters === undefined) return false
       if (itemKey.chapterId === null) {
-        const styleChapters = STYLE_TO_CHAPTERS[itemKey.styleId]
-        if (styleChapters === undefined || styleChapters.length === 0) return false
-        return knownChapters.size === styleChapters.length
+        const chapters = styleChapters(itemKey.styleId)
+        if (chapters === undefined || chapters.length === 0) return false
+        return knownChapters.size === chapters.length
       }
       return knownChapters.has(itemKey.chapterId)
     }
@@ -338,6 +339,6 @@ export async function loadTemperCharactersFromPath(
     const reason = err instanceof Error ? err.message : String(err)
     throw new DataError(`${FILE_NAME}: failed to read ${path} — ${reason}`)
   }
-  await loadSkillCatalog()
+  await Promise.all([loadSkillCatalog(), loadLoreLibrary()])
   return parseTemperCharacters(content)
 }

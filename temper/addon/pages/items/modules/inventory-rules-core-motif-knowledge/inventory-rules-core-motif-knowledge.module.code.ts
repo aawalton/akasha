@@ -2,10 +2,16 @@ import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-rec
 import {
   knownMotifChaptersFromLore,
   type LoreBookKnown,
-  STYLE_TO_CHAPTERS,
+  styleChapters,
 } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { loreLibraryOfPages } from "akasha/temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts"
 
 const CRAFTING_MOTIFS_CATEGORY_INDEX = 2
+
+export function motifStyleChapters(styleId: number): readonly number[] | undefined {
+  loreLibraryOfPages()
+  return styleChapters(styleId)
+}
 
 function loreLibraryKnowsBook(
   charData: Record<string, unknown>,
@@ -34,6 +40,7 @@ function loreLibraryKnowsBook(
 }
 
 function knownChapters(charData: Record<string, unknown>, styleId: number): readonly number[] {
+  loreLibraryOfPages()
   const isBookKnown: LoreBookKnown = (collectionIndex, bookIndex) =>
     loreLibraryKnowsBook(charData, collectionIndex, bookIndex)
   return knownMotifChaptersFromLore(isBookKnown, styleId)
@@ -53,7 +60,7 @@ export function knowsMotifByCharData(
 ): boolean {
   const known = knownChapters(charData, styleId)
   if (chapterId !== null) return known.includes(chapterId)
-  const styleChapters = STYLE_TO_CHAPTERS[styleId]
-  if (styleChapters === undefined || styleChapters.length === 0) return false
-  return known.length === styleChapters.length
+  const chapters = motifStyleChapters(styleId)
+  if (chapters === undefined || chapters.length === 0) return false
+  return known.length === chapters.length
 }

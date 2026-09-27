@@ -22,7 +22,7 @@ export const inventoryCharactersReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A motif book is placed by the lore table rather than by its own name.",
+      statement: "A motif book is placed by the lore library rather than by its own name.",
     },
     {
       decisionKind: "decision-kind/departure",

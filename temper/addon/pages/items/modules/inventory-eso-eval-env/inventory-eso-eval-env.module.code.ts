@@ -10,6 +10,7 @@ import {
 import {
   knownChapterCountForStyleByCharData,
   knowsMotifByCharData,
+  motifStyleChapters,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"
 import { countItemInBag } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
@@ -23,7 +24,7 @@ import {
   addonTraitOfEso,
 } from "akasha/temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+
 import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -292,7 +293,7 @@ export function buildEsoEvalEnv(): EvalEnv {
     getCharacterCanLevelMorphs: (charId) => canCharacterLevelMorphs(charId),
     getKnownChapterCountForStyle: (charId, styleId) => {
       if (charId === currentId) {
-        const styleChapters = STYLE_TO_CHAPTERS[styleId]
+        const styleChapters = motifStyleChapters(styleId)
         if (styleChapters === undefined || styleChapters.length === 0) return 0
         let count = 0
         for (const chapter of styleChapters) {

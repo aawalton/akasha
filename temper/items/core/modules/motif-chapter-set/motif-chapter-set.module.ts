@@ -21,5 +21,9 @@ export const motifChapterSet = {
       decisionKind: "decision-kind/departure",
       statement: "The addon, the planner and the tooltip read motif knowledge through this module.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chapters are read off the lore library held, and read again once it changes.",
+    },
   ],
 } as const satisfies Module

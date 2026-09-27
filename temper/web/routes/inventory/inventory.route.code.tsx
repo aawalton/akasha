@@ -8,6 +8,7 @@ import { temperItemAction } from "akasha/temper/player/progress/temper-item-acti
 import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.code.tsx"
 import { ItemCategoryTreeGate } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { KeyedTitlesGate } from "akasha/temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.code.tsx"
+import { LoreLibraryGate } from "akasha/temper/web/modules/lore-library-gate/lore-library-gate.module.code.tsx"
 import { RecipeCatalogGate } from "akasha/temper/web/modules/recipe-catalog-gate/recipe-catalog-gate.module.code.tsx"
 import { RuleTemplatesGate } from "akasha/temper/web/modules/rule-templates-gate/rule-templates-gate.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
@@ -61,60 +62,64 @@ export default function InventoryPage() {
                                             {() => (
                                               <SetCatalogGate fallback={skeleton}>
                                                 {() => (
-                                                  <InventoryPageContent
-                                                    initialTab={tab}
-                                                    initialSearch={
-                                                      searchParams.get("q") ?? undefined
-                                                    }
-                                                    initialSort={
-                                                      searchParams.get("sort") ?? undefined
-                                                    }
-                                                    initialDirection={
-                                                      searchParams.get("dir") ?? undefined
-                                                    }
-                                                    initialQuality={
-                                                      searchParams.get("quality") ?? undefined
-                                                    }
-                                                    initialArmorTrait={
-                                                      searchParams.get("at") ?? undefined
-                                                    }
-                                                    initialWeaponTrait={
-                                                      searchParams.get("wt") ?? undefined
-                                                    }
-                                                    initialJewelryTrait={
-                                                      searchParams.get("jt") ?? undefined
-                                                    }
-                                                    initialCompanionTrait={
-                                                      searchParams.get("ct") ?? undefined
-                                                    }
-                                                    initialStatus={
-                                                      searchParams.get("status") ?? undefined
-                                                    }
-                                                    initialLock={
-                                                      searchParams.get("lock") ?? undefined
-                                                    }
-                                                    initialGoal={
-                                                      searchParams.get("goal") ?? undefined
-                                                    }
-                                                    initialAction={
-                                                      searchParams.get("action") ?? undefined
-                                                    }
-                                                    initialRuleCategory={
-                                                      searchParams.get("rcat") ?? undefined
-                                                    }
-                                                    initialRuleSearch={
-                                                      searchParams.get("rq") ?? undefined
-                                                    }
-                                                    initialRuleSort={
-                                                      searchParams.get("rsort") ?? undefined
-                                                    }
-                                                    initialRuleDir={
-                                                      searchParams.get("rdir") ?? undefined
-                                                    }
-                                                    initialRuleLocation={
-                                                      searchParams.get("rloc") ?? undefined
-                                                    }
-                                                  />
+                                                  <LoreLibraryGate fallback={skeleton}>
+                                                    {() => (
+                                                      <InventoryPageContent
+                                                        initialTab={tab}
+                                                        initialSearch={
+                                                          searchParams.get("q") ?? undefined
+                                                        }
+                                                        initialSort={
+                                                          searchParams.get("sort") ?? undefined
+                                                        }
+                                                        initialDirection={
+                                                          searchParams.get("dir") ?? undefined
+                                                        }
+                                                        initialQuality={
+                                                          searchParams.get("quality") ?? undefined
+                                                        }
+                                                        initialArmorTrait={
+                                                          searchParams.get("at") ?? undefined
+                                                        }
+                                                        initialWeaponTrait={
+                                                          searchParams.get("wt") ?? undefined
+                                                        }
+                                                        initialJewelryTrait={
+                                                          searchParams.get("jt") ?? undefined
+                                                        }
+                                                        initialCompanionTrait={
+                                                          searchParams.get("ct") ?? undefined
+                                                        }
+                                                        initialStatus={
+                                                          searchParams.get("status") ?? undefined
+                                                        }
+                                                        initialLock={
+                                                          searchParams.get("lock") ?? undefined
+                                                        }
+                                                        initialGoal={
+                                                          searchParams.get("goal") ?? undefined
+                                                        }
+                                                        initialAction={
+                                                          searchParams.get("action") ?? undefined
+                                                        }
+                                                        initialRuleCategory={
+                                                          searchParams.get("rcat") ?? undefined
+                                                        }
+                                                        initialRuleSearch={
+                                                          searchParams.get("rq") ?? undefined
+                                                        }
+                                                        initialRuleSort={
+                                                          searchParams.get("rsort") ?? undefined
+                                                        }
+                                                        initialRuleDir={
+                                                          searchParams.get("rdir") ?? undefined
+                                                        }
+                                                        initialRuleLocation={
+                                                          searchParams.get("rloc") ?? undefined
+                                                        }
+                                                      />
+                                                    )}
+                                                  </LoreLibraryGate>
                                                 )}
                                               </SetCatalogGate>
                                             )}

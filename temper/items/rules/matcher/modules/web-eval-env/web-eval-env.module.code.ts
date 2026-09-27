@@ -6,7 +6,7 @@ import {
 import { findCooldownGroup } from "akasha/temper/items/core/modules/cooldown-groups/cooldown-groups.module.code.ts"
 import { isCraftingRankBelowCap } from "akasha/temper/items/core/modules/crafting-passive-ranks/crafting-passive-ranks.module.code.ts"
 import { signatureMatchesItem } from "akasha/temper/items/core/modules/equipment-signature-matcher/equipment-signature-matcher.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { styleChapters } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type { ClassifiedInventoryItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {
   lookupKnownMotifChapters,
@@ -41,9 +41,9 @@ export function buildWebEvalEnv(
           const knownChapters = lookupKnownMotifChapters(ctx, charId, itemKey.styleId)
           if (knownChapters === undefined) return false
           if (itemKey.chapterId === null) {
-            const styleChapters = STYLE_TO_CHAPTERS[itemKey.styleId]
-            if (styleChapters === undefined || styleChapters.length === 0) return false
-            return knownChapters.size === styleChapters.length
+            const chapters = styleChapters(itemKey.styleId)
+            if (chapters === undefined || chapters.length === 0) return false
+            return knownChapters.size === chapters.length
           }
           return knownChapters.has(itemKey.chapterId)
         }
@@ -70,11 +70,11 @@ export function buildWebEvalEnv(
             const knownChapters = lookupKnownMotifChapters(ctx, charId, itemKey.styleId)
             if (knownChapters !== undefined) {
               if (itemKey.chapterId === null) {
-                const styleChapters = STYLE_TO_CHAPTERS[itemKey.styleId]
+                const chapters = styleChapters(itemKey.styleId)
                 if (
-                  styleChapters !== undefined &&
-                  styleChapters.length > 0 &&
-                  knownChapters.size === styleChapters.length
+                  chapters !== undefined &&
+                  chapters.length > 0 &&
+                  knownChapters.size === chapters.length
                 ) {
                   return true
                 }

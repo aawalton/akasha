@@ -2,18 +2,20 @@ import { expect, test } from "bun:test"
 import type { CharacterKnowledge } from "akasha/temper/command/modules/inventory-characters-reading/inventory-characters-reading.module.code.ts"
 import { buildCliEvalEnv } from "akasha/temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { styleChapters } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items/rules/core/modules/scribing-total-script-count/scribing-total-script-count.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
 import type { MorphCharacterCompletion } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
 
 holdSkillCatalogFromCheckout()
+holdLoreLibraryFromCheckout()
 
 const STYLED = 1
 
-const CHAPTERS_OF_STYLED = STYLE_TO_CHAPTERS[STYLED] ?? []
+const CHAPTERS_OF_STYLED = styleChapters(STYLED) ?? []
 
 function knowing(over: Partial<CharacterKnowledge>): CharacterKnowledge {
   return {

@@ -2,8 +2,11 @@ import { describe, expect, test } from "bun:test"
 import {
   knownMotifChaptersByStyleFromLore,
   knownMotifChaptersFromLore,
-  STYLE_TO_CHAPTERS,
+  styleChapters,
 } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
+
+holdLoreLibraryFromCheckout()
 
 const DRAGONGUARD = 76
 const BOOTS = 3
@@ -44,6 +47,6 @@ describe("A known master book teaches every chapter of its motif.", () => {
       (collectionIndex, bookIndex) => `${collectionIndex}:${bookIndex}` === master,
       1
     )
-    expect(known).toEqual(STYLE_TO_CHAPTERS[1] ?? [])
+    expect(known).toEqual(styleChapters(1) ?? [])
   })
 })

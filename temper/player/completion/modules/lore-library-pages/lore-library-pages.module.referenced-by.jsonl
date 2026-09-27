@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"lore-library-pages.module.code.ts","path":"temper/addon/pages/characters/modules/characters-scribing-sources/characters-scribing-sources.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-library-pages.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-enrichment/characters-task-hud-enrichment.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-library-pages.module.code.ts","path":"temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lore-library-pages.module.code.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}

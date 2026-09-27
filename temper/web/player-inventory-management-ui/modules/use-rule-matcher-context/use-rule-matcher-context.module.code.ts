@@ -13,6 +13,7 @@ import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/h
 import { useCharacterList } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { useCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
+import { useHeldLoreLibrary } from "akasha/temper/web/modules/use-lore-library/use-lore-library.module.code.tsx"
 import {
   useCompletionCharacters,
   useCompletionCompanions,
@@ -31,6 +32,7 @@ export function useRuleMatcherContext(
   const skillCatalogRead = heldSkillCatalog()
   const setCatalogRead = heldSetCatalog()
   const companionCatalogRead = useHeldCompanionCatalog()
+  const loreLibraryRead = useHeldLoreLibrary()
 
   const hasCharactersOrCompanions =
     completionCharacters.length > 0 || completionCompanions.length > 0
@@ -58,6 +60,7 @@ export function useRuleMatcherContext(
     skillCatalogRead,
     setCatalogRead,
     companionCatalogRead,
+    loreLibraryRead,
   ])
 
   return useMemo(() => {

@@ -2,9 +2,9 @@ import { asObjectRecord } from "akasha/code/type/narrowing/modules/as-object-rec
 import {
   knownChapterCountForStyleByCharData,
   knowsMotifByCharData,
+  motifStyleChapters,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-parser/motif-name-parser.module.code.ts"
 import type {
   CharacterId,
@@ -113,7 +113,7 @@ export function buildUnlockContext(
     },
     knownChapterCountForStyle: (charId, styleId) => {
       if (charId === currentId) {
-        const styleChapters = STYLE_TO_CHAPTERS[styleId]
+        const styleChapters = motifStyleChapters(styleId)
         if (styleChapters === undefined || styleChapters.length === 0) return 0
         let count = 0
         for (const chapter of styleChapters) {

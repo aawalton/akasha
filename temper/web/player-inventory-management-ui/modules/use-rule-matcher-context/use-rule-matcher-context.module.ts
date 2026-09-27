@@ -10,7 +10,7 @@ export const useRuleMatcherContext = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The builds are read again whenever the skill, set or companion catalogue is read again.",
+        "The builds are read again whenever a skill, set, companion or lore catalogue is read again.",
     },
   ],
 } as const satisfies Module
