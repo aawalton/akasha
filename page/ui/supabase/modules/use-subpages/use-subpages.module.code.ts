@@ -4,6 +4,10 @@ import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import type { PageTypePropertiesMap } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PageWhere } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import {
+  readTargetPageTypeId,
+  readTargetPageTypeSlug,
+} from "akasha/page/core/property-type/modules/relation/relation.module.code.ts"
+import {
   type PageWithProperties,
   toPageWithProperties,
 } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
@@ -22,10 +26,28 @@ interface SubpageSpec {
 
 const MAX_SUBPAGES = 100
 
-function computeSubpageSpecs({
+function reachesHere(
+  config: unknown,
+  pageTypeId: string | undefined,
+  pageTypeSlug: string | undefined
+): boolean {
+  const targetId = readTargetPageTypeId(config)
+  const targetSlug = readTargetPageTypeSlug(config)
+  if (targetId === undefined && targetSlug === undefined) return true
+  return (
+    (targetId !== undefined && targetId === pageTypeId) ||
+    (targetSlug !== undefined && targetSlug === pageTypeSlug)
+  )
+}
+
+export function computeSubpageSpecs({
+  pageTypeId,
+  pageTypeSlug,
   pageTypePropertiesMap,
   pageTypeSlugById,
 }: {
+  pageTypeId: string | undefined
+  pageTypeSlug: string | undefined
   pageTypePropertiesMap: PageTypePropertiesMap
   pageTypeSlugById: ReadonlyMap<string, string>
 }): readonly SubpageSpec[] {
@@ -34,6 +56,7 @@ function computeSubpageSpecs({
     const sourcePageTypeSlug = pageTypeSlugById.get(sourcePageTypeId)
     if (sourcePageTypeSlug == null) continue
     for (const d of defs) {
+      if (!reachesHere(d.config, pageTypeId, pageTypeSlug)) continue
       if (d.id === "parentId" && d.type === "relation") {
         out.push({ sourcePageTypeSlug, propertyId: d.id, kind: "relation" })
       } else if (d.id === "parents" && d.type === "multi-relation") {
@@ -52,16 +75,21 @@ function subpageWhere(spec: SubpageSpec, pageId: string): PageWhere {
 
 export function useSubpages({
   pageId,
+  pageTypeId,
+  pageTypeSlug,
   pageTypePropertiesMap,
   pageTypeSlugById,
 }: {
   pageId: string | undefined
+  pageTypeId: string | undefined
+  pageTypeSlug: string | undefined
   pageTypePropertiesMap: PageTypePropertiesMap
   pageTypeSlugById: ReadonlyMap<string, string>
 }): readonly Subpage[] {
   const specs = useMemo<readonly SubpageSpec[]>(
-    () => computeSubpageSpecs({ pageTypePropertiesMap, pageTypeSlugById }),
-    [pageTypePropertiesMap, pageTypeSlugById]
+    () =>
+      computeSubpageSpecs({ pageTypeId, pageTypeSlug, pageTypePropertiesMap, pageTypeSlugById }),
+    [pageTypeId, pageTypeSlug, pageTypePropertiesMap, pageTypeSlugById]
   )
 
   const [rows, setRows] = useState<readonly Subpage[]>([])

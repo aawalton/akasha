@@ -6,4 +6,15 @@ export const useSubpages = {
   slug: "use-subpages",
   definition: "the pages directly beneath a page",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A parent relation aimed at another page type is never asked for this page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A parent relation stating no target is asked, since it may hold any page.",
+    },
+  ],
 } as const satisfies Module

@@ -42,16 +42,26 @@ function subpageToRow(subpage: Subpage): PageRow {
 
 export function PageDetailSubpages({
   pageId,
+  pageTypeId,
+  pageTypeSlug,
   pageTypePropertiesMap,
   pageTypeSlugById,
   definitions,
 }: {
   pageId: string
+  pageTypeId: string | undefined
+  pageTypeSlug: string | undefined
   pageTypePropertiesMap: PageTypePropertiesMap
   pageTypeSlugById: ReadonlyMap<string, PageTypeSlug>
   definitions: readonly PropertyDefinition[]
 }) {
-  const subpages = useSubpages({ pageId, pageTypePropertiesMap, pageTypeSlugById })
+  const subpages = useSubpages({
+    pageId,
+    pageTypeId,
+    pageTypeSlug,
+    pageTypePropertiesMap,
+    pageTypeSlugById,
+  })
 
   const universalDefs = useMemo(() => selectUniversalDefs(definitions), [definitions])
 

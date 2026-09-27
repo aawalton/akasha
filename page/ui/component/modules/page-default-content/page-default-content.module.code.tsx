@@ -227,6 +227,8 @@ export function PageDefaultContent({
 
               <PageDetailSubpages
                 pageId={id}
+                pageTypeId={pageTypeId}
+                pageTypeSlug={targetSlug ?? pageTypeSlug}
                 pageTypePropertiesMap={pageTypePropertiesMap}
                 pageTypeSlugById={pageTypeSlugById}
                 definitions={allDefinitions}

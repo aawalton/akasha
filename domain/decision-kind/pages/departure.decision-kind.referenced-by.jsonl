@@ -3493,6 +3493,7 @@
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-complete-page-optimistic/use-complete-page-optimistic.module.ts","id":"01a07973-368c-72b7-ae79-826c332e348c"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-page/use-page.module.ts","id":"01a0610c-4306-753f-9ca1-222dd831d0f6"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-record-page-view/use-record-page-view.module.ts","id":"01a05cb4-fefb-7e34-b75b-0f9b37eda5e4"}
+{"propertySlug":"decision-kind","path":"page/ui/supabase/modules/use-subpages/use-subpages.module.ts","id":"01a05cce-25ec-725b-9abc-9b019de92d9b"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.ts","id":"01a05cce-25ec-7756-a742-f0d31cf07f6e"}
 {"propertySlug":"decision-kind","path":"page/ui/supabase/mutation/modules/build-patch-plan/build-patch-plan.module.ts","id":"01a05cb4-fefa-7607-bad3-97aa6193d933"}
 {"propertySlug":"decision-kind","path":"page/unique-kind/pages/page-property.unique-kind.ts","id":"01a0814f-68bb-7000-878e-605b3d7dec8b"}
