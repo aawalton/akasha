@@ -1,11 +1,7 @@
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import {
-  ACHIEVEMENT_CATEGORY_ACTIVITY,
-  ACHIEVEMENT_SUBCATEGORY_ACTIVITY,
-  achievementNameToActivity,
-} from "akasha/temper/player/completion/temper-player-completion/modules/activity-category-mapping/activity-category-mapping.module.code.ts"
+import { achievementNameToActivity } from "akasha/temper/player/completion/temper-player-completion/modules/activity-category-mapping/activity-category-mapping.module.code.ts"
 import type {
   AchievementTallyCategory,
   CharacterAchievementProgressResult,
@@ -74,14 +70,14 @@ export function CharacterAchievementsPanelCard({
     }
 
     const items: CompletionNode[] = characterAchievementTally.map((cat) => {
-      const catActivity = ACHIEVEMENT_CATEGORY_ACTIVITY[cat.name] ?? "other"
+      const catActivity = cat.activity
       return {
         key: cat.name,
         label: cat.name,
         activityCategories: [catActivity],
         children: cat.subCategories.map((sub): CompletionNode => {
           const isGeneral = sub.name === "General"
-          const subActivity = ACHIEVEMENT_SUBCATEGORY_ACTIVITY[sub.name] ?? catActivity
+          const subActivity = sub.activity
           if (isGeneral) {
             return {
               key: sub.name,
@@ -189,14 +185,14 @@ export function CharacterAchievementsPanelCard({
   const cp = requireFirst(selectedProgress)
 
   const items: CompletionNode[] = cp.categories.map((cat) => {
-    const catActivity = ACHIEVEMENT_CATEGORY_ACTIVITY[cat.name] ?? "other"
+    const catActivity = cat.activity
     return {
       key: cat.name,
       label: cat.name,
       activityCategories: [catActivity],
       children: cat.subCategories.map((sub): CompletionNode => {
         const isGeneral = sub.name === "General"
-        const subActivity = ACHIEVEMENT_SUBCATEGORY_ACTIVITY[sub.name] ?? catActivity
+        const subActivity = sub.activity
         if (isGeneral) {
           return {
             key: sub.name,

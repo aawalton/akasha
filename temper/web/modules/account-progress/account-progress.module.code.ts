@@ -97,8 +97,8 @@ export function useAccountProgress({
   } = characterProgress
 
   const itemSetProgress = useMemo(
-    () => transformItemSetProgress(accountCompletion),
-    [accountCompletion]
+    () => transformItemSetProgress(accountCompletion, catalogs.setCategories),
+    [accountCompletion, catalogs.setCategories]
   )
   const accountAchievementProgress = useMemo(
     () =>

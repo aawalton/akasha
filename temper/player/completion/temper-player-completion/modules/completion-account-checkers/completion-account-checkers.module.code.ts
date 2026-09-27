@@ -187,8 +187,8 @@ export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
 
   "grand-master-stations": countChecker(({ account }) => progressAt(grandMasterNodes(account), [])),
 
-  "item-sets": countChecker(({ account }) => {
-    const progress = transformItemSetProgress(account)
+  "item-sets": countChecker(({ account, catalogs }) => {
+    const progress = transformItemSetProgress(account, catalogs.setCategories)
     return { current: progress.slotsUnlocked, total: progress.totalSlots }
   }),
 

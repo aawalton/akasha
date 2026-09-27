@@ -2,6 +2,7 @@ import type { CompanionId } from "akasha/temper/catalog/companion/companions-cor
 import type { SkillLineId } from "akasha/temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.code.ts"
 import type { RaceId } from "akasha/temper/catalog/world/temper-race/modules/race-ids/race-ids.data-table.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 
 export interface CompletionCharacter {
   id: string
@@ -281,6 +282,7 @@ export interface CollectibleSubCategoryProgress {
 export interface CollectibleCategoryProgress {
   categoryIndex: number
   name: string
+  activity: ActivityCategoryId
   subCategories: readonly CollectibleSubCategoryProgress[]
   unlockedCount: number
   totalCount: number

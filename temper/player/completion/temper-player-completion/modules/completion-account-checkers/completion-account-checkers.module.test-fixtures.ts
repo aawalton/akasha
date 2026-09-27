@@ -229,7 +229,7 @@ export function summaryOf({ account, rows, catalogs }: AccountCheckerInput): Acc
     account?.championPointsEarned ?? 0,
     transformAntiquityLoreProgress(account, catalogs.antiquityCategories),
     transformCollectiblesProgress(account, catalogs.collectibleCategories),
-    transformItemSetProgress(account),
+    transformItemSetProgress(account, catalogs.setCategories),
     transformAccountLoreUnion(rows),
     transformAccountPoiUnion(transformPoiProgress(rows, catalogs.poiZones), catalogs.poiZones),
     transformAccountQuestUnion(transformQuestProgress(rows, catalogs.questZones)),

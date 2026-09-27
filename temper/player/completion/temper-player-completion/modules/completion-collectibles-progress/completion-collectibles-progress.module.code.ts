@@ -1,5 +1,6 @@
 import { unlockedCollectibleIds } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type {
   AccountCollectiblesProgress,
   CollectibleCategoryProgress,
@@ -17,8 +18,11 @@ export interface CollectibleCatalogCategory {
   esoCategoryIndex?: number
   parent?: string
   displayOrder?: number
+  activity?: string
   collectibles?: readonly CollectibleCatalogCollectible[]
 }
+
+const NO_ACTIVITY: ActivityCategoryId = "other"
 
 function categoriesByParent(
   catalog: readonly CollectibleCatalogCategory[],
@@ -102,6 +106,7 @@ export function transformCollectiblesProgress(
     categories.push({
       categoryIndex: heading.esoCategoryIndex ?? 0,
       name: heading.title,
+      activity: (heading.activity as ActivityCategoryId | undefined) ?? NO_ACTIVITY,
       subCategories,
       unlockedCount: headingUnlocked,
       totalCount: headingTotal,

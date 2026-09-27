@@ -1,6 +1,6 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import { COLLECTIBLE_CATEGORY_TO_ACTIVITY } from "akasha/temper/player/completion/temper-player-completion/modules/activity-category-mapping/activity-category-mapping.module.code.ts"
+
 import { accountCollectibleNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { childrenOf } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-nodes/completion-progress-nodes.module.code.ts"
@@ -31,15 +31,18 @@ export function AccountCollectiblesPanelCard({
   sortMode,
   sortDirection,
 }: AccountCollectiblesPanelCardProps) {
-  const items: CompletionNode[] = accountCollectibleNodes(collectiblesProgress).map((category) => {
-    const activity = COLLECTIBLE_CATEGORY_TO_ACTIVITY[Number(category.key)] ?? "other"
-    return {
-      key: category.key,
-      label: category.label,
-      activityCategories: [activity],
-      children: withActivityCategories(childrenOf(category), activity),
+  const headings = collectiblesProgress.categories
+  const items: CompletionNode[] = accountCollectibleNodes(collectiblesProgress).map(
+    (category, at) => {
+      const activity = headings[at]?.activity ?? "other"
+      return {
+        key: category.key,
+        label: category.label,
+        activityCategories: [activity],
+        children: withActivityCategories(childrenOf(category), activity),
+      }
     }
-  })
+  )
 
   return (
     <CompletionPanelCard

@@ -1,6 +1,6 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
-import { SET_SUBCATEGORY_TO_ACTIVITY } from "akasha/temper/player/completion/temper-player-completion/modules/activity-category-mapping/activity-category-mapping.module.code.ts"
+
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import type {
   ItemSetOverallProgress,
@@ -67,7 +67,7 @@ export function ItemSetsProgressPanelCard({
   }
 
   const items: CompletionNode[] = itemSetProgress.categories.map((category) => {
-    const activity = SET_SUBCATEGORY_TO_ACTIVITY[category.categoryId] ?? "other"
+    const activity = category.activity
 
     const onlySubcategory =
       category.subcategories.length === 1 ? category.subcategories[0] : undefined

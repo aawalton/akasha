@@ -26,6 +26,14 @@ export const completionAchievementProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A heading's activity is the activity its page links, or the other activity.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A subheading linking no activity takes the activity of its heading.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A character heading merges into the account heading with the same title.",
     },
     {

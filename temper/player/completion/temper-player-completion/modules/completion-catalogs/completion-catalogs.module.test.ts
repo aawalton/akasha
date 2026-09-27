@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { accountArenas } from "akasha/temper/catalog/pursuit/temper-achievement-category/pages/account-arenas/account-arenas.temper-achievement-category.ts"
 import { completionCatalogsFrom } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
+import { arenas } from "akasha/temper/player/progress/temper-activity-category/pages/arenas.temper-activity-category.ts"
 
 const ACHIEVEMENT_ROW = {
   id: "an-id",
@@ -9,6 +10,7 @@ const ACHIEVEMENT_ROW = {
   category: "account",
   displayOrder: 3,
   parent: `temper-achievement-category/${accountArenas.slug}`,
+  activity: `temper-activity-category/${arenas.slug}`,
   achievements: [
     {
       id: "an-entry-id",
@@ -31,6 +33,7 @@ test("a catalog row is narrowed to the keys named, and the page it names is a ba
       category: "account",
       displayOrder: 3,
       parent: accountArenas.slug,
+      activity: arenas.slug,
       achievements: [
         {
           esoAchievementId: 1304,

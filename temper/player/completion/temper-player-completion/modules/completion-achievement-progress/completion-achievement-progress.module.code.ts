@@ -3,11 +3,13 @@ import type {
   AccountCompletion,
   CharacterAchievementProgress,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
 
 const ACCOUNT_TALLY = "account"
 const CHARACTER_TALLY = "character"
+const NO_ACTIVITY: ActivityCategoryId = "other"
 
 interface AchievementCatalogEntry {
   esoAchievementId: number
@@ -22,6 +24,7 @@ export interface AchievementCategoryCatalogEntry {
   category: string
   displayOrder: number
   parent?: string | null | undefined
+  activity?: string | null | undefined
   achievements?: readonly AchievementCatalogEntry[] | undefined
 }
 
@@ -35,6 +38,7 @@ interface AchievementProgressEntry {
 
 interface AchievementSubCategoryProgress {
   name: string
+  activity: ActivityCategoryId
   achievements: readonly AchievementProgressEntry[]
   earnedPoints: number
   totalPoints: number
@@ -42,6 +46,7 @@ interface AchievementSubCategoryProgress {
 
 interface AchievementCategoryProgress {
   name: string
+  activity: ActivityCategoryId
   subCategories: readonly AchievementSubCategoryProgress[]
   earnedPoints: number
   totalPoints: number
@@ -62,12 +67,21 @@ export interface CharacterAchievementProgressResult {
 
 interface AchievementTallySubCategory {
   name: string
+  activity: ActivityCategoryId
   achievements: readonly AchievementCatalogEntry[]
 }
 
 export interface AchievementTallyCategory {
   name: string
+  activity: ActivityCategoryId
   subCategories: readonly AchievementTallySubCategory[]
+}
+
+function activityOf(
+  page: AchievementCategoryCatalogEntry,
+  otherwise: ActivityCategoryId
+): ActivityCategoryId {
+  return typeof page.activity === "string" ? (page.activity as ActivityCategoryId) : otherwise
 }
 
 export function achievementTally(
@@ -79,13 +93,21 @@ export function achievementTally(
     .filter((page) => page.parent === undefined || page.parent === null)
     .sort((a, b) => a.displayOrder - b.displayOrder)
 
-  return heads.map((head) => ({
-    name: head.title,
-    subCategories: here
-      .filter((page) => page.parent === head.slug)
-      .sort((a, b) => a.displayOrder - b.displayOrder)
-      .map((sub) => ({ name: sub.title, achievements: sub.achievements ?? [] })),
-  }))
+  return heads.map((head) => {
+    const activity = activityOf(head, NO_ACTIVITY)
+    return {
+      name: head.title,
+      activity,
+      subCategories: here
+        .filter((page) => page.parent === head.slug)
+        .sort((a, b) => a.displayOrder - b.displayOrder)
+        .map((sub) => ({
+          name: sub.title,
+          activity: activityOf(sub, activity),
+          achievements: sub.achievements ?? [],
+        })),
+    }
+  })
 }
 
 function getSteps(
@@ -177,6 +199,7 @@ export function transformAccountAchievementProgress(
 
       subCategories.push({
         name: sub.name,
+        activity: sub.activity,
         achievements,
         earnedPoints: subEarned,
         totalPoints: subTotal,
@@ -188,6 +211,7 @@ export function transformAccountAchievementProgress(
 
     categories.push({
       name: cat.name,
+      activity: cat.activity,
       subCategories,
       earnedPoints: catEarned,
       totalPoints: catTotal,
@@ -248,6 +272,7 @@ export function transformAccountAchievementProgress(
         } else {
           const newSub: AchievementSubCategoryProgress = {
             name: charSub.name,
+            activity: charSub.activity,
             achievements,
             earnedPoints: subEarned,
             totalPoints: subTotal,
@@ -268,6 +293,7 @@ export function transformAccountAchievementProgress(
       } else {
         const newCat: AchievementCategoryProgress = {
           name: charCat.name,
+          activity: charCat.activity,
           subCategories: [...subMap.values()],
           earnedPoints: charCatEarned,
           totalPoints: charCatTotal,
@@ -333,6 +359,7 @@ export function transformCharacterAchievementProgress(
 
         subCategories.push({
           name: sub.name,
+          activity: sub.activity,
           achievements,
           earnedPoints: subEarned,
           totalPoints: subTotal,
@@ -344,6 +371,7 @@ export function transformCharacterAchievementProgress(
 
       categories.push({
         name: cat.name,
+        activity: cat.activity,
         subCategories,
         earnedPoints: catEarned,
         totalPoints: catTotal,

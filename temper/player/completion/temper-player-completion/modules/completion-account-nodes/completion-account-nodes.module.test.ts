@@ -15,11 +15,13 @@ describe("accountAchievementNodes", () => {
     categories: [
       {
         name: "Dungeons",
+        activity: "group-dungeons",
         earnedPoints: 10,
         totalPoints: 30,
         subCategories: [
           {
             name: "General",
+            activity: "group-dungeons",
             earnedPoints: 10,
             totalPoints: 30,
             achievements: [
@@ -46,6 +48,7 @@ describe("accountCollectibleNodes", () => {
       {
         categoryIndex: 4,
         name: "Mounts",
+        activity: "other",
         unlockedCount: 1,
         totalCount: 2,
         subCategories: [
@@ -63,6 +66,7 @@ describe("accountCollectibleNodes", () => {
       {
         categoryIndex: 5,
         name: "Pets",
+        activity: "other",
         unlockedCount: 0,
         totalCount: 1,
         subCategories: [

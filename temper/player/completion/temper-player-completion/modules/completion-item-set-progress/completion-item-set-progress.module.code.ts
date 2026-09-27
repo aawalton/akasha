@@ -6,6 +6,14 @@ import type {
   AccountCompletion,
   ItemSetPieceProgress,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+
+export interface SetCategoryCatalogEntry {
+  key: string
+  activity?: string
+}
+
+const NO_ACTIVITY: ActivityCategoryId = "other"
 
 const ESO_CATEGORY_NAME_MAP: Record<string, SetCategoryId> = {
   dungeons: "dungeon",
@@ -52,6 +60,7 @@ export interface ItemSetSubcategoryProgress extends SetTotals {
 interface ItemSetCategoryProgress extends SetTotals {
   categoryId: SetCategoryId
   name: string
+  activity: ActivityCategoryId
   subcategories: readonly ItemSetSubcategoryProgress[]
 }
 
@@ -229,9 +238,15 @@ function subcategoriesOfCategory(
 }
 
 export function transformItemSetProgress(
-  completion: AccountCompletion | null | undefined
+  completion: AccountCompletion | null | undefined,
+  setCategoryCatalog: readonly SetCategoryCatalogEntry[]
 ): ItemSetOverallProgress {
   const grouped = groupSetsByCategory(completion?.itemSets)
+  const activities = new Map<string, ActivityCategoryId>()
+  for (const entry of setCategoryCatalog) {
+    if (entry.activity !== undefined)
+      activities.set(entry.key, entry.activity as ActivityCategoryId)
+  }
 
   const sortedCategoryIds = [...setCategories.ids].sort(
     (a, b) => setCategories.data[a].displayOrder - setCategories.data[b].displayOrder
@@ -252,7 +267,13 @@ export function transformItemSetProgress(
       categoryTotals = addTotals(categoryTotals, subcategory)
     }
 
-    categories.push({ categoryId, name: categoryName, subcategories, ...categoryTotals })
+    categories.push({
+      categoryId,
+      name: categoryName,
+      activity: activities.get(categoryId) ?? NO_ACTIVITY,
+      subcategories,
+      ...categoryTotals,
+    })
     overall = addTotals(overall, categoryTotals)
   }
 

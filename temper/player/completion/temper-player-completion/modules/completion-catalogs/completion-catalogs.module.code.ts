@@ -3,6 +3,7 @@ import type { AchievementCategoryCatalogEntry } from "akasha/temper/player/compl
 import type { AntiquityCatalogCategory } from "akasha/temper/player/completion/temper-player-completion/modules/completion-antiquity-lore-progress/completion-antiquity-lore-progress.module.code.ts"
 import type { CadwellLevelCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cadwell-lookup/completion-cadwell-lookup.module.code.ts"
 import type { CollectibleCatalogCategory } from "akasha/temper/player/completion/temper-player-completion/modules/completion-collectibles-progress/completion-collectibles-progress.module.code.ts"
+import type { SetCategoryCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-item-set-progress/completion-item-set-progress.module.code.ts"
 import type { PoiZoneCatalogEntry } from "akasha/temper/player/completion/temper-player-completion/modules/completion-poi-progress/completion-poi-progress.module.code.ts"
 import type { QuestCatalogZone } from "akasha/temper/player/completion/temper-player-completion/modules/completion-quest-progress/completion-quest-progress.module.code.ts"
 import type {
@@ -23,6 +24,7 @@ export interface CompletionCatalogs {
   poiZones: readonly PoiZoneCatalogEntry[]
   questZones: readonly QuestCatalogZone[]
   researchLines: readonly TraitResearchCatalogLine[]
+  setCategories: readonly SetCategoryCatalogEntry[]
   tributePatrons: readonly TributePatronCatalogEntry[]
   zoneCompletionZones: readonly ZoneCompletionCatalogZone[]
 }
@@ -36,11 +38,12 @@ export const NO_COMPLETION_CATALOGS: CompletionCatalogs = {
   poiZones: [],
   questZones: [],
   researchLines: [],
+  setCategories: [],
   tributePatrons: [],
   zoneCompletionZones: [],
 }
 
-const NAMING: readonly string[] = ["parent", "set"]
+const NAMING: readonly string[] = ["activity", "parent", "set"]
 
 function pick(row: Record<string, unknown>, keys: readonly string[]): Record<string, unknown> {
   const out: Record<string, unknown> = {}
@@ -75,21 +78,31 @@ function slim(
 }
 
 export async function completionCatalogsFrom(rowsOf: CatalogRows): Promise<CompletionCatalogs> {
-  const [achievement, antiquity, cadwell, collectible, craft, research, tribute, worldZone] =
-    await Promise.all([
-      rowsOf("temper-achievement-category"),
-      rowsOf("temper-antiquity-category"),
-      rowsOf("temper-cadwell-level"),
-      rowsOf("temper-collectible-category"),
-      rowsOf("temper-craft-type"),
-      rowsOf("temper-research-line"),
-      rowsOf("temper-tribute-patron"),
-      rowsOf("temper-world-zone"),
-    ])
+  const [
+    achievement,
+    antiquity,
+    cadwell,
+    collectible,
+    craft,
+    research,
+    setCategory,
+    tribute,
+    worldZone,
+  ] = await Promise.all([
+    rowsOf("temper-achievement-category"),
+    rowsOf("temper-antiquity-category"),
+    rowsOf("temper-cadwell-level"),
+    rowsOf("temper-collectible-category"),
+    rowsOf("temper-craft-type"),
+    rowsOf("temper-research-line"),
+    rowsOf("temper-set-category"),
+    rowsOf("temper-tribute-patron"),
+    rowsOf("temper-world-zone"),
+  ])
   return {
     achievementCategories: slim(
       achievement,
-      ["slug", "title", "category", "displayOrder", "parent"],
+      ["slug", "title", "category", "displayOrder", "parent", "activity"],
       "achievements",
       ["esoAchievementId", "name", "achievementPoints", "totalSteps"]
     ) as readonly AchievementCategoryCatalogEntry[],
@@ -107,7 +120,7 @@ export async function completionCatalogsFrom(rowsOf: CatalogRows): Promise<Compl
     ]) as readonly CadwellLevelCatalogEntry[],
     collectibleCategories: slim(
       collectible,
-      ["slug", "title", "esoCategoryIndex", "parent", "displayOrder"],
+      ["slug", "title", "esoCategoryIndex", "parent", "displayOrder", "activity"],
       "collectibles",
       ["esoCollectibleId", "collectibleName"]
     ) as readonly CollectibleCatalogCategory[],
@@ -131,6 +144,12 @@ export async function completionCatalogsFrom(rowsOf: CatalogRows): Promise<Compl
       "traitIndex",
       "traitName",
     ]) as readonly TraitResearchCatalogLine[],
+    setCategories: slim(
+      setCategory,
+      ["key", "activity"],
+      null,
+      []
+    ) as readonly SetCategoryCatalogEntry[],
     tributePatrons: slim(tribute, ["title", "esoPatronId", "esoCollectibleId"], "cards", [
       "cardIndex",
       "baseCardName",
