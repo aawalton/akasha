@@ -88,6 +88,14 @@ export const theDatingGameEcho = {
       fact: "Echo proposed meeting Alan again next Saturday, tapping the book she reads to him.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Alan and Echo agreed that their meeting next Saturday is a date.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

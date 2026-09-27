@@ -10,7 +10,7 @@ export const theDatingGame00020 = {
   position: 20,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I reach out to shake her hand with a huge smile \"It's a date! I'll see you Saturday!\", then turn to leave.",
   beats: [
@@ -24,5 +24,5 @@ export const theDatingGame00020 = {
   ],
   issues: ['"Rock Canyon opens dark between the mountains, where the day began" - Leave It Open'],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
