@@ -10,7 +10,7 @@ export const theDatingGame00019 = {
   position: 19,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "\"That was amazing! That was the best narration I've heard of anything ever, and I'm not even exaggerating to make a point. I mean, you've had way longer to practice than anyone else, and I'm sure your curse made it so you had to practice whether you wanted to or not, which sucks. But what a blessing for your narrative skills. I could listen to you all day.\"",
   beats: [
@@ -28,5 +28,5 @@ export const theDatingGame00019 = {
     '"Next Saturday," she says, in her announcer\'s voice, and lifts her eyebrows, pleased with the plan.',
     "A system window opens: [Echo, Closeness Level 2: a friend you are getting to know.]",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
