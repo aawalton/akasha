@@ -16,5 +16,9 @@ export const temperAppShell = {
       decisionKind: "decision-kind/departure",
       statement: "Its brand and sign-out wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "No screen inside it is drawn until the web phrases are read and held.",
+    },
   ],
 } as const satisfies Module

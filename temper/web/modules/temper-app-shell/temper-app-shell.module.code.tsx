@@ -16,7 +16,10 @@ import {
   TEMPER_APP,
   TEMPER_APP_ID,
 } from "akasha/temper/web/modules/temper-app-id/temper-app-id.module.code.ts"
-import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import {
+  usePhrase,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { temperAppShellBrand } from "akasha/temper/web/phrase/pages/temper-app-shell-brand.temper-web-phrase.ts"
 import { temperAppShellSignOut } from "akasha/temper/web/phrase/pages/temper-app-shell-sign-out.temper-web-phrase.ts"
 import { LogOut } from "lucide-react"
@@ -58,6 +61,7 @@ interface AppShellProps {
 }
 
 function AppShellInner({ children, ssrNavItems }: AppShellProps) {
+  const phrases = useWebPhrases()
   const phrase = usePhrase()
   const {
     items: dynamicPrimaryItems,
@@ -109,7 +113,7 @@ function AppShellInner({ children, ssrNavItems }: AppShellProps) {
     ]
   )
 
-  return <SharedAppShell config={config}>{children}</SharedAppShell>
+  return <SharedAppShell config={config}>{phrases === null ? null : children}</SharedAppShell>
 }
 
 export function AppShell({ children, ssrNavItems }: AppShellProps) {
