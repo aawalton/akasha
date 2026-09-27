@@ -33,6 +33,11 @@ export const singleton = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A buff, debuff or vampire stage's listing carries the effect rows filed beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other page type is listed without the rows filed beside its pages.",
     },
   ],

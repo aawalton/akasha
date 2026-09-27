@@ -11,6 +11,13 @@ const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-skill": ["effects"],
   "temper-grimoire": ["signatureScripts", "affixScripts"],
   "temper-rule-template": ["conditions"],
+  "temper-buff-major": ["effects"],
+  "temper-buff-minor": ["effects"],
+  "temper-buff-other": ["effects"],
+  "temper-debuff-major": ["effects"],
+  "temper-debuff-minor": ["effects"],
+  "temper-debuff-other": ["effects"],
+  "temper-vampire-stage": ["effects"],
 }
 
 let storePromise: Promise<PagesStore> | null = null
