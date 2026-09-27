@@ -20,5 +20,9 @@ export const setSource = {
       decisionKind: "decision-kind/departure",
       statement: "The pieces' average is read down to the set bonus step pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Sources run up to the most worn pieces the set rule page states.",
+    },
   ],
 } as const satisfies Module

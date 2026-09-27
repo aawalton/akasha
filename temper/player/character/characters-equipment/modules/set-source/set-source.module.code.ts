@@ -20,11 +20,14 @@ interface SetSourceTemplate extends EffectSourceInterface<"sets", Effect> {
   bonusCount: number
 }
 
-function generateSetSources(catalog: SetCatalog): Record<string, SetSourceTemplate> {
+function generateSetSources(
+  catalog: SetCatalog,
+  pieceMost: number
+): Record<string, SetSourceTemplate> {
   const sources: Record<string, SetSourceTemplate> = {}
 
   for (const set of catalog.list) {
-    for (let pieceCount = 1; pieceCount <= 12; pieceCount++) {
+    for (let pieceCount = 1; pieceCount <= pieceMost; pieceCount++) {
       const activeBonuses = set.bonuses.filter((bonus) => bonus.count <= pieceCount)
 
       const effects: Effect[] = activeBonuses.flatMap((bonus) => bonus.effects)
@@ -49,15 +52,26 @@ function generateSetSources(catalog: SetCatalog): Record<string, SetSourceTempla
 
 type WorkedOut = {
   readonly catalog: SetCatalog
+  readonly pieceMost: number
   readonly sources: Readonly<Record<string, SetSourceTemplate>>
 }
 
 let workedOut: WorkedOut | null = null
 
+let pieceMostHeld: number | null = null
+
+export function holdSetRules(pages: Iterable<Readonly<Record<string, unknown>>>): undefined {
+  for (const row of pages)
+    if (typeof row.setPieceMost === "number") pieceMostHeld = row.setPieceMost
+  return undefined
+}
+
 function setSources(): Readonly<Record<string, SetSourceTemplate>> {
   const catalog = setsAll()
-  if (workedOut?.catalog !== catalog) {
-    workedOut = { catalog, sources: generateSetSources(catalog) }
+  const pieceMost = pieceMostHeld
+  if (pieceMost === null) throw new Error("the set rule pages are held with the gear, unread")
+  if (workedOut?.catalog !== catalog || workedOut.pieceMost !== pieceMost) {
+    workedOut = { catalog, pieceMost, sources: generateSetSources(catalog, pieceMost) }
   }
   return workedOut.sources
 }
