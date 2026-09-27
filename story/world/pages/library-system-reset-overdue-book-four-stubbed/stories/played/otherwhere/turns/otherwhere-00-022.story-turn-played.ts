@@ -28,5 +28,5 @@ export const otherwhere00022 = {
   issues: ['"Now it\'s inside the oval with you." - Leave It Open'],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
