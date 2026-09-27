@@ -253,5 +253,17 @@ export const otherwhereHallBack = {
       fact: "The salt along the tail of Nala's oval has worn thin in a patch.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "A small bookworm Nala hooked with the broom bit its bristles and wrenched the broom from her.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala's broom lies outside her salt oval, a small bookworm chewing its bristles.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The broom handle scuffed a gap a hand wide in the edge of Nala's salt oval.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
 } as const satisfies Place
