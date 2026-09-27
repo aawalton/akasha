@@ -27,6 +27,10 @@ export const otherwhereMainHall = {
       fact: "At the main hall's front is the Check-in Counter, a desk five feet tall on a raised platform.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Check-in Counter is carved with trees blossoming into books, words strung like leaves.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
