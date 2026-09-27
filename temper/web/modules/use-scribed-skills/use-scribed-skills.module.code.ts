@@ -38,11 +38,14 @@ export function useScribedSkills(
   const [pendingScriptEdits, setPendingScriptEdits] = useState<PendingScriptEdits | null>(null)
   const [isScribingSelectionOpen, setIsScribingSelectionOpen] = useState(false)
 
+  const skillsRead = skills.data
+  const grimoiresRead = grimoires.data
+
   const scribedSkillDefinitions = useMemo((): readonly Skill[] => {
     return scribing.flatMap((scribedSkill) => {
       const skillId: SkillId = scribedSkill.skillId satisfies SkillId
 
-      const baseSkill = skills.data[skillId]
+      const baseSkill = skillsRead[skillId]
       if (!baseSkill) return []
 
       return [
@@ -55,23 +58,15 @@ export function useScribedSkills(
         },
       ]
     })
-  }, [scribing])
+  }, [scribing, skillsRead])
 
   const sortedScribing = useMemo(() => {
+    const nameOf = (grimoireId: GrimoireId | undefined): string =>
+      grimoireId === undefined ? "" : (grimoiresRead[grimoireId]?.name ?? "")
     return [...scribing]
       .map((skill, originalIndex) => ({ skill, originalIndex }))
-      .sort((a, b) => {
-        const nameA =
-          a.skill.grimoireId && grimoires.has(a.skill.grimoireId)
-            ? grimoires.data[a.skill.grimoireId].name
-            : ""
-        const nameB =
-          b.skill.grimoireId && grimoires.has(b.skill.grimoireId)
-            ? grimoires.data[b.skill.grimoireId].name
-            : ""
-        return nameA.localeCompare(nameB)
-      })
-  }, [scribing])
+      .sort((a, b) => nameOf(a.skill.grimoireId).localeCompare(nameOf(b.skill.grimoireId)))
+  }, [scribing, grimoiresRead])
 
   const handleOpenScribedSkillEdit = (index: number) => {
     const skill = scribing[index]
