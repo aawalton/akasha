@@ -49,7 +49,7 @@ interface AllocationEnv {
   resetClaims: () => void
 }
 
-function useHolderOf(locationKey: string): CharacterId | undefined | null {
+function holderOfUseStack(locationKey: string): CharacterId | undefined | null {
   const kind = classifyLocation(locationKey)
   if (kind === "character") return locationKey as CharacterId
   if (kind === "bank" || kind === "housing-storage") return undefined
@@ -121,11 +121,11 @@ export function createAllocationEnv(context: RuleMatcherContext | undefined): Al
     copies.delete(ci)
     const elsewhere: { holder: CharacterId | undefined; count: number }[] = []
     for (const [other, count] of copies) {
-      const holder = useHolderOf(other.locationKey)
+      const holder = holderOfUseStack(other.locationKey)
       if (holder === null) continue
       elsewhere.push({ holder, count })
     }
-    return { holder: useHolderOf(ci.locationKey) ?? undefined, elsewhere }
+    return { holder: holderOfUseStack(ci.locationKey) ?? undefined, elsewhere }
   }
 
   function beginUseRuleGroup(
