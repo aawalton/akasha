@@ -10,7 +10,7 @@ export const otherwhere00037 = {
   position: 37,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "I go fund the librarian’s quarters, strip out of my bloodied clothes and do my best to clean up in the cold water, then collapse into the bed, naked and exhausted.",
   beats: [
@@ -24,6 +24,9 @@ export const otherwhere00037 = {
     "Morning: the lights brighten again, and she wakes fully rested, her arm's ache gone.",
     "The smell of fresh bread drifts in from somewhere beyond the hall.",
   ],
+  issues: [
+    "\"her arm's ache gone\" - arm is torn and mangled, and she has no healing power; one night can't",
+  ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
