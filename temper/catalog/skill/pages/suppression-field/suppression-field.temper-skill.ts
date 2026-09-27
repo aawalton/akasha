@@ -8,7 +8,7 @@ export const suppressionField = {
   key: "suppression-field",
   baseName: "Negate Magic",
   description:
-    '"Create a globe of magic suppression for 12 seconds, removing and preventing all enemy area of effect abilities from occurring in the area.\\n\\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\\n\\nThe globe also damages enemies for 1038 Magic Damage every 1 second."',
+    "Create a globe of magic suppression for 12 seconds, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.\n\nThe globe also damages enemies for 1038 Magic Damage every 1 second.",
   icon: "/esoui/art/icons/ability_sorcerer_crushing_monsoon.dds",
   esoSkillId: 29861,
   isMorph: true,

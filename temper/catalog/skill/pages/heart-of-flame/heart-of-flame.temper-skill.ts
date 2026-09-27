@@ -8,7 +8,7 @@ export const heartOfFlame = {
   key: "heart-of-flame",
   baseName: "Core of Flame",
   description:
-    '"Let the fire within draw heat to your heart, restoring |cffffff15|r% of your missing Health and |cffffff15|r% of your missing Magicka and Stamina every |cffffff2|r seconds over |cffffff4|r seconds.\\n\\nWhen this ability completes, you release this heat as a blast of fire that deals |cffffff7361|r Flame Damage to nearby enemies."',
+    "Let the fire within draw heat to your heart, restoring |cffffff15|r% of your missing Health and |cffffff15|r% of your missing Magicka and Stamina every |cffffff2|r seconds over |cffffff4|r seconds.\n\nWhen this ability completes, you release this heat as a blast of fire that deals |cffffff7361|r Flame Damage to nearby enemies.",
   icon: "/esoui/art/icons/ability_dragonknight_012_b.dds",
   esoSkillId: 32785,
   isMorph: true,

@@ -8,7 +8,7 @@ export const expunge = {
   key: "expunge",
   baseName: "Expunge",
   description:
-    '"Embrace the power of death, removing up to |cffffff2|r negative effects from yourself.\\n\\nWhile slotted, the cost of all your abilities are reduced by |cffffff3|r%."',
+    "Embrace the power of death, removing up to |cffffff2|r negative effects from yourself.\n\nWhile slotted, the cost of all your abilities are reduced by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_014.dds",
   esoSkillId: 115307,
   isMorph: false,

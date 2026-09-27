@@ -7,7 +7,7 @@ export const snakeblood47831 = {
   title: "Snakeblood",
   key: "snakeblood-47831",
   baseName: "Snakeblood",
-  description: '"Reduces duration of negative effects in potions by 50% when consumed."',
+  description: "Reduces duration of negative effects in potions by 50% when consumed.",
   icon: "/esoui/art/icons/ability_alchemy_005.dds",
   esoSkillId: 47831,
   isMorph: false,

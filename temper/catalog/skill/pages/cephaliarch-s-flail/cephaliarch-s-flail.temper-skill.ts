@@ -8,7 +8,7 @@ export const cephaliarchSFlail = {
   key: "cephaliarch-s-flail",
   baseName: "Abyssal Impact",
   description:
-    '"Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7125|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\\n\\nIf an enemy is hit, you for heal for |cffffff3150|r Health, once per cast.\\n\\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink."',
+    "Infuse your arm with abyssal magic to form tentacles that lash out at your foes dealing |cffffff7125|r Physical Damage and generating Crux. Enemies are immobilized for |cffffff3|r seconds and marked with Abyssal Ink for |cffffff20|r seconds.\n\nIf an enemy is hit, you for heal for |cffffff3150|r Health, once per cast.\n\nYou deal |cffffff5|r% increased damage to enemies drenched in Abyssal Ink.",
   icon: "/esoui/art/icons/ability_arcanist_003_a.dds",
   esoSkillId: 183006,
   isMorph: true,

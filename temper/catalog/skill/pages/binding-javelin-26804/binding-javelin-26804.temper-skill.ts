@@ -8,7 +8,7 @@ export const bindingJavelin26804 = {
   key: "binding-javelin-26804",
   baseName: "Piercing Javelin",
   description:
-    '"Hurl your spear at an enemy with godlike strength, dealing |cffffff4845|r Physical Damage and stunning them for |cffffff4|r seconds.\\n\\nThis ability ignores the enemy\'s Resistances and cannot be blocked."',
+    "Hurl your spear at an enemy with godlike strength, dealing |cffffff4845|r Physical Damage and stunning them for |cffffff4|r seconds.\n\nThis ability ignores the enemy's Resistances and cannot be blocked.",
   icon: "/esoui/art/icons/ability_templar_light_spear.dds",
   esoSkillId: 26804,
   isMorph: true,

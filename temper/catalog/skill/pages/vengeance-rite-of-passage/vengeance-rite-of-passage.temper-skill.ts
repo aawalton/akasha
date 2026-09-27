@@ -8,7 +8,7 @@ export const vengeanceRiteOfPassage = {
   key: "vengeance-rite-of-passage",
   baseName: "Vengeance Rite of Passage",
   description:
-    '"Channel the grace of the gods, healing you or 3 nearby allies for |cffffff12852|r Health every |cffffff1|r second for |cffffff3|r seconds.\\n\\nWhile channeling this ability you gain immunity to all disabling effects."',
+    "Channel the grace of the gods, healing you or 3 nearby allies for |cffffff12852|r Health every |cffffff1|r second for |cffffff3|r seconds.\n\nWhile channeling this ability you gain immunity to all disabling effects.",
   icon: "/esoui/art/icons/ability_templar_rite_of_passage.dds",
   esoSkillId: 237994,
   isMorph: false,

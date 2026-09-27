@@ -8,7 +8,7 @@ export const carve = {
   key: "carve",
   baseName: "Cleave",
   description:
-    '"Focus your strength into a mighty swing, dealing 1742 Bleed Damage to enemies in front of you, and causing them to bleed for an additional 2868 Bleed Damage over 12 seconds.  \\n\\nHitting a target that is already bleeding from this ability extends the duration by 10 seconds, up to a maximum of 32.\\n\\nYou also gain a damage shield that absorbs 1742 damage for 6 seconds."',
+    "Focus your strength into a mighty swing, dealing 1742 Bleed Damage to enemies in front of you, and causing them to bleed for an additional 2868 Bleed Damage over 12 seconds.  \n\nHitting a target that is already bleeding from this ability extends the duration by 10 seconds, up to a maximum of 32.\n\nYou also gain a damage shield that absorbs 1742 damage for 6 seconds.",
   icon: "/esoui/art/icons/ability_2handed_002_a.dds",
   esoSkillId: 39754,
   isMorph: true,

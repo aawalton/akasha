@@ -8,7 +8,7 @@ export const pulsar = {
   key: "pulsar",
   baseName: "Impulse",
   description:
-    '"Release a surge of elemental energy, dealing 1742 Magic Damage to nearby enemies and afflicting them with Minor Mangle, reducing their Max Health by 10% for 10 seconds.\\n\\nFlame Pulsar hits Burning enemies with Pulsar Afterburn, which deals more damage based on their missing Health.\\n\\nFrost Pulsar also provides Minor Protection.\\n\\nStorm Pulsar\'s damage increases based on the number of enemies hit."',
+    "Release a surge of elemental energy, dealing 1742 Magic Damage to nearby enemies and afflicting them with Minor Mangle, reducing their Max Health by 10% for 10 seconds.\n\nFlame Pulsar hits Burning enemies with Pulsar Afterburn, which deals more damage based on their missing Health.\n\nFrost Pulsar also provides Minor Protection.\n\nStorm Pulsar's damage increases based on the number of enemies hit.",
   icon: "/esoui/art/icons/ability_destructionstaff_008_b.dds",
   esoSkillId: 42996,
   isMorph: true,

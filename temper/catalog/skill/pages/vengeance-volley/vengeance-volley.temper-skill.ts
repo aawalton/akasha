@@ -8,7 +8,7 @@ export const vengeanceVolley = {
   key: "vengeance-volley",
   baseName: "Vengeance Volley",
   description:
-    '"Launch a multitude of arrows into the sky to rain down, dealing |cffffff11760|r Physical Damage to up to 3 enemies in the target area after a |cffffff2|r second delay."',
+    "Launch a multitude of arrows into the sky to rain down, dealing |cffffff11760|r Physical Damage to up to 3 enemies in the target area after a |cffffff2|r second delay.",
   icon: "/esoui/art/icons/ability_bow_003.dds",
   esoSkillId: 241258,
   isMorph: false,

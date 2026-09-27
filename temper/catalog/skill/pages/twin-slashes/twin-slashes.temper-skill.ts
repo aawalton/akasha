@@ -8,7 +8,7 @@ export const twinSlashes = {
   key: "twin-slashes",
   baseName: "Twin Slashes",
   description:
-    '"Slice an enemy with both weapons to cause deep lacerations, dealing |cffffff2017|r Bleed Damage with each weapon and causing them to bleed for an additional |cffffff11420|r Bleed Damage over |cffffff20|r seconds."',
+    "Slice an enemy with both weapons to cause deep lacerations, dealing |cffffff2017|r Bleed Damage with each weapon and causing them to bleed for an additional |cffffff11420|r Bleed Damage over |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_dualwield_001.dds",
   esoSkillId: 28379,
   isMorph: false,

@@ -8,7 +8,7 @@ export const imbueWeapon = {
   key: "imbue-weapon",
   baseName: "Imbue Weapon",
   description:
-    '"Infuse your weapon with power, causing your next Light Attack used within |cffffff2|r seconds to deal an additional |cffffff7269|r Physical Damage.\\n\\nIf the power is not consumed in time, you restore |cffffff1506|r Stamina."',
+    "Infuse your weapon with power, causing your next Light Attack used within |cffffff2|r seconds to deal an additional |cffffff7269|r Physical Damage.\n\nIf the power is not consumed in time, you restore |cffffff1506|r Stamina.",
   icon: "/esoui/art/icons/ability_psijic_003.dds",
   esoSkillId: 103483,
   isMorph: false,

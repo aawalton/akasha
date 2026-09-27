@@ -8,7 +8,7 @@ export const extendedRitual22262 = {
   key: "extended-ritual-22262",
   baseName: "Cleansing Ritual",
   description:
-    '"Exalt in the sacred light of the Aedra, cleansing up to |cffffff5|r harmful effects from yourself immediately and healing you and nearby allies for |cffffff2657|r Health every |cffffff2|r seconds for |cffffff30|r seconds.\\n\\nAllies in the area can activate the Purify synergy, cleansing all harmful effects from themselves and healing for |cffffff6012|r Health."',
+    "Exalt in the sacred light of the Aedra, cleansing up to |cffffff5|r harmful effects from yourself immediately and healing you and nearby allies for |cffffff2657|r Health every |cffffff2|r seconds for |cffffff30|r seconds.\n\nAllies in the area can activate the Purify synergy, cleansing all harmful effects from themselves and healing for |cffffff6012|r Health.",
   icon: "/esoui/art/icons/ability_templar_extended_ritual.dds",
   esoSkillId: 22262,
   isMorph: true,

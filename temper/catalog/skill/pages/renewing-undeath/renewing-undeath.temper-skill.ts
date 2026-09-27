@@ -8,7 +8,7 @@ export const renewingUndeath = {
   key: "renewing-undeath",
   baseName: "Life amid Death",
   description:
-    '"Release residual fragments of fallen souls at the target location, healing you and your allies for 2399 Health.\\n\\nConsumes a corpse on cast to immediately remove up to 3 negative effects and continue to heal you and your allies in the area for 2390 Health over 5 seconds."',
+    "Release residual fragments of fallen souls at the target location, healing you and your allies for 2399 Health.\n\nConsumes a corpse on cast to immediately remove up to 3 negative effects and continue to heal you and your allies in the area for 2390 Health over 5 seconds.",
   icon: "/esoui/art/icons/ability_necromancer_016_a.dds",
   esoSkillId: 40118017,
   isMorph: true,

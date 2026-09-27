@@ -8,7 +8,7 @@ export const vengeanceRadiantDestruction = {
   key: "vengeance-radiant-destruction",
   baseName: "Vengeance Radiant Destruction",
   description:
-    '"Burn an enemy with a ray of holy fire, dealing |cffffff22260|r Magic Damage over |cffffff4.8|r seconds. Deals up to |cffffff400|r% more damage to enemies below |cffffff33|r% Health."',
+    "Burn an enemy with a ray of holy fire, dealing |cffffff22260|r Magic Damage over |cffffff4.8|r seconds. Deals up to |cffffff400|r% more damage to enemies below |cffffff33|r% Health.",
   icon: "/esoui/art/icons/ability_templar_over_exposure.dds",
   esoSkillId: 237974,
   isMorph: false,

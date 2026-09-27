@@ -8,7 +8,7 @@ export const shrewdOffering34721 = {
   key: "shrewd-offering-34721",
   baseName: "Malevolent Offering",
   description:
-    '"Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff10960|r Health, while draining |cffffff810|r Health from yourself over |cffffff2|r seconds."',
+    "Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff10960|r Health, while draining |cffffff810|r Health from yourself over |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_011_b.dds",
   esoSkillId: 34721,
   isMorph: true,

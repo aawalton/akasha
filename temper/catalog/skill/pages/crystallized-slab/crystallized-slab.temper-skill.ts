@@ -8,7 +8,7 @@ export const crystallizedSlab = {
   key: "crystallized-slab",
   baseName: "Crystallized Shield",
   description:
-    '"Spin a shield of ice around you, absorbing up to 24791 damage from 3 projectiles. \\n\\nEach time you absorb a projectile you launch an icy bolt back at the enemy, dealing 1199 Frost Damage and stunning them for 3 seconds."',
+    "Spin a shield of ice around you, absorbing up to 24791 damage from 3 projectiles. \n\nEach time you absorb a projectile you launch an icy bolt back at the enemy, dealing 1199 Frost Damage and stunning them for 3 seconds.",
   icon: "/esoui/art/icons/ability_warden_002_a.dds",
   esoSkillId: 86142,
   isMorph: true,

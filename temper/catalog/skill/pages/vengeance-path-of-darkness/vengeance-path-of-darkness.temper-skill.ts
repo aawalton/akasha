@@ -8,7 +8,7 @@ export const vengeancePathOfDarkness = {
   key: "vengeance-path-of-darkness",
   baseName: "Vengeance Path of Darkness",
   description:
-    '"Create a corridor of shadows, granting you and up to 3 group members Major Expedition for |cffffff4|r seconds, increasing Movement Speed by |cffffff30|r%."',
+    "Create a corridor of shadows, granting you and up to 3 group members Major Expedition for |cffffff4|r seconds, increasing Movement Speed by |cffffff30|r%.",
   icon: "/esoui/art/icons/ability_nightblade_010.dds",
   esoSkillId: 237647,
   isMorph: false,

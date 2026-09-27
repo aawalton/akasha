@@ -8,7 +8,7 @@ export const arrowSpray = {
   key: "arrow-spray",
   baseName: "Arrow Spray",
   description:
-    '"Fire a burst of arrows in one shot, dealing |cffffff6400|r Physical Damage to enemies in front of you."',
+    "Fire a burst of arrows in one shot, dealing |cffffff6400|r Physical Damage to enemies in front of you.",
   icon: "/esoui/art/icons/ability_bow_005.dds",
   esoSkillId: 31271,
   isMorph: false,

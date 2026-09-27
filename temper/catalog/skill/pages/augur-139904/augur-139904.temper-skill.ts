@@ -8,7 +8,7 @@ export const augur139904 = {
   key: "augur-139904",
   baseName: "Augur",
   description:
-    '"Indicates how near the Antiquity is to the selected location. \\n\\nCan only be used a limited number of times, based on the Antiquity\'s Difficulty.\\n\\nOnly works on |cFFFFFFthe lowest three layers|r of dirt and rocks. Cannot detect Bonus Loot.\\n\\n|cFFFFFFUsing Augur does not consume a turn.|r"',
+    "Indicates how near the Antiquity is to the selected location. \n\nCan only be used a limited number of times, based on the Antiquity's Difficulty.\n\nOnly works on |cFFFFFFthe lowest three layers|r of dirt and rocks. Cannot detect Bonus Loot.\n\n|cFFFFFFUsing Augur does not consume a turn.|r",
   icon: "/esoui/art/icons/u26_ability_digging_04.dds",
   esoSkillId: 139904,
   isMorph: false,

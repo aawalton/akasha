@@ -8,7 +8,7 @@ export const shadowyDisguise25380 = {
   key: "shadowy-disguise-25380",
   baseName: "Shadow Cloak",
   description:
-    '"Cloak yourself in shadow to become invisible. When moving your Magicka Recovery is disabled and when not moving Shadowy Disguise is half cost. Your next direct damage attack will Critically Strike.\\n\\nWhen Shadowy Disguise begins or ends, you gain Born From Shadow for |cffffff10|r seconds, increasing your damage done to monsters by |cffffff10|r%.\\n\\nWhile slotted on either bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%."',
+    "Cloak yourself in shadow to become invisible. When moving your Magicka Recovery is disabled and when not moving Shadowy Disguise is half cost. Your next direct damage attack will Critically Strike.\n\nWhen Shadowy Disguise begins or ends, you gain Born From Shadow for |cffffff10|r seconds, increasing your damage done to monsters by |cffffff10|r%.\n\nWhile slotted on either bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_nightblade_004_a.dds",
   esoSkillId: 25380,
   isMorph: true,

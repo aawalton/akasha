@@ -8,7 +8,7 @@ export const runeguardOfFreedom = {
   key: "runeguard-of-freedom",
   baseName: "Runic Defense",
   description:
-    '"Cast forth a complex rune granting you and your group members Minor Resolve for 20 seconds, increasing your Armor by 2974.\\n\\nYou gain Minor Protection for 20 seconds, reducing your damage taken by 5%.\\n\\nThe first time you are damaged while below 50% Health, Minor Protection is consumed to heal you for 2400 Health, scaling off your Max Health, and gain 3300 Armor and Crowd Control Immunity for 7 seconds. This immunity can occur once every 30 seconds."',
+    "Cast forth a complex rune granting you and your group members Minor Resolve for 20 seconds, increasing your Armor by 2974.\n\nYou gain Minor Protection for 20 seconds, reducing your damage taken by 5%.\n\nThe first time you are damaged while below 50% Health, Minor Protection is consumed to heal you for 2400 Health, scaling off your Max Health, and gain 3300 Armor and Crowd Control Immunity for 7 seconds. This immunity can occur once every 30 seconds.",
   icon: "/esoui/art/icons/ability_arcanist_010_b.dds",
   esoSkillId: 40186489,
   isMorph: true,

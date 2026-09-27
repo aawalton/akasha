@@ -8,7 +8,7 @@ export const mysticGuard61536 = {
   key: "mystic-guard-61536",
   baseName: "Guard",
   description:
-    '"Create a lifebond between you and an allied player. While bonded, |cffffff30|r% of the damage they take is instead redistributed to you.\\n\\nYou and your bonded ally also gain Minor Vitality, increasing your healing received and damage shield strength by |cffffff6|r%.\\n\\nThe bond will remain until you recast the spell or move more than |cffffff15|r meters away from your ally."',
+    "Create a lifebond between you and an allied player. While bonded, |cffffff30|r% of the damage they take is instead redistributed to you.\n\nYou and your bonded ally also gain Minor Vitality, increasing your healing received and damage shield strength by |cffffff6|r%.\n\nThe bond will remain until you recast the spell or move more than |cffffff15|r meters away from your ally.",
   icon: "/esoui/art/icons/ability_ava_mystic_guard.dds",
   esoSkillId: 61536,
   isMorph: true,

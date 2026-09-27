@@ -7,8 +7,7 @@ export const resistFrost36627 = {
   title: "Resist Frost",
   key: "resist-frost-36627",
   baseName: "Resist Frost",
-  description:
-    '"Increases your Max Health by |cffffff333|r and Frost Resistance by |cffffff1540|r."',
+  description: "Increases your Max Health by |cffffff333|r and Frost Resistance by |cffffff1540|r.",
   icon: "/esoui/art/icons/ability_sorcerer_012.dds",
   esoSkillId: 36627,
   isMorph: false,

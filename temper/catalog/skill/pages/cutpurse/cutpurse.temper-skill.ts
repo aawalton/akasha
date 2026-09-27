@@ -8,7 +8,7 @@ export const cutpurse = {
   key: "cutpurse",
   baseName: "Cutpurse",
   description:
-    '"Increases your experience gain with the Medium Armor skill line by 15%.\\n\\nIncreases your chance to successfully pickpocket by 5%."',
+    "Increases your experience gain with the Medium Armor skill line by 15%.\n\nIncreases your chance to successfully pickpocket by 5%.",
   icon: "/esoui/art/icons/ability_armor_010.dds",
   esoSkillId: 36063,
   isMorph: false,

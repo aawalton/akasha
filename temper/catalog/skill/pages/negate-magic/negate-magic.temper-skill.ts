@@ -8,7 +8,7 @@ export const negateMagic = {
   key: "negate-magic",
   baseName: "Negate Magic",
   description:
-    '"Create a globe of magic suppression for |cffffff12|r seconds, removing and preventing all enemy area of effect abilities from occurring in the area.\\n\\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned."',
+    "Create a globe of magic suppression for |cffffff12|r seconds, removing and preventing all enemy area of effect abilities from occurring in the area.\n\nEnemies within the globe are stunned, while enemy players will be silenced rather than stunned.",
   icon: "/esoui/art/icons/ability_sorcerer_monsoon.dds",
   esoSkillId: 27706,
   isMorph: false,

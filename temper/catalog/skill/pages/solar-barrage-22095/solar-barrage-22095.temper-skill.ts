@@ -8,7 +8,7 @@ export const solarBarrage22095 = {
   key: "solar-barrage-22095",
   baseName: "Solar Flare",
   description:
-    '"Conjure solar energy to blast enemies around you, dealing |cffffff1516|r Magic Damage every |cffffff2|r seconds and increasing your damage done with class abilities by |cffffff5|r% for |cffffff20|r seconds.\\n\\nWhile this ability is active you gain Empower, increasing the damage of your Heavy Attacks against monsters by |cffffff70|r%."',
+    "Conjure solar energy to blast enemies around you, dealing |cffffff1516|r Magic Damage every |cffffff2|r seconds and increasing your damage done with class abilities by |cffffff5|r% for |cffffff20|r seconds.\n\nWhile this ability is active you gain Empower, increasing the damage of your Heavy Attacks against monsters by |cffffff70|r%.",
   icon: "/esoui/art/icons/ability_templar_solar_power.dds",
   esoSkillId: 22095,
   isMorph: true,

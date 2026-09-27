@@ -8,7 +8,7 @@ export const blightedBlastbones = {
   key: "blighted-blastbones",
   baseName: "Sacrificial Bones",
   description:
-    '"Summon a decaying skeleton from the ground after 2.5 seconds. The skeleton runs after the target and explodes when it gets close to them, dealing 3600 Disease Damage to all enemies nearby and applying the Diseased status effect and Major Defile to them for 4 seconds, reducing their healing received and damage shield strength by 12%.\\n\\nCreates a corpse on death."',
+    "Summon a decaying skeleton from the ground after 2.5 seconds. The skeleton runs after the target and explodes when it gets close to them, dealing 3600 Disease Damage to all enemies nearby and applying the Diseased status effect and Major Defile to them for 4 seconds, reducing their healing received and damage shield strength by 12%.\n\nCreates a corpse on death.",
   icon: "/esoui/art/icons/ability_necromancer_002_a.dds",
   esoSkillId: 40117690,
   isMorph: true,

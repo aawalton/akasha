@@ -8,7 +8,7 @@ export const lavaWhip = {
   key: "lava-whip",
   baseName: "Lava Whip",
   description:
-    '"Lash an enemy with flame, dealing |cffffff8076|r Flame Damage.\\n\\nHitting an Off Balance enemy grants |cffffff5|r stacks of Volcanic Whip for |cffffff20|r seconds, up to once every |cffffff20|r seconds.\\n\\nVolcanic Whip replaces this ability and consumes a stack to instead deal |cffffff15931|r Flame Damage to your target and all nearby enemies."',
+    "Lash an enemy with flame, dealing |cffffff8076|r Flame Damage.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Volcanic Whip for |cffffff20|r seconds, up to once every |cffffff20|r seconds.\n\nVolcanic Whip replaces this ability and consumes a stack to instead deal |cffffff15931|r Flame Damage to your target and all nearby enemies.",
   icon: "/esoui/art/icons/ability_dragonknight_001.dds",
   esoSkillId: 23806,
   isMorph: false,

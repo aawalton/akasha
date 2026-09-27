@@ -8,7 +8,7 @@ export const spiritMender = {
   key: "spirit-mender",
   baseName: "Spirit Mender",
   description:
-    '"Conjure a ghostly spirit to do your bidding and stay by your side for |cffffff16|r seconds. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring |cffffff2191|r Health.\\n\\nCreates a corpse on death if you are in combat."',
+    "Conjure a ghostly spirit to do your bidding and stay by your side for |cffffff16|r seconds. The spirit heals you or the lowest Health ally around you every |cffffff2|r seconds, restoring |cffffff2191|r Health.\n\nCreates a corpse on death if you are in combat.",
   icon: "/esoui/art/icons/ability_necromancer_015.dds",
   esoSkillId: 115710,
   isMorph: false,

@@ -7,7 +7,7 @@ export const vengeanceCrystalShard = {
   title: "Vengeance Crystal Shard",
   key: "vengeance-crystal-shard",
   baseName: "Vengeance Crystal Shard",
-  description: '"Conjure dark crystals to bombard an enemy, dealing |cffffff11519|r Magic Damage."',
+  description: "Conjure dark crystals to bombard an enemy, dealing |cffffff11519|r Magic Damage.",
   icon: "/esoui/art/icons/ability_sorcerer_thunderclap.dds",
   esoSkillId: 237792,
   isMorph: false,

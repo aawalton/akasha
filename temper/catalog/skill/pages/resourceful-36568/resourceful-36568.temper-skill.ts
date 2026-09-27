@@ -8,7 +8,7 @@ export const resourceful36568 = {
   key: "resourceful-36568",
   baseName: "Resourceful",
   description:
-    '"Increases your Max Magicka and Max Stamina by |cffffff333|r.\\n\\nWhen you drink a potion, you restore |cffffff1000|r Health, Magicka, and Stamina."',
+    "Increases your Max Magicka and Max Stamina by |cffffff333|r.\n\nWhen you drink a potion, you restore |cffffff1000|r Health, Magicka, and Stamina.",
   icon: "/esoui/art/icons/ability_templar_009.dds",
   esoSkillId: 36568,
   isMorph: false,

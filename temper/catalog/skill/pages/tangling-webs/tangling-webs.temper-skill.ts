@@ -8,7 +8,7 @@ export const tanglingWebs = {
   key: "tangling-webs",
   baseName: "Trapping Webs",
   description:
-    '"Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by 50% and dealing 1742 Physical Damage. After 10 seconds the webs explode, dealing 2323 Poison Damage to enemies within.\\n\\nA ranged ally can activate the Arachnophobia synergy on an affected enemy, dealing 2249 Poison Damage to them, fearing them for 4 seconds, and summoning a spider to attack for 10 seconds. The spider bites enemies for 673 Physical Damage."',
+    "Hurl webs to ensnare your foes, reducing the Movement Speed of enemies in the area by 50% and dealing 1742 Physical Damage. After 10 seconds the webs explode, dealing 2323 Poison Damage to enemies within.\n\nA ranged ally can activate the Arachnophobia synergy on an affected enemy, dealing 2249 Poison Damage to them, fearing them for 4 seconds, and summoning a spider to attack for 10 seconds. The spider bites enemies for 673 Physical Damage.",
   icon: "/esoui/art/icons/ability_undaunted_003_b.dds",
   esoSkillId: 43477,
   isMorph: true,

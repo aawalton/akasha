@@ -8,7 +8,7 @@ export const vengeanceGibberingShield = {
   key: "vengeance-gibbering-shield",
   baseName: "Vengeance Gibbering Shield",
   description:
-    '"Gather the true strength of Apocrypha around you, forming protective tentacles and a damage shield that absorbs |cffffff60%|r of all damage for |cffffff10|r seconds, up to a max of |cffffff80500|r damage.\\n\\nWhen the shield collapses you lash out, dealing |cffffff13440|r Magic Damage to up to 3 enemies within 5 meters."',
+    "Gather the true strength of Apocrypha around you, forming protective tentacles and a damage shield that absorbs |cffffff60%|r of all damage for |cffffff10|r seconds, up to a max of |cffffff80500|r damage.\n\nWhen the shield collapses you lash out, dealing |cffffff13440|r Magic Damage to up to 3 enemies within 5 meters.",
   icon: "/esoui/art/icons/ability_arcanist_012.dds",
   esoSkillId: 238274,
   isMorph: false,

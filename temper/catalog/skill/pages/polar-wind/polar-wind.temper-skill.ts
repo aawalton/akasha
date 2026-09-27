@@ -8,7 +8,7 @@ export const polarWind = {
   key: "polar-wind",
   baseName: "Arctic Wind",
   description:
-    '"Envelop yourself in winter winds, instantly healing for 4958 Health and healing for an additional 1365 Health every 2 seconds over 10 seconds. You also heal a nearby ally for 3305 Health. This ability scales off your Max Health."',
+    "Envelop yourself in winter winds, instantly healing for 4958 Health and healing for an additional 1365 Health every 2 seconds over 10 seconds. You also heal a nearby ally for 3305 Health. This ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_warden_003_a.dds",
   esoSkillId: 86155,
   isMorph: true,

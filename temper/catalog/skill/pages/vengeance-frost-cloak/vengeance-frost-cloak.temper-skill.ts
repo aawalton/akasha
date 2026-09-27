@@ -8,7 +8,7 @@ export const vengeanceFrostCloak = {
   key: "vengeance-frost-cloak",
   baseName: "Vengeance Frost Cloak",
   description:
-    '"Wrap a thick cloak of ice around yourself and up to 2 grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds."',
+    "Wrap a thick cloak of ice around yourself and up to 2 grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_warden_001.dds",
   esoSkillId: 238076,
   isMorph: false,

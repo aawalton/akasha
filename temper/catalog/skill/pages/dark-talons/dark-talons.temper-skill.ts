@@ -8,7 +8,7 @@ export const darkTalons = {
   key: "dark-talons",
   baseName: "Dark Talons",
   description:
-    '"Call forth talons from the ground, dealing |cffffff6400|r Flame Damage to enemies near you and immobilizing them for |cffffff4|r seconds. \\n\\nAn ally near the talons can activate the Ignite synergy, dealing |cffffff10328|r Flame Damage to all enemies held within them."',
+    "Call forth talons from the ground, dealing |cffffff6400|r Flame Damage to enemies near you and immobilizing them for |cffffff4|r seconds. \n\nAn ally near the talons can activate the Ignite synergy, dealing |cffffff10328|r Flame Damage to all enemies held within them.",
   icon: "/esoui/art/icons/ability_dragonknight_010.dds",
   esoSkillId: 20245,
   isMorph: false,

@@ -8,7 +8,7 @@ export const pounce = {
   key: "pounce",
   baseName: "Pounce",
   description:
-    '"Pounce on an enemy with primal fury, dealing |cffffff4901|r Bleed Damage and applying the Hemorrhaging status effect.\\n\\nWhen you are |cffffff7|r meters or closer this ability becomes Carnage, which causes you to rip into an enemy and deal |cffffff4893|r Bleed Damage over |cffffff12|r seconds, dealing up to |cffffff450|r% more damage to enemies under |cffffff100|r% Health."',
+    "Pounce on an enemy with primal fury, dealing |cffffff4901|r Bleed Damage and applying the Hemorrhaging status effect.\n\nWhen you are |cffffff7|r meters or closer this ability becomes Carnage, which causes you to rip into an enemy and deal |cffffff4893|r Bleed Damage over |cffffff12|r seconds, dealing up to |cffffff450|r% more damage to enemies under |cffffff100|r% Health.",
   icon: "/esoui/art/icons/u50_ability_werewolf_pounce.dds",
   esoSkillId: 32632,
   isMorph: false,

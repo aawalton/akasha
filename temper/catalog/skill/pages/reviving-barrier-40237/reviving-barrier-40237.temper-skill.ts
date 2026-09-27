@@ -8,7 +8,7 @@ export const revivingBarrier40237 = {
   key: "reviving-barrier-40237",
   baseName: "Barrier",
   description:
-    '"Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff41192|r damage for |cffffff30|r seconds.\\n\\nThe wards also heal you and your group members for |cffffff16965|r Health over |cffffff15|r seconds."',
+    "Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff41192|r damage for |cffffff30|r seconds.\n\nThe wards also heal you and your group members for |cffffff16965|r Health over |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_ava_006_b.dds",
   esoSkillId: 40237,
   isMorph: true,

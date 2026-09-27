@@ -8,7 +8,7 @@ export const criticalSurge = {
   key: "critical-surge",
   baseName: "Surge",
   description:
-    '"Invoke Meridia\'s name to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 33 seconds.\\n\\nWhile active, dealing Critical Damage heals you for 3300 Health. This effect can occur once every 1 second."',
+    "Invoke Meridia's name to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 33 seconds.\n\nWhile active, dealing Critical Damage heals you for 3300 Health. This effect can occur once every 1 second.",
   icon: "/esoui/art/icons/ability_sorcerer_critical_surge.dds",
   esoSkillId: 30406,
   isMorph: true,

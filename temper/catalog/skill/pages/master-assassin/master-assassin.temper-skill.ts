@@ -8,7 +8,7 @@ export const masterAssassin = {
   key: "master-assassin",
   baseName: "Master Assassin",
   description:
-    '"Increases your Critical Chance rating against enemies you are flanking by 1448, increasing your chance to critically strike by |6.6%."',
+    "Increases your Critical Chance rating against enemies you are flanking by 1448, increasing your chance to critically strike by |6.6%.",
   icon: "/esoui/art/icons/passive_weapon_026.dds",
   esoSkillId: 45038,
   isMorph: false,

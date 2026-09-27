@@ -8,7 +8,7 @@ export const vengeanceAspectOfTerror = {
   key: "vengeance-aspect-of-terror",
   baseName: "Vengeance Aspect of Terror",
   description:
-    '"Summon a dark spirit to terrify up to 3 nearby enemies, causing them to cower in fear for |cffffff3|r seconds."',
+    "Summon a dark spirit to terrify up to 3 nearby enemies, causing them to cower in fear for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_016.dds",
   esoSkillId: 237690,
   isMorph: false,

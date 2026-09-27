@@ -8,7 +8,7 @@ export const steelTornado = {
   key: "steel-tornado",
   baseName: "Whirlwind",
   description:
-    '"Launch yourself into a lethal spin, releasing a flurry of blades around you that deals 1742 Physical Damage to nearby enemies. Deals up to 33% more damage to enemies with less than 50% Health."',
+    "Launch yourself into a lethal spin, releasing a flurry of blades around you that deals 1742 Physical Damage to nearby enemies. Deals up to 33% more damage to enemies with less than 50% Health.",
   icon: "/esoui/art/icons/ability_dualwield_005_b.dds",
   esoSkillId: 40744,
   isMorph: true,

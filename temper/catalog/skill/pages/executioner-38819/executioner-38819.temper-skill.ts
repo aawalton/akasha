@@ -8,7 +8,7 @@ export const executioner38819 = {
   key: "executioner-38819",
   baseName: "Reverse Slash",
   description:
-    '"Shift your grip and cut deep, dealing |cffffff4038|r Bleed Damage to your foe. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health."',
+    "Shift your grip and cut deep, dealing |cffffff4038|r Bleed Damage to your foe. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_2handed_004_a.dds",
   esoSkillId: 38819,
   isMorph: true,

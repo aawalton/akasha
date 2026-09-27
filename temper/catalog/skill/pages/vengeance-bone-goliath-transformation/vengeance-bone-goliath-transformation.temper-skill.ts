@@ -8,7 +8,7 @@ export const vengeanceBoneGoliathTransformation = {
   key: "vengeance-bone-goliath-transformation",
   baseName: "Vengeance Bone Goliath Transformation",
   description:
-    '"Become a horrific Bone Goliath, increasing your Max Health by |cffffff70000|r for |cffffff15|r seconds and immediately restoring |cffffff70000|r Health."',
+    "Become a horrific Bone Goliath, increasing your Max Health by |cffffff70000|r for |cffffff15|r seconds and immediately restoring |cffffff70000|r Health.",
   icon: "/esoui/art/icons/ability_necromancer_012.dds",
   esoSkillId: 238236,
   isMorph: false,

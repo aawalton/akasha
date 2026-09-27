@@ -7,7 +7,7 @@ export const vengeanceShieldCharge = {
   title: "Vengeance Shield Charge",
   key: "vengeance-shield-charge",
   baseName: "Vengeance Shield Charge",
-  description: '"Rush an enemy and ram them, stunning them for |cffffff4|r seconds."',
+  description: "Rush an enemy and ram them, stunning them for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_003.dds",
   esoSkillId: 240564,
   isMorph: false,

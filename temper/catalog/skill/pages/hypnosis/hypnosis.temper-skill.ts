@@ -8,7 +8,7 @@ export const hypnosis = {
   key: "hypnosis",
   baseName: "Mesmerize",
   description:
-    '"Subdue enemies around you with your baleful gaze, stunning them for 5 seconds if they are facing your direction.\\n\\nThis stun cannot be blocked."',
+    "Subdue enemies around you with your baleful gaze, stunning them for 5 seconds if they are facing your direction.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_u26_vampire_04_a.dds",
   esoSkillId: 40137861,
   isMorph: true,

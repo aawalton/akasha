@@ -8,7 +8,7 @@ export const emperor = {
   key: "emperor",
   baseName: "Emperor",
   description:
-    '"Increases your Max Health, Magicka, and Stamina while in your campaign, depending on how many Home Keeps you own.\\n\\n1 or less Keep: 38%\\n2 Keeps: 45%\\n3 Keeps: 53%\\n4 Keeps: 60%\\n5 Keeps: 68%\\n6 Keeps: 75%"',
+    "Increases your Max Health, Magicka, and Stamina while in your campaign, depending on how many Home Keeps you own.\n\n1 or less Keep: 38%\n2 Keeps: 45%\n3 Keeps: 53%\n4 Keeps: 60%\n5 Keeps: 68%\n6 Keeps: 75%",
   icon: "/esoui/art/icons/ability_sorcerer_045.dds",
   esoSkillId: 39641,
   isMorph: false,

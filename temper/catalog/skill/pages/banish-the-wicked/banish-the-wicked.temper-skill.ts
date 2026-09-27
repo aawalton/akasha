@@ -7,7 +7,7 @@ export const banishTheWicked = {
   title: "Banish the Wicked",
   key: "banish-the-wicked",
   baseName: "Banish the Wicked",
-  description: '"You generate 3 Ultimate whenever you kill an enemy."',
+  description: "You generate 3 Ultimate whenever you kill an enemy.",
   icon: "/esoui/art/icons/ability_dragonknight_034.dds",
   esoSkillId: 45599,
   isMorph: false,

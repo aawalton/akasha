@@ -8,7 +8,7 @@ export const vengeanceEvasion = {
   key: "vengeance-evasion",
   baseName: "Vengeance Evasion",
   description:
-    '"Shroud yourself in mist to gain Major Evasion, reducing damage taken from area attacks by |cffffff20|r% for |cffffff20|r seconds."',
+    "Shroud yourself in mist to gain Major Evasion, reducing damage taken from area attacks by |cffffff20|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_armor_002.dds",
   esoSkillId: 247587,
   isMorph: false,

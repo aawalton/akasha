@@ -8,7 +8,7 @@ export const energyOrb = {
   key: "energy-orb",
   baseName: "Necrotic Orb",
   description:
-    '"Project a globe of regeneration that slowly floats forward, healing for 489 Health every 1 second to you and nearby allies.\\n\\nAn ally near the globe can activate the Healing Combustion synergy, causing the orb to explode and heal for 2249 Health to nearby allies and restoring 3960 Magicka or Stamina to the activator, whichever maximum is higher."',
+    "Project a globe of regeneration that slowly floats forward, healing for 489 Health every 1 second to you and nearby allies.\n\nAn ally near the globe can activate the Healing Combustion synergy, causing the orb to explode and heal for 2249 Health to nearby allies and restoring 3960 Magicka or Stamina to the activator, whichever maximum is higher.",
   icon: "/esoui/art/icons/ability_undaunted_004b.dds",
   esoSkillId: 43447,
   isMorph: true,

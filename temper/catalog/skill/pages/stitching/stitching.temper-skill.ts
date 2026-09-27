@@ -8,7 +8,7 @@ export const stitching = {
   key: "stitching",
   baseName: "Stitching",
   description:
-    '"Reduces research times by 25%, limits research time to 30 days, and allows the research of three items at once."',
+    "Reduces research times by 25%, limits research time to 30 days, and allows the research of three items at once.",
   icon: "/esoui/art/icons/crafting_light_armor_component_004.dds",
   esoSkillId: 58782,
   isMorph: false,

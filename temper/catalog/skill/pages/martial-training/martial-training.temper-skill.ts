@@ -8,7 +8,7 @@ export const martialTraining = {
   key: "martial-training",
   baseName: "Martial Training",
   description:
-    '"Reduces the cost of your weapon abilities by 8%.\\n\\nReduces the effectiveness of snares applied to you by 15%."',
+    "Reduces the cost of your weapon abilities by 8%.\n\nReduces the effectiveness of snares applied to you by 15%.",
   icon: "/esoui/art/icons/ability_templar_002.dds",
   esoSkillId: 45278,
   isMorph: false,

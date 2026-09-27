@@ -8,7 +8,7 @@ export const vengeanceCrystallizedShield = {
   key: "vengeance-crystallized-shield",
   baseName: "Vengeance Crystallized Shield",
   description:
-    '"Spin a shield of ice around you, absorbing up to |cffffff36225|r damage from projectiles for |cffffff6|r seconds."',
+    "Spin a shield of ice around you, absorbing up to |cffffff36225|r damage from projectiles for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_warden_002.dds",
   esoSkillId: 238089,
   isMorph: false,

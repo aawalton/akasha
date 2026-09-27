@@ -8,7 +8,7 @@ export const crushingShock = {
   key: "crushing-shock",
   baseName: "Force Shock",
   description:
-    '"Focus all the elemental energies with your staff and blast an enemy for 696 Flame Damage, 696 Frost Damage, and 696 Shock Damage.\\n\\nEnemies hit while casting are interrupted, set Off Balance, and stunned for 3 seconds."',
+    "Focus all the elemental energies with your staff and blast an enemy for 696 Flame Damage, 696 Frost Damage, and 696 Shock Damage.\n\nEnemies hit while casting are interrupted, set Off Balance, and stunned for 3 seconds.",
   icon: "/esoui/art/icons/ability_destructionstaff_001a.dds",
   esoSkillId: 48971,
   isMorph: true,

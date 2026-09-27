@@ -8,7 +8,7 @@ export const spellWall = {
   key: "spell-wall",
   baseName: "Shield Wall",
   description:
-    '"Reinforce your shield, allowing you to automatically block all attacks at no cost and reflect all projectiles cast at you for 7 seconds."',
+    "Reinforce your shield, allowing you to automatically block all attacks at no cost and reflect all projectiles cast at you for 7 seconds.",
   icon: "/esoui/art/icons/ability_1handed_006_a.dds",
   esoSkillId: 86333,
   isMorph: true,

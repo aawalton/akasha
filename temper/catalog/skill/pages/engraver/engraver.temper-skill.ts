@@ -7,7 +7,7 @@ export const engraver = {
   title: "Engraver",
   key: "engraver",
   baseName: "Engraver",
-  description: '"Allows the use of Platinum Ounces."',
+  description: "Allows the use of Platinum Ounces.",
   icon: "/esoui/art/icons/passive_jewelerengraver.dds",
   esoSkillId: 103636,
   isMorph: false,

@@ -8,7 +8,7 @@ export const flameLash20816 = {
   key: "flame-lash-20816",
   baseName: "Lava Whip",
   description:
-    '"Lash an enemy with flame, dealing |cffffff8076|r Flame Damage and healing for |cffffff2514|r Health.\\n\\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds.\\n\\nActivating again consumes a stack to deal |cffffff15931|r Flame Damage to your target and all nearby enemies and heals for |cffffff10063|r Health. Consuming all stacks as a Dragonknight increases your damage done by |cffffff7|r%, double against monsters, for |cffffff45|r seconds."',
+    "Lash an enemy with flame, dealing |cffffff8076|r Flame Damage and healing for |cffffff2514|r Health.\n\nHitting an Off Balance enemy grants |cffffff5|r stacks of Power Lash for |cffffff20|r seconds, up to once every |cffffff20|r seconds.\n\nActivating again consumes a stack to deal |cffffff15931|r Flame Damage to your target and all nearby enemies and heals for |cffffff10063|r Health. Consuming all stacks as a Dragonknight increases your damage done by |cffffff7|r%, double against monsters, for |cffffff45|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_001_a.dds",
   esoSkillId: 20816,
   isMorph: true,

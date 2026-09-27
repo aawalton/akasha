@@ -8,7 +8,7 @@ export const expungeAndModify117940 = {
   key: "expunge-and-modify-117940",
   baseName: "Expunge",
   description:
-    '"Embrace the power of death, removing up to |cffffff2|r negative effects from yourself and restoring |cffffff515|r Magicka and Stamina for each negative effect removed.\\n\\nWhile slotted, the cost of all your abilities are reduced by |cffffff3|r%."',
+    "Embrace the power of death, removing up to |cffffff2|r negative effects from yourself and restoring |cffffff515|r Magicka and Stamina for each negative effect removed.\n\nWhile slotted, the cost of all your abilities are reduced by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_014_b.dds",
   esoSkillId: 117940,
   isMorph: true,

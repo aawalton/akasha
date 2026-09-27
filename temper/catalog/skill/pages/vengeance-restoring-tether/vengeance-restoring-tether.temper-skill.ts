@@ -8,7 +8,7 @@ export const vengeanceRestoringTether = {
   key: "vengeance-restoring-tether",
   baseName: "Vengeance Restoring Tether",
   description:
-    '"Siphon the last remnants of life from a corpse, healing for |cffffff13856|r Health to yourself or up to 3 allies around the corpse after |cffffff1|r second. Heals up to |cffffff100|r% more Health to targets under |cffffff50|r% Health."',
+    "Siphon the last remnants of life from a corpse, healing for |cffffff13856|r Health to yourself or up to 3 allies around the corpse after |cffffff1|r second. Heals up to |cffffff100|r% more Health to targets under |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_necromancer_017.dds",
   esoSkillId: 238277,
   isMorph: false,

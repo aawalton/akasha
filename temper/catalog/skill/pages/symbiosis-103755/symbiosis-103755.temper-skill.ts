@@ -8,7 +8,7 @@ export const symbiosis103755 = {
   key: "symbiosis-103755",
   baseName: "Mend Wounds",
   description:
-    '"Invoke the Rites of Moawita, replacing your Light and Heavy Attacks with healing abilities that can be used on allies.\\n\\nYour Light Attacks heal for |cffffff3056|r.\\n\\nYour Heavy Attacks heal for |cffffff2716|r every |cffffff1|r second, and restore |cffffff1155|r Magicka to you for successfully healing.\\n\\nYou heal yourself for |cffffff51|r% of the amount of healing done to the ally."',
+    "Invoke the Rites of Moawita, replacing your Light and Heavy Attacks with healing abilities that can be used on allies.\n\nYour Light Attacks heal for |cffffff3056|r.\n\nYour Heavy Attacks heal for |cffffff2716|r every |cffffff1|r second, and restore |cffffff1155|r Magicka to you for successfully healing.\n\nYou heal yourself for |cffffff51|r% of the amount of healing done to the ally.",
   icon: "/esoui/art/icons/ability_psijic_006_b.dds",
   esoSkillId: 103755,
   isMorph: true,

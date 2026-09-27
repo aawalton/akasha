@@ -8,7 +8,7 @@ export const lightArmorPenalties = {
   key: "light-armor-penalties",
   baseName: "Light Armor Penalties",
   description:
-    '"Each piece of Light Armor does the following:\\n\\nIncreases damage taken from Martial attacks by 1%\\n\\nIncreases the cost of Block by 3%\\n\\nDecreases damage done with Bash by 1%"',
+    "Each piece of Light Armor does the following:\n\nIncreases damage taken from Martial attacks by 1%\n\nIncreases the cost of Block by 3%\n\nDecreases damage done with Bash by 1%",
   icon: "/esoui/art/icons/passive_armor2_light.dds",
   esoSkillId: 152778,
   isMorph: false,

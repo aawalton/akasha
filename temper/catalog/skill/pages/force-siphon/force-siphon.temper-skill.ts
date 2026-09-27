@@ -8,7 +8,7 @@ export const forceSiphon = {
   key: "force-siphon",
   baseName: "Force Siphon",
   description:
-    '"Focus your staff\'s power to apply Minor Lifesteal to an enemy for |cffffff24|r seconds, healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them."',
+    "Focus your staff's power to apply Minor Lifesteal to an enemy for |cffffff24|r seconds, healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them.",
   icon: "/esoui/art/icons/ability_restorationstaff_005.dds",
   esoSkillId: 31531,
   isMorph: false,

@@ -8,7 +8,7 @@ export const runeOfTheColorlessPool183267 = {
   key: "rune-of-the-colorless-pool-183267",
   baseName: "Rune of Eldritch Horror",
   description:
-    '"Etch an amorphous rune on your enemy\'s mind, paralyzing them in fear after a |cffffff1|r second delay, stunning them for |cffffff4|r seconds. This undimensioned phenomenon applies Minor Vulnerability and Minor Brittle for |cffffff20|r seconds, increasing their damage taken by |cffffff5|r% and their Critical Damage taken by |cffffff10|r%.\\n\\nIf used against a monster, the paralyze lasts for |cffffff8|r seconds.\\n\\nThis ability cannot be dodged."',
+    "Etch an amorphous rune on your enemy's mind, paralyzing them in fear after a |cffffff1|r second delay, stunning them for |cffffff4|r seconds. This undimensioned phenomenon applies Minor Vulnerability and Minor Brittle for |cffffff20|r seconds, increasing their damage taken by |cffffff5|r% and their Critical Damage taken by |cffffff10|r%.\n\nIf used against a monster, the paralyze lasts for |cffffff8|r seconds.\n\nThis ability cannot be dodged.",
   icon: "/esoui/art/icons/ability_arcanist_011_b.dds",
   esoSkillId: 183267,
   isMorph: true,

@@ -8,7 +8,7 @@ export const vengeanceImpulse = {
   key: "vengeance-impulse",
   baseName: "Vengeance Impulse",
   description:
-    '"Release a surge of elemental energy, dealing |cffffff8820|r Magic Damage to up to 3 nearby enemies.\\n\\nFire Impulse converts some of the initial hit into damage over time.\\n\\nFrost Impulse costs more but provides Minor Protection.\\n\\nShock Impulse deals less damage but has a chance to deal increased damage."',
+    "Release a surge of elemental energy, dealing |cffffff8820|r Magic Damage to up to 3 nearby enemies.\n\nFire Impulse converts some of the initial hit into damage over time.\n\nFrost Impulse costs more but provides Minor Protection.\n\nShock Impulse deals less damage but has a chance to deal increased damage.",
   icon: "/esoui/art/icons/ability_destructionstaff_008.dds",
   esoSkillId: 241454,
   isMorph: false,

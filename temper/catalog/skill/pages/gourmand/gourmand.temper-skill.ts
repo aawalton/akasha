@@ -7,7 +7,7 @@ export const gourmand = {
   title: "Gourmand",
   key: "gourmand",
   baseName: "Gourmand",
-  description: '"Adds 20 minutes to the duration of any eaten food."',
+  description: "Adds 20 minutes to the duration of any eaten food.",
   icon: "/esoui/art/icons/ability_provisioner_004.dds",
   esoSkillId: 44610,
   isMorph: false,

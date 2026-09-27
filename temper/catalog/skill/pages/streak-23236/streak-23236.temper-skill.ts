@@ -8,7 +8,7 @@ export const streak23236 = {
   key: "streak-23236",
   baseName: "Bolt Escape",
   description:
-    '"Transform yourself into pure energy and flash forward, dealing |cffffff5288|r Shock Damage to enemies in your wake and stunning them for |cffffff3|r seconds.\\n\\nThis effect cannot be blocked.\\n\\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka."',
+    "Transform yourself into pure energy and flash forward, dealing |cffffff5288|r Shock Damage to enemies in your wake and stunning them for |cffffff3|r seconds.\n\nThis effect cannot be blocked.\n\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka.",
   icon: "/esoui/art/icons/ability_sorcerer_streak.dds",
   esoSkillId: 23236,
   isMorph: true,

@@ -8,7 +8,7 @@ export const radiantGlory = {
   key: "radiant-glory",
   baseName: "Radiant Destruction",
   description:
-    '"Burn an enemy with a ray of holy fire, dealing 7482 Magic Damage over 3.8 seconds. Deals up to 500% more damage to enemies below 33% Health.\\n\\nYou heal for 15% of the damage inflicted.\\n\\nThis ability is considered direct damage."',
+    "Burn an enemy with a ray of holy fire, dealing 7482 Magic Damage over 3.8 seconds. Deals up to 500% more damage to enemies below 33% Health.\n\nYou heal for 15% of the damage inflicted.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_templar_under_exposure.dds",
   esoSkillId: 63066,
   isMorph: true,

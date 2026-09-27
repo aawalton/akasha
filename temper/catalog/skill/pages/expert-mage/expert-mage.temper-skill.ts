@@ -8,7 +8,7 @@ export const expertMage = {
   key: "expert-mage",
   baseName: "Expert Mage",
   description:
-    '"Increases your Weapon and Spell Damage by 108 for each Sorcerer ability slotted.\\n\\nCurrent bonus: 0."',
+    "Increases your Weapon and Spell Damage by 108 for each Sorcerer ability slotted.\n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/ability_sorcerer_044.dds",
   esoSkillId: 45195,
   isMorph: false,

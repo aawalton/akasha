@@ -8,7 +8,7 @@ export const resolve = {
   key: "resolve",
   baseName: "Resolve",
   description:
-    '"Increases your Physical and Spell Resistance by 343 for each piece of Heavy Armor equipped.\\n\\nCurrent bonus: 0."',
+    "Increases your Physical and Spell Resistance by 343 for each piece of Heavy Armor equipped.\n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/ability_dragonknight_020.dds",
   esoSkillId: 45533,
   isMorph: false,

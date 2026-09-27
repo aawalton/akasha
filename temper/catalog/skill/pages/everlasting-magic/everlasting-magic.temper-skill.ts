@@ -7,7 +7,7 @@ export const everlastingMagic = {
   title: "Everlasting Magic",
   key: "everlasting-magic",
   baseName: "Everlasting Magic",
-  description: '"Increases the duration of your Mages Guild abilities by 2 seconds."',
+  description: "Increases the duration of your Mages Guild abilities by 2 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_063.dds",
   esoSkillId: 45602,
   isMorph: false,

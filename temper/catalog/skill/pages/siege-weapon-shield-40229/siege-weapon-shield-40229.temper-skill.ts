@@ -8,7 +8,7 @@ export const siegeWeaponShield40229 = {
   key: "siege-weapon-shield-40229",
   baseName: "Siege Shield",
   description:
-    '"Create a protective sphere over your location that reduces damage taken from siege weapons by |cffffff50|r% for you and nearby allies.\\n\\nThe sphere also protects you and your allies\' siege weapons, reducing damage from enemy siege weapons by |cffffff75|r%."',
+    "Create a protective sphere over your location that reduces damage taken from siege weapons by |cffffff50|r% for you and nearby allies.\n\nThe sphere also protects you and your allies' siege weapons, reducing damage from enemy siege weapons by |cffffff75|r%.",
   icon: "/esoui/art/icons/ability_ava_004_b.dds",
   esoSkillId: 40229,
   isMorph: true,

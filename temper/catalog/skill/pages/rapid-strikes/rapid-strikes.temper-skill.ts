@@ -8,7 +8,7 @@ export const rapidStrikes = {
   key: "rapid-strikes",
   baseName: "Flurry",
   description:
-    '"Flood an enemy with steel, battering them with four consecutive attacks that each deal 689 Physical Damage.\\n\\nEach hit increases the damage of the subsequent hit by 5%."',
+    "Flood an enemy with steel, battering them with four consecutive attacks that each deal 689 Physical Damage.\n\nEach hit increases the damage of the subsequent hit by 5%.",
   icon: "/esoui/art/icons/ability_dualwield_002_b.dds",
   esoSkillId: 40590,
   isMorph: true,

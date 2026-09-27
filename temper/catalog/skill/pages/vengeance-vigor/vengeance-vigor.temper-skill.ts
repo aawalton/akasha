@@ -8,7 +8,7 @@ export const vengeanceVigor = {
   key: "vengeance-vigor",
   baseName: "Vengeance Vigor",
   description:
-    '"Let loose a battle cry, instilling you with resolve and healing for |cffffff28916|r Health over |cffffff6|r seconds."',
+    "Let loose a battle cry, instilling you with resolve and healing for |cffffff28916|r Health over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_ava_vigor.dds",
   esoSkillId: 244496,
   isMorph: false,

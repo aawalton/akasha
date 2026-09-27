@@ -8,7 +8,7 @@ export const dawnbreakerOfSmiting40158 = {
   key: "dawnbreaker-of-smiting-40158",
   baseName: "Dawnbreaker",
   description:
-    '"Arm yourself with Meridia\'s sacred sword and dispense her retribution, dealing |cffffff13224|r Physical Damage to enemies in front of you, an additional |cffffff14163|r Physical Damage over |cffffff6|r seconds, and stunning them for |cffffff2|r seconds."',
+    "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing |cffffff13224|r Physical Damage to enemies in front of you, an additional |cffffff14163|r Physical Damage over |cffffff6|r seconds, and stunning them for |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_005_b.dds",
   esoSkillId: 40158,
   isMorph: true,

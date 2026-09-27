@@ -8,7 +8,7 @@ export const vengeanceSiphoningStrikes = {
   key: "vengeance-siphoning-strikes",
   baseName: "Vengeance Siphoning Strikes",
   description:
-    '"Channel a portion of your soul to convert Health to |cffffff2000|r Magicka and Stamina."',
+    "Channel a portion of your soul to convert Health to |cffffff2000|r Magicka and Stamina.",
   icon: "/esoui/art/icons/ability_nightblade_003.dds",
   esoSkillId: 237716,
   isMorph: false,

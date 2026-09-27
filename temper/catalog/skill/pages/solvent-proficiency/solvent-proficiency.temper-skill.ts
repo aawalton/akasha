@@ -8,7 +8,7 @@ export const solventProficiency = {
   key: "solvent-proficiency",
   baseName: "Solvent Proficiency",
   description:
-    '"Allows the Alchemist to use Lorkhan\'s Tears and Alkahest to make Champion 150 potions and poisons."',
+    "Allows the Alchemist to use Lorkhan's Tears and Alkahest to make Champion 150 potions and poisons.",
   icon: "/esoui/art/icons/ability_alchemy_001.dds",
   esoSkillId: 70043,
   isMorph: false,

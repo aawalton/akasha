@@ -8,7 +8,7 @@ export const vengeanceFeralGuardian = {
   key: "vengeance-feral-guardian",
   baseName: "Vengeance Feral Guardian",
   description:
-    '"Rouse a grizzly to maul an enemy for |cffffff15582|r Magic Damage. Deals |cffffff100|r% more damage to enemies below |cffffff25|r% Health."',
+    "Rouse a grizzly to maul an enemy for |cffffff15582|r Magic Damage. Deals |cffffff100|r% more damage to enemies below |cffffff25|r% Health.",
   icon: "/esoui/art/icons/ability_warden_018.dds",
   esoSkillId: 238043,
   isMorph: false,

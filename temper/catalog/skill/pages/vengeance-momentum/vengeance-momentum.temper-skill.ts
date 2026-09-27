@@ -8,7 +8,7 @@ export const vengeanceMomentum = {
   key: "vengeance-momentum",
   baseName: "Vengeance Momentum",
   description:
-    '"Focus your strength and resolve to gain Minor Force, increasing your Critical Damage by |cffffff10|r%, as well as gaining Minor Endurance, increasing your Stamina Recovery by |cffffff15|r% for |cffffff20|r seconds."',
+    "Focus your strength and resolve to gain Minor Force, increasing your Critical Damage by |cffffff10|r%, as well as gaining Minor Endurance, increasing your Stamina Recovery by |cffffff15|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_005.dds",
   esoSkillId: 240483,
   isMorph: false,

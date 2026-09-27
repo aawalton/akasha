@@ -8,7 +8,7 @@ export const sanctumOfTheAbyssalSea = {
   key: "sanctum-of-the-abyssal-sea",
   baseName: "Gibbering Shield",
   description:
-    '"Gather the true strength of Apocrypha as protective tentacles rise from the Abyssal Sea around you. The tentacles form a damage shield that absorbs 60% of all damage for 10 seconds, up to a max of 37697 damage, scaling off your Max Health.\\n\\nWhen the shield collapses you lash out, dealing all of the damage absorbed as Magic Damage to enemies within 5 meters over 10 seconds."',
+    "Gather the true strength of Apocrypha as protective tentacles rise from the Abyssal Sea around you. The tentacles form a damage shield that absorbs 60% of all damage for 10 seconds, up to a max of 37697 damage, scaling off your Max Health.\n\nWhen the shield collapses you lash out, dealing all of the damage absorbed as Magic Damage to enemies within 5 meters over 10 seconds.",
   icon: "/esoui/art/icons/ability_arcanist_012_a.dds",
   esoSkillId: 40192372,
   isMorph: true,

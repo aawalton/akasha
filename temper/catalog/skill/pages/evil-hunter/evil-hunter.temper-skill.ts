@@ -8,7 +8,7 @@ export const evilHunter = {
   key: "evil-hunter",
   baseName: "Expert Hunter",
   description:
-    '"Invoke your expertise in anatomy and enemy behavior to detect stealthed and invisible enemies around you for 5 seconds. Exposed enemies cannot return to stealth or invisibility for 4 seconds. \\n\\nWhile active, increases the damage of your Stamina costing Fighters Guild abilities by 25%.\\n\\nWhile slotted you gain Major Savagery and Prophecy, increasing your Weapon and Spell Critical rating by 2629."',
+    "Invoke your expertise in anatomy and enemy behavior to detect stealthed and invisible enemies around you for 5 seconds. Exposed enemies cannot return to stealth or invisibility for 4 seconds. \n\nWhile active, increases the damage of your Stamina costing Fighters Guild abilities by 25%.\n\nWhile slotted you gain Major Savagery and Prophecy, increasing your Weapon and Spell Critical rating by 2629.",
   icon: "/esoui/art/icons/ability_fightersguild_002_a.dds",
   esoSkillId: 42624,
   isMorph: true,

@@ -8,7 +8,7 @@ export const strife = {
   key: "strife",
   baseName: "Strife",
   description:
-    '"Steal an enemy\'s life force, dealing |cffffff5384|r Magic Damage and healing you or a nearby ally for |cffffff51|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds."',
+    "Steal an enemy's life force, dealing |cffffff5384|r Magic Damage and healing you or a nearby ally for |cffffff51|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_012.dds",
   esoSkillId: 33291,
   isMorph: false,

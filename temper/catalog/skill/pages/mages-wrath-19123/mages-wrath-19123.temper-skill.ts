@@ -8,7 +8,7 @@ export const magesWrath19123 = {
   key: "mages-wrath-19123",
   baseName: "Mages' Fury",
   description:
-    '"Call down lightning to strike an enemy, dealing |cffffff3028|r Shock Damage.\\n\\nIf the enemy falls to or below |cffffff20|r% Health within |cffffff2|r seconds of being struck, an explosion deals an additional |cffffff11735|r Shock Damage to them and all nearby enemies."',
+    "Call down lightning to strike an enemy, dealing |cffffff3028|r Shock Damage.\n\nIf the enemy falls to or below |cffffff20|r% Health within |cffffff2|r seconds of being struck, an explosion deals an additional |cffffff11735|r Shock Damage to them and all nearby enemies.",
   icon: "/esoui/art/icons/ability_sorcerer_mage_wraith.dds",
   esoSkillId: 19123,
   isMorph: true,

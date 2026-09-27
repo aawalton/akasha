@@ -8,7 +8,7 @@ export const vengeanceForceShock = {
   key: "vengeance-force-shock",
   baseName: "Vengeance Force Shock",
   description:
-    '"Focus on one of the elemental energies with your staff and blast an enemy for |cffffff10017|r Flame Damage, |cffffff10017|r Frost Damage, or |cffffff10017|r Shock Damage."',
+    "Focus on one of the elemental energies with your staff and blast an enemy for |cffffff10017|r Flame Damage, |cffffff10017|r Frost Damage, or |cffffff10017|r Shock Damage.",
   icon: "/esoui/art/icons/ability_destructionstaff_001.dds",
   esoSkillId: 241291,
   isMorph: false,

@@ -8,7 +8,7 @@ export const runicJolt = {
   key: "runic-jolt",
   baseName: "Runic Jolt",
   description:
-    '"Craft a defensive Apocryphal rune that deals |cffffff4036|r Magic Damage and applies Minor Maim for |cffffff15|r seconds, reducing their damage done by |cffffff5|r%.\\n\\nThe rune also taunts for |cffffff15|r seconds if it would not cause taunt immunity, and generates Crux. While slotted, damage taken is reduced by |cffffff2|r% per active Crux."',
+    "Craft a defensive Apocryphal rune that deals |cffffff4036|r Magic Damage and applies Minor Maim for |cffffff15|r seconds, reducing their damage done by |cffffff5|r%.\n\nThe rune also taunts for |cffffff15|r seconds if it would not cause taunt immunity, and generates Crux. While slotted, damage taken is reduced by |cffffff2|r% per active Crux.",
   icon: "/esoui/art/icons/ability_arcanist_007.dds",
   esoSkillId: 183165,
   isMorph: false,

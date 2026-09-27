@@ -8,7 +8,7 @@ export const elementalStorm = {
   key: "elemental-storm",
   baseName: "Elemental Storm",
   description:
-    '"Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing |cffffff6057|r Magic Damage every |cffffff1|r second for |cffffff7|r seconds."',
+    "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to all enemies in the area, dealing |cffffff6057|r Magic Damage every |cffffff1|r second for |cffffff7|r seconds.",
   icon: "/esoui/art/icons/ability_destructionstaff_012.dds",
   esoSkillId: 83619,
   isMorph: false,

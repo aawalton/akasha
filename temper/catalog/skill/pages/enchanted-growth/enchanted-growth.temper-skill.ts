@@ -8,7 +8,7 @@ export const enchantedGrowth = {
   key: "enchanted-growth",
   baseName: "Fungal Growth",
   description:
-    '"Seed a large area of mushrooms in front of you, healing you and your allies for 2700 Health. \\n\\nAny target healed gains Minor Intellect and Minor Endurance, increasing their Magicka and Stamina Recovery by 15% for 20 seconds."',
+    "Seed a large area of mushrooms in front of you, healing you and your allies for 2700 Health. \n\nAny target healed gains Minor Intellect and Minor Endurance, increasing their Magicka and Stamina Recovery by 15% for 20 seconds.",
   icon: "/esoui/art/icons/ability_warden_008_b.dds",
   esoSkillId: 93774,
   isMorph: true,

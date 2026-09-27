@@ -8,7 +8,7 @@ export const vengeanceLowSlash = {
   key: "vengeance-low-slash",
   baseName: "Vengeance Low Slash",
   description:
-    '"Surprise an enemy with a deep lunge, dealing |cffffff6678|r Physical Damage and afflicting them with Minor Maim, reducing their damage done by |cffffff5|r% for |cffffff15|r seconds."',
+    "Surprise an enemy with a deep lunge, dealing |cffffff6678|r Physical Damage and afflicting them with Minor Maim, reducing their damage done by |cffffff5|r% for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_001.dds",
   esoSkillId: 240558,
   isMorph: false,

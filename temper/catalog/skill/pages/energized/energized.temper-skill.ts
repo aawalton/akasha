@@ -7,7 +7,7 @@ export const energized = {
   title: "Energized",
   key: "energized",
   baseName: "Energized",
-  description: '"Increases your Physical and Shock Damage by 5%."',
+  description: "Increases your Physical and Shock Damage by 5%.",
   icon: "/esoui/art/icons/ability_sorcerer_015.dds",
   esoSkillId: 45190,
   isMorph: false,

@@ -8,7 +8,7 @@ export const bolsteringDarkness = {
   key: "bolstering-darkness",
   baseName: "Consuming Darkness",
   description:
-    '"Conjure a ring of shadow, reducing the Movement Speed of enemies by 70% and granting you and your allies Major Protection for 10 seconds, reducing your damage taken by 10%.\\n\\nAllies in the area can activate the Hidden Refresh synergy, granting them invisibility, increasing their Movement Speed by 70%, and healing them for 9110 Health over 4 seconds."',
+    "Conjure a ring of shadow, reducing the Movement Speed of enemies by 70% and granting you and your allies Major Protection for 10 seconds, reducing your damage taken by 10%.\n\nAllies in the area can activate the Hidden Refresh synergy, granting them invisibility, increasing their Movement Speed by 70%, and healing them for 9110 Health over 4 seconds.",
   icon: "/esoui/art/icons/ability_nightblade_015_a.dds",
   esoSkillId: 37744,
   isMorph: true,

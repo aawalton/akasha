@@ -8,7 +8,7 @@ export const vengeanceLightningForm = {
   key: "vengeance-lightning-form",
   baseName: "Vengeance Lightning Form",
   description:
-    '"Manifest yourself as pure lightning, zapping up to 3 nearby enemies with electricity dealing |cffffff5880|r Shock Damage.\\n\\nYou also gain Major Resolve for |cffffff20|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r."',
+    "Manifest yourself as pure lightning, zapping up to 3 nearby enemies with electricity dealing |cffffff5880|r Shock Damage.\n\nYou also gain Major Resolve for |cffffff20|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_form.dds",
   esoSkillId: 237954,
   isMorph: false,

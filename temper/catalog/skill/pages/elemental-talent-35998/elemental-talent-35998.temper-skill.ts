@@ -7,7 +7,7 @@ export const elementalTalent35998 = {
   title: "Elemental Talent",
   key: "elemental-talent-35998",
   baseName: "Elemental Talent",
-  description: '"Increases your Weapon and Spell Damage by |cffffff86|r."',
+  description: "Increases your Weapon and Spell Damage by |cffffff86|r.",
   icon: "/esoui/art/icons/ability_armor_005.dds",
   esoSkillId: 35998,
   isMorph: false,

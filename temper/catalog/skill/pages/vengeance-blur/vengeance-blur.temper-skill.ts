@@ -8,7 +8,7 @@ export const vengeanceBlur = {
   key: "vengeance-blur",
   baseName: "Vengeance Blur",
   description:
-    '"Surround yourself in a phantasmic aura to gain Major Resolve and Minor Evasion, increasing your Physical and Spell Resistance by |cffffff5948|r and reducing your damage taken from area attacks by |cffffff10|r% for |cffffff20|r seconds."',
+    "Surround yourself in a phantasmic aura to gain Major Resolve and Minor Evasion, increasing your Physical and Spell Resistance by |cffffff5948|r and reducing your damage taken from area attacks by |cffffff10|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_009.dds",
   esoSkillId: 237632,
   isMorph: false,

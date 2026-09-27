@@ -8,7 +8,7 @@ export const defensiveStance = {
   key: "defensive-stance",
   baseName: "Defensive Posture",
   description:
-    '"Bolster your defenses, gaining a damage shield that absorbs up to 4958 damage for 6 seconds. This portion of the ability scales off your Max Health.\\n\\nYou reflect the next harmful direct damage projectile cast at you, once per cast.\\n\\nWhile slotted and you have a shield equipped, the amount of damage you can block is increased by 10% and the cost of blocking is reduced by 10%."',
+    "Bolster your defenses, gaining a damage shield that absorbs up to 4958 damage for 6 seconds. This portion of the ability scales off your Max Health.\n\nYou reflect the next harmful direct damage projectile cast at you, once per cast.\n\nWhile slotted and you have a shield equipped, the amount of damage you can block is increased by 10% and the cost of blocking is reduced by 10%.",
   icon: "/esoui/art/icons/ability_1handed_004_a.dds",
   esoSkillId: 41358,
   isMorph: true,

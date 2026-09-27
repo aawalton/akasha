@@ -7,7 +7,7 @@ export const lapidaryResearch = {
   title: "Lapidary Research",
   key: "lapidary-research",
   baseName: "Lapidary Research",
-  description: '"Reduces research times by 25%, and limits research time to 30 days."',
+  description: "Reduces research times by 25%, and limits research time to 30 days.",
   icon: "/esoui/art/icons/passive_lapidaryresearch.dds",
   esoSkillId: 108098,
   isMorph: false,

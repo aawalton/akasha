@@ -8,7 +8,7 @@ export const vengeanceAbyssalImpact = {
   key: "vengeance-abyssal-impact",
   baseName: "Vengeance Abyssal Impact",
   description:
-    '"Infuse your arm with abyssal magic to form tentacles that lash out at your foes, dealing |cffffff10143|r Physical Damage to up to 3 enemies and immobilize them for |cffffff3|r seconds."',
+    "Infuse your arm with abyssal magic to form tentacles that lash out at your foes, dealing |cffffff10143|r Physical Damage to up to 3 enemies and immobilize them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_003.dds",
   esoSkillId: 238189,
   isMorph: false,

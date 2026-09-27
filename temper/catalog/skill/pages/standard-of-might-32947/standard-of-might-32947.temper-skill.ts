@@ -8,7 +8,7 @@ export const standardOfMight32947 = {
   key: "standard-of-might-32947",
   baseName: "Dragonknight Standard",
   description:
-    '"Call down a battle standard for |cffffff15|r seconds, rallying you and allies inside the area, increasing Weapon and Spell Damage by |cffffff300|r and reducing damage taken by |cffffff10|r%. You gain an additional |cffffff15|r% damage done and reduced damage taken and |cffffff300|r Weapon and Spell Damage.\\n\\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff12393|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds."',
+    "Call down a battle standard for |cffffff15|r seconds, rallying you and allies inside the area, increasing Weapon and Spell Damage by |cffffff300|r and reducing damage taken by |cffffff10|r%. You gain an additional |cffffff15|r% damage done and reduced damage taken and |cffffff300|r Weapon and Spell Damage.\n\nAn ally near the standard can activate the Shackle synergy, dealing |cffffff12393|r Flame Damage to enemies in the area and immobilizing them for |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_006_b.dds",
   esoSkillId: 32947,
   isMorph: true,

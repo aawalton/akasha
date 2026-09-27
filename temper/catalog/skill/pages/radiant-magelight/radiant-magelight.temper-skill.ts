@@ -8,7 +8,7 @@ export const radiantMagelight = {
   key: "radiant-magelight",
   baseName: "Magelight",
   description:
-    '"Summon a mote of magelight, revealing stealthed and invisible enemies around you for 5 seconds. Exposed enemies cannot return to stealth or invisibility for 4 seconds.\\n\\nWhile slotted you gain Major Savagery and Prophecy, increasing your Weapon and Spell Critical rating by 2629. You also prevent the stun from stealth attacks for you and nearby allies."',
+    "Summon a mote of magelight, revealing stealthed and invisible enemies around you for 5 seconds. Exposed enemies cannot return to stealth or invisibility for 4 seconds.\n\nWhile slotted you gain Major Savagery and Prophecy, increasing your Weapon and Spell Critical rating by 2629. You also prevent the stun from stealth attacks for you and nearby allies.",
   icon: "/esoui/art/icons/ability_mageguild_002_a.dds",
   esoSkillId: 42455,
   isMorph: true,

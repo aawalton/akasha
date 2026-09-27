@@ -8,7 +8,7 @@ export const hunterSEye = {
   key: "hunter-s-eye",
   baseName: "Hunter's Eye",
   description:
-    '"Increases your Stealth Detection radius by |cffffff1|r meter.  \\n\\nIncreases your Movement Speed by |cffffff1|r% and your Physical and Spell Penetration by |cffffff300|r."',
+    "Increases your Stealth Detection radius by |cffffff1|r meter.  \n\nIncreases your Movement Speed by |cffffff1|r% and your Physical and Spell Penetration by |cffffff300|r.",
   icon: "/esoui/art/icons/ability_armor_011.dds",
   esoSkillId: 36022,
   isMorph: false,

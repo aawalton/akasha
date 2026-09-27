@@ -7,7 +7,7 @@ export const scrierSPatience = {
   title: "Scrier's Patience",
   key: "scrier-s-patience",
   baseName: "Scrier's Patience",
-  description: '"Grants you an additional turn of Scrying."',
+  description: "Grants you an additional turn of Scrying.",
   icon: "/esoui/art/icons/ability_scrying_06a.dds",
   esoSkillId: 139778,
   isMorph: false,

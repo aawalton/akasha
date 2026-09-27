@@ -8,7 +8,7 @@ export const dive = {
   key: "dive",
   baseName: "Dive",
   description:
-    '"Command a cliff racer to dive bomb an enemy, dealing |cffffff7269|r Magic Damage.\\n\\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for |cffffff7|r seconds."',
+    "Command a cliff racer to dive bomb an enemy, dealing |cffffff7269|r Magic Damage.\n\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for |cffffff7|r seconds.",
   icon: "/esoui/art/icons/ability_warden_013.dds",
   esoSkillId: 85995,
   isMorph: false,

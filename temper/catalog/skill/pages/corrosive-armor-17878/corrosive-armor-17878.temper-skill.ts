@@ -8,7 +8,7 @@ export const corrosiveArmor17878 = {
   key: "corrosive-armor-17878",
   baseName: "Magma Armor",
   description:
-    '"Ignite the molten lava in your veins, limiting incoming damage to |cffffff6|r% of your Max Health and dealing |cffffff5632|r Flame Damage to nearby enemies each second for |cffffff10|r seconds. \\n\\nWhile active your direct damage attacks ignore enemy Physical and Spell Resistance but you cannot generate Ultimate."',
+    "Ignite the molten lava in your veins, limiting incoming damage to |cffffff6|r% of your Max Health and dealing |cffffff5632|r Flame Damage to nearby enemies each second for |cffffff10|r seconds. \n\nWhile active your direct damage attacks ignore enemy Physical and Spell Resistance but you cannot generate Ultimate.",
   icon: "/esoui/art/icons/ability_dragonknight_018_b.dds",
   esoSkillId: 17878,
   isMorph: true,

@@ -8,7 +8,7 @@ export const deadlyCloak = {
   key: "deadly-cloak",
   baseName: "Blade Cloak",
   description:
-    '"Envelop yourself in a protective cloak of razors, gaining Major Evasion for 20 seconds, reducing damage from area attacks by 20%. \\n\\nEvery 2 seconds the shrapnel will pulse, dealing 567 Physical Damage to all enemies within 5 meters."',
+    "Envelop yourself in a protective cloak of razors, gaining Major Evasion for 20 seconds, reducing damage from area attacks by 20%. \n\nEvery 2 seconds the shrapnel will pulse, dealing 567 Physical Damage to all enemies within 5 meters.",
   icon: "/esoui/art/icons/ability_dualwield_004_b.dds",
   esoSkillId: 40651,
   isMorph: true,

@@ -7,7 +7,7 @@ export const soulSummons = {
   title: "Soul Summons",
   key: "soul-summons",
   baseName: "Soul Summons",
-  description: '"Allows you to revive once every 1 hour without spending a Soul Gem."',
+  description: "Allows you to revive once every 1 hour without spending a Soul Gem.",
   icon: "/esoui/art/icons/ability_sorcerer_047.dds",
   esoSkillId: 45590,
   isMorph: false,

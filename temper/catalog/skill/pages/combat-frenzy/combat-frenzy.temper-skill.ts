@@ -7,7 +7,7 @@ export const combatFrenzy = {
   title: "Combat Frenzy",
   key: "combat-frenzy",
   baseName: "Combat Frenzy",
-  description: '"You generate 20 Ultimate when you kill an enemy player."',
+  description: "You generate 20 Ultimate when you kill an enemy player.",
   icon: "/esoui/art/icons/ability_weapon_023.dds",
   esoSkillId: 45619,
   isMorph: false,

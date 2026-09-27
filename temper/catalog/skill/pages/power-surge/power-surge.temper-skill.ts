@@ -8,7 +8,7 @@ export const powerSurge = {
   key: "power-surge",
   baseName: "Surge",
   description:
-    '"Invoke Meridia\'s name to gain Major Brutality and Major Sorcery, increasing your Weapon Damage and Spell Damage by 20% for 33 seconds.\\n\\nWhile active, activating a Critical heal causes the ability to heal you and your allies around you for 2550 Health. This effect can occur once every 3 seconds."',
+    "Invoke Meridia's name to gain Major Brutality and Major Sorcery, increasing your Weapon Damage and Spell Damage by 20% for 33 seconds.\n\nWhile active, activating a Critical heal causes the ability to heal you and your allies around you for 2550 Health. This effect can occur once every 3 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_power_surge.dds",
   esoSkillId: 30396,
   isMorph: true,

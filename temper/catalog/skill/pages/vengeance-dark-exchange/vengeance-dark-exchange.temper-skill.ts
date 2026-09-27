@@ -7,8 +7,7 @@ export const vengeanceDarkExchange = {
   title: "Vengeance Dark Exchange",
   key: "vengeance-dark-exchange",
   baseName: "Vengeance Dark Exchange",
-  description:
-    '"Bargain with darkness to restore |cffffff8160|r Health and |cffffff3600|r Magicka."',
+  description: "Bargain with darkness to restore |cffffff8160|r Health and |cffffff3600|r Magicka.",
   icon: "/esoui/art/icons/ability_sorcerer_dark_exchange.dds",
   esoSkillId: 237808,
   isMorph: false,

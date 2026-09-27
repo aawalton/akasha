@@ -8,7 +8,7 @@ export const enduringRays = {
   key: "enduring-rays",
   baseName: "Enduring Rays",
   description:
-    '"Increases the duration of your Sun Fire, Eclipse, Solar Flare, and Nova abilities by 2 seconds."',
+    "Increases the duration of your Sun Fire, Eclipse, Solar Flare, and Nova abilities by 2 seconds.",
   icon: "/esoui/art/icons/ability_templar_020.dds",
   esoSkillId: 45214,
   isMorph: false,

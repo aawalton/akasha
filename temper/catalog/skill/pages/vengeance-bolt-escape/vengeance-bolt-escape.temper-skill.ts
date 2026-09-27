@@ -8,7 +8,7 @@ export const vengeanceBoltEscape = {
   key: "vengeance-bolt-escape",
   baseName: "Vengeance Bolt Escape",
   description:
-    '"Transform yourself into pure energy and flash forward, stunning up to 3 enemies near your final location for |cffffff1|r second. \\n\\nThis effect cannot be blocked."',
+    "Transform yourself into pure energy and flash forward, stunning up to 3 enemies near your final location for |cffffff1|r second. \n\nThis effect cannot be blocked.",
   icon: "/esoui/art/icons/ability_sorcerer_bolt_escape.dds",
   esoSkillId: 237981,
   isMorph: false,

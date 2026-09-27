@@ -8,7 +8,7 @@ export const incapacitatingStrike36508 = {
   key: "incapacitating-strike-36508",
   baseName: "Death Stroke",
   description:
-    '"Ravage an enemy with a swift strike, dealing |cffffff13350|r Disease Damage and causing them to take |cffffff20|r% more damage from your attacks for |cffffff8|r seconds.\\n\\nIf cast with |cffffff126|r or more Ultimate, you instead deal |cffffff14685|r Disease Damage, stun the enemy for |cffffff3|r seconds, and increase the duration of the damage taken effect to |cffffff12|r seconds."',
+    "Ravage an enemy with a swift strike, dealing |cffffff13350|r Disease Damage and causing them to take |cffffff20|r% more damage from your attacks for |cffffff8|r seconds.\n\nIf cast with |cffffff126|r or more Ultimate, you instead deal |cffffff14685|r Disease Damage, stun the enemy for |cffffff3|r seconds, and increase the duration of the damage taken effect to |cffffff12|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_007_a.dds",
   esoSkillId: 36508,
   isMorph: true,

@@ -7,7 +7,7 @@ export const antiquarianInsight = {
   title: "Antiquarian Insight",
   key: "antiquarian-insight",
   baseName: "Antiquarian Insight",
-  description: '"Allows you to scry for Antiquities of up to Ultimate difficulty."',
+  description: "Allows you to scry for Antiquities of up to Ultimate difficulty.",
   icon: "/esoui/art/icons/ability_scrying_05e.dds",
   esoSkillId: 141018,
   isMorph: false,

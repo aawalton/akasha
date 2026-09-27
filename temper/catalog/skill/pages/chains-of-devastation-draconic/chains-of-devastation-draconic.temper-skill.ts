@@ -8,7 +8,7 @@ export const chainsOfDevastationDraconic = {
   key: "chains-of-devastation-draconic",
   baseName: "Chains of Flame",
   description:
-    '"Lash out with a chain bound in jagged links, pulling yourself to an enemy. The searing metal deals 5412 Flame Damage and applies the Burning status effect.\\n\\nThis attack cannot be dodged or reflected.\\n\\nHitting the target grants you Major Berserk for 6 seconds and Major Evasion for 10 seconds, increasing damage done by 10% reducing damage taken from area attacks by 20%."',
+    "Lash out with a chain bound in jagged links, pulling yourself to an enemy. The searing metal deals 5412 Flame Damage and applies the Burning status effect.\n\nThis attack cannot be dodged or reflected.\n\nHitting the target grants you Major Berserk for 6 seconds and Major Evasion for 10 seconds, increasing damage done by 10% reducing damage taken from area attacks by 20%.",
   icon: "/esoui/art/icons/ability_dragonknight_005_b.dds",
   esoSkillId: 20499,
   isMorph: true,

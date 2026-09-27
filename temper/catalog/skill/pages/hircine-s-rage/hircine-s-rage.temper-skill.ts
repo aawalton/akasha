@@ -8,7 +8,7 @@ export const hircineSRage = {
   key: "hircine-s-rage",
   baseName: "Hircine's Bounty",
   description:
-    '"Invoke the Huntsman\'s blessing, healing you for |cffffff9313|r Health, granting double Fury, and increasing your damage done and taken by up to |cffffff12|r% for |cffffff20|r seconds, based on how high your current Health is. \\nCurrent Bonus: |cffffff12|r%\\n\\nYou also restore |cffffff10|r% Stamina, increasing by up to |cffffff100|r%, based on how high your current Health is. \\nCurrent Restore: |cffffff4882|r\\n\\nWhile slotted you gain Major Brutality and Sorcery and Minor Berserk."',
+    "Invoke the Huntsman's blessing, healing you for |cffffff9313|r Health, granting double Fury, and increasing your damage done and taken by up to |cffffff12|r% for |cffffff20|r seconds, based on how high your current Health is. \nCurrent Bonus: |cffffff12|r%\n\nYou also restore |cffffff10|r% Stamina, increasing by up to |cffffff100|r%, based on how high your current Health is. \nCurrent Restore: |cffffff4882|r\n\nWhile slotted you gain Major Brutality and Sorcery and Minor Berserk.",
   icon: "/esoui/art/icons/ability_werewolf_004_b.dds",
   esoSkillId: 58317,
   isMorph: true,

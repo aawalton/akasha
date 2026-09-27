@@ -8,7 +8,7 @@ export const bladeOfWoe = {
   key: "blade-of-woe",
   baseName: "Blade of Woe",
   description:
-    '"Call the weapon of the Dark Brotherhood to your hand and deliver a killing blow to an unsuspecting target. Experience from this target is reduced by 75%.\\n\\nThis ability does not work on players or difficult targets."',
+    "Call the weapon of the Dark Brotherhood to your hand and deliver a killing blow to an unsuspecting target. Experience from this target is reduced by 75%.\n\nThis ability does not work on players or difficult targets.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_001.dds",
   esoSkillId: 78219,
   isMorph: false,

@@ -8,7 +8,7 @@ export const corruptingPollen = {
   key: "corrupting-pollen",
   baseName: "Healing Seed",
   description:
-    '"Summon a field of flowers which blooms after 6 seconds, healing you and allies in the area for 3600 Health.\\n\\nEnemies who enter the field are afflicted with Major Defile and Minor Cowardice, reducing their healing received and damage shield strength by 12% and their Weapon and Spell Damage by 215.\\n\\nAn ally within the field can activate the Harvest synergy, healing for 3372 Health over 5 seconds."',
+    "Summon a field of flowers which blooms after 6 seconds, healing you and allies in the area for 3600 Health.\n\nEnemies who enter the field are afflicted with Major Defile and Minor Cowardice, reducing their healing received and damage shield strength by 12% and their Weapon and Spell Damage by 215.\n\nAn ally within the field can activate the Harvest synergy, healing for 3372 Health over 5 seconds.",
   icon: "/esoui/art/icons/ability_warden_007_c.dds",
   esoSkillId: 93810,
   isMorph: true,

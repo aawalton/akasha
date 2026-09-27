@@ -8,7 +8,7 @@ export const animateBlastbones118379 = {
   key: "animate-blastbones-118379",
   baseName: "Reanimate",
   description:
-    '"Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\\n\\nYou consume up to |cffffff3|r other corpses in the area and summon a Blighted Blastbones for each corpse consumed."',
+    "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.\n\nYou consume up to |cffffff3|r other corpses in the area and summon a Blighted Blastbones for each corpse consumed.",
   icon: "/esoui/art/icons/ability_necromancer_018_b.dds",
   esoSkillId: 118379,
   isMorph: true,

@@ -8,7 +8,7 @@ export const keenEyeReagents = {
   key: "keen-eye-reagents",
   baseName: "Keen Eye: Reagents",
   description:
-    '"Herbs and fungi in the world will be easier to see when you are 40 meters or closer."',
+    "Herbs and fungi in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
   esoSkillId: 47842,
   isMorph: false,

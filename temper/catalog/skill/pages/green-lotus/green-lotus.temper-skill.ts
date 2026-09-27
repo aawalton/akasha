@@ -8,7 +8,7 @@ export const greenLotus = {
   key: "green-lotus",
   baseName: "Lotus Flower",
   description:
-    '"Embrace the lotus blessing, causing your Light Attacks to restore 1500 Health and your fully-charged Heavy Attacks to restore 3450 Health to you or 2 nearby allies for 20 seconds.\\n\\nWhile active you gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by 2629."',
+    "Embrace the lotus blessing, causing your Light Attacks to restore 1500 Health and your fully-charged Heavy Attacks to restore 3450 Health to you or 2 nearby allies for 20 seconds.\n\nWhile active you gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by 2629.",
   icon: "/esoui/art/icons/ability_warden_009_a.dds",
   esoSkillId: 93911,
   isMorph: true,

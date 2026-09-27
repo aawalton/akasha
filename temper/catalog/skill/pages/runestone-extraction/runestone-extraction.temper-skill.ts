@@ -7,7 +7,7 @@ export const runestoneExtraction = {
   title: "Runestone Extraction",
   key: "runestone-extraction",
   baseName: "Runestone Extraction",
-  description: '"Increases the chance of extracting each type of Runestone by 10%."',
+  description: "Increases the chance of extracting each type of Runestone by 10%.",
   icon: "/esoui/art/icons/ability_enchanter_004.dds",
   esoSkillId: 46769,
   isMorph: false,

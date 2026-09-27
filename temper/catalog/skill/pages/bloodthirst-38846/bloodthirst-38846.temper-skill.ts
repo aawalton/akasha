@@ -8,7 +8,7 @@ export const bloodthirst38846 = {
   key: "bloodthirst-38846",
   baseName: "Flurry",
   description:
-    '"Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff2398|r Bleed Damage and heal you for |cffffff34|r% of the damage caused."',
+    "Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff2398|r Bleed Damage and heal you for |cffffff34|r% of the damage caused.",
   icon: "/esoui/art/icons/ability_dualwield_002_a.dds",
   esoSkillId: 38846,
   isMorph: true,

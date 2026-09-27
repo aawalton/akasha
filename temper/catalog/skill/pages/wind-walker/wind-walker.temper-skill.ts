@@ -8,7 +8,7 @@ export const windWalker = {
   key: "wind-walker",
   baseName: "Wind Walker",
   description:
-    '"Increases your Stamina Recovery by 4% per piece of Medium Armor equipped. \\n\\nCurrent bonus: 0%.\\n\\nReduces the Stamina cost of your abilities by 2% per piece of Medium Armor equipped. \\n\\nCurrent bonus: 0%."',
+    "Increases your Stamina Recovery by 4% per piece of Medium Armor equipped. \n\nCurrent bonus: 0%.\n\nReduces the Stamina cost of your abilities by 2% per piece of Medium Armor equipped. \n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_011.dds",
   esoSkillId: 45565,
   isMorph: false,

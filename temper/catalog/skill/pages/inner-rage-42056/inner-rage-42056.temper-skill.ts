@@ -8,7 +8,7 @@ export const innerRage42056 = {
   key: "inner-rage-42056",
   baseName: "Inner Fire",
   description:
-    '"Ignite the fires of hate in an enemy\'s heart, dealing |cffffff3753|r Flame Damage and taunting them to attack you for |cffffff15|r seconds.\\n\\nUp to 3 allies targeting the taunted enemy can activate the Radiate synergy, dealing |cffffff4422|r Flame Damage to them over |cffffff3|r seconds then an additional |cffffff8261|r Flame Damage to them and other nearby enemies."',
+    "Ignite the fires of hate in an enemy's heart, dealing |cffffff3753|r Flame Damage and taunting them to attack you for |cffffff15|r seconds.\n\nUp to 3 allies targeting the taunted enemy can activate the Radiate synergy, dealing |cffffff4422|r Flame Damage to them over |cffffff3|r seconds then an additional |cffffff8261|r Flame Damage to them and other nearby enemies.",
   icon: "/esoui/art/icons/ability_undaunted_002_b.dds",
   esoSkillId: 42056,
   isMorph: true,

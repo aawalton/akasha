@@ -8,7 +8,7 @@ export const spellSymmetry = {
   key: "spell-symmetry",
   baseName: "Equilibrium",
   description:
-    '"Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for 3000 Magicka.\\n\\nAfter the exchange is complete, the cost of your next Magicka ability is reduced by 33% for 5 seconds.\\n\\nThe exchange reduces your healing done and damage shield strength by 50% for 4 seconds."',
+    "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for 3000 Magicka.\n\nAfter the exchange is complete, the cost of your next Magicka ability is reduced by 33% for 5 seconds.\n\nThe exchange reduces your healing done and damage shield strength by 50% for 4 seconds.",
   icon: "/esoui/art/icons/ability_mageguild_003_a.dds",
   esoSkillId: 42263,
   isMorph: true,

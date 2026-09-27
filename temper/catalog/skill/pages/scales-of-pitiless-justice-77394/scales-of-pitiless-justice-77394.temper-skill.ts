@@ -8,7 +8,7 @@ export const scalesOfPitilessJustice77394 = {
   key: "scales-of-pitiless-justice-77394",
   baseName: "Scales of Pitiless Justice",
   description:
-    '"Bounty and Heat resulting from a witnessed Murder or Assault is reduced by |cffffff30|r%."',
+    "Bounty and Heat resulting from a witnessed Murder or Assault is reduced by |cffffff30|r%.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_002.dds",
   esoSkillId: 77394,
   isMorph: false,

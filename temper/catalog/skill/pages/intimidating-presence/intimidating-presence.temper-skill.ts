@@ -8,7 +8,7 @@ export const intimidatingPresence = {
   key: "intimidating-presence",
   baseName: "Intimidating Presence",
   description:
-    '"Allows you to Intimidate NPCs in conversation.\\n\\nReduces the Stamina cost of your Fighters Guild abilities by 15%."',
+    "Allows you to Intimidate NPCs in conversation.\n\nReduces the Stamina cost of your Fighters Guild abilities by 15%.",
   icon: "/esoui/art/icons/ability_fightersguild_passive_intimidate.dds",
   esoSkillId: 29062,
   isMorph: false,

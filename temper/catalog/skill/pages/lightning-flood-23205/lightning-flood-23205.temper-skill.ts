@@ -8,7 +8,7 @@ export const lightningFlood23205 = {
   key: "lightning-flood-23205",
   baseName: "Lightning Splash",
   description:
-    '"Create a nexus of storm energy at the target location, dealing |cffffff1445|r Shock Damage to enemies in the area every |cffffff1|r second for |cffffff10|r seconds.\\n \\nYou or an ally standing within the nexus can activate the Conduit synergy, dealing |cffffff9914|r Shock Damage to enemies around them."',
+    "Create a nexus of storm energy at the target location, dealing |cffffff1445|r Shock Damage to enemies in the area every |cffffff1|r second for |cffffff10|r seconds.\n \nYou or an ally standing within the nexus can activate the Conduit synergy, dealing |cffffff9914|r Shock Damage to enemies around them.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_flood.dds",
   esoSkillId: 23205,
   isMorph: true,

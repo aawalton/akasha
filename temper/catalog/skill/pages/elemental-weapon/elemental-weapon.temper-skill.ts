@@ -8,7 +8,7 @@ export const elementalWeapon = {
   key: "elemental-weapon",
   baseName: "Imbue Weapon",
   description:
-    '"Infuse your weapon with power, causing your next Light Attack used within 2 seconds to deal an additional 2160 Magic Damage and apply the Burning, Concussion, or Chill elemental status effect.\\n\\nIf the power is not consumed in time, you restore 1620 Magicka."',
+    "Infuse your weapon with power, causing your next Light Attack used within 2 seconds to deal an additional 2160 Magic Damage and apply the Burning, Concussion, or Chill elemental status effect.\n\nIf the power is not consumed in time, you restore 1620 Magicka.",
   icon: "/esoui/art/icons/ability_psijic_003_a.dds",
   esoSkillId: 40103571,
   isMorph: true,

@@ -8,7 +8,7 @@ export const shimmeringShield = {
   key: "shimmering-shield",
   baseName: "Crystallized Shield",
   description:
-    '"Spin a shield of ice around you, absorbing up to 16527 damage from 3 projectiles. \\n\\nEach time you absorb a projectile you gain 2 Ultimate and gain Major Heroism for 6 seconds, granting you 3 Ultimate every 1.5 seconds."',
+    "Spin a shield of ice around you, absorbing up to 16527 damage from 3 projectiles. \n\nEach time you absorb a projectile you gain 2 Ultimate and gain Major Heroism for 6 seconds, granting you 3 Ultimate every 1.5 seconds.",
   icon: "/esoui/art/icons/ability_warden_002_b.dds",
   esoSkillId: 86146,
   isMorph: true,

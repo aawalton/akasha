@@ -7,7 +7,7 @@ export const controlledFury30872 = {
   title: "Controlled Fury",
   key: "controlled-fury-30872",
   baseName: "Controlled Fury",
-  description: '"Reduces the Stamina cost of Dual Wield abilities by |cffffff7|r%."',
+  description: "Reduces the Stamina cost of Dual Wield abilities by |cffffff7|r%.",
   icon: "/esoui/art/icons/ability_weapon_018.dds",
   esoSkillId: 30872,
   isMorph: false,

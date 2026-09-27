@@ -8,7 +8,7 @@ export const nightbladeExecutioner = {
   key: "nightblade-executioner",
   baseName: "Executioner",
   description:
-    '"Your Light and Heavy Attacks against enemies under 25% Health deal 50% more damage. Heavy Attacks that deal a killing blow generate 16 Ultimate."',
+    "Your Light and Heavy Attacks against enemies under 25% Health deal 50% more damage. Heavy Attacks that deal a killing blow generate 16 Ultimate.",
   icon: "/esoui/art/icons/passive_nightblade_006.dds",
   esoSkillId: 45048,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceCleave = {
   key: "vengeance-cleave",
   baseName: "Vengeance Cleave",
   description:
-    '"Focus your strength into a mighty swing, dealing |cffffff8820|r Physical Damage to up to 3 enemies in front of you.\\n\\nYou also gain a damage shield that absorbs |cffffff9056|r damage for |cffffff6|r seconds."',
+    "Focus your strength into a mighty swing, dealing |cffffff8820|r Physical Damage to up to 3 enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff9056|r damage for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_002.dds",
   esoSkillId: 240480,
   isMorph: false,

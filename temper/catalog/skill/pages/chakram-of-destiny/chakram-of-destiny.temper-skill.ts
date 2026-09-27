@@ -8,7 +8,7 @@ export const chakramOfDestiny = {
   key: "chakram-of-destiny",
   baseName: "Chakram Shields",
   description:
-    '"Carve the Fate Crone\'s runes to create spinning mystical discs and generate Crux. Discs surround you or up to 4 allies in front of you, granting a shield that absorbs 3160 damage for 6 seconds. \\n\\nRecasting on a target already shielded grants a new shield that is 30% stronger.\\n\\nDiscs prefer your reticle target, or low-Health targets without shields."',
+    "Carve the Fate Crone's runes to create spinning mystical discs and generate Crux. Discs surround you or up to 4 allies in front of you, granting a shield that absorbs 3160 damage for 6 seconds. \n\nRecasting on a target already shielded grants a new shield that is 30% stronger.\n\nDiscs prefer your reticle target, or low-Health targets without shields.",
   icon: "/esoui/art/icons/ability_arcanist_015_a.dds",
   esoSkillId: 40186207,
   isMorph: true,

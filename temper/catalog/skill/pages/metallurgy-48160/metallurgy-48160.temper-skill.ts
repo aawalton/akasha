@@ -7,7 +7,7 @@ export const metallurgy48160 = {
   title: "Metallurgy",
   key: "metallurgy-48160",
   baseName: "Metallurgy",
-  description: '"Reduces research times by 5% and allows the research of two items at once."',
+  description: "Reduces research times by 5% and allows the research of two items at once.",
   icon: "/esoui/art/icons/crafting_runecrafter_armor_vendor_component_002.dds",
   esoSkillId: 48160,
   isMorph: false,

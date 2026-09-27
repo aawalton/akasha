@@ -8,7 +8,7 @@ export const poisonArrow = {
   key: "poison-arrow",
   baseName: "Poison Arrow",
   description:
-    '"Shoot an arrow coated in Baandari poison at an enemy, dealing |cffffff4036|r Poison Damage and an additional |cffffff11420|r Poison Damage over |cffffff20|r seconds."',
+    "Shoot an arrow coated in Baandari poison at an enemy, dealing |cffffff4036|r Poison Damage and an additional |cffffff11420|r Poison Damage over |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_bow_002.dds",
   esoSkillId: 28869,
   isMorph: false,

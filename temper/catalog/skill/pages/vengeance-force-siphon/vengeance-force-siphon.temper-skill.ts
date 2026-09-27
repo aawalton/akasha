@@ -8,7 +8,7 @@ export const vengeanceForceSiphon = {
   key: "vengeance-force-siphon",
   baseName: "Vengeance Force Siphon",
   description:
-    '"Focus your staff\'s power to apply Minor Lifesteal and Minor Magickasteal to an enemy for |cffffff20|r seconds, healing you and your allies for |cffffff600|r Health and restoring |cffffff168|r Magicka every |cffffff1|r second when damaging them."',
+    "Focus your staff's power to apply Minor Lifesteal and Minor Magickasteal to an enemy for |cffffff20|r seconds, healing you and your allies for |cffffff600|r Health and restoring |cffffff168|r Magicka every |cffffff1|r second when damaging them.",
   icon: "/esoui/art/icons/ability_restorationstaff_005.dds",
   esoSkillId: 241536,
   isMorph: false,

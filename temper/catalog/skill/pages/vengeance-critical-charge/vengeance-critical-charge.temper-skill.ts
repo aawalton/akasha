@@ -8,7 +8,7 @@ export const vengeanceCriticalCharge = {
   key: "vengeance-critical-charge",
   baseName: "Vengeance Critical Charge",
   description:
-    '"Launch across the earth and smash an enemy, dealing |cffffff6678|r Physical Damage. \\n\\nThis attack is always a Critical Strike."',
+    "Launch across the earth and smash an enemy, dealing |cffffff6678|r Physical Damage. \n\nThis attack is always a Critical Strike.",
   icon: "/esoui/art/icons/ability_2handed_003.dds",
   esoSkillId: 240459,
   isMorph: false,

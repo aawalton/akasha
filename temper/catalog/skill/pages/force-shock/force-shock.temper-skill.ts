@@ -8,7 +8,7 @@ export const forceShock = {
   key: "force-shock",
   baseName: "Force Shock",
   description:
-    '"Focus all the elemental energies with your staff and blast an enemy for |cffffff2423|r Flame Damage, |cffffff2423|r Frost Damage, and |cffffff2423|r Shock Damage."',
+    "Focus all the elemental energies with your staff and blast an enemy for |cffffff2423|r Flame Damage, |cffffff2423|r Frost Damage, and |cffffff2423|r Shock Damage.",
   icon: "/esoui/art/icons/ability_destructionstaff_001.dds",
   esoSkillId: 46340,
   isMorph: false,

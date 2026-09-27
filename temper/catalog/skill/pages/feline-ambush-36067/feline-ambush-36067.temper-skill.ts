@@ -8,7 +8,7 @@ export const felineAmbush36067 = {
   key: "feline-ambush-36067",
   baseName: "Feline Ambush",
   description:
-    '"Increases your Critical Damage and Critical Healing by |cffffff4|r%.\\n\\nDecreases your detection radius in Stealth by |cffffff1|r meter."',
+    "Increases your Critical Damage and Critical Healing by |cffffff4|r%.\n\nDecreases your detection radius in Stealth by |cffffff1|r meter.",
   icon: "/esoui/art/icons/ability_armor_006.dds",
   esoSkillId: 36067,
   isMorph: false,

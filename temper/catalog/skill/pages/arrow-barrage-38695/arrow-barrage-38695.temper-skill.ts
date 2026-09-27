@@ -8,7 +8,7 @@ export const arrowBarrage38695 = {
   key: "arrow-barrage-38695",
   baseName: "Volley",
   description:
-    '"Launch a multitude of arrows into the sky to rain down, dealing |cffffff1605|r Physical Damage to enemies in the target area every |cffffff1|r second for |cffffff8|r seconds, after a |cffffff2|r second delay."',
+    "Launch a multitude of arrows into the sky to rain down, dealing |cffffff1605|r Physical Damage to enemies in the target area every |cffffff1|r second for |cffffff8|r seconds, after a |cffffff2|r second delay.",
   icon: "/esoui/art/icons/ability_bow_003_b.dds",
   esoSkillId: 38695,
   isMorph: true,

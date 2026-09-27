@@ -8,7 +8,7 @@ export const blessingAtThePeak = {
   key: "blessing-at-the-peak",
   baseName: "Blessing at the Peak",
   description:
-    '"Where earth meets sky is a wellspring of power you can tap at will.\\n\\nWhen you cast or deal damage with an Earthen Heart ability in combat you generate |cffffff1|r Ultimate. This effect can occur once every |cffffff6|r seconds.\\n\\nIncreases your Critical Damage by |cffffff5|r%."',
+    "Where earth meets sky is a wellspring of power you can tap at will.\n\nWhen you cast or deal damage with an Earthen Heart ability in combat you generate |cffffff1|r Ultimate. This effect can occur once every |cffffff6|r seconds.\n\nIncreases your Critical Damage by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_024.dds",
   esoSkillId: 29473,
   isMorph: false,

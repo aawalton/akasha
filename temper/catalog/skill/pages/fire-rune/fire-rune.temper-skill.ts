@@ -8,7 +8,7 @@ export const fireRune = {
   key: "fire-rune",
   baseName: "Fire Rune",
   description:
-    '"Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\\n\\nWhen triggered, the rune blasts all enemies in the target area for |cffffff8533|r Flame Damage."',
+    "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff8533|r Flame Damage.",
   icon: "/esoui/art/icons/ability_mageguild_001.dds",
   esoSkillId: 31632,
   isMorph: false,

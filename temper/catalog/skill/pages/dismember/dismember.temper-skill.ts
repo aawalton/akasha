@@ -8,7 +8,7 @@ export const dismember = {
   key: "dismember",
   baseName: "Dismember",
   description:
-    '"While a Grave Lord ability is active, your Spell and Physical Penetration are increased by 3271."',
+    "While a Grave Lord ability is active, your Spell and Physical Penetration are increased by 3271.",
   icon: "/esoui/art/icons/passive_necromancer_003.dds",
   esoSkillId: 116194,
   isMorph: false,

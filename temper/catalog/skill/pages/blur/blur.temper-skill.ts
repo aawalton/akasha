@@ -8,7 +8,7 @@ export const blur = {
   key: "blur",
   baseName: "Blur",
   description:
-    '"Surround yourself in a phantasmic aura to gain Major Evasion, reducing damage from area attacks by |cffffff20|r% for |cffffff20|r seconds.\\n\\nWhile active, taking direct damage reduces the cost of your next Roll Dodge by |cffffff10|r%, up to a maximum of |cffffff100|r%. This effect can stack up to once every half second."',
+    "Surround yourself in a phantasmic aura to gain Major Evasion, reducing damage from area attacks by |cffffff20|r% for |cffffff20|r seconds.\n\nWhile active, taking direct damage reduces the cost of your next Roll Dodge by |cffffff10|r%, up to a maximum of |cffffff100|r%. This effect can stack up to once every half second.",
   icon: "/esoui/art/icons/ability_nightblade_009.dds",
   esoSkillId: 33375,
   isMorph: false,

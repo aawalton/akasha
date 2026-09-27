@@ -8,7 +8,7 @@ export const summonTwilightTormentor = {
   key: "summon-twilight-tormentor",
   baseName: "Summon Winged Twilight",
   description:
-    "\"Call on Azura to send a twilight tormentor to fight at your side. The twilight tormentor's zap deals 478 Shock Damage and its kick deals 478 Shock Damage.\\n\\nOnce summoned, you can activate the twilight tormentor's special ability for 2700 Magicka, causing it to deal 60% more damage to enemies above 50% Health for 20 seconds.\\n\\nThe twilight tormentor remains until killed or unsummoned.\"",
+    "Call on Azura to send a twilight tormentor to fight at your side. The twilight tormentor's zap deals 478 Shock Damage and its kick deals 478 Shock Damage.\n\nOnce summoned, you can activate the twilight tormentor's special ability for 2700 Magicka, causing it to deal 60% more damage to enemies above 50% Health for 20 seconds.\n\nThe twilight tormentor remains until killed or unsummoned.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_matriarch.dds",
   esoSkillId: 30598,
   isMorph: true,

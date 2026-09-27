@@ -8,7 +8,7 @@ export const vengeanceRuneblades = {
   key: "vengeance-runeblades",
   baseName: "Vengeance Runeblades",
   description:
-    '"Craft an Apocryphal rune before launching it at a foe, dealing |cffffff10017|r Magic Damage and generating Crux."',
+    "Craft an Apocryphal rune before launching it at a foe, dealing |cffffff10017|r Magic Damage and generating Crux.",
   icon: "/esoui/art/icons/ability_arcanist_001.dds",
   esoSkillId: 238169,
   isMorph: false,

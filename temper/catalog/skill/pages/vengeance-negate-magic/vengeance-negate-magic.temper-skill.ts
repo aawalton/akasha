@@ -8,7 +8,7 @@ export const vengeanceNegateMagic = {
   key: "vengeance-negate-magic",
   baseName: "Vengeance Negate Magic",
   description:
-    '"Create a globe of magic suppression at your target location that stuns up to 3 enemies in the area for |cffffff3|r seconds and silences them if they are a player for |cffffff3|r seconds."',
+    "Create a globe of magic suppression at your target location that stuns up to 3 enemies in the area for |cffffff3|r seconds and silences them if they are a player for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_monsoon.dds",
   esoSkillId: 237856,
   isMorph: false,

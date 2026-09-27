@@ -8,7 +8,7 @@ export const scaldingRune40465 = {
   key: "scalding-rune-40465",
   baseName: "Fire Rune",
   description:
-    '"Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\\n\\nWhen triggered, the rune blasts all enemies in the target area for |cffffff8533|r Flame Damage and an additional |cffffff9427|r Flame Damage over |cffffff22|r seconds."',
+    "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for |cffffff8533|r Flame Damage and an additional |cffffff9427|r Flame Damage over |cffffff22|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_001_b.dds",
   esoSkillId: 40465,
   isMorph: true,

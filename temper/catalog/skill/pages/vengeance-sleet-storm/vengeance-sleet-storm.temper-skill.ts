@@ -8,7 +8,7 @@ export const vengeanceSleetStorm = {
   key: "vengeance-sleet-storm",
   baseName: "Vengeance Sleet Storm",
   description:
-    '"Twist a violent storm around you, stunning up to 6 nearby enemies for |cffffff4|r seconds and reducing their Movement Speed by |cffffff40|r% for |cffffff4|r seconds after the stun ends. \\n\\nYou gain Major Protection for |cffffff8|r seconds, reducing your damage taken by |cffffff10|r%."',
+    "Twist a violent storm around you, stunning up to 6 nearby enemies for |cffffff4|r seconds and reducing their Movement Speed by |cffffff40|r% for |cffffff4|r seconds after the stun ends. \n\nYou gain Major Protection for |cffffff8|r seconds, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_warden_006.dds",
   esoSkillId: 238098,
   isMorph: false,

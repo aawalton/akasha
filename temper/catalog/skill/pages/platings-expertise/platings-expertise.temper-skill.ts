@@ -7,7 +7,7 @@ export const platingsExpertise = {
   title: "Platings Expertise",
   key: "platings-expertise",
   baseName: "Platings Expertise",
-  description: '"More than doubles the chances of improving items with platings."',
+  description: "More than doubles the chances of improving items with platings.",
   icon: "/esoui/art/icons/passive_platingexpertise.dds",
   esoSkillId: 103648,
   isMorph: false,

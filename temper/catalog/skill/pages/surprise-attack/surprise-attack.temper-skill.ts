@@ -8,7 +8,7 @@ export const surpriseAttack = {
   key: "surprise-attack",
   baseName: "Veiled Strike",
   description:
-    '"Slash an enemy, dealing 2399 Physical Damage and applying the Sundered status effect.\\n\\nIf you strike an enemy from their flank you set them Off Balance. This attack will also be guaranteed to be a Critical Strike, up to once every 3 seconds."',
+    "Slash an enemy, dealing 2399 Physical Damage and applying the Sundered status effect.\n\nIf you strike an enemy from their flank you set them Off Balance. This attack will also be guaranteed to be a Critical Strike, up to once every 3 seconds.",
   icon: "/esoui/art/icons/ability_nightblade_002_a.dds",
   esoSkillId: 36234,
   isMorph: true,

@@ -8,7 +8,7 @@ export const arcticBlast = {
   key: "arctic-blast",
   baseName: "Arctic Wind",
   description:
-    '"Envelop yourself in winter winds, instantly dealing 1799 Frost Damage to nearby enemies. If no enemies are hit, you heal for 2323 Health.\\n\\nThe winds persist for 20 seconds and chill your foes to the bone, dealing 298 Frost Damage every 2 seconds, after 2 seconds. The damage has a higher chance to apply the Chilled status effect.\\n\\nStuns enemies after the delay for 3 seconds."',
+    "Envelop yourself in winter winds, instantly dealing 1799 Frost Damage to nearby enemies. If no enemies are hit, you heal for 2323 Health.\n\nThe winds persist for 20 seconds and chill your foes to the bone, dealing 298 Frost Damage every 2 seconds, after 2 seconds. The damage has a higher chance to apply the Chilled status effect.\n\nStuns enemies after the delay for 3 seconds.",
   icon: "/esoui/art/icons/ability_warden_003_b.dds",
   esoSkillId: 86159,
   isMorph: true,

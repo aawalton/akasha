@@ -8,7 +8,7 @@ export const scatterShot = {
   key: "scatter-shot",
   baseName: "Scatter Shot",
   description:
-    '"Blast an enemy with an explosive arrow, dealing |cffffff4846|r Physical Damage, knocking them back |cffffff8|r meters."',
+    "Blast an enemy with an explosive arrow, dealing |cffffff4846|r Physical Damage, knocking them back |cffffff8|r meters.",
   icon: "/esoui/art/icons/ability_bow_004.dds",
   esoSkillId: 28879,
   isMorph: false,

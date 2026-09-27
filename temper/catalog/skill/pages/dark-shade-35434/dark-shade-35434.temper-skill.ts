@@ -8,7 +8,7 @@ export const darkShade35434 = {
   key: "dark-shade-35434",
   baseName: "Summon Shade",
   description:
-    '"Summon a shade version of yourself to attack an enemy and fight at your side for |cffffff20|r seconds. \\n\\nThe shade attacks nearby enemies within |cffffff9|r meters of it, dealing |cffffff2292|r Magic Damage once every |cffffff2|r seconds and afflicting them with Minor Maim for |cffffff4|r seconds, reducing their damage done by |cffffff5|r%."',
+    "Summon a shade version of yourself to attack an enemy and fight at your side for |cffffff20|r seconds. \n\nThe shade attacks nearby enemies within |cffffff9|r meters of it, dealing |cffffff2292|r Magic Damage once every |cffffff2|r seconds and afflicting them with Minor Maim for |cffffff4|r seconds, reducing their damage done by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_nightblade_001_a.dds",
   esoSkillId: 35434,
   isMorph: true,

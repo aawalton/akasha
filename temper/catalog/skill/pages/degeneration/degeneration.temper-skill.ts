@@ -8,7 +8,7 @@ export const degeneration = {
   key: "degeneration",
   baseName: "Entropy",
   description:
-    '"Bind an enemy with chaotic magic, dealing 4642 Magic Damage over 20 seconds.\\n\\nExcess magic spills out from them, granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 20 seconds."',
+    "Bind an enemy with chaotic magic, dealing 4642 Magic Damage over 20 seconds.\n\nExcess magic spills out from them, granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 20 seconds.",
   icon: "/esoui/art/icons/ability_mageguild_004_a.dds",
   esoSkillId: 42224,
   isMorph: true,

@@ -8,7 +8,7 @@ export const iceFortress = {
   key: "ice-fortress",
   baseName: "Frost Cloak",
   description:
-    '"Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by 5948 for 30 seconds.\\n\\nYou gain Minor Protection, reducing your damage taken by 5% for 30 seconds."',
+    "Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by 5948 for 30 seconds.\n\nYou gain Minor Protection, reducing your damage taken by 5% for 30 seconds.",
   icon: "/esoui/art/icons/ability_warden_001_b.dds",
   esoSkillId: 86133,
   isMorph: true,

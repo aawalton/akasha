@@ -8,7 +8,7 @@ export const vengeanceBladeCloak = {
   key: "vengeance-blade-cloak",
   baseName: "Vengeance Blade Cloak",
   description:
-    '"Envelop yourself in a protective cloak of razors to gain Major Evasion, Minor Savagery, and Minor Prophecy for |cffffff20|r seconds, reducing damage taken from area attacks by |cffffff20|r% and increasing your Weapon and Spell Critical by |cffffff1314|r."',
+    "Envelop yourself in a protective cloak of razors to gain Major Evasion, Minor Savagery, and Minor Prophecy for |cffffff20|r seconds, reducing damage taken from area attacks by |cffffff20|r% and increasing your Weapon and Spell Critical by |cffffff1314|r.",
   icon: "/esoui/art/icons/ability_dualwield_004.dds",
   esoSkillId: 241188,
   isMorph: false,

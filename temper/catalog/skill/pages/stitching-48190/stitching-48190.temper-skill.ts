@@ -7,7 +7,7 @@ export const stitching48190 = {
   title: "Stitching",
   key: "stitching-48190",
   baseName: "Stitching",
-  description: '"Reduces research times by 5% and allows the research of two items at once."',
+  description: "Reduces research times by 5% and allows the research of two items at once.",
   icon: "/esoui/art/icons/crafting_light_armor_component_004.dds",
   esoSkillId: 48190,
   isMorph: false,

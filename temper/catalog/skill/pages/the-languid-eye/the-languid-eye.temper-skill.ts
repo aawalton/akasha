@@ -8,7 +8,7 @@ export const theLanguidEye = {
   key: "the-languid-eye",
   baseName: "The Unblinking Eye",
   description:
-    "\"Tear open the fabric of the Aurbis to summon a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for 6 seconds that deals 1115 Magic Damage to enemies within 5 meters every 0.5 seconds and snares them by 50% for 3 seconds. Every 0.5 seconds, the beam's damage increases by 7%.\\n\\nThe scion's beam can be repositioned by recasting The Languid Eye.\"",
+    "Tear open the fabric of the Aurbis to summon a scion of Hermaeus Mora. This being casts forth a beam that rends asunder reality for 6 seconds that deals 1115 Magic Damage to enemies within 5 meters every 0.5 seconds and snares them by 50% for 3 seconds. Every 0.5 seconds, the beam's damage increases by 7%.\n\nThe scion's beam can be repositioned by recasting The Languid Eye.",
   icon: "/esoui/art/icons/ability_arcanist_006_b.dds",
   esoSkillId: 40189867,
   isMorph: true,

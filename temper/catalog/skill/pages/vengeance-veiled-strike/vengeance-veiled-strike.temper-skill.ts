@@ -7,7 +7,7 @@ export const vengeanceVeiledStrike = {
   title: "Vengeance Veiled Strike",
   key: "vengeance-veiled-strike",
   baseName: "Vengeance Veiled Strike",
-  description: '"Slash an enemy, dealing |cffffff11130|r Magic Damage."',
+  description: "Slash an enemy, dealing |cffffff11130|r Magic Damage.",
   icon: "/esoui/art/icons/ability_nightblade_002.dds",
   esoSkillId: 237430,
   isMorph: false,

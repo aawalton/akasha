@@ -7,7 +7,7 @@ export const powerStone = {
   title: "Power Stone",
   key: "power-stone",
   baseName: "Power Stone",
-  description: '"Reduces the cost of your Ultimate abilities by 15%."',
+  description: "Reduces the cost of your Ultimate abilities by 15%.",
   icon: "/esoui/art/icons/ability_sorcerer_057.dds",
   esoSkillId: 45196,
   isMorph: false,

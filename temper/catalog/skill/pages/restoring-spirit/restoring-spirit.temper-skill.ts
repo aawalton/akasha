@@ -7,8 +7,7 @@ export const restoringSpirit = {
   title: "Restoring Spirit",
   key: "restoring-spirit",
   baseName: "Restoring Spirit",
-  description:
-    '"Reduces the Health, Magicka, Stamina, and Ultimate costs of your abilities by 5%."',
+  description: "Reduces the Health, Magicka, Stamina, and Ultimate costs of your abilities by 5%.",
   icon: "/esoui/art/icons/ability_templar_014.dds",
   esoSkillId: 45212,
   isMorph: false,

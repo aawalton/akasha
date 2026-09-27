@@ -8,7 +8,7 @@ export const corpseConsumption116284 = {
   key: "corpse-consumption-116284",
   baseName: "Corpse Consumption",
   description:
-    '"When you consume a corpse, you generate |cffffff5|r Ultimate. This effect can occur once every |cffffff16|r seconds."',
+    "When you consume a corpse, you generate |cffffff5|r Ultimate. This effect can occur once every |cffffff16|r seconds.",
   icon: "/esoui/art/icons/passive_necromancer_011.dds",
   esoSkillId: 116284,
   isMorph: false,

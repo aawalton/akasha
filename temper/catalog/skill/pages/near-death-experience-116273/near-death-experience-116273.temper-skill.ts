@@ -8,7 +8,7 @@ export const nearDeathExperience116273 = {
   key: "near-death-experience-116273",
   baseName: "Near-Death Experience",
   description:
-    '"While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff6|r% in proportion to the severity of the target\'s wounds."',
+    "While you have a Living Death ability slotted, your Critical Strike Chance with all healing abilities is increased by up to |cffffff6|r% in proportion to the severity of the target's wounds.",
   icon: "/esoui/art/icons/passive_necromancer_010.dds",
   esoSkillId: 116273,
   isMorph: false,

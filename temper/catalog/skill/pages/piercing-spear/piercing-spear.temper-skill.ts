@@ -8,7 +8,7 @@ export const piercingSpear = {
   key: "piercing-spear",
   baseName: "Piercing Spear",
   description:
-    '"Increases your Critical Damage by 12%. \\n\\nIncreases your damage done to blocking players by 12%."',
+    "Increases your Critical Damage by 12%. \n\nIncreases your damage done to blocking players by 12%.",
   icon: "/esoui/art/icons/ability_templar_022.dds",
   esoSkillId: 44046,
   isMorph: false,

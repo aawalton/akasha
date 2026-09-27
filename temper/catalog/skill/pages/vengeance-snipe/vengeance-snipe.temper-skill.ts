@@ -8,7 +8,7 @@ export const vengeanceSnipe = {
   key: "vengeance-snipe",
   baseName: "Vengeance Snipe",
   description:
-    '"Plant a masterfully aimed arrow in an enemy\'s vital spot, dealing |cffffff11519|r Physical Damage."',
+    "Plant a masterfully aimed arrow in an enemy's vital spot, dealing |cffffff11519|r Physical Damage.",
   icon: "/esoui/art/icons/ability_bow_001.dds",
   esoSkillId: 241255,
   isMorph: false,

@@ -8,7 +8,7 @@ export const detonatingSiphon = {
   key: "detonating-siphon",
   baseName: "Shocking Siphon",
   description:
-    '"Violently drain the last spark of life from a corpse, dealing 6180 Disease Damage over 20 seconds to all enemies around the corpse and between you and the corpse. You also gain Major Savagery and Prophecy for 20 seconds, increasing your Weapon and Spell Critical rating by 2629.\\n\\nWhen the siphon ends the corpse explodes, dealing an additional 1799 Disease Damage to all enemies nearby.\\n\\nWhile slotted, your damage done is increased by 3%."',
+    "Violently drain the last spark of life from a corpse, dealing 6180 Disease Damage over 20 seconds to all enemies around the corpse and between you and the corpse. You also gain Major Savagery and Prophecy for 20 seconds, increasing your Weapon and Spell Critical rating by 2629.\n\nWhen the siphon ends the corpse explodes, dealing an additional 1799 Disease Damage to all enemies nearby.\n\nWhile slotted, your damage done is increased by 3%.",
   icon: "/esoui/art/icons/ability_necromancer_005_b.dds",
   esoSkillId: 40118763,
   isMorph: true,

@@ -8,7 +8,7 @@ export const diplomat = {
   key: "diplomat",
   baseName: "Diplomat",
   description:
-    '"Increases your experience gain with the One Hand and Shield skill line by 15%.\\n\\nIncreases your gold gained by 1%."',
+    "Increases your experience gain with the One Hand and Shield skill line by 15%.\n\nIncreases your gold gained by 1%.",
   icon: "/esoui/art/icons/ability_templar_027.dds",
   esoSkillId: 36312,
   isMorph: false,

@@ -7,7 +7,7 @@ export const bountyHunter = {
   title: "Bounty Hunter",
   key: "bounty-hunter",
   baseName: "Bounty Hunter",
-  description: '"Allows you to accept bounty quests from the Fighters Guild in Cyrodiil."',
+  description: "Allows you to accept bounty quests from the Fighters Guild in Cyrodiil.",
   icon: "/esoui/art/icons/ability_armor_011.dds",
   esoSkillId: 35804,
   isMorph: false,

@@ -8,7 +8,7 @@ export const heavyShovel139906 = {
   key: "heavy-shovel-139906",
   baseName: "Heavy Shovel",
   description:
-    '"Removes |cFFFFFF1|r layer of dirt and rocks from up to a |cFFFFFF3x3|r area.\\n\\nThe shovel only affects a single contiguous height of dirt and rocks.\\n\\nCosts |c19D3FF2 Intuition|r to use."',
+    "Removes |cFFFFFF1|r layer of dirt and rocks from up to a |cFFFFFF3x3|r area.\n\nThe shovel only affects a single contiguous height of dirt and rocks.\n\nCosts |c19D3FF2 Intuition|r to use.",
   icon: "/esoui/art/icons/u26_ability_digging_02.dds",
   esoSkillId: 139906,
   isMorph: false,

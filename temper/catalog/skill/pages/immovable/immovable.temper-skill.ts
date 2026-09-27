@@ -8,7 +8,7 @@ export const immovable = {
   key: "immovable",
   baseName: "Unstoppable",
   description:
-    '"Intensify your physical presence to gain Major Resolve, increasing your Physical and Spell Resistance by 5948 for 23 seconds. \\n\\nAlso grants you immunity to knockback and disabling effects for 6 seconds, but reduces your Movement Speed by 65% for the duration.\\n\\nEach piece of Heavy Armor worn increases the amount of damage you block and the potency of the snare by 5%."',
+    "Intensify your physical presence to gain Major Resolve, increasing your Physical and Spell Resistance by 5948 for 23 seconds. \n\nAlso grants you immunity to knockback and disabling effects for 6 seconds, but reduces your Movement Speed by 65% for the duration.\n\nEach piece of Heavy Armor worn increases the amount of damage you block and the potency of the snare by 5%.",
   icon: "/esoui/art/icons/ability_armor_001_b.dds",
   esoSkillId: 41103,
   isMorph: true,

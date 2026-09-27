@@ -8,7 +8,7 @@ export const carpentry = {
   key: "carpentry",
   baseName: "Carpentry",
   description:
-    '"Reduces research times by 25%, limits research time to 30 days, and allows the research of three items at once."',
+    "Reduces research times by 25%, limits research time to 30 days, and allows the research of three items at once.",
   icon: "/esoui/art/icons/crafting_forester_plug_component_002.dds",
   esoSkillId: 58783,
   isMorph: false,

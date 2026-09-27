@@ -7,7 +7,7 @@ export const excavatorSReserves = {
   title: "Excavator's Reserves",
   key: "excavator-s-reserves",
   baseName: "Excavator's Reserves",
-  description: '"Increases the amount of time you have available when excavating a dig site."',
+  description: "Increases the amount of time you have available when excavating a dig site.",
   icon: "/esoui/art/icons/u26_ability_digging_05.dds",
   esoSkillId: 139910,
   isMorph: false,

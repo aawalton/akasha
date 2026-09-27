@@ -8,7 +8,7 @@ export const lightningForm = {
   key: "lightning-form",
   baseName: "Lightning Form",
   description:
-    '"Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing |cffffff1613|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds.  \\n\\nWhile in this form you also gain Major Resolve, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r."',
+    "Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing |cffffff1613|r Shock Damage every |cffffff2|r seconds for |cffffff20|r seconds.  \n\nWhile in this form you also gain Major Resolve, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_form.dds",
   esoSkillId: 23210,
   isMorph: false,

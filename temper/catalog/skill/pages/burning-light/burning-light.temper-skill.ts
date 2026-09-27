@@ -8,7 +8,7 @@ export const burningLight = {
   key: "burning-light",
   baseName: "Burning Light",
   description:
-    '"When you deal damage you generate a stack of Burning Light for 3 seconds. After reaching 4 stacks, you deal 500 Magic Damage to your target. This effect can stack once every half second and scales off the higher of your Weapon or Spell Damage."',
+    "When you deal damage you generate a stack of Burning Light for 3 seconds. After reaching 4 stacks, you deal 500 Magic Damage to your target. This effect can stack once every half second and scales off the higher of your Weapon or Spell Damage.",
   icon: "/esoui/art/icons/ability_templar_028.dds",
   esoSkillId: 44730,
   isMorph: false,

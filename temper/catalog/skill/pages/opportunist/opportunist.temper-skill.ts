@@ -8,7 +8,7 @@ export const opportunist = {
   key: "opportunist",
   baseName: "Opportunist",
   description:
-    '"Increases your experience gain with the Light Armor skill line by 15%.\\n\\nIncreases your Alliance Points gained by 1%."',
+    "Increases your experience gain with the Light Armor skill line by 15%.\n\nIncreases your Alliance Points gained by 1%.",
   icon: "/esoui/art/icons/ability_sorcerer_010.dds",
   esoSkillId: 36247,
   isMorph: false,

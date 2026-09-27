@@ -8,7 +8,7 @@ export const juggernaut = {
   key: "juggernaut",
   baseName: "Juggernaut",
   description:
-    '"Increases your Max Health by 2% for each piece of Heavy Armor equipped.  \\n\\nCurrent bonus: 0%."',
+    "Increases your Max Health by 2% for each piece of Heavy Armor equipped.  \n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_012.dds",
   esoSkillId: 45546,
   isMorph: false,

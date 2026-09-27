@@ -8,7 +8,7 @@ export const savageStrength32638 = {
   key: "savage-strength-32638",
   baseName: "Feral Cruelty",
   description:
-    '"Lorkh teaches through suffering. So too will your claws.\\n\\nIncreases your Weapon and Spell Damage by |cffffff12|r%, reducing to |cffffff5|r% against targets with Battle Spirit.\\n\\nGrants you Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r."',
+    "Lorkh teaches through suffering. So too will your claws.\n\nIncreases your Weapon and Spell Damage by |cffffff12|r%, reducing to |cffffff5|r% against targets with Battle Spirit.\n\nGrants you Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r.",
   icon: "/esoui/art/icons/ability_werewolf_009.dds",
   esoSkillId: 32638,
   isMorph: false,

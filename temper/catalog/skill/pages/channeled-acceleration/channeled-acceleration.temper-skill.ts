@@ -8,7 +8,7 @@ export const channeledAcceleration = {
   key: "channeled-acceleration",
   baseName: "Accelerate",
   description:
-    '"Bend time and space around you to gain Major Expedition for 12 seconds and Minor Force for 1 minute, increasing your Movement Speed by 30% and Critical Damage by 10%."',
+    "Bend time and space around you to gain Major Expedition for 12 seconds and Minor Force for 1 minute, increasing your Movement Speed by 30% and Critical Damage by 10%.",
   icon: "/esoui/art/icons/ability_psijic_005_a.dds",
   esoSkillId: 40103706,
   isMorph: true,

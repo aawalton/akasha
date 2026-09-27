@@ -8,7 +8,7 @@ export const crystallizedShield = {
   key: "crystallized-shield",
   baseName: "Crystallized Shield",
   description:
-    '"Spin a shield of ice around you, absorbing up to |cffffff23424|r damage from |cffffff3|r projectiles. \\n\\nEach time you absorb a projectile you gain |cffffff2|r Ultimate."',
+    "Spin a shield of ice around you, absorbing up to |cffffff23424|r damage from |cffffff3|r projectiles. \n\nEach time you absorb a projectile you gain |cffffff2|r Ultimate.",
   icon: "/esoui/art/icons/ability_warden_002.dds",
   esoSkillId: 86135,
   isMorph: false,

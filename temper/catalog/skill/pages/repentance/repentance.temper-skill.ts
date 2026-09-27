@@ -8,7 +8,7 @@ export const repentance = {
   key: "repentance",
   baseName: "Restoring Aura",
   description:
-    '"Consecrate the souls of the fallen, healing you and your allies for 3000 Health and restoring 3000 Stamina to you for each corpse nearby.\\n\\nWhile slotted on either bar, you gain Minor Fortitude, Minor Endurance, and Minor Intellect, increasing your Health, Stamina, and Magicka Recovery by 15%."',
+    "Consecrate the souls of the fallen, healing you and your allies for 3000 Health and restoring 3000 Stamina to you for each corpse nearby.\n\nWhile slotted on either bar, you gain Minor Fortitude, Minor Endurance, and Minor Intellect, increasing your Health, Stamina, and Magicka Recovery by 15%.",
   icon: "/esoui/art/icons/ability_templar_persistant_sigil.dds",
   esoSkillId: 27043,
   isMorph: true,

@@ -8,7 +8,7 @@ export const warHorn = {
   key: "war-horn",
   baseName: "War Horn",
   description:
-    '"Sound a war horn to rally your forces, increasing you and your group\'s Max Magicka and Max Stamina by |cffffff10|r% for |cffffff30|r seconds."',
+    "Sound a war horn to rally your forces, increasing you and your group's Max Magicka and Max Stamina by |cffffff10|r% for |cffffff30|r seconds.",
   icon: "/esoui/art/icons/ability_ava_003.dds",
   esoSkillId: 38563,
   isMorph: false,

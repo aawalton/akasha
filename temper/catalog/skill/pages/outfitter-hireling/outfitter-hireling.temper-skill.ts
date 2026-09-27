@@ -8,7 +8,7 @@ export const outfitterHireling = {
   key: "outfitter-hireling",
   baseName: "Outfitter Hireling",
   description:
-    '"A hireling will send you even more clothing materials and possibly other items every day. You have a greater chance at better quality materials."',
+    "A hireling will send you even more clothing materials and possibly other items every day. You have a greater chance at better quality materials.",
   icon: "/esoui/art/icons/ability_tradecraft_007.dds",
   esoSkillId: 48201,
   isMorph: false,

@@ -8,7 +8,7 @@ export const expansiveFrostCloak = {
   key: "expansive-frost-cloak",
   baseName: "Frost Cloak",
   description:
-    '"Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by 5948 for 20 seconds."',
+    "Wrap a thick cloak of ice around you and your grouped allies. The ice grants Major Resolve, increasing your Physical and Spell Resistance by 5948 for 20 seconds.",
   icon: "/esoui/art/icons/ability_warden_001_a.dds",
   esoSkillId: 86129,
   isMorph: true,

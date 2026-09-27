@@ -8,7 +8,7 @@ export const blessingOfRestoration40103 = {
   key: "blessing-of-restoration-40103",
   baseName: "Blessing of Protection",
   description:
-    '"Slam your staff down to activate its blessings, healing you and your allies in front of you for |cffffff9339|r Health.\\n\\nAlso grants Minor Resolve, increasing you and your allies\' Physical Resistance and Spell Resistance by |cffffff2974|r for |cffffff20|r seconds."',
+    "Slam your staff down to activate its blessings, healing you and your allies in front of you for |cffffff9339|r Health.\n\nAlso grants Minor Resolve, increasing you and your allies' Physical Resistance and Spell Resistance by |cffffff2974|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_003_a.dds",
   esoSkillId: 40103,
   isMorph: true,

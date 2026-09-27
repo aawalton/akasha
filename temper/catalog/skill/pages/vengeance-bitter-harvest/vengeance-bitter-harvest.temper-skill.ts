@@ -8,7 +8,7 @@ export const vengeanceBitterHarvest = {
   key: "vengeance-bitter-harvest",
   baseName: "Vengeance Bitter Harvest",
   description:
-    '"Sap the lingering life from up to 3 fresh corpses, granting you |cffffff3|r Ultimate and healing |cffffff1508|r Health per corpse consumed. You also gain Major Protection for |cffffff10|r seconds, reducing your damage taken by |cffffff10|r%. \\n\\nThis ability can be activated once every |cffffff3|r seconds."',
+    "Sap the lingering life from up to 3 fresh corpses, granting you |cffffff3|r Ultimate and healing |cffffff1508|r Health per corpse consumed. You also gain Major Protection for |cffffff10|r seconds, reducing your damage taken by |cffffff10|r%. \n\nThis ability can be activated once every |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_011.dds",
   esoSkillId: 238141,
   isMorph: false,

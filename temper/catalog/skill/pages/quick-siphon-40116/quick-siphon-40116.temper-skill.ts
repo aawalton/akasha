@@ -8,7 +8,7 @@ export const quickSiphon40116 = {
   key: "quick-siphon-40116",
   baseName: "Force Siphon",
   description:
-    '"Focus your staff\'s power to apply Minor Lifesteal to an enemy for |cffffff30|r seconds, healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them.\\n\\nWhen you or an ally hits the target, they gain Minor Expedition, which increases their Movement Speed by |cffffff15|r% for |cffffff4|r seconds."',
+    "Focus your staff's power to apply Minor Lifesteal to an enemy for |cffffff30|r seconds, healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them.\n\nWhen you or an ally hits the target, they gain Minor Expedition, which increases their Movement Speed by |cffffff15|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_005_b.dds",
   esoSkillId: 40116,
   isMorph: true,

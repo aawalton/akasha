@@ -8,7 +8,7 @@ export const falconSSwiftness = {
   key: "falcon-s-swiftness",
   baseName: "Falcon's Swiftness",
   description:
-    '"Invoke the spirit of agility to gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%.\\n\\nGain immunity to snares and immobilizations for |cffffff4|r seconds."',
+    "Invoke the spirit of agility to gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%.\n\nGain immunity to snares and immobilizations for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_warden_016.dds",
   esoSkillId: 86037,
   isMorph: false,

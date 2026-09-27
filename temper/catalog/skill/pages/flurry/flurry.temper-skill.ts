@@ -8,7 +8,7 @@ export const flurry = {
   key: "flurry",
   baseName: "Flurry",
   description:
-    '"Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff2320|r Physical Damage."',
+    "Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff2320|r Physical Damage.",
   icon: "/esoui/art/icons/ability_dualwield_002.dds",
   esoSkillId: 28607,
   isMorph: false,

@@ -8,7 +8,7 @@ export const practicedIncantation22226 = {
   key: "practiced-incantation-22226",
   baseName: "Rite of Passage",
   description:
-    '"Channel the grace of the gods, healing you and nearby allies for |cffffff8768|r Health every |cffffff1|r second for |cffffff8|r seconds.\\n\\nWhile channeling this ability, you gain immunity to all disabling effects."',
+    "Channel the grace of the gods, healing you and nearby allies for |cffffff8768|r Health every |cffffff1|r second for |cffffff8|r seconds.\n\nWhile channeling this ability, you gain immunity to all disabling effects.",
   icon: "/esoui/art/icons/ability_templar_practiced_incantation.dds",
   esoSkillId: 22226,
   isMorph: true,

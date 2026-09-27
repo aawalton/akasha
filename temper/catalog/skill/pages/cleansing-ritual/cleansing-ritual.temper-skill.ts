@@ -8,7 +8,7 @@ export const cleansingRitual = {
   key: "cleansing-ritual",
   baseName: "Cleansing Ritual",
   description:
-    '"Exalt in the sacred light of the Aedra, cleansing up to |cffffff2|r harmful effects from yourself immediately and healing you and nearby allies for |cffffff2655|r Health every |cffffff2|r seconds for |cffffff20|r seconds.\\n\\nAllies in the area can activate the Purify synergy, cleansing all harmful effects from themselves and healing for |cffffff6012|r Health."',
+    "Exalt in the sacred light of the Aedra, cleansing up to |cffffff2|r harmful effects from yourself immediately and healing you and nearby allies for |cffffff2655|r Health every |cffffff2|r seconds for |cffffff20|r seconds.\n\nAllies in the area can activate the Purify synergy, cleansing all harmful effects from themselves and healing for |cffffff6012|r Health.",
   icon: "/esoui/art/icons/ability_templar_cleansing_ritual.dds",
   esoSkillId: 22265,
   isMorph: false,

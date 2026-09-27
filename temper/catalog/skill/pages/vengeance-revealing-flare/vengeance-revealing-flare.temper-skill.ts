@@ -8,7 +8,7 @@ export const vengeanceRevealingFlare = {
   key: "vengeance-revealing-flare",
   baseName: "Vengeance Revealing Flare",
   description:
-    '"Launch a blinding flare, revealing stealthed and invisible enemies in the target area. Exposed enemies take |cffffff11760|r Magic Damage and cannot return to stealth or invisibility for |cffffff6|r seconds."',
+    "Launch a blinding flare, revealing stealthed and invisible enemies in the target area. Exposed enemies take |cffffff11760|r Magic Damage and cannot return to stealth or invisibility for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_ava_revealing_flare.dds",
   esoSkillId: 245049,
   isMorph: false,

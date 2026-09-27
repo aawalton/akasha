@@ -8,7 +8,7 @@ export const metalExtraction = {
   key: "metal-extraction",
   baseName: "Metal Extraction",
   description:
-    '"Maximizes the chances of extracting Blacksmithing ingredients and allows the refining of the most powerful tempers from raw materials."',
+    "Maximizes the chances of extracting Blacksmithing ingredients and allows the refining of the most powerful tempers from raw materials.",
   icon: "/esoui/art/icons/ability_smith_003.dds",
   esoSkillId: 48165,
   isMorph: false,

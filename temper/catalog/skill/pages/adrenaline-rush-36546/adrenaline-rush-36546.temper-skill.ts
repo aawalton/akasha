@@ -8,7 +8,7 @@ export const adrenalineRush36546 = {
   key: "adrenaline-rush-36546",
   baseName: "Adrenaline Rush",
   description:
-    '"When you deal damage, you restore |cffffff333|r Stamina. This effect can occur once every |cffffff5|r seconds."',
+    "When you deal damage, you restore |cffffff333|r Stamina. This effect can occur once every |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_armor_012.dds",
   esoSkillId: 36546,
   isMorph: false,

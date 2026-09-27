@@ -8,7 +8,7 @@ export const expertSummoner = {
   key: "expert-summoner",
   baseName: "Expert Summoner",
   description:
-    '"Increases your Magicka and Stamina by 5%.\\n\\nIncreases your Max Health by 5% if you have a permanent pet active."',
+    "Increases your Magicka and Stamina by 5%.\n\nIncreases your Max Health by 5% if you have a permanent pet active.",
   icon: "/esoui/art/icons/ability_sorcerer_019.dds",
   esoSkillId: 45199,
   isMorph: false,

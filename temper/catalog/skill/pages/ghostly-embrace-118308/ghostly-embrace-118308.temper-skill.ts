@@ -8,7 +8,7 @@ export const ghostlyEmbrace118308 = {
   key: "ghostly-embrace-118308",
   baseName: "Grave Grasp",
   description:
-    '"Summon three patches of skeletal claws from the ground in front of you, each dealing |cffffff3305|r Frost Damage.\\n\\nThe first area applies the Chilled status effect, the second area deals an additional |cffffff5375|r Frost Damage over |cffffff5|r seconds, and the final area creates a corpse if at least one enemy was hit."',
+    "Summon three patches of skeletal claws from the ground in front of you, each dealing |cffffff3305|r Frost Damage.\n\nThe first area applies the Chilled status effect, the second area deals an additional |cffffff5375|r Frost Damage over |cffffff5|r seconds, and the final area creates a corpse if at least one enemy was hit.",
   icon: "/esoui/art/icons/ability_necromancer_009_b.dds",
   esoSkillId: 118308,
   isMorph: true,

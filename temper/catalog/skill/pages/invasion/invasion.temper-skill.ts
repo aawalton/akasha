@@ -8,7 +8,7 @@ export const invasion = {
   key: "invasion",
   baseName: "Shield Charge",
   description:
-    '"Rush an enemy and ram them, dealing 1393 Physical Damage and stunning them for 4 seconds.\\n\\nStuns up to 50% longer based on the distance traveled."',
+    "Rush an enemy and ram them, dealing 1393 Physical Damage and stunning them for 4 seconds.\n\nStuns up to 50% longer based on the distance traveled.",
   icon: "/esoui/art/icons/ability_1handed_003_b.dds",
   esoSkillId: 41538,
   isMorph: true,

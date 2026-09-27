@@ -7,7 +7,7 @@ export const restorationMaster = {
   title: "Restoration Master",
   key: "restoration-master",
   baseName: "Restoration Master",
-  description: '"Increases healing with Restoration Staff spells by 5%."',
+  description: "Increases healing with Restoration Staff spells by 5%.",
   icon: "/esoui/art/icons/ability_templar_012.dds",
   esoSkillId: 45524,
   isMorph: false,

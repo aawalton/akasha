@@ -8,7 +8,7 @@ export const battleResurrection39261 = {
   key: "battle-resurrection-39261",
   baseName: "Battle Resurrection",
   description:
-    '"Reduces the time it takes you to resurrect another player by |cffffff15|r% while you are in a PvP area."',
+    "Reduces the time it takes you to resurrect another player by |cffffff15|r% while you are in a PvP area.",
   icon: "/esoui/art/icons/ability_sorcerer_018.dds",
   esoSkillId: 39261,
   isMorph: false,

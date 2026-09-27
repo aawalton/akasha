@@ -8,7 +8,7 @@ export const shatteringSpines = {
   key: "shattering-spines",
   baseName: "Encase",
   description:
-    '"Call forth Daedric shards from the earth to encase and immobilize all enemies in front of you for 4 seconds. After the effect ends the shards shatter, dealing 1979 Magic Damage to any enemy that was encased.\\n\\nEnemies hit are afflicted with Major Maim, reducing their damage done by 10% for 10 seconds."',
+    "Call forth Daedric shards from the earth to encase and immobilize all enemies in front of you for 4 seconds. After the effect ends the shards shatter, dealing 1979 Magic Damage to any enemy that was encased.\n\nEnemies hit are afflicted with Major Maim, reducing their damage done by 10% for 10 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_twister.dds",
   esoSkillId: 30095,
   isMorph: true,

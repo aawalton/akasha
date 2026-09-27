@@ -7,7 +7,7 @@ export const resinExpertise = {
   title: "Resin Expertise",
   key: "resin-expertise",
   baseName: "Resin Expertise",
-  description: '"More than doubles the chances to improve items with resins."',
+  description: "More than doubles the chances to improve items with resins.",
   icon: "/esoui/art/icons/ability_tradecraft_001.dds",
   esoSkillId: 48177,
   isMorph: false,

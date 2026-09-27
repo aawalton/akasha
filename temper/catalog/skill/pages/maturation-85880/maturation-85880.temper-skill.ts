@@ -8,7 +8,7 @@ export const maturation85880 = {
   key: "maturation-85880",
   baseName: "Maturation",
   description:
-    '"When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by |cffffff10|r% for |cffffff10|r seconds."',
+    "When you activate a heal on yourself or an ally you grant the target Minor Toughness, increasing their Max Health by |cffffff10|r% for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/passive_warden_007.dds",
   esoSkillId: 85880,
   isMorph: false,

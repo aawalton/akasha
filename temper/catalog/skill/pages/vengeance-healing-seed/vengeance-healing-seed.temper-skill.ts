@@ -8,7 +8,7 @@ export const vengeanceHealingSeed = {
   key: "vengeance-healing-seed",
   baseName: "Vengeance Healing Seed",
   description:
-    '"Summon a field of flowers which blooms after |cffffff6|r seconds, healing up to 3 of you and your allies in the area for |cffffff16065|r Health."',
+    "Summon a field of flowers which blooms after |cffffff6|r seconds, healing up to 3 of you and your allies in the area for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_warden_007.dds",
   esoSkillId: 238055,
   isMorph: false,

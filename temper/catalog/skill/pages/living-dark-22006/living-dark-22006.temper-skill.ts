@@ -8,7 +8,7 @@ export const livingDark22006 = {
   key: "living-dark-22006",
   baseName: "Eclipse",
   description:
-    '"Envelop yourself in a lightless sphere for |cffffff10|r seconds to protect yourself. Anytime you take direct damage, the sphere lashes back at the attacker, reducing their Movement Speed by |cffffff40|r% for |cffffff3|r seconds and healing you for |cffffff2107|r Health. These effects can occur once every half second."',
+    "Envelop yourself in a lightless sphere for |cffffff10|r seconds to protect yourself. Anytime you take direct damage, the sphere lashes back at the attacker, reducing their Movement Speed by |cffffff40|r% for |cffffff3|r seconds and healing you for |cffffff2107|r Health. These effects can occur once every half second.",
   icon: "/esoui/art/icons/ability_templar_unstable_core.dds",
   esoSkillId: 22006,
   isMorph: true,

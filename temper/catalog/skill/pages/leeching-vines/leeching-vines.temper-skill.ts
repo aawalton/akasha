@@ -8,7 +8,7 @@ export const leechingVines = {
   key: "leeching-vines",
   baseName: "Living Vines",
   description:
-    '"Grow vines to embrace you or the lowest health ally in front of you for 10 seconds. The vines heal the target for 718 Health each time they take damage. This effect can occur once every 1 second.\\n\\nThe vines apply Minor Lifesteal to enemies that damage the target for 10 seconds, healing you and your allies for 600 Health every 1 second when damaging that enemy."',
+    "Grow vines to embrace you or the lowest health ally in front of you for 10 seconds. The vines heal the target for 718 Health each time they take damage. This effect can occur once every 1 second.\n\nThe vines apply Minor Lifesteal to enemies that damage the target for 10 seconds, healing you and your allies for 600 Health every 1 second when damaging that enemy.",
   icon: "/esoui/art/icons/ability_warden_010_a.dds",
   esoSkillId: 93880,
   isMorph: true,

@@ -8,7 +8,7 @@ export const combustion29424 = {
   key: "combustion-29424",
   baseName: "Combustion",
   description:
-    '"To you, flame is fuel. \\n\\nWhen you apply Burning, you restore |cffffff112|r Magicka and Stamina. This effect can occur once every |cffffff1|r second."',
+    "To you, flame is fuel. \n\nWhen you apply Burning, you restore |cffffff112|r Magicka and Stamina. This effect can occur once every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_sorcerer_011.dds",
   esoSkillId: 29424,
   isMorph: false,

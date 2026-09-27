@@ -8,7 +8,7 @@ export const snipe = {
   key: "snipe",
   baseName: "Snipe",
   description:
-    '"Plant a masterfully aimed arrow in an enemy\'s vital spot, dealing |cffffff8359|r Physical Damage."',
+    "Plant a masterfully aimed arrow in an enemy's vital spot, dealing |cffffff8359|r Physical Damage.",
   icon: "/esoui/art/icons/ability_bow_001.dds",
   esoSkillId: 28882,
   isMorph: false,

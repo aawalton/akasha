@@ -7,7 +7,7 @@ export const vengeanceLavaWhip = {
   title: "Vengeance Lava Whip",
   key: "vengeance-lava-whip",
   baseName: "Vengeance Lava Whip",
-  description: '"Lash an enemy with flame, dealing |cffffff11130|r Flame Damage."',
+  description: "Lash an enemy with flame, dealing |cffffff11130|r Flame Damage.",
   icon: "/esoui/art/icons/ability_dragonknight_001.dds",
   esoSkillId: 237606,
   isMorph: false,

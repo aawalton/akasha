@@ -8,7 +8,7 @@ export const absorbMissile = {
   key: "absorb-missile",
   baseName: "Defensive Posture",
   description:
-    '"Bolster your defenses, gaining a damage shield that absorbs up to 4958 damage for 6 seconds.  \\n\\nWhile the shield persists, you are healed for 2560 Health the next time a harmful direct damage projectile hits you. This effect can occur once per cast.\\n\\nThis ability scales off your Max Health."',
+    "Bolster your defenses, gaining a damage shield that absorbs up to 4958 damage for 6 seconds.  \n\nWhile the shield persists, you are healed for 2560 Health the next time a harmful direct damage projectile hits you. This effect can occur once per cast.\n\nThis ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_1handed_004_b.dds",
   esoSkillId: 41380,
   isMorph: true,

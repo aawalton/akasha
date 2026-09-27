@@ -8,7 +8,7 @@ export const vengeanceBoundArmor = {
   key: "vengeance-bound-armor",
   baseName: "Vengeance Bound Armor",
   description:
-    '"Protect yourself with the power of Oblivion, creating a suit of Daedric mail that grants Major Protection for |cffffff10|r seconds, reducing your damage taken by |cffffff10|r%."',
+    "Protect yourself with the power of Oblivion, creating a suit of Daedric mail that grants Major Protection for |cffffff10|r seconds, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_bound_armor.dds",
   esoSkillId: 237930,
   isMorph: false,

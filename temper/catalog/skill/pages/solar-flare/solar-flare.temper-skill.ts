@@ -8,7 +8,7 @@ export const solarFlare = {
   key: "solar-flare",
   baseName: "Solar Flare",
   description:
-    '"Conjure a ball of solar energy to heave at an enemy, dealing |cffffff8359|r Magic Damage and increasing your damage done with class abilities by |cffffff5|r% for |cffffff10|r seconds.\\n\\nAlso grants you Empower for |cffffff10|r seconds, increasing the damage of your Heavy Attacks against monsters by |cffffff70|r%."',
+    "Conjure a ball of solar energy to heave at an enemy, dealing |cffffff8359|r Magic Damage and increasing your damage done with class abilities by |cffffff5|r% for |cffffff10|r seconds.\n\nAlso grants you Empower for |cffffff10|r seconds, increasing the damage of your Heavy Attacks against monsters by |cffffff70|r%.",
   icon: "/esoui/art/icons/ability_templar_solar_flare.dds",
   esoSkillId: 22057,
   isMorph: false,

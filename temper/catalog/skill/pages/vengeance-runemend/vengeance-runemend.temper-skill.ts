@@ -8,7 +8,7 @@ export const vengeanceRunemend = {
   key: "vengeance-runemend",
   baseName: "Vengeance Runemend",
   description:
-    '"Craft a precise Apocryphal rune, then propel it at yourself or an ally in front of you. The rune heals for |cffffff14459|r Health and generates Crux."',
+    "Craft a precise Apocryphal rune, then propel it at yourself or an ally in front of you. The rune heals for |cffffff14459|r Health and generates Crux.",
   icon: "/esoui/art/icons/ability_arcanist_013.dds",
   esoSkillId: 238429,
   isMorph: false,

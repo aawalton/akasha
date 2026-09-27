@@ -8,7 +8,7 @@ export const woodExtraction = {
   key: "wood-extraction",
   baseName: "Wood Extraction",
   description:
-    '"Maximizes the chances of extracting Woodworking ingredients and allows the refining of the most powerful resins from raw materials."',
+    "Maximizes the chances of extracting Woodworking ingredients and allows the refining of the most powerful resins from raw materials.",
   icon: "/esoui/art/icons/ability_tradecraft_006.dds",
   esoSkillId: 48180,
   isMorph: false,

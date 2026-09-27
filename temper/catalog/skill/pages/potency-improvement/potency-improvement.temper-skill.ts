@@ -8,7 +8,7 @@ export const potencyImprovement = {
   key: "potency-improvement",
   baseName: "Potency Improvement",
   description:
-    '"Allows the use of Rejera, Repora, Jehade, and Itade Potency Runestones to make Glyphs of Champion 150 and 160."',
+    "Allows the use of Rejera, Repora, Jehade, and Itade Potency Runestones to make Glyphs of Champion 150 and 160.",
   icon: "/esoui/art/icons/ability_enchanter_001b.dds",
   esoSkillId: 70045,
   isMorph: false,

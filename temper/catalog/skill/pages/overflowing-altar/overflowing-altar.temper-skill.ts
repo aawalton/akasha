@@ -8,7 +8,7 @@ export const overflowingAltar = {
   key: "overflowing-altar",
   baseName: "Blood Altar",
   description:
-    '"Sacrifice your life essence to conjure a fountain of blood to apply Minor Lifesteal to enemies in the area, healing you and your allies for 600 Health every 1 second when damaging them.\\n\\nAllies in the area can activate the Blood Feast synergy, healing for 65% of their Max Health."',
+    "Sacrifice your life essence to conjure a fountain of blood to apply Minor Lifesteal to enemies in the area, healing you and your allies for 600 Health every 1 second when damaging them.\n\nAllies in the area can activate the Blood Feast synergy, healing for 65% of their Max Health.",
   icon: "/esoui/art/icons/ability_undaunted_001_a.dds",
   esoSkillId: 43287,
   isMorph: true,

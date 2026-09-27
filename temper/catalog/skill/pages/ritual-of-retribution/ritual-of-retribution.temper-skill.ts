@@ -8,7 +8,7 @@ export const ritualOfRetribution = {
   key: "ritual-of-retribution",
   baseName: "Cleansing Ritual",
   description:
-    '"Exalt in the sacred light of the Aedra, cleansing up to 2 harmful effects from yourself immediately.  While in the area, enemies take 435 Magic Damage every 2 seconds for 20 seconds which increases by 12% per tick.  \\n\\nAllies in the area can activate the Purify synergy, cleansing all harmful effects from themselves and healing for 1912 Health."',
+    "Exalt in the sacred light of the Aedra, cleansing up to 2 harmful effects from yourself immediately.  While in the area, enemies take 435 Magic Damage every 2 seconds for 20 seconds which increases by 12% per tick.  \n\nAllies in the area can activate the Purify synergy, cleansing all harmful effects from themselves and healing for 1912 Health.",
   icon: "/esoui/art/icons/ability_templar_purifying_ritual.dds",
   esoSkillId: 27275,
   isMorph: true,

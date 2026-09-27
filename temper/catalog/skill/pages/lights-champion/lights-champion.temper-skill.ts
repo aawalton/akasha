@@ -8,7 +8,7 @@ export const lightsChampion = {
   key: "lights-champion",
   baseName: "Panacea",
   description:
-    '"Release the rejuvenating energies of your staff to swirl around you, healing you or a nearby ally for 2904 Health every 1 second for 5 seconds.\\n\\nAny friendly target you heal gains Major Force for 8 seconds, increasing their Critical Damage by 20%."',
+    "Release the rejuvenating energies of your staff to swirl around you, healing you or a nearby ally for 2904 Health every 1 second for 5 seconds.\n\nAny friendly target you heal gains Major Force for 8 seconds, increasing their Critical Damage by 20%.",
   icon: "/esoui/art/icons/ability_restorationstaff_006_b.dds",
   esoSkillId: 86475,
   isMorph: true,

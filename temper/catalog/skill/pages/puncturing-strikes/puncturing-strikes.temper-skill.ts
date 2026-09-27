@@ -8,7 +8,7 @@ export const puncturingStrikes = {
   key: "puncturing-strikes",
   baseName: "Puncturing Strikes",
   description:
-    '"Launch a relentless assault, striking up to 6 enemies in front of you three times with your Aedric spear. The spear deals |cffffff3270|r Magic Damage per strike and reduces enemy Movement Speed by |cffffff40|r% for |cffffff0.5|r seconds."',
+    "Launch a relentless assault, striking up to 6 enemies in front of you three times with your Aedric spear. The spear deals |cffffff3270|r Magic Damage per strike and reduces enemy Movement Speed by |cffffff40|r% for |cffffff0.5|r seconds.",
   icon: "/esoui/art/icons/ability_templar_trained_attacker.dds",
   esoSkillId: 26114,
   isMorph: false,

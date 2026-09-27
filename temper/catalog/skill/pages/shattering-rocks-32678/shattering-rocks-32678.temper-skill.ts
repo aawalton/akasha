@@ -8,7 +8,7 @@ export const shatteringRocks32678 = {
   key: "shattering-rocks-32678",
   baseName: "Petrify",
   description:
-    '"Encase an enemy in molten rock, reducing their movement speed by |cffffff50|r% for |cffffff1|r second. Upon completion, the target is stunned for |cffffff4|r seconds, or |cffffff8|r seconds against monsters. After the stun ends, the target takes |cffffff4796|r Flame Damage and you heal for |cffffff8679|r Health.\\n\\nThis stun cannot be blocked.\\n\\nThe molten rock melts through the enemy\'s armor and applies Minor Breach for |cffffff10|r seconds, reducing Armor by |cffffff2974|r."',
+    "Encase an enemy in molten rock, reducing their movement speed by |cffffff50|r% for |cffffff1|r second. Upon completion, the target is stunned for |cffffff4|r seconds, or |cffffff8|r seconds against monsters. After the stun ends, the target takes |cffffff4796|r Flame Damage and you heal for |cffffff8679|r Health.\n\nThis stun cannot be blocked.\n\nThe molten rock melts through the enemy's armor and applies Minor Breach for |cffffff10|r seconds, reducing Armor by |cffffff2974|r.",
   icon: "/esoui/art/icons/ability_dragonknight_014b.dds",
   esoSkillId: 32678,
   isMorph: true,

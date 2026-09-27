@@ -8,7 +8,7 @@ export const unholyKnowledge31386 = {
   key: "unholy-knowledge-31386",
   baseName: "Unholy Knowledge",
   description:
-    '"Reduces the Health, Magicka, and Stamina costs of your non Core Combat abilities by |cffffff3|r%."',
+    "Reduces the Health, Magicka, and Stamina costs of your non Core Combat abilities by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_045.dds",
   esoSkillId: 31386,
   isMorph: false,

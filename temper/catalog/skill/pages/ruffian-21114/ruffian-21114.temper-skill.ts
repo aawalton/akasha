@@ -8,7 +8,7 @@ export const ruffian21114 = {
   key: "ruffian-21114",
   baseName: "Ruffian",
   description:
-    '"Gives you an |cffffff8|r% damage bonus when attacking stunned, immobilized, or silenced enemies."',
+    "Gives you an |cffffff8|r% damage bonus when attacking stunned, immobilized, or silenced enemies.",
   icon: "/esoui/art/icons/ability_weapon_014.dds",
   esoSkillId: 21114,
   isMorph: false,

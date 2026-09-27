@@ -8,7 +8,7 @@ export const lifeAmidDeath = {
   key: "life-amid-death",
   baseName: "Life amid Death",
   description:
-    '"Release residual fragments of fallen souls at the target location, healing you and your allies for |cffffff7305|r Health.\\n\\nConsumes a corpse on cast to continue to heal you and your allies in the area for |cffffff7300|r Health over |cffffff5|r seconds."',
+    "Release residual fragments of fallen souls at the target location, healing you and your allies for |cffffff7305|r Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for |cffffff7300|r Health over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_016.dds",
   esoSkillId: 115315,
   isMorph: false,

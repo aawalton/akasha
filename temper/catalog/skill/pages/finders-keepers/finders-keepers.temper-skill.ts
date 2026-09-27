@@ -8,7 +8,7 @@ export const findersKeepers = {
   key: "finders-keepers",
   baseName: "Finders Keepers",
   description:
-    '"Thieves Troves are caches that are located all over Tamriel. They can only be opened by members of the Thieves Guild."',
+    "Thieves Troves are caches that are located all over Tamriel. They can only be opened by members of the Thieves Guild.",
   icon: "/esoui/art/icons/ability_thievesguild_passive_001.dds",
   esoSkillId: 74580,
   isMorph: false,

@@ -8,7 +8,7 @@ export const scorch = {
   key: "scorch",
   baseName: "Scorch",
   description:
-    '"Stir a group of shalk that attack after |cffffff3|r seconds, dealing |cffffff9215|r Magic Damage to enemies in front of you.\\n\\nAfter the shalk complete their attack, they burrow underground for |cffffff6|r seconds and then resurface again, dealing |cffffff12802|r Magic Damage to enemies in front of you."',
+    "Stir a group of shalk that attack after |cffffff3|r seconds, dealing |cffffff9215|r Magic Damage to enemies in front of you.\n\nAfter the shalk complete their attack, they burrow underground for |cffffff6|r seconds and then resurface again, dealing |cffffff12802|r Magic Damage to enemies in front of you.",
   icon: "/esoui/art/icons/ability_warden_015.dds",
   esoSkillId: 86009,
   isMorph: false,

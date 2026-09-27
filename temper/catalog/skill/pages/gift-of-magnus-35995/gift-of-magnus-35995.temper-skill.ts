@@ -7,7 +7,7 @@ export const giftOfMagnus35995 = {
   title: "Gift of Magnus",
   key: "gift-of-magnus-35995",
   baseName: "Gift of Magnus",
-  description: '"Increases your Max Magicka by |cffffff600|r."',
+  description: "Increases your Max Magicka by |cffffff600|r.",
   icon: "/esoui/art/icons/ability_armor_004.dds",
   esoSkillId: 35995,
   isMorph: false,

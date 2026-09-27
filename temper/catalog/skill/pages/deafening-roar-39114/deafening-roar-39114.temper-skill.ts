@@ -8,7 +8,7 @@ export const deafeningRoar39114 = {
   key: "deafening-roar-39114",
   baseName: "Roar",
   description:
-    '"Roar with bloodlust to fear nearby enemies for |cffffff4|r seconds, setting them Off Balance for |cffffff7|r seconds, and applying Major Cowardice and Maim for |cffffff14|r seconds. Grants you a stack of Blood Hunger.\\n\\nUp to 12 nearby allies can activate the Feeding Frenzy synergy, which grants |cffffff6|r% damage done and Minor Force for |cffffff30|r seconds.\\n\\nWhile slotted you gain Major Evasion and Minor Protection. Selecting this morph causes your Gnash to taunt enemies if cast while Bracing."',
+    "Roar with bloodlust to fear nearby enemies for |cffffff4|r seconds, setting them Off Balance for |cffffff7|r seconds, and applying Major Cowardice and Maim for |cffffff14|r seconds. Grants you a stack of Blood Hunger.\n\nUp to 12 nearby allies can activate the Feeding Frenzy synergy, which grants |cffffff6|r% damage done and Minor Force for |cffffff30|r seconds.\n\nWhile slotted you gain Major Evasion and Minor Protection. Selecting this morph causes your Gnash to taunt enemies if cast while Bracing.",
   icon: "/esoui/art/icons/ability_werewolf_003_a.dds",
   esoSkillId: 39114,
   isMorph: true,

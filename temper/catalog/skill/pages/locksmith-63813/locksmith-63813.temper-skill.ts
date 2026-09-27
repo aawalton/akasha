@@ -7,7 +7,7 @@ export const locksmith63813 = {
   title: "Locksmith",
   key: "locksmith-63813",
   baseName: "Locksmith",
-  description: '"Improves your chances of forcing locks by |cffffff45|r%."',
+  description: "Improves your chances of forcing locks by |cffffff45|r%.",
   icon: "/esoui/art/icons/ability_legerdemain_lockpick.dds",
   esoSkillId: 63813,
   isMorph: false,

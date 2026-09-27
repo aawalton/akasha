@@ -8,7 +8,7 @@ export const vengeancePuncture = {
   key: "vengeance-puncture",
   baseName: "Vengeance Puncture",
   description:
-    '"Thrust your weapon with disciplined precision at an enemy, dealing |cffffff5565|r Physical Damage.\\n\\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff15|r seconds."',
+    "Thrust your weapon with disciplined precision at an enemy, dealing |cffffff5565|r Physical Damage.\n\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_002.dds",
   esoSkillId: 240547,
   isMorph: false,

@@ -8,7 +8,7 @@ export const cuttingDive = {
   key: "cutting-dive",
   baseName: "Dive",
   description:
-    '"Command a cliff racer to dive bomb an enemy, dealing 2091 Bleed Damage immediately and then causing them to bleed for 2140 Bleed Damage over 10 seconds.\\n\\nIf you are more than 7 meters away from the target, you set them Off Balance for 7 seconds."',
+    "Command a cliff racer to dive bomb an enemy, dealing 2091 Bleed Damage immediately and then causing them to bleed for 2140 Bleed Damage over 10 seconds.\n\nIf you are more than 7 meters away from the target, you set them Off Balance for 7 seconds.",
   icon: "/esoui/art/icons/ability_warden_013_b.dds",
   esoSkillId: 86002,
   isMorph: true,

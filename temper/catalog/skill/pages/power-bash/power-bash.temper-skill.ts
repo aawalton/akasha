@@ -8,7 +8,7 @@ export const powerBash = {
   key: "power-bash",
   baseName: "Power Bash",
   description:
-    '"Strike an enemy full-force with your shield, dealing |cffffff8203|r Physical Damage. \\n\\nThis ability\'s damage is considered Bash damage and interrupts the enemy if they are casting."',
+    "Strike an enemy full-force with your shield, dealing |cffffff8203|r Physical Damage. \n\nThis ability's damage is considered Bash damage and interrupts the enemy if they are casting.",
   icon: "/esoui/art/icons/ability_1handed_005.dds",
   esoSkillId: 28365,
   isMorph: false,

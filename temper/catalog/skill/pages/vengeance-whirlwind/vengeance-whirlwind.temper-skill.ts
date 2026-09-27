@@ -8,7 +8,7 @@ export const vengeanceWhirlwind = {
   key: "vengeance-whirlwind",
   baseName: "Vengeance Whirlwind",
   description:
-    '"Launch yourself into a lethal spin, dealing |cffffff8820|r Physical Damage to up to 3 nearby enemies.\\nDeals up to |cffffff33|r% more damage to enemies below |cffffff50|r% Health."',
+    "Launch yourself into a lethal spin, dealing |cffffff8820|r Physical Damage to up to 3 nearby enemies.\nDeals up to |cffffff33|r% more damage to enemies below |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_dualwield_005.dds",
   esoSkillId: 240594,
   isMorph: false,

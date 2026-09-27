@@ -8,7 +8,7 @@ export const fossilize32685 = {
   key: "fossilize-32685",
   baseName: "Petrify",
   description:
-    '"Encase an enemy in molten rock, reducing their movement speed by |cffffff50|r% for |cffffff1|r second. Upon completion, the target is stunned for |cffffff4|r seconds, or |cffffff8|r seconds against monsters. Immobilizes the target for |cffffff4|r seconds after the stun ends.\\n\\nThis stun cannot be blocked.\\n\\nThe molten rock melts through the enemy\'s armor and applies Minor Breach and Minor Vulnerability for |cffffff20|r seconds, reducing Armor by |cffffff2974|r and increasing damage taken by |cffffff5|r%."',
+    "Encase an enemy in molten rock, reducing their movement speed by |cffffff50|r% for |cffffff1|r second. Upon completion, the target is stunned for |cffffff4|r seconds, or |cffffff8|r seconds against monsters. Immobilizes the target for |cffffff4|r seconds after the stun ends.\n\nThis stun cannot be blocked.\n\nThe molten rock melts through the enemy's armor and applies Minor Breach and Minor Vulnerability for |cffffff20|r seconds, reducing Armor by |cffffff2974|r and increasing damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_014_a.dds",
   esoSkillId: 32685,
   isMorph: true,

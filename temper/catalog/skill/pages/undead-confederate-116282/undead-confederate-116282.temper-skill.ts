@@ -8,7 +8,7 @@ export const undeadConfederate116282 = {
   key: "undead-confederate-116282",
   baseName: "Undead Confederate",
   description:
-    '"While you have a Sacrificial Bones, Skeletal Mage, or Spirit Mender active, your Health, Magicka, and Stamina Recovery is increased by |cffffff77|r."',
+    "While you have a Sacrificial Bones, Skeletal Mage, or Spirit Mender active, your Health, Magicka, and Stamina Recovery is increased by |cffffff77|r.",
   icon: "/esoui/art/icons/passive_necromancer_012.dds",
   esoSkillId: 116282,
   isMorph: false,

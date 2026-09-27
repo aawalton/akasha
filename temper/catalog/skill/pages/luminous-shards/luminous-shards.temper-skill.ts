@@ -8,7 +8,7 @@ export const luminousShards = {
   key: "luminous-shards",
   baseName: "Spear Shards",
   description:
-    '"Send your spear into the heavens to bring down a shower of divine wrath, dealing 1742 Magic Damage to enemies in the area and an additional 165 Magic Damage every 1 second for 10 seconds.\\n\\nYou or an ally near the spear can activate the Holy Shards synergy, which restores 3960 Magicka and Stamina."',
+    "Send your spear into the heavens to bring down a shower of divine wrath, dealing 1742 Magic Damage to enemies in the area and an additional 165 Magic Damage every 1 second for 10 seconds.\n\nYou or an ally near the spear can activate the Holy Shards synergy, which restores 3960 Magicka and Stamina.",
   icon: "/esoui/art/icons/ability_templar_light_strike.dds",
   esoSkillId: 27122,
   isMorph: true,

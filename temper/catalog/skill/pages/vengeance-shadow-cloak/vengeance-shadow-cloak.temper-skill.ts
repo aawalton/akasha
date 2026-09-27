@@ -8,7 +8,7 @@ export const vengeanceShadowCloak = {
   key: "vengeance-shadow-cloak",
   baseName: "Vengeance Shadow Cloak",
   description:
-    '"Cloak yourself in shadow to become invisible for |cffffff3|r seconds while immediately healing yourself for |cffffff10710|r Health."',
+    "Cloak yourself in shadow to become invisible for |cffffff3|r seconds while immediately healing yourself for |cffffff10710|r Health.",
   icon: "/esoui/art/icons/ability_nightblade_004.dds",
   esoSkillId: 237640,
   isMorph: false,

@@ -8,7 +8,7 @@ export const dexterity = {
   key: "dexterity",
   baseName: "Dexterity",
   description:
-    '"Increases your Critical Damage and Healing done rating by 2% for every piece of Medium Armor equipped.\\n\\nCurrent bonus: 0%."',
+    "Increases your Critical Damage and Healing done rating by 2% for every piece of Medium Armor equipped.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_008.dds",
   esoSkillId: 45564,
   isMorph: false,

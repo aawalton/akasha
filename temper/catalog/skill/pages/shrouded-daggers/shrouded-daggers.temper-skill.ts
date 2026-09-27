@@ -8,7 +8,7 @@ export const shroudedDaggers = {
   key: "shrouded-daggers",
   baseName: "Hidden Blade",
   description:
-    '"Fire a secret dagger from your sleeve that bounces up to 3 times to nearby enemies, dealing 1799 Physical Damage per hit.  \\n\\nIf enemies hit are casting they are interrupted, set Off Balance, and stunned for 3 seconds.\\n\\nYou also gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 20 seconds."',
+    "Fire a secret dagger from your sleeve that bounces up to 3 times to nearby enemies, dealing 1799 Physical Damage per hit.  \n\nIf enemies hit are casting they are interrupted, set Off Balance, and stunned for 3 seconds.\n\nYou also gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 20 seconds.",
   icon: "/esoui/art/icons/ability_dualwield_003_b.dds",
   esoSkillId: 40619,
   isMorph: true,

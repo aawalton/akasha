@@ -8,7 +8,7 @@ export const powerOverload24806 = {
   key: "power-overload-24806",
   baseName: "Overload",
   description:
-    '"Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\\n\\nLight Attacks become lightning bolts, dealing |cffffff9177|r Shock Damage to an enemy up to |cffffff32|r meters away.\\n\\nHeavy Attacks blast enemies in a |cffffff6 x 8|r area for |cffffff8727|r Shock Damage.\\n\\nAttacks deplete Ultimate until you run out, or the ability is toggled off."',
+    "Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\n\nLight Attacks become lightning bolts, dealing |cffffff9177|r Shock Damage to an enemy up to |cffffff32|r meters away.\n\nHeavy Attacks blast enemies in a |cffffff6 x 8|r area for |cffffff8727|r Shock Damage.\n\nAttacks deplete Ultimate until you run out, or the ability is toggled off.",
   icon: "/esoui/art/icons/ability_sorcerer_power_overload.dds",
   esoSkillId: 24806,
   isMorph: true,

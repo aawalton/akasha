@@ -8,7 +8,7 @@ export const vengeanceSoulShred = {
   key: "vengeance-soul-shred",
   baseName: "Vengeance Soul Shred",
   description:
-    '"Ravage up to 3 nearby enemies\' souls with a night rune, dealing |cffffff20285|r Magic Damage and stunning them for |cffffff4|r seconds."',
+    "Ravage up to 3 nearby enemies' souls with a night rune, dealing |cffffff20285|r Magic Damage and stunning them for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_018.dds",
   esoSkillId: 237722,
   isMorph: false,

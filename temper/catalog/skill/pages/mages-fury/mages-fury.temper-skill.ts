@@ -8,7 +8,7 @@ export const magesFury = {
   key: "mages-fury",
   baseName: "Mages' Fury",
   description:
-    '"Call down lightning to strike an enemy, dealing |cffffff3028|r Shock Damage.\\n\\nIf the enemy falls to or below |cffffff20|r% Health within |cffffff2|r seconds of being struck, an explosion deals an additional |cffffff11105|r Shock Damage to them and |cffffff2560|r Shock Damage to other enemies nearby."',
+    "Call down lightning to strike an enemy, dealing |cffffff3028|r Shock Damage.\n\nIf the enemy falls to or below |cffffff20|r% Health within |cffffff2|r seconds of being struck, an explosion deals an additional |cffffff11105|r Shock Damage to them and |cffffff2560|r Shock Damage to other enemies nearby.",
   icon: "/esoui/art/icons/ability_sorcerer_mage_fury.dds",
   esoSkillId: 18718,
   isMorph: false,

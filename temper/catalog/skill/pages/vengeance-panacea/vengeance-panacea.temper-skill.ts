@@ -8,7 +8,7 @@ export const vengeancePanacea = {
   key: "vengeance-panacea",
   baseName: "Vengeance Panacea",
   description:
-    '"Release the rejuvenating energies of your staff to swirl around you, healing up to 3 of you and your allies for |cffffff16065|r Health."',
+    "Release the rejuvenating energies of your staff to swirl around you, healing up to 3 of you and your allies for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_restorationstaff_006.dds",
   esoSkillId: 241586,
   isMorph: false,

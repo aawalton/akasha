@@ -8,7 +8,7 @@ export const vengeanceDawnbreaker = {
   key: "vengeance-dawnbreaker",
   baseName: "Vengeance Dawnbreaker",
   description:
-    '"Arm yourself with Meridia\'s sacred sword and dispense her retribution, dealing |cffffff14700|r Physical Damage to up to 3 enemies in front of you and an additional |cffffff15750|r Physical Damage over |cffffff6|r seconds."',
+    "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing |cffffff14700|r Physical Damage to up to 3 enemies in front of you and an additional |cffffff15750|r Physical Damage over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_005.dds",
   esoSkillId: 246303,
   isMorph: false,

@@ -8,7 +8,7 @@ export const crystalShard = {
   key: "crystal-shard",
   baseName: "Crystal Shard",
   description:
-    '"Conjure dark crystals to bombard an enemy, dealing |cffffff8359|r Magic Damage. Your next non-Ultimate ability cast within |cffffff3|r seconds costs |cffffff10|r% less."',
+    "Conjure dark crystals to bombard an enemy, dealing |cffffff8359|r Magic Damage. Your next non-Ultimate ability cast within |cffffff3|r seconds costs |cffffff10|r% less.",
   icon: "/esoui/art/icons/ability_sorcerer_thunderclap.dds",
   esoSkillId: 43714,
   isMorph: false,

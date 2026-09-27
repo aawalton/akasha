@@ -8,7 +8,7 @@ export const glacialPresence86191 = {
   key: "glacial-presence-86191",
   baseName: "Glacial Presence",
   description:
-    '"Increases your chance to apply the Chilled status effect by |cffffff125|r% and increases its damage done by |cffffff209|r. The damage increasing effect scales off the higher of your Weapon or Spell Damage."',
+    "Increases your chance to apply the Chilled status effect by |cffffff125|r% and increases its damage done by |cffffff209|r. The damage increasing effect scales off the higher of your Weapon or Spell Damage.",
   icon: "/esoui/art/icons/passive_warden_002.dds",
   esoSkillId: 86191,
   isMorph: false,

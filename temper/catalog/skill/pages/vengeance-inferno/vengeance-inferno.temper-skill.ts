@@ -8,7 +8,7 @@ export const vengeanceInferno = {
   key: "vengeance-inferno",
   baseName: "Vengeance Inferno",
   description:
-    '"Surround yourself in an aura of flames, granting you Major Berserk for |cffffff20|r seconds, increasing your damage done by |cffffff10|r%."',
+    "Surround yourself in an aura of flames, granting you Major Berserk for |cffffff20|r seconds, increasing your damage done by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_002.dds",
   esoSkillId: 237624,
   isMorph: false,

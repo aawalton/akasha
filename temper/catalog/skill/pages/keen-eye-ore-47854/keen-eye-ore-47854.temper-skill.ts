@@ -7,8 +7,7 @@ export const keenEyeOre47854 = {
   title: "Keen Eye: Ore",
   key: "keen-eye-ore-47854",
   baseName: "Keen Eye: Ore",
-  description:
-    '"Ore in the world will be easier to see when you are |cffffff20|r meters or closer."',
+  description: "Ore in the world will be easier to see when you are |cffffff20|r meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
   esoSkillId: 47854,
   isMorph: false,

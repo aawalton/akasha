@@ -8,7 +8,7 @@ export const pathOfDarkness = {
   key: "path-of-darkness",
   baseName: "Path of Darkness",
   description:
-    '"Create a corridor of shadows for |cffffff10|r seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by |cffffff30|r%. Effect persists for |cffffff4|r seconds after leaving the path."',
+    "Create a corridor of shadows for |cffffff10|r seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by |cffffff30|r%. Effect persists for |cffffff4|r seconds after leaving the path.",
   icon: "/esoui/art/icons/ability_nightblade_010.dds",
   esoSkillId: 33195,
   isMorph: false,

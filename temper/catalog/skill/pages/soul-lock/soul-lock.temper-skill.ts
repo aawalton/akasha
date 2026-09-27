@@ -7,7 +7,7 @@ export const soulLock = {
   title: "Soul Lock",
   key: "soul-lock",
   baseName: "Soul Lock",
-  description: '"Killing an enemy has a 10% chance of automatically filling an empty Soul Gem."',
+  description: "Killing an enemy has a 10% chance of automatically filling an empty Soul Gem.",
   icon: "/esoui/art/icons/ability_sorcerer_043.dds",
   esoSkillId: 45580,
   isMorph: false,

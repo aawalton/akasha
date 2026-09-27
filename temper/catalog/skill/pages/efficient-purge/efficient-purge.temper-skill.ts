@@ -7,7 +7,7 @@ export const efficientPurge = {
   title: "Efficient Purge",
   key: "efficient-purge",
   baseName: "Purge",
-  description: '"Cleanse yourself and your group, removing up to 3 negative effects immediately."',
+  description: "Cleanse yourself and your group, removing up to 3 negative effects immediately.",
   icon: "/esoui/art/icons/ability_ava_005_a.dds",
   esoSkillId: 46636,
   isMorph: true,

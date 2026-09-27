@@ -8,7 +8,7 @@ export const veilOfShadows = {
   key: "veil-of-shadows",
   baseName: "Veil of Shadows",
   description:
-    '"Decreases detection range of Witnesses and Guards by 10%. Witnesses and Guards are thus less likely to notice criminal actions, though this has no impact on the range from which Guards will accost you."',
+    "Decreases detection range of Witnesses and Guards by 10%. Witnesses and Guards are thus less likely to notice criminal actions, though this has no impact on the range from which Guards will accost you.",
   icon: "/esoui/art/icons/ability_thievesguild_passive_003.dds",
   esoSkillId: 76453,
   isMorph: false,

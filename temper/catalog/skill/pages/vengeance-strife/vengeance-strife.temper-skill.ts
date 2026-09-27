@@ -8,7 +8,7 @@ export const vengeanceStrife = {
   key: "vengeance-strife",
   baseName: "Vengeance Strife",
   description:
-    '"Steal an enemy\'s life force, dealing |cffffff5565|r Magic Damage and healing you or a nearby ally for |cffffff8033|r Health."',
+    "Steal an enemy's life force, dealing |cffffff5565|r Magic Damage and healing you or a nearby ally for |cffffff8033|r Health.",
   icon: "/esoui/art/icons/ability_nightblade_012.dds",
   esoSkillId: 237709,
   isMorph: false,

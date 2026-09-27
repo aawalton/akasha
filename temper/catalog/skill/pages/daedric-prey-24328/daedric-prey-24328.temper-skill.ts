@@ -8,7 +8,7 @@ export const daedricPrey24328 = {
   key: "daedric-prey-24328",
   baseName: "Daedric Curse",
   description:
-    '"Curse an enemy with a destructive rune, dealing |cffffff10668|r Magic Damage to the target and all other nearby enemies after |cffffff6|r seconds.\\n\\nWhile the curse is active, your Daedric Summoning pets prioritize the target and deal an additional |cffffff50|r% damage to them.\\n\\nYou can have only one Daedric Prey active at a time."',
+    "Curse an enemy with a destructive rune, dealing |cffffff10668|r Magic Damage to the target and all other nearby enemies after |cffffff6|r seconds.\n\nWhile the curse is active, your Daedric Summoning pets prioritize the target and deal an additional |cffffff50|r% damage to them.\n\nYou can have only one Daedric Prey active at a time.",
   icon: "/esoui/art/icons/ability_sorcerer_explosive_curse.dds",
   esoSkillId: 24328,
   isMorph: true,

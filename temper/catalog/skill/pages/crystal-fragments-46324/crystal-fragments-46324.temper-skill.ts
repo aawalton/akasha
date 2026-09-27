@@ -8,7 +8,7 @@ export const crystalFragments46324 = {
   key: "crystal-fragments-46324",
   baseName: "Crystal Shard",
   description:
-    '"Conjure dark crystals to bombard an enemy, dealing |cffffff8635|r Magic Damage. Your next non-Ultimate ability cast within |cffffff3|r seconds costs |cffffff10|r% less.\\n\\nWhile slotted on either bar, casting a non-Ultimate ability has a |cffffff33|r% chance of causing your next Crystal Fragments to be instant cast at half cost, dealing |cffffff14335|r Magic Damage."',
+    "Conjure dark crystals to bombard an enemy, dealing |cffffff8635|r Magic Damage. Your next non-Ultimate ability cast within |cffffff3|r seconds costs |cffffff10|r% less.\n\nWhile slotted on either bar, casting a non-Ultimate ability has a |cffffff33|r% chance of causing your next Crystal Fragments to be instant cast at half cost, dealing |cffffff14335|r Magic Damage.",
   icon: "/esoui/art/icons/ability_sorcerer_thunderstomp.dds",
   esoSkillId: 46324,
   isMorph: true,

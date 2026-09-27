@@ -7,7 +7,7 @@ export const keenEyeRuneStones = {
   title: "Keen Eye: Rune Stones",
   key: "keen-eye-rune-stones",
   baseName: "Keen Eye: Rune Stones",
-  description: '"Runes in the world will be easier to see when you are 40 meters or closer."',
+  description: "Runes in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
   esoSkillId: 47853,
   isMorph: false,

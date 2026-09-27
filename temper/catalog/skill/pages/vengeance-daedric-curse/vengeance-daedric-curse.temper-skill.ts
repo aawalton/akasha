@@ -8,7 +8,7 @@ export const vengeanceDaedricCurse = {
   key: "vengeance-daedric-curse",
   baseName: "Vengeance Daedric Curse",
   description:
-    '"Curse an enemy with a destructive rune, dealing |cffffff16027|r Magic Damage to the target after |cffffff6|r seconds.\\n\\nThis ability cannot be dodged."',
+    "Curse an enemy with a destructive rune, dealing |cffffff16027|r Magic Damage to the target after |cffffff6|r seconds.\n\nThis ability cannot be dodged.",
   icon: "/esoui/art/icons/ability_sorcerer_daedric_curse.dds",
   esoSkillId: 237876,
   isMorph: false,

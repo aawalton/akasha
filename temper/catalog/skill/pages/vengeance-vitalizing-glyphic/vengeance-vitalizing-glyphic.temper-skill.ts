@@ -8,7 +8,7 @@ export const vengeanceVitalizingGlyphic = {
   key: "vengeance-vitalizing-glyphic",
   baseName: "Vengeance Vitalizing Glyphic",
   description:
-    '"Call forth an Apocryphal glyphic for |cffffff6|r seconds, which heals you or up to 3 allies around it for |cffffff9180|r Health every |cffffff1|r second and grants Major Force while in the area, increasing Critical Damage by |cffffff20|r%."',
+    "Call forth an Apocryphal glyphic for |cffffff6|r seconds, which heals you or up to 3 allies around it for |cffffff9180|r Health every |cffffff1|r second and grants Major Force while in the area, increasing Critical Damage by |cffffff20|r%.",
   icon: "/esoui/art/icons/ability_arcanist_018.dds",
   esoSkillId: 238549,
   isMorph: false,

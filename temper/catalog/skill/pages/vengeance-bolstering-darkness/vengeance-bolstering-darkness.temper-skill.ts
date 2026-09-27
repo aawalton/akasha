@@ -8,7 +8,7 @@ export const vengeanceBolsteringDarkness = {
   key: "vengeance-bolstering-darkness",
   baseName: "Vengeance Bolstering Darkness",
   description:
-    '"Conjure concealing shadow around you, granting you and up to 3 nearby allies invisibility for |cffffff4|r seconds and Major Protection for |cffffff10|r seconds, reducing damage taken by |cffffff10|r%."',
+    "Conjure concealing shadow around you, granting you and up to 3 nearby allies invisibility for |cffffff4|r seconds and Major Protection for |cffffff10|r seconds, reducing damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_nightblade_015.dds",
   esoSkillId: 237702,
   isMorph: false,

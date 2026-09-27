@@ -8,7 +8,7 @@ export const spellWarding = {
   key: "spell-warding",
   baseName: "Spell Warding",
   description:
-    '"Increases your Spell Resistance by 726 for each piece of Light Armor equipped. \\n\\nCurrent bonus: 0."',
+    "Increases your Spell Resistance by 726 for each piece of Light Armor equipped. \n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/ability_armor_006.dds",
   esoSkillId: 45559,
   isMorph: false,

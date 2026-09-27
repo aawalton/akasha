@@ -7,7 +7,7 @@ export const capacitor31419 = {
   title: "Capacitor",
   key: "capacitor-31419",
   baseName: "Capacitor",
-  description: '"Increases your Health, Magicka, and Stamina Recovery by |cffffff70|r."',
+  description: "Increases your Health, Magicka, and Stamina Recovery by |cffffff70|r.",
   icon: "/esoui/art/icons/ability_sorcerer_013.dds",
   esoSkillId: 31419,
   isMorph: false,

@@ -8,7 +8,7 @@ export const magickaController40438 = {
   key: "magicka-controller-40438",
   baseName: "Magicka Controller",
   description:
-    '"Increases your Max Magicka and Magicka Recovery by |cffffff1|r% for each Mages Guild ability slotted.\\n\\nCurrent bonus: |cffffff0|r%."',
+    "Increases your Max Magicka and Magicka Recovery by |cffffff1|r% for each Mages Guild ability slotted.\n\nCurrent bonus: |cffffff0|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_044.dds",
   esoSkillId: 40438,
   isMorph: false,

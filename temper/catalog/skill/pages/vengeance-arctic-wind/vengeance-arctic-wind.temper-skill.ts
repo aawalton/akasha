@@ -7,7 +7,7 @@ export const vengeanceArcticWind = {
   title: "Vengeance Arctic Wind",
   key: "vengeance-arctic-wind",
   baseName: "Vengeance Arctic Wind",
-  description: '"Envelop yourself in winter winds, instantly healing for |cffffff16065|r Health."',
+  description: "Envelop yourself in winter winds, instantly healing for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_warden_003.dds",
   esoSkillId: 238088,
   isMorph: false,

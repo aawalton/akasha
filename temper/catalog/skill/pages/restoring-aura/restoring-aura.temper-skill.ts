@@ -8,7 +8,7 @@ export const restoringAura = {
   key: "restoring-aura",
   baseName: "Restoring Aura",
   description:
-    '"Champion the cause of divine glory to apply Minor Endurance, Minor Fortitude, and Minor Intellect to nearby group members for |cffffff20|r seconds, increasing Health, Magicka, and Stamina Recovery by |cffffff15|r%.\\n\\nWhile slotted on either bar you gain these effects."',
+    "Champion the cause of divine glory to apply Minor Endurance, Minor Fortitude, and Minor Intellect to nearby group members for |cffffff20|r seconds, increasing Health, Magicka, and Stamina Recovery by |cffffff15|r%.\n\nWhile slotted on either bar you gain these effects.",
   icon: "/esoui/art/icons/ability_templar_restoring_sigil.dds",
   esoSkillId: 26209,
   isMorph: false,

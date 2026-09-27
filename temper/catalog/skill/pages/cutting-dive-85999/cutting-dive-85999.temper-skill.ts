@@ -8,7 +8,7 @@ export const cuttingDive85999 = {
   key: "cutting-dive-85999",
   baseName: "Dive",
   description:
-    '"Command a cliff racer to dive bomb an enemy, dealing |cffffff7269|r Bleed Damage immediately and then causing them to bleed for |cffffff7060|r Bleed Damage over |cffffff10|r seconds.\\n\\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for |cffffff7|r seconds."',
+    "Command a cliff racer to dive bomb an enemy, dealing |cffffff7269|r Bleed Damage immediately and then causing them to bleed for |cffffff7060|r Bleed Damage over |cffffff10|r seconds.\n\nIf you are more than |cffffff7|r meters away from the target, you set them Off Balance for |cffffff7|r seconds.",
   icon: "/esoui/art/icons/ability_warden_013_b.dds",
   esoSkillId: 85999,
   isMorph: true,

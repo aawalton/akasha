@@ -7,7 +7,7 @@ export const medicinalUse = {
   title: "Medicinal Use",
   key: "medicinal-use",
   baseName: "Medicinal Use",
-  description: '"When using potions, resulting effects last 30% longer."',
+  description: "When using potions, resulting effects last 30% longer.",
   icon: "/esoui/art/icons/ability_alchemy_004.dds",
   esoSkillId: 45573,
   isMorph: false,

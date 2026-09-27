@@ -8,7 +8,7 @@ export const malevolentOffering = {
   key: "malevolent-offering",
   baseName: "Malevolent Offering",
   description:
-    '"Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff10960|r Health, while draining |cffffff1080|r Health from yourself over |cffffff3|r seconds."',
+    "Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff10960|r Health, while draining |cffffff1080|r Health from yourself over |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_011.dds",
   esoSkillId: 33308,
   isMorph: false,

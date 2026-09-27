@@ -8,7 +8,7 @@ export const defensiveRune24574 = {
   key: "defensive-rune-24574",
   baseName: "Rune Prison",
   description:
-    '"Place a rune of protection on yourself for |cffffff2|r minutes. While active, the next enemy to attack you is imprisoned in a constricting sphere of dark magic, stunning them after a short delay for |cffffff3|r seconds.\\n\\nThis stun cannot be blocked."',
+    "Place a rune of protection on yourself for |cffffff2|r minutes. While active, the next enemy to attack you is imprisoned in a constricting sphere of dark magic, stunning them after a short delay for |cffffff3|r seconds.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_sorcerer_weakening_fog.dds",
   esoSkillId: 24574,
   isMorph: true,

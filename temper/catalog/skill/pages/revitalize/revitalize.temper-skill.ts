@@ -8,7 +8,7 @@ export const revitalize = {
   key: "revitalize",
   baseName: "Revitalize",
   description:
-    '"Increases the Magicka or Stamina your Heavy Attacks restore by 4% for each piece of Heavy Armor worn.\\n\\nCurrent bonus: 0%"',
+    "Increases the Magicka or Stamina your Heavy Attacks restore by 4% for each piece of Heavy Armor worn.\n\nCurrent bonus: 0%",
   icon: "/esoui/art/icons/ability_armor_013.dds",
   esoSkillId: 45528,
   isMorph: false,

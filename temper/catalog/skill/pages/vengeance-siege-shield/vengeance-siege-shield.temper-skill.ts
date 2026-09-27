@@ -8,7 +8,7 @@ export const vengeanceSiegeShield = {
   key: "vengeance-siege-shield",
   baseName: "Vengeance Siege Shield",
   description:
-    '"Create a protective sphere after a 1 second delay that reduces damage taken from siege weapons by |cffffff50|r% to up to 3 of you and nearby allies for |cffffff10|r seconds."',
+    "Create a protective sphere after a 1 second delay that reduces damage taken from siege weapons by |cffffff50|r% to up to 3 of you and nearby allies for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_ava_004.dds",
   esoSkillId: 244688,
   isMorph: false,

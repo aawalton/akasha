@@ -8,7 +8,7 @@ export const resistAffliction36011 = {
   key: "resist-affliction-36011",
   baseName: "Resist Affliction",
   description:
-    '"Increases your Max Stamina by |cffffff600|r and your Disease and Poison Resistance by |cffffff660|r."',
+    "Increases your Max Stamina by |cffffff600|r and your Disease and Poison Resistance by |cffffff660|r.",
   icon: "/esoui/art/icons/passive_templar_021.dds",
   esoSkillId: 36011,
   isMorph: false,

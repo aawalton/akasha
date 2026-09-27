@@ -8,7 +8,7 @@ export const prism = {
   key: "prism",
   baseName: "Prism",
   description:
-    '"Casting a Dawn\'s Wrath ability while in combat generates 3 Ultimate. This effect can occur once every 6 seconds."',
+    "Casting a Dawn's Wrath ability while in combat generates 3 Ultimate. This effect can occur once every 6 seconds.",
   icon: "/esoui/art/icons/ability_templar_031.dds",
   esoSkillId: 45216,
   isMorph: false,

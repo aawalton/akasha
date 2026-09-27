@@ -8,7 +8,7 @@ export const exhilaratingDrain = {
   key: "exhilarating-drain",
   baseName: "Vampiric Drain",
   description:
-    '"Siphon away your enemies\' vitality, dealing 870 Magic Damage, healing you for 25% of your missing Health, and generating 5 Ultimate every 1 second for 3 seconds.\\n\\nThis ability is considered direct damage."',
+    "Siphon away your enemies' vitality, dealing 870 Magic Damage, healing you for 25% of your missing Health, and generating 5 Ultimate every 1 second for 3 seconds.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_u26_vampire_03_b.dds",
   esoSkillId: 40137259,
   isMorph: true,

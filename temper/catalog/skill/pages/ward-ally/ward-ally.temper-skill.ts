@@ -8,7 +8,7 @@ export const wardAlly = {
   key: "ward-ally",
   baseName: "Steadfast Ward",
   description:
-    "\"Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs 2323 damage.\\n\\nThe shield's strength is increased by up to 100%, depending on the severity of the target's wounds.\"",
+    "Call on your staff's strength to protect you and the lowest health ally around you with a damage shield that absorbs 2323 damage.\n\nThe shield's strength is increased by up to 100%, depending on the severity of the target's wounds.",
   icon: "/esoui/art/icons/ability_restorationstaff_001_b.dds",
   esoSkillId: 41302,
   isMorph: true,

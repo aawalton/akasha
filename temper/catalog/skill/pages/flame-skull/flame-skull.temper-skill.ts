@@ -8,7 +8,7 @@ export const flameSkull = {
   key: "flame-skull",
   baseName: "Flame Skull",
   description:
-    '"Lob an explosive skull at an enemy, dealing |cffffff7269|r Flame Damage.\\n\\nEvery third cast of this ability deals |cffffff50|r% increased damage and creates a corpse near the enemy."',
+    "Lob an explosive skull at an enemy, dealing |cffffff7269|r Flame Damage.\n\nEvery third cast of this ability deals |cffffff50|r% increased damage and creates a corpse near the enemy.",
   icon: "/esoui/art/icons/ability_necromancer_001.dds",
   esoSkillId: 114108,
   isMorph: false,

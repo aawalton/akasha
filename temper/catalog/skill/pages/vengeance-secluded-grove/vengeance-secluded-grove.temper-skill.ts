@@ -8,7 +8,7 @@ export const vengeanceSecludedGrove = {
   key: "vengeance-secluded-grove",
   baseName: "Vengeance Secluded Grove",
   description:
-    '"Swell a healing forest at the target location, healing up to 3 of you and your allies for |cffffff42840|r Health over |cffffff6|r seconds."',
+    "Swell a healing forest at the target location, healing up to 3 of you and your allies for |cffffff42840|r Health over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_warden_012.dds",
   esoSkillId: 238074,
   isMorph: false,

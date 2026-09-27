@@ -8,7 +8,7 @@ export const toxicBarrage = {
   key: "toxic-barrage",
   baseName: "Rapid Fire",
   description:
-    '"Unleash a barrage of arrows at an enemy, dealing 17415 Poison Damage over 4 seconds. \\n\\nAfter dealing damage you poison the enemy, dealing an additional 9990 Poison Damage over 8 seconds after a 1 second delay.  \\n\\nYou can move at full speed and are immune to all disabling effects while channeling this attack.\\n\\nThis ability is considered direct damage."',
+    "Unleash a barrage of arrows at an enemy, dealing 17415 Poison Damage over 4 seconds. \n\nAfter dealing damage you poison the enemy, dealing an additional 9990 Poison Damage over 8 seconds after a 1 second delay.  \n\nYou can move at full speed and are immune to all disabling effects while channeling this attack.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_bow_006_b.dds",
   esoSkillId: 86603,
   isMorph: true,

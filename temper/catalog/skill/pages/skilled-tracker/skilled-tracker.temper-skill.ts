@@ -8,7 +8,7 @@ export const skilledTracker = {
   key: "skilled-tracker",
   baseName: "Skilled Tracker",
   description:
-    '"Your Fighters Guild abilities deal an additional 10% damage. This bonus doubles against player Vampires and Werewolves."',
+    "Your Fighters Guild abilities deal an additional 10% damage. This bonus doubles against player Vampires and Werewolves.",
   icon: "/esoui/art/icons/ability_armor_007.dds",
   esoSkillId: 40393,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceDragonBlood = {
   key: "vengeance-dragon-blood",
   baseName: "Vengeance Dragon Blood",
   description:
-    '"Draw on your draconic blood to heal for |cffffff5028|r Health, increasing by up to |cffffff50|r% additional healing based on your missing Health. This ability scales off your Max Health."',
+    "Draw on your draconic blood to heal for |cffffff5028|r Health, increasing by up to |cffffff50|r% additional healing based on your missing Health. This ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_dragonknight_011.dds",
   esoSkillId: 237638,
   isMorph: false,

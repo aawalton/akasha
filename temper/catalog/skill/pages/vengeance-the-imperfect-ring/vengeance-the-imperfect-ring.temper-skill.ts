@@ -8,7 +8,7 @@ export const vengeanceTheImperfectRing = {
   key: "vengeance-the-imperfect-ring",
   baseName: "Vengeance The Imperfect Ring",
   description:
-    '"Summon a flawed rune under an enemy that etches them and up to 2 foes nearby with scrawled glyphs, dealing |cffffff14172|r Magic Damage over |cffffff5|r seconds."',
+    "Summon a flawed rune under an enemy that etches them and up to 2 foes nearby with scrawled glyphs, dealing |cffffff14172|r Magic Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_004.dds",
   esoSkillId: 238225,
   isMorph: false,

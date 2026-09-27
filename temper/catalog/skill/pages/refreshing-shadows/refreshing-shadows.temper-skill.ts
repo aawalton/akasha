@@ -7,7 +7,7 @@ export const refreshingShadows = {
   title: "Refreshing Shadows",
   key: "refreshing-shadows",
   baseName: "Refreshing Shadows",
-  description: '"Increases your Health, Stamina, and Magicka Recovery by 15%."',
+  description: "Increases your Health, Stamina, and Magicka Recovery by 15%.",
   icon: "/esoui/art/icons/ability_sorcerer_038.dds",
   esoSkillId: 45103,
   isMorph: false,

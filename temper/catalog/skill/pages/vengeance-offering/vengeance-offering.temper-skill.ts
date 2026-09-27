@@ -8,7 +8,7 @@ export const vengeanceOffering = {
   key: "vengeance-offering",
   baseName: "Vengeance Offering",
   description:
-    '"Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff16065|r Health."',
+    "Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_nightblade_011.dds",
   esoSkillId: 237711,
   isMorph: false,

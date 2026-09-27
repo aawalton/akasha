@@ -8,7 +8,7 @@ export const subterraneanAssault = {
   key: "subterranean-assault",
   baseName: "Scorch",
   description:
-    '"Stir a group of shalk that attack after 3 seconds, dealing 2591 Poison Damage to enemies in front of you.\\n\\nAfter the shalk complete their attack, they burrow underground for 3 seconds and then resurface again, dealing 2591 Poison Damage to enemies in front of you."',
+    "Stir a group of shalk that attack after 3 seconds, dealing 2591 Poison Damage to enemies in front of you.\n\nAfter the shalk complete their attack, they burrow underground for 3 seconds and then resurface again, dealing 2591 Poison Damage to enemies in front of you.",
   icon: "/esoui/art/icons/ability_warden_015_b.dds",
   esoSkillId: 93791,
   isMorph: true,

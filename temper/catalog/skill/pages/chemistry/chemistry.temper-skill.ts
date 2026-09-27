@@ -7,7 +7,7 @@ export const chemistry = {
   title: "Chemistry",
   key: "chemistry",
   baseName: "Chemistry",
-  description: '"Produces 3 extra potions or 12 extra poisons per crafting attempt."',
+  description: "Produces 3 extra potions or 12 extra poisons per crafting attempt.",
   icon: "/esoui/art/icons/ability_alchemy_006.dds",
   esoSkillId: 45579,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeancePuncturingStrikes = {
   key: "vengeance-puncturing-strikes",
   baseName: "Vengeance Puncturing Strikes",
   description:
-    '"Launch a relentless assault, striking enemies in front of you three times with your Aedric spear, dealing |cffffff4508|r Magic Damage to the closest 3 enemies."',
+    "Launch a relentless assault, striking enemies in front of you three times with your Aedric spear, dealing |cffffff4508|r Magic Damage to the closest 3 enemies.",
   icon: "/esoui/art/icons/ability_templar_trained_attacker.dds",
   esoSkillId: 237861,
   isMorph: false,

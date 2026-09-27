@@ -8,7 +8,7 @@ export const lifeGiver = {
   key: "life-giver",
   baseName: "Panacea",
   description:
-    '"Release the rejuvenating energies of your staff to swirl around you, healing you or an ally for 2999 Health every 1 second for 5 seconds.\\n\\nWhen you activate this ability you automatically cast Regeneration, Blessing of Protection, and Steadfast Ward at no cost.  These will update based on which morph of each ability you have taken."',
+    "Release the rejuvenating energies of your staff to swirl around you, healing you or an ally for 2999 Health every 1 second for 5 seconds.\n\nWhen you activate this ability you automatically cast Regeneration, Blessing of Protection, and Steadfast Ward at no cost.  These will update based on which morph of each ability you have taken.",
   icon: "/esoui/art/icons/ability_restorationstaff_006_a.dds",
   esoSkillId: 86454,
   isMorph: true,

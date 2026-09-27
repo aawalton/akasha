@@ -8,7 +8,7 @@ export const vengeanceSunFire = {
   key: "vengeance-sun-fire",
   baseName: "Vengeance Sun Fire",
   description:
-    '"Blast an enemy with a charge of radiant heat, dealing |cffffff17008|r Flame Damage over |cffffff6|r seconds."',
+    "Blast an enemy with a charge of radiant heat, dealing |cffffff17008|r Flame Damage over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_templar_sun_fire.dds",
   esoSkillId: 237949,
   isMorph: false,

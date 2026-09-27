@@ -8,7 +8,7 @@ export const secludedGrove = {
   key: "secluded-grove",
   baseName: "Secluded Grove",
   description:
-    '"Swell a healing forest at the target location, instantly healing the most injured friendly target for |cffffff8767|r Health. The forest continues to heal you and your allies in the area for |cffffff2921|r Health every |cffffff1|r second for |cffffff6|r seconds."',
+    "Swell a healing forest at the target location, instantly healing the most injured friendly target for |cffffff8767|r Health. The forest continues to heal you and your allies in the area for |cffffff2921|r Health every |cffffff1|r second for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_warden_012.dds",
   esoSkillId: 85532,
   isMorph: false,

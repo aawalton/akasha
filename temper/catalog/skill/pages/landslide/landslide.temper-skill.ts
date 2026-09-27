@@ -8,7 +8,7 @@ export const landslide = {
   key: "landslide",
   baseName: "Landslide",
   description:
-    '"Given time, the smallest rock on the mountain can cascade into pure devastation.\\n\\nWhenever you deal damage you gain a stack of Landslide which increases your damage done by |cffffff1|r% per stack, up to |cffffff10|r times. This effect can occur once every |cffffff10|r seconds.\\n\\nEvery |cffffff2|r seconds you do not deal damage, you lose a stack."',
+    "Given time, the smallest rock on the mountain can cascade into pure devastation.\n\nWhenever you deal damage you gain a stack of Landslide which increases your damage done by |cffffff1|r% per stack, up to |cffffff10|r times. This effect can occur once every |cffffff10|r seconds.\n\nEvery |cffffff2|r seconds you do not deal damage, you lose a stack.",
   icon: "/esoui/art/icons/ability_weapon_005.dds",
   esoSkillId: 29463,
   isMorph: false,

@@ -8,7 +8,7 @@ export const structuredEntropy40452 = {
   key: "structured-entropy-40452",
   baseName: "Entropy",
   description:
-    '"Bind an enemy with chaotic magic, dealing |cffffff15235|r Magic Damage over |cffffff20|r seconds, and healing you for |cffffff1371|r every |cffffff2|r seconds."',
+    "Bind an enemy with chaotic magic, dealing |cffffff15235|r Magic Damage over |cffffff20|r seconds, and healing you for |cffffff1371|r every |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_004_b.dds",
   esoSkillId: 40452,
   isMorph: true,

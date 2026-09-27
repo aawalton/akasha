@@ -8,7 +8,7 @@ export const scry = {
   key: "scry",
   baseName: "Scry",
   description:
-    '"Adds the selected contiguous group of facets to your area of control.\\n\\nConsumes 1 turn."',
+    "Adds the selected contiguous group of facets to your area of control.\n\nConsumes 1 turn.",
   icon: "/esoui/art/icons/ability_scrying_01.dds",
   esoSkillId: 139942,
   isMorph: false,

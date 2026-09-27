@@ -8,7 +8,7 @@ export const gibberingShelter192380 = {
   key: "gibbering-shelter-192380",
   baseName: "Gibbering Shield",
   description:
-    '"Gather the true strength of Apocrypha, forming a tentacle damage shield that absorbs |cffffff60|r% of all damage for |cffffff10|r seconds, up to a max of |cffffff44973|r damage.\\n\\nWhen the shield absorbs damage, pseudopods cascade out at up to 11 allies within 15 meters, granting them a damage shield for |cffffff4|r seconds that absorbs up to |cffffff7742|r damage. These shields can be applied once every |cffffff4|r seconds. Both shields scale off your Max Health."',
+    "Gather the true strength of Apocrypha, forming a tentacle damage shield that absorbs |cffffff60|r% of all damage for |cffffff10|r seconds, up to a max of |cffffff44973|r damage.\n\nWhen the shield absorbs damage, pseudopods cascade out at up to 11 allies within 15 meters, granting them a damage shield for |cffffff4|r seconds that absorbs up to |cffffff7742|r damage. These shields can be applied once every |cffffff4|r seconds. Both shields scale off your Max Health.",
   icon: "/esoui/art/icons/ability_arcanist_012_b.dds",
   esoSkillId: 192380,
   isMorph: true,

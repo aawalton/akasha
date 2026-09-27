@@ -8,7 +8,7 @@ export const proximityDetonation = {
   key: "proximity-detonation",
   baseName: "Magicka Detonation",
   description:
-    '"Activate a magical bomb on yourself that explodes after 8 seconds, dealing 449 Magic Damage to all enemies in the area.\\n\\nEach enemy within the bomb\'s radius increases the damage by 100%, including the original target."',
+    "Activate a magical bomb on yourself that explodes after 8 seconds, dealing 449 Magic Damage to all enemies in the area.\n\nEach enemy within the bomb's radius increases the damage by 100%, including the original target.",
   icon: "/esoui/art/icons/ability_ava_proximity_detonation.dds",
   esoSkillId: 63302,
   isMorph: true,

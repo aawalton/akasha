@@ -7,7 +7,7 @@ export const chef = {
   title: "Chef",
   key: "chef",
   baseName: "Chef",
-  description: '"Creates 3 extra servings for each food recipe made."',
+  description: "Creates 3 extra servings for each food recipe made.",
   icon: "/esoui/art/icons/ability_provisioner_002.dds",
   esoSkillId: 44619,
   isMorph: false,

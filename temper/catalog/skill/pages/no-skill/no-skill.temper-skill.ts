@@ -7,7 +7,7 @@ export const noSkill = {
   title: "No Skill",
   key: "no-skill",
   baseName: "No Skill",
-  description: '"Empty skill slot"',
+  description: "Empty skill slot",
   esoSkillId: 0,
   isMorph: false,
   learnedLevel: 0,

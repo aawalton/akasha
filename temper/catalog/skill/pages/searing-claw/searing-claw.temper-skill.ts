@@ -8,7 +8,7 @@ export const searingClaw = {
   key: "searing-claw",
   baseName: "Searing Strike",
   description:
-    '"Slash your foe with a fiery claw, dealing |cffffff4038|r Flame Damage and an additional |cffffff11425|r Flame Damage over |cffffff10|r seconds.\\n\\nThe flame sears into the target, dealing |cffffff10|r% more damage every |cffffff2|r seconds.\\n\\nThe initial hit always applies the Burning status effect."',
+    "Slash your foe with a fiery claw, dealing |cffffff4038|r Flame Damage and an additional |cffffff11425|r Flame Damage over |cffffff10|r seconds.\n\nThe flame sears into the target, dealing |cffffff10|r% more damage every |cffffff2|r seconds.\n\nThe initial hit always applies the Burning status effect.",
   icon: "/esoui/art/icons/ability_dragonknight_003_a.dds",
   esoSkillId: 20668,
   isMorph: true,

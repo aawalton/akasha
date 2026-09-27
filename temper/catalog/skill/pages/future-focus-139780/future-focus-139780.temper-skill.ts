@@ -7,7 +7,7 @@ export const futureFocus139780 = {
   title: "Future Focus",
   key: "future-focus-139780",
   baseName: "Future Focus",
-  description: '"Grants you an additional Magicka Charge for use in Scrying."',
+  description: "Grants you an additional Magicka Charge for use in Scrying.",
   icon: "/esoui/art/icons/ability_scrying_07b.dds",
   esoSkillId: 139780,
   isMorph: false,

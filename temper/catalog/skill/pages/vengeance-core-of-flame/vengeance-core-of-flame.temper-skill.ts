@@ -8,7 +8,7 @@ export const vengeanceCoreOfFlame = {
   key: "vengeance-core-of-flame",
   baseName: "Vengeance Core of Flame",
   description:
-    '"Channel draconic energy to suck in the air around you, increasing your Health, Magicka, and Stamina Recovery by |cffffff1500|r for |cffffff4|r seconds. Afterwards, you exhale fire, dealing |cffffff8820|r Flame Damage to up to 3 nearby enemies."',
+    "Channel draconic energy to suck in the air around you, increasing your Health, Magicka, and Stamina Recovery by |cffffff1500|r for |cffffff4|r seconds. Afterwards, you exhale fire, dealing |cffffff8820|r Flame Damage to up to 3 nearby enemies.",
   icon: "/esoui/art/icons/ability_dragonknight_012.dds",
   esoSkillId: 237641,
   isMorph: false,

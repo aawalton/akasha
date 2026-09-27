@@ -7,7 +7,7 @@ export const dualWieldExpert = {
   title: "Dual Wield Expert",
   key: "dual-wield-expert",
   baseName: "Dual Wield Expert",
-  description: '"Increases Weapon and Spell Damage by 6% of off-hand weapon\'s damage."',
+  description: "Increases Weapon and Spell Damage by 6% of off-hand weapon's damage.",
   icon: "/esoui/art/icons/ability_weapon_013.dds",
   esoSkillId: 45477,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceDive = {
   key: "vengeance-dive",
   baseName: "Vengeance Dive",
   description:
-    '"Command a cliff racer to dive bomb an enemy, dealing |cffffff10017|r Magic Damage. \\n\\nThis ability cannot be blocked."',
+    "Command a cliff racer to dive bomb an enemy, dealing |cffffff10017|r Magic Damage. \n\nThis ability cannot be blocked.",
   icon: "/esoui/art/icons/ability_warden_013.dds",
   esoSkillId: 238000,
   isMorph: false,

@@ -8,7 +8,7 @@ export const swiftlyForgotten = {
   key: "swiftly-forgotten",
   baseName: "Swiftly Forgotten",
   description:
-    '"Bounty is decreased by 115 after 3 minutes.\\nHeat is decreased by 64 after 3 seconds."',
+    "Bounty is decreased by 115 after 3 minutes.\nHeat is decreased by 64 after 3 seconds.",
   icon: "/esoui/art/icons/ability_thievesguild_passive_005.dds",
   esoSkillId: 76457,
   isMorph: false,

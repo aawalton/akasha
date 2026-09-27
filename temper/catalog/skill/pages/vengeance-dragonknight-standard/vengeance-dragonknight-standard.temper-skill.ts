@@ -8,7 +8,7 @@ export const vengeanceDragonknightStandard = {
   key: "vengeance-dragonknight-standard",
   baseName: "Vengeance Dragonknight Standard",
   description:
-    '"Call down a battle standard after |cffffff1|r second, dealing |cffffff17640|r Flame Damage to up to 3 enemies and applying Major Defile to them for |cffffff15|r seconds, reducing their healing received and damage shield strength by |cffffff12|r%."',
+    "Call down a battle standard after |cffffff1|r second, dealing |cffffff17640|r Flame Damage to up to 3 enemies and applying Major Defile to them for |cffffff15|r seconds, reducing their healing received and damage shield strength by |cffffff12|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_006.dds",
   esoSkillId: 237627,
   isMorph: false,

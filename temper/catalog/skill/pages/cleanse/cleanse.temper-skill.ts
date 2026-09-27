@@ -8,7 +8,7 @@ export const cleanse = {
   key: "cleanse",
   baseName: "Purge",
   description:
-    '"Cleanse yourself and your group, removing 3 negative effects immediately.  \\n\\nFor every negative effect removed, the target is healed for 5% of their Max Health."',
+    "Cleanse yourself and your group, removing 3 negative effects immediately.  \n\nFor every negative effect removed, the target is healed for 5% of their Max Health.",
   icon: "/esoui/art/icons/ability_ava_005_b.dds",
   esoSkillId: 46644,
   isMorph: true,

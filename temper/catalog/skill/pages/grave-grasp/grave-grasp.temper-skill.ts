@@ -8,7 +8,7 @@ export const graveGrasp = {
   key: "grave-grasp",
   baseName: "Grave Grasp",
   description:
-    '"Summon three patches of skeletal claws from the ground in front of you. Enemies in the first area are snared by |cffffff30|r% for |cffffff5|r seconds, immobilized in the second area for |cffffff4|r seconds, and stunned in the final area for |cffffff3|r seconds.\\n\\nEach patch applies Minor Maim to enemies hit for |cffffff10|r seconds, reducing their damage done by |cffffff5|r%."',
+    "Summon three patches of skeletal claws from the ground in front of you. Enemies in the first area are snared by |cffffff30|r% for |cffffff5|r seconds, immobilized in the second area for |cffffff4|r seconds, and stunned in the final area for |cffffff3|r seconds.\n\nEach patch applies Minor Maim to enemies hit for |cffffff10|r seconds, reducing their damage done by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_necromancer_009.dds",
   esoSkillId: 115177,
   isMorph: false,

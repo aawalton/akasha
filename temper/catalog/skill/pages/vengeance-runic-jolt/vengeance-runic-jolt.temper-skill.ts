@@ -8,7 +8,7 @@ export const vengeanceRunicJolt = {
   key: "vengeance-runic-jolt",
   baseName: "Vengeance Runic Jolt",
   description:
-    '"Craft a defensive Apocryphal rune that deals |cffffff5565|r Magic Damage, applies Minor Maim for |cffffff15|r seconds, reducing their damage done by |cffffff5|r%, and generates Crux."',
+    "Craft a defensive Apocryphal rune that deals |cffffff5565|r Magic Damage, applies Minor Maim for |cffffff15|r seconds, reducing their damage done by |cffffff5|r%, and generates Crux.",
   icon: "/esoui/art/icons/ability_arcanist_007.dds",
   esoSkillId: 238238,
   isMorph: false,

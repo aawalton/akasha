@@ -8,7 +8,7 @@ export const blueBetty = {
   key: "blue-betty",
   baseName: "Betty Netch",
   description:
-    '"Call a betty netch to your side, which restores 4416 Magicka to you over 25 seconds and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20%.\\n\\nEvery 5 seconds, the netch removes 1 negative effect from you. If no negative effects are removed you instead increase your damage done by 5% for 5 seconds."',
+    "Call a betty netch to your side, which restores 4416 Magicka to you over 25 seconds and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20%.\n\nEvery 5 seconds, the netch removes 1 negative effect from you. If no negative effects are removed you instead increase your damage done by 5% for 5 seconds.",
   icon: "/esoui/art/icons/ability_warden_017.dds",
   esoSkillId: 86057,
   isMorph: true,

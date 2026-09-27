@@ -8,7 +8,7 @@ export const reveler = {
   key: "reveler",
   baseName: "Reveler",
   description:
-    '"Increases your experience gain with the Two Handed skill line by 15%.\\n\\nIncreases the duration of any consumed drink by 15 minutes."',
+    "Increases your experience gain with the Two Handed skill line by 15%.\n\nIncreases the duration of any consumed drink by 15 minutes.",
   icon: "/esoui/art/icons/ability_dragonknight_032.dds",
   esoSkillId: 36626,
   isMorph: false,

@@ -8,7 +8,7 @@ export const birdOfPrey86045 = {
   key: "bird-of-prey-86045",
   baseName: "Falcon's Swiftness",
   description:
-    '"Invoke the spirit of agility to gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%.\\n\\nGain immunity to snares and immobilizations for |cffffff4|r seconds.\\n\\nWhile slotted you gain Minor Berserk, increasing your damage done by |cffffff5|r%."',
+    "Invoke the spirit of agility to gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%.\n\nGain immunity to snares and immobilizations for |cffffff4|r seconds.\n\nWhile slotted you gain Minor Berserk, increasing your damage done by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_warden_016_a.dds",
   esoSkillId: 86045,
   isMorph: true,

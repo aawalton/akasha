@@ -8,7 +8,7 @@ export const shuffle = {
   key: "shuffle",
   baseName: "Evasion",
   description:
-    '"Shroud yourself in mist to gain Major Evasion, decreasing damage taken from area attacks by 20% for 20 seconds.\\n\\nEach piece of Medium Armor worn removes and grants immunity to snares and immobilizations for 1 second."',
+    "Shroud yourself in mist to gain Major Evasion, decreasing damage taken from area attacks by 20% for 20 seconds.\n\nEach piece of Medium Armor worn removes and grants immunity to snares and immobilizations for 1 second.",
   icon: "/esoui/art/icons/ability_armor_002_a.dds",
   esoSkillId: 41131,
   isMorph: true,

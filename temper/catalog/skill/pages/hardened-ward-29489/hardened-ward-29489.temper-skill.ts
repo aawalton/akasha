@@ -8,7 +8,7 @@ export const hardenedWard29489 = {
   key: "hardened-ward-29489",
   baseName: "Conjured Ward",
   description:
-    '"Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs |cffffff10380|r damage for |cffffff6|r seconds.\\n\\nThis ability scales off the higher of your Max Health or Magicka and the shield is capped at |cffffff72|r% of your Max Health."',
+    "Conjure globes of Daedric energy for protection, granting a damage shield for you and your pets that absorbs |cffffff10380|r damage for |cffffff6|r seconds.\n\nThis ability scales off the higher of your Max Health or Magicka and the shield is capped at |cffffff72|r% of your Max Health.",
   icon: "/esoui/art/icons/ability_sorcerer_typhoon.dds",
   esoSkillId: 29489,
   isMorph: true,

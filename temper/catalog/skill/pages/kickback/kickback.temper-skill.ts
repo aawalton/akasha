@@ -7,7 +7,7 @@ export const kickback = {
   title: "Kickback",
   key: "kickback",
   baseName: "Kickback",
-  description: '"Reduces bounties you willingly pay to guards and fences by 40%."',
+  description: "Reduces bounties you willingly pay to guards and fences by 40%.",
   icon: "/esoui/art/icons/ability_legerdemain_sly.dds",
   esoSkillId: 63818,
   isMorph: false,

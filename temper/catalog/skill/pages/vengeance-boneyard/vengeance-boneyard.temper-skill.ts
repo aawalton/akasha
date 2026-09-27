@@ -8,7 +8,7 @@ export const vengeanceBoneyard = {
   key: "vengeance-boneyard",
   baseName: "Vengeance Boneyard",
   description:
-    '"Desecrate the ground at the target location, dealing |cffffff8820|r Frost Damage to up to 3 enemies inside and applying Minor Vulnerability for |cffffff5|r seconds, increasing their damage taken by |cffffff5|r%."',
+    "Desecrate the ground at the target location, dealing |cffffff8820|r Frost Damage to up to 3 enemies inside and applying Minor Vulnerability for |cffffff5|r seconds, increasing their damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_necromancer_004.dds",
   esoSkillId: 238095,
   isMorph: false,

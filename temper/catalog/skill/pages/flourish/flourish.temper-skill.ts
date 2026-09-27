@@ -7,7 +7,7 @@ export const flourish = {
   title: "Flourish",
   key: "flourish",
   baseName: "Flourish",
-  description: '"Increases your Magicka and Stamina recovery by 20%."',
+  description: "Increases your Magicka and Stamina recovery by 20%.",
   icon: "/esoui/art/icons/passive_warden_012.dds",
   esoSkillId: 86067,
   isMorph: false,

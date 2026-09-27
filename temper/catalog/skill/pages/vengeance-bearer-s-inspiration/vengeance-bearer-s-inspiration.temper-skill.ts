@@ -8,7 +8,7 @@ export const vengeanceBearerSInspiration = {
   key: "vengeance-bearer-s-inspiration",
   baseName: "Vengeance-Bearer's Inspiration",
   description:
-    '"Etch a series of runes onto your weapon that pulse with power, generating a Crux if you have none while granting you Minor Force for |cffffff20|r seconds, increasing your Critical Damage done by |cffffff10|r%.\\n\\nWhile slotted on either ability bar, gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r."',
+    "Etch a series of runes onto your weapon that pulse with power, generating a Crux if you have none while granting you Minor Force for |cffffff20|r seconds, increasing your Critical Damage done by |cffffff10|r%.\n\nWhile slotted on either ability bar, gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_arcanist_005.dds",
   esoSkillId: 238191,
   isMorph: false,

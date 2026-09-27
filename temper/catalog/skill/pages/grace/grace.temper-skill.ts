@@ -8,7 +8,7 @@ export const grace = {
   key: "grace",
   baseName: "Grace",
   description:
-    '"Reduces the effectiveness of snares applied to you by 4% for each piece of Light Armor worn.\\n\\nCurrent bonus: 0%.\\n\\nReduces the cost of Sprint by 3% for each piece of Light Armor worn.\\n\\nCurrent bonus: 0%."',
+    "Reduces the effectiveness of snares applied to you by 4% for each piece of Light Armor worn.\n\nCurrent bonus: 0%.\n\nReduces the cost of Sprint by 3% for each piece of Light Armor worn.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_004.dds",
   esoSkillId: 45549,
   isMorph: false,

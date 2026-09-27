@@ -8,7 +8,7 @@ export const darkDeal = {
   key: "dark-deal",
   baseName: "Dark Exchange",
   description:
-    '"Bargain with darkness to restore 8000 Health and 3600 Stamina instantly, and an additional 2400 Stamina over 10 seconds.\\n\\nThe exchange also grants you Minor Berserk for 20 seconds, increasing your damage done by 5%."',
+    "Bargain with darkness to restore 8000 Health and 3600 Stamina instantly, and an additional 2400 Stamina over 10 seconds.\n\nThe exchange also grants you Minor Berserk for 20 seconds, increasing your damage done by 5%.",
   icon: "/esoui/art/icons/ability_sorcerer_dark_deal.dds",
   esoSkillId: 30043,
   isMorph: true,

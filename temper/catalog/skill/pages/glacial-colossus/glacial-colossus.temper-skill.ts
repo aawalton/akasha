@@ -8,7 +8,7 @@ export const glacialColossus = {
   key: "glacial-colossus",
   baseName: "Frozen Colossus",
   description:
-    '"Unleash a frostbitten Flesh Colossus to pulverize enemies in the area. The Colossus smashes the ground three times over 3 seconds, dealing 3098 Frost Damage with each smash. The final smash stuns all enemies hit for 4 seconds.\\n\\nDealing damage applies Major Vulnerability to any enemy hit for 17 seconds, increasing their damage taken by 10%."',
+    "Unleash a frostbitten Flesh Colossus to pulverize enemies in the area. The Colossus smashes the ground three times over 3 seconds, dealing 3098 Frost Damage with each smash. The final smash stuns all enemies hit for 4 seconds.\n\nDealing damage applies Major Vulnerability to any enemy hit for 17 seconds, increasing their damage taken by 10%.",
   icon: "/esoui/art/icons/ability_necromancer_006_a.dds",
   esoSkillId: 40122388,
   isMorph: true,

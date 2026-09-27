@@ -8,7 +8,7 @@ export const vengeanceWingBuffet = {
   key: "vengeance-wing-buffet",
   baseName: "Vengeance Wing Buffet",
   description:
-    '"Flex your scales, reducing your damage taken from projectiles by |cffffff50|r% for |cffffff6|r seconds."',
+    "Flex your scales, reducing your damage taken from projectiles by |cffffff50|r% for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_008.dds",
   esoSkillId: 237639,
   isMorph: false,

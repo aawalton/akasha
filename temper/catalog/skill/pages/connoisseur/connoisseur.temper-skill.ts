@@ -7,7 +7,7 @@ export const connoisseur = {
   title: "Connoisseur",
   key: "connoisseur",
   baseName: "Connoisseur",
-  description: '"Adds 20 minutes to the duration of any consumed drink."',
+  description: "Adds 20 minutes to the duration of any consumed drink.",
   icon: "/esoui/art/icons/ability_provisioner_005.dds",
   esoSkillId: 44615,
   isMorph: false,

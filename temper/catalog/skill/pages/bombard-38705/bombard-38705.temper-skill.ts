@@ -8,7 +8,7 @@ export const bombard38705 = {
   key: "bombard-38705",
   baseName: "Arrow Spray",
   description:
-    '"Fire a burst of arrows in one shot, dealing |cffffff6401|r Physical Damage to enemies in front of you. \\n\\nEnemies hit are immobilized for |cffffff4|r seconds."',
+    "Fire a burst of arrows in one shot, dealing |cffffff6401|r Physical Damage to enemies in front of you. \n\nEnemies hit are immobilized for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_bow_005_a.dds",
   esoSkillId: 38705,
   isMorph: true,

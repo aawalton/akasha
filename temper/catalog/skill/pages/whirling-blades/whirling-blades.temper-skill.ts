@@ -8,7 +8,7 @@ export const whirlingBlades = {
   key: "whirling-blades",
   baseName: "Whirlwind",
   description:
-    '"Launch yourself into a lethal spin, dealing 1799 Physical Damage to nearby enemies. Deals up to 100% more damage to enemies with less than 50% Health."',
+    "Launch yourself into a lethal spin, dealing 1799 Physical Damage to nearby enemies. Deals up to 100% more damage to enemies with less than 50% Health.",
   icon: "/esoui/art/icons/ability_dualwield_005_a.dds",
   esoSkillId: 40731,
   isMorph: true,

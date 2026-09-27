@@ -8,7 +8,7 @@ export const advancedSpecies86068 = {
   key: "advanced-species-86068",
   baseName: "Advanced Species",
   description:
-    '"Increases your Critical Damage by |cffffff2|r% for each Animal Companion ability slotted.\\n\\nCurrent Bonus: |cffffff0|r%."',
+    "Increases your Critical Damage by |cffffff2|r% for each Animal Companion ability slotted.\n\nCurrent Bonus: |cffffff0|r%.",
   icon: "/esoui/art/icons/passive_warden_011.dds",
   esoSkillId: 86068,
   isMorph: false,

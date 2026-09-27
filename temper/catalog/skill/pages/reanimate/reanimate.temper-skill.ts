@@ -8,7 +8,7 @@ export const reanimate = {
   key: "reanimate",
   baseName: "Reanimate",
   description:
-    '"Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location."',
+    "Bring your allies back from the brink of death, resurrecting up to |cffffff3|r allies at the target location.",
   icon: "/esoui/art/icons/ability_necromancer_018.dds",
   esoSkillId: 115410,
   isMorph: false,

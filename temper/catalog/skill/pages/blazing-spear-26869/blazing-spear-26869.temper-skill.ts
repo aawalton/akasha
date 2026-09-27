@@ -8,7 +8,7 @@ export const blazingSpear26869 = {
   key: "blazing-spear-26869",
   baseName: "Spear Shards",
   description:
-    '"Send your spear into the heavens to bring down a shower of divine wrath, dealing |cffffff6401|r Magic Damage to enemies in the area and an additional |cffffff965|r Magic Damage every |cffffff1|r second for |cffffff10|r seconds. Enemies hit by the initial hit are immobilized for |cffffff4|r seconds.\\n\\nAn ally near the spear can activate the Blessed Shards synergy, restoring |cffffff3960|r Magicka or Stamina, whichever maximum is higher."',
+    "Send your spear into the heavens to bring down a shower of divine wrath, dealing |cffffff6401|r Magic Damage to enemies in the area and an additional |cffffff965|r Magic Damage every |cffffff1|r second for |cffffff10|r seconds. Enemies hit by the initial hit are immobilized for |cffffff4|r seconds.\n\nAn ally near the spear can activate the Blessed Shards synergy, restoring |cffffff3960|r Magicka or Stamina, whichever maximum is higher.",
   icon: "/esoui/art/icons/ability_templarsun_thrust.dds",
   esoSkillId: 26869,
   isMorph: true,

@@ -8,7 +8,7 @@ export const vengeanceHiddenBlade = {
   key: "vengeance-hidden-blade",
   baseName: "Vengeance Hidden Blade",
   description:
-    '"Fire a secret dagger from your sleeve at an enemy, dealing |cffffff10017|r Physical Damage.\\n\\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for |cffffff3|r seconds."',
+    "Fire a secret dagger from your sleeve at an enemy, dealing |cffffff10017|r Physical Damage.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_dualwield_003.dds",
   esoSkillId: 241234,
   isMorph: false,

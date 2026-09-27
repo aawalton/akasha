@@ -8,7 +8,7 @@ export const resolvingVigor = {
   key: "resolving-vigor",
   baseName: "Vigor",
   description:
-    '"Let loose a battle cry, instilling yourself with resolve and healing for 5388 Health over 5 seconds.\\n\\nAfter casting you gain Minor Resolve, increasing your Physical and Spell Resistance by 2974, for 20 seconds."',
+    "Let loose a battle cry, instilling yourself with resolve and healing for 5388 Health over 5 seconds.\n\nAfter casting you gain Minor Resolve, increasing your Physical and Spell Resistance by 2974, for 20 seconds.",
   icon: "/esoui/art/icons/ability_ava_resolving_vigor.dds",
   esoSkillId: 63255,
   isMorph: true,

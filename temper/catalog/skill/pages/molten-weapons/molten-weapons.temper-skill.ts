@@ -8,7 +8,7 @@ export const moltenWeapons = {
   key: "molten-weapons",
   baseName: "Molten Weapons",
   description:
-    '"Charge you and your grouped allies\' weapons with volcanic power to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff30|r seconds.\\n\\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff1562|r Flame Damage, up to once every |cffffff2|r seconds."',
+    "Charge you and your grouped allies' weapons with volcanic power to gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff30|r seconds.\n\nWhile active, dealing damage with Light and Heavy Attacks causes an additional |cffffff1562|r Flame Damage, up to once every |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_015.dds",
   esoSkillId: 29043,
   isMorph: false,

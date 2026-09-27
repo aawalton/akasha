@@ -7,7 +7,7 @@ export const balancedWarrior = {
   title: "Balanced Warrior",
   key: "balanced-warrior",
   baseName: "Balanced Warrior",
-  description: '"Increases your Weapon Damage, Spell Damage, and Armor by 6%."',
+  description: "Increases your Weapon Damage, Spell Damage, and Armor by 6%.",
   icon: "/esoui/art/icons/ability_templar_032.dds",
   esoSkillId: 44732,
   isMorph: false,

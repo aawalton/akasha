@@ -8,7 +8,7 @@ export const berserkerStrike = {
   key: "berserker-strike",
   baseName: "Berserker Strike",
   description:
-    '"Strike at an enemy with a vicious blow, dealing |cffffff12116|r Physical Damage to them and all nearby enemies.\\n\\nThis attack ignores the target\'s Physical Resistance, and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for |cffffff12|r seconds."',
+    "Strike at an enemy with a vicious blow, dealing |cffffff12116|r Physical Damage to them and all nearby enemies.\n\nThis attack ignores the target's Physical Resistance, and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for |cffffff12|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_006.dds",
   esoSkillId: 83216,
   isMorph: false,

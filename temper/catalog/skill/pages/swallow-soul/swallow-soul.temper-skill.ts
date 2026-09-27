@@ -8,7 +8,7 @@ export const swallowSoul = {
   key: "swallow-soul",
   baseName: "Strife",
   description:
-    '"Steal an enemy\'s life force, dealing 2160 Magic Damage and healing you for 35% of the damage inflicted every 2 seconds for 10 seconds."',
+    "Steal an enemy's life force, dealing 2160 Magic Damage and healing you for 35% of the damage inflicted every 2 seconds for 10 seconds.",
   icon: "/esoui/art/icons/ability_nightblade_012_a.dds",
   esoSkillId: 35949,
   isMorph: true,

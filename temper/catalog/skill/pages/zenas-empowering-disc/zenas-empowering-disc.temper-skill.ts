@@ -8,7 +8,7 @@ export const zenasEmpoweringDisc = {
   key: "zenas-empowering-disc",
   baseName: "Arcanist's Domain",
   description:
-    '"Draw forth your tome and invoke the enigmatum of Morian Zenas to conjure a vortex of eldritch power. Entering this vortex grants you and your allies Minor Courage, Minor Fortitude, Minor Intellect, and Minor Endurance, increasing your Weapon and Spell Damage by 215 and your Health, Magicka, and Stamina Recovery by 15%.\\n\\nThese effects cling to you and your allies for up to 10 seconds after leaving the vortex."',
+    "Draw forth your tome and invoke the enigmatum of Morian Zenas to conjure a vortex of eldritch power. Entering this vortex grants you and your allies Minor Courage, Minor Fortitude, Minor Intellect, and Minor Endurance, increasing your Weapon and Spell Damage by 215 and your Health, Magicka, and Stamina Recovery by 15%.\n\nThese effects cling to you and your allies for up to 10 seconds after leaving the vortex.",
   icon: "/esoui/art/icons/ability_arcanist_017_a.dds",
   esoSkillId: 40186229,
   isMorph: true,

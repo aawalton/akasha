@@ -8,7 +8,7 @@ export const executioner = {
   key: "executioner",
   baseName: "Reverse Slash",
   description:
-    '"Spin around and strike an enemy down, dealing 1161 Bleed Damage. Deals up to 400% more damage to enemies with less than 50% Health."',
+    "Spin around and strike an enemy down, dealing 1161 Bleed Damage. Deals up to 400% more damage to enemies with less than 50% Health.",
   icon: "/esoui/art/icons/ability_2handed_004_a.dds",
   esoSkillId: 39957,
   isMorph: true,

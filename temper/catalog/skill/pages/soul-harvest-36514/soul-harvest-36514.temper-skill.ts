@@ -8,7 +8,7 @@ export const soulHarvest36514 = {
   key: "soul-harvest-36514",
   baseName: "Death Stroke",
   description:
-    '"Ravage an enemy with a spinning attack, dealing |cffffff12924|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\\n\\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\\n\\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate."',
+    "Ravage an enemy with a spinning attack, dealing |cffffff12924|r Magic Damage and increasing your damage against them by |cffffff20|r% for |cffffff8|r seconds.\n\nAlso afflicts the enemy with Major Defile, reducing their healing received and damage shield strength by |cffffff12|r%.\n\nWhile slotted on either bar, any time you kill an enemy you gain |cffffff10|r Ultimate.",
   icon: "/esoui/art/icons/ability_nightblade_007_b.dds",
   esoSkillId: 36514,
   isMorph: true,

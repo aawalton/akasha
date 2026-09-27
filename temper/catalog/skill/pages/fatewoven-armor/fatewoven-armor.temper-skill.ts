@@ -8,7 +8,7 @@ export const fatewovenArmor = {
   key: "fatewoven-armor",
   baseName: "Fatewoven Armor",
   description:
-    '"Forge defiant runic armor around you, granting Major Resolve for |cffffff20|r seconds, increasing your Armor by |cffffff5948|r.\\n\\nWhile the armor persists, taking damage applies Minor Breach, reducing the Armor of your attacker by |cffffff2974|r for |cffffff6|r seconds."',
+    "Forge defiant runic armor around you, granting Major Resolve for |cffffff20|r seconds, increasing your Armor by |cffffff5948|r.\n\nWhile the armor persists, taking damage applies Minor Breach, reducing the Armor of your attacker by |cffffff2974|r for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_009.dds",
   esoSkillId: 183648,
   isMorph: false,

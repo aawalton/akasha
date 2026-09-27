@@ -8,7 +8,7 @@ export const balance40441 = {
   key: "balance-40441",
   baseName: "Equilibrium",
   description:
-    '"Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\\n\\nAfter the exchange is complete, you gain Major Resolve for |cffffff30|r seconds, increasing your Physical and Spell Resistance by |cffffff5948|r.\\n\\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds."',
+    "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\n\nAfter the exchange is complete, you gain Major Resolve for |cffffff30|r seconds, increasing your Physical and Spell Resistance by |cffffff5948|r.\n\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_003_b.dds",
   esoSkillId: 40441,
   isMorph: true,

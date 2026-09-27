@@ -8,7 +8,7 @@ export const explosiveCharge = {
   key: "explosive-charge",
   baseName: "Focused Charge",
   description:
-    '"Charge with your divine lance to impale all enemies in the area, dealing 1799 Magic Damage while taunting the first enemy hit to attack you for 15 seconds. Any enemy hit that was casting is interrupted, set Off Balance, and stunned for 3 seconds.\\n\\n You also gain Major Protection for 15 seconds, reducing your damage taken by 10%."',
+    "Charge with your divine lance to impale all enemies in the area, dealing 1799 Magic Damage while taunting the first enemy hit to attack you for 15 seconds. Any enemy hit that was casting is interrupted, set Off Balance, and stunned for 3 seconds.\n\n You also gain Major Protection for 15 seconds, reducing your damage taken by 10%.",
   icon: "/esoui/art/icons/ability_templar_double_tipped_charge.dds",
   esoSkillId: 23726,
   isMorph: true,

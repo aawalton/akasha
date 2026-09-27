@@ -7,7 +7,7 @@ export const dynamic36591 = {
   title: "Dynamic",
   key: "dynamic-36591",
   baseName: "Dynamic",
-  description: '"Increases your Max Magicka and Max Stamina by |cffffff600|r."',
+  description: "Increases your Max Magicka and Max Stamina by |cffffff600|r.",
   icon: "/esoui/art/icons/ability_weapon_023.dds",
   esoSkillId: 36591,
   isMorph: false,

@@ -8,7 +8,7 @@ export const silverLeash40336 = {
   key: "silver-leash-40336",
   baseName: "Silver Bolts",
   description:
-    '"Fire a Dawnguard\'s crossbow hook to pull an enemy to you, dealing |cffffff5004|r Physical Damage, taunting them for |cffffff15|r seconds if they are not already taunted, and reducing their Movement Speed by |cffffff30|r% for |cffffff4|r seconds."',
+    "Fire a Dawnguard's crossbow hook to pull an enemy to you, dealing |cffffff5004|r Physical Damage, taunting them for |cffffff15|r seconds if they are not already taunted, and reducing their Movement Speed by |cffffff30|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_003_b.dds",
   esoSkillId: 40336,
   isMorph: true,

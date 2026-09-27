@@ -8,7 +8,7 @@ export const dampenMagic = {
   key: "dampen-magic",
   baseName: "Annulment",
   description:
-    '"Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs 3718 damage for 6 seconds. Damage shield strength capped at 60% of your Max Health.\\n\\nEach piece of Light Armor worn increases the amount of damage absorbed by 6%."',
+    "Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs 3718 damage for 6 seconds. Damage shield strength capped at 60% of your Max Health.\n\nEach piece of Light Armor worn increases the amount of damage absorbed by 6%.",
   icon: "/esoui/art/icons/ability_armor_003_a.dds",
   esoSkillId: 41113,
   isMorph: true,

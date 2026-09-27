@@ -8,7 +8,7 @@ export const hiddenBlade = {
   key: "hidden-blade",
   baseName: "Hidden Blade",
   description:
-    '"Fire a secret dagger from your sleeve at an enemy, dealing |cffffff4846|r Physical Damage and granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff20|r seconds.\\n\\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for |cffffff3|r seconds."',
+    "Fire a secret dagger from your sleeve at an enemy, dealing |cffffff4846|r Physical Damage and granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r% for |cffffff20|r seconds.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_dualwield_003.dds",
   esoSkillId: 21157,
   isMorph: false,

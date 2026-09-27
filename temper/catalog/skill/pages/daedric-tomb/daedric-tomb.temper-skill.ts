@@ -8,7 +8,7 @@ export const daedricTomb = {
   key: "daedric-tomb",
   baseName: "Daedric Mines",
   description:
-    '"Surprise your foes by placing 3 volatile Daedric mines at a target location, which arm instantly and last for 15 seconds.\\n\\nWhen a mine is triggered it explodes, dealing 2700 Magic Damage and immobilizing the enemy for 2 seconds. Enemies can only be damaged by your mines once every 2 seconds."',
+    "Surprise your foes by placing 3 volatile Daedric mines at a target location, which arm instantly and last for 15 seconds.\n\nWhen a mine is triggered it explodes, dealing 2700 Magic Damage and immobilizing the enemy for 2 seconds. Enemies can only be damaged by your mines once every 2 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_daedric_tomb.dds",
   esoSkillId: 29939,
   isMorph: true,

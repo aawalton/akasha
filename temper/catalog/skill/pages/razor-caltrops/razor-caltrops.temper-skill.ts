@@ -8,7 +8,7 @@ export const razorCaltrops = {
   key: "razor-caltrops",
   baseName: "Caltrops",
   description:
-    '"Hurl a ball of caltrops that scatter over the target area, dealing 281 Physical Damage every 1 second to enemies inside, and reducing their Movement Speed by 50%.\\n\\nEnemies who take damage from the caltrops have Major Breach applied to them, reducing their Physical and Spell Resistance by 5948 for 4.1 seconds."',
+    "Hurl a ball of caltrops that scatter over the target area, dealing 281 Physical Damage every 1 second to enemies inside, and reducing their Movement Speed by 50%.\n\nEnemies who take damage from the caltrops have Major Breach applied to them, reducing their Physical and Spell Resistance by 5948 for 4.1 seconds.",
   icon: "/esoui/art/icons/ability_ava_001_b.dds",
   esoSkillId: 46466,
   isMorph: true,

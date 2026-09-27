@@ -8,7 +8,7 @@ export const natureSGift = {
   key: "nature-s-gift",
   baseName: "Nature's Gift",
   description:
-    '"When you heal an ally with a Green Balance ability, you gain |cffffff138|r Magicka or |cffffff138|r Stamina, whichever resource pool is lower. Each effect can occur once every |cffffff1|r second."',
+    "When you heal an ally with a Green Balance ability, you gain |cffffff138|r Magicka or |cffffff138|r Stamina, whichever resource pool is lower. Each effect can occur once every |cffffff1|r second.",
   icon: "/esoui/art/icons/passive_warden_006.dds",
   esoSkillId: 85878,
   isMorph: false,

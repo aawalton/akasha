@@ -8,7 +8,7 @@ export const persistence31378 = {
   key: "persistence-31378",
   baseName: "Persistence",
   description:
-    '"After blocking an attack, your next Health, Magicka, or Stamina ability costs |cffffff9|r% less."',
+    "After blocking an attack, your next Health, Magicka, or Stamina ability costs |cffffff9|r% less.",
   icon: "/esoui/art/icons/ability_sorcerer_054.dds",
   esoSkillId: 31378,
   isMorph: false,

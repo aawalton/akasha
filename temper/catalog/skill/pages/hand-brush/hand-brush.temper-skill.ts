@@ -8,7 +8,7 @@ export const handBrush = {
   key: "hand-brush",
   baseName: "Hand Brush",
   description:
-    '"Removes 1 layer of soil or rock from a 1x1 area.\\n\\nGenerates: 1 Intuition\\nMaximum Intuition: 4."',
+    "Removes 1 layer of soil or rock from a 1x1 area.\n\nGenerates: 1 Intuition\nMaximum Intuition: 4.",
   icon: "/esoui/art/icons/u26_ability_digging_03.dds",
   esoSkillId: 139909,
   isMorph: false,

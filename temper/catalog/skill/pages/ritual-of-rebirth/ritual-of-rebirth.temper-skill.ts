@@ -8,7 +8,7 @@ export const ritualOfRebirth = {
   key: "ritual-of-rebirth",
   baseName: "Healing Ritual",
   description:
-    '"Focus your spiritual devotion, healing you and nearby allies for 2614 Health.\\n\\nYou heal a single ally outside this ability\'s radius for an additional 2700 Health."',
+    "Focus your spiritual devotion, healing you and nearby allies for 2614 Health.\n\nYou heal a single ally outside this ability's radius for an additional 2700 Health.",
   icon: "/esoui/art/icons/ability_templar_ritual_of_rebirth.dds",
   esoSkillId: 27352,
   isMorph: true,

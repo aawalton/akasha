@@ -8,7 +8,7 @@ export const healingWard = {
   key: "healing-ward",
   baseName: "Steadfast Ward",
   description:
-    "\"Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs 2399 damage.\\n\\nThe shield's strength is increased by up to 100%, depending on the severity of the target's wounds. \\n\\nWhile the shield persists, the target is healed for 33% of the shield's remaining strength every second.\"",
+    "Call on your staff's strength to protect you or the lowest health ally around you with a damage shield that absorbs 2399 damage.\n\nThe shield's strength is increased by up to 100%, depending on the severity of the target's wounds. \n\nWhile the shield persists, the target is healed for 33% of the shield's remaining strength every second.",
   icon: "/esoui/art/icons/ability_restorationstaff_001_a.dds",
   esoSkillId: 41320,
   isMorph: true,

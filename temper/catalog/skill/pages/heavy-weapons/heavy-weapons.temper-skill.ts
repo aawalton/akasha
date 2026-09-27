@@ -8,7 +8,7 @@ export const heavyWeapons = {
   key: "heavy-weapons",
   baseName: "Heavy Weapons",
   description:
-    '"Grants a bonus based on the type of weapon equipped:\\n\\nSwords increase your Weapon and Spell Damage by 258.\\n\\nAxes increase your Critical Damage done by 12%.\\n\\nMaces increase your Offensive Penetration by 2974."',
+    "Grants a bonus based on the type of weapon equipped:\n\nSwords increase your Weapon and Spell Damage by 258.\n\nAxes increase your Critical Damage done by 12%.\n\nMaces increase your Offensive Penetration by 2974.",
   icon: "/esoui/art/icons/passive_dragonknight_026.dds",
   esoSkillId: 45430,
   isMorph: false,

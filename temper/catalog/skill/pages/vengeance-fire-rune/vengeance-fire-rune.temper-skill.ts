@@ -8,7 +8,7 @@ export const vengeanceFireRune = {
   key: "vengeance-fire-rune",
   baseName: "Vengeance Fire Rune",
   description:
-    '"Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm, and blasts up to 3 enemies in the target area for |cffffff11760|r Flame Damage."',
+    "Inscribe a rune of cosmic fire on the earth, which takes |cffffff2|r seconds to arm, and blasts up to 3 enemies in the target area for |cffffff11760|r Flame Damage.",
   icon: "/esoui/art/icons/ability_mageguild_001.dds",
   esoSkillId: 246482,
   isMorph: false,

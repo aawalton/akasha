@@ -7,7 +7,7 @@ export const magickaMastery = {
   title: "Magicka Mastery",
   key: "magicka-mastery",
   baseName: "Magicka Mastery",
-  description: '"Reduces the Magicka cost of your abilities by 7%."',
+  description: "Reduces the Magicka cost of your abilities by 7%.",
   icon: "/esoui/art/icons/ability_armor_005.dds",
   esoSkillId: 45264,
   isMorph: false,

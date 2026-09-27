@@ -8,7 +8,7 @@ export const crescentSweep22139 = {
   key: "crescent-sweep-22139",
   baseName: "Radial Sweep",
   description:
-    '"Swing your Aedric spear around with holy vengeance, dealing |cffffff8814|r Magic Damage to all nearby enemies and an additional |cffffff4038|r Magic Damage every |cffffff2|r seconds for |cffffff6|r seconds.\\n\\nEnemies in your path will be hit for |cffffff60|r% more damage."',
+    "Swing your Aedric spear around with holy vengeance, dealing |cffffff8814|r Magic Damage to all nearby enemies and an additional |cffffff4038|r Magic Damage every |cffffff2|r seconds for |cffffff6|r seconds.\n\nEnemies in your path will be hit for |cffffff60|r% more damage.",
   icon: "/esoui/art/icons/ability_templar_crescent_sweep.dds",
   esoSkillId: 22139,
   isMorph: true,

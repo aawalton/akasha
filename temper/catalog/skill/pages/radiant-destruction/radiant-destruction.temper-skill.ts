@@ -8,7 +8,7 @@ export const radiantDestruction = {
   key: "radiant-destruction",
   baseName: "Radiant Destruction",
   description:
-    '"Burn an enemy with a ray of holy fire, dealing |cffffff25200|r Magic Damage over |cffffff3.8|r seconds. Deals up to |cffffff500|r% more damage to enemies below |cffffff33|r% Health.\\n\\nThis ability is considered direct damage."',
+    "Burn an enemy with a ray of holy fire, dealing |cffffff25200|r Magic Damage over |cffffff3.8|r seconds. Deals up to |cffffff500|r% more damage to enemies below |cffffff33|r% Health.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_templar_over_exposure.dds",
   esoSkillId: 63029,
   isMorph: false,

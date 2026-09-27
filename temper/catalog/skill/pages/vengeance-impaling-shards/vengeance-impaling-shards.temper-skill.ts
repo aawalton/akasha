@@ -8,7 +8,7 @@ export const vengeanceImpalingShards = {
   key: "vengeance-impaling-shards",
   baseName: "Vengeance Impaling Shards",
   description:
-    '"Conjure icy shards around you to skewer up to 3 enemies in the area, dealing |cffffff8820|r Frost Damage and immobilizing them for |cffffff3|r seconds."',
+    "Conjure icy shards around you to skewer up to 3 enemies in the area, dealing |cffffff8820|r Frost Damage and immobilizing them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_warden_004.dds",
   esoSkillId: 238079,
   isMorph: false,

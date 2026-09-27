@@ -8,7 +8,7 @@ export const deadlyBash = {
   key: "deadly-bash",
   baseName: "Deadly Bash",
   description:
-    '"Improves your standard Bash attacks, causing them to deal 500 more damage and cost 50% less Stamina."',
+    "Improves your standard Bash attacks, causing them to deal 500 more damage and cost 50% less Stamina.",
   icon: "/esoui/art/icons/ability_dragonknight_034.dds",
   esoSkillId: 45469,
   isMorph: false,

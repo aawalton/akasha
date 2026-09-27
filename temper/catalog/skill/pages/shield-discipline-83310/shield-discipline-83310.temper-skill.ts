@@ -8,7 +8,7 @@ export const shieldDiscipline83310 = {
   key: "shield-discipline-83310",
   baseName: "Shield Wall",
   description:
-    '"Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff8|r seconds.\\n\\nYour One Hand and Shield non-Ultimate abilities cost nothing while this effect persists."',
+    "Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff8|r seconds.\n\nYour One Hand and Shield non-Ultimate abilities cost nothing while this effect persists.",
   icon: "/esoui/art/icons/ability_1handed_006_b.dds",
   esoSkillId: 83310,
   isMorph: true,

@@ -8,7 +8,7 @@ export const forceful = {
   key: "forceful",
   baseName: "Forceful",
   description:
-    '"Your Light and Heavy Attacks damage up to 3 other nearby enemies for 100% of the damage inflicted to the primary target."',
+    "Your Light and Heavy Attacks damage up to 3 other nearby enemies for 100% of the damage inflicted to the primary target.",
   icon: "/esoui/art/icons/ability_weapon_027.dds",
   esoSkillId: 45444,
   isMorph: false,

@@ -8,7 +8,7 @@ export const flawlessDawnbreaker40161 = {
   key: "flawless-dawnbreaker-40161",
   baseName: "Dawnbreaker",
   description:
-    '"Arm yourself with Meridia\'s sacred sword and dispense her retribution, dealing |cffffff10668|r Physical Damage to enemies in front of you and an additional |cffffff11427|r Physical Damage over |cffffff6|r seconds.\\n\\nAfter activating, your Weapon and Spell Damage is increased by |cffffff300|r for |cffffff20|r seconds."',
+    "Arm yourself with Meridia's sacred sword and dispense her retribution, dealing |cffffff10668|r Physical Damage to enemies in front of you and an additional |cffffff11427|r Physical Damage over |cffffff6|r seconds.\n\nAfter activating, your Weapon and Spell Damage is increased by |cffffff300|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_005_a.dds",
   esoSkillId: 40161,
   isMorph: true,

@@ -8,7 +8,7 @@ export const vengeancePurge = {
   key: "vengeance-purge",
   baseName: "Vengeance Purge",
   description:
-    '"Cleanse yourself and up to 2 group members, removing up to |cffffff3|r negative effects immediately.\\n\\nCan only be cast when you have a negative effect active on yourself."',
+    "Cleanse yourself and up to 2 group members, removing up to |cffffff3|r negative effects immediately.\n\nCan only be cast when you have a negative effect active on yourself.",
   icon: "/esoui/art/icons/ability_ava_005.dds",
   esoSkillId: 244715,
   isMorph: false,

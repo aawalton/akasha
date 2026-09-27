@@ -8,7 +8,7 @@ export const soulSplittingTrap40328 = {
   key: "soul-splitting-trap-40328",
   baseName: "Soul Trap",
   description:
-    '"Lay claim to enemy souls, dealing |cffffff7614|r Magic Damage to your target and any other nearby enemies over |cffffff10|r seconds.\\n\\nFills an empty Soul Gem if an affected enemy dies."',
+    "Lay claim to enemy souls, dealing |cffffff7614|r Magic Damage to your target and any other nearby enemies over |cffffff10|r seconds.\n\nFills an empty Soul Gem if an affected enemy dies.",
   icon: "/esoui/art/icons/ability_otherclass_001_a.dds",
   esoSkillId: 40328,
   isMorph: true,

@@ -7,7 +7,7 @@ export const elementalForce = {
   title: "Elemental Force",
   key: "elemental-force",
   baseName: "Elemental Force",
-  description: '"Increases your chance to apply status effects by 100%."',
+  description: "Increases your chance to apply status effects by 100%.",
   icon: "/esoui/art/icons/ability_weapon_005.dds",
   esoSkillId: 45512,
   isMorph: false,

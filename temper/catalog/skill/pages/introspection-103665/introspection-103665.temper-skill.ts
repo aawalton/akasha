@@ -8,7 +8,7 @@ export const introspection103665 = {
   key: "introspection-103665",
   baseName: "Meditate",
   description:
-    '"Focus your body and mind into a meditative state, healing for |cffffff1836|r Health and restoring |cffffff1500|r Magicka and Stamina every |cffffff1|r second.\\n\\nMaintaining the channel increases the Health restored by |cffffff10|r% every tick, up to a maximum of |cffffff50|r%.\\n\\nYou will remain in a meditative state until you toggle this ability off or are interrupted."',
+    "Focus your body and mind into a meditative state, healing for |cffffff1836|r Health and restoring |cffffff1500|r Magicka and Stamina every |cffffff1|r second.\n\nMaintaining the channel increases the Health restored by |cffffff10|r% every tick, up to a maximum of |cffffff50|r%.\n\nYou will remain in a meditative state until you toggle this ability off or are interrupted.",
   icon: "/esoui/art/icons/ability_psijic_004_b.dds",
   esoSkillId: 103665,
   isMorph: true,

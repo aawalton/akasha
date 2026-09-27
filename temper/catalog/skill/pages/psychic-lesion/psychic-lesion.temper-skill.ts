@@ -8,7 +8,7 @@ export const psychicLesion = {
   key: "psychic-lesion",
   baseName: "Psychic Lesion",
   description:
-    '"Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by 15% and Status Effect Chance by 55%."',
+    "Your attacks wound the mind with heretical knowledge, increasing damage dealt by Status Effects by 15% and Status Effect Chance by 55%.",
   icon: "/esoui/art/icons/passive_arcanist_03.dds",
   esoSkillId: 184873,
   isMorph: false,

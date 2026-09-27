@@ -8,7 +8,7 @@ export const sanguineAltar41967 = {
   key: "sanguine-altar-41967",
   baseName: "Blood Altar",
   description:
-    '"Sacrifice your life essence to conjure a fountain of blood to apply Minor Lifesteal to enemies in the area, healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them.\\n\\nAllies in the area can activate the Blood Funnel synergy, healing for |cffffff40|r% of their Max Health."',
+    "Sacrifice your life essence to conjure a fountain of blood to apply Minor Lifesteal to enemies in the area, healing you and your allies for |cffffff612|r Health every |cffffff1|r second when damaging them.\n\nAllies in the area can activate the Blood Funnel synergy, healing for |cffffff40|r% of their Max Health.",
   icon: "/esoui/art/icons/ability_undaunted_001_b.dds",
   esoSkillId: 41967,
   isMorph: true,

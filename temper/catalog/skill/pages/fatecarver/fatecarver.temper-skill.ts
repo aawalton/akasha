@@ -8,7 +8,7 @@ export const fatecarver = {
   key: "fatecarver",
   baseName: "Fatecarver",
   description:
-    '"Harness pure knowledge into a beam of energy that scars the world in front of you. Channel the beam for up to |cffffff4|r seconds, dealing |cffffff3230|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies.\\n\\nCasting Fatecarver consumes all Crux and increases damage done by |cffffff33|r% per Crux spent.\\n\\nThis ability is considered direct damage."',
+    "Harness pure knowledge into a beam of energy that scars the world in front of you. Channel the beam for up to |cffffff4|r seconds, dealing |cffffff3230|r Magic Damage every |cffffff0.3|r seconds to up to 6 enemies.\n\nCasting Fatecarver consumes all Crux and increases damage done by |cffffff33|r% per Crux spent.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_arcanist_002.dds",
   esoSkillId: 185805,
   isMorph: false,

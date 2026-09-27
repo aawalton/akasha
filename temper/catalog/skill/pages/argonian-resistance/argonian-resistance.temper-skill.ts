@@ -7,8 +7,7 @@ export const argonianResistance = {
   title: "Argonian Resistance",
   key: "argonian-resistance",
   baseName: "Argonian Resistance",
-  description:
-    '"Increases your Max Health by 1000 and your Disease and Poison Resistance by 2310."',
+  description: "Increases your Max Health by 1000 and your Disease and Poison Resistance by 2310.",
   icon: "/esoui/art/icons/ability_templar_022.dds",
   esoSkillId: 45255,
   isMorph: false,

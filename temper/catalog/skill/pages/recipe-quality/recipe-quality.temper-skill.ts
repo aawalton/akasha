@@ -7,7 +7,7 @@ export const recipeQuality = {
   title: "Recipe Quality",
   key: "recipe-quality",
   baseName: "Recipe Quality",
-  description: '"Allows the use of Legendary (gold) Recipes."',
+  description: "Allows the use of Legendary (gold) Recipes.",
   icon: "/esoui/art/icons/ability_provisioner_006.dds",
   esoSkillId: 69953,
   isMorph: false,

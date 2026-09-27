@@ -8,7 +8,7 @@ export const lowSlash = {
   key: "low-slash",
   baseName: "Low Slash",
   description:
-    '"Surprise an enemy with a deep lunge, dealing |cffffff4846|r Physical Damage and afflicting them with Minor Maim, reducing their damage done by |cffffff5|r% for |cffffff15|r seconds."',
+    "Surprise an enemy with a deep lunge, dealing |cffffff4846|r Physical Damage and afflicting them with Minor Maim, reducing their damage done by |cffffff5|r% for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_001.dds",
   esoSkillId: 28304,
   isMorph: false,

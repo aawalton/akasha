@@ -8,7 +8,7 @@ export const illuminate = {
   key: "illuminate",
   baseName: "Illuminate",
   description:
-    '"Casting a Dawn\'s Wrath ability grants Minor Sorcery to you and your group for 20 seconds, increasing your Spell Damage by 10%."',
+    "Casting a Dawn's Wrath ability grants Minor Sorcery to you and your group for 20 seconds, increasing your Spell Damage by 10%.",
   icon: "/esoui/art/icons/ability_templar_012.dds",
   esoSkillId: 45215,
   isMorph: false,

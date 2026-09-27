@@ -7,7 +7,7 @@ export const haggling = {
   title: "Haggling",
   key: "haggling",
   baseName: "Haggling",
-  description: '"Stolen items sold at a fence are worth 10% more. Does not apply to Laundering."',
+  description: "Stolen items sold at a fence are worth 10% more. Does not apply to Laundering.",
   icon: "/esoui/art/icons/ability_thievesguild_passive_006.dds",
   esoSkillId: 76461,
   isMorph: false,

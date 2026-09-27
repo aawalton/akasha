@@ -8,7 +8,7 @@ export const cripplingGrasp = {
   key: "crippling-grasp",
   baseName: "Cripple",
   description:
-    '"Sap an enemy\'s agility and wrack them with pain, dealing 1199 Magic Damage and an additional 4350 Magic Damage over 20 seconds, immobilizing them for 2 seconds, and reducing their Movement Speed by 30% for 4 seconds."',
+    "Sap an enemy's agility and wrack them with pain, dealing 1199 Magic Damage and an additional 4350 Magic Damage over 20 seconds, immobilizing them for 2 seconds, and reducing their Movement Speed by 30% for 4 seconds.",
   icon: "/esoui/art/icons/ability_nightblade_006_b.dds",
   esoSkillId: 37913,
   isMorph: true,

@@ -7,7 +7,7 @@ export const rugged = {
   title: "Rugged",
   key: "rugged",
   baseName: "Rugged",
-  description: '"Increases your Physical and Spell Resistance by 2600."',
+  description: "Increases your Physical and Spell Resistance by 2600.",
   icon: "/esoui/art/icons/ability_dragonknight_020.dds",
   esoSkillId: 45306,
   isMorph: false,

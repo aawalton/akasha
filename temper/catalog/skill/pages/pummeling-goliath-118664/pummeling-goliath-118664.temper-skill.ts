@@ -8,7 +8,7 @@ export const pummelingGoliath118664 = {
   key: "pummeling-goliath-118664",
   baseName: "Bone Goliath Transformation",
   description:
-    '"Become a destructive Pummeling Goliath, increasing your Max Health by |cffffff30000|r for |cffffff20|r seconds and immediately restoring |cffffff30000|r Health. \\n\\nWhile transformed, your damaging Light Attacks restore |cffffff402|r Health and your fully-charged Heavy Attacks restore |cffffff1005|r Health. This ability scales off your Max Health. \\n\\nYour Bash attacks can hit multiple targets in front of you and deal |cffffff6746|r Physical Damage."',
+    "Become a destructive Pummeling Goliath, increasing your Max Health by |cffffff30000|r for |cffffff20|r seconds and immediately restoring |cffffff30000|r Health. \n\nWhile transformed, your damaging Light Attacks restore |cffffff402|r Health and your fully-charged Heavy Attacks restore |cffffff1005|r Health. This ability scales off your Max Health. \n\nYour Bash attacks can hit multiple targets in front of you and deal |cffffff6746|r Physical Damage.",
   icon: "/esoui/art/icons/ability_necromancer_012_a.dds",
   esoSkillId: 118664,
   isMorph: true,

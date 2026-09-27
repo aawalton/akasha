@@ -8,7 +8,7 @@ export const bloodmoon = {
   key: "bloodmoon",
   baseName: "Shadow of the Bloodmoon",
   description:
-    '"The Great Hunt demands more participants. Become a shepard to the lamb who wishes to fight back.\\n\\nAllows you to infect another player with Lycanthropy once every |cffffffweek|r by returning to the Werewolf ritual site. \\n\\nPlayers already infected with Noxiphilic Sanguivoria cannot be infected with Lycanthropy."',
+    "The Great Hunt demands more participants. Become a shepard to the lamb who wishes to fight back.\n\nAllows you to infect another player with Lycanthropy once every |cffffffweek|r by returning to the Werewolf ritual site. \n\nPlayers already infected with Noxiphilic Sanguivoria cannot be infected with Lycanthropy.",
   icon: "/esoui/art/icons/ability_werewolf_008.dds",
   esoSkillId: 32639,
   isMorph: false,

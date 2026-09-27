@@ -8,7 +8,7 @@ export const absorb = {
   key: "absorb",
   baseName: "Absorb",
   description:
-    '"Restores 600 Magicka whenever you block an attack. This effect can occur once every .25 seconds."',
+    "Restores 600 Magicka whenever you block an attack. This effect can occur once every .25 seconds.",
   icon: "/esoui/art/icons/ability_weapon_010.dds",
   esoSkillId: 45521,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceMarkTarget = {
   key: "vengeance-mark-target",
   baseName: "Vengeance Mark Target",
   description:
-    '"Expose an enemy\'s weaknesses to afflict them with Major Breach, reducing their Physical Resistance and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds."',
+    "Expose an enemy's weaknesses to afflict them with Major Breach, reducing their Physical Resistance and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_014.dds",
   esoSkillId: 237604,
   isMorph: false,

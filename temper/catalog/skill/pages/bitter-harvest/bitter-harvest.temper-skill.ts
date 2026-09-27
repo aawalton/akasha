@@ -8,7 +8,7 @@ export const bitterHarvest = {
   key: "bitter-harvest",
   baseName: "Bitter Harvest",
   description:
-    '"Sap the lingering life from fresh corpses, granting you |cffffff2|r Ultimate and healing |cffffff830|r Health every |cffffff1|r second for |cffffff2|r seconds per corpse consumed. This ability scales off your Max Health.\\n\\nWhile slotted, your damage taken is reduced by |cffffff3|r%."',
+    "Sap the lingering life from fresh corpses, granting you |cffffff2|r Ultimate and healing |cffffff830|r Health every |cffffff1|r second for |cffffff2|r seconds per corpse consumed. This ability scales off your Max Health.\n\nWhile slotted, your damage taken is reduced by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_011.dds",
   esoSkillId: 115238,
   isMorph: false,

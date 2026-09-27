@@ -8,7 +8,7 @@ export const elude39192 = {
   key: "elude-39192",
   baseName: "Evasion",
   description:
-    '"Shroud yourself in mist to gain Major Evasion, reducing damage taken from area attacks by |cffffff20|r% for |cffffff38|r seconds.\\n\\nWhile this effect is active, when you take damage from a direct area of effect attack you gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%. \\n\\nEach piece of Medium Armor worn increases the duration of this ability."',
+    "Shroud yourself in mist to gain Major Evasion, reducing damage taken from area attacks by |cffffff20|r% for |cffffff38|r seconds.\n\nWhile this effect is active, when you take damage from a direct area of effect attack you gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%. \n\nEach piece of Medium Armor worn increases the duration of this ability.",
   icon: "/esoui/art/icons/ability_armor_002_b.dds",
   esoSkillId: 39192,
   isMorph: true,

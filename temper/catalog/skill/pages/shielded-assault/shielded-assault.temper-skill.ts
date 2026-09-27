@@ -8,7 +8,7 @@ export const shieldedAssault = {
   key: "shielded-assault",
   baseName: "Shield Charge",
   description:
-    '"Rush an enemy and ram them, dealing 1393 Physical Damage and stunning them for 3 seconds.\\n\\nYou gain a damage shield after the attack, absorbing 5121 damage for 6 seconds. This portion of the ability scales off your Max Health."',
+    "Rush an enemy and ram them, dealing 1393 Physical Damage and stunning them for 3 seconds.\n\nYou gain a damage shield after the attack, absorbing 5121 damage for 6 seconds. This portion of the ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_1handed_003_a.dds",
   esoSkillId: 41526,
   isMorph: true,

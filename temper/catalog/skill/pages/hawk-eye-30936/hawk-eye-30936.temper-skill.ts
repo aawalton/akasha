@@ -8,7 +8,7 @@ export const hawkEye30936 = {
   key: "hawk-eye-30936",
   baseName: "Hawk Eye",
   description:
-    '"Dealing damage with a Light or Heavy Attack increases the damage of your Bow abilities by |cffffff2|r% for |cffffff5|r seconds, stacking up to |cffffff5|r times."',
+    "Dealing damage with a Light or Heavy Attack increases the damage of your Bow abilities by |cffffff2|r% for |cffffff5|r seconds, stacking up to |cffffff5|r times.",
   icon: "/esoui/art/icons/passive_armor_002.dds",
   esoSkillId: 30936,
   isMorph: false,

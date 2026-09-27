@@ -7,7 +7,7 @@ export const lightFingers63805 = {
   title: "Light Fingers",
   key: "light-fingers-63805",
   baseName: "Light Fingers",
-  description: '"Increases your chances of successfully Pickpocketing by |cffffff35|r%"',
+  description: "Increases your chances of successfully Pickpocketing by |cffffff35|r%",
   icon: "/esoui/art/icons/ability_legerdemain_lightfingers.dds",
   esoSkillId: 63805,
   isMorph: false,

@@ -8,7 +8,7 @@ export const undauntedCommand = {
   key: "undaunted-command",
   baseName: "Undaunted Command",
   description:
-    '"Activating a synergy restores 4% of your Max Health, Stamina, and Magicka.\\n\\nCurrent Bonus: 640 Health, 480 Stamina, and 480 Magicka."',
+    "Activating a synergy restores 4% of your Max Health, Stamina, and Magicka.\n\nCurrent Bonus: 640 Health, 480 Stamina, and 480 Magicka.",
   icon: "/esoui/art/icons/ability_templar_003.dds",
   esoSkillId: 55676,
   isMorph: false,

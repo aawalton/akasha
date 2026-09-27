@@ -8,7 +8,7 @@ export const vengeanceStormAtronach = {
   key: "vengeance-storm-atronach",
   baseName: "Vengeance Storm Atronach",
   description:
-    '"Summon the remnants of a storm atronach at the target location, dealing |cffffff11760|r Shock Damage to up to 3 enemies, stunning them for |cffffff3|r seconds, and then dealing |cffffff13125|r Shock Damage over |cffffff5|r seconds."',
+    "Summon the remnants of a storm atronach at the target location, dealing |cffffff11760|r Shock Damage to up to 3 enemies, stunning them for |cffffff3|r seconds, and then dealing |cffffff13125|r Shock Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_storm_atronach.dds",
   esoSkillId: 237933,
   isMorph: false,

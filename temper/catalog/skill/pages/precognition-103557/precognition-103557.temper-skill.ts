@@ -8,7 +8,7 @@ export const precognition103557 = {
   key: "precognition-103557",
   baseName: "Undo",
   description:
-    '"Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago.\\n\\nYou can cast this ability while you are crowd controlled and it automatically grants you Crowd Control Immunity."',
+    "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago.\n\nYou can cast this ability while you are crowd controlled and it automatically grants you Crowd Control Immunity.",
   icon: "/esoui/art/icons/ability_psijic_001_a.dds",
   esoSkillId: 103557,
   isMorph: true,

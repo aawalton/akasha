@@ -8,7 +8,7 @@ export const vengeanceCircleOfProtection = {
   key: "vengeance-circle-of-protection",
   baseName: "Vengeance Circle of Protection",
   description:
-    '"Brand the earth at your location with a rune of protection, granting up to 3 of you and your allies Major Protection, reducing their damage taken by |cffffff10|r% for |cffffff10|r seconds."',
+    "Brand the earth at your location with a rune of protection, granting up to 3 of you and your allies Major Protection, reducing their damage taken by |cffffff10|r% for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_001.dds",
   esoSkillId: 246071,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceWarHorn = {
   key: "vengeance-war-horn",
   baseName: "Vengeance War Horn",
   description:
-    '"Sound a war horn to rally your forces, increasing you and up to 5 of your group members\' Health, Magicka, and Stamina Recovery by |cffffff2500|r for |cffffff6|r seconds."',
+    "Sound a war horn to rally your forces, increasing you and up to 5 of your group members' Health, Magicka, and Stamina Recovery by |cffffff2500|r for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_ava_003.dds",
   esoSkillId: 244644,
   isMorph: false,

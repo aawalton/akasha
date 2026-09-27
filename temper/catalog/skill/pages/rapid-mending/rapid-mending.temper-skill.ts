@@ -8,7 +8,7 @@ export const rapidMending = {
   key: "rapid-mending",
   baseName: "Rapid Mending",
   description:
-    '"Increases your healing received by 1% for each piece of Heavy Armor worn.\\n\\nCurrent bonus: 0%"',
+    "Increases your healing received by 1% for each piece of Heavy Armor worn.\n\nCurrent bonus: 0%",
   icon: "/esoui/art/icons/ability_armor_015.dds",
   esoSkillId: 45529,
   isMorph: false,

@@ -8,7 +8,7 @@ export const callOfThePack32641 = {
   key: "call-of-the-pack-32641",
   baseName: "Call of the Hunt",
   description:
-    '"No beast can resist their master\'s call. Hunt as one and none shall escape.\\n\\nReduces the cost of remaining in your Werewolf Transformation by |cffffff8|r%, plus |cffffff8|r% for each transformed werewolf or direwolf in your group, including yourself, up to a maximum of |cffffff40|r%."',
+    "No beast can resist their master's call. Hunt as one and none shall escape.\n\nReduces the cost of remaining in your Werewolf Transformation by |cffffff8|r%, plus |cffffff8|r% for each transformed werewolf or direwolf in your group, including yourself, up to a maximum of |cffffff40|r%.",
   icon: "/esoui/art/icons/ability_werewolf_006.dds",
   esoSkillId: 32641,
   isMorph: false,

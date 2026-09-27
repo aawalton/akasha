@@ -8,7 +8,7 @@ export const runeOfUncannyAdoration185921 = {
   key: "rune-of-uncanny-adoration-185921",
   baseName: "Rune of Eldritch Horror",
   description:
-    '"Etch a blasphemous rune on your enemy\'s mind, charming them after a |cffffff1|r second delay for |cffffff4|r seconds. This eldritch attraction causes them to move towards the player and applies Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%.\\n\\nIf used against a monster, the charm lasts for |cffffff8|r seconds.\\n\\nThis ability cannot be dodged."',
+    "Etch a blasphemous rune on your enemy's mind, charming them after a |cffffff1|r second delay for |cffffff4|r seconds. This eldritch attraction causes them to move towards the player and applies Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%.\n\nIf used against a monster, the charm lasts for |cffffff8|r seconds.\n\nThis ability cannot be dodged.",
   icon: "/esoui/art/icons/ability_arcanist_011_a.dds",
   esoSkillId: 185921,
   isMorph: true,

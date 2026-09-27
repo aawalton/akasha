@@ -8,7 +8,7 @@ export const timeFreeze104079 = {
   key: "time-freeze-104079",
   baseName: "Time Stop",
   description:
-    '"Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area over |cffffff4|r seconds before finally stunning them in place for |cffffff3|r seconds when the duration completes."',
+    "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area over |cffffff4|r seconds before finally stunning them in place for |cffffff3|r seconds when the duration completes.",
   icon: "/esoui/art/icons/ability_psijic_002_b.dds",
   esoSkillId: 104079,
   isMorph: true,

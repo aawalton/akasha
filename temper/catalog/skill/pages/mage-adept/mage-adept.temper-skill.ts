@@ -7,7 +7,7 @@ export const mageAdept = {
   title: "Mage Adept",
   key: "mage-adept",
   baseName: "Mage Adept",
-  description: '"Reduces the Magicka and Health cost of your Mages Guild abilities by 15%."',
+  description: "Reduces the Magicka and Health cost of your Mages Guild abilities by 15%.",
   icon: "/esoui/art/icons/ability_sorcerer_045.dds",
   esoSkillId: 45601,
   isMorph: false,

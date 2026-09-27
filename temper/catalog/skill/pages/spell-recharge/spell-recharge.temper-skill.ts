@@ -8,7 +8,7 @@ export const spellRecharge = {
   key: "spell-recharge",
   baseName: "Spell Recharge",
   description:
-    '"When you activate an ability, you restore 625 Magicka or Stamina, based on whichever is lowest. This effect can occur once every 6 seconds.\\n\\nWhen you are using an ability with a channel or cast time, you take 5% less damage."',
+    "When you activate an ability, you restore 625 Magicka or Stamina, based on whichever is lowest. This effect can occur once every 6 seconds.\n\nWhen you are using an ability with a channel or cast time, you take 5% less damage.",
   icon: "/esoui/art/icons/ability_sorcerer_063.dds",
   esoSkillId: 45274,
   isMorph: false,

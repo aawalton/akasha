@@ -8,7 +8,7 @@ export const elementalBlockade39011 = {
   key: "elemental-blockade-39011",
   baseName: "Wall of Elements",
   description:
-    '"Slam your staff down to create an elemental barrier in front of you, dealing |cffffff978|r Magic Damage to enemies in the target area every |cffffff1|r second.\\n\\nBlockade of Fire deals additional damage to Burning enemies.\\n\\nBlockade of Frost costs more, but snares and reduces armor against Chilled enemies and grants damage shields.\\n\\nBlockade of Storms sets Concussed enemies Off Balance."',
+    "Slam your staff down to create an elemental barrier in front of you, dealing |cffffff978|r Magic Damage to enemies in the target area every |cffffff1|r second.\n\nBlockade of Fire deals additional damage to Burning enemies.\n\nBlockade of Frost costs more, but snares and reduces armor against Chilled enemies and grants damage shields.\n\nBlockade of Storms sets Concussed enemies Off Balance.",
   icon: "/esoui/art/icons/ability_destructionstaff_002a.dds",
   esoSkillId: 39011,
   isMorph: true,

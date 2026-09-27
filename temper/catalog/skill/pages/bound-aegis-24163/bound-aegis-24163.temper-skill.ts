@@ -8,7 +8,7 @@ export const boundAegis24163 = {
   key: "bound-aegis-24163",
   baseName: "Bound Armor",
   description:
-    '"Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by |cffffff50|r% for |cffffff3|r seconds. The duration is based on your combined Physical and Spell Resistance.\\n\\nWhen slotted on either bar, you gain Minor Protection and Minor Resolve, reducing your damage taken by |cffffff5|r% and increasing your Armor by |cffffff2974|r."',
+    "Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by |cffffff50|r% for |cffffff3|r seconds. The duration is based on your combined Physical and Spell Resistance.\n\nWhen slotted on either bar, you gain Minor Protection and Minor Resolve, reducing your damage taken by |cffffff5|r% and increasing your Armor by |cffffff2974|r.",
   icon: "/esoui/art/icons/ability_sorcerer_bound_aegis.dds",
   esoSkillId: 24163,
   isMorph: true,

@@ -7,7 +7,7 @@ export const tough = {
   title: "Tough",
   key: "tough",
   baseName: "Tough",
-  description: '"Increases your Max Health by 2000."',
+  description: "Increases your Max Health by 2000.",
   icon: "/esoui/art/icons/ability_dragonknight_020.dds",
   esoSkillId: 50907,
   isMorph: false,

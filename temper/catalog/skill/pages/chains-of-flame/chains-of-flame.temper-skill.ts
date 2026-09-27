@@ -8,7 +8,7 @@ export const chainsOfFlame = {
   key: "chains-of-flame",
   baseName: "Chains of Flame",
   description:
-    '"Lash out with a flaming chain, pulling an enemy to you. The searing metal deals |cffffff4846|r Flame Damage, applies the Burning status effect, and taunts them for |cffffff15|r seconds if they are not already taunted.\\n\\nThis attack cannot be dodged or reflected.\\n\\nAlso inflicts Major Cowardice on the enemy, reducing Weapon and Spell Damage by |cffffff430|r for |cffffff10|r seconds."',
+    "Lash out with a flaming chain, pulling an enemy to you. The searing metal deals |cffffff4846|r Flame Damage, applies the Burning status effect, and taunts them for |cffffff15|r seconds if they are not already taunted.\n\nThis attack cannot be dodged or reflected.\n\nAlso inflicts Major Cowardice on the enemy, reducing Weapon and Spell Damage by |cffffff430|r for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_005.dds",
   esoSkillId: 20492,
   isMorph: false,

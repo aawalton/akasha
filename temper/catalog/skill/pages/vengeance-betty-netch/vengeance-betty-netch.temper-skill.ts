@@ -8,7 +8,7 @@ export const vengeanceBettyNetch = {
   key: "vengeance-betty-netch",
   baseName: "Vengeance Betty Netch",
   description:
-    '"Call a betty netch to your side, which grants you Minor Berserk, increasing your damage done by |cffffff5|r% for |cffffff20|r seconds, and removing a negative effect from yourself."',
+    "Call a betty netch to your side, which grants you Minor Berserk, increasing your damage done by |cffffff5|r% for |cffffff20|r seconds, and removing a negative effect from yourself.",
   icon: "/esoui/art/icons/ability_warden_017_a.dds",
   esoSkillId: 238020,
   isMorph: false,

@@ -8,7 +8,7 @@ export const magickaAid = {
   key: "magicka-aid",
   baseName: "Magicka Aid",
   description:
-    '"Increases your Magicka Recovery by 10% for each Support ability slotted.\\n\\nCurrent bonus: 0%."',
+    "Increases your Magicka Recovery by 10% for each Support ability slotted.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_sorcerer_038.dds",
   esoSkillId: 45622,
   isMorph: false,

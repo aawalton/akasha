@@ -8,7 +8,7 @@ export const vengeanceFocusedCharge = {
   key: "vengeance-focused-charge",
   baseName: "Vengeance Focused Charge",
   description:
-    '"Charge with your divine lance to impale an enemy to deal |cffffff6678|r Magic Damage."',
+    "Charge with your divine lance to impale an enemy to deal |cffffff6678|r Magic Damage.",
   icon: "/esoui/art/icons/ability_templar_focused_charge.dds",
   esoSkillId: 237883,
   isMorph: false,

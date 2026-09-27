@@ -8,7 +8,7 @@ export const magickaDetonation = {
   key: "magicka-detonation",
   baseName: "Magicka Detonation",
   description:
-    '"Curse an enemy with a magical bomb that explodes after |cffffff4|r seconds, dealing |cffffff1599|r Magic Damage to all enemies in the area.\\n\\nEach enemy within the bomb\'s radius increases the damage by |cffffff100|r%, including the original target."',
+    "Curse an enemy with a magical bomb that explodes after |cffffff4|r seconds, dealing |cffffff1599|r Magic Damage to all enemies in the area.\n\nEach enemy within the bomb's radius increases the damage by |cffffff100|r%, including the original target.",
   icon: "/esoui/art/icons/ability_ava_magicka_detonation.dds",
   esoSkillId: 61487,
   isMorph: false,

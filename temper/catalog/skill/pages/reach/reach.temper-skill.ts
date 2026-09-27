@@ -8,7 +8,7 @@ export const reach = {
   key: "reach",
   baseName: "Reach",
   description:
-    '"Increases the range of long-range abilities by 5 meters while near a keep or outpost.\\n\\nAny ability with a range greater than 28 meters is affected."',
+    "Increases the range of long-range abilities by 5 meters while near a keep or outpost.\n\nAny ability with a range greater than 28 meters is affected.",
   icon: "/esoui/art/icons/ability_weapon_001.dds",
   esoSkillId: 45621,
   isMorph: false,

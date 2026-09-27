@@ -8,7 +8,7 @@ export const deflectBolts = {
   key: "deflect-bolts",
   baseName: "Deflect Bolts",
   description:
-    '"Increases the amount of damage you can block from projectiles and ranged attacks by 14%."',
+    "Increases the amount of damage you can block from projectiles and ranged attacks by 14%.",
   icon: "/esoui/art/icons/ability_templar_027.dds",
   esoSkillId: 45472,
   isMorph: false,

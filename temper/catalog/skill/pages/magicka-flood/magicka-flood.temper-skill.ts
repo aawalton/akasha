@@ -7,7 +7,7 @@ export const magickaFlood = {
   title: "Magicka Flood",
   key: "magicka-flood",
   baseName: "Magicka Flood",
-  description: '"Increases your Max Magicka and Stamina by 6%."',
+  description: "Increases your Max Magicka and Stamina by 6%.",
   icon: "/esoui/art/icons/passive_sorcerer_008.dds",
   esoSkillId: 45150,
   isMorph: false,

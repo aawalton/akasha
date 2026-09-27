@@ -7,7 +7,7 @@ export const elementalForce30962 = {
   title: "Elemental Force",
   key: "elemental-force-30962",
   baseName: "Elemental Force",
-  description: '"Increases your chance to apply status effects by |cffffff50|r%."',
+  description: "Increases your chance to apply status effects by |cffffff50|r%.",
   icon: "/esoui/art/icons/ability_weapon_005.dds",
   esoSkillId: 30962,
   isMorph: false,

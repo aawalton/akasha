@@ -8,7 +8,7 @@ export const vengeanceRenderFlesh = {
   key: "vengeance-render-flesh",
   baseName: "Vengeance Render Flesh",
   description:
-    '"Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff16065|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%."',
+    "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff16065|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%.",
   icon: "/esoui/art/icons/ability_necromancer_013.dds",
   esoSkillId: 238251,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceSolarFlare = {
   key: "vengeance-solar-flare",
   baseName: "Vengeance Solar Flare",
   description:
-    '"Conjure a ball of solar energy to heave at an enemy, dealing |cffffff15025|r Magic Damage to them."',
+    "Conjure a ball of solar energy to heave at an enemy, dealing |cffffff15025|r Magic Damage to them.",
   icon: "/esoui/art/icons/ability_templar_solar_flare.dds",
   esoSkillId: 237953,
   isMorph: false,

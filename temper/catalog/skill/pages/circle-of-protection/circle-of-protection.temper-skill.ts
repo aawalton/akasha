@@ -8,7 +8,7 @@ export const circleOfProtection = {
   key: "circle-of-protection",
   baseName: "Circle of Protection",
   description:
-    '"Brand the earth at your location with a rune of protection for |cffffff20|r seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing your damage taken by |cffffff5|r% and increasing your Stamina Recovery by |cffffff15|r%."',
+    "Brand the earth at your location with a rune of protection for |cffffff20|r seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing your damage taken by |cffffff5|r% and increasing your Stamina Recovery by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_fightersguild_001.dds",
   esoSkillId: 35737,
   isMorph: false,

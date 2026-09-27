@@ -8,7 +8,7 @@ export const vengeanceMagmaArmor = {
   key: "vengeance-magma-armor",
   baseName: "Vengeance Magma Armor",
   description:
-    '"Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds."',
+    "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_018.dds",
   esoSkillId: 237790,
   isMorph: false,

@@ -8,7 +8,7 @@ export const consumingTrap40317 = {
   key: "consuming-trap-40317",
   baseName: "Soul Trap",
   description:
-    '"Lay claim to an enemy\'s soul, dealing |cffffff15235|r Magic Damage over |cffffff20|r seconds.\\n\\nIf an affected enemy dies, you fill an empty Soul Gem, heal for |cffffff4022|r Health, and restore |cffffff2832|r Magicka and |cffffff5527|r Stamina. This portion of the ability scales off your Max Health, Magicka, and Stamina."',
+    "Lay claim to an enemy's soul, dealing |cffffff15235|r Magic Damage over |cffffff20|r seconds.\n\nIf an affected enemy dies, you fill an empty Soul Gem, heal for |cffffff4022|r Health, and restore |cffffff2832|r Magicka and |cffffff5527|r Stamina. This portion of the ability scales off your Max Health, Magicka, and Stamina.",
   icon: "/esoui/art/icons/ability_otherclass_001_b.dds",
   esoSkillId: 40317,
   isMorph: true,

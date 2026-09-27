@@ -8,7 +8,7 @@ export const deceptivePredator = {
   key: "deceptive-predator",
   baseName: "Falcon's Swiftness",
   description:
-    '"Invoke the spirit of agility to gain Major Expedition for 6 seconds, increasing your Movement Speed by 30%.\\n\\nGain immunity to snares and immobilizations for 4 seconds.\\n\\nWhile slotted you gain Minor Evasion, reducing damage from area attacks by 10%."',
+    "Invoke the spirit of agility to gain Major Expedition for 6 seconds, increasing your Movement Speed by 30%.\n\nGain immunity to snares and immobilizations for 4 seconds.\n\nWhile slotted you gain Minor Evasion, reducing damage from area attacks by 10%.",
   icon: "/esoui/art/icons/ability_warden_016_b.dds",
   esoSkillId: 86044,
   isMorph: true,

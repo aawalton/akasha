@@ -8,7 +8,7 @@ export const mesmerize = {
   key: "mesmerize",
   baseName: "Mesmerize",
   description:
-    '"Subdue enemies in front of you with your baleful gaze, stunning them for |cffffff5|r seconds if they are facing your direction.\\n\\nThis stun cannot be blocked."',
+    "Subdue enemies in front of you with your baleful gaze, stunning them for |cffffff5|r seconds if they are facing your direction.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_u26_vampire_04.dds",
   esoSkillId: 128709,
   isMorph: false,

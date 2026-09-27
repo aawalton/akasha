@@ -8,7 +8,7 @@ export const poisonInjection = {
   key: "poison-injection",
   baseName: "Poison Arrow",
   description:
-    '"Shoot an arrow coated in Baandari poison at an enemy, dealing 1161 Poison Damage and an additional 3470 Poison Damage over 20 seconds.\\n\\nDeals up to 120% more damage to enemies under 50% Health."',
+    "Shoot an arrow coated in Baandari poison at an enemy, dealing 1161 Poison Damage and an additional 3470 Poison Damage over 20 seconds.\n\nDeals up to 120% more damage to enemies under 50% Health.",
   icon: "/esoui/art/icons/ability_bow_002_b.dds",
   esoSkillId: 40842,
   isMorph: true,

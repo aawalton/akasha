@@ -7,8 +7,7 @@ export const trafficker63809 = {
   title: "Trafficker",
   key: "trafficker-63809",
   baseName: "Trafficker",
-  description:
-    '"Increases the number of fence interactions you can use each day by |cffffff160|r%."',
+  description: "Increases the number of fence interactions you can use each day by |cffffff160|r%.",
   icon: "/esoui/art/icons/ability_legerdemain_salesman.dds",
   esoSkillId: 63809,
   isMorph: false,

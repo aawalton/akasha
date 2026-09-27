@@ -8,7 +8,7 @@ export const cinderStorm = {
   key: "cinder-storm",
   baseName: "Ash Cloud",
   description:
-    '"Summon a scorching cloud of ash at the target location for 15 seconds, reducing enemy Movement Speed by 70% and healing you and your allies for 674 every 1 second."',
+    "Summon a scorching cloud of ash at the target location for 15 seconds, reducing enemy Movement Speed by 70% and healing you and your allies for 674 every 1 second.",
   icon: "/esoui/art/icons/ability_dragonknight_016a.dds",
   esoSkillId: 0,
   isMorph: true,

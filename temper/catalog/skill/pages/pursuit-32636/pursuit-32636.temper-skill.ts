@@ -8,7 +8,7 @@ export const pursuit32636 = {
   key: "pursuit-32636",
   baseName: "Master of the Chase",
   description:
-    '"Give chase, hunter. Become pursuit unrelenting.\\n\\nIncreases your Movement Speed by |cffffff15|r%."',
+    "Give chase, hunter. Become pursuit unrelenting.\n\nIncreases your Movement Speed by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_werewolf_010.dds",
   esoSkillId: 32636,
   isMorph: false,

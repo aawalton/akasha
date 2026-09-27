@@ -8,7 +8,7 @@ export const vengeanceFungalGrowth = {
   key: "vengeance-fungal-growth",
   baseName: "Vengeance Fungal Growth",
   description:
-    '"Seed a large area of mushrooms in front of you, healing up to 3 of you and your allies for |cffffff12048|r Health."',
+    "Seed a large area of mushrooms in front of you, healing up to 3 of you and your allies for |cffffff12048|r Health.",
   icon: "/esoui/art/icons/ability_warden_008.dds",
   esoSkillId: 238054,
   isMorph: false,

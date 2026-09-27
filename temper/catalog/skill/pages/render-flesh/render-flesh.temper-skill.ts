@@ -8,7 +8,7 @@ export const renderFlesh = {
   key: "render-flesh",
   baseName: "Render Flesh",
   description:
-    '"Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff10960|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%."',
+    "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff10960|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%.",
   icon: "/esoui/art/icons/ability_necromancer_013.dds",
   esoSkillId: 114196,
   isMorph: false,

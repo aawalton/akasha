@@ -8,7 +8,7 @@ export const powerExtraction36901 = {
   key: "power-extraction-36901",
   baseName: "Drain Power",
   description:
-    '"Siphon the vigor from your enemies\' blood, dealing |cffffff6401|r Disease Damage to all nearby enemies.\\n\\nIf an enemy is hit you gain Major Brutality and Sorcery, and Minor Courage increasing your Weapon and Spell Damage by |cffffff20|r% and |cffffff215|r for |cffffff30|r seconds. Enemies hit have Minor Cowardice applied to them for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff215|r."',
+    "Siphon the vigor from your enemies' blood, dealing |cffffff6401|r Disease Damage to all nearby enemies.\n\nIf an enemy is hit you gain Major Brutality and Sorcery, and Minor Courage increasing your Weapon and Spell Damage by |cffffff20|r% and |cffffff215|r for |cffffff30|r seconds. Enemies hit have Minor Cowardice applied to them for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff215|r.",
   icon: "/esoui/art/icons/ability_nightblade_013_b.dds",
   esoSkillId: 36901,
   isMorph: true,

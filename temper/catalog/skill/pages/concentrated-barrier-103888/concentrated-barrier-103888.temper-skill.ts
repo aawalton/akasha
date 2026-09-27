@@ -8,7 +8,7 @@ export const concentratedBarrier103888 = {
   key: "concentrated-barrier-103888",
   baseName: "Concentrated Barrier",
   description:
-    '"While you have a Psijic Order ability slotted and are Bracing, you gain a damage shield that absorbs |cffffff2875|r damage. \\n\\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Bracing."',
+    "While you have a Psijic Order ability slotted and are Bracing, you gain a damage shield that absorbs |cffffff2875|r damage. \n\nThis damage shield recharges back to full strength after you spend |cffffff10|r seconds not Bracing.",
   icon: "/esoui/art/icons/ability_psijic_010.dds",
   esoSkillId: 103888,
   isMorph: false,

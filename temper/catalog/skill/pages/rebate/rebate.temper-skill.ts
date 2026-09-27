@@ -8,7 +8,7 @@ export const rebate = {
   key: "rebate",
   baseName: "Rebate",
   description:
-    '"You restore 371 Magicka or Stamina when one of your non-Ultimate Daedric Summoning abilities end. The resource returned is dictated by the ability\'s cost."',
+    "You restore 371 Magicka or Stamina when one of your non-Ultimate Daedric Summoning abilities end. The resource returned is dictated by the ability's cost.",
   icon: "/esoui/art/icons/ability_sorcerer_056.dds",
   esoSkillId: 45198,
   isMorph: false,

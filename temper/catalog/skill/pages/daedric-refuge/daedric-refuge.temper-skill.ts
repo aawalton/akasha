@@ -8,7 +8,7 @@ export const daedricRefuge = {
   key: "daedric-refuge",
   baseName: "Daedric Mines",
   description:
-    '"Carefully form 5 protective Daedric wards around you, which take 3 seconds to arm and last for 15 seconds.\\n\\nWhen a Daedric ward is triggered it grants you or the ally a damage shield that absorbs 3591 damage for 6 seconds. Targets can only be shielded by Daedric Refuge once every 2 seconds and the shield is capped at 43% of the target\'s Max Health."',
+    "Carefully form 5 protective Daedric wards around you, which take 3 seconds to arm and last for 15 seconds.\n\nWhen a Daedric ward is triggered it grants you or the ally a damage shield that absorbs 3591 damage for 6 seconds. Targets can only be shielded by Daedric Refuge once every 2 seconds and the shield is capped at 43% of the target's Max Health.",
   icon: "/esoui/art/icons/ability_sorcerer_daedric_minefield.dds",
   esoSkillId: 29973,
   isMorph: true,

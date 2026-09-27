@@ -8,7 +8,7 @@ export const stalwart36064 = {
   key: "stalwart-36064",
   baseName: "Stalwart",
   description:
-    '"Increases your Max Stamina by |cffffff500|r.\\n\\nWhen you take damage, you gain |cffffff1|r Ultimate.  This effect can occur once every |cffffff10|r seconds."',
+    "Increases your Max Stamina by |cffffff500|r.\n\nWhen you take damage, you gain |cffffff1|r Ultimate.  This effect can occur once every |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_018.dds",
   esoSkillId: 36064,
   isMorph: false,

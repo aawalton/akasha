@@ -8,7 +8,7 @@ export const vengeanceChainsOfFlame = {
   key: "vengeance-chains-of-flame",
   baseName: "Vengeance Chains of Flame",
   description:
-    '"Launch a fiery chain to grasp and pull an enemy to you, dealing |cffffff6678|r Flame Damage.\\n\\nThis attack cannot be dodged or reflected."',
+    "Launch a fiery chain to grasp and pull an enemy to you, dealing |cffffff6678|r Flame Damage.\n\nThis attack cannot be dodged or reflected.",
   icon: "/esoui/art/icons/ability_dragonknight_005.dds",
   esoSkillId: 237620,
   isMorph: false,

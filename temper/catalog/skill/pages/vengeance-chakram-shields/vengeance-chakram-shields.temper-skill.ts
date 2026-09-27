@@ -8,7 +8,7 @@ export const vengeanceChakramShields = {
   key: "vengeance-chakram-shields",
   baseName: "Vengeance Chakram Shields",
   description:
-    '"Carve the runes of the Blind Man to call forth spinning mystical discs. Discs surround you or up to 2 allies in front of you, granting a shield that absorbs |cffffff8478|r damage for |cffffff6|r seconds.\\n\\nDiscs prefer your reticle target, or low-Health targets without shields."',
+    "Carve the runes of the Blind Man to call forth spinning mystical discs. Discs surround you or up to 2 allies in front of you, granting a shield that absorbs |cffffff8478|r damage for |cffffff6|r seconds.\n\nDiscs prefer your reticle target, or low-Health targets without shields.",
   icon: "/esoui/art/icons/ability_arcanist_015.dds",
   esoSkillId: 238536,
   isMorph: false,

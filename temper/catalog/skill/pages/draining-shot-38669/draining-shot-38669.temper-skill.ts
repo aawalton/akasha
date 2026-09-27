@@ -8,7 +8,7 @@ export const drainingShot38669 = {
   key: "draining-shot-38669",
   baseName: "Scatter Shot",
   description:
-    '"Blast an enemy with an enchanted arrow, dealing |cffffff4845|r Physical Damage and reducing their Movement Speed by |cffffff60|r% for |cffffff3|r seconds.\\n\\nIf the enemy is hit, you heal for |cffffff7547|r."',
+    "Blast an enemy with an enchanted arrow, dealing |cffffff4845|r Physical Damage and reducing their Movement Speed by |cffffff60|r% for |cffffff3|r seconds.\n\nIf the enemy is hit, you heal for |cffffff7547|r.",
   icon: "/esoui/art/icons/ability_bow_004_a.dds",
   esoSkillId: 38669,
   isMorph: true,

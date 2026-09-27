@@ -7,7 +7,7 @@ export const brewer = {
   title: "Brewer",
   key: "brewer",
   baseName: "Brewer",
-  description: '"Creates 3 extra servings for each drink recipe made."',
+  description: "Creates 3 extra servings for each drink recipe made.",
   icon: "/esoui/art/icons/ability_provisioner_003.dds",
   esoSkillId: 44624,
   isMorph: false,

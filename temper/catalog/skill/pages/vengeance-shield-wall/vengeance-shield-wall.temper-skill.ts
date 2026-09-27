@@ -8,7 +8,7 @@ export const vengeanceShieldWall = {
   key: "vengeance-shield-wall",
   baseName: "Vengeance Shield Wall",
   description:
-    '"Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff6|r seconds."',
+    "Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_006.dds",
   esoSkillId: 240572,
   isMorph: false,

@@ -7,7 +7,7 @@ export const syrabanesBoon = {
   title: "Syrabane's Boon",
   key: "syrabanes-boon",
   baseName: "Syrabane's Boon",
-  description: '"Increases your Max Magicka by 2000."',
+  description: "Increases your Max Magicka by 2000.",
   icon: "/esoui/art/icons/ability_armor_004.dds",
   esoSkillId: 117970,
   isMorph: false,

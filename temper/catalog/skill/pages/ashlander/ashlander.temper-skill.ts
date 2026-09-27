@@ -8,7 +8,7 @@ export const ashlander = {
   key: "ashlander",
   baseName: "Ashlander",
   description:
-    '"Increases your experience gain with the Dual Wield skill line by 15%.\\n\\nReduces your damage taken from environmental lava by 50%."',
+    "Increases your experience gain with the Dual Wield skill line by 15%.\n\nReduces your damage taken from environmental lava by 50%.",
   icon: "/esoui/art/icons/ability_weapon_016.dds",
   esoSkillId: 36588,
   isMorph: false,

@@ -8,7 +8,7 @@ export const shadowySupplier = {
   key: "shadowy-supplier",
   baseName: "Shadowy Supplier",
   description:
-    '"A contact from the Brotherhood provides beneficial items once per day. This contact is located in Outlaw Refuges, the Gold Coast Dark Brotherhood Sanctuary, and the Hew\'s Bane Thieves Den."',
+    "A contact from the Brotherhood provides beneficial items once per day. This contact is located in Outlaw Refuges, the Gold Coast Dark Brotherhood Sanctuary, and the Hew's Bane Thieves Den.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_003.dds",
   esoSkillId: 77396,
   isMorph: false,

@@ -8,7 +8,7 @@ export const stampede = {
   key: "stampede",
   baseName: "Critical Charge",
   description:
-    '"Launch across the earth and smash an enemy, dealing 1393 Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\\n\\nAfter reaching your target, you sunder the ground beneath you, dealing 319 Physical Damage to all enemies in the area every 1 second for 15 seconds."',
+    "Launch across the earth and smash an enemy, dealing 1393 Physical Damage to them and all nearby enemies. This attack is always a Critical Strike.\n\nAfter reaching your target, you sunder the ground beneath you, dealing 319 Physical Damage to all enemies in the area every 1 second for 15 seconds.",
   icon: "/esoui/art/icons/ability_2handed_003_a.dds",
   esoSkillId: 39807,
   isMorph: true,

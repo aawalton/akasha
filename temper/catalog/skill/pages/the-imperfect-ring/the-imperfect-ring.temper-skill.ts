@@ -8,7 +8,7 @@ export const theImperfectRing = {
   key: "the-imperfect-ring",
   baseName: "The Imperfect Ring",
   description:
-    '"Summon a flawed rune under an enemy that etches foes nearby with scrawled glyphs, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.\\n\\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff9914|r Frost Damage to enemies within 7 meters."',
+    "Summon a flawed rune under an enemy that etches foes nearby with scrawled glyphs, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.\n\nAn ally near the initial target can activate the Runebreak synergy, dealing |cffffff9914|r Frost Damage to enemies within 7 meters.",
   icon: "/esoui/art/icons/ability_arcanist_004.dds",
   esoSkillId: 185836,
   isMorph: false,

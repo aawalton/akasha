@@ -7,7 +7,7 @@ export const balancedBlade = {
   title: "Balanced Blade",
   key: "balanced-blade",
   baseName: "Balanced Blade",
-  description: '"Reduces the Stamina cost of your Two-Handed abilities by 15%."',
+  description: "Reduces the Stamina cost of your Two-Handed abilities by 15%.",
   icon: "/esoui/art/icons/ability_dragonknight_028.dds",
   esoSkillId: 45443,
   isMorph: false,

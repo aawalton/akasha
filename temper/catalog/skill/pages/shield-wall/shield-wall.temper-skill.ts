@@ -8,7 +8,7 @@ export const shieldWall = {
   key: "shield-wall",
   baseName: "Shield Wall",
   description:
-    '"Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff6|r seconds."',
+    "Reinforce your shield, allowing you to automatically block all attacks at no cost for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_006.dds",
   esoSkillId: 83272,
   isMorph: false,

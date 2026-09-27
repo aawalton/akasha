@@ -7,7 +7,7 @@ export const tanninExpertise = {
   title: "Tannin Expertise",
   key: "tannin-expertise",
   baseName: "Tannin Expertise",
-  description: '"More than doubles the chances to improve items with tannins."',
+  description: "More than doubles the chances to improve items with tannins.",
   icon: "/esoui/art/icons/ability_tradecraft_004.dds",
   esoSkillId: 48198,
   isMorph: false,

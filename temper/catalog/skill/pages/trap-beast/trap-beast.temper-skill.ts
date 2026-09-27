@@ -8,7 +8,7 @@ export const trapBeast = {
   key: "trap-beast",
   baseName: "Trap Beast",
   description:
-    '"Set a sharpened blade trap at your location, which takes |cffffff1.5|r seconds to arm and lasts for |cffffff20|r seconds. \\n\\nWhen triggered, the trap deals |cffffff4036|r Bleed Damage, an additional |cffffff11420|r Bleed Damage over |cffffff20|r seconds, and grants you Minor Force, increasing your Critical Damage by |cffffff10|r% for the duration.\\n\\nEnemies who activate the trap are immobilized for |cffffff2|r seconds."',
+    "Set a sharpened blade trap at your location, which takes |cffffff1.5|r seconds to arm and lasts for |cffffff20|r seconds. \n\nWhen triggered, the trap deals |cffffff4036|r Bleed Damage, an additional |cffffff11420|r Bleed Damage over |cffffff20|r seconds, and grants you Minor Force, increasing your Critical Damage by |cffffff10|r% for the duration.\n\nEnemies who activate the trap are immobilized for |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_004.dds",
   esoSkillId: 35750,
   isMorph: false,

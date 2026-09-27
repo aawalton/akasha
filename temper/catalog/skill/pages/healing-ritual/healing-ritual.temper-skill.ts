@@ -8,7 +8,7 @@ export const healingRitual = {
   key: "healing-ritual",
   baseName: "Healing Ritual",
   description:
-    '"Focus your spiritual devotion, healing you and nearby allies for |cffffff8220|r Health."',
+    "Focus your spiritual devotion, healing you and nearby allies for |cffffff8220|r Health.",
   icon: "/esoui/art/icons/ability_templar_healing_ritual.dds",
   esoSkillId: 22304,
   isMorph: false,

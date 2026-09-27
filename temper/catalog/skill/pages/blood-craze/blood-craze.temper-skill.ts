@@ -8,7 +8,7 @@ export const bloodCraze = {
   key: "blood-craze",
   baseName: "Twin Slashes",
   description:
-    '"Slice an enemy with both weapons to cause deep lacerations, dealing 580 Bleed Damage with each weapon and causing them to bleed for an additional 3470 Bleed Damage over 20 seconds.\\n\\nYou heal for 358 Health anytime this ability deals damage."',
+    "Slice an enemy with both weapons to cause deep lacerations, dealing 580 Bleed Damage with each weapon and causing them to bleed for an additional 3470 Bleed Damage over 20 seconds.\n\nYou heal for 358 Health anytime this ability deals damage.",
   icon: "/esoui/art/icons/ability_dualwield_001_b.dds",
   esoSkillId: 40687,
   isMorph: true,

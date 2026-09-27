@@ -7,7 +7,7 @@ export const lapidaryResearch103640 = {
   title: "Lapidary Research",
   key: "lapidary-research-103640",
   baseName: "Lapidary Research",
-  description: '"Reduces research times by 5%."',
+  description: "Reduces research times by 5%.",
   icon: "/esoui/art/icons/passive_lapidaryresearch.dds",
   esoSkillId: 103640,
   isMorph: false,

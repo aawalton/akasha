@@ -8,7 +8,7 @@ export const echoingVigor61505 = {
   key: "echoing-vigor-61505",
   baseName: "Vigor",
   description:
-    '"Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff16434|r Health over |cffffff16|r seconds."',
+    "Let loose a battle cry, instilling you and your allies with resolve and healing for |cffffff16434|r Health over |cffffff16|r seconds.",
   icon: "/esoui/art/icons/ability_ava_echoing_vigor.dds",
   esoSkillId: 61505,
   isMorph: true,

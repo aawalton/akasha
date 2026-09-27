@@ -8,7 +8,7 @@ export const whirlingBlades38891 = {
   key: "whirling-blades-38891",
   baseName: "Whirlwind",
   description:
-    '"Launch yourself into a lethal spin, dealing |cffffff6611|r Physical Damage to nearby enemies. Deals up to |cffffff100|r% more damage to enemies with less than |cffffff50|r% Health."',
+    "Launch yourself into a lethal spin, dealing |cffffff6611|r Physical Damage to nearby enemies. Deals up to |cffffff100|r% more damage to enemies with less than |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_dualwield_005_a.dds",
   esoSkillId: 38891,
   isMorph: true,

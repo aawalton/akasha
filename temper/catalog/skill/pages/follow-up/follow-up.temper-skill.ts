@@ -8,7 +8,7 @@ export const followUp = {
   key: "follow-up",
   baseName: "Follow Up",
   description:
-    '"When you complete a fully-charged Heavy Attack, your damage done with Two Handed attacks increases by 10% for 4 seconds."',
+    "When you complete a fully-charged Heavy Attack, your damage done with Two Handed attacks increases by 10% for 4 seconds.",
   icon: "/esoui/art/icons/passive_dragonknight_016.dds",
   esoSkillId: 45446,
   isMorph: false,

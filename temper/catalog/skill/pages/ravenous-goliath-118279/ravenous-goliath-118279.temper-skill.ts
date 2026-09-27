@@ -8,7 +8,7 @@ export const ravenousGoliath118279 = {
   key: "ravenous-goliath-118279",
   baseName: "Bone Goliath Transformation",
   description:
-    '"Become a horrific Ravenous Goliath, increasing your Max Health by |cffffff30000|r for |cffffff20|r seconds and immediately restoring |cffffff30000|r Health. \\n\\nWhile transformed, your damaging Light Attacks restore |cffffff402|r Health and your fully-charged Heavy Attacks restore |cffffff1005|r Health. You deal |cffffff1078|r Magic Damage to nearby enemies every second and heal for that amount. These abilities scale off your Max Health."',
+    "Become a horrific Ravenous Goliath, increasing your Max Health by |cffffff30000|r for |cffffff20|r seconds and immediately restoring |cffffff30000|r Health. \n\nWhile transformed, your damaging Light Attacks restore |cffffff402|r Health and your fully-charged Heavy Attacks restore |cffffff1005|r Health. You deal |cffffff1078|r Magic Damage to nearby enemies every second and heal for that amount. These abilities scale off your Max Health.",
   icon: "/esoui/art/icons/ability_necromancer_012_b.dds",
   esoSkillId: 118279,
   isMorph: true,

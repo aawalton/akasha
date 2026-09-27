@@ -8,7 +8,7 @@ export const permafrost86117 = {
   key: "permafrost-86117",
   baseName: "Sleet Storm",
   description:
-    '"Twist a violent storm around you, dealing |cffffff551|r Frost Damage every |cffffff1|r second for |cffffff13|r seconds to enemies around you and reducing their Movement Speed by |cffffff70|r% and applying the Chilled status effect.\\n\\nYou and nearby allies gain Major Protection, reducing your damage taken by |cffffff10|r%."',
+    "Twist a violent storm around you, dealing |cffffff551|r Frost Damage every |cffffff1|r second for |cffffff13|r seconds to enemies around you and reducing their Movement Speed by |cffffff70|r% and applying the Chilled status effect.\n\nYou and nearby allies gain Major Protection, reducing your damage taken by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_warden_006_b.dds",
   esoSkillId: 86117,
   isMorph: true,

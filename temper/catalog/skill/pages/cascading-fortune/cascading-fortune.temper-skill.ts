@@ -8,7 +8,7 @@ export const cascadingFortune = {
   key: "cascading-fortune",
   baseName: "Remedy Cascade",
   description:
-    '"Channel the abyssal sea to coalesce a beam that heals you and your allies in its path for 11674 Health over 4.5 seconds.\\n\\nThe beam heals for up to 50% more in proportion to the severity of the target\'s wounds as you reweave fate itself.\\n\\nConsume Crux to also restore 728 Magicka and Stamina per Crux spent to your allies over 4.5 seconds."',
+    "Channel the abyssal sea to coalesce a beam that heals you and your allies in its path for 11674 Health over 4.5 seconds.\n\nThe beam heals for up to 50% more in proportion to the severity of the target's wounds as you reweave fate itself.\n\nConsume Crux to also restore 728 Magicka and Stamina per Crux spent to your allies over 4.5 seconds.",
   icon: "/esoui/art/icons/ability_arcanist_014_a.dds",
   esoSkillId: 40186193,
   isMorph: true,

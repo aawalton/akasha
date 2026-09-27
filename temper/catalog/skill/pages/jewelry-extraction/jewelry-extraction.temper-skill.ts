@@ -8,7 +8,7 @@ export const jewelryExtraction = {
   key: "jewelry-extraction",
   baseName: "Jewelry Extraction",
   description:
-    '"Maximizes the chances of extracting Jewelry Crafting ingredients and allows the refining of more powerful Platings from raw materials."',
+    "Maximizes the chances of extracting Jewelry Crafting ingredients and allows the refining of more powerful Platings from raw materials.",
   icon: "/esoui/art/icons/passive_jewelryextraction.dds",
   esoSkillId: 103645,
   isMorph: false,

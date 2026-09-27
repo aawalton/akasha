@@ -8,7 +8,7 @@ export const reverberatingBash = {
   key: "reverberating-bash",
   baseName: "Power Bash",
   description:
-    '"Strike an enemy full-force with your shield, dealing 1161 Physical Damage and stunning them for 3 seconds.\\n\\nAfter the stun ends, the enemy takes an additional 1161 Physical Damage.\\n\\nThis ability\'s damage is considered Bash damage and interrupts the enemy if they are casting."',
+    "Strike an enemy full-force with your shield, dealing 1161 Physical Damage and stunning them for 3 seconds.\n\nAfter the stun ends, the enemy takes an additional 1161 Physical Damage.\n\nThis ability's damage is considered Bash damage and interrupts the enemy if they are casting.",
   icon: "/esoui/art/icons/ability_1handed_005_b.dds",
   esoSkillId: 41448,
   isMorph: true,

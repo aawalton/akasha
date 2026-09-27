@@ -8,7 +8,7 @@ export const shatterSoul = {
   key: "shatter-soul",
   baseName: "Soul Strike",
   description:
-    '"Burn an enemy from the inside with soulfire, dealing 14814 Magic Damage over 5 seconds.  Upon completion, the soulfire overflows and explodes from the enemy, dealing 2399 Magic Damage to all enemies near them.\\n\\nWhile channeling this ability, you gain immunity to all disabling effects.\\n\\nEnemies affected by this ability are revealed for 3 seconds and may not enter stealth or invisibility.\\n\\nThis ability is considered direct damage."',
+    "Burn an enemy from the inside with soulfire, dealing 14814 Magic Damage over 5 seconds.  Upon completion, the soulfire overflows and explodes from the enemy, dealing 2399 Magic Damage to all enemies near them.\n\nWhile channeling this ability, you gain immunity to all disabling effects.\n\nEnemies affected by this ability are revealed for 3 seconds and may not enter stealth or invisibility.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_otherclass_002_a.dds",
   esoSkillId: 43109,
   isMorph: true,

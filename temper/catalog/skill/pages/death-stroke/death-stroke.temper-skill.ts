@@ -8,7 +8,7 @@ export const deathStroke = {
   key: "death-stroke",
   baseName: "Death Stroke",
   description:
-    '"Ravage an enemy with a swift strike, dealing |cffffff12922|r Magic Damage and causing them to take |cffffff20|r% more damage from your attacks for |cffffff8|r seconds."',
+    "Ravage an enemy with a swift strike, dealing |cffffff12922|r Magic Damage and causing them to take |cffffff20|r% more damage from your attacks for |cffffff8|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_007.dds",
   esoSkillId: 33398,
   isMorph: false,

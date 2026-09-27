@@ -8,7 +8,7 @@ export const darkVigor = {
   key: "dark-vigor",
   baseName: "Dark Vigor",
   description:
-    '"Increases your Max Health by 5% for each Shadow ability slotted.\\n\\nCurrent bonus: 0%."',
+    "Increases your Max Health by 5% for each Shadow ability slotted.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_sorcerer_044.dds",
   esoSkillId: 45084,
   isMorph: false,

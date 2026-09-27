@@ -8,7 +8,7 @@ export const vengeanceWingedTwilight = {
   key: "vengeance-winged-twilight",
   baseName: "Vengeance Winged Twilight",
   description:
-    '"Call on Azura to send a blessing to heal a friendly ally for |cffffff16065|r Health and yourself for |cffffff8033|r Health."',
+    "Call on Azura to send a blessing to heal a friendly ally for |cffffff16065|r Health and yourself for |cffffff8033|r Health.",
   icon: "/esoui/art/icons/ability_sorcerer_storm_prey_summoned.dds",
   esoSkillId: 237915,
   isMorph: false,

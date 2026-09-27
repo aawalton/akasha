@@ -8,7 +8,7 @@ export const ransack = {
   key: "ransack",
   baseName: "Puncture",
   description:
-    '"Thrust your weapon with disciplined precision at an enemy, dealing 1199 Physical Damage and taunting them to attack you for 15 seconds.\\n\\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by 5948 for 15 seconds.\\n\\nYou also gain Minor Protection, reducing your damage taken by 5% for 15 seconds."',
+    "Thrust your weapon with disciplined precision at an enemy, dealing 1199 Physical Damage and taunting them to attack you for 15 seconds.\n\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by 5948 for 15 seconds.\n\nYou also gain Minor Protection, reducing your damage taken by 5% for 15 seconds.",
   icon: "/esoui/art/icons/ability_1handed_002_a.dds",
   esoSkillId: 41487,
   isMorph: true,

@@ -8,7 +8,7 @@ export const shadowBarrier18866 = {
   key: "shadow-barrier-18866",
   baseName: "Shadow Barrier",
   description:
-    '"Casting a Shadow ability grants you Major Resolve for |cffffff6|r seconds, increasing your Physical and Spell Resistance by |cffffff5948|r. This duration is increased by |cffffff2|r seconds for each piece of Heavy Armor equipped.\\n\\nCurrent duration: |cffffff6|r seconds."',
+    "Casting a Shadow ability grants you Major Resolve for |cffffff6|r seconds, increasing your Physical and Spell Resistance by |cffffff5948|r. This duration is increased by |cffffff2|r seconds for each piece of Heavy Armor equipped.\n\nCurrent duration: |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_022.dds",
   esoSkillId: 18866,
   isMorph: false,

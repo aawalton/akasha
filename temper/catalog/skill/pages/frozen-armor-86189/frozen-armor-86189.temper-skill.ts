@@ -8,7 +8,7 @@ export const frozenArmor86189 = {
   key: "frozen-armor-86189",
   baseName: "Frozen Armor",
   description:
-    '"Increases your Physical and Spell Resistance by |cffffff620|r for each Winter\'s Embrace ability slotted.\\n\\nCurrent Bonus: |cffffff0|r."',
+    "Increases your Physical and Spell Resistance by |cffffff620|r for each Winter's Embrace ability slotted.\n\nCurrent Bonus: |cffffff0|r.",
   icon: "/esoui/art/icons/passive_warden_001.dds",
   esoSkillId: 86189,
   isMorph: false,

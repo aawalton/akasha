@@ -8,7 +8,7 @@ export const aSoulAblaze = {
   key: "a-soul-ablaze",
   baseName: "A Soul Ablaze",
   description:
-    '"The will to survive burns bright in your chest.\\n\\nIncreases your Healing Taken by |cffffff4|r%."',
+    "The will to survive burns bright in your chest.\n\nIncreases your Healing Taken by |cffffff4|r%.",
   icon: "/esoui/art/icons/ability_weapon_001.dds",
   esoSkillId: 29451,
   isMorph: false,

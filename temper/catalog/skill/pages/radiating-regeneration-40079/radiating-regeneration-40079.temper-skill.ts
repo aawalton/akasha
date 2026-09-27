@@ -8,7 +8,7 @@ export const radiatingRegeneration40079 = {
   key: "radiating-regeneration-40079",
   baseName: "Regeneration",
   description:
-    '"Share your staff\'s life-giving energy, healing you or up to |cffffff3|r nearby allies for |cffffff11316|r over |cffffff10|r seconds."',
+    "Share your staff's life-giving energy, healing you or up to |cffffff3|r nearby allies for |cffffff11316|r over |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_002a.dds",
   esoSkillId: 40079,
   isMorph: true,

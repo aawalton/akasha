@@ -8,7 +8,7 @@ export const vengeanceTrapBeast = {
   key: "vengeance-trap-beast",
   baseName: "Vengeance Trap Beast",
   description:
-    '"Set a sharpened blade trap under your target that deals |cffffff10500|r Bleed Damage over |cffffff5|r seconds, and immobilizes them for |cffffff2|r seconds.\\n\\nThe trap cannot be blocked."',
+    "Set a sharpened blade trap under your target that deals |cffffff10500|r Bleed Damage over |cffffff5|r seconds, and immobilizes them for |cffffff2|r seconds.\n\nThe trap cannot be blocked.",
   icon: "/esoui/art/icons/ability_fightersguild_004.dds",
   esoSkillId: 246275,
   isMorph: false,

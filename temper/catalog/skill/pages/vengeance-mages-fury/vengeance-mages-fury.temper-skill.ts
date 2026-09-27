@@ -8,7 +8,7 @@ export const vengeanceMagesFury = {
   key: "vengeance-mages-fury",
   baseName: "Vengeance Mages' Fury",
   description:
-    '"Call down lightning to strike an enemy, dealing |cffffff5565|r Shock Damage.\\n\\nIf the enemy was below |cffffff20|r% Health, an explosion deals an additional |cffffff15288|r Shock Damage to them and up to 2 nearby enemies."',
+    "Call down lightning to strike an enemy, dealing |cffffff5565|r Shock Damage.\n\nIf the enemy was below |cffffff20|r% Health, an explosion deals an additional |cffffff15288|r Shock Damage to them and up to 2 nearby enemies.",
   icon: "/esoui/art/icons/ability_sorcerer_mage_fury.dds",
   esoSkillId: 237948,
   isMorph: false,

@@ -8,7 +8,7 @@ export const timelyEscape = {
   key: "timely-escape",
   baseName: "Timely Escape",
   description:
-    '"When you have Bounty and are in combat, you have a chance to spot a \\"Footpad\\" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge."',
+    'When you have Bounty and are in combat, you have a chance to spot a "Footpad" in a town with a Refuge. Interacting with the Footpad will transport the player safely into the nearest Refuge.',
   icon: "/esoui/art/icons/ability_thievesguild_passive_004.dds",
   esoSkillId: 76452,
   isMorph: false,

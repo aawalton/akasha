@@ -8,7 +8,7 @@ export const vengeanceLightningSplash = {
   key: "vengeance-lightning-splash",
   baseName: "Vengeance Lightning Splash",
   description:
-    '"Create a nexus of storm energy at the target location, dealing |cffffff9701|r Shock Damage to up to 3 enemies in the area."',
+    "Create a nexus of storm energy at the target location, dealing |cffffff9701|r Shock Damage to up to 3 enemies in the area.",
   icon: "/esoui/art/icons/ability_sorcerer_lightning_splash.dds",
   esoSkillId: 237959,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceRapidManeuver = {
   key: "vengeance-rapid-maneuver",
   baseName: "Vengeance Rapid Maneuver",
   description:
-    '"Mobilize your forces, granting Major Expedition to up to 3 of you and your group, increasing your Movement Speed by |cffffff30|r% for |cffffff8|r seconds."',
+    "Mobilize your forces, granting Major Expedition to up to 3 of you and your group, increasing your Movement Speed by |cffffff30|r% for |cffffff8|r seconds.",
   icon: "/esoui/art/icons/ability_ava_002.dds",
   esoSkillId: 244498,
   isMorph: false,

@@ -8,7 +8,7 @@ export const darkStalker = {
   key: "dark-stalker",
   baseName: "Dark Stalker",
   description:
-    '"Ignore the Movement Speed penalty of Sneak.\\n\\nDecreases the time it takes to enter Sneak by 50%."',
+    "Ignore the Movement Speed penalty of Sneak.\n\nDecreases the time it takes to enter Sneak by 50%.",
   icon: "/esoui/art/icons/passive_u26_vampire_01.dds",
   esoSkillId: 46041,
   isMorph: false,

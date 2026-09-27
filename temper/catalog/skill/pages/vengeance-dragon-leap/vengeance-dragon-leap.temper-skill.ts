@@ -8,7 +8,7 @@ export const vengeanceDragonLeap = {
   key: "vengeance-dragon-leap",
   baseName: "Vengeance Dragon Leap",
   description:
-    '"Launch yourself at an enemy, dealing |cffffff20285|r Physical Damage to up to 3 enemies in the area."',
+    "Launch yourself at an enemy, dealing |cffffff20285|r Physical Damage to up to 3 enemies in the area.",
   icon: "/esoui/art/icons/ability_dragonknight_009.dds",
   esoSkillId: 237648,
   isMorph: false,

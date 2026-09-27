@@ -8,7 +8,7 @@ export const recuperativeTreatise183047 = {
   key: "recuperative-treatise-183047",
   baseName: "Tome-Bearer's Inspiration",
   description:
-    '"Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your class abilities, and striking an enemy with one deals an additional |cffffff4039|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\\n\\nWhile slotted on either ability bar, gain Major Brutality and Major Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%."',
+    "Etch a series of runes onto your weapon that pulse with power once every |cffffff5|r seconds. Each pulse enhances your class abilities, and striking an enemy with one deals an additional |cffffff4039|r Magic Damage, restores |cffffff600|r Magicka and Stamina, and generates Crux if you have none.\n\nWhile slotted on either ability bar, gain Major Brutality and Major Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%.",
   icon: "/esoui/art/icons/ability_arcanist_005_b.dds",
   esoSkillId: 183047,
   isMorph: true,

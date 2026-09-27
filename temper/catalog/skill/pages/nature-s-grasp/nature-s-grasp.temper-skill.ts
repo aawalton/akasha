@@ -8,7 +8,7 @@ export const natureSGrasp = {
   key: "nature-s-grasp",
   baseName: "Nature's Grasp",
   description:
-    '"Launch a vine to swing yourself to an ally, healing them for |cffffff10950|r Health over |cffffff10|r seconds. You gain |cffffff3|r Ultimate when this effect completes if you are in combat."',
+    "Launch a vine to swing yourself to an ally, healing them for |cffffff10950|r Health over |cffffff10|r seconds. You gain |cffffff3|r Ultimate when this effect completes if you are in combat.",
   icon: "/esoui/art/icons/ability_warden_011.dds",
   esoSkillId: 85564,
   isMorph: false,

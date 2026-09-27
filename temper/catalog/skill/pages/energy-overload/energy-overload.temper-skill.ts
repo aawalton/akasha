@@ -8,7 +8,7 @@ export const energyOverload = {
   key: "energy-overload",
   baseName: "Overload",
   description:
-    '"Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\\n\\nLight Attacks become lightning bolts, dealing 2399 Shock Damage to an enemy up to 28 meters away.\\n\\nHeavy Attacks blast enemies in a 4 x 6 area for 2160 Shock Damage.\\n\\nThe attacks restore 1200 Magicka and Stamina, and deplete Ultimate until you run out, or the ability is toggled off."',
+    "Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\n\nLight Attacks become lightning bolts, dealing 2399 Shock Damage to an enemy up to 28 meters away.\n\nHeavy Attacks blast enemies in a 4 x 6 area for 2160 Shock Damage.\n\nThe attacks restore 1200 Magicka and Stamina, and deplete Ultimate until you run out, or the ability is toggled off.",
   icon: "/esoui/art/icons/ability_sorcerer_energy_overload.dds",
   esoSkillId: 30381,
   isMorph: true,

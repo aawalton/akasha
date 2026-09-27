@@ -8,7 +8,7 @@ export const soothingSpores85863 = {
   key: "soothing-spores-85863",
   baseName: "Fungal Growth",
   description:
-    '"Seed a large area of mushrooms in front of you, healing you and your allies for |cffffff8489|r Health.\\n\\nHeals for |cffffff15|r% more on allies that are within |cffffff8|r meters of you."',
+    "Seed a large area of mushrooms in front of you, healing you and your allies for |cffffff8489|r Health.\n\nHeals for |cffffff15|r% more on allies that are within |cffffff8|r meters of you.",
   icon: "/esoui/art/icons/ability_warden_008_a.dds",
   esoSkillId: 85863,
   isMorph: true,

@@ -8,7 +8,7 @@ export const penetratingMagic30957 = {
   key: "penetrating-magic-30957",
   baseName: "Penetrating Magic",
   description:
-    '"Your Destruction Staff abilities ignore |cffffff1487|r of the enemy\'s Spell Resistance."',
+    "Your Destruction Staff abilities ignore |cffffff1487|r of the enemy's Spell Resistance.",
   icon: "/esoui/art/icons/ability_weapon_008.dds",
   esoSkillId: 30957,
   isMorph: false,

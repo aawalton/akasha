@@ -8,7 +8,7 @@ export const propellingShield = {
   key: "propelling-shield",
   baseName: "Siege Shield",
   description:
-    '"Create a protective sphere over your location that reduces damage taken from siege weapons by 50% for you and nearby allies.\\n\\nAlso increases the range of abilities with a range greater than 28 meters by 7 meters. Does not affect Leap, Move Position, and Pull abilities."',
+    "Create a protective sphere over your location that reduces damage taken from siege weapons by 50% for you and nearby allies.\n\nAlso increases the range of abilities with a range greater than 28 meters by 7 meters. Does not affect Leap, Move Position, and Pull abilities.",
   icon: "/esoui/art/icons/ability_ava_004_a.dds",
   esoSkillId: 46670,
   isMorph: true,

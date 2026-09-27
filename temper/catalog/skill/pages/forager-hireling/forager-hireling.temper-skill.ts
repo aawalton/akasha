@@ -8,7 +8,7 @@ export const foragerHireling = {
   key: "forager-hireling",
   baseName: "Forager Hireling",
   description:
-    '"A hireling will send you even more provisioning ingredients every day. You have a greater chance at better quality ingredients."',
+    "A hireling will send you even more provisioning ingredients every day. You have a greater chance at better quality ingredients.",
   icon: "/esoui/art/icons/ability_provisioner_007.dds",
   esoSkillId: 44641,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceFrozenGate = {
   key: "vengeance-frozen-gate",
   baseName: "Vengeance Frozen Gate",
   description:
-    '"Summon an ancient portal, that after |cffffff2|r seconds teleports an enemy in the area to you and immobilizes them for |cffffff3|r seconds."',
+    "Summon an ancient portal, that after |cffffff2|r seconds teleports an enemy in the area to you and immobilizes them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_warden_005.dds",
   esoSkillId: 238091,
   isMorph: false,

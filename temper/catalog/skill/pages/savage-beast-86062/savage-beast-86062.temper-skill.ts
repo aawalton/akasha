@@ -8,7 +8,7 @@ export const savageBeast86062 = {
   key: "savage-beast-86062",
   baseName: "Savage Beast",
   description:
-    '"Casting an Animal Companions ability while are in combat generates |cffffff2|r Ultimate. This effect can occur once every |cffffff8|r seconds."',
+    "Casting an Animal Companions ability while are in combat generates |cffffff2|r Ultimate. This effect can occur once every |cffffff8|r seconds.",
   icon: "/esoui/art/icons/passive_warden_009.dds",
   esoSkillId: 86062,
   isMorph: false,

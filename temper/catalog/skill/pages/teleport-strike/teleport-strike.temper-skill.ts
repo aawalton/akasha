@@ -8,7 +8,7 @@ export const teleportStrike = {
   key: "teleport-strike",
   baseName: "Teleport Strike",
   description:
-    '"Flash through the shadows and ambush an enemy, dealing |cffffff5571|r Magic Damage and afflicting them with Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%."',
+    "Flash through the shadows and ambush an enemy, dealing |cffffff5571|r Magic Damage and afflicting them with Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_nightblade_008.dds",
   esoSkillId: 18342,
   isMorph: false,

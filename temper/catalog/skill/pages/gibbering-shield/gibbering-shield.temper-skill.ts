@@ -8,7 +8,7 @@ export const gibberingShield = {
   key: "gibbering-shield",
   baseName: "Gibbering Shield",
   description:
-    '"Gather the true strength of Apocrypha around you, forming protective tentacles and a damage shield that absorbs |cffffff60|r% of all damage for |cffffff10|r seconds, up to a max of |cffffff44973|r damage, scaling off your Max Health.\\n\\nWhen the shield collapses you lash out, dealing all of the damage absorbed as Magic Damage to enemies within 5 meters over |cffffff10|r seconds."',
+    "Gather the true strength of Apocrypha around you, forming protective tentacles and a damage shield that absorbs |cffffff60|r% of all damage for |cffffff10|r seconds, up to a max of |cffffff44973|r damage, scaling off your Max Health.\n\nWhen the shield collapses you lash out, dealing all of the damage absorbed as Magic Damage to enemies within 5 meters over |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_012.dds",
   esoSkillId: 183676,
   isMorph: false,

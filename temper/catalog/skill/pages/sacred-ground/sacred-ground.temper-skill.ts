@@ -8,7 +8,7 @@ export const sacredGround = {
   key: "sacred-ground",
   baseName: "Sacred Ground",
   description:
-    '"While standing in your own Cleansing Ritual, Rune Focus, or Rite of Passage area effects and for up to 4 seconds after leaving them you gain Minor Mending, increasing your healing done by 8%.\\n\\nAlso increases the amount of damage you can block by 10% for the duration."',
+    "While standing in your own Cleansing Ritual, Rune Focus, or Rite of Passage area effects and for up to 4 seconds after leaving them you gain Minor Mending, increasing your healing done by 8%.\n\nAlso increases the amount of damage you can block by 10% for the duration.",
   icon: "/esoui/art/icons/ability_templar_014.dds",
   esoSkillId: 45207,
   isMorph: false,

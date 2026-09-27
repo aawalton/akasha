@@ -8,7 +8,7 @@ export const earthshieldMantle = {
   key: "earthshield-mantle",
   baseName: "Earthspike Mantle",
   description:
-    '"Envelop your body in molten spikes to increase your damage done by 100 and gain Major Resolve, increasing Physical and Spell Resistance by 5948 for 20 seconds.\\n\\nPower drawn from the heart of a volcano forms a damage shield around you that absorbs up to 6611 damage for 6 seconds, scaling off your Max Health."',
+    "Envelop your body in molten spikes to increase your damage done by 100 and gain Major Resolve, increasing Physical and Spell Resistance by 5948 for 20 seconds.\n\nPower drawn from the heart of a volcano forms a damage shield around you that absorbs up to 6611 damage for 6 seconds, scaling off your Max Health.",
   icon: "/esoui/art/icons/ability_dragonknight_007_b.dds",
   esoSkillId: 20328,
   isMorph: true,

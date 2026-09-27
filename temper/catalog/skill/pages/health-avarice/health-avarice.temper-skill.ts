@@ -8,7 +8,7 @@ export const healthAvarice = {
   key: "health-avarice",
   baseName: "Health Avarice",
   description:
-    '"Increase your Healing Received by 3% for each Bone Tyrant ability slotted.\\n\\nCurrent bonus: 0%."',
+    "Increase your Healing Received by 3% for each Bone Tyrant ability slotted.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/passive_necromancer_007.dds",
   esoSkillId: 116270,
   isMorph: false,

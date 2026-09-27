@@ -8,7 +8,7 @@ export const replenishingBarrier40239 = {
   key: "replenishing-barrier-40239",
   baseName: "Barrier",
   description:
-    '"Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff41192|r damage. \\n\\nEach time a ward dissolves, you restore |cffffff1500|r Magicka."',
+    "Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff41192|r damage. \n\nEach time a ward dissolves, you restore |cffffff1500|r Magicka.",
   icon: "/esoui/art/icons/ability_ava_006_a.dds",
   esoSkillId: 40239,
   isMorph: true,

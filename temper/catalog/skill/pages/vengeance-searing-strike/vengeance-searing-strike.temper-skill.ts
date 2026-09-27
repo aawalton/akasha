@@ -8,7 +8,7 @@ export const vengeanceSearingStrike = {
   key: "vengeance-searing-strike",
   baseName: "Vengeance Searing Strike",
   description:
-    '"Slash an enemy with flame, dealing |cffffff5565|r Flame Damage and an additional |cffffff10500|r Flame Damage over |cffffff5|r seconds."',
+    "Slash an enemy with flame, dealing |cffffff5565|r Flame Damage and an additional |cffffff10500|r Flame Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_003.dds",
   esoSkillId: 237607,
   isMorph: false,

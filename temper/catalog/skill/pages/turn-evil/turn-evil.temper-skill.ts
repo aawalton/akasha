@@ -8,7 +8,7 @@ export const turnEvil = {
   key: "turn-evil",
   baseName: "Circle of Protection",
   description:
-    '"Brand the earth at your location with a rune of protection for 20 seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing your damage taken by 5% and increasing your Stamina Recovery by 15%.\\n\\nUpon activation, enemies in the area are feared for 4 seconds."',
+    "Brand the earth at your location with a rune of protection for 20 seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing your damage taken by 5% and increasing your Stamina Recovery by 15%.\n\nUpon activation, enemies in the area are feared for 4 seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_001_a.dds",
   esoSkillId: 42529,
   isMorph: true,

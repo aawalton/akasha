@@ -8,7 +8,7 @@ export const vengeanceObsidianShield = {
   key: "vengeance-obsidian-shield",
   baseName: "Vengeance Obsidian Shield",
   description:
-    '"Call the earth to your defense, granting a damage shield to up to 3 of you and your allies that absorbs |cffffff13584|r damage."',
+    "Call the earth to your defense, granting a damage shield to up to 3 of you and your allies that absorbs |cffffff13584|r damage.",
   icon: "/esoui/art/icons/ability_dragonknight_017.dds",
   esoSkillId: 237785,
   isMorph: false,

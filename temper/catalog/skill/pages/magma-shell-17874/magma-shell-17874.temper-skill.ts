@@ -8,7 +8,7 @@ export const magmaShell17874 = {
   key: "magma-shell-17874",
   baseName: "Magma Armor",
   description:
-    '"Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\\n\\nWhen activated, nearby allies gain a damage shield for |cffffff153|r% of their Max Health for |cffffff10|r seconds.\\n\\nWhile active, you cannot generate Ultimate."',
+    "Ignite the molten lava in your veins, limiting incoming damage to |cffffff3|r% of your Max Health for |cffffff15|r seconds.\n\nWhen activated, nearby allies gain a damage shield for |cffffff153|r% of their Max Health for |cffffff10|r seconds.\n\nWhile active, you cannot generate Ultimate.",
   icon: "/esoui/art/icons/ability_dragonknight_018_a.dds",
   esoSkillId: 17874,
   isMorph: true,

@@ -8,7 +8,7 @@ export const caltrops = {
   key: "caltrops",
   baseName: "Caltrops",
   description:
-    '"Hurl a ball of caltrops that scatter over the target area, dealing |cffffff977|r Physical Damage every |cffffff1|r second to enemies inside, and reducing their Movement Speed by |cffffff50|r%."',
+    "Hurl a ball of caltrops that scatter over the target area, dealing |cffffff977|r Physical Damage every |cffffff1|r second to enemies inside, and reducing their Movement Speed by |cffffff50|r%.",
   icon: "/esoui/art/icons/ability_ava_001.dds",
   esoSkillId: 33376,
   isMorph: false,

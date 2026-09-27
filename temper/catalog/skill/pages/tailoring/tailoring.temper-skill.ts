@@ -7,7 +7,7 @@ export const tailoring = {
   title: "Tailoring",
   key: "tailoring",
   baseName: "Tailoring",
-  description: '"Allows the use of Ancestor Silk and Rubedo Leather."',
+  description: "Allows the use of Ancestor Silk and Rubedo Leather.",
   icon: "/esoui/art/icons/ability_tradecraft_002.dds",
   esoSkillId: 70044,
   isMorph: false,

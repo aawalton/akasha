@@ -7,8 +7,7 @@ export const keenEyeJewelry = {
   title: "Keen Eye: Jewelry",
   key: "keen-eye-jewelry",
   baseName: "Keen Eye: Jewelry",
-  description:
-    '"Jewelry Seams in the world will be easier to see when you are 40 meters or closer."',
+  description: "Jewelry Seams in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
   esoSkillId: 103639,
   isMorph: false,

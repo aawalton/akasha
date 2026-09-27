@@ -8,7 +8,7 @@ export const protectTheBrood = {
   key: "protect-the-brood",
   baseName: "Wing Buffet",
   description:
-    '"Unfurl draconic wings to safeguard you and nearby group members for 6 seconds, reducing damage taken from projectiles by 50% for you and 25% for group members.\\n\\nYou and your brood gain Minor Protection for 20 seconds, reducing damage taken by 5%. You gain Major Expedition for 4 seconds, increasing Movement Speed by 30%."',
+    "Unfurl draconic wings to safeguard you and nearby group members for 6 seconds, reducing damage taken from projectiles by 50% for you and 25% for group members.\n\nYou and your brood gain Minor Protection for 20 seconds, reducing damage taken by 5%. You gain Major Expedition for 4 seconds, increasing Movement Speed by 30%.",
   icon: "/esoui/art/icons/ability_dragonknight_008_a.dds",
   esoSkillId: 21017,
   isMorph: true,

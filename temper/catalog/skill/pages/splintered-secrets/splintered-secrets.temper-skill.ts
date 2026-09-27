@@ -8,7 +8,7 @@ export const splinteredSecrets = {
   key: "splintered-secrets",
   baseName: "Splintered Secrets",
   description:
-    '"What they don\'t know can kill them. Increase your Physical and Spell Penetration by 1240 per Herald of the Tome ability slotted.\\n\\nCurrent bonus: 0."',
+    "What they don't know can kill them. Increase your Physical and Spell Penetration by 1240 per Herald of the Tome ability slotted.\n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/passive_arcanist_01.dds",
   esoSkillId: 184887,
   isMorph: false,

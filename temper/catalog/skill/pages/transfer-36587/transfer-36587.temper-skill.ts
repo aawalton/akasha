@@ -8,7 +8,7 @@ export const transfer36587 = {
   key: "transfer-36587",
   baseName: "Transfer",
   description:
-    '"Casting a Siphoning ability while in combat generates |cffffff1|r Ultimate. This effect can occur once every |cffffff4|r seconds."',
+    "Casting a Siphoning ability while in combat generates |cffffff1|r Ultimate. This effect can occur once every |cffffff4|r seconds.",
   icon: "/esoui/art/icons/passive_sorcerer_002.dds",
   esoSkillId: 36587,
   isMorph: false,

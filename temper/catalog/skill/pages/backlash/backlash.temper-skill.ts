@@ -8,7 +8,7 @@ export const backlash = {
   key: "backlash",
   baseName: "Backlash",
   description:
-    '"Summon an expanding beam of pure sunlight to doom an enemy, dealing |cffffff4036|r Magic Damage immediately and marking them for |cffffff6|r seconds.\\n\\nAfter the duration ends, the sunlight bursts, dealing |cffffff4468|r Magic Damage to the enemy, which increases based on the amount of damage you dealt to them over the duration, up to |cffffff200|r%.\\n\\nYou can have only one Backlash active at a time."',
+    "Summon an expanding beam of pure sunlight to doom an enemy, dealing |cffffff4036|r Magic Damage immediately and marking them for |cffffff6|r seconds.\n\nAfter the duration ends, the sunlight bursts, dealing |cffffff4468|r Magic Damage to the enemy, which increases based on the amount of damage you dealt to them over the duration, up to |cffffff200|r%.\n\nYou can have only one Backlash active at a time.",
   icon: "/esoui/art/icons/ability_templar_backlash.dds",
   esoSkillId: 21761,
   isMorph: false,

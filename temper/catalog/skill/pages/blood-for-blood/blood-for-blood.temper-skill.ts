@@ -8,7 +8,7 @@ export const bloodForBlood = {
   key: "blood-for-blood",
   baseName: "Eviscerate",
   description:
-    '"Rend an enemy, dealing 2323 Magic Damage and applying the Hemorrhaging status effect.\\n\\nDeals up to 75% more damage based on your missing Health.\\n\\nAfter you cast this ability, you cannot be healed by allies for 3 seconds."',
+    "Rend an enemy, dealing 2323 Magic Damage and applying the Hemorrhaging status effect.\n\nDeals up to 75% more damage based on your missing Health.\n\nAfter you cast this ability, you cannot be healed by allies for 3 seconds.",
   icon: "/esoui/art/icons/ability_u26_vampire_01_a.dds",
   esoSkillId: 41902,
   isMorph: true,

@@ -8,7 +8,7 @@ export const bloodMist = {
   key: "blood-mist",
   baseName: "Mist Form",
   description:
-    '"Dissolve into a bloody mist, causing the next 3 projectiles to deal no damage to you for 1 second while you dash forward and reappear at your target location after a short duration.\\n\\nUpon activation you drain the blood of those around you for 20 seconds, dealing 435 Magic Damage every 2 seconds to enemies and healing you for 45% of the damage caused.\\n\\nCasting again within 4 seconds costs 33% more Magicka."',
+    "Dissolve into a bloody mist, causing the next 3 projectiles to deal no damage to you for 1 second while you dash forward and reappear at your target location after a short duration.\n\nUpon activation you drain the blood of those around you for 20 seconds, dealing 435 Magic Damage every 2 seconds to enemies and healing you for 45% of the damage caused.\n\nCasting again within 4 seconds costs 33% more Magicka.",
   icon: "/esoui/art/icons/ability_u26_vampire_05_b.dds",
   esoSkillId: 41824,
   isMorph: true,

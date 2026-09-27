@@ -7,7 +7,7 @@ export const lifeMender = {
   title: "Life Mender",
   key: "life-mender",
   baseName: "Life Mender",
-  description: '"Increases your healing done by 6%."',
+  description: "Increases your healing done by 6%.",
   icon: "/esoui/art/icons/ability_templar_014.dds",
   esoSkillId: 45258,
   isMorph: false,

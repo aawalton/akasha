@@ -8,7 +8,7 @@ export const writhingRuneblades = {
   key: "writhing-runeblades",
   baseName: "Runeblades",
   description:
-    '"Craft a series of Apocryphal runes before launching them at a foe, dealing 718 Magic Damage three times and generating Crux. \\n\\nThis ability gains between 1095 and 2191 Weapon and Spell Critical rating and deals 3% increased damage for each active Crux when cast."',
+    "Craft a series of Apocryphal runes before launching them at a foe, dealing 718 Magic Damage three times and generating Crux. \n\nThis ability gains between 1095 and 2191 Weapon and Spell Critical rating and deals 3% increased damage for each active Crux when cast.",
   icon: "/esoui/art/icons/ability_arcanist_001_a.dds",
   esoSkillId: 40185803,
   isMorph: true,

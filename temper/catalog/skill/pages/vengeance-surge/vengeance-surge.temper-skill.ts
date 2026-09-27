@@ -8,7 +8,7 @@ export const vengeanceSurge = {
   key: "vengeance-surge",
   baseName: "Vengeance Surge",
   description:
-    '"Invoke Meridia\'s name to heal yourself for |cffffff16065|r Health.\\n\\nWhile slotted you gain Minor Berserk, increasing your damage done by |cffffff5|r%."',
+    "Invoke Meridia's name to heal yourself for |cffffff16065|r Health.\n\nWhile slotted you gain Minor Berserk, increasing your damage done by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_surge.dds",
   esoSkillId: 237971,
   isMorph: false,

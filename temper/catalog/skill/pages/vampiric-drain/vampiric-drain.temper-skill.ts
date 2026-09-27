@@ -8,7 +8,7 @@ export const vampiricDrain = {
   key: "vampiric-drain",
   baseName: "Vampiric Drain",
   description:
-    '"Siphon away your enemies\' vitality, dealing |cffffff3028|r Magic Damage and healing you for |cffffff26|r% of your missing Health every |cffffff1|r second for |cffffff3|r seconds.\\n\\nThis ability is considered direct damage."',
+    "Siphon away your enemies' vitality, dealing |cffffff3028|r Magic Damage and healing you for |cffffff26|r% of your missing Health every |cffffff1|r second for |cffffff3|r seconds.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_u26_vampire_03.dds",
   esoSkillId: 134583,
   isMorph: false,

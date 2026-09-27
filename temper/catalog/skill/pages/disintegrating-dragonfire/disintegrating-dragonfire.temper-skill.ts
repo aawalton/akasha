@@ -8,7 +8,7 @@ export const disintegratingDragonfire = {
   key: "disintegrating-dragonfire",
   baseName: "Dragonfire Breath",
   description:
-    '"Exhale a blast of draconic fire in front of you, dealing 7148 Flame Damage, applying the Burning status effect, and an additional 10630 Flame Damage over 10 seconds to enemies in your path.\\n\\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by 5948."',
+    "Exhale a blast of draconic fire in front of you, dealing 7148 Flame Damage, applying the Burning status effect, and an additional 10630 Flame Damage over 10 seconds to enemies in your path.\n\nThe initial hit liquifies the armor of your enemies, applying Major Breach to enemies for the duration, reducing Physical and Spell Resistance by 5948.",
   icon: "/esoui/art/icons/ability_dragonknight_004_a.dds",
   esoSkillId: 20944,
   isMorph: true,

@@ -8,7 +8,7 @@ export const amplitude31422 = {
   key: "amplitude-31422",
   baseName: "Amplitude",
   description:
-    '"Increases your damage done against enemies by |cffffff1|r% for every |cffffff20|r% current Health they have."',
+    "Increases your damage done against enemies by |cffffff1|r% for every |cffffff20|r% current Health they have.",
   icon: "/esoui/art/icons/ability_sorcerer_049.dds",
   esoSkillId: 31422,
   isMorph: false,

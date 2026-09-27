@@ -8,7 +8,7 @@ export const trowel = {
   key: "trowel",
   baseName: "Trowel",
   description:
-    '"Removes 3 layers of dirt or rock from a 1x1 area.\\n\\nCosts 2 Intuition to use.\\nCan safely trigger Fissures to create explosive chain reactions."',
+    "Removes 3 layers of dirt or rock from a 1x1 area.\n\nCosts 2 Intuition to use.\nCan safely trigger Fissures to create explosive chain reactions.",
   icon: "/esoui/art/icons/u26_ability_digging_01.dds",
   esoSkillId: 140093,
   isMorph: false,

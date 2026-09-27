@@ -8,7 +8,7 @@ export const slayer = {
   key: "slayer",
   baseName: "Slayer",
   description:
-    '"Increases your Weapon and Spell Damage by 3% for each Fighters Guild ability slotted.\\n\\nCurrent bonus: 0%."',
+    "Increases your Weapon and Spell Damage by 3% for each Fighters Guild ability slotted.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_dragonknight_025.dds",
   esoSkillId: 45596,
   isMorph: false,

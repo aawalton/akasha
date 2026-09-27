@@ -8,7 +8,7 @@ export const vengeanceCleansingRitual = {
   key: "vengeance-cleansing-ritual",
   baseName: "Vengeance Cleansing Ritual",
   description:
-    '"Exalt in the sacred light of the Aedra, cleansing up to |cffffff3|r negative effects from yourself."',
+    "Exalt in the sacred light of the Aedra, cleansing up to |cffffff3|r negative effects from yourself.",
   icon: "/esoui/art/icons/ability_templar_cleansing_ritual.dds",
   esoSkillId: 238026,
   isMorph: false,

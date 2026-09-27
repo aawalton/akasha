@@ -8,7 +8,7 @@ export const ancientKnowledge = {
   key: "ancient-knowledge",
   baseName: "Ancient Knowledge",
   description:
-    '"Inferno Staves increases your damage done with damage over time and Status Effects by 12%.\\n\\nLightning Staves increases your damage done with direct damage and channeled effects by 12%.\\n\\nEquipping an Ice Staff reduces the cost of blocking by 36% and increases the amount of damage you block by 20%."',
+    "Inferno Staves increases your damage done with damage over time and Status Effects by 12%.\n\nLightning Staves increases your damage done with direct damage and channeled effects by 12%.\n\nEquipping an Ice Staff reduces the cost of blocking by 36% and increases the amount of damage you block by 20%.",
   icon: "/esoui/art/icons/ability_weapon_003.dds",
   esoSkillId: 45513,
   isMorph: false,

@@ -8,7 +8,7 @@ export const swarm = {
   key: "swarm",
   baseName: "Swarm",
   description:
-    '"Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.  \\n\\nThe fetcherflies rip through the enemy\'s flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by |cffffff5|r%."',
+    "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.  \n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_warden_014.dds",
   esoSkillId: 86023,
   isMorph: false,

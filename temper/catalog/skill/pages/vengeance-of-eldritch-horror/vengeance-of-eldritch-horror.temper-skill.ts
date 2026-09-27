@@ -8,7 +8,7 @@ export const vengeanceOfEldritchHorror = {
   key: "vengeance-of-eldritch-horror",
   baseName: "Vengeance of Eldritch Horror",
   description:
-    '"Etch an incomprehensible rune on your enemy\'s mind, paralyzing them in fear after a |cffffff1|r second delay, stunning them for |cffffff4|r seconds. This terror applies Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%.\\n\\nThis ability cannot be dodged."',
+    "Etch an incomprehensible rune on your enemy's mind, paralyzing them in fear after a |cffffff1|r second delay, stunning them for |cffffff4|r seconds. This terror applies Minor Vulnerability for |cffffff10|r seconds, increasing their damage taken by |cffffff5|r%.\n\nThis ability cannot be dodged.",
   icon: "/esoui/art/icons/ability_arcanist_011.dds",
   esoSkillId: 238267,
   isMorph: false,

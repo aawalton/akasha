@@ -8,7 +8,7 @@ export const enchantedForest = {
   key: "enchanted-forest",
   baseName: "Secluded Grove",
   description:
-    '"Swell a healing forest at the target location, instantly healing the most injured friendly target for 2880 Health. The forest continues to heal you and your allies in the area for 958 Health every 1 second for 6 seconds.\\n\\nYou generate 20 Ultimate if the initial heal is used on a friendly target under 50% Health."',
+    "Swell a healing forest at the target location, instantly healing the most injured friendly target for 2880 Health. The forest continues to heal you and your allies in the area for 958 Health every 1 second for 6 seconds.\n\nYou generate 20 Ultimate if the initial heal is used on a friendly target under 50% Health.",
   icon: "/esoui/art/icons/ability_warden_012_a.dds",
   esoSkillId: 93971,
   isMorph: true,

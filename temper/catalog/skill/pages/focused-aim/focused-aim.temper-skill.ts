@@ -8,7 +8,7 @@ export const focusedAim = {
   key: "focused-aim",
   baseName: "Snipe",
   description:
-    '"Plant a masterfully aimed arrow in an enemy\'s vital spot, dealing 2404 Physical Damage and applying the Sundered status effect."',
+    "Plant a masterfully aimed arrow in an enemy's vital spot, dealing 2404 Physical Damage and applying the Sundered status effect.",
   icon: "/esoui/art/icons/ability_bow_001_b.dds",
   esoSkillId: 40907,
   isMorph: true,

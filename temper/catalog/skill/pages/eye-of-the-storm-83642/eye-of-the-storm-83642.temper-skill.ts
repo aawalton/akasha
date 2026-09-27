@@ -8,7 +8,7 @@ export const eyeOfTheStorm83642 = {
   key: "eye-of-the-storm-83642",
   baseName: "Elemental Storm",
   description:
-    '"Create a cataclysmic storm above you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing |cffffff6257|r Magic Damage every |cffffff1|r second for |cffffff7|r seconds."',
+    "Create a cataclysmic storm above you that builds for |cffffff2|r seconds then lays waste to all enemies nearby, dealing |cffffff6257|r Magic Damage every |cffffff1|r second for |cffffff7|r seconds.",
   icon: "/esoui/art/icons/ability_destructionstaff_012_a.dds",
   esoSkillId: 83642,
   isMorph: true,

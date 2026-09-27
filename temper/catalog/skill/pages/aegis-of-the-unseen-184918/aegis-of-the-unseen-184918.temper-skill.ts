@@ -8,7 +8,7 @@ export const aegisOfTheUnseen184918 = {
   key: "aegis-of-the-unseen-184918",
   baseName: "Aegis of the Unseen",
   description:
-    '"Form a secret soldier within your mind, a defense against arcane forces without. While a beneficial Soldier of Apocrypha ability is active on you, increase your Armor by |cffffff1636|r."',
+    "Form a secret soldier within your mind, a defense against arcane forces without. While a beneficial Soldier of Apocrypha ability is active on you, increase your Armor by |cffffff1636|r.",
   icon: "/esoui/art/icons/passive_arcanist_05.dds",
   esoSkillId: 184918,
   isMorph: false,

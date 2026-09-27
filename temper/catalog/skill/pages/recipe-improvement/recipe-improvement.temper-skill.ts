@@ -7,7 +7,7 @@ export const recipeImprovement = {
   title: "Recipe Improvement",
   key: "recipe-improvement",
   baseName: "Recipe Improvement",
-  description: '"Allows the making of up to Champion 150 Recipes."',
+  description: "Allows the making of up to Champion 150 Recipes.",
   icon: "/esoui/art/icons/ability_provisioner_001.dds",
   esoSkillId: 44650,
   isMorph: false,

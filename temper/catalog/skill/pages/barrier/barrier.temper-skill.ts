@@ -8,7 +8,7 @@ export const barrier = {
   key: "barrier",
   baseName: "Barrier",
   description:
-    '"Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff41192|r damage for |cffffff30|r seconds."',
+    "Invoke defensive tactics to protect yourself and nearby group members with wards that each absorb up to |cffffff41192|r damage for |cffffff30|r seconds.",
   icon: "/esoui/art/icons/ability_ava_006.dds",
   esoSkillId: 38573,
   isMorph: false,

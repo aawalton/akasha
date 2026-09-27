@@ -8,7 +8,7 @@ export const deliberation = {
   key: "deliberation",
   baseName: "Deliberation",
   description:
-    '"While you are casting or channeling a Psijic Order ability you reduce your damage taken by 30%."',
+    "While you are casting or channeling a Psijic Order ability you reduce your damage taken by 30%.",
   icon: "/esoui/art/icons/ability_psijic_011.dds",
   esoSkillId: 103972,
   isMorph: false,

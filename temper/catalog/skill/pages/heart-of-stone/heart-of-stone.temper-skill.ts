@@ -8,7 +8,7 @@ export const heartOfStone = {
   key: "heart-of-stone",
   baseName: "Heart of Stone",
   description:
-    '"Rock and stone shield your heart, turning aside sharp blades and barbed words.\\n\\nIncreases your Armor by |cffffff1487|r."',
+    "Rock and stone shield your heart, turning aside sharp blades and barbed words.\n\nIncreases your Armor by |cffffff1487|r.",
   icon: "/esoui/art/icons/ability_dragonknight_032.dds",
   esoSkillId: 29468,
   isMorph: false,

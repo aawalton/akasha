@@ -8,7 +8,7 @@ export const piercingCold = {
   key: "piercing-cold",
   baseName: "Piercing Cold",
   description:
-    '"Increases the amount of damage you block by 8% and increases your Frost Damage by 15%."',
+    "Increases the amount of damage you block by 8% and increases your Frost Damage by 15%.",
   icon: "/esoui/art/icons/passive_warden_004.dds",
   esoSkillId: 86196,
   isMorph: false,

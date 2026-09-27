@@ -8,7 +8,7 @@ export const burnishedScales = {
   key: "burnished-scales",
   baseName: "Burnished Scales",
   description:
-    '"A Dragon\'s scales will turn aside arrow, fire, and blade.\\n\\nIncreases the amount of damage you block by |cffffff4|r%."',
+    "A Dragon's scales will turn aside arrow, fire, and blade.\n\nIncreases the amount of damage you block by |cffffff4|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_020.dds",
   esoSkillId: 29455,
   isMorph: false,

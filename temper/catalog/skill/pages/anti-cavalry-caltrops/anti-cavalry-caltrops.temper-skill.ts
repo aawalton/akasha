@@ -8,7 +8,7 @@ export const antiCavalryCaltrops = {
   key: "anti-cavalry-caltrops",
   baseName: "Caltrops",
   description:
-    '"Hurl a ball of caltrops that scatter over the target area, dealing 281 Physical Damage every 1 second to enemies inside, and reducing their Movement Speed by 50%.\\n\\nThe caltrops also drain the Mount Stamina of any enemy in the area."',
+    "Hurl a ball of caltrops that scatter over the target area, dealing 281 Physical Damage every 1 second to enemies inside, and reducing their Movement Speed by 50%.\n\nThe caltrops also drain the Mount Stamina of any enemy in the area.",
   icon: "/esoui/art/icons/ability_ava_001_a.dds",
   esoSkillId: 46420,
   isMorph: true,

@@ -7,7 +7,7 @@ export const clairvoyance = {
   title: "Clairvoyance",
   key: "clairvoyance",
   baseName: "Clairvoyance",
-  description: '"Reduces the cost of your Psijic Order abilities by 15%."',
+  description: "Reduces the cost of your Psijic Order abilities by 15%.",
   icon: "/esoui/art/icons/ability_psijic_008.dds",
   esoSkillId: 103811,
   isMorph: false,

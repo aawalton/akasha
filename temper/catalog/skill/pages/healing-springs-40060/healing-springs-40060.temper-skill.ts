@@ -8,7 +8,7 @@ export const healingSprings40060 = {
   key: "healing-springs-40060",
   baseName: "Grand Healing",
   description:
-    '"Summon restoring spirits with your staff, healing you and your allies in the target area for |cffffff14608|r Health over |cffffff10|r seconds. \\n\\nIncreases your Magicka Recovery by |cffffff15|r for each target affected, stacking up to |cffffff20|r times."',
+    "Summon restoring spirits with your staff, healing you and your allies in the target area for |cffffff14608|r Health over |cffffff10|r seconds. \n\nIncreases your Magicka Recovery by |cffffff15|r for each target affected, stacking up to |cffffff20|r times.",
   icon: "/esoui/art/icons/ability_restorationstaff_004a.dds",
   esoSkillId: 40060,
   isMorph: true,

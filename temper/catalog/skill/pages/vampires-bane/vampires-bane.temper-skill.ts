@@ -8,7 +8,7 @@ export const vampiresBane = {
   key: "vampires-bane",
   baseName: "Sun Fire",
   description:
-    '"Blast an enemy with a charge of radiant heat, dealing 1161 Flame Damage, and an additional 5370 Flame Damage over 30 seconds.\\n\\nUpon activation you gain Major Savagery and Major Prophecy for 30 seconds, increasing your Weapon and Spell Critical rating by 2629."',
+    "Blast an enemy with a charge of radiant heat, dealing 1161 Flame Damage, and an additional 5370 Flame Damage over 30 seconds.\n\nUpon activation you gain Major Savagery and Major Prophecy for 30 seconds, increasing your Weapon and Spell Critical rating by 2629.",
   icon: "/esoui/art/icons/ability_templar_vampire_bane.dds",
   esoSkillId: 24180,
   isMorph: true,

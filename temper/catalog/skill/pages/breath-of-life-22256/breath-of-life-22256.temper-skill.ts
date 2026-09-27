@@ -8,7 +8,7 @@ export const breathOfLife22256 = {
   key: "breath-of-life-22256",
   baseName: "Rushed Ceremony",
   description:
-    '"Beacon your inner light, healing yourself or a wounded ally in front of you for |cffffff10960|r Health.\\n\\nAlso heals one other injured target for |cffffff3773|r Health."',
+    "Beacon your inner light, healing yourself or a wounded ally in front of you for |cffffff10960|r Health.\n\nAlso heals one other injured target for |cffffff3773|r Health.",
   icon: "/esoui/art/icons/ability_templar_breath_of_life.dds",
   esoSkillId: 22256,
   isMorph: true,

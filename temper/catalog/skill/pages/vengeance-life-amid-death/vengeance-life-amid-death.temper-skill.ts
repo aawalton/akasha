@@ -8,7 +8,7 @@ export const vengeanceLifeAmidDeath = {
   key: "vengeance-life-amid-death",
   baseName: "Vengeance Life amid Death",
   description:
-    '"Release residual fragments of fallen souls at the target location, healing you or up to 3 allies in the area for |cffffff10710|r Health."',
+    "Release residual fragments of fallen souls at the target location, healing you or up to 3 allies in the area for |cffffff10710|r Health.",
   icon: "/esoui/art/icons/ability_necromancer_016.dds",
   esoSkillId: 238258,
   isMorph: false,

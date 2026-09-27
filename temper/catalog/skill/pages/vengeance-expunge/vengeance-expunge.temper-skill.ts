@@ -8,7 +8,7 @@ export const vengeanceExpunge = {
   key: "vengeance-expunge",
   baseName: "Vengeance Expunge",
   description:
-    '"Embrace the power of death, removing up to |cffffff2|r negative effects from yourself.\\n\\nWhile slotted on either bar you gain |cffffff150|r Health, Magicka, and Stamina Recovery."',
+    "Embrace the power of death, removing up to |cffffff2|r negative effects from yourself.\n\nWhile slotted on either bar you gain |cffffff150|r Health, Magicka, and Stamina Recovery.",
   icon: "/esoui/art/icons/ability_necromancer_014.dds",
   esoSkillId: 238255,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceUnstoppable = {
   key: "vengeance-unstoppable",
   baseName: "Vengeance Unstoppable",
   description:
-    '"Intensify your physical presence to gain Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\\n\\nAlso grants you immunity to knockback and disabling effects for |cffffff7|r seconds, but reduces your Movement Speed by |cffffff65|r% for the duration."',
+    "Intensify your physical presence to gain Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nAlso grants you immunity to knockback and disabling effects for |cffffff7|r seconds, but reduces your Movement Speed by |cffffff65|r% for the duration.",
   icon: "/esoui/art/icons/ability_armor_001.dds",
   esoSkillId: 247596,
   isMorph: false,

@@ -8,7 +8,7 @@ export const unraveling = {
   key: "unraveling",
   baseName: "Unraveling",
   description:
-    '"Maximizes the chances of extracting Clothing ingredients and allows the refining of the most powerful tannins from raw materials."',
+    "Maximizes the chances of extracting Clothing ingredients and allows the refining of the most powerful tannins from raw materials.",
   icon: "/esoui/art/icons/ability_tradecraft_005.dds",
   esoSkillId: 48195,
   isMorph: false,

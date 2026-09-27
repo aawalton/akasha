@@ -8,7 +8,7 @@ export const vengeanceHealingRitual = {
   key: "vengeance-healing-ritual",
   baseName: "Vengeance Healing Ritual",
   description:
-    '"Focus your spiritual devotion, healing you or up to 3 nearby allies for |cffffff12049|r Health."',
+    "Focus your spiritual devotion, healing you or up to 3 nearby allies for |cffffff12049|r Health.",
   icon: "/esoui/art/icons/ability_templar_healing_ritual.dds",
   esoSkillId: 238018,
   isMorph: false,

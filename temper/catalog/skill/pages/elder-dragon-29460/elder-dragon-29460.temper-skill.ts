@@ -8,7 +8,7 @@ export const elderDragon29460 = {
   key: "elder-dragon-29460",
   baseName: "Elder Dragon",
   description:
-    '"The eldest Dragons are forces of nature. As are you.\\n\\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon Damage by |cffffff10|r%.\\n\\nIncreases your Health Recovery by up to |cffffff350|r, based on your missing Health.\\nCurrent amount: |cffffff0|r"',
+    "The eldest Dragons are forces of nature. As are you.\n\nActivating a Draconic Power ability grants you and group members Minor Brutality for |cffffff20|r seconds, increasing Weapon Damage by |cffffff10|r%.\n\nIncreases your Health Recovery by up to |cffffff350|r, based on your missing Health.\nCurrent amount: |cffffff0|r",
   icon: "/esoui/art/icons/ability_dragonknight_025.dds",
   esoSkillId: 29460,
   isMorph: false,

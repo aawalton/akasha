@@ -8,7 +8,7 @@ export const intricateRuneforms185187 = {
   key: "intricate-runeforms-185187",
   baseName: "Intricate Runeforms",
   description:
-    '"Your status as illuminatus reduces the cost and increases the strength of your damage shields by |cffffff5|r%."',
+    "Your status as illuminatus reduces the cost and increases the strength of your damage shields by |cffffff5|r%.",
   icon: "/esoui/art/icons/passive_arcanist_12.dds",
   esoSkillId: 185187,
   isMorph: false,

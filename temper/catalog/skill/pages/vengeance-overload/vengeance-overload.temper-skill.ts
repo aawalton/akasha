@@ -8,7 +8,7 @@ export const vengeanceOverload = {
   key: "vengeance-overload",
   baseName: "Vengeance Overload",
   description:
-    '"Charge your fists with the power of the storm and deal |cffffff12521|r Shock Damage to your enemy.\\n\\nThis ability does not drain all available Ultimate."',
+    "Charge your fists with the power of the storm and deal |cffffff12521|r Shock Damage to your enemy.\n\nThis ability does not drain all available Ultimate.",
   icon: "/esoui/art/icons/ability_sorcerer_overload.dds",
   esoSkillId: 237998,
   isMorph: false,

@@ -7,7 +7,7 @@ export const carpentry48181 = {
   title: "Carpentry",
   key: "carpentry-48181",
   baseName: "Carpentry",
-  description: '"Reduces research times by 5% and allows the research of two items at once."',
+  description: "Reduces research times by 5% and allows the research of two items at once.",
   icon: "/esoui/art/icons/crafting_forester_plug_component_002.dds",
   esoSkillId: 48181,
   isMorph: false,

@@ -8,7 +8,7 @@ export const fetcherInfection86027 = {
   key: "fetcher-infection-86027",
   baseName: "Swarm",
   description:
-    '"Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing |cffffff15730|r Magic Damage over |cffffff20|r seconds.\\n\\nEvery second cast of this ability deals |cffffff60|r% increased damage.\\n\\nThe fetcherflies rip through the enemy\'s flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by |cffffff5|r%."',
+    "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing |cffffff15730|r Magic Damage over |cffffff20|r seconds.\n\nEvery second cast of this ability deals |cffffff60|r% increased damage.\n\nThe fetcherflies rip through the enemy's flesh, afflicting them with Minor Vulnerability for the duration, increasing their damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_warden_014_a.dds",
   esoSkillId: 86027,
   isMorph: true,

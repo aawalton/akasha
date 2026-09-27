@@ -8,7 +8,7 @@ export const acidSpray38701 = {
   key: "acid-spray-38701",
   baseName: "Arrow Spray",
   description:
-    '"Fire a burst of arrows in one shot, dealing |cffffff6401|r Poison Damage to enemies in front of you, and dealing an additional |cffffff5375|r Poison Damage over |cffffff5|r seconds."',
+    "Fire a burst of arrows in one shot, dealing |cffffff6401|r Poison Damage to enemies in front of you, and dealing an additional |cffffff5375|r Poison Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_bow_005_b.dds",
   esoSkillId: 38701,
   isMorph: true,

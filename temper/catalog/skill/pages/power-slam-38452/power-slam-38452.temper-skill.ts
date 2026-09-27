@@ -8,7 +8,7 @@ export const powerSlam38452 = {
   key: "power-slam-38452",
   baseName: "Power Bash",
   description:
-    '"Strike an enemy full-force with your shield, dealing |cffffff8469|r Physical Damage.\\n\\nWhile slotted, blocking any attack grants you Resentment, which reduces the cost of your next Power Slam cast within |cffffff10|r seconds by |cffffff50|r%.\\n\\nThis ability\'s damage is considered Bash damage and interrupts the enemy if they are casting."',
+    "Strike an enemy full-force with your shield, dealing |cffffff8469|r Physical Damage.\n\nWhile slotted, blocking any attack grants you Resentment, which reduces the cost of your next Power Slam cast within |cffffff10|r seconds by |cffffff50|r%.\n\nThis ability's damage is considered Bash damage and interrupts the enemy if they are casting.",
   icon: "/esoui/art/icons/ability_1handed_005_a.dds",
   esoSkillId: 38452,
   isMorph: true,

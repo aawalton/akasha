@@ -8,7 +8,7 @@ export const amphibian = {
   key: "amphibian",
   baseName: "Amphibian",
   description:
-    '"Increases your experience gain with the Restoration Staff skill line by 15%.\\n\\nIncreases your swimming speed by 50%."',
+    "Increases your experience gain with the Restoration Staff skill line by 15%.\n\nIncreases your swimming speed by 50%.",
   icon: "/esoui/art/icons/ability_templar_010.dds",
   esoSkillId: 36582,
   isMorph: false,

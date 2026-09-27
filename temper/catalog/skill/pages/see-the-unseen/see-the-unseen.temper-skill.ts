@@ -8,7 +8,7 @@ export const seeTheUnseen = {
   key: "see-the-unseen",
   baseName: "See the Unseen",
   description:
-    '"The insight you have gained from the Psijic Order grants you vision of the spiritual world. You can now interact with rifts all throughout Tamriel."',
+    "The insight you have gained from the Psijic Order grants you vision of the spiritual world. You can now interact with rifts all throughout Tamriel.",
   icon: "/esoui/art/icons/ability_psijic_007.dds",
   esoSkillId: 103793,
   isMorph: false,

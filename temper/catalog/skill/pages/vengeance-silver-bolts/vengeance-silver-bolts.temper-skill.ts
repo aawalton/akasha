@@ -8,7 +8,7 @@ export const vengeanceSilverBolts = {
   key: "vengeance-silver-bolts",
   baseName: "Vengeance Silver Bolts",
   description:
-    '"Fire a Dawnguard Vampire Hunter\'s crossbow bolt to strike an enemy, dealing |cffffff10017|r Physical Damage."',
+    "Fire a Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing |cffffff10017|r Physical Damage.",
   icon: "/esoui/art/icons/ability_fightersguild_003.dds",
   esoSkillId: 246070,
   isMorph: false,

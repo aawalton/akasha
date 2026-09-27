@@ -8,7 +8,7 @@ export const vengeanceSpiritMender = {
   key: "vengeance-spirit-mender",
   baseName: "Vengeance Spirit Mender",
   description:
-    '"Conjure a ghostly spirit to do your bidding and heal you or an ally for |cffffff24096|r Health over |cffffff5|r seconds."',
+    "Conjure a ghostly spirit to do your bidding and heal you or an ally for |cffffff24096|r Health over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_015.dds",
   esoSkillId: 238265,
   isMorph: false,

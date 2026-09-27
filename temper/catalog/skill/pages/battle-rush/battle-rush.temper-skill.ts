@@ -7,7 +7,7 @@ export const battleRush = {
   title: "Battle Rush",
   key: "battle-rush",
   baseName: "Battle Rush",
-  description: '"Increases your Stamina Recovery by 30% for 10 seconds after killing a target."',
+  description: "Increases your Stamina Recovery by 30% for 10 seconds after killing a target.",
   icon: "/esoui/art/icons/ability_weapon_021.dds",
   esoSkillId: 45448,
   isMorph: false,

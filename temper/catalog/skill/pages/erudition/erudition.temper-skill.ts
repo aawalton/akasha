@@ -8,7 +8,7 @@ export const erudition = {
   key: "erudition",
   baseName: "Erudition",
   description:
-    '"Knowledge is power. Your excessive scholarship increases your Magicka and Stamina Recovery by 18%."',
+    "Knowledge is power. Your excessive scholarship increases your Magicka and Stamina Recovery by 18%.",
   icon: "/esoui/art/icons/passive_arcanist_11.dds",
   esoSkillId: 185239,
   isMorph: false,

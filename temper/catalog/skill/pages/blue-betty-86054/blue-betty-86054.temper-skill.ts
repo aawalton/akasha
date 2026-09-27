@@ -8,7 +8,7 @@ export const blueBetty86054 = {
   key: "blue-betty-86054",
   baseName: "Betty Netch",
   description:
-    '"Call a betty netch to your side, which restores |cffffff4992|r Magicka to you over |cffffff25|r seconds and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%.\\n\\nEvery |cffffff5|r seconds, the netch removes |cffffff1|r negative effect from you. If no negative effects are removed you instead increase your damage done by |cffffff5|r% for |cffffff5|r seconds."',
+    "Call a betty netch to your side, which restores |cffffff4992|r Magicka to you over |cffffff25|r seconds and grants you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by |cffffff20|r%.\n\nEvery |cffffff5|r seconds, the netch removes |cffffff1|r negative effect from you. If no negative effects are removed you instead increase your damage done by |cffffff5|r% for |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_warden_017.dds",
   esoSkillId: 86054,
   isMorph: true,

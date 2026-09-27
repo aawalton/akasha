@@ -8,7 +8,7 @@ export const darkConversion24589 = {
   key: "dark-conversion-24589",
   baseName: "Dark Exchange",
   description:
-    '"Bargain with darkness to restore |cffffff10200|r Health and |cffffff4500|r Magicka instantly, and an additional |cffffff3000|r Magicka over |cffffff20|r seconds.\\n\\nThe exchange also grants you Minor Berserk for |cffffff20|r seconds, increasing your damage done by |cffffff5|r%."',
+    "Bargain with darkness to restore |cffffff10200|r Health and |cffffff4500|r Magicka instantly, and an additional |cffffff3000|r Magicka over |cffffff20|r seconds.\n\nThe exchange also grants you Minor Berserk for |cffffff20|r seconds, increasing your damage done by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_dark_conversion.dds",
   esoSkillId: 24589,
   isMorph: true,

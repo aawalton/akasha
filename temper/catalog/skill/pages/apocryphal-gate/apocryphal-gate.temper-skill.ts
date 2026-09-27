@@ -8,7 +8,7 @@ export const apocryphalGate = {
   key: "apocryphal-gate",
   baseName: "Apocryphal Gate",
   description:
-    '"Breach the world walls to create a portal at a target location. Its twin appears directly before you. Crossing the threshold allows you to teleport from one to the other for as long as the portals remain open. \\n\\nApocryphal Gate generates Crux each time you teleport."',
+    "Breach the world walls to create a portal at a target location. Its twin appears directly before you. Crossing the threshold allows you to teleport from one to the other for as long as the portals remain open. \n\nApocryphal Gate generates Crux each time you teleport.",
   icon: "/esoui/art/icons/ability_arcanist_016.dds",
   esoSkillId: 183542,
   isMorph: false,

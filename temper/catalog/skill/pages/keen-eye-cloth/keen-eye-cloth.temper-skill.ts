@@ -8,7 +8,7 @@ export const keenEyeCloth = {
   key: "keen-eye-cloth",
   baseName: "Keen Eye: Cloth",
   description:
-    '"Fibrous plants in the world will be easier to see when you are 40 meters or closer."',
+    "Fibrous plants in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
   esoSkillId: 47862,
   isMorph: false,

@@ -8,7 +8,7 @@ export const mightOfTheGuild = {
   key: "might-of-the-guild",
   baseName: "Might of the Guild",
   description:
-    '"Casting a Mages Guild ability grants you Empower, increasing the damage of your Heavy Attacks against monsters by 70% for 10 seconds."',
+    "Casting a Mages Guild ability grants you Empower, increasing the damage of your Heavy Attacks against monsters by 70% for 10 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_038.dds",
   esoSkillId: 45607,
   isMorph: false,

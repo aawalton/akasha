@@ -8,7 +8,7 @@ export const boltEscape = {
   key: "bolt-escape",
   baseName: "Bolt Escape",
   description:
-    '"Transform yourself into pure energy and flash forward, stunning enemies near your final location for |cffffff3|r seconds. \\n\\nThis effect cannot be blocked.\\n\\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka."',
+    "Transform yourself into pure energy and flash forward, stunning enemies near your final location for |cffffff3|r seconds. \n\nThis effect cannot be blocked.\n\nCasting again within |cffffff4|r seconds costs |cffffff33|r% more Magicka.",
   icon: "/esoui/art/icons/ability_sorcerer_bolt_escape.dds",
   esoSkillId: 23234,
   isMorph: false,

@@ -8,7 +8,7 @@ export const swordAndBoard = {
   key: "sword-and-board",
   baseName: "Sword and Board",
   description:
-    '"Increases your Weapon and Spell Damage by 5% and the amount of damage you can block by 20%."',
+    "Increases your Weapon and Spell Damage by 5% and the amount of damage you can block by 20%.",
   icon: "/esoui/art/icons/ability_armor_014.dds",
   esoSkillId: 45452,
   isMorph: false,

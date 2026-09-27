@@ -8,7 +8,7 @@ export const destructionExpert30965 = {
   key: "destruction-expert-30965",
   baseName: "Destruction Expert",
   description:
-    '"When you kill an enemy with a Destruction Staff ability, you restore |cffffff1800|r Magicka.\\n\\nWhen you absorb damage using a Destruction Staff Damage Shield, you restore |cffffff900|r Magicka. This effect can occur once every |cffffff10|r seconds."',
+    "When you kill an enemy with a Destruction Staff ability, you restore |cffffff1800|r Magicka.\n\nWhen you absorb damage using a Destruction Staff Damage Shield, you restore |cffffff900|r Magicka. This effect can occur once every |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_weapon_006.dds",
   esoSkillId: 30965,
   isMorph: false,

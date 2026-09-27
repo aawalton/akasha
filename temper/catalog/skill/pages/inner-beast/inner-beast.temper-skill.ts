@@ -8,7 +8,7 @@ export const innerBeast = {
   key: "inner-beast",
   baseName: "Inner Fire",
   description:
-    '"Ignite the fires of hate in an enemy\'s heart, dealing 2160 Physical Damage, taunting them to attack you, and applying Minor Maim and Minor Vulnerability for 15 seconds, reducing their damage done and increasing their damage taken by 5%.\\n\\nAn ally targeting the enemy can activate the Radiate synergy, dealing 1344 Flame Damage to them over 3 seconds then an additional 2249 Flame Damage to them and other nearby enemies."',
+    "Ignite the fires of hate in an enemy's heart, dealing 2160 Physical Damage, taunting them to attack you, and applying Minor Maim and Minor Vulnerability for 15 seconds, reducing their damage done and increasing their damage taken by 5%.\n\nAn ally targeting the enemy can activate the Radiate synergy, dealing 1344 Flame Damage to them over 3 seconds then an additional 2249 Flame Damage to them and other nearby enemies.",
   icon: "/esoui/art/icons/ability_undaunted_002_a.dds",
   esoSkillId: 43393,
   isMorph: true,

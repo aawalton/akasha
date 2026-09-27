@@ -8,7 +8,7 @@ export const vengeanceDragonfireBreath = {
   key: "vengeance-dragonfire-breath",
   baseName: "Vengeance Dragonfire Breath",
   description:
-    '"Exhale a flaming blast in front of you, dealing |cffffff8820|r Flame Damage to up to 3 enemies and an additional |cffffff7875|r Flame Damage over |cffffff5|r seconds."',
+    "Exhale a flaming blast in front of you, dealing |cffffff8820|r Flame Damage to up to 3 enemies and an additional |cffffff7875|r Flame Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_004.dds",
   esoSkillId: 237615,
   isMorph: false,

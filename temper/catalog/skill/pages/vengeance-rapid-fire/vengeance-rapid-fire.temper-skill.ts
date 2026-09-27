@@ -8,7 +8,7 @@ export const vengeanceRapidFire = {
   key: "vengeance-rapid-fire",
   baseName: "Vengeance Rapid Fire",
   description:
-    '"Unleash a barrage of arrows at an enemy, dealing |cffffff59622|r Physical Damage over |cffffff3|r seconds. \\n\\nYou can move at full speed and are immune to all disabling effects while channeling this attack."',
+    "Unleash a barrage of arrows at an enemy, dealing |cffffff59622|r Physical Damage over |cffffff3|r seconds. \n\nYou can move at full speed and are immune to all disabling effects while channeling this attack.",
   icon: "/esoui/art/icons/ability_bow_006.dds",
   esoSkillId: 241278,
   isMorph: false,

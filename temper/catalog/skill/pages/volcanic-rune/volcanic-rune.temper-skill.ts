@@ -8,7 +8,7 @@ export const volcanicRune = {
   key: "volcanic-rune",
   baseName: "Fire Rune",
   description:
-    '"Inscribe a rune of cosmic fire on the earth, which takes 2 seconds to arm and lasts for 20 seconds.\\n\\nWhen triggered, the rune blasts all enemies in the target area for 2323 Flame Damage, knocks them into the air, and stuns them for 3 seconds."',
+    "Inscribe a rune of cosmic fire on the earth, which takes 2 seconds to arm and lasts for 20 seconds.\n\nWhen triggered, the rune blasts all enemies in the target area for 2323 Flame Damage, knocks them into the air, and stuns them for 3 seconds.",
   icon: "/esoui/art/icons/ability_mageguild_001_a.dds",
   esoSkillId: 42327,
   isMorph: true,

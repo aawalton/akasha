@@ -8,7 +8,7 @@ export const vengeanceRadialSweep = {
   key: "vengeance-radial-sweep",
   baseName: "Vengeance Radial Sweep",
   description:
-    '"Swing your Aedric spear around with holy vengeance, dealing |cffffff17640|r Magic Damage to up to 3 nearby enemies."',
+    "Swing your Aedric spear around with holy vengeance, dealing |cffffff17640|r Magic Damage to up to 3 nearby enemies.",
   icon: "/esoui/art/icons/ability_templar_radial_sweep.dds",
   esoSkillId: 237811,
   isMorph: false,

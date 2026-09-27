@@ -8,7 +8,7 @@ export const vengeanceEarthspikeMantle = {
   key: "vengeance-earthspike-mantle",
   baseName: "Vengeance Earthspike Mantle",
   description:
-    '"Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff30|r seconds."',
+    "Release your inner Dragon to gain Major Resolve, increasing your Physical and Spell Resistance by |cffffff5948|r for |cffffff30|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_007.dds",
   esoSkillId: 237630,
   isMorph: false,

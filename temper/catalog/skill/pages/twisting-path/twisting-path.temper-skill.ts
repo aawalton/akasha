@@ -8,7 +8,7 @@ export const twistingPath = {
   key: "twisting-path",
   baseName: "Path of Darkness",
   description:
-    '"Create a corridor of shadows for 10 seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by 30% which persists for 4 seconds after leaving the path.\\n\\nDeals 377 Magic Damage to enemies in the target area every 1 second."',
+    "Create a corridor of shadows for 10 seconds, granting you and allies in the area Major Expedition, increasing Movement Speed by 30% which persists for 4 seconds after leaving the path.\n\nDeals 377 Magic Damage to enemies in the target area every 1 second.",
   icon: "/esoui/art/icons/ability_nightblade_010_b.dds",
   esoSkillId: 37796,
   isMorph: true,

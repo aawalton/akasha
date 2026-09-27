@@ -8,7 +8,7 @@ export const vengeanceReverseSlash = {
   key: "vengeance-reverse-slash",
   baseName: "Vengeance Reverse Slash",
   description:
-    '"Spin around and strike an enemy down, dealing |cffffff5565|r Physical Damage. Deals up to |cffffff300|r% more damage to enemies with less than |cffffff50|r% Health."',
+    "Spin around and strike an enemy down, dealing |cffffff5565|r Physical Damage. Deals up to |cffffff300|r% more damage to enemies with less than |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_2handed_004.dds",
   esoSkillId: 240482,
   isMorph: false,

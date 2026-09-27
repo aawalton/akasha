@@ -8,7 +8,7 @@ export const deathGleaning116230 = {
   key: "death-gleaning-116230",
   baseName: "Death Gleaning",
   description:
-    '"Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore |cffffff333|r Magicka and Stamina."',
+    "Whenever an enemy you are in combat with dies within |cffffff28|r meters of you, restore |cffffff333|r Magicka and Stamina.",
   icon: "/esoui/art/icons/passive_necromancer_005.dds",
   esoSkillId: 116230,
   isMorph: false,

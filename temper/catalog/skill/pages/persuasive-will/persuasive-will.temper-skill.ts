@@ -7,7 +7,7 @@ export const persuasiveWill = {
   title: "Persuasive Will",
   key: "persuasive-will",
   baseName: "Persuasive Will",
-  description: '"Allows you to Persuade NPCs in conversation."',
+  description: "Allows you to Persuade NPCs in conversation.",
   icon: "/esoui/art/icons/ability_weapon_024.dds",
   esoSkillId: 29061,
   isMorph: false,

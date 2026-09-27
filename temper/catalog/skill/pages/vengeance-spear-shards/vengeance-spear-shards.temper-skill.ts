@@ -8,7 +8,7 @@ export const vengeanceSpearShards = {
   key: "vengeance-spear-shards",
   baseName: "Vengeance Spear Shards",
   description:
-    '"Send your spear into the heavens to bring down a shower of divine wrath, dealing |cffffff8820|r Magic Damage to up to 3 enemies in the area."',
+    "Send your spear into the heavens to bring down a shower of divine wrath, dealing |cffffff8820|r Magic Damage to up to 3 enemies in the area.",
   icon: "/esoui/art/icons/ability_templar_sun_strike.dds",
   esoSkillId: 237887,
   isMorph: false,

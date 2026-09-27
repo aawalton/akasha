@@ -8,7 +8,7 @@ export const pierceArmor38250 = {
   key: "pierce-armor-38250",
   baseName: "Puncture",
   description:
-    '"Thrust your weapon with disciplined precision at an enemy, dealing |cffffff4170|r Physical Damage and taunting them to attack you for |cffffff15|r seconds.\\n\\nAlso inflicts Minor Breach and Major Breach on the enemy, reducing their Physical Resistance and Spell Resistance by |cffffff2974|r and |cffffff5948|r for |cffffff15|r seconds."',
+    "Thrust your weapon with disciplined precision at an enemy, dealing |cffffff4170|r Physical Damage and taunting them to attack you for |cffffff15|r seconds.\n\nAlso inflicts Minor Breach and Major Breach on the enemy, reducing their Physical Resistance and Spell Resistance by |cffffff2974|r and |cffffff5948|r for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_002_b.dds",
   esoSkillId: 38250,
   isMorph: true,

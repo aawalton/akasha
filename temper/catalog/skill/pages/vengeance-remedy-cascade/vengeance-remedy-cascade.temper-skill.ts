@@ -8,7 +8,7 @@ export const vengeanceRemedyCascade = {
   key: "vengeance-remedy-cascade",
   baseName: "Vengeance Remedy Cascade",
   description:
-    '"Channel the abyssal sea to coalesce a beam of restorative energy. The beam heals you or up to 3 allies in its path for |cffffff44976|r Health over |cffffff4.5|r seconds.\\n\\nConsume Crux to also restore |cffffff672|r Magicka and Stamina per Crux spent to your allies over |cffffff4.5|r seconds."',
+    "Channel the abyssal sea to coalesce a beam of restorative energy. The beam heals you or up to 3 allies in its path for |cffffff44976|r Health over |cffffff4.5|r seconds.\n\nConsume Crux to also restore |cffffff672|r Magicka and Stamina per Crux spent to your allies over |cffffff4.5|r seconds.",
   icon: "/esoui/art/icons/ability_arcanist_014.dds",
   esoSkillId: 238482,
   isMorph: false,

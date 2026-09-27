@@ -8,7 +8,7 @@ export const hurricane23231 = {
   key: "hurricane-23231",
   baseName: "Lightning Form",
   description:
-    '"Manifest yourself as pure air, buffeting nearby enemies with wind dealing |cffffff1667|r Physical Damage every |cffffff2|r seconds for |cffffff20|r seconds. The winds grow in damage and size, increasing up to |cffffff120|r% more damage and up to |cffffff9|r meters in size.\\n\\nWhile in this form you gain Major Resolve and Minor Expedition, increasing your Physical and Spell Resistance by |cffffff5948|r and your Movement Speed by |cffffff15|r%."',
+    "Manifest yourself as pure air, buffeting nearby enemies with wind dealing |cffffff1667|r Physical Damage every |cffffff2|r seconds for |cffffff20|r seconds. The winds grow in damage and size, increasing up to |cffffff120|r% more damage and up to |cffffff9|r meters in size.\n\nWhile in this form you gain Major Resolve and Minor Expedition, increasing your Physical and Spell Resistance by |cffffff5948|r and your Movement Speed by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_thundering_presence.dds",
   esoSkillId: 23231,
   isMorph: true,

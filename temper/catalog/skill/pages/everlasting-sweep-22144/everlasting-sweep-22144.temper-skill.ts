@@ -8,7 +8,7 @@ export const everlastingSweep22144 = {
   key: "everlasting-sweep-22144",
   baseName: "Radial Sweep",
   description:
-    '"Swing your Aedric spear around with holy vengeance, dealing |cffffff8814|r Physical Damage to all nearby enemies and an additional |cffffff4038|r Physical Damage every |cffffff2|r seconds for |cffffff10|r seconds. The duration is extended by |cffffff2|r seconds for each enemy hit."',
+    "Swing your Aedric spear around with holy vengeance, dealing |cffffff8814|r Physical Damage to all nearby enemies and an additional |cffffff4038|r Physical Damage every |cffffff2|r seconds for |cffffff10|r seconds. The duration is extended by |cffffff2|r seconds for each enemy hit.",
   icon: "/esoui/art/icons/ability_templar_empowering_sweep.dds",
   esoSkillId: 22144,
   isMorph: true,

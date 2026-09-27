@@ -7,8 +7,7 @@ export const daedricProtection = {
   title: "Daedric Protection",
   key: "daedric-protection",
   baseName: "Daedric Protection",
-  description:
-    '"Reduce your damage taken by 5% while you have a Daedric Summoning ability active."',
+  description: "Reduce your damage taken by 5% while you have a Daedric Summoning ability active.",
   icon: "/esoui/art/icons/ability_sorcerer_022.dds",
   esoSkillId: 45200,
   isMorph: false,

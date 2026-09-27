@@ -8,7 +8,7 @@ export const crushingWeapon103623 = {
   key: "crushing-weapon-103623",
   baseName: "Imbue Weapon",
   description:
-    '"Infuse your weapon with power, causing your next Light Attack used within |cffffff2|r seconds to deal an additional |cffffff7509|r Physical Damage and applying Major Breach to the target, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff5|r seconds.\\n\\nIf the power is not consumed in time, you restore |cffffff1506|r Stamina."',
+    "Infuse your weapon with power, causing your next Light Attack used within |cffffff2|r seconds to deal an additional |cffffff7509|r Physical Damage and applying Major Breach to the target, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff5|r seconds.\n\nIf the power is not consumed in time, you restore |cffffff1506|r Stamina.",
   icon: "/esoui/art/icons/ability_psijic_003_b.dds",
   esoSkillId: 103623,
   isMorph: true,

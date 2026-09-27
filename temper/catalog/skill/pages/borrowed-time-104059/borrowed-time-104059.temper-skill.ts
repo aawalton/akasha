@@ -8,7 +8,7 @@ export const borrowedTime104059 = {
   key: "borrowed-time-104059",
   baseName: "Time Stop",
   description:
-    '"Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for |cffffff3|r seconds when the channel completes.\\n\\nEnemies that are stunned gain |cffffff5000|r Heal Absorption for |cffffff3|r seconds, negating the next |cffffff5000|r points of healing done."',
+    "Freeze the passage of time at the target location, gradually reducing the Movement Speed of enemies in the area during the channel before finally stunning them in place for |cffffff3|r seconds when the channel completes.\n\nEnemies that are stunned gain |cffffff5000|r Heal Absorption for |cffffff3|r seconds, negating the next |cffffff5000|r points of healing done.",
   icon: "/esoui/art/icons/ability_psijic_002_a.dds",
   esoSkillId: 104059,
   isMorph: true,

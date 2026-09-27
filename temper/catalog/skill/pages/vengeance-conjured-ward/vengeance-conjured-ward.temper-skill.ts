@@ -8,7 +8,7 @@ export const vengeanceConjuredWard = {
   key: "vengeance-conjured-ward",
   baseName: "Vengeance Conjured Ward",
   description:
-    '"Conjure globes of Daedric energy for protection, granting a damage shield for you that absorbs |cffffff18113|r damage for |cffffff6|r seconds."',
+    "Conjure globes of Daedric energy for protection, granting a damage shield for you that absorbs |cffffff18113|r damage for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_hurricane.dds",
   esoSkillId: 237929,
   isMorph: false,

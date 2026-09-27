@@ -8,7 +8,7 @@ export const earthspikeMantle = {
   key: "earthspike-mantle",
   baseName: "Earthspike Mantle",
   description:
-    '"Envelop your body in molten spikes to increase your damage done by |cffffff100|r and gain Major Resolve, increasing Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds."',
+    "Envelop your body in molten spikes to increase your damage done by |cffffff100|r and gain Major Resolve, increasing Physical and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_007.dds",
   esoSkillId: 20319,
   isMorph: false,

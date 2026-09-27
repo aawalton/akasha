@@ -8,7 +8,7 @@ export const hexproof = {
   key: "hexproof",
   baseName: "Expunge",
   description:
-    '"Embrace the power of death, removing up to 4 negative effects from yourself.\\n\\nWhile slotted, the cost of all your abilities are reduced by 3%."',
+    "Embrace the power of death, removing up to 4 negative effects from yourself.\n\nWhile slotted, the cost of all your abilities are reduced by 3%.",
   icon: "/esoui/art/icons/ability_necromancer_014_a.dds",
   esoSkillId: 40117919,
   isMorph: true,

@@ -8,7 +8,7 @@ export const criticalRush38778 = {
   key: "critical-rush-38778",
   baseName: "Critical Charge",
   description:
-    '"Launch across the earth and smash an enemy, dealing |cffffff4845|r Physical Damage. Deals up to |cffffff50|r% more damage based on the distance traveled.\\n\\nThis attack is always a Critical Strike."',
+    "Launch across the earth and smash an enemy, dealing |cffffff4845|r Physical Damage. Deals up to |cffffff50|r% more damage based on the distance traveled.\n\nThis attack is always a Critical Strike.",
   icon: "/esoui/art/icons/ability_2handed_003_b.dds",
   esoSkillId: 38778,
   isMorph: true,

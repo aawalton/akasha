@@ -8,7 +8,7 @@ export const endlessHail = {
   key: "endless-hail",
   baseName: "Volley",
   description:
-    '"Launch a multitude of arrows into the sky to rain down, dealing 343 Physical Damage to enemies in the target area every 1 second for 13 seconds, after a 2 second delay."',
+    "Launch a multitude of arrows into the sky to rain down, dealing 343 Physical Damage to enemies in the target area every 1 second for 13 seconds, after a 2 second delay.",
   icon: "/esoui/art/icons/ability_bow_003_a.dds",
   esoSkillId: 40932,
   isMorph: true,

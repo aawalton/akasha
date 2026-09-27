@@ -8,7 +8,7 @@ export const vengeanceFlurry = {
   key: "vengeance-flurry",
   baseName: "Vengeance Flurry",
   description:
-    '"Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff3200|r Physical Damage."',
+    "Flood an enemy with steel, battering them with four consecutive attacks that each deal |cffffff3200|r Physical Damage.",
   icon: "/esoui/art/icons/ability_dualwield_002.dds",
   esoSkillId: 240585,
   isMorph: false,

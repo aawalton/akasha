@@ -7,7 +7,7 @@ export const combatMedic = {
   title: "Combat Medic",
   key: "combat-medic",
   baseName: "Combat Medic",
-  description: '"Increases your healing done by 20% when you are near a Keep."',
+  description: "Increases your healing done by 20% when you are near a Keep.",
   icon: "/esoui/art/icons/ability_sorcerer_045.dds",
   esoSkillId: 45624,
   isMorph: false,

@@ -8,7 +8,7 @@ export const daedricCurse = {
   key: "daedric-curse",
   baseName: "Daedric Curse",
   description:
-    '"Curse an enemy with a destructive rune, dealing |cffffff10668|r Magic Damage to the target and all other nearby enemies after |cffffff6|r seconds.\\n\\nYou can have only one Daedric Curse active at a time."',
+    "Curse an enemy with a destructive rune, dealing |cffffff10668|r Magic Damage to the target and all other nearby enemies after |cffffff6|r seconds.\n\nYou can have only one Daedric Curse active at a time.",
   icon: "/esoui/art/icons/ability_sorcerer_daedric_curse.dds",
   esoSkillId: 24326,
   isMorph: false,

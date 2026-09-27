@@ -8,7 +8,7 @@ export const vengeanceEclipse = {
   key: "vengeance-eclipse",
   baseName: "Vengeance Eclipse",
   description:
-    '"Envelop an enemy in a lightless sphere, stunning them for |cffffff3|r seconds.\\n\\nThis ability cannot be blocked."',
+    "Envelop an enemy in a lightless sphere, stunning them for |cffffff3|r seconds.\n\nThis ability cannot be blocked.",
   icon: "/esoui/art/icons/ability_templar_eclipse.dds",
   esoSkillId: 237964,
   isMorph: false,

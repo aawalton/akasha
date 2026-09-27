@@ -8,7 +8,7 @@ export const shieldCharge = {
   key: "shield-charge",
   baseName: "Shield Charge",
   description:
-    '"Rush an enemy and ram them, dealing |cffffff4846|r Physical Damage and stunning them for |cffffff3|r seconds."',
+    "Rush an enemy and ram them, dealing |cffffff4846|r Physical Damage and stunning them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_003.dds",
   esoSkillId: 28719,
   isMorph: false,

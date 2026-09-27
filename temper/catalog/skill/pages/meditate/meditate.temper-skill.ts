@@ -8,7 +8,7 @@ export const meditate = {
   key: "meditate",
   baseName: "Meditate",
   description:
-    '"Focus your body and mind into a meditative state, healing for |cffffff1530|r Health and restoring |cffffff1500|r Magicka and Stamina every |cffffff1|r second.\\n\\nYou will remain in a meditative state until you toggle this ability off or are interrupted."',
+    "Focus your body and mind into a meditative state, healing for |cffffff1530|r Health and restoring |cffffff1500|r Magicka and Stamina every |cffffff1|r second.\n\nYou will remain in a meditative state until you toggle this ability off or are interrupted.",
   icon: "/esoui/art/icons/ability_psijic_004.dds",
   esoSkillId: 103492,
   isMorph: false,

@@ -8,7 +8,7 @@ export const healingTides = {
   key: "healing-tides",
   baseName: "Healing Tides",
   description:
-    '"Your mastery of weaving fate and abyssal water increases your healing done by 4% for each active Crux."',
+    "Your mastery of weaving fate and abyssal water increases your healing done by 4% for each active Crux.",
   icon: "/esoui/art/icons/passive_arcanist_09.dds",
   esoSkillId: 185186,
   isMorph: false,

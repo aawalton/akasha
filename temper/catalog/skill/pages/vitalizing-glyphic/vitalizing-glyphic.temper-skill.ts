@@ -8,7 +8,7 @@ export const vitalizingGlyphic = {
   key: "vitalizing-glyphic",
   baseName: "Vitalizing Glyphic",
   description:
-    '"Summon an Apocryphal glyphic, which you and your allies can heal. The glyphic spawns at |cffffff30|r% Health and grows stronger the more you heal it.\\n\\nThe power within the glyphic grants up to |cffffff200|r Weapon and Spell Damage and heals you and your allies around it for up to |cffffff2921|r Health every |cffffff1|r second in proportion to its Health."',
+    "Summon an Apocryphal glyphic, which you and your allies can heal. The glyphic spawns at |cffffff30|r% Health and grows stronger the more you heal it.\n\nThe power within the glyphic grants up to |cffffff200|r Weapon and Spell Damage and heals you and your allies around it for up to |cffffff2921|r Health every |cffffff1|r second in proportion to its Health.",
   icon: "/esoui/art/icons/ability_arcanist_018.dds",
   esoSkillId: 183709,
   isMorph: false,

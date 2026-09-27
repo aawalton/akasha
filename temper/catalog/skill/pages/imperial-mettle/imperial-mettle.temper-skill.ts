@@ -7,7 +7,7 @@ export const imperialMettle = {
   title: "Imperial Mettle",
   key: "imperial-mettle",
   baseName: "Imperial Mettle",
-  description: '"Increases your Max Stamina by 2000."',
+  description: "Increases your Max Stamina by 2000.",
   icon: "/esoui/art/icons/ability_dragonknight_021.dds",
   esoSkillId: 45280,
   isMorph: false,

@@ -8,7 +8,7 @@ export const acceleratedGrowth85882 = {
   key: "accelerated-growth-85882",
   baseName: "Accelerated Growth",
   description:
-    '"When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by |cffffff16|r% for |cffffff2|r seconds."',
+    "When you heal yourself or an ally under |cffffff40|r% Health with a Green Balance ability you gain Major Mending, increasing your healing done by |cffffff16|r% for |cffffff2|r seconds.",
   icon: "/esoui/art/icons/passive_warden_008.dds",
   esoSkillId: 85882,
   isMorph: false,

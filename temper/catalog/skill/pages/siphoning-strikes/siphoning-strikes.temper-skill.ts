@@ -8,7 +8,7 @@ export const siphoningStrikes = {
   key: "siphoning-strikes",
   baseName: "Siphoning Strikes",
   description:
-    '"Channel a portion of your soul to convert Health to |cffffff2000|r Magicka and Stamina.\\n\\nWhile slotted on either bar, your soul yearns for the warmth of life. All damage you deal heals you for |cffffff1275|r Health, up to once every |cffffff1|r second."',
+    "Channel a portion of your soul to convert Health to |cffffff2000|r Magicka and Stamina.\n\nWhile slotted on either bar, your soul yearns for the warmth of life. All damage you deal heals you for |cffffff1275|r Health, up to once every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_nightblade_003.dds",
   esoSkillId: 33319,
   isMorph: false,

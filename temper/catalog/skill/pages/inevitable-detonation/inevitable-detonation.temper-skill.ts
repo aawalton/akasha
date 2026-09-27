@@ -8,7 +8,7 @@ export const inevitableDetonation = {
   key: "inevitable-detonation",
   baseName: "Magicka Detonation",
   description:
-    '"Curse an enemy with a magical bomb that explodes after 4 seconds, dealing 449 Magic Damage to all enemies in the area.\\n\\nIf the bomb is dispelled or removed early, the explosion is triggered immediately.\\n\\nEach enemy within the bomb\'s radius increases the damage by 100%."',
+    "Curse an enemy with a magical bomb that explodes after 4 seconds, dealing 449 Magic Damage to all enemies in the area.\n\nIf the bomb is dispelled or removed early, the explosion is triggered immediately.\n\nEach enemy within the bomb's radius increases the damage by 100%.",
   icon: "/esoui/art/icons/ability_ava_inevitable_detonation.dds",
   esoSkillId: 63293,
   isMorph: true,

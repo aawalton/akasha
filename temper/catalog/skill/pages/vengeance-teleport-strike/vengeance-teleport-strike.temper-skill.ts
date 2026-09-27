@@ -8,7 +8,7 @@ export const vengeanceTeleportStrike = {
   key: "vengeance-teleport-strike",
   baseName: "Vengeance Teleport Strike",
   description:
-    '"Flash through the shadows and ambush an enemy, dealing |cffffff7680|r Magic Damage."',
+    "Flash through the shadows and ambush an enemy, dealing |cffffff7680|r Magic Damage.",
   icon: "/esoui/art/icons/ability_nightblade_008.dds",
   esoSkillId: 237601,
   isMorph: false,

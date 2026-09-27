@@ -8,7 +8,7 @@ export const vengeanceRegeneration = {
   key: "vengeance-regeneration",
   baseName: "Vengeance Regeneration",
   description:
-    '"Share your staff\'s life-giving energy, healing you or a nearby ally for |cffffff26024|r Health over |cffffff6|r seconds."',
+    "Share your staff's life-giving energy, healing you or a nearby ally for |cffffff26024|r Health over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_002.dds",
   esoSkillId: 241521,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceEquilibrium = {
   key: "vengeance-equilibrium",
   baseName: "Vengeance Equilibrium",
   description:
-    '"Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\\n\\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds."',
+    "Barter with Oblivion to trade vitality for power, sacrificing your Health in exchange for |cffffff3000|r Magicka.\n\nThe exchange reduces your healing done and damage shield strength by |cffffff50|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_003.dds",
   esoSkillId: 246485,
   isMorph: false,

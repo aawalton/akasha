@@ -8,7 +8,7 @@ export const criticalCharge = {
   key: "critical-charge",
   baseName: "Critical Charge",
   description:
-    '"Launch across the earth and smash an enemy, dealing |cffffff4846|r Physical Damage. \\n\\nThis attack is always a Critical Strike."',
+    "Launch across the earth and smash an enemy, dealing |cffffff4846|r Physical Damage. \n\nThis attack is always a Critical Strike.",
   icon: "/esoui/art/icons/ability_2handed_003.dds",
   esoSkillId: 28448,
   isMorph: false,

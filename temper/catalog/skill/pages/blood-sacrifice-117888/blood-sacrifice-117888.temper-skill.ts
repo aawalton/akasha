@@ -8,7 +8,7 @@ export const bloodSacrifice117888 = {
   key: "blood-sacrifice-117888",
   baseName: "Render Flesh",
   description:
-    '"Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff11321|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%.\\n\\nConsumes a corpse near you when cast to heal a second target."',
+    "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for |cffffff11321|r Health but applying Minor Defile to yourself for |cffffff4|r seconds, reducing your healing received and damage shield strength by |cffffff6|r%.\n\nConsumes a corpse near you when cast to heal a second target.",
   icon: "/esoui/art/icons/ability_necromancer_013_b.dds",
   esoSkillId: 117888,
   isMorph: true,

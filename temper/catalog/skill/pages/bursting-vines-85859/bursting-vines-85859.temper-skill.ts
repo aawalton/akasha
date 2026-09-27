@@ -8,7 +8,7 @@ export const burstingVines85859 = {
   key: "bursting-vines-85859",
   baseName: "Nature's Grasp",
   description:
-    '"Launch a vine to swing yourself to an ally, instantly healing them for |cffffff8489|r Health.  \\n\\nGain |cffffff10|r Ultimate when healing an ally under |cFFFFFF60%|r Health while you are in combat. This effect can occur every |cffffff4|r seconds."',
+    "Launch a vine to swing yourself to an ally, instantly healing them for |cffffff8489|r Health.  \n\nGain |cffffff10|r Ultimate when healing an ally under |cFFFFFF60%|r Health while you are in combat. This effect can occur every |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_warden_011_a.dds",
   esoSkillId: 85859,
   isMorph: true,

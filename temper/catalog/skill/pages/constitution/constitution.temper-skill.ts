@@ -8,7 +8,7 @@ export const constitution = {
   key: "constitution",
   baseName: "Constitution",
   description:
-    '"Increases your Health Recovery by 4% for each piece of Heavy Armor equipped. \\n\\nCurrent bonus: 0%.\\n\\nYou restore 108 Magicka and Stamina when you take damage for each piece of Heavy Armor equipped. This effect can occur once every 4 seconds. \\n\\nCurrent bonus: 0."',
+    "Increases your Health Recovery by 4% for each piece of Heavy Armor equipped. \n\nCurrent bonus: 0%.\n\nYou restore 108 Magicka and Stamina when you take damage for each piece of Heavy Armor equipped. This effect can occur once every 4 seconds. \n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/ability_armor_014.dds",
   esoSkillId: 45526,
   isMorph: false,

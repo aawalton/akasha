@@ -7,7 +7,7 @@ export const uppercut = {
   title: "Uppercut",
   key: "uppercut",
   baseName: "Uppercut",
-  description: '"Slam an enemy with an upward swing, dealing |cffffff9288|r Physical Damage."',
+  description: "Slam an enemy with an upward swing, dealing |cffffff9288|r Physical Damage.",
   icon: "/esoui/art/icons/ability_2handed_001.dds",
   esoSkillId: 28279,
   isMorph: false,

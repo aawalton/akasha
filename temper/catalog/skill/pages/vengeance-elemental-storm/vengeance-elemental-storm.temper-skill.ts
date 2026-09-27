@@ -8,7 +8,7 @@ export const vengeanceElementalStorm = {
   key: "vengeance-elemental-storm",
   baseName: "Vengeance Elemental Storm",
   description:
-    '"Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to up to 3 enemies in the area, dealing |cffffff23520|r Magic Damage."',
+    "Create a cataclysmic storm at the target location that builds for |cffffff2|r seconds then lays waste to up to 3 enemies in the area, dealing |cffffff23520|r Magic Damage.",
   icon: "/esoui/art/icons/ability_destructionstaff_012.dds",
   esoSkillId: 241485,
   isMorph: false,

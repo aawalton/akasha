@@ -8,7 +8,7 @@ export const keenEyeJewelry103637 = {
   key: "keen-eye-jewelry-103637",
   baseName: "Keen Eye: Jewelry",
   description:
-    '"Jewelry Seams in the world will be easier to see when you are |cffffff20|r meters or closer."',
+    "Jewelry Seams in the world will be easier to see when you are |cffffff20|r meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
   esoSkillId: 103637,
   isMorph: false,

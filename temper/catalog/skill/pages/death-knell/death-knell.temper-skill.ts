@@ -7,7 +7,7 @@ export const deathKnell = {
   title: "Death Knell",
   key: "death-knell",
   baseName: "Death Knell",
-  description: '"Increases your Critical Strike Chance against enemies under 33% Health by 20%."',
+  description: "Increases your Critical Strike Chance against enemies under 33% Health by 20%.",
   icon: "/esoui/art/icons/passive_necromancer_002.dds",
   esoSkillId: 116198,
   isMorph: false,

@@ -8,7 +8,7 @@ export const incinerate = {
   key: "incinerate",
   baseName: "Inferno",
   description:
-    '"Activate an aura of flames which launches a wave of flames every |cffffff5|r seconds, dealing |cffffff7272|r Flame Damage to enemies inside.\\n\\nEach hit has a |cffffff15|r% chance of applying Burning.\\n\\nWhile slotted on either bar, you gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r."',
+    "Activate an aura of flames which launches a wave of flames every |cffffff5|r seconds, dealing |cffffff7272|r Flame Damage to enemies inside.\n\nEach hit has a |cffffff15|r% chance of applying Burning.\n\nWhile slotted on either bar, you gain Major Prophecy and Savagery, increasing your Spell and Weapon Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_dragonknight_002_a.dds",
   esoSkillId: 32853,
   isMorph: true,

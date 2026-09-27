@@ -8,7 +8,7 @@ export const vengeanceMagelight = {
   key: "vengeance-magelight",
   baseName: "Vengeance Magelight",
   description:
-    '"Summon a mote of magelight, dealing |cffffff11760|r Magic Damage to up to 3 stealthed and invisible enemies around you. Exposed enemies cannot return to stealth or invisibility for |cffffff3|r seconds."',
+    "Summon a mote of magelight, dealing |cffffff11760|r Magic Damage to up to 3 stealthed and invisible enemies around you. Exposed enemies cannot return to stealth or invisibility for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_002.dds",
   esoSkillId: 246489,
   isMorph: false,

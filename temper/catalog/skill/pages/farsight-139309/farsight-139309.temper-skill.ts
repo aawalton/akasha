@@ -8,7 +8,7 @@ export const farsight139309 = {
   key: "farsight-139309",
   baseName: "Farsight",
   description:
-    '"Claim a line of facets, stretching out from your area of control.\\n\\nConsumes 1 Magicka Charge."',
+    "Claim a line of facets, stretching out from your area of control.\n\nConsumes 1 Magicka Charge.",
   icon: "/esoui/art/icons/ability_scrying_03.dds",
   esoSkillId: 139309,
   isMorph: false,

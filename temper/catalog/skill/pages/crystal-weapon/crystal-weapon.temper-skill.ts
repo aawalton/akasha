@@ -8,7 +8,7 @@ export const crystalWeapon = {
   key: "crystal-weapon",
   baseName: "Crystal Shard",
   description:
-    '"Encase your weapon in dark crystals for 6 seconds, causing your next two Light or Heavy Attacks to deal additional damage and reduce the target\'s Armor by 1000 for 5 seconds. The first hit deals 2091 Physical Damage and the second deals 836 Physical Damage.\\n\\n After casting, your next non-Ultimate ability used within 3 seconds costs 10% less."',
+    "Encase your weapon in dark crystals for 6 seconds, causing your next two Light or Heavy Attacks to deal additional damage and reduce the target's Armor by 1000 for 5 seconds. The first hit deals 2091 Physical Damage and the second deals 836 Physical Damage.\n\n After casting, your next non-Ultimate ability used within 3 seconds costs 10% less.",
   icon: "/esoui/art/icons/ability_sorcerer_crystalweapon.dds",
   esoSkillId: 47560,
   isMorph: true,

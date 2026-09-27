@@ -8,7 +8,7 @@ export const venomArrow38645 = {
   key: "venom-arrow-38645",
   baseName: "Poison Arrow",
   description:
-    '"Shoot an arrow coated in Shadowscale poison at an enemy, dealing |cffffff4038|r Poison Damage and an additional |cffffff11420|r Poison Damage over |cffffff20|r seconds.\\n\\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for |cffffff3|r seconds.\\n\\nAfter casting you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage for |cffffff20|r seconds."',
+    "Shoot an arrow coated in Shadowscale poison at an enemy, dealing |cffffff4038|r Poison Damage and an additional |cffffff11420|r Poison Damage over |cffffff20|r seconds.\n\nIf the enemy hit is casting an ability they are interrupted, set Off Balance, and stunned for |cffffff3|r seconds.\n\nAfter casting you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_bow_002_a.dds",
   esoSkillId: 38645,
   isMorph: true,

@@ -8,7 +8,7 @@ export const powerOfTheLight = {
   key: "power-of-the-light",
   baseName: "Backlash",
   description:
-    '"Summon an expanding beam of pure sunlight to doom an enemy, dealing 1161 Physical Damage immediately and marking them for 6 seconds.\\n\\nAfter the duration ends, the sunlight bursts, dealing 1285 Physical Damage to the enemy, which increases based on the amount of damage you dealt to them over the duration, up to 200%.\\n\\nYou can have only one Power of the Light active at a time, and each hit of the ability applies the Sundered status effect."',
+    "Summon an expanding beam of pure sunlight to doom an enemy, dealing 1161 Physical Damage immediately and marking them for 6 seconds.\n\nAfter the duration ends, the sunlight bursts, dealing 1285 Physical Damage to the enemy, which increases based on the amount of damage you dealt to them over the duration, up to 200%.\n\nYou can have only one Power of the Light active at a time, and each hit of the ability applies the Sundered status effect.",
   icon: "/esoui/art/icons/ability_templar_power_of_the_light.dds",
   esoSkillId: 27587,
   isMorph: true,

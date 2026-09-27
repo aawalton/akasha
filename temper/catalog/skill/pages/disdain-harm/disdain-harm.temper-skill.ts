@@ -8,7 +8,7 @@ export const disdainHarm = {
   key: "disdain-harm",
   baseName: "Disdain Harm",
   description:
-    '"Reduce the damage you take from damage over time abilities by 15% while you have a Bone Tyrant ability active."',
+    "Reduce the damage you take from damage over time abilities by 15% while you have a Bone Tyrant ability active.",
   icon: "/esoui/art/icons/passive_necromancer_006.dds",
   esoSkillId: 116240,
   isMorph: false,

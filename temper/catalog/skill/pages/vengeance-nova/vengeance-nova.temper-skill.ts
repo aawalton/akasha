@@ -8,7 +8,7 @@ export const vengeanceNova = {
   key: "vengeance-nova",
   baseName: "Vengeance Nova",
   description:
-    '"Call down a fragment of the sun, dealing |cffffff22049|r Magic Damage to up to 3 enemies in the area and stunning them for |cffffff3|r seconds."',
+    "Call down a fragment of the sun, dealing |cffffff22049|r Magic Damage to up to 3 enemies in the area and stunning them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_templar_nova.dds",
   esoSkillId: 237942,
   isMorph: false,

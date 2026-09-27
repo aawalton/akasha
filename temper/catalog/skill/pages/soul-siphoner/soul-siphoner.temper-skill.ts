@@ -8,7 +8,7 @@ export const soulSiphoner = {
   key: "soul-siphoner",
   baseName: "Soul Siphoner",
   description:
-    '"Increases your healing done by 3% for each Siphoning ability slotted. \\n\\nCurrent bonus: 0%."',
+    "Increases your healing done by 3% for each Siphoning ability slotted. \n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/passive_sorcerer_036.dds",
   esoSkillId: 45155,
   isMorph: false,

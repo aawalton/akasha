@@ -8,7 +8,7 @@ export const vengeanceFalconSSwiftness = {
   key: "vengeance-falcon-s-swiftness",
   baseName: "Vengeance Falcon's Swiftness",
   description:
-    '"Invoke the spirit of agility to gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%."',
+    "Invoke the spirit of agility to gain Major Expedition for |cffffff6|r seconds, increasing your Movement Speed by |cffffff30|r%.",
   icon: "/esoui/art/icons/ability_warden_016.dds",
   esoSkillId: 238027,
   isMorph: false,

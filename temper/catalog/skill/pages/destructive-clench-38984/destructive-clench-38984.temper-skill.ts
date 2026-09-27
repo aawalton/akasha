@@ -8,7 +8,7 @@ export const destructiveClench38984 = {
   key: "destructive-clench-38984",
   baseName: "Destructive Touch",
   description:
-    '"Devastate an enemy with an enhanced charge from your staff, dealing |cffffff4038|r Magic Damage.\\n\\nThe initial hit always applies the element\'s status effect.\\n\\nFlame Clench also knocks the enemy back.\\n\\nFrost Clench deals less damage, has increased range, applies Major Maim, immobilizes, and taunts the enemy.\\n\\nShock Clench converts the attack into an area of effect explosion."',
+    "Devastate an enemy with an enhanced charge from your staff, dealing |cffffff4038|r Magic Damage.\n\nThe initial hit always applies the element's status effect.\n\nFlame Clench also knocks the enemy back.\n\nFrost Clench deals less damage, has increased range, applies Major Maim, immobilizes, and taunts the enemy.\n\nShock Clench converts the attack into an area of effect explosion.",
   icon: "/esoui/art/icons/ability_destructionstaff_005_a.dds",
   esoSkillId: 38984,
   isMorph: true,

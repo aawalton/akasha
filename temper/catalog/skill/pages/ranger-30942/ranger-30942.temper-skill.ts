@@ -7,7 +7,7 @@ export const ranger30942 = {
   title: "Ranger",
   key: "ranger-30942",
   baseName: "Ranger",
-  description: '"Reduces the Stamina cost of Bow abilities by |cffffff7|r%."',
+  description: "Reduces the Stamina cost of Bow abilities by |cffffff7|r%.",
   icon: "/esoui/art/icons/ability_armor_011.dds",
   esoSkillId: 30942,
   isMorph: false,

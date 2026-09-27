@@ -8,7 +8,7 @@ export const overload = {
   key: "overload",
   baseName: "Overload",
   description:
-    '"Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\\n\\nLight Attacks become lightning bolts, dealing |cffffff8076|r Shock Damage to an enemy up to |cffffff28|r meters away.  \\n\\nHeavy Attacks blast enemies in a |cffffff4 x 6|r area for |cffffff7681|r Shock Damage.\\n\\nAttacks deplete Ultimate until you run out, or the ability is toggled off."',
+    "Charge your fists with the power of the storm, replacing your Light and Heavy Attacks with new, stronger abilities.\n\nLight Attacks become lightning bolts, dealing |cffffff8076|r Shock Damage to an enemy up to |cffffff28|r meters away.  \n\nHeavy Attacks blast enemies in a |cffffff4 x 6|r area for |cffffff7681|r Shock Damage.\n\nAttacks deplete Ultimate until you run out, or the ability is toggled off.",
   icon: "/esoui/art/icons/ability_sorcerer_overload.dds",
   esoSkillId: 24785,
   isMorph: false,

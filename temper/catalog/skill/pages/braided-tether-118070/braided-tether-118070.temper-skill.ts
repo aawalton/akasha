@@ -8,7 +8,7 @@ export const braidedTether118070 = {
   key: "braided-tether-118070",
   baseName: "Restoring Tether",
   description:
-    '"Siphon the last remnants of life from a corpse, healing for |cffffff18090|r Health over |cffffff12|r seconds to yourself, all allies around you, and all allies between you and the corpse. \\n\\nWhile slotted, your healing done is increased by |cffffff3|r%."',
+    "Siphon the last remnants of life from a corpse, healing for |cffffff18090|r Health over |cffffff12|r seconds to yourself, all allies around you, and all allies between you and the corpse. \n\nWhile slotted, your healing done is increased by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_necromancer_017_a.dds",
   esoSkillId: 118070,
   isMorph: true,

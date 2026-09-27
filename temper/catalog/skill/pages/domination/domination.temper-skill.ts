@@ -8,7 +8,7 @@ export const domination = {
   key: "domination",
   baseName: "Domination",
   description:
-    '"Increases your Health, Magicka, and Stamina Recovery while in your campaign, depending on how many Home Keeps you own.\\n\\n1 or less Keep: 50%\\n2 Keeps: 60%\\n3 Keeps: 70%\\n4 Keeps: 80%\\n5 Keeps: 90%\\n6 Keeps: 100%"',
+    "Increases your Health, Magicka, and Stamina Recovery while in your campaign, depending on how many Home Keeps you own.\n\n1 or less Keep: 50%\n2 Keeps: 60%\n3 Keeps: 70%\n4 Keeps: 80%\n5 Keeps: 90%\n6 Keeps: 100%",
   icon: "/esoui/art/icons/ability_sorcerer_038.dds",
   esoSkillId: 39644,
   isMorph: false,

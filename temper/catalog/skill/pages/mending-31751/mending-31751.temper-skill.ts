@@ -8,7 +8,7 @@ export const mending31751 = {
   key: "mending-31751",
   baseName: "Mending",
   description:
-    '"Increases your healing done by up to |cffffff6|r%, in proportion to the severity of the target\'s wounds."',
+    "Increases your healing done by up to |cffffff6|r%, in proportion to the severity of the target's wounds.",
   icon: "/esoui/art/icons/ability_templar_004.dds",
   esoSkillId: 31751,
   isMorph: false,

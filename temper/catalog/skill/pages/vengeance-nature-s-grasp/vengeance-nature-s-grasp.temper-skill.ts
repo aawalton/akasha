@@ -8,7 +8,7 @@ export const vengeanceNatureSGrasp = {
   key: "vengeance-nature-s-grasp",
   baseName: "Vengeance Nature's Grasp",
   description:
-    '"Launch a vine to swing yourself to an ally, healing them for |cffffff13388|r Health."',
+    "Launch a vine to swing yourself to an ally, healing them for |cffffff13388|r Health.",
   icon: "/esoui/art/icons/ability_warden_011.dds",
   esoSkillId: 238071,
   isMorph: false,

@@ -8,7 +8,7 @@ export const necroticOrb = {
   key: "necrotic-orb",
   baseName: "Necrotic Orb",
   description:
-    '"Project a globe of annihilation that slowly floats forward for |cffffff10|r seconds, dealing |cffffff1100|r Magic Damage every |cffffff1|r second to nearby enemies. \\n\\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for |cffffff8261|r Magic Damage to nearby enemies and restore |cffffff3960|r Magicka or Stamina to the ally, whichever maximum is higher."',
+    "Project a globe of annihilation that slowly floats forward for |cffffff10|r seconds, dealing |cffffff1100|r Magic Damage every |cffffff1|r second to nearby enemies. \n\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for |cffffff8261|r Magic Damage to nearby enemies and restore |cffffff3960|r Magicka or Stamina to the ally, whichever maximum is higher.",
   icon: "/esoui/art/icons/ability_undaunted_004.dds",
   esoSkillId: 39298,
   isMorph: false,

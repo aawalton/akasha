@@ -8,7 +8,7 @@ export const remoteTotem = {
   key: "remote-totem",
   baseName: "Bone Totem",
   description:
-    '"Summon an effigy of bone for 11 seconds that grants Minor Protection to you and your allies, reducing damage taken by 5%. Enemies in the area are afflicted with Major Cowardice, reducing their Weapon and Spell Damage by 430.\\n\\nAfter 2 seconds, the totem begins fearing nearby enemies every 2 seconds, causing them to cower in place for 4 seconds."',
+    "Summon an effigy of bone for 11 seconds that grants Minor Protection to you and your allies, reducing damage taken by 5%. Enemies in the area are afflicted with Major Cowardice, reducing their Weapon and Spell Damage by 430.\n\nAfter 2 seconds, the totem begins fearing nearby enemies every 2 seconds, causing them to cower in place for 4 seconds.",
   icon: "/esoui/art/icons/ability_necromancer_010_a.dds",
   esoSkillId: 40118380,
   isMorph: true,

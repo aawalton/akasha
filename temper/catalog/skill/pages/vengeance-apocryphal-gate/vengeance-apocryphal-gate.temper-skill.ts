@@ -8,7 +8,7 @@ export const vengeanceApocryphalGate = {
   key: "vengeance-apocryphal-gate",
   baseName: "Vengeance Apocryphal Gate",
   description:
-    '"Breach the world walls to create a portal at a target location, teleporting yourself to it immediately and generating Crux."',
+    "Breach the world walls to create a portal at a target location, teleporting yourself to it immediately and generating Crux.",
   icon: "/esoui/art/icons/ability_arcanist_016.dds",
   esoSkillId: 238545,
   isMorph: false,

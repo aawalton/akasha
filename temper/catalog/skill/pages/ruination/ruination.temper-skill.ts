@@ -7,7 +7,7 @@ export const ruination = {
   title: "Ruination",
   key: "ruination",
   baseName: "Ruination",
-  description: '"Increases your Weapon and Spell Damage by 258."',
+  description: "Increases your Weapon and Spell Damage by 258.",
   icon: "/esoui/art/icons/ability_sorcerer_062.dds",
   esoSkillId: 45272,
   isMorph: false,

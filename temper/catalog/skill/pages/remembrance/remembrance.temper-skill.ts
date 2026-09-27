@@ -8,7 +8,7 @@ export const remembrance = {
   key: "remembrance",
   baseName: "Rite of Passage",
   description:
-    '"Channel the grace of the gods, healing you and nearby allies for 2788 Health every 1 second for 4 seconds.\\n\\nGain Major Protection, reducing damage you take by 10% for 10 seconds.\\n\\nYou cannot move while channeling, but you gain immunity to all disabling effects."',
+    "Channel the grace of the gods, healing you and nearby allies for 2788 Health every 1 second for 4 seconds.\n\nGain Major Protection, reducing damage you take by 10% for 10 seconds.\n\nYou cannot move while channeling, but you gain immunity to all disabling effects.",
   icon: "/esoui/art/icons/ability_templar_remembrance.dds",
   esoSkillId: 27413,
   isMorph: true,

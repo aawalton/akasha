@@ -8,7 +8,7 @@ export const escalatingRuneblades = {
   key: "escalating-runeblades",
   baseName: "Runeblades",
   description:
-    '"Craft a series of Apocryphal runes before launching them at a foe, dealing 696 Magic Damage, 766 Magic Damage, and 917 Magic Damage and generating Crux. The last rune explodes, dealing damage to all enemies within 8 meters of the target.\\n\\nThis ability deals 3% increased damage for each active Crux when cast."',
+    "Craft a series of Apocryphal runes before launching them at a foe, dealing 696 Magic Damage, 766 Magic Damage, and 917 Magic Damage and generating Crux. The last rune explodes, dealing damage to all enemies within 8 meters of the target.\n\nThis ability deals 3% increased damage for each active Crux when cast.",
   icon: "/esoui/art/icons/ability_arcanist_001_b.dds",
   esoSkillId: 40182977,
   isMorph: true,

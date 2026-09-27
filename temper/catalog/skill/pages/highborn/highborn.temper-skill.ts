@@ -8,7 +8,7 @@ export const highborn = {
   key: "highborn",
   baseName: "Highborn",
   description:
-    '"Increases your experience gain with the Destruction Staff skill line by 15%.\\n\\nIncreases your experience gained by 1%."',
+    "Increases your experience gain with the Destruction Staff skill line by 15%.\n\nIncreases your experience gained by 1%.",
   icon: "/esoui/art/icons/ability_templar_032.dds",
   esoSkillId: 35965,
   isMorph: false,

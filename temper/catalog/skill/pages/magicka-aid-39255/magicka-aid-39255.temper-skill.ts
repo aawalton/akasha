@@ -8,7 +8,7 @@ export const magickaAid39255 = {
   key: "magicka-aid-39255",
   baseName: "Magicka Aid",
   description:
-    '"Increases your Magicka Recovery by |cffffff5|r% for each Support ability slotted.\\n\\nCurrent bonus: |cffffff5|r%."',
+    "Increases your Magicka Recovery by |cffffff5|r% for each Support ability slotted.\n\nCurrent bonus: |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_038.dds",
   esoSkillId: 39255,
   isMorph: false,

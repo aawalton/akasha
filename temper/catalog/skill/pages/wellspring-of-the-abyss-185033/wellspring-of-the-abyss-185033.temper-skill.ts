@@ -8,7 +8,7 @@ export const wellspringOfTheAbyss185033 = {
   key: "wellspring-of-the-abyss-185033",
   baseName: "Wellspring of the Abyss",
   description:
-    '"Apocryphal knowledge bubbles up from the depths of your psyche, increasing your Health, Magicka, and Stamina Recovery by |cffffff40|r for each Soldier of Apocrypha ability slotted.\\n\\nCurrent bonus: |cffffff0|r."',
+    "Apocryphal knowledge bubbles up from the depths of your psyche, increasing your Health, Magicka, and Stamina Recovery by |cffffff40|r for each Soldier of Apocrypha ability slotted.\n\nCurrent bonus: |cffffff0|r.",
   icon: "/esoui/art/icons/passive_arcanist_07.dds",
   esoSkillId: 185033,
   isMorph: false,

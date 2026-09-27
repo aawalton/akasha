@@ -8,7 +8,7 @@ export const lethalArrow38685 = {
   key: "lethal-arrow-38685",
   baseName: "Snipe",
   description:
-    '"Plant a masterfully aimed arrow in an enemy\'s vital spot, dealing |cffffff8635|r Poison Damage and applying the Poisoned status effect.\\n\\nAlso afflicts enemy with Minor Defile, which reduces their healing received and damage shield strength by |cffffff6|r% for |cffffff4|r seconds."',
+    "Plant a masterfully aimed arrow in an enemy's vital spot, dealing |cffffff8635|r Poison Damage and applying the Poisoned status effect.\n\nAlso afflicts enemy with Minor Defile, which reduces their healing received and damage shield strength by |cffffff6|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_bow_001_a.dds",
   esoSkillId: 38685,
   isMorph: true,

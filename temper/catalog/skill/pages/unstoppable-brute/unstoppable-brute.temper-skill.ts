@@ -8,7 +8,7 @@ export const unstoppableBrute = {
   key: "unstoppable-brute",
   baseName: "Unstoppable",
   description:
-    '"Intensify your physical presence to gain Major Resolve, increasing your Physical and Spell Resistance by 5948 for 20 seconds.\\n\\nWhile this effect persists, each piece of Heavy Armor worn decreases the cost of Break Free by 5%.\\n\\nAlso grants you immunity to knockback and disabling effects for 6 seconds, but reduces your Movement Speed by 65% for the duration."',
+    "Intensify your physical presence to gain Major Resolve, increasing your Physical and Spell Resistance by 5948 for 20 seconds.\n\nWhile this effect persists, each piece of Heavy Armor worn decreases the cost of Break Free by 5%.\n\nAlso grants you immunity to knockback and disabling effects for 6 seconds, but reduces your Movement Speed by 65% for the duration.",
   icon: "/esoui/art/icons/ability_armor_001_a.dds",
   esoSkillId: 41091,
   isMorph: true,

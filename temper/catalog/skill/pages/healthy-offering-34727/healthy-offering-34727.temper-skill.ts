@@ -8,7 +8,7 @@ export const healthyOffering34727 = {
   key: "healthy-offering-34727",
   baseName: "Malevolent Offering",
   description:
-    '"Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff11321|r Health, while draining |cffffff1080|r Health from yourself over |cffffff3|r seconds.\\n\\nAfter casting, gain Minor Mending for |cffffff10|r seconds, increasing your healing done by |cffffff8|r%."',
+    "Pour out your lifesblood and channel the arcane, healing yourself or an ally in front of you for |cffffff11321|r Health, while draining |cffffff1080|r Health from yourself over |cffffff3|r seconds.\n\nAfter casting, gain Minor Mending for |cffffff10|r seconds, increasing your healing done by |cffffff8|r%.",
   icon: "/esoui/art/icons/ability_nightblade_011_a.dds",
   esoSkillId: 34727,
   isMorph: true,

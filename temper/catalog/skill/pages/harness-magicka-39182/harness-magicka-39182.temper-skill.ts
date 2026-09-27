@@ -8,7 +8,7 @@ export const harnessMagicka39182 = {
   key: "harness-magicka-39182",
   baseName: "Annulment",
   description:
-    '"Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs |cffffff5046|r damage for |cffffff6|r seconds. Damage shield strength capped at |cffffff50|r% of your Max Health.\\n\\nWhile active, whenever the shield absorbs damage, you restore |cffffff236|r Magicka. Each piece of Light Armor worn increases the Magicka restored by |cffffff33|r%. This effect can occur up to |cffffff3|r times."',
+    "Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs |cffffff5046|r damage for |cffffff6|r seconds. Damage shield strength capped at |cffffff50|r% of your Max Health.\n\nWhile active, whenever the shield absorbs damage, you restore |cffffff236|r Magicka. Each piece of Light Armor worn increases the Magicka restored by |cffffff33|r%. This effect can occur up to |cffffff3|r times.",
   icon: "/esoui/art/icons/ability_armor_003_b.dds",
   esoSkillId: 39182,
   isMorph: true,

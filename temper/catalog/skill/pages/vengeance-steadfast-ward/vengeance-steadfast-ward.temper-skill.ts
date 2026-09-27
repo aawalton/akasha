@@ -8,7 +8,7 @@ export const vengeanceSteadfastWard = {
   key: "vengeance-steadfast-ward",
   baseName: "Vengeance Steadfast Ward",
   description:
-    "\"Call on your staff's strength to protect you or an ally with a damage shield that absorbs |cffffff12075|r damage for |cffffff6|r seconds.\\n\\nThe shield's strength is increased by up to |cffffff100|r%, depending on the severity of the target's wounds.\"",
+    "Call on your staff's strength to protect you or an ally with a damage shield that absorbs |cffffff12075|r damage for |cffffff6|r seconds.\n\nThe shield's strength is increased by up to |cffffff100|r%, depending on the severity of the target's wounds.",
   icon: "/esoui/art/icons/ability_restorationstaff_001.dds",
   esoSkillId: 241535,
   isMorph: false,

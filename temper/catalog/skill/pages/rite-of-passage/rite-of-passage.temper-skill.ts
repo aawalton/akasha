@@ -8,7 +8,7 @@ export const riteOfPassage = {
   key: "rite-of-passage",
   baseName: "Rite of Passage",
   description:
-    '"Channel the grace of the gods, healing you and nearby allies for |cffffff8767|r Health every |cffffff1|r second for |cffffff4|r seconds.\\n\\nYou cannot move while channeling, but you gain immunity to all disabling effects."',
+    "Channel the grace of the gods, healing you and nearby allies for |cffffff8767|r Health every |cffffff1|r second for |cffffff4|r seconds.\n\nYou cannot move while channeling, but you gain immunity to all disabling effects.",
   icon: "/esoui/art/icons/ability_templar_rite_of_passage.dds",
   esoSkillId: 22223,
   isMorph: false,

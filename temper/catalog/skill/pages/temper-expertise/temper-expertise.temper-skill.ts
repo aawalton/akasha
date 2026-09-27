@@ -7,7 +7,7 @@ export const temperExpertise = {
   title: "Temper Expertise",
   key: "temper-expertise",
   baseName: "Temper Expertise",
-  description: '"More than doubles the chances to improve items with tempers."',
+  description: "More than doubles the chances to improve items with tempers.",
   icon: "/esoui/art/icons/ability_smith_004.dds",
   esoSkillId: 48168,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeancePetrify = {
   key: "vengeance-petrify",
   baseName: "Vengeance Petrify",
   description:
-    '"Encase an enemy in molten rock after |cffffff1|r second, stunning them for |cffffff3|r seconds.\\n\\nThis stun cannot be blocked."',
+    "Encase an enemy in molten rock after |cffffff1|r second, stunning them for |cffffff3|r seconds.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_dragonknight_014.dds",
   esoSkillId: 237787,
   isMorph: false,

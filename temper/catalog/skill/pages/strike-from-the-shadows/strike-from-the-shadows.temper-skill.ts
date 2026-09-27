@@ -8,7 +8,7 @@ export const strikeFromTheShadows = {
   key: "strike-from-the-shadows",
   baseName: "Strike from the Shadows",
   description:
-    '"When you leave Sneak, invisibility, or Mist Form your Weapon and Spell Damage is increased by 300 for 6 seconds."',
+    "When you leave Sneak, invisibility, or Mist Form your Weapon and Spell Damage is increased by 300 for 6 seconds.",
   icon: "/esoui/art/icons/passive_u26_vampire_02.dds",
   esoSkillId: 46040,
   isMorph: false,

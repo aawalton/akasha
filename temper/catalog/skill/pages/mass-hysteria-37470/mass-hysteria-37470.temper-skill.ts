@@ -8,7 +8,7 @@ export const massHysteria37470 = {
   key: "mass-hysteria-37470",
   baseName: "Aspect of Terror",
   description:
-    '"Summon a dark spirit to terrify all nearby enemies, causing them to cower in fear for |cffffff3|r seconds and be afflicted with Major Cowardice for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r."',
+    "Summon a dark spirit to terrify all nearby enemies, causing them to cower in fear for |cffffff3|r seconds and be afflicted with Major Cowardice for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r.",
   icon: "/esoui/art/icons/ability_nightblade_016_a.dds",
   esoSkillId: 37470,
   isMorph: true,

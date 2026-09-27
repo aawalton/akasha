@@ -8,7 +8,7 @@ export const regeneration = {
   key: "regeneration",
   baseName: "Regeneration",
   description:
-    '"Share your staff\'s life-giving energy, healing you or a nearby ally for |cffffff10950|r Health over |cffffff10|r seconds."',
+    "Share your staff's life-giving energy, healing you or a nearby ally for |cffffff10950|r Health over |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_002.dds",
   esoSkillId: 28536,
   isMorph: false,

@@ -8,7 +8,7 @@ export const elementalDrain = {
   key: "elemental-drain",
   baseName: "Weakness to Elements",
   description:
-    '"Send the elements to sap an enemy\'s defenses and afflict them with Major Breach for 1 minute, reducing their Physical and Spell Resistance by 5948.\\n\\nAlso applies Minor Magickasteal to the enemy for 1 minute, causing you and your allies to restore 168 Magicka every 1 second when damaging them."',
+    "Send the elements to sap an enemy's defenses and afflict them with Major Breach for 1 minute, reducing their Physical and Spell Resistance by 5948.\n\nAlso applies Minor Magickasteal to the enemy for 1 minute, causing you and your allies to restore 168 Magicka every 1 second when damaging them.",
   icon: "/esoui/art/icons/ability_destructionstaff_011a.dds",
   esoSkillId: 41567,
   isMorph: true,

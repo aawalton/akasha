@@ -7,7 +7,7 @@ export const lunarBlessings117846 = {
   title: "Lunar Blessings",
   key: "lunar-blessings-117846",
   baseName: "Lunar Blessings",
-  description: '"Increase your Maximum Health, Magicka, and Stamina by |cffffff305|r."',
+  description: "Increase your Maximum Health, Magicka, and Stamina by |cffffff305|r.",
   icon: "/esoui/art/icons/passive_khajiit_01.dds",
   esoSkillId: 117846,
   isMorph: false,

@@ -8,7 +8,7 @@ export const mountainGiant = {
   key: "mountain-giant",
   baseName: "Mountain Giant",
   description:
-    '"The strength of mountains fuels your mightiest blows.\\n\\nDealing damage with a fully-charged Heavy Attack also applies Off Balance to the target."',
+    "The strength of mountains fuels your mightiest blows.\n\nDealing damage with a fully-charged Heavy Attack also applies Off Balance to the target.",
   icon: "/esoui/art/icons/ability_dragonknight_034.dds",
   esoSkillId: 29475,
   isMorph: false,

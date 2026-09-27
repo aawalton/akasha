@@ -8,7 +8,7 @@ export const cleave = {
   key: "cleave",
   baseName: "Cleave",
   description:
-    '"Focus your strength into a mighty swing, dealing |cffffff6400|r Physical Damage to enemies in front of you.\\n\\nYou also gain a damage shield that absorbs |cffffff6177|r damage for |cffffff6|r seconds."',
+    "Focus your strength into a mighty swing, dealing |cffffff6400|r Physical Damage to enemies in front of you.\n\nYou also gain a damage shield that absorbs |cffffff6177|r damage for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_002.dds",
   esoSkillId: 20919,
   isMorph: false,

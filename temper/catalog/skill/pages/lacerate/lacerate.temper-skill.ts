@@ -8,7 +8,7 @@ export const lacerate = {
   key: "lacerate",
   baseName: "Lacerate",
   description:
-    '"Slash enemies in front of you, causing them to bleed for |cffffff22860|r Bleed Damage over |cffffff8|r seconds and healing you for |cffffff51|r% of the damage done.\\n\\nEach tick applies the Hemorrhaging status effect."',
+    "Slash enemies in front of you, causing them to bleed for |cffffff22860|r Bleed Damage over |cffffff8|r seconds and healing you for |cffffff51|r% of the damage done.\n\nEach tick applies the Hemorrhaging status effect.",
   icon: "/esoui/art/icons/ability_dualwield_006.dds",
   esoSkillId: 83600,
   isMorph: false,

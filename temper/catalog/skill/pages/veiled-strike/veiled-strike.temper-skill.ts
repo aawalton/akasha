@@ -8,7 +8,7 @@ export const veiledStrike = {
   key: "veiled-strike",
   baseName: "Veiled Strike",
   description:
-    '"Slash an enemy, dealing |cffffff8076|r Magic Damage. \\n\\nIf you strike an enemy from their flank you set them Off Balance."',
+    "Slash an enemy, dealing |cffffff8076|r Magic Damage. \n\nIf you strike an enemy from their flank you set them Off Balance.",
   icon: "/esoui/art/icons/ability_nightblade_002.dds",
   esoSkillId: 25255,
   isMorph: false,

@@ -8,7 +8,7 @@ export const runeblades = {
   key: "runeblades",
   baseName: "Runeblades",
   description:
-    '"Craft a series of Apocryphal runes before launching them at a foe, dealing |cffffff2423|r Magic Damage three times and generating Crux.\\n\\nThis ability deals |cffffff3|r% increased damage for each active Crux when cast."',
+    "Craft a series of Apocryphal runes before launching them at a foe, dealing |cffffff2423|r Magic Damage three times and generating Crux.\n\nThis ability deals |cffffff3|r% increased damage for each active Crux when cast.",
   icon: "/esoui/art/icons/ability_arcanist_001.dds",
   esoSkillId: 185794,
   isMorph: false,

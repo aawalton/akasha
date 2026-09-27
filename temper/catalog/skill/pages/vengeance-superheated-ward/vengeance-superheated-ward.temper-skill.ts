@@ -8,7 +8,7 @@ export const vengeanceSuperheatedWard = {
   key: "vengeance-superheated-ward",
   baseName: "Vengeance Superheated Ward",
   description:
-    '"Draw upon magma from under the earth to superheat the air around yourself or an ally, granting a damage shield that absorbs up to |cffffff15870|r damage for |cffffff6|r seconds."',
+    "Draw upon magma from under the earth to superheat the air around yourself or an ally, granting a damage shield that absorbs up to |cffffff15870|r damage for |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_013.dds",
   esoSkillId: 237781,
   isMorph: false,

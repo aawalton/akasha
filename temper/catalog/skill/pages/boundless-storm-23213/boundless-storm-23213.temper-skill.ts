@@ -8,7 +8,7 @@ export const boundlessStorm23213 = {
   key: "boundless-storm-23213",
   baseName: "Lightning Form",
   description:
-    '"Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing |cffffff1614|r Shock Damage every |cffffff2|r seconds for |cffffff30|r seconds.\\n\\nWhile in this form you also gain Major Resolve, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r.\\n\\nActivating this grants you Major Expedition, increasing your Movement Speed by |cffffff30|r% for |cffffff4|r seconds."',
+    "Manifest yourself as pure lightning, zapping nearby enemies with electricity dealing |cffffff1614|r Shock Damage every |cffffff2|r seconds for |cffffff30|r seconds.\n\nWhile in this form you also gain Major Resolve, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r.\n\nActivating this grants you Major Expedition, increasing your Movement Speed by |cffffff30|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_boundless_storm.dds",
   esoSkillId: 23213,
   isMorph: true,

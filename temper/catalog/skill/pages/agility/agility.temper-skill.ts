@@ -8,7 +8,7 @@ export const agility = {
   key: "agility",
   baseName: "Agility",
   description:
-    '"Increases your Weapon and Spell Damage by 2% for each piece of Medium Armor worn.\\n\\nCurrent bonus: 0%."',
+    "Increases your Weapon and Spell Damage by 2% for each piece of Medium Armor worn.\n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_010.dds",
   esoSkillId: 45572,
   isMorph: false,

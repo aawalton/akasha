@@ -8,7 +8,7 @@ export const resistantFlesh = {
   key: "resistant-flesh",
   baseName: "Render Flesh",
   description:
-    '"Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for 3600 Health but applying Minor Defile to yourself for 4 seconds, reducing your healing received and damage shield strength by 6%.\\n\\nYou grant the target Spell and Physical Resistance equal to half the amount healed for 3 seconds."',
+    "Sacrifice your own power to repair damaged flesh, healing you or an ally in front of you for 3600 Health but applying Minor Defile to yourself for 4 seconds, reducing your healing received and damage shield strength by 6%.\n\nYou grant the target Spell and Physical Resistance equal to half the amount healed for 3 seconds.",
   icon: "/esoui/art/icons/ability_necromancer_013_a.dds",
   esoSkillId: 40117883,
   isMorph: true,

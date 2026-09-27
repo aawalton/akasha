@@ -8,7 +8,7 @@ export const avidBoneyard117850 = {
   key: "avid-boneyard-117850",
   baseName: "Boneyard",
   description:
-    '"Desecrate the ground at the target location, dealing |cffffff11110|r Frost Damage over |cffffff10|r seconds to enemies inside and applying Minor Vulnerability, increasing their damage taken by |cffffff5|r%.\\n\\nConsumes a corpse on cast to deal |cffffff30|r% more damage.\\n\\nYou or an ally in the area can activate the Grave Robber synergy, dealing |cffffff8261|r Frost Damage to enemies and healing for the damage done."',
+    "Desecrate the ground at the target location, dealing |cffffff11110|r Frost Damage over |cffffff10|r seconds to enemies inside and applying Minor Vulnerability, increasing their damage taken by |cffffff5|r%.\n\nConsumes a corpse on cast to deal |cffffff30|r% more damage.\n\nYou or an ally in the area can activate the Grave Robber synergy, dealing |cffffff8261|r Frost Damage to enemies and healing for the damage done.",
   icon: "/esoui/art/icons/ability_necromancer_004_b.dds",
   esoSkillId: 117850,
   isMorph: true,

@@ -8,7 +8,7 @@ export const prodigy = {
   key: "prodigy",
   baseName: "Prodigy",
   description:
-    '"Increases your Weapon and Spell Critical rating by 219 for each piece of Light Armor equipped.\\n\\nCurrent bonus: 0."',
+    "Increases your Weapon and Spell Critical rating by 219 for each piece of Light Armor equipped.\n\nCurrent bonus: 0.",
   icon: "/esoui/art/icons/ability_sorcerer_038.dds",
   esoSkillId: 45561,
   isMorph: false,

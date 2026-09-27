@@ -8,7 +8,7 @@ export const daedricProtection31417 = {
   key: "daedric-protection-31417",
   baseName: "Daedric Protection",
   description:
-    '"Reduce your damage taken by |cffffff2|r% while you have a Daedric Summoning ability active."',
+    "Reduce your damage taken by |cffffff2|r% while you have a Daedric Summoning ability active.",
   icon: "/esoui/art/icons/ability_sorcerer_022.dds",
   esoSkillId: 31417,
   isMorph: false,

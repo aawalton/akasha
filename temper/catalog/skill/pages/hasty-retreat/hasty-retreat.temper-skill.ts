@@ -8,7 +8,7 @@ export const hastyRetreat = {
   key: "hasty-retreat",
   baseName: "Hasty Retreat",
   description:
-    '"Grants you Major Expedition for 4 seconds after you use Roll Dodge.\\n\\nMajor Expedition increases your Movement Speed by 30%."',
+    "Grants you Major Expedition for 4 seconds after you use Roll Dodge.\n\nMajor Expedition increases your Movement Speed by 30%.",
   icon: "/esoui/art/icons/ability_dragonknight_029.dds",
   esoSkillId: 45498,
   isMorph: false,

@@ -8,7 +8,7 @@ export const circumventedFate = {
   key: "circumvented-fate",
   baseName: "Circumvented Fate",
   description:
-    '"Casting an Arcanist ability warps the weave of fate around you, granting you and your group members Minor Evasion for 20 seconds and reducing damage from area attacks by 10%. This effect can occur once every 5 seconds."',
+    "Casting an Arcanist ability warps the weave of fate around you, granting you and your group members Minor Evasion for 20 seconds and reducing damage from area attacks by 10%. This effect can occur once every 5 seconds.",
   icon: "/esoui/art/icons/passive_arcanist_06.dds",
   esoSkillId: 184932,
   isMorph: false,

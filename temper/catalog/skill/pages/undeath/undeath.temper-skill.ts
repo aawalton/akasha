@@ -8,7 +8,7 @@ export const undeath = {
   key: "undeath",
   baseName: "Undeath",
   description:
-    '"Reduces your damage taken by up to 15% based on your missing Health.\\n\\nCurrent bonus: 1%"',
+    "Reduces your damage taken by up to 15% based on your missing Health.\n\nCurrent bonus: 1%",
   icon: "/esoui/art/icons/passive_u26_vampire_03.dds",
   esoSkillId: 33090,
   isMorph: false,

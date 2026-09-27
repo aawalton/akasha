@@ -8,7 +8,7 @@ export const summonChargedAtronach = {
   key: "summon-charged-atronach",
   baseName: "Summon Storm Atronach",
   description:
-    '"Summon an immobile storm atronach at the target location. Its arrival deals 2323 Shock Damage and stuns enemies for 3 seconds. The atronach calls upon a lightning storm every 2 seconds, dealing 2323 Shock Damage to enemies around it. \\n\\nEnemies hit are afflicted with the Concussion status effect.\\n\\nAn ally near the atronach can activate the Charged Lightning synergy, granting nearby allies Major Berserk for 10 seconds, increasing their damage done by 10%."',
+    "Summon an immobile storm atronach at the target location. Its arrival deals 2323 Shock Damage and stuns enemies for 3 seconds. The atronach calls upon a lightning storm every 2 seconds, dealing 2323 Shock Damage to enemies around it. \n\nEnemies hit are afflicted with the Concussion status effect.\n\nAn ally near the atronach can activate the Charged Lightning synergy, granting nearby allies Major Berserk for 10 seconds, increasing their damage done by 10%.",
   icon: "/esoui/art/icons/ability_sorcerer_endless_atronachs.dds",
   esoSkillId: 30553,
   isMorph: true,

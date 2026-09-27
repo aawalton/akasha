@@ -8,7 +8,7 @@ export const padomaicSprint77398 = {
   key: "padomaic-sprint-77398",
   baseName: "Padomaic Sprint",
   description:
-    '"Grants Major Expedition, increasing your Movement Speed by |cffffff30|r% for |cffffff8|r seconds after killing an enemy with Blade of Woe."',
+    "Grants Major Expedition, increasing your Movement Speed by |cffffff30|r% for |cffffff8|r seconds after killing an enemy with Blade of Woe.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_004.dds",
   esoSkillId: 77398,
   isMorph: false,

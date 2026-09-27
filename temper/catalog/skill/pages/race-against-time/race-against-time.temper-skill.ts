@@ -8,7 +8,7 @@ export const raceAgainstTime = {
   key: "race-against-time",
   baseName: "Accelerate",
   description:
-    '"Bend time and space around you to gain Major Expedition for 4 seconds and Minor Force for 20 seconds, increasing your Movement Speed by 30% and Critical Damage by 10%.\\n\\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for 4 seconds."',
+    "Bend time and space around you to gain Major Expedition for 4 seconds and Minor Force for 20 seconds, increasing your Movement Speed by 30% and Critical Damage by 10%.\n\nActivating this ability removes all snares and immobilizations from you and grants immunity to them for 4 seconds.",
   icon: "/esoui/art/icons/ability_psijic_005_b.dds",
   esoSkillId: 40103710,
   isMorph: true,

@@ -7,7 +7,7 @@ export const aspectImprovement = {
   title: "Aspect Improvement",
   key: "aspect-improvement",
   baseName: "Aspect Improvement",
-  description: '"Allows the use of Legendary (gold) Aspect Runestones."',
+  description: "Allows the use of Legendary (gold) Aspect Runestones.",
   icon: "/esoui/art/icons/ability_enchanter_002b.dds",
   esoSkillId: 46763,
   isMorph: false,

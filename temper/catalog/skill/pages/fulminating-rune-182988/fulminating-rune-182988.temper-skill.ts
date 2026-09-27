@@ -8,7 +8,7 @@ export const fulminatingRune182988 = {
   key: "fulminating-rune-182988",
   baseName: "The Imperfect Ring",
   description:
-    '"Summon an explosive rune under an enemy that etches foes nearby with scrawled glyphs, dealing |cffffff15235|r Magic Damage over |cffffff20|r seconds.\\n\\nThe rune lingers on the initial target for |cffffff6|r seconds before detonating, dealing |cffffff5288|r Frost Damage to enemies within 7 meters. Rune detonation cannot be primed with Fulminating Rune again for |cffffff6|r seconds.\\n\\nUp to 3 allies near the initial target can activate the Runebreak synergy, dealing |cffffff9914|r Frost Damage to enemies within 7 meters."',
+    "Summon an explosive rune under an enemy that etches foes nearby with scrawled glyphs, dealing |cffffff15235|r Magic Damage over |cffffff20|r seconds.\n\nThe rune lingers on the initial target for |cffffff6|r seconds before detonating, dealing |cffffff5288|r Frost Damage to enemies within 7 meters. Rune detonation cannot be primed with Fulminating Rune again for |cffffff6|r seconds.\n\nUp to 3 allies near the initial target can activate the Runebreak synergy, dealing |cffffff9914|r Frost Damage to enemies within 7 meters.",
   icon: "/esoui/art/icons/ability_arcanist_004_b.dds",
   esoSkillId: 182988,
   isMorph: true,

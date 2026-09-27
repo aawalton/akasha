@@ -8,7 +8,7 @@ export const lightWeaver31760 = {
   key: "light-weaver-31760",
   baseName: "Light Weaver",
   description:
-    '"When you heal an ally under |cffffff50|r% Health with a Restoring Light ability, you grant them |cffffff1|r Ultimate.\\n\\nActivating an ability with a cast or channel time while in combat causes you to automatically block all attacks at no cost for |cffffff2|r seconds, up to once every |cffffff30|r seconds."',
+    "When you heal an ally under |cffffff50|r% Health with a Restoring Light ability, you grant them |cffffff1|r Ultimate.\n\nActivating an ability with a cast or channel time while in combat causes you to automatically block all attacks at no cost for |cffffff2|r seconds, up to once every |cffffff30|r seconds.",
   icon: "/esoui/art/icons/ability_templar_012.dds",
   esoSkillId: 31760,
   isMorph: false,

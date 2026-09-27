@@ -8,7 +8,7 @@ export const wreckingBlow38807 = {
   key: "wrecking-blow-38807",
   baseName: "Uppercut",
   description:
-    '"Slam an enemy with an upward swing, dealing |cffffff9595|r Physical Damage.\\n\\nGrants you Major Berserk and Empower for |cffffff3|r seconds, increasing damage done by |cffffff10|r% and increasing damage done with Heavy Attacks against monsters by |cffffff70|r%."',
+    "Slam an enemy with an upward swing, dealing |cffffff9595|r Physical Damage.\n\nGrants you Major Berserk and Empower for |cffffff3|r seconds, increasing damage done by |cffffff10|r% and increasing damage done with Heavy Attacks against monsters by |cffffff70|r%.",
   icon: "/esoui/art/icons/ability_2handed_001_b.dds",
   esoSkillId: 38807,
   isMorph: true,

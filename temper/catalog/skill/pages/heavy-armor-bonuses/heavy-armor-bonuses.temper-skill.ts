@@ -8,7 +8,7 @@ export const heavyArmorBonuses = {
   key: "heavy-armor-bonuses",
   baseName: "Heavy Armor Bonuses",
   description:
-    '"Each piece of Heavy Armor does the following:\\n\\nReduces damage taken from Martial attacks by 1%\\n\\nIncreases the amount of damage blocked by 1%\\n\\nIncreases damage done with Bash by 30\\n\\nReduces your damage taken while immune to crowd control by 1%"',
+    "Each piece of Heavy Armor does the following:\n\nReduces damage taken from Martial attacks by 1%\n\nIncreases the amount of damage blocked by 1%\n\nIncreases damage done with Bash by 30\n\nReduces your damage taken while immune to crowd control by 1%",
   icon: "/esoui/art/icons/passive_armor2_heavy.dds",
   esoSkillId: 150184,
   isMorph: false,

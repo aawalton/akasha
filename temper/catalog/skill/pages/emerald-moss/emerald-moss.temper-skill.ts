@@ -8,7 +8,7 @@ export const emeraldMoss = {
   key: "emerald-moss",
   baseName: "Emerald Moss",
   description:
-    '"Increases your healing done with Green Balance abilities by 5% for each Green Balance ability slotted.\\n\\nCurrent Bonus: 0%."',
+    "Increases your healing done with Green Balance abilities by 5% for each Green Balance ability slotted.\n\nCurrent Bonus: 0%.",
   icon: "/esoui/art/icons/passive_warden_005.dds",
   esoSkillId: 85877,
   isMorph: false,

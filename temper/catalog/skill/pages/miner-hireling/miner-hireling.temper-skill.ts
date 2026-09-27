@@ -8,7 +8,7 @@ export const minerHireling = {
   key: "miner-hireling",
   baseName: "Miner Hireling",
   description:
-    '"A hireling will send you even more blacksmithing materials and possibly other items every day. You have a greater chance at better quality materials."',
+    "A hireling will send you even more blacksmithing materials and possibly other items every day. You have a greater chance at better quality materials.",
   icon: "/esoui/art/icons/ability_smith_006.dds",
   esoSkillId: 48171,
   isMorph: false,

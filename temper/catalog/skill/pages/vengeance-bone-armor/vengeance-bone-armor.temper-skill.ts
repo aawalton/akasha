@@ -8,7 +8,7 @@ export const vengeanceBoneArmor = {
   key: "vengeance-bone-armor",
   baseName: "Vengeance Bone Armor",
   description:
-    '"Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\\n\\nYou also count as a corpse, up to once every |cffffff10|r seconds."',
+    "Wrap yourself in hardened bone, granting you Major Resolve, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r for |cffffff20|r seconds.\n\nYou also count as a corpse, up to once every |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_008.dds",
   esoSkillId: 246025,
   isMorph: false,

@@ -7,7 +7,7 @@ export const lastGasp = {
   title: "Last Gasp",
   key: "last-gasp",
   baseName: "Last Gasp",
-  description: '"Increase your Max Health by 2412."',
+  description: "Increase your Max Health by 2412.",
   icon: "/esoui/art/icons/passive_necromancer_008.dds",
   esoSkillId: 116272,
   isMorph: false,

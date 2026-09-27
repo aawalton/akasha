@@ -8,7 +8,7 @@ export const whirlwind = {
   key: "whirlwind",
   baseName: "Whirlwind",
   description:
-    '"Launch yourself into a lethal spin, dealing |cffffff6400|r Physical Damage to nearby enemies. Deals up to |cffffff33|r% more damage to enemies with less than |cffffff50|r% Health."',
+    "Launch yourself into a lethal spin, dealing |cffffff6400|r Physical Damage to nearby enemies. Deals up to |cffffff33|r% more damage to enemies with less than |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_dualwield_005.dds",
   esoSkillId: 28591,
   isMorph: false,

@@ -8,7 +8,7 @@ export const skeletalArcanist = {
   key: "skeletal-arcanist",
   baseName: "Skeletal Mage",
   description:
-    '"Unearth a skeletal mage from the dirt to fight by your side for 20 seconds, while granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20%. The mage attacks the closest enemy every 2 seconds, dealing 478 Shock Damage to them and all other enemies nearby.\\n\\nCreates a corpse on death if you are in combat."',
+    "Unearth a skeletal mage from the dirt to fight by your side for 20 seconds, while granting you Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20%. The mage attacks the closest enemy every 2 seconds, dealing 478 Shock Damage to them and all other enemies nearby.\n\nCreates a corpse on death if you are in combat.",
   icon: "/esoui/art/icons/ability_necromancer_003_b.dds",
   esoSkillId: 40118726,
   isMorph: true,

@@ -8,7 +8,7 @@ export const unnaturalMovement = {
   key: "unnatural-movement",
   baseName: "Unnatural Movement",
   description:
-    '"Reduces the cost of Sprint by 50%.\\n\\nIf you continuously Sprint for 3 seconds you automatically become invisible."',
+    "Reduces the cost of Sprint by 50%.\n\nIf you continuously Sprint for 3 seconds you automatically become invisible.",
   icon: "/esoui/art/icons/passive_u26_vampire_04.dds",
   esoSkillId: 135218,
   isMorph: false,

@@ -8,7 +8,7 @@ export const ambush = {
   key: "ambush",
   baseName: "Teleport Strike",
   description:
-    '"Flash through the shadows and ambush an enemy, dealing 1655 Physical Damage and afflicting them with Minor Vulnerability for 10 seconds, increasing their damage taken by 5%.\\n\\nAlso grants you Empower and Minor Berserk for 10 seconds, increasing the damage of your Heavy Attacks against monsters by 70% and your damage done by 5%."',
+    "Flash through the shadows and ambush an enemy, dealing 1655 Physical Damage and afflicting them with Minor Vulnerability for 10 seconds, increasing their damage taken by 5%.\n\nAlso grants you Empower and Minor Berserk for 10 seconds, increasing the damage of your Heavy Attacks against monsters by 70% and your damage done by 5%.",
   icon: "/esoui/art/icons/ability_nightblade_008_b.dds",
   esoSkillId: 35898,
   isMorph: true,

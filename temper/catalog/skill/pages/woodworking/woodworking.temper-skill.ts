@@ -7,7 +7,7 @@ export const woodworking = {
   title: "Woodworking",
   key: "woodworking",
   baseName: "Woodworking",
-  description: '"Allows the use of Sanded Ruby Ash."',
+  description: "Allows the use of Sanded Ruby Ash.",
   icon: "/esoui/art/icons/ability_tradecraft_003.dds",
   esoSkillId: 70046,
   isMorph: false,

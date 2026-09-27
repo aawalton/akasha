@@ -8,7 +8,7 @@ export const vengeanceWallOfElements = {
   key: "vengeance-wall-of-elements",
   baseName: "Vengeance Wall of Elements",
   description:
-    '"Slam your staff down to create an elemental field in front of you, dealing |cffffff16692|r Magic Damage to up to 3 enemies in front of you over |cffffff5|r seconds.\\n\\nWall of Fire deals more damage.\\n\\nWall of Frost snares enemies.\\n\\nWall of Storms sets enemies Off Balance."',
+    "Slam your staff down to create an elemental field in front of you, dealing |cffffff16692|r Magic Damage to up to 3 enemies in front of you over |cffffff5|r seconds.\n\nWall of Fire deals more damage.\n\nWall of Frost snares enemies.\n\nWall of Storms sets enemies Off Balance.",
   icon: "/esoui/art/icons/ability_destructionstaff_002.dds",
   esoSkillId: 241302,
   isMorph: false,

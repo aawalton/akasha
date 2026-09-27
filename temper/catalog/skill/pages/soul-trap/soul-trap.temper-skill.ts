@@ -8,7 +8,7 @@ export const soulTrap = {
   key: "soul-trap",
   baseName: "Soul Trap",
   description:
-    '"Lay claim to an enemy\'s soul, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.\\n\\nFills an empty Soul Gem if an affected enemy dies."',
+    "Lay claim to an enemy's soul, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.\n\nFills an empty Soul Gem if an affected enemy dies.",
   icon: "/esoui/art/icons/ability_otherclass_001.dds",
   esoSkillId: 26768,
   isMorph: false,

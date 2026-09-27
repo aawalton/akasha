@@ -8,7 +8,7 @@ export const stalwartGuard = {
   key: "stalwart-guard",
   baseName: "Guard",
   description:
-    '"Create a lifebond between you and an allied player. While bonded, 30% of the damage they take is instead redistributed to you.\\n\\nYou and your bonded ally also gain Minor Force, increasing your Critical Damage by 10%.\\n\\nThe bond will remain until you recast the spell or move more than 15 meters away from your ally."',
+    "Create a lifebond between you and an allied player. While bonded, 30% of the damage they take is instead redistributed to you.\n\nYou and your bonded ally also gain Minor Force, increasing your Critical Damage by 10%.\n\nThe bond will remain until you recast the spell or move more than 15 meters away from your ally.",
   icon: "/esoui/art/icons/ability_ava_stalwart_guard.dds",
   esoSkillId: 63351,
   isMorph: true,

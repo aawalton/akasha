@@ -8,7 +8,7 @@ export const livingTrellis85851 = {
   key: "living-trellis-85851",
   baseName: "Living Vines",
   description:
-    '"Grow vines to embrace you or the lowest health ally in front of you for |cffffff10|r seconds. The vines heal the target for |cffffff2262|r Health each time they take damage. This effect can occur once every |cffffff1|r second.\\n\\nWhen the vines expire, they heal the target for an additional |cffffff5478|r Health."',
+    "Grow vines to embrace you or the lowest health ally in front of you for |cffffff10|r seconds. The vines heal the target for |cffffff2262|r Health each time they take damage. This effect can occur once every |cffffff1|r second.\n\nWhen the vines expire, they heal the target for an additional |cffffff5478|r Health.",
   icon: "/esoui/art/icons/ability_warden_010_b.dds",
   esoSkillId: 85851,
   isMorph: true,

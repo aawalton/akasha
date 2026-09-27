@@ -7,7 +7,7 @@ export const improvedHiding = {
   title: "Improved Hiding",
   key: "improved-hiding",
   baseName: "Improved Hiding",
-  description: '"Reduces the cost of Sneak by 40%."',
+  description: "Reduces the cost of Sneak by 40%.",
   icon: "/esoui/art/icons/ability_legerdemain_improvedsneak.dds",
   esoSkillId: 63802,
   isMorph: false,

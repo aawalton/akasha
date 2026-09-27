@@ -8,7 +8,7 @@ export const feralGuardian = {
   key: "feral-guardian",
   baseName: "Feral Guardian",
   description:
-    '"Rouse a grizzly to fight by your side. The grizzly swipes at an enemy, dealing |cffffff2017|r Magic Damage, and sometimes swipes all enemies in front of it, dealing |cffffff8533|r Magic Damage and stunning them for |cffffff2|r seconds.\\n\\nOnce summoned you can activate Guardian\'s Wrath for |cffffff79|r Ultimate, causing the grizzly to maul an enemy for |cffffff11308|r Magic Damage. Deals |cffffff100|r% more damage to enemies below |cffffff25|r% Health."',
+    "Rouse a grizzly to fight by your side. The grizzly swipes at an enemy, dealing |cffffff2017|r Magic Damage, and sometimes swipes all enemies in front of it, dealing |cffffff8533|r Magic Damage and stunning them for |cffffff2|r seconds.\n\nOnce summoned you can activate Guardian's Wrath for |cffffff79|r Ultimate, causing the grizzly to maul an enemy for |cffffff11308|r Magic Damage. Deals |cffffff100|r% more damage to enemies below |cffffff25|r% Health.",
   icon: "/esoui/art/icons/ability_warden_018.dds",
   esoSkillId: 85982,
   isMorph: false,

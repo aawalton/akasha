@@ -8,7 +8,7 @@ export const vengeanceHearthfire = {
   key: "vengeance-hearthfire",
   baseName: "Vengeance Hearthfire",
   description:
-    '"Tend to a warming tinder that heals up to 3 of you and your allies for |cffffff12048|r Health."',
+    "Tend to a warming tinder that heals up to 3 of you and your allies for |cffffff12048|r Health.",
   icon: "/esoui/art/icons/ability_dragonknight_016.dds",
   esoSkillId: 237788,
   isMorph: false,

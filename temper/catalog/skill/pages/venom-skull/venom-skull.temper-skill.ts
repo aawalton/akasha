@@ -8,7 +8,7 @@ export const venomSkull = {
   key: "venom-skull",
   baseName: "Flame Skull",
   description:
-    '"Lob an explosive skull at an enemy, dealing 2160 Poison Damage.\\n\\nEvery third cast of this ability deals 50% increased damage and creates a corpse near the enemy, up to once every 3 seconds.\\n\\nWhile slotted, casting any Necromancer ability while you are in combat will count towards the third cast."',
+    "Lob an explosive skull at an enemy, dealing 2160 Poison Damage.\n\nEvery third cast of this ability deals 50% increased damage and creates a corpse near the enemy, up to once every 3 seconds.\n\nWhile slotted, casting any Necromancer ability while you are in combat will count towards the third cast.",
   icon: "/esoui/art/icons/ability_necromancer_001_a.dds",
   esoSkillId: 40117624,
   isMorph: true,

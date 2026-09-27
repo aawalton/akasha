@@ -8,7 +8,7 @@ export const vengeanceEntropy = {
   key: "vengeance-entropy",
   baseName: "Vengeance Entropy",
   description:
-    '"Bind an enemy with chaotic magic, dealing |cffffff16800|r Magic Damage over |cffffff6|r seconds."',
+    "Bind an enemy with chaotic magic, dealing |cffffff16800|r Magic Damage over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_004.dds",
   esoSkillId: 246479,
   isMorph: false,

@@ -8,7 +8,7 @@ export const runeCage = {
   key: "rune-cage",
   baseName: "Rune Prison",
   description:
-    '"Imprison an enemy in a constricting sphere of dark magic. After a short duration they are stunned for 3 seconds. Deals 1799 Magic Damage if the stun lasts the full duration.\\n\\nThis stun cannot be blocked."',
+    "Imprison an enemy in a constricting sphere of dark magic. After a short duration they are stunned for 3 seconds. Deals 1799 Magic Damage if the stun lasts the full duration.\n\nThis stun cannot be blocked.",
   icon: "/esoui/art/icons/ability_sorcerer_dark_haze.dds",
   esoSkillId: 30177,
   isMorph: true,

@@ -8,7 +8,7 @@ export const weaknessToElements = {
   key: "weakness-to-elements",
   baseName: "Weakness to Elements",
   description:
-    '"Send the elements to sap an enemy\'s defenses and afflict them with Major Breach for |cffffff30|r seconds, reducing their Physical and Spell Resistance by |cffffff5948|r."',
+    "Send the elements to sap an enemy's defenses and afflict them with Major Breach for |cffffff30|r seconds, reducing their Physical and Spell Resistance by |cffffff5948|r.",
   icon: "/esoui/art/icons/ability_destructionstaff_011.dds",
   esoSkillId: 29173,
   isMorph: false,

@@ -8,7 +8,7 @@ export const vengeanceScorch = {
   key: "vengeance-scorch",
   baseName: "Vengeance Scorch",
   description:
-    '"Stir a group of shalk that attack after |cffffff3|r seconds, dealing |cffffff12701|r Magic Damage to up to 3 enemies in front of you."',
+    "Stir a group of shalk that attack after |cffffff3|r seconds, dealing |cffffff12701|r Magic Damage to up to 3 enemies in front of you.",
   icon: "/esoui/art/icons/ability_warden_015.dds",
   esoSkillId: 247093,
   isMorph: false,

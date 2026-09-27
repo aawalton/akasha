@@ -8,7 +8,7 @@ export const vengeanceDrainPower = {
   key: "vengeance-drain-power",
   baseName: "Vengeance Drain Power",
   description:
-    '"Siphon the vigor from your enemies\' blood, dealing |cffffff8820|r Magic Damage to up to 3 nearby enemies.\\n\\nAfter activating you gain Minor Force, increasing your Critical Damage done by |cffffff10|r% for |cffffff20|r seconds."',
+    "Siphon the vigor from your enemies' blood, dealing |cffffff8820|r Magic Damage to up to 3 nearby enemies.\n\nAfter activating you gain Minor Force, increasing your Critical Damage done by |cffffff10|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_013.dds",
   esoSkillId: 237719,
   isMorph: false,

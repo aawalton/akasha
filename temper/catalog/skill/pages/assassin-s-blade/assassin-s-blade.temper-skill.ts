@@ -8,7 +8,7 @@ export const assassinSBlade = {
   key: "assassin-s-blade",
   baseName: "Assassin's Blade",
   description:
-    '"Thrust a magic blade with lethal precision to stab an enemy, dealing |cffffff4036|r Magic Damage. Deals |cffffff300|r% more damage to enemies below |cffffff25|r% Health."',
+    "Thrust a magic blade with lethal precision to stab an enemy, dealing |cffffff4036|r Magic Damage. Deals |cffffff300|r% more damage to enemies below |cffffff25|r% Health.",
   icon: "/esoui/art/icons/ability_nightblade_017.dds",
   esoSkillId: 33386,
   isMorph: false,

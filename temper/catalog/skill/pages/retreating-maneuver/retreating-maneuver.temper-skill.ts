@@ -8,7 +8,7 @@ export const retreatingManeuver = {
   key: "retreating-maneuver",
   baseName: "Rapid Maneuver",
   description:
-    '"Mobilize your forces, granting Major Expedition to you and your group, increasing your Movement Speed by 30% for 8 seconds.  Attacks from behind deal 15% less damage while this effect persists."',
+    "Mobilize your forces, granting Major Expedition to you and your group, increasing your Movement Speed by 30% for 8 seconds.  Attacks from behind deal 15% less damage while this effect persists.",
   icon: "/esoui/art/icons/ability_ava_002_a.dds",
   esoSkillId: 46505,
   isMorph: true,

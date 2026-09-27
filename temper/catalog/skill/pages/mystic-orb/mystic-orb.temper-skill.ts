@@ -8,7 +8,7 @@ export const mysticOrb = {
   key: "mystic-orb",
   baseName: "Necrotic Orb",
   description:
-    '"Project a globe of annihilation that slowly floats forward, dealing 326 Magic Damage every 1 second to nearby enemies. \\n\\nWhile the orb is active you gain 100 Health, Magicka, and Stamina Recovery.\\n\\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for 2249 Magic Damage to nearby enemies and restore 3960 Magicka or Stamina to the ally, whichever maximum is higher."',
+    "Project a globe of annihilation that slowly floats forward, dealing 326 Magic Damage every 1 second to nearby enemies. \n\nWhile the orb is active you gain 100 Health, Magicka, and Stamina Recovery.\n\nAn ally near the globe can activate the Combustion synergy, causing the orb to explode for 2249 Magic Damage to nearby enemies and restore 3960 Magicka or Stamina to the ally, whichever maximum is higher.",
   icon: "/esoui/art/icons/ability_undaunted_004_a.dds",
   esoSkillId: 43415,
   isMorph: true,

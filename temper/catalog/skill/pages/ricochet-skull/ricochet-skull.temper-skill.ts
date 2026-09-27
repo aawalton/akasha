@@ -8,7 +8,7 @@ export const ricochetSkull = {
   key: "ricochet-skull",
   baseName: "Flame Skull",
   description:
-    '"Lob an explosive skull at an enemy, dealing 2160 Flame Damage.\\n\\nEvery third cast of this ability deals 50% increased damage, creates a corpse near the initial enemy, and will bounce up to 2 times to other nearby enemies."',
+    "Lob an explosive skull at an enemy, dealing 2160 Flame Damage.\n\nEvery third cast of this ability deals 50% increased damage, creates a corpse near the initial enemy, and will bounce up to 2 times to other nearby enemies.",
   icon: "/esoui/art/icons/ability_necromancer_001_b.dds",
   esoSkillId: 40117637,
   isMorph: true,

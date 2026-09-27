@@ -8,7 +8,7 @@ export const vengeanceDeathScythe = {
   key: "vengeance-death-scythe",
   baseName: "Vengeance Death Scythe",
   description:
-    '"Slice into your enemy\'s life force, dealing |cffffff2351|r Magic Damage and healing for |cffffff3016|r Health."',
+    "Slice into your enemy's life force, dealing |cffffff2351|r Magic Damage and healing for |cffffff3016|r Health.",
   icon: "/esoui/art/icons/ability_necromancer_007.dds",
   esoSkillId: 238137,
   isMorph: false,

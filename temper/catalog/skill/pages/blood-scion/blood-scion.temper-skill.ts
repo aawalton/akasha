@@ -8,7 +8,7 @@ export const bloodScion = {
   key: "blood-scion",
   baseName: "Blood Scion",
   description:
-    '"Transform into a monstrous creature of the night, instantly healing to full Health.\\n\\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls."',
+    "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls.",
   icon: "/esoui/art/icons/ability_u26_vampire_06.dds",
   esoSkillId: 32624,
   isMorph: false,

@@ -8,7 +8,7 @@ export const berserkerRage = {
   key: "berserker-rage",
   baseName: "Berserker Strike",
   description:
-    '"Strike at an enemy with a vicious blow, dealing 3600 Physical Damage to them and all nearby enemies.\\n\\nThis attack ignores the target\'s Resistance and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for 8 seconds.\\n\\nYou are immune to all disabling, snare, and immobilization effects for the duration."',
+    "Strike at an enemy with a vicious blow, dealing 3600 Physical Damage to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Resistance equal to the amount ignored from the initial target for 8 seconds.\n\nYou are immune to all disabling, snare, and immobilization effects for the duration.",
   icon: "/esoui/art/icons/ability_2handed_006_b.dds",
   esoSkillId: 86295,
   isMorph: true,

@@ -8,7 +8,7 @@ export const solarPrison = {
   key: "solar-prison",
   baseName: "Nova",
   description:
-    '"Call down a fragment of the sun, dealing 1199 Magic Damage every 1 second for 8 seconds to enemies in the area and afflicting them with Major Maim, reducing their damage done by 10%.\\n\\nAn ally near the fragment can activate the Gravity Crush synergy, dealing 5215 Magic Damage to all enemies in the area and stunning them for 5 seconds."',
+    "Call down a fragment of the sun, dealing 1199 Magic Damage every 1 second for 8 seconds to enemies in the area and afflicting them with Major Maim, reducing their damage done by 10%.\n\nAn ally near the fragment can activate the Gravity Crush synergy, dealing 5215 Magic Damage to all enemies in the area and stunning them for 5 seconds.",
   icon: "/esoui/art/icons/ability_templar_solar_prison.dds",
   esoSkillId: 24301,
   isMorph: true,

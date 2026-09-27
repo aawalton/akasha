@@ -8,7 +8,7 @@ export const reverseSlash = {
   key: "reverse-slash",
   baseName: "Reverse Slash",
   description:
-    '"Shift your grip and strike an enemy down, dealing |cffffff4036|r Physical Damage. Deals up to |cffffff300|r% more damage to enemies with less than |cffffff50|r% Health."',
+    "Shift your grip and strike an enemy down, dealing |cffffff4036|r Physical Damage. Deals up to |cffffff300|r% more damage to enemies with less than |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_2handed_004.dds",
   esoSkillId: 28302,
   isMorph: false,

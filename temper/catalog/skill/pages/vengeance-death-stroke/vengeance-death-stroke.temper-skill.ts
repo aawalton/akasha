@@ -8,7 +8,7 @@ export const vengeanceDeathStroke = {
   key: "vengeance-death-stroke",
   baseName: "Vengeance Death Stroke",
   description:
-    '"Ravage an enemy with a swift strike, dealing |cffffff11130|r Magic Damage. Deals up to |cffffff200|r% more damage to enemies under |cffffff50|r% Health."',
+    "Ravage an enemy with a swift strike, dealing |cffffff11130|r Magic Damage. Deals up to |cffffff200|r% more damage to enemies under |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_nightblade_007.dds",
   esoSkillId: 237619,
   isMorph: false,

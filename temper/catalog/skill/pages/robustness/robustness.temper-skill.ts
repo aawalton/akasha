@@ -7,7 +7,7 @@ export const robustness = {
   title: "Robustness",
   key: "robustness",
   baseName: "Robustness",
-  description: '"Increases your Health, Magicka, and Stamina Recovery by 90."',
+  description: "Increases your Health, Magicka, and Stamina Recovery by 90.",
   icon: "/esoui/art/icons/ability_sorcerer_018.dds",
   esoSkillId: 70390,
   isMorph: false,

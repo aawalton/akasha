@@ -8,7 +8,7 @@ export const vineduskTraining30937 = {
   key: "vinedusk-training-30937",
   baseName: "Vinedusk Training",
   description:
-    '"Increases your damage done by |cffffff2|r% against enemies |cffffff15|r meters or closer.\\n\\nIncreases your Critical Chance rating by |cffffff657|r against enemies further than |cffffff15|r meters."',
+    "Increases your damage done by |cffffff2|r% against enemies |cffffff15|r meters or closer.\n\nIncreases your Critical Chance rating by |cffffff657|r against enemies further than |cffffff15|r meters.",
   icon: "/esoui/art/icons/ability_weapon_025.dds",
   esoSkillId: 30937,
   isMorph: false,

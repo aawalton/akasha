@@ -8,7 +8,7 @@ export const rapidRegeneration40076 = {
   key: "rapid-regeneration-40076",
   baseName: "Regeneration",
   description:
-    '"Share your staff\'s life-giving energy, healing you or a nearby ally for |cffffff11316|r Health over |cffffff5|r seconds.\\n\\nThe healing increases by up to |cffffff50|r% more on targets under |cffffff100|r% Health."',
+    "Share your staff's life-giving energy, healing you or a nearby ally for |cffffff11316|r Health over |cffffff5|r seconds.\n\nThe healing increases by up to |cffffff50|r% more on targets under |cffffff100|r% Health.",
   icon: "/esoui/art/icons/ability_restorationstaff_002b.dds",
   esoSkillId: 40076,
   isMorph: true,

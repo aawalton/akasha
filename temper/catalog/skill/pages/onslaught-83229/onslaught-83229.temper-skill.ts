@@ -8,7 +8,7 @@ export const onslaught83229 = {
   key: "onslaught-83229",
   baseName: "Berserker Strike",
   description:
-    '"Strike at an enemy with a vicious blow, dealing |cffffff12116|r Physical Damage to them and all nearby enemies.\\n\\nThis attack ignores the target\'s Resistance and grants you Physical and Spell Penetration for direct damage attacks equal to |cffffff100|r% of the amount ignored from the initial target and if Battle Spirit is inactive you gain |cffffff100|r% Critical Chance for |cffffff8|r seconds."',
+    "Strike at an enemy with a vicious blow, dealing |cffffff12116|r Physical Damage to them and all nearby enemies.\n\nThis attack ignores the target's Resistance and grants you Physical and Spell Penetration for direct damage attacks equal to |cffffff100|r% of the amount ignored from the initial target and if Battle Spirit is inactive you gain |cffffff100|r% Critical Chance for |cffffff8|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_006_a.dds",
   esoSkillId: 83229,
   isMorph: true,

@@ -8,7 +8,7 @@ export const eruption = {
   key: "eruption",
   baseName: "Ash Cloud",
   description:
-    '"Summon a scorching cloud of ash at the target location for 15 seconds, dealing 1799 Flame Damage immediately, reducing enemy Movement Speed by 70%, and dealing 319 Flame Damage in the area every 1 second.\\n\\nThe eruptive damage can occur once every 10 seconds."',
+    "Summon a scorching cloud of ash at the target location for 15 seconds, dealing 1799 Flame Damage immediately, reducing enemy Movement Speed by 70%, and dealing 319 Flame Damage in the area every 1 second.\n\nThe eruptive damage can occur once every 10 seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_016b.dds",
   esoSkillId: 0,
   isMorph: true,

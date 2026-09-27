@@ -8,7 +8,7 @@ export const curativeCurse116286 = {
   key: "curative-curse-116286",
   baseName: "Curative Curse",
   description:
-    '"While you have a negative effect on you, your healing done is increased by |cffffff6|r%."',
+    "While you have a negative effect on you, your healing done is increased by |cffffff6|r%.",
   icon: "/esoui/art/icons/passive_necromancer_009.dds",
   esoSkillId: 116286,
   isMorph: false,

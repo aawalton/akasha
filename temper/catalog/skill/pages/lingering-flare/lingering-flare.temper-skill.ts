@@ -8,7 +8,7 @@ export const lingeringFlare = {
   key: "lingering-flare",
   baseName: "Revealing Flare",
   description:
-    '"Launch a blinding flare, revealing stealthed and invisible enemies in the target area for 10 seconds. Exposed enemies cannot return to stealth or invisibility for 4 seconds.\\n\\nWhile slotted you gain Major Protection, reducing your damage taken by 10%."',
+    "Launch a blinding flare, revealing stealthed and invisible enemies in the target area for 10 seconds. Exposed enemies cannot return to stealth or invisibility for 4 seconds.\n\nWhile slotted you gain Major Protection, reducing your damage taken by 10%.",
   icon: "/esoui/art/icons/ability_ava_lingering_flare.dds",
   esoSkillId: 63391,
   isMorph: true,

@@ -8,7 +8,7 @@ export const vengeanceDefensivePosture = {
   key: "vengeance-defensive-posture",
   baseName: "Vengeance Defensive Posture",
   description:
-    '"Bolster your defenses, gaining a damage shield that absorbs up to |cffffff6802|r damage for |cffffff6|r seconds.  This portion of the ability scales off your Max Health."',
+    "Bolster your defenses, gaining a damage shield that absorbs up to |cffffff6802|r damage for |cffffff6|r seconds.  This portion of the ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_1handed_004.dds",
   esoSkillId: 240560,
   isMorph: false,

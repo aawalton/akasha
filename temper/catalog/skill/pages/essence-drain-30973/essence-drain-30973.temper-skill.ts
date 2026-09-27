@@ -8,7 +8,7 @@ export const essenceDrain30973 = {
   key: "essence-drain-30973",
   baseName: "Essence Drain",
   description:
-    '"You gain Major Mending for |cffffff2|r seconds after completing a fully-charged Heavy Attack, increasing your healing done by |cffffff16|r%.\\n\\nYou also heal yourself or an ally within |cffffff12|r meters of the target for |cffffff26|r% of the damage inflicted by the final hit of a fully-charged Heavy Attack."',
+    "You gain Major Mending for |cffffff2|r seconds after completing a fully-charged Heavy Attack, increasing your healing done by |cffffff16|r%.\n\nYou also heal yourself or an ally within |cffffff12|r meters of the target for |cffffff26|r% of the damage inflicted by the final hit of a fully-charged Heavy Attack.",
   icon: "/esoui/art/icons/ability_templar_013.dds",
   esoSkillId: 30973,
   isMorph: false,

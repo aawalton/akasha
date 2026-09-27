@@ -8,7 +8,7 @@ export const improvedSneak = {
   key: "improved-sneak",
   baseName: "Improved Sneak",
   description:
-    '"Reduces the cost of Sneak by 7% for each piece of Medium Armor equipped. \\n\\nCurrent bonus: 0%.\\n\\nReduces the size of your detection area while Sneaking by 5% for each piece of Medium Armor equipped. \\n\\nCurrent bonus: 0%."',
+    "Reduces the cost of Sneak by 7% for each piece of Medium Armor equipped. \n\nCurrent bonus: 0%.\n\nReduces the size of your detection area while Sneaking by 5% for each piece of Medium Armor equipped. \n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_007.dds",
   esoSkillId: 45567,
   isMorph: false,

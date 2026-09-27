@@ -8,7 +8,7 @@ export const bloodRitual = {
   key: "blood-ritual",
   baseName: "Blood Ritual",
   description:
-    '"Allows you to infect another player with Noxiphilic Sanguivoria once every week by returning to the Vampire ritual site. \\n\\nPlayers already infected with Lycanthropy cannot be infected with Noxiphilic Sanguivoria."',
+    "Allows you to infect another player with Noxiphilic Sanguivoria once every week by returning to the Vampire ritual site. \n\nPlayers already infected with Lycanthropy cannot be infected with Noxiphilic Sanguivoria.",
   icon: "/esoui/art/icons/passive_u26_vampire_05.dds",
   esoSkillId: 33091,
   isMorph: false,

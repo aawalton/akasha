@@ -8,7 +8,7 @@ export const silverShards = {
   key: "silver-shards",
   baseName: "Silver Bolts",
   description:
-    '"Fire an augmented Dawnguard Vampire Hunter\'s crossbow bolt to strike an enemy, dealing 2091 Physical Damage.\\n\\nFires additional bolts at other enemies near the initial target for 22% less damage."',
+    "Fire an augmented Dawnguard Vampire Hunter's crossbow bolt to strike an enemy, dealing 2091 Physical Damage.\n\nFires additional bolts at other enemies near the initial target for 22% less damage.",
   icon: "/esoui/art/icons/ability_fightersguild_003_a.dds",
   esoSkillId: 42671,
   isMorph: true,

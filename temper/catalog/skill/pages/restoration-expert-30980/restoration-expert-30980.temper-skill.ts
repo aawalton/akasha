@@ -7,7 +7,7 @@ export const restorationExpert30980 = {
   title: "Restoration Expert",
   key: "restoration-expert-30980",
   baseName: "Restoration Expert",
-  description: '"Increases your healing by |cffffff8|r% on allies under |cffffff30|r% Health."',
+  description: "Increases your healing by |cffffff8|r% on allies under |cffffff30|r% Health.",
   icon: "/esoui/art/icons/ability_templar_016.dds",
   esoSkillId: 30980,
   isMorph: false,

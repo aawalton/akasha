@@ -8,7 +8,7 @@ export const implacableOutcome185050 = {
   key: "implacable-outcome-185050",
   baseName: "Implacable Outcome",
   description:
-    '"The will of an Arcanist is absolute. When you consume Crux, gain |cffffff2|r Ultimate. This effect can occur once every |cffffff8|r seconds."',
+    "The will of an Arcanist is absolute. When you consume Crux, gain |cffffff2|r Ultimate. This effect can occur once every |cffffff8|r seconds.",
   icon: "/esoui/art/icons/passive_arcanist_08.dds",
   esoSkillId: 185050,
   isMorph: false,

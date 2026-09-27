@@ -8,7 +8,7 @@ export const ballista85451 = {
   key: "ballista-85451",
   baseName: "Rapid Fire",
   description:
-    '"Create a turret to unleash a barrage of arrows at an enemy, dealing |cffffff54210|r Physical Damage over |cffffff5|r seconds."',
+    "Create a turret to unleash a barrage of arrows at an enemy, dealing |cffffff54210|r Physical Damage over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_bow_006_a.dds",
   esoSkillId: 85451,
   isMorph: true,

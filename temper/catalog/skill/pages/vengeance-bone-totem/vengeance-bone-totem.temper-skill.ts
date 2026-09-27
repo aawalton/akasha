@@ -8,7 +8,7 @@ export const vengeanceBoneTotem = {
   key: "vengeance-bone-totem",
   baseName: "Vengeance Bone Totem",
   description:
-    '"Summon an effigy of bone at your feet after |cffffff2|r seconds. Once completed, the totem fears up to 3 nearby enemies, causing them to cower in place for |cffffff4|r seconds and become afflicted with Major Maim for |cffffff10|r seconds, reducing their damage done by |cffffff10|r%."',
+    "Summon an effigy of bone at your feet after |cffffff2|r seconds. Once completed, the totem fears up to 3 nearby enemies, causing them to cower in place for |cffffff4|r seconds and become afflicted with Major Maim for |cffffff10|r seconds, reducing their damage done by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_necromancer_010.dds",
   esoSkillId: 238178,
   isMorph: false,

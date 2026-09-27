@@ -7,7 +7,7 @@ export const cycleOfLife = {
   title: "Cycle of Life",
   key: "cycle-of-life",
   baseName: "Cycle of Life",
-  description: '"Your fully-charged Heavy Attacks restore 30% more Magicka."',
+  description: "Your fully-charged Heavy Attacks restore 30% more Magicka.",
   icon: "/esoui/art/icons/ability_weapon_004.dds",
   esoSkillId: 45520,
   isMorph: false,

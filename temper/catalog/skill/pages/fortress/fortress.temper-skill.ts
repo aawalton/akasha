@@ -8,7 +8,7 @@ export const fortress = {
   key: "fortress",
   baseName: "Fortress",
   description:
-    '"Reduces the Stamina cost of your One Hand and Shield abilities by 15% and reduces the cost of blocking by 36%."',
+    "Reduces the Stamina cost of your One Hand and Shield abilities by 15% and reduces the cost of blocking by 36%.",
   icon: "/esoui/art/icons/ability_weapon_028.dds",
   esoSkillId: 45471,
   isMorph: false,

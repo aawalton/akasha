@@ -8,7 +8,7 @@ export const worldInRuin29457 = {
   key: "world-in-ruin-29457",
   baseName: "World in Ruin",
   description:
-    '"Dragons leave naught but ash and ruin in their wake.\\n\\nIncreases your damage done with area and over time attacks by |cffffff3|r%."',
+    "Dragons leave naught but ash and ruin in their wake.\n\nIncreases your damage done with area and over time attacks by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_010.dds",
   esoSkillId: 29457,
   isMorph: false,

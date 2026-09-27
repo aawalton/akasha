@@ -8,7 +8,7 @@ export const spitewardOfTheLucidMind = {
   key: "spiteward-of-the-lucid-mind",
   baseName: "Runespite Ward",
   description:
-    '"Like the rune knights of old, summon a shield that absorbs 4800 damage for 6 seconds, scaling off your Max Health.\\n\\nThe first time you take direct damage, the shield retaliates and deals 0 Magic Damage to the attacker, scaling off your Armor.\\n\\nConsume Crux to heal yourself 1600 Health, scaling off your Max Health, and refund 30% of Spiteward of the Lucid Mind cost per Crux spent."',
+    "Like the rune knights of old, summon a shield that absorbs 4800 damage for 6 seconds, scaling off your Max Health.\n\nThe first time you take direct damage, the shield retaliates and deals 0 Magic Damage to the attacker, scaling off your Armor.\n\nConsume Crux to heal yourself 1600 Health, scaling off your Max Health, and refund 30% of Spiteward of the Lucid Mind cost per Crux spent.",
   icon: "/esoui/art/icons/ability_arcanist_008_a.dds",
   esoSkillId: 40185901,
   isMorph: true,

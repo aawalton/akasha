@@ -8,7 +8,7 @@ export const spellAttunement = {
   key: "spell-attunement",
   baseName: "Spell Attunement",
   description:
-    '"Increases your Spell Resistance by 2310. This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \\n\\nIncreases your Magicka Recovery by 130."',
+    "Increases your Spell Resistance by 2310. This effect is doubled if you are afflicted with Burning, Chilled, or Concussed.  \n\nIncreases your Magicka Recovery by 130.",
   icon: "/esoui/art/icons/ability_sorcerer_013.dds",
   esoSkillId: 45262,
   isMorph: false,

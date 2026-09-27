@@ -8,7 +8,7 @@ export const vengeanceMeteor = {
   key: "vengeance-meteor",
   baseName: "Vengeance Meteor",
   description:
-    '"Call a comet down from the constellations to blast an enemy, dealing |cffffff17640|r Flame Damage to up to 3 enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds."',
+    "Call a comet down from the constellations to blast an enemy, dealing |cffffff17640|r Flame Damage to up to 3 enemies in the area, knocking them down, and stunning them for |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_005.dds",
   esoSkillId: 246494,
   isMorph: false,

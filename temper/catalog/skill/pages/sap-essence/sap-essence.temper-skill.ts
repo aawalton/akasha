@@ -8,7 +8,7 @@ export const sapEssence = {
   key: "sap-essence",
   baseName: "Drain Power",
   description:
-    '"Siphon the vigor from your enemies\' blood, dealing 1742 Magic Damage to all nearby enemies and healing you and your allies for 599 plus 20% more for each enemy hit.\\n\\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 30 seconds."',
+    "Siphon the vigor from your enemies' blood, dealing 1742 Magic Damage to all nearby enemies and healing you and your allies for 599 plus 20% more for each enemy hit.\n\nIf an enemy is hit, you gain Major Brutality and Sorcery, increasing your Weapon and Spell Damage by 20% for 30 seconds.",
   icon: "/esoui/art/icons/ability_nightblade_013_a.dds",
   esoSkillId: 37950,
   isMorph: true,

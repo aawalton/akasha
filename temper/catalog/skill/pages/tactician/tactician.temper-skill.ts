@@ -8,7 +8,7 @@ export const tactician = {
   key: "tactician",
   baseName: "Tactician",
   description:
-    '"Increases your damage done with Siege Weapons to Keeps and other Siege Weapons while in your campaign, depending on how many Home Keeps you own.\\n\\n1 or less Keep: 50%\\n2 Keeps: 60%\\n3 Keeps: 70%\\n4 Keeps: 80%\\n5 Keeps: 90%\\n6 Keeps: 100%"',
+    "Increases your damage done with Siege Weapons to Keeps and other Siege Weapons while in your campaign, depending on how many Home Keeps you own.\n\n1 or less Keep: 50%\n2 Keeps: 60%\n3 Keeps: 70%\n4 Keeps: 80%\n5 Keeps: 90%\n6 Keeps: 100%",
   icon: "/esoui/art/icons/ability_sorcerer_057.dds",
   esoSkillId: 39647,
   isMorph: false,

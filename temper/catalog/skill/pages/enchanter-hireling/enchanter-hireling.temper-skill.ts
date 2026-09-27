@@ -8,7 +8,7 @@ export const enchanterHireling = {
   key: "enchanter-hireling",
   baseName: "Enchanter Hireling",
   description:
-    '"A hireling will send you runestones every day. You have a greater chance at Essence and better Aspect runestones."',
+    "A hireling will send you runestones every day. You have a greater chance at Essence and better Aspect runestones.",
   icon: "/esoui/art/icons/ability_enchanter_008.dds",
   esoSkillId: 46772,
   isMorph: false,

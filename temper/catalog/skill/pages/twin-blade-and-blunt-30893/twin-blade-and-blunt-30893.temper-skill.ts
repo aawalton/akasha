@@ -8,7 +8,7 @@ export const twinBladeAndBlunt30893 = {
   key: "twin-blade-and-blunt-30893",
   baseName: "Twin Blade and Blunt",
   description:
-    '"Grants a bonus based on the type of weapon equipped:\\n\\nEach axe increases your Critical Damage done by |cffffff3|r%.\\n\\nEach mace increases your Offensive Penetration by |cffffff743|r.\\n\\nEach sword increases your Weapon and Spell Damage by |cffffff64|r.\\n\\nEach dagger increases your Critical Chance rating by |cffffff328|r."',
+    "Grants a bonus based on the type of weapon equipped:\n\nEach axe increases your Critical Damage done by |cffffff3|r%.\n\nEach mace increases your Offensive Penetration by |cffffff743|r.\n\nEach sword increases your Weapon and Spell Damage by |cffffff64|r.\n\nEach dagger increases your Critical Chance rating by |cffffff328|r.",
   icon: "/esoui/art/icons/ability_weapon_016.dds",
   esoSkillId: 30893,
   isMorph: false,

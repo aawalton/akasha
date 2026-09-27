@@ -8,7 +8,7 @@ export const hastyPrayer = {
   key: "hasty-prayer",
   baseName: "Healing Ritual",
   description:
-    '"Focus your spiritual devotion, healing you and nearby allies for 2614 Health.\\n\\nAffected targets gain Minor Expedition, increasing their Movement Speed by 15% for 10 seconds."',
+    "Focus your spiritual devotion, healing you and nearby allies for 2614 Health.\n\nAffected targets gain Minor Expedition, increasing their Movement Speed by 15% for 10 seconds.",
   icon: "/esoui/art/icons/ability_templar_lingering_ritual.dds",
   esoSkillId: 27376,
   isMorph: true,

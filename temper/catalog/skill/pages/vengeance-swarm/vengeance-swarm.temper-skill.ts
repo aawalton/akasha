@@ -8,7 +8,7 @@ export const vengeanceSwarm = {
   key: "vengeance-swarm",
   baseName: "Vengeance Swarm",
   description:
-    '"Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing |cffffff17010|r Magic Damage over |cffffff6|r seconds."',
+    "Unleash a swarm of fetcherflies to relentlessly attack an enemy, dealing |cffffff17010|r Magic Damage over |cffffff6|r seconds.",
   icon: "/esoui/art/icons/ability_warden_014.dds",
   esoSkillId: 238016,
   isMorph: false,

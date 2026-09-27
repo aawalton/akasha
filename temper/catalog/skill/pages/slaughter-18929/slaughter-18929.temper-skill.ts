@@ -8,7 +8,7 @@ export const slaughter18929 = {
   key: "slaughter-18929",
   baseName: "Slaughter",
   description:
-    '"Increases damage with Dual Wield abilities by |cffffff10|r% against enemies with under |cffffff25|r% Health."',
+    "Increases damage with Dual Wield abilities by |cffffff10|r% against enemies with under |cffffff25|r% Health.",
   icon: "/esoui/art/icons/ability_weapon_019.dds",
   esoSkillId: 18929,
   isMorph: false,

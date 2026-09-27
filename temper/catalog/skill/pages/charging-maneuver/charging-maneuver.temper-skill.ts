@@ -8,7 +8,7 @@ export const chargingManeuver = {
   key: "charging-maneuver",
   baseName: "Rapid Maneuver",
   description:
-    '"Mobilize your forces, granting Major and Minor Expedition to you and your group, increasing your Movement Speed by 30% and 15% respectively, for 8 seconds."',
+    "Mobilize your forces, granting Major and Minor Expedition to you and your group, increasing your Movement Speed by 30% and 15% respectively, for 8 seconds.",
   icon: "/esoui/art/icons/ability_ava_002_b.dds",
   esoSkillId: 46519,
   isMorph: true,

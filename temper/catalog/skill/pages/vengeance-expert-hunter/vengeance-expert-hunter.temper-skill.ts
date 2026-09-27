@@ -8,7 +8,7 @@ export const vengeanceExpertHunter = {
   key: "vengeance-expert-hunter",
   baseName: "Vengeance Expert Hunter",
   description:
-    '"Invoke your expertise in anatomy and enemy behavior to increase your stealth detection by |cffffff35|r meters for |cffffff10|r seconds."',
+    "Invoke your expertise in anatomy and enemy behavior to increase your stealth detection by |cffffff35|r meters for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_002.dds",
   esoSkillId: 246091,
   isMorph: false,

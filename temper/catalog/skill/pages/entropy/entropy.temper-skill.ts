@@ -8,7 +8,7 @@ export const entropy = {
   key: "entropy",
   baseName: "Entropy",
   description:
-    '"Bind an enemy with chaotic magic, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds."',
+    "Bind an enemy with chaotic magic, dealing |cffffff15224|r Magic Damage over |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_mageguild_004.dds",
   esoSkillId: 28567,
   isMorph: false,

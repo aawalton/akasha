@@ -8,7 +8,7 @@ export const wildGuardian = {
   key: "wild-guardian",
   baseName: "Feral Guardian",
   description:
-    '"Rouse a grizzly to fight by your side. The grizzly swipes at an enemy, dealing 659 Bleed Damage, and sometimes swipes all enemies in front of it, dealing 2640 Bleed Damage and stunning them for 2 seconds.\\n\\nOnce summoned you can activate Guardian\'s Savagery for 75 Ultimate, to maul an enemy for 3697 Bleed Damage. Deals 100% more damage to enemies below 25% Health.\\n\\nThe damage has a higher chance to apply the Hemorrhaging status effect."',
+    "Rouse a grizzly to fight by your side. The grizzly swipes at an enemy, dealing 659 Bleed Damage, and sometimes swipes all enemies in front of it, dealing 2640 Bleed Damage and stunning them for 2 seconds.\n\nOnce summoned you can activate Guardian's Savagery for 75 Ultimate, to maul an enemy for 3697 Bleed Damage. Deals 100% more damage to enemies below 25% Health.\n\nThe damage has a higher chance to apply the Hemorrhaging status effect.",
   icon: "/esoui/art/icons/ability_warden_018_c.dds",
   esoSkillId: 85993,
   isMorph: true,

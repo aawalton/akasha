@@ -8,7 +8,7 @@ export const vengeanceLivingVines = {
   key: "vengeance-living-vines",
   baseName: "Vengeance Living Vines",
   description:
-    '"Grow vines to embrace you or an ally and heal them for |cffffff24096|r Health over |cffffff5|r seconds."',
+    "Grow vines to embrace you or an ally and heal them for |cffffff24096|r Health over |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_warden_010.dds",
   esoSkillId: 238065,
   isMorph: false,

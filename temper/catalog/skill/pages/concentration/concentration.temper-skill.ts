@@ -8,7 +8,7 @@ export const concentration = {
   key: "concentration",
   baseName: "Concentration",
   description:
-    '"Increases your Physical and Spell Penetration by 939 for each piece of Light Armor worn.\\n\\nCurrent bonus: 0"',
+    "Increases your Physical and Spell Penetration by 939 for each piece of Light Armor worn.\n\nCurrent bonus: 0",
   icon: "/esoui/art/icons/ability_sorcerer_060.dds",
   esoSkillId: 45562,
   isMorph: false,

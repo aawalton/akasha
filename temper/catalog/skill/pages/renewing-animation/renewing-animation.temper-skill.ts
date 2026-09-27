@@ -8,7 +8,7 @@ export const renewingAnimation = {
   key: "renewing-animation",
   baseName: "Reanimate",
   description:
-    '"Bring your allies back from the brink of death, resurrecting up to 3 allies at the target location.\\n\\nYou restore 5300 Magicka and Stamina for each ally you successfully resurrect."',
+    "Bring your allies back from the brink of death, resurrecting up to 3 allies at the target location.\n\nYou restore 5300 Magicka and Stamina for each ally you successfully resurrect.",
   icon: "/esoui/art/icons/ability_necromancer_018_a.dds",
   esoSkillId: 40118367,
   isMorph: true,

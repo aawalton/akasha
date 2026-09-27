@@ -8,7 +8,7 @@ export const vengeancePiercingJavelin = {
   key: "vengeance-piercing-javelin",
   baseName: "Vengeance Piercing Javelin",
   description:
-    '"Hurl your spear at an enemy with godlike strength knocking them back |cffffff15|r meters.\\n\\nThis ability cannot be blocked."',
+    "Hurl your spear at an enemy with godlike strength knocking them back |cffffff15|r meters.\n\nThis ability cannot be blocked.",
   icon: "/esoui/art/icons/ability_templar_returning_spear.dds",
   esoSkillId: 237863,
   isMorph: false,

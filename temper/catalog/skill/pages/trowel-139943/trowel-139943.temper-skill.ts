@@ -8,7 +8,7 @@ export const trowel139943 = {
   key: "trowel-139943",
   baseName: "Trowel",
   description:
-    '"Removes |cFFFFFF3|r layers of dirt or rock from a |cFFFFFF1x1|r area.\\n\\nCosts |c19D3FF2 Intuition|r to use."',
+    "Removes |cFFFFFF3|r layers of dirt or rock from a |cFFFFFF1x1|r area.\n\nCosts |c19D3FF2 Intuition|r to use.",
   icon: "/esoui/art/icons/u26_ability_digging_01.dds",
   esoSkillId: 139943,
   isMorph: false,

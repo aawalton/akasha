@@ -8,7 +8,7 @@ export const darkVeil36552 = {
   key: "dark-veil-36552",
   baseName: "Dark Veil",
   description:
-    '"Increases the duration of your Shadow abilities by |cffffff1|r second.\\n\\nDoes not apply to Shadow Cloak or its morphs."',
+    "Increases the duration of your Shadow abilities by |cffffff1|r second.\n\nDoes not apply to Shadow Cloak or its morphs.",
   icon: "/esoui/art/icons/ability_sorcerer_036.dds",
   esoSkillId: 36552,
   isMorph: false,

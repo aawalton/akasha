@@ -7,7 +7,7 @@ export const vengeanceRushedCeremony = {
   title: "Vengeance Rushed Ceremony",
   key: "vengeance-rushed-ceremony",
   baseName: "Vengeance Rushed Ceremony",
-  description: '"Heal yourself or an ally for |cffffff16065|r Health."',
+  description: "Heal yourself or an ally for |cffffff16065|r Health.",
   icon: "/esoui/art/icons/ability_templar_rushed_ceremony.dds",
   esoSkillId: 238001,
   isMorph: false,

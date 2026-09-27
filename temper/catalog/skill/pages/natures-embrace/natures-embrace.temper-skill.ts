@@ -8,7 +8,7 @@ export const naturesEmbrace = {
   key: "natures-embrace",
   baseName: "Nature's Grasp",
   description:
-    '"Launch a vine to swing yourself to an ally, healing you and them for 3594 Health over 10 seconds. Gain 3 Ultimate when either of these effects complete while you are in combat."',
+    "Launch a vine to swing yourself to an ally, healing you and them for 3594 Health over 10 seconds. Gain 3 Ultimate when either of these effects complete while you are in combat.",
   icon: "/esoui/art/icons/ability_warden_011_b.dds",
   esoSkillId: 93940,
   isMorph: true,

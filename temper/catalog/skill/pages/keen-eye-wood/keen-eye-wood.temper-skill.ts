@@ -7,7 +7,7 @@ export const keenEyeWood = {
   title: "Keen Eye: Wood",
   key: "keen-eye-wood",
   baseName: "Keen Eye: Wood",
-  description: '"Wood in the world will be easier to see when you are 40 meters or closer."',
+  description: "Wood in the world will be easier to see when you are 40 meters or closer.",
   icon: "/esoui/art/icons/ability_smith_002.dds",
   esoSkillId: 47859,
   isMorph: false,

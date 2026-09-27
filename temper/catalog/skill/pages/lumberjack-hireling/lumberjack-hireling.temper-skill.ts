@@ -8,7 +8,7 @@ export const lumberjackHireling = {
   key: "lumberjack-hireling",
   baseName: "Lumberjack Hireling",
   description:
-    '"A hireling will send you even more woodworking materials and possibly other items every day. You have a greater chance at better quality materials."',
+    "A hireling will send you even more woodworking materials and possibly other items every day. You have a greater chance at better quality materials.",
   icon: "/esoui/art/icons/ability_tradecraft_007.dds",
   esoSkillId: 48186,
   isMorph: false,

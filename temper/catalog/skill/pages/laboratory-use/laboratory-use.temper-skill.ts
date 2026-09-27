@@ -7,7 +7,7 @@ export const laboratoryUse = {
   title: "Laboratory Use",
   key: "laboratory-use",
   baseName: "Laboratory Use",
-  description: '"Allows the use of up to 3 reagents while mixing Potions or Poisons."',
+  description: "Allows the use of up to 3 reagents while mixing Potions or Poisons.",
   icon: "/esoui/art/icons/ability_alchemy_002.dds",
   esoSkillId: 45555,
   isMorph: false,

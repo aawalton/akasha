@@ -8,7 +8,7 @@ export const acrobat = {
   key: "acrobat",
   baseName: "Acrobat",
   description:
-    '"Increases your experience gain with the Bow skill line by 15%.\\n\\nDecreases your fall damage taken by 10%."',
+    "Increases your experience gain with the Bow skill line by 15%.\n\nDecreases your fall damage taken by 10%.",
   icon: "/esoui/art/icons/passive_weapon_025.dds",
   esoSkillId: 36008,
   isMorph: false,

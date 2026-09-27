@@ -8,7 +8,7 @@ export const funnelHealth34838 = {
   key: "funnel-health-34838",
   baseName: "Strife",
   description:
-    '"Steal an enemy\'s life force, dealing |cffffff5562|r Magic Damage and healing you or |cffffff3|r other nearby allies for |cffffff51|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds."',
+    "Steal an enemy's life force, dealing |cffffff5562|r Magic Damage and healing you or |cffffff3|r other nearby allies for |cffffff51|r% of the damage inflicted every |cffffff2|r seconds for |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_012_b.dds",
   esoSkillId: 34838,
   isMorph: true,

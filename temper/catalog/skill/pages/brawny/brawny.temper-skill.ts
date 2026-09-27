@@ -7,7 +7,7 @@ export const brawny = {
   title: "Brawny",
   key: "brawny",
   baseName: "Brawny",
-  description: '"Increases your Max Stamina by 1000."',
+  description: "Increases your Max Stamina by 1000.",
   icon: "/esoui/art/icons/ability_dragonknight_020.dds",
   esoSkillId: 45309,
   isMorph: false,

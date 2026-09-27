@@ -8,7 +8,7 @@ export const barbedTrap = {
   key: "barbed-trap",
   baseName: "Trap Beast",
   description:
-    '"Set a sharpened blade trap at your location, which takes 1.5 seconds to arm and lasts for 20 seconds.\\n\\nWhen triggered, the trap deals 1438 Bleed Damage, an additional 3580 Bleed Damage over 20 seconds, and grants you Minor Force, increasing your Critical Damage by 10% for the duration.\\n\\nEnemies hit by the initial hit are afflicted with the Hemorrhaging status effect.\\n\\n Enemies who activate the trap are immobilized for 2 seconds."',
+    "Set a sharpened blade trap at your location, which takes 1.5 seconds to arm and lasts for 20 seconds.\n\nWhen triggered, the trap deals 1438 Bleed Damage, an additional 3580 Bleed Damage over 20 seconds, and grants you Minor Force, increasing your Critical Damage by 10% for the duration.\n\nEnemies hit by the initial hit are afflicted with the Hemorrhaging status effect.\n\n Enemies who activate the trap are immobilized for 2 seconds.",
   icon: "/esoui/art/icons/ability_fightersguild_004_a.dds",
   esoSkillId: 42747,
   isMorph: true,

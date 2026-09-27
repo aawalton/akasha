@@ -8,7 +8,7 @@ export const spearWall = {
   key: "spear-wall",
   baseName: "Spear Wall",
   description:
-    '"Gain Minor Berserk and Minor Protection for 6 seconds, increasing damage done and reducing damage taken by 5%."',
+    "Gain Minor Berserk and Minor Protection for 6 seconds, increasing damage done and reducing damage taken by 5%.",
   icon: "/esoui/art/icons/ability_templar_027.dds",
   esoSkillId: 44721,
   isMorph: false,

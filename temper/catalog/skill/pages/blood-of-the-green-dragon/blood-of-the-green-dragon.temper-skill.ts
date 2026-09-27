@@ -8,7 +8,7 @@ export const bloodOfTheGreenDragon = {
   key: "blood-of-the-green-dragon",
   baseName: "Dragon Blood",
   description:
-    '"Draw on your draconic blood to heal for |cffffff5194|r Health, increasing by up to |cffffff50|r% additional healing based on your missing Health. Heals for an additional |cffffff3220|r Health over |cffffff5|r seconds. This ability scales off your Max Health.\\n\\nYou also gain Major Endurance and Fortitude and Minor Vitality, increasing Health and Stamina Recovery by |cffffff30|r% and increasing healing received and damage shield strength by |cffffff6|r% for |cffffff20|r seconds."',
+    "Draw on your draconic blood to heal for |cffffff5194|r Health, increasing by up to |cffffff50|r% additional healing based on your missing Health. Heals for an additional |cffffff3220|r Health over |cffffff5|r seconds. This ability scales off your Max Health.\n\nYou also gain Major Endurance and Fortitude and Minor Vitality, increasing Health and Stamina Recovery by |cffffff30|r% and increasing healing received and damage shield strength by |cffffff6|r% for |cffffff20|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_011_b.dds",
   esoSkillId: 32744,
   isMorph: true,

@@ -8,7 +8,7 @@ export const spectralAssassin = {
   key: "spectral-assassin",
   baseName: "Spectral Assassin",
   description:
-    '"15% chance to shroud you when using the Blade of Woe, shielding you from being witnessed and receiving a Bounty."',
+    "15% chance to shroud you when using the Blade of Woe, shielding you from being witnessed and receiving a Bounty.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_006.dds",
   esoSkillId: 77401,
   isMorph: false,

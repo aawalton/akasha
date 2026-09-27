@@ -8,7 +8,7 @@ export const vengeanceLotusFlower = {
   key: "vengeance-lotus-flower",
   baseName: "Vengeance Lotus Flower",
   description:
-    '"Embrace the lotus blessing, granting you Major Mending, Prophecy, and Savagery for |cffffff20|r seconds, increasing your healing done by |cffffff16|r% and Spell and Weapon Critical rating by |cffffff2629|r."',
+    "Embrace the lotus blessing, granting you Major Mending, Prophecy, and Savagery for |cffffff20|r seconds, increasing your healing done by |cffffff16|r% and Spell and Weapon Critical rating by |cffffff2629|r.",
   icon: "/esoui/art/icons/ability_warden_009.dds",
   esoSkillId: 238067,
   isMorph: false,

@@ -8,7 +8,7 @@ export const volley = {
   key: "volley",
   baseName: "Volley",
   description:
-    '"Launch a multitude of arrows into the sky to rain down, dealing |cffffff1196|r Physical Damage to enemies in the target area every |cffffff1|r second for |cffffff8|r seconds, after a |cffffff2|r second delay."',
+    "Launch a multitude of arrows into the sky to rain down, dealing |cffffff1196|r Physical Damage to enemies in the target area every |cffffff1|r second for |cffffff8|r seconds, after a |cffffff2|r second delay.",
   icon: "/esoui/art/icons/ability_bow_003.dds",
   esoSkillId: 28876,
   isMorph: false,

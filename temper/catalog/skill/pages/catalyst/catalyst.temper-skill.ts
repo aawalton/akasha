@@ -7,7 +7,7 @@ export const catalyst = {
   title: "Catalyst",
   key: "catalyst",
   baseName: "Catalyst",
-  description: '"After drinking a potion you gain 22 Ultimate."',
+  description: "After drinking a potion you gain 22 Ultimate.",
   icon: "/esoui/art/icons/passive_sorcerer_046.dds",
   esoSkillId: 45135,
   isMorph: false,

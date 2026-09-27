@@ -8,7 +8,7 @@ export const killerSBlade = {
   key: "killer-s-blade",
   baseName: "Assassin's Blade",
   description:
-    '"Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff4038|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\\n\\nHeals you for |cffffff7547|r if the enemy dies within |cffffff2|r seconds of being struck."',
+    "Thrust a caustic blade with lethal precision to stab an enemy, dealing |cffffff4038|r Disease Damage. Deals up to |cffffff400|r% more damage to enemies with less than |cffffff50|r% Health.\n\nHeals you for |cffffff7547|r if the enemy dies within |cffffff2|r seconds of being struck.",
   icon: "/esoui/art/icons/ability_nightblade_017_a.dds",
   esoSkillId: 34843,
   isMorph: true,

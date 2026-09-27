@@ -8,7 +8,7 @@ export const dizzyingSwing38814 = {
   key: "dizzying-swing-38814",
   baseName: "Uppercut",
   description:
-    '"Slam an enemy with an upward swing, dealing |cffffff9595|r Physical Damage and setting them Off Balance for |cffffff7|r seconds.  \\n\\nHitting an enemy that is already Off Balance stuns them for |cffffff2|r seconds.\\n\\nTargets that are immune to Off Balance are snared by |cffffff40|r% for |cffffff2|r seconds."',
+    "Slam an enemy with an upward swing, dealing |cffffff9595|r Physical Damage and setting them Off Balance for |cffffff7|r seconds.  \n\nHitting an enemy that is already Off Balance stuns them for |cffffff2|r seconds.\n\nTargets that are immune to Off Balance are snared by |cffffff40|r% for |cffffff2|r seconds.",
   icon: "/esoui/art/icons/ability_2handed_001_a.dds",
   esoSkillId: 38814,
   isMorph: true,

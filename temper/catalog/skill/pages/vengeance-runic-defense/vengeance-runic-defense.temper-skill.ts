@@ -8,7 +8,7 @@ export const vengeanceRunicDefense = {
   key: "vengeance-runic-defense",
   baseName: "Vengeance Runic Defense",
   description:
-    '"Cast forth a complex rune granting you and up to 2 group members Minor Resolve for |cffffff20|r seconds, increasing your Armor by |cffffff2974|r.\\n\\nYou gain Minor Protection for |cffffff20|r seconds, reducing your damage taken by |cffffff5|r%."',
+    "Cast forth a complex rune granting you and up to 2 group members Minor Resolve for |cffffff20|r seconds, increasing your Armor by |cffffff2974|r.\n\nYou gain Minor Protection for |cffffff20|r seconds, reducing your damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_arcanist_010.dds",
   esoSkillId: 238262,
   isMorph: false,

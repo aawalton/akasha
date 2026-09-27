@@ -7,7 +7,7 @@ export const preemptivePower = {
   title: "Preemptive Power",
   key: "preemptive-power",
   baseName: "Preemptive Power",
-  description: '"Start each Scrying attempt with an additional row of facets already claimed."',
+  description: "Start each Scrying attempt with an additional row of facets already claimed.",
   icon: "/esoui/art/icons/ability_scrying_09.dds",
   esoSkillId: 139777,
   isMorph: false,

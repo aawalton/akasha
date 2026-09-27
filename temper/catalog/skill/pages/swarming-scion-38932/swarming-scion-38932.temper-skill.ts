@@ -8,7 +8,7 @@ export const swarmingScion38932 = {
   key: "swarming-scion-38932",
   baseName: "Blood Scion",
   description:
-    '"Transform into a monstrous creature of the night, instantly healing to full Health.\\n\\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls. \\n\\nBats also swarm around you and shred enemies that come close, dealing |cffffff3028|r Magic Damage every |cffffff1|r second."',
+    "Transform into a monstrous creature of the night, instantly healing to full Health.\n\nWhile transformed, your Max Health, Magicka, and Stamina are increased by |cffffff10000|r, you heal for |cffffff15|r% of all damage you deal, and you can see enemies through walls. \n\nBats also swarm around you and shred enemies that come close, dealing |cffffff3028|r Magic Damage every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_u26_vampire_06_a.dds",
   esoSkillId: 38932,
   isMorph: true,

@@ -8,7 +8,7 @@ export const siphoningAttacks = {
   key: "siphoning-attacks",
   baseName: "Siphoning Strikes",
   description:
-    '"Channel a portion of your soul to convert Health to 2600 Magicka and Stamina.\\n\\nWhile slotted on either bar, your soul yearns for the warmth of life. All damage you deal heals you for 1250 Health and restores 200 Magicka and Stamina, up to once every 1 second."',
+    "Channel a portion of your soul to convert Health to 2600 Magicka and Stamina.\n\nWhile slotted on either bar, your soul yearns for the warmth of life. All damage you deal heals you for 1250 Health and restores 200 Magicka and Stamina, up to once every 1 second.",
   icon: "/esoui/art/icons/ability_nightblade_003_b.dds",
   esoSkillId: 38050,
   isMorph: true,

@@ -8,7 +8,7 @@ export const illustriousHealing = {
   key: "illustrious-healing",
   baseName: "Grand Healing",
   description:
-    '"Summon restoring spirits with your staff, healing you and your allies in the target area for 5486 Health over 15 seconds."',
+    "Summon restoring spirits with your staff, healing you and your allies in the target area for 5486 Health over 15 seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_004b.dds",
   esoSkillId: 41255,
   isMorph: true,

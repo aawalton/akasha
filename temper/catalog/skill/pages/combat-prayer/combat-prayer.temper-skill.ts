@@ -8,7 +8,7 @@ export const combatPrayer = {
   key: "combat-prayer",
   baseName: "Blessing of Protection",
   description:
-    '"Slam your staff down to activate its blessings, healing you and your allies in front of you for 2614 Health.\\n\\nAlso grants Minor Berserk and Minor Resolve increasing you and your allies\' damage done by 5% and Physical Resistance and Spell Resistance by 2974 for 10 seconds."',
+    "Slam your staff down to activate its blessings, healing you and your allies in front of you for 2614 Health.\n\nAlso grants Minor Berserk and Minor Resolve increasing you and your allies' damage done by 5% and Physical Resistance and Spell Resistance by 2974 for 10 seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_003_b.dds",
   esoSkillId: 41189,
   isMorph: true,

@@ -8,7 +8,7 @@ export const evolvingRunemend186189 = {
   key: "evolving-runemend-186189",
   baseName: "Runemend",
   description:
-    '"Craft a series of adaptive Apocryphal runes, then propel them at yourself or an ally in front of you. The runes heal for |cffffff3653|r Health three times, an additional |cffffff4107|r Health over |cffffff6|r seconds, and generate Crux.\\n\\nEach active Crux reduces the cost of this ability by |cffffff3|r%."',
+    "Craft a series of adaptive Apocryphal runes, then propel them at yourself or an ally in front of you. The runes heal for |cffffff3653|r Health three times, an additional |cffffff4107|r Health over |cffffff6|r seconds, and generate Crux.\n\nEach active Crux reduces the cost of this ability by |cffffff3|r%.",
   icon: "/esoui/art/icons/ability_arcanist_013_a.dds",
   esoSkillId: 186189,
   isMorph: true,

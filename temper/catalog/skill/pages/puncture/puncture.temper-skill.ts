@@ -8,7 +8,7 @@ export const puncture = {
   key: "puncture",
   baseName: "Puncture",
   description:
-    '"Thrust your weapon with disciplined precision at an enemy, dealing |cffffff4036|r Physical Damage and taunting them to attack you for |cffffff15|r seconds.\\n\\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff15|r seconds."',
+    "Thrust your weapon with disciplined precision at an enemy, dealing |cffffff4036|r Physical Damage and taunting them to attack you for |cffffff15|r seconds.\n\nAlso inflicts Major Breach on the enemy, reducing their Physical and Spell Resistance by |cffffff5948|r for |cffffff15|r seconds.",
   icon: "/esoui/art/icons/ability_1handed_002.dds",
   esoSkillId: 28306,
   isMorph: false,

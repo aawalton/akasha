@@ -7,7 +7,7 @@ export const accuracy30930 = {
   title: "Accuracy",
   key: "accuracy-30930",
   baseName: "Accuracy",
-  description: '"Increases your Critical Chance rating by |cffffff657|r."',
+  description: "Increases your Critical Chance rating by |cffffff657|r.",
   icon: "/esoui/art/icons/ability_weapon_024.dds",
   esoSkillId: 30930,
   isMorph: false,

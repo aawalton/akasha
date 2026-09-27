@@ -7,7 +7,7 @@ export const resistFlame36593 = {
   title: "Resist Flame",
   key: "resist-flame-36593",
   baseName: "Resist Flame",
-  description: '"Increases your Flame Resistance by |cffffff1540|r."',
+  description: "Increases your Flame Resistance by |cffffff1540|r.",
   icon: "/esoui/art/icons/ability_sorcerer_010.dds",
   esoSkillId: 36593,
   isMorph: false,

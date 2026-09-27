@@ -7,7 +7,7 @@ export const conditioning117752 = {
   title: "Conditioning",
   key: "conditioning-117752",
   baseName: "Conditioning",
-  description: '"Increases your Max Stamina by |cffffff600|r."',
+  description: "Increases your Max Stamina by |cffffff600|r.",
   icon: "/esoui/art/icons/ability_dragonknight_021.dds",
   esoSkillId: 117752,
   isMorph: false,

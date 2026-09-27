@@ -8,7 +8,7 @@ export const vengeanceGrimFocus = {
   key: "vengeance-grim-focus",
   baseName: "Vengeance Grim Focus",
   description:
-    '"Focus your lethal intent into a spectral bow to fire at an enemy, dealing |cffffff20034|r Magic Damage, up to once every |cffffff5|r seconds."',
+    "Focus your lethal intent into a spectral bow to fire at an enemy, dealing |cffffff20034|r Magic Damage, up to once every |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_005.dds",
   esoSkillId: 237605,
   isMorph: false,

@@ -8,7 +8,7 @@ export const impulse = {
   key: "impulse",
   baseName: "Impulse",
   description:
-    '"Release a surge of elemental energy, dealing |cffffff6400|r Magic Damage to nearby enemies.\\n\\nFire Impulse hits Burning enemies with Impulse Afterburn, which deals more damage based on their missing Health.\\n\\nFrost Impulse also provides Minor Protection.\\n\\nShock Impulse\'s damage increases based on the number of enemies hit."',
+    "Release a surge of elemental energy, dealing |cffffff6400|r Magic Damage to nearby enemies.\n\nFire Impulse hits Burning enemies with Impulse Afterburn, which deals more damage based on their missing Health.\n\nFrost Impulse also provides Minor Protection.\n\nShock Impulse's damage increases based on the number of enemies hit.",
   icon: "/esoui/art/icons/ability_destructionstaff_008.dds",
   esoSkillId: 28800,
   isMorph: false,

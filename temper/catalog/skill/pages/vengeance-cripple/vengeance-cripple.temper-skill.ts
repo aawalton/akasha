@@ -8,7 +8,7 @@ export const vengeanceCripple = {
   key: "vengeance-cripple",
   baseName: "Vengeance Cripple",
   description:
-    '"Sap an enemy\'s agility and wrack them with pain, dealing |cffffff14178|r Magic Damage over |cffffff5|r seconds and reducing their Movement Speed by |cffffff30|r% for |cffffff4|r seconds."',
+    "Sap an enemy's agility and wrack them with pain, dealing |cffffff14178|r Magic Damage over |cffffff5|r seconds and reducing their Movement Speed by |cffffff30|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_nightblade_006.dds",
   esoSkillId: 237713,
   isMorph: false,

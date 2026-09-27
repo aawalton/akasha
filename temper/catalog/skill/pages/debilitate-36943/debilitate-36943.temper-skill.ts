@@ -8,7 +8,7 @@ export const debilitate36943 = {
   key: "debilitate-36943",
   baseName: "Cripple",
   description:
-    '"Sap an enemy\'s agility and wrack them with pain, dealing |cffffff15730|r Magic Damage over |cffffff20|r seconds and reducing their Movement Speed by |cffffff50|r% for |cffffff4|r seconds.\\n\\nThis ability has a higher chance of applying the Overcharged status effect."',
+    "Sap an enemy's agility and wrack them with pain, dealing |cffffff15730|r Magic Damage over |cffffff20|r seconds and reducing their Movement Speed by |cffffff50|r% for |cffffff4|r seconds.\n\nThis ability has a higher chance of applying the Overcharged status effect.",
   icon: "/esoui/art/icons/ability_nightblade_006_a.dds",
   esoSkillId: 36943,
   isMorph: true,

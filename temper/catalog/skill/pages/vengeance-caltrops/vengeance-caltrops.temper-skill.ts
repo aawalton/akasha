@@ -8,7 +8,7 @@ export const vengeanceCaltrops = {
   key: "vengeance-caltrops",
   baseName: "Vengeance Caltrops",
   description:
-    '"Hurl a ball of caltrops that scatter over the target area, dealing |cffffff7056|r Physical Damage to up to 3 enemies inside, and reducing their Movement Speed by |cffffff50|r% for |cffffff4|r seconds."',
+    "Hurl a ball of caltrops that scatter over the target area, dealing |cffffff7056|r Physical Damage to up to 3 enemies inside, and reducing their Movement Speed by |cffffff50|r% for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_ava_001.dds",
   esoSkillId: 244514,
   isMorph: false,

@@ -8,7 +8,7 @@ export const unflinchingRage = {
   key: "unflinching-rage",
   baseName: "Unflinching Rage",
   description:
-    '"Increases your Max Health by 1000.\\n\\nWhen you deal damage, you heal for 2125 Health.  This can occur once every 4 seconds."',
+    "Increases your Max Health by 1000.\n\nWhen you deal damage, you heal for 2125 Health.  This can occur once every 4 seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_018.dds",
   esoSkillId: 84672,
   isMorph: false,

@@ -8,7 +8,7 @@ export const greaterStormAtronach23492 = {
   key: "greater-storm-atronach-23492",
   baseName: "Summon Storm Atronach",
   description:
-    '"Summon an immobile storm atronach at the target location. Its arrival deals |cffffff8261|r Shock Damage and stuns enemies for |cffffff3|r seconds. The atronach zaps the closest enemy, dealing |cffffff4952|r Shock Damage every |cffffff1|r second.\\n\\nAn ally near the atronach can activate the Charged Lightning synergy, granting nearby allies Major Berserk for |cffffff10|r seconds, increasing their damage done by |cffffff10|r%."',
+    "Summon an immobile storm atronach at the target location. Its arrival deals |cffffff8261|r Shock Damage and stuns enemies for |cffffff3|r seconds. The atronach zaps the closest enemy, dealing |cffffff4952|r Shock Damage every |cffffff1|r second.\n\nAn ally near the atronach can activate the Charged Lightning synergy, granting nearby allies Major Berserk for |cffffff10|r seconds, increasing their damage done by |cffffff10|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_greater_storm_atronach.dds",
   esoSkillId: 23492,
   isMorph: true,

@@ -7,8 +7,7 @@ export const battlefieldMobility29422 = {
   title: "Battlefield Mobility",
   key: "battlefield-mobility-29422",
   baseName: "Battlefield Mobility",
-  description:
-    '"Reduces the Movement Speed penalty of Bracing.\\n\\nCurrent penalty: |cffffff48|r%"',
+  description: "Reduces the Movement Speed penalty of Bracing.\n\nCurrent penalty: |cffffff48|r%",
   icon: "/esoui/art/icons/ability_armor_009.dds",
   esoSkillId: 29422,
   isMorph: false,

@@ -8,7 +8,7 @@ export const harnessedQuintessence = {
   key: "harnessed-quintessence",
   baseName: "Harnessed Quintessence",
   description:
-    '"You master the warp and weft of your very soul. When you are restored Magicka or Stamina, increase your Weapon and Spell Damage by 284 for 10 seconds."',
+    "You master the warp and weft of your very soul. When you are restored Magicka or Stamina, increase your Weapon and Spell Damage by 284 for 10 seconds.",
   icon: "/esoui/art/icons/passive_arcanist_02.dds",
   esoSkillId: 184858,
   isMorph: false,

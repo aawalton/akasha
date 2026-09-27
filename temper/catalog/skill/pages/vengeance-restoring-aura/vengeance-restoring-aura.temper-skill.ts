@@ -8,7 +8,7 @@ export const vengeanceRestoringAura = {
   key: "vengeance-restoring-aura",
   baseName: "Vengeance Restoring Aura",
   description:
-    '"Champion the cause of divine glory to apply Minor Endurance, Minor Fortitude, and Minor Intellect to nearby group members for |cffffff20|r seconds, increasing Health, Magicka, and Stamina Recovery by |cffffff15|r%."',
+    "Champion the cause of divine glory to apply Minor Endurance, Minor Fortitude, and Minor Intellect to nearby group members for |cffffff20|r seconds, increasing Health, Magicka, and Stamina Recovery by |cffffff15|r%.",
   icon: "/esoui/art/icons/ability_templar_restoring_sigil.dds",
   esoSkillId: 238019,
   isMorph: false,

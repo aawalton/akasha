@@ -8,7 +8,7 @@ export const icyAura86193 = {
   key: "icy-aura-86193",
   baseName: "Icy Aura",
   description:
-    '"When you take direct damage from an enemy in melee range, you apply a stack of Bite of Winter to them for |cffffff1.5|r seconds, up to |cffffff5|r stacks max. Attackers at max stacks are afflicted with Major Maim for |cffffff1.5|r seconds, reducing their damage done by |cffffff10|r%."',
+    "When you take direct damage from an enemy in melee range, you apply a stack of Bite of Winter to them for |cffffff1.5|r seconds, up to |cffffff5|r stacks max. Attackers at max stacks are afflicted with Major Maim for |cffffff1.5|r seconds, reducing their damage done by |cffffff10|r%.",
   icon: "/esoui/art/icons/passive_warden_003.dds",
   esoSkillId: 86193,
   isMorph: false,

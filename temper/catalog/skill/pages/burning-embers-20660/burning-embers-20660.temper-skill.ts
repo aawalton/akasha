@@ -8,7 +8,7 @@ export const burningEmbers20660 = {
   key: "burning-embers-20660",
   baseName: "Searing Strike",
   description:
-    '"Slash your foe with a fiery claw, dealing |cffffff4038|r Flame Damage and an additional |cffffff11425|r Flame Damage over |cffffff10|r seconds.\\n\\nYou heal for |cffffff4291|r Health from the initial hit and |cffffff644|r Health each subsequent tick, scaling off your Max Health.\\n\\nThe initial hit always applies the Burning status effect."',
+    "Slash your foe with a fiery claw, dealing |cffffff4038|r Flame Damage and an additional |cffffff11425|r Flame Damage over |cffffff10|r seconds.\n\nYou heal for |cffffff4291|r Health from the initial hit and |cffffff644|r Health each subsequent tick, scaling off your Max Health.\n\nThe initial hit always applies the Burning status effect.",
   icon: "/esoui/art/icons/ability_dragonknight_003_b.dds",
   esoSkillId: 20660,
   isMorph: true,

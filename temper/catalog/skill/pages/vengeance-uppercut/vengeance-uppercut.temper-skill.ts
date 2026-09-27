@@ -7,7 +7,7 @@ export const vengeanceUppercut = {
   title: "Vengeance Uppercut",
   key: "vengeance-uppercut",
   baseName: "Vengeance Uppercut",
-  description: '"Slam an enemy with an upward swing, dealing |cffffff12799|r Physical Damage."',
+  description: "Slam an enemy with an upward swing, dealing |cffffff12799|r Physical Damage.",
   icon: "/esoui/art/icons/ability_2handed_001.dds",
   esoSkillId: 240453,
   isMorph: false,

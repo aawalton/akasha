@@ -7,7 +7,7 @@ export const redDiamond36155 = {
   title: "Red Diamond",
   key: "red-diamond-36155",
   baseName: "Red Diamond",
-  description: '"Reduces the cost of all your abilities by |cffffff2|r%."',
+  description: "Reduces the cost of all your abilities by |cffffff2|r%.",
   icon: "/esoui/art/icons/ability_dragonknight_028.dds",
   esoSkillId: 36155,
   isMorph: false,

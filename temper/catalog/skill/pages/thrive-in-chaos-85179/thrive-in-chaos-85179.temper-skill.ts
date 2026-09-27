@@ -8,7 +8,7 @@ export const thriveInChaos85179 = {
   key: "thrive-in-chaos-85179",
   baseName: "Lacerate",
   description:
-    '"Slash enemies in front of you, causing them to bleed for |cffffff22855|r Bleed Damage over |cffffff8|r seconds and healing you for |cffffff51|r% of the damage done.\\n\\nEach enemy hit increases your damage done by |cffffff6|r% for |cffffff15|r seconds. This effect can stack up to |cffffff6|r times.\\n\\nEach tick applies the Hemorrhaging status effect."',
+    "Slash enemies in front of you, causing them to bleed for |cffffff22855|r Bleed Damage over |cffffff8|r seconds and healing you for |cffffff51|r% of the damage done.\n\nEach enemy hit increases your damage done by |cffffff6|r% for |cffffff15|r seconds. This effect can stack up to |cffffff6|r times.\n\nEach tick applies the Hemorrhaging status effect.",
   icon: "/esoui/art/icons/ability_dualwield_006_b.dds",
   esoSkillId: 85179,
   isMorph: true,

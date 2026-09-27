@@ -7,7 +7,7 @@ export const metalworking = {
   title: "Metalworking",
   key: "metalworking",
   baseName: "Metalworking",
-  description: '"Allows the use of Rubedite Ingots."',
+  description: "Allows the use of Rubedite Ingots.",
   icon: "/esoui/art/icons/ability_smith_001.dds",
   esoSkillId: 70041,
   isMorph: false,

@@ -8,7 +8,7 @@ export const solarDisturbance21758 = {
   key: "solar-disturbance-21758",
   baseName: "Nova",
   description:
-    '"Call down a fragment of the sun, dealing |cffffff4038|r Magic Damage every |cffffff1|r second for |cffffff8|r seconds to enemies in the area and applying Major Maim to them for |cffffff10|r seconds, reducing their damage done by |cffffff10|r%.\\n\\nAn ally near the fragment can activate the Supernova synergy, dealing |cffffff9576|r Magic Damage to all enemies in the area and stunning them for |cffffff3|r seconds."',
+    "Call down a fragment of the sun, dealing |cffffff4038|r Magic Damage every |cffffff1|r second for |cffffff8|r seconds to enemies in the area and applying Major Maim to them for |cffffff10|r seconds, reducing their damage done by |cffffff10|r%.\n\nAn ally near the fragment can activate the Supernova synergy, dealing |cffffff9576|r Magic Damage to all enemies in the area and stunning them for |cffffff3|r seconds.",
   icon: "/esoui/art/icons/ability_templar_solar_disturbance.dds",
   esoSkillId: 21758,
   isMorph: true,

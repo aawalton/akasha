@@ -8,7 +8,7 @@ export const craftsman = {
   key: "craftsman",
   baseName: "Craftsman",
   description:
-    '"Increases your experience gain with the Heavy Armor skill line by 15%.\\n\\nIncreases your crafting inspiration gained by 10%."',
+    "Increases your experience gain with the Heavy Armor skill line by 15%.\n\nIncreases your crafting inspiration gained by 10%.",
   icon: "/esoui/art/icons/ability_dragonknight_021.dds",
   esoSkillId: 33293,
   isMorph: false,

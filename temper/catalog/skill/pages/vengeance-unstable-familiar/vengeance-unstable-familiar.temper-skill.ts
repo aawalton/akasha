@@ -8,7 +8,7 @@ export const vengeanceUnstableFamiliar = {
   key: "vengeance-unstable-familiar",
   baseName: "Vengeance Unstable Familiar",
   description:
-    '"Command the powers of Oblivion to send a Daedric familiar to fight. After a delay, the familiar attacks and deals |cffffff18020|r Shock Damage over |cffffff6|r seconds to up to 3 nearby enemies."',
+    "Command the powers of Oblivion to send a Daedric familiar to fight. After a delay, the familiar attacks and deals |cffffff18020|r Shock Damage over |cffffff6|r seconds to up to 3 nearby enemies.",
   icon: "/esoui/art/icons/ability_sorcerer_unstable_fimiliar.dds",
   esoSkillId: 237865,
   isMorph: false,

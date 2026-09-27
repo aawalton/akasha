@@ -8,7 +8,7 @@ export const vigor = {
   key: "vigor",
   baseName: "Vigor",
   description:
-    '"Let loose a battle cry, instilling yourself and nearby allies with resolve and healing them for |cffffff10950|r Health over |cffffff10|r seconds."',
+    "Let loose a battle cry, instilling yourself and nearby allies with resolve and healing them for |cffffff10950|r Health over |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_ava_vigor.dds",
   esoSkillId: 61503,
   isMorph: false,

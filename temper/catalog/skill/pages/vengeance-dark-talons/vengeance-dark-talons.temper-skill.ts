@@ -8,7 +8,7 @@ export const vengeanceDarkTalons = {
   key: "vengeance-dark-talons",
   baseName: "Vengeance Dark Talons",
   description:
-    '"Call forth talons from the ground, dealing |cffffff8820|r Flame Damage to up to 3 enemies near you and immobilizing them for |cffffff4|r seconds."',
+    "Call forth talons from the ground, dealing |cffffff8820|r Flame Damage to up to 3 enemies near you and immobilizing them for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_010.dds",
   esoSkillId: 237636,
   isMorph: false,

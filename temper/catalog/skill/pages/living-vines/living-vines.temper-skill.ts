@@ -8,7 +8,7 @@ export const livingVines = {
   key: "living-vines",
   baseName: "Living Vines",
   description:
-    '"Grow vines to embrace you or the lowest health ally in front of you for |cffffff10|r seconds. The vines heal the target for |cffffff2191|r Health each time they take damage. This effect can occur once every |cffffff1|r second."',
+    "Grow vines to embrace you or the lowest health ally in front of you for |cffffff10|r seconds. The vines heal the target for |cffffff2191|r Health each time they take damage. This effect can occur once every |cffffff1|r second.",
   icon: "/esoui/art/icons/ability_warden_010.dds",
   esoSkillId: 85552,
   isMorph: false,

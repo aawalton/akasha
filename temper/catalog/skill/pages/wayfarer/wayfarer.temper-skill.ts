@@ -8,7 +8,7 @@ export const wayfarer = {
   key: "wayfarer",
   baseName: "Wayfarer",
   description:
-    '"Increases your experience gain with the One Hand and Shield skill line by 15%.\\n\\nIncreases the duration of any eaten food by 15 minutes."',
+    "Increases your experience gain with the One Hand and Shield skill line by 15%.\n\nIncreases the duration of any eaten food by 15 minutes.",
   icon: "/esoui/art/icons/ability_templar_027.dds",
   esoSkillId: 84680,
   isMorph: false,

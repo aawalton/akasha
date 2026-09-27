@@ -8,7 +8,7 @@ export const soulAssault40420 = {
   key: "soul-assault-40420",
   baseName: "Soul Strike",
   description:
-    '"Burn an enemy from the inside with soulfire, dealing |cffffff66904|r Magic Damage over |cffffff6|r seconds.\\n\\nWhile channeling this ability, you gain immunity to all disabling effects.\\n\\nEnemies affected by this ability are revealed for |cffffff3|r seconds and may not enter stealth or invisibility.\\n\\nThis ability is considered direct damage."',
+    "Burn an enemy from the inside with soulfire, dealing |cffffff66904|r Magic Damage over |cffffff6|r seconds.\n\nWhile channeling this ability, you gain immunity to all disabling effects.\n\nEnemies affected by this ability are revealed for |cffffff3|r seconds and may not enter stealth or invisibility.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_otherclass_002_b.dds",
   esoSkillId: 40420,
   isMorph: true,

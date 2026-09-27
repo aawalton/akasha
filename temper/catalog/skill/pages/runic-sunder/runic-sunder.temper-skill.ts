@@ -8,7 +8,7 @@ export const runicSunder = {
   key: "runic-sunder",
   baseName: "Runic Jolt",
   description:
-    '"Craft a defensive Apocryphal rune that deals 1161 Physical Damage. The rune steals 2200 Armor and applies Minor Maim for 15 seconds, reducing their damage done by 5%.\\n\\nThe rune also taunts for 15 seconds if it would not cause taunt immunity, and generates Crux. While slotted, damage taken is reduced by 2% per active Crux."',
+    "Craft a defensive Apocryphal rune that deals 1161 Physical Damage. The rune steals 2200 Armor and applies Minor Maim for 15 seconds, reducing their damage done by 5%.\n\nThe rune also taunts for 15 seconds if it would not cause taunt immunity, and generates Crux. While slotted, damage taken is reduced by 2% per active Crux.",
   icon: "/esoui/art/icons/ability_arcanist_007_a.dds",
   esoSkillId: 40183430,
   isMorph: true,

@@ -8,7 +8,7 @@ export const enduringUndeath = {
   key: "enduring-undeath",
   baseName: "Life amid Death",
   description:
-    '"Release residual fragments of fallen souls at the target location, healing you and your allies for 2399 Health.\\n\\nConsumes a corpse on cast to continue to heal you and your allies in the area for 2390 Health over 5 seconds. You can consume up to 5 additional corpses on cast, with each corpse extending the duration of the heal over time by 5 seconds."',
+    "Release residual fragments of fallen souls at the target location, healing you and your allies for 2399 Health.\n\nConsumes a corpse on cast to continue to heal you and your allies in the area for 2390 Health over 5 seconds. You can consume up to 5 additional corpses on cast, with each corpse extending the duration of the heal over time by 5 seconds.",
   icon: "/esoui/art/icons/ability_necromancer_016_b.dds",
   esoSkillId: 40118809,
   isMorph: true,

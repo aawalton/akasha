@@ -8,7 +8,7 @@ export const masterRitualist = {
   key: "master-ritualist",
   baseName: "Master Ritualist",
   description:
-    '"Increases resurrection speed by 20%. \\n\\nResurrected allies return with 100% more Health. \\n\\nGives you a 50% chance to fill an empty Soul Gem after each successful resurrection."',
+    "Increases resurrection speed by 20%. \n\nResurrected allies return with 100% more Health. \n\nGives you a 50% chance to fill an empty Soul Gem after each successful resurrection.",
   icon: "/esoui/art/icons/ability_templar_026.dds",
   esoSkillId: 45202,
   isMorph: false,

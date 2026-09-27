@@ -7,7 +7,7 @@ export const shadowRider = {
   title: "Shadow Rider",
   key: "shadow-rider",
   baseName: "Shadow Rider",
-  description: '"Aggression radius from hostile monsters is decreased by 50% while mounted."',
+  description: "Aggression radius from hostile monsters is decreased by 50% while mounted.",
   icon: "/esoui/art/icons/ability_darkbrotherhood_passive_005.dds",
   esoSkillId: 77400,
   isMorph: false,

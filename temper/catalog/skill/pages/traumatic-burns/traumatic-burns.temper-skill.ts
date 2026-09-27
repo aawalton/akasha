@@ -8,7 +8,7 @@ export const traumaticBurns = {
   key: "traumatic-burns",
   baseName: "Traumatic Burns",
   description:
-    '"Fire cares not for love, or coin, or creed. It consumes.\\n\\nDealing direct damage with an Ardent Flame ability causes the target to take |cffffff5|r% increased Flame Damage and reduces their Movement Speed by |cffffff15|r% for |cffffff5|r seconds."',
+    "Fire cares not for love, or coin, or creed. It consumes.\n\nDealing direct damage with an Ardent Flame ability causes the target to take |cffffff5|r% increased Flame Damage and reduces their Movement Speed by |cffffff15|r% for |cffffff5|r seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_023.dds",
   esoSkillId: 29430,
   isMorph: false,

@@ -8,7 +8,7 @@ export const boneGoliathTransformation = {
   key: "bone-goliath-transformation",
   baseName: "Bone Goliath Transformation",
   description:
-    '"Become a horrific Bone Goliath, increasing your Max Health by |cffffff30000|r for |cffffff20|r seconds and immediately restoring |cffffff30000|r Health. \\n\\nWhile transformed, your damaging Light Attacks restore |cffffff402|r Health and your fully-charged Heavy Attacks restore |cffffff1005|r Health. This ability scales off your Max Health."',
+    "Become a horrific Bone Goliath, increasing your Max Health by |cffffff30000|r for |cffffff20|r seconds and immediately restoring |cffffff30000|r Health. \n\nWhile transformed, your damaging Light Attacks restore |cffffff402|r Health and your fully-charged Heavy Attacks restore |cffffff1005|r Health. This ability scales off your Max Health.",
   icon: "/esoui/art/icons/ability_necromancer_012.dds",
   esoSkillId: 115001,
   isMorph: false,

@@ -7,7 +7,7 @@ export const yFfreSEndurance = {
   title: "Y'ffre's Endurance",
   key: "y-ffre-s-endurance",
   baseName: "Y'ffre's Endurance",
-  description: '"Increases your Stamina Recovery by |cffffff86|r."',
+  description: "Increases your Stamina Recovery by |cffffff86|r.",
   icon: "/esoui/art/icons/ability_templar_002.dds",
   esoSkillId: 64279,
   isMorph: false,

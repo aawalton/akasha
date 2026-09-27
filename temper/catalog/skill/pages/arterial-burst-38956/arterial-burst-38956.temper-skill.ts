@@ -8,7 +8,7 @@ export const arterialBurst38956 = {
   key: "arterial-burst-38956",
   baseName: "Eviscerate",
   description:
-    '"Rend an enemy, dealing |cffffff8342|r Magic Damage and applying the Hemorrhaging status effect.\\n\\nDeals up to |cffffff33|r% more damage based on your missing Health.\\n\\nIf you use this ability while you are under |cffffff50|r% Health, it will always be a Critical Strike."',
+    "Rend an enemy, dealing |cffffff8342|r Magic Damage and applying the Hemorrhaging status effect.\n\nDeals up to |cffffff33|r% more damage based on your missing Health.\n\nIf you use this ability while you are under |cffffff50|r% Health, it will always be a Critical Strike.",
   icon: "/esoui/art/icons/ability_u26_vampire_01_b.dds",
   esoSkillId: 38956,
   isMorph: true,

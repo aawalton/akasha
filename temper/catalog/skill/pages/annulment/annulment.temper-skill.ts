@@ -8,7 +8,7 @@ export const annulment = {
   key: "annulment",
   baseName: "Annulment",
   description:
-    '"Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs |cffffff5046|r damage for |cffffff6|r seconds. Damage shield strength capped at |cffffff50|r% of your Max Health."',
+    "Convert a portion of your Magicka into a protective ward, gaining a damage shield that absorbs |cffffff5046|r damage for |cffffff6|r seconds. Damage shield strength capped at |cffffff50|r% of your Max Health.",
   icon: "/esoui/art/icons/ability_armor_003.dds",
   esoSkillId: 29338,
   isMorph: false,

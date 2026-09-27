@@ -8,7 +8,7 @@ export const shatterspikeMantle = {
   key: "shatterspike-mantle",
   baseName: "Earthspike Mantle",
   description:
-    '"Envelop your body in molten spikes to increase your damage done by 100 and gain Major Resolve, increasing Physical and Spell Resistance by 5948 for 20 seconds.\\n\\nAs the armor forms you blast foes around you with shattered obsidian, causing them to take 17006 Flame Damage over 20 seconds. When this effect deals damage you gain a stack of Landslide, up to once every 10 seconds."',
+    "Envelop your body in molten spikes to increase your damage done by 100 and gain Major Resolve, increasing Physical and Spell Resistance by 5948 for 20 seconds.\n\nAs the armor forms you blast foes around you with shattered obsidian, causing them to take 17006 Flame Damage over 20 seconds. When this effect deals damage you gain a stack of Landslide, up to once every 10 seconds.",
   icon: "/esoui/art/icons/ability_dragonknight_007_a.dds",
   esoSkillId: 20323,
   isMorph: true,

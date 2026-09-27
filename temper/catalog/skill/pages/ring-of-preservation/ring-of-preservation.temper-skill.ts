@@ -8,7 +8,7 @@ export const ringOfPreservation = {
   key: "ring-of-preservation",
   baseName: "Circle of Protection",
   description:
-    '"Brand the earth at your location with a rune of protection for 10 seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing damage taken by 5% and increasing Stamina Recovery by 15%, and are healed for 435 Health every 1 second."',
+    "Brand the earth at your location with a rune of protection for 10 seconds. You and your allies in the area gain Minor Protection and Minor Endurance, reducing damage taken by 5% and increasing Stamina Recovery by 15%, and are healed for 435 Health every 1 second.",
   icon: "/esoui/art/icons/ability_fightersguild_001_b.dds",
   esoSkillId: 42548,
   isMorph: true,

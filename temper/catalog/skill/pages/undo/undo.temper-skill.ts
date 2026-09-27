@@ -8,7 +8,7 @@ export const undo = {
   key: "undo",
   baseName: "Undo",
   description:
-    '"Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago."',
+    "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were |cffffff4|r seconds ago.",
   icon: "/esoui/art/icons/ability_psijic_001.dds",
   esoSkillId: 103478,
   isMorph: false,

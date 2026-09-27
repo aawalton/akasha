@@ -8,7 +8,7 @@ export const impale = {
   key: "impale",
   baseName: "Assassin's Blade",
   description:
-    '"Throw a magic blade with lethal precision to strike an enemy, dealing 1161 Magic Damage. Deals 330% more damage to enemies below 25% Health."',
+    "Throw a magic blade with lethal precision to strike an enemy, dealing 1161 Magic Damage. Deals 330% more damage to enemies below 25% Health.",
   icon: "/esoui/art/icons/ability_nightblade_017_b.dds",
   esoSkillId: 35596,
   isMorph: true,

@@ -8,7 +8,7 @@ export const reverseSlice38823 = {
   key: "reverse-slice-38823",
   baseName: "Reverse Slash",
   description:
-    '"Shift your grip and unleash a devastating slice, dealing |cffffff4406|r Physical Damage to your foe and all nearby enemies. Deals up to |cffffff300|r% more damage to enemies with less than |cffffff50|r% Health."',
+    "Shift your grip and unleash a devastating slice, dealing |cffffff4406|r Physical Damage to your foe and all nearby enemies. Deals up to |cffffff300|r% more damage to enemies with less than |cffffff50|r% Health.",
   icon: "/esoui/art/icons/ability_2handed_004_b.dds",
   esoSkillId: 38823,
   isMorph: true,

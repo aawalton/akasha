@@ -8,7 +8,7 @@ export const cruxweaverArmor = {
   key: "cruxweaver-armor",
   baseName: "Fatewoven Armor",
   description:
-    '"Forge defiant runic armor around you, granting Major Resolve for 30 seconds, increasing your Armor by 5948.\\n\\nWhile the armor persists, taking damage applies Minor Breach, reducing the Armor of your attacker by 2974 for 6 seconds. Blows against your armor also generate Crux, up to once every 5 seconds."',
+    "Forge defiant runic armor around you, granting Major Resolve for 30 seconds, increasing your Armor by 5948.\n\nWhile the armor persists, taking damage applies Minor Breach, reducing the Armor of your attacker by 2974 for 6 seconds. Blows against your armor also generate Crux, up to once every 5 seconds.",
   icon: "/esoui/art/icons/ability_arcanist_009_a.dds",
   esoSkillId: 40185908,
   isMorph: true,

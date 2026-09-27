@@ -8,7 +8,7 @@ export const vengeanceRuneFocus = {
   key: "vengeance-rune-focus",
   baseName: "Vengeance Rune Focus",
   description:
-    '"Create a rune of celestial protection and gain Major Resolve for |cffffff20|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r."',
+    "Create a rune of celestial protection and gain Major Resolve for |cffffff20|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r.",
   icon: "/esoui/art/icons/ability_templar_rune_focus.dds",
   esoSkillId: 238041,
   isMorph: false,

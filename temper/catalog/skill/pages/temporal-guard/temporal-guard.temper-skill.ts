@@ -8,7 +8,7 @@ export const temporalGuard = {
   key: "temporal-guard",
   baseName: "Undo",
   description:
-    '"Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were 4 seconds ago.\\n\\nWhile slotted you gain Minor Protection, reducing your damage taken by 5%."',
+    "Step backwards in time, resetting your Health, Magicka, Stamina, and position to what they were 4 seconds ago.\n\nWhile slotted you gain Minor Protection, reducing your damage taken by 5%.",
   icon: "/esoui/art/icons/ability_psijic_001_b.dds",
   esoSkillId: 40103564,
   isMorph: true,

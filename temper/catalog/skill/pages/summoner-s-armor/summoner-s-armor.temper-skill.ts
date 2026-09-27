@@ -8,7 +8,7 @@ export const summonerSArmor = {
   key: "summoner-s-armor",
   baseName: "Bone Armor",
   description:
-    '"Wrap yourself in hardened bone, granting you Major Resolve and Minor Resolve for |cffffff30|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r and |cffffff2974|r.\\n\\nWhile active, reduce the cost of Blastbones, Skeletal Mage, and Spirit Mender by |cffffff15|r%.\\n\\nIf cast during combat, you can cast a corpse consuming ability on yourself. This effect can occur once every |cffffff10|r seconds."',
+    "Wrap yourself in hardened bone, granting you Major Resolve and Minor Resolve for |cffffff30|r seconds, increasing your Physical Resistance and Spell Resistance by |cffffff5948|r and |cffffff2974|r.\n\nWhile active, reduce the cost of Blastbones, Skeletal Mage, and Spirit Mender by |cffffff15|r%.\n\nIf cast during combat, you can cast a corpse consuming ability on yourself. This effect can occur once every |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_necromancer_008_b.dds",
   esoSkillId: 118244,
   isMorph: true,

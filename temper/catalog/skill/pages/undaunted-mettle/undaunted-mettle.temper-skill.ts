@@ -8,7 +8,7 @@ export const undauntedMettle = {
   key: "undaunted-mettle",
   baseName: "Undaunted Mettle",
   description:
-    '"Increases your Max Health, Stamina, and Magicka by 2% per type of Armor (Heavy, Medium, Light) that you have equipped. \\n\\nCurrent bonus: 0%."',
+    "Increases your Max Health, Stamina, and Magicka by 2% per type of Armor (Heavy, Medium, Light) that you have equipped. \n\nCurrent bonus: 0%.",
   icon: "/esoui/art/icons/ability_armor_014.dds",
   esoSkillId: 55386,
   isMorph: false,

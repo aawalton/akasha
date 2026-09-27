@@ -8,7 +8,7 @@ export const fatedFortune = {
   key: "fated-fortune",
   baseName: "Fated Fortune",
   description:
-    '"Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by 12% for 7 seconds."',
+    "Warp fate when you generate or consume Crux, increasing your Critical Damage and Critical Healing by 12% for 7 seconds.",
   icon: "/esoui/art/icons/passive_arcanist_04.dds",
   esoSkillId: 184847,
   isMorph: false,

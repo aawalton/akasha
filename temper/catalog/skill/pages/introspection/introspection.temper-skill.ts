@@ -8,7 +8,7 @@ export const introspection = {
   key: "introspection",
   baseName: "Meditate",
   description:
-    '"Focus your body and mind into a meditative state, healing for 1800 Health and restoring 1500 Magicka and Stamina every 1 second.\\n\\nMaintaining the channel increases the Health restored by 10% every tick, up to a maximum of 50%.\\n\\nYou will remain in a meditative state until you toggle this ability off or are interrupted."',
+    "Focus your body and mind into a meditative state, healing for 1800 Health and restoring 1500 Magicka and Stamina every 1 second.\n\nMaintaining the channel increases the Health restored by 10% every tick, up to a maximum of 50%.\n\nYou will remain in a meditative state until you toggle this ability off or are interrupted.",
   icon: "/esoui/art/icons/ability_psijic_004_b.dds",
   esoSkillId: 40103665,
   isMorph: true,

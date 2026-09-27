@@ -8,7 +8,7 @@ export const grandHealing = {
   key: "grand-healing",
   baseName: "Grand Healing",
   description:
-    '"Summon restoring spirits with your staff, healing you and your allies in the target area for |cffffff14597|r Health over |cffffff10|r seconds."',
+    "Summon restoring spirits with your staff, healing you and your allies in the target area for |cffffff14597|r Health over |cffffff10|r seconds.",
   icon: "/esoui/art/icons/ability_restorationstaff_004.dds",
   esoSkillId: 28385,
   isMorph: false,

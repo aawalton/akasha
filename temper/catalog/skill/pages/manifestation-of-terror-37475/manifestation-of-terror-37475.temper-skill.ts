@@ -8,7 +8,7 @@ export const manifestationOfTerror37475 = {
   key: "manifestation-of-terror-37475",
   baseName: "Aspect of Terror",
   description:
-    '"Conceal a sinister trap at the target location, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\\n\\nWhen the trap is triggered, up to |cffffff6|r enemies in the area become terrified, causing them to cower in fear for |cffffff2|r seconds and be afflicted with Major Cowardice for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r."',
+    "Conceal a sinister trap at the target location, which takes |cffffff2|r seconds to arm and lasts for |cffffff20|r seconds.\n\nWhen the trap is triggered, up to |cffffff6|r enemies in the area become terrified, causing them to cower in fear for |cffffff2|r seconds and be afflicted with Major Cowardice for |cffffff10|r seconds, reducing their Weapon and Spell Damage by |cffffff430|r.",
   icon: "/esoui/art/icons/ability_nightblade_016_b.dds",
   esoSkillId: 37475,
   isMorph: true,

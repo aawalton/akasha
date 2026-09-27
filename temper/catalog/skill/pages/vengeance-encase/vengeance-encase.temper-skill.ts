@@ -8,7 +8,7 @@ export const vengeanceEncase = {
   key: "vengeance-encase",
   baseName: "Vengeance Encase",
   description:
-    '"Call forth Daedric shards from the earth to immobilize up to 3 enemies in front of you for |cffffff4|r seconds."',
+    "Call forth Daedric shards from the earth to immobilize up to 3 enemies in front of you for |cffffff4|r seconds.",
   icon: "/esoui/art/icons/ability_sorcerer_cyclone.dds",
   esoSkillId: 247103,
   isMorph: false,

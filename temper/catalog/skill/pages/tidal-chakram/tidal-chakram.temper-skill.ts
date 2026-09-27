@@ -8,7 +8,7 @@ export const tidalChakram = {
   key: "tidal-chakram",
   baseName: "Chakram Shields",
   description:
-    "\"Carve the Baron of Breakers' runes to create spinning discs. Discs surround you or up to 4 allies in front of you, granting a shield that absorbs 3264 damage for 6 seconds.\\n\\nConsume Crux to cause the shields to heal for 33% of the shield's remaining strength every 1 second per Crux spent.\\n\\nDiscs prefer your reticle target, or low-Health targets without shields.\"",
+    "Carve the Baron of Breakers' runes to create spinning discs. Discs surround you or up to 4 allies in front of you, granting a shield that absorbs 3264 damage for 6 seconds.\n\nConsume Crux to cause the shields to heal for 33% of the shield's remaining strength every 1 second per Crux spent.\n\nDiscs prefer your reticle target, or low-Health targets without shields.",
   icon: "/esoui/art/icons/ability_arcanist_015_b.dds",
   esoSkillId: 40186209,
   isMorph: true,

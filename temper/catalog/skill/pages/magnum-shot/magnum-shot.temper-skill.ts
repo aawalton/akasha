@@ -8,7 +8,7 @@ export const magnumShot = {
   key: "magnum-shot",
   baseName: "Scatter Shot",
   description:
-    '"Blast an enemy with an explosive arrow, dealing 1727 Physical Damage and knocking them back 8 meters."',
+    "Blast an enemy with an explosive arrow, dealing 1727 Physical Damage and knocking them back 8 meters.",
   icon: "/esoui/art/icons/ability_bow_004_b.dds",
   esoSkillId: 40869,
   isMorph: true,

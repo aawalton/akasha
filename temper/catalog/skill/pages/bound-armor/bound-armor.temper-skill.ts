@@ -8,7 +8,7 @@ export const boundArmor = {
   key: "bound-armor",
   baseName: "Bound Armor",
   description:
-    '"Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by |cffffff36|r% for |cffffff3|r seconds. The duration is based on your combined Physical and Spell Resistance.\\n\\nWhile slotted on either ability bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%."',
+    "Protect yourself with the power of Oblivion, creating a suit of Daedric mail that increases your block mitigation by |cffffff36|r% for |cffffff3|r seconds. The duration is based on your combined Physical and Spell Resistance.\n\nWhile slotted on either ability bar, you gain Minor Protection, reducing your damage taken by |cffffff5|r%.",
   icon: "/esoui/art/icons/ability_sorcerer_bound_armor.dds",
   esoSkillId: 24158,
   isMorph: false,

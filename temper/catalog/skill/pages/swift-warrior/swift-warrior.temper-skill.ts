@@ -8,7 +8,7 @@ export const swiftWarrior = {
   key: "swift-warrior",
   baseName: "Swift Warrior",
   description:
-    '"Increases your Weapon and Spell Damage by 258.\\n\\nReduces the cost of Sprint by 12% and increases the Movement Speed bonus of Sprint by 10%."',
+    "Increases your Weapon and Spell Damage by 258.\n\nReduces the cost of Sprint by 12% and increases the Movement Speed bonus of Sprint by 10%.",
   icon: "/esoui/art/icons/ability_dragonknight_029.dds",
   esoSkillId: 45312,
   isMorph: false,

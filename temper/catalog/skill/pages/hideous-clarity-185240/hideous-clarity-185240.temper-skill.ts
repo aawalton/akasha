@@ -8,7 +8,7 @@ export const hideousClarity185240 = {
   key: "hideous-clarity-185240",
   baseName: "Hideous Clarity",
   description:
-    '"You\'ve stared too long into the abyss. When you generate Crux, you restore |cffffff112|r Magicka and Stamina."',
+    "You've stared too long into the abyss. When you generate Crux, you restore |cffffff112|r Magicka and Stamina.",
   icon: "/esoui/art/icons/passive_arcanist_10.dds",
   esoSkillId: 185240,
   isMorph: false,

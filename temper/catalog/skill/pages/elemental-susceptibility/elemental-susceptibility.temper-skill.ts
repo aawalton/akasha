@@ -8,7 +8,7 @@ export const elementalSusceptibility = {
   key: "elemental-susceptibility",
   baseName: "Weakness to Elements",
   description:
-    '"Send the elements to sap an enemy\'s defenses and afflict them with Major Breach for 30 seconds, reducing their Physical and Spell Resistance by 5948.\\n\\nEvery 7.5 seconds the enemy is afflicted with the Burning, Chilled, and Concussion status effect."',
+    "Send the elements to sap an enemy's defenses and afflict them with Major Breach for 30 seconds, reducing their Physical and Spell Resistance by 5948.\n\nEvery 7.5 seconds the enemy is afflicted with the Burning, Chilled, and Concussion status effect.",
   icon: "/esoui/art/icons/ability_destructionstaff_011b.dds",
   esoSkillId: 41556,
   isMorph: true,

@@ -8,7 +8,7 @@ export const bondWithNature86064 = {
   key: "bond-with-nature-86064",
   baseName: "Bond with Nature",
   description:
-    '"Anytime one of your Animal Companion skills end, you are healed for |cffffff780|r Health."',
+    "Anytime one of your Animal Companion skills end, you are healed for |cffffff780|r Health.",
   icon: "/esoui/art/icons/passive_warden_010.dds",
   esoSkillId: 86064,
   isMorph: false,

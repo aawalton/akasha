@@ -8,7 +8,7 @@ export const eviscerate = {
   key: "eviscerate",
   baseName: "Eviscerate",
   description:
-    '"Rend an enemy, dealing |cffffff8076|r Magic Damage and applying the Hemorrhaging status effect.\\n\\nDeals up to |cffffff33|r% more damage based on your missing Health."',
+    "Rend an enemy, dealing |cffffff8076|r Magic Damage and applying the Hemorrhaging status effect.\n\nDeals up to |cffffff33|r% more damage based on your missing Health.",
   icon: "/esoui/art/icons/ability_u26_vampire_01.dds",
   esoSkillId: 32893,
   isMorph: false,

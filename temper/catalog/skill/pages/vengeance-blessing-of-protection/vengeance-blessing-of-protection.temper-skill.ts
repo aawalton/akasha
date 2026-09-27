@@ -8,7 +8,7 @@ export const vengeanceBlessingOfProtection = {
   key: "vengeance-blessing-of-protection",
   baseName: "Vengeance Blessing of Protection",
   description:
-    '"Slam your staff down to activate its blessings, healing up to 3 of you and your allies in front of you for |cffffff12048|r Health."',
+    "Slam your staff down to activate its blessings, healing up to 3 of you and your allies in front of you for |cffffff12048|r Health.",
   icon: "/esoui/art/icons/ability_restorationstaff_003.dds",
   esoSkillId: 246616,
   isMorph: false,

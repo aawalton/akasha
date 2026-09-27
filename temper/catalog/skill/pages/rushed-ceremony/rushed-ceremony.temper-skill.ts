@@ -8,7 +8,7 @@ export const rushedCeremony = {
   key: "rushed-ceremony",
   baseName: "Rushed Ceremony",
   description:
-    '"Beacon your inner light, healing yourself or a wounded ally in front of you for |cffffff10960|r Health."',
+    "Beacon your inner light, healing yourself or a wounded ally in front of you for |cffffff10960|r Health.",
   icon: "/esoui/art/icons/ability_templar_rushed_ceremony.dds",
   esoSkillId: 22250,
   isMorph: false,

@@ -8,7 +8,7 @@ export const adrenalineRush = {
   key: "adrenaline-rush",
   baseName: "Adrenaline Rush",
   description:
-    '"When you deal damage, you restore 1005 Stamina. This effect can occur once every 5 seconds."',
+    "When you deal damage, you restore 1005 Stamina. This effect can occur once every 5 seconds.",
   icon: "/esoui/art/icons/ability_armor_012.dds",
   esoSkillId: 45315,
   isMorph: false,

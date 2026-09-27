@@ -7,7 +7,7 @@ export const rapidRot116199 = {
   title: "Rapid Rot",
   key: "rapid-rot-116199",
   baseName: "Rapid Rot",
-  description: '"Increases your damage done with damage over time effects by |cffffff5|r%."',
+  description: "Increases your damage done with damage over time effects by |cffffff5|r%.",
   icon: "/esoui/art/icons/passive_necromancer_004.dds",
   esoSkillId: 116199,
   isMorph: false,

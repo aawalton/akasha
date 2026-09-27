@@ -8,7 +8,7 @@ export const pestilentColossus = {
   key: "pestilent-colossus",
   baseName: "Frozen Colossus",
   description:
-    '"Unleash a pestilent Flesh Colossus to pulverize enemies in the area. The Colossus smashes the ground three times over 3 seconds, dealing 3200, 3360, and 3528 Disease Damage with the first, second, and third smash.\\n\\nDealing damage applies the Diseased status effect and Major Vulnerability to any enemy hit for 12 seconds, increasing their damage taken by 10%."',
+    "Unleash a pestilent Flesh Colossus to pulverize enemies in the area. The Colossus smashes the ground three times over 3 seconds, dealing 3200, 3360, and 3528 Disease Damage with the first, second, and third smash.\n\nDealing damage applies the Diseased status effect and Major Vulnerability to any enemy hit for 12 seconds, increasing their damage taken by 10%.",
   icon: "/esoui/art/icons/ability_necromancer_006_b.dds",
   esoSkillId: 40122395,
   isMorph: true,

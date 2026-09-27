@@ -7,7 +7,7 @@ export const vengeanceFlameSkull = {
   title: "Vengeance Flame Skull",
   key: "vengeance-flame-skull",
   baseName: "Vengeance Flame Skull",
-  description: '"Lob an explosive skull at an enemy, dealing |cffffff11686|r Flame Damage."',
+  description: "Lob an explosive skull at an enemy, dealing |cffffff11686|r Flame Damage.",
   icon: "/esoui/art/icons/ability_necromancer_001.dds",
   esoSkillId: 238081,
   isMorph: false,

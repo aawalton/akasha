@@ -8,7 +8,7 @@ export const rapidFire = {
   key: "rapid-fire",
   baseName: "Rapid Fire",
   description:
-    '"Unleash a barrage of arrows at an enemy, dealing |cffffff60561|r Physical Damage over |cffffff4|r seconds. \\n\\nYou can move at full speed and are immune to all disabling effects while channeling this attack.\\n\\nThis ability is considered direct damage."',
+    "Unleash a barrage of arrows at an enemy, dealing |cffffff60561|r Physical Damage over |cffffff4|r seconds. \n\nYou can move at full speed and are immune to all disabling effects while channeling this attack.\n\nThis ability is considered direct damage.",
   icon: "/esoui/art/icons/ability_bow_006.dds",
   esoSkillId: 83465,
   isMorph: false,
