@@ -81,9 +81,8 @@ export function CharacterEditorContent({ initialTab }: BuildEditorContentProps) 
       await remix({ sourceId: buildId, newId, newBuildHash, newBuildMetadata })
       router.push(`${characterUrl(toBuildId(newId), remixedBuild.name)}?tab=general`)
     } catch (error) {
-      toast.error(
-        error instanceof Error ? error.message : phrase(characterEditorContentRemixFailed.slug)
-      )
+      console.error("[character-editor-content] remixing the build failed:", error)
+      toast.error(phrase(characterEditorContentRemixFailed.slug))
     } finally {
       setIsRemixing(false)
     }
