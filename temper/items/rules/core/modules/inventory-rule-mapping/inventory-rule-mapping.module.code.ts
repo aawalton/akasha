@@ -1,4 +1,3 @@
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 import type { ItemCategoryNode } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import { buildConditionalActions } from "akasha/temper/items/rules/core/modules/conditional-actions/conditional-actions.module.code.ts"
 import { buildCraftingMaterialActions } from "akasha/temper/items/rules/core/modules/crafting-material-actions/crafting-material-actions.module.code.ts"
@@ -16,7 +15,7 @@ import { collectTraitActions } from "akasha/temper/items/rules/core/modules/trai
 
 export function rulesToInventoryConfig(
   settings: InventoryRules,
-  categories: Record<string, ItemCategoryNode> = ITEM_CATEGORY_TREE
+  categories: Readonly<Record<string, ItemCategoryNode>>
 ): InventoryConfig {
   const activeRules = settings.rules.filter((r) => r.active !== false)
   const states = resolveRuleConditionStates(activeRules, categories)

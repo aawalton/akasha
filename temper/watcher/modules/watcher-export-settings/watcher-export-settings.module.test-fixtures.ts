@@ -1,5 +1,6 @@
 import { asRecord } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
+import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
 import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import type { HeldPages } from "akasha/temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.code.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
@@ -10,6 +11,7 @@ import type {
 
 holdCompanionCatalogFromCheckout()
 holdSkillCatalogFromCheckout()
+const TREE = holdItemCategoryTreeFromCheckout()
 
 export type Client = Parameters<typeof runExportSettings>[1]
 
@@ -119,6 +121,7 @@ export function seamsFor(
       pages: { collect: async () => [], get: async () => null },
       inventoryRows: { latestReading: async () => undefined, dataOf: async () => null },
       readCharacters: async () => [],
+      itemCategories: async () => TREE,
       writeSideFile: (path, content) => {
         recorded.written.push({ path, content })
         return "hash-of-the-side-file"

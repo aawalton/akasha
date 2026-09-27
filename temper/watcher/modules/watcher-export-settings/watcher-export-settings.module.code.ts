@@ -8,6 +8,7 @@ import {
 import { serializeLuaBlock } from "akasha/temper/eso/saved-variable/modules/lua-serializer/lua-serializer.module.code.ts"
 import type { BackpackSettings } from "akasha/temper/items/core/modules/backpack-settings-types/backpack-settings-types.module.code.ts"
 import { DEFAULT_BACKPACK_SETTINGS } from "akasha/temper/items/core/modules/backpack-settings-types/backpack-settings-types.module.code.ts"
+import { loadItemCategoryTree } from "akasha/temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts"
 import { compileRules } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
 import { buildAllControlledRules } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import { rulesToInventoryConfig } from "akasha/temper/items/rules/core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts"
@@ -113,6 +114,7 @@ export interface ExportSettingsSeams {
   readonly pages: PageReader
   readonly inventoryRows: InventoryRowReader
   readonly readCharacters: TargetBuildCharacterReader
+  readonly itemCategories: typeof loadItemCategoryTree
   readonly writeSideFile: (path: string, content: string) => string
 }
 
@@ -207,6 +209,7 @@ const WATCHER_SEAMS: ExportSettingsSeams = {
   pages: DEFAULT_PAGE_READER,
   inventoryRows: PAGE_INVENTORY_ROWS,
   readCharacters: readCharactersWithTargetBuilds,
+  itemCategories: loadItemCategoryTree,
   writeSideFile: writeSideFileIfChanged,
 }
 
@@ -306,7 +309,7 @@ async function compileInventoryValues(
     characterPriority
   )
 
-  const sell = rulesToInventoryConfig(ruleSettings)
+  const sell = rulesToInventoryConfig(ruleSettings, (await seams.itemCategories()).keyed)
   const sellTimestamps = timestampsOf(ruleSettings)
   if (buyItemIds.size === 0) return { sell, sellTimestamps, sellCompiled: compiled }
 

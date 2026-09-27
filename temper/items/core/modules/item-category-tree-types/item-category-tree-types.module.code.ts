@@ -14,10 +14,6 @@ export interface ItemCategoryNode {
   children?: readonly ItemCategoryNode[]
 }
 
-export interface ItemCategoryTree {
-  [categoryId: string]: ItemCategoryNode | undefined
-}
-
 export type ItemCategoryRoots = readonly ItemCategoryNode[]
 
 export interface ClassifiableItem {
