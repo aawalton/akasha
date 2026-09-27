@@ -17,7 +17,17 @@ export const checkClassification = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set id with no category mapping is treated as the no-type source type.",
+      statement: "A set's source type is the category the environment answers for its set id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A set id the environment holds no category for is treated as the no-type source type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An environment that cannot say a set's category leaves the set source check indeterminate.",
     },
     {
       decisionKind: "decision-kind/absence",

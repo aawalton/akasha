@@ -47,3 +47,16 @@ export function setsAll(): SetCatalog {
 export function isSetsAllId(value: string): value is Slug {
   return setsAll().has(value)
 }
+
+const categoriesOf = new WeakMap<SetCatalog, ReadonlyMap<number, SetCategoryId>>()
+
+export function setCategoryOfEsoSet(esoSetId: number): SetCategoryId | undefined | "unknown" {
+  const catalog = held
+  if (catalog === null) return "unknown"
+  let found = categoriesOf.get(catalog)
+  if (found === undefined) {
+    found = new Map(catalog.list.map((one) => [one.esoSetId, one.subcategoryId]))
+    categoriesOf.set(catalog, found)
+  }
+  return found.get(esoSetId)
+}

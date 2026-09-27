@@ -25,5 +25,9 @@ export const setsAll = {
       decisionKind: "decision-kind/departure",
       statement: "One catalogue is held at a time, and a new reading replaces it whole.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A set's category is found by the number the game gives the set, off its page.",
+    },
   ],
 } as const satisfies Module

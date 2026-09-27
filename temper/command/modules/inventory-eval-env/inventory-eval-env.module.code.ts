@@ -20,6 +20,7 @@ import { TOTAL_SCRIPT_COUNT } from "akasha/temper/items/rules/core/modules/scrib
 import { hashItemKey } from "akasha/temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
 import type { EvalEnv } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import { resolveStaticItemKey } from "akasha/temper/items/rules/eval/modules/static-item-key/static-item-key.module.code.ts"
+import { setCategoryOfEsoSet } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { computeCharacterCanLevelMorphs } from "akasha/temper/player/skill-morph/access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts"
 
@@ -88,6 +89,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
       if (held === undefined) return 0
       return knownMotifChapters(held, styleId)?.size ?? 0
     },
+    getSetCategory: setCategoryOfEsoSet,
 
     getConsumableWanters: (itemId) => consumableWanters.get(itemId) ?? [],
     getConsumableStock: (itemId, charId) => {

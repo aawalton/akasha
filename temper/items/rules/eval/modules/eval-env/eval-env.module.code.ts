@@ -75,6 +75,8 @@ export interface EvalEnv {
   readonly getCharacterCanLevelMorphs: (charId: string) => LookupResult<boolean>
 
   readonly getKnownChapterCountForStyle: (charId: string, styleId: number) => LookupResult<number>
+
+  readonly getSetCategory: (esoSetId: number) => LookupResult<string | undefined>
 }
 
 export interface WantedEquipmentFacts {

@@ -43,5 +43,9 @@ export const evalEnv = {
       statement:
         "A skill line is named by its temper id rather than by the number the game gives it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A set's category is asked for by the number the game gives the set.",
+    },
   ],
 } as const satisfies Module

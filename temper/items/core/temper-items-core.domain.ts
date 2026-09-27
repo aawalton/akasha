@@ -57,7 +57,6 @@ export const temperItemsCore = {
     "module/motif-name-parser",
     "module/recipe-result-id-lookup",
     "module/script-knowledge-lookup",
-    "module/set-category-mappings",
     "module/shard-inventory",
     "module/capture-instant",
   ],

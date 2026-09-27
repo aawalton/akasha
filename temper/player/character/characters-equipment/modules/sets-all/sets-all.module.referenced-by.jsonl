@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts","typed":false,"deferred":false}

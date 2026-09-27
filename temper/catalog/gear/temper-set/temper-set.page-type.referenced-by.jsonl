@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"command/pages/temper/eso/generate/item-sets/temper-eso-generate-item-sets.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/addon/pages/items/modules/inventory-set-categories/inventory-set-categories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts","typed":false,"deferred":false}
@@ -8,6 +9,7 @@
 {"propertySlug":"import","fileName":"temper-set.page-type.ts","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-data/sets-set-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/addon/pages/items/crafting-sets/modules/sets-set-info/sets-set-info.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-set-categories/inventory-set-categories.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/catalog/gear/temper-set/pages/abyssal-brace/abyssal-brace.temper-set.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/catalog/gear/temper-set/pages/adamant-lurker/adamant-lurker.temper-set.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-set.page-type.types.ts","path":"temper/catalog/gear/temper-set/pages/adept-rider/adept-rider.temper-set.ts","typed":true,"deferred":false}

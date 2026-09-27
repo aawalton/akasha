@@ -13,6 +13,7 @@ import type {
   EvalEnv,
   WantedEquipmentFacts,
 } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
+import { setCategoryOfEsoSet } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 
 interface WebEnvExtras {
   readonly itemIdToCooldownGroup?: ReadonlyMap<number, string>
@@ -198,6 +199,7 @@ export function buildWebEvalEnv(
       if (knownChapters === undefined) return 0
       return knownChapters.size
     },
+    getSetCategory: setCategoryOfEsoSet,
   }
 }
 
@@ -227,6 +229,7 @@ const UNKNOWN_ENV: EvalEnv = {
   getCharacterCurseState: () => "unknown",
   getCharacterCanLevelMorphs: () => "unknown",
   getKnownChapterCountForStyle: () => "unknown",
+  getSetCategory: setCategoryOfEsoSet,
 }
 
 export function buildItemIdToCooldownGroup(

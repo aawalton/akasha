@@ -1,6 +1,6 @@
 import { esoTraitToTemperId } from "akasha/temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"
 import { itemNameMatchesPattern } from "akasha/temper/items/core/modules/item-name-pattern/item-name-pattern.module.code.ts"
-import { SET_ESO_ID_TO_CATEGORY } from "akasha/temper/items/core/modules/set-category-mappings/set-category-mappings.module.code.ts"
+
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import {
   type ConditionCheckResult,
@@ -12,7 +12,7 @@ import type { ItemFacts } from "akasha/temper/items/rules/eval/modules/item-fact
 export function checkClassification(
   rule: CompiledOrderedRule,
   facts: ItemFacts,
-  _ctx: EvalContext
+  ctx: EvalContext
 ): ConditionCheckResult {
   if (
     rule.canSell === undefined &&
@@ -78,7 +78,15 @@ export function checkClassification(
 
   if (rule.setSourceTypes !== undefined && rule.setSourceTypes.length > 0) {
     if (facts.setId !== undefined) {
-      const category = SET_ESO_ID_TO_CATEGORY[facts.setId] ?? "no-type"
+      const found = ctx.env.getSetCategory(facts.setId)
+      if (found === "unknown") {
+        return {
+          kind: "indeterminate",
+          conditionKind: "setSourceTypes",
+          missingSignal: "setCategory",
+        }
+      }
+      const category = found ?? "no-type"
       if (!rule.setSourceTypes.includes(category)) {
         return { kind: "fail", conditionKind: "setSourceTypes", detail: category }
       }

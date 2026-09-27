@@ -29,6 +29,7 @@ const STUB_ENV: EvalEnv = {
   getCharacterCurseState: () => "unknown",
   getCharacterCanLevelMorphs: () => "unknown",
   getKnownChapterCountForStyle: () => "unknown",
+  getSetCategory: () => "unknown",
 }
 
 export function ctxWith(overrides: Partial<EvalEnv>): EvalContext {

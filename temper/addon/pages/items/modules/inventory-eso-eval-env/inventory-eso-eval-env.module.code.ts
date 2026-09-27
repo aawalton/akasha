@@ -14,6 +14,7 @@ import {
 import { countItemInBag } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import { getSavedVariables } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { countScripts } from "akasha/temper/addon/pages/items/modules/inventory-scribing-knowledge/inventory-scribing-knowledge.module.code.ts"
+import { setCategoryOf } from "akasha/temper/addon/pages/items/modules/inventory-set-categories/inventory-set-categories.module.code.ts"
 import { buildGetCharacterSkillLineRanks } from "akasha/temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"
 import { canCharacterLevelMorphs } from "akasha/temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
@@ -301,5 +302,6 @@ export function buildEsoEvalEnv(): EvalEnv {
       if (!charData) return 0
       return knownChapterCountForStyleByCharData(charData, styleId)
     },
+    getSetCategory: (esoSetId) => setCategoryOf(esoSetId),
   }
 }
