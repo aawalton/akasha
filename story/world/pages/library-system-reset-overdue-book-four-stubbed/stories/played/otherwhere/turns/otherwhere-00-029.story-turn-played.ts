@@ -4,10 +4,19 @@ export const otherwhere00029 = {
   id: "01a0e511-1ed3-7fe9-9c3f-7593c5a77a1f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-029",
+  ownLength: 109,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 29,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-alan",
+    "character-other/otherwhere-links",
+    "character-other/otherwhere-engorged-bookworm-03",
+    "character-other/otherwhere-engorged-bookworm-04",
+    "character-other/otherwhere-engorged-bookworm-05",
+  ],
+  turnStatus: "turn-status/reviewers",
   action:
     "I pick up handfuls of salt again and bait out a lunge, then grab it by the neck and tackle it into the salt",
   beats: [
