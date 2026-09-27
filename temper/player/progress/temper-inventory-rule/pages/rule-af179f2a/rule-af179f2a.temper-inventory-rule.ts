@@ -9,7 +9,7 @@ export const ruleAf179f2a = {
     "Unknown writs, unidentified survey reports and unopened treasure maps are kept unopened; the open rule below never reaches them.",
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
-  displayOrder: 90,
+  displayOrder: 13,
   action: "temper-item-action/nothing",
   active: true,
   updatedAt: "2026-09-27T15:31:31.729Z",

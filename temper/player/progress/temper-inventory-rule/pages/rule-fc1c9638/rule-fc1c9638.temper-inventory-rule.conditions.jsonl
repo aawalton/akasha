@@ -1,4 +1,4 @@
-{"id":"01a0e37c-112f-7712-95d6-edcc10ddcb3a","conditionField":"temper-condition-field/known","conditionValue":"known"}
-{"id":"01a0e37c-112f-7b33-b11f-3e958796835a","conditionField":"temper-condition-field/can-list-at-guild-trader","conditionValue":"can-list-at-guild-trader"}
-{"id":"01a0e37c-112f-7ebb-83ab-1881d9b451cf","conditionField":"temper-condition-field/market-value","conditionValue":"MIN_LISTING_VALUE"}
-{"id":"01a0e37c-112f-7be6-9298-f9d5d945cfe1","conditionField":"temper-condition-field/market-value-op","conditionValue":"temper-comparison-op/at-least"}
+{"id":"01a0e37e-595d-758e-bb0c-756d84ca9067","conditionField":"temper-condition-field/known","conditionValue":"known"}
+{"id":"01a0e37e-595d-7d98-ac02-f9572747095c","conditionField":"temper-condition-field/can-list-at-guild-trader","conditionValue":"can-list-at-guild-trader"}
+{"id":"01a0e37e-595d-7309-bac1-181af3fd0ba1","conditionField":"temper-condition-field/market-value","conditionValue":"MIN_LISTING_VALUE"}
+{"id":"01a0e37e-595d-70b0-88a9-9dbaa321a0b6","conditionField":"temper-condition-field/market-value-op","conditionValue":"temper-comparison-op/at-least"}
