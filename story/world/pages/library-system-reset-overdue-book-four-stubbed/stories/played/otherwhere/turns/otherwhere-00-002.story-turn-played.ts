@@ -7,7 +7,8 @@ export const otherwhere00002 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 2,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     'I let the shorts drop to the floor, more comfortable in my black compression tights anyways and slip out of my shoes, standing in my socks on the floor. Somehow, I feel comfortable in my new skin, more comfortable than I was before. "Okay, I guess we\'re implementing isekai protocol. Status? Character Sheet? System?" I try to visualize myself to see if the blue box in front of me changes.',
+  lore: ["lore/otherwhere-universe"],
 } as const satisfies StoryTurnPlayed
