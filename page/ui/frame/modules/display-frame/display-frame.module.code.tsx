@@ -74,7 +74,10 @@ export function DisplayFrame({
       {footer != null && <FrameStickyFooter>{footer}</FrameStickyFooter>}
       {}
       {followMode !== null && showJumpToLatest && !chromeHidden && (
-        <div className="pointer-events-none sticky bottom-24 z-30 flex justify-center">
+        <div
+          data-slot="frame-jump-to-latest"
+          className="pointer-events-none sticky bottom-24 z-30 flex justify-center"
+        >
           {followMode === "top" ? (
             <button
               type="button"

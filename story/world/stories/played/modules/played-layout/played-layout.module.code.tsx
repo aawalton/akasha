@@ -73,6 +73,13 @@ export function PlayedLayout({
   const textAt = useRef(0)
   const wide = panelsAside !== null && asideDraws
   const showing = wide && panelsChosen
+  useEffect(() => {
+    if (!showing) return
+    document.documentElement.dataset.panelsShown = ""
+    return () => {
+      delete document.documentElement.dataset.panelsShown
+    }
+  }, [showing])
   const toggle = () => {
     if (showing) {
       const at = textAt.current
