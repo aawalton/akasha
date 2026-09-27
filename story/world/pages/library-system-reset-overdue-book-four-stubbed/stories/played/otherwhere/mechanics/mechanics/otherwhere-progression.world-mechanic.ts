@@ -1,0 +1,11 @@
+import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
+
+export const otherwhereProgression = {
+  id: "01a0e35f-6176-701f-ba2b-9be65171e3f1",
+  type: "page-type/world-mechanic",
+  slug: "otherwhere-progression",
+  title: "Progression",
+  world: "world/library-system-reset-overdue-book-four-stubbed",
+  description:
+    "Growth here is the world's own, with no levels, classes or experience points. She grows three ways. Knowledge: reading a book within one of her affinities and understanding it gives her the power in it; understanding is an otherwhere-action-check whose band is the book's depth (a primer easy, a working text standard, an advanced text hard, a master's work extreme), with bonuses for a close affinity, earlier books in the same line, quiet and time, and against her for a far affinity, haste or pain; strong or success gives the power, cost gives it with a price (a blinding headache, a drained day, a partial grasp needing another reading), failure gives nothing and the book waits until she has learned something new. A power learned is used through the action check like any act, its knowledge a bonus. Her affinities are unknown to her until the Library shows them or a book answers to her; the world builder settles them. Connection: her link to the Library begins tentative and deepens by synchronization at the core, which the Library asks for when its power and her readiness allow; each one widens what the interface shows her, sharpens her senses and raises her Librarian strength, a number the Library states only when a task asks for it. The Library: its power rises as she clears what drains it (engorged bookworms first), recovers lost and overdue books, repairs what is broken and draws patrons back, and falls when she spends it or fails; the Library states its state in its own flat lines (Emergency Power Mode, a percent operational, books retrieved against those needed), and a task it sets is done when its stated requirements are met, which closes a chapter. Open an interface window only at a crossing: a connection deepened, a power first gained, an affinity revealed, a branch opened, a task done; never for a number climbing.",
+} as const satisfies WorldMechanic
