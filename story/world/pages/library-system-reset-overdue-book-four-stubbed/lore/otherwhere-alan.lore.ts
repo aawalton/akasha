@@ -77,7 +77,7 @@ export const otherwhereAlan = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "She has shed the shorts and shoes, and wears only the tights, socks and grey shirt.",
+      fact: "Alan's bloodied shirt, tights and socks lie in a heap in the Librarian's quarters.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
@@ -117,7 +117,7 @@ export const otherwhereAlan = {
       ],
     },
     {
-      fact: "A bookworm bit Nala's calf through her black tights, tearing them; the bite bleeds but isn't deep.",
+      fact: "A bookworm's bite tore Nala's black tights at the calf.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -141,10 +141,7 @@ export const otherwhereAlan = {
       fact: "Nala has read no book of power, so she has no special powers yet.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Nala's left arm is still torn and crusted with salt and dried blood, and no better.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Overnight in the quarters the bite on Nala's arm knitted to a tender pink scar.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
