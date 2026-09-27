@@ -6146,6 +6146,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-filter-bar/companions-filter-bar.module.ts","id":"01a0641f-8bef-7567-be70-80b3096ce27e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-filter-types/companions-filter-types.module.ts","id":"01a06421-2527-72cf-81cf-35554408ce56"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-page-content/companions-page-content.module.ts","id":"01a0642f-8c3a-7b91-8490-d1b8b3d052fb"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/completion-page-empty/completion-page-empty.module.ts","id":"01a06421-f74b-7ac7-8c70-c606e0640025"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.ts","id":"01a06432-b190-7747-916a-01f0593a3621"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/eso-markup-text/eso-markup-text.module.ts","id":"01a0e157-1cce-78d5-b867-717faa29b3e0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.ts","id":"01a06429-76ff-7cfe-921e-d7a3ba65678e"}

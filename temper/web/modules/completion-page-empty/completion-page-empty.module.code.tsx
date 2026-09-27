@@ -14,14 +14,20 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { completionPageEmptyNoData } from "akasha/temper/web/phrase/pages/completion-page-empty-no-data.temper-web-phrase.ts"
+import { completionPageEmptyOwnLink } from "akasha/temper/web/phrase/pages/completion-page-empty-own-link.temper-web-phrase.ts"
+import { completionPageEmptySignedInOnly } from "akasha/temper/web/phrase/pages/completion-page-empty-signed-in-only.temper-web-phrase.ts"
+import { completionPageEmptyTitle } from "akasha/temper/web/phrase/pages/completion-page-empty-title.temper-web-phrase.ts"
 import { Globe } from "lucide-react"
 
 export function CompletionPageEmpty() {
+  const phrase = usePhrase()
   return (
     <PageLayout>
       <PageLayout.Header>
         <div className="flex min-w-0 items-center gap-4">
-          <PageTitle>Completion</PageTitle>
+          <PageTitle>{phrase(completionPageEmptyTitle.slug)}</PageTitle>
           <PageTitleBadges>
             <Globe className="size-4 text-tertiary" />
           </PageTitleBadges>
@@ -35,12 +41,10 @@ export function CompletionPageEmpty() {
                 <EmptyMedia variant="icon">
                   <Globe />
                 </EmptyMedia>
-                <EmptyTitle>No completion data loaded</EmptyTitle>
+                <EmptyTitle>{phrase(completionPageEmptyNoData.slug)}</EmptyTitle>
                 <EmptyDescription>
-                  Temper only loads the completion data of the account you are signed in as, so a
-                  link to another player&apos;s completion shows nothing here even when that player
-                  has data of their own. If this is your own link, import your ESO data or reload
-                  the page.
+                  {phrase(completionPageEmptySignedInOnly.slug)}{" "}
+                  {phrase(completionPageEmptyOwnLink.slug)}
                 </EmptyDescription>
               </EmptyHeader>
             </Empty>

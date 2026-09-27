@@ -6,4 +6,10 @@ export const completionPageEmpty = {
   slug: "completion-page-empty",
   definition: "what the completion page draws for an account with no completion data",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
