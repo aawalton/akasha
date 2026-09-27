@@ -49,10 +49,10 @@ interface ParametricDialog extends ZO_DialogData {
   }
 }
 
-export const CONFIRM_DIALOG = "TemperWorldMarkerConfirmDialogue"
-export const NOTICE_DIALOG = "TemperWorldMarkerNotice"
-export const EDIT_DIALOG = "TemperWorldMarkerEditDialogue"
-export const GAMEPAD_EDIT_DIALOG = "TemperWorldMarkerEditBox"
+const CONFIRM_DIALOG = "TemperWorldMarkerConfirmDialogue"
+const NOTICE_DIALOG = "TemperWorldMarkerNotice"
+const EDIT_DIALOG = "TemperWorldMarkerEditDialogue"
+const GAMEPAD_EDIT_DIALOG = "TemperWorldMarkerEditBox"
 
 export function registerDialog(this: void, name: string, info: MarkerDialogInfo): undefined {
   ESO_Dialogs[name] = info

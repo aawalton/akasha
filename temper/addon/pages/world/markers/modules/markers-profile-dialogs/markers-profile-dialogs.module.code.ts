@@ -46,9 +46,9 @@ interface ParametricProfileDialog extends ZO_DialogData {
   }
 }
 
-export const PC_PROFILE_SELECT = "TemperWorldMarkerPCProfileSelect"
-export const PC_PROFILE_SELECT_MULTI = "TemperWorldMarkerPCProfileSelectMulti"
-export const GAMEPAD_PROFILE_SELECT = "TemperWorldMarkerProfileSelect"
+const PC_PROFILE_SELECT = "TemperWorldMarkerPCProfileSelect"
+const PC_PROFILE_SELECT_MULTI = "TemperWorldMarkerPCProfileSelectMulti"
+const GAMEPAD_PROFILE_SELECT = "TemperWorldMarkerProfileSelect"
 
 const ROW_TEMPLATE = "TemperWorldMarkerProfileSelectDialogItemTemplate"
 const BELOW_TEXT = "Only profiles for the active zone can be seleted."
@@ -159,7 +159,7 @@ registerCustomDialog(PC_PROFILE_SELECT_MULTI, {
   ],
 })
 
-export function setupProfileItem(
+function setupProfileItem(
   this: void,
   control: StatusRow,
   data: ProfileEntryData,
