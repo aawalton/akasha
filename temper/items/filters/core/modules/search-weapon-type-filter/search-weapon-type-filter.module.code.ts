@@ -1,21 +1,17 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
+import type { TemperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts"
 import { defineFilter } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
+import { numberedOptions } from "akasha/temper/items/filters/core/modules/search-page-options/search-page-options.module.code.ts"
 import { selectedIdsToServerTerms } from "akasha/temper/items/filters/core/modules/search-server-narrowing/search-server-narrowing.module.code.ts"
 import { parseStringArray } from "akasha/temper/items/filters/core/modules/search-string-array-parse/search-string-array-parse.module.code.ts"
 
-const WEAPON_TYPE_OPTIONS = [
-  { value: "1", label: "Axe" },
-  { value: "2", label: "Mace" },
-  { value: "3", label: "Sword" },
-  { value: "4", label: "Greatsword" },
-  { value: "5", label: "Battleaxe" },
-  { value: "6", label: "Maul" },
-  { value: "8", label: "Bow" },
-  { value: "9", label: "Restoration Staff" },
-  { value: "11", label: "Dagger" },
-  { value: "12", label: "Inferno Staff" },
-  { value: "13", label: "Ice Staff" },
-  { value: "15", label: "Lightning Staff" },
-] as const
+type WeaponTypeRow = Pick<TemperWeaponType, "title" | "esoWeaponTypeNumber">
+
+const WEAPON_TYPE_OPTIONS = numberedOptions(
+  $pagesOfType<WeaponTypeRow>(temperWeaponType),
+  (row) => row.esoWeaponTypeNumber
+)
 
 export const WEAPON_TYPE_FILTER = defineFilter<readonly string[]>({
   id: "weapon-type",

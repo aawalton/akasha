@@ -2099,7 +2099,6 @@
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-transmuted-filter/search-transmuted-filter.module.ts","id":"01a0613a-e0b1-73d3-90ad-04d99f112113"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-treasure-map-filter/search-treasure-map-filter.module.ts","id":"01a0613a-e0b2-781d-8d0c-4d7734b29a2b"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-value-filter/search-value-filter.module.ts","id":"01a0613a-e0b2-7f07-844d-be1021d78a93"}
-{"propertySlug":"decision-kind","path":"temper/items/filters/core/modules/search-weapon-type-filter/search-weapon-type-filter.module.ts","id":"01a0613a-e0b2-7929-9188-fe5bbdecdc45"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/core/temper-items-filters-core.domain.ts","id":"01a0613a-e0b3-78d9-aaac-decd150b1b76"}
 {"propertySlug":"decision-kind","path":"temper/items/inventory-automation/modules/automation-toggle-change/automation-toggle-change.module.ts","id":"01a06038-b7a4-7626-9f8d-00da1e05f38a"}
 {"propertySlug":"decision-kind","path":"temper/items/modules/explain-walk/explain-walk.module.ts","id":"01a06036-188c-735e-bae8-be4f3d907a2f"}
