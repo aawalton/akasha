@@ -17,5 +17,23 @@ export const inventoryRulesEvalAllocation = {
       statement:
         "With no priority compiled, the current character is the one character a leg takes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A use allocation counts the copies other characters' captures hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A use allocation over the backpack counts the copies the bank and house storage hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A use allocation over the bank counts the copies the live backpack holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A use allocation reads the current character's live bags rather than her capture.",
+    },
   ],
 } as const satisfies Module

@@ -2,8 +2,10 @@ import { buildCompiledCharacterPriority } from "akasha/temper/addon/pages/items/
 import { buildGetCharacterCurseState } from "akasha/temper/addon/pages/items/modules/inventory-curse-state/inventory-curse-state.module.code.ts"
 import { buildUnlockContext } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"
 import type { UseAllocation } from "akasha/temper/addon/pages/items/modules/inventory-rules-types/inventory-rules-types.module.code.ts"
+import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { buildGetCharacterSkillLineRanks } from "akasha/temper/addon/pages/items/modules/inventory-skill-line-ranks/inventory-skill-line-ranks.module.code.ts"
 import { canCharacterLevelMorphs } from "akasha/temper/addon/pages/items/modules/inventory-skill-morphs-progress/inventory-skill-morphs-progress.module.code.ts"
+import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import {
   type CharEligibilityConditions,
   composeCharEligibilityPredicate,
@@ -20,12 +22,86 @@ import {
   type CharacterId,
   characterId,
   type ItemKey,
+  type UseStackHolding,
 } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 
 const FLAT_STOCK_SURPLUS_SINK = "bank"
+
+type HeldCopies = { holder: CharacterId | undefined; count: number }[]
+
+let heldIndexClaims: Map<CharacterId, Set<string>> | undefined
+let heldIndexCharacterBag = false
+let heldIndex = new Map<number, HeldCopies>()
+
+function isCharacterBag(bagId: number): boolean {
+  return bagId === BAG_BACKPACK || bagId === BAG_WORN
+}
+
+function addHeld(
+  index: Map<number, HeldCopies>,
+  itemId: number,
+  holder: CharacterId | undefined,
+  count: number
+): undefined {
+  if (count <= 0) return
+  let copies = index.get(itemId)
+  if (copies === undefined) {
+    copies = []
+    index.set(itemId, copies)
+  }
+  copies.push({ holder, count })
+}
+
+function buildHeldIndex(characterBag: boolean, currentCharStr: string): Map<number, HeldCopies> {
+  const index = new Map<number, HeldCopies>()
+  const locations = getDatabase().locations
+  for (const key of Object.keys(locations)) {
+    if (key === currentCharStr) continue
+    const kind = classifyLocation(key)
+    let holder: CharacterId | undefined
+    if (kind === "character") {
+      holder = characterId(key)
+    } else if (!characterBag || (kind !== "bank" && kind !== "housing-storage")) {
+      continue
+    }
+    const location = locations[key]
+    if (location === undefined) continue
+    for (const slots of Object.values(location.bags)) {
+      for (const item of Object.values(slots)) addHeld(index, item.itemId, holder, item.stackCount)
+    }
+  }
+  if (!characterBag) {
+    const self = characterId(currentCharStr)
+    const size = GetBagSize(BAG_BACKPACK)
+    for (let slot = 0; slot < size; slot++) {
+      const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
+      if (stackCount <= 0) continue
+      const link = GetItemLink(BAG_BACKPACK, slot, LINK_STYLE_BRACKETS)
+      addHeld(index, GetItemLinkItemId(link), self, stackCount)
+    }
+  }
+  return index
+}
+
+function heldIndexFor(
+  claims: Map<CharacterId, Set<string>>,
+  characterBag: boolean,
+  currentCharStr: string
+): Map<number, HeldCopies> {
+  if (heldIndexClaims !== claims || heldIndexCharacterBag !== characterBag) {
+    heldIndex = buildHeldIndex(characterBag, currentCharStr)
+    heldIndexClaims = claims
+    heldIndexCharacterBag = characterBag
+  }
+  return heldIndex
+}
 
 function computeUseAllocation(
   bagId: number,
@@ -42,7 +118,20 @@ function computeUseAllocation(
   const priority = buildCompiledCharacterPriority(currentChar)
 
   const ctx = buildUnlockContext(priority, currentChar, itemLink)
-  const allocations = planUseDestinationsForStack(itemKey, stackCount, ctx, claims)
+  const characterBag = isCharacterBag(bagId)
+  const holding: UseStackHolding = {
+    holder: characterBag ? currentChar : undefined,
+    elsewhere:
+      heldIndexFor(claims, characterBag, currentCharStr).get(GetItemLinkItemId(itemLink)) ?? [],
+  }
+  const allocations = planUseDestinationsForStack(
+    itemKey,
+    stackCount,
+    ctx,
+    claims,
+    undefined,
+    holding
+  )
   if (allocations.length === 0) return undefined
 
   let currentCharQty = 0
