@@ -15,8 +15,6 @@ type Reading =
   | { readonly admitted: true; readonly signedIn: SignedIn }
   | { readonly admitted: false; readonly aStranger: boolean }
 
-const NOT_HERS = "This site is Jenny's, and you are signed in as somebody else."
-
 async function reading(request: Request, read: SessionReader): Promise<Reading> {
   const contributor = await read(request)
   if (contributor === null) return { admitted: false, aStranger: true }
@@ -34,7 +32,7 @@ export async function requireJenny(
   const held = await reading(request, read)
   if (held.admitted) return held.signedIn
   if (held.aStranger) throw redirect(JENNY_SITE.signInPath)
-  throw new Response(NOT_HERS, { status: 403 })
+  throw new Response(null, { status: 403 })
 }
 
 export async function requireApiJenny(

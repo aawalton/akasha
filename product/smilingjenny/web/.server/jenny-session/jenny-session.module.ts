@@ -28,5 +28,9 @@ export const jennySession = {
       decisionKind: "decision-kind/departure",
       statement: "A caller signed in as somebody else is refused rather than sent round again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a refused caller is told is said on the site's home document.",
+    },
   ],
 } as const satisfies Module
