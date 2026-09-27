@@ -82,6 +82,10 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The pages of a page type are listed off the index once in each plan.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page type with no such file beside it is taken to carry no computed property.",
     },
     {

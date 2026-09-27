@@ -227,7 +227,9 @@ function plannedFor(root: string, helds: readonly Held[]): Planned {
   const keeps = new Map<string, readonly Keep[]>()
   for (const held of helds) {
     for (const kind of held.kinds) {
-      for (const one of pagesOf(root, kind, held.slugs)) pages.add(dirname(join(root, one.path)))
+      for (const one of pagesOf(reading, kind, held.slugs)) {
+        pages.add(dirname(join(root, one.path)))
+      }
       try {
         const kept = keeps.get(kind) ?? keepsOf(root, reading, kind)
         keeps.set(kind, kept)
@@ -240,7 +242,7 @@ function plannedFor(root: string, helds: readonly Held[]): Planned {
         }
       } catch {}
       if (held.slugs !== null) continue
-      for (const at of slugFoldersOf(root, kind)) listed.set(join(root, at), kind)
+      for (const at of slugFoldersOf(reading, kind)) listed.set(join(root, at), kind)
     }
   }
   return { pages, listed, read, keeping }
