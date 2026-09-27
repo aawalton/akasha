@@ -24,6 +24,14 @@ export const theDatingGameEcho = {
       fact: 'Echo was told long ago: "You shall have the last word, and never the first."',
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "She is the Echo of the old stories, whom Hera cursed.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Echo is three thousand years old.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
