@@ -57,6 +57,19 @@ export const styleRule = {
         "An example shows prose breaking the rule and the same prose rewritten to meet it.",
     },
   ],
+  directives: [
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Alan Approves Style Rules",
+      act: "Add or change a style rule only once Alan approves that rule.",
+      warrant:
+        "A style rule binds every story's prose, and a report of what reads wrong to Alan is not Alan's word.",
+      aids: [
+        "A game master's or reviewer's report is a reason to ask Alan, never a reason to add a rule.",
+        "Mending one turn's prose needs no rule.",
+      ],
+    },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
