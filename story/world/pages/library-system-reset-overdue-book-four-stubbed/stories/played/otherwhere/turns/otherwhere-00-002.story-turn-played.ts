@@ -10,7 +10,7 @@ export const otherwhere00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     'I let the shorts drop to the floor, more comfortable in my black compression tights anyways and slip out of my shoes, standing in my socks on the floor. Somehow, I feel comfortable in my new skin, more comfortable than I was before. "Okay, I guess we\'re implementing isekai protocol. Status? Character Sheet? System?" I try to visualize myself to see if the blue box in front of me changes.',
   beats: [
@@ -32,7 +32,10 @@ export const otherwhere00002 = {
     "The hum deepens through her socks, and the trunk's warmth reaches her across the floor.",
     "It is the only thing in the red chamber that answered her voice.",
   ],
-  issues: ['"it\'s the only thing that answered your voice" - Leave It Open'],
+  issues: [
+    '"it\'s the only thing that answered your voice" - Leave It Open',
+    '"they stay up" - lore says her compression tights slide off her hips',
+  ],
   lore: ["lore/otherwhere-universe"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
