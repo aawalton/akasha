@@ -4,6 +4,7 @@ export const areaReachWinter = {
   id: "01a0e0f0-2749-7b7e-ab35-eb957592f2c6",
   type: "page-type/temper-motif-style",
   slug: "area-reach-winter",
-  title: "ITEMSTYLE_AREA_REACH_WINTER",
+  title: "Reach Winter",
   esoItemStyleId: 37,
+  styleName: "Reach Winter",
 } as const satisfies TemperMotifStyle
