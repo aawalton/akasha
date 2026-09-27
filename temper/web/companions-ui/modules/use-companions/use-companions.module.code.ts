@@ -40,6 +40,8 @@ import {
   ownerOf,
   useAccountAddress,
 } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { useCompanionsCreateFailed } from "akasha/temper/web/phrase/pages/use-companions-create-failed.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 
@@ -338,6 +340,7 @@ export function useNewCompanion() {
   const router = usePagesUIRouter()
   const userId = useUserId()
   const { createNew } = useCompanionLifecycle()
+  const phrase = usePhrase()
 
   const handleCreate = async () => {
     if (userId == null) return
@@ -350,7 +353,7 @@ export function useNewCompanion() {
       await createNew({ id, buildHash, buildMetadata })
       router.push(`${companionUrl(toBuildId(id), build.name)}?tab=companion`)
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to create companion")
+      toast.error(error instanceof Error ? error.message : phrase(useCompanionsCreateFailed.slug))
       setIsCreating(false)
     }
   }

@@ -42,6 +42,8 @@ import {
   ownerOf,
   useAccountAddress,
 } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { useCharactersCreateFailed } from "akasha/temper/web/phrase/pages/use-characters-create-failed.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 
@@ -354,6 +356,7 @@ export function useNewCharacter() {
   const router = usePagesUIRouter()
   const userId = useUserId()
   const { createNew } = useCharacterLifecycle()
+  const phrase = usePhrase()
 
   const handleCreate = async () => {
     if (userId == null) return
@@ -366,7 +369,7 @@ export function useNewCharacter() {
       await createNew({ id, buildHash, buildMetadata })
       router.push(`${characterUrl(toBuildId(id), build.name)}?tab=character`)
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to create build")
+      toast.error(error instanceof Error ? error.message : phrase(useCharactersCreateFailed.slug))
       setIsCreating(false)
     }
   }

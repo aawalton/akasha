@@ -47,5 +47,9 @@ export const useCompanions = {
       decisionKind: "decision-kind/departure",
       statement: "A build's versions are taken away before the build is.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The wording a failed making shows is read from a web phrase page.",
+    },
   ],
 } as const satisfies Module
