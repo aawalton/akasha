@@ -1,5 +1,6 @@
 {"propertySlug":"extends-type","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"extends-type","path":"temper/catalog/gear/temper-level-band/temper-level-band.page-type.ts","id":"01a0e16a-6334-7f44-b34f-f5518d7dad42"}
+{"propertySlug":"extends-type","path":"temper/catalog/gear/temper-set-bonus-step/temper-set-bonus-step.page-type.ts","id":"01a0e170-bc42-78ef-bd36-7a8d9ad41985"}
 {"propertySlug":"extends-type","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
 {"propertySlug":"extends-type","path":"temper/items/core/temper-browser-category/temper-browser-category.page-type.ts","id":"01a0e10a-51a6-762e-937a-ab9ecab87881"}
 {"propertySlug":"extends-type","path":"temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts","id":"01a0e0d4-8faf-7000-a663-56081a452c8e"}
@@ -21,6 +22,7 @@
 {"propertySlug":"extends-type","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/gear/temper-level-band/temper-level-band.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/gear/temper-set-bonus-step/temper-set-bonus-step.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/items/core/temper-browser-category/temper-browser-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/items/rules/routing/core/temper-venue/temper-venue.page-type.types.ts","typed":true,"deferred":false}
