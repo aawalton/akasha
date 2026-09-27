@@ -9,6 +9,7 @@ import {
   bestOffer,
   computeBuyQuantity,
   itemTypesOf,
+  offersWithin,
   type StoreOffer,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-buy-core/inventory-rules-buy-core.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
@@ -58,7 +59,7 @@ function ruleEntry(
   const takes = takerFor(rule, undefined, reading.ctx)
   if (itemLink !== undefined && !takes(itemLink, false)) return undefined
   const taken = reading.offers.filter((one) => takes(one.link, false))
-  const offer = bestOffer(taken, rule.itemIds)
+  const offer = bestOffer(offersWithin(taken, rule.buyMaxPrice), rule.itemIds)
   const target = ruleStockTarget(rule)
   const held = countHeld(itemTypesFor(taken, itemLink), takes, reading.currentCharId)
   const shortfall = target === undefined ? 0 : computeBuyShortfall(target, held)
@@ -87,6 +88,7 @@ function ruleEntry(
     storeScan,
   }
   if (target !== undefined) entry.targetQuantity = target
+  if (rule.buyMaxPrice !== undefined) entry.buyMaxPrice = rule.buyMaxPrice
   return entry
 }
 

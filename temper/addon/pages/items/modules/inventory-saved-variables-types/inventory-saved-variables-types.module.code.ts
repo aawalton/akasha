@@ -136,6 +136,7 @@ export interface BuyExplainRule {
   ruleId: string
   categoryId: string
   targetQuantity?: number
+  buyMaxPrice?: number
   held: number
   shortfall: number
   storeScan: BuyExplainStoreScan

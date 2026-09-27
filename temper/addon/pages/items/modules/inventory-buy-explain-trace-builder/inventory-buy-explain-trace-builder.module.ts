@@ -15,5 +15,9 @@ export const inventoryBuyExplainTraceBuilder = {
       decisionKind: "decision-kind/departure",
       statement: "The store is read as the buy at that store reads it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule's entry carries the max price that rule states.",
+    },
   ],
 } as const satisfies Module

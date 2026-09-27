@@ -19,13 +19,20 @@ function printRule(r: BuyExplainRule): undefined {
   d(
     `${PREFIX} rule ${r.ruleId} (${r.categoryId}): target=${r.targetQuantity}, held=${r.held}, shortfall=${r.shortfall}`
   )
+  d(
+    r.buyMaxPrice === undefined
+      ? `${PREFIX}   max price: none stated — a merchant's price, or TTC's suggested price at a guild store`
+      : `${PREFIX}   max price: ${r.buyMaxPrice}g each, at a merchant and at a guild store`
+  )
   const s = r.storeScan
   if (!s.storeOpen) {
     d(`${PREFIX}   store: NOT OPEN (0 entries) — open a merchant and re-run to scan`)
     return
   }
   if (s.matchedEntryIndex === undefined) {
-    d(`${PREFIX}   store: ${s.numEntries} entries, none the rule takes can be bought here`)
+    d(
+      `${PREFIX}   store: ${s.numEntries} entries, none the rule takes can be bought here within the max price`
+    )
     return
   }
   d(
