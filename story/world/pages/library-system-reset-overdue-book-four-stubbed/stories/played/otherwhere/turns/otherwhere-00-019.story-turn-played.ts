@@ -7,7 +7,8 @@ export const otherwhere00019 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 19,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     "“Okay, that’s helpful. Plan B then.” I sweep the salt into a think circle around me, keeping the diameter only about three feet so I can keep it doubly thick, then start moving the circle down the center of the hall, baiting the small ones towards me.",
+  lore: ["place/otherwhere-main-hall"],
 } as const satisfies StoryTurnPlayed
