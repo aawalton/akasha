@@ -28,4 +28,5 @@ export const theDatingGame00012 = {
     "She grins, plainly proud of the choice.",
     'Then she turns his own question back on him, head tilted: "What\'s one of your favorite series?"',
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
