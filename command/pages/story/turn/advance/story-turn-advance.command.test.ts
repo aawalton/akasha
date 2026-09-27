@@ -1,7 +1,7 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+
 import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
@@ -16,6 +16,7 @@ import {
   landingInto,
   MARA_LORE,
   MASTER,
+  MOVED,
   REVIEWED,
   reachOver,
   SLUG,
@@ -302,26 +303,25 @@ test("a recorder's kept edit to the turn's own page is folded into the move to p
   expect(into.landings).toEqual([DRAFTED])
 })
 
-test("a kept edit to the turn's own page that no longer fits it lands nothing", async () => {
+test("a recorder that is not the last folds its edit to the turn's own page into its move and keeps it no longer", async () => {
   const into = seen()
-  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
-  const stale: FileChange = {
-    kind: "replace",
-    path: AT,
-    contentFrom: `  lore: ["world-place/the-hall"],\n`,
-    contentTo: `  endsAt: "2026-09-26T09:05:00.000Z",\n`,
-  }
   const reach = {
-    ...reachOver(turn, seatOf("story-recorder", RECORDER_SEAT), into),
-    kept: () => [stale],
+    ...reachOver(turnAt("recorders"), seatOf("story-recorder", RECORDER_SEAT), into),
+    kept: () => [...DRAFTED, ENDED],
   }
-  const answer = await advancedBy(["--recorder", "memory"], reach, landingInto(into))
-  expect(answer.refusals.join(" ")).toContain("no longer fits")
-  expect(into.folded).toEqual([])
-  expect(into.landings).toEqual([])
+  const answer = await advancedBy(["--recorder", "cast"], reach, landingInto(into))
+  expect(answer.refusals).toEqual([])
+  expect(into.folded[0]?.values).toEqual({
+    endsAt: "2026-09-26T09:05:00.000Z",
+    turnStatus: `${turnStatus.slug}/recorders`,
+    recordedBy: ["story-recorder/cast"],
+  })
+  expect(into.landings).toEqual([[]])
+  expect(into.unkeeps).toEqual([[ENDED]])
+  expect(into.releases).toEqual([])
 })
 
-test("a refused landing keeps the edits beside the turn, the turn at recorders and the seat running", async () => {
+test("a refused landing gives the caller its drafted edits back, and leaves the turn at recorders and the seat running", async () => {
   const into = seen()
   const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
   const answer = await advancedBy(
@@ -331,6 +331,7 @@ test("a refused landing keeps the edits beside the turn, the turn at recorders a
   )
   expect(answer.refusals.join(" ")).toContain("lore/a-hall.lore.ts")
   expect(into.landings).toEqual([DRAFTED])
+  expect(into.givenBack).toEqual([MOVED])
   expect(into.releases).toEqual([])
   expect(into.notices).toEqual([])
   expect(into.starts).toEqual([])

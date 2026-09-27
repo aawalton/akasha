@@ -47,12 +47,16 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A kept edit to the turn's own page is folded into the move, so the move never writes over it.",
+        "Every recorder's advance folds the kept edits to the turn's own page into its move.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An edit folded into a move is kept no longer, so no later move writes over it.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A landing that refuses keeps the edits beside the turn and the turn at recorders.",
+        "An advance that refuses gives the caller back its drafts and leaves the turn as it was.",
     },
     {
       decisionKind: "decision-kind/departure",

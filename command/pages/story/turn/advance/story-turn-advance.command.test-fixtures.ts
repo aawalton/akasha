@@ -65,6 +65,8 @@ export const DRAFTED: readonly FileChange[] = [
   { kind: "add", path: "lore/the-gate.lore.ts", content: "memory\n" },
 ]
 
+export const MOVED: readonly FileChange[] = DRAFTED.slice(1)
+
 const TURN_TEXT = `export const theSaga00003 = {
   id: "01a0e393-a07a-7840-b8b4-26277498779c",
   type: "page-type/story-turn-played",
@@ -88,6 +90,8 @@ export type Seen = {
   readonly stops: string[]
   readonly notices: string[]
   readonly keeps: string[]
+  readonly unkeeps: (readonly FileChange[])[]
+  readonly givenBack: (readonly FileChange[])[]
   readonly releases: string[]
   readonly landings: (readonly FileChange[])[]
   readonly pushes: string[]
@@ -100,6 +104,8 @@ export function seen(): Seen {
     stops: [],
     notices: [],
     keeps: [],
+    unkeeps: [],
+    givenBack: [],
     releases: [],
     landings: [],
     pushes: [],
@@ -118,9 +124,17 @@ export function reachOver(
     recordersIn: () => recorders,
     keep: (_root, agentId, at) => {
       into.keeps.push(`${agentId ?? ""} ${at}`)
-      return null
+      return MOVED
     },
     kept: () => DRAFTED,
+    unkeep: (_root, _at, rows) => {
+      into.unkeeps.push(rows)
+      return null
+    },
+    giveBack: (_root, _agentId, _at, rows) => {
+      into.givenBack.push(rows)
+      return null
+    },
     release: (_root, at) => {
       into.releases.push(at)
       return true

@@ -7,12 +7,7 @@ import { startSeat } from "akasha/agent/seat/launching/modules/seat-start/seat-s
 import { akashaSeatPathForCaller } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaSeatsStated } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
 import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
-import {
-  appendEdits,
-  editsIn,
-  keptEdits,
-  sweptAll,
-} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
+import { sweptAll } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   ADDED,
@@ -21,6 +16,13 @@ import {
   settlingIndexed,
   turnsIndexed,
 } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import {
+  givenBack,
+  heldForTurn,
+  type Kept,
+  keptForTurn,
+  unkeptFromTurn,
+} from "akasha/command/pages/story/turn/modules/turn-keeping/turn-keeping.module.code.ts"
 import {
   loreLine,
   type Recorder,
@@ -31,7 +33,7 @@ import {
   readyNotified,
   readyTold,
 } from "akasha/command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts"
-import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
+
 import {
   listedAt,
   valuesByPath,
@@ -124,14 +126,19 @@ export type Starting = {
   readonly prompt: string
 }
 
-export type Kept = readonly FileChange[] | { readonly refused: string }
-
 export type Reach = {
   readonly turnAt: (root: string, slug: string) => Turn | null
   readonly reviewersIn: (root: string) => readonly Reviewer[]
   readonly recordersIn: (root: string) => readonly Recorder[]
-  readonly keep: (root: string, agentId: string | null, turn: string) => string | null
+  readonly keep: (root: string, agentId: string | null, turn: string) => Kept
   readonly kept: (root: string, turn: string) => Kept
+  readonly unkeep: (root: string, turn: string, rows: readonly FileChange[]) => string | null
+  readonly giveBack: (
+    root: string,
+    agentId: string | null,
+    turn: string,
+    rows: readonly FileChange[]
+  ) => string | null
   readonly release: (root: string, turn: string) => boolean
   readonly seatOf: (root: string, agentId: string | null) => Seated | null
   readonly storyOf: (root: string, game: string) => Story | null
@@ -204,25 +211,6 @@ function reviewersIndexed(root: string): readonly Reviewer[] {
 
 function recordersIndexed(root: string): readonly Recorder[] {
   return staffIndexed(root, storyRecorder.slug, storyRecorderInstructions.propertySlug)
-}
-
-function keptForTurn(root: string, agentId: string | null, turn: string): string | null {
-  const page = agentId === null || agentId === "" ? null : agentPathOf(root, agentId)
-  if (page === null) return "the caller has no page, so none of its drafted edits was found"
-  const wrong: string[] = []
-  const moved = keptEdits(root, page, (had) => {
-    if (had.length === 0) return had
-    const into = appendEdits(root, turn, had)
-    if (!("why" in into)) return null
-    wrong.push(into.why)
-    return had
-  })
-  return "why" in moved ? moved.why : (wrong[0] ?? null)
-}
-
-function heldForTurn(root: string, turn: string): Kept {
-  const held = editsIn(root, turn)
-  return "why" in held ? { refused: held.why } : held.rows
 }
 
 function staffIndexed(root: string, type: string, kept: string): readonly Reviewer[] {
@@ -362,6 +350,8 @@ export const REACHED: Reach = {
   recordersIn: recordersIndexed,
   keep: keptForTurn,
   kept: heldForTurn,
+  unkeep: unkeptFromTurn,
+  giveBack: givenBack,
   release: sweptAll,
   seatOf: seatIndexed,
   storyOf: storyIndexed,

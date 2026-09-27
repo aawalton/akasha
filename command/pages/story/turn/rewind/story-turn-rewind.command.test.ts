@@ -96,8 +96,10 @@ function reachOver(turn: Turn, into: Seen, latest = SLUG): Rewinding {
     turnAt: (_root, slug) => (slug === turn.slug ? turn : null),
     reviewersIn: () => [],
     recordersIn: () => [],
-    keep: () => null,
+    keep: () => [],
     kept: () => [],
+    unkeep: () => null,
+    giveBack: () => null,
     release: (_root, at) => {
       into.releases.push(at)
       return true

@@ -8,6 +8,7 @@ export const storyTurn = {
   parts: [
     "command/story-turn-advance",
     "command/story-turn-rewind",
+    "module/turn-keeping",
     "module/turn-prompting",
     "module/turn-reaching",
     "module/turn-ready-pushing",
