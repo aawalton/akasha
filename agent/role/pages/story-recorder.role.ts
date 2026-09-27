@@ -10,7 +10,7 @@ export const storyRecorder = {
     {
       directiveKind: "directive-kind/rule",
       name: "Only What Was Shown",
-      act: "Record only facts the turn's prose settles, and only the knowers it shows learning them.",
+      act: "Record only what the turn's prose settles, and only the knowers it shows learning it.",
       warrant:
         "A memory the prose never showed reads exactly like one it did, and the next turn builds on it.",
       aids: [
@@ -24,7 +24,7 @@ export const storyRecorder = {
       act: "Draft every edit, and land nothing yourself.",
       warrant: "A recorder landing alone shows the player a turn whose memories are half written.",
       aids: [
-        "Tell with `akasha story tell --draft`.",
+        "Tell with `akasha story tell --draft`, and settle with `akasha story settle --draft`.",
         "The advance to the player lands your edits.",
       ],
     },
