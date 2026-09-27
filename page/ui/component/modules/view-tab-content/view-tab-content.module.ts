@@ -6,4 +6,10 @@ export const viewTabContent = {
   slug: "view-tab-content",
   definition: "the rows a tab of a view holds, laid out the way the tab names",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A tab's rows are named as a listing of their page type is named.",
+    },
+  ],
 } as const satisfies Module

@@ -15,6 +15,7 @@ import { PageRowCells } from "akasha/page/ui/component/modules/page-row-cells/pa
 import { PageSystemTabContent } from "akasha/page/ui/component/modules/page-system-view/page-system-view.module.code.tsx"
 import { useGalleryViewProps } from "akasha/page/ui/component/modules/use-gallery-view-props/use-gallery-view-props.module.code.ts"
 import { useNotesViewProps } from "akasha/page/ui/component/modules/use-notes-view-props/use-notes-view-props.module.code.ts"
+import { namedAsType } from "akasha/page/ui/component/modules/use-pages-filtered-query/use-pages-filtered-query.module.code.ts"
 import { usePropertyChangePerfHandler } from "akasha/page/ui/component/modules/use-property-change-perf-handler/use-property-change-perf-handler.module.code.ts"
 import { useReorderViewWiring } from "akasha/page/ui/component/modules/use-reorder-view-wiring/use-reorder-view-wiring.module.code.ts"
 import { useViewConfigHandlers } from "akasha/page/ui/component/modules/use-view-config-handlers/use-view-config-handlers.module.code.ts"
@@ -136,7 +137,10 @@ export function ViewTabContent({
       ? effectivePageType.properties.icon
       : null
 
-  const pageTypeName = String(effectivePageType?.properties?.title ?? "Items")
+  const pageTypeName = namedAsType(
+    effectivePageType?.properties,
+    rowPageTypeSlug ?? toPageTypeSlug("page")
+  )
 
   const completion = rowPageTypeSlug == null ? null : completionShapeOf(rowPageTypeSlug)
 

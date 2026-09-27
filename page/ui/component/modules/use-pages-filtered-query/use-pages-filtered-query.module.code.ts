@@ -33,7 +33,7 @@ import { useMemo } from "react"
 
 const PAGE_TYPE_SLUG = "page-type"
 
-function namedAsType(
+export function namedAsType(
   properties: Readonly<Record<string, unknown>> | undefined,
   asked: PageTypeSlug
 ): string {
