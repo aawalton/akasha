@@ -1,7 +1,9 @@
+{"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/items/rules/matcher/modules/web-eval-env/web-eval-env.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-class-restrictions/set-class-restrictions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts","typed":false,"deferred":false}

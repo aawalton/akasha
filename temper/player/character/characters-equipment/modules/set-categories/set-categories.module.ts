@@ -9,11 +9,7 @@ export const setCategories = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the set category pages rather than by hand.",
-    },
-    {
-      decisionKind: "decision-kind/upkeep",
-      statement: "The generator writes this table outside akasha.",
+      statement: "Set category names and order come from the pages held with the set catalogue.",
     },
   ],
 } as const satisfies Module

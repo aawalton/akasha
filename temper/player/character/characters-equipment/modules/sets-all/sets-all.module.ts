@@ -29,5 +29,9 @@ export const setsAll = {
       decisionKind: "decision-kind/departure",
       statement: "A set's category is found by the number the game gives the set, off its page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The set categories are held with the catalogue, in their display order.",
+    },
   ],
 } as const satisfies Module

@@ -7,6 +7,7 @@ import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
 import {
   keysIn,
+  setCategoriesOf,
   setTemplatesOf,
 } from "akasha/temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts"
 import { temperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.ts"
@@ -48,7 +49,10 @@ export function useSetCatalog(): SetCatalog | null {
       [temperMetricTree.slug, metrics.rows],
     ])
     const keys = keysIn((pageTypeSlug) => byType.get(pageTypeSlug) ?? [])
-    return holdSetCatalog(setCatalogOf(setTemplatesOf(sets.rows, keys)))
+    return holdSetCatalog(
+      setCatalogOf(setTemplatesOf(sets.rows, keys)),
+      setCategoriesOf(categories.rows)
+    )
   }, [
     loading,
     sets.rows,

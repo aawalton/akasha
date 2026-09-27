@@ -8,10 +8,11 @@ import { setCategories } from "akasha/temper/player/character/characters-equipme
 
 const SET_SOURCE_TYPE_ELIGIBLE_ROOTS = new Set(["equipment", "weapons", "armor", "jewelry"])
 
-export const SET_SOURCE_TYPE_OPTIONS: FilterOption[] = setCategories.list
-  .filter((c) => c.id !== "none")
-  .sort((a, b) => a.displayOrder - b.displayOrder)
-  .map((c) => ({ value: c.id, label: c.name }))
+export function setSourceTypeOptions(): FilterOption[] {
+  return setCategories()
+    .filter((c) => c.id !== "none")
+    .map((c) => ({ value: c.id, label: c.name }))
+}
 
 const read = (c: CategoryRule["conditions"]) =>
   c?.setSourceTypes && c.setSourceTypes.length > 0 ? c.setSourceTypes : undefined

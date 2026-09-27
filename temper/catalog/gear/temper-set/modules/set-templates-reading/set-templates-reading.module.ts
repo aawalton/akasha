@@ -28,5 +28,9 @@ export const setTemplatesReading = {
       decisionKind: "decision-kind/departure",
       statement: "Nothing here reads a file, so a browser and a server read sets alike.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A set category's name and display order are read off its page with its key.",
+    },
   ],
 } as const satisfies Module

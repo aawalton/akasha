@@ -2,12 +2,15 @@ import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.mo
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { asking } from "akasha/page/service/modules/page-asking/page-asking.module.code.ts"
 import {
+  fieldsKeyedBy,
   KEYED_BY,
   keysIn,
   SET_FIELDS,
+  setCategoriesOf,
   setTemplatesOf,
 } from "akasha/temper/catalog/gear/temper-set/modules/set-templates-reading/set-templates-reading.module.code.ts"
 import { temperSet } from "akasha/temper/catalog/gear/temper-set/temper-set.page-type.ts"
+import { temperSetCategory } from "akasha/temper/catalog/gear/temper-set-category/temper-set-category.page-type.ts"
 import {
   holdSetCatalog,
   type SetCatalog,
@@ -22,8 +25,14 @@ function rowsOf(pageTypeSlug: string, keys: readonly string[]): readonly Value[]
 
 export function holdSetCatalogFromCheckout(): SetCatalog {
   const byType = new Map<string, readonly Value[]>(
-    KEYED_BY.map(([pageTypeSlug, field]) => [pageTypeSlug, rowsOf(pageTypeSlug, ["slug", field])])
+    KEYED_BY.map(([pageTypeSlug, field]) => [
+      pageTypeSlug,
+      rowsOf(pageTypeSlug, fieldsKeyedBy(pageTypeSlug, field)),
+    ])
   )
   const keys = keysIn((pageTypeSlug) => byType.get(pageTypeSlug) ?? [])
-  return holdSetCatalog(setCatalogOf(setTemplatesOf(rowsOf(temperSet.slug, SET_FIELDS), keys)))
+  return holdSetCatalog(
+    setCatalogOf(setTemplatesOf(rowsOf(temperSet.slug, SET_FIELDS), keys)),
+    setCategoriesOf(byType.get(temperSetCategory.slug) ?? [])
+  )
 }

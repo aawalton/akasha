@@ -9,7 +9,7 @@ import {
 } from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { LOCATION_OPTIONS } from "akasha/temper/items/rules/core/modules/location-filter/location-filter.module.code.ts"
-import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"
+import { setSourceTypeOptions } from "akasha/temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"
 import type { RuleCardState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -88,7 +88,7 @@ export function SetSourcesChip({ state }: SetSourcesChipProps): ReactNode {
           Set Sources
         </Text>
         <BadgeToggleGroup
-          items={SET_SOURCE_TYPE_OPTIONS}
+          items={setSourceTypeOptions()}
           value={selectedSetSourceItems}
           onSelect={handleSetSourceTypesChange}
           unselectedVariant="elevation"

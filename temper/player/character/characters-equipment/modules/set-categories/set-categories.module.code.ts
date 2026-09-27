@@ -1,34 +1,13 @@
-import {
-  createDataFile,
-  type DataFile,
-} from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
-import type { SetCategoryId } from "akasha/temper/catalog/gear/equipment/modules/set-category-ids/set-category-ids.module.code.ts"
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
+import {
+  type SetCategoryTemplate,
+  setCategoriesHeld,
+} from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 
-const TEMPER_SET_CATEGORIES_BY_ID = {
-  "none": { id: "none" as const, name: "No Set Category", displayOrder: 0 },
-  "trial": { id: "trial" as const, name: "Trial", displayOrder: 1 },
-  "dungeon": { id: "dungeon" as const, name: "Dungeon", displayOrder: 2 },
-  "arena": { id: "arena" as const, name: "Arena", displayOrder: 3 },
-  "overland": { id: "overland" as const, name: "Overland", displayOrder: 4 },
-  "crafted": { id: "crafted" as const, name: "Crafted", displayOrder: 5 },
-  "monster": { id: "monster" as const, name: "Monster", displayOrder: 6 },
-  "mythic": { id: "mythic" as const, name: "Mythic", displayOrder: 7 },
-  "pvp": { id: "pvp" as const, name: "PVP", displayOrder: 8 },
-  "class": { id: "class" as const, name: "Class", displayOrder: 9 },
-  "other": { id: "other" as const, name: "Other", displayOrder: 10 },
-  "no-type": { id: "no-type" as const, name: "Unknown", displayOrder: 11 },
-} as const satisfies Record<string, SetCategoryTemplate>
-
-interface SetCategoryTemplate {
-  id: SetCategoryId
-  name: string
-  displayOrder: number
+export function setCategories(): readonly SetCategoryTemplate[] {
+  return setCategoriesHeld()
 }
-
-export const setCategories: DataFile<SetCategoryId, SetCategoryTemplate> =
-  createDataFile<SetCategoryTemplate>()(TEMPER_SET_CATEGORIES_BY_ID)
 
 export function filterAndOrganizeSets(
   sets: readonly SetTemplate[]
@@ -47,17 +26,13 @@ export function filterAndOrganizeSets(
     setList.sort((a, b) => a.name.localeCompare(b.name))
   }
 
-  const sortedCategories = [...setCategories.ids].sort(
-    (a, b) => setCategories.data[a].displayOrder - setCategories.data[b].displayOrder
-  )
-
   const result: { type: string; sets: SetTemplate[] }[] = []
 
-  for (const category of sortedCategories) {
-    if (grouped.has(category)) {
+  for (const category of setCategories()) {
+    if (grouped.has(category.id)) {
       result.push({
-        type: setCategories.data[category].name,
-        sets: requireGet(grouped, category, "filterAndOrganizeSets:grouped"),
+        type: category.name,
+        sets: requireGet(grouped, category.id, "filterAndOrganizeSets:grouped"),
       })
     }
   }

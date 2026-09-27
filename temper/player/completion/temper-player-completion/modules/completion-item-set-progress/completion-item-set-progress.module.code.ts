@@ -259,18 +259,15 @@ export function transformItemSetProgress(
 
   const nestedRoots = nestedRootsOf(setCategoryCatalog)
 
-  const sortedCategoryIds = [...setCategories.ids].sort(
-    (a, b) => setCategories.data[a].displayOrder - setCategories.data[b].displayOrder
-  )
-
   const categories: ItemSetCategoryProgress[] = []
   let overall = NO_TOTALS
 
-  for (const categoryId of sortedCategoryIds) {
+  for (const category of setCategories()) {
+    const categoryId = category.id
     const rootMap = grouped.get(categoryId)
     if (!rootMap || rootMap.size === 0) continue
 
-    const categoryName = setCategories.data[categoryId].name
+    const categoryName = category.name
     const subcategories = subcategoriesOfCategory(rootMap, categoryName, nestedRoots)
 
     let categoryTotals = NO_TOTALS

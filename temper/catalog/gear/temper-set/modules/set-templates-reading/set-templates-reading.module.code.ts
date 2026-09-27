@@ -6,6 +6,7 @@ import type { SetCategoryId } from "akasha/temper/catalog/gear/equipment/modules
 import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import { temperSetCategory } from "akasha/temper/catalog/gear/temper-set-category/temper-set-category.page-type.ts"
 import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
+import type { SetCategoryTemplate } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import type {
   Effect,
@@ -23,6 +24,26 @@ export const KEYED_BY: readonly (readonly [string, string])[] = [
   [temperBuffOther.slug, "key"],
   [temperMetricTree.slug, "nodeId"],
 ]
+
+export const SET_CATEGORY_FIELDS: readonly string[] = ["slug", "key", "title", "displayOrder"]
+
+export function fieldsKeyedBy(pageTypeSlug: string, field: string): readonly string[] {
+  return pageTypeSlug === temperSetCategory.slug ? SET_CATEGORY_FIELDS : ["slug", field]
+}
+
+export function setCategoriesOf(rows: Iterable<Value>): readonly SetCategoryTemplate[] {
+  const categories: SetCategoryTemplate[] = []
+  for (const row of rows) {
+    const { key, title, displayOrder } = row
+    if (typeof key !== "string" || typeof displayOrder !== "number") continue
+    categories.push({
+      id: key as SetCategoryId,
+      name: typeof title === "string" ? title : key,
+      displayOrder,
+    })
+  }
+  return categories.sort((one, other) => one.displayOrder - other.displayOrder)
+}
 
 export const SET_FIELDS: readonly string[] = [
   "slug",

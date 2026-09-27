@@ -8,6 +8,12 @@ import type { SetTemplate } from "akasha/temper/catalog/gear/equipment/modules/s
 
 export type SetCatalog = DataFile<Slug, SetTemplate, SetCategoryId>
 
+export interface SetCategoryTemplate {
+  readonly id: SetCategoryId
+  readonly name: string
+  readonly displayOrder: number
+}
+
 function keyedById(rows: readonly SetTemplate[]): Record<Slug, SetTemplate> {
   const keyed: Partial<Record<Slug, SetTemplate>> = {}
   for (const row of rows) keyed[row.id] = row
@@ -30,9 +36,20 @@ export class SetCatalogUnread extends Error {
 
 let held: SetCatalog | null = null
 
-export function holdSetCatalog(catalog: SetCatalog): SetCatalog {
+let heldCategories: readonly SetCategoryTemplate[] | null = null
+
+export function holdSetCatalog(
+  catalog: SetCatalog,
+  categories: readonly SetCategoryTemplate[]
+): SetCatalog {
   held = catalog
+  heldCategories = categories
   return catalog
+}
+
+export function setCategoriesHeld(): readonly SetCategoryTemplate[] {
+  if (heldCategories === null) throw new SetCatalogUnread()
+  return heldCategories
 }
 
 export function heldSetCatalog(): SetCatalog | null {

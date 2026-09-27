@@ -20,7 +20,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts","typed":false,"deferred":false}

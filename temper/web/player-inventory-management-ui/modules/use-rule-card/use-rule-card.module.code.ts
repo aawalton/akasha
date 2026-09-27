@@ -17,7 +17,7 @@ import {
 import { LOCATION_OPTIONS } from "akasha/temper/items/rules/core/modules/location-filter/location-filter.module.code.ts"
 import { INVENTORY_RULE_FILTERS } from "akasha/temper/items/rules/core/modules/rule-filter-registry/rule-filter-registry.module.code.ts"
 import type { FilterId } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
-import { SET_SOURCE_TYPE_OPTIONS } from "akasha/temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"
+import { setSourceTypeOptions } from "akasha/temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"
 import {
   getTraitFamily,
   traitOptionsByFamily,
@@ -99,7 +99,7 @@ export function useRuleCard(rule: CategoryRule, onUpdate: RuleCardOnUpdate) {
   const selectedSetSourceItems = useMemo(() => {
     const types = rule.conditions?.setSourceTypes
     if (!types || types.length === 0) return []
-    return SET_SOURCE_TYPE_OPTIONS.filter((opt) => types.includes(opt.value))
+    return setSourceTypeOptions().filter((opt) => types.includes(opt.value))
   }, [rule.conditions?.setSourceTypes])
 
   const selectedLocationItems = useMemo(() => {
