@@ -15,7 +15,7 @@ export const otherwhere00026 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/writer",
+  turnStatus: "turn-status/recorders",
   action: "“Links, is the big one the last one, or are there more?”",
   beats: [
     "Still lying across the dried coil, Nala calls out to Links, asking if the big one is the last.",
