@@ -10,4 +10,5 @@ export const image4f640d60edc02513 = {
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

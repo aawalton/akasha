@@ -16,4 +16,5 @@ export const image3637baab39a63e47 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

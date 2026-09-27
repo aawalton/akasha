@@ -11,4 +11,5 @@ export const image381a7b83c1a46ade = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

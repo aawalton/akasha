@@ -11,4 +11,5 @@ export const imageF02d54db2088dce5 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/hoodie", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const image0af263fb5795b369 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/dragon"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image6826d19b388d46dc = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image546af435697108fc = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sleepwear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

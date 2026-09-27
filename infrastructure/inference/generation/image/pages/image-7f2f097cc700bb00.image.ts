@@ -10,4 +10,5 @@ export const image7f2f097cc700bb00 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

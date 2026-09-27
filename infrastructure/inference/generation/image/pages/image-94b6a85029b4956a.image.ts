@@ -20,4 +20,5 @@ export const image94b6a85029b4956a = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

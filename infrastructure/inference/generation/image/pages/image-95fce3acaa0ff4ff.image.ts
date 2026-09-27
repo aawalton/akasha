@@ -19,4 +19,5 @@ export const image95fce3acaa0ff4ff = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/nature"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/fully-clothed"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

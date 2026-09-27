@@ -10,4 +10,5 @@ export const imageE8e5c0e8075615a7 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts", "wardrobe-tag/wig"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

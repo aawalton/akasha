@@ -11,4 +11,5 @@ export const image9e1f25bdcc1087d4 = {
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

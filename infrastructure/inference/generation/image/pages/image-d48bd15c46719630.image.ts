@@ -20,4 +20,5 @@ export const imageD48bd15c46719630 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

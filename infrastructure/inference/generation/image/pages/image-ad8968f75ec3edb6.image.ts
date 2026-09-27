@@ -10,4 +10,5 @@ export const imageAd8968f75ec3edb6 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

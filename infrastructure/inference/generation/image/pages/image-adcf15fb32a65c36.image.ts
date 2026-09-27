@@ -20,4 +20,5 @@ export const imageAdcf15fb32a65c36 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

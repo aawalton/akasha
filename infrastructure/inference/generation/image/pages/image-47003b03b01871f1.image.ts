@@ -21,4 +21,5 @@ export const image47003b03b01871f1 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const image9846a7ea613b09f0 = {
     "fantasy-tag/green-hair",
     "fantasy-tag/golden-eyes",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

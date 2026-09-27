@@ -10,4 +10,5 @@ export const image70e33632ce7c4f70 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/cosmic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

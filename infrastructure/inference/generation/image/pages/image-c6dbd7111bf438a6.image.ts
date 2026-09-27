@@ -20,4 +20,5 @@ export const imageC6dbd7111bf438a6 = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sundress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

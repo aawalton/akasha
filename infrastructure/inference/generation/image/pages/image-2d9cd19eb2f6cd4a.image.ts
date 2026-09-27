@@ -20,4 +20,5 @@ export const image2d9cd19eb2f6cd4a = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/long-sleeves", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

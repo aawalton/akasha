@@ -20,4 +20,5 @@ export const image84a7f5533149aa7c = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/painting"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

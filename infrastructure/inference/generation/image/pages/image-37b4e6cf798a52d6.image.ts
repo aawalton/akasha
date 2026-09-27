@@ -21,4 +21,5 @@ export const image37b4e6cf798a52d6 = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/animal-ears", "fantasy-tag/tail"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

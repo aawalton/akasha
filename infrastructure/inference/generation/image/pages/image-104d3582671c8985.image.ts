@@ -21,4 +21,5 @@ export const image104d3582671c8985 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image0823bd0f2b5e87b2 = {
     "wardrobe-tag/headband",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

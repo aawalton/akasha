@@ -11,4 +11,5 @@ export const imageA66ca60147b6a253 = {
   poseTags: ["pose-tag/walking", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/jewelry", "wardrobe-tag/choker"],
   fantasyTags: ["fantasy-tag/bunny-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

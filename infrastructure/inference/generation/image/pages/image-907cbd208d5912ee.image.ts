@@ -11,4 +11,5 @@ export const image907cbd208d5912ee = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image467a8a709eae8e33 = {
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/camisole", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

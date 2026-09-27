@@ -20,4 +20,5 @@ export const imageEe41e3b575e232cc = {
   settingTags: ["setting-tag/dock", "setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageB2c38825d24c9435 = {
   poseTags: ["pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

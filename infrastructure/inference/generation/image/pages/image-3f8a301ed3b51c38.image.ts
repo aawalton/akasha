@@ -20,4 +20,5 @@ export const image3f8a301ed3b51c38 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/painting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

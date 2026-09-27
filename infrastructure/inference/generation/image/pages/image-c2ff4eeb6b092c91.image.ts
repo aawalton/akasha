@@ -9,4 +9,5 @@ export const imageC2ff4eeb6b092c91 = {
   settingTags: ["setting-tag/plain-background"],
   poseTags: ["pose-tag/laughing", "pose-tag/looking-at-viewer", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cardigan", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

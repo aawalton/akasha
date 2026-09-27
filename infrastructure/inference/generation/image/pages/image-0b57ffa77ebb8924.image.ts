@@ -9,4 +9,5 @@ export const image0b57ffa77ebb8924 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/tent"],
   poseTags: ["pose-tag/holding-drink", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

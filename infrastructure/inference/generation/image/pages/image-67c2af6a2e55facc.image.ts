@@ -10,4 +10,5 @@ export const image67c2af6a2e55facc = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/profile", "pose-tag/smiling", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

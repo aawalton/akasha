@@ -10,4 +10,5 @@ export const image97c9eae0de0e1faa = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageE161fc8263eb444e = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/holding-lantern", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

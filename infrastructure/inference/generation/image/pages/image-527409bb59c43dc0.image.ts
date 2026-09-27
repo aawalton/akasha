@@ -19,4 +19,5 @@ export const image527409bb59c43dc0 = {
   settingTags: ["setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image0f589cad38450492 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/jungle"],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

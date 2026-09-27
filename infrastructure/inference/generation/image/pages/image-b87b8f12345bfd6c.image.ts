@@ -9,4 +9,5 @@ export const imageB87b8f12345bfd6c = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/hand-on-face", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/pants", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

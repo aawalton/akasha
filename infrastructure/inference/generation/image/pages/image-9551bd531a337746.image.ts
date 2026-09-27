@@ -25,4 +25,5 @@ export const image9551bd531a337746 = {
     "pose-tag/leaning-forward",
   ],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

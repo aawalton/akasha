@@ -11,4 +11,5 @@ export const image78eb68242e0daf48 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

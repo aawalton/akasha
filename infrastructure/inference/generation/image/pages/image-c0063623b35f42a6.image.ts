@@ -9,4 +9,5 @@ export const imageC0063623b35f42a6 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

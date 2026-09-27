@@ -10,4 +10,5 @@ export const image485e922c697c973d = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

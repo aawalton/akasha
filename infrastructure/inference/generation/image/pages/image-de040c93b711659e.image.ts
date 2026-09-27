@@ -10,4 +10,5 @@ export const imageDe040c93b711659e = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties"],
   fantasyTags: ["fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

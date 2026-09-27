@@ -20,4 +20,5 @@ export const imageF758222b5b2a91ab = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

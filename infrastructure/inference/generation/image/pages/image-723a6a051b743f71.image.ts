@@ -9,4 +9,5 @@ export const image723a6a051b743f71 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

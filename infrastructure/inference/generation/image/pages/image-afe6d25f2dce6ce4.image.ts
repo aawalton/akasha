@@ -20,4 +20,5 @@ export const imageAfe6d25f2dce6ce4 = {
   ],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/red-eyes", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image113749c5baf307eb = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

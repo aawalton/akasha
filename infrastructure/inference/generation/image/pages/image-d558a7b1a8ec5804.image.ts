@@ -11,4 +11,5 @@ export const imageD558a7b1a8ec5804 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

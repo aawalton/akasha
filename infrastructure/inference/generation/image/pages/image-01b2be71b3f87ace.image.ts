@@ -10,4 +10,5 @@ export const image01b2be71b3f87ace = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sleepwear", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

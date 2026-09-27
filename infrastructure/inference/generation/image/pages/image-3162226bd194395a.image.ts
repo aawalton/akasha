@@ -21,4 +21,5 @@ export const image3162226bd194395a = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tube-top"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

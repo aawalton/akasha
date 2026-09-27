@@ -10,4 +10,5 @@ export const image808580ac430a2ce3 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

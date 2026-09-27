@@ -19,4 +19,5 @@ export const image59b6431b1883bfec = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

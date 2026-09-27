@@ -11,4 +11,5 @@ export const imageC332675a9d33632d = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/hoodie"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image56b40dba417f59be = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/city-street"],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-back", "pose-tag/smiling", "pose-tag/walking"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

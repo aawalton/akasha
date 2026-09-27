@@ -26,4 +26,5 @@ export const imageF757c592ec2f9e10 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/dragon", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

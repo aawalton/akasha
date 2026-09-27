@@ -9,4 +9,5 @@ export const image3691271767fd6dcf = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/bent-over", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

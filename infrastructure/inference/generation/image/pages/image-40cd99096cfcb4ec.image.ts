@@ -10,4 +10,5 @@ export const image40cd99096cfcb4ec = {
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

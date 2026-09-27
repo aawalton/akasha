@@ -10,4 +10,5 @@ export const imageAfb093e7367e0835 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

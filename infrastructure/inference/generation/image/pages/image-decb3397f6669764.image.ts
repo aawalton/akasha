@@ -15,4 +15,5 @@ export const imageDecb3397f6669764 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing", "fantasy-tag/wings"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

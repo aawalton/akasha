@@ -25,4 +25,5 @@ export const imageAfa7b78d0478c773 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/glasses"],
   fantasyTags: ["fantasy-tag/fairy"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageDe6e987ed37ac379 = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bottomless"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

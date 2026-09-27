@@ -20,4 +20,5 @@ export const image836e656adcb8ff8d = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

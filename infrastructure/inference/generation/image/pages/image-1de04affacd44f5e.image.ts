@@ -21,4 +21,5 @@ export const image1de04affacd44f5e = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hair-accessory", "wardrobe-tag/wig", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageDd22e396400686b7 = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/fairy"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

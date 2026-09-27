@@ -20,4 +20,5 @@ export const imageC8c611a8907a7753 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-up", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image858ffb4e146c4a5d = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/deep-v-neck"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

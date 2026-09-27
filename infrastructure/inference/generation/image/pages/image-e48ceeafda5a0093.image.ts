@@ -9,4 +9,5 @@ export const imageE48ceeafda5a0093 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/cross-legged", "pose-tag/sitting", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageA493366748145356 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bare-legs", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

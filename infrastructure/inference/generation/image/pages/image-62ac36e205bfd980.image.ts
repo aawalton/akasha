@@ -20,4 +20,5 @@ export const image62ac36e205bfd980 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

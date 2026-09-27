@@ -10,4 +10,5 @@ export const imageDf342a7823a16ab9 = {
   poseTags: ["pose-tag/sitting", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/latex"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/anime", "fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

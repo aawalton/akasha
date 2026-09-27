@@ -10,4 +10,5 @@ export const image9ba28b9fbdddd798 = {
   settingTags: ["setting-tag/indoor", "setting-tag/night", "setting-tag/rain"],
   poseTags: ["pose-tag/selfie", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

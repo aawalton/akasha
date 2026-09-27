@@ -9,4 +9,5 @@ export const imageF53e6209da8f856e = {
   settingTags: ["setting-tag/plain-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-crossed"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

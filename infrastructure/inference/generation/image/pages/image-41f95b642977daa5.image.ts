@@ -11,4 +11,5 @@ export const image41f95b642977daa5 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-crossed", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheer", "wardrobe-tag/silk"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/pink-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

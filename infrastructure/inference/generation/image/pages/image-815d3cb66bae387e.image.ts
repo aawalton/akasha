@@ -10,4 +10,5 @@ export const image815d3cb66bae387e = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/halter-top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

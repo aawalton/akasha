@@ -9,4 +9,5 @@ export const image41b7d54447089774 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/indoor", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/camisole"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

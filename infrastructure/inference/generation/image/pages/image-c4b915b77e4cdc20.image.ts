@@ -9,4 +9,5 @@ export const imageC4b915b77e4cdc20 = {
   settingTags: ["setting-tag/stage", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/wet", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

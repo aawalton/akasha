@@ -11,4 +11,5 @@ export const imageFb1cfefb32b1fbcc = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/lace"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

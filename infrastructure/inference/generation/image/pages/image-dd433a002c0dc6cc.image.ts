@@ -10,4 +10,5 @@ export const imageDd433a002c0dc6cc = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/unusual-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

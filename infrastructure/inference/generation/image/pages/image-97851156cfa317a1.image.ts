@@ -20,4 +20,5 @@ export const image97851156cfa317a1 = {
     "wardrobe-tag/gloves",
   ],
   fantasyTags: ["fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

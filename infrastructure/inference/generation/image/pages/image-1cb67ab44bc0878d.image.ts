@@ -10,4 +10,5 @@ export const image1cb67ab44bc0878d = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/antlers"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const imageE4070366405fde60 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/casual-wear"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

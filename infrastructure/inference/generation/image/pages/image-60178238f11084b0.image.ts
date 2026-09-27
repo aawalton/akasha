@@ -20,4 +20,5 @@ export const image60178238f11084b0 = {
   settingTags: ["setting-tag/mountains", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

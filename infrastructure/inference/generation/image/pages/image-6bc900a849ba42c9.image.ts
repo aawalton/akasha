@@ -10,4 +10,5 @@ export const image6bc900a849ba42c9 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt", "wardrobe-tag/backpack"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

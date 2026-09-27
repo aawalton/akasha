@@ -10,4 +10,5 @@ export const imageCcf116eea6441bfb = {
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress", "wardrobe-tag/headband"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

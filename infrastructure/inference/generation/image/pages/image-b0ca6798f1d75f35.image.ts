@@ -20,4 +20,5 @@ export const imageB0ca6798f1d75f35 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/scarf"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

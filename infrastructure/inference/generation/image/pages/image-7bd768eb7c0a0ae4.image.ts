@@ -14,4 +14,5 @@ export const image7bd768eb7c0a0ae4 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

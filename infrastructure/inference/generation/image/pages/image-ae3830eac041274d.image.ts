@@ -10,4 +10,5 @@ export const imageAe3830eac041274d = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageAef66d6a9bbaf6cd = {
   settingTags: ["setting-tag/indoor", "setting-tag/vanity"],
   poseTags: ["pose-tag/kneeling", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/corset", "wardrobe-tag/stockings"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

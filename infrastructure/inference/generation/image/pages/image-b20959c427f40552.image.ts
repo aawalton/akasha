@@ -9,4 +9,5 @@ export const imageB20959c427f40552 = {
   settingTags: ["setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/qipao", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

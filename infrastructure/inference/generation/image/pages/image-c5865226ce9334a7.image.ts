@@ -10,4 +10,5 @@ export const imageC5865226ce9334a7 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

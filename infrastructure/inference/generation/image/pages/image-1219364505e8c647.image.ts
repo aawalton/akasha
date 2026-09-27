@@ -9,4 +9,5 @@ export const image1219364505e8c647 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace", "setting-tag/home"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

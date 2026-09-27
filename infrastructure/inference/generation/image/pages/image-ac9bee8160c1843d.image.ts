@@ -20,4 +20,5 @@ export const imageAc9bee8160c1843d = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

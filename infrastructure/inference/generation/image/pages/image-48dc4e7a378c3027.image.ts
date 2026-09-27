@@ -14,4 +14,5 @@ export const image48dc4e7a378c3027 = {
     "pose-tag/arms-raised",
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/stockings", "wardrobe-tag/scarf"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

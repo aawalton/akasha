@@ -20,4 +20,5 @@ export const image645341d164dddf1e = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

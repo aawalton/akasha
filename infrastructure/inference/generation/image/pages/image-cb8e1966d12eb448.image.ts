@@ -10,4 +10,5 @@ export const imageCb8e1966d12eb448 = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/pants"],
   fantasyTags: ["fantasy-tag/unusual-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

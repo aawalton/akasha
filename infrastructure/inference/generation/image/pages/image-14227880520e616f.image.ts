@@ -19,4 +19,5 @@ export const image14227880520e616f = {
     "pose-tag/lying-on-stomach",
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

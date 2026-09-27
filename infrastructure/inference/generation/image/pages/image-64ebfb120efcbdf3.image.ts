@@ -9,4 +9,5 @@ export const image64ebfb120efcbdf3 = {
   settingTags: ["setting-tag/snow", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sneakers", "wardrobe-tag/tights"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

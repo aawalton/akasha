@@ -20,4 +20,5 @@ export const image4e37026e84b45abe = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/beach"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/slip-dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

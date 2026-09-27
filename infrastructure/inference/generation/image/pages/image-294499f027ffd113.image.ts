@@ -21,4 +21,5 @@ export const image294499f027ffd113 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/puffed-sleeves"],
   fantasyTags: ["fantasy-tag/fairy-tale"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

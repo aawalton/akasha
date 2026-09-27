@@ -11,4 +11,5 @@ export const imageDf6d874a360b5b3d = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

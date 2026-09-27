@@ -21,4 +21,5 @@ export const imageFc6cc8e9beb919e3 = {
   poseTags: ["pose-tag/portrait", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

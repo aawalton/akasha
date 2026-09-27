@@ -9,4 +9,5 @@ export const imageB6175a1914105cce = {
   settingTags: ["setting-tag/indoor", "setting-tag/living-room"],
   poseTags: ["pose-tag/sitting", "pose-tag/curled-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/off-shoulder", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

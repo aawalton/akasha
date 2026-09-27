@@ -20,4 +20,5 @@ export const image41b0194fcbb6c299 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/gold-trim", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

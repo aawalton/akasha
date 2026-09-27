@@ -20,4 +20,5 @@ export const imageC8bfc202421b1c55 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

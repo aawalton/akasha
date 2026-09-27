@@ -10,4 +10,5 @@ export const imageD3f2245144b34412 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

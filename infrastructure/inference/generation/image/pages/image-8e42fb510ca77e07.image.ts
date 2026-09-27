@@ -16,4 +16,5 @@ export const image8e42fb510ca77e07 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

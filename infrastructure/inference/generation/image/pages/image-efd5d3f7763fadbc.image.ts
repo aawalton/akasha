@@ -11,4 +11,5 @@ export const imageEfd5d3f7763fadbc = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

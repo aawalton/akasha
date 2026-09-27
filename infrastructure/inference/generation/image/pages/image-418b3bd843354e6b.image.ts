@@ -9,4 +9,5 @@ export const image418b3bd843354e6b = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/bare-legs", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

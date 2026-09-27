@@ -20,4 +20,5 @@ export const image61b8b80051d63c96 = {
   settingTags: ["setting-tag/stage", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

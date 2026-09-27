@@ -11,4 +11,5 @@ export const imageBca9431519830aa5 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/t-shirt", "wardrobe-tag/sleepwear"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

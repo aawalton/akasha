@@ -26,4 +26,5 @@ export const imageD14a8075a664ec9a = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/shorts", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

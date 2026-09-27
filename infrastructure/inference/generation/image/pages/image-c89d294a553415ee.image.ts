@@ -9,4 +9,5 @@ export const imageC89d294a553415ee = {
   settingTags: ["setting-tag/indoor", "setting-tag/living-room"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/veil", "wardrobe-tag/gloves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

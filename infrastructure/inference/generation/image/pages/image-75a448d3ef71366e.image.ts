@@ -25,4 +25,5 @@ export const image75a448d3ef71366e = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

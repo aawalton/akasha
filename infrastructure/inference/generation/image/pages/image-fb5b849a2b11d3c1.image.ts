@@ -19,4 +19,5 @@ export const imageFb5b849a2b11d3c1 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

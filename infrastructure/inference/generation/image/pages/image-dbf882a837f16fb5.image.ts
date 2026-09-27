@@ -9,4 +9,5 @@ export const imageDbf882a837f16fb5 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/bare-shoulders", "wardrobe-tag/tube-top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

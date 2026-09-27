@@ -11,4 +11,5 @@ export const imageFed12d486f68fd92 = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image369b4532009f62fd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/temple", "setting-tag/snow"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/hair-accessory", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

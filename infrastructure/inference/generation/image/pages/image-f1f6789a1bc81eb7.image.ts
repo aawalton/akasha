@@ -19,4 +19,5 @@ export const imageF1f6789a1bc81eb7 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

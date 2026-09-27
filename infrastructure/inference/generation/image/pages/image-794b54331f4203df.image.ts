@@ -25,4 +25,5 @@ export const image794b54331f4203df = {
     "wardrobe-tag/silk",
     "wardrobe-tag/gold-trim",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

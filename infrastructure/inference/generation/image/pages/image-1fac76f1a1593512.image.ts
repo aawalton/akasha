@@ -20,4 +20,5 @@ export const image1fac76f1a1593512 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

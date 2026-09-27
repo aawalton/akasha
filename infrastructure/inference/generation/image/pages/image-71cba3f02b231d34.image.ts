@@ -20,4 +20,5 @@ export const image71cba3f02b231d34 = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/puffed-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

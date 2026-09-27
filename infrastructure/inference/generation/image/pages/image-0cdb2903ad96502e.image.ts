@@ -15,4 +15,5 @@ export const image0cdb2903ad96502e = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

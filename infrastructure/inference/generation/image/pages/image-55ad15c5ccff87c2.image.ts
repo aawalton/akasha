@@ -9,4 +9,5 @@ export const image55ad15c5ccff87c2 = {
   settingTags: ["setting-tag/shop", "setting-tag/indoor"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/skirt", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

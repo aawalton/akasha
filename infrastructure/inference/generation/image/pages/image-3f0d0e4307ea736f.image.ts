@@ -20,4 +20,5 @@ export const image3f0d0e4307ea736f = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/cloak"],
   fantasyTags: ["fantasy-tag/fairy-tale"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

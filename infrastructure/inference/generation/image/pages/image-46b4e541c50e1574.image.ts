@@ -19,4 +19,5 @@ export const image46b4e541c50e1574 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   fantasyTags: ["fantasy-tag/unusual-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

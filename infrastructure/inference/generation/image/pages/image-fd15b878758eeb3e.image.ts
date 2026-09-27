@@ -20,4 +20,5 @@ export const imageFd15b878758eeb3e = {
   settingTags: ["setting-tag/cafe", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/playing-music", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

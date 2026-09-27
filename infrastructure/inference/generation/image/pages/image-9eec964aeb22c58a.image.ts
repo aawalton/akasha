@@ -10,4 +10,5 @@ export const image9eec964aeb22c58a = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

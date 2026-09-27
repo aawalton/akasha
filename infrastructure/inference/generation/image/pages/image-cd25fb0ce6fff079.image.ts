@@ -15,4 +15,5 @@ export const imageCd25fb0ce6fff079 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/velvet", "wardrobe-tag/choker"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

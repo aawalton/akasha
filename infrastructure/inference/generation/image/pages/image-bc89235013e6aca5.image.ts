@@ -20,4 +20,5 @@ export const imageBc89235013e6aca5 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/painting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

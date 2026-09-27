@@ -21,4 +21,5 @@ export const image94522a43331c64fc = {
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts", "wardrobe-tag/sneakers"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

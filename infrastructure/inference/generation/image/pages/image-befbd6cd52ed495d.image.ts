@@ -20,4 +20,5 @@ export const imageBefbd6cd52ed495d = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/unusual-eyes", "fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

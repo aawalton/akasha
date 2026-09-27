@@ -19,4 +19,5 @@ export const image057b36d511dff515 = {
   settingTags: ["setting-tag/snow", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/fur"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

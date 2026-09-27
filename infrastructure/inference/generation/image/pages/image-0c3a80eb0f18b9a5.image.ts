@@ -19,4 +19,5 @@ export const image0c3a80eb0f18b9a5 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   fantasyTags: ["fantasy-tag/unusual-eyes", "fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

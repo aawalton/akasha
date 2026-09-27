@@ -21,4 +21,5 @@ export const imageCf8d1be7a76259b0 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/strapless"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

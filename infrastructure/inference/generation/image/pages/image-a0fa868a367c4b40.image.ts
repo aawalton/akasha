@@ -10,4 +10,5 @@ export const imageA0fa868a367c4b40 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/holding-hands", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

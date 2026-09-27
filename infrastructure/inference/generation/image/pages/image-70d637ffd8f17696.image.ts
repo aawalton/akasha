@@ -19,4 +19,5 @@ export const image70d637ffd8f17696 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/fireplace"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/puffed-sleeves", "wardrobe-tag/gold-trim"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

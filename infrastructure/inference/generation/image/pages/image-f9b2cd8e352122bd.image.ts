@@ -10,4 +10,5 @@ export const imageF9b2cd8e352122bd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

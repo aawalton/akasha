@@ -20,4 +20,5 @@ export const image33ae926fd40cd703 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/silk", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

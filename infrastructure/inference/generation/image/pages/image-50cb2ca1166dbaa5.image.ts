@@ -10,4 +10,5 @@ export const image50cb2ca1166dbaa5 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/hand-in-hair", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

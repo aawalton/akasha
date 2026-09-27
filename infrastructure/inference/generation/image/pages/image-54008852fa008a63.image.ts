@@ -11,4 +11,5 @@ export const image54008852fa008a63 = {
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/stockings", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

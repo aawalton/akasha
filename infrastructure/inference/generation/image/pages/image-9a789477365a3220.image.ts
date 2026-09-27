@@ -21,4 +21,5 @@ export const image9a789477365a3220 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/smiling", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/casual-wear"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image751f7a8e71d51461 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

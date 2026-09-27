@@ -9,4 +9,5 @@ export const image709937478275eefb = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/rooftop"],
   poseTags: ["pose-tag/sitting", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

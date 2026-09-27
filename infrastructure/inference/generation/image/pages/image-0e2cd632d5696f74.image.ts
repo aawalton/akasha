@@ -15,4 +15,5 @@ export const image0e2cd632d5696f74 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

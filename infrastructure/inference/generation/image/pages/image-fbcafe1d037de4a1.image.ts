@@ -9,4 +9,5 @@ export const imageFbcafe1d037de4a1 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const image2ca27d2606f1a0bb = {
   settingTags: ["setting-tag/stage", "setting-tag/balcony", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const imageFc3d0b80abd08c74 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const image3d592b01ef50d710 = {
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/leaning", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

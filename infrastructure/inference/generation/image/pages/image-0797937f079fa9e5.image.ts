@@ -10,4 +10,5 @@ export const image0797937f079fa9e5 = {
   poseTags: ["pose-tag/holding-weapon", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/gloves", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

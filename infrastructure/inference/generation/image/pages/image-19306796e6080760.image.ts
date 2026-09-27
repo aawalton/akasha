@@ -15,4 +15,5 @@ export const image19306796e6080760 = {
   ],
   wardrobeTags: ["wardrobe-tag/bra", "wardrobe-tag/panties", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const image1605d44ee20a44aa = {
   ],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

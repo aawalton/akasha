@@ -19,4 +19,5 @@ export const image55c5fc1cb8ebce90 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

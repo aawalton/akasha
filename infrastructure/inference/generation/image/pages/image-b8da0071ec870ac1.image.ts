@@ -11,4 +11,5 @@ export const imageB8da0071ec870ac1 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-clothing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

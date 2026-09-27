@@ -20,4 +20,5 @@ export const image310e781532a4d249 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

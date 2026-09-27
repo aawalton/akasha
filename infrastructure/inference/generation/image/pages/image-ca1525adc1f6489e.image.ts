@@ -23,4 +23,5 @@ export const imageCa1525adc1f6489e = {
     "wardrobe-tag/glitter-makeup",
   ],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

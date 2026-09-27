@@ -10,4 +10,5 @@ export const imageFd3d89d983db0e41 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/veil"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal", "fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

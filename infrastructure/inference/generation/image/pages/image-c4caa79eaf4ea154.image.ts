@@ -16,4 +16,5 @@ export const imageC4caa79eaf4ea154 = {
   poseTags: ["pose-tag/sitting", "pose-tag/working", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

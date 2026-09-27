@@ -20,4 +20,5 @@ export const imageCec8a17bf3397404 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

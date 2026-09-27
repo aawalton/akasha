@@ -21,4 +21,5 @@ export const image487c62b5d1e3485f = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/strapless"],
   fantasyTags: ["fantasy-tag/fairy"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

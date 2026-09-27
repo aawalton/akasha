@@ -9,4 +9,5 @@ export const image94314153193f2dec = {
   settingTags: ["setting-tag/workshop", "setting-tag/museum", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-hip", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

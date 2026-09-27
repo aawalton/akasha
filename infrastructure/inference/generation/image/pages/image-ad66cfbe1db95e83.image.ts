@@ -11,4 +11,5 @@ export const imageAd66cfbe1db95e83 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

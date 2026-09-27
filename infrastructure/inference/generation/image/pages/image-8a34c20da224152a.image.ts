@@ -20,4 +20,5 @@ export const image8a34c20da224152a = {
   ],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/bikini", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

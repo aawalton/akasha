@@ -20,4 +20,5 @@ export const imageBf5300e38c952923 = {
   settingTags: ["setting-tag/indoor", "setting-tag/church"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

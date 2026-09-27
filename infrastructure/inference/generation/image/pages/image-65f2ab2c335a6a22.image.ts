@@ -20,4 +20,5 @@ export const image65f2ab2c335a6a22 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

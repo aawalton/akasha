@@ -11,4 +11,5 @@ export const image073feb8309fb2648 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sweatpants", "wardrobe-tag/hoodie", "wardrobe-tag/loungewear"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const imageBd643d585eb3396d = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

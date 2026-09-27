@@ -11,4 +11,5 @@ export const imageDbd734f1ca78fad1 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/veil"],
   fantasyTags: ["fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

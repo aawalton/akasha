@@ -21,4 +21,5 @@ export const imageFc2cf4b91878a84d = {
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/casual-wear"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

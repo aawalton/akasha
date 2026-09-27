@@ -22,4 +22,5 @@ export const image1c51fe8f391e4ccd = {
   ],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

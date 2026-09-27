@@ -10,4 +10,5 @@ export const imageA944fa6a7081cbb6 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/hair-accessory", "wardrobe-tag/wet"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const image22248517ce0c727d = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/sweater"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

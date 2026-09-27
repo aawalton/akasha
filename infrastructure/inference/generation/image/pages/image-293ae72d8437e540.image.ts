@@ -20,4 +20,5 @@ export const image293ae72d8437e540 = {
     "pose-tag/looking-back",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

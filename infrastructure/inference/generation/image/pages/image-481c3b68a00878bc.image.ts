@@ -9,4 +9,5 @@ export const image481c3b68a00878bc = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

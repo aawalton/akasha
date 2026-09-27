@@ -10,4 +10,5 @@ export const imageBf9a6e52a4836d2e = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/nature-spirit", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageCe85f568588789b3 = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sundress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

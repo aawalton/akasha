@@ -20,4 +20,5 @@ export const imageF13885c868c9597f = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/field"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

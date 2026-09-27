@@ -20,4 +20,5 @@ export const image25745c397ff663ab = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/off-shoulder", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

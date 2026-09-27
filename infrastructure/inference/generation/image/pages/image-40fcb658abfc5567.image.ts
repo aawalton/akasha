@@ -11,4 +11,5 @@ export const image40fcb658abfc5567 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/backless"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageA6807313a5ab8e1a = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/floating"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/silver-hair", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

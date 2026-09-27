@@ -21,4 +21,5 @@ export const image457386cb73f34d38 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/overalls", "wardrobe-tag/headband"],
   fantasyTags: ["fantasy-tag/bunny-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

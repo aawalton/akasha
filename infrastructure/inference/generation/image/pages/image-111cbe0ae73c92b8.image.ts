@@ -11,4 +11,5 @@ export const image111cbe0ae73c92b8 = {
   poseTags: ["pose-tag/standing", "pose-tag/laughing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageB6fafebcca712dfe = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts", "wardrobe-tag/bare-legs"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

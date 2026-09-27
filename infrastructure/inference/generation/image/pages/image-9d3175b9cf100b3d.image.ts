@@ -19,4 +19,5 @@ export const image9d3175b9cf100b3d = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/camisole"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

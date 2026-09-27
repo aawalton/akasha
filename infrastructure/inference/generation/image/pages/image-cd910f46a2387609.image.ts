@@ -10,4 +10,5 @@ export const imageCd910f46a2387609 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/holding-clothing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheet", "wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

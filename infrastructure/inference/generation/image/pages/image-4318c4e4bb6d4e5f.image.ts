@@ -9,4 +9,5 @@ export const image4318c4e4bb6d4e5f = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageCb505363e5e3583b = {
   settingTags: ["setting-tag/stage", "setting-tag/balcony", "setting-tag/indoor"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

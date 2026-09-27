@@ -21,4 +21,5 @@ export const imageB859031d830d90c8 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/painting"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

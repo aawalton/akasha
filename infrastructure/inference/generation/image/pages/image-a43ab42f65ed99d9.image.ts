@@ -9,4 +9,5 @@ export const imageA43ab42f65ed99d9 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/kneeling", "pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

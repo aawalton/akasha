@@ -20,4 +20,5 @@ export const image720b87a830479036 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/gold-trim", "wardrobe-tag/high-neck"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image45b3f464dfbf74ff = {
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

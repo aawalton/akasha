@@ -17,4 +17,5 @@ export const imageC35af255d63a8907 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/dress", "wardrobe-tag/backpack"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

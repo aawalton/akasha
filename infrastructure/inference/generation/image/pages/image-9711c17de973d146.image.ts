@@ -15,4 +15,5 @@ export const image9711c17de973d146 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/reading", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

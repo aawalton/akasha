@@ -19,4 +19,5 @@ export const image3ff26b125f9fce1e = {
   settingTags: ["setting-tag/arcade", "setting-tag/indoor"],
   poseTags: ["pose-tag/leaning", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

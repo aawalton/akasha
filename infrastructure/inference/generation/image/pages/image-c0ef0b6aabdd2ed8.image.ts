@@ -9,4 +9,5 @@ export const imageC0ef0b6aabdd2ed8 = {
   settingTags: ["setting-tag/pool", "setting-tag/gym"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/goggles"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

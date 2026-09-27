@@ -16,4 +16,5 @@ export const image55187e61dc6ad2f7 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

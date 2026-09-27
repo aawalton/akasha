@@ -20,4 +20,5 @@ export const imageEc6d36280d3a32c9 = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/overalls", "wardrobe-tag/top", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

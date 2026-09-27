@@ -9,4 +9,5 @@ export const image5dfaede9479e39b1 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

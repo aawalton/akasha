@@ -10,4 +10,5 @@ export const imageAef32ff50017e306 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-flowers"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/purple-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

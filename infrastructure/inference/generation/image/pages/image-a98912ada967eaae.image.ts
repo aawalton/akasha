@@ -25,4 +25,5 @@ export const imageA98912ada967eaae = {
     "pose-tag/painting",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

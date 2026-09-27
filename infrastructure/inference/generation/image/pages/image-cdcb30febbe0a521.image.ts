@@ -21,4 +21,5 @@ export const imageCdcb30febbe0a521 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/bunny-ears", "fantasy-tag/animal-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image90ccf6b5943114c5 = {
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/naga", "fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

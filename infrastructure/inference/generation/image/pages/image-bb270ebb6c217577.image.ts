@@ -17,4 +17,5 @@ export const imageBb270ebb6c217577 = {
     "wardrobe-tag/garter-belt",
   ],
   fantasyTags: ["fantasy-tag/unusual-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

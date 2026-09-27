@@ -9,4 +9,5 @@ export const image98e57982ff0f3502 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/campfire"],
   poseTags: ["pose-tag/standing", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

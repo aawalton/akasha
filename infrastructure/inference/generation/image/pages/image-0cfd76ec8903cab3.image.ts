@@ -22,4 +22,5 @@ export const image0cfd76ec8903cab3 = {
     "wardrobe-tag/belt",
   ],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

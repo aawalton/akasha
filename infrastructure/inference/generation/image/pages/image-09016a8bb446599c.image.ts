@@ -19,4 +19,5 @@ export const image09016a8bb446599c = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

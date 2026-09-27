@@ -18,4 +18,5 @@ export const image739e92681dc92f28 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

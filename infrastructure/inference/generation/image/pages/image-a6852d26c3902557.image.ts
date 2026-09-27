@@ -9,4 +9,5 @@ export const imageA6852d26c3902557 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/tank-top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

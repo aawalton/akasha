@@ -11,4 +11,5 @@ export const image59ca2c92a189eed0 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

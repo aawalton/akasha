@@ -19,4 +19,5 @@ export const image97efe9583b923deb = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/harness", "wardrobe-tag/belt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

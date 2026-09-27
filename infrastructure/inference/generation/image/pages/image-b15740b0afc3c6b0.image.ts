@@ -25,4 +25,5 @@ export const imageB15740b0afc3c6b0 = {
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/cosmic"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

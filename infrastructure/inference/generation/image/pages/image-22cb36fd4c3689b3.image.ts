@@ -9,4 +9,5 @@ export const image22cb36fd4c3689b3 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

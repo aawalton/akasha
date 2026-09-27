@@ -11,4 +11,5 @@ export const imageAfc543243b843594 = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

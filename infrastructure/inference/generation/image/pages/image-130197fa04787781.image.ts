@@ -9,4 +9,5 @@ export const image130197fa04787781 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/bent-over", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/topless", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

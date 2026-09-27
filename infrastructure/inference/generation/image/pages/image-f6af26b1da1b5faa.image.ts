@@ -20,4 +20,5 @@ export const imageF6af26b1da1b5faa = {
   settingTags: ["setting-tag/indoor", "setting-tag/art-studio", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

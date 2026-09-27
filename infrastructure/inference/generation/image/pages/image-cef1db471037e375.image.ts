@@ -9,4 +9,5 @@ export const imageCef1db471037e375 = {
   settingTags: ["setting-tag/market", "setting-tag/shop", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/eating", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/hat", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

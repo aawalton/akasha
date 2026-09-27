@@ -20,4 +20,5 @@ export const image28c89845efe19fc7 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

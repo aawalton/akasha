@@ -21,4 +21,5 @@ export const imageBe9bfc44d6e26918 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

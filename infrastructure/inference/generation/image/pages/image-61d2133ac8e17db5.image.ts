@@ -15,4 +15,5 @@ export const image61d2133ac8e17db5 = {
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

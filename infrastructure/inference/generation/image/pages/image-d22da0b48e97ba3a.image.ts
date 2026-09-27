@@ -26,4 +26,5 @@ export const imageD22da0b48e97ba3a = {
   ],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

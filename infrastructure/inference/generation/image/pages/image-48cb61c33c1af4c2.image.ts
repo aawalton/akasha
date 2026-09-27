@@ -14,4 +14,5 @@ export const image48cb61c33c1af4c2 = {
     "pose-tag/hands-on-chest",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

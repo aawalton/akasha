@@ -20,4 +20,5 @@ export const image6bafc295dd457a4c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sports-field", "setting-tag/field"],
   poseTags: ["pose-tag/running", "pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageD3e5472886819c96 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

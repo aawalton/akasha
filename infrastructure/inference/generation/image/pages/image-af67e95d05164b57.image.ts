@@ -20,4 +20,5 @@ export const imageAf67e95d05164b57 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/holding-umbrella", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

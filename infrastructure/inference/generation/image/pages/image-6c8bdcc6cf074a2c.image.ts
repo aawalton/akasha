@@ -23,4 +23,5 @@ export const image6c8bdcc6cf074a2c = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

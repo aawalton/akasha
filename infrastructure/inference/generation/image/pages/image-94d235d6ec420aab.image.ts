@@ -20,4 +20,5 @@ export const image94d235d6ec420aab = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/hat"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

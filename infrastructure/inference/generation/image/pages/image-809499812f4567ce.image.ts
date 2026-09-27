@@ -9,4 +9,5 @@ export const image809499812f4567ce = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

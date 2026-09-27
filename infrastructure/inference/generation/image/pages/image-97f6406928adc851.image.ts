@@ -25,4 +25,5 @@ export const image97f6406928adc851 = {
     "pose-tag/leaning-forward",
   ],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

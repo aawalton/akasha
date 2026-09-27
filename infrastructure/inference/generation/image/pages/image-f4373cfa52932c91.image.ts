@@ -14,4 +14,5 @@ export const imageF4373cfa52932c91 = {
   ],
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-at-viewer", "pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

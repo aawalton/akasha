@@ -9,4 +9,5 @@ export const image4f1e1b14aa46a327 = {
   settingTags: ["setting-tag/car", "setting-tag/sunset", "setting-tag/city-street"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

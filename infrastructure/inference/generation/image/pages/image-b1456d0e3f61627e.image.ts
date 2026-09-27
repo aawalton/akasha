@@ -9,4 +9,5 @@ export const imageB1456d0e3f61627e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-flowers"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

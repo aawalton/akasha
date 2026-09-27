@@ -9,4 +9,5 @@ export const image1959f04391f24271 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/sleeveless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

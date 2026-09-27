@@ -10,4 +10,5 @@ export const imageCc0c11a994bb9530 = {
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bare-legs"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

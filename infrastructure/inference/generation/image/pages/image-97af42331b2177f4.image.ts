@@ -10,4 +10,5 @@ export const image97af42331b2177f4 = {
   settingTags: ["setting-tag/home", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/slip-dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

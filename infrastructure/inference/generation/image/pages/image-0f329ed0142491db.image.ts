@@ -25,4 +25,5 @@ export const image0f329ed0142491db = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image84b54b4aee24ed9a = {
   settingTags: ["setting-tag/park", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-crossed"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/stockings"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

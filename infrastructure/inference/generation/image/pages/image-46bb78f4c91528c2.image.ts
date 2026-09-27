@@ -20,4 +20,5 @@ export const image46bb78f4c91528c2 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/park"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image2c2ffde140fb2b9c = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

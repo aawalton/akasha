@@ -21,4 +21,5 @@ export const image6d503d71b082a162 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hair-accessory", "wardrobe-tag/headband", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/cat-ears", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

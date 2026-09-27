@@ -20,4 +20,5 @@ export const image747633044b1e1e12 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

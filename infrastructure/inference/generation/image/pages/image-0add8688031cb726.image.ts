@@ -20,4 +20,5 @@ export const image0add8688031cb726 = {
   poseTags: ["pose-tag/laughing", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/velvet", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

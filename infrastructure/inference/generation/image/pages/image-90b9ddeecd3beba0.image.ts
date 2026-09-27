@@ -10,4 +10,5 @@ export const image90b9ddeecd3beba0 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

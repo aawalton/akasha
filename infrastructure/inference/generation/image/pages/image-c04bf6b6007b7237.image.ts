@@ -20,4 +20,5 @@ export const imageC04bf6b6007b7237 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor", "setting-tag/hallway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image01736c3685091ead = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/oral-sex", "pose-tag/sex", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

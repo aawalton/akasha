@@ -10,4 +10,5 @@ export const imageA7b41350bb099be9 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/barefoot", "wardrobe-tag/bare-legs"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

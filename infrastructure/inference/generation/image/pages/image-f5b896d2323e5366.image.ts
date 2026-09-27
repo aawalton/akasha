@@ -16,4 +16,5 @@ export const imageF5b896d2323e5366 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

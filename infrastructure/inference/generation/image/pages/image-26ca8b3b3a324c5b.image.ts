@@ -14,4 +14,5 @@ export const image26ca8b3b3a324c5b = {
     "pose-tag/hands-on-chest",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

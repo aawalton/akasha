@@ -10,4 +10,5 @@ export const image61c2060f2443c04f = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gloves", "wardrobe-tag/stockings"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons", "fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

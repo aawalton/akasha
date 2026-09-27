@@ -9,4 +9,5 @@ export const imageC6ec08a4607623bb = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/silk", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

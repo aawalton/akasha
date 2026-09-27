@@ -15,4 +15,5 @@ export const image4a35296a056e8199 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/lake", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

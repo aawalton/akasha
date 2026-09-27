@@ -16,4 +16,5 @@ export const imageEc2cca786eb61bee = {
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

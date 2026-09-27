@@ -10,4 +10,5 @@ export const image5e626a7d44ceb756 = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/slip-dress", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

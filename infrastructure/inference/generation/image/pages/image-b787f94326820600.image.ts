@@ -9,4 +9,5 @@ export const imageB787f94326820600 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

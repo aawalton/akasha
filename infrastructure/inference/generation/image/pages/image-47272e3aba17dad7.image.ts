@@ -10,4 +10,5 @@ export const image47272e3aba17dad7 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/lace", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

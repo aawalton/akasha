@@ -10,4 +10,5 @@ export const image4f14ddfd648fc72e = {
   settingTags: ["setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/bent-over", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

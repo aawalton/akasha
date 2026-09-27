@@ -21,4 +21,5 @@ export const imageD3e8b07043eb2912 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

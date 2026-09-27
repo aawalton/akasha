@@ -10,4 +10,5 @@ export const imageEca153b81adf3057 = {
   poseTags: ["pose-tag/bathing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageF896bcb5dabfd23f = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/bikini"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

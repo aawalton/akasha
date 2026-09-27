@@ -21,4 +21,5 @@ export const imageC0267ac5c70acb93 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

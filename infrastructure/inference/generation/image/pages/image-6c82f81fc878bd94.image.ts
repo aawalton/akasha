@@ -15,4 +15,5 @@ export const image6c82f81fc878bd94 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

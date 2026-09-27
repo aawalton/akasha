@@ -9,4 +9,5 @@ export const image6f7ca2cda3dfe7c9 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/open-shirt", "wardrobe-tag/bottomless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

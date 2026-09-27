@@ -11,4 +11,5 @@ export const image379363e725b81f32 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

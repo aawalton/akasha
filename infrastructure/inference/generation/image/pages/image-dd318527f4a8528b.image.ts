@@ -20,4 +20,5 @@ export const imageDd318527f4a8528b = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-up", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/apron", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/steampunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

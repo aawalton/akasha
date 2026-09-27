@@ -25,4 +25,5 @@ export const image5d3989b47b242814 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/face-to-face", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/partial-undress", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image73d25a40b805d317 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/corset", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

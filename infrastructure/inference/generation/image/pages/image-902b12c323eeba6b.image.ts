@@ -10,4 +10,5 @@ export const image902b12c323eeba6b = {
   poseTags: ["pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/overalls", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

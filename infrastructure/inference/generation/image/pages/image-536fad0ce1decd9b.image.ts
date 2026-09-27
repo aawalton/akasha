@@ -20,4 +20,5 @@ export const image536fad0ce1decd9b = {
   settingTags: ["setting-tag/park", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/laughing", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image506cdc2b935aee7b = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/mini-dress", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/wings", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

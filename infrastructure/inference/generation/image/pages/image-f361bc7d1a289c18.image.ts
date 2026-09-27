@@ -20,4 +20,5 @@ export const imageF361bc7d1a289c18 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/painting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

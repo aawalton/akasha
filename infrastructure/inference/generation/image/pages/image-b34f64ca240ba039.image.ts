@@ -9,4 +9,5 @@ export const imageB34f64ca240ba039 = {
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor"],
   poseTags: ["pose-tag/lying-down", "pose-tag/kissing", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

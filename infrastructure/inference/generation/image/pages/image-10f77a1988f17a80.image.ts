@@ -20,4 +20,5 @@ export const image10f77a1988f17a80 = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/kissing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

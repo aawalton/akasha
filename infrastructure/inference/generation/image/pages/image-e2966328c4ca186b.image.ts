@@ -21,4 +21,5 @@ export const imageE2966328c4ca186b = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

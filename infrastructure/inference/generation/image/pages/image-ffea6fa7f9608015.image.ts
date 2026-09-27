@@ -21,4 +21,5 @@ export const imageFfea6fa7f9608015 = {
     "wardrobe-tag/armor",
   ],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/weapons", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

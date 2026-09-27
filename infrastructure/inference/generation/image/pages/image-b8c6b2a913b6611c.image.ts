@@ -15,4 +15,5 @@ export const imageB8c6b2a913b6611c = {
     "pose-tag/leaning",
   ],
   wardrobeTags: ["wardrobe-tag/overalls", "wardrobe-tag/tank-top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

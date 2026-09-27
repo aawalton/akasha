@@ -21,4 +21,5 @@ export const image9d64f341f3d23c98 = {
   ],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

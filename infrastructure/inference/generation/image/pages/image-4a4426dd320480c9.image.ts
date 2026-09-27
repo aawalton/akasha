@@ -20,4 +20,5 @@ export const image4a4426dd320480c9 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/hat", "wardrobe-tag/scarf", "wardrobe-tag/coat"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

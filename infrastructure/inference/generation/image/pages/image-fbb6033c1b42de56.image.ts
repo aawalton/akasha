@@ -9,4 +9,5 @@ export const imageFbb6033c1b42de56 = {
   settingTags: ["setting-tag/church"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nipples-visible", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

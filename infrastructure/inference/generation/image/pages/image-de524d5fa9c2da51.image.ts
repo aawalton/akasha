@@ -26,4 +26,5 @@ export const imageDe524d5fa9c2da51 = {
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

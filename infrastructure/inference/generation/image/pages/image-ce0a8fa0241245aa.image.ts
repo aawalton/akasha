@@ -16,4 +16,5 @@ export const imageCe0a8fa0241245aa = {
   settingTags: ["setting-tag/arcade", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

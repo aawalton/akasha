@@ -14,4 +14,5 @@ export const image7c3285a6ed26e694 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

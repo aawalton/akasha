@@ -9,4 +9,5 @@ export const imageF4d16149d6321115 = {
   settingTags: ["setting-tag/snow", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/cloak"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

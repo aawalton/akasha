@@ -10,4 +10,5 @@ export const image89b0ab4a680e8e0f = {
   settingTags: ["setting-tag/outdoor", "setting-tag/hot-spring", "setting-tag/snow"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

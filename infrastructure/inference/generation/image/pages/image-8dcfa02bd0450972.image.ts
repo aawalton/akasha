@@ -19,4 +19,5 @@ export const image8dcfa02bd0450972 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/park"],
   poseTags: ["pose-tag/walking", "pose-tag/face-to-face", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

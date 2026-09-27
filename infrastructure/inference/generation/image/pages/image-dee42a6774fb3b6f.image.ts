@@ -20,4 +20,5 @@ export const imageDee42a6774fb3b6f = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-on-chest", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/kimono"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

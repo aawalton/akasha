@@ -13,4 +13,5 @@ export const image7794affb5c390487 = {
     "wardrobe-tag/spaghetti-straps",
     "wardrobe-tag/hair-accessory",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image8eda91b847351cae = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/nature"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

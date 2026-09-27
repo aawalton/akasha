@@ -25,4 +25,5 @@ export const imageE3fbc3b6b86facf4 = {
     "pose-tag/playing-music",
   ],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/tank-top", "wardrobe-tag/socks"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

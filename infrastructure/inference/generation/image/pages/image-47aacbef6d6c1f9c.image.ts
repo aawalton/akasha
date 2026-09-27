@@ -9,4 +9,5 @@ export const image47aacbef6d6c1f9c = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

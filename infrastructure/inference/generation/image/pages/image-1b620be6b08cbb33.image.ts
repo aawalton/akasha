@@ -9,4 +9,5 @@ export const image1b620be6b08cbb33 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/bent-over", "pose-tag/looking-back", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/dress", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

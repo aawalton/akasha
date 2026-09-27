@@ -20,4 +20,5 @@ export const imageEe955238cedaefcb = {
   settingTags: ["setting-tag/lake", "setting-tag/outdoor", "setting-tag/forest"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image610f46545a366b29 = {
   settingTags: ["setting-tag/indoor", "setting-tag/campfire"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image08c60537d8a33dfe = {
   settingTags: ["setting-tag/outdoor", "setting-tag/beach", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

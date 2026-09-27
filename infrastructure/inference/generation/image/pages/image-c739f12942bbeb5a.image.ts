@@ -10,4 +10,5 @@ export const imageC739f12942bbeb5a = {
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

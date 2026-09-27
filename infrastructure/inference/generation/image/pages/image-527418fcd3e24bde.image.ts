@@ -10,4 +10,5 @@ export const image527418fcd3e24bde = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/antlers"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

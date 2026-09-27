@@ -16,4 +16,5 @@ export const imageAa2edb1ea1147e89 = {
   settingTags: ["setting-tag/balcony", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/sitting", "pose-tag/leaning", "pose-tag/holding-drink"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image9b8ca7bde70e736d = {
     "pose-tag/hand-on-face",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/dress", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

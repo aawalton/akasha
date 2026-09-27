@@ -19,4 +19,5 @@ export const image8832f3e022611777 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

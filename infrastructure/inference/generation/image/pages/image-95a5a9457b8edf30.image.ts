@@ -11,4 +11,5 @@ export const image95a5a9457b8edf30 = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

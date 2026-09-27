@@ -10,4 +10,5 @@ export const image511a47b19959534a = {
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/bare-legs", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image
