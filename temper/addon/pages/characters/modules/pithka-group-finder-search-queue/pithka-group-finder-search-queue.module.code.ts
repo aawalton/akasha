@@ -30,7 +30,7 @@ export function entriesOf<V>(this: void, table: Record<number, V>): [number, V][
   return entries
 }
 
-export function searchKeyOf(this: void, category: number, difficulty: number): string {
+function searchKeyOf(this: void, category: number, difficulty: number): string {
   return `${category}_${difficulty}`
 }
 

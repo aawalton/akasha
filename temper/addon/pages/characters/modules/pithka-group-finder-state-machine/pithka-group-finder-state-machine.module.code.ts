@@ -12,13 +12,9 @@ export const EVENTS = {
   JOIN_GROUP: "JOIN_GROUP",
 } as const
 
-export type GroupFinderEvent = (typeof EVENTS)[keyof typeof EVENTS]
+type GroupFinderEvent = (typeof EVENTS)[keyof typeof EVENTS]
 
-export type StateCallback<D> = (
-  this: void,
-  oldState: GroupFinderState,
-  data: D | undefined
-) => undefined
+type StateCallback<D> = (this: void, oldState: GroupFinderState, data: D | undefined) => undefined
 
 export type GroupFinderStateMachine<D> = {
   readonly RegisterCallback: (
