@@ -103,6 +103,10 @@ export const otherwhereCoreChamber = {
       fact: "Emergency protocols hamper movement near the core, so the core seems further than it is.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Time feels fluid near the core under emergency protocols, and hours pass unnoticed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
