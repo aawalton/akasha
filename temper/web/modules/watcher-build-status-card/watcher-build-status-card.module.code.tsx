@@ -8,52 +8,43 @@ import {
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { ago } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
+import {
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import type { WatcherBuildSummary } from "akasha/temper/web/modules/watcher-build-status/watcher-build-status.module.code.ts"
+import { watcherBuildStatusCardCurrent } from "akasha/temper/web/phrase/pages/watcher-build-status-card-current.temper-web-phrase.ts"
+import { watcherBuildStatusCardNeverReported } from "akasha/temper/web/phrase/pages/watcher-build-status-card-never-reported.temper-web-phrase.ts"
+import { watcherBuildStatusCardSourceBuild } from "akasha/temper/web/phrase/pages/watcher-build-status-card-source-build.temper-web-phrase.ts"
+import { watcherBuildStatusCardStale } from "akasha/temper/web/phrase/pages/watcher-build-status-card-stale.temper-web-phrase.ts"
+import { watcherBuildStatusCardTargetUnknown } from "akasha/temper/web/phrase/pages/watcher-build-status-card-target-unknown.temper-web-phrase.ts"
 import { AlertTriangle, CheckCircle2, CircleDashed, HelpCircle, Wrench } from "lucide-react"
 
 type Presentation = {
   icon: typeof CheckCircle2
   tone: string
-  title: string
-  body: string
+  wording: { slug: string }
 }
 
 function present(build: WatcherBuildSummary): Presentation {
   switch (build.verdict) {
     case "current":
-      return {
-        icon: CheckCircle2,
-        tone: "text-green",
-        title: `Watcher was up to date${ago(build.reportedAt)}`,
-        body: "The last time your Watcher reported in, it was running the build Temper currently serves. It updates itself, so it should stay that way — but this line describes that moment, not right now.",
-      }
+      return { icon: CheckCircle2, tone: "text-green", wording: watcherBuildStatusCardCurrent }
     case "stale":
-      return {
-        icon: AlertTriangle,
-        tone: "text-orange",
-        title: `Watcher is running an older build${ago(build.reportedAt)}`,
-        body: "Your Watcher last reported a different build than the one Temper now serves. It is meant to update itself automatically, so this usually means its update check cannot reach Temper. Restarting the Watcher makes it check again; if this persists, tell us — the cause is on our side more often than yours.",
-      }
+      return { icon: AlertTriangle, tone: "text-orange", wording: watcherBuildStatusCardStale }
     case "never-reported":
       return {
         icon: CircleDashed,
         tone: "text-tertiary",
-        title: "Watcher has not reported its version",
-        body: "Temper has never received a run report from this Watcher, so it cannot tell which build you are on. Either the Watcher has not completed a sync yet, or it predates version reporting and cannot say what it is running. Neither means it is broken — but neither confirms it is working.",
+        wording: watcherBuildStatusCardNeverReported,
       }
     case "source-build":
-      return {
-        icon: Wrench,
-        tone: "text-secondary",
-        title: `Watcher is running from source${ago(build.reportedAt)}`,
-        body: "This Watcher reports itself as a development build rather than a released one, so Temper cannot compare it to what it serves. That is expected when the Watcher runs from source. From a downloaded Watcher it would mean the build was stamped wrong — worth telling us about.",
-      }
+      return { icon: Wrench, tone: "text-secondary", wording: watcherBuildStatusCardSourceBuild }
     case "target-unknown":
       return {
         icon: HelpCircle,
         tone: "text-tertiary",
-        title: "Temper cannot tell which build it is serving",
-        body: "Temper could not read its own current Watcher version, so it has nothing to compare yours against. This is a problem on Temper's side, not with your install, and it means Watcher updates are probably not being served to anyone right now.",
+        wording: watcherBuildStatusCardTargetUnknown,
       }
     default:
       return assertNever(build.verdict)
@@ -61,7 +52,11 @@ function present(build: WatcherBuildSummary): Presentation {
 }
 
 export function WatcherBuildStatusCard({ build }: { build: WatcherBuildSummary }) {
-  const { icon: Icon, tone, title, body } = present(build)
+  const phrase = usePhrase()
+  const describe = usePhraseDescription()
+  const { icon: Icon, tone, wording } = present(build)
+  const title = phrase(wording.slug, { ago: ago(build.reportedAt) })
+  const body = describe(wording.slug)
 
   return (
     <Card>

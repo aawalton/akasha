@@ -6291,6 +6291,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/version-actions/version-actions.module.ts","id":"01a06589-8dc5-7000-8767-4f9e56617cf9"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.ts","id":"01a06589-8dce-7000-981b-4f4f858e4470"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/version-history-item/version-history-item.module.ts","id":"01a0e2a7-8c5a-76d7-b5c2-fe9707898acc"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/watcher-build-status-card/watcher-build-status-card.module.ts","id":"01a06432-b190-7d94-813e-11eb504fe26c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-build-status/watcher-build-status.module.ts","id":"01a0640f-8510-74a0-a7e6-a020f4b468ed"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-run-status/watcher-run-status.module.ts","id":"01a0640f-8510-71f3-afa2-898d69327ed2"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-sync-status/watcher-sync-status.module.ts","id":"01a0640f-8510-7f94-b946-33ea0f305e1f"}
