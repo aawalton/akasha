@@ -133,7 +133,20 @@ function reviewIn(root: string, said: Said): Handed | Refusal {
   return "refused" in read ? read : { kind: "review", reviewer, issues: linesIn(read.text) }
 }
 
+function characterRefused(said: Said): Refusal | null {
+  if (said.character.length === 0 || said.proseFile !== undefined) return null
+  const others = kindsIn({ ...said, character: [] })
+  if (others.length === 0) return null
+  return {
+    refused: [
+      `\`${character.said}\` names who is present in the writer's prose, so it belongs to the writer's step with \`${proseFile.said}\`, and this advance hands in ${others.join(" and ")}`,
+    ],
+  }
+}
+
 function handedFrom(root: string, said: Said): Handed | Refusal {
+  const misplaced = characterRefused(said)
+  if (misplaced !== null) return misplaced
   const kinds = kindsIn(said)
   if (kinds.length > 1) {
     return {
