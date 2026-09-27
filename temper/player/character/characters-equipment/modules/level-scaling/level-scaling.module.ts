@@ -15,5 +15,9 @@ export const levelScaling = {
       decisionKind: "decision-kind/departure",
       statement: "A piece's quality share comes from its quality page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A piece's worth level comes from the level band its item level falls in.",
+    },
   ],
 } as const satisfies Module
