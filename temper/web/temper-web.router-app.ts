@@ -369,5 +369,6 @@ export const temperWeb = {
     "module/build-date-line",
     "module/mine-row-landing",
     "module/mine-row-reading",
+    "module/filterable-select-trigger",
   ],
 } as const satisfies RouterApp

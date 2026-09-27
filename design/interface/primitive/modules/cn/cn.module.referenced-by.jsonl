@@ -139,6 +139,7 @@
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/companion-ultimate-slot-card/companion-ultimate-slot-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/effect-card/effect-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/filterable-select-trigger/filterable-select-trigger.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/formula-display/formula-display.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/import-page-content/import-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/new-character-panel-card/new-character-panel-card.module.code.tsx","typed":false,"deferred":false}

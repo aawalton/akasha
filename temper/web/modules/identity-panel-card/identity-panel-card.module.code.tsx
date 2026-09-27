@@ -20,7 +20,7 @@ import {
   type VampireStageId,
   vampireStages,
 } from "akasha/temper/player/character/source/modules/vampire-stages/vampire-stages.module.code.ts"
-import { FilterableSelectTrigger } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { FilterableSelectTrigger } from "akasha/temper/web/modules/filterable-select-trigger/filterable-select-trigger.module.code.tsx"
 import { RaceSelectDialog } from "akasha/temper/web/modules/race-select-dialog/race-select-dialog.module.code.tsx"
 import { useState } from "react"
 

@@ -6,4 +6,11 @@ export const filterableSelectDialog = {
   slug: "filterable-select-dialog",
   definition: "a dialog choosing an item out of a searched, badge-filtered, grouped list",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The effect names are worked out again whenever the stats or skill catalogue are read again.",
+    },
+  ],
 } as const satisfies Module

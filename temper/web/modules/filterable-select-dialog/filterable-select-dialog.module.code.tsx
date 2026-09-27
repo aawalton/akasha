@@ -28,41 +28,13 @@ import {
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import { HorizontalScrollFade } from "akasha/design/interface/primitive/modules/horizontal-scroll-fade/horizontal-scroll-fade.module.code.tsx"
-import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
-import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
+import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { formatEffects } from "akasha/temper/player/character/stat/modules/format-effects/format-effects.module.code.ts"
-import { Check, ChevronDown, ChevronRight, X } from "lucide-react"
-import type * as React from "react"
+import { useHeldMetricCatalog } from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
+import { Check, ChevronRight, X } from "lucide-react"
 import type { ReactNode } from "react"
 import { useMemo, useState } from "react"
-
-export function FilterableSelectTrigger({
-  className,
-  size = "default",
-  children,
-  ...props
-}: React.ComponentProps<"button"> & {
-  size?: "sm" | "default"
-}) {
-  const surface = useSurface()
-  return (
-    <button
-      type="button"
-      data-slot="filterable-select-trigger"
-      data-size={size}
-      className={cn(
-        "flex w-fit items-center justify-between gap-2 whitespace-nowrap rounded-md px-3 py-2 text-sm shadow-xs outline-none transition-[color,box-shadow] disabled:cursor-not-allowed disabled:opacity-[0.38] data-[size=default]:h-9 data-[size=sm]:h-8 focus-visible:[outline-offset:-1px] focus-visible:[outline:1.5px_solid_var(--color-accent)] [&_svg:not([class*='size-'])]:size-4 [&_svg:not([class*='text-'])]:text-tertiary [&_svg]:pointer-events-none [&_svg]:shrink-0",
-        surfaceClass(surface + 1),
-        className
-      )}
-      {...props}
-    >
-      {children}
-      {!props.disabled && <ChevronDown className="size-4 opacity-50" />}
-    </button>
-  )
-}
 
 export interface FilterableSelectDialogItem {
   id: string
@@ -121,6 +93,8 @@ export function FilterableSelectDialog<T extends FilterableSelectDialogItem>({
   const [search, setSearch] = useState("")
   const [selectedEffects, setSelectedEffects] = useState<readonly BadgeToggleGroupItem[]>([])
   const [expandedGroups, setExpandedGroups] = useState<Set<string>>(new Set(defaultExpandedGroups))
+  const metricsRead = useHeldMetricCatalog()
+  const skillCatalogRead = heldSkillCatalog()
 
   const filterItems = (
     items: readonly T[],
@@ -150,7 +124,7 @@ export function FilterableSelectDialog<T extends FilterableSelectDialogItem>({
         items: filterItems(category.items, search, selectedEffects),
       }))
       .filter((category: FilterableSelectDialogCategory<T>) => category.items.length > 0)
-  }, [config.categories, search, selectedEffects])
+  }, [config.categories, search, selectedEffects, metricsRead, skillCatalogRead])
 
   const getAllUniqueEffects = (): readonly string[] => {
     const effectsSet = new Set<string>()
@@ -166,7 +140,10 @@ export function FilterableSelectDialog<T extends FilterableSelectDialogItem>({
     return config.sortEffects ? config.sortEffects(effects) : effects.sort()
   }
 
-  const allEffects = useMemo(() => getAllUniqueEffects(), [config.allItems])
+  const allEffects = useMemo(
+    () => getAllUniqueEffects(),
+    [config.allItems, metricsRead, skillCatalogRead]
+  )
 
   const availableEffects = useMemo(() => {
     let effects: readonly string[]
@@ -197,7 +174,7 @@ export function FilterableSelectDialog<T extends FilterableSelectDialogItem>({
       value: effect,
       label: effect,
     }))
-  }, [selectedEffects, allEffects, config.allItems])
+  }, [selectedEffects, allEffects, config.allItems, metricsRead, skillCatalogRead])
 
   const handleSelect = (itemId: T["id"]) => {
     const nextId = itemId === selectedItemId ? defaultItem.id : itemId

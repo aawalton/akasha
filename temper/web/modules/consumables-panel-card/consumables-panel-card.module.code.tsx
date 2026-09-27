@@ -14,7 +14,7 @@ import {
 } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import type { FoodOrDrinkId } from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import type { MundusId } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
-import { FilterableSelectTrigger } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { FilterableSelectTrigger } from "akasha/temper/web/modules/filterable-select-trigger/filterable-select-trigger.module.code.tsx"
 import {
   FoodDrinkSelectDialog,
   getFoodDrinkById,
