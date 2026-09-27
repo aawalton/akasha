@@ -44,7 +44,7 @@ export const otherwhereMainHall = {
       ],
     },
     {
-      fact: "The Librarian's quarters hold a dusty bed, a wardrobe, and a bathroom with a deep stone tub.",
+      fact: "The Librarian's quarters hold a wide bed, a wardrobe, and a bathroom with a deep stone tub.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -79,10 +79,7 @@ export const otherwhereMainHall = {
       fact: "Awake again, the kitchen bakes a little on its own, and fresh bread is ready by morning.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Nobody has slept in the Librarian's quarters for centuries.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "The wardrobe holds a past Librarian's plain robes, long on Nala but wearable.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
