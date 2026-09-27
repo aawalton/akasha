@@ -8,6 +8,13 @@ export const storyPlayed = {
   pluralSlug: "stories",
   extends: ["page-type/story"],
   runsTabooCheck: false,
+  detailConfig: {
+    frame: {
+      autoScroll: {
+        loadScroll: "end",
+      },
+    },
+  },
   parts: [
     "file-property/prose",
     "module/action-bar",
