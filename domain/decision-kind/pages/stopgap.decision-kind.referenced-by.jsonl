@@ -83,8 +83,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-rule/properties/condition-value.text-property.ts","id":"01a05fd0-3aa5-7e12-bb0a-a40ab13f2405"}
 {"propertySlug":"decision-kind","path":"temper/watcher/modules/watcher-pricing-tables/watcher-pricing-tables.module.ts","id":"01a06381-35cf-7f9a-8a86-81d472cd7c24"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.ts","id":"01a0d6ce-62ac-73a1-a83d-9df3d5744100"}
-{"propertySlug":"decision-kind","path":"temper/web/modules/use-web-phrases/use-web-phrases.module.ts","id":"01a0e299-ff83-76a2-adcc-651f5e891a77"}
-{"propertySlug":"decision-kind","path":"temper/web/phrase/temper-web-phrase.page-type.ts","id":"01a0e299-6ed9-7114-a745-1830d563ab9f"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/type-scale/type-scale.module.ts","id":"01a0d8ec-bf2c-7168-a84c-a0284fc3084e"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-controls/window-controls.module.ts","id":"01a0d969-c1ee-708b-9ea9-46e14edd83d9"}
 {"propertySlug":"decision-kind","path":"temper/window/modules/window-frame/window-frame.module.ts","id":"01a0d8a7-e6a1-7041-b460-2a7571138d9f"}

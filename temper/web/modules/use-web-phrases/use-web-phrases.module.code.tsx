@@ -35,8 +35,6 @@ function phrasesFrom(rows: readonly Value[]): WebPhrases {
     }
     const worded = { title, description: textAt(row, "description") }
     read.set(slug, worded)
-    const key = textAt(row, "key")
-    if (key !== null) read.set(key, worded)
   }
   return read
 }

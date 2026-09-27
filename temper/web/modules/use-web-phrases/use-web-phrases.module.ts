@@ -23,10 +23,7 @@ export const useWebPhrases = {
       decisionKind: "decision-kind/departure",
       statement: "A phrase's long wording is read from its description, whole.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A page still stating a key is found by that key too, until the keys are gone.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A screen that reads a phrase redraws when that phrase's page changes.",

@@ -24,10 +24,7 @@ export const temperWebPhrase = {
       decisionKind: "decision-kind/departure",
       statement: "A slug never holds two hyphens running.",
     },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "Key and display order stay optional until the pages that state them drop them.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A name in braces in the title is filled by the screen that shows it.",
