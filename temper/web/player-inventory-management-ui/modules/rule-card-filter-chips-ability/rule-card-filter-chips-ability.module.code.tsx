@@ -16,6 +16,10 @@ import { CAN_OPEN_OPTIONS } from "akasha/temper/items/rules/core/modules/can-ope
 import { CAN_RESEARCH_OPTIONS } from "akasha/temper/items/rules/core/modules/can-research-filter/can-research-filter.module.code.ts"
 import { CAN_UNLOCK_OPTIONS } from "akasha/temper/items/rules/core/modules/can-unlock-filter/can-unlock-filter.module.code.ts"
 import { FilterLock } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
+import {
+  titleOfFilter,
+  useConditionFieldTitles,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-field-titles/use-condition-field-titles.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -72,6 +76,9 @@ export function RuleCardFilterChipAbility({
     handleCanCompanionEquipChange,
     handleRemoveFilter,
   } = state
+  const titles = useConditionFieldTitles()
+  if (titles === null) return null
+  const title = titleOfFilter(titles, id)
 
   switch (id) {
     case "can-inspire":
@@ -178,12 +185,12 @@ export function RuleCardFilterChipAbility({
     case "can-sell":
       return action === "fence-sell" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          Can Sell to Merchant
+          {title}
           <FilterLock reason="The Sell to Fence action requires the Can Sell filter because fences only accept items with a vendor sell price." />
         </Badge>
       ) : displayAction === "sell" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          Can Sell to Merchant
+          {title}
           <FilterLock reason="The Sell to Merchant action requires the Can Sell filter to ensure only items with a vendor sell price are sold." />
         </Badge>
       ) : (
@@ -193,14 +200,14 @@ export function RuleCardFilterChipAbility({
           onRemove={() => handleRemoveFilter("can-sell")}
           removeLabel="Remove can sell filter"
         >
-          Can Sell to Merchant
+          {title}
         </Badge>
       )
 
     case "can-list-at-guild-trader":
       return displayAction === "sell" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          Can List at Guild Trader
+          {title}
           <FilterLock reason="The List at Guild Store action requires the Can List at Guild Trader filter to ensure only items that can be sold on the trading house are listed." />
         </Badge>
       ) : (
@@ -210,7 +217,7 @@ export function RuleCardFilterChipAbility({
           onRemove={() => handleRemoveFilter("can-list-at-guild-trader")}
           removeLabel="Remove can list at guild trader filter"
         >
-          Can List at Guild Trader
+          {title}
         </Badge>
       )
 
@@ -257,7 +264,7 @@ export function RuleCardFilterChipAbility({
     case "needed-for-target-character-build":
       return displayAction === "character-equip" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          Needed for Target Character Build
+          {title}
           <FilterLock reason="The Character Equip action requires the Needed for Target Character Build filter to ensure only items needed by a target build are equipped." />
         </Badge>
       ) : (
@@ -267,14 +274,14 @@ export function RuleCardFilterChipAbility({
           onRemove={() => handleRemoveFilter("needed-for-target-character-build")}
           removeLabel="Remove needed for target character build filter"
         >
-          Needed for Target Character Build
+          {title}
         </Badge>
       )
 
     case "needed-for-target-companion-build":
       return displayAction === "companion-equip" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          Needed for Target Companion Build
+          {title}
           <FilterLock reason="The Companion Equip action requires the Needed for Target Companion Build filter to ensure only items needed by a companion's target build are equipped." />
         </Badge>
       ) : (
@@ -284,7 +291,7 @@ export function RuleCardFilterChipAbility({
           onRemove={() => handleRemoveFilter("needed-for-target-companion-build")}
           removeLabel="Remove needed for target companion build filter"
         >
-          Needed for Target Companion Build
+          {title}
         </Badge>
       )
     default:
