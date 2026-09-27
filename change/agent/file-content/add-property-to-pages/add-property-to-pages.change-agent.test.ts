@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
+import { mkdtempSync, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import {
+  pagesGiven,
   runChange,
   valuedIn,
 } from "akasha/change/agent/file-content/add-property-to-pages/add-property-to-pages.change-agent.code.ts"
@@ -74,6 +77,25 @@ test("the change reached is handed the lines read as pages and values", async ()
   const held = caught()
   await runChange(worldRecording(held), { key: KEY, pages: `${ONE} ${NOUN}` })
   expect(held.given).toEqual({ key: KEY, valued: [{ path: ONE, value: NOUN }] })
+})
+
+test("lines read from a file are the lines handed in", async () => {
+  const from = join(mkdtempSync("/var/tmp/add-property-to-pages-test-"), "lines.txt")
+  writeFileSync(from, `${ONE} ${NOUN}\n`)
+  const held = caught()
+  await runChange(worldRecording(held), { key: KEY, "pages-from": from })
+  expect(held.given).toEqual({ key: KEY, valued: [{ path: ONE, value: NOUN }] })
+})
+
+test("lines handed in and lines read from a file together are refused", () => {
+  expect(pagesGiven({ pages: `${ONE} ${NOUN}`, "pages-from": "/nowhere" })).toEqual({
+    refused: "`pages` and `pages-from` are both given, and one names the lines",
+  })
+})
+
+test("a file that is not there is refused rather than read as no lines", () => {
+  const said = pagesGiven({ "pages-from": "/nowhere/lines.txt" })
+  expect(typeof said === "string" ? said : said.refused).toContain("holds no file")
 })
 
 test("an `after` the caller states is handed to the change reached", async () => {

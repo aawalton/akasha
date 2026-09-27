@@ -1,3 +1,4 @@
+import { existsSync, readFileSync } from "node:fs"
 import { addPropertyToPages as addPropertyToPagesMechanical } from "akasha/change/mechanical/file-content/add/add-property-to-pages/add-property-to-pages.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import {
@@ -14,6 +15,8 @@ const KEY = "key"
 const PAGES = "pages"
 
 const AFTER = "after"
+
+const PAGES_FROM = "pages-from"
 
 const GAP = /\s+/
 
@@ -49,13 +52,24 @@ export async function addPropertyToPages(
 
 export type Asked = Readonly<Record<string, string>>
 
-export const takes: readonly string[] = [KEY, PAGES, AFTER]
+export const takes: readonly string[] = [KEY, PAGES, PAGES_FROM, AFTER]
+
+export function pagesGiven(given: Asked): string | { readonly refused: string } {
+  const pages = given[PAGES]
+  const from = given[PAGES_FROM]
+  if (pages !== undefined && from !== undefined)
+    return { refused: `\`${PAGES}\` and \`${PAGES_FROM}\` are both given, and one names the lines` }
+  if (pages !== undefined) return pages
+  if (from === undefined) return { refused: missing(PAGES) }
+  if (!existsSync(from)) return { refused: `\`${from}\` holds no file to read the lines from` }
+  return readFileSync(from, "utf8")
+}
 
 export async function runChange(world: World, given: Asked): Promise<Answer> {
   const key = given[KEY]
   if (key === undefined) return refusing(missing(KEY))
-  const pages = given[PAGES]
-  if (pages === undefined) return refusing(missing(PAGES))
+  const pages = pagesGiven(given)
+  if (typeof pages !== "string") return refusing(pages.refused)
   const valued = valuedIn(pages)
   if (typeof valued === "string") return refusing(valued)
   if (valued.length === 0) return refusing("no page is named, so nothing is put in")

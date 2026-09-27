@@ -25,6 +25,15 @@ export const addPropertyToPages = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The lines are handed in, or read from a file outside the tree that `pages-from` names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Lines handed in beside a file named for them are refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Naming no page is refused rather than answered as no edit.",
     },
     {
