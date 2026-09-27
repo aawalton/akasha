@@ -32,6 +32,11 @@ export const alanWebPageDetail = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A page whose loader reads nothing beyond it follows that page alone rather than its page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The reads the loader carried are handed to the page store before it asks for them.",
     },
   ],

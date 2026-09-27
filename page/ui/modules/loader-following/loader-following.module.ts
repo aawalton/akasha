@@ -13,7 +13,15 @@ export const loaderFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Such a route holds a stream of its own beside any the page store holds.",
+      statement: "Such a route follows on the one stream the tab's page store holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A route following before anything opened that stream opens it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A route whose loader reads one page follows that page by id.",
     },
     {
       decisionKind: "decision-kind/departure",

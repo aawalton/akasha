@@ -3,7 +3,10 @@ import { PageDetailErrorBoundary } from "akasha/alan/web/modules/page-detail-err
 import { PageDetailWithReadMark } from "akasha/alan/web/modules/page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"
 import { siteNamedIn } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
-import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
+import {
+  type Followed,
+  useLoaderFollowing,
+} from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { seedPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import {
   DISPLAY_PARAM,
@@ -55,6 +58,15 @@ const READING_STORY = "reading-story"
 
 const NAV_READ: readonly string[] = ["nav"]
 
+function followedBy(read: {
+  readonly pageTypeSlug: string
+  readonly id: string
+  readonly followsType: boolean
+}): readonly Followed[] {
+  const page = { pageTypeSlug: read.pageTypeSlug, id: read.id }
+  return read.followsType ? [page, read.pageTypeSlug, READING_STORY] : [page]
+}
+
 const seeded = new WeakSet<object>()
 
 function seededOnce(seeds: Readonly<Record<string, unknown>>): undefined {
@@ -97,9 +109,7 @@ export const ErrorBoundary = PageDetailErrorBoundary
 export default function PageDetailRoute({ loaderData }: { loaderData: PageDetailLoaderData }) {
   const [searchParams] = useSearchParams()
   const displayMode = parseDisplayMode(searchParams.get(DISPLAY_PARAM))
-  useLoaderFollowing(
-    loaderData.kind === "nav" ? NAV_READ : [loaderData.pageTypeSlug, READING_STORY]
-  )
+  useLoaderFollowing(loaderData.kind === "nav" ? NAV_READ : followedBy(loaderData))
 
   if (loaderData.kind === "nav") {
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />

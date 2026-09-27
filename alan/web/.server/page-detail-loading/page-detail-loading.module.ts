@@ -24,5 +24,10 @@ export const pageDetailLoading = {
       decisionKind: "decision-kind/departure",
       statement: "A read that goes unanswered here is left for the browser to make.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page in a sequence or a story read says its loader reads beyond the page itself.",
+    },
   ],
 } as const satisfies Module

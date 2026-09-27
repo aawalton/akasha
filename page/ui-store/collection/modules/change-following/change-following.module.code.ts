@@ -71,6 +71,7 @@ interface StoreFollowing {
   readonly live: (key: string) => boolean
   readonly followPages: (at: FollowingAt) => undefined
   readonly watchPage: (pageTypeSlug: string, id: string, told: () => undefined) => PageWatch
+  readonly watchPages: (pageTypeSlug: string, told: () => undefined) => PageWatch
 }
 
 const STREAM_SAID = z.looseObject({ stream: z.string().min(1) })
@@ -325,25 +326,32 @@ export function createStoreFollowing(
       followingAt = at
       return following.start()
     },
-    watchPage: (pageTypeSlug, id, told) => {
-      const key = `page:${namedShapeKey(pageTypeSlug, { by: "id", values: [id] })}`
-      const held = heardBy.get(key) ?? new Set<() => undefined>()
-      heardBy.set(key, held)
-      const listener = (): undefined => told()
-      held.add(listener)
-      following.follow(key, { pageTypeSlug, by: "id", values: [id] })
-      let released = false
-      return {
-        live: () => following.live(key),
-        release: () => {
-          if (released) return undefined
-          released = true
-          following.unfollow(key)
-          held.delete(listener)
-          if (held.size === 0) heardBy.delete(key)
-          return undefined
-        },
-      }
-    },
+    watchPage: (pageTypeSlug, id, told) =>
+      watched(
+        `page:${namedShapeKey(pageTypeSlug, { by: "id", values: [id] })}`,
+        { pageTypeSlug, by: "id", values: [id] },
+        told
+      ),
+    watchPages: (pageTypeSlug, told) => watched(`pages:${pageTypeSlug}`, { pageTypeSlug }, told),
+  }
+
+  function watched(key: string, followed: Followed, told: () => undefined): PageWatch {
+    const held = heardBy.get(key) ?? new Set<() => undefined>()
+    heardBy.set(key, held)
+    const listener = (): undefined => told()
+    held.add(listener)
+    following.follow(key, followed)
+    let released = false
+    return {
+      live: () => following.live(key),
+      release: () => {
+        if (released) return undefined
+        released = true
+        following.unfollow(key)
+        held.delete(listener)
+        if (held.size === 0) heardBy.delete(key)
+        return undefined
+      },
+    }
   }
 }

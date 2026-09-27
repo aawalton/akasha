@@ -207,3 +207,46 @@ test("a store reads a shape again when it is pushed, and tells whoever watches i
   expect(asked).toEqual([undefined, ["x"]])
   watch.release()
 })
+
+test("a view watching a whole page type is told on the store's one stream, and no stream is opened for it", async () => {
+  const streams: Fake[] = []
+  const sent: unknown[] = []
+  const store = createStoreFollowing(
+    new Map(),
+    async (_at, init) => {
+      sent.push(JSON.parse(String(init?.body)))
+      return new Response("{}", { status: 200 })
+    },
+    () => {
+      const one = fakeStream()
+      streams.push(one)
+      return one
+    },
+    true
+  )
+  let told = 0
+  const watch = store.watchPages("web-app", () => {
+    told += 1
+    return undefined
+  })
+  const page = store.watchPage("seat", "x", () => undefined)
+  store.followPages({ events: "/events", follow: "/follow" })
+  store.followPages({ events: "/events", follow: "/follow" })
+  streams[0]?.say("stream", { stream: "one" })
+  await until(() => sent.length > 0)
+  streams[0]?.say("page", { pageTypeSlug: "web-app", slug: "a", keys: ["pages:web-app"] })
+
+  expect(streams.length).toBe(1)
+  expect(sent).toEqual([
+    {
+      stream: "one",
+      follows: [
+        { key: "pages:web-app", pageTypeSlug: "web-app" },
+        { key: "page:seat?id=x", pageTypeSlug: "seat", by: "id", values: ["x"] },
+      ],
+    },
+  ])
+  expect(told).toBe(1)
+  watch.release()
+  page.release()
+})

@@ -53,5 +53,10 @@ export const changeFollowing = {
       decisionKind: "decision-kind/departure",
       statement: "A stream refusing what is followed is opened again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A view may watch one page or a whole page type on the store's stream, and is told each push.",
+    },
   ],
 } as const satisfies Module

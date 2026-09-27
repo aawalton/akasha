@@ -238,6 +238,7 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
     chapterNumber,
     storyTitle,
     nextUnreadHref,
+    followsType: sequenceConfig != null || resolvedSlug === READING_STORY_SLUG,
     seeds: await seeding,
   })
 }

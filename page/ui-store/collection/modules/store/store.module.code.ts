@@ -93,6 +93,7 @@ export interface PagesStore {
   readonly readSlugAgain: (slug: string) => Promise<void>
   readonly followPages: (at: FollowingAt) => undefined
   readonly watchPage: (pageTypeSlug: string, id: string, told: () => undefined) => PageWatch
+  readonly watchPages: (pageTypeSlug: string, told: () => undefined) => PageWatch
   readonly rosterNamed: (pageTypeSlugs: readonly string[]) => Promise<readonly string[]>
   readonly seed: (answers: Readonly<Record<string, unknown>>) => undefined
 }
@@ -371,6 +372,7 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
     readSlugAgain: (slug) => readingAgain.get(slug)?.() ?? Promise.resolve(),
     followPages: following.followPages,
     watchPage: following.watchPage,
+    watchPages: following.watchPages,
     rosterNamed,
     seed: (answers) => {
       const at = Date.now()
