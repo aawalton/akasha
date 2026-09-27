@@ -28,4 +28,5 @@ export const theDatingGame00013 = {
     "She blows out a breath and laughs, as if weighing how long that would take to read aloud.",
     'Then she looks sidelong at him: "Constantly surprising," she says, and it isn\'t about the book.',
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
