@@ -10,6 +10,13 @@ export const temperWeaponSlot = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "number-property/equip-type", required: true, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon slot states the equip type the game gives a piece only that slot takes.",
+    },
   ],
   types: "ts",
   schema: "jsonl",

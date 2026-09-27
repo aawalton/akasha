@@ -8,4 +8,5 @@ export const mainHand = {
   key: "main-hand",
   icon: "/resources/gearslot_mainhand.png",
   displayOrder: 0,
+  equipType: 14,
 } as const satisfies TemperWeaponSlot

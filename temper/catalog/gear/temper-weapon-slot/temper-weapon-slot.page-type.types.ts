@@ -1,3 +1,4 @@
+import type { EquipType } from "akasha/temper/catalog/companion/thing/properties/equip-type.number-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
@@ -5,4 +6,5 @@ import type { Key } from "akasha/temper/thing/properties/key.text-property.types
 export type TemperWeaponSlot = TemperCatalogThing & {
   key: Key
   displayOrder: DisplayOrder
+  equipType: EquipType
 }
