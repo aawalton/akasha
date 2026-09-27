@@ -14,7 +14,7 @@ export const otherwhere00021 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I reach out with the broom and hook it around one of the worms, pulling it into the salt",
   beats: [
@@ -27,5 +27,5 @@ export const otherwhere00021 = {
     "The second bookworm stops circling and lifts its blind head toward the gap.",
   ],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
