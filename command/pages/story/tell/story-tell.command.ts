@@ -57,6 +57,11 @@ export const storyTell = {
       decisionKind: "decision-kind/departure",
       statement: "Two drafting calls on one page keep both facts told.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A telling writes the page as the formatter lays it out, so a later draft finds it so.",
+    },
   ],
   name: "tell",
   arguments: [

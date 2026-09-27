@@ -65,8 +65,20 @@ function readingOf(bodies: Map<string, string>, facts: readonly unknown[]): Read
     },
     valueAt: (path) => (path === AT ? { facts: [...facts] } : null),
     textOf: (path) => bodies.get(path) ?? null,
+    shaped: (_path, text) => text,
   }
 }
+
+test("a tell drafts the page as the landing's formatter lays it out", () => {
+  const bodies = new Map([
+    [AT, BODY],
+    [SECRETS_AT, '"one"\n'],
+  ])
+  const reading = { ...readingOf(bodies, []), shaped: (_path: string, _text: string) => "laid\n" }
+  const asked = askedFor(tellOf("one"), reading)
+  if (typeof asked === "string") throw new Error(asked)
+  expect(Reflect.get(asked[0]?.given ?? {}, "new")).toBe("laid\n")
+})
 
 function tellOf(fact: string, knowers: readonly string[] = [HER]): Taken {
   return { page: PAGE, fact, knowers, drafts: true }

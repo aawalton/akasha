@@ -22,6 +22,7 @@ import {
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
+import { formattedBody } from "akasha/code/running/modules/code-format/code-format.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { draft as draftArgument } from "akasha/command/argument/pages/draft.argument.ts"
 import { fact as factArgument } from "akasha/command/argument/pages/fact.argument.ts"
@@ -107,6 +108,12 @@ export type Reading = {
   readonly listedAt: (pageTypeSlug: string, slug: string) => readonly { readonly path: string }[]
   readonly valueAt: (path: string) => Value | null
   readonly textOf: (path: string) => string | null
+  readonly shaped: (path: string, text: string) => string
+}
+
+function shapedUnder(root: string): (path: string, text: string) => string {
+  return (path, text) =>
+    new TextDecoder().decode(formattedBody(root, path, new TextEncoder().encode(text)).body)
 }
 
 export function rootReading(root: string): Reading {
@@ -117,6 +124,7 @@ export function rootReading(root: string): Reading {
       const at = join(root, path)
       return statSync(at, { throwIfNoEntry: false }) === undefined ? null : readFileSync(at, UTF8)
     },
+    shaped: shapedUnder(root),
   }
 }
 
@@ -125,6 +133,7 @@ export function worldReading(world: World): Reading {
     listedAt: (pageTypeSlug, slug) => world.index.listedAt(pageTypeSlug, slug),
     valueAt: (path) => world.index.valueAt(path),
     textOf: (path) => world.textOf(path),
+    shaped: shapedUnder(world.root),
   }
 }
 
@@ -247,7 +256,7 @@ export function askedFor(held: Taken, reading: Reading): readonly Asking[] | str
   if (text === null) return `\`${at}\` holds no body to tell a fact on`
   const body = bodyTelling(at, text, now)
   if (body === null) return `\`${at}\` exports no object`
-  const asked: Asking[] = [replacing(at, text, body)]
+  const asked: Asking[] = [replacing(at, text, reading.shaped(at, body))]
   if (now.secrets.length === was.secrets.length) return asked
   const kept = reading.textOf(secretsFile)
   if (kept === null) return `\`${secretsFile}\` holds no secrets to tell from`
