@@ -1,5 +1,6 @@
 import type { Alliance } from "akasha/temper/catalog/companion/temper-eso-companion/properties/alliance.relation-property.types.ts"
 import type { ClassPassiveId } from "akasha/temper/catalog/companion/temper-eso-companion/properties/class-passive-id.text-property.types.ts"
+import type { CompanionQuests } from "akasha/temper/catalog/companion/temper-eso-companion/properties/companion-quests.page-property-entry.types.ts"
 import type { EsoCompanionId } from "akasha/temper/catalog/companion/temper-eso-companion/properties/eso-companion-id.number-property.types.ts"
 import type { PassiveEffects } from "akasha/temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.types.ts"
 import type { Subtitle } from "akasha/temper/catalog/companion/temper-eso-companion/properties/subtitle.text-property.types.ts"
@@ -14,5 +15,6 @@ export type TemperEsoCompanion = TemperCompanionThing & {
   esoCompanionId: EsoCompanionId
   classPassiveId?: ClassPassiveId
   passiveEffects?: PassiveEffects
+  companionQuests?: CompanionQuests
   hashPlace: HashPlace
 }

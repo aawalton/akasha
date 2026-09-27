@@ -8,6 +8,8 @@ export const temperEsoCompanion = {
   extends: ["page-type/temper-companion-thing"],
   parts: [
     "number-property/eso-companion-id",
+    "number-property/required-rapport-level",
+    "page-property-entry/companion-quests",
     "page-property-entry/passive-effects",
     "relation-property/alliance",
     "text-property/class-passive-id",
@@ -21,6 +23,7 @@ export const temperEsoCompanion = {
     { pageProperty: "number-property/eso-companion-id", required: true, many: false },
     { pageProperty: "text-property/class-passive-id", required: false, many: false },
     { pageProperty: "page-property-entry/passive-effects", required: false, many: false },
+    { pageProperty: "page-property-entry/companion-quests", required: false, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   decisions: [

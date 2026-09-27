@@ -4973,6 +4973,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.ts","id":"01a0d62f-91ec-7359-b3c6-02f07f883204"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.ts","id":"01a0d47b-69f6-7148-8788-0b66c90ea8b7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/properties/alliance.relation-property.ts","id":"01a0cb4e-2ed1-7e8e-a8c9-ff9076977804"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/properties/companion-quests.page-property-entry.ts","id":"01a0e091-e9da-78c5-a2f3-0a14822277f1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts","id":"01a0d3e2-b138-7ae3-a092-02aca2555e4f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/trait/properties/companion-metric.relation-property.ts","id":"01a0d3d2-e04b-7a25-bebc-6c7c9d72dad7"}

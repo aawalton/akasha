@@ -350,6 +350,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/skill/properties/tick-interval.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/properties/value-num.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/eso-companion-id.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/required-rapport-level.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/thing/properties/equip-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/trait/properties/eso-armor-trait-type.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/companion/trait/properties/eso-jewelry-trait-type.number-property.ts","typed":true,"deferred":false}
