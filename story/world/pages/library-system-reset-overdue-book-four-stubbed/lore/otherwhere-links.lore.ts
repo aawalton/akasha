@@ -88,6 +88,10 @@ export const otherwhereLinks = {
       fact: "Links keeps things back to spare a newcomer overload, which makes him seem cagey.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Links has not had anyone to talk to for centuries, and forgets how to talk to people.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
