@@ -5,6 +5,8 @@ export const ancestralAkaviri = {
   type: "page-type/temper-motif-style",
   slug: "ancestral-akaviri",
   title: "Ancestral Akaviri",
+  esoItemStyleId: 108,
+  styleName: "Ancestral Akaviri",
   collectionIndex: 77,
   sourceDescription: "Treasure maps and antiquities (Blackwood)",
 } as const satisfies TemperMotifStyle
