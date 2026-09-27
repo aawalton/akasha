@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { holdPagesOfTypeFromCheckout } from "akasha/design/language/lua-compiler/modules/plugin-pages-of-type/plugin-pages-of-type.module.test-fixtures.ts"
 import {
   resolveCompanionQuests,
   resolveCompanionRapport,
@@ -7,8 +8,10 @@ import {
 import { ALL_COMPANION_IDS } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import { characterEntry } from "akasha/temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
-import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
+import { companionQuestGroups } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
+
+holdPagesOfTypeFromCheckout()
 
 function itemAt<T>(items: readonly T[], index: number, what: string): T {
   const item = items[index]
@@ -16,14 +19,13 @@ function itemAt<T>(items: readonly T[], index: number, what: string): T {
   return item
 }
 
-const ALL_COMPANION_QUEST_IDS: number[] = COMPANION_QUEST_DATA.flatMap((group) =>
+const ALL_COMPANION_QUEST_IDS: number[] = companionQuestGroups().flatMap((group) =>
   group.quests.map((quest) => quest.questId)
 )
 const TOTAL_COMPANION_QUESTS = ALL_COMPANION_QUEST_IDS.length
 
-const BASTIAN_GROUP = COMPANION_QUEST_DATA.find((group) => group.companionId === "bastian")
-if (BASTIAN_GROUP === undefined)
-  throw new Error("fixture: bastian is absent from COMPANION_QUEST_DATA")
+const BASTIAN_GROUP = companionQuestGroups().find((group) => group.companionId === "bastian")
+if (BASTIAN_GROUP === undefined) throw new Error("fixture: bastian's page states no quest")
 const BASTIAN_QUESTS = BASTIAN_GROUP.quests
 const BASTIAN_FIRST = itemAt(BASTIAN_QUESTS, 0, "bastian holds no first quest")
 const BASTIAN_SECOND = itemAt(BASTIAN_QUESTS, 1, "bastian holds no second quest")

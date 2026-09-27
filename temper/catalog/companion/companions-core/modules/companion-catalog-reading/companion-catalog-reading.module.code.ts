@@ -94,6 +94,10 @@ import {
   holdTargetArmors,
   targetArmorsOf,
 } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import {
+  companionQuestGroupsOf,
+  holdCompanionQuestGroups,
+} from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 import { temperRotationBreakdownRow } from "akasha/temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts"
 
@@ -224,6 +228,7 @@ function namedFrom(rows: readonly Row[]): readonly CompanionRoleTemplate[] {
 export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
   holdTargetArmors(targetArmorsOf(rowsOf(temperTargetArmor.slug)))
   holdBuffsAndDebuffs(buffsAndDebuffsOf(rowsOf))
+  holdCompanionQuestGroups(companionQuestGroupsOf(rowsOf(temperEsoCompanion.slug)))
   return catalogOf({
     companions: companionsFrom(rowsOf(temperEsoCompanion.slug)),
     skills: companionSkillsFrom(rowsOf(temperCompanionSkill.slug)),

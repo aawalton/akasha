@@ -13,6 +13,8 @@ export const COMPANION_KEYS: readonly string[] = [
   "esoCompanionId",
   "classPassiveId",
   "hashPlace",
+  "firstName",
+  "companionQuests",
 ]
 
 export function inHashPlace<Held extends { readonly id: string }>(

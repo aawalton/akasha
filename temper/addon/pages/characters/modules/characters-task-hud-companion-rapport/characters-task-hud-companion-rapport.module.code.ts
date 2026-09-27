@@ -1,3 +1,10 @@
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { temperEsoCompanion } from "akasha/temper/catalog/companion/temper-eso-companion/temper-eso-companion.page-type.ts"
+import {
+  type CompanionQuestPage,
+  companionQuestGroupsOf,
+  readCompanionQuestGroupsWith,
+} from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import {
   clampRapportProgress,
   MAX_COMPANION_RAPPORT,
@@ -71,6 +78,10 @@ const COMPANION_RAPPORT_SOURCES: readonly CompanionRapportSource[] = [
     sources: ["Defense Force Daily (Zahari, Grahtwood Northern Gate)", "Tales of Tribute Daily"],
   },
 ]
+
+readCompanionQuestGroupsWith(() =>
+  companionQuestGroupsOf($pagesOfType<CompanionQuestPage>(temperEsoCompanion))
+)
 
 export function companionIdOfDefId(defId: number): string | undefined {
   return COMPANION_RAPPORT_SOURCES.find((entry) => entry.defId === defId)?.companionId

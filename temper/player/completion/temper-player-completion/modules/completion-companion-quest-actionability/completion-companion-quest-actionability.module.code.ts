@@ -1,4 +1,7 @@
-import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
+import {
+  type CompanionQuestGroup,
+  companionQuestGroups,
+} from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { rawRapportToCompanionTier } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 
 interface ActionableCompanionQuest {
@@ -23,19 +26,19 @@ export function isCompanionQuestActionable(
   return true
 }
 
-export const sortedCompanionQuestGroups: readonly (typeof COMPANION_QUEST_DATA)[number][] = [
-  ...COMPANION_QUEST_DATA,
-].sort((a, b) => {
-  if (a.companionName < b.companionName) return -1
-  if (a.companionName > b.companionName) return 1
-  return 0
-})
+export function sortedCompanionQuestGroups(): readonly CompanionQuestGroup[] {
+  return [...companionQuestGroups()].sort((a, b) => {
+    if (a.companionName < b.companionName) return -1
+    if (a.companionName > b.companionName) return 1
+    return 0
+  })
+}
 
 export function hasCompanionQuestLeft(
   companionId: string,
   completedIds: ReadonlySet<number>
 ): boolean {
-  const group = COMPANION_QUEST_DATA.find((one) => one.companionId === companionId)
+  const group = companionQuestGroups().find((one) => one.companionId === companionId)
   if (group === undefined) return false
   return group.quests.some((quest) => !completedIds.has(quest.questId))
 }
@@ -48,7 +51,7 @@ export function pickFirstActionableCompanionQuest(
   defIdOf: DefIdOf,
   companionId?: string
 ): ActionableCompanionQuest | undefined {
-  for (const group of sortedCompanionQuestGroups) {
+  for (const group of sortedCompanionQuestGroups()) {
     if (companionId !== undefined && group.companionId !== companionId) continue
     const defId = defIdOf(group.companionId)
     const raw = defId !== undefined ? rapportByDefId[defId] : undefined

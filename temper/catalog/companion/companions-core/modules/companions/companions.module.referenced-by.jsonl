@@ -6,7 +6,6 @@
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/player/character/build/companion-codec/modules/companion-codec-indices/companion-codec-indices.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-progress/completion-companion-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-progress/completion-companion-progress.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companions.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-companion-rapport-tally/completion-companion-rapport-tally.module.code.ts","typed":false,"deferred":false}

@@ -1,12 +1,15 @@
 import { expect, test } from "bun:test"
-import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
+import { companionQuestGroups } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { countCompanionQuests } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-quest-tally/completion-companion-quest-tally.module.code.ts"
 
-const EVERY_QUEST = COMPANION_QUEST_DATA.flatMap((group) =>
+holdCompanionCatalogFromCheckout()
+
+const EVERY_QUEST = companionQuestGroups().flatMap((group) =>
   group.quests.map((quest) => quest.questId)
 )
 
-const AZANDAR = COMPANION_QUEST_DATA.filter((group) => group.companionId === "azandar")
+const AZANDAR = companionQuestGroups().filter((group) => group.companionId === "azandar")
 
 test("a character with no quest record is counted as nothing rather than as none done", () => {
   expect(countCompanionQuests(undefined)).toBeUndefined()

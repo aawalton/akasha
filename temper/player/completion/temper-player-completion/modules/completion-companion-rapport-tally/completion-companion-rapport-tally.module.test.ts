@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
 import { getCompanionIdByDefId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
+import { companionQuestGroups } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import {
   countCompanionRapport,
@@ -11,7 +11,7 @@ import {
 
 holdCompanionCatalogFromCheckout()
 
-const QUESTED = COMPANION_QUEST_DATA[0]
+const QUESTED = companionQuestGroups()[0]
 const FIRST =
   rapportCompanionIds().find((id) => getCompanionIdByDefId(id) === QUESTED?.companionId) ?? 0
 const FIRST_QUESTS = QUESTED?.quests.map((quest) => quest.questId) ?? []

@@ -12,5 +12,21 @@ export const companionQuestData = {
       decisionKind: "decision-kind/constraint",
       statement: "A quest is named by the number the game knows that quest by.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The quests are read from the companion pages rather than written here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A server, a browser and a test hold them as they hold the companion catalogue.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An add-on reads them from the companion pages as it compiles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion is named by what it is called for short.",
+    },
   ],
 } as const satisfies Module

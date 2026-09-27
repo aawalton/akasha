@@ -1,11 +1,14 @@
 import { describe, expect, test } from "bun:test"
-import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
+import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.test-fixtures.ts"
+import { companionQuestGroups } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import {
   hasCompanionQuestLeft,
   isCompanionQuestActionable,
   pickFirstActionableCompanionQuest,
   sortedCompanionQuestGroups,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-companion-quest-actionability/completion-companion-quest-actionability.module.code.ts"
+
+holdCompanionCatalogFromCheckout()
 
 const DEFID_BASTIAN = 1
 const DEFID_MIRRI = 2
@@ -30,7 +33,7 @@ const DEF_IDS: Readonly<Record<string, number>> = {
 const defIdOf = (companionId: string): number | undefined => DEF_IDS[companionId]
 
 const STARTER_QUEST_IDS = [6626, 6648, 6760, 6771, 7017, 7021, 7186, 7194]
-const ALL_QUEST_IDS = COMPANION_QUEST_DATA.flatMap((g) => g.quests.map((q) => q.questId))
+const ALL_QUEST_IDS = companionQuestGroups().flatMap((g) => g.quests.map((q) => q.questId))
 
 const RAPPORT_ALL_MAX: Record<number, number> = {
   [DEFID_BASTIAN]: 4000,
@@ -56,9 +59,9 @@ const RAPPORT_ALL_LOCKED: Record<number, number> = {
 
 describe("sortedCompanionQuestGroups", () => {
   test("the groups come in the order of their companion names", () => {
-    const names = sortedCompanionQuestGroups.map((g) => g.companionName)
+    const names = sortedCompanionQuestGroups().map((g) => g.companionName)
     expect(names).toEqual([...names].sort())
-    expect(names).toHaveLength(COMPANION_QUEST_DATA.length)
+    expect(names).toHaveLength(companionQuestGroups().length)
   })
 })
 

@@ -2,7 +2,7 @@ import { tallyPathScopedLeaves } from "akasha/temper/addon/pages/characters/modu
 import { companionIdOfDefId } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
 import { ALL_COMPANION_IDS } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { COMPANION_QUEST_DATA } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
+import { companionQuestGroups } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import {
   heldCompanionRapport,
   MAX_COMPANION_RAPPORT,
@@ -77,7 +77,7 @@ export function resolveCompanionQuests(
   if (itemPath !== undefined && itemPath.length > 0) {
     const companionId = itemPath[0]
     if (typeof companionId !== "string") return undefined
-    const group = COMPANION_QUEST_DATA.find((g) => g.companionId === companionId)
+    const group = companionQuestGroups().find((g) => g.companionId === companionId)
     if (group === undefined) return undefined
     let current = 0
     for (const q of group.quests) {
@@ -88,7 +88,7 @@ export function resolveCompanionQuests(
 
   let current = 0
   let total = 0
-  for (const group of COMPANION_QUEST_DATA) {
+  for (const group of companionQuestGroups()) {
     for (const q of group.quests) {
       total++
       if (completedIds.has(q.questId)) current++

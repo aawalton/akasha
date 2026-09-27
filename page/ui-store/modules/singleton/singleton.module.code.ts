@@ -18,6 +18,7 @@ const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-debuff-minor": ["effects"],
   "temper-debuff-other": ["effects"],
   "temper-vampire-stage": ["effects"],
+  "temper-eso-companion": ["companionQuests"],
 }
 
 let storePromise: Promise<PagesStore> | null = null

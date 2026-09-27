@@ -1,6 +1,6 @@
 import {
-  COMPANION_QUEST_DATA,
-  companionQuestIds,
+  companionQuestGroups,
+  isCompanionQuest,
 } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import type { CompletionCharacterRow } from "akasha/temper/player/completion/temper-player-completion/modules/completion-character-row/completion-character-row.module.code.ts"
 import { isCharacterMeasured } from "akasha/temper/player/completion/temper-player-completion/modules/completion-measured/completion-measured.module.code.ts"
@@ -30,7 +30,7 @@ function zonesWithoutCompanionQuests(
 ): readonly QuestCatalogZone[] {
   const zones: QuestCatalogZone[] = []
   for (const zone of questCatalog) {
-    const zoneQuests = zone.zoneQuests.filter((quest) => !companionQuestIds.has(quest.esoQuestId))
+    const zoneQuests = zone.zoneQuests.filter((quest) => !isCompanionQuest(quest.esoQuestId))
     if (zoneQuests.length > 0) zones.push({ title: zone.title, zoneQuests })
   }
   return zones
@@ -77,9 +77,10 @@ export function transformQuestProgress(
 export function transformCompanionQuestProgress(
   rows: readonly CompletionCharacterRow[]
 ): readonly CharacterQuestProgress[] {
-  if (COMPANION_QUEST_DATA.length === 0) return []
+  const groups = companionQuestGroups()
+  if (groups.length === 0) return []
 
-  const totalCount = COMPANION_QUEST_DATA.reduce((sum, group) => sum + group.quests.length, 0)
+  const totalCount = groups.reduce((sum, group) => sum + group.quests.length, 0)
 
   const result: CharacterQuestProgress[] = []
 
@@ -90,7 +91,7 @@ export function transformCompanionQuestProgress(
     const completedIds = extractCompletedIds(completion)
     let completedCount = 0
 
-    const zones: QuestZoneProgress[] = COMPANION_QUEST_DATA.map((group) => {
+    const zones: QuestZoneProgress[] = groups.map((group) => {
       const quests = group.quests.map((quest) => {
         const completed = completedIds.has(quest.questId)
         if (completed) completedCount++

@@ -38,6 +38,10 @@ export const singleton = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A companion's listing carries the quest rows filed beside that companion.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other page type is listed without the rows filed beside its pages.",
     },
   ],
