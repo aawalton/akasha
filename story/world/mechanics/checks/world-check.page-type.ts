@@ -43,4 +43,5 @@ export const worldCheck = {
   ],
   types: "ts",
   schema: "jsonl",
+  loadedExport: ["settled"],
 } as const satisfies PageType
