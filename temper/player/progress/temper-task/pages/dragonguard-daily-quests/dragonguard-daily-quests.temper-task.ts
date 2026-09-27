@@ -15,8 +15,9 @@ export const dragonguardDailyQuests = {
   accountPage: "temper-account/alanarre",
   scope: "all_characters",
   priority: "p3",
-  lastCompletedAt: "2026-09-26T16:19:15.000Z",
+  lastCompletedAt: "2026-09-27T13:30:41.526Z",
   progress: "jsonl",
   progressTotal: 600,
   progressCurrent: 600,
+  completedAt: "2026-09-27T13:30:41.526Z",
 } as const satisfies TemperTask
