@@ -9,6 +9,6 @@ export const buyRule0e3536603bf3427e85e479c825c695a7 = {
   name: "Lockpick",
   displayOrder: 0,
   targetQuantity: 4000,
-  active: true,
-  updatedAt: "2026-06-01T12:15:48.618Z",
+  active: false,
+  updatedAt: "2026-09-27T13:46:44.201Z",
 } as const satisfies TemperBuyRule
