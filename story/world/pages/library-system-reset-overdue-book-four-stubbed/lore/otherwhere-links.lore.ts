@@ -66,7 +66,7 @@ export const otherwhereLinks = {
     },
     {
       fact: "Links can make a solid platform shaped like his hand to carry a thing.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links pulls numbers from the Library's database, his eyes flickering blue as he does.",

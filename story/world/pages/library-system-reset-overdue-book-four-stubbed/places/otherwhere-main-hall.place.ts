@@ -65,7 +65,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The Library's first task for its Librarian is to clear the engorged bookworms from the hall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links named the hall the Magical Library of Everywhere when Nala first saw it.",
@@ -81,11 +81,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Left untended for centuries, bookworms at the back of the hall have grown engorged and huge.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Engorged bookworms drain the Library's remaining energy as they devour its books.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Salt dries a bookworm out and leaves it helpless, but the biggest are too big to pick up.",
@@ -101,7 +101,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Links hands a newcomer a broom as her first weapon against the bookworms.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
   secrets: "jsonl",
