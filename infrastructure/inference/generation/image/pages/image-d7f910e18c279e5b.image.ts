@@ -4,6 +4,7 @@ export const imageD7f910e18c279e5b = {
   id: "01a0cc26-546f-7ca6-b089-9ebf6277479c",
   type: "page-type/image",
   slug: "image-d7f910e18c279e5b",
+  grade: "F",
   service: "seedvr2-upscale",
   operation: "upscale",
   model: "seedvr2_ema_7b_fp8_e4m3fn_mixed_block35_fp16",
