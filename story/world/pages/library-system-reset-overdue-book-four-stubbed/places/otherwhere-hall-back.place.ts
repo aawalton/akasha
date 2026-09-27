@@ -192,10 +192,7 @@ export const otherwhereHallBack = {
       fact: "The nearest engorged bookworm Nala has seen is about the size of a small dog.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Nala's first salt throw caught the nearest small engorged bookworm along one flank.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "The salted bookworm's shriek stopped the chewing, and other bookworms lifted blind heads toward it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -204,26 +201,7 @@ export const otherwhereHallBack = {
       fact: "Moving silently did not hide Nala; the blind bookworm turned and tracked her anyway.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Nala got the tin scoop back from the gloom; the salted bookworm lunged as she passed and missed.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "A second small bookworm lifted its head toward Nala as she took the scoop, but stayed on its heap.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Nala's third salt throw missed; the bookworm jerked aside, and the salt lies heaped beside it.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "The pinned bookworm's teeth caught Nala's forearm, a shallow stinging scrape.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "Held in the salt, the first small bookworm dried into a hard grey coil, alive but helpless.",
       knowers: [
@@ -240,18 +218,12 @@ export const otherwhereHallBack = {
       fact: "Nala emptied the salt box, sweeping her ring into an oval four feet across and six feet long.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Two small engorged bookworms came off their heaps at Nala and stopped dead at her salt oval.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "A much deeper, bigger roar rolled out between the columns from far back in the dark.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The salt along the tail of Nala's oval has worn thin in a patch.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "A small bookworm Nala hooked with the broom bit its bristles and wrenched the broom from her.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
