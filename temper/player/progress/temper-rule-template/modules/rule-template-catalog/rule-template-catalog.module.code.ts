@@ -10,21 +10,6 @@ import type {
   StockScope,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
-export const RULE_TEMPLATE_FIELDS: readonly string[] = [
-  "slug",
-  "key",
-  "title",
-  "description",
-  "categoryId",
-  "displayOrder",
-  "action",
-  "active",
-  "goal",
-  "destination",
-  "stockScope",
-  "conditions",
-]
-
 type Row = Readonly<Record<string, unknown>>
 
 function unread(slug: string, key: string): Error {
@@ -72,7 +57,7 @@ export function ruleTemplatesFrom(rows: readonly Row[]): readonly CategoryRule[]
 }
 
 const UNREAD =
-  "the rule templates are read from pages, and nothing has read them yet — await `loadRuleTemplates()` where the work starts, or gate the screen on `RuleTemplatesGate`"
+  "the rule templates are read from pages, and nothing has read them yet — gate the screen on `RuleTemplatesGate`"
 
 export class RuleTemplatesUnread extends Error {
   constructor() {
@@ -86,10 +71,6 @@ let held: readonly CategoryRule[] | null = null
 export function holdRuleTemplates(rules: readonly CategoryRule[]): readonly CategoryRule[] {
   held = rules
   return rules
-}
-
-export function heldRuleTemplates(): readonly CategoryRule[] | null {
-  return held
 }
 
 export function ruleTemplates(): readonly CategoryRule[] {
