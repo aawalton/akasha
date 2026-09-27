@@ -9,6 +9,17 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import type { BuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { BuildActionButtons } from "akasha/temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { characterEditorHeaderBrowse } from "akasha/temper/web/phrase/pages/character-editor-header-browse.temper-web-phrase.ts"
+import { characterEditorHeaderGoToLive } from "akasha/temper/web/phrase/pages/character-editor-header-go-to-live.temper-web-phrase.ts"
+import { characterEditorHeaderGoToTarget } from "akasha/temper/web/phrase/pages/character-editor-header-go-to-target.temper-web-phrase.ts"
+import { characterEditorHeaderLive } from "akasha/temper/web/phrase/pages/character-editor-header-live.temper-web-phrase.ts"
+import { characterEditorHeaderNameRequired } from "akasha/temper/web/phrase/pages/character-editor-header-name-required.temper-web-phrase.ts"
+import { characterEditorHeaderRemix } from "akasha/temper/web/phrase/pages/character-editor-header-remix.temper-web-phrase.ts"
+import { characterEditorHeaderSetTarget } from "akasha/temper/web/phrase/pages/character-editor-header-set-target.temper-web-phrase.ts"
+import { characterEditorHeaderTarget } from "akasha/temper/web/phrase/pages/character-editor-header-target.temper-web-phrase.ts"
+import { characterEditorHeaderUntitled } from "akasha/temper/web/phrase/pages/character-editor-header-untitled.temper-web-phrase.ts"
+import { characterEditorHeaderViewOnly } from "akasha/temper/web/phrase/pages/character-editor-header-view-only.temper-web-phrase.ts"
 import { ChevronLeft, Copy, Eye, Search, Target } from "lucide-react"
 
 interface CharacterEditorHeaderProps {
@@ -42,6 +53,11 @@ export function CharacterEditorHeader({
   onRemix,
   remixDisabled,
 }: CharacterEditorHeaderProps) {
+  const phrase = usePhrase()
+  const untitled = phrase(characterEditorHeaderUntitled.slug)
+  const badgeText = phrase(
+    visibility === "live" ? characterEditorHeaderLive.slug : characterEditorHeaderTarget.slug
+  )
   return (
     <div className="flex items-center justify-between gap-4">
       <div className="flex min-w-0 items-center gap-4">
@@ -52,15 +68,15 @@ export function CharacterEditorHeader({
         </Button>
         <div className="flex min-w-0 items-center gap-3">
           {nameReadOnly ? (
-            <h1 className={cn(PAGE_TITLE_CLASSES, "truncate")}>
-              {name !== "" ? name : "Untitled Build"}
-            </h1>
+            <h1 className={cn(PAGE_TITLE_CLASSES, "truncate")}>{name !== "" ? name : untitled}</h1>
           ) : (
             <InlineEditableText
               value={name}
               onChange={(v) => onUpdateMeta({ name: v })}
-              placeholder="Untitled Build"
-              validate={(v) => (v.trim().length === 0 ? "Build name is required" : null)}
+              placeholder={untitled}
+              validate={(v) =>
+                v.trim().length === 0 ? phrase(characterEditorHeaderNameRequired.slug) : null
+              }
               className={PAGE_TITLE_CLASSES}
             />
           )}
@@ -69,20 +85,24 @@ export function CharacterEditorHeader({
               <Badge variant="elevation" className="shrink-0 cursor-pointer" asChild>
                 <Link
                   href={partnerBuildUrl}
-                  title={visibility === "live" ? "Go to Target build" : "Go to Live build"}
+                  title={phrase(
+                    visibility === "live"
+                      ? characterEditorHeaderGoToTarget.slug
+                      : characterEditorHeaderGoToLive.slug
+                  )}
                 >
-                  {visibility === "live" ? "Live" : "Target"}
+                  {badgeText}
                 </Link>
               </Badge>
             ) : (
               <Badge variant="elevation" className="shrink-0">
-                {visibility === "live" ? "Live" : "Target"}
+                {badgeText}
               </Badge>
             )
           ) : !isOwner ? (
             <Badge variant="elevation-muted" className="shrink-0 gap-1">
               <Eye className="h-3 w-3" />
-              View Only
+              {phrase(characterEditorHeaderViewOnly.slug)}
             </Badge>
           ) : null}
         </div>
@@ -93,7 +113,9 @@ export function CharacterEditorHeader({
             <Button variant="secondary" size="sm" className={cn("gap-2", surfaceClass(1))} asChild>
               <Link href={browseHref}>
                 <Search className="h-4 w-4" />
-                <span className="@[1016px]:inline hidden">Browse</span>
+                <span className="@[1016px]:inline hidden">
+                  {phrase(characterEditorHeaderBrowse.slug)}
+                </span>
               </Link>
             </Button>
           )}
@@ -106,7 +128,9 @@ export function CharacterEditorHeader({
               onClick={onSetTarget}
             >
               <Target className="h-4 w-4" />
-              <span className="@[1016px]:inline hidden">Set Target</span>
+              <span className="@[1016px]:inline hidden">
+                {phrase(characterEditorHeaderSetTarget.slug)}
+              </span>
             </Button>
           )}
           <Button
@@ -117,7 +141,9 @@ export function CharacterEditorHeader({
             onClick={onRemix}
           >
             <Copy className="h-4 w-4" />
-            <span className="@[1016px]:inline hidden">Remix</span>
+            <span className="@[1016px]:inline hidden">
+              {phrase(characterEditorHeaderRemix.slug)}
+            </span>
           </Button>
         </div>
       ) : (
