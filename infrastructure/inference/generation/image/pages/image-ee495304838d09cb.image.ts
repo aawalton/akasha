@@ -4,5 +4,6 @@ export const imageEe495304838d09cb = {
   id: "019f1837-3d47-7439-af2b-53c07ac0e969",
   type: "page-type/image",
   slug: "image-ee495304838d09cb",
+  grade: "F",
   persona: "persona/aelwyn",
 } as const satisfies Image
