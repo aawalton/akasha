@@ -26,7 +26,9 @@ import {
 import { patchPage } from "akasha/page/access/modules/patch/patch.module.code.ts"
 import { useOptimisticPatchPage } from "akasha/page/ui/supabase/mutation/modules/use-optimistic-patch-page/use-optimistic-patch-page.module.code.ts"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
+import { heldSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import {
   useAllCharacterList,
   useCharacterLifecycle,
@@ -148,6 +150,9 @@ export function CharactersDataContent({
       sortDirection: "desc",
     })
 
+  const skillCatalogRead = heldSkillCatalog()
+  const setCatalogRead = heldSetCatalog()
+
   const decodedBuilds = useMemo<DecodedBuild[]>(() => {
     return builds.map((build) => {
       const metadata = build.buildMetadata
@@ -164,7 +169,7 @@ export function CharactersDataContent({
         buildData,
       }
     })
-  }, [builds, accountPage, userId])
+  }, [builds, accountPage, userId, skillCatalogRead, setCatalogRead])
 
   const filteredBuilds = useFilteredBuilds({ decodedBuilds, tab, userId, deferred })
 

@@ -6,4 +6,11 @@ export const homePageContent = {
   slug: "home-page-content",
   definition: "the home page, showing the newest characters and companions",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The newest builds are decoded again whenever a catalogue they are decoded against is read again.",
+    },
+  ],
 } as const satisfies Module

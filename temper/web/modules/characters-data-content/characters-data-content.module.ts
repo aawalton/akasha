@@ -15,5 +15,9 @@ export const charactersDataContent = {
       decisionKind: "decision-kind/departure",
       statement: "Any other build keeps its account address as its owner.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The builds are decoded again whenever the skill or set catalogue is read again.",
+    },
   ],
 } as const satisfies Module

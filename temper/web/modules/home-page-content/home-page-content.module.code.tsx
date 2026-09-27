@@ -21,7 +21,9 @@ import { Button } from "akasha/design/interface/primitive/modules/button/button.
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
 import { decodeCompanion } from "akasha/temper/player/character/build/companion-codec/modules/companion-codec/companion-codec.module.code.ts"
+import { heldSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { useCharacterList } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { useCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import {
@@ -33,6 +35,7 @@ import { RecentCharactersCard } from "akasha/temper/web/modules/recent-character
 import { RecentCompanionsCard } from "akasha/temper/web/modules/recent-companions-card/recent-companions-card.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useCompletionCharacters } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { Gamepad2 } from "lucide-react"
 import { Suspense, useMemo } from "react"
@@ -94,6 +97,9 @@ function HomeDataContent() {
   const { builds: characters, isLoading: charactersLoading } = useCharacterList()
   const { builds: companions, isLoading: companionsLoading } = useCompanionList()
   const { characters: importedCharacters, isLoading: importedLoading } = useCompletionCharacters()
+  const skillCatalogRead = heldSkillCatalog()
+  const setCatalogRead = heldSetCatalog()
+  const companionCatalogRead = useHeldCompanionCatalog()
 
   const decodedCharacters = useMemo(() => {
     return characters.slice(0, RECENT_BUILD_COUNT).map((build) => {
@@ -108,7 +114,7 @@ function HomeDataContent() {
         updatedAt: build.updatedAt,
       }
     })
-  }, [characters])
+  }, [characters, skillCatalogRead, setCatalogRead])
 
   const decodedCompanions = useMemo(() => {
     return companions.slice(0, RECENT_BUILD_COUNT).map((build) => {
@@ -123,7 +129,7 @@ function HomeDataContent() {
         updatedAt: build.updatedAt,
       }
     })
-  }, [companions])
+  }, [companions, companionCatalogRead])
 
   if (charactersLoading || companionsLoading || importedLoading) {
     return <ListContentSkeleton showTabTitle={false} />
