@@ -4,7 +4,7 @@ export const loreLibrarySparseTestUtils = {
   id: "01a08ee1-1c98-7da2-b6af-8e53c812c8c5",
   type: "page-type/test-fixture",
   slug: "lore-library-sparse-test-utils",
-  definition: "a sparse lore library capture a test makes from the real table",
+  definition: "a sparse lore library capture a test makes from the lore library held",
   code: "ts",
   decisions: [
     {

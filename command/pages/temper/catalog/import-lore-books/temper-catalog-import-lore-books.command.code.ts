@@ -38,7 +38,7 @@ import { putting } from "akasha/page/service/modules/page-putting/page-putting.m
 import { BOOK_DATA } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-book-data/lorebooks-book-data.module.code.ts"
 import { LIBRARY_DATA } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-library-data/lorebooks-library-data.module.code.ts"
 import { SHALIDOR_LOCATIONS } from "akasha/temper/catalog/world/lorebook/modules/lorebooks-shalidor-locations/lorebooks-shalidor-locations.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { loreLibraryAt } from "akasha/temper/player/completion/modules/held-lore-library-loading/held-lore-library-loading.module.code.ts"
 
 const NAMED = [loreCategoryArgument] as const
 
@@ -169,7 +169,7 @@ async function imported(done: string[], argv: readonly string[], given: Given, l
       table: BOOK_DATA,
       library: LIBRARY_DATA,
       shalidor: SHALIDOR_LOCATIONS,
-      captured: LORE_LIBRARY_DATA,
+      captured: loreLibraryAt(given.root),
     },
     existing
   )

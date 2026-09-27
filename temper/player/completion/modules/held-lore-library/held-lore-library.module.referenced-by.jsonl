@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-card-checkers/completion-card-checkers.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/player/completion/temper-player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/web/modules/character-progress/character-progress.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/web/modules/lore-library-gate/lore-library-gate.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.code.ts","path":"temper/web/modules/use-lore-library/use-lore-library.module.code.tsx","typed":false,"deferred":false}
@@ -17,6 +18,7 @@
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/command/modules/inventory-eval-env/inventory-eval-env.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-account-checkers/completion-account-checkers.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-lore-library.module.test-fixtures.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}

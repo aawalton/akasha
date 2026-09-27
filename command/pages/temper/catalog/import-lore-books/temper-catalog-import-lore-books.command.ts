@@ -4,14 +4,14 @@ export const temperCatalogImportLoreBooks = {
   id: "01a0d5e2-67da-76e4-92d6-fa0cd8043288",
   type: "page-type/command",
   slug: "temper-catalog-import-lore-books",
-  definition: "the command making a page of each lore book the add-on and completion tables name",
+  definition: "the command making a page of each lore book the LoreBooks add-on's tables name",
   code: "ts",
   test: "ts",
   parts: ["module/lore-book-planning", "module/lore-book-rows"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The books are read from the tables the LoreBooks add-on and completion hold.",
+      statement: "The books are read from the LoreBooks add-on's tables and the lore pages.",
     },
     {
       decisionKind: "decision-kind/departure",

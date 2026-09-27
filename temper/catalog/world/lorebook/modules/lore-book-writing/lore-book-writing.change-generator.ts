@@ -15,13 +15,11 @@ export const loreBookWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The lore book, lore collection and lore category pages are the side the tables are read from.",
+      statement: "The lore book and lore collection pages are the side the tables are read from.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The tables are worked out again only where a lore book, collection or category page moved.",
+      statement: "The tables are worked out again only where a lore book or collection page moved.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,7 +1,6 @@
 import { expect, test } from "bun:test"
 import {
   assignedText,
-  listSpreadText,
   literal,
   numeral,
   quoted,
@@ -38,8 +37,4 @@ test("assigning parts groups them, a group on one line where it fits", () => {
 test("an assignment too long for one line takes no comma after its last part", () => {
   const long = Array.from({ length: 10 }, (_, at) => `BOOK_DATA_0${String(at)}`)
   expect(assignedText("BOOK_DATA", long, 10).endsWith("BOOK_DATA_09\n)")).toBe(true)
-})
-
-test("spread parts sit on one line where they fit", () => {
-  expect(listSpreadText(["A", "B"], "    collections: ")).toBe("    collections: [...A, ...B],\n")
 })

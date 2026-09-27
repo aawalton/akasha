@@ -7,18 +7,12 @@ import { type Shadow, shadowFor } from "akasha/page/modules/shadow/shadow.module
 import {
   assignedText,
   bytesOf,
-  CAPTURED_PART_BYTES,
-  type Collection,
-  collectionBlock,
-  collectionsText,
   entryLine,
   type Imported,
   importLines,
-  listSpreadText,
   literal,
   PART_BYTES,
   partText,
-  quoted,
   splitOver,
   spreadText,
   tableOf,
@@ -38,7 +32,6 @@ const ROW = z.record(z.string(), z.unknown())
 
 const BOOK = "temper-lore-book"
 const COLLECTION = "temper-lore-collection"
-const CATEGORY = "temper-lore-category"
 const MODULE = "module"
 const JSONL = "jsonl"
 const POSITIONS = "positions"
@@ -46,8 +39,6 @@ const PINS = "shalidor-pins"
 const ASSIGNED_AT_ONCE = 10
 const LOREBOOK_TYPES =
   "akasha/temper/catalog/world/lorebook/modules/lorebooks-types/lorebooks-types.module.code.ts"
-const CAPTURED_TYPES =
-  "akasha/temper/player/completion/modules/lore-library-types/lore-library-types.module.code.ts"
 
 type Written = {
   readonly edits: readonly Replacing[]
@@ -128,12 +119,7 @@ function tablesIn(change: Change, shadow: Shadow): Tables {
     const pins = value.shalidorPins === JSONL ? rowsOf(change, one.path, PINS) : []
     books.push({ value, positions, pins })
   }
-  const categories: Row[] = []
-  for (const one of shadow.index.everyOfType(CATEGORY)) {
-    const value = shadow.pageOf(one.path)
-    if (value !== null) categories.push(value)
-  }
-  return tablesOf(books, collections, categories)
+  return tablesOf(books, collections)
 }
 
 function namesOver(
@@ -224,73 +210,16 @@ function libraryData(shadow: Shadow, tables: Tables): Outcome {
   })
 }
 
-function capturedPart(name: string, collections: readonly Collection[]): string {
-  return (
-    `import type { LoreCollectionEntry } from "${CAPTURED_TYPES}"\n\n` +
-    `export const ${name}: readonly LoreCollectionEntry[] = ${collectionsText(collections)}\n`
-  )
-}
-
-const EMPTY: Collection = { collectionIndex: 0, name: "", books: [] }
-
-function capturedData(shadow: Shadow, tables: Tables): Outcome {
-  const parts = partsOf(shadow, "lore-collections", "LORE_COLLECTIONS")
-  const wholeAt = codeOf(shadow, "lore-library-data")
-  if (wholeAt === null || parts.length === 0) {
-    return {
-      planned: [],
-      said: ["no module holds the lore-collections parts, so none was written"],
-    }
-  }
-  const overhead =
-    bytesOf(capturedPart(parts[0]?.name ?? "", [EMPTY])) - bytesOf(collectionBlock(EMPTY))
-  const bodies: Collection[][] = []
-  const split: [number, number][] = []
-  for (const category of tables.captured) {
-    const made = splitOver(category.collections, CAPTURED_PART_BYTES, overhead, (one) =>
-      bytesOf(collectionBlock(one))
-    )
-    split.push([category.categoryIndex, made.length])
-    bodies.push(...made)
-  }
-  if (bodies.length > parts.length) {
-    const needs = `${String(bodies.length)} parts and ${String(parts.length)} modules hold them`
-    return { planned: [], said: [`lore-collections needs ${needs}, so it was left as it is`] }
-  }
-  const named = namesOver(parts, split)
-  const blocks = tables.captured.map(
-    (category) =>
-      `  {\n    categoryIndex: ${String(category.categoryIndex)},\n    name: ${quoted(category.name)},\n` +
-      `${listSpreadText(named.get(category.categoryIndex) ?? [], "    collections: ")}  },\n`
-  )
-  const planned = parts.map((one, at) => ({
-    code: one.code,
-    text: capturedPart(one.name, bodies[at] ?? []),
-  }))
-  planned.push({
-    code: wholeAt,
-    text:
-      `${importLines(importsOf(parts), "LoreCategoryEntry", CAPTURED_TYPES)}\n` +
-      `export const LORE_LIBRARY_DATA: readonly LoreCategoryEntry[] = [\n${blocks.join("")}]\n`,
-  })
-  return { planned, said: [] }
-}
-
 export function couldTurn(change: Change): boolean {
   return change.changed.some((path) => {
     const said = partedIn(path)
-    return (
-      said !== null &&
-      (said.pageType === BOOK || said.pageType === COLLECTION || said.pageType === CATEGORY)
-    )
+    return said !== null && (said.pageType === BOOK || said.pageType === COLLECTION)
   })
 }
 
 function writtenOver(change: Change, shadow: Shadow): Written {
   const tables = tablesIn(change, shadow)
-  const outcomes = [bookData, shalidorData, libraryData, capturedData].map((one) =>
-    one(shadow, tables)
-  )
+  const outcomes = [bookData, shalidorData, libraryData].map((one) => one(shadow, tables))
   const edits: Replacing[] = []
   const said: string[] = outcomes.flatMap((one) => one.said)
   for (const one of outcomes.flatMap((outcome) => outcome.planned)) {

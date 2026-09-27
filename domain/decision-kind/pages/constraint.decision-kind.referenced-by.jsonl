@@ -1213,9 +1213,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts","id":"01a0df64-1044-741d-8fad-c665ba1d8093"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts","id":"01a0df76-1665-75ef-8534-195cf1c4fa76"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","id":"01a0df69-bdeb-70c4-a287-ed88cc239a92"}
-{"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-data/lore-library-data.module.ts","id":"01a060c0-4132-79dd-8b8e-b38e3eef5ff4"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/lore-library-pages/lore-library-pages.module.ts","id":"01a0e26a-f623-729f-8fd3-d846ca1d388c"}
-{"propertySlug":"decision-kind","path":"temper/player/completion/temper-completion.domain.ts","id":"01a0607a-9cbb-77f0-9ede-8b04b4408831"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.ts","id":"01a06108-2fe7-758c-947c-5275babdadb5"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.ts","id":"01a06108-2fe9-7e94-a80a-0620a87e49b2"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.ts","id":"01a06121-f0ce-7862-9eb6-795c99701a24"}

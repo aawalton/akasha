@@ -12,10 +12,7 @@ export const loreBookTables = {
       decisionKind: "decision-kind/departure",
       statement: "A book with a game id is an entry of the LoreBooks book table.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A book with a number in a numbered collection is a book of the lore library.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A Shalidor's Library pin is listed under its map, in the order the map lists it.",

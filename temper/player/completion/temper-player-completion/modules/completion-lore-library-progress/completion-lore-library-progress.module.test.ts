@@ -1,6 +1,6 @@
 import { describe, expect, test } from "bun:test"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
 import {
   extractLoreKnownSet,
   isLoreLibraryItemComplete,
@@ -10,27 +10,29 @@ import {
   sparseMissingOne,
 } from "akasha/temper/player/completion/temper-player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.code.ts"
 
+const LORE = holdLoreLibraryFromCheckout()
+
 const CATEGORY = 1
 
 describe("isLoreLibraryItemComplete over the sparse wire format", () => {
   test("returns true when every book in the category is known", () => {
     const completion: CharacterCompletion = { loreLibrary: sparseComplete(CATEGORY) }
-    expect(isLoreLibraryItemComplete(LORE_LIBRARY_DATA, completion, [CATEGORY])).toBe(true)
+    expect(isLoreLibraryItemComplete(LORE, completion, [CATEGORY])).toBe(true)
   })
 
   test("returns false when one book in the category is missing", () => {
     const completion: CharacterCompletion = { loreLibrary: sparseMissingOne(CATEGORY) }
-    expect(isLoreLibraryItemComplete(LORE_LIBRARY_DATA, completion, [CATEGORY])).toBe(false)
+    expect(isLoreLibraryItemComplete(LORE, completion, [CATEGORY])).toBe(false)
   })
 
   test("returns false for null completion or absent loreLibrary", () => {
-    expect(isLoreLibraryItemComplete(LORE_LIBRARY_DATA, null, [CATEGORY])).toBe(false)
-    expect(isLoreLibraryItemComplete(LORE_LIBRARY_DATA, {}, [CATEGORY])).toBe(false)
+    expect(isLoreLibraryItemComplete(LORE, null, [CATEGORY])).toBe(false)
+    expect(isLoreLibraryItemComplete(LORE, {}, [CATEGORY])).toBe(false)
   })
 
   test("returns false for an empty item path", () => {
     const completion: CharacterCompletion = { loreLibrary: sparseComplete(CATEGORY) }
-    expect(isLoreLibraryItemComplete(LORE_LIBRARY_DATA, completion, [])).toBe(false)
+    expect(isLoreLibraryItemComplete(LORE, completion, [])).toBe(false)
   })
 })
 

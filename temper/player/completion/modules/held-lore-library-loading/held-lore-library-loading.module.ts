@@ -16,5 +16,9 @@ export const heldLoreLibraryLoading = {
       decisionKind: "decision-kind/departure",
       statement: "A change to a lore category, collection or book page has it read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Work over a checkout reads the lore library off that checkout's pages instead.",
+    },
   ],
 } as const satisfies Module

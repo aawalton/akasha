@@ -1,7 +1,7 @@
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { loreLibrary } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts"
 
 export function sparseComplete(categoryIndex: number): Record<number, Record<number, number[]>> {
-  const category = LORE_LIBRARY_DATA.find((entry) => entry.categoryIndex === categoryIndex)
+  const category = loreLibrary().find((entry) => entry.categoryIndex === categoryIndex)
   if (!category) throw new Error(`no lore category ${categoryIndex}`)
   const collections: Record<number, number[]> = {}
   for (const collection of category.collections) {
@@ -12,7 +12,7 @@ export function sparseComplete(categoryIndex: number): Record<number, Record<num
 
 export function sparseMissingOne(categoryIndex: number): Record<number, Record<number, number[]>> {
   const library = sparseComplete(categoryIndex)
-  const category = LORE_LIBRARY_DATA.find((entry) => entry.categoryIndex === categoryIndex)
+  const category = loreLibrary().find((entry) => entry.categoryIndex === categoryIndex)
   if (!category) throw new Error(`no lore category ${categoryIndex}`)
   const firstCollection = category.collections[0]
   if (!firstCollection) throw new Error("category has no collections")

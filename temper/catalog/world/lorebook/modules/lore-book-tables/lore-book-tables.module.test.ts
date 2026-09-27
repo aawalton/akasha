@@ -44,14 +44,8 @@ test("a book with a game id is an entry of the book table", () => {
     positions: [],
     pins: [],
   }
-  const tables = tablesOf([book], [SKILL], [])
+  const tables = tablesOf([book], [SKILL])
   expect(tables.books).toEqual([[20, { c: true, cn: "Skill Books", e: [], n: "Tannins" }]])
-  expect(tables.captured[0]?.collections[0]?.books).toEqual([{ bookIndex: 78, name: "Tannins" }])
-})
-
-test("a lore category is named by the category page with its number", () => {
-  const tables = tablesOf([], [SKILL], [{ title: "Eidetic Memory", esoLoreCategoryId: 3 }])
-  expect(tables.captured[0]?.name).toBe("Eidetic Memory")
 })
 
 test("a Shalidor pin is listed under its map, in the order the map lists it", () => {
@@ -63,7 +57,7 @@ test("a Shalidor pin is listed under its map, in the order the map lists it", ()
       { mapId: 1, mapOrder: 1, mapX: 0.1, mapY: 0.2 },
     ],
   }
-  const tables = tablesOf([book], [GLENUMBRA], [])
+  const tables = tablesOf([book], [GLENUMBRA])
   expect(tables.shalidor).toEqual([
     [
       1,

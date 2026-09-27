@@ -16,21 +16,10 @@ export type CollectionRead = {
 
 export type Keyed = readonly (readonly [number, unknown])[]
 
-type Captured = {
-  readonly categoryIndex: number
-  readonly name: string
-  readonly collections: readonly {
-    readonly collectionIndex: number
-    readonly name: string
-    readonly books: readonly { readonly bookIndex: number; readonly name: string }[]
-  }[]
-}
-
 export type Tables = {
   readonly books: Keyed
   readonly shalidor: Keyed
   readonly library: readonly (readonly [number, Keyed])[]
-  readonly captured: readonly Captured[]
 }
 
 const SHALIDOR = 1
@@ -119,28 +108,17 @@ function byNumber<T>(pairs: Iterable<readonly [number, T]>): (readonly [number, 
 
 export function tablesOf(
   books: readonly BookRead[],
-  collections: readonly CollectionRead[],
-  categories: readonly Row[]
+  collections: readonly CollectionRead[]
 ): Tables {
-  const categoryNames = new Map<number, string>()
-  for (const one of categories) {
-    const index = num(one.esoLoreCategoryId)
-    if (index !== undefined) categoryNames.set(index, text(one.title) ?? "")
-  }
   const collectionAt = new Map(collections.map((one) => [one.address, one.value]))
   const bookTable = new Map<number, unknown>()
   const maps = new Map<number, [number, Record<string, unknown>][]>()
-  const capturedBooks = new Map<string, [number, string][]>()
   for (const read of books) {
     const said = text(read.value.collection)
     const collection = said === null ? undefined : collectionAt.get(said)
     const id = num(read.value.esoBookId)
     if (id !== undefined) bookTable.set(id, bookEntry(read, id, text(collection?.title)))
     const bookIndex = num(read.value.bookIndex)
-    const title = text(read.value.title)
-    if (said !== null && bookIndex !== undefined && title !== null) {
-      capturedBooks.set(said, [...(capturedBooks.get(said) ?? []), [bookIndex, title]])
-    }
     const collectionIndex = num(collection?.esoCollectionIndex)
     if (collectionIndex === undefined || bookIndex === undefined) continue
     if (num(collection?.esoLoreCategoryId) !== SHALIDOR) continue
@@ -152,21 +130,12 @@ export function tablesOf(
     }
   }
   const library = new Map<number, [number, unknown][]>()
-  const captured = new Map<number, Captured["collections"][number][]>()
   for (const one of collections) {
     const v = one.value
     const category = num(v.esoLoreCategoryId)
     const index = num(v.esoCollectionIndex)
     if (category === undefined || index === undefined) continue
     const name = text(v.title) ?? ""
-    const inCategory = captured.get(category) ?? []
-    const listed = byNumber(capturedBooks.get(one.address) ?? [])
-    inCategory.push({
-      collectionIndex: index,
-      name,
-      books: listed.map(([bookIndex, title]) => ({ bookIndex, name: title })),
-    })
-    captured.set(category, inCategory)
     if (num(v.esoLoreCollectionId) === undefined) continue
     const entry = {
       d: v.loreCollectionDescription,
@@ -184,10 +153,5 @@ export function tablesOf(
       ([mapId, held]) => [mapId, byNumber(held).map(([, pin]) => pin)] as const
     ),
     library: byNumber(library).map(([category, held]) => [category, byNumber(held)] as const),
-    captured: byNumber(captured).map(([categoryIndex, held]) => ({
-      categoryIndex,
-      name: categoryNames.get(categoryIndex) ?? "",
-      collections: [...held].sort((a, b) => a.collectionIndex - b.collectionIndex),
-    })),
   }
 }

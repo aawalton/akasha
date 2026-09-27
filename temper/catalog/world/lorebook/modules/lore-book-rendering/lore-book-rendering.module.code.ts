@@ -1,7 +1,5 @@
 export const PART_BYTES = 13983
 
-export const CAPTURED_PART_BYTES = 13600
-
 const WIDTH = 100
 
 const SMALLEST_PLAIN = 1e-4
@@ -104,30 +102,6 @@ export function partText(typeName: string, typeFrom: string, name: string, body:
   return `import type { ${typeName} } from "${typeFrom}"\n\nexport const ${name}: ${typeName} = ${body}\n`
 }
 
-export type Collection = {
-  readonly collectionIndex: number
-  readonly name: string
-  readonly books: readonly { readonly bookIndex: number; readonly name: string }[]
-}
-
-function bookLine(book: { readonly bookIndex: number; readonly name: string }): string {
-  const line = `      { bookIndex: ${String(book.bookIndex)}, name: ${quoted(book.name)} },`
-  if (line.length <= WIDTH) return `${line}\n`
-  return `      {\n        bookIndex: ${String(book.bookIndex)},\n        name: ${quoted(book.name)},\n      },\n`
-}
-
-export function collectionBlock(one: Collection): string {
-  return (
-    `  {\n    collectionIndex: ${String(one.collectionIndex)},\n    name: ${quoted(one.name)},\n` +
-    `    books: [\n${one.books.map(bookLine).join("")}    ],\n  },\n`
-  )
-}
-
-export function collectionsText(collections: readonly Collection[]): string {
-  if (collections.length === 0) return "[]"
-  return `[\n${collections.map(collectionBlock).join("")}]`
-}
-
 export function entryLine(key: number, value: unknown): string {
   return `  ${keyed(String(key))}: ${literal(value, "  ")},\n`
 }
@@ -144,10 +118,4 @@ export function assignedText(target: string, names: readonly string[], group: nu
 
 export function spreadText(names: readonly string[], indent: string): string {
   return names.map((one) => `${indent}...${one},\n`).join("")
-}
-
-export function listSpreadText(names: readonly string[], lead: string): string {
-  const line = `${lead}[${names.map((one) => `...${one}`).join(", ")}],`
-  if (line.length <= WIDTH) return `${line}\n`
-  return `${lead}[\n${names.map((one) => `      ...${one},\n`).join("")}    ],\n`
 }
