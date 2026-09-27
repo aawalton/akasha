@@ -10,6 +10,16 @@ export const ageTag = {
     { partOfSpeech: "part-of-speech/noun", spelling: "age tags" },
   ],
   extends: ["page-type/image-tag"],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A figure a model reads as possibly under 18 is tagged 18-24.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Alan reviews each image read as possibly under 18 himself.",
+    },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
