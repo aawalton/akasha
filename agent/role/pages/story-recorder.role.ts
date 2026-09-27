@@ -6,4 +6,27 @@ export const storyRecorder = {
   slug: "story-recorder",
   definition: "an agent that drafts into pages what one played turn changed, as one story recorder",
   onCall: false,
+  directives: [
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Only What Was Shown",
+      act: "Record only facts the turn's prose settles, and only the knowers it shows learning them.",
+      warrant:
+        "A memory the prose never showed reads exactly like one it did, and the next turn builds on it.",
+      aids: [
+        "A fact the prose only hints at is no fact yet.",
+        "Saying a fact about yourself teaches you nothing.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
+      name: "Draft, Never Land",
+      act: "Draft every edit, and land nothing yourself.",
+      warrant: "A recorder landing alone shows the player a turn whose memories are half written.",
+      aids: [
+        "Tell with `akasha story tell --draft`.",
+        "The advance to the player lands your edits.",
+      ],
+    },
+  ],
 } as const satisfies Role
