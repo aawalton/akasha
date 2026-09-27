@@ -21,8 +21,13 @@ import {
   accountScopedSlug,
   findAccountAddress,
 } from "akasha/temper/player/character/temper-account/modules/account-address/account-address.module.code.ts"
+import {
+  loadedPhrase,
+  loadWebPhrases,
+} from "akasha/temper/web/.server/web-phrase-loading/web-phrase-loading.module.code.ts"
 import { extractCharacterMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+import { characterImportUnknownName } from "akasha/temper/web/phrase/pages/character-import-unknown-name.temper-web-phrase.ts"
 
 function noAccountPageWhy(userId: string): string {
   return `no ${ACCOUNT_PAGE_TYPE} page names user ${userId}, so a build imported now would belong to no account`
@@ -70,8 +75,12 @@ export async function importCharacterFromHash(
     return { result: { error: "invalid-hash" }, headers }
   }
 
-  const raceName = races.data[buildState.character.race]?.name ?? "Unknown"
-  const className = classes.data[buildState.character.class]?.name ?? "Unknown"
+  const unknownName = loadedPhrase(
+    await loadWebPhrases([characterImportUnknownName.slug]),
+    characterImportUnknownName.slug
+  )
+  const raceName = races.data[buildState.character.race]?.name ?? unknownName
+  const className = classes.data[buildState.character.class]?.name ?? unknownName
   buildState.name = `${raceName} ${className}`
 
   const buildMetadata = extractCharacterMetadata(buildState)

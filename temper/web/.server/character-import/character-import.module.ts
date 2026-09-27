@@ -62,5 +62,9 @@ export const characterImport = {
       decisionKind: "decision-kind/departure",
       statement: "A reader with no account page is told so apart from a write that failed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A race or class the catalogue lacks is named by a web phrase page.",
+    },
   ],
 } as const satisfies Module
