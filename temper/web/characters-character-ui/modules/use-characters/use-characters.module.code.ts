@@ -382,7 +382,8 @@ export function useNewCharacter() {
       await createNew({ id, buildHash, buildMetadata })
       router.push(`${characterUrl(toBuildId(id), build.name)}?tab=character`)
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : phrase(useCharactersCreateFailed.slug))
+      console.error("[use-characters] making a character build failed:", error)
+      toast.error(phrase(useCharactersCreateFailed.slug))
       setIsCreating(false)
     }
   }
