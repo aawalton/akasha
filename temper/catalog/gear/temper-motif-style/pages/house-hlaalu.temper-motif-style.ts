@@ -6,6 +6,7 @@ export const houseHlaalu = {
   slug: "house-hlaalu",
   title: "House Hlaalu",
   esoItemStyleId: 49,
+  styleName: "Hlaalu",
   collectionIndex: 37,
   sourceDescription: "Pickpocketing and theft in Vvardenfell",
 } as const satisfies TemperMotifStyle
