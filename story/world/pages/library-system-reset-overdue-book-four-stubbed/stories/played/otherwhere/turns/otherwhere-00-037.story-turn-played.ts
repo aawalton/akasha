@@ -7,8 +7,19 @@ export const otherwhere00037 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 37,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I go fund the librarian’s quarters, strip out of my bloodied clothes and do my best to clean up in the cold water, then collapse into the bed, naked and exhausted.",
+  beats: [
+    "Nala finds the short passage behind the Check-in Counter; the quarters are a snug panelled room.",
+    "She peels off her bloodied shirt and the rest of her clothes and leaves them in a heap.",
+    "In the bathroom she scrubs off the blood and grime with the cold tap water, shivering.",
+    "The bite on her arm stings in the cold water, but it is clean at last.",
+    "She drags the dust sheet off the bed; underneath it is clean, soft and wide.",
+    "She collapses into it naked and exhausted, and is asleep almost at once.",
+    "The Library dims its lights to a low amber for the night; nothing disturbs her.",
+    "Morning: the lights brighten again, and she wakes fully rested, her arm's ache gone.",
+    "The smell of fresh bread drifts in from somewhere beyond the hall.",
+  ],
   lore: ["place/otherwhere-main-hall"],
 } as const satisfies StoryTurnPlayed
