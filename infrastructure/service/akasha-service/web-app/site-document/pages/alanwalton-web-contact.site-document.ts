@@ -8,6 +8,7 @@ export const alanwaltonWebContact = {
   description: "Contact Alan Walton — email and business address.",
   webApp: "web-app/alanwalton-web",
   urlPath: "contact",
+  public: true,
   lead: "Reach Alan Walton by email, or write to the business address below.",
   sections: [
     {

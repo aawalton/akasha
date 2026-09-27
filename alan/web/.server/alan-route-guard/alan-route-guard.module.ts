@@ -17,7 +17,7 @@ export const alanRouteGuard = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path the guard is told shows a site document is reached by anybody.",
+      statement: "A path the guard is told shows a public site document is reached by anybody.",
     },
     {
       decisionKind: "decision-kind/departure",

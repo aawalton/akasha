@@ -9,6 +9,7 @@ export const alanwaltonWebServices = {
     "The Amy personal-assistant messaging service — two-way SMS for scheduling, reminders, and coordination.",
   webApp: "web-app/alanwalton-web",
   urlPath: "services",
+  public: true,
   lead: "The service Alan Walton offers is a personal-assistant text line, branded **Amy**.",
   sections: [
     {

@@ -9,6 +9,7 @@ export const alanwaltonWebLanding = {
     "Alan Walton — sole proprietor operating a personal-assistant service, including the Amy SMS text line for scheduling, reminders, and coordination.",
   webApp: "web-app/alanwalton-web",
   urlPath: "",
+  public: true,
   lead: "Alan Walton is a sole proprietor operating a personal-assistant service. The service includes **Amy**, an SMS text line used for scheduling, reminders, and day-to-day coordination with the people he works with.",
   sections: [
     {

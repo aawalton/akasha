@@ -9,6 +9,7 @@ export const alanwaltonWebSms = {
     "Consent, opt-out, and privacy terms for Amy, the personal assistant messaging service of Alan Walton.",
   webApp: "web-app/alanwalton-web",
   urlPath: "sms",
+  public: true,
   lead: "Amy is the personal assistant messaging service of Alan Walton. This page describes how the service uses SMS text messaging, how recipients consent and opt out, and how message data is handled.",
   sections: [
     {

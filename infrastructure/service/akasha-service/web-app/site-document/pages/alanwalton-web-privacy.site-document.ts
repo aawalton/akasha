@@ -8,6 +8,7 @@ export const alanwaltonWebPrivacy = {
   description: "Privacy policy for Alan Walton and the Amy personal-assistant messaging service.",
   webApp: "web-app/alanwalton-web",
   urlPath: "privacy",
+  public: true,
   lead: "How the Amy personal-assistant messaging service, operated by Alan Walton, handles message data.",
   sections: [
     {

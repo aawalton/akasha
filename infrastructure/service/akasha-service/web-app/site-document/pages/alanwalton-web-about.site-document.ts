@@ -9,6 +9,7 @@ export const alanwaltonWebAbout = {
     "About Alan Walton, sole proprietor, and the Amy personal-assistant messaging service.",
   webApp: "web-app/alanwalton-web",
   urlPath: "about",
+  public: true,
   lead: "Alan Walton is a sole proprietor operating a personal-assistant service.",
   sections: [
     {

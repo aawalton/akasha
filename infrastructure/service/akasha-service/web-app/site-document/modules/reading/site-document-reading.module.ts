@@ -22,7 +22,8 @@ export const siteDocumentReading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A path showing a site document is open to a reader who has not signed in.",
+      statement:
+        "A path showing a site document stating it is public is open to a reader who has not signed in.",
     },
   ],
 } as const satisfies Module

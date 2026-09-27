@@ -8,6 +8,7 @@ export const alanwaltonWebTerms = {
   description: "Terms for the Amy personal-assistant messaging service, operated by Alan Walton.",
   webApp: "web-app/alanwalton-web",
   urlPath: "terms",
+  public: true,
   lead: "Terms for the Amy personal-assistant messaging service, operated by Alan Walton.",
   sections: [
     {

@@ -76,6 +76,7 @@ export function openAt(webApp: string): (pathname: string) => Promise<boolean> {
       where: [
         { key: "webApp", eq: webApp },
         { key: "urlPath", eq: pathname.replace(/^\//, "") },
+        { key: "public", eq: true },
       ],
       max: 1,
     })
