@@ -123,5 +123,6 @@ export const temperPlayerInventoryManagementUi = {
     "module/rule-card-phrase",
     "module/inventory-rules-no-inventory",
     "module/use-rule-goal-titles",
+    "module/gold-amount",
   ],
 } as const satisfies Domain

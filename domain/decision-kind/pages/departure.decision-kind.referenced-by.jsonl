@@ -6406,6 +6406,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.ts","id":"01a0636c-5d97-7635-8e9c-cc6653c00009"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/deconstruct-scope-select/deconstruct-scope-select.module.ts","id":"01a0636c-5d97-7c22-964b-407b1edd000a"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/destination-cascade/destination-cascade.module.ts","id":"01a0636c-5d97-776a-8d86-38240ccf000b"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/gold-amount/gold-amount.module.ts","id":"01a0e2ba-f250-73b7-ac0b-80825a213092"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.ts","id":"01a0636c-5d97-76ed-b991-13a9b7f8000d"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-buy-rules-panel/inventory-buy-rules-panel.module.ts","id":"01a0636c-5d97-7495-be04-eff90cab000e"}

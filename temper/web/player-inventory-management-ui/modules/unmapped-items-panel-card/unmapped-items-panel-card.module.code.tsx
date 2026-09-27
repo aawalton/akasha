@@ -3,7 +3,6 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-row.module.code.tsx"
-import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import {
@@ -17,6 +16,7 @@ import { unmappedItemsPanelCardNoInventory } from "akasha/temper/web/phrase/page
 import { unmappedItemsPanelCardTitle } from "akasha/temper/web/phrase/pages/unmapped-items-panel-card-title.temper-web-phrase.ts"
 import { unmappedItemsPanelCardTotal } from "akasha/temper/web/phrase/pages/unmapped-items-panel-card-total.temper-web-phrase.ts"
 import { AffectedItemsViews } from "akasha/temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"
+import { formatGold } from "akasha/temper/web/player-inventory-management-ui/modules/gold-amount/gold-amount.module.code.ts"
 import {
   decideUnmappedItemsPanelState,
   type InventoryReadState,

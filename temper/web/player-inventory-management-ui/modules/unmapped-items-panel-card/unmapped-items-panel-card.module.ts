@@ -11,5 +11,9 @@ export const unmappedItemsPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The card's title, total label and empty hints are read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gold amounts are worded by the gold amount module.",
+    },
   ],
 } as const satisfies Module

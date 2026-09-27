@@ -11,5 +11,9 @@ export const valueExplanationDialog = {
       decisionKind: "decision-kind/departure",
       statement: "Every heading, row label and basis sentence is read from a web phrase page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gold amounts are worded by the gold amount module.",
+    },
   ],
 } as const satisfies Module

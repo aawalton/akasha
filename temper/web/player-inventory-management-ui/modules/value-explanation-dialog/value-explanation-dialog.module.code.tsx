@@ -7,7 +7,6 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
-import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
@@ -29,6 +28,7 @@ import { valueExplanationDialogSoldQuantity } from "akasha/temper/web/phrase/pag
 import { valueExplanationDialogSuggestedPrice } from "akasha/temper/web/phrase/pages/value-explanation-dialog-suggested-price.temper-web-phrase.ts"
 import { valueExplanationDialogValue } from "akasha/temper/web/phrase/pages/value-explanation-dialog-value.temper-web-phrase.ts"
 import { valueExplanationDialogValueSources } from "akasha/temper/web/phrase/pages/value-explanation-dialog-value-sources.temper-web-phrase.ts"
+import { formatGold } from "akasha/temper/web/player-inventory-management-ui/modules/gold-amount/gold-amount.module.code.ts"
 
 export interface ValueExplanationData {
   itemName: string

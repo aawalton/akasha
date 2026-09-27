@@ -11,5 +11,9 @@ export const managementPlanPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The card's title, counts, total label and empty hints are web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gold amounts are worded by the gold amount module.",
+    },
   ],
 } as const satisfies Module

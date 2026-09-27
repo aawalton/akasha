@@ -11,5 +11,9 @@ export const inventoryPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The Total row's name is a web phrase page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gold amounts are worded by the gold amount module.",
+    },
   ],
 } as const satisfies Module

@@ -10,7 +10,6 @@ import {
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { useSetToggle } from "akasha/design/interface/pattern/modules/use-set-toggle/use-set-toggle.module.code.ts"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
-import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
 import { ScrollArea } from "akasha/design/interface/primitive/modules/scroll-area/scroll-area.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
@@ -35,6 +34,7 @@ import { affectedItemsViewsEmpty } from "akasha/temper/web/phrase/pages/affected
 import { affectedItemsViewsList } from "akasha/temper/web/phrase/pages/affected-items-views-list.temper-web-phrase.ts"
 import { inventoryPageContentByLocation } from "akasha/temper/web/phrase/pages/inventory-page-content-by-location.temper-web-phrase.ts"
 import { inventoryPageContentByType } from "akasha/temper/web/phrase/pages/inventory-page-content-by-type.temper-web-phrase.ts"
+import { formatGold } from "akasha/temper/web/player-inventory-management-ui/modules/gold-amount/gold-amount.module.code.ts"
 import {
   leafToValueData,
   type ValueExplanationData,

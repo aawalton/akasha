@@ -25,7 +25,6 @@ export const designInterfacePrimitive = {
     "module/drawer",
     "module/dropdown-menu",
     "module/filterable-list",
-    "module/format-gold",
     "module/format-relative-time",
     "module/heading",
     "module/home-end-scroll",

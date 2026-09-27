@@ -20,5 +20,9 @@ export const affectedItemsViews = {
       decisionKind: "decision-kind/departure",
       statement: "The tab names and the empty note are web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Gold amounts are worded by the gold amount module.",
+    },
   ],
 } as const satisfies Module

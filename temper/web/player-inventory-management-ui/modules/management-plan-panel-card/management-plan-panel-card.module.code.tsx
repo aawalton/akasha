@@ -7,7 +7,6 @@ import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-r
 import { buildNodePath } from "akasha/design/interface/pattern/modules/path/path.module.code.ts"
 import { useSetToggle } from "akasha/design/interface/pattern/modules/use-set-toggle/use-set-toggle.module.code.ts"
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
-import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type {
   ActionGroup,
@@ -33,6 +32,7 @@ import { managementPlanPanelCardTotal } from "akasha/temper/web/phrase/pages/man
 import { managementPlanPanelCardVenue } from "akasha/temper/web/phrase/pages/management-plan-panel-card-venue.temper-web-phrase.ts"
 import { managementPlanPanelCardVenues } from "akasha/temper/web/phrase/pages/management-plan-panel-card-venues.temper-web-phrase.ts"
 import { managementPlanPanelCardVisit } from "akasha/temper/web/phrase/pages/management-plan-panel-card-visit.temper-web-phrase.ts"
+import { formatGold } from "akasha/temper/web/player-inventory-management-ui/modules/gold-amount/gold-amount.module.code.ts"
 import {
   decideManagementPlanPanelState,
   type InventoryReadState,

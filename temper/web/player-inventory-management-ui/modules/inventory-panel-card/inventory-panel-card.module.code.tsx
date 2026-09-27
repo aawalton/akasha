@@ -5,7 +5,6 @@ import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-r
 import { buildNodePath } from "akasha/design/interface/pattern/modules/path/path.module.code.ts"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { useSetToggle } from "akasha/design/interface/pattern/modules/use-set-toggle/use-set-toggle.module.code.ts"
-import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
 import {
   hasAnyValue,
   type InventoryNode,
@@ -13,6 +12,7 @@ import {
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { inventoryPanelCardTotal } from "akasha/temper/web/phrase/pages/inventory-panel-card-total.temper-web-phrase.ts"
+import { formatGold } from "akasha/temper/web/player-inventory-management-ui/modules/gold-amount/gold-amount.module.code.ts"
 import { ItemTooltipPopover } from "akasha/temper/web/player-inventory-management-ui/modules/item-tooltip-popover/item-tooltip-popover.module.code.tsx"
 import {
   leafToValueData,
