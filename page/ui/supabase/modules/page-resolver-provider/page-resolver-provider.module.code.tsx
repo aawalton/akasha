@@ -1,6 +1,7 @@
 "use client"
 
 import { resolveDescendantPageTypeIds } from "akasha/page/core/schema/modules/page-type-inheritance/page-type-inheritance.module.code.ts"
+import { buildPageTypeSlugMaps } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
 import { buildPageResolver } from "akasha/page/ui/component/view-engine/modules/build-page-resolver/build-page-resolver.module.code.ts"
 import {
   PageResolverProvider,
@@ -12,7 +13,10 @@ import {
   type RelationPickerResult,
 } from "akasha/page/ui/context/modules/relation-picker-context/relation-picker-context.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
-import { usePaginatedRelationPicker } from "akasha/page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts"
+import {
+  pickedSlugFor,
+  usePaginatedRelationPicker,
+} from "akasha/page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts"
 import { createContext, useCallback, useContext, useMemo } from "react"
 
 interface SupabasePageResolverProviderProps {
@@ -25,6 +29,7 @@ interface SupabasePageResolverProviderProps {
 
 interface PickerEnv {
   pageTypeSlug: string
+  slugById: ReadonlyMap<string, string>
   getDescendantSet: (targetId: string) => Set<string>
 }
 const PickerEnvContext = createContext<PickerEnv | null>(null)
@@ -40,8 +45,10 @@ function useSupabaseRelationPicker(
     return Array.from(env.getDescendantSet(targetPageTypeId))
   }, [env, targetPageTypeId])
 
+  const pageTypeSlug = env ? pickedSlugFor(env.slugById, targetPageTypeId, env.pageTypeSlug) : ""
+
   const result = usePaginatedRelationPicker({
-    pageTypeSlug: env?.pageTypeSlug ?? "",
+    pageTypeSlug,
     pageTypeIds,
     searchTerm: args.searchTerm,
     enabled: (args.enabled ?? true) && env != null,
@@ -85,10 +92,14 @@ export function SupabasePageResolverProvider({
     [pages, pageTypes, relatedPages, getDescendantSet]
   )
 
+  const slugById = useMemo(() => buildPageTypeSlugMaps(pageTypes).slugById, [pageTypes])
+
   const pickerEnv = useMemo<PickerEnv | null>(
     () =>
-      pickerPageTypeSlug != null ? { pageTypeSlug: pickerPageTypeSlug, getDescendantSet } : null,
-    [pickerPageTypeSlug, getDescendantSet]
+      pickerPageTypeSlug != null
+        ? { pageTypeSlug: pickerPageTypeSlug, slugById, getDescendantSet }
+        : null,
+    [pickerPageTypeSlug, slugById, getDescendantSet]
   )
 
   const usePickerImpl = useCallback(useSupabaseRelationPicker, [])

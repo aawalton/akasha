@@ -6,4 +6,15 @@ export const relationPicker = {
   slug: "relation-picker",
   definition: "React hook paginating the pages a relation may point at, narrowed by a search term.",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picker asks for pages of the type its relation points at.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A target type no page type names is asked for under the provider's own type.",
+    },
+  ],
 } as const satisfies Module

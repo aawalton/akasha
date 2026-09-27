@@ -24,8 +24,6 @@ import { buildPageListingHref } from "akasha/page/url/modules/page-listing-href/
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { useCallback, useMemo } from "react"
 
-const RELATION_TARGET_SLUG = "page"
-
 const SHOWN_VIEW = "view"
 
 type ViewTab = { readonly id: string; readonly label: string; readonly icon: undefined }
@@ -162,7 +160,7 @@ export function PagesFilteredContent({
         pages={allPages}
         pageTypes={pageTypes}
         relatedPages={relatedPages}
-        pickerPageTypeSlug={RELATION_TARGET_SLUG}
+        pickerPageTypeSlug={pageTypeSlug}
       >
         <PageSystemShell
           title={embedded === true ? null : loading ? "" : pageTypeName}

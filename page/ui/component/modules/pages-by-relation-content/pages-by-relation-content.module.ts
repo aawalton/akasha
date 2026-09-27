@@ -39,5 +39,9 @@ export const pagesByRelationContent = {
       statement:
         "A listing locked to one configuration draws no view tabs, and a change in it keeps the address.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation picker in a listing asks for the pages of the relation's own type.",
+    },
   ],
 } as const satisfies Module

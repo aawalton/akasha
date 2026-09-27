@@ -27,6 +27,15 @@ interface RelationPickerResult {
   isLoading: boolean
 }
 
+export function pickedSlugFor(
+  slugById: ReadonlyMap<string, string>,
+  targetPageTypeId: string | undefined,
+  fallback: string
+): string {
+  if (targetPageTypeId === undefined) return fallback
+  return slugById.get(targetPageTypeId) ?? fallback
+}
+
 export function usePaginatedRelationPicker(args: RelationPickerArgs): RelationPickerResult {
   const { pageTypeSlug, pageTypeIds, searchTerm, enabled = true, pageSize } = args
 
