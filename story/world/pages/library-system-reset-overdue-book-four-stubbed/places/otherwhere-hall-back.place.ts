@@ -279,10 +279,7 @@ export const otherwhereHallBack = {
       fact: "Nala scooped salt from beside the gap, widening it past the width of her forearm.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The first small bookworm dropped the chewed broom and turned its head toward the widened gap.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Under Nala's knee the second small bookworm dried into a hard grey coil, alive and still.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
