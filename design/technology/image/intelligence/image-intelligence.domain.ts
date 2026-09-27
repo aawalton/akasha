@@ -29,6 +29,15 @@ export const imageIntelligence = {
         "A face names a persona only where ArcFace buffalo_l, antelopev2 and AdaFace agree.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each of the three scores the face at least 0.55 against her anchor and 0.12 above the next.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A picture names a persona only where its faces match exactly one persona.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A face of no persona still scores up to about 0.6 against some persona's anchor.",
     },
