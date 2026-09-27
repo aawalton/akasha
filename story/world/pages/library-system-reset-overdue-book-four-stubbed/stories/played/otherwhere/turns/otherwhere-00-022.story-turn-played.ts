@@ -4,6 +4,7 @@ export const otherwhere00022 = {
   id: "01a0e4e0-8f1d-7e4c-ae32-465c3d455886",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-022",
+  cover: "image/image-ff52a12c0f95d11e",
   ownLength: 136,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -14,7 +15,7 @@ export const otherwhere00022 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I wait for it to come to the gap, then tackle it and hold it in the salt",
   beats: [
     "Nala crouches by the scuffed gap and waits, weight forward.",
@@ -28,5 +29,5 @@ export const otherwhere00022 = {
   issues: ['"Now it\'s inside the oval with you." - Leave It Open'],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

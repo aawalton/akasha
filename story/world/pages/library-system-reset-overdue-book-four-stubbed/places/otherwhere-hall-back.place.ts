@@ -166,7 +166,7 @@ export const otherwhereHallBack = {
     },
     {
       fact: "A small bookworm can squeeze through a gap a hand wide in a salt line, scraped raw as it goes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
