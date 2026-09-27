@@ -1,5 +1,8 @@
 import { expect, test } from "bun:test"
-import { settled } from "akasha/story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.settling.code.ts"
+import {
+  added,
+  settled,
+} from "akasha/story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.settling.code.ts"
 
 const AT = {
   character: "her",
@@ -78,4 +81,14 @@ test("a count of missed bids below nought is refused", () => {
 
 test("a reading that is no keyed reading is refused", () => {
   expect(settled([2, 1, 0, 3, 0])).toHaveProperty("refused")
+})
+
+test("the change is added to the points on her relationship page", () => {
+  expect(
+    added({ ...AT, character: "character-other/the-dating-game-her" }, { change: -1 })
+  ).toEqual([{ page: "world-relationship/the-dating-game-her", key: "relationshipPoints", by: -1 }])
+})
+
+test("an answer with no change adds nothing", () => {
+  expect(added(AT, { earned: 1 })).toEqual([])
 })

@@ -124,6 +124,43 @@ function reachOver(turn: Turn, into: Seen, latest = SLUG): Rewinding {
     ],
     seatsIn: () => SEATS,
     present: (_root, path) => path === PROSE_AT || path === ROLLS_AT,
+    textIn: () => "",
+    addingOf: async () => () => [],
+    pageAt: () => null,
+  }
+}
+
+const SCORING = "world-check/the-saga-scoring"
+
+const HER = "world-relationship/the-saga-her"
+
+const HER_AT = "stories/the-saga/relationships/the-saga-her.world-relationship.ts"
+
+function scoredLine(change: number): string {
+  const reading = { character: "character-other/the-saga-her" }
+  return JSON.stringify({ check: SCORING, reading, answered: { change } })
+}
+
+function scoredOver(turn: Turn, into: Seen, lines: readonly string[]): Rewinding {
+  return {
+    ...reachOver(turn, into),
+    textIn: (_root, path) => (path === ROLLS_AT ? `${lines.join("\n")}\n` : ""),
+    addingOf: async (_root, check) =>
+      check === "the-saga-scoring"
+        ? (_reading, answered) => {
+            const by = (answered as { change: number }).change
+            return [{ page: HER, key: "relationshipPoints", by }]
+          }
+        : null,
+    pageAt: (_root, page) =>
+      page === HER
+        ? {
+            at: HER_AT,
+            pageTypeSlug: "world-relationship",
+            slug: "the-saga-her",
+            value: { relationshipPoints: 12 },
+          }
+        : null,
   }
 }
 
@@ -274,4 +311,56 @@ test("a turn that is not the latest of its story lands nothing", async () => {
   expect(into.folded).toEqual([])
   expect(into.stops).toEqual([])
   expect(into.notices).toEqual([])
+})
+
+test("a rewind of a scored turn takes back what its landed rolls added, in the same landing", async () => {
+  const into = seen()
+  const turn = turnAt({ action: "I open the gate" })
+  const reach = scoredOver(turn, into, [scoredLine(3), scoredLine(-1)])
+  const answer = await rewoundBy([], reach, into)
+  expect(answer.refusals).toEqual([])
+  expect(into.folded).toHaveLength(2)
+  expect(into.folded[1]).toEqual({
+    pageTypeSlug: "world-relationship",
+    slug: "the-saga-her",
+    path: HER_AT,
+    values: { relationshipPoints: 10 },
+    merge: true,
+  })
+  expect(into.asked).toEqual([taking(PROSE_AT), taking(ROLLS_AT)])
+  expect(answer.report).toContain(`taken back\t${HER}\trelationshipPoints`)
+})
+
+test("a rewind of a turn with no rolls takes nothing back", async () => {
+  const into = seen()
+  const turn = turnAt({ action: "I open the gate" })
+  const reach = { ...scoredOver(turn, into, [scoredLine(3)]), present: () => false }
+  const answer = await rewoundBy([], reach, into)
+  expect(answer.refusals).toEqual([])
+  expect(into.folded).toHaveLength(1)
+  expect(answer.report.join("\n")).not.toContain("taken back")
+})
+
+test("rolls only drafted beside the turn are discarded and take nothing back", async () => {
+  const into = seen()
+  const turn = turnAt({ action: "I open the gate", turnStatus: `${turnStatus.slug}/recorders` })
+  const reach = {
+    ...scoredOver(turn, into, [scoredLine(3)]),
+    present: (_root: string, path: string) => path === PROSE_AT,
+  }
+  const answer = await rewoundBy([], reach, into)
+  expect(answer.refusals).toEqual([])
+  expect(into.folded).toHaveLength(1)
+  expect(into.releases).toEqual([AT])
+  expect(answer.report).toContain("discarded\tthe recorders' kept edits")
+})
+
+test("rolls naming a check that is not here land nothing", async () => {
+  const into = seen()
+  const turn = turnAt({ action: "I open the gate" })
+  const line = JSON.stringify({ check: "world-check/gone", reading: {}, answered: { change: 3 } })
+  const answer = await rewoundBy([], scoredOver(turn, into, [line]), into)
+  expect(answer.refusals.join(" ")).toContain("names no check here")
+  expect(into.folded).toEqual([])
+  expect(into.asked).toEqual([])
 })

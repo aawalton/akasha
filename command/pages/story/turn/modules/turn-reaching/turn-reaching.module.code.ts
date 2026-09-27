@@ -1,5 +1,5 @@
 import { spawn } from "node:child_process"
-import { existsSync } from "node:fs"
+import { existsSync, readFileSync } from "node:fs"
 import { basename, join } from "node:path"
 import { writeMessage } from "akasha/agent/message/modules/sending/agent-message-sending.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
@@ -16,7 +16,10 @@ import {
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import {
+  ADDED,
+  type Adding,
   type Turn as Placed,
+  settlingIndexed,
   turnsIndexed,
 } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
 import {
@@ -136,10 +139,20 @@ export type Reach = {
   readonly changedLore: (root: string, seat: string) => readonly string[]
 }
 
+export type Paged = {
+  readonly at: string
+  readonly pageTypeSlug: string
+  readonly slug: string
+  readonly value: Value
+}
+
 export type Rewinding = Reach & {
   readonly turnsOf: (root: string, game: string) => readonly Placed[]
   readonly seatsIn: () => readonly Seated[]
   readonly present: (root: string, path: string) => boolean
+  readonly textIn: (root: string, path: string) => string
+  readonly addingOf: (root: string, check: string) => Promise<Adding | null>
+  readonly pageAt: (root: string, page: string) => Paged | null
 }
 
 export type Told = { readonly report: string[]; readonly faults: string[] }
@@ -348,9 +361,29 @@ function seatsStated(): readonly Seated[] {
   })
 }
 
+async function addingIndexed(root: string, check: string): Promise<Adding | null> {
+  const at = settlingIndexed(root, check)
+  if (at === null) return null
+  const held = (await import(join(root, at))) as Record<string, unknown>
+  const adding = held[ADDED]
+  return typeof adding === "function" ? (adding as Adding) : () => []
+}
+
+function pageIndexed(root: string, page: string): Paged | null {
+  const address = addressIn(page)
+  if (address.kind !== "qualified") return null
+  const listed = listedAt(root, address.pageTypeSlug, address.slug)[0]
+  const value = listed === undefined ? null : valueAt(listed.path, root)
+  if (listed === undefined || value === null) return null
+  return { at: listed.path, pageTypeSlug: address.pageTypeSlug, slug: address.slug, value }
+}
+
 export const REWOUND: Rewinding = {
   ...REACHED,
   turnsOf: turnsIndexed,
   seatsIn: seatsStated,
   present: (root, path) => existsSync(join(root, path)),
+  textIn: (root, path) => readFileSync(join(root, path), "utf8"),
+  addingOf: addingIndexed,
+  pageAt: pageIndexed,
 }

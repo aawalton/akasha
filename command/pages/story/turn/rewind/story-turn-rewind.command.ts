@@ -22,6 +22,23 @@ export const storyTurnRewind = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rewind takes back every number the turn's landed rolls added to a page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What a roll added is what its check's code names as added for that roll.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A roll only drafted is discarded with the recorders' edits and takes nothing back.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A roll whose check is no longer here refuses the rewind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Everything a rewind does to the turn lands in one landing.",
     },
     {

@@ -1,9 +1,11 @@
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
 import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import {
+  type Asking,
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { actionFile } from "akasha/command/argument/pages/action-file.argument.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
@@ -20,7 +22,7 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
-import { rollsAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import { type Added, rollsAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
 import { heldOf } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
   noticesSent,
@@ -56,6 +58,14 @@ const PROSE = "prose"
 const PROSE_HELD = "txt"
 
 const TRAILING_LINES = /(?:\r?\n)+$/
+
+const BREAK = "\n"
+
+const CHECK = "check"
+
+const READING = "reading"
+
+const ANSWERED = "answered"
 
 const STOPPED: readonly string[] = [reviewerRole.slug, storyRecorderRole.slug]
 
@@ -116,6 +126,73 @@ function besideTurn(reach: Rewinding, root: string, turn: Turn): readonly string
   )
 }
 
+type Undone = { readonly namings: readonly Naming[]; readonly report: readonly string[] }
+
+async function addedIn(
+  reach: Rewinding,
+  root: string,
+  at: string
+): Promise<readonly Added[] | { readonly refused: string }> {
+  const added: Added[] = []
+  for (const line of reach.textIn(root, at).split(BREAK)) {
+    if (line.trim() === "") continue
+    const roll: unknown = JSON.parse(line)
+    const check = isRecord(roll) ? roll[CHECK] : null
+    if (!isRecord(roll) || typeof check !== "string") {
+      return { refused: `\`${at}\` holds a line naming no check` }
+    }
+    const adding = await reach.addingOf(root, bareOf(check))
+    if (adding === null) {
+      return {
+        refused: `\`${check}\`, settled in \`${at}\`, names no check here, so what it added cannot be taken back`,
+      }
+    }
+    added.push(...adding(roll[READING], roll[ANSWERED]))
+  }
+  return added
+}
+
+async function undoneOf(
+  reach: Rewinding,
+  root: string,
+  turn: Turn,
+  gone: readonly string[]
+): Promise<Undone | { readonly refused: string }> {
+  const at = rollsAt(turn.at)
+  if (at === null || !gone.includes(at)) return { namings: [], report: [] }
+  const added = await addedIn(reach, root, at)
+  if ("refused" in added) return added
+  const byPage = new Map<string, Map<string, number>>()
+  for (const one of added) {
+    const keys = byPage.get(one.page) ?? new Map<string, number>()
+    keys.set(one.key, (keys.get(one.key) ?? 0) + one.by)
+    byPage.set(one.page, keys)
+  }
+  const namings: Naming[] = []
+  const report: string[] = []
+  for (const [onto, keys] of byPage) {
+    const held = reach.pageAt(root, onto)
+    if (held === null) return { refused: `\`${onto}\`, which \`${at}\` added to, is no page here` }
+    const values: Record<string, unknown> = {}
+    for (const [key, by] of keys) {
+      const was = held.value[key]
+      if (typeof was !== "number") {
+        return { refused: `\`${onto}\` states no number at \`${key}\` for \`${at}\` to take back` }
+      }
+      values[key] = was - by
+      report.push(`taken back\t${onto}\t${key}`)
+    }
+    namings.push({
+      pageTypeSlug: held.pageTypeSlug,
+      slug: held.slug,
+      path: held.at,
+      values,
+      merge: true,
+    })
+  }
+  return { namings, report }
+}
+
 function latestRefused(reach: Rewinding, root: string, slug: string, game: string): string | null {
   const latest = latestOf(reach.turnsOf(root, game))
   if (latest?.slug === slug) return null
@@ -156,17 +233,27 @@ async function rewoundOn(
   }
   const values = rewound(turn, action)
   const gone = besideTurn(reach, given.root, turn)
+  const undone = await undoneOf(reach, given.root, turn, gone)
+  if ("refused" in undone) return refused(undone.refused, DATA)
   if (!alreadyRewound(turn, values, gone)) {
     const naming: Naming = { pageTypeSlug: storyTurnPlayed.slug, slug, path: turn.at, values }
-    const asking = reach.fold(given.root, naming)
-    if ("refused" in asking) return refused(asking.refused, DATA)
+    const asking: Asking[] = []
+    for (const one of [naming, ...undone.namings]) {
+      const folded = reach.fold(given.root, one)
+      if ("refused" in folded) return refused(folded.refused, DATA)
+      asking.push(...folded)
+    }
     const message = `${slug} is rewound from ${held.status} to ${WORLD_BUILDER}`
     const by = { agentId: given.agentId, writer: given.writer, done }
     const landed = await landing(given.root, [...asking, ...gone.map(taking)], message, by)
     if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
   }
   const after: Told = {
-    report: [`${slug}\t${held.status}\t${WORLD_BUILDER}`, ...gone.map((one) => `removed\t${one}`)],
+    report: [
+      `${slug}\t${held.status}\t${WORLD_BUILDER}`,
+      ...gone.map((one) => `removed\t${one}`),
+      ...undone.report,
+    ],
     faults: [],
   }
   seatsStopped(reach, given.root, held.game, after)

@@ -1,4 +1,5 @@
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
+import type { Added } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
 
 const HERE =
   "story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring"
@@ -58,4 +59,19 @@ export function settled(reading: unknown): Settled {
   if (turnedAway > 0 && !quoted(quotes[TURNED_AWAY])) return unquoted(TURNED_AWAY)
   const lost = turnedAway * MISSED_BID
   return { answered: { earned, lost, change: earned - lost } }
+}
+
+const RELATIONSHIP = "world-relationship"
+
+const POINTS = "relationshipPoints"
+
+const CHANGE = "change"
+
+export function added(reading: unknown, answered: unknown): readonly Added[] {
+  if (!isRecord(reading) || !isRecord(answered)) return []
+  const character = reading[CHARACTER]
+  const by = answered[CHANGE]
+  if (typeof character !== "string" || typeof by !== "number") return []
+  const slug = character.slice(character.lastIndexOf("/") + 1)
+  return [{ page: `${RELATIONSHIP}/${slug}`, key: POINTS, by }]
 }

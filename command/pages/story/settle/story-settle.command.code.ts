@@ -109,6 +109,12 @@ export type Roll = {
   readonly answered: unknown
 }
 
+export type Added = { readonly page: string; readonly key: string; readonly by: number }
+
+export type Adding = (reading: unknown, answered: unknown) => readonly Added[]
+
+export const ADDED = "added"
+
 type Cast = { readonly dice: Dice; readonly roll: Rolled; readonly seed: string }
 
 type Held<Of> = { readonly answered: Of } | { readonly refused: string }
@@ -162,7 +168,7 @@ export function turnsIndexed(root: string, story: string): readonly Turn[] {
   return found
 }
 
-function settlingIndexed(root: string, check: string): string | null {
+export function settlingIndexed(root: string, check: string): string | null {
   const listed = listedAt(root, worldCheck.slug, check)[0]
   if (listed === undefined) return null
   return besideAt(listed.path, `${settling.propertySlug}.${CODE}`, HELD_TS)
