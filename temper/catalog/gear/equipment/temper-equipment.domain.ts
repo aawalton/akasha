@@ -10,6 +10,7 @@ export const temperEquipment = {
     "module/armor-weight-ids",
     "module/eso-trait-map",
     "module/gear-reading",
+    "module/gear-type-names",
     "module/held-gear-table",
     "module/jewelry-traits",
     "module/set-category-ids",

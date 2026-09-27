@@ -14,6 +14,7 @@ import { temperGearGrade } from "akasha/temper/catalog/gear/grade/temper-gear-gr
 import { temperArmorSlot } from "akasha/temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts"
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
 import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
+import { temperJewelryType } from "akasha/temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts"
 import { temperPotion } from "akasha/temper/catalog/gear/temper-potion/temper-potion.page-type.ts"
 import { temperPotionCrafted } from "akasha/temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts"
 import { temperPotionCrown } from "akasha/temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts"
@@ -91,6 +92,7 @@ export function useSkillCatalog(): SkillCatalog | null {
   const qualities = usePages({ pageTypeSlug: temperQuality.slug, limit: EVERY })
   const armorSlots = usePages({ pageTypeSlug: temperArmorSlot.slug, limit: EVERY })
   const jewelrySlots = usePages({ pageTypeSlug: temperJewelrySlot.slug, limit: EVERY })
+  const jewelryTypes = usePages({ pageTypeSlug: temperJewelryType.slug, limit: EVERY })
   const weaponSlots = usePages({ pageTypeSlug: temperWeaponSlot.slug, limit: EVERY })
   const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
   const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
@@ -104,6 +106,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     weaponTypes,
     armorSlots,
     jewelrySlots,
+    jewelryTypes,
     weaponSlots,
     armorWeights,
     grades,
@@ -187,6 +190,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperCompletionCategory.slug, completionCategories.rows],
       [temperArmorSlot.slug, armorSlots.rows],
       [temperJewelrySlot.slug, jewelrySlots.rows],
+      [temperJewelryType.slug, jewelryTypes.rows],
       [temperWeaponSlot.slug, weaponSlots.rows],
       [temperArmorWeight.slug, armorWeights.rows],
       [temperGearGrade.slug, grades.rows],
@@ -235,6 +239,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     completionCategories.rows,
     armorSlots.rows,
     jewelrySlots.rows,
+    jewelryTypes.rows,
     weaponSlots.rows,
     armorWeights.rows,
     grades.rows,
