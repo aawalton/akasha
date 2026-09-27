@@ -13,6 +13,10 @@ export const seatComposer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A phone shows no Send button, and the box takes its room.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Enter pressed while a word is still being composed sends nothing.",
     },
     {

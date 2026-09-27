@@ -213,7 +213,12 @@ export function SeatComposer({
           aria-label="Message to this seat"
           className="max-h-48 min-h-10 flex-1 resize-none"
         />
-        <Button variant="accent" className="h-10" disabled={empty} onClick={send}>
+        <Button
+          variant="accent"
+          className="hidden h-10 min-[584px]:inline-flex"
+          disabled={empty}
+          onClick={send}
+        >
           Send
         </Button>
       </div>

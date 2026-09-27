@@ -234,7 +234,7 @@ export function ActionBar({
             aria-label="Your action"
             className={`${surfaceClass(1)} max-h-48 min-h-9 flex-1 resize-none`}
           />
-          <Button type="submit" disabled={sending}>
+          <Button type="submit" disabled={sending} className="hidden min-[584px]:inline-flex">
             Send
           </Button>
         </div>

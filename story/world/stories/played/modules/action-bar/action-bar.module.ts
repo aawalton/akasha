@@ -43,6 +43,10 @@ export const actionBar = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A phone shows no Send button, and the line takes its room.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A turn reaching the player raises a notice naming the story and the turn.",
     },
     {
