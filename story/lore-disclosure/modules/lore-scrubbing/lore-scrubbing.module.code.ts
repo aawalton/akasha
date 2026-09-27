@@ -15,6 +15,8 @@ import {
   withheldFor,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
+import { turnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.ts"
+import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 export const LEFT_OUT = "[a line of lore the world builder holds was left out here]"
 
@@ -96,6 +98,15 @@ function toldProseIn(root: string): readonly string[] {
   return found
 }
 
+function actionsIn(root: string): readonly string[] {
+  const found: string[] = []
+  for (const value of valuesByPath(root, storyTurnPlayed.slug).values()) {
+    const action = value[turnAction.propertySlug]
+    if (typeof action === "string") found.push(action)
+  }
+  return found
+}
+
 function toldTaken(runs: Map<number, Set<string>>, told: readonly string[]): undefined {
   for (const one of told) {
     const words = wordsOf(one)
@@ -133,7 +144,7 @@ export function scrubberFor(root: string, agentId: string | null): Scrubber | nu
   const withheld = withheldFor(root, agentId)
   if (withheld.length === 0) return null
   const tells = copiesOf(root, withheld).flatMap((at) => tellsIn(readFileSync(at, "utf8")))
-  return { runs: runsOf(tells, toldProseIn(root)) }
+  return { runs: runsOf(tells, [...toldProseIn(root), ...actionsIn(root)]) }
 }
 
 export function heldIn(line: string, scrubber: Scrubber): boolean {

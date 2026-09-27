@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/turns/otherwhere-00-001.story-turn-played.ts","typed":true,"deferred":false}

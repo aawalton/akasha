@@ -30,6 +30,8 @@ import {
   UNDER_GAME_MASTER,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
+import { turnAction } from "akasha/story/world/stories/played/turns/properties/turn-action.text-property.ts"
+import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
 const scratch = scratchWorld()
 
@@ -150,6 +152,33 @@ function toldWorld(): string {
 test("a fact told to the game master is kept where it shares words with a withheld fact", () => {
   const scrubber = scrubberOf(toldWorld())
   expect(heldIn(`      fact: "${TOLD}",`, scrubber)).toBe(false)
+  expect(heldIn(`"${FACT}"`, scrubber)).toBe(true)
+})
+
+const PLAYED_AT =
+  "story/world/pages/held/stories/played/held/turns/held-00-001.story-turn-played.ts"
+
+const ACTION = "I tell her the ferryman remembers every crossing, so she should ask him"
+
+function playedWorld(): string {
+  const root = sealedWorld()
+  valueAlsoFiled(root, storyTurnPlayed.slug, [
+    {
+      path: PLAYED_AT,
+      value: {
+        id: "01a0d600-0000-7000-8000-00000000000b",
+        type: `page-type/${storyTurnPlayed.slug}`,
+        slug: "held-00-001",
+        [turnAction.propertySlug]: ACTION,
+      },
+    },
+  ])
+  return root
+}
+
+test("a player's action is kept where it shares words with a withheld fact", () => {
+  const scrubber = scrubberOf(playedWorld())
+  expect(heldIn(`  action: ${JSON.stringify(ACTION)},`, scrubber)).toBe(false)
   expect(heldIn(`"${FACT}"`, scrubber)).toBe(true)
 })
 
