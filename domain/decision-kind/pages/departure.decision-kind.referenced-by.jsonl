@@ -6354,6 +6354,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-no-inventory/inventory-rules-no-inventory.module.ts","id":"01a0e2a7-26a7-7a91-bd5f-a1a1812030cb"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-tab/inventory-rules-tab.module.ts","id":"01a0636c-5d9b-769d-a667-dbb5d8d60026"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-unread/inventory-rules-unread.module.ts","id":"01a0976a-31b2-7c40-9f5e-6b0d4a2e77c1"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-scope-note-text/inventory-scope-note-text.module.ts","id":"01a0636c-5d9b-798b-bb3f-1e3e2f0e002b"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-summary-panel-card/inventory-summary-panel-card.module.ts","id":"01a0636c-5d9b-7459-b358-3da50484002d"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-type-data-content/inventory-type-data-content.module.ts","id":"01a0636c-5d9b-773e-817e-b2cee53c002e"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-type-panel-card/inventory-type-panel-card.module.ts","id":"01a0636c-5d9b-7777-87e1-6841b082002f"}
