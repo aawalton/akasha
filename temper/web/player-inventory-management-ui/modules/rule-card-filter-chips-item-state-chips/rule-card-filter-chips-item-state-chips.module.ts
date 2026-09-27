@@ -6,4 +6,15 @@ export const ruleCardFilterChipsItemStateChips = {
   slug: "rule-card-filter-chips-item-state-chips",
   definition: "the item chips a reader switches on or off",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chip's options are its condition field's value pages, and none is drawn before.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A locked chip's reason is a rule card phrase naming its action and filter.",
+    },
+  ],
 } as const satisfies Module

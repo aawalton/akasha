@@ -8,15 +8,14 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { BOP_TRADEABLE_OPTIONS } from "akasha/temper/items/rules/core/modules/bop-tradeable-filter/bop-tradeable-filter.module.code.ts"
-import { BOUND_OPTIONS } from "akasha/temper/items/rules/core/modules/bound-filter/bound-filter.module.code.ts"
-import { CRAFTED_OPTIONS } from "akasha/temper/items/rules/core/modules/crafted-filter/crafted-filter.module.code.ts"
-import { LOCKED_OPTIONS } from "akasha/temper/items/rules/core/modules/locked-filter/locked-filter.module.code.ts"
-import { QUEST_RELEVANT_OPTIONS } from "akasha/temper/items/rules/core/modules/quest-relevant-filter/quest-relevant-filter.module.code.ts"
-import { STACK_FULLNESS_OPTIONS } from "akasha/temper/items/rules/core/modules/stack-fullness-filter/stack-fullness-filter.module.code.ts"
-import { STOLEN_OPTIONS } from "akasha/temper/items/rules/core/modules/stolen-filter/stolen-filter.module.code.ts"
 import type { RuleCardState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
 import { FilterLock } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
+import { useLockReason } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  optionsOf,
+  useConditionValueOptions,
+  valueLabelOf,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-value-options/use-condition-value-options.module.code.tsx"
 import type { ReactNode } from "react"
 
 interface StolenChipProps {
@@ -28,16 +27,19 @@ interface StolenChipProps {
 
 export function StolenChip({ state }: StolenChipProps): ReactNode {
   const { action, displayAction, stolenValue, handleStolenChange, handleRemoveFilter } = state
+  const values = useConditionValueOptions()
+  const lockReason = useLockReason()
+  if (values === null || lockReason === null) return null
 
   return displayAction === "fence-launder" ? (
     <Badge variant="elevation-muted" className="shrink-0">
-      {STOLEN_OPTIONS.find((o) => o.value === stolenValue)?.label}
-      <FilterLock reason="The Launder action requires the Stolen filter because only stolen items can be laundered at a fence." />
+      {valueLabelOf(values, "stolen", stolenValue)}
+      <FilterLock reason={lockReason("lock-launder-stolen", "fence-launder", "stolen")} />
     </Badge>
   ) : action === "fence-sell" ? (
     <Badge variant="elevation-muted" className="shrink-0">
-      {STOLEN_OPTIONS.find((o) => o.value === stolenValue)?.label}
-      <FilterLock reason="The Sell to Fence action requires the Stolen filter because only stolen items can be sold at a fence." />
+      {valueLabelOf(values, "stolen", stolenValue)}
+      <FilterLock reason={lockReason("lock-fence-stolen", "fence-sell", "stolen")} />
     </Badge>
   ) : (
     <Select value={stolenValue} onValueChange={handleStolenChange}>
@@ -52,7 +54,7 @@ export function StolenChip({ state }: StolenChipProps): ReactNode {
         </Badge>
       </SelectTrigger>
       <SelectContent>
-        {STOLEN_OPTIONS.map((opt) => (
+        {optionsOf(values, "stolen").map((opt) => (
           <SelectItem key={opt.value} value={opt.value}>
             {opt.label}
           </SelectItem>
@@ -68,6 +70,8 @@ interface CraftedChipProps {
 
 export function CraftedChip({ state }: CraftedChipProps): ReactNode {
   const { craftedValue, handleCraftedChange, handleRemoveFilter } = state
+  const values = useConditionValueOptions()
+  if (values === null) return null
 
   return (
     <Select value={craftedValue} onValueChange={handleCraftedChange}>
@@ -82,7 +86,7 @@ export function CraftedChip({ state }: CraftedChipProps): ReactNode {
         </Badge>
       </SelectTrigger>
       <SelectContent>
-        {CRAFTED_OPTIONS.map((opt) => (
+        {optionsOf(values, "crafted").map((opt) => (
           <SelectItem key={opt.value} value={opt.value}>
             {opt.label}
           </SelectItem>
@@ -98,6 +102,8 @@ interface BoundChipProps {
 
 export function BoundChip({ state }: BoundChipProps): ReactNode {
   const { boundValue, handleBoundChange, handleRemoveFilter } = state
+  const values = useConditionValueOptions()
+  if (values === null) return null
 
   return (
     <Select value={boundValue} onValueChange={handleBoundChange}>
@@ -112,7 +118,7 @@ export function BoundChip({ state }: BoundChipProps): ReactNode {
         </Badge>
       </SelectTrigger>
       <SelectContent>
-        {BOUND_OPTIONS.map((opt) => (
+        {optionsOf(values, "bound").map((opt) => (
           <SelectItem key={opt.value} value={opt.value}>
             {opt.label}
           </SelectItem>
@@ -131,6 +137,8 @@ interface BopTradeableChipProps {
 
 export function BopTradeableChip({ state }: BopTradeableChipProps): ReactNode {
   const { bopTradeableValue, handleBopTradeableChange, handleRemoveFilter } = state
+  const values = useConditionValueOptions()
+  if (values === null) return null
 
   return (
     <Select value={bopTradeableValue} onValueChange={handleBopTradeableChange}>
@@ -145,7 +153,7 @@ export function BopTradeableChip({ state }: BopTradeableChipProps): ReactNode {
         </Badge>
       </SelectTrigger>
       <SelectContent>
-        {BOP_TRADEABLE_OPTIONS.map((opt) => (
+        {optionsOf(values, "bop-tradeable").map((opt) => (
           <SelectItem key={opt.value} value={opt.value}>
             {opt.label}
           </SelectItem>
@@ -164,6 +172,8 @@ interface QuestRelevantChipProps {
 
 export function QuestRelevantChip({ state }: QuestRelevantChipProps): ReactNode {
   const { questRelevantValue, handleQuestRelevantChange, handleRemoveFilter } = state
+  const values = useConditionValueOptions()
+  if (values === null) return null
 
   return (
     <Select value={questRelevantValue} onValueChange={handleQuestRelevantChange}>
@@ -178,7 +188,7 @@ export function QuestRelevantChip({ state }: QuestRelevantChipProps): ReactNode 
         </Badge>
       </SelectTrigger>
       <SelectContent>
-        {QUEST_RELEVANT_OPTIONS.map((opt) => (
+        {optionsOf(values, "quest-relevant").map((opt) => (
           <SelectItem key={opt.value} value={opt.value}>
             {opt.label}
           </SelectItem>
@@ -197,6 +207,8 @@ interface StackFullnessChipProps {
 
 export function StackFullnessChip({ state }: StackFullnessChipProps): ReactNode {
   const { stackFullnessValue, handleStackFullnessChange, handleRemoveFilter } = state
+  const values = useConditionValueOptions()
+  if (values === null) return null
 
   return (
     <Select value={stackFullnessValue} onValueChange={handleStackFullnessChange}>
@@ -211,7 +223,7 @@ export function StackFullnessChip({ state }: StackFullnessChipProps): ReactNode 
         </Badge>
       </SelectTrigger>
       <SelectContent>
-        {STACK_FULLNESS_OPTIONS.map((opt) => (
+        {optionsOf(values, "stack-fullness").map((opt) => (
           <SelectItem key={opt.value} value={opt.value}>
             {opt.label}
           </SelectItem>
@@ -230,16 +242,23 @@ interface LockedChipProps {
 
 export function LockedChip({ state }: LockedChipProps): ReactNode {
   const { displayAction, lockedValue, handleLockedChange, handleRemoveFilter } = state
+  const values = useConditionValueOptions()
+  const lockReason = useLockReason()
+  if (values === null || lockReason === null) return null
 
   return displayAction === "unlock" ? (
     <Badge variant="elevation-muted" className="shrink-0">
-      {LOCKED_OPTIONS.find((o) => o.value === lockedValue)?.label}
-      <FilterLock reason="The Unlock action requires the Locked filter because only locked items can be unlocked." />
+      {valueLabelOf(values, "locked", lockedValue)}
+      <FilterLock reason={lockReason("lock-unlock-locked", "unlock", "locked")} />
     </Badge>
   ) : displayAction === "lock" ? (
     <Badge variant="elevation-muted" className="shrink-0">
-      {LOCKED_OPTIONS.find((o) => o.value === lockedValue)?.label}
-      <FilterLock reason="The Lock action requires the Not Locked filter because only unlocked items can be locked." />
+      {valueLabelOf(values, "locked", lockedValue)}
+      <FilterLock
+        reason={lockReason("lock-lock-not-locked", "lock", "locked", {
+          value: valueLabelOf(values, "locked", "not-locked"),
+        })}
+      />
     </Badge>
   ) : (
     <Select value={lockedValue} onValueChange={handleLockedChange}>
@@ -254,7 +273,7 @@ export function LockedChip({ state }: LockedChipProps): ReactNode {
         </Badge>
       </SelectTrigger>
       <SelectContent>
-        {LOCKED_OPTIONS.map((opt) => (
+        {optionsOf(values, "locked").map((opt) => (
           <SelectItem key={opt.value} value={opt.value}>
             {opt.label}
           </SelectItem>

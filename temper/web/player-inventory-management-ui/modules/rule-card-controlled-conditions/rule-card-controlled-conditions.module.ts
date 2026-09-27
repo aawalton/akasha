@@ -12,8 +12,8 @@ export const ruleCardControlledConditions = {
       statement: "A chip is named by its condition field's page, and none is drawn before.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "A negated chip is named by the option label its filter gives.",
+      decisionKind: "decision-kind/departure",
+      statement: "A negated chip is named by its condition value page.",
     },
   ],
 } as const satisfies Module

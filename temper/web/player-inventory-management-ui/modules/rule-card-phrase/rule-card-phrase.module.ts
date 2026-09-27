@@ -15,5 +15,9 @@ export const ruleCardPhrase = {
       decisionKind: "decision-kind/departure",
       statement: "A name in braces the caller does not fill is left as written.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A lock reason's action and filter are named by their own pages' titles.",
+    },
   ],
 } as const satisfies Module

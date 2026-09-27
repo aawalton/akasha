@@ -1,13 +1,5 @@
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type {
-  FilterOption,
-  InventoryRuleFilter,
-} from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
-
-export const BOUND_OPTIONS: FilterOption[] = [
-  { value: "bound", label: "Is Bound" },
-  { value: "not-bound", label: "Is Not Bound" },
-]
+import type { InventoryRuleFilter } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 
 const read = (c: CategoryRule["conditions"]) => c?.bound
 

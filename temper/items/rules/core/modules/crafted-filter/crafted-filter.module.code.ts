@@ -1,8 +1,5 @@
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type {
-  FilterOption,
-  InventoryRuleFilter,
-} from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
+import type { InventoryRuleFilter } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { checkAncestorRoots } from "akasha/temper/items/rules/core/modules/rule-filter-utils/rule-filter-utils.module.code.ts"
 
 const CRAFTED_ELIGIBLE_ROOTS = new Set([
@@ -15,11 +12,6 @@ const CRAFTED_ELIGIBLE_ROOTS = new Set([
   "drink",
   "furnishings",
 ])
-
-export const CRAFTED_OPTIONS: FilterOption[] = [
-  { value: "crafted", label: "Is Crafted" },
-  { value: "not-crafted", label: "Is Not Crafted" },
-]
 
 const read = (c: CategoryRule["conditions"]) => c?.crafted
 

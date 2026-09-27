@@ -1,13 +1,5 @@
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type {
-  FilterOption,
-  InventoryRuleFilter,
-} from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
-
-export const LOCKED_OPTIONS: FilterOption[] = [
-  { value: "locked", label: "Is Locked" },
-  { value: "not-locked", label: "Is Not Locked" },
-]
+import type { InventoryRuleFilter } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 
 const read = (c: CategoryRule["conditions"]) => c?.locked
 
