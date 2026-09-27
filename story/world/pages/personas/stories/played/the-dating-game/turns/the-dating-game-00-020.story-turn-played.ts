@@ -24,5 +24,5 @@ export const theDatingGame00020 = {
   ],
   issues: ['"Rock Canyon opens dark between the mountains, where the day began" - Leave It Open'],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
