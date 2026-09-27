@@ -16,5 +16,10 @@ export const navItemActions = {
       decisionKind: "decision-kind/departure",
       statement: "The button opening a nav item's actions is named and shows while it has focus.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Clicking the button opening a nav item's actions does not follow the item's link.",
+    },
   ],
 } as const satisfies Module
