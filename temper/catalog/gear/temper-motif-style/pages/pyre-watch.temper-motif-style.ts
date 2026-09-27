@@ -5,6 +5,8 @@ export const pyreWatch = {
   type: "page-type/temper-motif-style",
   slug: "pyre-watch",
   title: "Pyre Watch",
+  esoItemStyleId: 98,
+  styleName: "Pyre Watch",
   collectionIndex: 68,
   sourceDescription: "Unhallowed Grave dungeon",
 } as const satisfies TemperMotifStyle
