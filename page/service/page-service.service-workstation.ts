@@ -141,6 +141,7 @@ export const pageService = {
   parts: [
     "manifest/page-forwarder",
     "module/call-reading",
+    "module/ending-refusing",
     "module/page-clearing",
     "module/events-reading",
     "module/file-answering",
