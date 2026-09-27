@@ -11,6 +11,9 @@ import {
   grimoires,
 } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import type { PendingScriptEdits } from "akasha/temper/web/modules/skills-types/skills-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { useScribedSkillsEditNotSaved } from "akasha/temper/web/phrase/pages/use-scribed-skills-edit-not-saved.temper-web-phrase.ts"
+import { useScribedSkillsSkillNotAdded } from "akasha/temper/web/phrase/pages/use-scribed-skills-skill-not-added.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
 import { toast } from "sonner"
 
@@ -37,6 +40,7 @@ export function useScribedSkills(
   const [editingScribedSkillIndex, setEditingScribedSkillIndex] = useState<number | null>(null)
   const [pendingScriptEdits, setPendingScriptEdits] = useState<PendingScriptEdits | null>(null)
   const [isScribingSelectionOpen, setIsScribingSelectionOpen] = useState(false)
+  const phrase = usePhrase()
 
   const skillsRead = skills.data
   const grimoiresRead = grimoires.data
@@ -98,9 +102,7 @@ export function useScribedSkills(
           pendingScriptEdits.focusScriptId
         )
         if (newSkillId == null) {
-          toast.error(
-            "Changes not saved — Temper has no scribed skill for this grimoire with that focus script. Check that Focus is not set to None; if it is set, this is a gap in Temper's data."
-          )
+          toast.error(phrase(useScribedSkillsEditNotSaved.slug))
           setEditingScribedSkillIndex(null)
           setPendingScriptEdits(null)
           return
@@ -139,9 +141,7 @@ export function useScribedSkills(
   ) => {
     const skillId = getScribedSkillId(grimoireId, focusScriptId)
     if (skillId == null) {
-      toast.error(
-        "Skill not added — Temper has no scribed skill for that grimoire and focus script. Temper offered that combination, so the gap is in its data, not your selection."
-      )
+      toast.error(phrase(useScribedSkillsSkillNotAdded.slug))
       setIsScribingSelectionOpen(false)
       return
     }
