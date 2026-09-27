@@ -76,6 +76,7 @@
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-condition-value/temper-condition-value.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.types.ts","typed":true,"deferred":false}
@@ -158,6 +159,7 @@
 {"propertySlug":"page-property","path":"temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts","id":"01a0d8a0-f74f-7aab-abac-00f4c0cf0fed"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts","id":"01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts","id":"01a07202-f0fd-7b35-bff8-c4cc5e25da86"}
+{"propertySlug":"page-property","path":"temper/player/progress/temper-condition-value/temper-condition-value.page-type.ts","id":"01a0e270-1aa7-7a29-8597-a55dbe62d420"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.ts","id":"01a071e1-92d5-7458-b0c0-499ac75aeb8b"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts","id":"01a05fc9-9a03-795c-b95b-c04997733011"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.ts","id":"01a05fd0-3aa6-7646-b33d-56f120ee1438"}

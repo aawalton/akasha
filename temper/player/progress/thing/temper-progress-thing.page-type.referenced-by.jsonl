@@ -6,6 +6,7 @@
 {"propertySlug":"extends-type","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}
 {"propertySlug":"extends-type","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.ts","id":"01a05fd0-3aa7-7efc-9f5f-080d0b9f5bd0"}
 {"propertySlug":"extends-type","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts","id":"01a07202-f0fd-7b35-bff8-c4cc5e25da86"}
+{"propertySlug":"extends-type","path":"temper/player/progress/temper-condition-value/temper-condition-value.page-type.ts","id":"01a0e270-1aa7-7a29-8597-a55dbe62d420"}
 {"propertySlug":"extends-type","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.ts","id":"01a071e1-92d5-7458-b0c0-499ac75aeb8b"}
 {"propertySlug":"extends-type","path":"temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts","id":"01a05fcb-d656-7ea2-a494-28d13d70536e"}
 {"propertySlug":"extends-type","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts","id":"01a05fc9-9a03-795c-b95b-c04997733011"}
@@ -21,6 +22,7 @@
 {"propertySlug":"import","fileName":"temper-progress-thing.page-type.types.ts","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-progress-thing.page-type.types.ts","path":"temper/player/progress/temper-completion-override/temper-completion-override.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-progress-thing.page-type.types.ts","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-progress-thing.page-type.types.ts","path":"temper/player/progress/temper-condition-value/temper-condition-value.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-progress-thing.page-type.types.ts","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-progress-thing.page-type.types.ts","path":"temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-progress-thing.page-type.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.types.ts","typed":true,"deferred":false}

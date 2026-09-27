@@ -12,6 +12,7 @@ export const temperProgress = {
     "page-type/temper-completion-category",
     "page-type/temper-completion-override",
     "page-type/temper-condition-field",
+    "page-type/temper-condition-value",
     "page-type/temper-inventory-rule",
     "page-type/temper-item-action",
     "page-type/temper-metric-tree",

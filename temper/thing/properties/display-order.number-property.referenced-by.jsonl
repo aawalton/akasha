@@ -44,6 +44,7 @@
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-buy-action/temper-buy-action.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-condition-value/temper-condition-value.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-item-rule/temper-item-rule.page-type.types.ts","typed":true,"deferred":false}
@@ -97,6 +98,7 @@
 {"propertySlug":"page-property","path":"temper/player/progress/temper-buy-action/temper-buy-action.page-type.ts","id":"01a0e26e-81e8-733a-ad6e-2c287252b8b9"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.ts","id":"01a0d8c2-d1e0-71d4-925b-ccd78a3cee1b"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-completion-category/temper-completion-category.page-type.ts","id":"01a05fcb-d657-7209-8fac-d33d57fe464e"}
+{"propertySlug":"page-property","path":"temper/player/progress/temper-condition-value/temper-condition-value.page-type.ts","id":"01a0e270-1aa7-7a29-8597-a55dbe62d420"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-inventory-rule/temper-inventory-rule.page-type.ts","id":"01a07283-f299-703a-a255-0c48075885be"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-item-action/temper-item-action.page-type.ts","id":"01a071e1-92d5-7458-b0c0-499ac75aeb8b"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-item-rule/temper-item-rule.page-type.ts","id":"01a0d8c2-d1e1-7eb6-8142-715519387e65"}
