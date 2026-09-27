@@ -4,7 +4,7 @@ export const inventoryRulesDispatchBuy = {
   id: "01a06258-b531-7fee-9693-0454e9110b2d",
   type: "page-type/module",
   slug: "inventory-rules-dispatch-buy",
-  definition: "buying items at a store by rule, up to the target quantity",
+  definition: "buying at a store what the stocking rules buying their shortfall are short of",
   code: "ts",
   decisions: [
     {

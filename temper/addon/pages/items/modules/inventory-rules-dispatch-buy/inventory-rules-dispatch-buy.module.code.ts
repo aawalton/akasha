@@ -9,7 +9,6 @@ import {
 import {
   bestOffer,
   computeBuyQuantity,
-  computeGlobalTotal,
   itemTypesOf,
   type StoreOffer,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-buy-core/inventory-rules-buy-core.module.code.ts"
@@ -23,7 +22,7 @@ import {
   reportAction,
   reportPendingAction,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
-import { countItemInBag } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
+
 import { computeBuyShortfall } from "akasha/temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { EvalContext } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
@@ -138,59 +137,11 @@ function shortfallBuys(this: void, compiled: CompiledConfig, money: number): Buy
   return targets
 }
 
-function buyRuleBuys(this: void, compiled: CompiledConfig, playerMoney: number): BuyTarget[] {
-  const targets: BuyTarget[] = []
-  const buyRules = compiled.buyRules
-  if (!buyRules) return targets
-
-  if (compiled.buyStockAvailable !== true) {
-    d(
-      `[${ADDON_NAME}] Buy skipped: Temper could not read your inventory, so it cannot tell what you already own. Sync from Temper web, then reopen the merchant.`
-    )
-    return targets
-  }
-
-  const currentCharId = tostring(GetCurrentCharacterId())
-  const numEntries = GetNumStoreItems()
-
-  for (const [itemIdStr, rule] of Object.entries(buyRules)) {
-    const itemId = tonumber(itemIdStr)
-    if (itemId === undefined) continue
-
-    const liveCurrent = countItemInBag(BAG_BACKPACK, itemId, true)
-    const byChar = compiled.buyStockByChar?.[itemId]
-    const accountStock = compiled.buyStockAccount?.[itemId]
-    const globalTotal = computeGlobalTotal(liveCurrent, currentCharId, byChar, accountStock)
-
-    const shortfall = computeBuyShortfall(rule.targetQuantity, globalTotal)
-    if (shortfall <= 0) continue
-
-    for (let i = 1; i <= numEntries; i++) {
-      const link = GetStoreItemLink(i, LINK_STYLE_BRACKETS)
-      if (GetItemLinkItemId(link) !== itemId) continue
-
-      const [, , , price, , meetsRequirementsToBuy] = GetStoreEntryInfo(i)
-      if (!meetsRequirementsToBuy) break
-
-      const maxBuyable = GetStoreEntryMaxBuyable(i)
-      const n = computeBuyQuantity(shortfall, maxBuyable, playerMoney, price)
-      if (n <= 0) break
-
-      targets.push({ entryIndex: i, itemId, link, quantity: n, price })
-      break
-    }
-  }
-  return targets
-}
-
-export function dispatchBuyRules(): undefined {
+export function dispatchBuyShortfall(): undefined {
   const compiled = getCompiledConfig()
   if (!compiled) return
   const playerMoney = GetCurrencyAmount(CURT_MONEY, CURRENCY_LOCATION_CHARACTER)
-  const ruled = buyRuleBuys(compiled, playerMoney)
-  let left = playerMoney
-  for (const one of ruled) left -= one.quantity * one.price
-  const targets = [...ruled, ...shortfallBuys(compiled, left)]
+  const targets = shortfallBuys(compiled, playerMoney)
 
   if (targets.length === 0) return
 

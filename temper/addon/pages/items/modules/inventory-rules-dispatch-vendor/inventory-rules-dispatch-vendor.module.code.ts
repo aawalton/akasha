@@ -13,7 +13,7 @@ import {
   reportPendingAction,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import { isVendorCrossCharDestination } from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
-import { dispatchBuyRules } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"
+import { dispatchBuyShortfall } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -141,7 +141,7 @@ export function onOpenStore(): undefined {
     executeDestroy()
   }
 
-  dispatchBuyRules()
+  dispatchBuyShortfall()
 }
 
 export function onOpenFence(allowSell: boolean, allowLaunder: boolean): undefined {
