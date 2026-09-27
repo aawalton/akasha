@@ -6,12 +6,17 @@ export const temperQuality = {
   slug: "temper-quality",
   definition: "the grade of a piece",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["change-generator/quality-ids-keeping", "data-table/quality-ids"],
+  parts: [
+    "change-generator/quality-ids-keeping",
+    "data-table/quality-ids",
+    "number-property/eso-display-quality",
+  ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "boolean-property/available", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "number-property/eso-display-quality", required: true, many: false },
   ],
   decisions: [
     {

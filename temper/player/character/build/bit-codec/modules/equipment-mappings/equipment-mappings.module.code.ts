@@ -1,6 +1,9 @@
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
+import type { TemperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.types.ts"
 
 export const ARMOR_TRAIT_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_NONE]: 0,
@@ -41,15 +44,17 @@ export const WEAPON_TRAIT_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_WEAPON_VIGOROUS]: 9,
 }
 
-export const QUALITY_TO_INDEX: Record<number, number> = {
-  [ITEM_DISPLAY_QUALITY_TRASH]: 0,
-  [ITEM_DISPLAY_QUALITY_NORMAL]: 1,
-  [ITEM_DISPLAY_QUALITY_MAGIC]: 2,
-  [ITEM_DISPLAY_QUALITY_ARCANE]: 3,
-  [ITEM_DISPLAY_QUALITY_ARTIFACT]: 4,
-  [ITEM_DISPLAY_QUALITY_LEGENDARY]: 5,
-  [ITEM_DISPLAY_QUALITY_MYTHIC_OVERRIDE]: 6,
+function qualityPlaces(this: void): Record<number, number> {
+  const found: Record<number, number> = {}
+  for (const one of $pagesOfType<Pick<TemperQuality, "esoDisplayQuality" | "hashPlace">>(
+    temperQuality
+  )) {
+    found[one.esoDisplayQuality] = one.hashPlace
+  }
+  return found
 }
+
+export const QUALITY_TO_INDEX: Record<number, number> = qualityPlaces()
 
 export const ARMOR_TYPE_TO_INDEX: Record<number, number> = {
   [ARMORTYPE_NONE]: 0,

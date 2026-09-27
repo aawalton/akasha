@@ -9,4 +9,5 @@ export const epic = {
   displayOrder: 4,
   available: true,
   hashPlace: 4,
+  esoDisplayQuality: 4,
 } as const satisfies TemperQuality

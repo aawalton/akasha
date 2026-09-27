@@ -9,4 +9,5 @@ export const normal = {
   displayOrder: 1,
   available: true,
   hashPlace: 1,
+  esoDisplayQuality: 1,
 } as const satisfies TemperQuality

@@ -9,4 +9,5 @@ export const mythic = {
   displayOrder: 6,
   available: false,
   hashPlace: 6,
+  esoDisplayQuality: 6,
 } as const satisfies TemperQuality

@@ -15,5 +15,9 @@ export const equipmentMappings = {
       decisionKind: "decision-kind/departure",
       statement: "An index here is part of the wire format and never renumbered.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quality's index is the hash place its page states, compiled in from the pages.",
+    },
   ],
 } as const satisfies Module

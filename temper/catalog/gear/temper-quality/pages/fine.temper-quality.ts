@@ -9,4 +9,5 @@ export const fine = {
   displayOrder: 2,
   available: true,
   hashPlace: 2,
+  esoDisplayQuality: 2,
 } as const satisfies TemperQuality

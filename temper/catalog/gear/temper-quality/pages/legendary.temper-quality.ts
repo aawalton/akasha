@@ -9,4 +9,5 @@ export const legendary = {
   displayOrder: 5,
   available: true,
   hashPlace: 5,
+  esoDisplayQuality: 5,
 } as const satisfies TemperQuality

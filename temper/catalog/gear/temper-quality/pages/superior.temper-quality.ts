@@ -9,4 +9,5 @@ export const superior = {
   displayOrder: 3,
   available: true,
   hashPlace: 3,
+  esoDisplayQuality: 3,
 } as const satisfies TemperQuality

@@ -366,6 +366,7 @@
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-eso-trait-map/properties/eso-trait-num.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-motif-style/properties/collection-index.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-poison-effect/properties/cooldown.number-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-quality/properties/eso-display-quality.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/bonus-count.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/eso-item-ids.number-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"number-property.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/eso-set-id.number-property.ts","typed":true,"deferred":false}
