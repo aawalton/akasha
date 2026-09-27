@@ -11,5 +11,10 @@ export const buyRuleCard = {
       decisionKind: "decision-kind/departure",
       statement: "The active and lock toggles are worded by rule card phrases.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The menu, delete dialog and title are rule card phrases; the merchant is a venue page.",
+    },
   ],
 } as const satisfies Module

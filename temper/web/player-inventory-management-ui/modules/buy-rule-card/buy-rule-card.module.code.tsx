@@ -27,8 +27,24 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
-import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import { vendor } from "akasha/temper/items/rules/routing/core/temper-venue/pages/vendor.temper-venue.ts"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
+import {
+  phraseOf,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import { RuleNotesDialog } from "akasha/temper/web/player-inventory-management-ui/modules/rule-notes-dialog/rule-notes-dialog.module.code.tsx"
+import { addNotes } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/add-notes.temper-rule-card-phrase.ts"
+import { addTitle } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/add-title.temper-rule-card-phrase.ts"
+import { buyRuleSummary } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/buy-rule-summary.temper-rule-card-phrase.ts"
+import { cancel } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/cancel.temper-rule-card-phrase.ts"
+import { deleteBuyRuleQuestion } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/delete-buy-rule-question.temper-rule-card-phrase.ts"
+import { deleteRule } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/delete-rule.temper-rule-card-phrase.ts"
+import { deleteRuleWarning } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/delete-rule-warning.temper-rule-card-phrase.ts"
+import { duplicateRule } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/duplicate-rule.temper-rule-card-phrase.ts"
+import { editNotes } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/edit-notes.temper-rule-card-phrase.ts"
+import { ruleActions } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-actions.temper-rule-card-phrase.ts"
 import { EllipsisVertical, Info, ShoppingCart } from "lucide-react"
 import { memo, useEffect, useState } from "react"
 
@@ -45,12 +61,13 @@ interface BuyRuleCardProps {
   onLock: (ruleId: string, locked: boolean) => void
 }
 
-const SOURCE_LABEL = "Merchant"
-
 export const BuyRuleCard = memo(
   ({ rule, onUpdate, onRemove, onDuplicate, onLock }: BuyRuleCardProps) => {
     const surface = useSurface()
     const phrases = useRuleCardPhrases()
+    const venues = useKeyedTitles(temperVenue.slug)
+    const sourceTitle = titleIn(venues, vendor.key)
+    const notesTitle = titleIn(phrases, rule.notes != null ? editNotes.key : addNotes.key)
     const isActive = rule.active === true
     const activeTitle = titleIn(phrases, isActive ? "rule-active" : "rule-inactive")
     const [optimisticLocked, setOptimisticLocked] = useState(rule.locked === true)
@@ -82,7 +99,7 @@ export const BuyRuleCard = memo(
                     onChange={(v) =>
                       onUpdate(rule.id, { title: v.trim().length === 0 ? null : v.trim() })
                     }
-                    placeholder="Add a title..."
+                    placeholder={titleIn(phrases, addTitle.key)}
                     className="min-w-0 flex-1 font-medium text-primary text-sm"
                   />
                 )}
@@ -90,8 +107,8 @@ export const BuyRuleCard = memo(
                   type="button"
                   className="inline-flex h-5 w-5 shrink-0 cursor-pointer items-center justify-center rounded transition-colors hover:bg-primary/8"
                   onClick={() => setNotesDialogOpen(true)}
-                  title={rule.notes != null ? "Edit notes" : "Add notes"}
-                  aria-label={rule.notes != null ? "Edit notes" : "Add notes"}
+                  title={notesTitle}
+                  aria-label={notesTitle}
                 >
                   <Info
                     className={`h-3.5 w-3.5 ${rule.notes != null ? "text-secondary" : "text-tertiary"}`}
@@ -102,14 +119,14 @@ export const BuyRuleCard = memo(
                     <button
                       type="button"
                       className="inline-flex h-5 w-5 shrink-0 cursor-pointer items-center justify-center rounded text-tertiary transition-colors hover:bg-primary/8"
-                      aria-label="Rule actions"
+                      aria-label={titleIn(phrases, ruleActions.key)}
                     >
                       <EllipsisVertical className="h-3.5 w-3.5" />
                     </button>
                   </DropdownMenuTrigger>
                   <DropdownMenuContent align="end">
                     <DropdownMenuItem onClick={() => onDuplicate(rule.id)}>
-                      Duplicate
+                      {titleIn(phrases, duplicateRule.key)}
                     </DropdownMenuItem>
                     <DropdownMenuSeparator />
                     <DropdownMenuItem
@@ -117,7 +134,7 @@ export const BuyRuleCard = memo(
                       disabled={isLocked}
                       onClick={() => setDeleteDialogOpen(true)}
                     >
-                      Delete
+                      {titleIn(phrases, deleteRule.key)}
                     </DropdownMenuItem>
                   </DropdownMenuContent>
                 </DropdownMenu>
@@ -158,7 +175,7 @@ export const BuyRuleCard = memo(
                   {}
                   <Badge variant="elevation-muted" className="shrink-0">
                     <ShoppingCart className="size-3" />
-                    {SOURCE_LABEL}
+                    {sourceTitle}
                   </Badge>
                   {}
                   <NumberBadge
@@ -185,14 +202,20 @@ export const BuyRuleCard = memo(
         <AlertDialog open={deleteDialogOpen} onOpenChange={setDeleteDialogOpen}>
           <AlertDialogContent>
             <AlertDialogHeader>
-              <AlertDialogTitle>Delete Buy Rule?</AlertDialogTitle>
+              <AlertDialogTitle>{titleIn(phrases, deleteBuyRuleQuestion.key)}</AlertDialogTitle>
               <AlertDialogDescription asChild>
                 <div className="space-y-3 text-secondary text-sm">
-                  <div>This will permanently delete this rule. This action cannot be undone.</div>
+                  <div>{titleIn(phrases, deleteRuleWarning.key)}</div>
                   <div className={`rounded-md ${surfaceClass(surface + 1)} px-3 py-2`}>
                     <span className="text-primary text-sm">
-                      {rule.title != null && rule.title !== "" ? rule.title : rule.itemName} — Buy{" "}
-                      {rule.targetQuantity} at {SOURCE_LABEL}
+                      {phrases === null
+                        ? ""
+                        : phraseOf(phrases, buyRuleSummary.key, {
+                            title:
+                              rule.title != null && rule.title !== "" ? rule.title : rule.itemName,
+                            quantity: String(rule.targetQuantity),
+                            venue: sourceTitle,
+                          })}
                     </span>
                   </div>
                 </div>
@@ -200,9 +223,9 @@ export const BuyRuleCard = memo(
             </AlertDialogHeader>
             <AlertDialogFooter>
               <AlertDialogAction variant="destructive" onClick={() => onRemove(rule.id)}>
-                Delete
+                {titleIn(phrases, deleteRule.key)}
               </AlertDialogAction>
-              <AlertDialogCancel>Cancel</AlertDialogCancel>
+              <AlertDialogCancel>{titleIn(phrases, cancel.key)}</AlertDialogCancel>
             </AlertDialogFooter>
           </AlertDialogContent>
         </AlertDialog>
