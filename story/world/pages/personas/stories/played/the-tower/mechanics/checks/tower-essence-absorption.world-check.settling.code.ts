@@ -54,7 +54,7 @@ function trainingFor(rank: number | null, trained: boolean): number {
   return SAME_ELEMENT + rank
 }
 
-export type Absorption = {
+type Absorption = {
   readonly element: string
   readonly power: number
   readonly intent: number
@@ -74,7 +74,7 @@ export type Absorbed = {
   readonly opens: boolean
 }
 
-export type Ran = { readonly answered: Absorbed } | { readonly refused: string }
+type Ran = { readonly answered: Absorbed } | { readonly refused: string }
 
 function absorbed(absorption: Absorption, roll: Rolled): Ran {
   const element = elementAt(absorption.element)
