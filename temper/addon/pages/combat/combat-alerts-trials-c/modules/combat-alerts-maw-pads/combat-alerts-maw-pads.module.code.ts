@@ -26,7 +26,7 @@ export function padLabel(this: void, index: number): LabelControl {
   return TemperCombatAlertsMawOfLorkhaj.GetNamedChild(`Pad${tostring(index)}Label`) as LabelControl
 }
 
-export function updatePadsDisplay(this: void): undefined {
+function updatePadsDisplay(this: void): undefined {
   const currTime = GetGameTimeMilliseconds()
   let hasTimers = false
   for (let index = 1; index <= 6; index++) {
