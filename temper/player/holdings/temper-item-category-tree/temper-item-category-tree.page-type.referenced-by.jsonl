@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.ts","path":"temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.ts","path":"temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.ts","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-item-category-tree.page-type.ts","path":"temper/web/modules/use-item-category-tree/use-item-category-tree.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/items/core/modules/item-category-tree-reading/item-category-tree-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/additives.temper-item-category-tree.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-category-tree.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/pages/al-furn-mat.temper-item-category-tree.ts","typed":true,"deferred":false}
