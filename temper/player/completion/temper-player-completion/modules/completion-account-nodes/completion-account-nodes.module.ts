@@ -21,5 +21,9 @@ export const completionAccountNodes = {
       statement:
         "Each craft's station share is the category's page cap split over the craft pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The scribing categories are the leaf completion pages under the scribing card.",
+    },
   ],
 } as const satisfies Module

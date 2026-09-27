@@ -154,6 +154,19 @@ export function completionCategoryTree(): CompletionCategoryTree {
   return tree
 }
 
+function leavesOf(nodes: readonly CompletionCategoryNode[]): readonly CompletionCategoryNode[] {
+  return nodes.flatMap((node) => (node.children === undefined ? [node] : leavesOf(node.children)))
+}
+
+export function completionCardLeaves(
+  tab: CompletionTab,
+  cardId: string
+): readonly CompletionCategoryNode[] {
+  const card = completionCategoryTree()[tab].find((one) => one.id === cardId)
+  if (card === undefined) throw new Error(`no ${tab} completion page names the card ${cardId}`)
+  return leavesOf(card.children ?? [])
+}
+
 export function completionCardTitle(tab: CompletionTab, cardId: string): string {
   const card = completionCategoryTree()[tab].find((one) => one.id === cardId)
   if (card === undefined) throw new Error(`no ${tab} completion page names the card ${cardId}`)

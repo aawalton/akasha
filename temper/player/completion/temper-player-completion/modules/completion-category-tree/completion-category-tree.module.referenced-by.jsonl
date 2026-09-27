@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-category-tree-composed/completion-category-tree-composed.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-page-reading/completion-page-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-summary-account/completion-summary-account.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/account-scribing-knowledge-panel-card/account-scribing-knowledge-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/champion-points-panel-card/champion-points-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/grand-master-stations-panel-card/grand-master-stations-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}

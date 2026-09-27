@@ -96,20 +96,20 @@ export function accountRecipeNodes(
   }))
 }
 
-const SCRIBING_CATEGORIES = [
-  { key: "grimoires", label: "Grimoires" },
-  { key: "focusScripts", label: "Focus Scripts" },
-  { key: "signatureScripts", label: "Signature Scripts" },
-  { key: "affixScripts", label: "Affix Scripts" },
-] as const
-
 export function accountScribingNodes(
-  scribingUnion: AccountScribingUnionProgress
+  scribingUnion: AccountScribingUnionProgress,
+  categories: readonly { readonly id: string; readonly name: string }[]
 ): readonly ProgressNode[] {
-  return SCRIBING_CATEGORIES.map((category) => ({
-    key: category.key,
-    label: category.label,
-    children: scribingUnion[category.key].map((item) => oneOf(item.name, item.name, item.unlocked)),
+  const lists = new Map<string, readonly { name: string; unlocked: boolean }[]>()
+  for (const [key, value] of Object.entries(scribingUnion)) {
+    if (Array.isArray(value)) lists.set(key, value)
+  }
+  return categories.map((category) => ({
+    key: category.id,
+    label: category.name,
+    children: (lists.get(category.id) ?? []).map((item) =>
+      oneOf(item.name, item.name, item.unlocked)
+    ),
   }))
 }
 

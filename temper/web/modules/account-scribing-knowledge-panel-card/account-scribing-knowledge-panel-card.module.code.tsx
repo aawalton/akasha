@@ -4,6 +4,10 @@ import { accountScribingNodes } from "akasha/temper/player/completion/temper-pla
 import type { AccountScribingUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import {
+  completionCardLeaves,
+  completionCardTitle,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
+import {
   type CompletionFilter,
   CompletionPanelCard,
   type CompletionSortMode,
@@ -31,8 +35,14 @@ export function AccountScribingKnowledgePanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Skill Scribing"
-      items={withActivityCategories(accountScribingNodes(scribingUnion), "crafting")}
+      title={completionCardTitle("account", "account-scribing-knowledge")}
+      items={withActivityCategories(
+        accountScribingNodes(
+          scribingUnion,
+          completionCardLeaves("account", "account-scribing-knowledge")
+        ),
+        "crafting"
+      )}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
       sortDirection={sortDirection}
