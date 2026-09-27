@@ -20,7 +20,10 @@ import { ScribingKnowledgeProgressPanelCard } from "akasha/temper/web/modules/sc
 import { SkillLinesProgressPanelCard } from "akasha/temper/web/modules/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx"
 import { SkillPointsProgressPanelCard } from "akasha/temper/web/modules/skill-points-progress-panel-card/skill-points-progress-panel-card.module.code.tsx"
 import { TraitResearchProgressPanelCard } from "akasha/temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { ZoneCompletionProgressPanelCard } from "akasha/temper/web/modules/zone-completion-progress-panel-card/zone-completion-progress-panel-card.module.code.tsx"
+import { charactersTabPanelsUnsyncedMany } from "akasha/temper/web/phrase/pages/characters-tab-panels-unsynced-many.temper-web-phrase.ts"
+import { charactersTabPanelsUnsyncedOne } from "akasha/temper/web/phrase/pages/characters-tab-panels-unsynced-one.temper-web-phrase.ts"
 import { SkillMorphsProgressPanelCard } from "akasha/temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx"
 import type {
   CompletionFilter,
@@ -52,6 +55,7 @@ export function CharactersTabPanels({
   filteredCharacterSummary,
   onCharacterSummaryClick,
 }: CharactersTabPanelsProps) {
+  const phrase = usePhrase()
   const {
     rosterSize,
     measuredCharacterCount,
@@ -81,9 +85,16 @@ export function CharactersTabPanels({
     <>
       {unsyncedCharacterCount > 0 && (
         <p className="text-secondary text-sm">
-          Measured across {measuredCharacterCount} of {rosterSize} characters. The{" "}
-          {unsyncedCharacterCount} not yet synced {unsyncedCharacterCount === 1 ? "is" : "are"}{" "}
-          excluded from these figures, not counted as zero.
+          {phrase(
+            unsyncedCharacterCount === 1
+              ? charactersTabPanelsUnsyncedOne.slug
+              : charactersTabPanelsUnsyncedMany.slug,
+            {
+              measured: measuredCharacterCount,
+              roster: rosterSize,
+              unsynced: unsyncedCharacterCount,
+            }
+          )}
         </p>
       )}
       <ResponsiveColumns hasSummaryPanel>

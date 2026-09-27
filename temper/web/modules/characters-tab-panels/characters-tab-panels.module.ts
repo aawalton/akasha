@@ -6,4 +6,10 @@ export const charactersTabPanels = {
   slug: "characters-tab-panels",
   definition: "the panel cards the characters tab lays out, each handed what it draws",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
