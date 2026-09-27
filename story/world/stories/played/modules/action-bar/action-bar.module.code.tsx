@@ -13,6 +13,11 @@ import {
   classifyActionBarMessage,
 } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import {
+  fireContentNotification,
+  notificationPermission,
+  requestNotificationPermission,
+} from "akasha/story/ui/modules/alert-notification/alert-notification.module.code.ts"
+import {
   readPending,
   sendAction,
 } from "akasha/story/world/stories/played/modules/action-bar-sending/action-bar-sending.module.code.ts"
@@ -29,6 +34,8 @@ import {
   sendingFor,
   type TurnAwaited,
   turnAwaited,
+  turnReadyNews,
+  turnReadySaid,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 import type { Making } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
 import { workingSaid } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
@@ -81,11 +88,15 @@ function SignedOutNotice() {
 
 export function ActionBar({
   gameExternalId,
+  storyTitle,
   turnsSeen,
+  lastTurn,
   making,
 }: {
   gameExternalId: string
+  storyTitle: string
   turnsSeen: number
+  lastTurn: number | null
   making: Making | null
 }) {
   const userId = useUserId()
@@ -101,6 +112,7 @@ export function ActionBar({
   const lastAskedAt = useRef(0)
   const turns = useRef(turnsSeen)
   turns.current = turnsSeen
+  const toldAt = useRef(turnsSeen)
 
   const settle = useCallback((waiting: boolean, askedAt: number) => {
     awaited.current = turnAwaited(awaited.current, turns.current, Date.now(), waiting)
@@ -131,6 +143,13 @@ export function ActionBar({
     settle(false, lastAskedAt.current)
   }, [turnsSeen, settle])
 
+  useEffect(() => {
+    if (turnReadyNews(toldAt.current, turnsSeen)) {
+      fireContentNotification(storyTitle, turnReadySaid(lastTurn), gameExternalId)
+    }
+    toldAt.current = turnsSeen
+  }, [turnsSeen, lastTurn, storyTitle, gameExternalId])
+
   function onType(typed: string) {
     setText(typed)
     setArmed((held) => armedAfterTyping(held, typed))
@@ -152,6 +171,7 @@ export function ActionBar({
       return
     }
     setArmed(null)
+    if (notificationPermission() === "default") void requestNotificationPermission()
     const key = crypto.randomUUID()
     setSending(true)
     setError(null)

@@ -88,6 +88,14 @@ export function sendingFor(
   return already && armed !== text ? "arm" : "send"
 }
 
+export function turnReadySaid(turn: number | null): string {
+  return turn === null ? "A new turn is ready." : `Turn ${turn} is ready.`
+}
+
+export function turnReadyNews(toldAt: number, turnsSeen: number): boolean {
+  return turnsSeen > toldAt
+}
+
 export function armedAfterTyping(armed: string | null, typed: string): string | null {
   return armed !== null && typed.trim() !== armed ? null : armed
 }

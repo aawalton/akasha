@@ -11,6 +11,8 @@ import {
   sendingFor,
   TURN_AWAITED_MS,
   turnAwaited,
+  turnReadyNews,
+  turnReadySaid,
 } from "akasha/story/world/stories/played/modules/action-bar-state/action-bar-state.module.code.ts"
 
 const LOOK: PendingAction = { id: "agent-message-1", text: "I look around", kind: "action" }
@@ -92,6 +94,17 @@ test("a line already waiting arms rather than sends, and sends once armed", () =
 
 test("a line still echoing arms rather than sends", () => {
   expect(sendingFor("I wait", [], [echoOf("k", "I wait", 1)], null)).toBe("arm")
+})
+
+test("a turn reaching the player is news only past the turns already told", () => {
+  expect(turnReadyNews(7, 8)).toBe(true)
+  expect(turnReadyNews(8, 8)).toBe(false)
+  expect(turnReadyNews(8, 7)).toBe(false)
+})
+
+test("a turn ready is said by its number", () => {
+  expect(turnReadySaid(8)).toBe("Turn 8 is ready.")
+  expect(turnReadySaid(null)).toBe("A new turn is ready.")
 })
 
 test("typing a different line disarms", () => {

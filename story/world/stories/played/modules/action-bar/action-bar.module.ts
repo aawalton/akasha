@@ -41,5 +41,13 @@ export const actionBar = {
       decisionKind: "decision-kind/departure",
       statement: "Enter sends, and Shift with Enter starts a new line.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn reaching the player raises a notice naming the story and the turn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Permission to notify is asked on a send rather than when the page opens.",
+    },
   ],
 } as const satisfies Module

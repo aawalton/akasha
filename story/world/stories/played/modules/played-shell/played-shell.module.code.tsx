@@ -258,7 +258,13 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
 
   const bar =
     externalId === undefined || coordinatorAgent === undefined ? null : (
-      <ActionBar gameExternalId={externalId} turnsSeen={ready.length} making={making} />
+      <ActionBar
+        gameExternalId={externalId}
+        storyTitle={title}
+        turnsSeen={ready.length}
+        lastTurn={lastTurn}
+        making={making}
+      />
     )
 
   if (tail.drawn.length === 0) {
