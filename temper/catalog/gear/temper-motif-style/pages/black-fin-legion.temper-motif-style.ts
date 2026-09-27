@@ -5,6 +5,8 @@ export const blackFinLegion = {
   type: "page-type/temper-motif-style",
   slug: "black-fin-legion",
   title: "Black Fin Legion",
+  esoItemStyleId: 120,
+  styleName: "Black Fin Legion",
   collectionIndex: 87,
   sourceDescription: "Delve dailies (Blackwood)",
   dropSources: [
