@@ -18,4 +18,5 @@ export const imageD0b73415fd1efd54 = {
   fantasyTags: ["fantasy-tag/fairy-tale"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/ruby",
 } as const satisfies Image

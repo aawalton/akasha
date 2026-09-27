@@ -17,4 +17,5 @@ export const imageF88cad90baadb504 = {
   wardrobeTags: ["wardrobe-tag/shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/amy",
 } as const satisfies Image

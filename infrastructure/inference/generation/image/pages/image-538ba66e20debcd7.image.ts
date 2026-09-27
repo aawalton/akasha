@@ -18,4 +18,5 @@ export const image538ba66e20debcd7 = {
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  persona: "persona/rhia",
 } as const satisfies Image

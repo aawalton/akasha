@@ -29,4 +29,5 @@ export const imageB98658bca32a37e7 = {
   fantasyTags: ["fantasy-tag/fairy-tale"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  persona: "persona/ruby",
 } as const satisfies Image

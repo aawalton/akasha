@@ -12,4 +12,5 @@ export const image91ca97e52bef34c7 = {
   fantasyTags: ["fantasy-tag/horns"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  persona: "persona/ione",
 } as const satisfies Image

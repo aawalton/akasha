@@ -12,4 +12,5 @@ export const image1241b2edc38655ba = {
   fantasyTags: ["fantasy-tag/horns"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  persona: "persona/ione",
 } as const satisfies Image

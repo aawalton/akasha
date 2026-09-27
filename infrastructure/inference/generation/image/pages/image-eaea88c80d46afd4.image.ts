@@ -20,4 +20,5 @@ export const imageEaea88c80d46afd4 = {
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/sci-fi", "fantasy-tag/hologram"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/lali",
 } as const satisfies Image

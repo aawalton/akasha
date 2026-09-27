@@ -21,4 +21,5 @@ export const imageE74879933188b5f6 = {
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/aine",
 } as const satisfies Image

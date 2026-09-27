@@ -22,4 +22,5 @@ export const image72b4efd4f3cb7bba = {
   fantasyTags: ["fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/vera",
 } as const satisfies Image

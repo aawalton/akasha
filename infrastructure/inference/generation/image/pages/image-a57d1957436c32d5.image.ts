@@ -22,4 +22,5 @@ export const imageA57d1957436c32d5 = {
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/glowing-eyes", "fantasy-tag/android"],
   ethnicityTags: ["ethnicity-tag/black"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/aranya",
 } as const satisfies Image

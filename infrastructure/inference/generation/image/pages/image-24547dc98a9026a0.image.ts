@@ -19,4 +19,5 @@ export const image24547dc98a9026a0 = {
   fantasyTags: ["fantasy-tag/horns"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/dalla",
 } as const satisfies Image

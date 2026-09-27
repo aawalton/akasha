@@ -29,4 +29,5 @@ export const image2d1017741de9b858 = {
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/lali",
 } as const satisfies Image

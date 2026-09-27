@@ -18,4 +18,5 @@ export const imageF01eb0902a95d9a7 = {
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/sci-fi", "fantasy-tag/bioluminescence"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/lali",
 } as const satisfies Image

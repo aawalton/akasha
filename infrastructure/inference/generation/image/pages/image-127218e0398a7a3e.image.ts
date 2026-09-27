@@ -17,4 +17,5 @@ export const image127218e0398a7a3e = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/strapless"],
   ethnicityTags: ["ethnicity-tag/south-asian"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/zadi",
 } as const satisfies Image

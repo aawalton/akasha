@@ -17,4 +17,5 @@ export const imageB4742582460be8f3 = {
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/dress", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/aine",
 } as const satisfies Image

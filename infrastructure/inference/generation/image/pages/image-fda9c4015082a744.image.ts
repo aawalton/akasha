@@ -12,4 +12,5 @@ export const imageFda9c4015082a744 = {
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/demon"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  persona: "persona/rhia",
 } as const satisfies Image

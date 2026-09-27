@@ -16,4 +16,5 @@ export const imageC1c455e374ce026f = {
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/horns", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/mari",
 } as const satisfies Image

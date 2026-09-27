@@ -12,4 +12,5 @@ export const image287aa5695baef399 = {
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/ryn",
 } as const satisfies Image

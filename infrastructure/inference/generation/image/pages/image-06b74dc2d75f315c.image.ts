@@ -18,4 +18,5 @@ export const image06b74dc2d75f315c = {
   fantasyTags: ["fantasy-tag/mythological", "fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/vera",
 } as const satisfies Image

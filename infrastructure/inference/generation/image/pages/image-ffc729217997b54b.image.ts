@@ -23,4 +23,5 @@ export const imageFfc729217997b54b = {
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/blue-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  persona: "persona/aura",
 } as const satisfies Image

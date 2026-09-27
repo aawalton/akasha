@@ -16,4 +16,5 @@ export const image2380bc4010377d62 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/headphones"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/echo",
 } as const satisfies Image

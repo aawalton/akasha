@@ -11,4 +11,5 @@ export const imageEcb0ca557bf389ec = {
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/sheet"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/ruby",
 } as const satisfies Image

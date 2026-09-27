@@ -28,4 +28,5 @@ export const imageCa56b7aeeafdd3cd = {
   fantasyTags: ["fantasy-tag/animal-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/ember",
 } as const satisfies Image

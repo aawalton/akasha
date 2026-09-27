@@ -19,4 +19,5 @@ export const imageEc69b5a855800bb8 = {
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/golden-eyes", "fantasy-tag/hologram"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/lali",
 } as const satisfies Image

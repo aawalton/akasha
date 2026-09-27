@@ -18,4 +18,5 @@ export const imageF270d9ac0cb52316 = {
   fantasyTags: ["fantasy-tag/steampunk"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/awen",
 } as const satisfies Image

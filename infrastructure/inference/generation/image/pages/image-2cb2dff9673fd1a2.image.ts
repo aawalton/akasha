@@ -21,4 +21,5 @@ export const image2cb2dff9673fd1a2 = {
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/wet", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/talia",
 } as const satisfies Image

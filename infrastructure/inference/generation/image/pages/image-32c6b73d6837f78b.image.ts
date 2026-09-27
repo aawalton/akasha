@@ -28,4 +28,5 @@ export const image32c6b73d6837f78b = {
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/lace"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-18-24"],
+  persona: "persona/zeli",
 } as const satisfies Image

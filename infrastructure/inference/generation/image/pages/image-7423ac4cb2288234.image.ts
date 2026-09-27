@@ -22,4 +22,5 @@ export const image7423ac4cb2288234 = {
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/bioluminescence"],
   ethnicityTags: ["ethnicity-tag/black"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/aranya",
 } as const satisfies Image

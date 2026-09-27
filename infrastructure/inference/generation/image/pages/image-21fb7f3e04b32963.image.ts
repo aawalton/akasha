@@ -18,4 +18,5 @@ export const image21fb7f3e04b32963 = {
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/iris",
 } as const satisfies Image

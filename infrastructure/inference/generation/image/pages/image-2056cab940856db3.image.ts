@@ -18,4 +18,5 @@ export const image2056cab940856db3 = {
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/vera",
 } as const satisfies Image

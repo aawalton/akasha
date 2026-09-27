@@ -30,4 +30,5 @@ export const image4af3deecb3fdcb17 = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/tights"],
   fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/elf-ears", "fantasy-tag/red-eyes"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/nova",
 } as const satisfies Image

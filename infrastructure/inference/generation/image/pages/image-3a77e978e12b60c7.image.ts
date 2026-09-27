@@ -23,4 +23,5 @@ export const image3a77e978e12b60c7 = {
   fantasyTags: ["fantasy-tag/steampunk", "fantasy-tag/android"],
   ethnicityTags: ["ethnicity-tag/white"],
   ageTags: ["age-tag/age-25-34"],
+  persona: "persona/awen",
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const imageEdb640f8f46f8d22 = {
   fantasyTags: ["fantasy-tag/silver-hair", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  persona: "persona/ione",
 } as const satisfies Image

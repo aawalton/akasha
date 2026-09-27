@@ -23,4 +23,5 @@ export const image3162226bd194395a = {
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
   ageTags: ["age-tag/age-18-24"],
+  persona: "persona/ali",
 } as const satisfies Image
