@@ -5,6 +5,8 @@ export const scalecaller = {
   type: "page-type/temper-motif-style",
   slug: "scalecaller",
   title: "Scalecaller",
+  esoItemStyleId: 70,
+  styleName: "Scalecaller",
   collectionIndex: 46,
   sourceDescription: "Scalecaller Peak dungeon",
 } as const satisfies TemperMotifStyle
