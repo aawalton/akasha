@@ -6,4 +6,10 @@ export const ruleNotesDialog = {
   slug: "rule-notes-dialog",
   definition: "the dialog where a reader keeps notes on a rule",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The dialog's title and placeholder are read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

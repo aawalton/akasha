@@ -10,6 +10,9 @@ import {
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Textarea } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { ruleNotesDialogPlaceholder } from "akasha/temper/web/phrase/pages/rule-notes-dialog-placeholder.temper-web-phrase.ts"
+import { ruleNotesDialogTitle } from "akasha/temper/web/phrase/pages/rule-notes-dialog-title.temper-web-phrase.ts"
 import { type ChangeEvent, useEffect, useState } from "react"
 
 interface RuleNotesDialogProps {
@@ -28,6 +31,7 @@ export function RuleNotesDialog({
   readOnly,
 }: RuleNotesDialogProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const [draft, setDraft] = useState(notes ?? "")
 
   useEffect(() => {
@@ -54,11 +58,11 @@ export function RuleNotesDialog({
     >
       <DialogContent showCloseButton>
         <DialogHeader>
-          <DialogTitle>Rule Notes</DialogTitle>
+          <DialogTitle>{phrase(ruleNotesDialogTitle.slug)}</DialogTitle>
         </DialogHeader>
         <DialogBody>
           <Textarea
-            placeholder="Add notes about this rule..."
+            placeholder={phrase(ruleNotesDialogPlaceholder.slug)}
             value={draft}
             onChange={(e: ChangeEvent<HTMLTextAreaElement>) => setDraft(e.target.value)}
             onBlur={save}
