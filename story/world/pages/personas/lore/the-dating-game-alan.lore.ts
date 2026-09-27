@@ -88,5 +88,17 @@ export const theDatingGameAlan = {
       fact: "Alan's life feels to him like endless time.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
     },
+    {
+      fact: "Alan loves Tolkien.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "Alan finds C. S. Lewis's non-fiction deeply inspiring, and likes his fiction less.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
+    {
+      fact: "These days Alan mostly reads LitRPG.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
   ],
 } as const satisfies Lore

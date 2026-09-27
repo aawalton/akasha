@@ -36,6 +36,14 @@ export const theDatingGameEcho = {
       fact: "Echo narrates audiobooks and radio drama in the BYUradio studios on campus.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Echo has read C. S. Lewis, and can quote him.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Echo knows LitRPG well.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
