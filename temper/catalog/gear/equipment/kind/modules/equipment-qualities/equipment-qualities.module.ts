@@ -11,6 +11,13 @@ export const equipmentQualities = {
       decisionKind: "decision-kind/constraint",
       statement: "A quality's place in this table is the index a build hash has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The qualities are read from the quality pages and held with the skill catalogue.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One quality is lower than another when its hash place is lower.",
+    },
   ],
-  hashIndexed: ["EQUIPMENT_QUALITY_DATA"],
 } as const satisfies Module

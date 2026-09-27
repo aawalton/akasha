@@ -26,7 +26,7 @@ import {
 import { mergeItemData } from "akasha/temper/player/character/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
 import { getMythicSlots } from "akasha/temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
+  availableQualityOptions,
   getQualityVariant,
 } from "akasha/temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
@@ -156,7 +156,7 @@ export function JewelryPanelCard({
               <BulkEditTag<EquipmentQualityOptionId>
                 key={`quality-${quality}`}
                 currentValue={quality}
-                options={AVAILABLE_QUALITY_OPTIONS}
+                options={availableQualityOptions()}
                 onSelect={handleBulkUpdateJewelryQuality}
                 count={count}
                 getVariant={(q) => getQualityVariant(q, "elevation-muted")}

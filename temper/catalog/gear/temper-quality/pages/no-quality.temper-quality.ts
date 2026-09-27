@@ -8,4 +8,5 @@ export const noQuality = {
   key: "no-quality",
   displayOrder: 0,
   available: true,
+  hashPlace: 0,
 } as const satisfies TemperQuality

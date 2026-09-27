@@ -8,4 +8,5 @@ export const normal = {
   key: "normal",
   displayOrder: 1,
   available: true,
+  hashPlace: 1,
 } as const satisfies TemperQuality

@@ -2,6 +2,10 @@ import type { Value } from "akasha/page/modules/value-reading/page-value-reading
 import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts"
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
+import {
+  GEAR_READS,
+  holdGear,
+} from "akasha/temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
@@ -377,6 +381,7 @@ export const CATALOG_READS: readonly Read[] = readsOf([
   [temperSkillBar.slug, ["slug", "title", "displayOrder"]],
   ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
   ...CHARACTER_SOURCE_READS,
+  ...GEAR_READS,
 ])
 
 export function catalogTemplatesOf(
@@ -384,6 +389,7 @@ export function catalogTemplatesOf(
 ): CatalogTemplates {
   holdCharacterSources(rowsOf)
   holdSkillBars(skillBarsOf(rowsOf(temperSkillBar.slug)))
+  holdGear(rowsOf)
   const keys = skillKeysIn(rowsOf)
   return {
     ...skillTemplatesOf(rowsOf(temperSkill.slug), rowsOf(temperScribedSkill.slug), keys),

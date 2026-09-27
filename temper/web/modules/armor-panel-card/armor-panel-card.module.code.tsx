@@ -29,7 +29,7 @@ import {
 import { mergeItemData } from "akasha/temper/player/character/characters-equipment/modules/merge-item-data/merge-item-data.module.code.ts"
 import { getMythicSlots } from "akasha/temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
+  availableQualityOptions,
   getQualityVariant,
 } from "akasha/temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import type { ArmorUpdateParams } from "akasha/temper/web/modules/armor-card/armor-card.module.code.tsx"
@@ -201,7 +201,7 @@ export function ArmorPanelCard({
               <BulkEditTag<EquipmentQualityOptionId>
                 key={`quality-${quality}`}
                 currentValue={quality}
-                options={AVAILABLE_QUALITY_OPTIONS}
+                options={availableQualityOptions()}
                 onSelect={handleBulkUpdateArmorQuality}
                 count={count}
                 getVariant={(q) => getQualityVariant(q, "elevation-muted")}

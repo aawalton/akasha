@@ -55,7 +55,6 @@ const weaponTraitIds = weaponTraits.ids
 const weaponEnchantIds = weaponEnchantments.ids
 const poisonIds = poisons.ids
 
-const qualityIds = equipmentQualities.ids
 
 
 export const skillSlotIds = skillSlots.ids
@@ -82,7 +81,7 @@ export const WEAPON_TYPE_BITS = bitsNeeded(weaponTypeIds.length)
 export const WEAPON_TRAIT_BITS = bitsNeeded(weaponTraitIds.length)
 export const WEAPON_ENCHANT_BITS = bitsNeeded(weaponEnchantIds.length)
 export const POISON_BITS = bitsNeeded(poisonIds.length)
-export const QUALITY_BITS = bitsNeeded(qualityIds.length)
+
 
 
 
@@ -153,6 +152,10 @@ const grimoirePlaces = placesOver(() => skillCatalog().grimoires.ids)
 const classPlaces = placesOver(() => skillCatalog().classes.ids)
 
 export const classBits = classPlaces.bits
+
+const qualityPlaces = placesOver(() => equipmentQualities().ids)
+
+export const qualityBits = qualityPlaces.bits
 
 const racePlaces = placesOver(() => skillCatalog().races.ids)
 
@@ -329,7 +332,7 @@ export const getWeaponTypeIndex = indexIn(weaponTypeIds)
 export const getWeaponTraitIndex = indexIn(weaponTraitIds)
 export const getWeaponEnchantIndex = indexIn(weaponEnchantIds)
 export const getPoisonIndex = indexIn(poisonIds)
-export const getQualityIndex = indexIn(qualityIds)
+export const getQualityIndex = qualityPlaces.indexOf
 
 
 export const getGrimoireIndex = grimoirePlaces.indexOf
@@ -358,7 +361,7 @@ export const getWeaponTypeId = idIn(weaponTypeIds)
 export const getWeaponTraitId = idIn(weaponTraitIds)
 export const getWeaponEnchantId = idIn(weaponEnchantIds)
 export const getPoisonId = idIn(poisonIds)
-export const getQualityId = idIn(qualityIds)
+export const getQualityId = qualityPlaces.idOf
 
 
 export const getGrimoireId = grimoirePlaces.idOf

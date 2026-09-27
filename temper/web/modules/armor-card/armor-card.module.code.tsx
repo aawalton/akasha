@@ -38,7 +38,7 @@ import {
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
+  availableQualityOptions,
   getQualityClassName,
   getQualityLabel,
   getQualityVariant,
@@ -167,8 +167,9 @@ export function ArmorCard({
                     </Badge>
                   </SelectTrigger>
                   <SelectContent nullSentinel={{ value: "no-quality", label: "No Quality" }}>
-                    {AVAILABLE_QUALITY_OPTIONS.filter((option) => option.id !== "no-quality").map(
-                      (option) => (
+                    {availableQualityOptions()
+                      .filter((option) => option.id !== "no-quality")
+                      .map((option) => (
                         <SelectItem
                           key={option.id}
                           value={option.id}
@@ -176,8 +177,7 @@ export function ArmorCard({
                         >
                           {option.name}
                         </SelectItem>
-                      )
-                    )}
+                      ))}
                   </SelectContent>
                 </Select>
                 <button

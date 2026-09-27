@@ -27,7 +27,7 @@ import {
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
+  availableQualityOptions,
   getQualityVariant,
 } from "akasha/temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
@@ -161,7 +161,7 @@ export function GlobalSetBulkEditTags({
         <BulkEditTag<EquipmentQualityOptionId>
           key={`quality-${quality}`}
           currentValue={quality}
-          options={AVAILABLE_QUALITY_OPTIONS}
+          options={availableQualityOptions()}
           onSelect={handleBulkUpdateQuality}
           count={count}
           getVariant={(q) => getQualityVariant(q, "elevation-muted")}

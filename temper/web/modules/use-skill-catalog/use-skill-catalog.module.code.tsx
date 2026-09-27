@@ -14,6 +14,7 @@ import { temperPotion } from "akasha/temper/catalog/gear/temper-potion/temper-po
 import { temperPotionCrafted } from "akasha/temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts"
 import { temperPotionCrown } from "akasha/temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts"
 import { temperPotionDropped } from "akasha/temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts"
+import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
 import { temperReagent } from "akasha/temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
@@ -77,7 +78,9 @@ export function useSkillCatalog(): SkillCatalog | null {
   const roles = usePages({ pageTypeSlug: temperCharacterRole.slug, limit: EVERY })
   const bars = usePages({ pageTypeSlug: temperSkillBar.slug, limit: EVERY })
   const races = usePages({ pageTypeSlug: temperRace.slug, limit: EVERY })
+  const qualities = usePages({ pageTypeSlug: temperQuality.slug, limit: EVERY })
   const read = [
+    qualities,
     allPotions,
     crownPotions,
     droppedPotions,
@@ -148,6 +151,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperCharacterRole.slug, roles.rows],
       [temperSkillBar.slug, bars.rows],
       [temperRace.slug, races.rows],
+      [temperQuality.slug, qualities.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -186,6 +190,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     roles.rows,
     bars.rows,
     races.rows,
+    qualities.rows,
   ])
   if (failed !== null) throw failed
   return catalog

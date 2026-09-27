@@ -34,7 +34,7 @@ import {
 } from "akasha/temper/player/character/characters-equipment/modules/weapon-slot-mutations/weapon-slot-mutations.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import {
-  AVAILABLE_QUALITY_OPTIONS,
+  availableQualityOptions,
   getQualityVariant,
 } from "akasha/temper/web/characters-equipment-ui/modules/equipment-quality-rules/equipment-quality-rules.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-tag.module.code.tsx"
@@ -178,7 +178,7 @@ export function WeaponBarPanelCard({
               <BulkEditTag<EquipmentQualityOptionId>
                 key={`quality-${quality}`}
                 currentValue={quality}
-                options={AVAILABLE_QUALITY_OPTIONS}
+                options={availableQualityOptions()}
                 onSelect={handleBulkUpdateWeaponQuality}
                 count={count}
                 getVariant={(q) => getQualityVariant(q, "elevation-muted")}

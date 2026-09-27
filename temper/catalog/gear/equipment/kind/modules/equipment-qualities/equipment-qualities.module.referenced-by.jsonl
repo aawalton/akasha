@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equipment-qualities.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts","typed":false,"deferred":false}

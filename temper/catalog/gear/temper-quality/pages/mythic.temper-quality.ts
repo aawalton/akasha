@@ -8,4 +8,5 @@ export const mythic = {
   key: "mythic",
   displayOrder: 6,
   available: false,
+  hashPlace: 6,
 } as const satisfies TemperQuality

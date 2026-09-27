@@ -9,6 +9,7 @@ export const temperEquipment = {
     "module/armor-traits",
     "module/armor-weight-ids",
     "module/eso-trait-map",
+    "module/gear-reading",
     "module/jewelry-traits",
     "module/set-category-ids",
     "module/set-patterns",

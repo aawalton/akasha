@@ -46,5 +46,9 @@ export const skillTemplatesReading = {
       statement:
         "The race and class pages are read and held with the skills, each at its hash place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The gear pages a build reads are read and held with the skills.",
+    },
   ],
 } as const satisfies Module

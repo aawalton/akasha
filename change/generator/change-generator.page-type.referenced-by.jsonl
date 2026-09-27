@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"story/ui/played-panel/change-generators/drawing/played-panel-drawing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest-writing/eso-sandbox-manifest-writing.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/companion/base-role/modules/base-roles-keeping/base-roles-keeping.change-generator.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/gear/temper-quality/modules/quality-ids-keeping/quality-ids-keeping.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/skill/line/modules/skill-line-ids-keeping/skill-line-ids-keeping.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/skill/temper-class/modules/class-ids-keeping/class-ids-keeping.change-generator.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change-generator.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids-keeping/grimoire-ids-keeping.change-generator.ts","typed":true,"deferred":false}

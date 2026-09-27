@@ -17,7 +17,9 @@ export function getQualityClassName(quality: EquipmentQualityOptionId): string {
 }
 
 export function getQualityLabel(quality: EquipmentQualityOptionId): string {
-  return equipmentQualities.data[quality]?.name ?? "No Quality"
+  return equipmentQualities().data[quality]?.name ?? "No Quality"
 }
 
-export const AVAILABLE_QUALITY_OPTIONS = equipmentQualities.list.filter((q) => q.available)
+export function availableQualityOptions(): ReturnType<typeof equipmentQualities>["list"] {
+  return equipmentQualities().list.filter((q) => q.available)
+}
