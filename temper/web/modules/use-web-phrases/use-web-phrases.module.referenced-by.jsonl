@@ -9,6 +9,9 @@
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/automation-select/automation-select.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/character-live-only-panel-card/character-live-only-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/character-management-panel-card/character-management-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/characters-data-content/characters-data-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/characters-filter-bar/characters-filter-bar.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companion-editor-content/companion-editor-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companion-entity-panel-card/companion-entity-panel-card.module.code.tsx","typed":false,"deferred":false}

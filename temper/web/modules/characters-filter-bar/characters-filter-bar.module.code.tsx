@@ -18,15 +18,19 @@ import {
   classItems,
   isCharactersFilterId,
   roleItems,
-  SORT_OPTIONS,
   type SortField,
+  sortOptions,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
-import { useState } from "react"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { charactersFilterBarClass } from "akasha/temper/web/phrase/pages/characters-filter-bar-class.temper-web-phrase.ts"
+import { charactersFilterBarRole } from "akasha/temper/web/phrase/pages/characters-filter-bar-role.temper-web-phrase.ts"
+import { charactersFilterBarSearchBuilds } from "akasha/temper/web/phrase/pages/characters-filter-bar-search-builds.temper-web-phrase.ts"
+import { useMemo, useState } from "react"
 
 const CHARACTERS_FILTERS: CharactersFilterDef[] = [
   {
     id: "role",
-    label: "Role",
+    labelPhrase: charactersFilterBarRole.slug,
     hasValue: ({ selectedRole }) => selectedRole !== null,
     clearValue: ({ onRoleChange }) => onRoleChange(null),
     renderGroup: ({ selectedRole, onRoleChange }: CharactersFilterPopoverProps) => {
@@ -51,7 +55,7 @@ const CHARACTERS_FILTERS: CharactersFilterDef[] = [
   },
   {
     id: "class",
-    label: "Class",
+    labelPhrase: charactersFilterBarClass.slug,
     hasValue: ({ selectedClass }) => selectedClass !== null,
     clearValue: ({ onClassChange }) => onClassChange(null),
     renderGroup: ({ selectedClass, onClassChange }: CharactersFilterPopoverProps) => {
@@ -103,6 +107,8 @@ export function CharactersFilterBar({
   hasActiveFilters,
   onReset,
 }: CharactersFilterBarProps) {
+  const phrase = usePhrase()
+  const sorts = useMemo(() => sortOptions(phrase), [phrase])
   const popoverProps: CharactersFilterPopoverProps = {
     selectedRole,
     selectedClass,
@@ -144,10 +150,14 @@ export function CharactersFilterBar({
 
   return (
     <SearchSortFilterRow hasActiveFilters={hasActiveFilters} onReset={onReset}>
-      <SearchButton value={search} onChange={onSearchChange} placeholder="Search builds..." />
+      <SearchButton
+        value={search}
+        onChange={onSearchChange}
+        placeholder={phrase(charactersFilterBarSearchBuilds.slug)}
+      />
 
       <SortButton
-        options={SORT_OPTIONS}
+        options={sorts}
         sorts={[{ field: sortBy, direction: sortDirection }]}
         onSortsChange={(sorts) => {
           const first = sorts[0]
@@ -159,21 +169,24 @@ export function CharactersFilterBar({
       <FilterButton
         hasActiveFilters={hasActiveFilterValues || addedFilters.size > 0}
         popoverClassName="max-w-panel"
-        emptySelectOptions={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+        emptySelectOptions={availableFilters.map((f) => ({
+          id: f.id,
+          label: phrase(f.labelPhrase),
+        }))}
         onEmptySelect={handleAdd}
       >
         <div className="flex flex-col gap-3">
           {visibleFilters.map((filterDef) => (
             <FilterGroup
               key={filterDef.id}
-              label={filterDef.label}
+              label={phrase(filterDef.labelPhrase)}
               onRemove={() => handleRemove(filterDef)}
             >
               {filterDef.renderGroup(popoverProps)}
             </FilterGroup>
           ))}
           <AddFilterButton
-            options={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+            options={availableFilters.map((f) => ({ id: f.id, label: phrase(f.labelPhrase) }))}
             onAdd={handleAdd}
           />
         </div>

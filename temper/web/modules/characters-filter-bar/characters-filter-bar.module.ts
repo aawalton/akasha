@@ -6,4 +6,10 @@ export const charactersFilterBar = {
   slug: "characters-filter-bar",
   definition: "the bar filtering characters",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

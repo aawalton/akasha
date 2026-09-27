@@ -44,7 +44,7 @@ import { CharactersFilterBar } from "akasha/temper/web/modules/characters-filter
 import {
   type FilterValues,
   type SortField,
-  TAB_LABELS,
+  TAB_LABEL_PHRASES,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import {
   PlanTab,
@@ -54,6 +54,9 @@ import {
   ownerIdOf,
   useAccountAddress,
 } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { charactersDataContentComingSoon } from "akasha/temper/web/phrase/pages/characters-data-content-coming-soon.temper-web-phrase.ts"
+import { charactersDataContentLeaderboardsComing } from "akasha/temper/web/phrase/pages/characters-data-content-leaderboards-coming.temper-web-phrase.ts"
 import { useCompletionCharactersByUser } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { Trophy } from "lucide-react"
 import { useCallback, useMemo, useRef } from "react"
@@ -83,6 +86,7 @@ export function CharactersDataContent({
   update,
   deferred,
 }: CharactersDataContentProps) {
+  const phrase = usePhrase()
   const optimisticPatch = useOptimisticPatchPage((args) => patchPage(args))
   const account = useAccountAddress(userId)
   const accountPage = account.address
@@ -197,7 +201,7 @@ export function CharactersDataContent({
   return (
     <div className="flex flex-col gap-6">
       <PageTabHeader
-        title={TAB_LABELS[tab]}
+        title={phrase(TAB_LABEL_PHRASES[tab])}
         titleTrailing={
           titleBadge ? <PageTabTitleBadges>{titleBadge}</PageTabTitleBadges> : undefined
         }
@@ -239,9 +243,9 @@ export function CharactersDataContent({
                 <EmptyMedia variant="icon">
                   <Trophy />
                 </EmptyMedia>
-                <EmptyTitle>Coming soon</EmptyTitle>
+                <EmptyTitle>{phrase(charactersDataContentComingSoon.slug)}</EmptyTitle>
                 <EmptyDescription>
-                  Character build leaderboards are coming in a future update.
+                  {phrase(charactersDataContentLeaderboardsComing.slug)}
                 </EmptyDescription>
               </EmptyHeader>
             </Empty>

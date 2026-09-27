@@ -19,5 +19,9 @@ export const charactersDataContent = {
       decisionKind: "decision-kind/departure",
       statement: "The builds are decoded again whenever the skill or set catalogue is read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

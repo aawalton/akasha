@@ -11,5 +11,9 @@ export const charactersFilterTypes = {
       decisionKind: "decision-kind/departure",
       statement: "A role no role page names is read as no role, and the list filters on it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its tab and sort wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module
