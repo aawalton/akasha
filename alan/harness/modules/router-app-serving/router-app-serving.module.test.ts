@@ -6,7 +6,6 @@ import {
   noReader,
   type RouterAppServing,
   type RouterAppStart,
-  readerNamed,
   servedBy,
   servedRouterApp,
 } from "akasha/alan/harness/modules/router-app-serving/router-app-serving.module.code.ts"
@@ -46,10 +45,6 @@ test("a site held to its reader's grants reaches every route inside that reader"
 
 test("a site saying nothing is held to nothing", async () => {
   expect(await namedIn(false)).toBe(false)
-})
-
-test("a site naming its reader reads every request as that person", async () => {
-  expect((await readerNamed("one")(AT)).user).toEqual({ person: "one" })
 })
 
 test("an answer that is not HTML is given back as the route wrote it", () => {
