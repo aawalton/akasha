@@ -36,7 +36,3 @@ export function createHeldSnapshots<R>(limit: number): HeldSnapshots<R> {
     },
   }
 }
-
-export function listingLoading(snapshot: unknown, answered: boolean): boolean {
-  return snapshot === null || !answered
-}

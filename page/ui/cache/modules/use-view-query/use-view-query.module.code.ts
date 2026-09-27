@@ -3,6 +3,7 @@
 import { noOp } from "akasha/code/type/narrowing/modules/no-op/no-op.module.code.ts"
 import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { createHeldSnapshots } from "akasha/page/ui/cache/modules/listing-readiness/listing-readiness.module.code.ts"
 import {
   useAcquireFilteredStream,
   useAcquireSlug,
@@ -28,6 +29,10 @@ type UseViewQueryResult = {
   ensureHydratedUpTo: (target: number) => void
 }
 
+const HELD_VIEWS = 256
+
+const HELD = createHeldSnapshots<ViewResult>(HELD_VIEWS)
+
 export function useViewQuery(options: UseViewQueryOptions): UseViewQueryResult {
   const shape = options.crossType === true ? options.crossTypeDescriptor : options.shape
   const slugAcquire = useAcquireSlug(
@@ -42,7 +47,8 @@ export function useViewQuery(options: UseViewQueryOptions): UseViewQueryResult {
   const { snapshot: result, error: readError } = usePipelineLive<ViewResult>(
     (collection) => createViewPipeline(collection, options),
     depsKey,
-    coreDefinitionsReady
+    coreDefinitionsReady,
+    HELD
   )
 
   return useMemo(() => {
@@ -59,9 +65,7 @@ export function useViewQuery(options: UseViewQueryOptions): UseViewQueryResult {
         ensureHydratedUpTo: noOp,
       }
     }
-    const isLoading =
-      result === null || !gatingTargets.ready || (!acquire.ready && result.rows.length === 0)
-    if (isLoading) {
+    if (result === null || !gatingTargets.ready || !acquire.ready) {
       return {
         rows: [],
         isLoading: true,

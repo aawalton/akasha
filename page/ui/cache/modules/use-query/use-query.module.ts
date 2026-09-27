@@ -6,4 +6,14 @@ export const useQuery = {
   slug: "use-query",
   definition: "the pages a listing asks for, held live against the local store",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing shows no row until its own question has been answered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing answered before shows the rows it last held while it is read again.",
+    },
+  ],
 } as const satisfies Module

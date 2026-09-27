@@ -2,7 +2,6 @@ import { expect, test } from "bun:test"
 import {
   createAnsweredListings,
   createHeldSnapshots,
-  listingLoading,
 } from "akasha/page/ui/cache/modules/listing-readiness/listing-readiness.module.code.ts"
 
 test("a listing counts as answered only once its own question was answered", () => {
@@ -12,12 +11,6 @@ test("a listing counts as answered only once its own question was answered", () 
   expect(answered.has("temper-skill")).toBe(false)
   answered.answer("temper-skill")
   expect(answered.has("temper-skill")).toBe(true)
-})
-
-test("a listing whose own question went unanswered is loading whatever rows the store holds", () => {
-  expect(listingLoading({ rows: [{ id: "held-by-another-reader" }] }, false)).toBe(true)
-  expect(listingLoading(null, true)).toBe(true)
-  expect(listingLoading({ rows: [] }, true)).toBe(false)
 })
 
 test("a listing asked again is shown with the rows it last held", () => {

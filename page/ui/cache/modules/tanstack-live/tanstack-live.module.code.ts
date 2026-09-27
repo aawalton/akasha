@@ -1,6 +1,10 @@
 "use client"
 
 import { BOOT_GATE_TIMEOUT_MS } from "akasha/page/ui/cache/modules/boot-gate/boot-gate.module.code.ts"
+import {
+  ANSWERED_LISTINGS,
+  type HeldSnapshots,
+} from "akasha/page/ui/cache/modules/listing-readiness/listing-readiness.module.code.ts"
 import type { ShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { PagesStore } from "akasha/page/ui-store/collection/modules/store/store.module.code.ts"
 import { emitStoreDiagnostic } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
@@ -25,7 +29,7 @@ interface AcquireResult {
 }
 
 export function useAcquireSlug(slug: string | undefined): AcquireResult {
-  const [ready, setReady] = useState(slug === undefined)
+  const [ready, setReady] = useState(slug === undefined || ANSWERED_LISTINGS.has(slug))
   const [degraded, setDegraded] = useState(false)
   const [error, setError] = useState<Error | null>(null)
   const reqRef = useRef(0)
@@ -40,7 +44,7 @@ export function useAcquireSlug(slug: string | undefined): AcquireResult {
     const reqId = ++reqRef.current
     let acquired = false
     let settled = false
-    setReady(false)
+    setReady(ANSWERED_LISTINGS.has(slug))
     setDegraded(false)
     setError(null)
     const degradeTimer = setTimeout(() => {
@@ -60,6 +64,7 @@ export function useAcquireSlug(slug: string | undefined): AcquireResult {
         acquired = true
         await store.whenSlugReady(slug)
         if (reqId !== reqRef.current) return
+        ANSWERED_LISTINGS.answer(slug)
         settled = true
         clearTimeout(degradeTimer)
         setDegraded(false)
@@ -96,7 +101,7 @@ export function useAcquireSlugs(slugs: readonly string[] | undefined): AcquireRe
   const depsKey = unique.join("\0")
   const empty = unique.length === 0
 
-  const [ready, setReady] = useState(empty)
+  const [ready, setReady] = useState(empty || unique.every((one) => ANSWERED_LISTINGS.has(one)))
   const [degraded, setDegraded] = useState(false)
   const [error, setError] = useState<Error | null>(null)
   const reqRef = useRef(0)
@@ -113,7 +118,7 @@ export function useAcquireSlugs(slugs: readonly string[] | undefined): AcquireRe
     const reqId = ++reqRef.current
     let acquired = false
     let settled = false
-    setReady(false)
+    setReady(askedSlugs.every((one) => ANSWERED_LISTINGS.has(one)))
     setDegraded(false)
     setError(null)
     const degradeTimer = setTimeout(() => {
@@ -136,6 +141,7 @@ export function useAcquireSlugs(slugs: readonly string[] | undefined): AcquireRe
         acquired = true
         await Promise.all(acquiredSlugs.map((slug) => store.whenSlugReady(slug)))
         if (reqId !== reqRef.current) return
+        for (const slug of askedSlugs) ANSWERED_LISTINGS.answer(slug)
         settled = true
         clearTimeout(degradeTimer)
         setDegraded(false)
@@ -168,7 +174,9 @@ export function useAcquireSlugs(slugs: readonly string[] | undefined): AcquireRe
 }
 
 export function useAcquireFilteredStream(descriptor: ShapeDescriptor | undefined): AcquireResult {
-  const [ready, setReady] = useState(descriptor === undefined)
+  const [ready, setReady] = useState(
+    descriptor === undefined || ANSWERED_LISTINGS.has(descriptor.shapeKey)
+  )
   const [error, setError] = useState<Error | null>(null)
   const reqRef = useRef(0)
   const shapeKey = descriptor?.shapeKey
@@ -182,7 +190,7 @@ export function useAcquireFilteredStream(descriptor: ShapeDescriptor | undefined
     }
     const reqId = ++reqRef.current
     let acquired = false
-    setReady(false)
+    setReady(ANSWERED_LISTINGS.has(shapeKey))
     setError(null)
     void (async () => {
       try {
@@ -192,6 +200,7 @@ export function useAcquireFilteredStream(descriptor: ShapeDescriptor | undefined
         acquired = true
         await store.whenFilteredReady(shapeKey)
         if (reqId !== reqRef.current) return
+        ANSWERED_LISTINGS.answer(shapeKey)
         setReady(true)
       } catch (err) {
         if (reqId !== reqRef.current) return
@@ -276,23 +285,33 @@ function toError(thrown: unknown): Error {
   return thrown instanceof Error ? thrown : new Error(String(thrown))
 }
 
+function heldResult<R>(held: HeldSnapshots<R> | undefined, key: string): PipelineLiveResult<R> {
+  const kept = held?.get(key)
+  return kept === undefined ? EMPTY_PIPELINE_RESULT : { snapshot: kept, error: null }
+}
+
 export function usePipelineLive<R>(
   makePipeline: (collection: PagesCollection) => LivePipeline<R>,
   depsKey: string,
-  enabled: boolean
+  enabled: boolean,
+  held?: HeldSnapshots<R>
 ): PipelineLiveResult<R> {
   const makeRef = useRef(makePipeline)
   makeRef.current = makePipeline
+  const heldRef = useRef(held)
+  heldRef.current = held
 
-  const stateRef = useRef<PipelineLiveResult<R>>(EMPTY_PIPELINE_RESULT)
+  const stateRef = useRef<PipelineLiveResult<R>>(heldResult(held, depsKey))
   const listenersRef = useRef<Set<() => void>>(new Set())
   const notify = useCallback(() => {
     for (const listener of listenersRef.current) listener()
   }, [])
 
-  const readInto = useCallback((built: LivePipeline<R>) => {
+  const readInto = useCallback((built: LivePipeline<R>, key: string) => {
     try {
-      stateRef.current = { snapshot: built.read(), error: null }
+      const snapshot = built.read()
+      stateRef.current = { snapshot, error: null }
+      heldRef.current?.hold(key, snapshot)
     } catch (thrown) {
       const error = toError(thrown)
       const isNew =
@@ -314,6 +333,11 @@ export function usePipelineLive<R>(
       stateRef.current = EMPTY_PIPELINE_RESULT
       notify()
       return
+    }
+    const kept = heldResult(heldRef.current, depsKey)
+    if (kept.snapshot !== null && stateRef.current.snapshot !== kept.snapshot) {
+      stateRef.current = kept
+      notify()
     }
     let cancelled = false
     let pipeline: LivePipeline<R> | null = null
@@ -345,10 +369,10 @@ export function usePipelineLive<R>(
       if (cancelled) return
       const built = makeRef.current(store.collection)
       pipeline = built
-      readInto(built)
+      readInto(built, depsKey)
       unsubscribe = built.subscribe((): undefined => {
         if (cancelled) return undefined
-        readInto(built)
+        readInto(built, depsKey)
         notify()
         return undefined
       })

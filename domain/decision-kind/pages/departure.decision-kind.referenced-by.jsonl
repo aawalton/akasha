@@ -3457,6 +3457,8 @@
 {"propertySlug":"decision-kind","path":"page/ui-store/query/modules/view-match/view-match.module.ts","id":"01a05b69-4551-75ff-b040-d348271da6aa"}
 {"propertySlug":"decision-kind","path":"page/ui/cache/modules/listing-readiness/listing-readiness.module.ts","id":"01a0e1b5-3737-7636-9d4d-147e23ec7960"}
 {"propertySlug":"decision-kind","path":"page/ui/cache/modules/tanstack-live/tanstack-live.module.ts","id":"01a05cba-9cbc-7f0a-9fe4-2beece336d54"}
+{"propertySlug":"decision-kind","path":"page/ui/cache/modules/use-query/use-query.module.ts","id":"01a05cce-25ec-7536-86c6-340adc946098"}
+{"propertySlug":"decision-kind","path":"page/ui/cache/modules/use-view-query/use-view-query.module.ts","id":"01a05cce-25ec-7ff7-96b3-5aee97f05806"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/app-editing/app-editing.module.ts","id":"01a0c58c-04d2-7bea-9650-c9d6c4f1e22a"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/auth-provider/auth-provider.module.ts","id":"01a06582-2737-7f5c-8019-8dd5e784db92"}
 {"propertySlug":"decision-kind","path":"page/ui/component/modules/badge-keying/badge-keying.module.ts","id":"01a0ca57-6b79-7ed9-8595-bf983f190063"}

@@ -3,6 +3,7 @@
 import { noOp } from "akasha/code/type/narrowing/modules/no-op/no-op.module.code.ts"
 import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import { createHeldSnapshots } from "akasha/page/ui/cache/modules/listing-readiness/listing-readiness.module.code.ts"
 import {
   useAcquireFilteredStream,
   useAcquireSlug,
@@ -25,6 +26,10 @@ type UsePagesResult = {
   totalCount: number | null
 }
 
+const HELD_LISTINGS = 256
+
+const HELD = createHeldSnapshots<RegularResult>(HELD_LISTINGS)
+
 export function useQuery(options: UsePagesOptions): UsePagesResult {
   const slugAcquire = useAcquireSlug(options.shape === undefined ? options.pageTypeSlug : undefined)
   const filteredAcquire = useAcquireFilteredStream(options.shape)
@@ -33,7 +38,8 @@ export function useQuery(options: UsePagesOptions): UsePagesResult {
   const { snapshot: result, error: readError } = usePipelineLive<RegularResult>(
     (collection) => createRegularPipeline(collection, options),
     depsKey,
-    true
+    true,
+    HELD
   )
 
   return useMemo(() => {
@@ -49,8 +55,7 @@ export function useQuery(options: UsePagesOptions): UsePagesResult {
         totalCount: null,
       }
     }
-    const isLoading = result === null || (!acquire.ready && result.rows.length === 0)
-    if (isLoading) {
+    if (result === null || !acquire.ready) {
       return {
         rows: [],
         isLoading: true,

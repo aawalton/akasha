@@ -28,5 +28,14 @@ export const tanstackLive = {
       decisionKind: "decision-kind/departure",
       statement: "A wait past the boot gate is reported and goes on.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing answered once this session is ready at once when it is asked again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A pipeline asked again starts from the rows it last read under the same question.",
+    },
   ],
 } as const satisfies Module
