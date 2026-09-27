@@ -55,17 +55,19 @@ export function registerAutoListResultEvents(this: void, ns: string): undefined 
   flow = createSellFlow(`${ns}_AutoList`)
 }
 
-export function dispatchListings(): undefined {
+export function dispatchListings(listed: (this: void) => void): undefined {
   tradingHouseOpen = true
 
   if (TamrielTradeCentrePrice === undefined) {
     d(`[${ADDON_NAME}] TTC addon required for auto-listing`)
+    listed()
     return
   }
 
   const guildId = GetSelectedTradingHouseGuildId()
   if (guildId === undefined || !CanSellOnTradingHouse(guildId)) {
     d(`[${ADDON_NAME}] Cannot sell on this trading house`)
+    listed()
     return
   }
 
@@ -73,6 +75,7 @@ export function dispatchListings(): undefined {
   let slotsRemaining = maxListings - currentListings
   if (slotsRemaining <= 0) {
     d(`[${ADDON_NAME}] Guild store listing slots full (${currentListings}/${maxListings})`)
+    listed()
     return
   }
 
@@ -111,6 +114,7 @@ export function dispatchListings(): undefined {
     if (skipped > 0) {
       d(`[${ADDON_NAME}] No items to list (${skipped} skipped — no price data)`)
     }
+    listed()
     return
   }
 
@@ -190,6 +194,7 @@ export function dispatchListings(): undefined {
     d(
       `[${ADDON_NAME}] Listed ${posted} items${skippedMsg}${failedMsg}${itemsMsg}. Listing fees: ${totalFees} gold.`
     )
+    listed()
   }
 
   postNextItem()

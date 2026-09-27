@@ -238,6 +238,7 @@ export const temperAddonItems = {
     "module/tamriel-tomes-buy-all",
     "module/inventory-rule-held",
     "module/inventory-rules-guild-buy-core",
+    "module/inventory-rules-dispatch-guild-buy",
   ],
   decisions: [
     {

@@ -23,5 +23,9 @@ export const inventoryRulesList = {
       decisionKind: "decision-kind/departure",
       statement: "Only an item in the backpack is listed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The caller is told once listing at a visit is over, whatever listing did.",
+    },
   ],
 } as const satisfies Module

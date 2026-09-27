@@ -6,4 +6,10 @@ export const inventoryRulesDispatch = {
   slug: "inventory-rules-dispatch",
   definition: "what happens when the trading house opens",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Items are listed first, and the shortfall is bought once listing is over.",
+    },
+  ],
 } as const satisfies Module
