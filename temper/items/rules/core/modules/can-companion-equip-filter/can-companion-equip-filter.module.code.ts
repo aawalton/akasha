@@ -16,7 +16,6 @@ const read = (c: CategoryRule["conditions"]) => c?.canCompanionEquip
 
 export const CAN_COMPANION_EQUIP_FILTER: InventoryRuleFilter = {
   id: "can-companion-equip",
-  label: "Can Companion Equip",
   priority: 0,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, CAN_COMPANION_EQUIP_ELIGIBLE_ROOTS, "opt-in", categories),

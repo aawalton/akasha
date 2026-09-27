@@ -13,6 +13,10 @@ export const allStockedFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A category outside `consumables` is offered no All Stocked condition.",
     },
   ],

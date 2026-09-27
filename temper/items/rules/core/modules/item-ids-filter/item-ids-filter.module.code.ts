@@ -5,7 +5,6 @@ const read = (c: CategoryRule["conditions"]) => c?.itemIds
 
 export const ITEM_IDS_FILTER: InventoryRuleFilter = {
   id: "item-ids",
-  label: "Item Ids",
   priority: 1,
   isEligible: () => true,
   offered: false,

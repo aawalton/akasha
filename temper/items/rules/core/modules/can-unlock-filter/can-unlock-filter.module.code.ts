@@ -13,7 +13,6 @@ const read = (c: CategoryRule["conditions"]) => c?.canUnlock
 
 export const CAN_UNLOCK_FILTER: InventoryRuleFilter = {
   id: "can-unlock",
-  label: "Can Unlock",
   priority: 0,
   isEligible: () => true,
   mutuallyExclusive: [],

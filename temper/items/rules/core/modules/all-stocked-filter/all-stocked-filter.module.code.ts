@@ -16,7 +16,6 @@ const read = (c: CategoryRule["conditions"]) => c?.allStocked
 
 export const ALL_STOCKED_FILTER: InventoryRuleFilter = {
   id: "all-stocked",
-  label: "All Stocked",
   priority: 0,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, ALL_STOCKED_ELIGIBLE_ROOTS, "opt-in", categories),

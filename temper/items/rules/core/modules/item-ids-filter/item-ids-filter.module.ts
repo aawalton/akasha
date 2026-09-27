@@ -13,6 +13,10 @@ export const itemIdsFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The editor shows this condition where a rule has it and offers no way to add it.",
     },
     {

@@ -12,7 +12,6 @@ const read = (c: CategoryRule["conditions"]) => c?.canGiveMaxRewards
 
 export const CAN_GIVE_MAX_REWARDS_FILTER: InventoryRuleFilter = {
   id: "can-give-max-rewards",
-  label: "Can Give Max Rewards",
   priority: 0,
   isEligible: () => true,
   isEligibleForAction: (action) => action === "open",

@@ -13,6 +13,10 @@ export const canCompanionEquipFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A category outside `equipment` is offered no Can Companion Equip condition.",
     },
   ],

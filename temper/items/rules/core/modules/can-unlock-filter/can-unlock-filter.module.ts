@@ -11,5 +11,9 @@ export const canUnlockFilter = {
       decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the `canUnlock` condition alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
   ],
 } as const satisfies Module

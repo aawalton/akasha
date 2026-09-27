@@ -20,7 +20,6 @@ export function characterPassesCanLevelMorphs(
 
 export const CAN_LEVEL_MORPHS_FILTER: InventoryRuleFilter = {
   id: "can-level-morphs",
-  label: "Can Level Morphs",
   priority: 0,
   isEligible: () => true,
   isEligibleForAction: (action: ItemAction) => action === "stock",

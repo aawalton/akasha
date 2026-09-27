@@ -16,7 +16,6 @@ const read = (c: CategoryRule["conditions"]) => c?.canResearch
 
 export const CAN_RESEARCH_FILTER: InventoryRuleFilter = {
   id: "can-research",
-  label: "Can Research",
   priority: 0,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, CAN_RESEARCH_ELIGIBLE_ROOTS, "opt-in", categories),

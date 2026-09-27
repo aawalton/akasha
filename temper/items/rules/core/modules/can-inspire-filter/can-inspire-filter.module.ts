@@ -13,6 +13,10 @@ export const canInspireFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A category outside the two roots named in the code is offered no Can Inspire condition.",
     },

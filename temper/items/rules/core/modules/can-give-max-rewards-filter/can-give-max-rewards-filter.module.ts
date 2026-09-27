@@ -13,6 +13,10 @@ export const canGiveMaxRewardsFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A rule whose action is other than `open` is offered no Can Give Max Rewards condition.",
     },

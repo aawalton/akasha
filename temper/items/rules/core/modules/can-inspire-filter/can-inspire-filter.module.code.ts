@@ -16,7 +16,6 @@ const read = (c: CategoryRule["conditions"]) => c?.canInspire
 
 export const CAN_INSPIRE_FILTER: InventoryRuleFilter = {
   id: "can-inspire",
-  label: "Can Inspire",
   priority: 0,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, CAN_INSPIRE_ELIGIBLE_ROOTS, "opt-in", categories),

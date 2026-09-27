@@ -10,7 +10,6 @@ const read = (c: CategoryRule["conditions"]) => c?.canOpen
 
 export const CAN_OPEN_FILTER: InventoryRuleFilter = {
   id: "can-open",
-  label: "Can Open",
   priority: 0,
   isEligible: () => true,
   mutuallyExclusive: [],
