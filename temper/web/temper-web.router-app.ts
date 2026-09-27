@@ -389,5 +389,10 @@ export const temperWeb = {
       statement:
         "The root route reads its title and error wording from web phrase pages it imports.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The root route words a failed response by its status and never shows the response's own status text.",
+    },
   ],
 } as const satisfies RouterApp

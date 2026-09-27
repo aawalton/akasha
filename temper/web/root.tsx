@@ -37,6 +37,7 @@ import { rootErrorStatus } from "akasha/temper/web/phrase/pages/root-error-statu
 import { rootErrorTitle } from "akasha/temper/web/phrase/pages/root-error-title.temper-web-phrase.ts"
 import { rootGoHome } from "akasha/temper/web/phrase/pages/root-go-home.temper-web-phrase.ts"
 import { rootNotFoundDetails } from "akasha/temper/web/phrase/pages/root-not-found-details.temper-web-phrase.ts"
+import { rootNotFoundTitle } from "akasha/temper/web/phrase/pages/root-not-found-title.temper-web-phrase.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect } from "react"
 import {
@@ -139,13 +140,8 @@ export function ErrorBoundary({ error }: { error: unknown }) {
   let stack: string | undefined
 
   if (isRouteErrorResponse(error)) {
-    message = error.status === 404 ? "404" : rootErrorStatus.title
-    details =
-      error.status === 404
-        ? rootNotFoundDetails.title
-        : error.statusText !== ""
-          ? error.statusText
-          : details
+    message = error.status === 404 ? rootNotFoundTitle.title : rootErrorStatus.title
+    if (error.status === 404) details = rootNotFoundDetails.title
   } else if (import.meta.env.DEV === true && error instanceof Error) {
     details = error.message
     stack = error.stack
