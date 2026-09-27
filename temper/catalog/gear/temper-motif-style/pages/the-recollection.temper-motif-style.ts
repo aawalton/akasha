@@ -5,6 +5,8 @@ export const theRecollection = {
   type: "page-type/temper-motif-style",
   slug: "the-recollection",
   title: "The Recollection",
+  esoItemStyleId: 145,
+  styleName: "The Recollection",
   collectionIndex: 108,
   sourceDescription: "Oathsworn Pit dungeon",
 } as const satisfies TemperMotifStyle
