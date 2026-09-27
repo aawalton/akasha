@@ -5,13 +5,13 @@ import { DAMAGEABLE_DUNGEON_LINES } from "akasha/temper/addon/pages/combat/comba
 import { DAMAGEABLE_TRIAL_LINES } from "akasha/temper/addon/pages/combat/combat-alerts-panels/modules/combat-alerts-damageable-trial-lines/combat-alerts-damageable-trial-lines.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
 
-export interface DamageableTimeDetail {
+interface DamageableTimeDetail {
   time: number
   singleZoneId?: number
   displayFormat?: string
 }
 
-export type DamageableTime = number | DamageableTimeDetail
+type DamageableTime = number | DamageableTimeDetail
 
 export type DamageableLines = Record<string, DamageableTime>
 
