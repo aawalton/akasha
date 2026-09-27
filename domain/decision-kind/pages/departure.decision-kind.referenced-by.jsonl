@@ -5952,6 +5952,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/skill-point-group-dungeons/skill-point-group-dungeons.module.ts","id":"01a06108-2ff8-7e0f-a1bc-51a0856188bc"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.ts","id":"01a06108-2ff9-767b-92d7-7dbd5671e738"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.ts","id":"01a06108-2ffa-7ddc-a07c-2ee34cb56f5c"}
+{"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/state/modules/completion-daily-writs-state/completion-daily-writs-state.module.ts","id":"01a06253-d28f-7002-a708-b891c6a40ecd"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/state/temper-player-completion-state.domain.ts","id":"01a06253-d28f-7000-8979-abef0ff69650"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/temper-player-completion/test-fixtures/lore-library-sparse-test-utils/lore-library-sparse-test-utils.test-fixture.ts","id":"01a08ee1-1c98-7da2-b6af-8e53c812c8c5"}
