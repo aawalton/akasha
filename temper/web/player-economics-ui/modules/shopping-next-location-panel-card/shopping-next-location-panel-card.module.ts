@@ -6,4 +6,10 @@ export const shoppingNextLocationPanelCard = {
   slug: "shopping-next-location-panel-card",
   definition: "the next place on a shopping route and what is bought there",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card's wording is read from phrase pages rather than written in its code.",
+    },
+  ],
 } as const satisfies Module

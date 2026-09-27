@@ -6,4 +6,10 @@ export const shoppingTripCompletePanelCard = {
   slug: "shopping-trip-complete-panel-card",
   definition: "what a finished shopping trip cost",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each count of items and stops the card says has a phrase page of its own.",
+    },
+  ],
 } as const satisfies Module

@@ -10,7 +10,16 @@ import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/economy/shopping/modules
 import type { PurchaseRecommendation } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { kioskLocationName } from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
 import { useKioskNames } from "akasha/temper/web/modules/use-kiosk-names/use-kiosk-names.module.code.tsx"
-import { formatGold } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+import {
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { shoppingRouteOverviewPanelCardNotInRoute } from "akasha/temper/web/phrase/pages/shopping-route-overview-panel-card-not-in-route.temper-web-phrase.ts"
+import { shoppingRouteOverviewPanelCardSpentSoFar } from "akasha/temper/web/phrase/pages/shopping-route-overview-panel-card-spent-so-far.temper-web-phrase.ts"
+import { shoppingRouteOverviewPanelCardStop } from "akasha/temper/web/phrase/pages/shopping-route-overview-panel-card-stop.temper-web-phrase.ts"
+import { shoppingRouteOverviewPanelCardTitle } from "akasha/temper/web/phrase/pages/shopping-route-overview-panel-card-title.temper-web-phrase.ts"
+import { shoppingRouteOverviewPanelCardTotalListPrice } from "akasha/temper/web/phrase/pages/shopping-route-overview-panel-card-total-list-price.temper-web-phrase.ts"
+import { goldIn } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { LocationSummary } from "akasha/temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { Fragment, useMemo, useState } from "react"
 
@@ -57,6 +66,8 @@ export function ShoppingRouteOverviewPanelCard({
   spentTotal,
 }: ShoppingRouteOverviewPanelCardProps) {
   const kioskNames = useKioskNames()
+  const phrase = usePhrase()
+  const phraseDescription = usePhraseDescription()
   const [collapsedLocations, setCollapsedLocations] = useState<Set<string>>(new Set())
   const [collapsedGuilds, setCollapsedGuilds] = useState<Set<string>>(new Set())
   const [missingExpanded, setMissingExpanded] = useState(false)
@@ -125,7 +136,7 @@ export function ShoppingRouteOverviewPanelCard({
     <PanelCard
       id="shopping-route"
       collapsible
-      title="Route"
+      title={phrase(shoppingRouteOverviewPanelCardTitle.slug)}
       headerSubtitle={
         <CardTitleBadges>
           <ButtonBadge
@@ -135,23 +146,26 @@ export function ShoppingRouteOverviewPanelCard({
               scrollToCard("shopping-next-location", false)
             }}
           >
-            Stop {stopNumber} of {totalStops}
+            {phrase(shoppingRouteOverviewPanelCardStop.slug, {
+              stop: stopNumber,
+              stops: totalStops,
+            })}
           </ButtonBadge>
         </CardTitleBadges>
       }
     >
       <div className="flex flex-col gap-1.5">
         <ItemRow
-          label="Total List Price"
+          label={phrase(shoppingRouteOverviewPanelCardTotalListPrice.slug)}
           quantity={totalItems}
-          value={totalCost > 0 ? `${formatGold(totalCost)}g` : undefined}
+          value={totalCost > 0 ? goldIn(phrase, totalCost) : undefined}
           accent
           actionButtonCount={1}
         />
         {spentTotal != null && spentTotal > 0 && (
           <ItemRow
-            label="Spent So Far"
-            value={`${formatGold(spentTotal)}g`}
+            label={phrase(shoppingRouteOverviewPanelCardSpentSoFar.slug)}
+            value={goldIn(phrase, spentTotal)}
             accent
             actionButtonCount={1}
           />
@@ -175,7 +189,7 @@ export function ShoppingRouteOverviewPanelCard({
                   )
                 }
                 quantity={summary.itemCount}
-                value={`${formatGold(summary.cost)}g`}
+                value={goldIn(phrase, summary.cost)}
                 actionButtonCount={1}
                 expanded={isLocationExpanded}
                 onToggle={() => toggleLocation(loc.location)}
@@ -190,7 +204,7 @@ export function ShoppingRouteOverviewPanelCard({
                       <ItemRow
                         label={guild.guildName}
                         quantity={guild.purchases.length}
-                        value={`${formatGold(guild.cost)}g`}
+                        value={goldIn(phrase, guild.cost)}
                         depth={1}
                         actionButtonCount={1}
                         expanded={isGuildExpanded}
@@ -217,7 +231,7 @@ export function ShoppingRouteOverviewPanelCard({
                                     {purchase.listing.TradeAsset.Item.Name} ({traitName})
                                   </span>
                                 }
-                                value={`${formatGold(purchase.unitPrice)}g`}
+                                value={goldIn(phrase, purchase.unitPrice)}
                                 depth={2}
                                 actionButtonCount={1}
                               />
@@ -232,8 +246,8 @@ export function ShoppingRouteOverviewPanelCard({
         {missingCount > 0 && (
           <>
             <ItemRow
-              label="Not in Route"
-              subtitle="No listing found, or you marked every listing unavailable"
+              label={phrase(shoppingRouteOverviewPanelCardNotInRoute.slug)}
+              subtitle={phraseDescription(shoppingRouteOverviewPanelCardNotInRoute.slug)}
               quantity={missingCount}
               actionButtonCount={1}
               expanded={missingExpanded}

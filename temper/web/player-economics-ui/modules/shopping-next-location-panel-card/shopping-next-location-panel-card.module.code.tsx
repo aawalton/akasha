@@ -11,7 +11,14 @@ import { companionTraits } from "akasha/temper/catalog/companion/companions-core
 import { TTC_QUALITY_TEXT_CLASSES } from "akasha/temper/economy/shopping/modules/ttc-quality-text-classes/ttc-quality-text-classes.module.code.ts"
 import { kioskLocationName } from "akasha/temper/economy/trading/pricing/modules/kiosk-location-name/kiosk-location-name.module.code.ts"
 import { useKioskNames } from "akasha/temper/web/modules/use-kiosk-names/use-kiosk-names.module.code.tsx"
-import { formatGold } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { shoppingNextLocationPanelCardBoughtItem } from "akasha/temper/web/phrase/pages/shopping-next-location-panel-card-bought-item.temper-web-phrase.ts"
+import { shoppingNextLocationPanelCardBoughtItems } from "akasha/temper/web/phrase/pages/shopping-next-location-panel-card-bought-items.temper-web-phrase.ts"
+import { shoppingNextLocationPanelCardNextStop } from "akasha/temper/web/phrase/pages/shopping-next-location-panel-card-next-stop.temper-web-phrase.ts"
+import { shoppingNextLocationPanelCardSpentSoFar } from "akasha/temper/web/phrase/pages/shopping-next-location-panel-card-spent-so-far.temper-web-phrase.ts"
+import { shoppingNextLocationPanelCardStop } from "akasha/temper/web/phrase/pages/shopping-next-location-panel-card-stop.temper-web-phrase.ts"
+import { shoppingNextLocationPanelCardTotalListPrice } from "akasha/temper/web/phrase/pages/shopping-next-location-panel-card-total-list-price.temper-web-phrase.ts"
+import { goldIn } from "akasha/temper/web/player-economics-ui/modules/companion-gear-pricing-rules/companion-gear-pricing-rules.module.code.ts"
 import type { LocationPurchase } from "akasha/temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { ChevronRight } from "lucide-react"
 import { Fragment, useEffect, useMemo, useState } from "react"
@@ -44,6 +51,7 @@ export function ShoppingNextLocationPanelCard({
   onAdvance,
 }: ShoppingNextLocationPanelCardProps) {
   const kioskNames = useKioskNames()
+  const phrase = usePhrase()
   const allGuildNames = locationPurchases.map((g) => g.guildName)
   const guildKey = useMemo(() => allGuildNames.join("\0"), [locationPurchases])
   const [expandedGuilds, setExpandedGuilds] = useState<Set<string>>(() => new Set(allGuildNames))
@@ -70,7 +78,10 @@ export function ShoppingNextLocationPanelCard({
               scrollToCard("shopping-route", false)
             }}
           >
-            Stop {stopNumber} of {totalStops}
+            {phrase(shoppingNextLocationPanelCardStop.slug, {
+              stop: stopNumber,
+              stops: totalStops,
+            })}
           </ButtonBadge>
           <ButtonBadge
             variant="elevation-muted"
@@ -79,23 +90,28 @@ export function ShoppingNextLocationPanelCard({
               scrollToCard("shopping-list", false)
             }}
           >
-            {purchasedCount}/{initialPurchaseCount} items
+            {phrase(
+              initialPurchaseCount === 1
+                ? shoppingNextLocationPanelCardBoughtItem.slug
+                : shoppingNextLocationPanelCardBoughtItems.slug,
+              { bought: purchasedCount, count: initialPurchaseCount }
+            )}
           </ButtonBadge>
         </CardTitleBadges>
       }
     >
       <div className="flex flex-col gap-1.5">
         <ItemRow
-          label="Total List Price"
+          label={phrase(shoppingNextLocationPanelCardTotalListPrice.slug)}
           quantity={totalItems}
-          value={locationCost > 0 ? `${formatGold(locationCost)}g` : undefined}
+          value={locationCost > 0 ? goldIn(phrase, locationCost) : undefined}
           accent
           actionButtonCount={2}
         />
         {spentTotal > 0 && (
           <ItemRow
-            label="Spent So Far"
-            value={`${formatGold(spentTotal)}g`}
+            label={phrase(shoppingNextLocationPanelCardSpentSoFar.slug)}
+            value={goldIn(phrase, spentTotal)}
             accent
             actionButtonCount={2}
           />
@@ -109,7 +125,7 @@ export function ShoppingNextLocationPanelCard({
               <ItemRow
                 label={group.guildName}
                 quantity={group.purchases.length}
-                value={`${formatGold(guildCost)}g`}
+                value={goldIn(phrase, guildCost)}
                 actionButtonCount={2}
                 onRemove={() => {
                   for (const p of group.purchases) onNotAvailable(p.key)
@@ -145,7 +161,7 @@ export function ShoppingNextLocationPanelCard({
                             {itemName} ({traitName})
                           </span>
                         }
-                        value={`${formatGold(purchase.unitPrice)}g`}
+                        value={goldIn(phrase, purchase.unitPrice)}
                         depth={1}
                         actionButtonCount={2}
                         onRemove={() => onNotAvailable(purchase.key)}
@@ -160,7 +176,7 @@ export function ShoppingNextLocationPanelCard({
       {totalItems === 0 && !isLastStop && (
         <div className="flex justify-end pt-1.5">
           <Button variant="secondary" size="sm" onClick={onAdvance}>
-            Next Stop
+            {phrase(shoppingNextLocationPanelCardNextStop.slug)}
             <ChevronRight className="h-3.5 w-3.5" />
           </Button>
         </div>

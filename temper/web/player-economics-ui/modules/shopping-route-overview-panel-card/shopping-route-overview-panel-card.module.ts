@@ -6,4 +6,10 @@ export const shoppingRouteOverviewPanelCard = {
   slug: "shopping-route-overview-panel-card",
   definition: "a whole shopping route, place by place",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card's wording is read from phrase pages rather than written in its code.",
+    },
+  ],
 } as const satisfies Module

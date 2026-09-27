@@ -20,7 +20,7 @@ export function getCompanionGearItemName(need: UnfulfilledGearNeed, phrase: Phra
   return phrase(companionGearPricingRulesItemName.slug, { piece: pieceOf(need) })
 }
 
-export function formatGold(value: number): string {
+function formatGold(value: number): string {
   return Number.isFinite(value) ? value.toLocaleString("en-US") : "—"
 }
 
