@@ -22,5 +22,9 @@ export const characterCaptureScribedSkillMap = {
       decisionKind: "decision-kind/departure",
       statement: "The places are read from the scribed skill pages as the add-on compiles.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The scribed skill pages are compiled in here once, for every reader.",
+    },
   ],
 } as const satisfies Module

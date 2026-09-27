@@ -4,7 +4,7 @@ export const characterCaptureSkillPages = {
   id: "01a0e062-b6c8-702c-b74f-ccc8ad13269d",
   type: "page-type/module",
   slug: "character-capture-skill-pages",
-  definition: "the skill, scribed skill and skill line pages an add-on compiles in, one list each",
+  definition: "the skill and skill line pages an add-on compiles in, one list each",
   code: "ts",
   decisions: [
     {
