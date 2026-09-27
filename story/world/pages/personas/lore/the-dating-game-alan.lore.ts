@@ -133,7 +133,7 @@ export const theDatingGameAlan = {
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
     },
     {
-      fact: "Alan owns physical copies of The Wandering Inn.",
+      fact: "Alan owns a one-of-a-kind Wandering Inn he made himself, leather-bound with gold leaf.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/the-dating-game-alan",
