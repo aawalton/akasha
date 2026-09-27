@@ -31,7 +31,10 @@ export const gameMaster = {
       name: "Mend The Beats",
       act: "Answer each issue on a turn the reviewers send back by changing the beats.",
       warrant: "The turn goes to the writer next, so an issue left unanswered reaches the prose.",
-      aids: ["Leave the beat as it is where the issue is wrong."],
+      aids: [
+        "Leave the beat as it is where the issue is wrong.",
+        "An issue only about the prose leaves the beats as they are and goes on to the writer.",
+      ],
     },
     {
       directiveKind: "directive-kind/rule",
