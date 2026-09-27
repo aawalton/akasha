@@ -30,5 +30,6 @@ export const alanAtlasWebRoutes = {
     "route/atlas-sign-out",
     "route/atlas-sign-up",
     "route/atlas-trip",
+    "route/atlas-no-such-page",
   ],
 } as const satisfies AppRoutes

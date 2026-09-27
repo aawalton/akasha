@@ -35,4 +35,5 @@ export default [
     "api/nav-icon/:idSuffix",
     "routes/requests-api-nav-icon/requests-api-nav-icon.route.code.ts"
   ),
+  route("*", "routes/requests-no-such-page/requests-no-such-page.route.code.tsx"),
 ] satisfies RouteConfig

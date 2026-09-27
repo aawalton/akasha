@@ -15,5 +15,6 @@ export const audhdalanWebRoutes = {
     "route/audhdalan-autcon-2026",
     "route/audhdalan-home",
     "route/audhdalan-safety-levels",
+    "route/audhdalan-no-such-page",
   ],
 } as const satisfies AppRoutes

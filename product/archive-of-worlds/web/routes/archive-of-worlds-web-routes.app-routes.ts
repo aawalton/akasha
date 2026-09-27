@@ -23,5 +23,6 @@ export const archiveOfWorldsWebRoutes = {
     "route/archive-of-worlds-sign-in",
     "route/archive-of-worlds-sign-out",
     "route/archive-of-worlds-sign-up",
+    "route/archive-of-worlds-no-such-page",
   ],
 } as const satisfies AppRoutes

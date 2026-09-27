@@ -13,6 +13,7 @@ import { errorScreenUnexpected } from "akasha/infrastructure/service/akasha-serv
 import { webPhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/web-phrase.page-type.ts"
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { isRouteErrorResponse, useRouteLoaderData } from "react-router"
+import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
 const ROOT = "root"
 
@@ -21,6 +22,10 @@ const READ = [webPhrase.slug]
 const NOT_FOUND = 404
 
 const NO_PHRASES: readonly SeededPhrase[] = []
+
+export function noSuchPage(): never {
+  throw new Response(null, { status: NOT_FOUND })
+}
 
 type Said = {
   readonly notFound?: string

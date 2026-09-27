@@ -4,6 +4,6 @@ export function loader(): never {
   return noSuchPage()
 }
 
-export default function JennyNoSuchPage() {
+export default function AlanWebNoSuchPage() {
   return null
 }

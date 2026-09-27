@@ -134,4 +134,5 @@ export default [
   ),
 
   route("api/*", "routes/no-such-route/no-such-route.route.code.ts"),
+  route("*", "routes/alan-web-no-such-page/alan-web-no-such-page.route.code.tsx"),
 ] satisfies RouteConfig

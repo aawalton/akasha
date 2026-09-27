@@ -38,4 +38,5 @@ export default [
     "api/locations/ingest",
     "routes/atlas-api-locations-ingest/atlas-api-locations-ingest.route.code.ts"
   ),
+  route("*", "routes/atlas-no-such-page/atlas-no-such-page.route.code.tsx"),
 ] satisfies RouteConfig

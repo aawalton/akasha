@@ -24,5 +24,6 @@ export const alanRequestsWebRoutes = {
     "route/requests-sign-out",
     "route/requests-sign-up",
     "route/requests-api-requests",
+    "route/requests-no-such-page",
   ],
 } as const satisfies AppRoutes

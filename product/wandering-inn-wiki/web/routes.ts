@@ -24,4 +24,5 @@ export default [
     "api/page-follow",
     "routes/innworld-api-page-follow/innworld-api-page-follow.route.code.ts"
   ),
+  route("*", "routes/innworld-no-such-page/innworld-no-such-page.route.code.tsx"),
 ] satisfies RouteConfig

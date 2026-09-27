@@ -70,6 +70,7 @@ export const alanWebRoutes = {
     "route/alan-web-api-shape",
     "route/action-bar",
     "route/stoplights-activity",
+    "route/alan-web-no-such-page",
   ],
   decisions: [
     {

@@ -20,5 +20,10 @@ export const webPhraseErrorScreen = {
       decisionKind: "decision-kind/departure",
       statement: "A site names the phrases it says for a missing page and a failure of its own.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An address no route answers is thrown not found by a route, so the root's loader runs.",
+    },
   ],
 } as const satisfies Module

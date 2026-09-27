@@ -16,5 +16,6 @@ export const wanderingInnWikiWebRoutes = {
     "route/innworld-home",
     "route/innworld-page-detail",
     "route/innworld-page-listing",
+    "route/innworld-no-such-page",
   ],
 } as const satisfies AppRoutes

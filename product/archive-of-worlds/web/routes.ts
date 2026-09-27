@@ -52,4 +52,5 @@ export default [
     "api/nav-icon/:idSuffix",
     "routes/archive-of-worlds-api-nav-icon/archive-of-worlds-api-nav-icon.route.code.ts"
   ),
+  route("*", "routes/archive-of-worlds-no-such-page/archive-of-worlds-no-such-page.route.code.tsx"),
 ] satisfies RouteConfig

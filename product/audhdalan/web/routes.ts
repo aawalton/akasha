@@ -16,4 +16,5 @@ export default [
     "api/page-follow",
     "routes/audhdalan-api-page-follow/audhdalan-api-page-follow.route.code.ts"
   ),
+  route("*", "routes/audhdalan-no-such-page/audhdalan-no-such-page.route.code.tsx"),
 ] satisfies RouteConfig
