@@ -14,3 +14,4 @@
 {"propertySlug":"import","fileName":"temper-rotation-breakdown-row.page-type.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/pages/tps.temper-rotation-breakdown-row.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-rotation-breakdown-row.page-type.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/pages/uptime.temper-rotation-breakdown-row.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/progress/temper-progress.domain.ts","id":"01a05fac-7582-726f-ac10-d5261c7e1f65"}
+{"propertySlug":"target-page-type","path":"temper/catalog/companion/base-role/properties/role-primary-breakdown-row.relation-property.ts","id":"01a0e115-3c24-76d2-92e2-d7349a1732e4"}

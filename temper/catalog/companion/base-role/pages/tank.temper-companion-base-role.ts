@@ -10,6 +10,7 @@ export const tank = {
   abbreviation: "T",
   displayOrder: 1,
   totalMetric: "temper-metric/companion-tps-total",
+  primaryBreakdownRow: "temper-rotation-breakdown-row/tps",
   validArmorWeights: ["heavy"],
   defaultTraitId: "vigorous",
   defaultMainHand: "sword",

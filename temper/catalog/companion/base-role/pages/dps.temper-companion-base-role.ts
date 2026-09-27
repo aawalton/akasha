@@ -10,6 +10,7 @@ export const dps = {
   abbreviation: "D",
   displayOrder: 0,
   totalMetric: "temper-metric/companion-dps-total",
+  primaryBreakdownRow: "temper-rotation-breakdown-row/dpc",
   validArmorWeights: ["medium"],
   defaultTraitId: "aggressive",
   defaultWeaponRoleIds: [

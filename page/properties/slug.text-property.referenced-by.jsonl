@@ -259,6 +259,7 @@
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/armor-piece/properties/piece-armor-weight.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/armor-weight/properties/armor-passive.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/armor-weight/properties/armor-skill-line.relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/base-role/properties/role-primary-breakdown-row.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/base-role/properties/role-total-metric.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/skill/properties/companion-skill-line.relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slug.text-property.types.ts","path":"temper/catalog/companion/skill/properties/special-effect.relation-property.types.ts","typed":true,"deferred":false}

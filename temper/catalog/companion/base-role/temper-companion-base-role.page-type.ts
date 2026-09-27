@@ -17,6 +17,7 @@ export const temperCompanionBaseRole = {
     "text-property/default-off-hand",
     "text-property/default-weapon-role-ids",
     "change-generator/base-roles-keeping",
+    "relation-property/role-primary-breakdown-row",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -51,6 +52,7 @@ export const temperCompanionBaseRole = {
       many: true,
       maxCount: null,
     },
+    { pageProperty: "relation-property/role-primary-breakdown-row", required: false, many: false },
   ],
   decisions: [
     {

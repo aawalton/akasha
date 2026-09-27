@@ -4,6 +4,7 @@ import type { DefaultMainHand } from "akasha/temper/catalog/companion/base-role/
 import type { DefaultOffHand } from "akasha/temper/catalog/companion/base-role/properties/default-off-hand.text-property.types.ts"
 import type { DefaultTraitId } from "akasha/temper/catalog/companion/base-role/properties/default-trait-id.text-property.types.ts"
 import type { DefaultWeaponRoleIds } from "akasha/temper/catalog/companion/base-role/properties/default-weapon-role-ids.text-property.types.ts"
+import type { RolePrimaryBreakdownRow } from "akasha/temper/catalog/companion/base-role/properties/role-primary-breakdown-row.relation-property.types.ts"
 import type { RoleTotalMetric } from "akasha/temper/catalog/companion/base-role/properties/role-total-metric.relation-property.types.ts"
 import type { ValidArmorWeights } from "akasha/temper/catalog/companion/base-role/properties/valid-armor-weights.text-property.types.ts"
 import type { ValidTraitIds } from "akasha/temper/catalog/companion/base-role/properties/valid-trait-ids.text-property.types.ts"
@@ -25,4 +26,5 @@ export type TemperCompanionBaseRole = TemperCompanionThing & {
   defaultMainHand?: DefaultMainHand
   defaultOffHand?: DefaultOffHand
   defaultWeaponRoleIds?: DefaultWeaponRoleIds
+  primaryBreakdownRow?: RolePrimaryBreakdownRow
 }

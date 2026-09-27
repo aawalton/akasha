@@ -10,6 +10,7 @@ export const healer = {
   abbreviation: "H",
   displayOrder: 2,
   totalMetric: "temper-metric/companion-hps-total",
+  primaryBreakdownRow: "temper-rotation-breakdown-row/hpc",
   validArmorWeights: ["light"],
   defaultTraitId: "soothing",
   defaultMainHand: "restoration-staff",
