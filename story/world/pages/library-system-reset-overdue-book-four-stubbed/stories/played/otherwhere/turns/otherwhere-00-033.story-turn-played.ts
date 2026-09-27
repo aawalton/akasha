@@ -7,8 +7,18 @@ export const otherwhere00033 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 33,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“Okay, we’ll start there.” I quietly go back and get the cooler and collect the dormant bookworms, the start spring books back onto the shelves, taking care to listen for the large bookworm and stay far away from it.",
+  beats: [
+    '"Okay, we\'ll start there," Nala says.',
+    "In the break room she empties the dead cooler, a knee-high chest, and drags it out into the hall.",
+    "She keeps well out from the back steps, listening, but no roar comes from the dark.",
+    "The coils weigh a few pounds each; she carries them two at a time and packs all five in.",
+    "She drags the loaded cooler back to the break room and shuts its lid on them.",
+    "A tone rings through the hall, and the alarm she'd stopped hearing falls silent.",
+    "A window opens in her vision: Status: Emergency Power Mode Ended. Power: 27%. Kitchen: Waking.",
+    "Somewhere off the hall, doors unseal with a long sigh.",
+  ],
   lore: ["place/otherwhere-main-hall", "place/otherwhere-hall-back"],
 } as const satisfies StoryTurnPlayed
