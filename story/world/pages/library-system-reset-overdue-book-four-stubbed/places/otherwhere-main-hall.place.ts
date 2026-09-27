@@ -91,6 +91,10 @@ export const otherwhereMainHall = {
       fact: "A break room off the hall holds a dead magical cooler and overgrown terrarium gardens.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Links hands a newcomer a broom as her first weapon against the bookworms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
