@@ -5,6 +5,8 @@ export const seaGiant = {
   type: "page-type/temper-motif-style",
   slug: "sea-giant",
   title: "Sea Giant",
+  esoItemStyleId: 102,
+  styleName: "Sea Giant",
   collectionIndex: 71,
   sourceDescription: "Kyne's Aegis trial",
 } as const satisfies TemperMotifStyle
