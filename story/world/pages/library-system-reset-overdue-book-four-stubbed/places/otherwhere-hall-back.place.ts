@@ -296,7 +296,15 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala holds the broom-chewing bookworm by the neck in salted fists; weakened, it still thrashes.",
+      fact: "Pinned under Nala's weight in the salt, the broom-chewing bookworm dried into a hard grey coil.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Two dried bookworm coils lie in the broken remains of Nala's salt oval.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Further back in the gloom beyond the columns, wet chewing still goes on.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
