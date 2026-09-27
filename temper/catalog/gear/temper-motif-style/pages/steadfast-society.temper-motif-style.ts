@@ -5,6 +5,8 @@ export const steadfastSociety = {
   type: "page-type/temper-motif-style",
   slug: "steadfast-society",
   title: "Steadfast Society",
+  esoItemStyleId: 131,
+  styleName: "Steadfast Society",
   collectionIndex: 97,
   sourceDescription: "WB dailies (High Isle)",
   dropSources: [
