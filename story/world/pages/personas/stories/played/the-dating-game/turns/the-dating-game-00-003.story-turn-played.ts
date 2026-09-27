@@ -4,7 +4,7 @@ export const theDatingGame00003 = {
   id: "01a0e2f3-f40b-7df7-83f1-a6ec0ec9ab62",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-003",
-  ownLength: 231,
+  ownLength: 215,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 3,
@@ -29,7 +29,6 @@ export const theDatingGame00003 = {
     "They start up together, gravel crunching, the creek talking low beside them.",
     "The climbers' voices fall away behind the bend.",
     "She walks close at his shoulder and keeps glancing at him, bright-eyed.",
-    "Since he spoke, every word she has said was one of his, and she is plainly waiting for more.",
   ],
   issues: [
     '"Every word she has said so far was one of his" - her first word, "Take," was the climber\'s',
