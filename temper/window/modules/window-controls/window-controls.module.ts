@@ -32,10 +32,7 @@ export const windowControls = {
       statement:
         "A control pointed at is lit by its text color at 0.08, pressed or chosen at 0.12.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A disabled control is shown at 0.38 and takes no pointer.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Lighting a control is a named handler, so a handler the window sets is kept.",

@@ -52,8 +52,6 @@ const SLIDER_THUMB_SIZE = 16
 
 const ACCENT_FILL = 0.15
 
-const DISABLED = 0.38
-
 const DROPDOWN_ARROW = 0.5
 
 const CHEVRON = "Temper/bin/textures/chevron-down.dds"
@@ -197,12 +195,6 @@ export function buildButton(
   const width = (button.GetLabelControl()?.GetTextWidth() ?? 0) + CONTROL_PADDING_X * 2
   button.SetDimensions(width, CONTROL_HEIGHT)
   return button
-}
-
-export function setControlEnabled(control: Control, enabled: boolean): undefined {
-  control.SetAlpha(enabled ? OPAQUE : DISABLED)
-  control.SetMouseEnabled(enabled)
-  return undefined
 }
 
 export function styleTab(tab: Control): Control {
