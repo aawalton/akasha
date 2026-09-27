@@ -7,7 +7,22 @@ export const theDatingGame00013 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 13,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "\"Really? I've read the first six books there, but I can't understand why they're so popular. What do you like about it? I've gotta go with The Wandering Inn. I mean, 16 million words and it still is constantly surprising me, nothing else I've read even comes close.\"",
+  beats: [
+    "Alan: \"Really? I've read the first six books there, but I can't understand why they're so popular.\"",
+    '"What do you like about it?"',
+    '"I\'ve gotta go with The Wandering Inn. I mean, 16 million words"',
+    '"and it still is constantly surprising me, nothing else I\'ve read even comes close."',
+    "Echo laughs, soundless, at his puzzlement over Carl, and doesn't look the least offended.",
+    'She touches her fingertips to her throat, and gives him her answer in two words: "The voices."',
+    "Then she shows him, running through a handful in a breath each, all different.",
+    "A gravel-throated dwarf, a haughty purr of a cat, a bright chirpy game announcer.",
+    "Each is so distinct it's as if other people have stepped onto the trail and gone again.",
+    "She drops back into her own warm voice, grinning, a narrator's pleasure plain on her.",
+    'At "16 million words" her eyes go wide, and she gives the number back, awed: "16 million words."',
+    "She blows out a breath and laughs, as if weighing how long that would take to read aloud.",
+    'Then she looks sidelong at him: "Constantly surprising," she says, and it isn\'t about the book.',
+  ],
 } as const satisfies StoryTurnPlayed
