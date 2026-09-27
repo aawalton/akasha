@@ -4,7 +4,7 @@ export const otherwhere00027 = {
   id: "01a0e501-8556-776a-8ecb-f68094bd3052",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-027",
-  ownLength: 108,
+  ownLength: 91,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 27,
@@ -15,7 +15,7 @@ export const otherwhere00027 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/writer",
+  turnStatus: "turn-status/recorders",
   action:
     "“Do you have some kind of magical healing for me, or do I need to do this the hard way?”",
   beats: [
