@@ -49,6 +49,11 @@
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/form-something-wrong.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/innworld-error-not-found.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/innworld-error-went-wrong.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/page-detail-could-not-load.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/page-detail-interrupted.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/page-detail-sometimes-temporary.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/page-detail-try-again.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/page-detail-went-wrong.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/sms-opt-in-and-our.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/sms-opt-in-consent-missing.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/sms-opt-in-invalid-number.web-phrase.ts","typed":true,"deferred":false}
