@@ -11,6 +11,9 @@ import {
   AlertDialogHeader,
   AlertDialogTitle,
 } from "akasha/design/interface/primitive/modules/alert-dialog/alert-dialog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryResetBadgeCancel } from "akasha/temper/web/phrase/pages/inventory-reset-badge-cancel.temper-web-phrase.ts"
+import { inventoryResetBadgeReset } from "akasha/temper/web/phrase/pages/inventory-reset-badge-reset.temper-web-phrase.ts"
 import { useState } from "react"
 
 export function ResetBadge({
@@ -23,6 +26,8 @@ export function ResetBadge({
   onReset: () => void
 }) {
   const [open, setOpen] = useState(false)
+  const phrase = usePhrase()
+  const reset = phrase(inventoryResetBadgeReset.slug)
 
   return (
     <AlertDialog open={open} onOpenChange={setOpen}>
@@ -34,7 +39,7 @@ export function ResetBadge({
           setOpen(true)
         }}
       >
-        Reset
+        {reset}
       </ButtonBadge>
       <AlertDialogContent>
         <AlertDialogHeader>
@@ -43,9 +48,9 @@ export function ResetBadge({
         </AlertDialogHeader>
         <AlertDialogFooter>
           <AlertDialogAction variant="destructive" onClick={onReset}>
-            Reset
+            {reset}
           </AlertDialogAction>
-          <AlertDialogCancel>Cancel</AlertDialogCancel>
+          <AlertDialogCancel>{phrase(inventoryResetBadgeCancel.slug)}</AlertDialogCancel>
         </AlertDialogFooter>
       </AlertDialogContent>
     </AlertDialog>
