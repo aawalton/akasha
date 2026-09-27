@@ -180,6 +180,14 @@ export const otherwhereCoreChamber = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Links told Nala that leaving Emergency Power Mode stops the alarm.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
       fact: "The panel read: Librarian Link: Tentative",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
