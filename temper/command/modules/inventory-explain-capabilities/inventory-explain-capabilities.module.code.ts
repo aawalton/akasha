@@ -24,6 +24,7 @@ type LocationConditionId = ReturnType<typeof locationConditionFromKeyAndBag>
 export interface ResolvedInventoryItem {
   readonly item: InventoryItemData
   readonly location: LocationConditionId
+  readonly locationKey: string
 }
 
 export interface ExplainCapabilities {
@@ -69,6 +70,7 @@ function findResolvedItemInLocation(
         return {
           item,
           location: caps.locationConditionFromKeyAndBag(locationKey, Number(bagId)),
+          locationKey,
         }
       }
     }
@@ -105,7 +107,7 @@ export function allBagItems(
     for (const [bagId, bag] of Object.entries(location.bags)) {
       const resolvedLocation = caps.locationConditionFromKeyAndBag(locationKey, Number(bagId))
       for (const item of Object.values(bag)) {
-        out.push({ item, location: resolvedLocation })
+        out.push({ item, location: resolvedLocation, locationKey })
       }
     }
   }

@@ -37,6 +37,14 @@ export const temperInventoryExplain = {
       decisionKind: "decision-kind/departure",
       statement: "The junk state the scan captured is carried into the account of the item.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A use by priority names the character the addon allocates the scanned stack to.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That allocation counts the copies every other scan holds, as the addon does.",
+    },
   ],
   name: "explain",
   arguments: [

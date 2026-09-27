@@ -28,7 +28,10 @@ import {
   resolveItemFromInventory,
 } from "akasha/temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts"
 import { savedVarsFile } from "akasha/temper/eso/path/modules/eso-paths-resolve/eso-paths-resolve.module.code.ts"
-import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type {
+  InventoryDatabase,
+  InventoryItemData,
+} from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import {
   formatExplainWalk,
   ITEM_RULE_TRACE_INDEX,
@@ -37,7 +40,18 @@ import {
   type RuleTraceRow,
   type TtcBreakdown,
 } from "akasha/temper/items/modules/explain-walk/explain-walk.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import {
+  copyHolderOfLocation,
+  planUseDestinationsForStack,
+} from "akasha/temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
+import {
+  type CharacterId,
+  characterId,
+  type UseDestinationContext,
+  type UseStackHolding,
+} from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import type {
   IndeterminateReason,
   RejectionReason,
@@ -61,6 +75,10 @@ const INVENTORY_LUA = "TemperItems.lua"
 const CHARACTERS_LUA = "TemperCharacters.lua"
 
 const MASTER = "master"
+
+const USE = "use"
+
+const BY_PRIORITY = "character:by-priority"
 
 const ITEM_RULE_CATEGORY_SAID = "(item rule)"
 
@@ -245,7 +263,74 @@ async function walkedFor(
     env
   )
   const trace = caps.walkRules(config.orderedRules, facts, { env, stockGroupByRuleId })
-  return { ...head, perRule: trace.perRule.map(rowOf), outcome: outcomeOf(trace.outcome) }
+  const outcome = allocatedOutcome(outcomeOf(trace.outcome), trace.outcome, facts, {
+    rules: config.orderedRules,
+    env,
+    db,
+    resolved,
+  })
+  return { ...head, perRule: trace.perRule.map(rowOf), outcome }
+}
+
+function copiesElsewhere(
+  db: InventoryDatabase,
+  resolved: ResolvedInventoryItem,
+  heldInStorage: boolean
+): UseStackHolding["elsewhere"] {
+  const elsewhere: { holder: CharacterId | undefined; count: number }[] = []
+  for (const [locationKey, location] of Object.entries(db.locations)) {
+    if (locationKey === resolved.locationKey) continue
+    const holder = copyHolderOfLocation(locationKey)
+    if (holder === null || (holder === undefined && heldInStorage)) continue
+    for (const bag of Object.values(location.bags)) {
+      for (const one of Object.values(bag)) {
+        if (one.itemId === resolved.item.itemId) elsewhere.push({ holder, count: one.stackCount })
+      }
+    }
+  }
+  return elsewhere
+}
+
+function allocatedOutcome(
+  outcome: OutcomeJson,
+  traced: WalkOutcome,
+  facts: ItemFacts,
+  over: {
+    readonly rules: ReadonlyArray<CompiledOrderedRule>
+    readonly env: ReturnType<ExplainCapabilities["buildCliEvalEnv"]>
+    readonly db: InventoryDatabase
+    readonly resolved: ResolvedInventoryItem
+  }
+): OutcomeJson {
+  if (traced.kind !== "matched" || traced.action !== USE) return outcome
+  if (over.rules[traced.rule.index]?.destination !== BY_PRIORITY) return outcome
+  const itemKey = facts.itemKey
+  if (itemKey === undefined || itemKey.kind === "consumable") return outcome
+  const priority = over.env.getCharacterPriority()
+  if (priority === "unknown" || outcome.destination === null) return outcome
+  const env = over.env
+  const ctx: UseDestinationContext = {
+    characterPriority: priority.map((one) => characterId(one)),
+    knowsItem: (charId, key) => env.isKnownByCharacter(key, charId) !== false,
+    knownChapterCountForStyle: (charId, styleId) => {
+      const count = env.getKnownChapterCountForStyle(charId, styleId)
+      return count === "unknown" ? 0 : count
+    },
+  }
+  const holder = copyHolderOfLocation(over.resolved.locationKey) ?? undefined
+  const allocated = planUseDestinationsForStack(
+    itemKey,
+    over.resolved.item.stackCount,
+    ctx,
+    new Map(),
+    undefined,
+    { holder, elsewhere: copiesElsewhere(over.db, over.resolved, holder === undefined) }
+  )
+  const first = allocated[0]
+  if (first === undefined) return outcome
+  const destination = `character:${first}`
+  const label = outcome.label?.replace(outcome.destination, destination) ?? null
+  return { ...outcome, destination, label }
 }
 
 export async function temperInventoryExplain(
