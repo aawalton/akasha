@@ -83,8 +83,8 @@ export function FrameStickyHeader({
           {titleNode}
         </h1>
         <div className="flex h-8 min-w-8 items-center justify-end gap-1">
-          <span ref={actionAt} className="contents" />
           {header.menu}
+          <span ref={actionAt} className="contents" />
         </div>
       </div>
       {}
