@@ -96,6 +96,14 @@ export const otherwhereLinks = {
       fact: "Links has not had anyone to talk to for centuries, and forgets how to talk to people.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Seeing Nala's bitten arm, Links told her she was bleeding on his floor, quieter than usual.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
