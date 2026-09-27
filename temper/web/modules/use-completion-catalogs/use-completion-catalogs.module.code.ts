@@ -1,6 +1,7 @@
 "use client"
 
 import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
+import { followChanges } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import {
   type CompletionCatalogs,
   completionCatalogsFrom,
@@ -24,16 +25,28 @@ function rowsOf(pageType: string): Promise<readonly Record<string, unknown>[]> {
 
 export function useCompletionCatalogs(): { catalogs: CompletionCatalogs; isLoading: boolean } {
   const [catalogs, setCatalogs] = useState<CompletionCatalogs | null>(null)
+  const [readings, setReadings] = useState(0)
+  const answered = catalogs !== null
 
   useEffect(() => {
     let watching = true
-    void completionCatalogsFrom(rowsOf).then((answered) => {
-      if (watching) setCatalogs(answered)
+    void completionCatalogsFrom(rowsOf).then((read) => {
+      if (watching) setCatalogs(read)
     })
     return () => {
       watching = false
     }
-  }, [])
+  }, [readings])
+
+  useEffect(() => {
+    if (!answered) return
+    const asked = [...held.keys()]
+    return followChanges(asked, () => {
+      for (const pageType of asked) held.delete(pageType)
+      setReadings((count) => count + 1)
+      return undefined
+    })
+  }, [answered])
 
   return { catalogs: catalogs ?? NO_COMPLETION_CATALOGS, isLoading: catalogs === null }
 }

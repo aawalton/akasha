@@ -9,11 +9,11 @@ export const useCompletionCatalogs = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A catalog changes when the game does rather than while a reader is looking.",
+      statement: "A catalog is held in this module and asked for again only once its pages change.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A catalog is asked for once a browser session and held in this module.",
+      statement: "The catalogs last read stay shown while they are read again.",
     },
     {
       decisionKind: "decision-kind/departure",
