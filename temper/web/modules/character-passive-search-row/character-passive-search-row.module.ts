@@ -1,10 +1,10 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const characterEditorContent = {
-  id: "01a06589-8d61-7000-ba09-7e4fd000c64c",
+export const characterPassiveSearchRow = {
+  id: "01a0e2aa-ae30-7406-861c-b8922b51276c",
   type: "page-type/module",
-  slug: "character-editor-content",
-  definition: "the body of the character editor",
+  slug: "character-passive-search-row",
+  definition: "the search and category filter over the passives the character editor lists",
   code: "tsx",
   decisions: [
     {

@@ -1,15 +1,11 @@
 "use client"
 
-import { BadgeToggleGroup } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { COLUMN_WIDTH } from "akasha/design/interface/layout/modules/layout-data/layout-data.module.code.ts"
 import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { PageTabHeader } from "akasha/design/interface/layout/modules/page-tab-header/page-tab-header.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { editorPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import { useColumnCount } from "akasha/design/interface/layout/modules/use-column-count/use-column-count.module.code.tsx"
-import { FilterButton } from "akasha/design/interface/pattern/modules/filter-button/filter-button.module.code.tsx"
-import { SearchButton } from "akasha/design/interface/pattern/modules/search-button/search-button.module.code.tsx"
-import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { Tabs } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { uuidVersion7 } from "akasha/page/id/modules/uuid-version-7/uuid-version-7.module.code.ts"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
@@ -23,6 +19,7 @@ import {
 import { extractCharacterMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { CharacterEditorHeader } from "akasha/temper/web/modules/character-editor-header/character-editor-header.module.code.tsx"
 import { CharacterEditorTabsList } from "akasha/temper/web/modules/character-editor-tabs-list/character-editor-tabs-list.module.code.tsx"
+import { CharacterPassiveSearchRow } from "akasha/temper/web/modules/character-passive-search-row/character-passive-search-row.module.code.tsx"
 import { ClassChangeConfirmationDialog } from "akasha/temper/web/modules/class-change-confirmation-dialog/class-change-confirmation-dialog.module.code.tsx"
 import { EDITOR_TAB_LABELS } from "akasha/temper/web/modules/editor-tab-labels/editor-tab-labels.module.code.ts"
 import { EditorTabPanels } from "akasha/temper/web/modules/editor-tab-panels/editor-tab-panels.module.code.tsx"
@@ -38,13 +35,13 @@ import {
 } from "akasha/temper/web/modules/use-character/use-character.module.code.ts"
 import { useClassChangeWithContext } from "akasha/temper/web/modules/use-class-change/use-class-change.module.code.ts"
 import { usePartnerBuildUrl } from "akasha/temper/web/modules/use-partner-build-url/use-partner-build-url.module.code.ts"
-import {
-  PASSIVE_CATEGORY_FILTER_ITEMS,
-  usePassiveFilter,
-} from "akasha/temper/web/modules/use-passive-filter/use-passive-filter.module.code.ts"
+import { usePassiveFilter } from "akasha/temper/web/modules/use-passive-filter/use-passive-filter.module.code.ts"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import { useSetTargetEntities } from "akasha/temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts"
 import { useStatChangeNotifications } from "akasha/temper/web/modules/use-stat-change-notifications/use-stat-change-notifications.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { characterEditorContentCopyName } from "akasha/temper/web/phrase/pages/character-editor-content-copy-name.temper-web-phrase.ts"
+import { characterEditorContentRemixFailed } from "akasha/temper/web/phrase/pages/character-editor-content-remix-failed.temper-web-phrase.ts"
 import { useCompletionCharacters } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
@@ -68,19 +65,25 @@ export function CharacterEditorContent({ initialTab }: BuildEditorContentProps) 
   } = useCharacterMetadata()
   const { remix } = useCharacterLifecycle()
   const [isRemixing, setIsRemixing] = useState(false)
+  const phrase = usePhrase()
 
   const handleRemix = async () => {
     if (isRemixing) return
     setIsRemixing(true)
     try {
-      const remixedBuild = { ...build, name: `${build.name} (Copy)` }
+      const remixedBuild = {
+        ...build,
+        name: phrase(characterEditorContentCopyName.slug, { name: build.name }),
+      }
       const newBuildHash = encodeBuild(remixedBuild)
       const newBuildMetadata = extractCharacterMetadata(remixedBuild)
       const newId = uuidVersion7()
       await remix({ sourceId: buildId, newId, newBuildHash, newBuildMetadata })
       router.push(`${characterUrl(toBuildId(newId), remixedBuild.name)}?tab=general`)
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to remix build")
+      toast.error(
+        error instanceof Error ? error.message : phrase(characterEditorContentRemixFailed.slug)
+      )
     } finally {
       setIsRemixing(false)
     }
@@ -103,14 +106,8 @@ export function CharacterEditorContent({ initialTab }: BuildEditorContentProps) 
   const [underConstructionFeature, setUnderConstructionFeature] = useState<string | null>(null)
   const [activeStatsTab, setActiveStatsTab] = useState<"primary" | "backup">("primary")
 
-  const {
-    passiveSearch,
-    setPassiveSearch,
-    passiveCategory,
-    hasActivePassiveFilters,
-    handlePassiveReset,
-    handlePassiveCategorySelect,
-  } = usePassiveFilter()
+  const passiveFilter = usePassiveFilter()
+  const { passiveSearch, passiveCategory } = passiveFilter
 
   const { isAuthenticated } = usePlayer()
   const { characters: completionCharacters } = useCompletionCharacters()
@@ -222,33 +219,7 @@ export function CharacterEditorContent({ initialTab }: BuildEditorContentProps) 
             >
               {}
               {activeTab === "skills" ? (
-                <SearchSortFilterRow
-                  hasActiveFilters={hasActivePassiveFilters}
-                  onReset={handlePassiveReset}
-                >
-                  <SearchButton
-                    value={passiveSearch}
-                    onChange={setPassiveSearch}
-                    placeholder="Search passives..."
-                  />
-                  <FilterButton
-                    hasActiveFilters={passiveCategory !== null}
-                    popoverClassName="max-w-panel"
-                  >
-                    <div className="flex flex-col gap-2">
-                      <div className="font-medium text-sm">Category</div>
-                      <BadgeToggleGroup
-                        items={PASSIVE_CATEGORY_FILTER_ITEMS}
-                        value={
-                          passiveCategory != null ? [{ value: passiveCategory, label: "" }] : []
-                        }
-                        onSelect={handlePassiveCategorySelect}
-                        unselectedVariant="elevation-muted"
-                        wrap
-                      />
-                    </div>
-                  </FilterButton>
-                </SearchSortFilterRow>
+                <CharacterPassiveSearchRow filter={passiveFilter} />
               ) : undefined}
             </PageTabHeader>
             {(() => {
