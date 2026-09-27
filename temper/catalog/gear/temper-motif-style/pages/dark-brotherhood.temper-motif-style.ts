@@ -6,6 +6,7 @@ export const darkBrotherhood = {
   slug: "dark-brotherhood",
   title: "Dark Brotherhood",
   esoItemStyleId: 12,
+  styleName: "Dark Brotherhood",
   collectionIndex: 28,
   sourceDescription: "Sacrament quests (Gold Coast)",
 } as const satisfies TemperMotifStyle
