@@ -15,5 +15,9 @@ export const pageCover = {
       decisionKind: "decision-kind/departure",
       statement: "No cover is nothing at all.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cover drawn at a known width asks for its image at that width.",
+    },
   ],
 } as const satisfies Module

@@ -3,6 +3,7 @@ import { asPage } from "akasha/page/core/modules/page-types/page-types.module.co
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
 import {
+  COVER_WIDTH_ASKED,
   characterSlugsIn,
   latestTurnId,
   personaCoversOf,
@@ -57,15 +58,24 @@ test("each character who is a persona gives her, in the order the turn names the
   expect(personaSlugsOf(["a", "b", "c"], rows)).toEqual(["one", "two"])
 })
 
-test("each persona named is drawn by her cover, in the order the turn names her", () => {
+test("each persona named is drawn by her cover at twice the panel's width, in the order the turn names her", () => {
   const rows = [
     row({ slug: "two", cover: "image/image-b" }),
     row({ slug: "one", cover: "image/image-a" }),
   ]
   expect(personaCoversOf(["one", "two"], rows)).toEqual([
-    { slug: "one", name: "One", source: "/api/page-file/image/image-a/bytes" },
-    { slug: "two", name: "Two", source: "/api/page-file/image/image-b/bytes" },
+    {
+      slug: "one",
+      name: "One",
+      source: `/api/page-file/image/image-a/bytes?w=${COVER_WIDTH_ASKED}`,
+    },
+    {
+      slug: "two",
+      name: "Two",
+      source: `/api/page-file/image/image-b/bytes?w=${COVER_WIDTH_ASKED}`,
+    },
   ])
+  expect(COVER_WIDTH_ASKED).toBe(536)
 })
 
 test("a persona is named in title case from her slug", () => {

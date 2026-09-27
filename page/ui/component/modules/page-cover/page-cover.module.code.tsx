@@ -8,11 +8,12 @@ import { ImagePlus } from "lucide-react"
 
 const IMAGE_OPENS = "image/"
 
-export function coverSource(cover: unknown): string | null {
+export function coverSource(cover: unknown, width?: number): string | null {
   if (typeof cover !== "string" || !cover.startsWith(IMAGE_OPENS)) return null
   const slug = cover.slice(IMAGE_OPENS.length)
   if (slug.length === 0) return null
-  return `/api/page-file/image/${encodeURIComponent(slug)}/bytes`
+  const whole = `/api/page-file/image/${encodeURIComponent(slug)}/bytes`
+  return width === undefined ? whole : `${whole}?w=${Math.ceil(width)}`
 }
 
 export function PageCover({ coverUrl }: { coverUrl: string | null }) {

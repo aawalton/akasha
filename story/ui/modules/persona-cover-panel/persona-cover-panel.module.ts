@@ -29,5 +29,9 @@ export const personaCoverPanel = {
       decisionKind: "decision-kind/departure",
       statement: "Nothing is read for a step whose names the step before has not given.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A cover is asked for at twice the width the panel draws it.",
+    },
   ],
 } as const satisfies Module

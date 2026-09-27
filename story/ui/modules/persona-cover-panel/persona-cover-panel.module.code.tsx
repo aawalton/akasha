@@ -32,6 +32,12 @@ const COVER_KEY = "cover"
 
 const ONE = 1
 
+const DRAWN_WIDTH = 268
+
+const DENSITY = 2
+
+export const COVER_WIDTH_ASKED = DRAWN_WIDTH * DENSITY
+
 function inList(keyed: string): readonly string[] {
   return keyed === "" ? [] : keyed.split(" ")
 }
@@ -84,7 +90,7 @@ export function personaCoversOf(
   for (const slug of slugs) {
     const row = rows.find((one) => one.slug === slug)
     if (row === undefined) continue
-    const source = coverSource(row[COVER_KEY])
+    const source = coverSource(row[COVER_KEY], COVER_WIDTH_ASKED)
     if (source === null) continue
     held.push({ slug, name: titledAs(slug), source })
   }
