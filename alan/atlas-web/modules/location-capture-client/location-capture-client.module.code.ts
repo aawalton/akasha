@@ -173,7 +173,9 @@ async function flush(): Promise<void> {
   }
 }
 
-export async function startLocationCapture(): Promise<void> {
+export type CaptureNotice = { readonly title: string; readonly message: string }
+
+export async function startLocationCapture(notice: CaptureNotice): Promise<void> {
   if (!Capacitor.isNativePlatform()) return
   if (started) return
   started = true
@@ -191,8 +193,8 @@ export async function startLocationCapture(): Promise<void> {
 
     await geolocation.start(
       {
-        backgroundTitle: "Atlas is recording your route",
-        backgroundMessage: "Location is used to build your travel map. Tap to open Atlas.",
+        backgroundTitle: notice.title,
+        backgroundMessage: notice.message,
         requestPermissions: true,
         stale: false,
         distanceFilter: DISTANCE_FILTER_M,

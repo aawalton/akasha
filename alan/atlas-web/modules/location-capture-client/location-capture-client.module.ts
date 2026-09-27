@@ -32,5 +32,14 @@ export const locationCaptureClient = {
       decisionKind: "decision-kind/departure",
       statement: "Each point the ingest route refused is logged whole with why it was refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The notice the phone shows while capturing is handed in by the one starting capture.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "The phone keeps the notice capture started with until capture starts again.",
+    },
   ],
 } as const satisfies Module
