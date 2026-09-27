@@ -17,7 +17,7 @@ export const otherwhere00030 = {
     "character-other/otherwhere-engorged-bookworm-05",
     "character-other/otherwhere-engorged-bookworm-06",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I wait until this one stops moving, then I repeat the process for the last small one",
   beats: [
     "Nala stays on the pinned bookworm until it shudders and dries into a hard grey coil, alive.",
@@ -31,5 +31,5 @@ export const otherwhere00030 = {
     "The heap is nearly gone beneath it, bare floor showing through, and it is not yet dry.",
   ],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
