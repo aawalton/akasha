@@ -300,7 +300,7 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
     >
       <PageLayout loading={isLoading} skeleton={simplePageSkeleton({ titleWidth: 160 })}>
         {page != null && <title>{pageName(data)}</title>}
-        <PageLayout.Content className="max-w-[710px]!">
+        <PageLayout.Content className="max-w-[710px]! pt-3 min-[584px]:pt-6">
           <div className="flex flex-col gap-4 pb-6">
             <h1 className={titleClasses}>{pageName(data)}</h1>
             <Conversation heard={heard} />

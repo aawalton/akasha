@@ -64,9 +64,11 @@ import {
 import { usePlayedProse } from "akasha/story/world/stories/played/modules/prose-beside/prose-beside.module.code.ts"
 import { type ReactNode, type RefCallback, useEffect, useMemo, useState } from "react"
 
-const WIDE_PAGE = "mx-auto flex w-full max-w-[1100px] flex-col gap-6 px-6 pt-6 pb-12"
+const WIDE_PAGE =
+  "mx-auto flex w-full max-w-[1100px] flex-col gap-6 px-6 pt-3 pb-12 min-[584px]:pt-6"
 
-const NARROW_PAGE = "mx-auto flex w-full max-w-[820px] flex-col gap-6 px-6 pt-6 pb-12"
+const NARROW_PAGE =
+  "mx-auto flex w-full max-w-[820px] flex-col gap-6 px-6 pt-3 pb-12 min-[584px]:pt-6"
 
 const RUN_WITH_PANELS = "grid grid-cols-1 gap-6 lg:grid-cols-[1fr_300px]"
 
