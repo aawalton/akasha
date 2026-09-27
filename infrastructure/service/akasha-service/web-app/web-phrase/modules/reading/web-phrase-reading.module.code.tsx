@@ -39,14 +39,20 @@ function titlesFrom(rows: readonly Value[]): ReadonlyMap<string, string> {
   return read
 }
 
+function seededTitles(seed: readonly SeededPhrase[]): ReadonlyMap<string, string> {
+  return new Map(seed.map((one) => [one.slug, one.title]))
+}
+
+export function useSeededPhrase(): Phrase {
+  const seed = useContext(Seeded)
+  return useMemo(() => phrasingOf(seededTitles(seed)), [seed])
+}
+
 export function usePhrase(): Phrase {
   const pages = usePages({ pageTypeSlug: webPhrase.slug, limit: EVERY })
   const seed = useContext(Seeded)
   const phrase = useMemo<Phrase>(
-    () =>
-      phrasingOf(
-        pages.isLoading ? new Map(seed.map((one) => [one.slug, one.title])) : titlesFrom(pages.rows)
-      ),
+    () => phrasingOf(pages.isLoading ? seededTitles(seed) : titlesFrom(pages.rows)),
     [pages.isLoading, pages.rows, seed]
   )
   if (pages.error !== null) throw pages.error

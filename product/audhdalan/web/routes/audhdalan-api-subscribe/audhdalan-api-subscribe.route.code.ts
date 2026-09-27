@@ -1,3 +1,10 @@
+import {
+  type Phrase,
+  phrasingRead,
+} from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
+import { subscribeInvalidBody } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-invalid-body.web-phrase.ts"
+import { subscribeInvalidEmail } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-invalid-email.web-phrase.ts"
+import { subscribeUnkept } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-unkept.web-phrase.ts"
 import { nameFaultIn } from "akasha/page/modules/export-name/page-export-name.module.code.ts"
 import { slugOf } from "akasha/page/naming/folding/modules/slug-of/slug-of.module.code.ts"
 import { STEM_CEILING } from "akasha/page/naming/named-for/modules/page-stem/page-stem.module.code.ts"
@@ -24,8 +31,6 @@ const HASH_HEX = 16
 
 const HIDDEN = "<subscriber>"
 
-const UNKEPT = "Your address could not be kept just now. Please try again later."
-
 export type Road = {
   readonly read: (pages: Parameters<typeof readPages>[0]) => ReturnType<typeof readPages>
   readonly write: (
@@ -33,11 +38,18 @@ export type Road = {
     writer: string,
     message: string
   ) => ReturnType<typeof writePages>
+  readonly phrasing: () => Promise<Phrase>
 }
 
 const LIVE: Road = {
   read: (pages) => readPages(pages),
   write: (pages, writer, message) => writePages(pages, writer, message),
+  phrasing: phrasingRead,
+}
+
+async function refused(road: Road, slug: string, status: number): Promise<Response> {
+  const phrase = await road.phrasing()
+  return Response.json({ error: phrase(slug) }, { status })
 }
 
 type Kept = { readonly kept: true } | { readonly kept: false; readonly why: string }
@@ -96,18 +108,18 @@ export async function answered(request: Request, road: Road = LIVE): Promise<Res
   try {
     raw = await request.json()
   } catch {
-    return Response.json({ error: "Invalid JSON body" }, { status: 400 })
+    return refused(road, subscribeInvalidBody.slug, 400)
   }
 
   const parsed = BodySchema.safeParse(raw)
   if (!parsed.success) {
-    return Response.json({ error: "Please enter a valid email address." }, { status: 400 })
+    return refused(road, subscribeInvalidEmail.slug, 400)
   }
 
   const kept = await subscribing(parsed.data.email, road)
   if (!kept.kept) {
     console.error(`subscribe: a subscriber was not kept — ${kept.why}`)
-    return Response.json({ error: UNKEPT }, { status: 503 })
+    return refused(road, subscribeUnkept.slug, 503)
   }
   return Response.json({ ok: true })
 }

@@ -2,7 +2,7 @@
 
 import {
   PhrasesSeeded,
-  usePhrase,
+  useSeededPhrase,
 } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
 import type { SeededPhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import { errorScreenErrorTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/error-screen-error-title.web-phrase.ts"
@@ -10,9 +10,13 @@ import { errorScreenNotFound } from "akasha/infrastructure/service/akasha-servic
 import { errorScreenNotFoundTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/error-screen-not-found-title.web-phrase.ts"
 import { errorScreenOops } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/error-screen-oops.web-phrase.ts"
 import { errorScreenUnexpected } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/error-screen-unexpected.web-phrase.ts"
+import { webPhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/web-phrase.page-type.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { isRouteErrorResponse, useRouteLoaderData } from "react-router"
 
 const ROOT = "root"
+
+const READ = [webPhrase.slug]
 
 const NOT_FOUND = 404
 
@@ -25,7 +29,7 @@ type Said = {
 }
 
 function Screen({ error, said }: { error: unknown; said: Said }) {
-  const phrase = usePhrase()
+  const phrase = useSeededPhrase()
   let title = phrase(said.thrown ?? errorScreenOops.slug)
   let details = phrase(said.wentWrong ?? errorScreenUnexpected.slug)
   let stack: string | undefined
@@ -52,6 +56,7 @@ function Screen({ error, said }: { error: unknown; said: Said }) {
 }
 
 export function PhrasedErrorScreen({ error, said = {} }: { error: unknown; said?: Said }) {
+  useLoaderFollowing(READ)
   const phrases =
     useRouteLoaderData<{ readonly phrases?: readonly SeededPhrase[] }>(ROOT)?.phrases ?? NO_PHRASES
   return (

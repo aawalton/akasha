@@ -1,4 +1,6 @@
 import { afterEach, expect, mock, spyOn, test } from "bun:test"
+import { phrasingOf } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
+import { subscribeInvalidEmail } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-invalid-email.web-phrase.ts"
 import {
   answered,
   type Road,
@@ -8,6 +10,10 @@ import {
 const AT = "0123456789abcdef0123456789abcdef01234567"
 
 const FOLDER = "product/audhdalan/subscriber/pages"
+
+const SAID = new Map([[subscribeInvalidEmail.slug, subscribeInvalidEmail.title]])
+
+const phrasing = async () => phrasingOf(SAID)
 
 type Written = { readonly slug: string; readonly values: Readonly<Record<string, unknown>> }
 
@@ -34,6 +40,7 @@ function roadOver(held: Readonly<Record<string, string>>, wrote: Written[]): Roa
       for (const one of pages) wrote.push({ slug: one.slug, values: one.values })
       return { ok: true, at: AT }
     },
+    phrasing,
   }
 }
 
@@ -91,10 +98,11 @@ test("an address whose fold names no page is filed under a hashed slug alone", a
   expect(wrote).toHaveLength(1)
 })
 
-test("an address refused is told apart from an address unkept", async () => {
+test("an address refused is told apart from an address unkept, in the phrase for it", async () => {
   const wrote: Written[] = []
   const said = await answered(posted({ email: "not an address" }), roadOver({}, wrote))
   expect(said.status).toBe(400)
+  expect(await said.json()).toEqual({ error: subscribeInvalidEmail.title })
   expect(wrote).toEqual([])
 })
 
@@ -106,6 +114,7 @@ test("a store that cannot be reached is answered 503, and the log names no addre
       why: `\`a read of ${pages.map((one) => `${one.pageTypeSlug}/${one.slug}`).join(", ")}\` went unanswered`,
     }),
     write: async () => ({ ok: true, at: AT }),
+    phrasing,
   }
   const said = await answered(posted({ email: "someone@example.com" }), road)
   expect(said.status).toBe(503)

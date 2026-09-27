@@ -21,8 +21,9 @@ export const webPhraseReading = {
       statement: "A phrase neither read is drawn as nothing rather than as wording in code.",
     },
     {
-      decisionKind: "decision-kind/absence",
-      statement: "No phrase is held outside the page store.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A site with no page store says only the loader's phrases, which follow their pages.",
     },
   ],
 } as const satisfies Module

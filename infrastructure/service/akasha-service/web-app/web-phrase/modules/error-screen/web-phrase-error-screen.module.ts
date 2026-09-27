@@ -13,7 +13,8 @@ export const webPhraseErrorScreen = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The phrases the root's loader read seed the screen's first draw.",
+      statement:
+        "The screen says the phrases the root's loader read, read again as a phrase changes.",
     },
     {
       decisionKind: "decision-kind/departure",

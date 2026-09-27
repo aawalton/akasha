@@ -4,6 +4,16 @@ import { Input } from "akasha/design/interface/primitive/modules/input/input.mod
 import { Separator } from "akasha/design/interface/primitive/modules/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type { DrawnSection } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { useSeededPhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { formNetworkError } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/form-network-error.web-phrase.ts"
+import { formSomethingWrong } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/form-something-wrong.web-phrase.ts"
+import { subscribeButton } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-button.web-phrase.ts"
+import { subscribeEmailLabel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-email-label.web-phrase.ts"
+import { subscribeFormLabel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-form-label.web-phrase.ts"
+import { subscribeInvalidEmail } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-invalid-email.web-phrase.ts"
+import { subscribePlaceholder } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-placeholder.web-phrase.ts"
+import { subscribeSubscribing } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-subscribing.web-phrase.ts"
+import { subscribeThanks } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/subscribe-thanks.web-phrase.ts"
 import { useId, useState } from "react"
 import { z } from "zod"
 
@@ -17,6 +27,7 @@ type Status =
 
 export function SubscribeForm({ section }: { section: DrawnSection }) {
   const inputId = useId()
+  const phrase = useSeededPhrase()
   const [email, setEmail] = useState("")
   const [status, setStatus] = useState<Status>({ kind: "idle" })
 
@@ -26,7 +37,7 @@ export function SubscribeForm({ section }: { section: DrawnSection }) {
 
     const trimmed = email.trim()
     if (trimmed === "" || !trimmed.includes("@")) {
-      setStatus({ kind: "error", message: "Please enter a valid email address." })
+      setStatus({ kind: "error", message: phrase(subscribeInvalidEmail.slug) })
       return
     }
 
@@ -43,13 +54,13 @@ export function SubscribeForm({ section }: { section: DrawnSection }) {
         const message =
           parsed.success && parsed.data.error !== undefined
             ? parsed.data.error
-            : "Something went wrong. Please try again."
+            : phrase(formSomethingWrong.slug)
         setStatus({ kind: "error", message })
         return
       }
       setStatus({ kind: "success" })
     } catch {
-      setStatus({ kind: "error", message: "Network error. Please try again." })
+      setStatus({ kind: "error", message: phrase(formNetworkError.slug) })
     }
   }
 
@@ -68,16 +79,16 @@ export function SubscribeForm({ section }: { section: DrawnSection }) {
       )}
       {status.kind === "success" ? (
         <Text variant="prose" className="text-accent text-lg" aria-live="polite">
-          Thanks — you're on the list.
+          {phrase(subscribeThanks.slug)}
         </Text>
       ) : (
         <form
           onSubmit={onSubmit}
           className="flex flex-col gap-3 sm:max-w-md"
-          aria-label="Email signup"
+          aria-label={phrase(subscribeFormLabel.slug)}
         >
           <label htmlFor={inputId} className="sr-only">
-            Email address
+            {phrase(subscribeEmailLabel.slug)}
           </label>
           <div className="flex flex-col gap-3 sm:flex-row">
             <Input
@@ -85,7 +96,7 @@ export function SubscribeForm({ section }: { section: DrawnSection }) {
               type="email"
               required
               autoComplete="email"
-              placeholder="you@example.com"
+              placeholder={phrase(subscribePlaceholder.slug)}
               value={email}
               onChange={(event) => {
                 setEmail(event.target.value)
@@ -100,7 +111,9 @@ export function SubscribeForm({ section }: { section: DrawnSection }) {
               disabled={status.kind === "submitting"}
               aria-busy={status.kind === "submitting"}
             >
-              {status.kind === "submitting" ? "Subscribing…" : "Subscribe"}
+              {phrase(
+                status.kind === "submitting" ? subscribeSubscribing.slug : subscribeButton.slug
+              )}
             </Button>
           </div>
           {status.kind === "error" ? (
