@@ -23,15 +23,14 @@ import {
   parsePageHrefParam,
 } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { persona } from "akasha/persona/persona.page-type.ts"
 import {
-  characterSlugsIn,
-  personaCoversOf,
-  personaSlugsOf,
+  CHARACTER_TYPES,
+  characterCoversOf,
+  charactersIn,
+  slugsOf,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import { characterCover } from "akasha/story/ui/played-panel/pages/character-cover/character-cover.played-panel.ts"
 import { playedPanel } from "akasha/story/ui/played-panel/played-panel.page-type.ts"
-import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
 import {
   PLAYED_TURN_PAGE_TYPE_SLUG,
@@ -100,7 +99,7 @@ async function seedsFor(
   return Object.fromEntries(answered.filter((one): one is Answered => one !== null))
 }
 
-const PERSONA_COVER_PANEL = namedAs(playedPanel.slug, characterCover.slug, null)
+const CHARACTER_COVER_PANEL = namedAs(playedPanel.slug, characterCover.slug, null)
 
 type Covered = { readonly seeds: Seeds; readonly covers: readonly string[] }
 
@@ -130,26 +129,27 @@ async function coveredBy(
   const unchanged: Covered = { seeds, covers: [] }
   if (pageTypeSlug !== storyPlayed.slug || slug === null) return unchanged
   const story = rowsIn(seeds[filePagesPath(pageTypeSlug, [], { by: "id", values: [id] })])[0]
-  if (!stringsIn(story?.panels).includes(PERSONA_COVER_PANEL)) return unchanged
+  if (!stringsIn(story?.panels).includes(CHARACTER_COVER_PANEL)) return unchanged
   const lists = playedListsOf(namedAs(pageTypeSlug, slug, null))
   const turnsAt = filePagesPath(lists.turns.pageTypeSlug, [], lists.turns.named)
   const latest = playedTail(playedReady(rowsIn(seeds[turnsAt]))).drawn.at(-1)
   if (latest === undefined) return unchanged
   const turn = await namedRows(request, PLAYED_TURN_PAGE_TYPE_SLUG, "id", [latest.id])
   if (turn === null) return unchanged
-  const characterSlugs = characterSlugsIn(turn.rows[0]?.[characters.propertySlug])
-  const withTurn = { ...seeds, [turn.answer[0]]: turn.answer[1] }
-  if (characterSlugs.length === 0) return { seeds: withTurn, covers: [] }
-  const others = await namedRows(request, characterOther.slug, "slug", characterSlugs)
-  if (others === null) return { seeds: withTurn, covers: [] }
-  const personaSlugs = personaSlugsOf(characterSlugs, others.rows)
-  const withOthers = { ...withTurn, [others.answer[0]]: others.answer[1] }
-  if (personaSlugs.length === 0) return { seeds: withOthers, covers: [] }
-  const personas = await namedRows(request, persona.slug, "slug", personaSlugs)
-  if (personas === null) return { seeds: withOthers, covers: [] }
+  const drawn = charactersIn(turn.rows[0]?.[characters.propertySlug])
+  let seeded: Seeds = { ...seeds, [turn.answer[0]]: turn.answer[1] }
+  const typed: (readonly [string, readonly Page[]])[] = []
+  for (const characterType of CHARACTER_TYPES) {
+    const slugs = slugsOf(drawn, characterType)
+    if (slugs.length === 0) continue
+    const characterRows = await namedRows(request, characterType, "slug", slugs)
+    if (characterRows === null) continue
+    seeded = { ...seeded, [characterRows.answer[0]]: characterRows.answer[1] }
+    typed.push([characterType, characterRows.rows])
+  }
   return {
-    seeds: { ...withOthers, [personas.answer[0]]: personas.answer[1] },
-    covers: personaCoversOf(personaSlugs, personas.rows).map((one) => one.source),
+    seeds: seeded,
+    covers: characterCoversOf(drawn, new Map(typed)).map((one) => one.source),
   }
 }
 

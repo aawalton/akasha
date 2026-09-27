@@ -4,6 +4,7 @@ import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surfa
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import { titledAs } from "akasha/page/core/modules/titled-as/titled-as.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
+import { cover } from "akasha/page/properties/cover.relation-property.ts"
 import {
   coverSource,
   PageCover,
@@ -16,10 +17,9 @@ import {
   namedShapeDescriptor,
   type ShapeDescriptor,
 } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
-import { persona } from "akasha/persona/persona.page-type.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
-import { characterPersona } from "akasha/story/world/characters/character-other/properties/character-persona.relation-property.ts"
+import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { useMemo } from "react"
@@ -28,7 +28,7 @@ const ID_KEY = "id"
 
 const SLUG_KEY = "slug"
 
-const COVER_KEY = "cover"
+const TITLE_KEY = "title"
 
 const ONE = 1
 
@@ -38,11 +38,11 @@ const DENSITY = 2
 
 export const COVER_WIDTH_ASKED = DRAWN_WIDTH * DENSITY
 
-function inList(keyed: string): readonly string[] {
-  return keyed === "" ? [] : keyed.split(" ")
-}
+export const CHARACTER_TYPES: readonly string[] = [characterPlayer.slug, characterOther.slug]
 
-export type PersonaCover = {
+export type Character = { readonly pageTypeSlug: string; readonly slug: string }
+
+export type CharacterCover = {
   readonly slug: string
   readonly name: string
   readonly source: string
@@ -52,52 +52,62 @@ export function latestTurnId(turns: readonly ClientStoryTurn[]): string | null {
   return turns.at(-1)?.id ?? null
 }
 
-function slugOf(value: unknown, pageTypeSlug: string): string | null {
-  if (typeof value !== "string") return null
-  const address = addressIn(value)
-  if (address.kind !== "qualified" || address.pageTypeSlug !== pageTypeSlug) return null
-  return address.slug === "" ? null : address.slug
-}
-
-export function characterSlugsIn(value: unknown): readonly string[] {
+export function charactersIn(value: unknown): readonly Character[] {
   if (!Array.isArray(value)) return []
-  const held: string[] = []
+  const held: Character[] = []
   for (const one of value) {
-    const slug = slugOf(one, characterOther.slug)
-    if (slug !== null && !held.includes(slug)) held.push(slug)
+    if (typeof one !== "string") continue
+    const address = addressIn(one)
+    if (address.kind !== "qualified" || address.slug === "") continue
+    if (!CHARACTER_TYPES.includes(address.pageTypeSlug)) continue
+    const known = held.some(
+      (had) => had.pageTypeSlug === address.pageTypeSlug && had.slug === address.slug
+    )
+    if (!known) held.push({ pageTypeSlug: address.pageTypeSlug, slug: address.slug })
   }
   return held
 }
 
-export function personaSlugsOf(
-  characterSlugs: readonly string[],
-  rows: readonly Page[]
-): readonly string[] {
-  const held: string[] = []
-  for (const slug of characterSlugs) {
-    const row = rows.find((one) => one.slug === slug)
-    const her = slugOf(row?.[characterPersona.propertySlug], persona.slug)
-    if (her !== null && !held.includes(her)) held.push(her)
-  }
-  return held
+export function slugsOf(named: readonly Character[], pageTypeSlug: string): readonly string[] {
+  return named.filter((one) => one.pageTypeSlug === pageTypeSlug).map((one) => one.slug)
 }
 
-export function personaCoversOf(
-  slugs: readonly string[],
-  rows: readonly Page[]
-): readonly PersonaCover[] {
-  const held: PersonaCover[] = []
-  for (const slug of slugs) {
-    const row = rows.find((one) => one.slug === slug)
+function nameOf(row: Page, slug: string): string {
+  const title = row[TITLE_KEY]
+  return typeof title === "string" && title !== "" ? title : titledAs(slug)
+}
+
+export function characterCoversOf(
+  named: readonly Character[],
+  rowsByType: ReadonlyMap<string, readonly Page[]>
+): readonly CharacterCover[] {
+  const held: CharacterCover[] = []
+  for (const one of named) {
+    const row = rowsByType.get(one.pageTypeSlug)?.find((each) => each.slug === one.slug)
     if (row === undefined) continue
-    const source = coverSource(row[COVER_KEY], COVER_WIDTH_ASKED)
+    const source = coverSource(row[cover.propertySlug], COVER_WIDTH_ASKED)
     if (source === null) continue
-    held.push({ slug, name: titledAs(slug), source })
+    held.push({ slug: one.slug, name: nameOf(row, one.slug), source })
   }
   return held
 }
 
-function named(
+function inList(keyed: string): readonly string[] {
+  return keyed === "" ? [] : keyed.split(" ")
+}
+
+function keyedOf(named: readonly Character[]): string {
+  return named.map((one) => `${one.pageTypeSlug}/${one.slug}`).join(" ")
+}
+
+function namedOf(keyed: string): readonly Character[] {
+  return inList(keyed).map((one) => {
+    const at = one.indexOf("/")
+    return { pageTypeSlug: one.slice(0, at), slug: one.slice(at + 1) }
+  })
+}
+
+function shapeNamed(
   pageTypeSlug: string,
   by: "id" | "slug",
   values: readonly string[]
@@ -105,7 +115,7 @@ function named(
   return namedShapeDescriptor(pageTypeSlug, { by, values: [...values] })
 }
 
-export function PersonaCoverPanel({ turns }: { turns: readonly ClientStoryTurn[] }) {
+export function CharacterCoverPanel({ turns }: { turns: readonly ClientStoryTurn[] }) {
   const turnId = latestTurnId(turns)
   if (turnId === null) return null
   return <TurnCovers turnId={turnId} />
@@ -117,45 +127,53 @@ function TurnCovers({ turnId }: { turnId: string }) {
       pageTypeSlug: storyTurnPlayed.slug,
       where: [{ key: ID_KEY, in: [turnId] }],
       limit: ONE,
-      shape: named(storyTurnPlayed.slug, ID_KEY, [turnId]),
+      shape: shapeNamed(storyTurnPlayed.slug, ID_KEY, [turnId]),
     }),
     [turnId]
   )
   const turnRows = usePages(turnOptions)
-  const characterKeyed = characterSlugsIn(turnRows.rows[0]?.[characters.propertySlug]).join(" ")
-  if (characterKeyed === "") return null
-  return <CharacterCovers characterKeyed={characterKeyed} />
-}
-
-function CharacterCovers({ characterKeyed }: { characterKeyed: string }) {
-  const characterOptions = useMemo<UsePagesSupabaseOptions>(
-    () => ({
-      pageTypeSlug: characterOther.slug,
-      where: [{ key: SLUG_KEY, in: inList(characterKeyed) }],
-      shape: named(characterOther.slug, SLUG_KEY, inList(characterKeyed)),
-    }),
-    [characterKeyed]
-  )
-  const characterRows = usePages(characterOptions)
-  const keyed = personaSlugsOf(inList(characterKeyed), characterRows.rows).join(" ")
+  const keyed = keyedOf(charactersIn(turnRows.rows[0]?.[characters.propertySlug]))
   if (keyed === "") return null
-  return <Covers keyed={keyed} />
+  return <TypeRows keyed={keyed} at={0} read={[]} />
 }
 
-function Covers({ keyed }: { keyed: string }) {
-  const personaOptions = useMemo<UsePagesSupabaseOptions>(
+type Read = readonly (readonly [string, readonly Page[]])[]
+
+function TypeRows({ keyed, at, read }: { keyed: string; at: number; read: Read }) {
+  const pageTypeSlug = CHARACTER_TYPES[at]
+  if (pageTypeSlug === undefined) return <Covers keyed={keyed} read={read} />
+  const slugs = slugsOf(namedOf(keyed), pageTypeSlug)
+  if (slugs.length === 0) return <TypeRows keyed={keyed} at={at + 1} read={read} />
+  return <TypeRowsRead keyed={keyed} at={at} read={read} slugKeyed={slugs.join(" ")} />
+}
+
+function TypeRowsRead({
+  keyed,
+  at,
+  read,
+  slugKeyed,
+}: {
+  keyed: string
+  at: number
+  read: Read
+  slugKeyed: string
+}) {
+  const pageTypeSlug = CHARACTER_TYPES[at] ?? ""
+  const options = useMemo<UsePagesSupabaseOptions>(
     () => ({
-      pageTypeSlug: persona.slug,
-      where: [{ key: SLUG_KEY, in: inList(keyed) }],
-      shape: named(persona.slug, SLUG_KEY, inList(keyed)),
+      pageTypeSlug,
+      where: [{ key: SLUG_KEY, in: inList(slugKeyed) }],
+      shape: shapeNamed(pageTypeSlug, SLUG_KEY, inList(slugKeyed)),
     }),
-    [keyed]
+    [pageTypeSlug, slugKeyed]
   )
-  const personaRows = usePages(personaOptions)
-  const covers = personaCoversOf(inList(keyed), personaRows.rows)
+  const rows = usePages(options).rows
+  return <TypeRows keyed={keyed} at={at + 1} read={[...read, [pageTypeSlug, rows]]} />
+}
 
+function Covers({ keyed, read }: { keyed: string; read: Read }) {
+  const covers = characterCoversOf(namedOf(keyed), new Map(read))
   if (covers.length === 0) return null
-
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
       {covers.map((one) => (

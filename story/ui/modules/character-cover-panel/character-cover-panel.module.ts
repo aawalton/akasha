@@ -4,26 +4,38 @@ export const characterCoverPanel = {
   id: "01a0de7e-118e-760a-aace-b82f91d94001",
   type: "page-type/module",
   slug: "character-cover-panel",
-  definition: "the covers of the personas the latest turn of play is with",
+  definition: "the covers of the characters the latest turn of play is with",
   code: "tsx",
   test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The personas drawn are the ones the characters of the latest turn drawn are.",
+      statement: "The characters drawn are the characters the latest turn drawn names.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn with no character who is a persona draws no panel.",
+      statement: "The character the player plays is drawn as every other character is.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A persona with no cover is left out rather than drawn empty.",
+      statement: "A character is drawn by the cover that character states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character is named under the cover by that character's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character with no cover is left out rather than drawn empty.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn with no character who has a cover draws no panel.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The turn, its characters and their personas are each read by name rather than as a whole page type.",
+        "The turn and its characters are each read by name rather than as a whole page type.",
     },
     {
       decisionKind: "decision-kind/departure",
