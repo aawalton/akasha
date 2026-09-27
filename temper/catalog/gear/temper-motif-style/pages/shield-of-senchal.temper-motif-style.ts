@@ -5,6 +5,8 @@ export const shieldOfSenchal = {
   type: "page-type/temper-motif-style",
   slug: "shield-of-senchal",
   title: "Shield of Senchal",
+  esoItemStyleId: 95,
+  styleName: "Shield of Senchal",
   collectionIndex: 66,
   sourceDescription: "Dailies in Senchal (Southern Elsweyr)",
   dropSources: [
