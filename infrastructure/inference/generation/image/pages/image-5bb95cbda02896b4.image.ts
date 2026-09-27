@@ -21,4 +21,5 @@ export const image5bb95cbda02896b4 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-on-face", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/scarf"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

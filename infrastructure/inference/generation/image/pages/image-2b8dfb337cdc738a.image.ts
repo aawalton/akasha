@@ -10,4 +10,5 @@ export const image2b8dfb337cdc738a = {
   poseTags: ["pose-tag/side-by-side", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

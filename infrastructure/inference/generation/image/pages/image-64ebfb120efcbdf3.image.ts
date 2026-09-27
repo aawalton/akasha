@@ -10,4 +10,5 @@ export const image64ebfb120efcbdf3 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sneakers", "wardrobe-tag/tights"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

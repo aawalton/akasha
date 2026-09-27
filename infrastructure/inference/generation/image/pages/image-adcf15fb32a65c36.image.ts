@@ -21,4 +21,5 @@ export const imageAdcf15fb32a65c36 = {
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

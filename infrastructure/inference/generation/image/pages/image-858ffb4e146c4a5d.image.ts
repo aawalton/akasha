@@ -21,4 +21,5 @@ export const image858ffb4e146c4a5d = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/deep-v-neck"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

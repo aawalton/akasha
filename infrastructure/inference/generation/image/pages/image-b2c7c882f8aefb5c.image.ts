@@ -21,4 +21,5 @@ export const imageB2c7c882f8aefb5c = {
     "wardrobe-tag/crop-top",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

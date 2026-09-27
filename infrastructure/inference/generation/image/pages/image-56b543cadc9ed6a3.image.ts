@@ -15,4 +15,5 @@ export const image56b543cadc9ed6a3 = {
     "wardrobe-tag/cleavage",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

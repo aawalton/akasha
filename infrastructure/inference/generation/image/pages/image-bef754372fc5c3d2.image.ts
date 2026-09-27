@@ -26,4 +26,5 @@ export const imageBef754372fc5c3d2 = {
   ],
   wardrobeTags: ["wardrobe-tag/sleeveless", "wardrobe-tag/bare-legs", "wardrobe-tag/barefoot"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

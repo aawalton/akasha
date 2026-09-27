@@ -10,4 +10,5 @@ export const image546af435697108fc = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sleepwear"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

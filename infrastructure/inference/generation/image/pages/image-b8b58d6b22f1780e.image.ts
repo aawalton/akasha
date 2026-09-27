@@ -10,4 +10,5 @@ export const imageB8b58d6b22f1780e = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/selfie"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/silk"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

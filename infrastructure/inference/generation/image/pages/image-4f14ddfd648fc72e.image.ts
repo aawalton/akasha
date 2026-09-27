@@ -11,4 +11,5 @@ export const image4f14ddfd648fc72e = {
   poseTags: ["pose-tag/leaning-forward", "pose-tag/bent-over", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

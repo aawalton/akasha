@@ -16,4 +16,5 @@ export const imageD9f8db45c0dfd36d = {
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

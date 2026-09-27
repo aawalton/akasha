@@ -20,4 +20,5 @@ export const image9e34daadd4b2899a = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/serious-expression"],
   fantasyTags: ["fantasy-tag/unusual-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

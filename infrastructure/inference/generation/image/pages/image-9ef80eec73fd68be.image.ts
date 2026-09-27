@@ -17,4 +17,5 @@ export const image9ef80eec73fd68be = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/surreal", "fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

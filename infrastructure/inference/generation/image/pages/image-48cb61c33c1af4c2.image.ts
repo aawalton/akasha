@@ -15,4 +15,5 @@ export const image48cb61c33c1af4c2 = {
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

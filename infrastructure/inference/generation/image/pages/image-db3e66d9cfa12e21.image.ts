@@ -15,4 +15,5 @@ export const imageDb3e66d9cfa12e21 = {
     "wardrobe-tag/bare-shoulders",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

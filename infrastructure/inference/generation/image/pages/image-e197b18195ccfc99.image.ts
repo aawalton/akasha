@@ -11,4 +11,5 @@ export const imageE197b18195ccfc99 = {
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/horns"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

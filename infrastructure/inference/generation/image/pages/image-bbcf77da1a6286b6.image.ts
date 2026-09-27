@@ -22,4 +22,5 @@ export const imageBbcf77da1a6286b6 = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/golden-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

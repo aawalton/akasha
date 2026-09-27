@@ -15,4 +15,5 @@ export const imageCf6ede36417d17e5 = {
     "wardrobe-tag/bare-shoulders",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const image739eed77cfd4316c = {
   ],
   wardrobeTags: ["wardrobe-tag/partial-undress"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image01b2be71b3f87ace = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sleepwear", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/hologram"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

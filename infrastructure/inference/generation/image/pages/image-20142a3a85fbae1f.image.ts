@@ -27,4 +27,5 @@ export const image20142a3a85fbae1f = {
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

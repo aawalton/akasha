@@ -17,4 +17,5 @@ export const image5212bc3fbfb34a63 = {
   wardrobeTags: ["wardrobe-tag/flower-crown", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image6bb1d6ca6705fb60 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/skirt", "wardrobe-tag/sneakers"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

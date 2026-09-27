@@ -18,4 +18,5 @@ export const image921c5e410226d508 = {
   ],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

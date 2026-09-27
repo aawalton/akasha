@@ -20,4 +20,5 @@ export const imageBeecea3c73863e66 = {
   poseTags: ["pose-tag/embracing", "pose-tag/smiling", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/swimsuit", "wardrobe-tag/tank-top"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

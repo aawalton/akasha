@@ -11,4 +11,5 @@ export const imageDd433a002c0dc6cc = {
   wardrobeTags: ["wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/unusual-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

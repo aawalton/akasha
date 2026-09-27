@@ -20,4 +20,5 @@ export const image0f589cad38450492 = {
   poseTags: ["pose-tag/reaching", "pose-tag/looking-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

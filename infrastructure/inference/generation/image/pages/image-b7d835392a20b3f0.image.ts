@@ -22,4 +22,5 @@ export const imageB7d835392a20b3f0 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sheer", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/ethereal", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

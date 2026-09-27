@@ -11,4 +11,5 @@ export const image40cd99096cfcb4ec = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

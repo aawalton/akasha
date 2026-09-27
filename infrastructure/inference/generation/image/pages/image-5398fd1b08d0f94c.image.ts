@@ -21,4 +21,5 @@ export const image5398fd1b08d0f94c = {
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

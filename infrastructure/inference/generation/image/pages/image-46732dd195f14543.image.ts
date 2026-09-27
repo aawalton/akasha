@@ -10,4 +10,5 @@ export const image46732dd195f14543 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-drink"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/headphones"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

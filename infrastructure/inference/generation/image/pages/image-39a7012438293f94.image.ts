@@ -17,4 +17,5 @@ export const image39a7012438293f94 = {
   ],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

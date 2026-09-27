@@ -12,4 +12,5 @@ export const imageCf04512f688c08e8 = {
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bare-legs"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

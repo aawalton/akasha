@@ -15,4 +15,5 @@ export const image9b8ca7bde70e736d = {
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/dress", "wardrobe-tag/hair-accessory"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

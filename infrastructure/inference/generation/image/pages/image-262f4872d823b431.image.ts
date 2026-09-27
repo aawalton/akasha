@@ -11,4 +11,5 @@ export const image262f4872d823b431 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

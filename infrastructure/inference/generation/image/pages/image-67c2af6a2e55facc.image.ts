@@ -11,4 +11,5 @@ export const image67c2af6a2e55facc = {
   poseTags: ["pose-tag/profile", "pose-tag/smiling", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

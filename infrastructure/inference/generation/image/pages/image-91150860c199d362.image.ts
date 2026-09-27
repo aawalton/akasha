@@ -14,4 +14,5 @@ export const image91150860c199d362 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/spaghetti-straps"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

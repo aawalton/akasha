@@ -12,4 +12,5 @@ export const image40fcb658abfc5567 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/backless"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

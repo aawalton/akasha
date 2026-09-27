@@ -22,4 +22,5 @@ export const image1de04affacd44f5e = {
   wardrobeTags: ["wardrobe-tag/hair-accessory", "wardrobe-tag/wig", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

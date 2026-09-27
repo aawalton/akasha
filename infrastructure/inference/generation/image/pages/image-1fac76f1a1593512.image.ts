@@ -21,4 +21,5 @@ export const image1fac76f1a1593512 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

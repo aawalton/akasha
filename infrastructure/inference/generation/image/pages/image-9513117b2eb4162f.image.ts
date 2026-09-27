@@ -20,4 +20,5 @@ export const image9513117b2eb4162f = {
   poseTags: ["pose-tag/reclining", "pose-tag/reading", "pose-tag/lying-down", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/shorts", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

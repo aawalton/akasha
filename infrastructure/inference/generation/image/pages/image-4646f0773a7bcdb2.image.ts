@@ -27,4 +27,5 @@ export const image4646f0773a7bcdb2 = {
     "fantasy-tag/kitsune",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

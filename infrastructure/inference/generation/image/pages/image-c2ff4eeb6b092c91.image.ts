@@ -10,4 +10,5 @@ export const imageC2ff4eeb6b092c91 = {
   poseTags: ["pose-tag/laughing", "pose-tag/looking-at-viewer", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cardigan", "wardrobe-tag/jewelry"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

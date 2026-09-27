@@ -25,4 +25,5 @@ export const image4a4abef9165a068e = {
     "wardrobe-tag/jewelry",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

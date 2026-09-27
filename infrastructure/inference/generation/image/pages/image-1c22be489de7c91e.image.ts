@@ -11,4 +11,5 @@ export const image1c22be489de7c91e = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/sleepwear"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

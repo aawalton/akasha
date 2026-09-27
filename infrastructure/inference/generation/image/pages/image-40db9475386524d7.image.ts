@@ -26,4 +26,5 @@ export const image40db9475386524d7 = {
   ],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/steampunk"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

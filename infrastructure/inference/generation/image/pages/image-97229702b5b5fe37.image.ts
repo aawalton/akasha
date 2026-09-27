@@ -17,4 +17,5 @@ export const image97229702b5b5fe37 = {
   ],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/pink-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

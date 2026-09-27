@@ -20,4 +20,5 @@ export const image1e9d3cab26b814f3 = {
   poseTags: ["pose-tag/embracing", "pose-tag/side-by-side", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const image0c52ca156674053a = {
     "wardrobe-tag/school-uniform",
   ],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

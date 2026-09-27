@@ -10,4 +10,5 @@ export const image130197fa04787781 = {
   poseTags: ["pose-tag/bent-over", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/topless", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

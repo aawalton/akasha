@@ -17,4 +17,5 @@ export const imageFaf6bac2370c772d = {
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/kimono", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageC3d118250c885d47 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/dress"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

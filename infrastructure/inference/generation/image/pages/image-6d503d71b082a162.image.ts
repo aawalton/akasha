@@ -22,4 +22,5 @@ export const image6d503d71b082a162 = {
   wardrobeTags: ["wardrobe-tag/hair-accessory", "wardrobe-tag/headband", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/cat-ears", "fantasy-tag/magic"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

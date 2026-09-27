@@ -20,4 +20,5 @@ export const image54bc039906df4e5c = {
   poseTags: ["pose-tag/walking", "pose-tag/dancing"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

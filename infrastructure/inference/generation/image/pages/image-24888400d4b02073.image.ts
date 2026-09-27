@@ -16,4 +16,5 @@ export const image24888400d4b02073 = {
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/gloves", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

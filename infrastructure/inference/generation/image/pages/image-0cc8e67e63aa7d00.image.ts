@@ -30,4 +30,5 @@ export const image0cc8e67e63aa7d00 = {
     "wardrobe-tag/jewelry",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/weapons", "fantasy-tag/anime"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image3f82a0df2a42c387 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/portrait", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -32,4 +32,5 @@ export const image003d9c9f87e03932 = {
     "fantasy-tag/witch",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

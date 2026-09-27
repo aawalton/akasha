@@ -10,4 +10,5 @@ export const image6012ebae55349273 = {
   poseTags: ["pose-tag/standing", "pose-tag/hand-in-hair", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

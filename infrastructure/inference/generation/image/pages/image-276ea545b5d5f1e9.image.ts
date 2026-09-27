@@ -25,4 +25,5 @@ export const image276ea545b5d5f1e9 = {
   ],
   wardrobeTags: ["wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

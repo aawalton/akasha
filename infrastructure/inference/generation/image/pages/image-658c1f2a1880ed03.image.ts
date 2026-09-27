@@ -16,4 +16,5 @@ export const image658c1f2a1880ed03 = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/robe"],
   fantasyTags: ["fantasy-tag/antlers", "fantasy-tag/mythological"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

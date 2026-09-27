@@ -17,4 +17,5 @@ export const imageF68db64cae7fe448 = {
   wardrobeTags: ["wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image80fafffd23ed2175 = {
   poseTags: ["pose-tag/jumping"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans", "wardrobe-tag/sneakers"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

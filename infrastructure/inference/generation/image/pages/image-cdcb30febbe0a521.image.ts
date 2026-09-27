@@ -22,4 +22,5 @@ export const imageCdcb30febbe0a521 = {
   wardrobeTags: ["wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/bunny-ears", "fantasy-tag/animal-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

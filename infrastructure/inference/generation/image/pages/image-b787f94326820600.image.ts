@@ -10,4 +10,5 @@ export const imageB787f94326820600 = {
   settingTags: ["setting-tag/outdoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

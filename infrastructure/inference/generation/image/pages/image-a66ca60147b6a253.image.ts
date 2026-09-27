@@ -12,4 +12,5 @@ export const imageA66ca60147b6a253 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/jewelry", "wardrobe-tag/choker"],
   fantasyTags: ["fantasy-tag/bunny-ears"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

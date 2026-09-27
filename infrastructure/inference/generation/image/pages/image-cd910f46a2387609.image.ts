@@ -11,4 +11,5 @@ export const imageCd910f46a2387609 = {
   poseTags: ["pose-tag/sitting", "pose-tag/holding-clothing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheet", "wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

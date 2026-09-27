@@ -21,4 +21,5 @@ export const image876baae846b6d306 = {
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/historical"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

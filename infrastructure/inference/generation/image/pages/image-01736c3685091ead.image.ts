@@ -10,4 +10,5 @@ export const image01736c3685091ead = {
   poseTags: ["pose-tag/oral-sex", "pose-tag/sex", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

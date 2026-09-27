@@ -10,4 +10,5 @@ export const image441e1888e2eb5335 = {
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/skirt", "wardrobe-tag/socks"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

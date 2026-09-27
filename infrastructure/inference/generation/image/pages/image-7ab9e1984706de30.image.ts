@@ -30,4 +30,5 @@ export const image7ab9e1984706de30 = {
   ],
   wardrobeTags: ["wardrobe-tag/garter-belt", "wardrobe-tag/lace"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

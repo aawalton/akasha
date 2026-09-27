@@ -27,4 +27,5 @@ export const image7c9574ebc659aa3e = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless", "wardrobe-tag/corset"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/ethereal"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

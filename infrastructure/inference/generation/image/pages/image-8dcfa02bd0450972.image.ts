@@ -20,4 +20,5 @@ export const image8dcfa02bd0450972 = {
   poseTags: ["pose-tag/walking", "pose-tag/face-to-face", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

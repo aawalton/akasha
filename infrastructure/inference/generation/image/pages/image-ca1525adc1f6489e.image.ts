@@ -24,4 +24,5 @@ export const imageCa1525adc1f6489e = {
   ],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageFe16e4310c6f40a7 = {
   poseTags: ["pose-tag/close-up", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const image39a0e8bffb168b35 = {
   ],
   fantasyTags: ["fantasy-tag/unusual-eyes", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

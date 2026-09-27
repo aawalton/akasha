@@ -16,4 +16,5 @@ export const imageE0dbb9c38a0e62d3 = {
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sweater"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image8ebb2ca2fbead815 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/hands-behind-head", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts", "wardrobe-tag/bare-legs"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

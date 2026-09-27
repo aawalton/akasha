@@ -26,4 +26,5 @@ export const image794b54331f4203df = {
     "wardrobe-tag/gold-trim",
   ],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

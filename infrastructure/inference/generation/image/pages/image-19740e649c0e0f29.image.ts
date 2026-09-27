@@ -31,4 +31,5 @@ export const image19740e649c0e0f29 = {
   ],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

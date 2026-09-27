@@ -31,4 +31,5 @@ export const image3d5d8fabb0f1274c = {
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/strapless"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

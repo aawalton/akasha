@@ -23,4 +23,5 @@ export const image0cfd76ec8903cab3 = {
   ],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/medieval"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

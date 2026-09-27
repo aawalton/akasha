@@ -10,4 +10,5 @@ export const imageE1e59c3b6652e978 = {
   poseTags: ["pose-tag/kissing", "pose-tag/oral-sex", "pose-tag/lying-down", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageB042e8ef428631be = {
   wardrobeTags: ["wardrobe-tag/choker"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/mermaid"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

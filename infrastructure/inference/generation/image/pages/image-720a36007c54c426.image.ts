@@ -35,4 +35,5 @@ export const image720a36007c54c426 = {
     "wardrobe-tag/camisole",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

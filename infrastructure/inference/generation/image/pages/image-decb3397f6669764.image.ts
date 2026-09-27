@@ -16,4 +16,5 @@ export const imageDecb3397f6669764 = {
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing", "fantasy-tag/wings"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

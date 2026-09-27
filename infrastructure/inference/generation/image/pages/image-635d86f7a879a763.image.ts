@@ -16,4 +16,5 @@ export const image635d86f7a879a763 = {
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit", "wardrobe-tag/wet"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image10f77a1988f17a80 = {
   poseTags: ["pose-tag/kissing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

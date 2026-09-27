@@ -10,4 +10,5 @@ export const imageC6ec08a4607623bb = {
   poseTags: ["pose-tag/kneeling", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/silk", "wardrobe-tag/dress"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

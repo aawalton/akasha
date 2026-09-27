@@ -12,4 +12,5 @@ export const image1e7713345778ad65 = {
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/shorts", "wardrobe-tag/jacket"],
   fantasyTags: ["fantasy-tag/green-hair", "fantasy-tag/unusual-eyes", "fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

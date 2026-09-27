@@ -20,4 +20,5 @@ export const image6c930b7cdd56679b = {
   poseTags: ["pose-tag/squatting", "pose-tag/smiling", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/t-shirt", "wardrobe-tag/shorts"],
   ethnicityTags: ["ethnicity-tag/mixed"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

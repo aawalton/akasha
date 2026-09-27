@@ -22,4 +22,5 @@ export const image37b4e6cf798a52d6 = {
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/animal-ears", "fantasy-tag/tail"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

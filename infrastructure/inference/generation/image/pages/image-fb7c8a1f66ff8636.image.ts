@@ -32,4 +32,5 @@ export const imageFb7c8a1f66ff8636 = {
   ],
   fantasyTags: ["fantasy-tag/fairy"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

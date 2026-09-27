@@ -21,4 +21,5 @@ export const imageDee42a6774fb3b6f = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-on-chest", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/kimono"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

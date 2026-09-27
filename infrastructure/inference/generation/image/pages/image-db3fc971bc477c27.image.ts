@@ -25,4 +25,5 @@ export const imageDb3fc971bc477c27 = {
   ],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/fur"],
   fantasyTags: ["fantasy-tag/silver-hair", "fantasy-tag/purple-eyes"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

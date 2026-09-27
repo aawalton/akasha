@@ -10,4 +10,5 @@ export const image9719363580bab1e2 = {
   poseTags: ["pose-tag/looking-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/headphones", "wardrobe-tag/barefoot"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageDf342a7823a16ab9 = {
   wardrobeTags: ["wardrobe-tag/latex"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/anime", "fantasy-tag/cyberpunk"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

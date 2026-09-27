@@ -27,4 +27,5 @@ export const image3c551dc10459c833 = {
     "fantasy-tag/green-hair",
     "fantasy-tag/glowing-eyes",
   ],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

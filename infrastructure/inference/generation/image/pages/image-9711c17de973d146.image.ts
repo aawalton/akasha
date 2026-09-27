@@ -16,4 +16,5 @@ export const image9711c17de973d146 = {
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

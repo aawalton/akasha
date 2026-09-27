@@ -20,4 +20,5 @@ export const image26d2478d0be42b2e = {
   poseTags: ["pose-tag/winking", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/witch-hat", "wardrobe-tag/cloak", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/witch"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const image28b17a827fff3a0a = {
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/pants-down", "wardrobe-tag/stockings"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/anime"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

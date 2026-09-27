@@ -15,4 +15,5 @@ export const image334cf76880f58a0d = {
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/silver-hair"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

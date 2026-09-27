@@ -26,4 +26,5 @@ export const image21686b4ae9738560 = {
     "wardrobe-tag/deep-v-neck",
   ],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

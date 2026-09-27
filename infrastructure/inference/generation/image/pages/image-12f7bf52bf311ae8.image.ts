@@ -24,4 +24,5 @@ export const image12f7bf52bf311ae8 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/hat", "wardrobe-tag/sleeveless"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

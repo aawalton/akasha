@@ -16,4 +16,5 @@ export const image1ce898fa8ef3b3b9 = {
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/shirt", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/sci-fi"],
   ethnicityTags: ["ethnicity-tag/asian"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const imageDad56364dd159317 = {
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/athletic-wear", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
   ethnicityTags: ["ethnicity-tag/white"],
+  ageTags: ["age-tag/age-18-24"],
 } as const satisfies Image
