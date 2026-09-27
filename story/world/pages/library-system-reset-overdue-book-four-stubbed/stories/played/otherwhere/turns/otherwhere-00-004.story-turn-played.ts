@@ -10,7 +10,7 @@ export const otherwhere00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I put my other hand to the second light",
   beats: [
     "She lays her other hand on the trunk, over the second knot of light.",
@@ -35,5 +35,5 @@ export const otherwhere00004 = {
     "The panel stays, hanging in the air before her eyes and moving when she turns her head.",
   ],
   lore: ["place/otherwhere-core-chamber"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
