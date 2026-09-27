@@ -4,6 +4,7 @@ import { temperLocationType } from "akasha/temper/catalog/world/temper-location-
 import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 import { temperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
 import { CompanionCatalogGate } from "akasha/temper/web/modules/companion-catalog-gate/companion-catalog-gate.module.code.tsx"
+import { ItemCategoryTreeGate } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { KeyedTitlesGate } from "akasha/temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.code.tsx"
 import { RecipeCatalogGate } from "akasha/temper/web/modules/recipe-catalog-gate/recipe-catalog-gate.module.code.tsx"
 import { RuleTemplatesGate } from "akasha/temper/web/modules/rule-templates-gate/rule-templates-gate.module.code.tsx"
@@ -40,30 +41,32 @@ export default function InventoryPage() {
               <RuleTemplatesGate fallback={skeleton}>
                 <RecipeCatalogGate fallback={skeleton}>
                   <SkillCatalogGate fallback={skeleton}>
-                    <SetCatalogGate fallback={skeleton}>
-                      {() => (
-                        <InventoryPageContent
-                          initialTab={tab}
-                          initialSearch={searchParams.get("q") ?? undefined}
-                          initialSort={searchParams.get("sort") ?? undefined}
-                          initialDirection={searchParams.get("dir") ?? undefined}
-                          initialQuality={searchParams.get("quality") ?? undefined}
-                          initialArmorTrait={searchParams.get("at") ?? undefined}
-                          initialWeaponTrait={searchParams.get("wt") ?? undefined}
-                          initialJewelryTrait={searchParams.get("jt") ?? undefined}
-                          initialCompanionTrait={searchParams.get("ct") ?? undefined}
-                          initialStatus={searchParams.get("status") ?? undefined}
-                          initialLock={searchParams.get("lock") ?? undefined}
-                          initialGoal={searchParams.get("goal") ?? undefined}
-                          initialAction={searchParams.get("action") ?? undefined}
-                          initialRuleCategory={searchParams.get("rcat") ?? undefined}
-                          initialRuleSearch={searchParams.get("rq") ?? undefined}
-                          initialRuleSort={searchParams.get("rsort") ?? undefined}
-                          initialRuleDir={searchParams.get("rdir") ?? undefined}
-                          initialRuleLocation={searchParams.get("rloc") ?? undefined}
-                        />
-                      )}
-                    </SetCatalogGate>
+                    <ItemCategoryTreeGate fallback={skeleton}>
+                      <SetCatalogGate fallback={skeleton}>
+                        {() => (
+                          <InventoryPageContent
+                            initialTab={tab}
+                            initialSearch={searchParams.get("q") ?? undefined}
+                            initialSort={searchParams.get("sort") ?? undefined}
+                            initialDirection={searchParams.get("dir") ?? undefined}
+                            initialQuality={searchParams.get("quality") ?? undefined}
+                            initialArmorTrait={searchParams.get("at") ?? undefined}
+                            initialWeaponTrait={searchParams.get("wt") ?? undefined}
+                            initialJewelryTrait={searchParams.get("jt") ?? undefined}
+                            initialCompanionTrait={searchParams.get("ct") ?? undefined}
+                            initialStatus={searchParams.get("status") ?? undefined}
+                            initialLock={searchParams.get("lock") ?? undefined}
+                            initialGoal={searchParams.get("goal") ?? undefined}
+                            initialAction={searchParams.get("action") ?? undefined}
+                            initialRuleCategory={searchParams.get("rcat") ?? undefined}
+                            initialRuleSearch={searchParams.get("rq") ?? undefined}
+                            initialRuleSort={searchParams.get("rsort") ?? undefined}
+                            initialRuleDir={searchParams.get("rdir") ?? undefined}
+                            initialRuleLocation={searchParams.get("rloc") ?? undefined}
+                          />
+                        )}
+                      </SetCatalogGate>
+                    </ItemCategoryTreeGate>
                   </SkillCatalogGate>
                 </RecipeCatalogGate>
               </RuleTemplatesGate>
