@@ -31,4 +31,5 @@ export const theDatingGame00004 = {
   lore: ["lore/the-dating-game-boulder-woman"],
   reviewedBy: ["story-reviewer/continuity"],
   recordedBy: ["story-recorder/memory"],
+  endsAt: "2026-09-26T09:32:00.000Z",
 } as const satisfies StoryTurnPlayed

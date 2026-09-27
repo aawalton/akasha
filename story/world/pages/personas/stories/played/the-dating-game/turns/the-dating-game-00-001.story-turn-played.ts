@@ -11,4 +11,5 @@ export const theDatingGame00001 = {
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
   turnStatus: "turn-status/player",
+  endsAt: "2026-09-26T08:15:00.000Z",
 } as const satisfies StoryTurnPlayed

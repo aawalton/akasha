@@ -39,4 +39,5 @@ export const theDatingGame00018 = {
   lore: ["lore/the-dating-game-alan"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  endsAt: "2026-09-26T12:00:00.000Z",
 } as const satisfies StoryTurnPlayed
