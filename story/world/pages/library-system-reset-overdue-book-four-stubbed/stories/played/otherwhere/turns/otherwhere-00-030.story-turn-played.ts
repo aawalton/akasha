@@ -31,4 +31,5 @@ export const otherwhere00030 = {
     "The heap is nearly gone beneath it, bare floor showing through, and it is not yet dry.",
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
