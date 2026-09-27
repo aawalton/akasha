@@ -6,4 +6,10 @@ export const cadwellProgressPanelCard = {
   slug: "cadwell-progress-panel-card",
   definition: "Cadwell's Almanac, by alliance and by zone",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from its completion category page.",
+    },
+  ],
 } as const satisfies Module

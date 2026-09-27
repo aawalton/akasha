@@ -2,6 +2,7 @@ import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/r
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type {
   CharacterCadwellProgress,
   CompletionCharacter,
@@ -43,6 +44,7 @@ export function CadwellProgressPanelCard({
 
   if (selectedProgress.length === 0) return null
 
+  const title = completionCardTitle("characters", "cadwells-almanac")
   const charNames = new Map(characters.map((c) => [c.id, c.name]))
   const filterNode = createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])
 
@@ -113,7 +115,7 @@ export function CadwellProgressPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Cadwell's Almanac"
+        title={title}
         items={withActivityCategories(items, "quests")}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -146,7 +148,7 @@ export function CadwellProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Cadwell's Almanac"
+      title={title}
       items={withActivityCategories(items, "quests")}
       filterNode={filterNode}
       sortMode={sortMode}

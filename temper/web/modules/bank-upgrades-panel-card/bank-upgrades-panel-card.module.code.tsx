@@ -1,6 +1,7 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -27,10 +28,11 @@ export function BankUpgradesPanelCard({
   sortMode,
   sortDirection,
 }: BankUpgradesPanelCardProps) {
+  const title = completionCardTitle("account", "bank-upgrades")
   const items: CompletionNode[] = [
     {
       key: "bank-upgrades",
-      label: "Bank Upgrades",
+      label: title,
       count: bankUpgrade.current,
       total: bankUpgrade.max,
     },
@@ -39,7 +41,7 @@ export function BankUpgradesPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Bank Upgrades"
+      title={title}
       items={withActivityCategories(items, "other")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

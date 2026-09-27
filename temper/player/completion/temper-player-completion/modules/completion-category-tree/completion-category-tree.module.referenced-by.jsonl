@@ -18,6 +18,8 @@
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/account-zone-completion-panel-card/account-zone-completion-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/alliance-rank-panel-card/alliance-rank-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/antiquity-lore-panel-card/antiquity-lore-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/bank-upgrades-panel-card/bank-upgrades-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/cadwell-progress-panel-card/cadwell-progress-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/champion-points-panel-card/champion-points-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/character-companion-rapport-panel-card/character-companion-rapport-panel-card.module.code.tsx","typed":false,"deferred":false}

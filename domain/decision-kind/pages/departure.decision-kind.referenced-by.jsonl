@@ -6146,10 +6146,12 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/automation-select/automation-select.module.ts","id":"01a06432-b190-774c-ab52-27309a7ca3fa"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/automation-tab-wording/automation-tab-wording.module.ts","id":"01a0e2ac-36c6-745c-bb74-3c59f4bc19a2"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/automation-tab/automation-tab.module.ts","id":"01a06432-b190-7270-aa46-13a81135597b"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/bank-upgrades-panel-card/bank-upgrades-panel-card.module.ts","id":"01a06421-f74b-77f4-8d05-da4c02500010"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-date-line/build-date-line.module.ts","id":"01a0d6db-3513-7e6e-900d-32de1dfa4c87"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.ts","id":"01a0d6ce-62ac-73a1-a83d-9df3d5744100"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.ts","id":"01a0d89d-06f0-7eb8-8829-32d2898f9816"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/cadwell-progress-panel-card/cadwell-progress-panel-card.module.ts","id":"01a06421-f74b-7cbd-b36d-266f303f0011"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/champion-points-panel-card/champion-points-panel-card.module.ts","id":"01a06421-f74b-722c-9330-74c477580012"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.ts","id":"01a06421-f74b-7d4b-bfa1-cf2d5df70013"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-companion-rapport-panel-card/character-companion-rapport-panel-card.module.ts","id":"01a06421-f74b-7b1b-9302-c4893adf0014"}

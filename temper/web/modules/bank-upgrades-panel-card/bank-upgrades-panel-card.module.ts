@@ -6,4 +6,10 @@ export const bankUpgradesPanelCard = {
   slug: "bank-upgrades-panel-card",
   definition: "the bank slots the account has bought against the most there are",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from its completion category page.",
+    },
+  ],
 } as const satisfies Module
