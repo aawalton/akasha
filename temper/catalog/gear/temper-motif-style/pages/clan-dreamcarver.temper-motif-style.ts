@@ -5,6 +5,8 @@ export const clanDreamcarver = {
   type: "page-type/temper-motif-style",
   slug: "clan-dreamcarver",
   title: "Clan Dreamcarver",
+  esoItemStyleId: 142,
+  styleName: "Clan Dreamcarver",
   collectionIndex: 105,
   sourceDescription: "Sanity's Edge trial",
 } as const satisfies TemperMotifStyle
