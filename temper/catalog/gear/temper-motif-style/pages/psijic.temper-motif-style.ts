@@ -4,7 +4,9 @@ export const psijic = {
   id: "019e5a46-c40b-7dc0-a409-6c0d459ed0b7",
   type: "page-type/temper-motif-style",
   slug: "psijic",
-  title: "Psijic",
+  title: "Psijic Order",
+  esoItemStyleId: 71,
+  styleName: "Psijic Order",
   collectionIndex: 47,
   sourceDescription: "Psijic portals in Summerset",
 } as const satisfies TemperMotifStyle
