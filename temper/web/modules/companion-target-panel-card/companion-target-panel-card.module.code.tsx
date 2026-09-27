@@ -14,6 +14,13 @@ import {
   targetArmor,
 } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 import { useCompanionMetadata } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionTargetPanelCardExecuteHealth } from "akasha/temper/web/phrase/pages/companion-target-panel-card-execute-health.temper-web-phrase.ts"
+import { companionTargetPanelCardFullHealth } from "akasha/temper/web/phrase/pages/companion-target-panel-card-full-health.temper-web-phrase.ts"
+import { companionTargetPanelCardTargetArmor } from "akasha/temper/web/phrase/pages/companion-target-panel-card-target-armor.temper-web-phrase.ts"
+import { companionTargetPanelCardTargetCount } from "akasha/temper/web/phrase/pages/companion-target-panel-card-target-count.temper-web-phrase.ts"
+import { companionTargetPanelCardTargetHealth } from "akasha/temper/web/phrase/pages/companion-target-panel-card-target-health.temper-web-phrase.ts"
+import { companionTargetPanelCardTargets } from "akasha/temper/web/phrase/pages/companion-target-panel-card-targets.temper-web-phrase.ts"
 
 interface CompanionTargetPanelCardProps {
   target: {
@@ -33,9 +40,15 @@ export function CompanionTargetPanelCard({
   readOnly,
 }: CompanionTargetPanelCardProps) {
   const { updateMeta } = useCompanionMetadata()
+  const phrase = usePhrase()
   return (
-    <InputPanelCard id="companion-targets" collapsible={true} title="Targets" className={className}>
-      <InputPanelCard.Row label="Target Armor">
+    <InputPanelCard
+      id="companion-targets"
+      collapsible={true}
+      title={phrase(companionTargetPanelCardTargets.slug)}
+      className={className}
+    >
+      <InputPanelCard.Row label={phrase(companionTargetPanelCardTargetArmor.slug)}>
         <Select
           value={target.armor}
           onValueChange={(v) => {
@@ -55,7 +68,7 @@ export function CompanionTargetPanelCard({
           </SelectContent>
         </Select>
       </InputPanelCard.Row>
-      <InputPanelCard.Row label="Target Health">
+      <InputPanelCard.Row label={phrase(companionTargetPanelCardTargetHealth.slug)}>
         <Select
           value={target.targetHealth}
           onValueChange={(v) => {
@@ -67,12 +80,14 @@ export function CompanionTargetPanelCard({
             <SelectValue />
           </SelectTrigger>
           <SelectContent>
-            <SelectItem value="full">Full (100%)</SelectItem>
-            <SelectItem value="execute">Execute (25%)</SelectItem>
+            <SelectItem value="full">{phrase(companionTargetPanelCardFullHealth.slug)}</SelectItem>
+            <SelectItem value="execute">
+              {phrase(companionTargetPanelCardExecuteHealth.slug)}
+            </SelectItem>
           </SelectContent>
         </Select>
       </InputPanelCard.Row>
-      <InputPanelCard.Row label="Target Count">
+      <InputPanelCard.Row label={phrase(companionTargetPanelCardTargetCount.slug)}>
         <Select
           value={String(target.targetCount)}
           onValueChange={(v) => {

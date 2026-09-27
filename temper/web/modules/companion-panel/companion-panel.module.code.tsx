@@ -22,6 +22,12 @@ import {
   type CompanionId,
   companions,
 } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionPanelCompanion } from "akasha/temper/web/phrase/pages/companion-panel-companion.temper-web-phrase.ts"
+import { companionPanelRoleFromLive } from "akasha/temper/web/phrase/pages/companion-panel-role-from-live.temper-web-phrase.ts"
+import { companionPanelRoles } from "akasha/temper/web/phrase/pages/companion-panel-roles.temper-web-phrase.ts"
+import { companionPanelSelectCompanion } from "akasha/temper/web/phrase/pages/companion-panel-select-companion.temper-web-phrase.ts"
+import { companionPanelSelectRoles } from "akasha/temper/web/phrase/pages/companion-panel-select-roles.temper-web-phrase.ts"
 
 interface CompanionPanelProps {
   companion: CompanionState["companion"]
@@ -44,6 +50,8 @@ export function CompanionPanel({
   readOnly,
   roleReadOnly,
 }: CompanionPanelProps) {
+  const phrase = usePhrase()
+  const companionLabel = phrase(companionPanelCompanion.slug)
   const roleItems: MultiSelectItem[] = companionBaseRoles().map((role) => ({
     value: role.id,
     label: role.name,
@@ -53,15 +61,15 @@ export function CompanionPanel({
   )
 
   return (
-    <InputPanelCard id="companion" collapsible title="Companion">
-      <InputPanelCard.Row label="Companion">
+    <InputPanelCard id="companion" collapsible title={companionLabel}>
+      <InputPanelCard.Row label={companionLabel}>
         <Select
           value={companion.id}
           onValueChange={(value: CompanionId) => onUpdateCompanion({ id: value })}
           disabled={readOnly}
         >
           <SelectTrigger className="w-full min-w-0 max-w-[240px]" disabled={readOnly}>
-            <SelectValue placeholder="Select companion">
+            <SelectValue placeholder={phrase(companionPanelSelectCompanion.slug)}>
               {companions().data[companion.id]?.name}
             </SelectValue>
           </SelectTrigger>
@@ -82,14 +90,14 @@ export function CompanionPanel({
       </InputPanelCard.Row>
 
       <InputPanelCard.Row
-        label="Roles"
-        description={roleReadOnly ? "Role is set by the live build." : undefined}
+        label={phrase(companionPanelRoles.slug)}
+        description={roleReadOnly ? phrase(companionPanelRoleFromLive.slug) : undefined}
       >
         <MultiSelect
           items={roleItems}
           value={selectedRoleItems}
           onSelect={(items) => onUpdateCompanion({ baseRoles: toRoleIds(items) })}
-          caption="Select roles"
+          caption={phrase(companionPanelSelectRoles.slug)}
           className="w-full min-w-0 max-w-[240px]"
           disabled={readOnly || roleReadOnly}
         />

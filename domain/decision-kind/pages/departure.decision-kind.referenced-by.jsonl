@@ -6199,6 +6199,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-live-only-panel-card/companion-live-only-panel-card.module.ts","id":"01a0641f-8bee-7721-aab7-e59938f7ef2b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-management-panel-card/companion-management-panel-card.module.ts","id":"01a06589-8d9b-7000-b064-ee892502da91"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-overall-leaderboard-panel-card/companion-overall-leaderboard-panel-card.module.ts","id":"01a0641f-8bee-72e7-a4fe-7fb4c37b2268"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-panel/companion-panel.module.ts","id":"01a0641f-8be8-76e6-a061-d333686e2c96"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-quests-panel-card/companion-quests-panel-card.module.ts","id":"01a06421-f74b-7597-8fcf-caafacef001c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-quests-union-panel-card/companion-quests-union-panel-card.module.ts","id":"01a06421-f74b-7675-b6fd-69c40e07001d"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-rapport-panel-card/companion-rapport-panel-card.module.ts","id":"01a06421-f74b-7aa4-a2e1-eaf4c62c001e"}
@@ -6206,6 +6207,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-skill-lines-progress-panel-card/companion-skill-lines-progress-panel-card.module.ts","id":"01a06421-f74b-7777-a204-91862649001f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-skill-select-dialog/companion-skill-select-dialog.module.ts","id":"01a0642f-8c32-7775-b161-276fc7d4c191"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-stats-panel/companion-stats-panel.module.ts","id":"01a06436-3557-72c0-9712-d936c8e8eaa3"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-target-panel-card/companion-target-panel-card.module.ts","id":"01a06421-2528-75a3-8d13-1cd777feca6f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.ts","id":"01a06591-9eb0-7000-9053-bdd9b8e2dcfd"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.ts","id":"01a06421-251e-7ab9-8fd5-d60f4ba996b4"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-weapons-after-change/companion-weapons-after-change.module.ts","id":"01a0e2a9-645d-7a53-ae45-27145228aef8"}
