@@ -13,6 +13,16 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { toBuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { useCharacterMetadata } from "akasha/temper/web/modules/use-character/use-character.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { buildInfoPanelCardBuildName } from "akasha/temper/web/phrase/pages/build-info-panel-card-build-name.temper-web-phrase.ts"
+import { buildInfoPanelCardBuildNamePlaceholder } from "akasha/temper/web/phrase/pages/build-info-panel-card-build-name-placeholder.temper-web-phrase.ts"
+import { buildInfoPanelCardCharacter } from "akasha/temper/web/phrase/pages/build-info-panel-card-character.temper-web-phrase.ts"
+import { buildInfoPanelCardCharacterPlaceholder } from "akasha/temper/web/phrase/pages/build-info-panel-card-character-placeholder.temper-web-phrase.ts"
+import { buildInfoPanelCardPrivate } from "akasha/temper/web/phrase/pages/build-info-panel-card-private.temper-web-phrase.ts"
+import { buildInfoPanelCardPublic } from "akasha/temper/web/phrase/pages/build-info-panel-card-public.temper-web-phrase.ts"
+import { buildInfoPanelCardTitle } from "akasha/temper/web/phrase/pages/build-info-panel-card-title.temper-web-phrase.ts"
+import { buildInfoPanelCardUnlisted } from "akasha/temper/web/phrase/pages/build-info-panel-card-unlisted.temper-web-phrase.ts"
+import { buildInfoPanelCardVisibility } from "akasha/temper/web/phrase/pages/build-info-panel-card-visibility.temper-web-phrase.ts"
 import { useEffect, useState } from "react"
 
 interface BuildInfoPanelCardProps {
@@ -35,6 +45,7 @@ export function BuildInfoPanelCard({
   collapseProtected,
 }: BuildInfoPanelCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const { visibility, isOwner, setVisibility, updateMeta } = useCharacterMetadata()
   const nameReadOnly = !isOwner
 
@@ -48,12 +59,12 @@ export function BuildInfoPanelCard({
       id="build-info"
       collapsible={true}
       collapseProtected={collapseProtected}
-      title="Build Info"
+      title={phrase(buildInfoPanelCardTitle.slug)}
       className={className}
     >
-      <InputPanelCard.Row label="Build Name">
+      <InputPanelCard.Row label={phrase(buildInfoPanelCardBuildName.slug)}>
         <Input
-          placeholder="Build name..."
+          placeholder={phrase(buildInfoPanelCardBuildNamePlaceholder.slug)}
           value={draftName}
           onChange={(e) => setDraftName(e.target.value)}
           onBlur={() => {
@@ -63,10 +74,10 @@ export function BuildInfoPanelCard({
           readOnly={nameReadOnly}
         />
       </InputPanelCard.Row>
-      <InputPanelCard.Row label="Character">
+      <InputPanelCard.Row label={phrase(buildInfoPanelCardCharacter.slug)}>
         {}
         <Input
-          placeholder="Character name..."
+          placeholder={phrase(buildInfoPanelCardCharacterPlaceholder.slug)}
           value={character.name}
           onChange={(e) => onUpdateCharacter({ name: e.target.value })}
           onBlur={(e) => updateMeta({ characterName: e.target.value })}
@@ -75,7 +86,7 @@ export function BuildInfoPanelCard({
         />
       </InputPanelCard.Row>
       {visibility !== "live" && visibility !== "target" && (
-        <InputPanelCard.Row label="Visibility">
+        <InputPanelCard.Row label={phrase(buildInfoPanelCardVisibility.slug)}>
           <Select
             value={visibility}
             onValueChange={(v) => {
@@ -88,9 +99,9 @@ export function BuildInfoPanelCard({
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="private">Private</SelectItem>
-              <SelectItem value="unlisted">Unlisted</SelectItem>
-              <SelectItem value="public">Public</SelectItem>
+              <SelectItem value="private">{phrase(buildInfoPanelCardPrivate.slug)}</SelectItem>
+              <SelectItem value="unlisted">{phrase(buildInfoPanelCardUnlisted.slug)}</SelectItem>
+              <SelectItem value="public">{phrase(buildInfoPanelCardPublic.slug)}</SelectItem>
             </SelectContent>
           </Select>
         </InputPanelCard.Row>

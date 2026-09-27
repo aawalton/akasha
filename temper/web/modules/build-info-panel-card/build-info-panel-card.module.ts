@@ -6,4 +6,10 @@ export const buildInfoPanelCard = {
   slug: "build-info-panel-card",
   definition: "a panel card with what is known of a build",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
