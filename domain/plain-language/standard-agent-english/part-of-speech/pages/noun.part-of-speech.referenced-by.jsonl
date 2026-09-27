@@ -250,6 +250,7 @@
 {"propertySlug":"part-of-speech","path":"infrastructure/network/network.domain.ts","id":"01a0658b-0f02-7e55-94d1-d612c0ed6115"}
 {"propertySlug":"part-of-speech","path":"infrastructure/node/node.domain.ts","id":"01a0675b-16f6-70fc-b7f0-5a700f512e86"}
 {"propertySlug":"part-of-speech","path":"infrastructure/service/akasha-service/akasha-service.page-type.ts","id":"01a05a3c-caff-7656-b00d-cbde9f3cf324"}
+{"propertySlug":"part-of-speech","path":"infrastructure/service/akasha-service/desktop-app/desktop-app.page-type.ts","id":"01a0e380-aeaa-711e-8a5f-2ef9eab6222b"}
 {"propertySlug":"part-of-speech","path":"infrastructure/service/akasha-service/secret/secret.page-type.ts","id":"01a0684a-7d55-7000-bf3d-deee6d805174"}
 {"propertySlug":"part-of-speech","path":"infrastructure/service/external-service/external-service.domain.ts","id":"01a0d49d-d0ee-715a-a8ef-3047892f6f67"}
 {"propertySlug":"part-of-speech","path":"infrastructure/service/service.domain.ts","id":"01a0d4c3-0f0b-71b5-b96d-437a3498aa88"}

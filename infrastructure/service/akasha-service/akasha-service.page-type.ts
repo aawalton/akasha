@@ -19,6 +19,7 @@ export const akashaService = {
     "module/deploy-wanting",
     "number-property/cooldown-seconds",
     "page-type/cluster-foundation",
+    "page-type/desktop-app",
     "page-type/secret",
     "page-type/service-cluster",
     "page-type/service-inference",
