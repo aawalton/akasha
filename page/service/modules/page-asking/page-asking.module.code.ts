@@ -295,6 +295,8 @@ export function asking(
   const answered = (one: Computed): boolean => one.askedByName !== true || named.has(one.key)
   try {
     const worked = workedIn(carried)
+    const narrowing = narrowsOn(query, worked)
+    const working = carriesWorked(query, worked)
     const counting = gatheredFor(
       root,
       query.pageTypeSlug,
@@ -303,14 +305,15 @@ export function asking(
       reading,
       entriesWanted(query, worked),
       testsFor(query),
-      pickingFor(reading, query.where)
+      pickingFor(reading, query.where),
+      narrowing || working
     ).map((one) => {
       const row = sluggedIn(one.row)
       const computed = one.computed.every(answered) ? one.computed : one.computed.filter(answered)
       return row === one.row && computed === one.computed ? one : { row, computed }
     })
-    if (narrowsOn(query, worked)) return countedFirst(root, query, counting, withheld)
-    return narrowedFirst(root, query, counting, carriesWorked(query, worked), withheld)
+    if (narrowing) return countedFirst(root, query, counting, withheld)
+    return narrowedFirst(root, query, counting, working, withheld)
   } catch (thrown) {
     return { refused: thrown instanceof Error ? thrown.message : String(thrown), fault: "service" }
   }

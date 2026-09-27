@@ -413,7 +413,8 @@ export function gatheredFor(
   reading: Reading = readingIn(root),
   entries: ReadonlySet<string> | null = null,
   tests: ReadonlyMap<string, Testing> | null = null,
-  picking: Picking | null = null
+  picking: Picking | null = null,
+  computing = true
 ): readonly Counting[] {
   const counting: Counting[] = []
   const under = kindsUnder(ENTRY_PROPERTY, reading)
@@ -423,7 +424,7 @@ export function gatheredFor(
     const read = picked === null ? valuesOfType(reading, kind) : valuesAt(reading, picked)
     if (read.length === 0) continue
     const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind)
-    const computed = computedFor(root, reading, own)
+    const computed = computing ? computedFor(root, reading, own) : []
     const testing = bodyTests(tests, own, entrying)
     const fallbacks = sidecarsOf(reading, [kind]).get(kind)?.besides ?? NO_FALLBACKS
     const gathering = { carried: own, fallbacks, files, entries, testing, entrying }

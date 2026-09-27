@@ -54,6 +54,10 @@ export const kindsGathering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller that will work out no calculation has none loaded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The loader is handed the path a calculation's code file is at and a reader.",
     },
     {
