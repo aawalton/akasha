@@ -60,6 +60,10 @@ export const otherwhereMainHall = {
       ],
     },
     {
+      fact: "Nobody has slept in the Librarian's quarters for centuries.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
       fact: "The wardrobe holds a past Librarian's plain robes, long on Nala but wearable.",
       knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
     },
