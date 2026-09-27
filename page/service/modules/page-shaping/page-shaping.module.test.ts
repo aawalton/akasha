@@ -96,6 +96,17 @@ test("a declaration colors a title only where its page type names it", () => {
   expect(declaredAt("domain", "decisions")?.colorsTitle).toBe(false)
 })
 
+test("a shape names the page types below its own, and a page type with none names none", () => {
+  const root = rootOf(import.meta.dir)
+  const skill = shaping(root, "temper-skill")
+  if ("refused" in skill) throw new Error(skill.refused)
+  expect(skill.shape?.below).toContain("temper-scribed-skill")
+  expect(skill.shape?.below).not.toContain("temper-skill")
+  const scribed = shaping(root, "temper-scribed-skill")
+  if ("refused" in scribed) throw new Error(scribed.refused)
+  expect(scribed.shape?.below).toBeUndefined()
+})
+
 test("page types shaped together are shaped as each is shaped alone", () => {
   const root = rootOf(import.meta.dir)
   const slugs = ["domain", "decision-kind", "no-such-page-type"]

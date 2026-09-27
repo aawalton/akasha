@@ -22,6 +22,7 @@ import { foldedInLowerCamelCase } from "akasha/page/name-format/pages/lower-came
 import { icon } from "akasha/page/properties/icon.text-property.ts"
 import {
   carriedFor,
+  kindsFor,
   type Named,
   pagesOfType,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
@@ -82,6 +83,7 @@ export type Shape = {
   readonly pageTypeId: string
   readonly ownerSlug: string | null
   readonly declarations: readonly Declared[]
+  readonly below?: readonly string[]
 }
 
 export type Shaped = { readonly shape: Shape | null } | { readonly refused: string }
@@ -288,12 +290,14 @@ function shapedWithin(
         colored === `${one.pageTypeSlug}${PARTED_BY}${one.pagePropertySlug}`
       )
     })
+    const below = kindsFor(root, pageTypeSlug).filter((one) => one !== pageTypeSlug)
     return {
       shape: {
         pageType: pageTypeSlug,
         pageTypeId: own === undefined ? "" : (textAt(own, "id") ?? ""),
         ownerSlug: ownerFor(climb, pageTypeSlug),
         declarations,
+        ...(below.length === 0 ? {} : { below }),
       },
     }
   } catch (thrown) {

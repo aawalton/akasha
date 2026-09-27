@@ -62,6 +62,10 @@ export const pageShaping = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A shape names every page type below its own page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A name that is no page type is shaped as nothing rather than refused.",
     },
     {
