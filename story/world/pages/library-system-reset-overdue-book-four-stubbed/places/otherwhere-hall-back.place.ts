@@ -274,11 +274,19 @@ export const otherwhereHallBack = {
     },
 
     {
-      fact: "Nala baited the fourth small bookworm's lunge, seized its neck and drove it into the salt heap.",
+      fact: "Four small bookworms are dried into hard grey coils; the last small one and the big one remain.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "The fourth small bookworm is pinned in the salt heap under Nala, shrunken but not yet dry.",
+      fact: "The last small bookworm fed about thirty feet short of the back steps until Nala lured it out.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala has the last small bookworm pinned by the neck in the dregs of her heap, not yet dry.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala's salt heap is nearly used up, bare floor showing through under the pinned bookworm.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
