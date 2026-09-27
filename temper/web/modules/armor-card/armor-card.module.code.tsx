@@ -46,6 +46,7 @@ import {
   getSetById,
   SetSelectDialog,
 } from "akasha/temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { useMemo, useState } from "react"
 
 export interface ArmorUpdateParams {
@@ -78,6 +79,7 @@ export function ArmorCard({
   readOnly,
 }: ArmorCardProps) {
   const [isSetDialogOpen, setIsSetDialogOpen] = useState(false)
+  const phrase = usePhrase()
 
   const itemData = item.itemType === "armor" ? item.data : null
   const currentSetId = itemData?.set ?? "no-set"
@@ -144,7 +146,7 @@ export function ArmorCard({
           <EquipmentIcon
             primarySrc={iconPath}
             fallbackSrc={armorSlots.data[slot].icon}
-            alt={slot}
+            alt={name}
           />
         )}
         renderContent={() => (
@@ -165,7 +167,9 @@ export function ArmorCard({
                       {getQualityLabel(itemData?.quality ?? "no-quality")}
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-quality", label: "No Quality" }}>
+                  <SelectContent
+                    nullSentinel={{ value: "no-quality", label: phrase("armor-card--no-quality") }}
+                  >
                     {availableQualityOptions()
                       .filter((option) => option.id !== "no-quality")
                       .map((option) => (
@@ -186,7 +190,7 @@ export function ArmorCard({
                   disabled={readOnly}
                 >
                   <Badge variant="elevation-muted" className="shrink-0">
-                    {selectedSet?.name ?? "No Set"}
+                    {selectedSet?.name ?? phrase("armor-card--no-set")}
                   </Badge>
                 </button>
                 <Select<StandardArmorWeightId>
@@ -196,10 +200,12 @@ export function ArmorCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder="No Weight" />
+                      <SelectValue placeholder={phrase("armor-card--no-weight")} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-weight", label: "No Weight" }}>
+                  <SelectContent
+                    nullSentinel={{ value: "no-weight", label: phrase("armor-card--no-weight") }}
+                  >
                     {validWeightOptions
                       .filter((option) => option.id !== "no-weight")
                       .map((option) => (
@@ -216,10 +222,13 @@ export function ArmorCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder="No Trait" />
+                      <SelectValue placeholder={phrase("armor-card--no-trait")} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-trait", label: "No Trait" }} sorted>
+                  <SelectContent
+                    nullSentinel={{ value: "no-trait", label: phrase("armor-card--no-trait") }}
+                    sorted
+                  >
                     {armorTraitOptions(itemData?.trait ?? "no-trait")
                       .filter((option) => option.id !== "no-trait")
                       .map((option) => (
@@ -236,10 +245,13 @@ export function ArmorCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder="No Enchant" />
+                      <SelectValue placeholder={phrase("armor-card--no-enchant")} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-enchant", label: "No Enchant" }} sorted>
+                  <SelectContent
+                    nullSentinel={{ value: "no-enchant", label: phrase("armor-card--no-enchant") }}
+                    sorted
+                  >
                     {armorEnchants.list
                       .filter((option) => option.id !== "no-enchant")
                       .map((option) => (
@@ -254,7 +266,7 @@ export function ArmorCard({
           </div>
         )}
         onRemove={!readOnly && hasValues ? onRemove : undefined}
-        removeLabel={`Remove ${name}`}
+        removeLabel={phrase("armor-card--remove", { name })}
       />
 
       {!readOnly && (
