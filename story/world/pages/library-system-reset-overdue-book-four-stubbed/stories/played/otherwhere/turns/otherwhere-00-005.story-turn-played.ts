@@ -29,4 +29,5 @@ export const otherwhere00005 = {
   issues: ['"It sits back on its haunches in front of you" - Leave It Open'],
   lore: ["lore/otherwhere-alan", "place/otherwhere-core-chamber", "lore/otherwhere-links"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
