@@ -28,4 +28,5 @@ export const otherwhere00023 = {
     "Outside, the first bookworm drops the chewed broom and turns its blind head toward the wider gap.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
