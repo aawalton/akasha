@@ -6,4 +6,10 @@ export const navCommand = {
   slug: "nav-command",
   definition: "the commands offered beside Alan's navigation items",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The command reaching home is named by the title of the home site document.",
+    },
+  ],
 } as const satisfies Module

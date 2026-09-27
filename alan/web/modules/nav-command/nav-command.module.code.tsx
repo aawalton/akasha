@@ -16,7 +16,9 @@ interface NavCommand {
   href: string
 }
 
-const HOME: NavCommand = { id: "home", label: "Home", href: "/home" }
+const HOME_ID = "home"
+
+const HOME_HREF = "/home"
 
 function NavCommandBinding({ command }: { command: NavCommand }) {
   const navigate = useNavigate()
@@ -31,8 +33,8 @@ function NavCommandBinding({ command }: { command: NavCommand }) {
   return null
 }
 
-export function NavCommands() {
-  return <NavCommandBinding command={HOME} />
+export function NavCommands({ homeLabel }: { homeLabel: string }) {
+  return <NavCommandBinding command={{ id: HOME_ID, label: homeLabel, href: HOME_HREF }} />
 }
 
 export function DynamicNavCommands({ entries }: { entries: readonly AppNavItem[] }) {

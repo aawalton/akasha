@@ -22,7 +22,14 @@ import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
-import { isRouteErrorResponse, Links, Meta, Scripts, ScrollRestoration } from "react-router"
+import {
+  isRouteErrorResponse,
+  Links,
+  Meta,
+  Scripts,
+  ScrollRestoration,
+  useRouteLoaderData,
+} from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
 import "akasha/alan/web/modules/declared-effects/declared-effects.module.code.ts"
@@ -32,6 +39,10 @@ import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
 
 const WEB_APP = namedAs("web-app", alanwaltonWeb.slug, null)
+
+const HOME_PATH = "home"
+
+const ROOT = "root"
 
 const AUTH_CONFIG: RouteAccessConfig = {
   signInPath: "/sign-in",
@@ -87,11 +98,16 @@ export const meta = metaFor(null)
 export async function loader({ request }: Route.LoaderArgs) {
   const guarded = await guardedRoot(request, AUTH_CONFIG)
   if (guarded !== null) throw guarded
-  return { document: await siteDocumentAt(WEB_APP, "") }
+  const [document, home] = await Promise.all([
+    siteDocumentAt(WEB_APP, ""),
+    siteDocumentAt(WEB_APP, HOME_PATH),
+  ])
+  return { document, homeLabel: home.title }
 }
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useDocumentNonce()
+  const homeLabel = useRouteLoaderData<typeof loader>(ROOT)?.homeLabel
   useEffect(() => {
     setStoreDiagnosticsSink((d) =>
       reportError({
@@ -125,7 +141,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
           <StatusBarSync />
           <CommandPalette />
           <ShortcutSheet />
-          <NavCommands />
+          {homeLabel === undefined ? null : <NavCommands homeLabel={homeLabel} />}
         </SurfaceProvider>
         <ScrollRestoration nonce={nonce} />
         <Scripts nonce={nonce} />
