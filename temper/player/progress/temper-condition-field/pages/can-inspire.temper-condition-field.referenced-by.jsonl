@@ -2,3 +2,5 @@
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-inspire-stolen/rule-inspire-stolen.temper-inventory-rule.ts","id":"01a0728b-4fbd-795a-8639-2dab20ad7664"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/inspire-current/inspire-current.temper-rule-template.ts","id":"019e3104-2614-7fae-9ee7-2ef21026f460"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/inspire-stolen/inspire-stolen.temper-rule-template.ts","id":"019e3104-2614-7316-8d1c-1e373007d0dc"}
+{"propertySlug":"condition-value-field","path":"temper/player/progress/temper-condition-value/pages/can-inspire.temper-condition-value.ts","id":"01a0e271-5ad0-7342-8bbc-2d069617a19f"}
+{"propertySlug":"condition-value-field","path":"temper/player/progress/temper-condition-value/pages/cannot-inspire.temper-condition-value.ts","id":"01a0e271-5ad0-7e3c-865a-3628fc644a1b"}

@@ -30,3 +30,5 @@
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/treasures-epic-stolen/treasures-epic-stolen.temper-rule-template.ts","id":"019e3104-261f-7668-98d5-65fc2dc8d58a"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/treasures-stolen-fence/treasures-stolen-fence.temper-rule-template.ts","id":"019e3104-2626-7e2a-8df5-d83385768ba5"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/unlock-stolen/unlock-stolen.temper-rule-template.ts","id":"019e3104-260f-720f-a4f3-f1fd9c5c717e"}
+{"propertySlug":"condition-value-field","path":"temper/player/progress/temper-condition-value/pages/not-stolen.temper-condition-value.ts","id":"01a0e271-5ad0-758e-80f0-d032bc47fea5"}
+{"propertySlug":"condition-value-field","path":"temper/player/progress/temper-condition-value/pages/stolen.temper-condition-value.ts","id":"01a0e271-5ad1-7277-9619-ffeed0b7eab6"}

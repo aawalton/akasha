@@ -16,3 +16,5 @@
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/glyphs-deconstruct/glyphs-deconstruct.temper-rule-template.ts","id":"019e3104-261c-7f8f-9381-55d36b62a9c8"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/poisons-normal-sell/poisons-normal-sell.temper-rule-template.ts","id":"019e3104-262b-7172-acfb-0833ef728080"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/potions-normal-sell/potions-normal-sell.temper-rule-template.ts","id":"019e3104-2629-7ebe-9f50-1a7872c15fd0"}
+{"propertySlug":"condition-value-field","path":"temper/player/progress/temper-condition-value/pages/crafted.temper-condition-value.ts","id":"01a0e271-5ad0-70e7-acf2-a13cb2da13c1"}
+{"propertySlug":"condition-value-field","path":"temper/player/progress/temper-condition-value/pages/not-crafted.temper-condition-value.ts","id":"01a0e271-5ad0-738f-b198-8b5e8e14d231"}

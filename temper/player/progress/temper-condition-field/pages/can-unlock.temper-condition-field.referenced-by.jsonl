@@ -6,3 +6,5 @@
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-inventory-rule/pages/rule-unlock-stolen/rule-unlock-stolen.temper-inventory-rule.ts","id":"01a0728b-8ec2-7808-9e1b-362739c2b586"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/unlock-by-priority/unlock-by-priority.temper-rule-template.ts","id":"019e3104-2610-72db-8869-9f0539544306"}
 {"propertySlug":"condition-field","path":"temper/player/progress/temper-rule-template/pages/unlock-stolen/unlock-stolen.temper-rule-template.ts","id":"019e3104-260f-720f-a4f3-f1fd9c5c717e"}
+{"propertySlug":"condition-value-field","path":"temper/player/progress/temper-condition-value/pages/can-unlock.temper-condition-value.ts","id":"01a0e271-5ad0-7e44-8fc2-3fa21dccad2d"}
+{"propertySlug":"condition-value-field","path":"temper/player/progress/temper-condition-value/pages/cannot-unlock.temper-condition-value.ts","id":"01a0e271-5ad0-7221-8d8d-600f88dd77db"}
