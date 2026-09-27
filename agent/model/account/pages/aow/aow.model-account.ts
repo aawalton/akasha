@@ -11,6 +11,7 @@ export const aow = {
   subscriptionType: "max",
   rateLimitTier: "default_claude_max_20x",
   renewalDay: 30,
+  subscriptionCanceled: true,
   scopes: [
     "user:file_upload",
     "user:inference",

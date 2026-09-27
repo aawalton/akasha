@@ -11,6 +11,7 @@ export const amywalton = {
   subscriptionType: "max",
   rateLimitTier: "default_claude_max_20x",
   renewalDay: 5,
+  subscriptionCanceled: true,
   scopes: [
     "user:file_upload",
     "user:inference",
