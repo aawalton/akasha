@@ -32,5 +32,7 @@ export const otherwhere00002 = {
     "The hum deepens through her socks, and the trunk's warmth reaches her across the floor.",
     "It is the only thing in the red chamber that answered her voice.",
   ],
+  issues: ['"it\'s the only thing that answered your voice" - Leave It Open'],
   lore: ["lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
