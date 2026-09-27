@@ -12,6 +12,10 @@ export const theDatingGameGrace = {
       fact: "Grace lives in a quiet rented house on Apple Avenue in Provo.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Late on Saturday afternoons Grace sits on her front step, resting before her night.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
