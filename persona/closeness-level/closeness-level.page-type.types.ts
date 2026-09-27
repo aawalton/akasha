@@ -1,4 +1,5 @@
 import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+import type { Conduct } from "akasha/persona/closeness-level/properties/conduct.text-property.types.ts"
 import type { Level } from "akasha/persona/closeness-level/properties/level.number-property.types.ts"
 import type { PointsToHere } from "akasha/persona/closeness-level/properties/points-to-here.number-property.types.ts"
 import type { PointsToNext } from "akasha/persona/closeness-level/properties/points-to-next.number-property.types.ts"
@@ -13,4 +14,5 @@ export type ClosenessLevel = Domain & {
   stage: Stage
   wardrobe: Wardrobe
   pose: Pose
+  conduct: Conduct
 }

@@ -4,7 +4,7 @@ export const closenessLevel = {
   id: "01a0540e-5111-7164-acb3-f776b18d8b45",
   type: "page-type/page-type",
   slug: "closeness-level",
-  definition: "a rung of how close a persona is drawn, from public to unveiled",
+  definition: "a rung of how close a persona and Alan have grown",
   extends: ["page-type/domain"],
   parts: [
     "closeness-level/level-1",
@@ -22,6 +22,7 @@ export const closenessLevel = {
     "text-property/pose",
     "text-property/stage",
     "text-property/wardrobe",
+    "text-property/conduct",
   ],
   properties: [
     { pageProperty: "number-property/level", required: true, many: false },
@@ -30,6 +31,7 @@ export const closenessLevel = {
     { pageProperty: "text-property/stage", required: true, many: false },
     { pageProperty: "text-property/wardrobe", required: true, many: false },
     { pageProperty: "text-property/pose", required: true, many: false },
+    { pageProperty: "text-property/conduct", required: true, many: false },
   ],
   decisions: [
     {

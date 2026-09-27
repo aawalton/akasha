@@ -400,6 +400,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-ip-address.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-text-version.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"person/sms-consent/properties/sms-consent-user-agent.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/closeness-level/properties/conduct.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/closeness-level/properties/pose.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/closeness-level/properties/stage.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"persona/closeness-level/properties/wardrobe.text-property.ts","typed":true,"deferred":false}

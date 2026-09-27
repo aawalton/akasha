@@ -5,7 +5,7 @@ export const pose = {
   type: "page-type/text-property",
   slug: "pose",
   propertySlug: "pose",
-  definition: "how a persona is posed and framed at a rung",
+  definition: "how a persona is posed and framed in her pictures at a rung",
   maxLength: 300,
   nameFormat: null,
   types: "ts",

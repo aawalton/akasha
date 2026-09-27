@@ -3593,6 +3593,7 @@
 {"propertySlug":"decision-kind","path":"person/sms-consent/wording/sms-consent-wording.page-type.ts","id":"01a0e2c7-84b5-7ccd-9573-77448bf87556"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/closeness-level.page-type.ts","id":"01a0540e-5111-7164-acb3-f776b18d8b45"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/modules/climbing/closeness-level-climbing.computed-property-module.ts","id":"01a0de40-70c1-7117-995f-89c63500b732"}
+{"propertySlug":"decision-kind","path":"persona/closeness-level/properties/conduct.text-property.ts","id":"01a0e34c-c678-7218-bfd6-ed6f9379e3b0"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/points-to-here.number-property.ts","id":"01a0541b-6a82-72e4-a9db-75b5573cc8ee"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/points-to-next.number-property.ts","id":"01a0541b-6a83-7beb-9eb1-d13e2108d749"}
 {"propertySlug":"decision-kind","path":"persona/closeness-level/properties/relationship-level.relation-property.ts","id":"01a0655b-4a9b-7002-96a4-5f01bb918e88"}

@@ -5,7 +5,7 @@ export const wardrobe = {
   type: "page-type/text-property",
   slug: "wardrobe",
   propertySlug: "wardrobe",
-  definition: "what a persona wears at a rung",
+  definition: "what a persona wears in her pictures at a rung",
   maxLength: 200,
   nameFormat: null,
   types: "ts",
