@@ -67,6 +67,10 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "Bookworms feed on magical residue, clean up book dust, and have affinities of their own.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
