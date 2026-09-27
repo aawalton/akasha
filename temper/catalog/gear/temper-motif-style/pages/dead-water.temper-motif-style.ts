@@ -5,6 +5,8 @@ export const deadWater = {
   type: "page-type/temper-motif-style",
   slug: "dead-water",
   title: "Dead-Water",
+  esoItemStyleId: 79,
+  styleName: "Dead-Water",
   collectionIndex: 55,
   sourceDescription: "Dailies (Murkmire)",
   dropSources: [
