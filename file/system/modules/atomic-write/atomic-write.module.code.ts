@@ -24,8 +24,15 @@ function isBusyError(err: unknown): boolean {
   return code === "EBUSY" || code === "EAGAIN"
 }
 
-function tempPathFor(path: string): string {
+const WRITTEN_BESIDE = /\.tmp-\d+-[a-z0-9]+$/
+
+export function tempPathFor(path: string): string {
   return `${path}.tmp-${process.pid}-${Math.random().toString(36).slice(2, 10)}`
+}
+
+export function pathWrittenBeside(path: string): string | null {
+  const found = WRITTEN_BESIDE.exec(path)
+  return found === null ? null : path.slice(0, found.index)
 }
 
 function retrySync<T>(fn: () => T, label: string, onRetry?: (message: string) => void): T {

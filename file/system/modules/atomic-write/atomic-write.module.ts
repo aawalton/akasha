@@ -22,6 +22,15 @@ export const atomicWrite = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The path written beside names the path it is written for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A watcher hearing only the path written beside hears the path it was written for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Only a caller asking for another attempt has a busy file system tried again.",
     },
     {

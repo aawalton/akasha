@@ -298,6 +298,7 @@
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/modules/value/page-value.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/page-appending/page-appending.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/page-following/page-following.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"scratching.module.code.ts","path":"page/service/modules/reads-keeping/reads-keeping.module.test.ts","typed":false,"deferred":false}

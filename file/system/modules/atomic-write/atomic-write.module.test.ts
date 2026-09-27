@@ -1,7 +1,11 @@
 import { afterAll, expect, test } from "bun:test"
 import { chmodSync, readdirSync, statSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
-import { writeFileAtomicSync } from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
+import {
+  pathWrittenBeside,
+  tempPathFor,
+  writeFileAtomicSync,
+} from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 
 const scratch = scratchWorld()
@@ -39,6 +43,13 @@ test("a reader reading while a large body is written over and over sees only who
   expect(turn).toBeGreaterThan(10)
   expect(seen.length).toBeGreaterThan(0)
   expect(seen.every((length) => length === OLD.length || length === NEW.length)).toBe(true)
+})
+
+test("a path written beside another names the path it is written for, and no other path does", () => {
+  const at = "/r/temper/catalog/skill/pages/soul-summons/soul-summons.temper-skill.ts"
+  expect(pathWrittenBeside(tempPathFor(at))).toBe(at)
+  expect(pathWrittenBeside(at)).toBeNull()
+  expect(pathWrittenBeside("/r/notes.tmp")).toBeNull()
 })
 
 test("a body written over a file keeps that file's mode and leaves nothing beside it", () => {

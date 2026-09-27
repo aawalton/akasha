@@ -1,5 +1,12 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
+import { watch, writeFileSync } from "node:fs"
+import { join } from "node:path"
 import type { ReadableStreamDefaultReader } from "node:stream/web"
+import {
+  tempPathFor,
+  writeFileAtomicSync,
+} from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { askedIn } from "akasha/page/service/modules/follow-asking/follow-asking.module.code.ts"
 import {
   type Held,
@@ -10,8 +17,13 @@ import {
   eventSaid,
   followingFor,
   keysFor,
+  nameHeard,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
 import { z } from "zod"
+
+const scratch = scratchWorld()
+
+afterAll(scratch.sweep)
 
 const STREAM_SAID = z.looseObject({ stream: z.string() })
 
@@ -53,6 +65,31 @@ test("any file named for a page is a change to that page", () => {
     slug: "athena",
   })
   expect(changedAt("/r/agent/seat/pages/athena/notes")).toBeNull()
+})
+
+test("a file written beside a page and renamed onto it is a change to that page", () => {
+  const folder = "/r/temper/catalog/skill/pages/soul-summons"
+  const page = "soul-summons.temper-skill.ts"
+  expect(changedAt(join(folder, nameHeard(tempPathFor(page))))).toEqual({
+    pageTypeSlug: "temper-skill",
+    slug: "soul-summons",
+  })
+  expect(nameHeard(page)).toBe(page)
+})
+
+test("a page written the way a landing writes it is heard under its own name", async () => {
+  const folder = scratch.rootFor("akasha-page-following-")
+  const page = "athena.seat.ts"
+  writeFileSync(join(folder, page), "old")
+  const heard: string[] = []
+  const watcher = watch(folder, (_, name) => {
+    if (typeof name === "string" && name !== "") heard.push(nameHeard(name))
+  })
+  await Bun.sleep(50)
+  writeFileAtomicSync(join(folder, page), "new")
+  await Bun.sleep(200)
+  watcher.close()
+  expect(heard).toContain(page)
 })
 
 test("a follow is refused where it names no stream or names pages some other way", () => {

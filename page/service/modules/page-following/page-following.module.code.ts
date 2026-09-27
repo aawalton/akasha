@@ -1,5 +1,6 @@
 import { type FSWatcher, watch } from "node:fs"
 import { join } from "node:path"
+import { pathWrittenBeside } from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
 import {
   listedAt,
   listedById,
@@ -131,6 +132,10 @@ export function keysFor(
     keys.push(held.key)
   }
   return keys
+}
+
+export function nameHeard(name: string): string {
+  return pathWrittenBeside(name) ?? name
 }
 
 export function changedAt(path: string): Changed | null {
@@ -267,7 +272,8 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
       try {
         const watcher = watch(folder, (_, name) => {
           if (typeof name !== "string" || name === "") return
-          for (const heard of hearing.get(folder) ?? []) heard(name)
+          const named = nameHeard(name)
+          for (const heard of hearing.get(folder) ?? []) heard(named)
         })
         watcher.on("error", () => {
           watcher.close()

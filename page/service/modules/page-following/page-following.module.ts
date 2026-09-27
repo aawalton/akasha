@@ -53,6 +53,14 @@ export const pageFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A file written beside a page to be renamed onto it is a change to that page.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A rename is heard only under the name it was renamed from.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The index changing under a page type followed as a list is a change to that list.",
     },
