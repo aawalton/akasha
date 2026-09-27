@@ -29,4 +29,5 @@ export const theDatingGame00014 = {
     '"Get all the characters right," she gives back, a challenge in it.',
     "Then she taps her own chest twice, grinning, and holds his eyes.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
