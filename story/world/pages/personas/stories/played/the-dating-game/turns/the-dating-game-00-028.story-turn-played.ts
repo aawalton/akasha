@@ -26,5 +26,7 @@ export const theDatingGame00028 = {
     "She glances at him sidelong as they pass between the first rows.",
     '"Do places like this bother you?"',
   ],
+  issues: ['"So nobody has to walk in it without a light." - Nobody Acts'],
   lore: ["lore/the-dating-game-grace", "place/the-dating-game-provo-city-cemetery"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
