@@ -69,7 +69,7 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "With the alarm stopped, the chamber's glow is its dim blue-green again.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A trunk wider than a house rises from the chamber's center into the dark.",
@@ -133,7 +133,7 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "A Librarian syncs with the core by laying both hands on the trunk, shoulder-width apart.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Walking toward the trunk, it seemed to come no closer, until all at once it was right there.",
@@ -257,6 +257,10 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "The second sync took none of Nala's mana or health.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The panel read: Synchronization Complete",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
