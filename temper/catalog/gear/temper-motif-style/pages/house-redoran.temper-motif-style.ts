@@ -6,6 +6,7 @@ export const houseRedoran = {
   slug: "house-redoran",
   title: "House Redoran",
   esoItemStyleId: 48,
+  styleName: "Redoran",
   collectionIndex: 38,
   sourceDescription: "Pickpocketing and theft in Vvardenfell",
 } as const satisfies TemperMotifStyle
