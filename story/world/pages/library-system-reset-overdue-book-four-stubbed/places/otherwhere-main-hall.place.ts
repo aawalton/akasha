@@ -120,6 +120,14 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "A bookworm's lunge stops at a salt line, but its head can stretch about a foot over it to bite.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Sweeping a salt ring along opens brief gaps in its edge with each push of the broom.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
