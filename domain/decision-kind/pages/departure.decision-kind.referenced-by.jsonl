@@ -5603,9 +5603,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/all-stocked-filter/all-stocked-filter.module.ts","id":"01a06100-3be0-7ea8-a8de-32cfd5204303"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/bop-tradeable-filter/bop-tradeable-filter.module.ts","id":"01a06100-3be1-7979-a9b4-6bd9fb79cac2"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/bound-filter/bound-filter.module.ts","id":"01a06100-3be2-7f00-99b6-1c954caa2761"}
-{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.ts","id":"01a060d9-44c8-7b58-864b-b81a0c27cbac"}
-{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.ts","id":"01a0d8c8-b513-7c0f-9b4c-dba3562af97a"}
-{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.ts","id":"01a060d9-44c9-749c-9acb-57edbe6a08a9"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/buy-shortfall/buy-shortfall.module.ts","id":"01a060d9-44c8-7b58-864b-b81a0c27cbac"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/can-companion-equip-filter/can-companion-equip-filter.module.ts","id":"01a06100-3be3-7f9c-94ec-fd44ada789d8"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/can-give-max-rewards-filter/can-give-max-rewards-filter.module.ts","id":"01a06100-3be5-777a-bd80-406d92d501f0"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/can-inspire-filter/can-inspire-filter.module.ts","id":"01a06100-3be6-79c6-a993-675a57105c50"}
@@ -5998,7 +5996,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/progress/inboxes-temper-tasks/inboxes-temper-tasks.readout.ts","id":"01a0603b-d45a-7ff5-8a9e-03ecb545e854"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-activity-category/properties/activity-category.relation-property.ts","id":"01a0e0d3-5e3e-79bf-bcad-2db1d5fad3d6"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-buy-action/temper-buy-action.page-type.ts","id":"01a0e26e-81e8-733a-ad6e-2c287252b8b9"}
-{"propertySlug":"decision-kind","path":"temper/player/progress/temper-buy-rule/temper-buy-rule.page-type.ts","id":"01a0d8c2-d1e0-71d4-925b-ccd78a3cee1b"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts","id":"01a0d8a0-f74f-7aab-abac-00f4c0cf0fed"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-comparison-op/modules/comparison-op-pages/comparison-op-pages.module.ts","id":"01a0d8ab-069a-79e1-9dcd-eda00db6b456"}
 {"propertySlug":"decision-kind","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts","id":"01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4"}

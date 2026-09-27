@@ -8,11 +8,6 @@ import { askComposed } from "akasha/page/query/modules/store-spelled-asking/stor
 import { AutomationSettingsShape } from "akasha/temper/items/inventory-automation/modules/automation-settings-shape/automation-settings-shape.module.code.ts"
 import type { AutomationSettings } from "akasha/temper/items/inventory-automation/modules/automation-toggles/automation-toggles.module.code.ts"
 import {
-  BUY_RULE_PAGE_TYPE,
-  buyRulesFromRows,
-  buyRuleWritesFor,
-} from "akasha/temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts"
-import {
   heldFromRows,
   rulesFromPages,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
@@ -47,7 +42,7 @@ const SETTINGS = "settings"
 
 const INVENTORY_SLICE = "inventory"
 
-const PAGE_KEYS: ReadonlySet<string> = new Set(["rules", "itemRules", "buyRules"])
+const PAGE_KEYS: ReadonlySet<string> = new Set(["rules", "itemRules"])
 
 const ENDING = "json"
 
@@ -212,20 +207,15 @@ async function readInventorySlice(
 export async function readInventoryRuleSettings(accountUserId: string): Promise<InventoryRules> {
   const slice = await readInventorySlice(accountUserId, "readInventoryRuleSettings")
   const accountPage = await accountAddressOf(accountUserId)
-  const [ruleRows, itemRows, buyRows] = await Promise.all([
+  const [ruleRows, itemRows] = await Promise.all([
     rowsOf(RULE_PAGE_TYPE_SLUG, accountPage),
     rowsOf(ITEM_RULE_PAGE_TYPE, accountPage),
-    rowsOf(BUY_RULE_PAGE_TYPE, accountPage),
   ])
   const settings = InventoryRuleSettingsShape.parse({
     ...besidePages(slice, { version: 2, rules: [] }),
     rules: rulesFromPages(heldFromRows(ruleRows)),
   })
-  return {
-    ...settings,
-    itemRules: itemRulesFromRows(itemRows),
-    buyRules: buyRulesFromRows(buyRows),
-  }
+  return { ...settings, itemRules: itemRulesFromRows(itemRows) }
 }
 
 export function besidePages(
@@ -253,23 +243,17 @@ export async function writeInventoryRuleSettings(
   await loadSkillCatalog()
   const accountPage = await accountAddressOf(accountUserId)
   const writtenAt = Date.now()
-  const [ruleRows, itemRows, buyRows] = await Promise.all([
+  const [ruleRows, itemRows] = await Promise.all([
     rowsOf(RULE_PAGE_TYPE_SLUG, accountPage),
     rowsOf(ITEM_RULE_PAGE_TYPE, accountPage),
-    rowsOf(BUY_RULE_PAGE_TYPE, accountPage),
   ])
   const ruleWrites = writesFor(next.rules, heldFromRows(ruleRows), accountPage, writtenAt)
   const itemWrites =
     next.itemRules === undefined
       ? undefined
       : itemRuleWritesFor(next.itemRules, itemRows, accountPage, writtenAt)
-  const buyWrites =
-    next.buyRules === undefined
-      ? undefined
-      : buyRuleWritesFor(next.buyRules, buyRows, accountPage, writtenAt)
   await landWrites(RULE_PAGE_TYPE_SLUG, ruleWrites)
   if (itemWrites !== undefined) await landWrites(ITEM_RULE_PAGE_TYPE, itemWrites)
-  if (buyWrites !== undefined) await landWrites(BUY_RULE_PAGE_TYPE, buyWrites)
   const kept = await readInventorySlice(accountUserId, "writeInventoryRuleSettings")
   await writeSlice(
     accountUserId,

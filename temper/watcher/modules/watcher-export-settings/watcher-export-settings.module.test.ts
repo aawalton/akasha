@@ -1,6 +1,5 @@
 import { expect, test } from "bun:test"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-import { buyRulePageOf } from "akasha/temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts"
 import type { HeldRule } from "akasha/temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts"
 import { itemRulePageOf } from "akasha/temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts"
 import { temperAccount } from "akasha/temper/player/character/temper-account/temper-account.page-type.ts"
@@ -271,21 +270,6 @@ const AN_ITEM_RULE_ROW = itemRulePageOf(
   0
 ).values
 
-const A_BUY_RULE_ROW = buyRulePageOf(
-  {
-    id: "0e353660",
-    itemId: 30357,
-    itemName: "Lockpick",
-    targetQuantity: 4000,
-    source: "merchant",
-    active: true,
-    updatedAt: 1780316148618,
-  },
-  `${temperAccount.slug}/alan`,
-  0,
-  0
-).values
-
 test("the item rules exported are the ones the player's item rule pages carry", async () => {
   const blobbed = {
     ...SETTINGS_WITHOUT_INVENTORY,
@@ -306,22 +290,6 @@ test("an item rule page alone is enough to export the inventory blocks", async (
   const { seams } = seamsFor({}, recorded, [], [], { itemRows: [AN_ITEM_RULE_ROW] })
   await runExportSettings(BEFORE, NO_CLIENT, { userId: "alan" }, seams)
   expect(recorded.said).not.toContain("No settings to export.")
-})
-
-test("a buy rule page short of its quantity stops the compile and writes no side file", async () => {
-  const recorded = recorder()
-  const { seams } = seamsFor(SETTINGS_WITHOUT_INVENTORY, recorded, [], [], {
-    buyRows: [{ ...A_BUY_RULE_ROW, targetQuantity: undefined }],
-  })
-  await expect(
-    runExportSettings(
-      BEFORE,
-      NO_CLIENT,
-      { userId: "alan", inventoryConfigPath: "/var/tmp/inventory.lua" },
-      seams
-    )
-  ).rejects.toThrow("states no `targetQuantity`")
-  expect(recorded.written).toEqual([])
 })
 
 const A_BODY = JSON.stringify({

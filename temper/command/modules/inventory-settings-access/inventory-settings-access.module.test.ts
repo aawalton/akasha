@@ -16,14 +16,6 @@ const ITEM_RULE = {
   action: "stock",
 } as const
 
-const BUY_RULE = {
-  id: "0e353660",
-  itemId: 30357,
-  itemName: "Lockpick",
-  targetQuantity: 4000,
-  source: "merchant",
-} as const
-
 const CATEGORY_RULE = { id: "cat-1", categoryId: "weapons", action: "sell", active: true } as const
 
 test("the rules the write carries are left out, because a rule is a page", () => {
@@ -46,11 +38,6 @@ test("an item rule the write carries is left out, because an item rule is a page
   expect(Object.hasOwn(out, "itemRules")).toBe(false)
 })
 
-test("a buy rule the write carries is left out, because a buy rule is a page", () => {
-  const out = besidePages({}, { version: 2, rules: [], buyRules: [BUY_RULE] })
-  expect(Object.hasOwn(out, "buyRules")).toBe(false)
-})
-
 test("a key the blob keeps that the write says nothing of stays", () => {
   const out = besidePages(
     { "managed-guild-banks": { managedGuildBanks: ["g1"] } },
@@ -59,11 +46,8 @@ test("a key the blob keeps that the write says nothing of stays", () => {
   expect(out["managed-guild-banks"]).toEqual({ managedGuildBanks: ["g1"] })
 })
 
-test("the item rules and buy rules an earlier write left in the blob are taken out", () => {
-  const out = besidePages(
-    { version: 2, itemRules: [ITEM_RULE], buyRules: [BUY_RULE] },
-    { version: 2, rules: [] }
-  )
+test("the item rules an earlier write left in the blob are taken out", () => {
+  const out = besidePages({ version: 2, itemRules: [ITEM_RULE] }, { version: 2, rules: [] })
   expect(out).toEqual({ version: 2 })
 })
 

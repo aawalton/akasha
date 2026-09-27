@@ -58,7 +58,7 @@ const CLEARABLE = [
 
 export type PageRow = Readonly<Record<string, unknown>>
 
-export interface WantedPage {
+interface WantedPage {
   readonly slug: string
   readonly values: Readonly<Record<string, unknown>>
 }
@@ -72,11 +72,11 @@ function unreadRule(kind: string, slug: string, why: string): Error {
   return new Error(`the ${kind} \`${slug}\` is unread — ${why}`)
 }
 
-export function refusedRule(kind: string, slug: string, why: string): Error {
+function refusedRule(kind: string, slug: string, why: string): Error {
   return new Error(`the ${kind} \`${slug}\` ${why}, and the rule is not written`)
 }
 
-export function slugIn(row: PageRow, kind: string): string {
+function slugIn(row: PageRow, kind: string): string {
   const slug = textIn(row, "slug")
   if (slug === undefined) {
     throw new Error(`a ${kind} row states no \`slug\`, so which rule it is cannot be said`)
@@ -84,11 +84,11 @@ export function slugIn(row: PageRow, kind: string): string {
   return slug
 }
 
-export function idIn(slug: string, prefix: string): string {
+function idIn(slug: string, prefix: string): string {
   return slug.startsWith(prefix) ? slug.slice(prefix.length) : slug
 }
 
-export function slugFor(prefix: string, id: string, kind: string): string {
+function slugFor(prefix: string, id: string, kind: string): string {
   const slug = `${prefix}${id}`
   if (!lowerKebabCase(slug)) {
     throw refusedRule(kind, slug, "has an id no page slug can hold")
@@ -96,7 +96,7 @@ export function slugFor(prefix: string, id: string, kind: string): string {
   return slug
 }
 
-export function epochIn(row: PageRow, kind: string, slug: string): number {
+function epochIn(row: PageRow, kind: string, slug: string): number {
   const instant = textIn(row, "updatedAt")
   if (instant === undefined) throw unreadRule(kind, slug, "the page states no `updatedAt`")
   const at = Date.parse(instant)
@@ -104,13 +104,13 @@ export function epochIn(row: PageRow, kind: string, slug: string): number {
   return at
 }
 
-export function numberIn(row: PageRow, key: string, kind: string, slug: string): number {
+function numberIn(row: PageRow, key: string, kind: string, slug: string): number {
   const value = row[key]
   if (typeof value !== "number") throw unreadRule(kind, slug, `the page states no \`${key}\``)
   return value
 }
 
-export function itemNamedIn(
+function itemNamedIn(
   row: PageRow,
   kind: string,
   slug: string
@@ -123,12 +123,7 @@ export function itemNamedIn(
   return { itemId, itemName }
 }
 
-export function refuseItem(
-  kind: string,
-  slug: string,
-  itemId: number,
-  itemName: string
-): undefined {
+function refuseItem(kind: string, slug: string, itemId: number, itemName: string): undefined {
   if (!Number.isInteger(itemId) || itemId <= 0) {
     throw refusedRule(kind, slug, `names item ${itemId}, which is no item's number in the game`)
   }
@@ -143,7 +138,7 @@ function goalPageOf(goal: string, kind: string, slug: string): string {
   return namedAs(RULE_GOAL, goal, null)
 }
 
-export function sharedIn(row: PageRow): {
+function sharedIn(row: PageRow): {
   readonly title?: string
   readonly notes?: string
   readonly goal?: string
@@ -160,7 +155,7 @@ export function sharedIn(row: PageRow): {
   }
 }
 
-export function sharedValuesOf(
+function sharedValuesOf(
   rule: {
     readonly title?: string | null
     readonly notes?: string | null
@@ -191,7 +186,7 @@ function alreadySo(was: PageRow, values: Record<string, unknown>, entryKeys: rea
   )
 }
 
-export function pageWritesFor(
+function pageWritesFor(
   wanted: readonly WantedPage[],
   rows: readonly PageRow[],
   clearable: readonly string[],
@@ -227,7 +222,7 @@ export function pageWritesFor(
   return { upserts, deletes }
 }
 
-export function ordered<Rule>(
+function ordered<Rule>(
   read: readonly { readonly displayOrder: number; readonly rule: Rule }[]
 ): readonly Rule[] {
   return [...read].sort((one, two) => one.displayOrder - two.displayOrder).map((one) => one.rule)

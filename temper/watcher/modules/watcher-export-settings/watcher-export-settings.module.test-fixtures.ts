@@ -103,7 +103,7 @@ export function seamsFor(
   recorded: Recorded,
   rules: readonly HeldRule[] = [],
   rulesAskedFor: string[] = [],
-  pages: Partial<Pick<HeldPages, "itemRows" | "buyRows">> = {}
+  pages: Partial<Pick<HeldPages, "itemRows">> = {}
 ): { seams: ExportSettingsSeams } {
   return {
     seams: {
@@ -115,7 +115,7 @@ export function seamsFor(
       addressOf: async (userId) => `temper-account/${userId}`,
       readPlayerRules: async (accountPage) => {
         rulesAskedFor.push(accountPage)
-        return { rules, itemRows: pages.itemRows ?? [], buyRows: pages.buyRows ?? [] }
+        return { rules, itemRows: pages.itemRows ?? [] }
       },
       pricingTables: async () => ({ currencyRates: {}, crownReplacementCosts: {} }),
       pages: { collect: async () => [], get: async () => null },

@@ -178,14 +178,10 @@ test("settings marked version 2 are answered with every rule they carry", () => 
   const held = toRuleSettings({
     ...SELL_EVERYTHING,
     itemRules: [{ id: "i1", itemId: 45855, itemName: "Ancestor Silk", action: "sell" }],
-    buyRules: [
-      { id: "b1", itemId: 30357, itemName: "Lockpick", targetQuantity: 4000, source: "merchant" },
-    ],
     laterKey: { anything: true },
   })
   expect(held.rules).toEqual(SELL_EVERYTHING.rules)
   expect(held.itemRules?.[0]?.itemId).toBe(45855)
-  expect(held.buyRules?.[0]?.targetQuantity).toBe(4000)
   expect(held).toMatchObject({ laterKey: { anything: true } })
 })
 

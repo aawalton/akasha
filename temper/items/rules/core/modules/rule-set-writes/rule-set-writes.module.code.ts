@@ -1,9 +1,4 @@
 import {
-  BUY_RULE_PAGE_TYPE,
-  buyRulesFromRows,
-  buyRuleWritesFor,
-} from "akasha/temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts"
-import {
   type HeldRule,
   heldFromRows,
   rulesFromPages,
@@ -25,7 +20,6 @@ const INVENTORY_RULE_PAGE_TYPE = "temper-inventory-rule"
 export interface HeldPages {
   readonly rules: readonly HeldRule[]
   readonly itemRows: readonly PageRow[]
-  readonly buyRows: readonly PageRow[]
 }
 
 interface PageTypeWrites {
@@ -33,33 +27,27 @@ interface PageTypeWrites {
   readonly writes: RuleWrites
 }
 
-export const NO_PAGES: HeldPages = { rules: [], itemRows: [], buyRows: [] }
+export const NO_PAGES: HeldPages = { rules: [], itemRows: [] }
 
-export function heldPagesOf(
-  ruleRows: readonly PageRow[],
-  itemRows: readonly PageRow[],
-  buyRows: readonly PageRow[]
-): HeldPages {
+export function heldPagesOf(ruleRows: readonly PageRow[], itemRows: readonly PageRow[]): HeldPages {
   return {
     rules: heldFromRows(ruleRows.map((row) => ({ ...row }))),
     itemRows: itemRows.map((row) => ({ ...row })),
-    buyRows: buyRows.map((row) => ({ ...row })),
   }
 }
 
 type RowsReader = (pageTypeSlug: string, accountPage: string) => Promise<readonly PageRow[]>
 
 export async function heldPagesReadBy(read: RowsReader, accountPage: string): Promise<HeldPages> {
-  const [ruleRows, itemRows, buyRows] = await Promise.all([
+  const [ruleRows, itemRows] = await Promise.all([
     read(INVENTORY_RULE_PAGE_TYPE, accountPage),
     read(ITEM_RULE_PAGE_TYPE, accountPage),
-    read(BUY_RULE_PAGE_TYPE, accountPage),
   ])
-  return heldPagesOf(ruleRows, itemRows, buyRows)
+  return heldPagesOf(ruleRows, itemRows)
 }
 
 export function countOf(held: HeldPages): number {
-  return held.rules.length + held.itemRows.length + held.buyRows.length
+  return held.rules.length + held.itemRows.length
 }
 
 export function ruleSetOf(held: HeldPages): InventoryRules {
@@ -67,7 +55,6 @@ export function ruleSetOf(held: HeldPages): InventoryRules {
     version: 2,
     rules: rulesFromPages(held.rules),
     itemRules: itemRulesFromRows(held.itemRows),
-    buyRules: buyRulesFromRows(held.buyRows),
   }
 }
 
@@ -88,14 +75,6 @@ export function ruleWritesFor(
           {
             pageTypeSlug: ITEM_RULE_PAGE_TYPE,
             writes: itemRuleWritesFor(next.itemRules, held.itemRows, accountPage, writtenAt),
-          },
-        ]),
-    ...(next.buyRules === undefined
-      ? []
-      : [
-          {
-            pageTypeSlug: BUY_RULE_PAGE_TYPE,
-            writes: buyRuleWritesFor(next.buyRules, held.buyRows, accountPage, writtenAt),
           },
         ]),
   ]

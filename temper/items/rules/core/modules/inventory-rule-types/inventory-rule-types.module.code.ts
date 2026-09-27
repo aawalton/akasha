@@ -1,5 +1,4 @@
 import type { InventoryLocationConditionId } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
-import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import type { CanLevelMorphsCondition } from "akasha/temper/items/rules/core/modules/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type { ComparisonOpId } from "akasha/temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts"
 import type { RequiredCurseStateCondition } from "akasha/temper/items/rules/core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
@@ -167,5 +166,4 @@ export interface InventoryRuleSettings {
 
 export interface InventoryRules extends InventoryRuleSettings {
   itemRules?: readonly ItemRule[]
-  buyRules?: readonly BuyRule[]
 }

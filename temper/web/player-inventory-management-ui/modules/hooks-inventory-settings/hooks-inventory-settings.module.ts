@@ -34,12 +34,11 @@ export const hooksInventorySettings = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Item rules and buy rules are read from the account's item rule and buy rule pages.",
+      statement: "Item rules are read from the account's item rule pages.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A changed item rule or buy rule is saved as a page of its own in the same save.",
+      statement: "A changed item rule is saved as a page of its own in the same save.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,7 +1,7 @@
 import type { RequiredSkill } from "akasha/temper/addon/pages/items/crafting-station/modules/writ-required-skill/writ-required-skill.module.code.ts"
 import { computeCraftIterations } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-iterations/inventory-writ-crafting-iterations.module.code.ts"
 import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
-import { computeBuyShortfall } from "akasha/temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
+import { computeBuyShortfall } from "akasha/temper/items/rules/core/modules/buy-shortfall/buy-shortfall.module.code.ts"
 
 export interface StoredCount {
   readonly locationKey: string

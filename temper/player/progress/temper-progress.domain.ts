@@ -26,7 +26,6 @@ export const temperProgress = {
     "page-type/temper-watcher-enrolment",
     "readout/inboxes-temper-tasks",
     "page-type/temper-item-rule",
-    "page-type/temper-buy-rule",
     "page-type/temper-buy-action",
   ],
 } as const satisfies Domain

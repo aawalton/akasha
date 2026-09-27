@@ -3,7 +3,6 @@ import {
   deriveCompanionScope,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-sparse/inventory-rule-compiler-sparse.module.code.ts"
 import type {
-  CompiledBuyRule,
   CompiledCurrencyRule,
   CompiledOrderedRule,
   CompiledRuleConfig,
@@ -204,12 +203,6 @@ export function compileRules(
     }
   }
 
-  const compiledBuyRules: Record<number, CompiledBuyRule> = {}
-  for (const rule of settings.buyRules ?? []) {
-    if (rule.active === false) continue
-    compiledBuyRules[rule.itemId] = { targetQuantity: rule.targetQuantity, source: rule.source }
-  }
-
   return {
     version: 3,
     orderedRules,
@@ -222,6 +215,5 @@ export function compileRules(
     ...(Object.keys(compiledCurrencyRules).length > 0
       ? { currencyRules: compiledCurrencyRules }
       : {}),
-    ...(Object.keys(compiledBuyRules).length > 0 ? { buyRules: compiledBuyRules } : {}),
   }
 }

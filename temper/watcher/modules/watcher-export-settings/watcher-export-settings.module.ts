@@ -37,12 +37,11 @@ export const watcherExportSettings = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The item rules and buy rules exported are the ones the account's item rule and buy rule pages have.",
+      statement: "The item rules exported are the ones the account's item rule pages have.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An item rule or buy rule the settings blob still holds reaches nothing.",
+      statement: "An item rule the settings blob still holds reaches nothing.",
     },
     {
       decisionKind: "decision-kind/departure",

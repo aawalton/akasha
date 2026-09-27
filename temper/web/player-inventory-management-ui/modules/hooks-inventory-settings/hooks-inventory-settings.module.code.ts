@@ -28,7 +28,6 @@ import {
   type ManagedGuildBankSettings,
   readManagedGuildBanks,
 } from "akasha/temper/items/core/modules/inventory-guild-bank-types/inventory-guild-bank-types.module.code.ts"
-import { BUY_RULE_PAGE_TYPE } from "akasha/temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.code.ts"
 import type {
   InventoryRuleSettings,
   InventoryRules,
@@ -236,9 +235,7 @@ export function useInventorySettings() {
   const where = [{ key: "accountPage", eq: accountPage ?? NEVER_MATCH_VALUE }]
   const { rows } = usePages({ pageTypeSlug: RULE_PAGE_TYPE_SLUG, where, limit: RULES_AT_MOST })
   const items = usePages({ pageTypeSlug: ITEM_RULE_PAGE_TYPE, where, limit: RULES_AT_MOST })
-  const buys = usePages({ pageTypeSlug: BUY_RULE_PAGE_TYPE, where, limit: RULES_AT_MOST })
   const itemRows = items.rows
-  const buyRows = buys.rows
 
   const built = useMemo<{
     readonly held: HeldPages
@@ -246,12 +243,12 @@ export function useInventorySettings() {
     readonly unread: string | null
   }>(() => {
     try {
-      const held = heldPagesOf(rows, itemRows, buyRows)
+      const held = heldPagesOf(rows, itemRows)
       return { held, settings: ruleSetOf(held), unread: null }
     } catch (thrown) {
       return { held: NO_PAGES, settings: NO_RULES, unread: saidBy(thrown) }
     }
-  }, [rows, itemRows, buyRows])
+  }, [rows, itemRows])
 
   const inventorySettings = built.settings
   const rulesUnread = built.unread

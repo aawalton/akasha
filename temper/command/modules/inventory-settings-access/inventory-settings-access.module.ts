@@ -38,17 +38,15 @@ export const inventorySettingsAccess = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A player's item rules and buy rules are read from that player's item rule and buy rule pages.",
+      statement: "A player's item rules are read from that player's item rule pages.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An item rule or buy rule a command changes is written back as a page of its own.",
+      statement: "An item rule a command changes is written back as a page of its own.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A write saying nothing of the item rules or the buy rules leaves those pages as they are.",
+      statement: "A write saying nothing of the item rules leaves those pages as they are.",
     },
     {
       decisionKind: "decision-kind/departure",

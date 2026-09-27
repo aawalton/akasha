@@ -1,5 +1,4 @@
 import type { InventoryLocationConditionId } from "akasha/temper/items/core/modules/location-condition/location-condition.module.code.ts"
-import type { BuySource } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import type { CanLevelMorphsCondition } from "akasha/temper/items/rules/core/modules/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type { ComparisonOpId } from "akasha/temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts"
 import {
@@ -89,11 +88,6 @@ export interface CompiledCurrencyRule {
   keepAmount?: number
 }
 
-export interface CompiledBuyRule {
-  targetQuantity: number
-  source: BuySource
-}
-
 export interface CompiledOrderedRule extends ResolvedEntry {
   id?: string
   active?: boolean
@@ -130,8 +124,4 @@ export interface CompiledRuleConfig {
   consumableStock: Record<number, Record<string, number>>
   characterPriority?: readonly string[]
   currencyRules?: Record<string, CompiledCurrencyRule>
-  buyRules?: Record<number, CompiledBuyRule>
-  buyStockAvailable?: boolean
-  buyStockByChar?: Record<number, Record<string, number>>
-  buyStockAccount?: Record<number, number>
 }

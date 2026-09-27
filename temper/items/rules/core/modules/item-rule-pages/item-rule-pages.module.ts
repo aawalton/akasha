@@ -50,9 +50,5 @@ export const itemRulePages = {
       decisionKind: "decision-kind/departure",
       statement: "A rule page no rule wants any longer is taken away.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "What an item rule and a buy rule share is read and written here for both.",
-    },
   ],
 } as const satisfies Module

@@ -10,7 +10,7 @@ export const ruleSetWrites = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set of rules holds the rules, the item rules and the buy rules of one account.",
+      statement: "A set of rules holds the rules and the item rules of one account.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -22,7 +22,7 @@ export const ruleSetWrites = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A set saying nothing of item rules or buy rules leaves those pages alone.",
+      statement: "A set saying nothing of item rules leaves those pages alone.",
     },
   ],
 } as const satisfies Module
