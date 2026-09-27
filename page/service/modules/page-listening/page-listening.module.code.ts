@@ -1,6 +1,3 @@
-import { heapStats } from "bun:jsc"
-import { mkdirSync, writeFileSync } from "node:fs"
-import { join } from "node:path"
 import { refreshingTurns } from "akasha/agent/seat/observation/seat-turn/modules/turn-refreshing/turn-refreshing.module.code.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import {
@@ -81,25 +78,6 @@ function watchingHeld(): undefined {
   return undefined
 }
 
-const HEAP_AT = "/var/tmp/page-service-heap"
-
-function dumpingHeap(): undefined {
-  process.on("SIGUSR2", () => {
-    const stamp = new Date().toISOString().replace(/[:.]/g, "-")
-    mkdirSync(HEAP_AT, { recursive: true })
-    const before = process.memoryUsage()
-    const counted = heapStats()
-    Bun.gc(true)
-    const after = process.memoryUsage()
-    writeFileSync(
-      join(HEAP_AT, `${stamp}.stats.json`),
-      JSON.stringify({ before, after, counted, collected: heapStats() })
-    )
-    writeFileSync(join(HEAP_AT, `${stamp}.heapsnapshot`), Bun.generateHeapSnapshot("v8"))
-  })
-  return undefined
-}
-
 function boundAt(given: Listening, hostname: string, writer: Writer) {
   const { root, port, following, threads } = given
   const serving = following === undefined ? { root, writer } : { root, writer, following }
@@ -166,7 +144,6 @@ export function runPageListening(root: string): undefined {
     )
   }
   watchingHeld()
-  dumpingHeap()
   const threads = threadsFor(root, { kept: (read) => keptReads(root, read) })
   const following = followingFor(root, undefined, threads.heapsSaid)
   const binds = bindsFor(root, SERVICE_SLUG)
