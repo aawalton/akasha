@@ -5,6 +5,8 @@ export const ancestralNord = {
   type: "page-type/temper-motif-style",
   slug: "ancestral-nord",
   title: "Ancestral Nord",
+  esoItemStyleId: 103,
+  styleName: "Ancestral Nord",
   collectionIndex: 72,
   sourceDescription: "Treasure maps and antiquities (EP zones)",
 } as const satisfies TemperMotifStyle
