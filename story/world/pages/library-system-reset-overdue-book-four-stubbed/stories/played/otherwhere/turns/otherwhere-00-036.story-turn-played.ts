@@ -10,7 +10,7 @@ export const otherwhere00036 = {
   position: 36,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "“Okay, what about a bath? I not need a rest at least before I go after that big bookworm.”",
   beats: [
@@ -22,5 +22,5 @@ export const otherwhere00036 = {
     '"The wardrobe has an old Librarian\'s robes. Better than that," he says, eyeing her bloody shirt.',
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
