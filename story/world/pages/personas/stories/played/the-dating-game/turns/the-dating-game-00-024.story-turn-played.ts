@@ -26,4 +26,5 @@ export const theDatingGame00024 = {
     '"You look like a man who\'s had a good day," she says, her voice low and warm.',
   ],
   lore: ["lore/the-dating-game-grace"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
