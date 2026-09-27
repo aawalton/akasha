@@ -10,7 +10,7 @@ export const theDatingGame00028 = {
   position: 28,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "“So, what’s with the lantern? Mind if I follow along for a bit?”",
   beats: [
     'Alan: "So, what\'s with the lantern? Mind if I follow along for a bit?"',
@@ -28,5 +28,5 @@ export const theDatingGame00028 = {
   ],
   issues: ['"So nobody has to walk in it without a light." - Nobody Acts'],
   lore: ["lore/the-dating-game-grace", "place/the-dating-game-provo-city-cemetery"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
