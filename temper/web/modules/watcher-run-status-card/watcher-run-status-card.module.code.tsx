@@ -8,10 +8,29 @@ import {
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { ago } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
+import {
+  type Phrase,
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import type {
   WatcherRunOperation,
   WatcherRunSummary,
 } from "akasha/temper/web/modules/watcher-run-status/watcher-run-status.module.code.ts"
+import { watcherRunStatusCardFilesMissing } from "akasha/temper/web/phrase/pages/watcher-run-status-card-files-missing.temper-web-phrase.ts"
+import { watcherRunStatusCardFilesMissingMany } from "akasha/temper/web/phrase/pages/watcher-run-status-card-files-missing-many.temper-web-phrase.ts"
+import { watcherRunStatusCardFilesMissingOne } from "akasha/temper/web/phrase/pages/watcher-run-status-card-files-missing-one.temper-web-phrase.ts"
+import { watcherRunStatusCardNameList } from "akasha/temper/web/phrase/pages/watcher-run-status-card-name-list.temper-web-phrase.ts"
+import { watcherRunStatusCardNeverReported } from "akasha/temper/web/phrase/pages/watcher-run-status-card-never-reported.temper-web-phrase.ts"
+import { watcherRunStatusCardNothingReadable } from "akasha/temper/web/phrase/pages/watcher-run-status-card-nothing-readable.temper-web-phrase.ts"
+import { watcherRunStatusCardParseFailing } from "akasha/temper/web/phrase/pages/watcher-run-status-card-parse-failing.temper-web-phrase.ts"
+import { watcherRunStatusCardParseFailingMany } from "akasha/temper/web/phrase/pages/watcher-run-status-card-parse-failing-many.temper-web-phrase.ts"
+import { watcherRunStatusCardParseFailingOne } from "akasha/temper/web/phrase/pages/watcher-run-status-card-parse-failing-one.temper-web-phrase.ts"
+import { watcherRunStatusCardRecorded } from "akasha/temper/web/phrase/pages/watcher-run-status-card-recorded.temper-web-phrase.ts"
+import { watcherRunStatusCardUploadFailing } from "akasha/temper/web/phrase/pages/watcher-run-status-card-upload-failing.temper-web-phrase.ts"
+import { watcherRunStatusCardUploadFailingMany } from "akasha/temper/web/phrase/pages/watcher-run-status-card-upload-failing-many.temper-web-phrase.ts"
+import { watcherRunStatusCardUploadFailingOne } from "akasha/temper/web/phrase/pages/watcher-run-status-card-upload-failing-one.temper-web-phrase.ts"
+import { watcherRunStatusCardWorking } from "akasha/temper/web/phrase/pages/watcher-run-status-card-working.temper-web-phrase.ts"
 import { AlertTriangle, CheckCircle2, CircleDashed, FileQuestion, HelpCircle } from "lucide-react"
 
 type Presentation = {
@@ -21,71 +40,95 @@ type Presentation = {
   body: string
 }
 
-function nameList(operations: readonly WatcherRunOperation[]): string {
+type Worded = { slug: string }
+
+function nameList(operations: readonly WatcherRunOperation[], phrase: Phrase): string {
   const names = operations.map((op) => op.name)
   if (names.length <= 1) return names[0] ?? ""
-  return `${names.slice(0, -1).join(", ")} and ${names[names.length - 1]}`
+  return phrase(watcherRunStatusCardNameList.slug, {
+    names: names.slice(0, -1).join(", "),
+    last: names[names.length - 1] ?? "",
+  })
 }
 
-function firstDetail(operations: readonly WatcherRunOperation[]): string {
+function firstDetail(operations: readonly WatcherRunOperation[], phrase: Phrase): string {
   const detail = operations.find((op) => op.detail !== null)?.detail
-  return detail == null ? "" : ` Temper recorded: ${detail}`
+  return detail == null ? "" : ` ${phrase(watcherRunStatusCardRecorded.slug, { detail })}`
 }
 
-function present(run: WatcherRunSummary): Presentation {
-  const failing = nameList(run.decidingOperations)
+function present(run: WatcherRunSummary, phrase: Phrase, describe: Phrase): Presentation {
   const count = run.decidingOperations.length
+  const fills = {
+    ago: ago(run.reportedAt),
+    count,
+    failing: nameList(run.decidingOperations, phrase),
+    recorded: firstDetail(run.decidingOperations, phrase),
+  }
+  const worded = (
+    icon: typeof CheckCircle2,
+    tone: string,
+    title: Worded,
+    body: Worded
+  ): Presentation => ({
+    icon,
+    tone,
+    title: phrase(title.slug, fills),
+    body: describe(body.slug, fills),
+  })
+  const counted = (one: Worded, many: Worded): Worded => (count === 1 ? one : many)
 
   switch (run.verdict) {
     case "working":
-      return {
-        icon: CheckCircle2,
-        tone: "text-green",
-        title: `Everything the Watcher tried succeeded${ago(run.reportedAt)}`,
-        body: `The Watcher read the add-on files it looks for and delivered all ${count} of them. This describes that run, not this moment — it reports each time it does work, so the line above will age while nothing is wrong.`,
-      }
+      return worded(
+        CheckCircle2,
+        "text-green",
+        watcherRunStatusCardWorking,
+        watcherRunStatusCardWorking
+      )
     case "files-missing":
-      return {
-        icon: FileQuestion,
-        tone: "text-orange",
-        title: `The Watcher could not find ${count === 1 ? "a file" : `${count} files`} it reads${ago(run.reportedAt)}`,
-        body: `It found nothing to read for ${failing}. That is what an add-on that is not installed, is not ticked on in game, or was extracted into the wrong Documents folder looks like from here — if your Documents folder syncs to OneDrive, the real add-ons folder is the one under OneDrive. Nothing from ${failing} can sync until those files exist.${firstDetail(run.decidingOperations)}`,
-      }
+      return worded(
+        FileQuestion,
+        "text-orange",
+        counted(watcherRunStatusCardFilesMissingOne, watcherRunStatusCardFilesMissingMany),
+        watcherRunStatusCardFilesMissing
+      )
     case "parse-failing":
-      return {
-        icon: AlertTriangle,
-        tone: "text-orange",
-        title: `The Watcher could not read ${count === 1 ? "a file" : `${count} files`}${ago(run.reportedAt)}`,
-        body: `The file for ${failing} exists and the Watcher could not make sense of it. That is more likely our bug than anything you did — the add-on may be writing a shape Temper does not expect, or the file was captured mid-write. Please tell us.${firstDetail(run.decidingOperations)}`,
-      }
+      return worded(
+        AlertTriangle,
+        "text-orange",
+        counted(watcherRunStatusCardParseFailingOne, watcherRunStatusCardParseFailingMany),
+        watcherRunStatusCardParseFailing
+      )
     case "upload-failing":
-      return {
-        icon: AlertTriangle,
-        tone: "text-orange",
-        title: `The Watcher could not deliver ${count === 1 ? "an upload" : `${count} uploads`}${ago(run.reportedAt)}`,
-        body: `It read the data for ${failing} and could not get it to Temper, so the failure sits between your Watcher and us rather than in your add-ons. It retries on its next run. If this keeps showing, it is ours to fix.${firstDetail(run.decidingOperations)}`,
-      }
+      return worded(
+        AlertTriangle,
+        "text-orange",
+        counted(watcherRunStatusCardUploadFailingOne, watcherRunStatusCardUploadFailingMany),
+        watcherRunStatusCardUploadFailing
+      )
     case "never-reported":
-      return {
-        icon: CircleDashed,
-        tone: "text-tertiary",
-        title: "The Watcher has not reported a sync run",
-        body: "Temper has no account of what the Watcher tried, so it cannot say whether anything is working. A Watcher reports after it does its first work, so if you have just linked, this is expected — reload this page in a few minutes. If it still says this later, the Watcher is not running on your computer, whatever the link told you.",
-      }
+      return worded(
+        CircleDashed,
+        "text-tertiary",
+        watcherRunStatusCardNeverReported,
+        watcherRunStatusCardNeverReported
+      )
     case "nothing-readable":
-      return {
-        icon: HelpCircle,
-        tone: "text-tertiary",
-        title: "Temper cannot tell what the Watcher's last run did",
-        body: "A report arrived, but nothing in it says what happened — either the Watcher had no work to do, or it is an older build that reports less than Temper now reads. Neither means it is broken, and neither confirms it is working.",
-      }
+      return worded(
+        HelpCircle,
+        "text-tertiary",
+        watcherRunStatusCardNothingReadable,
+        watcherRunStatusCardNothingReadable
+      )
     default:
       return assertNever(run.verdict)
   }
 }
 
 export function WatcherRunStatusCard({ run }: { run: WatcherRunSummary }) {
-  const { icon: Icon, tone, title, body } = present(run)
+  const phrase = usePhrase()
+  const describe = usePhraseDescription()
+  const { icon: Icon, tone, title, body } = present(run, phrase, describe)
 
   return (
     <Card>
