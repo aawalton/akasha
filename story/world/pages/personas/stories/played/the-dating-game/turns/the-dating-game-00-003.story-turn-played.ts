@@ -7,7 +7,7 @@ export const theDatingGame00003 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 3,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     '"Hi there! Would you be interested in some company? I\'d love someone to chat with on the hike."',
   beats: [
@@ -26,7 +26,7 @@ export const theDatingGame00003 = {
     "They start up together, gravel crunching, the creek talking low beside them.",
     "The climbers' voices fall away behind the bend.",
     "She walks close at his shoulder and keeps glancing at him, bright-eyed.",
-    "Every word she has said so far was one of his, and she is plainly waiting for him to say more.",
+    "Since he spoke, every word she has said was one of his, and she is plainly waiting for more.",
   ],
   issues: [
     '"Every word she has said so far was one of his" - her first word, "Take," was the climber\'s',
