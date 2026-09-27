@@ -21,7 +21,6 @@ const readMode = (c: CategoryRule["conditions"]) => c?.potionEffectsMode
 
 export const POTION_EFFECTS_FILTER: InventoryRuleFilter = {
   id: "potion-effects",
-  label: "Potion Effects",
   priority: 1,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, POTION_EFFECTS_ELIGIBLE_ROOTS, "opt-in", categories),

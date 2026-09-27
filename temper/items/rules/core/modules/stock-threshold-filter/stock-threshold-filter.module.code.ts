@@ -17,7 +17,6 @@ const read = (c: CategoryRule["conditions"]) => c?.stockThreshold
 
 export const STOCK_THRESHOLD_FILTER: InventoryRuleFilter = {
   id: "stock-threshold",
-  label: "Stock Threshold",
   priority: 0,
   isEligible: () => {
     return true

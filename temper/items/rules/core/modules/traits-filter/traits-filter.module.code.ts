@@ -80,7 +80,6 @@ const read = (c: CategoryRule["conditions"]) =>
 
 export const TRAITS_FILTER: InventoryRuleFilter = {
   id: "traits",
-  label: "Traits",
   priority: 3,
   isEligible: (categoryId, categories) => getTraitFamily(categoryId, categories) !== null,
   mutuallyExclusive: [],

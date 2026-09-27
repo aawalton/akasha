@@ -8,7 +8,6 @@ const readOp = (c: CategoryRule["conditions"]): ComparisonOpId | undefined => c?
 
 export const MERCHANT_VALUE_FILTER: InventoryRuleFilter = {
   id: "merchant-value",
-  label: "Merchant Value",
   priority: 8,
   isEligible: () => true,
   mutuallyExclusive: [],

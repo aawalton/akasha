@@ -13,6 +13,10 @@ export const traitsFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The traits offered are the traits the item family named by the category can have.",
     },

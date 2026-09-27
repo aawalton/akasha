@@ -13,7 +13,6 @@ const read = (c: CategoryRule["conditions"]) => c?.stackFullness
 
 export const STACK_FULLNESS_FILTER: InventoryRuleFilter = {
   id: "stack-fullness",
-  label: "Stack Fullness",
   priority: 0,
   isEligible: () => true,
   mutuallyExclusive: [],

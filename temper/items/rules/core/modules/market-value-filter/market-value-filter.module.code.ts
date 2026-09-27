@@ -12,7 +12,6 @@ const readOp = (c: CategoryRule["conditions"]): ComparisonOpId | undefined => {
 
 export const MARKET_VALUE_FILTER: InventoryRuleFilter = {
   id: "market-value",
-  label: "Market Value",
   priority: 8,
   isEligible: () => true,
   mutuallyExclusive: [],

@@ -12,5 +12,9 @@ export const replacementValueFilter = {
       statement:
         "This filter reads and writes the conditions `replacementValue` and `replacementValueOp`.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under the `replacementValue` condition field page's title.",
+    },
   ],
 } as const satisfies Module

@@ -13,6 +13,10 @@ export const requiredCurseStateFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A rule whose action is other than `stock` is offered no Required Curse State condition.",
     },

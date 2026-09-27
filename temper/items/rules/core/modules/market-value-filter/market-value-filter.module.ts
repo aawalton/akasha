@@ -11,5 +11,9 @@ export const marketValueFilter = {
       decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the 4 value conditions named in the code.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under the `marketValue` condition field page's title.",
+    },
   ],
 } as const satisfies Module

@@ -47,7 +47,6 @@ function evaluateMode(
 
 export const REQUIRED_SKILL_LINES_FILTER: InventoryRuleFilter = {
   id: "required-skill-lines",
-  label: "Required Skill Lines",
   priority: 0,
   isEligible: () => true,
   isEligibleForAction: (action: ItemAction) => action === "stock",

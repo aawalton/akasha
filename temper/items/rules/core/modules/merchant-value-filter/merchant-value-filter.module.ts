@@ -12,5 +12,9 @@ export const merchantValueFilter = {
       statement:
         "This filter reads and writes the conditions `merchantValue` and `merchantValueOp`.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under the `merchantValue` condition field page's title.",
+    },
   ],
 } as const satisfies Module

@@ -21,7 +21,6 @@ export function characterPassesRequiredCurseState(
 
 export const REQUIRED_CURSE_STATE_FILTER: InventoryRuleFilter = {
   id: "required-curse-state",
-  label: "Required Curse State",
   priority: 0,
   isEligible: () => true,
   isEligibleForAction: (action: ItemAction) => action === "stock",
