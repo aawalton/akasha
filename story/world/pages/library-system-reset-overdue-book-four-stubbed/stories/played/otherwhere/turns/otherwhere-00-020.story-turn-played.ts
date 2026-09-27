@@ -36,4 +36,5 @@ export const otherwhere00020 = {
     "Along the oval's tail, where she's swept most, the salt has worn thin in a patch.",
   ],
   lore: ["place/otherwhere-hall-back", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
