@@ -7,4 +7,5 @@ export const theDatingGameEcho = {
   title: "The Woman on the Boulder",
   story: "story-played/the-dating-game",
   persona: "persona/echo",
+  cover: "image/image-b76ab03f19af0c86",
 } as const satisfies CharacterOther
