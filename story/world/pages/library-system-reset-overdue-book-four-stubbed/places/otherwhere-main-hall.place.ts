@@ -131,6 +131,10 @@ export const otherwhereMainHall = {
       fact: "An engorged bookworm at the back steps is six or seven feet long and waist high.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The big engorged bookworm is bloated and matte grey, its colored mouth rings blotched.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
