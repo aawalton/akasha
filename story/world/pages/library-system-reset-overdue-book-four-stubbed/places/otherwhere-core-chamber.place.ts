@@ -99,6 +99,10 @@ export const otherwhereCoreChamber = {
       fact: "The knot of light pulses slow and even with the hum, while the trunk's other veins flicker.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Emergency protocols hamper movement near the core, so the core seems further than it is.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
