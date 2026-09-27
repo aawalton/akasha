@@ -7,4 +7,11 @@ export const usePageDefaultContent = {
   definition:
     "The data a page's default content needs: properties, sections, subpages and referrers.",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A page's content loads until the page, the page types and its related pages are in.",
+    },
+  ],
 } as const satisfies Module

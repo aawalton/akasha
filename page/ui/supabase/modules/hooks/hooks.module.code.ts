@@ -234,7 +234,7 @@ export function useRelatedPages({
   pages: readonly { properties: Record<string, unknown> }[]
   pageTypes: readonly PageWithProperties[]
   pageTypeSlugById: ReadonlyMap<string, string>
-}): readonly PageWithProperties[] {
+}): { readonly relatedPages: readonly PageWithProperties[]; readonly isLoading: boolean } {
   const specs = useMemo<readonly RelationSpec[]>(() => {
     if (!definitions) return []
     const out: RelationSpec[] = []
@@ -260,7 +260,7 @@ export function useRelatedPages({
     groups.length > 0,
     HELD_RELATED
   )
-  return useMemo(
+  const relatedPages = useMemo(
     () =>
       relatedAsNamed(
         (ready ? (snapshot ?? []) : []).map((row) => toPageWithProperties(flattenRow(row))),
@@ -270,6 +270,7 @@ export function useRelatedPages({
       ),
     [ready, snapshot, pages, specs, pageTypes]
   )
+  return { relatedPages, isLoading: groups.length > 0 && !ready }
 }
 
 interface ViewsFound {

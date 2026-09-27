@@ -240,7 +240,7 @@ export function useViewTabContentData({
     () => allPages.map((p) => ({ properties: p.properties ?? {} })),
     [allPages]
   )
-  const relatedPages = useRelatedPages({
+  const { relatedPages } = useRelatedPages({
     definitions: properties,
     pages: pagesForRelation,
     pageTypes,

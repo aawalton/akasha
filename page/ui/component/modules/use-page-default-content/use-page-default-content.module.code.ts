@@ -38,7 +38,9 @@ export function usePageDefaultContent({
 }) {
   const router = usePagesUIRouter()
   const { page, isLoading } = usePage({ pageTypeSlug, id })
-  const { pages: pageTypes } = useAllPages({ pageTypeSlug: PAGE_TYPE_SLUG })
+  const { pages: pageTypes, isLoading: pageTypesLoading } = useAllPages({
+    pageTypeSlug: PAGE_TYPE_SLUG,
+  })
 
   const rawPageTypeId = page?.properties?.pageTypeId
   const pageTypeId = extractPageTypeId(rawPageTypeId)
@@ -61,7 +63,7 @@ export function usePageDefaultContent({
     }
     return map
   }, [pageTypes])
-  const relatedPages = useRelatedPages({
+  const { relatedPages, isLoading: relatedLoading } = useRelatedPages({
     definitions: allDefinitions,
     pages: pagesForRelation,
     pageTypes,
@@ -167,7 +169,7 @@ export function usePageDefaultContent({
 
   return {
     page,
-    isLoading,
+    isLoading: isLoading || pageTypesLoading || relatedLoading,
     pageTypes,
     relatedPages,
     targetSlug,
