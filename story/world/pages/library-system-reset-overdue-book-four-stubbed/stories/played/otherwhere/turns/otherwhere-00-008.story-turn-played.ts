@@ -10,7 +10,7 @@ export const otherwhere00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "I follow Links up the stairs",
   beats: [
     "She crosses to the gap, the floor carrying her, and follows Links up the spiral stairs.",
