@@ -5,6 +5,8 @@ export const coldsnap = {
   type: "page-type/temper-motif-style",
   slug: "coldsnap",
   title: "Coldsnap",
+  esoItemStyleId: 82,
+  styleName: "Coldsnap",
   collectionIndex: 57,
   sourceDescription: "Frostvault dungeon",
 } as const satisfies TemperMotifStyle
