@@ -4,7 +4,7 @@ Read the turn's beats and its prose, the file beside the turn. Then read what th
 
 A contradiction is a beat or a line of prose that says something the published turns, the lore or the characters make false: a character somewhere they cannot be, knowing what they have not learned, acting against what is settled about them; an object, a wound or a place that does not match what came before; a fact of the world stated otherwise. The prose contradicts its own beats where it tells an event they do not hold, or leaves one out. Something new is no contradiction unless something already settled rules it out.
 
-Where the story's mechanics bound a turn by a character's closeness level, work out her current rung as those mechanics say and read that level page. A beat or a line of prose going past her current rung, in where they are, what she wears or how intimate the turn gets, is a contradiction too.
+Where the story's mechanics bound a turn by a character's closeness level, work out her current rung as those mechanics say and read that level page. A beat or a line of prose going past her current rung, in where they are, what she wears or how intimate the turn gets, is a contradiction too. Her points and closeness level are hidden, so a beat or a line of prose naming or showing either, in a system window or in a character's words, is an issue too.
 
 Record each contradiction as one issue on the turn. An issue is at most 100 characters. It quotes the words it faults, then says what those words contradict, as in: `"Mara draws her sword" - her sword broke in the last turn`. Quote only as much as names the fault.
 
