@@ -2013,6 +2013,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.ts","id":"01a06108-0764-711e-b931-1a61746c79b0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.ts","id":"01a06152-c2ca-7bf7-a6bf-86af486302c4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.ts","id":"01a06152-c2cb-7faa-af35-b220143e5186"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-suggestion-generator/companion-suggestion-generator.module.ts","id":"01a06152-c2d6-7af6-bf3c-a6d3324e80f0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/batch-config/batch-config.module.ts","id":"01a06071-0c77-7e96-8044-2bad3e05b280"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/catalog-payload/catalog-payload.module.ts","id":"01a06071-0c78-7ec6-a529-55cd1d262309"}
 {"propertySlug":"decision-kind","path":"temper/catalog/core/modules/domain-registry/domain-registry.module.ts","id":"01a06071-0c79-71aa-8f49-de4128d97c66"}

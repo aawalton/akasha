@@ -19,5 +19,13 @@ export const companionSuggestionGenerator = {
       decisionKind: "decision-kind/departure",
       statement: "Legendary quality is offered only for the two ring slots.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A suggestion states its kind, its slot and what it changes from and to.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A suggestion carries no wording; the web words it.",
+    },
   ],
 } as const satisfies Module

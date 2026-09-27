@@ -11,5 +11,9 @@ export const companionSuggestionsPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A suggestion's kind and change are worded here from what the generator states.",
+    },
   ],
 } as const satisfies Module

@@ -12,7 +12,17 @@ import {
 import { useCompanionSuggestions } from "akasha/temper/web/modules/use-companion-suggestions/use-companion-suggestions.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { companionSuggestionsPanelCardApply } from "akasha/temper/web/phrase/pages/companion-suggestions-panel-card-apply.temper-web-phrase.ts"
+import { companionSuggestionsPanelCardChange } from "akasha/temper/web/phrase/pages/companion-suggestions-panel-card-change.temper-web-phrase.ts"
+import { companionSuggestionsPanelCardQuality } from "akasha/temper/web/phrase/pages/companion-suggestions-panel-card-quality.temper-web-phrase.ts"
+import { companionSuggestionsPanelCardSkill } from "akasha/temper/web/phrase/pages/companion-suggestions-panel-card-skill.temper-web-phrase.ts"
 import { companionSuggestionsPanelCardTitle } from "akasha/temper/web/phrase/pages/companion-suggestions-panel-card-title.temper-web-phrase.ts"
+import { companionSuggestionsPanelCardTrait } from "akasha/temper/web/phrase/pages/companion-suggestions-panel-card-trait.temper-web-phrase.ts"
+
+const NAMED_BY_TYPE = {
+  trait: companionSuggestionsPanelCardTrait.slug,
+  quality: companionSuggestionsPanelCardQuality.slug,
+  skill: companionSuggestionsPanelCardSkill.slug,
+} as const satisfies Record<CompanionSuggestion["type"], string>
 
 interface CompanionSuggestionsPanelCardProps {
   className?: string
@@ -46,10 +56,14 @@ export function CompanionSuggestionsPanelCard({ className }: CompanionSuggestion
         {suggestions.map((suggestion, i) => (
           <div key={i} className="flex items-center justify-between gap-2">
             <div className="flex min-w-0 items-center gap-2">
-              <Badge variant="elevation-muted" className="capitalize">
-                {suggestion.type}
-              </Badge>
-              <span className="truncate text-secondary text-xs">{suggestion.label}</span>
+              <Badge variant="elevation-muted">{phrase(NAMED_BY_TYPE[suggestion.type])}</Badge>
+              <span className="truncate text-secondary text-xs">
+                {phrase(companionSuggestionsPanelCardChange.slug, {
+                  slot: suggestion.slot,
+                  from: suggestion.from,
+                  to: suggestion.to,
+                })}
+              </span>
             </div>
             <div className="flex shrink-0 items-center gap-2">
               <span className="font-semibold text-green text-xs">

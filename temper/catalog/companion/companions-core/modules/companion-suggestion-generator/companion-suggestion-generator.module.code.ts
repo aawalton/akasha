@@ -24,7 +24,9 @@ import { companionWeaponSlots } from "akasha/temper/catalog/companion/companions
 
 export interface CompanionSuggestion {
   type: "trait" | "quality" | "skill"
-  label: string
+  slot: string
+  from: string
+  to: string
   improvement: number
   mutation:
     | { kind: "equipment"; updates: Partial<CompanionState["equipment"]> }
@@ -69,7 +71,9 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "trait",
-          label: `${slotName}: ${companionTraitAt(currentTrait).name} \u2192 ${companionTraitAt(traitId).name}`,
+          slot: slotName,
+          from: companionTraitAt(currentTrait).name,
+          to: companionTraitAt(traitId).name,
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { armor: newArmor } },
         })
@@ -94,7 +98,9 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "trait",
-          label: `${slotName}: ${companionTraitAt(currentTrait).name} \u2192 ${companionTraitAt(traitId).name}`,
+          slot: slotName,
+          from: companionTraitAt(currentTrait).name,
+          to: companionTraitAt(traitId).name,
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { jewelry: newJewelry } },
         })
@@ -119,7 +125,9 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "trait",
-          label: `${slotName}: ${companionTraitAt(currentTrait).name} \u2192 ${companionTraitAt(traitId).name}`,
+          slot: slotName,
+          from: companionTraitAt(currentTrait).name,
+          to: companionTraitAt(traitId).name,
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { weapons: newWeapons } },
         })
@@ -143,7 +151,9 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "quality",
-          label: `${slotName}: ${companionEquipmentQualityName(currentQuality)} \u2192 ${companionEquipmentQualityName(qualityId)}`,
+          slot: slotName,
+          from: companionEquipmentQualityName(currentQuality),
+          to: companionEquipmentQualityName(qualityId),
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { armor: newArmor } },
         })
@@ -167,7 +177,9 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "quality",
-          label: `${slotName}: ${companionEquipmentQualityName(currentQuality)} \u2192 ${companionEquipmentQualityName(qualityId)}`,
+          slot: slotName,
+          from: companionEquipmentQualityName(currentQuality),
+          to: companionEquipmentQualityName(qualityId),
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { jewelry: newJewelry } },
         })
@@ -191,7 +203,9 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "quality",
-          label: `${slotName}: ${companionEquipmentQualityName(currentQuality)} \u2192 ${companionEquipmentQualityName(qualityId)}`,
+          slot: slotName,
+          from: companionEquipmentQualityName(currentQuality),
+          to: companionEquipmentQualityName(qualityId),
           improvement: score - baseScore,
           mutation: { kind: "equipment", updates: { weapons: newWeapons } },
         })
@@ -215,7 +229,9 @@ export function generateSuggestions(state: CompanionState): readonly CompanionSu
       if (score > baseScore) {
         suggestions.push({
           type: "skill",
-          label: `${slotName}: ${companionSkillAt(currentSkillId).name} \u2192 ${companionSkillAt(skillId).name}`,
+          slot: slotName,
+          from: companionSkillAt(currentSkillId).name,
+          to: companionSkillAt(skillId).name,
           improvement: score - baseScore,
           mutation: { kind: "skills", updates: newSkills },
         })
