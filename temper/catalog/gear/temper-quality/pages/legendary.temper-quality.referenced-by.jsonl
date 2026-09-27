@@ -80,3 +80,15 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/sharpened/grades/weapon-trait-sharpened-legendary-penetration-physical.temper-gear-grade.ts","id":"01a0d3ea-3a8f-7b9c-b69d-6dddaa892d98"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/sharpened/grades/weapon-trait-sharpened-legendary-penetration-spell.temper-gear-grade.ts","id":"01a0d3ea-432f-735d-a18b-b2f3ce4702c3"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/training/grades/weapon-trait-training-legendary.temper-gear-grade.ts","id":"01a0d3ea-6ae9-79c1-86d5-9b225a7148d0"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/axe/grades/weapon-type-axe-legendary.temper-gear-grade.ts","id":"01a0e0d2-8813-7b87-9f0d-ad51f2a3d617"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/battleaxe/grades/weapon-type-battleaxe-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7a40-92d6-af9e149c06db"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/bow/grades/weapon-type-bow-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7255-913d-18c63c465c67"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/dagger/grades/weapon-type-dagger-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7458-9076-0f5c6b19f836"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/greatsword/grades/weapon-type-greatsword-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-74ee-bb39-582fef9b5b3f"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/ice-staff/grades/weapon-type-ice-staff-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7a02-95fb-30d862238280"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/inferno-staff/grades/weapon-type-inferno-staff-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7d4f-af26-0f53d1ebd053"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/lightning-staff/grades/weapon-type-lightning-staff-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7b80-b156-cd1fc69255bd"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/mace/grades/weapon-type-mace-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7eff-8055-196477b8bd1b"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/maul/grades/weapon-type-maul-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7174-be9e-d189b6b6345c"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/restoration-staff/grades/weapon-type-restoration-staff-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7674-82be-dea395435a03"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/sword/grades/weapon-type-sword-legendary.temper-gear-grade.ts","id":"01a0e0d2-8814-7e49-998c-f4255dfd19f3"}

@@ -12,5 +12,10 @@ export const weaponTypeIds = {
       statement:
         "This module names the weapon types without naming any order among the weapon types.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The names are the weapon type pages' slugs, as the gear kind ids table holds them.",
+    },
   ],
 } as const satisfies Module

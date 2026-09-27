@@ -19,5 +19,13 @@ export const characterCaptureEquipmentMap = {
       decisionKind: "decision-kind/departure",
       statement: "A game armor type no weight page states takes the no-weight page's place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon type's place is compiled in from the weapon type pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game weapon type no weapon type page states takes the no-type page's place.",
+    },
   ],
 } as const satisfies Module

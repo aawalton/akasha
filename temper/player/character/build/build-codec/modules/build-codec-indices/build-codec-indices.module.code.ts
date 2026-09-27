@@ -48,7 +48,7 @@ const armorEnchantIds = armorEnchants.ids
 const jewelryTraitIds = jewelryTraits.ids
 const jewelryEnchantIds = jewelryEnchants.ids
 
-const weaponTypeIds = weaponTypes.ids
+
 const weaponTraitIds = weaponTraits.ids
 const weaponEnchantIds = weaponEnchantments.ids
 const poisonIds = poisons.ids
@@ -74,7 +74,7 @@ export const ARMOR_TRAIT_BITS = bitsNeeded(armorTraitIds.length)
 export const ARMOR_ENCHANT_BITS = bitsNeeded(armorEnchantIds.length)
 export const JEWELRY_TRAIT_BITS = bitsNeeded(jewelryTraitIds.length)
 export const JEWELRY_ENCHANT_BITS = bitsNeeded(jewelryEnchantIds.length)
-export const WEAPON_TYPE_BITS = bitsNeeded(weaponTypeIds.length)
+
 export const WEAPON_TRAIT_BITS = bitsNeeded(weaponTraitIds.length)
 export const WEAPON_ENCHANT_BITS = bitsNeeded(weaponEnchantIds.length)
 export const POISON_BITS = bitsNeeded(poisonIds.length)
@@ -153,6 +153,10 @@ export const classBits = classPlaces.bits
 const armorWeightPlaces = placesOver(() => standardArmorWeights.ids)
 
 export const armorWeightBits = armorWeightPlaces.bits
+
+const weaponTypePlaces = placesOver(() => weaponTypes.ids)
+
+export const weaponTypeBits = weaponTypePlaces.bits
 
 const qualityPlaces = placesOver(() => equipmentQualities().ids)
 
@@ -329,7 +333,7 @@ export const getArmorTraitIndex = indexIn(armorTraitIds)
 export const getArmorEnchantIndex = indexIn(armorEnchantIds)
 export const getJewelryTraitIndex = indexIn(jewelryTraitIds)
 export const getJewelryEnchantIndex = indexIn(jewelryEnchantIds)
-export const getWeaponTypeIndex = indexIn(weaponTypeIds)
+export const getWeaponTypeIndex = weaponTypePlaces.indexOf
 export const getWeaponTraitIndex = indexIn(weaponTraitIds)
 export const getWeaponEnchantIndex = indexIn(weaponEnchantIds)
 export const getPoisonIndex = indexIn(poisonIds)
@@ -358,7 +362,7 @@ export const getArmorTraitId = idIn(armorTraitIds)
 export const getArmorEnchantId = idIn(armorEnchantIds)
 export const getJewelryTraitId = idIn(jewelryTraitIds)
 export const getJewelryEnchantId = idIn(jewelryEnchantIds)
-export const getWeaponTypeId = idIn(weaponTypeIds)
+export const getWeaponTypeId = weaponTypePlaces.idOf
 export const getWeaponTraitId = idIn(weaponTraitIds)
 export const getWeaponEnchantId = idIn(weaponEnchantIds)
 export const getPoisonId = idIn(poisonIds)

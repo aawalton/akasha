@@ -1,14 +1,3 @@
-export type WeaponTypeId =
-  | "axe"
-  | "battleaxe"
-  | "bow"
-  | "dagger"
-  | "greatsword"
-  | "ice-staff"
-  | "inferno-staff"
-  | "lightning-staff"
-  | "mace"
-  | "maul"
-  | "no-type"
-  | "restoration-staff"
-  | "sword"
+import type { WeaponTypeId as WeaponTypePageSlug } from "akasha/temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.code.ts"
+
+export type WeaponTypeId = WeaponTypePageSlug

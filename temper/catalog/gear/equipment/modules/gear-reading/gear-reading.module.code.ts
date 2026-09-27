@@ -11,7 +11,9 @@ import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weigh
 import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
 import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
 import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
+import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
 import { holdArmorWeights } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
+import { holdWeaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 
 type Row = Readonly<Record<string, unknown>>
 
@@ -27,6 +29,20 @@ export const GEAR_READS: readonly Read[] = [
     ["slug", "title", "baseValue", "isStandard", "skillLineId", "hashPlace"],
   ],
   [temperGearGrade.slug, ["slug", "thing", "quality", "metric", "value"]],
+  [
+    temperWeaponType.slug,
+    [
+      "slug",
+      "title",
+      "esoWeaponType",
+      "validSlots",
+      "weaponPower",
+      "isTwoHanded",
+      "enchantmentMultiplier",
+      "skillLineId",
+      "hashPlace",
+    ],
+  ],
 ]
 
 export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undefined {
@@ -35,4 +51,5 @@ export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undef
   holdJewelrySlots(rowsOf(temperJewelrySlot.slug))
   holdWeaponSlots(rowsOf(temperWeaponSlot.slug))
   holdArmorWeights(rowsOf(temperArmorWeight.slug), rowsOf(temperGearGrade.slug))
+  holdWeaponTypes(rowsOf(temperWeaponType.slug), rowsOf(temperGearGrade.slug))
 }

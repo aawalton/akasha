@@ -10,16 +10,23 @@ export const weaponTypesData = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the weapon pages rather than by hand.",
+      statement: "The weapon types are read from the weapon type pages in hash-place order.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A weapon's place in this table is the index a build hash has.",
     },
     {
-      decisionKind: "decision-kind/upkeep",
-      statement: "The generator writes this table outside akasha.",
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon's power at a quality is the grade under its page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon scales as two-handed melee when its skill line is the two-handed line.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon page naming no skill line is one-handed, its line set by the off hand.",
     },
   ],
-  hashIndexed: ["TEMPER_WEAPON_TYPES_BY_ID"],
 } as const satisfies Module

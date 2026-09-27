@@ -1,0 +1,17 @@
+import type { TemperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts"
+
+export const restorationStaff = {
+  id: "019e46b6-4098-7f3e-a6ab-4975269d4956",
+  type: "page-type/temper-weapon-type",
+  slug: "restoration-staff",
+  title: "Restoration Staff",
+  key: "restoration-staff",
+  enchantmentMultiplier: 1,
+  esoWeaponType: "WEAPONTYPE_HEALING_STAFF",
+  isTwoHanded: true,
+  weaponPower: 1335,
+  validSlots: ["temper-weapon-slot/main-hand"],
+  skillLineId: "temper-skill-line/weapon-restoration-staff",
+  hashPlace: 11,
+  esoWeaponTypeNumber: 9,
+} as const satisfies TemperWeaponType

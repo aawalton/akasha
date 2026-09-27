@@ -5,6 +5,9 @@ import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.t
 import { noWeight } from "akasha/temper/catalog/gear/temper-armor-weight/pages/no-weight/no-weight.temper-armor-weight.ts"
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
 import type { TemperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.types.ts"
+import { noType } from "akasha/temper/catalog/gear/temper-weapon-type/pages/no-type/no-type.temper-weapon-type.ts"
+import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
+import type { TemperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts"
 
 type Places = { [esoId: number]: number | undefined }
 
@@ -138,21 +141,19 @@ export function getPlayerJewelryEnchantIndex(esoId: number): number {
   return PLAYER_JEWELRY_ENCHANT_ESO_ID_TO_INDEX[esoId] ?? 0
 }
 
-const PLAYER_WEAPON_TYPE_ESO_ID_TO_INDEX: Record<number, number> = {
-  [WEAPONTYPE_AXE]: 0,
-  [WEAPONTYPE_TWO_HANDED_AXE]: 1,
-  [WEAPONTYPE_BOW]: 2,
-  [WEAPONTYPE_DAGGER]: 3,
-  [WEAPONTYPE_TWO_HANDED_SWORD]: 4,
-  [WEAPONTYPE_FROST_STAFF]: 5,
-  [WEAPONTYPE_FIRE_STAFF]: 6,
-  [WEAPONTYPE_LIGHTNING_STAFF]: 7,
-  [WEAPONTYPE_HAMMER]: 8,
-  [WEAPONTYPE_TWO_HANDED_HAMMER]: 9,
-  [WEAPONTYPE_NONE]: 10,
-  [WEAPONTYPE_HEALING_STAFF]: 11,
-  [WEAPONTYPE_SWORD]: 12,
+let weaponTypePlaces: Places | undefined
+
+function weaponTypePlacesOf(this: void): Places {
+  const found: Places = {}
+  for (const one of $pagesOfType<Pick<TemperWeaponType, "esoWeaponTypeNumber" | "hashPlace">>(
+    temperWeaponType
+  )) {
+    found[one.esoWeaponTypeNumber] = one.hashPlace
+  }
+  return found
 }
+
 export function getPlayerWeaponTypeIndex(esoId: number): number {
-  return PLAYER_WEAPON_TYPE_ESO_ID_TO_INDEX[esoId] ?? 0
+  weaponTypePlaces ??= weaponTypePlacesOf()
+  return weaponTypePlaces[esoId] ?? noType.hashPlace
 }

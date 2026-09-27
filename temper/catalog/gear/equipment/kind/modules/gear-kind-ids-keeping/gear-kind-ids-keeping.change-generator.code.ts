@@ -3,6 +3,7 @@ import { temperArmorSlot } from "akasha/temper/catalog/gear/temper-armor-slot/te
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
 import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
 import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
+import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
 import {
   type Keeping,
   keepingTurns,
@@ -28,6 +29,7 @@ const KEEPING: Keeping = {
     { name: "WeaponSlotId", holds: every, pageTypeSlug: temperWeaponSlot.slug },
     { name: "StandardArmorWeightId", holds: standard, pageTypeSlug: temperArmorWeight.slug },
     { name: "OtherArmorWeightId", holds: every, pageTypeSlug: temperArmorWeight.slug },
+    { name: "WeaponTypeId", holds: every, pageTypeSlug: temperWeaponType.slug },
   ],
 }
 

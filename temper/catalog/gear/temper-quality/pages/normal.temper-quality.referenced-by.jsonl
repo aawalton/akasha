@@ -80,3 +80,15 @@
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/sharpened/grades/weapon-trait-sharpened-normal-penetration-physical.temper-gear-grade.ts","id":"01a0d3ea-0cc2-74ef-8d37-501ed85b00e6"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/sharpened/grades/weapon-trait-sharpened-normal-penetration-spell.temper-gear-grade.ts","id":"01a0d3ea-1629-702c-9e57-289d42689271"}
 {"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-trait/pages/training/grades/weapon-trait-training-normal.temper-gear-grade.ts","id":"01a0d3ea-5b99-7386-b2a3-138cdf25ee25"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/axe/grades/weapon-type-axe-normal.temper-gear-grade.ts","id":"01a0e0d2-8813-76aa-b5a2-0a968e1b1fa1"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/battleaxe/grades/weapon-type-battleaxe-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7b50-aa4d-93894a71c3c4"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/bow/grades/weapon-type-bow-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-78e2-a429-f7f84fe8888e"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/dagger/grades/weapon-type-dagger-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7d1a-8498-7a28668f4ba6"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/greatsword/grades/weapon-type-greatsword-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-723e-935c-ab6fed471dd0"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/ice-staff/grades/weapon-type-ice-staff-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7736-8e40-3b9829e585e7"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/inferno-staff/grades/weapon-type-inferno-staff-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7686-8ed1-bca510fc7fb7"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/lightning-staff/grades/weapon-type-lightning-staff-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7338-8796-63ab31c5ffc7"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/mace/grades/weapon-type-mace-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7183-8c39-ff8193aa8546"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/maul/grades/weapon-type-maul-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-76c2-a5f3-4960c9c42591"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/restoration-staff/grades/weapon-type-restoration-staff-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7c02-bb8b-1322f0829aa4"}
+{"propertySlug":"quality","path":"temper/catalog/gear/temper-weapon-type/pages/sword/grades/weapon-type-sword-normal.temper-gear-grade.ts","id":"01a0e0d2-8814-7966-9f90-94e6b6922bc3"}

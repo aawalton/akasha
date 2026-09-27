@@ -31,7 +31,7 @@ import {
   setBits,
   WEAPON_ENCHANT_BITS,
   WEAPON_TRAIT_BITS,
-  WEAPON_TYPE_BITS,
+  weaponTypeBits,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import type { BitReaderState } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import { readBits } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
@@ -131,7 +131,7 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
   } else {
     writeBits(writer, 0, 1)
     const weapon = slot.data
-    writeBits(writer, getWeaponTypeIndex(weapon.type), WEAPON_TYPE_BITS)
+    writeBits(writer, getWeaponTypeIndex(weapon.type), weaponTypeBits())
     writeBits(writer, getWeaponTraitIndex(weapon.trait), WEAPON_TRAIT_BITS)
     writeBits(writer, getWeaponEnchantIndex(weapon.enchantment), WEAPON_ENCHANT_BITS)
     writeBits(writer, getPoisonIndex(weapon.poison), POISON_BITS)
@@ -275,7 +275,7 @@ function decodeWeaponSlot(reader: BitReaderState): WeaponSlotItem {
     }
   }
 
-  const type = getWeaponTypeId(readBits(reader, WEAPON_TYPE_BITS))
+  const type = getWeaponTypeId(readBits(reader, weaponTypeBits()))
   const trait = getWeaponTraitId(readBits(reader, WEAPON_TRAIT_BITS))
   const enchantment = getWeaponEnchantId(readBits(reader, WEAPON_ENCHANT_BITS))
   const poison = getPoisonId(readBits(reader, POISON_BITS))

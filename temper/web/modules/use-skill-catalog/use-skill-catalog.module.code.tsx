@@ -21,6 +21,7 @@ import { temperPotionDropped } from "akasha/temper/catalog/gear/temper-potion-dr
 import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
 import { temperReagent } from "akasha/temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts"
 import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
+import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { catalogTemplatesOf } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
@@ -93,12 +94,14 @@ export function useSkillCatalog(): SkillCatalog | null {
   const weaponSlots = usePages({ pageTypeSlug: temperWeaponSlot.slug, limit: EVERY })
   const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
   const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
+  const weaponTypes = usePages({ pageTypeSlug: temperWeaponType.slug, limit: EVERY })
   const skillPoints = usePages({ pageTypeSlug: temperSkillPoint.slug, limit: EVERY })
   const completionCategories = usePages({
     pageTypeSlug: temperCompletionCategory.slug,
     limit: EVERY,
   })
   const read = [
+    weaponTypes,
     armorSlots,
     jewelrySlots,
     weaponSlots,
@@ -187,6 +190,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperWeaponSlot.slug, weaponSlots.rows],
       [temperArmorWeight.slug, armorWeights.rows],
       [temperGearGrade.slug, grades.rows],
+      [temperWeaponType.slug, weaponTypes.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -234,6 +238,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     weaponSlots.rows,
     armorWeights.rows,
     grades.rows,
+    weaponTypes.rows,
   ])
   if (failed !== null) throw failed
   return catalog

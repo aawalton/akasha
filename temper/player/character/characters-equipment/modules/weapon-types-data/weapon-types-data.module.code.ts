@@ -1,169 +1,80 @@
-import {
-  createDataFile,
-  type DataFile,
-} from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { DataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import type { EquipmentQualityId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import {
+  gearTableOf,
+  heldGearTable,
+  inGearOrder,
+  slugOf,
+} from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import type { ItemLevel } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { getWeaponPowerForLevel } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 
-const TEMPER_WEAPON_TYPES_BY_ID = {
-  "axe": {
-    id: "axe" as const,
-    name: "Axe",
-    esoWeaponType: "WEAPONTYPE_AXE",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1335,
-    isTwoHanded: false,
-    enchantmentMultiplier: 0.5,
-    skillLineId: "weapon-one-hand",
-  },
-  "battleaxe": {
-    id: "battleaxe" as const,
-    name: "Battleaxe",
-    esoWeaponType: "WEAPONTYPE_TWO_HANDED_AXE",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1571,
-    isTwoHanded: true,
-    enchantmentMultiplier: 1,
-    skillLineId: "weapon-two-handed",
-  },
-  "bow": {
-    id: "bow" as const,
-    name: "Bow",
-    esoWeaponType: "WEAPONTYPE_BOW",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1335,
-    isTwoHanded: true,
-    enchantmentMultiplier: 1,
-    skillLineId: "weapon-bow",
-  },
-  "dagger": {
-    id: "dagger" as const,
-    name: "Dagger",
-    esoWeaponType: "WEAPONTYPE_DAGGER",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1335,
-    isTwoHanded: false,
-    enchantmentMultiplier: 0.5,
-    skillLineId: "weapon-one-hand",
-  },
-  "greatsword": {
-    id: "greatsword" as const,
-    name: "Greatsword",
-    esoWeaponType: "WEAPONTYPE_TWO_HANDED_SWORD",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1571,
-    isTwoHanded: true,
-    enchantmentMultiplier: 1,
-    skillLineId: "weapon-two-handed",
-  },
-  "ice-staff": {
-    id: "ice-staff" as const,
-    name: "Ice Staff",
-    esoWeaponType: "WEAPONTYPE_FROST_STAFF",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1335,
-    isTwoHanded: true,
-    enchantmentMultiplier: 1,
-    skillLineId: "weapon-destruction-staff",
-  },
-  "inferno-staff": {
-    id: "inferno-staff" as const,
-    name: "Inferno Staff",
-    esoWeaponType: "WEAPONTYPE_FIRE_STAFF",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1335,
-    isTwoHanded: true,
-    enchantmentMultiplier: 1,
-    skillLineId: "weapon-destruction-staff",
-  },
-  "lightning-staff": {
-    id: "lightning-staff" as const,
-    name: "Lightning Staff",
-    esoWeaponType: "WEAPONTYPE_LIGHTNING_STAFF",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1335,
-    isTwoHanded: true,
-    enchantmentMultiplier: 1,
-    skillLineId: "weapon-destruction-staff",
-  },
-  "mace": {
-    id: "mace" as const,
-    name: "Mace",
-    esoWeaponType: "WEAPONTYPE_HAMMER",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1335,
-    isTwoHanded: false,
-    enchantmentMultiplier: 0.5,
-    skillLineId: "weapon-one-hand",
-  },
-  "maul": {
-    id: "maul" as const,
-    name: "Maul",
-    esoWeaponType: "WEAPONTYPE_TWO_HANDED_HAMMER",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1571,
-    isTwoHanded: true,
-    enchantmentMultiplier: 1,
-    skillLineId: "weapon-two-handed",
-  },
-  "no-type": {
-    id: "no-type" as const,
-    name: "No Type",
-    esoWeaponType: "WEAPONTYPE_NONE",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 0,
-    isTwoHanded: false,
-    enchantmentMultiplier: 0,
-    skillLineId: "",
-  },
-  "restoration-staff": {
-    id: "restoration-staff" as const,
-    name: "Restoration Staff",
-    esoWeaponType: "WEAPONTYPE_HEALING_STAFF",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1335,
-    isTwoHanded: true,
-    enchantmentMultiplier: 1,
-    skillLineId: "weapon-restoration-staff",
-  },
-  "sword": {
-    id: "sword" as const,
-    name: "Sword",
-    esoWeaponType: "WEAPONTYPE_SWORD",
-    validSlots: ["main-hand"] as const,
-    weaponPower: 1335,
-    isTwoHanded: false,
-    enchantmentMultiplier: 0.5,
-    skillLineId: "weapon-one-hand",
-  },
-} as const satisfies Record<string, WeaponTypeTemplate>
-
 interface WeaponTypeTemplate {
-  id: WeaponTypeId
-  name: string
-  esoWeaponType: string
-  validSlots: readonly string[]
-  weaponPower: number
-  isTwoHanded: boolean
-  enchantmentMultiplier: number
-  skillLineId: string
+  readonly id: WeaponTypeId
+  readonly name: string
+  readonly esoWeaponType: string
+  readonly validSlots: readonly string[]
+  readonly weaponPower: number
+  readonly isTwoHanded: boolean
+  readonly enchantmentMultiplier: number
+  readonly skillLineId: string
 }
 
-export const weaponTypes: DataFile<WeaponTypeId, WeaponTypeTemplate> =
-  createDataFile<WeaponTypeTemplate>()(TEMPER_WEAPON_TYPES_BY_ID)
+type Row = Readonly<Record<string, unknown>>
 
-const WEAPON_POWER_QUALITY_VALUES = {
-  standard: { normal: 1072, fine: 1108, superior: 1108, epic: 1132, legendary: 1335 },
-  twoHandedMelee: { normal: 1262, fine: 1304, superior: 1304, epic: 1332, legendary: 1571 },
-} satisfies Record<string, Record<EquipmentQualityId, number>>
+const TYPE_PAGES = "temper-weapon-type/"
 
-const TWO_HANDED_MELEE_TYPES: ReadonlySet<WeaponTypeId> = new Set([
-  "greatsword",
-  "battleaxe",
-  "maul",
-])
+const TWO_HANDED_MELEE_LINE = "weapon-two-handed"
+
+const ONE_HAND_LINES = "weapon-one-hand"
+
+const NO_TYPE = "no-type"
+
+function lineOf(row: Row): string {
+  if (typeof row.skillLineId === "string") return slugOf(row.skillLineId)
+  return row.slug === NO_TYPE ? "" : ONE_HAND_LINES
+}
+
+const held = heldGearTable<WeaponTypeId, WeaponTypeTemplate>("weapon types")
+
+export const weaponTypes: DataFile<WeaponTypeId, WeaponTypeTemplate> = held.table
+
+let powers: ReadonlyMap<string, number> | null = null
+
+function typeOf(row: Row): WeaponTypeTemplate {
+  const slots: readonly unknown[] = Array.isArray(row.validSlots) ? row.validSlots : []
+  return {
+    id: String(row.slug) as WeaponTypeId,
+    name: String(row.title),
+    esoWeaponType: String(row.esoWeaponType),
+    validSlots: slots.map(slugOf),
+    weaponPower: Number(row.weaponPower),
+    isTwoHanded: row.isTwoHanded === true,
+    enchantmentMultiplier: Number(row.enchantmentMultiplier),
+    skillLineId: lineOf(row),
+  }
+}
+
+export function holdWeaponTypes(pages: Iterable<Row>, grades: Iterable<Row>): undefined {
+  held.hold(gearTableOf(inGearOrder(pages, "hashPlace").map(typeOf)))
+  const found = new Map<string, number>()
+  for (const grade of grades) {
+    const thing = String(grade.thing)
+    if (!thing.startsWith(TYPE_PAGES)) continue
+    found.set(`${slugOf(thing)}/${slugOf(grade.quality)}`, Number(grade.value))
+  }
+  powers = found
+}
+
+function powerOf(weaponType: WeaponTypeId, quality: EquipmentQualityId): number {
+  if (powers === null) {
+    throw new Error(
+      "the weapon types are read with the skill catalogue, and nothing has read them yet"
+    )
+  }
+  return powers.get(`${weaponType}/${quality}`) ?? 0
+}
 
 export function getWeaponPower(
   weaponType: WeaponTypeId,
@@ -174,15 +85,10 @@ export function getWeaponPower(
     return 0
   }
 
-  const isTwoHandedMelee = TWO_HANDED_MELEE_TYPES.has(weaponType)
-
   if (level !== undefined) {
+    const isTwoHandedMelee = weaponTypes.data[weaponType].skillLineId === TWO_HANDED_MELEE_LINE
     return getWeaponPowerForLevel(level, isTwoHandedMelee, quality)
   }
 
-  if (isTwoHandedMelee) {
-    return WEAPON_POWER_QUALITY_VALUES.twoHandedMelee[quality]
-  }
-
-  return WEAPON_POWER_QUALITY_VALUES.standard[quality]
+  return powerOf(weaponType, quality)
 }
