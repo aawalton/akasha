@@ -4,17 +4,21 @@ export const searchItemTypeFilter = {
   id: "01a0613a-e0a9-7142-b5d9-3ca6d7ec3c1f",
   type: "page-type/module",
   slug: "search-item-type-filter",
-  definition: "the item type, narrowed by a multiselect of twenty client item-type numbers",
+  definition: "the item type, narrowed by a multiselect of the item type pages",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
       statement: "The item type filter also adds the selected type numbers to the server request.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each option is an item type page's title under its ITEMTYPE number.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement:
-        "The option list names twenty item types rather than every item type the client defines.",
+      statement: "An item type with no page is not offered.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -1,29 +1,17 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import { temperItemType } from "akasha/temper/catalog/temper-item-type/temper-item-type.page-type.ts"
+import type { TemperItemType } from "akasha/temper/catalog/temper-item-type/temper-item-type.page-type.types.ts"
 import { defineFilter } from "akasha/temper/items/filters/core/modules/search-filter-types/search-filter-types.module.code.ts"
+import { numberedOptions } from "akasha/temper/items/filters/core/modules/search-page-options/search-page-options.module.code.ts"
 import { selectedIdsToServerTerms } from "akasha/temper/items/filters/core/modules/search-server-narrowing/search-server-narrowing.module.code.ts"
 import { parseStringArray } from "akasha/temper/items/filters/core/modules/search-string-array-parse/search-string-array-parse.module.code.ts"
 
-const ITEM_TYPE_OPTIONS = [
-  { value: "1", label: "Weapon" },
-  { value: "2", label: "Armor" },
-  { value: "3", label: "Poison" },
-  { value: "4", label: "Food" },
-  { value: "6", label: "Soul Gem" },
-  { value: "7", label: "Costume" },
-  { value: "12", label: "Drink" },
-  { value: "18", label: "Container" },
-  { value: "19", label: "Treasure" },
-  { value: "20", label: "Glyph (Weapon)" },
-  { value: "21", label: "Glyph (Armor)" },
-  { value: "22", label: "Glyph (Jewelry)" },
-  { value: "29", label: "Recipe" },
-  { value: "30", label: "Racial Style Motif" },
-  { value: "34", label: "Trash" },
-  { value: "39", label: "Ingredient" },
-  { value: "40", label: "Potion" },
-  { value: "57", label: "Tabard" },
-  { value: "59", label: "Master Writ" },
-  { value: "73", label: "Crafted Ability Script" },
-] as const
+type ItemTypeRow = Pick<TemperItemType, "title" | "esoItemTypeNumber">
+
+const ITEM_TYPE_OPTIONS = numberedOptions(
+  $pagesOfType<ItemTypeRow>(temperItemType),
+  (row) => row.esoItemTypeNumber
+)
 
 export const ITEM_TYPE_FILTER = defineFilter<readonly string[]>({
   id: "item-type",
