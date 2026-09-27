@@ -19,8 +19,6 @@ export interface StatRow {
   value: LabelControl
 }
 
-export const PANEL_PADDING = 12
-
 export const ROW_PADDING_X = 8
 
 const ROW_PADDING_Y = 6
