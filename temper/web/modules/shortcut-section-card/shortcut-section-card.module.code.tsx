@@ -1,6 +1,8 @@
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Kbd, KbdGroup } from "akasha/design/interface/pattern/modules/kbd/kbd.module.code.tsx"
 import type { SHORTCUT_GROUPS } from "akasha/temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { shortcutSectionCardOr } from "akasha/temper/web/phrase/pages/shortcut-section-card-or.temper-web-phrase.ts"
 
 interface ShortcutSectionCardProps {
   group: (typeof SHORTCUT_GROUPS)[number]
@@ -8,6 +10,7 @@ interface ShortcutSectionCardProps {
 }
 
 export function ShortcutSectionCard({ group, isMac }: ShortcutSectionCardProps) {
+  const phrase = usePhrase()
   return (
     <PanelCard
       id={`shortcuts-${group.title.toLowerCase().replace(/\s+/g, "-")}`}
@@ -20,7 +23,11 @@ export function ShortcutSectionCard({ group, isMac }: ShortcutSectionCardProps) 
             <div className="flex shrink-0 items-center gap-2">
               {shortcut.keys.map((combo, i) => (
                 <span key={i} className="inline-flex items-center gap-2">
-                  {i > 0 && <span className="text-tertiary text-xs">or</span>}
+                  {i > 0 && (
+                    <span className="text-tertiary text-xs">
+                      {phrase(shortcutSectionCardOr.slug)}
+                    </span>
+                  )}
                   <KbdGroup>
                     {(isMac ? combo.mac : combo.win).map((key) => (
                       <Kbd key={key}>{key}</Kbd>

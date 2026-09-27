@@ -6267,6 +6267,8 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.ts","id":"01a0642d-9a17-737e-aba1-6edefa44c29f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/set-target-confirm-dialog/set-target-confirm-dialog.module.ts","id":"01a06429-76ff-7de4-95e8-3c9c7552751b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/set-target-dialog/set-target-dialog.module.ts","id":"01a06429-76ff-7b98-9350-f3aedb167a1a"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/settings-page-content/settings-page-content.module.ts","id":"01a06432-b190-7ada-a120-f8ab3c8de27b"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/shortcut-section-card/shortcut-section-card.module.ts","id":"01a06432-b190-7746-bbbc-15e16fa5228e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.ts","id":"01a0de7a-2f36-784f-bdd2-ba06f5ae41bf"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.ts","id":"01a0642c-5bab-77bc-bd5f-4f4709582c75"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/skill-lines-panel-card/skill-lines-panel-card.module.ts","id":"01a0642c-5bac-7578-9176-552f2bc3ddab"}

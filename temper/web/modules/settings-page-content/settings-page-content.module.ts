@@ -6,4 +6,10 @@ export const settingsPageContent = {
   slug: "settings-page-content",
   definition: "the settings page and its tabs",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

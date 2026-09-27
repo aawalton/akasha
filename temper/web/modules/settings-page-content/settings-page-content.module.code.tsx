@@ -15,6 +15,12 @@ import { AccountTab } from "akasha/temper/web/modules/account-tab/account-tab.mo
 import { AutomationTab } from "akasha/temper/web/modules/automation-tab/automation-tab.module.code.tsx"
 import { InventoryTab } from "akasha/temper/web/modules/inventory-tab/inventory-tab.module.code.tsx"
 import { NotificationsTab } from "akasha/temper/web/modules/notifications-tab/notifications-tab.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { settingsPageContentAccount } from "akasha/temper/web/phrase/pages/settings-page-content-account.temper-web-phrase.ts"
+import { settingsPageContentAutomation } from "akasha/temper/web/phrase/pages/settings-page-content-automation.temper-web-phrase.ts"
+import { settingsPageContentInventory } from "akasha/temper/web/phrase/pages/settings-page-content-inventory.temper-web-phrase.ts"
+import { settingsPageContentNotifications } from "akasha/temper/web/phrase/pages/settings-page-content-notifications.temper-web-phrase.ts"
+import { settingsPageContentTitle } from "akasha/temper/web/phrase/pages/settings-page-content-title.temper-web-phrase.ts"
 import { Bell, Package, Sliders, User as UserIcon } from "lucide-react"
 
 const VALID_TABS = new Set(["account", "inventory", "automation", "notifications"])
@@ -29,6 +35,7 @@ interface SettingsPageContentProps {
 }
 
 export function SettingsPageContent({ user, initialTab }: SettingsPageContentProps) {
+  const phrase = usePhrase()
   const { values, update } = useFilterPersistence<FilterValues>({
     storageKey: "temper:settings:filters",
     fields: {
@@ -52,16 +59,32 @@ export function SettingsPageContent({ user, initialTab }: SettingsPageContentPro
       })}
     >
       <PageLayout.Header>
-        <PageTitle>Settings</PageTitle>
+        <PageTitle>{phrase(settingsPageContentTitle.slug)}</PageTitle>
       </PageLayout.Header>
 
       <Tabs value={values.tab} onValueChange={(v) => update({ tab: v })}>
         <PageLayout.Tabs>
           <TabsList className="@[1016px]:grid grid h-18 w-full @[1016px]:grid-cols-4 grid-cols-4 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
-            <PageTabsTrigger value="account" icon={<UserIcon />} label="Account" />
-            <PageTabsTrigger value="inventory" icon={<Package />} label="Inventory" />
-            <PageTabsTrigger value="automation" icon={<Sliders />} label="Automation" />
-            <PageTabsTrigger value="notifications" icon={<Bell />} label="Notifications" />
+            <PageTabsTrigger
+              value="account"
+              icon={<UserIcon />}
+              label={phrase(settingsPageContentAccount.slug)}
+            />
+            <PageTabsTrigger
+              value="inventory"
+              icon={<Package />}
+              label={phrase(settingsPageContentInventory.slug)}
+            />
+            <PageTabsTrigger
+              value="automation"
+              icon={<Sliders />}
+              label={phrase(settingsPageContentAutomation.slug)}
+            />
+            <PageTabsTrigger
+              value="notifications"
+              icon={<Bell />}
+              label={phrase(settingsPageContentNotifications.slug)}
+            />
           </TabsList>
         </PageLayout.Tabs>
 

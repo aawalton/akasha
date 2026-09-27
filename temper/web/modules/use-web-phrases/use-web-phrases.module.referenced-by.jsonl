@@ -87,6 +87,8 @@
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/set-target-confirm-dialog/set-target-confirm-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/settings-page-content/settings-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/shortcut-section-card/shortcut-section-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/skill-lines-panel-card/skill-lines-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/skill-lines-progress-panel-card/skill-lines-progress-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/skill-points-progress-panel-card/skill-points-progress-panel-card.module.code.tsx","typed":false,"deferred":false}
@@ -97,6 +99,7 @@
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/use-companion-set-target/use-companion-set-target.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/use-scribed-skills/use-scribed-skills.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/use-temper-import/use-temper-import.module.code.ts","typed":false,"deferred":false}

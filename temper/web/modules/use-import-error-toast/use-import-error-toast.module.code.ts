@@ -1,24 +1,31 @@
 "use client"
 
+import {
+  phraseIn,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { useImportErrorToastFailed } from "akasha/temper/web/phrase/pages/use-import-error-toast-failed.temper-web-phrase.ts"
+import { useImportErrorToastInvalidLink } from "akasha/temper/web/phrase/pages/use-import-error-toast-invalid-link.temper-web-phrase.ts"
+import { useImportErrorToastNoAccount } from "akasha/temper/web/phrase/pages/use-import-error-toast-no-account.temper-web-phrase.ts"
 import { useEffect } from "react"
 import { useSearchParams } from "react-router"
 import { toast } from "sonner"
 
-const IMPORT_ERROR_MESSAGES: Record<string, string> = {
-  "invalid-hash": "This build link is invalid or uses an unsupported format.",
-  "no-account": "Your sign-in has no Temper account yet, so the build has nowhere to go.",
-  "create-failed": "We couldn't import that build. Please try again.",
+const IMPORT_ERROR_PHRASES: Record<string, string> = {
+  "invalid-hash": useImportErrorToastInvalidLink.slug,
+  "no-account": useImportErrorToastNoAccount.slug,
+  "create-failed": useImportErrorToastFailed.slug,
 }
-
-const GENERIC_IMPORT_ERROR = "We couldn't import that build. Please try again."
 
 export function useImportErrorToast(): undefined {
   const [searchParams, setSearchParams] = useSearchParams()
   const error = searchParams.get("error")
+  const phrases = useWebPhrases()
 
   useEffect(() => {
-    if (error == null) return
-    toast.error(IMPORT_ERROR_MESSAGES[error] ?? GENERIC_IMPORT_ERROR, { id: "build-import-error" })
+    if (error == null || phrases === null) return
+    const slug = IMPORT_ERROR_PHRASES[error] ?? useImportErrorToastFailed.slug
+    toast.error(phraseIn(phrases, slug), { id: "build-import-error" })
     setSearchParams(
       (prev) => {
         const next = new URLSearchParams(prev)
@@ -27,5 +34,5 @@ export function useImportErrorToast(): undefined {
       },
       { replace: true }
     )
-  }, [error, setSearchParams])
+  }, [error, phrases, setSearchParams])
 }

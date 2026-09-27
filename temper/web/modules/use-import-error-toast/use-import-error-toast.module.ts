@@ -19,5 +19,10 @@ export const useImportErrorToast = {
       decisionKind: "decision-kind/departure",
       statement: "A notice raised again under the same id replaces the notice showing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its wording is read from web phrase pages, and no notice is raised before they are.",
+    },
   ],
 } as const satisfies Module

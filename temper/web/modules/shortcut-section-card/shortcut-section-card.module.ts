@@ -6,4 +6,10 @@ export const shortcutSectionCard = {
   slug: "shortcut-section-card",
   definition: "a group of keyboard shortcuts drawn as a card",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
