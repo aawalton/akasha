@@ -6,4 +6,10 @@ export const accountAchievementsPanelCard = {
   slug: "account-achievements-panel-card",
   definition: "the achievements any character on the account has earned, by category",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from its completion category page.",
+    },
+  ],
 } as const satisfies Module

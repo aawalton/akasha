@@ -3,6 +3,7 @@ import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-
 
 import { accountCollectibleNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import { childrenOf } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-nodes/completion-progress-nodes.module.code.ts"
 import type { AccountCollectiblesProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import {
@@ -47,7 +48,7 @@ export function AccountCollectiblesPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Collectibles"
+      title={completionCardTitle("account", "collectibles")}
       items={items}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

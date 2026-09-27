@@ -3,6 +3,7 @@ import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-
 import { accountRecipeNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountRecipeUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-recipe-scribing-union/completion-account-recipe-scribing-union.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import {
   type CompletionFilter,
   CompletionPanelCard,
@@ -31,7 +32,7 @@ export function AccountRecipesPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Crafting Recipes"
+      title={completionCardTitle("account", "account-recipes")}
       items={withActivityCategories(accountRecipeNodes(recipeUnion), "crafting")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

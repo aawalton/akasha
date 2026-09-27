@@ -6,4 +6,10 @@ export const accountRecipesPanelCard = {
   slug: "account-recipes-panel-card",
   definition: "the crafting recipes any character on the account knows",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from its completion category page.",
+    },
+  ],
 } as const satisfies Module

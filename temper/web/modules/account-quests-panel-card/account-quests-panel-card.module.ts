@@ -6,4 +6,10 @@ export const accountQuestsPanelCard = {
   slug: "account-quests-panel-card",
   definition: "the quests any character on the account has completed",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from its completion category page.",
+    },
+  ],
 } as const satisfies Module

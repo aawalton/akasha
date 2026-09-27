@@ -2,6 +2,7 @@ import type { SortDirection } from "akasha/design/interface/pattern/modules/sort
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { accountTributeNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type { AccountTributeProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import {
   type CompletionFilter,
@@ -31,7 +32,7 @@ export function AccountTributePanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Tales of Tribute"
+      title={completionCardTitle("account", "tales-of-tribute")}
       items={withActivityCategories(accountTributeNodes(tributeProgress), "other")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

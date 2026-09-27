@@ -3,6 +3,7 @@ import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-
 import { accountPoiNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountPoiUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import {
   type CompletionFilter,
   CompletionPanelCard,
@@ -31,7 +32,7 @@ export function AccountPoiPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Points of Interest"
+      title={completionCardTitle("account", "account-points-of-interest")}
       items={withActivityCategories(accountPoiNodes(poiUnion), "exploration")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

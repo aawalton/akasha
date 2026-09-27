@@ -2,6 +2,7 @@ import type { SortDirection } from "akasha/design/interface/pattern/modules/sort
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountZoneCompletionUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-zone-poi-union/completion-account-zone-poi-union.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -50,7 +51,7 @@ export function AccountZoneCompletionPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Zone Completion"
+      title={completionCardTitle("account", "account-zone-completion")}
       items={withActivityCategories(items, "exploration")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

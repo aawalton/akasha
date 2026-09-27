@@ -6,4 +6,10 @@ export const allianceRankPanelCard = {
   slug: "alliance-rank-panel-card",
   definition: "each selected character's alliance rank against the highest there is",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from its completion category page.",
+    },
+  ],
 } as const satisfies Module

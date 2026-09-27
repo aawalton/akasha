@@ -6,4 +6,10 @@ export const accountCollectiblesPanelCard = {
   slug: "account-collectibles-panel-card",
   definition: "the collectibles the account has unlocked, by category",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from its completion category page.",
+    },
+  ],
 } as const satisfies Module

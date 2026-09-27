@@ -6123,7 +6123,17 @@
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/modules/item-browser-tooltip-hooks/item-browser-tooltip-hooks.module.ts","id":"01a06178-3722-7072-929f-386663022358"}
 {"propertySlug":"decision-kind","path":"temper/web/item-browser/temper-item-browser.domain.ts","id":"01a06178-3724-7ee9-b831-46e112ae8a76"}
 {"propertySlug":"decision-kind","path":"temper/web/look/temper-web-look.stylesheet.ts","id":"01a0640f-850f-7bfd-8070-ae903b54ddb0"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/account-achievements-panel-card/account-achievements-panel-card.module.ts","id":"01a06421-f74a-73fe-b4ba-382bef140001"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/account-collectibles-panel-card/account-collectibles-panel-card.module.ts","id":"01a06421-f74a-7ed8-8ece-3f5c507e0002"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/account-poi-panel-card/account-poi-panel-card.module.ts","id":"01a06421-f74b-7d3d-b6f9-7d6db3070005"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-progress/account-progress.module.ts","id":"01a06421-f74b-7ac7-a2c3-4120a9e80006"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/account-quests-panel-card/account-quests-panel-card.module.ts","id":"01a06421-f74b-7ec3-8872-aa39e4d60007"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/account-recipes-panel-card/account-recipes-panel-card.module.ts","id":"01a06421-f74b-74eb-87e9-e619720b0008"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/account-trait-research-panel-card/account-trait-research-panel-card.module.ts","id":"01a06421-f74b-7a90-9c03-de25b3a2000b"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/account-tribute-panel-card/account-tribute-panel-card.module.ts","id":"01a06421-f74b-7724-b242-e7d6d606000c"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/account-zone-completion-panel-card/account-zone-completion-panel-card.module.ts","id":"01a06421-f74b-793e-882c-e2f59826000d"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/alliance-rank-panel-card/alliance-rank-panel-card.module.ts","id":"01a06421-f74b-7225-aa23-74e9044c000e"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/antiquity-lore-panel-card/antiquity-lore-panel-card.module.ts","id":"01a06421-f74b-719d-8e90-1cedaaf2000f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/armor-card/armor-card.module.ts","id":"01a0642d-9a17-7abb-8e55-5319438ebc16"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.ts","id":"01a0642d-9a17-7544-8ead-6c25afebc88f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/attributes-panel-card/attributes-panel-card.module.ts","id":"01a0642c-5b74-7c5a-a0d1-3f4087f2855f"}

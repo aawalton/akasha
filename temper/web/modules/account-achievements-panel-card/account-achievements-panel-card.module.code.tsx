@@ -4,6 +4,7 @@ import { achievementNameToActivity } from "akasha/temper/player/completion/tempe
 import { accountAchievementNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import type { AccountAchievementOverallProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import { childrenOf } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-nodes/completion-progress-nodes.module.code.ts"
 import {
   type CompletionFilter,
@@ -61,7 +62,7 @@ export function AccountAchievementsPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Achievements"
+      title={completionCardTitle("account", "account-achievements")}
       items={items}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

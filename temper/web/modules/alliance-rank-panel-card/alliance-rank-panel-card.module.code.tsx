@@ -1,6 +1,7 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type { CompletionCharacter } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import {
   type CompletionFilter,
@@ -44,14 +45,13 @@ export function AllianceRankPanelCard({
     total: c.maxAllianceRank,
   }))
 
-  const items: CompletionNode[] = [
-    { key: "alliance-rank", label: "Alliance Rank", children: characterNodes },
-  ]
+  const title = completionCardTitle("characters", "alliance-rank")
+  const items: CompletionNode[] = [{ key: "alliance-rank", label: title, children: characterNodes }]
 
   return (
     <CompletionPanelCard
       id={id}
-      title="Alliance Rank"
+      title={title}
       items={withActivityCategories(items, "pvp")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
