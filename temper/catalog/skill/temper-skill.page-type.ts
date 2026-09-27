@@ -29,6 +29,7 @@ export const temperSkill = {
     "text-property/base-name",
     "text-property/skill-status",
     "module/skill-templates-reading",
+    "page-type/temper-resource",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

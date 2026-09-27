@@ -28,6 +28,7 @@
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/pursuit/temper-research-line/temper-research-line.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/skill/line/temper-skill-line.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/skill/resource/temper-resource.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/skill/temper-scribing-source/temper-scribing-source.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/world/temper-bag/temper-bag.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.types.ts","typed":true,"deferred":false}
@@ -84,6 +85,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-research-line/temper-research-line.page-type.ts","id":"01a0616b-2cdf-7005-a903-e1d072da4881"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts","id":"01a05fca-cb8b-713e-b910-7148de1f3dbd"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}
+{"propertySlug":"page-property","path":"temper/catalog/skill/resource/temper-resource.page-type.ts","id":"01a0e2cf-29db-7f15-903a-a854167ea509"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-scribing-source/temper-scribing-source.page-type.ts","id":"01a05fca-cb8a-71bc-bb97-a0f1bb3ac4fb"}
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-bag/temper-bag.page-type.ts","id":"01a0e24c-a62b-7473-a612-79f29879a028"}
 {"propertySlug":"page-property","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.ts","id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}

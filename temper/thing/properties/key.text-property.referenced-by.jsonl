@@ -55,6 +55,7 @@
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/line/temper-skill-line.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/resource/temper-resource.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/slot/temper-skill-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/temper-class/temper-class.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/temper-scribing-thing/temper-scribing-thing.page-type.types.ts","typed":true,"deferred":false}
@@ -140,6 +141,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.ts","id":"01a0616b-2cdf-7001-a24c-0dd3c96e1a6e"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts","id":"01a05fca-cb8b-713e-b910-7148de1f3dbd"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}
+{"propertySlug":"page-property","path":"temper/catalog/skill/resource/temper-resource.page-type.ts","id":"01a0e2cf-29db-7f15-903a-a854167ea509"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/slot/temper-skill-slot.page-type.ts","id":"01a05fca-cb8b-79ed-ae49-1fdf5f38602a"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-class/temper-class.page-type.ts","id":"01a05fca-cb89-7c15-a7d1-9bf0b42293c8"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/temper-scribing-thing/temper-scribing-thing.page-type.ts","id":"01a05fca-cb8c-73ea-beae-bd4ddb3a41f3"}

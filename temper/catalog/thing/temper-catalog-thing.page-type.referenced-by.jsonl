@@ -33,6 +33,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/pursuit/thing/temper-pursuit-thing.page-type.ts","id":"01a06153-0ea9-7002-8317-f34518274d6f"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts","id":"01a05fca-cb8b-713e-b910-7148de1f3dbd"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}
+{"propertySlug":"extends-type","path":"temper/catalog/skill/resource/temper-resource.page-type.ts","id":"01a0e2cf-29db-7f15-903a-a854167ea509"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/slot/temper-skill-slot.page-type.ts","id":"01a05fca-cb8b-79ed-ae49-1fdf5f38602a"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-class/temper-class.page-type.ts","id":"01a05fca-cb89-7c15-a7d1-9bf0b42293c8"}
 {"propertySlug":"extends-type","path":"temper/catalog/skill/temper-scribing-source/temper-scribing-source.page-type.ts","id":"01a05fca-cb8a-71bc-bb97-a0f1bb3ac4fb"}
@@ -89,6 +90,7 @@
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/pursuit/thing/temper-pursuit-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/line/temper-skill-line.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/resource/temper-resource.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/slot/temper-skill-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/temper-class/temper-class.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/skill/temper-scribing-source/temper-scribing-source.page-type.types.ts","typed":true,"deferred":false}
