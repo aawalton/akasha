@@ -238,6 +238,26 @@ export const otherwhereHallBack = {
       ],
     },
     {
+      fact: "Salt ground into an open bite burns fiercely but does it no further harm.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Salt clings in a crust to blood-damp cloth, and flakes off with every hard tussle.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A bookworm biting salt-crusted cloth is salted and lets go, but its teeth sink in first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Swept together, the broken oval's salt makes a heap a foot and a half across, ankle-deep.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The chewed broom still sweeps, its bristles bitten ragged down one side.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Further back in the gloom beyond the columns, wet chewing still goes on.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
