@@ -5,6 +5,8 @@ export const crimsonOath = {
   type: "page-type/temper-motif-style",
   slug: "crimson-oath",
   title: "Crimson Oath",
+  esoItemStyleId: 123,
+  styleName: "Crimson Oath",
   collectionIndex: 90,
   sourceDescription: "Dread Cellar dungeon",
 } as const satisfies TemperMotifStyle
