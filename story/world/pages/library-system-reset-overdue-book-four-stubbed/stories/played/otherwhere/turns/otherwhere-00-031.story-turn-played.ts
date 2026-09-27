@@ -31,4 +31,5 @@ export const otherwhere00031 = {
     'He looks at her blood-dark sleeve. "And it bites a great deal harder than those did."',
   ],
   lore: ["place/otherwhere-hall-back", "lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
