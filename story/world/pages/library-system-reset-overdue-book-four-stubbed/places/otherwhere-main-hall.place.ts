@@ -84,6 +84,14 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A small engorged bookworm moves at a slow walk, but lunges a few feet fast to bite.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A scoop of salt flung by hand carries about ten feet before it scatters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
