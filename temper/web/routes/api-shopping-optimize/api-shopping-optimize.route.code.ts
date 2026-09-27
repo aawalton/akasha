@@ -3,6 +3,7 @@ import type { ShoppingItem } from "akasha/temper/economy/shopping/modules/ttc-sh
 import { TTC_AGO } from "akasha/temper/economy/trading/pricing/modules/ttc-listing-types/ttc-listing-types.module.code.ts"
 import { loadKioskNames } from "akasha/temper/web/modules/kiosk-names-loading/kiosk-names-loading.module.code.ts"
 import { createTTCListingClient } from "akasha/temper/web/modules/ttc-listing-client/ttc-listing-client.module.code.ts"
+import type { ShoppingOptimizeReason } from "akasha/temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 
 const ttcClient = createTTCListingClient()
 
@@ -16,23 +17,22 @@ function sseEvent(event: string, data: unknown): string {
   return `event: ${event}\ndata: ${JSON.stringify(data)}\n\n`
 }
 
+function refused(reason: ShoppingOptimizeReason): Response {
+  return new Response(JSON.stringify({ reason }), {
+    status: 400,
+    headers: { "Content-Type": "application/json" },
+  })
+}
+
 export async function action({ request }: { request: Request }): Promise<Response> {
   let parsed: unknown
   try {
     parsed = await request.json()
   } catch {
-    return new Response(JSON.stringify({ error: "Invalid JSON body" }), {
-      status: 400,
-      headers: { "Content-Type": "application/json" },
-    })
+    return refused("unreadable-request")
   }
 
-  if (!Array.isArray(parsed) || parsed.length === 0) {
-    return new Response(JSON.stringify({ error: "No items to search" }), {
-      status: 400,
-      headers: { "Content-Type": "application/json" },
-    })
-  }
+  if (!Array.isArray(parsed) || parsed.length === 0) return refused("no-items")
   const items: ShoppingItem[] = parsed
 
   const stream = new ReadableStream({
@@ -54,8 +54,9 @@ export async function action({ request }: { request: Request }): Promise<Respons
         })
         send("complete", { plan })
       } catch (err) {
-        const message = err instanceof Error ? err.message : "Unknown error"
-        send("error", { error: message })
+        console.error("[api-shopping-optimize] search failed:", err)
+        const reason: ShoppingOptimizeReason = "search-failed"
+        send("error", { reason })
       } finally {
         controller.close()
       }

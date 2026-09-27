@@ -12,5 +12,9 @@ export const shoppingSseReader = {
       decisionKind: "decision-kind/departure",
       statement: "A response with no body reads as a stream that ended without a result.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An error frame carries a reason code, and one with no known code is dropped.",
+    },
   ],
 } as const satisfies Module

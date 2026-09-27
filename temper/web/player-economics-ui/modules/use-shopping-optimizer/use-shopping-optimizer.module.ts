@@ -12,5 +12,10 @@ export const useShoppingOptimizer = {
       statement:
         "A fault the search meets itself is named by a phrase page rather than written here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each reason code the optimise route answers is worded by a phrase page of its own.",
+    },
   ],
 } as const satisfies Module

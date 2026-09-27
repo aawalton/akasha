@@ -35,11 +35,11 @@ async function readAll(...chunks: readonly (string | Uint8Array)[]): Promise<{
   outcome: SseReadOutcome
   progress: { completed: number; total: number }[]
   complete: { plan: ShoppingPlan }[]
-  failed: { error: string }[]
+  failed: { reason: string }[]
 }> {
   const progress: { completed: number; total: number }[] = []
   const complete: { plan: ShoppingPlan }[] = []
-  const failed: { error: string }[] = []
+  const failed: { reason: string }[] = []
   const outcome = await readSSEStream(
     responseOf(...chunks),
     (d) => progress.push(d),
@@ -67,11 +67,21 @@ describe("readSSEStream", () => {
 
   test("accepts an error frame carrying a field beyond the known envelope", async () => {
     const { outcome, failed } = await readAll(
-      'event: error\ndata: {"error":"TTC unreachable","code":503}\n\n'
+      'event: error\ndata: {"reason":"search-failed","code":503}\n\n'
     )
 
-    expect(failed).toEqual([{ error: "TTC unreachable" }])
+    expect(failed).toEqual([{ reason: "search-failed" }])
     expect(outcome).toEqual({ terminal: "error", dropped: [] })
+  })
+
+  test("drops an error frame whose reason is no known code", async () => {
+    const { outcome, failed } = await readAll('event: error\ndata: {"reason":"gone"}\n\n')
+
+    expect(failed).toEqual([])
+    expect(outcome).toEqual({
+      terminal: "none",
+      dropped: [{ event: "error", reason: "schema-rejected" }],
+    })
   })
 
   test("reports a mid-JSON truncation as an unparseable drop, not a terminal", async () => {

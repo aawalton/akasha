@@ -13,7 +13,7 @@ export const shoppingSearchProgress = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A fault is shown in the words the server told, or in its phrase page's words.",
+      statement: "A fault is shown in its phrase page's words, and never in a server's words.",
     },
   ],
 } as const satisfies Module

@@ -6,11 +6,15 @@ import type {
   ShoppingItem,
 } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { useKioskNames } from "akasha/temper/web/modules/use-kiosk-names/use-kiosk-names.module.code.tsx"
+import { useShoppingOptimizerNoItems } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-no-items.temper-web-phrase.ts"
 import { useShoppingOptimizerNoResult } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-no-result.temper-web-phrase.ts"
 import { useShoppingOptimizerRefused } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-refused.temper-web-phrase.ts"
+import { useShoppingOptimizerSearchFailed } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-search-failed.temper-web-phrase.ts"
 import { useShoppingOptimizerTimedOut } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-timed-out.temper-web-phrase.ts"
 import { useShoppingOptimizerUnknownError } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-unknown-error.temper-web-phrase.ts"
+import { useShoppingOptimizerUnreachable } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-unreachable.temper-web-phrase.ts"
 import { useShoppingOptimizerUnreadable } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-unreadable.temper-web-phrase.ts"
+import { useShoppingOptimizerUnreadableRequest } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-unreadable-request.temper-web-phrase.ts"
 import {
   pinLocationIndex,
   recomputeLocations,
@@ -21,6 +25,7 @@ import type {
   NotAvailableParam,
   OptimizerDerived,
   OptimizerState,
+  ShoppingOptimizeReason,
   UpdateShoppingMarks,
 } from "akasha/temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import {
@@ -28,7 +33,10 @@ import {
   loadCachedRoute,
   saveCachedRoute,
 } from "akasha/temper/web/player-economics-ui/modules/shopping-route-cache/shopping-route-cache.module.code.ts"
-import { readSSEStream } from "akasha/temper/web/player-economics-ui/modules/shopping-sse-reader/shopping-sse-reader.module.code.ts"
+import {
+  readSSEStream,
+  reasonIn,
+} from "akasha/temper/web/player-economics-ui/modules/shopping-sse-reader/shopping-sse-reader.module.code.ts"
 import type { ShoppingList } from "akasha/temper/web/player-economics-ui/modules/use-shopping-list/use-shopping-list.module.code.ts"
 import { useCallback, useEffect, useMemo, useRef, useState } from "react"
 
@@ -48,6 +56,12 @@ const IDLE_STATE: OptimizerState = {
 }
 
 const SEARCH_IDLE_TIMEOUT_MS = 60_000
+
+const REASON_PHRASES: Record<ShoppingOptimizeReason, string> = {
+  "unreadable-request": useShoppingOptimizerUnreadableRequest.slug,
+  "no-items": useShoppingOptimizerNoItems.slug,
+  "search-failed": useShoppingOptimizerSearchFailed.slug,
+}
 
 export function useShoppingOptimizer(
   shoppingList: ShoppingList,
@@ -143,16 +157,21 @@ export function useShoppingOptimizer(
         })
 
         if (!response.ok) {
-          const body: { error?: string } | null = await response.json().catch(() => null)
-          setState((prev) => ({
-            ...prev,
-            status: "error",
-            progress: 0,
-            error:
-              body?.error !== undefined
-                ? { told: body.error }
-                : { phrase: useShoppingOptimizerRefused.slug, fills: { status: response.status } },
-          }))
+          const reason = reasonIn(await response.json().catch(() => null))
+          setState(
+            (prev): OptimizerState => ({
+              ...prev,
+              status: "error",
+              progress: 0,
+              error:
+                reason !== null
+                  ? { phrase: REASON_PHRASES[reason], fills: {} }
+                  : {
+                      phrase: useShoppingOptimizerRefused.slug,
+                      fills: { status: response.status },
+                    },
+            })
+          )
           return
         }
 
@@ -177,12 +196,12 @@ export function useShoppingOptimizer(
               purchasedCount: 0,
             }))
           },
-          ({ error }) => {
+          ({ reason }) => {
             setState((prev) => ({
               ...prev,
               status: "error",
               progress: 0,
-              error: { told: error },
+              error: { phrase: REASON_PHRASES[reason], fills: {} },
             }))
           }
         )
@@ -206,14 +225,18 @@ export function useShoppingOptimizer(
         }
       } catch (err) {
         if (err instanceof DOMException && err.name === "AbortError") return
+        console.error("[shopping-optimizer] search request failed:", err)
         setState((prev) => ({
           ...prev,
           status: "error",
           progress: 0,
-          error:
-            err instanceof Error
-              ? { told: err.message }
-              : { phrase: useShoppingOptimizerUnknownError.slug, fills: {} },
+          error: {
+            phrase:
+              err instanceof Error
+                ? useShoppingOptimizerUnreachable.slug
+                : useShoppingOptimizerUnknownError.slug,
+            fills: {},
+          },
         }))
       } finally {
         clearWatchdog()

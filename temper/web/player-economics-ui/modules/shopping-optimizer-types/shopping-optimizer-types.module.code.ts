@@ -7,7 +7,15 @@ import type { Fills } from "akasha/temper/web/modules/use-web-phrases/use-web-ph
 
 type OptimizerStatus = "idle" | "searching" | "complete" | "error"
 
-type OptimizerFault = { readonly phrase: string; readonly fills: Fills } | { readonly told: string }
+type OptimizerFault = { readonly phrase: string; readonly fills: Fills }
+
+export const SHOPPING_OPTIMIZE_REASONS = [
+  "unreadable-request",
+  "no-items",
+  "search-failed",
+] as const
+
+export type ShoppingOptimizeReason = (typeof SHOPPING_OPTIMIZE_REASONS)[number]
 
 export interface OptimizerState {
   status: OptimizerStatus

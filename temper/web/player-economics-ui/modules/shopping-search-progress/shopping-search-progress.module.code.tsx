@@ -25,7 +25,7 @@ export function ShoppingSearchProgress({ state }: { state: OptimizerState }) {
   if (state.status === "error" && fault !== null) {
     return (
       <Text variant="caption" className="pt-2 text-orange">
-        {"told" in fault ? fault.told : phrase(fault.phrase, fault.fills)}
+        {phrase(fault.phrase, fault.fills)}
       </Text>
     )
   }

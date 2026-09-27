@@ -9,7 +9,11 @@ export const shoppingOptimizerTypes = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A search fault names its phrase page, or carries the words the server told.",
+      statement: "A search fault names its phrase page and never carries a server's words.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The optimise route answers a fault as one of the reason codes held here.",
     },
   ],
 } as const satisfies Module

@@ -1,4 +1,8 @@
 import type { ShoppingPlan } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import {
+  SHOPPING_OPTIMIZE_REASONS,
+  type ShoppingOptimizeReason,
+} from "akasha/temper/web/player-economics-ui/modules/shopping-optimizer-types/shopping-optimizer-types.module.code.ts"
 import { z } from "zod"
 
 interface ProgressEvent {
@@ -11,7 +15,7 @@ interface CompleteEvent {
 }
 
 interface ErrorEvent {
-  error: string
+  reason: ShoppingOptimizeReason
 }
 
 interface DroppedFrame {
@@ -33,7 +37,14 @@ const shoppingPlanShape = z.custom<ShoppingPlan>(
 )
 const completeEventSchema = z.object({ plan: shoppingPlanShape }) satisfies z.ZodType<CompleteEvent>
 
-const errorEventSchema = z.object({ error: z.string() }) satisfies z.ZodType<ErrorEvent>
+const errorEventSchema = z.object({
+  reason: z.enum(SHOPPING_OPTIMIZE_REASONS),
+}) satisfies z.ZodType<ErrorEvent>
+
+export function reasonIn(body: unknown): ShoppingOptimizeReason | null {
+  const result = errorEventSchema.safeParse(body)
+  return result.success ? result.data.reason : null
+}
 
 export async function readSSEStream(
   response: Response,
