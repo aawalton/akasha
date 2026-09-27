@@ -59,7 +59,6 @@ export async function buildVerdicts(
       lastSeenAtMs: entry.lastSeenAt * 1000,
       frontierMs,
       staleAfterMs,
-      ownership: { kind: "external" },
     })
     verdicts.set(entry, {
       stale: isStaleResidue(liveness, { triage: gathered.triage, reason: gathered.reason }),

@@ -18,10 +18,7 @@ export const watcherImportErrors = {
       statement:
         "An error is judged stale against the latest moment any error in the file was seen.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every addon is judged as though outside the repository.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "Recency alone makes an error stale.",

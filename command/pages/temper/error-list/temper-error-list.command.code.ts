@@ -1,5 +1,4 @@
 import { readFileSync } from "node:fs"
-import { ran } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { saidBy as messageOf } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { errorsPath as errorsPathArgument } from "akasha/command/argument/pages/errors-path.argument.ts"
@@ -14,8 +13,6 @@ import {
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { temperErrorList as page } from "akasha/command/pages/temper/error-list/temper-error-list.command.ts"
-import { codeRoot } from "akasha/page/modules/code-root/code-root.module.code.ts"
-import { listAllAddons } from "akasha/temper/addon/build/resolve/modules/addon-roster/addon-roster.module.code.ts"
 import type { ErrorEntry } from "akasha/temper/capture/error/modules/errors-payload/errors-payload.module.code.ts"
 import {
   collectEntries,
@@ -24,8 +21,6 @@ import {
 import {
   classifyLiveness,
   DEFAULT_STALE_AFTER_HOURS,
-  extractOwningAddonCandidates,
-  type Ownership,
 } from "akasha/temper/capture/errors-triage/modules/errors-liveness/errors-liveness.module.code.ts"
 import { rootSchema } from "akasha/temper/capture/errors-triage/modules/errors-saved-variables/errors-saved-variables.module.code.ts"
 import type { InferredCulprit } from "akasha/temper/capture/errors-triage/modules/errors-triage/errors-triage.module.code.ts"
@@ -78,69 +73,19 @@ function callstackOf(traceback: string | null | undefined): string {
   return flat.length <= CALLSTACK_PREVIEW_MAX ? flat : `${flat.slice(0, CALLSTACK_PREVIEW_MAX)}…`
 }
 
-function rosterIn(root: string): ReadonlyMap<string, string> {
-  const found = new Map<string, string>()
-  try {
-    for (const addon of listAllAddons({ repoRoot: root })) {
-      if (!found.has(addon.canonicalName)) found.set(addon.canonicalName, addon.repoRelDir)
-    }
-  } catch {
-    return found
-  }
-  return found
-}
-
-function fixedAt(root: string, relDir: string, cache: Map<string, number | null>): number | null {
-  const held = cache.get(relDir)
-  if (held !== undefined) return held
-  let found: number | null = null
-  try {
-    const done = ran(["git", "log", "-1", "--format=%cI", "--", relDir], { cwd: root })
-    const iso = done.out.trim()
-    if (done.code === 0 && iso.length > 0) {
-      const ms = Date.parse(iso)
-      found = Number.isNaN(ms) ? null : ms
-    }
-  } catch {
-    found = null
-  }
-  cache.set(relDir, found)
-  return found
-}
-
-function ownershipOf(
-  traceback: string | null | undefined,
-  roster: ReadonlyMap<string, string>,
-  root: string,
-  cache: Map<string, number | null>
-): Ownership {
-  for (const candidate of extractOwningAddonCandidates(traceback)) {
-    const relDir = roster.get(candidate)
-    if (relDir !== undefined) {
-      return { kind: "in-repo", repoRelDir: relDir, latestFixMs: fixedAt(root, relDir, cache) }
-    }
-  }
-  return { kind: "external" }
-}
-
 async function classified(
   entries: readonly ErrorEntry[],
-  staleAfterMs: number,
-  root: string
+  staleAfterMs: number
 ): Promise<readonly Classified[]> {
   const frontierMs = Math.max(...entries.map((one) => one.lastSeenAt * TO_MS))
-  const roster = rosterIn(root)
-  const fixes = new Map<string, number | null>()
   const builds = new Map<string, string | null>()
 
   const all: Classified[] = []
   for (const entry of entries) {
-    const ownership = ownershipOf(entry.traceback, roster, root, fixes)
     const { verdict, reason } = classifyLiveness({
       lastSeenAtMs: entry.lastSeenAt * TO_MS,
       frontierMs,
       staleAfterMs,
-      ownership,
     })
     const {
       triage,
@@ -210,7 +155,7 @@ export async function temperErrorList(argv: readonly string[], given: Given): Pr
     )
   }
 
-  const all = await classified(entries, staleAfterHours * HOUR_MS, codeRoot())
+  const all = await classified(entries, staleAfterHours * HOUR_MS)
   const shown = includeStale ? all : all.filter((one) => one.verdict === "live")
   const held = all.length - shown.length
   const heldLine =

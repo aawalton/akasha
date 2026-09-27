@@ -95,7 +95,6 @@
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/read/modules/differing/differing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/read/read.command.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/temper/addon/typecheck/temper-addon-typecheck.command.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/temper/error-list/temper-error-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"command/pages/temper/package-typecheck/temper-package-typecheck.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"git/modules/capping/git-capping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"running.module.code.ts","path":"git/modules/commit-reading/commit-reading.module.code.ts","typed":false,"deferred":false}
