@@ -21,6 +21,7 @@ const SEARCH_DEBOUNCE_MS = 200
 interface RelationPopoverProps {
   currentIds: readonly string[]
   targetPageTypeId: string | undefined
+  targetPageTypeSlug?: string
   resolver: PageResolverValue
   onAdd: (id: string) => void
   onRemove: (id: string) => void
@@ -35,6 +36,7 @@ const ROW_CLS =
 export function RelationPopover({
   currentIds,
   targetPageTypeId,
+  targetPageTypeSlug,
   resolver,
   onAdd,
   onRemove,
@@ -47,6 +49,7 @@ export function RelationPopover({
   const debouncedSearch = useDebouncedValue(searchQuery, SEARCH_DEBOUNCE_MS)
 
   const picker = useRelationPicker(targetPageTypeId, {
+    targetPageTypeSlug,
     searchTerm: debouncedSearch,
     enabled: open,
   })

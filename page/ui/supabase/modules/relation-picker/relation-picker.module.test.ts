@@ -5,6 +5,7 @@ import {
   pickedSlugFor,
   pickerQueries,
   TITLE_PROPERTY,
+  targetIdFor,
   titledFor,
 } from "akasha/page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts"
 
@@ -88,6 +89,13 @@ test("a type is titled where a type above it declares a title", () => {
 test("a type is titled where a type below it declares a title", () => {
   const below = new Set(["type-bare", "type-bare-below", "type-titled-below"])
   expect(titledFor(TYPES, "bare", below)).toBe(true)
+})
+
+test("a relation naming its target type by slug is asked for under that type's id", () => {
+  expect(targetIdFor(SLUGS, undefined, "person")).toBe("type-person")
+  expect(targetIdFor(SLUGS, "type-page", "person")).toBe("type-page")
+  expect(targetIdFor(SLUGS, undefined, "no-such-type")).toBeUndefined()
+  expect(targetIdFor(SLUGS, undefined, undefined)).toBeUndefined()
 })
 
 test("a type nothing above or below titles is not titled", () => {

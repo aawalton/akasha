@@ -55,11 +55,16 @@ function MultiRelationDetailPopover({
     return <span className={colClass}>{children}</span>
   }
 
-  const { targetPageTypeId } = parseConfig(multiRelationConfigSchema, definition.config, {})
+  const { targetPageTypeId, targetPageTypeSlug } = parseConfig(
+    multiRelationConfigSchema,
+    definition.config,
+    {}
+  )
   return (
     <RelationPopover
       currentIds={ids}
       targetPageTypeId={targetPageTypeId}
+      targetPageTypeSlug={targetPageTypeSlug}
       resolver={resolver}
       onAdd={(id) => onPropertyChange(definition.id, [...ids, id])}
       onRemove={(id) =>

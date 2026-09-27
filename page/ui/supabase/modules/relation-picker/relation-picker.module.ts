@@ -22,6 +22,10 @@ export const relationPicker = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A relation naming its target type by slug is asked for under that type's id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A search keeps a page whose title or slug holds it, whatever the case.",
     },
     {

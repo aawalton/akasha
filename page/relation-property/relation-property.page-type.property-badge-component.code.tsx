@@ -51,11 +51,16 @@ function RelationEditableBadge({
   align: "start" | "end"
   children: React.ReactNode
 }) {
-  const { targetPageTypeId } = parseConfig(relationConfigSchema, property.config, {})
+  const { targetPageTypeId, targetPageTypeSlug } = parseConfig(
+    relationConfigSchema,
+    property.config,
+    {}
+  )
   return (
     <RelationPopover
       currentIds={currentIds}
       targetPageTypeId={targetPageTypeId}
+      targetPageTypeSlug={targetPageTypeSlug}
       resolver={resolver}
       onAdd={(id) => onPropertyChange(property.id, id)}
       onRemove={() => onPropertyChange(property.id, null)}

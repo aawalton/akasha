@@ -11,6 +11,7 @@ export interface RelationPickerResult {
 }
 
 export interface RelationPickerArgs {
+  targetPageTypeSlug?: string
   searchTerm?: string
   enabled?: boolean
 }

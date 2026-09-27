@@ -57,6 +57,16 @@ export function pickedSlugFor(
   return slugById.get(targetPageTypeId) ?? fallback
 }
 
+export function targetIdFor(
+  slugById: ReadonlyMap<string, string>,
+  targetPageTypeId: string | undefined,
+  targetPageTypeSlug: string | undefined
+): string | undefined {
+  if (targetPageTypeId !== undefined || targetPageTypeSlug === undefined) return targetPageTypeId
+  for (const [id, slug] of slugById) if (slug === targetPageTypeSlug) return id
+  return undefined
+}
+
 function declaresTitle(pageType: PageTypeForInheritance | undefined): boolean {
   const declared = pageType?.properties?.properties
   if (!Array.isArray(declared)) return false

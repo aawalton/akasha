@@ -15,6 +15,7 @@ import {
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
   pickedSlugFor,
+  targetIdFor,
   titledFor,
   usePaginatedRelationPicker,
 } from "akasha/page/ui/supabase/modules/relation-picker/relation-picker.module.code.ts"
@@ -42,18 +43,22 @@ function useSupabaseRelationPicker(
 ): RelationPickerResult {
   const env = useContext(PickerEnvContext)
 
-  const pageTypeSlug = env ? pickedSlugFor(env.slugById, targetPageTypeId, env.pageTypeSlug) : ""
+  const targetId = env
+    ? targetIdFor(env.slugById, targetPageTypeId, args.targetPageTypeSlug)
+    : undefined
+
+  const pageTypeSlug = env ? pickedSlugFor(env.slugById, targetId, env.pageTypeSlug) : ""
 
   const titled = useMemo(() => {
-    if (!env || targetPageTypeId == null) return false
-    return titledFor(env.pageTypes, pageTypeSlug, env.getDescendantSet(targetPageTypeId))
-  }, [env, targetPageTypeId, pageTypeSlug])
+    if (!env || targetId == null) return false
+    return titledFor(env.pageTypes, pageTypeSlug, env.getDescendantSet(targetId))
+  }, [env, targetId, pageTypeSlug])
 
   const result = usePaginatedRelationPicker({
     pageTypeSlug,
     titled,
     searchTerm: args.searchTerm,
-    enabled: (args.enabled ?? true) && env != null && targetPageTypeId != null,
+    enabled: (args.enabled ?? true) && env != null && targetId != null,
   })
 
   return useMemo<RelationPickerResult>(
