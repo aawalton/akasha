@@ -8,5 +8,5 @@ export const seats = {
   icon: "Armchair",
   navPlace: 3,
   app: "web-app/alanwalton-web",
-  mobilePinOrder: 2,
+  mobilePinOrder: 1,
 } as const satisfies Nav
