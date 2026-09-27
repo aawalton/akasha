@@ -18,9 +18,23 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { POTION_EFFECTS_OPTIONS } from "akasha/temper/items/rules/core/modules/potion-effects-filter/potion-effects-filter.module.code.ts"
-import { useRemoveFilterLabel } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  phraseOf,
+  useRemoveFilterLabel,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  optionsOf,
+  useConditionValueOptions,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-value-options/use-condition-value-options.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
+import { countEffect } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/count-effect.temper-rule-card-phrase.ts"
+import { countEffects } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/count-effects.temper-rule-card-phrase.ts"
+import { effectsHeading } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/effects-heading.temper-rule-card-phrase.ts"
+import { modeHeading } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/mode-heading.temper-rule-card-phrase.ts"
+import { selectEffects } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/select-effects.temper-rule-card-phrase.ts"
 import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
@@ -40,10 +54,7 @@ const EFFECT_OPTIONS: readonly BadgeToggleGroupItem[] = POTION_EFFECTS_OPTIONS.m
   label: o.label,
 }))
 
-const MODE_OPTIONS: readonly { value: "all" | "any"; label: string }[] = [
-  { value: "any", label: "any effect" },
-  { value: "all", label: "all effects" },
-]
+const MODE_FIELD = "potion-effects-mode"
 
 export function RuleCardFilterChipPotionEffects({
   state,
@@ -55,15 +66,22 @@ export function RuleCardFilterChipPotionEffects({
     handleRemoveFilter,
   } = state
   const removeLabel = useRemoveFilterLabel()
+  const phrases = useRuleCardPhrases()
+  const values = useConditionValueOptions()
+  const modeOptions = values === null ? [] : optionsOf(values, MODE_FIELD)
 
   const selectedItems: readonly BadgeToggleGroupItem[] = potionEffectsValue.effects
     .map((id) => EFFECT_OPTIONS.find((o) => o.value === id))
     .filter((opt): opt is BadgeToggleGroupItem => opt !== undefined)
 
   const triggerLabel =
-    selectedItems.length === 0
-      ? "Select Effects"
-      : `${selectedItems.length} Effect${selectedItems.length === 1 ? "" : "s"}`
+    phrases === null
+      ? ""
+      : selectedItems.length === 0
+        ? titleIn(phrases, selectEffects.key)
+        : phraseOf(phrases, selectedItems.length === 1 ? countEffect.key : countEffects.key, {
+            count: String(selectedItems.length),
+          })
 
   return (
     <Popover>
@@ -80,7 +98,7 @@ export function RuleCardFilterChipPotionEffects({
             {selectedItems.length > 0 && (
               <>
                 {" — "}
-                {MODE_OPTIONS.find((o) => o.value === potionEffectsValue.mode)?.label}
+                {modeOptions.find((o) => o.value === potionEffectsValue.mode)?.label}
               </>
             )}
           </span>
@@ -88,14 +106,14 @@ export function RuleCardFilterChipPotionEffects({
       </PopoverTrigger>
       <PopoverContent align="start" className="flex flex-col gap-2">
         <Text variant="hint" className="font-medium">
-          Mode
+          {titleIn(phrases, modeHeading.key)}
         </Text>
         <Select value={potionEffectsValue.mode} onValueChange={handlePotionEffectsModeChange}>
           <SelectTrigger>
             <SelectValue />
           </SelectTrigger>
           <SelectContent>
-            {MODE_OPTIONS.map((opt) => (
+            {modeOptions.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -103,7 +121,7 @@ export function RuleCardFilterChipPotionEffects({
           </SelectContent>
         </Select>
         <Text variant="hint" className="font-medium">
-          Effects
+          {titleIn(phrases, effectsHeading.key)}
         </Text>
         <BadgeToggleGroup
           items={EFFECT_OPTIONS}
