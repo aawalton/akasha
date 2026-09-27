@@ -120,7 +120,6 @@ export function InventoryRulesTab({
     allRulesForMatching,
     globalPriorityMap,
     deferredItemRules,
-    deferredBuyRules,
     deferredAllRulesForMatching,
     duplicateRuleIds,
     itemRules,
@@ -136,7 +135,6 @@ export function InventoryRulesTab({
     deferredAllRulesForMatching,
     deferredItemRules,
     bufferSlots: backpackSettings.bufferSlots,
-    buyRules: deferredBuyRules,
   })
 
   const {

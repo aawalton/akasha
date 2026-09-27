@@ -1,7 +1,7 @@
 "use client"
 
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+
 import { compileCategoryRuleToOrdered } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler/inventory-rule-compiler.module.code.ts"
 import type {
   AffectedItem,
@@ -39,7 +39,6 @@ interface UseInventoryRulesTabAffectedItemsArgs {
   deferredAllRulesForMatching: readonly CategoryRule[]
   deferredItemRules: readonly ItemRule[] | undefined
   bufferSlots: number | undefined
-  buyRules: readonly BuyRule[] | undefined
 }
 
 export function useInventoryRulesTabAffectedItems({
@@ -49,7 +48,6 @@ export function useInventoryRulesTabAffectedItems({
   deferredAllRulesForMatching,
   deferredItemRules,
   bufferSlots,
-  buyRules,
 }: UseInventoryRulesTabAffectedItemsArgs): InventoryRulesTabAffectedItems {
   const affectedItemsCacheRef = useRef<AllRuleAffectedItemsCache>(createAllRuleAffectedItemsCache())
   const prevClassifiedItemsRef = useRef(classifiedItems)
@@ -106,8 +104,7 @@ export function useInventoryRulesTabAffectedItems({
         capacityFilteredMap,
         inventory,
         matcherContext ?? undefined,
-        bufferSlots,
-        buyRules
+        bufferSlots
       ),
     [
       deferredCompiledRules,
@@ -116,7 +113,6 @@ export function useInventoryRulesTabAffectedItems({
       inventory,
       matcherContext,
       bufferSlots,
-      buyRules,
       actionTitles,
     ]
   )

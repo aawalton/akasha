@@ -53,7 +53,7 @@ function say(this: void, message: string): undefined {
   d(`[${ADDON_NAME}] ${message}`)
 }
 
-function storeOffers(this: void): StoreOffer[] {
+export function storeOffers(this: void): StoreOffer[] {
   const offers: StoreOffer[] = []
   const numEntries = GetNumStoreItems()
   for (let i = 1; i <= numEntries; i++) {

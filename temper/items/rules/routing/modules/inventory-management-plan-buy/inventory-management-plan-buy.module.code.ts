@@ -1,7 +1,13 @@
-import { computeItemStock } from "akasha/temper/items/core/modules/compute-item-stock/compute-item-stock.module.code.ts"
-import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import { evaluateBuyRules } from "akasha/temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
-import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { composeCharEligibilityPredicate } from "akasha/temper/items/rules/core/modules/eligibility-predicate-composer/eligibility-predicate-composer.module.code.ts"
+import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
+import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import type { RuleMatcherContext } from "akasha/temper/items/rules/core/modules/rule-matcher-context-types/rule-matcher-context-types.module.code.ts"
+import {
+  planStockChainVisit,
+  stockChainTarget,
+} from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
+import { characterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { planPhraseOf } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import type { PlanItem } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { anyCharacter } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/pages/any-character.temper-plan-phrase.ts"
@@ -17,39 +23,77 @@ export function buyCharacterName(): string {
   return planPhraseOf(anyCharacter)
 }
 
-interface BuyShortfall {
-  rule: BuyRule
-  quantity: number
+export interface BuyShortfall {
+  readonly itemId: number
+  readonly itemName: string
+  readonly quantity: number
 }
 
-function collectBuyShortfalls(
-  buyRules: readonly BuyRule[],
-  inventory: InventoryDatabase | null
-): readonly BuyShortfall[] {
-  if (buyRules.length === 0) return []
-  const itemIds = new Set<number>()
-  for (const rule of buyRules) {
-    if (rule.active === false) continue
-    itemIds.add(rule.itemId)
+const HELD_LOCATIONS: ReadonlySet<string> = new Set(["character", "bank", "housing-storage"])
+
+function eligibleCharacters(
+  rule: CompiledOrderedRule,
+  context: RuleMatcherContext | undefined
+): number {
+  if (context === undefined) return 0
+  const chain = rule.destinationChain
+  const leg = chain === undefined ? undefined : planStockChainVisit(chain)
+  const passes = composeCharEligibilityPredicate(leg?.charEligibility, {
+    getCharacterSkillLineRanks: context.getCharacterSkillLineRanks,
+    getCharacterCurseState: context.getCharacterCurseState,
+    getCharacterCanLevelMorphs: context.getCharacterCanLevelMorphs,
+  })
+  return context.characterPriority.filter((id) => passes(characterId(id))).length
+}
+
+function heldByRule(entries: readonly AffectedItem[]): number {
+  let held = 0
+  for (const entry of entries) {
+    if (HELD_LOCATIONS.has(classifyLocation(entry.locationKey))) held += entry.item.stackCount
   }
-  if (itemIds.size === 0) return []
+  return held
+}
 
-  const stock = computeItemStock(inventory, itemIds)
-  const totals = new Map<number, number>()
-  for (const [itemId, breakdown] of stock) totals.set(itemId, breakdown.total)
+function boughtItem(
+  rule: CompiledOrderedRule,
+  entries: readonly AffectedItem[]
+): { readonly itemId: number; readonly itemName: string } | undefined {
+  const wanted = rule.itemIds?.[0]
+  if (wanted !== undefined) {
+    const named = entries.find((one) => one.item.itemId === wanted)
+    return { itemId: wanted, itemName: named?.item.itemName ?? String(wanted) }
+  }
+  const first = entries[0]
+  return first === undefined
+    ? undefined
+    : { itemId: first.item.itemId, itemName: first.item.itemName }
+}
 
+export function buyShortfallsOf(
+  rules: readonly CompiledOrderedRule[],
+  affectedItemsMap: ReadonlyMap<string, readonly AffectedItem[]>,
+  context: RuleMatcherContext | undefined
+): readonly BuyShortfall[] {
   const shortfalls: BuyShortfall[] = []
-  for (const evaluation of evaluateBuyRules(buyRules, totals)) {
-    if (evaluation.shortfall <= 0) continue
-    shortfalls.push({ rule: evaluation.rule, quantity: evaluation.shortfall })
+  for (const rule of rules) {
+    if (rule.buyShortfall !== true || rule.active === false || rule.action !== "stock") continue
+    if (rule.id === undefined) continue
+    const target = stockChainTarget(rule.destinationChain, eligibleCharacters(rule, context))
+    if (target === undefined) continue
+    const entries = affectedItemsMap.get(rule.id) ?? []
+    const quantity = target - heldByRule(entries)
+    if (quantity <= 0) continue
+    const item = boughtItem(rule, entries)
+    if (item === undefined) continue
+    shortfalls.push({ ...item, quantity })
   }
   return shortfalls
 }
 
 function buildBuySimStep(shortfall: BuyShortfall): SimStep {
   const planItem: PlanItem = {
-    itemId: shortfall.rule.itemId,
-    itemName: shortfall.rule.itemName,
+    itemId: shortfall.itemId,
+    itemName: shortfall.itemName,
     stackCount: shortfall.quantity,
     quality: 0,
     action: "sell",
@@ -60,7 +104,7 @@ function buildBuySimStep(shortfall: BuyShortfall): SimStep {
     operation: "retrieve",
     planItem,
     backpackSlots: 1,
-    itemId: shortfall.rule.itemId,
+    itemId: shortfall.itemId,
     stackable: true,
     occupiesStorageSlot: false,
     next: null,
@@ -69,11 +113,11 @@ function buildBuySimStep(shortfall: BuyShortfall): SimStep {
 
 export function injectBuySimSteps(
   charStates: Map<string, CharSimState>,
-  buyRules: readonly BuyRule[] | undefined,
-  inventory: InventoryDatabase | null
+  rules: readonly CompiledOrderedRule[],
+  affectedItemsMap: ReadonlyMap<string, readonly AffectedItem[]>,
+  context: RuleMatcherContext | undefined
 ): undefined {
-  if (buyRules === undefined || buyRules.length === 0) return
-  const shortfalls = collectBuyShortfalls(buyRules, inventory)
+  const shortfalls = buyShortfallsOf(rules, affectedItemsMap, context)
   if (shortfalls.length === 0) return
 
   const pending: SimStep[] = shortfalls.map(buildBuySimStep)

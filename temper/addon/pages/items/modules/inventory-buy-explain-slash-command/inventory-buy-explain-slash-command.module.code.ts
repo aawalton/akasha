@@ -10,12 +10,14 @@ import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 const PREFIX = "[TemperBuyExplain]"
 
 function printRule(r: BuyExplainRule): undefined {
-  if (!r.hasRule) {
-    d(`${PREFIX} itemId=${r.itemId}: NO BUY RULE for this item`)
+  if (r.targetQuantity === undefined) {
+    d(
+      `${PREFIX} rule ${r.ruleId} (${r.categoryId}): no by-priority leg, so no target to buy toward`
+    )
     return
   }
   d(
-    `${PREFIX} itemId=${r.itemId}: target=${r.targetQuantity ?? 0}, global=${r.globalTotal} (live=${r.liveCurrentCharBackpack} + acct=${r.accountStock} + otherChars=${r.byCharSum}), shortfall=${r.shortfall}`
+    `${PREFIX} rule ${r.ruleId} (${r.categoryId}): target=${r.targetQuantity}, held=${r.held}, shortfall=${r.shortfall}`
   )
   const s = r.storeScan
   if (!s.storeOpen) {
@@ -23,14 +25,14 @@ function printRule(r: BuyExplainRule): undefined {
     return
   }
   if (s.matchedEntryIndex === undefined) {
-    d(`${PREFIX}   store: ${s.numEntries} entries, NO entry matched itemId ${r.itemId}`)
+    d(`${PREFIX}   store: ${s.numEntries} entries, none the rule takes can be bought here`)
     return
   }
   d(
-    `${PREFIX}   store: matched entry #${s.matchedEntryIndex} — price=${s.matchPrice ?? "?"}, meetsReq=${s.matchMeetsRequirements === true ? "yes" : "NO"}, maxBuyable=${s.matchMaxBuyable ?? "?"}, computedQty=${s.computedQuantity ?? 0}`
+    `${PREFIX}   store: ${s.entriesTaken} entries taken; best #${s.matchedEntryIndex} itemId=${s.matchItemId ?? "?"}, price=${s.matchPrice ?? "?"}, maxBuyable=${s.matchMaxBuyable ?? "?"}, computedQty=${s.computedQuantity ?? 0}`
   )
   if ((s.computedQuantity ?? 0) <= 0) {
-    d(`${PREFIX}   => would NOT buy (qty 0: check meetsReq / maxBuyable / affordability)`)
+    d(`${PREFIX}   => would NOT buy (qty 0: check the shortfall and the gold carried)`)
   } else {
     d(`${PREFIX}   => would buy ${s.computedQuantity}`)
   }
@@ -40,11 +42,10 @@ export function onTemperItemsExplainBuyCommand(this: void, args: string): undefi
   const argsStr = args !== undefined ? args : ""
   const [captured] = string.match(argsStr, "(|H.-|h.-|h)")
   const matched = parseLuaCapture(captured)
-  const itemId = matched === undefined ? undefined : GetItemLinkItemId(matched)
 
-  const trace = buildBuyExplainTrace(itemId)
+  const trace = buildBuyExplainTrace(matched)
   if (trace === undefined) {
-    d(`${PREFIX} No compiled buy rules found. Export settings from Temper first.`)
+    d(`${PREFIX} No compiled rules found. Export settings from Temper first.`)
     return
   }
 
@@ -57,9 +58,11 @@ export function onTemperItemsExplainBuyCommand(this: void, args: string): undefi
   d(
     `${PREFIX} current=${trace.currentCharId}, money=${trace.playerMoney}, storeEntries=${numEntries}, rules=${trace.rules.length}`
   )
-  if (!trace.stockAvailable) {
+  if (trace.rules.length === 0) {
     d(
-      `${PREFIX} STOCK UNAVAILABLE — no inventory reading reached this build. acct/otherChars below are 0 because they are UNKNOWN, not because they are empty; buying is declined until a sync lands.`
+      matched === undefined
+        ? `${PREFIX} no stock rule buys its shortfall`
+        : `${PREFIX} no stock rule buying its shortfall takes this item`
     )
   }
   for (const r of trace.rules) printRule(r)

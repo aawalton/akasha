@@ -1,6 +1,6 @@
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
@@ -41,8 +41,7 @@ export function buildManagementPlan(
   affectedItemsMap: Map<string, readonly AffectedItem[]> | null,
   inventory: InventoryDatabase | null,
   context?: RuleMatcherContext,
-  bufferSlots?: number,
-  buyRules?: readonly BuyRule[]
+  bufferSlots?: number
 ): ManagementPlan {
   const empty: ManagementPlan = {
     sessions: [],
@@ -54,7 +53,7 @@ export function buildManagementPlan(
   if (!affectedItemsMap) return empty
 
   const charStates = collectSimSteps(rules, itemRules, affectedItemsMap, inventory, context)
-  injectBuySimSteps(charStates, buyRules, inventory)
+  injectBuySimSteps(charStates, rules, affectedItemsMap, context)
   if (charStates.size === 0) return empty
 
   const sessions: CharacterSession[] = []

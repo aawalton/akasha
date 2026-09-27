@@ -124,21 +124,19 @@ export interface ExplainTrace {
 export interface BuyExplainStoreScan {
   storeOpen: boolean
   numEntries: number
+  entriesTaken: number
   matchedEntryIndex?: number
+  matchItemId?: number
   matchPrice?: number
-  matchMeetsRequirements?: boolean
   matchMaxBuyable?: number
   computedQuantity?: number
 }
 
 export interface BuyExplainRule {
-  itemId: number
-  hasRule: boolean
+  ruleId: string
+  categoryId: string
   targetQuantity?: number
-  liveCurrentCharBackpack: number
-  accountStock: number
-  byCharSum: number
-  globalTotal: number
+  held: number
   shortfall: number
   storeScan: BuyExplainStoreScan
 }
@@ -148,7 +146,6 @@ export interface BuyExplainTrace {
   timestamp: number
   currentCharId: string
   playerMoney: number
-  stockAvailable: boolean
   rules: BuyExplainRule[]
 }
 

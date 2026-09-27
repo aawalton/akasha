@@ -4179,6 +4179,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-browser-category-types/inventory-browser-category-types.module.ts","id":"01a0e124-72af-727a-9217-cd5bcf763d0f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-browser-data/inventory-browser-data.module.ts","id":"01a06258-b528-7be0-a890-a01ea7fe2fd5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.ts","id":"01a06258-b529-71ba-8496-6c343352f8de"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-buy-explain-trace-builder/inventory-buy-explain-trace-builder.module.ts","id":"01a06258-b52a-7e48-bc42-a0098f52d636"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-category-tree/inventory-category-tree.module.ts","id":"01a06258-b52a-7a34-8e85-b99f40b1b436"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.ts","id":"01a0d4af-83e7-7b4c-8ba4-e8ac6451d959"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.ts","id":"01a0d4a7-fd95-712e-997a-e1cf26ec6a80"}

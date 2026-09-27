@@ -1,6 +1,5 @@
 "use client"
 
-import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import { classifyRule } from "akasha/temper/items/rules/core/modules/inventory-rule-classify/inventory-rule-classify.module.code.ts"
 import type { ControlledRule } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
 import { buildAllControlledRules } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
@@ -20,7 +19,7 @@ interface AssembledInventoryRules {
   allRulesForMatching: readonly CategoryRule[]
   globalPriorityMap: Map<string, number>
   deferredItemRules: readonly ItemRule[] | undefined
-  deferredBuyRules: readonly BuyRule[] | undefined
+
   deferredAllRulesForMatching: readonly CategoryRule[]
   duplicateRuleIds: Set<string>
   itemRules: readonly ItemRule[]
@@ -51,7 +50,7 @@ export function useAssembledInventoryRules(
 
   const deferredRules = useDeferredValue(localSettings.rules)
   const deferredItemRules = useDeferredValue(localSettings.itemRules)
-  const deferredBuyRules = useDeferredValue(localSettings.buyRules)
+
   const deferredAllRulesForMatching = useMemo(
     () => [...controlledCharacterRules, ...controlledCompanionRules, ...deferredRules],
     [controlledCharacterRules, controlledCompanionRules, deferredRules]
@@ -95,7 +94,6 @@ export function useAssembledInventoryRules(
     allRulesForMatching,
     globalPriorityMap,
     deferredItemRules,
-    deferredBuyRules,
     deferredAllRulesForMatching,
     duplicateRuleIds,
     itemRules,
