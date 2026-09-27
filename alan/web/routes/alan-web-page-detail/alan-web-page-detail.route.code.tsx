@@ -43,7 +43,7 @@ const MEDIA_ONLY_SEARCH_PARAMS: ReadonlySet<string> = new Set(["speed", "variant
 
 const READING_STORY = "reading-story"
 
-const NOTHING_READ: readonly string[] = []
+const NAV_READ: readonly string[] = ["nav"]
 
 function changedSearchParamKeys(current: URL, next: URL): Set<string> {
   const keys = new Set<string>()
@@ -79,7 +79,7 @@ export default function PageDetailRoute({ loaderData }: { loaderData: PageDetail
   const [searchParams] = useSearchParams()
   const displayMode = parseDisplayMode(searchParams.get(DISPLAY_PARAM))
   useLoaderFollowing(
-    loaderData.kind === "nav" ? NOTHING_READ : [loaderData.pageTypeSlug, READING_STORY]
+    loaderData.kind === "nav" ? NAV_READ : [loaderData.pageTypeSlug, READING_STORY]
   )
 
   if (loaderData.kind === "nav") {
