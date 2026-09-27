@@ -27,7 +27,7 @@
         "repairKits": true,
         "recharge": true,
         "repair": true,
-        "lockpicks": true,
+        "lockpicks": false,
         "experienceScrolls": true,
         "dailyWrits": true,
         "dailyWritBlacksmithing": true,
