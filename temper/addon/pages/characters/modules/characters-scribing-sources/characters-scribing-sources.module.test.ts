@@ -7,12 +7,14 @@ import { draugr } from "akasha/temper/catalog/gear/temper-motif-style/pages/drau
 import { dlcIncursionDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/dlc-incursion-dailies/dlc-incursion-dailies.temper-scribing-source.ts"
 import { imperialCityDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/imperial-city-dailies/imperial-city-dailies.temper-scribing-source.ts"
 import { magesGuildDaily } from "akasha/temper/catalog/skill/temper-scribing-source/pages/mages-guild-daily/mages-guild-daily.temper-scribing-source.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
+
+const LORE = holdLoreLibraryFromCheckout()
 
 const CRAFTING_MOTIFS_CATEGORY_INDEX = 2
 
 function draugrChapterKeys(): string[] {
-  const category = LORE_LIBRARY_DATA.find((c) => c.categoryIndex === CRAFTING_MOTIFS_CATEGORY_INDEX)
+  const category = LORE.find((c) => c.categoryIndex === CRAFTING_MOTIFS_CATEGORY_INDEX)
   const collection = category?.collections.find((c) => c.collectionIndex === draugr.collectionIndex)
   if (collection === undefined) throw new Error("fixture: no draugr collection")
   return collection.books.map(

@@ -7,11 +7,13 @@ import {
 } from "akasha/temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"
 import { allCompanionIds } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import { characterEntry } from "akasha/temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
 import { companionQuestGroups } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 
 holdPagesOfTypeFromCheckout()
+
+const LORE = holdLoreLibraryFromCheckout()
 
 const ALL_COMPANION_IDS = allCompanionIds()
 
@@ -36,7 +38,7 @@ const TOTAL_RAPPORT = ALL_COMPANION_IDS.length * MAX_COMPANION_RAPPORT
 const COMPANION_A = itemAt(ALL_COMPANION_IDS, 0, "the companion pages place no first companion")
 const COMPANION_B = itemAt(ALL_COMPANION_IDS, 1, "the companion pages place no second companion")
 
-const LORE_CATEGORY = itemAt(LORE_LIBRARY_DATA, 0, "LORE_LIBRARY_DATA holds no category")
+const LORE_CATEGORY = itemAt(LORE, 0, "the lore pages hold no category")
 const LORE_COLLECTION = itemAt(
   LORE_CATEGORY.collections,
   0,
@@ -50,7 +52,7 @@ const CATEGORY_BOOK_COUNT = LORE_CATEGORY.collections.reduce(
   (sum, collection) => sum + collection.books.length,
   0
 )
-const TOTAL_LORE_BOOKS = LORE_LIBRARY_DATA.reduce(
+const TOTAL_LORE_BOOKS = LORE.reduce(
   (sum, category) =>
     sum + category.collections.reduce((inner, collection) => inner + collection.books.length, 0),
   0

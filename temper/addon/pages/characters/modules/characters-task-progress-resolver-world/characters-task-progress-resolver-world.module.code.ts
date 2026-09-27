@@ -2,7 +2,7 @@ import { tallyPathScopedLeaves } from "akasha/temper/addon/pages/characters/modu
 import { companionIdOfDefId } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
 import { allCompanionIds } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { loreLibraryOfPages } from "akasha/temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts"
 import { companionQuestGroups } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import {
   heldCompanionRapport,
@@ -126,7 +126,7 @@ export function resolveLoreLibrary(
 ): TaskProgress | undefined {
   const ll = charData?.loreLibrary
   if (ll === undefined) return undefined
-  const counted = countLoreLibrary(LORE_LIBRARY_DATA, ll, itemPath)
+  const counted = countLoreLibrary(loreLibraryOfPages(), ll, itemPath)
   if (counted.total === 0) return undefined
   return counted
 }

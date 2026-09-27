@@ -4,7 +4,7 @@ import { SCRIBING_SOURCES } from "akasha/temper/addon/pages/characters/modules/c
 import { fightersGuildDaily } from "akasha/temper/catalog/skill/temper-scribing-source/pages/fighters-guild-daily/fighters-guild-daily.temper-scribing-source.ts"
 import { magesGuildDaily } from "akasha/temper/catalog/skill/temper-scribing-source/pages/mages-guild-daily/mages-guild-daily.temper-scribing-source.ts"
 import { undauntedDelveDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/undaunted-delve-dailies/undaunted-delve-dailies.temper-scribing-source.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { loreLibraryOfPages } from "akasha/temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts"
 import { extractLoreKnownSet } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import type { TaskData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import { getSavedVariables } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
@@ -45,7 +45,9 @@ export function countUnlearnedMotifStyles(
   if (knownLoreBooks === undefined) return undefined
   const styles = motifStylesDroppedBy(scribingSourceSlug)
   if (styles.length === 0) return undefined
-  const category = LORE_LIBRARY_DATA.find((c) => c.categoryIndex === CRAFTING_MOTIFS_CATEGORY_INDEX)
+  const category = loreLibraryOfPages().find(
+    (c) => c.categoryIndex === CRAFTING_MOTIFS_CATEGORY_INDEX
+  )
   if (category === undefined) return undefined
 
   let unlearned = 0

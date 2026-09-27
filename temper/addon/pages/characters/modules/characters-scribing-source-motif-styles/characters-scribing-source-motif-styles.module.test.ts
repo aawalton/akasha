@@ -9,7 +9,7 @@ import { draugr } from "akasha/temper/catalog/gear/temper-motif-style/pages/drau
 import { imperialCityDailies } from "akasha/temper/catalog/skill/temper-scribing-source/pages/imperial-city-dailies/imperial-city-dailies.temper-scribing-source.ts"
 import { magesGuildDaily } from "akasha/temper/catalog/skill/temper-scribing-source/pages/mages-guild-daily/mages-guild-daily.temper-scribing-source.ts"
 import { temperScribingSource } from "akasha/temper/catalog/skill/temper-scribing-source/temper-scribing-source.page-type.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
 
 const MOTIF_STYLE_PAGES = join(
   import.meta.dir,
@@ -35,7 +35,7 @@ describe("SCRIBING_SOURCE_MOTIF_STYLES", () => {
   })
 
   test("each style's collection index names that style's crafting motifs collection", () => {
-    const category = LORE_LIBRARY_DATA.find(
+    const category = holdLoreLibraryFromCheckout().find(
       (c) => c.categoryIndex === CRAFTING_MOTIFS_CATEGORY_INDEX
     )
     if (category === undefined) throw new Error("fixture: no crafting motifs category")

@@ -14,7 +14,7 @@ import {
   pickFirstUnfinishedCompanion,
 } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts"
 import { UNDAUNTED_SKILL_LINE_ID } from "akasha/temper/addon/pages/characters/modules/characters-task-hud-state/characters-task-hud-state.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { loreLibraryOfPages } from "akasha/temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts"
 import {
   findFirstIncompleteCadwellZone,
   sortCadwellPois,
@@ -102,7 +102,7 @@ export function getLoreLibraryEnrichment(): LoreLibraryEnrichment | undefined {
   const ll = currentCharacterEntry()?.loreLibrary
   if (ll === undefined) return undefined
 
-  const shalidor = LORE_LIBRARY_DATA.find((c) => c.categoryIndex === SHALIDORS_LIBRARY_CATEGORY)
+  const shalidor = loreLibraryOfPages().find((c) => c.categoryIndex === SHALIDORS_LIBRARY_CATEGORY)
   if (shalidor === undefined) return undefined
 
   const result = findFirstIncompleteLoreCollection(
