@@ -26,7 +26,7 @@ type Bonus = {
   readonly by: number
 }
 
-export type Strike = {
+type Strike = {
   readonly attackPower: number
   readonly defence: number
   readonly baseDamage: number
