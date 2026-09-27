@@ -6177,6 +6177,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/format-time-ago/format-time-ago.module.ts","id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.ts","id":"01a0642d-9a17-719d-8325-d7d40b665913"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/home-page-content/home-page-content.module.ts","id":"01a06432-b190-7dc2-b7a7-6743566741f2"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/identity-panel-card/identity-panel-card.module.ts","id":"01a0642c-5b7d-7a4d-9299-ce0bc5a675d3"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/import-result/import-result.module.ts","id":"01a0640f-8510-79d2-a33e-1cfc18d185ee"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.ts","id":"01a0e0db-a703-790c-b757-6b5db7ae0776"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/jewelry-card/jewelry-card.module.ts","id":"01a0642d-9a17-7d11-ac2a-0323df38b9ed"}
