@@ -59,6 +59,14 @@ const NAMED_BY_TYPE = {
   channel: effectCardChannel.slug,
 } as const
 
+export function effectSeconds(phrase: Phrase, count: number | string): string {
+  return phrase(effectCardSeconds.slug, { seconds: count })
+}
+
+export function effectDamage(phrase: Phrase, type: string): string {
+  return phrase(effectCardDamage.slug, { type })
+}
+
 interface EffectCardProps {
   effect: CompanionEffect
   stats?: CompanionFormulaStats
@@ -94,8 +102,8 @@ function getEffectCardDisplay(
   value: string | null
   targetInfo: string | null
 } {
-  const seconds = (count: number) => phrase(effectCardSeconds.slug, { seconds: count })
-  const damage = (type: string) => phrase(effectCardDamage.slug, { type })
+  const seconds = (count: number) => effectSeconds(phrase, count)
+  const damage = (type: string) => effectDamage(phrase, type)
   switch (effect.type) {
     case "damage": {
       const damageValue = calculateEffectValue(effect, stats)
