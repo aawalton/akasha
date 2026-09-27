@@ -172,8 +172,8 @@ function processNextOpen(): undefined {
   }
 
   const [itemType] = GetItemType(entry.bagId, entry.slotIndex)
-  if (!mayOpen(itemType)) {
-    d(`[${ADDON_NAME}] Refused to open ${entry.itemLink}: not a container`)
+  if (!mayOpen(itemType, GetItemId(entry.bagId, entry.slotIndex))) {
+    d(`[${ADDON_NAME}] Refused to open ${entry.itemLink}: never opened unasked`)
     skipEntryAndAdvance(entry)
     return
   }

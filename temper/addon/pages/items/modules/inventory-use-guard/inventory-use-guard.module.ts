@@ -15,6 +15,15 @@ export const inventoryUseGuard = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A container holding a map, a writ or a survey is never opened, known by its item id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The rule keeping those containers unopened lists the item ids this guard lists.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "No treasure map, survey report, master writ or holiday writ is used, whatever a rule says.",
     },
     {
