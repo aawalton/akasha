@@ -6,6 +6,7 @@ export const dc4 = {
   slug: "dc4",
   title: "Alik'r Desert",
   key: "DC4",
+  displayOrder: 19,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

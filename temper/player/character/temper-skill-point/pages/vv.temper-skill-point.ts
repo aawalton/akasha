@@ -6,6 +6,7 @@ export const vv = {
   slug: "vv",
   title: "Vvardenfell",
   key: "VV",
+  displayOrder: 35,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 18,

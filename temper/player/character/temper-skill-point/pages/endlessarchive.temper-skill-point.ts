@@ -6,6 +6,7 @@ export const endlessarchive = {
   slug: "endlessarchive",
   title: "Endless Archive",
   key: "endlessArchive",
+  displayOrder: 6,
   category: "general",
   maxValue: 1,
 } as const satisfies TemperSkillPoint

@@ -6,6 +6,7 @@ export const mainquests = {
   slug: "mainquests",
   title: "Main Quests",
   key: "mainQuests",
+  displayOrder: 1,
   category: "general",
   maxValue: 11,
 } as const satisfies TemperSkillPoint

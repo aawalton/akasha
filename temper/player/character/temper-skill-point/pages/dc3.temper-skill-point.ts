@@ -6,6 +6,7 @@ export const dc3 = {
   slug: "dc3",
   title: "Rivenspire",
   key: "DC3",
+  displayOrder: 18,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

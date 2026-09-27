@@ -6,6 +6,7 @@ export const su = {
   slug: "su",
   title: "Summerset",
   key: "SU",
+  displayOrder: 37,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 18,

@@ -6,6 +6,7 @@ export const gy = {
   slug: "gy",
   title: "Galen",
   key: "GY",
+  displayOrder: 46,
   category: "zone",
   maxQuests: 9,
   maxSkyshards: 6,

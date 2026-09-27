@@ -6,6 +6,7 @@ export const cl = {
   slug: "cl",
   title: "Craglorn",
   key: "CL",
+  displayOrder: 30,
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 18,

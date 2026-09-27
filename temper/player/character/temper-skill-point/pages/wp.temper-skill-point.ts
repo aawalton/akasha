@@ -6,6 +6,7 @@ export const wp = {
   slug: "wp",
   title: "Wailing Prison",
   key: "WP",
+  displayOrder: 7,
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 1,

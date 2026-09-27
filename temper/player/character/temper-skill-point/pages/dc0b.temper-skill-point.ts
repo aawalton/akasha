@@ -6,6 +6,7 @@ export const dc0b = {
   slug: "dc0b",
   title: "Stros M'Kai",
   key: "DC0b",
+  displayOrder: 14,
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 3,

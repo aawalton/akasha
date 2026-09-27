@@ -6,6 +6,7 @@ export const hi = {
   slug: "hi",
   title: "High Isle",
   key: "HI",
+  displayOrder: 45,
   category: "zone",
   maxQuests: 5,
   maxSkyshards: 18,

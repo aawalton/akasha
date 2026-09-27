@@ -6,6 +6,7 @@ export const ne = {
   slug: "ne",
   title: "Northern Elsweyr",
   key: "NE",
+  displayOrder: 39,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 18,

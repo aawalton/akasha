@@ -6,6 +6,7 @@ export const ad1 = {
   slug: "ad1",
   title: "Auridon",
   key: "AD1",
+  displayOrder: 9,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

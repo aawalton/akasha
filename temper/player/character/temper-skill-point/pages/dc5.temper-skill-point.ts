@@ -6,6 +6,7 @@ export const dc5 = {
   slug: "dc5",
   title: "Bangkorai",
   key: "DC5",
+  displayOrder: 20,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

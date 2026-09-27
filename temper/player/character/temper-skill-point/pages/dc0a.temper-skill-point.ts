@@ -6,6 +6,7 @@ export const dc0a = {
   slug: "dc0a",
   title: "Betnikh",
   key: "DC0a",
+  displayOrder: 15,
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 3,

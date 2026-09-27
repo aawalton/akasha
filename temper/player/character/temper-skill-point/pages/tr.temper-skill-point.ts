@@ -6,6 +6,7 @@ export const tr = {
   slug: "tr",
   title: "The Reach",
   key: "TR",
+  displayOrder: 42,
   category: "zone",
   maxQuests: 9,
   maxSkyshards: 6,

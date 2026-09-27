@@ -6,6 +6,7 @@ export const ic = {
   slug: "ic",
   title: "Imperial City",
   key: "IC",
+  displayOrder: 31,
   category: "zone",
   maxQuests: 1,
   maxSkyshards: 13,

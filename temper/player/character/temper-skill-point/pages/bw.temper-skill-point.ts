@@ -6,6 +6,7 @@ export const bw = {
   slug: "bw",
   title: "Blackwood",
   key: "BW",
+  displayOrder: 43,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 18,

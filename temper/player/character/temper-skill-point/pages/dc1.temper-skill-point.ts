@@ -6,6 +6,7 @@ export const dc1 = {
   slug: "dc1",
   title: "Glenumbra",
   key: "DC1",
+  displayOrder: 16,
   category: "zone",
   maxQuests: 4,
   maxSkyshards: 16,

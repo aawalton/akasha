@@ -6,6 +6,7 @@ export const ep1 = {
   slug: "ep1",
   title: "Stonefalls",
   key: "EP1",
+  displayOrder: 23,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

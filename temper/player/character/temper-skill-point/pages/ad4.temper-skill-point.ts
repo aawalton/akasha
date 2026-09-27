@@ -6,6 +6,7 @@ export const ad4 = {
   slug: "ad4",
   title: "Malabal Tor",
   key: "AD4",
+  displayOrder: 12,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

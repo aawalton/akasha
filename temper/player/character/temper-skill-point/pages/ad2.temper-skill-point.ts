@@ -6,6 +6,7 @@ export const ad2 = {
   slug: "ad2",
   title: "Grahtwood",
   key: "AD2",
+  displayOrder: 10,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

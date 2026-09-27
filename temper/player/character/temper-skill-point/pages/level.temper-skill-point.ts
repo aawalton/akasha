@@ -6,6 +6,7 @@ export const level = {
   slug: "level",
   title: "Level",
   key: "level",
+  displayOrder: 0,
   category: "general",
   maxValue: 64,
 } as const satisfies TemperSkillPoint

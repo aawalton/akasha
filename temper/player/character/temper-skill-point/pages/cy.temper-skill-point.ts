@@ -6,6 +6,7 @@ export const cy = {
   slug: "cy",
   title: "Cyrodiil",
   key: "CY",
+  displayOrder: 29,
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 46,

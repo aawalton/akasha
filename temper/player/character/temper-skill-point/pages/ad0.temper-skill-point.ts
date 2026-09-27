@@ -6,6 +6,7 @@ export const ad0 = {
   slug: "ad0",
   title: "Khenarthi's Roost",
   key: "AD0",
+  displayOrder: 8,
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 6,

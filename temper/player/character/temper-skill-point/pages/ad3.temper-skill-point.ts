@@ -6,6 +6,7 @@ export const ad3 = {
   slug: "ad3",
   title: "Greenshade",
   key: "AD3",
+  displayOrder: 11,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

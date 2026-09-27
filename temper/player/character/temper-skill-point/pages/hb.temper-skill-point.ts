@@ -6,6 +6,7 @@ export const hb = {
   slug: "hb",
   title: "Hew's Bane",
   key: "HB",
+  displayOrder: 33,
   category: "zone",
   maxQuests: 6,
   maxSkyshards: 6,

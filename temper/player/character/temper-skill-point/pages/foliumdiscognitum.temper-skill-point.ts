@@ -6,6 +6,7 @@ export const foliumdiscognitum = {
   slug: "foliumdiscognitum",
   title: "Folium Discognitum",
   key: "foliumDiscognitum",
+  displayOrder: 3,
   category: "general",
   maxValue: 2,
 } as const satisfies TemperSkillPoint

@@ -6,6 +6,7 @@ export const maelstromarena = {
   slug: "maelstromarena",
   title: "Maelstrom Arena",
   key: "maelstromArena",
+  displayOrder: 5,
   category: "general",
   maxValue: 1,
 } as const satisfies TemperSkillPoint

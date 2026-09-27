@@ -6,6 +6,7 @@ export const dc2 = {
   slug: "dc2",
   title: "Stormhaven",
   key: "DC2",
+  displayOrder: 17,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

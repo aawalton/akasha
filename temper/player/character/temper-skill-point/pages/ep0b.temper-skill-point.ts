@@ -6,6 +6,7 @@ export const ep0b = {
   slug: "ep0b",
   title: "Bleakrock Isle",
   key: "EP0b",
+  displayOrder: 21,
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 3,

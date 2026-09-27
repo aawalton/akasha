@@ -6,6 +6,7 @@ export const ep3 = {
   slug: "ep3",
   title: "Shadowfen",
   key: "EP3",
+  displayOrder: 25,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

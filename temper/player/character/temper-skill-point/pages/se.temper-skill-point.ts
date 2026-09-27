@@ -6,6 +6,7 @@ export const se = {
   slug: "se",
   title: "Southern Elsweyr",
   key: "SE",
+  displayOrder: 40,
   category: "zone",
   maxQuests: 9,
   maxSkyshards: 6,

@@ -6,6 +6,7 @@ export const gc = {
   slug: "gc",
   title: "Gold Coast",
   key: "GC",
+  displayOrder: 34,
   category: "zone",
   maxQuests: 8,
   maxSkyshards: 6,

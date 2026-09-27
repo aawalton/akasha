@@ -6,6 +6,7 @@ export const ws = {
   slug: "ws",
   title: "Western Skyrim",
   key: "WS",
+  displayOrder: 41,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 18,

@@ -6,6 +6,7 @@ export const ww = {
   slug: "ww",
   title: "West Weald",
   key: "WW",
+  displayOrder: 48,
   category: "zone",
   maxQuests: 9,
   maxSkyshards: 18,

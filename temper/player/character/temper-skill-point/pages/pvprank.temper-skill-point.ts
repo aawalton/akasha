@@ -6,6 +6,7 @@ export const pvprank = {
   slug: "pvprank",
   title: "PvP Rank",
   key: "pvpRank",
+  displayOrder: 4,
   category: "general",
   maxValue: 50,
 } as const satisfies TemperSkillPoint

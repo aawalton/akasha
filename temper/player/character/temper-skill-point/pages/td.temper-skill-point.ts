@@ -6,6 +6,7 @@ export const td = {
   slug: "td",
   title: "The Deadlands",
   key: "TD",
+  displayOrder: 44,
   category: "zone",
   maxQuests: 9,
   maxSkyshards: 6,

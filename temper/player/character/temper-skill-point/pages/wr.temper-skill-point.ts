@@ -6,6 +6,7 @@ export const wr = {
   slug: "wr",
   title: "Wrothgar",
   key: "WR",
+  displayOrder: 32,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 17,

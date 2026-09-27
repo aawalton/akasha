@@ -6,6 +6,7 @@ export const so = {
   slug: "so",
   title: "Solstice",
   key: "SO",
+  displayOrder: 49,
   category: "zone",
   maxQuests: 9,
   maxSkyshards: 18,

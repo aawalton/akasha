@@ -6,6 +6,7 @@ export const cc = {
   slug: "cc",
   title: "Clockwork City",
   key: "CC",
+  displayOrder: 36,
   category: "zone",
   maxQuests: 8,
   maxSkyshards: 6,

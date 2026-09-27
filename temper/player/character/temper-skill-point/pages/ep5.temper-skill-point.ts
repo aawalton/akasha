@@ -6,6 +6,7 @@ export const ep5 = {
   slug: "ep5",
   title: "The Rift",
   key: "EP5",
+  displayOrder: 27,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

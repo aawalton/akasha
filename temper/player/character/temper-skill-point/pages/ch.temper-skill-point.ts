@@ -6,6 +6,7 @@ export const ch = {
   slug: "ch",
   title: "Coldharbour",
   key: "CH",
+  displayOrder: 28,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

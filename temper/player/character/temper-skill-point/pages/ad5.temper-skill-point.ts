@@ -6,6 +6,7 @@ export const ad5 = {
   slug: "ad5",
   title: "Reaper's March",
   key: "AD5",
+  displayOrder: 13,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

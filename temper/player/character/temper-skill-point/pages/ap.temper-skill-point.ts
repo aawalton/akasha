@@ -6,6 +6,7 @@ export const ap = {
   slug: "ap",
   title: "Apocrypha",
   key: "AP",
+  displayOrder: 47,
   category: "zone",
   maxQuests: 9,
   maxSkyshards: 18,

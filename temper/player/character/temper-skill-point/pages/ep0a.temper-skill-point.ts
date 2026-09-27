@@ -6,6 +6,7 @@ export const ep0a = {
   slug: "ep0a",
   title: "Bal Foyen",
   key: "EP0a",
+  displayOrder: 22,
   category: "zone",
   maxQuests: 0,
   maxSkyshards: 3,

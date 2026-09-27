@@ -6,6 +6,7 @@ export const ep2 = {
   slug: "ep2",
   title: "Deshaan",
   key: "EP2",
+  displayOrder: 24,
   category: "zone",
   maxQuests: 3,
   maxSkyshards: 16,

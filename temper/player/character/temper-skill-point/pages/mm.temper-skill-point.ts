@@ -6,6 +6,7 @@ export const mm = {
   slug: "mm",
   title: "Murkmire",
   key: "MM",
+  displayOrder: 38,
   category: "zone",
   maxQuests: 7,
   maxSkyshards: 6,
