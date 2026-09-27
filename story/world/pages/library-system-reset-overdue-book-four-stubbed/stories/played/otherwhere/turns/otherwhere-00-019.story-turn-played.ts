@@ -7,8 +7,20 @@ export const otherwhere00019 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 19,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“Okay, that’s helpful. Plan B then.” I sweep the salt into a think circle around me, keeping the diameter only about three feet so I can keep it doubly thick, then start moving the circle down the center of the hall, baiting the small ones towards me.",
+  beats: [
+    '"Okay, that\'s helpful," she says. "Plan B, then."',
+    "She tips out salt beside the box and sweeps it round herself with the broom into a tight ring.",
+    "She keeps the ring only about three feet across, and sweeps the salt in doubly thick all round.",
+    "It takes her a while; the bristles are worn short, and she goes over every thin spot twice.",
+    "When she's done she stands in a thick white ring, and a little under half the box is left.",
+    "Links watches from outside the ring, his head tilted, runes turning slowly.",
+    '"True to my word, then," he says. "Two things."',
+    '"Their lunge stops dead at a salt line. But a head can still stretch about a foot over it to bite."',
+    '"And every time you push the ring along, the broom opens a gap in its edge for a moment."',
+    "Her feet are only a foot and a half from the salt, she works out; a head over the line could reach.",
+  ],
   lore: ["place/otherwhere-main-hall"],
 } as const satisfies StoryTurnPlayed
