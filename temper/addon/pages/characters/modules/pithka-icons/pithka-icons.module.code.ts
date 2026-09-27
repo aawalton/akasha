@@ -21,7 +21,7 @@ import {
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 
-export type IconSettings = {
+type IconSettings = {
   readonly texture?: string
   readonly size?: number
   readonly color?: Rgba

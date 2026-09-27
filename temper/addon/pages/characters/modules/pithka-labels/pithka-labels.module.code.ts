@@ -36,7 +36,7 @@ import "akasha/temper/eso/type/eso-interface-extra-5/eso-interface-extra-5.type-
 import "akasha/temper/eso/type/eso-lore-library/eso-lore-library.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-objects-01/eso-objects-01.type-declaration.d.ts"
 
-export type LabelSettings = {
+type LabelSettings = {
   readonly text?: string
   readonly width?: number
   readonly height?: number
@@ -72,7 +72,7 @@ export function basicLabel(this: void, settings: LabelSettings = {}): LabelContr
   return control
 }
 
-export type AchievementLabelSettings = LabelSettings & { readonly AID?: number }
+type AchievementLabelSettings = LabelSettings & { readonly AID?: number }
 
 export function achievementLabel(this: void, settings: AchievementLabelSettings): LabelControl {
   const id = settings.AID
@@ -130,7 +130,7 @@ function difficultyPortFn(
   }
 }
 
-export type TeleportSettings = LabelSettings & {
+type TeleportSettings = LabelSettings & {
   readonly text: string
   readonly vQueue?: number
   readonly nQueue?: number
@@ -175,7 +175,7 @@ function allScoresText(this: void, abbv: string): string {
   return text
 }
 
-export type ScoreSettings = { readonly ABBV: string; readonly SCORED?: boolean }
+type ScoreSettings = { readonly ABBV: string; readonly SCORED?: boolean }
 
 export function scoreLabel(this: void, row: ScoreSettings): LabelControl {
   const control = basicLabel({
@@ -224,7 +224,7 @@ export function pulseLabel(this: void, settings: LabelSettings): LabelControlWit
   return control
 }
 
-export type PulseLabel = { SetPulse: (this: void, shouldPulse: boolean) => undefined }
+type PulseLabel = { SetPulse: (this: void, shouldPulse: boolean) => undefined }
 
 export type LabelControlWithPulse = LabelControl & PulseLabel
 
