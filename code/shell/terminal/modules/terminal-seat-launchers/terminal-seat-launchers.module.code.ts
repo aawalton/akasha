@@ -1,3 +1,4 @@
+import { PANE_SCOPE } from "akasha/agent/seat/launching/modules/seat-grouping/seat-grouping.module.code.ts"
 import {
   DEFAULT_ACCOUNT,
   envScrubShell,
@@ -96,14 +97,16 @@ export function tmuxLaunchFnLines(): readonly string[] {
     "  fi",
     '  if ! tmux has-session -t "=$_seat" 2>/dev/null; then',
     '    local _unit="tmux-seat-$_seat-$(date +%s%3N)"',
-    "    local _scope=()",
+    `    local _pane_unit="${PANE_SCOPE}$_seat-$(date +%s%3N)"`,
+    "    local _scope=() _pane=()",
     "    if command -v systemd-run >/dev/null 2>&1; then",
     `      _scope=(${scopeShell('"--unit=$_unit"')})`,
+    `      _pane=(${scopeShell('"--unit=$_pane_unit"')})`,
     "    else",
     '      echo "no systemd-run, so this tmux server is starting inside this terminal\x27s own cgroup and will be killed when the editor quits." >&2',
     "    fi",
     `    "\${_scope[@]}" tmux ${serverOptionShell()} \\; new-session -d -s "$_seat" -c "${SEAT_START_DIR}" -- ` +
-      `${envScrubShell()} "\${_cmd[@]}" || return 1`,
+      `"\${_pane[@]}" ${envScrubShell()} "\${_cmd[@]}" || return 1`,
     "  fi",
     `  ${SEAT_ATTACH_FN} "$_seat"`,
     "}",

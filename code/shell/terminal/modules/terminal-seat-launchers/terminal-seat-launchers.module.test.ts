@@ -44,6 +44,12 @@ describe("the launch", () => {
     expect(launching).toContain("set-option -g status off")
   })
 
+  test("puts the pane's command in a capped scope of its own", () => {
+    expect(launching).toContain('local _pane_unit="tmux-pane-$_seat-$(date +%s%3N)"')
+    expect(launching).toContain('-p TasksMax=2000 "--unit=$_pane_unit")')
+    expect(launching).toContain('-- "${_pane[@]}" env -u TMUX')
+  })
+
   test("carries no headless flag, because a terminal is attached to it", () => {
     expect(launching).not.toContain("--headless")
   })

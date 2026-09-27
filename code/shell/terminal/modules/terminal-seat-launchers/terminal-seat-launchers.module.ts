@@ -23,6 +23,11 @@ export const terminalSeatLaunchers = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A seat's pane command enters a capped scope of its own, as a program's launch does.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A session is live only where that session has a pane that is not dead.",
     },
     {
