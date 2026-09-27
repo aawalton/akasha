@@ -108,6 +108,18 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "The box's twenty pounds of salt lays an unbroken line about forty feet long.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The back of the hall is about sixty feet across between its outer columns.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The big engorged bookworm is heavy enough to plough through a salt line, burned as it goes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
