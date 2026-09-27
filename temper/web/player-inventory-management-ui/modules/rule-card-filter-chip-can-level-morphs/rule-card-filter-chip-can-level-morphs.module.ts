@@ -11,5 +11,9 @@ export const ruleCardFilterChipCanLevelMorphs = {
       decisionKind: "decision-kind/departure",
       statement: "The chip's remove label is the remove-filter phrase.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chip is named by its condition field page, and its note is a web phrase.",
+    },
   ],
 } as const satisfies Module
