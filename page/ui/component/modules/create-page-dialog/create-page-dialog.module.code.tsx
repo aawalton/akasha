@@ -10,6 +10,12 @@ import {
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import { Spinner } from "akasha/design/interface/primitive/modules/spinner/spinner.module.code.tsx"
+import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { dialogCancel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/dialog-cancel.web-phrase.ts"
+import { pageCreateButton } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/page-create-button.web-phrase.ts"
+import { pageCreateCreating } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/page-create-creating.web-phrase.ts"
+import { pageCreateTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/page-create-title.web-phrase.ts"
+import { pageCreateUnknownError } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/page-create-unknown-error.web-phrase.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
 import type { QuickAddConfig } from "akasha/page/core/schema/modules/quick-add/quick-add.module.code.ts"
@@ -42,6 +48,7 @@ export function CreatePageDialog(props: CreatePageDialogProps): React.ReactNode 
     onSubmitted,
   } = props
 
+  const phrase = usePhrase()
   const [isLoading, setIsLoading] = useState(false)
   const [error, setError] = useState<string | null>(null)
   const [resetKey, setResetKey] = useState(0)
@@ -61,7 +68,7 @@ export function CreatePageDialog(props: CreatePageDialogProps): React.ReactNode 
       onSubmitted?.()
       handleClose()
     } catch (err) {
-      setError(err instanceof Error ? err.message : "Unknown error")
+      setError(err instanceof Error ? err.message : phrase(pageCreateUnknownError.slug))
       setIsLoading(false)
     }
   }
@@ -76,7 +83,7 @@ export function CreatePageDialog(props: CreatePageDialogProps): React.ReactNode 
     >
       <DialogContent showCloseButton>
         <DialogHeader>
-          <DialogTitle>Create {displayName}</DialogTitle>
+          <DialogTitle>{phrase(pageCreateTitle.slug, { name: displayName })}</DialogTitle>
         </DialogHeader>
         <DialogBody>
           <div className="flex flex-col gap-2">
@@ -100,16 +107,16 @@ export function CreatePageDialog(props: CreatePageDialogProps): React.ReactNode 
         </DialogBody>
         <DialogFooter>
           <Button variant="tertiary" onClick={handleClose} disabled={isLoading}>
-            Cancel
+            {phrase(dialogCancel.slug)}
           </Button>
           <Button variant="accent" type="submit" form={FORM_ID} disabled={isLoading}>
             {isLoading ? (
               <>
                 <Spinner />
-                Creating...
+                {phrase(pageCreateCreating.slug)}
               </>
             ) : (
-              "Create"
+              phrase(pageCreateButton.slug)
             )}
           </Button>
         </DialogFooter>

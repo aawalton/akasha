@@ -18,6 +18,16 @@ import {
 } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
 import { Label } from "akasha/design/interface/primitive/modules/label/label.module.code.tsx"
+import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { dialogCancel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/dialog-cancel.web-phrase.ts"
+import { dialogDelete } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/dialog-delete.web-phrase.ts"
+import { dialogSave } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/dialog-save.web-phrase.ts"
+import { viewTabDeleteConfirm } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-tab-delete-confirm.web-phrase.ts"
+import { viewTabDeleteTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-tab-delete-title.web-phrase.ts"
+import { viewTabDuplicate } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-tab-duplicate.web-phrase.ts"
+import { viewTabNameLabel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-tab-name-label.web-phrase.ts"
+import { viewTabRename } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-tab-rename.web-phrase.ts"
+import { viewTabRenameTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-tab-rename-title.web-phrase.ts"
 import type { ViewCallbacks } from "akasha/page/ui/modules/view-callbacks/view-callbacks.module.code.ts"
 import { useEffect, useRef, useState } from "react"
 
@@ -42,6 +52,7 @@ export function ViewTabContextMenu({
   mode = "full",
   callbacks,
 }: ViewTabContextMenuProps) {
+  const phrase = usePhrase()
   const [renameOpen, setRenameOpen] = useState(false)
   const [deleteOpen, setDeleteOpen] = useState(false)
   const [name, setName] = useState(view.name)
@@ -83,14 +94,16 @@ export function ViewTabContextMenu({
                 setTimeout(() => setRenameOpen(true))
               }}
             >
-              Rename
+              {phrase(viewTabRename.slug)}
             </DropdownMenuItem>
-            <DropdownMenuItem onSelect={handleDuplicate}>Duplicate</DropdownMenuItem>
+            <DropdownMenuItem onSelect={handleDuplicate}>
+              {phrase(viewTabDuplicate.slug)}
+            </DropdownMenuItem>
             {viewCount > 1 && (
               <>
                 <DropdownMenuSeparator />
                 <DropdownMenuItem variant="destructive" onSelect={() => setDeleteOpen(true)}>
-                  Delete
+                  {phrase(dialogDelete.slug)}
                 </DropdownMenuItem>
               </>
             )}
@@ -120,13 +133,13 @@ export function ViewTabContextMenu({
           }}
         >
           <DialogHeader>
-            <DialogTitle>Rename View</DialogTitle>
+            <DialogTitle>{phrase(viewTabRenameTitle.slug)}</DialogTitle>
           </DialogHeader>
           <DialogBody>
             <form id="rename-view-form" onSubmit={handleRename}>
               <div className="flex flex-col gap-4">
                 <div className="grid gap-2">
-                  <Label htmlFor="rv-name">Name</Label>
+                  <Label htmlFor="rv-name">{phrase(viewTabNameLabel.slug)}</Label>
                   <Input
                     id="rv-name"
                     ref={nameInputRef}
@@ -143,7 +156,7 @@ export function ViewTabContextMenu({
           </DialogBody>
           <DialogFooter>
             <Button variant="tertiary" onClick={() => setRenameOpen(false)}>
-              Cancel
+              {phrase(dialogCancel.slug)}
             </Button>
             <Button
               variant="accent"
@@ -151,7 +164,7 @@ export function ViewTabContextMenu({
               form="rename-view-form"
               disabled={name.trim() === ""}
             >
-              Save
+              {phrase(dialogSave.slug)}
             </Button>
           </DialogFooter>
         </DialogContent>
@@ -166,19 +179,19 @@ export function ViewTabContextMenu({
       >
         <DialogContent showCloseButton>
           <DialogHeader>
-            <DialogTitle>Delete View</DialogTitle>
+            <DialogTitle>{phrase(viewTabDeleteTitle.slug)}</DialogTitle>
           </DialogHeader>
           <DialogBody>
             <p className="text-secondary text-sm">
-              Are you sure you want to delete &ldquo;{view.name}&rdquo;? This cannot be undone.
+              {phrase(viewTabDeleteConfirm.slug, { name: view.name })}
             </p>
           </DialogBody>
           <DialogFooter>
             <Button variant="tertiary" onClick={() => setDeleteOpen(false)}>
-              Cancel
+              {phrase(dialogCancel.slug)}
             </Button>
             <Button variant="destructive" onClick={handleDelete}>
-              Delete
+              {phrase(dialogDelete.slug)}
             </Button>
           </DialogFooter>
         </DialogContent>

@@ -18,6 +18,11 @@ export const webPhraseReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A store that fails to read leaves the seeded phrases as they are, and throws only unseeded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A phrase neither read is drawn as nothing rather than as wording in code.",
     },
     {

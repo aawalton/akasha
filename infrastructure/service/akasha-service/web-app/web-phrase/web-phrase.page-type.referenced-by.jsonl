@@ -66,6 +66,8 @@
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/page-detail-sometimes-temporary.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/page-detail-try-again.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/page-detail-went-wrong.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/quick-add-remove-default.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/quick-add-remove.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/quick-add-task-placeholder.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/quick-add-title-placeholder.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/sms-opt-in-and-our.web-phrase.ts","typed":true,"deferred":false}

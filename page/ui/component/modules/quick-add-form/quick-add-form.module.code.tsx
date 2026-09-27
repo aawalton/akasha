@@ -6,6 +6,11 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { Textarea } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
+import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { quickAddRemove } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/quick-add-remove.web-phrase.ts"
+import { quickAddRemoveDefault } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/quick-add-remove-default.web-phrase.ts"
+import { quickAddTaskPlaceholder } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/quick-add-task-placeholder.web-phrase.ts"
+import { quickAddTitlePlaceholder } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/quick-add-title-placeholder.web-phrase.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import type { PropertyValue } from "akasha/page/core/property-type/modules/property-type-ops/property-type-ops.module.code.ts"
 import type { ReadonlyJSONValue } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
@@ -73,6 +78,7 @@ function buildSources(
 
 export function QuickAddForm(props: QuickAddFormProps): React.ReactNode {
   const { formId, quickAdd, propertyDefinitions, existingPages, disabled, onSubmit } = props
+  const phrase = usePhrase()
 
   const [titleRaw, setTitleRaw] = useState("")
   const [notes, setNotes] = useState("")
@@ -216,7 +222,7 @@ export function QuickAddForm(props: QuickAddFormProps): React.ReactNode {
             onSelect={handleCursorChange}
             onKeyUp={handleCursorChange}
             onKeyDown={handleKeyDown}
-            placeholder="Title..."
+            placeholder={phrase(quickAddTitlePlaceholder.slug)}
             autoFocus
             required
             disabled={disabled}
@@ -235,7 +241,7 @@ export function QuickAddForm(props: QuickAddFormProps): React.ReactNode {
                 key={`parsed-${slot.sigil}-${token}`}
                 variant="accent"
                 onRemove={() => dismissParsed(slot.sigil, token)}
-                removeLabel={`Remove ${slot.sigil}${token}`}
+                removeLabel={phrase(quickAddRemove.slug, { chip: `${slot.sigil}${token}` })}
               >
                 {slot.sigil}
                 {token}
@@ -246,7 +252,7 @@ export function QuickAddForm(props: QuickAddFormProps): React.ReactNode {
                 key={`default-${slot.sigil}-${token}`}
                 variant="elevation-muted"
                 onRemove={() => dismissDefault(slot.sigil, token)}
-                removeLabel={`Remove default ${slot.sigil}${token}`}
+                removeLabel={phrase(quickAddRemoveDefault.slug, { chip: `${slot.sigil}${token}` })}
               >
                 {slot.sigil}
                 {token}
@@ -285,7 +291,7 @@ export function QuickAddForm(props: QuickAddFormProps): React.ReactNode {
             value={notes}
             onChange={(e) => setNotes(e.target.value)}
             onKeyDown={handleTextareaKeyDown}
-            placeholder="What needs to be done?"
+            placeholder={phrase(quickAddTaskPlaceholder.slug)}
             rows={3}
             disabled={disabled}
           />

@@ -51,10 +51,11 @@ export function useSeededPhrase(): Phrase {
 export function usePhrase(): Phrase {
   const pages = usePages({ pageTypeSlug: webPhrase.slug, limit: EVERY })
   const seed = useContext(Seeded)
+  const unread = pages.isLoading || pages.error !== null
   const phrase = useMemo<Phrase>(
-    () => phrasingOf(pages.isLoading ? seededTitles(seed) : titlesFrom(pages.rows)),
-    [pages.isLoading, pages.rows, seed]
+    () => phrasingOf(unread ? seededTitles(seed) : titlesFrom(pages.rows)),
+    [unread, pages.rows, seed]
   )
-  if (pages.error !== null) throw pages.error
+  if (pages.error !== null && seed.length === 0) throw pages.error
   return phrase
 }
