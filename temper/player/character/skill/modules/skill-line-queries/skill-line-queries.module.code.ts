@@ -116,7 +116,7 @@ export function getSkillsToRemoveOnClassChange(
 
   const skillsToRemove: { barId: SkillBarId; slotId: SkillSlotId; skill: Skill }[] = []
 
-  for (const barId of skillBars.ids) {
+  for (const barId of skillBars().ids) {
     const skillBar = currentSkills[barId]
     if (!skillBar) continue
 

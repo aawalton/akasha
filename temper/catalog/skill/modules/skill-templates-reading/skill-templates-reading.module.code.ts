@@ -12,6 +12,10 @@ import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-s
 import { temperSignatureScript } from "akasha/temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.ts"
 import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
 import { temperSkillType } from "akasha/temper/catalog/skill/type/temper-skill-type.page-type.ts"
+import {
+  holdSkillBars,
+  skillBarsOf,
+} from "akasha/temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.code.ts"
 import type { SkillLineTemplate } from "akasha/temper/player/character/skill/line/modules/skill-line-template/skill-line-template.module.code.ts"
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
 import type { GrimoireTemplate } from "akasha/temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"
@@ -20,6 +24,7 @@ import {
   CHARACTER_SOURCE_READS,
   holdCharacterSources,
 } from "akasha/temper/player/character/source/modules/character-source-reading/character-source-reading.module.code.ts"
+import { temperSkillBar } from "akasha/temper/player/character/temper-skill-bar/temper-skill-bar.page-type.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 
 export const SKILL_KEYED_BY: readonly (readonly [string, string])[] = [
@@ -328,6 +333,7 @@ export const CATALOG_READS: readonly Read[] = readsOf([
   [temperAffixScript.slug, SCRIPT_FIELDS],
   [temperGrimoire.slug, GRIMOIRE_FIELDS],
   [temperSkillLine.slug, LINE_FIELDS],
+  [temperSkillBar.slug, ["slug", "title", "displayOrder"]],
   ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
   ...CHARACTER_SOURCE_READS,
 ])
@@ -336,6 +342,7 @@ export function catalogTemplatesOf(
   rowsOf: (pageTypeSlug: string) => Iterable<Value>
 ): CatalogTemplates {
   holdCharacterSources(rowsOf)
+  holdSkillBars(skillBarsOf(rowsOf(temperSkillBar.slug)))
   const keys = skillKeysIn(rowsOf)
   return {
     ...skillTemplatesOf(rowsOf(temperSkill.slug), rowsOf(temperScribedSkill.slug), keys),

@@ -37,5 +37,9 @@ export const skillTemplatesReading = {
       statement:
         "The character source pages a build hash reads by place are read and held with the skills.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The skill bar pages are read and held with the skills.",
+    },
   ],
 } as const satisfies Module

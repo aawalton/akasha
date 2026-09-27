@@ -32,6 +32,7 @@ import { temperAttribute } from "akasha/temper/player/character/source/temper-at
 import { temperEsoPlus } from "akasha/temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts"
 import { temperFoodOrDrink } from "akasha/temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts"
 import { temperMundusStone } from "akasha/temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts"
+import { temperSkillBar } from "akasha/temper/player/character/temper-skill-bar/temper-skill-bar.page-type.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 import { useMemo } from "react"
 
@@ -63,8 +64,10 @@ export function useSkillCatalog(): SkillCatalog | null {
   const minorDebuffs = usePages({ pageTypeSlug: temperDebuffMinor.slug, limit: EVERY })
   const otherDebuffs = usePages({ pageTypeSlug: temperDebuffOther.slug, limit: EVERY })
   const roles = usePages({ pageTypeSlug: temperCharacterRole.slug, limit: EVERY })
+  const bars = usePages({ pageTypeSlug: temperSkillBar.slug, limit: EVERY })
   const read = [
     roles,
+    bars,
     majorDebuffs,
     minorDebuffs,
     otherDebuffs,
@@ -120,6 +123,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperDebuffMinor.slug, minorDebuffs.rows],
       [temperDebuffOther.slug, otherDebuffs.rows],
       [temperCharacterRole.slug, roles.rows],
+      [temperSkillBar.slug, bars.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -151,6 +155,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     minorDebuffs.rows,
     otherDebuffs.rows,
     roles.rows,
+    bars.rows,
   ])
   if (failed !== null) throw failed
   return catalog

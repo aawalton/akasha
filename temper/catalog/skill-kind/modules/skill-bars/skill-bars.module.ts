@@ -9,7 +9,12 @@ export const skillBars = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the skill pages rather than by hand.",
+      statement:
+        "The skill bars are read from the skill bar pages and held with the skill catalogue.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill bar's place among the bars is its page's display order.",
     },
   ],
 } as const satisfies Module
