@@ -173,8 +173,13 @@ export function linesIn(text: string): readonly string[] {
     .filter((one) => one !== "")
 }
 
-export function noticeOf(turn: string, step: TurnStep): string {
-  return `The turn \`${turn}\` is at ${step}.`
+export function noticeOf(turn: string, step: TurnStep, changed: readonly string[] = []): string {
+  const said = `The turn \`${turn}\` is at ${step}.`
+  if (changed.length === 0) return said
+  const listed = changed.map((one) => `- \`${one}\``)
+  return [said, "", "These lore pages have changed since you last read them:", ...listed].join(
+    BREAK
+  )
 }
 
 function linesRefused(what: string, lines: readonly string[]): string | null {

@@ -172,7 +172,7 @@ async function rewoundOn(
   seatsStopped(reach, given.root, held.game, after)
   if (reach.release(given.root, turn.at)) after.report.push(`discarded\tthe recorders' kept edits`)
   const master = reach.storyOf(given.root, held.game)?.master ?? null
-  await noticesSent(reach, held.game, master, turn.at, WORLD_BUILDER, after)
+  await noticesSent(reach, given.root, held.game, master, turn.at, WORLD_BUILDER, after)
   if (after.faults.length === 0) return told(after.report)
   return answeredWith(after.report, after.faults, OPERATIONAL)
 }

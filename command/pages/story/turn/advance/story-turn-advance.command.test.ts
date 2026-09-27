@@ -140,6 +140,7 @@ function reachOver(
       return null
     },
     loreOf: () => [MARA_LORE],
+    changedLore: () => [],
   }
 }
 

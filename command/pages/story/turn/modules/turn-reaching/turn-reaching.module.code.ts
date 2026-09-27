@@ -48,6 +48,7 @@ import {
 import { ACTION_BAR_PLAYER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
+import { changedLoreOfSeat } from "akasha/story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts"
 import { withheldIn } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import { storyRecorderInstructions } from "akasha/story/recorder/properties/story-recorder-instructions.file-property.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
@@ -132,6 +133,7 @@ export type Reach = {
   readonly stop: (root: string, seat: string) => undefined
   readonly notify: (to: string, body: string) => Promise<string | null>
   readonly loreOf: (root: string, game: string, characters: readonly string[]) => readonly string[]
+  readonly changedLore: (root: string, seat: string) => readonly string[]
 }
 
 export type Rewinding = Reach & {
@@ -144,6 +146,7 @@ export type Told = { readonly report: string[]; readonly faults: string[] }
 
 export async function noticesSent(
   reach: Reach,
+  root: string,
   game: string,
   master: string | null,
   turn: string,
@@ -155,10 +158,10 @@ export async function noticesSent(
     after.faults.push(`\`${game}\` names no game master seat, so no seat was told the turn moved`)
     return undefined
   }
-  const said = noticeOf(turn, status)
-  const body = status === WRITER && toRead.length > 0 ? `${said}\n\n${loreLine(toRead)}` : said
+  const cast = status === WRITER && toRead.length > 0 ? `\n\n${loreLine(toRead)}` : ""
   for (const to of noticedOf(master, game)) {
-    const why = await reach.notify(to, body)
+    const said = noticeOf(turn, status, reach.changedLore(root, to))
+    const why = await reach.notify(to, `${said}${cast}`)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the turn moved: ${why}`)
   }
@@ -330,6 +333,7 @@ export const REACHED: Reach = {
   stop: stoppedApart,
   notify: noticeSent,
   loreOf: loreIndexed,
+  changedLore: changedLoreOfSeat,
 }
 
 function seatsStated(): readonly Seated[] {

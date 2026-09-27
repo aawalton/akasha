@@ -78,5 +78,14 @@ export const turnLifecycle = {
       decisionKind: "decision-kind/departure",
       statement: "A notice of a turn names its path and its status, and nothing of its content.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A notice also names each lore page its seat read that has changed since, by path alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice names no lore page withheld from its seat.",
+    },
   ],
 } as const satisfies Module

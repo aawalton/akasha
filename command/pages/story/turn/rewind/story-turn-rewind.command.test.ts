@@ -117,6 +117,7 @@ function reachOver(turn: Turn, into: Seen, latest = SLUG): Rewinding {
       return null
     },
     loreOf: () => [],
+    changedLore: () => [],
     turnsOf: () => [
       { at: "stories/the-saga/turns/the-saga-00-002.story-turn-played.ts", slug: "x", position: 2 },
       { at: AT, slug: latest, position: 3 },
@@ -180,6 +181,22 @@ test("a rewind stops the game's reviewer and recorder seats and tells its game m
     `${MASTER}: The turn \`${AT}\` is at world-builder.`,
     `${BUILDER}: The turn \`${AT}\` is at world-builder.`,
     `${WRITER}: The turn \`${AT}\` is at world-builder.`,
+  ])
+})
+
+test("each seat told is named, by path, the lore pages it read that have changed since", async () => {
+  const into = seen()
+  const hall = "world/lore/the-hall.lore.ts"
+  const reach: Rewinding = {
+    ...reachOver(turnAt({ action: "I open the gate" }), into),
+    changedLore: (_root, seat) => (seat === WRITER ? [hall] : []),
+  }
+  await rewoundBy([], reach, into)
+  const said = `The turn \`${AT}\` is at world-builder.`
+  expect(into.notices).toEqual([
+    `${MASTER}: ${said}`,
+    `${BUILDER}: ${said}`,
+    `${WRITER}: ${said}\n\nThese lore pages have changed since you last read them:\n- \`${hall}\``,
   ])
 })
 

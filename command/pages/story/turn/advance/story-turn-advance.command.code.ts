@@ -234,9 +234,10 @@ function startingOf(start: Start, persona: string, at: Context): Starting | stri
   return { persona, role: reviewerRole.slug, game: at.game, flex, prompt }
 }
 
-async function noticesOver(reach: Reach, at: Context, status: TurnStep, after: Told) {
+async function noticesOver(reach: Reach, root: string, at: Context, status: TurnStep, after: Told) {
   const master = at.story?.master ?? null
-  await noticesSent(reach, at.game, master, at.prompting.turnAt, status, after, at.prompting.lore)
+  const turn = at.prompting.turnAt
+  await noticesSent(reach, root, at.game, master, turn, status, after, at.prompting.lore)
 }
 
 async function seatsStarted(
@@ -333,7 +334,7 @@ async function advancedOn(
   const moving = `${slug}\t${held.status}\t${said.status}`
   const report = said.landsKept ? [moving, `landed\t${kept.length} kept edit(s)`] : [moving]
   const after: Told = { report, faults: [] }
-  if (said.status !== held.status) await noticesOver(reach, at, said.status, after)
+  if (said.status !== held.status) await noticesOver(reach, given.root, at, said.status, after)
   await seatsStarted(reach, at, said.starts, done, after)
   if (said.stopsCaller && seat !== null) {
     reach.stop(given.root, seat.name)

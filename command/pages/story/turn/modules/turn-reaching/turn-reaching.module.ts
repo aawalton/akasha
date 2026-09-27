@@ -52,5 +52,9 @@ export const turnReaching = {
       decisionKind: "decision-kind/departure",
       statement: "A notice moving a turn to writer names the lore about the turn's characters.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each seat a notice reaches is named the lore it read that has changed since.",
+    },
   ],
 } as const satisfies Module
