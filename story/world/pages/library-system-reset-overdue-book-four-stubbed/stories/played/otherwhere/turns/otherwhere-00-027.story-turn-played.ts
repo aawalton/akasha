@@ -15,7 +15,7 @@ export const otherwhere00027 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "“Do you have some kind of magical healing for me, or do I need to do this the hard way?”",
   beats: [
@@ -31,5 +31,5 @@ export const otherwhere00027 = {
     '"and says nothing more" - Leave It Open',
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
