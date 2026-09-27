@@ -84,6 +84,7 @@ export const alanWeb = {
     "module/signed-in-redirect",
     "module/status-bar-chrome",
     "module/status-bar-sync",
+    "module/tab-icon",
     "module/use-mark-read-on-end",
 
     "module/widget-tap-answering",

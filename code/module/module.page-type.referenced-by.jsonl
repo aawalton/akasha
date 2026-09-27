@@ -881,6 +881,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/status-bar-chrome/status-bar-chrome.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/status-bar-sync/status-bar-sync.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/stoplights-activity-sync/stoplights-activity-sync.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/tab-icon/tab-icon.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"alan/web/modules/use-mark-read-on-end/use-mark-read-on-end.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/change.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"change/generator/change-generator.page-type.types.ts","typed":true,"deferred":false}
