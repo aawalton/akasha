@@ -9,7 +9,11 @@ export const theDatingGameEcho = {
   about: "persona/echo",
   facts: [
     {
-      fact: "Echo is an Oread, a mountain nymph, who speaks only in words others have said, any she has heard in three thousand years, and leans toward the newest.",
+      fact: "Echo is an Oread, a mountain nymph, three thousand years old.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Hera took Echo's own words from her as a punishment, and Echo calls it a distillation now.",
       knowers: ["lore-disclosure/game-master"],
     },
   ],
