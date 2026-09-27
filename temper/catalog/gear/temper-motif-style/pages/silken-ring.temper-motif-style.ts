@@ -6,6 +6,7 @@ export const silkenRing = {
   slug: "silken-ring",
   title: "Silken Ring",
   esoItemStyleId: 56,
+  styleName: "Silken Ring",
   collectionIndex: 31,
   sourceDescription: "Cradle of Shadows dungeon",
 } as const satisfies TemperMotifStyle
