@@ -89961,7 +89961,7 @@
             "name": "Reaper's Mark",
             "rank": 4
           },
-          "currentMorph": 1,
+          "currentMorph": 0,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
@@ -91377,7 +91377,7 @@
             "name": "Recuperative Treatise",
             "rank": 4
           },
-          "currentMorph": 2,
+          "currentMorph": 1,
           "abilityIndex": 5,
           "isUltimate": false,
           "atMorph": true
