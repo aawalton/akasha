@@ -5,6 +5,8 @@ export const syrabanicMarine = {
   type: "page-type/temper-motif-style",
   slug: "syrabanic-marine",
   title: "Syrabanic Marine",
+  esoItemStyleId: 130,
+  styleName: "Syrabanic Marine",
   collectionIndex: 96,
   sourceDescription: "Dreadsail Reef trial",
 } as const satisfies TemperMotifStyle
