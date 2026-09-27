@@ -7,8 +7,11 @@ import {
   DropdownMenuItem,
   DropdownMenuTrigger,
 } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { RuleCardFilterChip } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chip/rule-card-filter-chip.module.code.tsx"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
+import { ruleCardFiltersAddFilter } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-filters-add-filter.temper-rule-card-phrase.ts"
 import { Plus } from "lucide-react"
 import { Fragment } from "react"
 
@@ -110,6 +113,7 @@ interface RuleCardFiltersProps {
 
 export function RuleCardFilters({ state }: RuleCardFiltersProps) {
   const { showFilter, filterOrder, availableFilters, handleAddFilter } = state
+  const phrases = useRuleCardPhrases()
 
   return (
     <div className="flex flex-wrap items-center gap-1.5">
@@ -128,7 +132,7 @@ export function RuleCardFilters({ state }: RuleCardFiltersProps) {
           <DropdownMenuTrigger asChild>
             <ButtonBadge variant="elevation-muted" className="shrink-0">
               <Plus className="size-3" />
-              Filter
+              {titleIn(phrases, ruleCardFiltersAddFilter.key)}
             </ButtonBadge>
           </DropdownMenuTrigger>
           <DropdownMenuContent align="start">

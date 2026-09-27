@@ -6,4 +6,10 @@ export const ruleCardFilters = {
   slug: "rule-card-filters",
   definition: "every filter narrowing a rule's items",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The add filter button is worded by a rule card phrase.",
+    },
+  ],
 } as const satisfies Module

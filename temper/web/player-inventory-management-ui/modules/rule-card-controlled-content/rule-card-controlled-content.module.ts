@@ -6,4 +6,10 @@ export const ruleCardControlledContent = {
   slug: "rule-card-controlled-content",
   definition: "the whole of a rule card drawn from what it is told",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stock scope badge is worded by rule card phrases.",
+    },
+  ],
 } as const satisfies Module

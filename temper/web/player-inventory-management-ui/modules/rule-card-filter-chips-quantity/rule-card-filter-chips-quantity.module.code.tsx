@@ -28,6 +28,7 @@ import {
   useConditionValueOptions,
 } from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-value-options/use-condition-value-options.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
+import { ruleCardFilterChipsQuantityGoldSuffix } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-filter-chips-quantity-gold-suffix.temper-rule-card-phrase.ts"
 import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
@@ -116,6 +117,7 @@ export function RuleCardFilterChipQuantity({
   if (titles === null || values === null || phrases === null) return null
   const title = titleOfFilter(titles, id)
   const remove = phraseOf(phrases, "remove-filter", { filter: title })
+  const gold = phraseOf(phrases, ruleCardFilterChipsQuantityGoldSuffix.key)
 
   switch (id) {
     case "all-stocked":
@@ -176,7 +178,7 @@ export function RuleCardFilterChipQuantity({
           <EditableNumber
             value={Number(valueValue)}
             max={99_999_999}
-            suffix="g"
+            suffix={gold}
             format={(n) => n.toLocaleString("en-US")}
             onChange={(n) => handleValueChange(String(n))}
           />{" "}
@@ -198,7 +200,7 @@ export function RuleCardFilterChipQuantity({
           <EditableNumber
             value={Number(marketValueValue)}
             max={99_999_999}
-            suffix="g"
+            suffix={gold}
             format={(n) => n.toLocaleString("en-US")}
             onChange={(n) => handleMarketValueChange(String(n))}
           />{" "}
@@ -220,7 +222,7 @@ export function RuleCardFilterChipQuantity({
           <EditableNumber
             value={Number(merchantValueValue)}
             max={99_999_999}
-            suffix="g"
+            suffix={gold}
             format={(n) => n.toLocaleString("en-US")}
             onChange={(n) => handleMerchantValueChange(String(n))}
           />{" "}
@@ -245,7 +247,7 @@ export function RuleCardFilterChipQuantity({
           <EditableNumber
             value={Number(replacementValueValue)}
             max={99_999_999}
-            suffix="g"
+            suffix={gold}
             format={(n) => n.toLocaleString("en-US")}
             onChange={(n) => handleReplacementValueChange(String(n))}
           />{" "}

@@ -8,12 +8,19 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import {
   ALL_CATEGORIES_ID,
   ALL_CATEGORIES_NODE,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { getNodeChildren } from "akasha/temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
+import {
+  phraseOf,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import { ruleCardCategoryRowAll } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-category-row-all.temper-rule-card-phrase.ts"
+import { ruleCardCategoryRowSelect } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-category-row-select.temper-rule-card-phrase.ts"
 import { ChevronRight } from "lucide-react"
 
 interface RuleCardCategoryRowProps {
@@ -24,15 +31,16 @@ interface RuleCardCategoryRowProps {
 
 export function RuleCardCategoryRow({ path, deepestChildren, onSelect }: RuleCardCategoryRowProps) {
   const categories = useItemCategories().keyed
+  const phrases = useRuleCardPhrases()
+  const allOf = (name: string): string =>
+    phrases === null ? "" : phraseOf(phrases, ruleCardCategoryRowAll.key, { category: name })
   return (
     <div className="flex flex-wrap items-center gap-1.5">
       {}
       {path.map((node, depth) => {
         const parent = depth > 0 ? path[depth - 1] : undefined
         const treeChildren = getNodeChildren(parent?.id, categories)
-        const allOption = parent
-          ? { id: parent.id, name: `All ${parent.name}` }
-          : ALL_CATEGORIES_NODE
+        const allOption = parent ? { id: parent.id, name: allOf(parent.name) } : ALL_CATEGORIES_NODE
         const siblings = [allOption, ...treeChildren]
         return (
           <CategoryBadgeSelect
@@ -51,7 +59,7 @@ export function RuleCardCategoryRow({ path, deepestChildren, onSelect }: RuleCar
           const deepest = path[path.length - 1]
           if (deepest === undefined) return null
           const allName =
-            deepest.id === ALL_CATEGORIES_ID ? ALL_CATEGORIES_NODE.name : `All ${deepest.name}`
+            deepest.id === ALL_CATEGORIES_ID ? ALL_CATEGORIES_NODE.name : allOf(deepest.name)
           return (
             <CategoryBadgeSelect
               depth={path.length}
@@ -76,13 +84,14 @@ export function CategoryBadgeSelect({
   options: readonly { id: string; name: string }[]
   onSelect: (id: string) => void
 }) {
+  const phrases = useRuleCardPhrases()
   return (
     <div className="flex items-center gap-1">
       {depth > 0 && <ChevronRight className="size-3 text-tertiary" />}
       <Select value={selectedId ?? ""} onValueChange={onSelect}>
         <SelectTrigger hideChevron>
           <Badge variant="elevation-muted" className="shrink-0">
-            <SelectValue placeholder="Select Category" />
+            <SelectValue placeholder={titleIn(phrases, ruleCardCategoryRowSelect.key)} />
           </Badge>
         </SelectTrigger>
         <SelectContent>
