@@ -1,4 +1,4 @@
-import { existsSync } from "node:fs"
+import { accessSync, constants, existsSync } from "node:fs"
 import { module } from "akasha/code/module/module.page-type.ts"
 import {
   commandOf,
@@ -31,7 +31,12 @@ import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import { originSaid } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import {
+  originSaid,
+  type Writing,
+  writingFor,
+} from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { pageService } from "akasha/page/service/page-service.service-workstation.ts"
 
 const SERVICE_PAGE_TYPE = "service-workstation"
@@ -156,6 +161,35 @@ export function pagesOriginIn(pages: string | Reading): string | undefined {
 
 export function pagesOriginHere(): string | undefined {
   return originSaid() === null ? pagesOriginIn(akashaRoot()) : undefined
+}
+
+const READ_ONLY = "EROFS"
+
+export const CONFINED_SAID =
+  "the checkout is read-only in this call, so the call ran confined, and a confined call may not " +
+  "reach the pages service; run the akasha call alone on the line, with nothing else on it"
+
+export function checkoutReadOnly(root: string = akashaRoot()): boolean {
+  try {
+    accessSync(root, constants.W_OK)
+    return false
+  } catch (thrown) {
+    return (thrown as { readonly code?: unknown }).code === READ_ONLY
+  }
+}
+
+export type WritingHere = (asked: Writing) => Promise<Wrote>
+
+const overHttp: WritingHere = (asked) => writingFor(asked, undefined, undefined, pagesOriginHere())
+
+export async function writingHere(
+  asked: Writing,
+  sending: WritingHere = overHttp,
+  readOnly: () => boolean = checkoutReadOnly
+): Promise<Wrote> {
+  const wrote = await sending(asked)
+  if (!("refused" in wrote) || !readOnly()) return wrote
+  return { refused: `${CONFINED_SAID} — ${wrote.refused}` }
 }
 
 function serviceAt(

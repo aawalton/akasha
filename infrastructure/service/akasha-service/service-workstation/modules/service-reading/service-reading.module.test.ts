@@ -1,14 +1,18 @@
-import { expect, test } from "bun:test"
+import { afterAll, expect, test } from "bun:test"
 import { existsSync } from "node:fs"
 import { join } from "node:path"
 import { module } from "akasha/code/module/module.page-type.ts"
+import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import {
+  CONFINED_SAID,
+  checkoutReadOnly,
   everyService,
   pagesOriginIn,
   readFor,
   runnerCodeIn,
   serviceIn,
   systemdIn,
+  writingHere,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import { serviceReading } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.ts"
 import { serviceUnitText } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
@@ -215,4 +219,45 @@ test("every service there is read, and the one there today is among them", () =>
   expect("refused" in read).toBe(false)
   if ("refused" in read) return
   expect(read.services.map((one) => one.service.slug)).toContain("page-service")
+})
+
+const UNREACHED = "Unable to connect — 6 attempts reached http://127.0.0.1:8787/write"
+
+const ASKED = { writer: "a writer <a@b.c>", message: "a write" }
+
+test("a write refused where the checkout is read-only names the read-only checkout first", async () => {
+  const wrote = await writingHere(
+    ASKED,
+    async () => ({ refused: UNREACHED }),
+    () => true
+  )
+  expect(wrote).toEqual({ refused: `${CONFINED_SAID} — ${UNREACHED}` })
+})
+
+test("a write refused where the checkout can be written says only what the pages said", async () => {
+  const wrote = await writingHere(
+    ASKED,
+    async () => ({ refused: UNREACHED }),
+    () => false
+  )
+  expect(wrote).toEqual({ refused: UNREACHED })
+})
+
+test("a write that lands is answered as it landed, read-only checkout or not", async () => {
+  const landed = { commit: "abc", wrote: ["a.ts"], took: [] }
+  const wrote = await writingHere(
+    ASKED,
+    async () => landed,
+    () => true
+  )
+  expect(wrote).toBe(landed)
+})
+
+const SCRATCH = scratchWorld()
+
+afterAll(() => SCRATCH.sweep())
+
+test("a checkout that can be written, or is not there, is not read-only", () => {
+  expect(checkoutReadOnly(SCRATCH.rootFor("service-reading-"))).toBe(false)
+  expect(checkoutReadOnly("/nowhere-at-all")).toBe(false)
 })

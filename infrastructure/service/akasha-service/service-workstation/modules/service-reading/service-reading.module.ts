@@ -111,5 +111,14 @@ export const serviceReading = {
       decisionKind: "decision-kind/departure",
       statement: "Which caller wants that origin is nothing this module asks.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A write refused in a read-only checkout names that checkout before what the pages said.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A checkout is read-only only where the system says the file system is.",
+    },
   ],
 } as const satisfies Module

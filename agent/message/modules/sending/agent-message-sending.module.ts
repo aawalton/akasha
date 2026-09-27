@@ -46,6 +46,11 @@ export const agentMessageSending = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A message refused where the checkout is read-only names the read-only checkout first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller may put a pages writer of its own in place of the one reaching out.",
     },
     {
