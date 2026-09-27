@@ -6,18 +6,6 @@ import { ITEM_CATEGORY_TREE_FURNISHINGS_00 } from "akasha/temper/items/core/modu
 import { ITEM_CATEGORY_TREE_FURNISHINGS_01 } from "akasha/temper/items/core/modules/item-category-tree-furnishings-01/item-category-tree-furnishings-01.module.code.ts"
 import type { ItemCategoryTree } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 
-export const ITEM_CATEGORY_PRIORITY = [
-  "currency",
-  "companion",
-  "knowledge",
-  "tasks",
-  "consumables",
-  "equipment",
-  "crafting",
-  "furnishings",
-  "miscellaneous",
-] as const
-
 export const ITEM_CATEGORY_TREE = {
   "currency": ITEM_CATEGORY_TREE_ENTRIES_00.currency,
   "companion": ITEM_CATEGORY_TREE_ENTRIES_00.companion,

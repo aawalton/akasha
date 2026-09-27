@@ -1,14 +1,11 @@
 import { expect, test } from "bun:test"
 import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
-import {
-  ITEM_CATEGORY_PRIORITY,
-  ITEM_CATEGORY_TREE,
-} from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
+import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 
 const held = holdItemCategoryTreeFromCheckout()
 
 test("the roots read from the pages come in the order the code tree ranks them", () => {
-  expect(held.roots.map((one) => one.id)).toEqual([...ITEM_CATEGORY_PRIORITY])
+  expect(held.roots.map((one) => one.id)).toEqual(Object.keys(ITEM_CATEGORY_TREE))
 })
 
 test("the tree read from the pages is the code tree, branch for branch", () => {
