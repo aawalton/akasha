@@ -26,5 +26,6 @@ export const smilingjennyWebRoutes = {
     "route/jenny-sign-out",
     "route/jenny-surplus",
     "route/jenny-upkeep",
+    "route/jenny-no-such-page",
   ],
 } as const satisfies AppRoutes

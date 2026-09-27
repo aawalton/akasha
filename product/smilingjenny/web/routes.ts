@@ -25,4 +25,5 @@ export default [
   route("api/page-follow", "routes/jenny-api-page-follow/jenny-api-page-follow.route.code.ts"),
   route("api/page-types", "routes/jenny-api-page-types/jenny-api-page-types.route.code.ts"),
   route("api/pages/:pageTypeSlug", "routes/jenny-api-pages/jenny-api-pages.route.code.ts"),
+  route("*", "routes/jenny-no-such-page/jenny-no-such-page.route.code.ts"),
 ] satisfies RouteConfig
