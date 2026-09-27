@@ -133,6 +133,14 @@ export const otherwhereUniverse = {
       ],
     },
     {
+      fact: "Every scattered book Nala returns to its right shelf gives the Library a little power.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
       fact: "The Library's kitchen stores sacks of salt, but the kitchen sleeps until the Library has more power.",
       knowers: [
         "lore-disclosure/game-master",
