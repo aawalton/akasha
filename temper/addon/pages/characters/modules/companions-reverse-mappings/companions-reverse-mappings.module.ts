@@ -11,11 +11,11 @@ export const companionsReverseMappings = {
       decisionKind: "decision-kind/departure",
       statement: "An index outside the table reads back as the empty entry.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A trait, armor weight or weapon type index is held in place by the hash places its pages state.",
+    },
   ],
-  hashIndexed: [
-    "INDEX_TO_ARMOR_WEIGHT",
-    "INDEX_TO_TRAIT",
-    "INDEX_TO_WEAPON_TYPE",
-    "INDEX_TO_QUALITY_COLOR",
-  ],
+  hashIndexed: ["INDEX_TO_QUALITY_COLOR"],
 } as const satisfies Module
