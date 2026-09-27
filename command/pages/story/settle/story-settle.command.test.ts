@@ -8,6 +8,7 @@ import {
   type Reach,
   type Roll,
   rollsAt,
+  settledBefore,
   storySettle,
   type Turn,
   taken,
@@ -108,7 +109,14 @@ test("a call names the story, the check, what the check reads and the dice", () 
     check: "answering",
     reading: { asked: "a leap" },
     dice: "2d10",
+    turn: null,
+    drafts: false,
   })
+})
+
+test("a turn named by its address is taken as its slug", () => {
+  const argv = [...argvFor("answering"), "--turn", "story-turn-played/the-saga-00-001", "--draft"]
+  expect(taken(argv, CALLED)).toMatchObject({ turn: FIRST.slug, drafts: true })
 })
 
 test("a reading that is no keyed reading is refused", () => {
@@ -136,6 +144,8 @@ test("a call naming no dice is taken with none", () => {
     check: "diceless",
     reading: { asked: "a leap" },
     dice: null,
+    turn: null,
+    drafts: false,
   })
 })
 
@@ -181,4 +191,45 @@ test("a check no page names appends nothing", async () => {
 
 test("a story with no open turn appends nothing", async () => {
   expect(await settledBy("answering", reachOver([]))).toEqual([])
+})
+
+const HERS = '{"asked":"a leap","character":"character-other/her"}'
+
+function scoredArgv(reading: string, turn?: string): readonly string[] {
+  const argv = ["--story", "the-saga", "--check", "diceless", "--reading", reading]
+  return turn === undefined ? argv : [...argv, "--turn", turn]
+}
+
+test("a call naming a turn settles on that turn rather than the latest", async () => {
+  const argv = scoredArgv(HERS, `story-turn-played/${FIRST.slug}`)
+  const appended = await settledBy("diceless", reachOver([FIRST, LATEST]), argv)
+  expect(appended.map((one) => one.at)).toEqual([rollsAt(FIRST.at) ?? "no rolls"])
+})
+
+test("a call naming no turn of the story appends nothing", async () => {
+  const argv = scoredArgv(HERS, "the-saga-00-009")
+  expect(await settledBy("diceless", reachOver([FIRST, LATEST]), argv)).toEqual([])
+})
+
+test("a check that rolls nothing settles once on a turn for each character", async () => {
+  const at = rollsAt(LATEST.at)
+  if (at === null) throw new Error("a turn page has rolls beside it")
+  const was = { check: "world-check/diceless", reading: JSON.parse(HERS), answered: {} }
+  writeFileSync(join(ROOT, at), `${JSON.stringify(was)}\n`)
+  expect(await settledBy("diceless", reachOver([LATEST]), scoredArgv(HERS))).toEqual([])
+  const another = '{"asked":"a leap","character":"character-other/another"}'
+  expect(await settledBy("diceless", reachOver([LATEST]), scoredArgv(another))).toHaveLength(1)
+  rmSync(join(ROOT, at))
+})
+
+test("a roll with dice is never refused as settled before", () => {
+  const roll: Roll = {
+    check: "world-check/answering",
+    reading: {},
+    dice: { said: "2d10", sides: 10, faces: [1, 2] },
+    answered: {},
+  }
+  const kept = `${JSON.stringify({ check: "world-check/answering", reading: {} })}\n`
+  expect(settledBefore(kept, roll)).toBe(false)
+  expect(settledBefore(kept, { check: roll.check, reading: {}, answered: {} })).toBe(true)
 })

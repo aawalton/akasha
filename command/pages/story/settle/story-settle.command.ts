@@ -11,7 +11,7 @@ export const storySettle = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roll is settled on the latest open turn of the story named.",
+      statement: "A roll is settled on the turn named, or else on the story's latest open turn.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -46,6 +46,23 @@ export const storySettle = {
       decisionKind: "decision-kind/departure",
       statement: "A line settled with no dice states neither dice nor seed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A check that rolls nothing settles once on a turn for each `character` its readings name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A second such settling is refused and appends nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting call keeps its line beside the calling agent and commits nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting call reads the rolls as the calling agent's kept edits leave them.",
+    },
   ],
   name: "settle",
   arguments: [
@@ -53,5 +70,7 @@ export const storySettle = {
     { argument: "argument/settled-check", required: true },
     { argument: "argument/reading", required: true },
     { argument: "argument/dice", required: false },
+    { argument: "argument/played-turn", required: false },
+    { argument: "argument/draft" },
   ],
 } as const satisfies Command

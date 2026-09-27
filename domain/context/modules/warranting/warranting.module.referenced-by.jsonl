@@ -18,6 +18,7 @@
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/change/subagent/take/change-subagent-take.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/change/subagent/take/change-subagent-take.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/read/read.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"warranting.module.code.ts","path":"domain/context/modules/warrant-saying/warrant-saying.module.code.ts","typed":true,"deferred":false}

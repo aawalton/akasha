@@ -85,6 +85,7 @@
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/seat/messaged/seat-messaged.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/seat/send/seat-send.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/seat/supervisor/restart/seat-supervisor-restart.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/talos/apply/talos-apply.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"refusing.module.code.ts","path":"command/pages/talos/bootstrap/talos-bootstrap.command.code.ts","typed":false,"deferred":false}

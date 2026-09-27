@@ -3,13 +3,18 @@ import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import { appendLines } from "akasha/change/mechanical/file-content/append-lines/append-lines.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
+import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
+  type Asking,
+  foldedOver,
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
 import { dice as diceArgument } from "akasha/command/argument/pages/dice.argument.ts"
+import { draft as draftArgument } from "akasha/command/argument/pages/draft.argument.ts"
+import { playedTurn as turnArgument } from "akasha/command/argument/pages/played-turn.argument.ts"
 import { reading as readingArgument } from "akasha/command/argument/pages/reading.argument.ts"
 import { settledCheck as checkArgument } from "akasha/command/argument/pages/settled-check.argument.ts"
 import { story as storyArgument } from "akasha/command/argument/pages/story.argument.ts"
@@ -23,7 +28,14 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { noPageSaid } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
+import {
+  appending,
+  stamped,
+} from "akasha/command/modules/change-running/change-running.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { storySettle as page } from "akasha/command/pages/story/settle/story-settle.command.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
   listedAt,
   valuesOfType,
@@ -39,7 +51,14 @@ import { rolls } from "akasha/story/world/stories/played/turns/properties/rolls.
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { z } from "zod"
 
-const NAMED = [storyArgument, checkArgument, readingArgument, diceArgument] as const
+const NAMED = [
+  storyArgument,
+  checkArgument,
+  readingArgument,
+  diceArgument,
+  turnArgument,
+  draftArgument,
+] as const
 
 const APPEND = `${changeMechanicalFileContent.slug}/${appendLines.slug}` as const
 const SETTLED = "settled"
@@ -54,6 +73,11 @@ const TAB = "\t"
 const COLLECTIONS = "partOfCollections"
 const POSITION = "position"
 const SLUG = "slug"
+const PARTED = "/"
+const CHARACTER = "character"
+const CHECK = "check"
+const READING = "reading"
+const DICE = "dice"
 
 const READING_SAID = z.record(z.string(), z.unknown())
 
@@ -64,6 +88,8 @@ type Taken = {
   readonly check: string
   readonly reading: Record<string, unknown>
   readonly dice: string | null
+  readonly turn: string | null
+  readonly drafts: boolean
 }
 
 type Read = Taken | { readonly refused: string }
@@ -108,9 +134,18 @@ export function taken(argv: readonly string[], calledAs: string): Read {
   if (check === "") return { refused: `\`${checkArgument.said}\` names no check` }
   const dice = held.dice?.trim() ?? null
   if (dice === "") return { refused: `\`${diceArgument.said}\` names no dice` }
+  const turn = held.playedTurn?.trim() ?? null
+  if (turn === "") return { refused: `\`${turnArgument.said}\` names no turn` }
   const reading = readingIn(held.reading)
   if ("refused" in reading) return reading
-  return { story, check, reading: reading.answered, dice }
+  return {
+    story,
+    check,
+    reading: reading.answered,
+    dice,
+    turn: turn === null ? null : turn.slice(turn.lastIndexOf(PARTED) + 1),
+    drafts: held.draft,
+  }
 }
 
 export function turnsIndexed(root: string, story: string): readonly Turn[] {
@@ -165,11 +200,12 @@ export function seedAfter(before: string | null, turn: string): string {
 function castFor(
   root: string,
   turns: readonly Turn[],
-  latest: Turn,
+  on: Turn,
   dice: string | null
 ): Held<Cast | null> {
   if (dice === null) return { answered: null }
-  const seed = seedAfter(rollBefore(root, turns), latest.slug)
+  const before = turns.filter((one) => one.position <= on.position)
+  const seed = seedAfter(rollBefore(root, before), on.slug)
   const thrown = thrownFrom(seed, dice)
   if ("refused" in thrown) return thrown
   return { answered: { ...thrown.answered, seed } }
@@ -209,6 +245,112 @@ export function rowsOf(roll: Roll, turn: string, commit: string | null): readonl
   return rows
 }
 
+type Code = typeof DATA | typeof INPUT
+
+type Refusing = { readonly refused: string; readonly by: Code }
+
+type Placed = {
+  readonly turns: readonly Turn[]
+  readonly on: Turn
+  readonly at: string
+  readonly code: string
+}
+
+export function settledBefore(kept: string | null, roll: Roll): boolean {
+  if (kept === null || roll.dice !== undefined) return false
+  const whose = roll.reading[CHARACTER]
+  return kept
+    .split(BREAK)
+    .filter((one) => one.trim() !== "")
+    .some((one) => {
+      const was: unknown = JSON.parse(one)
+      if (!isRecord(was) || was[CHECK] !== roll.check || was[DICE] !== undefined) return false
+      const read = was[READING]
+      return isRecord(read) && read[CHARACTER] === whose
+    })
+}
+
+function placedFor(root: string, held: Taken, reach: Reach): Placed | Refusing {
+  const turns = reach.turnsOf(root, held.story)
+  const on =
+    held.turn === null
+      ? turns.toSorted((a, b) => a.position - b.position).at(-1)
+      : turns.find((one) => one.slug === held.turn)
+  if (on === undefined) {
+    const why =
+      held.turn === null
+        ? `\`${held.story}\` has no open turn here`
+        : `\`${held.turn}\` names no turn of \`${held.story}\` here`
+    return { refused: why, by: DATA }
+  }
+  const code = reach.settlingAt(root, held.check)
+  if (code === null) return { refused: `\`${held.check}\` names no check here`, by: DATA }
+  const at = rollsAt(on.at)
+  if (at === null) {
+    return { refused: `\`${on.at}\` is no page file, so no rolls sit beside it`, by: DATA }
+  }
+  return { turns, on, at, code }
+}
+
+async function rollMade(
+  root: string,
+  held: Taken,
+  placed: Placed,
+  keptAt: (path: string) => string | null
+): Promise<{ readonly roll: Roll } | Refusing> {
+  const cast = castFor(root, placed.turns, placed.on, held.dice)
+  if ("refused" in cast) return { refused: cast.refused, by: INPUT }
+  const thrown = cast.answered
+  const said = await settledAt(join(root, placed.code), held.reading, thrown?.roll ?? null)
+  if ("refused" in said) return { refused: said.refused, by: DATA }
+  const roll: Roll = {
+    check: `${worldCheck.slug}/${held.check}`,
+    reading: held.reading,
+    ...(thrown === null ? {} : { dice: thrown.dice, seed: thrown.seed }),
+    answered: said.answered,
+  }
+  if (settledBefore(keptAt(placed.at), roll)) {
+    const why = `\`${held.check}\` is settled on \`${placed.on.slug}\` already for this reading's \`${CHARACTER}\`, and a check that rolls nothing settles there once`
+    return { refused: why, by: DATA }
+  }
+  return { roll }
+}
+
+function appended(at: string, roll: Roll): Asking {
+  return { at: APPEND, given: { at, content: `${JSON.stringify(roll)}${BREAK}` } }
+}
+
+function onDisk(root: string): (path: string) => string | null {
+  return (path) => {
+    const at = join(root, path)
+    return statSync(at, { throwIfNoEntry: false }) === undefined ? null : readFileSync(at, UTF8)
+  }
+}
+
+async function drafted(held: Taken, placed: Placed, given: Given): Promise<Answer> {
+  const keeper = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+  if (keeper === null || editsAt(keeper) === null) {
+    return mistaking([noPageSaid(given.root, given.agentId)])
+  }
+  const why: { said: Refusing | null } = { said: null }
+  const made: { roll: Roll | null } = { roll: null }
+  const kept = await appending(given.root, keeper, given.agentId, false, async (world) => {
+    const rolled = await rollMade(given.root, held, placed, (path) => world.textOf(path))
+    if ("refused" in rolled) {
+      why.said = rolled
+      return { edits: [], refused: rolled.refused }
+    }
+    made.roll = rolled.roll
+    return stamped(await foldedOver(world, [appended(placed.at, rolled.roll)]), false, false)
+  })
+  if (why.said !== null) return refused(why.said.refused, why.said.by)
+  if (kept.code !== 0 || made.roll === null) return kept
+  return told([
+    ...rowsOf(made.roll, placed.on.slug, null),
+    `the edits are kept beside ${keeper}, and \`akasha change apply\` lands them`,
+  ])
+}
+
 async function settledOn(
   done: string[],
   argv: readonly string[],
@@ -218,33 +360,19 @@ async function settledOn(
 ): Promise<Answer> {
   const held = taken(argv, given.calledAs)
   if ("refused" in held) return refused(held.refused, INPUT)
-  const turns = reach.turnsOf(given.root, held.story)
-  const latest = turns.toSorted((a, b) => a.position - b.position).at(-1)
-  if (latest === undefined) return refused(`\`${held.story}\` has no open turn here`, DATA)
-  const code = reach.settlingAt(given.root, held.check)
-  if (code === null) return refused(`\`${held.check}\` names no check here`, DATA)
-  const at = rollsAt(latest.at)
-  if (at === null)
-    return refused(`\`${latest.at}\` is no page file, so no rolls sit beside it`, DATA)
-  const cast = castFor(given.root, turns, latest, held.dice)
-  if ("refused" in cast) return refused(cast.refused, INPUT)
-  const thrown = cast.answered
-  const said = await settledAt(join(given.root, code), held.reading, thrown?.roll ?? null)
-  if ("refused" in said) return refused(said.refused, DATA)
-  const roll: Roll = {
-    check: `${worldCheck.slug}/${held.check}`,
-    reading: held.reading,
-    ...(thrown === null ? {} : { dice: thrown.dice, seed: thrown.seed }),
-    answered: said.answered,
-  }
+  const placed = placedFor(given.root, held, reach)
+  if ("refused" in placed) return refused(placed.refused, placed.by)
+  if (held.drafts) return await drafted(held, placed, given)
+  const made = await rollMade(given.root, held, placed, onDisk(given.root))
+  if ("refused" in made) return refused(made.refused, made.by)
   const landed = await landing(
     given.root,
-    [{ at: APPEND, given: { at, content: `${JSON.stringify(roll)}${BREAK}` } }],
-    `settle ${held.check} on ${latest.slug}`,
+    [appended(placed.at, made.roll)],
+    `settle ${held.check} on ${placed.on.slug}`,
     { agentId: given.agentId, writer: given.writer, done }
   )
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
-  return told(rowsOf(roll, latest.slug, landed.commit))
+  return told(rowsOf(made.roll, placed.on.slug, landed.commit))
 }
 
 export async function storySettle(
