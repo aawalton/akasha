@@ -64,10 +64,7 @@ export const otherwhereMainHall = {
       fact: "The break room's door opens off the hall's left side, partway back along the columns.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The salt box is heavy, near twenty pounds, but she can carry it hugged in both arms.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "The break room's cupboards also hold chipped mugs, a dented tin scoop and a small bucket.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -151,7 +148,7 @@ export const otherwhereMainHall = {
     },
 
     {
-      fact: "The break room's cupboards hold a large box of salt, which never spoils.",
+      fact: "The break room's large box of salt, which never spoils, is now empty.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
@@ -171,14 +168,7 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "Nala set the salt box down on the floor where the hall's gold light thins into gloom.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "Nala took the dented tin scoop from the break room; it holds a good fistful of salt.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
