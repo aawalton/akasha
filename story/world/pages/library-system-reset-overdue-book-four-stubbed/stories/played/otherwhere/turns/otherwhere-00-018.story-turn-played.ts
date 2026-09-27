@@ -11,7 +11,7 @@ export const otherwhere00018 = {
   position: 18,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“Fine. In the future, please give me the information I need and not just what I ask for, please.” I go and get the broom, dump out the whole box of salt at the entrance, then start sweeping it outward, keeping a solid perimeter the whole time.",
   beats: [
@@ -29,5 +29,5 @@ export const otherwhere00018 = {
   ],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
