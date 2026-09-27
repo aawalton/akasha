@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"page/service/modules/page-reading/page-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"page/service/modules/read-answering/read-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test.ts","typed":false,"deferred":false}
@@ -25,6 +26,8 @@
 {"propertySlug":"import","fileName":"lore-withholding.module.test-fixtures.ts","path":"command/pages/read/modules/lore-barring/lore-barring.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.test-fixtures.ts","path":"page/service/modules/page-reading/page-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.test-fixtures.ts","path":"page/service/modules/page-serving/page-serving.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lore-withholding.module.test-fixtures.ts","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.test-fixtures.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lore-withholding.module.test-fixtures.ts","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.test-fixtures.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lore-withholding.module.test-fixtures.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}

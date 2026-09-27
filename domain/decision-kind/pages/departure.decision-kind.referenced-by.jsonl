@@ -3695,6 +3695,7 @@
 {"propertySlug":"decision-kind","path":"story/engine/narrative-story-turn-promotion/narrative-story-turn-promotion.domain.ts","id":"01a0675b-16f4-75bf-bef9-7a513c9dd7d7"}
 {"propertySlug":"decision-kind","path":"story/engine/story-engine.domain.ts","id":"01a06280-e122-7ba3-844e-c8a0f133106d"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
+{"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.ts","id":"01a0e337-29f5-7855-af44-8e1c85997314"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.ts","id":"01a0da6b-b93f-789a-a8cd-4da980b5664a"}
 {"propertySlug":"decision-kind","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.ts","id":"01a0d486-426b-7e79-bb02-c10a0233e201"}
 {"propertySlug":"decision-kind","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}

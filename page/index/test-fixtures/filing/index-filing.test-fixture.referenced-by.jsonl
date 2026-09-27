@@ -109,6 +109,7 @@
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"page/type/modules/descent/page-type-descent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"page/type/modules/type-turning/type-turning.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"story/lore-disclosure/modules/lore-rereading/lore-rereading.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"index-filing.test-fixture.code.ts","path":"temper/addon/build/modules/addon-compiler-config/addon-compiler-config.module.test.ts","typed":false,"deferred":false}
