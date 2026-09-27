@@ -4,10 +4,17 @@ export const otherwhere00015 = {
   id: "01a0e496-745a-7809-8f3b-2411a6882500",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-015",
+  ownLength: 193,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 15,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-alan",
+    "character-other/otherwhere-links",
+    "character-other/otherwhere-engorged-bookworm-01",
+  ],
+  turnStatus: "turn-status/reviewers",
   action: "I push it over onto the salt and hold it there",
   beats: [
     "She drops down and grabs the bookworm behind its head, where the salt has dried its skin rough.",
