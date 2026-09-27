@@ -7,7 +7,8 @@ export const theDatingGame00006 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 6,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     "\"This side path will take us up to Khyv peak. It's a bit of a longer hike, about two and a half hours from canyon entrance to the top, but the views are great. It's a little harder on conversations though, since the trail is narrower, so I'm thinking lets stay on the main trail for now. The main trail also has the best drinking fountains, fresh cold mountain spring water.\"",
+  lore: ["place/the-dating-game-rock-canyon"],
 } as const satisfies StoryTurnPlayed
