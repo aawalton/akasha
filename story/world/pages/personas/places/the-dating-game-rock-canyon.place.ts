@@ -115,5 +115,9 @@ export const theDatingGameRockCanyon = {
         "character-other/the-dating-game-echo",
       ],
     },
+    {
+      fact: "Up the main trail an overlook opens west over the valley, fall colors scattered in the trees.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Place

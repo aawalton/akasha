@@ -132,5 +132,13 @@ export const theDatingGameAlan = {
       fact: "Alan is considering making his own AI-voiced narration of The Wandering Inn.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
     },
+    {
+      fact: "Alan owns physical copies of The Wandering Inn.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Alan's house has an empty spare room.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore
