@@ -6,4 +6,11 @@ export const useDestinationOptions = {
   slug: "use-destination-options",
   definition: "the destinations a rule may send an item to",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A destination a venue or location type page names is labelled by that page's title.",
+    },
+  ],
 } as const satisfies Module

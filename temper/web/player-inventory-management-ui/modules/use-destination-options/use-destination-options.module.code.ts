@@ -1,11 +1,15 @@
 "use client"
 
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { temperLocationType } from "akasha/temper/catalog/world/temper-location-type/temper-location-type.page-type.ts"
+import { titleOf } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import type {
   DestinationCategory,
   MoveToDestination,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { useMemo } from "react"
@@ -32,10 +36,14 @@ export function useDestinationOptions(): DestinationOptions {
   const userId = useUserId()
   const { inventory } = useInventory(userId)
   const { managedSet } = useManagedGuildBanks()
+  const venues = useKeyedTitles(temperVenue.slug)
+  const places = useKeyedTitles(temperLocationType.slug)
 
   return useMemo(() => {
+    const venueTitle = (key: string): string => (venues === null ? key : titleOf(venues, key))
+    const placeTitle = (key: string): string => (places === null ? key : titleOf(places, key))
     const groups: DestinationCategoryGroup[] = [
-      { category: "bank", label: "Bank", items: [], defaultValue: "bank" },
+      { category: "bank", label: venueTitle("bank"), items: [], defaultValue: "bank" },
       { category: "craft-bag", label: "Craft Bag", items: [], defaultValue: "craft-bag" },
     ]
 
@@ -73,12 +81,14 @@ export function useDestinationOptions(): DestinationOptions {
     }
     groups.push({
       category: "guild-bank",
-      label: "Guild Bank",
+      label: venueTitle("guild-bank"),
       items: guildItems,
       defaultValue: "guild-bank",
     })
 
-    const cofferItems: DestinationItem[] = [{ value: "furniture-vault", label: "Furniture Vault" }]
+    const cofferItems: DestinationItem[] = [
+      { value: "furniture-vault", label: venueTitle("furniture-vault") },
+    ]
     if (locations) {
       for (const [key, loc] of Object.entries(locations)) {
         if (!key.startsWith("HouseBank:")) continue
@@ -94,7 +104,7 @@ export function useDestinationOptions(): DestinationOptions {
     }
     groups.push({
       category: "housing-storage",
-      label: "Housing Storage",
+      label: placeTitle("housing-storage"),
       items: cofferItems,
       defaultValue: "house-storage",
     })
@@ -115,5 +125,5 @@ export function useDestinationOptions(): DestinationOptions {
     }
 
     return { groups, getCategoryFor, getDefaultForCategory }
-  }, [inventory, managedSet])
+  }, [inventory, managedSet, venues, places])
 }
