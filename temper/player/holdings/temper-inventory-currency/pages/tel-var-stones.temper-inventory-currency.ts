@@ -7,4 +7,6 @@ export const telVarStones = {
   title: "Tel Var Stones",
   key: "telvarStones",
   displayOrder: 2,
+  esoCurrencyConstant: "CURT_TELVAR_STONES",
+  bankable: true,
 } as const satisfies TemperInventoryCurrency

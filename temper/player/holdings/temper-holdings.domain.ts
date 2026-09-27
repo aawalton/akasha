@@ -11,6 +11,7 @@ export const temperHoldings = {
     "page-type/temper-holdings-thing",
     "page-type/temper-inventory-currency",
     "page-type/temper-item-category-tree",
+    "page-type/temper-location-view",
     "page-type/temper-net-worth-hour",
     "page-type/temper-sale",
   ],

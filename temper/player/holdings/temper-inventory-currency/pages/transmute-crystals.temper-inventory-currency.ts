@@ -7,4 +7,5 @@ export const transmuteCrystals = {
   title: "Transmute Crystals",
   key: "transmuteCrystals",
   displayOrder: 3,
+  esoCurrencyConstant: "CURT_TRANSMUTE_CRYSTALS",
 } as const satisfies TemperInventoryCurrency

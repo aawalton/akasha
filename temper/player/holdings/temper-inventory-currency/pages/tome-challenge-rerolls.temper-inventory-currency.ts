@@ -7,4 +7,5 @@ export const tomeChallengeRerolls = {
   title: "Tome Challenge Rerolls",
   key: "tomeChallengeRerolls",
   displayOrder: 15,
+  esoCurrencyConstant: "CURT_TOME_CHALLENGE_REROLLS",
 } as const satisfies TemperInventoryCurrency

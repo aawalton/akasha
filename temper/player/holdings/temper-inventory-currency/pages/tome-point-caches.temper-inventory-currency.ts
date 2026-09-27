@@ -7,4 +7,5 @@ export const tomePointCaches = {
   title: "Tome Point Caches",
   key: "tomePointCaches",
   displayOrder: 13,
+  esoCurrencyConstant: "CURT_TOME_POINT_CACHES",
 } as const satisfies TemperInventoryCurrency

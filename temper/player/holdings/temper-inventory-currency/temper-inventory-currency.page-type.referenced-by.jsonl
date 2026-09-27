@@ -1,9 +1,11 @@
+{"propertySlug":"import","fileName":"temper-inventory-currency.page-type.ts","path":"temper/addon/pages/items/modules/inventory-currency/inventory-currency.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.ts","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-type-data-content/inventory-type-data-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.ts","path":"temper/web/routes/inventory/inventory.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-inventory-currency.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-currency/inventory-currency.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.types.ts","path":"temper/player/holdings/temper-inventory-currency/pages/alliance-points.temper-inventory-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.types.ts","path":"temper/player/holdings/temper-inventory-currency/pages/archival-fortunes.temper-inventory-currency.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-inventory-currency.page-type.types.ts","path":"temper/player/holdings/temper-inventory-currency/pages/crown-gems.temper-inventory-currency.ts","typed":true,"deferred":false}

@@ -7,4 +7,5 @@ export const undauntedKeys = {
   title: "Undaunted Keys",
   key: "undauntedKeys",
   displayOrder: 7,
+  esoCurrencyConstant: "CURT_UNDAUNTED_KEYS",
 } as const satisfies TemperInventoryCurrency

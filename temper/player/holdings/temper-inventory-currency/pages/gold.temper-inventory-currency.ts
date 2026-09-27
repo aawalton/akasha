@@ -7,4 +7,6 @@ export const gold = {
   title: "Gold",
   key: "gold",
   displayOrder: 0,
+  esoCurrencyConstant: "CURT_MONEY",
+  bankable: true,
 } as const satisfies TemperInventoryCurrency

@@ -7,4 +7,5 @@ export const archivalFortunes = {
   title: "Archival Fortunes",
   key: "archivalFortunes",
   displayOrder: 10,
+  esoCurrencyConstant: "CURT_ARCHIVAL_FORTUNES",
 } as const satisfies TemperInventoryCurrency

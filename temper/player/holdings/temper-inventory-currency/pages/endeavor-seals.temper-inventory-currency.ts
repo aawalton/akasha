@@ -7,4 +7,5 @@ export const endeavorSeals = {
   title: "Endeavor Seals",
   key: "endeavorSeals",
   displayOrder: 6,
+  esoCurrencyConstant: "CURT_SEALS",
 } as const satisfies TemperInventoryCurrency

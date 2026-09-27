@@ -7,4 +7,5 @@ export const tradeBars = {
   title: "Trade Bars",
   key: "tradeBars",
   displayOrder: 11,
+  esoCurrencyConstant: "CURT_TRADE_BARS",
 } as const satisfies TemperInventoryCurrency

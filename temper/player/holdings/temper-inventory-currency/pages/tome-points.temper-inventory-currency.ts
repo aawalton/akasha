@@ -7,4 +7,5 @@ export const tomePoints = {
   title: "Tome Points",
   key: "tomePoints",
   displayOrder: 12,
+  esoCurrencyConstant: "CURT_TOME_POINTS",
 } as const satisfies TemperInventoryCurrency

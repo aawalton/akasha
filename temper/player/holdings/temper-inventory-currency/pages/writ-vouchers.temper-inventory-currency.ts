@@ -7,4 +7,6 @@ export const writVouchers = {
   title: "Writ Vouchers",
   key: "writVouchers",
   displayOrder: 4,
+  esoCurrencyConstant: "CURT_WRIT_VOUCHERS",
+  bankable: true,
 } as const satisfies TemperInventoryCurrency

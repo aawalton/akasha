@@ -7,4 +7,6 @@ export const alliancePoints = {
   title: "Alliance Points",
   key: "alliancePoints",
   displayOrder: 1,
+  esoCurrencyConstant: "CURT_ALLIANCE_POINTS",
+  bankable: true,
 } as const satisfies TemperInventoryCurrency

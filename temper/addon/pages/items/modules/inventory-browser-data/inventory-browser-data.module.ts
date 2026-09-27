@@ -6,4 +6,11 @@ export const inventoryBrowserData = {
   slug: "inventory-browser-data",
   definition: "the rows the cross-character browser shows, built from every saved location",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The fixed location views are written from the location view pages as the addon compiles.",
+    },
+  ],
 } as const satisfies Module

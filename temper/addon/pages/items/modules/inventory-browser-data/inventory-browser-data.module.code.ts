@@ -13,29 +13,51 @@ import {
   getLocationDisplayName,
   type LocationTypeId,
 } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { temperLocationView } from "akasha/temper/player/holdings/temper-location-view/temper-location-view.page-type.ts"
+import type { TemperLocationView } from "akasha/temper/player/holdings/temper-location-view/temper-location-view.page-type.types.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
-const FIXED_LOCATION_VIEWS: readonly (readonly [FixedLocationViewId, string])[] = [
-  ["all", "All"],
-  ["allBanks", "All Banks"],
-  ["allGuildBanks", "All Guild Banks"],
-  ["allCharacters", "All Characters"],
-  ["allCompanions", "All Companions"],
-  ["allEquipped", "All Equipped"],
-  ["allStorage", "All Storage"],
-  ["everything", "Everything"],
-  ["bankOnly", "Bank Only"],
-  ["bankAndCharacters", "Bank + Characters"],
-  ["bankCurrentCharacter", "Bank + Current Character"],
-  ["bankOtherCharacters", "Bank + Other Characters"],
-  ["craftBag", "Craft Bag"],
-  ["housingStorage", "Housing Storage"],
-  ["allHouses", "All Houses"],
-]
+const FIXED_VIEW_IDS: Record<FixedLocationViewId, true> = {
+  all: true,
+  allBanks: true,
+  allGuildBanks: true,
+  allCharacters: true,
+  allCompanions: true,
+  allEquipped: true,
+  allStorage: true,
+  everything: true,
+  bankOnly: true,
+  bankAndCharacters: true,
+  bankCurrentCharacter: true,
+  bankOtherCharacters: true,
+  craftBag: true,
+  housingStorage: true,
+  allHouses: true,
+}
+
+function isFixedLocationViewId(value: string): value is FixedLocationViewId {
+  return value in FIXED_VIEW_IDS
+}
+
+type ViewRow = Pick<TemperLocationView, "key" | "title" | "displayOrder">
+
+function fixedLocationViews(this: void): readonly (readonly [FixedLocationViewId, string])[] {
+  const rows: ViewRow[] = []
+  for (const one of $pagesOfType<ViewRow>(temperLocationView)) rows.push(one)
+  rows.sort((one, two) => one.displayOrder - two.displayOrder)
+  const views: (readonly [FixedLocationViewId, string])[] = []
+  for (const one of rows) {
+    if (isFixedLocationViewId(one.key)) views.push([one.key, one.title ?? one.key])
+  }
+  return views
+}
+
+let heldViews: readonly (readonly [FixedLocationViewId, string])[] | undefined
 
 function dynamicKindForLocationType(locationType: LocationTypeId): LocationViewKind | undefined {
   switch (locationType) {
@@ -107,7 +129,8 @@ export function buildBrowserRows(this: void): BrowserRow[] {
 export function collectLocationOptions(this: void): LocationViewOption[] {
   const options: LocationViewOption[] = []
 
-  for (const [fixedId, label] of FIXED_LOCATION_VIEWS) {
+  if (heldViews === undefined) heldViews = fixedLocationViews()
+  for (const [fixedId, label] of heldViews) {
     options.push({ label, kind: "fixed", fixedId })
   }
 

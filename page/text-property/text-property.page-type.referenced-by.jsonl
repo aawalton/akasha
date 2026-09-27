@@ -619,6 +619,7 @@
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/set-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/temper-mine/properties/trait-description.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/character/thing/properties/target-build-id.text-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/holdings/temper-inventory-currency/properties/eso-currency-constant.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/holdings/temper-item-category-tree/properties/item-name-contains.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/holdings/temper-sale/properties/buyer-name.text-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"text-property.page-type.types.ts","path":"temper/player/holdings/temper-sale/properties/item-name.text-property.ts","typed":true,"deferred":false}

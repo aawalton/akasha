@@ -8,34 +8,29 @@ import type {
   InventoryCurrencies,
 } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { requireNumericKey } from "akasha/temper/addon/shared/narrow/modules/require-numeric-key/require-numeric-key.module.code.ts"
+import { temperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
+import type { TemperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.types.ts"
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-06/eso-enums-06.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 
+declare const _G: Record<string, number | undefined>
+
+type CurrencyRow = Pick<TemperInventoryCurrency, "key" | "esoCurrencyConstant" | "bankable">
+
 const CURRENCY_MAP: Record<number, string> = {}
-if (CURT_MONEY !== undefined) CURRENCY_MAP[CURT_MONEY] = "gold"
-if (CURT_ALLIANCE_POINTS !== undefined) CURRENCY_MAP[CURT_ALLIANCE_POINTS] = "alliancePoints"
-if (CURT_TELVAR_STONES !== undefined) CURRENCY_MAP[CURT_TELVAR_STONES] = "telvarStones"
-if (CURT_WRIT_VOUCHERS !== undefined) CURRENCY_MAP[CURT_WRIT_VOUCHERS] = "writVouchers"
-if (CURT_TRANSMUTE_CRYSTALS !== undefined)
-  CURRENCY_MAP[CURT_TRANSMUTE_CRYSTALS] = "transmuteCrystals"
-if (CURT_SEALS !== undefined) CURRENCY_MAP[CURT_SEALS] = "endeavorSeals"
-if (CURT_UNDAUNTED_KEYS !== undefined) CURRENCY_MAP[CURT_UNDAUNTED_KEYS] = "undauntedKeys"
-if (CURT_CROWNS !== undefined) CURRENCY_MAP[CURT_CROWNS] = "crowns"
-if (CURT_CROWN_GEMS !== undefined) CURRENCY_MAP[CURT_CROWN_GEMS] = "crownGems"
-if (CURT_ARCHIVAL_FORTUNES !== undefined) CURRENCY_MAP[CURT_ARCHIVAL_FORTUNES] = "archivalFortunes"
-if (CURT_TRADE_BARS !== undefined) CURRENCY_MAP[CURT_TRADE_BARS] = "tradeBars"
-if (CURT_TOME_POINTS !== undefined) CURRENCY_MAP[CURT_TOME_POINTS] = "tomePoints"
-if (CURT_TOME_POINT_CACHES !== undefined) CURRENCY_MAP[CURT_TOME_POINT_CACHES] = "tomePointCaches"
-if (CURT_TOME_TOKENS !== undefined) CURRENCY_MAP[CURT_TOME_TOKENS] = "tomeTokens"
-if (CURT_TOME_CHALLENGE_REROLLS !== undefined)
-  CURRENCY_MAP[CURT_TOME_CHALLENGE_REROLLS] = "tomeChallengeRerolls"
 
 const BANKABLE_CURRENCIES: number[] = []
-if (CURT_MONEY !== undefined) BANKABLE_CURRENCIES.push(CURT_MONEY)
-if (CURT_ALLIANCE_POINTS !== undefined) BANKABLE_CURRENCIES.push(CURT_ALLIANCE_POINTS)
-if (CURT_TELVAR_STONES !== undefined) BANKABLE_CURRENCIES.push(CURT_TELVAR_STONES)
-if (CURT_WRIT_VOUCHERS !== undefined) BANKABLE_CURRENCIES.push(CURT_WRIT_VOUCHERS)
+
+for (const one of $pagesOfType<CurrencyRow>(temperInventoryCurrency)) {
+  const name = one.esoCurrencyConstant
+  const curt = name === undefined ? undefined : _G[name]
+  if (curt !== undefined) {
+    CURRENCY_MAP[curt] = one.key
+    if (one.bankable === true) BANKABLE_CURRENCIES.push(curt)
+  }
+}
 
 function ensureCurrencies(): InventoryCurrencies {
   const db = getDatabase()

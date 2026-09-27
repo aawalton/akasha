@@ -7,4 +7,5 @@ export const crowns = {
   title: "Crowns",
   key: "crowns",
   displayOrder: 8,
+  esoCurrencyConstant: "CURT_CROWNS",
 } as const satisfies TemperInventoryCurrency
