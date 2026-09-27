@@ -20,9 +20,5 @@ export const searchPageOptions = {
       decisionKind: "decision-kind/absence",
       statement: "A page numbered 0, or stating no number or no title, is no option.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "An option the game names apart from its page's title is offered by that name.",
-    },
   ],
 } as const satisfies Module
