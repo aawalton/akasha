@@ -5,6 +5,8 @@ export const stagsOfZen = {
   type: "page-type/temper-motif-style",
   slug: "stags-of-zen",
   title: "Stags of Z'en",
+  esoItemStyleId: 89,
+  styleName: "Stags of Z'en",
   collectionIndex: 63,
   sourceDescription: "Lair of Maarselok dungeon",
 } as const satisfies TemperMotifStyle
