@@ -19,5 +19,9 @@ export const theDatingGameByuStreamTrail = {
       fact: "On a Saturday afternoon the stream trail is nearly empty.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "From the stream trail, campus buildings show now and then up through the trees.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Place
