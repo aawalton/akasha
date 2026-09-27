@@ -6,4 +6,10 @@ export const companionsLeaderboardTab = {
   slug: "companions-leaderboard-tab",
   definition: "the tab holding companion leaderboards",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

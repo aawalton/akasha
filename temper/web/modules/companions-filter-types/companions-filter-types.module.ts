@@ -15,5 +15,9 @@ export const companionsFilterTypes = {
       decisionKind: "decision-kind/absence",
       statement: "A gear rule the shopping page narrows a query by is no companion filter.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The target filters' names and choices are web phrase pages.",
+    },
   ],
 } as const satisfies Module

@@ -18,7 +18,22 @@ import type {
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { companionBaseRoles } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import { companions } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import { targetArmorItems } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
+import {
+  TARGET_FILTER_LABELS,
+  targetArmorItems,
+  targetCountItems,
+  targetHealthItems,
+} from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
+import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionsFilterBarCompanion } from "akasha/temper/web/phrase/pages/companions-filter-bar-companion.temper-web-phrase.ts"
+import { companionsFilterBarName } from "akasha/temper/web/phrase/pages/companions-filter-bar-name.temper-web-phrase.ts"
+import { companionsFilterBarRecent } from "akasha/temper/web/phrase/pages/companions-filter-bar-recent.temper-web-phrase.ts"
+import { companionsFilterBarRole } from "akasha/temper/web/phrase/pages/companions-filter-bar-role.temper-web-phrase.ts"
+import { companionsFilterBarScore } from "akasha/temper/web/phrase/pages/companions-filter-bar-score.temper-web-phrase.ts"
+import { companionsFilterBarSearch } from "akasha/temper/web/phrase/pages/companions-filter-bar-search.temper-web-phrase.ts"
 import { useEffect, useState } from "react"
 
 export type SortField = "updated" | "name" | "score"
@@ -46,11 +61,12 @@ interface FilterPopoverProps {
   onTargetCountChange: (value: string | null) => void
   selectedTargetHealth: string | null
   onTargetHealthChange: (value: string | null) => void
+  phrase: Phrase
 }
 
 interface CompanionFilterDef {
   id: FilterId
-  label: string
+  label: { readonly slug: string }
   hasValue: (props: FilterPopoverProps) => boolean
   available?: (props: FilterPopoverProps) => boolean
   clearValue: (props: FilterPopoverProps) => void
@@ -61,34 +77,26 @@ function roleItems(): BadgeToggleGroupItem[] {
   return companionBaseRoles().map((role) => ({ value: role.id, label: role.name }))
 }
 
-const TARGET_COUNT_ITEMS: BadgeToggleGroupItem[] = [
-  { value: "1", label: "Single Target" },
-  { value: "3", label: "AOE" },
-]
-
-const TARGET_HEALTH_ITEMS: BadgeToggleGroupItem[] = [
-  { value: "full", label: "Full" },
-  { value: "execute", label: "Execute" },
-]
-
 function companionItems(): BadgeToggleGroupItem[] {
   return companions()
     .list.filter((companion) => companion.id !== "no-companion")
     .map((companion) => ({ value: companion.id, label: requireFirst(companion.name.split(" ")) }))
 }
 
-const SORT_OPTIONS: SortOption<SortField>[] = [
-  { value: "updated", label: "Recent", defaultDirection: "desc" },
-  { value: "name", label: "Name", defaultDirection: "asc" },
-  { value: "score", label: "Score", defaultDirection: "desc" },
-]
+function sortOptions(phrase: Phrase): SortOption<SortField>[] {
+  return [
+    { value: "updated", label: phrase(companionsFilterBarRecent.slug), defaultDirection: "desc" },
+    { value: "name", label: phrase(companionsFilterBarName.slug), defaultDirection: "asc" },
+    { value: "score", label: phrase(companionsFilterBarScore.slug), defaultDirection: "desc" },
+  ]
+}
 
 const hasDps = (props: FilterPopoverProps) => props.selectedRoles.includes("dps")
 
 const COMPANION_FILTERS: CompanionFilterDef[] = [
   {
     id: "role",
-    label: "Role",
+    label: companionsFilterBarRole,
     hasValue: (props) => props.selectedRoles.length > 0,
     clearValue: (props) => props.onRolesChange([]),
     renderGroup: (props) => {
@@ -107,7 +115,7 @@ const COMPANION_FILTERS: CompanionFilterDef[] = [
   },
   {
     id: "target-armor",
-    label: "Target Armor",
+    label: TARGET_FILTER_LABELS["target-armor"],
     available: hasDps,
     hasValue: (props) => props.selectedTargetArmor !== null,
     clearValue: (props) => props.onTargetArmorChange(null),
@@ -136,7 +144,7 @@ const COMPANION_FILTERS: CompanionFilterDef[] = [
   },
   {
     id: "target-count",
-    label: "Target Count",
+    label: TARGET_FILTER_LABELS["target-count"],
     available: hasDps,
     hasValue: (props) => props.selectedTargetCount !== null,
     clearValue: (props) => props.onTargetCountChange(null),
@@ -151,7 +159,7 @@ const COMPANION_FILTERS: CompanionFilterDef[] = [
       }
       return (
         <BadgeToggleGroup
-          items={TARGET_COUNT_ITEMS}
+          items={targetCountItems(props.phrase)}
           value={
             props.selectedTargetCount != null
               ? [{ value: props.selectedTargetCount, label: "" }]
@@ -165,7 +173,7 @@ const COMPANION_FILTERS: CompanionFilterDef[] = [
   },
   {
     id: "target-health",
-    label: "Target Health",
+    label: TARGET_FILTER_LABELS["target-health"],
     available: hasDps,
     hasValue: (props) => props.selectedTargetHealth !== null,
     clearValue: (props) => props.onTargetHealthChange(null),
@@ -180,7 +188,7 @@ const COMPANION_FILTERS: CompanionFilterDef[] = [
       }
       return (
         <BadgeToggleGroup
-          items={TARGET_HEALTH_ITEMS}
+          items={targetHealthItems(props.phrase)}
           value={
             props.selectedTargetHealth != null
               ? [{ value: props.selectedTargetHealth, label: "" }]
@@ -194,7 +202,7 @@ const COMPANION_FILTERS: CompanionFilterDef[] = [
   },
   {
     id: "companion",
-    label: "Companion",
+    label: companionsFilterBarCompanion,
     hasValue: (props) => props.selectedCompanion !== null,
     clearValue: (props) => props.onCompanionChange(null),
     renderGroup: (props) => {
@@ -260,7 +268,9 @@ export function CompanionsFilterBar({
   hasActiveFilters,
   onReset,
 }: CompanionsFilterBarProps) {
+  const phrase = usePhrase()
   const popoverProps: FilterPopoverProps = {
+    phrase,
     selectedRoles,
     onRolesChange,
     selectedCompanion,
@@ -340,10 +350,14 @@ export function CompanionsFilterBar({
 
   return (
     <SearchSortFilterRow hasActiveFilters={hasActiveFilters} onReset={onReset}>
-      <SearchButton value={search} onChange={onSearchChange} placeholder="Search builds..." />
+      <SearchButton
+        value={search}
+        onChange={onSearchChange}
+        placeholder={phrase(companionsFilterBarSearch.slug)}
+      />
 
       <SortButton
-        options={SORT_OPTIONS}
+        options={sortOptions(phrase)}
         sorts={[{ field: sortBy, direction: sortDirection }]}
         onSortsChange={(sorts) => {
           const first = sorts[0]
@@ -355,21 +369,24 @@ export function CompanionsFilterBar({
       <FilterButton
         hasActiveFilters={hasActivePopoverFilters || addedFilters.size > 0}
         popoverClassName="max-w-panel"
-        emptySelectOptions={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+        emptySelectOptions={availableFilters.map((f) => ({
+          id: f.id,
+          label: phrase(f.label.slug),
+        }))}
         onEmptySelect={handleAdd}
       >
         <div className="flex flex-col gap-3">
           {visibleFilters.map((filterDef) => (
             <FilterGroup
               key={filterDef.id}
-              label={filterDef.label}
+              label={phrase(filterDef.label.slug)}
               onRemove={() => handleRemove(filterDef.id)}
             >
               {filterDef.renderGroup(popoverProps)}
             </FilterGroup>
           ))}
           <AddFilterButton
-            options={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+            options={availableFilters.map((f) => ({ id: f.id, label: phrase(f.label.slug) }))}
             onAdd={handleAdd}
           />
         </div>

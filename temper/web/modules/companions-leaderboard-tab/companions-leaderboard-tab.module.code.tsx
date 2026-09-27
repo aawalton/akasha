@@ -18,10 +18,16 @@ import type {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-leaderboard/companion-leaderboard.module.code.ts"
 import { CompanionLeaderboardContent } from "akasha/temper/web/modules/companion-leaderboard-content/companion-leaderboard-content.module.code.tsx"
 import {
-  LEADERBOARD_TARGET_COUNT_ITEMS,
-  LEADERBOARD_TARGET_HEALTH_ITEMS,
+  TARGET_FILTER_LABELS,
   targetArmorItems,
+  targetCountItems,
+  targetHealthItems,
 } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
+import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionsLeaderboardTabRank } from "akasha/temper/web/phrase/pages/companions-leaderboard-tab-rank.temper-web-phrase.ts"
 import { useCallback, useState } from "react"
 
 type FilterId = "target-armor" | "target-count" | "target-health"
@@ -36,15 +42,15 @@ function isFilterId(id: string): id is FilterId {
 
 interface FilterDef {
   id: FilterId
-  label: string
+  label: { readonly slug: string }
   hasValue: (props: CompanionsLeaderboardTabProps) => boolean
-  renderGroup: (props: CompanionsLeaderboardTabProps) => React.ReactNode
+  renderGroup: (props: CompanionsLeaderboardTabProps, phrase: Phrase) => React.ReactNode
 }
 
 const LEADERBOARD_FILTERS: FilterDef[] = [
   {
     id: "target-armor",
-    label: "Target Armor",
+    label: TARGET_FILTER_LABELS["target-armor"],
     hasValue: ({ leaderboardTargetArmor }) => leaderboardTargetArmor !== null,
     renderGroup: ({ leaderboardTargetArmor, onLeaderboardFilterChange }) => {
       function handleSelect(items: readonly BadgeToggleGroupItem[]) {
@@ -69,9 +75,9 @@ const LEADERBOARD_FILTERS: FilterDef[] = [
   },
   {
     id: "target-count",
-    label: "Target Count",
+    label: TARGET_FILTER_LABELS["target-count"],
     hasValue: ({ leaderboardTargetCount }) => leaderboardTargetCount !== null,
-    renderGroup: ({ leaderboardTargetCount, onLeaderboardFilterChange }) => {
+    renderGroup: ({ leaderboardTargetCount, onLeaderboardFilterChange }, phrase) => {
       function handleSelect(items: readonly BadgeToggleGroupItem[]) {
         if (items.length === 0) {
           onLeaderboardFilterChange({ leaderboardTargetCount: null })
@@ -82,7 +88,7 @@ const LEADERBOARD_FILTERS: FilterDef[] = [
       }
       return (
         <BadgeToggleGroup
-          items={LEADERBOARD_TARGET_COUNT_ITEMS}
+          items={targetCountItems(phrase)}
           value={
             leaderboardTargetCount != null ? [{ value: leaderboardTargetCount, label: "" }] : []
           }
@@ -94,9 +100,9 @@ const LEADERBOARD_FILTERS: FilterDef[] = [
   },
   {
     id: "target-health",
-    label: "Target Health",
+    label: TARGET_FILTER_LABELS["target-health"],
     hasValue: ({ leaderboardTargetHealth }) => leaderboardTargetHealth !== null,
-    renderGroup: ({ leaderboardTargetHealth, onLeaderboardFilterChange }) => {
+    renderGroup: ({ leaderboardTargetHealth, onLeaderboardFilterChange }, phrase) => {
       function handleSelect(items: readonly BadgeToggleGroupItem[]) {
         if (items.length === 0) {
           onLeaderboardFilterChange({ leaderboardTargetHealth: null })
@@ -107,7 +113,7 @@ const LEADERBOARD_FILTERS: FilterDef[] = [
       }
       return (
         <BadgeToggleGroup
-          items={LEADERBOARD_TARGET_HEALTH_ITEMS}
+          items={targetHealthItems(phrase)}
           value={
             leaderboardTargetHealth != null ? [{ value: leaderboardTargetHealth, label: "" }] : []
           }
@@ -142,6 +148,7 @@ export function CompanionsLeaderboardTab({
   leaderboardTargetHealth,
   onLeaderboardFilterChange,
 }: CompanionsLeaderboardTabProps) {
+  const phrase = usePhrase()
   const props: CompanionsLeaderboardTabProps = {
     active,
     builds,
@@ -204,7 +211,7 @@ export function CompanionsLeaderboardTab({
     <TabsContent value="leaderboard">
       <PanelToggleProvider active={active}>
         <div className="flex flex-col gap-6">
-          <PageTabHeader title="Rank">
+          <PageTabHeader title={phrase(companionsLeaderboardTabRank.slug)}>
             <SearchSortFilterRow
               hasActiveFilters={hasActiveLeaderboardFilters}
               onReset={handleResetLeaderboardFilters}
@@ -212,21 +219,27 @@ export function CompanionsLeaderboardTab({
               <FilterButton
                 hasActiveFilters={hasActiveLeaderboardFilters}
                 popoverClassName="max-w-panel"
-                emptySelectOptions={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+                emptySelectOptions={availableFilters.map((f) => ({
+                  id: f.id,
+                  label: phrase(f.label.slug),
+                }))}
                 onEmptySelect={handleAdd}
               >
                 <div className="flex flex-col gap-3">
                   {visibleFilters.map((filterDef) => (
                     <FilterGroup
                       key={filterDef.id}
-                      label={filterDef.label}
+                      label={phrase(filterDef.label.slug)}
                       onRemove={() => handleRemove(filterDef.id)}
                     >
-                      {filterDef.renderGroup(props)}
+                      {filterDef.renderGroup(props, phrase)}
                     </FilterGroup>
                   ))}
                   <AddFilterButton
-                    options={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+                    options={availableFilters.map((f) => ({
+                      id: f.id,
+                      label: phrase(f.label.slug),
+                    }))}
                     onAdd={handleAdd}
                   />
                 </div>

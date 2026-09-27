@@ -11,5 +11,9 @@ export const companionsFilterBar = {
       decisionKind: "decision-kind/departure",
       statement: "The roles offered are the companion base role pages, by their titles.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

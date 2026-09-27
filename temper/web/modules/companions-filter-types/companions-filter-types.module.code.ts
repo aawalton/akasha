@@ -8,20 +8,38 @@ import {
 } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import type { SortField } from "akasha/temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx"
+import type { Phrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionsFilterTypesAoe } from "akasha/temper/web/phrase/pages/companions-filter-types-aoe.temper-web-phrase.ts"
+import { companionsFilterTypesExecute } from "akasha/temper/web/phrase/pages/companions-filter-types-execute.temper-web-phrase.ts"
+import { companionsFilterTypesFull } from "akasha/temper/web/phrase/pages/companions-filter-types-full.temper-web-phrase.ts"
+import { companionsFilterTypesSingleTarget } from "akasha/temper/web/phrase/pages/companions-filter-types-single-target.temper-web-phrase.ts"
+import { companionsFilterTypesTargetArmor } from "akasha/temper/web/phrase/pages/companions-filter-types-target-armor.temper-web-phrase.ts"
+import { companionsFilterTypesTargetCount } from "akasha/temper/web/phrase/pages/companions-filter-types-target-count.temper-web-phrase.ts"
+import { companionsFilterTypesTargetHealth } from "akasha/temper/web/phrase/pages/companions-filter-types-target-health.temper-web-phrase.ts"
 
 export function targetArmorItems(): BadgeToggleGroupItem[] {
   return targetArmor().list.map((ta) => ({ value: ta.id, label: ta.name }))
 }
 
-export const LEADERBOARD_TARGET_COUNT_ITEMS: BadgeToggleGroupItem[] = [
-  { value: "1", label: "Single Target" },
-  { value: "3", label: "AOE" },
-]
+export function targetCountItems(phrase: Phrase): BadgeToggleGroupItem[] {
+  return [
+    { value: "1", label: phrase(companionsFilterTypesSingleTarget.slug) },
+    { value: "3", label: phrase(companionsFilterTypesAoe.slug) },
+  ]
+}
 
-export const LEADERBOARD_TARGET_HEALTH_ITEMS: BadgeToggleGroupItem[] = [
-  { value: "full", label: "Full" },
-  { value: "execute", label: "Execute" },
-]
+export function targetHealthItems(phrase: Phrase): BadgeToggleGroupItem[] {
+  return [
+    { value: "full", label: phrase(companionsFilterTypesFull.slug) },
+    { value: "execute", label: phrase(companionsFilterTypesExecute.slug) },
+  ]
+}
+
+export const TARGET_FILTER_LABELS = {
+  "target-armor": companionsFilterTypesTargetArmor,
+  "target-count": companionsFilterTypesTargetCount,
+  "target-health": companionsFilterTypesTargetHealth,
+} as const
 
 export type FilterValues = {
   tab: TabValue
