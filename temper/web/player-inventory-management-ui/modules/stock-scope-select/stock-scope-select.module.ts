@@ -6,4 +6,11 @@ export const stockScopeSelect = {
   slug: "stock-scope-select",
   definition: "the select naming how much of an item a rule keeps",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Character and Bank are location type and venue pages; the rest are rule card phrases.",
+    },
+  ],
 } as const satisfies Module
