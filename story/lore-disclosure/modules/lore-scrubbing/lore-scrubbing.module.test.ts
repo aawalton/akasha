@@ -176,6 +176,12 @@ test("the notice says how many lines were left out and names nothing from the pa
   expect(said).not.toContain("ferryman")
 })
 
+test("the notice is true of a reviewer, a writer and a recorder as of a game master", () => {
+  const said = heldNotice(1)
+  expect(said).toContain("1 line this call printed carries")
+  expect(said).not.toContain("game master's")
+})
+
 test("a program run under the scrubber prints no withheld fact and keeps its exit code", async () => {
   const scrubber = scrubberOf(sealedWorld())
   const out: string[] = []

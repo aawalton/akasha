@@ -209,3 +209,9 @@ test("the refusal names the question to ask and nothing from inside the page", (
   expect(said).toContain("world builder")
   expect(said).not.toContain("sealed")
 })
+
+test("the refusal is true of every role held, so it names no role as the seat's", () => {
+  const said = WITHHELD.join(" ")
+  expect(said).toContain("your seat reads only the lore told to the game master")
+  expect(said).not.toContain("game master's")
+})

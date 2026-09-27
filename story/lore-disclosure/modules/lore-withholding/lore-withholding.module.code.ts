@@ -41,8 +41,9 @@ const GLOBBING = /[*?[]/
 export const ASKED = "may I know X yet?"
 
 export const WITHHELD: readonly string[] = [
-  "This reaches a lore page that is the world builder's, and your seat is a game master's, so it",
-  "is refused. A secret the game master holds leaks into every turn before the moment it waits on.",
+  "This reaches a lore page that is the world builder's, and your seat reads only the lore told",
+  "to the game master, so it is refused. A secret known too early leaks into the story before the",
+  "moment it waits on.",
   "",
   `Ask your game's world builder "${ASKED}" instead, naming what you need. Once the world`,
   "builder tells the game master a fact, that fact is yours to read.",
