@@ -36,6 +36,10 @@ export const composeSeatName = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A persona championing no domain seats in the akasha domain.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A flex spelled anything but flex- followed by a whole number gives no name.",
     },
     {

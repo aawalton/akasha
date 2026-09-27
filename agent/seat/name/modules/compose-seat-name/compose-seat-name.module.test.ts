@@ -5,6 +5,7 @@ import { worldBuilder } from "akasha/agent/role/pages/world-builder.role.ts"
 import {
   composeSeatName,
   type NameableSeat,
+  personaDefaultsOf,
 } from "akasha/agent/seat/name/modules/compose-seat-name/compose-seat-name.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { awenEngineImprovements } from "akasha/domain/initiative/pages/awen-engine-improvements.initiative.ts"
@@ -45,6 +46,10 @@ test("a seat of Alan's whose domain is no game keeps its persona's name alone", 
   expect(composeSeatName(alans(awen.slug, definer.slug, awenEngineImprovements.slug), ROOT)).toBe(
     awen.slug
   )
+})
+
+test("a persona championing no domain seats in the akasha domain", () => {
+  expect(personaDefaultsOf(ROOT, iris.slug)?.domain).toBe("akasha")
 })
 
 test("a seat working for the fleet on a game is named for the game and its role", () => {

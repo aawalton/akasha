@@ -47,15 +47,17 @@ export interface NameableSeat {
   readonly principal: Principal | null
 }
 
+const DEFAULT_DOMAIN = "akasha"
+
 interface PersonaDefaults {
-  readonly domain: string | null
+  readonly domain: string
   readonly role: string | null
 }
 
 export function personaDefaultsOf(root: string, persona: string): PersonaDefaults | null {
   const held = personaAt(root, persona)
   if (held === null) return null
-  return { domain: held.championedDomainSlug, role: held.roleSlug }
+  return { domain: held.championedDomainSlug ?? DEFAULT_DOMAIN, role: held.roleSlug }
 }
 
 export function identityHeardFrom(root: string, person: string): string | null {
