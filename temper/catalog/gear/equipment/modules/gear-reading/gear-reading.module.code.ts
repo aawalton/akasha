@@ -63,11 +63,11 @@ export const GEAR_READS: readonly Read[] = [
       "setBonusScale",
     ],
   ],
-  [temperArmorSlot.slug, ["slug", "title", "icon", "hashPlace", "equipType"]],
+  [temperArmorSlot.slug, ["slug", "title", "icon", "hashPlace", "slotEquipType"]],
   [temperJewelrySlot.slug, ["slug", "title", "icon", "jewelryType", "hashPlace"]],
-  [temperJewelryType.slug, ["slug", "title", "equipType"]],
+  [temperJewelryType.slug, ["slug", "title", "slotEquipType"]],
   [temperEquipType.slug, ["slug", "title", "equipType"]],
-  [temperWeaponSlot.slug, ["slug", "title", "icon", "displayOrder", "equipType"]],
+  [temperWeaponSlot.slug, ["slug", "title", "icon", "displayOrder", "slotEquipType"]],
   [
     temperArmorWeight.slug,
     [
