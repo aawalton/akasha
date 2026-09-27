@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/character-management-panel-card/character-management-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companion-editor-content/companion-editor-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companion-editor-header/companion-editor-header.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companion-entity-panel-card/companion-entity-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/completion-page-empty/completion-page-empty.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/completion-page-own-empty/completion-page-own-empty.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/completion-summary-tab/completion-summary-tab.module.code.tsx","typed":false,"deferred":false}

@@ -6158,6 +6158,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-editor-content/companion-editor-content.module.ts","id":"01a06589-8d86-7000-8a60-baa19b2c6ff2"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-editor-header/companion-editor-header.module.ts","id":"01a0642f-8c36-7da9-a4d9-03b20ba5fade"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.ts","id":"01a06432-b190-7883-b581-bac22dc2de71"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companion-entity-panel-card/companion-entity-panel-card.module.ts","id":"01a0641f-8bed-714a-82bf-afee8267dfa2"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-gear-ttc-gate/companion-gear-ttc-gate.module.ts","id":"01a0e0bf-70b2-701e-907b-37ceea2c9b29"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-skill-select-dialog/companion-skill-select-dialog.module.ts","id":"01a0642f-8c32-7775-b161-276fc7d4c191"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-stats-panel/companion-stats-panel.module.ts","id":"01a06436-3557-72c0-9712-d936c8e8eaa3"}

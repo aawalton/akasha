@@ -26,6 +26,13 @@ import { companionWeaponRoleAt } from "akasha/temper/catalog/companion/companion
 import type { CompanionId } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionEntityPanelCardBrowseBuilds } from "akasha/temper/web/phrase/pages/companion-entity-panel-card-browse-builds.temper-web-phrase.ts"
+import { companionEntityPanelCardLive } from "akasha/temper/web/phrase/pages/companion-entity-panel-card-live.temper-web-phrase.ts"
+import { companionEntityPanelCardScore } from "akasha/temper/web/phrase/pages/companion-entity-panel-card-score.temper-web-phrase.ts"
+import { companionEntityPanelCardSetTargetBuild } from "akasha/temper/web/phrase/pages/companion-entity-panel-card-set-target-build.temper-web-phrase.ts"
+import { companionEntityPanelCardTarget } from "akasha/temper/web/phrase/pages/companion-entity-panel-card-target.temper-web-phrase.ts"
+import { companionEntityPanelCardUntitledBuild } from "akasha/temper/web/phrase/pages/companion-entity-panel-card-untitled-build.temper-web-phrase.ts"
 import { Search, Trophy } from "lucide-react"
 
 interface CompanionPlanBuild {
@@ -55,6 +62,7 @@ function targetRoleItems(): BadgeToggleGroupItem[] {
 
 function BuildRow({ build, variant }: { build: CompanionPlanBuild; variant: "live" | "target" }) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const weaponRoleId = build.buildData ? getWeaponRole(build.buildData) : null
   const weaponName =
     weaponRoleId != null && weaponRoleId !== "no-weapon-role"
@@ -68,10 +76,12 @@ function BuildRow({ build, variant }: { build: CompanionPlanBuild; variant: "liv
     >
       <div className="flex items-center justify-between gap-2">
         <span className="truncate text-primary text-sm">
-          {build.name !== "" ? build.name : "Untitled Build"}
+          {build.name !== "" ? build.name : phrase(companionEntityPanelCardUntitledBuild.slug)}
         </span>
         <Badge variant="elevation" className="shrink-0">
-          {variant === "live" ? "Live" : "Target"}
+          {variant === "live"
+            ? phrase(companionEntityPanelCardLive.slug)
+            : phrase(companionEntityPanelCardTarget.slug)}
         </Badge>
       </div>
       {(build.score > 0 || weaponName != null) && (
@@ -79,7 +89,7 @@ function BuildRow({ build, variant }: { build: CompanionPlanBuild; variant: "liv
           {weaponName != null && <Badge variant="elevation-muted">{weaponName}</Badge>}
           {build.score > 0 && (
             <Badge variant="accent" className="font-semibold">
-              <span>Score</span>
+              <span>{phrase(companionEntityPanelCardScore.slug)}</span>
               <span className="font-mono">{Math.round(build.score).toLocaleString()}</span>
             </Badge>
           )}
@@ -121,6 +131,7 @@ export function CompanionEntityPanelCard({
   totalEntities,
   onReorder,
 }: CompanionEntityPanelCardProps) {
+  const phrase = usePhrase()
   const buildData = entity.liveBuild.buildData ?? entity.targetBuild.buildData
   const roles: readonly CompanionBaseRoleId[] = (buildData?.companion?.baseRoles ??
     []) satisfies readonly CompanionBaseRoleId[]
@@ -226,7 +237,7 @@ export function CompanionEntityPanelCard({
                     >
                       <button
                         type="button"
-                        title="Set as target build"
+                        title={phrase(companionEntityPanelCardSetTargetBuild.slug)}
                         onClick={() =>
                           onTrophyClick(
                             entity.entityId,
@@ -247,7 +258,7 @@ export function CompanionEntityPanelCard({
                   >
                     <button
                       type="button"
-                      title="Browse builds"
+                      title={phrase(companionEntityPanelCardBrowseBuilds.slug)}
                       onClick={() => onBrowseClick?.(entity.companionId, entityRoles)}
                     >
                       <Search />
