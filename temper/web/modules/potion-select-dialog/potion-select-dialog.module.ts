@@ -6,4 +6,10 @@ export const potionSelectDialog = {
   slug: "potion-select-dialog",
   definition: "the dialog selecting a potion",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

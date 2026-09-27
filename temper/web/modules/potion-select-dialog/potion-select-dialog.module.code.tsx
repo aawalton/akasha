@@ -12,6 +12,16 @@ import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,
 } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import {
+  phraseIn,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { potionSelectDialogCrafted } from "akasha/temper/web/phrase/pages/potion-select-dialog-crafted.temper-web-phrase.ts"
+import { potionSelectDialogCrown } from "akasha/temper/web/phrase/pages/potion-select-dialog-crown.temper-web-phrase.ts"
+import { potionSelectDialogDropped } from "akasha/temper/web/phrase/pages/potion-select-dialog-dropped.temper-web-phrase.ts"
+import { potionSelectDialogEmpty } from "akasha/temper/web/phrase/pages/potion-select-dialog-empty.temper-web-phrase.ts"
+import { potionSelectDialogSearch } from "akasha/temper/web/phrase/pages/potion-select-dialog-search.temper-web-phrase.ts"
+import { potionSelectDialogTitle } from "akasha/temper/web/phrase/pages/potion-select-dialog-title.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 interface PotionSelectDialogProps {
@@ -29,19 +39,32 @@ export function PotionSelectDialog({
 }: PotionSelectDialogProps) {
   const held = potions()
   const noPotion = potionAt("no-potion")
+  const phrases = useWebPhrases()
   const config: FilterableSelectDialogConfig<PotionSource> = useMemo(() => {
     const byName = held.list.toSorted((a, b) => a.name.localeCompare(b.name))
     const crown = byName.filter((one) => one.subcategoryId === "crown")
     const dropped = byName.filter((one) => one.subcategoryId === "dropped")
     const crafted = byName.filter((one) => one.subcategoryId === "crafted")
     return {
-      title: "Select Potion",
-      searchPlaceholder: "Search potions...",
-      emptyMessage: "No potions found.",
+      title: phraseIn(phrases, potionSelectDialogTitle.slug),
+      searchPlaceholder: phraseIn(phrases, potionSelectDialogSearch.slug),
+      emptyMessage: phraseIn(phrases, potionSelectDialogEmpty.slug),
       categories: [
-        { id: "crown" as const, label: "Crown Potions", items: crown },
-        { id: "dropped" as const, label: "Dropped Potions", items: dropped },
-        { id: "crafted" as const, label: "Crafted Potions", items: crafted },
+        {
+          id: "crown" as const,
+          label: phraseIn(phrases, potionSelectDialogCrown.slug),
+          items: crown,
+        },
+        {
+          id: "dropped" as const,
+          label: phraseIn(phrases, potionSelectDialogDropped.slug),
+          items: dropped,
+        },
+        {
+          id: "crafted" as const,
+          label: phraseIn(phrases, potionSelectDialogCrafted.slug),
+          items: crafted,
+        },
       ],
       allItems: [noPotion, ...crown, ...dropped, ...crafted],
       defaultItem: noPotion,
@@ -58,7 +81,7 @@ export function PotionSelectDialog({
         ) : null
       },
     }
-  }, [held, noPotion])
+  }, [held, noPotion, phrases])
 
   const handleSelect = (itemId: PotionId) => {
     onSelect(itemId)
