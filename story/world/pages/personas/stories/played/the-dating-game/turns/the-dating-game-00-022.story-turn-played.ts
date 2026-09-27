@@ -10,7 +10,7 @@ export const theDatingGame00022 = {
   position: 22,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I continue around the hill, singing quietly to myself as I walk.",
   beats: [
     "Alan walks on around the hill, singing quietly to himself.",
@@ -20,5 +20,5 @@ export const theDatingGame00022 = {
     "They ride the current along beside him for a while, then slip ahead around the bend.",
     "The trail curves with the hill, the campus buildings glimpsed now and then up through the trees.",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
