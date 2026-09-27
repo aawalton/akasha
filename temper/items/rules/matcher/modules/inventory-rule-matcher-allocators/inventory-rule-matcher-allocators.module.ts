@@ -20,5 +20,13 @@ export const inventoryRuleMatcherAllocators = {
       decisionKind: "decision-kind/departure",
       statement: "A rule takes no larger amount of an item than the rule asked for.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character among the first characters lacking an item uses her own copy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A use allocation counts the copies of the item the rule's other candidates hold.",
+    },
   ],
 } as const satisfies Module

@@ -222,6 +222,47 @@ function heldStockable(
   }
 }
 
+function heldRecipe(locationKey: string): ClassifiedInventoryItem {
+  const base = recipeCI(1)
+  return { ...base, locationKey, locationDisplayName: locationKey, bagId: 1 }
+}
+
+function servedFromLocations(
+  found: ReturnType<typeof computeAllRuleAffectedItems>
+): Record<string, readonly string[]> {
+  const servedFrom: Record<string, readonly string[]> = {}
+  for (const affected of found.ruleMap.get("use") ?? []) {
+    servedFrom[affected.locationKey] = affected.useAllocation ?? []
+  }
+  return servedFrom
+}
+
+describe("A character among the first characters lacking an item uses her own copy.", () => {
+  test("the bank copy goes to the first character and the second uses her own", () => {
+    fc.assert(
+      fc.property(fc.boolean(), (bankFirst) => {
+        const inBank = recipeCI(1)
+        const onSecond = heldRecipe("1002")
+        const found = computeAllRuleAffectedItems(
+          compile([USE_RULE, SELL_RULE]),
+          bankFirst ? [inBank, onSecond] : [onSecond, inBank],
+          makeContext({ "1001": [], "1002": [], "1003": [] })
+        )
+        expect(servedFromLocations(found)).toEqual({ Bank: ["1001"], "1002": ["1002"] })
+      })
+    )
+  })
+
+  test("a character past the first two sends her copy to the one the bank copy leaves", () => {
+    const found = computeAllRuleAffectedItems(
+      compile([USE_RULE, SELL_RULE]),
+      [heldRecipe("1003"), recipeCI(1)],
+      makeContext({ "1001": [], "1002": [], "1003": [] })
+    )
+    expect(servedFromLocations(found)).toEqual({ Bank: ["1001"], "1003": ["1002"] })
+  })
+})
+
 describe("A character keeps the stock that character already holds.", () => {
   test("two characters each holding their target are served from their own stack", () => {
     const onSecond = heldStockable(80_030, 100, "1002")

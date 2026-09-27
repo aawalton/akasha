@@ -77,7 +77,8 @@ export function computeAllRuleAffectedItems(
       : undefined
 
   const residues = new Map<ClassifiedInventoryItem, number>()
-  const { tryAllocation, beginStockRuleGroup, resetClaims } = createAllocationEnv(context)
+  const { tryAllocation, beginStockRuleGroup, beginUseRuleGroup, resetClaims } =
+    createAllocationEnv(context)
 
   const result = new Map<string, readonly AffectedItem[]>()
 
@@ -119,6 +120,7 @@ export function computeAllRuleAffectedItems(
       }
 
       beginStockRuleGroup(rule, new Set([rule.itemId]), heldOf(itemCandidates, residueOf))
+      beginUseRuleGroup(itemCandidates, residueOf)
 
       for (const ci of itemCandidates) {
         const remaining = residueOf(ci)
@@ -218,6 +220,7 @@ export function computeAllRuleAffectedItems(
     }
 
     beginStockRuleGroup(rule, matchedItemIds, heldOf(candidates, residueOf))
+    beginUseRuleGroup(candidates, residueOf)
 
     for (const ci of candidates) {
       const remaining = residueOf(ci)

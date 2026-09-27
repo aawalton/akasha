@@ -15,7 +15,10 @@ import {
   inventoryItemUseKey,
 } from "akasha/temper/items/rules/core/modules/use-destination-context-builder/use-destination-context-builder.module.code.ts"
 import { planUseDestinationsForStack } from "akasha/temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
-import type { CharacterId } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
+import type {
+  CharacterId,
+  UseStackHolding,
+} from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 
 export interface MatchedCI {
   ci: ClassifiedInventoryItem
@@ -39,11 +42,23 @@ interface AllocationEnv {
     matchedItemIds: ReadonlySet<number>,
     held?: readonly (readonly [string, number])[]
   ) => void
+  beginUseRuleGroup: (
+    candidates: readonly ClassifiedInventoryItem[],
+    countOf: (ci: ClassifiedInventoryItem) => number
+  ) => void
   resetClaims: () => void
+}
+
+function useHolderOf(locationKey: string): CharacterId | undefined | null {
+  const kind = classifyLocation(locationKey)
+  if (kind === "character") return locationKey as CharacterId
+  if (kind === "bank" || kind === "housing-storage") return undefined
+  return null
 }
 
 export function createAllocationEnv(context: RuleMatcherContext | undefined): AllocationEnv {
   let useClaims: Map<CharacterId, Set<string>> | undefined
+  let useCopiesByItemId: Map<number, Map<ClassifiedInventoryItem, number>> | undefined
   let useDestinationCtx: ReturnType<typeof buildUseDestinationContext> | undefined
   let stockDestinationCtx: StockDestinationContext | undefined
   let activeStockGroup:
@@ -93,10 +108,40 @@ export function createAllocationEnv(context: RuleMatcherContext | undefined): Al
       remaining,
       ctx,
       ensureUseClaims(),
-      predicate
+      predicate,
+      takeUseHolding(ci)
     )
     if (allocation.length === 0) return { consumed: 0 }
     return { consumed: allocation.length, allocation }
+  }
+
+  function takeUseHolding(ci: ClassifiedInventoryItem): UseStackHolding | undefined {
+    const copies = useCopiesByItemId?.get(ci.item.itemId)
+    if (copies === undefined) return undefined
+    copies.delete(ci)
+    const elsewhere: { holder: CharacterId | undefined; count: number }[] = []
+    for (const [other, count] of copies) {
+      const holder = useHolderOf(other.locationKey)
+      if (holder === null) continue
+      elsewhere.push({ holder, count })
+    }
+    return { holder: useHolderOf(ci.locationKey) ?? undefined, elsewhere }
+  }
+
+  function beginUseRuleGroup(
+    candidates: readonly ClassifiedInventoryItem[],
+    countOf: (ci: ClassifiedInventoryItem) => number
+  ): undefined {
+    useCopiesByItemId = new Map()
+    for (const ci of candidates) {
+      let copies = useCopiesByItemId.get(ci.item.itemId)
+      if (copies === undefined) {
+        copies = new Map()
+        useCopiesByItemId.set(ci.item.itemId, copies)
+      }
+      copies.set(ci, countOf(ci))
+    }
+    return undefined
   }
 
   function tryStockByPriorityAllocation(
@@ -181,7 +226,7 @@ export function createAllocationEnv(context: RuleMatcherContext | undefined): Al
     return undefined
   }
 
-  return { tryAllocation, beginStockRuleGroup, resetClaims }
+  return { tryAllocation, beginStockRuleGroup, beginUseRuleGroup, resetClaims }
 }
 
 function readStockTargetQuantity(rule: CompiledOrderedRule | ItemRule): number | undefined {
