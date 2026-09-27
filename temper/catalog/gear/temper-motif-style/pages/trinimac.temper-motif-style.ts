@@ -6,6 +6,7 @@ export const trinimac = {
   slug: "trinimac",
   title: "Trinimac",
   esoItemStyleId: 21,
+  styleName: "Trinimac",
   collectionIndex: 11,
   sourceDescription: "Delve dailies from Guruzug (Orsinium)",
   dropSources: [
