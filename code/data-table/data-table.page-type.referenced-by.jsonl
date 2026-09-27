@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/sandbox-library/sandbox-library.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/capture/player-answer/modules/player-askings/player-askings.data-table.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids/status-effect-type-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/gear/temper-quality/modules/quality-ids/quality-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"data-table.page-type.types.ts","path":"temper/catalog/skill/temper-class/modules/class-ids/class-ids.data-table.ts","typed":true,"deferred":false}

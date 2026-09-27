@@ -1,0 +1,13 @@
+export type StatusEffectType =
+  | "burning"
+  | "chilled"
+  | "concussed"
+  | "fear"
+  | "immobilize"
+  | "invisible"
+  | "knockback"
+  | "knockup"
+  | "off-balance"
+  | "snare"
+  | "stun"
+  | "taunt"
