@@ -14,15 +14,19 @@ import {
   Card,
   CardContent,
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
-import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import {
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { completionPageEmptyNoData } from "akasha/temper/web/phrase/pages/completion-page-empty-no-data.temper-web-phrase.ts"
-import { completionPageEmptyOwnLink } from "akasha/temper/web/phrase/pages/completion-page-empty-own-link.temper-web-phrase.ts"
+
 import { completionPageEmptySignedInOnly } from "akasha/temper/web/phrase/pages/completion-page-empty-signed-in-only.temper-web-phrase.ts"
 import { completionPageEmptyTitle } from "akasha/temper/web/phrase/pages/completion-page-empty-title.temper-web-phrase.ts"
 import { Globe } from "lucide-react"
 
 export function CompletionPageEmpty() {
   const phrase = usePhrase()
+  const phraseDescription = usePhraseDescription()
   return (
     <PageLayout>
       <PageLayout.Header>
@@ -43,8 +47,7 @@ export function CompletionPageEmpty() {
                 </EmptyMedia>
                 <EmptyTitle>{phrase(completionPageEmptyNoData.slug)}</EmptyTitle>
                 <EmptyDescription>
-                  {phrase(completionPageEmptySignedInOnly.slug)}{" "}
-                  {phrase(completionPageEmptyOwnLink.slug)}
+                  {phraseDescription(completionPageEmptySignedInOnly.slug)}
                 </EmptyDescription>
               </EmptyHeader>
             </Empty>
