@@ -5,6 +5,8 @@ export const ascendantOrder = {
   type: "page-type/temper-motif-style",
   slug: "ascendant-order",
   title: "Ascendant Order",
+  esoItemStyleId: 129,
+  styleName: "Ascendant Order",
   collectionIndex: 95,
   sourceDescription: "Coral Aerie dungeon",
 } as const satisfies TemperMotifStyle
