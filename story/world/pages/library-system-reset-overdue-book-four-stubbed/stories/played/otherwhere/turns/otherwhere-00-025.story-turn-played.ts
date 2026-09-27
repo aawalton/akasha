@@ -29,4 +29,5 @@ export const otherwhere00025 = {
     '"Two dried coils lie beside her in the ruined oval" - only 024\'s coil is in it; one is under her',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
