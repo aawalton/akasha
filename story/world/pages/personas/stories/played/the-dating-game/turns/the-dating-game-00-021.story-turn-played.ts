@@ -29,4 +29,5 @@ export const theDatingGame00021 = {
   ],
   lore: ["place/the-dating-game-byu-stream-trail"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
