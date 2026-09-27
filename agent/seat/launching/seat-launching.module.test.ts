@@ -1,4 +1,5 @@
 import { expect, test } from "bun:test"
+import { paneCapArgv } from "akasha/agent/seat/launching/modules/pane-capping/pane-capping.module.code.ts"
 import {
   accountFor,
   envScrubArgv,
@@ -7,8 +8,8 @@ import {
   launching,
   launchModeFlags,
   newSessionArgv,
-  paneCapArgv,
-  paneCapped,
+  paneArgv,
+  paneScopeUnitFor,
   pidIn,
   scopeArgv,
   scopeShell,
@@ -115,6 +116,19 @@ test("the shell form of a scope takes the unit already spelled", () => {
 
 test("a scope unit carries the seat's name and the moment it was asked for", () => {
   expect(scopeUnitFor("athena", 1700000000000)).toBe("tmux-seat-athena-1700000000000")
+})
+
+test("a pane's own scope is named apart from the server's scope", () => {
+  expect(paneScopeUnitFor("athena", 1700000000000)).toBe("tmux-pane-athena-1700000000000")
+})
+
+test("a pane's command enters a capped scope of its own before anything else runs", () => {
+  expect(paneArgv("tmux-pane-athena-7", "aid", ["bun"])).toEqual([
+    ...scopeArgv("tmux-pane-athena-7"),
+    ...envScrubArgv(),
+    "AGENT_ID=aid",
+    "bun",
+  ])
 })
 
 test("the supervisor is reached through the pty proxy", () => {
@@ -239,7 +253,7 @@ test("a resumed seat names its session and asks to resume", () => {
 })
 
 test("a session is started detached under the seat's name in the start directory", () => {
-  expect(newSessionArgv(asked(), START_DIR, ["bun", "run", "sup.ts"])).toEqual([
+  expect(newSessionArgv(asked(), START_DIR, "tmux-pane-athena-7", ["bun", "sup.ts"])).toEqual([
     "new-session",
     "-d",
     "-s",
@@ -247,6 +261,7 @@ test("a session is started detached under the seat's name in the start directory
     "-c",
     "/repos",
     "--",
+    ...scopeArgv("tmux-pane-athena-7"),
     "env",
     "-u",
     "TMUX",
@@ -256,7 +271,6 @@ test("a session is started detached under the seat's name in the start directory
     "BASH_ENV=",
     "AGENT_ID=athena-a2de5a24130090204",
     "bun",
-    "run",
     "sup.ts",
   ])
 })
@@ -291,6 +305,7 @@ test("the whole launch is composed from the seat alone", () => {
       root: ROOT,
       startDir: START_DIR,
       scopeUnit: null,
+      paneUnit: "tmux-pane-athena-7",
     })
   ).toEqual([
     "tmux",
@@ -301,6 +316,16 @@ test("the whole launch is composed from the seat alone", () => {
     "-c",
     "/repos",
     "--",
+    "systemd-run",
+    "--user",
+    "--scope",
+    "--collect",
+    "--quiet",
+    "-p",
+    "CPUWeight=100",
+    "-p",
+    "TasksMax=2000",
+    "--unit=tmux-pane-athena-7",
     "env",
     "-u",
     "TMUX",
@@ -353,17 +378,6 @@ test("a name a live session already carries refuses the launch", async () => {
   expect(calls).toEqual([])
 })
 
-test("a pane's cap is set on its scope for this run of the manager alone", () => {
-  expect(paneCapArgv("tmux-spawn-a.scope")).toEqual([
-    "systemctl",
-    "--user",
-    "set-property",
-    "--runtime",
-    "tmux-spawn-a.scope",
-    "TasksMax=2000",
-  ])
-})
-
 test("a launch that begins the server caps the pane's scope as well", async () => {
   const { how, calls } = launchedWith((cmd) =>
     cmd[1] === "list-sessions" ? answer({ code: 1 }) : null
@@ -382,19 +396,14 @@ test("a cap the scope would not take is reported rather than refusing the launch
   })
 })
 
-test("a pane in no scope tmux made is reported uncapped and nothing is set", async () => {
-  const { how, calls } = launchedWith((cmd) =>
-    cmd[0] === "cat" ? answer({ out: "0::/user.slice/app.slice/tmux-seat-athena-7.scope" }) : null
+test("a pane left in the server's scope is reported with that scope", async () => {
+  const { how } = launchedWith((cmd) =>
+    cmd[0] === "cat" ? answer({ out: "0::/user.slice/seats.slice/tmux-seat-alan-7.scope" }) : null
   )
   const said = await launching(asked(), ROOT, how)
   expect(said).toEqual({
-    launched: {
-      name: "athena",
-      pid: 4242,
-      uncapped: expect.stringContaining("no scope tmux made"),
-    },
+    launched: { name: "athena", pid: 4242, uncapped: expect.stringContaining("tmux-seat-alan-7") },
   })
-  expect(calls.some((one) => one[0] === "systemctl")).toBe(false)
 })
 
 test("a seat that exited at boot is refused before its pane is capped", async () => {
@@ -408,17 +417,6 @@ test("a seat that exited at boot is refused before its pane is capped", async ()
   )
   await launching(asked(), ROOT, how)
   expect(calls.some((one) => one[0] === "cat" || one[0] === "systemctl")).toBe(false)
-})
-
-test("a revived pane's fresh scope is capped", async () => {
-  const { how, calls } = launchedWith(() => null)
-  expect(await paneCapped("athena", 5151, how)).toBe(null)
-  expect(calls).toEqual([["cat", "/proc/5151/cgroup"], paneCapArgv("tmux-spawn-a.scope")])
-})
-
-test("a revived pane's refused cap is reported", async () => {
-  const { how } = launchedWith((cmd) => (cmd[0] === "systemctl" ? answer({ code: 1 }) : null))
-  expect(await paneCapped("athena", 5151, how)).toContain("would not take `TasksMax=2000`")
 })
 
 test("a launch onto a running server reports the pane pid", async () => {

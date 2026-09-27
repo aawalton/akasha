@@ -1,9 +1,9 @@
+import type { Answer } from "akasha/agent/seat/launching/modules/pane-capping/pane-capping.module.code.ts"
 import {
   ptyProxyRel,
   supervisorRel,
 } from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
 import type {
-  Answer,
   SeatLaunch,
   Spawning,
 } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
@@ -44,14 +44,18 @@ export function answer(over: Partial<Answer> = {}): Answer {
 export function fake(answers: (cmd: readonly string[]) => Answer, held: readonly boolean[]): Faked {
   const calls: (readonly string[])[] = []
   const heldAt = [...held]
+  let now = 1700000000000
   const how: Spawning = {
     ran: (cmd) => {
       calls.push(cmd)
       return Promise.resolve(answers(cmd))
     },
     held: () => Promise.resolve(heldAt.shift() ?? false),
-    at: () => 1700000000000,
-    settle: () => Promise.resolve(),
+    at: () => now,
+    settle: (ms) => {
+      now += ms
+      return Promise.resolve()
+    },
   }
   return { how, calls }
 }

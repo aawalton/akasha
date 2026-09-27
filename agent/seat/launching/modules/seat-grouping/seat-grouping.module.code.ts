@@ -9,7 +9,9 @@ const PROCS = "cgroup.procs"
 
 const CONTROL = "cgroup.subtree_control"
 
-const SCOPES: readonly string[] = ["tmux-spawn-", "tmux-pane-"]
+export const PANE_SCOPE = "tmux-pane-"
+
+const SCOPES: readonly string[] = ["tmux-spawn-", PANE_SCOPE]
 
 const UNIT = ".scope"
 

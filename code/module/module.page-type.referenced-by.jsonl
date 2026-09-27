@@ -248,6 +248,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/fleet/modules/work-tree-drawn/work-tree-drawn.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/launching/modules/compose-boot/compose-boot.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/launching/modules/pane-capping/pane-capping.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/launching/modules/seat-call/seat-call.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/launching/modules/seat-conditions-reading/seat-conditions-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.ts","typed":true,"deferred":false}

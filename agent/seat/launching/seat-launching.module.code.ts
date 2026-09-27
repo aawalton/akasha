@@ -1,10 +1,15 @@
 import { resolve } from "node:path"
 import { aawalton } from "akasha/agent/model/account/pages/aawalton/aawalton.model-account.ts"
 import {
+  type Answer,
+  paneCapped,
+  TASKS_CAP,
+} from "akasha/agent/seat/launching/modules/pane-capping/pane-capping.module.code.ts"
+import {
   ptyProxyRel,
   supervisorRel,
 } from "akasha/agent/seat/launching/modules/seat-entry-paths/seat-entry-paths.module.code.ts"
-import { paneScopeIn } from "akasha/agent/seat/launching/modules/seat-grouping/seat-grouping.module.code.ts"
+import { PANE_SCOPE } from "akasha/agent/seat/launching/modules/seat-grouping/seat-grouping.module.code.ts"
 import { sessionHeld } from "akasha/agent/seat/modules/tmux-session/tmux-session.module.code.ts"
 import { seat } from "akasha/agent/seat/seat.page-type.ts"
 import { cpuShare } from "akasha/infrastructure/cpu/limit/properties/cpu-share.number-property.ts"
@@ -33,10 +38,6 @@ function seatShare(): number {
 }
 
 const SEAT_SHARE = seatShare()
-
-const SEAT_TASKS = 2000
-
-const TASKS_CAP = `TasksMax=${String(SEAT_TASKS)}`
 
 const SCOPE_FLAGS: readonly string[] = [
   "--user",
@@ -118,12 +119,20 @@ export function scopeShell(unitExpansion: string): string {
   return [SCOPE_COMMAND, ...SCOPE_FLAGS, unitExpansion].join(" ")
 }
 
-export function paneCapArgv(scope: string): readonly string[] {
-  return ["systemctl", "--user", "set-property", "--runtime", scope, TASKS_CAP]
-}
-
 export function scopeUnitFor(name: string, at: number): string {
   return `tmux-seat-${name}-${String(at)}`
+}
+
+export function paneScopeUnitFor(name: string, at: number): string {
+  return `${PANE_SCOPE}${name}-${String(at)}`
+}
+
+export function paneArgv(
+  paneUnit: string,
+  agentId: string,
+  cmd: readonly string[]
+): readonly string[] {
+  return [...scopeArgv(paneUnit), ...envScrubArgv(), `${AGENT_ID_ENV}=${agentId}`, ...cmd]
 }
 
 export function secretsSourcedArgv(): readonly string[] {
@@ -184,6 +193,7 @@ export function supervisorArgv(root: string, asked: SeatLaunch): readonly string
 export function newSessionArgv(
   asked: SeatLaunch,
   startDir: string,
+  paneUnit: string,
   cmd: readonly string[]
 ): readonly string[] {
   return [
@@ -194,9 +204,7 @@ export function newSessionArgv(
     "-c",
     startDir,
     "--",
-    ...envScrubArgv(),
-    `${AGENT_ID_ENV}=${asked.agentId}`,
-    ...cmd,
+    ...paneArgv(paneUnit, asked.agentId, cmd),
   ]
 }
 
@@ -213,9 +221,15 @@ export function launchArgv(input: {
   readonly root: string
   readonly startDir: string
   readonly scopeUnit: string | null
+  readonly paneUnit: string
 }): readonly string[] {
   return underScope(
-    newSessionArgv(input.asked, input.startDir, supervisorArgv(input.root, input.asked)),
+    newSessionArgv(
+      input.asked,
+      input.startDir,
+      input.paneUnit,
+      supervisorArgv(input.root, input.asked)
+    ),
     input.scopeUnit
   )
 }
@@ -224,8 +238,6 @@ export function pidIn(said: string): number | null {
   const pid = Number.parseInt(said, 10)
   return Number.isSafeInteger(pid) && pid > 0 ? pid : null
 }
-
-export type Answer = { readonly code: number; readonly out: string; readonly err: string }
 
 async function answerOf(cmd: readonly string[]): Promise<Answer> {
   const ran = Bun.spawn({ cmd: [...cmd], stdin: "ignore", stdout: "pipe", stderr: "pipe" })
@@ -251,7 +263,7 @@ export type Spawning = {
   readonly settle: (ms: number) => Promise<void>
 }
 
-const SPAWNING: Spawning = {
+export const SPAWNING: Spawning = {
   ran: answerOf,
   held: sessionHeld,
   at: () => Date.now(),
@@ -267,27 +279,6 @@ async function paneOf(how: Spawning, name: string): Promise<string | null> {
   if (listed.code !== 0) return null
   const first = listed.out.split("\n")[0] ?? ""
   return first === "" ? null : first
-}
-
-export async function paneCapped(
-  name: string,
-  pid: number,
-  how: Spawning = SPAWNING
-): Promise<string | null> {
-  const group = await how.ran(["cat", `/proc/${String(pid)}/cgroup`])
-  const scope = group.code === 0 ? paneScopeIn(group.out) : null
-  if (scope === null) {
-    return (
-      `the pane of \`${name}\` sits in no scope tmux made ('${group.out || group.err}'), so ` +
-      `no \`${TASKS_CAP}\` reaches it`
-    )
-  }
-  const set = await how.ran(paneCapArgv(scope))
-  if (set.code === 0) return null
-  return (
-    `\`${scope}\` for \`${name}\` would not take \`${TASKS_CAP}\` ` +
-    `(exit ${String(set.code)}): ${set.err || set.out}`
-  )
 }
 
 type Launching =
@@ -315,9 +306,11 @@ export async function launching(
     }
   }
 
-  const scopeUnit = (await serverUp(how)) ? null : scopeUnitFor(name, how.at())
+  const at = how.at()
+  const scopeUnit = (await serverUp(how)) ? null : scopeUnitFor(name, at)
+  const paneUnit = paneScopeUnitFor(name, at)
   const startDir = seatStartDir(root)
-  const started = await how.ran(launchArgv({ asked, root, startDir, scopeUnit }))
+  const started = await how.ran(launchArgv({ asked, root, startDir, scopeUnit, paneUnit }))
   if (started.code !== 0) {
     return {
       refused:

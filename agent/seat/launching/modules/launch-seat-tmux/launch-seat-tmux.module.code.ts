@@ -1,11 +1,13 @@
 import { resolve } from "node:path"
+import { paneCapped } from "akasha/agent/seat/launching/modules/pane-capping/pane-capping.module.code.ts"
 import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-modes/seat-modes.module.code.ts"
 import {
-  envScrubArgv,
   launching,
   launchModeFlags,
-  paneCapped,
+  paneArgv,
+  paneScopeUnitFor,
   pidIn,
+  SPAWNING,
   shellQuoted,
   supervisorEntryArgv,
 } from "akasha/agent/seat/launching/seat-launching.module.code.ts"
@@ -157,7 +159,7 @@ export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolea
   await sweepSubagentPagesOf(opts.agentId)
 
   const cmd = buildSupervisorCmd(akashaRoot(), opts)
-  const line = shellQuoted([...envScrubArgv(), `AGENT_ID=${opts.agentId}`, ...cmd])
+  const line = shellQuoted(paneArgv(paneScopeUnitFor(name, Date.now()), opts.agentId, cmd))
   const spawned = await tmux(["respawn-pane", "-k", "-t", pane, "-c", seatStartDir(), line])
   if (spawned.code !== 0) {
     throw new Error(
@@ -179,14 +181,14 @@ export async function respawnSeatUnderTmux(opts: LaunchSeatOpts): Promise<boolea
     name,
     revived === null
       ? "the revived pane named no pid, so its scope was not found"
-      : await paneCapped(name, revived)
+      : await paneCapped(name, revived, SPAWNING)
   )
   return true
 }
 
 function reportUncapped(name: string, uncapped: string | null): undefined {
   if (uncapped !== null) {
-    process.stderr.write(`\`${name}\` is up with no cap on its tasks: ${uncapped}\n`)
+    process.stderr.write(`\`${name}\` is up with no cap of its own on its tasks: ${uncapped}\n`)
   }
   return undefined
 }

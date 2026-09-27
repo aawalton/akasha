@@ -8,6 +8,7 @@ export const seatLaunching = {
   parts: [
     "module/compose-boot",
     "module/launch-seat-tmux",
+    "module/pane-capping",
     "module/seat-call",
     "module/seat-conditions-reading",
     "module/seat-entry-paths",
@@ -69,6 +70,20 @@ export const seatLaunching = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The pane scope tmux makes for a seat bounds how many tasks that seat may make.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement:
+        "Tmux gives up on a pane's scope after one second and runs the pane in the server's scope.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A seat's pane command enters a scope of its own before the seat's supervisor runs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That scope is named for the seat and carries the seat's bound on tasks.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -182,8 +197,7 @@ export const seatLaunching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A launch onto a tmux server already up makes no scope, so only the pane scope's cap reaches it.",
+      statement: "A launch onto a tmux server already up makes no scope for the server.",
     },
     {
       decisionKind: "decision-kind/departure",
