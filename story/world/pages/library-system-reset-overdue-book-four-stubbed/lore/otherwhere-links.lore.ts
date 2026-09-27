@@ -82,7 +82,7 @@ export const otherwhereLinks = {
     },
     {
       fact: "Links makes bad puns and laughs at them, and says he is an open book.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links keeps things back to spare a newcomer overload, which makes him seem cagey.",

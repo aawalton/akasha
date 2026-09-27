@@ -211,6 +211,14 @@ export const otherwhereCoreChamber = {
       fact: "A spiral staircase with no landings climbs two or three stories from the chamber to the main hall.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A dark gap where the chamber's far wall meets the floor opens on a spiral staircase winding up.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The Library's books are upstairs from the round chamber, and only some of them are left.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place

@@ -4,13 +4,14 @@ export const otherwhere00007 = {
   id: "01a0e39e-2d27-7a9f-b251-fdd08a789a45",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-007",
+  cover: "image/image-f4efc584e12ad36c",
   ownLength: 322,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     '"Well, I know some things, just not whatever was supposed to be in that packet. For example, I\'m Nala, nice to meet you, Links." I look around. "If this is a library, where are all the books? I\'m a quick learner, and I\'ve always wanted to learn absolutely everything."',
   beats: [
@@ -32,5 +33,5 @@ export const otherwhere00007 = {
   ],
   lore: ["lore/otherwhere-alan", "place/otherwhere-core-chamber", "place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

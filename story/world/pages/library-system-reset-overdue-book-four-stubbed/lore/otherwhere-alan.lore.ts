@@ -108,6 +108,14 @@ export const otherwhereAlan = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "She has always wanted to learn absolutely everything.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
