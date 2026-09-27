@@ -9,11 +9,7 @@ export const inventorySafetyTypes = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "An action with an item action page is named by that page's title.",
-    },
-    {
-      decisionKind: "decision-kind/stopgap",
-      statement: "Buying has no item action page, so its label is kept here.",
+      statement: "Each action names the page type whose page titles it: item action or buy action.",
     },
   ],
 } as const satisfies Module

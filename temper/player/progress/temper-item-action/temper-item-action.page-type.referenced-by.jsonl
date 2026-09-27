@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-item-action.page-type.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.test.ts","typed":false,"deferred":false}

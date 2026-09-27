@@ -1,2 +1,4 @@
+{"propertySlug":"import","fileName":"temper-buy-action.page-type.ts","path":"temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-buy-action.page-type.ts","path":"temper/web/modules/notifications-tab/notifications-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-buy-action.page-type.types.ts","path":"temper/player/progress/temper-buy-action/pages/buy.temper-buy-action.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/progress/temper-progress.domain.ts","id":"01a05fac-7582-726f-ac10-d5261c7e1f65"}

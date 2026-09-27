@@ -26,6 +26,7 @@ import {
   type DestructiveAction,
 } from "akasha/temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.code.ts"
 import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+import { temperBuyAction } from "akasha/temper/player/progress/temper-buy-action/temper-buy-action.page-type.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 import {
   useLoggingSettings,
@@ -57,13 +58,14 @@ export function NotificationsTab({ active }: NotificationsTabProps) {
   }, [backpackSettings.bufferSlots])
 
   const actionTitles = useKeyedTitles(temperItemAction.slug)
+  const buyTitles = useKeyedTitles(temperBuyAction.slug)
   const confirmActionItems = useMemo<ConfirmActionItem[]>(
     () =>
       DESTRUCTIVE_ACTIONS.map((a) => ({
         value: a.value,
-        label: a.label ?? titleIn(actionTitles, a.value),
+        label: titleIn(a.titledBy === temperBuyAction.slug ? buyTitles : actionTitles, a.value),
       })),
-    [actionTitles]
+    [actionTitles, buyTitles]
   )
 
   const selectedItems = useMemo(

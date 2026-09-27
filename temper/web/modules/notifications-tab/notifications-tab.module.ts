@@ -9,7 +9,7 @@ export const notificationsTab = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The actions to confirm are named from their item action pages.",
+      statement: "The actions to confirm are named from their item action and buy action pages.",
     },
   ],
 } as const satisfies Module
