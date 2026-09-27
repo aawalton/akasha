@@ -248,10 +248,7 @@ export const otherwhereHallBack = {
       fact: "The chewed broom still sweeps, its bristles bitten ragged down one side.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Once the fourth is dried, the heap holds salt enough for one more small bookworm, and barely.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Further back in the gloom beyond the columns, wet chewing still goes on.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
