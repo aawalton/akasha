@@ -1,4 +1,3 @@
-import { esoTraitToTemperId } from "akasha/temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"
 import { itemNameMatchesPattern } from "akasha/temper/items/core/modules/item-name-pattern/item-name-pattern.module.code.ts"
 
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
@@ -67,7 +66,10 @@ export function checkClassification(
     if (facts.traitType === undefined) {
       return { kind: "indeterminate", conditionKind: "traits", missingSignal: "traitType" }
     }
-    const temperId = esoTraitToTemperId(facts.traitType, facts.equipType)
+    const temperId = ctx.env.getTraitOfEso(facts.traitType, facts.equipType)
+    if (temperId === "unknown") {
+      return { kind: "indeterminate", conditionKind: "traits", missingSignal: "traitId" }
+    }
     if (temperId === undefined) {
       return { kind: "fail", conditionKind: "traits", detail: "no-temper-id" }
     }

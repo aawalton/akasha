@@ -2,83 +2,96 @@ import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { noWeight } from "akasha/temper/catalog/gear/temper-armor-weight/pages/no-weight/no-weight.temper-armor-weight.ts"
+import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts"
+import type { TemperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.types.ts"
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
 import type { TemperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.types.ts"
-import { noType } from "akasha/temper/catalog/gear/temper-weapon-type/pages/no-type/no-type.temper-weapon-type.ts"
+import { temperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.ts"
+import type { TemperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.types.ts"
+import { temperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts"
+import type { TemperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.types.ts"
+import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
+import type { TemperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.types.ts"
 import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
 import type { TemperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts"
 
-type Places = { [esoId: number]: number | undefined }
+type Places = { [key: string]: number | undefined }
+
+type Placed = { readonly slug: string; readonly hashPlace: number }
 
 let weightPlaces: Places | undefined
 
+let noWeightPlace = 0
+
 function weightPlacesOf(this: void): Places {
   const found: Places = {}
-  for (const one of $pagesOfType<Pick<TemperArmorWeight, "armorType" | "hashPlace">>(
+  for (const one of $pagesOfType<Pick<TemperArmorWeight, "slug" | "armorType" | "hashPlace">>(
     temperArmorWeight
   )) {
-    if (one.armorType !== undefined) found[one.armorType] = one.hashPlace
+    if (one.slug === "no-weight") noWeightPlace = one.hashPlace
+    if (one.armorType !== undefined) found[`${one.armorType}`] = one.hashPlace
   }
   return found
 }
 
 export function getPlayerArmorWeightIndex(esoArmorType: number): number {
   weightPlaces ??= weightPlacesOf()
-  return weightPlaces[esoArmorType] ?? noWeight.hashPlace
+  return weightPlaces[`${esoArmorType}`] ?? noWeightPlace
 }
-const PLAYER_ARMOR_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
-  [ITEM_TRAIT_TYPE_NONE]: 0,
-  [ITEM_TRAIT_TYPE_ARMOR_DIVINES]: 1,
-  [ITEM_TRAIT_TYPE_ARMOR_IMPENETRABLE]: 2,
-  [ITEM_TRAIT_TYPE_ARMOR_INFUSED]: 3,
-  [ITEM_TRAIT_TYPE_ARMOR_PROLIFIC]: 4,
-  [ITEM_TRAIT_TYPE_ARMOR_NIRNHONED]: 5,
-  [ITEM_TRAIT_TYPE_ARMOR_REINFORCED]: 6,
-  [ITEM_TRAIT_TYPE_ARMOR_STURDY]: 7,
-  [ITEM_TRAIT_TYPE_ARMOR_TRAINING]: 8,
-  [ITEM_TRAIT_TYPE_ARMOR_WELL_FITTED]: 9,
-  [ITEM_TRAIT_TYPE_ARMOR_ORNATE]: 10,
-  [ITEM_TRAIT_TYPE_ARMOR_INTRICATE]: 11,
+
+let traitPlaces: Places | undefined
+
+function placedIn(
+  this: void,
+  found: Places,
+  pageType: string,
+  pages: readonly Placed[]
+): undefined {
+  for (const one of pages) found[`${pageType}/${one.slug}`] = one.hashPlace
+  return undefined
 }
+
+function traitPlacesOf(this: void): Places {
+  const byAddress: Places = {}
+  placedIn(
+    byAddress,
+    "temper-armor-trait",
+    $pagesOfType<Pick<TemperArmorTrait, "slug" | "hashPlace">>(temperArmorTrait)
+  )
+  placedIn(
+    byAddress,
+    "temper-weapon-trait",
+    $pagesOfType<Pick<TemperWeaponTrait, "slug" | "hashPlace">>(temperWeaponTrait)
+  )
+  placedIn(
+    byAddress,
+    "temper-jewelry-trait",
+    $pagesOfType<Pick<TemperJewelryTrait, "slug" | "hashPlace">>(temperJewelryTrait)
+  )
+  const found: Places = {}
+  for (const one of $pagesOfType<
+    Pick<TemperEsoTraitMap, "traitFamily" | "traitId" | "esoTraitNum">
+  >(temperEsoTraitMap)) {
+    found[`${one.traitFamily}/${one.esoTraitNum}`] = byAddress[one.traitId]
+  }
+  return found
+}
+
+function traitPlace(this: void, family: string, esoId: number): number {
+  traitPlaces ??= traitPlacesOf()
+  return traitPlaces[`${family}/${esoId}`] ?? traitPlaces[`${family}/${ITEM_TRAIT_TYPE_NONE}`] ?? 0
+}
+
 export function getPlayerArmorTraitIndex(esoId: number): number {
-  return PLAYER_ARMOR_TRAIT_ESO_ID_TO_INDEX[esoId] ?? 0
+  return traitPlace("armor", esoId)
 }
 
-const PLAYER_WEAPON_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
-  [ITEM_TRAIT_TYPE_NONE]: 0,
-  [ITEM_TRAIT_TYPE_WEAPON_CHARGED]: 1,
-  [ITEM_TRAIT_TYPE_WEAPON_DECISIVE]: 2,
-  [ITEM_TRAIT_TYPE_WEAPON_DEFENDING]: 3,
-  [ITEM_TRAIT_TYPE_WEAPON_INFUSED]: 4,
-  [ITEM_TRAIT_TYPE_WEAPON_NIRNHONED]: 5,
-  [ITEM_TRAIT_TYPE_WEAPON_POWERED]: 6,
-  [ITEM_TRAIT_TYPE_WEAPON_PRECISE]: 7,
-  [ITEM_TRAIT_TYPE_WEAPON_SHARPENED]: 8,
-  [ITEM_TRAIT_TYPE_WEAPON_TRAINING]: 9,
-  [ITEM_TRAIT_TYPE_WEAPON_ORNATE]: 10,
-  [ITEM_TRAIT_TYPE_WEAPON_INTRICATE]: 11,
-}
 export function getPlayerWeaponTraitIndex(esoId: number): number {
-  return PLAYER_WEAPON_TRAIT_ESO_ID_TO_INDEX[esoId] ?? 0
+  return traitPlace("weapon", esoId)
 }
 
-const PLAYER_JEWELRY_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
-  [ITEM_TRAIT_TYPE_NONE]: 0,
-  [ITEM_TRAIT_TYPE_JEWELRY_ARCANE]: 1,
-  [ITEM_TRAIT_TYPE_JEWELRY_BLOODTHIRSTY]: 2,
-  [ITEM_TRAIT_TYPE_JEWELRY_HARMONY]: 3,
-  [ITEM_TRAIT_TYPE_JEWELRY_HEALTHY]: 4,
-  [ITEM_TRAIT_TYPE_JEWELRY_INFUSED]: 5,
-  [ITEM_TRAIT_TYPE_JEWELRY_PROTECTIVE]: 6,
-  [ITEM_TRAIT_TYPE_JEWELRY_ROBUST]: 7,
-  [ITEM_TRAIT_TYPE_JEWELRY_SWIFT]: 8,
-  [ITEM_TRAIT_TYPE_JEWELRY_TRIUNE]: 9,
-  [ITEM_TRAIT_TYPE_JEWELRY_ORNATE]: 10,
-  [ITEM_TRAIT_TYPE_JEWELRY_INTRICATE]: 11,
-}
 export function getPlayerJewelryTraitIndex(esoId: number): number {
-  return PLAYER_JEWELRY_TRAIT_ESO_ID_TO_INDEX[esoId] ?? 0
+  return traitPlace("jewelry", esoId)
 }
 
 const PLAYER_ARMOR_ENCHANT_ESO_ID_TO_INDEX: Record<number, number> = {
@@ -143,17 +156,20 @@ export function getPlayerJewelryEnchantIndex(esoId: number): number {
 
 let weaponTypePlaces: Places | undefined
 
+let noTypePlace = 0
+
 function weaponTypePlacesOf(this: void): Places {
   const found: Places = {}
-  for (const one of $pagesOfType<Pick<TemperWeaponType, "esoWeaponTypeNumber" | "hashPlace">>(
-    temperWeaponType
-  )) {
-    found[one.esoWeaponTypeNumber] = one.hashPlace
+  for (const one of $pagesOfType<
+    Pick<TemperWeaponType, "slug" | "esoWeaponTypeNumber" | "hashPlace">
+  >(temperWeaponType)) {
+    if (one.slug === "no-type") noTypePlace = one.hashPlace
+    found[`${one.esoWeaponTypeNumber}`] = one.hashPlace
   }
   return found
 }
 
 export function getPlayerWeaponTypeIndex(esoId: number): number {
   weaponTypePlaces ??= weaponTypePlacesOf()
-  return weaponTypePlaces[esoId] ?? noType.hashPlace
+  return weaponTypePlaces[`${esoId}`] ?? noTypePlace
 }

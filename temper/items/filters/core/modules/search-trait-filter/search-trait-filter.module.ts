@@ -21,5 +21,9 @@ export const searchTraitFilter = {
       decisionKind: "decision-kind/departure",
       statement: "An ESO trait number of zero is left out of the server terms.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The trait names and numbers are the tables the addon writes from the pages.",
+    },
   ],
 } as const satisfies Module

@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}

@@ -22,6 +22,9 @@ const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-potion-dropped": ["effects"],
   "temper-potion-crafted": ["effects"],
   "temper-eso-companion": ["companionQuests"],
+  "temper-armor-trait": ["effects"],
+  "temper-weapon-trait": ["effects"],
+  "temper-jewelry-trait": ["effects"],
 }
 
 let storePromise: Promise<PagesStore> | null = null

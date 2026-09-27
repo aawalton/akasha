@@ -9,12 +9,15 @@ export const weaponTraits = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the trait pages rather than by hand.",
+      statement: "The weapon traits are read from the weapon trait pages and held.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A trait's place in this table is the index a build hash has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build may pick the traits whose pages state them available.",
+    },
   ],
-  hashIndexed: ["WEAPON_TRAIT_DATA"],
 } as const satisfies Module

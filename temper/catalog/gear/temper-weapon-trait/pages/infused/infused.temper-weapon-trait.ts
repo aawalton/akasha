@@ -10,4 +10,6 @@ export const infused = {
   material: "Jade",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_WEAPON_INFUSED",
   displayOrder: 4,
+  hashPlace: 4,
+  available: true,
 } as const satisfies TemperWeaponTrait

@@ -9,4 +9,6 @@ export const intricate = {
   effect: "Increases Inspiration from deconstruction",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_INTRICATE",
   displayOrder: 11,
+  hashPlace: 11,
+  available: false,
 } as const satisfies TemperJewelryTrait

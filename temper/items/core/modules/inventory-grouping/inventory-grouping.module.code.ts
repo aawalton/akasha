@@ -1,5 +1,5 @@
+import { heldTraitOfEso } from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import { classifyItem } from "akasha/temper/items/core/modules/classify-item/classify-item.module.code.ts"
-import { esoTraitToTemperId } from "akasha/temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.code.ts"
 import { computeValue } from "akasha/temper/items/core/modules/inventory-display-value/inventory-display-value.module.code.ts"
 import {
   INVENTORY_TYPE_CATEGORY_ORDER,
@@ -48,7 +48,7 @@ export function filterInventoryGroups<T extends FilterableGroup>(
       if (searchLower !== "" && !item.itemName.toLowerCase().includes(searchLower)) return false
       if (qualitySet && !qualitySet.has(item.quality)) return false
       if (traitSet) {
-        const traitId = esoTraitToTemperId(item.traitType, item.equipType)
+        const traitId = heldTraitOfEso(item.traitType, item.equipType)
         if (traitId == null || !traitSet.has(traitId)) return false
       }
       return true
@@ -354,7 +354,7 @@ export function filterInventoryTypeGroups(
       if (searchLower !== "" && !row.itemName.toLowerCase().includes(searchLower)) return false
       if (qualitySet && !qualitySet.has(row.quality)) return false
       if (traitSet) {
-        const traitId = esoTraitToTemperId(row.traitType, row.equipType)
+        const traitId = heldTraitOfEso(row.traitType, row.equipType)
         if (traitId == null || !traitSet.has(traitId)) return false
       }
       return true

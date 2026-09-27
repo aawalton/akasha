@@ -12,8 +12,11 @@ import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-ot
 import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
 import { temperGearGrade } from "akasha/temper/catalog/gear/grade/temper-gear-grade.page-type.ts"
 import { temperArmorSlot } from "akasha/temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts"
+import { temperArmorTrait } from "akasha/temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts"
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
+import { temperEsoTraitMap } from "akasha/temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.ts"
 import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
+import { temperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts"
 import { temperJewelryType } from "akasha/temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts"
 import { temperPotion } from "akasha/temper/catalog/gear/temper-potion/temper-potion.page-type.ts"
 import { temperPotionCrafted } from "akasha/temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts"
@@ -22,6 +25,7 @@ import { temperPotionDropped } from "akasha/temper/catalog/gear/temper-potion-dr
 import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
 import { temperReagent } from "akasha/temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts"
 import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
+import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
 import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
@@ -97,12 +101,20 @@ export function useSkillCatalog(): SkillCatalog | null {
   const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
   const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
   const weaponTypes = usePages({ pageTypeSlug: temperWeaponType.slug, limit: EVERY })
+  const armorTraits = usePages({ pageTypeSlug: temperArmorTrait.slug, limit: EVERY })
+  const weaponTraits = usePages({ pageTypeSlug: temperWeaponTrait.slug, limit: EVERY })
+  const jewelryTraits = usePages({ pageTypeSlug: temperJewelryTrait.slug, limit: EVERY })
+  const traitNumbers = usePages({ pageTypeSlug: temperEsoTraitMap.slug, limit: EVERY })
   const skillPoints = usePages({ pageTypeSlug: temperSkillPoint.slug, limit: EVERY })
   const completionCategories = usePages({
     pageTypeSlug: temperCompletionCategory.slug,
     limit: EVERY,
   })
   const read = [
+    armorTraits,
+    weaponTraits,
+    jewelryTraits,
+    traitNumbers,
     weaponTypes,
     armorSlots,
     jewelrySlots,
@@ -195,6 +207,10 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperArmorWeight.slug, armorWeights.rows],
       [temperGearGrade.slug, grades.rows],
       [temperWeaponType.slug, weaponTypes.rows],
+      [temperArmorTrait.slug, armorTraits.rows],
+      [temperWeaponTrait.slug, weaponTraits.rows],
+      [temperJewelryTrait.slug, jewelryTraits.rows],
+      [temperEsoTraitMap.slug, traitNumbers.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -244,6 +260,10 @@ export function useSkillCatalog(): SkillCatalog | null {
     armorWeights.rows,
     grades.rows,
     weaponTypes.rows,
+    armorTraits.rows,
+    weaponTraits.rows,
+    jewelryTraits.rows,
+    traitNumbers.rows,
   ])
   if (failed !== null) throw failed
   return catalog

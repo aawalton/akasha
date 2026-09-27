@@ -30,6 +30,7 @@ const STUB_ENV: EvalEnv = {
   getCharacterCanLevelMorphs: () => "unknown",
   getKnownChapterCountForStyle: () => "unknown",
   getSetCategory: () => "unknown",
+  getTraitOfEso: () => "unknown",
 }
 
 export function ctxWith(overrides: Partial<EvalEnv>): EvalContext {

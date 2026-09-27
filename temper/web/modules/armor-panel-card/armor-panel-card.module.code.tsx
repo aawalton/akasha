@@ -9,8 +9,7 @@ import {
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type ArmorTraitId,
-  armorTraitsBuildList,
-  armorTraits as armorTraitsData,
+  armorTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
@@ -232,13 +231,7 @@ export function ArmorPanelCard({
               <BulkEditTag<ArmorTraitId>
                 key={`trait-${trait}`}
                 currentValue={trait}
-                options={
-                  armorTraitsBuildList.some((t) => t.id === trait)
-                    ? armorTraitsBuildList
-                    : armorTraitsData.has(trait)
-                      ? [...armorTraitsBuildList, armorTraitsData.data[trait]]
-                      : armorTraitsBuildList
-                }
+                options={armorTraitOptions(trait)}
                 onSelect={handleBulkUpdateArmorTrait}
                 count={count}
               />

@@ -1,3 +1,10 @@
+{"propertySlug":"import","fileName":"temper-armor-trait.page-type.ts","path":"temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-trait.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-trait.page-type.ts","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids-keeping/gear-kind-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-trait.page-type.ts","path":"temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-trait.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-trait.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-trait.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-trait.page-type.types.ts","path":"temper/catalog/gear/temper-armor-trait/pages/divines/divines.temper-armor-trait.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-trait.page-type.types.ts","path":"temper/catalog/gear/temper-armor-trait/pages/impenetrable/impenetrable.temper-armor-trait.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-trait.page-type.types.ts","path":"temper/catalog/gear/temper-armor-trait/pages/infused/infused.temper-armor-trait.ts","typed":true,"deferred":false}

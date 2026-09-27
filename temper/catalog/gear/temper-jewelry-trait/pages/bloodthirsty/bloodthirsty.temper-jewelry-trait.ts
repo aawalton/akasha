@@ -11,4 +11,6 @@ export const bloodthirsty = {
   material: "Slaughterstone",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_BLOODTHIRSTY",
   displayOrder: 2,
+  hashPlace: 2,
+  available: true,
 } as const satisfies TemperJewelryTrait

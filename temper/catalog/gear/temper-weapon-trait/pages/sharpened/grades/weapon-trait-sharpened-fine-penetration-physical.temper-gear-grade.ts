@@ -9,4 +9,5 @@ export const weaponTraitSharpenedFinePenetrationPhysical = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-penetration-physical",
   value: 1485,
+  rawValue: 1485.2727272727273,
 } as const satisfies TemperGearGrade

@@ -11,4 +11,6 @@ export const invigorating = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_PROLIFIC",
   displayOrder: 4,
   effects: "jsonl",
+  hashPlace: 4,
+  available: true,
 } as const satisfies TemperArmorTrait

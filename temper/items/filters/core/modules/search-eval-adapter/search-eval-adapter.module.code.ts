@@ -1,3 +1,4 @@
+import { addonTraitOfEso } from "akasha/temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
 import type { ConditionCheckResult } from "akasha/temper/items/rules/eval/modules/check-result/check-result.module.code.ts"
 import type {
@@ -52,6 +53,7 @@ const PURE_FACTS_ENV: EvalEnv = {
   getCharacterCanLevelMorphs: fail,
   getKnownChapterCountForStyle: fail,
   getSetCategory: fail,
+  getTraitOfEso: addonTraitOfEso,
 }
 
 const PURE_FACTS_CTX: EvalContext = { env: PURE_FACTS_ENV }

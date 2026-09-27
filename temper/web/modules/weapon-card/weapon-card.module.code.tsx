@@ -18,14 +18,12 @@ import {
 } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import {
   type ArmorTraitId,
-  armorTraits,
-  armorTraitsBuildList,
+  armorTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import {
   type WeaponTraitId,
-  weaponTraits,
-  weaponTraitsBuildList,
+  weaponTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
 import {
@@ -250,26 +248,15 @@ export function WeaponCard({
                     </Badge>
                   </SelectTrigger>
                   <SelectContent nullSentinel={{ value: "no-trait", label: "No Trait" }} sorted>
-                    {(() => {
-                      const currentTrait = itemData?.trait ?? "no-trait"
-                      const buildList = isShieldType ? armorTraitsBuildList : weaponTraitsBuildList
-                      const computedOptions = buildList.some((t) => t.id === currentTrait)
-                        ? buildList
-                        : isShieldType
-                          ? armorTraits.has(currentTrait)
-                            ? [...armorTraitsBuildList, armorTraits.data[currentTrait]]
-                            : armorTraitsBuildList
-                          : weaponTraits.has(currentTrait)
-                            ? [...weaponTraitsBuildList, weaponTraits.data[currentTrait]]
-                            : weaponTraitsBuildList
-                      return computedOptions
-                        .filter((option) => option.id !== "no-trait")
-                        .map((option) => (
-                          <SelectItem key={option.id} value={option.id}>
-                            {option.name}
-                          </SelectItem>
-                        ))
-                    })()}
+                    {(isShieldType ? armorTraitOptions : weaponTraitOptions)(
+                      itemData?.trait ?? "no-trait"
+                    )
+                      .filter((option) => option.id !== "no-trait")
+                      .map((option) => (
+                        <SelectItem key={option.id} value={option.id}>
+                          {option.name}
+                        </SelectItem>
+                      ))}
                   </SelectContent>
                 </Select>
                 <Select<WeaponEnchantmentId | ArmorEnchantId>

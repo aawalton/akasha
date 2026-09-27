@@ -17,8 +17,7 @@ import {
 } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import {
   type JewelryTraitId,
-  jewelryTraits,
-  jewelryTraitsBuildList,
+  jewelryTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
@@ -161,21 +160,13 @@ export function JewelryCard({
                     </Badge>
                   </SelectTrigger>
                   <SelectContent nullSentinel={{ value: "no-trait", label: "No Trait" }} sorted>
-                    {(() => {
-                      const currentTrait = itemData?.trait ?? "no-trait"
-                      const traitOptions = jewelryTraitsBuildList.some((t) => t.id === currentTrait)
-                        ? jewelryTraitsBuildList
-                        : jewelryTraits.has(currentTrait)
-                          ? [...jewelryTraitsBuildList, jewelryTraits.data[currentTrait]]
-                          : jewelryTraitsBuildList
-                      return traitOptions
-                        .filter((option) => option.id !== "no-trait")
-                        .map((option) => (
-                          <SelectItem key={option.id} value={option.id}>
-                            {option.name}
-                          </SelectItem>
-                        ))
-                    })()}
+                    {jewelryTraitOptions(itemData?.trait ?? "no-trait")
+                      .filter((option) => option.id !== "no-trait")
+                      .map((option) => (
+                        <SelectItem key={option.id} value={option.id}>
+                          {option.name}
+                        </SelectItem>
+                      ))}
                   </SelectContent>
                 </Select>
                 <Select<JewelryEnchantId>

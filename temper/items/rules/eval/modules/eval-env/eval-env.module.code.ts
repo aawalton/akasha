@@ -77,6 +77,11 @@ export interface EvalEnv {
   readonly getKnownChapterCountForStyle: (charId: string, styleId: number) => LookupResult<number>
 
   readonly getSetCategory: (esoSetId: number) => LookupResult<string | undefined>
+
+  readonly getTraitOfEso: (
+    esoTraitType: number,
+    equipType: number | undefined
+  ) => LookupResult<string | undefined>
 }
 
 export interface WantedEquipmentFacts {

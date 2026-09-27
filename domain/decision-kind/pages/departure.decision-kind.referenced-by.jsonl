@@ -4177,6 +4177,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-set-categories/inventory-set-categories.module.ts","id":"01a0e090-8908-77c8-8fbc-359bfba964f7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-stock-deposit-decision/inventory-stock-deposit-decision.module.ts","id":"01a06258-b534-7658-a6f9-6918c06107d4"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-tooltip-rule-line/inventory-tooltip-rule-line.module.ts","id":"01a06258-b534-70ec-b172-fd006cbff261"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.ts","id":"01a0e0f3-80e9-72bb-b96d-6fc54b4b7e52"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-titles/inventory-venue-titles.module.ts","id":"01a0e0d4-8faf-700c-aa29-74433f2c6c31"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.ts","id":"01a06258-b536-712e-9550-52d00f78c679"}
@@ -4923,7 +4924,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-effect-sources/companion-effect-sources.module.ts","id":"01a06152-c2c7-7dff-b7bf-68a31c3744ce"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.ts","id":"01a06152-c2c7-72a3-af73-86de77280931"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.ts","id":"01a06108-0766-785a-9dd2-ef09e0ab69e2"}
-{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.ts","id":"01a06108-0767-7cc4-aa89-8fc44f01c10b"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-factory/companion-factory.module.ts","id":"01a06152-c2c8-7e6d-b07f-b8d4a1e94f30"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-evaluator/companion-formula-evaluator.module.ts","id":"01a06152-c2c8-7842-b7a4-49754c4f6418"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.ts","id":"01a06152-c2c8-7340-b909-f5fd7c81e388"}
@@ -4964,7 +4964,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-buff-math/companion-support-buff-math.module.ts","id":"01a06152-c2d7-7695-9439-9870ccc2e399"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-contributions/companion-support-contributions.module.ts","id":"01a06152-c2d7-7218-a6b1-632b35f18a49"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-support-evaluator/companion-support-evaluator.module.ts","id":"01a06152-c2d7-79f1-86ad-f183166c0a7e"}
-{"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-trait-pages/companion-trait-pages.module.ts","id":"01a0d625-d1ec-7d5d-af90-b993fa76bbd5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-trait-reading/companion-trait-reading.module.ts","id":"01a0d5ce-ca66-7eb3-84bc-f4874bcbbc80"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.ts","id":"01a06108-076e-76c3-9e85-b58e3d430303"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.ts","id":"01a06119-5cae-707d-b341-15cffa09f8ac"}
@@ -5029,15 +5028,18 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/gear-type-names/gear-type-names.module.ts","id":"01a0e0f1-c52f-79b5-8396-13fc14696f93"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.ts","id":"01a0e0c4-2114-71f3-b6a1-be4494c0f478"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.ts","id":"01a0610f-45bb-7e6d-9e65-09ec21c0cff3"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.ts","id":"01a0e0f3-80ea-7bb5-8c71-3c713f08bb69"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.ts","id":"01a0610f-45bb-7d20-aedf-7d954ebf2ec5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.ts","id":"01a060f0-3eae-7300-a19e-36158f3ca349"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.ts","id":"01a0d3e3-15fd-7894-84c4-490fc66d1590"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/item-set/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts","id":"01a05fb0-3ceb-7229-9089-127418274d52"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.ts","id":"01a0d62c-4624-7bf3-b478-830ca19d8e09"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.one-of-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts","id":"01a05fd1-d433-7c53-933e-ed171c6f7cf9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts","id":"01a05fd1-d433-7778-b5e5-05081a435bde"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-motif-style/properties/drop-sources.multi-relation-property.ts","id":"01a05fd1-d439-7027-bdca-1804e14d6caf"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-motif-style/properties/style-name.text-property.ts","id":"01a0e0ee-e841-7e6c-b6dd-77210866c295"}
@@ -5071,6 +5073,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-talisman-gem/temper-talisman-gem.page-type.ts","id":"01a0d986-17f8-7c83-850b-f9d408fc31db"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","id":"01a05fd1-d442-7175-b5e4-f7ef9e21a36c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/buff-id.one-of-property.ts","id":"01a05fcc-41f1-7e7a-abd6-c8c6650999ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/thing/properties/item-level.text-property.ts","id":"01a05fcc-41f3-75f3-b81e-993d8b24e369"}

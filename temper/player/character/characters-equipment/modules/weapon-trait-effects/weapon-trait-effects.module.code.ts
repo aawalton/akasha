@@ -1,44 +1,33 @@
-import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
-import {
-  type EquipmentQualityId,
-  resolveQuality,
-} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import {
-  WEAPON_TRAIT_QUALITY_VALUES,
-  weaponTraits,
-} from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
+import { resolveQuality } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
+import { traitEffectsAt } from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
+import { weaponTraitWorth } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponItem } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
-function rawTraitQualityValues(
-  normal: number,
-  legendary: number
-): Record<EquipmentQualityId, number> {
-  const range = legendary - normal
-  return {
-    normal,
-    fine: normal + (3 / 11) * range,
-    superior: normal + (6 / 11) * range,
-    epic: normal + (8 / 11) * range,
-    legendary,
-  }
+const DOUBLED_TWO_HANDED: ReadonlySet<string> = new Set(["charged", "powered", "precise"])
+
+const DOUBLED_UNROUNDED: ReadonlySet<string> = new Set(["defending", "sharpened"])
+
+function doubled(effects: readonly MetricEffect[], rounded: boolean): readonly MetricEffect[] {
+  return effects.map((effect) => {
+    if (typeof effect.effectValue !== "number") return effect
+    const twice = effect.effectValue * 2
+    return { ...effect, effectValue: rounded ? Math.floor(twice) : twice } as MetricEffect
+  })
 }
 
-const DEFENDING_RAW_VALUES = rawTraitQualityValues(
-  WEAPON_TRAIT_QUALITY_VALUES.defending.normal,
-  WEAPON_TRAIT_QUALITY_VALUES.defending.legendary
-)
-const SHARPENED_RAW_VALUES = rawTraitQualityValues(
-  WEAPON_TRAIT_QUALITY_VALUES.sharpened.normal,
-  WEAPON_TRAIT_QUALITY_VALUES.sharpened.legendary
-)
+function floored(effects: readonly MetricEffect[]): readonly MetricEffect[] {
+  return effects.map((effect) =>
+    typeof effect.effectValue === "number"
+      ? ({ ...effect, effectValue: Math.floor(effect.effectValue) } as MetricEffect)
+      : effect
+  )
+}
 
 function calculateDecisiveEffects(weapon: WeaponItem): readonly MetricEffect[] {
   const is2H = weaponTypes.data[weapon.type].isTwoHanded
-  const quality = resolveQuality(weapon.quality)
-
-  const baseChance = WEAPON_TRAIT_QUALITY_VALUES.decisive[quality]
+  const baseChance = weaponTraitWorth("decisive", resolveQuality(weapon.quality))
   const chanceValue = is2H ? baseChance * 2 : baseChance
 
   return [
@@ -55,110 +44,17 @@ function calculateDecisiveEffects(weapon: WeaponItem): readonly MetricEffect[] {
 }
 
 export function getWeaponTraitEffects(weapon: WeaponItem): readonly MetricEffect[] {
-  if (weapon.type === "no-type") return []
-
-  const traitConfig = weaponTraits.data[weapon.trait]
-  if (!traitConfig) return []
+  if (weapon.type === "no-type" || weapon.trait === "no-trait") return []
+  if (weapon.trait === "decisive") return calculateDecisiveEffects(weapon)
 
   const is2H = weaponTypes.data[weapon.type].isTwoHanded
   const quality = resolveQuality(weapon.quality)
 
-  if (traitConfig.id === "decisive") {
-    return calculateDecisiveEffects(weapon)
+  if (DOUBLED_UNROUNDED.has(weapon.trait)) {
+    const effects = traitEffectsAt("weapon", weapon.trait, quality, true)
+    return is2H ? doubled(effects, true) : floored(effects)
   }
 
-  if (traitConfig.id === "infused" || traitConfig.id === "nirnhoned") {
-    return []
-  }
-
-  switch (weapon.trait) {
-    case "charged": {
-      const baseValue = WEAPON_TRAIT_QUALITY_VALUES.charged[quality]
-      return [
-        {
-          metricId: "status-effect-chance" as const,
-          effectType: "fractional-change" as const,
-          effectValue: is2H ? baseValue * 2 : baseValue,
-        },
-      ]
-    }
-
-    case "defending": {
-      const rawValue = DEFENDING_RAW_VALUES[quality]
-      const value = Math.floor(is2H ? rawValue * 2 : rawValue)
-      return [
-        {
-          metricId: "resistance-physical" as const,
-          effectType: "integer" as const,
-          effectValue: value,
-        },
-        {
-          metricId: "resistance-spell" as const,
-          effectType: "integer" as const,
-          effectValue: value,
-        },
-      ]
-    }
-
-    case "powered": {
-      const baseValue = WEAPON_TRAIT_QUALITY_VALUES.powered[quality]
-      return [
-        {
-          metricId: "healing-done-base" as const,
-          effectType: "fractional-change" as const,
-          effectValue: is2H ? baseValue * 2 : baseValue,
-        },
-      ]
-    }
-
-    case "precise": {
-      const baseValue = WEAPON_TRAIT_QUALITY_VALUES.precise[quality]
-      return [
-        {
-          metricId: "critical-rating" as const,
-          effectType: "integer" as const,
-          effectValue: is2H ? baseValue * 2 : baseValue,
-        },
-      ]
-    }
-
-    case "sharpened": {
-      const rawValue = SHARPENED_RAW_VALUES[quality]
-      const value = Math.floor(is2H ? rawValue * 2 : rawValue)
-      return [
-        {
-          metricId: "penetration-physical" as const,
-          effectType: "integer" as const,
-          effectValue: value,
-        },
-        {
-          metricId: "penetration-spell" as const,
-          effectType: "integer" as const,
-          effectValue: value,
-        },
-      ]
-    }
-
-    case "training": {
-      const baseValue = WEAPON_TRAIT_QUALITY_VALUES.training[quality]
-      return [
-        {
-          metricId: "experience-gain" as const,
-          effectType: "fractional-change" as const,
-          effectValue: baseValue,
-        },
-      ]
-    }
-
-    case "no-trait":
-    case "infused":
-    case "nirnhoned":
-    case "ornate":
-    case "intricate":
-    case "decisive":
-      return traitConfig.effects
-
-    default:
-      return assertNever(weapon.trait)
-  }
+  const effects = traitEffectsAt("weapon", weapon.trait, quality)
+  return is2H && DOUBLED_TWO_HANDED.has(weapon.trait) ? doubled(effects, false) : effects
 }

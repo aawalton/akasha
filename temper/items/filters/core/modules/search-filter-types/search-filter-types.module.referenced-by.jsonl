@@ -48,7 +48,6 @@
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-survey-filter/search-survey-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-toggle-value-parse/search-toggle-value-parse.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-trait-filter/search-trait-filter.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-trait-filter/search-trait-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-transmuted-filter/search-transmuted-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-transmuted-filter/search-transmuted-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"search-filter-types.module.code.ts","path":"temper/items/filters/core/modules/search-treasure-map-filter/search-treasure-map-filter.module.code.ts","typed":false,"deferred":false}

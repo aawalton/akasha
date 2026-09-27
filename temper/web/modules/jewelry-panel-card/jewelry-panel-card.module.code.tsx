@@ -9,8 +9,7 @@ import {
 } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import {
   type JewelryTraitId,
-  jewelryTraits,
-  jewelryTraitsBuildList,
+  jewelryTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
@@ -178,13 +177,7 @@ export function JewelryPanelCard({
               <BulkEditTag<JewelryTraitId>
                 key={`trait-${trait}`}
                 currentValue={trait}
-                options={
-                  jewelryTraitsBuildList.some((t) => t.id === trait)
-                    ? jewelryTraitsBuildList
-                    : jewelryTraits.has(trait)
-                      ? [...jewelryTraitsBuildList, jewelryTraits.data[trait]]
-                      : jewelryTraitsBuildList
-                }
+                options={jewelryTraitOptions(trait)}
                 onSelect={handleBulkUpdateJewelryTrait}
                 count={count}
               />

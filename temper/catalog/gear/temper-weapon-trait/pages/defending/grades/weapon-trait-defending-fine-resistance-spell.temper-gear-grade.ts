@@ -9,4 +9,5 @@ export const weaponTraitDefendingFineResistanceSpell = {
   quality: "temper-quality/fine",
   metric: "temper-metric-tree/metric-resistance-spell",
   value: 1485,
+  rawValue: 1485.2727272727273,
 } as const satisfies TemperGearGrade

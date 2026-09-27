@@ -1,12 +1,9 @@
-import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import {
   type EquipmentQualityId,
   resolveQuality,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import {
-  ARMOR_TRAIT_QUALITY_VALUES,
-  armorTraits,
-} from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
+import { armorTraitWorth } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
+import { traitEffectsAt } from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
 import type { ArmorItem } from "akasha/temper/player/character/characters-equipment/modules/item-composites/item-composites.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
@@ -16,7 +13,7 @@ export function calculateDivinesValue(baseValue: number, armorItems: readonly Ar
   for (const piece of armorItems) {
     if (piece.trait === "divines") {
       const quality = resolveQuality(piece.quality)
-      totalDivinesBonus += Math.floor(baseValue * ARMOR_TRAIT_QUALITY_VALUES.divines[quality])
+      totalDivinesBonus += Math.floor(baseValue * armorTraitWorth("divines", quality))
     }
   }
 
@@ -27,82 +24,14 @@ export function getArmorTraitEffects(armor: ArmorItem): readonly MetricEffect[] 
   if (armor.trait === "no-trait" || armor.weight === "no-weight") {
     return []
   }
-
-  const quality = resolveQuality(armor.quality)
-  const traitConfig = armorTraits.data[armor.trait]
-  if (!traitConfig) return []
-
-  switch (armor.trait) {
-    case "impenetrable":
-      return [
-        {
-          metricId: "resistance-critical" as const,
-          effectType: "integer",
-          effectValue: ARMOR_TRAIT_QUALITY_VALUES.impenetrable[quality],
-        },
-      ]
-
-    case "invigorating": {
-      const value = ARMOR_TRAIT_QUALITY_VALUES.invigorating[quality]
-      return [
-        { metricId: "health-recovery" as const, effectType: "integer", effectValue: value },
-        { metricId: "magicka-recovery" as const, effectType: "integer", effectValue: value },
-        { metricId: "stamina-recovery" as const, effectType: "integer", effectValue: value },
-      ]
-    }
-
-    case "sturdy":
-      return [
-        {
-          metricId: "stamina-block-cost" as const,
-          effectType: "fractional-change",
-          effectValue: -ARMOR_TRAIT_QUALITY_VALUES.sturdy[quality],
-        },
-      ]
-
-    case "training":
-      return [
-        {
-          metricId: "experience-gain" as const,
-          effectType: "fractional-change",
-          effectValue: ARMOR_TRAIT_QUALITY_VALUES.training[quality],
-        },
-      ]
-
-    case "well-fitted": {
-      const value = -ARMOR_TRAIT_QUALITY_VALUES["well-fitted"][quality]
-      return [
-        {
-          metricId: "stamina-sprint-cost" as const,
-          effectType: "fractional-change",
-          effectValue: value,
-        },
-        {
-          metricId: "stamina-dodge-cost" as const,
-          effectType: "fractional-change",
-          effectValue: value,
-        },
-      ]
-    }
-
-    case "divines":
-    case "infused":
-    case "nirnhoned":
-    case "reinforced":
-    case "ornate":
-    case "intricate":
-      return traitConfig.effects
-
-    default:
-      return assertNever(armor.trait)
-  }
+  return traitEffectsAt("armor", armor.trait, resolveQuality(armor.quality))
 }
 
 export function calculateReinforcedValue(
   baseValue: number,
   quality: EquipmentQualityId = "legendary"
 ): number {
-  const bonus = ARMOR_TRAIT_QUALITY_VALUES.reinforced[quality]
+  const bonus = armorTraitWorth("reinforced", quality)
   return baseValue + Math.floor(baseValue * bonus)
 }
 
@@ -110,5 +39,5 @@ export function calculateNirnhonedValue(
   baseValue: number,
   quality: EquipmentQualityId = "legendary"
 ): number {
-  return baseValue + ARMOR_TRAIT_QUALITY_VALUES.nirnhoned[quality]
+  return baseValue + armorTraitWorth("nirnhoned", quality)
 }

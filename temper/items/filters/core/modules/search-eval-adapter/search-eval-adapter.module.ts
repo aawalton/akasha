@@ -14,7 +14,11 @@ export const searchEvalAdapter = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every environment accessor here throws rather than answering.",
+      statement: "Every environment accessor but the trait lookup throws rather than answering.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The trait lookup is answered from the tables the addon writes from the pages.",
     },
     {
       decisionKind: "decision-kind/departure",

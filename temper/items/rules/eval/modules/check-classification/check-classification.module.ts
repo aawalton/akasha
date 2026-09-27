@@ -33,5 +33,14 @@ export const checkClassification = {
       decisionKind: "decision-kind/absence",
       statement: "An item with no set id skips the set source type check entirely.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item's trait is the temper id the environment answers for its trait number.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An environment that cannot say an item's trait leaves the trait check indeterminate.",
+    },
   ],
 } as const satisfies Module

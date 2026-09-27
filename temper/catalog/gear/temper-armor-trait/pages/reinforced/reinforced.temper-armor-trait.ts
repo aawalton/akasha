@@ -10,4 +10,6 @@ export const reinforced = {
   material: "Sardonyx",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_REINFORCED",
   displayOrder: 6,
+  hashPlace: 6,
+  available: true,
 } as const satisfies TemperArmorTrait

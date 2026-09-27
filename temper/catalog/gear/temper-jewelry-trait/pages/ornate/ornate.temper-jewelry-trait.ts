@@ -9,4 +9,6 @@ export const ornate = {
   effect: "Increases sell price",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_ORNATE",
   displayOrder: 10,
+  hashPlace: 10,
+  available: false,
 } as const satisfies TemperJewelryTrait

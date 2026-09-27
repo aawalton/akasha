@@ -20,12 +20,8 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-conditions-render/inventory-rules-conditions-render.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { inferDeconCraftingType } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts"
+import { addonPlayerTraitOfEso } from "akasha/temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts"
 import { parseLuaCapture } from "akasha/temper/addon/shared/narrow/modules/parse-lua-capture/parse-lua-capture.module.code.ts"
-import {
-  PLAYER_ARMOR_ESO_TO_TRAIT,
-  PLAYER_JEWELRY_ESO_TO_TRAIT,
-  PLAYER_WEAPON_ESO_TO_TRAIT,
-} from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import type { EvalContext } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import type {
   IndeterminateReason,
@@ -76,15 +72,15 @@ function buildMatchContextForRender(itemLink: string, ancestorChain: string[]): 
     for (let i = 0; i < ancestorChain.length; i++) {
       const id = requireAt(ancestorChain, i)
       if (id === "jewelry" || id === "companion-jewelry") {
-        temperTraitId = PLAYER_JEWELRY_ESO_TO_TRAIT.get(signals.traitType)
+        temperTraitId = addonPlayerTraitOfEso("jewelry", signals.traitType)
         break
       }
       if (id === "weapons" || id === "companion-weapons") {
-        temperTraitId = PLAYER_WEAPON_ESO_TO_TRAIT.get(signals.traitType)
+        temperTraitId = addonPlayerTraitOfEso("weapon", signals.traitType)
         break
       }
       if (id === "armor" || id === "companion-armor") {
-        temperTraitId = PLAYER_ARMOR_ESO_TO_TRAIT.get(signals.traitType)
+        temperTraitId = addonPlayerTraitOfEso("armor", signals.traitType)
         break
       }
     }

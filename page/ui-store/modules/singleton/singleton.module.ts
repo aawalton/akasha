@@ -47,6 +47,10 @@ export const singleton = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An armor, weapon or jewelry trait's listing carries the effect rows beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other page type is listed without the rows filed beside its pages.",
     },
   ],

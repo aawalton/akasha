@@ -9,4 +9,5 @@ export const weaponTraitSharpenedSuperiorPenetrationSpell = {
   quality: "temper-quality/superior",
   metric: "temper-metric-tree/metric-penetration-spell",
   value: 1542,
+  rawValue: 1542.5454545454545,
 } as const satisfies TemperGearGrade

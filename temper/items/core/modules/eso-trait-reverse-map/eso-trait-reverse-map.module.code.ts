@@ -1,29 +1,28 @@
-import {
-  COMPANION_ARMOR_ESO_TO_TRAIT,
-  COMPANION_JEWELRY_ESO_TO_TRAIT,
-  COMPANION_WEAPON_ESO_TO_TRAIT,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-eso-trait-map/companion-eso-trait-map.module.code.ts"
-import {
-  PLAYER_ARMOR_ESO_TO_TRAIT,
-  PLAYER_JEWELRY_ESO_TO_TRAIT,
-  PLAYER_WEAPON_ESO_TO_TRAIT,
-} from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
+export type GearFamily = "weapon" | "armor" | "jewelry"
+
+type TraitOfEso = (family: GearFamily, esoTraitType: number) => string | undefined
+
+export type EsoTraitLookups = {
+  readonly player: TraitOfEso
+  readonly companion: TraitOfEso
+}
 
 const JEWELRY_EQUIP_TYPES = new Set([2, 12])
 
-export function esoTraitToTemperId(esoTraitType: number, equipType?: number): string | undefined {
+export function esoTraitToTemperId(
+  lookups: EsoTraitLookups,
+  esoTraitType: number,
+  equipType?: number
+): string | undefined {
   if (equipType !== undefined && JEWELRY_EQUIP_TYPES.has(equipType)) {
-    return (
-      PLAYER_JEWELRY_ESO_TO_TRAIT.get(esoTraitType) ??
-      COMPANION_JEWELRY_ESO_TO_TRAIT.get(esoTraitType)
-    )
+    return lookups.player("jewelry", esoTraitType) ?? lookups.companion("jewelry", esoTraitType)
   }
   return (
-    PLAYER_WEAPON_ESO_TO_TRAIT.get(esoTraitType) ??
-    PLAYER_ARMOR_ESO_TO_TRAIT.get(esoTraitType) ??
-    PLAYER_JEWELRY_ESO_TO_TRAIT.get(esoTraitType) ??
-    COMPANION_WEAPON_ESO_TO_TRAIT.get(esoTraitType) ??
-    COMPANION_ARMOR_ESO_TO_TRAIT.get(esoTraitType) ??
-    COMPANION_JEWELRY_ESO_TO_TRAIT.get(esoTraitType)
+    lookups.player("weapon", esoTraitType) ??
+    lookups.player("armor", esoTraitType) ??
+    lookups.player("jewelry", esoTraitType) ??
+    lookups.companion("weapon", esoTraitType) ??
+    lookups.companion("armor", esoTraitType) ??
+    lookups.companion("jewelry", esoTraitType)
   )
 }

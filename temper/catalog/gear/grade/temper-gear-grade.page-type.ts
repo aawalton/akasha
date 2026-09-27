@@ -7,13 +7,18 @@ export const temperGearGrade = {
   definition: "what a piece of gear's enchant or trait is worth at one quality",
   pluralSlug: "grades",
   extends: ["page-type/temper-gear-thing"],
-  parts: ["relation-property/grade-metric", "relation-property/graded-thing"],
+  parts: [
+    "relation-property/grade-metric",
+    "relation-property/graded-thing",
+    "number-property/raw-quality-value",
+  ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
     { pageProperty: "relation-property/graded-thing", required: true, many: false },
     { pageProperty: "relation-property/quality", required: true, many: false },
     { pageProperty: "relation-property/grade-metric", required: false, many: false },
     { pageProperty: "number-property/quality-value", required: true, many: false },
+    { pageProperty: "number-property/raw-quality-value", required: false, many: false },
   ],
   decisions: [
     {
@@ -35,6 +40,10 @@ export const temperGearGrade = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A grade's slug opens with the kind of thing graded, since one trait name recurs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A grade the game rounds for show states the unrounded worth it scales from.",
     },
   ],
   types: "ts",

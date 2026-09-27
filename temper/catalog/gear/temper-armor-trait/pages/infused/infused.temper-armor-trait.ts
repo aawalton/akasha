@@ -10,4 +10,6 @@ export const infused = {
   material: "Bloodstone",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_INFUSED",
   displayOrder: 3,
+  hashPlace: 3,
+  available: true,
 } as const satisfies TemperArmorTrait

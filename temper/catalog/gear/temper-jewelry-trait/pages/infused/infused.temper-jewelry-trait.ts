@@ -10,4 +10,6 @@ export const infused = {
   material: "Aurbic Amber",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_INFUSED",
   displayOrder: 5,
+  hashPlace: 5,
+  available: true,
 } as const satisfies TemperJewelryTrait

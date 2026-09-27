@@ -9,6 +9,10 @@ import {
   gearTypeNamesOf,
   holdGearTypeNames,
 } from "akasha/temper/catalog/gear/equipment/modules/gear-type-names/gear-type-names.module.code.ts"
+import {
+  holdTraits,
+  TRAIT_READS,
+} from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
 import { temperGearGrade } from "akasha/temper/catalog/gear/grade/temper-gear-grade.page-type.ts"
 import { temperArmorSlot } from "akasha/temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts"
 import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
@@ -43,7 +47,8 @@ export const GEAR_READS: readonly Read[] = [
       "esoWeaponTypeNumber",
     ],
   ],
-  [temperGearGrade.slug, ["slug", "thing", "quality", "metric", "value"]],
+  [temperGearGrade.slug, ["slug", "thing", "quality", "metric", "value", "rawValue"]],
+  ...TRAIT_READS,
   [
     temperWeaponType.slug,
     [
@@ -68,6 +73,7 @@ export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undef
   holdWeaponSlots(rowsOf(temperWeaponSlot.slug))
   holdArmorWeights(rowsOf(temperArmorWeight.slug), rowsOf(temperGearGrade.slug))
   holdWeaponTypes(rowsOf(temperWeaponType.slug), rowsOf(temperGearGrade.slug))
+  holdTraits(rowsOf)
   holdGearTypeNames(
     gearTypeNamesOf({
       armorSlots: rowsOf(temperArmorSlot.slug),

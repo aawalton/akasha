@@ -21,7 +21,7 @@ export const temperCompanionsCore = {
     "module/companion-equipment-icons",
     "module/companion-equipment-qualities",
     "module/companion-equipment-quality-rules",
-    "module/companion-eso-trait-map",
+
     "module/companion-factory",
     "module/companion-formula-evaluator",
     "module/companion-formula-extraction",
@@ -79,7 +79,7 @@ export const temperCompanionsCore = {
     "module/companion-skill-line-reading",
     "module/companion-skill-reading",
     "module/companion-trait-reading",
-    "module/companion-trait-pages",
+
     "module/companion-catalog",
     "module/companion-skill-queries",
     "module/companion-catalog-loading",

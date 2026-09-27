@@ -1,3 +1,4 @@
+import { heldTraitOfEso } from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
 import {
   type CharacterKnowledge,
   knownMotifChapters,
@@ -90,6 +91,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
       return knownMotifChapters(held, styleId)?.size ?? 0
     },
     getSetCategory: setCategoryOfEsoSet,
+    getTraitOfEso: heldTraitOfEso,
 
     getConsumableWanters: (itemId) => consumableWanters.get(itemId) ?? [],
     getConsumableStock: (itemId, charId) => {

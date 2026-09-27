@@ -9,4 +9,5 @@ export const weaponTraitDefendingEpicResistancePhysical = {
   quality: "temper-quality/epic",
   metric: "temper-metric-tree/metric-resistance-physical",
   value: 1580,
+  rawValue: 1580.7272727272727,
 } as const satisfies TemperGearGrade

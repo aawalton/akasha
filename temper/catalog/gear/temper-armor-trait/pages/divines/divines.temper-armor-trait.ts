@@ -10,4 +10,6 @@ export const divines = {
   material: "Sapphire",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_DIVINES",
   displayOrder: 1,
+  hashPlace: 1,
+  available: true,
 } as const satisfies TemperArmorTrait

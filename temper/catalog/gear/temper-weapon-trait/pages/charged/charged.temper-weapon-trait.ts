@@ -11,4 +11,6 @@ export const charged = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_WEAPON_CHARGED",
   displayOrder: 1,
   effects: "jsonl",
+  hashPlace: 1,
+  available: true,
 } as const satisfies TemperWeaponTrait

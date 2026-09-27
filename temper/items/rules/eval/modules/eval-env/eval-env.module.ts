@@ -47,5 +47,9 @@ export const evalEnv = {
       decisionKind: "decision-kind/departure",
       statement: "A set's category is asked for by the number the game gives the set.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A trait's temper id is asked for by the game's trait number and equip type.",
+    },
   ],
 } as const satisfies Module

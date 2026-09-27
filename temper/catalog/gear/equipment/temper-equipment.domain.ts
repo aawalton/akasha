@@ -12,6 +12,7 @@ export const temperEquipment = {
     "module/gear-reading",
     "module/gear-type-names",
     "module/held-gear-table",
+    "module/trait-reading",
     "module/jewelry-traits",
     "module/set-category-ids",
     "module/set-patterns",

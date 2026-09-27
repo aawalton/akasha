@@ -11,4 +11,6 @@ export const swift = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_SWIFT",
   displayOrder: 8,
   effects: "jsonl",
+  hashPlace: 8,
+  available: true,
 } as const satisfies TemperJewelryTrait

@@ -11,4 +11,6 @@ export const protective = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_PROTECTIVE",
   displayOrder: 6,
   effects: "jsonl",
+  hashPlace: 6,
+  available: true,
 } as const satisfies TemperJewelryTrait

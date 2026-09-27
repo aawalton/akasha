@@ -11,4 +11,6 @@ export const healthy = {
   esoTraitConstantName: "ITEM_TRAIT_TYPE_JEWELRY_HEALTHY",
   displayOrder: 4,
   effects: "jsonl",
+  hashPlace: 4,
+  available: true,
 } as const satisfies TemperJewelryTrait

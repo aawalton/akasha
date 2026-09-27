@@ -4,7 +4,8 @@ export const gearKindIdsKeeping = {
   id: "01a0e0c4-2114-7d87-b183-c05bdf641d05",
   type: "page-type/change-generator",
   slug: "gear-kind-ids-keeping",
-  definition: "the types naming every slot, armor weight and weapon type, written from their pages",
+  definition:
+    "the types naming every slot, weight, weapon type and trait, written from their pages",
   code: "ts",
   decisions: [
     {

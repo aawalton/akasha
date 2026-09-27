@@ -21,5 +21,10 @@ export const esoTraitReverseMap = {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here answers for an ESO trait number no map has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The maps are handed in, since the web and the addon each read them their own way.",
+    },
   ],
 } as const satisfies Module

@@ -11,11 +11,7 @@ import {
 import { armorSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import { resolveQuality } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
-import {
-  PLAYER_ARMOR_TRAIT_TO_ESO,
-  PLAYER_JEWELRY_TRAIT_TO_ESO,
-  PLAYER_WEAPON_TRAIT_TO_ESO,
-} from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
+import { esoNumberOfTrait } from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
 import { ESO_PLAYER_EQUIPMENT_CONSTANT_PAGES } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.code.ts"
 import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.page-type.types.ts"
 import type {
@@ -79,7 +75,7 @@ export function compileWantedEquipmentForBuild(
   for (const slotId of armorSlots.ids) {
     const slot = decoded.equipment.armor[slotId]
     if (slot.itemType !== "armor") continue
-    const traitType = PLAYER_ARMOR_TRAIT_TO_ESO[slot.data.trait]
+    const traitType = esoNumberOfTrait("armor", slot.data.trait)
     if (traitType == null || traitType === 0) continue
     const equipType = equipTypeOfSlot(PLAYER_ARMOR_SLOT_EQUIP_NAMES, slotId)
     if (equipType == null) continue
@@ -94,7 +90,7 @@ export function compileWantedEquipmentForBuild(
   for (const slotId of jewelrySlots.ids) {
     const slot = decoded.equipment.jewelry[slotId]
     if (slot.itemType !== "jewelry") continue
-    const traitType = PLAYER_JEWELRY_TRAIT_TO_ESO[slot.data.trait]
+    const traitType = esoNumberOfTrait("jewelry", slot.data.trait)
     if (traitType == null || traitType === 0) continue
     const equipType = equipTypeOfSlot(PLAYER_JEWELRY_SLOT_EQUIP_NAMES, slotId)
     if (equipType == null) continue
@@ -108,7 +104,7 @@ export function compileWantedEquipmentForBuild(
 
     const mainHand = bar["main-hand"]
     if (mainHand.itemType === "weapon" && mainHand.data.type !== "no-type") {
-      const traitType = PLAYER_WEAPON_TRAIT_TO_ESO[mainHand.data.trait]
+      const traitType = esoNumberOfTrait("weapon", mainHand.data.trait)
       if (traitType != null && traitType !== 0) {
         const weaponTypeData = weaponTypes.data[mainHand.data.type]
         const equipType = weaponEquipType(weaponTypeData?.isTwoHanded ?? false)
@@ -119,7 +115,7 @@ export function compileWantedEquipmentForBuild(
         signatures.push(sig)
       }
     } else if (mainHand.itemType === "shield") {
-      const traitType = PLAYER_ARMOR_TRAIT_TO_ESO[mainHand.data.trait]
+      const traitType = esoNumberOfTrait("armor", mainHand.data.trait)
       if (traitType != null && traitType !== 0) {
         const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(mainHand.data.quality)) ?? 5
         signatures.push({
@@ -133,7 +129,7 @@ export function compileWantedEquipmentForBuild(
 
     const offHand = bar["off-hand"]
     if (offHand.itemType === "weapon" && offHand.data.type !== "no-type") {
-      const traitType = PLAYER_WEAPON_TRAIT_TO_ESO[offHand.data.trait]
+      const traitType = esoNumberOfTrait("weapon", offHand.data.trait)
       if (traitType != null && traitType !== 0) {
         const weaponTypeData = weaponTypes.data[offHand.data.type]
         const equipType = weaponEquipType(weaponTypeData?.isTwoHanded ?? false)
@@ -144,7 +140,7 @@ export function compileWantedEquipmentForBuild(
         signatures.push(sig)
       }
     } else if (offHand.itemType === "shield") {
-      const traitType = PLAYER_ARMOR_TRAIT_TO_ESO[offHand.data.trait]
+      const traitType = esoNumberOfTrait("armor", offHand.data.trait)
       if (traitType != null && traitType !== 0) {
         const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(offHand.data.quality)) ?? 5
         signatures.push({

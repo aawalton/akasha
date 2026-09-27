@@ -8,4 +8,6 @@ export const noTrait = {
   key: "no-trait",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_NONE",
   displayOrder: 0,
+  hashPlace: 0,
+  available: true,
 } as const satisfies TemperJewelryTrait

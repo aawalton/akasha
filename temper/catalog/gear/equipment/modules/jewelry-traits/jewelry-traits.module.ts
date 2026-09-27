@@ -9,12 +9,15 @@ export const jewelryTraits = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the trait pages rather than by hand.",
+      statement: "The jewelry traits are read from the jewelry trait pages and held.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A trait's place in this table is the index a build hash has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A build may pick the traits whose pages state them available.",
+    },
   ],
-  hashIndexed: ["JEWELRY_TRAIT_DATA"],
 } as const satisfies Module

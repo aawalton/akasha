@@ -1,3 +1,10 @@
+{"propertySlug":"import","fileName":"temper-weapon-trait.page-type.ts","path":"temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-trait.page-type.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-trait.page-type.ts","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids-keeping/gear-kind-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-trait.page-type.ts","path":"temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-trait.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-trait.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-trait-lookup/inventory-trait-lookup.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-trait.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-equipment-map/character-capture-equipment-map.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-trait.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-trait/pages/charged/charged.temper-weapon-trait.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-trait.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-trait/pages/decisive/decisive.temper-weapon-trait.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-trait.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-trait/pages/defending/defending.temper-weapon-trait.ts","typed":true,"deferred":false}

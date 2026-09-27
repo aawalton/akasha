@@ -16,8 +16,7 @@ import {
 import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import {
   type ArmorTraitId,
-  armorTraits,
-  armorTraitsBuildList,
+  armorTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
@@ -221,21 +220,13 @@ export function ArmorCard({
                     </Badge>
                   </SelectTrigger>
                   <SelectContent nullSentinel={{ value: "no-trait", label: "No Trait" }} sorted>
-                    {(() => {
-                      const currentTrait = itemData?.trait ?? "no-trait"
-                      const traitOptions = armorTraitsBuildList.some((t) => t.id === currentTrait)
-                        ? armorTraitsBuildList
-                        : armorTraits.has(currentTrait)
-                          ? [...armorTraitsBuildList, armorTraits.data[currentTrait]]
-                          : armorTraitsBuildList
-                      return traitOptions
-                        .filter((option) => option.id !== "no-trait")
-                        .map((option) => (
-                          <SelectItem key={option.id} value={option.id}>
-                            {option.name}
-                          </SelectItem>
-                        ))
-                    })()}
+                    {armorTraitOptions(itemData?.trait ?? "no-trait")
+                      .filter((option) => option.id !== "no-trait")
+                      .map((option) => (
+                        <SelectItem key={option.id} value={option.id}>
+                          {option.name}
+                        </SelectItem>
+                      ))}
                   </SelectContent>
                 </Select>
                 <Select<ArmorEnchantId>

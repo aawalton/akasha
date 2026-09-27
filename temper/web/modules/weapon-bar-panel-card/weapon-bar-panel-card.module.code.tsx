@@ -6,8 +6,7 @@ import type { EquipmentQualityOptionId } from "akasha/temper/catalog/gear/equipm
 import { weaponSlots as weaponSlotsData } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import {
   type WeaponTraitId,
-  weaponTraitsBuildList,
-  weaponTraits as weaponTraitsData,
+  weaponTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
@@ -200,13 +199,7 @@ export function WeaponBarPanelCard({
               <BulkEditTag<WeaponTraitId>
                 key={`trait-${trait}`}
                 currentValue={trait}
-                options={
-                  weaponTraitsBuildList.some((t) => t.id === trait)
-                    ? weaponTraitsBuildList
-                    : weaponTraitsData.has(trait)
-                      ? [...weaponTraitsBuildList, weaponTraitsData.data[trait]]
-                      : weaponTraitsBuildList
-                }
+                options={weaponTraitOptions(trait)}
                 onSelect={handleBulkUpdateWeaponTrait}
                 count={count}
               />

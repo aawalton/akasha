@@ -41,15 +41,12 @@ import { vampireStages } from "akasha/temper/player/character/source/modules/vam
 
 
 
-const armorTraitIds = armorTraits.ids
 const armorEnchantIds = armorEnchants.ids
 
 
-const jewelryTraitIds = jewelryTraits.ids
 const jewelryEnchantIds = jewelryEnchants.ids
 
 
-const weaponTraitIds = weaponTraits.ids
 const weaponEnchantIds = weaponEnchantments.ids
 const poisonIds = poisons.ids
 
@@ -70,12 +67,9 @@ const championPointIds = championPoints.ids
 export const ATTRIBUTE_BITS = 7
 
 
-export const ARMOR_TRAIT_BITS = bitsNeeded(armorTraitIds.length)
 export const ARMOR_ENCHANT_BITS = bitsNeeded(armorEnchantIds.length)
-export const JEWELRY_TRAIT_BITS = bitsNeeded(jewelryTraitIds.length)
 export const JEWELRY_ENCHANT_BITS = bitsNeeded(jewelryEnchantIds.length)
 
-export const WEAPON_TRAIT_BITS = bitsNeeded(weaponTraitIds.length)
 export const WEAPON_ENCHANT_BITS = bitsNeeded(weaponEnchantIds.length)
 export const POISON_BITS = bitsNeeded(poisonIds.length)
 
@@ -157,6 +151,18 @@ export const armorWeightBits = armorWeightPlaces.bits
 const weaponTypePlaces = placesOver(() => weaponTypes.ids)
 
 export const weaponTypeBits = weaponTypePlaces.bits
+
+const armorTraitPlaces = placesOver(() => armorTraits.ids)
+
+export const armorTraitBits = armorTraitPlaces.bits
+
+const jewelryTraitPlaces = placesOver(() => jewelryTraits.ids)
+
+export const jewelryTraitBits = jewelryTraitPlaces.bits
+
+const weaponTraitPlaces = placesOver(() => weaponTraits.ids)
+
+export const weaponTraitBits = weaponTraitPlaces.bits
 
 const qualityPlaces = placesOver(() => equipmentQualities().ids)
 
@@ -329,12 +335,12 @@ export const getCurseIndex = cursePlaces.indexOf
 export const getMundusIndex = mundusPlaces.indexOf
 export const getSkillLineIndex = skillLinePlaces.indexOf
 export const getArmorWeightIndex = armorWeightPlaces.indexOf
-export const getArmorTraitIndex = indexIn(armorTraitIds)
+export const getArmorTraitIndex = armorTraitPlaces.indexOf
 export const getArmorEnchantIndex = indexIn(armorEnchantIds)
-export const getJewelryTraitIndex = indexIn(jewelryTraitIds)
+export const getJewelryTraitIndex = jewelryTraitPlaces.indexOf
 export const getJewelryEnchantIndex = indexIn(jewelryEnchantIds)
 export const getWeaponTypeIndex = weaponTypePlaces.indexOf
-export const getWeaponTraitIndex = indexIn(weaponTraitIds)
+export const getWeaponTraitIndex = weaponTraitPlaces.indexOf
 export const getWeaponEnchantIndex = indexIn(weaponEnchantIds)
 export const getPoisonIndex = indexIn(poisonIds)
 export const getQualityIndex = qualityPlaces.indexOf
@@ -358,12 +364,12 @@ export const getCurseId = cursePlaces.idOf
 export const getMundusId = mundusPlaces.idOf
 export const getSkillLineId = skillLinePlaces.idOf
 export const getArmorWeightId = armorWeightPlaces.idOf
-export const getArmorTraitId = idIn(armorTraitIds)
+export const getArmorTraitId = armorTraitPlaces.idOf
 export const getArmorEnchantId = idIn(armorEnchantIds)
-export const getJewelryTraitId = idIn(jewelryTraitIds)
+export const getJewelryTraitId = jewelryTraitPlaces.idOf
 export const getJewelryEnchantId = idIn(jewelryEnchantIds)
 export const getWeaponTypeId = weaponTypePlaces.idOf
-export const getWeaponTraitId = idIn(weaponTraitIds)
+export const getWeaponTraitId = weaponTraitPlaces.idOf
 export const getWeaponEnchantId = idIn(weaponEnchantIds)
 export const getPoisonId = idIn(poisonIds)
 export const getQualityId = qualityPlaces.idOf

@@ -10,4 +10,6 @@ export const nirnhoned = {
   material: "Fortified Nirncrux",
   esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_NIRNHONED",
   displayOrder: 5,
+  hashPlace: 5,
+  available: true,
 } as const satisfies TemperArmorTrait
