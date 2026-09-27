@@ -285,10 +285,16 @@ export function Drawing({ pageTypeSlug, id }: PageDrawingProps) {
   const { heard, pending, send, dismiss } = useSending(id)
   const endRef = useRef<HTMLDivElement | null>(null)
   const shown = heard.state === "heard" ? heard.entries.length + pending.length : -1
-  const titleClasses = cn(PAGE_TITLE_CLASSES, titleColorClass(allDefinitions, data))
+  const titleColor = titleColorClass(allDefinitions, data)
+  const titleClasses = cn(PAGE_TITLE_CLASSES, "hidden min-[584px]:block", titleColor)
   return (
     <DisplayFrame
       config={FRAME}
+      header={
+        page != null
+          ? { title: pageName(data), titleClassName: titleColor, showBack: true, mobileOnly: true }
+          : null
+      }
       followAnchor={{ ref: endRef, renderTrigger: shown }}
       footer={<SeatComposer onSend={send} />}
     >
