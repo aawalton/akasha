@@ -264,14 +264,7 @@ export const otherwhereHallBack = {
       fact: "Nala soaked her blood into her shirt and tights and rolled in salt; the crust burns in her bite.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "A small bookworm followed Nala back to her salt heap, stopped at its edge and would not come on.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Nala's lunge missed and she sprawled into the heap, scattering salt and flaking her crust.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Nala baited the fourth small bookworm's lunge, seized its neck and drove it into the salt heap.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
