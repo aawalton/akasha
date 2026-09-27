@@ -7,8 +7,19 @@ export const otherwhere00035 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 35,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“Okay, so I’m synchronized now? Does that mean I get the orientation packet? Any special powers I should know about?” I look down at my arm to see if it looks any less mangled.",
+  beats: [
+    "Nala asks aloud if she's synchronized now, if she gets the orientation packet, and about powers.",
+    'Links pads out of the dark beside the trunk, stripes crawling. "Synchronized. Deeper than before."',
+    '"The packet can only be resent through the Check-in Counter, and the Counter doesn\'t work yet."',
+    '"Powers come from books. Read one in your own affinity, understand it, and its power is yours."',
+    '"You haven\'t read one," he adds. "So no. No special powers."',
+    "\"You're synced, though. Look at a thing and ask, and I'll show you what I know of it.\"",
+    '"And aim a thought at me, and I\'ll hear it. No shouting across halls."',
+    "\"Don't ask me for a character sheet. I don't keep one. What I show of you is what I know.\"",
+    "She looks down at her left arm: still torn, crusted with salt and dried blood, no better at all.",
+  ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall", "place/otherwhere-core-chamber"],
 } as const satisfies StoryTurnPlayed
