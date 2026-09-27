@@ -10,11 +10,11 @@ export const theDatingGameGrace = {
   facts: [
     {
       fact: "Grace lives in a quiet rented house on Apple Avenue in Provo.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
       fact: "Late on Saturday afternoons Grace sits on her front step, resting before her night.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
       fact: "Grace looks twenty-two, with long, straight, parted near-black hair.",
@@ -26,6 +26,14 @@ export const theDatingGameGrace = {
     },
     {
       fact: "An unlit brass storm lantern sits on the step beside her.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Her name is Grace.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Grace keeps late hours and is mostly out once it is dark.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
