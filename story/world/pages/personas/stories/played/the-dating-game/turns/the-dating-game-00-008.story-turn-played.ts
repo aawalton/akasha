@@ -4,7 +4,7 @@ export const theDatingGame00008 = {
   id: "01a0e329-ffe5-7fe4-b6fd-bfe327e4adbc",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-008",
-  ownLength: 264,
+  ownLength: 244,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 8,
@@ -29,7 +29,6 @@ export const theDatingGame00008 = {
     'Then softly, looking right at him, she gives back: "Ageless."',
     'She taps her own chest and says with a crooked grin, "Much too old for my age."',
     "She catches his hand and squeezes it, then holds on a moment longer than she needs to.",
-    "She looks up at him, bright and unguarded, his hand still in hers in the cold shade.",
   ],
   issues: [
     '"ready for whatever you say next" - No Prompt',
