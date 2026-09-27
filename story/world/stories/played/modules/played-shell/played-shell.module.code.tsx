@@ -6,6 +6,7 @@ import type { Page } from "akasha/page/core/modules/page-types/page-types.module
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { PageTitleRow } from "akasha/page/ui/component/modules/page-collection-content/page-collection-content.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
+import { FrameHeaderAction } from "akasha/page/ui/frame/modules/frame-sticky-header/frame-sticky-header.module.code.tsx"
 import type { PageWithProperties } from "akasha/page/ui/supabase/modules/page-with-properties/page-with-properties.module.code.ts"
 import {
   type UsePagesSupabaseOptions,
@@ -148,7 +149,11 @@ export function PlayedLayout({
   return (
     <div className={wide ? WIDE_PAGE : NARROW_PAGE}>
       {head}
-      {wide ? <AwenStatusDrawer statusPanels={panelsAside} /> : null}
+      {wide ? (
+        <FrameHeaderAction>
+          <AwenStatusDrawer statusPanels={panelsAside} />
+        </FrameHeaderAction>
+      ) : null}
       {panelsAbove}
       <div className={wide ? RUN_WITH_PANELS : RUN_ALONE}>
         <div className={RUN_COLUMN}>{runDrawn}</div>
