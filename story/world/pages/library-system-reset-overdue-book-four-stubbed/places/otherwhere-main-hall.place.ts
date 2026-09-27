@@ -51,6 +51,22 @@ export const otherwhereMainHall = {
       fact: "Two short steps at the dark back of the hall lead up to a floor of more books and carved rails.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala has seen that the main hall is vast and ornate, lit a dim gold, and wrecked.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala has seen a huge raised desk at the hall's front, carved with trees blossoming into books.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Links named the hall the Magical Library of Everywhere when Nala first saw it.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
