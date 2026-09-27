@@ -17,7 +17,7 @@ export const otherwhere00031 = {
     "character-other/otherwhere-engorged-bookworm-05",
     "character-other/otherwhere-engorged-bookworm-06",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "“Okay, Links. The small ones are done but we’re out of salt. How do we deal with the big one?”",
   beats: [
@@ -31,5 +31,5 @@ export const otherwhere00031 = {
     'He looks at her blood-dark sleeve. "And it bites a great deal harder than those did."',
   ],
   lore: ["place/otherwhere-hall-back", "lore/otherwhere-universe"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
