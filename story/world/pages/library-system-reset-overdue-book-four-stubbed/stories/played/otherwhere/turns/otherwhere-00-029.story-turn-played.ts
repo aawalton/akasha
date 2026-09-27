@@ -27,4 +27,5 @@ export const otherwhere00029 = {
     "Salt sprays up round it; it shrieks and bucks, shrinking and greying fast.",
     "She lies across it, fists locked, as the thrashing weakens under her.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
