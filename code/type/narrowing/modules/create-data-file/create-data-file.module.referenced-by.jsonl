@@ -20,7 +20,6 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts","typed":false,"deferred":false}

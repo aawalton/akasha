@@ -5127,7 +5127,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/skill-value-formulas/skill-value-formulas.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/skills-source/skills-source.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-affix-rows/grimoire-affix-rows.module.ts","typed":true,"deferred":false}

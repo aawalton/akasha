@@ -1,6 +1,6 @@
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
+import { targetScopeName } from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
 import type { Targeting } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { targetScopes } from "akasha/temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.code.ts"
 import { targetTypes } from "akasha/temper/catalog/skill-kind/modules/target-types/target-types.module.code.ts"
 import type { BadgeVariant } from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
 
@@ -11,7 +11,7 @@ interface TargetingBadgeProps {
 
 export function TargetingBadge({ targeting, variant }: TargetingBadgeProps) {
   const type = targetTypes.data[targeting.type].name
-  const scope = targetScopes.data[targeting.scope].name
+  const scope = targetScopeName(targeting.scope)
 
   if (targeting.scope === "single") {
     return (

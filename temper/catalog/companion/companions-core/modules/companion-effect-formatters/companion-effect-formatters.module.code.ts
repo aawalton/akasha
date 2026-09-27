@@ -1,12 +1,10 @@
 import {
   companionCatalog,
+  companionNameAt,
   companionNameIn,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
-import type {
-  TargetScope,
-  TargetType,
-} from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
-import { targetScopes } from "akasha/temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.code.ts"
+import type { TargetScope } from "akasha/temper/catalog/effect/temper-target-scope/modules/target-scope-ids/target-scope-ids.data-table.code.ts"
+import type { TargetType } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import { targetTypes } from "akasha/temper/catalog/skill-kind/modules/target-types/target-types.module.code.ts"
 import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
 
@@ -19,8 +17,12 @@ export function formatCooldown(cooldown: number): string {
   return Number.isInteger(rounded) ? rounded.toString() : rounded.toFixed(1)
 }
 
+export function targetScopeName(scope: TargetScope): string {
+  return companionNameAt(companionCatalog().targetScopes, scope, "target scope")
+}
+
 export function formatTargetInfo(target: { type: TargetType; scope: TargetScope }): string {
-  const scope = targetScopes.data[target.scope].name
+  const scope = targetScopeName(target.scope)
   const type = targetTypes.data[target.type].name
 
   return scope === "Single" ? type : `${scope} / ${type}`

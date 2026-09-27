@@ -12,7 +12,6 @@ export const temperSkillKind = {
     "module/skill-slots",
     "module/skill-value-formulas",
     "module/skills-source",
-    "module/target-scopes",
     "module/target-types",
   ],
   decisions: [

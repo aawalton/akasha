@@ -88,6 +88,7 @@ import { temperEffectCategory } from "akasha/temper/catalog/effect/category/temp
 import { temperSpecialEffectType } from "akasha/temper/catalog/effect/temper-special-effect-type/temper-special-effect-type.page-type.ts"
 import { temperStatusEffectType } from "akasha/temper/catalog/effect/temper-status-effect-type/temper-status-effect-type.page-type.ts"
 import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
+import { temperTargetScope } from "akasha/temper/catalog/effect/temper-target-scope/temper-target-scope.page-type.ts"
 import {
   buffsAndDebuffsOf,
   holdBuffsAndDebuffs,
@@ -160,6 +161,7 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperMetricTree.slug, ["slug", "nodeId"]],
   [temperStatusEffectType.slug, NAMED_KEYS],
   [temperSpecialEffectType.slug, NAMED_KEYS],
+  [temperTargetScope.slug, NAMED_KEYS],
 ]
 
 function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
@@ -261,6 +263,7 @@ export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
     effectCategoryOrder: categoryOrderFrom(rowsOf(temperEffectCategory.slug)),
     statusEffectTypes: namedFrom(rowsOf(temperStatusEffectType.slug)),
     specialEffectTypes: namedFrom(rowsOf(temperSpecialEffectType.slug)),
+    targetScopes: namedFrom(rowsOf(temperTargetScope.slug)),
     slots: {
       armor: slotsFrom(rowsOf(temperCompanionArmorSlot.slug)),
       jewelry: slotsFrom(rowsOf(temperCompanionJewelrySlot.slug)),

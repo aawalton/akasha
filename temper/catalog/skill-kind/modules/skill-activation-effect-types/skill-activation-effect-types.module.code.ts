@@ -1,5 +1,6 @@
 import type { SpecialEffectType } from "akasha/temper/catalog/effect/temper-special-effect-type/modules/special-effect-type-ids/special-effect-type-ids.data-table.code.ts"
 import type { StatusEffectType } from "akasha/temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids/status-effect-type-ids.data-table.code.ts"
+import type { TargetScope } from "akasha/temper/catalog/effect/temper-target-scope/modules/target-scope-ids/target-scope-ids.data-table.code.ts"
 import type {
   ActivationBuffEffect,
   ActivationDebuffEffect,
@@ -25,8 +26,6 @@ export type TargetType =
   | "self-or-ally"
   | "lowest-health-ally"
   | "ground"
-
-export type TargetScope = "single" | "cone" | "area" | "line"
 
 export interface Targeting {
   type: TargetType
