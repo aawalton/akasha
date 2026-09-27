@@ -22,5 +22,9 @@ export const potionEffectsFilter = {
       decisionKind: "decision-kind/departure",
       statement: "A category outside `potions` is offered no Potion Effects condition.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under the `potionEffects` condition field page's title.",
+    },
   ],
 } as const satisfies Module
