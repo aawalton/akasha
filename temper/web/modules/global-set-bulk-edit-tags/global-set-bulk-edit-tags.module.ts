@@ -6,4 +6,10 @@ export const globalSetBulkEditTags = {
   slug: "global-set-bulk-edit-tags",
   definition: "the chips setting a field or a gear set across a build's whole loadout",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The counts are worked out again whenever the gear tables are read again.",
+    },
+  ],
 } as const satisfies Module

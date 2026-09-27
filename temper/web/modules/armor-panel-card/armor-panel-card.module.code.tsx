@@ -81,9 +81,11 @@ export function ArmorPanelCard({
     })
   }
 
+  const slotsRead = armorSlots.list
+
   const armorSlotItems = useMemo(
-    () => armorSlots.list.map((slot) => equipment.armor[slot.id]),
-    [equipment.armor]
+    () => slotsRead.map((slot) => equipment.armor[slot.id]),
+    [equipment.armor, slotsRead]
   )
 
   const armorAndShieldSlots = useMemo(
@@ -156,8 +158,8 @@ export function ArmorPanelCard({
   )
 
   const armorMythicSlots = useMemo(
-    () => getMythicSlots(equipment.armor, availableSets, armorSlots.list),
-    [equipment.armor, availableSets]
+    () => getMythicSlots(equipment.armor, availableSets, slotsRead),
+    [equipment.armor, availableSets, slotsRead]
   )
 
   const handleBulkUpdateArmorWeight = (

@@ -47,6 +47,12 @@ export function GlobalSetBulkEditTags({
   availableSets,
   playerClass,
 }: GlobalSetBulkEditTagsProps) {
+  const armorRead = armorSlots.list
+  const jewelryRead = jewelrySlots.list
+  const weaponsRead = weaponSlots.list
+  const barsRead = weaponBars.list
+  const typesRead = weaponTypes.data
+
   const allSetIds = useMemo(() => {
     const setIds: Slug[] = []
 
@@ -84,7 +90,7 @@ export function GlobalSetBulkEditTags({
     }
 
     return setIds
-  }, [equipment])
+  }, [equipment, armorRead, jewelryRead, weaponsRead, barsRead, typesRead])
 
   const setCounts = useMemo(() => groupByCount(allSetIds, (id) => id), [allSetIds])
 
@@ -129,7 +135,7 @@ export function GlobalSetBulkEditTags({
     }
 
     return qualityIds
-  }, [equipment])
+  }, [equipment, armorRead, jewelryRead, weaponsRead, barsRead, typesRead])
 
   const qualityCounts = useMemo(() => groupByCount(allQualityIds, (id) => id), [allQualityIds])
 
@@ -142,7 +148,7 @@ export function GlobalSetBulkEditTags({
       availableSets
     )
     return { ...armorMythicSlots, ...jewelryMythicSlots, ...weaponMythicSlots }
-  }, [equipment, availableSets])
+  }, [equipment, availableSets, armorRead, jewelryRead])
 
   const handleBulkUpdateSet = (oldValue: Slug, newValue: Slug) => {
     onUpdate(bulkUpdateAllSets(equipment, oldValue, newValue, availableSets))

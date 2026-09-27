@@ -6,4 +6,10 @@ export const armorPanelCard = {
   slug: "armor-panel-card",
   definition: "the seven armor slots of a build, with the bulk edits that reach them all",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The slots are drawn again whenever the gear tables are read again.",
+    },
+  ],
 } as const satisfies Module

@@ -6114,6 +6114,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/look/temper-web-look.stylesheet.ts","id":"01a0640f-850f-7bfd-8070-ae903b54ddb0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-progress/account-progress.module.ts","id":"01a06421-f74b-7ac7-a2c3-4120a9e80006"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/armor-card/armor-card.module.ts","id":"01a0642d-9a17-7abb-8e55-5319438ebc16"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.ts","id":"01a0642d-9a17-7544-8ead-6c25afebc88f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.ts","id":"01a06432-b190-7bdd-9689-8a19b01cb487"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-date-line/build-date-line.module.ts","id":"01a0d6db-3513-7e6e-900d-32de1dfa4c87"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
@@ -6136,6 +6137,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/eso-markup-text/eso-markup-text.module.ts","id":"01a0e157-1cce-78d5-b867-717faa29b3e0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.ts","id":"01a06429-76ff-7cfe-921e-d7a3ba65678e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/format-time-ago/format-time-ago.module.ts","id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.ts","id":"01a0642d-9a17-719d-8325-d7d40b665913"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/import-result/import-result.module.ts","id":"01a0640f-8510-79d2-a33e-1cfc18d185ee"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.ts","id":"01a0e0db-a703-790c-b757-6b5db7ae0776"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.ts","id":"01a0642d-9a17-7e93-9404-efd12df3f8b9"}
