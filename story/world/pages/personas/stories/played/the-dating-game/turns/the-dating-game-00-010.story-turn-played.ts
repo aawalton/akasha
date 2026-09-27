@@ -24,7 +24,6 @@ export const theDatingGame00010 = {
     '"What! You too? I thought I was the only one."',
     "She holds his eyes as she says it, and plainly means it for the two of them.",
     'Then at "LitRPG" she grins wide and nods: she knows it well.',
-
     "She taps his chest once with a fingertip, and her grin turns sly.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
