@@ -5,6 +5,7 @@ import type {
   RunningAsync,
 } from "akasha/check/modules/judging/judging.module.code.ts"
 import { typeScripted } from "akasha/code/body/modules/file-kind/file-kind.module.code.ts"
+import { fixedExport } from "akasha/page/code-file-property/properties/fixed-export.text-property.ts"
 import type { Answering } from "akasha/page/index/modules/answering/index-answering.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { pageNamed, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
@@ -80,8 +81,32 @@ const LOADED_EXPORT_BY = `${textProperty.slug}/${loadedExport.slug}` as const
 
 const LOADED_EXPORT = "loadedExport"
 
+const FIXED_EXPORT_BY = `${textProperty.slug}/${fixedExport.slug}` as const
+
+const FIXED_EXPORT = "fixedExport"
+
+const PROPERTY_SLUG = "propertySlug"
+
+function fixedInto(index: Answering, found: Map<string, ReadonlySet<string>>): undefined {
+  const held = index.carryingOf(FIXED_EXPORT_BY)
+  if ("refused" in held) return undefined
+  for (const one of held.carrying) {
+    const value = index.pageByPath(one.path)
+    if (value === null) continue
+    const named = textsAt(value, FIXED_EXPORT)
+    const slug = textAt(value, SLUG)
+    const section = textAt(value, PROPERTY_SLUG)
+    if (named === null || slug === null || section === null) continue
+    for (const kind of index.typesCarrying(`${one.pageTypeSlug}/${slug}`)) {
+      found.set(`${kind}.${section}`, new Set(named))
+    }
+  }
+  return undefined
+}
+
 export function loadedExportsSparing(index: Answering): ReadonlyMap<string, ReadonlySet<string>> {
   const found = new Map<string, ReadonlySet<string>>()
+  fixedInto(index, found)
   const held = index.carryingOf(LOADED_EXPORT_BY)
   if ("refused" in held) return found
   for (const one of held.carrying) {

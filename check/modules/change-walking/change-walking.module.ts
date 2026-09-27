@@ -24,6 +24,11 @@ export const changeWalking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The names spared in a file property's file are read off the file property fixing them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body read as code is named `.ts` or `.tsx`.",
     },
     {

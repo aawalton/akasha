@@ -10,6 +10,7 @@ import { readingIn } from "akasha/page/index/modules/reading/index-reading.modul
 import {
   relationFiled,
   shapeAdded,
+  typeListed,
 } from "akasha/page/index/modules/reading/index-reading.module.test-fixtures.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
@@ -74,6 +75,59 @@ export function loadedWorld(loaded: readonly string[] | null): Answering {
     slug: AGENT,
     ...(loaded === null ? {} : { [LOADED_EXPORT_KEY]: loaded }),
   })
+  return answeringOver(readingIn(root), (path) => values.get(path) ?? null)
+}
+
+const FIXED_EXPORT_SLUG = "fixed-export"
+
+const FIXED_EXPORT_KEY = "fixedExport"
+
+const CODE_FILE_PROPERTY = "code-file-property"
+
+const FORMULA_SLUG = "metric-formula"
+
+const FORMULA_SECTION = "formula"
+
+const METRIC = "temper-metric"
+
+export const FORMULA_TAIL = `${METRIC}.${FORMULA_SECTION}`
+
+const FIXED_PAGE_AT = "akasha/fixed-export.text-property.ts"
+
+const KIND_PAGE_AT = "akasha/code-file-property.page-type.ts"
+
+const FORMULA_PAGE_AT = "akasha/metric-formula.code-file-property.ts"
+
+const METRIC_PAGE_AT = "akasha/temper-metric.page-type.ts"
+
+export function fixedWorld(fixed: readonly string[]): Answering {
+  const root = scratch.rootFor("akasha-fixed-export-")
+  const values = new Map<string, Value>()
+  const filed = (kind: string, slug: string, path: string, value: Value): string => {
+    const id = `id-${slug}`
+    listedFiled(root, kind, slug, [{ path, id }])
+    idFiled(root, id, [{ path, id }])
+    values.set(path, { id, ...value })
+    return id
+  }
+  shapeAdded(root, TEXT_PROPERTY, FIXED_EXPORT_SLUG, [
+    { pageTypeSlug: TEXT_PROPERTY, slug: FIXED_EXPORT_SLUG, propertySlug: FIXED_EXPORT_SLUG },
+  ])
+  shapeAdded(root, CODE_FILE_PROPERTY, FORMULA_SLUG, [
+    { pageTypeSlug: CODE_FILE_PROPERTY, slug: FORMULA_SLUG, propertySlug: FORMULA_SECTION },
+  ])
+  const fileKind = typeListed(root, CODE_FILE_PROPERTY, KIND_PAGE_AT)
+  const property = filed(TEXT_PROPERTY, FIXED_EXPORT_SLUG, FIXED_PAGE_AT, {
+    slug: FIXED_EXPORT_SLUG,
+  })
+  relationFiled(root, property, PAGE_PROPERTY, fileKind, [{ path: KIND_PAGE_AT, id: fileKind }])
+  const formula = filed(CODE_FILE_PROPERTY, FORMULA_SLUG, FORMULA_PAGE_AT, {
+    slug: FORMULA_SLUG,
+    propertySlug: FORMULA_SECTION,
+    [FIXED_EXPORT_KEY]: fixed,
+  })
+  const metric = filed(PAGE_TYPE, METRIC, METRIC_PAGE_AT, { slug: METRIC })
+  relationFiled(root, formula, PAGE_PROPERTY, metric, [{ path: METRIC_PAGE_AT, id: metric }])
   return answeringOver(readingIn(root), (path) => values.get(path) ?? null)
 }
 

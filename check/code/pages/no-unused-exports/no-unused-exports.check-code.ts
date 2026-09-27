@@ -205,6 +205,11 @@ export const noUnusedExports = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "A name a file property states as a `fixedExport` is reached in each file that property names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The `work` a computed property's code exports is reached by the engine working it.",
     },
     {

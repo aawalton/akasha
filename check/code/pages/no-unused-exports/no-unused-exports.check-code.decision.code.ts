@@ -309,6 +309,8 @@ export function sparedIn(
   if (said === null || !pageTypes.has(said.pageType)) return NOTHING
   if (typedBeside(said)) return EVERY
   if (uncommittedNamed(path)) return new Set([nameFor(`${pageOf(said)}.${HELD}`)])
+  const fixedHere = loadedExports.get([said.pageType, ...said.sections].join("."))
+  if (fixedHere !== undefined && said.sections.length > 0) return fixedHere
   const told = loadedExports.get(said.pageType)
   if (told !== undefined && said.sections.length > 0) return told
   const lua = luaNamed(path, said, bodyOf)
