@@ -4,7 +4,7 @@ export const houseTelvanni = {
   id: "019e5a46-c3e8-7c17-98b1-3d55acef4fe0",
   type: "page-type/temper-motif-style",
   slug: "house-telvanni",
-  title: "House Telvanni",
+  title: "Telvanni",
   esoItemStyleId: 51,
   styleName: "Telvanni",
   collectionIndex: 33,
