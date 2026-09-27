@@ -149,7 +149,7 @@ export function runPageListening(root: string): undefined {
   const binds = bindsFor(root, SERVICE_SLUG)
   const stated: Listening = { root, port, binds, following, threads }
   refreshingTurns(root, (sat) => following.changed({ pageTypeSlug: seat.slug, slug: sat.slug }))
-  let bound = serversFor(stated)
+  let bound = serversFor(stated, writerFor({ root, apart: threads.apart }))
   saying(root, page, unboundIn(bound))
   for (const one of bound.refused) {
     process.stderr.write(`nothing is listening at ${port} for ${one.hostname}: ${one.why}\n`)

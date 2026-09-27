@@ -59,6 +59,11 @@ export type Wrote =
 
 type Writing = {
   readonly root: string
+  readonly apart?: <T>(act: () => Promise<T>) => Promise<T>
+}
+
+function atOnce<T>(act: () => Promise<T>): Promise<T> {
+  return act()
 }
 
 export type Writer = {
@@ -327,11 +332,12 @@ export function writerFor(given: Writing): Writer {
   let waiting: Waiting[] = []
   const acts: (() => Promise<unknown>)[] = []
   let running = false
+  const apart = given.apart ?? atOnce
   const settling = async (): Promise<undefined> => {
     while (acts.length > 0 || waiting.length > 0) {
       const act = acts.shift()
       if (act !== undefined) {
-        await act()
+        await apart(act)
         continue
       }
       const taken = batchIn(waiting)
@@ -340,9 +346,11 @@ export function writerFor(given: Writing): Writer {
       for (const [one, refused] of read.refused) one.settle({ refused, fault: "caller" })
       const claimed = claimedIn(given.root, read.landing)
       if (claimed.landing.length > 0) {
-        const wrote = await landedIn(
-          given.root,
-          claimed.landing.map((one) => one.asked)
+        const wrote = await apart(() =>
+          landedIn(
+            given.root,
+            claimed.landing.map((one) => one.asked)
+          )
         )
         for (const one of claimed.landing) one.settle(wrote)
       }

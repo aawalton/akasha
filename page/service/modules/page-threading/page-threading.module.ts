@@ -22,6 +22,26 @@ export const pageThreading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The first thread is the lane, and every wide question is answered there.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A wide question another thread hands back is sent on to the lane.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "While the lane holds a wide question, a read goes to another thread.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only one thread's memory ever grows to what a wide question holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing the service makes waits for the reads its threads are answering.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A thread runs the code the service was started from.",
     },
     {

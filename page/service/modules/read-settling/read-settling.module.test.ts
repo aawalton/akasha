@@ -5,10 +5,11 @@ import { startedAt } from "akasha/file/modules/lock-holder/lock-holder.module.co
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { LOCK_AT } from "akasha/git/modules/holding/holding.module.code.ts"
 import {
-  landedMark,
+  apartFor,
+  landedApart,
+  left,
   settledApart,
   unheldSaid,
-  unsettledSaid,
 } from "akasha/page/service/modules/read-settling/read-settling.module.code.ts"
 
 const scratch = scratchWorld()
@@ -17,22 +18,8 @@ afterAll(() => scratch.sweep())
 
 function checkout(): string {
   const root = scratch.rootFor("akasha-read-settling-")
-  mkdirSync(join(root, ".git", "refs", "heads"), { recursive: true })
-  writeFileSync(join(root, ".git", "HEAD"), "ref: refs/heads/main\n")
-  writeFileSync(join(root, ".git", "refs", "heads", "main"), "a\n")
-  writeFileSync(join(root, ".git", "index"), "staged")
+  mkdirSync(join(root, ".git"), { recursive: true })
   return root
-}
-
-let committed = 0
-
-function landedOn(root: string): undefined {
-  committed += 1
-  const at = join(root, ".git", "refs", "heads", "main")
-  writeFileSync(`${at}.part`, `${committed}${"b".repeat(committed)}\n`)
-  rmSync(at)
-  writeFileSync(at, `${committed}${"b".repeat(committed)}\n`)
-  rmSync(`${at}.part`)
 }
 
 function held(root: string): string {
@@ -41,48 +28,22 @@ function held(root: string): string {
   return at
 }
 
-test("a read no landing reaches is answered at its first try", async () => {
-  const root = checkout()
-  let ran = 0
-  const said = await settledApart(root, async () => {
-    ran += 1
+test("a read no landing holds is answered at once, and leaves no mark of reading", async () => {
+  const apart = apartFor(2)
+  const said = await settledApart(checkout(), apart, 1, () => {
+    expect(Atomics.load(apart, 2)).toBe(1)
     return "read"
   })
   expect(said).toEqual({ settled: "read" })
-  expect(ran).toBe(1)
+  expect([...apart]).toEqual([0, 0, 0])
 })
 
-test("a read a landing committed under is answered again", async () => {
-  const root = checkout()
-  let ran = 0
-  const said = await settledApart(root, async () => {
-    ran += 1
-    if (ran === 1) landedOn(root)
-    return ran
-  })
-  expect(said).toEqual({ settled: 2 })
-})
-
-test("a read that ends while the hold is held is answered again", async () => {
-  const root = checkout()
-  let ran = 0
-  const said = await settledApart(root, async () => {
-    ran += 1
-    if (ran === 1) {
-      const at = held(root)
-      setTimeout(() => rmSync(at, { force: true }), 50)
-    }
-    return ran
-  })
-  expect(said).toEqual({ settled: 2 })
-})
-
-test("a read waits for the hold to go before it starts", async () => {
+test("a read waits for a landing's hold on the checkout to go before it starts", async () => {
   const root = checkout()
   const at = held(root)
   setTimeout(() => rmSync(at, { force: true }), 100)
   let heldAtStart = true
-  const said = await settledApart(root, async () => {
+  const said = await settledApart(root, apartFor(1), 0, () => {
     heldAtStart = existsSync(at)
     return "read"
   })
@@ -96,11 +57,12 @@ test("a hold kept past the wait is refused rather than read through", async () =
   let ran = false
   const said = await settledApart(
     root,
-    async () => {
+    apartFor(1),
+    0,
+    () => {
       ran = true
       return "read"
     },
-    5,
     50
   )
   rmSync(at, { force: true })
@@ -108,26 +70,25 @@ test("a hold kept past the wait is refused rather than read through", async () =
   expect(ran).toBe(false)
 })
 
-test("a read every try of which a landing reaches is refused rather than answered torn", async () => {
-  const root = checkout()
-  const said = await settledApart(
-    root,
-    async () => {
-      landedOn(root)
-      return "torn"
-    },
-    3
-  )
-  expect(said).toEqual({ refused: unsettledSaid(3) })
+test("a landing the service makes waits for the read a thread is answering", async () => {
+  const apart = apartFor(2)
+  Atomics.store(apart, 2, 1)
+  let landed = false
+  const landing = landedApart(apart, async () => {
+    expect(Atomics.load(apart, 0)).toBe(1)
+    landed = true
+    return "landed"
+  })
+  await Bun.sleep(30)
+  expect(landed).toBe(false)
+  left(apart, 1)
+  expect(await landing).toBe("landed")
+  expect(Atomics.load(apart, 0)).toBe(0)
 })
 
-test("a commit moves the mark, and a staging or a page written does not", () => {
-  const root = checkout()
-  const was = landedMark(root)
-  expect(landedMark(root)).toBe(was)
-  writeFileSync(join(root, "page.ts"), "written")
-  writeFileSync(join(root, ".git", "index"), "staged again")
-  expect(landedMark(root)).toBe(was)
-  landedOn(root)
-  expect(landedMark(root)).not.toBe(was)
+test("a landing waits for reads no longer than its wait, then goes ahead", async () => {
+  const apart = apartFor(1)
+  Atomics.store(apart, 1, 1)
+  expect(await landedApart(apart, async () => "landed", 20)).toBe("landed")
+  expect(Atomics.load(apart, 0)).toBe(0)
 })

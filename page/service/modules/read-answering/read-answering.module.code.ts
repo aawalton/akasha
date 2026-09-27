@@ -1,5 +1,9 @@
 import { isMainThread, parentPort, workerData } from "node:worker_threads"
 import {
+  readingIn,
+  slugsOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
   objectIn,
   queryIn,
   readIn,
@@ -23,6 +27,7 @@ import {
   type Refusal,
   STATUS_FOR,
 } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
+import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 import { withholdingFor } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 export type ReadKind = "ask" | "read" | "shape" | "file"
@@ -41,9 +46,22 @@ export type Asked = {
   readonly asker: string | null
 }
 
-export type Told = { readonly id: number; readonly answer: Answer } | { readonly heapMb: number }
+export type Told =
+  | { readonly id: number; readonly answer: Answer }
+  | { readonly id: number; readonly wide: true }
+  | { readonly heapMb: number }
+
+export type Threaded = {
+  readonly root: string
+  readonly apart: Int32Array
+  readonly at: number
+  readonly lane: boolean
+  readonly widePages: number
+}
 
 export const THREADED = "read-answering"
+
+export const WIDE_PAGES = 20_000
 
 export const UNPARSED = "the body did not parse as JSON"
 
@@ -177,26 +195,56 @@ function parsedIn(text: string): unknown {
   }
 }
 
-export async function answeredApart(root: string, asked: Asked): Promise<Answer> {
-  const body = parsedIn(asked.text)
+export function wideAt(
+  root: string,
+  kind: ReadKind,
+  body: unknown,
+  most: number = WIDE_PAGES
+): boolean {
+  if (kind !== "ask") return false
+  const pageTypeSlug = objectIn(body)?.pageTypeSlug
+  if (typeof pageTypeSlug !== "string") return false
+  try {
+    const held = readingIn(root)
+    let pages = 0
+    for (const one of kindsUnder(pageTypeSlug, held)) {
+      pages += slugsOfType(held, one).length
+      if (pages > most) return true
+    }
+  } catch {
+    return false
+  }
+  return false
+}
+
+type Placed = Pick<Threaded, "root" | "apart" | "at">
+
+export async function answeredApart(placed: Placed, asked: Asked, body: unknown): Promise<Answer> {
   if (body === undefined) return saidAs({ refused: UNPARSED }, 400)
-  const settled = await settledApart(root, async () =>
+  const { root, apart, at } = placed
+  const settled = await settledApart(root, apart, at, () =>
     answeredRead(root, asked.kind, body, asked.asker)
   )
   if ("settled" in settled) return settled.settled
   return saidAs({ refused: settled.refused }, STATUS_FOR.race)
 }
 
-function rootIn(given: unknown): string | null {
+function threadedIn(given: unknown): Threaded | null {
   if (typeof given !== "object" || given === null) return null
-  const root = (given as Readonly<Record<string, unknown>>)[THREADED]
-  return typeof root === "string" ? root : null
+  const held = (given as Readonly<Record<string, unknown>>)[THREADED]
+  if (typeof held !== "object" || held === null) return null
+  const { root, apart, at, lane, widePages } = held as Readonly<Record<string, unknown>>
+  if (typeof root !== "string" || !(apart instanceof Int32Array)) return null
+  if (typeof at !== "number" || typeof lane !== "boolean" || typeof widePages !== "number") {
+    return null
+  }
+  return { root, apart, at, lane, widePages }
 }
 
 export function answeringOnThread(): undefined {
   const port = parentPort
-  const root = rootIn(workerData)
-  if (isMainThread || port === null || root === null) return undefined
+  const threaded = threadedIn(workerData)
+  if (isMainThread || port === null || threaded === null) return undefined
   const heapTold = (): undefined => {
     port.postMessage({ heapMb: Math.round(process.memoryUsage().heapUsed / MB) } satisfies Told)
     return undefined
@@ -204,9 +252,20 @@ export function answeringOnThread(): undefined {
   heapTold()
   setInterval(heapTold, HEAP_TOLD_MS).unref()
   port.on("message", (asked: Asked) => {
-    answeredApart(root, asked)
+    const body = parsedIn(asked.text)
+    const wide = wideAt(threaded.root, asked.kind, body, threaded.widePages)
+    if (wide && !threaded.lane) {
+      port.postMessage({ id: asked.id, wide: true } satisfies Told)
+      return
+    }
+    answeredApart(threaded, asked, body)
       .catch((thrown: unknown) => saidAs({ refused: String(thrown) }, STATUS_FOR.service))
-      .then((answer) => port.postMessage({ id: asked.id, answer } satisfies Told))
+      .then((answer) => {
+        port.postMessage({ id: asked.id, answer } satisfies Told)
+        if (!wide) return
+        Bun.gc(true)
+        heapTold()
+      })
   })
   return undefined
 }

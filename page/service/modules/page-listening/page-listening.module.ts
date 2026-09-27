@@ -62,6 +62,11 @@ export const pageListening = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The writer lands only once the reading threads have finished the reads they hold.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Running this module's file starts the service.",
     },
     {

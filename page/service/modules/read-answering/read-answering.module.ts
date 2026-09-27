@@ -23,11 +23,27 @@ export const readAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read answered on a reading thread is settled apart from every landing.",
+      statement: "A read answered on a reading thread is kept apart from every landing.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "A reading thread takes the checkout's root from what started that thread.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A question is wide where its page type holds more than twenty thousand pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Only the reading thread started as the lane answers a wide question.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other reading thread hands a wide question back unanswered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The lane lets go of what a wide question held as soon as it has answered.",
     },
     {
       decisionKind: "decision-kind/departure",

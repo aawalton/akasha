@@ -214,5 +214,10 @@ export const pageWriting = {
       decisionKind: "decision-kind/departure",
       statement: "Acts handed in alone run one at a time, in the order they arrived.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A writer may be handed a wait that every batch it lands and every act runs inside.",
+    },
   ],
 } as const satisfies Module

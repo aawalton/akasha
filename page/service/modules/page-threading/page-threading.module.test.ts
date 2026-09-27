@@ -48,7 +48,7 @@ const was = process.env[ARCH]
 
 process.env[ARCH] = "unresolvable"
 
-const threads = threadsFor(ROOT, { entry, readers: 2, kept: () => undefined })
+const threads = threadsFor(ROOT, { entry, readers: 2, widePages: 100, kept: () => undefined })
 
 if (was === undefined) delete process.env[ARCH]
 else process.env[ARCH] = was
@@ -99,6 +99,15 @@ test("a shape and a read are answered on a thread", async () => {
   const read = await answeredOn(threads.answered(asked("/read", "POST", { paths })))
   expect(read.status).toBe(200)
   expect(read.thread).not.toBeNull()
+})
+
+test("a wide question is answered on the lane, whichever thread it reached first", async () => {
+  const wide = { pageTypeSlug: "module", keys: ["slug"], limit: 1 }
+  const answered = await Promise.all(
+    Array.from({ length: 4 }, () => answeredOn(threads.answered(asked("/ask", "POST", wide))))
+  )
+  expect(answered.map((one) => one.status)).toEqual([200, 200, 200, 200])
+  expect(answered.map((one) => one.thread)).toEqual(["0", "0", "0", "0"])
 })
 
 test("each thread tells its heap", () => {
