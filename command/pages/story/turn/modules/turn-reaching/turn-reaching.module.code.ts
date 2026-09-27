@@ -26,6 +26,11 @@ import {
   type Recorder,
   type Reviewer,
 } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
+import {
+  type ReadyPushing,
+  readyNotified,
+  readyTold,
+} from "akasha/command/pages/story/turn/modules/turn-ready-pushing/turn-ready-pushing.module.code.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
   listedAt,
@@ -63,6 +68,7 @@ import { storyPlayed } from "akasha/story/world/stories/played/story-played.page
 import {
   bareOf,
   noticeOf,
+  PLAYER,
   TURN_SENDER,
   type TurnStep,
   WRITER,
@@ -140,6 +146,7 @@ export type Reach = {
     characters: readonly string[]
   ) => readonly string[]
   readonly changedLore: (root: string, seat: string) => readonly string[]
+  readonly readyPushed: ReadyPushing
 }
 
 export type Paged = {
@@ -169,6 +176,7 @@ export async function noticesSent(
   after: Told,
   toRead: readonly string[] = []
 ): Promise<undefined> {
+  if (status === PLAYER) await readyTold(reach.readyPushed, root, game, turn, after.report)
   if (master === null) {
     after.faults.push(`\`${game}\` names no game master seat, so no seat was told the turn moved`)
     return undefined
@@ -364,6 +372,7 @@ export const REACHED: Reach = {
   notify: noticeSent,
   loreOf: loreIndexed,
   changedLore: changedLoreOfSeat,
+  readyPushed: readyNotified,
 }
 
 function seatsStated(): readonly Seated[] {

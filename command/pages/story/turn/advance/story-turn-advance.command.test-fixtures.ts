@@ -90,6 +90,7 @@ export type Seen = {
   readonly keeps: string[]
   readonly releases: string[]
   readonly landings: (readonly FileChange[])[]
+  readonly pushes: string[]
 }
 
 export function seen(): Seen {
@@ -101,6 +102,7 @@ export function seen(): Seen {
     keeps: [],
     releases: [],
     landings: [],
+    pushes: [],
   }
 }
 
@@ -145,6 +147,10 @@ export function reachOver(
     },
     loreOf: () => [MARA_LORE],
     changedLore: () => [],
+    readyPushed: async (_root, game, at) => {
+      into.pushes.push(`${game} ${at}`)
+      return null
+    },
   }
 }
 

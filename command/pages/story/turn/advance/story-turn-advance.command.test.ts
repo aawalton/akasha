@@ -127,6 +127,7 @@ test("the last reviewer's clean review starts the recorders and stops the review
   ])
   expect(into.notices).toEqual(toldAll("recorders"))
   expect(into.stops).toEqual([reviewer])
+  expect(into.pushes).toEqual([])
 })
 
 test("the last reviewer's issues send the turn back to the game master, starting nothing", async () => {
@@ -281,6 +282,7 @@ test("the last recorder lands every recorder's kept edits with the move to playe
   expect(into.releases).toEqual([AT])
   expect(into.notices).toEqual(toldAll("player"))
   expect(into.stops).toEqual([RECORDER_SEAT])
+  expect(into.pushes).toEqual([`the-saga ${AT}`])
 })
 
 test("a recorder's kept edit to the turn's own page is folded into the move to player", async () => {

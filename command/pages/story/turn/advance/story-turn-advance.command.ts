@@ -70,6 +70,15 @@ export const storyTurnAdvance = {
       decisionKind: "decision-kind/departure",
       statement: "A notice or a start that fails after the landing is told, and undoes nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A turn moving into player from another status pushes Alan that the turn is ready.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A push that fails is named in the answer, and fails nothing.",
+    },
   ],
   name: "advance",
   arguments: [
