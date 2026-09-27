@@ -11,5 +11,9 @@ export const itemCategoryTreeUtils = {
       decisionKind: "decision-kind/departure",
       statement: "A node absent from the tree has no path.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every reading walks the roots of the tree it is handed.",
+    },
   ],
 } as const satisfies Module

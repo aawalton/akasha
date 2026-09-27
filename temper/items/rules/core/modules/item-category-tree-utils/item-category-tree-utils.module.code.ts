@@ -1,4 +1,3 @@
-import { ITEM_CATEGORY_PRIORITY } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
 import type { ItemCategoryNode } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import { ALL_CATEGORIES_ID } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
@@ -21,12 +20,9 @@ export function getNodePath(
     return null
   }
 
-  for (const key of ITEM_CATEGORY_PRIORITY) {
-    const category = categories[key]
-    if (category) {
-      const result = find(category, [])
-      if (result) return result
-    }
+  for (const category of Object.values(categories)) {
+    const result = find(category, [])
+    if (result) return result
   }
 
   return []
@@ -37,8 +33,7 @@ export function getNodeChildren(
   categories: Record<string, ItemCategoryNode>
 ): readonly { id: string; name: string }[] {
   if (nodeId === undefined) {
-    return ITEM_CATEGORY_PRIORITY.map((key) => categories[key])
-      .filter((n): n is ItemCategoryNode => n != null)
+    return Object.values(categories)
       .map((n) => ({ id: n.id, name: n.name }))
       .sort((a, b) => a.name.localeCompare(b.name))
   }
@@ -54,15 +49,12 @@ export function getNodeChildren(
     return null
   }
 
-  for (const key of ITEM_CATEGORY_PRIORITY) {
-    const category = categories[key]
-    if (category) {
-      const result = find(category)
-      if (result) {
-        return result
-          .map((n) => ({ id: n.id, name: n.name }))
-          .sort((a, b) => a.name.localeCompare(b.name))
-      }
+  for (const category of Object.values(categories)) {
+    const result = find(category)
+    if (result) {
+      return result
+        .map((n) => ({ id: n.id, name: n.name }))
+        .sort((a, b) => a.name.localeCompare(b.name))
     }
   }
 
@@ -86,10 +78,7 @@ export function getCategoryDescendantIds(
 
   if (nodeId === ALL_CATEGORIES_ID) {
     result.add(ALL_CATEGORIES_ID)
-    for (const key of ITEM_CATEGORY_PRIORITY) {
-      const category = categories[key]
-      if (category) collect(category)
-    }
+    for (const category of Object.values(categories)) collect(category)
     return result
   }
 
@@ -106,9 +95,8 @@ export function getCategoryDescendantIds(
     return false
   }
 
-  for (const key of ITEM_CATEGORY_PRIORITY) {
-    const category = categories[key]
-    if (category && findAndCollect(category)) break
+  for (const category of Object.values(categories)) {
+    if (findAndCollect(category)) break
   }
 
   return result
