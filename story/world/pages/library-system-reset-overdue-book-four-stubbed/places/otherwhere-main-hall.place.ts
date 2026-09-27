@@ -163,6 +163,10 @@ export const otherwhereMainHall = {
       fact: "An engorged bookworm rears up and roars a squelching challenge when it senses a Librarian.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Library keeps roots and vegetables that are safe for a human to eat.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
