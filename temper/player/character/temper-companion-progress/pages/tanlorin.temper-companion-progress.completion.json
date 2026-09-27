@@ -1,5 +1,6 @@
 {
   "build": {
+    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
     "jewelry": {
       "1": {
         "qualityColor": {
@@ -50,6 +51,14 @@
       }
     },
     "mainHandWeaponType": 8,
+    "skillAbilityIds": {
+      "1": 214948,
+      "2": 214703,
+      "3": 214865,
+      "4": 152863,
+      "5": 215001,
+      "6": 215215
+    },
     "companionId": 12,
     "armor": {
       "1": {
@@ -115,15 +124,6 @@
         "displayText": "Medium, Shattering",
         "isEmpty": false
       }
-    },
-    "hash": "AjEIdJEkSRJE8TxPDw8PENOXdpsbNYA",
-    "skillAbilityIds": {
-      "1": 214948,
-      "2": 214703,
-      "3": 214865,
-      "4": 152863,
-      "5": 215001,
-      "6": 215215
     }
   },
   "targetBuildHash": "AjEAcASRJEkSRIEgTw8PDxDTEmyMMuUA",
