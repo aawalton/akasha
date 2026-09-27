@@ -23,6 +23,7 @@ export const worldMechanic = {
     "number-property/paragraph",
     "number-property/reference-level",
     "page-property-entry/references",
+    "page-type/world-appointment",
     "page-type/world-aspect",
     "page-type/world-attunement",
     "page-type/world-boon",

@@ -1,0 +1,1 @@
+export type AppointmentPlace = string
