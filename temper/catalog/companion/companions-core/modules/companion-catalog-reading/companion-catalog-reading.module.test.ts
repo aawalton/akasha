@@ -23,3 +23,21 @@ test("the catalogue built from the checkout gives every slot its page", () => {
   expect(companionWeaponSlots.list.map((slot) => slot.id)).toEqual([...companionWeaponSlots.ids])
   expect(companionSkillSlots.list.map((slot) => slot.id)).toEqual([...companionSkillSlots.ids])
 })
+
+test("each armor and jewelry slot takes the equip type number of the equip-type page it links", () => {
+  holdCompanionCatalogFromCheckout()
+  expect(companionArmorSlots.list.map((slot) => [slot.id, slot.equipType])).toEqual([
+    ["head", 1],
+    ["shoulders", 4],
+    ["chest", 3],
+    ["hands", 13],
+    ["waist", 8],
+    ["legs", 9],
+    ["feet", 10],
+  ])
+  expect(companionJewelrySlots.list.map((slot) => [slot.id, slot.equipType])).toEqual([
+    ["necklace", 2],
+    ["ring-1", 12],
+    ["ring-2", 12],
+  ])
+})

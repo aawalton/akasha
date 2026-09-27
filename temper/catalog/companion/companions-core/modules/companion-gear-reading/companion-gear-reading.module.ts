@@ -15,5 +15,9 @@ export const companionGearReading = {
       decisionKind: "decision-kind/departure",
       statement: "Each list of keys names only keys its page type declares.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot's equip type is the number the equip-type page it links states.",
+    },
   ],
 } as const satisfies Module

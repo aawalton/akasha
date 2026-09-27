@@ -20,6 +20,7 @@ import {
   isCompanionWeaponTypeId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import type { CompanionEquipmentConstant } from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts"
+import { temperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
 
@@ -71,9 +72,34 @@ export const ARMOR_SLOT_KEYS: readonly string[] = [
   "slug",
   "key",
   "title",
-  "equipType",
+  "slotEquipType",
   "equipmentIconName",
 ]
+
+export const EQUIP_TYPE_READ: readonly [string, readonly string[]] = [
+  temperEquipType.slug,
+  ["slug", "equipType"],
+]
+
+export function equipTypesIn(
+  rowsOf: (pageTypeSlug: string) => readonly Row[]
+): ReadonlyMap<string, number> {
+  const numbers = new Map<string, number>()
+  for (const row of rowsOf(temperEquipType.slug)) {
+    if (typeof row.slug === "string" && typeof row.equipType === "number") {
+      numbers.set(row.slug, row.equipType)
+    }
+  }
+  return numbers
+}
+
+function equipTypeAt(row: Row, equipTypes: ReadonlyMap<string, number>, at: string) {
+  const slug = slugAt(row, "slotEquipType")
+  if (slug === null) return null
+  const found = equipTypes.get(slug)
+  if (found === undefined) throw new Error(`${at} links equip type \`${slug}\`, and no page is it`)
+  return found
+}
 
 export const JEWELRY_SLOT_KEYS: readonly string[] = [
   ...ARMOR_SLOT_KEYS,
@@ -133,13 +159,16 @@ export function armorWeightsFrom(
   })
 }
 
-export function slotsFrom(rows: readonly Row[]): readonly CompanionSlotTemplate[] {
+export function slotsFrom(
+  rows: readonly Row[],
+  equipTypes: ReadonlyMap<string, number> = new Map()
+): readonly CompanionSlotTemplate[] {
   return rows.map((row) => {
     const at = String(row.slug ?? row.key ?? "a companion slot")
     return {
       id: textIn(row.key, "key", at),
       name: textIn(row.title, "title", at),
-      equipType: typeof row.equipType === "number" ? row.equipType : null,
+      equipType: equipTypeAt(row, equipTypes, at),
       slotCategory: typeof row.slotCategory === "string" ? row.slotCategory : null,
       iconName: iconNameOf(row),
       allowsLegendary: row.allowsLegendary === true,

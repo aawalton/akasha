@@ -38,6 +38,7 @@ import { temperStatusEffectType } from "akasha/temper/catalog/effect/temper-stat
 import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
 import { temperTargetScope } from "akasha/temper/catalog/effect/temper-target-scope/temper-target-scope.page-type.ts"
 import { temperTargetType } from "akasha/temper/catalog/effect/temper-target-type/temper-target-type.page-type.ts"
+import { temperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 import { temperRotationBreakdownRow } from "akasha/temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts"
 import { createContext, useContext, useMemo } from "react"
@@ -69,6 +70,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const metrics = usePages({ pageTypeSlug: temperCompanionPassiveMetric.slug, limit: EVERY })
   const armorSlots = usePages({ pageTypeSlug: temperCompanionArmorSlot.slug, limit: EVERY })
   const jewelrySlots = usePages({ pageTypeSlug: temperCompanionJewelrySlot.slug, limit: EVERY })
+  const equipTypes = usePages({ pageTypeSlug: temperEquipType.slug, limit: EVERY })
   const weaponSlots = usePages({ pageTypeSlug: temperCompanionWeaponSlot.slug, limit: EVERY })
   const skillSlots = usePages({ pageTypeSlug: temperCompanionSkillSlot.slug, limit: EVERY })
   const armorWeights = usePages({ pageTypeSlug: temperCompanionArmorWeight.slug, limit: EVERY })
@@ -108,6 +110,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     armorWeights,
     armorSlots,
     jewelrySlots,
+    equipTypes,
     weaponSlots,
     skillSlots,
     companions,
@@ -144,6 +147,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperCompanionPassiveMetric.slug, metrics.rows],
       [temperCompanionArmorSlot.slug, armorSlots.rows],
       [temperCompanionJewelrySlot.slug, jewelrySlots.rows],
+      [temperEquipType.slug, equipTypes.rows],
       [temperCompanionWeaponSlot.slug, weaponSlots.rows],
       [temperCompanionSkillSlot.slug, skillSlots.rows],
       [temperCompanionArmorWeight.slug, armorWeights.rows],
@@ -182,6 +186,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     metrics.rows,
     armorSlots.rows,
     jewelrySlots.rows,
+    equipTypes.rows,
     weaponSlots.rows,
     skillSlots.rows,
     armorWeights.rows,
