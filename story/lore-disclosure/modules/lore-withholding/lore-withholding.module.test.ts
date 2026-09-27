@@ -23,6 +23,7 @@ import {
   loreWorld,
   OTHER_SEAT,
   OUTSIDE_AT,
+  RECORDER_SEAT,
   REVIEWER_SEAT,
   SECRETS_AT,
   TARGET_AT,
@@ -64,6 +65,20 @@ test("a reviewer and a writer are withheld what a game master is", () => {
   expect(withheldFor(root, REVIEWER_SEAT)).toEqual(held)
   expect(withheldFor(root, WRITER_SEAT)).toEqual(held)
   expect(withheldFor(root, REVIEWER_SEAT)).toContain(LORE_AT)
+})
+
+test("a story recorder's seat, and a subagent under it, are judged as a game master's", () => {
+  const root = loreWorld(scratch)
+  expect(gameMasterIn(root, RECORDER_SEAT)).toBe(true)
+  expect(gameMasterIn(root, `${RECORDER_SEAT}--held-sub`)).toBe(true)
+})
+
+test("a story recorder is withheld what a game master is", () => {
+  const root = loreWorld(scratch)
+  const held = withheldFor(root, GAME_MASTER_SEAT)
+  expect(withheldFor(root, RECORDER_SEAT)).toEqual(held)
+  expect(withheldFor(root, RECORDER_SEAT)).toContain(LORE_AT)
+  expect(withheldFor(root, `${RECORDER_SEAT}--held-sub`)).toEqual(held)
 })
 
 test("a seat of another role, or no agent at all, is no game master's", () => {

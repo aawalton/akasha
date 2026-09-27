@@ -4,6 +4,7 @@ import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.modu
 import { definer } from "akasha/agent/role/pages/definer.role.ts"
 import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
 import { reviewer } from "akasha/agent/role/pages/reviewer.role.ts"
+import { storyRecorder } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer } from "akasha/agent/role/pages/writer.role.ts"
 import { role as rolePageType } from "akasha/agent/role/role.page-type.ts"
 import { role } from "akasha/agent/seat/properties/role.relation-property.ts"
@@ -29,6 +30,8 @@ export const OTHER_SEAT = "01a0d600-0000-7000-8000-000000000002"
 export const REVIEWER_SEAT = "01a0d600-0000-7000-8000-000000000007"
 
 export const WRITER_SEAT = "01a0d600-0000-7000-8000-000000000008"
+
+export const RECORDER_SEAT = "01a0d600-0000-7000-8000-000000000009"
 
 export const UNDER_GAME_MASTER = `${GAME_MASTER_SEAT}${SUBAGENT_MARK}held-sub`
 
@@ -63,6 +66,10 @@ const WRITER_ROLE_AT = "agent/role/pages/writer.role.ts"
 const REVIEWER_AT = "agent/seat/pages/reviewing/reviewing.seat.ts"
 
 const WRITER_AT = "agent/seat/pages/writing/writing.seat.ts"
+
+const RECORDER_ROLE_AT = "agent/role/pages/story-recorder.role.ts"
+
+const RECORDER_AT = "agent/seat/pages/recording/recording.seat.ts"
 
 type Naming = { readonly propertySlug: string; readonly path: string; readonly id: string }
 
@@ -116,6 +123,15 @@ function seatsFiled(root: string): undefined {
         type: typeOf(seat.slug),
         slug: "writing",
         [role.propertySlug]: addressOf(rolePageType.slug, writer.slug),
+      },
+    },
+    {
+      path: RECORDER_AT,
+      value: {
+        id: RECORDER_SEAT,
+        type: typeOf(seat.slug),
+        slug: "recording",
+        [role.propertySlug]: addressOf(rolePageType.slug, storyRecorder.slug),
       },
     },
   ])
@@ -175,6 +191,10 @@ function pagesFiled(root: string, about: string, told: boolean): undefined {
       path: WRITER_ROLE_AT,
       value: { id: writer.id, type: typeOf(rolePageType.slug), slug: writer.slug },
     },
+    {
+      path: RECORDER_ROLE_AT,
+      value: { id: storyRecorder.id, type: typeOf(rolePageType.slug), slug: storyRecorder.slug },
+    },
   ])
   valueAlsoFiled(root, lore.slug, [
     {
@@ -202,6 +222,9 @@ export function loreWorld(scratch: Scratch, about: string = TARGET, told = false
   ])
   referencesWritten(root, WRITER_ROLE_AT, [
     { propertySlug: role.propertySlug, path: WRITER_AT, id: WRITER_SEAT },
+  ])
+  referencesWritten(root, RECORDER_ROLE_AT, [
+    { propertySlug: role.propertySlug, path: RECORDER_AT, id: RECORDER_SEAT },
   ])
   return root
 }

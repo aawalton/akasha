@@ -4,6 +4,7 @@ import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.m
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
 import { reviewer } from "akasha/agent/role/pages/reviewer.role.ts"
+import { storyRecorder } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer } from "akasha/agent/role/pages/writer.role.ts"
 import { role } from "akasha/agent/seat/properties/role.relation-property.ts"
 import { storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
@@ -58,7 +59,12 @@ export function seatOf(agentId: string): string {
   return at < 0 ? agentId : agentId.slice(0, at)
 }
 
-export const HELD_ROLES: readonly string[] = [gameMaster.id, reviewer.id, writer.id]
+export const HELD_ROLES: readonly string[] = [
+  gameMaster.id,
+  reviewer.id,
+  writer.id,
+  storyRecorder.id,
+]
 
 export function gameMasterIn(root: string, agentId: string | null): boolean {
   if (agentId === null || agentId === "") return false

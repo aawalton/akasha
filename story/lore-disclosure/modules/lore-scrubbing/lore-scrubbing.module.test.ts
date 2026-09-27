@@ -20,6 +20,7 @@ import {
   LORE_AT,
   loreWorld,
   OTHER_SEAT,
+  RECORDER_SEAT,
   UNDER_GAME_MASTER,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
 
@@ -71,6 +72,14 @@ test("a seat of another role is scrubbed nothing", () => {
 
 test("a subagent under a game master's seat is scrubbed as the seat is", () => {
   expect(scrubberFor(sealedWorld(), UNDER_GAME_MASTER)).not.toBeNull()
+})
+
+test("a story recorder's seat, and a subagent under it, are scrubbed as a game master's", () => {
+  const root = sealedWorld()
+  const found = scrubberFor(root, RECORDER_SEAT)
+  expect(found).not.toBeNull()
+  if (found !== null) expect(heldIn(`"${FACT}"`, found)).toBe(true)
+  expect(scrubberFor(root, `${RECORDER_SEAT}--held-sub`)).not.toBeNull()
 })
 
 test("a line carrying a withheld fact, as a diff or a draft shows it, is held", () => {
