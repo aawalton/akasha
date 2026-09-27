@@ -1,8 +1,8 @@
-import type { Domain } from "akasha/domain/domain.page-type.types.ts"
+import type { DesktopApp } from "akasha/infrastructure/service/akasha-service/desktop-app/desktop-app.page-type.types.ts"
 
 export const codeEditor = {
   id: "01a0658a-e55d-7059-8f58-e3521a432370",
-  type: "page-type/domain",
+  type: "page-type/desktop-app",
   slug: "code-editor",
   definition: "the program where Alan manages agents",
   spellings: [
@@ -207,4 +207,4 @@ export const codeEditor = {
       statement: "Every act the seat menu names is offered in the seat menu.",
     },
   ],
-} as const satisfies Domain
+} as const satisfies DesktopApp

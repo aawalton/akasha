@@ -12,7 +12,7 @@ export const alanHarness = {
     "domain/alanwalton-ios-notification",
     "domain/alan-harness-attribute",
     "domain/capacity",
-    "domain/code-editor",
+    "desktop-app/code-editor",
     "domain/cost",
     "domain/day-boundary",
     "domain/email-inbound",
