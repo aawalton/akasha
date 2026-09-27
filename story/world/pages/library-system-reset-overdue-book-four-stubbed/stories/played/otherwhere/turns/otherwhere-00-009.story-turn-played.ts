@@ -4,10 +4,13 @@ export const otherwhere00009 = {
   id: "01a0e3cd-8508-740e-b386-d537f8a8a974",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-009",
+  ownLength: 310,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 9,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  turnStatus: "turn-status/reviewers",
   action:
     "“It’s…beautiful.” I look around with wide eyes, then settle myself. “It sounded like there is work to be done, and some of those error messages downstairs were quite alarming. Where do we start?”",
   beats: [
