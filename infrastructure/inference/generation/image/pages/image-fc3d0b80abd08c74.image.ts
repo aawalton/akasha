@@ -15,4 +15,5 @@ export const imageFc3d0b80abd08c74 = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

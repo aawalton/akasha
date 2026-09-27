@@ -9,4 +9,5 @@ export const imageC76d4e0576d638dc = {
   settingTags: ["setting-tag/stage", "setting-tag/vanity", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/pants", "wardrobe-tag/strapless"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageB0372c34d03c398d = {
   settingTags: ["setting-tag/market", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

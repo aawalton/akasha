@@ -9,4 +9,5 @@ export const imageA7b41350bb099be9 = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/barefoot", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
 } as const satisfies Image

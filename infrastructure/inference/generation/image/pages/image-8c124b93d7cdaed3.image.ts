@@ -9,4 +9,5 @@ export const image8c124b93d7cdaed3 = {
   settingTags: ["setting-tag/arcade", "setting-tag/indoor"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

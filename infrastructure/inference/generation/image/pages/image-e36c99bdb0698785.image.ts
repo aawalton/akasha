@@ -19,4 +19,5 @@ export const imageE36c99bdb0698785 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/puffed-sleeves", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

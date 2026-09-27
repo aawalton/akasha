@@ -20,4 +20,5 @@ export const imageFaae7c8b96aad159 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

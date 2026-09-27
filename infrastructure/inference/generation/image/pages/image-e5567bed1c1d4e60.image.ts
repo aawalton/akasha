@@ -20,4 +20,5 @@ export const imageE5567bed1c1d4e60 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

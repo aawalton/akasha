@@ -29,4 +29,5 @@ export const image19740e649c0e0f29 = {
     "wardrobe-tag/off-shoulder",
     "wardrobe-tag/puffed-sleeves",
   ],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageB042e8ef428631be = {
   settingTags: ["setting-tag/outdoor", "setting-tag/pool", "setting-tag/daytime"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/choker"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/mermaid"],
 } as const satisfies Image

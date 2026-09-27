@@ -9,4 +9,5 @@ export const image2b78378f7af21903 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

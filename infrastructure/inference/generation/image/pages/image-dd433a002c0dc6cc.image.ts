@@ -9,4 +9,5 @@ export const imageDd433a002c0dc6cc = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/unusual-eyes"],
 } as const satisfies Image

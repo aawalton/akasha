@@ -9,4 +9,5 @@ export const image682e5521e1718a69 = {
   settingTags: ["setting-tag/plain-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/shorts", "wardrobe-tag/stockings"],
+  fantasyTags: ["fantasy-tag/cat-ears"],
 } as const satisfies Image

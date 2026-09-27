@@ -10,4 +10,5 @@ export const imageBca9431519830aa5 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/t-shirt", "wardrobe-tag/sleepwear"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

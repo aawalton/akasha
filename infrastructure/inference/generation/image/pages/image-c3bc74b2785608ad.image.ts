@@ -10,4 +10,5 @@ export const imageC3bc74b2785608ad = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageA298634805bfade0 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

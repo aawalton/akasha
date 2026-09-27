@@ -10,4 +10,5 @@ export const image1ce2e083220d045f = {
   settingTags: ["setting-tag/arcade", "setting-tag/indoor", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/bare-shoulders", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

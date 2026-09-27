@@ -10,4 +10,5 @@ export const imageA9178bda2dfa8696 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/off-shoulder", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/unusual-eyes"],
 } as const satisfies Image

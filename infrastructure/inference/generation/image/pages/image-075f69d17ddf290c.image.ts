@@ -9,4 +9,5 @@ export const image075f69d17ddf290c = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/holding-clothing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

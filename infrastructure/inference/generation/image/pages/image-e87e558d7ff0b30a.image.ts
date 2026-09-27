@@ -10,4 +10,5 @@ export const imageE87e558d7ff0b30a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

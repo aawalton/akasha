@@ -9,4 +9,5 @@ export const imageBf9a6e52a4836d2e = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/nature-spirit", "fantasy-tag/cosplay"],
 } as const satisfies Image

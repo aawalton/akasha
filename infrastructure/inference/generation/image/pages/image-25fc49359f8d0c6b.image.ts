@@ -9,4 +9,5 @@ export const image25fc49359f8d0c6b = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/unusual-eyes"],
 } as const satisfies Image

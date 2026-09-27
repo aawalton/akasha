@@ -19,4 +19,5 @@ export const image9d4c69effb3e0bed = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/shirt", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/cosplay"],
 } as const satisfies Image

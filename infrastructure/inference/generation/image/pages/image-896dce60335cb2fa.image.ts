@@ -20,4 +20,5 @@ export const image896dce60335cb2fa = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/wings", "fantasy-tag/fairy"],
 } as const satisfies Image

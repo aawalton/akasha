@@ -10,4 +10,5 @@ export const imageCc6c095e416a2464 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

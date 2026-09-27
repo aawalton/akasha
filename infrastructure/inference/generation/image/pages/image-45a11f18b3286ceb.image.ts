@@ -9,4 +9,5 @@ export const image45a11f18b3286ceb = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/eating", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/hoodie"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

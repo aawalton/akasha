@@ -10,4 +10,5 @@ export const imageA66ca60147b6a253 = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/hotel"],
   poseTags: ["pose-tag/walking", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/jewelry", "wardrobe-tag/choker"],
+  fantasyTags: ["fantasy-tag/bunny-ears"],
 } as const satisfies Image

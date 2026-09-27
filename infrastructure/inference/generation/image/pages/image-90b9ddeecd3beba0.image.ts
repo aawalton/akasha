@@ -9,4 +9,5 @@ export const image90b9ddeecd3beba0 = {
   settingTags: ["setting-tag/abstract-background"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/weapons"],
 } as const satisfies Image

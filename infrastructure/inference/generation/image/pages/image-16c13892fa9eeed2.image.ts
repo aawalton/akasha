@@ -19,4 +19,5 @@ export const image16c13892fa9eeed2 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
 } as const satisfies Image

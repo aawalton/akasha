@@ -15,4 +15,5 @@ export const imageDad56364dd159317 = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/athletic-wear", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

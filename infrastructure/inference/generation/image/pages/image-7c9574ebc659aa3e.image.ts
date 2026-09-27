@@ -25,4 +25,5 @@ export const image7c9574ebc659aa3e = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless", "wardrobe-tag/corset"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/ethereal"],
 } as const satisfies Image

@@ -24,4 +24,11 @@ export const image003d9c9f87e03932 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/tunic", "wardrobe-tag/jewelry"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/weapons",
+    "fantasy-tag/witch",
+  ],
 } as const satisfies Image

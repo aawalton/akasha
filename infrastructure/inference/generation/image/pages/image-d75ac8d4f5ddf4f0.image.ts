@@ -30,4 +30,10 @@ export const imageD75ac8d4f5ddf4f0 = {
     "wardrobe-tag/jewelry",
     "wardrobe-tag/hair-accessory",
   ],
+  fantasyTags: [
+    "fantasy-tag/steampunk",
+    "fantasy-tag/cosplay",
+    "fantasy-tag/android",
+    "fantasy-tag/magic",
+  ],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image5217b9af829007c6 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-raised", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/gloves", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

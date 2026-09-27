@@ -18,4 +18,5 @@ export const image9e34daadd4b2899a = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/serious-expression"],
+  fantasyTags: ["fantasy-tag/unusual-eyes"],
 } as const satisfies Image

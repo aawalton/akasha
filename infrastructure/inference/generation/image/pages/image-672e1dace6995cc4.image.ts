@@ -10,4 +10,5 @@ export const image672e1dace6995cc4 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

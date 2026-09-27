@@ -20,4 +20,5 @@ export const imageBe9bfc44d6e26918 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

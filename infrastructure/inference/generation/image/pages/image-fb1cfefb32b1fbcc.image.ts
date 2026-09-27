@@ -10,4 +10,5 @@ export const imageFb1cfefb32b1fbcc = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/nature"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/lace"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

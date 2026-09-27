@@ -15,4 +15,5 @@ export const imageCb93dc630fd78eaf = {
   settingTags: ["setting-tag/museum", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

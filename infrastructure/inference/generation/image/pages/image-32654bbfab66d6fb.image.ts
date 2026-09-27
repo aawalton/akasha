@@ -16,4 +16,5 @@ export const image32654bbfab66d6fb = {
   settingTags: ["setting-tag/arcade", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/reaching", "pose-tag/leaning", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

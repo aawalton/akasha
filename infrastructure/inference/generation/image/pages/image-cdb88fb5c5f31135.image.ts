@@ -19,4 +19,5 @@ export const imageCdb88fb5c5f31135 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/cabin"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

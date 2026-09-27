@@ -19,4 +19,5 @@ export const imageEcdac24f912b46bc = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/high-neck", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
 } as const satisfies Image

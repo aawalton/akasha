@@ -9,4 +9,5 @@ export const image262f4872d823b431 = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/plain-background"],
   poseTags: ["pose-tag/running", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/hair-accessory"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/magic"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image62ac36e205bfd980 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

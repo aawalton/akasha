@@ -9,4 +9,5 @@ export const image7f2f097cc700bb00 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/kimono"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
 } as const satisfies Image

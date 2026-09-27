@@ -9,4 +9,5 @@ export const image7cf8df7af65f17bf = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sheer", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/naga"],
 } as const satisfies Image

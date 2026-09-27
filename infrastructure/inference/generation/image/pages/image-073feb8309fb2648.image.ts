@@ -10,4 +10,5 @@ export const image073feb8309fb2648 = {
   settingTags: ["setting-tag/living-room", "setting-tag/indoor", "setting-tag/library"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sweatpants", "wardrobe-tag/hoodie", "wardrobe-tag/loungewear"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

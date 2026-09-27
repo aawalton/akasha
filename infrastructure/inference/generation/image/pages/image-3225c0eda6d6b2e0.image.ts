@@ -10,4 +10,5 @@ export const image3225c0eda6d6b2e0 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/hoodie", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

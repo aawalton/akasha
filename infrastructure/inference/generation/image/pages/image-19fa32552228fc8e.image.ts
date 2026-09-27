@@ -19,4 +19,5 @@ export const image19fa32552228fc8e = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace", "setting-tag/home"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/historical"],
 } as const satisfies Image

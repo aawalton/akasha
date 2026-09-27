@@ -15,4 +15,5 @@ export const image7da3dea87e6f7f7b = {
     "pose-tag/working",
   ],
   wardrobeTags: ["wardrobe-tag/skirt", "wardrobe-tag/stockings", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime", "fantasy-tag/green-hair"],
 } as const satisfies Image

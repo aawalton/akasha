@@ -20,4 +20,5 @@ export const imageF896bcb5dabfd23f = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

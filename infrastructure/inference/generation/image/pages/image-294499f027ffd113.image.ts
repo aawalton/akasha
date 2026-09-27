@@ -20,4 +20,5 @@ export const image294499f027ffd113 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/puffed-sleeves"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image3104d07e6a1b93f1 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/shirt", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

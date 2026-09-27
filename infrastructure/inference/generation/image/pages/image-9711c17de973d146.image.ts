@@ -14,4 +14,5 @@ export const image9711c17de973d146 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/castle"],
   poseTags: ["pose-tag/looking-back", "pose-tag/reading", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
 } as const satisfies Image

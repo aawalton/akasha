@@ -15,4 +15,5 @@ export const image538ba66e20debcd7 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
 } as const satisfies Image

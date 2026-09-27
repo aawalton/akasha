@@ -25,4 +25,5 @@ export const imageD22da0b48e97ba3a = {
     "pose-tag/looking-back",
   ],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

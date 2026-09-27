@@ -25,4 +25,5 @@ export const image511421335655006a = {
     "pose-tag/sitting",
   ],
   wardrobeTags: ["wardrobe-tag/hoodie"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cyberpunk"],
 } as const satisfies Image

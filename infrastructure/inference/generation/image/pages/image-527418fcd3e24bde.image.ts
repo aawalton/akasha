@@ -9,4 +9,5 @@ export const image527418fcd3e24bde = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow", "setting-tag/river"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/antlers"],
 } as const satisfies Image

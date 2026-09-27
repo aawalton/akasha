@@ -9,4 +9,5 @@ export const imageC5865226ce9334a7 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

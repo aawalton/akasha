@@ -20,4 +20,5 @@ export const image94522a43331c64fc = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts", "wardrobe-tag/sneakers"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

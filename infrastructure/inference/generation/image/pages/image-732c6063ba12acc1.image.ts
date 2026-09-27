@@ -9,4 +9,5 @@ export const image732c6063ba12acc1 = {
   settingTags: ["setting-tag/snow", "setting-tag/studio", "setting-tag/stage"],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sneakers", "wardrobe-tag/tights"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image6d503d71b082a162 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hair-accessory", "wardrobe-tag/headband", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/cat-ears", "fantasy-tag/magic"],
 } as const satisfies Image

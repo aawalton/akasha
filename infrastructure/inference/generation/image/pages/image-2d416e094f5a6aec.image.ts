@@ -20,4 +20,10 @@ export const image2d416e094f5a6aec = {
   settingTags: ["setting-tag/snow", "setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves", "wardrobe-tag/fully-clothed"],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/green-hair",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/weapons",
+  ],
 } as const satisfies Image

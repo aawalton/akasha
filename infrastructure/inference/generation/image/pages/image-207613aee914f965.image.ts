@@ -14,4 +14,5 @@ export const image207613aee914f965 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

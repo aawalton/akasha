@@ -9,4 +9,5 @@ export const image70e33632ce7c4f70 = {
   settingTags: ["setting-tag/spaceship", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/cosmic"],
 } as const satisfies Image

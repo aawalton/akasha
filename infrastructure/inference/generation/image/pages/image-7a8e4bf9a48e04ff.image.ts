@@ -19,4 +19,5 @@ export const image7a8e4bf9a48e04ff = {
   settingTags: ["setting-tag/vanity", "setting-tag/mirror"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/silk"],
+  fantasyTags: ["fantasy-tag/android"],
 } as const satisfies Image

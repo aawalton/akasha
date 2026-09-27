@@ -18,4 +18,5 @@ export const image0c3a80eb0f18b9a5 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
+  fantasyTags: ["fantasy-tag/unusual-eyes", "fantasy-tag/surreal"],
 } as const satisfies Image

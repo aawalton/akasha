@@ -19,4 +19,5 @@ export const image2d9cd19eb2f6cd4a = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/long-sleeves", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

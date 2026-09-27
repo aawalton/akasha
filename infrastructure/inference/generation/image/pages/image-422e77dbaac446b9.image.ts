@@ -21,4 +21,5 @@ export const image422e77dbaac446b9 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/top", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

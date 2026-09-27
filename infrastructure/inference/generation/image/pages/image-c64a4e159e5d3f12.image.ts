@@ -19,4 +19,5 @@ export const imageC64a4e159e5d3f12 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/reaching", "pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

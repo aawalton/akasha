@@ -9,4 +9,5 @@ export const image86d716fa00203a4f = {
   settingTags: ["setting-tag/bathroom", "setting-tag/shower"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

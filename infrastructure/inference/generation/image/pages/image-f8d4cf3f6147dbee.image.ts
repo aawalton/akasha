@@ -20,4 +20,5 @@ export const imageF8d4cf3f6147dbee = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

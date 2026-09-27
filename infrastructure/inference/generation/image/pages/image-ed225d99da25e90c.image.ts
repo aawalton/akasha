@@ -9,4 +9,5 @@ export const imageEd225d99da25e90c = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/silver-hair"],
 } as const satisfies Image

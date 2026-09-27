@@ -9,4 +9,5 @@ export const imageDe040c93b711659e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/silver-hair"],
 } as const satisfies Image

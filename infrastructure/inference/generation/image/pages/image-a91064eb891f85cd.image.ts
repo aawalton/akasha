@@ -16,4 +16,5 @@ export const imageA91064eb891f85cd = {
   settingTags: ["setting-tag/park", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/sitting", "pose-tag/laughing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/jacket"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

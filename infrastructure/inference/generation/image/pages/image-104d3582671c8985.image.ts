@@ -20,4 +20,5 @@ export const image104d3582671c8985 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

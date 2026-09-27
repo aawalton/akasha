@@ -9,4 +9,5 @@ export const image4318a87fb9befacd = {
   settingTags: ["setting-tag/indoor", "setting-tag/hotel", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/kneeling", "pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

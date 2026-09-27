@@ -10,4 +10,5 @@ export const image8b2135756bdd47fa = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/blue-hair"],
 } as const satisfies Image

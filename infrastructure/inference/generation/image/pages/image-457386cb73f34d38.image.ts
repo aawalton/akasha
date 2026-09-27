@@ -20,4 +20,5 @@ export const image457386cb73f34d38 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/overalls", "wardrobe-tag/headband"],
+  fantasyTags: ["fantasy-tag/bunny-ears"],
 } as const satisfies Image

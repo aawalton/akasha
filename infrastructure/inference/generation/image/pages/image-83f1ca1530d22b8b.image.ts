@@ -20,4 +20,5 @@ export const image83f1ca1530d22b8b = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/tube-top"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

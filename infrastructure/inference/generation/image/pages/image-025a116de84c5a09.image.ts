@@ -25,4 +25,5 @@ export const image025a116de84c5a09 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

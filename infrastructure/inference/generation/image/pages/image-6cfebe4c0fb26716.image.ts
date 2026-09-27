@@ -9,4 +9,5 @@ export const image6cfebe4c0fb26716 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field"],
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

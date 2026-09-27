@@ -14,4 +14,5 @@ export const imageD9f8db45c0dfd36d = {
     "pose-tag/masturbation",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/silver-hair"],
 } as const satisfies Image

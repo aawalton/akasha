@@ -15,4 +15,5 @@ export const imageF68db64cae7fe448 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

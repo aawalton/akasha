@@ -19,4 +19,5 @@ export const image03c83db451bf4173 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/suit"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/red-eyes"],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const imageDb3e198a51082284 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  fantasyTags: ["fantasy-tag/unusual-eyes"],
 } as const satisfies Image

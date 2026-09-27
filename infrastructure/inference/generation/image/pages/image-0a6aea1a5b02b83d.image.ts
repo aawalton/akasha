@@ -9,4 +9,5 @@ export const image0a6aea1a5b02b83d = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/unusual-eyes"],
 } as const satisfies Image

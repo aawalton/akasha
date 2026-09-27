@@ -9,4 +9,5 @@ export const image808580ac430a2ce3 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sky"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/hologram"],
 } as const satisfies Image

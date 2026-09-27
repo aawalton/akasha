@@ -25,4 +25,5 @@ export const imageDe524d5fa9c2da51 = {
     "pose-tag/head-tilt",
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

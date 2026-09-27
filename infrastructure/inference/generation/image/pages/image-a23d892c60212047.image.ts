@@ -10,4 +10,5 @@ export const imageA23d892c60212047 = {
   settingTags: ["setting-tag/arcade", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/laughing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/hoodie"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

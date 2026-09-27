@@ -14,4 +14,5 @@ export const image334cf76880f58a0d = {
     "pose-tag/masturbation",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/silver-hair"],
 } as const satisfies Image

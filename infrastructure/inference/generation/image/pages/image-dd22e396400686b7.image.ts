@@ -10,4 +10,5 @@ export const imageDd22e396400686b7 = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit", "setting-tag/rocks"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/fairy"],
 } as const satisfies Image

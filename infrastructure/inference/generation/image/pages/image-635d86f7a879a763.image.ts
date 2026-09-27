@@ -14,4 +14,5 @@ export const image635d86f7a879a763 = {
   ],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit", "wardrobe-tag/wet"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
 } as const satisfies Image

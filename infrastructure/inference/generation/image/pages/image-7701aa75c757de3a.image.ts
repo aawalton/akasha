@@ -9,4 +9,5 @@ export const image7701aa75c757de3a = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/silver-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

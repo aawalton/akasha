@@ -19,4 +19,5 @@ export const image310e781532a4d249 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

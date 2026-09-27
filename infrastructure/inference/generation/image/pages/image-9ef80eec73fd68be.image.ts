@@ -15,4 +15,5 @@ export const image9ef80eec73fd68be = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/surreal", "fantasy-tag/anime"],
 } as const satisfies Image

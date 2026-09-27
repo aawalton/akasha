@@ -9,4 +9,5 @@ export const image7f3f131582dae395 = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/party"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/wings"],
 } as const satisfies Image

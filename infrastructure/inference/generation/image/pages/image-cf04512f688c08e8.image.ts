@@ -10,4 +10,5 @@ export const imageCf04512f688c08e8 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

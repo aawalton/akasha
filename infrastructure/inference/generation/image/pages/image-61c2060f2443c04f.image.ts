@@ -9,4 +9,5 @@ export const image61c2060f2443c04f = {
   settingTags: ["setting-tag/rooftop", "setting-tag/outdoor", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gloves", "wardrobe-tag/stockings"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons", "fantasy-tag/glowing-eyes"],
 } as const satisfies Image

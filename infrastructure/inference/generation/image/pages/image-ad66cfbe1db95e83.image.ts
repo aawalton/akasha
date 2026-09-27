@@ -10,4 +10,5 @@ export const imageAd66cfbe1db95e83 = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature", "setting-tag/park"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/nature-spirit"],
 } as const satisfies Image

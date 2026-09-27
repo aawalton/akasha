@@ -9,4 +9,5 @@ export const imageFd3d89d983db0e41 = {
   settingTags: ["setting-tag/water", "setting-tag/night", "setting-tag/ocean"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/veil"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal", "fantasy-tag/surreal"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image79d15e7930ef9ab6 = {
   settingTags: ["setting-tag/workshop", "setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/side-by-side", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace", "wardrobe-tag/bodysuit"],
+  fantasyTags: ["fantasy-tag/android"],
 } as const satisfies Image

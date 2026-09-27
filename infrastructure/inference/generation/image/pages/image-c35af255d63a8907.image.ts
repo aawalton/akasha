@@ -16,4 +16,5 @@ export const imageC35af255d63a8907 = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/dress", "wardrobe-tag/backpack"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

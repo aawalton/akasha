@@ -19,4 +19,10 @@ export const imageB9b5e6f79b3046fd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/jacket", "wardrobe-tag/gold-trim"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/weapons",
+  ],
 } as const satisfies Image

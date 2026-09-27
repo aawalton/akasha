@@ -20,4 +20,5 @@ export const image8ddd43a58eec5f2d = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fairy"],
 } as const satisfies Image

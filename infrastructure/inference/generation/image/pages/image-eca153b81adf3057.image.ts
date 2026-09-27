@@ -9,4 +9,5 @@ export const imageEca153b81adf3057 = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/bathing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/anime"],
 } as const satisfies Image

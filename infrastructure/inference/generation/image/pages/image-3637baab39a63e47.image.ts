@@ -15,4 +15,5 @@ export const image3637baab39a63e47 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/park"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image431fefbbbac9a178 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

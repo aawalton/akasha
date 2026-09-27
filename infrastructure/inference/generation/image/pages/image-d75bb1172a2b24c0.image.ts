@@ -14,4 +14,5 @@ export const imageD75bb1172a2b24c0 = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/lace", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

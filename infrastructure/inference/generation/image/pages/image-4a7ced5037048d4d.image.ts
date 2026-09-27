@@ -25,4 +25,10 @@ export const image4a7ced5037048d4d = {
     "wardrobe-tag/stockings",
     "wardrobe-tag/gloves",
   ],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/weapons",
+    "fantasy-tag/magic",
+    "fantasy-tag/anime",
+  ],
 } as const satisfies Image

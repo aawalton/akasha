@@ -9,4 +9,5 @@ export const image485e922c697c973d = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

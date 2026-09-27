@@ -25,4 +25,5 @@ export const image800c52ff920e3aeb = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

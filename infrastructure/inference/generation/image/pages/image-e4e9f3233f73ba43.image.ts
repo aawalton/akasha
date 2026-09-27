@@ -16,4 +16,5 @@ export const imageE4e9f3233f73ba43 = {
   settingTags: ["setting-tag/restaurant", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/eating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/casual-wear"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

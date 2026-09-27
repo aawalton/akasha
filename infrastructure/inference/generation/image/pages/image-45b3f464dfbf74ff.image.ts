@@ -9,4 +9,5 @@ export const image45b3f464dfbf74ff = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/underwater", "setting-tag/dark-background"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/ethereal"],
 } as const satisfies Image

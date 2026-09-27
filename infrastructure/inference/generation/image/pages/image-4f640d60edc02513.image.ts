@@ -9,4 +9,5 @@ export const image4f640d60edc02513 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/sky"],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/anime"],
 } as const satisfies Image

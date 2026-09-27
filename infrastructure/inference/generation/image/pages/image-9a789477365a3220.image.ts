@@ -20,4 +20,5 @@ export const image9a789477365a3220 = {
   settingTags: ["setting-tag/city-street", "setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/smiling", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/casual-wear"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

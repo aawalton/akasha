@@ -9,4 +9,5 @@ export const image33f99493af6c96fa = {
   settingTags: ["setting-tag/car", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/slip-dress"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

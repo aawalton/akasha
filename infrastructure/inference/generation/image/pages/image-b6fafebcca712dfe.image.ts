@@ -9,4 +9,5 @@ export const imageB6fafebcca712dfe = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

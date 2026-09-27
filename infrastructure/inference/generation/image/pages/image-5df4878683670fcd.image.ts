@@ -9,4 +9,5 @@ export const image5df4878683670fcd = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/floating"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/ethereal", "fantasy-tag/glowing"],
 } as const satisfies Image

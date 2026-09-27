@@ -19,4 +19,5 @@ export const imageDd318527f4a8528b = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/workshop", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-up", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/apron", "wardrobe-tag/fully-clothed"],
+  fantasyTags: ["fantasy-tag/steampunk"],
 } as const satisfies Image

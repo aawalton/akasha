@@ -9,4 +9,5 @@ export const image47272e3aba17dad7 = {
   settingTags: ["setting-tag/forest", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/lace", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
 } as const satisfies Image

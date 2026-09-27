@@ -19,4 +19,5 @@ export const image0add8688031cb726 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/laughing", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/velvet", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageC6c97ed1f499d3aa = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

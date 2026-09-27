@@ -14,4 +14,5 @@ export const image7db7cd4f0faf519b = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/green-hair"],
 } as const satisfies Image

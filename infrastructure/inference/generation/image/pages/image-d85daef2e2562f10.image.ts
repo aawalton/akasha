@@ -19,4 +19,10 @@ export const imageD85daef2e2562f10 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tunic", "wardrobe-tag/gold-trim"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/weapons",
+  ],
 } as const satisfies Image

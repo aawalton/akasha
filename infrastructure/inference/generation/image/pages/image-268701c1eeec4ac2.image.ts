@@ -9,4 +9,5 @@ export const image268701c1eeec4ac2 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/temple", "setting-tag/night"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
 } as const satisfies Image

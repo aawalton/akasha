@@ -25,4 +25,5 @@ export const imageE3a7655a8cd7b809 = {
     "wardrobe-tag/shirt",
     "wardrobe-tag/skirt",
   ],
+  fantasyTags: ["fantasy-tag/witch", "fantasy-tag/magic"],
 } as const satisfies Image

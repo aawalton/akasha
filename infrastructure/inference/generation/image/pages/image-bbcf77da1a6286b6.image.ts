@@ -20,4 +20,5 @@ export const imageBbcf77da1a6286b6 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/deep-v-neck"],
+  fantasyTags: ["fantasy-tag/golden-eyes"],
 } as const satisfies Image

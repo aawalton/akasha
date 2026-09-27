@@ -9,4 +9,5 @@ export const image511a47b19959534a = {
   settingTags: ["setting-tag/outdoor", "setting-tag/river", "setting-tag/nature"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/bare-legs", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/anime"],
 } as const satisfies Image

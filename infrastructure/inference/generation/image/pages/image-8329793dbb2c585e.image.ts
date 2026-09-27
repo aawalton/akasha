@@ -17,4 +17,5 @@ export const image8329793dbb2c585e = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/backless", "wardrobe-tag/apron"],
+  fantasyTags: ["fantasy-tag/bunny-ears"],
 } as const satisfies Image

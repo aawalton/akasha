@@ -9,4 +9,5 @@ export const image01b2be71b3f87ace = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sleepwear", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/hologram"],
 } as const satisfies Image

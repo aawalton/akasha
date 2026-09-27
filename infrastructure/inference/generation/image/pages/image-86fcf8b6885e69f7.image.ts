@@ -10,4 +10,5 @@ export const image86fcf8b6885e69f7 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

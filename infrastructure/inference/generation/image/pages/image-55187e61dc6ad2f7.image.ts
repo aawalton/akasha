@@ -15,4 +15,5 @@ export const image55187e61dc6ad2f7 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

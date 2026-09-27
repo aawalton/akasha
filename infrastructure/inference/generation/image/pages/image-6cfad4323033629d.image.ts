@@ -20,4 +20,5 @@ export const image6cfad4323033629d = {
   settingTags: ["setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

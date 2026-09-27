@@ -9,4 +9,5 @@ export const imageB2c38825d24c9435 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

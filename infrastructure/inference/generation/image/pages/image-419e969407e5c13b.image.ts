@@ -26,4 +26,5 @@ export const image419e969407e5c13b = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/pants"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

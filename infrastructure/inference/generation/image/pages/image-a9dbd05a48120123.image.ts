@@ -10,4 +10,5 @@ export const imageA9dbd05a48120123 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wig", "wardrobe-tag/socks", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

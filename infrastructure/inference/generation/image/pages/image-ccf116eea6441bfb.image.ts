@@ -9,4 +9,5 @@ export const imageCcf116eea6441bfb = {
   settingTags: ["setting-tag/outdoor", "setting-tag/daytime", "setting-tag/sky"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress", "wardrobe-tag/headband"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

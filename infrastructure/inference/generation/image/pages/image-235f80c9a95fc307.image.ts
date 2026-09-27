@@ -9,4 +9,5 @@ export const image235f80c9a95fc307 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street", "setting-tag/city"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

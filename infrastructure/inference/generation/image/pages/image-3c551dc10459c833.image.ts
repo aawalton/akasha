@@ -20,4 +20,11 @@ export const image3c551dc10459c833 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/jumping"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/wings",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/green-hair",
+    "fantasy-tag/glowing-eyes",
+  ],
 } as const satisfies Image

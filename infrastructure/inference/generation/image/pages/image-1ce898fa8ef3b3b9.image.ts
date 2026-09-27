@@ -14,4 +14,5 @@ export const image1ce898fa8ef3b3b9 = {
     "pose-tag/hands-clasped",
   ],
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/shirt", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/sci-fi"],
 } as const satisfies Image

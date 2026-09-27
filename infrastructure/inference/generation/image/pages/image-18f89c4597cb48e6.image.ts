@@ -10,4 +10,5 @@ export const image18f89c4597cb48e6 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/arcade"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

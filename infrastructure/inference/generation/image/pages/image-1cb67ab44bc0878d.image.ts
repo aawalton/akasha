@@ -9,4 +9,5 @@ export const image1cb67ab44bc0878d = {
   settingTags: ["setting-tag/snow", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/antlers"],
 } as const satisfies Image

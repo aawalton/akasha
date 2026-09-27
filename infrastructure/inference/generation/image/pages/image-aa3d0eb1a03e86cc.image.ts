@@ -20,4 +20,5 @@ export const imageAa3d0eb1a03e86cc = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

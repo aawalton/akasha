@@ -20,4 +20,5 @@ export const image487c62b5d1e3485f = {
   settingTags: ["setting-tag/indoor", "setting-tag/church"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/strapless"],
+  fantasyTags: ["fantasy-tag/fairy"],
 } as const satisfies Image

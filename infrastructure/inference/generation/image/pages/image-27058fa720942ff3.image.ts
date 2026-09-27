@@ -10,4 +10,5 @@ export const image27058fa720942ff3 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/arcade"],
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

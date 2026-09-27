@@ -19,4 +19,5 @@ export const image343bce1bd5fe22d2 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
+  fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/medieval"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageB525cf315b42ead8 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

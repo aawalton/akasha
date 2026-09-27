@@ -20,4 +20,5 @@ export const image6d4c9205deb9e7e9 = {
   settingTags: ["setting-tag/arcade", "setting-tag/indoor", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/hoodie"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image9e3ebbb324174103 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/pink-hair"],
 } as const satisfies Image

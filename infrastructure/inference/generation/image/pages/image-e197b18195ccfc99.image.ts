@@ -9,4 +9,5 @@ export const imageE197b18195ccfc99 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

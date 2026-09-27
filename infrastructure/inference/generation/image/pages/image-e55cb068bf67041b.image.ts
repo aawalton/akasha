@@ -10,4 +10,5 @@ export const imageE55cb068bf67041b = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/flower-crown", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair"],
 } as const satisfies Image

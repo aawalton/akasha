@@ -16,4 +16,5 @@ export const imageE4070366405fde60 = {
   settingTags: ["setting-tag/city-street", "setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/casual-wear"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

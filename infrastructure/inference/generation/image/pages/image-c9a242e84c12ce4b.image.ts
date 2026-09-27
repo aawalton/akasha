@@ -9,4 +9,5 @@ export const imageC9a242e84c12ce4b = {
   settingTags: ["setting-tag/boat", "setting-tag/night", "setting-tag/water"],
   poseTags: ["pose-tag/kneeling", "pose-tag/holding-lantern", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
 } as const satisfies Image

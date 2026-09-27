@@ -9,4 +9,5 @@ export const image1c22be489de7c91e = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
   poseTags: ["pose-tag/winking", "pose-tag/reaching", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/sleepwear"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes"],
 } as const satisfies Image

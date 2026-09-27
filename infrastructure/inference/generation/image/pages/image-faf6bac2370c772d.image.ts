@@ -15,4 +15,5 @@ export const imageFaf6bac2370c772d = {
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/kimono", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/cosplay"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image26d2478d0be42b2e = {
   settingTags: ["setting-tag/car", "setting-tag/indoor"],
   poseTags: ["pose-tag/winking", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/witch-hat", "wardrobe-tag/cloak", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/witch"],
 } as const satisfies Image

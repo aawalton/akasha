@@ -14,4 +14,5 @@ export const imageFeebac61052e3820 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt", "wardrobe-tag/stockings"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

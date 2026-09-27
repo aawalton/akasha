@@ -19,4 +19,5 @@ export const imageAc9bee8160c1843d = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

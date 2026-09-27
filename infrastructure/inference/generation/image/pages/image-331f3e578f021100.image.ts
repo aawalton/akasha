@@ -20,4 +20,5 @@ export const image331f3e578f021100 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless", "wardrobe-tag/corset"],
+  fantasyTags: ["fantasy-tag/fairy"],
 } as const satisfies Image

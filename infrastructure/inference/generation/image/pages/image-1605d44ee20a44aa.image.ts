@@ -25,4 +25,5 @@ export const image1605d44ee20a44aa = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image5398fd1b08d0f94c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
 } as const satisfies Image

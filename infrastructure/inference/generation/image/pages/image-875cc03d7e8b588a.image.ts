@@ -19,4 +19,5 @@ export const image875cc03d7e8b588a = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image
