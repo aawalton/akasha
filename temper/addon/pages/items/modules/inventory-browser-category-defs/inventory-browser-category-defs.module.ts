@@ -6,4 +6,19 @@ export const inventoryBrowserCategoryDefs = {
   slug: "inventory-browser-category-defs",
   definition: "the categories and subfilters the cross-character browser offers",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each category and subfilter is labelled and ordered by its page as the add-on compiles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Which items a category or subfilter takes in is held here under its page's slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page whose slug nothing here holds is offered by no category.",
+    },
+  ],
 } as const satisfies Module

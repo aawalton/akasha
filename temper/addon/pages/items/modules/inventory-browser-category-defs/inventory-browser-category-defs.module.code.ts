@@ -1,7 +1,13 @@
+import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
+import {
+  type CategoryPageRow,
+  placedCategories,
+} from "akasha/temper/addon/pages/items/modules/inventory-browser-category-placing/inventory-browser-category-placing.module.code.ts"
 import type {
   CategoryDef,
   SubfilterDef,
 } from "akasha/temper/addon/pages/items/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
+import { temperBrowserCategory } from "akasha/temper/items/core/temper-browser-category/temper-browser-category.page-type.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-10/eso-enums-10.type-declaration.d.ts"
@@ -111,15 +117,27 @@ function armorWeight(armorType: number): number[] {
   return out
 }
 
-const WEAPON_SUBFILTERS: readonly SubfilterDef[] = [
-  { label: "All", category: "Weapons", buildTypes: () => NO_TYPES },
-  {
-    label: "One-Handed",
+interface Matching {
+  readonly category: string
+  readonly buildTypes: (this: void) => number[]
+}
+
+const MATCHING_BY_SLUG: Record<string, Matching> = {
+  all: { category: "All", buildTypes: () => NO_TYPES },
+  weapons: { category: "Weapons", buildTypes: () => NO_TYPES },
+  armor: { category: "Armor", buildTypes: () => NO_TYPES },
+  jewelry: { category: "Jewelry", buildTypes: () => NO_TYPES },
+  consumables: { category: "Consumable", buildTypes: consumableAll },
+  materials: { category: "Materials", buildTypes: materialsAll },
+  furnishings: { category: "Furnishing", buildTypes: () => NO_TYPES },
+  companion: { category: "Companion", buildTypes: () => NO_TYPES },
+  miscellaneous: { category: "Misc", buildTypes: miscAll },
+  "weapons-all": { category: "Weapons", buildTypes: () => NO_TYPES },
+  "weapons-one-handed": {
     category: "Weapons",
     buildTypes: () => [WEAPONTYPE_AXE, WEAPONTYPE_HAMMER, WEAPONTYPE_SWORD, WEAPONTYPE_DAGGER],
   },
-  {
-    label: "Two-Handed",
+  "weapons-two-handed": {
     category: "Weapons",
     buildTypes: () => [
       WEAPONTYPE_TWO_HANDED_AXE,
@@ -127,34 +145,23 @@ const WEAPON_SUBFILTERS: readonly SubfilterDef[] = [
       WEAPONTYPE_TWO_HANDED_SWORD,
     ],
   },
-  { label: "Bow", category: "Weapons", buildTypes: () => [WEAPONTYPE_BOW] },
-  {
-    label: "Destruction Staff",
+  "weapons-bow": { category: "Weapons", buildTypes: () => [WEAPONTYPE_BOW] },
+  "weapons-destruction-staff": {
     category: "Weapons",
     buildTypes: () => [WEAPONTYPE_FIRE_STAFF, WEAPONTYPE_FROST_STAFF, WEAPONTYPE_LIGHTNING_STAFF],
   },
-  { label: "Healing Staff", category: "Weapons", buildTypes: () => [WEAPONTYPE_HEALING_STAFF] },
-]
-
-const ARMOR_SUBFILTERS: readonly SubfilterDef[] = [
-  { label: "All", category: "Armor", buildTypes: () => NO_TYPES },
-  { label: "Heavy", category: "Armor", buildTypes: () => armorWeight(ARMORTYPE_HEAVY) },
-  { label: "Medium", category: "Armor", buildTypes: () => armorWeight(ARMORTYPE_MEDIUM) },
-  { label: "Light", category: "Armor", buildTypes: () => armorWeight(ARMORTYPE_LIGHT) },
-  { label: "Clothing", category: "Armor", buildTypes: () => armorWeight(ARMORTYPE_NONE) },
-  { label: "Shield", category: "Weapons", buildTypes: () => [WEAPONTYPE_SHIELD] },
-]
-
-const JEWELRY_SUBFILTERS: readonly SubfilterDef[] = [
-  { label: "All", category: "Jewelry", buildTypes: () => [EQUIP_TYPE_RING, EQUIP_TYPE_NECK] },
-  { label: "Necklace", category: "Jewelry", buildTypes: () => [EQUIP_TYPE_NECK] },
-  { label: "Ring", category: "Jewelry", buildTypes: () => [EQUIP_TYPE_RING] },
-]
-
-const CONSUMABLE_SUBFILTERS: readonly SubfilterDef[] = [
-  { label: "All", category: "Consumable", buildTypes: consumableAll },
-  {
-    label: "Food",
+  "weapons-healing-staff": { category: "Weapons", buildTypes: () => [WEAPONTYPE_HEALING_STAFF] },
+  "armor-all": { category: "Armor", buildTypes: () => NO_TYPES },
+  "armor-heavy": { category: "Armor", buildTypes: () => armorWeight(ARMORTYPE_HEAVY) },
+  "armor-medium": { category: "Armor", buildTypes: () => armorWeight(ARMORTYPE_MEDIUM) },
+  "armor-light": { category: "Armor", buildTypes: () => armorWeight(ARMORTYPE_LIGHT) },
+  "armor-clothing": { category: "Armor", buildTypes: () => armorWeight(ARMORTYPE_NONE) },
+  "armor-shield": { category: "Weapons", buildTypes: () => [WEAPONTYPE_SHIELD] },
+  "jewelry-all": { category: "Jewelry", buildTypes: () => [EQUIP_TYPE_RING, EQUIP_TYPE_NECK] },
+  "jewelry-necklace": { category: "Jewelry", buildTypes: () => [EQUIP_TYPE_NECK] },
+  "jewelry-ring": { category: "Jewelry", buildTypes: () => [EQUIP_TYPE_RING] },
+  "consumables-all": { category: "Consumable", buildTypes: consumableAll },
+  "consumables-food": {
     category: "Specialized",
     buildTypes: () => [
       ITEMTYPE_FOOD,
@@ -168,8 +175,7 @@ const CONSUMABLE_SUBFILTERS: readonly SubfilterDef[] = [
       SPECIALIZED_ITEMTYPE_FOOD_VEGETABLE,
     ],
   },
-  {
-    label: "Drink",
+  "consumables-drink": {
     category: "Specialized",
     buildTypes: () => [
       ITEMTYPE_DRINK,
@@ -183,8 +189,7 @@ const CONSUMABLE_SUBFILTERS: readonly SubfilterDef[] = [
       SPECIALIZED_ITEMTYPE_DRINK_UNIQUE,
     ],
   },
-  {
-    label: "Recipe",
+  "consumables-recipe": {
     category: "Specialized",
     buildTypes: () => [
       ITEMTYPE_RECIPE,
@@ -199,12 +204,11 @@ const CONSUMABLE_SUBFILTERS: readonly SubfilterDef[] = [
       SPECIALIZED_ITEMTYPE_RECIPE_PROVISIONING_STANDARD_FOOD,
     ],
   },
-  { label: "Potion", category: "Consumable", buildTypes: () => [ITEMTYPE_POTION] },
-  { label: "Poison", category: "Consumable", buildTypes: () => [ITEMTYPE_POISON] },
-  { label: "Motif", category: "Consumable", buildTypes: () => [ITEMTYPE_RACIAL_STYLE_MOTIF] },
-  { label: "Master Writ", category: "Consumable", buildTypes: () => [ITEMTYPE_MASTER_WRIT] },
-  {
-    label: "Container",
+  "consumables-potion": { category: "Consumable", buildTypes: () => [ITEMTYPE_POTION] },
+  "consumables-poison": { category: "Consumable", buildTypes: () => [ITEMTYPE_POISON] },
+  "consumables-motif": { category: "Consumable", buildTypes: () => [ITEMTYPE_RACIAL_STYLE_MOTIF] },
+  "consumables-master-writ": { category: "Consumable", buildTypes: () => [ITEMTYPE_MASTER_WRIT] },
+  "consumables-container": {
     category: "Consumable",
     buildTypes: () => [
       ITEMTYPE_CONTAINER,
@@ -212,8 +216,7 @@ const CONSUMABLE_SUBFILTERS: readonly SubfilterDef[] = [
       ITEMTYPE_CONTAINER_STACKABLE,
     ],
   },
-  {
-    label: "Repair",
+  "consumables-repair": {
     category: "Consumable",
     buildTypes: () => [
       ITEMTYPE_TOOL,
@@ -222,18 +225,13 @@ const CONSUMABLE_SUBFILTERS: readonly SubfilterDef[] = [
       ITEMTYPE_GROUP_REPAIR,
     ],
   },
-  { label: "Crown Item", category: "Consumable", buildTypes: () => [ITEMTYPE_CROWN_ITEM] },
-  {
-    label: "Misc",
+  "consumables-crown-item": { category: "Consumable", buildTypes: () => [ITEMTYPE_CROWN_ITEM] },
+  "consumables-misc": {
     category: "Consumable",
     buildTypes: () => [ITEMTYPE_DYE_STAMP, ITEMTYPE_RECALL_STONE],
   },
-]
-
-const MATERIALS_SUBFILTERS: readonly SubfilterDef[] = [
-  { label: "All", category: "Materials", buildTypes: materialsAll },
-  {
-    label: "Blacksmithing",
+  "materials-all": { category: "Materials", buildTypes: materialsAll },
+  "materials-blacksmithing": {
     category: "Materials",
     buildTypes: () => [
       ITEMTYPE_BLACKSMITHING_RAW_MATERIAL,
@@ -241,8 +239,7 @@ const MATERIALS_SUBFILTERS: readonly SubfilterDef[] = [
       ITEMTYPE_BLACKSMITHING_BOOSTER,
     ],
   },
-  {
-    label: "Clothing",
+  "materials-clothing": {
     category: "Materials",
     buildTypes: () => [
       ITEMTYPE_CLOTHIER_RAW_MATERIAL,
@@ -250,8 +247,7 @@ const MATERIALS_SUBFILTERS: readonly SubfilterDef[] = [
       ITEMTYPE_CLOTHIER_BOOSTER,
     ],
   },
-  {
-    label: "Woodworking",
+  "materials-woodworking": {
     category: "Materials",
     buildTypes: () => [
       ITEMTYPE_WOODWORKING_RAW_MATERIAL,
@@ -259,8 +255,7 @@ const MATERIALS_SUBFILTERS: readonly SubfilterDef[] = [
       ITEMTYPE_WOODWORKING_BOOSTER,
     ],
   },
-  {
-    label: "Jewelry",
+  "materials-jewelry": {
     category: "Materials",
     buildTypes: () => [
       ITEMTYPE_JEWELRYCRAFTING_RAW_MATERIAL,
@@ -268,13 +263,11 @@ const MATERIALS_SUBFILTERS: readonly SubfilterDef[] = [
       ITEMTYPE_JEWELRYCRAFTING_BOOSTER,
     ],
   },
-  {
-    label: "Alchemy",
+  "materials-alchemy": {
     category: "Materials",
     buildTypes: () => [ITEMTYPE_REAGENT, ITEMTYPE_POTION_BASE, ITEMTYPE_POISON_BASE],
   },
-  {
-    label: "Enchanting",
+  "materials-enchanting": {
     category: "Materials",
     buildTypes: () => [
       ITEMTYPE_ENCHANTING_RUNE_ASPECT,
@@ -282,8 +275,7 @@ const MATERIALS_SUBFILTERS: readonly SubfilterDef[] = [
       ITEMTYPE_ENCHANTING_RUNE_POTENCY,
     ],
   },
-  {
-    label: "Provisioning",
+  "materials-provisioning": {
     category: "Specialized",
     buildTypes: () => [
       ITEMTYPE_INGREDIENT,
@@ -298,9 +290,8 @@ const MATERIALS_SUBFILTERS: readonly SubfilterDef[] = [
       SPECIALIZED_ITEMTYPE_INGREDIENT_VEGETABLE,
     ],
   },
-  { label: "Style", category: "Materials", buildTypes: () => [ITEMTYPE_STYLE_MATERIAL] },
-  {
-    label: "Traits",
+  "materials-style": { category: "Materials", buildTypes: () => [ITEMTYPE_STYLE_MATERIAL] },
+  "materials-traits": {
     category: "Materials",
     buildTypes: () => [
       ITEMTYPE_WEAPON_TRAIT,
@@ -309,13 +300,12 @@ const MATERIALS_SUBFILTERS: readonly SubfilterDef[] = [
       ITEMTYPE_JEWELRY_RAW_TRAIT,
     ],
   },
-  { label: "Furnishing", category: "Materials", buildTypes: () => [ITEMTYPE_FURNISHING_MATERIAL] },
-]
-
-const COMPANION_SUBFILTERS: readonly SubfilterDef[] = [
-  { label: "All", category: "Companion", buildTypes: () => NO_TYPES },
-  {
-    label: "Weapons",
+  "materials-furnishing": {
+    category: "Materials",
+    buildTypes: () => [ITEMTYPE_FURNISHING_MATERIAL],
+  },
+  "companion-all": { category: "Companion", buildTypes: () => NO_TYPES },
+  "companion-weapons": {
     category: "Companion",
     buildTypes: () => [
       ITEMTYPE_WEAPON,
@@ -333,27 +323,20 @@ const COMPANION_SUBFILTERS: readonly SubfilterDef[] = [
       WEAPONTYPE_HEALING_STAFF,
     ],
   },
-  {
-    label: "Armor",
+  "companion-armor": {
     category: "Companion",
     buildTypes: () => armorWeight(ITEMTYPE_ARMOR),
   },
-  {
-    label: "Jewelry",
+  "companion-jewelry": {
     category: "Companion",
     buildTypes: () => [ITEMTYPE_ARMOR, EQUIP_TYPE_RING, EQUIP_TYPE_NECK],
   },
-  {
-    label: "Shield",
+  "companion-shield": {
     category: "Companion",
     buildTypes: () => [ITEMTYPE_WEAPON, WEAPONTYPE_SHIELD],
   },
-]
-
-const MISC_SUBFILTERS: readonly SubfilterDef[] = [
-  { label: "All", category: "Misc", buildTypes: miscAll },
-  {
-    label: "Appearance",
+  "miscellaneous-all": { category: "Misc", buildTypes: miscAll },
+  "miscellaneous-appearance": {
     category: "Appearance",
     buildTypes: () => [
       SPECIALIZED_ITEMTYPE_DISGUISE,
@@ -361,16 +344,17 @@ const MISC_SUBFILTERS: readonly SubfilterDef[] = [
       SPECIALIZED_ITEMTYPE_TABARD,
     ],
   },
-  {
-    label: "Glyphs",
+  "miscellaneous-glyphs": {
     category: "Misc",
     buildTypes: () => [ITEMTYPE_GLYPH_ARMOR, ITEMTYPE_GLYPH_JEWELRY, ITEMTYPE_GLYPH_WEAPON],
   },
-  { label: "Soul Gem", category: "Misc", buildTypes: () => [ITEMTYPE_SOUL_GEM] },
-  { label: "Siege", category: "Misc", buildTypes: () => [ITEMTYPE_SIEGE] },
-  { label: "Tools", category: "Misc", buildTypes: () => [ITEMTYPE_TOOL, ITEMTYPE_LOCKPICK] },
-  {
-    label: "Trophy",
+  "miscellaneous-soul-gem": { category: "Misc", buildTypes: () => [ITEMTYPE_SOUL_GEM] },
+  "miscellaneous-siege": { category: "Misc", buildTypes: () => [ITEMTYPE_SIEGE] },
+  "miscellaneous-tools": {
+    category: "Misc",
+    buildTypes: () => [ITEMTYPE_TOOL, ITEMTYPE_LOCKPICK],
+  },
+  "miscellaneous-trophy": {
     category: "Specialized",
     buildTypes: () => [
       ITEMTYPE_TROPHY,
@@ -387,11 +371,10 @@ const MISC_SUBFILTERS: readonly SubfilterDef[] = [
       SPECIALIZED_ITEMTYPE_TROPHY_TREASURE_MAP,
     ],
   },
-  { label: "Bait", category: "Misc", buildTypes: () => [ITEMTYPE_LURE] },
-  { label: "Stolen", category: "Stolen", buildTypes: () => NO_TYPES },
-  { label: "Junk", category: "Junk", buildTypes: () => [ITEMTYPE_TRASH] },
-  {
-    label: "Scribing",
+  "miscellaneous-bait": { category: "Misc", buildTypes: () => [ITEMTYPE_LURE] },
+  "miscellaneous-stolen": { category: "Stolen", buildTypes: () => NO_TYPES },
+  "miscellaneous-junk": { category: "Junk", buildTypes: () => [ITEMTYPE_TRASH] },
+  "miscellaneous-scribing": {
     category: "Misc",
     buildTypes: () => [
       ITEMTYPE_SCRIBING_INK,
@@ -399,8 +382,7 @@ const MISC_SUBFILTERS: readonly SubfilterDef[] = [
       ITEMTYPE_CRAFTED_ABILITY_SCRIPT,
     ],
   },
-  {
-    label: "Collectibles",
+  "miscellaneous-collectibles": {
     category: "MiscSubfilter",
     buildTypes: () => [
       SPECIALIZED_ITEMTYPE_COLLECTIBLE_MONSTER_TROPHY,
@@ -410,41 +392,32 @@ const MISC_SUBFILTERS: readonly SubfilterDef[] = [
       SPECIALIZED_ITEMTYPE_TREASURE,
     ],
   },
-]
+}
 
-export const BROWSER_CATEGORIES: readonly CategoryDef[] = [
-  { label: "All", category: "All", buildTypes: () => NO_TYPES, subfilters: [] },
-  {
-    label: "Weapons",
-    category: "Weapons",
-    buildTypes: () => NO_TYPES,
-    subfilters: WEAPON_SUBFILTERS,
-  },
-  { label: "Armor", category: "Armor", buildTypes: () => NO_TYPES, subfilters: ARMOR_SUBFILTERS },
-  {
-    label: "Jewelry",
-    category: "Jewelry",
-    buildTypes: () => NO_TYPES,
-    subfilters: JEWELRY_SUBFILTERS,
-  },
-  {
-    label: "Consumables",
-    category: "Consumable",
-    buildTypes: consumableAll,
-    subfilters: CONSUMABLE_SUBFILTERS,
-  },
-  {
-    label: "Materials",
-    category: "Materials",
-    buildTypes: materialsAll,
-    subfilters: MATERIALS_SUBFILTERS,
-  },
-  { label: "Furnishings", category: "Furnishing", buildTypes: () => NO_TYPES, subfilters: [] },
-  {
-    label: "Companion",
-    category: "Companion",
-    buildTypes: () => NO_TYPES,
-    subfilters: COMPANION_SUBFILTERS,
-  },
-  { label: "Miscellaneous", category: "Misc", buildTypes: miscAll, subfilters: MISC_SUBFILTERS },
-]
+function browserCategories(this: void): readonly CategoryDef[] {
+  const pages = $pagesOfType<CategoryPageRow>(temperBrowserCategory)
+  const defs: CategoryDef[] = []
+  for (const placed of placedCategories(pages)) {
+    const own = MATCHING_BY_SLUG[placed.slug]
+    if (own === undefined) continue
+    const subfilters: SubfilterDef[] = []
+    for (const sub of placed.subfilters) {
+      const matching = MATCHING_BY_SLUG[sub.slug]
+      if (matching === undefined) continue
+      subfilters.push({
+        label: sub.label,
+        category: matching.category,
+        buildTypes: matching.buildTypes,
+      })
+    }
+    defs.push({
+      label: placed.label,
+      category: own.category,
+      buildTypes: own.buildTypes,
+      subfilters,
+    })
+  }
+  return defs
+}
+
+export const BROWSER_CATEGORIES: readonly CategoryDef[] = browserCategories()

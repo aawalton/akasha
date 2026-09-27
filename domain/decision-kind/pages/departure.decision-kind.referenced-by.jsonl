@@ -4144,6 +4144,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-action-panel/inventory-bank-action-panel.module.ts","id":"01a06258-b527-758b-b9d3-f61c61aec470"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-trace-fold/inventory-bank-trace-fold.module.ts","id":"01a06258-b528-7c01-a1ff-06f7e3a14a57"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-bank-trace/inventory-bank-trace.module.ts","id":"01a06258-b528-744f-9bd2-f905f500edb0"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-browser-category-defs/inventory-browser-category-defs.module.ts","id":"01a06258-b528-7c65-b79d-9e36f50d9a1d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-browser-category-placing/inventory-browser-category-placing.module.ts","id":"01a0e10e-0fe6-7965-9b2f-d1fae82ea3a6"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-browser-data/inventory-browser-data.module.ts","id":"01a06258-b528-7be0-a890-a01ea7fe2fd5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.ts","id":"01a06258-b529-71ba-8496-6c343352f8de"}
