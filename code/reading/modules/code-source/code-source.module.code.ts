@@ -20,6 +20,14 @@ export function faultSaid(source: ts.SourceFile): string | null {
   return ts.flattenDiagnosticMessageText(one.messageText, " ")
 }
 
+export function faultPlaced(source: ts.SourceFile): string | null {
+  const one = (source as ts.SourceFile & Recovered).parseDiagnostics?.[0]
+  if (one === undefined) return null
+  const at = source.getLineAndCharacterOfPosition(one.start ?? 0)
+  const said = ts.flattenDiagnosticMessageText(one.messageText, " ")
+  return `line ${at.line + 1}, column ${at.character + 1} — ${said}`
+}
+
 export function lineAt(source: ts.SourceFile, at: number): number {
   return source.getLineAndCharacterOfPosition(at).line + 1
 }

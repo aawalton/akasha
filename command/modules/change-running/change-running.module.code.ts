@@ -49,6 +49,7 @@ import {
 } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
 import { underIts } from "akasha/command/modules/change-ceiling/change-ceiling.module.code.ts"
 import { commandPageAt } from "akasha/command/modules/change-costing/change-costing.module.code.ts"
+import { unparsedAfter } from "akasha/command/modules/draft-parsing/draft-parsing.module.code.ts"
 import type { Piping } from "akasha/command/modules/piping/piping.module.code.ts"
 import { readStamped } from "akasha/command/modules/read-stamping/read-stamping.module.code.ts"
 import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
@@ -309,7 +310,11 @@ export async function appending(
       answer = mistaking([said.refused])
       return had
     }
-    const unread = owing ? unwarrantedFor(root, agentId, [...had, ...said.edits], said.edits) : []
+    const rows = [...had, ...said.edits]
+    const unread = [
+      ...unparsedAfter(bodyIn(root), rows, said.edits),
+      ...(owing ? unwarrantedFor(root, agentId, rows, said.edits) : []),
+    ]
     if (unread.length > 0) {
       answer = mistaking(unread)
       return had

@@ -298,6 +298,10 @@ export const changeRunning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A change leaving a TypeScript body that will not parse appends nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The reading a change owes is the reading that change's own edits owe.",
     },
     {

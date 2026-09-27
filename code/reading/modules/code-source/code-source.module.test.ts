@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  faultPlaced,
   lineAt,
   lineOf,
   parsedAs,
@@ -76,4 +77,10 @@ test("a module declaration scopes what is declared inside it", () => {
 
 test("a declare global block scopes nothing, because its names are the global scope's", () => {
   expect(scoping(firstOf(parsedAs(AT, GLOBALS)))).toBe(false)
+})
+
+test("a fault is placed at its line and column, both counted from one", () => {
+  const said = faultPlaced(parsedAs(AT, "const one = [{ a: 1 }{ b: 2 }]\n"))
+  expect(said).toStartWith("line 1, column 22 — ")
+  expect(faultPlaced(parsedAs(AT, BODY))).toBeNull()
 })
