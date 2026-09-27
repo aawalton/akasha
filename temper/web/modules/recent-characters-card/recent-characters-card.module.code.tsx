@@ -26,6 +26,7 @@ import type { ClassId } from "akasha/temper/player/character/formula-framework/m
 import { getRoleName } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
 import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { FolderOpen } from "lucide-react"
 
 interface Build {
@@ -45,12 +46,13 @@ const getRaceName = (raceId: RaceId) => races.data[raceId].name
 
 export function RecentCharactersCard({ builds }: RecentCharactersCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   return (
     <PanelCard
       id="recent-characters"
       title={
         <Link href="/character-build" className="hover:text-accent">
-          Character Builds
+          {phrase("recent-characters-card--heading")}
         </Link>
       }
       collapsible
@@ -61,8 +63,8 @@ export function RecentCharactersCard({ builds }: RecentCharactersCardProps) {
             <EmptyMedia variant="icon">
               <FolderOpen />
             </EmptyMedia>
-            <EmptyTitle>No builds yet</EmptyTitle>
-            <EmptyDescription>Create your first build to get started.</EmptyDescription>
+            <EmptyTitle>{phrase("recent-characters-card--no-builds")}</EmptyTitle>
+            <EmptyDescription>{phrase("recent-characters-card--get-started")}</EmptyDescription>
           </EmptyHeader>
           <EmptyContent>
             <NewCharacterButton />
@@ -91,7 +93,7 @@ export function RecentCharactersCard({ builds }: RecentCharactersCardProps) {
               >
                 <div className="flex items-center justify-between gap-2">
                   <span className="truncate font-medium text-primary">
-                    {build.name !== "" ? build.name : "Untitled Build"}
+                    {build.name !== "" ? build.name : phrase("recent-characters-card--untitled")}
                   </span>
                   <Text variant="caption" className="shrink-0">
                     {buildDateLine(build)}

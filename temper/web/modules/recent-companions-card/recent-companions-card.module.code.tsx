@@ -21,6 +21,7 @@ import { companionUrl } from "akasha/temper/player/character/build/build-support
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { FolderOpen } from "lucide-react"
 
 interface Build {
@@ -37,12 +38,13 @@ interface RecentCompanionsCardProps {
 
 export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   return (
     <PanelCard
       id="recent-companions"
       title={
         <Link href="/companion-build" className="hover:text-accent">
-          Companion Builds
+          {phrase("recent-companions-card--heading")}
         </Link>
       }
       collapsible
@@ -53,8 +55,8 @@ export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
             <EmptyMedia variant="icon">
               <FolderOpen />
             </EmptyMedia>
-            <EmptyTitle>No builds yet</EmptyTitle>
-            <EmptyDescription>Create your first build to get started.</EmptyDescription>
+            <EmptyTitle>{phrase("recent-companions-card--no-builds")}</EmptyTitle>
+            <EmptyDescription>{phrase("recent-companions-card--get-started")}</EmptyDescription>
           </EmptyHeader>
           <EmptyContent>
             <NewCompanionButton />
@@ -83,7 +85,7 @@ export function RecentCompanionsCard({ builds }: RecentCompanionsCardProps) {
               >
                 <div className="flex items-center justify-between gap-2">
                   <span className="truncate font-medium text-primary">
-                    {build.name !== "" ? build.name : "Untitled Build"}
+                    {build.name !== "" ? build.name : phrase("recent-companions-card--untitled")}
                   </span>
                   <Text variant="caption" className="shrink-0">
                     {buildDateLine(build)}

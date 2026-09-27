@@ -6,4 +6,10 @@ export const recentCompanionsCard = {
   slug: "recent-companions-card",
   definition: "the card listing the companion builds touched most recently",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
