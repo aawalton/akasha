@@ -224,18 +224,7 @@ export const otherwhereHallBack = {
       fact: "A small engorged bookworm weighs twenty-odd pounds.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Two dried bookworm coils lie in the broken salt oval.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "With three small bookworms dried, two small ones and the big one are still loose.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "Salt ground into an open bite burns fiercely but does it no further harm.",
       knowers: ["lore-disclosure/game-master"],
@@ -248,18 +237,12 @@ export const otherwhereHallBack = {
       fact: "A bookworm biting salt-crusted cloth is salted and lets go, but its teeth sink in first.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Half of Nala's salt heap remains ankle-deep; the rest lies scattered thin across the floor.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "The chewed broom still sweeps, its bristles bitten ragged down one side.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The fifth small bookworm feeds about thirty feet out from the back steps, where the big one lies.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+
     {
       fact: "Once the fourth is dried, the heap holds salt enough for one more small bookworm, and barely.",
       knowers: ["lore-disclosure/game-master"],
@@ -272,7 +255,6 @@ export const otherwhereHallBack = {
       fact: "Nala soaked her blood into her shirt and tights and rolled in salt; the crust burns in her bite.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Four small bookworms are dried into hard grey coils; the last small one and the big one remain.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
