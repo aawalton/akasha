@@ -261,5 +261,21 @@ export const otherwhereHallBack = {
       fact: "Further back in the gloom beyond the columns, wet chewing still goes on.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Nala soaked her blood into her shirt and tights and rolled in salt; the crust burns in her bite.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "A small bookworm followed Nala back to her salt heap, stopped at its edge and would not come on.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala's lunge missed and she sprawled into the heap, scattering salt and flaking her crust.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The fourth small bookworm coils just past the scattered salt, between Nala and the dark.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
 } as const satisfies Place
