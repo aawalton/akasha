@@ -155,6 +155,10 @@ export const otherwhereCoreChamber = {
       fact: "Syncing floods the Librarian with visions of the universe and burns through the veins with pain.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The blue veins in the core are ley lines of magic, not electricity; the Library uses no electricity.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
