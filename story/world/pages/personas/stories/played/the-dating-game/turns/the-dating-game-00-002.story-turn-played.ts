@@ -7,7 +7,12 @@ export const theDatingGame00002 = {
   partOfCollections: ["story-played/the-dating-game"],
   position: 2,
   unit: "unit/words",
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     "I eat a quiet breakfast, looking out over the valley, then get dressed in my favorite comfortable clothing: black shorts over black compression tights, light blue dusty Ecco slip-ons, and a loose grey athletic shirt, then go out my door, and start hiking up to Rock Canyon",
+  lore: [
+    "lore/the-dating-game-alan",
+    "place/the-dating-game-rock-canyon",
+    "lore/the-dating-game-boulder-woman",
+  ],
 } as const satisfies StoryTurnPlayed
