@@ -1,6 +1,14 @@
 import { expect, test } from "bun:test"
+import { definer } from "akasha/agent/role/pages/definer.role.ts"
+import { role } from "akasha/agent/role/role.page-type.ts"
+import { interactive } from "akasha/agent/seat/mode/pages/interactive.seat-mode.ts"
+import { seatMode } from "akasha/agent/seat/mode/seat-mode.page-type.ts"
+import { module as modulePageType } from "akasha/code/module/module.page-type.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
-import { readingIn } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import {
+  readingIn,
+  valuesOfType,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   asking,
   type Query,
@@ -9,6 +17,7 @@ import {
   pickingFor,
   type Where,
 } from "akasha/page/service/modules/page-picking/page-picking.module.code.ts"
+import { pagePicking } from "akasha/page/service/modules/page-picking/page-picking.module.ts"
 
 const root = rootOf(import.meta.dir)
 
@@ -59,6 +68,51 @@ test("a row's page type names no page of any other page type", () => {
 test("a slug or an id holding a slash names no page", () => {
   expect(picked({ slug: { is: "../gap" } })).toEqual([])
   expect(picked({ id: { in: ["../gap"] } })).toEqual([])
+})
+
+function stating(kind: string, key: string, said: unknown): readonly string[] {
+  const found: string[] = []
+  for (const one of valuesOfType(readingIn(root), kind)) {
+    const held = one.value[key]
+    if (held === said || (Array.isArray(held) && held.includes(said))) found.push(one.path)
+  }
+  return found.sort()
+}
+
+function sorted(paths: readonly string[] | null): readonly string[] | null {
+  return paths === null ? null : [...new Set(paths)].sort()
+}
+
+const DEFINER = `${role.slug}/${definer.slug}`
+
+const PICKING = `${modulePageType.slug}/${pagePicking.slug}`
+
+test("a relation names every page the index files as naming its target", () => {
+  const every = stating("persona", "role", DEFINER)
+  expect(every.length).toBeGreaterThan(0)
+  expect(sorted(picked({ role: { is: DEFINER } }, "persona"))).toEqual(every)
+  expect(sorted(picked({ role: { in: [DEFINER] } }, "persona"))).toEqual(every)
+  expect(sorted(picked({ role: { is: definer.id } }, "persona"))).toEqual(every)
+})
+
+test("a relation holding many names every page naming one target among them", () => {
+  const every = stating("service-workstation", "parts", PICKING)
+  expect(every.length).toBe(1)
+  const where = { parts: { has: PICKING } }
+  expect(sorted(picked(where, "service-workstation"))).toEqual(every)
+  const among = { parts: { contains: [PICKING] } }
+  expect(sorted(picked(among, "service-workstation"))).toEqual(every)
+})
+
+test("a relation spelled no way the index files names no page", () => {
+  expect(picked({ role: { is: definer.slug } }, "persona")).toBeNull()
+  expect(picked({ role: { contains: definer.slug } }, "persona")).toBeNull()
+  expect(picked({ role: { "ends-with": `/${definer.slug}` } }, "persona")).toBeNull()
+})
+
+test("a relation held outside the commit names no page", () => {
+  const where = { mode: { is: `${seatMode.slug}/${interactive.slug}` } }
+  expect(picked(where, "seat")).toBeNull()
 })
 
 test("a question narrowed this way still runs every test it states", () => {

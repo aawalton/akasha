@@ -34,6 +34,10 @@ export const pageReferenceReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The pages naming a page through one property are answered by path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Each way a file is imported is answered as the line filed says, and never read again off the body.",
     },

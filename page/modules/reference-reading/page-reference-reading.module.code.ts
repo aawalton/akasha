@@ -47,6 +47,14 @@ function referencesThrough(
   return referencesEach(lines).filter((one) => one.propertySlug === propertySlug)
 }
 
+export function namersThrough(
+  given: string | Reading,
+  pagePath: string,
+  propertySlug: string
+): readonly string[] {
+  return referencesThrough(readingIn(given), pagePath, propertySlug).map((one) => one.path)
+}
+
 export function idsNaming(
   given: string | Reading,
   id: string,

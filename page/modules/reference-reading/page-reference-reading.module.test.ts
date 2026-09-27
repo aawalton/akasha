@@ -8,6 +8,7 @@ import {
   importsReaching,
   namersAt,
   namersOf,
+  namersThrough,
 } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -90,6 +91,12 @@ function worldOf(held: Record<string, string>): Reading {
 test("the pages naming a page through one property are answered by id", () => {
   expect(idsNaming(worldOf(HELD), NAMED_ID, "parts")).toEqual([NAMER_ID])
   expect(idsNaming(worldOf(HELD), NAMED_ID, "domain")).toEqual([])
+})
+
+test("the pages naming a page through one property are answered by path", () => {
+  expect(namersThrough(worldOf(HELD), NAMED_AT, "parts")).toEqual([NAMER_AT])
+  expect(namersThrough(worldOf(HELD), NAMED_AT, "part")).toEqual([])
+  expect(namersThrough(worldOf(HELD), NAMER_AT, "parts")).toEqual([])
 })
 
 test("who names a page is answered with the property each name comes through, imports left out", () => {

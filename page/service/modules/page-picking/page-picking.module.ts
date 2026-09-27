@@ -31,6 +31,27 @@ export const pagePicking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A `where` testing a relation with `is` or `in` names the pages the index files as naming its target.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation holding many is named the same way by `has` and by `contains`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A target is spelled as a page type and a slug, or as an id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A target spelled any other way leaves that relation naming nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A relation held outside the commit names nothing, since the index files none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A `where` naming none of these names nothing, and every page is read.",
     },
     {

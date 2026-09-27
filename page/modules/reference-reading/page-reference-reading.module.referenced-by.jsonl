@@ -16,6 +16,7 @@
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/index/modules/property-declaring/property-declaring.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/modules/reference-reading/page-reference-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/service/modules/kinds-gathering/kinds-gathering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/service/modules/page-picking/page-picking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/type/modules/descent/page-type-descent.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"page/type/modules/type-turning/type-turning.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-reference-reading.module.code.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts","typed":false,"deferred":false}

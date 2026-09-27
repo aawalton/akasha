@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"page/modules/address/page-address.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"page/modules/address/page-address.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"page/name-format/pages/lower-uuid/lower-uuid.name-format.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"page/service/modules/page-picking/page-picking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"lower-uuid.name-format.code.ts","path":"page/ui-store/query/modules/sort-resolve/sort-resolve.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"name-format","path":"agent/model/account/properties/account-uuid.text-property.ts","id":"01a054d8-1d39-7b26-b3d7-5857ea15a1b4"}
 {"propertySlug":"name-format","path":"agent/seat/properties/claude-code-session-uuid.text-property.ts","id":"01a053e4-cf4a-7e0c-a936-1a0a62a7b7e5"}
