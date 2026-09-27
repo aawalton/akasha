@@ -11,6 +11,8 @@ export const sharpAsNight = {
   alliance: "temper-alliance/ebonheart-pact",
   esoCompanionId: 8,
   classPassiveId: "sharp-survivalist",
+  firstName: "Sharp-as-Night",
   passiveEffects: "jsonl",
+  companionQuests: "jsonl",
   hashPlace: 5,
 } as const satisfies TemperEsoCompanion

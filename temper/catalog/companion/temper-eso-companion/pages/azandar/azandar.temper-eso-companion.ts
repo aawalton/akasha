@@ -11,6 +11,8 @@ export const azandar = {
   alliance: "temper-alliance/daggerfall-covenant",
   esoCompanionId: 9,
   classPassiveId: "azandar-son-of-kozanset",
+  firstName: "Azandar",
   passiveEffects: "jsonl",
+  companionQuests: "jsonl",
   hashPlace: 6,
 } as const satisfies TemperEsoCompanion

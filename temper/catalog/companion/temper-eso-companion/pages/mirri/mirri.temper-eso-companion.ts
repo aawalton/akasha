@@ -11,6 +11,8 @@ export const mirri = {
   alliance: "temper-alliance/ebonheart-pact",
   esoCompanionId: 2,
   classPassiveId: "mirri-dynamic",
+  firstName: "Mirri",
   passiveEffects: "jsonl",
+  companionQuests: "jsonl",
   hashPlace: 2,
 } as const satisfies TemperEsoCompanion

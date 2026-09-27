@@ -11,6 +11,8 @@ export const tanlorin = {
   alliance: "temper-alliance/aldmeri-dominion",
   esoCompanionId: 12,
   classPassiveId: "tanlorin-spirited",
+  firstName: "Tanlorin",
   passiveEffects: "jsonl",
+  companionQuests: "jsonl",
   hashPlace: 7,
 } as const satisfies TemperEsoCompanion

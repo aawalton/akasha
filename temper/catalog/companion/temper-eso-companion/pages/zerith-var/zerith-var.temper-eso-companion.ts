@@ -11,6 +11,8 @@ export const zerithVar = {
   alliance: "temper-alliance/aldmeri-dominion",
   esoCompanionId: 13,
   classPassiveId: "zerith-var-third-moons-chosen",
+  firstName: "Zerith-var",
   passiveEffects: "jsonl",
+  companionQuests: "jsonl",
   hashPlace: 8,
 } as const satisfies TemperEsoCompanion

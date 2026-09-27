@@ -11,6 +11,8 @@ export const ember = {
   alliance: "temper-alliance/aldmeri-dominion",
   esoCompanionId: 5,
   classPassiveId: "ember-cunning",
+  firstName: "Ember",
   passiveEffects: "jsonl",
+  companionQuests: "jsonl",
   hashPlace: 3,
 } as const satisfies TemperEsoCompanion

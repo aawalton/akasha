@@ -11,6 +11,8 @@ export const isobel = {
   alliance: "temper-alliance/daggerfall-covenant",
   esoCompanionId: 6,
   classPassiveId: "isobel-enchanted",
+  firstName: "Isobel",
   passiveEffects: "jsonl",
+  companionQuests: "jsonl",
   hashPlace: 4,
 } as const satisfies TemperEsoCompanion
