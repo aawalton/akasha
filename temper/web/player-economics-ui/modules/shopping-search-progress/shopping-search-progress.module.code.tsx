@@ -21,10 +21,11 @@ export function ShoppingSearchProgress({ state }: { state: OptimizerState }) {
       </div>
     )
   }
-  if (state.status === "error") {
+  const fault = state.error
+  if (state.status === "error" && fault !== null) {
     return (
       <Text variant="caption" className="pt-2 text-orange">
-        {state.error}
+        {"told" in fault ? fault.told : phrase(fault.phrase, fault.fills)}
       </Text>
     )
   }

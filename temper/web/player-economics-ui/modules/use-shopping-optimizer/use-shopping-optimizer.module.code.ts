@@ -6,6 +6,11 @@ import type {
   ShoppingItem,
 } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
 import { useKioskNames } from "akasha/temper/web/modules/use-kiosk-names/use-kiosk-names.module.code.tsx"
+import { useShoppingOptimizerNoResult } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-no-result.temper-web-phrase.ts"
+import { useShoppingOptimizerRefused } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-refused.temper-web-phrase.ts"
+import { useShoppingOptimizerTimedOut } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-timed-out.temper-web-phrase.ts"
+import { useShoppingOptimizerUnknownError } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-unknown-error.temper-web-phrase.ts"
+import { useShoppingOptimizerUnreadable } from "akasha/temper/web/phrase/pages/use-shopping-optimizer-unreadable.temper-web-phrase.ts"
 import {
   pinLocationIndex,
   recomputeLocations,
@@ -116,7 +121,12 @@ export function useShoppingOptimizer(
         watchdog = setTimeout(() => {
           setState((prev) =>
             prev.status === "searching"
-              ? { ...prev, status: "error", progress: 0, error: "Search timed out" }
+              ? {
+                  ...prev,
+                  status: "error",
+                  progress: 0,
+                  error: { phrase: useShoppingOptimizerTimedOut.slug, fills: {} },
+                }
               : prev
           )
           controller.abort()
@@ -138,7 +148,10 @@ export function useShoppingOptimizer(
             ...prev,
             status: "error",
             progress: 0,
-            error: body?.error ?? `HTTP ${response.status}`,
+            error:
+              body?.error !== undefined
+                ? { told: body.error }
+                : { phrase: useShoppingOptimizerRefused.slug, fills: { status: response.status } },
           }))
           return
         }
@@ -169,7 +182,7 @@ export function useShoppingOptimizer(
               ...prev,
               status: "error",
               progress: 0,
-              error,
+              error: { told: error },
             }))
           }
         )
@@ -180,10 +193,13 @@ export function useShoppingOptimizer(
               dropped.map((d) => `${d.event} (${d.reason})`).join(", ")
             )
           }
-          const error =
-            dropped.length > 0
-              ? "Search finished but the result could not be read — try again"
-              : "Search ended without a result — try again"
+          const error = {
+            phrase:
+              dropped.length > 0
+                ? useShoppingOptimizerUnreadable.slug
+                : useShoppingOptimizerNoResult.slug,
+            fills: {},
+          }
           setState((prev) =>
             prev.status === "searching" ? { ...prev, status: "error", progress: 0, error } : prev
           )
@@ -194,7 +210,10 @@ export function useShoppingOptimizer(
           ...prev,
           status: "error",
           progress: 0,
-          error: err instanceof Error ? err.message : "Unknown error",
+          error:
+            err instanceof Error
+              ? { told: err.message }
+              : { phrase: useShoppingOptimizerUnknownError.slug, fills: {} },
         }))
       } finally {
         clearWatchdog()

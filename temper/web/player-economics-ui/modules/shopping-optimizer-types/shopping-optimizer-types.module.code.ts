@@ -3,8 +3,11 @@ import type {
   PurchaseRecommendation,
   ShoppingPlan,
 } from "akasha/temper/economy/shopping/modules/ttc-shopping-types/ttc-shopping-types.module.code.ts"
+import type { Fills } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 
 type OptimizerStatus = "idle" | "searching" | "complete" | "error"
+
+type OptimizerFault = { readonly phrase: string; readonly fills: Fills } | { readonly told: string }
 
 export interface OptimizerState {
   status: OptimizerStatus
@@ -13,7 +16,7 @@ export interface OptimizerState {
   searchCompleted: number
   searchTotal: number
   currentLocationIndex: number
-  error: string | null
+  error: OptimizerFault | null
   missingItems: Set<string>
   initialPurchaseCount: number
   purchasedCount: number

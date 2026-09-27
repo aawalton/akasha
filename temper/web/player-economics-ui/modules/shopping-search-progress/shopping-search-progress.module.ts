@@ -11,5 +11,9 @@ export const shoppingSearchProgress = {
       decisionKind: "decision-kind/departure",
       statement: "The progress wording is read from a phrase page rather than written in its code.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fault is shown in the words the server told, or in its phrase page's words.",
+    },
   ],
 } as const satisfies Module

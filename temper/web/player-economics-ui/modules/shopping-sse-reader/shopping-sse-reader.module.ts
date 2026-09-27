@@ -7,4 +7,10 @@ export const shoppingSseReader = {
   definition: "a server-sent event stream turned into frames",
   code: "ts",
   test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A response with no body reads as a stream that ended without a result.",
+    },
+  ],
 } as const satisfies Module

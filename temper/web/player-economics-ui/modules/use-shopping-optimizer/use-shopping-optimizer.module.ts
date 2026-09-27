@@ -6,4 +6,11 @@ export const useShoppingOptimizer = {
   slug: "use-shopping-optimizer",
   definition: "a shopping route asked for and followed as it arrives",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A fault the search meets itself is named by a phrase page rather than written here.",
+    },
+  ],
 } as const satisfies Module

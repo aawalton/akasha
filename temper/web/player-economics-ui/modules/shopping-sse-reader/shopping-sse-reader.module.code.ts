@@ -42,10 +42,7 @@ export async function readSSEStream(
   onError: (data: ErrorEvent) => void
 ): Promise<SseReadOutcome> {
   const reader = response.body?.getReader()
-  if (!reader) {
-    onError({ error: "No response body" })
-    return { terminal: "error", dropped: [] }
-  }
+  if (!reader) return { terminal: "none", dropped: [] }
 
   const decoder = new TextDecoder()
   let buffer = ""

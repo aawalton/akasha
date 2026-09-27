@@ -6,4 +6,10 @@ export const shoppingOptimizerTypes = {
   slug: "shopping-optimizer-types",
   definition: "a shopping route optimisation's shape",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A search fault names its phrase page, or carries the words the server told.",
+    },
+  ],
 } as const satisfies Module
