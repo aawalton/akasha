@@ -61,7 +61,7 @@ export const theDatingGameAlan = {
       ],
     },
     {
-      fact: "Alan is autistic, and as a child he was always much too old for his age.",
+      fact: "Alan is autistic.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
