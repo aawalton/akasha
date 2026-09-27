@@ -4,10 +4,13 @@ export const theDatingGame00024 = {
   id: "01a0e3de-dd9d-730f-86df-2d5887b069f4",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-024",
+  ownLength: 178,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 24,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "Rather than go home, I’m feeling social still, so I go for a walk around my neighborhood instead",
   beats: [
