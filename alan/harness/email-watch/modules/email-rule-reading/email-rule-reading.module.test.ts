@@ -1,6 +1,7 @@
 import { describe, expect, test } from "bun:test"
 import { rulesOf } from "akasha/alan/harness/email-watch/modules/email-rule-reading/email-rule-reading.module.code.ts"
 import { akashaRoot } from "akasha/page/modules/checkout-roots/checkout-roots.module.code.ts"
+import { Glob } from "bun"
 
 const ROOT = akashaRoot()
 
@@ -8,8 +9,15 @@ describe("rulesOf", () => {
   const rules = rulesOf("alan", ROOT)
 
   test("reads every rule of both kinds", () => {
-    expect(rules.filter((one) => one.kind === "code")).toHaveLength(55)
-    expect(rules.filter((one) => one.kind === "agent")).toHaveLength(54)
+    for (const kind of ["code", "agent"] as const) {
+      const pages = [
+        ...new Glob(`*.email-rule-${kind}.ts`).scanSync(
+          `${ROOT}/alan/harness/inbox/email-rule/${kind}/pages`
+        ),
+      ]
+      expect(pages.length).toBeGreaterThan(0)
+      expect(rules.filter((one) => one.kind === kind)).toHaveLength(pages.length)
+    }
   })
 
   test("reads agent rules before code rules, each kind by page file name", () => {
