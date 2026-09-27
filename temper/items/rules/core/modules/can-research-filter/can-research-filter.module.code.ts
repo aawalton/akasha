@@ -1,16 +1,8 @@
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type {
-  FilterOption,
-  InventoryRuleFilter,
-} from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
+import type { InventoryRuleFilter } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { checkAncestorRoots } from "akasha/temper/items/rules/core/modules/rule-filter-utils/rule-filter-utils.module.code.ts"
 
 const CAN_RESEARCH_ELIGIBLE_ROOTS = new Set(["equipment"])
-
-export const CAN_RESEARCH_OPTIONS: FilterOption[] = [
-  { value: "can-research", label: "Can Research" },
-  { value: "cannot-research", label: "Cannot Research" },
-]
 
 const read = (c: CategoryRule["conditions"]) => c?.canResearch
 

@@ -1,16 +1,8 @@
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type {
-  FilterOption,
-  InventoryRuleFilter,
-} from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
+import type { InventoryRuleFilter } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { checkAncestorRoots } from "akasha/temper/items/rules/core/modules/rule-filter-utils/rule-filter-utils.module.code.ts"
 
 const CAN_COMPANION_EQUIP_ELIGIBLE_ROOTS = new Set(["equipment"])
-
-export const CAN_COMPANION_EQUIP_OPTIONS: FilterOption[] = [
-  { value: "can-companion-equip", label: "Can Companion Equip" },
-  { value: "cannot-companion-equip", label: "Cannot Companion Equip" },
-]
 
 const read = (c: CategoryRule["conditions"]) => c?.canCompanionEquip
 

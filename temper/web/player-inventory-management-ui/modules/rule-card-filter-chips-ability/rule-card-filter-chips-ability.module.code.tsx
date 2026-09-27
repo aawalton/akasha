@@ -9,17 +9,20 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { CAN_COMPANION_EQUIP_OPTIONS } from "akasha/temper/items/rules/core/modules/can-companion-equip-filter/can-companion-equip-filter.module.code.ts"
-import { CAN_GIVE_MAX_REWARDS_OPTIONS } from "akasha/temper/items/rules/core/modules/can-give-max-rewards-filter/can-give-max-rewards-filter.module.code.ts"
-import { CAN_INSPIRE_OPTIONS } from "akasha/temper/items/rules/core/modules/can-inspire-filter/can-inspire-filter.module.code.ts"
-import { CAN_OPEN_OPTIONS } from "akasha/temper/items/rules/core/modules/can-open-filter/can-open-filter.module.code.ts"
-import { CAN_RESEARCH_OPTIONS } from "akasha/temper/items/rules/core/modules/can-research-filter/can-research-filter.module.code.ts"
-import { CAN_UNLOCK_OPTIONS } from "akasha/temper/items/rules/core/modules/can-unlock-filter/can-unlock-filter.module.code.ts"
+import { titleOf } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+import { temperDeconstructMode } from "akasha/temper/items/rules/core/temper-deconstruct-mode/temper-deconstruct-mode.page-type.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { FilterLock } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.code.tsx"
+import { useLockReason } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import {
   titleOfFilter,
   useConditionFieldTitles,
 } from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-field-titles/use-condition-field-titles.module.code.tsx"
+import {
+  optionsOf,
+  useConditionValueOptions,
+  valueLabelOf,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-value-options/use-condition-value-options.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -77,15 +80,24 @@ export function RuleCardFilterChipAbility({
     handleRemoveFilter,
   } = state
   const titles = useConditionFieldTitles()
-  if (titles === null) return null
+  const values = useConditionValueOptions()
+  const lockReason = useLockReason()
+  const modes = useKeyedTitles(temperDeconstructMode.slug)
+  if (titles === null || values === null || lockReason === null || modes === null) return null
   const title = titleOfFilter(titles, id)
+  const options = optionsOf(values, id)
+  const chosen = (value: string) => valueLabelOf(values, id, value)
 
   switch (id) {
     case "can-inspire":
       return displayAction === "deconstruct" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          {CAN_INSPIRE_OPTIONS.find((o) => o.value === canInspireValue)?.label}
-          <FilterLock reason="The Deconstruct scope controls this filter. Change the scope to 'For Materials' to remove it." />
+          {chosen(canInspireValue)}
+          <FilterLock
+            reason={lockReason("lock-deconstruct-scope", "deconstruct", id, {
+              mode: titleOf(modes, "for-materials"),
+            })}
+          />
         </Badge>
       ) : (
         <Select value={canInspireValue} onValueChange={handleCanInspireChange}>
@@ -100,7 +112,7 @@ export function RuleCardFilterChipAbility({
             </Badge>
           </SelectTrigger>
           <SelectContent>
-            {CAN_INSPIRE_OPTIONS.map((opt) => (
+            {options.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -112,8 +124,8 @@ export function RuleCardFilterChipAbility({
     case "can-research":
       return displayAction === "research" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          {CAN_RESEARCH_OPTIONS.find((o) => o.value === canResearchValue)?.label}
-          <FilterLock reason="The Research action requires the Can Research filter to ensure only researchable items are sent to crafting stations." />
+          {chosen(canResearchValue)}
+          <FilterLock reason={lockReason("lock-research", "research", id)} />
         </Badge>
       ) : (
         <Select value={canResearchValue} onValueChange={handleCanResearchChange}>
@@ -128,7 +140,7 @@ export function RuleCardFilterChipAbility({
             </Badge>
           </SelectTrigger>
           <SelectContent>
-            {CAN_RESEARCH_OPTIONS.map((opt) => (
+            {options.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -140,8 +152,8 @@ export function RuleCardFilterChipAbility({
     case "can-unlock":
       return displayAction === "use" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          {CAN_UNLOCK_OPTIONS.find((o) => o.value === canUnlockValue)?.label}
-          <FilterLock reason="The Use action requires the Can Unlock filter to ensure only items that teach something new are consumed." />
+          {chosen(canUnlockValue)}
+          <FilterLock reason={lockReason("lock-use", "use", id)} />
         </Badge>
       ) : (
         <Select value={canUnlockValue} onValueChange={handleCanUnlockChange}>
@@ -156,7 +168,7 @@ export function RuleCardFilterChipAbility({
             </Badge>
           </SelectTrigger>
           <SelectContent>
-            {CAN_UNLOCK_OPTIONS.map((opt) => (
+            {options.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -168,8 +180,8 @@ export function RuleCardFilterChipAbility({
     case "can-open":
       return displayAction === "open" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          {CAN_OPEN_OPTIONS.find((o) => o.value === canOpenValue)?.label}
-          <FilterLock reason="The Open action requires the Can Open filter to ensure only openable containers are activated." />
+          {chosen(canOpenValue)}
+          <FilterLock reason={lockReason("lock-open", "open", id)} />
         </Badge>
       ) : (
         <Badge
@@ -178,7 +190,7 @@ export function RuleCardFilterChipAbility({
           onRemove={() => handleRemoveFilter("can-open")}
           removeLabel="Remove can open filter"
         >
-          {CAN_OPEN_OPTIONS.find((o) => o.value === canOpenValue)?.label}
+          {chosen(canOpenValue)}
         </Badge>
       )
 
@@ -186,12 +198,12 @@ export function RuleCardFilterChipAbility({
       return action === "fence-sell" ? (
         <Badge variant="elevation-muted" className="shrink-0">
           {title}
-          <FilterLock reason="The Sell to Fence action requires the Can Sell filter because fences only accept items with a vendor sell price." />
+          <FilterLock reason={lockReason("lock-fence-can-sell", "fence-sell", id)} />
         </Badge>
       ) : displayAction === "sell" ? (
         <Badge variant="elevation-muted" className="shrink-0">
           {title}
-          <FilterLock reason="The Sell to Merchant action requires the Can Sell filter to ensure only items with a vendor sell price are sold." />
+          <FilterLock reason={lockReason("lock-sell-can-sell", "sell", id)} />
         </Badge>
       ) : (
         <Badge
@@ -208,7 +220,7 @@ export function RuleCardFilterChipAbility({
       return displayAction === "sell" ? (
         <Badge variant="elevation-muted" className="shrink-0">
           {title}
-          <FilterLock reason="The List at Guild Store action requires the Can List at Guild Trader filter to ensure only items that can be sold on the trading house are listed." />
+          <FilterLock reason={lockReason("lock-list", "list", id)} />
         </Badge>
       ) : (
         <Badge
@@ -229,15 +241,15 @@ export function RuleCardFilterChipAbility({
           onRemove={() => handleRemoveFilter("can-give-max-rewards")}
           removeLabel="Remove can give max rewards filter"
         >
-          {CAN_GIVE_MAX_REWARDS_OPTIONS.find((o) => o.value === canGiveMaxRewardsValue)?.label}
+          {chosen(canGiveMaxRewardsValue)}
         </Badge>
       )
 
     case "can-companion-equip":
       return displayAction === "companion-equip" ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          {CAN_COMPANION_EQUIP_OPTIONS.find((o) => o.value === canCompanionEquipValue)?.label}
-          <FilterLock reason="The Companion Equip action requires the Can Companion Equip filter to ensure only items matching a companion's target build are equipped." />
+          {chosen(canCompanionEquipValue)}
+          <FilterLock reason={lockReason("lock-companion-can-equip", "companion-equip", id)} />
         </Badge>
       ) : (
         <Select value={canCompanionEquipValue} onValueChange={handleCanCompanionEquipChange}>
@@ -252,7 +264,7 @@ export function RuleCardFilterChipAbility({
             </Badge>
           </SelectTrigger>
           <SelectContent>
-            {CAN_COMPANION_EQUIP_OPTIONS.map((opt) => (
+            {options.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -265,7 +277,7 @@ export function RuleCardFilterChipAbility({
       return displayAction === "character-equip" ? (
         <Badge variant="elevation-muted" className="shrink-0">
           {title}
-          <FilterLock reason="The Character Equip action requires the Needed for Target Character Build filter to ensure only items needed by a target build are equipped." />
+          <FilterLock reason={lockReason("lock-character-build", "character-equip", id)} />
         </Badge>
       ) : (
         <Badge
@@ -282,7 +294,7 @@ export function RuleCardFilterChipAbility({
       return displayAction === "companion-equip" ? (
         <Badge variant="elevation-muted" className="shrink-0">
           {title}
-          <FilterLock reason="The Companion Equip action requires the Needed for Target Companion Build filter to ensure only items needed by a companion's target build are equipped." />
+          <FilterLock reason={lockReason("lock-companion-build", "companion-equip", id)} />
         </Badge>
       ) : (
         <Badge

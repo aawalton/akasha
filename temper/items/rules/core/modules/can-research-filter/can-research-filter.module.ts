@@ -17,6 +17,10 @@ export const canResearchFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter's options are its condition field's value pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A category outside `equipment` is offered no Can Research condition.",
     },
   ],

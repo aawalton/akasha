@@ -12,8 +12,13 @@ export const ruleCardFilterChipsAbility = {
       statement: "A chip naming its filter shows its condition field page's title.",
     },
     {
-      decisionKind: "decision-kind/stopgap",
-      statement: "The reason a locked chip gives still names its filter in the code's own words.",
+      decisionKind: "decision-kind/departure",
+      statement: "A locked chip's reason is a rule card phrase naming its action and filter.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chip's options are its condition field's value pages, and none is drawn before.",
     },
   ],
 } as const satisfies Module
