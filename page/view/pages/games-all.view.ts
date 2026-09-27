@@ -5,7 +5,7 @@ export const gamesAll = {
   type: "page-type/view",
   slug: "games-all",
   title: "All",
-  nav: "nav/games",
+  nav: "nav/stories",
   pageType: "page-type/story-played",
   viewPlace: 0,
   layout: "cards",

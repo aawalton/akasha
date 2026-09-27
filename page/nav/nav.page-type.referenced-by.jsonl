@@ -9,7 +9,6 @@
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/books.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/content.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/design-system.nav.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/games.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/grafana.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/images.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/innworld-aspects.nav.ts","typed":true,"deferred":false}
@@ -50,6 +49,7 @@
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/seats.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/series.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/smiling-jenny.nav.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/stories.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/tasks.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/tech.nav.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"nav.page-type.types.ts","path":"page/nav/pages/temper-catalog.nav.ts","typed":true,"deferred":false}

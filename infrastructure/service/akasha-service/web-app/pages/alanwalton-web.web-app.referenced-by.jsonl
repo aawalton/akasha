@@ -15,7 +15,6 @@
 {"propertySlug":"nav-app","path":"page/nav/pages/audhd-alan.nav.ts","id":"01a0d8fd-ef83-7f8b-8ee7-e53153c8de07"}
 {"propertySlug":"nav-app","path":"page/nav/pages/content.nav.ts","id":"01a0d8fd-ef83-7987-b1b4-505755628fae"}
 {"propertySlug":"nav-app","path":"page/nav/pages/design-system.nav.ts","id":"01a0d8fd-ef83-7db9-82db-4d780c031a8f"}
-{"propertySlug":"nav-app","path":"page/nav/pages/games.nav.ts","id":"01a0d443-f38f-791a-a03f-dbcba8b25f2b"}
 {"propertySlug":"nav-app","path":"page/nav/pages/grafana.nav.ts","id":"01a0d8fd-ef83-7e46-b38e-d2a429d120de"}
 {"propertySlug":"nav-app","path":"page/nav/pages/images.nav.ts","id":"01a0e48f-7bc1-721b-9781-1978d53aaf87"}
 {"propertySlug":"nav-app","path":"page/nav/pages/innworld-wiki.nav.ts","id":"01a0d8fd-ef83-76e1-a8c8-4c801b4e2a25"}
@@ -25,6 +24,7 @@
 {"propertySlug":"nav-app","path":"page/nav/pages/reviews.nav.ts","id":"01a0ded0-0e7f-7685-b1dc-80478856ec21"}
 {"propertySlug":"nav-app","path":"page/nav/pages/seats.nav.ts","id":"01a0d41a-6c55-76c6-9bcf-87ca8e97db92"}
 {"propertySlug":"nav-app","path":"page/nav/pages/smiling-jenny.nav.ts","id":"01a0d8fd-ef83-7c9f-90bc-95082dc1a4b9"}
+{"propertySlug":"nav-app","path":"page/nav/pages/stories.nav.ts","id":"01a0d443-f38f-791a-a03f-dbcba8b25f2b"}
 {"propertySlug":"nav-app","path":"page/nav/pages/tasks.nav.ts","id":"01a06577-2613-7018-84f7-f596a7242626"}
 {"propertySlug":"nav-app","path":"page/nav/pages/tech.nav.ts","id":"01a0d8fd-ef83-7337-b0b4-eaa0b32f57db"}
 {"propertySlug":"nav-app","path":"page/nav/pages/temper-tasks.nav.ts","id":"01a06577-2613-701c-9a56-98ee3786d7a2"}
