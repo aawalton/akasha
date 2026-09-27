@@ -1,5 +1,9 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
+import { changeMechanicalFile } from "akasha/change/mechanical/file/change-mechanical-file.page-type.ts"
+import { removeFile } from "akasha/change/mechanical/file/remove/remove-file/remove-file.change-mechanical-file.ts"
+import { changeFileContent } from "akasha/change/mechanical/file-content/change/change-file-content/change-file-content.change-mechanical-file-content.ts"
+import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
 import type { Splice } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
@@ -48,10 +52,7 @@ import {
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
-import {
-  putting,
-  taking,
-} from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
+
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { place } from "akasha/story/lore/place/place.page-type.ts"
 import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
@@ -246,15 +247,25 @@ export function askedFor(held: Taken, reading: Reading): readonly Asking[] | str
   if (text === null) return `\`${at}\` holds no body to tell a fact on`
   const body = bodyTelling(at, text, now)
   if (body === null) return `\`${at}\` exports no object`
-  const asked = [taking(at), putting({ path: at, content: body })]
-  if (now.secrets.length !== was.secrets.length) {
-    asked.push(taking(secretsFile))
-    if (now.secrets.length > 0) {
-      const content = now.secrets.map((one) => `${JSON.stringify(one)}${LINE}`).join("")
-      asked.push(putting({ path: secretsFile, content }))
-    }
+  const asked: Asking[] = [replacing(at, text, body)]
+  if (now.secrets.length === was.secrets.length) return asked
+  const kept = reading.textOf(secretsFile)
+  if (kept === null) return `\`${secretsFile}\` holds no secrets to tell from`
+  if (now.secrets.length === 0) {
+    asked.push({ at: REMOVE_FILE, given: { at: secretsFile } })
+    return asked
   }
+  const content = now.secrets.map((one) => `${JSON.stringify(one)}${LINE}`).join("")
+  asked.push(replacing(secretsFile, kept, content))
   return asked
+}
+
+export const REPLACE = `${changeMechanicalFileContent.slug}/${changeFileContent.slug}` as const
+
+export const REMOVE_FILE = `${changeMechanicalFile.slug}/${removeFile.slug}` as const
+
+export function replacing(at: string, was: string, now: string): Asking {
+  return { at: REPLACE, given: { at, old: was, new: now } }
 }
 
 function toldLines(held: Taken): readonly string[] {

@@ -4,6 +4,8 @@ import {
   bodyTelling,
   GAME_MASTER,
   knowersFor,
+  REMOVE_FILE,
+  REPLACE,
   type Reading,
   type Taken,
   taken,
@@ -92,6 +94,38 @@ test("a second tell over a reading holding the first keeps both facts told", () 
   const said = JSON.stringify(asked)
   expect(said).toContain('fact: \\"one\\"')
   expect(said).toContain('fact: \\"two\\"')
+})
+
+test("a tell rewrites the page in place and never takes the page away", () => {
+  const bodies = new Map([
+    [AT, BODY],
+    [SECRETS_AT, '"one"\n"two"\n'],
+  ])
+  const asked = askedFor(tellOf("two"), readingOf(bodies, []))
+  if (typeof asked === "string") throw new Error(asked)
+  expect(asked.map((one) => one.at)).toEqual([REPLACE, REPLACE])
+  expect(asked.map((one) => Reflect.get(one.given, "at"))).toEqual([AT, SECRETS_AT])
+})
+
+test("a tell leaving the secrets as they were touches the page alone", () => {
+  const first = { fact: "one", knowers: [GAME_MASTER] }
+  const bodies = new Map([
+    [AT, BODY],
+    [SECRETS_AT, '"two"\n'],
+  ])
+  const asked = askedFor(tellOf("one"), readingOf(bodies, [first]))
+  if (typeof asked === "string") throw new Error(asked)
+  expect(asked.map((one) => Reflect.get(one.given, "at"))).toEqual([AT])
+})
+
+test("the last secret told takes the secrets file away", () => {
+  const bodies = new Map([
+    [AT, BODY],
+    [SECRETS_AT, '"one"\n'],
+  ])
+  const asked = askedFor(tellOf("one"), readingOf(bodies, []))
+  if (typeof asked === "string") throw new Error(asked)
+  expect(asked.at(-1)).toEqual({ at: REMOVE_FILE, given: { at: SECRETS_AT } })
 })
 
 test("a tell drafted over a reading refuses a fact that page does not hold", () => {

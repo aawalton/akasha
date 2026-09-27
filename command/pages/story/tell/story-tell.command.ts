@@ -31,6 +31,10 @@ export const storyTell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A telling rewrites the page's body in place, and every file beside it remains.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A fact already told gains the knowers it lacks, and loses none.",
     },
     {
