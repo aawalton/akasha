@@ -3,12 +3,20 @@ import { AppShell } from "akasha/alan/atlas-web/modules/atlas-app-shell/atlas-ap
 import { ATLAS_SITE } from "akasha/alan/atlas-web/modules/atlas-handover-site/atlas-handover-site.module.code.ts"
 import { signedInAs } from "akasha/alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts"
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
+import {
+  WEB_APP,
+  webAppTitle,
+} from "akasha/infrastructure/service/akasha-service/web-app/modules/naming/web-app-naming.module.code.ts"
+import { alanwaltonAtlasWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-atlas-web.web-app.ts"
 import { getPages } from "akasha/page/access/modules/get/get.module.code.ts"
 import { AuthProvider } from "akasha/page/ui/component/modules/auth-provider/auth-provider.module.code.tsx"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { accountOfContributor } from "akasha/person/modules/enrolment/person-enrolment.module.code.ts"
 import { useEffect } from "react"
 import { data, Outlet } from "react-router"
 import type { Route } from "./+types/_app-layout"
+
+const READ = [WEB_APP]
 
 export async function loader({ request }: Route.LoaderArgs) {
   const reader = await signedInAs(ATLAS_SITE, request)
@@ -30,10 +38,13 @@ export async function loader({ request }: Route.LoaderArgs) {
     }
   }
 
-  return data({ reader, accountId, signedIn, navItems })
+  const brand = await webAppTitle(alanwaltonAtlasWeb.slug)
+
+  return data({ reader, accountId, signedIn, navItems, brand })
 }
 
 export default function AppLayout({ loaderData }: Route.ComponentProps) {
+  useLoaderFollowing(READ)
   useEffect(() => {
     let cancelled = false
     void import(
@@ -48,7 +59,11 @@ export default function AppLayout({ loaderData }: Route.ComponentProps) {
 
   return (
     <AuthProvider reader={loaderData.reader} accountId={loaderData.accountId}>
-      <AppShell signedIn={loaderData.signedIn} ssrNavItems={loaderData.navItems}>
+      <AppShell
+        brand={loaderData.brand}
+        signedIn={loaderData.signedIn}
+        ssrNavItems={loaderData.navItems}
+      >
         <Outlet />
       </AppShell>
       <Toaster />

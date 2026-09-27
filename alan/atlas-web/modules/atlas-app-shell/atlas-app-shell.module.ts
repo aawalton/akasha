@@ -12,5 +12,9 @@ export const atlasAppShell = {
       statement:
         "Every item this shell draws in its navigation is a nav page, and none is in code.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The name over the navigation is the title of Atlas's web app page.",
+    },
   ],
 } as const satisfies Module
