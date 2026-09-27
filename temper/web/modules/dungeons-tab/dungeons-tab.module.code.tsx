@@ -12,12 +12,24 @@ import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.mo
 import type { SoloDifficulty } from "akasha/temper/catalog/world/group-dungeon/modules/solo-difficulty/solo-difficulty.module.code.ts"
 import { temperDungeon } from "akasha/temper/catalog/world/temper-dungeon/temper-dungeon.page-type.ts"
 import { temperQuestGiver } from "akasha/temper/catalog/world/temper-quest-giver/temper-quest-giver.page-type.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { dungeonsTabEasy } from "akasha/temper/web/phrase/pages/dungeons-tab-easy.temper-web-phrase.ts"
+import { dungeonsTabHard } from "akasha/temper/web/phrase/pages/dungeons-tab-hard.temper-web-phrase.ts"
+import { dungeonsTabImpossible } from "akasha/temper/web/phrase/pages/dungeons-tab-impossible.temper-web-phrase.ts"
+import { dungeonsTabMedium } from "akasha/temper/web/phrase/pages/dungeons-tab-medium.temper-web-phrase.ts"
 
 const DIFFICULTY_COLOR: Readonly<Record<SoloDifficulty, string>> = {
   easy: "text-jade",
   medium: "text-yellow",
   hard: "text-orange",
   impossible: "text-red",
+}
+
+const DIFFICULTY_PHRASE: Readonly<Record<SoloDifficulty, string>> = {
+  easy: dungeonsTabEasy.slug,
+  medium: dungeonsTabMedium.slug,
+  hard: dungeonsTabHard.slug,
+  impossible: dungeonsTabImpossible.slug,
 }
 
 const DIFFICULTIES: readonly SoloDifficulty[] = ["easy", "medium", "hard", "impossible"]
@@ -66,6 +78,7 @@ interface DungeonsTabProps {
 }
 
 export function DungeonsTab({ givers, dungeons }: DungeonsTabProps) {
+  const phrase = usePhrase()
   return (
     <TabsContent value="dungeons">
       <ResponsiveColumns>
@@ -81,7 +94,7 @@ export function DungeonsTab({ givers, dungeons }: DungeonsTabProps) {
                   >
                     <Text as="span">{dungeon.title}</Text>
                     <Badge variant="elevation" className={DIFFICULTY_COLOR[difficulty]}>
-                      {difficulty}
+                      {phrase(DIFFICULTY_PHRASE[difficulty])}
                     </Badge>
                   </div>
                 )

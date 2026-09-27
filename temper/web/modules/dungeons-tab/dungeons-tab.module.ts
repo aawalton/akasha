@@ -15,5 +15,9 @@ export const dungeonsTab = {
       decisionKind: "decision-kind/departure",
       statement: "The tab is drawn only once both the dungeon and quest giver pages are answered.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module
