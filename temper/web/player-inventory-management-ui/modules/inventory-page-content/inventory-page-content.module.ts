@@ -6,4 +6,10 @@ export const inventoryPageContent = {
   slug: "inventory-page-content",
   definition: "the whole inventory page a browser draws",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page title and tab names are web phrase pages.",
+    },
+  ],
 } as const satisfies Module

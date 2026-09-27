@@ -16,6 +16,11 @@ import {
   TabsList,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { useFilterPersistence } from "akasha/design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryPageContentByLocation } from "akasha/temper/web/phrase/pages/inventory-page-content-by-location.temper-web-phrase.ts"
+import { inventoryPageContentByType } from "akasha/temper/web/phrase/pages/inventory-page-content-by-type.temper-web-phrase.ts"
+import { inventoryPageContentRules } from "akasha/temper/web/phrase/pages/inventory-page-content-rules.temper-web-phrase.ts"
+import { inventoryPageContentTitle } from "akasha/temper/web/phrase/pages/inventory-page-content-title.temper-web-phrase.ts"
 import {
   type ActiveStatusFilter,
   type FilterValues,
@@ -103,6 +108,7 @@ export function InventoryPageContent({
   initialRuleDir,
   initialRuleLocation,
 }: InventoryPageContentProps) {
+  const phrase = usePhrase()
   const { values, deferred, update } = useFilterPersistence<InventoryFilterValues>({
     storageKey: "temper:inventory:filters",
     fields: {
@@ -258,15 +264,27 @@ export function InventoryPageContent({
       })}
     >
       <PageLayout.Header>
-        <PageTitle>Inventory</PageTitle>
+        <PageTitle>{phrase(inventoryPageContentTitle.slug)}</PageTitle>
       </PageLayout.Header>
 
       <Tabs value={values.tab} onValueChange={(v) => update({ tab: isValidTab(v) ?? "rules" })}>
         <PageLayout.Tabs>
           <TabsList className="@[1016px]:grid grid h-18 w-full @[1016px]:grid-cols-3 grid-cols-3 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
-            <PageTabsTrigger value="rules" icon={<Scale />} label="Rules" />
-            <PageTabsTrigger value="type" icon={<LayoutList />} label="By Type" />
-            <PageTabsTrigger value="location" icon={<MapPin />} label="By Location" />
+            <PageTabsTrigger
+              value="rules"
+              icon={<Scale />}
+              label={phrase(inventoryPageContentRules.slug)}
+            />
+            <PageTabsTrigger
+              value="type"
+              icon={<LayoutList />}
+              label={phrase(inventoryPageContentByType.slug)}
+            />
+            <PageTabsTrigger
+              value="location"
+              icon={<MapPin />}
+              label={phrase(inventoryPageContentByLocation.slug)}
+            />
           </TabsList>
         </PageLayout.Tabs>
         <PageLayout.Content>
