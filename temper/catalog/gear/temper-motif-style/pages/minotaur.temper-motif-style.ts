@@ -6,6 +6,7 @@ export const minotaur = {
   slug: "minotaur",
   title: "Minotaur",
   esoItemStyleId: 39,
+  styleName: "Minotaur",
   collectionIndex: 24,
   sourceDescription: '"Looming Shadows" daily (Gold Coast)',
 } as const satisfies TemperMotifStyle
