@@ -74,7 +74,7 @@ export const theDatingGameEcho = {
     },
     {
       fact: "Echo can give a character a voice from the page alone, without hearing it first.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
   secrets: "jsonl",
