@@ -5,6 +5,8 @@ export const ancestralReach = {
   type: "page-type/temper-motif-style",
   slug: "ancestral-reach",
   title: "Ancestral Reach",
+  esoItemStyleId: 110,
+  styleName: "Ancestral Reach",
   collectionIndex: 79,
   sourceDescription: "Treasure maps and antiquities (Skyrim/Reach)",
 } as const satisfies TemperMotifStyle
