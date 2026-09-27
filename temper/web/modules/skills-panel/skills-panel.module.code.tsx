@@ -2,6 +2,8 @@
 
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
 import { activeSkillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
+import { armorWeights } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
+import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { SkillLineId } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import {
   getArmorSkillLineIds,
@@ -36,17 +38,20 @@ export function SkillsPanel({
   const deferredPassiveSearch = useDeferredValue(passiveSearch)
   const deferredPassiveCategory = useDeferredValue(passiveCategory)
 
+  const typesRead = weaponTypes.data
+  const weightsRead = armorWeights.data
+
   const primaryBarWeaponSkillLineIds = useMemo(
     () => getWeaponSkillLineIdsForBar(equipment["primary-weapon-bar"]),
-    [equipment["primary-weapon-bar"]]
+    [equipment["primary-weapon-bar"], typesRead]
   )
   const backupBarWeaponSkillLineIds = useMemo(
     () => getWeaponSkillLineIdsForBar(equipment["backup-weapon-bar"]),
-    [equipment["backup-weapon-bar"]]
+    [equipment["backup-weapon-bar"], typesRead]
   )
   const availableArmorSkillLineIds = useMemo(
     () => getArmorSkillLineIds(equipment.armor),
-    [equipment.armor]
+    [equipment.armor, weightsRead]
   )
 
   const scribedSkills = useScribedSkills(scribing, onUpdateScribing)

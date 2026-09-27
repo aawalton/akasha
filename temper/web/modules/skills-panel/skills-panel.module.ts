@@ -6,4 +6,11 @@ export const skillsPanel = {
   slug: "skills-panel",
   definition: "the panel with a character's skills",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The skill lines a build's gear opens are worked out again whenever the gear tables are read again.",
+    },
+  ],
 } as const satisfies Module

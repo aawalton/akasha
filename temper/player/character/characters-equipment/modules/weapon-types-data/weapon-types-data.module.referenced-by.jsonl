@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"weapon-types-data.module.code.ts","path":"temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"weapon-types-data.module.code.ts","path":"temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"weapon-types-data.module.code.ts","path":"temper/web/modules/global-set-bulk-edit-tags/global-set-bulk-edit-tags.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-types-data.module.code.ts","path":"temper/web/modules/skills-panel/skills-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"weapon-types-data.module.code.ts","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"weapon-types-data.module.code.ts","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/characters-equipment/temper-characters-equipment.domain.ts","id":"01a0616f-8e1c-76b3-861c-26bdb8cfc586"}
