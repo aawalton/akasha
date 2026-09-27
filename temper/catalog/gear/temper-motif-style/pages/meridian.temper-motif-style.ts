@@ -5,6 +5,8 @@ export const meridian = {
   type: "page-type/temper-motif-style",
   slug: "meridian",
   title: "Meridian",
+  esoItemStyleId: 83,
+  styleName: "Meridian",
   collectionIndex: 58,
   sourceDescription: "Depths of Malatar dungeon",
 } as const satisfies TemperMotifStyle
