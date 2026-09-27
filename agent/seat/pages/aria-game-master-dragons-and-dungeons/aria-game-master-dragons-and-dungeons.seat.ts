@@ -11,4 +11,5 @@ export const ariaGameMasterDragonsAndDungeons = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "8ef46a71-d570-4614-97c3-cd2f5f1d1356",
 } as const satisfies Seat
