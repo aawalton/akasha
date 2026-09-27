@@ -102,7 +102,11 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Salt dries a bookworm out and leaves it helpless, but the biggest are too big to pick up.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Salt dries a bookworm out, leaving it helpless, curled and still, but does not kill it.",
