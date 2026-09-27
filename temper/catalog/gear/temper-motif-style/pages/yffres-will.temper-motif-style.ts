@@ -5,6 +5,8 @@ export const yffresWill = {
   type: "page-type/temper-motif-style",
   slug: "yffres-will",
   title: "Y'ffre's Will",
+  esoItemStyleId: 135,
+  styleName: "Y'ffre's Will",
   collectionIndex: 99,
   sourceDescription: "Earthen Root Enclave dungeon",
 } as const satisfies TemperMotifStyle
