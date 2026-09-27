@@ -5,6 +5,8 @@ export const refabricated = {
   type: "page-type/temper-motif-style",
   slug: "refabricated",
   title: "Refabricated",
+  esoItemStyleId: 60,
+  styleName: "Refabricated",
   collectionIndex: 39,
   sourceDescription: "Halls of Fabrication trial",
 } as const satisfies TemperMotifStyle
