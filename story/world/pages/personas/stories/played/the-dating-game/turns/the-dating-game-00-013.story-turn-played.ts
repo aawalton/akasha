@@ -29,4 +29,5 @@ export const theDatingGame00013 = {
     'Then she looks sidelong at him: "Constantly surprising," she says, and it isn\'t about the book.',
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
