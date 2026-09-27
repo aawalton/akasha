@@ -10,6 +10,12 @@ export const temperLocationType = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A location type is titled in the singular, as the game's own screens name it.",
+    },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

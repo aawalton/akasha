@@ -4,7 +4,7 @@ export const companion = {
   id: "019e3103-270d-7c8d-9a55-b9e6da68fd8e",
   type: "page-type/temper-location-type",
   slug: "companion",
-  title: "Companions",
+  title: "Companion",
   key: "companion",
   displayOrder: 5,
 } as const satisfies TemperLocationType

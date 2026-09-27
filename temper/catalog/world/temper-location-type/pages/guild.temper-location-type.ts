@@ -4,7 +4,7 @@ export const guild = {
   id: "019e3103-270e-7abc-876e-040b43c213a7",
   type: "page-type/temper-location-type",
   slug: "guild",
-  title: "Guild Banks",
+  title: "Guild Bank",
   key: "guild",
   displayOrder: 6,
 } as const satisfies TemperLocationType
