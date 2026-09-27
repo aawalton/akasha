@@ -19,5 +19,9 @@ export const jennyAppShell = {
       decisionKind: "decision-kind/departure",
       statement: "Nothing the frame draws offers a way to write a nav item.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The name over the sidebar is the title of Jenny's web app page.",
+    },
   ],
 } as const satisfies Module
