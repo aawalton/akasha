@@ -1,11 +1,14 @@
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import {
-  formatEnemyType,
-  formatStatusType,
-  formatWeaponType,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
+import { formatStatusType } from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
+import { temperDamageType } from "akasha/temper/catalog/skill/damage-type/temper-damage-type.page-type.ts"
+import { temperEnemyType } from "akasha/temper/catalog/skill/enemy-type/temper-enemy-type.page-type.ts"
 import type { EffectCondition } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import {
+  type KeyedTitles,
+  titleIn,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { BadgeVariant } from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import {
   type Phrase,
   usePhrase,
@@ -16,6 +19,7 @@ import { constraintBadgesAllyNearby } from "akasha/temper/web/phrase/pages/const
 import { constraintBadgesAnyCondition } from "akasha/temper/web/phrase/pages/constraint-badges-any-condition.temper-web-phrase.ts"
 import { constraintBadgesCondition } from "akasha/temper/web/phrase/pages/constraint-badges-condition.temper-web-phrase.ts"
 import { constraintBadgesEnemyNearby } from "akasha/temper/web/phrase/pages/constraint-badges-enemy-nearby.temper-web-phrase.ts"
+import { constraintBadgesEnemyTypes } from "akasha/temper/web/phrase/pages/constraint-badges-enemy-types.temper-web-phrase.ts"
 import { constraintBadgesHasStatus } from "akasha/temper/web/phrase/pages/constraint-badges-has-status.temper-web-phrase.ts"
 import { constraintBadgesHealth } from "akasha/temper/web/phrase/pages/constraint-badges-health.temper-web-phrase.ts"
 import { constraintBadgesHealthThreshold } from "akasha/temper/web/phrase/pages/constraint-badges-health-threshold.temper-web-phrase.ts"
@@ -53,7 +57,9 @@ interface ConstraintBadgeProps {
 }
 
 function ConstraintBadge({ condition, variant, phrase }: ConstraintBadgeProps) {
-  const { label, value } = formatCondition(condition, phrase)
+  const enemyTypes = useKeyedTitles(temperEnemyType.slug)
+  const damageTypes = useKeyedTitles(temperDamageType.slug)
+  const { label, value } = formatCondition(condition, phrase, enemyTypes, damageTypes)
 
   return (
     <Badge variant={variant}>
@@ -65,7 +71,9 @@ function ConstraintBadge({ condition, variant, phrase }: ConstraintBadgeProps) {
 
 function formatCondition(
   condition: EffectCondition,
-  phrase: Phrase
+  phrase: Phrase,
+  enemyTypes: KeyedTitles | null,
+  damageTypes: KeyedTitles | null
 ): { label: string; value: string | null } {
   const meters = (distance: number) => phrase(constraintBadgesMeters.slug, { distance })
   switch (condition.type) {
@@ -109,7 +117,9 @@ function formatCondition(
       }
 
     case "enemy-type": {
-      const types = condition.enemyTypes.map(formatEnemyType).join(", ")
+      const types = condition.enemyTypes
+        .map((type) => titleIn(enemyTypes, type))
+        .reduce((names, name) => phrase(constraintBadgesEnemyTypes.slug, { names, name }))
       return { value: null, label: types }
     }
 
@@ -145,7 +155,7 @@ function formatCondition(
     }
 
     case "weapon-type": {
-      const weapon = formatWeaponType(condition.weaponType)
+      const weapon = titleIn(damageTypes, condition.weaponType)
       return { value: null, label: phrase(constraintBadgesWeapon.slug, { weapon }) }
     }
 

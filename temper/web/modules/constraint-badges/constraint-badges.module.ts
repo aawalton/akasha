@@ -11,5 +11,13 @@ export const constraintBadges = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An enemy type is named by its temper-enemy-type page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A staff's element is named by the temper-damage-type page it shares a key with.",
+    },
   ],
 } as const satisfies Module

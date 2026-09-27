@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"temper-enemy-type.page-type.ts","path":"temper/web/modules/constraint-badges/constraint-badges.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-enemy-type.page-type.types.ts","path":"temper/catalog/skill/enemy-type/pages/daedra.temper-enemy-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-enemy-type.page-type.types.ts","path":"temper/catalog/skill/enemy-type/pages/difficult-monster.temper-enemy-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-enemy-type.page-type.types.ts","path":"temper/catalog/skill/enemy-type/pages/undead.temper-enemy-type.ts","typed":true,"deferred":false}

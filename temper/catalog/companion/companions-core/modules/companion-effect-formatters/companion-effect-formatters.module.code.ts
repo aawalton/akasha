@@ -19,25 +19,6 @@ export function targetTypeName(type: TargetType): string {
   return companionNameAt(companionCatalog().targetTypes, type, "target type")
 }
 
-export function formatEnemyType(type: string): string {
-  const labels: Record<string, string> = {
-    undead: "Undead",
-    daedra: "Daedra",
-    werewolf: "Werewolf",
-    "difficult-monster": "Elite Enemy",
-  }
-  return labels[type] ?? type
-}
-
 export function formatStatusType(status: string): string {
   return companionNameIn(companionCatalog().statusEffectTypes, status) ?? status
-}
-
-export function formatWeaponType(type: string): string {
-  const labels: Record<string, string> = {
-    flame: "Flame",
-    frost: "Frost",
-    shock: "Shock",
-  }
-  return labels[type] ?? type
 }
