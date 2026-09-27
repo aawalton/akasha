@@ -5,6 +5,8 @@ export const firesong = {
   type: "page-type/temper-motif-style",
   slug: "firesong",
   title: "Firesong",
+  esoItemStyleId: 138,
+  styleName: "Firesong",
   collectionIndex: 101,
   sourceDescription: "Volcanic Vent/dailies (Galen)",
   dropSources: [
