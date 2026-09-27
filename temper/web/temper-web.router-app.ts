@@ -374,5 +374,6 @@ export const temperWeb = {
     "module/lore-library-gate",
     "module/use-lore-library",
     "page-type/temper-web-phrase",
+    "module/use-web-phrases",
   ],
 } as const satisfies RouterApp

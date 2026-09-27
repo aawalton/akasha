@@ -12,6 +12,7 @@
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/watcher/modules/watcher-inventory-landing/watcher-inventory-landing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/notifications-tab/notifications-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/writ-craft-items/writ-craft-items.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/action-filter-cascades/action-filter-cascades.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts","typed":false,"deferred":false}
