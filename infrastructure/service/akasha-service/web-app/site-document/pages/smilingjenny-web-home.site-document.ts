@@ -12,7 +12,7 @@ export const smilingjennyWebHome = {
   sections: [
     {
       anchor: "not-found",
-      title: "Nothing here (live check)",
+      title: "Nothing here",
       text: "This address does not lead anywhere. If you followed a link from a message, try opening it again.",
     },
     {
