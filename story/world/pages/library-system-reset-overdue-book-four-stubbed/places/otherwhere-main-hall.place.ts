@@ -96,6 +96,14 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Bookworms sense a Librarian's magic rather than her noise, so going quietly does not hide her.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The scoop lies just beyond twenty feet of the next heap, where a second small bookworm listens.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
