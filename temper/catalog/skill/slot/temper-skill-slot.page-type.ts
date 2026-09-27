@@ -6,7 +6,16 @@ export const temperSkillSlot = {
   slug: "temper-skill-slot",
   definition: "a place on the bar for a skill",
   extends: ["page-type/temper-catalog-thing"],
-  properties: [{ pageProperty: "text-property/key", required: true, many: false }],
+  properties: [
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill slot's hash place is the order a build hash writes a bar's slots in.",
+    },
+  ],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

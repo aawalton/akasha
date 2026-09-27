@@ -6,4 +6,5 @@ export const active2 = {
   slug: "active-2",
   title: "Active 2",
   key: "active-2",
+  hashPlace: 1,
 } as const satisfies TemperSkillSlot

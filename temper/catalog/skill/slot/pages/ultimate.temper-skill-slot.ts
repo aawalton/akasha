@@ -6,4 +6,5 @@ export const ultimate = {
   slug: "ultimate",
   title: "Ultimate",
   key: "ultimate",
+  hashPlace: 5,
 } as const satisfies TemperSkillSlot
