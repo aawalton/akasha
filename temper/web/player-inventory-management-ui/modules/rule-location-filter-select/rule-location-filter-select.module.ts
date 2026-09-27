@@ -6,4 +6,15 @@ export const ruleLocationFilterSelect = {
   slug: "rule-location-filter-select",
   definition: "the select narrowing rules by the location they cover",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Location type names are read from the location type pages, which title them singly.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The choice of every location of a type reads Any and that type's title.",
+    },
+  ],
 } as const satisfies Module

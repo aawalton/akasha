@@ -133,7 +133,7 @@ export function RuleLocationFilterSelect({
                 </Badge>
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value={selectedType}>All {kindTitle(selectedType)}</SelectItem>
+                <SelectItem value={selectedType}>Any {kindTitle(selectedType)}</SelectItem>
                 {specificOptions.map((opt) => (
                   <SelectItem key={opt.key} value={opt.key}>
                     {opt.displayName}
