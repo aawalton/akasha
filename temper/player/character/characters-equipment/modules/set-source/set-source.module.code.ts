@@ -81,10 +81,17 @@ function calculateSetBonusMultiplier(pieceQualities: readonly EquipmentQualityId
   )
   const avgMultiplier = totalMultiplier / pieceQualities.length
 
-  if (avgMultiplier >= 1.0) return 1.0
-  if (avgMultiplier >= 0.988) return 0.988
-  if (avgMultiplier >= 0.977) return 0.977
+  for (const step of steps) if (avgMultiplier >= step) return step
   return avgMultiplier
+}
+
+let steps: readonly number[] = []
+
+export function holdSetBonusSteps(pages: Iterable<Readonly<Record<string, unknown>>>): undefined {
+  const held: number[] = []
+  for (const row of pages) if (typeof row.setBonusScale === "number") held.push(row.setBonusScale)
+  steps = held.sort((a, b) => b - a)
+  return undefined
 }
 
 function scaleSetBonusEffect(effect: Effect, multiplier: number): Effect {

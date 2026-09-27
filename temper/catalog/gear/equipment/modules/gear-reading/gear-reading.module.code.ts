@@ -32,12 +32,14 @@ import { temperJewelryTrait } from "akasha/temper/catalog/gear/temper-jewelry-tr
 import { temperJewelryType } from "akasha/temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts"
 import { temperLevelBand } from "akasha/temper/catalog/gear/temper-level-band/temper-level-band.page-type.ts"
 import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
+import { temperSetBonusStep } from "akasha/temper/catalog/gear/temper-set-bonus-step/temper-set-bonus-step.page-type.ts"
 import { temperWeaponEnchant } from "akasha/temper/catalog/gear/temper-weapon-enchant/temper-weapon-enchant.page-type.ts"
 import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
 import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
 import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
 import { holdArmorWeights } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import { holdLevelBands } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
+import { holdSetBonusSteps } from "akasha/temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts"
 import { holdWeaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 
 type Row = Readonly<Record<string, unknown>>
@@ -67,6 +69,7 @@ export const GEAR_READS: readonly Read[] = [
       "setBonusScale",
     ],
   ],
+  [temperSetBonusStep.slug, ["slug", "setBonusScale"]],
   [temperArmorSlot.slug, ["slug", "title", "icon", "hashPlace", "slotEquipType"]],
   [temperArmorType.slug, ["slug", "title", "armorMultiplier", "enchantmentMultiplier"]],
   [temperJewelrySlot.slug, ["slug", "title", "icon", "jewelryType", "hashPlace"]],
@@ -128,6 +131,7 @@ export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undef
   holdJewelrySlots(rowsOf(temperJewelrySlot.slug))
   holdWeaponSlots(rowsOf(temperWeaponSlot.slug))
   holdLevelBands(rowsOf(temperLevelBand.slug))
+  holdSetBonusSteps(rowsOf(temperSetBonusStep.slug))
   holdArmorWeights(rowsOf(temperArmorWeight.slug), rowsOf(temperGearGrade.slug))
   holdWeaponTypes(rowsOf(temperWeaponType.slug), rowsOf(temperGearGrade.slug))
   holdTraits(rowsOf)
