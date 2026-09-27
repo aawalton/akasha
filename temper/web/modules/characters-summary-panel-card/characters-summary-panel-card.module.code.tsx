@@ -1,6 +1,8 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { CharacterSummaryData } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import { CUMULATIVE_CHARACTER_CARDS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-cumulative-cards/completion-cumulative-cards.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { charactersSummaryPanelCardTitle } from "akasha/temper/web/phrase/pages/characters-summary-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -26,6 +28,7 @@ export function CharactersSummaryPanelCard({
   onItemClick,
   collapseProtected,
 }: CharactersSummaryPanelCardProps) {
+  const phrase = usePhrase()
   const hasData = Object.values(summary).some((entry) => entry.total > 0)
   if (!hasData) return null
 
@@ -38,7 +41,7 @@ export function CharactersSummaryPanelCard({
 
   return (
     <CompletionPanelCard
-      title="Characters Summary"
+      title={phrase(charactersSummaryPanelCardTitle.slug)}
       items={items}
       filterNode={createNodeFilter(completionFilter ?? [], undefined)}
       sortMode={sortMode}
