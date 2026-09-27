@@ -26,5 +26,10 @@ export const otherwhere00027 = {
     '"I keep roots and vegetables a human can eat," he adds, grudging, "if you\'re not fussy."',
     "He glances past the columns toward the chewing, then back at her arm, and says nothing more.",
   ],
+  issues: [
+    '"toward the chewing, then back at your arm" - No Prompt',
+    '"and says nothing more" - Leave It Open',
+  ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
