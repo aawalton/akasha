@@ -1,5 +1,6 @@
 import { afterAll, expect, test } from "bun:test"
 import { join } from "node:path"
+import { said } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
 import { stubFor } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-bundling/service-bundling.module.code.ts"
@@ -22,16 +23,19 @@ async function bundled(): Promise<string> {
   const at = scratch.rootFor("akasha-page-threading-")
   const stub = join(at, "entry.ts")
   await Bun.write(stub, stubFor(RUNNING))
-  const built = await Bun.build({
-    entrypoints: [stub],
-    target: "bun",
-    sourcemap: "inline",
-    external: ["chromium-bidi"],
-  })
-  const first = built.outputs[0]
-  if (!built.success || first === undefined) throw new Error(built.logs.map(String).join("; "))
   const bundle = join(at, "bundle.js")
-  await Bun.write(bundle, await first.text())
+  said(
+    [
+      process.execPath,
+      "build",
+      stub,
+      "--target=bun",
+      "--external=chromium-bidi",
+      "--outfile",
+      bundle,
+    ],
+    { cwd: ROOT }
+  )
   return bundle
 }
 
