@@ -17,7 +17,11 @@ export const companionsIdMap = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The companions are listed in the order of those places.",
+      statement: "The id map lists the companions in the order of those places.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A list a player reads names the companions in the order of their keys.",
     },
     {
       decisionKind: "decision-kind/departure",

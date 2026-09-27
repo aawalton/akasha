@@ -14,7 +14,7 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-2/eso-ui-2.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-ui-3/eso-ui-3.type-declaration.d.ts"
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { allCompanionIds } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
+import { companionIdsInKeyOrder } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import { getCleanCompanionName } from "akasha/temper/addon/pages/characters/modules/companions-selector/companions-selector.module.code.ts"
 import { styleText } from "akasha/temper/window/modules/text-style/text-style.module.code.ts"
 import {
@@ -90,7 +90,7 @@ export function createCompanionSummaryPanel(parent: Control): Control {
   offsetY = offsetY + HEADER_ROW_HEIGHT
 
   const rows: SummaryRow[] = []
-  const companionIds = allCompanionIds()
+  const companionIds = companionIdsInKeyOrder()
 
   for (const companionId of companionIds) {
     const nameLabel = WINDOW_MANAGER.CreateControl(undefined, panel, CT_LABEL)

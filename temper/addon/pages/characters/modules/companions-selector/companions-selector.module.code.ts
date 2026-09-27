@@ -24,7 +24,7 @@ import {
   formatWeaponSlot,
   getQualityColorForSlot,
 } from "akasha/temper/addon/pages/characters/modules/companions-equipment-formatters/companions-equipment-formatters.module.code.ts"
-import { allCompanionIds } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
+import { companionIdsInKeyOrder } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import {
   ensureCompanionEntry,
   getSavedVariables,
@@ -58,7 +58,7 @@ export function createCompanionDropdown(parent: Control): Control {
 
   const comboBox = ZO_ComboBox_ObjectFromContainer(container)
 
-  for (const companionId of allCompanionIds()) {
+  for (const companionId of companionIdsInKeyOrder()) {
     const name = getCleanCompanionName(companionId)
     const entry = comboBox.CreateItemEntry(name, function (this: void): undefined {
       setSelectedCompanionId(companionId)
