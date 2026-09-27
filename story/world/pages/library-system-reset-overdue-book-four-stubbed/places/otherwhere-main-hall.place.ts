@@ -36,6 +36,14 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "The failed information packet can be resent only through the Check-in Counter, once it works.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
       fact: "A long path runs back from the counter between massive wooden columns carved low down.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
