@@ -11,4 +11,5 @@ export const mariWriterTheDatingGame = {
   startMode: "seat-mode/headless",
   onCall: false,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "d59fb9c1-2b9c-4a94-a60b-871c0d41cf8e",
 } as const satisfies Seat
