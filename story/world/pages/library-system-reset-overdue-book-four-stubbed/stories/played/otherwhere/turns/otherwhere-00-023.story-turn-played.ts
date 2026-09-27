@@ -27,4 +27,5 @@ export const otherwhere00023 = {
     "Where she scooped, the gap in the oval has opened wider than her forearm.",
     "Outside, the first bookworm drops the chewed broom and turns its blind head toward the wider gap.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
