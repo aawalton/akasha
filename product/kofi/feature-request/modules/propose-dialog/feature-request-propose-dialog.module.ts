@@ -17,6 +17,10 @@ export const featureRequestProposeDialog = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the dialog says of requests and points is read live from web phrase pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An ask is held to the length its own property allows, by the field itself.",
     },
     {

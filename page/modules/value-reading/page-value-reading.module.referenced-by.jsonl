@@ -321,6 +321,7 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-binding/service-binding.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/modules/dev-server-stating/dev-server-stating.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/access/modules/capture-error/capture-error.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/access/modules/file-page-type-config/file-page-type-config.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"page/command/modules/page-secret-acting/page-secret-acting.module.code.ts","typed":false,"deferred":false}

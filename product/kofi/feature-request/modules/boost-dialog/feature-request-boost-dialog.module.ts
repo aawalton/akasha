@@ -17,6 +17,10 @@ export const featureRequestBoostDialog = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "What the dialog says of requests and points is read live from web phrase pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A refusal the post answered is drawn in the dialog, which remains open.",
     },
     {

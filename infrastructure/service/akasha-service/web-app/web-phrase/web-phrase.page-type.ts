@@ -6,6 +6,7 @@ export const webPhrase = {
   slug: "web-phrase",
   definition: "a piece of wording a web app's screen shows around the things it names",
   extends: ["page-type/page"],
+  parts: ["module/web-phrase-reading"],
   properties: [{ pageProperty: "text-property/title", required: true, many: false }],
   decisions: [
     {

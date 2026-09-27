@@ -1604,6 +1604,7 @@
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/modules/host-answering/host-answering.module.ts","id":"01a0d96d-da99-7c7a-9861-e432d259f5f8"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/properties/source-directory.text-property.ts","id":"01a05b26-f8b6-7d79-b5c7-6e8267081489"}
 {"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
+{"propertySlug":"decision-kind","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.ts","id":"01a0e2d2-7261-77ec-81de-3ece62418f84"}
 {"propertySlug":"decision-kind","path":"page/access/modules/answer/answer.module.ts","id":"01a05bd6-c528-7413-9995-26f888309a61"}
 {"propertySlug":"decision-kind","path":"page/access/modules/capture-error/capture-error.module.ts","id":"01a05bd6-c529-7e1b-b455-c42e0f069da5"}
 {"propertySlug":"decision-kind","path":"page/access/modules/file-page-type-config/file-page-type-config.module.ts","id":"01a05bd6-c52f-7e97-a8ea-067913e34725"}
