@@ -4,10 +4,17 @@ export const otherwhere00013 = {
   id: "01a0e489-dd34-71c7-a633-78513de1aff3",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-013",
+  ownLength: 283,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 13,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-alan",
+    "character-other/otherwhere-links",
+    "character-other/otherwhere-engorged-bookworm-01",
+  ],
+  turnStatus: "turn-status/reviewers",
   action:
     "I refill the scoop and wait for the bookworm to get closer this time before covering it in the salt",
   beats: [
