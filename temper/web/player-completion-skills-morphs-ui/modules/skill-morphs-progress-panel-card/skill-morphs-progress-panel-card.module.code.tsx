@@ -1,5 +1,6 @@
 import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/require-first.module.code.ts"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
 import { skillLineCategoriesSorted } from "akasha/temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
@@ -16,6 +17,7 @@ import type {
   MorphableSkillDetail,
 } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import { morphableSkillLineIds } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { skillMorphsProgressPanelCardBase } from "akasha/temper/web/phrase/pages/skill-morphs-progress-panel-card-base.temper-web-phrase.ts"
 import {
@@ -65,6 +67,7 @@ export function SkillMorphsProgressPanelCard({
 }: SkillMorphsProgressPanelCardProps) {
   const phrase = usePhrase()
   const baseLabel = phrase(skillMorphsProgressPanelCardBase.slug)
+  const categoryTitles = useKeyedTitles(temperSkillLineCategory.slug)
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? morphProgress
@@ -259,7 +262,7 @@ export function SkillMorphsProgressPanelCard({
     .map((category) => {
       const children =
         category.id === "class" ? buildClassChildren() : buildStandardChildren(category.id)
-      return { key: category.id, label: category.name, children }
+      return { key: category.id, label: categoryTitles?.titles.get(category.id) ?? "", children }
     })
 
   const totalChildren: CompletionNode[] | undefined =

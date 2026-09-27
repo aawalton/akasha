@@ -19,5 +19,9 @@ export const skillMorphsProgressPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The card's title is its completion category page's title.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each skill line category is labelled with its skill line category page's title.",
+    },
   ],
 } as const satisfies Module
