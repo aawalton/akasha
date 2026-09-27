@@ -6,4 +6,10 @@ export const armorTypes = {
   slug: "armor-types",
   definition: "the armor pieces and the shield taking an armor trait or enchantment",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The armor types, their armor share and glyph share are read from their pages.",
+    },
+  ],
 } as const satisfies Module

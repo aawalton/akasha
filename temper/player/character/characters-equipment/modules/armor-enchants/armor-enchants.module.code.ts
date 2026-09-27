@@ -1,4 +1,4 @@
-import { isLargeArmorEnchantSlot } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
+import { armorEnchantShare } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts"
 import {
   minQuality,
   resolveQuality,
@@ -17,11 +17,9 @@ export type ArmorEnchantId = ArmorEnchantPageSlug
 
 export const armorEnchants = enchantTable<ArmorEnchantId>("armor")
 
-const SMALL_PIECE_MULTIPLIER = 0.4045
-
-function onSmallPiece(effect: MetricEffect): MetricEffect {
+function onPiece(effect: MetricEffect, share: number): MetricEffect {
   if (effect.effectType !== "integer") return effect
-  return { ...effect, effectValue: Math.round(effect.effectValue * SMALL_PIECE_MULTIPLIER) }
+  return { ...effect, effectValue: Math.round(effect.effectValue * share) }
 }
 
 export function getArmorEnchantmentEffects(armor: ArmorItem): readonly MetricEffect[] {
@@ -30,7 +28,8 @@ export function getArmorEnchantmentEffects(armor: ArmorItem): readonly MetricEff
   const itemQuality = resolveQuality(armor.quality)
   const enchantQuality = minQuality(armor.enchantmentQuality ?? "legendary", itemQuality)
   const graded = enchantEffectsAt("armor", armor.enchantment, enchantQuality)
-  const effects = isLargeArmorEnchantSlot(armor.type) ? graded : graded.map(onSmallPiece)
+  const share = armorEnchantShare(armor.type)
+  const effects = graded.map((effect) => onPiece(effect, share))
 
   if (armor.trait === "infused") {
     const infusedBonus = getInfusedArmorBonus(itemQuality)

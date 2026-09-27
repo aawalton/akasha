@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"gear-kind-ids.data-table.code.ts","path":"temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gear-kind-ids.data-table.code.ts","path":"temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"gear-kind-ids.data-table.code.ts","path":"temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"gear-kind-ids.data-table.code.ts","path":"temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"gear-kind-ids.data-table.code.ts","path":"temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts","typed":true,"deferred":false}

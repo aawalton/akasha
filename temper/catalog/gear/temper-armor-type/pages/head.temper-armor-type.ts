@@ -7,6 +7,6 @@ export const head = {
   title: "Head",
   key: "head",
   armorMultiplier: 7,
-  isLargeEnchantSlot: true,
   validSlots: ["temper-armor-slot/head"],
+  enchantmentMultiplier: 1,
 } as const satisfies TemperArmorType

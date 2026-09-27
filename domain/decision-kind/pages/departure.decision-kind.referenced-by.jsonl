@@ -5027,6 +5027,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids-keeping/target-type-ids-keeping.change-generator.ts","id":"01a0e0b8-1629-77ee-bb85-17302aa960ea"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids/target-type-ids.data-table.ts","id":"01a0e0b8-162a-7d51-9d4b-c85c0efecf9c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.ts","id":"01a060b8-08c4-79bd-a673-660169cf2ee9"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.ts","id":"01a060b8-08c5-704c-a98f-25bae2ac07e7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.ts","id":"01a060b8-08c6-7141-8b6e-044cf34927d5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids-keeping/gear-kind-ids-keeping.change-generator.ts","id":"01a0e0c4-2114-7d87-b183-c05bdf641d05"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.ts","id":"01a0e0c4-2114-75e2-a8a0-3952696030ba"}
@@ -5051,6 +5052,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-enchant/temper-armor-enchant.page-type.ts","id":"01a05fd1-d42e-7a0a-9e97-561c71aeccd4"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts","id":"01a05fb0-3ceb-7229-9089-127418274d52"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-type/temper-armor-type.page-type.ts","id":"01a05fd1-d430-77ed-ace6-98856e2a09d7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts","id":"01a0e108-4383-759e-9c5d-2d4067ab9605"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.ts","id":"01a0d62c-4624-7bf3-b478-830ca19d8e09"}

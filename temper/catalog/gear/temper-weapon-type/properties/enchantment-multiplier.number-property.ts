@@ -5,7 +5,7 @@ export const enchantmentMultiplier = {
   type: "page-type/number-property",
   slug: "enchantment-multiplier",
   propertySlug: "enchantment-multiplier",
-  definition: "how much of a glyph's effect a weapon of this kind carries",
+  definition: "how much of a glyph's effect a weapon or armor piece of this kind carries",
   max: null,
   types: "ts",
 } as const satisfies NumberProperty

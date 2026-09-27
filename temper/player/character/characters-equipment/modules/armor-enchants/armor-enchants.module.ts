@@ -14,7 +14,7 @@ export const armorEnchants = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A piece other than the head, chest or legs carries a smaller share of the glyph.",
+      statement: "A piece carries the share of the glyph its armor type page states.",
     },
   ],
 } as const satisfies Module

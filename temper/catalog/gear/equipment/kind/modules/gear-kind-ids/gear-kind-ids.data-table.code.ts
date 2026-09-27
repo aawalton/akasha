@@ -106,3 +106,13 @@ export type JewelryEnchantId =
   | "reduce-spell-cost"
   | "shock-resist"
   | "stamina-recovery"
+
+export type ArmorTypeId =
+  | "chest"
+  | "feet"
+  | "hands"
+  | "head"
+  | "legs"
+  | "shield"
+  | "shoulders"
+  | "waist"

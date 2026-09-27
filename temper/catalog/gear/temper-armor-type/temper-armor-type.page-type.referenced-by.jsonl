@@ -1,3 +1,6 @@
+{"propertySlug":"import","fileName":"temper-armor-type.page-type.ts","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids-keeping/gear-kind-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-type.page-type.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-armor-type.page-type.ts","path":"temper/web/modules/use-gear-pages/use-gear-pages.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-type.page-type.types.ts","path":"temper/catalog/gear/temper-armor-type/pages/chest.temper-armor-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-type.page-type.types.ts","path":"temper/catalog/gear/temper-armor-type/pages/feet.temper-armor-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-armor-type.page-type.types.ts","path":"temper/catalog/gear/temper-armor-type/pages/hands.temper-armor-type.ts","typed":true,"deferred":false}
