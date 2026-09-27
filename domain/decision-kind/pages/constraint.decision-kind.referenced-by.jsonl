@@ -284,6 +284,7 @@
 {"propertySlug":"decision-kind","path":"code/ios-program/ios-program.page-type.ts","id":"01a05901-26b3-7d1b-aec6-3b467f5f5b8d"}
 {"propertySlug":"decision-kind","path":"code/reading/modules/code-naming/code-naming.module.ts","id":"01a08cc7-f1c9-7e9b-9ff6-01abb5cea0cc"}
 {"propertySlug":"decision-kind","path":"code/router-app/modules/meta-glob-setting/meta-glob-setting.module.ts","id":"01a0d89a-f8c5-7864-809e-3b26e1dd34ce"}
+{"propertySlug":"decision-kind","path":"code/router-app/modules/no-inlined-fonts/no-inlined-fonts.module.ts","id":"01a0e12c-ad76-7048-91b2-329a02f7899c"}
 {"propertySlug":"decision-kind","path":"code/router-app/router-app.page-type.ts","id":"01a063f3-c2ab-765b-9c87-954f96167da7"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-format/code-format.module.ts","id":"01a04edc-5281-769c-8ba8-522d8f569095"}
 {"propertySlug":"decision-kind","path":"code/running/modules/code-lint/code-lint.module.ts","id":"01a04edb-5f2c-7000-b8b5-430c5419cbda"}
