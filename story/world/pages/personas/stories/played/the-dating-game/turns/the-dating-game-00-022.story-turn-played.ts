@@ -20,4 +20,5 @@ export const theDatingGame00022 = {
     "They ride the current along beside him for a while, then slip ahead around the bend.",
     "The trail curves with the hill, the campus buildings glimpsed now and then up through the trees.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
