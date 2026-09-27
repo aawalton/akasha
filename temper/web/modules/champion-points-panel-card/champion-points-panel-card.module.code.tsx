@@ -1,7 +1,10 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
-import { completionMost } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
+import {
+  completionCardTitle,
+  completionMost,
+} from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -28,10 +31,11 @@ export function ChampionPointsPanelCard({
   sortMode,
   sortDirection,
 }: ChampionPointsPanelCardProps) {
+  const title = completionCardTitle("account", "champion-points")
   const items: CompletionNode[] = [
     {
       key: "champion-points",
-      label: "Champion Points",
+      label: title,
       count: championPointsEarned,
       total: completionMost("champion-points"),
     },
@@ -40,7 +44,7 @@ export function ChampionPointsPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Champion Points"
+      title={title}
       items={withActivityCategories(items, "characters")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

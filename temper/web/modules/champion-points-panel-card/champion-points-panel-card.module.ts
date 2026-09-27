@@ -6,4 +6,10 @@ export const championPointsPanelCard = {
   slug: "champion-points-panel-card",
   definition: "the champion points the account has earned against the most there are",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from the champion points completion category page.",
+    },
+  ],
 } as const satisfies Module
