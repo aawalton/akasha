@@ -15,4 +15,5 @@ export const goldCoastSpellcasterElixir = {
   seconds: 36.3,
   effects: "jsonl",
   hashPlace: 2,
+  restores: ["temper-metric/magicka-restore"],
 } as const satisfies TemperPotionCrown

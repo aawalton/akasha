@@ -5046,6 +5046,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-motif-style/properties/style-name.text-property.ts","id":"01a0e0ee-e841-7e6c-b6dd-77210866c295"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/recipe-reagents.multi-relation-property.ts","id":"01a0cb17-e012-793c-ab5d-5488d2255121"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.ts","id":"01a05fd1-d43d-7c95-8ac4-1739e09c409e"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion/properties/potion-restores.multi-relation-property.ts","id":"01a0e105-2a81-70e1-bb79-5efb5e7ec930"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion/temper-potion.page-type.ts","id":"01a0e0a0-9199-7c1b-8a58-f31fdaa90b21"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-quality/modules/quality-ids-keeping/quality-ids-keeping.change-generator.ts","id":"01a0e0a8-7160-766c-96b0-5e5e75e3adf9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-quality/modules/quality-ids/quality-ids.data-table.ts","id":"01a0e0a8-7160-7325-a884-02309bdc787e"}

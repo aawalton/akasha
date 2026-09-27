@@ -15,4 +15,5 @@ export const essenceOfHealth = {
   seconds: 22.1,
   effects: "jsonl",
   hashPlace: 5,
+  restores: ["temper-metric/health-restore"],
 } as const satisfies TemperPotionDropped

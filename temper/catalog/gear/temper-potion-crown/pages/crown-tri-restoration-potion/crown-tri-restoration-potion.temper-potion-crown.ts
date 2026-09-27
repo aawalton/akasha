@@ -15,4 +15,9 @@ export const crownTriRestorationPotion = {
   seconds: 36.3,
   effects: "jsonl",
   hashPlace: 1,
+  restores: [
+    "temper-metric/health-restore",
+    "temper-metric/magicka-restore",
+    "temper-metric/stamina-restore",
+  ],
 } as const satisfies TemperPotionCrown

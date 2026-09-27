@@ -15,4 +15,5 @@ export const goldCoastSwiftSurvivorElixir = {
   seconds: 36.3,
   effects: "jsonl",
   hashPlace: 4,
+  restores: ["temper-metric/health-restore"],
 } as const satisfies TemperPotionCrown

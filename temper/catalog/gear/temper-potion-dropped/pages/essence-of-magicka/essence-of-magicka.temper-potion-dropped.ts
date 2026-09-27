@@ -15,4 +15,5 @@ export const essenceOfMagicka = {
   seconds: 22.1,
   effects: "jsonl",
   hashPlace: 6,
+  restores: ["temper-metric/magicka-restore"],
 } as const satisfies TemperPotionDropped

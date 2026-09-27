@@ -15,4 +15,5 @@ export const goldCoastWarriorElixir = {
   seconds: 36.3,
   effects: "jsonl",
   hashPlace: 3,
+  restores: ["temper-metric/stamina-restore"],
 } as const satisfies TemperPotionCrown

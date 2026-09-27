@@ -9,6 +9,12 @@ export const temperPotion = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/potion-restores",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
@@ -27,4 +33,5 @@ export const temperPotion = {
   types: "ts",
   schema: "jsonl",
   hashIndexed: ["hashPlace"],
+  parts: ["multi-relation-property/potion-restores"],
 } as const satisfies PageType

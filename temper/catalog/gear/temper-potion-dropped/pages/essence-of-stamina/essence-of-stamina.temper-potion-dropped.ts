@@ -15,4 +15,5 @@ export const essenceOfStamina = {
   seconds: 22.1,
   effects: "jsonl",
   hashPlace: 7,
+  restores: ["temper-metric/stamina-restore"],
 } as const satisfies TemperPotionDropped

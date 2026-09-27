@@ -33,6 +33,7 @@
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"domain","unique":null,"uniquePropertySlug":null,"slug":"parts","propertySlug":"parts","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"access-deed","unique":null,"uniquePropertySlug":null,"slug":"person-access-deed","propertySlug":"deed","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"persona","unique":null,"uniquePropertySlug":null,"slug":"personas-crafted","propertySlug":"personas-crafted","fileName":null,"folderName":null}
+{"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-metric","unique":null,"uniquePropertySlug":null,"slug":"potion-restores","propertySlug":"restores","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"ios-program","unique":null,"uniquePropertySlug":null,"slug":"programs","propertySlug":"programs","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"temper-reagent","unique":null,"uniquePropertySlug":null,"slug":"recipe-reagents","propertySlug":"reagents","fileName":null,"folderName":null}
 {"pageTypeSlug":"multi-relation-property","targetPageTypeSlug":"image","unique":null,"uniquePropertySlug":null,"slug":"reference-images","propertySlug":"reference-images","fileName":null,"folderName":null}
