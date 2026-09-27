@@ -95,6 +95,7 @@
 {"propertySlug":"extends-type","path":"story/world/mechanics/checks/world-check.page-type.ts","id":"01a0de14-272c-7450-9354-16bc47966044"}
 {"propertySlug":"extends-type","path":"story/world/mechanics/derived/world-derived-metric.page-type.ts","id":"01a0ca2c-3188-73cb-9621-2122beb52818"}
 {"propertySlug":"extends-type","path":"temper/eso/declaration/eso-opt-in-list/eso-opt-in-list.page-type.ts","id":"01a081b0-6ef0-79f7-8191-4b78fb717423"}
+{"propertySlug":"import","fileName":"domain.page-type.ts","path":"agent/hook/agent-hook/inference-hook/keep-alan-directives/keep-alan-directives.inference-hook.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"agent/seat/declaration/modules/seat-stating/seat-stating.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"change/agent/file-content/change-page-page-property-text/change-page-page-property-text.change-agent.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"domain.page-type.ts","path":"change/agent/file-content/rename-code-token/rename-code-token.change-agent.test-fixtures.ts","typed":false,"deferred":false}

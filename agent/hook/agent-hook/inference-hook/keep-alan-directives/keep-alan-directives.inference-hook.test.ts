@@ -6,6 +6,7 @@ import {
   JUDGES,
   keptFor,
   lineFor,
+  makesTurns,
   personIn,
   positiveFor,
   roleIn,
@@ -22,9 +23,13 @@ import {
 import { interviewer } from "akasha/agent/role/pages/interviewer.role.ts"
 import { worker } from "akasha/agent/role/pages/worker.role.ts"
 import { role } from "akasha/agent/role/role.page-type.ts"
+import { arousal } from "akasha/alan/self-care/arousal/arousal.domain.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
+import { domain } from "akasha/domain/domain.page-type.ts"
 import { alan } from "akasha/person/pages/alan/alan.person.ts"
 import { person } from "akasha/person/person.page-type.ts"
+import { theDatingGame } from "akasha/story/world/pages/personas/stories/played/the-dating-game/the-dating-game.story-played.ts"
+import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 
 const ALAN_AT = `${person.slug}/${alan.slug}` as const
 
@@ -128,6 +133,26 @@ test("the role a seat answers for is read off the seat the agent runs under", ()
 test("a seat naming no role answers nothing", () => {
   expect(roleIn(ROLED, "c")).toBeNull()
   expect(roleIn(ROLED, "d")).toBeNull()
+})
+
+const GAME_AT = `${storyPlayed.slug}/${theDatingGame.slug}` as const
+
+const DOMAIN_AT = `${domain.slug}/${arousal.slug}` as const
+
+const ASSIGNED: readonly Valued[] = [
+  { path: "one.seat.ts", value: { id: "a", assignmentSlug: GAME_AT } },
+  { path: "two.seat.ts", value: { id: "b", assignmentSlug: DOMAIN_AT } },
+  { path: "three.seat.ts", value: { id: "c" } },
+]
+
+test("a seat assigned a played story makes that game's turns", () => {
+  expect(makesTurns(ASSIGNED, "a")).toBe(true)
+})
+
+test("a seat assigned anything else, or nothing, makes no game's turns", () => {
+  expect(makesTurns(ASSIGNED, "b")).toBe(false)
+  expect(makesTurns(ASSIGNED, "c")).toBe(false)
+  expect(makesTurns(ASSIGNED, "d")).toBe(false)
 })
 
 test("an interviewer is judged by every rule but the one against stopping", () => {
