@@ -3336,6 +3336,7 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/call-reading/call-reading.module.ts","id":"01a0a219-c8cd-7000-b0ba-e52ad338d390"}
 {"propertySlug":"decision-kind","path":"page/service/modules/events-reading/events-reading.module.ts","id":"01a0d4f5-6b01-7fe3-9c54-388642cf329e"}
 {"propertySlug":"decision-kind","path":"page/service/modules/file-answering/file-answering.module.ts","id":"01a0784a-085f-7c1d-aec3-7e04a398f007"}
+{"propertySlug":"decision-kind","path":"page/service/modules/follow-asking/follow-asking.module.ts","id":"01a0e05d-fff9-7956-854a-13abc017cf91"}
 {"propertySlug":"decision-kind","path":"page/service/modules/follow-narrowing/follow-narrowing.module.ts","id":"01a0d56f-77e5-72a7-8f84-7e47d24c6d90"}
 {"propertySlug":"decision-kind","path":"page/service/modules/held-reading/held-reading.module.ts","id":"01a0de9c-8e73-7372-b808-9e355be7f9fb"}
 {"propertySlug":"decision-kind","path":"page/service/modules/kept-rows/kept-rows.module.ts","id":"01a0d8af-c6f6-7f0a-a85f-4bc24a857fdd"}

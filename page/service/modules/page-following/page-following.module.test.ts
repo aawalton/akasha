@@ -1,7 +1,7 @@
 import { expect, test } from "bun:test"
 import type { ReadableStreamDefaultReader } from "node:stream/web"
+import { askedIn } from "akasha/page/service/modules/follow-asking/follow-asking.module.code.ts"
 import {
-  askedIn,
   changedAt,
   eventSaid,
   followingFor,
@@ -124,6 +124,30 @@ async function eventsFrom(
   }
   return found
 }
+
+test("a stream nobody reads is closed, and its follows let go", async () => {
+  const following = followingFor(NOWHERE, 10)
+  const opened = following.opened(new Request("http://here/events"))
+  const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
+  const [first] = await eventsFrom(reader, 1)
+  const { stream } = STREAM_SAID.parse(JSON.parse((first ?? "").split("data: ")[1] ?? "{}"))
+  expect(following.followed({ stream, follows: [] }).status).toBe(200)
+  await Bun.sleep(120)
+  expect(following.followed({ stream, follows: [] }).status).toBe(404)
+})
+
+test("a stream read as it beats stays open however long it runs", async () => {
+  const following = followingFor(NOWHERE, 10)
+  const aborting = new AbortController()
+  const opened = following.opened(new Request("http://here/events", { signal: aborting.signal }))
+  const reader = (opened.body as ReadableStream<Uint8Array>).getReader()
+  const [first] = await eventsFrom(reader, 1)
+  const { stream } = STREAM_SAID.parse(JSON.parse((first ?? "").split("data: ")[1] ?? "{}"))
+  const until = Date.now() + 120
+  while (Date.now() < until) await reader.read()
+  expect(following.followed({ stream, follows: [] }).status).toBe(200)
+  aborting.abort()
+})
 
 test("a change is pushed down the stream following it and no other change is", async () => {
   const following = followingFor(NOWHERE)

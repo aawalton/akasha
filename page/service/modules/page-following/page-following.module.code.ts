@@ -16,11 +16,13 @@ import {
 import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
+  askedIn,
+  type Follow,
+} from "akasha/page/service/modules/follow-asking/follow-asking.module.code.ts"
+import {
   type Narrowed,
   narrowedOver,
   valuedOnce,
-  type Where,
-  whereIn,
   within,
 } from "akasha/page/service/modules/follow-narrowing/follow-narrowing.module.code.ts"
 import {
@@ -40,19 +42,13 @@ export const FOLLOW_AT = "/follow"
 
 const BEAT_MS = 5_000
 
+const UNREAD_BEATS = 3
+
+const UNREAD = "nothing read this stream for three beats, so it was closed and what it held let go"
+
 const SPACED_MS = 500
 
 const PLANNED_AFTER_MS = 250
-
-const BY: ReadonlySet<string> = new Set(["id", "slug"])
-
-type Follow = {
-  readonly key: string
-  readonly pageTypeSlug: string
-  readonly by?: "id" | "slug"
-  readonly values?: readonly string[]
-  readonly where?: Where
-}
 
 type Changed = {
   readonly pageTypeSlug: string
@@ -82,66 +78,6 @@ export function said(body: unknown, status: number): Response {
     status,
     headers: { "content-type": "application/json" },
   })
-}
-
-function textsIn(held: unknown): readonly string[] | null {
-  if (!Array.isArray(held)) return null
-  const found: string[] = []
-  for (const one of held) {
-    if (typeof one !== "string" || one === "") return null
-    found.push(one)
-  }
-  return found
-}
-
-function followIn(held: unknown): Follow | null {
-  if (held === null || typeof held !== "object" || Array.isArray(held)) return null
-  const one = held as Readonly<Record<string, unknown>>
-  if (typeof one.key !== "string" || one.key === "") return null
-  if (typeof one.pageTypeSlug !== "string" || one.pageTypeSlug === "") return null
-  const where = whereIn(one.where)
-  if (where === null) return null
-  const narrowing = where === undefined ? {} : { where }
-  if (one.by === undefined) return { key: one.key, pageTypeSlug: one.pageTypeSlug, ...narrowing }
-  if (typeof one.by !== "string" || !BY.has(one.by)) return null
-  const values = textsIn(one.values)
-  if (values === null) return null
-  return {
-    key: one.key,
-    pageTypeSlug: one.pageTypeSlug,
-    by: one.by as "id" | "slug",
-    values,
-    ...narrowing,
-  }
-}
-
-type Asked =
-  | { readonly stream: string; readonly follows: readonly Follow[] }
-  | { readonly refused: string }
-
-export function askedIn(given: unknown): Asked {
-  if (given === null || typeof given !== "object" || Array.isArray(given)) {
-    return { refused: "a follow is asked for by a JSON object" }
-  }
-  const held = given as Readonly<Record<string, unknown>>
-  if (typeof held.stream !== "string" || held.stream === "") {
-    return { refused: "a follow names the stream it is for as `stream`" }
-  }
-  if (!Array.isArray(held.follows)) {
-    return { refused: "a follow names what it follows as `follows`" }
-  }
-  const follows: Follow[] = []
-  for (const one of held.follows) {
-    const follow = followIn(one)
-    if (follow === null) {
-      return {
-        refused:
-          "each follow names a `key` and a `pageTypeSlug`, names pages only `by` `id` or `slug` with their `values`, and narrows only by a `where` a question could ask",
-      }
-    }
-    follows.push(follow)
-  }
-  return { stream: held.stream, follows }
 }
 
 function kindsOf(root: string, pageTypeSlug: string): ReadonlySet<string> {
@@ -305,7 +241,7 @@ function idOf(root: string, one: Changed): string | undefined {
   }
 }
 
-export function followingFor(root: string): Following {
+export function followingFor(root: string, beatMs: number = BEAT_MS): Following {
   const streams = new Map<string, Stream>()
   const watchers = new Map<string, FSWatcher>()
   const sentAt = new Map<string, number>()
@@ -416,6 +352,7 @@ export function followingFor(root: string): Following {
     const id = crypto.randomUUID()
     const encoder = new TextEncoder()
     let beat: ReturnType<typeof setInterval> | null = null
+    let pulledAt = Date.now()
     const closed = (): undefined => {
       if (beat !== null) clearInterval(beat)
       beat = null
@@ -433,15 +370,28 @@ export function followingFor(root: string): Following {
             return false
           }
         }
+        const unread = (): undefined => {
+          closed()
+          try {
+            controller.error(new Error(UNREAD))
+          } catch {}
+          return undefined
+        }
         streams.set(id, { send: put, helds: [] })
         put(eventSaid("stream", { stream: id }))
-        beat = setInterval(() => put(": beat\n\n"), BEAT_MS)
+        beat = setInterval(() => {
+          if (Date.now() - pulledAt > beatMs * UNREAD_BEATS) return unread()
+          put(": beat\n\n")
+        }, beatMs)
         request.signal.addEventListener("abort", () => {
           closed()
           try {
             controller.close()
           } catch {}
         })
+      },
+      pull() {
+        pulledAt = Date.now()
       },
       cancel() {
         closed()

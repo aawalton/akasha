@@ -98,5 +98,13 @@ export const pageFollowing = {
       decisionKind: "decision-kind/absence",
       statement: "A stream closed is followed no longer.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A stream nothing reads for three beats is closed, whether or not it was ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What such a stream held unread is let go with it rather than kept.",
+    },
   ],
 } as const satisfies Module
