@@ -6,6 +6,7 @@ export const buoyantArmiger = {
   slug: "buoyant-armiger",
   title: "Buoyant Armiger",
   esoItemStyleId: 52,
+  styleName: "Buoyant Armiger",
   collectionIndex: 35,
   sourceDescription: "Vvardenfell and Halls of Fabrication",
 } as const satisfies TemperMotifStyle
