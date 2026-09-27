@@ -14,7 +14,7 @@ export const otherwhere00022 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "I wait for it to come to the gap, then tackle it and hold it in the salt",
   beats: [
     "Nala crouches by the scuffed gap and waits, weight forward.",
@@ -25,6 +25,7 @@ export const otherwhere00022 = {
     "It rears and lunges at her face; she jerks her head aside and its teeth clack shut on air.",
     "Now the bookworm is inside the oval with her, between Nala and the gap, head swaying.",
   ],
+  issues: ['"Now it\'s inside the oval with you." - Leave It Open'],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
