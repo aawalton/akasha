@@ -167,6 +167,7 @@ export const pageService = {
     "module/pages-foldered",
     "module/reads-keeping",
     "module/refusal-fault",
+    "module/select-refusing",
     "module/where-testing",
     "module/page-incrementing",
   ],

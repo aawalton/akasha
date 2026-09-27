@@ -143,6 +143,16 @@ export const pageComposing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A value under a select property outside the values that property states is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Only a select value the caller hands over is judged, and one the page holds is kept.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page has the page type the caller named.",
     },
     {

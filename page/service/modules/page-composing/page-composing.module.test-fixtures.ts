@@ -7,6 +7,7 @@ import {
 } from "akasha/page/index/test-fixtures/fixture-world/fixture-world.test-fixture.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { page } from "akasha/page/page.page-type.ts"
+import { selectProperty } from "akasha/page/select-property/select-property.page-type.ts"
 import {
   type Folded,
   foldedFor,
@@ -161,6 +162,18 @@ export const ROOT: string = indexedRepo({
     aProperty("08", "rounds", "page-property-entry"),
     aProperty("0a", "entries", "file-property"),
     aProperty("0b", "tallies", "page-property-entry", { writtenBy: "module/tally-landing" }),
+    aProperty("0c", "squad-part", "select-property", { values: ["tank", "healer"] }),
+    aProperty("0d", "squad-parts", "select-property", { values: ["tank", "healer"] }),
+    aProperty("0e", "rank", "rank-property"),
+    aType("18", selectProperty.slug, {
+      extends: [PAGE_PROPERTY_AT],
+      properties: [],
+    }),
+    aType("17", "rank-property", {
+      extends: [`${pageType.slug}/${selectProperty.slug}`],
+      values: ["low", "high"],
+      properties: [],
+    }),
     aType("10", "page-property-entry", {
       extends: [PAGE_PROPERTY_AT],
       properties: [],
@@ -207,6 +220,17 @@ export const ROOT: string = indexedRepo({
       properties: [],
     }),
   ]),
+  ...under("squad/", [
+    aType("16", "squad", {
+      extends: ["page-type/thing"],
+      types: "ts",
+      properties: [
+        declares("squad-part"),
+        declares("squad-parts", { many: true }),
+        declares("rank"),
+      ],
+    }),
+  ]),
   ...under("shard/log-day/", [
     aType("15", "shard-log-day", {
       extends: ["page-type/thing"],
@@ -239,6 +263,14 @@ export const ROOT: string = indexedRepo({
 
 export function composing(...named: readonly Naming[]): Folded {
   return foldedFor(ROOT, named)
+}
+
+export function squadOf(values: Readonly<Record<string, unknown>>): Folded {
+  return composing({
+    pageTypeSlug: "squad",
+    slug: "new-squad",
+    values: { title: "a squad", ...values },
+  })
 }
 
 export function bodiedFigure(bodies: Readonly<Record<string, string>>): Folded {

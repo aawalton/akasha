@@ -75,6 +75,7 @@
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-incrementing/page-incrementing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-placing/page-placing.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/page-shaping/page-shaping.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/service/modules/select-refusing/select-refusing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/type/modules/declared-properties/declared-properties.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"declared-properties.module.code.ts","path":"page/type/modules/type-schema/type-schema.module.code.ts","typed":true,"deferred":false}

@@ -31,6 +31,7 @@ import { clearRefused } from "akasha/page/service/modules/page-clearing/page-cle
 import type { Fresh } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import { foldersHere } from "akasha/page/service/modules/pages-foldered/pages-foldered.module.code.ts"
 import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
+import { selectRefused } from "akasha/page/service/modules/select-refusing/select-refusing.module.code.ts"
 import {
   type Carried,
   propertiesFrom,
@@ -203,7 +204,8 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
   if (typeAt === undefined) {
     return { refused: `\`${named.pageTypeSlug}\` names no page type the index holds` }
   }
-  const carried = orderedIn(propertiesFrom(named.pageTypeSlug, source ?? sourceFor(root)))
+  const sourced = source ?? sourceFor(root)
+  const carried = orderedIn(propertiesFrom(named.pageTypeSlug, sourced))
   if (carried.length === 0) {
     return { refused: `\`${named.pageTypeSlug}\` declares no property, so nothing may be written` }
   }
@@ -252,6 +254,8 @@ export function composedFor(root: string, named: Naming, source?: Source): Compo
     const bodied = one.key in bodies
     if (!stated && !bodied && !(one.key in already)) continue
     const value = stated ? named.values[one.key] : already[one.key]
+    const offTheSet = stated ? selectRefused(root, one, value, sourced) : null
+    if (offTheSet !== null) return { refused: offTheSet }
     const owned = rowsRefused(one, value)
     if (owned !== null) return { refused: owned }
     if (one.uncommitted && one.pageTypeSlug === ENTRY_PROPERTY && Array.isArray(value)) {
