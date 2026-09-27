@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"alan/atlas-web/routes/_app-layout.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"alan/atlas-web/routes/atlas-map/atlas-map.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"alan/harness/web-page-answer/modules/page-detail-loader/page-detail-loader.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"alan/requests-web/routes/_app-layout.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"alan/web/routes/_app-layout.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"loader-following.module.code.ts","path":"alan/web/routes/about/about.route.code.tsx","typed":false,"deferred":false}

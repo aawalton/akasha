@@ -19,5 +19,9 @@ export const pageDetailLoader = {
       decisionKind: "decision-kind/departure",
       statement: "A page href reaching no page is answered 404.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A nav page's tab icon is drawn again as soon as a nav page changes.",
+    },
   ],
 } as const satisfies Module

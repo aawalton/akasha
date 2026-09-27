@@ -5,11 +5,16 @@ import {
 import { getDescendantPageTypeSlugs } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
 import { PageDetailContent } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import { data } from "react-router"
 
 const NAV_SLUG = "nav"
+
+const NAV_READ: readonly string[] = [NAV_SLUG]
+
+const NOTHING_READ: readonly string[] = []
 
 export async function pageDetailData(params: { pageTypeSlug: string; pageHrefParam: string }) {
   const { pageTypeSlug, pageHrefParam } = params
@@ -19,16 +24,23 @@ export async function pageDetailData(params: { pageTypeSlug: string; pageHrefPar
     throw new Response("Not Found", { status: 404 })
   }
 
+  const brandedSlug = toPageTypeSlug(pageTypeSlug)
+
   if (pageTypeSlug === NAV_SLUG) {
+    const navPage = await getPageByIdSuffix({
+      pageTypeSlug: brandedSlug,
+      idSuffix: parsed.idSuffix,
+      slug: parsed.slug ?? undefined,
+      select: ["id", "icon"],
+    })
     return data({
       kind: "nav" as const,
       pageTypeSlug,
       pageHrefParam,
       faviconIdSuffix: parsed.idSuffix,
+      faviconIcon: navPage && typeof navPage.icon === "string" ? navPage.icon : "",
     })
   }
-
-  const brandedSlug = toPageTypeSlug(pageTypeSlug)
 
   const exact = await getPageByIdSuffix({
     pageTypeSlug: brandedSlug,
@@ -64,6 +76,7 @@ export async function pageDetailData(params: { pageTypeSlug: string; pageHrefPar
     pageTypeSlug: resolvedSlug,
     id,
     faviconIdSuffix: null,
+    faviconIcon: "",
   })
 }
 
@@ -75,7 +88,7 @@ export function pageDetailMeta(loaderData: PageDetailLoaderData | undefined) {
     {
       tagName: "link",
       rel: "icon",
-      href: `/api/nav-icon/${loaderData.faviconIdSuffix}`,
+      href: `/api/nav-icon/${loaderData.faviconIdSuffix}?icon=${encodeURIComponent(loaderData.faviconIcon)}`,
       type: "image/svg+xml",
       sizes: "any",
     },
@@ -83,6 +96,7 @@ export function pageDetailMeta(loaderData: PageDetailLoaderData | undefined) {
 }
 
 export function PageDetailView({ loaderData }: { loaderData: PageDetailLoaderData }) {
+  useLoaderFollowing(loaderData.kind === "nav" ? NAV_READ : NOTHING_READ)
   if (loaderData.kind === "nav") {
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />
   }

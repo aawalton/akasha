@@ -226,6 +226,7 @@
 {"propertySlug":"decision-kind","path":"agent/subagent/modules/stale-taking/subagent-stale-taking.module.ts","id":"01a0d8ef-ef9c-7e37-ba86-801120eb273f"}
 {"propertySlug":"decision-kind","path":"agent/subagent/subagent.page-type.ts","id":"01a05978-f2e1-78e7-9017-ab14c5c1d79b"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/.server/location-ingest-context/location-ingest-context.module.ts","id":"01a06582-6b30-7b6f-93b3-2403a3c2ade4"}
+{"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-api-nav-icon/atlas-api-nav-icon.route.ts","id":"01a08299-534b-79fc-b0e6-8d4012f48d31"}
 {"propertySlug":"decision-kind","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.ts","id":"01a0883e-5a1e-7450-ac91-ba1c3f52e21b"}
 {"propertySlug":"decision-kind","path":"alan/attribute/modules/level/attribute-level.module.ts","id":"01a0c4b0-4a14-730d-a7cf-b11505b9cc59"}
 {"propertySlug":"decision-kind","path":"alan/attribute/pages/constitution/constitution.attribute.ts","id":"01a06841-a158-76c3-9089-9842c06dc7c0"}
@@ -494,6 +495,7 @@
 {"propertySlug":"decision-kind","path":"alan/relationships/relationship-topic/relationship-topic.page-type.ts","id":"01a0658a-170f-73cd-a458-8f98d995452e"}
 {"propertySlug":"decision-kind","path":"alan/relationships/relationship/relationship.page-type.ts","id":"01a06594-c6e2-7bab-9ba9-948b607cfd13"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/modules/requests-app-shell/requests-app-shell.module.ts","id":"01a0c537-ba8c-76cf-8c53-2c9af0c65345"}
+{"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-nav-icon/requests-api-nav-icon.route.ts","id":"01a0c537-bb8b-78ad-a4d9-069e6c0134bb"}
 {"propertySlug":"decision-kind","path":"alan/requests-web/routes/requests-api-requests/requests-api-requests.route.ts","id":"01a0c54b-6eaf-7e6f-9ed5-6b1d7145650a"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/listens/listens.page-property-entry.ts","id":"01a06240-340f-7001-ad7b-818302ce884a"}
 {"propertySlug":"decision-kind","path":"alan/track/daily/day/properties/location-traces/location-traces.page-property-entry.ts","id":"01a0c566-954d-7c03-a37c-2c767ffdffd7"}
