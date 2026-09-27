@@ -31,7 +31,7 @@ function declaredRoutes(): readonly { path: string; file: string }[] {
 }
 
 const concrete = (path: string): string =>
-  path.replace(/:[A-Za-z0-9_$-]+/g, "probe").replace(/\*/g, "probe") || "/"
+  path.replace(/:[A-Za-z0-9_$-]+/g, "probe").replace(/\*/g, "probe/probe/probe") || "/"
 
 const UNROUTED = ["/api/health-samples", "/api/health-sample", "/api/nope", "/api/a/b/c", "/api"]
 
