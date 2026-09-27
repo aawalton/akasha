@@ -119,6 +119,10 @@ export const otherwhereMainHall = {
       fact: "Bookworms are grey worms a few inches long with rings of color at each end, and cute.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Bookworms are needed to make magical quills, and fertilise soil for magical herbs.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
