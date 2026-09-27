@@ -6,6 +6,7 @@ export const aldmeriDominion = {
   slug: "aldmeri-dominion",
   title: "Aldmeri Dominion",
   esoItemStyleId: 25,
+  styleName: "Aldmeri Dominion",
   collectionIndex: 14,
   sourceDescription: "AD treasure chests in Cyrodiil",
 } as const satisfies TemperMotifStyle
