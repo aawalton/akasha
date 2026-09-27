@@ -20,7 +20,6 @@
 {"propertySlug":"notification-persona","path":"persona/wallpaper-notification/pages/aria-l1.persona-wallpaper-notification.ts","id":"019f0f60-0eaa-79da-acf6-248674cfaef9"}
 {"propertySlug":"parts","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"personas-crafted","path":"persona/craft-day/pages/sophia-2026-06-22.persona-craft-day.ts","id":"019f15d6-9fd1-7cb8-aa10-1539b8689162"}
-{"propertySlug":"seat-persona","path":"agent/seat/pages/aria-game-master-dragons-and-dungeons/aria-game-master-dragons-and-dungeons.seat.ts","id":"01a0e3a2-8846-7000-95bd-31a729cd23a1"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/aria-world-builder-dragons-and-dungeons/aria-world-builder-dragons-and-dungeons.seat.ts","id":"01a0e3a2-a631-7000-916a-e70d768a21d7"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/aria-writer-dragons-and-dungeons/aria-writer-dragons-and-dungeons.seat.ts","id":"01a0e3a2-ba16-7000-b21d-34c06aab0e11"}
 {"propertySlug":"seat-persona","path":"agent/seat/pages/aria/aria.seat.ts","id":"01a0e38b-efd3-7000-90a3-9c9fd1f3968f"}
