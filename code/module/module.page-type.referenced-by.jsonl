@@ -6110,6 +6110,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-signed-in-user/watcher-signed-in-user.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-stable-read/watcher-stable-read.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-state/watcher-state.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-style-name-landing/watcher-style-name-landing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-task-capture/watcher-task-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-task-landing/watcher-task-landing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/watcher/modules/watcher-task-progress-landing/watcher-task-progress-landing.module.ts","typed":true,"deferred":false}

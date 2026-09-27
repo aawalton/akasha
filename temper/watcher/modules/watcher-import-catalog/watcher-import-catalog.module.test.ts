@@ -289,6 +289,20 @@ test("of captures equally new, the first the saved variables name is taken", () 
   expect(newestCaptureByDomain([first, second])).toEqual([{ key: "skillCatalog", capture: first }])
 })
 
+test("a run hands the whole capture on to be written onto the style pages", async () => {
+  const { patch } = recorder((slug) => ({ id: slug }))
+  const handed: string[] = []
+  await runImportCatalog(FIVE_DOMAINS, {
+    patch,
+    now: () => "2026-09-02T00:00:00.000Z",
+    report: () => {},
+    nameStyles: async (content) => {
+      handed.push(content)
+    },
+  })
+  expect(handed).toEqual([FIVE_DOMAINS])
+})
+
 test("a domain whose page came back empty is reported apart from the ones that changed", async () => {
   const { patch } = recorder((slug) => (slug === "poi" ? null : { id: slug }))
   const outcome = await runImportCatalog(FIVE_DOMAINS, {

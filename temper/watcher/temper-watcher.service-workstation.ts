@@ -106,6 +106,7 @@ export const temperWatcher = {
     "module/watcher-side-file",
     "module/watcher-signed-in-user",
     "module/watcher-stable-read",
+    "module/watcher-style-name-landing",
     "module/watcher-state",
     "module/watcher-task-capture",
     "module/watcher-task-landing",

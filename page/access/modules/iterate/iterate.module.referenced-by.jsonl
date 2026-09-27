@@ -8,4 +8,5 @@
 {"propertySlug":"import","fileName":"iterate.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"iterate.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"iterate.module.code.ts","path":"temper/watcher/modules/watcher-settings-equipment/watcher-settings-equipment.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"iterate.module.code.ts","path":"temper/watcher/modules/watcher-style-name-landing/watcher-style-name-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/access/page-access.domain.ts","id":"01a05bd6-c533-7016-89de-5e52ec2cde2a"}

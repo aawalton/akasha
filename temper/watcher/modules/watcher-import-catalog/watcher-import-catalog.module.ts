@@ -79,6 +79,14 @@ export const watcherImportCatalog = {
       statement: "A caller may hand in the reporter.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Each run writes the style names the capture holds onto the motif style pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller may hand in what writes the style names.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here opens the saved-variables file.",
     },

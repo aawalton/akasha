@@ -9,6 +9,7 @@ import {
   readAccountSummaries,
 } from "akasha/temper/watcher/modules/saved-variables-reader/saved-variables-reader.module.code.ts"
 import { log } from "akasha/temper/watcher/modules/watcher-logging/watcher-logging.module.code.ts"
+import { landStyleNames } from "akasha/temper/watcher/modules/watcher-style-name-landing/watcher-style-name-landing.module.code.ts"
 
 export const CATALOG_DOMAIN_PAGE_TYPE_SLUG = "temper-catalog-domain"
 
@@ -45,6 +46,7 @@ interface ImportCatalogDeps {
   readonly patch?: CatalogDomainPatch
   readonly now?: () => string
   readonly report?: (message: string) => void
+  readonly nameStyles?: (content: string) => Promise<unknown>
 }
 
 interface ImportCatalogOutcome {
@@ -151,6 +153,9 @@ export async function runImportCatalog(
     changedSlugs.push(slug)
     report(`${slug}: changed to apiVersion=${apiVersion} from ${capture.account}`)
   }
+
+  const nameStyles = deps.nameStyles ?? ((held: string) => landStyleNames(held, { report }))
+  await nameStyles(content)
 
   return { changedSlugs, absentSlugs, skipped: undefined }
 }

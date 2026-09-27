@@ -14,6 +14,7 @@
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-import-catalog/watcher-import-catalog.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-run-reporting/watcher-run-reporting.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-style-name-landing/watcher-style-name-landing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/watcher/modules/watcher-token-check/watcher-token-check.module.test.ts","typed":false,"deferred":true}
 {"propertySlug":"import","fileName":"patch.module.code.ts","path":"temper/web/.server/character-import/character-import.module.code.ts","typed":false,"deferred":false}
