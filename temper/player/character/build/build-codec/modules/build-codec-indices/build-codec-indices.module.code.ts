@@ -11,7 +11,6 @@ import { armorTraits } from "akasha/temper/catalog/gear/equipment/modules/armor-
 import { jewelryTraits } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 
-import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 
 import { armorEnchants } from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
@@ -56,7 +55,6 @@ const poisonIds = poisons.ids
 
 
 
-export const skillSlotIds = skillSlots.ids
 
 
 const championPointIds = championPoints.ids

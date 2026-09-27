@@ -41,7 +41,7 @@ export function SkillBarPanelCard({
 }: SkillBarPanelCardProps) {
   return (
     <PanelCard id={id} collapsible={true} title={title} className={className}>
-      {activeSkillSlots.map((slot, i) => {
+      {activeSkillSlots().map((slot, i) => {
         const skillId = skills[i]
         return (
           <SkillSlotCard

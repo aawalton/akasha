@@ -1,7 +1,9 @@
 import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import type { StandardArmorWeightId } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
-import type { SkillSlotId } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
-import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
+import {
+  type SkillSlotId,
+  skillSlots,
+} from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import { weaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
 import type { SkillLineCategoryId } from "akasha/temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
@@ -36,7 +38,7 @@ export function getSlottedSkillLineIds(
 ): readonly SkillLineId[] {
   const skillLineIds = new Set<SkillLineId>()
 
-  for (const slot of skillSlots.list) {
+  for (const slot of skillSlots().list) {
     const skillId = skillBar[slot.id]
     if (skillId === "no-skill") continue
 
@@ -55,7 +57,7 @@ export function countSlottedAbilitiesFromLine(
 ): number {
   let count = 0
 
-  for (const slot of skillSlots.list) {
+  for (const slot of skillSlots().list) {
     const skillId = skillBar[slot.id]
     if (skillId === "no-skill") continue
 

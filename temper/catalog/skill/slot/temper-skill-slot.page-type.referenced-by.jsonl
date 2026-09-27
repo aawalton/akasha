@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"temper-skill-slot.page-type.ts","path":"temper/catalog/skill/slot/modules/skill-slot-ids-keeping/skill-slot-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-slot.page-type.ts","path":"temper/player/character/source/modules/character-source-reading/character-source-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-skill-slot.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-slot.page-type.types.ts","path":"temper/catalog/skill/slot/pages/active-1.temper-skill-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-slot.page-type.types.ts","path":"temper/catalog/skill/slot/pages/active-2.temper-skill-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-skill-slot.page-type.types.ts","path":"temper/catalog/skill/slot/pages/active-3.temper-skill-slot.ts","typed":true,"deferred":false}

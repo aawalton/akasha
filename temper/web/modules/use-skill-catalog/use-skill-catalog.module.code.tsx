@@ -24,6 +24,7 @@ import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { catalogTemplatesOf } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
+import { temperSkillSlot } from "akasha/temper/catalog/skill/slot/temper-skill-slot.page-type.ts"
 import { temperAffixScript } from "akasha/temper/catalog/skill/temper-affix-script/temper-affix-script.page-type.ts"
 import { temperClass } from "akasha/temper/catalog/skill/temper-class/temper-class.page-type.ts"
 import { temperFocusScript } from "akasha/temper/catalog/skill/temper-focus-script/temper-focus-script.page-type.ts"
@@ -84,6 +85,7 @@ export function useSkillCatalog(): SkillCatalog | null {
   const otherDebuffs = usePages({ pageTypeSlug: temperDebuffOther.slug, limit: EVERY })
   const roles = usePages({ pageTypeSlug: temperCharacterRole.slug, limit: EVERY })
   const bars = usePages({ pageTypeSlug: temperSkillBar.slug, limit: EVERY })
+  const skillSlots = usePages({ pageTypeSlug: temperSkillSlot.slug, limit: EVERY })
   const races = usePages({ pageTypeSlug: temperRace.slug, limit: EVERY })
   const qualities = usePages({ pageTypeSlug: temperQuality.slug, limit: EVERY })
   const armorSlots = usePages({ pageTypeSlug: temperArmorSlot.slug, limit: EVERY })
@@ -113,6 +115,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     races,
     roles,
     bars,
+    skillSlots,
     majorDebuffs,
     minorDebuffs,
     otherDebuffs,
@@ -174,6 +177,7 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperDebuffOther.slug, otherDebuffs.rows],
       [temperCharacterRole.slug, roles.rows],
       [temperSkillBar.slug, bars.rows],
+      [temperSkillSlot.slug, skillSlots.rows],
       [temperRace.slug, races.rows],
       [temperQuality.slug, qualities.rows],
       [temperSkillPoint.slug, skillPoints.rows],
@@ -220,6 +224,7 @@ export function useSkillCatalog(): SkillCatalog | null {
     otherDebuffs.rows,
     roles.rows,
     bars.rows,
+    skillSlots.rows,
     races.rows,
     qualities.rows,
     skillPoints.rows,

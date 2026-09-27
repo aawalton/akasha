@@ -26,7 +26,7 @@ export const extractSkills: PipelineStage = (build, context) => {
     const filterEffects = (effects: readonly Effect[]): Effect[] =>
       effects.filter((e: Effect) => include("slottedBehavior" in e ? e.slottedBehavior : undefined))
 
-    for (const slot of skillSlots.list) {
+    for (const slot of skillSlots().list) {
       const skillId = bar[slot.id]
       if (skillId === "no-skill") continue
 

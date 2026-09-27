@@ -1,10 +1,10 @@
+import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import {
   getPassiveSkillId,
   getSkillId,
   getSkillIndex,
   passiveSkillIds,
   skillBits,
-  skillSlotIds,
 } from "akasha/temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts"
 import type { BitReaderState } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
 import { readBits } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-reader/build-hash-bit-reader.module.code.ts"
@@ -16,12 +16,13 @@ import type { SkillId } from "akasha/temper/player/character/skill/modules/chara
 
 export function encodeSkills(writer: BitWriterState, build: CharacterState): undefined {
   const bits = skillBits()
-  for (const slotId of skillSlotIds) {
+  const slotIds = skillSlots().ids
+  for (const slotId of slotIds) {
     const skillId = build.skills["primary-skill-bar"][slotId]
     writeBits(writer, getSkillIndex(skillId), bits)
   }
 
-  for (const slotId of skillSlotIds) {
+  for (const slotId of slotIds) {
     const skillId = build.skills["backup-skill-bar"][slotId]
     writeBits(writer, getSkillIndex(skillId), bits)
   }
@@ -36,8 +37,9 @@ export function encodePassives(writer: BitWriterState, build: CharacterState): u
 
 export function decodeSkills(reader: BitReaderState): CharacterState["skills"] {
   const bits = skillBits()
-  const primarySkillBar = recordFromKeys(skillSlotIds, () => getSkillId(readBits(reader, bits)))
-  const backupSkillBar = recordFromKeys(skillSlotIds, () => getSkillId(readBits(reader, bits)))
+  const slotIds = skillSlots().ids
+  const primarySkillBar = recordFromKeys(slotIds, () => getSkillId(readBits(reader, bits)))
+  const backupSkillBar = recordFromKeys(slotIds, () => getSkillId(readBits(reader, bits)))
 
   return {
     "primary-skill-bar": primarySkillBar,

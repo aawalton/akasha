@@ -120,7 +120,7 @@ export function getSkillsToRemoveOnClassChange(
     const skillBar = currentSkills[barId]
     if (!skillBar) continue
 
-    for (const slot of skillSlots.list) {
+    for (const slot of skillSlots().list) {
       const skillId = skillBar[slot.id]
       if (skillId === "") continue
 

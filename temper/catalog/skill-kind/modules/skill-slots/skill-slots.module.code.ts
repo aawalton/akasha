@@ -1,21 +1,63 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import {
+  createDataFile,
+  type DataFile,
+} from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { SkillSlotId as SkillSlotPageSlug } from "akasha/temper/catalog/skill/slot/modules/skill-slot-ids/skill-slot-ids.data-table.code.ts"
+
+export type SkillSlotId = SkillSlotPageSlug
 
 interface SkillSlotTemplate {
-  id: string
+  id: SkillSlotId
   name: string
 }
 
-const SKILL_SLOT_DATA = {
-  "active-1": { id: "active-1", name: "Active 1" },
-  "active-2": { id: "active-2", name: "Active 2" },
-  "active-3": { id: "active-3", name: "Active 3" },
-  "active-4": { id: "active-4", name: "Active 4" },
-  "active-5": { id: "active-5", name: "Active 5" },
-  "ultimate": { id: "ultimate", name: "Ultimate" },
-} as const satisfies Record<string, SkillSlotTemplate>
+type SkillSlots = DataFile<SkillSlotId, SkillSlotTemplate>
 
-export const skillSlots = createDataFile<SkillSlotTemplate>()(SKILL_SLOT_DATA)
+type Row = Readonly<Record<string, unknown>>
 
-export type SkillSlotId = (typeof skillSlots.ids)[number]
+const ULTIMATE: SkillSlotId = "ultimate"
 
-export const activeSkillSlots = skillSlots.list.filter((slot) => slot.id !== "ultimate")
+const UNREAD =
+  "the skill slots are read with the skill catalogue, and nothing has read them yet — gate the screen on `SkillCatalogGate`, or await `loadSkillCatalog()` where the work starts"
+
+class SkillSlotsUnread extends Error {
+  constructor() {
+    super(UNREAD)
+    this.name = "SkillSlotsUnread"
+  }
+}
+
+function slotIn(row: Row): readonly [number, SkillSlotTemplate] {
+  const at = `the skill slot page \`${String(row.slug)}\``
+  if (typeof row.hashPlace !== "number") throw new Error(`${at} states no hash place`)
+  if (typeof row.title !== "string") throw new Error(`${at} states no title`)
+  return [row.hashPlace, { id: String(row.slug) as SkillSlotId, name: row.title }]
+}
+
+export function skillSlotsOf(pages: Iterable<Row>): SkillSlots {
+  const slots = [...pages]
+    .map(slotIn)
+    .sort(([one], [two]) => one - two)
+    .map(([, slot]) => slot)
+  const data = Object.fromEntries(slots.map((slot) => [slot.id, slot])) as Record<
+    SkillSlotId,
+    SkillSlotTemplate
+  >
+  return createDataFile<SkillSlotTemplate>()(data)
+}
+
+let held: SkillSlots | null = null
+
+export function holdSkillSlots(read: SkillSlots): SkillSlots {
+  held = read
+  return read
+}
+
+export function skillSlots(): SkillSlots {
+  if (held === null) throw new SkillSlotsUnread()
+  return held
+}
+
+export function activeSkillSlots(): readonly SkillSlotTemplate[] {
+  return skillSlots().list.filter((slot) => slot.id !== ULTIMATE)
+}

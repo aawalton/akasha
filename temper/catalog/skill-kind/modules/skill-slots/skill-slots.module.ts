@@ -9,12 +9,12 @@ export const skillSlots = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the skill pages rather than by hand.",
+      statement:
+        "The skill slots are read from the skill slot pages and held with the skill catalogue.",
     },
     {
       decisionKind: "decision-kind/constraint",
-      statement: "A skill slot's place in this table is the index a build hash has.",
+      statement: "A skill slot's place among the slots is its page's hash place.",
     },
   ],
-  hashIndexed: ["SKILL_SLOT_DATA"],
 } as const satisfies Module

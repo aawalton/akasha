@@ -81,7 +81,7 @@ export function SkillsPanel({
         <SkillBarPanelCard
           id="primary-skill-bar"
           title="Primary Bar"
-          skills={activeSkillSlots.map((slot) => skills["primary-skill-bar"][slot.id])}
+          skills={activeSkillSlots().map((slot) => skills["primary-skill-bar"][slot.id])}
           ultimate={skills["primary-skill-bar"]["ultimate"]}
           findSkill={skillBars.findSkill}
           onSkillClick={(slotId) => skillBars.openSkillDialog("primary", slotId)}
@@ -93,7 +93,7 @@ export function SkillsPanel({
         <SkillBarPanelCard
           id="backup-skill-bar"
           title="Backup Bar"
-          skills={activeSkillSlots.map((slot) => skills["backup-skill-bar"][slot.id])}
+          skills={activeSkillSlots().map((slot) => skills["backup-skill-bar"][slot.id])}
           ultimate={skills["backup-skill-bar"]["ultimate"]}
           findSkill={skillBars.findSkill}
           onSkillClick={(slotId) => skillBars.openSkillDialog("backup", slotId)}
