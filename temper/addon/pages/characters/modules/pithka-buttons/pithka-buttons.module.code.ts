@@ -16,7 +16,7 @@ import "akasha/temper/eso/type/eso-interface-extra-5/eso-interface-extra-5.type-
 
 const BSTATE_NORMAL = 1
 
-export type ButtonSettings = {
+type ButtonSettings = {
   readonly textureBundle: TextureBundle
   readonly parent?: Control
   readonly size?: number
@@ -48,7 +48,7 @@ function showOn(this: void, control: ButtonControl, bundle: TextureBundle, on: b
   control.SetAlpha(on ? 1 : 0.5)
 }
 
-export type ToggleSettings = ButtonSettings & { readonly stateKey: CallbackKey }
+type ToggleSettings = ButtonSettings & { readonly stateKey: CallbackKey }
 
 export function toggleButton(this: void, settings: ToggleSettings): ButtonControl {
   const control = basicButton(settings)
@@ -66,7 +66,7 @@ export function toggleButton(this: void, settings: ToggleSettings): ButtonContro
   return control
 }
 
-export type EnumToggleSettings = ButtonSettings & {
+type EnumToggleSettings = ButtonSettings & {
   readonly savedVarKey: "currentTray"
   readonly enumValue: string
 }
