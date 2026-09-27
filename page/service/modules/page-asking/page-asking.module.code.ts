@@ -22,7 +22,11 @@ import {
   type Reads,
   type Testing,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
-import { pickingFor } from "akasha/page/service/modules/page-picking/page-picking.module.code.ts"
+import {
+  type Paged,
+  pagedFor,
+  pickingFor,
+} from "akasha/page/service/modules/page-picking/page-picking.module.code.ts"
 import type {
   Faulted,
   Refusal,
@@ -225,11 +229,15 @@ type Withheld = readonly string[] | Withholding
 
 function loreRefused(
   root: string,
-  sorted: readonly Valued[],
+  paths: readonly string[],
   withheld: Withheld
 ): Faulted<Asked> | null {
-  if (!sorted.some((one) => pathWithheld(root, withheld, one.path))) return null
+  if (!paths.some((one) => pathWithheld(root, withheld, one))) return null
   return { refused: LORE_REFUSED, withheld: true, fault: "caller" }
+}
+
+function pathsOf(sorted: readonly Valued[]): readonly string[] {
+  return sorted.map((one) => one.path)
 }
 
 function countedFirst(
@@ -243,7 +251,7 @@ function countedFirst(
   if (darkened !== null) return { refused: darkened, fault: "service" }
   const held = counted.rows.filter((one) => narrows(one.value, query.where))
   const sorted = orderedIn(query, held)
-  const lore = loreRefused(root, sorted, withheld)
+  const lore = loreRefused(root, pathsOf(sorted), withheld)
   if (lore !== null) return lore
   return answering(query, takenIn(query, sorted), sorted.length, counted.read)
 }
@@ -253,19 +261,21 @@ function narrowedFirst(
   query: Query,
   counting: readonly Counting[],
   working: boolean,
-  withheld: Withheld
+  withheld: Withheld,
+  paged: Paged | null
 ): Faulted<Asked> {
   const rows = counting.map((one) => one.row)
   const held = rows.filter((one) => narrows(one.value, query.where))
   const sorted = orderedIn(query, held)
-  const lore = loreRefused(root, sorted, withheld)
+  const lore = loreRefused(root, paged?.paths ?? pathsOf(sorted), withheld)
   if (lore !== null) return lore
-  const taken = takenIn(query, sorted)
-  if (!working) return answering(query, taken, sorted.length)
+  const taken = paged === null ? takenIn(query, sorted) : sorted
+  const n = paged?.paths.length ?? sorted.length
+  if (!working) return answering(query, taken, n)
   const counted = computedOver(root, counting, taken)
   const darkened = unlit(query, counted.dark)
   if (darkened !== null) return { refused: darkened, fault: "service" }
-  return answering(query, counted.rows, sorted.length, counted.read)
+  return answering(query, counted.rows, n, counted.read)
 }
 
 export function asking(root: string, query: Query, withheld: Withheld = []): Faulted<Asked> {
@@ -294,6 +304,9 @@ export function asking(root: string, query: Query, withheld: Withheld = []): Fau
     const worked = workedIn(carried)
     const narrowing = narrowsOn(query, worked)
     const working = carriesWorked(query, worked)
+    const kinds = kindsFor(reading, query.pageTypeSlug)
+    const paged =
+      narrowing || typeof withheld === "function" ? null : pagedFor(reading, kinds, query)
     const counting = gatheredFor(
       root,
       query.pageTypeSlug,
@@ -302,7 +315,7 @@ export function asking(root: string, query: Query, withheld: Withheld = []): Fau
       reading,
       entriesWanted(query, worked),
       testsFor(query),
-      pickingFor(reading, query.where),
+      paged?.picking ?? pickingFor(reading, query.where),
       narrowing || working
     ).map((one) => {
       const row = sluggedIn(one.row)
@@ -310,7 +323,7 @@ export function asking(root: string, query: Query, withheld: Withheld = []): Fau
       return row === one.row && computed === one.computed ? one : { row, computed }
     })
     if (narrowing) return countedFirst(root, query, counting, withheld)
-    return narrowedFirst(root, query, counting, working, withheld)
+    return narrowedFirst(root, query, counting, working, withheld, paged)
   } catch (thrown) {
     return { refused: thrown instanceof Error ? thrown.message : String(thrown), fault: "service" }
   }

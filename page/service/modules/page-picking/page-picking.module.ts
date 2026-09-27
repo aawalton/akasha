@@ -59,6 +59,15 @@ export const pagePicking = {
       statement: "The pages named may be more than match, and are never fewer.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A question with a limit, and no `where` and no order, names only the pages it takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Those pages are taken by path off the index, which counts every page matching.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here runs a test or reads a page's own body.",
     },

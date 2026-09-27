@@ -1,4 +1,5 @@
 import {
+  everyOfType,
   listedAnywhere,
   listedAt,
   listedById,
@@ -108,4 +109,28 @@ export function pickingFor(reading: Reading, where: Where | undefined): Picking 
     relations ??= kindsUnder(RELATION, reading)
     return relatedIn(reading, kind, where, relations)
   }
+}
+
+export type Paging = {
+  readonly where?: Where
+  readonly sortBy?: string
+  readonly descending?: boolean
+  readonly limit?: number
+  readonly offset?: number
+}
+
+export type Paged = {
+  readonly paths: readonly string[]
+  readonly picking: Picking
+}
+
+export function pagedFor(reading: Reading, kinds: readonly string[], paging: Paging): Paged | null {
+  const { limit } = paging
+  if (paging.where !== undefined || paging.sortBy !== undefined || limit === undefined) return null
+  const listed = kinds.flatMap((kind) => everyOfType(reading, kind).map((one) => one.path))
+  const paths = [...new Set(listed)].sort()
+  const ordered = paging.descending === true ? [...paths].reverse() : paths
+  const from = paging.offset ?? 0
+  const taken = ordered.slice(from, from + limit)
+  return { paths, picking: (kind) => taken.filter((path) => partedIn(path)?.pageType === kind) }
 }
