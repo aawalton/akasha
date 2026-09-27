@@ -25,4 +25,5 @@ export const otherwhere00037 = {
     "The smell of fresh bread drifts in from somewhere beyond the hall.",
   ],
   lore: ["place/otherwhere-main-hall", "lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
