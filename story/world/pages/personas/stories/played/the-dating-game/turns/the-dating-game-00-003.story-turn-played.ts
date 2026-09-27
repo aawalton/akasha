@@ -10,7 +10,7 @@ export const theDatingGame00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan", "character-other/the-dating-game-echo"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     '"Hi there! Would you be interested in some company? I\'d love someone to chat with on the hike."',
   beats: [
@@ -36,4 +36,5 @@ export const theDatingGame00003 = {
   ],
   lore: ["lore/the-dating-game-boulder-woman"],
   reviewedBy: ["story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

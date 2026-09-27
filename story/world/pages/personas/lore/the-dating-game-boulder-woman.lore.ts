@@ -52,5 +52,25 @@ export const theDatingGameBoulderWoman = {
       fact: "She understands everything said to her and answers with the words she gives back.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Her freckles run down her neck and under her jacket collar.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: 'She answered Alan\'s offer of company with "Company," then "I\'d love."',
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "She slid down off the boulder and started up the canyon trail with Alan.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "She walks closer at Alan's shoulder than a stranger usually walks.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Every word she said after Alan called up to her was one of his.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Lore
