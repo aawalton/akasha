@@ -10,7 +10,7 @@ export const theDatingGame00024 = {
   position: 24,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "Rather than go home, I’m feeling social still, so I go for a walk around my neighborhood instead",
   beats: [
@@ -27,5 +27,6 @@ export const theDatingGame00024 = {
   ],
   lore: ["lore/the-dating-game-grace"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T17:03:00.000Z",
 } as const satisfies StoryTurnPlayed

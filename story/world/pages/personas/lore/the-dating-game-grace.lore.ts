@@ -18,15 +18,15 @@ export const theDatingGameGrace = {
     },
     {
       fact: "Grace looks twenty-two, with long, straight, parted near-black hair.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
       fact: "Grace's eyes are gold and seem lit from inside; her mouth is red.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
       fact: "An unlit brass storm lantern sits on the step beside her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
   secrets: "jsonl",
