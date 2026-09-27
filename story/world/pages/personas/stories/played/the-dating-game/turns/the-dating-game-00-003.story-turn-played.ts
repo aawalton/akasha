@@ -7,7 +7,7 @@ export const theDatingGame00003 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 3,
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     '"Hi there! Would you be interested in some company? I\'d love someone to chat with on the hike."',
   beats: [
@@ -28,5 +28,9 @@ export const theDatingGame00003 = {
     "She walks close at his shoulder and keeps glancing at him, bright-eyed.",
     "Every word she has said so far was one of his, and she is plainly waiting for him to say more.",
   ],
+  issues: [
+    '"Every word she has said so far was one of his" - her first word, "Take," was the climber\'s',
+  ],
   lore: ["lore/the-dating-game-boulder-woman"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
