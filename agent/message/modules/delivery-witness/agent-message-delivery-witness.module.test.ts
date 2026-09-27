@@ -88,7 +88,7 @@ describe("decideWitnessTick", () => {
         { kind: "injection", messageId: other }
       ),
     })
-    expect(decision.retired[0]).toEqual({ messageId: ID, reason: "overtaken" })
+    expect(decision.retired[0]).toEqual({ messageId: ID, reason: "overtaken", verdict: "lost" })
   })
 
   test("does nothing where nothing is pending", () => {
@@ -159,6 +159,53 @@ describe("startDeliveryWitness", () => {
     witness.track(ID)
     await witness.tick()
     expect(marked).toEqual([ID])
+  })
+
+  function witnessOver(transcript: string | null) {
+    const offered: string[] = []
+    const declined: string[] = []
+    const witness = startDeliveryWitness({
+      agentId: "agent",
+      advance: async () => null,
+      currentTranscriptPath: () => "/t/one.jsonl",
+      heartbeatMs: 1,
+      readTranscript: () => transcript,
+      scheduleInterval: () => () => {},
+      logDecline: (messageId) => declined.push(messageId),
+      offerAgain: (messageId) => offered.push(messageId),
+    })
+    return { witness, offered, declined }
+  }
+
+  async function lookUntilGivenUp(witness: { tick: () => Promise<void> }): Promise<void> {
+    for (let look = 0; look < WITNESS_OBSERVATION_LIMIT; look += 1) await witness.tick()
+  }
+
+  test("offers again, once, a message the session never took in", async () => {
+    const { witness, offered, declined } = witnessOver(null)
+    witness.track(ID)
+    await lookUntilGivenUp(witness)
+    expect(offered).toEqual([ID])
+    expect(declined).toEqual([])
+    witness.track(ID)
+    await lookUntilGivenUp(witness)
+    expect(offered).toEqual([ID])
+    expect(declined).toEqual([ID])
+  })
+
+  test("never offers again a message the session took in", async () => {
+    const other = "66666666-7777-8888-9999-aaaaaaaaaaaa"
+    const wrapper = (id: string) => `<channel source="user" message_id="${id}">a word</channel>`
+    const overtaken = [
+      JSON.stringify({ type: "queue-operation", operation: "enqueue", content: wrapper(ID) }),
+      JSON.stringify({ type: "queue-operation", operation: "enqueue", content: wrapper(other) }),
+      JSON.stringify({ type: "user", message: { content: wrapper(other) } }),
+    ].join("\n")
+    const { witness, offered, declined } = witnessOver(overtaken)
+    witness.track(ID)
+    await witness.tick()
+    expect(offered).toEqual([])
+    expect(declined).toEqual([ID])
   })
 
   test("lets a message go once its take lands", async () => {

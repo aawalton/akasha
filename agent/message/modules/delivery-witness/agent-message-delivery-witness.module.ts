@@ -34,7 +34,13 @@ export const agentMessageDeliveryWitness = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A message given up on stays claimed rather than being offered again.",
+      statement:
+        "A message given up on that the session took in stays claimed rather than offered again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A message no transcript shows the session took in is let go and offered again once.",
     },
     {
       decisionKind: "decision-kind/departure",

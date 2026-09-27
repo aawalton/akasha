@@ -20,9 +20,15 @@ export interface PendingWitness {
   readonly observations: number
 }
 
+interface RetiredWitness {
+  readonly messageId: string
+  readonly reason: DeliveryReason
+  readonly verdict: DeliveryVerdict
+}
+
 interface WitnessTickDecision {
   readonly advance: readonly PendingWitness[]
-  readonly retired: readonly { readonly messageId: string; readonly reason: DeliveryReason }[]
+  readonly retired: readonly RetiredWitness[]
   readonly next: readonly PendingWitness[]
 }
 
@@ -45,7 +51,7 @@ export function decideWitnessTick(args: {
   const observationLimit = args.observationLimit ?? WITNESS_OBSERVATION_LIMIT
   const transcripts = [...args.recordsByPath.values()]
   const advance: PendingWitness[] = []
-  const retired: { messageId: string; reason: DeliveryReason }[] = []
+  const retired: RetiredWitness[] = []
   const next: PendingWitness[] = []
 
   for (const entry of args.pending) {
@@ -71,7 +77,11 @@ export function decideWitnessTick(args: {
     })
     if (action === "advance") advance.push({ ...entry, observations })
     else if (action === "retire")
-      retired.push({ messageId: entry.messageId, reason: decision.reason })
+      retired.push({
+        messageId: entry.messageId,
+        reason: decision.reason,
+        verdict: decision.verdict,
+      })
     else next.push({ ...entry, observations })
   }
 
@@ -100,6 +110,7 @@ export function startDeliveryWitness(args: {
   readonly logDecline?: (messageId: string, reason: DeliveryReason) => void
   readonly logRefusal?: (messageId: string, detail: string) => void
   readonly markInjected?: (messageId: string) => void
+  readonly offerAgain?: (messageId: string) => void
 }): DeliveryWitness {
   const readTranscript = args.readTranscript ?? textThere
   const currentTranscriptPath = args.currentTranscriptPath
@@ -125,6 +136,24 @@ export function startDeliveryWitness(args: {
   }
 
   let pending: readonly PendingWitness[] = []
+  const offeredAgain = new Set<string>()
+
+  const giveUp = ({ messageId, reason, verdict }: RetiredWitness): undefined => {
+    const unseen = verdict === "undetermined" && !offeredAgain.has(messageId)
+    if (!unseen || args.offerAgain === undefined) {
+      logDecline(messageId, reason)
+      return undefined
+    }
+    offeredAgain.add(messageId)
+    console.error(
+      `[messages] no transcript shows the session took in ${messageId}; its claim is let go to offer it again`
+    )
+    try {
+      args.offerAgain(messageId)
+    } catch (err) {
+      console.error(`[messages] delivery witness could not offer ${messageId} again:`, err)
+    }
+  }
 
   const tick = async (): Promise<void> => {
     if (pending.length === 0) return
@@ -141,7 +170,7 @@ export function startDeliveryWitness(args: {
 
     const decision = decideWitnessTick({ pending, recordsByPath })
     pending = decision.next
-    for (const { messageId, reason } of decision.retired) logDecline(messageId, reason)
+    for (const entry of decision.retired) giveUp(entry)
     for (const entry of decision.advance) {
       try {
         args.markInjected?.(entry.messageId)
