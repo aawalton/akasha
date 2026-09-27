@@ -18,5 +18,10 @@ export const audhdalanWebHome = {
       title: "Resources",
       text: "- [AutCon 2026 — Making Every Spoon Count](/autcon-2026)\\\n  Three mental models for tracking autistic energy, simple to instrumented.\n- [Safety Levels](/safety-levels)\\\n  The 8-row anchor table for Alan's Safety scale.\n- [Google Sheets template](https://docs.google.com/spreadsheets/d/1KR1xMg8LbwwHiSfS8-2eSrb0t4xKVgn0kgnfuvz4zuY/)\\\n  Starter scaffolds at all three levels — Spoon Counting, Stoplight, Resource Bars.\n- [Notion template](https://cool-crocus-712.notion.site/Making-Every-Spoon-Count-Templates-3605cf0bf24a808a9ae6fb09aa0af644)\\\n  Starter scaffolds at all three levels — Spoon Counting, Stoplight, Resource Bars.",
     },
+    {
+      anchor: "stay-in-touch",
+      title: "Stay in touch",
+      text: "Occasional notes on autism, ADHD, and energy management.",
+    },
   ],
 } as const satisfies SiteDocument

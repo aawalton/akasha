@@ -26,6 +26,8 @@ const ABOUT = "about-alan"
 
 const RESOURCES = "resources"
 
+const IN_TOUCH = "stay-in-touch"
+
 const DECK = namedAs(SITE_DOCUMENT, "audhdalan-web-autcon-2026", null)
 
 const PICTURED = "about"
@@ -100,6 +102,7 @@ export default function Home({ loaderData }: { loaderData: HomeLoaderData }) {
   const { document } = loaderData
   const about = document.sections.find((one) => one.anchor === ABOUT)
   const resources = document.sections.find((one) => one.anchor === RESOURCES)
+  const inTouch = document.sections.find((one) => one.anchor === IN_TOUCH)
   return (
     <PageLayout>
       <div className="mx-auto flex w-full max-w-4xl flex-col gap-20 px-6 pt-20 pb-16">
@@ -113,7 +116,7 @@ export default function Home({ loaderData }: { loaderData: HomeLoaderData }) {
           <AboutSection section={about} picture={loaderData.picture} caption={loaderData.caption} />
         )}
         {resources === undefined ? null : <ResourcesSection section={resources} />}
-        <SubscribeForm />
+        {inTouch === undefined ? null : <SubscribeForm section={inTouch} />}
       </div>
     </PageLayout>
   )

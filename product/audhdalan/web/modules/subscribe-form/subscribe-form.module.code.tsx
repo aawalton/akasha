@@ -3,6 +3,7 @@ import { Heading } from "akasha/design/interface/primitive/modules/heading/headi
 import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
 import { Separator } from "akasha/design/interface/primitive/modules/separator/separator.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import type { DrawnSection } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { useId, useState } from "react"
 import { z } from "zod"
 
@@ -14,7 +15,7 @@ type Status =
   | { kind: "success" }
   | { kind: "error"; message: string }
 
-export function SubscribeForm() {
+export function SubscribeForm({ section }: { section: DrawnSection }) {
   const inputId = useId()
   const [email, setEmail] = useState("")
   const [status, setStatus] = useState<Status>({ kind: "idle" })
@@ -56,13 +57,15 @@ export function SubscribeForm() {
     <section className="flex flex-col gap-6">
       <div className="flex flex-col gap-4">
         <Heading variant="subsection" as="h2" className="font-bold text-3xl text-primary">
-          Stay in touch
+          {section.title}
         </Heading>
         <Separator className="w-24 bg-accent" />
       </div>
-      <Text variant="prose" className="text-lg">
-        Occasional notes on autism, ADHD, and energy management.
-      </Text>
+      {section.text === null ? null : (
+        <Text variant="prose" className="text-lg">
+          {section.text}
+        </Text>
+      )}
       {status.kind === "success" ? (
         <Text variant="prose" className="text-accent text-lg" aria-live="polite">
           Thanks — you're on the list.
