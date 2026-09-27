@@ -1,9 +1,6 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
-import {
-  formatCooldown,
-  formatDamageType,
-} from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
+import { formatCooldown } from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
 import {
   formatBuffType,
   formatDebuffType,
@@ -14,6 +11,11 @@ import {
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { calculateEffectValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+import { temperDamageType } from "akasha/temper/catalog/skill/damage-type/temper-damage-type.page-type.ts"
+import {
+  type KeyedTitles,
+  titleIn,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { formatAbbreviated } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
 import type {
   ArmorPieceCounts,
@@ -23,6 +25,7 @@ import {
   effectDamage,
   effectSeconds,
 } from "akasha/temper/web/modules/effect-card/effect-card.module.code.tsx"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import {
   type Phrase,
   usePhrase,
@@ -55,7 +58,14 @@ interface EffectBadgeProps {
 
 export function EffectBadge({ effect, variant, stats, armorPieceCounts }: EffectBadgeProps) {
   const phrase = usePhrase()
-  const { label, value } = getEffectBadgeDisplay(effect, phrase, stats, armorPieceCounts)
+  const damageTypes = useKeyedTitles(temperDamageType.slug)
+  const { label, value } = getEffectBadgeDisplay(
+    effect,
+    phrase,
+    damageTypes,
+    stats,
+    armorPieceCounts
+  )
 
   return (
     <Badge variant={variant}>
@@ -68,11 +78,13 @@ export function EffectBadge({ effect, variant, stats, armorPieceCounts }: Effect
 function getEffectBadgeDisplay(
   effect: CompanionEffect,
   phrase: Phrase,
+  damageTypes: KeyedTitles | null,
   stats?: CompanionFormulaStats,
   armorPieceCounts?: ArmorPieceCounts
 ): { label: string; value: string | null } {
   const seconds = effectSeconds.bind(null, phrase)
   const damage = effectDamage.bind(null, phrase)
+  const formatDamageType = (type: string) => titleIn(damageTypes, type)
   switch (effect.type) {
     case "damage": {
       const damageValue = calculateEffectValue(effect, stats)

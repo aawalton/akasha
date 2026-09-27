@@ -11,5 +11,13 @@ export const effectCard = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A damage type is named by its temper-damage-type page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A single target is named by its target type alone.",
+    },
   ],
 } as const satisfies Module

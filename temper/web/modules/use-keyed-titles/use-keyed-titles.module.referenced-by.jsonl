@@ -3,6 +3,8 @@
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/modules/completion-page-filter-constants/completion-page-filter-constants.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/modules/effect-badge/effect-badge.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/modules/effect-card/effect-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-keyed-titles.module.code.tsx","path":"temper/web/modules/notifications-tab/notifications-tab.module.code.tsx","typed":false,"deferred":false}

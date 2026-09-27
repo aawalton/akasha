@@ -7,5 +7,6 @@
 {"propertySlug":"import","fileName":"skill-activation-effect-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/condition-evaluator/condition-evaluator.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"skill-activation-effect-types.module.code.ts","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"skill-activation-effect-types.module.code.ts","path":"temper/web/modules/constraint-badges/constraint-badges.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"skill-activation-effect-types.module.code.ts","path":"temper/web/modules/effect-card/effect-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"skill-activation-effect-types.module.code.ts","path":"temper/web/modules/targeting-badges/targeting-badges.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill-kind/temper-skill-kind.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}

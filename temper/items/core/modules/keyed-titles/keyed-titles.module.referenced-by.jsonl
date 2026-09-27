@@ -13,6 +13,8 @@
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/companion-skill-detail-content/companion-skill-detail-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/completion-page-filter-constants/completion-page-filter-constants.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/effect-badge/effect-badge.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/effect-card/effect-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/notifications-tab/notifications-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"keyed-titles.module.code.ts","path":"temper/web/modules/use-passive-filter/use-passive-filter.module.code.ts","typed":false,"deferred":false}

@@ -6,4 +6,10 @@ export const companionEffectFormatters = {
   slug: "companion-effect-formatters",
   definition: "how a companion skill effect is written out for a reader",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A name it gives is read from a page; the web words the rest.",
+    },
+  ],
 } as const satisfies Module

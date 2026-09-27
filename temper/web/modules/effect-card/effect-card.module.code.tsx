@@ -3,8 +3,8 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import {
-  formatDamageType,
-  formatTargetInfo,
+  targetScopeName,
+  targetTypeName,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
 import {
   formatBuffType,
@@ -15,7 +15,14 @@ import {
 import type { CompanionEffect } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-effect-components/companion-skill-effect-components.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { calculateEffectValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-tooltip/companion-skill-tooltip.module.code.ts"
+import { temperDamageType } from "akasha/temper/catalog/skill/damage-type/temper-damage-type.page-type.ts"
+import type { Targeting } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import {
+  type KeyedTitles,
+  titleIn,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { formatAbbreviated } from "akasha/temper/player/character/formula-framework/modules/number-format/number-format.module.code.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import {
   type Phrase,
   usePhrase,
@@ -46,6 +53,7 @@ import { effectCardRetaliation } from "akasha/temper/web/phrase/pages/effect-car
 import { effectCardSeconds } from "akasha/temper/web/phrase/pages/effect-card-seconds.temper-web-phrase.ts"
 import { effectCardShield } from "akasha/temper/web/phrase/pages/effect-card-shield.temper-web-phrase.ts"
 import { effectCardSynergy } from "akasha/temper/web/phrase/pages/effect-card-synergy.temper-web-phrase.ts"
+import { effectCardTarget } from "akasha/temper/web/phrase/pages/effect-card-target.temper-web-phrase.ts"
 import { effectCardUltimateGeneration } from "akasha/temper/web/phrase/pages/effect-card-ultimate-generation.temper-web-phrase.ts"
 
 const NAMED_BY_TYPE = {
@@ -75,7 +83,8 @@ interface EffectCardProps {
 export function EffectCard({ effect, stats }: EffectCardProps) {
   const surface = useSurface()
   const phrase = usePhrase()
-  const { label, value, targetInfo } = getEffectCardDisplay(effect, phrase, stats)
+  const damageTypes = useKeyedTitles(temperDamageType.slug)
+  const { label, value, targetInfo } = getEffectCardDisplay(effect, phrase, damageTypes, stats)
 
   return (
     <div
@@ -96,6 +105,7 @@ export function EffectCard({ effect, stats }: EffectCardProps) {
 function getEffectCardDisplay(
   effect: CompanionEffect,
   phrase: Phrase,
+  damageTypes: KeyedTitles | null,
   stats?: CompanionFormulaStats
 ): {
   label: string
@@ -104,6 +114,12 @@ function getEffectCardDisplay(
 } {
   const seconds = (count: number) => effectSeconds(phrase, count)
   const damage = (type: string) => effectDamage(phrase, type)
+  const formatDamageType = (type: string) => titleIn(damageTypes, type)
+  const formatTargetInfo = (target: Targeting) => {
+    const type = targetTypeName(target.type)
+    if (target.scope === "single") return type
+    return phrase(effectCardTarget.slug, { scope: targetScopeName(target.scope), type })
+  }
   switch (effect.type) {
     case "damage": {
       const damageValue = calculateEffectValue(effect, stats)
