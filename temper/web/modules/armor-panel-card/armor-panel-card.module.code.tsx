@@ -37,6 +37,7 @@ import { BulkEditTag } from "akasha/temper/web/modules/bulk-edit-tag/bulk-edit-t
 import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx"
 import type { EquipmentSectionProps } from "akasha/temper/web/modules/equipment-types/equipment-types.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { armorPanelCardTitle } from "akasha/temper/web/phrase/pages/armor-panel-card-title.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 export function ArmorPanelCard({
@@ -196,7 +197,7 @@ export function ArmorPanelCard({
     <PanelCard
       id="armor"
       collapsible={true}
-      title={phrase("armor-panel-card--title")}
+      title={phrase(armorPanelCardTitle.slug)}
       headerSubtitle={
         !readOnly ? (
           <div className="flex flex-wrap gap-1">

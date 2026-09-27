@@ -5,6 +5,4 @@ export const armorPanelCardTitle = {
   type: "page-type/temper-web-phrase",
   slug: "armor-panel-card-title",
   title: "Armor",
-  key: "armor-panel-card--title",
-  displayOrder: 1,
 } as const satisfies TemperWebPhrase
