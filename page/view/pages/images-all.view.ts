@@ -10,6 +10,6 @@ export const imagesAll = {
   viewPlace: 1,
   layout: "gallery",
   galleryCardSize: "medium",
-  viewSorts: [{ key: "slug", descending: false }],
+  viewSorts: [{ key: "random", descending: false }],
   visibleProperties: ["grade"],
 } as const satisfies View

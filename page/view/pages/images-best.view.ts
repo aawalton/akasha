@@ -11,6 +11,6 @@ export const imagesBest = {
   layout: "gallery",
   galleryCardSize: "medium",
   narrows: [{ key: "grade", comparison: "in", values: ["A-", "A", "A+", "S-", "S", "S+"] }],
-  viewSorts: [{ key: "slug", descending: false }],
+  viewSorts: [{ key: "random", descending: false }],
   visibleProperties: ["grade"],
 } as const satisfies View
