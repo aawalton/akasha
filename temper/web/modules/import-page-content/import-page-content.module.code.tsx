@@ -24,9 +24,52 @@ import {
   importHadCaveats,
 } from "akasha/temper/web/modules/import-summaries/import-summaries.module.code.tsx"
 import { useTemperImport } from "akasha/temper/web/modules/use-temper-import/use-temper-import.module.code.ts"
+import {
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { importPageContentAddOnsMenu } from "akasha/temper/web/phrase/pages/import-page-content-add-ons-menu.temper-web-phrase.ts"
+import { importPageContentAllowOutOfDate } from "akasha/temper/web/phrase/pages/import-page-content-allow-out-of-date.temper-web-phrase.ts"
+import { importPageContentBrowse } from "akasha/temper/web/phrase/pages/import-page-content-browse.temper-web-phrase.ts"
+import { importPageContentComplete } from "akasha/temper/web/phrase/pages/import-page-content-complete.temper-web-phrase.ts"
+import { importPageContentCompleteWithWarnings } from "akasha/temper/web/phrase/pages/import-page-content-complete-with-warnings.temper-web-phrase.ts"
+import { importPageContentDefaultLocation } from "akasha/temper/web/phrase/pages/import-page-content-default-location.temper-web-phrase.ts"
+import { importPageContentDownload } from "akasha/temper/web/phrase/pages/import-page-content-download.temper-web-phrase.ts"
+import { importPageContentDrop } from "akasha/temper/web/phrase/pages/import-page-content-drop.temper-web-phrase.ts"
+import { importPageContentFailed } from "akasha/temper/web/phrase/pages/import-page-content-failed.temper-web-phrase.ts"
+import { importPageContentFromAddOn } from "akasha/temper/web/phrase/pages/import-page-content-from-add-on.temper-web-phrase.ts"
+import { importPageContentImportAnother } from "akasha/temper/web/phrase/pages/import-page-content-import-another.temper-web-phrase.ts"
+import { importPageContentImporting } from "akasha/temper/web/phrase/pages/import-page-content-importing.temper-web-phrase.ts"
+import { importPageContentInstalling } from "akasha/temper/web/phrase/pages/import-page-content-installing.temper-web-phrase.ts"
+import { importPageContentPrices } from "akasha/temper/web/phrase/pages/import-page-content-prices.temper-web-phrase.ts"
+import { importPageContentPricesNeed } from "akasha/temper/web/phrase/pages/import-page-content-prices-need.temper-web-phrase.ts"
+import { importPageContentReading } from "akasha/temper/web/phrase/pages/import-page-content-reading.temper-web-phrase.ts"
+import { importPageContentTamrielTradeCentre } from "akasha/temper/web/phrase/pages/import-page-content-tamriel-trade-centre.temper-web-phrase.ts"
+import { importPageContentTemperCharacters } from "akasha/temper/web/phrase/pages/import-page-content-temper-characters.temper-web-phrase.ts"
+import { importPageContentTemperWatcher } from "akasha/temper/web/phrase/pages/import-page-content-temper-watcher.temper-web-phrase.ts"
+import { importPageContentTitle } from "akasha/temper/web/phrase/pages/import-page-content-title.temper-web-phrase.ts"
+import { importPageContentTryAgain } from "akasha/temper/web/phrase/pages/import-page-content-try-again.temper-web-phrase.ts"
+import { importPageContentUpload } from "akasha/temper/web/phrase/pages/import-page-content-upload.temper-web-phrase.ts"
+import { importPageContentWatcherNote } from "akasha/temper/web/phrase/pages/import-page-content-watcher-note.temper-web-phrase.ts"
+import { importPageContentWhereFrom } from "akasha/temper/web/phrase/pages/import-page-content-where-from.temper-web-phrase.ts"
 import { AlertCircle, CheckCircle2, FileUp, Upload } from "lucide-react"
+import { Fragment, type ReactNode } from "react"
+
+const SAVED_FILE = "TemperCharacters.lua"
+const ADD_ONS_FOLDER = "Documents\\Elder Scrolls Online\\live\\AddOns"
+const ONE_DRIVE_ADD_ONS_FOLDER = "OneDrive\\Documents\\Elder Scrolls Online\\live\\AddOns"
+const SAVED_FILE_PATH = "Documents/Elder Scrolls Online/live/SavedVariables/TemperCharacters.lua"
+
+function woven(text: string, nodes: Readonly<Record<string, ReactNode>>): ReactNode {
+  return text.split(/(\{\w+\})/).map((piece, index) => {
+    const name = /^\{(\w+)\}$/.exec(piece)?.[1]
+    return <Fragment key={index}>{name === undefined ? piece : nodes[name]}</Fragment>
+  })
+}
 
 export function ImportPageContent() {
+  const phrase = usePhrase()
+  const describe = usePhraseDescription()
   const surface = useSurface()
   const path = `rounded ${surfaceClass(surface + 1)} px-1.5 py-0.5 text-xs`
   const {
@@ -41,11 +84,13 @@ export function ImportPageContent() {
   } = useTemperImport()
 
   const isProcessing = state.phase === "reading" || state.phase === "importing"
+  const strong = (text: string) => <strong className="text-primary">{text}</strong>
+  const addOn = strong(phrase(importPageContentTemperCharacters.slug))
 
   return (
     <PageLayout>
       <PageLayout.Header>
-        <PageTitle>Import</PageTitle>
+        <PageTitle>{phrase(importPageContentTitle.slug)}</PageTitle>
       </PageLayout.Header>
 
       <PageLayout.Content>
@@ -54,47 +99,42 @@ export function ImportPageContent() {
           <Card>
             <CardContent className="space-y-2 text-secondary text-sm">
               <p>
-                <strong className="text-primary">This file comes from a Temper ESO add-on.</strong>{" "}
-                ESO does not write it on its own —{" "}
-                <strong className="text-primary">TemperCharacters</strong> creates it while you
-                play. If that add-on is not installed in your game, the file below will not exist on
-                your computer and there is nothing to upload.
+                {woven(describe(importPageContentWhereFrom.slug), {
+                  fromAddOn: strong(phrase(importPageContentFromAddOn.slug)),
+                  addOn,
+                })}
               </p>
               <p>
-                <a
-                  href="/api/addons/download"
-                  download
-                  className="text-accent underline underline-offset-4"
-                >
-                  Download the Temper add-ons
-                </a>{" "}
-                and extract the zip into{" "}
-                <code className={path}>Documents\Elder Scrolls Online\live\AddOns</code> — or{" "}
-                <code className={path}>OneDrive\Documents\Elder Scrolls Online\live\AddOns</code>,
-                if your Documents folder syncs to OneDrive. Add Tamriel Trade Centre alongside them,
-                as below. Then turn everything on at{" "}
-                <strong className="text-primary">Main Menu → Add-Ons</strong>, ticking{" "}
-                <strong className="text-primary">Allow out of date AddOns</strong> if ours are
-                listed as out of date, and log in to a character once. An add-on that is installed
-                but not enabled writes nothing.
+                {woven(describe(importPageContentInstalling.slug), {
+                  download: (
+                    <a
+                      href="/api/addons/download"
+                      download
+                      className="text-accent underline underline-offset-4"
+                    >
+                      {phrase(importPageContentDownload.slug)}
+                    </a>
+                  ),
+                  addOnsFolder: <code className={path}>{ADD_ONS_FOLDER}</code>,
+                  oneDriveAddOnsFolder: <code className={path}>{ONE_DRIVE_ADD_ONS_FOLDER}</code>,
+                  addOnsMenu: strong(phrase(importPageContentAddOnsMenu.slug)),
+                  allowOutOfDate: strong(phrase(importPageContentAllowOutOfDate.slug)),
+                })}
               </p>
               <p>
-                <strong className="text-primary">Item prices need one more add-on.</strong>{" "}
-                <strong className="text-primary">Tamriel Trade Centre</strong> is a separate
-                community add-on, not one of ours, and its terms do not allow anyone else to
-                redistribute it — so it is not in that download, and you install it yourself from
-                Minion or esoui.com. It is where Temper gets guild-store prices. TemperItems records
-                whatever prices it finds at scan time, so an inventory captured without it syncs
-                fine and then values your items at vendor prices only — a small fraction of what
-                they are worth.
+                {woven(describe(importPageContentPrices.slug), {
+                  pricesNeed: strong(phrase(importPageContentPricesNeed.slug)),
+                  tradeCentre: strong(phrase(importPageContentTamrielTradeCentre.slug)),
+                })}
               </p>
               <p className="text-tertiary">
-                Manual upload and the add-ons themselves work on any operating system. The{" "}
-                <LayoutLink href="/watcher" className="text-accent hover:underline">
-                  Temper Watcher
-                </LayoutLink>{" "}
-                does this automatically, on Windows only, and is the only way your inventory reaches
-                Temper.
+                {woven(phrase(importPageContentWatcherNote.slug), {
+                  watcher: (
+                    <LayoutLink href="/watcher" className="text-accent hover:underline">
+                      {phrase(importPageContentTemperWatcher.slug)}
+                    </LayoutLink>
+                  ),
+                })}
               </p>
             </CardContent>
           </Card>
@@ -103,23 +143,20 @@ export function ImportPageContent() {
           <Card>
             <CardContent className="space-y-2 text-secondary text-sm">
               <p>
-                Upload your <strong className="text-primary">TemperCharacters.lua</strong> saved
-                variables file to import your characters, companions, and completion tracking data.
-                It is written by the <strong className="text-primary">TemperCharacters</strong>{" "}
-                add-on.
+                {woven(phrase(importPageContentUpload.slug), { file: strong(SAVED_FILE), addOn })}
               </p>
               <p className="text-tertiary">
-                Default location:{" "}
-                <code className={path}>
-                  Documents/Elder Scrolls Online/live/SavedVariables/TemperCharacters.lua
-                </code>
+                {woven(phrase(importPageContentDefaultLocation.slug), {
+                  path: <code className={path}>{SAVED_FILE_PATH}</code>,
+                })}
               </p>
             </CardContent>
           </Card>
 
           {state.phase === "idle" && (
             <DropZone
-              label="Drop your TemperCharacters.lua file here"
+              label={phrase(importPageContentDrop.slug, { file: SAVED_FILE })}
+              hint={phrase(importPageContentBrowse.slug)}
               dragOver={dragOver}
               inputRef={inputRef}
               onDrop={handleDrop}
@@ -129,8 +166,12 @@ export function ImportPageContent() {
             />
           )}
 
-          {state.phase === "reading" && <ProcessingCard message="Reading file..." />}
-          {state.phase === "importing" && <ProcessingCard message="Importing data..." />}
+          {state.phase === "reading" && (
+            <ProcessingCard message={phrase(importPageContentReading.slug)} />
+          )}
+          {state.phase === "importing" && (
+            <ProcessingCard message={phrase(importPageContentImporting.slug)} />
+          )}
 
           {state.phase === "success" && (
             <>
@@ -139,12 +180,12 @@ export function ImportPageContent() {
                 {importHadCaveats(state.result) ? (
                   <>
                     <AlertCircle className="text-primary" />
-                    <AlertTitle>Import complete — with warnings</AlertTitle>
+                    <AlertTitle>{phrase(importPageContentCompleteWithWarnings.slug)}</AlertTitle>
                   </>
                 ) : (
                   <>
                     <CheckCircle2 className="text-primary" />
-                    <AlertTitle>Import complete</AlertTitle>
+                    <AlertTitle>{phrase(importPageContentComplete.slug)}</AlertTitle>
                   </>
                 )}
                 <AlertDescription>
@@ -153,7 +194,7 @@ export function ImportPageContent() {
               </Alert>
               <Button variant="secondary" onClick={reset} className="w-fit">
                 <FileUp className="h-4 w-4" />
-                Import Another File
+                {phrase(importPageContentImportAnother.slug)}
               </Button>
             </>
           )}
@@ -162,11 +203,11 @@ export function ImportPageContent() {
             <>
               <Alert variant="destructive">
                 <AlertCircle />
-                <AlertTitle>Import failed</AlertTitle>
+                <AlertTitle>{phrase(importPageContentFailed.slug)}</AlertTitle>
                 <AlertDescription>{state.message}</AlertDescription>
               </Alert>
               <Button variant="secondary" onClick={reset} className="w-fit">
-                Try Again
+                {phrase(importPageContentTryAgain.slug)}
               </Button>
             </>
           )}
@@ -180,6 +221,7 @@ export function ImportPageContent() {
 
 function DropZone({
   label,
+  hint,
   dragOver,
   inputRef,
   onDrop,
@@ -188,6 +230,7 @@ function DropZone({
   onFileChange,
 }: {
   label: string
+  hint: string
   dragOver: boolean
   inputRef: React.RefObject<HTMLInputElement | null>
   onDrop: (e: React.DragEvent) => void
@@ -212,7 +255,7 @@ function DropZone({
       <Upload className="h-8 w-8" />
       <div className="space-y-1">
         <p className="font-medium text-sm">{label}</p>
-        <p className="text-xs">or click to browse</p>
+        <p className="text-xs">{hint}</p>
       </div>
       <input ref={inputRef} type="file" accept=".lua" onChange={onFileChange} className="hidden" />
     </button>
