@@ -24,5 +24,14 @@ export const inventoryRulesDispatchVendor = {
       decisionKind: "decision-kind/absence",
       statement: "Whether a fence has work ignores the gold a launder costs.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each sale, launder and destroy is counted in the addon's shared server action window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Closing the vendor stops what was left unsent and says so in chat.",
+    },
   ],
 } as const satisfies Module

@@ -9,6 +9,7 @@ import { isStackingBags } from "akasha/temper/addon/pages/items/modules/inventor
 import { isPacedBankRunning } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.code.ts"
 import { isOpenQueueActive } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.code.ts"
 import { isRefining } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-refine/inventory-rules-dispatch-refine.module.code.ts"
+import { isPacingServerActions } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import { isWritCrafting } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
@@ -21,6 +22,7 @@ function stillWorking(): boolean {
   if (isRefining()) return true
   if (isPacedBankRunning()) return true
   if (isStackingBags()) return true
+  if (isPacingServerActions()) return true
   return isOpenQueueActive()
 }
 

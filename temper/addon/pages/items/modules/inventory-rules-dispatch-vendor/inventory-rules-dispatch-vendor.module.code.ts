@@ -1,3 +1,4 @@
+import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import {
   clearPendingAction,
   forEachPendingAction,
@@ -14,14 +15,60 @@ import {
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
 import { isVendorCrossCharDestination } from "akasha/temper/addon/pages/items/modules/inventory-rules-cross-char/inventory-rules-cross-char.module.code.ts"
 import { dispatchBuyShortfall } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.code.ts"
+import { runPaced } from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-enums-15/eso-enums-15.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-02/eso-functions-02.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-07/eso-functions-07.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
+
+type Send = (this: void) => boolean
+
+function vendorOpen(this: void): boolean {
+  return GetInteractionType() === INTERACTION_VENDOR
+}
+
+interface Target {
+  readonly bagId: number
+  readonly slotIndex: number
+  readonly link: string
+}
+
+function paceEach<T extends Target>(
+  this: void,
+  targets: readonly T[],
+  done: string,
+  links: string[],
+  send: (this: void, t: T, stackCount: number) => boolean,
+  first?: Send
+): undefined {
+  const steps: Send[] = first === undefined ? [] : [first]
+  for (const t of targets) {
+    steps.push(function (this: void): boolean {
+      const [stackCount] = GetSlotStackSize(t.bagId, t.slotIndex)
+      if (stackCount === 0 || !send(t, stackCount)) return false
+      links.push(t.link)
+      return true
+    })
+  }
+  runPaced(steps, vendorOpen, function (this: void, finished: boolean): undefined {
+    if (links.length > 0) reportAction(done, links)
+    if (!finished)
+      d(`[${ADDON_NAME}] The vendor closed before every item was ${done.toLowerCase()}.`)
+  })
+}
+
+function destroyOne(this: void, t: Target): boolean {
+  DestroyItem(t.bagId, t.slotIndex)
+  clearPendingAction(t.bagId, t.slotIndex)
+  return true
+}
+
 export function onOpenStore(): undefined {
   const soldLinks: string[] = []
   const bagSize = GetBagSize(BAG_BACKPACK)
@@ -59,6 +106,7 @@ export function onOpenStore(): undefined {
     if (a.ruleIndex !== b.ruleIndex) return a.ruleIndex < b.ruleIndex
     return a.slotIndex < b.slotIndex
   })
+  const junkCount = soldLinks.length
   for (const t of sellTargets) {
     soldLinks.push(t.link)
   }
@@ -86,28 +134,25 @@ export function onOpenStore(): undefined {
 
   function executeSell(): undefined {
     if (soldLinks.length === 0) return
-    SellAllJunk()
-    for (const t of sellTargets) {
-      const [stackCount] = GetSlotStackSize(t.bagId, t.slotIndex)
-      if (stackCount === 0) continue
-      SellInventoryItem(t.bagId, t.slotIndex, stackCount)
-      clearPendingAction(t.bagId, t.slotIndex)
-    }
-    reportAction("Sold", soldLinks)
+    const sold = soldLinks.slice(0, junkCount)
+    paceEach(
+      sellTargets,
+      "Sold",
+      sold,
+      function (this: void, t, stackCount): boolean {
+        SellInventoryItem(t.bagId, t.slotIndex, stackCount)
+        clearPendingAction(t.bagId, t.slotIndex)
+        return true
+      },
+      function (this: void): boolean {
+        SellAllJunk()
+        return true
+      }
+    )
   }
 
   function executeDestroy(): undefined {
-    const destroyedLinks: string[] = []
-    for (const t of destroyTargets) {
-      const [stackCount] = GetSlotStackSize(t.bagId, t.slotIndex)
-      if (stackCount === 0) continue
-      destroyedLinks.push(t.link)
-      DestroyItem(t.bagId, t.slotIndex)
-      clearPendingAction(t.bagId, t.slotIndex)
-    }
-    if (destroyedLinks.length > 0) {
-      reportAction("Destroyed", destroyedLinks)
-    }
+    paceEach(destroyTargets, "Destroyed", [], destroyOne)
   }
 
   if (confirmSell || confirmDestroy) {
@@ -254,60 +299,32 @@ export function onOpenFence(allowSell: boolean, allowLaunder: boolean): undefine
     if (fenceSellTargets.length === 0) return
     const [totalSells, sellsUsed] = GetFenceSellTransactionInfo()
     let sellsRemaining = totalSells - sellsUsed
-    const soldLinks: string[] = []
-
-    for (const t of fenceSellTargets) {
-      const [stackCount] = GetSlotStackSize(t.bagId, t.slotIndex)
-      if (stackCount === 0) continue
-      if (sellsRemaining <= 0) break
+    paceEach(fenceSellTargets, "Fence-sold", [], function (this: void, t, stackCount): boolean {
+      if (sellsRemaining <= 0) return false
       const qty = math.min(stackCount, sellsRemaining)
-      soldLinks.push(t.link)
       SellInventoryItem(t.bagId, t.slotIndex, qty)
       if (t.isPending && qty === stackCount) clearPendingAction(t.bagId, t.slotIndex)
       sellsRemaining -= qty
-    }
-
-    if (soldLinks.length > 0) {
-      reportAction("Fence-sold", soldLinks)
-    }
+      return true
+    })
   }
 
   function executeFenceLaunder(): undefined {
     if (fenceLaunderTargets.length === 0) return
     const [totalLaunders, laundersUsed] = GetFenceLaunderTransactionInfo()
     let laundersRemaining = totalLaunders - laundersUsed
-    const launderedLinks: string[] = []
-
-    for (const t of fenceLaunderTargets) {
-      const [stackCount] = GetSlotStackSize(t.bagId, t.slotIndex)
-      if (stackCount === 0) continue
-      if (laundersRemaining <= 0) break
+    paceEach(fenceLaunderTargets, "Laundered", [], function (this: void, t, stackCount): boolean {
+      if (laundersRemaining <= 0) return false
       const qty = math.min(stackCount, laundersRemaining)
-      launderedLinks.push(t.link)
       LaunderItem(t.bagId, t.slotIndex, qty)
       if (qty === stackCount) clearPendingAction(t.bagId, t.slotIndex)
       laundersRemaining -= qty
-    }
-
-    if (launderedLinks.length > 0) {
-      reportAction("Laundered", launderedLinks)
-    }
+      return true
+    })
   }
 
   function executeFenceDestroy(): undefined {
-    const destroyedLinks: string[] = []
-
-    for (const t of fenceDestroyTargets) {
-      const [stackCount] = GetSlotStackSize(t.bagId, t.slotIndex)
-      if (stackCount === 0) continue
-      destroyedLinks.push(t.link)
-      DestroyItem(t.bagId, t.slotIndex)
-      clearPendingAction(t.bagId, t.slotIndex)
-    }
-
-    if (destroyedLinks.length > 0) {
-      reportAction("Destroyed", destroyedLinks)
-    }
+    paceEach(fenceDestroyTargets, "Destroyed", [], destroyOne)
   }
 
   if (confirmSell || confirmDestroy) {
