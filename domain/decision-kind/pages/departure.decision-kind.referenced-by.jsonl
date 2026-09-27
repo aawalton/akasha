@@ -6216,6 +6216,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.ts","id":"01a06363-f687-70fb-8023-b311dc463a1b"}
 {"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/shopping-list-tab-content/shopping-list-tab-content.module.ts","id":"01a063a1-8cc1-7006-9e30-88a844c05bf5"}
 {"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.ts","id":"01a063a1-8cc1-7010-8b74-d5f6fa0b08d5"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/action-options/action-options.module.ts","id":"01a0636c-5d96-7dc6-a22c-810f2f640002"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.ts","id":"01a0636c-5d96-799f-a4a3-b169e3670004"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.ts","id":"01a0636c-5d97-76ed-b991-13a9b7f8000d"}
@@ -6224,7 +6225,10 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-unread/inventory-rules-unread.module.ts","id":"01a0976a-31b2-7c40-9f5e-6b0d4a2e77c1"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-type-data-content/inventory-type-data-content.module.ts","id":"01a0636c-5d9b-773e-817e-b2cee53c002e"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-type-panel-card/inventory-type-panel-card.module.ts","id":"01a0636c-5d9b-7777-87e1-6841b082002f"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/item-rule-card/item-rule-card.module.ts","id":"01a0636c-5d9b-7cbf-bead-3c2c118c0030"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/item-tooltip/item-tooltip.module.ts","id":"01a0636c-5d9b-72cf-8645-abd4e5160035"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-action-filter-select/rule-action-filter-select.module.ts","id":"01a0636c-5d9b-78f5-a696-1e40eeec003b"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-action-row/rule-card-action-row.module.ts","id":"01a0636c-5d9b-7ced-ac2b-1712d9b2003d"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-controlled-conditions/rule-card-controlled-conditions.module.ts","id":"01a0636c-5d9b-75a6-9606-38540c960042"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-format/rule-card-destination-format.module.ts","id":"01a0636c-5d9b-71fc-ab4b-253da6d40046"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-item-ids/rule-card-filter-chip-item-ids.module.ts","id":"01a0dece-5017-7174-a964-bbaa92cf078a"}
@@ -6233,14 +6237,17 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-location-filter-select/rule-location-filter-select.module.ts","id":"01a0636c-5da1-76d9-9b50-ab56b332005d"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-condition-field-titles/use-condition-field-titles.module.ts","id":"01a0e250-0a67-7222-815e-15306b5b5154"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.ts","id":"01a0636c-5da1-796a-9415-a13769600062"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-filter/use-inventory-rules-filter.module.ts","id":"01a0636c-5da1-76f1-aacf-afb23f4b0064"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-settings-state/use-inventory-rules-settings-state.module.ts","id":"01a0636c-5da1-7d24-92b7-2d9551ec0065"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.ts","id":"01a0636c-5da1-73f0-9a3f-7723d2fa0066"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-descriptions/use-inventory-rules-tab-descriptions.module.ts","id":"01a0636c-5da1-74ed-a270-389ba82d0067"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-rule-card-condition-handlers/use-rule-card-condition-handlers.module.ts","id":"01a0636c-5da1-7e9a-8fbb-687bd452006b"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.ts","id":"01a0636c-5da1-73ac-82cb-033685f0006c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.ts","id":"01a0636c-5da1-77e1-8885-a26516fc006d"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-shape/api-shape.route.ts","id":"01a0e172-7749-7e43-bba1-fc59fde42b86"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-items/api-watcher-upsert-mined-items.route.ts","id":"01a082a9-b67b-7606-b042-c4f5c9e5d6ac"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/api-watcher-upsert-mined-quests/api-watcher-upsert-mined-quests.route.ts","id":"01a082aa-3e30-76e3-bcc6-cec49c69facc"}
+{"propertySlug":"decision-kind","path":"temper/web/routes/inventory/inventory.route.ts","id":"01a08302-8244-768d-926b-2d2e7902a54f"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/page-detail/page-detail.route.ts","id":"01a08297-9668-70a3-8a39-06a85b120863"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/settings/settings.route.ts","id":"01a08304-de41-7697-bee7-b989f9cf8852"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/sign-in/sign-in.route.ts","id":"01a08306-c2ad-71ec-bdd7-449e1708d6ea"}

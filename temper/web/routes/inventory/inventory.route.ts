@@ -7,4 +7,10 @@ export const inventory = {
   definition: "what a player is holding, and the rules that sort it",
   code: "tsx",
   urlPath: "inventory",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The screen holds the item action titles read from their pages before it draws.",
+    },
+  ],
 } as const satisfies Route

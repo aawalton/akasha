@@ -15,18 +15,25 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import { titleOf } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type {
   CategoryRule,
   DestinationChain,
   MoveToDestination,
   StockScope,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { bank } from "akasha/temper/items/rules/routing/core/temper-venue/pages/bank.temper-venue.ts"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import {
   ACTION_OPTIONS,
   type ActionVariant,
+  actionLabelIn,
   NOTHING_ACTION,
   SELL_ACTIONS,
   SELL_DESTINATION_OPTIONS,
+  sellDestinationLabelIn,
 } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 import { CharacterTargetSelect } from "akasha/temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.code.tsx"
 import { CompanionTargetSelect } from "akasha/temper/web/player-inventory-management-ui/modules/companion-target-select/companion-target-select.module.code.tsx"
@@ -78,6 +85,12 @@ export function RuleCardActionRow({
   const currencyActionOptions = ACTION_OPTIONS.filter(
     (opt) => opt.value === "nothing" || opt.value === "move-to" || opt.value === "stock"
   )
+  const actionTitles = useKeyedTitles(temperItemAction.slug)
+  const venues = useKeyedTitles(temperVenue.slug)
+  const nothingSentinel = {
+    value: NOTHING_ACTION.value,
+    label: actionLabelIn(actionTitles, NOTHING_ACTION.value),
+  }
 
   return (
     <div className="flex flex-col gap-1.5">
@@ -98,24 +111,18 @@ export function RuleCardActionRow({
             </Badge>
           </SelectTrigger>
           {isCurrency ? (
-            <SelectContent
-              nullSentinel={{ value: NOTHING_ACTION.value, label: NOTHING_ACTION.label }}
-              sorted
-            >
+            <SelectContent nullSentinel={nothingSentinel} sorted>
               {currencyActionOptions.map((opt) => (
                 <SelectItem key={opt.value} value={opt.value}>
-                  {opt.label}
+                  {actionLabelIn(actionTitles, opt.value)}
                 </SelectItem>
               ))}
             </SelectContent>
           ) : (
-            <SelectContent
-              nullSentinel={{ value: NOTHING_ACTION.value, label: NOTHING_ACTION.label }}
-              sorted
-            >
+            <SelectContent nullSentinel={nothingSentinel} sorted>
               {ACTION_OPTIONS.map((opt) => (
                 <SelectItem key={opt.value} value={opt.value}>
-                  {opt.label}
+                  {actionLabelIn(actionTitles, opt.value)}
                 </SelectItem>
               ))}
             </SelectContent>
@@ -133,7 +140,7 @@ export function RuleCardActionRow({
             <SelectContent>
               {SELL_DESTINATION_OPTIONS.map((opt) => (
                 <SelectItem key={opt.value} value={opt.value}>
-                  {opt.label}
+                  {sellDestinationLabelIn(venues, opt)}
                 </SelectItem>
               ))}
             </SelectContent>
@@ -146,7 +153,7 @@ export function RuleCardActionRow({
             <div className="flex items-center gap-1">
               <ChevronRight className="size-3 text-tertiary" />
               <Badge variant={actionOption.variant} className="shrink-0">
-                Bank
+                {venues === null ? bank.key : titleOf(venues, bank.key)}
               </Badge>
             </div>
           ) : (

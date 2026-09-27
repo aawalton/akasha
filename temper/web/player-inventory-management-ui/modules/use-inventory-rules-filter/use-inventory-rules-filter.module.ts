@@ -6,4 +6,10 @@ export const useInventoryRulesFilter = {
   slug: "use-inventory-rules-filter",
   definition: "the rules narrowed to a reader's ask",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Rules are searched and sorted again when the item action page titles change.",
+    },
+  ],
 } as const satisfies Module

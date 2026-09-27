@@ -6,4 +6,10 @@ export const useInventoryRulesTabDescriptions = {
   slug: "use-inventory-rules-tab-descriptions",
   definition: "the sentence the rules tab gives for each rule",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rule's sentence is written again when the item action page titles change.",
+    },
+  ],
 } as const satisfies Module

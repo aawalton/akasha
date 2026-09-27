@@ -12,11 +12,16 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import {
   ACTION_OPTIONS,
+  actionLabelIn,
   NOTHING_ACTION,
   SELL_ACTIONS,
   SELL_DESTINATION_OPTIONS,
+  sellDestinationLabelIn,
 } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 import { CharacterTargetSelect } from "akasha/temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.code.tsx"
 import { CompanionTargetSelect } from "akasha/temper/web/player-inventory-management-ui/modules/companion-target-select/companion-target-select.module.code.tsx"
@@ -58,6 +63,8 @@ export const ItemRuleCard = memo(
   ({ rule, destinationOptions, onUpdate, onRemove, onDuplicate, onLock }: ItemRuleCardProps) => {
     const displayAction = SELL_ACTIONS.has(rule.action) ? "sell" : rule.action
     const actionOption = ACTION_OPTIONS.find((o) => o.value === displayAction) ?? NOTHING_ACTION
+    const actionTitles = useKeyedTitles(temperItemAction.slug)
+    const venues = useKeyedTitles(temperVenue.slug)
     const isActive = rule.active !== false
     const [optimisticLocked, setOptimisticLocked] = useState(rule.locked === true)
     useEffect(() => {
@@ -127,12 +134,15 @@ export const ItemRuleCard = memo(
                         </Badge>
                       </SelectTrigger>
                       <SelectContent
-                        nullSentinel={{ value: NOTHING_ACTION.value, label: NOTHING_ACTION.label }}
+                        nullSentinel={{
+                          value: NOTHING_ACTION.value,
+                          label: actionLabelIn(actionTitles, NOTHING_ACTION.value),
+                        }}
                         sorted
                       >
                         {ACTION_OPTIONS.map((opt) => (
                           <SelectItem key={opt.value} value={opt.value}>
-                            {opt.label}
+                            {actionLabelIn(actionTitles, opt.value)}
                           </SelectItem>
                         ))}
                       </SelectContent>
@@ -149,7 +159,7 @@ export const ItemRuleCard = memo(
                         <SelectContent>
                           {SELL_DESTINATION_OPTIONS.map((opt) => (
                             <SelectItem key={opt.value} value={opt.value}>
-                              {opt.label}
+                              {sellDestinationLabelIn(venues, opt)}
                             </SelectItem>
                           ))}
                         </SelectContent>

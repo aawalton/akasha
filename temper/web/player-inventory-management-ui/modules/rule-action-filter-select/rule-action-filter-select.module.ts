@@ -6,4 +6,10 @@ export const ruleActionFilterSelect = {
   slug: "rule-action-filter-select",
   definition: "the select narrowing rules by the action they take",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Action and sell destination labels are read from item action and venue pages.",
+    },
+  ],
 } as const satisfies Module

@@ -6,7 +6,9 @@ import type {
   CategoryRule,
   ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
@@ -146,10 +148,11 @@ export function useInventoryRulesFilter(
   const searchLower = useMemo(() => deferred.ruleSearch.toLowerCase(), [deferred.ruleSearch])
 
   const categories = useItemCategories().keyed
+  const actionTitles = useKeyedTitles(temperItemAction.slug)
 
   const searchTextCache = useMemo(
     () => new Map<string, { text: string; key: string }>(),
-    [categories]
+    [categories, actionTitles]
   )
 
   const getCategoryRuleSearchText = useCallback(
@@ -229,6 +232,7 @@ export function useInventoryRulesFilter(
     affectedItemsMap,
     matchItemLocation,
     getCategoryRuleSearchText,
+    actionTitles,
   ]
 
   const filteredCharacterRules = useMemo(
@@ -267,6 +271,7 @@ export function useInventoryRulesFilter(
     liveSort.ruleSortDir,
     hasSortActive,
     getCategoryRuleSearchText,
+    actionTitles,
   ] as const
 
   const sortedCharacterRules = useMemo(

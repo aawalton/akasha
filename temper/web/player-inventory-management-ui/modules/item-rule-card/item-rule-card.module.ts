@@ -6,4 +6,10 @@ export const itemRuleCard = {
   slug: "item-rule-card",
   definition: "the card for editing an item rule",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Action and sell destination labels are read from item action and venue pages.",
+    },
+  ],
 } as const satisfies Module

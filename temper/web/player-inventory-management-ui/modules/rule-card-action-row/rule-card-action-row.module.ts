@@ -6,4 +6,11 @@ export const ruleCardActionRow = {
   slug: "rule-card-action-row",
   definition: "the row where a rule's action is chosen",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Action, sell destination and bank labels are read from item action and venue pages.",
+    },
+  ],
 } as const satisfies Module

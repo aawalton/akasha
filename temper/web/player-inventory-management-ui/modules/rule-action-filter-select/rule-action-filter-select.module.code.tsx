@@ -8,6 +8,9 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import {
   CharacterTargetCascade,
   CompanionTargetCascade,
@@ -23,8 +26,10 @@ import {
 } from "akasha/temper/web/player-inventory-management-ui/modules/action-filter-utils/action-filter-utils.module.code.ts"
 import {
   ACTION_OPTIONS,
+  actionLabelIn,
   NOTHING_ACTION,
   SELL_DESTINATION_OPTIONS,
+  sellDestinationLabelIn,
 } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 
 export function RuleActionFilterSelect({
@@ -36,6 +41,8 @@ export function RuleActionFilterSelect({
 }) {
   const { action, sub, sub2 } = parseActionFilter(ruleAction)
   const selectValue = action ?? NULL_SENTINEL
+  const actionTitles = useKeyedTitles(temperItemAction.slug)
+  const venues = useKeyedTitles(temperVenue.slug)
 
   function handleActionChange(val: string) {
     if (val === NULL_SENTINEL) {
@@ -73,7 +80,10 @@ export function RuleActionFilterSelect({
       return (
         <SubBadgeSelect
           value={sub}
-          options={SELL_DESTINATION_OPTIONS.map((o) => ({ value: o.value, label: o.label }))}
+          options={SELL_DESTINATION_OPTIONS.map((o) => ({
+            value: o.value,
+            label: sellDestinationLabelIn(venues, o),
+          }))}
           allLabel="Any Destination"
           onChange={handleSubChange}
         />
@@ -122,10 +132,12 @@ export function RuleActionFilterSelect({
           </Badge>
         </SelectTrigger>
         <SelectContent nullSentinel={{ value: NULL_SENTINEL, label: "All Actions" }} sorted>
-          <SelectItem value={NOTHING_ACTION.value}>{NOTHING_ACTION.label}</SelectItem>
+          <SelectItem value={NOTHING_ACTION.value}>
+            {actionLabelIn(actionTitles, NOTHING_ACTION.value)}
+          </SelectItem>
           {ACTION_OPTIONS.map((opt) => (
             <SelectItem key={opt.value} value={opt.value}>
-              {opt.label}
+              {actionLabelIn(actionTitles, opt.value)}
             </SelectItem>
           ))}
         </SelectContent>

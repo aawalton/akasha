@@ -6,4 +6,18 @@ export const actionOptions = {
   slug: "action-options",
   definition: "the actions a rule may take, each with the label a reader sees",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An action's label is the title read from its item action page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sell destination's label is the title read from its venue page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An action's badge color is kept here, since no page states it.",
+    },
+  ],
 } as const satisfies Module
