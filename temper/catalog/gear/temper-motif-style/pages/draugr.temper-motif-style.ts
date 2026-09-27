@@ -6,6 +6,7 @@ export const draugr = {
   slug: "draugr",
   title: "Draugr",
   esoItemStyleId: 31,
+  styleName: "Draugr",
   collectionIndex: 23,
   sourceDescription: "FG/MG/Undaunted dailies (base game)",
   dropSources: [
