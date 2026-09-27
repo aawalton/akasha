@@ -11,6 +11,8 @@ import {
   type InventoryNode,
 } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryPanelCardTotal } from "akasha/temper/web/phrase/pages/inventory-panel-card-total.temper-web-phrase.ts"
 import { ItemTooltipPopover } from "akasha/temper/web/player-inventory-management-ui/modules/item-tooltip-popover/item-tooltip-popover.module.code.tsx"
 import {
   leafToValueData,
@@ -136,6 +138,7 @@ export function InventoryPanelCard({
   scopeNote,
   subdued,
 }: InventoryPanelCardProps) {
+  const phrase = usePhrase()
   const resolvedSortMode = sortMode ?? "name"
   const resolvedSortDirection = sortDirection ?? "asc"
   const onlyItem = items[0]
@@ -271,7 +274,7 @@ export function InventoryPanelCard({
         <div className="flex flex-col gap-1.5">
           {!isSingleCategory && (
             <ItemRow
-              label="Total"
+              label={phrase(inventoryPanelCardTotal.slug)}
               quantity={totalCount}
               slotCount={slotCountOverride ?? (allHaveSlots ? totalSlotCount : undefined)}
               bagCapacity={bagCapacityOverride}

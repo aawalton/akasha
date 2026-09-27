@@ -6,4 +6,10 @@ export const inventoryLocationSummaryPanelCard = {
   slug: "inventory-location-summary-panel-card",
   definition: "the card summing an inventory across its locations",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Summary title and the Currencies row are web phrase pages.",
+    },
+  ],
 } as const satisfies Module

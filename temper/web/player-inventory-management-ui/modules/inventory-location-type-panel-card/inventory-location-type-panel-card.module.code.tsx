@@ -31,6 +31,8 @@ import type { LocationTypeId } from "akasha/temper/items/core/modules/location-c
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventorySummaryPanelCardCurrencies } from "akasha/temper/web/phrase/pages/inventory-summary-panel-card-currencies.temper-web-phrase.ts"
 import {
   InventoryPanelCard,
   type InventorySortMode,
@@ -46,11 +48,12 @@ export interface LocationTypeCardData {
 function buildCurrencyBranch(
   balances: CurrencyBalances,
   titles: KeyedTitles,
+  label: string,
   conversionRates?: Record<string, number>
 ): InventoryNode | null {
   const leaves = buildLocationCurrencyNodes(balances, titles, conversionRates)
   if (leaves.length === 0) return null
-  return { key: "currencies", label: "Currencies", children: leaves }
+  return { key: "currencies", label, children: leaves }
 }
 
 function buildTypeBranches(
@@ -145,6 +148,8 @@ export function InventoryLocationTypePanelCard({
   const categories = useItemCategories()
   const companionCatalogRead = useHeldCompanionCatalog()
   const bags = useKeyedTitles(temperBag.slug)
+  const phrase = usePhrase()
+  const currenciesLabel = phrase(inventorySummaryPanelCardCurrencies.slug)
 
   const nodes = useMemo(() => {
     if (bags === null) return []
@@ -167,6 +172,7 @@ export function InventoryLocationTypePanelCard({
           const currencyBranch = buildCurrencyBranch(
             character.balances,
             currencyTitles,
+            currenciesLabel,
             conversionRates
           )
           if (currencyBranch) return [currencyBranch, ...charBranches]
@@ -177,7 +183,12 @@ export function InventoryLocationTypePanelCard({
       const typeNodes = buildTypeBranches(onlyGroup.items, categories)
 
       if (card.locationType === "bank" && currencies?.bank) {
-        const currencyBranch = buildCurrencyBranch(currencies.bank, currencyTitles, conversionRates)
+        const currencyBranch = buildCurrencyBranch(
+          currencies.bank,
+          currencyTitles,
+          currenciesLabel,
+          conversionRates
+        )
         if (currencyBranch) return [currencyBranch, ...typeNodes]
       }
 
@@ -189,7 +200,12 @@ export function InventoryLocationTypePanelCard({
         const charChildren = buildCharacterBranches(group, categories, bags)
         const character = currencies?.characters[group.locationKey]
         const currencyBranch = character
-          ? buildCurrencyBranch(character.balances, currencyTitles, conversionRates)
+          ? buildCurrencyBranch(
+              character.balances,
+              currencyTitles,
+              currenciesLabel,
+              conversionRates
+            )
           : undefined
         return {
           key: group.locationKey,
@@ -218,6 +234,7 @@ export function InventoryLocationTypePanelCard({
     categories,
     companionCatalogRead,
     bags,
+    currenciesLabel,
   ])
 
   const singletonGroup = isSingleton ? card.groups[0] : undefined

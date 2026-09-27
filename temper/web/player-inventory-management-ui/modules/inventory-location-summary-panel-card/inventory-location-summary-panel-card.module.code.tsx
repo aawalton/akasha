@@ -10,6 +10,9 @@ import {
   titleOf,
 } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventorySummaryPanelCardCurrencies } from "akasha/temper/web/phrase/pages/inventory-summary-panel-card-currencies.temper-web-phrase.ts"
+import { inventorySummaryPanelCardSummary } from "akasha/temper/web/phrase/pages/inventory-summary-panel-card-summary.temper-web-phrase.ts"
 import { InventoryPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-panel-card/inventory-panel-card.module.code.tsx"
 
 interface InventoryLocationSummaryPanelCardProps {
@@ -79,6 +82,7 @@ export function InventoryLocationSummaryPanelCard({
   onItemClick,
   scopeNote,
 }: InventoryLocationSummaryPanelCardProps) {
+  const phrase = usePhrase()
   const baseNodes = buildSummaryNodes(summary.groups, locations)
   const items: readonly InventoryNode[] =
     currencyCount !== undefined
@@ -86,7 +90,7 @@ export function InventoryLocationSummaryPanelCard({
           ...baseNodes,
           {
             key: "currencies",
-            label: "Currencies",
+            label: phrase(inventorySummaryPanelCardCurrencies.slug),
             stackCount: currencyCount,
             totalValue: currencyGoldTotal,
           },
@@ -96,7 +100,7 @@ export function InventoryLocationSummaryPanelCard({
   return (
     <InventoryPanelCard
       id="inventory-location-summary"
-      title="Summary"
+      title={phrase(inventorySummaryPanelCardSummary.slug)}
       items={items}
       collapseProtected
       onItemClick={onItemClick}

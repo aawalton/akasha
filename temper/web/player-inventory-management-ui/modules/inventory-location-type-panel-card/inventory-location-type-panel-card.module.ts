@@ -16,5 +16,9 @@ export const inventoryLocationTypePanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "A character's worn and backpack branches are named by the bag pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Currencies branch is named by a web phrase page.",
+    },
   ],
 } as const satisfies Module

@@ -6,4 +6,10 @@ export const inventoryPanelCard = {
   slug: "inventory-panel-card",
   definition: "the card where every inventory panel is drawn",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Total row's name is a web phrase page.",
+    },
+  ],
 } as const satisfies Module

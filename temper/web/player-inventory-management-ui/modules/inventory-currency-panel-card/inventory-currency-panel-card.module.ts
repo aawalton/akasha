@@ -6,4 +6,10 @@ export const inventoryCurrencyPanelCard = {
   slug: "inventory-currency-panel-card",
   definition: "the card drawing what currency a player has",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bank row is named by the bank venue page; other words are web phrase pages.",
+    },
+  ],
 } as const satisfies Module
