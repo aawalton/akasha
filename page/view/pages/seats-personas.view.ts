@@ -1,14 +1,15 @@
 import type { View } from "akasha/page/view/view.page-type.types.ts"
 
-export const seatsAll = {
-  id: "01a0d41a-7b48-7ac6-bd1d-fcecc891de0d",
+export const seatsPersonas = {
+  id: "01a0e3ea-6b62-73e6-ba58-3bf057af1e25",
   type: "page-type/view",
-  slug: "seats-all",
-  title: "All",
+  slug: "seats-personas",
+  title: "Personas",
   nav: "nav/seats",
   pageType: "page-type/seat",
-  viewPlace: 1,
+  viewPlace: 0,
   layout: "list",
+  narrows: [{ key: "seat-section", comparison: "is", values: ["personas"] }],
   viewSorts: [{ key: "slug", descending: false }],
   visibleProperties: [],
 } as const satisfies View

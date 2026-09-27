@@ -36,3 +36,4 @@
 {"propertySlug":"target-page-type","path":"agent/message/properties/agent-message-to.relation-property.ts","id":"01a06818-107b-7000-9af9-d98a9e34ceed"}
 {"propertySlug":"target-page-type","path":"agent/properties/principal-seat-name.relation-property.ts","id":"01a05439-6234-73fd-baf3-4e3b75e44f96"}
 {"propertySlug":"view-page-type","path":"page/view/pages/seats-all.view.ts","id":"01a0d41a-7b48-7ac6-bd1d-fcecc891de0d"}
+{"propertySlug":"view-page-type","path":"page/view/pages/seats-personas.view.ts","id":"01a0e3ea-6b62-73e6-ba58-3bf057af1e25"}
