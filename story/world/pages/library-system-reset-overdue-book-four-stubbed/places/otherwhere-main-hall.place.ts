@@ -81,7 +81,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Engorged bookworms go on feeding until a Librarian comes within about twenty feet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A small engorged bookworm moves at a slow walk, but lunges a few feet fast to bite.",
@@ -149,7 +149,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The small engorged bookworms are the size of a small dog.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "An engorged bookworm at the back steps is six or seven feet long and waist high.",
@@ -185,7 +185,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "An engorged bookworm rears up and roars a squelching challenge when it senses a Librarian.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The Library keeps roots and vegetables that are safe for a human to eat.",
@@ -214,6 +214,18 @@ export const otherwhereMainHall = {
     {
       fact: "Links can rake a bookworm with his claws in lynx form, at a cost in power.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Salt puckers and shrinks a bookworm's skin where it hits; one spray hurts but doesn't dry it out.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala flung salt on the nearest small engorged bookworm; it's hurt along one flank and chasing her.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The salted bookworm's shriek stopped the chewing, and other bookworms lifted blind heads toward it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
   secrets: "jsonl",

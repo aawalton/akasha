@@ -15,7 +15,7 @@ export const otherwhere00012 = {
     "character-other/otherwhere-links",
     "character-other/otherwhere-engorged-bookworm-01",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I go back to the door, fill the scoop with salt than get just close enough to fling the salt onto the nearest large bookworm before retreating back to the box",
   beats: [
@@ -38,5 +38,5 @@ export const otherwhere00012 = {
   ],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
