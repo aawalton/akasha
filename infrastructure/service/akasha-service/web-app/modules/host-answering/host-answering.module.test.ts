@@ -22,12 +22,19 @@ test("a host name that could not be reached is broken with why", () => {
   )
 })
 
-test("each web app is asked for at every host name routed to its workload, and broken by any", async () => {
+test("each web app is asked at once for every host name routed to its workload, and broken by any", async () => {
   const asked: string[] = []
-  const health = await webAppHealthFor(process.cwd(), (url) => {
+  let open = 0
+  let most = 0
+  const health = await webAppHealthFor(process.cwd(), async (url) => {
     asked.push(url)
-    return Promise.resolve(url === "https://www.tempereso.com/" ? { status: 530 } : { status: 200 })
+    open += 1
+    most = Math.max(most, open)
+    await Bun.sleep(5)
+    open -= 1
+    return url === "https://www.tempereso.com/" ? { status: 530 } : { status: 200 }
   })
+  expect(most).toBe(asked.length)
   const temper = health.find((one) => one.slug === "temper-web")
   expect(temper?.pagePath).toEndWith("temper-web.web-app.ts")
   expect(temper?.broken).toBe("https://www.tempereso.com/ answered 530")

@@ -77,20 +77,21 @@ async function brokenOf(one: Served, fetched: Fetched): Promise<string | null> {
   if (one.hostnames.length === 0) {
     return "no tunnel route reaches the workload its cluster service states"
   }
-  for (const hostname of one.hostnames) {
-    const broken = reachedBrokenIn(hostname, await fetched(urlOf(hostname)))
-    if (broken !== null) return broken
-  }
-  return null
+  const said = await Promise.all(
+    one.hostnames.map(async (hostname) => reachedBrokenIn(hostname, await fetched(urlOf(hostname))))
+  )
+  return said.find((broken) => broken !== null) ?? null
 }
 
 export async function webAppHealthFor(
   root: string,
   fetched: Fetched = fetching
 ): Promise<readonly Verdict[]> {
-  const verdicts: Verdict[] = []
-  for (const one of servedIn(root)) {
-    verdicts.push({ slug: one.slug, pagePath: one.pagePath, broken: await brokenOf(one, fetched) })
-  }
-  return verdicts
+  return Promise.all(
+    servedIn(root).map(async (one) => ({
+      slug: one.slug,
+      pagePath: one.pagePath,
+      broken: await brokenOf(one, fetched),
+    }))
+  )
 }

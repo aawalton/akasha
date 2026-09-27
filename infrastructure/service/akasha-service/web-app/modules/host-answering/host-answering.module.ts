@@ -35,7 +35,16 @@ export const hostAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A web app is broken with the first host name found broken.",
+      statement: "A web app is broken with the first of its routed host names that is broken.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A host name not answering within fifteen seconds is not answering.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every host name of every web app is asked at once, so a look lasts as long as its slowest host name.",
     },
     {
       decisionKind: "decision-kind/departure",
