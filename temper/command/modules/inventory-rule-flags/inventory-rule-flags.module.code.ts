@@ -1,5 +1,5 @@
 import { InputError } from "akasha/code/error/errors-core/modules/exit-code/exit-code.module.code.ts"
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
+import type { ItemCategoriesKeyed } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
 import type { BuySource } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
 import {
   destinationFormsSaid,
@@ -18,13 +18,12 @@ import {
 import { getCategoryDescendantIds } from "akasha/temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { z } from "zod"
 
-const CATEGORY_IDS: ReadonlySet<string> = getCategoryDescendantIds(
-  ALL_CATEGORIES_ID,
-  ITEM_CATEGORY_TREE
-)
-
-export function narrowCategoryId(value: string, flagName: string): string {
-  if (!CATEGORY_IDS.has(value)) {
+export function narrowCategoryId(
+  value: string,
+  flagName: string,
+  categories: ItemCategoriesKeyed
+): string {
+  if (!getCategoryDescendantIds(ALL_CATEGORIES_ID, categories).has(value)) {
     throw new InputError(
       `${flagName}: invalid category '${value}' (say \`akasha temper inventory category-list\` for every category a rule takes)`
     )

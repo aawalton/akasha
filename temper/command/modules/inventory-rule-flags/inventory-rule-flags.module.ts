@@ -19,7 +19,7 @@ export const inventoryRuleFlags = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The categories a rule may be written against are the item category tree's.",
+      statement: "The categories a rule may be written against are those of the tree handed in.",
     },
     {
       decisionKind: "decision-kind/departure",

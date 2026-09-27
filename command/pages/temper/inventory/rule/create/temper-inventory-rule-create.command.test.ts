@@ -16,9 +16,11 @@ import {
   WROTE,
   writingThat,
 } from "akasha/temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test-fixtures.ts"
+import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 
 holdSkillCatalogFromCheckout()
+holdItemCategoryTreeFromCheckout()
 
 const CALLED_AS = "akasha temper inventory rule create"
 

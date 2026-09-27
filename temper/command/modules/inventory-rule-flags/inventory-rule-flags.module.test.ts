@@ -9,6 +9,9 @@ import {
   parseConditionsJson,
   parseDestinationChainJson,
 } from "akasha/temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import { holdItemCategoryTreeFromCheckout } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts"
+
+const TREE = holdItemCategoryTreeFromCheckout().keyed
 
 test("a buy source the rules package declares is taken", () => {
   expect(BUY_SOURCE_VALUES).toEqual(["merchant"])
@@ -25,17 +28,17 @@ test("an action nobody declares is refused, naming the flag and what was said", 
 })
 
 test("a category the item tree holds is taken, at any depth", () => {
-  expect(narrowCategoryId("all", "--category")).toBe("all")
-  expect(narrowCategoryId("equipment", "--category")).toBe("equipment")
-  expect(narrowCategoryId("currency-gold", "--category")).toBe("currency-gold")
+  expect(narrowCategoryId("all", "--category", TREE)).toBe("all")
+  expect(narrowCategoryId("equipment", "--category", TREE)).toBe("equipment")
+  expect(narrowCategoryId("currency-gold", "--category", TREE)).toBe("currency-gold")
 })
 
 test("a category the item tree does not hold is refused, naming where to read them", () => {
-  expect(() => narrowCategoryId("style-page", "--category")).toThrow(InputError)
-  expect(() => narrowCategoryId("style-page", "--category")).toThrow(
+  expect(() => narrowCategoryId("style-page", "--category", TREE)).toThrow(InputError)
+  expect(() => narrowCategoryId("style-page", "--category", TREE)).toThrow(
     /--category: invalid category 'style-page'/
   )
-  expect(() => narrowCategoryId("style-page", "--category")).toThrow(/category-list/)
+  expect(() => narrowCategoryId("style-page", "--category", TREE)).toThrow(/category-list/)
 })
 
 test("a stock scope is one of two, and a third is refused", () => {

@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"item-category-tree-loading.module.code.ts","path":"command/pages/temper/inventory/lookup-item/temper-inventory-lookup-item.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-category-tree-loading.module.code.ts","path":"command/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-category-tree-loading.module.code.ts","path":"command/pages/temper/inventory/rule/update/temper-inventory-rule-update.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-loading.module.code.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-loading.module.code.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-loading.module.code.ts","path":"temper/command/modules/inventory-plan-inputs/inventory-plan-inputs.module.code.ts","typed":false,"deferred":false}

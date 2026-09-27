@@ -38,6 +38,7 @@ import {
   parseConditionsJson,
   parseDestinationChainJson,
 } from "akasha/temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import { loadItemCategoryTree } from "akasha/temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts"
 import { bulkUpdateCategoryRules } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 
 const CHANGED = [
@@ -66,11 +67,13 @@ export async function changing(
 ): Promise<Answer> {
   const chain = parseDestinationChainJson(taken.destinationChain)
   const narrowed = parseConditionsJson(taken.conditions)
+  const categoryId =
+    taken.category === undefined
+      ? undefined
+      : narrowCategoryId(taken.category, category.said, (await loadItemCategoryTree()).keyed)
   const clears = chain !== undefined && taken.destination === undefined
   const patch = {
-    ...(taken.category !== undefined
-      ? { categoryId: narrowCategoryId(taken.category, category.said) }
-      : {}),
+    ...(categoryId !== undefined ? { categoryId } : {}),
     ...(taken.action !== undefined ? { action: narrowItemAction(taken.action, action.said) } : {}),
     ...(taken.destination !== undefined
       ? { destination: narrowMoveToDestination(taken.destination, destination.said) }

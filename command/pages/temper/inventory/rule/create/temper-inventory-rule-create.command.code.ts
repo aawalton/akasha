@@ -30,6 +30,7 @@ import {
   narrowStockScope,
   parseConditionsJson,
 } from "akasha/temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts"
+import { loadItemCategoryTree } from "akasha/temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts"
 import { addCategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-settings/inventory-rule-settings.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
@@ -38,7 +39,8 @@ const PAGES = [title, notes, goal, active, action, destination, stockScope, cate
 export type Taken = TakenFor<typeof page, (typeof PAGES)[number]>
 
 export async function making(taken: Taken, writing: Writing, done: string[]): Promise<Answer> {
-  const categoryId = narrowCategoryId(taken.category, category.said)
+  const { keyed } = await loadItemCategoryTree()
+  const categoryId = narrowCategoryId(taken.category, category.said, keyed)
   const doing = narrowItemAction(taken.action, action.said)
   const moveTo =
     taken.destination === undefined

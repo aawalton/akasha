@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"item-category-tree.module.code.ts","path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree.module.code.ts","path":"temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree.module.code.ts","path":"temper/items/core/modules/item-category-tree/item-category-tree.module.test-fixtures.ts","typed":false,"deferred":false}
@@ -8,7 +9,9 @@
 {"propertySlug":"import","fileName":"item-category-tree.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-descriptions/inventory-rules-descriptions.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-filter-predicates/inventory-rules-filter-predicates.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-card-category-handler/use-rule-card-category-handler.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-category-tree.module.test-fixtures.ts","path":"command/pages/temper/inventory/rule/create/temper-inventory-rule-create.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree.module.test-fixtures.ts","path":"temper/command/modules/inventory-explain-capabilities/inventory-explain-capabilities.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree.module.test-fixtures.ts","path":"temper/command/modules/inventory-plan-capabilities/inventory-plan-capabilities.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"item-category-tree.module.test-fixtures.ts","path":"temper/command/modules/inventory-rule-flags/inventory-rule-flags.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree.module.test-fixtures.ts","path":"temper/items/core/modules/item-category-tree/item-category-tree.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}
