@@ -14,7 +14,7 @@ export const otherwhere00013 = {
     "character-other/otherwhere-links",
     "character-other/otherwhere-engorged-bookworm-01",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I refill the scoop and wait for the bookworm to get closer this time before covering it in the salt",
   beats: [
@@ -33,5 +33,5 @@ export const otherwhere00013 = {
     "Further back in the dark, the other shapes stay on their heaps, heads raised, listening.",
   ],
   lore: ["place/otherwhere-main-hall", "lore/otherwhere-universe"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
