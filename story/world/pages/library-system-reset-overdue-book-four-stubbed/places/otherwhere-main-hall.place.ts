@@ -149,7 +149,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The small engorged bookworms are the size of a small dog.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "An engorged bookworm at the back steps is six or seven feet long and waist high.",
