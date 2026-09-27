@@ -76,41 +76,7 @@ export function CharacterAchievementsPanelCard({
         label: cat.name,
         activityCategories: [catActivity],
         children: cat.subCategories.map((sub): CompletionNode => {
-          const isGeneral = sub.name === "General"
           const subActivity = sub.activity
-          if (isGeneral) {
-            return {
-              key: sub.name,
-              label: sub.name,
-              activityCategories: [catActivity],
-              children: sub.achievements.map((achievement): CompletionNode => {
-                const matched = achievementNameToActivity(achievement.name)
-                const achCategories = [
-                  ...new Set(
-                    [catActivity, matched].filter((c): c is ActivityCategoryId => c !== undefined)
-                  ),
-                ]
-                return {
-                  key: String(achievement.esoAchievementId),
-                  label: achievement.name,
-                  activityCategories: achCategories,
-                  children: selectedProgress.map((one): CompletionNode => {
-                    const entry = progressLookup
-                      .get(one.characterId)
-                      ?.get(achievement.esoAchievementId)
-                    const completed = entry != null && entry.completedSteps >= entry.totalSteps
-                    return {
-                      key: one.characterId,
-                      label: charNames.get(one.characterId) ?? one.characterId,
-                      activityCategories: achCategories,
-                      count: completed ? achievement.achievementPoints : 0,
-                      total: achievement.achievementPoints,
-                    }
-                  }),
-                }
-              }),
-            }
-          }
           return {
             key: sub.name,
             label: sub.name,
@@ -191,29 +157,7 @@ export function CharacterAchievementsPanelCard({
       label: cat.name,
       activityCategories: [catActivity],
       children: cat.subCategories.map((sub): CompletionNode => {
-        const isGeneral = sub.name === "General"
         const subActivity = sub.activity
-        if (isGeneral) {
-          return {
-            key: sub.name,
-            label: sub.name,
-            activityCategories: [catActivity],
-            children: sub.achievements.map((achievement): CompletionNode => {
-              const matched = achievementNameToActivity(achievement.name)
-              const cats = [catActivity, matched].filter(
-                (c): c is ActivityCategoryId => c !== undefined
-              )
-              return {
-                key: String(achievement.achievementId),
-                label: achievement.name,
-                activityCategories: [...new Set(cats)],
-                count:
-                  achievement.completedSteps >= achievement.totalSteps ? achievement.points : 0,
-                total: achievement.points,
-              }
-            }),
-          }
-        }
         return {
           key: sub.name,
           label: sub.name,
