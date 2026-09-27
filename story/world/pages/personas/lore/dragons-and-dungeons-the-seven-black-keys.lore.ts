@@ -6,6 +6,7 @@ export const dragonsAndDungeonsTheSevenBlackKeys = {
   slug: "dragons-and-dungeons-the-seven-black-keys",
   title: "The Seven Black Keys",
   world: "world/personas",
+  secrets: "jsonl",
   facts: [
     {
       fact: "Seven black iron keys on a ring lay wrapped in oilcloth under the Warden's lectern.",
