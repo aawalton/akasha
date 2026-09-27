@@ -51,5 +51,29 @@ export const theDatingGameRockCanyon = {
       fact: "Rock Canyon's quartzite walls are banded pink and grey.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Up the trail past the boulder, the trail splits in two.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
+    },
+    {
+      fact: "The main trail climbs on up the canyon into shade that grows deeper and colder.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "A narrow side path drops off the trail through the willows toward the creek.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
+    },
+    {
+      fact: "The side path ends where the creek pools, dark and still, under an overhanging ledge of pink stone.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Place

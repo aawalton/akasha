@@ -41,10 +41,6 @@ export const theDatingGameBoulderWoman = {
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
-      fact: "Alan does not know her name.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
-    },
-    {
       fact: "She speaks only in words others have said, any she ever heard, leaning toward the newest.",
       knowers: ["lore-disclosure/game-master"],
     },
@@ -94,6 +90,18 @@ export const theDatingGameBoulderWoman = {
     },
     {
       fact: "She pointed up the canyon where the echo came from, then touched her chest again and smiled.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: 'She gave back "A really pretty name" softly, and blushed under her freckles.',
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: 'She bumped Alan\'s shoulder harder than any bump before and said his name warmly: "Alan."',
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "At the trail split she looked down the side path, then back to Alan, eyebrows up.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],

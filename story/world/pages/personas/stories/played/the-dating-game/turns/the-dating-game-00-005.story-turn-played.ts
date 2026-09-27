@@ -10,7 +10,7 @@ export const theDatingGame00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "\"You're Echo? That's a really pretty name. I'm a big fan of unusual names.\"",
   beats: [
     "Alan says: \"You're Echo? That's a really pretty name. I'm a big fan of unusual names.\"",
@@ -25,4 +25,5 @@ export const theDatingGame00005 = {
     "Echo stops at the split and looks from the side path to him, eyebrows up.",
   ],
   reviewedBy: ["story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
