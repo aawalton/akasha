@@ -13,4 +13,10 @@ export const image25745c397ff663ab = {
     "setting-tag/window",
     "setting-tag/night",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+    "pose-tag/standing",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

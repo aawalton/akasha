@@ -22,4 +22,10 @@ export const image413fcba0d2a53fca = {
     "setting-tag/indoor",
     "setting-tag/candlelight",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

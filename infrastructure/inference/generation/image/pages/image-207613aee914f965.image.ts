@@ -12,4 +12,5 @@ export const image207613aee914f965 = {
     "setting-tag/autumn",
     "setting-tag/forest",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
 } as const satisfies Image

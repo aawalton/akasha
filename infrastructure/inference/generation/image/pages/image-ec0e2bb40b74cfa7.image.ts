@@ -18,4 +18,5 @@ export const imageEc0e2bb40b74cfa7 = {
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "F",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/art-studio"],
+  poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/painting"],
 } as const satisfies Image

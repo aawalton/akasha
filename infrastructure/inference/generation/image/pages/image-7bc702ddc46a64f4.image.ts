@@ -18,4 +18,10 @@ export const image7bc702ddc46a64f4 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/park"],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/playing-music",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

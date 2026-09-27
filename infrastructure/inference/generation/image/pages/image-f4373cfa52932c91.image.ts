@@ -12,4 +12,5 @@ export const imageF4373cfa52932c91 = {
     "setting-tag/night",
     "setting-tag/nature",
   ],
+  poseTags: ["pose-tag/lying-down", "pose-tag/looking-at-viewer", "pose-tag/lying-on-stomach"],
 } as const satisfies Image

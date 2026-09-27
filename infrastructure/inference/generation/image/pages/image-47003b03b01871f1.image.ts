@@ -18,4 +18,5 @@ export const image47003b03b01871f1 = {
     "setting-tag/beach",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
 } as const satisfies Image

@@ -8,4 +8,10 @@ export const imageEc2cca786eb61bee = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/daytime"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+    "pose-tag/front-view",
+  ],
 } as const satisfies Image

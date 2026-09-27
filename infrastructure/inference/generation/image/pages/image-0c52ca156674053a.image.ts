@@ -13,4 +13,10 @@ export const image0c52ca156674053a = {
     "setting-tag/city",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/full-body",
+  ],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const imageFaf6bac2370c772d = {
     "setting-tag/hallway",
     "setting-tag/candlelight",
   ],
+  poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

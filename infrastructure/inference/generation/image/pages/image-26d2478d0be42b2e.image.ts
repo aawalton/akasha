@@ -17,4 +17,5 @@ export const image26d2478d0be42b2e = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/car", "setting-tag/indoor"],
+  poseTags: ["pose-tag/winking", "pose-tag/looking-at-viewer", "pose-tag/standing"],
 } as const satisfies Image

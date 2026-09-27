@@ -12,4 +12,5 @@ export const imageDecb3397f6669764 = {
     "setting-tag/field",
     "setting-tag/water",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
 } as const satisfies Image

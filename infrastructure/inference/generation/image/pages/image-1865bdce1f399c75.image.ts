@@ -12,4 +12,5 @@ export const image1865bdce1f399c75 = {
     "setting-tag/sky",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
 } as const satisfies Image

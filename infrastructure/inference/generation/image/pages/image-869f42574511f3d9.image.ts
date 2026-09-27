@@ -19,4 +19,10 @@ export const image869f42574511f3d9 = {
     "setting-tag/nature",
     "setting-tag/sunset",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/standing",
+    "pose-tag/looking-back",
+  ],
 } as const satisfies Image

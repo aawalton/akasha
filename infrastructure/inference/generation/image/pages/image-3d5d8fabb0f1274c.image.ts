@@ -23,4 +23,10 @@ export const image3d5d8fabb0f1274c = {
     "setting-tag/nature",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/kneeling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/squatting",
+  ],
 } as const satisfies Image

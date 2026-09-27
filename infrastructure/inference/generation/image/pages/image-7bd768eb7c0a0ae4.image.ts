@@ -12,4 +12,5 @@ export const image7bd768eb7c0a0ae4 = {
     "setting-tag/hot-spring",
     "setting-tag/indoor",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/bathing"],
 } as const satisfies Image

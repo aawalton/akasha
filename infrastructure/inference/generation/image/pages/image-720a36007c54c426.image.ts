@@ -22,4 +22,10 @@ export const image720a36007c54c426 = {
     "setting-tag/field",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/laughing",
+    "pose-tag/cross-legged",
+    "pose-tag/face-to-face",
+  ],
 } as const satisfies Image

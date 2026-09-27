@@ -12,4 +12,5 @@ export const imageC3d118250c885d47 = {
     "setting-tag/city-street",
     "setting-tag/outdoor",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

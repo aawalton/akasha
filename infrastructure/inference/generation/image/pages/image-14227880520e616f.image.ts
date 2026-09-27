@@ -12,4 +12,10 @@ export const image14227880520e616f = {
     "setting-tag/nature",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/lying-down",
+    "pose-tag/smiling",
+    "pose-tag/looking-up",
+    "pose-tag/lying-on-stomach",
+  ],
 } as const satisfies Image

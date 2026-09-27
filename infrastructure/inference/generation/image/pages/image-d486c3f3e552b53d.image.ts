@@ -18,4 +18,5 @@ export const imageD486c3f3e552b53d = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/nature"],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-lantern"],
 } as const satisfies Image

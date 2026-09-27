@@ -19,4 +19,10 @@ export const imageD14a8075a664ec9a = {
     "setting-tag/outdoor",
     "setting-tag/sunset",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/smiling",
+    "pose-tag/walking",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const image2c2ffde140fb2b9c = {
     "setting-tag/river",
     "setting-tag/nature",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const imageB946193b451d3aed = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/restaurant", "setting-tag/indoor", "setting-tag/cafe"],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

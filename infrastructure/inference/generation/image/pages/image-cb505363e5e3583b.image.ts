@@ -18,4 +18,5 @@ export const imageCb505363e5e3583b = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/stage", "setting-tag/balcony", "setting-tag/indoor"],
+  poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
 } as const satisfies Image

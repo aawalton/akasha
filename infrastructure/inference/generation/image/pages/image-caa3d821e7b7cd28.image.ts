@@ -11,4 +11,5 @@ export const imageCaa3d821e7b7cd28 = {
   esoDay: "2026-07-25",
   subjects: "F",
   settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
 } as const satisfies Image

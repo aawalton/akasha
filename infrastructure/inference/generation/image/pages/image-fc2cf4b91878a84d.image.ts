@@ -18,4 +18,5 @@ export const imageFc2cf4b91878a84d = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/arcade", "setting-tag/indoor"],
+  poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
 } as const satisfies Image

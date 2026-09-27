@@ -18,4 +18,10 @@ export const imageD22da0b48e97ba3a = {
     "setting-tag/outdoor",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/standing",
+    "pose-tag/profile",
+    "pose-tag/looking-back",
+  ],
 } as const satisfies Image

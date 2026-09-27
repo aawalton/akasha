@@ -11,4 +11,10 @@ export const imageCa1525adc1f6489e = {
     "setting-tag/studio",
     "setting-tag/abstract-background",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/close-up",
+    "pose-tag/portrait",
+    "pose-tag/hands-on-chest",
+  ],
 } as const satisfies Image

@@ -12,4 +12,10 @@ export const imageFf8277fe74c770e2 = {
     "setting-tag/sunset",
     "setting-tag/sky",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+    "pose-tag/looking-back",
+  ],
 } as const satisfies Image

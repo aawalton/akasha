@@ -7,4 +7,10 @@ export const imageFeebac61052e3820 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/abstract-background"],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/knees-up",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

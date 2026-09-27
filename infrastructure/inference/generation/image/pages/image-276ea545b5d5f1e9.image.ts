@@ -17,4 +17,10 @@ export const image276ea545b5d5f1e9 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio"],
+  poseTags: [
+    "pose-tag/close-up",
+    "pose-tag/embracing",
+    "pose-tag/head-tilt",
+    "pose-tag/looking-down",
+  ],
 } as const satisfies Image

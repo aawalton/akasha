@@ -12,4 +12,10 @@ export const image4a7ced5037048d4d = {
     "setting-tag/nature",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/side-by-side",
+  ],
 } as const satisfies Image

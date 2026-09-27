@@ -22,4 +22,10 @@ export const image7ab9e1984706de30 = {
     "setting-tag/doorway",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+    "pose-tag/serious-expression",
+  ],
 } as const satisfies Image

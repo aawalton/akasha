@@ -23,4 +23,10 @@ export const image86037383a83683de = {
     "setting-tag/mountains",
     "setting-tag/river",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-flowers",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

@@ -12,4 +12,10 @@ export const image89d2abdc905f89a7 = {
     "setting-tag/ruins",
     "setting-tag/forest",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/leaning",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/legs-crossed",
+  ],
 } as const satisfies Image

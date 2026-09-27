@@ -19,4 +19,10 @@ export const image419e969407e5c13b = {
     "setting-tag/cherry-blossoms",
     "setting-tag/field",
   ],
+  poseTags: [
+    "pose-tag/kneeling",
+    "pose-tag/smiling",
+    "pose-tag/leaning-forward",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image
