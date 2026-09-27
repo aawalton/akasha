@@ -4,10 +4,13 @@ export const theDatingGame00018 = {
   id: "01a0e38a-d500-7801-adc2-e493978d85b3",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-018",
+  ownLength: 272,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 18,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "I sit in the chair. \"Okay, you tell me what to do, I'm yours for as long as you want me. Otherwise, I'll gladly just listen.\"",
   beats: [
