@@ -25,4 +25,5 @@ export const otherwhere00017 = {
     '"I could claw them myself," he says, more quietly. "Every swipe costs power I haven\'t got."',
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
