@@ -28,4 +28,5 @@ export const fortitudeProphecySavageryHealthRestore = {
   ],
   effects: "jsonl",
   hashPlace: 37,
+  encodedTraits: 8458001,
 } as const satisfies TemperPotionCrafted

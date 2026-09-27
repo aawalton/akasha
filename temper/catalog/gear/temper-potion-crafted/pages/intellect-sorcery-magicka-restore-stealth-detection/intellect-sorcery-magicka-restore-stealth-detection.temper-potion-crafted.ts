@@ -42,4 +42,5 @@ export const intellectSorceryMagickaRestoreStealthDetection = {
   ],
   effects: "jsonl",
   hashPlace: 32,
+  encodedTraits: 8588053,
 } as const satisfies TemperPotionCrafted

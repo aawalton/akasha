@@ -11,5 +11,18 @@ export const characterCapturePotionMap = {
       decisionKind: "decision-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A potion's place is compiled in from the potion pages as the add-on compiles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A crown or dropped potion is known by its item id, and a brewed one by its traits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A potion no page states takes the no-potion page's place.",
+    },
   ],
 } as const satisfies Module

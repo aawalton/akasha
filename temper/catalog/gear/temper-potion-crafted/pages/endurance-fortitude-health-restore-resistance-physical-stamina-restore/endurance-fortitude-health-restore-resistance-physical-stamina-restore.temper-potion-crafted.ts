@@ -35,4 +35,5 @@ export const enduranceFortitudeHealthRestoreResistancePhysicalStaminaRestore = {
   ],
   effects: "jsonl",
   hashPlace: 15,
+  encodedTraits: 8455433,
 } as const satisfies TemperPotionCrafted

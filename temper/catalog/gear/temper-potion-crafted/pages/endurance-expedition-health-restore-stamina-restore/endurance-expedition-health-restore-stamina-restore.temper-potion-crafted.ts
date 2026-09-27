@@ -28,4 +28,5 @@ export const enduranceExpeditionHealthRestoreStaminaRestore = {
   ],
   effects: "jsonl",
   hashPlace: 20,
+  encodedTraits: 8722203,
 } as const satisfies TemperPotionCrafted
