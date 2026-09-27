@@ -6,4 +6,10 @@ export const valueExplanationDialog = {
   slug: "value-explanation-dialog",
   definition: "the dialog saying how an item's value was worked out",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every heading, row label and basis sentence is read from a web phrase page.",
+    },
+  ],
 } as const satisfies Module

@@ -12,6 +12,23 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type { InventoryLeafNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { valueExplanationDialogBasisMinimum } from "akasha/temper/web/phrase/pages/value-explanation-dialog-basis-minimum.temper-web-phrase.ts"
+import { valueExplanationDialogBasisNone } from "akasha/temper/web/phrase/pages/value-explanation-dialog-basis-none.temper-web-phrase.ts"
+import { valueExplanationDialogBasisSaleAverage } from "akasha/temper/web/phrase/pages/value-explanation-dialog-basis-sale-average.temper-web-phrase.ts"
+import { valueExplanationDialogBasisSuggested } from "akasha/temper/web/phrase/pages/value-explanation-dialog-basis-suggested.temper-web-phrase.ts"
+import { valueExplanationDialogListedQuantity } from "akasha/temper/web/phrase/pages/value-explanation-dialog-listed-quantity.temper-web-phrase.ts"
+import { valueExplanationDialogListingSummary } from "akasha/temper/web/phrase/pages/value-explanation-dialog-listing-summary.temper-web-phrase.ts"
+import { valueExplanationDialogMarketValue } from "akasha/temper/web/phrase/pages/value-explanation-dialog-market-value.temper-web-phrase.ts"
+import { valueExplanationDialogMarketValueBasis } from "akasha/temper/web/phrase/pages/value-explanation-dialog-market-value-basis.temper-web-phrase.ts"
+import { valueExplanationDialogMerchantValue } from "akasha/temper/web/phrase/pages/value-explanation-dialog-merchant-value.temper-web-phrase.ts"
+import { valueExplanationDialogMinListing } from "akasha/temper/web/phrase/pages/value-explanation-dialog-min-listing.temper-web-phrase.ts"
+import { valueExplanationDialogReplacementValue } from "akasha/temper/web/phrase/pages/value-explanation-dialog-replacement-value.temper-web-phrase.ts"
+import { valueExplanationDialogSaleAverage } from "akasha/temper/web/phrase/pages/value-explanation-dialog-sale-average.temper-web-phrase.ts"
+import { valueExplanationDialogSoldQuantity } from "akasha/temper/web/phrase/pages/value-explanation-dialog-sold-quantity.temper-web-phrase.ts"
+import { valueExplanationDialogSuggestedPrice } from "akasha/temper/web/phrase/pages/value-explanation-dialog-suggested-price.temper-web-phrase.ts"
+import { valueExplanationDialogValue } from "akasha/temper/web/phrase/pages/value-explanation-dialog-value.temper-web-phrase.ts"
+import { valueExplanationDialogValueSources } from "akasha/temper/web/phrase/pages/value-explanation-dialog-value-sources.temper-web-phrase.ts"
 
 export interface ValueExplanationData {
   itemName: string
@@ -50,6 +67,7 @@ function formatNumber(value: number): string {
 
 export function ValueExplanationDialog({ open, onOpenChange, data }: ValueExplanationDialogProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   if (!data) return null
 
   const ev = data.marketValue
@@ -83,25 +101,31 @@ export function ValueExplanationDialog({ open, onOpenChange, data }: ValueExplan
         </DialogHeader>
         <DialogBody className="space-y-4">
           <div className="space-y-2">
-            <Text className="font-medium text-primary text-sm">Value Sources</Text>
+            <Text className="font-medium text-primary text-sm">
+              {phrase(valueExplanationDialogValueSources.slug)}
+            </Text>
             <div className={`rounded-md ${surfaceClass(surface + 1)} p-3`}>
               <table className="w-full text-sm">
                 <tbody>
                   {displayValue !== undefined && (
-                    <Row label="Value" value={formatGold(displayValue)} active />
+                    <Row
+                      label={phrase(valueExplanationDialogValue.slug)}
+                      value={formatGold(displayValue)}
+                      active
+                    />
                   )}
                   <Row
-                    label="Market Value"
+                    label={phrase(valueExplanationDialogMarketValue.slug)}
                     value={ev !== undefined ? formatGold(ev) : "—"}
                     active={source === "market" && displayValue !== undefined}
                   />
                   <Row
-                    label="Replacement Value"
+                    label={phrase(valueExplanationDialogReplacementValue.slug)}
                     value={rc !== undefined ? formatGold(rc) : "—"}
                     active={source === "replacement" && displayValue !== undefined}
                   />
                   <Row
-                    label="Merchant Value"
+                    label={phrase(valueExplanationDialogMerchantValue.slug)}
                     value={mv !== undefined ? formatGold(mv) : "—"}
                     active={source === "merchant" && displayValue !== undefined}
                   />
@@ -112,22 +136,30 @@ export function ValueExplanationDialog({ open, onOpenChange, data }: ValueExplan
 
           {hasListingData && (
             <div className="space-y-2">
-              <Text className="font-medium text-primary text-sm">Listing Summary</Text>
+              <Text className="font-medium text-primary text-sm">
+                {phrase(valueExplanationDialogListingSummary.slug)}
+              </Text>
               <div className={`rounded-md ${surfaceClass(surface + 1)} p-3`}>
                 <table className="w-full text-sm">
                   <tbody>
                     <Row
-                      label="Suggested Price"
+                      label={phrase(valueExplanationDialogSuggestedPrice.slug)}
                       value={suggested !== undefined ? formatGold(suggested) : "—"}
                     />
-                    <Row label="Sale Average" value={sa !== undefined ? formatGold(sa) : "—"} />
-                    <Row label="Min Listing" value={n !== undefined ? formatGold(n) : "—"} />
                     <Row
-                      label="Listed Quantity"
+                      label={phrase(valueExplanationDialogSaleAverage.slug)}
+                      value={sa !== undefined ? formatGold(sa) : "—"}
+                    />
+                    <Row
+                      label={phrase(valueExplanationDialogMinListing.slug)}
+                      value={n !== undefined ? formatGold(n) : "—"}
+                    />
+                    <Row
+                      label={phrase(valueExplanationDialogListedQuantity.slug)}
                       value={ac !== undefined ? formatNumber(ac) : "—"}
                     />
                     <Row
-                      label="Sold Quantity"
+                      label={phrase(valueExplanationDialogSoldQuantity.slug)}
                       value={sac !== undefined ? formatNumber(sac) : "—"}
                     />
                   </tbody>
@@ -138,26 +170,23 @@ export function ValueExplanationDialog({ open, onOpenChange, data }: ValueExplan
 
           {}
           <div className="space-y-2">
-            <Text className="font-medium text-primary text-sm">Market Value Basis</Text>
+            <Text className="font-medium text-primary text-sm">
+              {phrase(valueExplanationDialogMarketValueBasis.slug)}
+            </Text>
             <div className={`rounded-md ${surfaceClass(surface + 1)} p-3`}>
-              {suggested !== undefined ? (
-                <Text className="text-tertiary text-xs">
-                  Using TTC suggested price ({formatGold(suggested)}).
-                </Text>
-              ) : sa !== undefined ? (
-                <Text className="text-tertiary text-xs">
-                  No TTC suggested price — using sale average ({formatGold(sa)}).
-                </Text>
-              ) : n !== undefined ? (
-                <Text className="text-tertiary text-xs">
-                  No usable market price — TTC lists a minimum of {formatGold(n)} but no suggested
-                  price or sale average, and those are the only two Temper values items from.
-                </Text>
-              ) : (
-                <Text className="text-tertiary text-xs">
-                  No market price for this item — Temper has no Tamriel Trade Centre data for it.
-                </Text>
-              )}
+              <Text className="text-tertiary text-xs">
+                {suggested !== undefined
+                  ? phrase(valueExplanationDialogBasisSuggested.slug, {
+                      price: formatGold(suggested),
+                    })
+                  : sa !== undefined
+                    ? phrase(valueExplanationDialogBasisSaleAverage.slug, {
+                        price: formatGold(sa),
+                      })
+                    : n !== undefined
+                      ? phrase(valueExplanationDialogBasisMinimum.slug, { price: formatGold(n) })
+                      : phrase(valueExplanationDialogBasisNone.slug)}
+              </Text>
             </div>
           </div>
         </DialogBody>
