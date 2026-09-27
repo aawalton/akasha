@@ -9,7 +9,10 @@ import type {
   InventoryTypeCategory,
   InventoryTypeEntry,
 } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
-import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
+import type {
+  InventoryLeafNode,
+  InventoryNode,
+} from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import type { ItemCategoriesKeyed } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
 import type { ItemCategoryNode } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { ItemTooltipInstance } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
@@ -34,19 +37,27 @@ function buildLeaf(entry: InventoryTypeEntry, useCompanionTraits: boolean): Inve
   if (row.amountCount !== undefined) node.amountCount = row.amountCount
   if (row.saleAmountCount !== undefined) node.saleAmountCount = row.saleAmountCount
   if (row.suggestedPrice !== undefined) node.suggestedPrice = row.suggestedPrice
-  if (row.itemLink != null) {
-    node.itemLink = row.itemLink
-    const instance: ItemTooltipInstance = {
-      quality: row.quality,
-      level: row.requiredLevel ?? 0,
-      bound: row.bound ?? false,
-      stolen: row.stolen ?? false,
-      stackCount: row.stackCount,
-      charges: 0,
-    }
-    node.tooltipInstance = instance
-  }
+  giveTooltip(node, row, row.stackCount)
   return node
+}
+
+function giveTooltip(
+  node: InventoryLeafNode,
+  row: InventoryItemRow,
+  stackCount: number
+): undefined {
+  if (row.itemLink == null) return undefined
+  node.itemLink = row.itemLink
+  const instance: ItemTooltipInstance = {
+    quality: row.quality,
+    level: row.requiredLevel ?? 0,
+    bound: row.bound ?? false,
+    stolen: row.stolen ?? false,
+    stackCount,
+    charges: 0,
+  }
+  node.tooltipInstance = instance
+  return undefined
 }
 
 function appendCompanionTrait(name: string, traitType: number): string {
@@ -75,7 +86,7 @@ function buildNameGroupedLeaves(
   for (const [name, group] of nameMap) {
     if (group.length === 1) {
       nodes.push(buildLeaf(requireFirst(group, "group"), useCompanionTraits))
-    } else if (allSameQuality(group)) {
+    } else if (allOneItem(group)) {
       nodes.push(buildMergedLeaf(name, group))
     } else {
       nodes.push({
@@ -88,10 +99,10 @@ function buildNameGroupedLeaves(
   return nodes
 }
 
-function allSameQuality(entries: readonly InventoryTypeEntry[]): boolean {
-  const q = requireFirst(entries, "entries").row.quality
+function allOneItem(entries: readonly InventoryTypeEntry[]): boolean {
+  const { quality, itemLink } = requireFirst(entries, "entries").row
   for (const entry of entries) {
-    if (entry.row.quality !== q) return false
+    if (entry.row.quality !== quality || entry.row.itemLink !== itemLink) return false
   }
   return true
 }
@@ -109,14 +120,16 @@ function buildMergedLeaf(name: string, entries: readonly InventoryTypeEntry[]): 
       pricingSource = entry
     }
   }
+  const first = requireFirst(entries, "entries").row
   const node: InventoryNode & { key: string; label: string } = {
     key: name,
     label: name,
     stackCount,
-    quality: requireFirst(entries, "entries").row.quality,
+    quality: first.quality,
     value: mergedValue,
     slotCount: entries.length,
   }
+  giveTooltip(node, first, stackCount)
   if (pricingSource) {
     const { row } = pricingSource
     if (row.replacementValue !== undefined) node.replacementValue = row.replacementValue

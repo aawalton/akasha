@@ -5484,6 +5484,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","id":"01a0612e-28d6-7df8-bb5c-419ce436eb8f"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.ts","id":"01a0d5b6-43b6-77aa-8216-966a0d5e77c2"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.ts","id":"01a0626e-3e05-7472-a932-18d141f849b6"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-types/inventory-types.module.ts","id":"01a060c5-3c23-76ec-aa93-fa279ae67a96"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.ts","id":"01a0e0da-fccf-71f1-9a8a-9f3c03f4bc9b"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/item-category-tree-reading/item-category-tree-reading.module.ts","id":"01a0e0da-65bb-74c7-9f9e-05cb3d50596c"}
