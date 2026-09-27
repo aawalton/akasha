@@ -19,6 +19,7 @@
 {"propertySlug":"import","fileName":"email-rule-code.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/pages/family-link-activity.email-rule-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"email-rule-code.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/pages/fsy-provo-jen.email-rule-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"email-rule-code.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/pages/gcp-deprecation-notice.email-rule-code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"email-rule-code.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/pages/google-account-data-shared.email-rule-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"email-rule-code.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/pages/google-location-sharing.email-rule-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"email-rule-code.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/pages/google-payments-receipt.email-rule-code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"email-rule-code.page-type.types.ts","path":"alan/harness/inbox/email-rule/code/pages/googleplay-order-receipt.email-rule-code.ts","typed":true,"deferred":false}

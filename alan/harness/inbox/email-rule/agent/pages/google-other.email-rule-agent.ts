@@ -19,7 +19,11 @@ export const googleOther = {
         "noreply-location-sharing@google.com",
       ],
     },
-    { field: "subject", comparison: "does-not-contain", values: ["oak.hills.first.ward.tech"] },
+    {
+      field: "subject",
+      comparison: "does-not-contain",
+      values: ["oak.hills.first.ward.tech", "You shared some Google Account data with"],
+    },
   ],
   judgement:
     "**Judge whatever no other rule claims, and send Alan what needs him.**\n\nNobody has decided what this mail is yet, so it is judged rather than acted on by pattern. A case that turns out to be understood becomes a rule of its own and stops arriving here.",
