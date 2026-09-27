@@ -240,6 +240,7 @@ export const temperAddonItems = {
     "module/inventory-rules-guild-buy-core",
     "module/inventory-rules-dispatch-guild-buy",
     "module/inventory-server-action-window",
+    "module/inventory-open-room-wait",
   ],
   decisions: [
     {
