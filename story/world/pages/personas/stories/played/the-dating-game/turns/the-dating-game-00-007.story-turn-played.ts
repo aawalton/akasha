@@ -10,7 +10,7 @@ export const theDatingGame00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I laugh and splash her back playfully from the fountain. The cool water feels great with the exertion of the hike. As we start walking again, I turn to her and ask \"So, I know this might be sensitive, but I noticed you mostly repeat things I've said. Why is that? No judgment, I'm autistic myself and that's not uncommon for autistic kids, so it's not unfamiliar for me.\"",
   beats: [
@@ -34,4 +34,5 @@ export const theDatingGame00007 = {
   issues: ['"Then to you." - prose leaves out the beat where she watches whether he understands'],
   lore: ["lore/the-dating-game-echo"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

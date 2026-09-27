@@ -16,6 +16,14 @@ export const theDatingGameEcho = {
       fact: "Hera took Echo's own words from her as a punishment, and Echo calls it a distillation now.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Echo's repeating is not because she is autistic.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: 'Echo was told long ago: "You shall have the last word, and never the first."',
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
