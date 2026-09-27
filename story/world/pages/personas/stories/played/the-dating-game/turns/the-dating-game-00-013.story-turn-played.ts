@@ -10,7 +10,7 @@ export const theDatingGame00013 = {
   position: 13,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "\"Really? I've read the first six books there, but I can't understand why they're so popular. What do you like about it? I've gotta go with The Wandering Inn. I mean, 16 million words and it still is constantly surprising me, nothing else I've read even comes close.\"",
   beats: [
@@ -28,5 +28,5 @@ export const theDatingGame00013 = {
     "She blows out a breath and laughs, as if weighing how long that would take to read aloud.",
     'Then she looks sidelong at him: "Constantly surprising," she says, and it isn\'t about the book.',
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
