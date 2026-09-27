@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"definer.role.ts","path":"agent/seat/name/modules/compose-seat-name/compose-seat-name.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"definer.role.ts","path":"story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/amy/amy.seat.ts","id":"01a0d980-da86-7000-9f7f-b30aceb7b083"}
 {"propertySlug":"role","path":"agent/seat/pages/athena/athena.seat.ts","id":"01a0dee6-2a6a-7000-acb3-3a436db6679a"}
 {"propertySlug":"role","path":"agent/seat/pages/nimue/nimue.seat.ts","id":"01a0de5b-9a31-7000-a974-c87dda1d5a73"}
 {"propertySlug":"role","path":"persona/pages/aine/aine.persona.ts","id":"019eb8d9-abdd-7890-b2cb-ec3e9dbd8b19"}
