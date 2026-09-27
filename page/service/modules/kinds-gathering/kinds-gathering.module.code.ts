@@ -3,14 +3,13 @@ import { isAbsolute, join } from "node:path"
 import type { Filed } from "akasha/page/computed-property/computed-property.page-type.ts"
 import {
   type Beside,
-  sidecarsOver,
+  sidecarsOf,
 } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import {
   ENTRY_PROPERTY,
   FILE_PROPERTY,
 } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import {
-  heldOnce,
   listedAt,
   listedById,
   readingIn,
@@ -383,8 +382,6 @@ function bodyTests(
 
 const NO_FALLBACKS: ReadonlyMap<string, Beside> = new Map()
 
-const sidecarsHeld = heldOnce((reading) => sidecarsOver(reading, []))
-
 type Gathering = {
   readonly carried: readonly Carried[]
   readonly fallbacks: ReadonlyMap<string, Beside>
@@ -421,7 +418,6 @@ export function gatheredFor(
   const counting: Counting[] = []
   const under = kindsUnder(ENTRY_PROPERTY, reading)
   const entrying: Entrying = (slug) => under.has(slug)
-  const sidecars = sidecarsHeld(reading)
   for (const kind of kindsFor(reading, pageTypeSlug)) {
     const picked = picking === null ? null : picking(kind)
     const read = picked === null ? valuesOfType(reading, kind) : valuesAt(reading, picked)
@@ -429,7 +425,7 @@ export function gatheredFor(
     const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind)
     const computed = computedFor(root, reading, own)
     const testing = bodyTests(tests, own, entrying)
-    const fallbacks = sidecars.get(kind)?.besides ?? NO_FALLBACKS
+    const fallbacks = sidecarsOf(reading, [kind]).get(kind)?.besides ?? NO_FALLBACKS
     const gathering = { carried: own, fallbacks, files, entries, testing, entrying }
     for (const row of valuedFor(root, read, gathering)) {
       counting.push({ row, computed })

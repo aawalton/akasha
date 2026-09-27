@@ -1,5 +1,10 @@
 import { expect, test } from "bun:test"
-import { sidecarsIn } from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
+import { rootOf } from "akasha/command/modules/rooting/rooting.module.code.ts"
+import {
+  sidecarsIn,
+  sidecarsOf,
+  sidecarsOver,
+} from "akasha/page/index/modules/beside-declaring/beside-declaring.module.code.ts"
 import {
   ABOVE,
   GROUPING,
@@ -21,6 +26,24 @@ test("a page type declaring a file property group has a file beside it for every
     ["audit.test", { held: "ts", uncommitted: false }],
     ["audit.logs", { held: "jsonl", uncommitted: true }],
   ])
+})
+
+test("the page types named answer as every page type read together answers them", () => {
+  const root = rootOf(import.meta.dir)
+  const every = sidecarsOver(root, [])
+  const kinds = [
+    "seat",
+    "persona",
+    "module",
+    "page",
+    "service-workstation",
+    "module-property-group",
+    "story-chapter-read",
+    "no-such-page-type",
+  ]
+  const named = sidecarsOf(root, kinds)
+  for (const kind of kinds) expect(named.get(kind)).toEqual(every.get(kind))
+  expect(named.get("seat")?.uncommitted).toBe(true)
 })
 
 test("a page of a file property group page type has no file of its own beside it", () => {

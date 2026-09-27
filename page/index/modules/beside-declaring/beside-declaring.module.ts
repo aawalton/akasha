@@ -49,6 +49,15 @@ export const besideDeclaring = {
         "A page type that is a file property group declares nothing of its own beside its pages.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The page types named are answered from their own pages and the pages above them alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Such a page is found by its slug in the index.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here says where a declared file sits.",
     },

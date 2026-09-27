@@ -1,3 +1,8 @@
+import {
+  listedAt,
+  readingIn,
+  valueByPath,
+} from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
 import {
   slugOf,
@@ -6,6 +11,7 @@ import {
   typeIn,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 import {
   typeSlugsIn,
   typeValuesIn,
@@ -84,27 +90,31 @@ function declaredIn(value: Value, members: Members): Sidecars {
   return { secret, uncommitted, besides: found }
 }
 
+type Raw = (slug: string) => Value | undefined
+
 export function sidecarsIn(
   values: Iterable<Value>,
   among: ReadonlySet<string> = new Set([PAGE_TYPE])
 ): SidecarsBy {
   const raw = new Map<string, Value>()
-  const above = new Map<string, readonly string[]>()
   for (const value of values) {
     const said = typeIn(value)
     if (said === null || !among.has(said)) continue
     const slug = textAt(value, "slug")
     if (slug === null) continue
     raw.set(slug, value)
-    const extended = slugsIn(value[EXTENDS])
-    if (extended.length > 0) above.set(slug, extended)
   }
+  return sidecarsWith((slug) => raw.get(slug), raw.keys())
+}
+
+function sidecarsWith(rawOf: Raw, slugs: Iterable<string>): SidecarsBy {
+  const aboveOf = (slug: string): readonly string[] => slugsIn(rawOf(slug)?.[EXTENDS])
   const grouped = new Map<string, boolean>()
   const grouping = (slug: string): boolean => {
     const done = grouped.get(slug)
     if (done !== undefined) return done
     grouped.set(slug, false)
-    const said = slug === GROUP || (above.get(slug) ?? []).some((one) => grouping(one))
+    const said = slug === GROUP || aboveOf(slug).some((one) => grouping(one))
     grouped.set(slug, said)
     return said
   }
@@ -121,21 +131,27 @@ export function sidecarsIn(
       const here = waiting[at]
       if (here === undefined || walked.has(here)) continue
       walked.add(here)
-      const value = raw.get(here)
+      const value = rawOf(here)
       if (value === undefined) continue
       for (const [key, beside] of declaredIn(value, noMembers).besides) {
         if (!made.has(key)) made.set(key, beside)
       }
-      for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)
+      for (const up of [...aboveOf(here)].reverse()) waiting.push(up)
     }
     return made
   }
-  const own = new Map<string, Sidecars>()
-  for (const [slug, value] of raw) {
-    own.set(slug, grouping(slug) ? NOTHING : declaredIn(value, members))
+  const owned = new Map<string, Sidecars | undefined>()
+  const ownOf = (slug: string): Sidecars | undefined => {
+    if (owned.has(slug)) return owned.get(slug)
+    const value = rawOf(slug)
+    const made =
+      value === undefined ? undefined : grouping(slug) ? NOTHING : declaredIn(value, members)
+    owned.set(slug, made)
+    return made
   }
   const found = new Map<string, Sidecars>()
-  for (const slug of own.keys()) {
+  for (const slug of slugs) {
+    if (rawOf(slug) === undefined) continue
     let secret = false
     let uncommitted = false
     const beside = new Map<string, Beside>()
@@ -145,13 +161,13 @@ export function sidecarsIn(
       const here = waiting[at]
       if (here === undefined || walked.has(here)) continue
       walked.add(here)
-      const held = own.get(here)
+      const held = ownOf(here)
       if (held?.secret === true) secret = true
       if (held?.uncommitted === true) uncommitted = true
       for (const [key, fallback] of held?.besides ?? []) {
         if (!beside.has(key)) beside.set(key, fallback)
       }
-      for (const up of [...(above.get(here) ?? [])].reverse()) waiting.push(up)
+      for (const up of [...aboveOf(here)].reverse()) waiting.push(up)
     }
     found.set(slug, { secret, uncommitted, besides: beside })
   }
@@ -161,4 +177,24 @@ export function sidecarsIn(
 export function sidecarsOver(given: string | Reading, left: Iterable<Value>): SidecarsBy {
   const among = typeSlugsIn(given)
   return sidecarsIn([...typeValuesIn(given, among), ...left], among)
+}
+
+export function sidecarsOf(given: string | Reading, slugs: Iterable<string>): SidecarsBy {
+  const reading = readingIn(given)
+  const among = [...kindsUnder(PAGE_TYPE, reading)].sort()
+  const held = new Map<string, Value | undefined>()
+  const rawOf: Raw = (slug) => {
+    if (held.has(slug)) return held.get(slug)
+    let found: Value | undefined
+    for (const kind of among) {
+      for (const one of listedAt(reading, kind, slug)) {
+        const value = valueByPath(reading, one.path)
+        const said = value === null ? null : typeIn(value)
+        if (value !== null && said !== null && among.includes(said)) found = value
+      }
+    }
+    held.set(slug, found)
+    return found
+  }
+  return sidecarsWith(rawOf, slugs)
 }
