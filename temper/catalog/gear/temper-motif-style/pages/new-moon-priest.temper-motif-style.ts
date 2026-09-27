@@ -5,6 +5,8 @@ export const newMoonPriest = {
   type: "page-type/temper-motif-style",
   slug: "new-moon-priest",
   title: "New Moon Priest",
+  esoItemStyleId: 94,
+  styleName: "New Moon Priest",
   collectionIndex: 65,
   sourceDescription: "Dragonguard Supply Chest",
 } as const satisfies TemperMotifStyle
