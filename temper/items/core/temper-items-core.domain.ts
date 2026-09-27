@@ -61,6 +61,7 @@ export const temperItemsCore = {
     "module/capture-instant",
     "module/item-category-tree",
     "module/item-category-tree-reading",
+    "module/item-category-tree-loading",
   ],
   decisions: [
     {

@@ -5504,6 +5504,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-category-tree-entries-03/item-category-tree-entries-03.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-category-tree-furnishings-00/item-category-tree-furnishings-00.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-category-tree-furnishings-01/item-category-tree-furnishings-01.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-category-tree-loading/item-category-tree-loading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-category-tree-reading/item-category-tree-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-category-tree/item-category-tree.module.ts","typed":true,"deferred":false}
