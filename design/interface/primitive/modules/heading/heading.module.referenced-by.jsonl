@@ -36,7 +36,7 @@
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"product/audhdalan/web/routes/audhdalan-home/audhdalan-home.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"product/audhdalan/web/routes/audhdalan-safety-levels/audhdalan-safety-levels.route.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"heading.module.code.tsx","path":"temper/web/modules/automation-tab/automation-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"heading.module.code.tsx","path":"temper/web/modules/automation-tab-wording/automation-tab-wording.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"heading.module.code.tsx","path":"temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx","typed":false,"deferred":false}

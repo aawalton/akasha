@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"badge-toggle-group.module.code.tsx","path":"design/interface/system/modules/components-selection-panels/components-selection-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge-toggle-group.module.code.tsx","path":"page/ui/component/modules/operator-filter-control/operator-filter-control.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"badge-toggle-group.module.code.tsx","path":"temper/web/modules/automation-tab-wording/automation-tab-wording.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"badge-toggle-group.module.code.tsx","path":"temper/web/modules/automation-tab/automation-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge-toggle-group.module.code.tsx","path":"temper/web/modules/character-entity-panel-card/character-entity-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge-toggle-group.module.code.tsx","path":"temper/web/modules/character-passive-search-row/character-passive-search-row.module.code.tsx","typed":false,"deferred":false}

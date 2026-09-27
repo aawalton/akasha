@@ -6,77 +6,23 @@ import {
 } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
-import {
-  Popover,
-  PopoverContent,
-  PopoverTrigger,
-} from "akasha/design/interface/primitive/modules/popover/popover.module.code.tsx"
 import { Switch } from "akasha/design/interface/primitive/modules/switch-control/switch-control.module.code.tsx"
-import type {
-  CharacterAutomationToggles,
-  CompanionAutomationToggles,
-} from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
+import {
+  type CharToggleItem,
+  COMING_SOON_SLUGS,
+  COMPANION_SLUGS,
+  CONSUMABLE_SLUGS,
+  InfoPopover,
+  MAINTENANCE_SLUGS,
+  SubHeading,
+  WRIT_AUTOMATION_SLUGS,
+  worded,
+  AUTOMATION_TAB_WORDS as words,
+} from "akasha/temper/web/modules/automation-tab-wording/automation-tab-wording.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { useWritCraftItems } from "akasha/temper/web/modules/writ-craft-items/writ-craft-items.module.code.ts"
 import { useAutomationSettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
-import { Info } from "lucide-react"
 import { useMemo } from "react"
-
-function InfoPopover({ children }: { children: React.ReactNode }) {
-  return (
-    <Popover>
-      <PopoverTrigger asChild>
-        <button type="button" className="inline-flex cursor-pointer" aria-label="More information">
-          <Info className="size-3 text-tertiary" />
-        </button>
-      </PopoverTrigger>
-      <PopoverContent align="start" className="text-secondary text-sm">
-        {children}
-      </PopoverContent>
-    </Popover>
-  )
-}
-
-function SubHeading({ children }: { children: React.ReactNode }) {
-  return (
-    <Heading variant="subsection" className="text-base">
-      {children}
-    </Heading>
-  )
-}
-
-type CharToggleItem = BadgeToggleGroupItem & { value: keyof CharacterAutomationToggles }
-type CompToggleItem = BadgeToggleGroupItem & { value: keyof CompanionAutomationToggles }
-
-const CONSUMABLE_ITEMS: CharToggleItem[] = [
-  { value: "food", label: "Food / Drink" },
-  { value: "potions", label: "Potions" },
-  { value: "soulGems", label: "Soul Gems" },
-  { value: "repairKits", label: "Repair Kits" },
-  { value: "lockpicks", label: "Lockpicks" },
-  { value: "experienceScrolls", label: "XP Scrolls" },
-]
-
-const MAINTENANCE_ITEMS: CharToggleItem[] = [
-  { value: "equipment", label: "Equipment" },
-  { value: "recharge", label: "Recharge" },
-  { value: "repair", label: "Repair" },
-]
-
-const COMING_SOON_ITEMS: CharToggleItem[] = [
-  { value: "skills", label: "Skills" },
-  { value: "championPoints", label: "Champion Points" },
-  { value: "attributes", label: "Attributes" },
-]
-
-const WRIT_AUTOMATION_ITEMS: CharToggleItem[] = [
-  { value: "dailyWritAutoCraft", label: "Auto-Craft" },
-]
-
-const COMPANION_ITEMS: CompToggleItem[] = [
-  { value: "equipment", label: "Equipment" },
-  { value: "skills", label: "Skills" },
-]
 
 interface AutomationTabProps {
   active: boolean
@@ -85,23 +31,30 @@ interface AutomationTabProps {
 export function AutomationTab({ active }: AutomationTabProps) {
   const { automationSettings, updateGlobalCharacterToggle, updateGlobalCompanionToggle } =
     useAutomationSettings()
+  const phrase = usePhrase()
+
+  const consumableItems = useMemo(() => worded(CONSUMABLE_SLUGS, phrase), [phrase])
+  const maintenanceItems = useMemo(() => worded(MAINTENANCE_SLUGS, phrase), [phrase])
+  const comingSoonItems = useMemo(() => worded(COMING_SOON_SLUGS, phrase), [phrase])
+  const writAutomationItems = useMemo(() => worded(WRIT_AUTOMATION_SLUGS, phrase), [phrase])
+  const companionItems = useMemo(() => worded(COMPANION_SLUGS, phrase), [phrase])
 
   const globalChar = automationSettings.global?.characters
   const globalComp = automationSettings.global?.companions
 
   const consumableSelected = useMemo(
-    () => CONSUMABLE_ITEMS.filter((item) => globalChar?.[item.value]),
-    [globalChar]
+    () => consumableItems.filter((item) => globalChar?.[item.value]),
+    [globalChar, consumableItems]
   )
 
   const maintenanceSelected = useMemo(
-    () => MAINTENANCE_ITEMS.filter((item) => globalChar?.[item.value]),
-    [globalChar]
+    () => maintenanceItems.filter((item) => globalChar?.[item.value]),
+    [globalChar, maintenanceItems]
   )
 
   const comingSoonSelected = useMemo(
-    () => COMING_SOON_ITEMS.filter((item) => globalChar?.[item.value]),
-    [globalChar]
+    () => comingSoonItems.filter((item) => globalChar?.[item.value]),
+    [globalChar, comingSoonItems]
   )
 
   const { writCraftItems, masterWritCraftItems } = useWritCraftItems()
@@ -112,8 +65,8 @@ export function AutomationTab({ active }: AutomationTabProps) {
   )
 
   const writAutomationSelected = useMemo(
-    () => WRIT_AUTOMATION_ITEMS.filter((item) => globalChar?.[item.value]),
-    [globalChar]
+    () => writAutomationItems.filter((item) => globalChar?.[item.value]),
+    [globalChar, writAutomationItems]
   )
 
   const masterWritCraftSelected = useMemo(
@@ -122,8 +75,8 @@ export function AutomationTab({ active }: AutomationTabProps) {
   )
 
   const companionSelected = useMemo(
-    () => COMPANION_ITEMS.filter((item) => globalComp?.[item.value]),
-    [globalComp]
+    () => companionItems.filter((item) => globalComp?.[item.value]),
+    [globalComp, companionItems]
   )
 
   if (!active) return null
@@ -148,47 +101,38 @@ export function AutomationTab({ active }: AutomationTabProps) {
 
   return (
     <ResponsiveColumns>
-      <PanelCard id="character-defaults" title="Character Defaults">
+      <PanelCard id="character-defaults" title={phrase(words.characterDefaults)}>
         <div className="flex flex-col gap-6">
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Consumables</SubHeading>
-              <InfoPopover>
-                Automatically stock consumable items for all characters: food/drink, potions, soul
-                gems, repair kits, lockpicks, and XP scrolls.
-              </InfoPopover>
+              <SubHeading>{phrase(words.consumables)}</SubHeading>
+              <InfoPopover>{phrase(words.consumablesInfo)}</InfoPopover>
             </div>
             <BadgeToggleGroup
-              items={CONSUMABLE_ITEMS}
+              items={consumableItems}
               value={consumableSelected}
-              onSelect={(items) => handleCharToggle(items, CONSUMABLE_ITEMS, consumableSelected)}
+              onSelect={(items) => handleCharToggle(items, consumableItems, consumableSelected)}
               unselectedVariant="elevation-muted"
               wrap
             />
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Maintenance</SubHeading>
-              <InfoPopover>
-                Automatically manage equipment for all characters: equip gear to match builds,
-                recharge enchantments, and repair damage.
-              </InfoPopover>
+              <SubHeading>{phrase(words.maintenance)}</SubHeading>
+              <InfoPopover>{phrase(words.maintenanceInfo)}</InfoPopover>
             </div>
             <BadgeToggleGroup
-              items={MAINTENANCE_ITEMS}
+              items={maintenanceItems}
               value={maintenanceSelected}
-              onSelect={(items) => handleCharToggle(items, MAINTENANCE_ITEMS, maintenanceSelected)}
+              onSelect={(items) => handleCharToggle(items, maintenanceItems, maintenanceSelected)}
               unselectedVariant="elevation-muted"
               wrap
             />
           </div>
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Lock Worn Gear</SubHeading>
-              <InfoPopover>
-                Automatically Temper-Lock equipped gear so it can't be sold or deconstructed. On by
-                default.
-              </InfoPopover>
+              <SubHeading>{phrase(words.lockWornGear)}</SubHeading>
+              <InfoPopover>{phrase(words.lockWornGearInfo)}</InfoPopover>
             </div>
             <Switch
               checked={lockWornGearEnabled}
@@ -197,16 +141,13 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Coming Soon</SubHeading>
-              <InfoPopover>
-                These toggles will take effect once addon support is added: skill bars, champion
-                points, and attribute allocation.
-              </InfoPopover>
+              <SubHeading>{phrase(words.comingSoon)}</SubHeading>
+              <InfoPopover>{phrase(words.comingSoonInfo)}</InfoPopover>
             </div>
             <BadgeToggleGroup
-              items={COMING_SOON_ITEMS}
+              items={comingSoonItems}
               value={comingSoonSelected}
-              onSelect={(items) => handleCharToggle(items, COMING_SOON_ITEMS, comingSoonSelected)}
+              onSelect={(items) => handleCharToggle(items, comingSoonItems, comingSoonSelected)}
               disabled
               unselectedVariant="elevation-muted"
               wrap
@@ -215,12 +156,12 @@ export function AutomationTab({ active }: AutomationTabProps) {
         </div>
       </PanelCard>
 
-      <PanelCard id="daily-writs" title="Daily Writs">
+      <PanelCard id="daily-writs" title={phrase(words.dailyWrits)}>
         <div className="flex flex-col gap-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Daily Writs</SubHeading>
-              <InfoPopover>Enable automated daily writ crafting for all characters.</InfoPopover>
+              <SubHeading>{phrase(words.dailyWrits)}</SubHeading>
+              <InfoPopover>{phrase(words.dailyWritsInfo)}</InfoPopover>
             </div>
             <Switch
               checked={dailyWritsEnabled}
@@ -239,10 +180,8 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Crafts</SubHeading>
-              <InfoPopover>
-                Select which crafting professions to include in daily writ automation.
-              </InfoPopover>
+              <SubHeading>{phrase(words.crafts)}</SubHeading>
+              <InfoPopover>{phrase(words.dailyCraftsInfo)}</InfoPopover>
             </div>
             <BadgeToggleGroup
               items={writCraftItems}
@@ -255,16 +194,14 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Automation</SubHeading>
-              <InfoPopover>
-                Auto-craft at stations and auto-accept/complete writ quests.
-              </InfoPopover>
+              <SubHeading>{phrase(words.automation)}</SubHeading>
+              <InfoPopover>{phrase(words.dailyAutomationInfo)}</InfoPopover>
             </div>
             <BadgeToggleGroup
-              items={WRIT_AUTOMATION_ITEMS}
+              items={writAutomationItems}
               value={writAutomationSelected}
               onSelect={(items) =>
-                handleCharToggle(items, WRIT_AUTOMATION_ITEMS, writAutomationSelected)
+                handleCharToggle(items, writAutomationItems, writAutomationSelected)
               }
               disabled={!dailyWritsEnabled}
               unselectedVariant="elevation-muted"
@@ -274,15 +211,12 @@ export function AutomationTab({ active }: AutomationTabProps) {
         </div>
       </PanelCard>
 
-      <PanelCard id="master-writs" title="Master Writs">
+      <PanelCard id="master-writs" title={phrase(words.masterWrits)}>
         <div className="flex flex-col gap-6">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Master Writs</SubHeading>
-              <InfoPopover>
-                Enable automated master-writ (sealed writ) crafting for all characters. Off by
-                default — master writs consume expensive materials. Independent of daily writs.
-              </InfoPopover>
+              <SubHeading>{phrase(words.masterWrits)}</SubHeading>
+              <InfoPopover>{phrase(words.masterWritsInfo)}</InfoPopover>
             </div>
             <Switch
               checked={masterWritsEnabled}
@@ -300,10 +234,8 @@ export function AutomationTab({ active }: AutomationTabProps) {
           </div>
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Crafts</SubHeading>
-              <InfoPopover>
-                Select which crafting professions to include in master-writ automation.
-              </InfoPopover>
+              <SubHeading>{phrase(words.crafts)}</SubHeading>
+              <InfoPopover>{phrase(words.masterCraftsInfo)}</InfoPopover>
             </div>
             <BadgeToggleGroup
               items={masterWritCraftItems}
@@ -319,20 +251,18 @@ export function AutomationTab({ active }: AutomationTabProps) {
         </div>
       </PanelCard>
 
-      <PanelCard id="companion-defaults" title="Companion Defaults">
+      <PanelCard id="companion-defaults" title={phrase(words.companionDefaults)}>
         <div className="flex flex-col gap-6">
           <div className="flex flex-col gap-2">
             <div className="flex items-center gap-1.5">
-              <SubHeading>Automation</SubHeading>
-              <InfoPopover>
-                Automatically equip gear and skills to match companion builds.
-              </InfoPopover>
+              <SubHeading>{phrase(words.automation)}</SubHeading>
+              <InfoPopover>{phrase(words.companionAutomationInfo)}</InfoPopover>
             </div>
             <BadgeToggleGroup
-              items={COMPANION_ITEMS}
+              items={companionItems}
               value={companionSelected}
               onSelect={(items) => {
-                for (const item of COMPANION_ITEMS) {
+                for (const item of companionItems) {
                   const wasOn = companionSelected.some((s) => s.value === item.value)
                   const isOn = items.some((s) => s.value === item.value)
                   if (wasOn !== isOn) {

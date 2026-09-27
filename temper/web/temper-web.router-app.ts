@@ -379,6 +379,7 @@ export const temperWeb = {
     "module/version-history-item",
     "module/companion-weapons-after-change",
     "module/character-passive-search-row",
+    "module/automation-tab-wording",
   ],
   decisions: [
     {

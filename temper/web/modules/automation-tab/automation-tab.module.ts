@@ -11,5 +11,9 @@ export const automationTab = {
       decisionKind: "decision-kind/departure",
       statement: "A writ craft's toggle is labelled by its craft type page's title.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its other wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

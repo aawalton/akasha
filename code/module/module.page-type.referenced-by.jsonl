@@ -6143,6 +6143,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/automation-panel-card/automation-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/automation-select/automation-select.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/automation-tab-wording/automation-tab-wording.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/automation-tab/automation-tab.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/bank-upgrades-panel-card/bank-upgrades-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.ts","typed":true,"deferred":false}
