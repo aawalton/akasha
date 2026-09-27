@@ -26,6 +26,11 @@ import {
   weaponTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
 import type { WeaponTypeId } from "akasha/temper/catalog/gear/equipment/modules/weapon-type-ids/weapon-type-ids.module.code.ts"
+import { noQuality } from "akasha/temper/catalog/gear/temper-quality/pages/no-quality.temper-quality.ts"
+import { noSet } from "akasha/temper/catalog/gear/temper-set/pages/no-set/no-set.temper-set.ts"
+import { noEnchant } from "akasha/temper/catalog/gear/temper-weapon-enchant/pages/no-enchant/no-enchant.temper-weapon-enchant.ts"
+import { noTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/pages/no-trait/no-trait.temper-weapon-trait.ts"
+import { noType } from "akasha/temper/catalog/gear/temper-weapon-type/pages/no-type/no-type.temper-weapon-type.ts"
 import {
   type ArmorEnchantId,
   armorEnchants,
@@ -60,6 +65,8 @@ import {
   getSetById,
   SetSelectDialog,
 } from "akasha/temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { weaponCardRemove } from "akasha/temper/web/phrase/pages/weapon-card-remove.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
 
 interface WeaponCardProps {
@@ -88,6 +95,7 @@ export function WeaponCard({
   readOnly,
 }: WeaponCardProps) {
   const [isSetDialogOpen, setIsSetDialogOpen] = useState(false)
+  const phrase = usePhrase()
 
   const slotLabel = slotName
 
@@ -195,7 +203,7 @@ export function WeaponCard({
                       {getQualityLabel(itemData?.quality ?? "no-quality")}
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-quality", label: "No Quality" }}>
+                  <SelectContent nullSentinel={{ value: "no-quality", label: noQuality.title }}>
                     {availableQualityOptions()
                       .filter((option) => option.id !== "no-quality")
                       .map((option) => (
@@ -216,7 +224,7 @@ export function WeaponCard({
                   disabled={readOnly}
                 >
                   <Badge variant="elevation-muted" className="shrink-0">
-                    {selectedSet?.name ?? "No Set"}
+                    {selectedSet?.name ?? noSet.title}
                   </Badge>
                 </button>
                 <Select<WeaponTypeId>
@@ -226,10 +234,10 @@ export function WeaponCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder="No Type" />
+                      <SelectValue placeholder={noType.title} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-type", label: "No Type" }}>
+                  <SelectContent nullSentinel={{ value: "no-type", label: noType.title }}>
                     {validWeaponTypeOptions
                       .filter((option) => option.id !== "no-type")
                       .map((option) => (
@@ -246,10 +254,10 @@ export function WeaponCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder="No Trait" />
+                      <SelectValue placeholder={noTrait.title} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-trait", label: "No Trait" }} sorted>
+                  <SelectContent nullSentinel={{ value: "no-trait", label: noTrait.title }} sorted>
                     {(isShieldType ? armorTraitOptions : weaponTraitOptions)(
                       itemData?.trait ?? "no-trait"
                     )
@@ -268,10 +276,13 @@ export function WeaponCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder="No Enchant" />
+                      <SelectValue placeholder={noEnchant.title} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-enchant", label: "No Enchant" }} sorted>
+                  <SelectContent
+                    nullSentinel={{ value: "no-enchant", label: noEnchant.title }}
+                    sorted
+                  >
                     {enchantOptions
                       .filter((option) => option.id !== "no-enchant")
                       .map((option) => (
@@ -286,7 +297,7 @@ export function WeaponCard({
           </div>
         )}
         onRemove={!readOnly && hasValues ? onRemove : undefined}
-        removeLabel={`Remove ${slotLabel}`}
+        removeLabel={phrase(weaponCardRemove.slug, { name: slotLabel })}
       />
 
       {!readOnly && (

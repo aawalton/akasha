@@ -12,5 +12,10 @@ export const weaponCard = {
       statement:
         "The weapon types offered are drawn again whenever the gear tables are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its wording is read from web phrase pages, and each empty choice from its catalog page.",
+    },
   ],
 } as const satisfies Module
