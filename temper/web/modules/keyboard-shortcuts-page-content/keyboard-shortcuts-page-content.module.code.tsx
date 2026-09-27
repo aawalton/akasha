@@ -9,10 +9,29 @@ import { Button } from "akasha/design/interface/primitive/modules/button/button.
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { SHORTCUT_GROUPS } from "akasha/temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.code.ts"
 import { ShortcutSectionCard } from "akasha/temper/web/modules/shortcut-section-card/shortcut-section-card.module.code.tsx"
+import {
+  phraseIn,
+  usePhrase,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { keyboardShortcutsPageContentTitle } from "akasha/temper/web/phrase/pages/keyboard-shortcuts-page-content-title.temper-web-phrase.ts"
 import { ChevronLeft } from "lucide-react"
-import { useEffect, useState } from "react"
+import { useEffect, useMemo, useState } from "react"
 
 export function KeyboardShortcutsPageContent() {
+  const phrase = usePhrase()
+  const phrases = useWebPhrases()
+  const groups = useMemo(
+    () =>
+      SHORTCUT_GROUPS.map((group) => ({
+        title: phraseIn(phrases, group.title),
+        shortcuts: group.shortcuts.map((shortcut) => ({
+          ...shortcut,
+          description: phraseIn(phrases, shortcut.description),
+        })),
+      })),
+    [phrases]
+  )
   const [isMac, setIsMac] = useState(false)
   useEffect(() => {
     setIsMac(/Mac|iPhone|iPad|iPod/.test(navigator.platform))
@@ -27,14 +46,14 @@ export function KeyboardShortcutsPageContent() {
               <ChevronLeft className="h-4 w-4" />
             </Link>
           </Button>
-          <PageTitle>Keyboard Shortcuts</PageTitle>
+          <PageTitle>{phrase(keyboardShortcutsPageContentTitle.slug)}</PageTitle>
         </div>
       </PageLayout.Header>
 
       <PageLayout.Content>
         <ResponsiveColumns>
-          {SHORTCUT_GROUPS.map((group) => (
-            <ShortcutSectionCard key={group.title} group={group} isMac={isMac} />
+          {groups.map((group, i) => (
+            <ShortcutSectionCard key={SHORTCUT_GROUPS[i]?.title} group={group} isMac={isMac} />
           ))}
         </ResponsiveColumns>
       </PageLayout.Content>

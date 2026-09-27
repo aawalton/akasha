@@ -11,5 +11,9 @@ export const keyboardShortcutsData = {
       decisionKind: "decision-kind/departure",
       statement: "The shortcuts are listed in code, beside the code that binds them.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each title and description here is the slug of the web phrase page wording it.",
+    },
   ],
 } as const satisfies Module

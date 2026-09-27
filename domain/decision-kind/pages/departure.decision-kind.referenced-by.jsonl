@@ -6186,6 +6186,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/jewelry-card/jewelry-card.module.ts","id":"01a0642d-9a17-7d11-ac2a-0323df38b9ed"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.ts","id":"01a0642d-9a17-7e93-9404-efd12df3f8b9"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.ts","id":"01a06432-b190-70c9-b375-374e6c886d6a"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/keyboard-shortcuts-page-content/keyboard-shortcuts-page-content.module.ts","id":"01a06432-b190-7b3f-a5ae-593135ca5efe"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.ts","id":"01a0e0a0-2424-7003-ad9b-86cbf222b843"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/kiosk-names-loading/kiosk-names-loading.module.ts","id":"01a0e0b5-f996-7000-99ed-1f1b5400201e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/lore-library-gate/lore-library-gate.module.ts","id":"01a0e253-f855-7ce2-99e5-59b3cf0d1268"}

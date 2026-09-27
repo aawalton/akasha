@@ -1,3 +1,8 @@
+import { keyboardShortcutsDataCompletion } from "akasha/temper/web/phrase/pages/keyboard-shortcuts-data-completion.temper-web-phrase.ts"
+import { keyboardShortcutsDataGlobal } from "akasha/temper/web/phrase/pages/keyboard-shortcuts-data-global.temper-web-phrase.ts"
+import { keyboardShortcutsDataToggleActivityMode } from "akasha/temper/web/phrase/pages/keyboard-shortcuts-data-toggle-activity-mode.temper-web-phrase.ts"
+import { keyboardShortcutsDataToggleExpandAll } from "akasha/temper/web/phrase/pages/keyboard-shortcuts-data-toggle-expand-all.temper-web-phrase.ts"
+
 interface KeyCombo {
   mac: readonly string[]
   win: readonly string[]
@@ -13,23 +18,23 @@ interface ShortcutGroup {
   shortcuts: readonly ShortcutEntry[]
 }
 
-export const SHORTCUT_GROUPS = [
+export const SHORTCUT_GROUPS: readonly ShortcutGroup[] = [
   {
-    title: "Global",
+    title: keyboardShortcutsDataGlobal.slug,
     shortcuts: [
       {
-        description: "Toggle expand/collapse all",
+        description: keyboardShortcutsDataToggleExpandAll.slug,
         keys: [{ mac: ["⌘", "⌥", "T"], win: ["Ctrl", "Alt", "T"] }],
       },
     ],
   },
   {
-    title: "Completion",
+    title: keyboardShortcutsDataCompletion.slug,
     shortcuts: [
       {
-        description: "Toggle activity mode",
+        description: keyboardShortcutsDataToggleActivityMode.slug,
         keys: [{ mac: ["⌘", "⌥", "A"], win: ["Ctrl", "Alt", "A"] }],
       },
     ],
   },
-] satisfies ShortcutGroup[]
+]

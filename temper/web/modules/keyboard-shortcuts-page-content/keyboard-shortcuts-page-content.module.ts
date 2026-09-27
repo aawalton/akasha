@@ -6,4 +6,10 @@ export const keyboardShortcutsPageContent = {
   slug: "keyboard-shortcuts-page-content",
   definition: "the page listing every keyboard shortcut, spelled for the reader's platform",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
