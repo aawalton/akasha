@@ -5,6 +5,7 @@ import "akasha/temper/eso/type/eso-enums-12/eso-enums-12.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-17/eso-enums-17.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-event-manager/eso-event-manager.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-events/eso-events.type-declaration.d.ts"
+import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-10/eso-functions-10.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
@@ -14,6 +15,10 @@ import "akasha/temper/eso/type/eso-ui/eso-ui.type-declaration.d.ts"
 const TOMES_SCENE = "TamrielTomesSceneKeyboard"
 const NS = `${ADDON_NAME}_TomesBuyAll`
 const SETTLE_TIMEOUT_MS = 5000
+const ACTION_LIMIT = 95
+const ACTION_WINDOW_MS = 10000
+const ACTION_WINDOW_MARGIN_MS = 500
+const ACTION_HELD_MS = ACTION_WINDOW_MS + ACTION_WINDOW_MARGIN_MS
 
 interface ActiveTome {
   readonly index: number
@@ -66,6 +71,20 @@ function unboughtRewards(this: void, tome: ActiveTome): TomeReward[] {
 }
 
 let buying = false
+let tomesShown = false
+let run = 0
+let claimTimes: number[] = []
+
+function windowWaitMs(this: void): number {
+  const now = GetGameTimeMilliseconds()
+  const kept: number[] = []
+  for (const at of claimTimes) if (now - at < ACTION_HELD_MS) kept.push(at)
+  claimTimes = kept
+  const oldest = kept[0]
+  if (kept.length < ACTION_LIMIT || oldest === undefined) return 0
+  const wait = ACTION_HELD_MS - (now - oldest)
+  return wait > 0 ? wait : 1
+}
 
 function buyAll(this: void): undefined {
   if (buying) return
@@ -80,6 +99,8 @@ function buyAll(this: void): undefined {
     return
   }
   buying = true
+  run++
+  const thisRun = run
   const tomeIndex = tome.index
   let next = 0
   let bought = 0
@@ -100,16 +121,29 @@ function buyAll(this: void): undefined {
   }
 
   function buyNext(this: void): undefined {
+    if (!tomesShown) {
+      finish(" The Tomes screen closed.")
+      return
+    }
     while (next < queue.length) {
       const reward = requireAt(queue, next, "queue")
-      next++
       if (GetPlayerStoredCurrencyAmount(CURT_TOME_POINTS) < reward.cost) {
+        next++
         unaffordable++
         continue
       }
+      const wait = windowWaitMs()
+      if (wait > 0) {
+        zo_callLater(() => {
+          if (buying && run === thisRun) buyNext()
+        }, wait)
+        return
+      }
+      next++
       waiting = reward
       attempt++
       const thisAttempt = attempt
+      claimTimes.push(GetGameTimeMilliseconds())
       ClaimRewardTrackReward(
         REWARD_TRACK_TYPE_TAMRIEL_TOMES,
         tomeIndex,
@@ -170,8 +204,13 @@ export function registerTomesBuyAll(this: void): undefined {
   scene.RegisterCallback(
     "StateChange",
     function (this: void, _old: number, newState: number): undefined {
-      if (newState === SCENE_SHOWING) KEYBIND_STRIP.AddKeybindButtonGroup(keybinds)
-      else if (newState === SCENE_HIDDEN) KEYBIND_STRIP.RemoveKeybindButtonGroup(keybinds)
+      if (newState === SCENE_SHOWING) {
+        tomesShown = true
+        KEYBIND_STRIP.AddKeybindButtonGroup(keybinds)
+      } else if (newState === SCENE_HIDDEN) {
+        tomesShown = false
+        KEYBIND_STRIP.RemoveKeybindButtonGroup(keybinds)
+      }
     }
   )
 }
