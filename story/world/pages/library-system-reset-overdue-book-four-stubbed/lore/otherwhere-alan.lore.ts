@@ -85,7 +85,7 @@ export const otherwhereAlan = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "The Library's information packet failed to load into her, so she knows nothing of the Library.",
+      fact: "The Library's information packet failed to load into her, so she knows only what she has learned.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -124,14 +124,7 @@ export const otherwhereAlan = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "Nala's deep-bitten left forearm bleeds onto the salt; the arm is going numb and shaking.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "Nala has not yet learned a healing power from any book.",
       knowers: [
