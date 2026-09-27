@@ -16,5 +16,9 @@ export const buildDateLine = {
       decisionKind: "decision-kind/departure",
       statement: "A build with neither time says no date rather than the start of the epoch.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from the web phrase pages the screen holds.",
+    },
   ],
 } as const satisfies Module

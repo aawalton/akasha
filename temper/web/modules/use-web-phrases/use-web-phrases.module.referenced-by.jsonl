@@ -11,6 +11,8 @@
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/automation-tab/automation-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/build-action-buttons/build-action-buttons.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/build-date-line/build-date-line.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/build-date-line/build-date-line.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/build-description-panel-card/build-description-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/build-info-panel-card/build-info-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/builds-browse-tab/builds-browse-tab.module.code.tsx","typed":false,"deferred":false}
