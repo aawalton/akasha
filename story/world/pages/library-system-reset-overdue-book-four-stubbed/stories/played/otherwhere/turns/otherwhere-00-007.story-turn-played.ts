@@ -31,4 +31,5 @@ export const otherwhere00007 = {
     "Links sets a paw on the bottom step.",
   ],
   lore: ["lore/otherwhere-alan", "place/otherwhere-core-chamber", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
