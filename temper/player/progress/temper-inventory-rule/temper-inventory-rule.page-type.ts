@@ -16,6 +16,7 @@ export const temperInventoryRule = {
     "multi-relation-property/skill-lines",
     "boolean-property/craft-shortfall",
     "boolean-property/buy-shortfall",
+    "number-property/buy-max-price",
   ],
   properties: [
     { pageProperty: "relation-property/account-page", required: true, many: false },
@@ -28,6 +29,7 @@ export const temperInventoryRule = {
     { pageProperty: "relation-property/item-category", required: true, many: false },
     { pageProperty: "boolean-property/craft-shortfall", required: false, many: false },
     { pageProperty: "boolean-property/buy-shortfall", required: false, many: false },
+    { pageProperty: "number-property/buy-max-price", required: false, many: false },
   ],
   decisions: [
     {

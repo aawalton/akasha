@@ -1,3 +1,4 @@
+import type { BuyMaxPrice } from "akasha/temper/player/progress/temper-inventory-rule/properties/buy-max-price.number-property.types.ts"
 import type { BuyShortfall } from "akasha/temper/player/progress/temper-inventory-rule/properties/buy-shortfall.boolean-property.types.ts"
 import type { CraftShortfall } from "akasha/temper/player/progress/temper-inventory-rule/properties/craft-shortfall.boolean-property.types.ts"
 import type { DestinationChain } from "akasha/temper/player/progress/temper-inventory-rule/properties/destination-chain.page-property-entry.types.ts"
@@ -21,4 +22,5 @@ export type TemperInventoryRule = TemperRule & {
   categoryId: ItemCategory
   craftShortfall?: CraftShortfall
   buyShortfall?: BuyShortfall
+  buyMaxPrice?: BuyMaxPrice
 }
