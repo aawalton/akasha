@@ -15,5 +15,10 @@ export const actionFilterCascades = {
       decisionKind: "decision-kind/departure",
       statement: "Deconstruct modes are named from deconstruct mode pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A Move To group's Any choice reads Any and that group's venue or location type title.",
+    },
   ],
 } as const satisfies Module

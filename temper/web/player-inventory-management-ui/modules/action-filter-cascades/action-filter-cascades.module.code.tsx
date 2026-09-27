@@ -164,7 +164,7 @@ export function MoveToCascade({
         <SubBadgeSelect
           value={sub2}
           options={characterOptions}
-          allLabel="Any Character"
+          allLabel={`Any ${titleIn(places, character.key)}`}
           onChange={onSub2Change}
         />
       )}
@@ -173,7 +173,7 @@ export function MoveToCascade({
         <SubBadgeSelect
           value={sub2}
           options={guildBankOptions}
-          allLabel="Any Guild Bank"
+          allLabel={`Any ${titleIn(venues, guildBank.key)}`}
           onChange={onSub2Change}
         />
       )}
@@ -182,7 +182,7 @@ export function MoveToCascade({
         <SubBadgeSelect
           value={sub2}
           options={housingStorageOptions}
-          allLabel="Any Housing Storage"
+          allLabel={`Any ${titleIn(places, housingStorage.key)}`}
           onChange={onSub2Change}
         />
       )}
