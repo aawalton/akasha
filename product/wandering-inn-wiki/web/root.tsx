@@ -2,14 +2,15 @@ import { useDocumentNonce } from "akasha/code/router-app/modules/document-nonce/
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { innworldWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/innworld-web.web-app.ts"
 import { SiteDocumentHead } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/head/site-document-head.module.code.tsx"
-import {
-  loaderAt,
-  metaFor,
-} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
-import { phrasesRead } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
+import { metaFor } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { PhrasedErrorScreen } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/error-screen/web-phrase-error-screen.module.code.tsx"
+import { seededLoaderAt } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
+import { errorScreenErrorTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/error-screen-error-title.web-phrase.ts"
+import { innworldErrorNotFound } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/innworld-error-not-found.web-phrase.ts"
+import { innworldErrorWentWrong } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/innworld-error-went-wrong.web-phrase.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type React from "react"
-import { isRouteErrorResponse, Links, Meta, Scripts, ScrollRestoration } from "react-router"
+import { Links, Meta, Scripts, ScrollRestoration } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/product/wandering-inn-wiki/web/look/wandering-inn-wiki-web-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
@@ -18,10 +19,13 @@ const WEB_APP = namedAs("web-app", innworldWeb.slug, null)
 
 export const meta = metaFor(null)
 
-export async function loader() {
-  const [site, phrases] = await Promise.all([loaderAt(WEB_APP, "")(), phrasesRead()])
-  return { ...site, phrases }
+const SAID = {
+  notFound: innworldErrorNotFound.slug,
+  wentWrong: innworldErrorWentWrong.slug,
+  thrown: errorScreenErrorTitle.slug,
 }
+
+export const loader = seededLoaderAt(WEB_APP, "")
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useDocumentNonce()
@@ -51,11 +55,5 @@ export default function App() {
 }
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
-  const notFound = isRouteErrorResponse(error) && error.status === 404
-  return (
-    <main className="mx-auto max-w-3xl p-8">
-      <h1>{notFound ? "404" : "Error"}</h1>
-      <p>{notFound ? "No page is here." : "Something went wrong."}</p>
-    </main>
-  )
+  return <PhrasedErrorScreen error={error} said={SAID} />
 }

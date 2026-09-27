@@ -14,13 +14,14 @@ import {
   metaFor,
   siteDocumentAt,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { PhrasedErrorScreen } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/error-screen/web-phrase-error-screen.module.code.tsx"
 import { phrasesRead } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 import { ARCHIVE_OF_WORLDS_APP } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-app-id/archive-of-worlds-app-id.module.code.ts"
 import { ARCHIVE_OF_WORLDS_SITE } from "akasha/product/archive-of-worlds/web/modules/archive-of-worlds-handover-site/archive-of-worlds-handover-site.module.code.ts"
 import type React from "react"
 import { useEffect } from "react"
-import { isRouteErrorResponse, Links, Meta, Scripts, ScrollRestoration } from "react-router"
+import { Links, Meta, Scripts, ScrollRestoration } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/product/archive-of-worlds/web/look/archive-of-worlds-web-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
@@ -87,33 +88,5 @@ export default function App() {
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
   useReportRenderError(error, "archive-of-worlds")
-
-  let message = "Oops!"
-  let details = "An unexpected error occurred."
-  let stack: string | undefined
-
-  if (isRouteErrorResponse(error)) {
-    message = error.status === 404 ? "404" : "Error"
-    details =
-      error.status === 404
-        ? "The requested page could not be found."
-        : error.statusText !== ""
-          ? error.statusText
-          : details
-  } else if (import.meta.env.DEV === true && error instanceof Error) {
-    details = error.message
-    stack = error.stack
-  }
-
-  return (
-    <main className="mx-auto max-w-7xl p-4 pt-16">
-      <h1>{message}</h1>
-      <p>{details}</p>
-      {stack != null ? (
-        <pre className="w-full overflow-x-auto p-4">
-          <code>{stack}</code>
-        </pre>
-      ) : null}
-    </main>
-  )
+  return <PhrasedErrorScreen error={error} />
 }

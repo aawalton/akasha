@@ -6,13 +6,12 @@ import { fontPreloading } from "akasha/code/router-app/modules/font-preload/font
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { audhdalanWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/audhdalan-web.web-app.ts"
 import { SiteDocumentHead } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/head/site-document-head.module.code.tsx"
-import {
-  loaderAt,
-  metaFor,
-} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { metaFor } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { PhrasedErrorScreen } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/error-screen/web-phrase-error-screen.module.code.tsx"
+import { seededLoaderAt } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type React from "react"
-import { isRouteErrorResponse, Links, Meta, Scripts, ScrollRestoration } from "react-router"
+import { Links, Meta, Scripts, ScrollRestoration } from "react-router"
 import type { Route } from "./+types/root"
 import "akasha/product/audhdalan/web/look/audhdalan-web-look.stylesheet.styles.css"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
@@ -23,7 +22,7 @@ export const links: Route.LinksFunction = () => fontPreloading(geistSansWoff2)
 
 export const meta = metaFor(null)
 
-export const loader = loaderAt(WEB_APP, "")
+export const loader = seededLoaderAt(WEB_APP, "")
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const nonce = useDocumentNonce()
@@ -53,33 +52,5 @@ export default function App() {
 
 export function ErrorBoundary({ error }: Route.ErrorBoundaryProps) {
   useReportRenderError(error, "audhdalan")
-
-  let message = "Oops!"
-  let details = "An unexpected error occurred."
-  let stack: string | undefined
-
-  if (isRouteErrorResponse(error)) {
-    message = error.status === 404 ? "404" : "Error"
-    details =
-      error.status === 404
-        ? "The requested page could not be found."
-        : error.statusText !== ""
-          ? error.statusText
-          : details
-  } else if (import.meta.env.DEV === true && error instanceof Error) {
-    details = error.message
-    stack = error.stack
-  }
-
-  return (
-    <main className="mx-auto max-w-7xl p-4 pt-16">
-      <h1>{message}</h1>
-      <p>{details}</p>
-      {stack != null ? (
-        <pre className="w-full overflow-x-auto p-4">
-          <code>{stack}</code>
-        </pre>
-      ) : null}
-    </main>
-  )
+  return <PhrasedErrorScreen error={error} />
 }

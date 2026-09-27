@@ -1964,6 +1964,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/welcome/site-document-welcome.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/modules/reading/slide-reading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/error-screen/web-phrase-error-screen.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"infrastructure/storage/container-registry/modules/registry-constants/registry-constants.module.ts","typed":true,"deferred":false}

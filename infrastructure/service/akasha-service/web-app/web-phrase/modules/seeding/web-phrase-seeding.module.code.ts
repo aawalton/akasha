@@ -1,4 +1,8 @@
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
+import {
+  type DocumentData,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { webPhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/web-phrase.page-type.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 
@@ -13,4 +17,13 @@ export async function phrasesRead(): Promise<readonly SeededPhrase[]> {
     if (slug !== null && title !== null) read.push({ slug, title })
   }
   return read
+}
+
+export type SeededDocument = DocumentData & { readonly phrases: readonly SeededPhrase[] }
+
+export function seededLoaderAt(webApp: string, urlPath: string): () => Promise<SeededDocument> {
+  return async () => {
+    const [document, phrases] = await Promise.all([siteDocumentAt(webApp, urlPath), phrasesRead()])
+    return { document, phrases }
+  }
 }

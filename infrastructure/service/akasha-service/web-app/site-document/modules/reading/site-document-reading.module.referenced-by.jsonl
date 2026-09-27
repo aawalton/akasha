@@ -20,6 +20,7 @@
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/head/site-document-head.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/welcome/site-document-welcome.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"product/archive-of-worlds/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"product/archive-of-worlds/web/routes/archive-of-worlds-home/archive-of-worlds-home.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"site-document-reading.module.code.ts","path":"product/audhdalan/web/modules/subscribe-form/subscribe-form.module.code.tsx","typed":true,"deferred":false}
