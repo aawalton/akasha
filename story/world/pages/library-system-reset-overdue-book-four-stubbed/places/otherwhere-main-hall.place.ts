@@ -104,6 +104,14 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "An engorged bookworm will not cross an unbroken line of salt, so a salt ring pens it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A bookworm pressed into heaped salt keeps drying for as long as it is held there.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
