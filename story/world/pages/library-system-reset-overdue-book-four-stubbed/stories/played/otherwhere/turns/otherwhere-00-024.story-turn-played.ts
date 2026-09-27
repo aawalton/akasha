@@ -27,4 +27,5 @@ export const otherwhere00024 = {
     "Its skin puckers and hisses under the salt; it thrashes, weaker now, but still strong in her grip.",
     "Blood runs down her left arm and drips onto the salt, and the arm is going numb and shaky.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
