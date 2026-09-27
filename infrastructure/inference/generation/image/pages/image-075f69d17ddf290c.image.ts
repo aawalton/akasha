@@ -4,4 +4,5 @@ export const image075f69d17ddf290c = {
   id: "01a0c5f4-1914-7386-a01a-56c7b8a3a420",
   type: "page-type/image",
   slug: "image-075f69d17ddf290c",
+  subjects: "F",
 } as const satisfies Image

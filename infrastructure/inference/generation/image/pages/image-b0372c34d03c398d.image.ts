@@ -10,4 +10,5 @@ export const imageB0372c34d03c398d = {
   prompt:
     "Keep the exact same woman from the reference image -- identical kpop idol face, bone structure, nose, lips, jawline, fair skin tone, and slim build. Keep her hair its distinctive sky-blue color, cut as a chin-length bob with a side-swept fringe -- do not change the blue to any natural hair color -- and keep her clear magical sky-blue eyes (not standard blue) and youthful features exactly as in the reference. Do not slim, age, beautify, or alter her features. Recompose the reference into ONE entirely new photograph: head and shoulders at a bright outdoor farmers market with blurred stalls, soft daylight, hair half-up, wearing a chambray shirt, easy smile, candid photo. Natural skin texture, realistic photographic lighting, sharp focus on the face. photo",
   inputImage: "image/image-f25c882c9b062373",
+  subjects: "F",
 } as const satisfies Image

@@ -8,4 +8,5 @@ export const image2ded5e2761cc5cd5 = {
   grade: "S-",
   esoDay: "2026-07-24",
   relationshipLevel: "closeness-level/level-1",
+  subjects: "F",
 } as const satisfies Image

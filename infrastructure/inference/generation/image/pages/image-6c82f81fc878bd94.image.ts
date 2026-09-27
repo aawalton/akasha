@@ -10,4 +10,5 @@ export const image6c82f81fc878bd94 = {
   prompt:
     "Keep the exact same woman from the reference image -- identical face, bone structure, nose, lips, jawline, and fair skin tone, and the same natural hair length and texture. Keep her hair its natural light blonde color (do not darken it to brown or dishwater blonde) and keep her clear blue eyes and warm, open, lightly freckled features exactly as in the reference. Do not slim, age, beautify, or glamorize her features. Recompose the reference into ONE entirely new photograph: half-body three-quarter view on a green forest path with dappled light, soft natural daylight, hair in a ponytail, wearing a khaki utility jacket, calm serene expression. Natural skin texture, realistic photographic lighting, sharp focus on the face. photo",
   inputImage: "image/image-e878aec0e63b6951",
+  subjects: "F",
 } as const satisfies Image
