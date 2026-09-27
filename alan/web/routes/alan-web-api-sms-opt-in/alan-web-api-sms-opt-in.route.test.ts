@@ -35,6 +35,7 @@ const CARRIED = [
 const GIVEN = {
   name: "Held Name",
   e164: "+16085550100",
+  version: "2026-09-11",
   submittedAt: "2026-09-25T12:00:00.000Z",
   address: "203.0.113.9",
   agent: "held agent",
@@ -43,6 +44,10 @@ const GIVEN = {
 test("a consent hands over only values an sms-consent page carries", () => {
   const page = consentPageFor(GIVEN)
   for (const key of Object.keys(page.values)) expect(CARRIED).toContain(key)
+})
+
+test("a consent records the version of the wording the visitor was shown", () => {
+  expect(consentPageFor(GIVEN).values.consentTextVersion).toBe(GIVEN.version)
 })
 
 test("a consent names the page type in the page rather than among its values", () => {

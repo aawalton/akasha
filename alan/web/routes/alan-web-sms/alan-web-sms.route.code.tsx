@@ -7,16 +7,26 @@ import {
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
+import {
+  consentWordingRead,
+  SMS_CONSENT_WORDING,
+} from "akasha/person/modules/sms-consent/sms-consent.module.code.ts"
 import { SmsOptInForm } from "akasha/person/modules/sms-opt-in/sms-opt-in.module.code.tsx"
 
 const WEB_APP = namedAs("web-app", alanwaltonWeb.slug, null)
 
-const READ = [SITE_DOCUMENT]
+const READ = [SITE_DOCUMENT, SMS_CONSENT_WORDING]
 
-const BENEATH = { "opt-in": <SmsOptInForm /> }
+const OPT_IN = "opt-in"
+
+const OPT_OUT = "opt-out"
 
 export async function loader() {
-  return { document: await siteDocumentAt(WEB_APP, "sms") }
+  const [document, wording] = await Promise.all([
+    siteDocumentAt(WEB_APP, "sms"),
+    consentWordingRead(),
+  ])
+  return { document, wording }
 }
 
 type SmsLoaderData = Awaited<ReturnType<typeof loader>>
@@ -27,5 +37,8 @@ export function meta({ data }: { data: SmsLoaderData | undefined }) {
 
 export default function SmsRoute({ loaderData }: { loaderData: SmsLoaderData }) {
   useLoaderFollowing(READ)
-  return <SiteDocumentDrawing document={loaderData.document} beneath={BENEATH} />
+  const { document, wording } = loaderData
+  const afterward = document.sections.find((one) => one.anchor === OPT_OUT)?.lead ?? null
+  const beneath = { [OPT_IN]: <SmsOptInForm wording={wording} afterward={afterward} /> }
+  return <SiteDocumentDrawing document={document} beneath={beneath} />
 }

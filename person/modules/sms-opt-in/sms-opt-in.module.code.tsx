@@ -3,7 +3,7 @@ import { Checkbox } from "akasha/design/interface/primitive/modules/checkbox/che
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
 import { Label } from "akasha/design/interface/primitive/modules/label/label.module.code.tsx"
-import { CONSENT_TEXT } from "akasha/person/modules/sms-consent/sms-consent.module.code.ts"
+import type { ConsentWording } from "akasha/person/modules/sms-consent/sms-consent.module.code.ts"
 import { type FormEvent, useState } from "react"
 import { z } from "zod"
 
@@ -11,7 +11,13 @@ const ResponseSchema = z.object({ ok: z.boolean().optional(), error: z.string().
 
 type Status = "idle" | "submitting" | "success" | "error"
 
-export function SmsOptInForm() {
+export function SmsOptInForm({
+  wording,
+  afterward,
+}: {
+  wording: ConsentWording
+  afterward: string | null
+}) {
   const [status, setStatus] = useState<Status>("idle")
   const [error, setError] = useState<string | null>(null)
   const [consent, setConsent] = useState(false)
@@ -43,7 +49,13 @@ export function SmsOptInForm() {
       const response = await fetch("/api/sms/opt-in", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
-        body: JSON.stringify({ name, phone, consent: true, website }),
+        body: JSON.stringify({
+          name,
+          phone,
+          consent: true,
+          consentTextVersion: wording.version,
+          website,
+        }),
       })
       const parsed = ResponseSchema.safeParse(await response.json().catch(() => null))
       const body = parsed.success ? parsed.data : {}
@@ -63,10 +75,7 @@ export function SmsOptInForm() {
     return (
       <div className="space-y-2" role="status">
         <Heading variant="subsection-accent">Thank you &mdash; your consent is recorded.</Heading>
-        <p className="text-secondary text-sm">
-          You&rsquo;ve opted in to receive SMS text messages from Amy. Reply <strong>STOP</strong>{" "}
-          at any time to opt out, or <strong>HELP</strong> for help.
-        </p>
+        {afterward === null ? null : <p className="text-secondary text-sm">{afterward}</p>}
       </div>
     )
   }
@@ -111,7 +120,7 @@ export function SmsOptInForm() {
           htmlFor="opt-in-consent"
           className="block font-normal text-secondary text-sm leading-relaxed"
         >
-          {CONSENT_TEXT} See our{" "}
+          {wording.wording} See our{" "}
           <a className="text-accent underline" href="/terms">
             Terms
           </a>{" "}

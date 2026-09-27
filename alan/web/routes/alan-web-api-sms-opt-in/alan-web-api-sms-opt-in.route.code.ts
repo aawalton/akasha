@@ -6,7 +6,7 @@ import {
   writingFor,
 } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 import type { Wrote } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
-import { CONSENT_TEXT_VERSION } from "akasha/person/modules/sms-consent/sms-consent.module.code.ts"
+import { consentWordingRead } from "akasha/person/modules/sms-consent/sms-consent.module.code.ts"
 import { z } from "zod"
 
 const CORS_METHODS = "POST, OPTIONS"
@@ -29,6 +29,7 @@ const BodySchema = z
     name: z.string().trim().min(1).max(200),
     phone: z.string().trim().min(1).max(40),
     consent: z.literal(true),
+    consentTextVersion: z.string().min(1).max(50),
     website: z.string().max(200).optional(),
   })
   .strict()
@@ -54,6 +55,7 @@ function agentOf(request: Request): string | null {
 type Consenting = {
   readonly name: string
   readonly e164: string
+  readonly version: string
   readonly submittedAt: string
   readonly address: string | null
   readonly agent: string | null
@@ -73,7 +75,7 @@ export function consentPageFor(given: Consenting): ConsentPage {
       title: given.name,
       phone: given.e164,
       consent: true,
-      consentTextVersion: CONSENT_TEXT_VERSION,
+      consentTextVersion: given.version,
       submittedAt: given.submittedAt,
       ...(given.address === null ? {} : { ipAddress: given.address }),
       ...(given.agent === null ? {} : { userAgent: given.agent }),
@@ -132,7 +134,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
       { status: 400, headers: cors }
     )
   }
-  const { name, phone, website } = parsed.data
+  const { name, phone, consentTextVersion, website } = parsed.data
 
   if (website != null && website.length > 0) {
     return Response.json({ ok: true }, { headers: cors })
@@ -146,9 +148,18 @@ export async function action({ request }: { request: Request }): Promise<Respons
     )
   }
 
+  const shown = await consentWordingRead()
+  if (shown.version !== consentTextVersion) {
+    return Response.json(
+      { error: "The wording has changed since this page opened. Please read it again." },
+      { status: 409, headers: cors }
+    )
+  }
+
   const page = consentPageFor({
     name,
     e164,
+    version: consentTextVersion,
     submittedAt: new Date().toISOString(),
     address: addressOf(request),
     agent: agentOf(request),

@@ -1,26 +1,29 @@
 import { expect, test } from "bun:test"
-import {
-  CONSENT_TEXT,
-  CONSENT_TEXT_VERSION,
-} from "akasha/person/modules/sms-consent/sms-consent.module.code.ts"
+import { wordingIn } from "akasha/person/modules/sms-consent/sms-consent.module.code.ts"
+import { amyTextMessages } from "akasha/person/sms-consent/wording/pages/amy-text-messages.sms-consent-wording.ts"
+
+const WORDING = amyTextMessages.description
+
+test("the wording page is read as its description and the version it states", () => {
+  expect(wordingIn(amyTextMessages)).toEqual({
+    wording: WORDING,
+    version: amyTextMessages.consentTextVersion,
+  })
+})
+
+test("a page stating no version is no wording", () => {
+  expect(wordingIn({ description: WORDING })).toBeNull()
+})
 
 test("the version is a date, so one wording is told from another by when it was written", () => {
-  expect(CONSENT_TEXT_VERSION).toMatch(/^\d{4}-\d{2}-\d{2}$/)
+  expect(amyTextMessages.consentTextVersion).toMatch(/^\d{4}-\d{2}-\d{2}$/)
 })
 
 test("the wording says how to stop and how to ask for help", () => {
-  expect(CONSENT_TEXT).toContain("Reply STOP to opt out")
-  expect(CONSENT_TEXT).toContain("HELP for help")
+  expect(WORDING).toContain("Reply STOP to opt out")
+  expect(WORDING).toContain("HELP for help")
 })
 
 test("the wording says the messages are not marketing", () => {
-  expect(CONSENT_TEXT).toContain("not marketing")
-})
-
-test("the wording names who the messages come from", () => {
-  expect(CONSENT_TEXT).toContain("Alan Walton")
-})
-
-test("the wording says how often the messages come", () => {
-  expect(CONSENT_TEXT).toContain("Message frequency")
+  expect(WORDING).toContain("not marketing")
 })

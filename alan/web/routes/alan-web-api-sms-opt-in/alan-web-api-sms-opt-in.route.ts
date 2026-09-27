@@ -23,6 +23,14 @@ export const alanWebApiSmsOptIn = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A consent records the version of the wording the form showed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A version the wording page no longer states is refused rather than recorded.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A consent given here is written down as an `sms-consent` page.",
     },
     {

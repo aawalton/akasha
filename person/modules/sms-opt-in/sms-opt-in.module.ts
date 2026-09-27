@@ -14,7 +14,11 @@ export const smsOptIn = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The wording shown beside the box is the whole wording the consent module states.",
+      statement: "The wording shown beside the box is the whole wording the wording page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The form sends the version of the wording it showed.",
     },
     {
       decisionKind: "decision-kind/departure",

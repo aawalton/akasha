@@ -18,6 +18,10 @@ export const smsConsent = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The wording and its version are read off the wording page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The wording says how to stop.",
     },
     {
