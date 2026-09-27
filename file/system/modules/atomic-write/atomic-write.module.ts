@@ -6,7 +6,12 @@ export const atomicWrite = {
   slug: "atomic-write",
   definition: "a body put at a path with no reader ever seeing the path half written",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A write asked to keep the mode gives the new body the mode the path already had.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A write that throws leaves the path the write was asked for as the path was.",

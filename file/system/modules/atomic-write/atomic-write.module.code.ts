@@ -1,10 +1,18 @@
-import { renameSync, rmSync, writeFileSync } from "node:fs"
+import { chmodSync, renameSync, rmSync, statSync, writeFileSync } from "node:fs"
 import { pause } from "akasha/code/modules/thread-pause/thread-pause.module.code.ts"
 
 interface AtomicWriteOptions {
   readonly mode?: number
+  readonly keepMode?: boolean
   readonly retryOnBusy?: boolean
   readonly onRetry?: (message: string) => void
+}
+
+const PERMISSIONS = 0o7777
+
+function modeHeldAt(path: string): number | undefined {
+  const held = statSync(path, { throwIfNoEntry: false })
+  return held === undefined ? undefined : held.mode & PERMISSIONS
 }
 
 const MAX_ATTEMPTS = 5
@@ -39,13 +47,16 @@ export function writeFileAtomicSync(
   options?: AtomicWriteOptions
 ): undefined {
   const tmp = tempPathFor(path)
-  const writeOpts = options?.mode !== undefined ? { mode: options.mode } : {}
+  const mode = options?.mode ?? (options?.keepMode === true ? modeHeldAt(path) : undefined)
+  const writeOpts = mode !== undefined ? { mode } : {}
   try {
     if (options?.retryOnBusy === true) {
       retrySync(() => writeFileSync(tmp, data, writeOpts), `write ${tmp}`, options.onRetry)
+      if (mode !== undefined) chmodSync(tmp, mode)
       retrySync(() => renameSync(tmp, path), `rename ${tmp} -> ${path}`, options.onRetry)
     } else {
       writeFileSync(tmp, data, writeOpts)
+      if (mode !== undefined) chmodSync(tmp, mode)
       renameSync(tmp, path)
     }
   } catch (err) {

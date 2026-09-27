@@ -1,4 +1,4 @@
-import { mkdirSync, rmSync, writeFileSync } from "node:fs"
+import { mkdirSync, rmSync } from "node:fs"
 import { homedir } from "node:os"
 import { dirname, join } from "node:path"
 import type { Reading as AsRead } from "akasha/agent/modules/read-record/read-record.module.code.ts"
@@ -82,6 +82,7 @@ import {
   writesOutside,
 } from "akasha/command/modules/said-pathing/said-pathing.module.code.ts"
 import { allowedThrough } from "akasha/command/modules/stopping/command-stopping.module.code.ts"
+import { writeFileAtomicSync } from "akasha/file/system/modules/atomic-write/atomic-write.module.code.ts"
 import {
   readingEnded,
   readingGone,
@@ -164,7 +165,7 @@ function wroteOnto(
       continue
     }
     mkdirSync(dirname(at), { recursive: true })
-    writeFileSync(at, one.body)
+    writeFileAtomicSync(at, one.body, { keepMode: true })
     wrote.push(one.path)
   }
   return { wrote, took }

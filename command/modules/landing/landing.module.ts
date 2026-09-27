@@ -307,6 +307,7 @@ export const landing = {
       decisionKind: "decision-kind/departure",
       statement: "A body reaches disk only after every check has passed.",
     },
+
     {
       decisionKind: "decision-kind/departure",
       statement: "A path landing outside the repository refuses the change unwritten.",
