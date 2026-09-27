@@ -8,7 +8,7 @@ export const invigorating = {
   key: "invigorating",
   effect: "Increases Health, Magicka, and Stamina Recovery",
   material: "Garnet",
-  esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_PROLIFIC",
+  esoTraitConstantName: "ITEM_TRAIT_TYPE_ARMOR_PROSPEROUS",
   displayOrder: 4,
   effects: "jsonl",
   hashPlace: 4,
