@@ -71,6 +71,10 @@ export const otherwhereMainHall = {
       fact: "Bookworms feed on magical residue, clean up book dust, and have affinities of their own.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Left untended for centuries, bookworms at the back of the hall have grown engorged and huge.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
