@@ -6,6 +6,7 @@ export const daggerfallCovenant = {
   slug: "daggerfall-covenant",
   title: "Daggerfall Covenant",
   esoItemStyleId: 23,
+  styleName: "Daggerfall Covenant",
   collectionIndex: 15,
   sourceDescription: "DC treasure chests in Cyrodiil",
 } as const satisfies TemperMotifStyle
