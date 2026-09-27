@@ -1,10 +1,10 @@
 import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
-export const dragonsAndDungeonsAria = {
-  id: "01a0de42-c0fc-758f-80a1-920068aeb215",
+export const dragonsAndDungeonsCeri = {
+  id: "01a0e393-2c18-7491-9600-eaf2b42842e6",
   type: "page-type/character-other",
-  slug: "dragons-and-dungeons-aria",
-  title: "Aria",
+  slug: "dragons-and-dungeons-ceri",
+  title: "Ceri",
   story: "story-played/dragons-and-dungeons",
-  persona: "persona/aria",
+  persona: "persona/ceri",
 } as const satisfies CharacterOther

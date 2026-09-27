@@ -6,4 +6,5 @@ export const dragonsAndDungeonsMari = {
   slug: "dragons-and-dungeons-mari",
   title: "Mari",
   story: "story-played/dragons-and-dungeons",
+  persona: "persona/mari",
 } as const satisfies CharacterOther
