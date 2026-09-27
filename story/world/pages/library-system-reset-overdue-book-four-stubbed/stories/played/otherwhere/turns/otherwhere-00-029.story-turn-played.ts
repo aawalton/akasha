@@ -28,4 +28,5 @@ export const otherwhere00029 = {
     "She lies across it, fists locked, as the thrashing weakens under her.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
