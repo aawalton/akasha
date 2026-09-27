@@ -14,7 +14,25 @@ import { locationOptions } from "akasha/temper/items/rules/core/modules/location
 import { setSourceTypeOptions } from "akasha/temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import type { RuleCardState } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-filter-id/rule-card-filter-chips-item-filter-id.module.code.ts"
+import {
+  phraseOf,
+  type RuleCardPhrases,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  titleOfFilter,
+  useConditionFieldTitles,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-field-titles/use-condition-field-titles.module.code.tsx"
 import { type ReactNode, useMemo } from "react"
+
+function chosenOf(
+  phrases: RuleCardPhrases,
+  count: number,
+  keys: { none: string; one: string; many: string }
+): string {
+  if (count === 0) return phraseOf(phrases, keys.none)
+  return phraseOf(phrases, count === 1 ? keys.one : keys.many, { count: String(count) })
+}
 
 interface TraitsChipProps {
   state: Pick<
@@ -25,6 +43,9 @@ interface TraitsChipProps {
 
 export function TraitsChip({ state }: TraitsChipProps): ReactNode {
   const { traitOptions, selectedTraitItems, handleTraitChange, handleRemoveFilter } = state
+  const phrases = useRuleCardPhrases()
+  const titles = useConditionFieldTitles()
+  if (phrases === null || titles === null) return null
 
   return (
     <Popover>
@@ -37,15 +58,17 @@ export function TraitsChip({ state }: TraitsChipProps): ReactNode {
           removeLabel="Remove trait filter"
         >
           <span>
-            {selectedTraitItems.length > 0
-              ? `${selectedTraitItems.length} Trait${selectedTraitItems.length === 1 ? "" : "s"}`
-              : "Select Traits"}
+            {chosenOf(phrases, selectedTraitItems.length, {
+              none: "select-traits",
+              one: "count-trait",
+              many: "count-traits",
+            })}
           </span>
         </Badge>
       </PopoverTrigger>
       <PopoverContent align="start" className="flex flex-col gap-2">
         <Text variant="hint" className="font-medium">
-          Traits
+          {titleOfFilter(titles, "traits")}
         </Text>
         <BadgeToggleGroup
           items={traitOptions}
@@ -68,6 +91,9 @@ interface SetSourcesChipProps {
 
 export function SetSourcesChip({ state }: SetSourcesChipProps): ReactNode {
   const { selectedSetSourceItems, handleSetSourceTypesChange, handleRemoveFilter } = state
+  const phrases = useRuleCardPhrases()
+  const titles = useConditionFieldTitles()
+  if (phrases === null || titles === null) return null
 
   return (
     <Popover>
@@ -80,15 +106,17 @@ export function SetSourcesChip({ state }: SetSourcesChipProps): ReactNode {
           removeLabel="Remove set sources filter"
         >
           <span>
-            {selectedSetSourceItems.length > 0
-              ? `${selectedSetSourceItems.length} Set Source${selectedSetSourceItems.length === 1 ? "" : "s"}`
-              : "Select Set Sources"}
+            {chosenOf(phrases, selectedSetSourceItems.length, {
+              none: "select-set-sources",
+              one: "count-set-source",
+              many: "count-set-sources",
+            })}
           </span>
         </Badge>
       </PopoverTrigger>
       <PopoverContent align="start" className="flex flex-col gap-2">
         <Text variant="hint" className="font-medium">
-          Set Sources
+          {titleOfFilter(titles, "set-sources")}
         </Text>
         <BadgeToggleGroup
           items={setSourceTypeOptions()}
@@ -114,6 +142,8 @@ export function LocationChip({ state }: LocationChipProps): ReactNode {
   const places = useKeyedTitles(temperLocationType.slug)
   const bags = useKeyedTitles(temperBag.slug)
   const options = useMemo(() => locationOptions(), [places, bags])
+  const phrases = useRuleCardPhrases()
+  if (phrases === null) return null
 
   return (
     <Popover>
@@ -126,15 +156,17 @@ export function LocationChip({ state }: LocationChipProps): ReactNode {
           removeLabel="Remove location filter"
         >
           <span>
-            {selectedLocationItems.length > 0
-              ? `${selectedLocationItems.length} Location${selectedLocationItems.length === 1 ? "" : "s"}`
-              : "Select Locations"}
+            {chosenOf(phrases, selectedLocationItems.length, {
+              none: "select-locations",
+              one: "count-location",
+              many: "count-locations",
+            })}
           </span>
         </Badge>
       </PopoverTrigger>
       <PopoverContent align="start" className="flex flex-col gap-2">
         <Text variant="hint" className="font-medium">
-          Locations
+          {phraseOf(phrases, "locations-heading")}
         </Text>
         <BadgeToggleGroup
           items={options}
