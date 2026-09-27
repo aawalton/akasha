@@ -47,23 +47,23 @@ import { useCompanionUpdate } from "akasha/temper/web/modules/use-companion-upda
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { companionEditorContentCompanion } from "akasha/temper/web/phrase/pages/companion-editor-content-companion.temper-web-phrase.ts"
-import { companionEditorContentEquipment } from "akasha/temper/web/phrase/pages/companion-editor-content-equipment.temper-web-phrase.ts"
-import { companionEditorContentGeneral } from "akasha/temper/web/phrase/pages/companion-editor-content-general.temper-web-phrase.ts"
 import { companionEditorContentRemixFailed } from "akasha/temper/web/phrase/pages/companion-editor-content-remix-failed.temper-web-phrase.ts"
 import { companionEditorContentRemixName } from "akasha/temper/web/phrase/pages/companion-editor-content-remix-name.temper-web-phrase.ts"
-import { companionEditorContentSkills } from "akasha/temper/web/phrase/pages/companion-editor-content-skills.temper-web-phrase.ts"
-import { companionEditorContentStats } from "akasha/temper/web/phrase/pages/companion-editor-content-stats.temper-web-phrase.ts"
+import { editorTabLabelsEquipment } from "akasha/temper/web/phrase/pages/editor-tab-labels-equipment.temper-web-phrase.ts"
+import { editorTabLabelsGeneral } from "akasha/temper/web/phrase/pages/editor-tab-labels-general.temper-web-phrase.ts"
+import { editorTabLabelsSkills } from "akasha/temper/web/phrase/pages/editor-tab-labels-skills.temper-web-phrase.ts"
+import { editorTabLabelsStats } from "akasha/temper/web/phrase/pages/editor-tab-labels-stats.temper-web-phrase.ts"
 import { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 
 const EDITOR_TAB_PHRASES: Readonly<Record<string, { readonly slug: string }>> = {
-  general: companionEditorContentGeneral,
+  general: editorTabLabelsGeneral,
   companion: companionEditorContentCompanion,
-  equipment: companionEditorContentEquipment,
-  skills: companionEditorContentSkills,
-  stats: companionEditorContentStats,
+  equipment: editorTabLabelsEquipment,
+  skills: editorTabLabelsSkills,
+  stats: editorTabLabelsStats,
 }
 
 interface CompanionEditorContentProps {
