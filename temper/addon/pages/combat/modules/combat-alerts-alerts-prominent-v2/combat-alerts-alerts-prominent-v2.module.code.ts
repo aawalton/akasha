@@ -9,13 +9,9 @@ import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-h
 import { optionSection } from "akasha/temper/addon/pages/combat/modules/combat-alerts-options/combat-alerts-options.module.code.ts"
 import { luaTruthy } from "akasha/temper/addon/pages/items/crafting-station/modules/price-lua-truthy/price-lua-truthy.module.code.ts"
 
-export type ProminentFilterFunction = (
-  this: void,
-  hitValue: number,
-  effectUnitId: number
-) => boolean
+type ProminentFilterFunction = (this: void, hitValue: number, effectUnitId: number) => boolean
 
-export interface ProminentFilters {
+interface ProminentFilters {
   [filter: number]: number | string
   filterFunction?: ProminentFilterFunction
 }
@@ -28,7 +24,7 @@ export interface AlertSettingData {
   default?: boolean
 }
 
-export interface ProminentAbility extends ProminentDisplayData {
+interface ProminentAbility extends ProminentDisplayData {
   event: number
   filters: ProminentFilters
   preMillis?: number

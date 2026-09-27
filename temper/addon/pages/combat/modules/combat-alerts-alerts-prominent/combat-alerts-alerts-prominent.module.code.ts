@@ -2,9 +2,9 @@ import "akasha/temper/addon/pages/combat/modules/combat-alerts-eso-reach/combat-
 import "akasha/temper/addon/pages/combat/modules/combat-alerts-constants/combat-alerts-constants.module.code.ts"
 import { CRUTCH } from "akasha/temper/addon/pages/combat/modules/combat-alerts-hub/combat-alerts-hub.module.code.ts"
 
-export type ProminentSound = boolean | string | ((this: void) => void)
+type ProminentSound = boolean | string | ((this: void) => void)
 
-export interface ProminentEntry {
+interface ProminentEntry {
   text: string
   color: number[]
   slot: number
