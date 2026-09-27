@@ -4,13 +4,16 @@ import type {
   InventoryRuleFilter,
 } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { checkAncestorRoots } from "akasha/temper/items/rules/core/modules/rule-filter-utils/rule-filter-utils.module.code.ts"
+import { healthRestore } from "akasha/temper/player/character/stat/temper-metric/pages/health-restore/health-restore.temper-metric.ts"
+import { magickaRestore } from "akasha/temper/player/character/stat/temper-metric/pages/magicka-restore/magicka-restore.temper-metric.ts"
+import { staminaRestore } from "akasha/temper/player/character/stat/temper-metric/pages/stamina-restore/stamina-restore.temper-metric.ts"
 
 const POTION_EFFECTS_ELIGIBLE_ROOTS = new Set(["potions"])
 
 export const POTION_EFFECTS_OPTIONS: FilterOption[] = [
-  { value: "health-restore", label: "Restores Health" },
-  { value: "magicka-restore", label: "Restores Magicka" },
-  { value: "stamina-restore", label: "Restores Stamina" },
+  { value: healthRestore.slug, label: healthRestore.title },
+  { value: magickaRestore.slug, label: magickaRestore.title },
+  { value: staminaRestore.slug, label: staminaRestore.title },
 ]
 
 const read = (c: CategoryRule["conditions"]) => c?.potionEffects

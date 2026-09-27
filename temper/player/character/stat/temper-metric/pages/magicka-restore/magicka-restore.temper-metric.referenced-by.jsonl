@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"magicka-restore.temper-metric.ts","path":"temper/items/filters/core/modules/search-potion-effects-filter/search-potion-effects-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"magicka-restore.temper-metric.ts","path":"temper/items/rules/core/modules/potion-effects-filter/potion-effects-filter.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"potion-restores","path":"temper/catalog/gear/temper-potion-crown/pages/crown-tri-restoration-potion/crown-tri-restoration-potion.temper-potion-crown.ts","id":"019e21f5-7534-7436-a51b-5d921f4e306f"}
 {"propertySlug":"potion-restores","path":"temper/catalog/gear/temper-potion-crown/pages/gold-coast-spellcaster-elixir/gold-coast-spellcaster-elixir.temper-potion-crown.ts","id":"019e21f5-7537-7b7b-afa1-7e09c321abb0"}
 {"propertySlug":"potion-restores","path":"temper/catalog/gear/temper-potion-dropped/pages/essence-of-magicka/essence-of-magicka.temper-potion-dropped.ts","id":"019e21f5-bdb6-710e-9cd3-9e2950cf08bd"}

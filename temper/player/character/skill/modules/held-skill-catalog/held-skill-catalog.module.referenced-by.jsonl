@@ -61,6 +61,7 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/rules/core/modules/potion-effects-filter/potion-effects-filter.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/rules/core/modules/rule-set-writes/rule-set-writes.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher-allocators/inventory-rule-matcher-allocators.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/rules/matcher/modules/inventory-rule-matcher/inventory-rule-matcher.module.test.ts","typed":false,"deferred":false}

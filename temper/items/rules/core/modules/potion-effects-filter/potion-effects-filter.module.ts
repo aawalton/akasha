@@ -6,7 +6,13 @@ export const potionEffectsFilter = {
   slug: "potion-effects-filter",
   definition: "the Potion Effects condition a rule may carry, as the rule editor offers it",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An effect is offered under its restore page's slug and labelled by that page's title.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:
