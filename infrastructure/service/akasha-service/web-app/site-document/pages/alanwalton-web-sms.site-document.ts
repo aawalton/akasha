@@ -13,7 +13,7 @@ export const alanwaltonWebSms = {
   sections: [
     {
       anchor: "who",
-      title: "Who we are (live check)",
+      title: "Who we are",
       text: "Amy is the personal assistant messaging service of Alan Walton. Messages are sent on Alan Walton’s behalf to coordinate with the people he works and communicates with.",
     },
     {
