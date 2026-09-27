@@ -10,7 +10,7 @@ export const rule8f35e006 = {
   stockScope: "any-character",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/potions",
-  displayOrder: 21,
+  displayOrder: 22,
   action: "temper-item-action/stock",
   active: true,
   updatedAt: "2026-09-27T15:28:08.610Z",
