@@ -6,4 +6,10 @@ export const itemRuleCardDialogs = {
   slug: "item-rule-card-dialogs",
   definition: "the dialogs an item rule card opens",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The delete dialog's title, warning, summary and buttons are rule card phrases.",
+    },
+  ],
 } as const satisfies Module

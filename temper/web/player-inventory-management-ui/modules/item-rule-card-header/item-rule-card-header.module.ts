@@ -6,4 +6,11 @@ export const itemRuleCardHeader = {
   slug: "item-rule-card-header",
   definition: "the title, the item name and the goal an item rule card shows at its top",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The title placeholder, notes labels, menu and goal sentinel are rule card phrases.",
+    },
+  ],
 } as const satisfies Module
