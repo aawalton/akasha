@@ -8,6 +8,8 @@ import {
   charactersIn,
   latestTurnId,
   slugsOf,
+  turnCoverAt,
+  turnCoverSource,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
@@ -86,6 +88,22 @@ test("a character's persona is not followed for a cover", () => {
   const echo = namedAs(persona.slug, "echo", null)
   const rows = new Map([[characterOther.slug, [row({ slug: "a", persona: echo })]]])
   expect(characterCoversOf(charactersIn([other("a")]), rows)).toEqual([])
+})
+
+test("the latest turn is drawn by its own cover at twice the panel's width", () => {
+  expect(turnCoverSource(row({ cover: "image/image-t" }))).toBe(source("image-t"))
+})
+
+test("a turn with no cover, or no row, draws no picture", () => {
+  expect(turnCoverSource(row({}))).toBeNull()
+  expect(turnCoverSource(undefined)).toBeNull()
+})
+
+test("the turn's picture sits under the player's cover", () => {
+  const drawn = (slug: string) => ({ slug, name: slug, source: source(slug) })
+  expect(turnCoverAt([drawn("a"), drawn("p"), drawn("b")], ["p"])).toBe(2)
+  expect(turnCoverAt([drawn("a")], ["p"])).toBe(0)
+  expect(turnCoverAt([], [])).toBe(0)
 })
 
 test("a character with no cover, or no row, is left out", () => {

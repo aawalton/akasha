@@ -92,6 +92,14 @@ export function characterCoversOf(
   return held
 }
 
+export function turnCoverSource(turn: Page | undefined): string | null {
+  return coverSource(turn?.[cover.propertySlug], COVER_WIDTH_ASKED)
+}
+
+export function turnCoverAt(covers: readonly CharacterCover[], players: readonly string[]): number {
+  return covers.findLastIndex((one) => players.includes(one.slug)) + 1
+}
+
 function inList(keyed: string): readonly string[] {
   return keyed === "" ? [] : keyed.split(" ")
 }
@@ -131,33 +139,35 @@ function TurnCovers({ turnId }: { turnId: string }) {
     }),
     [turnId]
   )
-  const turnRows = usePages(turnOptions)
-  const keyed = keyedOf(charactersIn(turnRows.rows[0]?.[characters.propertySlug]))
-  if (keyed === "") return null
-  return <TypeRows keyed={keyed} at={0} read={[]} />
+  const turn = usePages(turnOptions).rows[0]
+  const keyed = keyedOf(charactersIn(turn?.[characters.propertySlug]))
+  const picture = turnCoverSource(turn)
+  if (keyed === "" && picture === null) return null
+  return <TypeRows keyed={keyed} at={0} read={[]} picture={picture} />
 }
 
 type Read = readonly (readonly [string, readonly Page[]])[]
 
-function TypeRows({ keyed, at, read }: { keyed: string; at: number; read: Read }) {
-  const pageTypeSlug = CHARACTER_TYPES[at]
-  if (pageTypeSlug === undefined) return <Covers keyed={keyed} read={read} />
-  const slugs = slugsOf(namedOf(keyed), pageTypeSlug)
-  if (slugs.length === 0) return <TypeRows keyed={keyed} at={at + 1} read={read} />
-  return <TypeRowsRead keyed={keyed} at={at} read={read} slugKeyed={slugs.join(" ")} />
+type Drawing = {
+  readonly keyed: string
+  readonly at: number
+  readonly read: Read
+  readonly picture: string | null
 }
 
-function TypeRowsRead({
-  keyed,
-  at,
-  read,
-  slugKeyed,
-}: {
-  keyed: string
-  at: number
-  read: Read
-  slugKeyed: string
-}) {
+function TypeRows({ keyed, at, read, picture }: Drawing) {
+  const pageTypeSlug = CHARACTER_TYPES[at]
+  if (pageTypeSlug === undefined) return <Covers keyed={keyed} read={read} picture={picture} />
+  const slugs = slugsOf(namedOf(keyed), pageTypeSlug)
+  if (slugs.length === 0) {
+    return <TypeRows keyed={keyed} at={at + 1} read={read} picture={picture} />
+  }
+  return (
+    <TypeRowsRead keyed={keyed} at={at} read={read} picture={picture} slugKeyed={slugs.join(" ")} />
+  )
+}
+
+function TypeRowsRead({ keyed, at, read, picture, slugKeyed }: Drawing & { slugKeyed: string }) {
   const pageTypeSlug = CHARACTER_TYPES[at] ?? ""
   const options = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -168,19 +178,33 @@ function TypeRowsRead({
     [pageTypeSlug, slugKeyed]
   )
   const rows = usePages(options).rows
-  return <TypeRows keyed={keyed} at={at + 1} read={[...read, [pageTypeSlug, rows]]} />
+  return (
+    <TypeRows keyed={keyed} at={at + 1} read={[...read, [pageTypeSlug, rows]]} picture={picture} />
+  )
 }
 
-function Covers({ keyed, read }: { keyed: string; read: Read }) {
-  const covers = characterCoversOf(namedOf(keyed), new Map(read))
-  if (covers.length === 0) return null
+function Figure({ one }: { one: CharacterCover }) {
+  return (
+    <figure className="flex flex-col gap-2">
+      <PageCover coverUrl={one.source} />
+      <figcaption className="font-mono text-[12px] text-secondary">{one.name}</figcaption>
+    </figure>
+  )
+}
+
+function Covers({ keyed, read, picture }: { keyed: string; read: Read; picture: string | null }) {
+  const named = namedOf(keyed)
+  const covers = characterCoversOf(named, new Map(read))
+  if (covers.length === 0 && picture === null) return null
+  const at = turnCoverAt(covers, slugsOf(named, characterPlayer.slug))
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
-      {covers.map((one) => (
-        <figure key={one.slug} className="flex flex-col gap-2">
-          <PageCover coverUrl={one.source} />
-          <figcaption className="font-mono text-[12px] text-secondary">{one.name}</figcaption>
-        </figure>
+      {covers.slice(0, at).map((one) => (
+        <Figure key={one.slug} one={one} />
+      ))}
+      {picture === null ? null : <PageCover coverUrl={picture} />}
+      {covers.slice(at).map((one) => (
+        <Figure key={one.slug} one={one} />
       ))}
     </SurfaceProvider>
   )

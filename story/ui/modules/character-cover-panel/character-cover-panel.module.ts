@@ -4,7 +4,7 @@ export const characterCoverPanel = {
   id: "01a0de7e-118e-760a-aace-b82f91d94001",
   type: "page-type/module",
   slug: "character-cover-panel",
-  definition: "the covers of the characters the latest turn of play is with",
+  definition: "the covers of the latest turn of play and of the characters it is with",
   code: "tsx",
   test: "ts",
   decisions: [
@@ -30,7 +30,15 @@ export const characterCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn with no character who has a cover draws no panel.",
+      statement: "The latest turn's cover is drawn under the cover of the player's character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The latest turn's cover is drawn first where no player's character is drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn with no cover of its own and no character who has one draws no panel.",
     },
     {
       decisionKind: "decision-kind/departure",
