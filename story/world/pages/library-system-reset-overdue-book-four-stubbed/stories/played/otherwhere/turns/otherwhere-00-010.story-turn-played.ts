@@ -4,13 +4,14 @@ export const otherwhere00010 = {
   id: "01a0e3d6-aea2-7c36-a59c-fa18fe75ef67",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-010",
+  cover: "image/image-e22576d3afba089b",
   ownLength: 361,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“Okay, is this “minutes matter” urgency or can it wait a few hours if needed and is there a book on bookworms I could read to prepare? I’d like to know what I’m getting into here. Are they dangerous like this?”",
   beats: [
@@ -41,5 +42,5 @@ export const otherwhere00010 = {
   ],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

@@ -89,6 +89,10 @@ export const otherwhereLinks = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Links's eyes flicker blue, text scrolling through them, as he searches the Library.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
       fact: "Links has not had anyone to talk to for centuries, and forgets how to talk to people.",
       knowers: ["lore-disclosure/game-master"],
     },

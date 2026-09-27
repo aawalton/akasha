@@ -69,7 +69,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The bookworm guide holds no power; an hour's reading teaches their habits, bite and salt.",
@@ -89,7 +89,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Bookworms feed on magical residue, clean up book dust, and have affinities of their own.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Left untended for centuries, bookworms at the back of the hall have grown engorged and huge.",
@@ -117,11 +117,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Bookworms are grey worms a few inches long with rings of color at each end, and cute.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Bookworms are needed to make magical quills, and fertilise soil for magical herbs.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The small engorged bookworms are the size of a small dog.",
@@ -137,7 +137,27 @@ export const otherwhereMainHall = {
     },
     {
       fact: "An engorged bookworm has no eyes, and a round mouth rimmed with rows of jagged teeth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Salt dries a bookworm out, leaving it helpless, curled and still, but does not kill it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Salt is kept in a big box in the break room off the main hall, and it keeps.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Each day the engorged bookworms are left costs the Library power.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Engorged bookworms bite, and their teeth are nothing to laugh at.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "One of the engorged bookworms has grown bigger than the rest.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "An engorged bookworm rears up and roars a squelching challenge when it senses a Librarian.",
