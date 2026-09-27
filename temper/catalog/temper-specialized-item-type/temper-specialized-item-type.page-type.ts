@@ -25,7 +25,11 @@ export const temperSpecializedItemType = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A narrower sort no filter offers has no page.",
+      statement: "A narrower sort no filter or item browser category offers has no page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A narrower sort a filter never offered is titled as the game names it.",
     },
   ],
   types: "ts",
