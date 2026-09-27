@@ -36,5 +36,10 @@ export const otherwhere00010 = {
     '"Salt\'s in the break room," Links says, without her asking. "Off the hall. Big box. It keeps."',
     "The broom leans against the platform beside her. At the dark back of the hall, the chewing goes on.",
   ],
+  issues: [
+    '"The broom leans against the platform beside you." - No Prompt',
+    '"At the dark back of the hall, the chewing goes on." - Leave It Open',
+  ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
