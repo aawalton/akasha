@@ -5,7 +5,6 @@ const read = (c: CategoryRule["conditions"]) => c?.canListAtGuildTrader
 
 export const CAN_LIST_AT_GUILD_TRADER_FILTER: InventoryRuleFilter = {
   id: "can-list-at-guild-trader",
-  label: "Can List at Guild Trader",
   priority: 0,
   isEligible: () => true,
   mutuallyExclusive: [],

@@ -13,6 +13,10 @@ export const setSourcesFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The set category representing no set is not offered.",
     },
   ],

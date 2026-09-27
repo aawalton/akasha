@@ -5,7 +5,6 @@ const read = (c: CategoryRule["conditions"]) => c?.canSell
 
 export const CAN_SELL_FILTER: InventoryRuleFilter = {
   id: "can-sell",
-  label: "Can Sell to Merchant",
   priority: 0,
   isEligible: () => true,
   mutuallyExclusive: [],

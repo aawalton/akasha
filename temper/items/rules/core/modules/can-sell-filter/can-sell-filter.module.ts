@@ -13,6 +13,10 @@ export const canSellFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A rule whose action is not `sell` or `fence-sell` is not offered this condition.",
     },
   ],

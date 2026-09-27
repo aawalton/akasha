@@ -13,6 +13,10 @@ export const keepQuantityFilter = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A rule with the `target-quantity` condition is offered no Keep condition.",
     },
     {

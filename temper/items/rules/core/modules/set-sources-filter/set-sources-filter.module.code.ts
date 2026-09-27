@@ -19,7 +19,6 @@ const read = (c: CategoryRule["conditions"]) =>
 
 export const SET_SOURCES_FILTER: InventoryRuleFilter = {
   id: "set-sources",
-  label: "Set Sources",
   priority: 4,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, SET_SOURCE_TYPE_ELIGIBLE_ROOTS, "opt-in", categories),

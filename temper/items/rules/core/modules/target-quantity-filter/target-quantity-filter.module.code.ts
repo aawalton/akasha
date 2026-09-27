@@ -12,7 +12,6 @@ const read = (c: CategoryRule["conditions"]) => c?.targetQuantity
 
 export const TARGET_QUANTITY_FILTER: InventoryRuleFilter = {
   id: "target-quantity",
-  label: "Target",
   priority: 9,
   isEligible: () => true,
   isEligibleForAction: (action) => action === "move-to",

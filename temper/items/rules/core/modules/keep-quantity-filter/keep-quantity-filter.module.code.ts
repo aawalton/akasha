@@ -26,7 +26,6 @@ const read = (c: CategoryRule["conditions"]) => c?.keepQuantity
 
 export const KEEP_QUANTITY_FILTER: InventoryRuleFilter = {
   id: "keep-quantity",
-  label: "Keep",
   priority: 8,
   isEligible: () => true,
   isEligibleForAction: (action) => OUTBOUND_ACTIONS.has(action),
