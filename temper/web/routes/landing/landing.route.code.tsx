@@ -9,20 +9,29 @@ import {
 import { Heading } from "akasha/design/interface/primitive/modules/heading/heading.module.code.tsx"
 import { temperWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/temper-web.web-app.ts"
 import {
-  type DocumentData,
-  loaderAt,
   metaFor,
   SITE_DOCUMENT,
+  siteDocumentAt,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
+import {
+  loadedPhrase,
+  loadWebPhrases,
+} from "akasha/temper/web/.server/web-phrase-loading/web-phrase-loading.module.code.ts"
+import { landingCreateAccount } from "akasha/temper/web/phrase/pages/landing-create-account.temper-web-phrase.ts"
+import { landingHaveAccount } from "akasha/temper/web/phrase/pages/landing-have-account.temper-web-phrase.ts"
+import { landingSignIn } from "akasha/temper/web/phrase/pages/landing-sign-in.temper-web-phrase.ts"
+import { temperWebPhrase } from "akasha/temper/web/phrase/temper-web-phrase.page-type.ts"
 import type { Components } from "react-markdown"
 import { Link } from "react-router"
 
 const WEB_APP = namedAs("web-app", temperWeb.slug, null)
 
-const READ = [SITE_DOCUMENT]
+const READ = [SITE_DOCUMENT, temperWebPhrase.slug]
+
+const PHRASES = [landingCreateAccount.slug, landingHaveAccount.slug, landingSignIn.slug]
 
 const CARDED: Components = {
   p: ({ children }) => <p className="text-secondary text-sm">{children}</p>,
@@ -30,13 +39,26 @@ const CARDED: Components = {
   li: ({ children }) => <li>{children}</li>,
 }
 
-export const loader = loaderAt(WEB_APP, "")
+export async function loader() {
+  const [document, phrases] = await Promise.all([
+    siteDocumentAt(WEB_APP, ""),
+    loadWebPhrases(PHRASES),
+  ])
+  return {
+    document,
+    createAccount: loadedPhrase(phrases, landingCreateAccount.slug),
+    haveAccount: loadedPhrase(phrases, landingHaveAccount.slug),
+    signIn: loadedPhrase(phrases, landingSignIn.slug),
+  }
+}
+
+type LandingLoaderData = Awaited<ReturnType<typeof loader>>
 
 export const meta = metaFor(null)
 
-export default function LandingRoute({ loaderData }: { loaderData: DocumentData }) {
+export default function LandingRoute({ loaderData }: { loaderData: LandingLoaderData }) {
   useLoaderFollowing(READ)
-  const { document } = loaderData
+  const { document, createAccount, haveAccount, signIn } = loaderData
   return (
     <main className="mx-auto w-full max-w-3xl px-6 py-12">
       <div className="space-y-6">
@@ -71,12 +93,12 @@ export default function LandingRoute({ loaderData }: { loaderData: DocumentData 
 
         <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
           <Button asChild variant="accent">
-            <Link to="/sign-up">Create an account</Link>
+            <Link to="/sign-up">{createAccount}</Link>
           </Button>
           <p className="text-secondary text-sm">
-            Already have an account?{" "}
+            {haveAccount}{" "}
             <Link to="/sign-in" className="text-accent underline underline-offset-4">
-              Sign in
+              {signIn}
             </Link>
           </p>
         </div>

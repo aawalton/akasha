@@ -6372,6 +6372,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/routes/home/home.route.ts","id":"01a08301-991a-70f9-bd5d-855d3f7bc8ab"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/inventory/inventory.route.ts","id":"01a08302-8244-768d-926b-2d2e7902a54f"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/keyboard-shortcuts/keyboard-shortcuts.route.ts","id":"01a08303-6026-70fb-95dd-f022fecc37ea"}
+{"propertySlug":"decision-kind","path":"temper/web/routes/landing/landing.route.ts","id":"01a08306-4bd6-7b6f-a5ca-ffd9e944a02e"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/methodology/methodology.route.ts","id":"01a08303-c18c-7e41-a3f8-f6712ebf65be"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/page-detail/page-detail.route.ts","id":"01a08297-9668-70a3-8a39-06a85b120863"}
 {"propertySlug":"decision-kind","path":"temper/web/routes/settings/settings.route.ts","id":"01a08304-de41-7697-bee7-b989f9cf8852"}

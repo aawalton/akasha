@@ -6,4 +6,10 @@ export const landing = {
   slug: "landing",
   definition: "what Temper is, shown to whoever is not signed in",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sign-up and sign-in wording is read from web phrase pages in the loader.",
+    },
+  ],
 } as const satisfies Route
