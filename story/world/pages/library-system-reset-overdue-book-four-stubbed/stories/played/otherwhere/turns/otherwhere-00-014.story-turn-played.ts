@@ -34,4 +34,5 @@ export const otherwhere00014 = {
     "The bookworm is right at her feet, beside the spilled salt, its mouth open and working.",
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
