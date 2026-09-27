@@ -6,6 +6,7 @@ export const malacath = {
   slug: "malacath",
   title: "Malacath",
   esoItemStyleId: 13,
+  styleName: "Malacath",
   collectionIndex: 12,
   sourceDescription: "World Boss dailies from Arzorag (Orsinium)",
   dropSources: [
