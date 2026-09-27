@@ -6,4 +6,10 @@ export const companionsBuildBrowseTab = {
   slug: "companions-build-browse-tab",
   definition: "the tab where companion builds are browsed",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

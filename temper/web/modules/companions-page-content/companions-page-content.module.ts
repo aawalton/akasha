@@ -11,5 +11,9 @@ export const companionsPageContent = {
       decisionKind: "decision-kind/departure",
       statement: "The builds are drawn once the stat pages a companion is scored by are read.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

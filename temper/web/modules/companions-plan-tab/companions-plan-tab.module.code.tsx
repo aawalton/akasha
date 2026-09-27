@@ -30,6 +30,13 @@ import {
   type CompanionLiveOnlyEntity,
   CompanionLiveOnlyPanelCard,
 } from "akasha/temper/web/modules/companion-live-only-panel-card/companion-live-only-panel-card.module.code.tsx"
+import {
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionsPlanTabCheckSync } from "akasha/temper/web/phrase/pages/companions-plan-tab-check-sync.temper-web-phrase.ts"
+import { companionsPlanTabNoAttachedBuilds } from "akasha/temper/web/phrase/pages/companions-plan-tab-no-attached-builds.temper-web-phrase.ts"
+import { companionsPlanTabPlan } from "akasha/temper/web/phrase/pages/companions-plan-tab-plan.temper-web-phrase.ts"
 import { Gamepad2 } from "lucide-react"
 import { useMemo } from "react"
 
@@ -65,6 +72,8 @@ export function CompanionsPlanTab({
   rankingsMap,
   overallRankMap,
 }: CompanionsPlanTabProps) {
+  const phrase = usePhrase()
+  const describe = usePhraseDescription()
   const sortedEntities = useMemo(
     () => [...planEntities].sort((a, b) => (a.sortOrder ?? Infinity) - (b.sortOrder ?? Infinity)),
     [planEntities]
@@ -82,7 +91,7 @@ export function CompanionsPlanTab({
     <TabsContent value="plan">
       <PanelToggleProvider active={active}>
         <div className="flex flex-col gap-6">
-          <PageTabHeader title="Plan" />
+          <PageTabHeader title={phrase(companionsPlanTabPlan.slug)} />
           {planCount === 0 && (
             <Card>
               <CardContent>
@@ -91,16 +100,16 @@ export function CompanionsPlanTab({
                     <EmptyMedia variant="icon">
                       <Gamepad2 />
                     </EmptyMedia>
-                    <EmptyTitle>No builds attached to your companions</EmptyTitle>
+                    <EmptyTitle>{phrase(companionsPlanTabNoAttachedBuilds.slug)}</EmptyTitle>
                     <EmptyDescription>
-                      Planning compares a companion's current build against a target, and none of
-                      your companions has a build attached yet. Importing from the game does not
-                      attach one, so importing again will not change this.
+                      {describe(companionsPlanTabNoAttachedBuilds.slug)}
                     </EmptyDescription>
                   </EmptyHeader>
                   <EmptyContent>
                     <Button variant="secondary" asChild>
-                      <LayoutLink href="/watcher">Check sync status</LayoutLink>
+                      <LayoutLink href="/watcher">
+                        {phrase(companionsPlanTabCheckSync.slug)}
+                      </LayoutLink>
                     </Button>
                   </EmptyContent>
                 </Empty>

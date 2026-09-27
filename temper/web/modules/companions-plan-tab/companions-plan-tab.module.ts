@@ -6,4 +6,10 @@ export const companionsPlanTab = {
   slug: "companions-plan-tab",
   definition: "the tab for working a companion plan",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

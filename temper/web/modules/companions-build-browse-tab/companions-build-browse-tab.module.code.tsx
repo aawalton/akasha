@@ -36,6 +36,17 @@ import type { FilterValues } from "akasha/temper/web/modules/companions-filter-t
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
 import { NewCompanionPanelCard } from "akasha/temper/web/modules/new-companion-panel-card/new-companion-panel-card.module.code.tsx"
 import type { useFilteredBuilds } from "akasha/temper/web/modules/use-filtered-builds/use-filtered-builds.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionsBuildBrowseTabAdjustFilters } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-adjust-filters.temper-web-phrase.ts"
+import { companionsBuildBrowseTabBrowse } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-browse.temper-web-phrase.ts"
+import { companionsBuildBrowseTabBuild } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-build.temper-web-phrase.ts"
+import { companionsBuildBrowseTabBuilds } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-builds.temper-web-phrase.ts"
+import { companionsBuildBrowseTabClearFilters } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-clear-filters.temper-web-phrase.ts"
+import { companionsBuildBrowseTabCreateFirst } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-create-first.temper-web-phrase.ts"
+import { companionsBuildBrowseTabNoBuildsFound } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-no-builds-found.temper-web-phrase.ts"
+import { companionsBuildBrowseTabNoBuildsYet } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-no-builds-yet.temper-web-phrase.ts"
+import { companionsBuildBrowseTabNoMatching } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-no-matching.temper-web-phrase.ts"
+import { companionsBuildBrowseTabPublicBuilds } from "akasha/temper/web/phrase/pages/companions-build-browse-tab-public-builds.temper-web-phrase.ts"
 import { FolderOpen, Search } from "lucide-react"
 import { type ReactNode, useCallback, useMemo } from "react"
 
@@ -62,6 +73,7 @@ export function CompanionsBuildBrowseTab({
   initialVisibleCount,
   onVisibleCountChange,
 }: CompanionsBuildBrowseTabProps) {
+  const phrase = usePhrase()
   const {
     search,
     roles: selectedRoles,
@@ -173,11 +185,15 @@ export function CompanionsBuildBrowseTab({
             <EmptyMedia variant="icon">
               <FolderOpen />
             </EmptyMedia>
-            <EmptyTitle>{tab === "build" ? "No builds yet" : "No builds found"}</EmptyTitle>
+            <EmptyTitle>
+              {tab === "build"
+                ? phrase(companionsBuildBrowseTabNoBuildsYet.slug)
+                : phrase(companionsBuildBrowseTabNoBuildsFound.slug)}
+            </EmptyTitle>
             <EmptyDescription>
               {tab === "build"
-                ? "Create your first build to optimize your companion\u2019s gear and skills."
-                : "Public companions shared by other players will appear here."}
+                ? phrase(companionsBuildBrowseTabCreateFirst.slug)
+                : phrase(companionsBuildBrowseTabPublicBuilds.slug)}
             </EmptyDescription>
           </EmptyHeader>
           {tab === "build" && isAuthenticated && (
@@ -198,12 +214,14 @@ export function CompanionsBuildBrowseTab({
             <EmptyMedia variant="icon">
               <Search />
             </EmptyMedia>
-            <EmptyTitle>No matching builds</EmptyTitle>
-            <EmptyDescription>Try adjusting your search or filters.</EmptyDescription>
+            <EmptyTitle>{phrase(companionsBuildBrowseTabNoMatching.slug)}</EmptyTitle>
+            <EmptyDescription>
+              {phrase(companionsBuildBrowseTabAdjustFilters.slug)}
+            </EmptyDescription>
           </EmptyHeader>
           <EmptyContent>
             <Button variant="secondary" size="sm" onClick={clearAllFilters}>
-              Clear filters
+              {phrase(companionsBuildBrowseTabClearFilters.slug)}
             </Button>
           </EmptyContent>
         </Empty>
@@ -218,7 +236,10 @@ export function CompanionsBuildBrowseTab({
       </PageTabTitleBadges>
     ) : undefined
 
-  const title = tab === "build" ? "Build" : "Browse"
+  const title =
+    tab === "build"
+      ? phrase(companionsBuildBrowseTabBuild.slug)
+      : phrase(companionsBuildBrowseTabBrowse.slug)
 
   const trailingContent: ReactNode =
     tab === "build" && isAuthenticated ? <NewCompanionPanelCard /> : undefined
@@ -238,7 +259,7 @@ export function CompanionsBuildBrowseTab({
             <PaginatedCardGrid
               items={filteredBuilds}
               renderItem={renderCompanionCard}
-              itemLabel="builds"
+              itemLabel={phrase(companionsBuildBrowseTabBuilds.slug)}
               initialVisibleCount={initialVisibleCount}
               onVisibleCountChange={onVisibleCountChange}
               resetKey={resetKey}

@@ -65,9 +65,12 @@
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companion-target-panel-card/companion-target-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companion-ultimate-slot-card/companion-ultimate-slot-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companions-build-browse-tab/companions-build-browse-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companions-filter-bar/companions-filter-bar.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companions-leaderboard-tab/companions-leaderboard-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companions-page-content/companions-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companions-plan-tab/companions-plan-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/companions-summary-panel-card/companions-summary-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/completion-account-tab/completion-account-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-web-phrases.module.code.tsx","path":"temper/web/modules/completion-page-empty/completion-page-empty.module.code.tsx","typed":false,"deferred":false}

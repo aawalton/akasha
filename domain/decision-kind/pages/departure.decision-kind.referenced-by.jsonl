@@ -6226,11 +6226,13 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.ts","id":"01a06591-9eb0-7000-9053-bdd9b8e2dcfd"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.ts","id":"01a06421-251e-7ab9-8fd5-d60f4ba996b4"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companion-weapons-after-change/companion-weapons-after-change.module.ts","id":"01a0e2a9-645d-7a53-ae45-27145228aef8"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companions-build-browse-tab/companions-build-browse-tab.module.ts","id":"01a06421-2526-7939-a8fa-76def00c5943"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-data-content/companions-data-content.module.ts","id":"01a0642f-8c39-76f1-b933-f9088eb0ca06"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-filter-bar/companions-filter-bar.module.ts","id":"01a0641f-8bef-7567-be70-80b3096ce27e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-filter-types/companions-filter-types.module.ts","id":"01a06421-2527-72cf-81cf-35554408ce56"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-leaderboard-tab/companions-leaderboard-tab.module.ts","id":"01a06421-2527-75e7-b164-c11779b96bfc"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-page-content/companions-page-content.module.ts","id":"01a0642f-8c3a-7b91-8490-d1b8b3d052fb"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/companions-plan-tab/companions-plan-tab.module.ts","id":"01a06421-2528-72ff-bdf2-df35b8e3aa96"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/companions-summary-panel-card/companions-summary-panel-card.module.ts","id":"01a06421-f74b-78d4-a5e8-7585a0c50020"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/completion-account-tab/completion-account-tab.module.ts","id":"01a06421-f74b-7a4c-b82f-b33ca8d80021"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/completion-page-empty/completion-page-empty.module.ts","id":"01a06421-f74b-7ac7-8c70-c606e0640025"}

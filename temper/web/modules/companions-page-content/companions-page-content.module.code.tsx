@@ -36,6 +36,12 @@ import {
 } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.code.tsx"
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionsPageContentBrowse } from "akasha/temper/web/phrase/pages/companions-page-content-browse.temper-web-phrase.ts"
+import { companionsPageContentBuild } from "akasha/temper/web/phrase/pages/companions-page-content-build.temper-web-phrase.ts"
+import { companionsPageContentPlan } from "akasha/temper/web/phrase/pages/companions-page-content-plan.temper-web-phrase.ts"
+import { companionsPageContentRank } from "akasha/temper/web/phrase/pages/companions-page-content-rank.temper-web-phrase.ts"
+import { companionsPageContentTitle } from "akasha/temper/web/phrase/pages/companions-page-content-title.temper-web-phrase.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
 
@@ -70,6 +76,7 @@ export function CompanionsPageContent({
   initialRankTargets,
   initialRankHealth,
 }: CompanionsPageContentProps) {
+  const phrase = usePhrase()
   const isAuthenticated = userId !== null
   const defaultTab: TabValue = isAuthenticated ? "build" : "browse"
 
@@ -173,7 +180,7 @@ export function CompanionsPageContent({
                 <ChevronLeft className="h-4 w-4" />
               </Link>
             </Button>
-            <PageTitle>Companion Builds</PageTitle>
+            <PageTitle>{phrase(companionsPageContentTitle.slug)}</PageTitle>
           </div>
           {isAuthenticated && <NewCompanionButton />}
         </div>
@@ -187,10 +194,26 @@ export function CompanionsPageContent({
       >
         <PageLayout.Tabs>
           <TabsList className="@[1016px]:grid grid h-18 w-full @[1016px]:grid-cols-4 grid-cols-4 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
-            <PageTabsTrigger value="plan" icon={<Gamepad2 />} label="Plan" />
-            <PageTabsTrigger value="build" icon={<Hammer />} label="Build" />
-            <PageTabsTrigger value="browse" icon={<Search />} label="Browse" />
-            <PageTabsTrigger value="leaderboard" icon={<Trophy />} label="Rank" />
+            <PageTabsTrigger
+              value="plan"
+              icon={<Gamepad2 />}
+              label={phrase(companionsPageContentPlan.slug)}
+            />
+            <PageTabsTrigger
+              value="build"
+              icon={<Hammer />}
+              label={phrase(companionsPageContentBuild.slug)}
+            />
+            <PageTabsTrigger
+              value="browse"
+              icon={<Search />}
+              label={phrase(companionsPageContentBrowse.slug)}
+            />
+            <PageTabsTrigger
+              value="leaderboard"
+              icon={<Trophy />}
+              label={phrase(companionsPageContentRank.slug)}
+            />
           </TabsList>
         </PageLayout.Tabs>
 
