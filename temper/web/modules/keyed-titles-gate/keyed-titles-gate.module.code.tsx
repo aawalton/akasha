@@ -9,8 +9,8 @@ export function KeyedTitlesGate({
   fallback,
 }: {
   pageTypeSlug: string
-  children: ReactNode
+  children: () => ReactNode
   fallback: ReactNode
 }) {
-  return <>{useKeyedTitles(pageTypeSlug) === null ? fallback : children}</>
+  return <>{useKeyedTitles(pageTypeSlug) === null ? fallback : children()}</>
 }
