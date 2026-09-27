@@ -157,7 +157,12 @@ export const extension = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A panel has one row at the top, and every other row hangs beneath it.",
+      statement:
+        "A panel other than the agents panel has one row at the top, and every other row hangs beneath it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The agents panel has a row at the top for each section its seats fall in.",
     },
     {
       decisionKind: "decision-kind/departure",

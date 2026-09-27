@@ -72,6 +72,35 @@ export const agentForest = {
       statement: "A seat name and an id are parted by a byte neither name nor id can have.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Every top seat falls in one section, and the section is a row the seat hangs under.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A seat whose role is handler falls in the section `handlers`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any other seat assigned a story played falls in the section that story is named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every other seat falls in the section `personas`.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`personas` comes first, `handlers` next, and each story after them by its name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Seats keep inside a section the order they had before they were sectioned.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A section no seat falls in is not drawn.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here asks the harness anything.",
     },

@@ -3,6 +3,7 @@ import {
   assembleForest,
   countRows,
   countRunning,
+  sectionForest,
   subagentKey,
 } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import {
@@ -165,5 +166,67 @@ describe("what a joined answer and a drawn forest are counted as", () => {
     )
     expect(countRows(roots)).toBe(4)
     expect(countRunning(roots)).toBe(3)
+  })
+})
+
+describe("the sections the seats fall in", () => {
+  const seated = (
+    id: string,
+    name: string,
+    role: string | null,
+    assignment: string | null,
+    parent: string | null = null
+  ) => ({ ...row(id, name, parent, "alan"), role, assignment })
+
+  const sectioned = (rows: ReturnType<typeof seated>[]) =>
+    sectionForest(
+      assembleForest(rows, live(...rows.map((one) => one.id)), NO_SUBAGENTS, NO_PLACES),
+      rows
+    )
+
+  test("personas come first, then handlers, then each game by name", () => {
+    const drawn = sectioned([
+      seated("z", "zeli", "game-master", "story-played/game-zeta"),
+      seated("h", "alan", "handler", "domain/work-handled"),
+      seated("g", "mari-gm", "game-master", "story-played/game-alpha"),
+      seated("a", "amy", "definer", "initiative/work-defined"),
+    ])
+    expect(drawn.map((one) => one.label)).toEqual([
+      "personas",
+      "handlers",
+      "game-alpha",
+      "game-zeta",
+    ])
+    expect(drawn.map((one) => one.children.map((seat) => seat.label))).toEqual([
+      ["amy"],
+      ["alan"],
+      ["mari-gm"],
+      ["zeli"],
+    ])
+  })
+
+  test("a handler assigned a game is under handlers", () => {
+    const drawn = sectioned([seated("h", "alan", "handler", "story-played/game-alpha")])
+    expect(drawn.map((one) => one.label)).toEqual(["handlers"])
+  })
+
+  test("an assignment that is no game leaves a seat under personas", () => {
+    const drawn = sectioned([
+      seated("b", "mari", "definer", "domain/work-defined"),
+      seated("a", "amy", null, null),
+    ])
+    expect(drawn.map((one) => one.label)).toEqual(["personas"])
+    expect(drawn[0]?.children.map((seat) => seat.label)).toEqual(["amy", "mari"])
+  })
+
+  test("a section with no seat is not drawn", () => {
+    expect(sectioned([])).toEqual([])
+  })
+
+  test("a section is a top row keyed apart from every seat", () => {
+    const drawn = sectioned([seated("a", "amy", "definer", null)])
+    expect(drawn[0]?.kind).toBe("root")
+    expect(drawn[0]?.key).toBe("section/personas")
+    expect(drawn[0]?.at).toBeNull()
   })
 })

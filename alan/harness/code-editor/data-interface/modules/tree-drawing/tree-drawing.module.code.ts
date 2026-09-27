@@ -15,10 +15,7 @@ import {
   type Node,
   treeIn,
 } from "akasha/alan/harness/code-editor/data-interface/modules/work-tree-composing/work-tree-composing.module.code.ts"
-import type {
-  AgentTreeRow,
-  AgentTreeState,
-} from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
+import type { AgentTreeState } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
 import type {
   ServiceTreeRow,
   ServiceTreeState,
@@ -31,6 +28,7 @@ import {
   ALAN,
   assembleForest,
   countRunning,
+  sectionForest,
   subagentKey,
 } from "akasha/code/editor/extension/modules/agent-forest/agent-forest.module.code.ts"
 import { readSeatPlaces } from "akasha/code/editor/extension/modules/agent-tree-lookup/agent-tree-lookup.module.code.ts"
@@ -107,21 +105,7 @@ export function agentTreeLine(root: string): string {
     root,
     { bySubagent, stopped }
   )
-  const roots: readonly AgentTreeRow[] = [
-    {
-      kind: "root",
-      key: "root",
-      label: "agents",
-      at: null,
-      color: null,
-      live: false,
-      stopped: false,
-      place: null,
-      state: null,
-      waitingOn: null,
-      children: under,
-    },
-  ]
+  const roots = sectionForest(under, rows)
   return JSON.stringify({
     roots,
     alanPrincipalCount: rows.filter((row) => row.principal === ALAN).length,

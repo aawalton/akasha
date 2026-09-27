@@ -12,6 +12,8 @@ export interface SeatRow {
   readonly name: string | null
   readonly parent_agent_id: string | null
   readonly principal: string | null
+  readonly role: string | null
+  readonly assignment: string | null
   readonly state: string | null
   readonly waitingOn: string | null
   readonly color: string | null
@@ -132,4 +134,55 @@ export function assembleForest(
   }
 
   return sortByName(roots.map((r) => build(r, new Set())).filter(holdsSomethingRunning))
+}
+
+const PERSONAS = "personas"
+
+const HANDLERS = "handlers"
+
+const HANDLER_ROLE = "handler"
+
+const GAME = "story-played/"
+
+function sectionOf(row: SeatRow | undefined): string {
+  if (row?.role === HANDLER_ROLE) return HANDLERS
+  const assignment = row?.assignment ?? null
+  return assignment?.startsWith(GAME) === true ? assignment.slice(GAME.length) : PERSONAS
+}
+
+function sectionRow(title: string, seats: readonly AgentTreeRow[]): AgentTreeRow {
+  return {
+    key: `section/${title}`,
+    label: title,
+    at: null,
+    color: null,
+    kind: "root",
+    live: false,
+    stopped: false,
+    place: null,
+    state: null,
+    waitingOn: null,
+    children: seats,
+  }
+}
+
+export function sectionForest(
+  seats: readonly AgentTreeRow[],
+  rows: readonly SeatRow[]
+): readonly AgentTreeRow[] {
+  const byId = new Map(rows.map((row) => [row.id, row]))
+  const bySection = new Map<string, AgentTreeRow[]>()
+  for (const seat of seats) {
+    const title = sectionOf(byId.get(seat.key))
+    const held = bySection.get(title)
+    if (held === undefined) bySection.set(title, [seat])
+    else held.push(seat)
+  }
+  const games = [...bySection.keys()]
+    .filter((title) => title !== PERSONAS && title !== HANDLERS)
+    .sort((a, b) => a.localeCompare(b))
+  return [PERSONAS, HANDLERS, ...games].flatMap((title) => {
+    const held = bySection.get(title)
+    return held === undefined ? [] : [sectionRow(title, held)]
+  })
 }

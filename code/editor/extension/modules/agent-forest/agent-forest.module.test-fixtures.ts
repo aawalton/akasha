@@ -17,6 +17,8 @@ export function row(
     name,
     parent_agent_id: parent,
     principal,
+    role: null,
+    assignment: null,
     state: null,
     waitingOn: null,
     color: null,

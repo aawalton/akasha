@@ -63,6 +63,10 @@ export const treeDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The agents tree hangs its seats under their sections rather than under one row.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The subagents under a seat are the subagent pages naming that seat.",
     },
     {
