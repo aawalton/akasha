@@ -134,11 +134,35 @@ export const theDatingGameAlan = {
     },
     {
       fact: "Alan owns physical copies of The Wandering Inn.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
     {
       fact: "Alan's house has an empty spare room.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
+    },
+    {
+      fact: "Alan invited Echo back to his house, and she shook her head: not yet.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
+    },
+    {
+      fact: "Alan offered to make his spare room a studio, money no issue, and Echo offered to guide him.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
   ],
 } as const satisfies Lore

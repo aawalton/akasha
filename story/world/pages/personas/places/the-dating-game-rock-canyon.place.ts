@@ -117,7 +117,19 @@ export const theDatingGameRockCanyon = {
     },
     {
       fact: "Up the main trail an overlook opens west over the valley, fall colors scattered in the trees.",
-      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
+    },
+    {
+      fact: "From the overlook the campus, the city and the pale shine of Utah Lake lie in view below.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
     },
   ],
 } as const satisfies Place
