@@ -33,7 +33,7 @@ function literalOf(value: unknown, depth: number): string {
   return JSON.stringify(value)
 }
 
-export function formulaFileBody(typeName: string, typeFrom: string, formula: unknown): string {
+function formulaFileBody(typeName: string, typeFrom: string, formula: unknown): string {
   const named = metricFormula.fixedExport[0]
   return [
     `import type { ${typeName} } from "${typeFrom}"`,
