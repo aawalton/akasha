@@ -46,35 +46,35 @@ function isoInstant(value: unknown): string | null {
 
 async function readSource(
   pageTypeSlug: string,
-  accountPage: string
+  accountPage: string,
+  reportedAt: string | null
 ): Promise<WatcherSyncSourceCounts> {
   const result = await getPages({
     pageTypeSlug,
     where: [{ key: "accountPage", eq: accountPage }],
-    select: ["updatedAt"],
-    order: [{ by: "updatedAt", dir: "desc" }],
+    select: ["id"],
     limit: 1,
     withCount: true,
   })
-  const newest = result.rows[0]
-  const contact = newest?.updatedAt
   return {
     count: result.count ?? result.rows.length,
-    lastContactAt: typeof contact === "string" ? contact : null,
+    lastContactAt: reportedAt,
     capturedAt: null,
   }
 }
 
-async function readAccountInventory(userId: string): Promise<WatcherSyncSourceCounts> {
+async function readAccountInventory(
+  userId: string,
+  reportedAt: string | null
+): Promise<WatcherSyncSourceCounts> {
   const held = await getPage({
     pageTypeSlug: ACCOUNT,
     where: [{ key: "key", eq: userId }],
-    select: ["updatedAt", "capturedAt"],
+    select: ["capturedAt"],
   })
-  const contact = held?.updatedAt
   return {
     count: held == null ? 0 : 1,
-    lastContactAt: typeof contact === "string" ? contact : null,
+    lastContactAt: reportedAt,
     capturedAt: isoInstant(held?.capturedAt),
   }
 }
@@ -88,14 +88,16 @@ export async function loader({ request }: { request: Request }) {
 
   const accountPage = (await findAccountAddress(accountId)) ?? NEVER_MATCH_VALUE
 
-  const [enrolment, characters, inventory] = await Promise.all([
-    getPage({
-      pageTypeSlug: ENROLMENT,
-      where: [{ key: "accountPage", eq: accountPage }],
-      select: ["tokenCreatedAt", "watcherVersion", "reportedAt", "operations"],
-    }),
-    readSource(ACCOUNT_CHARACTER, accountPage),
-    readAccountInventory(accountId),
+  const enrolment = await getPage({
+    pageTypeSlug: ENROLMENT,
+    where: [{ key: "accountPage", eq: accountPage }],
+    select: ["tokenCreatedAt", "watcherVersion", "reportedAt", "operations"],
+  })
+  const reportedAt = isoInstant(enrolment?.reportedAt)
+
+  const [characters, inventory] = await Promise.all([
+    readSource(ACCOUNT_CHARACTER, accountPage, reportedAt),
+    readAccountInventory(accountId, reportedAt),
   ])
 
   const createdAt = enrolment?.tokenCreatedAt

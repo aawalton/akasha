@@ -16,5 +16,13 @@ export const watcher = {
       decisionKind: "decision-kind/departure",
       statement: "The document title is read from this route's web phrase page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Last contact for characters and inventory is the enrolment's reported-at.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No last contact is read off a character page or the account page.",
+    },
   ],
 } as const satisfies Route
