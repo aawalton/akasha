@@ -5,6 +5,8 @@ export const blindPathCultist = {
   type: "page-type/temper-motif-style",
   slug: "blind-path-cultist",
   title: "Blind Path Cultist",
+  esoItemStyleId: 146,
+  styleName: "Blind Path Cultist",
   collectionIndex: 109,
   sourceDescription: "Bedlam Veil dungeon",
 } as const satisfies TemperMotifStyle
