@@ -7,7 +7,6 @@
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/game-master.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/handler.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/interviewer.role.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/loremaster.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/operator.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/persona-craft.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/recorder.role.ts","typed":true,"deferred":false}

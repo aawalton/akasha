@@ -17,7 +17,6 @@ export const role = {
     "role/game-master",
     "role/handler",
     "role/interviewer",
-    "role/loremaster",
     "role/operator",
     "role/persona-craft",
     "role/recorder",
