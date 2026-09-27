@@ -18,6 +18,8 @@ import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
 } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { skillLinesProgressPanelCardTitle } from "akasha/temper/web/phrase/pages/skill-lines-progress-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -48,6 +50,7 @@ export function SkillLinesProgressPanelCard({
   sortMode,
   sortDirection,
 }: SkillLinesProgressPanelCardProps) {
+  const phrase = usePhrase()
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? progress
@@ -236,7 +239,7 @@ export function SkillLinesProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Skill Lines"
+      title={phrase(skillLinesProgressPanelCardTitle.slug)}
       items={items}
       totalChildren={totalChildren}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}

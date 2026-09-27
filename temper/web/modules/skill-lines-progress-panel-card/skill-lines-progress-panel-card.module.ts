@@ -6,4 +6,10 @@ export const skillLinesProgressPanelCard = {
   slug: "skill-lines-progress-panel-card",
   definition: "the skill lines each selected character has ranked up",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

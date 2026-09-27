@@ -7,6 +7,8 @@ import type {
   CharacterRecipeProgress,
   CompletionCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { recipesProgressPanelCardTitle } from "akasha/temper/web/phrase/pages/recipes-progress-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -114,6 +116,7 @@ export function RecipesProgressPanelCard({
   sortMode,
   sortDirection,
 }: RecipesProgressPanelCardProps) {
+  const phrase = usePhrase()
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? recipeProgress
@@ -167,7 +170,7 @@ export function RecipesProgressPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Crafting Recipes"
+        title={phrase(recipesProgressPanelCardTitle.slug)}
         items={withActivityCategories(items, "crafting")}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -209,7 +212,7 @@ export function RecipesProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Crafting Recipes"
+      title={phrase(recipesProgressPanelCardTitle.slug)}
       items={withActivityCategories(items, "crafting")}
       filterNode={filterNode}
       sortMode={sortMode}

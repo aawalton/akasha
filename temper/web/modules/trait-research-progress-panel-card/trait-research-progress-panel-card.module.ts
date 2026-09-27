@@ -6,4 +6,10 @@ export const traitResearchProgressPanelCard = {
   slug: "trait-research-progress-panel-card",
   definition: "the crafting traits each selected character has researched",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

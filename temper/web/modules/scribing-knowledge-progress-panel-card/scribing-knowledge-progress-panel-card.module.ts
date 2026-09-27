@@ -6,4 +6,10 @@ export const scribingKnowledgeProgressPanelCard = {
   slug: "scribing-knowledge-progress-panel-card",
   definition: "the scribing scripts each selected character has learned",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

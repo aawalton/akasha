@@ -7,6 +7,8 @@ import type {
   CharacterTraitResearchProgress,
   CompletionCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { traitResearchProgressPanelCardTitle } from "akasha/temper/web/phrase/pages/trait-research-progress-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -157,6 +159,7 @@ export function TraitResearchProgressPanelCard({
   sortMode,
   sortDirection,
 }: TraitResearchProgressPanelCardProps) {
+  const phrase = usePhrase()
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? traitResearchProgress
@@ -225,7 +228,7 @@ export function TraitResearchProgressPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Crafting Traits"
+        title={phrase(traitResearchProgressPanelCardTitle.slug)}
         items={withActivityCategories(items, "crafting")}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -261,7 +264,7 @@ export function TraitResearchProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Crafting Traits"
+      title={phrase(traitResearchProgressPanelCardTitle.slug)}
       items={withActivityCategories(items, "crafting")}
       filterNode={filterNode}
       sortMode={sortMode}

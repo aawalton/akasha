@@ -6,4 +6,10 @@ export const recipesProgressPanelCard = {
   slug: "recipes-progress-panel-card",
   definition: "the crafting recipes each selected character knows",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

@@ -7,6 +7,12 @@ import type {
   CompletionCharacter,
   ScribingKnowledgeItem,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { scribingKnowledgeProgressPanelCardAffixScripts } from "akasha/temper/web/phrase/pages/scribing-knowledge-progress-panel-card-affix-scripts.temper-web-phrase.ts"
+import { scribingKnowledgeProgressPanelCardFocusScripts } from "akasha/temper/web/phrase/pages/scribing-knowledge-progress-panel-card-focus-scripts.temper-web-phrase.ts"
+import { scribingKnowledgeProgressPanelCardGrimoires } from "akasha/temper/web/phrase/pages/scribing-knowledge-progress-panel-card-grimoires.temper-web-phrase.ts"
+import { scribingKnowledgeProgressPanelCardSignatureScripts } from "akasha/temper/web/phrase/pages/scribing-knowledge-progress-panel-card-signature-scripts.temper-web-phrase.ts"
+import { scribingKnowledgeProgressPanelCardTitle } from "akasha/temper/web/phrase/pages/scribing-knowledge-progress-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -29,11 +35,11 @@ interface ScribingKnowledgeProgressPanelCardProps {
 
 type ScribingCategory = "grimoires" | "focusScripts" | "signatureScripts" | "affixScripts"
 
-const CATEGORIES: { key: ScribingCategory; label: string }[] = [
-  { key: "grimoires", label: "Grimoires" },
-  { key: "focusScripts", label: "Focus Scripts" },
-  { key: "signatureScripts", label: "Signature Scripts" },
-  { key: "affixScripts", label: "Affix Scripts" },
+const CATEGORIES: { key: ScribingCategory; labelSlug: string }[] = [
+  { key: "grimoires", labelSlug: scribingKnowledgeProgressPanelCardGrimoires.slug },
+  { key: "focusScripts", labelSlug: scribingKnowledgeProgressPanelCardFocusScripts.slug },
+  { key: "signatureScripts", labelSlug: scribingKnowledgeProgressPanelCardSignatureScripts.slug },
+  { key: "affixScripts", labelSlug: scribingKnowledgeProgressPanelCardAffixScripts.slug },
 ]
 
 function aggregateItems(
@@ -96,6 +102,7 @@ export function ScribingKnowledgeProgressPanelCard({
   sortMode,
   sortDirection,
 }: ScribingKnowledgeProgressPanelCardProps) {
+  const phrase = usePhrase()
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? scribingProgress
@@ -118,7 +125,7 @@ export function ScribingKnowledgeProgressPanelCard({
 
       return {
         key: cat.key,
-        label: cat.label,
+        label: phrase(cat.labelSlug),
         children: [...uniqueNames.keys()].map(
           (name): CompletionNode => ({
             key: name,
@@ -138,7 +145,7 @@ export function ScribingKnowledgeProgressPanelCard({
 
     return {
       key: cat.key,
-      label: cat.label,
+      label: phrase(cat.labelSlug),
       children: (isSingle
         ? singleCharItems(requireFirst(selectedProgress)[cat.key])
         : aggregateItems(selectedProgress, cat.key)
@@ -177,7 +184,7 @@ export function ScribingKnowledgeProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Skill Scribing"
+      title={phrase(scribingKnowledgeProgressPanelCardTitle.slug)}
       items={withActivityCategories(items, "crafting")}
       totalChildren={totalChildren}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}

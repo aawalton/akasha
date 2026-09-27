@@ -7,6 +7,13 @@ import type {
   CompletionCharacter,
   SkillPointSourceProgress,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { skillPointsProgressPanelCardGeneral } from "akasha/temper/web/phrase/pages/skill-points-progress-panel-card-general.temper-web-phrase.ts"
+import { skillPointsProgressPanelCardGroupDungeons } from "akasha/temper/web/phrase/pages/skill-points-progress-panel-card-group-dungeons.temper-web-phrase.ts"
+import { skillPointsProgressPanelCardPublicDungeons } from "akasha/temper/web/phrase/pages/skill-points-progress-panel-card-public-dungeons.temper-web-phrase.ts"
+import { skillPointsProgressPanelCardSkyshards } from "akasha/temper/web/phrase/pages/skill-points-progress-panel-card-skyshards.temper-web-phrase.ts"
+import { skillPointsProgressPanelCardTitle } from "akasha/temper/web/phrase/pages/skill-points-progress-panel-card-title.temper-web-phrase.ts"
+import { skillPointsProgressPanelCardZoneQuests } from "akasha/temper/web/phrase/pages/skill-points-progress-panel-card-zone-quests.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -28,11 +35,11 @@ interface SkillPointsProgressPanelCardProps {
 }
 
 const BRANCHES = [
-  { key: "general", label: "General" },
-  { key: "skyshards", label: "Skyshards" },
-  { key: "zoneQuests", label: "Zone Quests" },
-  { key: "groupDungeons", label: "Group Dungeons" },
-  { key: "publicDungeons", label: "Public Dungeons" },
+  { key: "general", labelSlug: skillPointsProgressPanelCardGeneral.slug },
+  { key: "skyshards", labelSlug: skillPointsProgressPanelCardSkyshards.slug },
+  { key: "zoneQuests", labelSlug: skillPointsProgressPanelCardZoneQuests.slug },
+  { key: "groupDungeons", labelSlug: skillPointsProgressPanelCardGroupDungeons.slug },
+  { key: "publicDungeons", labelSlug: skillPointsProgressPanelCardPublicDungeons.slug },
 ] as const
 
 type BranchKey = (typeof BRANCHES)[number]["key"]
@@ -79,6 +86,7 @@ export function SkillPointsProgressPanelCard({
   sortMode,
   sortDirection,
 }: SkillPointsProgressPanelCardProps) {
+  const phrase = usePhrase()
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? skillPointsProgress
@@ -110,7 +118,7 @@ export function SkillPointsProgressPanelCard({
       const templateEntries = getBranchEntries(template, branch.key)
       return {
         key: branch.key,
-        label: branch.label,
+        label: phrase(branch.labelSlug),
         children: templateEntries.map(
           (entry): CompletionNode => ({
             key: entry.key,
@@ -149,7 +157,7 @@ export function SkillPointsProgressPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Skill Points"
+        title={phrase(skillPointsProgressPanelCardTitle.slug)}
         items={categorizeSkillPointItems(items)}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -162,7 +170,7 @@ export function SkillPointsProgressPanelCard({
   const cp = requireFirst(selectedProgress)
   const items: CompletionNode[] = BRANCHES.map((branch) => ({
     key: branch.key,
-    label: branch.label,
+    label: phrase(branch.labelSlug),
     children: getBranchEntries(cp, branch.key).map(
       (entry): CompletionNode => ({
         key: entry.key,
@@ -176,7 +184,7 @@ export function SkillPointsProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Skill Points"
+      title={phrase(skillPointsProgressPanelCardTitle.slug)}
       items={categorizeSkillPointItems(items)}
       filterNode={filterNode}
       sortMode={sortMode}

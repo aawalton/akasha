@@ -6,4 +6,10 @@ export const subclassingSkillLinesPanelCard = {
   slug: "subclassing-skill-lines-panel-card",
   definition: "the subclassing skill lines the account has ranked up, by class",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

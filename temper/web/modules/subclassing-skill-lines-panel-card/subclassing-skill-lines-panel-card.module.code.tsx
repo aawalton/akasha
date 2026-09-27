@@ -7,6 +7,8 @@ import {
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
 import type { SubclassingSkillLineProgressResult } from "akasha/temper/player/completion/temper-player-completion/modules/completion-subclassing-progress/completion-subclassing-progress.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { subclassingSkillLinesPanelCardTitle } from "akasha/temper/web/phrase/pages/subclassing-skill-lines-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -33,6 +35,7 @@ export function SubclassingSkillLinesPanelCard({
   sortMode,
   sortDirection,
 }: SubclassingSkillLinesPanelCardProps) {
+  const phrase = usePhrase()
   const playableClasses = classes.list.filter((c) => c.id !== "no-class")
 
   const items: CompletionNode[] = playableClasses.map((cls) => {
@@ -52,7 +55,7 @@ export function SubclassingSkillLinesPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Subclassing Skill Lines"
+      title={phrase(subclassingSkillLinesPanelCardTitle.slug)}
       items={withActivityCategories(items, "characters")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
