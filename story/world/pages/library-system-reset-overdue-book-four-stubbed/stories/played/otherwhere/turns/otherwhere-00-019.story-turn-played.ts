@@ -10,7 +10,7 @@ export const otherwhere00019 = {
   position: 19,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "“Okay, that’s helpful. Plan B then.” I sweep the salt into a think circle around me, keeping the diameter only about three feet so I can keep it doubly thick, then start moving the circle down the center of the hall, baiting the small ones towards me.",
   beats: [
@@ -27,5 +27,5 @@ export const otherwhere00019 = {
   ],
   issues: ['"A head stretched over that line could reach them." - Leave It Open'],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
