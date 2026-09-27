@@ -7,6 +7,14 @@ export const theDatingGame00022 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 22,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "I continue around the hill, singing quietly to myself as I walk.",
+  beats: [
+    "Alan walks on around the hill, singing quietly to himself.",
+    "The stream keeps time beside him, low over its stones.",
+    "There is no one near to hear; the trail stays nearly empty in the Saturday afternoon.",
+    "A breeze stirs the willows, and a few early red maple leaves come down onto the water.",
+    "They ride the current along beside him for a while, then slip ahead around the bend.",
+    "The trail curves with the hill, the campus buildings glimpsed now and then up through the trees.",
+  ],
 } as const satisfies StoryTurnPlayed
