@@ -4,7 +4,7 @@ export const theDatingGame00002 = {
   id: "01a0de91-c157-7f6c-afd3-7ec7f69e7a94",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-002",
-  ownLength: 480,
+  ownLength: 473,
   partOfCollections: ["story-played/the-dating-game"],
   position: 2,
   prose: "txt",
@@ -33,7 +33,7 @@ export const theDatingGame00002 = {
     "She wears a rock-grey canvas jacket over something pale.",
     "Black-and-gold headphones rest at her collarbones, their cable running to nothing he can see.",
     "She turns her head and meets his eyes.",
-    'She says "Take," quietly, and smiles at him, and waits to see what he does.',
+    'She says "Take," quietly, and smiles at him.',
   ],
   lore: [
     "lore/the-dating-game-alan",
