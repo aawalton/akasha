@@ -1,5 +1,6 @@
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionValueFormula } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
+import type { SpecialEffectType } from "akasha/temper/catalog/effect/temper-special-effect-type/modules/special-effect-type-ids/special-effect-type-ids.data-table.code.ts"
 import type {
   CastTimeEffect,
   ChannelEffect,
@@ -7,7 +8,6 @@ import type {
   DamageType,
   EffectCondition,
   ResourceCostEffect,
-  SpecialEffectType,
   StatusEffect,
   Targeting,
 } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"

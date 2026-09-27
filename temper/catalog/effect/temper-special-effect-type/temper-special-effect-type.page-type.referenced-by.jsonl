@@ -1,4 +1,6 @@
+{"propertySlug":"import","fileName":"temper-special-effect-type.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-special-effect-type.page-type.ts","path":"temper/catalog/effect/temper-special-effect-type/modules/special-effect-type-ids-keeping/special-effect-type-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-special-effect-type.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-special-effect-type.page-type.types.ts","path":"temper/catalog/effect/temper-special-effect-type/pages/become-invisible.temper-special-effect-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-special-effect-type.page-type.types.ts","path":"temper/catalog/effect/temper-special-effect-type/pages/block-all.temper-special-effect-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-special-effect-type.page-type.types.ts","path":"temper/catalog/effect/temper-special-effect-type/pages/cleanse.temper-special-effect-type.ts","typed":true,"deferred":false}

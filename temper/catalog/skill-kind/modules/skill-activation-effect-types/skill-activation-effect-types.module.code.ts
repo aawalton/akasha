@@ -1,3 +1,4 @@
+import type { SpecialEffectType } from "akasha/temper/catalog/effect/temper-special-effect-type/modules/special-effect-type-ids/special-effect-type-ids.data-table.code.ts"
 import type { StatusEffectType } from "akasha/temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids/status-effect-type-ids.data-table.code.ts"
 import type {
   ActivationBuffEffect,
@@ -221,18 +222,6 @@ interface SynergyComponent {
   name: string
   effect: SkillEffectComponent
 }
-
-export type SpecialEffectType =
-  | "block-all"
-  | "reflect-all"
-  | "heal-to-full"
-  | "become-invisible"
-  | "dodge-next-attack"
-  | "interrupt"
-  | "ignore-resistance"
-  | "pull-to-caster"
-  | "create-corpse"
-  | "cleanse"
 
 interface SpecialComponent {
   type: "special"

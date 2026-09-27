@@ -5086,7 +5086,6 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.ts","id":"01a060db-b2bc-7125-b53b-c0f90c47961f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.ts","id":"01a060db-b2bc-7435-a916-f751d5505338"}
-{"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/special-effect-types/special-effect-types.module.ts","id":"01a060db-b2be-7aac-9073-574868af28d7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/target-scopes/target-scopes.module.ts","id":"01a060db-b2be-77b7-b112-34349332a376"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/modules/target-types/target-types.module.ts","id":"01a060db-b2bf-7d23-9d53-a943f51ee61c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill-kind/temper-skill-kind.domain.ts","id":"01a060db-b2bf-75cc-8809-206da241df83"}
