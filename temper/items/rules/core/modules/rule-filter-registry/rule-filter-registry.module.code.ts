@@ -11,6 +11,7 @@ import { CAN_RESEARCH_FILTER } from "akasha/temper/items/rules/core/modules/can-
 import { CAN_SELL_FILTER } from "akasha/temper/items/rules/core/modules/can-sell-filter/can-sell-filter.module.code.ts"
 import { CAN_UNLOCK_FILTER } from "akasha/temper/items/rules/core/modules/can-unlock-filter/can-unlock-filter.module.code.ts"
 import { CRAFTED_FILTER } from "akasha/temper/items/rules/core/modules/crafted-filter/crafted-filter.module.code.ts"
+import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { ITEM_IDS_FILTER } from "akasha/temper/items/rules/core/modules/item-ids-filter/item-ids-filter.module.code.ts"
 import { KEEP_QUANTITY_FILTER } from "akasha/temper/items/rules/core/modules/keep-quantity-filter/keep-quantity-filter.module.code.ts"
 import { KNOWN_FILTER } from "akasha/temper/items/rules/core/modules/known-filter/known-filter.module.code.ts"
@@ -27,7 +28,10 @@ import { RECONSTRUCTED_FILTER } from "akasha/temper/items/rules/core/modules/rec
 import { REPLACEMENT_VALUE_FILTER } from "akasha/temper/items/rules/core/modules/replacement-value-filter/replacement-value-filter.module.code.ts"
 import { REQUIRED_CURSE_STATE_FILTER } from "akasha/temper/items/rules/core/modules/required-curse-state-filter/required-curse-state-filter.module.code.ts"
 import { REQUIRED_SKILL_LINES_FILTER } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter/required-skill-lines-filter.module.code.ts"
-import type { InventoryRuleFilter } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
+import type {
+  FilterId,
+  InventoryRuleFilter,
+} from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { ITEM_NAME_FILTER } from "akasha/temper/items/rules/core/modules/rule-item-name-filter/rule-item-name-filter.module.code.ts"
 import { QUALITY_FILTER } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
 import { SET_SOURCES_FILTER } from "akasha/temper/items/rules/core/modules/set-sources-filter/set-sources-filter.module.code.ts"
@@ -80,3 +84,47 @@ export const INVENTORY_RULE_FILTERS: InventoryRuleFilter[] = [
   POTION_EFFECTS_FILTER,
   ITEM_IDS_FILTER,
 ]
+
+export type ConditionKey = keyof NonNullable<CategoryRule["conditions"]>
+
+export const FILTER_CONDITION_KEYS: Readonly<Record<FilterId, ConditionKey>> = {
+  quality: "maxQuality",
+  traits: "traits",
+  location: "location",
+  "set-sources": "setSourceTypes",
+  level: "maxLevel",
+  stolen: "stolen",
+  crafted: "crafted",
+  bound: "bound",
+  "bop-tradeable": "bopTradeable",
+  "quest-relevant": "questRelevant",
+  locked: "locked",
+  reconstructed: "reconstructed",
+  transmuted: "transmuted",
+  known: "known",
+  "can-inspire": "canInspire",
+  "can-research": "canResearch",
+  "can-companion-equip": "canCompanionEquip",
+  "needed-for-target-character-build": "isTargetEquip",
+  "needed-for-target-companion-build": "isTargetCompanionEquip",
+  "can-unlock": "canUnlock",
+  "required-skill-lines": "requiredSkillLines",
+  "required-curse-state": "requiredCurseState",
+  "can-level-morphs": "canLevelMorphs",
+  "stack-fullness": "stackFullness",
+  "can-open": "canOpen",
+  "can-sell": "canSell",
+  "can-list-at-guild-trader": "canListAtGuildTrader",
+  "can-give-max-rewards": "canGiveMaxRewards",
+  "all-stocked": "allStocked",
+  "stock-threshold": "stockThreshold",
+  "item-name": "itemNamePattern",
+  value: "value",
+  "market-value": "marketValue",
+  "merchant-value": "merchantValue",
+  "replacement-value": "replacementValue",
+  "keep-quantity": "keepQuantity",
+  "target-quantity": "targetQuantity",
+  "potion-effects": "potionEffects",
+  "item-ids": "itemIds",
+}

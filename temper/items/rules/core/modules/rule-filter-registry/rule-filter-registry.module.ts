@@ -15,5 +15,9 @@ export const ruleFilterRegistry = {
       decisionKind: "decision-kind/departure",
       statement: "The order here is the order the rule editor offers the conditions in.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each filter names the condition field whose page gives the filter's shown name.",
+    },
   ],
 } as const satisfies Module
