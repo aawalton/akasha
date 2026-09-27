@@ -37,19 +37,39 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The Librarian's quarters open off the hall behind the Check-in Counter, for a synced Librarian.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The Librarian's quarters hold a dusty bed, a wardrobe, and a bathroom with a deep stone tub.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Until the Library has more power, the quarters' taps run only cold.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The wardrobe holds a past Librarian's plain robes, long on Nala but wearable.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Links told Nala the wardrobe in the quarters holds an old Librarian's robes.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The failed information packet can be resent only through the Check-in Counter, once it works.",
