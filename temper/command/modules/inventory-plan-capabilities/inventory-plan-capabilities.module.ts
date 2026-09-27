@@ -22,5 +22,9 @@ export const inventoryPlanCapabilities = {
       statement: "No plan is built here.",
     },
     { decisionKind: "decision-kind/absence", statement: "No type is sent on from here." },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A plan run holds the venue and item action titles, read from their pages.",
+    },
   ],
 } as const satisfies Module

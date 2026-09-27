@@ -6,4 +6,11 @@ export const useInventoryRulesTabAffectedItems = {
   slug: "use-inventory-rules-tab-affected-items",
   definition: "the items under the rules tab's rules",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The plan is built again when the item action titles read from their pages change.",
+    },
+  ],
 } as const satisfies Module

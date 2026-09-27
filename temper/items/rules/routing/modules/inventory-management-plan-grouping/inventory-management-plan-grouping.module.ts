@@ -15,5 +15,13 @@ export const inventoryManagementPlanGrouping = {
       decisionKind: "decision-kind/departure",
       statement: "An item with no value leaves the group total unknown.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A group's label is read from the held item action titles, else from the pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item sold at a fence is grouped under the sell action's title.",
+    },
   ],
 } as const satisfies Module

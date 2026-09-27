@@ -21,6 +21,8 @@ import {
 import type { ManagementPlan } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { buildManagementPlan } from "akasha/temper/items/rules/routing/modules/inventory-management-plan/inventory-management-plan.module.code.ts"
 import { applyDestinationCapacityFilter } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-capacity-filter/inventory-management-plan-capacity-filter.module.code.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { useMemo, useRef } from "react"
 
 interface InventoryRulesTabAffectedItems {
@@ -95,6 +97,7 @@ export function useInventoryRulesTabAffectedItems({
     [deferredCompiledRules, deferredItemRules, affectedItemsMap, inventory]
   )
 
+  const actionTitles = useKeyedTitles(temperItemAction.slug)
   const managementPlan = useMemo(
     () =>
       buildManagementPlan(
@@ -114,6 +117,7 @@ export function useInventoryRulesTabAffectedItems({
       matcherContext,
       bufferSlots,
       buyRules,
+      actionTitles,
     ]
   )
 

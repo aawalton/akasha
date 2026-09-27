@@ -1,49 +1,23 @@
-import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
+import {
+  heldKeyedTitles,
+  titleOf,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
   ActionGroup,
   PlanItem,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import { ITEM_ACTION_PAGES } from "akasha/temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts"
+import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
+
+function actionTitle(action: ItemAction): string {
+  const held = heldKeyedTitles(temperItemAction.slug)
+  if (held !== null) return titleOf(held, action)
+  return ITEM_ACTION_PAGES.find((one) => one.slug === action)?.title ?? action
+}
 
 function getGroupLabel(action: ItemAction): string {
-  switch (action) {
-    case "sell":
-      return "Sell"
-    case "destroy":
-      return "Destroy"
-    case "fence-sell":
-      return "Sell"
-    case "fence-launder":
-      return "Launder"
-    case "list":
-      return "List"
-    case "mail":
-      return "Mail"
-    case "deconstruct":
-      return "Deconstruct"
-    case "refine":
-      return "Refine"
-    case "research":
-      return "Research"
-    case "character-equip":
-      return "Equip"
-    case "companion-equip":
-      return "Companion Equip"
-    case "use":
-      return "Use"
-    case "open":
-      return "Open"
-    case "move-to":
-      return "Move"
-    case "stock":
-      return "Stock"
-    case "nothing":
-    case "lock":
-    case "unlock":
-      return action
-    default:
-      return assertNever(action)
-  }
+  return actionTitle(action === "fence-sell" ? "sell" : action)
 }
 
 export function buildActionGroups(items: readonly PlanItem[]): readonly ActionGroup[] {
