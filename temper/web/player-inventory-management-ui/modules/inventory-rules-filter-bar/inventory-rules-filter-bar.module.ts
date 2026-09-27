@@ -6,4 +6,10 @@ export const inventoryRulesFilterBar = {
   slug: "inventory-rules-filter-bar",
   definition: "the bar narrowing which rules a reader sees",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bar's title and search placeholder are read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

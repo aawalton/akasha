@@ -8,6 +8,9 @@ import { SearchButton } from "akasha/design/interface/pattern/modules/search-but
 import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/interface/pattern/modules/sort-button/sort-button.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryRulesFilterBarSearch } from "akasha/temper/web/phrase/pages/inventory-rules-filter-bar-search.temper-web-phrase.ts"
+import { inventoryRulesFilterBarTitle } from "akasha/temper/web/phrase/pages/inventory-rules-filter-bar-title.temper-web-phrase.ts"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
@@ -69,6 +72,7 @@ export function InventoryRulesFilterBar({
   onRuleSearchChange,
   onRuleSortChange,
 }: InventoryRulesFilterBarProps) {
+  const phrase = usePhrase()
   const popoverProps: RuleFilterPopoverProps = {
     ruleStatus,
     ruleLock,
@@ -152,7 +156,7 @@ export function InventoryRulesFilterBar({
     ruleLocation !== null
 
   return (
-    <PageTabHeader title="Rules">
+    <PageTabHeader title={phrase(inventoryRulesFilterBarTitle.slug)}>
       <SearchSortFilterRow
         hasActiveFilters={hasActiveFilters}
         onReset={() => {
@@ -169,7 +173,7 @@ export function InventoryRulesFilterBar({
         <SearchButton
           value={ruleSearch}
           onChange={onRuleSearchChange}
-          placeholder="Search rules..."
+          placeholder={phrase(inventoryRulesFilterBarSearch.slug)}
         />
 
         <SortButton
