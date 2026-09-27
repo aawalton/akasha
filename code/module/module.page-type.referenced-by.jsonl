@@ -2633,6 +2633,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/derived/modules/derived-beside/derived-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/items/story-item/modules/character-items-beside/character-items-beside.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/action-intent/action-intent.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/banded-roll/banded-roll.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","typed":true,"deferred":false}

@@ -1,0 +1,11 @@
+import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
+
+export const dragonsAndDungeonsResolution = {
+  id: "01a0e3a2-2fca-774e-b4a9-d382a5cd6feb",
+  type: "page-type/world-mechanic",
+  slug: "dragons-and-dungeons-resolution",
+  title: "Resolution",
+  world: "world/personas",
+  description:
+    'Dragons & Dungeons has two frames, and dice belong to the inner one alone. The table at Caer Arianrhod, the outer frame, is narrative only: nothing Alan, Aria, Mari or Ceri says or does there is ever rolled, and no roll is ever shown or spoken of there. In the tale, the inner frame, every act the monk declares whose outcome is in doubt and matters is settled by the dragons-and-dungeons-check, and nothing else decides it: not the phrasing, not what the scene wants. An act that is sure, trivial, or harmless to fail is simply told, and so is anything another character does of their own accord. The game master picks the band from the fiction before rolling: easy (8) for what a trained, calm monk usually manages, standard (12) for real effort or risk, hard (16) for what few could pull off, extreme (20) for the near-impossible. Bonuses name what earns them and run from minus four to four each, at most six either way in total. For him: his temple training in body, balance and silent movement; the sense Tygryth taught him, against a threat that carries intent; a plan that exploits a weakness; help from Tygryth, Mari or Wren at his side; preparation; a fitting tool. Against him: his wounds while they are fresh, exhaustion, hunger, darkness, haste, dragon-iron, and ignorance of what he faces. Settle with `akasha story settle --story dragons-and-dungeons --check dragons-and-dungeons-check --dice 1d20 --reading \'{"band":"standard","bonuses":[{"from":"temple training","by":2}]}\'` on the turn, before telling the outcome. Tell the outcome the roll answered: strong comes off well with something extra, success comes off, cost comes off with a real price the game master picks (hurt, noise, lost time, a lost or broken thing, an ally put at risk), failure fails and the situation worsens. A natural twenty is strong and a natural one fails, whatever the margin. Dice, bands and margins never appear in the prose.',
+} as const satisfies WorldMechanic

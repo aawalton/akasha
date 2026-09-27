@@ -3774,6 +3774,7 @@
 {"propertySlug":"decision-kind","path":"story/world/mechanics/items/world-item.page-type.ts","id":"01a06558-a991-78cc-a7cf-5b7b4ad460d7"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/metrics/properties/history.file-property.ts","id":"01a0c9fe-db25-75da-99e7-c4f8a29375a8"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/action-intent/action-intent.module.ts","id":"01a0c503-8445-7c0d-bdd7-0c4b72f362c5"}
+{"propertySlug":"decision-kind","path":"story/world/mechanics/modules/banded-roll/banded-roll.module.ts","id":"01a0e3a2-2fc9-767e-908f-ac448b65c488"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-reading/dice-reading.module.ts","id":"01a0c480-e32d-7929-bdd9-14a102e071a3"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-rolling/dice-rolling.module.ts","id":"01a0c5f7-fd70-7b67-ab29-7b3be9723b2a"}
 {"propertySlug":"decision-kind","path":"story/world/mechanics/modules/dice-throwing/dice-throwing.module.ts","id":"01a0de28-48fb-7955-8bf2-53eabca62339"}
@@ -3795,6 +3796,7 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/checks/otherwhere-action-check.world-check.ts","id":"01a0e35d-c37f-706b-b681-d6e791bc2b7a"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/checks/otherwhere-harm.world-check.ts","id":"01a0e363-de4d-707a-b798-b425b58c417a"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/checks/otherwhere-standing.world-check.ts","id":"01a0e365-14b9-7ffb-bde4-00f1f3dbfa23"}
+{"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/dragons-and-dungeons/mechanics/checks/dragons-and-dungeons-check.world-check.ts","id":"01a0e3a2-2fca-74ba-add3-c6d38b930e0b"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/checks/harem-hotel-attack-resolution.world-check.ts","id":"01a0de4f-b413-77b3-9c4c-10de6f313ef8"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/classes/harem-hotel-class.page-type.ts","id":"01a0de51-b972-7e50-a28d-49e039320ff6"}
 {"propertySlug":"decision-kind","path":"story/world/pages/personas/stories/played/harem-hotel/mechanics/derived/harem-hotel-leveling.world-derived-metric.ts","id":"01a0de4e-cf62-7069-8c91-a842c9cabc81"}

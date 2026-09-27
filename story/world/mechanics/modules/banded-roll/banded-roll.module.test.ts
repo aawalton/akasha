@@ -1,5 +1,5 @@
 import { expect, test } from "bun:test"
-import { settled } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere/mechanics/checks/otherwhere-action-check.world-check.settling.code.ts"
+import { bandedSettled as settled } from "akasha/story/world/mechanics/modules/banded-roll/banded-roll.module.code.ts"
 
 function rolled(total: number) {
   return { total, crit: total === 20, fumble: total === 1 }
