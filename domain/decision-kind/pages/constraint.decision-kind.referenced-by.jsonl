@@ -1270,6 +1270,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-bodies/use-completion-bodies.module.ts","id":"01a076b9-598a-7c82-b905-b629a56a823f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.ts","id":"01a06421-f74b-780d-8790-490781880039"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-lore-library/use-lore-library.module.ts","id":"01a0e253-f856-7b2c-bdce-9b9eeb76e1d6"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.ts","id":"01a06270-883d-7000-98b7-a23674b65603"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.ts","id":"01a06270-883d-7001-a3e2-19a44697e51c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.ts","id":"01a06267-372c-7002-bf32-c613086380b1"}

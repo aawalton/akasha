@@ -19,5 +19,14 @@ export const useLoreLibrary = {
       decisionKind: "decision-kind/departure",
       statement: "A read that fails is thrown to the screen rather than drawn as no books.",
     },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "One listing carries at most five thousand pages, and there are more books.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The books are read in four batches, each the books of a quarter of the collections.",
+    },
   ],
 } as const satisfies Module
