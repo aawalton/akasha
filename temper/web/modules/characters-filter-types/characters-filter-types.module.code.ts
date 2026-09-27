@@ -34,14 +34,19 @@ export const TAB_LABELS: Record<TabValue, string> = {
   leaderboard: "Rank",
 }
 
-export function roleItems(): BadgeToggleGroupItem[] {
-  return characterRoles().list.map((role) => ({ value: role.id, label: role.name }))
+function itemsOf(
+  list: readonly { readonly id: string; readonly name: string }[]
+): BadgeToggleGroupItem[] {
+  return list.map((one) => ({ value: one.id, label: one.name }))
 }
 
-export const CLASS_ITEMS: BadgeToggleGroupItem[] = classes.ids.map((id) => ({
-  value: id,
-  label: classes.data[id].name,
-}))
+export function roleItems(): BadgeToggleGroupItem[] {
+  return itemsOf(characterRoles().list)
+}
+
+export function classItems(): BadgeToggleGroupItem[] {
+  return itemsOf(classes.list)
+}
 
 export const SORT_OPTIONS: SortOption<SortField>[] = [
   { value: "updated", label: "Recent", defaultDirection: "desc" },

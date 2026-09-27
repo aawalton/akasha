@@ -2,7 +2,7 @@ import {
   allianceBits,
   ATTRIBUTE_BITS,
   affixScriptBits,
-  CLASS_BITS,
+  classBits,
   curseBits,
   esoPlusBits,
   foodOrDrinkBits,
@@ -41,7 +41,7 @@ import {
   mundusBits,
   scribedSkillBits,
   POTION_BITS,
-  RACE_BITS,
+  raceBits,
   skillLineBits,
   signatureScriptBits,
   vampireStageBits,
@@ -138,8 +138,8 @@ export function encodeV52(build: CharacterState): Uint8Array {
 function encodeCharacter(writer: BitWriterState, build: CharacterState): undefined {
   const char = build.character
 
-  writeBits(writer, getClassIndex(char.class), CLASS_BITS)
-  writeBits(writer, getRaceIndex(char.race), RACE_BITS)
+  writeBits(writer, getClassIndex(char.class), classBits())
+  writeBits(writer, getRaceIndex(char.race), raceBits())
   writeBits(writer, getAllianceIndex(char.alliance), allianceBits())
 
   writeBits(writer, getVampireStageIndex(char.vampireStage), vampireStageBits())
@@ -247,8 +247,8 @@ function decodeCharacter(
   reader: BitReaderState,
   minorVersion: number
 ): Omit<CharacterState["character"], "name"> {
-  const classId = getClassId(readBits(reader, CLASS_BITS))
-  const raceId = getRaceId(readBits(reader, RACE_BITS))
+  const classId = getClassId(readBits(reader, classBits()))
+  const raceId = getRaceId(readBits(reader, raceBits()))
   const allianceId =
     minorVersion >= 5 ? getAllianceId(readBits(reader, allianceBits())) : "no-alliance"
   const roleIds = minorVersion < 6 ? bitmaskToRoleIds(readBits(reader, ROLE_BITMASK_BITS)) : []

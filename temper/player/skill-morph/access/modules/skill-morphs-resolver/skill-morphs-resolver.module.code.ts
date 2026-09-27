@@ -1,7 +1,7 @@
 import {
-  ESO_CLASS_ID_TO_CLASS_ID,
-  ESO_RACE_ID_TO_RACE_ID,
+  classIdOfEso,
   getApplicableSkillLineIds,
+  raceIdOfEso,
   skillLineIdOfEso,
 } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { MorphCharacterRow } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
@@ -53,8 +53,8 @@ export function resolveSkillMorphs(
     })
   }
 
-  const classId = ESO_CLASS_ID_TO_CLASS_ID.get(completion.classId ?? 0) ?? "no-class"
-  const raceId = ESO_RACE_ID_TO_RACE_ID.get(completion.raceId ?? 0) ?? "no-race"
+  const classId = classIdOfEso(completion.classId ?? 0) ?? "no-class"
+  const raceId = raceIdOfEso(completion.raceId ?? 0) ?? "no-race"
   const applicableLines = getApplicableSkillLineIds(classId, raceId)
   const { current, total } = computeCharacterMorphProgress({
     applicableLines,

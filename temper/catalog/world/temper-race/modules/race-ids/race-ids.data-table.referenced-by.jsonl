@@ -1,1 +1,4 @@
+{"propertySlug":"import","fileName":"race-ids.data-table.code.ts","path":"temper/catalog/character-race/modules/races/races.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"race-ids.data-table.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"race-ids.data-table.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/world/temper-race/temper-race.page-type.ts","id":"01a05fc4-7a95-7a17-b702-bdb4627956d0"}

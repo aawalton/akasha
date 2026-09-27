@@ -1,22 +1,6 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
-import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
+import {
+  skillCatalog,
+  tableView,
+} from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 
-interface ClassTemplate {
-  id: ClassId
-  name: string
-  icon: string
-  esoClassId: number
-}
-
-const TEMPER_CLASSES = {
-  "arcanist": { id: "arcanist", name: "Arcanist", icon: "📖", esoClassId: 117 },
-  "dragonknight": { id: "dragonknight", name: "Dragonknight", icon: "🔥", esoClassId: 1 },
-  "necromancer": { id: "necromancer", name: "Necromancer", icon: "💀", esoClassId: 5 },
-  "nightblade": { id: "nightblade", name: "Nightblade", icon: "🗡️", esoClassId: 3 },
-  "no-class": { id: "no-class", name: "No Class", icon: "", esoClassId: 0 },
-  "sorcerer": { id: "sorcerer", name: "Sorcerer", icon: "⚡", esoClassId: 2 },
-  "templar": { id: "templar", name: "Templar", icon: "☀️", esoClassId: 6 },
-  "warden": { id: "warden", name: "Warden", icon: "🐻", esoClassId: 4 },
-} as const satisfies Record<ClassId, ClassTemplate>
-
-export const classes = createDataFile<ClassTemplate>()(TEMPER_CLASSES)
+export const classes = tableView(() => skillCatalog().classes)

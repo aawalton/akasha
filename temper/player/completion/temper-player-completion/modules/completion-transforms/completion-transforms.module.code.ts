@@ -20,8 +20,8 @@ import type {
   CompletionCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import {
-  ESO_CLASS_ID_TO_CLASS_ID,
-  ESO_RACE_ID_TO_RACE_ID,
+  classIdOfEso,
+  raceIdOfEso,
 } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type { CharacterSkillMorphProgress } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 
@@ -76,8 +76,8 @@ export function transformCompletionCharacters(
     if (!completion || !isCharacterMeasured(completion)) continue
     measuredCharacterCount++
 
-    const classId = ESO_CLASS_ID_TO_CLASS_ID.get(completion.classId ?? 0) ?? "no-class"
-    const raceId = ESO_RACE_ID_TO_RACE_ID.get(completion.raceId ?? 0) ?? "no-race"
+    const classId = classIdOfEso(completion.classId ?? 0) ?? "no-class"
+    const raceId = raceIdOfEso(completion.raceId ?? 0) ?? "no-race"
 
     const measuredLevel = completion.level ?? null
 

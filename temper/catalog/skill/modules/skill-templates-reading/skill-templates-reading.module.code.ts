@@ -16,6 +16,7 @@ import {
   holdSkillBars,
   skillBarsOf,
 } from "akasha/temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.code.ts"
+import { temperRace } from "akasha/temper/catalog/world/temper-race/temper-race.page-type.ts"
 import type { SkillLineTemplate } from "akasha/temper/player/character/skill/line/modules/skill-line-template/skill-line-template.module.code.ts"
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
 import type { GrimoireTemplate } from "akasha/temper/player/character/skill/modules/grimoire-template/grimoire-template.module.code.ts"
@@ -305,7 +306,45 @@ function lineOf(row: Value, keys: SkillKeys): SkillLineTemplate {
   } as SkillLineTemplate
 }
 
+const RACE_FIELDS: readonly string[] = ["slug", "key", "title", "altName", "esoRaceId", "hashPlace"]
+
+export type RaceTemplate = {
+  readonly id: string
+  readonly name: string
+  readonly altName: string
+  readonly esoRaceId: number
+}
+
+function raceOf(row: Value): RaceTemplate {
+  return {
+    id: String(row.key),
+    name: String(row.title),
+    altName: typeof row.altName === "string" ? row.altName : "",
+    esoRaceId: Number(row.esoRaceId),
+  }
+}
+
+const CLASS_FIELDS: readonly string[] = ["slug", "key", "title", "icon", "esoClassId", "hashPlace"]
+
+export type ClassTemplate = {
+  readonly id: string
+  readonly name: string
+  readonly icon: string
+  readonly esoClassId: number
+}
+
+function classOf(row: Value): ClassTemplate {
+  return {
+    id: String(row.key),
+    name: String(row.title),
+    icon: typeof row.icon === "string" ? row.icon : "",
+    esoClassId: Number(row.esoClassId),
+  }
+}
+
 export type CatalogTemplates = SkillTemplates & {
+  readonly races: readonly RaceTemplate[]
+  readonly classes: readonly ClassTemplate[]
   readonly skillLines: readonly SkillLineTemplate[]
   readonly focusScripts: readonly ScriptTemplate[]
   readonly signatureScripts: readonly ScriptTemplate[]
@@ -333,6 +372,8 @@ export const CATALOG_READS: readonly Read[] = readsOf([
   [temperAffixScript.slug, SCRIPT_FIELDS],
   [temperGrimoire.slug, GRIMOIRE_FIELDS],
   [temperSkillLine.slug, LINE_FIELDS],
+  [temperRace.slug, RACE_FIELDS],
+  [temperClass.slug, CLASS_FIELDS],
   [temperSkillBar.slug, ["slug", "title", "displayOrder"]],
   ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
   ...CHARACTER_SOURCE_READS,
@@ -351,5 +392,7 @@ export function catalogTemplatesOf(
     affixScripts: scriptTemplatesOf(rowsOf(temperAffixScript.slug)),
     grimoires: inPlace(rowsOf(temperGrimoire.slug)).map((row) => grimoireOf(row, keys)),
     skillLines: inPlace(rowsOf(temperSkillLine.slug)).map((row) => lineOf(row, keys)),
+    races: inPlace(rowsOf(temperRace.slug)).map(raceOf),
+    classes: inPlace(rowsOf(temperClass.slug)).map(classOf),
   }
 }

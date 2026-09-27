@@ -4797,6 +4797,8 @@
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/modules/helpers-game/helpers-game.module.ts","id":"01a0617d-5451-7952-9d26-5748fb7a36ff"}
 {"propertySlug":"decision-kind","path":"temper/addon/shared/temper-helpers/temper-helpers.domain.ts","id":"01a08d72-671a-7ba4-875c-f5296652fc14"}
 {"propertySlug":"decision-kind","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-class-map/character-capture-class-map.module.ts","id":"01a0616b-83c5-7863-8ef6-9a4458d16ae4"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-race-map/character-capture-race-map.module.ts","id":"01a0616b-4cc4-79a8-bbd5-ed51f0322bc0"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.ts","id":"01a0d62c-d5b4-75e1-b4ce-b66ae5e37c6b"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.ts","id":"01a0616b-aaf2-7d29-bf88-e33b5830c654"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.ts","id":"01a0e062-b6c8-702c-b74f-ccc8ad13269d"}
@@ -5634,6 +5636,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/routing/test-fixtures/inventory-management-plan-test-utils/inventory-management-plan-test-utils.test-fixture.ts","id":"01a0615a-a1dc-7882-8483-be86859114a7"}
 {"propertySlug":"decision-kind","path":"temper/modules/addon-init/addon-init.module.ts","id":"01a060ae-335f-75cf-867a-8b88bb3db05e"}
 {"propertySlug":"decision-kind","path":"temper/modules/assert-schema-matches-payload/assert-schema-matches-payload.module.ts","id":"01a06075-b052-7e77-979b-c9bea93f7ba3"}
+{"propertySlug":"decision-kind","path":"temper/modules/character-class/character-class.module.ts","id":"01a06076-1b68-7f3a-8237-8beb701e2f8f"}
 {"propertySlug":"decision-kind","path":"temper/modules/chat-entry-text/chat-entry-text.module.ts","id":"01a090b3-cd34-73db-8728-72f922749cda"}
 {"propertySlug":"decision-kind","path":"temper/modules/descriptor/descriptor.module.ts","id":"01a06053-3638-7cb5-b297-d04869965330"}
 {"propertySlug":"decision-kind","path":"temper/modules/movable-window/movable-window.module.ts","id":"01a060c4-17d0-7920-84d6-6391a39d187e"}
@@ -5686,6 +5689,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/companion-build/version/companion-build-version.page-type.ts","id":"01a0d897-3e34-7904-836e-7392f33aea6a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/companion-build/version/properties/companion-build-version-build.relation-property.ts","id":"01a0d897-3e34-79c5-b28b-56528e0bcb3a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.ts","id":"01a06070-82dd-75fc-a816-ccfe176b1e07"}
+{"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/class-id/class-id.module.ts","id":"01a06070-82de-7689-94a1-27231e387939"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/eso-date/eso-date.module.ts","id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/metric-id/metric-id.module.ts","id":"01a06070-82e2-7238-b411-953800ec8442"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/source-category/source-category.module.ts","id":"01a06070-82e4-7b83-980a-be8cb831e18a"}

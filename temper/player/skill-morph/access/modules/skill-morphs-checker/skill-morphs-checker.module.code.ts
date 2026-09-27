@@ -1,8 +1,8 @@
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import {
-  ESO_CLASS_ID_TO_CLASS_ID,
-  ESO_RACE_ID_TO_RACE_ID,
+  classIdOfEso,
   getApplicableSkillLineIds,
+  raceIdOfEso,
   skillLineIdOfEso,
 } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
 import type {
@@ -15,8 +15,8 @@ import { morphableSkillsByLine } from "akasha/temper/player/skill-morph/modules/
 export const SKILL_MORPHS_CHECKER: MorphCardChecker = {
   isCardComplete(completion) {
     if (!completion) return false
-    const classId = ESO_CLASS_ID_TO_CLASS_ID.get(completion.classId ?? 0) ?? "no-class"
-    const raceId = ESO_RACE_ID_TO_RACE_ID.get(completion.raceId ?? 0) ?? "no-race"
+    const classId = classIdOfEso(completion.classId ?? 0) ?? "no-class"
+    const raceId = raceIdOfEso(completion.raceId ?? 0) ?? "no-race"
     const applicableLines = getApplicableSkillLineIds(classId, raceId)
     const { current, total } = computeCharacterMorphProgress({
       applicableLines,
@@ -107,8 +107,8 @@ export const SKILL_MORPHS_CHECKER: MorphCardChecker = {
 export function computeCharacterCanLevelMorphs(charRow: MorphCharacterRow): boolean {
   const completion = charRow.completion
   if (!completion) return false
-  const classId = ESO_CLASS_ID_TO_CLASS_ID.get(completion.classId ?? 0) ?? "no-class"
-  const raceId = ESO_RACE_ID_TO_RACE_ID.get(completion.raceId ?? 0) ?? "no-race"
+  const classId = classIdOfEso(completion.classId ?? 0) ?? "no-class"
+  const raceId = raceIdOfEso(completion.raceId ?? 0) ?? "no-race"
   const applicableLines = getApplicableSkillLineIds(classId, raceId)
   const { current, total } = computeCharacterMorphProgress({
     applicableLines,

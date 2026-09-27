@@ -12,31 +12,50 @@ import {
 } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import { getRacialSkillLineIdForRace } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 
-export const ESO_CLASS_ID_TO_CLASS_ID = new Map<number, ClassId>(
-  classes.list
-    .filter((cls) => cls.esoClassId !== 0)
-    .map((cls): [number, ClassId] => [cls.esoClassId, cls.id])
+function byEsoIdOver<Row extends { readonly id: string }>(
+  rows: () => readonly Row[],
+  esoIdOf: (row: Row) => number
+): (esoId: number) => Row["id"] | undefined {
+  let held: {
+    readonly from: readonly Row[]
+    readonly ids: ReadonlyMap<number, Row["id"]>
+  } | null = null
+  return (esoId) => {
+    const from = rows()
+    if (held?.from !== from) {
+      const ids = new Map<number, Row["id"]>()
+      for (const row of from) if (esoIdOf(row) !== 0) ids.set(esoIdOf(row), row.id)
+      held = { from, ids }
+    }
+    return held.ids.get(esoId)
+  }
+}
+
+const classOfEso = byEsoIdOver(
+  () => classes.list,
+  (one) => one.esoClassId
 )
 
-export const ESO_RACE_ID_TO_RACE_ID = new Map<number, RaceId>(
-  races.list
-    .filter((race) => race.esoRaceId !== 0)
-    .map((race): [number, RaceId] => [race.esoRaceId, race.id])
+const raceOfEso = byEsoIdOver(
+  () => races.list,
+  (one) => one.esoRaceId
 )
 
-let byEsoId: {
-  readonly from: readonly unknown[]
-  readonly ids: ReadonlyMap<number, SkillLineId>
-} | null = null
+const skillLineOfEso = byEsoIdOver(
+  () => skillLines.list,
+  (one) => one.esoSkillLineId
+)
+
+export function classIdOfEso(esoClassId: number): ClassId | undefined {
+  return classOfEso(esoClassId)
+}
+
+export function raceIdOfEso(esoRaceId: number): RaceId | undefined {
+  return raceOfEso(esoRaceId)
+}
 
 export function skillLineIdOfEso(esoSkillLineId: number): SkillLineId | undefined {
-  const from = skillLines.list
-  if (byEsoId?.from !== from) {
-    const ids = new Map<number, SkillLineId>()
-    for (const sl of from) if (sl.esoSkillLineId !== 0) ids.set(sl.esoSkillLineId, sl.id)
-    byEsoId = { from, ids }
-  }
-  return byEsoId.ids.get(esoSkillLineId)
+  return skillLineOfEso(esoSkillLineId)
 }
 
 export const EXCLUDED_CATEGORIES = new Set(["none", "companion"])

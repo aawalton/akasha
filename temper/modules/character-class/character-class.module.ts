@@ -8,9 +8,12 @@ export const characterClass = {
   code: "ts",
   decisions: [
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The classes are read from the class pages and held with the skill catalogue.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A class's place in this table is the index a build hash has.",
     },
   ],
-  hashIndexed: ["TEMPER_CLASSES"],
 } as const satisfies Module

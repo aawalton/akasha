@@ -41,5 +41,10 @@ export const skillTemplatesReading = {
       decisionKind: "decision-kind/departure",
       statement: "The skill bar pages are read and held with the skills.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The race and class pages are read and held with the skills, each at its hash place.",
+    },
   ],
 } as const satisfies Module

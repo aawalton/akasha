@@ -9,7 +9,7 @@ export const temperCharacterRace = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The race data here is written out from the race pages.",
+      statement: "The races here are read from the race pages rather than written in code.",
     },
     {
       decisionKind: "decision-kind/departure",

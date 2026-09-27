@@ -6,4 +6,10 @@ export const classId = {
   slug: "class-id",
   definition: "the name of every character class the game offers",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The names are the class pages' slugs, as the class ids table holds them.",
+    },
+  ],
 } as const satisfies Module

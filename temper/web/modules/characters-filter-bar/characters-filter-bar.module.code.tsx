@@ -15,7 +15,7 @@ import {
   type CharactersFilterDef,
   type CharactersFilterId,
   type CharactersFilterPopoverProps,
-  CLASS_ITEMS,
+  classItems,
   isCharactersFilterId,
   roleItems,
   SORT_OPTIONS,
@@ -65,7 +65,7 @@ const CHARACTERS_FILTERS: CharactersFilterDef[] = [
       }
       return (
         <BadgeToggleGroup
-          items={CLASS_ITEMS}
+          items={classItems()}
           value={selectedClass != null ? [{ value: selectedClass, label: "" }] : []}
           onSelect={handleSelect}
           unselectedVariant="elevation-muted"

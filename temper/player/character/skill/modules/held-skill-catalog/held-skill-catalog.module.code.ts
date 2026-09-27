@@ -5,14 +5,18 @@ import {
 import type { SkillLineId } from "akasha/temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.code.ts"
 import type {
   CatalogTemplates,
+  ClassTemplate,
+  RaceTemplate,
   ScriptTemplate,
 } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
+import type { ClassId } from "akasha/temper/catalog/skill/temper-class/modules/class-ids/class-ids.data-table.code.ts"
 import type { GrimoireId } from "akasha/temper/catalog/skill/temper-grimoire/modules/grimoire-ids/grimoire-ids.data-table.code.ts"
 import type {
   AffixScriptId,
   FocusScriptId,
   SignatureScriptId,
 } from "akasha/temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.code.ts"
+import type { RaceId } from "akasha/temper/catalog/world/temper-race/modules/race-ids/race-ids.data-table.code.ts"
 import { readScriptsFrom } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type { SkillLineTemplate } from "akasha/temper/player/character/skill/line/modules/skill-line-template/skill-line-template.module.code.ts"
 import type { SkillTemplate } from "akasha/temper/player/character/skill/modules/character-skill-template/character-skill-template.module.code.ts"
@@ -38,7 +42,13 @@ export type SkillCatalog = {
   readonly affixScripts: ScriptTable<AffixScriptId, "affix-slot">
   readonly grimoires: DataFile<GrimoireId, GrimoireRow>
   readonly skillLines: DataFile<SkillLineId, SkillLineRow>
+  readonly races: DataFile<RaceId, RaceRow>
+  readonly classes: DataFile<ClassId, ClassRow>
 }
+
+type RaceRow = RaceTemplate & { readonly id: RaceId }
+
+type ClassRow = ClassTemplate & { readonly id: ClassId }
 
 type SkillLineRow = SkillLineTemplate & { readonly id: SkillLineId }
 
@@ -74,6 +84,8 @@ export function skillCatalogOf(templates: CatalogTemplates): SkillCatalog {
     affixScripts: keyedTableOf<ScriptRow<AffixScriptId, "affix-slot">>(templates.affixScripts),
     grimoires: keyedTableOf<GrimoireRow>(templates.grimoires),
     skillLines: keyedTableOf<SkillLineRow>(templates.skillLines),
+    races: keyedTableOf<RaceRow>(templates.races),
+    classes: keyedTableOf<ClassRow>(templates.classes),
   }
 }
 

@@ -9,12 +9,11 @@ export const races = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the race pages rather than by hand.",
+      statement: "The races are read from the race pages and held with the skill catalogue.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A race's place in this table is the index a build hash has.",
     },
   ],
-  hashIndexed: ["RACE_DATA"],
 } as const satisfies Module

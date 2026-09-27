@@ -1,15 +1,21 @@
-const RACE_ESO_ID_TO_INDEX: Record<number, number> = {
-  [1]: 1,
-  [2]: 2,
-  [3]: 3,
-  [4]: 4,
-  [5]: 5,
-  [6]: 6,
-  [7]: 7,
-  [8]: 8,
-  [9]: 9,
-  [10]: 10,
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { noRace } from "akasha/temper/catalog/world/temper-race/pages/no-race.temper-race.ts"
+import { temperRace } from "akasha/temper/catalog/world/temper-race/temper-race.page-type.ts"
+import type { TemperRace } from "akasha/temper/catalog/world/temper-race/temper-race.page-type.types.ts"
+
+type Places = { [esoRaceId: number]: number | undefined }
+
+let held: Places | undefined
+
+function placesOf(this: void): Places {
+  const found: Places = {}
+  for (const one of $pagesOfType<Pick<TemperRace, "esoRaceId" | "hashPlace">>(temperRace)) {
+    found[one.esoRaceId] = one.hashPlace
+  }
+  return found
 }
+
 export function getRaceIndex(esoRaceId: number): number {
-  return RACE_ESO_ID_TO_INDEX[esoRaceId] ?? 0
+  held ??= placesOf()
+  return held[esoRaceId] ?? noRace.hashPlace
 }

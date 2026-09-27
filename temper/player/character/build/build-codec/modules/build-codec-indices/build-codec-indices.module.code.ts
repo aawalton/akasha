@@ -3,7 +3,7 @@ import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/r
 import { poisons } from "akasha/temper/catalog/alchemy/modules/poison-source/poison-source.module.code.ts"
 import { potions } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { championPoints } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
-import { races } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
+
 import { armorSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import { equipmentQualities } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
@@ -13,7 +13,7 @@ import { weaponTraits } from "akasha/temper/catalog/gear/equipment/modules/weapo
 
 import { skillSlots } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
-import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
+
 import { armorEnchants } from "akasha/temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts"
 import { standardArmorWeights } from "akasha/temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts"
 import { jewelryEnchants } from "akasha/temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
@@ -35,8 +35,6 @@ import { foodOrDrink } from "akasha/temper/player/character/source/modules/food-
 import { mundus } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
 import { vampireStages } from "akasha/temper/player/character/source/modules/vampire-stages/vampire-stages.module.code.ts"
 
-const classIds = classes.ids
-const raceIds = races.ids
 
 
 
@@ -68,8 +66,7 @@ const championPointIds = championPoints.ids
 const potionIds = potions.ids
 
 
-export const CLASS_BITS = bitsNeeded(classIds.length)
-export const RACE_BITS = bitsNeeded(raceIds.length)
+
 
 
 
@@ -154,6 +151,14 @@ const signatureScriptPlaces = placesOver(() => skillCatalog().signatureScripts.i
 const affixScriptPlaces = placesOver(() => skillCatalog().affixScripts.ids)
 
 const grimoirePlaces = placesOver(() => skillCatalog().grimoires.ids)
+
+const classPlaces = placesOver(() => skillCatalog().classes.ids)
+
+export const classBits = classPlaces.bits
+
+const racePlaces = placesOver(() => skillCatalog().races.ids)
+
+export const raceBits = racePlaces.bits
 
 const esoPlusPlaces = placesOver(() => esoPlus().ids)
 
@@ -306,8 +311,8 @@ export function getScribedSkillId(index: number): string {
   return skillPlacesNow().scribedOf(index)
 }
 
-export const getClassIndex = indexIn(classIds)
-export const getRaceIndex = indexIn(raceIds)
+export const getClassIndex = classPlaces.indexOf
+export const getRaceIndex = racePlaces.indexOf
 export const getAllianceIndex = alliancePlaces.indexOf
 export const getVampireStageIndex = vampireStagePlaces.indexOf
 export const getCurseIndex = cursePlaces.indexOf
@@ -335,8 +340,8 @@ export const getFoodOrDrinkIndex = foodOrDrinkPlaces.indexOf
 export const getPotionIndex = indexIn(potionIds)
 export const getEsoPlusIndex = esoPlusPlaces.indexOf
 
-export const getClassId = idIn(classIds)
-export const getRaceId = idIn(raceIds)
+export const getClassId = classPlaces.idOf
+export const getRaceId = racePlaces.idOf
 export const getAllianceId = alliancePlaces.idOf
 export const getVampireStageId = vampireStagePlaces.idOf
 export const getCurseId = cursePlaces.idOf
