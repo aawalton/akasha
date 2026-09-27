@@ -77,13 +77,16 @@ function compared(one: string | number, two: string | number): number {
   return left < right ? -1 : left > right ? 1 : 0
 }
 
-function rowOf(path: string, name: string, world: World): Row | string {
+function rowOf(path: string, name: string, world: World): Row | string | null {
   const slug = partedIn(path)?.slug
   if (slug === undefined) return `${path} is named as no page is`
   if (name === SLUG) return { slug, by: slug }
-  const by = world.valueOf(path)?.[name]
+  const value = world.valueOf(path)
+  if (value === null) return `${path} could not be read`
+  const by = value[name]
+  if (by === undefined) return null
   if (typeof by === "number" || typeof by === "string") return { slug, by }
-  return `${path} states no \`${name}\` to be put in order by`
+  return `${path} states a \`${name}\` that cannot be put in order`
 }
 
 function rowsIn(one: Marked, kind: string, world: World): TableRead {
@@ -93,7 +96,7 @@ function rowsIn(one: Marked, kind: string, world: World): TableRead {
   for (const path of rows) {
     const row = rowOf(path, one.name, world)
     if (typeof row === "string") return { unread: row, paths }
-    found.push(row)
+    if (row !== null) found.push(row)
   }
   found.sort((left, right) => compared(left.by, right.by) || compared(left.slug, right.slug))
   return { entries: found.map((row) => row.slug), paths }

@@ -54,6 +54,10 @@ export const hashIndexedEntryKeepsItsPlace = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page stating no value for the field the mark names is no entry of that table.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A table spread in from another constant or module is read in the place it is spread.",
     },

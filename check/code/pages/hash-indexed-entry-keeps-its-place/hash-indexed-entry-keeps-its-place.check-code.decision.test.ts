@@ -122,9 +122,15 @@ test("a page type's pages marked by a field are read in order of that field", ()
   expect("entries" in found && found.entries).toEqual(["b", "a"])
 })
 
-test("a page stating no value for the field its type is ordered by is unread", () => {
-  const found = tableOf({ ...ROWS, name: "hashPlace" }, world({}, [SKILL_A], { [SKILL_A]: {} }))
-  expect("unread" in found && found.unread).toContain("states no `hashPlace`")
+test("a page stating no value for the field its type is ordered by is no entry", () => {
+  const values = { [SKILL_A]: {}, [SKILL_B]: { hashPlace: 0 } }
+  const found = tableOf({ ...ROWS, name: "hashPlace" }, world({}, [SKILL_A, SKILL_B], values))
+  expect("entries" in found && found.entries).toEqual(["b"])
+})
+
+test("a page that could not be read is unread", () => {
+  const found = tableOf({ ...ROWS, name: "hashPlace" }, world({}, [SKILL_A]))
+  expect("unread" in found && found.unread).toContain("could not be read")
 })
 
 test("a refusal over code lands on the code, and over pages on the page type", () => {
