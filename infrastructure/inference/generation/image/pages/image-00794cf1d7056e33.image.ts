@@ -5,4 +5,5 @@ export const image00794cf1d7056e33 = {
   type: "page-type/image",
   slug: "image-00794cf1d7056e33",
   persona: "persona/aelwyn",
+  settingTags: ["setting-tag/indoor", "setting-tag/dark-background"],
 } as const satisfies Image

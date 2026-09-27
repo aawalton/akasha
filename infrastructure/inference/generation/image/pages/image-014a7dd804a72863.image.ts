@@ -5,4 +5,5 @@ export const image014a7dd804a72863 = {
   type: "page-type/image",
   slug: "image-014a7dd804a72863",
   grade: "A-",
+  settingTags: ["setting-tag/car", "setting-tag/outdoor", "setting-tag/daytime"],
 } as const satisfies Image

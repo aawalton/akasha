@@ -5,4 +5,5 @@ export const image00ec2e2ca693d5a8 = {
   type: "page-type/image",
   slug: "image-00ec2e2ca693d5a8",
   persona: "persona/aura",
+  settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
 } as const satisfies Image

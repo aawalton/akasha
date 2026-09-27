@@ -4,4 +4,5 @@ export const image000aee6bb05f6504 = {
   id: "01a0c5f3-c684-7e54-baf7-c83daf13b908",
   type: "page-type/image",
   slug: "image-000aee6bb05f6504",
+  settingTags: ["setting-tag/water", "setting-tag/dimly-lit", "setting-tag/night"],
 } as const satisfies Image

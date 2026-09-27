@@ -15,4 +15,5 @@ export const image01466c6dd92d80be = {
   height: 1216,
   quantize: 8,
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
+  settingTags: ["setting-tag/balcony", "setting-tag/city", "setting-tag/sunset"],
 } as const satisfies Image

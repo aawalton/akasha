@@ -4,4 +4,5 @@ export const image00aae2788ce2a5c5 = {
   id: "01a0c5f3-db24-7d27-ba05-1017313875d5",
   type: "page-type/image",
   slug: "image-00aae2788ce2a5c5",
+  settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/campfire"],
 } as const satisfies Image
