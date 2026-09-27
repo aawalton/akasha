@@ -217,9 +217,6 @@ function AgentSaid({ entry }: { entry: Entry }) {
 function ToolCalled({ entry }: { entry: Entry }) {
   return (
     <div className={cn("flex gap-2", SUBDUED)}>
-      <span className="select-none" aria-hidden>
-        ⏺
-      </span>
       <span className="min-w-0 flex-1 truncate">{entry.line ?? ""}</span>
     </div>
   )
