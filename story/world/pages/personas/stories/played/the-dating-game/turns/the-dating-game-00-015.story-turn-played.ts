@@ -10,7 +10,7 @@ export const theDatingGame00015 = {
   position: 15,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     '"You think you could do it? I\'d love a partner on this. Can you make a voice after reading the text without hearing it first?"',
   beats: [
@@ -23,6 +23,7 @@ export const theDatingGame00015 = {
     "Then she holds out her open palm to him, flat, the way a narrator waits for a script.",
     '"Reading the text," she says, and lifts her eyebrows, waiting for him to give her some.',
   ],
+  issues: ['"the way a narrator holds out a hand for the script" - No Prompt'],
   lore: ["lore/the-dating-game-echo"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
