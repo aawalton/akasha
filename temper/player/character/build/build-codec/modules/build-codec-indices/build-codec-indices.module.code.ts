@@ -65,7 +65,6 @@ export const skillSlotIds = skillSlots.ids
 
 const championPointIds = championPoints.ids
 
-const foodOrDrinkIds = foodOrDrink.ids
 const potionIds = potions.ids
 
 
@@ -94,7 +93,6 @@ export const QUALITY_BITS = bitsNeeded(qualityIds.length)
 
 export const CHAMPION_POINT_BITS = bitsNeeded(championPointIds.length)
 
-export const FOOD_OR_DRINK_BITS = bitsNeeded(foodOrDrinkIds.length)
 export const POTION_BITS = bitsNeeded(potionIds.length)
 
 
@@ -176,6 +174,10 @@ export const curseBits = cursePlaces.bits
 const vampireStagePlaces = placesOver(() => vampireStages().ids)
 
 export const vampireStageBits = vampireStagePlaces.bits
+
+const foodOrDrinkPlaces = placesOver(() => foodOrDrink().ids)
+
+export const foodOrDrinkBits = foodOrDrinkPlaces.bits
 
 let characterLines: {
   readonly from: typeof skillLines.ids
@@ -329,7 +331,7 @@ export const getSignatureScriptIndex = signatureScriptPlaces.indexOf
 export const getAffixScriptIndex = affixScriptPlaces.indexOf
 
 export const getChampionPointIndex = indexIn(championPointIds)
-export const getFoodOrDrinkIndex = indexIn(foodOrDrinkIds)
+export const getFoodOrDrinkIndex = foodOrDrinkPlaces.indexOf
 export const getPotionIndex = indexIn(potionIds)
 export const getEsoPlusIndex = esoPlusPlaces.indexOf
 
@@ -358,6 +360,6 @@ export const getSignatureScriptId = signatureScriptPlaces.idOf
 export const getAffixScriptId = affixScriptPlaces.idOf
 
 export const getChampionPointId = idIn(championPointIds)
-export const getFoodOrDrinkId = idIn(foodOrDrinkIds)
+export const getFoodOrDrinkId = foodOrDrinkPlaces.idOf
 export const getPotionId = idIn(potionIds)
 export const getEsoPlusId = esoPlusPlaces.idOf

@@ -5702,6 +5702,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curse-source/curse-source.module.ts","id":"01a060ea-ac60-758d-ad8f-786d0b97c62d"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/curses/curses.module.ts","id":"01a060ea-ac61-790f-9c2c-5f742647198c"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/eso-plus-source/eso-plus-source.module.ts","id":"01a060ea-ac63-7845-9a82-f9f16acf19da"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.ts","id":"01a060ea-ac63-7f87-bbe2-20c3ae760481"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/mundus-source/mundus-source.module.ts","id":"01a061a7-9bb1-778e-b38f-f397e2f754ea"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/source-effects-reading/source-effects-reading.module.ts","id":"01a0df59-89b4-7a82-a534-79cc5865c544"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/target-armor-loading/target-armor-loading.module.ts","id":"01a0e05b-db0c-74d1-b6f7-73473d64f37c"}

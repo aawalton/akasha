@@ -6,6 +6,7 @@ import {
   type FoodOrDrinkId,
   type FoodOrDrinkSource,
   foodOrDrink,
+  foodOrDrinkAt,
 } from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
@@ -21,13 +22,11 @@ interface FoodDrinkSelectDialogProps {
   onSelect: (foodDrinkId: FoodOrDrinkId) => void
 }
 
-const FOODS = [...getSubcategory(foodOrDrink, "food").list].sort((a, b) =>
-  a.name.localeCompare(b.name)
-)
+type FoodsAndDrinks = ReturnType<typeof foodOrDrink>
 
-const DRINKS = [...getSubcategory(foodOrDrink, "drink").list].sort((a, b) =>
-  a.name.localeCompare(b.name)
-)
+function byName(held: FoodsAndDrinks, kind: "food" | "drink"): FoodOrDrinkSource[] {
+  return [...getSubcategory(held, kind).list].sort((a, b) => a.name.localeCompare(b.name))
+}
 
 function sortEffects(effects: readonly string[]): readonly string[] {
   return effects.toSorted((a, b) => {
@@ -47,7 +46,8 @@ function sortEffects(effects: readonly string[]): readonly string[] {
 }
 
 export function getFoodDrinkById(id: FoodOrDrinkId): FoodOrDrinkSource | undefined {
-  return foodOrDrink.has(id) ? foodOrDrink.data[id] : undefined
+  const held = foodOrDrink()
+  return held.has(id) ? held.data[id] : undefined
 }
 
 export function FoodDrinkSelectDialog({
@@ -56,20 +56,17 @@ export function FoodDrinkSelectDialog({
   selectedFoodDrinkId,
   onSelect,
 }: FoodDrinkSelectDialogProps) {
+  const held = foodOrDrink()
   const config: FilterableSelectDialogConfig<FoodOrDrinkSource> = useMemo(
     () => ({
       title: "Select Food / Drink",
       searchPlaceholder: "Search food and drinks...",
       emptyMessage: "No food or drinks found.",
       categories: [
-        { id: "food", label: "Food", items: FOODS },
-        { id: "drink", label: "Drink", items: DRINKS },
+        { id: "food", label: "Food", items: byName(held, "food") },
+        { id: "drink", label: "Drink", items: byName(held, "drink") },
       ],
-      allItems: [
-        foodOrDrink.data["no-food-or-drink"],
-        ...getSubcategory(foodOrDrink, "food").list,
-        ...getSubcategory(foodOrDrink, "drink").list,
-      ],
+      allItems: [...held.list],
       sortEffects,
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
@@ -84,7 +81,7 @@ export function FoodDrinkSelectDialog({
         ) : null
       },
     }),
-    []
+    [held]
   )
 
   const handleSelect = (itemId: FoodOrDrinkId) => {
@@ -97,7 +94,7 @@ export function FoodDrinkSelectDialog({
       onOpenChange={onOpenChange}
       selectedItemId={selectedFoodDrinkId}
       onSelect={handleSelect}
-      defaultItem={foodOrDrink.data["no-food-or-drink"]}
+      defaultItem={foodOrDrinkAt("no-food-or-drink")}
       config={config}
     />
   )

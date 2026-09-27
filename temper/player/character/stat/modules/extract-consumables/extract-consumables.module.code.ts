@@ -7,7 +7,7 @@ export const extractConsumables: PipelineStage = (build, _context) => {
   const sources = []
 
   const consumableSource = lookupSourceUnlessSentinel(
-    foodOrDrink,
+    foodOrDrink(),
     build.consumables.foodOrDrink,
     "no-food-or-drink"
   )

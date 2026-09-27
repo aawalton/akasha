@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const foodSource = {
-  id: "01a060ea-ac64-70ea-b9fd-ddd3a753f84b",
-  type: "page-type/module",
-  slug: "food-source",
-  definition: "every food a character eats, with the stats each one raises",
-  code: "ts",
-} as const satisfies Module

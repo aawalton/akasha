@@ -18,6 +18,10 @@ import {
   holdEsoPlus,
 } from "akasha/temper/player/character/source/modules/eso-plus-source/eso-plus-source.module.code.ts"
 import {
+  foodOrDrinkOf,
+  holdFoodOrDrink,
+} from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
+import {
   holdMundus,
   mundusOf,
 } from "akasha/temper/player/character/source/modules/mundus-source/mundus-source.module.code.ts"
@@ -27,6 +31,7 @@ import {
 } from "akasha/temper/player/character/source/modules/vampire-stages/vampire-stages.module.code.ts"
 import { temperAttribute } from "akasha/temper/player/character/source/temper-attribute/temper-attribute.page-type.ts"
 import { temperEsoPlus } from "akasha/temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts"
+import { temperFoodOrDrink } from "akasha/temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts"
 import { temperMundusStone } from "akasha/temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
@@ -55,6 +60,20 @@ const MUNDUS_FIELDS: readonly string[] = [
   "hashPlace",
 ]
 
+const FOOD_OR_DRINK_FIELDS: readonly string[] = [
+  "slug",
+  "title",
+  "description",
+  "icon",
+  "foodOrDrinkKind",
+  "itemId",
+  "abilityId",
+  "seconds",
+  "level",
+  "effects",
+  "hashPlace",
+]
+
 export const CHARACTER_SOURCE_READS: readonly Read[] = [
   [temperEsoPlus.slug, ESO_PLUS_FIELDS],
   [temperMundusStone.slug, MUNDUS_FIELDS],
@@ -62,6 +81,7 @@ export const CHARACTER_SOURCE_READS: readonly Read[] = [
   [temperCurse.slug, ["slug", "key", "title", "esoCurseIds", "hashPlace"]],
   [temperVampireStage.slug, VAMPIRE_STAGE_FIELDS],
   [temperAttribute.slug, ["slug", "title", "metric", "value"]],
+  [temperFoodOrDrink.slug, FOOD_OR_DRINK_FIELDS],
 ]
 
 export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undefined {
@@ -71,4 +91,5 @@ export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<
   holdCurses(cursesOf(rowsOf(temperCurse.slug)))
   holdVampireStages(vampireStagesOf(rowsOf(temperVampireStage.slug)))
   holdAttributes(attributesOf(rowsOf(temperAttribute.slug)))
+  holdFoodOrDrink(foodOrDrinkOf(rowsOf(temperFoodOrDrink.slug)))
 }

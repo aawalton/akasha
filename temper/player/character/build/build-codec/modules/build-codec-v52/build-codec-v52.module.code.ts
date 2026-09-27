@@ -5,7 +5,7 @@ import {
   CLASS_BITS,
   curseBits,
   esoPlusBits,
-  FOOD_OR_DRINK_BITS,
+  foodOrDrinkBits,
   focusScriptBits,
   grimoireBits,
   getAffixScriptId,
@@ -160,7 +160,7 @@ function encodeCharacter(writer: BitWriterState, build: CharacterState): undefin
 
 function encodeConsumables(writer: BitWriterState, build: CharacterState): undefined {
   const consumables = build.consumables
-  writeBits(writer, getFoodOrDrinkIndex(consumables.foodOrDrink), FOOD_OR_DRINK_BITS)
+  writeBits(writer, getFoodOrDrinkIndex(consumables.foodOrDrink), foodOrDrinkBits())
   writeBits(writer, getPotionIndex(consumables.potion), POTION_BITS)
   writeBits(writer, getPotionIndex(consumables.potion2), POTION_BITS)
 }
@@ -282,7 +282,7 @@ function decodeConsumables(
   reader: BitReaderState,
   minorVersion: number
 ): CharacterState["consumables"] {
-  const foodOrDrink = getFoodOrDrinkId(readBits(reader, FOOD_OR_DRINK_BITS))
+  const foodOrDrink = getFoodOrDrinkId(readBits(reader, foodOrDrinkBits()))
   const potion = getPotionId(readBits(reader, POTION_BITS))
   const potion2 = minorVersion >= 7 ? getPotionId(readBits(reader, POTION_BITS)) : "no-potion"
 

@@ -1,8 +1,7 @@
 {"propertySlug":"import","fileName":"food-or-drink-source.module.code.ts","path":"temper/items/rules/matcher/modules/rule-matcher-context-knowledge/rule-matcher-context-knowledge.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"food-or-drink-source.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-indices/build-codec-indices.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"food-or-drink-source.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"food-or-drink-source.module.code.ts","path":"temper/player/character/source/modules/drink-source/drink-source.module.code.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"food-or-drink-source.module.code.ts","path":"temper/player/character/source/modules/food-source/food-source.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"food-or-drink-source.module.code.ts","path":"temper/player/character/source/modules/character-source-reading/character-source-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"food-or-drink-source.module.code.ts","path":"temper/player/character/stat/modules/extract-consumables/extract-consumables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"food-or-drink-source.module.code.ts","path":"temper/web/modules/consumables-panel-card/consumables-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"food-or-drink-source.module.code.ts","path":"temper/web/modules/food-drink-select-dialog/food-drink-select-dialog.module.code.tsx","typed":false,"deferred":false}

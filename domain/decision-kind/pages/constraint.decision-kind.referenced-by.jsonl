@@ -1200,7 +1200,6 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/modules/skill-point-finder-saved-state/skill-point-finder-saved-state.module.ts","id":"01a060ec-5841-70ce-a022-116830ebd04a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/temper-character-skill.domain.ts","id":"01a0617a-2c72-7654-ad18-45a07d7e27ca"}
-{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.ts","id":"01a060ea-ac63-7f87-bbe2-20c3ae760481"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts","id":"01a0df64-1044-741d-8fad-c665ba1d8093"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts","id":"01a0df76-1665-75ef-8534-195cf1c4fa76"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","id":"01a0df69-bdeb-70c4-a287-ed88cc239a92"}

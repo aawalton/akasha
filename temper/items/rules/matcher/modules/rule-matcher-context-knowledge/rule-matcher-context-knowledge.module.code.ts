@@ -11,7 +11,10 @@ import { decodeBuild } from "akasha/temper/player/character/build/build-codec/mo
 import type { AutomationSettings } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { resolveCharacterToggles } from "akasha/temper/player/character/build/build-support/modules/automation-settings/automation-settings.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { foodOrDrink } from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
+import {
+  foodOrDrink,
+  foodOrDrinkAt,
+} from "akasha/temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts"
 import { isNamedShape } from "akasha/temper/player/completion/temper-player-completion/modules/completion-named-shape/completion-named-shape.module.code.ts"
 
 type ExhaustiveRecipeList = { name: string; recipes: Record<string, { known: boolean }> }
@@ -194,8 +197,8 @@ export function compileWantedConsumables(
 
     if (charToggles.food) {
       const foodOrDrinkId = decoded.consumables.foodOrDrink
-      if (foodOrDrinkId && foodOrDrink.has(foodOrDrinkId)) {
-        const template = foodOrDrink.data[foodOrDrinkId]
+      if (foodOrDrinkId && foodOrDrink().has(foodOrDrinkId)) {
+        const template = foodOrDrinkAt(foodOrDrinkId)
         if (template.itemId > 0) {
           let charIds = result.get(template.itemId)
           if (!charIds) {
