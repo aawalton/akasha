@@ -26,4 +26,5 @@ export const theDatingGame00011 = {
     "She lets the words sit a moment, making sure he heard them.",
     "Then she turns, his hand still in hers, and draws him on up the trail beside her.",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
