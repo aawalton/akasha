@@ -41,8 +41,10 @@ import { RuleCardDestinationChain } from "akasha/temper/web/player-inventory-man
 import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import { StockScopeSelect } from "akasha/temper/web/player-inventory-management-ui/modules/stock-scope-select/stock-scope-select.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
+import { buyShortfall } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/buy-shortfall.temper-rule-card-phrase.ts"
 import { mailRecipientLabel } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/mail-recipient-label.temper-rule-card-phrase.ts"
 import { mailRecipientPlaceholder } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/mail-recipient-placeholder.temper-rule-card-phrase.ts"
+import { toggleBuyShortfall } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/toggle-buy-shortfall.temper-rule-card-phrase.ts"
 import { ChevronRight } from "lucide-react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
@@ -63,6 +65,7 @@ interface RuleCardActionRowProps {
   }) => void
   handleDestinationChainChange: (next: DestinationChain | undefined) => void
   handleToggleDestinationChain: (useChain: boolean) => void
+  handleBuyShortfallChange: (buyShortfall: boolean) => void
   handleMailRecipientChange: (handle: string) => void
 }
 
@@ -80,9 +83,11 @@ export function RuleCardActionRow({
   handleStockScopeChange,
   handleDestinationChainChange,
   handleToggleDestinationChain,
+  handleBuyShortfallChange,
   handleMailRecipientChange,
 }: RuleCardActionRowProps) {
   const useChain = rule.destinationChain !== undefined && rule.destinationChain.length > 0
+  const buying = rule.buyShortfall === true
   const currencyActionOptions = ACTION_OPTIONS.filter(
     (opt) => opt.value === "nothing" || opt.value === "move-to" || opt.value === "stock"
   )
@@ -188,6 +193,17 @@ export function RuleCardActionRow({
             )}
           >
             {titleIn(phrases, useChain ? "single-destination" : "cascading-destinations")}
+          </ButtonBadge>
+        )}
+
+        {!isCurrency && rule.action === "stock" && (
+          <ButtonBadge
+            variant={buying ? "accent" : "elevation-muted"}
+            onClick={() => handleBuyShortfallChange(!buying)}
+            aria-pressed={buying}
+            aria-label={titleIn(phrases, toggleBuyShortfall.key)}
+          >
+            {titleIn(phrases, buyShortfall.key)}
           </ButtonBadge>
         )}
 

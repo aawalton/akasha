@@ -53,6 +53,7 @@ export interface InventoryRulesHandlers {
         | "conditions"
         | "destination"
         | "stockScope"
+        | "buyShortfall"
         | "destinationChain"
         | "active"
         | "goal"
