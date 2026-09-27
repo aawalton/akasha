@@ -7,7 +7,7 @@ import {
   facesFrom,
 } from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
 
-export type Throw = { readonly dice: Dice; readonly roll: Rolled }
+type Throw = { readonly dice: Dice; readonly roll: Rolled }
 
 type Thrown = { readonly answered: Throw } | { readonly refused: string }
 
