@@ -17,7 +17,10 @@ import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.m
 import { expandDateMentions } from "akasha/page/core/view/modules/expand-date-mentions/expand-date-mentions.module.code.ts"
 import { slugOf } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { DegradingImage } from "akasha/page/ui/component/modules/degrading-image/degrading-image.module.code.tsx"
-import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
+import {
+  coverSource,
+  pageCover,
+} from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { PageDetailHeaderMenu } from "akasha/page/ui/component/modules/page-detail-header-menu/page-detail-header-menu.module.code.tsx"
 import { PagesFilteredContent } from "akasha/page/ui/component/modules/pages-by-relation-content/pages-by-relation-content.module.code.tsx"
@@ -85,7 +88,7 @@ export function PageCollectionContent({
   const header = detailConfig?.header
   const childCollection = detailConfig?.childCollection
 
-  const coverUrl = coverSource(data.cover)
+  const coverUrl = coverSource(pageCover(pageTypeSlug, data))
   const showCover = header?.showCover !== false
   const headerFields = (header?.fields ?? [])
     .map((fid) => propertyDefinitions.find((d) => d.id === fid))

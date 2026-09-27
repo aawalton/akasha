@@ -9,7 +9,10 @@ import {
 } from "akasha/page/core/view/modules/gallery/gallery.module.code.ts"
 import { PageCard } from "akasha/page/ui/component/modules/page-card/page-card.module.code.tsx"
 import { PageCardNotes } from "akasha/page/ui/component/modules/page-card-notes/page-card-notes.module.code.tsx"
-import { coverSource } from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
+import {
+  coverSource,
+  ownCover,
+} from "akasha/page/ui/component/modules/page-cover/page-cover.module.code.tsx"
 import { pageRowToPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import {
   buildRelationBackLinkHref,
@@ -18,8 +21,6 @@ import {
 } from "akasha/page/ui/component/modules/view-tab-content-href/view-tab-content-href.module.code.ts"
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-
-const IMAGE_PAGE_TYPE = "image"
 
 interface PageCardRendererProps {
   page: PageRow
@@ -70,11 +71,12 @@ export function PageCardRenderer({
   const completion = rowPageTypeSlug == null ? null : completionShapeOf(rowPageTypeSlug)
   const viewRowHref = buildRowHref(rowPageTypeSlug, page)
   const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(page._id)
+  const ownPicture = ownCover(rowPageTypeSlug, page.slug)
   const coverUrl =
     galleryCardSize == null
       ? null
-      : rowPageTypeSlug === IMAGE_PAGE_TYPE && typeof page.slug === "string"
-        ? coverSource(`image/${page.slug}`)
+      : ownPicture != null
+        ? coverSource(ownPicture)
         : galleryCoverSourceId != null
           ? (coverSource(page[galleryCoverSourceId]) ??
             resolveGalleryCoverUrl(page[galleryCoverSourceId]))

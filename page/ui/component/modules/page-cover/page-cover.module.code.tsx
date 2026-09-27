@@ -7,6 +7,19 @@ import { DegradingImage } from "akasha/page/ui/component/modules/degrading-image
 import { ImagePlus } from "lucide-react"
 
 const IMAGE_OPENS = "image/"
+const IMAGE_PAGE_TYPE = "image"
+
+export function ownCover(pageTypeSlug: string | undefined, slug: unknown): string | null {
+  if (pageTypeSlug !== IMAGE_PAGE_TYPE || typeof slug !== "string" || slug.length === 0) return null
+  return `${IMAGE_OPENS}${slug}`
+}
+
+export function pageCover(
+  pageTypeSlug: string | undefined,
+  page: Readonly<Record<string, unknown>>
+): unknown {
+  return ownCover(pageTypeSlug, page.slug) ?? page.cover
+}
 
 export function coverSource(cover: unknown, width?: number): string | null {
   if (typeof cover !== "string" || !cover.startsWith(IMAGE_OPENS)) return null
