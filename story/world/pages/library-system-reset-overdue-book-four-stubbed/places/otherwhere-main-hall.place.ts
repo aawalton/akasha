@@ -115,6 +115,10 @@ export const otherwhereMainHall = {
       fact: "Links hands a newcomer a broom as her first weapon against the bookworms.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Bookworms are grey worms a few inches long with rings of color at each end, and cute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
