@@ -151,6 +151,10 @@ export const otherwhereCoreChamber = {
       fact: "The trunk's surface is smooth, hard as stone, and warm like skin lying in the sun.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Syncing floods the Librarian with visions of the universe and burns through the veins with pain.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
