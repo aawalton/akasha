@@ -59,14 +59,21 @@ type Reading = {
   took: number
 }
 
+const IDLE_MS = 2_000
+
 let reading: Reading | null = null
+
+let idle: ReturnType<typeof setTimeout> | null = null
 
 const going = new Set<() => Promise<unknown>>()
 
 export function readingEnded(): undefined {
+  if (idle !== null) clearTimeout(idle)
+  idle = null
   const held = reading
   reading = null
   if (held === null) return
+  process.off("exit", readingEnded)
   held.ended()
   going.add(held.gone)
   rmSync(held.dir, { recursive: true, force: true })
@@ -78,8 +85,6 @@ export async function readingGone(): Promise<undefined> {
   going.clear()
   await Promise.all(waiting.map((one) => one()))
 }
-
-process.on("exit", readingEnded)
 
 function readerOn(root: string): Reading {
   const dir = mkdtempSync(join(SCRATCH_AT, CAT_FILE))
@@ -132,9 +137,15 @@ function readerOn(root: string): Reading {
 }
 
 function readingIn(root: string): Reading {
-  if (reading !== null && reading.root === root && reading.took < READ_AT_MOST) return reading
-  readingEnded()
-  reading = readerOn(root)
+  if (reading === null || reading.root !== root || reading.took >= READ_AT_MOST) {
+    readingEnded()
+    reading = readerOn(root)
+    process.on("exit", readingEnded)
+  }
+  if (idle === null) {
+    idle = setTimeout(readingEnded, IDLE_MS)
+    idle.unref()
+  } else idle.refresh()
   return reading
 }
 

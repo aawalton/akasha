@@ -71,6 +71,18 @@ export const commitReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A reader asked nothing for two seconds is ended.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The process is listened to for its exit only while a reader is open.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A copy of this module loaded again is kept for as long as its reader is open.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller may wait until every reader ended has exited.",
     },
     {

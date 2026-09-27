@@ -88,6 +88,15 @@ test("a reader waited out has exited once the wait ends, as has one ended before
   expect(gitOver(root)).toEqual([])
 })
 
+test("the exit is listened to only while a reader is open, and a reader left idle ends", async () => {
+  const root = repoWith({ "one.txt": "a" })
+  const before = process.listenerCount("exit")
+  expect(bodyAt(root, baseOf(root), "one.txt")).not.toBeNull()
+  expect(process.listenerCount("exit")).toBe(before + 1)
+  expect(await until(() => gitOver(root).length === 0)).toBe(true)
+  expect(process.listenerCount("exit")).toBe(before)
+}, 15_000)
+
 test("a second commit is read by the same reader, each base asked after once", () => {
   const root = repoWith({ "one.txt": "a" })
   const was = baseOf(root)
