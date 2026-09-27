@@ -27,7 +27,9 @@ import type {
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { titleOf } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { temperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { InventoryLocationSummaryPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.code.tsx"
 import {
@@ -78,6 +80,9 @@ export function InventoryByLocationTab({
     [inventory, locations]
   )
 
+  const skillCatalogRead = heldSkillCatalog()
+  const companionCatalogRead = useHeldCompanionCatalog()
+
   const filteredSummary = useMemo(() => {
     if (search === "" && qualities.length === 0 && traits.length === 0) return summary
     const filteredGroups = filterInventoryGroups(summary.groups, search, qualities, traits)
@@ -99,7 +104,7 @@ export function InventoryByLocationTab({
       totalValue: hasAnyValue ? totalValue : undefined,
       groups: filteredGroups,
     }
-  }, [summary, search, qualities, traits])
+  }, [summary, search, qualities, traits, skillCatalogRead, companionCatalogRead])
 
   const cards = useMemo(() => {
     const typeMap = new Map<LocationTypeId, InventoryLocationGroup[]>()

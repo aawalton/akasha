@@ -20,6 +20,8 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-type-data-content/inventory-type-data-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/inventory/buy-rule/create/temper-inventory-buy-rule-create.command.test.ts","typed":false,"deferred":false}

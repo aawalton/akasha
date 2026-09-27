@@ -6207,8 +6207,10 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.ts","id":"01a0636c-5d96-799f-a4a3-b169e3670004"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.ts","id":"01a0636c-5d97-76ed-b991-13a9b7f8000d"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.ts","id":"01a0636c-5d9a-7374-a500-82c80d66000f"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.ts","id":"01a0636c-5d9b-7397-9dc8-d288cffe001a"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-unread/inventory-rules-unread.module.ts","id":"01a0976a-31b2-7c40-9f5e-6b0d4a2e77c1"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-type-data-content/inventory-type-data-content.module.ts","id":"01a0636c-5d9b-773e-817e-b2cee53c002e"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-type-panel-card/inventory-type-panel-card.module.ts","id":"01a0636c-5d9b-7777-87e1-6841b082002f"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/item-tooltip/item-tooltip.module.ts","id":"01a0636c-5d9b-72cf-8645-abd4e5160035"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-item-ids/rule-card-filter-chip-item-ids.module.ts","id":"01a0dece-5017-7174-a964-bbaa92cf078a"}

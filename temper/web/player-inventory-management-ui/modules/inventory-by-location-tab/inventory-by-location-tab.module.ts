@@ -6,4 +6,10 @@ export const inventoryByLocationTab = {
   slug: "inventory-by-location-tab",
   definition: "the tab breaking an inventory down by where its items sit",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A trait filter is applied again whenever the traits are read again.",
+    },
+  ],
 } as const satisfies Module

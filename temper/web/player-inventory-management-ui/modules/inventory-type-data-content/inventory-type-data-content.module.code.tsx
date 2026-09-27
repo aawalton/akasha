@@ -23,8 +23,10 @@ import {
   groupInventoryByType,
 } from "akasha/temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
+import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { temperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import {
@@ -131,6 +133,9 @@ export function InventoryTypeDataContent({
     [deferred.armorTraits, deferred.weaponTraits, deferred.jewelryTraits, deferred.companionTraits]
   )
 
+  const skillCatalogRead = heldSkillCatalog()
+  const companionCatalogRead = useHeldCompanionCatalog()
+
   const filteredTypeGroups = useMemo(() => {
     if (!typeSummary) return null
     if (deferred.search === "" && deferred.qualities.length === 0 && allTraits.length === 0)
@@ -141,7 +146,14 @@ export function InventoryTypeDataContent({
       deferred.qualities,
       allTraits
     )
-  }, [typeSummary, deferred.search, deferred.qualities, allTraits])
+  }, [
+    typeSummary,
+    deferred.search,
+    deferred.qualities,
+    allTraits,
+    skillCatalogRead,
+    companionCatalogRead,
+  ])
 
   const filteredTypeSummary = useMemo(() => {
     if (!typeSummary || !filteredTypeGroups) return null
