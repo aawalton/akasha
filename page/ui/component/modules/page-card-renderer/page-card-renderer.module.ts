@@ -11,5 +11,9 @@ export const pageCardRenderer = {
       decisionKind: "decision-kind/departure",
       statement: "A gallery card's picture may be an image page as well as an address.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A gallery card of an image page shows that image.",
+    },
   ],
 } as const satisfies Module

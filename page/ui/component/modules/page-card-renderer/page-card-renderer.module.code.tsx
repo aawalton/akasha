@@ -19,6 +19,8 @@ import {
 import type { PageRow } from "akasha/page/ui/component/view-engine/modules/view-row/view-row.module.code.ts"
 import type { PageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 
+const IMAGE_PAGE_TYPE = "image"
+
 interface PageCardRendererProps {
   page: PageRow
   properties: readonly PropertyDefinition[]
@@ -69,10 +71,14 @@ export function PageCardRenderer({
   const viewRowHref = buildRowHref(rowPageTypeSlug, page)
   const rowHref = viewRowHref !== "" ? viewRowHref : pageHrefById(page._id)
   const coverUrl =
-    galleryCardSize != null && galleryCoverSourceId != null
-      ? (coverSource(page[galleryCoverSourceId]) ??
-        resolveGalleryCoverUrl(page[galleryCoverSourceId]))
-      : null
+    galleryCardSize == null
+      ? null
+      : rowPageTypeSlug === IMAGE_PAGE_TYPE && typeof page.slug === "string"
+        ? coverSource(`image/${page.slug}`)
+        : galleryCoverSourceId != null
+          ? (coverSource(page[galleryCoverSourceId]) ??
+            resolveGalleryCoverUrl(page[galleryCoverSourceId]))
+          : null
   const { _id: id, ...rest } = page
   const pageData = pageRowToPageDataJSON(rest)
   const notesSlot =
