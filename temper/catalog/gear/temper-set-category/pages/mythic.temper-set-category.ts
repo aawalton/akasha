@@ -7,4 +7,5 @@ export const mythic = {
   title: "Mythic",
   key: "mythic",
   displayOrder: 7,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperSetCategory

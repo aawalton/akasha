@@ -7,4 +7,5 @@ export const characterImperialCity = {
   title: "Imperial City",
   category: "character",
   displayOrder: 19,
+  activity: "temper-activity-category/pvp",
 } as const satisfies TemperAchievementCategory

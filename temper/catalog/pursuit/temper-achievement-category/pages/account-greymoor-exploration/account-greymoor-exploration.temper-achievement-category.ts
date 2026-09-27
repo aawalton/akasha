@@ -9,4 +9,5 @@ export const accountGreymoorExploration = {
   displayOrder: 2,
   parent: "temper-achievement-category/account-greymoor",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

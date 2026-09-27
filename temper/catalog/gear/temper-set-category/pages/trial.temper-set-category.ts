@@ -7,4 +7,5 @@ export const trial = {
   title: "Trial",
   key: "trial",
   displayOrder: 1,
+  activity: "temper-activity-category/trials",
 } as const satisfies TemperSetCategory

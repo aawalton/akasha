@@ -9,4 +9,5 @@ export const accountFiresongQuests = {
   displayOrder: 2,
   parent: "temper-achievement-category/account-firesong",
   achievements: "jsonl",
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

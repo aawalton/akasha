@@ -9,4 +9,5 @@ export const accountTrialsAsylumSanctorium = {
   displayOrder: 2,
   parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
+  activity: "temper-activity-category/trials",
 } as const satisfies TemperAchievementCategory

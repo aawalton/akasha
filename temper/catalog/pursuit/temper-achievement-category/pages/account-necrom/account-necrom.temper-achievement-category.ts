@@ -7,4 +7,5 @@ export const accountNecrom = {
   title: "Necrom",
   category: "account",
   displayOrder: 16,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

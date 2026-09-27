@@ -7,4 +7,5 @@ export const characterMorrowind = {
   title: "Morrowind",
   category: "character",
   displayOrder: 12,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

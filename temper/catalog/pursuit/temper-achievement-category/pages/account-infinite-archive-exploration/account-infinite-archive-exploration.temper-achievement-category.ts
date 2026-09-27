@@ -9,4 +9,5 @@ export const accountInfiniteArchiveExploration = {
   displayOrder: 2,
   parent: "temper-achievement-category/account-infinite-archive",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

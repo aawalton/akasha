@@ -7,4 +7,5 @@ export const accountDungeons = {
   title: "Dungeons",
   category: "account",
   displayOrder: 4,
+  activity: "temper-activity-category/group-dungeons",
 } as const satisfies TemperAchievementCategory

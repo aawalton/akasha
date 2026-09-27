@@ -7,4 +7,5 @@ export const pvp = {
   title: "PVP",
   key: "pvp",
   displayOrder: 8,
+  activity: "temper-activity-category/pvp",
 } as const satisfies TemperSetCategory

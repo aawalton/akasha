@@ -9,4 +9,5 @@ export const accountHighIsleCompanions = {
   displayOrder: 4,
   parent: "temper-achievement-category/account-high-isle",
   achievements: "jsonl",
+  activity: "temper-activity-category/companions",
 } as const satisfies TemperAchievementCategory

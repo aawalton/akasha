@@ -7,4 +7,5 @@ export const accountHighIsle = {
   title: "High Isle",
   category: "account",
   displayOrder: 17,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

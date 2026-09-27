@@ -7,4 +7,5 @@ export const dungeon = {
   title: "Dungeon",
   key: "dungeon",
   displayOrder: 2,
+  activity: "temper-activity-category/group-dungeons",
 } as const satisfies TemperSetCategory

@@ -7,4 +7,5 @@ export const characterGoldRoad = {
   title: "Gold Road",
   category: "character",
   displayOrder: 5,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

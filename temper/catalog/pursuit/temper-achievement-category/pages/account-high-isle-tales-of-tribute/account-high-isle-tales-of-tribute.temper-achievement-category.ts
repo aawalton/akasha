@@ -9,4 +9,5 @@ export const accountHighIsleTalesOfTribute = {
   displayOrder: 1,
   parent: "temper-achievement-category/account-high-isle",
   achievements: "jsonl",
+  activity: "temper-activity-category/other",
 } as const satisfies TemperAchievementCategory

@@ -9,4 +9,5 @@ export const accountOrsiniumExploration = {
   displayOrder: 1,
   parent: "temper-achievement-category/account-orsinium",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

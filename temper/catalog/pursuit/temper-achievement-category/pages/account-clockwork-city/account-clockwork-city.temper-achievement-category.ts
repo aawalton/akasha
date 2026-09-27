@@ -7,4 +7,5 @@ export const accountClockworkCity = {
   title: "Clockwork City",
   category: "account",
   displayOrder: 28,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

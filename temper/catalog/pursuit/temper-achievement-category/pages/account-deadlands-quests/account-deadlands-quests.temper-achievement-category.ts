@@ -9,4 +9,5 @@ export const accountDeadlandsQuests = {
   displayOrder: 3,
   parent: "temper-achievement-category/account-deadlands",
   achievements: "jsonl",
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

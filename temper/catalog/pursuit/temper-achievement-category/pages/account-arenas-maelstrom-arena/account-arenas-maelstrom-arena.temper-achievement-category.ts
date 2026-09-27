@@ -9,4 +9,5 @@ export const accountArenasMaelstromArena = {
   displayOrder: 2,
   parent: "temper-achievement-category/account-arenas",
   achievements: "jsonl",
+  activity: "temper-activity-category/arenas",
 } as const satisfies TemperAchievementCategory

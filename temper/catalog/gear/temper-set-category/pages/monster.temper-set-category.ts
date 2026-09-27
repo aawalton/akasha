@@ -7,4 +7,5 @@ export const monster = {
   title: "Monster",
   key: "monster",
   displayOrder: 6,
+  activity: "temper-activity-category/group-dungeons",
 } as const satisfies TemperSetCategory

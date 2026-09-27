@@ -7,4 +7,5 @@ export const characterClockworkCity = {
   title: "Clockwork City",
   category: "character",
   displayOrder: 15,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

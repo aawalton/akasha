@@ -9,4 +9,5 @@ export const accountThievesGuildExploration = {
   displayOrder: 1,
   parent: "temper-achievement-category/account-thieves-guild",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

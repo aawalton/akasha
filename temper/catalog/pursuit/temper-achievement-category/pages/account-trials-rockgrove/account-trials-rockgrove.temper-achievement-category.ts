@@ -9,4 +9,5 @@ export const accountTrialsRockgrove = {
   displayOrder: 11,
   parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
+  activity: "temper-activity-category/trials",
 } as const satisfies TemperAchievementCategory

@@ -9,4 +9,5 @@ export const accountSummersetQuests = {
   displayOrder: 2,
   parent: "temper-achievement-category/account-summerset",
   achievements: "jsonl",
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

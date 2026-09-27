@@ -7,4 +7,5 @@ export const accountHolidayEvents = {
   title: "Holiday Events",
   category: "account",
   displayOrder: 13,
+  activity: "temper-activity-category/events",
 } as const satisfies TemperAchievementCategory

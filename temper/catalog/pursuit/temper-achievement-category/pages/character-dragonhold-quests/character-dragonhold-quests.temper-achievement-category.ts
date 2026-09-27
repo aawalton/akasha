@@ -9,4 +9,5 @@ export const characterDragonholdQuests = {
   displayOrder: 1,
   parent: "temper-achievement-category/character-dragonhold",
   achievements: "jsonl",
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

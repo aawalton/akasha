@@ -7,4 +7,5 @@ export const accountInfiniteArchive = {
   title: "Infinite Archive",
   category: "account",
   displayOrder: 11,
+  activity: "temper-activity-category/arenas",
 } as const satisfies TemperAchievementCategory

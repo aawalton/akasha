@@ -9,4 +9,5 @@ export const accountCharacterJustice = {
   displayOrder: 3,
   parent: "temper-achievement-category/account-character",
   achievements: "jsonl",
+  activity: "temper-activity-category/other",
 } as const satisfies TemperAchievementCategory

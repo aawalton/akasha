@@ -17,6 +17,7 @@ export const temperAchievementCategory = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "page-property-entry/achievements", required: false, many: false },
     { pageProperty: "relation-property/achievement-category-parent", required: false, many: false },
+    { pageProperty: "relation-property/activity-category", required: false, many: false },
   ],
   decisions: [
     {

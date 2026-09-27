@@ -7,4 +7,5 @@ export const accountDragonhold = {
   title: "Dragonhold",
   category: "account",
   displayOrder: 26,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

@@ -9,4 +9,5 @@ export const accountExplorationPublicDungeons = {
   displayOrder: 9,
   parent: "temper-achievement-category/account-exploration",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

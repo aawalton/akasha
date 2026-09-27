@@ -7,4 +7,5 @@ export const characterSummerset = {
   title: "Summerset",
   category: "character",
   displayOrder: 11,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

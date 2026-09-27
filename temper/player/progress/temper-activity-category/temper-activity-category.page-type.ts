@@ -6,7 +6,7 @@ export const temperActivityCategory = {
   slug: "temper-activity-category",
   definition: "a sort of thing there is to do in the game",
   extends: ["page-type/temper-progress-thing"],
-  parts: ["text-property/badge-variant"],
+  parts: ["relation-property/activity-category", "text-property/badge-variant"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/badge-variant", required: true, many: false },

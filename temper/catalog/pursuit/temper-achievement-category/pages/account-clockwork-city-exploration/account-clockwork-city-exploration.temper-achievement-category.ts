@@ -9,4 +9,5 @@ export const accountClockworkCityExploration = {
   displayOrder: 1,
   parent: "temper-achievement-category/account-clockwork-city",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

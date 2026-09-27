@@ -7,4 +7,5 @@ export const overland = {
   title: "Overland",
   key: "overland",
   displayOrder: 4,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperSetCategory

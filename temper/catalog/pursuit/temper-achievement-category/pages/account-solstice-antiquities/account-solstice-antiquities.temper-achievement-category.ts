@@ -9,4 +9,5 @@ export const accountSolsticeAntiquities = {
   displayOrder: 1,
   parent: "temper-achievement-category/account-solstice",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

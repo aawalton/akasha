@@ -9,4 +9,5 @@ export const accountMarkarthAntiquities = {
   displayOrder: 4,
   parent: "temper-achievement-category/account-markarth",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

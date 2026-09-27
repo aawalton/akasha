@@ -7,4 +7,5 @@ export const characterMurkmire = {
   title: "Murkmire",
   category: "character",
   displayOrder: 14,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

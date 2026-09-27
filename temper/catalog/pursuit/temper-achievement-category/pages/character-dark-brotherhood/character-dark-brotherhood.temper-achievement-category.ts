@@ -7,4 +7,5 @@ export const characterDarkBrotherhood = {
   title: "Dark Brotherhood",
   category: "character",
   displayOrder: 16,
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

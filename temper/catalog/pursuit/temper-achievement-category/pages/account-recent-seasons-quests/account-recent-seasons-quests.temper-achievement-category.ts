@@ -9,4 +9,5 @@ export const accountRecentSeasonsQuests = {
   displayOrder: 3,
   parent: "temper-achievement-category/account-recent-seasons",
   achievements: "jsonl",
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

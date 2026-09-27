@@ -7,4 +7,5 @@ export const characterOrsinium = {
   title: "Orsinium",
   category: "character",
   displayOrder: 18,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

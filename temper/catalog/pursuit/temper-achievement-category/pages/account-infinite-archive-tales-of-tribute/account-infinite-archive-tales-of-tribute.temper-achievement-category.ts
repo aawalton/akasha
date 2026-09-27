@@ -9,4 +9,5 @@ export const accountInfiniteArchiveTalesOfTribute = {
   displayOrder: 1,
   parent: "temper-achievement-category/account-infinite-archive",
   achievements: "jsonl",
+  activity: "temper-activity-category/other",
 } as const satisfies TemperAchievementCategory

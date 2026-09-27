@@ -7,4 +7,5 @@ export const accountMarkarth = {
   title: "Markarth",
   category: "account",
   displayOrder: 25,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

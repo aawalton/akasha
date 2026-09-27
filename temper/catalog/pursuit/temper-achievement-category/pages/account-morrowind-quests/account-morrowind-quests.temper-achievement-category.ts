@@ -9,4 +9,5 @@ export const accountMorrowindQuests = {
   displayOrder: 2,
   parent: "temper-achievement-category/account-morrowind",
   achievements: "jsonl",
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

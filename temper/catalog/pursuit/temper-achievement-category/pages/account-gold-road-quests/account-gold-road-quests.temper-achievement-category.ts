@@ -9,4 +9,5 @@ export const accountGoldRoadQuests = {
   displayOrder: 5,
   parent: "temper-achievement-category/account-gold-road",
   achievements: "jsonl",
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

@@ -7,4 +7,5 @@ export const characterCrafting = {
   title: "Crafting",
   category: "character",
   displayOrder: 0,
+  activity: "temper-activity-category/crafting",
 } as const satisfies TemperAchievementCategory

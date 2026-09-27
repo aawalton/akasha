@@ -7,4 +7,5 @@ export const characterElsweyr = {
   title: "Elsweyr",
   category: "character",
   displayOrder: 10,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

@@ -7,4 +7,5 @@ export const crafted = {
   title: "Crafted",
   key: "crafted",
   displayOrder: 5,
+  activity: "temper-activity-category/crafting",
 } as const satisfies TemperSetCategory

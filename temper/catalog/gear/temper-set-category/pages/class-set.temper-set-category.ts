@@ -7,4 +7,5 @@ export const classSet = {
   title: "Class",
   key: "class",
   displayOrder: 9,
+  activity: "temper-activity-category/characters",
 } as const satisfies TemperSetCategory

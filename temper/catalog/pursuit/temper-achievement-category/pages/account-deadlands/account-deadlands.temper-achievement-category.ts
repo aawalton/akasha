@@ -7,4 +7,5 @@ export const accountDeadlands = {
   title: "Deadlands",
   category: "account",
   displayOrder: 24,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

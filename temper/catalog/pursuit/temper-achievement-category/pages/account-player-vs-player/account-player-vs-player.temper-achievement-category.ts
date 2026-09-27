@@ -7,4 +7,5 @@ export const accountPlayerVsPlayer = {
   title: "Player VS Player",
   category: "account",
   displayOrder: 2,
+  activity: "temper-activity-category/pvp",
 } as const satisfies TemperAchievementCategory

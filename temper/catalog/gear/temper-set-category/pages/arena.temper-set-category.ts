@@ -7,4 +7,5 @@ export const arena = {
   title: "Arena",
   key: "arena",
   displayOrder: 3,
+  activity: "temper-activity-category/arenas",
 } as const satisfies TemperSetCategory

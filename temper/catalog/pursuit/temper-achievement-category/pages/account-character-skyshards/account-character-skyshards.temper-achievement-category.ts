@@ -9,4 +9,5 @@ export const accountCharacterSkyshards = {
   displayOrder: 4,
   parent: "temper-achievement-category/account-character",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

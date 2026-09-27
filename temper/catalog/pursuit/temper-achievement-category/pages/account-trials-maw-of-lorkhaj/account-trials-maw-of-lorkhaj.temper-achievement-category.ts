@@ -9,4 +9,5 @@ export const accountTrialsMawOfLorkhaj = {
   displayOrder: 9,
   parent: "temper-achievement-category/account-trials",
   achievements: "jsonl",
+  activity: "temper-activity-category/trials",
 } as const satisfies TemperAchievementCategory

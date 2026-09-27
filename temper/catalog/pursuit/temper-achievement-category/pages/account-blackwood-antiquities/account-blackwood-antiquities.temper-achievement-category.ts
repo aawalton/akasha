@@ -9,4 +9,5 @@ export const accountBlackwoodAntiquities = {
   displayOrder: 3,
   parent: "temper-achievement-category/account-blackwood",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

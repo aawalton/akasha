@@ -9,4 +9,5 @@ export const characterHighIsleExploration = {
   displayOrder: 0,
   parent: "temper-achievement-category/character-high-isle",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

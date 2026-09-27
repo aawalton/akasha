@@ -7,4 +7,5 @@ export const characterBlackwood = {
   title: "Blackwood",
   category: "character",
   displayOrder: 8,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

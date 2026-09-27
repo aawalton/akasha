@@ -6,4 +6,5 @@ export const housing = {
   slug: "housing",
   title: "Housing",
   esoCategoryIndex: 5,
+  activity: "temper-activity-category/housing",
 } as const satisfies TemperCollectibleCategory

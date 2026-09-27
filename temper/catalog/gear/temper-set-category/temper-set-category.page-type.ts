@@ -9,6 +9,7 @@ export const temperSetCategory = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
+    { pageProperty: "relation-property/activity-category", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

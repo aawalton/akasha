@@ -9,4 +9,5 @@ export const accountSolsticeQuests = {
   displayOrder: 4,
   parent: "temper-achievement-category/account-solstice",
   achievements: "jsonl",
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

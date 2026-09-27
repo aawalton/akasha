@@ -9,4 +9,5 @@ export const accountNecromBastionNymic = {
   displayOrder: 7,
   parent: "temper-achievement-category/account-necrom",
   achievements: "jsonl",
+  activity: "temper-activity-category/arenas",
 } as const satisfies TemperAchievementCategory

@@ -2,6 +2,7 @@
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-account","unique":null,"uniquePropertySlug":null,"slug":"account-page","propertySlug":"account-page","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-achievement-category","unique":null,"uniquePropertySlug":null,"slug":"achievement-category-parent","propertySlug":"parent","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-item-action","unique":null,"uniquePropertySlug":null,"slug":"action","propertySlug":"action","fileName":null,"folderName":null}
+{"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-activity-category","unique":null,"uniquePropertySlug":null,"slug":"activity-category","propertySlug":"activity","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"seat","unique":null,"uniquePropertySlug":null,"slug":"agent-message-to","propertySlug":"to","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"world-character","unique":null,"uniquePropertySlug":null,"slug":"alias-of","propertySlug":"alias-of","fileName":null,"folderName":null}
 {"pageTypeSlug":"relation-property","targetPageTypeSlug":"temper-alliance","unique":null,"uniquePropertySlug":null,"slug":"alliance","propertySlug":"alliance","fileName":null,"folderName":null}

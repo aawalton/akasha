@@ -9,4 +9,5 @@ export const accountMurkmireExploration = {
   displayOrder: 1,
   parent: "temper-achievement-category/account-murkmire",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

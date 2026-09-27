@@ -9,4 +9,5 @@ export const accountElsweyrExploration = {
   displayOrder: 2,
   parent: "temper-achievement-category/account-elsweyr",
   achievements: "jsonl",
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory

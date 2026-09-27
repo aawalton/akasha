@@ -7,4 +7,5 @@ export const characterQuests = {
   title: "Quests",
   category: "character",
   displayOrder: 3,
+  activity: "temper-activity-category/quests",
 } as const satisfies TemperAchievementCategory

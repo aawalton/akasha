@@ -7,4 +7,5 @@ export const characterThievesGuild = {
   title: "Thieves Guild",
   category: "character",
   displayOrder: 17,
+  activity: "temper-activity-category/exploration",
 } as const satisfies TemperAchievementCategory
