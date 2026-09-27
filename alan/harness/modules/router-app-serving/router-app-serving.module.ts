@@ -56,5 +56,13 @@ export const routerAppServing = {
       statement:
         "A site told to stop ends its streams, finishes what it is answering, and then exits.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every router app is started the same way, and an app states only what differs.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A connection is let idle longer than the tunnel in front of it lets one idle.",
+    },
   ],
 } as const satisfies Module
