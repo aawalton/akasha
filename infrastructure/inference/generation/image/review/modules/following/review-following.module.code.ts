@@ -136,9 +136,7 @@ export function useReviewFollowing(persona: string | null, ready: boolean): Foll
         if (!gone) watch = store.watchPage(IMAGE, shownId, again)
       })
     }
-    const timer = setInterval(() => {
-      if (watch?.live() !== true) again()
-    }, FILE_BACKING_POLL_MS)
+    const timer = setInterval(again, FILE_BACKING_POLL_MS)
     return () => {
       gone = true
       clearInterval(timer)

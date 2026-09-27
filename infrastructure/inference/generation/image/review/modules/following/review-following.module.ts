@@ -17,7 +17,8 @@ export const reviewFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A review asks again on a timer while the store is not following the image shown.",
+      statement:
+        "A review asks again on a timer, so an image graded elsewhere leaves the images held ahead.",
     },
     {
       decisionKind: "decision-kind/departure",
