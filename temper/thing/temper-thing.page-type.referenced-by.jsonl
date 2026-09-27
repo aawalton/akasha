@@ -1,3 +1,4 @@
+{"propertySlug":"extends-type","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"extends-type","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","id":"01a05fb0-3cea-7e62-9477-d1a11db7b2e5"}
 {"propertySlug":"extends-type","path":"temper/items/core/temper-browser-category/temper-browser-category.page-type.ts","id":"01a0e10a-51a6-762e-937a-ab9ecab87881"}
 {"propertySlug":"extends-type","path":"temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts","id":"01a0e0d4-8faf-7000-a663-56081a452c8e"}
@@ -17,6 +18,7 @@
 {"propertySlug":"extends-type","path":"temper/player/holdings/temper-sale/temper-sale.page-type.ts","id":"019f71f3-8523-7dcc-a2c3-ae8bbddd28ad"}
 {"propertySlug":"extends-type","path":"temper/player/holdings/thing/temper-holdings-thing.page-type.ts","id":"01a05fcb-fd2b-77f2-923a-cb5f59585696"}
 {"propertySlug":"extends-type","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","id":"01a05fc6-81f8-7cb5-aed3-00e2ac534314"}
+{"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/items/core/temper-browser-category/temper-browser-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-thing.page-type.types.ts","path":"temper/items/rules/routing/core/temper-venue/temper-venue.page-type.types.ts","typed":true,"deferred":false}

@@ -13,6 +13,7 @@ export const temperChampionPoint = {
     "module/fitness-slottables",
     "module/warfare-passives",
     "module/warfare-slottables",
+    "page-type/temper-champion-star",
   ],
   decisions: [
     {

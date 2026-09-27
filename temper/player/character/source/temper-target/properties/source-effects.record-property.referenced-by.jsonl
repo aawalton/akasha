@@ -1,7 +1,9 @@
+{"propertySlug":"import","fileName":"source-effects.record-property.types.ts","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"source-effects.record-property.types.ts","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"source-effects.record-property.types.ts","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"source-effects.record-property.types.ts","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"source-effects.record-property.types.ts","path":"temper/player/character/source/temper-target/temper-target.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"page-property","path":"temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts","id":"01a0df64-1044-741d-8fad-c665ba1d8093"}
 {"propertySlug":"page-property","path":"temper/player/character/source/temper-food-or-drink/temper-food-or-drink.page-type.ts","id":"01a0df76-1665-75ef-8534-195cf1c4fa76"}
 {"propertySlug":"page-property","path":"temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts","id":"01a0df69-bdeb-70c4-a287-ed88cc239a92"}

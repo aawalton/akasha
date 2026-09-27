@@ -4905,6 +4905,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/temper-alchemy.domain.ts","id":"01a06076-1b69-7174-a838-dc7b0b111961"}
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-point.domain.ts","id":"01a06076-1b64-7dfd-b35b-f6c86003f6c1"}
+{"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/armor-piece/temper-companion-armor-piece.page-type.ts","id":"01a0e0bf-70b2-7005-93af-796b3f4d8baa"}
