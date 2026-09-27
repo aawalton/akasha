@@ -30,4 +30,5 @@ export const otherwhere00032 = {
     'He flicks his tail at the scattered books. "There are rather a lot of them."',
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-hall-back", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
