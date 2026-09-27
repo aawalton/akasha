@@ -357,7 +357,20 @@ export type Loaded = {
   readonly failed: string | null
 }
 
+const DECLARED_AT_MOST = 1000
+
+const DECLARED = new Map<string, Record<string, unknown>>()
+
 export function declaredIn(body: string): Record<string, unknown> {
+  const found = DECLARED.get(body)
+  if (found !== undefined) return found
+  const made = compiledIn(body)
+  if (DECLARED.size >= DECLARED_AT_MOST) DECLARED.clear()
+  DECLARED.set(body, made)
+  return made
+}
+
+function compiledIn(body: string): Record<string, unknown> {
   const on = transpiler()
   const named = on.scan(body).exports.filter((one) => one !== DEFAULT && NAMED.test(one))
   const js = on.transformSync(body).replace(EXPORTED, "")

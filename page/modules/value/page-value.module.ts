@@ -74,6 +74,15 @@ export const pageValue = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A body compiled once is answered from what was compiled rather than compiled again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bodies compiled that way are bounded, and the whole lot goes at the bound.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A body of the shape every page has is read off its text rather than run.",
     },
     {

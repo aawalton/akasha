@@ -41,6 +41,11 @@ test("a body is answered with what that body exports rather than another body's 
   expect(Object.keys(declaredIn(`export const it = { id: "${A}" } as const\n`))).toEqual(["it"])
 })
 
+test("a body compiled once is answered from what was compiled rather than compiled again", () => {
+  const body = "export const work = (one: number) => one + 1\n"
+  expect(declaredIn(body)).toBe(declaredIn(body))
+})
+
 test("a body of the shape every page has is read off its text rather than run", () => {
   expect(
     parsedIn(
