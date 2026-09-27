@@ -8,12 +8,14 @@ For each settled fact, find the lore page about its target. The target is the ch
 
 A character learned a fact where the prose shows that character seeing it, hearing it or being told it. The player's character learned whatever the prose shows the player's character seeing or hearing. The character who says a fact about themselves learned nothing new from saying it.
 
-Where the fact is already on the page, add each character who learned it to that fact's knowers.
+Where the fact is already on the page, as a fact or as a secret beside it, draft its telling to each character who learned it:
 
-Where the fact is on no page, add it to the page about its target as a new fact. A fact is at most 100 characters and states the world rather than instructs anyone. Its knowers are `lore-disclosure/game-master` and every character who learned it. Where no lore page is about the target, add one about it.
+`akasha story tell --page <lore or place page> --fact "<the fact, word for word>" --knower <character> --draft`
 
-Every fact you touch lists `lore-disclosure/game-master` among its knowers. A knower is never taken off a fact.
+Name `--knower` once for each character. The command adds the game master and never takes a knower away.
 
-Draft every edit with `akasha change apply --draft`, and land nothing. The advance moving the turn to its player lands your edits. Do not use `akasha story tell`: it lands at once.
+Where the fact is on no page, first draft it onto the page about its target as a secret, with `akasha change apply --draft`, adding one line holding the fact as a JSON string to the secrets file beside that page. Then draft its telling as above. A fact is at most 100 characters and states the world rather than instructs anyone. Where no lore page is about the target, draft one about it.
+
+Every edit you make is drafted, and you land nothing. The advance moving the turn to its player lands your edits.
 
 Record nothing where the turn settles nothing new and no character learned anything. Do not rewrite the prose, and do not judge style, pacing or taste.
