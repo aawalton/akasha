@@ -10,7 +10,7 @@ export const otherwhere00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I go and get the salt and carry the full box if I can to outside the room where the bookworms are. Then I go back to the break room to see if I can find a container I could use to scoop and throw the salt.",
   beats: [
@@ -30,5 +30,5 @@ export const otherwhere00011 = {
     "She takes the scoop; it fits her hand, deep enough for a good fistful of salt.",
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
