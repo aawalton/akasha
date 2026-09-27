@@ -14,7 +14,7 @@ const ACT = z.object({
   intent: z.number(),
 })
 
-export type Act = {
+type Act = {
   readonly attribute: number
   readonly difficulty: number
   readonly intent: number
