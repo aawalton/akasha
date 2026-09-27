@@ -64,6 +64,7 @@ import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.co
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import { slugAt } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { phased } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
+import { checkoutChanging } from "akasha/page/service/modules/read-settling/read-settling.module.code.ts"
 
 const NOTHING_HELD = "no rows were handed in, so nothing is there to apply"
 
@@ -399,13 +400,15 @@ export async function applied(
   }
   let put: Put = { said: [], wrong: [] }
   try {
-    put = phased("after commit", () => {
-      const carries = carriedFrom(root, last.head, moving)
-      const owed = holding.owed ?? new Map()
-      carryLanded(root, last.head, running, last.prepared.changes, carries, owed)
-      if (agentId !== null) recordedAsLanded(root, agentId, ownIn(holding))
-      return installingIn(root, last.prepared.changes)
-    })
+    put = await checkoutChanging(() =>
+      phased("after commit", () => {
+        const carries = carriedFrom(root, last.head, moving)
+        const owed = holding.owed ?? new Map()
+        carryLanded(root, last.head, running, last.prepared.changes, carries, owed)
+        if (agentId !== null) recordedAsLanded(root, agentId, ownIn(holding))
+        return installingIn(root, last.prepared.changes)
+      })
+    )
   } catch (thrown) {
     put = { said: [], wrong: [`${AFTER_COMMIT} ${whyOf(thrown)}`] }
   }

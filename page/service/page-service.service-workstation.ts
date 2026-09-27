@@ -52,7 +52,7 @@ export const pageService = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read waits on no write but a landing holding the checkout.",
+      statement: "A read waits on no write but a landing changing the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",

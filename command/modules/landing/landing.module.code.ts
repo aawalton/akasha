@@ -99,6 +99,7 @@ import { valueByPath } from "akasha/page/index/modules/reading/index-reading.mod
 import { underIndex } from "akasha/page/index/modules/surface/index-surface.module.code.ts"
 import type { Change } from "akasha/page/modules/change/change.module.code.ts"
 import { phased } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
+import { checkoutChanging } from "akasha/page/service/modules/read-settling/read-settling.module.code.ts"
 
 export type Landed = Finished & {
   readonly base: string
@@ -293,7 +294,7 @@ async function landingHeld(
     return draftedBy(root, drafting.page, changes, named, asRead)
   }
   const judgedAt = baseOf(root)
-  carryingOff(root, changes)
+  if (takenIn(changes).length > 0) await checkoutChanging(() => carryingOff(root, changes))
   const swept = sweptOff(root, changes)
   const carried = swept.length === 0 ? changes : [...changes, ...swept]
   const { edits, moves } = splitIn(root, carried)
@@ -341,86 +342,88 @@ async function landingHeld(
   const paths = edits.map((one) => one.path)
   const machine = machineOver(root, paths, asRead, facing)
   const staging: Staging = { run: null }
-  const landed = holding(root, (): Held | Refused => {
-    const base = baseOf(root)
-    const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing, machine)
-    if (stale !== null) return { refusals: stale, code: DATA, moved: true }
-    const judgedOn = change.base ?? judgedAt
-    const tangled = entangledSince(change, judgedOn, base)
-    if (tangled.length > 0) {
-      return { refusals: entangledSaid(tangled, judgedOn, base), code: DATA, moved: true }
-    }
-    const moving = movesHeld(
-      moves,
-      beforeOf(
-        root,
-        base,
-        moves.map((one) => one.from)
-      )
-    )
-    const lands = new Set(moves.map((one) => one.to))
-    const before = beforeOf(root, base, [
-      ...split.committing.map((one) => one.path),
-      ...moving.committing.flatMap((one) => [one.from, one.to]),
-    ])
-    readingEnded()
-    const committing = besideRebased(root, split.committing, wasBeside)
-    const folded = new Map(committing.map((one) => [one.path, one]))
-    const writing = edits.map((one) => folded.get(one.path) ?? one)
-    let made = false
-    try {
-      const putting = committing.filter((one) => !lands.has(one.path))
-      const put = wroteOnto(root, putting)
-      const noted = phased("index write", () =>
-        indexed(root, writing, moving.committing, before, keeping, settled, base)
-      )
-      const back = movedOnto(root, moves)
-      try {
-        const onto = committing.filter((one) => lands.has(one.path))
-        const then = wroteOnto(root, onto)
-        const bodies = bodiesOf(putting, moving.committing, onto, before)
-        const wrote = [...bodies.keys()]
-        const took = [
-          ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
-        ]
-        const commit = phased("commit", () =>
-          committed(root, bodies, took, attributed(message, attributionHeld()), writer, staging)
+  const landed = await checkoutChanging(() =>
+    holding(root, (): Held | Refused => {
+      const base = baseOf(root)
+      const stale = unfresh(root, named, base, paths, asRead, AGAIN_WRITTEN, facing, machine)
+      if (stale !== null) return { refusals: stale, code: DATA, moved: true }
+      const judgedOn = change.base ?? judgedAt
+      const tangled = entangledSince(change, judgedOn, base)
+      if (tangled.length > 0) {
+        return { refusals: entangledSaid(tangled, judgedOn, base), code: DATA, moved: true }
+      }
+      const moving = movesHeld(
+        moves,
+        beforeOf(
+          root,
+          base,
+          moves.map((one) => one.from)
         )
-        if (commit !== null) {
-          made = true
-          if (noting !== null) noting.commit = commit
-          done.push(`commit ${commit}`)
-        }
-        const held = asideFrom(root, split.uncommitted)
-        const aside = asideOnto(root, [...held])
+      )
+      const lands = new Set(moves.map((one) => one.to))
+      const before = beforeOf(root, base, [
+        ...split.committing.map((one) => one.path),
+        ...moving.committing.flatMap((one) => [one.from, one.to]),
+      ])
+      readingEnded()
+      const committing = besideRebased(root, split.committing, wasBeside)
+      const folded = new Map(committing.map((one) => [one.path, one]))
+      const writing = edits.map((one) => folded.get(one.path) ?? one)
+      let made = false
+      try {
+        const putting = committing.filter((one) => !lands.has(one.path))
+        const put = wroteOnto(root, putting)
+        const noted = phased("index write", () =>
+          indexed(root, writing, moving.committing, before, keeping, settled, base)
+        )
+        const back = movedOnto(root, moves)
         try {
-          const rest = besideRebased(root, split.uncommitted, wasBeside).filter(
-            (one) => !held.has(one.path)
+          const onto = committing.filter((one) => lands.has(one.path))
+          const then = wroteOnto(root, onto)
+          const bodies = bodiesOf(putting, moving.committing, onto, before)
+          const wrote = [...bodies.keys()]
+          const took = [
+            ...new Set([...put.took, ...moving.committing.map((one) => one.from), ...then.took]),
+          ]
+          const commit = phased("commit", () =>
+            committed(root, bodies, took, attributed(message, attributionHeld()), writer, staging)
           )
-          const ignoredGone = wroteOnto(root, rest)
-          const untracked = [...new Set([...aside.took, ...ignoredGone.took])].sort()
-          aside.done()
-          const gone = [...put.took, ...then.took, ...moves.map((one) => one.from), ...untracked]
-          const cleared = clearedOff(root, gone)
-          return { cleared, base, commit, wrote, took, noted, untracked }
-        } catch (failed) {
-          aside.back()
-          throw failed
+          if (commit !== null) {
+            made = true
+            if (noting !== null) noting.commit = commit
+            done.push(`commit ${commit}`)
+          }
+          const held = asideFrom(root, split.uncommitted)
+          const aside = asideOnto(root, [...held])
+          try {
+            const rest = besideRebased(root, split.uncommitted, wasBeside).filter(
+              (one) => !held.has(one.path)
+            )
+            const ignoredGone = wroteOnto(root, rest)
+            const untracked = [...new Set([...aside.took, ...ignoredGone.took])].sort()
+            aside.done()
+            const gone = [...put.took, ...then.took, ...moves.map((one) => one.from), ...untracked]
+            const cleared = clearedOff(root, gone)
+            return { cleared, base, commit, wrote, took, noted, untracked }
+          } catch (failed) {
+            aside.back()
+            throw failed
+          }
+        } catch (thrown) {
+          if (!made) back()
+          throw thrown
         }
       } catch (thrown) {
-        if (!made) back()
-        throw thrown
+        if (!made) restored(root, before)
+        const back = made
+          ? null
+          : alsoFailed(() => reindexed(root, writing, moving.committing, before, keeping))
+        const off = alsoFailed(() => unstaged(root, edits))
+        if (back === null && off === null) throw thrown
+        throw new Error(alsoSaid(saidBy(thrown), back, off))
       }
-    } catch (thrown) {
-      if (!made) restored(root, before)
-      const back = made
-        ? null
-        : alsoFailed(() => reindexed(root, writing, moving.committing, before, keeping))
-      const off = alsoFailed(() => unstaged(root, edits))
-      if (back === null && off === null) throw thrown
-      throw new Error(alsoSaid(saidBy(thrown), back, off))
-    }
-  })
+    })
+  )
   if ("refusals" in landed) return landed
   phased("git index", () => staging.run?.())
   const { cleared, ...ended } = landed

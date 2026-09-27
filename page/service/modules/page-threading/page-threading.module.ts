@@ -38,7 +38,8 @@ export const pageThreading = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A landing the service makes waits for the reads its threads are answering.",
+      statement:
+        "A landing the service makes waits for the reads its threads answer only to change the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -72,24 +72,72 @@ export function unwaitedSaid(waited: number): string {
   return `the reading threads were still answering after ${Math.round(waited / 1000)}s, so this landing went ahead of them\n`
 }
 
+async function readsLeft(apart: Int32Array, waited: number): Promise<undefined> {
+  Atomics.store(apart, LANDING, 1)
+  const until = Date.now() + waited
+  while (reading(apart)) {
+    if (Date.now() > until) {
+      process.stderr.write(unwaitedSaid(waited))
+      break
+    }
+    await Bun.sleep(WAITED)
+  }
+  return undefined
+}
+
+function reopened(apart: Int32Array): undefined {
+  Atomics.store(apart, LANDING, 0)
+  Atomics.notify(apart, LANDING)
+  return undefined
+}
+
 export async function landedApart<T>(
   apart: Int32Array,
   act: () => Promise<T>,
   waited: number = WAITED_AT_MOST
 ): Promise<T> {
-  Atomics.store(apart, LANDING, 1)
   try {
-    const until = Date.now() + waited
-    while (reading(apart)) {
-      if (Date.now() > until) {
-        process.stderr.write(unwaitedSaid(waited))
-        break
-      }
-      await Bun.sleep(WAITED)
-    }
+    await readsLeft(apart, waited)
     return await act()
   } finally {
-    Atomics.store(apart, LANDING, 0)
-    Atomics.notify(apart, LANDING)
+    reopened(apart)
   }
+}
+
+type Shut = { readonly apart: Int32Array; readonly left: Promise<undefined> }
+
+type Keeping = { apart: Int32Array | null; landings: number; shut: Shut | null }
+
+const KEEPING: Keeping = { apart: null, landings: 0, shut: null }
+
+export function landingsKeptApart(apart: Int32Array | null): undefined {
+  KEEPING.apart = apart
+  return undefined
+}
+
+export async function landingApart<T>(act: () => Promise<T>): Promise<T> {
+  KEEPING.landings += 1
+  try {
+    return await act()
+  } finally {
+    KEEPING.landings -= 1
+    const shut = KEEPING.shut
+    if (KEEPING.landings === 0 && shut !== null) {
+      KEEPING.shut = null
+      await shut.left
+      reopened(shut.apart)
+    }
+  }
+}
+
+export async function checkoutChanging<T>(
+  act: () => T,
+  waited: number = WAITED_AT_MOST
+): Promise<Awaited<T>> {
+  const apart = KEEPING.apart
+  if (apart === null) return await act()
+  if (KEEPING.landings === 0) return await landedApart(apart, async () => await act(), waited)
+  if (KEEPING.shut === null) KEEPING.shut = { apart, left: readsLeft(apart, waited) }
+  await KEEPING.shut.left
+  return await act()
 }

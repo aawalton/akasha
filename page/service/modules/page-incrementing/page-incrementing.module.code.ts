@@ -18,6 +18,7 @@ import {
   type Writer,
   type Wrote,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
+import { checkoutChanging } from "akasha/page/service/modules/read-settling/read-settling.module.code.ts"
 import type {
   Faulted,
   Refusal,
@@ -134,17 +135,21 @@ async function landing(
     const value = summed(asked, valueAt(at, root)?.[asked.key])
     const refused = await committed(root, asked, { ...inside, [asked.key]: value }, land)
     if (refused !== null) return refused
-    if (Object.keys(kept).length > 0) changeUncommitted(root, at, (held) => ({ ...held, ...kept }))
+    if (Object.keys(kept).length > 0) {
+      await checkoutChanging(() => changeUncommitted(root, at, (held) => ({ ...held, ...kept })))
+    }
     return { value }
   }
   summed(asked, uncommittedIn(root, at)?.[asked.key])
   const refused = await committed(root, asked, inside, land)
   if (refused !== null) return refused
   let value = 0
-  changeUncommitted(root, at, (held) => {
-    value = summed(asked, held?.[asked.key])
-    return { ...held, ...kept, [asked.key]: value }
-  })
+  await checkoutChanging(() =>
+    changeUncommitted(root, at, (held) => {
+      value = summed(asked, held?.[asked.key])
+      return { ...held, ...kept, [asked.key]: value }
+    })
+  )
   return { value }
 }
 

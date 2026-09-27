@@ -17,6 +17,7 @@ import { listedAt } from "akasha/page/index/modules/reading/index-reading.module
 import { mergeUncommitted } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { landingMarked } from "akasha/page/service/modules/hold-naming/hold-naming.module.code.ts"
+import { checkoutChanging } from "akasha/page/service/modules/read-settling/read-settling.module.code.ts"
 import type {
   Fault,
   Faulted,
@@ -219,7 +220,9 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<F
   try {
     const kept = keptIn(batch)
     const changes = latestIn(batch)
-    if (changes.length === 0) return { commit: null, wrote: beside(root, batch, kept), took: [] }
+    const besideWritten = (): Promise<readonly string[]> =>
+      checkoutChanging(() => beside(root, batch, kept))
+    if (changes.length === 0) return { commit: null, wrote: await besideWritten(), took: [] }
     const asked = changes
     const said = await runMechanicalChange(root, asked, messageIn(batch), {
       writer: first.writer,
@@ -230,7 +233,7 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<F
     const answered = wroteBy(asked, said.landed)
     return {
       commit: said.commit,
-      wrote: [...answered.wrote, ...beside(root, batch, kept)],
+      wrote: [...answered.wrote, ...(await besideWritten())],
       took: answered.took,
     }
   } catch (thrown) {

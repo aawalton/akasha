@@ -26,11 +26,24 @@ export const readSettling = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read starts only while the service is making no landing of its own.",
+      statement: "A read starts only while no landing the service makes is changing the checkout.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A landing the service makes waits for every read its threads are answering.",
+      statement:
+        "A landing the service makes waits for every read in flight before it first changes the checkout.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A landing keeps reads out from its first change to the checkout until it ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Composing a landing and running its change generators keep no read out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A change the service makes outside a landing keeps reads out only while it runs.",
     },
     {
       decisionKind: "decision-kind/departure",

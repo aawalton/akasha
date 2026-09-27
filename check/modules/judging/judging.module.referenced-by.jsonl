@@ -233,4 +233,5 @@
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/modules/orphaning/orphaning.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"judging.module.code.ts","path":"git/modules/holding/holding.module.test.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"judging.module.code.ts","path":"page/service/modules/read-settling/read-settling.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"check/check.domain.ts","id":"01a04bc4-7e85-704f-b87e-eac561795185"}

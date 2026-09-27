@@ -15,7 +15,8 @@ import {
 } from "akasha/page/service/modules/read-answering/read-answering.module.code.ts"
 import {
   apartFor,
-  landedApart,
+  landingApart,
+  landingsKeptApart,
   left,
 } from "akasha/page/service/modules/read-settling/read-settling.module.code.ts"
 import { STATUS_FOR } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
@@ -155,6 +156,7 @@ export function threadsFor(root: string, starting: Starting): Threads {
     waiting: new Map(),
   }))
   for (const one of slots) startedIn(one, shared)
+  landingsKeptApart(apart)
   const lane = slots[LANE] as Slot
   let next = 0
   const sent = async (request: Request, kind: Asked["kind"]): Promise<Response> => {
@@ -178,9 +180,10 @@ export function threadsFor(root: string, starting: Starting): Threads {
       if (kind === null || leastBusy(slots) === null) return null
       return sent(request, kind)
     },
-    apart: (act) => landedApart(apart, act),
+    apart: landingApart,
     heapsSaid: () => `thread heaps ${slots.map(heapSaid).join(", ")} MB`,
     stopped: async () => {
+      landingsKeptApart(null)
       for (const one of slots) one.stopping = true
       await Promise.all(slots.map((one) => one.worker?.terminate()))
       return undefined
