@@ -17,7 +17,7 @@ export const otherwhere00033 = {
     "character-other/otherwhere-engorged-bookworm-05",
     "character-other/otherwhere-engorged-bookworm-06",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "“Okay, we’ll start there.” I quietly go back and get the cooler and collect the dormant bookworms, the start spring books back onto the shelves, taking care to listen for the large bookworm and stay far away from it.",
   beats: [
@@ -31,10 +31,13 @@ export const otherwhere00033 = {
     "Somewhere off the hall, doors unseal with a long sigh.",
     "The window adds a blinking line: Synchronization Requested. Return to the core.",
   ],
+  issues: [
+    '"The dark back there stays quiet." - wet chewing still goes on in the gloom at the back',
+  ],
   lore: [
     "place/otherwhere-core-chamber",
     "place/otherwhere-main-hall",
     "place/otherwhere-hall-back",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
