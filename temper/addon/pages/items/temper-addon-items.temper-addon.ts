@@ -103,6 +103,7 @@ export const temperAddonItems = {
     "module/inventory-furnishing-scanner",
     "module/inventory-hud-fields",
     "module/inventory-item-data",
+    "module/inventory-item-own-link",
     "module/inventory-item-rule-verdict-core",
     "module/inventory-item-rule-verdict-store",
     "module/inventory-junk-queue",

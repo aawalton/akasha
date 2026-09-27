@@ -41,5 +41,10 @@ export const inventoryItemData = {
       decisionKind: "decision-kind/departure",
       statement: "A slot whose item has no enchant records none.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A slot records the other values its own link states that its bare item id reads wrong.",
+    },
   ],
 } as const satisfies Module

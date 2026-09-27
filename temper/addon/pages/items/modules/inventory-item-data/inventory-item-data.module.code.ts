@@ -1,3 +1,4 @@
+import { recordOwnLinkValues } from "akasha/temper/addon/pages/items/modules/inventory-item-own-link/inventory-item-own-link.module.code.ts"
 import { isItemLinkQuestRelevant } from "akasha/temper/addon/pages/items/modules/inventory-quest-relevance/inventory-quest-relevance.module.code.ts"
 import type { ItemData } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-types/inventory-saved-variables-types.module.code.ts"
 import { isTemperLocked } from "akasha/temper/addon/pages/items/modules/inventory-temper-lock-store/inventory-temper-lock-store.module.code.ts"
@@ -194,6 +195,8 @@ export function extractItemData(bagId: number, slotIndex: number): ItemData | un
     result.enchantHeader = enchantHeader
     result.enchantDescription = enchantDescription
   }
+
+  recordOwnLinkValues(result, itemLink)
 
   return result
 }

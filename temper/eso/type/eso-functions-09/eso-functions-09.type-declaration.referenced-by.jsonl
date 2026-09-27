@@ -77,6 +77,7 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-explain-match-context/inventory-explain-match-context.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-item-own-link/inventory-item-own-link.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-junk-queue/inventory-junk-queue.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-ops/inventory-ops.module.code.ts","typed":false,"deferred":false}
