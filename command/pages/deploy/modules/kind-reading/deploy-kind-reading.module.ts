@@ -80,6 +80,14 @@ export const deployKindReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A desktop app is a ninth kind a slug may name.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The words a refusal names each kind in are kept here beside the kinds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A kind's own name is read as every page of that kind rather than as one page.",
     },
     {

@@ -50,6 +50,7 @@ import {
   recordedEnding,
   recordedRefusal,
 } from "akasha/command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.code.ts"
+import { promotedApp } from "akasha/command/pages/deploy/modules/desktop-app-promoting/deploy-desktop-app-promoting.module.code.ts"
 import {
   closureFor,
   closuresOf,
@@ -66,8 +67,10 @@ import {
   CLUSTER_FOUNDATION,
   CLUSTER_SERVICE,
   CONTAINER_RECIPE,
+  DESKTOP_APP,
   INFERENCE_SERVICE,
   IOS_APP,
+  KIND_SAID,
   kindNamed,
   type Named as Read,
   TEMPER_ADDON,
@@ -101,15 +104,6 @@ import type { Fetcher } from "akasha/page/service/modules/page-calling/page-call
 
 const PUT_UP = "deploy"
 const TAKES = [deploySubject, noUpload, ref, measured, simulator, device]
-const NAMED: Readonly<Record<string, string>> = {
-  [CLUSTER_SERVICE]: "a cluster service",
-  [WORKSTATION_SERVICE]: "a workstation service",
-  [WEB_APP]: "a web app",
-  [CONTAINER_RECIPE]: "a container recipe",
-  [INFERENCE_SERVICE]: "an inference service",
-  [TEMPER_ADDON]: "an ESO addon",
-  [CLUSTER_FOUNDATION]: "a cluster foundation",
-}
 
 const NOTHING_UP =
   "the deploy stopped part way, and nothing it puts up had reached a machine at this commit"
@@ -134,7 +128,7 @@ function wrongIn(kind: string, slug: string, wanted: Wanted): string | null {
     if (!wanted.noUpload && wanted.ref === null) return null
     return `\`${onto}\` installs the build rather than handing it to Apple, so \`${noUpload.said}\` and \`${ref.said}\` say nothing about it`
   }
-  const what = NAMED[kind] as string
+  const what = KIND_SAID[kind] as string
   if (onto !== null) {
     return `\`${slug}\` names ${what}, which is put up rather than installed on a phone, so \`${onto}\` says nothing about it`
   }
@@ -174,6 +168,7 @@ async function putUpFrom(
     return await putUpInferenceService(slug, at, up)
   }
   if (read.kind === TEMPER_ADDON) return await putUpAddon(at, slug, read.pagePath, up)
+  if (read.kind === DESKTOP_APP) return await promotedApp(slug, given.calledAs, up)
   if (read.kind === CLUSTER_FOUNDATION) {
     return await appliedFoundation(given.root, slug, at, up)
   }

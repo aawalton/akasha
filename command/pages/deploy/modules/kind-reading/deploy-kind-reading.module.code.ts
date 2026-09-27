@@ -24,6 +24,8 @@ export const TEMPER_ADDON = "temper-addon"
 
 export const CLUSTER_FOUNDATION = "cluster-foundation"
 
+export const DESKTOP_APP = "desktop-app"
+
 export type Kind =
   | typeof WEB_APP
   | typeof IOS_APP
@@ -33,6 +35,18 @@ export type Kind =
   | typeof INFERENCE_SERVICE
   | typeof TEMPER_ADDON
   | typeof CLUSTER_FOUNDATION
+  | typeof DESKTOP_APP
+
+export const KIND_SAID: Readonly<Record<string, string>> = {
+  [CLUSTER_SERVICE]: "a cluster service",
+  [WORKSTATION_SERVICE]: "a workstation service",
+  [WEB_APP]: "a web app",
+  [CONTAINER_RECIPE]: "a container recipe",
+  [INFERENCE_SERVICE]: "an inference service",
+  [TEMPER_ADDON]: "an ESO addon",
+  [CLUSTER_FOUNDATION]: "a cluster foundation",
+  [DESKTOP_APP]: "a desktop app",
+}
 
 export type Named = {
   readonly kind: Kind
@@ -92,6 +106,7 @@ export function kindNamed(
     INFERENCE_SERVICE,
     TEMPER_ADDON,
     CLUSTER_FOUNDATION,
+    DESKTOP_APP,
   ] as const
   for (const kind of rest) {
     for (const one of pathsNamed(pages, kind, slug)) found.push({ kind, pagePath: one })
@@ -109,8 +124,9 @@ export function kindNamed(
     const models = having("inference service", slugsOfType(pages, INFERENCE_SERVICE))
     const addons = having("eso addon", slugsOfType(pages, TEMPER_ADDON))
     const grounds = having("cluster foundation", slugsOfType(pages, CLUSTER_FOUNDATION))
+    const desktops = having("desktop app", slugsOfType(pages, DESKTOP_APP))
     return {
-      refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, ${runners}, ${recipes}, ${models}, ${addons}, and ${grounds}`,
+      refused: `no page of any kind a deploy puts up is named \`${slug}\` — ${webs}, ${ioses}, ${servers}, ${runners}, ${recipes}, ${models}, ${addons}, ${grounds}, and ${desktops}`,
     }
   }
   if (left.length > 1) {

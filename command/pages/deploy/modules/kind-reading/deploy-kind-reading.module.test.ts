@@ -5,6 +5,7 @@ import {
   type Apps,
   CLUSTER_FOUNDATION,
   CLUSTER_SERVICE,
+  DESKTOP_APP,
   IOS_APP,
   kindNamed,
   WEB_APP,
@@ -32,6 +33,8 @@ const UNITS_AT = "akasha/services/workstations/pages"
 const TYPES_AT = "akasha/services/workstations"
 
 const GROUNDS_AT = "akasha/services/foundations/pages"
+
+const DESKTOPS_AT = "akasha/harness/desktop"
 
 type World = {
   readonly root: string
@@ -70,6 +73,7 @@ function seededWorld(): World {
   filed(UNITS_AT, "oneUnit", "one-unit", "service-workstation")
   filed(TYPES_AT, "serviceWorkstation", "service-workstation", "page-type")
   filed(GROUNDS_AT, "oneGround", "one-ground", "cluster-foundation")
+  filed(DESKTOPS_AT, "oneDesktop", "one-desktop", "desktop-app")
   return {
     root,
     sweep: (): undefined => {
@@ -145,6 +149,21 @@ test("a slug no kind carries is refused by naming the foundations too", () => {
   const why = (read as { refused: string }).refused
   expect(why).toContain("cluster foundation")
   expect(why).toContain("one-ground")
+})
+
+test("a slug only a desktop app page carries is answered as a desktop app", () => {
+  const read = kindNamed(WORLD.root, "one-desktop", ios)
+  expect(read).toEqual({
+    kind: DESKTOP_APP,
+    pagePath: `${DESKTOPS_AT}/one-desktop.desktop-app.ts`,
+  })
+})
+
+test("a slug no kind carries is refused by naming the desktop apps too", () => {
+  const read = kindNamed(WORLD.root, "no-such-app", ios)
+  const why = (read as { refused: string }).refused
+  expect(why).toContain("desktop app")
+  expect(why).toContain("one-desktop")
 })
 
 test("a slug only a cluster service page carries is answered as a cluster service", () => {

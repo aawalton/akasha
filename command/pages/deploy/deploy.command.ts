@@ -28,6 +28,7 @@ export const deploy = {
     "module/deploy-web-putting-up",
     "module/deploy-tree-sweeping",
     "module/deploy-ios-installing",
+    "module/deploy-desktop-app-promoting",
   ],
   decisions: [
     {
@@ -370,6 +371,10 @@ export const deploy = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A foundation's deploy runs on the workstation rather than in the cluster.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A desktop app is put up by the promote script its own checkout carries.",
     },
     {
       decisionKind: "decision-kind/departure",

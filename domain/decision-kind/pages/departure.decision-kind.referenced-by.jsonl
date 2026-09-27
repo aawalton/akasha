@@ -2179,6 +2179,7 @@
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/check-judging/deploy-check-judging.module.ts","id":"01a091ac-1ea6-7af9-a725-96a51aaf0c5f"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/commit-naming/deploy-commit-naming.module.ts","id":"01a09183-6693-7551-9148-59aca04e1bcd"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/commit-recording/deploy-commit-recording.module.ts","id":"01a0918e-3f40-7004-a4ca-adca97c45186"}
+{"propertySlug":"decision-kind","path":"command/pages/deploy/modules/desktop-app-promoting/deploy-desktop-app-promoting.module.ts","id":"01a0e385-0533-7ab6-8120-5477927e5af5"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/device-installing/deploy-device-installing.module.ts","id":"01a08e0b-f9f5-746a-836d-b0646a5815b0"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/file-closure/deploy-file-closure.module.ts","id":"01a09196-9c2c-732f-bd4f-d1f618fae23a"}
 {"propertySlug":"decision-kind","path":"command/pages/deploy/modules/holding/deploy-holding.module.ts","id":"01a0958d-5a26-70f4-b71a-0d770b87de98"}
