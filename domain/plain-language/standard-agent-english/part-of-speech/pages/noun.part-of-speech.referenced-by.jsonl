@@ -273,6 +273,7 @@
 {"propertySlug":"part-of-speech","path":"persona/persona.page-type.ts","id":"01a0532a-a54d-76e7-98f5-57ff3efc6492"}
 {"propertySlug":"part-of-speech","path":"product/kofi/contributor/contributor.page-type.ts","id":"01a0ba90-5086-7a55-b63d-5bf48f551250"}
 {"propertySlug":"part-of-speech","path":"product/product.domain.ts","id":"01a0826b-97bb-7e70-8730-ba2745b92e2b"}
+{"propertySlug":"part-of-speech","path":"story/recorder/story-recorder.page-type.ts","id":"01a0e054-324d-793a-8ecd-433ed00e9de5"}
 {"propertySlug":"part-of-speech","path":"story/reviewer/story-reviewer.page-type.ts","id":"01a0deb0-2f42-79ab-8969-52d0e5afcb0c"}
 {"propertySlug":"part-of-speech","path":"story/story.page-type.ts","id":"01a0c987-3949-7828-8fcb-e11a6dec2d37"}
 {"propertySlug":"part-of-speech","path":"story/style/style-rule/style-rule.page-type.ts","id":"01a0de9c-aef3-72c2-8506-f0ac609c48ea"}

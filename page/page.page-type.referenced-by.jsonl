@@ -103,6 +103,7 @@
 {"propertySlug":"extends-type","path":"product/kofi/feature-request/feature-request.page-type.ts","id":"01a0b79b-96bb-779c-bc1e-65ffdce6bfe0"}
 {"propertySlug":"extends-type","path":"story/lore-disclosure/lore-disclosure.page-type.ts","id":"01a0d419-8845-7ed9-a90b-d476417c30f4"}
 {"propertySlug":"extends-type","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
+{"propertySlug":"extends-type","path":"story/recorder/story-recorder.page-type.ts","id":"01a0e054-324d-793a-8ecd-433ed00e9de5"}
 {"propertySlug":"extends-type","path":"story/reviewer/story-reviewer.page-type.ts","id":"01a0deb0-2f42-79ab-8969-52d0e5afcb0c"}
 {"propertySlug":"extends-type","path":"story/style/style-rule/style-rule.page-type.ts","id":"01a0de9c-aef3-72c2-8506-f0ac609c48ea"}
 {"propertySlug":"extends-type","path":"story/world/characters/world-character.page-type.ts","id":"01a0657a-9ccd-7153-9c9f-c9454abc1a22"}
@@ -252,6 +253,7 @@
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"product/kofi/feature-request/feature-request.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/lore-disclosure/lore-disclosure.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/lore/lore.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/recorder/story-recorder.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/reviewer/story-reviewer.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/style/style-rule/style-rule.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page.page-type.types.ts","path":"story/world/characters/world-character.page-type.types.ts","typed":true,"deferred":false}

@@ -23,6 +23,7 @@ export const story = {
     "page-type/lore",
     "domain/story-style",
     "page-type/story-reviewer",
+    "page-type/story-recorder",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
