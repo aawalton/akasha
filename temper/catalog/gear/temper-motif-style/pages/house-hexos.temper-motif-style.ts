@@ -5,6 +5,8 @@ export const houseHexos = {
   type: "page-type/temper-motif-style",
   slug: "house-hexos",
   title: "House Hexos",
+  esoItemStyleId: 114,
+  styleName: "House Hexos",
   collectionIndex: 83,
   sourceDescription: "Delve dailies (Deadlands/Fargrave)",
   dropSources: [
