@@ -64,7 +64,7 @@ export function useDestinationOptions(): DestinationOptions {
         if (firstCharacter !== undefined) {
           groups.push({
             category: "character",
-            label: "Character",
+            label: placeTitle("character"),
             items: characterItems,
             defaultValue: firstCharacter.value,
           })

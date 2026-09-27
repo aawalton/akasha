@@ -6,4 +6,11 @@ export const ruleCardDestinationFormat = {
   slug: "rule-card-destination-format",
   definition: "a rule's destination written for a reader",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Bank and Guild Bank are read from venue pages, the rest from location type pages.",
+    },
+  ],
 } as const satisfies Module

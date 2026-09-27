@@ -16,5 +16,9 @@ export const useDestinationOptions = {
       decisionKind: "decision-kind/departure",
       statement: "The Craft Bag group's name is read from the craftbag location type page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Character group's name is read from the character location type page.",
+    },
   ],
 } as const satisfies Module
