@@ -25,4 +25,6 @@ export const theDatingGame00027 = {
     "The lantern's small light comes up steady and warm between them.",
     '"That\'s my hour starting," she says, and her gold eyes rest on him a moment, unhurried.',
   ],
+  issues: ['"her gold eyes rest on you a moment, unhurried" - No Prompt'],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
