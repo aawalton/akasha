@@ -6,4 +6,10 @@ export const companionTargetSelect = {
   slug: "companion-target-select",
   definition: "the select naming which companion a rule sends an item to",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every word the select shows is a web phrase page.",
+    },
+  ],
 } as const satisfies Module

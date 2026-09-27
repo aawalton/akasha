@@ -10,6 +10,10 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import type { MoveToDestination } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { actionFilterCascadesByPriority } from "akasha/temper/web/phrase/pages/action-filter-cascades-by-priority.temper-web-phrase.ts"
+import { characterTargetSelectNoTarget } from "akasha/temper/web/phrase/pages/character-target-select-no-target.temper-web-phrase.ts"
+import { characterTargetSelectSelectTarget } from "akasha/temper/web/phrase/pages/character-target-select-select-target.temper-web-phrase.ts"
 import type { ActionVariant } from "akasha/temper/web/player-inventory-management-ui/modules/action-options/action-options.module.code.ts"
 import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { ChevronRight } from "lucide-react"
@@ -33,11 +37,12 @@ export function CompanionTargetSelect({
 }: CompanionTargetSelectProps) {
   const userId = useUserId()
   const { inventory } = useInventory(userId)
+  const phrase = usePhrase()
 
   const options = useMemo((): readonly CompanionOption[] => {
     const byPriority: CompanionOption = {
       value: `companion-worn:by-priority` satisfies MoveToDestination,
-      label: "By Priority",
+      label: phrase(actionFilterCascadesByPriority.slug),
     }
 
     const locations = inventory?.locations
@@ -52,7 +57,7 @@ export function CompanionTargetSelect({
       })
     }
     return items
-  }, [inventory])
+  }, [inventory, phrase])
 
   const currentLabel = options.find((o) => o.value === destination)?.label
 
@@ -68,10 +73,15 @@ export function CompanionTargetSelect({
       >
         <SelectTrigger hideChevron>
           <Badge variant={variant} className="shrink-0">
-            <SelectValue>{currentLabel ?? "Select target"}</SelectValue>
+            <SelectValue>
+              {currentLabel ?? phrase(characterTargetSelectSelectTarget.slug)}
+            </SelectValue>
           </Badge>
         </SelectTrigger>
-        <SelectContent nullSentinel={{ value: "no-target", label: "No Target" }} sorted>
+        <SelectContent
+          nullSentinel={{ value: "no-target", label: phrase(characterTargetSelectNoTarget.slug) }}
+          sorted
+        >
           {options.map((opt) => (
             <SelectItem key={opt.value} value={opt.value}>
               {opt.label}
