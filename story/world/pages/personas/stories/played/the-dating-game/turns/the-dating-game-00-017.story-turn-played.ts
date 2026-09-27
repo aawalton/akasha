@@ -10,7 +10,7 @@ export const theDatingGame00017 = {
   position: 17,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "\"Oh, you want to do the recording at BYU Radio? I guess that works. Want to head there now? I'd have to stop in at my house to pick up the first volume, but its on the way, you'd be welcome to wait outside.\"",
   beats: [
@@ -32,5 +32,5 @@ export const theDatingGame00017 = {
     "Through the glass she lifts her eyes to his, the book open under her hand.",
   ],
   lore: ["place/the-dating-game-byu-broadcasting", "lore/the-dating-game-alan"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
