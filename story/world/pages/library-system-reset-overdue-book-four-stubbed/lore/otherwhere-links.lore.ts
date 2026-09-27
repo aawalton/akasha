@@ -10,31 +10,31 @@ export const otherwhereLinks = {
   facts: [
     {
       fact: "Links watches from high on the core, two bright blue eyes in the grey.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links's usual shape is a lynx as tall as a thigh, larger than any cat.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links's lynx shape is a glowing deep purple, near black, with black stripes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links's stripes are runic script that moves and twists around his body.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links's eyes are much too large for his head, like a cartoon's, and seldom kind.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links speaks aloud, sharp and impatient, as if nothing a newcomer does will please him.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links's name sounds like lynx and is spelled Links.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links is weary under his irritation, and lonely after centuries without company.",
@@ -42,7 +42,7 @@ export const otherwhereLinks = {
     },
     {
       fact: "Links assumes a newcomer knows everything the packet should have given her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Links can take other shapes: a child, a giant owl, a man, or anything he likes.",

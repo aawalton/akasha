@@ -38,7 +38,7 @@ export const otherwhereUniverse = {
     },
     {
       fact: "Links is the Library's manifestation, the Library itself and also himself.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The Library has run for centuries without a Librarian, on the dregs of its power.",
