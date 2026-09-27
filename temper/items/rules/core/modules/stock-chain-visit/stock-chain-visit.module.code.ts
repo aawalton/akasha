@@ -47,3 +47,17 @@ export function planStockChainVisit(chain: DestinationChain): StockChainVisitPla
     surplusDestination: surplusCascade[0]?.destination,
   }
 }
+
+export function stockChainTarget(
+  chain: DestinationChain | undefined,
+  eligibleCharacters: number
+): number | undefined {
+  if (chain === undefined) return undefined
+  const plan = planStockChainVisit(chain)
+  if (plan === undefined) return undefined
+  let target = plan.fillTargetQuantity * eligibleCharacters
+  for (const tier of plan.surplusCascade) {
+    if (tier.cap !== undefined) target += tier.cap
+  }
+  return target
+}

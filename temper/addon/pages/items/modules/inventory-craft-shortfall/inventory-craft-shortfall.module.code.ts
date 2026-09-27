@@ -5,7 +5,6 @@ import {
   type CraftMakes,
   countsTowardHeld,
   craftMakesCategory,
-  craftShortfallTarget,
   craftsToFill,
   firstUnmetPassive,
   heldAccountWide,
@@ -26,7 +25,10 @@ import {
   enqueueWritCraft,
 } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import { planStockChainVisit } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
+import {
+  planStockChainVisit,
+  stockChainTarget,
+} from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { categoryMatchesItem } from "akasha/temper/items/rules/eval/modules/category-match/category-match.module.code.ts"
 import type { EvalContext } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
 import { evaluateConditions } from "akasha/temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts"
@@ -156,7 +158,7 @@ function craftForRule(
   const name = `rule ${rule.id ?? rule.categoryId}`
   const chain = rule.destinationChain
   const leg = chain === undefined ? undefined : planStockChainVisit(chain)
-  const target = craftShortfallTarget(chain, countEligibleCharacters(leg?.charEligibility))
+  const target = stockChainTarget(chain, countEligibleCharacters(leg?.charEligibility))
   if (target === undefined) {
     say(`${name}: crafted nothing, since its chain has no by-priority leg to count a target from`)
     return false

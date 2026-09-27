@@ -2,8 +2,6 @@ import type { RequiredSkill } from "akasha/temper/addon/pages/items/crafting-sta
 import { computeCraftIterations } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-iterations/inventory-writ-crafting-iterations.module.code.ts"
 import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import { computeBuyShortfall } from "akasha/temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
-import type { DestinationChain } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { planStockChainVisit } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
 
 export interface StoredCount {
   readonly locationKey: string
@@ -19,20 +17,6 @@ export interface PassiveNeed {
 export interface CraftMakes {
   readonly craftType: number
   readonly categoryIds: readonly string[]
-}
-
-export function craftShortfallTarget(
-  chain: DestinationChain | undefined,
-  eligibleCharacters: number
-): number | undefined {
-  if (chain === undefined) return undefined
-  const plan = planStockChainVisit(chain)
-  if (plan === undefined) return undefined
-  let target = plan.fillTargetQuantity * eligibleCharacters
-  for (const tier of plan.surplusCascade) {
-    if (tier.cap !== undefined) target += tier.cap
-  }
-  return target
 }
 
 export function countsTowardHeld(locationKey: string, currentCharId: string): boolean {

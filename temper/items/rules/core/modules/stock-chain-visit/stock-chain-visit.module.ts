@@ -15,5 +15,19 @@ export const stockChainVisit = {
       decisionKind: "decision-kind/departure",
       statement: "The tiers below the fill tier are the surplus cascade.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chain's target is the by-priority leg's quantity times the characters that leg takes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each leg after the by-priority leg adds its quantity, and a leg with none adds 0.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chain with no by-priority leg has no target.",
+    },
   ],
 } as const satisfies Module

@@ -10,17 +10,7 @@ export const inventoryCraftShortfallPlan = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The target is the by-priority leg's quantity times the characters that leg takes.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement:
-        "Each leg after the by-priority leg adds its quantity, and a leg with none adds 0.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A chain with no by-priority leg has no target, so nothing is crafted for it.",
+      statement: "A rule crafts toward the target its stock chain states.",
     },
     {
       decisionKind: "decision-kind/departure",

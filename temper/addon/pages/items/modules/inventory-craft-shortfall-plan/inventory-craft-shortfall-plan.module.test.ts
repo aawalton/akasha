@@ -3,7 +3,6 @@ import {
   cheapestOption,
   countsTowardHeld,
   craftMakesCategory,
-  craftShortfallTarget,
   craftsToFill,
   firstUnmetPassive,
   heldAccountWide,
@@ -11,6 +10,7 @@ import {
   resolverForStation,
 } from "akasha/temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.code.ts"
 import type { DestinationChain } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { stockChainTarget } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
 
 const MARA: DestinationChain = [
   { destination: "character:by-priority", targetQuantity: 20 },
@@ -35,14 +35,14 @@ function ancestorsOf(id: string): readonly string[] {
 }
 
 test("the target is the by-priority leg for each character it takes and each capped leg after", () => {
-  expect(craftShortfallTarget(MARA, 20)).toBe(500)
-  expect(craftShortfallTarget(MARA, 1)).toBe(120)
+  expect(stockChainTarget(MARA, 20)).toBe(500)
+  expect(stockChainTarget(MARA, 1)).toBe(120)
 })
 
 test("a leg with no quantity adds nothing to the target", () => {
-  expect(
-    craftShortfallTarget([{ destination: "character:by-priority", targetQuantity: 5 }], 3)
-  ).toBe(15)
+  expect(stockChainTarget([{ destination: "character:by-priority", targetQuantity: 5 }], 3)).toBe(
+    15
+  )
 })
 
 test("a leg before the by-priority leg adds nothing to the target", () => {
@@ -50,12 +50,12 @@ test("a leg before the by-priority leg adds nothing to the target", () => {
     { destination: "bank", targetQuantity: 999 },
     { destination: "character:by-priority", targetQuantity: 10 },
   ]
-  expect(craftShortfallTarget(chain, 2)).toBe(20)
+  expect(stockChainTarget(chain, 2)).toBe(20)
 })
 
 test("a chain with no by-priority leg, or no chain, has no target", () => {
-  expect(craftShortfallTarget([{ destination: "bank", targetQuantity: 100 }], 20)).toBe(undefined)
-  expect(craftShortfallTarget(undefined, 20)).toBe(undefined)
+  expect(stockChainTarget([{ destination: "bank", targetQuantity: 100 }], 20)).toBe(undefined)
+  expect(stockChainTarget(undefined, 20)).toBe(undefined)
 })
 
 test("other characters and house storage count as saved; the current character and bank do not", () => {
@@ -88,7 +88,7 @@ test("held is the live character and bank beside every saved place that counts",
 })
 
 test("a 500 target with 130 held crafts whole crafts yielding at least the 370 short", () => {
-  const target = craftShortfallTarget(MARA, 20) ?? 0
+  const target = stockChainTarget(MARA, 20) ?? 0
   const held = heldAccountWide(10, 50, [{ locationKey: "1111111111", count: 70 }], CURRENT)
   expect(target - held).toBe(370)
   const crafts = craftsToFill(target, held, 4, 1000)
