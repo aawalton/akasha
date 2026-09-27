@@ -3,6 +3,8 @@ import {
   COMPANION_CARDS,
   type CompanionSummaryData,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionsSummaryPanelCardTitle } from "akasha/temper/web/phrase/pages/companions-summary-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -28,6 +30,7 @@ export function CompanionsSummaryPanelCard({
   onItemClick,
   collapseProtected,
 }: CompanionsSummaryPanelCardProps) {
+  const phrase = usePhrase()
   const hasData = Object.values(summary).some((entry) => entry.total > 0)
   if (!hasData) return null
 
@@ -40,7 +43,7 @@ export function CompanionsSummaryPanelCard({
 
   return (
     <CompletionPanelCard
-      title="Companions Summary"
+      title={phrase(companionsSummaryPanelCardTitle.slug)}
       items={items}
       filterNode={createNodeFilter(completionFilter ?? [], undefined)}
       sortMode={sortMode}

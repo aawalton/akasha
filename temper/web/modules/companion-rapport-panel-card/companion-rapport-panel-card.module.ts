@@ -6,4 +6,11 @@ export const companionRapportPanelCard = {
   slug: "companion-rapport-panel-card",
   definition: "each companion's rapport against the most there is",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its title is its completion category page's, and its row label a web phrase page.",
+    },
+  ],
 } as const satisfies Module

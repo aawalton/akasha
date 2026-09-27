@@ -1,6 +1,8 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { AccountQuestUnionProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-union-progress/completion-account-union-progress.module.code.ts"
 import type { CompanionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
+import { companionsCompanionQuestsUnion } from "akasha/temper/player/progress/temper-completion-category/pages/companions-companion-quests-union.temper-completion-category.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -41,7 +43,10 @@ export function CompanionQuestsUnionPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Companion Quests"
+      title={completionCardTitle(
+        companionsCompanionQuestsUnion.tab,
+        companionsCompanionQuestsUnion.nodeId
+      )}
       items={withActivityCategories(items, ["quests", "companions"])}
       filterNode={createNodeFilter(completionFilter ?? [], undefined)}
       sortMode={sortMode}

@@ -6,4 +6,10 @@ export const companionsSummaryPanelCard = {
   slug: "companions-summary-panel-card",
   definition: "each companion-scope card as one row of count against total",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

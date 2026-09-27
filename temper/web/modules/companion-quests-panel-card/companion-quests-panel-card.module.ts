@@ -6,4 +6,10 @@ export const companionQuestsPanelCard = {
   slug: "companion-quests-panel-card",
   definition: "the companion quests each selected character has finished",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is its completion category page's.",
+    },
+  ],
 } as const satisfies Module

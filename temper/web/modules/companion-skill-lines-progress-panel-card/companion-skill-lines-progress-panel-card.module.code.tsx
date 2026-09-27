@@ -2,7 +2,9 @@ import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/r
 import { requireGet } from "akasha/code/type/narrowing/modules/require-get/require-get.module.code.ts"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { CompanionCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type { CompanionSkillLineProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { companionsCompanionSkillLines } from "akasha/temper/player/progress/temper-completion-category/pages/companions-companion-skill-lines.temper-completion-category.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -98,7 +100,10 @@ export function CompanionSkillLinesProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Companion Skill Lines"
+      title={completionCardTitle(
+        companionsCompanionSkillLines.tab,
+        companionsCompanionSkillLines.nodeId
+      )}
       items={withActivityCategories(items, "companions")}
       filterNode={createNodeFilter(completionFilter ?? [], undefined)}
       sortMode={sortMode}

@@ -2,10 +2,12 @@ import { requireFirst } from "akasha/code/type/narrowing/modules/require-first/r
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type {
   CharacterQuestProgress,
   CompletionCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { charactersCompanionQuests } from "akasha/temper/player/progress/temper-completion-category/pages/characters-companion-quests.temper-completion-category.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -44,6 +46,7 @@ export function CompanionQuestsPanelCard({
   if (selectedProgress.length === 0) return null
 
   const charNames = new Map(characters.map((c) => [c.id, c.name]))
+  const title = completionCardTitle(charactersCompanionQuests.tab, charactersCompanionQuests.nodeId)
   const filterNode = createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])
 
   if (isAggregate && selectedProgress.length > 1) {
@@ -99,7 +102,7 @@ export function CompanionQuestsPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Companion Quests"
+        title={title}
         items={withActivityCategories(items, ["quests", "companions"])}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -126,7 +129,7 @@ export function CompanionQuestsPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Companion Quests"
+      title={title}
       items={withActivityCategories(items, ["quests", "companions"])}
       filterNode={filterNode}
       sortMode={sortMode}

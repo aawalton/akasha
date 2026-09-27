@@ -6,4 +6,10 @@ export const companionSkillLinesProgressPanelCard = {
   slug: "companion-skill-lines-progress-panel-card",
   definition: "each companion's skill lines and the rank each has reached",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is its completion category page's.",
+    },
+  ],
 } as const satisfies Module
