@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
+{"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a5ba1026ad5fd0a7b/astra-a5ba1026ad5fd0a7b.subagent.ts","id":"01a0e215-cd17-7ae1-a53d-f94391afbb87"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a920d8daecf165c5d/astra-a920d8daecf165c5d.subagent.ts","id":"01a0e215-b803-7ec8-8d19-290119dbaec7"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a963a48d4a321247e/astra-a963a48d4a321247e.subagent.ts","id":"01a0e215-9da1-7f45-a52f-2b86f8f98303"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a9d12944d78c318d6/astra-a9d12944d78c318d6.subagent.ts","id":"01a0e215-8316-7cd3-a993-126079ce10f5"}
