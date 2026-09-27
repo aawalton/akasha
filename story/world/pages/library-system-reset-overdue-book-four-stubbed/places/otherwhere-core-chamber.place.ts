@@ -209,7 +209,7 @@ export const otherwhereCoreChamber = {
     },
     {
       fact: "A spiral staircase with no landings climbs two or three stories from the chamber to the main hall.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A dark gap where the chamber's far wall meets the floor opens on a spiral staircase winding up.",

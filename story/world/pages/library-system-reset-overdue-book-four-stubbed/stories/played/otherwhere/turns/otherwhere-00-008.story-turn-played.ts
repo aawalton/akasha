@@ -4,13 +4,14 @@ export const otherwhere00008 = {
   id: "01a0e3c3-9cec-74bc-9265-647835b7c9b8",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-008",
+  cover: "image/image-54cc73287e248956",
   ownLength: 444,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I follow Links up the stairs",
   beats: [
     "She crosses to the gap, the floor carrying her, and follows Links up the spiral stairs.",
@@ -36,5 +37,5 @@ export const otherwhere00008 = {
   ],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

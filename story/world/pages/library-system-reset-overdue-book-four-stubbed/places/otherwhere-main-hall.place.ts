@@ -9,7 +9,7 @@ export const otherwhereMainHall = {
   facts: [
     {
       fact: "The main hall is at the top of the spiral staircase from the core chamber.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The main hall is ornate and massive, and wrecked by centuries of neglect.",
@@ -17,7 +17,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Books lie scattered everywhere, spines cracked, among broken desks, chairs and tables.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The main hall is dimly lit, brighter once a Librarian syncs, and gloomy beyond the entrance.",
@@ -37,15 +37,15 @@ export const otherwhereMainHall = {
     },
     {
       fact: "A long path runs back from the counter between massive wooden columns carved low down.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Bookshelves rise to the first ceiling, and a second gallery of shelves runs above all round.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Loose pages flutter across the main hall, and it smells stale, sad and faintly of hope.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Two short steps at the dark back of the hall lead up to a floor of more books and carved rails.",
