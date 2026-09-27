@@ -29,4 +29,5 @@ export const otherwhere00015 = {
     "Its skin crackles faintly under her palms as the salt goes on drying it.",
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
