@@ -24,7 +24,7 @@ import {
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 
-export const MAKER = "action bar <action-bar@alanwalton.com>"
+const MAKER = "action bar <action-bar@alanwalton.com>"
 
 const SLUG = "slug"
 
@@ -57,7 +57,7 @@ const CALLS: Calls = {
   write: (asked) => writingFor(asked),
 }
 
-export function latestIn(row: Row | undefined): Latest | null {
+function latestIn(row: Row | undefined): Latest | null {
   if (row === undefined) return null
   const slug = textIn(row[SLUG])
   const position = row[POSITION]
