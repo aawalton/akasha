@@ -19,7 +19,10 @@ import {
   inventoryRuleGoals,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  phraseOf,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 
 interface RuleCardPriorityRowProps {
   rule: CategoryRule
@@ -62,6 +65,12 @@ export function RuleCardPriorityRow({
 }: RuleCardPriorityRowProps) {
   const phrases = useRuleCardPhrases()
   const activeTitle = titleIn(phrases, isActive ? "rule-active" : "rule-inactive")
+  const itemCount =
+    phrases === null
+      ? ""
+      : phraseOf(phrases, affectedItemCount === 1 ? "count-item" : "count-items", {
+          count: String(affectedItemCount),
+        })
 
   return (
     <div className="flex items-center gap-1.5">
@@ -102,7 +111,10 @@ export function RuleCardPriorityRow({
               <SelectValue />
             </Badge>
           </SelectTrigger>
-          <SelectContent nullSentinel={{ value: "none", label: "No Goal" }} sorted>
+          <SelectContent
+            nullSentinel={{ value: "none", label: titleIn(phrases, "no-goal") }}
+            sorted
+          >
             {inventoryRuleGoals.list
               .filter((g) => g.id !== "none")
               .map((g) => (
@@ -121,12 +133,14 @@ export function RuleCardPriorityRow({
             </LayoutLink>
           </Badge>
           <Badge variant="elevation-muted" className="shrink-0 cursor-pointer" asChild>
-            <LayoutLink href={controlled.settingsPath}>Controlled</LayoutLink>
+            <LayoutLink href={controlled.settingsPath}>
+              {titleIn(phrases, "rule-controlled")}
+            </LayoutLink>
           </Badge>
         </>
       ) : isDuplicate ? (
         <Badge variant="elevation-muted" className="shrink-0">
-          Duplicate
+          {titleIn(phrases, "rule-duplicate")}
         </Badge>
       ) : isLocked ? (
         <Badge variant={isActive ? "accent" : "elevation-muted"} className="shrink-0">
@@ -153,11 +167,11 @@ export function RuleCardPriorityRow({
             className="shrink-0 tabular-nums"
             onClick={openAffectedDialog}
           >
-            {affectedItemCount} {affectedItemCount === 1 ? "item" : "items"}
+            {itemCount}
           </ButtonBadge>
         ) : (
           <Badge variant="elevation-muted" className="shrink-0 tabular-nums">
-            {affectedItemCount} {affectedItemCount === 1 ? "item" : "items"}
+            {itemCount}
           </Badge>
         ))}
     </div>

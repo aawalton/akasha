@@ -11,5 +11,9 @@ export const ruleCardPriorityRow = {
       decisionKind: "decision-kind/departure",
       statement: "The active and lock toggles are worded by rule card phrases.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every word the row shows, the item count included, is a rule card phrase.",
+    },
   ],
 } as const satisfies Module
