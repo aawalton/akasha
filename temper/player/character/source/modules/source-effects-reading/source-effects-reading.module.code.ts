@@ -2,7 +2,7 @@ import type { Effect } from "akasha/temper/player/character/formula-framework/mo
 
 type Value = Readonly<Record<string, unknown>>
 
-function recordsIn(held: unknown): readonly Value[] {
+export function recordsIn(held: unknown): readonly Value[] {
   if (!Array.isArray(held)) return []
   return held.filter(
     (one): one is Value => one !== null && typeof one === "object" && !Array.isArray(one)
@@ -45,7 +45,7 @@ export function metricNodesOf(nodes: Iterable<Value>): MetricNodes {
   return found
 }
 
-function entryEffectOf(entry: Value, nodes: MetricNodes, at: string): Effect {
+export function entryEffectOf(entry: Value, nodes: MetricNodes, at: string): Effect {
   const named = entry.metricId
   const slug = slugIn(named)
   const metricId = slug === null ? undefined : nodes.get(slug)

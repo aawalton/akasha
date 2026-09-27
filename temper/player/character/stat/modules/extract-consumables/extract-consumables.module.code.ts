@@ -15,7 +15,7 @@ export const extractConsumables: PipelineStage = (build, _context) => {
     sources.push(consumableSource)
   }
 
-  const potionSource = lookupSourceUnlessSentinel(potions, build.consumables.potion, "no-potion")
+  const potionSource = lookupSourceUnlessSentinel(potions(), build.consumables.potion, "no-potion")
   if (potionSource) {
     sources.push(potionSource)
   }

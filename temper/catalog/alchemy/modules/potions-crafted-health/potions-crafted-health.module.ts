@@ -1,9 +1,0 @@
-import type { Module } from "akasha/code/module/module.page-type.types.ts"
-
-export const potionsCraftedHealth = {
-  id: "01a06076-1b6a-70ec-940b-36731021056f",
-  type: "page-type/module",
-  slug: "potions-crafted-health",
-  definition: "the crafted essences serving a character's health",
-  code: "ts",
-} as const satisfies Module

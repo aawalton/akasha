@@ -4994,13 +4994,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/writer/modules/run-batched/run-batched.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/poison-source/poison-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-crafted-health/potions-crafted-health.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-crafted-magicka/potions-crafted-magicka.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-crafted-other/potions-crafted-other.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-crafted-stamina/potions-crafted-stamina.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-crafted/potions-crafted.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-crown/potions-crown.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-dropped/potions-dropped.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/craft-passives/craft-passives.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/champion-point/modules/craft-slottables/craft-slottables.module.ts","typed":true,"deferred":false}

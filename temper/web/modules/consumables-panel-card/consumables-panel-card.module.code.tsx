@@ -53,8 +53,9 @@ export function ConsumablesPanelCard({
   const [isFoodDrinkDialogOpen, setIsFoodDrinkDialogOpen] = useState(false)
   const [isMundusDialogOpen, setIsMundusDialogOpen] = useState(false)
 
-  const selectedPotion = potions.data[consumables.potion]
-  const selectedPotion2 = potions.data[consumables.potion2]
+  const heldPotions = potions()
+  const selectedPotion = heldPotions.data[consumables.potion]
+  const selectedPotion2 = heldPotions.data[consumables.potion2]
   const selectedFoodDrink = getFoodDrinkById(consumables.foodOrDrink)
   const selectedMundus = getMundusById(mundusStone)
 
@@ -83,7 +84,7 @@ export function ConsumablesPanelCard({
 
         <InputPanelCard.Row label="Potion">
           {(() => {
-            const potion = potions.data[consumables.potion]
+            const potion = heldPotions.data[consumables.potion]
             if (!potion) return null
             if (!("reagents" in potion)) return null
             const reagents = potion.reagents
@@ -134,7 +135,7 @@ export function ConsumablesPanelCard({
 
         <InputPanelCard.Row label="Potion 2">
           {(() => {
-            const potion2 = potions.data[consumables.potion2]
+            const potion2 = heldPotions.data[consumables.potion2]
             if (!potion2) return null
             if (!("reagents" in potion2)) return null
             const reagents = potion2.reagents

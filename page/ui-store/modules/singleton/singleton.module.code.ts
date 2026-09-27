@@ -18,6 +18,9 @@ const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-debuff-minor": ["effects"],
   "temper-debuff-other": ["effects"],
   "temper-vampire-stage": ["effects"],
+  "temper-potion-crown": ["effects"],
+  "temper-potion-dropped": ["effects"],
+  "temper-potion-crafted": ["effects"],
   "temper-eso-companion": ["companionQuests"],
 }
 

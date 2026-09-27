@@ -1,3 +1,8 @@
+import {
+  holdPotions,
+  POTION_READS,
+  potionsOf,
+} from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { temperCurse } from "akasha/temper/catalog/effect/temper-curse/temper-curse.page-type.ts"
 import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
 import { temperAlliance } from "akasha/temper/catalog/world/temper-alliance/temper-alliance.page-type.ts"
@@ -94,6 +99,7 @@ export const CHARACTER_SOURCE_READS: readonly Read[] = [
   [temperFoodOrDrink.slug, FOOD_OR_DRINK_FIELDS],
   [temperCharacterRole.slug, ["slug", "title", "displayOrder"]],
   ...BUFF_OR_DEBUFF_READS,
+  ...POTION_READS,
 ]
 
 export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undefined {
@@ -106,4 +112,5 @@ export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<
   holdFoodOrDrink(foodOrDrinkOf(rowsOf(temperFoodOrDrink.slug)))
   holdRoles(rolesOf(rowsOf(temperCharacterRole.slug)))
   holdBuffsAndDebuffs(buffsAndDebuffsOf(rowsOf))
+  holdPotions(potionsOf(rowsOf))
 }

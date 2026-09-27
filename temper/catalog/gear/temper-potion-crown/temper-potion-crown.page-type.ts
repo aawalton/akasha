@@ -16,5 +16,4 @@ export const temperPotionCrown = {
   ],
   types: "ts",
   schema: "jsonl",
-  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

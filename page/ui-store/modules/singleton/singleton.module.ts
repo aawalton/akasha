@@ -42,6 +42,11 @@ export const singleton = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A crown, dropped or crafted potion's listing carries the effect rows filed beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every other page type is listed without the rows filed beside its pages.",
     },
   ],

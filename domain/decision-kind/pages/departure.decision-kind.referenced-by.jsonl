@@ -4884,6 +4884,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/writer/modules/function-answers/function-answers.module.ts","id":"01a0d578-6f2a-7cfe-8a48-d3666d473452"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/modules/run-batched/run-batched.module.ts","id":"01a060b5-5ba9-7ee1-a925-9a6bbfd758f4"}
 {"propertySlug":"decision-kind","path":"temper/capture/writer/temper-capture-writer.domain.ts","id":"01a060b5-5ba6-79b3-9194-4261a9b83de6"}
+{"propertySlug":"decision-kind","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","id":"01a06076-1b6c-74d2-820b-7207017f2a40"}
 {"propertySlug":"decision-kind","path":"temper/catalog/alchemy/temper-alchemy.domain.ts","id":"01a06076-1b69-7174-a838-dc7b0b111961"}
 {"propertySlug":"decision-kind","path":"temper/catalog/champion-point/temper-champion-point.domain.ts","id":"01a06076-1b64-7dfd-b35b-f6c86003f6c1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}

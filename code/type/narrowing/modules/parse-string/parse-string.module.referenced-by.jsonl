@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/player/character/build/build-support/modules/build-row/build-row.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"parse-string.module.code.ts","path":"temper/player/character/source/modules/food-or-drink-source/food-or-drink-source.module.code.ts","typed":false,"deferred":false}

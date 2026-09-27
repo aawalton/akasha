@@ -1,9 +1,9 @@
 "use client"
 
-import { getSubcategory } from "akasha/code/type/narrowing/modules/get-subcategory/get-subcategory.module.code.ts"
 import {
   type PotionId,
   type PotionSource,
+  potionAt,
   potions,
 } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { convertIconPathToUrl } from "akasha/temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
@@ -21,40 +21,30 @@ interface PotionSelectDialogProps {
   onSelect: (potionId: PotionId) => void
 }
 
-const NO_POTION = potions.data["no-potion"]
-
-const CROWN_POTIONS = [...getSubcategory(potions, "crown").list].sort((a, b) =>
-  a.name.localeCompare(b.name)
-)
-
-const DROPPED_POTIONS = [...getSubcategory(potions, "dropped").list].sort((a, b) =>
-  a.name.localeCompare(b.name)
-)
-
-const CRAFTED_POTIONS = [...getSubcategory(potions, "crafted").list].sort((a, b) =>
-  a.name.localeCompare(b.name)
-)
-
-const ALL_POTIONS = [NO_POTION, ...CROWN_POTIONS, ...DROPPED_POTIONS, ...CRAFTED_POTIONS]
-
 export function PotionSelectDialog({
   open,
   onOpenChange,
   selectedPotionId,
   onSelect,
 }: PotionSelectDialogProps) {
-  const config: FilterableSelectDialogConfig<PotionSource> = useMemo(
-    () => ({
+  const held = potions()
+  const noPotion = potionAt("no-potion")
+  const config: FilterableSelectDialogConfig<PotionSource> = useMemo(() => {
+    const byName = held.list.toSorted((a, b) => a.name.localeCompare(b.name))
+    const crown = byName.filter((one) => one.subcategoryId === "crown")
+    const dropped = byName.filter((one) => one.subcategoryId === "dropped")
+    const crafted = byName.filter((one) => one.subcategoryId === "crafted")
+    return {
       title: "Select Potion",
       searchPlaceholder: "Search potions...",
       emptyMessage: "No potions found.",
       categories: [
-        { id: "crown" as const, label: "Crown Potions", items: CROWN_POTIONS },
-        { id: "dropped" as const, label: "Dropped Potions", items: DROPPED_POTIONS },
-        { id: "crafted" as const, label: "Crafted Potions", items: CRAFTED_POTIONS },
+        { id: "crown" as const, label: "Crown Potions", items: crown },
+        { id: "dropped" as const, label: "Dropped Potions", items: dropped },
+        { id: "crafted" as const, label: "Crafted Potions", items: crafted },
       ],
-      allItems: ALL_POTIONS,
-      defaultItem: NO_POTION,
+      allItems: [noPotion, ...crown, ...dropped, ...crafted],
+      defaultItem: noPotion,
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
         return (
@@ -67,9 +57,8 @@ export function PotionSelectDialog({
           <EquipmentIcon primarySrc={iconUrl} alt={item.name} size={40} />
         ) : null
       },
-    }),
-    []
-  )
+    }
+  }, [held, noPotion])
 
   const handleSelect = (itemId: PotionId) => {
     onSelect(itemId)
@@ -81,7 +70,7 @@ export function PotionSelectDialog({
       onOpenChange={onOpenChange}
       selectedItemId={selectedPotionId}
       onSelect={handleSelect}
-      defaultItem={potions.data["no-potion"]}
+      defaultItem={noPotion}
       config={config}
     />
   )

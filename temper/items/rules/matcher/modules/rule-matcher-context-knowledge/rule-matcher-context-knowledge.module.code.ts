@@ -1,6 +1,9 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { recordField } from "akasha/code/type/narrowing/modules/record-field/record-field.module.code.ts"
-import { potions } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
+import {
+  potionAt,
+  potions,
+} from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type {
@@ -184,8 +187,8 @@ export function compileWantedConsumables(
 
     if (charToggles.potions) {
       const potionId = decoded.consumables.potion
-      if (potionId && potions.has(potionId)) {
-        const template = potions.data[potionId]
+      if (potionId && potions().has(potionId)) {
+        const template = potionAt(potionId)
         if (template.itemId > 0) {
           let charIds = result.get(template.itemId)
           if (!charIds) {
@@ -197,8 +200,8 @@ export function compileWantedConsumables(
       }
 
       const potion2Id = decoded.consumables.potion2
-      if (potion2Id && potions.has(potion2Id)) {
-        const template = potions.data[potion2Id]
+      if (potion2Id && potions().has(potion2Id)) {
+        const template = potionAt(potion2Id)
         if (template.itemId > 0) {
           let charIds = result.get(template.itemId)
           if (!charIds) {

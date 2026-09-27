@@ -4,13 +4,17 @@ export const potionSource = {
   id: "01a06076-1b6c-74d2-820b-7207017f2a40",
   type: "page-type/module",
   slug: "potion-source",
-  definition: "every potion a character drinks, put into one table",
+  definition: "the potion a build drinks, and the boons it gives",
   code: "ts",
   decisions: [
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "A potion's place in this table is the index a build hash has.",
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Potions are read from the temper-potion pages, in the order of their hash places.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The potion pages are held wherever the skill catalogue is held.",
     },
   ],
-  hashIndexed: ["POTIONS"],
 } as const satisfies Module

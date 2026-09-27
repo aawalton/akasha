@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"code/type/narrowing/modules/get-subcategory/get-subcategory.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/champion-point/modules/craft-passives/craft-passives.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/champion-point/modules/craft-slottables/craft-slottables.module.code.ts","typed":false,"deferred":false}

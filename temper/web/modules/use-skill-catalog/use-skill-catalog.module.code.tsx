@@ -10,6 +10,11 @@ import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-ma
 import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
 import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
 import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
+import { temperPotion } from "akasha/temper/catalog/gear/temper-potion/temper-potion.page-type.ts"
+import { temperPotionCrafted } from "akasha/temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts"
+import { temperPotionCrown } from "akasha/temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts"
+import { temperPotionDropped } from "akasha/temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts"
+import { temperReagent } from "akasha/temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { catalogTemplatesOf } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
@@ -40,6 +45,11 @@ import { useMemo } from "react"
 const EVERY = 5000
 
 export function useSkillCatalog(): SkillCatalog | null {
+  const allPotions = usePages({ pageTypeSlug: temperPotion.slug, limit: EVERY })
+  const crownPotions = usePages({ pageTypeSlug: temperPotionCrown.slug, limit: EVERY })
+  const droppedPotions = usePages({ pageTypeSlug: temperPotionDropped.slug, limit: EVERY })
+  const craftedPotions = usePages({ pageTypeSlug: temperPotionCrafted.slug, limit: EVERY })
+  const reagents = usePages({ pageTypeSlug: temperReagent.slug, limit: EVERY })
   const skills = usePages({ pageTypeSlug: temperSkill.slug, limit: EVERY })
   const scribed = usePages({ pageTypeSlug: temperScribedSkill.slug, limit: EVERY })
   const focuses = usePages({ pageTypeSlug: temperFocusScript.slug, limit: EVERY })
@@ -68,6 +78,11 @@ export function useSkillCatalog(): SkillCatalog | null {
   const bars = usePages({ pageTypeSlug: temperSkillBar.slug, limit: EVERY })
   const races = usePages({ pageTypeSlug: temperRace.slug, limit: EVERY })
   const read = [
+    allPotions,
+    crownPotions,
+    droppedPotions,
+    craftedPotions,
+    reagents,
     races,
     roles,
     bars,
@@ -101,6 +116,11 @@ export function useSkillCatalog(): SkillCatalog | null {
   const catalog = useMemo(() => {
     if (loading) return null
     const byType = new Map<string, Iterable<Value>>([
+      [temperPotion.slug, allPotions.rows],
+      [temperPotionCrown.slug, crownPotions.rows],
+      [temperPotionDropped.slug, droppedPotions.rows],
+      [temperPotionCrafted.slug, craftedPotions.rows],
+      [temperReagent.slug, reagents.rows],
       [temperSkill.slug, skills.rows],
       [temperScribedSkill.slug, scribed.rows],
       [temperFocusScript.slug, focuses.rows],
@@ -134,6 +154,11 @@ export function useSkillCatalog(): SkillCatalog | null {
     )
   }, [
     loading,
+    allPotions.rows,
+    crownPotions.rows,
+    droppedPotions.rows,
+    craftedPotions.rows,
+    reagents.rows,
     skills.rows,
     scribed.rows,
     focuses.rows,

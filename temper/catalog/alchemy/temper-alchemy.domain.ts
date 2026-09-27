@@ -5,17 +5,7 @@ export const temperAlchemy = {
   type: "page-type/domain",
   slug: "temper-alchemy",
   definition: "the potions and poisons a character brews from reagents",
-  parts: [
-    "module/poison-source",
-    "module/potion-source",
-    "module/potions-crafted",
-    "module/potions-crafted-health",
-    "module/potions-crafted-magicka",
-    "module/potions-crafted-other",
-    "module/potions-crafted-stamina",
-    "module/potions-crown",
-    "module/potions-dropped",
-  ],
+  parts: ["module/poison-source", "module/potion-source"],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -23,7 +13,7 @@ export const temperAlchemy = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The potion tables here are written out from the temper pages.",
+      statement: "Potions are read from the temper-potion pages rather than written out here.",
     },
   ],
 } as const satisfies Domain
