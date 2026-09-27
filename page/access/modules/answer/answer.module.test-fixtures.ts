@@ -31,6 +31,7 @@ export function depsReading(readPageType: PagesDeps["readPageType"]): PagesDeps 
     ask: async () => ({ rows: [], n: 0 }),
     readPageType,
     definitionsFor: async () => [],
+    kindsBelow: async () => [],
   }
 }
 
@@ -41,6 +42,7 @@ export function depsAsking(ask: PagesDeps["ask"]): PagesDeps {
     ask,
     readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
     definitionsFor: async () => [],
+    kindsBelow: async () => [],
   }
 }
 
@@ -54,6 +56,7 @@ export function depsKeying(under: (readonly string[] | undefined)[]): PagesDeps 
     },
     readPageType: async () => ({ pageTypeId: "one", definitions: CARRIED }),
     definitionsFor: async () => [],
+    kindsBelow: async () => [],
   }
 }
 
@@ -64,6 +67,11 @@ export function depsTyped(rows: readonly Readonly<Record<string, unknown>>[]): P
     ask: async () => ({ rows, n: rows.length }),
     readPageType: async (slug) => ({ pageTypeId: `${slug}-id`, definitions: [] }),
     definitionsFor: async () => [],
+    kindsBelow: async (slug) => [
+      ...new Set(
+        rows.flatMap((row) => (typeof row.type === "string" && row.type !== slug ? [row.type] : []))
+      ),
+    ],
   }
 }
 
@@ -106,6 +114,7 @@ export function depsFiling(asked: (readonly string[] | undefined)[]): PagesDeps 
       return definitions === undefined ? null : { pageTypeId: `${slug}-id`, definitions }
     },
     definitionsFor: async () => [],
+    kindsBelow: async (slug) => (slug === "skill" ? ["scribed-skill"] : []),
   }
 }
 
@@ -125,6 +134,7 @@ export function depsWhere(
     },
     readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
     definitionsFor: async () => [],
+    kindsBelow: async () => [],
   }
 }
 
@@ -135,6 +145,7 @@ export function depsAnonymous(mayRead: PagesDeps["mayRead"]): PagesDeps {
     ask: async () => ({ rows: [], n: 0 }),
     readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
     definitionsFor: async () => [],
+    kindsBelow: async () => [],
   }
 }
 

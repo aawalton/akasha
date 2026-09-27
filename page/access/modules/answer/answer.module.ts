@@ -115,7 +115,12 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A listing holding pages of a type below asks the pages again for those keys.",
+      statement: "A listing asks the pages once, for every key its type and the types below list.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The types below a listed type are read from its shape before the pages are asked.",
     },
     {
       decisionKind: "decision-kind/departure",

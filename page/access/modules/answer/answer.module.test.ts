@@ -149,10 +149,12 @@ test("a page of a type below the one listed carries every key its own type lists
   const bySlug = new Map(said.rows.map((row) => [row.slug, row.attributes]))
   expect(bySlug.get("fiery-banner")?.grimoire).toBe("banner")
   expect(bySlug.get("strike")?.grimoire).toBeUndefined()
-  expect(asked).toEqual([
-    ["slug", "key", "line", "type"],
-    ["slug", "key", "line", "type", "grimoire"],
-  ])
+})
+
+test("a listing holding pages of a type below asks the pages once, for every key those types list", async () => {
+  const asked: (readonly string[] | undefined)[] = []
+  await answerPages(new Request(AT), "skill", depsFiling(asked))
+  expect(asked).toEqual([["slug", "key", "line", "grimoire", "type"]])
 })
 
 test("a slug asked under a type finds the page that address names, not one of a type below", async () => {
@@ -347,6 +349,7 @@ test("narrows disagreeing on the key refuse rather than widening", async () => {
     ask: async () => ({ rows: [], n: 0 }),
     readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
     definitionsFor: async () => [],
+    kindsBelow: async () => [],
   })
   expect(answered.status).toBe(403)
 })

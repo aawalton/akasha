@@ -3,6 +3,7 @@ import {
   fileBackedPageTypes,
   RosterUnreachable,
 } from "akasha/page/access/modules/file-backed-roster/file-backed-roster.module.code.ts"
+import { shapeAsked } from "akasha/page/access/modules/file-property-defs/file-property-defs.module.code.ts"
 import { valuedRows } from "akasha/page/access/modules/file-read/file-read.module.code.ts"
 import { buildRawPageRows } from "akasha/page/access/modules/file-rows/file-rows.module.code.ts"
 import { getPageTypeBySlug } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
@@ -112,6 +113,7 @@ export type PagesDeps = {
   ) => Promise<Asked>
   readonly readPageType: (pageTypeSlug: string) => Promise<PageTypeReading | null>
   readonly definitionsFor: (pageTypeSlug: string) => Promise<readonly PropertyDefinition[]>
+  readonly kindsBelow: (pageTypeSlug: string) => Promise<readonly string[]>
 }
 
 export function pagesDeps(readUser: ReadUser, mayRead: MayRead = signedInMayRead): PagesDeps {
@@ -134,6 +136,7 @@ export function pagesDeps(readUser: ReadUser, mayRead: MayRead = signedInMayRead
       }
     },
     definitionsFor: (pageTypeSlug) => getPropertyDefinitions({ pageTypeSlug }),
+    kindsBelow: async (pageTypeSlug) => (await shapeAsked(pageTypeSlug))?.below ?? [],
   }
 }
 
@@ -274,21 +277,19 @@ function withOwnType(keys: readonly string[] | undefined): readonly string[] | u
   return keys === undefined || keys.includes(OWN_TYPE) ? keys : [...keys, OWN_TYPE]
 }
 
-async function ownReadingsOver(
-  rows: readonly Readonly<Record<string, unknown>>[],
+async function readingsBelow(
   reading: PageTypeReading,
   pageTypeSlug: string,
+  below: readonly string[],
   readPageType: PagesDeps["readPageType"]
 ): Promise<ReadonlyMap<string, PageTypeReading>> {
   const readings = new Map<string, PageTypeReading>([[pageTypeSlug, reading]])
-  const tried = new Set<string>([pageTypeSlug])
-  for (const row of rows) {
-    const own = row[OWN_TYPE]
-    if (typeof own !== "string" || tried.has(own)) continue
-    tried.add(own)
-    const read = await readPageType(own)
-    if (read !== null) readings.set(own, read)
-  }
+  const others = below.filter((one) => one !== pageTypeSlug)
+  const read = await Promise.all(others.map((one) => readPageType(one)))
+  others.forEach((one, at) => {
+    const held = read[at]
+    if (held !== null && held !== undefined) readings.set(one, held)
+  })
   return readings
 }
 
@@ -305,15 +306,6 @@ export function ownKeysOver(
     for (const key of listedKeys(one.definitions, carried) ?? []) every.add(key)
   }
   return every.size === 0 ? undefined : [...every]
-}
-
-export function widenedKeys(
-  asked: readonly string[] | undefined,
-  every: readonly string[] | undefined
-): readonly string[] | null {
-  if (asked === undefined || every === undefined) return null
-  const held = new Set(asked)
-  return every.some((key) => !held.has(key)) ? [...new Set([...asked, ...every])] : null
 }
 
 function definitionsOver(
@@ -372,20 +364,14 @@ export async function answerPages(
     return Response.json({ error: NAMED_BY_NARROW }, { status: 403, headers })
   }
 
-  const carried = carriedKeys(request)
-  const keys = withOwnType(listedKeys(reading.definitions, carried))
-  const first = await deps.ask(pageTypeSlug, LISTING_CEILING, keys, where)
-  if ("refused" in first) {
-    return Response.json({ error: UNREAD_PAGES, unread: [first.refused] }, { status: 503, headers })
-  }
-  const readings = await ownReadingsOver(
-    first.rows.slice(0, LISTING_CEILING),
+  const readings = await readingsBelow(
     reading,
     pageTypeSlug,
+    await deps.kindsBelow(pageTypeSlug),
     deps.readPageType
   )
-  const wider = widenedKeys(keys, ownKeysOver(readings, carried))
-  const asked = wider === null ? first : await deps.ask(pageTypeSlug, LISTING_CEILING, wider, where)
+  const keys = withOwnType(ownKeysOver(readings, carriedKeys(request)))
+  const asked = await deps.ask(pageTypeSlug, LISTING_CEILING, keys, where)
   if ("refused" in asked) {
     return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })
   }
