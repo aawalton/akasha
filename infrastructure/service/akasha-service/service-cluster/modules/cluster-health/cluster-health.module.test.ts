@@ -1,5 +1,7 @@
 import { expect, test } from "bun:test"
+import { NO_CODE } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import {
+  ASKED_AT_MOST_MS,
   brokenIn,
   type Held,
   healthFor,
@@ -283,6 +285,17 @@ test("a cluster that will not answer is no health rather than every service brok
     stderr: "no",
   }))
   expect(said).toBe("kubectl get exited 1: no")
+})
+
+test("a cluster that answers nothing within its bound is no health, named as killed", () => {
+  const said = healthFor(process.cwd(), () => ({
+    argv: ["get"],
+    code: NO_CODE,
+    stdout: "",
+    stderr: "",
+  }))
+  expect(said).toBe(`kubectl get was killed after ${ASKED_AT_MOST_MS / 1000}s and said nothing`)
+  expect(ASKED_AT_MOST_MS).toBeLessThan(60_000)
 })
 
 test("a cluster holding none of the services reads every service as broken", () => {

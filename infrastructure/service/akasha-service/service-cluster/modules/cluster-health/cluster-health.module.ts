@@ -35,6 +35,10 @@ export const clusterHealth = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A cluster that has not answered in thirty seconds will not answer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A service whose resource the cluster does not hold is broken.",
     },
     {

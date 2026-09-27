@@ -70,6 +70,10 @@ export const workloadDeploying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A kubectl a caller bounds is killed once that bound passes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A caller holding a loop others are answered on reaches for that one.",
     },
     {

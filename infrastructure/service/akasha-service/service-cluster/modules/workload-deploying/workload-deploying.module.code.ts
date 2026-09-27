@@ -56,13 +56,20 @@ type Named = {
   readonly namespace: string | null
 }
 
-export function runKubectl(argv: readonly string[]): Ran {
-  const done = running([KUBECTL, ...argv])
+function boundedBy(ceilingMs: number | undefined): { readonly timeout?: number } {
+  return ceilingMs === undefined ? {} : { timeout: ceilingMs }
+}
+
+export function runKubectl(argv: readonly string[], ceilingMs?: number): Ran {
+  const done = running([KUBECTL, ...argv], boundedBy(ceilingMs))
   return { argv, code: done.code, stdout: done.out, stderr: done.err }
 }
 
-export function runKubectlOn(argv: readonly string[], text: string): Ran {
-  const done = running([KUBECTL, ...argv], { stdin: new TextEncoder().encode(text) })
+export function runKubectlOn(argv: readonly string[], text: string, ceilingMs?: number): Ran {
+  const done = running([KUBECTL, ...argv], {
+    stdin: new TextEncoder().encode(text),
+    ...boundedBy(ceilingMs),
+  })
   return { argv, code: done.code, stdout: done.out, stderr: done.err }
 }
 

@@ -1,3 +1,4 @@
+import { NO_CODE } from "akasha/code/spawning/modules/running/running.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { lastDue } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/cron-due/cron-due.module.code.ts"
 import { CLUSTER_SERVICE_TYPE } from "akasha/infrastructure/service/akasha-service/service-cluster/modules/web-app-reading/web-app-reading.module.code.ts"
@@ -23,6 +24,7 @@ const JOB = "Job"
 const POD = "Pod"
 const KINDS_ASKED = "deployments,statefulsets,daemonsets,cronjobs,jobs,replicasets,pods"
 const ASKED: readonly string[] = ["get", KINDS_ASKED, "--all-namespaces", "--output", "json"]
+export const ASKED_AT_MOST_MS = 30_000
 const CRASH_LOOP = "CrashLoopBackOff"
 const PROGRESSING = "Progressing"
 const PAST_DEADLINE = "ProgressDeadlineExceeded"
@@ -364,7 +366,7 @@ export function watchedIn(root: string): readonly Watched[] {
 }
 
 function asking(): Ran {
-  return runKubectl(ASKED)
+  return runKubectl(ASKED, ASKED_AT_MOST_MS)
 }
 
 export function healthFor(
@@ -373,6 +375,9 @@ export function healthFor(
   now: Date = new Date()
 ): readonly Verdict[] | string {
   const ran = ask()
+  if (ran.code === NO_CODE) {
+    return `kubectl ${ran.argv.join(" ")} was killed after ${ASKED_AT_MOST_MS / 1000}s and said nothing`
+  }
   if (ran.code !== 0) {
     return `kubectl ${ran.argv.join(" ")} exited ${ran.code}: ${ran.stderr.trim()}`
   }
