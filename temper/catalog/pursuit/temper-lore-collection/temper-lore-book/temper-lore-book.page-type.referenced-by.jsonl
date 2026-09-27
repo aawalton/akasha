@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-lore-book.page-type.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-lore-book.page-type.ts","path":"temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-book.page-type.ts","path":"temper/web/modules/use-lore-library/use-lore-library.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-book.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/abahs-watch-style/books/crafting-motif-32-abahs-watch-axes/crafting-motif-32-abahs-watch-axes.temper-lore-book.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-book.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/abahs-watch-style/books/crafting-motif-32-abahs-watch-belts/crafting-motif-32-abahs-watch-belts.temper-lore-book.ts","typed":true,"deferred":false}
@@ -7086,4 +7087,5 @@
 {"propertySlug":"import","fileName":"temper-lore-book.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/yokudan-style/books/crafting-motif-20-yokudan-staves/crafting-motif-20-yokudan-staves.temper-lore-book.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-book.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/yokudan-style/books/crafting-motif-20-yokudan-swords/crafting-motif-20-yokudan-swords.temper-lore-book.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-book.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/pages/book-1566/book-1566.temper-lore-book.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-lore-book.page-type.types.ts","path":"temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-collection.page-type.ts","id":"01a06343-f9f7-7005-838d-006a4cec0e4f"}

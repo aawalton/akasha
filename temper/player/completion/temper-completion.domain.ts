@@ -51,6 +51,7 @@ export const temperCompletion = {
     "domain/temper-player-completion",
     "module/held-lore-library",
     "module/held-lore-library-loading",
+    "module/lore-library-pages",
   ],
   decisions: [
     {

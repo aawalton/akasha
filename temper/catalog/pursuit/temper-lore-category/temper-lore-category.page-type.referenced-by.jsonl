@@ -1,6 +1,8 @@
 {"propertySlug":"import","fileName":"temper-lore-category.page-type.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-lore-category.page-type.ts","path":"temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-category.page-type.ts","path":"temper/web/modules/use-lore-library/use-lore-library.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-category.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-category/pages/crafting-motifs.temper-lore-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-category.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-category/pages/eidetic-memory.temper-lore-category.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-category.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-category/pages/shalidors-library.temper-lore-category.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-lore-category.page-type.types.ts","path":"temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}

@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.ts","path":"temper/catalog/world/lorebook/modules/lore-book-tables/lore-book-tables.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-lore-collection.page-type.ts","path":"temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.ts","path":"temper/web/modules/use-lore-library/use-lore-library.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/abahs-watch-style/abahs-watch-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/adventurers-almanac/adventurers-almanac.temper-lore-collection.ts","typed":true,"deferred":false}
@@ -215,5 +216,6 @@
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/xivkyn-style/xivkyn-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/yffres-will-style/yffres-will-style.temper-lore-collection.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/catalog/pursuit/temper-lore-collection/pages/yokudan-style/yokudan-style.temper-lore-collection.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-lore-collection.page-type.types.ts","path":"temper/player/completion/modules/lore-library-pages/lore-library-pages.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/pursuit/temper-pursuit.domain.ts","id":"01a06153-0ea9-7000-8bea-a58f74ace441"}
 {"propertySlug":"target-page-type","path":"temper/catalog/pursuit/temper-lore-collection/temper-lore-book/properties/lore-book-collection.relation-property.ts","id":"01a0d5da-b5a0-7015-ad40-22e6b334eb01"}
