@@ -6,6 +6,7 @@ export const ancientOrc = {
   slug: "ancient-orc",
   title: "Ancient Orc",
   esoItemStyleId: 22,
+  styleName: "Ancient Orc",
   collectionIndex: 9,
   sourceDescription: "Old Orsinium enemies (Wrothgar)",
 } as const satisfies TemperMotifStyle
