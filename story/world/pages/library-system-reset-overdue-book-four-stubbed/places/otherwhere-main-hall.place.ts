@@ -59,12 +59,10 @@ export const otherwhereMainHall = {
       fact: "Nala has seen a huge raised desk at the hall's front, carved with trees blossoming into books.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "The break room's door opens off the hall's left side, partway back along the columns.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "The break room's cupboards also hold chipped mugs, a dented tin scoop and a small bucket.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -79,7 +77,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The dead cooler is a knee-high chest she can drag when empty, and it holds all five coils.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The lowest shelves are in reach from the floor; higher ones need the hall's rolling ladders.",
@@ -133,7 +131,6 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -154,7 +151,6 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "The break room's large box of salt, which never spoils, is now empty.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -167,7 +163,6 @@ export const otherwhereMainHall = {
       fact: "Links hands a newcomer a broom as her first weapon against the bookworms.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "The Library keeps roots and vegetables that are safe for a human to eat.",
       knowers: [
@@ -176,12 +171,10 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "Nala took the dented tin scoop from the break room; it holds a good fistful of salt.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "As the first bookworm dried still, the hall's gold light brightened a shade.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
