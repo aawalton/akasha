@@ -24,6 +24,9 @@ import {
 } from "akasha/temper/player/character/skill/modules/passive-queries/passive-queries.module.code.ts"
 import { getWeaponSkillLineIdsForBar } from "akasha/temper/player/character/skill/modules/skill-line-queries/skill-line-queries.module.code.ts"
 import { SkillCollapsibleCard } from "akasha/temper/web/modules/skill-collapsible-card/skill-collapsible-card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { passiveSkillsPanelCardNoMatch } from "akasha/temper/web/phrase/pages/passive-skills-panel-card-no-match.temper-web-phrase.ts"
+import { passiveSkillsPanelCardTitle } from "akasha/temper/web/phrase/pages/passive-skills-panel-card-title.temper-web-phrase.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 
@@ -118,6 +121,7 @@ export function PassiveSkillsPanelCard({
   search = "",
   selectedCategory = null,
 }: PassiveSkillsPanelCardProps) {
+  const phrase = usePhrase()
   const allSkills = skills.list
   const categories = useMemo(() => {
     const applicableSkillLineIds = getApplicableSkillLineIds(character, equipment)
@@ -181,9 +185,11 @@ export function PassiveSkillsPanelCard({
   }
 
   return (
-    <PanelCard id="passive-skills" collapsible title="Passive Skills">
+    <PanelCard id="passive-skills" collapsible title={phrase(passiveSkillsPanelCardTitle.slug)}>
       {categories.length === 0 ? (
-        <div className="px-2 py-4 text-secondary text-sm">No passives match your search.</div>
+        <div className="px-2 py-4 text-secondary text-sm">
+          {phrase(passiveSkillsPanelCardNoMatch.slug)}
+        </div>
       ) : (
         <div className="space-y-4">
           {categories.map((category) => (

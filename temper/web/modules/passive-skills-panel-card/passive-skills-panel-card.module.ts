@@ -11,5 +11,9 @@ export const passiveSkillsPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The passives are grouped again whenever the skill catalogue is read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module
