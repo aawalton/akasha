@@ -60,7 +60,9 @@ export function DisplayFrame({
   return (
     <div className="flex min-h-screen flex-col">
       {}
-      {config?.edgeToEdge === true && <FrameSafeAreaMasks chromeHidden={chromeHidden} />}
+      {(config?.edgeToEdge === true || header != null) && (
+        <FrameSafeAreaMasks chromeHidden={chromeHidden} />
+      )}
       {header != null && <FrameStickyHeader header={header} actionAt={setActionAt} />}
       {}
       <article
