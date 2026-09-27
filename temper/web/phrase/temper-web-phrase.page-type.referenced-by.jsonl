@@ -182,6 +182,10 @@
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/potion-select-dialog-search.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/potion-select-dialog-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/quest-progress-panel-card-title.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/race-select-dialog-empty.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/race-select-dialog-races.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/race-select-dialog-search.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/race-select-dialog-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/recent-characters-card-get-started.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/recent-characters-card-heading.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/recent-characters-card-no-builds.temper-web-phrase.ts","typed":true,"deferred":false}

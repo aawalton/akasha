@@ -13,6 +13,14 @@ import {
   FilterableSelectDialog,
   type FilterableSelectDialogConfig,
 } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import {
+  phraseIn,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { raceSelectDialogEmpty } from "akasha/temper/web/phrase/pages/race-select-dialog-empty.temper-web-phrase.ts"
+import { raceSelectDialogRaces } from "akasha/temper/web/phrase/pages/race-select-dialog-races.temper-web-phrase.ts"
+import { raceSelectDialogSearch } from "akasha/temper/web/phrase/pages/race-select-dialog-search.temper-web-phrase.ts"
+import { raceSelectDialogTitle } from "akasha/temper/web/phrase/pages/race-select-dialog-title.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 interface RaceSelectDialogProps {
@@ -30,12 +38,15 @@ export function RaceSelectDialog({
 }: RaceSelectDialogProps) {
   const sorted = sortedRaces()
   const all = allRaceSources()
+  const phrases = useWebPhrases()
   const config: FilterableSelectDialogConfig<RaceSource> = useMemo(
     () => ({
-      title: "Select Race",
-      searchPlaceholder: "Search races...",
-      emptyMessage: "No races found.",
-      categories: [{ id: "all", label: "Races", items: sorted }],
+      title: phraseIn(phrases, raceSelectDialogTitle.slug),
+      searchPlaceholder: phraseIn(phrases, raceSelectDialogSearch.slug),
+      emptyMessage: phraseIn(phrases, raceSelectDialogEmpty.slug),
+      categories: [
+        { id: "all", label: phraseIn(phrases, raceSelectDialogRaces.slug), items: sorted },
+      ],
       allItems: all,
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
@@ -50,7 +61,7 @@ export function RaceSelectDialog({
         ) : null
       },
     }),
-    [sorted, all]
+    [sorted, all, phrases]
   )
 
   const handleSelect = (itemId: RaceId) => {
