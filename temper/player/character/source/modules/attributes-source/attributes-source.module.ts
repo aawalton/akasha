@@ -6,4 +6,14 @@ export const attributesSource = {
   slug: "attributes-source",
   definition: "the health, magicka or stamina an attribute point buys",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Attributes are read from their temper-attribute pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The attribute pages are held wherever the skill catalogue is held.",
+    },
+  ],
 } as const satisfies Module

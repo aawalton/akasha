@@ -5694,6 +5694,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/skill-point-finder/temper-skill-point-finder.domain.ts","id":"01a060ec-5852-77cf-a783-9e488f2d3a19"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/temper-character-skill.domain.ts","id":"01a0617a-2c72-7654-ad18-45a07d7e27ca"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/alliances/alliances.module.ts","id":"01a060ea-ac5c-7ddc-8beb-424cc85a9621"}
+{"propertySlug":"decision-kind","path":"temper/player/character/source/modules/attributes-source/attributes-source.module.ts","id":"01a060ea-ac5d-72ee-938f-bff339b0ed37"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/base-source/base-source.module.ts","id":"01a060ea-ac5f-7d7c-b61a-f068bca19da7"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/character-roles/character-roles.module.ts","id":"01a060ea-ac5f-7d16-af64-7fbc832ae916"}
 {"propertySlug":"decision-kind","path":"temper/player/character/source/modules/character-source-reading/character-source-reading.module.ts","id":"01a0df67-9204-7695-8a2a-d5ec89b714b1"}

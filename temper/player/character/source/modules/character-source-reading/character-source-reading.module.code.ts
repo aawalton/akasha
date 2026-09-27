@@ -6,6 +6,10 @@ import {
   holdAlliances,
 } from "akasha/temper/player/character/source/modules/alliances/alliances.module.code.ts"
 import {
+  attributesOf,
+  holdAttributes,
+} from "akasha/temper/player/character/source/modules/attributes-source/attributes-source.module.code.ts"
+import {
   cursesOf,
   holdCurses,
 } from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
@@ -21,6 +25,7 @@ import {
   holdVampireStages,
   vampireStagesOf,
 } from "akasha/temper/player/character/source/modules/vampire-stages/vampire-stages.module.code.ts"
+import { temperAttribute } from "akasha/temper/player/character/source/temper-attribute/temper-attribute.page-type.ts"
 import { temperEsoPlus } from "akasha/temper/player/character/source/temper-eso-plus/temper-eso-plus.page-type.ts"
 import { temperMundusStone } from "akasha/temper/player/character/source/temper-mundus-stone/temper-mundus-stone.page-type.ts"
 
@@ -56,6 +61,7 @@ export const CHARACTER_SOURCE_READS: readonly Read[] = [
   [temperAlliance.slug, ["slug", "title", "esoAllianceId", "hashPlace"]],
   [temperCurse.slug, ["slug", "key", "title", "esoCurseIds", "hashPlace"]],
   [temperVampireStage.slug, VAMPIRE_STAGE_FIELDS],
+  [temperAttribute.slug, ["slug", "title", "metric", "value"]],
 ]
 
 export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undefined {
@@ -64,4 +70,5 @@ export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<
   holdAlliances(alliancesOf(rowsOf(temperAlliance.slug)))
   holdCurses(cursesOf(rowsOf(temperCurse.slug)))
   holdVampireStages(vampireStagesOf(rowsOf(temperVampireStage.slug)))
+  holdAttributes(attributesOf(rowsOf(temperAttribute.slug)))
 }
