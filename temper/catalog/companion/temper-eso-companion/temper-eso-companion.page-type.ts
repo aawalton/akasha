@@ -19,6 +19,7 @@ export const temperEsoCompanion = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/subtitle", required: false, many: false },
+    { pageProperty: "text-property/first-name", required: false, many: false },
     { pageProperty: "relation-property/alliance", required: true, many: false },
     { pageProperty: "number-property/eso-companion-id", required: true, many: false },
     { pageProperty: "text-property/class-passive-id", required: false, many: false },

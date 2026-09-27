@@ -6,11 +6,13 @@ import type { PassiveEffects } from "akasha/temper/catalog/companion/temper-eso-
 import type { Subtitle } from "akasha/temper/catalog/companion/temper-eso-companion/properties/subtitle.text-property.types.ts"
 import type { TemperCompanionThing } from "akasha/temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
+import type { FirstName } from "akasha/temper/player/character/temper-account-character/properties/first-name.text-property.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
 
 export type TemperEsoCompanion = TemperCompanionThing & {
   key: Key
   subtitle?: Subtitle
+  firstName?: FirstName
   alliance: Alliance
   esoCompanionId: EsoCompanionId
   classPassiveId?: ClassPassiveId
