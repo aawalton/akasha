@@ -10,7 +10,7 @@ export const otherwhere00009 = {
   position: 9,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "“It’s…beautiful.” I look around with wide eyes, then settle myself. “It sounded like there is work to be done, and some of those error messages downstairs were quite alarming. Where do we start?”",
   beats: [
@@ -32,5 +32,5 @@ export const otherwhere00009 = {
     "From the dark back of the hall, past where the gold light reaches, comes a wet, slow chewing sound.",
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
