@@ -79,14 +79,13 @@ test("a loose body lands formatted and sorted", async () => {
   expect(git(root, ["show", "HEAD:akasha/two.ts"])).toBe(TIDY)
 })
 
-test("a body that will not parse lands whole rather than blank", async () => {
+test("a body the formatter cannot parse reaches the gate whole rather than blank", () => {
   const root = repoWithTheFormatter()
-  const said = await wrote(root, ["--message", "held"], BROKEN)
-  expect(said.code).toBe(0)
-  const landed = readFileSync(join(root, "akasha/two.ts"), "utf8")
-  expect(landed.length).toBeGreaterThan(0)
-  expect(landed).toContain('from "./a.ts"')
-  expect(landed).toContain("export const held = (")
+  const said = preparing(root, baseOf(root), [
+    { kind: "add", path: "akasha/two.ts", content: BROKEN },
+  ])
+  if ("refusals" in said) throw new Error(said.refusals.join("; "))
+  expect(said.over?.after("akasha/two.ts")).toEqual(bytesOf(BROKEN))
 })
 
 test("a body already formatted lands untouched", async () => {
