@@ -1,8 +1,8 @@
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 
-export const SAVED_VARIABLES_NAME = "TemperCharactersPithkaSavedVariables"
+const SAVED_VARIABLES_NAME = "TemperCharactersPithkaSavedVariables"
 
-export type CallbackValues = {
+type CallbackValues = {
   showWatermark?: boolean
   showGroupFinder?: boolean
   currentScreen?: string
@@ -19,13 +19,13 @@ export type CallbackValues = {
 
 export type CallbackKey = keyof CallbackValues
 
-export type PithkaSavedVariables = {
+type PithkaSavedVariables = {
   scores: Record<string, Record<string, number> | undefined>
   groupFinderUsage: { joiningAttempts?: number }
   valuesWithCallbacks: CallbackValues
 }
 
-export type SavedVarsCallback = (this: void, key: CallbackKey, value: unknown) => void
+type SavedVarsCallback = (this: void, key: CallbackKey, value: unknown) => void
 
 const CALLBACKS: SavedVarsCallback[] = []
 
