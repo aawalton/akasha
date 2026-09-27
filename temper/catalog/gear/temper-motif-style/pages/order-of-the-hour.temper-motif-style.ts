@@ -6,6 +6,7 @@ export const orderOfTheHour = {
   slug: "order-of-the-hour",
   title: "Order of the Hour",
   esoItemStyleId: 16,
+  styleName: "Order of the Hour",
   collectionIndex: 25,
   sourceDescription: '"Roar of the Crowds" daily (Gold Coast)',
 } as const satisfies TemperMotifStyle
