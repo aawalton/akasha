@@ -234,19 +234,28 @@ function walkedTo(held: Reading, base: string, at: string): Walked | null {
   return said === null ? null : entriesIn(said)
 }
 
-const TREES = new Map<string, Walked | null>()
+const TREES = new Map<string, Map<string, Walked | null>>()
 
-const TREES_AT_MOST = 100_000
+const COMMITS_HELD = 4
+
+function treesOf(oid: string): Map<string, Walked | null> {
+  const found = TREES.get(oid)
+  if (found !== undefined) return found
+  const made = new Map<string, Walked | null>()
+  const oldest = TREES.size >= COMMITS_HELD ? TREES.keys().next() : null
+  if (oldest !== null && oldest.done !== true) TREES.delete(oldest.value)
+  TREES.set(oid, made)
+  return made
+}
 
 function treesAt(held: Reading, base: string, at: string): Walked | null {
   const oid = held.bases.get(base)
   if (oid === undefined) return walkedTo(held, base, at)
-  const key = `${oid}:${at}`
-  const found = TREES.get(key)
+  const trees = treesOf(oid)
+  const found = trees.get(at)
   if (found !== undefined) return found
   const made = walkedTo(held, base, at)
-  if (TREES.size >= TREES_AT_MOST) TREES.clear()
-  TREES.set(key, made)
+  trees.set(at, made)
   return made
 }
 

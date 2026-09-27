@@ -39,7 +39,15 @@ export const commitReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A tree already read under a commit is not read again, by this reader or a later one.",
+        "A tree read under a commit held is not read again, by this reader or a later one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Trees are held for the last four commits asked about, and an older one's go.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A long-lived process asks about a new commit at every landing.",
     },
     {
       decisionKind: "decision-kind/departure",
