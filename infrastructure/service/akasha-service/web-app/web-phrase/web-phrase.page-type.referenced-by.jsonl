@@ -1,4 +1,14 @@
 {"propertySlug":"import","fileName":"web-phrase.page-type.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-map-count-one.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-map-count.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-map-empty.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-map-listed.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-count-one.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-count-some.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-count.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-empty-title.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-empty.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-trip-listed.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-ask-label.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boost-button.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boost-points-label.web-phrase.ts","typed":true,"deferred":false}

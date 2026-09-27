@@ -6,3 +6,4 @@
 {"propertySlug":"nav-app","path":"page/nav/pages/atlas-search.nav.ts","id":"01a0d90c-9270-737d-b614-af8bce98c462"}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
 {"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-atlas-web-home.site-document.ts","id":"01a0e2a5-7b74-79a7-99e3-601d7924c365"}
+{"propertySlug":"site-document-web-app","path":"infrastructure/service/akasha-service/web-app/site-document/pages/alanwalton-atlas-web-map.site-document.ts","id":"01a0e2d5-4306-7d11-8493-4f1f8af734ca"}
