@@ -7,7 +7,7 @@ export const theDatingGame00004 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 4,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I like that she's walking close, and I bump my shoulder gently into hers from time to time. \"I'm Alan, what's your name?\"",
   beats: [
@@ -19,6 +19,7 @@ export const theDatingGame00004 = {
     '"Alan," she says, trying it slowly, as if tasting it.',
     "She touches two fingers to her own chest.",
     '"Echo," she says.',
+    "It is the first word she has given him since he called up to her that was not his.",
     "The walls give the word back once, faint, from up the canyon.",
     "She bumps his shoulder and watches his face to see what he makes of it.",
   ],
