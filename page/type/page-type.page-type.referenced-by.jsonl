@@ -512,6 +512,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/pages/ki/show/ki-show.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/person.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/sms-consent/sms-consent.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"person/sms-consent/wording/sms-consent-wording.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/closeness-level/closeness-level.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/craft-day/persona-craft-day.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"persona/origin-kind/origin-kind.page-type.ts","typed":true,"deferred":false}

@@ -94,6 +94,7 @@
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"person/email/gmail-mailbox/gmail-mailbox.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"person/pages/ki/collection-template/ki-collection-template.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"person/sms-consent/sms-consent.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"title.text-property.types.ts","path":"person/sms-consent/wording/sms-consent-wording.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"persona/craft-day/persona-craft-day.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"persona/review-session/review-session.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"title.text-property.types.ts","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.types.ts","typed":true,"deferred":false}
@@ -217,6 +218,7 @@
 {"propertySlug":"page-property","path":"person/email/gmail-mailbox/gmail-mailbox.page-type.ts","id":"01a06828-59d3-7295-868d-d695a5d5efd8"}
 {"propertySlug":"page-property","path":"person/pages/ki/collection-template/ki-collection-template.page-type.ts","id":"01a06825-d0ec-7fb0-9159-d7bc2e559c43"}
 {"propertySlug":"page-property","path":"person/sms-consent/sms-consent.page-type.ts","id":"019f830f-5026-7e88-9c08-a7cb23b14ef1"}
+{"propertySlug":"page-property","path":"person/sms-consent/wording/sms-consent-wording.page-type.ts","id":"01a0e2c7-84b5-7ccd-9573-77448bf87556"}
 {"propertySlug":"page-property","path":"persona/craft-day/persona-craft-day.page-type.ts","id":"01a0655b-4a9b-700e-86cf-9bc6a7104f89"}
 {"propertySlug":"page-property","path":"persona/review-session/review-session.page-type.ts","id":"01a06743-d160-7001-9131-181af10f9b87"}
 {"propertySlug":"page-property","path":"persona/wallpaper-notification/persona-wallpaper-notification.page-type.ts","id":"01a0655b-4a9b-700d-88c0-5e1a49f13be5"}

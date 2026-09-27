@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-points.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"page/page.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"description.text-property.types.ts","path":"person/sms-consent/wording/sms-consent-wording.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"description.text-property.types.ts","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.types.ts","typed":true,"deferred":false}
@@ -35,6 +36,7 @@
 {"propertySlug":"page-property","path":"alan/track/daily/day/properties/completed-tasks.page-property-entry.ts","id":"01a05fd8-c30f-72c4-9102-9b3dbc179f51"}
 {"propertySlug":"page-property","path":"infrastructure/service/akasha-service/web-app/site-document/slide/properties/slide-points.record-property.ts","id":"01a0d622-64e3-7e78-9130-2e3cff875865"}
 {"propertySlug":"page-property","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
+{"propertySlug":"page-property","path":"person/sms-consent/wording/sms-consent-wording.page-type.ts","id":"01a0e2c7-84b5-7ccd-9573-77448bf87556"}
 {"propertySlug":"page-property","path":"temper/catalog/champion-point/temper-champion-star/temper-champion-star.page-type.ts","id":"01a0e135-d98c-795f-9e2a-cf25be809fb6"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts","id":"01a05fce-1851-7d9f-9f36-f8f9bf8792ea"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/skill/temper-companion-skill.page-type.ts","id":"01a05fcf-90fc-73a8-ad6a-e3869228a309"}

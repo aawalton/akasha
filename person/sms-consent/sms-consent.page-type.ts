@@ -13,6 +13,7 @@ export const smsConsent = {
     "text-property/sms-consent-ip-address",
     "text-property/sms-consent-text-version",
     "text-property/sms-consent-user-agent",
+    "page-type/sms-consent-wording",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
