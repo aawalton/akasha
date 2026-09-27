@@ -1,5 +1,6 @@
 "use client"
 
+import { gearTypeNames } from "akasha/temper/catalog/gear/equipment/modules/gear-type-names/gear-type-names.module.code.ts"
 import type {
   ItemTooltipData,
   SetBonusEntry,
@@ -8,43 +9,9 @@ import { convertIconPathToUrl } from "akasha/temper/player/character/characters-
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 
-const EQUIP_TYPE_NAMES: Record<number, string> = {
-  1: "Head",
-  2: "Neck",
-  3: "Chest",
-  4: "Shoulders",
+const EQUIP_TYPES_NO_PAGE_NAMES: Readonly<Record<number, string>> = {
   5: "One Hand",
   6: "Two Hand",
-  7: "Off Hand",
-  8: "Waist",
-  9: "Legs",
-  10: "Feet",
-  12: "Ring",
-  13: "Hands",
-  14: "Main Hand",
-}
-
-const WEAPON_TYPE_NAMES: Record<number, string> = {
-  1: "Axe",
-  2: "Hammer",
-  3: "Sword",
-  4: "Greatsword",
-  5: "Battle Axe",
-  6: "Maul",
-  8: "Bow",
-  9: "Restoration Staff",
-  11: "Dagger",
-  12: "Inferno Staff",
-  13: "Ice Staff",
-  14: "Shield",
-  15: "Lightning Staff",
-}
-
-const ARMOR_TYPE_NAMES: Record<number, string> = {
-  0: "None",
-  1: "Light",
-  2: "Medium",
-  3: "Heavy",
 }
 
 const STYLE_NAMES: Record<number, string> = {
@@ -147,17 +114,18 @@ export function ItemTooltip({ data }: ItemTooltipProps) {
   const iconUrl = convertIconPathToUrl(icon)
   const qualityClass = ESO_QUALITY_TEXT_CLASSES[quality]
 
+  const gearNames = gearTypeNames()
   const typeLineParts: string[] = []
   if (armorType !== 0) {
-    const armorLabel = ARMOR_TYPE_NAMES[armorType]
-    if (armorLabel != null && armorLabel !== "None") typeLineParts.push(armorLabel)
+    const armorLabel = gearNames.armorTypes.get(armorType)
+    if (armorLabel != null) typeLineParts.push(armorLabel)
   }
   if (weaponType !== 0) {
-    const weaponLabel = WEAPON_TYPE_NAMES[weaponType]
+    const weaponLabel = gearNames.weaponTypes.get(weaponType)
     if (weaponLabel != null) typeLineParts.push(weaponLabel)
   }
   if (equipType !== 0) {
-    const equipLabel = EQUIP_TYPE_NAMES[equipType]
+    const equipLabel = gearNames.equipTypes.get(equipType) ?? EQUIP_TYPES_NO_PAGE_NAMES[equipType]
     if (equipLabel != null) typeLineParts.push(equipLabel)
   }
   if (style !== 0) {

@@ -6,4 +6,14 @@ export const itemTooltip = {
   slug: "item-tooltip",
   definition: "the tooltip drawing what an item is",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tooltip names an item's equip, weapon and armor type by the gear pages.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "One Hand and Two Hand have no page, so the tooltip names those two itself.",
+    },
+  ],
 } as const satisfies Module
