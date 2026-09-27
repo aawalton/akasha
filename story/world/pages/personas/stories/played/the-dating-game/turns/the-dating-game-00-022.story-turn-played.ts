@@ -21,4 +21,5 @@ export const theDatingGame00022 = {
     "The trail curves with the hill, the campus buildings glimpsed now and then up through the trees.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
