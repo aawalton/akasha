@@ -1,4 +1,4 @@
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
+import type { ItemCategoriesKeyed } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
 import {
   classifyLocation,
   isLocationTypeId,
@@ -114,14 +114,14 @@ export function buildActionFilterPredicate(
   }
 }
 
-export function buildCategorySearchText(r: CategoryRule): string {
+export function buildCategorySearchText(r: CategoryRule, categories: ItemCategoriesKeyed): string {
   const parts: string[] = []
   if (r.title != null) parts.push(r.title.toLowerCase())
   if (r.notes != null) parts.push(r.notes.toLowerCase())
   if (r.categoryId === ALL_CATEGORIES_ID) {
     parts.push(ALL_CATEGORIES_NODE.name.toLowerCase())
   } else {
-    const path = getNodePath(r.categoryId, ITEM_CATEGORY_TREE)
+    const path = getNodePath(r.categoryId, categories)
     if (path.length > 0) {
       parts.push(
         path
@@ -135,9 +135,12 @@ export function buildCategorySearchText(r: CategoryRule): string {
   return parts.join(" ")
 }
 
-export function buildCategoryMatchIds(ruleCategory: string): Set<string> | null {
+export function buildCategoryMatchIds(
+  ruleCategory: string,
+  categories: ItemCategoriesKeyed
+): Set<string> | null {
   if (ruleCategory === "") return null
-  return getCategoryDescendantIds(ruleCategory, ITEM_CATEGORY_TREE)
+  return getCategoryDescendantIds(ruleCategory, categories)
 }
 
 function matchesCategoryFilter(

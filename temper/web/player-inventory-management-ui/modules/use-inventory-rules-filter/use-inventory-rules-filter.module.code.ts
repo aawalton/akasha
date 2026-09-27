@@ -6,6 +6,7 @@ import type {
   CategoryRule,
   ItemRule,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
@@ -144,17 +145,25 @@ export function useInventoryRulesFilter(
 
   const searchLower = useMemo(() => deferred.ruleSearch.toLowerCase(), [deferred.ruleSearch])
 
-  const searchTextCacheRef = useRef<Map<string, { text: string; key: string }>>(new Map())
+  const categories = useItemCategories().keyed
 
-  const getCategoryRuleSearchText = useCallback((r: CategoryRule): string => {
-    const cacheKey = `${r.title ?? ""}|${r.notes ?? ""}|${r.categoryId}|${r.action}`
-    const cached = searchTextCacheRef.current.get(r.id)
-    if (cached && cached.key === cacheKey) return cached.text
+  const searchTextCache = useMemo(
+    () => new Map<string, { text: string; key: string }>(),
+    [categories]
+  )
 
-    const text = buildCategorySearchText(r)
-    searchTextCacheRef.current.set(r.id, { text, key: cacheKey })
-    return text
-  }, [])
+  const getCategoryRuleSearchText = useCallback(
+    (r: CategoryRule): string => {
+      const cacheKey = `${r.title ?? ""}|${r.notes ?? ""}|${r.categoryId}|${r.action}`
+      const cached = searchTextCache.get(r.id)
+      if (cached && cached.key === cacheKey) return cached.text
+
+      const text = buildCategorySearchText(r, categories)
+      searchTextCache.set(r.id, { text, key: cacheKey })
+      return text
+    },
+    [searchTextCache, categories]
+  )
 
   const matchItemLocation = useCallback(
     (locationKey: string): boolean => matchItemLocationPure(locationKey, deferred.ruleLocation),
@@ -162,8 +171,8 @@ export function useInventoryRulesFilter(
   )
 
   const categoryMatchIds = useMemo(
-    () => buildCategoryMatchIds(deferred.ruleCategory),
-    [deferred.ruleCategory]
+    () => buildCategoryMatchIds(deferred.ruleCategory, categories),
+    [deferred.ruleCategory, categories]
   )
 
   const filterDeps = {
