@@ -226,7 +226,7 @@ export const otherwhereHallBack = {
     },
 
     {
-      fact: "In the broken salt oval, one dried bookworm coil lies under Nala and the other beside her.",
+      fact: "Two dried bookworm coils lie in the broken salt oval.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
@@ -250,8 +250,8 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Swept together, the broken oval's salt makes a heap a foot and a half across, ankle-deep.",
-      knowers: ["lore-disclosure/game-master"],
+      fact: "Half of Nala's salt heap remains ankle-deep; the rest lies scattered thin across the floor.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The chewed broom still sweeps, its bristles bitten ragged down one side.",
