@@ -2,11 +2,19 @@ import { readFileSync } from "node:fs"
 import { constants } from "node:os"
 import { saidBy } from "akasha/code/type/narrowing/modules/said-by/said-by.module.code.ts"
 import { UNCLASSIFIED } from "akasha/command/modules/answering/command-answering.module.code.ts"
+import { valuesByPath } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { lore } from "akasha/story/lore/lore.page-type.ts"
+import { place } from "akasha/story/lore/place/place.page-type.ts"
+import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
+import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
+import { loreKnowers } from "akasha/story/lore/properties/lore-knowers.multi-relation-property.ts"
+import { loreDisclosure } from "akasha/story/lore-disclosure/lore-disclosure.page-type.ts"
 import {
   copiesOf,
   WITHHELD,
   withheldFor,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
+import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
 
 export const LEFT_OUT = "[a line of lore the world builder holds was left out here]"
 
@@ -63,7 +71,46 @@ function wordsOf(text: string): readonly string[] {
     .filter((one) => one !== "")
 }
 
-function runsOf(tells: readonly string[]): ReadonlyMap<number, ReadonlySet<string>> {
+const TOLD_TO = `${loreDisclosure.slug}/${gameMaster.slug}`
+
+function toldFactOf(one: unknown): string | null {
+  if (typeof one !== "object" || one === null) return null
+  const knowers: unknown = Reflect.get(one, loreKnowers.propertySlug)
+  if (!Array.isArray(knowers) || !knowers.includes(TOLD_TO)) return null
+  const fact: unknown = Reflect.get(one, loreFact.propertySlug)
+  return typeof fact === "string" ? fact : null
+}
+
+function toldProseIn(root: string): readonly string[] {
+  const found: string[] = []
+  for (const kind of [lore.slug, place.slug]) {
+    for (const value of valuesByPath(root, kind).values()) {
+      const facts = value[loreFacts.propertySlug]
+      if (!Array.isArray(facts)) continue
+      for (const one of facts) {
+        const fact = toldFactOf(one)
+        if (fact !== null) found.push(fact)
+      }
+    }
+  }
+  return found
+}
+
+function toldTaken(runs: Map<number, Set<string>>, told: readonly string[]): undefined {
+  for (const one of told) {
+    const words = wordsOf(one)
+    for (const [length, held] of runs) {
+      for (let at = 0; at + length <= words.length; at++) {
+        held.delete(words.slice(at, at + length).join(" "))
+      }
+    }
+  }
+}
+
+function runsOf(
+  tells: readonly string[],
+  told: readonly string[]
+): ReadonlyMap<number, ReadonlySet<string>> {
   const runs = new Map<number, Set<string>>()
   const add = (words: readonly string[]): undefined => {
     const held = runs.get(words.length) ?? new Set<string>()
@@ -78,6 +125,7 @@ function runsOf(tells: readonly string[]): ReadonlyMap<number, ReadonlySet<strin
     }
     for (let at = 0; at + RUN <= words.length; at++) add(words.slice(at, at + RUN))
   }
+  toldTaken(runs, told)
   return runs
 }
 
@@ -85,7 +133,7 @@ export function scrubberFor(root: string, agentId: string | null): Scrubber | nu
   const withheld = withheldFor(root, agentId)
   if (withheld.length === 0) return null
   const tells = copiesOf(root, withheld).flatMap((at) => tellsIn(readFileSync(at, "utf8")))
-  return { runs: runsOf(tells) }
+  return { runs: runsOf(tells, toldProseIn(root)) }
 }
 
 export function heldIn(line: string, scrubber: Scrubber): boolean {

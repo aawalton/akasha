@@ -2,6 +2,12 @@ import { afterAll, expect, test } from "bun:test"
 import { mkdirSync, writeFileSync } from "node:fs"
 import { dirname, join } from "node:path"
 import { scratchWorld } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { valueAlsoFiled } from "akasha/page/index/test-fixtures/filing/index-filing.test-fixture.code.ts"
+import { lore } from "akasha/story/lore/lore.page-type.ts"
+import { loreFact } from "akasha/story/lore/properties/lore-fact.text-property.ts"
+import { loreFacts } from "akasha/story/lore/properties/lore-facts.record-property.ts"
+import { loreKnowers } from "akasha/story/lore/properties/lore-knowers.multi-relation-property.ts"
+import { loreDisclosure } from "akasha/story/lore-disclosure/lore-disclosure.page-type.ts"
 import {
   heldIn,
   heldNotice,
@@ -23,6 +29,7 @@ import {
   RECORDER_SEAT,
   UNDER_GAME_MASTER,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.test-fixtures.ts"
+import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
 
 const scratch = scratchWorld()
 
@@ -109,6 +116,46 @@ test("a line naming the withheld page's path, or none of its prose, is kept", ()
   const scrubber = scrubberOf(sealedWorld())
   expect(heldIn(LORE_AT, scrubber)).toBe(false)
   expect(heldIn("the ferryman crossed the river at dawn", scrubber)).toBe(false)
+})
+
+const OPEN_AT = "story/world/pages/held/lore/open.lore.ts"
+
+const TOLD = "The ferryman remembers every crossing he has made"
+
+const UNTOLD = "Seven lanterns burn beneath the old stone bridge"
+
+function toldWorld(): string {
+  const root = sealedWorld()
+  const toGameMaster = [`${loreDisclosure.slug}/${gameMaster.slug}`]
+  valueAlsoFiled(root, lore.slug, [
+    {
+      path: OPEN_AT,
+      value: {
+        id: "01a0d600-0000-7000-8000-00000000000a",
+        type: `page-type/${lore.slug}`,
+        slug: "open",
+        [loreFacts.propertySlug]: [
+          { [loreFact.propertySlug]: TOLD, [loreKnowers.propertySlug]: toGameMaster },
+          {
+            [loreFact.propertySlug]: UNTOLD,
+            [loreKnowers.propertySlug]: ["character-player/held"],
+          },
+        ],
+      },
+    },
+  ])
+  return root
+}
+
+test("a fact told to the game master is kept where it shares words with a withheld fact", () => {
+  const scrubber = scrubberOf(toldWorld())
+  expect(heldIn(`      fact: "${TOLD}",`, scrubber)).toBe(false)
+  expect(heldIn(`"${FACT}"`, scrubber)).toBe(true)
+})
+
+test("a fact told to no game master lends no withheld words back", () => {
+  const scrubber = scrubberOf(toldWorld())
+  expect(heldIn(UNTOLD, scrubber)).toBe(true)
 })
 
 test("a stream split mid-line is judged by whole lines and keeps its last line's ending", () => {
