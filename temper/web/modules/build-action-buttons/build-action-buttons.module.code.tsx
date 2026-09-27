@@ -8,6 +8,10 @@ import {
 } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { buildActionButtonsBrowse } from "akasha/temper/web/phrase/pages/build-action-buttons-browse.temper-web-phrase.ts"
+import { buildActionButtonsRemix } from "akasha/temper/web/phrase/pages/build-action-buttons-remix.temper-web-phrase.ts"
+import { buildActionButtonsSetTarget } from "akasha/temper/web/phrase/pages/build-action-buttons-set-target.temper-web-phrase.ts"
 import { Copy, Menu, Search, Target } from "lucide-react"
 
 interface BuildActionButtonsProps {
@@ -23,11 +27,20 @@ export function BuildActionButtons({
   browseHref,
   remixDisabled,
 }: BuildActionButtonsProps) {
+  const phrase = usePhrase()
+  const browse = phrase(buildActionButtonsBrowse.slug)
   const actions = [
     ...(onSetTarget
-      ? [{ key: "setTarget", label: "Set Target", icon: Target, handler: onSetTarget }]
+      ? [
+          {
+            key: "setTarget",
+            label: phrase(buildActionButtonsSetTarget.slug),
+            icon: Target,
+            handler: onSetTarget,
+          },
+        ]
       : []),
-    { key: "remix", label: "Remix", icon: Copy, handler: onRemix },
+    { key: "remix", label: phrase(buildActionButtonsRemix.slug), icon: Copy, handler: onRemix },
   ]
 
   return (
@@ -38,7 +51,7 @@ export function BuildActionButtons({
           <Button variant="secondary" size="sm" className={cn("gap-2", surfaceClass(1))} asChild>
             <Link href={browseHref}>
               <Search className="h-4 w-4" />
-              <span className="@[1016px]:inline hidden">Browse</span>
+              <span className="@[1016px]:inline hidden">{browse}</span>
             </Link>
           </Button>
         )}
@@ -70,7 +83,7 @@ export function BuildActionButtons({
               <DropdownMenuItem asChild>
                 <Link href={browseHref}>
                   <Search className="h-4 w-4" />
-                  Browse
+                  {browse}
                 </Link>
               </DropdownMenuItem>
             )}

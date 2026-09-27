@@ -6,4 +6,10 @@ export const buildActionButtons = {
   slug: "build-action-buttons",
   definition: "the remix, set-target and browse controls a build header offers",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
