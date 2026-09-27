@@ -1,6 +1,7 @@
 import { readFileSync, statSync } from "node:fs"
 import { join } from "node:path"
 import type { Splice } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import { editsAt } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import {
   without,
   withProperty,
@@ -9,12 +10,16 @@ import {
   assignedIn,
   literalIn,
 } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
+import type { World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
 import {
+  type Asking,
+  foldedOver,
   type Landing,
   runMechanicalChange,
 } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 import { takenFor } from "akasha/command/argument/modules/taking/argument-taking.module.code.ts"
+import { draft as draftArgument } from "akasha/command/argument/pages/draft.argument.ts"
 import { fact as factArgument } from "akasha/command/argument/pages/fact.argument.ts"
 import { knower as knowerArgument } from "akasha/command/argument/pages/knower.argument.ts"
 import { page as pageArgument } from "akasha/command/argument/pages/page.argument.ts"
@@ -28,13 +33,21 @@ import {
   told,
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import { noPageSaid } from "akasha/command/modules/change-acting/change-acting.module.code.ts"
+import {
+  appending,
+  stamped,
+} from "akasha/command/modules/change-running/change-running.module.code.ts"
+import { mistaking } from "akasha/command/modules/refusing/refusing.module.code.ts"
 import { storyTell as page } from "akasha/command/pages/story/tell/story-tell.command.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
   listedAt,
   valueByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   putting,
   taking,
@@ -48,7 +61,7 @@ import { loreSecrets } from "akasha/story/lore/properties/lore-secrets.file-prop
 import { loreDisclosure } from "akasha/story/lore-disclosure/lore-disclosure.page-type.ts"
 import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
 
-const NAMED = [pageArgument, factArgument, knowerArgument] as const
+const NAMED = [pageArgument, factArgument, knowerArgument, draftArgument] as const
 
 const HELD = "jsonl"
 
@@ -68,7 +81,12 @@ export type Told = { readonly fact: string; readonly knowers: readonly string[] 
 
 export type Telling = { readonly told: readonly Told[]; readonly secrets: readonly string[] }
 
-type Taken = { readonly page: string; readonly fact: string; readonly knowers: readonly string[] }
+export type Taken = {
+  readonly page: string
+  readonly fact: string
+  readonly knowers: readonly string[]
+  readonly drafts: boolean
+}
 
 type Read = Taken | { readonly refused: string }
 
@@ -81,7 +99,32 @@ export function taken(argv: readonly string[], calledAs: string): Read {
   if (named === "") return { refused: `\`${pageArgument.said}\` names no page` }
   if (said === "") return { refused: `\`${factArgument.said}\` names no fact` }
   const knowers = held.knower.map((one) => one.trim()).filter((one) => one !== "")
-  return { page: named, fact: said, knowers }
+  return { page: named, fact: said, knowers, drafts: held.draft }
+}
+
+export type Reading = {
+  readonly listedAt: (pageTypeSlug: string, slug: string) => readonly { readonly path: string }[]
+  readonly valueAt: (path: string) => Value | null
+  readonly textOf: (path: string) => string | null
+}
+
+export function rootReading(root: string): Reading {
+  return {
+    listedAt: (pageTypeSlug, slug) => listedAt(root, pageTypeSlug, slug),
+    valueAt: (path) => valueByPath(root, path),
+    textOf: (path) => {
+      const at = join(root, path)
+      return statSync(at, { throwIfNoEntry: false }) === undefined ? null : readFileSync(at, UTF8)
+    },
+  }
+}
+
+export function worldReading(world: World): Reading {
+  return {
+    listedAt: (pageTypeSlug, slug) => world.index.listedAt(pageTypeSlug, slug),
+    valueAt: (path) => world.index.valueAt(path),
+    textOf: (path) => world.textOf(path),
+  }
 }
 
 export function knowersFor(named: readonly string[]): readonly string[] {
@@ -159,27 +202,85 @@ function recordsIn(held: unknown): readonly Told[] {
   return found
 }
 
-function secretsAt(root: string, at: string): readonly string[] {
-  const path = join(root, at)
-  if (statSync(path, { throwIfNoEntry: false }) === undefined) return []
-  return readFileSync(path, UTF8)
+function secretsAt(reading: Reading, at: string): readonly string[] {
+  const text = reading.textOf(at)
+  if (text === null) return []
+  return text
     .split(LINE)
     .filter((one) => one.trim() !== "")
     .map((one): unknown => JSON.parse(one))
     .filter((one): one is string => typeof one === "string")
 }
 
-function pathOf(root: string, named: string): string | null {
+function pathOf(reading: Reading, named: string): string | null {
   const address = addressIn(named)
   if (address.kind !== QUALIFIED) return null
-  return listedAt(root, address.pageTypeSlug, address.slug)[0]?.path ?? null
+  return reading.listedAt(address.pageTypeSlug, address.slug)[0]?.path ?? null
 }
 
-function lorePathOf(root: string, named: string): string | null {
+function lorePathOf(reading: Reading, named: string): string | null {
   const address = addressIn(named)
   if (address.kind !== QUALIFIED) return null
   if (address.pageTypeSlug !== lore.slug && address.pageTypeSlug !== place.slug) return null
-  return pathOf(root, named)
+  return pathOf(reading, named)
+}
+
+export function askedFor(held: Taken, reading: Reading): readonly Asking[] | string {
+  const at = lorePathOf(reading, held.page)
+  if (at === null) return `\`${held.page}\` names no lore page or place here`
+  for (const one of held.knowers) {
+    if (one !== GAME_MASTER && pathOf(reading, one) === null) {
+      return `\`${one}\` names no page here, so it cannot come to know a fact`
+    }
+  }
+  const secretsFile = besideAt(at, loreSecrets.propertySlug, HELD)
+  if (secretsFile === null) return `\`${at}\` can hold no secrets beside it`
+  const value = reading.valueAt(at)
+  const was: Telling = {
+    told: recordsIn(value?.[loreFacts.propertySlug]),
+    secrets: secretsAt(reading, secretsFile),
+  }
+  const now = toldIn(was, held.fact, held.knowers)
+  if (typeof now === "string") return now
+  const text = reading.textOf(at)
+  if (text === null) return `\`${at}\` holds no body to tell a fact on`
+  const body = bodyTelling(at, text, now)
+  if (body === null) return `\`${at}\` exports no object`
+  const asked = [taking(at), putting({ path: at, content: body })]
+  if (now.secrets.length !== was.secrets.length) {
+    asked.push(taking(secretsFile))
+    if (now.secrets.length > 0) {
+      const content = now.secrets.map((one) => `${JSON.stringify(one)}${LINE}`).join("")
+      asked.push(putting({ path: secretsFile, content }))
+    }
+  }
+  return asked
+}
+
+function toldLines(held: Taken): readonly string[] {
+  return [`told\t${held.page}`, ...knowersFor(held.knowers).map((one) => `knower\t${one}`)]
+}
+
+async function drafted(held: Taken, given: Given): Promise<Answer> {
+  const keeper = given.agentId === null ? null : agentPathOf(given.root, given.agentId)
+  if (keeper === null || editsAt(keeper) === null) {
+    return mistaking([noPageSaid(given.root, given.agentId)])
+  }
+  const why: { said: string | null } = { said: null }
+  const kept = await appending(given.root, keeper, given.agentId, false, async (world) => {
+    const asked = askedFor(held, worldReading(world))
+    if (typeof asked === "string") {
+      why.said = asked
+      return { edits: [], refused: asked }
+    }
+    return stamped(await foldedOver(world, asked), false, false)
+  })
+  if (why.said !== null) return refused(why.said, DATA)
+  if (kept.code !== 0) return kept
+  return told([
+    ...toldLines(held),
+    `the edits are kept beside ${keeper}, and \`akasha change apply\` lands them`,
+  ])
 }
 
 async function toldBy(
@@ -190,33 +291,9 @@ async function toldBy(
 ): Promise<Answer> {
   const held = taken(argv, given.calledAs)
   if ("refused" in held) return refused(held.refused, INPUT)
-  const at = lorePathOf(given.root, held.page)
-  if (at === null) return refused(`\`${held.page}\` names no lore page or place here`, DATA)
-  for (const one of held.knowers) {
-    if (one !== GAME_MASTER && pathOf(given.root, one) === null) {
-      return refused(`\`${one}\` names no page here, so it cannot come to know a fact`, DATA)
-    }
-  }
-  const secretsFile = besideAt(at, loreSecrets.propertySlug, HELD)
-  if (secretsFile === null) return refused(`\`${at}\` can hold no secrets beside it`, DATA)
-  const value = valueByPath(given.root, at)
-  const was: Telling = {
-    told: recordsIn(value?.[loreFacts.propertySlug]),
-    secrets: secretsAt(given.root, secretsFile),
-  }
-  const now = toldIn(was, held.fact, held.knowers)
-  if (typeof now === "string") return refused(now, DATA)
-  const text = readFileSync(join(given.root, at), UTF8)
-  const body = bodyTelling(at, text, now)
-  if (body === null) return refused(`\`${at}\` exports no object`, DATA)
-  const asked = [taking(at), putting({ path: at, content: body })]
-  if (now.secrets.length !== was.secrets.length) {
-    asked.push(taking(secretsFile))
-    if (now.secrets.length > 0) {
-      const content = now.secrets.map((one) => `${JSON.stringify(one)}${LINE}`).join("")
-      asked.push(putting({ path: secretsFile, content }))
-    }
-  }
+  if (held.drafts) return await drafted(held, given)
+  const asked = askedFor(held, rootReading(given.root))
+  if (typeof asked === "string") return refused(asked, DATA)
   const knowers = knowersFor(held.knowers)
   const landed = await landing(
     given.root,
@@ -225,7 +302,7 @@ async function toldBy(
     { agentId: given.agentId, writer: given.writer, done }
   )
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
-  return told([`told\t${held.page}`, ...knowers.map((one) => `knower\t${one}`)])
+  return told(toldLines(held))
 }
 
 export async function storyTell(

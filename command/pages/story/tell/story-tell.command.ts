@@ -41,11 +41,24 @@ export const storyTell = {
       decisionKind: "decision-kind/departure",
       statement: "A knower naming no page is refused.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting call keeps its edit beside the calling agent and commits nothing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A drafting call reads the page as the calling agent's kept edits leave it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Two drafting calls on one page keep both facts told.",
+    },
   ],
   name: "tell",
   arguments: [
     { argument: "argument/page", required: true },
     { argument: "argument/fact", required: true },
     { argument: "argument/knower", repeats: true },
+    { argument: "argument/draft" },
   ],
 } as const satisfies Command
