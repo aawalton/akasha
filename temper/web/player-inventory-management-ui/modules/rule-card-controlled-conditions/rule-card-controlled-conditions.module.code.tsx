@@ -2,7 +2,7 @@
 
 import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import type { ControlledRule } from "akasha/temper/items/rules/core/modules/inventory-rule-controlled/inventory-rule-controlled.module.code.ts"
-import { QUALITY_OPTIONS } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
+import { qualityOptions } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
 
 interface ControlledRuleConditionsProps {
   conditions: NonNullable<ControlledRule["conditions"]>
@@ -16,7 +16,7 @@ export function ControlledRuleConditions({ conditions }: ControlledRuleCondition
     chips.push({ label: `Target x${conditions.targetQuantity.toLocaleString()}` })
   if (conditions.maxQuality !== undefined) {
     const qualityLabel =
-      QUALITY_OPTIONS.find((q) => Number(q.value) === conditions.maxQuality)?.label ??
+      qualityOptions().find((q) => Number(q.value) === conditions.maxQuality)?.label ??
       String(conditions.maxQuality)
     const op = conditions.qualityOp ?? "<="
     chips.push({ label: `Quality ${op} ${qualityLabel}` })

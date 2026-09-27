@@ -1,3 +1,7 @@
+import {
+  type EquipmentQualityOptionId,
+  equipmentQualities,
+} from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import type { ComparisonOpId } from "akasha/temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
@@ -6,16 +10,16 @@ import type {
 } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 
 interface QualityOption extends FilterOption {
-  variant: "normal" | "fine" | "superior" | "epic" | "legendary"
+  variant: Exclude<EquipmentQualityOptionId, "no-quality">
 }
 
-export const QUALITY_OPTIONS: QualityOption[] = [
-  { value: "1", label: "Normal", variant: "normal" },
-  { value: "2", label: "Fine", variant: "fine" },
-  { value: "3", label: "Superior", variant: "superior" },
-  { value: "4", label: "Epic", variant: "epic" },
-  { value: "5", label: "Legendary", variant: "legendary" },
-]
+export function qualityOptions(): QualityOption[] {
+  return equipmentQualities().list.flatMap((quality) =>
+    quality.available && quality.id !== "no-quality"
+      ? [{ value: String(quality.esoDisplayQuality), label: quality.name, variant: quality.id }]
+      : []
+  )
+}
 
 const read = (c: CategoryRule["conditions"]) => c?.maxQuality
 const readOp = (c: CategoryRule["conditions"]): ComparisonOpId | undefined => c?.qualityOp

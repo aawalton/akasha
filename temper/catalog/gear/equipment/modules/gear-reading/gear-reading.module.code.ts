@@ -20,7 +20,7 @@ type Row = Readonly<Record<string, unknown>>
 type Read = readonly [string, readonly string[]]
 
 export const GEAR_READS: readonly Read[] = [
-  [temperQuality.slug, ["slug", "title", "available", "hashPlace"]],
+  [temperQuality.slug, ["slug", "title", "available", "hashPlace", "esoDisplayQuality"]],
   [temperArmorSlot.slug, ["slug", "title", "icon", "hashPlace"]],
   [temperJewelrySlot.slug, ["slug", "title", "icon", "jewelryType", "hashPlace"]],
   [temperWeaponSlot.slug, ["slug", "title", "icon", "displayOrder"]],

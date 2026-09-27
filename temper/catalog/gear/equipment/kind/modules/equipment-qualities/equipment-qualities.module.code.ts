@@ -15,6 +15,7 @@ interface EquipmentQualityTemplate {
   readonly id: EquipmentQualityOptionId
   readonly name: string
   readonly available: boolean
+  readonly esoDisplayQuality: number
 }
 
 type Qualities = DataFile<EquipmentQualityOptionId, EquipmentQualityTemplate>
@@ -35,12 +36,16 @@ function placed(row: Row): readonly [number, EquipmentQualityTemplate] {
   const at = `the quality page \`${String(row.slug)}\``
   if (typeof row.hashPlace !== "number") throw new Error(`${at} states no hash place`)
   if (typeof row.title !== "string") throw new Error(`${at} states no title`)
+  if (typeof row.esoDisplayQuality !== "number") {
+    throw new Error(`${at} states no ESO display quality`)
+  }
   return [
     row.hashPlace,
     {
       id: String(row.slug) as EquipmentQualityOptionId,
       name: row.title,
       available: row.available === true,
+      esoDisplayQuality: row.esoDisplayQuality,
     },
   ]
 }

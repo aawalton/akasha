@@ -11,10 +11,10 @@ import { SearchButton } from "akasha/design/interface/pattern/modules/search-but
 import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import { SortButton } from "akasha/design/interface/pattern/modules/sort-button/sort-button.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { qualityOptions } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
 import { traitOptionsByFamily } from "akasha/temper/items/rules/core/modules/traits-filter/traits-filter.module.code.ts"
 import {
   type InventoryViewFilterDef,
-  QUALITY_FILTER_ITEMS,
   SORT_OPTIONS,
   type SortField,
   type ViewFilterId,
@@ -97,15 +97,14 @@ const INVENTORY_VIEW_FILTERS: InventoryViewFilterDef[] = [
     label: "Quality",
     hasValue: ({ qualities }) => qualities.length > 0,
     renderGroup: ({ qualities, onQualitiesChange }: ViewFilterPopoverProps) => {
-      const selectedItems = QUALITY_FILTER_ITEMS.filter((item) =>
-        qualities.includes(Number(item.value))
-      )
+      const offered = qualityOptions()
+      const selectedItems = offered.filter((item) => qualities.includes(Number(item.value)))
       const handleSelect = (items: readonly BadgeToggleGroupItem[]) => {
         onQualitiesChange(items.map((item) => Number(item.value)))
       }
       return (
         <BadgeToggleGroup
-          items={QUALITY_FILTER_ITEMS}
+          items={offered}
           value={selectedItems}
           onSelect={handleSelect}
           unselectedVariant="elevation-muted"

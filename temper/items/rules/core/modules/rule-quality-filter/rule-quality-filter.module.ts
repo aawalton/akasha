@@ -11,5 +11,9 @@ export const ruleQualityFilter = {
       decisionKind: "decision-kind/departure",
       statement: "This filter reads and writes the conditions `maxQuality` and `qualityOp`.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The qualities offered are the graded quality pages, in hash-place order.",
+    },
   ],
 } as const satisfies Module

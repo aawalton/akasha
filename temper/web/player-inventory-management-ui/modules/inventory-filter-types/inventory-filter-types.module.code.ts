@@ -1,9 +1,9 @@
-import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import type {
   SortDirection,
   SortOption,
 } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { ITEM_ACTION_VALUES } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { qualityOptions } from "akasha/temper/items/rules/core/modules/rule-quality-filter/rule-quality-filter.module.code.ts"
 import type { ReactNode } from "react"
 
 export type SortField = "name" | "quality" | "count" | "value"
@@ -46,30 +46,21 @@ export const SORT_OPTIONS: SortOption<SortField>[] = [
   { value: "value", label: "Value", defaultDirection: "desc" },
 ]
 
-export const QUALITY_FILTER_ITEMS: BadgeToggleGroupItem[] = [
-  { value: "1", label: "Normal", variant: "normal" },
-  { value: "2", label: "Fine", variant: "fine" },
-  { value: "3", label: "Superior", variant: "superior" },
-  { value: "4", label: "Epic", variant: "epic" },
-  { value: "5", label: "Legendary", variant: "legendary" },
-]
-
 export function isValidSortField(value: unknown): value is SortField {
   return value === "name" || value === "quality" || value === "count" || value === "value"
+}
+
+function offeredQualities(nums: readonly number[]): readonly number[] | undefined {
+  const offered = new Set(qualityOptions().map((option) => Number(option.value)))
+  return nums.every((n) => offered.has(n)) ? nums : undefined
 }
 
 export function isValidQualities(value: unknown): readonly number[] | undefined {
   if (typeof value === "string") {
     if (value === "") return []
-    const nums = value.split(",").map(Number)
-    if (nums.every((n) => n >= 1 && n <= 5)) return nums
-    return undefined
+    return offeredQualities(value.split(",").map(Number))
   }
-  if (Array.isArray(value)) {
-    const nums = value.map(Number)
-    if (nums.every((n) => n >= 1 && n <= 5)) return nums
-    return undefined
-  }
+  if (Array.isArray(value)) return offeredQualities(value.map(Number))
   return undefined
 }
 
