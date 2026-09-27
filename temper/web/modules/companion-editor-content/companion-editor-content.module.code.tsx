@@ -45,17 +45,25 @@ import { useCompanionPartnerBuildUrl } from "akasha/temper/web/modules/use-compa
 import { useCompanionSetTarget } from "akasha/temper/web/modules/use-companion-set-target/use-companion-set-target.module.code.ts"
 import { useCompanionUpdate } from "akasha/temper/web/modules/use-companion-update/use-companion-update.module.code.ts"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionEditorContentCompanion } from "akasha/temper/web/phrase/pages/companion-editor-content-companion.temper-web-phrase.ts"
+import { companionEditorContentEquipment } from "akasha/temper/web/phrase/pages/companion-editor-content-equipment.temper-web-phrase.ts"
+import { companionEditorContentGeneral } from "akasha/temper/web/phrase/pages/companion-editor-content-general.temper-web-phrase.ts"
+import { companionEditorContentRemixFailed } from "akasha/temper/web/phrase/pages/companion-editor-content-remix-failed.temper-web-phrase.ts"
+import { companionEditorContentRemixName } from "akasha/temper/web/phrase/pages/companion-editor-content-remix-name.temper-web-phrase.ts"
+import { companionEditorContentSkills } from "akasha/temper/web/phrase/pages/companion-editor-content-skills.temper-web-phrase.ts"
+import { companionEditorContentStats } from "akasha/temper/web/phrase/pages/companion-editor-content-stats.temper-web-phrase.ts"
 import { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { BarChart3, Info, ShieldHalf, Swords, User } from "lucide-react"
 import { useEffect, useState } from "react"
 import { toast } from "sonner"
 
-const EDITOR_TAB_LABELS: Record<string, string> = {
-  general: "General",
-  companion: "Companion",
-  equipment: "Equipment",
-  skills: "Skills",
-  stats: "Stats",
+const EDITOR_TAB_PHRASES: Readonly<Record<string, { readonly slug: string }>> = {
+  general: companionEditorContentGeneral,
+  companion: companionEditorContentCompanion,
+  equipment: companionEditorContentEquipment,
+  skills: companionEditorContentSkills,
+  stats: companionEditorContentStats,
 }
 
 interface CompanionEditorContentProps {
@@ -64,6 +72,11 @@ interface CompanionEditorContentProps {
 
 export function CompanionEditorContent({ initialTab }: CompanionEditorContentProps) {
   const build = useCompanion()
+  const phrase = usePhrase()
+  const tabLabel = (tab: string) => {
+    const tabPhrase = EDITOR_TAB_PHRASES[tab]
+    return tabPhrase === undefined ? tab : phrase(tabPhrase.slug)
+  }
   const router = usePagesUIRouter()
   const { buildId, isOwner, visibility, name, description, updateMeta } = useCompanionMetadata()
   const readOnly = !isOwner || visibility === "live"
@@ -93,14 +106,19 @@ export function CompanionEditorContent({ initialTab }: CompanionEditorContentPro
     if (isRemixing) return
     setIsRemixing(true)
     try {
-      const remixedBuild: CompanionState = { ...build, name: `${build.name} (Copy)` }
+      const remixedBuild: CompanionState = {
+        ...build,
+        name: phrase(companionEditorContentRemixName.slug, { name: build.name }),
+      }
       const newBuildHash = encodeCompanion(remixedBuild)
       const newBuildMetadata = extractCompanionMetadata(remixedBuild)
       const newId = uuidVersion7()
       await remix({ sourceId: buildId, newId, newBuildHash, newBuildMetadata })
       router.push(`${companionUrl(toBuildId(newId), remixedBuild.name)}?tab=companion`)
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to remix build")
+      toast.error(
+        error instanceof Error ? error.message : phrase(companionEditorContentRemixFailed.slug)
+      )
     } finally {
       setIsRemixing(false)
     }
@@ -170,14 +188,18 @@ export function CompanionEditorContent({ initialTab }: CompanionEditorContentPro
               cols >= 2 ? "grid-cols-4" : "grid-cols-5"
             )}
           >
-            <PageTabsTrigger value="general" icon={<Info />} label="General" />
-            <PageTabsTrigger value="companion" icon={<User />} label="Companion" />
-            <PageTabsTrigger value="equipment" icon={<ShieldHalf />} label="Equipment" />
-            <PageTabsTrigger value="skills" icon={<Swords />} label="Skills" />
+            <PageTabsTrigger value="general" icon={<Info />} label={tabLabel("general")} />
+            <PageTabsTrigger value="companion" icon={<User />} label={tabLabel("companion")} />
+            <PageTabsTrigger
+              value="equipment"
+              icon={<ShieldHalf />}
+              label={tabLabel("equipment")}
+            />
+            <PageTabsTrigger value="skills" icon={<Swords />} label={tabLabel("skills")} />
             <PageTabsTrigger
               value="stats"
               icon={<BarChart3 />}
-              label="Stats"
+              label={tabLabel("stats")}
               className={cols >= 2 ? "hidden" : undefined}
             />
           </TabsList>
@@ -186,7 +208,7 @@ export function CompanionEditorContent({ initialTab }: CompanionEditorContentPro
         <PageLayout.Content>
           <div className="flex flex-col gap-6">
             <PageTabHeader
-              title={EDITOR_TAB_LABELS[activeTab] ?? activeTab}
+              title={tabLabel(activeTab)}
               subtitle={
                 activeTab === "equipment" && !readOnly ? (
                   <GlobalCompanionBulkEditTags
