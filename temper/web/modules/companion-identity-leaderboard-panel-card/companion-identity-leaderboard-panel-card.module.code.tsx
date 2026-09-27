@@ -29,6 +29,12 @@ import {
 import { companionUrl } from "akasha/temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { LEADERBOARD_COLUMNS } from "akasha/temper/web/modules/leaderboard-columns/leaderboard-columns.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionIdentityLeaderboardPanelCardCompositeScore } from "akasha/temper/web/phrase/pages/companion-identity-leaderboard-panel-card-composite-score.temper-web-phrase.ts"
+import { companionIdentityLeaderboardPanelCardRole } from "akasha/temper/web/phrase/pages/companion-identity-leaderboard-panel-card-role.temper-web-phrase.ts"
+import { companionIdentityLeaderboardPanelCardScore } from "akasha/temper/web/phrase/pages/companion-identity-leaderboard-panel-card-score.temper-web-phrase.ts"
+import { companionIdentityLeaderboardPanelCardScoreDescription } from "akasha/temper/web/phrase/pages/companion-identity-leaderboard-panel-card-score-description.temper-web-phrase.ts"
+import { companionIdentityLeaderboardPanelCardTitle } from "akasha/temper/web/phrase/pages/companion-identity-leaderboard-panel-card-title.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 interface CompanionIdentityLeaderboardPanelCardProps {
@@ -46,6 +52,7 @@ export function CompanionIdentityLeaderboardPanelCard({
   sortedCombos,
   onRoleClick,
 }: CompanionIdentityLeaderboardPanelCardProps) {
+  const phrase = usePhrase()
   const companionName = getCompanionName(companionId)
 
   const rows = useMemo(() => {
@@ -69,16 +76,22 @@ export function CompanionIdentityLeaderboardPanelCard({
   if (rows.length === 0) return null
 
   return (
-    <PanelCard id={id} collapsible title={`${companionName} Leaderboard`}>
+    <PanelCard
+      id={id}
+      collapsible
+      title={phrase(companionIdentityLeaderboardPanelCardTitle.slug, { companion: companionName })}
+    >
       <Table>
         <TableHeader>
           <TableRow>
             <TableHead className="w-0 text-left">#</TableHead>
-            <TableHead className="w-0 text-left">Role</TableHead>
+            <TableHead className="w-0 text-left">
+              {phrase(companionIdentityLeaderboardPanelCardRole.slug)}
+            </TableHead>
             <TableColumnLabel
-              label="Score"
-              fullName="Composite Score"
-              description="Combined score across all selected roles"
+              label={phrase(companionIdentityLeaderboardPanelCardScore.slug)}
+              fullName={phrase(companionIdentityLeaderboardPanelCardCompositeScore.slug)}
+              description={phrase(companionIdentityLeaderboardPanelCardScoreDescription.slug)}
             />
             {LEADERBOARD_COLUMNS.map((col) => (
               <TableColumnLabel
