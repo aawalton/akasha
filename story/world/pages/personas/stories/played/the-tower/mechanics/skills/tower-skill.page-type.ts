@@ -16,8 +16,6 @@ export const towerSkill = {
     "text-property/tower-skill-axis",
     "relation-property/tower-skill-element",
     "page-type/tower-skill-rank",
-    "module/tower-skill-advance",
-    "module/tower-skill-bonus",
   ],
   properties: [
     { pageProperty: "relation-property/tower-skill-character", required: true, many: false },
