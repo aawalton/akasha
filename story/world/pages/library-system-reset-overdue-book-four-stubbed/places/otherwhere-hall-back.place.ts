@@ -301,6 +301,14 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "With three small bookworms dried, two small ones and the big one are still loose.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
       fact: "Further back in the gloom beyond the columns, wet chewing still goes on.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
