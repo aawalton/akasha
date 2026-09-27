@@ -12,4 +12,5 @@ export const image3e6aede6a9e81b83 = {
   inputImage: "image/image-db929a98a98dee9c",
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  settingTags: ["setting-tag/market"],
 } as const satisfies Image

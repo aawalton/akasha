@@ -25,4 +25,10 @@ export const image3dd6104c59a4a9e9 = {
     "torch-vision 0.24.1",
   ],
   subjects: "F",
+  settingTags: [
+    "setting-tag/mountains",
+    "setting-tag/forest",
+    "setting-tag/outdoor",
+    "setting-tag/sunset",
+  ],
 } as const satisfies Image

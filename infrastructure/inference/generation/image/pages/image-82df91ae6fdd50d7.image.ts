@@ -6,4 +6,11 @@ export const image82df91ae6fdd50d7 = {
   slug: "image-82df91ae6fdd50d7",
   subjects: "FFM",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: [
+    "setting-tag/town",
+    "setting-tag/outdoor",
+    "setting-tag/city-street",
+    "setting-tag/daytime",
+    "setting-tag/park",
+  ],
 } as const satisfies Image

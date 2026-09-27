@@ -7,4 +7,5 @@ export const imageD30da57708d85cb6 = {
   title: "Zadi cover L4",
   relationshipLevel: "closeness-level/level-4",
   subjects: "F",
+  settingTags: ["setting-tag/bedroom", "setting-tag/candlelight"],
 } as const satisfies Image

@@ -7,4 +7,5 @@ export const image252ed27a3e5ff748 = {
   title: "Nova cover L4",
   relationshipLevel: "closeness-level/level-4",
   subjects: "F",
+  settingTags: ["setting-tag/bedroom", "setting-tag/library"],
 } as const satisfies Image

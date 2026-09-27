@@ -13,4 +13,10 @@ export const image837a4abafd25a200 = {
   inputImage: "image/image-2cd145459966657a",
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  settingTags: [
+    "setting-tag/outdoor",
+    "setting-tag/park",
+    "setting-tag/cherry-blossoms",
+    "setting-tag/daytime",
+  ],
 } as const satisfies Image

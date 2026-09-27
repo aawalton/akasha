@@ -12,4 +12,11 @@ export const imageB305a39754eff288 = {
   inputImage: "image/image-202108e389c82e2a",
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: [
+    "setting-tag/dock",
+    "setting-tag/night",
+    "setting-tag/water",
+    "setting-tag/outdoor",
+    "setting-tag/candlelight",
+  ],
 } as const satisfies Image

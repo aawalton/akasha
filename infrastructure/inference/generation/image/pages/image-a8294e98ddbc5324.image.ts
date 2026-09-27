@@ -7,4 +7,5 @@ export const imageA8294e98ddbc5324 = {
   grade: "B+",
   subjects: "FF",
   relationshipLevel: "closeness-level/level-3",
+  settingTags: ["setting-tag/indoor", "setting-tag/temple"],
 } as const satisfies Image

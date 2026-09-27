@@ -14,4 +14,5 @@ export const image181d7f5770b7b65d = {
   quantize: 8,
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/plain-background", "setting-tag/studio"],
 } as const satisfies Image

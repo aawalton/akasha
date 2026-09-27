@@ -6,4 +6,10 @@ export const imageC4d9d2f3552ea7d5 = {
   slug: "image-c4d9d2f3552ea7d5",
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: [
+    "setting-tag/outdoor",
+    "setting-tag/field",
+    "setting-tag/mountains",
+    "setting-tag/daytime",
+  ],
 } as const satisfies Image

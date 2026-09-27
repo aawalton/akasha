@@ -13,4 +13,5 @@ export const imageDee54238351213ba = {
   inputImage: "image/image-f25c882c9b062373",
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/city"],
 } as const satisfies Image

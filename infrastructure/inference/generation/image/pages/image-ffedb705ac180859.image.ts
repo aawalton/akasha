@@ -5,4 +5,5 @@ export const imageFfedb705ac180859 = {
   type: "page-type/image",
   slug: "image-ffedb705ac180859",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/cave", "setting-tag/dimly-lit"],
 } as const satisfies Image

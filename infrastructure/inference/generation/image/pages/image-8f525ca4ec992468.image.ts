@@ -14,4 +14,5 @@ export const image8f525ca4ec992468 = {
   inputImage: "image/image-bbcf77da1a6286b6",
   referenceImages: ["image/image-83f842a301fa4bd9"],
   subjects: "F",
+  settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
 } as const satisfies Image

@@ -6,4 +6,5 @@ export const imageFa195e768cf4b7b3 = {
   slug: "image-fa195e768cf4b7b3",
   subjects: "FMM",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/forest"],
 } as const satisfies Image

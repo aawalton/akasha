@@ -20,4 +20,10 @@ export const image6712b1b5ee41db94 = {
   ],
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  settingTags: [
+    "setting-tag/outdoor",
+    "setting-tag/night",
+    "setting-tag/mountains",
+    "setting-tag/nature",
+  ],
 } as const satisfies Image

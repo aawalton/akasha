@@ -20,4 +20,5 @@ export const imageD45c9c11c336519c = {
   ],
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
 } as const satisfies Image

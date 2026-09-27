@@ -7,4 +7,5 @@ export const image694a93c5b38a798c = {
   title: "Ceri cover L3",
   relationshipLevel: "closeness-level/level-3",
   subjects: "F",
+  settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
 } as const satisfies Image

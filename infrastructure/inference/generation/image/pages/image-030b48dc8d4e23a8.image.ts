@@ -5,4 +5,5 @@ export const image030b48dc8d4e23a8 = {
   type: "page-type/image",
   slug: "image-030b48dc8d4e23a8",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/dungeon", "setting-tag/cave", "setting-tag/ruins"],
 } as const satisfies Image

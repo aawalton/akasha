@@ -7,4 +7,10 @@ export const image3c4d098a72b4b2ad = {
   title: "Atlas cover L2",
   relationshipLevel: "closeness-level/level-2",
   subjects: "F",
+  settingTags: [
+    "setting-tag/outdoor",
+    "setting-tag/mountains",
+    "setting-tag/rocks",
+    "setting-tag/daytime",
+  ],
 } as const satisfies Image

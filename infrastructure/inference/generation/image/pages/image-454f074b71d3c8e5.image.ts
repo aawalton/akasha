@@ -17,4 +17,5 @@ export const image454f074b71d3c8e5 = {
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  settingTags: ["setting-tag/dark-background"],
 } as const satisfies Image

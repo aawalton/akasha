@@ -6,4 +6,5 @@ export const image72c9c4f55d077c40 = {
   slug: "image-72c9c4f55d077c40",
   title: "Cookies",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/indoor"],
 } as const satisfies Image

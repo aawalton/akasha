@@ -7,4 +7,5 @@ export const image4e247732c8fb8208 = {
   title: "Castello cheese, 2 gouda + 1 havarti (63 g)",
   grade: "B",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/car"],
 } as const satisfies Image

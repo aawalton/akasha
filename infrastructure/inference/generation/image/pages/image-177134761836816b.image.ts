@@ -7,4 +7,5 @@ export const image177134761836816b = {
   title: "Cheese cubes",
   grade: "B",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/car", "setting-tag/indoor"],
 } as const satisfies Image

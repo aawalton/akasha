@@ -13,4 +13,5 @@ export const image24547dc98a9026a0 = {
   referenceImages: ["image/image-202108e389c82e2a"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/dock", "setting-tag/night", "setting-tag/outdoor", "setting-tag/lake"],
 } as const satisfies Image

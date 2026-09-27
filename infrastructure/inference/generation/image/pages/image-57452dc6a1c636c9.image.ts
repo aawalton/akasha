@@ -5,4 +5,5 @@ export const image57452dc6a1c636c9 = {
   type: "page-type/image",
   slug: "image-57452dc6a1c636c9",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/luxury"],
 } as const satisfies Image

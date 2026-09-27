@@ -6,4 +6,5 @@ export const image64563fcd2ae513f2 = {
   slug: "image-64563fcd2ae513f2",
   title: "Mini sweet peppers",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/indoor", "setting-tag/kitchen"],
 } as const satisfies Image

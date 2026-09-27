@@ -5,4 +5,5 @@ export const image6860053fd9ee501e = {
   type: "page-type/image",
   slug: "image-6860053fd9ee501e",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/snow", "setting-tag/forest", "setting-tag/outdoor"],
 } as const satisfies Image

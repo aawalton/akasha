@@ -8,4 +8,10 @@ export const image2a8889d4dc156c54 = {
   persona: "persona/abby",
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  settingTags: [
+    "setting-tag/restaurant",
+    "setting-tag/dining-room",
+    "setting-tag/indoor",
+    "setting-tag/night",
+  ],
 } as const satisfies Image

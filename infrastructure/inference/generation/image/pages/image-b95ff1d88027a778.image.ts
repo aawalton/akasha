@@ -12,4 +12,5 @@ export const imageB95ff1d88027a778 = {
   inputImage: "image/image-99491d8c9ca3fade",
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: ["setting-tag/studio", "setting-tag/indoor"],
 } as const satisfies Image

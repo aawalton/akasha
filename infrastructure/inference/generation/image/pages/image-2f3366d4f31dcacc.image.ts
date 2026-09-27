@@ -5,4 +5,5 @@ export const image2f3366d4f31dcacc = {
   type: "page-type/image",
   slug: "image-2f3366d4f31dcacc",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
 } as const satisfies Image

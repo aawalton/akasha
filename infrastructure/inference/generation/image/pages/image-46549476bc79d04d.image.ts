@@ -7,4 +7,10 @@ export const image46549476bc79d04d = {
   persona: "persona/ali",
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: [
+    "setting-tag/outdoor",
+    "setting-tag/park",
+    "setting-tag/nature",
+    "setting-tag/daytime",
+  ],
 } as const satisfies Image

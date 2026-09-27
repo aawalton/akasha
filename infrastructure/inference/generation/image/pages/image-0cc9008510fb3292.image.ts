@@ -8,4 +8,5 @@ export const image0cc9008510fb3292 = {
   persona: "persona/abby",
   subjects: "F",
   relationshipLevel: "closeness-level/level-4",
+  settingTags: ["setting-tag/balcony", "setting-tag/outdoor", "setting-tag/home"],
 } as const satisfies Image

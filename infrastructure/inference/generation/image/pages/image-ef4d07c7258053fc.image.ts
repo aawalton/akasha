@@ -14,4 +14,5 @@ export const imageEf4d07c7258053fc = {
   serviceVersions: ["mlx 0.31.0"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/night"],
 } as const satisfies Image

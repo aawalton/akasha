@@ -6,4 +6,5 @@ export const imageD4ee569cbab4cfa3 = {
   slug: "image-d4ee569cbab4cfa3",
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/sunset"],
 } as const satisfies Image

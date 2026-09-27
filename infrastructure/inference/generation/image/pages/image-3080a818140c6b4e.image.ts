@@ -5,4 +5,10 @@ export const image3080a818140c6b4e = {
   type: "page-type/image",
   slug: "image-3080a818140c6b4e",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: [
+    "setting-tag/outdoor",
+    "setting-tag/mountains",
+    "setting-tag/snow",
+    "setting-tag/lake",
+  ],
 } as const satisfies Image

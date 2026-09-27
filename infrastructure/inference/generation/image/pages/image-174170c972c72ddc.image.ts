@@ -7,4 +7,5 @@ export const image174170c972c72ddc = {
   grade: "B",
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  settingTags: ["setting-tag/night", "setting-tag/outdoor"],
 } as const satisfies Image

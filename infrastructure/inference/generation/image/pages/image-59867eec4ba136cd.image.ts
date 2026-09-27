@@ -16,4 +16,10 @@ export const image59867eec4ba136cd = {
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: [
+    "setting-tag/bathroom",
+    "setting-tag/bathtub",
+    "setting-tag/candlelight",
+    "setting-tag/hot-spring",
+  ],
 } as const satisfies Image

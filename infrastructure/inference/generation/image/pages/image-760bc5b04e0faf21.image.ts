@@ -7,4 +7,5 @@ export const image760bc5b04e0faf21 = {
   title: "Erin cover L3",
   relationshipLevel: "closeness-level/level-3",
   subjects: "F",
+  settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/dimly-lit"],
 } as const satisfies Image

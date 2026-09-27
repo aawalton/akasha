@@ -22,4 +22,10 @@ export const image6224e383f0177065 = {
     "torch-vision 0.24.1",
   ],
   subjects: "F",
+  settingTags: [
+    "setting-tag/night",
+    "setting-tag/mountains",
+    "setting-tag/outdoor",
+    "setting-tag/nature",
+  ],
 } as const satisfies Image

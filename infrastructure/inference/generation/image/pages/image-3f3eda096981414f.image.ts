@@ -5,4 +5,5 @@ export const image3f3eda096981414f = {
   type: "page-type/image",
   slug: "image-3f3eda096981414f",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const image89fef63445e3935d = {
   referenceImages: ["image/image-21fb7f3e04b32963"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
+  settingTags: ["setting-tag/abstract-background", "setting-tag/studio"],
 } as const satisfies Image

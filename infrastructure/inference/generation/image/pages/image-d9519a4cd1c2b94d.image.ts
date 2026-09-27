@@ -5,4 +5,5 @@ export const imageD9519a4cd1c2b94d = {
   type: "page-type/image",
   slug: "image-d9519a4cd1c2b94d",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/office"],
 } as const satisfies Image

@@ -5,4 +5,5 @@ export const image01ef338c9f6de394 = {
   type: "page-type/image",
   slug: "image-01ef338c9f6de394",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/city-street", "setting-tag/night", "setting-tag/city"],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const image110cadcb620bd726 = {
   inputImage: "image/image-4bce3559375e0c86",
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
+  settingTags: ["setting-tag/studio", "setting-tag/neon-lights"],
 } as const satisfies Image

@@ -7,4 +7,5 @@ export const image8105e06772c7004e = {
   title: "Akasha — anchor",
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/sunset"],
 } as const satisfies Image

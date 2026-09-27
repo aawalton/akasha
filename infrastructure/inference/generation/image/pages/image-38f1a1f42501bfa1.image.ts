@@ -22,4 +22,5 @@ export const image38f1a1f42501bfa1 = {
     "torch-vision 0.24.1",
   ],
   subjects: "F",
+  settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/cabin"],
 } as const satisfies Image

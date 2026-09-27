@@ -17,4 +17,5 @@ export const image2ee9a694faff5f0e = {
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
+  settingTags: ["setting-tag/indoor", "setting-tag/living-room", "setting-tag/fireplace"],
 } as const satisfies Image

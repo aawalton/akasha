@@ -12,4 +12,5 @@ export const imageF01eb0902a95d9a7 = {
   inputImage: "image/image-ec69b5a855800bb8",
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
 } as const satisfies Image

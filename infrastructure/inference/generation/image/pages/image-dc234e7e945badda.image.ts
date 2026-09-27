@@ -5,4 +5,5 @@ export const imageDc234e7e945badda = {
   type: "page-type/image",
   slug: "image-dc234e7e945badda",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/abstract-background"],
 } as const satisfies Image

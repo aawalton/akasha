@@ -7,4 +7,5 @@ export const imageF849129a830f6990 = {
   title: "QR code for audhdalan.com",
   grade: "B",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/abstract-background"],
 } as const satisfies Image

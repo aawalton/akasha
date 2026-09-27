@@ -7,4 +7,5 @@ export const image51770384ec293e7e = {
   title: "Nova among the books",
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: ["setting-tag/bedroom", "setting-tag/library"],
 } as const satisfies Image

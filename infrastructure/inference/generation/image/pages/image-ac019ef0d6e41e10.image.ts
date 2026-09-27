@@ -13,4 +13,5 @@ export const imageAc019ef0d6e41e10 = {
   referenceImages: ["image/image-2cd145459966657a"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/sunset"],
 } as const satisfies Image

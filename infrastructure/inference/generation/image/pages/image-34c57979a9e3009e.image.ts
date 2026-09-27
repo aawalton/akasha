@@ -6,4 +6,5 @@ export const image34c57979a9e3009e = {
   slug: "image-34c57979a9e3009e",
   title: "Marbled Mint Cookies & Cream ice cream",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
 } as const satisfies Image

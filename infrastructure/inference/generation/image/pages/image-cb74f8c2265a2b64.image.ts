@@ -20,4 +20,5 @@ export const imageCb74f8c2265a2b64 = {
   ],
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  settingTags: ["setting-tag/outdoor", "setting-tag/city", "setting-tag/park"],
 } as const satisfies Image

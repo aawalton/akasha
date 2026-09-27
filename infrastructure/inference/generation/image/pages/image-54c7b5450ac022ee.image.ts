@@ -6,4 +6,5 @@ export const image54c7b5450ac022ee = {
   slug: "image-54c7b5450ac022ee",
   title: "Melon (honeydew + cantaloupe), 2 cups",
   relationshipLevel: "closeness-level/level-4",
+  settingTags: ["setting-tag/car", "setting-tag/indoor"],
 } as const satisfies Image

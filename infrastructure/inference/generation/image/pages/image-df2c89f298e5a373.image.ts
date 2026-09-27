@@ -7,4 +7,5 @@ export const imageDf2c89f298e5a373 = {
   grade: "B+",
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
+  settingTags: ["setting-tag/bathroom", "setting-tag/bathtub"],
 } as const satisfies Image

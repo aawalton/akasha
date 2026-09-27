@@ -7,4 +7,5 @@ export const imageB76ab03f19af0c86 = {
   title: "Echo cover L5",
   relationshipLevel: "closeness-level/level-5",
   subjects: "F",
+  settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/balcony"],
 } as const satisfies Image

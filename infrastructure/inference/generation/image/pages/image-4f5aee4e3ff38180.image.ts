@@ -7,4 +7,5 @@ export const image4f5aee4e3ff38180 = {
   title: "Nimue cover L2",
   relationshipLevel: "closeness-level/level-2",
   subjects: "F",
+  settingTags: ["setting-tag/indoor", "setting-tag/party", "setting-tag/castle"],
 } as const satisfies Image

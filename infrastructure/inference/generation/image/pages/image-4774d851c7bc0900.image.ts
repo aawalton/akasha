@@ -7,4 +7,5 @@ export const image4774d851c7bc0900 = {
   title: "Outshine fruit bar, 1 pop",
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/indoor"],
 } as const satisfies Image

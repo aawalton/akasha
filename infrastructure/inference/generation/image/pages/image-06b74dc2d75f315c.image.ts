@@ -12,4 +12,5 @@ export const image06b74dc2d75f315c = {
   inputImage: "image/image-070d57a5af44b12c",
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/dimly-lit"],
 } as const satisfies Image

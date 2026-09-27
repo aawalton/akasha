@@ -21,4 +21,5 @@ export const image2d09b5f45c44523f = {
   ],
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
 } as const satisfies Image

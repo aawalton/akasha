@@ -7,4 +7,5 @@ export const imageA96dcb955b67588c = {
   title: "Ember cover L2",
   relationshipLevel: "closeness-level/level-2",
   subjects: "F",
+  settingTags: ["setting-tag/night", "setting-tag/campfire", "setting-tag/outdoor"],
 } as const satisfies Image

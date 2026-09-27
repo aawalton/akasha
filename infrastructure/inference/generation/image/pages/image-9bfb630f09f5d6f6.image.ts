@@ -6,4 +6,5 @@ export const image9bfb630f09f5d6f6 = {
   slug: "image-9bfb630f09f5d6f6",
   title: "Chocolate chips",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
 } as const satisfies Image

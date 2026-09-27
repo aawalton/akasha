@@ -5,4 +5,10 @@ export const imageDc34b86833cb73e5 = {
   type: "page-type/image",
   slug: "image-dc34b86833cb73e5",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: [
+    "setting-tag/mountains",
+    "setting-tag/lake",
+    "setting-tag/outdoor",
+    "setting-tag/nature",
+  ],
 } as const satisfies Image

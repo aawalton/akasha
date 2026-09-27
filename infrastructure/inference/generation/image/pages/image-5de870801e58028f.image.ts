@@ -13,4 +13,5 @@ export const image5de870801e58028f = {
   inputImage: "image/image-fe432f8d17190781",
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
+  settingTags: ["setting-tag/dark-background"],
 } as const satisfies Image

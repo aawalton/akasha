@@ -25,4 +25,5 @@ export const imageC3f3f948e96081b0 = {
     "torch-vision 0.24.1",
   ],
   subjects: "F",
+  settingTags: ["setting-tag/pool", "setting-tag/spa", "setting-tag/candlelight"],
 } as const satisfies Image

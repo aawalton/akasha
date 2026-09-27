@@ -8,4 +8,5 @@ export const imageFe2eb5731e8768e8 = {
   esoDay: "2026-08-12",
   relationshipLevel: "closeness-level/level-2",
   subjects: "F",
+  settingTags: ["setting-tag/living-room", "setting-tag/indoor", "setting-tag/night"],
 } as const satisfies Image

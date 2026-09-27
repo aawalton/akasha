@@ -7,4 +7,5 @@ export const imageD10f1023867e7475 = {
   grade: "A-",
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  settingTags: ["setting-tag/dark-background", "setting-tag/abstract-background"],
 } as const satisfies Image

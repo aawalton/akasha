@@ -6,4 +6,5 @@ export const image2ea7208386bd5f6e = {
   slug: "image-2ea7208386bd5f6e",
   title: "Dark Chocolate Acai",
   relationshipLevel: "closeness-level/level-1",
+  settingTags: ["setting-tag/indoor"],
 } as const satisfies Image
