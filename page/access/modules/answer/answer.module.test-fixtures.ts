@@ -67,6 +67,67 @@ export function depsTyped(rows: readonly Readonly<Record<string, unknown>>[]): P
   }
 }
 
+function definedAs(ids: readonly string[]): readonly PropertyDefinition[] {
+  return ids.map((id) => ({ id, title: id, type: "text", pageId: id }))
+}
+
+export const FILED_TYPES: Readonly<Record<string, readonly PropertyDefinition[]>> = {
+  skill: definedAs(["slug", "key", "line"]),
+  "scribed-skill": definedAs(["slug", "key", "line", "grimoire"]),
+}
+
+export const FILED_PAGES: readonly Readonly<Record<string, unknown>>[] = [
+  { id: "s", slug: "strike", key: "strike", line: "two-handed", type: "skill" },
+  {
+    id: "b",
+    slug: "fiery-banner",
+    key: "fiery-banner",
+    line: "support",
+    grimoire: "banner",
+    type: "scribed-skill",
+  },
+]
+
+export function depsFiling(asked: (readonly string[] | undefined)[]): PagesDeps {
+  return {
+    readUser: async () => ({ user: { id: "one" }, headers: new Headers() }),
+    mayRead: whenSignedIn,
+    ask: async (_pageTypeSlug, _limit, keys) => {
+      asked.push(keys)
+      const rows = FILED_PAGES.map((page) =>
+        keys === undefined
+          ? page
+          : Object.fromEntries(Object.entries(page).filter(([key]) => keys.includes(key)))
+      )
+      return { rows, n: rows.length }
+    },
+    readPageType: async (slug) => {
+      const definitions = FILED_TYPES[slug]
+      return definitions === undefined ? null : { pageTypeId: `${slug}-id`, definitions }
+    },
+    definitionsFor: async () => [],
+  }
+}
+
+export const narrowedToOneApp = async () =>
+  ({ permitted: true, narrows: [{ key: "app", is: "web-app/one" }] }) as const
+
+export function depsWhere(
+  mayRead: PagesDeps["mayRead"],
+  asked: (Readonly<Record<string, unknown>> | undefined)[]
+): PagesDeps {
+  return {
+    readUser: async () => ({ user: null, headers: new Headers() }),
+    mayRead,
+    ask: async (_pageTypeSlug, _limit, _keys, where) => {
+      asked.push(where)
+      return { rows: [], n: 0 }
+    },
+    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
+    definitionsFor: async () => [],
+  }
+}
+
 export function depsAnonymous(mayRead: PagesDeps["mayRead"]): PagesDeps {
   return {
     readUser: async () => ({ user: null, headers: new Headers() }),

@@ -111,6 +111,14 @@ export const answer = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page of a type below the one listed carries every key its own type lists.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A listing holding pages of a type below asks the pages again for those keys.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page type's row has the property definitions that page type declares.",
     },
     {

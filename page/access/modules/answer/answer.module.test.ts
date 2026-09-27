@@ -15,10 +15,13 @@ import {
   DEFINED,
   depsAnonymous,
   depsAsking,
+  depsFiling,
   depsKeying,
   depsReading,
   depsRostering,
   depsTyped,
+  depsWhere,
+  narrowedToOneApp,
   READS_EVERYTHING,
   READS_NOTHING,
   ROSTER_AT,
@@ -137,6 +140,21 @@ test("a listing names a page below the type asked by that page's own type", asyn
   expect(said.rows[0]?.page_type_slug).toBe("persona")
 })
 
+test("a page of a type below the one listed carries every key its own type lists", async () => {
+  const asked: (readonly string[] | undefined)[] = []
+  const answered = await answerPages(new Request(AT), "skill", depsFiling(asked))
+  const said = (await answered.json()) as {
+    rows: readonly { slug: string; attributes: Readonly<Record<string, unknown>> }[]
+  }
+  const bySlug = new Map(said.rows.map((row) => [row.slug, row.attributes]))
+  expect(bySlug.get("fiery-banner")?.grimoire).toBe("banner")
+  expect(bySlug.get("strike")?.grimoire).toBeUndefined()
+  expect(asked).toEqual([
+    ["slug", "key", "line", "type"],
+    ["slug", "key", "line", "type", "grimoire"],
+  ])
+})
+
 test("a slug asked under a type finds the page that address names, not one of a type below", async () => {
   const rows = [
     { id: "d", slug: "akasha", type: "domain" },
@@ -250,16 +268,7 @@ test("every reader is weighed against what that reader may read", async () => {
 
 test("a narrow an access carries is asked of the pages rather than weighed after", async () => {
   const asked: (Readonly<Record<string, unknown>> | undefined)[] = []
-  const answered = await answerPages(new Request(AT), "readout", {
-    readUser: async () => ({ user: null, headers: new Headers() }),
-    mayRead: async () => ({ permitted: true, narrows: [{ key: "app", is: "web-app/one" }] }),
-    ask: async (_pageTypeSlug, _limit, _keys, where) => {
-      asked.push(where)
-      return { rows: [], n: 0 }
-    },
-    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
-    definitionsFor: async () => [],
-  })
+  const answered = await answerPages(new Request(AT), "readout", depsWhere(narrowedToOneApp, asked))
   expect(answered.status).toBe(200)
   expect(asked).toEqual([{ app: { is: "web-app/one" } }])
 })
@@ -307,16 +316,7 @@ test("a listing naming no page asks for every page", () => {
 
 test("pages named within a narrow are asked within that narrow", async () => {
   const asked: (Readonly<Record<string, unknown>> | undefined)[] = []
-  await answerPages(new Request(`${AT}?slug=one`), "readout", {
-    readUser: async () => ({ user: null, headers: new Headers() }),
-    mayRead: async () => ({ permitted: true, narrows: [{ key: "app", is: "web-app/one" }] }),
-    ask: async (_pageTypeSlug, _limit, _keys, where) => {
-      asked.push(where)
-      return { rows: [], n: 0 }
-    },
-    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
-    definitionsFor: async () => [],
-  })
+  await answerPages(new Request(`${AT}?slug=one`), "readout", depsWhere(narrowedToOneApp, asked))
   expect(asked).toEqual([{ app: { is: "web-app/one" }, slug: { in: ["one"] } }])
 })
 
@@ -326,16 +326,11 @@ test("pages named by the key a narrow holds are refused rather than widening it"
 
 test("an access stating no narrow asks the pages without one", async () => {
   const asked: (Readonly<Record<string, unknown>> | undefined)[] = []
-  await answerPages(new Request(AT), "readout", {
-    readUser: async () => ({ user: null, headers: new Headers() }),
-    mayRead: async () => READS_EVERYTHING,
-    ask: async (_pageTypeSlug, _limit, _keys, where) => {
-      asked.push(where)
-      return { rows: [], n: 0 }
-    },
-    readPageType: async () => ({ pageTypeId: "one", definitions: [] }),
-    definitionsFor: async () => [],
-  })
+  await answerPages(
+    new Request(AT),
+    "readout",
+    depsWhere(async () => READS_EVERYTHING, asked)
+  )
   expect(asked).toEqual([undefined])
 })
 

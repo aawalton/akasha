@@ -274,22 +274,58 @@ function withOwnType(keys: readonly string[] | undefined): readonly string[] | u
   return keys === undefined || keys.includes(OWN_TYPE) ? keys : [...keys, OWN_TYPE]
 }
 
-async function typeIdsOver(
+async function ownReadingsOver(
   rows: readonly Readonly<Record<string, unknown>>[],
   reading: PageTypeReading,
   pageTypeSlug: string,
   readPageType: PagesDeps["readPageType"]
-): Promise<ReadonlyMap<string, string>> {
-  const ids = new Map<string, string>([[pageTypeSlug, reading.pageTypeId]])
+): Promise<ReadonlyMap<string, PageTypeReading>> {
+  const readings = new Map<string, PageTypeReading>([[pageTypeSlug, reading]])
   const tried = new Set<string>([pageTypeSlug])
   for (const row of rows) {
     const own = row[OWN_TYPE]
     if (typeof own !== "string" || tried.has(own)) continue
     tried.add(own)
     const read = await readPageType(own)
-    if (read !== null) ids.set(own, read.pageTypeId)
+    if (read !== null) readings.set(own, read)
   }
-  return ids
+  return readings
+}
+
+function typeIdsOf(readings: ReadonlyMap<string, PageTypeReading>): ReadonlyMap<string, string> {
+  return new Map([...readings].map(([slug, one]) => [slug, one.pageTypeId]))
+}
+
+export function ownKeysOver(
+  readings: ReadonlyMap<string, PageTypeReading>,
+  carried: ReadonlySet<string> = NOTHING_CARRIED
+): readonly string[] | undefined {
+  const every = new Set<string>()
+  for (const one of readings.values()) {
+    for (const key of listedKeys(one.definitions, carried) ?? []) every.add(key)
+  }
+  return every.size === 0 ? undefined : [...every]
+}
+
+export function widenedKeys(
+  asked: readonly string[] | undefined,
+  every: readonly string[] | undefined
+): readonly string[] | null {
+  if (asked === undefined || every === undefined) return null
+  const held = new Set(asked)
+  return every.some((key) => !held.has(key)) ? [...new Set([...asked, ...every])] : null
+}
+
+function definitionsOver(
+  readings: ReadonlyMap<string, PageTypeReading>
+): readonly PropertyDefinition[] {
+  const held = new Map<string, PropertyDefinition>()
+  for (const one of readings.values()) {
+    for (const definition of one.definitions) {
+      if (!held.has(definition.id)) held.set(definition.id, definition)
+    }
+  }
+  return [...held.values()]
 }
 
 export async function answerPages(
@@ -336,12 +372,20 @@ export async function answerPages(
     return Response.json({ error: NAMED_BY_NARROW }, { status: 403, headers })
   }
 
-  const asked = await deps.ask(
+  const carried = carriedKeys(request)
+  const keys = withOwnType(listedKeys(reading.definitions, carried))
+  const first = await deps.ask(pageTypeSlug, LISTING_CEILING, keys, where)
+  if ("refused" in first) {
+    return Response.json({ error: UNREAD_PAGES, unread: [first.refused] }, { status: 503, headers })
+  }
+  const readings = await ownReadingsOver(
+    first.rows.slice(0, LISTING_CEILING),
+    reading,
     pageTypeSlug,
-    LISTING_CEILING,
-    withOwnType(listedKeys(reading.definitions, carriedKeys(request))),
-    where
+    deps.readPageType
   )
+  const wider = widenedKeys(keys, ownKeysOver(readings, carried))
+  const asked = wider === null ? first : await deps.ask(pageTypeSlug, LISTING_CEILING, wider, where)
   if ("refused" in asked) {
     return Response.json({ error: UNREAD_PAGES, unread: [asked.refused] }, { status: 503, headers })
   }
@@ -353,10 +397,10 @@ export async function answerPages(
   const held = addressed ? listed.length : asked.n
   const built = buildRawPageRows({
     rows: valuedRows(listed),
-    definitions: reading.definitions,
+    definitions: definitionsOver(readings),
     pageTypeId: reading.pageTypeId,
     pageTypeSlug,
-    typeIds: await typeIdsOver(listed, reading, pageTypeSlug, deps.readPageType),
+    typeIds: typeIdsOf(readings),
   })
   const rows =
     pageTypeSlug === PAGE_TYPE ? await withDefinitions(built, deps.definitionsFor) : built
