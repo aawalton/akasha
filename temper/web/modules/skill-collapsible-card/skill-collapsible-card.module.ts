@@ -6,4 +6,10 @@ export const skillCollapsibleCard = {
   slug: "skill-collapsible-card",
   definition: "a card holding a collapsed skill",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill's description is drawn in the colors the game's markup names.",
+    },
+  ],
 } as const satisfies Module

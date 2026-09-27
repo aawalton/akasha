@@ -6,6 +6,7 @@ import { getEsoIconUrl } from "akasha/temper/player/character/formula-framework/
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { Skill } from "akasha/temper/player/character/skill/modules/character-skills/character-skills.module.code.ts"
 import { CollapsibleSkillCard } from "akasha/temper/web/modules/collapsible-skill-card/collapsible-skill-card.module.code.tsx"
+import { EsoMarkupText } from "akasha/temper/web/modules/eso-markup-text/eso-markup-text.module.code.tsx"
 import type { ReactNode } from "react"
 
 interface SkillCollapsibleCardProps {
@@ -45,7 +46,7 @@ export function SkillCollapsibleCard({
     >
       {}
       <p className={cn("rounded-lg px-4 py-3 text-secondary text-sm", surfaceClass(3))}>
-        {skill.description}
+        <EsoMarkupText text={skill.description} />
       </p>
     </CollapsibleSkillCard>
   )
