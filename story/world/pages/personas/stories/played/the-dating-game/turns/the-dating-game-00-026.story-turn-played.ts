@@ -7,7 +7,18 @@ export const theDatingGame00026 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 26,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“I love walking in the night. My sleep is a little irregular, so sometimes I’ll be out at basically any hour, but the deep night is my favorite. Cool, quiet, calm. I find it soothing.”",
+  beats: [
+    'Alan: "I love walking in the night. My sleep is a little irregular,"',
+    '"so sometimes I\'ll be out at basically any hour, but the deep night is my favorite."',
+    '"Cool, quiet, calm. I find it soothing."',
+    "Grace's gold eyes warm, and she tilts her head, really looking at him now.",
+    '"Most people only put up with the dark," she says, low. "You like it."',
+    '"Cool, quiet, calm," she repeats, slowly, as if tasting how well he put it.',
+    "\"It's never frightened me either. It's where things get honest.\"",
+    "She turns the unlit lantern a quarter turn on the step, idly, her eyes still on him.",
+    '"So where do your feet take you, at that hour?"',
+  ],
 } as const satisfies StoryTurnPlayed
