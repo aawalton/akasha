@@ -852,6 +852,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/temper-watcher-enrolment/temper-watcher-enrolment.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/player/progress/thing/temper-progress-thing.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/thing/temper-thing.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/web/phrase/temper-web-phrase.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/web/player-inventory-management-ui/temper-rule-card-phrase/temper-rule-card-phrase.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"target-page-type","path":"change/runner/properties/runner-reached.relation-property.ts","id":"01a0815e-e797-751f-b5bb-08f554394d1a"}

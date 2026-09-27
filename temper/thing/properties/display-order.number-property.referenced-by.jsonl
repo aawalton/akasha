@@ -52,6 +52,7 @@
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-rule-goal/temper-rule-goal.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/web/phrase/temper-web-phrase.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/web/player-inventory-management-ui/temper-rule-card-phrase/temper-rule-card-phrase.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts","id":"01a05fce-1851-7d9f-9f36-f8f9bf8792ea"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts","id":"01a05fcd-aed0-75bf-9fe4-d95291c165fb"}
@@ -108,5 +109,6 @@
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.ts","id":"01a05fd0-3aa6-7646-b33d-56f120ee1438"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-task/properties/progress.temper-task-progress.ts","id":"01a05fd3-435e-7d0d-8c81-036d195632f1"}
 {"propertySlug":"page-property","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
+{"propertySlug":"page-property","path":"temper/web/phrase/temper-web-phrase.page-type.ts","id":"01a0e299-6ed9-7114-a745-1830d563ab9f"}
 {"propertySlug":"page-property","path":"temper/web/player-inventory-management-ui/temper-rule-card-phrase/temper-rule-card-phrase.page-type.ts","id":"01a0e272-3ee8-728e-bb34-eea061366568"}
 {"propertySlug":"parts","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
