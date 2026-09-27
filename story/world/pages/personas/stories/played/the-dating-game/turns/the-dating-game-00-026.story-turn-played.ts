@@ -24,4 +24,5 @@ export const theDatingGame00026 = {
     "She turns the unlit lantern a quarter turn on the step, idly, her eyes still on him.",
     '"So where do your feet take you, at that hour?"',
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
