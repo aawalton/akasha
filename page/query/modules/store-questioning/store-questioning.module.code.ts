@@ -9,6 +9,7 @@ import {
 import {
   bare,
   matches,
+  TESTS_RUN,
   weigh,
 } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 
@@ -45,24 +46,17 @@ export type ComposedQuery = {
 
 type Flat = Readonly<Record<string, unknown>>
 
-const STORE_TESTS = ["is", "in", "has", "empty", "starts-with", "ends-with"]
-
-const TEXT_BOUND = ["is", "has", "starts-with", "ends-with"]
-
-const KNOWN_TESTS = [
+const STORE_TESTS = [
   "is",
   "in",
-  "not-in",
   "has",
-  "contains",
+  "empty",
   "starts-with",
   "ends-with",
-  "empty",
-  "at-or-after",
-  "after",
-  "before",
-  "at-or-before",
+  "contains-ignoring-case",
 ]
+
+const TEXT_BOUND = ["is", "has", "starts-with", "ends-with", "contains-ignoring-case"]
 
 const NO_COUNT_SAYS =
   "asked the store to skip or to take and came back with no count of what matched, so the rows that came back would be read as the whole population"
@@ -87,7 +81,7 @@ function testsUnknownIn(where: Flat): readonly string[] {
     }
     if (Object.keys(test).length === 0) found.push(`\`${key}\` is given a test stating nothing`)
     for (const name of Object.keys(test)) {
-      if (!KNOWN_TESTS.includes(name)) found.push(`\`${name}\` on \`${key}\` is no test`)
+      if (!TESTS_RUN.includes(name)) found.push(`\`${name}\` on \`${key}\` is no test`)
     }
   }
   return found

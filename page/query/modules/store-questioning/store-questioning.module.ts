@@ -22,6 +22,14 @@ export const storeQuestioning = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Whether a text holds another whatever the case is tested by the store.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tests a query may name are the tests the store names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A test the store does not run is run over the rows here.",
     },
     {

@@ -31,6 +31,23 @@ test("a test is run by the name a where states", () => {
   expect(matches("", "empty", true)).toBe(true)
 })
 
+test("contains-ignoring-case keeps text holding the bound whatever the case of either", () => {
+  expect(matches("Tower of Dawn", "contains-ignoring-case", "tower")).toBe(true)
+  expect(matches("tower of dawn", "contains-ignoring-case", "DAWN")).toBe(true)
+  expect(matches("Tower of Dawn", "contains-ignoring-case", "dusk")).toBe(false)
+  expect(matches("Tower of Dawn", "contains", "tower")).toBe(false)
+})
+
+test("contains-ignoring-case keeps nothing but text", () => {
+  expect(matches(undefined, "contains-ignoring-case", "a")).toBe(false)
+  expect(matches(["A"], "contains-ignoring-case", "a")).toBe(false)
+  expect(meets({}, "title", { "contains-ignoring-case": "a" })).toBe(false)
+})
+
+test("contains-ignoring-case is a test a where may state", () => {
+  expect(unrun({ title: { "contains-ignoring-case": "a" } })).toBeNull()
+})
+
 test("a name naming no test answers false", () => {
   expect(matches("a", "sounds-like", "a")).toBe(false)
 })

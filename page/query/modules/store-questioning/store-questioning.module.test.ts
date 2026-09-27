@@ -82,6 +82,21 @@ test("how a text starts or ends is tested by the store, with the keys asked for"
   expect(sent.body.keys).toEqual(["slug"])
 })
 
+test("whether a text holds another whatever the case is tested by the store, with the limit", async () => {
+  const where = { title: { "contains-ignoring-case": "dawn" } }
+  const sent: Sent[] = []
+  const counted: Fetcher = async (url, init) => {
+    sent.push({ url, body: SENT_BODY.parse(JSON.parse(String(init.body))) })
+    return new Response(JSON.stringify({ rows: [], n: 0 }), {
+      headers: { "content-type": "application/json" },
+    })
+  }
+  const asked = await askComposed({ "page-type": "story", where, limit: 50 }, counted, noNap)
+  expect(asked.ok).toBe(true)
+  expect(sent.map((one) => one.body.where)).toEqual([where])
+  expect(sent.map((one) => one.body.limit)).toEqual([50])
+})
+
 test("a test named in no vocabulary is refused rather than dropped", async () => {
   const { fetcher } = recording([{ slug: "one" }, { slug: "two" }])
   const asked = await askComposed(

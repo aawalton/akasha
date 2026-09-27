@@ -6,6 +6,7 @@ export const TESTS_RUN: readonly string[] = [
   "not-in",
   "has",
   "contains",
+  "contains-ignoring-case",
   "starts-with",
   "ends-with",
   "empty",
@@ -21,6 +22,7 @@ export type Test = {
   readonly "not-in"?: readonly string[]
   readonly has?: string
   readonly contains?: string | readonly string[]
+  readonly "contains-ignoring-case"?: string
   readonly "starts-with"?: string
   readonly "ends-with"?: string
   readonly empty?: boolean
@@ -52,6 +54,11 @@ function containing(held: unknown, bound: unknown): boolean {
   return each.some((one) => held.includes(String(one)))
 }
 
+function containingIgnoringCase(held: unknown, bound: unknown): boolean {
+  if (typeof held !== "string") return false
+  return held.toLowerCase().includes(String(bound).toLowerCase())
+}
+
 export function matches(held: unknown, name: string, bound: unknown): boolean {
   if (name === "empty") return bare(held) === bound
   if (name === "is") return held === bound
@@ -59,6 +66,7 @@ export function matches(held: unknown, name: string, bound: unknown): boolean {
   if (name === "not-in") return Array.isArray(bound) && !bound.includes(held as never)
   if (name === "has") return Array.isArray(held) && held.includes(bound)
   if (name === "contains") return containing(held, bound)
+  if (name === "contains-ignoring-case") return containingIgnoringCase(held, bound)
   if (name === "starts-with") return typeof held === "string" && held.startsWith(String(bound))
   if (name === "ends-with") return typeof held === "string" && held.endsWith(String(bound))
   if (name === "at-or-after") return !bare(held) && ordered(held, bound) >= 0

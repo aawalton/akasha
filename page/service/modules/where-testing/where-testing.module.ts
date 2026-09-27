@@ -38,6 +38,14 @@ export const whereTesting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "`contains` minds the case of letters, and `contains-ignoring-case` does not.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`contains-ignoring-case` keeps only text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A value with nothing is taken as bare.",
     },
     {
