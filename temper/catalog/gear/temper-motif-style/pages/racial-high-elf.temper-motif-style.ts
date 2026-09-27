@@ -4,6 +4,7 @@ export const racialHighElf = {
   id: "01a0e0f0-274a-7f01-b4ed-9599cedab297",
   type: "page-type/temper-motif-style",
   slug: "racial-high-elf",
-  title: "ITEMSTYLE_RACIAL_HIGH_ELF",
+  title: "High Elf",
   esoItemStyleId: 7,
+  styleName: "High Elf",
 } as const satisfies TemperMotifStyle
