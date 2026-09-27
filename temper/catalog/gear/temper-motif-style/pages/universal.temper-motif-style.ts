@@ -4,6 +4,7 @@ export const universal = {
   id: "01a0e0f0-274a-710d-af97-567ef89d5d26",
   type: "page-type/temper-motif-style",
   slug: "universal",
-  title: "ITEMSTYLE_UNIVERSAL",
+  title: "Universal",
   esoItemStyleId: 36,
+  styleName: "Universal",
 } as const satisfies TemperMotifStyle
