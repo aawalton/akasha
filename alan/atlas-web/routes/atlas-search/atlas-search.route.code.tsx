@@ -1,3 +1,4 @@
+import { ATLAS_APP } from "akasha/alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts"
 import {
   addResponseSchema,
   type PlaceCandidate,
@@ -15,12 +16,39 @@ import {
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { Card } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+import {
+  type DocumentData,
+  metaUnderSite,
+  SITE_DOCUMENT,
+  siteDocumentAt,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { atlasSearchAdd } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-add.web-phrase.ts"
+import { atlasSearchAdding } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-adding.web-phrase.ts"
+import { atlasSearchButton } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-button.web-phrase.ts"
+import { atlasSearchFailed } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-failed.web-phrase.ts"
+import { atlasSearchLabel } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-label.web-phrase.ts"
+import { atlasSearchNone } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-none.web-phrase.ts"
+import { atlasSearchPlaceholder } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-placeholder.web-phrase.ts"
+import { atlasSearchRetry } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-retry.web-phrase.ts"
+import { atlasSearchSearching } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-searching.web-phrase.ts"
+import { atlasSearchViewLocation } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/atlas-search-view-location.web-phrase.ts"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { Search } from "lucide-react"
 import { useState } from "react"
 import { Link } from "react-router"
 
-export function meta() {
-  return [{ title: "Search places — Atlas" }]
+const READ = [SITE_DOCUMENT]
+
+export const meta = metaUnderSite
+
+export async function loader(): Promise<DocumentData> {
+  return { document: await siteDocumentAt(ATLAS_APP, "search") }
+}
+
+function addSays(addState: AddState): string {
+  if (addState === "adding") return atlasSearchAdding.slug
+  return addState === "error" ? atlasSearchRetry.slug : atlasSearchAdd.slug
 }
 
 type AddState = "idle" | "adding" | { href: string } | "error"
@@ -29,7 +57,9 @@ function candidateKey(candidate: PlaceCandidate): string {
   return candidate.sourcePlaceId
 }
 
-export default function SearchRoute() {
+export default function SearchRoute({ loaderData }: { loaderData: DocumentData }) {
+  useLoaderFollowing(READ)
+  const phrase = usePhrase()
   const [query, setQuery] = useState("")
   const [candidates, setCandidates] = useState<PlaceCandidate[]>([])
   const [searchState, setSearchState] = useState<"idle" | "searching" | "error">("idle")
@@ -93,7 +123,7 @@ export default function SearchRoute() {
   return (
     <PageLayout>
       <PageLayout.Header>
-        <PageTitle>Search places</PageTitle>
+        <PageTitle>{loaderData.document.title}</PageTitle>
       </PageLayout.Header>
       <PageLayout.Content>
         <div className="mx-auto flex max-w-2xl flex-col gap-4 py-6">
@@ -105,8 +135,8 @@ export default function SearchRoute() {
               <InputGroupInput
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
-                placeholder="Search for a place by name or address"
-                aria-label="Search for a place"
+                placeholder={phrase(atlasSearchPlaceholder.slug)}
+                aria-label={phrase(atlasSearchLabel.slug)}
               />
               <InputGroupAddon align="inline-end">
                 <InputGroupButton
@@ -114,18 +144,20 @@ export default function SearchRoute() {
                   variant="primary"
                   disabled={searchState === "searching" || query.trim().length === 0}
                 >
-                  {searchState === "searching" ? "Searching…" : "Search"}
+                  {phrase(
+                    searchState === "searching" ? atlasSearchSearching.slug : atlasSearchButton.slug
+                  )}
                 </InputGroupButton>
               </InputGroupAddon>
             </InputGroup>
           </form>
 
           {searchState === "error" ? (
-            <p className="text-secondary text-sm">Search failed. Please try again.</p>
+            <p className="text-secondary text-sm">{phrase(atlasSearchFailed.slug)}</p>
           ) : null}
 
           {searchState !== "error" && hasSearched && candidates.length === 0 ? (
-            <p className="text-secondary text-sm">No places found.</p>
+            <p className="text-secondary text-sm">{phrase(atlasSearchNone.slug)}</p>
           ) : null}
 
           <ul className="flex flex-col gap-3">
@@ -147,7 +179,7 @@ export default function SearchRoute() {
                     </div>
                     {added != null ? (
                       <Link to={added.href} className="shrink-0 text-accent text-sm underline">
-                        View location
+                        {phrase(atlasSearchViewLocation.slug)}
                       </Link>
                     ) : (
                       <Button
@@ -157,7 +189,7 @@ export default function SearchRoute() {
                         disabled={addState === "adding"}
                         className="shrink-0"
                       >
-                        {addState === "adding" ? "Adding…" : addState === "error" ? "Retry" : "Add"}
+                        {phrase(addSays(addState))}
                       </Button>
                     )}
                   </Card>

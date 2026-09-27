@@ -16,5 +16,10 @@ export const atlasSearch = {
       decisionKind: "decision-kind/departure",
       statement: "A place already kept is a link to the location rather than a button.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The screen's title and wording are read live from its site document and web phrases.",
+    },
   ],
 } as const satisfies Route
