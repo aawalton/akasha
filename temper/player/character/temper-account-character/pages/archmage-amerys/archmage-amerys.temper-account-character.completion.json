@@ -1,5 +1,5 @@
 {
-  "buildHash": "ATQHpKUAAIBjxRNCzulQs7pSKmC0i5gtYiYLSKmC0ipgtEKjtRBO6UQTulBdEx2xEEx0sAAAHNgAaycoNTrgAAAABE8AgoDUEgBEGAAKQAIAAQAACUAQDJwAjAGYADkABKA4oAFDJIFAjEQAwgAAACAMAHIAgAcIAYDE4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDjEgaw",
+  "buildHash": "ATQHpKUAAIBjxRNCzulQs7pSKmC0i5gtAiYLSKmC0ipgtEKjtRBO6UQTulBdEx2xEEx0sAAAHNgAaycoNTrgAAAABE8AgoDUEgBEGAAKQAIAAQAACUAQDJwAjAGYADkABKA4oAFDJIFAjEQAwgAAACAMAHIAgAcIAYDE4y6Neo1IsScMrHkyy5k2dn0adWvbPoUaVOp4qrG0dkbPH1y9AxZIWiJsjdO0iVMnfqFMFVCVx1hg4bJGwJUsCMAwgUMZNBxAk2cFCxg0cPIESR0mACAyDjEgaw",
   "gender": 1,
   "level": 50,
   "classId": 2,
@@ -6390,7 +6390,7 @@
     }
   },
   "companionRapport": {
-    "6": 4331
+    "6": 4336
   },
   "quests": [
     465,
@@ -13193,19 +13193,19 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "seen": [
-      5,
-      3,
-      4,
       2,
       1,
       6,
-      7
+      7,
+      5,
+      3,
+      4
     ],
     "completed": [
       1,
@@ -13216,5 +13216,9 @@
       4,
       5
     ]
+  },
+  "inventoryCheck": {
+    "date": "2026-09-27",
+    "misplaced": 9
   }
 }
