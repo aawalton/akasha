@@ -10,7 +10,7 @@ export const otherwhere00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "I follow Links up the stairs",
   beats: [
     "She crosses to the gap, the floor carrying her, and follows Links up the spiral stairs.",
@@ -31,6 +31,9 @@ export const otherwhere00008 = {
     "Links sits down at the top of the stairs beside her and looks out over the ruin.",
     '"Welcome to the Magical Library of Everywhere," he says quietly.',
   ],
+  issues: [
+    "\"thicker than the trunk of any tree you've ever seen\" - she just saw the core's house-wide trunk",
+  ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
