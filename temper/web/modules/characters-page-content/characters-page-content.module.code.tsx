@@ -27,11 +27,14 @@ import {
   isValidClass,
   isValidSortField,
   type SortField,
+  TAB_LABEL_PHRASES,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.code.tsx"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { charactersPageContentCharacterBuilds } from "akasha/temper/web/phrase/pages/characters-page-content-character-builds.temper-web-phrase.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
 import { Suspense } from "react"
 
@@ -54,6 +57,7 @@ export function CharactersPageContent({
   initialSort,
   initialSortDirection,
 }: CharactersPageContentProps) {
+  const phrase = usePhrase()
   const isAuthenticated = userId !== null
   const defaultTab: TabValue = isAuthenticated ? "build" : "browse"
 
@@ -114,7 +118,7 @@ export function CharactersPageContent({
                 <ChevronLeft className="h-4 w-4" />
               </Link>
             </Button>
-            <PageTitle>Character Builds</PageTitle>
+            <PageTitle>{phrase(charactersPageContentCharacterBuilds.slug)}</PageTitle>
           </div>
           {isAuthenticated && (
             <MetricCatalogGate fallback={null}>{() => <NewCharacterButton />}</MetricCatalogGate>
@@ -130,10 +134,26 @@ export function CharactersPageContent({
           }}
         >
           <TabsList className="grid h-18 w-full grid-cols-4 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
-            <PageTabsTrigger value="plan" icon={<Gamepad2 />} label="Plan" />
-            <PageTabsTrigger value="build" icon={<Hammer />} label="Build" />
-            <PageTabsTrigger value="browse" icon={<Search />} label="Browse" />
-            <PageTabsTrigger value="leaderboard" icon={<Trophy />} label="Rank" />
+            <PageTabsTrigger
+              value="plan"
+              icon={<Gamepad2 />}
+              label={phrase(TAB_LABEL_PHRASES.plan)}
+            />
+            <PageTabsTrigger
+              value="build"
+              icon={<Hammer />}
+              label={phrase(TAB_LABEL_PHRASES.build)}
+            />
+            <PageTabsTrigger
+              value="browse"
+              icon={<Search />}
+              label={phrase(TAB_LABEL_PHRASES.browse)}
+            />
+            <PageTabsTrigger
+              value="leaderboard"
+              icon={<Trophy />}
+              label={phrase(TAB_LABEL_PHRASES.leaderboard)}
+            />
           </TabsList>
         </Tabs>
       </PageLayout.Tabs>

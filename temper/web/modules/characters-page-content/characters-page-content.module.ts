@@ -6,4 +6,10 @@ export const charactersPageContent = {
   slug: "characters-page-content",
   definition: "what the characters page has",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
