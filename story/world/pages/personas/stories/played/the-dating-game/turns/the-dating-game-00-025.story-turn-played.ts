@@ -4,10 +4,13 @@ export const theDatingGame00025 = {
   id: "01a0e3e7-c589-7dab-b776-6cae83055c69",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-025",
+  ownLength: 169,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 25,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "“Hi there!” I walk over toward her. “I don’t think I’ve seen you here before. I’m Alan, I live just down the street there on Apple” I gesture back the way I came. “Nice to meet you!”",
   beats: [
