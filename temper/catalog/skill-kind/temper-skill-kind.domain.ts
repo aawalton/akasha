@@ -10,7 +10,6 @@ export const temperSkillKind = {
     "module/skill-bars",
     "module/skill-buff-debuff-types",
     "module/skill-slots",
-    "module/skill-types",
     "module/skill-value-formulas",
     "module/skills-source",
     "module/special-effect-types",
