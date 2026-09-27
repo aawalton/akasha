@@ -13,7 +13,19 @@ export const useWebPhrases = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A key no phrase page carries is refused rather than shown.",
+      statement: "A slug no phrase page carries is refused rather than shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A phrase is asked for by the slug of the page the screen imports.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A phrase's long wording is read from its description, whole.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A page still stating a key is found by that key too, until the keys are gone.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -6,18 +6,27 @@ export const temperWebPhrase = {
   slug: "temper-web-phrase",
   definition: "a piece of wording a Temper web screen shows around the things it names",
   extends: ["page-type/temper-thing"],
-  properties: [
-    { pageProperty: "text-property/key", required: true, many: false },
-    { pageProperty: "number-property/display-order", required: true, many: false },
-  ],
+
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "The key is the name a screen asks for the phrase by, led by the screen's module.",
+      statement: "A screen asks for a phrase by its slug, read off the page it imports.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The title is the phrase a reader is shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Wording longer than a title holds goes whole into the description.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slug never holds two hyphens running.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "Key and display order stay optional until the pages that state them drop them.",
     },
     {
       decisionKind: "decision-kind/departure",

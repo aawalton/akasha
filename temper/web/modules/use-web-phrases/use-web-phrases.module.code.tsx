@@ -1,45 +1,99 @@
 "use client"
 
-import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import {
-  holdKeyedTitles,
-  type KeyedTitles,
-  keyedTitlesFrom,
-} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+  textAt,
+  type Value,
+} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { temperWebPhrase } from "akasha/temper/web/phrase/temper-web-phrase.page-type.ts"
 import { useMemo } from "react"
 
 const EVERY = 10000
 
-export type WebPhrases = KeyedTitles
+interface Worded {
+  readonly title: string
+  readonly description: string | null
+}
+
+export type WebPhrases = ReadonlyMap<string, Worded>
 
 export type Fills = Readonly<Record<string, string | number>>
 
+let held: WebPhrases | null = null
+
+export function heldWebPhrases(): WebPhrases | null {
+  return held
+}
+
+function phrasesFrom(rows: readonly Value[]): WebPhrases {
+  const read = new Map<string, Worded>()
+  for (const row of rows) {
+    const slug = textAt(row, "slug")
+    const title = textAt(row, "title")
+    if (slug === null || title === null) {
+      throw new Error("useWebPhrases: a temper-web-phrase page states no slug or no title")
+    }
+    const worded = { title, description: textAt(row, "description") }
+    read.set(slug, worded)
+    const key = textAt(row, "key")
+    if (key !== null) read.set(key, worded)
+  }
+  return read
+}
+
 export function useWebPhrases(): WebPhrases | null {
   const pages = usePages({ pageTypeSlug: temperWebPhrase.slug, limit: EVERY })
-  const phrases = useMemo(
-    () =>
-      pages.isLoading ? null : holdKeyedTitles(keyedTitlesFrom(temperWebPhrase.slug, pages.rows)),
-    [pages.isLoading, pages.rows]
-  )
+  const phrases = useMemo(() => {
+    if (pages.isLoading) return null
+    held = phrasesFrom(pages.rows)
+    return held
+  }, [pages.isLoading, pages.rows])
   if (pages.error !== null) throw pages.error
   return phrases
 }
 
-export function phraseIn(phrases: WebPhrases | null, key: string, fills: Fills = {}): string {
-  if (phrases === null) return ""
-  const title = phrases.titles.get(key)
-  if (title === undefined)
-    throw new Error(`phraseIn: no temper-web-phrase page is keyed \`${key}\``)
+function filled(text: string, fills: Fills): string {
   return Object.entries(fills).reduce(
-    (text, [name, fill]) => text.split(`{${name}}`).join(String(fill)),
-    title
+    (out, [name, fill]) => out.split(`{${name}}`).join(String(fill)),
+    text
   )
 }
 
-export type Phrase = (key: string, fills?: Fills) => string
+function wordedIn(phrases: WebPhrases, slug: string): Worded {
+  const worded = phrases.get(slug)
+  if (worded === undefined) throw new Error(`phraseIn: no temper-web-phrase page is \`${slug}\``)
+  return worded
+}
+
+export function phraseIn(phrases: WebPhrases | null, slug: string, fills: Fills = {}): string {
+  if (phrases === null) return ""
+  return filled(wordedIn(phrases, slug).title, fills)
+}
+
+export function phraseDescriptionIn(
+  phrases: WebPhrases | null,
+  slug: string,
+  fills: Fills = {}
+): string {
+  if (phrases === null) return ""
+  const description = wordedIn(phrases, slug).description
+  if (description === null) {
+    throw new Error(`phraseDescriptionIn: temper-web-phrase \`${slug}\` states no description`)
+  }
+  return filled(description, fills)
+}
+
+export type Phrase = (slug: string, fills?: Fills) => string
 
 export function usePhrase(): Phrase {
   const phrases = useWebPhrases()
-  return useMemo<Phrase>(() => (key, fills) => phraseIn(phrases, key, fills), [phrases])
+  return useMemo<Phrase>(() => (slug, fills) => phraseIn(phrases, slug, fills), [phrases])
+}
+
+export function usePhraseDescription(): Phrase {
+  const phrases = useWebPhrases()
+  return useMemo<Phrase>(
+    () => (slug, fills) => phraseDescriptionIn(phrases, slug, fills),
+    [phrases]
+  )
 }
