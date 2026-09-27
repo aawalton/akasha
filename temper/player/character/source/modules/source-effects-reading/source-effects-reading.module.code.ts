@@ -58,7 +58,9 @@ function entryEffectOf(entry: Value, nodes: MetricNodes, at: string): Effect {
   if (typeof entry.value !== "number") {
     throw new Error(`${at} states an effect on \`${metricId}\` with no value`)
   }
-  return { metricId, effectType: entry.type, effectValue: entry.value } as Effect
+  const effectValue =
+    typeof entry.seconds === "number" ? { value: entry.value, seconds: entry.seconds } : entry.value
+  return { metricId, effectType: entry.type, effectValue } as Effect
 }
 
 export function entryEffectsOf(value: Value, nodes: MetricNodes, at: string): readonly Effect[] {

@@ -15,5 +15,9 @@ export const sourceEffectsReading = {
       decisionKind: "decision-kind/departure",
       statement: "An effect entry naming a stat tree node is read as the stat that node is.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An effect entry stating seconds is read as its value over those seconds.",
+    },
   ],
 } as const satisfies Module
