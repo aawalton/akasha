@@ -22,6 +22,11 @@ import {
 } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import type { SetTargetEntity } from "akasha/temper/web/modules/set-target-dialog/set-target-dialog.module.code.tsx"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
+import {
+  phraseIn,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { useSetTargetEntitiesUnknown } from "akasha/temper/web/phrase/pages/use-set-target-entities-unknown.temper-web-phrase.ts"
 import { useCompletionCharacters } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import { useMemo, useState, useTransition } from "react"
 
@@ -58,10 +63,12 @@ export function useSetTargetEntities({
   const classesRead = classes.data
   const racesRead = races.data
   const skillCatalogRead = heldSkillCatalog()
+  const phrases = useWebPhrases()
 
   const setTargetEntities = useMemo((): readonly SetTargetEntity[] => {
     if (skillCatalogRead === null) return []
     if (!isAuthenticated) return []
+    const unknown = phraseIn(phrases, useSetTargetEntitiesUnknown.slug)
 
     const decodedMap = new Map<
       string,
@@ -71,8 +78,8 @@ export function useSetTargetEntities({
       const metadata = b.buildMetadata
       const decoded = b.buildHash !== "" ? decodeBuild(toBuildHash(b.buildHash)) : null
       decodedMap.set(b.id, {
-        className: decoded ? (classesRead[decoded.character.class]?.name ?? "Unknown") : "Unknown",
-        raceName: decoded ? (racesRead[decoded.character.race]?.name ?? "Unknown") : "Unknown",
+        className: decoded ? (classesRead[decoded.character.class]?.name ?? unknown) : unknown,
+        raceName: decoded ? (racesRead[decoded.character.race]?.name ?? unknown) : unknown,
         characterName: metadata?.characterName ?? metadata?.name ?? "",
       })
     }
@@ -95,8 +102,8 @@ export function useSetTargetEntities({
         const info = refBuild ? decodedMap.get(refBuild.id) : undefined
 
         const characterName = info?.characterName ?? ""
-        const raceName = info?.raceName ?? "Unknown"
-        const className = info?.className ?? "Unknown"
+        const raceName = info?.raceName ?? unknown
+        const className = info?.className ?? unknown
 
         let targetManuallyEdited = false
         if (liveBuild && targetBuild) {
@@ -120,6 +127,7 @@ export function useSetTargetEntities({
     classesRead,
     racesRead,
     skillCatalogRead,
+    phrases,
   ])
 
   const computeSetTargetArgs = (entityId: string) => {
