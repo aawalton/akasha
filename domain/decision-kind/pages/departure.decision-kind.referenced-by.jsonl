@@ -5346,6 +5346,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/map-positions.record-property.ts","id":"01a0d5d4-6c7f-7827-8e5a-9a56d314ea76"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/properties/place-kinds.number-property.ts","id":"01a0d5d4-6c7f-7d11-b6a8-b978871353e0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}
+{"propertySlug":"decision-kind","path":"temper/catalog/world/temper-bag/temper-bag.page-type.ts","id":"01a0e24c-a62b-7473-a612-79f29879a028"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-dungeon/temper-dungeon.page-type.ts","id":"01a05fc4-7a8e-73b2-936f-9e3b86b17549"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.ts","id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}
 {"propertySlug":"decision-kind","path":"temper/catalog/world/temper-public-dungeon/modules/public-dungeon-pages/public-dungeon-pages.module.ts","id":"01a0d8a5-1cee-7341-899a-4f34c7fb7a44"}

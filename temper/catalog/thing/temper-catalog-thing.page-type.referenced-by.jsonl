@@ -44,6 +44,7 @@
 {"propertySlug":"extends-type","path":"temper/catalog/world/item-browser-source/temper-item-browser-source.page-type.ts","id":"01a0d9dc-c559-7c66-9c85-d9eef5ed493b"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","id":"01a0d5d4-6c80-7134-9ddd-a55a8ef382cc"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-alliance/temper-alliance.page-type.ts","id":"01a05fc4-7a8c-7403-bf1d-3fe777a61478"}
+{"propertySlug":"extends-type","path":"temper/catalog/world/temper-bag/temper-bag.page-type.ts","id":"01a0e24c-a62b-7473-a612-79f29879a028"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.ts","id":"01a05fc4-7a8e-7cdd-859d-6e17f19d2d93"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-dungeon/temper-dungeon.page-type.ts","id":"01a05fc4-7a8e-73b2-936f-9e3b86b17549"}
 {"propertySlug":"extends-type","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.ts","id":"01a05fc4-7a8f-792b-b559-e6c98c4ec4bb"}
@@ -99,6 +100,7 @@
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/item-browser-source/temper-item-browser-source.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-alliance/temper-alliance.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-bag/temper-bag.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-catalog-domain/temper-catalog-domain.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-dungeon/temper-dungeon.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-catalog-thing.page-type.types.ts","path":"temper/catalog/world/temper-location-type/temper-location-type.page-type.types.ts","typed":true,"deferred":false}
