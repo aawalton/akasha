@@ -4,7 +4,7 @@ export const theDatingGame00010 = {
   id: "01a0e33e-32e3-7872-9e25-e61f21f24b8a",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-010",
-  ownLength: 248,
+  ownLength: 218,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 10,
@@ -24,8 +24,7 @@ export const theDatingGame00010 = {
     '"What! You too? I thought I was the only one."',
     "She holds his eyes as she says it, and plainly means it for the two of them.",
     'Then at "LitRPG" she grins wide and nods: she knows it well.',
-    "She switches to a flat, bright, game-system voice, the kind she has read into a microphone:",
-    '"Congratulations! You have reached level two."',
+
     "She taps his chest once with a fingertip, and her grin turns sly.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
