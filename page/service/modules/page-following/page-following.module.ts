@@ -114,5 +114,9 @@ export const pageFollowing = {
       decisionKind: "decision-kind/departure",
       statement: "Each minute one line says how much following is held, and the memory in use.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A plan or a push taking a second or more is logged with how long it took.",
+    },
   ],
 } as const satisfies Module

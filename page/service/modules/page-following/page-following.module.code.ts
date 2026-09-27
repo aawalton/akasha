@@ -54,6 +54,16 @@ const COUNTED_MS = 60_000
 
 const MB = 1024 * 1024
 
+const SLOW_MS = 1_000
+
+function timedAs<T>(named: () => string, act: () => T): T {
+  const started = performance.now()
+  const done = act()
+  const spent = performance.now() - started
+  if (spent >= SLOW_MS) process.stdout.write(`slow: ${named()} took ${Math.round(spent)} ms\n`)
+  return done
+}
+
 type Changed = {
   readonly pageTypeSlug: string
   readonly slug?: string
@@ -268,7 +278,13 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
     counted.pushed = 0
   }, COUNTED_MS).unref()
 
-  const send = (one: Changed): undefined => {
+  const send = (one: Changed): undefined =>
+    timedAs(
+      () => `pushing ${one.pageTypeSlug}/${one.slug ?? ""} to ${streams.size} streams`,
+      () => sent(one)
+    )
+
+  const sent = (one: Changed): undefined => {
     const id = idOf(root, one)
     const valued = valuedOnce(root, one.pageTypeSlug, one.slug)
     for (const stream of streams.values()) {
@@ -301,7 +317,10 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
     const helds = [...streams.values()].flatMap((one) => one.helds)
     let planned: Planned
     try {
-      planned = plannedFor(root, helds)
+      planned = timedAs(
+        () => `planning ${helds.length} follows`,
+        () => plannedFor(root, helds)
+      )
     } catch (thrown) {
       process.stderr.write(`the pages followed could not be planned: ${String(thrown)}\n`)
       return undefined

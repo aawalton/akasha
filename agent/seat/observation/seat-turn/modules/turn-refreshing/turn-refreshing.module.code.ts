@@ -16,6 +16,16 @@ const LOOKED_AGAIN_MS = 5_000
 
 const SETTLE_MS = 100
 
+const SLOW_MS = 1_000
+
+function timedAs(said: () => string, act: () => undefined): undefined {
+  const started = performance.now()
+  act()
+  const spent = performance.now() - started
+  if (spent >= SLOW_MS) process.stdout.write(`slow: ${said()} took ${Math.round(spent)} ms\n`)
+  return undefined
+}
+
 type Sat = {
   readonly id: string
   readonly slug: string
@@ -55,18 +65,28 @@ export function refreshingTurns(root: string, grew: (sat: Sat) => undefined): ()
       path,
       setTimeout(() => {
         settling.delete(path)
-        try {
-          workingOf(sat.id)
-        } catch (thrown) {
-          process.stderr.write(`the turn of ${sat.slug} was not read again: ${String(thrown)}\n`)
-        }
-        grew(sat)
+        timedAs(
+          () => `reading the turn of ${sat.slug} again`,
+          () => {
+            try {
+              workingOf(sat.id)
+            } catch (thrown) {
+              process.stderr.write(
+                `the turn of ${sat.slug} was not read again: ${String(thrown)}\n`
+              )
+            }
+            grew(sat)
+            return undefined
+          }
+        )
       }, SETTLE_MS)
     )
     return undefined
   }
 
-  const look = (): undefined => {
+  const look = (): undefined => timedAs(() => "looking for the seats' transcripts", looked)
+
+  const looked = (): undefined => {
     const had = transcripts
     try {
       transcripts = transcriptsAmong(everyOfType(root, seat.slug))

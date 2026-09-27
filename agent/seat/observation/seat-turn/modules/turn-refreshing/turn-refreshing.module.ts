@@ -32,5 +32,9 @@ export const turnRefreshing = {
       decisionKind: "decision-kind/departure",
       statement: "A transcript newly found has its seat's turn read at once.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A look or a turn read taking a second or more is logged with how long it took.",
+    },
   ],
 } as const satisfies Module
