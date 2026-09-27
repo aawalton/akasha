@@ -120,6 +120,8 @@
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/build-info-panel-card-unlisted.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/build-info-panel-card-visibility.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/catalog-document-title.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/catalog-page-content-dungeons.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/catalog-page-content-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-editor-content-category.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-editor-content-copy-name.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-editor-content-remix-failed.temper-web-phrase.ts","typed":true,"deferred":false}

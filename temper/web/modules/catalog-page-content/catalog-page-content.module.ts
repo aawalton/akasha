@@ -6,4 +6,10 @@ export const catalogPageContent = {
   slug: "catalog-page-content",
   definition: "the catalog page and its tabs",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

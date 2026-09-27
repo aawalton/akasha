@@ -17,6 +17,9 @@ import {
   DungeonsTab,
   useDungeonListings,
 } from "akasha/temper/web/modules/dungeons-tab/dungeons-tab.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { catalogPageContentDungeons } from "akasha/temper/web/phrase/pages/catalog-page-content-dungeons.temper-web-phrase.ts"
+import { catalogPageContentTitle } from "akasha/temper/web/phrase/pages/catalog-page-content-title.temper-web-phrase.ts"
 import { ChevronLeft, Swords } from "lucide-react"
 
 const VALID_TABS = new Set(["dungeons"])
@@ -43,6 +46,7 @@ export function CatalogPageContent({ initialTab }: CatalogPageContentProps) {
     },
   })
   const { givers, dungeons, isLoading } = useDungeonListings()
+  const phrase = usePhrase()
 
   return (
     <PageLayout
@@ -61,14 +65,18 @@ export function CatalogPageContent({ initialTab }: CatalogPageContentProps) {
               <ChevronLeft className="h-4 w-4" />
             </Link>
           </Button>
-          <PageTitle>Catalog</PageTitle>
+          <PageTitle>{phrase(catalogPageContentTitle.slug)}</PageTitle>
         </div>
       </PageLayout.Header>
 
       <Tabs value={values.tab} onValueChange={(v) => update({ tab: v })}>
         <PageLayout.Tabs>
           <TabsList className="@[1016px]:grid grid h-18 w-full @[1016px]:grid-cols-1 grid-cols-1 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
-            <PageTabsTrigger value="dungeons" icon={<Swords />} label="Dungeons" />
+            <PageTabsTrigger
+              value="dungeons"
+              icon={<Swords />}
+              label={phrase(catalogPageContentDungeons.slug)}
+            />
           </TabsList>
         </PageLayout.Tabs>
 
