@@ -8,6 +8,25 @@ export const storyChapterWritten = {
   pluralSlug: "chapters",
   extends: ["page-type/chapter"],
   runsTabooCheck: false,
+  detailConfig: {
+    frame: {
+      edgeToEdge: true,
+      focusMode: true,
+      autoScroll: {
+        loadScroll: "progress",
+      },
+    },
+    bodyPropertyId: "prose",
+    fullBleed: true,
+    showReadingProgress: true,
+    progressPropertyId: "ownProgress",
+    lengthPropertyId: "ownLength",
+  },
+  sequence: {
+    groupBy: "story",
+    orderBy: "position",
+    direction: "asc",
+  },
   decisions: [
     {
       decisionKind: "decision-kind/departure",

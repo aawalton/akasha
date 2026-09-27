@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"story/world/stories/played/story-played.page-type.page-component.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"story/world/stories/read/chapters/story-chapter-read.page-type.page-component.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"story/world/stories/read/story-read.page-type.page-component.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"story/world/stories/written/chapters/story-chapter-written.page-type.page-component.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"story/world/world.page-type.page-component.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-detail-content.module.code.tsx","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui/component/page-ui-component.domain.ts","id":"01a0613d-bbb1-7000-a299-964eee1c712c"}
