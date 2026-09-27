@@ -6,4 +6,10 @@ export const packUpgradesPanelCard = {
   slug: "pack-upgrades-panel-card",
   definition: "each selected character's inventory slots against the most there are",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

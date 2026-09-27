@@ -6,6 +6,8 @@ import type {
   CharacterQuestProgress,
   CompletionCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { questProgressPanelCardTitle } from "akasha/temper/web/phrase/pages/quest-progress-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -36,6 +38,8 @@ export function QuestProgressPanelCard({
   sortMode,
   sortDirection,
 }: QuestProgressPanelCardProps) {
+  const phrase = usePhrase()
+  const title = phrase(questProgressPanelCardTitle.slug)
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? questProgress
@@ -99,7 +103,7 @@ export function QuestProgressPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Quests"
+        title={title}
         items={withActivityCategories(items, "quests")}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -126,7 +130,7 @@ export function QuestProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Quests"
+      title={title}
       items={withActivityCategories(items, "quests")}
       filterNode={filterNode}
       sortMode={sortMode}

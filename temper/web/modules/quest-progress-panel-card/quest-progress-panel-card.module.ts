@@ -6,4 +6,10 @@ export const questProgressPanelCard = {
   slug: "quest-progress-panel-card",
   definition: "the quests each selected character has completed",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

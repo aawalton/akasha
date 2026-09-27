@@ -6179,10 +6179,14 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/new-companion-panel-card/new-companion-panel-card.module.ts","id":"01a0641f-8bf0-78ad-9b86-8869ea5c4a31"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/notifications-tab/notifications-tab.module.ts","id":"01a06432-b190-74d1-baf2-ed7d76418c85"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/optimization-panel-card/optimization-panel-card.module.ts","id":"01a0642c-5bb5-780b-93b2-04a408d096f0"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/other-panel-card/other-panel-card.module.ts","id":"01a0642c-5b7f-7161-af3f-465cb6ee4aeb"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/overall-summary-panel-card/overall-summary-panel-card.module.ts","id":"01a06421-f74b-7add-bb48-388a4598002f"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/pack-upgrades-panel-card/pack-upgrades-panel-card.module.ts","id":"01a06421-f74b-7e32-bfcc-89e562840030"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/passive-skills-panel-card/passive-skills-panel-card.module.ts","id":"01a0642c-5ba6-754c-abac-523c83014b8e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/plan-tab/plan-tab.module.ts","id":"01a0642c-5b90-7ad7-8e2f-c7aad5cfa434"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/player-settings/player-settings.module.ts","id":"01a0640f-8510-7ec4-bf91-bd8c41002f73"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/poi-progress-panel-card/poi-progress-panel-card.module.ts","id":"01a06421-f74b-7495-9d7c-97bbda0a0031"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/quest-progress-panel-card/quest-progress-panel-card.module.ts","id":"01a06421-f74b-72c5-93d8-9217e0e80032"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/race-select-dialog/race-select-dialog.module.ts","id":"01a0642c-5b81-7c38-b0c2-960dd7e2e29e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/recent-characters-card/recent-characters-card.module.ts","id":"01a06432-b190-77de-b968-e4a3f00bdac1"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/recent-companions-card/recent-companions-card.module.ts","id":"01a06432-b190-707d-9aa2-09a10504c822"}

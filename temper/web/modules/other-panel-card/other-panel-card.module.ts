@@ -6,4 +6,14 @@ export const otherPanelCard = {
   slug: "other-panel-card",
   definition: "a panel card with a character's remaining sources",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The ESO Plus and no-alliance labels are the titles of those pages.",
+    },
+  ],
 } as const satisfies Module

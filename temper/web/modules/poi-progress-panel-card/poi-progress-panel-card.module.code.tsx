@@ -6,6 +6,8 @@ import type {
   CharacterPoiProgress,
   CompletionCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { poiProgressPanelCardTitle } from "akasha/temper/web/phrase/pages/poi-progress-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -36,6 +38,7 @@ export function PoiProgressPanelCard({
   sortMode,
   sortDirection,
 }: PoiProgressPanelCardProps) {
+  const phrase = usePhrase()
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? poiProgress
@@ -139,7 +142,7 @@ export function PoiProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Points of Interest"
+      title={phrase(poiProgressPanelCardTitle.slug)}
       items={withActivityCategories(items, "exploration")}
       totalChildren={totalChildren}
       filterNode={filterNode}

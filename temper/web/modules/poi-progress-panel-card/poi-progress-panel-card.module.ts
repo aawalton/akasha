@@ -6,4 +6,10 @@ export const poiProgressPanelCard = {
   slug: "poi-progress-panel-card",
   definition: "the points of interest each selected character has discovered, by zone",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

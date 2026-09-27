@@ -20,5 +20,9 @@ export const overallSummaryPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The row is left off where no scope has anything to count.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

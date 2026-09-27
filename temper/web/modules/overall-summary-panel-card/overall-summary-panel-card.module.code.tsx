@@ -11,6 +11,15 @@ import {
   sumCompanionScope,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-scope-rollup/completion-scope-rollup.module.code.ts"
 import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { overallSummaryPanelCardAccount } from "akasha/temper/web/phrase/pages/overall-summary-panel-card-account.temper-web-phrase.ts"
+import { overallSummaryPanelCardCharacters } from "akasha/temper/web/phrase/pages/overall-summary-panel-card-characters.temper-web-phrase.ts"
+import { overallSummaryPanelCardCompanions } from "akasha/temper/web/phrase/pages/overall-summary-panel-card-companions.temper-web-phrase.ts"
+import { overallSummaryPanelCardItemsCompleted } from "akasha/temper/web/phrase/pages/overall-summary-panel-card-items-completed.temper-web-phrase.ts"
+import { overallSummaryPanelCardTitle } from "akasha/temper/web/phrase/pages/overall-summary-panel-card-title.temper-web-phrase.ts"
+import {
   type CompletionFilter,
   type CompletionNode,
   CompletionPanelCard,
@@ -31,31 +40,35 @@ interface OverallSummaryPanelCardProps {
   subdued?: boolean
 }
 
-export function OverallSummaryPanelCard({
-  accountSummary,
-  characterSummary,
-  companionSummary,
-  title = "Overall",
-  completionFilter,
-  sortMode,
-  sortDirection,
-  onItemClick,
-  collapseProtected,
-  subdued,
-}: OverallSummaryPanelCardProps) {
+export function overallSummaryItems(
+  accountSummary: AccountSummaryData,
+  characterSummary: CharacterSummaryData,
+  companionSummary: CompanionSummaryData,
+  phrase: Phrase
+): CompletionNode[] {
   const account = sumAccountScope(accountSummary)
   const characters = sumCharacterScope(characterSummary)
   const companions = sumCompanionScope(companionSummary)
 
   const items: CompletionNode[] = [
-    { key: "account", label: "Account", count: account.count, total: account.total },
-    { key: "characters", label: "Characters", count: characters.count, total: characters.total },
+    {
+      key: "account",
+      label: phrase(overallSummaryPanelCardAccount.slug),
+      count: account.count,
+      total: account.total,
+    },
+    {
+      key: "characters",
+      label: phrase(overallSummaryPanelCardCharacters.slug),
+      count: characters.count,
+      total: characters.total,
+    },
   ]
 
   if (companions.total > 0) {
     items.push({
       key: "companions",
-      label: "Companions",
+      label: phrase(overallSummaryPanelCardCompanions.slug),
       count: companions.count,
       total: companions.total,
     })
@@ -64,14 +77,32 @@ export function OverallSummaryPanelCard({
   if (account.total + characters.total + companions.total > 0) {
     items.push({
       key: "summary",
-      label: "Items Completed",
+      label: phrase(overallSummaryPanelCardItemsCompleted.slug),
       value: computeOverallCompletionScore(accountSummary, characterSummary, companionSummary),
     })
   }
 
+  return items
+}
+
+export function OverallSummaryPanelCard({
+  accountSummary,
+  characterSummary,
+  companionSummary,
+  title,
+  completionFilter,
+  sortMode,
+  sortDirection,
+  onItemClick,
+  collapseProtected,
+  subdued,
+}: OverallSummaryPanelCardProps) {
+  const phrase = usePhrase()
+  const items = overallSummaryItems(accountSummary, characterSummary, companionSummary, phrase)
+
   return (
     <CompletionPanelCard
-      title={title}
+      title={title ?? phrase(overallSummaryPanelCardTitle.slug)}
       items={items}
       filterNode={createNodeFilter(completionFilter ?? [], undefined)}
       sortMode={sortMode}

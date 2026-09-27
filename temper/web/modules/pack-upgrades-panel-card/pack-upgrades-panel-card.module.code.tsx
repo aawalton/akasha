@@ -5,6 +5,8 @@ import type {
   CharacterPackUpgradesProgress,
   CompletionCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { packUpgradesPanelCardTitle } from "akasha/temper/web/phrase/pages/pack-upgrades-panel-card-title.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -35,8 +37,10 @@ export function PackUpgradesPanelCard({
   sortMode,
   sortDirection,
 }: PackUpgradesPanelCardProps) {
+  const phrase = usePhrase()
   if (characters.length === 0) return null
 
+  const title = phrase(packUpgradesPanelCardTitle.slug)
   const isAggregate = selectedCharacterIds.length === 0
   const charNames = new Map(characters.map((c) => [c.id, c.name]))
 
@@ -47,7 +51,7 @@ export function PackUpgradesPanelCard({
   const items: CompletionNode[] = [
     {
       key: "pack-upgrades",
-      label: "Pack Upgrades",
+      label: title,
       children: filtered.map((p) => ({
         key: p.characterId,
         label: charNames.get(p.characterId) ?? p.characterId,
@@ -60,7 +64,7 @@ export function PackUpgradesPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Pack Upgrades"
+      title={title}
       items={withActivityCategories(items, "characters")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}
