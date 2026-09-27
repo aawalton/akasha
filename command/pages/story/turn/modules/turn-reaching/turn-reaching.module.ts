@@ -44,5 +44,13 @@ export const turnReaching = {
       statement:
         "The lore about a turn's characters is every unwithheld lore page about one or its persona.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn's characters are those it names and those every turn of its story names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice moving a turn to writer names the lore about the turn's characters.",
+    },
   ],
 } as const satisfies Module

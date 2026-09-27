@@ -27,13 +27,13 @@ export type Prompting = {
 
 const PATH = "<path>"
 
-function loreSaid(lore: readonly string[]): readonly string[] {
-  if (lore.length === 0) return []
+export function loreLine(lore: readonly string[]): string {
   const named = lore.map((one) => `\`${one}\``).join(", ")
-  return [
-    "",
-    `The lore about the turn's characters is on ${named}. Read each of those pages whole before you judge anything they could settle.`,
-  ]
+  return `The lore about the turn's characters is on ${named}. Read each of those pages whole first, since any of them can settle what the turn may say.`
+}
+
+function loreSaid(lore: readonly string[]): readonly string[] {
+  return lore.length === 0 ? [] : ["", loreLine(lore)]
 }
 
 const DRAFTING = "akasha change apply --draft"

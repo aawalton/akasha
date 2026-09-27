@@ -236,7 +236,7 @@ function startingOf(start: Start, persona: string, at: Context): Starting | stri
 
 async function noticesOver(reach: Reach, at: Context, status: TurnStep, after: Told) {
   const master = at.story?.master ?? null
-  await noticesSent(reach, at.game, master, at.prompting.turnAt, status, after)
+  await noticesSent(reach, at.game, master, at.prompting.turnAt, status, after, at.prompting.lore)
 }
 
 async function seatsStarted(
@@ -323,7 +323,11 @@ async function advancedOn(
       turnAt: turn.at,
       address: `${storyTurnPlayed.slug}${PARTED}${slug}`,
       calledAs: given.calledAs,
-      lore: reach.loreOf(given.root, stringsIn(said.values[CHARACTERS] ?? turn.value[CHARACTERS])),
+      lore: reach.loreOf(
+        given.root,
+        held.game,
+        stringsIn(said.values[CHARACTERS] ?? turn.value[CHARACTERS])
+      ),
     },
   }
   const moving = `${slug}\t${held.status}\t${said.status}`

@@ -15,6 +15,7 @@ import {
   REVIEWED,
   REVIEWERS,
 } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
+import { loreLine } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import type {
   Reach,
   Seated,
@@ -43,12 +44,12 @@ const BUILDER = "mari-world-builder-the-saga"
 
 const WRITER = "mari-writer-the-saga"
 
-const MARA = "character-player/mara"
-
 const MARA_LORE = "world/lore/mara.lore.ts"
 
 function toldAll(step: TurnStep): string[] {
-  return [MASTER, BUILDER, WRITER].map((to) => `${to}: The turn \`${AT}\` is at ${step}.`)
+  const said = `The turn \`${AT}\` is at ${step}.`
+  const body = step === "writer" ? `${said}\n\n${loreLine([MARA_LORE])}` : said
+  return [MASTER, BUILDER, WRITER].map((to) => `${to}: ${body}`)
 }
 
 const GIVEN: Given = { root: ROOT, calledAs: CALLED, from: "", writer: null, agentId: "an-agent" }
@@ -138,7 +139,7 @@ function reachOver(
       into.notices.push(`${to}: ${body}`)
       return null
     },
-    loreOf: (_root, characters) => (characters.includes(MARA) ? [MARA_LORE] : []),
+    loreOf: () => [MARA_LORE],
   }
 }
 
@@ -166,7 +167,7 @@ async function advancedBy(
   )
 }
 
-test("the game master's beats land on the turn and tell the writer, starting no seat", async () => {
+test("the game master's beats land on the turn and tell the writer the lore to read, starting no seat", async () => {
   const into = seen()
   const reach = reachOver(turnAt("game-master"), seatOf("game-master", MASTER), into)
   const answer = await advancedBy(["--beats-file", join(ROOT, "beats.txt")], reach)

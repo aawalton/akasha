@@ -14,13 +14,15 @@ import {
   sweptAll,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import {
   type Turn as Placed,
   turnsIndexed,
 } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
-import type {
-  Recorder,
-  Reviewer,
+import {
+  loreLine,
+  type Recorder,
+  type Reviewer,
 } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
@@ -57,6 +59,7 @@ import {
   noticeOf,
   TURN_SENDER,
   type TurnStep,
+  WRITER,
 } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { noticedOf } from "akasha/story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
@@ -91,6 +94,10 @@ const GAME_STATED = "domain-slug"
 
 const PERSONA = "persona"
 
+const COLLECTIONS = "partOfCollections"
+
+const CHARACTERS = "characters"
+
 export type Turn = { readonly at: string; readonly slug: string; readonly value: Value }
 
 export type Seated = {
@@ -124,7 +131,7 @@ export type Reach = {
   readonly start: (starting: Starting, done: string[]) => Promise<string>
   readonly stop: (root: string, seat: string) => undefined
   readonly notify: (to: string, body: string) => Promise<string | null>
-  readonly loreOf: (root: string, characters: readonly string[]) => readonly string[]
+  readonly loreOf: (root: string, game: string, characters: readonly string[]) => readonly string[]
 }
 
 export type Rewinding = Reach & {
@@ -141,14 +148,17 @@ export async function noticesSent(
   master: string | null,
   turn: string,
   status: TurnStep,
-  after: Told
+  after: Told,
+  toRead: readonly string[] = []
 ): Promise<undefined> {
   if (master === null) {
     after.faults.push(`\`${game}\` names no game master seat, so no seat was told the turn moved`)
     return undefined
   }
+  const said = noticeOf(turn, status)
+  const body = status === WRITER && toRead.length > 0 ? `${said}\n\n${loreLine(toRead)}` : said
   for (const to of noticedOf(master, game)) {
-    const why = await reach.notify(to, noticeOf(turn, status))
+    const why = await reach.notify(to, body)
     if (why === null) after.report.push(`told\t${to}`)
     else after.faults.push(`\`${to}\` was not told the turn moved: ${why}`)
   }
@@ -235,9 +245,17 @@ function personaAt(root: string, character: string): string | null {
   return value === null ? null : textAt(value, PERSONA)
 }
 
-function loreIndexed(root: string, characters: readonly string[]): readonly string[] {
-  const personas = characters.flatMap((one) => personaAt(root, one) ?? [])
-  const about = new Set([...characters, ...personas])
+function castIndexed(root: string, game: string): readonly string[] {
+  const story = `${storyPlayed.slug}/${game}`
+  return valuesOfType(root, storyTurnPlayed.slug).flatMap((one) =>
+    stringsIn(one.value[COLLECTIONS]).includes(story) ? stringsIn(one.value[CHARACTERS]) : []
+  )
+}
+
+function loreIndexed(root: string, game: string, characters: readonly string[]): readonly string[] {
+  const cast = [...new Set([...characters, ...castIndexed(root, game)])]
+  const personas = cast.flatMap((one) => personaAt(root, one) ?? [])
+  const about = new Set([...cast, ...personas])
   const withheld = withheldIn(root)
   const found: string[] = []
   for (const [path, value] of valuesByPath(root, lore.slug)) {
