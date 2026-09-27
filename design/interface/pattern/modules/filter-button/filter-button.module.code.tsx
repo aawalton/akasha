@@ -48,7 +48,7 @@ export function FilterButton({
     </Button>
   )
 
-  if (emptySelectOptions && !hasActiveFilters) {
+  if (emptySelectOptions && !hasActiveFilters && !popoverOpen) {
     return (
       <DropdownMenu>
         <DropdownMenuTrigger asChild>{triggerButton}</DropdownMenuTrigger>

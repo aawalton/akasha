@@ -2526,6 +2526,7 @@
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/nav-active/nav-active.module.ts","id":"01a05b82-8b9a-745f-97df-0cda03922d9c"}
 {"propertySlug":"decision-kind","path":"design/interface/layout/modules/panel-toggle-provider/panel-toggle-provider.module.ts","id":"01a05b82-8b99-71ea-8418-c319e661ecd8"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/drag-hold/drag-hold.module.ts","id":"01a09093-a35f-7798-8306-75a6528275cb"}
+{"propertySlug":"decision-kind","path":"design/interface/pattern/modules/filter-button/filter-button.module.ts","id":"01a05c69-c061-75af-a7c1-4fa64f360ba0"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/filter-changing/filter-changing.module.ts","id":"01a090ec-d6a6-7001-9492-6e84f3f7dfe4"}
 {"propertySlug":"decision-kind","path":"design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.ts","id":"01a061ed-653b-73ef-8556-969d798ee2a5"}
 {"propertySlug":"decision-kind","path":"design/interface/primitive/modules/keyboard-registry/keyboard-registry.module.ts","id":"01a05be9-d4c7-787e-a190-6647b46fad91"}

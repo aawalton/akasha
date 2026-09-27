@@ -6,4 +6,10 @@ export const filterButton = {
   slug: "filter-button",
   definition: "the button opening a filter's choices",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A filter picked from the empty menu opens its choices before any choice is made.",
+    },
+  ],
 } as const satisfies Module
