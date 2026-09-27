@@ -2,8 +2,55 @@ import { mayRead } from "akasha/alan/harness/web-page-answer/modules/reader-acce
 import { readAlanUser } from "akasha/alan/web/.server/alan-session-reader/alan-session-reader.module.code.ts"
 import { endingOf } from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import { filingFor } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
+import sharp from "sharp"
 
 const IMAGE_TYPE = { png: "image/png", jpg: "image/jpeg" } as const
+
+const SIZED_TYPE = "image/webp"
+
+const SIZED_QUALITY = 80
+
+const WIDTHS = [160, 320, 480, 640, 960, 1280, 1920] as const
+
+const WIDEST = 1920
+
+const WIDTH_ASKED = "w"
+
+const SIZED_HELD = 64
+
+const sized = new Map<string, Uint8Array<ArrayBuffer>>()
+
+export function snappedWidth(asked: string | null): number | null {
+  if (asked === null) return null
+  const width = Number(asked)
+  if (!Number.isFinite(width) || width <= 0) return null
+  return WIDTHS.find((one) => one >= width) ?? WIDEST
+}
+
+async function sizedBytes(
+  key: string,
+  bytes: Uint8Array,
+  width: number
+): Promise<Uint8Array<ArrayBuffer>> {
+  const held = sized.get(key)
+  if (held !== undefined) {
+    sized.delete(key)
+    sized.set(key, held)
+    return held
+  }
+  const made = Uint8Array.from(
+    await sharp(bytes)
+      .resize({ width, withoutEnlargement: true })
+      .webp({ quality: SIZED_QUALITY })
+      .toBuffer()
+  )
+  sized.set(key, made)
+  if (sized.size > SIZED_HELD) {
+    const oldest = sized.keys().next().value
+    if (oldest !== undefined) sized.delete(oldest)
+  }
+  return made
+}
 
 const TEXT_TYPE = "text/plain; charset=utf-8"
 
@@ -48,8 +95,15 @@ export async function loader({
   })
   if ("refused" in held) return new Response("Not Found", { status: 404, headers })
 
-  headers.set("Content-Type", typeOf(held.bytes))
   headers.set("X-Content-Type-Options", "nosniff")
   headers.set("Cache-Control", params.pageTypeSlug === NAMED_BY_BYTES ? HELD_FOR_GOOD : HELD_FOR)
+  const width = snappedWidth(new URL(request.url).searchParams.get(WIDTH_ASKED))
+  if (params.pageTypeSlug === NAMED_BY_BYTES && width !== null && endingOf(held.bytes) !== null) {
+    const key = `${params.slug}/${params.key}/${width}`
+    headers.set("Content-Type", SIZED_TYPE)
+    headers.set("ETag", `"${key}"`)
+    return new Response(await sizedBytes(key, held.bytes, width), { headers })
+  }
+  headers.set("Content-Type", typeOf(held.bytes))
   return new Response(held.bytes, { headers })
 }

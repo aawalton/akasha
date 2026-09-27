@@ -24,5 +24,22 @@ export const alanWebApiPageFile = {
       decisionKind: "decision-kind/departure",
       statement: "A browser keeps an image's file a year without asking for it again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An image asked for at a width is answered as WebP at the nearest fixed width at or above it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image is never made wider than it is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The last sixty-four images made at a width are held rather than made again.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An image made at a width is still answered to its reader alone.",
+    },
   ],
 } as const satisfies Route
