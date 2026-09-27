@@ -14,7 +14,10 @@ import type {
   InventoryDatabase,
   InventoryLocationData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import type { CategoryPath } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import type {
+  CategoryPath,
+  ItemCategoryRoots,
+} from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import {
   classifyLocation,
@@ -261,14 +264,17 @@ export function groupInventoryByLocation(
   }
 }
 
-export function groupInventoryByType(inventory: InventoryDatabase): InventoryTypeSummary {
+export function groupInventoryByType(
+  inventory: InventoryDatabase,
+  roots: ItemCategoryRoots
+): InventoryTypeSummary {
   const categoryMap = new Map<InventoryTypeCategory, InventoryTypeEntry[]>()
 
   for (const [locationKey, location] of Object.entries(inventory.locations)) {
     for (const row of flattenLocationItems(locationKey, location)) {
       const path = row.key.includes("-placed-")
         ? (["Furnishings", "Placed"] satisfies CategoryPath)
-        : classifyItem(row)
+        : classifyItem(row, roots)
       const head = path[0]
       const category: InventoryTypeCategory = isInventoryTypeCategory(head) ? head : "Miscellaneous"
 

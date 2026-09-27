@@ -26,6 +26,7 @@ import {
 } from "akasha/temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
+import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import {
   leafToValueData,
@@ -128,11 +129,12 @@ export function AffectedItemsViews({
   const [viewMode, setViewMode] = useState<ViewMode>(defaultView)
   const [valueDialogData, setValueDialogData] = useState<ValueExplanationData | null>(null)
   const [valueDialogOpen, setValueDialogOpen] = useState(false)
-  const typeNodes = useMemo(() => buildAffectedItemNodes(items), [items])
+  const categories = useItemCategories()
+  const typeNodes = useMemo(() => buildAffectedItemNodes(items, categories), [items, categories])
   const locations = useKeyedTitles(temperLocationType.slug)
   const locationNodes = useMemo(
-    () => (locations === null ? [] : buildAffectedItemLocationNodes(items, locations)),
-    [items, locations]
+    () => (locations === null ? [] : buildAffectedItemLocationNodes(items, locations, categories)),
+    [items, locations, categories]
   )
   const smartTypeExpanded = useMemo(() => computeSmartTreeExpanded(typeNodes), [typeNodes])
   const smartLocationExpanded = useMemo(

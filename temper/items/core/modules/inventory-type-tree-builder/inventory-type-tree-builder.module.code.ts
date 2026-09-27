@@ -10,11 +10,8 @@ import type {
   InventoryTypeEntry,
 } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
-import { ITEM_CATEGORY_TREE } from "akasha/temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts"
-import type {
-  ItemCategoryNode,
-  ItemCategoryTree,
-} from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import type { ItemCategoriesKeyed } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
+import type { ItemCategoryNode } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { ItemTooltipInstance } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 
 function buildLeaf(entry: InventoryTypeEntry, useCompanionTraits: boolean): InventoryNode {
@@ -192,11 +189,10 @@ function buildDataDrivenNodes(
 
 export function buildInventoryTypeNodes(
   entries: readonly InventoryTypeEntry[],
-  category: InventoryTypeCategory
+  category: InventoryTypeCategory,
+  categories: ItemCategoriesKeyed
 ): readonly InventoryNode[] {
-  const treeKey = category.toLowerCase()
-  const tree: ItemCategoryTree = ITEM_CATEGORY_TREE
-  const treeNode = tree[treeKey]
+  const treeNode: ItemCategoryNode | undefined = categories[category.toLowerCase()]
 
   if (!treeNode?.children) {
     return buildNameGroupedLeaves(entries, category === "Companion")

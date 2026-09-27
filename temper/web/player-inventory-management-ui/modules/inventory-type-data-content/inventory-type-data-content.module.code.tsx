@@ -24,6 +24,7 @@ import {
 } from "akasha/temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { temperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
+import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import {
@@ -113,10 +114,12 @@ export function InventoryTypeDataContent({
     return lookupCurrencyConversionRates(currencyPricing)
   }, [currencyPricing])
 
+  const roots = useItemCategories().roots
+
   const typeSummary = useMemo(() => {
     if (!inventory) return null
-    return groupInventoryByType(inventory)
-  }, [inventory])
+    return groupInventoryByType(inventory, roots)
+  }, [inventory, roots])
 
   const allTraits = useMemo(
     () => [

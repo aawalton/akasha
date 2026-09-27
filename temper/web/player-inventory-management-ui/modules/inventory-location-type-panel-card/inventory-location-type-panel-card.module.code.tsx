@@ -21,8 +21,10 @@ import type {
   CurrencyBalances,
   InventoryCurrencies,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type { ItemCategories } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
 import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import {
   InventoryPanelCard,
   type InventorySortMode,
@@ -45,10 +47,13 @@ function buildCurrencyBranch(
   return { key: "currencies", label: "Currencies", children: leaves }
 }
 
-function buildTypeBranches(items: readonly InventoryItemRow[]): readonly InventoryNode[] {
+function buildTypeBranches(
+  items: readonly InventoryItemRow[],
+  categories: ItemCategories
+): readonly InventoryNode[] {
   const categoryMap = new Map<InventoryTypeCategory, InventoryTypeEntry[]>()
   for (const item of items) {
-    const path = classifyItem(item)
+    const path = classifyItem(item, categories.roots)
     const head = path[0]
     const category: InventoryTypeCategory = isInventoryTypeCategory(head) ? head : "Miscellaneous"
     let list = categoryMap.get(category)
@@ -66,14 +71,17 @@ function buildTypeBranches(items: readonly InventoryItemRow[]): readonly Invento
     result.push({
       key: category,
       label: category,
-      children: buildInventoryTypeNodes(entries, category),
+      children: buildInventoryTypeNodes(entries, category, categories.keyed),
     })
   }
   return result
 }
 
-function buildCharacterBranches(group: InventoryLocationGroup): readonly InventoryNode[] {
-  if (!group.bagCapacities) return buildTypeBranches(group.items)
+function buildCharacterBranches(
+  group: InventoryLocationGroup,
+  categories: ItemCategories
+): readonly InventoryNode[] {
+  if (!group.bagCapacities) return buildTypeBranches(group.items, categories)
 
   const worn: InventoryItemRow[] = []
   const backpack: InventoryItemRow[] = []
@@ -88,7 +96,7 @@ function buildCharacterBranches(group: InventoryLocationGroup): readonly Invento
     branches.push({
       key: "worn",
       label: "Worn",
-      children: buildTypeBranches(worn),
+      children: buildTypeBranches(worn, categories),
       slotCount: worn.length,
       bagCapacity: group.bagCapacities[ESO_BAG_WORN],
     })
@@ -98,13 +106,13 @@ function buildCharacterBranches(group: InventoryLocationGroup): readonly Invento
     branches.push({
       key: "backpack",
       label: "Backpack",
-      children: buildTypeBranches(backpack),
+      children: buildTypeBranches(backpack, categories),
       slotCount: backpack.length,
       bagCapacity: group.bagCapacities[ESO_BAG_BACKPACK],
     })
   }
 
-  if (branches.length === 0) return buildTypeBranches(group.items)
+  if (branches.length === 0) return buildTypeBranches(group.items, categories)
 
   return branches
 }
@@ -127,6 +135,7 @@ export function InventoryLocationTypePanelCard({
   sortDirection,
 }: InventoryLocationTypePanelCardProps) {
   const isSingleton = card.groups.length === 1 && card.locationType !== "guild"
+  const categories = useItemCategories()
 
   const nodes = useMemo(() => {
     if (isSingleton) {
@@ -136,13 +145,13 @@ export function InventoryLocationTypePanelCard({
       if (card.locationType === "craftbag") {
         const entries = onlyGroup.items.map((row) => ({
           row,
-          path: classifyItem(row),
+          path: classifyItem(row, categories.roots),
         }))
-        return buildInventoryTypeNodes(entries, "Crafting")
+        return buildInventoryTypeNodes(entries, "Crafting", categories.keyed)
       }
 
       if (card.locationType === "character") {
-        const charBranches = buildCharacterBranches(onlyGroup)
+        const charBranches = buildCharacterBranches(onlyGroup, categories)
         const character = currencies?.characters[onlyGroup.locationKey]
         if (character) {
           const currencyBranch = buildCurrencyBranch(
@@ -155,7 +164,7 @@ export function InventoryLocationTypePanelCard({
         return charBranches
       }
 
-      const typeNodes = buildTypeBranches(onlyGroup.items)
+      const typeNodes = buildTypeBranches(onlyGroup.items, categories)
 
       if (card.locationType === "bank" && currencies?.bank) {
         const currencyBranch = buildCurrencyBranch(currencies.bank, currencyTitles, conversionRates)
@@ -167,7 +176,7 @@ export function InventoryLocationTypePanelCard({
 
     return card.groups.map((group): InventoryNode => {
       if (card.locationType === "character") {
-        const charChildren = buildCharacterBranches(group)
+        const charChildren = buildCharacterBranches(group, categories)
         const character = currencies?.characters[group.locationKey]
         const currencyBranch = character
           ? buildCurrencyBranch(character.balances, currencyTitles, conversionRates)
@@ -180,7 +189,7 @@ export function InventoryLocationTypePanelCard({
         }
       }
 
-      const typeChildren = buildTypeBranches(group.items)
+      const typeChildren = buildTypeBranches(group.items, categories)
       return {
         key: group.locationKey,
         label: group.displayName,
@@ -189,7 +198,15 @@ export function InventoryLocationTypePanelCard({
         bagCapacity: group.bagCapacity,
       }
     })
-  }, [card.groups, card.locationType, isSingleton, currencies, currencyTitles, conversionRates])
+  }, [
+    card.groups,
+    card.locationType,
+    isSingleton,
+    currencies,
+    currencyTitles,
+    conversionRates,
+    categories,
+  ])
 
   const singletonGroup = isSingleton ? card.groups[0] : undefined
   const singletonBagCapacity =

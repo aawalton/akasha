@@ -6,4 +6,10 @@ export const classifyItem = {
   slug: "classify-item",
   definition: "the branch of the item category tree an item belongs under, named all the way down",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item is tried against the roots it is handed, in the order they are handed.",
+    },
+  ],
 } as const satisfies Module

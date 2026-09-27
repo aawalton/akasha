@@ -8,6 +8,11 @@ import {
 } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import { buildInventoryTypeNodes } from "akasha/temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
+import type {
+  ItemCategories,
+  ItemCategoriesKeyed,
+} from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
+import type { ItemCategoryRoots } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import {
   type KeyedTitles,
   titleOf,
@@ -19,7 +24,11 @@ import {
 } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
-function toTypeEntry(affected: AffectedItem, index: number): InventoryTypeEntry {
+function toTypeEntry(
+  affected: AffectedItem,
+  index: number,
+  roots: ItemCategoryRoots
+): InventoryTypeEntry {
   const { item, locationKey } = affected
   return {
     row: {
@@ -47,12 +56,13 @@ function toTypeEntry(affected: AffectedItem, index: number): InventoryTypeEntry 
       amountCount: item.amountCount,
       saleAmountCount: item.saleAmountCount,
     },
-    path: classifyItem(item),
+    path: classifyItem(item, roots),
   }
 }
 
 function buildTypeBranchesFromEntries(
-  entries: readonly InventoryTypeEntry[]
+  entries: readonly InventoryTypeEntry[],
+  keyed: ItemCategoriesKeyed
 ): readonly InventoryNode[] {
   const byCategory = new Map<string, InventoryTypeEntry[]>()
   for (const entry of entries) {
@@ -70,16 +80,19 @@ function buildTypeBranchesFromEntries(
   for (const category of INVENTORY_TYPE_CATEGORY_ORDER) {
     const categoryEntries = byCategory.get(category)
     if (!categoryEntries || categoryEntries.length === 0) continue
-    const children = buildInventoryTypeNodes(categoryEntries, category)
+    const children = buildInventoryTypeNodes(categoryEntries, category, keyed)
     if (children.length === 0) continue
     nodes.push({ key: category.toLowerCase(), label: category, children })
   }
   return nodes
 }
 
-export function buildAffectedItemNodes(items: readonly AffectedItem[]): readonly InventoryNode[] {
-  const entries = items.map(toTypeEntry)
-  return buildTypeBranchesFromEntries(entries)
+export function buildAffectedItemNodes(
+  items: readonly AffectedItem[],
+  categories: ItemCategories
+): readonly InventoryNode[] {
+  const entries = items.map((affected, index) => toTypeEntry(affected, index, categories.roots))
+  return buildTypeBranchesFromEntries(entries, categories.keyed)
 }
 
 interface LocationGroup {
@@ -91,7 +104,8 @@ interface LocationGroup {
 
 export function buildAffectedItemLocationNodes(
   items: readonly AffectedItem[],
-  locations: KeyedTitles
+  locations: KeyedTitles,
+  categories: ItemCategories
 ): readonly InventoryNode[] {
   const accumulator = new Map<string, { affected: AffectedItem; index: number }[]>()
   const locationMap = new Map<string, LocationGroup>()
@@ -132,7 +146,7 @@ export function buildAffectedItemLocationNodes(
 
     if (isSingleton) {
       const group = requireFirst(groups, "groups")
-      const locationChildren = buildLocationGroupChildren(group)
+      const locationChildren = buildLocationGroupChildren(group, categories)
       nodes.push({
         key: locationType,
         label: titleOf(locations, locationType),
@@ -142,7 +156,7 @@ export function buildAffectedItemLocationNodes(
       const locationNodes: InventoryNode[] = groups.map((group) => ({
         key: group.locationKey,
         label: group.displayName,
-        children: buildLocationGroupChildren(group),
+        children: buildLocationGroupChildren(group, categories),
       }))
       nodes.push({
         key: locationType,
@@ -155,8 +169,12 @@ export function buildAffectedItemLocationNodes(
   return nodes
 }
 
-function buildLocationGroupChildren(group: LocationGroup): readonly InventoryNode[] {
-  const entries = group.items.map(({ affected, index }) => toTypeEntry(affected, index))
+function buildLocationGroupChildren(
+  group: LocationGroup,
+  categories: ItemCategories
+): readonly InventoryNode[] {
+  const { roots, keyed } = categories
+  const entries = group.items.map(({ affected, index }) => toTypeEntry(affected, index, roots))
 
   if (group.locationType === "character") {
     const wornEntries: InventoryTypeEntry[] = []
@@ -173,22 +191,22 @@ function buildLocationGroupChildren(group: LocationGroup): readonly InventoryNod
       branches.push({
         key: "worn",
         label: "Worn",
-        children: buildTypeBranchesFromEntries(wornEntries),
+        children: buildTypeBranchesFromEntries(wornEntries, keyed),
       })
     }
     if (backpackEntries.length > 0) {
       branches.push({
         key: "backpack",
         label: "Backpack",
-        children: buildTypeBranchesFromEntries(backpackEntries),
+        children: buildTypeBranchesFromEntries(backpackEntries, keyed),
       })
     }
-    return branches.length > 0 ? branches : buildTypeBranchesFromEntries(entries)
+    return branches.length > 0 ? branches : buildTypeBranchesFromEntries(entries, keyed)
   }
 
   if (group.locationType === "craftbag") {
-    return buildInventoryTypeNodes(entries, "Crafting")
+    return buildInventoryTypeNodes(entries, "Crafting", keyed)
   }
 
-  return buildTypeBranchesFromEntries(entries)
+  return buildTypeBranchesFromEntries(entries, keyed)
 }
