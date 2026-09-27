@@ -10,7 +10,7 @@ export const otherwhere00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: '"Uh...what packet? I was sitting in my house and then I was here..."',
   beats: [
     'She says, "Uh... what packet? I was sitting in my house and then I was here..."',
@@ -26,5 +26,5 @@ export const otherwhere00006 = {
   ],
   lore: ["lore/otherwhere-alan"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
