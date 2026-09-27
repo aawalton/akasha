@@ -3327,6 +3327,7 @@
 {"propertySlug":"decision-kind","path":"page/page.page-type.ts","id":"01a049b9-856c-7090-bd14-5a916f574259"}
 {"propertySlug":"decision-kind","path":"page/phone-number-property/phone-number-property.page-type.ts","id":"01a053e9-5cd1-7137-9fbb-c33920c95575"}
 {"propertySlug":"decision-kind","path":"page/process-property/process-property.page-type.ts","id":"01a05406-9bc6-71c5-8fcf-b15b97d86578"}
+{"propertySlug":"decision-kind","path":"page/properties/cover.relation-property.ts","id":"01a0539d-94a2-71f8-83d3-2c8cd1f8db2e"}
 {"propertySlug":"decision-kind","path":"page/properties/entries.file-property.ts","id":"01a06dc1-5cd2-7bc0-b943-c68e1d872c39"}
 {"propertySlug":"decision-kind","path":"page/properties/grade.grade-property.ts","id":"01a0655b-4a9b-7003-a822-f4a3ceda67b2"}
 {"propertySlug":"decision-kind","path":"page/properties/icon.text-property.ts","id":"01a05fac-7584-7877-a778-efd8ee361ce1"}

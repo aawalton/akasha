@@ -12,6 +12,10 @@ export const cover = {
       decisionKind: "decision-kind/absence",
       statement: "Nobody sets a cover by hand other than a character's cover.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A played turn's cover is the picture a recorder made of that turn.",
+    },
   ],
   types: "ts",
 } as const satisfies RelationProperty
