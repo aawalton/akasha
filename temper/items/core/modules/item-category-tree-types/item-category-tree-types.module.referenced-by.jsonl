@@ -8,6 +8,8 @@
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/items/core/modules/item-category-tree-data/item-category-tree-data.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/items/core/modules/item-category-tree-reading/item-category-tree-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-engine/inventory-rule-engine.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-mapping/inventory-rule-mapping.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"item-category-tree-types.module.code.ts","path":"temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts","typed":true,"deferred":false}

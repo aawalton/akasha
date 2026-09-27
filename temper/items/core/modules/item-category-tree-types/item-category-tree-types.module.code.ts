@@ -18,6 +18,8 @@ export interface ItemCategoryTree {
   [categoryId: string]: ItemCategoryNode | undefined
 }
 
+export type ItemCategoryRoots = readonly ItemCategoryNode[]
+
 export interface ClassifiableItem {
   filterType: number
   itemType: number
