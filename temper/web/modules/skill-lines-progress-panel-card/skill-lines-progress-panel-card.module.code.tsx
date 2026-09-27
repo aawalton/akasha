@@ -1,4 +1,5 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
 import { skillLineCategoriesSorted } from "akasha/temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.code.ts"
 import {
@@ -18,6 +19,7 @@ import {
   EXCLUDED_CATEGORIES,
   EXCLUDED_SKILL_LINES,
 } from "akasha/temper/player/skill-morph/access/modules/eso-id-helpers/eso-id-helpers.module.code.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { skillLinesProgressPanelCardTitle } from "akasha/temper/web/phrase/pages/skill-lines-progress-panel-card-title.temper-web-phrase.ts"
 import {
@@ -51,6 +53,7 @@ export function SkillLinesProgressPanelCard({
   sortDirection,
 }: SkillLinesProgressPanelCardProps) {
   const phrase = usePhrase()
+  const categoryTitles = useKeyedTitles(temperSkillLineCategory.slug)
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? progress
@@ -214,7 +217,7 @@ export function SkillLinesProgressPanelCard({
                 : ["characters"]
       return {
         key: category.id,
-        label: category.name,
+        label: categoryTitles?.titles.get(category.id) ?? "",
         children: withActivityCategories(children, activityCategories),
         activityCategories,
       }
