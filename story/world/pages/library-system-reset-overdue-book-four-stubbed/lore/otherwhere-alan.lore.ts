@@ -116,6 +116,10 @@ export const otherwhereAlan = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "A bookworm bit Nala's calf through her black tights, tearing them; the bite bleeds but isn't deep.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

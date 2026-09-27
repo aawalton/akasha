@@ -16,7 +16,7 @@ export const otherwhere00014 = {
     "character-other/otherwhere-engorged-bookworm-01",
     "character-other/otherwhere-engorged-bookworm-02",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I quietly go and get the scoop, then give the bookworm one more careful scoop of salt",
   beats: [
     "She moves quietly, circling wide around the bookworm toward the scoop, socks silent on the floor.",
@@ -36,5 +36,5 @@ export const otherwhere00014 = {
   ],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed

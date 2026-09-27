@@ -247,6 +247,26 @@ export const otherwhereMainHall = {
       fact: "Nala's tin scoop lies in the gloom behind the bookworm, which is between her and the scoop.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Moving silently did not hide Nala; the blind bookworm turned and tracked her anyway.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala got the tin scoop back from the gloom; the salted bookworm lunged as she passed and missed.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "A second small bookworm lifted its head toward Nala as she took the scoop, but stayed on its heap.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala's third salt throw missed; the bookworm jerked aside, and the salt lies heaped beside it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The salted bookworm lies at Nala's feet by the salt box, its mouth open and working.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
