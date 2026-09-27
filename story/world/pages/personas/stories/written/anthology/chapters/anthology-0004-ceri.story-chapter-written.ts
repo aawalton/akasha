@@ -4,7 +4,7 @@ export const anthology0004Ceri = {
   id: "01a06599-c380-7f5d-9701-dd76e968f548",
   type: "page-type/story-chapter-written",
   slug: "anthology-0004-ceri",
-  ownProgress: 2808,
+  ownProgress: 2889,
   title: "Ceri",
   story: "story-written/anthology",
   position: 4,
