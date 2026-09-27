@@ -13,4 +13,10 @@ export const image43ccf141b86256ae = {
     "setting-tag/dimly-lit",
     "setting-tag/dark-background",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/close-up",
+    "pose-tag/upper-body",
+    "pose-tag/sitting",
+  ],
 } as const satisfies Image

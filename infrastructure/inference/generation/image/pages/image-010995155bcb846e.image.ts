@@ -12,4 +12,5 @@ export const image010995155bcb846e = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  poseTags: ["pose-tag/reading", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
 } as const satisfies Image

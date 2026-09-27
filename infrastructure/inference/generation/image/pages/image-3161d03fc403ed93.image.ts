@@ -18,4 +18,5 @@ export const image3161d03fc403ed93 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/indoor", "setting-tag/office", "setting-tag/study"],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const image34a280d7e117b976 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/nature"],
+  poseTags: ["pose-tag/running", "pose-tag/walking", "pose-tag/smiling"],
 } as const satisfies Image

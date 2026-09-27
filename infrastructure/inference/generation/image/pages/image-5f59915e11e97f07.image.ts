@@ -19,4 +19,10 @@ export const image5f59915e11e97f07 = {
     "setting-tag/nature",
     "setting-tag/sunset",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/profile",
+    "pose-tag/looking-away",
+    "pose-tag/back-view",
+  ],
 } as const satisfies Image

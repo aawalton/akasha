@@ -12,4 +12,5 @@ export const imageE8908379cae0de0e = {
     "setting-tag/campfire",
     "setting-tag/bedroom",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

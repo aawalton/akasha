@@ -19,4 +19,10 @@ export const imageE082c474c5b3a8c6 = {
     "setting-tag/city",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/hand-in-hair",
+    "pose-tag/standing",
+  ],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const image51d553453f997afe = {
     "setting-tag/hallway",
     "setting-tag/ocean",
   ],
+  poseTags: ["pose-tag/walking", "pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

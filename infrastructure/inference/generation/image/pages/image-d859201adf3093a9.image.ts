@@ -22,4 +22,5 @@ export const imageD859201adf3093a9 = {
     "setting-tag/castle",
     "setting-tag/balcony",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
 } as const satisfies Image

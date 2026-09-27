@@ -17,4 +17,5 @@ export const image1cae81b39c572053 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/window"],
+  poseTags: ["pose-tag/lying-down", "pose-tag/lying-on-stomach", "pose-tag/sleeping"],
 } as const satisfies Image

@@ -7,4 +7,5 @@ export const imageCa4bcb29fece4356 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/town"],
+  poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/masturbation"],
 } as const satisfies Image

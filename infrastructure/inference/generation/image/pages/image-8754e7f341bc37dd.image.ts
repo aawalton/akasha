@@ -12,4 +12,5 @@ export const image8754e7f341bc37dd = {
     "setting-tag/sunset",
     "setting-tag/sky",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
 } as const satisfies Image

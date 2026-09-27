@@ -18,4 +18,10 @@ export const image180ea170ac96fe88 = {
     "setting-tag/autumn",
     "setting-tag/city-street",
   ],
+  poseTags: [
+    "pose-tag/portrait",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/standing",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

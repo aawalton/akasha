@@ -12,4 +12,10 @@ export const image47422ce66d21ee18 = {
     "setting-tag/bedroom",
     "setting-tag/town",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/back-view",
+    "pose-tag/side-by-side",
+  ],
 } as const satisfies Image

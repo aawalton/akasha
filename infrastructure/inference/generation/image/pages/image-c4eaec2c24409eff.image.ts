@@ -7,4 +7,10 @@ export const imageC4eaec2c24409eff = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bathroom", "setting-tag/shower", "setting-tag/water"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/hands-behind-head",
+    "pose-tag/looking-away",
+    "pose-tag/full-body",
+  ],
 } as const satisfies Image

@@ -17,4 +17,10 @@ export const imageB66f95ea3624807a = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/nature"],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/cross-legged",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

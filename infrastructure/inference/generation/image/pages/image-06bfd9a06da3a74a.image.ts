@@ -23,4 +23,5 @@ export const image06bfd9a06da3a74a = {
     "setting-tag/dock",
     "setting-tag/city-street",
   ],
+  poseTags: ["pose-tag/running", "pose-tag/profile", "pose-tag/walking"],
 } as const satisfies Image

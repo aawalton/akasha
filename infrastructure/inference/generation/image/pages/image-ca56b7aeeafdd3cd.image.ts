@@ -23,4 +23,5 @@ export const imageCa56b7aeeafdd3cd = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/workshop", "setting-tag/cabin"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
 } as const satisfies Image

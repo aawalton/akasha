@@ -18,4 +18,10 @@ export const imageDfdf5a242cfe5543 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/candlelight"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/full-body",
+    "pose-tag/legs-spread",
+  ],
 } as const satisfies Image

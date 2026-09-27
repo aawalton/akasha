@@ -12,4 +12,5 @@ export const imageBcf9285003fb7d45 = {
     "setting-tag/dark-background",
     "setting-tag/snow",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/front-view"],
 } as const satisfies Image

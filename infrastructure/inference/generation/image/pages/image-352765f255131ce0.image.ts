@@ -17,4 +17,10 @@ export const image352765f255131ce0 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio"],
+  poseTags: [
+    "pose-tag/close-up",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/working",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

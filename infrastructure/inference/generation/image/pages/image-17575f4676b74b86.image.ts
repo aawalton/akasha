@@ -13,4 +13,10 @@ export const image17575f4676b74b86 = {
     "setting-tag/night",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/lying-down",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/close-up",
+  ],
 } as const satisfies Image

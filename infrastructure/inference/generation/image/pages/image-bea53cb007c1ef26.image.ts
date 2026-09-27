@@ -8,4 +8,5 @@ export const imageBea53cb007c1ef26 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/river", "setting-tag/rain", "setting-tag/outdoor"],
+  poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

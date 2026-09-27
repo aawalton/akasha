@@ -7,4 +7,10 @@ export const image406ce5e5de7784de = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/ocean", "setting-tag/outdoor", "setting-tag/abstract-background"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-umbrella",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/front-view",
+  ],
 } as const satisfies Image

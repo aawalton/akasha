@@ -18,4 +18,10 @@ export const imageAbf11cdf2a92c746 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/full-body",
+    "pose-tag/looking-away",
+    "pose-tag/hand-on-hip",
+  ],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const imageC50e6647512f94a4 = {
   subjects: "FM",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/kitchen", "setting-tag/dining-room", "setting-tag/window"],
+  poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/eating"],
 } as const satisfies Image

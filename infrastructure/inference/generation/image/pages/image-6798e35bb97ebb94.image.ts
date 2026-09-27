@@ -18,4 +18,10 @@ export const image6798e35bb97ebb94 = {
     "setting-tag/nature",
     "setting-tag/sunset",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-away",
+    "pose-tag/profile",
+    "pose-tag/back-view",
+  ],
 } as const satisfies Image

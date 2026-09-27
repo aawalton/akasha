@@ -18,4 +18,5 @@ export const image7f6c0128766d0ad5 = {
     "setting-tag/studio",
     "setting-tag/dark-background",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

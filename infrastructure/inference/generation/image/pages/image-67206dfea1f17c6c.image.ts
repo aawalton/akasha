@@ -17,4 +17,5 @@ export const image67206dfea1f17c6c = {
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
+  poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
 } as const satisfies Image

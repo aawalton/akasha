@@ -12,4 +12,10 @@ export const imageC4d9d2f3552ea7d5 = {
     "setting-tag/mountains",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/full-body",
+  ],
 } as const satisfies Image

@@ -23,4 +23,5 @@ export const image8c111ed90b0756f5 = {
     "setting-tag/rooftop",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
 } as const satisfies Image

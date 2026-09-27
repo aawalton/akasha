@@ -18,4 +18,5 @@ export const image0140ceb25730c39a = {
   settingTags: ["setting-tag/mountains", "setting-tag/outdoor", "setting-tag/nature"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  poseTags: ["pose-tag/standing", "pose-tag/playing-music", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

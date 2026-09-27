@@ -12,4 +12,10 @@ export const imageBfbf9783f381580c = {
     "setting-tag/mountains",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

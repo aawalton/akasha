@@ -7,4 +7,5 @@ export const imageDf1ed741a8e47746 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/rain"],
+  poseTags: ["pose-tag/looking-up", "pose-tag/close-up", "pose-tag/portrait"],
 } as const satisfies Image

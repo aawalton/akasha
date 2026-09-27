@@ -7,4 +7,5 @@ export const imageDb56316f1f646354 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/dark-background"],
+  poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
 } as const satisfies Image

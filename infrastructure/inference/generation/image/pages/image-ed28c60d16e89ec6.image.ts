@@ -18,4 +18,5 @@ export const imageEd28c60d16e89ec6 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/hotel"],
+  poseTags: ["pose-tag/reclining", "pose-tag/looking-away", "pose-tag/sitting"],
 } as const satisfies Image

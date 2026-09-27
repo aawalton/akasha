@@ -14,4 +14,10 @@ export const imageD003477cba2d784c = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/museum", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/holding-clothing",
+  ],
 } as const satisfies Image

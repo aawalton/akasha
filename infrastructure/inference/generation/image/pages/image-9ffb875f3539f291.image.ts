@@ -17,4 +17,10 @@ export const image9ffb875f3539f291 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/castle", "setting-tag/campfire", "setting-tag/dimly-lit"],
+  poseTags: [
+    "pose-tag/kissing",
+    "pose-tag/holding-hands",
+    "pose-tag/legs-crossed",
+    "pose-tag/sitting",
+  ],
 } as const satisfies Image

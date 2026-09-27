@@ -19,4 +19,5 @@ export const image861db8719b756039 = {
     "setting-tag/park",
     "setting-tag/sunset",
   ],
+  poseTags: ["pose-tag/walking", "pose-tag/back-view"],
 } as const satisfies Image

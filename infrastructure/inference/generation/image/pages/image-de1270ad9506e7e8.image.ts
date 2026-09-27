@@ -12,4 +12,10 @@ export const imageDe1270ad9506e7e8 = {
     "setting-tag/city-street",
     "setting-tag/sunset",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/leaning",
+  ],
 } as const satisfies Image

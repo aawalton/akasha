@@ -9,4 +9,5 @@ export const image97e9f5e62fa83b10 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/bathroom", "setting-tag/shower"],
+  poseTags: ["pose-tag/looking-up", "pose-tag/arms-raised", "pose-tag/eyes-closed"],
 } as const satisfies Image

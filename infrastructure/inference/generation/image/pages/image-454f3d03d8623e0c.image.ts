@@ -18,4 +18,5 @@ export const image454f3d03d8623e0c = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/ocean"],
+  poseTags: ["pose-tag/stretching", "pose-tag/bent-over"],
 } as const satisfies Image

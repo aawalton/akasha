@@ -7,4 +7,10 @@ export const imageD25ba7fb62235b39 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/underwater", "setting-tag/dark-background", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/floating",
+    "pose-tag/top-down-view",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

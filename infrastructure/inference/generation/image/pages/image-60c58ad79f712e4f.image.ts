@@ -12,4 +12,10 @@ export const image60c58ad79f712e4f = {
     "setting-tag/rain",
     "setting-tag/city",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/working",
+  ],
 } as const satisfies Image

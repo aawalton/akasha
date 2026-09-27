@@ -12,4 +12,10 @@ export const image8c79477e6908c1b0 = {
     "setting-tag/outdoor",
     "setting-tag/hallway",
   ],
+  poseTags: [
+    "pose-tag/kneeling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/knees-up",
+    "pose-tag/hand-on-thigh",
+  ],
 } as const satisfies Image

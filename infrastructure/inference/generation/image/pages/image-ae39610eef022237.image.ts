@@ -14,4 +14,10 @@ export const imageAe39610eef022237 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/close-up",
+    "pose-tag/leaning-forward",
+  ],
 } as const satisfies Image

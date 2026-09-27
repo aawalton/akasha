@@ -18,4 +18,5 @@ export const imageD5d34088b862c178 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/night", "setting-tag/city", "setting-tag/rooftop"],
+  poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

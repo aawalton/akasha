@@ -18,4 +18,10 @@ export const imageDbc917f4482287e1 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/library", "setting-tag/candlelight"],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/reaching",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/sitting",
+  ],
 } as const satisfies Image

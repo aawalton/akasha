@@ -7,4 +7,5 @@ export const imageDf234b802b1313de = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/indoor"],
+  poseTags: ["pose-tag/lying-down", "pose-tag/knees-up", "pose-tag/looking-up"],
 } as const satisfies Image

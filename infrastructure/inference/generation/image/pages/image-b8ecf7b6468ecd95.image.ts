@@ -13,4 +13,5 @@ export const imageB8ecf7b6468ecd95 = {
     "setting-tag/indoor",
     "setting-tag/luxury",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
 } as const satisfies Image

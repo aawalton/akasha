@@ -18,4 +18,10 @@ export const imageD3ea169037428cbe = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/luxury"],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/knees-up",
+    "pose-tag/back-view",
+  ],
 } as const satisfies Image

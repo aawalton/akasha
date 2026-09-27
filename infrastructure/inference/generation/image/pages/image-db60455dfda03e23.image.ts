@@ -17,4 +17,5 @@ export const imageDb60455dfda03e23 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom"],
+  poseTags: ["pose-tag/lying-down", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

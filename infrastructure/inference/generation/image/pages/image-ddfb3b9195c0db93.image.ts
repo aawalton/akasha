@@ -18,4 +18,5 @@ export const imageDdfb3b9195c0db93 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/pool", "setting-tag/water", "setting-tag/outdoor"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
 } as const satisfies Image

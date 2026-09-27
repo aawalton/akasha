@@ -7,4 +7,5 @@ export const imageDbb3000cf711c9a9 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom"],
+  poseTags: ["pose-tag/all-fours", "pose-tag/looking-back", "pose-tag/back-view"],
 } as const satisfies Image

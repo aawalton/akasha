@@ -23,4 +23,5 @@ export const imageBfd06532cf5e1206 = {
     "setting-tag/water",
     "setting-tag/forest",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
 } as const satisfies Image

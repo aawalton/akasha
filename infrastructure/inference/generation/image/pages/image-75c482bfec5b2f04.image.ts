@@ -13,4 +13,5 @@ export const image75c482bfec5b2f04 = {
     "setting-tag/library",
     "setting-tag/study",
   ],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/sitting", "pose-tag/portrait"],
 } as const satisfies Image

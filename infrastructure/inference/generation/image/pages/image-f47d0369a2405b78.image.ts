@@ -6,4 +6,10 @@ export const imageF47d0369a2405b78 = {
   slug: "image-f47d0369a2405b78",
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/arms-raised",
+  ],
 } as const satisfies Image

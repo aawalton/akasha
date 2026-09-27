@@ -12,4 +12,5 @@ export const imageDdc71bb8867a845c = {
     "setting-tag/indoor",
     "setting-tag/dimly-lit",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

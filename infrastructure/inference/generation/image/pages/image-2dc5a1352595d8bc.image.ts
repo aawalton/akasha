@@ -19,4 +19,10 @@ export const image2dc5a1352595d8bc = {
     "setting-tag/cafe",
     "setting-tag/balcony",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/leaning",
+    "pose-tag/standing",
+  ],
 } as const satisfies Image

@@ -13,4 +13,10 @@ export const image21be3547a7243b1d = {
     "setting-tag/dark-background",
     "setting-tag/indoor",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/upper-body",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

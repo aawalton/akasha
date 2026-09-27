@@ -13,4 +13,10 @@ export const image2c72cf94680c994b = {
     "setting-tag/indoor",
     "setting-tag/studio",
   ],
+  poseTags: [
+    "pose-tag/portrait",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/standing",
+    "pose-tag/sitting",
+  ],
 } as const satisfies Image

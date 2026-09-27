@@ -9,4 +9,5 @@ export const imageCa0558332a061e52 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/rain"],
+  poseTags: ["pose-tag/looking-away", "pose-tag/sitting", "pose-tag/profile"],
 } as const satisfies Image

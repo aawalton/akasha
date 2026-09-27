@@ -17,4 +17,10 @@ export const image383d0f40ec777100 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/party", "setting-tag/stage", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/hand-on-hip",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

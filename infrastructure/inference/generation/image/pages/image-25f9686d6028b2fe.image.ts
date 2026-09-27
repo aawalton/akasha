@@ -12,4 +12,5 @@ export const image25f9686d6028b2fe = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/museum", "setting-tag/library"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
 } as const satisfies Image

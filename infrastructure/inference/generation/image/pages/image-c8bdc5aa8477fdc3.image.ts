@@ -17,4 +17,10 @@ export const imageC8bdc5aa8477fdc3 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/city-street", "setting-tag/rain", "setting-tag/city"],
+  poseTags: [
+    "pose-tag/holding-umbrella",
+    "pose-tag/reaching",
+    "pose-tag/smiling",
+    "pose-tag/walking",
+  ],
 } as const satisfies Image

@@ -23,4 +23,10 @@ export const image6bfc6ee8f7254615 = {
     "setting-tag/kitchen",
     "setting-tag/fireplace",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/leaning-forward",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

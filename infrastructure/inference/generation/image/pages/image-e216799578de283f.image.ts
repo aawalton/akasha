@@ -7,4 +7,5 @@ export const imageE216799578de283f = {
   subjects: "M",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/dungeon", "setting-tag/ruins"],
+  poseTags: ["pose-tag/standing", "pose-tag/casting-magic"],
 } as const satisfies Image

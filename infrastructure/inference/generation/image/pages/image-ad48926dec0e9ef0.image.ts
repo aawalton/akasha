@@ -12,4 +12,10 @@ export const imageAd48926dec0e9ef0 = {
     "setting-tag/luxury",
     "setting-tag/window",
   ],
+  poseTags: [
+    "pose-tag/sex",
+    "pose-tag/kneeling",
+    "pose-tag/lying-on-stomach",
+    "pose-tag/back-view",
+  ],
 } as const satisfies Image

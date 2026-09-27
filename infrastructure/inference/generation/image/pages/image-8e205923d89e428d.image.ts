@@ -8,4 +8,10 @@ export const image8e205923d89e428d = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature", "setting-tag/outdoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/sitting",
+    "pose-tag/holding-clothing",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

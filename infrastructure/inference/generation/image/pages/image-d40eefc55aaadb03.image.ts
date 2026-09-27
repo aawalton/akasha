@@ -18,4 +18,5 @@ export const imageD40eefc55aaadb03 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/water"],
+  poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
 } as const satisfies Image

@@ -8,4 +8,10 @@ export const imageDafed0dc61a725b1 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/vanity", "setting-tag/window", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hands-on-chest",
+    "pose-tag/holding-clothing",
+  ],
 } as const satisfies Image

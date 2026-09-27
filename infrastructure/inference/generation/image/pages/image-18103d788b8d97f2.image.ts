@@ -23,4 +23,10 @@ export const image18103d788b8d97f2 = {
     "setting-tag/kitchen",
     "setting-tag/fireplace",
   ],
+  poseTags: [
+    "pose-tag/leaning",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/sitting",
+  ],
 } as const satisfies Image

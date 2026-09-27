@@ -14,4 +14,5 @@ export const image0044b8e84e3890a7 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/abstract-background"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/upper-body"],
 } as const satisfies Image

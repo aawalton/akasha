@@ -23,4 +23,5 @@ export const imageDac18533c64d0165 = {
     "setting-tag/office",
     "setting-tag/window",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
 } as const satisfies Image

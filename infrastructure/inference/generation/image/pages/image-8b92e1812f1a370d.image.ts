@@ -12,4 +12,5 @@ export const image8b92e1812f1a370d = {
     "setting-tag/nature",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
 } as const satisfies Image

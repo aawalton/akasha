@@ -23,4 +23,10 @@ export const image32790aa0eca07b9d = {
     "setting-tag/sunset",
     "setting-tag/city",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+    "pose-tag/upper-body",
+  ],
 } as const satisfies Image

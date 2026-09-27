@@ -22,4 +22,5 @@ export const image039b99c31b9f9c2c = {
     "setting-tag/city",
     "setting-tag/outdoor",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
 } as const satisfies Image

@@ -12,4 +12,10 @@ export const imageA45dc2571cd0f079 = {
     "setting-tag/outdoor",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/front-view",
+    "pose-tag/full-body",
+    "pose-tag/serious-expression",
+  ],
 } as const satisfies Image

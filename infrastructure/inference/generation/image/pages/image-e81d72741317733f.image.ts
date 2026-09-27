@@ -7,4 +7,10 @@ export const imageE81d72741317733f = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/hotel"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/back-view",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/side-by-side",
+  ],
 } as const satisfies Image

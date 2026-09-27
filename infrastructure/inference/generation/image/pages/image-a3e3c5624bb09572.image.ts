@@ -12,4 +12,5 @@ export const imageA3e3c5624bb09572 = {
     "setting-tag/snow",
     "setting-tag/water",
   ],
+  poseTags: ["pose-tag/looking-back", "pose-tag/bathing", "pose-tag/profile", "pose-tag/portrait"],
 } as const satisfies Image

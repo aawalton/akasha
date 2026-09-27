@@ -7,4 +7,10 @@ export const imageCce243644eb70e21 = {
   subjects: "FM",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/window", "setting-tag/ocean"],
+  poseTags: [
+    "pose-tag/straddling",
+    "pose-tag/lying-down",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/looking-up",
+  ],
 } as const satisfies Image

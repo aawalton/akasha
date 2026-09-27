@@ -18,4 +18,5 @@ export const imageB191b1454013033e = {
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "F",
   settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
+  poseTags: ["pose-tag/hand-on-face", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
 } as const satisfies Image

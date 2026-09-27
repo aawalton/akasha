@@ -6,4 +6,5 @@ export const imageFfedb705ac180859 = {
   slug: "image-ffedb705ac180859",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit"],
+  poseTags: ["pose-tag/floating"],
 } as const satisfies Image

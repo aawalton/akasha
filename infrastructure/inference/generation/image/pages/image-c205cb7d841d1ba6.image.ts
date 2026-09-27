@@ -23,4 +23,10 @@ export const imageC205cb7d841d1ba6 = {
     "setting-tag/window",
     "setting-tag/indoor",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/sitting",
+    "pose-tag/looking-back",
+  ],
 } as const satisfies Image

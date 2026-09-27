@@ -18,4 +18,5 @@ export const imageD3828c35e83ee216 = {
   subjects: "FFF",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/hot-spring", "setting-tag/pool"],
+  poseTags: ["pose-tag/standing", "pose-tag/face-to-face"],
 } as const satisfies Image

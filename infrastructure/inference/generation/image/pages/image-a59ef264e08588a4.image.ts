@@ -12,4 +12,10 @@ export const imageA59ef264e08588a4 = {
     "setting-tag/city",
     "setting-tag/indoor",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-back",
+    "pose-tag/holding-drink",
+    "pose-tag/back-view",
+  ],
 } as const satisfies Image

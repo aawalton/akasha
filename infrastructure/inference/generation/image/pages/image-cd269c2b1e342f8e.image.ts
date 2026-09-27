@@ -7,4 +7,5 @@ export const imageCd269c2b1e342f8e = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/greenhouse", "setting-tag/indoor", "setting-tag/nature"],
+  poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/smiling", "pose-tag/looking-up"],
 } as const satisfies Image

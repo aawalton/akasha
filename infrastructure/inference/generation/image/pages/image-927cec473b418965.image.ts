@@ -12,4 +12,5 @@ export const image927cec473b418965 = {
     "setting-tag/sky",
     "setting-tag/rocks",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/looking-up"],
 } as const satisfies Image

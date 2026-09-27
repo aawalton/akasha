@@ -23,4 +23,10 @@ export const imageE459394f32088865 = {
     "setting-tag/office",
     "setting-tag/study",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/sitting",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

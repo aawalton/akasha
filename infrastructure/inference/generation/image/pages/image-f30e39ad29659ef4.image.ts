@@ -7,4 +7,11 @@ export const imageF30e39ad29659ef4 = {
   subjects: "M",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/mountains", "setting-tag/ruins", "setting-tag/outdoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/back-view",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-away",
+    "pose-tag/fighting",
+  ],
 } as const satisfies Image

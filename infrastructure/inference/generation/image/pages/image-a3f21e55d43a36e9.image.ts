@@ -12,4 +12,5 @@ export const imageA3f21e55d43a36e9 = {
     "setting-tag/town",
     "setting-tag/ocean",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

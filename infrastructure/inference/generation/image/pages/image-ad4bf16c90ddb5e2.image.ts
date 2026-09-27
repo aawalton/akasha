@@ -18,4 +18,5 @@ export const imageAd4bf16c90ddb5e2 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/profile"],
 } as const satisfies Image

@@ -8,4 +8,10 @@ export const imageDf7a5757151eb652 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/dark-background"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/close-up",
+    "pose-tag/arms-raised",
+  ],
 } as const satisfies Image

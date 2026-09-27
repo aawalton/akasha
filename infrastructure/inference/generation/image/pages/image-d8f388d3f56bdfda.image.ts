@@ -12,4 +12,5 @@ export const imageD8f388d3f56bdfda = {
     "setting-tag/hallway",
     "setting-tag/water",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
 } as const satisfies Image

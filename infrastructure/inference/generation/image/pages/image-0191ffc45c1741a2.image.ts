@@ -18,4 +18,5 @@ export const image0191ffc45c1741a2 = {
     "setting-tag/library",
     "setting-tag/study",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

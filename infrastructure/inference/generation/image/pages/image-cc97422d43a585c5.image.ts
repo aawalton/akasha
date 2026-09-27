@@ -18,4 +18,5 @@ export const imageCc97422d43a585c5 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/underwater", "setting-tag/ocean"],
+  poseTags: ["pose-tag/floating", "pose-tag/standing", "pose-tag/looking-away"],
 } as const satisfies Image

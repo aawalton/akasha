@@ -12,4 +12,5 @@ export const imageC809d24677cf8a73 = {
     "setting-tag/workshop",
     "setting-tag/abstract-background",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

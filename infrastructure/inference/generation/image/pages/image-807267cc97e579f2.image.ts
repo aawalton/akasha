@@ -8,4 +8,10 @@ export const image807267cc97e579f2 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dimly-lit"],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/arms-raised",
+    "pose-tag/dancing",
+  ],
 } as const satisfies Image

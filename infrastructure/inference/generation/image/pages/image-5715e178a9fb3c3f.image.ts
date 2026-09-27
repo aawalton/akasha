@@ -13,4 +13,10 @@ export const image5715e178a9fb3c3f = {
     "setting-tag/rain",
     "setting-tag/rocks",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/working",
+  ],
 } as const satisfies Image

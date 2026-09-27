@@ -12,4 +12,11 @@ export const imageDa93b347176b84d5 = {
     "setting-tag/battlefield",
     "setting-tag/castle",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-away",
+    "pose-tag/working",
+    "pose-tag/fighting",
+  ],
 } as const satisfies Image

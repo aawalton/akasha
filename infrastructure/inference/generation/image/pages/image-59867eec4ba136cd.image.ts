@@ -22,4 +22,5 @@ export const image59867eec4ba136cd = {
     "setting-tag/candlelight",
     "setting-tag/hot-spring",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/eyes-closed", "pose-tag/smiling", "pose-tag/bathing"],
 } as const satisfies Image

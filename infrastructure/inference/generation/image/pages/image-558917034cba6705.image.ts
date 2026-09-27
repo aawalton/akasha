@@ -12,4 +12,5 @@ export const image558917034cba6705 = {
     "setting-tag/town",
     "setting-tag/ocean",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/face-to-face", "pose-tag/lying-down"],
 } as const satisfies Image

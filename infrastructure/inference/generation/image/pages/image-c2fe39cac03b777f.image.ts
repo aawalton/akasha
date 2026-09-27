@@ -7,4 +7,10 @@ export const imageC2fe39cac03b777f = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/kneeling",
+    "pose-tag/kissing",
+    "pose-tag/back-view",
+    "pose-tag/face-to-face",
+  ],
 } as const satisfies Image

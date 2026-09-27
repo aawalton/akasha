@@ -18,4 +18,10 @@ export const image915afb99a28948b4 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/workshop", "setting-tag/fog"],
+  poseTags: [
+    "pose-tag/kneeling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/head-tilt",
+    "pose-tag/legs-spread",
+  ],
 } as const satisfies Image

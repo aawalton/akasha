@@ -8,4 +8,10 @@ export const imageD808c26b3497856b = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/cherry-blossoms"],
+  poseTags: [
+    "pose-tag/kneeling",
+    "pose-tag/sitting",
+    "pose-tag/looking-back",
+    "pose-tag/holding-weapon",
+  ],
 } as const satisfies Image

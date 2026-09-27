@@ -12,4 +12,10 @@ export const imageC3dbcb9f0a3dfbea = {
     "setting-tag/ruins",
     "setting-tag/rain",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/upper-body",
+  ],
 } as const satisfies Image

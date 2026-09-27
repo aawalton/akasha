@@ -7,4 +7,10 @@ export const imageAdf30f2286911378 = {
   subjects: "M",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/ocean", "setting-tag/castle", "setting-tag/mountains"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/full-body",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-away",
+  ],
 } as const satisfies Image

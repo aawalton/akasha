@@ -17,4 +17,10 @@ export const image227310b4e21c67c0 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/stage", "setting-tag/studio", "setting-tag/dark-background"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/walking",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/front-view",
+  ],
 } as const satisfies Image

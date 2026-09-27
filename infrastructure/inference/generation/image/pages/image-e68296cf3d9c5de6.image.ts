@@ -18,4 +18,10 @@ export const imageE68296cf3d9c5de6 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/home"],
+  poseTags: [
+    "pose-tag/holding-drink",
+    "pose-tag/smiling",
+    "pose-tag/looking-away",
+    "pose-tag/sitting",
+  ],
 } as const satisfies Image

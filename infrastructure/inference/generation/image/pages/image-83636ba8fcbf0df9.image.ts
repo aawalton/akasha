@@ -7,4 +7,10 @@ export const image83636ba8fcbf0df9 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/gym", "setting-tag/studio", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/kneeling",
+    "pose-tag/lying-down",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

@@ -8,4 +8,5 @@ export const imageCe4e5a3ec1494fba = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/stage", "setting-tag/balcony", "setting-tag/indoor"],
+  poseTags: ["pose-tag/looking-back", "pose-tag/profile", "pose-tag/standing"],
 } as const satisfies Image

@@ -9,4 +9,10 @@ export const imageFe2eb5731e8768e8 = {
   relationshipLevel: "closeness-level/level-2",
   subjects: "F",
   settingTags: ["setting-tag/living-room", "setting-tag/indoor", "setting-tag/night"],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/gaming",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

@@ -22,4 +22,10 @@ export const imageD2961cd1b549b352 = {
     "setting-tag/outdoor",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/walking",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

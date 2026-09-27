@@ -18,4 +18,5 @@ export const image33664c24539d03bd = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/plain-background"],
+  poseTags: ["pose-tag/eating", "pose-tag/looking-at-viewer", "pose-tag/standing"],
 } as const satisfies Image

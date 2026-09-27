@@ -7,4 +7,5 @@ export const imageFade559e6e33584a = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
+  poseTags: ["pose-tag/reclining", "pose-tag/close-up"],
 } as const satisfies Image

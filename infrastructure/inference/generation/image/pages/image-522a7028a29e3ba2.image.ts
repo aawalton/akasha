@@ -22,4 +22,10 @@ export const image522a7028a29e3ba2 = {
     "setting-tag/autumn",
     "setting-tag/forest",
   ],
+  poseTags: [
+    "pose-tag/laughing",
+    "pose-tag/face-to-face",
+    "pose-tag/standing",
+    "pose-tag/embracing",
+  ],
 } as const satisfies Image

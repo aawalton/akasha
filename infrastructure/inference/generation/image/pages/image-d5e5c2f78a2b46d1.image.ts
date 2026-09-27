@@ -13,4 +13,10 @@ export const imageD5e5c2f78a2b46d1 = {
     "setting-tag/abstract-background",
     "setting-tag/waterfall",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hand-in-hair",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

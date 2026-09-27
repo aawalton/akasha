@@ -12,4 +12,5 @@ export const image39f0f3d3b064fd39 = {
     "setting-tag/outdoor",
     "setting-tag/campfire",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/casting-magic", "pose-tag/fighting"],
 } as const satisfies Image

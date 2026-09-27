@@ -12,4 +12,10 @@ export const imageCe576ab0164e8597 = {
     "setting-tag/field",
     "setting-tag/garden",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/lying-down",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/arms-raised",
+  ],
 } as const satisfies Image

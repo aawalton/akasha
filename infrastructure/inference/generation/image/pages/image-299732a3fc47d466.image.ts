@@ -13,4 +13,5 @@ export const image299732a3fc47d466 = {
     "setting-tag/indoor",
     "setting-tag/dimly-lit",
   ],
+  poseTags: ["pose-tag/profile", "pose-tag/sitting", "pose-tag/looking-away"],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const imageDb55f65ce65121b4 = {
   subjects: "FM",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/city"],
+  poseTags: ["pose-tag/embracing", "pose-tag/sitting"],
 } as const satisfies Image

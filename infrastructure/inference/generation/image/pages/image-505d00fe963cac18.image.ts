@@ -22,4 +22,10 @@ export const image505d00fe963cac18 = {
     "setting-tag/ruins",
     "setting-tag/party",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/looking-back",
+  ],
 } as const satisfies Image

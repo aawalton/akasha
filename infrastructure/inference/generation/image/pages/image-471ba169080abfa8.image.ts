@@ -7,4 +7,10 @@ export const image471ba169080abfa8 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dimly-lit", "setting-tag/candlelight", "setting-tag/studio"],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hands-clasped",
+    "pose-tag/sitting",
+  ],
 } as const satisfies Image

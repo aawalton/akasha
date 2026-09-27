@@ -12,4 +12,10 @@ export const image74611cce696cbfba = {
     "setting-tag/beach",
     "setting-tag/campfire",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/lying-on-stomach",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/front-view",
+  ],
 } as const satisfies Image

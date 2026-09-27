@@ -17,4 +17,5 @@ export const image3d80056136921425 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/sunset"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/holding-flowers"],
 } as const satisfies Image

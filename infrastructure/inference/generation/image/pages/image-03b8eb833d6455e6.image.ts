@@ -7,4 +7,5 @@ export const image03b8eb833d6455e6 = {
   subjects: "FM",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/volcano", "setting-tag/outdoor"],
+  poseTags: ["pose-tag/fighting"],
 } as const satisfies Image

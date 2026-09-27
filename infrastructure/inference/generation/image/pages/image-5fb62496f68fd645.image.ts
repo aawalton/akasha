@@ -18,4 +18,10 @@ export const image5fb62496f68fd645 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/greenhouse", "setting-tag/indoor", "setting-tag/nature"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/arms-raised",
+    "pose-tag/looking-up",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

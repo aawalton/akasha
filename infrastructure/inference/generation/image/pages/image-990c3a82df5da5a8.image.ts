@@ -18,4 +18,10 @@ export const image990c3a82df5da5a8 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
+  poseTags: [
+    "pose-tag/close-up",
+    "pose-tag/reclining",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/arms-crossed",
+  ],
 } as const satisfies Image

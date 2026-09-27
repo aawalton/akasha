@@ -23,4 +23,5 @@ export const image18462682cbc2697e = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/garden", "setting-tag/greenhouse", "setting-tag/outdoor"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
 } as const satisfies Image

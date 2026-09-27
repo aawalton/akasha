@@ -18,4 +18,5 @@ export const image8d52418308c6f71e = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
+  poseTags: ["pose-tag/kneeling", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

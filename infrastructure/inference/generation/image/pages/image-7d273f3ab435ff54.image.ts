@@ -17,4 +17,10 @@ export const image7d273f3ab435ff54 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/spaceship"],
+  poseTags: [
+    "pose-tag/floating",
+    "pose-tag/kneeling",
+    "pose-tag/arms-raised",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

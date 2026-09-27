@@ -12,4 +12,10 @@ export const image118ec4cb645f090c = {
     "setting-tag/sunset",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hand-on-face",
+    "pose-tag/profile",
+    "pose-tag/close-up",
+  ],
 } as const satisfies Image

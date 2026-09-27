@@ -18,4 +18,5 @@ export const imageE5d67823c7d0d8fd = {
   serviceVersions: ["mlx 0.31.0", "mlx-metal 0.31.0", "mlx-openai-server 1.8.1"],
   subjects: "F",
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/dark-background"],
+  poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

@@ -13,4 +13,10 @@ export const imageF55a471831b3315b = {
     "setting-tag/library",
     "setting-tag/indoor",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/upper-body",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

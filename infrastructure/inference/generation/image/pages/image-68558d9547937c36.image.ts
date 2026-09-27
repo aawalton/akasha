@@ -22,4 +22,5 @@ export const image68558d9547937c36 = {
     "setting-tag/ocean",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

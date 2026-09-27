@@ -18,4 +18,10 @@ export const imageE1711a0521e11091 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/workshop"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/legs-up",
+    "pose-tag/hand-on-hip",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

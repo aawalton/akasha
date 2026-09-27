@@ -7,4 +7,10 @@ export const imageCe8dab8dd115f48d = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/cave", "setting-tag/water"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hand-in-hair",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const image002855af801b7865 = {
   ],
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
+  poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

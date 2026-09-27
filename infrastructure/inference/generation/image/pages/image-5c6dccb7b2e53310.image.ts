@@ -7,4 +7,5 @@ export const image5c6dccb7b2e53310 = {
   title: "Baby Carrots",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/kitchen"],
+  poseTags: ["pose-tag/top-down-view"],
 } as const satisfies Image

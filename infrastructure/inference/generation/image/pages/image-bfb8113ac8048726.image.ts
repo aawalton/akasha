@@ -12,4 +12,5 @@ export const imageBfb8113ac8048726 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
+  poseTags: ["pose-tag/standing", "pose-tag/reading", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

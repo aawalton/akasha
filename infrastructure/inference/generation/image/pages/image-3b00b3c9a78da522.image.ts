@@ -12,4 +12,10 @@ export const image3b00b3c9a78da522 = {
     "setting-tag/autumn",
     "setting-tag/forest",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hands-clasped",
+  ],
 } as const satisfies Image

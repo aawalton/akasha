@@ -12,4 +12,5 @@ export const image48e38f58d8424a2c = {
     "setting-tag/candlelight",
     "setting-tag/indoor",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/eyes-closed", "pose-tag/looking-up"],
 } as const satisfies Image

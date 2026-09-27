@@ -13,4 +13,10 @@ export const imageC494c4cac1d126a8 = {
     "setting-tag/indoor",
     "setting-tag/studio",
   ],
+  poseTags: [
+    "pose-tag/portrait",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/standing",
+    "pose-tag/sitting",
+  ],
 } as const satisfies Image

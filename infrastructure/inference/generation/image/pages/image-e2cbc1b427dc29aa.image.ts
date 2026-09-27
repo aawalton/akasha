@@ -12,4 +12,5 @@ export const imageE2cbc1b427dc29aa = {
     "setting-tag/sunset",
     "setting-tag/sky",
   ],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
 } as const satisfies Image

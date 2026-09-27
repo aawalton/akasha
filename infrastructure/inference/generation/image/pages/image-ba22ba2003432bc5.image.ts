@@ -18,4 +18,10 @@ export const imageBa22ba2003432bc5 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
+  poseTags: [
+    "pose-tag/close-up",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+    "pose-tag/upper-body",
+  ],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const image38d9f488e6718de8 = {
     "setting-tag/river",
     "setting-tag/candlelight",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/walking"],
 } as const satisfies Image

@@ -8,4 +8,10 @@ export const imageD636e2e0cd508b23 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/outdoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hands-on-chest",
+    "pose-tag/masturbation",
+  ],
 } as const satisfies Image

@@ -12,4 +12,10 @@ export const image9b46569077ac9599 = {
     "setting-tag/nature",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/looking-back",
+  ],
 } as const satisfies Image

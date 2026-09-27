@@ -22,4 +22,5 @@ export const imageF1320e10b09ee528 = {
     "setting-tag/pool",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/sitting"],
 } as const satisfies Image

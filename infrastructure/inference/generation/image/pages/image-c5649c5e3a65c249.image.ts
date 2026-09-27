@@ -23,4 +23,5 @@ export const imageC5649c5e3a65c249 = {
     "setting-tag/cherry-blossoms",
     "setting-tag/nature",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/smiling", "pose-tag/profile"],
 } as const satisfies Image

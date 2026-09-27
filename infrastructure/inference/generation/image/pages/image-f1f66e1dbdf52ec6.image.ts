@@ -12,4 +12,5 @@ export const imageF1f66e1dbdf52ec6 = {
     "setting-tag/dark-background",
     "setting-tag/pool",
   ],
+  poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer", "pose-tag/standing"],
 } as const satisfies Image

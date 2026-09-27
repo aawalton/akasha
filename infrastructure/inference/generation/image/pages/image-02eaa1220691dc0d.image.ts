@@ -22,4 +22,5 @@ export const image02eaa1220691dc0d = {
     "setting-tag/nature",
     "setting-tag/pool",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/eyes-closed"],
 } as const satisfies Image

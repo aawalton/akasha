@@ -12,4 +12,10 @@ export const imageD6d798c9012d3f29 = {
     "setting-tag/beach",
     "setting-tag/shower",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/arms-raised",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

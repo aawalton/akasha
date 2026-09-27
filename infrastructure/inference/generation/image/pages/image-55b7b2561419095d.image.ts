@@ -19,4 +19,10 @@ export const image55b7b2561419095d = {
     "setting-tag/fog",
     "setting-tag/nature",
   ],
+  poseTags: [
+    "pose-tag/looking-back",
+    "pose-tag/reaching",
+    "pose-tag/smiling",
+    "pose-tag/upper-body",
+  ],
 } as const satisfies Image

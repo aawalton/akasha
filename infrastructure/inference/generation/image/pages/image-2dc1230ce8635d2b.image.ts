@@ -17,4 +17,10 @@ export const image2dc1230ce8635d2b = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/home"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-drink",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

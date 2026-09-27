@@ -9,4 +9,5 @@ export const image002a479ca8547c1d = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/indoor"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/portrait"],
 } as const satisfies Image

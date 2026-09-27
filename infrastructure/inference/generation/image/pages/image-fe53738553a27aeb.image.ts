@@ -18,4 +18,5 @@ export const imageFe53738553a27aeb = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
+  poseTags: ["pose-tag/standing", "pose-tag/front-view"],
 } as const satisfies Image

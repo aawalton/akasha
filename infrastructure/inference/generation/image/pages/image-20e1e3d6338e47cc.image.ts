@@ -23,4 +23,5 @@ export const image20e1e3d6338e47cc = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/dimly-lit", "setting-tag/indoor"],
+  poseTags: ["pose-tag/holding-lantern", "pose-tag/close-up", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

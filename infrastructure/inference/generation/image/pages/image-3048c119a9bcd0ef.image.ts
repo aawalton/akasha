@@ -17,4 +17,10 @@ export const image3048c119a9bcd0ef = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/jungle"],
+  poseTags: [
+    "pose-tag/side-by-side",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/standing",
+  ],
 } as const satisfies Image

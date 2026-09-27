@@ -12,4 +12,5 @@ export const imageC34a5f54fbe17efb = {
     "setting-tag/field",
     "setting-tag/forest",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
 } as const satisfies Image

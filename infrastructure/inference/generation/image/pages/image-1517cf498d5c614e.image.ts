@@ -23,4 +23,10 @@ export const image1517cf498d5c614e = {
     "setting-tag/office",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/sitting",
+    "pose-tag/portrait",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

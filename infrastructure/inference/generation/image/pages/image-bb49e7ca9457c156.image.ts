@@ -23,4 +23,10 @@ export const imageBb49e7ca9457c156 = {
     "setting-tag/river",
     "setting-tag/nature",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-flowers",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

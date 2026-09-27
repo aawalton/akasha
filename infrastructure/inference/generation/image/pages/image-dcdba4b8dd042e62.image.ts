@@ -7,4 +7,5 @@ export const imageDcdba4b8dd042e62 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/indoor"],
+  poseTags: ["pose-tag/kneeling", "pose-tag/tongue-out", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

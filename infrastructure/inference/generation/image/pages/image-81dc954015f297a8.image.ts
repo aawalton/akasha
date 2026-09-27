@@ -18,4 +18,5 @@ export const image81dc954015f297a8 = {
   subjects: "FFF",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/hot-spring", "setting-tag/spa", "setting-tag/indoor"],
+  poseTags: ["pose-tag/sitting", "pose-tag/side-by-side", "pose-tag/looking-away"],
 } as const satisfies Image

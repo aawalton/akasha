@@ -12,4 +12,10 @@ export const image1ac9af3d74ca2387 = {
     "setting-tag/night",
     "setting-tag/water",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/holding-clothing",
+    "pose-tag/kneeling",
+  ],
 } as const satisfies Image

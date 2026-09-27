@@ -8,4 +8,10 @@ export const image5c4b78288cebaa22 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/outdoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/hands-on-chest",
+    "pose-tag/eyes-closed",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

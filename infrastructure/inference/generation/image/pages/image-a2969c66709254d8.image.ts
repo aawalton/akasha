@@ -9,4 +9,5 @@ export const imageA2969c66709254d8 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/luxury"],
+  poseTags: ["pose-tag/reclining"],
 } as const satisfies Image

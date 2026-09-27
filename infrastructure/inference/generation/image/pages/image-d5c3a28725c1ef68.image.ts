@@ -8,4 +8,10 @@ export const imageD5c3a28725c1ef68 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/shower", "setting-tag/bathroom", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/mouth-open",
+    "pose-tag/arms-raised",
+  ],
 } as const satisfies Image

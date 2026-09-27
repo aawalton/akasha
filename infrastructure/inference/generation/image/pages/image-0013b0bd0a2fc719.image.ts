@@ -14,4 +14,5 @@ export const image0013b0bd0a2fc719 = {
   settingTags: ["setting-tag/studio", "setting-tag/abstract-background"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
 } as const satisfies Image

@@ -17,4 +17,10 @@ export const image10ec304fbd806ca4 = {
   subjects: "FM",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/nature"],
+  poseTags: [
+    "pose-tag/kneeling",
+    "pose-tag/face-to-face",
+    "pose-tag/holding-hands",
+    "pose-tag/embracing",
+  ],
 } as const satisfies Image

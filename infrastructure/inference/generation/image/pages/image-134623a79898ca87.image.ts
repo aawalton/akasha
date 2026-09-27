@@ -18,4 +18,5 @@ export const image134623a79898ca87 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/outdoor", "setting-tag/water", "setting-tag/nature"],
+  poseTags: ["pose-tag/standing", "pose-tag/hands-behind-head", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

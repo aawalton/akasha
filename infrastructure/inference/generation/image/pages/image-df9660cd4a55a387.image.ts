@@ -14,4 +14,10 @@ export const imageDf9660cd4a55a387 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/market", "setting-tag/daytime"],
+  poseTags: [
+    "pose-tag/reaching",
+    "pose-tag/looking-back",
+    "pose-tag/smiling",
+    "pose-tag/holding-hands",
+  ],
 } as const satisfies Image

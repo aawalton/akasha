@@ -13,4 +13,5 @@ export const imageE73274c2bd246562 = {
     "setting-tag/city-street",
     "setting-tag/neon-lights",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
 } as const satisfies Image

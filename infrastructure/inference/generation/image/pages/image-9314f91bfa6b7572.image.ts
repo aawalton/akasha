@@ -7,4 +7,5 @@ export const image9314f91bfa6b7572 = {
   title: "Three bananas",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
+  poseTags: ["pose-tag/top-down-view"],
 } as const satisfies Image

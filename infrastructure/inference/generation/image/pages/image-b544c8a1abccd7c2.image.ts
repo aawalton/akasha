@@ -12,4 +12,10 @@ export const imageB544c8a1abccd7c2 = {
     "setting-tag/sky",
     "setting-tag/night",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

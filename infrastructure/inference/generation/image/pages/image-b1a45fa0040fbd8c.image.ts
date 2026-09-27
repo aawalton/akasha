@@ -14,4 +14,10 @@ export const imageB1a45fa0040fbd8c = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio"],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/close-up",
+    "pose-tag/leaning-forward",
+  ],
 } as const satisfies Image

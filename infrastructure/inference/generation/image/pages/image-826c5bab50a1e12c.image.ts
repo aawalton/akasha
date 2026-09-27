@@ -11,4 +11,5 @@ export const image826c5bab50a1e12c = {
     "setting-tag/neon-lights",
     "setting-tag/abstract-background",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/profile"],
 } as const satisfies Image

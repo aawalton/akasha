@@ -17,4 +17,10 @@ export const image00c1ffe115374a14 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/window"],
   subjects: "FF",
   relationshipLevel: "closeness-level/level-6",
+  poseTags: [
+    "pose-tag/kissing",
+    "pose-tag/lying-on-stomach",
+    "pose-tag/embracing",
+    "pose-tag/face-to-face",
+  ],
 } as const satisfies Image

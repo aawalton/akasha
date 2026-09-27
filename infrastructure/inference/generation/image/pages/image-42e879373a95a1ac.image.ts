@@ -8,4 +8,10 @@ export const image42e879373a95a1ac = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/indoor", "setting-tag/campfire", "setting-tag/living-room"],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/lying-down",
+    "pose-tag/knees-up",
+    "pose-tag/hand-on-face",
+  ],
 } as const satisfies Image

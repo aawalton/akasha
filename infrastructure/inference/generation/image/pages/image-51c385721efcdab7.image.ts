@@ -12,4 +12,10 @@ export const image51c385721efcdab7 = {
     "setting-tag/rain",
     "setting-tag/field",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+    "pose-tag/full-body",
+  ],
 } as const satisfies Image

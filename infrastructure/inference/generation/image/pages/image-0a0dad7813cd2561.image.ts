@@ -9,4 +9,5 @@ export const image0a0dad7813cd2561 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor"],
+  poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
 } as const satisfies Image

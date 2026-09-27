@@ -17,4 +17,5 @@ export const image9303611fc2d60dd9 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/studio", "setting-tag/fog", "setting-tag/dark-background"],
+  poseTags: ["pose-tag/kneeling", "pose-tag/reclining", "pose-tag/kissing", "pose-tag/embracing"],
 } as const satisfies Image

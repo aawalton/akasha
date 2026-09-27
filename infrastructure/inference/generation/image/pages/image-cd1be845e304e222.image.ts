@@ -8,4 +8,10 @@ export const imageCd1be845e304e222 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/city-street", "setting-tag/city", "setting-tag/outdoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+    "pose-tag/serious-expression",
+  ],
 } as const satisfies Image

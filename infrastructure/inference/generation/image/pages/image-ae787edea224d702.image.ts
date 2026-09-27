@@ -17,4 +17,5 @@ export const imageAe787edea224d702 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
+  poseTags: ["pose-tag/looking-back"],
 } as const satisfies Image

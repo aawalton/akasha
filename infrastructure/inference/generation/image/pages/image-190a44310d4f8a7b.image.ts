@@ -22,4 +22,10 @@ export const image190a44310d4f8a7b = {
     "setting-tag/dock",
     "setting-tag/city-street",
   ],
+  poseTags: [
+    "pose-tag/running",
+    "pose-tag/profile",
+    "pose-tag/walking",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

@@ -7,4 +7,5 @@ export const imageF0afbad861f9bcf8 = {
   subjects: "FM",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom"],
+  poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread", "pose-tag/sex", "pose-tag/oral-sex"],
 } as const satisfies Image

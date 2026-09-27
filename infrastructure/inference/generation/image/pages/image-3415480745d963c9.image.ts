@@ -18,4 +18,5 @@ export const image3415480745d963c9 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
+  poseTags: ["pose-tag/looking-back", "pose-tag/portrait", "pose-tag/close-up"],
 } as const satisfies Image

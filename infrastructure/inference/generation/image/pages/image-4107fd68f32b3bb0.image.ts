@@ -22,4 +22,5 @@ export const image4107fd68f32b3bb0 = {
     "setting-tag/field",
     "setting-tag/nature",
   ],
+  poseTags: ["pose-tag/squatting", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

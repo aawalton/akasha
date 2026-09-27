@@ -24,4 +24,5 @@ export const image91fdfa66da7d6059 = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight", "setting-tag/dimly-lit"],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
 } as const satisfies Image

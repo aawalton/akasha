@@ -22,4 +22,10 @@ export const image61dace60e2a3253a = {
     "setting-tag/garden",
     "setting-tag/night",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

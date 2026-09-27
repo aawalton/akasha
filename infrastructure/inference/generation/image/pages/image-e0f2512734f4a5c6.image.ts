@@ -14,4 +14,5 @@ export const imageE0f2512734f4a5c6 = {
   inputImage: "image/image-b2f21b5417a248ad",
   subjects: "F",
   settingTags: ["setting-tag/indoor", "setting-tag/bathroom", "setting-tag/pool"],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

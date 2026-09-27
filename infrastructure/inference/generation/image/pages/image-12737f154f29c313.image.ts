@@ -23,4 +23,10 @@ export const image12737f154f29c313 = {
     "setting-tag/field",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hands-behind-head",
+    "pose-tag/lying-down",
+  ],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageDb3a4e3e7b26ede8 = {
     "setting-tag/sunset",
     "setting-tag/city",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/leaning"],
 } as const satisfies Image

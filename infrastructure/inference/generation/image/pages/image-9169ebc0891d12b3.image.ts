@@ -22,4 +22,10 @@ export const image9169ebc0891d12b3 = {
     "setting-tag/nature",
     "setting-tag/field",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/leaning",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

@@ -12,4 +12,10 @@ export const imageCe6955a623f79c0e = {
     "setting-tag/sunset",
     "setting-tag/rocks",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+    "pose-tag/kneeling",
+  ],
 } as const satisfies Image

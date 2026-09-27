@@ -14,4 +14,5 @@ export const image110cadcb620bd726 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/neon-lights"],
+  poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
 } as const satisfies Image

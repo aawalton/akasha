@@ -17,4 +17,5 @@ export const imageDda61012a3550eb7 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/indoor", "setting-tag/doorway"],
+  poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

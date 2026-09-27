@@ -22,4 +22,5 @@ export const imageA235a5e84a20626a = {
     "setting-tag/city",
     "setting-tag/sunset",
   ],
+  poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
 } as const satisfies Image

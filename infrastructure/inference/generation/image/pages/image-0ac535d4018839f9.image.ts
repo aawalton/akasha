@@ -19,4 +19,10 @@ export const image0ac535d4018839f9 = {
     "setting-tag/sunset",
     "setting-tag/candlelight",
   ],
+  poseTags: [
+    "pose-tag/leaning-forward",
+    "pose-tag/holding-drink",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

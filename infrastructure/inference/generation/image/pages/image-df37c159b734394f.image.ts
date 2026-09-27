@@ -13,4 +13,10 @@ export const imageDf37c159b734394f = {
     "setting-tag/rain",
     "setting-tag/balcony",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/leaning",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

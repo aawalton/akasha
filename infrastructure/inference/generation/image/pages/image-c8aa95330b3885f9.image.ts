@@ -15,4 +15,10 @@ export const imageC8aa95330b3885f9 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/castle", "setting-tag/night", "setting-tag/candlelight"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/side-by-side",
+  ],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageBbd2f2fa774e1fd5 = {
     "setting-tag/autumn",
     "setting-tag/forest",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

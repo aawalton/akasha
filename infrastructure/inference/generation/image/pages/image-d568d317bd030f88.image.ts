@@ -22,4 +22,5 @@ export const imageD568d317bd030f88 = {
     "setting-tag/canyon",
     "setting-tag/sunset",
   ],
+  poseTags: ["pose-tag/reaching", "pose-tag/looking-up", "pose-tag/smiling"],
 } as const satisfies Image

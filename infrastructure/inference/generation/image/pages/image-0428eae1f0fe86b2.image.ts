@@ -22,4 +22,5 @@ export const image0428eae1f0fe86b2 = {
     "setting-tag/outdoor",
     "setting-tag/water",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
 } as const satisfies Image

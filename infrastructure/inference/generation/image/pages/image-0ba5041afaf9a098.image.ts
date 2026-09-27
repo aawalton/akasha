@@ -12,4 +12,10 @@ export const image0ba5041afaf9a098 = {
     "setting-tag/rain",
     "setting-tag/city-street",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/arms-raised",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

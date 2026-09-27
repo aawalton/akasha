@@ -12,4 +12,5 @@ export const image8d155574b262fb65 = {
     "setting-tag/dimly-lit",
     "setting-tag/water",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

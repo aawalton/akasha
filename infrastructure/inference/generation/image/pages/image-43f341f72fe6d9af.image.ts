@@ -17,4 +17,10 @@ export const image43f341f72fe6d9af = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/bedroom"],
+  poseTags: [
+    "pose-tag/hand-in-hair",
+    "pose-tag/eyes-closed",
+    "pose-tag/smiling",
+    "pose-tag/looking-down",
+  ],
 } as const satisfies Image

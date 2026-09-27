@@ -12,4 +12,10 @@ export const imageAd100d2674233335 = {
     "setting-tag/autumn",
     "setting-tag/forest",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hands-clasped",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

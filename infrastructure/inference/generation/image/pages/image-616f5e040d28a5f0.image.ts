@@ -12,4 +12,5 @@ export const image616f5e040d28a5f0 = {
     "setting-tag/sunset",
     "setting-tag/mountains",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

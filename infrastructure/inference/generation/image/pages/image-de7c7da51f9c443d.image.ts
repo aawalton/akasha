@@ -7,4 +7,5 @@ export const imageDe7c7da51f9c443d = {
   subjects: "FM",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/city-street", "setting-tag/market"],
+  poseTags: ["pose-tag/cowgirl", "pose-tag/walking", "pose-tag/standing"],
 } as const satisfies Image

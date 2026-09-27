@@ -12,4 +12,5 @@ export const image6b11e708f6379a21 = {
     "setting-tag/tent",
     "setting-tag/campfire",
   ],
+  poseTags: ["pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
 } as const satisfies Image

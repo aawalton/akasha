@@ -18,4 +18,10 @@ export const image904831b7832d9668 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bathroom", "setting-tag/shower", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-up",
+    "pose-tag/smiling",
+    "pose-tag/hands-clasped",
+  ],
 } as const satisfies Image

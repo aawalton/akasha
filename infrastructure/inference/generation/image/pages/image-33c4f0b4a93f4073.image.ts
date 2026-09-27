@@ -7,4 +7,10 @@ export const image33c4f0b4a93f4073 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/daytime"],
+  poseTags: [
+    "pose-tag/close-up",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/head-tilt",
+  ],
 } as const satisfies Image

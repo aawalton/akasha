@@ -19,4 +19,10 @@ export const image58e61c5fca76d6cf = {
     "setting-tag/field",
     "setting-tag/nature",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

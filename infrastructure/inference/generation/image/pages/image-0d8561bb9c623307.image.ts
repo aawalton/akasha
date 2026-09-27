@@ -18,4 +18,5 @@ export const image0d8561bb9c623307 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/living-room"],
+  poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/legs-crossed"],
 } as const satisfies Image

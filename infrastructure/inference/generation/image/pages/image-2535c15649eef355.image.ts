@@ -23,4 +23,10 @@ export const image2535c15649eef355 = {
     "setting-tag/city",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/standing",
+    "pose-tag/upper-body",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

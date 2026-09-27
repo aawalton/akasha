@@ -12,4 +12,5 @@ export const imageE3cd8d823fa6da03 = {
     "setting-tag/city",
     "setting-tag/indoor",
   ],
+  poseTags: ["pose-tag/legs-up", "pose-tag/hand-on-thigh", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

@@ -18,4 +18,10 @@ export const image847d1948edb2bf70 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/shower", "setting-tag/bathroom", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-up",
+    "pose-tag/smiling",
+    "pose-tag/hands-clasped",
+  ],
 } as const satisfies Image

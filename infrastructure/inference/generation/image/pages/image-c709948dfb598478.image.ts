@@ -13,4 +13,10 @@ export const imageC709948dfb598478 = {
     "setting-tag/cafe",
     "setting-tag/library",
   ],
+  poseTags: [
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/sitting",
+    "pose-tag/standing",
+  ],
 } as const satisfies Image

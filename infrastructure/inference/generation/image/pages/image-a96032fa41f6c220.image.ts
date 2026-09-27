@@ -23,4 +23,10 @@ export const imageA96032fa41f6c220 = {
     "setting-tag/field",
     "setting-tag/nature",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/walking",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/full-body",
+  ],
 } as const satisfies Image

@@ -13,4 +13,10 @@ export const imageFaec7b260c9ae738 = {
     "setting-tag/water",
     "setting-tag/party",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-lantern",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

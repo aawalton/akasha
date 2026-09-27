@@ -22,4 +22,5 @@ export const image8a89326f08704165 = {
     "setting-tag/outdoor",
     "setting-tag/nature",
   ],
+  poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-away", "pose-tag/smiling"],
 } as const satisfies Image

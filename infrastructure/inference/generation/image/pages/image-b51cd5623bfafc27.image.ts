@@ -17,4 +17,10 @@ export const imageB51cd5623bfafc27 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/nature"],
+  poseTags: [
+    "pose-tag/side-by-side",
+    "pose-tag/embracing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

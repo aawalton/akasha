@@ -23,4 +23,5 @@ export const image1cecc845afdb013e = {
     "setting-tag/fireplace",
     "setting-tag/candlelight",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

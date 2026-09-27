@@ -19,4 +19,5 @@ export const imageB205b0d6a390edd5 = {
     "setting-tag/mountains",
     "setting-tag/nature",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

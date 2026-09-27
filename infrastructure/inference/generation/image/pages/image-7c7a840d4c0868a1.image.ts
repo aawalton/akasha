@@ -23,4 +23,10 @@ export const image7c7a840d4c0868a1 = {
     "setting-tag/ocean",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/lying-down",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/knees-up",
+  ],
 } as const satisfies Image

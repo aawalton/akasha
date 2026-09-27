@@ -23,4 +23,10 @@ export const image66e4861abb0f8e6b = {
     "setting-tag/study",
     "setting-tag/window",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

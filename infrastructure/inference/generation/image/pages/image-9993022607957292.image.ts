@@ -18,4 +18,10 @@ export const image9993022607957292 = {
     "setting-tag/candlelight",
     "setting-tag/dimly-lit",
   ],
+  poseTags: [
+    "pose-tag/embracing",
+    "pose-tag/close-up",
+    "pose-tag/smiling",
+    "pose-tag/leaning-forward",
+  ],
 } as const satisfies Image

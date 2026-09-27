@@ -8,4 +8,5 @@ export const imageC232b46983fac24e = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/underwater", "setting-tag/ocean"],
+  poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

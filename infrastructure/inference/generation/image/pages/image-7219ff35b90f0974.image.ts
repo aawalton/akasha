@@ -12,4 +12,10 @@ export const image7219ff35b90f0974 = {
     "setting-tag/plain-background",
     "setting-tag/ocean",
   ],
+  poseTags: [
+    "pose-tag/legs-spread",
+    "pose-tag/lying-down",
+    "pose-tag/sex",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

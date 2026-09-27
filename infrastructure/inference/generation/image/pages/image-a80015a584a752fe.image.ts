@@ -18,4 +18,5 @@ export const imageA80015a584a752fe = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/dimly-lit", "setting-tag/candlelight"],
+  poseTags: ["pose-tag/standing", "pose-tag/holding-lantern", "pose-tag/looking-down"],
 } as const satisfies Image

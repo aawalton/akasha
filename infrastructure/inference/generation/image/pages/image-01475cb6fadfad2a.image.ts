@@ -18,4 +18,5 @@ export const image01475cb6fadfad2a = {
   settingTags: ["setting-tag/indoor", "setting-tag/tatami-room"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
+  poseTags: ["pose-tag/kneeling", "pose-tag/holding-drink", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

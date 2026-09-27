@@ -18,4 +18,5 @@ export const imageFebe85bb2b75dc5c = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
+  poseTags: ["pose-tag/leaning", "pose-tag/reaching", "pose-tag/looking-down"],
 } as const satisfies Image

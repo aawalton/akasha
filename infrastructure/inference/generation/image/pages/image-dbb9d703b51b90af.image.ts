@@ -18,4 +18,10 @@ export const imageDbb9d703b51b90af = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/arms-raised",
+    "pose-tag/holding-clothing",
+    "pose-tag/looking-away",
+  ],
 } as const satisfies Image

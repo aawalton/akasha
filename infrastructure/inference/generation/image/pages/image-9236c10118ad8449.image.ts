@@ -18,4 +18,5 @@ export const image9236c10118ad8449 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/spaceship"],
+  poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

@@ -7,4 +7,10 @@ export const image1d5d4850bb436198 = {
   subjects: "FM",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/ocean"],
+  poseTags: [
+    "pose-tag/cowgirl",
+    "pose-tag/back-view",
+    "pose-tag/looking-back",
+    "pose-tag/reclining",
+  ],
 } as const satisfies Image

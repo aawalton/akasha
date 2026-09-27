@@ -14,4 +14,5 @@ export const imageFe52b03fd8c7dc6e = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/town", "setting-tag/outdoor", "setting-tag/city", "setting-tag/sky"],
+  poseTags: ["pose-tag/walking", "pose-tag/looking-away"],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const imageDac439a0bbfcbd28 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset"],
+  poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-away"],
 } as const satisfies Image

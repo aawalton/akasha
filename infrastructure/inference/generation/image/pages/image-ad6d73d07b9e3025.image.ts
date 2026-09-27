@@ -12,4 +12,10 @@ export const imageAd6d73d07b9e3025 = {
     "setting-tag/night",
     "setting-tag/rain",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/arms-raised",
+  ],
 } as const satisfies Image

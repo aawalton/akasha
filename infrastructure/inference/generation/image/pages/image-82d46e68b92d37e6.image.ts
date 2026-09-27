@@ -24,4 +24,5 @@ export const image82d46e68b92d37e6 = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street", "setting-tag/city"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
 } as const satisfies Image

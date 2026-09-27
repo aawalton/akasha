@@ -12,4 +12,10 @@ export const imageAc5e439f5f2ead80 = {
     "setting-tag/mountains",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+    "pose-tag/hand-on-hip",
+  ],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image57c800b869db12ed = {
     "setting-tag/dungeon",
     "setting-tag/night",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
 } as const satisfies Image

@@ -23,4 +23,5 @@ export const image0158c78553ac2da1 = {
   ],
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
 } as const satisfies Image

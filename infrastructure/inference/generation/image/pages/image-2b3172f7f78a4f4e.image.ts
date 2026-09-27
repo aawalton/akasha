@@ -22,4 +22,10 @@ export const image2b3172f7f78a4f4e = {
     "setting-tag/city",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const imageC9981b84d4fd782d = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/greenhouse", "setting-tag/indoor"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
 } as const satisfies Image

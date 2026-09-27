@@ -12,4 +12,5 @@ export const imageEe2031c71de732da = {
     "setting-tag/forest",
     "setting-tag/outdoor",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageEc4973e223b8d7fd = {
     "setting-tag/candlelight",
     "setting-tag/cabin",
   ],
+  poseTags: ["pose-tag/kissing", "pose-tag/sitting"],
 } as const satisfies Image

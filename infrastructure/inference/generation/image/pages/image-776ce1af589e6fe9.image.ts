@@ -17,4 +17,10 @@ export const image776ce1af589e6fe9 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/ruins"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/arms-crossed",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

@@ -12,4 +12,10 @@ export const imageA668c6ee5117ad39 = {
     "setting-tag/hallway",
     "setting-tag/ruins",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/full-body",
+  ],
 } as const satisfies Image

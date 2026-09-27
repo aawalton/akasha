@@ -13,4 +13,10 @@ export const imageA2539e63f0e06f68 = {
     "setting-tag/nature",
     "setting-tag/bedroom",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/leaning-forward",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

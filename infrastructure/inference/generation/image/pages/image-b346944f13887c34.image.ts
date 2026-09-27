@@ -12,4 +12,5 @@ export const imageB346944f13887c34 = {
     "setting-tag/mountains",
     "setting-tag/battlefield",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/holding-weapon"],
 } as const satisfies Image

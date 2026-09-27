@@ -22,4 +22,10 @@ export const image1ae3bde7c1f00f92 = {
     "setting-tag/rocks",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/arms-crossed",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

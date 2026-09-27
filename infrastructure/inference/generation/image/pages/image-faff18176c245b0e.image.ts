@@ -8,4 +8,5 @@ export const imageFaff18176c245b0e = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
+  poseTags: ["pose-tag/kneeling", "pose-tag/hands-clasped", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

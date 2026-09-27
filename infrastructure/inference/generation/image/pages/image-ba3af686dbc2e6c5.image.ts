@@ -24,4 +24,5 @@ export const imageBa3af686dbc2e6c5 = {
     "setting-tag/dungeon",
     "setting-tag/candlelight",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/standing", "pose-tag/walking"],
 } as const satisfies Image

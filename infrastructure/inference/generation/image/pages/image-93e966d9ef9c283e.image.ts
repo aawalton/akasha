@@ -12,4 +12,10 @@ export const image93e966d9ef9c283e = {
     "setting-tag/outdoor",
     "setting-tag/cafe",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/front-view",
+    "pose-tag/full-body",
+    "pose-tag/serious-expression",
+  ],
 } as const satisfies Image

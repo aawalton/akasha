@@ -18,4 +18,5 @@ export const image01466c6dd92d80be = {
   settingTags: ["setting-tag/balcony", "setting-tag/city", "setting-tag/sunset"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
+  poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
 } as const satisfies Image

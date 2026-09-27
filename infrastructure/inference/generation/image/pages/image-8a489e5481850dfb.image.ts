@@ -24,4 +24,5 @@ export const image8a489e5481850dfb = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
 } as const satisfies Image

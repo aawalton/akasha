@@ -12,4 +12,10 @@ export const image68fee9c198191c60 = {
     "setting-tag/night",
     "setting-tag/waterfall",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/leaning",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/embracing",
+  ],
 } as const satisfies Image

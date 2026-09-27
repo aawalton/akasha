@@ -17,4 +17,10 @@ export const imageAdef56c1aa210207 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
+  poseTags: [
+    "pose-tag/leaning-forward",
+    "pose-tag/hands-clasped",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/upper-body",
+  ],
 } as const satisfies Image

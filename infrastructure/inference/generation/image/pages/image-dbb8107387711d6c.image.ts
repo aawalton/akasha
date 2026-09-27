@@ -11,4 +11,5 @@ export const imageDbb8107387711d6c = {
     "setting-tag/dark-background",
     "setting-tag/abstract-background",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

@@ -18,4 +18,10 @@ export const imageB5136e77cdd108bb = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/outdoor", "setting-tag/bedroom", "setting-tag/nature"],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/cross-legged",
+    "pose-tag/hands-on-chest",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

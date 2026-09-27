@@ -23,4 +23,10 @@ export const image97cede98e2ff40ae = {
     "setting-tag/daytime",
     "setting-tag/water",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

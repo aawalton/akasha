@@ -12,4 +12,10 @@ export const imageA62879ef21d58788 = {
     "setting-tag/outdoor",
     "setting-tag/water",
   ],
+  poseTags: [
+    "pose-tag/leaning",
+    "pose-tag/arms-crossed",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/upper-body",
+  ],
 } as const satisfies Image

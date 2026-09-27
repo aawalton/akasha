@@ -22,4 +22,5 @@ export const image02612e464951997f = {
     "setting-tag/sunset",
     "setting-tag/nature",
   ],
+  poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing", "pose-tag/profile"],
 } as const satisfies Image

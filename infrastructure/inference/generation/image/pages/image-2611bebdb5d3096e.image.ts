@@ -12,4 +12,10 @@ export const image2611bebdb5d3096e = {
     "setting-tag/outdoor",
     "setting-tag/battlefield",
   ],
+  poseTags: [
+    "pose-tag/fighting",
+    "pose-tag/standing",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

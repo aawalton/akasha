@@ -22,4 +22,10 @@ export const imageD68e0ab1c1a4caaa = {
     "setting-tag/dining-room",
     "setting-tag/window",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/reading",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

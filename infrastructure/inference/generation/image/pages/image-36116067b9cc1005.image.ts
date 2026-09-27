@@ -14,4 +14,5 @@ export const image36116067b9cc1005 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/hallway", "setting-tag/nature"],
+  poseTags: ["pose-tag/walking", "pose-tag/back-view"],
 } as const satisfies Image

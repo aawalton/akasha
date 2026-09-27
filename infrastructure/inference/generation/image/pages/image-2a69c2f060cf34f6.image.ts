@@ -7,4 +7,5 @@ export const image2a69c2f060cf34f6 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/sky", "setting-tag/mountains", "setting-tag/outdoor"],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/profile"],
 } as const satisfies Image

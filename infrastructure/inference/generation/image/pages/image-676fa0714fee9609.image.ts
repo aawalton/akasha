@@ -11,4 +11,5 @@ export const image676fa0714fee9609 = {
     "setting-tag/dark-background",
     "setting-tag/abstract-background",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

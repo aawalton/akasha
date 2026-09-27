@@ -13,4 +13,5 @@ export const imageCc32c6b9617fe7ca = {
     "setting-tag/city",
     "setting-tag/car",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

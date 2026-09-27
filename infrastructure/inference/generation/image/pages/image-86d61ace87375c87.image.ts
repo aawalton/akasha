@@ -12,4 +12,5 @@ export const image86d61ace87375c87 = {
     "setting-tag/snow",
     "setting-tag/forest",
   ],
+  poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
 } as const satisfies Image

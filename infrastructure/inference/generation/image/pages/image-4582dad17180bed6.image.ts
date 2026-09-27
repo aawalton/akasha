@@ -12,4 +12,10 @@ export const image4582dad17180bed6 = {
     "setting-tag/outdoor",
     "setting-tag/ocean",
   ],
+  poseTags: [
+    "pose-tag/cowgirl",
+    "pose-tag/straddling",
+    "pose-tag/lying-down",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

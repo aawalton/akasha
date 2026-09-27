@@ -22,4 +22,5 @@ export const imageEaa18beb5688ec08 = {
     "setting-tag/study",
     "setting-tag/candlelight",
   ],
+  poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
 } as const satisfies Image

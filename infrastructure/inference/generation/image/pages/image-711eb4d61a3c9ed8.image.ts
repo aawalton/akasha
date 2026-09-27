@@ -12,4 +12,5 @@ export const image711eb4d61a3c9ed8 = {
     "setting-tag/water",
     "setting-tag/sunset",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

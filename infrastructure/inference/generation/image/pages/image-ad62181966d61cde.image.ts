@@ -12,4 +12,10 @@ export const imageAd62181966d61cde = {
     "setting-tag/sunset",
     "setting-tag/sky",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/back-view",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

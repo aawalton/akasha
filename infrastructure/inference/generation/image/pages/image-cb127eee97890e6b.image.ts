@@ -12,4 +12,5 @@ export const imageCb127eee97890e6b = {
     "setting-tag/outdoor",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
 } as const satisfies Image

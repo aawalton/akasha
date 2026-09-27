@@ -19,4 +19,5 @@ export const image131dfe3616b02768 = {
     "setting-tag/nature",
     "setting-tag/forest",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/looking-away"],
 } as const satisfies Image

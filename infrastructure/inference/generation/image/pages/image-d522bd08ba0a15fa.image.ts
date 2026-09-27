@@ -22,4 +22,10 @@ export const imageD522bd08ba0a15fa = {
     "setting-tag/sunset",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

@@ -12,4 +12,10 @@ export const imageF6a75a33ea8050f7 = {
     "setting-tag/dimly-lit",
     "setting-tag/candlelight",
   ],
+  poseTags: [
+    "pose-tag/portrait",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/front-view",
+    "pose-tag/standing",
+  ],
 } as const satisfies Image

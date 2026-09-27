@@ -18,4 +18,5 @@ export const imageE6da64e5e863ce04 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/arcade", "setting-tag/indoor", "setting-tag/neon-lights"],
+  poseTags: ["pose-tag/smiling", "pose-tag/looking-up", "pose-tag/arms-raised"],
 } as const satisfies Image

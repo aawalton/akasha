@@ -14,4 +14,10 @@ export const image38c6058fe8e32b2d = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/living-room", "setting-tag/indoor", "setting-tag/home"],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/holding-drink",
+    "pose-tag/looking-away",
+    "pose-tag/curled-up",
+  ],
 } as const satisfies Image

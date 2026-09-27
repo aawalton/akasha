@@ -19,4 +19,5 @@ export const imageE908ab1c3e1d63fd = {
     "setting-tag/rocks",
     "setting-tag/water",
   ],
+  poseTags: ["pose-tag/walking", "pose-tag/looking-back", "pose-tag/smiling"],
 } as const satisfies Image

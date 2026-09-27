@@ -23,4 +23,5 @@ export const image49a3f158469e1e1e = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/smiling"],
 } as const satisfies Image

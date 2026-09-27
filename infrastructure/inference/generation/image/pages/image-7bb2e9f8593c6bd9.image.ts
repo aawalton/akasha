@@ -12,4 +12,10 @@ export const image7bb2e9f8593c6bd9 = {
     "setting-tag/outdoor",
     "setting-tag/nature",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/hand-on-face",
+  ],
 } as const satisfies Image

@@ -23,4 +23,10 @@ export const imageCb3a89a934f972f9 = {
     "setting-tag/mountains",
     "setting-tag/nature",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+    "pose-tag/standing",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

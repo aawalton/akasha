@@ -13,4 +13,5 @@ export const image2cd36a86aa90a023 = {
     "setting-tag/ocean",
     "setting-tag/sunset",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
 } as const satisfies Image

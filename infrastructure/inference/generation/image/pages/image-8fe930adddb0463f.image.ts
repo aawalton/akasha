@@ -19,4 +19,10 @@ export const image8fe930adddb0463f = {
     "setting-tag/sunset",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/reading",
+    "pose-tag/upper-body",
+  ],
 } as const satisfies Image

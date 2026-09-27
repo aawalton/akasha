@@ -12,4 +12,5 @@ export const imageC85d0430ad7a9eb6 = {
     "setting-tag/outdoor",
     "setting-tag/rain",
   ],
+  poseTags: ["pose-tag/looking-back", "pose-tag/portrait"],
 } as const satisfies Image

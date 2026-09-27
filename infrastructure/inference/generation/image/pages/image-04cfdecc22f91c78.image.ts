@@ -22,4 +22,5 @@ export const image04cfdecc22f91c78 = {
     "setting-tag/mountains",
     "setting-tag/fog",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
 } as const satisfies Image

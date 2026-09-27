@@ -17,4 +17,5 @@ export const image8c47fad7678d9b65 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/spaceship", "setting-tag/dark-background", "setting-tag/dimly-lit"],
+  poseTags: ["pose-tag/floating", "pose-tag/squatting", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

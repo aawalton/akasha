@@ -18,4 +18,5 @@ export const image1d663f70def95021 = {
     "setting-tag/dimly-lit",
     "setting-tag/library",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

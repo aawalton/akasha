@@ -12,4 +12,5 @@ export const imageBb56b38c149750d3 = {
     "setting-tag/rain",
     "setting-tag/city-street",
   ],
+  poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/arms-raised"],
 } as const satisfies Image

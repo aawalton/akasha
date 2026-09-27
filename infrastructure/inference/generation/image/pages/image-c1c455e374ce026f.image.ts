@@ -11,4 +11,5 @@ export const imageC1c455e374ce026f = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/indoor", "setting-tag/castle", "setting-tag/night"],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

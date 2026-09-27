@@ -17,4 +17,10 @@ export const imageDc12dfb9c2007064 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/cafe", "setting-tag/city-street", "setting-tag/daytime"],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/hand-on-face",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

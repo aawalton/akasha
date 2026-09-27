@@ -17,4 +17,10 @@ export const image1e10148bd82df468 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/cherry-blossoms", "setting-tag/nature"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/working",
+  ],
 } as const satisfies Image

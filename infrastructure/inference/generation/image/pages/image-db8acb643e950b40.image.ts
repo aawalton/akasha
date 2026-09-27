@@ -14,4 +14,10 @@ export const imageDb8acb643e950b40 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/cabin"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/arms-raised",
+  ],
 } as const satisfies Image

@@ -12,4 +12,10 @@ export const image8a17227d521de608 = {
     "setting-tag/field",
     "setting-tag/nature",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/lying-down",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/arms-raised",
+  ],
 } as const satisfies Image

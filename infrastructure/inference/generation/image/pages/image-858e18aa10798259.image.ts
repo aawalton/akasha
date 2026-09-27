@@ -19,4 +19,10 @@ export const image858e18aa10798259 = {
     "setting-tag/night",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/leaning",
+    "pose-tag/holding-drink",
+    "pose-tag/laughing",
+    "pose-tag/looking-away",
+  ],
 } as const satisfies Image

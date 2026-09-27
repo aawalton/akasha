@@ -18,4 +18,5 @@ export const imageE60f133e0040e193 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/outdoor"],
+  poseTags: ["pose-tag/walking", "pose-tag/smiling"],
 } as const satisfies Image

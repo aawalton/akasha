@@ -24,4 +24,5 @@ export const imageBc845cf06818bad9 = {
     "setting-tag/nature",
     "setting-tag/ruins",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-on-hip"],
 } as const satisfies Image

@@ -22,4 +22,5 @@ export const imageAce81dbf32b84633 = {
     "setting-tag/outdoor",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

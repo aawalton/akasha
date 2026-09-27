@@ -12,4 +12,5 @@ export const imageF534cb386cb27e6b = {
     "setting-tag/sunset",
     "setting-tag/rocks",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/hand-in-hair", "pose-tag/looking-up"],
 } as const satisfies Image

@@ -13,4 +13,10 @@ export const image5ef854e3af7e6e68 = {
     "setting-tag/nature",
     "setting-tag/forest",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/front-view",
+    "pose-tag/full-body",
+    "pose-tag/serious-expression",
+  ],
 } as const satisfies Image

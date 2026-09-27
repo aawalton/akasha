@@ -18,4 +18,5 @@ export const imageDe9dab3739e96544 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/living-room"],
+  poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
 } as const satisfies Image

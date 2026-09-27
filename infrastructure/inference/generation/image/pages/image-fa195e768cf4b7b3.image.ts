@@ -7,4 +7,10 @@ export const imageFa195e768cf4b7b3 = {
   subjects: "FMM",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/forest"],
+  poseTags: [
+    "pose-tag/fighting",
+    "pose-tag/holding-weapon",
+    "pose-tag/casting-magic",
+    "pose-tag/standing",
+  ],
 } as const satisfies Image

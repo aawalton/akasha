@@ -12,4 +12,10 @@ export const image93de49496813c5fa = {
     "setting-tag/sky",
     "setting-tag/sunset",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+    "pose-tag/back-view",
+  ],
 } as const satisfies Image

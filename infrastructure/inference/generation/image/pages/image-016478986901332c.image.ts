@@ -7,4 +7,5 @@ export const image016478986901332c = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
 } as const satisfies Image

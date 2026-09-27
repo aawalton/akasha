@@ -8,4 +8,5 @@ export const image51658cf3558904e8 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-on-face", "pose-tag/portrait"],
 } as const satisfies Image

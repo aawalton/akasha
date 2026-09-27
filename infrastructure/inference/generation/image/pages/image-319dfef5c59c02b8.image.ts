@@ -13,4 +13,5 @@ export const image319dfef5c59c02b8 = {
     "setting-tag/cabin",
     "setting-tag/window",
   ],
+  poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

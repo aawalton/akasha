@@ -22,4 +22,10 @@ export const imageFec749fe87f99ec9 = {
     "setting-tag/sunset",
     "setting-tag/party",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/full-body",
+  ],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const image0120bdb9d6994acb = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rocks", "setting-tag/nature"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
 } as const satisfies Image

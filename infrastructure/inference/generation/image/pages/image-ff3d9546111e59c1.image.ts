@@ -22,4 +22,10 @@ export const imageFf3d9546111e59c1 = {
     "setting-tag/nature",
     "setting-tag/rocks",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/legs-up",
+    "pose-tag/hand-on-hip",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

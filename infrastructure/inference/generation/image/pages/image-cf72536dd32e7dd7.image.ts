@@ -12,4 +12,5 @@ export const imageCf72536dd32e7dd7 = {
     "setting-tag/hot-spring",
     "setting-tag/snow",
   ],
+  poseTags: ["pose-tag/kneeling", "pose-tag/looking-back", "pose-tag/sitting"],
 } as const satisfies Image

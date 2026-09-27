@@ -23,4 +23,10 @@ export const image63f86e6aa6aee4d3 = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/night"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/reading",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/close-up",
+  ],
 } as const satisfies Image

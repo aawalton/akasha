@@ -12,4 +12,10 @@ export const imageE692e036588c8f86 = {
     "setting-tag/indoor",
     "setting-tag/dimly-lit",
   ],
+  poseTags: [
+    "pose-tag/leaning",
+    "pose-tag/holding-drink",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hand-on-face",
+  ],
 } as const satisfies Image

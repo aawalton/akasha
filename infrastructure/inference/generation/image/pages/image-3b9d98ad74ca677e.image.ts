@@ -13,4 +13,10 @@ export const image3b9d98ad74ca677e = {
     "setting-tag/field",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/lying-down",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/arms-raised",
+  ],
 } as const satisfies Image

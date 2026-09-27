@@ -18,4 +18,10 @@ export const image48ffd521fc122759 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/hotel"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/hand-in-hair",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

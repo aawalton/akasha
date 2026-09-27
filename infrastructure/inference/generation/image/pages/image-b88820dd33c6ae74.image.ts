@@ -22,4 +22,5 @@ export const imageB88820dd33c6ae74 = {
     "setting-tag/field",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/lying-down", "pose-tag/reclining"],
 } as const satisfies Image

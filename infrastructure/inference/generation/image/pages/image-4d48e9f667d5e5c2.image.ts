@@ -22,4 +22,10 @@ export const image4d48e9f667d5e5c2 = {
     "setting-tag/mountains",
     "setting-tag/nature",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

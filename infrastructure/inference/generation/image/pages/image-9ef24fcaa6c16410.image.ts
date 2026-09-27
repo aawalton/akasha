@@ -18,4 +18,5 @@ export const image9ef24fcaa6c16410 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/nature"],
+  poseTags: ["pose-tag/standing", "pose-tag/smiling"],
 } as const satisfies Image

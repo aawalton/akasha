@@ -7,4 +7,5 @@ export const image199475ad0ec0a996 = {
   title: "Awen cover L3",
   relationshipLevel: "closeness-level/level-3",
   subjects: "F",
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

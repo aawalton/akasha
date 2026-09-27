@@ -7,4 +7,5 @@ export const image0fedad65ebd577b2 = {
   subjects: "FF",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/battlefield", "setting-tag/night"],
+  poseTags: ["pose-tag/fighting", "pose-tag/back-view"],
 } as const satisfies Image

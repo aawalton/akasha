@@ -15,4 +15,5 @@ export const image8f525ca4ec992468 = {
   referenceImages: ["image/image-83f842a301fa4bd9"],
   subjects: "F",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/leaning-forward"],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const imageC99e2bc4d10bd06c = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/window"],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

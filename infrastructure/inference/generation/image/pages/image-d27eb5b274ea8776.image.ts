@@ -12,4 +12,10 @@ export const imageD27eb5b274ea8776 = {
     "setting-tag/outdoor",
     "setting-tag/luxury",
   ],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/lying-down",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/side-by-side",
+  ],
 } as const satisfies Image

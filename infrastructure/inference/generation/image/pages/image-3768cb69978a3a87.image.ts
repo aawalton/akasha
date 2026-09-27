@@ -19,4 +19,5 @@ export const image3768cb69978a3a87 = {
     "setting-tag/mountains",
     "setting-tag/beach",
   ],
+  poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const image80c094057bcde133 = {
   subjects: "FM",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/pool", "setting-tag/sunset"],
+  poseTags: ["pose-tag/straddling", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

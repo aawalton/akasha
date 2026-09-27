@@ -17,4 +17,10 @@ export const image2d2fbcd52a990381 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/city-street", "setting-tag/night", "setting-tag/city"],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/standing",
+    "pose-tag/front-view",
+  ],
 } as const satisfies Image

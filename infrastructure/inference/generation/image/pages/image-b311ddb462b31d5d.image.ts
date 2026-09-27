@@ -22,4 +22,5 @@ export const imageB311ddb462b31d5d = {
     "setting-tag/nature",
     "setting-tag/sunset",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
 } as const satisfies Image

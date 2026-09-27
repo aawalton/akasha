@@ -24,4 +24,5 @@ export const imageC73d8e72be1fddf4 = {
   ],
   subjects: "F",
   settingTags: ["setting-tag/castle", "setting-tag/party", "setting-tag/indoor"],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
 } as const satisfies Image

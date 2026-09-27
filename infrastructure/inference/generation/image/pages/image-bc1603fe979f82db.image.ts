@@ -18,4 +18,10 @@ export const imageBc1603fe979f82db = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/rain"],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+    "pose-tag/hand-on-face",
+    "pose-tag/leaning",
+  ],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const image1bc3411f4a3ebfcc = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/neon-lights", "setting-tag/dark-background", "setting-tag/indoor"],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
 } as const satisfies Image

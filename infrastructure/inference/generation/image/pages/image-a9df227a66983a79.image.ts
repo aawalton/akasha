@@ -18,4 +18,5 @@ export const imageA9df227a66983a79 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset"],
+  poseTags: ["pose-tag/looking-up", "pose-tag/portrait", "pose-tag/head-tilt"],
 } as const satisfies Image

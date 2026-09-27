@@ -12,4 +12,10 @@ export const imageFc544ff70783ac49 = {
     "setting-tag/ruins",
     "setting-tag/campfire",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+  ],
 } as const satisfies Image

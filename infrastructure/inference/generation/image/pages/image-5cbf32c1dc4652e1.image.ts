@@ -13,4 +13,10 @@ export const image5cbf32c1dc4652e1 = {
     "setting-tag/candlelight",
     "setting-tag/dimly-lit",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/hands-clasped",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

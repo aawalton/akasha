@@ -18,4 +18,5 @@ export const image2b0de142abb37e7b = {
   subjects: "M",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/ruins", "setting-tag/indoor", "setting-tag/rocks"],
+  poseTags: ["pose-tag/standing", "pose-tag/working"],
 } as const satisfies Image

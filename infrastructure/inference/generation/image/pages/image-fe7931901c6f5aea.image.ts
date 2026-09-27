@@ -22,4 +22,10 @@ export const imageFe7931901c6f5aea = {
     "setting-tag/indoor",
     "setting-tag/night",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/holding-drink",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/smiling",
+  ],
 } as const satisfies Image

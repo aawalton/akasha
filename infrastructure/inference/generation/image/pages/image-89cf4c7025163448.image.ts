@@ -18,4 +18,5 @@ export const image89cf4c7025163448 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/cave", "setting-tag/rocks", "setting-tag/dimly-lit"],
+  poseTags: ["pose-tag/kneeling", "pose-tag/reading", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

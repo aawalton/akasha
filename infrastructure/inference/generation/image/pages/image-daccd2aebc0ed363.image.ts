@@ -18,4 +18,5 @@ export const imageDaccd2aebc0ed363 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/pool", "setting-tag/indoor", "setting-tag/luxury"],
+  poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/holding-clothing"],
 } as const satisfies Image

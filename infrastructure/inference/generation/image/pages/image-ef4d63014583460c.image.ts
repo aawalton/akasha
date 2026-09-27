@@ -12,4 +12,5 @@ export const imageEf4d63014583460c = {
     "setting-tag/rain",
     "setting-tag/nature",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/hands-behind-head", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

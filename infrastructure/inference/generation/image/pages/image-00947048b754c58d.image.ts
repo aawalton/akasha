@@ -9,4 +9,5 @@ export const image00947048b754c58d = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/luxury"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
+  poseTags: ["pose-tag/reclining", "pose-tag/lying-down"],
 } as const satisfies Image

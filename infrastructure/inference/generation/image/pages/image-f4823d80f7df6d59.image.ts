@@ -23,4 +23,10 @@ export const imageF4823d80f7df6d59 = {
     "setting-tag/ocean",
     "setting-tag/city",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/arms-raised",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/stretching",
+  ],
 } as const satisfies Image

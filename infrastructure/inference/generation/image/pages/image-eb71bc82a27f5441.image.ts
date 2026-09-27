@@ -18,4 +18,10 @@ export const imageEb71bc82a27f5441 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/lake", "setting-tag/water", "setting-tag/outdoor", "setting-tag/fog"],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/back-view",
+    "pose-tag/looking-back",
+    "pose-tag/bathing",
+  ],
 } as const satisfies Image

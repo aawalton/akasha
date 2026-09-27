@@ -13,4 +13,10 @@ export const image934070a3e3567e9a = {
     "setting-tag/rain",
     "setting-tag/city",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/holding-weapon",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/legs-spread",
+  ],
 } as const satisfies Image

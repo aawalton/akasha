@@ -19,4 +19,10 @@ export const image16a1f471fdfad4f7 = {
     "setting-tag/nature",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/smiling",
+    "pose-tag/holding-drink",
+    "pose-tag/looking-at-viewer",
+  ],
 } as const satisfies Image

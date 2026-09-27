@@ -18,4 +18,5 @@ export const image47137a0d97349c98 = {
   subjects: "FFF",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/hot-spring", "setting-tag/outdoor", "setting-tag/water"],
+  poseTags: ["pose-tag/kissing", "pose-tag/bathing", "pose-tag/embracing"],
 } as const satisfies Image

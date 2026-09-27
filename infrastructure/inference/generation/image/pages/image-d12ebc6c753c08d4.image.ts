@@ -19,4 +19,5 @@ export const imageD12ebc6c753c08d4 = {
     "setting-tag/hallway",
     "setting-tag/daytime",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/smiling", "pose-tag/working"],
 } as const satisfies Image

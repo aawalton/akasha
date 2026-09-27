@@ -12,4 +12,10 @@ export const imageCa3d0389b21a4bbf = {
     "setting-tag/sunset",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/hands-behind-head",
+    "pose-tag/smiling",
+    "pose-tag/legs-spread",
+  ],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageB75c2df71bba0dde = {
     "setting-tag/dark-background",
     "setting-tag/candlelight",
   ],
+  poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/portrait"],
 } as const satisfies Image

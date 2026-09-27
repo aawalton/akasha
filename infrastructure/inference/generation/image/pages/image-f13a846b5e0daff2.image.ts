@@ -12,4 +12,5 @@ export const imageF13a846b5e0daff2 = {
     "setting-tag/ocean",
     "setting-tag/town",
   ],
+  poseTags: ["pose-tag/kneeling", "pose-tag/holding-hands", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

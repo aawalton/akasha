@@ -12,4 +12,10 @@ export const imageDc3ff181a2ec3323 = {
     "setting-tag/water",
     "setting-tag/city",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+    "pose-tag/back-view",
+  ],
 } as const satisfies Image

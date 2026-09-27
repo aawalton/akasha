@@ -12,4 +12,5 @@ export const imageCfa0f6fb97176fa0 = {
     "setting-tag/water",
     "setting-tag/hot-spring",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

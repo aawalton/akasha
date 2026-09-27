@@ -22,4 +22,10 @@ export const imageB90d34fe1385be83 = {
     "setting-tag/nature",
     "setting-tag/sunset",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/embracing",
+    "pose-tag/standing",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

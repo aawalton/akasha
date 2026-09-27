@@ -12,4 +12,10 @@ export const imageF5fa59b523364727 = {
     "setting-tag/night",
     "setting-tag/outdoor",
   ],
+  poseTags: [
+    "pose-tag/looking-at-viewer",
+    "pose-tag/back-view",
+    "pose-tag/looking-back",
+    "pose-tag/standing",
+  ],
 } as const satisfies Image

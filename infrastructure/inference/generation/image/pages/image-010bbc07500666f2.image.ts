@@ -18,4 +18,5 @@ export const image010bbc07500666f2 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/nature"],
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
+  poseTags: ["pose-tag/portrait", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

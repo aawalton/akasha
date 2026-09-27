@@ -13,4 +13,5 @@ export const image8f2ecefc0ff80827 = {
     "setting-tag/outdoor",
     "setting-tag/snow",
   ],
+  poseTags: ["pose-tag/standing", "pose-tag/back-view"],
 } as const satisfies Image

@@ -18,4 +18,10 @@ export const imageCcadd23b4e94bfc5 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/park"],
+  poseTags: [
+    "pose-tag/reclining",
+    "pose-tag/lying-on-stomach",
+    "pose-tag/profile",
+    "pose-tag/eyes-closed",
+  ],
 } as const satisfies Image

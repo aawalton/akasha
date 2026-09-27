@@ -12,4 +12,10 @@ export const imageEbbb3678cb75a21a = {
     "setting-tag/sunset",
     "setting-tag/sky",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+    "pose-tag/hand-on-thigh",
+  ],
 } as const satisfies Image

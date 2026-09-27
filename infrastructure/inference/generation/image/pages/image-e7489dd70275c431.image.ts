@@ -22,4 +22,10 @@ export const imageE7489dd70275c431 = {
     "setting-tag/jungle",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/smiling",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

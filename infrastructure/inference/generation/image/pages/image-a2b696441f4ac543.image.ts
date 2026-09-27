@@ -19,4 +19,5 @@ export const imageA2b696441f4ac543 = {
     "setting-tag/night",
     "setting-tag/candlelight",
   ],
+  poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
 } as const satisfies Image

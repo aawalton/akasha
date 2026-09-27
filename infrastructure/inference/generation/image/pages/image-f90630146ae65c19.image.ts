@@ -12,4 +12,10 @@ export const imageF90630146ae65c19 = {
     "setting-tag/candlelight",
     "setting-tag/indoor",
   ],
+  poseTags: [
+    "pose-tag/sitting",
+    "pose-tag/cross-legged",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/hand-in-hair",
+  ],
 } as const satisfies Image

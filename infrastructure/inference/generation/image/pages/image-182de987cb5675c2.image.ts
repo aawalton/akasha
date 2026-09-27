@@ -12,4 +12,10 @@ export const image182de987cb5675c2 = {
     "setting-tag/forest",
     "setting-tag/mountains",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/back-view",
+    "pose-tag/bathing",
+    "pose-tag/looking-away",
+  ],
 } as const satisfies Image

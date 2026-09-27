@@ -18,4 +18,5 @@ export const imageA1789bb73547086e = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/underwater", "setting-tag/church"],
+  poseTags: ["pose-tag/floating", "pose-tag/standing", "pose-tag/looking-at-viewer"],
 } as const satisfies Image

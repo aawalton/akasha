@@ -23,4 +23,10 @@ export const image510b084d0cb690f6 = {
     "setting-tag/nature",
     "setting-tag/daytime",
   ],
+  poseTags: [
+    "pose-tag/standing",
+    "pose-tag/looking-at-viewer",
+    "pose-tag/profile",
+    "pose-tag/portrait",
+  ],
 } as const satisfies Image

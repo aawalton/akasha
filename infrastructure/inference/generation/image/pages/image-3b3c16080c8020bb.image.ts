@@ -18,4 +18,5 @@ export const image3b3c16080c8020bb = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub"],
+  poseTags: ["pose-tag/reclining", "pose-tag/looking-up", "pose-tag/hand-in-hair"],
 } as const satisfies Image

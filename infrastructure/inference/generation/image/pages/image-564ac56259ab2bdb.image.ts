@@ -12,4 +12,5 @@ export const image564ac56259ab2bdb = {
     "setting-tag/city-street",
     "setting-tag/forest",
   ],
+  poseTags: ["pose-tag/back-view", "pose-tag/walking"],
 } as const satisfies Image

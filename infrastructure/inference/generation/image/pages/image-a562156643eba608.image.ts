@@ -7,4 +7,5 @@ export const imageA562156643eba608 = {
   title: "Chocolate-covered toffee, 1 piece",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/kitchen"],
+  poseTags: ["pose-tag/top-down-view"],
 } as const satisfies Image
