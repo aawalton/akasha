@@ -14,7 +14,7 @@ export const otherwhere00016 = {
     "character-other/otherwhere-links",
     "character-other/otherwhere-engorged-bookworm-01",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I keep it there until it stops moving",
   beats: [
     "She keeps her weight on it and holds it down in the salt.",
@@ -28,5 +28,5 @@ export const otherwhere00016 = {
     '"One," he says. His runes slide slowly over his flanks. "Dried, not dead."',
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
