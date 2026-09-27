@@ -45,6 +45,11 @@ import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+import {
+  phraseIn,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { pageDetailBuildUnreadable } from "akasha/temper/web/phrase/pages/page-detail-build-unreadable.temper-web-phrase.ts"
 import { useEffect } from "react"
 import { data, useSearchParams } from "react-router"
 import { toast } from "sonner"
@@ -275,11 +280,14 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
   const decodeFailed =
     (loaderData.kind === "character" && loaderData.decodeFailed) ||
     (loaderData.kind === "companion" && loaderData.decodeFailed)
+  const phrases = useWebPhrases()
   useEffect(() => {
-    if (decodeFailed) {
-      toast.error("This build couldn't be loaded — it may use an unsupported or outdated format.")
+    if (decodeFailed && phrases !== null) {
+      toast.error(phraseIn(phrases, pageDetailBuildUnreadable.slug), {
+        id: pageDetailBuildUnreadable.slug,
+      })
     }
-  }, [decodeFailed])
+  }, [decodeFailed, phrases])
 
   if (loaderData.kind === "nav") {
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />

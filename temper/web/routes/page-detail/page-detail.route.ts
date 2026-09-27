@@ -17,5 +17,10 @@ export const pageDetail = {
       statement:
         "This route reads the companion catalogue itself rather than waiting on the root loader.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The toast for a build that will not decode reads its wording from a web phrase page.",
+    },
   ],
 } as const satisfies Route
