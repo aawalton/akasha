@@ -9,7 +9,7 @@ const PROCS = "cgroup.procs"
 
 const CONTROL = "cgroup.subtree_control"
 
-const SCOPE = "tmux-spawn-"
+const SCOPES: readonly string[] = ["tmux-spawn-", "tmux-pane-"]
 
 const UNIT = ".scope"
 
@@ -24,14 +24,18 @@ export function groupIn(text: string): string | null {
   return own === undefined || own === "" ? null : own
 }
 
+function namedSeatScope(one: string): boolean {
+  return SCOPES.some((scope) => one.startsWith(scope))
+}
+
 export function isSeatScope(own: string): boolean {
-  return (own.split("/").at(-1) ?? "").startsWith(SCOPE)
+  return namedSeatScope(own.split("/").at(-1) ?? "")
 }
 
 export function paneScopeIn(text: string): string | null {
   const own = groupIn(text)
   if (own === null) return null
-  return own.split("/").find((one) => one.startsWith(SCOPE) && one.endsWith(UNIT)) ?? null
+  return own.split("/").find((one) => namedSeatScope(one) && one.endsWith(UNIT)) ?? null
 }
 
 export function seatScopeIn(text: string): string | null {

@@ -32,6 +32,7 @@ test("a group is read from the last field of the first line", () => {
 
 test("a seat's scope is known by the name tmux gives it", () => {
   expect(isSeatScope("/user.slice/app.slice/tmux-spawn-a.scope")).toBe(true)
+  expect(isSeatScope("/user.slice/seats.slice/tmux-pane-ember-7.scope")).toBe(true)
   expect(isSeatScope("/user.slice/app.slice/tmux-seat-ember-7.scope")).toBe(false)
   expect(isSeatScope("/user.slice/app.slice/akasha-call-7")).toBe(false)
 })
@@ -47,6 +48,12 @@ test("a pane's scope is named by its unit wherever it sits in the group", () => 
   expect(paneScopeIn("0::/user.slice/seats.slice/tmux-spawn-a.scope\n")).toBe("tmux-spawn-a.scope")
   expect(paneScopeIn("0::/user.slice/seats.slice/tmux-spawn-a.scope/agent\n")).toBe(
     "tmux-spawn-a.scope"
+  )
+})
+
+test("the scope a launch makes for a pane is that pane's scope", () => {
+  expect(paneScopeIn("0::/user.slice/seats.slice/tmux-pane-ember-7.scope/agent\n")).toBe(
+    "tmux-pane-ember-7.scope"
   )
 })
 

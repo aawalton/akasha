@@ -34,7 +34,7 @@ export const seatGrouping = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat's scope is known by the name tmux gives it.",
+      statement: "A seat's scope is known by the name tmux gives it or the name a launch gives it.",
     },
     {
       decisionKind: "decision-kind/departure",
