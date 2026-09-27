@@ -15,6 +15,10 @@ export const otherwhereMainHall = {
       fact: "The main hall is ornate and massive, and wrecked by centuries of neglect.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Books lie scattered everywhere, spines cracked, among broken desks, chairs and tables.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
