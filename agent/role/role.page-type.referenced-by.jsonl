@@ -13,6 +13,7 @@
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/recorder.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/reviewer.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/scenewright.role.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/story-recorder.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/worker.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/world-builder.role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"role.page-type.types.ts","path":"agent/role/pages/writer.role.ts","typed":true,"deferred":false}

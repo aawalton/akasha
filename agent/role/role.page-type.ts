@@ -23,6 +23,7 @@ export const role = {
     "role/recorder",
     "role/reviewer",
     "role/scenewright",
+    "role/story-recorder",
     "role/worker",
     "role/world-builder",
     "role/writer",
