@@ -118,5 +118,6 @@ export const temperPlayerInventoryManagementUi = {
     "module/item-rule-card-header",
     "module/rule-card-filter-chip-item-ids",
     "module/use-condition-field-titles",
+    "page-type/temper-rule-card-phrase",
   ],
 } as const satisfies Domain

@@ -81,6 +81,7 @@
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/thing/temper-thing.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/web/player-inventory-management-ui/temper-rule-card-phrase/temper-rule-card-phrase.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/activation-buff/temper-companion-activation-buff.page-type.ts","id":"01a05fcd-41a7-7f50-b3d4-a62fb6c122e1"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts","id":"01a05fcd-aece-70c8-8784-e3afaec07950"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}
@@ -164,4 +165,5 @@
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts","id":"01a05fc9-9a03-795c-b95b-c04997733011"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-rule-template/temper-rule-template.page-type.ts","id":"01a05fd0-3aa6-7646-b33d-56f120ee1438"}
 {"propertySlug":"page-property","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
+{"propertySlug":"page-property","path":"temper/web/player-inventory-management-ui/temper-rule-card-phrase/temper-rule-card-phrase.page-type.ts","id":"01a0e272-3ee8-728e-bb34-eea061366568"}
 {"propertySlug":"parts","path":"temper/thing/temper-thing.page-type.ts","id":"01a05fb0-3ce8-72d1-bc97-7c0f7f1810b3"}
