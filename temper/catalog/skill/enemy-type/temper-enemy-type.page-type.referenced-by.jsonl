@@ -1,1 +1,5 @@
+{"propertySlug":"import","fileName":"temper-enemy-type.page-type.types.ts","path":"temper/catalog/skill/enemy-type/pages/daedra.temper-enemy-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-enemy-type.page-type.types.ts","path":"temper/catalog/skill/enemy-type/pages/difficult-monster.temper-enemy-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-enemy-type.page-type.types.ts","path":"temper/catalog/skill/enemy-type/pages/undead.temper-enemy-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-enemy-type.page-type.types.ts","path":"temper/catalog/skill/enemy-type/pages/werewolf.temper-enemy-type.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/skill/temper-skill.page-type.ts","id":"01a05fca-cb8c-7b06-8668-7985d611dbab"}
