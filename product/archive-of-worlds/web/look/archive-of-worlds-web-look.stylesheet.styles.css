@@ -7,6 +7,7 @@
 @source "../../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../../design/interface/**/*.{ts,tsx}";
 @source "../../../../infrastructure/inference/**/*.{ts,tsx}";
+@source "../../../../infrastructure/service/**/*.{ts,tsx}";
 @source "../../../../page/**/*.{ts,tsx}";
 @source "../../../../story/**/*.{ts,tsx}";
 @source "../../../../temper/player/**/*.{ts,tsx}";

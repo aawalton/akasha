@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/seat/supervisor/supervisor-action/modules/seat-action/seat-action.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"agent/subagent/modules/body/subagent-body.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/atlas-web/modules/atlas-app-id/atlas-app-id.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/atlas-web/routes/atlas-home/atlas-home.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/atlas-web/routes/atlas-trip/atlas-trip.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/collection/great-courses/modules/course-mapping/course-mapping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-address.module.code.ts","path":"alan/collection/royal-road/modules/syncing/royal-road-syncing.module.code.ts","typed":false,"deferred":false}

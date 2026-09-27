@@ -1,27 +1,16 @@
+import { alanwaltonAtlasWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-atlas-web.web-app.ts"
 import {
-  PageLayout,
-  PageTitle,
-} from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
+  type DocumentData,
+  loaderAt,
+  metaFor,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { SiteDocumentWelcome } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/welcome/site-document-welcome.module.code.tsx"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 
-export function meta() {
-  return [{ title: "Atlas" }]
-}
+export const loader = loaderAt(namedAs("web-app", alanwaltonAtlasWeb.slug, null), "")
 
-export default function HomeRoute() {
-  return (
-    <PageLayout>
-      <PageLayout.Header>
-        <PageTitle>Atlas</PageTitle>
-      </PageLayout.Header>
-      <PageLayout.Content>
-        <div className="mx-auto max-w-2xl py-12 text-center">
-          <p className="text-lg text-secondary">Welcome to your Atlas.</p>
-          <p className="text-secondary text-sm">
-            Your content will appear here as it is added. Use the sidebar to navigate between
-            collections once they exist.
-          </p>
-        </div>
-      </PageLayout.Content>
-    </PageLayout>
-  )
+export const meta = metaFor(null)
+
+export default function AtlasHome({ loaderData }: { loaderData: DocumentData }) {
+  return <SiteDocumentWelcome loaderData={loaderData} />
 }
