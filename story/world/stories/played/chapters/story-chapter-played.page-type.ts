@@ -9,7 +9,18 @@ export const storyChapterPlayed = {
   extends: ["page-type/chapter"],
   runsTabooCheck: false,
   detailConfig: {
+    frame: {
+      edgeToEdge: true,
+      focusMode: true,
+      autoScroll: {
+        loadScroll: "progress",
+      },
+    },
     bodyPropertyId: "prose",
+    fullBleed: true,
+    showReadingProgress: true,
+    progressPropertyId: "ownProgress",
+    lengthPropertyId: "ownLength",
   },
   sequence: {
     groupBy: "story",
