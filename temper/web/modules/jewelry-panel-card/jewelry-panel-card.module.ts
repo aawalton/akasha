@@ -11,5 +11,9 @@ export const jewelryPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The slots are drawn again whenever the gear tables are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is the jewelry source category's title, read from that page.",
+    },
   ],
 } as const satisfies Module

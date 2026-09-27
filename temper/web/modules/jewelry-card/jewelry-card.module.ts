@@ -6,4 +6,10 @@ export const jewelryCard = {
   slug: "jewelry-card",
   definition: "a jewelry slot: its set, trait, enchant and quality, each pickable",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages and the gear catalog's own pages.",
+    },
+  ],
 } as const satisfies Module

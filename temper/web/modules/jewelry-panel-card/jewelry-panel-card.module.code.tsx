@@ -11,6 +11,8 @@ import {
   type JewelryTraitId,
   jewelryTraitOptions,
 } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
+import { jewelry as jewelrySource } from "akasha/temper/catalog/world/temper-source-category/pages/jewelry.temper-source-category.ts"
+import { temperSourceCategory } from "akasha/temper/catalog/world/temper-source-category/temper-source-category.page-type.ts"
 import { groupByCount } from "akasha/temper/player/character/build/build-support/modules/row-grouping/row-grouping.module.code.ts"
 import {
   bulkUpdateJewelryEnchant,
@@ -33,6 +35,7 @@ import { BulkSetEditTag } from "akasha/temper/web/modules/bulk-set-edit-tag/bulk
 import type { EquipmentSectionProps } from "akasha/temper/web/modules/equipment-types/equipment-types.module.code.ts"
 import type { JewelryUpdateParams } from "akasha/temper/web/modules/jewelry-card/jewelry-card.module.code.tsx"
 import { JewelryCard } from "akasha/temper/web/modules/jewelry-card/jewelry-card.module.code.tsx"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { useMemo } from "react"
 
 export function JewelryPanelCard({
@@ -44,6 +47,9 @@ export function JewelryPanelCard({
   className,
   readOnly,
 }: EquipmentSectionProps) {
+  const sourceCategories = useKeyedTitles(temperSourceCategory.slug)
+  const title = sourceCategories?.titles.get(jewelrySource.key) ?? ""
+
   const updateJewelrySlot = (slot: JewelrySlotId, updates: JewelryUpdateParams) => {
     const currentSlot = equipment.jewelry[slot]
     if (currentSlot.itemType === "jewelry") {
@@ -149,7 +155,7 @@ export function JewelryPanelCard({
     <PanelCard
       id="jewelry"
       collapsible={true}
-      title="Jewelry"
+      title={title}
       headerSubtitle={
         !readOnly ? (
           <div className="flex flex-wrap gap-1">

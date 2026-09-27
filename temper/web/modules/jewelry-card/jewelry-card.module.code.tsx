@@ -18,8 +18,10 @@ import {
 import {
   type JewelryTraitId,
   jewelryTraitOptions,
+  jewelryTraits,
 } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import type { SetTemplate as SetsAll } from "akasha/temper/catalog/gear/equipment/modules/set-template/set-template.module.code.ts"
+import { noSet } from "akasha/temper/catalog/gear/temper-set/pages/no-set/no-set.temper-set.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import {
   convertIconPathToUrl,
@@ -31,6 +33,7 @@ import {
   jewelryEnchants,
 } from "akasha/temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts"
 import { getValidSetsForSlot } from "akasha/temper/player/character/characters-equipment/modules/set-pattern-matcher/set-pattern-matcher.module.code.ts"
+import { setsAll } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import {
@@ -43,6 +46,8 @@ import {
   getSetById,
   SetSelectDialog,
 } from "akasha/temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { jewelryCardRemove } from "akasha/temper/web/phrase/pages/jewelry-card-remove.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
 
 export type JewelryUpdateParams = Partial<JewelryItem>
@@ -69,6 +74,10 @@ export function JewelryCard({
   readOnly,
 }: JewelryCardProps) {
   const [isSetDialogOpen, setIsSetDialogOpen] = useState(false)
+  const phrase = usePhrase()
+  const noQualityName = getQualityLabel("no-quality")
+  const noTraitName = jewelryTraits.data["no-trait"].name
+  const noEnchantName = jewelryEnchants.data["no-enchant"].name
 
   const itemData = item.itemType === "jewelry" ? item.data : null
   const currentSetId = itemData?.set ?? "no-set"
@@ -104,7 +113,7 @@ export function JewelryCard({
           <EquipmentIcon
             primarySrc={iconPath}
             fallbackSrc={jewelrySlots.data[slot].icon}
-            alt={slot}
+            alt={name}
           />
         )}
         renderContent={() => (
@@ -125,7 +134,7 @@ export function JewelryCard({
                       {getQualityLabel(itemData?.quality ?? "no-quality")}
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-quality", label: "No Quality" }}>
+                  <SelectContent nullSentinel={{ value: "no-quality", label: noQualityName }}>
                     {availableQualityOptions()
                       .filter((option) => option.id !== "no-quality")
                       .map((option) => (
@@ -146,7 +155,7 @@ export function JewelryCard({
                   disabled={readOnly}
                 >
                   <Badge variant="elevation-muted" className="shrink-0">
-                    {selectedSet?.name ?? "No Set"}
+                    {selectedSet?.name ?? setsAll().data[noSet.slug]?.name}
                   </Badge>
                 </button>
                 <Select<JewelryTraitId>
@@ -156,10 +165,10 @@ export function JewelryCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder="No Trait" />
+                      <SelectValue placeholder={noTraitName} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-trait", label: "No Trait" }} sorted>
+                  <SelectContent nullSentinel={{ value: "no-trait", label: noTraitName }} sorted>
                     {jewelryTraitOptions(itemData?.trait ?? "no-trait")
                       .filter((option) => option.id !== "no-trait")
                       .map((option) => (
@@ -176,10 +185,13 @@ export function JewelryCard({
                 >
                   <SelectTrigger hideChevron>
                     <Badge variant="elevation-muted" className="shrink-0">
-                      <SelectValue placeholder="No Enchant" />
+                      <SelectValue placeholder={noEnchantName} />
                     </Badge>
                   </SelectTrigger>
-                  <SelectContent nullSentinel={{ value: "no-enchant", label: "No Enchant" }} sorted>
+                  <SelectContent
+                    nullSentinel={{ value: "no-enchant", label: noEnchantName }}
+                    sorted
+                  >
                     {jewelryEnchants.list
                       .filter((option) => option.id !== "no-enchant")
                       .map((option) => (
@@ -194,7 +206,7 @@ export function JewelryCard({
           </div>
         )}
         onRemove={!readOnly && hasValues ? onRemove : undefined}
-        removeLabel={`Remove ${name}`}
+        removeLabel={phrase(jewelryCardRemove.slug, { name })}
       />
 
       {!readOnly && (

@@ -11,6 +11,7 @@
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/characters-data-content/characters-data-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/home-page-content/home-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/set-select-dialog/set-select-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"sets-all.module.code.ts","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts","typed":false,"deferred":false}
