@@ -43,6 +43,10 @@ export const otherwhereMainHall = {
       fact: "Bookshelves rise to the first ceiling, and a second gallery of shelves runs above all round.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Loose pages flutter across the main hall, and it smells stale, sad and faintly of hope.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
