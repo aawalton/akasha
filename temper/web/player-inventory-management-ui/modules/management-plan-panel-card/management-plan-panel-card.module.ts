@@ -6,4 +6,10 @@ export const managementPlanPanelCard = {
   slug: "management-plan-panel-card",
   definition: "the card drawing what the rules would do to a player's items",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card's title, counts, total label and empty hints are web phrase pages.",
+    },
+  ],
 } as const satisfies Module

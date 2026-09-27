@@ -18,6 +18,22 @@ import type {
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
 import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { managementPlanPanelCardLoading } from "akasha/temper/web/phrase/pages/management-plan-panel-card-loading.temper-web-phrase.ts"
+import { managementPlanPanelCardLogin } from "akasha/temper/web/phrase/pages/management-plan-panel-card-login.temper-web-phrase.ts"
+import { managementPlanPanelCardLogins } from "akasha/temper/web/phrase/pages/management-plan-panel-card-logins.temper-web-phrase.ts"
+import { managementPlanPanelCardNoActions } from "akasha/temper/web/phrase/pages/management-plan-panel-card-no-actions.temper-web-phrase.ts"
+import { managementPlanPanelCardNoInventory } from "akasha/temper/web/phrase/pages/management-plan-panel-card-no-inventory.temper-web-phrase.ts"
+import { managementPlanPanelCardSlot } from "akasha/temper/web/phrase/pages/management-plan-panel-card-slot.temper-web-phrase.ts"
+import { managementPlanPanelCardSlots } from "akasha/temper/web/phrase/pages/management-plan-panel-card-slots.temper-web-phrase.ts"
+import { managementPlanPanelCardTitle } from "akasha/temper/web/phrase/pages/management-plan-panel-card-title.temper-web-phrase.ts"
+import { managementPlanPanelCardTotal } from "akasha/temper/web/phrase/pages/management-plan-panel-card-total.temper-web-phrase.ts"
+import { managementPlanPanelCardVenue } from "akasha/temper/web/phrase/pages/management-plan-panel-card-venue.temper-web-phrase.ts"
+import { managementPlanPanelCardVenues } from "akasha/temper/web/phrase/pages/management-plan-panel-card-venues.temper-web-phrase.ts"
+import { managementPlanPanelCardVisit } from "akasha/temper/web/phrase/pages/management-plan-panel-card-visit.temper-web-phrase.ts"
+import {
   decideManagementPlanPanelState,
   type InventoryReadState,
   type ManagementPlanPanelState,
@@ -32,14 +48,14 @@ interface ManagementPlanPanelCardProps extends InventoryReadState {
   plan: ManagementPlan
 }
 
-function emptyHint(state: Exclude<ManagementPlanPanelState, "plan">): string {
+function emptyHint(phrase: Phrase, state: Exclude<ManagementPlanPanelState, "plan">): string {
   switch (state) {
     case "loading":
-      return "Loading your inventory."
+      return phrase(managementPlanPanelCardLoading.slug)
     case "no-inventory":
-      return "No inventory has reached this page, so no plan has been built."
+      return phrase(managementPlanPanelCardNoInventory.slug)
     case "no-actions":
-      return "No actions pending."
+      return phrase(managementPlanPanelCardNoActions.slug)
     default:
       return assertNever(state)
   }
@@ -50,6 +66,7 @@ export function ManagementPlanPanelCard({
   isInventoryLoading,
   hasInventory,
 }: ManagementPlanPanelCardProps) {
+  const phrase = usePhrase()
   const { items: expanded, toggle } = useSetToggle([])
   const [valueDialogOpen, setValueDialogOpen] = useState(false)
   const [valueDialogData, setValueDialogData] = useState<ValueExplanationData | null>(null)
@@ -80,18 +97,33 @@ export function ManagementPlanPanelCard({
       id="management-plan"
       collapsible
       forceMount
-      title="Inventory Management Plan"
+      title={phrase(managementPlanPanelCardTitle.slug)}
       headerSubtitle={
         plan.sessions.length > 0 ? (
           <CardTitleBadges>
             <Badge variant="elevation-muted">
-              {plan.sessions.length} {plan.sessions.length === 1 ? "login" : "logins"}
+              {phrase(
+                plan.sessions.length === 1
+                  ? managementPlanPanelCardLogin.slug
+                  : managementPlanPanelCardLogins.slug,
+                { count: plan.sessions.length }
+              )}
             </Badge>
             <Badge variant="elevation-muted">
-              {plan.totalVenueVisits} {plan.totalVenueVisits === 1 ? "venue" : "venues"}
+              {phrase(
+                plan.totalVenueVisits === 1
+                  ? managementPlanPanelCardVenue.slug
+                  : managementPlanPanelCardVenues.slug,
+                { count: plan.totalVenueVisits }
+              )}
             </Badge>
             <Badge variant="elevation-muted">
-              {plan.totalSlots} {plan.totalSlots === 1 ? "slot" : "slots"}
+              {phrase(
+                plan.totalSlots === 1
+                  ? managementPlanPanelCardSlot.slug
+                  : managementPlanPanelCardSlots.slug,
+                { count: plan.totalSlots }
+              )}
             </Badge>
           </CardTitleBadges>
         ) : undefined
@@ -99,12 +131,12 @@ export function ManagementPlanPanelCard({
     >
       {state !== "plan" ? (
         <Text variant="hint" className="py-4 text-center">
-          {emptyHint(state)}
+          {emptyHint(phrase, state)}
         </Text>
       ) : (
         <div className="flex flex-col">
           <ItemRow
-            label="Total"
+            label={phrase(managementPlanPanelCardTotal.slug)}
             quantity={plan.totalSlots}
             value={plan.totalValue !== undefined ? formatGold(plan.totalValue) : undefined}
             accent
@@ -112,6 +144,7 @@ export function ManagementPlanPanelCard({
           />
           {plan.sessions.map((session, index) =>
             RenderSession(
+              phrase,
               session,
               index,
               plan.totalValue !== undefined,
@@ -132,6 +165,7 @@ export function ManagementPlanPanelCard({
 }
 
 function RenderSession(
+  phrase: Phrase,
   session: CharacterSession,
   index: number,
   hasAnyValue: boolean,
@@ -143,9 +177,13 @@ function RenderSession(
   const path = buildNodePath("", sessionKey)
   const isExpanded = expanded.has(path)
 
-  const visitSuffix =
-    session.visitNumber != null && session.visitNumber > 1 ? ` (Visit ${session.visitNumber})` : ""
-  const label = `${session.characterName}${visitSuffix}`
+  const label =
+    session.visitNumber != null && session.visitNumber > 1
+      ? phrase(managementPlanPanelCardVisit.slug, {
+          character: session.characterName,
+          visit: session.visitNumber,
+        })
+      : session.characterName
 
   return (
     <div key={sessionKey}>
