@@ -7,4 +7,5 @@ export const necklace = {
   title: "Necklace",
   key: "necklace",
   validSlots: ["temper-jewelry-slot/necklace"],
+  equipType: 2,
 } as const satisfies TemperJewelryType

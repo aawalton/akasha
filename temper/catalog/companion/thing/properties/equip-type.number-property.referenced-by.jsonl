@@ -2,6 +2,7 @@
 {"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"equip-type.number-property.types.ts","path":"temper/player/character/temper-mine/properties/items.page-property-entry.types.ts","typed":true,"deferred":false}
@@ -9,6 +10,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.ts","id":"01a05fcd-aecf-75d4-9252-0fa9f6ad750b"}
 {"propertySlug":"page-property","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts","id":"01a05fd1-d433-7778-b5e5-05081a435bde"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.ts","id":"01a06053-b382-7f4e-90f1-013329a77547"}
 {"propertySlug":"page-property","path":"temper/player/character/temper-mine/properties/items.page-property-entry.ts","id":"01a05fcd-f550-7cd2-9e3a-e8c18d91b7a8"}

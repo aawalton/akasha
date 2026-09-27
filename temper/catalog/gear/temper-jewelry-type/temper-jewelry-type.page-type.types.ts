@@ -1,3 +1,4 @@
+import type { EquipType } from "akasha/temper/catalog/companion/thing/properties/equip-type.number-property.types.ts"
 import type { ValidSlots } from "akasha/temper/catalog/gear/thing/properties/valid-slots.one-of-property.types.ts"
 import type { TemperGearThing } from "akasha/temper/catalog/gear/thing/temper-gear-thing.page-type.types.ts"
 import type { Key } from "akasha/temper/thing/properties/key.text-property.types.ts"
@@ -5,4 +6,5 @@ import type { Key } from "akasha/temper/thing/properties/key.text-property.types
 export type TemperJewelryType = TemperGearThing & {
   key: Key
   validSlots: ValidSlots
+  equipType: EquipType
 }
