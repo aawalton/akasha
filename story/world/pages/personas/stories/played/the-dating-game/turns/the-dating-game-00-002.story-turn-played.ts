@@ -7,7 +7,7 @@ export const theDatingGame00002 = {
   partOfCollections: ["story-played/the-dating-game"],
   position: 2,
   unit: "unit/words",
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/writer",
   action:
     "I eat a quiet breakfast, looking out over the valley, then get dressed in my favorite comfortable clothing: black shorts over black compression tights, light blue dusty Ecco slip-ons, and a loose grey athletic shirt, then go out my door, and start hiking up to Rock Canyon",
   beats: [
@@ -37,4 +37,5 @@ export const theDatingGame00002 = {
     "place/the-dating-game-rock-canyon",
     "lore/the-dating-game-boulder-woman",
   ],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
