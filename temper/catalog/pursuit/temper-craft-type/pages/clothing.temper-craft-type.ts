@@ -6,4 +6,6 @@ export const clothing = {
   slug: "clothing",
   title: "Clothing",
   esoCraftTypeId: 2,
+  key: "clothier",
+  displayOrder: 2,
 } as const satisfies TemperCraftType

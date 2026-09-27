@@ -52,6 +52,7 @@
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/line/temper-skill-line.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/catalog/skill/slot/temper-skill-slot.page-type.types.ts","typed":true,"deferred":false}
@@ -130,6 +131,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","id":"01a05fd1-d442-7175-b5e4-f7ef9e21a36c"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts","id":"01a05fd1-d442-7b45-8a20-d4ff90ea6255"}
+{"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.ts","id":"01a0616b-2cdf-7001-a24c-0dd3c96e1a6e"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts","id":"01a05fca-cb8b-713e-b910-7148de1f3dbd"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line/temper-skill-line.page-type.ts","id":"01a05fca-cb8b-7189-8133-38b9f311342c"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/slot/temper-skill-slot.page-type.ts","id":"01a05fca-cb8b-79ed-ae49-1fdf5f38602a"}

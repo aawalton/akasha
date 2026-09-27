@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/pursuit/temper-cadwell-level/temper-cadwell-level.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/pursuit/temper-recipe-list/temper-recipe-list.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/pursuit/temper-research-line/temper-research-line.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"display-order.number-property.types.ts","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.types.ts","typed":true,"deferred":false}
@@ -72,6 +73,7 @@
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts","id":"01a05fd1-d442-7175-b5e4-f7ef9e21a36c"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-achievement-category/temper-achievement-category.page-type.ts","id":"01a06168-7245-7000-bc3b-b40339a88d31"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-cadwell-level/temper-cadwell-level.page-type.ts","id":"01a0616b-2cde-7001-a076-c5cb204d81f9"}
+{"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.ts","id":"01a0616b-2cdf-7001-a24c-0dd3c96e1a6e"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-recipe-list/temper-recipe-list.page-type.ts","id":"01a0626e-c112-7de5-8901-fc3087a26629"}
 {"propertySlug":"page-property","path":"temper/catalog/pursuit/temper-research-line/temper-research-line.page-type.ts","id":"01a0616b-2cdf-7005-a903-e1d072da4881"}
 {"propertySlug":"page-property","path":"temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts","id":"01a05fca-cb8b-713e-b910-7148de1f3dbd"}

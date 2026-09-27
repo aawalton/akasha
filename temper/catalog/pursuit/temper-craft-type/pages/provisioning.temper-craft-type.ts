@@ -1,11 +1,11 @@
 import type { TemperCraftType } from "akasha/temper/catalog/pursuit/temper-craft-type/temper-craft-type.page-type.types.ts"
 
-export const blacksmithing = {
-  id: "01a0616b-2cdf-7006-beaf-bbc543414e00",
+export const provisioning = {
+  id: "01a0e24e-6718-765d-afa2-4e92200b8351",
   type: "page-type/temper-craft-type",
-  slug: "blacksmithing",
-  title: "Blacksmithing",
-  esoCraftTypeId: 1,
-  key: "blacksmithing",
-  displayOrder: 1,
+  slug: "provisioning",
+  title: "Provisioning",
+  esoCraftTypeId: 5,
+  key: "provisioning",
+  displayOrder: 5,
 } as const satisfies TemperCraftType

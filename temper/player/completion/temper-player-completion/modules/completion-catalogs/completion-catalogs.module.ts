@@ -33,5 +33,9 @@ export const completionCatalogs = {
       decisionKind: "decision-kind/departure",
       statement: "A page a catalog row names is read back as a bare name.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The craft types held are those some research line hangs beneath.",
+    },
   ],
 } as const satisfies Module

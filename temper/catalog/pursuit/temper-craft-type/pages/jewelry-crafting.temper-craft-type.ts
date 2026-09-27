@@ -6,4 +6,6 @@ export const jewelryCrafting = {
   slug: "jewelry-crafting",
   title: "Jewelry Crafting",
   esoCraftTypeId: 7,
+  key: "jewelrycrafting",
+  displayOrder: 7,
 } as const satisfies TemperCraftType

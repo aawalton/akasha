@@ -6,4 +6,6 @@ export const woodworking = {
   slug: "woodworking",
   title: "Woodworking",
   esoCraftTypeId: 6,
+  key: "woodworking",
+  displayOrder: 6,
 } as const satisfies TemperCraftType

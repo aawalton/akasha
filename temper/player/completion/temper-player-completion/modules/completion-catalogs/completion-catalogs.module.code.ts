@@ -99,6 +99,15 @@ export async function completionCatalogsFrom(rowsOf: CatalogRows): Promise<Compl
     rowsOf("temper-tribute-patron"),
     rowsOf("temper-world-zone"),
   ])
+  const researchLines = slim(research, ["slug", "title", "displayOrder", "parent"], "traits", [
+    "traitIndex",
+    "traitName",
+  ]) as readonly TraitResearchCatalogLine[]
+  const researched = new Set(researchLines.map((line) => line.parent))
+  const crafts = slim(craft, ["slug", "title", "esoCraftTypeId"], null, [])
+  const craftTypes = (crafts as readonly TraitResearchCatalogCraftType[]).filter((one) =>
+    researched.has(one.slug)
+  )
   return {
     achievementCategories: slim(
       achievement,
@@ -124,12 +133,7 @@ export async function completionCatalogsFrom(rowsOf: CatalogRows): Promise<Compl
       "collectibles",
       ["esoCollectibleId", "collectibleName"]
     ) as readonly CollectibleCatalogCategory[],
-    craftTypes: slim(
-      craft,
-      ["slug", "title", "esoCraftTypeId"],
-      null,
-      []
-    ) as readonly TraitResearchCatalogCraftType[],
+    craftTypes,
     poiZones: slim(worldZone, ["title", "esoZoneId"], "pois", [
       "poiType",
       "poiTypeLabel",
@@ -140,10 +144,7 @@ export async function completionCatalogsFrom(rowsOf: CatalogRows): Promise<Compl
       "esoQuestId",
       "questName",
     ]) as readonly QuestCatalogZone[],
-    researchLines: slim(research, ["slug", "title", "displayOrder", "parent"], "traits", [
-      "traitIndex",
-      "traitName",
-    ]) as readonly TraitResearchCatalogLine[],
+    researchLines,
     setCategories: slim(
       setCategory,
       ["key", "activity", "esoCategoryNames", "nestedEsoCategoryNames"],
