@@ -10,7 +10,7 @@ export const otherwhere00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "“Okay, is this “minutes matter” urgency or can it wait a few hours if needed and is there a book on bookworms I could read to prepare? I’d like to know what I’m getting into here. Are they dangerous like this?”",
   beats: [
@@ -41,5 +41,5 @@ export const otherwhere00010 = {
     '"At the dark back of the hall, the chewing goes on." - Leave It Open',
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
