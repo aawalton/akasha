@@ -10,4 +10,5 @@ export const fine = {
   available: true,
   hashPlace: 2,
   esoDisplayQuality: 2,
+  gameName: "Fine",
 } as const satisfies TemperQuality

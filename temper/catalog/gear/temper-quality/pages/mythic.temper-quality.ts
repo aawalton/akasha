@@ -10,4 +10,5 @@ export const mythic = {
   available: false,
   hashPlace: 6,
   esoDisplayQuality: 6,
+  gameName: "Mythic",
 } as const satisfies TemperQuality

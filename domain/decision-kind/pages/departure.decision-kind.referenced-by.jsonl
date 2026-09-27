@@ -5056,6 +5056,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-potion/temper-potion.page-type.ts","id":"01a0e0a0-9199-7c1b-8a58-f31fdaa90b21"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-quality/modules/quality-ids-keeping/quality-ids-keeping.change-generator.ts","id":"01a0e0a8-7160-766c-96b0-5e5e75e3adf9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-quality/modules/quality-ids/quality-ids.data-table.ts","id":"01a0e0a8-7160-7325-a884-02309bdc787e"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-quality/properties/game-name.text-property.ts","id":"01a0e10f-604e-7bfd-9d06-e043676e7fa7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-quality/temper-quality.page-type.ts","id":"01a05fd1-d43f-7460-806b-41a2697dcbed"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-reagent/properties/alchemy-effects.multi-relation-property.ts","id":"01a05fd1-d435-7be6-b06d-cee7752f59c6"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/modules/set-capture-reading/set-capture-reading.module.ts","id":"01a0d8c5-6849-7240-a278-39392a74c2a7"}

@@ -10,4 +10,5 @@ export const noQuality = {
   available: true,
   hashPlace: 0,
   esoDisplayQuality: 0,
+  gameName: "Trash",
 } as const satisfies TemperQuality

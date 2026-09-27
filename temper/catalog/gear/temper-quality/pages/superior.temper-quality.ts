@@ -10,4 +10,5 @@ export const superior = {
   available: true,
   hashPlace: 3,
   esoDisplayQuality: 3,
+  gameName: "Superior",
 } as const satisfies TemperQuality

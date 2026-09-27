@@ -10,4 +10,5 @@ export const normal = {
   available: true,
   hashPlace: 1,
   esoDisplayQuality: 1,
+  gameName: "Normal",
 } as const satisfies TemperQuality

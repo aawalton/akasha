@@ -10,4 +10,5 @@ export const epic = {
   available: true,
   hashPlace: 4,
   esoDisplayQuality: 4,
+  gameName: "Epic",
 } as const satisfies TemperQuality

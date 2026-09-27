@@ -10,6 +10,7 @@ export const temperQuality = {
     "change-generator/quality-ids-keeping",
     "data-table/quality-ids",
     "number-property/eso-display-quality",
+    "text-property/game-name",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
@@ -17,6 +18,7 @@ export const temperQuality = {
     { pageProperty: "boolean-property/available", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/eso-display-quality", required: true, many: false },
+    { pageProperty: "text-property/game-name", required: false, many: false },
   ],
   decisions: [
     {
