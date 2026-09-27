@@ -10,7 +10,7 @@ export const otherwhere00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: '"Uh...what packet? I was sitting in my house and then I was here..."',
   beats: [
     'She says, "Uh... what packet? I was sitting in my house and then I was here..."',
@@ -25,5 +25,5 @@ export const otherwhere00006 = {
     '"And you know nothing. Not one thing." He shuts his eyes, and the runes on him slow.',
   ],
   lore: ["lore/otherwhere-alan"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
