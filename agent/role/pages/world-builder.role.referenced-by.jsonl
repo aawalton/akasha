@@ -2,5 +2,6 @@
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-builder.role.ts","path":"story/world/stories/played/turns/modules/turn-seats/turn-seats.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/role/role.page-type.ts","id":"01a053b2-2c20-7e34-9306-65f44016381a"}
+{"propertySlug":"role","path":"agent/seat/pages/aria-world-builder-dragons-and-dungeons/aria-world-builder-dragons-and-dungeons.seat.ts","id":"01a0e3a2-a631-7000-916a-e70d768a21d7"}
 {"propertySlug":"role","path":"agent/seat/pages/iris-world-builder-otherwhere/iris-world-builder-otherwhere.seat.ts","id":"01a0e357-a6fd-7000-a987-d0c2196ab01d"}
 {"propertySlug":"role","path":"agent/seat/pages/mari-world-builder-the-dating-game/mari-world-builder-the-dating-game.seat.ts","id":"01a0e051-cb8e-7000-9665-e78ce90c8b77"}
