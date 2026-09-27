@@ -10,7 +10,18 @@ import {
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import type { MinedItemSearchResult } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { ItemRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryItemRulesPanelAddItemRule } from "akasha/temper/web/phrase/pages/inventory-item-rules-panel-add-item-rule.temper-web-phrase.ts"
+import { inventoryItemRulesPanelEmptyDescription } from "akasha/temper/web/phrase/pages/inventory-item-rules-panel-empty-description.temper-web-phrase.ts"
+import { inventoryItemRulesPanelEmptyTitle } from "akasha/temper/web/phrase/pages/inventory-item-rules-panel-empty-title.temper-web-phrase.ts"
+import { inventoryItemRulesPanelNoMatchDescription } from "akasha/temper/web/phrase/pages/inventory-item-rules-panel-no-match-description.temper-web-phrase.ts"
+import { inventoryItemRulesPanelNoMatchTitle } from "akasha/temper/web/phrase/pages/inventory-item-rules-panel-no-match-title.temper-web-phrase.ts"
+import { inventoryItemRulesPanelResetAll } from "akasha/temper/web/phrase/pages/inventory-item-rules-panel-reset-all.temper-web-phrase.ts"
+import { inventoryItemRulesPanelResetKeepsLocked } from "akasha/temper/web/phrase/pages/inventory-item-rules-panel-reset-keeps-locked.temper-web-phrase.ts"
+import { inventoryItemRulesPanelResetTitle } from "akasha/temper/web/phrase/pages/inventory-item-rules-panel-reset-title.temper-web-phrase.ts"
+import { inventoryItemRulesPanelTitle } from "akasha/temper/web/phrase/pages/inventory-item-rules-panel-title.temper-web-phrase.ts"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
@@ -20,7 +31,12 @@ import type { InventoryRulesHandlers } from "akasha/temper/web/player-inventory-
 import { ItemRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/item-rule-card/item-rule-card.module.code.tsx"
 import { ItemSearchDialog } from "akasha/temper/web/player-inventory-management-ui/modules/item-search-dialog/item-search-dialog.module.code.tsx"
 import { RuleBulkActionBadge } from "akasha/temper/web/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
+import { ruleActive } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-active.temper-rule-card-phrase.ts"
+import { ruleInactive } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-inactive.temper-rule-card-phrase.ts"
+import { ruleLocked } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-locked.temper-rule-card-phrase.ts"
+import { ruleUnlocked } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-unlocked.temper-rule-card-phrase.ts"
 import { Plus } from "lucide-react"
 import { useState } from "react"
 
@@ -73,6 +89,8 @@ export function ItemRulesPanel({
     handleBulkForceSetItemInactive,
   } = handlers
 
+  const phrase = usePhrase()
+  const statuses = useRuleCardPhrases()
   const [searchOpen, setSearchOpen] = useState(false)
   const itemRuleCount = itemRules.length
 
@@ -85,12 +103,12 @@ export function ItemRulesPanel({
       collapsible
       forceMount
       id="item-rules"
-      title="Item Rules"
+      title={phrase(inventoryItemRulesPanelTitle.slug)}
       headerSubtitle={
         <CardTitleBadges className="w-full">
           {activeItemRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Active"
+              label={titleIn(statuses, ruleActive.key)}
               count={activeItemRuleIds.length}
               variant="accent"
               ruleDescriptions={activeDescriptions}
@@ -103,7 +121,7 @@ export function ItemRulesPanel({
           )}
           {inactiveItemRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Inactive"
+              label={titleIn(statuses, ruleInactive.key)}
               count={inactiveItemRuleIds.length}
               variant="elevation-muted"
               ruleDescriptions={inactiveDescriptions}
@@ -116,7 +134,7 @@ export function ItemRulesPanel({
           )}
           {lockedItemRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Locked"
+              label={titleIn(statuses, ruleLocked.key)}
               count={lockedItemRuleIds.length}
               variant="elevation-muted"
               onShow={() => onRuleLockChange(["locked"])}
@@ -127,7 +145,7 @@ export function ItemRulesPanel({
           )}
           {unlockedItemRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Unlocked"
+              label={titleIn(statuses, ruleUnlocked.key)}
               count={unlockedItemRuleIds.length}
               variant="elevation-muted"
               ruleDescriptions={unlockedDescriptions}
@@ -141,12 +159,12 @@ export function ItemRulesPanel({
           {itemRuleCount > 0 && (
             <div className="ml-auto shrink-0">
               <ResetBadge
-                title="Reset Item Rules?"
-                description={
+                title={phrase(inventoryItemRulesPanelResetTitle.slug)}
+                description={phrase(
                   itemRules.some((r) => r.locked)
-                    ? "This will remove all unlocked item-specific overrides. Locked rules will be preserved."
-                    : "This will remove all item-specific overrides. This action cannot be undone."
-                }
+                    ? inventoryItemRulesPanelResetKeepsLocked.slug
+                    : inventoryItemRulesPanelResetAll.slug
+                )}
                 onReset={handleResetItemRules}
               />
             </div>
@@ -158,19 +176,19 @@ export function ItemRulesPanel({
         open={searchOpen}
         onOpenChange={setSearchOpen}
         onSelect={handleItemSelect}
-        title="Add Item Rule"
+        title={phrase(inventoryItemRulesPanelAddItemRule.slug)}
       />
       {itemRuleCount === 0 ? (
         <Empty>
           <EmptyHeader>
-            <EmptyTitle>No item rules yet</EmptyTitle>
+            <EmptyTitle>{phrase(inventoryItemRulesPanelEmptyTitle.slug)}</EmptyTitle>
             <EmptyDescription>
-              Item rules target specific items by ESO item ID, overriding category rules.
+              {phrase(inventoryItemRulesPanelEmptyDescription.slug)}
             </EmptyDescription>
           </EmptyHeader>
           <Button variant="secondary" size="sm" onClick={() => setSearchOpen(true)}>
             <Plus className="size-3.5" />
-            Add Item Rule
+            {phrase(inventoryItemRulesPanelAddItemRule.slug)}
           </Button>
         </Empty>
       ) : (
@@ -178,8 +196,10 @@ export function ItemRulesPanel({
           {filteredItemRules.length === 0 && (
             <Empty>
               <EmptyHeader>
-                <EmptyTitle>No matching rules</EmptyTitle>
-                <EmptyDescription>No item rules match the current filter.</EmptyDescription>
+                <EmptyTitle>{phrase(inventoryItemRulesPanelNoMatchTitle.slug)}</EmptyTitle>
+                <EmptyDescription>
+                  {phrase(inventoryItemRulesPanelNoMatchDescription.slug)}
+                </EmptyDescription>
               </EmptyHeader>
             </Empty>
           )}
@@ -204,7 +224,7 @@ export function ItemRulesPanel({
             onClick={() => setSearchOpen(true)}
           >
             <Plus className="size-3.5" />
-            Add Item Rule
+            {phrase(inventoryItemRulesPanelAddItemRule.slug)}
           </button>
         </div>
       )}

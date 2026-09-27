@@ -6,4 +6,11 @@ export const inventoryItemRulesPanel = {
   slug: "inventory-item-rules-panel",
   definition: "the panel where a reader keeps the item rules",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The panel's wording is web phrase pages, and its rule status labels are rule card phrases.",
+    },
+  ],
 } as const satisfies Module
