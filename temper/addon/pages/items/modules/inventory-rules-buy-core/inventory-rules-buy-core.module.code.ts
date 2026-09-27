@@ -25,6 +25,17 @@ export function bestOffer(
   return best
 }
 
+export function offersWithin(
+  offers: readonly StoreOffer[],
+  maxPrice: number | undefined
+): StoreOffer[] {
+  const kept: StoreOffer[] = []
+  for (const offer of offers) {
+    if (maxPrice === undefined || offer.price <= maxPrice) kept.push(offer)
+  }
+  return kept
+}
+
 export function itemTypesOf(offers: readonly StoreOffer[]): number[] {
   const types: number[] = []
   for (const offer of offers) {

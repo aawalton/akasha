@@ -3,6 +3,7 @@ import {
   bestOffer,
   computeBuyQuantity,
   itemTypesOf,
+  offersWithin,
   type StoreOffer,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-buy-core/inventory-rules-buy-core.module.code.ts"
 
@@ -30,6 +31,13 @@ test("with no item ids, the entry the store lists first wins", () => {
 
 test("no entry taken is no offer", () => {
   expect(bestOffer([], [ELIXIR])).toBe(undefined)
+})
+
+test("an entry priced above the rule's max price is no offer, and no max price keeps every entry", () => {
+  const cheap = { ...offer(1, NORMAL), price: 40 }
+  const dear = { ...offer(2, POTENT), price: 41 }
+  expect(offersWithin([cheap, dear], 40)).toEqual([cheap])
+  expect(offersWithin([cheap, dear], undefined)).toEqual([cheap, dear])
 })
 
 test("the item types offered are named once each", () => {

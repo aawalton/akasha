@@ -22,6 +22,10 @@ export const inventoryRulesDispatchBuy = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A rule stating a max price buys no entry the store asks more for.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Every buy at one store is confirmed and reported together.",
     },
     {

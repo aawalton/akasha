@@ -10,6 +10,7 @@ import {
   bestOffer,
   computeBuyQuantity,
   itemTypesOf,
+  offersWithin,
   type StoreOffer,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-buy-core/inventory-rules-buy-core.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
@@ -83,8 +84,7 @@ function shortfallBuyFor(
 ): BuyTarget | undefined {
   const takes = takerFor(rule, undefined, ctx)
   const taken = offers.filter((one) => takes(one.link, false))
-  const offer = bestOffer(taken, rule.itemIds)
-  if (offer === undefined) return undefined
+  if (taken.length === 0) return undefined
   const name = `rule ${rule.id ?? rule.categoryId}`
   const target = ruleStockTarget(rule)
   if (target === undefined) {
@@ -94,6 +94,13 @@ function shortfallBuyFor(
   const held = countHeld(itemTypesOf(taken), takes, currentCharId)
   const shortfall = computeBuyShortfall(target, held)
   if (shortfall <= 0) return undefined
+  const offer = bestOffer(offersWithin(taken, rule.buyMaxPrice), rule.itemIds)
+  if (offer === undefined) {
+    say(
+      `${name}: bought nothing toward ${target}, with ${held} held, since the store asks more than ${rule.buyMaxPrice}g each`
+    )
+    return undefined
+  }
   const quantity = computeBuyQuantity(shortfall, offer.maxBuyable, money, offer.price)
   if (quantity <= 0) {
     say(

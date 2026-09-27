@@ -22,6 +22,10 @@ export const inventoryRulesBuyCore = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An entry priced above the rule's max price for one is no offer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "What is bought never passes the shortfall, the store's limit or the gold carried.",
     },
