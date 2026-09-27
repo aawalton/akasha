@@ -32,4 +32,5 @@ export const otherwhere00032 = {
   issues: ["\"I just can't carry salt\" - Links's solid purple hand carried the broom in turn 9"],
   lore: ["lore/otherwhere-universe", "place/otherwhere-hall-back", "place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
