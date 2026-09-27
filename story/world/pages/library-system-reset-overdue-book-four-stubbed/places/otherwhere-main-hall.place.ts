@@ -121,11 +121,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "A bookworm's lunge stops at a salt line, but its head can stretch about a foot over it to bite.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Sweeping a salt ring along opens brief gaps in its edge with each push of the broom.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
@@ -309,6 +309,22 @@ export const otherwhereMainHall = {
     },
     {
       fact: "As the first bookworm dried still, the hall's gold light brightened a shade.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala swept a doubly thick salt ring about three feet across round herself beside the salt box.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "After Nala's salt ring, a little under half the salt box is left.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The broom's bristles are worn short and splayed, and skip over salt as much as push it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
