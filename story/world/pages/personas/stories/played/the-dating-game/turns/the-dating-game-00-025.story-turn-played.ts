@@ -28,5 +28,5 @@ export const theDatingGame00025 = {
   ],
   issues: ['"and the move leaves room on the step beside her" - No Prompt'],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
