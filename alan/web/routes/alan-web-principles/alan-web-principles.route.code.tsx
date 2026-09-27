@@ -39,6 +39,7 @@ export function meta({ data }: { data: PrinciplesLoaderData | undefined }) {
 export default function PrinciplesRoute({ loaderData }: { loaderData: PrinciplesLoaderData }) {
   useLoaderFollowing(READ)
   const { document } = loaderData
+  const heading = document.lead ?? document.title
   return (
     <PageLayout>
       <PageLayout.Header>
@@ -48,13 +49,13 @@ export default function PrinciplesRoute({ loaderData }: { loaderData: Principles
       <Tabs defaultValue="all">
         <PageLayout.Tabs>
           <TabsList>
-            <PageTabsTrigger value="all" icon={<List />} label="All Principles" />
+            <PageTabsTrigger value="all" icon={<List />} label={heading} />
           </TabsList>
         </PageLayout.Tabs>
 
         <PageLayout.Content>
           <TabsContent value="all">
-            <PageTabHeader title="All Principles" />
+            <PageTabHeader title={heading} />
             <ResponsiveColumns>
               {document.sections.map((section) => (
                 <PanelCard key={section.anchor} id={section.anchor} title={section.title}>
