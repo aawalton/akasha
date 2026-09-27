@@ -10,8 +10,8 @@ import {
 import { classes } from "akasha/temper/modules/character-class/character-class.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
+  characterRoles,
   type RoleId,
-  characterRoles as roles,
 } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
 import type { TabValue } from "akasha/temper/web/modules/build-page-tab/build-page-tab.module.code.ts"
 import type { ReactNode } from "react"
@@ -34,10 +34,9 @@ export const TAB_LABELS: Record<TabValue, string> = {
   leaderboard: "Rank",
 }
 
-export const ROLE_ITEMS: BadgeToggleGroupItem[] = roles.ids.map((id) => ({
-  value: id,
-  label: roles.data[id].name,
-}))
+export function roleItems(): BadgeToggleGroupItem[] {
+  return characterRoles().list.map((role) => ({ value: role.id, label: role.name }))
+}
 
 export const CLASS_ITEMS: BadgeToggleGroupItem[] = classes.ids.map((id) => ({
   value: id,
@@ -57,7 +56,11 @@ export function isValidSortField(value: unknown): value is SortField {
 }
 
 export function isValidRole(value: unknown): value is RoleId {
-  return typeof value === "string" && value in roles.data
+  return typeof value === "string" && characterRoles().has(value)
+}
+
+export function roleFilterOf(value: string): RoleId {
+  return isValidRole(value) ? value : "no-role"
 }
 
 export function isValidClass(value: unknown): value is ClassId {

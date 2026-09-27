@@ -29,7 +29,11 @@ export const useCharacters = {
     },
     {
       decisionKind: "decision-kind/absence",
-      statement: "A role the character sources do not name is dropped from base roles.",
+      statement: "A role no held role page names is dropped from base roles.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every role is kept while no role pages are held.",
     },
     {
       decisionKind: "decision-kind/departure",

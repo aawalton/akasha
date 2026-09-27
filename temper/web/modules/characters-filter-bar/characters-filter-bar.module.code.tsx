@@ -17,7 +17,7 @@ import {
   type CharactersFilterPopoverProps,
   CLASS_ITEMS,
   isCharactersFilterId,
-  ROLE_ITEMS,
+  roleItems,
   SORT_OPTIONS,
   type SortField,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
@@ -40,7 +40,7 @@ const CHARACTERS_FILTERS: CharactersFilterDef[] = [
       }
       return (
         <BadgeToggleGroup
-          items={ROLE_ITEMS}
+          items={roleItems()}
           value={selectedRole != null ? [{ value: selectedRole, label: "" }] : []}
           onSelect={handleSelect}
           unselectedVariant="elevation-muted"

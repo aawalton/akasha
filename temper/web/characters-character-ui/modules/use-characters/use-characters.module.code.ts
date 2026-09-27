@@ -27,8 +27,8 @@ import type { SettableBuildVisibility } from "akasha/temper/player/character/bui
 import { createNewCharacter } from "akasha/temper/player/character/build/modules/build-factory/build-factory.module.code.ts"
 import { buildId as toBuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import {
+  heldCharacterRoles,
   type RoleId,
-  characterRoles as roles,
 } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
 import {
   type CharacterBuildMetadata,
@@ -50,9 +50,11 @@ const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 type CharacterBuildRow = BuildRow<CharacterBuildMetadata>
 
 function buildMetadataOf(row: Record<string, unknown>): CharacterBuildMetadata {
-  const validRoleIds = new Set<string>(roles.ids)
+  const roles = heldCharacterRoles()
   const validatedRoles = Array.isArray(row.roles)
-    ? row.roles.filter((r): r is RoleId => typeof r === "string" && validRoleIds.has(r))
+    ? row.roles.filter(
+        (r): r is RoleId => typeof r === "string" && (roles === null || roles.has(r))
+      )
     : undefined
   return {
     name: parseString(row.title),

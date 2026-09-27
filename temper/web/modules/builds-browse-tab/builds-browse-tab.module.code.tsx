@@ -22,7 +22,7 @@ import {
   type FilterValues,
   getClassName,
   getRaceName,
-  isValidRole,
+  roleFilterOf,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { NewCharacterPanelCard } from "akasha/temper/web/modules/new-character-panel-card/new-character-panel-card.module.code.tsx"
@@ -72,7 +72,7 @@ export function useFilteredBuilds({
           return false
         }
 
-        if (isValidRole(dRole) && !buildData.character?.roles?.includes(dRole)) {
+        if (dRole != null && !buildData.character?.roles?.includes(roleFilterOf(dRole))) {
           return false
         }
 

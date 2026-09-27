@@ -6,6 +6,7 @@ import {
   buffsAndDebuffsOf,
   holdBuffsAndDebuffs,
 } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import { temperCharacterRole } from "akasha/temper/player/character/role/temper-character-role.page-type.ts"
 import {
   alliancesOf,
   holdAlliances,
@@ -14,6 +15,10 @@ import {
   attributesOf,
   holdAttributes,
 } from "akasha/temper/player/character/source/modules/attributes-source/attributes-source.module.code.ts"
+import {
+  holdRoles,
+  rolesOf,
+} from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
 import {
   cursesOf,
   holdCurses,
@@ -87,6 +92,7 @@ export const CHARACTER_SOURCE_READS: readonly Read[] = [
   [temperVampireStage.slug, VAMPIRE_STAGE_FIELDS],
   [temperAttribute.slug, ["slug", "title", "metric", "value"]],
   [temperFoodOrDrink.slug, FOOD_OR_DRINK_FIELDS],
+  [temperCharacterRole.slug, ["slug", "title", "displayOrder"]],
   ...BUFF_OR_DEBUFF_READS,
 ]
 
@@ -98,5 +104,6 @@ export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<
   holdVampireStages(vampireStagesOf(rowsOf(temperVampireStage.slug)))
   holdAttributes(attributesOf(rowsOf(temperAttribute.slug)))
   holdFoodOrDrink(foodOrDrinkOf(rowsOf(temperFoodOrDrink.slug)))
+  holdRoles(rolesOf(rowsOf(temperCharacterRole.slug)))
   holdBuffsAndDebuffs(buffsAndDebuffsOf(rowsOf))
 }

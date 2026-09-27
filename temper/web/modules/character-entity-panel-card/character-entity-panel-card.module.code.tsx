@@ -18,8 +18,8 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import {
+  characterRoles,
   type RoleId,
-  characterRoles as roles,
 } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
 
 interface CharacterPlanBuild {
@@ -39,13 +39,15 @@ export interface CharacterPlanEntity {
   updatedAt: number
 }
 
-const TARGET_ROLE_ITEMS: BadgeToggleGroupItem[] = roles.list
-  .filter((role) => role.id !== "no-role")
-  .map((role) => ({
-    value: role.id,
-    label: role.name,
-  }))
-  .sort((a, b) => a.label.localeCompare(b.label))
+function targetRoleItems(): BadgeToggleGroupItem[] {
+  return characterRoles()
+    .list.filter((role) => role.id !== "no-role")
+    .map((role) => ({
+      value: role.id,
+      label: role.name,
+    }))
+    .sort((a, b) => a.label.localeCompare(b.label))
+}
 
 function BuildRow({
   build,
@@ -117,6 +119,7 @@ export function CharacterEntityPanelCard({
   const raceName = raceId != null && raceId !== "no-race" ? getRaceName(raceId) : null
 
   const entityRoles = entity.entityRoles
+  const roles = characterRoles()
 
   const selectedItems = entityRoles
     .filter((id) => id !== "no-role" && roles.has(id))
@@ -159,7 +162,7 @@ export function CharacterEntityPanelCard({
             )}
             {onUpdateEntityRoles != null && (
               <BadgeToggleGroup
-                items={TARGET_ROLE_ITEMS}
+                items={targetRoleItems()}
                 value={selectedItems}
                 onSelect={handleEntityRolesSelect}
                 unselectedVariant="elevation-muted"

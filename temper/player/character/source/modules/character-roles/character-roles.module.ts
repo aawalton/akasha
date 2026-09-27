@@ -9,7 +9,12 @@ export const characterRoles = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the character pages rather than by hand.",
+      statement:
+        "The roles are read from the character role pages and held with the skill catalogue.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A role's place among the roles is its page's display order.",
     },
   ],
 } as const satisfies Module

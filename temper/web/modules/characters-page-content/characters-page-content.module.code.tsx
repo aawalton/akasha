@@ -25,7 +25,6 @@ import { CharactersDataContent } from "akasha/temper/web/modules/characters-data
 import {
   type FilterValues,
   isValidClass,
-  isValidRole,
   isValidSortField,
   type SortField,
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
@@ -78,7 +77,7 @@ export function CharactersPageContent({
         urlParam: "role",
         defaultValue: null,
         initial: initialRole,
-        validate: (raw) => (isValidRole(raw) ? raw : undefined),
+        validate: (raw) => (typeof raw === "string" ? raw : undefined),
       },
       class: {
         urlParam: "class",

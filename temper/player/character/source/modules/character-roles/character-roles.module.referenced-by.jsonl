@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/player/character/build/build-codec/modules/build-codec-v52/build-codec-v52.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/player/character/build/modules/build-types/build-types.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/player/character/source/modules/character-source-reading/character-source-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/web/modules/build-metadata/build-metadata.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-roles.module.code.ts","path":"temper/web/modules/builds-browse-tab/builds-browse-tab.module.code.tsx","typed":false,"deferred":false}

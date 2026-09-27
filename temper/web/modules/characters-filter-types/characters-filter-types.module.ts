@@ -6,4 +6,10 @@ export const charactersFilterTypes = {
   slug: "characters-filter-types",
   definition: "the types writing a characters filter",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A role no role page names is read as no role, and the list filters on it.",
+    },
+  ],
 } as const satisfies Module
