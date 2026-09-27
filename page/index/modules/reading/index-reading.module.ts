@@ -35,6 +35,15 @@ export const indexReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "The pages of one page type carrying one slug are that slug's file in each folder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The values of the pages at the paths named are answered once each, by path.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Those folders are answered to a caller wanting to watch where a type is filed.",
     },
     {

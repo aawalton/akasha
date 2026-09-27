@@ -141,6 +141,19 @@ export function listedAt(
   return listedNamed(given, PAGE_TYPE, pageTypeSlug, SLUG, slug)
 }
 
+export function listedAnywhere(
+  given: string | Reading,
+  pageTypeSlug: string,
+  slug: string
+): readonly Listed[] {
+  const reading = readingIn(given)
+  const found: Listed[] = []
+  for (const at of slugFolders(reading, pageTypeSlug)) {
+    found.push(...listedIn(reading, join(at, `${slug}${ENDING}`)))
+  }
+  return found
+}
+
 export function listedWithin(
   given: string | Reading,
   pageTypeSlug: string,
@@ -264,6 +277,16 @@ const bodied = heldEach((reading: Reading, path: string): Value | null => {
 
 export function valueByPath(given: string | Reading, path: string): Value | null {
   return bodied(given, path)
+}
+
+export function valuesAt(given: string | Reading, paths: readonly string[]): readonly Valued[] {
+  const reading = readingIn(given)
+  const found: Valued[] = []
+  for (const path of [...new Set(paths)].sort()) {
+    const value = valueByPath(reading, path)
+    if (value !== null) found.push({ path, value })
+  }
+  return found
 }
 
 export function valuedAt(given: string | Reading, pageTypeSlug: string, slug: string): Valued {

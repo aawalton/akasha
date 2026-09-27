@@ -42,6 +42,10 @@ export const pageAsking = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Only the pages `page-picking` names for a question's `where` are read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page type nothing extends that no page is filed under is answered empty.",
     },
     {

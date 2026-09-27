@@ -16,6 +16,7 @@ import {
   readingIn,
   type Valued,
   valueByPath,
+  valuesAt,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
@@ -82,6 +83,8 @@ export type Reads = ReadonlyMap<string, Read>
 const placedAt = new WeakMap<Computed, string>()
 
 export type Testing = (value: Value) => boolean
+
+export type Picking = (kind: string) => readonly string[] | null
 
 export type Named = Map<string, ReadonlyMap<string, Value>>
 
@@ -412,14 +415,16 @@ export function gatheredFor(
   files: readonly string[] = [],
   reading: Reading = readingIn(root),
   entries: ReadonlySet<string> | null = null,
-  tests: ReadonlyMap<string, Testing> | null = null
+  tests: ReadonlyMap<string, Testing> | null = null,
+  picking: Picking | null = null
 ): readonly Counting[] {
   const counting: Counting[] = []
   const under = kindsUnder(ENTRY_PROPERTY, reading)
   const entrying: Entrying = (slug) => under.has(slug)
   const sidecars = sidecarsHeld(reading)
   for (const kind of kindsFor(reading, pageTypeSlug)) {
-    const read = valuesOfType(reading, kind)
+    const picked = picking === null ? null : picking(kind)
+    const read = picked === null ? valuesOfType(reading, kind) : valuesAt(reading, picked)
     if (read.length === 0) continue
     const own = kind === pageTypeSlug ? carried : carriedFor(reading, kind)
     const computed = computedFor(root, reading, own)

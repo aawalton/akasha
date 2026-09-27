@@ -120,6 +120,14 @@ export const kindsGathering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A caller naming the paths of a page type reads those pages alone.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller naming no paths for a page type reads every page of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A test the caller hands over narrows the rows before a page's files beside open.",
     },
     {

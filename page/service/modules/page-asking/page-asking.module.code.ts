@@ -23,6 +23,7 @@ import {
   type Reads,
   type Testing,
 } from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
+import { pickingFor } from "akasha/page/service/modules/page-picking/page-picking.module.code.ts"
 import type {
   Faulted,
   Refusal,
@@ -301,7 +302,8 @@ export function asking(
       query.files ?? [],
       reading,
       entriesWanted(query, worked),
-      testsFor(query)
+      testsFor(query),
+      pickingFor(reading, query.where)
     ).map((one) => {
       const row = sluggedIn(one.row)
       const computed = one.computed.every(answered) ? one.computed : one.computed.filter(answered)
