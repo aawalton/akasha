@@ -28,4 +28,5 @@ export const otherwhere00019 = {
   issues: ['"A head stretched over that line could reach them." - Leave It Open'],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
