@@ -281,9 +281,12 @@ export const temperAddonItems = {
         "The rules walk the backpack, the worn items, and the bank's bags at a bank visit.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The rules walk a house chest's bag at a visit to that chest.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement:
-        "The rules walk neither the craft bag, nor house storage, nor the furniture vault, nor a guild bank.",
+      statement: "The rules walk neither the craft bag, nor the furniture vault, nor a guild bank.",
     },
     {
       decisionKind: "decision-kind/departure",
