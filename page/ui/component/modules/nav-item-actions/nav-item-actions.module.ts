@@ -21,5 +21,9 @@ export const navItemActions = {
       statement:
         "Clicking the button opening a nav item's actions does not follow the item's link.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Answering the deletion question reaches nothing the nav item sits in.",
+    },
   ],
 } as const satisfies Module
