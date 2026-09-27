@@ -11,5 +11,9 @@ export const inventoryByLocationTab = {
       decisionKind: "decision-kind/departure",
       statement: "A trait filter is applied again whenever the traits are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The no-match empty state is web phrase pages.",
+    },
   ],
 } as const satisfies Module

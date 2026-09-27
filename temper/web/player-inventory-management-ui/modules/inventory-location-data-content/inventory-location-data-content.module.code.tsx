@@ -17,6 +17,11 @@ import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module
 import { lookupCurrencyConversionRates } from "akasha/temper/economy/trading/pricing/modules/currency-price-lookup/currency-price-lookup.module.code.ts"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryPageContentByLocation } from "akasha/temper/web/phrase/pages/inventory-page-content-by-location.temper-web-phrase.ts"
+import { inventoryTypeDataContentCheckSync } from "akasha/temper/web/phrase/pages/inventory-type-data-content-check-sync.temper-web-phrase.ts"
+import { inventoryTypeDataContentNoData } from "akasha/temper/web/phrase/pages/inventory-type-data-content-no-data.temper-web-phrase.ts"
+import { inventoryTypeDataContentNoDataNote } from "akasha/temper/web/phrase/pages/inventory-type-data-content-no-data-note.temper-web-phrase.ts"
 import {
   useInventory,
   usePriceExtract,
@@ -77,6 +82,7 @@ export function InventoryLocationDataContent({
   onClearFilters,
   deferred,
 }: InventoryLocationDataContentProps) {
+  const phrase = usePhrase()
   const userId = useUserId()
   const { isLoading: playerLoading, profileMetadata } = usePlayer()
   const { inventory: rawInventory, isLoading } = useInventory(userId)
@@ -167,7 +173,7 @@ export function InventoryLocationDataContent({
   if (!inventory) {
     return (
       <div className="flex flex-col gap-6">
-        <PageTabHeader title="By Location" subtitle={pricingHints}>
+        <PageTabHeader title={phrase(inventoryPageContentByLocation.slug)} subtitle={pricingHints}>
           {filterBar}
         </PageTabHeader>
         <Empty>
@@ -175,15 +181,14 @@ export function InventoryLocationDataContent({
             <EmptyMedia variant="icon">
               <Package />
             </EmptyMedia>
-            <EmptyTitle>No inventory data</EmptyTitle>
-            <EmptyDescription>
-              No inventory has reached this page for your account. Inventory comes from the file the
-              TemperItems add-on writes while you play, and the Watcher syncs that file for you.
-            </EmptyDescription>
+            <EmptyTitle>{phrase(inventoryTypeDataContentNoData.slug)}</EmptyTitle>
+            <EmptyDescription>{phrase(inventoryTypeDataContentNoDataNote.slug)}</EmptyDescription>
           </EmptyHeader>
           <EmptyContent>
             <Button asChild variant="accent">
-              <LayoutLink href="/watcher">Check sync status</LayoutLink>
+              <LayoutLink href="/watcher">
+                {phrase(inventoryTypeDataContentCheckSync.slug)}
+              </LayoutLink>
             </Button>
           </EmptyContent>
         </Empty>
@@ -193,7 +198,7 @@ export function InventoryLocationDataContent({
 
   return (
     <div className="flex flex-col gap-6">
-      <PageTabHeader title="By Location" subtitle={pricingHints}>
+      <PageTabHeader title={phrase(inventoryPageContentByLocation.slug)} subtitle={pricingHints}>
         {filterBar}
       </PageTabHeader>
       <InventoryByLocationTab

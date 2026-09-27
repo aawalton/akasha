@@ -29,6 +29,14 @@ import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryPageContentByType } from "akasha/temper/web/phrase/pages/inventory-page-content-by-type.temper-web-phrase.ts"
+import { inventoryTypeDataContentCheckSync } from "akasha/temper/web/phrase/pages/inventory-type-data-content-check-sync.temper-web-phrase.ts"
+import { inventoryTypeDataContentClearFilters } from "akasha/temper/web/phrase/pages/inventory-type-data-content-clear-filters.temper-web-phrase.ts"
+import { inventoryTypeDataContentNoData } from "akasha/temper/web/phrase/pages/inventory-type-data-content-no-data.temper-web-phrase.ts"
+import { inventoryTypeDataContentNoDataNote } from "akasha/temper/web/phrase/pages/inventory-type-data-content-no-data-note.temper-web-phrase.ts"
+import { inventoryTypeDataContentNoMatch } from "akasha/temper/web/phrase/pages/inventory-type-data-content-no-match.temper-web-phrase.ts"
+import { inventoryTypeDataContentNoMatchNote } from "akasha/temper/web/phrase/pages/inventory-type-data-content-no-match-note.temper-web-phrase.ts"
 import {
   useInventory,
   usePriceExtract,
@@ -92,6 +100,7 @@ export function InventoryTypeDataContent({
   onClearFilters,
   deferred,
 }: InventoryTypeDataContentProps) {
+  const phrase = usePhrase()
   const userId = useUserId()
   const { isLoading: playerLoading, profileMetadata } = usePlayer()
   const { inventory: rawInventory, isLoading } = useInventory(userId)
@@ -250,7 +259,7 @@ export function InventoryTypeDataContent({
   if (!typeSummary) {
     return (
       <div className="flex flex-col gap-6">
-        <PageTabHeader title="By Type" subtitle={pricingHints}>
+        <PageTabHeader title={phrase(inventoryPageContentByType.slug)} subtitle={pricingHints}>
           {filterBar}
         </PageTabHeader>
         <Empty>
@@ -258,15 +267,14 @@ export function InventoryTypeDataContent({
             <EmptyMedia variant="icon">
               <Package />
             </EmptyMedia>
-            <EmptyTitle>No inventory data</EmptyTitle>
-            <EmptyDescription>
-              No inventory has reached this page for your account. Inventory comes from the file the
-              TemperItems add-on writes while you play, and the Watcher syncs that file for you.
-            </EmptyDescription>
+            <EmptyTitle>{phrase(inventoryTypeDataContentNoData.slug)}</EmptyTitle>
+            <EmptyDescription>{phrase(inventoryTypeDataContentNoDataNote.slug)}</EmptyDescription>
           </EmptyHeader>
           <EmptyContent>
             <Button asChild variant="accent">
-              <LayoutLink href="/watcher">Check sync status</LayoutLink>
+              <LayoutLink href="/watcher">
+                {phrase(inventoryTypeDataContentCheckSync.slug)}
+              </LayoutLink>
             </Button>
           </EmptyContent>
         </Empty>
@@ -276,7 +284,7 @@ export function InventoryTypeDataContent({
 
   return (
     <div className="flex flex-col gap-6">
-      <PageTabHeader title="By Type" subtitle={pricingHints}>
+      <PageTabHeader title={phrase(inventoryPageContentByType.slug)} subtitle={pricingHints}>
         {filterBar}
       </PageTabHeader>
       {hasActiveFilters && filteredTypeGroups?.length === 0 ? (
@@ -285,14 +293,12 @@ export function InventoryTypeDataContent({
             <EmptyMedia variant="icon">
               <Search />
             </EmptyMedia>
-            <EmptyTitle>No matching items</EmptyTitle>
-            <EmptyDescription>
-              Try adjusting your search or filters to find what you're looking for.
-            </EmptyDescription>
+            <EmptyTitle>{phrase(inventoryTypeDataContentNoMatch.slug)}</EmptyTitle>
+            <EmptyDescription>{phrase(inventoryTypeDataContentNoMatchNote.slug)}</EmptyDescription>
           </EmptyHeader>
           <EmptyContent>
             <Button variant="secondary" size="sm" onClick={onClearFilters}>
-              Clear filters
+              {phrase(inventoryTypeDataContentClearFilters.slug)}
             </Button>
           </EmptyContent>
         </Empty>

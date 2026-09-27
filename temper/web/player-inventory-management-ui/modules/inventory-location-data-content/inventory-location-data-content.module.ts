@@ -6,4 +6,10 @@ export const inventoryLocationDataContent = {
   slug: "inventory-location-data-content",
   definition: "the inventory drawn by where its items sit",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tab header and the empty state are web phrase pages.",
+    },
+  ],
 } as const satisfies Module

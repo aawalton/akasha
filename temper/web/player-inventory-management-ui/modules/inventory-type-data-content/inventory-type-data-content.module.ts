@@ -11,5 +11,9 @@ export const inventoryTypeDataContent = {
       decisionKind: "decision-kind/departure",
       statement: "A trait filter is applied again whenever the traits are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The tab header and the empty states are web phrase pages.",
+    },
   ],
 } as const satisfies Module

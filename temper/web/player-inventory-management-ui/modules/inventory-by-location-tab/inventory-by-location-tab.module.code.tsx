@@ -32,6 +32,10 @@ import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/h
 import { temperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryTypeDataContentClearFilters } from "akasha/temper/web/phrase/pages/inventory-type-data-content-clear-filters.temper-web-phrase.ts"
+import { inventoryTypeDataContentNoMatch } from "akasha/temper/web/phrase/pages/inventory-type-data-content-no-match.temper-web-phrase.ts"
+import { inventoryTypeDataContentNoMatchNote } from "akasha/temper/web/phrase/pages/inventory-type-data-content-no-match-note.temper-web-phrase.ts"
 import { InventoryLocationSummaryPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.code.tsx"
 import {
   InventoryLocationTypePanelCard,
@@ -74,6 +78,7 @@ export function InventoryByLocationTab({
   sortDirection,
   onClearFilters,
 }: InventoryByLocationTabProps) {
+  const phrase = usePhrase()
   const locations = useKeyedTitles(temperLocationType.slug)
   const currencyTitles = useKeyedTitles(temperInventoryCurrency.slug)
   const venues = useKeyedTitles(temperVenue.slug)
@@ -157,15 +162,13 @@ export function InventoryByLocationTab({
           <EmptyMedia variant="icon">
             <Search />
           </EmptyMedia>
-          <EmptyTitle>No matching items</EmptyTitle>
-          <EmptyDescription>
-            Try adjusting your search or filters to find what you're looking for.
-          </EmptyDescription>
+          <EmptyTitle>{phrase(inventoryTypeDataContentNoMatch.slug)}</EmptyTitle>
+          <EmptyDescription>{phrase(inventoryTypeDataContentNoMatchNote.slug)}</EmptyDescription>
         </EmptyHeader>
         {onClearFilters && (
           <EmptyContent>
             <Button variant="secondary" size="sm" onClick={onClearFilters}>
-              Clear filters
+              {phrase(inventoryTypeDataContentClearFilters.slug)}
             </Button>
           </EmptyContent>
         )}

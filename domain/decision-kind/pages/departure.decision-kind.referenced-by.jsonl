@@ -6338,6 +6338,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-companion-rules-panel/inventory-companion-rules-panel.module.ts","id":"01a0636c-5d9a-73df-a4b8-d20e90b10012"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-currency-panel-card/inventory-currency-panel-card.module.ts","id":"01a0636c-5d9a-7c12-8136-543b0fa20013"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-item-rules-panel/inventory-item-rules-panel.module.ts","id":"01a0636c-5d9b-7967-9dae-4d19bdf90017"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-location-data-content/inventory-location-data-content.module.ts","id":"01a0636c-5d9b-7421-a641-ef2d6b530018"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-location-summary-panel-card/inventory-location-summary-panel-card.module.ts","id":"01a0636c-5d9b-70f8-b4b5-553bf30b0019"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.ts","id":"01a0636c-5d9b-7397-9dc8-d288cffe001a"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-page-content/inventory-page-content.module.ts","id":"01a0636c-5d9b-72e9-88ef-3bfdd616001b"}
