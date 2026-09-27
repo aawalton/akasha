@@ -17,8 +17,18 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCharacter } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { getCharacterVersions } from "akasha/temper/web/modules/version-actions/version-actions.module.code.ts"
 import { VersionHistoryDialog } from "akasha/temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"
+import { characterManagementPanelCardBuildManagement } from "akasha/temper/web/phrase/pages/character-management-panel-card-build-management.temper-web-phrase.ts"
+import { characterManagementPanelCardCancel } from "akasha/temper/web/phrase/pages/character-management-panel-card-cancel.temper-web-phrase.ts"
+import { characterManagementPanelCardDeleteBuild } from "akasha/temper/web/phrase/pages/character-management-panel-card-delete-build.temper-web-phrase.ts"
+import { characterManagementPanelCardDeleteBuildQuestion } from "akasha/temper/web/phrase/pages/character-management-panel-card-delete-build-question.temper-web-phrase.ts"
+import { characterManagementPanelCardDeleteFailed } from "akasha/temper/web/phrase/pages/character-management-panel-card-delete-failed.temper-web-phrase.ts"
+import { characterManagementPanelCardDeleteWarning } from "akasha/temper/web/phrase/pages/character-management-panel-card-delete-warning.temper-web-phrase.ts"
+import { characterManagementPanelCardDeleting } from "akasha/temper/web/phrase/pages/character-management-panel-card-deleting.temper-web-phrase.ts"
+import { characterManagementPanelCardUntitledBuild } from "akasha/temper/web/phrase/pages/character-management-panel-card-untitled-build.temper-web-phrase.ts"
+import { characterManagementPanelCardVersionHistory } from "akasha/temper/web/phrase/pages/character-management-panel-card-version-history.temper-web-phrase.ts"
 import { useState } from "react"
 import { toast } from "sonner"
 
@@ -34,6 +44,7 @@ export function CharacterManagementPanelCard({
   className,
 }: CharacterManagementPanelCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const router = usePagesUIRouter()
   const [showDeleteDialog, setShowDeleteDialog] = useState(false)
   const [showVersionHistory, setShowVersionHistory] = useState(false)
@@ -54,7 +65,11 @@ export function CharacterManagementPanelCard({
       await deleteBuild()
       router.push("/character-build")
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to delete character")
+      toast.error(
+        error instanceof Error
+          ? error.message
+          : phrase(characterManagementPanelCardDeleteFailed.slug)
+      )
       setIsDeleting(false)
       setShowDeleteDialog(false)
     }
@@ -69,15 +84,15 @@ export function CharacterManagementPanelCard({
       <PanelCard
         id="character-management"
         collapsible
-        title="Build Management"
+        title={phrase(characterManagementPanelCardBuildManagement.slug)}
         className={className}
       >
         <div className="flex flex-wrap justify-between gap-2">
           <Button variant="destructive" onClick={() => setShowDeleteDialog(true)}>
-            Delete Build
+            {phrase(characterManagementPanelCardDeleteBuild.slug)}
           </Button>
           <Button variant="secondary" onClick={() => setShowVersionHistory(true)}>
-            Version History
+            {phrase(characterManagementPanelCardVersionHistory.slug)}
           </Button>
         </div>
       </PanelCard>
@@ -97,10 +112,16 @@ export function CharacterManagementPanelCard({
       <AlertDialog open={showDeleteDialog} onOpenChange={setShowDeleteDialog}>
         <AlertDialogContent>
           <AlertDialogHeader>
-            <AlertDialogTitle>Delete Build?</AlertDialogTitle>
+            <AlertDialogTitle>
+              {phrase(characterManagementPanelCardDeleteBuildQuestion.slug)}
+            </AlertDialogTitle>
             <AlertDialogDescription>
-              This will permanently delete &quot;{buildName !== "" ? buildName : "Untitled Build"}
-              &quot;. This action cannot be undone.
+              {phrase(characterManagementPanelCardDeleteWarning.slug, {
+                name:
+                  buildName !== ""
+                    ? buildName
+                    : phrase(characterManagementPanelCardUntitledBuild.slug),
+              })}
             </AlertDialogDescription>
           </AlertDialogHeader>
           <AlertDialogFooter className="sm:justify-between">
@@ -110,10 +131,12 @@ export function CharacterManagementPanelCard({
               disabled={isDeleting}
               className={isDeleting ? "disabled:cursor-wait" : undefined}
             >
-              {isDeleting ? "Deleting..." : "Delete Build"}
+              {isDeleting
+                ? phrase(characterManagementPanelCardDeleting.slug)
+                : phrase(characterManagementPanelCardDeleteBuild.slug)}
             </AlertDialogAction>
             <AlertDialogCancel disabled={isDeleting} className={surfaceClass(surface + 1)}>
-              Cancel
+              {phrase(characterManagementPanelCardCancel.slug)}
             </AlertDialogCancel>
           </AlertDialogFooter>
         </AlertDialogContent>

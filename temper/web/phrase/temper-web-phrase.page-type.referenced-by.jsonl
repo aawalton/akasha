@@ -28,6 +28,15 @@
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-live-only-panel-card-set-target-build.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-live-only-panel-card-unknown-character.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-live-only-panel-card-untitled-build.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-management-panel-card-build-management.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-management-panel-card-cancel.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-management-panel-card-delete-build-question.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-management-panel-card-delete-build.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-management-panel-card-delete-failed.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-management-panel-card-delete-warning.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-management-panel-card-deleting.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-management-panel-card-untitled-build.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/character-management-panel-card-version-history.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/companion-editor-header-browse.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/companion-editor-header-go-to-live.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/companion-editor-header-go-to-target.temper-web-phrase.ts","typed":true,"deferred":false}
