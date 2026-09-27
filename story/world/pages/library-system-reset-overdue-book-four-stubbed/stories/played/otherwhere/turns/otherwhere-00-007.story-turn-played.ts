@@ -10,7 +10,7 @@ export const otherwhere00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     '"Well, I know some things, just not whatever was supposed to be in that packet. For example, I\'m Nala, nice to meet you, Links." I look around. "If this is a library, where are all the books? I\'m a quick learner, and I\'ve always wanted to learn absolutely everything."',
   beats: [
@@ -31,5 +31,5 @@ export const otherwhere00007 = {
     "Links sets a paw on the bottom step.",
   ],
   lore: ["lore/otherwhere-alan", "place/otherwhere-core-chamber", "place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
