@@ -1,3 +1,6 @@
 import type { TemperCharacterThing } from "akasha/temper/player/character/thing/temper-character-thing.page-type.types.ts"
+import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
 
-export type TemperCharacterRole = TemperCharacterThing & {}
+export type TemperCharacterRole = TemperCharacterThing & {
+  displayOrder: DisplayOrder
+}

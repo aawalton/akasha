@@ -5,4 +5,5 @@ export const dps = {
   type: "page-type/temper-character-role",
   slug: "dps",
   title: "DPS",
+  displayOrder: 1,
 } as const satisfies TemperCharacterRole

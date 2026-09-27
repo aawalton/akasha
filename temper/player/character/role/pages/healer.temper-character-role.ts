@@ -5,4 +5,5 @@ export const healer = {
   type: "page-type/temper-character-role",
   slug: "healer",
   title: "Healer",
+  displayOrder: 3,
 } as const satisfies TemperCharacterRole

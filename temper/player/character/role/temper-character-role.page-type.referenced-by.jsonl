@@ -1,3 +1,4 @@
+{"propertySlug":"import","fileName":"temper-character-role.page-type.ts","path":"temper/player/character/role/modules/role-ids-keeping/role-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/dps.temper-character-role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/healer.temper-character-role.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-character-role.page-type.types.ts","path":"temper/player/character/role/pages/no-role.temper-character-role.ts","typed":true,"deferred":false}

@@ -5,4 +5,5 @@ export const pvp = {
   type: "page-type/temper-character-role",
   slug: "pvp",
   title: "PvP",
+  displayOrder: 4,
 } as const satisfies TemperCharacterRole

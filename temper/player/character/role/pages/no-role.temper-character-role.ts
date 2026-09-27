@@ -5,4 +5,5 @@ export const noRole = {
   type: "page-type/temper-character-role",
   slug: "no-role",
   title: "No Role",
+  displayOrder: 0,
 } as const satisfies TemperCharacterRole

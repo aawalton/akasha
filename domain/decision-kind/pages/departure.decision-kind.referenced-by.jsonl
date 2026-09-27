@@ -5682,6 +5682,9 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/metric-id/metric-id.module.ts","id":"01a06070-82e2-7238-b411-953800ec8442"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/source-category/source-category.module.ts","id":"01a06070-82e4-7b83-980a-be8cb831e18a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/temper-formula-framework.domain.ts","id":"01a06070-82da-7f4b-92e5-5796473bfa9d"}
+{"propertySlug":"decision-kind","path":"temper/player/character/role/modules/role-ids-keeping/role-ids-keeping.change-generator.ts","id":"01a0e08d-5ffb-7c17-90c7-3b20b15c8974"}
+{"propertySlug":"decision-kind","path":"temper/player/character/role/modules/role-ids/role-ids.data-table.ts","id":"01a0e08d-5ffc-788e-b6e9-b62fe8388491"}
+{"propertySlug":"decision-kind","path":"temper/player/character/role/temper-character-role.page-type.ts","id":"01a05fcd-f547-7e5d-aa6c-38b9f3d06600"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill-activation/temper-character-skill-activation.page-type.ts","id":"01a05fcd-f54a-7717-a057-2b49e5aeaa04"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/skill-line-category-data/skill-line-category-data.module.ts","id":"01a0608a-c135-7b53-b635-1e9c4d4ba002"}
 {"propertySlug":"decision-kind","path":"temper/player/character/skill/line/modules/skill-lines/skill-lines.module.ts","id":"01a0608a-c135-7b83-afde-8d52e111b852"}

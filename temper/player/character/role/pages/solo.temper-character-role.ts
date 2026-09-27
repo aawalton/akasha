@@ -5,4 +5,5 @@ export const solo = {
   type: "page-type/temper-character-role",
   slug: "solo",
   title: "Solo",
+  displayOrder: 5,
 } as const satisfies TemperCharacterRole

@@ -5,4 +5,5 @@ export const tank = {
   type: "page-type/temper-character-role",
   slug: "tank",
   title: "Tank",
+  displayOrder: 2,
 } as const satisfies TemperCharacterRole
