@@ -11,7 +11,7 @@ export const ruleLowQualitySell = {
   conditions: "jsonl",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/all",
-  displayOrder: 80,
+  displayOrder: 81,
   action: "temper-item-action/sell",
   active: true,
   updatedAt: "2026-06-02T20:49:38.124Z",

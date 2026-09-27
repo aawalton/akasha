@@ -12,7 +12,7 @@ export const ruleUnlockByPriority = {
   destination: "character:by-priority",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/knowledge",
-  displayOrder: 35,
+  displayOrder: 36,
   action: "temper-item-action/use",
   active: true,
   updatedAt: "2026-05-04T16:04:31.132Z",

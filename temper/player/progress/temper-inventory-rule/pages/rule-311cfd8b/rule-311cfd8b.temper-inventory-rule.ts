@@ -10,7 +10,7 @@ export const rule311cfd8b = {
   destination: "house-storage:4680",
   accountPage: "temper-account/alanarre",
   categoryId: "temper-item-category-tree/skill-scrolls",
-  displayOrder: 43,
+  displayOrder: 44,
   action: "temper-item-action/move-to",
   active: true,
   updatedAt: "2026-07-05T13:20:45.993Z",

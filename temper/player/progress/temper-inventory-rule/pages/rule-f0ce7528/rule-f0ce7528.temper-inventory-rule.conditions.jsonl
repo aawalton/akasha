@@ -1,3 +1,3 @@
-{"id":"01a0e31d-7173-7bf0-9a96-afe49e2fc478","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
-{"id":"01a0e31d-7173-7218-a962-1c5f9830df87","conditionField":"temper-condition-field/potion-effects","conditionValue":"[\"health-restore\",\"magicka-restore\",\"stamina-restore\"]"}
-{"id":"01a0e31d-7173-70d3-9037-9d78e4be60d2","conditionField":"temper-condition-field/potion-effects-mode","conditionValue":"all"}
+{"id":"01a0e37b-f5c4-7160-8b1b-cbbbc9079f21","conditionField":"temper-condition-field/stolen","conditionValue":"not-stolen"}
+{"id":"01a0e37b-f5c4-7b74-8371-7398b5db7694","conditionField":"temper-condition-field/potion-effects","conditionValue":"[\"health-restore\",\"magicka-restore\",\"stamina-restore\"]"}
+{"id":"01a0e37b-f5c4-7a6b-be9b-6b8bde8badf3","conditionField":"temper-condition-field/potion-effects-mode","conditionValue":"all"}
