@@ -6,7 +6,6 @@ import {
   sendsNow,
   Textarea,
 } from "akasha/design/interface/primitive/modules/textarea/textarea.module.code.tsx"
-import { useKeyboardInset } from "akasha/page/ui/block-editor/modules/use-keyboard-inset/use-keyboard-inset.module.code.ts"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import {
   type ActionBarMessageKind,
@@ -100,7 +99,6 @@ export function ActionBar({
   making: Making | null
 }) {
   const userId = useUserId()
-  const keyboardInset = useKeyboardInset()
   const [pending, setPending] = useState<readonly PendingAction[]>([])
   const [echoes, setEchoes] = useState<readonly Echo[]>([])
   const [text, setText] = useState("")
@@ -200,10 +198,9 @@ export function ActionBar({
   const listed: readonly PendingAction[] =
     making === null ? pending : [...pending, { id: making.slug, text: making.action, kind: ACTION }]
   const shown = echoesShown(echoes, listed)
-  const inset = keyboardInset > 0 ? { paddingBottom: `${keyboardInset}px` } : undefined
 
   return (
-    <div className="flex flex-col gap-3" style={inset}>
+    <div className="flex flex-col gap-3">
       {listed.length + shown.length === 0 ? null : (
         <div className="flex flex-col gap-1">
           {listed.map((one) => (
