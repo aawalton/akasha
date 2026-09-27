@@ -5,7 +5,7 @@ export const otherwhereAlan = {
   type: "page-type/otherwhere-health",
   slug: "otherwhere-alan",
   character: "character-player/otherwhere-alan",
-  value: 20,
+  value: 17,
   minValue: 0,
   maxValue: 20,
   history: "jsonl",
