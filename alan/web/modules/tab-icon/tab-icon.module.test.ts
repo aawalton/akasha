@@ -5,12 +5,12 @@ const SITE_ICON = "/favicon.svg"
 
 const ROOT = { data: { document: { title: "Alan Walton" } } }
 
-const NAV = { data: { kind: "nav", faviconIdSuffix: "a8b25f2b", faviconIcon: "Gamepad2" } }
+const NAV = { data: { kind: "nav", faviconIdSuffix: "a8b25f2b", faviconIcon: "Library" } }
 
 const DETAIL = { data: { kind: "detail", faviconIdSuffix: null, faviconIcon: "" } }
 
 test("a nav page's tab names the icon its nav page states", () => {
-  expect(tabIconHref([ROOT, NAV])).toBe("/api/nav-icon/a8b25f2b?icon=Gamepad2")
+  expect(tabIconHref([ROOT, NAV])).toBe("/api/nav-icon/a8b25f2b?icon=Library")
 })
 
 test("a page other than a nav page shows the site's icon", () => {
@@ -34,5 +34,5 @@ test("a nav page stating no icon still names its own icon route", () => {
 
 test("the deepest route naming a nav page names the tab icon", () => {
   const outer = { data: { faviconIdSuffix: "00000000", faviconIcon: "House" } }
-  expect(tabIconHref([ROOT, outer, NAV])).toBe("/api/nav-icon/a8b25f2b?icon=Gamepad2")
+  expect(tabIconHref([ROOT, outer, NAV])).toBe("/api/nav-icon/a8b25f2b?icon=Library")
 })
