@@ -4,6 +4,7 @@ export const racialImperial = {
   id: "01a0e0f0-274a-75e1-af9f-ad7b1d15c79f",
   type: "page-type/temper-motif-style",
   slug: "racial-imperial",
-  title: "ITEMSTYLE_RACIAL_IMPERIAL",
+  title: "Imperial",
   esoItemStyleId: 34,
+  styleName: "Imperial",
 } as const satisfies TemperMotifStyle
