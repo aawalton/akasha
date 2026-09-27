@@ -448,7 +448,9 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/stat/modules/metric-reading/metric-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/stat/modules/metric-tree/metric-tree.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/completion/modules/held-lore-library-loading/held-lore-library-loading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-override-row/completion-override-row.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/completion/temper-player-completion/modules/completion-page-reading/completion-page-reading.module.code.ts","typed":true,"deferred":false}

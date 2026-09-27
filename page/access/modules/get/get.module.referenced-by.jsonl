@@ -31,6 +31,7 @@
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/player/character/source/modules/target-armor-loading/target-armor-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/player/character/temper-account/modules/account-address/account-address.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/player/completion/modules/held-lore-library-loading/held-lore-library-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-export-companion-builds/watcher-export-companion-builds.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-export-settings/watcher-export-settings.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/watcher/modules/watcher-export-tasks/watcher-export-tasks.module.code.ts","typed":false,"deferred":false}

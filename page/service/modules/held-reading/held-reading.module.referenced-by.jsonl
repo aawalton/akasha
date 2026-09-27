@@ -5,5 +5,6 @@
 {"propertySlug":"import","fileName":"held-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-reading.module.code.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-reading.module.code.ts","path":"temper/player/character/source/modules/target-armor-loading/target-armor-loading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-reading.module.code.ts","path":"temper/player/completion/modules/held-lore-library-loading/held-lore-library-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-reading.module.code.ts","path":"temper/web/modules/kiosk-names-loading/kiosk-names-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/service/page-service.service-workstation.ts","id":"01a05a43-5afa-7d0d-8d60-dbd3c3498f99"}

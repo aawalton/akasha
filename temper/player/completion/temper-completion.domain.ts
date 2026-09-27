@@ -50,6 +50,7 @@ export const temperCompletion = {
     "module/recipe-types",
     "domain/temper-player-completion",
     "module/held-lore-library",
+    "module/held-lore-library-loading",
   ],
   decisions: [
     {

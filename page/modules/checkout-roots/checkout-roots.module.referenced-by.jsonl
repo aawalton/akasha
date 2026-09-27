@@ -183,6 +183,7 @@
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/character/stat/modules/metrics/metrics.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/completion/modules/completion-record/completion-record.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/player/progress/temper-rule-template/modules/rule-template-catalog/rule-template-catalog.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/watcher/modules/watcher-net-worth-landing/watcher-net-worth-landing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"checkout-roots.module.code.ts","path":"temper/watcher/modules/watcher-running/watcher-running.module.code.ts","typed":false,"deferred":false}

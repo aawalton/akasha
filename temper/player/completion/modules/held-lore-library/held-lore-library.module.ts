@@ -8,6 +8,7 @@ export const heldLoreLibrary = {
     "the lore library's categories, collections and books, read from their pages and held",
   code: "ts",
   test: "ts",
+  testFixtures: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
