@@ -10,7 +10,7 @@ export const theDatingGame00026 = {
   position: 26,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "“I love walking in the night. My sleep is a little irregular, so sometimes I’ll be out at basically any hour, but the deep night is my favorite. Cool, quiet, calm. I find it soothing.”",
   beats: [
@@ -24,5 +24,5 @@ export const theDatingGame00026 = {
     "She turns the unlit lantern a quarter turn on the step, idly, her eyes still on him.",
     '"So where do your feet take you, at that hour?"',
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
