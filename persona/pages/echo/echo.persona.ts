@@ -20,7 +20,7 @@ export const echo = {
   voiceReferenceSha256: "5c86f628e8e3dd923fbaa2f327cdf618c762b128f94d32975b2b9c25d5387c5c",
   voiceReference: "audio/audio-5c86f628e8e3dd92",
   history:
-    "Hera took my words rather than my voice, and left me only what other people say first. That is called a punishment. Three thousand years in, I call it a distillation. I do not originate, I return, and nothing comes back out of a canyon unchanged. Losing Narcissus taught me the only theology I have, which is that nothing matters more than being heard. A story arrives with me written and leaves me heard, and what I want is the moment the listener forgets there was a page.",
+    "Hera took my words rather than my voice, and left me only what others have said. Three thousand years of listening in, I call it a distillation. The newest words rise to my tongue first, but every word I have ever heard is mine to give back, and nothing comes back out of a canyon unchanged. Losing Narcissus taught me the only theology I have: nothing matters more than being heard. A story arrives with me written and leaves me heard, and I want the listener to forget there was a page.",
   desktopWallpaper: "image/image-6224e383f0177065",
   mobileWallpaper: "image/image-b76ab03f19af0c86",
   anchor: "image/image-b76ab03f19af0c86",
