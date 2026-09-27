@@ -36,6 +36,10 @@ export const theDatingGameGrace = {
       fact: "Grace keeps late hours and is mostly out once it is dark.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "The dark has never frightened Grace; to her it's where things get honest.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

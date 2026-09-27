@@ -188,5 +188,13 @@ export const theDatingGameAlan = {
       fact: "Alan told Grace he lives just down the street from her, on Apple.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
     },
+    {
+      fact: "Alan loves walking at night, deep night most of all; he finds it cool, quiet, calm, soothing.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
+    {
+      fact: "Alan's sleep is irregular, so he is sometimes out walking at almost any hour.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-grace"],
+    },
   ],
 } as const satisfies Lore
