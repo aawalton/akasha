@@ -51,6 +51,18 @@ const CHARACTER_BUILD_PAGE_TYPE_SLUG = "character-build"
 
 type CharacterBuildRow = BuildRow<CharacterBuildMetadata>
 
+export type CharacterDeleteRefusal = "signed-out" | "unread"
+
+export class CharacterDeleteRefused extends Error {
+  readonly kind: CharacterDeleteRefusal
+
+  constructor(kind: CharacterDeleteRefusal, message: string) {
+    super(message)
+    this.name = "CharacterDeleteRefused"
+    this.kind = kind
+  }
+}
+
 function buildMetadataOf(row: Record<string, unknown>): CharacterBuildMetadata {
   const roles = heldCharacterRoles()
   const validatedRoles = Array.isArray(row.roles)
@@ -159,8 +171,8 @@ export function useCharacter(buildId: string) {
   }
 
   const deleteBuild = async () => {
-    if (userId == null) throw new Error("Not authenticated")
-    if (buildSlug == null) throw new Error("The build is not read yet")
+    if (userId == null) throw new CharacterDeleteRefused("signed-out", "Not authenticated")
+    if (buildSlug == null) throw new CharacterDeleteRefused("unread", "The build is not read yet")
     await deletePages({
       pageTypeSlug: buildVersionPageTypeOf(CHARACTER_BUILD_PAGE_TYPE_SLUG),
       where: [{ key: "build", eq: buildAddressOf(CHARACTER_BUILD_PAGE_TYPE_SLUG, buildSlug) }],

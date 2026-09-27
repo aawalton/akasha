@@ -49,6 +49,18 @@ const COMPANION_BUILD_PAGE_TYPE_SLUG = "companion-build"
 
 type CompanionBuildRow = BuildRow<CompanionBuildMetadata>
 
+export type CompanionDeleteRefusal = "signed-out" | "unread"
+
+export class CompanionDeleteRefused extends Error {
+  readonly kind: CompanionDeleteRefusal
+
+  constructor(kind: CompanionDeleteRefusal, message: string) {
+    super(message)
+    this.name = "CompanionDeleteRefused"
+    this.kind = kind
+  }
+}
+
 function buildMetadataOf(row: Record<string, unknown>): CompanionBuildMetadata {
   const validatedBaseRoles = Array.isArray(row.baseRoles)
     ? row.baseRoles.filter(isCompanionBaseRoleId)
@@ -143,8 +155,8 @@ export function useCompanion(buildId: string) {
   }
 
   const deleteBuild = async () => {
-    if (userId == null) throw new Error("Not authenticated")
-    if (buildSlug == null) throw new Error("The build is not read yet")
+    if (userId == null) throw new CompanionDeleteRefused("signed-out", "Not authenticated")
+    if (buildSlug == null) throw new CompanionDeleteRefused("unread", "The build is not read yet")
     await deletePages({
       pageTypeSlug: buildVersionPageTypeOf(COMPANION_BUILD_PAGE_TYPE_SLUG),
       where: [{ key: "build", eq: buildAddressOf(COMPANION_BUILD_PAGE_TYPE_SLUG, buildSlug) }],

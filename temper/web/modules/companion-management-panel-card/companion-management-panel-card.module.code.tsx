@@ -16,7 +16,10 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { useCompanion } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
+import {
+  CompanionDeleteRefused,
+  useCompanion,
+} from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { getCompanionVersions } from "akasha/temper/web/modules/companion-version-actions/companion-version-actions.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { VersionHistoryDialog } from "akasha/temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"
@@ -27,6 +30,8 @@ import { companionManagementPanelCardDeleteDescription } from "akasha/temper/web
 import { companionManagementPanelCardDeleteFailed } from "akasha/temper/web/phrase/pages/companion-management-panel-card-delete-failed.temper-web-phrase.ts"
 import { companionManagementPanelCardDeleteTitle } from "akasha/temper/web/phrase/pages/companion-management-panel-card-delete-title.temper-web-phrase.ts"
 import { companionManagementPanelCardDeleting } from "akasha/temper/web/phrase/pages/companion-management-panel-card-deleting.temper-web-phrase.ts"
+import { companionManagementPanelCardSignedOut } from "akasha/temper/web/phrase/pages/companion-management-panel-card-signed-out.temper-web-phrase.ts"
+import { companionManagementPanelCardUnread } from "akasha/temper/web/phrase/pages/companion-management-panel-card-unread.temper-web-phrase.ts"
 import { companionManagementPanelCardUntitledBuild } from "akasha/temper/web/phrase/pages/companion-management-panel-card-untitled-build.temper-web-phrase.ts"
 import { companionManagementPanelCardVersionHistory } from "akasha/temper/web/phrase/pages/companion-management-panel-card-version-history.temper-web-phrase.ts"
 import { useState } from "react"
@@ -65,9 +70,15 @@ export function CompanionManagementPanelCard({
       router.push("/companion-build")
     } catch (error) {
       toast.error(
-        error instanceof Error
-          ? error.message
-          : phrase(companionManagementPanelCardDeleteFailed.slug)
+        error instanceof CompanionDeleteRefused
+          ? phrase(
+              error.kind === "signed-out"
+                ? companionManagementPanelCardSignedOut.slug
+                : companionManagementPanelCardUnread.slug
+            )
+          : error instanceof Error
+            ? error.message
+            : phrase(companionManagementPanelCardDeleteFailed.slug)
       )
       setIsDeleting(false)
       setShowDeleteDialog(false)

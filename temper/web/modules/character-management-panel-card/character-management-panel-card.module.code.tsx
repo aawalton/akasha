@@ -16,7 +16,10 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
-import { useCharacter } from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
+import {
+  CharacterDeleteRefused,
+  useCharacter,
+} from "akasha/temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { getCharacterVersions } from "akasha/temper/web/modules/version-actions/version-actions.module.code.ts"
 import { VersionHistoryDialog } from "akasha/temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"
@@ -27,6 +30,8 @@ import { characterManagementPanelCardDeleteBuildQuestion } from "akasha/temper/w
 import { characterManagementPanelCardDeleteFailed } from "akasha/temper/web/phrase/pages/character-management-panel-card-delete-failed.temper-web-phrase.ts"
 import { characterManagementPanelCardDeleteWarning } from "akasha/temper/web/phrase/pages/character-management-panel-card-delete-warning.temper-web-phrase.ts"
 import { characterManagementPanelCardDeleting } from "akasha/temper/web/phrase/pages/character-management-panel-card-deleting.temper-web-phrase.ts"
+import { characterManagementPanelCardSignedOut } from "akasha/temper/web/phrase/pages/character-management-panel-card-signed-out.temper-web-phrase.ts"
+import { characterManagementPanelCardUnread } from "akasha/temper/web/phrase/pages/character-management-panel-card-unread.temper-web-phrase.ts"
 import { characterManagementPanelCardUntitledBuild } from "akasha/temper/web/phrase/pages/character-management-panel-card-untitled-build.temper-web-phrase.ts"
 import { characterManagementPanelCardVersionHistory } from "akasha/temper/web/phrase/pages/character-management-panel-card-version-history.temper-web-phrase.ts"
 import { useState } from "react"
@@ -66,9 +71,15 @@ export function CharacterManagementPanelCard({
       router.push("/character-build")
     } catch (error) {
       toast.error(
-        error instanceof Error
-          ? error.message
-          : phrase(characterManagementPanelCardDeleteFailed.slug)
+        error instanceof CharacterDeleteRefused
+          ? phrase(
+              error.kind === "signed-out"
+                ? characterManagementPanelCardSignedOut.slug
+                : characterManagementPanelCardUnread.slug
+            )
+          : error instanceof Error
+            ? error.message
+            : phrase(characterManagementPanelCardDeleteFailed.slug)
       )
       setIsDeleting(false)
       setShowDeleteDialog(false)

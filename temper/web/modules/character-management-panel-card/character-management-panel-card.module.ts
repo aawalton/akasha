@@ -11,5 +11,9 @@ export const characterManagementPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A delete refused before it starts is worded by the kind of refusal.",
+    },
   ],
 } as const satisfies Module
