@@ -6,4 +6,6 @@ export const research = {
   slug: "research",
   title: "Research",
   description: "Researches the trait the item carries.",
+  key: "research",
+  displayOrder: 6,
 } as const satisfies TemperItemAction

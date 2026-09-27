@@ -6,4 +6,6 @@ export const mail = {
   slug: "mail",
   title: "Mail",
   description: "Mails the item to the recipient the rule names.",
+  key: "mail",
+  displayOrder: 10,
 } as const satisfies TemperItemAction

@@ -6,4 +6,6 @@ export const stock = {
   slug: "stock",
   title: "Stock",
   description: "Keeps a target quantity of the item at the destination the rule names.",
+  key: "stock",
+  displayOrder: 12,
 } as const satisfies TemperItemAction

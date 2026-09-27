@@ -6,4 +6,6 @@ export const lock = {
   slug: "lock",
   title: "Lock",
   description: "Locks the item against other rules.",
+  key: "lock",
+  displayOrder: 1,
 } as const satisfies TemperItemAction

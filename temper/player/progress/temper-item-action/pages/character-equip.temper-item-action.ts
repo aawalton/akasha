@@ -4,6 +4,8 @@ export const characterEquip = {
   id: "01a071f0-4c82-73e1-9946-1dc48e9b2d78",
   type: "page-type/temper-item-action",
   slug: "character-equip",
-  title: "Equip on character",
+  title: "Equip",
   description: "Equips the item on the character the rule names.",
+  key: "character-equip",
+  displayOrder: 8,
 } as const satisfies TemperItemAction

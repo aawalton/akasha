@@ -6,4 +6,6 @@ export const fenceSell = {
   slug: "fence-sell",
   title: "Fence",
   description: "Sells a stolen item at a fence.",
+  key: "fence-sell",
+  displayOrder: 16,
 } as const satisfies TemperItemAction

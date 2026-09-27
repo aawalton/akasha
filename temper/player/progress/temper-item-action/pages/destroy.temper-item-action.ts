@@ -6,4 +6,6 @@ export const destroy = {
   slug: "destroy",
   title: "Destroy",
   description: "Destroys the item outright.",
+  key: "destroy",
+  displayOrder: 5,
 } as const satisfies TemperItemAction

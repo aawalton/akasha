@@ -6,4 +6,6 @@ export const deconstruct = {
   slug: "deconstruct",
   title: "Deconstruct",
   description: "Breaks the item down for the materials the item yields.",
+  key: "deconstruct",
+  displayOrder: 3,
 } as const satisfies TemperItemAction

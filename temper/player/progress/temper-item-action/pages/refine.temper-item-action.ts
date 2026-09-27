@@ -6,4 +6,6 @@ export const refine = {
   slug: "refine",
   title: "Refine",
   description: "Refines raw material into the worked form.",
+  key: "refine",
+  displayOrder: 4,
 } as const satisfies TemperItemAction

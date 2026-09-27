@@ -7,7 +7,11 @@ export const temperItemAction = {
   definition: "a thing an item rule does to an item the rule matches",
   extends: ["page-type/temper-progress-thing"],
   parts: ["module/item-action-pages"],
-  properties: [{ pageProperty: "text-property/description", required: true, many: false }],
+  properties: [
+    { pageProperty: "text-property/description", required: true, many: false },
+    { pageProperty: "text-property/key", required: true, many: false },
+    { pageProperty: "number-property/display-order", required: true, many: false },
+  ],
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -16,6 +20,14 @@ export const temperItemAction = {
     {
       decisionKind: "decision-kind/departure",
       statement: "The title is the action a reader is shown.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A title is spelled as the game spells the action, where the game spells it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The key is the slug, so the pages are read as keyed titles.",
     },
   ],
   types: "ts",

@@ -6,4 +6,6 @@ export const open = {
   slug: "open",
   title: "Open",
   description: "Opens the container.",
+  key: "open",
+  displayOrder: 15,
 } as const satisfies TemperItemAction

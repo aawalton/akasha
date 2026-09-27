@@ -6,4 +6,6 @@ export const list = {
   slug: "list",
   title: "List",
   description: "Lists the item at a guild trader.",
+  key: "list",
+  displayOrder: 17,
 } as const satisfies TemperItemAction
