@@ -21,6 +21,10 @@ export const companionBaseRoles = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The rotation breakdown row a role is judged by is read from that role's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A build's default armor weight is the heaviest weight any of its roles is built around.",
     },

@@ -4,7 +4,10 @@ import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/ass
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { Skeleton } from "akasha/design/interface/primitive/modules/skeleton/skeleton.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import type { CompanionBaseRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
+import {
+  type CompanionBaseRoleId,
+  primaryBreakdownRowsOf,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-base-roles/companion-base-roles.module.code.ts"
 import type { CompanionSkillId } from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionMetricValue } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
@@ -12,7 +15,7 @@ import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/comp
 import type { CompanionSkillSlotId } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import type { RotationResult } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
 import { SkillBreakdownTable } from "akasha/temper/web/modules/companion-rotation-breakdown-table/companion-rotation-breakdown-table.module.code.tsx"
-import { getPrimaryRows } from "akasha/temper/web/modules/companion-rotation-breakdown-types/companion-rotation-breakdown-types.module.code.ts"
+
 import { deriveCompanionRotationOutcome } from "akasha/temper/web/modules/companion-rotation-outcome/companion-rotation-outcome.module.code.ts"
 import { useCompanion } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
 import { useCompanionStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
@@ -106,7 +109,7 @@ function RotationContent({
           formulaStats={formulaStats}
           metricStats={metricStats}
           skillBar={skillBar}
-          primaryRows={getPrimaryRows(roles)}
+          primaryRows={primaryBreakdownRowsOf(roles)}
         />
       )
     default:

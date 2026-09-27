@@ -6,6 +6,7 @@ import { companionCatalog } from "akasha/temper/catalog/companion/companions-cor
 import type { CompanionMetricId } from "akasha/temper/catalog/companion/companions-core/modules/companion-metric-ids/companion-metric-ids.module.code.ts"
 import type { CompanionTraitId } from "akasha/temper/catalog/companion/companions-core/modules/companion-traits/companion-traits.module.code.ts"
 import type { CompanionWeaponRoleId } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-roles/companion-weapon-roles.module.code.ts"
+import type { RotationBreakdownRowId } from "akasha/temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts"
 
 export type CompanionBaseRoleId = "dps" | "tank" | "healer" | "support"
 
@@ -22,6 +23,7 @@ export interface CompanionBaseRoleTemplate {
   readonly validTraitIds: readonly CompanionTraitId[]
   readonly validArmorWeights: readonly CompanionArmorWeight[]
   readonly totalMetricId: CompanionMetricId | null
+  readonly primaryBreakdownRowId: RotationBreakdownRowId | null
   readonly defaultTraitId: string | null
   readonly defaultMainHand: string | null
   readonly defaultOffHand: string | null
@@ -40,6 +42,16 @@ export function companionBaseRoleAt(id: CompanionBaseRoleId): CompanionBaseRoleT
   const role = companionBaseRoles().find((one) => one.id === id)
   if (role === undefined) throw new Error(`no companion base role page answers to \`${id}\``)
   return role
+}
+
+export function primaryBreakdownRowsOf(
+  roles: readonly CompanionBaseRoleId[]
+): readonly RotationBreakdownRowId[] {
+  return companionBaseRoles().flatMap((role) =>
+    roles.includes(role.id) && role.primaryBreakdownRowId !== null
+      ? [role.primaryBreakdownRowId]
+      : []
+  )
 }
 
 export function getValidTraitIdsForBaseRoles(
