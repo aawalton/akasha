@@ -11,5 +11,9 @@ export const ruleActionFilterSelect = {
       decisionKind: "decision-kind/departure",
       statement: "Action and sell destination labels are read from item action and venue pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The all-actions and any-destination choices are worded by web phrase pages.",
+    },
   ],
 } as const satisfies Module

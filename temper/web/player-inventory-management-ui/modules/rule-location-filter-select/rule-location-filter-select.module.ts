@@ -16,5 +16,9 @@ export const ruleLocationFilterSelect = {
       decisionKind: "decision-kind/departure",
       statement: "The choice of every location of a type reads Any and that type's title.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "That choice and the type placeholder are worded by web phrase pages.",
+    },
   ],
 } as const satisfies Module

@@ -16,6 +16,9 @@ import {
   type LocationTypeId,
 } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { ruleLocationFilterSelectAnyOf } from "akasha/temper/web/phrase/pages/rule-location-filter-select-any-of.temper-web-phrase.ts"
+import { ruleLocationFilterSelectPlaceholder } from "akasha/temper/web/phrase/pages/rule-location-filter-select-placeholder.temper-web-phrase.ts"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
 
@@ -59,6 +62,7 @@ export function RuleLocationFilterSelect({
   }, [selectedType, inventory])
 
   const locations = useKeyedTitles(temperLocationType.slug)
+  const phrase = usePhrase()
   const kindTitle = (kind: string): string => (locations === null ? kind : titleOf(locations, kind))
 
   const typeOptions = (locations?.keys ?? [])
@@ -98,7 +102,7 @@ export function RuleLocationFilterSelect({
         >
           <SelectTrigger hideChevron>
             <Badge variant="elevation-muted" className="shrink-0">
-              <SelectValue placeholder="Select Location Type" />
+              <SelectValue placeholder={phrase(ruleLocationFilterSelectPlaceholder.slug)} />
             </Badge>
           </SelectTrigger>
           <SelectContent>
@@ -133,7 +137,11 @@ export function RuleLocationFilterSelect({
                 </Badge>
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value={selectedType}>Any {kindTitle(selectedType)}</SelectItem>
+                <SelectItem value={selectedType}>
+                  {phrase(ruleLocationFilterSelectAnyOf.slug, {
+                    locationType: kindTitle(selectedType),
+                  })}
+                </SelectItem>
                 {specificOptions.map((opt) => (
                   <SelectItem key={opt.key} value={opt.key}>
                     {opt.displayName}

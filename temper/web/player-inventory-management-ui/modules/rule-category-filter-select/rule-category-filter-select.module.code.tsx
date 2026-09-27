@@ -9,6 +9,8 @@ import {
   getNodePath,
 } from "akasha/temper/items/rules/core/modules/item-category-tree-utils/item-category-tree-utils.module.code.ts"
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { ruleCategoryFilterSelectAllOf } from "akasha/temper/web/phrase/pages/rule-category-filter-select-all-of.temper-web-phrase.ts"
 import { CategoryBadgeSelect } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-category-row/rule-card-category-row.module.code.tsx"
 import { useMemo } from "react"
 
@@ -20,6 +22,7 @@ export function RuleCategoryFilterSelect({
   onRuleCategoryChange: (id: string) => void
 }) {
   const categories = useItemCategories().keyed
+  const phrase = usePhrase()
 
   const path = useMemo(
     () =>
@@ -59,7 +62,10 @@ export function RuleCategoryFilterSelect({
         const parent = depth > 0 ? path[depth - 1] : undefined
         const treeChildren = getNodeChildren(parent?.id, categories)
         const allOption = parent
-          ? { id: parent.id, name: `All ${parent.name}` }
+          ? {
+              id: parent.id,
+              name: phrase(ruleCategoryFilterSelectAllOf.slug, { category: parent.name }),
+            }
           : ALL_CATEGORIES_NODE
         const siblings = [allOption, ...treeChildren]
         return (
@@ -78,7 +84,9 @@ export function RuleCategoryFilterSelect({
           const deepest = path[path.length - 1]
           if (deepest === undefined) return null
           const allName =
-            deepest.id === ALL_CATEGORIES_ID ? ALL_CATEGORIES_NODE.name : `All ${deepest.name}`
+            deepest.id === ALL_CATEGORIES_ID
+              ? ALL_CATEGORIES_NODE.name
+              : phrase(ruleCategoryFilterSelectAllOf.slug, { category: deepest.name })
           return (
             <CategoryBadgeSelect
               depth={path.length}

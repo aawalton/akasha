@@ -6,4 +6,10 @@ export const ruleCategoryFilterSelect = {
   slug: "rule-category-filter-select",
   definition: "the select narrowing rules by the category they cover",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The choice of a whole category is worded by a web phrase page.",
+    },
+  ],
 } as const satisfies Module

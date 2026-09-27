@@ -12,6 +12,9 @@ import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-tit
 import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 import { temperItemAction } from "akasha/temper/player/progress/temper-item-action/temper-item-action.page-type.ts"
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { ruleActionFilterSelectAllActions } from "akasha/temper/web/phrase/pages/rule-action-filter-select-all-actions.temper-web-phrase.ts"
+import { ruleActionFilterSelectAnyDestination } from "akasha/temper/web/phrase/pages/rule-action-filter-select-any-destination.temper-web-phrase.ts"
 import {
   CharacterTargetCascade,
   CompanionTargetCascade,
@@ -42,6 +45,8 @@ export function RuleActionFilterSelect({
   const selectValue = action ?? NULL_SENTINEL
   const actionTitles = useKeyedTitles(temperItemAction.slug)
   const venues = useKeyedTitles(temperVenue.slug)
+  const phrase = usePhrase()
+  const allActions = phrase(ruleActionFilterSelectAllActions.slug)
 
   function handleActionChange(val: string) {
     if (val === NULL_SENTINEL) {
@@ -83,7 +88,7 @@ export function RuleActionFilterSelect({
             value: o.value,
             label: titleIn(venues, o.venue),
           }))}
-          allLabel="Any Destination"
+          allLabel={phrase(ruleActionFilterSelectAnyDestination.slug)}
           onChange={handleSubChange}
         />
       )
@@ -127,10 +132,10 @@ export function RuleActionFilterSelect({
       <Select value={selectValue} onValueChange={handleActionChange}>
         <SelectTrigger hideChevron>
           <Badge variant="elevation-muted" className="shrink-0">
-            <SelectValue placeholder="All Actions" />
+            <SelectValue placeholder={allActions} />
           </Badge>
         </SelectTrigger>
-        <SelectContent nullSentinel={{ value: NULL_SENTINEL, label: "All Actions" }} sorted>
+        <SelectContent nullSentinel={{ value: NULL_SENTINEL, label: allActions }} sorted>
           <SelectItem value={NOTHING_ACTION.value}>
             {titleIn(actionTitles, NOTHING_ACTION.value)}
           </SelectItem>
