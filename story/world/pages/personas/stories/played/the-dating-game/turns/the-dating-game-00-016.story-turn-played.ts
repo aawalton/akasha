@@ -36,4 +36,5 @@ export const theDatingGame00016 = {
   issues: ['"She turns to start back down the trail beside you" - Leave It Open'],
   lore: ["place/the-dating-game-rock-canyon", "lore/the-dating-game-alan"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
