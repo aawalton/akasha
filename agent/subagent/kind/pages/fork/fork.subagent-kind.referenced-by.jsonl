@@ -1,14 +1,9 @@
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/body/subagent-body.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"fork.subagent-kind.ts","path":"agent/subagent/modules/compose-subagent/compose-subagent.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"agent/subagent/kind/subagent-kind.page-type.ts","id":"01a06838-7a9d-7394-97ff-d069ea588410"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a325e370bfba56d03/astra-a325e370bfba56d03.subagent.ts","id":"01a0e29d-8232-7a53-b014-52ac68955496"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a39805a163b1de96e/astra-a39805a163b1de96e.subagent.ts","id":"01a0e29d-8fda-7ebc-9075-83dc286afd7a"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a59757a8462fec586/astra-a59757a8462fec586.subagent.ts","id":"01a0e29e-7909-7bd8-8e7f-140bae8c66c9"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a6d59037779d2318a/astra-a6d59037779d2318a.subagent.ts","id":"01a0e29d-a872-7349-bd0c-4b87912c2948"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a7bc09f3f7c48b4a9/astra-a7bc09f3f7c48b4a9.subagent.ts","id":"01a0e29e-7301-71c9-9ac1-697d6122e856"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-a9e7085bb6028394d/astra-a9e7085bb6028394d.subagent.ts","id":"01a0e1ca-b505-7804-91e9-d4cc8f8330b9"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-aa9417f4669c4000e/astra-aa9417f4669c4000e.subagent.ts","id":"01a0e29f-1279-72c9-bae3-9ef11e534138"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-aa9f096fcd83c5ecd/astra-aa9f096fcd83c5ecd.subagent.ts","id":"01a0e29e-8ba7-728d-ad76-a1e37ad3040e"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-abb584dc30798827f/astra-abb584dc30798827f.subagent.ts","id":"01a0e2ac-95da-7ac6-8537-a915de01a222"}
-{"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-abd955a6919192fcd/astra-abd955a6919192fcd.subagent.ts","id":"01a0e29e-66cf-726b-a819-de7b23b77878"}
 {"propertySlug":"subagent-kind","path":"agent/subagent/pages/astra-ad9740a23286208d9/astra-ad9740a23286208d9.subagent.ts","id":"01a0e2ac-3a8e-78eb-b126-5d842fac6f94"}
