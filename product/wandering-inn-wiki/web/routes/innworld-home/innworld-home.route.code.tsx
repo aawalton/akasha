@@ -3,6 +3,16 @@ import {
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { Icon } from "akasha/design/interface/pattern/modules/lucide-icon/lucide-icon.module.code.tsx"
+import { innworldWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/innworld-web.web-app.ts"
+import {
+  type DocumentData,
+  loaderAt,
+  metaFor,
+  SITE_DOCUMENT,
+} from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
+import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { MarkdownRenderer } from "akasha/page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx"
+import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import type { ShownType } from "akasha/product/wandering-inn-wiki/web/modules/innworld-reading/innworld-reading.module.code.ts"
 import {
   type Shelved,
@@ -13,16 +23,16 @@ import { Link, useRouteLoaderData } from "react-router"
 
 const FRAME = "routes/_app-layout"
 
-const AUTHOR = "https://wanderinginn.com"
+const READ = [SITE_DOCUMENT]
 
 type FrameData = {
   readonly shownTypes: readonly ShownType[]
   readonly navItems: readonly Readonly<Record<string, unknown>>[]
 }
 
-export function meta() {
-  return [{ title: "Innworld" }]
-}
+export const loader = loaderAt(namedAs("web-app", innworldWeb.slug, null), "")
+
+export const meta = metaFor(null)
 
 function Entry({ one }: { one: Shelved }) {
   return (
@@ -40,7 +50,8 @@ function Entry({ one }: { one: Shelved }) {
   )
 }
 
-export default function InnworldHome() {
+export default function InnworldHome({ loaderData: { document } }: { loaderData: DocumentData }) {
+  useLoaderFollowing(READ)
   const loaderData = useRouteLoaderData<FrameData>(FRAME)
   const shelves = useMemo(
     () => shelvesOf(loaderData?.navItems ?? [], loaderData?.shownTypes ?? []),
@@ -49,16 +60,18 @@ export default function InnworldHome() {
   return (
     <PageLayout>
       <PageLayout.Header>
-        <PageTitle>Innworld</PageTitle>
+        <PageTitle>{document.title}</PageTitle>
       </PageLayout.Header>
       <PageLayout.Content>
-        <p className="text-secondary">
-          A fan wiki of The Wandering Inn, whose characters and world belong to{" "}
-          <a className="underline" href={AUTHOR}>
-            pirateaba
-          </a>
-          .
-        </p>
+        {document.sections.map((section) =>
+          section.text === null ? null : (
+            <MarkdownRenderer
+              key={section.anchor}
+              content={section.text}
+              className="text-secondary [&_a]:underline"
+            />
+          )
+        )}
         <div className="mt-6 space-y-6">
           {shelves.map((shelf) => (
             <section key={shelf.heading ?? `loose-${shelf.under[0]?.href ?? ""}`}>
