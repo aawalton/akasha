@@ -5,6 +5,8 @@ export const ancestralHighElf = {
   type: "page-type/temper-motif-style",
   slug: "ancestral-high-elf",
   title: "Ancestral High Elf",
+  esoItemStyleId: 104,
+  styleName: "Ancestral High Elf",
   collectionIndex: 73,
   sourceDescription: "Treasure maps and antiquities (AD zones)",
 } as const satisfies TemperMotifStyle
