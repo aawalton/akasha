@@ -95,6 +95,21 @@ test("the game master's beats land on the turn and tell the writer the lore to r
   expect(into.stops).toEqual([])
 })
 
+test("the lore in play is looked up from the lore and the characters the turn itself names", async () => {
+  const asked: (readonly string[])[] = []
+  const turn = turnAt("game-master", { lore: ["lore/grace"] })
+  const reach: Reach = {
+    ...reachOver(turn, seatOf("game-master", MASTER), seen()),
+    loreOf: (_root, stated, characters) => {
+      asked.push(stated, characters)
+      return []
+    },
+  }
+  const answer = await advancedBy(["--beats-file", join(ROOT, "beats.txt")], reach)
+  expect(answer.refusals).toEqual([])
+  expect(asked).toEqual([["lore/grace"], []])
+})
+
 test("the last reviewer's clean review starts the recorders and stops the reviewer's seat", async () => {
   const into = seen()
   const turn = turnAt("reviewers", { reviewedBy: ["story-reviewer/voice"], prose: "txt" })
@@ -170,7 +185,7 @@ test("the writer's first prose lands beside the turn and starts one fresh seat f
   expect(prompt).toContain(AT)
   expect(prompt).toContain("its prose")
   expect(prompt).toContain("reviewers/continuity.story-reviewer.instructions.md")
-  expect(prompt).toContain(`The lore about the turn's characters is on \`${MARA_LORE}\`.`)
+  expect(prompt).toContain(`The lore in play on the turn is on \`${MARA_LORE}\`.`)
   expect(prompt).toContain(
     `${CALLED} --turn story-turn-played/${SLUG} --reviewer continuity --issues-file <path>`
   )

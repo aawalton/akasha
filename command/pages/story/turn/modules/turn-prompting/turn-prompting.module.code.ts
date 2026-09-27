@@ -29,7 +29,7 @@ const PATH = "<path>"
 
 export function loreLine(lore: readonly string[]): string {
   const named = lore.map((one) => `\`${one}\``).join(", ")
-  return `The lore about the turn's characters is on ${named}. Read each of those pages whole first, since any of them can settle what the turn may say.`
+  return `The lore in play on the turn is on ${named}. Read each of those pages whole first, since any of them can settle what the turn may say.`
 }
 
 function loreSaid(lore: readonly string[]): readonly string[] {

@@ -17,8 +17,7 @@ export const turnPrompting = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A reviewer's prompt names every lore page about the turn's characters or their personas.",
+      statement: "A reviewer's prompt names the lore in play on the turn.",
     },
     {
       decisionKind: "decision-kind/departure",

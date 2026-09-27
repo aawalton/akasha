@@ -77,7 +77,7 @@ export function gameMasterIn(root: string, agentId: string | null): boolean {
   return HELD_ROLES.some((one) => idsNaming(root, one, role.propertySlug).includes(seat))
 }
 
-function pathOf(root: string, about: string): string | null {
+export function pathOf(root: string, about: string): string | null {
   const address = addressIn(about)
   if (address.kind !== "qualified") return null
   return listedAt(root, address.pageTypeSlug, address.slug)[0]?.path ?? null

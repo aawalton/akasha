@@ -362,7 +362,7 @@ async function advancedOn(
       calledAs: given.calledAs,
       lore: reach.loreOf(
         given.root,
-        held.game,
+        stringsIn(said.values[LORE] ?? turn.value[LORE]),
         stringsIn(said.values[CHARACTERS] ?? turn.value[CHARACTERS])
       ),
     },

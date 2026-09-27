@@ -14,7 +14,6 @@ import {
   sweptAll,
 } from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
-import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import {
   ADDED,
   type Adding,
@@ -52,7 +51,10 @@ import { ACTION_BAR_PLAYER } from "akasha/story/engine/core/modules/action-bar-m
 import { lore } from "akasha/story/lore/lore.page-type.ts"
 import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
 import { changedLoreOfSeat } from "akasha/story/lore-disclosure/modules/lore-rereading/lore-rereading.module.code.ts"
-import { withheldIn } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
+import {
+  pathOf,
+  withheldIn,
+} from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import { storyRecorderInstructions } from "akasha/story/recorder/properties/story-recorder-instructions.file-property.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewerInstructions } from "akasha/story/reviewer/properties/story-reviewer-instructions.file-property.ts"
@@ -98,10 +100,6 @@ const GAME_STATED = "domain-slug"
 
 const PERSONA = "persona"
 
-const COLLECTIONS = "partOfCollections"
-
-const CHARACTERS = "characters"
-
 export type Turn = { readonly at: string; readonly slug: string; readonly value: Value }
 
 export type Seated = {
@@ -136,7 +134,11 @@ export type Reach = {
   readonly start: (starting: Starting, done: string[]) => Promise<string>
   readonly stop: (root: string, seat: string) => undefined
   readonly notify: (to: string, body: string) => Promise<string | null>
-  readonly loreOf: (root: string, game: string, characters: readonly string[]) => readonly string[]
+  readonly loreOf: (
+    root: string,
+    stated: readonly string[],
+    characters: readonly string[]
+  ) => readonly string[]
   readonly changedLore: (root: string, seat: string) => readonly string[]
 }
 
@@ -261,24 +263,38 @@ function personaAt(root: string, character: string): string | null {
   return value === null ? null : textAt(value, PERSONA)
 }
 
-function castIndexed(root: string, game: string): readonly string[] {
-  const story = `${storyPlayed.slug}/${game}`
-  return valuesOfType(root, storyTurnPlayed.slug).flatMap((one) =>
-    stringsIn(one.value[COLLECTIONS]).includes(story) ? stringsIn(one.value[CHARACTERS]) : []
-  )
+export type LoreLooking = {
+  readonly pathOf: (page: string) => string | null
+  readonly personaOf: (character: string) => string | null
+  readonly about: Iterable<readonly [path: string, about: string | null]>
+  readonly withheld: readonly string[]
 }
 
-function loreIndexed(root: string, game: string, characters: readonly string[]): readonly string[] {
-  const cast = [...new Set([...characters, ...castIndexed(root, game)])]
-  const personas = cast.flatMap((one) => personaAt(root, one) ?? [])
-  const about = new Set([...cast, ...personas])
-  const withheld = withheldIn(root)
-  const found: string[] = []
-  for (const [path, value] of valuesByPath(root, lore.slug)) {
-    const said = textAt(value, loreAbout.propertySlug)
-    if (said !== null && about.has(said) && !withheld.includes(path)) found.push(path)
-  }
-  return found.sort()
+export function loreNamed(
+  stated: readonly string[],
+  characters: readonly string[],
+  look: LoreLooking
+): readonly string[] {
+  const about = new Set([...characters, ...characters.flatMap((one) => look.personaOf(one) ?? [])])
+  const found = new Set(stated.flatMap((one) => look.pathOf(one) ?? []))
+  for (const [path, said] of look.about) if (said !== null && about.has(said)) found.add(path)
+  return [...found].filter((path) => !look.withheld.includes(path)).sort()
+}
+
+function loreIndexed(
+  root: string,
+  stated: readonly string[],
+  characters: readonly string[]
+): readonly string[] {
+  const about = [...valuesByPath(root, lore.slug)].map(
+    ([path, value]) => [path, textAt(value, loreAbout.propertySlug)] as const
+  )
+  return loreNamed(stated, characters, {
+    pathOf: (page) => pathOf(root, page),
+    personaOf: (character) => personaAt(root, character),
+    about,
+    withheld: withheldIn(root),
+  })
 }
 
 function foldedOver(

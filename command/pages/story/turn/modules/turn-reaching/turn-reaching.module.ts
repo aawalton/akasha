@@ -6,6 +6,7 @@ export const turnReaching = {
   slug: "turn-reaching",
   definition: "what an advance or a rewind reads and does outside the turn's own landing",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
@@ -42,15 +43,28 @@ export const turnReaching = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The lore about a turn's characters is every unwithheld lore page about one or its persona.",
+        "The lore in play on a turn is the lore the turn names and the lore about its characters.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn's characters are those it names and those every turn of its story names.",
+      statement:
+        "The lore about a character is every lore page about that character or its persona.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A notice moving a turn to writer names the lore about the turn's characters.",
+      statement: "A turn's characters are only those the turn itself names.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No withheld lore page is named as lore in play.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A turn naming no lore and no character has no lore in play, and none is named.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A notice moving a turn to writer names the lore in play on the turn.",
     },
     {
       decisionKind: "decision-kind/departure",
