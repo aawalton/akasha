@@ -4,6 +4,7 @@ import type {
   MoveToDestination,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 
+const CHARACTER_PREFIX = "character:"
 const BY_PRIORITY_DESTINATION = "character:by-priority"
 
 interface StockSurplusTier {
@@ -13,6 +14,7 @@ interface StockSurplusTier {
 
 interface StockChainVisitPlan {
   readonly fillTargetQuantity: number
+  readonly fillCharacter: string | undefined
   readonly charEligibility: CharEligibility | undefined
   readonly surplusCascade: readonly StockSurplusTier[]
   readonly surplusDestination: MoveToDestination | undefined
@@ -22,7 +24,7 @@ export function planStockChainVisit(chain: DestinationChain): StockChainVisitPla
   let fillIndex = -1
   for (let i = 0; i < chain.length; i++) {
     const tier = chain[i]
-    if (tier !== undefined && tier.destination === BY_PRIORITY_DESTINATION) {
+    if (tier?.destination.startsWith(CHARACTER_PREFIX)) {
       fillIndex = i
       break
     }
@@ -42,10 +44,18 @@ export function planStockChainVisit(chain: DestinationChain): StockChainVisitPla
 
   return {
     fillTargetQuantity: fillTier.targetQuantity ?? 0,
+    fillCharacter:
+      fillTier.destination === BY_PRIORITY_DESTINATION
+        ? undefined
+        : fillTier.destination.substring(CHARACTER_PREFIX.length),
     charEligibility: fillTier.charEligibility,
     surplusCascade,
     surplusDestination: surplusCascade[0]?.destination,
   }
+}
+
+export function chainFillsCharacter(plan: StockChainVisitPlan, charId: string): boolean {
+  return plan.fillCharacter === undefined || plan.fillCharacter === charId
 }
 
 export function stockChainTarget(
@@ -55,7 +65,8 @@ export function stockChainTarget(
   if (chain === undefined) return undefined
   const plan = planStockChainVisit(chain)
   if (plan === undefined) return undefined
-  let target = plan.fillTargetQuantity * eligibleCharacters
+  const filled = plan.fillCharacter === undefined ? eligibleCharacters : 1
+  let target = plan.fillTargetQuantity * filled
   for (const tier of plan.surplusCascade) {
     if (tier.cap !== undefined) target += tier.cap
   }

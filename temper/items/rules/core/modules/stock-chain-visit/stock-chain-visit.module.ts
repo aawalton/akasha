@@ -6,10 +6,23 @@ export const stockChainVisit = {
   slug: "stock-chain-visit",
   definition: "what a single visit to a storage chain fills first and where the surplus cascades",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chain naming no by-priority tier answers no visit plan.",
+      statement: "A chain's fill tier is its first tier sending to a character.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fill tier sends to characters by priority or to one character it names.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fill tier naming a character fills that character and no other.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chain with no fill tier answers no visit plan.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -18,16 +31,15 @@ export const stockChainVisit = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A chain's target is the by-priority leg's quantity times the characters that leg takes.",
+        "A chain's target is the fill tier's quantity times the characters that tier takes.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Each leg after the by-priority leg adds its quantity, and a leg with none adds 0.",
+      statement: "Each tier after the fill tier adds its quantity, and a tier with none adds 0.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chain with no by-priority leg has no target.",
+      statement: "A chain with no fill tier has no target.",
     },
   ],
 } as const satisfies Module

@@ -16,7 +16,10 @@ import type {
   DestinationChain,
   ItemAction,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { planStockChainVisit } from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
+import {
+  chainFillsCharacter,
+  planStockChainVisit,
+} from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
 import { planUseDestinationsForStack } from "akasha/temper/items/rules/core/modules/use-destination-resolver/use-destination-resolver.module.code.ts"
 import {
   type CharacterId,
@@ -213,7 +216,9 @@ function resolveStockChainForCurrentChar(
   const plan = planStockChainVisit(chain)
   if (plan === undefined) return undefined
 
-  const eligible = currentCharPassesEligibility(plan.charEligibility)
+  const eligible =
+    chainFillsCharacter(plan, tostring(GetCurrentCharacterId())) &&
+    currentCharPassesEligibility(plan.charEligibility)
   return {
     destination: plan.surplusDestination,
     targetQuantity: eligible ? plan.fillTargetQuantity : 0,

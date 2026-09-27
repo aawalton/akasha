@@ -19,6 +19,10 @@ export const inventoryRulesEvalAllocation = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A leg naming a character stocks that character alone, at every storage visit.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A use allocation counts the copies other characters' captures hold.",
     },
     {
