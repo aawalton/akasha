@@ -6,4 +6,11 @@ export const companionSkillSelectDialog = {
   slug: "companion-skill-select-dialog",
   definition: "the dialog for choosing a companion skill",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The skills offered are drawn again whenever the companion catalogue is read again.",
+    },
+  ],
 } as const satisfies Module

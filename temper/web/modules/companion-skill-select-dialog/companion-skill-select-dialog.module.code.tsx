@@ -20,6 +20,7 @@ import {
   type FilterableSelectDialogConfig,
   type FilterableSelectDialogItem,
 } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useMemo } from "react"
 
 interface CompanionSkillItem extends FilterableSelectDialogItem {
@@ -73,6 +74,7 @@ export function CompanionSkillSelectDialog({
   editingSlotId,
   onSelect,
 }: CompanionSkillSelectDialogProps) {
+  const catalog = useHeldCompanionCatalog()
   const { categories, allItems } = useMemo(() => {
     if (companionId === "no-companion") {
       return { categories: [], allItems: [] }
@@ -145,7 +147,7 @@ export function CompanionSkillSelectDialog({
     }
 
     return { categories: resultCategories, allItems: items }
-  }, [companionId, isUltimate, selectedSkills, editingSlotId, equipment])
+  }, [companionId, isUltimate, selectedSkills, editingSlotId, equipment, catalog])
 
   const config: FilterableSelectDialogConfig<CompanionSkillItem> = useMemo(
     () => ({
@@ -179,7 +181,7 @@ export function CompanionSkillSelectDialog({
         )
       },
     }),
-    [title, categories, allItems, stats]
+    [title, categories, allItems, stats, catalog]
   )
 
   const handleSelect = (itemId: CompanionSkillId) => {
