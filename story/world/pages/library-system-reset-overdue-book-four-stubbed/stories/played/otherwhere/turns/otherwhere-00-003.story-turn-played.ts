@@ -31,4 +31,5 @@ export const otherwhere00003 = {
   issues: ['"low and patient, as if it\'s waiting" - No Prompt'],
   lore: ["place/otherwhere-core-chamber"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
