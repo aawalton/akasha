@@ -1,4 +1,5 @@
 import type { CategoryPath } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import type { OwnItemValues } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 
 export interface InventoryItemRow {
   key: string
@@ -7,6 +8,7 @@ export interface InventoryItemRow {
   itemLink?: string
   enchantHeader?: string
   enchantDescription?: string
+  ownValues?: OwnItemValues
   requiredLevel?: number
   stackCount: number
   value: number | undefined

@@ -32,6 +32,7 @@ export const temperItemsCore = {
     "module/inventory-parser",
     "module/inventory-parser-account-state",
     "module/inventory-parser-inference",
+    "module/inventory-parser-own-link",
     "module/inventory-safety-types",
     "module/inventory-type-tree-builder",
     "module/inventory-types",

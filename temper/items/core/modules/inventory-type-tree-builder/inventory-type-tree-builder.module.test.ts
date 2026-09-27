@@ -75,6 +75,17 @@ test("a leaf's tooltip carries the enchant its own slot was read with", () => {
   expect(leaf.tooltipInstance?.enchantDescription).toBe("Deals |cffffff1124|r Physical Damage.")
 })
 
+test("a leaf's tooltip carries the values its own slot's link was read with", () => {
+  const entry = entryOf("a", MACE_LINK)
+  entry.row.ownValues = { requiredLevel: 50, requiredCp: 160, weaponPower: 1335 }
+  const leaf = leafOf(buildInventoryTypeNodes([entry], "Equipment", {})[0])
+  expect(leaf.tooltipInstance?.own).toEqual({
+    requiredLevel: 50,
+    requiredCp: 160,
+    weaponPower: 1335,
+  })
+})
+
 test("slots with no link still fold together, with no tooltip to open", () => {
   const [built] = buildInventoryTypeNodes(
     [entryOf("a", undefined), entryOf("b", undefined)],

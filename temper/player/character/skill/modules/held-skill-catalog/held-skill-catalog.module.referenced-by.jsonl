@@ -58,6 +58,7 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/command/modules/inventory-rule-calling/inventory-rule-calling.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/command/modules/inventory-settings-handle/inventory-settings-handle.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/rules/core/modules/buy-rule-pages/buy-rule-pages.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.test.ts","typed":false,"deferred":false}

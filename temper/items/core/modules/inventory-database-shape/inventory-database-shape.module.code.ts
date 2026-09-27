@@ -1,5 +1,13 @@
 import { z } from "zod"
 
+const setBonusSchema = z
+  .object({
+    numRequired: z.number(),
+    description: z.string(),
+    isPerfected: z.boolean(),
+  })
+  .strict()
+
 const itemSchema = z
   .object({
     itemId: z.number(),
@@ -20,6 +28,13 @@ const itemSchema = z
     isContainer: z.boolean().optional(),
     enchantHeader: z.string().optional(),
     enchantDescription: z.string().optional(),
+    weaponPower: z.number().optional(),
+    armorRating: z.number().optional(),
+    traitDescription: z.string().optional(),
+    abilityHeader: z.string().optional(),
+    abilityDescription: z.string().optional(),
+    abilityCooldown: z.number().optional(),
+    setBonuses: z.array(setBonusSchema).optional(),
     requiredLevel: z.number(),
     requiredCP: z.number(),
     stackCount: z.number(),

@@ -5495,6 +5495,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-node-types/inventory-node-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-parser-account-state/inventory-parser-account-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-parser-inference/inventory-parser-inference.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-parser-own-link/inventory-parser-own-link.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-safety-types/inventory-safety-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.ts","typed":true,"deferred":false}

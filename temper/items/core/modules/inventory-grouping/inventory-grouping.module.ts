@@ -6,4 +6,15 @@ export const inventoryGrouping = {
   slug: "inventory-grouping",
   definition: "everything an account holds filed by where it sits or what it is",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row carries the values its slot's own link was read with, for its tooltip.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot's trait type goes to the tooltip only with the trait text read with it.",
+    },
+  ],
 } as const satisfies Module

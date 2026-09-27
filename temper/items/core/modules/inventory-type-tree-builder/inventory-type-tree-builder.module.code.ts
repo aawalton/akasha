@@ -60,6 +60,7 @@ function giveTooltip(
     instance.enchantHeader = row.enchantHeader
     instance.enchantDescription = row.enchantDescription
   }
+  if (row.ownValues !== undefined) instance.own = row.ownValues
   node.tooltipInstance = instance
   return undefined
 }

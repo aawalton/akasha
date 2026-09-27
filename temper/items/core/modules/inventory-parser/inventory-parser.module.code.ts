@@ -14,6 +14,7 @@ import {
   inferCompanionProperties,
   inferPlayerArmorProperties,
 } from "akasha/temper/items/core/modules/inventory-parser-inference/inventory-parser-inference.module.code.ts"
+import { parseOwnLinkValues } from "akasha/temper/items/core/modules/inventory-parser-own-link/inventory-parser-own-link.module.code.ts"
 import type {
   CharacterCurrencies,
   CurrencyBalances,
@@ -148,6 +149,7 @@ function parseItem(raw: unknown): InventoryItemData | undefined {
     parsed.enchantHeader = enchantHeader
     parsed.enchantDescription = enchantDescription
   }
+  parseOwnLinkValues(item, parsed)
   if (typeof item.junk === "boolean") parsed.junk = item.junk
   if (typeof item.junkable === "boolean") parsed.junkable = item.junkable
 

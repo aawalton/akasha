@@ -13,7 +13,26 @@ export interface ItemTooltipInstance {
   charges: number
   enchantHeader?: string
   enchantDescription?: string
+  own?: OwnItemValues
 }
+
+export type OwnItemValues = Partial<
+  Pick<
+    MinedItemData,
+    | "requiredLevel"
+    | "requiredCp"
+    | "merchantValue"
+    | "weaponPower"
+    | "armorRating"
+    | "traitType"
+    | "traitDescription"
+    | "hasOnUseAbility"
+    | "abilityHeader"
+    | "abilityDescription"
+    | "abilityCooldown"
+    | "setBonuses"
+  >
+>
 
 export interface MinedItemData {
   itemId: number
@@ -83,12 +102,20 @@ function withOwnEnchant(
   return { ...reference, enchantHeader, enchantDescription }
 }
 
+function withOwnValues(
+  reference: MinedItemData | null,
+  own: OwnItemValues | undefined
+): MinedItemData | null {
+  if (reference === null || own === undefined) return reference
+  return { ...reference, ...own }
+}
+
 export function resolveItemTooltipData(
   reference: MinedItemData | null,
   instance: ItemTooltipInstance
 ): ItemTooltipData {
   return {
-    referenceData: withOwnEnchant(reference, instance),
+    referenceData: withOwnValues(withOwnEnchant(reference, instance), instance.own),
     quality: instance.quality,
     level: instance.level,
     bound: instance.bound,

@@ -20,5 +20,13 @@ export const itemTooltipTypes = {
       decisionKind: "decision-kind/departure",
       statement: "An enchant read off the item's own link replaces the one its bare id gave.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each value read off the item's own link replaces the one its bare id gave.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value the item's own link was not read for keeps the one its bare id gave.",
+    },
   ],
 } as const satisfies Module

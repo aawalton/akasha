@@ -12,12 +12,14 @@ import {
 } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type {
   InventoryDatabase,
+  InventoryItemData,
   InventoryLocationData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type {
   CategoryPath,
   ItemCategoryRoots,
 } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import type { OwnItemValues } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import {
   classifyLocation,
@@ -119,6 +121,27 @@ function sumBagSizes(bagSizes: Record<number, number> | undefined): number | und
   return total
 }
 
+export function ownValuesOf(item: InventoryItemData): OwnItemValues | undefined {
+  const own: OwnItemValues = {}
+  if (item.requiredLevel > 0) own.requiredLevel = item.requiredLevel
+  if (item.requiredCP > 0) own.requiredCp = item.requiredCP
+  if (item.merchantValue !== undefined) own.merchantValue = item.merchantValue
+  if (item.weaponPower !== undefined) own.weaponPower = item.weaponPower
+  if (item.armorRating !== undefined) own.armorRating = item.armorRating
+  if (item.traitDescription !== undefined) {
+    own.traitType = item.traitType
+    own.traitDescription = item.traitDescription
+  }
+  if (item.abilityHeader !== undefined && item.abilityDescription !== undefined) {
+    own.hasOnUseAbility = true
+    own.abilityHeader = item.abilityHeader
+    own.abilityDescription = item.abilityDescription
+    own.abilityCooldown = item.abilityCooldown ?? 0
+  }
+  if (item.setBonuses !== undefined) own.setBonuses = item.setBonuses
+  return Object.keys(own).length > 0 ? own : undefined
+}
+
 function flattenLocationItems(
   locationKey: string,
   location: InventoryLocationData
@@ -159,6 +182,8 @@ function flattenLocationItems(
       if (item.suggestedPrice !== undefined) row.suggestedPrice = item.suggestedPrice
       if (item.enchantHeader !== undefined) row.enchantHeader = item.enchantHeader
       if (item.enchantDescription !== undefined) row.enchantDescription = item.enchantDescription
+      const ownValues = ownValuesOf(item)
+      if (ownValues !== undefined) row.ownValues = ownValues
       items.push(row)
     }
   }

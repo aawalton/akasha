@@ -66,3 +66,28 @@ test("an item's own enchant replaces the enchant read off its bare item id", () 
 test("an item read with no enchant of its own keeps the enchant its item id was read with", () => {
   expect(resolveItemTooltipData(MINED, INSTANCE).referenceData).toBe(MINED)
 })
+
+test("the values read off an item's own link replace the level-0 values read off its bare id", () => {
+  const bonuses = [{ numRequired: 2, description: "Adds 1096 Max Stamina.", isPerfected: false }]
+  const owned = resolveItemTooltipData(MINED, {
+    ...INSTANCE,
+    own: {
+      requiredLevel: 50,
+      requiredCp: 160,
+      merchantValue: 26,
+      weaponPower: 1335,
+      traitType: 2,
+      traitDescription: "Increases Enchantment charges by |cffffff4|r.",
+      setBonuses: bonuses,
+    },
+  }).referenceData
+  expect(owned?.requiredLevel).toBe(50)
+  expect(owned?.requiredCp).toBe(160)
+  expect(owned?.merchantValue).toBe(26)
+  expect(owned?.weaponPower).toBe(1335)
+  expect(owned?.traitType).toBe(2)
+  expect(owned?.traitDescription).toBe("Increases Enchantment charges by |cffffff4|r.")
+  expect(owned?.setBonuses).toBe(bonuses)
+  expect(owned?.name).toBe("Savage Werewolf's Mace")
+  expect(MINED.weaponPower).toBe(0)
+})

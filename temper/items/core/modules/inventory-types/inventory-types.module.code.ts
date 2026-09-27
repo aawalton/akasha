@@ -1,3 +1,5 @@
+import type { SetBonusEntry } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
+
 export const ESO_ITEMTYPE_RECIPE = 29
 
 export const ESO_SPECIALIZED_ITEMTYPE_MOTIF_CHAPTER = 61
@@ -46,6 +48,13 @@ export interface InventoryItemData {
   isContainer?: boolean
   enchantHeader?: string
   enchantDescription?: string
+  weaponPower?: number
+  armorRating?: number
+  traitDescription?: string
+  abilityHeader?: string
+  abilityDescription?: string
+  abilityCooldown?: number
+  setBonuses?: SetBonusEntry[]
   requiredLevel: number
   requiredCP: number
   stackCount: number
