@@ -22,4 +22,5 @@ export const otherwhere00036 = {
     '"The wardrobe has an old Librarian\'s robes. Better than that," he says, eyeing her bloody shirt.',
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
