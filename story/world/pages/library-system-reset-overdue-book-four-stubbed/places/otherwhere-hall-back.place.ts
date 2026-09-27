@@ -274,10 +274,7 @@ export const otherwhereHallBack = {
       fact: "With salted hands Nala gripped the second bookworm behind its mouth and pinned it on the salt line.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The pinned second bookworm is shrunken and nearly dried, but not yet still.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Nala scooped salt from beside the gap, widening it past the width of her forearm.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
