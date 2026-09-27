@@ -5001,6 +5001,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids/status-effect-type-ids.data-table.ts","id":"01a0e0b6-d3f1-73ff-9c48-368add0ffd40"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-scope/modules/target-scope-ids-keeping/target-scope-ids-keeping.change-generator.ts","id":"01a0e0b7-bac5-75a0-b114-6ba6dc4e4834"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-scope/modules/target-scope-ids/target-scope-ids.data-table.ts","id":"01a0e0b7-bac6-7e7e-bcc4-af5e8716df4c"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids-keeping/target-type-ids-keeping.change-generator.ts","id":"01a0e0b8-1629-77ee-bb85-17302aa960ea"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids/target-type-ids.data-table.ts","id":"01a0e0b8-162a-7d51-9d4b-c85c0efecf9c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.ts","id":"01a060b8-08c6-7141-8b6e-044cf34927d5"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.ts","id":"01a0610f-45b9-7cd1-b86c-956394916d9b"}

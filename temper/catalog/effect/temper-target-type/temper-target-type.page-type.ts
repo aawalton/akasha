@@ -7,6 +7,7 @@ export const temperTargetType = {
   definition: "an ability's target",
   extends: ["page-type/temper-catalog-thing"],
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
+  parts: ["change-generator/target-type-ids-keeping", "data-table/target-type-ids"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
