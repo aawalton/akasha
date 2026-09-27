@@ -1,7 +1,10 @@
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type { CompletionCharacter } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { characterLevelPanelCardLevel } from "akasha/temper/web/phrase/pages/character-level-panel-card-level.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -30,6 +33,7 @@ export function CharacterLevelPanelCard({
   sortMode,
   sortDirection,
 }: CharacterLevelPanelCardProps) {
+  const phrase = usePhrase()
   if (characters.length === 0) return null
 
   const isAggregate = selectedCharacterIds.length === 0
@@ -44,12 +48,14 @@ export function CharacterLevelPanelCard({
     total: c.maxLevel,
   }))
 
-  const items: CompletionNode[] = [{ key: "level", label: "Level", children: characterNodes }]
+  const items: CompletionNode[] = [
+    { key: "level", label: phrase(characterLevelPanelCardLevel.slug), children: characterNodes },
+  ]
 
   return (
     <CompletionPanelCard
       id={id}
-      title="Character Level"
+      title={completionCardTitle("characters", "character-level")}
       items={withActivityCategories(items, "characters")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

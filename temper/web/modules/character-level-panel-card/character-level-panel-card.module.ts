@@ -6,4 +6,11 @@ export const characterLevelPanelCard = {
   slug: "character-level-panel-card",
   definition: "each selected character's level against the cap",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its title is its completion category page's, and its row label a web phrase page's.",
+    },
+  ],
 } as const satisfies Module

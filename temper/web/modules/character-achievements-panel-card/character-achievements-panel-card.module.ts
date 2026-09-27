@@ -17,5 +17,9 @@ export const characterAchievementsPanelCard = {
       statement:
         "The achievement tally is built from the achievement-category catalog by the caller.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from the character achievements completion category page.",
+    },
   ],
 } as const satisfies Module

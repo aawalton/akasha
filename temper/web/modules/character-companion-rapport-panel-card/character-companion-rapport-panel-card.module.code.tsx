@@ -3,6 +3,7 @@ import type { SortDirection } from "akasha/design/interface/pattern/modules/sort
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type {
   CharacterCompanionRapportProgress,
   CompletionCharacter,
@@ -46,6 +47,7 @@ export function CharacterCompanionRapportPanelCard({
 
   const charNames = new Map(characters.map((c) => [c.id, c.name]))
   const filterNode = createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])
+  const title = completionCardTitle("characters", "companion-rapport-character")
 
   if (isAggregate && selectedProgress.length > 1) {
     const rapportLookup = new Map<string, Map<string, number>>()
@@ -92,7 +94,7 @@ export function CharacterCompanionRapportPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Companion Rapport"
+        title={title}
         items={withActivityCategories(items, "companions")}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -115,7 +117,7 @@ export function CharacterCompanionRapportPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Companion Rapport"
+      title={title}
       items={withActivityCategories(items, "companions")}
       filterNode={filterNode}
       sortMode={sortMode}

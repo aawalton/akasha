@@ -7,6 +7,7 @@ import type {
   CharacterAchievementProgressResult,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-achievement-progress/completion-achievement-progress.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type { CompletionCharacter } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import {
   type CompletionFilter,
@@ -48,6 +49,7 @@ export function CharacterAchievementsPanelCard({
 
   const charNames = new Map(characters.map((c) => [c.id, c.name]))
   const filterNode = createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])
+  const title = completionCardTitle("characters", "character-achievements")
 
   if (isAggregate && selectedProgress.length > 1) {
     const progressLookup = new Map<
@@ -138,7 +140,7 @@ export function CharacterAchievementsPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Achievements"
+        title={title}
         items={items}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -183,7 +185,7 @@ export function CharacterAchievementsPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Achievements"
+      title={title}
       items={items}
       filterNode={filterNode}
       sortMode={sortMode}
