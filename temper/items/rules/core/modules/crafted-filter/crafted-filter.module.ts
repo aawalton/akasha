@@ -4,7 +4,7 @@ export const craftedFilter = {
   id: "01a06100-3be9-72bb-ae2f-272ecba3d354",
   type: "page-type/module",
   slug: "crafted-filter",
-  definition: "the Crafted Status condition a rule may carry, as the rule editor offers it",
+  definition: "the `crafted` condition a rule may carry, as the rule editor offers it",
   code: "ts",
   decisions: [
     {
@@ -14,11 +14,15 @@ export const craftedFilter = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A category outside the 8 roots named in the code is offered no Crafted Status condition.",
+        "A category outside the 8 roots named in the code is offered no `crafted` condition.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rule with the `stolen` condition is offered no Crafted Status condition.",
+      statement: "A rule with the `stolen` condition is offered no `crafted` condition.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter is shown under its condition field page's title.",
     },
   ],
 } as const satisfies Module

@@ -25,7 +25,6 @@ const read = (c: CategoryRule["conditions"]) => c?.crafted
 
 export const CRAFTED_FILTER: InventoryRuleFilter = {
   id: "crafted",
-  label: "Crafted Status",
   priority: 2,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, CRAFTED_ELIGIBLE_ROOTS, "opt-in", categories),

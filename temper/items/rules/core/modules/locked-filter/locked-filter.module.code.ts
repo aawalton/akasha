@@ -13,7 +13,6 @@ const read = (c: CategoryRule["conditions"]) => c?.locked
 
 export const LOCKED_FILTER: InventoryRuleFilter = {
   id: "locked",
-  label: "Lock Status",
   priority: 0,
   isEligible: () => true,
   mutuallyExclusive: [],

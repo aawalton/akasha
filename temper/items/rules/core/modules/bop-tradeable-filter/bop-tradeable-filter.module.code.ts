@@ -13,7 +13,6 @@ const read = (c: CategoryRule["conditions"]) => c?.bopTradeable
 
 export const BOP_TRADEABLE_FILTER: InventoryRuleFilter = {
   id: "bop-tradeable",
-  label: "BoP-Tradeable Status",
   priority: 0,
   isEligible: () => true,
   mutuallyExclusive: [],

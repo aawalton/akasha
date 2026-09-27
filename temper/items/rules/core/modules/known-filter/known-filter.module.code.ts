@@ -16,7 +16,6 @@ const read = (c: CategoryRule["conditions"]) => c?.known
 
 export const KNOWN_FILTER: InventoryRuleFilter = {
   id: "known",
-  label: "Known Status",
   priority: 0,
   isEligible: (categoryId, categories) =>
     checkAncestorRoots(categoryId, KNOWN_ELIGIBLE_ROOTS, "opt-in", categories),
