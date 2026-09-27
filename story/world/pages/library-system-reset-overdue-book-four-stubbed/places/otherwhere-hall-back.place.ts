@@ -300,7 +300,7 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Two dried bookworm coils lie in the broken remains of Nala's salt oval.",
+      fact: "In the broken salt oval, one dried bookworm coil lies under Nala and the other beside her.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
