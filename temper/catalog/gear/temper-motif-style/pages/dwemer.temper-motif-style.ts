@@ -6,6 +6,7 @@ export const dwemer = {
   slug: "dwemer",
   title: "Dwemer",
   esoItemStyleId: 14,
+  styleName: "Dwemer",
   collectionIndex: 2,
   sourceDescription: "Dwemer containers throughout Tamriel",
 } as const satisfies TemperMotifStyle
