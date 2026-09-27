@@ -5,8 +5,8 @@ export const mercenary = {
   type: "page-type/temper-motif-style",
   slug: "mercenary",
   title: "Mercenary",
-  esoItemStyleId: 18,
-  styleName: "Bandit",
+  esoItemStyleId: 26,
+  styleName: "Mercenary",
   collectionIndex: 7,
   sourceDescription: "Undaunted Coffers",
 } as const satisfies TemperMotifStyle
