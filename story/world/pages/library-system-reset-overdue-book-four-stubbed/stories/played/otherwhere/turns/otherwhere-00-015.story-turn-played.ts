@@ -14,7 +14,7 @@ export const otherwhere00015 = {
     "character-other/otherwhere-links",
     "character-other/otherwhere-engorged-bookworm-01",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I push it over onto the salt and hold it there",
   beats: [
     "She drops down and grabs the bookworm behind its head, where the salt has dried its skin rough.",
@@ -29,5 +29,5 @@ export const otherwhere00015 = {
     "Its skin crackles faintly under her palms as the salt goes on drying it.",
   ],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
