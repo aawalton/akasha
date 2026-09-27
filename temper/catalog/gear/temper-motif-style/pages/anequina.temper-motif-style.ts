@@ -5,6 +5,8 @@ export const anequina = {
   type: "page-type/temper-motif-style",
   slug: "anequina",
   title: "Anequina",
+  esoItemStyleId: 84,
+  styleName: "Anequina",
   collectionIndex: 59,
   sourceDescription: "World Boss/Delve dailies (Northern Elsweyr)",
   dropSources: [
