@@ -5,6 +5,8 @@ export const silverDawn = {
   type: "page-type/temper-motif-style",
   slug: "silver-dawn",
   title: "Silver Dawn",
+  esoItemStyleId: 78,
+  styleName: "Silver Dawn",
   collectionIndex: 52,
   sourceDescription: "Moon Hunter Keep dungeon",
 } as const satisfies TemperMotifStyle
