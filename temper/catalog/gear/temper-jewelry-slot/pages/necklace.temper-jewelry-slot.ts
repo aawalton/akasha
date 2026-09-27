@@ -9,4 +9,5 @@ export const necklace = {
   icon: "/resources/gearslot_neck.png",
   displayOrder: 0,
   jewelryType: "temper-jewelry-type/necklace",
+  hashPlace: 0,
 } as const satisfies TemperJewelrySlot

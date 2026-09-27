@@ -5,6 +5,9 @@
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/effect/temper-curse/temper-curse.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-potion/temper-potion.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-quality/temper-quality.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-set/temper-set.page-type.types.ts","typed":true,"deferred":false}
@@ -26,6 +29,9 @@
 {"propertySlug":"page-property","path":"temper/catalog/companion/weapon-type/temper-companion-weapon-type.page-type.ts","id":"01a05fcd-aed1-71b0-8b8c-2b74e9a2d662"}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-curse/temper-curse.page-type.ts","id":"01a05fc5-94d2-7b6d-ac6a-2a3a21b68f41"}
 {"propertySlug":"page-property","path":"temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts","id":"01a05fc5-94d2-7de5-8850-22656966472e"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts","id":"01a05fd1-d432-7a5c-af26-2d6a3db12c15"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion/temper-potion.page-type.ts","id":"01a0e0a0-9199-7c1b-8a58-f31fdaa90b21"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-quality/temper-quality.page-type.ts","id":"01a05fd1-d43f-7460-806b-41a2697dcbed"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}

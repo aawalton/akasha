@@ -1,33 +1,38 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { JewelrySlotId as JewelrySlotPageSlug } from "akasha/temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.code.ts"
+import type { JewelryTypeId } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-types/jewelry-types.module.code.ts"
+import {
+  gearTableOf,
+  heldGearTable,
+  inGearOrder,
+  slugOf,
+} from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
+
+export type JewelrySlotId = JewelrySlotPageSlug
 
 interface JewelrySlotTemplate {
-  id: string
-  name: string
-  typeId: string
-  icon: string
+  readonly id: JewelrySlotId
+  readonly name: string
+  readonly typeId: JewelryTypeId
+  readonly icon: string
 }
 
-const JEWELRY_SLOT_DATA = {
-  "necklace": {
-    id: "necklace" as const,
-    name: "Necklace",
-    typeId: "necklace" as const,
-    icon: "/resources/gearslot_neck.png",
-  },
-  "ring-1": {
-    id: "ring-1" as const,
-    name: "Ring 1",
-    typeId: "ring" as const,
-    icon: "/resources/gearslot_ring.png",
-  },
-  "ring-2": {
-    id: "ring-2" as const,
-    name: "Ring 2",
-    typeId: "ring" as const,
-    icon: "/resources/gearslot_ring.png",
-  },
-} satisfies Record<string, JewelrySlotTemplate>
+type Row = Readonly<Record<string, unknown>>
 
-export const jewelrySlots = createDataFile<JewelrySlotTemplate>()(JEWELRY_SLOT_DATA)
+const held = heldGearTable<JewelrySlotId, JewelrySlotTemplate>("jewelry slots")
 
-export type JewelrySlotId = (typeof jewelrySlots.ids)[number]
+export const jewelrySlots = held.table
+
+export function holdJewelrySlots(pages: Iterable<Row>): undefined {
+  held.hold(
+    gearTableOf(
+      inGearOrder(pages, "hashPlace").map(
+        (row): JewelrySlotTemplate => ({
+          id: String(row.slug) as JewelrySlotId,
+          name: String(row.title),
+          typeId: slugOf(row.jewelryType) as JewelryTypeId,
+          icon: String(row.icon),
+        })
+      )
+    )
+  )
+}

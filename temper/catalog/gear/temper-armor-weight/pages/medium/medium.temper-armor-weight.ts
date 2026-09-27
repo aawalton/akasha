@@ -10,4 +10,6 @@ export const medium = {
   isStandard: true,
   skillLineId: "temper-skill-line/armor-medium-armor",
   craftedGlyphItemId: 26588,
+  hashPlace: 2,
+  armorType: 2,
 } as const satisfies TemperArmorWeight

@@ -8,4 +8,5 @@ export const waist = {
   key: "waist",
   icon: "/resources/gearslot_belt.png",
   displayOrder: 4,
+  hashPlace: 4,
 } as const satisfies TemperArmorSlot

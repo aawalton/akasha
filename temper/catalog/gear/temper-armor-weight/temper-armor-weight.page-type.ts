@@ -17,7 +17,24 @@ export const temperArmorWeight = {
     { pageProperty: "boolean-property/is-standard", required: true, many: false },
     { pageProperty: "relation-property/skill-line", required: true, many: false },
     { pageProperty: "number-property/crafted-glyph-item-id", required: false, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "number-property/armor-type", required: false, many: false },
+  ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A standard armor weight's hash place is the index a build hash has for it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weight states the armor type the game numbers it by, where it has one.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weight's armor value at each quality is a grade under the weight.",
+    },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

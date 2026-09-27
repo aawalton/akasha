@@ -11,6 +11,9 @@ export const armorSlots = {
       decisionKind: "decision-kind/constraint",
       statement: "An armor slot's place in this table is the index a build hash has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The armor slots are read from their pages in hash-place order.",
+    },
   ],
-  hashIndexed: ["ARMOR_SLOT_DATA"],
 } as const satisfies Module

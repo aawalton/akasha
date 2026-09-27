@@ -165,6 +165,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids-keeping/status-effect-type-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/effect/temper-target-scope/modules/target-scope-ids-keeping/target-scope-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/effect/temper-target-type/modules/target-type-ids-keeping/target-type-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids-keeping/gear-kind-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/gear/temper-quality/modules/quality-ids-keeping/quality-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/skill/line/modules/skill-line-ids-keeping/skill-line-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/skill/slot/modules/skill-slot-ids-keeping/skill-slot-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}

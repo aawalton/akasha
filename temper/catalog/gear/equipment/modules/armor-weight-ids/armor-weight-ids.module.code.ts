@@ -1,3 +1,8 @@
-export type ArmorWeightId = "no-weight" | "light" | "medium" | "heavy" | "shield"
+import type {
+  OtherArmorWeightId,
+  StandardArmorWeightId as StandardArmorWeightPageSlug,
+} from "akasha/temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.code.ts"
 
-export type StandardArmorWeightId = Exclude<ArmorWeightId, "shield">
+export type StandardArmorWeightId = StandardArmorWeightPageSlug
+
+export type ArmorWeightId = StandardArmorWeightId | OtherArmorWeightId

@@ -10,4 +10,6 @@ export const light = {
   isStandard: true,
   skillLineId: "temper-skill-line/armor-light-armor",
   craftedGlyphItemId: 26582,
+  hashPlace: 1,
+  armorType: 1,
 } as const satisfies TemperArmorWeight

@@ -1,6 +1,6 @@
-import { heavy } from "akasha/temper/catalog/gear/temper-armor-weight/pages/heavy.temper-armor-weight.ts"
-import { light } from "akasha/temper/catalog/gear/temper-armor-weight/pages/light.temper-armor-weight.ts"
-import { medium } from "akasha/temper/catalog/gear/temper-armor-weight/pages/medium.temper-armor-weight.ts"
+import { heavy } from "akasha/temper/catalog/gear/temper-armor-weight/pages/heavy/heavy.temper-armor-weight.ts"
+import { light } from "akasha/temper/catalog/gear/temper-armor-weight/pages/light/light.temper-armor-weight.ts"
+import { medium } from "akasha/temper/catalog/gear/temper-armor-weight/pages/medium/medium.temper-armor-weight.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
 
 export const ADDON_NAME = "TemperItemBrowser"

@@ -4,9 +4,9 @@ import { poisons } from "akasha/temper/catalog/alchemy/modules/poison-source/poi
 import { potions } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { championPoints } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 
-import { armorSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
+
 import { equipmentQualities } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
+
 import { armorTraits } from "akasha/temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts"
 import { jewelryTraits } from "akasha/temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts"
 import { weaponTraits } from "akasha/temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts"
@@ -41,12 +41,11 @@ import { vampireStages } from "akasha/temper/player/character/source/modules/vam
 
 
 
-export const armorSlotIds = armorSlots.ids
-const armorWeightIds = standardArmorWeights.ids
+
 const armorTraitIds = armorTraits.ids
 const armorEnchantIds = armorEnchants.ids
 
-export const jewelrySlotIds = jewelrySlots.ids
+
 const jewelryTraitIds = jewelryTraits.ids
 const jewelryEnchantIds = jewelryEnchants.ids
 
@@ -72,7 +71,7 @@ const championPointIds = championPoints.ids
 
 export const ATTRIBUTE_BITS = 7
 
-export const ARMOR_WEIGHT_BITS = bitsNeeded(armorWeightIds.length)
+
 export const ARMOR_TRAIT_BITS = bitsNeeded(armorTraitIds.length)
 export const ARMOR_ENCHANT_BITS = bitsNeeded(armorEnchantIds.length)
 export const JEWELRY_TRAIT_BITS = bitsNeeded(jewelryTraitIds.length)
@@ -152,6 +151,10 @@ const grimoirePlaces = placesOver(() => skillCatalog().grimoires.ids)
 const classPlaces = placesOver(() => skillCatalog().classes.ids)
 
 export const classBits = classPlaces.bits
+
+const armorWeightPlaces = placesOver(() => standardArmorWeights.ids)
+
+export const armorWeightBits = armorWeightPlaces.bits
 
 const qualityPlaces = placesOver(() => equipmentQualities().ids)
 
@@ -323,7 +326,7 @@ export const getVampireStageIndex = vampireStagePlaces.indexOf
 export const getCurseIndex = cursePlaces.indexOf
 export const getMundusIndex = mundusPlaces.indexOf
 export const getSkillLineIndex = skillLinePlaces.indexOf
-export const getArmorWeightIndex = indexIn(armorWeightIds)
+export const getArmorWeightIndex = armorWeightPlaces.indexOf
 export const getArmorTraitIndex = indexIn(armorTraitIds)
 export const getArmorEnchantIndex = indexIn(armorEnchantIds)
 export const getJewelryTraitIndex = indexIn(jewelryTraitIds)
@@ -352,7 +355,7 @@ export const getVampireStageId = vampireStagePlaces.idOf
 export const getCurseId = cursePlaces.idOf
 export const getMundusId = mundusPlaces.idOf
 export const getSkillLineId = skillLinePlaces.idOf
-export const getArmorWeightId = idIn(armorWeightIds)
+export const getArmorWeightId = armorWeightPlaces.idOf
 export const getArmorTraitId = idIn(armorTraitIds)
 export const getArmorEnchantId = idIn(armorEnchantIds)
 export const getJewelryTraitId = idIn(jewelryTraitIds)

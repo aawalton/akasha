@@ -1,3 +1,5 @@
+import type { ArmorType } from "akasha/temper/catalog/companion/armor-weight/properties/armor-type.number-property.types.ts"
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { ArmorBaseValue } from "akasha/temper/catalog/gear/temper-armor-weight/properties/armor-base-value.number-property.types.ts"
 import type { CraftedGlyphItemId } from "akasha/temper/catalog/gear/temper-armor-weight/properties/crafted-glyph-item-id.number-property.types.ts"
 import type { IsStandard } from "akasha/temper/catalog/gear/temper-armor-weight/properties/is-standard.boolean-property.types.ts"
@@ -11,4 +13,6 @@ export type TemperArmorWeight = TemperCatalogThing & {
   isStandard: IsStandard
   skillLineId: SkillLine
   craftedGlyphItemId?: CraftedGlyphItemId
+  hashPlace: HashPlace
+  armorType?: ArmorType
 }

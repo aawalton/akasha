@@ -9,4 +9,5 @@ export const ring2 = {
   icon: "/resources/gearslot_ring.png",
   displayOrder: 2,
   jewelryType: "temper-jewelry-type/ring",
+  hashPlace: 2,
 } as const satisfies TemperJewelrySlot

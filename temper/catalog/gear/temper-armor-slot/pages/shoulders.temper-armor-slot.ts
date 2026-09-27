@@ -8,4 +8,5 @@ export const shoulders = {
   key: "shoulders",
   icon: "/resources/gearslot_shoulders.png",
   displayOrder: 1,
+  hashPlace: 1,
 } as const satisfies TemperArmorSlot

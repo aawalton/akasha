@@ -6,4 +6,10 @@ export const characterCaptureEquipment = {
   slug: "character-capture-equipment",
   definition: "what the character is wearing, read slot by slot into codec indices",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A worn armor weight is captured at the place the player weight pages state.",
+    },
+  ],
 } as const satisfies Module

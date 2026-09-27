@@ -8,14 +8,12 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/champion-point/modules/warfare-passives/warfare-passives.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/champion-point/modules/warfare-slottables/warfare-slottables.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/armor-types/armor-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/jewelry-types/jewelry-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/armor-traits/armor-traits.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/jewelry-traits/jewelry-traits.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/gear/equipment/modules/weapon-traits/weapon-traits.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/catalog/skill-kind/modules/skill-bars/skill-bars.module.code.ts","typed":false,"deferred":false}
@@ -23,7 +21,7 @@
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/comparison-op-data/comparison-op-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-goals/inventory-rule-goals.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-enchants/armor-enchants.module.code.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/jewelry-enchants/jewelry-enchants.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-categories/set-categories.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"create-data-file.module.code.ts","path":"temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts","typed":false,"deferred":false}

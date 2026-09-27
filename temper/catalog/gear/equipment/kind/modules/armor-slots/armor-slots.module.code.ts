@@ -1,25 +1,34 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { ArmorSlotId as ArmorSlotPageSlug } from "akasha/temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.code.ts"
+import {
+  gearTableOf,
+  heldGearTable,
+  inGearOrder,
+} from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
+
+export type ArmorSlotId = ArmorSlotPageSlug
 
 interface ArmorSlotTemplate {
-  id: string
-  name: string
-  icon: string
+  readonly id: ArmorSlotId
+  readonly name: string
+  readonly icon: string
 }
 
-const ARMOR_SLOT_DATA = {
-  "head": { id: "head" as const, name: "Head", icon: "/resources/gearslot_head.png" },
-  "shoulders": {
-    id: "shoulders" as const,
-    name: "Shoulders",
-    icon: "/resources/gearslot_shoulders.png",
-  },
-  "chest": { id: "chest" as const, name: "Chest", icon: "/resources/gearslot_chest.png" },
-  "hands": { id: "hands" as const, name: "Hands", icon: "/resources/gearslot_hands.png" },
-  "waist": { id: "waist" as const, name: "Waist", icon: "/resources/gearslot_belt.png" },
-  "legs": { id: "legs" as const, name: "Legs", icon: "/resources/gearslot_legs.png" },
-  "feet": { id: "feet" as const, name: "Feet", icon: "/resources/gearslot_feet.png" },
-} satisfies Record<string, ArmorSlotTemplate>
+type Row = Readonly<Record<string, unknown>>
 
-export const armorSlots = createDataFile<ArmorSlotTemplate>()(ARMOR_SLOT_DATA)
+const held = heldGearTable<ArmorSlotId, ArmorSlotTemplate>("armor slots")
 
-export type ArmorSlotId = (typeof armorSlots.ids)[number]
+export const armorSlots = held.table
+
+export function holdArmorSlots(pages: Iterable<Row>): undefined {
+  held.hold(
+    gearTableOf(
+      inGearOrder(pages, "hashPlace").map(
+        (row): ArmorSlotTemplate => ({
+          id: String(row.slug) as ArmorSlotId,
+          name: String(row.title),
+          icon: String(row.icon),
+        })
+      )
+    )
+  )
+}

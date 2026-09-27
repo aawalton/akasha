@@ -5,7 +5,7 @@ export const gradedThing = {
   type: "page-type/relation-property",
   slug: "graded-thing",
   propertySlug: "thing",
-  definition: "the enchant or trait a grade is of",
+  definition: "the enchant, trait or armor weight a grade is of",
   targetPageType: "page-type/temper-catalog-thing",
   types: "ts",
 } as const satisfies RelationProperty

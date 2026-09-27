@@ -13,6 +13,8 @@ export const temperEquipmentKind = {
     "module/jewelry-types",
     "module/weapon-bars",
     "module/weapon-slots",
+    "change-generator/gear-kind-ids-keeping",
+    "data-table/gear-kind-ids",
   ],
   decisions: [
     {

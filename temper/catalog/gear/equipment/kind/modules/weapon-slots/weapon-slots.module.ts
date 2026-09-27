@@ -6,4 +6,10 @@ export const weaponSlots = {
   slug: "weapon-slots",
   definition: "the main hand, off hand and poison positions a weapon bar holds",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The weapon slots are read from their pages in display order.",
+    },
+  ],
 } as const satisfies Module

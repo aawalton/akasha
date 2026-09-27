@@ -1,0 +1,5 @@
+{"propertySlug":"import","fileName":"gear-kind-ids.data-table.code.ts","path":"temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gear-kind-ids.data-table.code.ts","path":"temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gear-kind-ids.data-table.code.ts","path":"temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"gear-kind-ids.data-table.code.ts","path":"temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"parts","path":"temper/catalog/gear/equipment/kind/temper-equipment-kind.domain.ts","id":"01a060b8-08c3-7a47-a8fa-29a32e398b30"}

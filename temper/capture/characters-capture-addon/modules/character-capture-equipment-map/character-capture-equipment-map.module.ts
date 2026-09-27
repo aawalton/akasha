@@ -11,5 +11,13 @@ export const characterCaptureEquipmentMap = {
       decisionKind: "decision-kind/constraint",
       statement: "A place in this table is the number a saved build hash has.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A player armor weight's place is compiled in from the armor weight pages.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A game armor type no weight page states takes the no-weight page's place.",
+    },
   ],
 } as const satisfies Module

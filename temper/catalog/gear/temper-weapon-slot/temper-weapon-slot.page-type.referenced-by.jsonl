@@ -1,3 +1,6 @@
+{"propertySlug":"import","fileName":"temper-weapon-slot.page-type.ts","path":"temper/catalog/gear/equipment/kind/modules/gear-kind-ids-keeping/gear-kind-ids-keeping.change-generator.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-slot.page-type.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-slot.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-slot.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-slot/pages/main-hand.temper-weapon-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-slot.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-slot/pages/off-hand.temper-weapon-slot.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-slot.page-type.types.ts","path":"temper/catalog/gear/temper-weapon-slot/pages/poison.temper-weapon-slot.ts","typed":true,"deferred":false}

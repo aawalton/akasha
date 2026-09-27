@@ -1,6 +1,29 @@
 import "akasha/temper/eso/type/eso-enums-08/eso-enums-08.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-11/eso-enums-11.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-13/eso-enums-13.type-declaration.d.ts"
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import { noWeight } from "akasha/temper/catalog/gear/temper-armor-weight/pages/no-weight/no-weight.temper-armor-weight.ts"
+import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
+import type { TemperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.types.ts"
+
+type Places = { [esoId: number]: number | undefined }
+
+let weightPlaces: Places | undefined
+
+function weightPlacesOf(this: void): Places {
+  const found: Places = {}
+  for (const one of $pagesOfType<Pick<TemperArmorWeight, "armorType" | "hashPlace">>(
+    temperArmorWeight
+  )) {
+    if (one.armorType !== undefined) found[one.armorType] = one.hashPlace
+  }
+  return found
+}
+
+export function getPlayerArmorWeightIndex(esoArmorType: number): number {
+  weightPlaces ??= weightPlacesOf()
+  return weightPlaces[esoArmorType] ?? noWeight.hashPlace
+}
 const PLAYER_ARMOR_TRAIT_ESO_ID_TO_INDEX: Record<number, number> = {
   [ITEM_TRAIT_TYPE_NONE]: 0,
   [ITEM_TRAIT_TYPE_ARMOR_DIVINES]: 1,

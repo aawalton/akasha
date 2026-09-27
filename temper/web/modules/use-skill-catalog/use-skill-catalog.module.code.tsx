@@ -10,12 +10,17 @@ import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-ma
 import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
 import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
 import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
+import { temperGearGrade } from "akasha/temper/catalog/gear/grade/temper-gear-grade.page-type.ts"
+import { temperArmorSlot } from "akasha/temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts"
+import { temperArmorWeight } from "akasha/temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts"
+import { temperJewelrySlot } from "akasha/temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts"
 import { temperPotion } from "akasha/temper/catalog/gear/temper-potion/temper-potion.page-type.ts"
 import { temperPotionCrafted } from "akasha/temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts"
 import { temperPotionCrown } from "akasha/temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts"
 import { temperPotionDropped } from "akasha/temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts"
 import { temperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.ts"
 import { temperReagent } from "akasha/temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts"
+import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
 import { catalogTemplatesOf } from "akasha/temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts"
@@ -81,12 +86,22 @@ export function useSkillCatalog(): SkillCatalog | null {
   const bars = usePages({ pageTypeSlug: temperSkillBar.slug, limit: EVERY })
   const races = usePages({ pageTypeSlug: temperRace.slug, limit: EVERY })
   const qualities = usePages({ pageTypeSlug: temperQuality.slug, limit: EVERY })
+  const armorSlots = usePages({ pageTypeSlug: temperArmorSlot.slug, limit: EVERY })
+  const jewelrySlots = usePages({ pageTypeSlug: temperJewelrySlot.slug, limit: EVERY })
+  const weaponSlots = usePages({ pageTypeSlug: temperWeaponSlot.slug, limit: EVERY })
+  const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
+  const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
   const skillPoints = usePages({ pageTypeSlug: temperSkillPoint.slug, limit: EVERY })
   const completionCategories = usePages({
     pageTypeSlug: temperCompletionCategory.slug,
     limit: EVERY,
   })
   const read = [
+    armorSlots,
+    jewelrySlots,
+    weaponSlots,
+    armorWeights,
+    grades,
     completionCategories,
     skillPoints,
     qualities,
@@ -163,6 +178,11 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperQuality.slug, qualities.rows],
       [temperSkillPoint.slug, skillPoints.rows],
       [temperCompletionCategory.slug, completionCategories.rows],
+      [temperArmorSlot.slug, armorSlots.rows],
+      [temperJewelrySlot.slug, jewelrySlots.rows],
+      [temperWeaponSlot.slug, weaponSlots.rows],
+      [temperArmorWeight.slug, armorWeights.rows],
+      [temperGearGrade.slug, grades.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -204,6 +224,11 @@ export function useSkillCatalog(): SkillCatalog | null {
     qualities.rows,
     skillPoints.rows,
     completionCategories.rows,
+    armorSlots.rows,
+    jewelrySlots.rows,
+    weaponSlots.rows,
+    armorWeights.rows,
+    grades.rows,
   ])
   if (failed !== null) throw failed
   return catalog

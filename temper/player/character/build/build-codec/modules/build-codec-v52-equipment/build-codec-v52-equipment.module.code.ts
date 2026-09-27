@@ -1,8 +1,7 @@
 import {
   ARMOR_ENCHANT_BITS,
   ARMOR_TRAIT_BITS,
-  ARMOR_WEIGHT_BITS,
-  armorSlotIds,
+  armorWeightBits,
   getArmorEnchantId,
   getArmorEnchantIndex,
   getArmorTraitId,
@@ -27,7 +26,6 @@ import {
   getWeaponTypeIndex,
   JEWELRY_ENCHANT_BITS,
   JEWELRY_TRAIT_BITS,
-  jewelrySlotIds,
   POISON_BITS,
   qualityBits,
   setBits,
@@ -40,12 +38,18 @@ import { readBits } from "akasha/temper/player/character/build/build-hash/module
 import type { BitWriterState } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import { writeBits } from "akasha/temper/player/character/build/build-hash/modules/build-hash-bit-writer/build-hash-bit-writer.module.code.ts"
 import { recordFromKeys } from "akasha/temper/player/character/build/build-hash/modules/record-from-keys/record-from-keys.module.code.ts"
-import type { ArmorSlotId } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
+import {
+  type ArmorSlotId,
+  armorSlots,
+} from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import type {
   EquipmentQualityId,
   EquipmentQualityOptionId,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
-import type { JewelrySlotId } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
+import {
+  type JewelrySlotId,
+  jewelrySlots,
+} from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import type {
   ArmorSlotItem,
@@ -57,11 +61,11 @@ import type {
 export function encodeEquipment(writer: BitWriterState, build: CharacterState): undefined {
   const equipment = build.equipment
 
-  for (const slotId of armorSlotIds) {
+  for (const slotId of armorSlots.ids) {
     encodeArmorSlot(writer, equipment.armor[slotId])
   }
 
-  for (const slotId of jewelrySlotIds) {
+  for (const slotId of jewelrySlots.ids) {
     encodeJewelrySlot(writer, equipment.jewelry[slotId])
   }
 
@@ -77,7 +81,7 @@ function encodeArmorSlot(writer: BitWriterState, slot: ArmorSlotItem): undefined
 
   writeBits(writer, 0, 1)
   const armor = slot.data
-  writeBits(writer, getArmorWeightIndex(armor.weight), ARMOR_WEIGHT_BITS)
+  writeBits(writer, getArmorWeightIndex(armor.weight), armorWeightBits())
   writeBits(writer, getArmorTraitIndex(armor.trait), ARMOR_TRAIT_BITS)
   writeBits(writer, getArmorEnchantIndex(armor.enchantment), ARMOR_ENCHANT_BITS)
   writeBits(writer, getSetIndex(armor.set), setBits())
@@ -138,8 +142,8 @@ function encodeWeaponSlot(writer: BitWriterState, slot: WeaponSlotItem): undefin
 }
 
 export function decodeEquipment(reader: BitReaderState): CharacterState["equipment"] {
-  const armor = recordFromKeys(armorSlotIds, (slotId) => decodeArmorSlot(reader, slotId))
-  const jewelry = recordFromKeys(jewelrySlotIds, (slotId) => decodeJewelrySlot(reader, slotId))
+  const armor = recordFromKeys(armorSlots.ids, (slotId) => decodeArmorSlot(reader, slotId))
+  const jewelry = recordFromKeys(jewelrySlots.ids, (slotId) => decodeJewelrySlot(reader, slotId))
 
   const primaryWeaponBar = decodeWeaponBar(reader)
   const backupWeaponBar = decodeWeaponBar(reader)
@@ -168,7 +172,7 @@ function decodeArmorSlot(reader: BitReaderState, slotId: ArmorSlotId): ArmorSlot
     }
   }
 
-  const weight = getArmorWeightId(readBits(reader, ARMOR_WEIGHT_BITS))
+  const weight = getArmorWeightId(readBits(reader, armorWeightBits()))
   const trait = getArmorTraitId(readBits(reader, ARMOR_TRAIT_BITS))
   const enchantment = getArmorEnchantId(readBits(reader, ARMOR_ENCHANT_BITS))
   const set = getSetId(readBits(reader, setBits()))

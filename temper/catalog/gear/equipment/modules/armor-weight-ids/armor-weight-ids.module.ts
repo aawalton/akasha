@@ -12,5 +12,9 @@ export const armorWeightIds = {
       statement:
         "This module names the armor weights without naming any order among the armor weights.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The names are the weight pages' slugs, as the gear kind ids table holds them.",
+    },
   ],
 } as const satisfies Module

@@ -1,25 +1,34 @@
-import { createDataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { WeaponSlotId } from "akasha/temper/catalog/gear/equipment/kind/modules/gear-kind-ids/gear-kind-ids.data-table.code.ts"
+import {
+  gearTableOf,
+  heldGearTable,
+  inGearOrder,
+} from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
+
+export type WeaponSlot = WeaponSlotId
 
 interface WeaponSlotTemplate {
-  id: string
-  name: string
-  icon?: string
+  readonly id: WeaponSlot
+  readonly name: string
+  readonly icon?: string
 }
 
-const WEAPON_SLOT_DATA = {
-  "main-hand": {
-    id: "main-hand" as const,
-    name: "Main Hand",
-    icon: "/resources/gearslot_mainhand.png",
-  },
-  "off-hand": {
-    id: "off-hand" as const,
-    name: "Off Hand",
-    icon: "/resources/gearslot_offhand.png",
-  },
-  "poison": { id: "poison" as const, name: "Poison" },
-} satisfies Record<string, WeaponSlotTemplate>
+type Row = Readonly<Record<string, unknown>>
 
-export const weaponSlots = createDataFile<WeaponSlotTemplate>()(WEAPON_SLOT_DATA)
+const held = heldGearTable<WeaponSlot, WeaponSlotTemplate>("weapon slots")
 
-export type WeaponSlot = (typeof weaponSlots.ids)[number]
+export const weaponSlots = held.table
+
+export function holdWeaponSlots(pages: Iterable<Row>): undefined {
+  held.hold(
+    gearTableOf(
+      inGearOrder(pages, "displayOrder").map(
+        (row): WeaponSlotTemplate => ({
+          id: String(row.slug) as WeaponSlot,
+          name: String(row.title),
+          ...(typeof row.icon === "string" ? { icon: row.icon } : {}),
+        })
+      )
+    )
+  )
+}

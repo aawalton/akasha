@@ -9,4 +9,5 @@ export const shield = {
   baseValue: 1720,
   isStandard: false,
   skillLineId: "temper-skill-line/weapon-one-hand-and-shield",
+  hashPlace: 4,
 } as const satisfies TemperArmorWeight

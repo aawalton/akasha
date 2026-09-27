@@ -1,8 +1,5 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
-import {
-  createDataFile,
-  type DataFile,
-} from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
+import type { DataFile } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import {
   type ArmorTypeId,
   getArmorMultiplier,
@@ -16,6 +13,13 @@ import type {
   StandardArmorWeightId,
 } from "akasha/temper/catalog/gear/equipment/modules/armor-weight-ids/armor-weight-ids.module.code.ts"
 import {
+  gearTableOf,
+  heldGearTable,
+  inGearOrder,
+  slugOf,
+} from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
+import type { SkillLineId } from "akasha/temper/catalog/skill/line/modules/skill-line-ids/skill-line-ids.data-table.code.ts"
+import {
   calculateNirnhonedValue,
   calculateReinforcedValue,
 } from "akasha/temper/player/character/characters-equipment/modules/armor-trait-effects/armor-trait-effects.module.code.ts"
@@ -26,102 +30,65 @@ import type {
 import { getArmorBaseValueForLevel } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 import type { MetricEffect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 
-const TEMPER_ARMOR_WEIGHTS_BY_ID = {
-  "heavy": {
-    id: "heavy" as const,
-    name: "Heavy",
-    baseValue: 346.5,
-    skillLineId: "armor-heavy-armor" as const,
-    isStandard: true,
-  },
-  "light": {
-    id: "light" as const,
-    name: "Light",
-    baseValue: 174.5,
-    skillLineId: "armor-light-armor" as const,
-    isStandard: true,
-  },
-  "medium": {
-    id: "medium" as const,
-    name: "Medium",
-    baseValue: 260.5,
-    skillLineId: "armor-medium-armor" as const,
-    isStandard: true,
-  },
-  "no-weight": {
-    id: "no-weight" as const,
-    name: "No Weight",
-    baseValue: 0,
-    skillLineId: "no-skill-line" as const,
-    isStandard: true,
-  },
-  "shield": {
-    id: "shield" as const,
-    name: "Shield",
-    baseValue: 1720,
-    skillLineId: "weapon-one-hand-and-shield" as const,
-    isStandard: false,
-  },
-} as const satisfies Record<string, ArmorWeightTemplate>
-
-const STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID = {
-  "heavy": {
-    id: "heavy" as const,
-    name: "Heavy",
-    baseValue: 346.5,
-    skillLineId: "armor-heavy-armor" as const,
-    isStandard: true,
-  },
-  "light": {
-    id: "light" as const,
-    name: "Light",
-    baseValue: 174.5,
-    skillLineId: "armor-light-armor" as const,
-    isStandard: true,
-  },
-  "medium": {
-    id: "medium" as const,
-    name: "Medium",
-    baseValue: 260.5,
-    skillLineId: "armor-medium-armor" as const,
-    isStandard: true,
-  },
-  "no-weight": {
-    id: "no-weight" as const,
-    name: "No Weight",
-    baseValue: 0,
-    skillLineId: "no-skill-line" as const,
-    isStandard: true,
-  },
-} as const satisfies Record<string, ArmorWeightTemplate>
-
 interface ArmorWeightTemplate {
-  id: ArmorWeightId
-  name: string
-  baseValue: number
-  skillLineId:
-    | "no-skill-line"
-    | "armor-light-armor"
-    | "armor-medium-armor"
-    | "armor-heavy-armor"
-    | "weapon-one-hand-and-shield"
-  isStandard: boolean
+  readonly id: ArmorWeightId
+  readonly name: string
+  readonly baseValue: number
+  readonly skillLineId: SkillLineId
+  readonly isStandard: boolean
 }
 
-export const armorWeights: DataFile<ArmorWeightId, ArmorWeightTemplate> =
-  createDataFile<ArmorWeightTemplate>()(TEMPER_ARMOR_WEIGHTS_BY_ID)
+type StandardArmorWeightTemplate = ArmorWeightTemplate & { readonly id: StandardArmorWeightId }
 
-export const standardArmorWeights: DataFile<
-  StandardArmorWeightId,
-  ArmorWeightTemplate & { id: StandardArmorWeightId }
-> = createDataFile<ArmorWeightTemplate>()(STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID)
+type Row = Readonly<Record<string, unknown>>
 
-const BASE_ARMOR_QUALITY_VALUES: Record<ArmorWeightId, Record<EquipmentQualityId, number>> = {
-  "no-weight": { normal: 0, fine: 0, superior: 0, epic: 0, legendary: 0 },
-  light: { normal: 158.5, fine: 164.5, superior: 164.5, epic: 168.5, legendary: 174.5 },
-  medium: { normal: 236.5, fine: 245.5, superior: 245.5, epic: 251.5, legendary: 260.5 },
-  heavy: { normal: 314.5, fine: 326.5, superior: 326.5, epic: 334.5, legendary: 346.5 },
-  shield: { normal: 1560, fine: 1620, superior: 1620, epic: 1660, legendary: 1720 },
+const WEIGHT_PAGES = "temper-armor-weight/"
+
+const everyWeight = heldGearTable<ArmorWeightId, ArmorWeightTemplate>("armor weights")
+
+const standardWeights = heldGearTable<StandardArmorWeightId, StandardArmorWeightTemplate>(
+  "armor weights"
+)
+
+export const armorWeights: DataFile<ArmorWeightId, ArmorWeightTemplate> = everyWeight.table
+
+export const standardArmorWeights: DataFile<StandardArmorWeightId, StandardArmorWeightTemplate> =
+  standardWeights.table
+
+let baseValues: ReadonlyMap<string, number> | null = null
+
+function weightOf(row: Row): ArmorWeightTemplate {
+  return {
+    id: String(row.slug) as ArmorWeightId,
+    name: String(row.title),
+    baseValue: Number(row.baseValue),
+    skillLineId: slugOf(row.skillLineId) as SkillLineId,
+    isStandard: row.isStandard === true,
+  }
+}
+
+export function holdArmorWeights(pages: Iterable<Row>, grades: Iterable<Row>): undefined {
+  const every = inGearOrder(pages, "hashPlace").map(weightOf)
+  everyWeight.hold(gearTableOf(every))
+  standardWeights.hold(
+    gearTableOf(every.filter((one): one is StandardArmorWeightTemplate => one.isStandard))
+  )
+  const found = new Map<string, number>()
+  for (const grade of grades) {
+    const thing = String(grade.thing)
+    if (!thing.startsWith(WEIGHT_PAGES)) continue
+    found.set(`${slugOf(thing)}/${slugOf(grade.quality)}`, Number(grade.value))
+  }
+  baseValues = found
+}
+
+function baseValueOf(weight: ArmorWeightId, quality: EquipmentQualityId): number {
+  if (baseValues === null) {
+    throw new Error(
+      "the armor weights are read with the skill catalogue, and nothing has read them yet"
+    )
+  }
+  return baseValues.get(`${weight}/${quality}`) ?? 0
 }
 
 function getArmorValue(
@@ -137,7 +104,7 @@ function getArmorValue(
   ) {
     baseValue = getArmorBaseValueForLevel(level, weight, quality)
   } else {
-    baseValue = BASE_ARMOR_QUALITY_VALUES[weight][quality]
+    baseValue = baseValueOf(weight, quality)
   }
 
   const multiplier = getArmorMultiplier(type)

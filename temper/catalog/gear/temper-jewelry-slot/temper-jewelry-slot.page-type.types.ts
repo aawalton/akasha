@@ -1,4 +1,5 @@
 import type { Icon } from "akasha/page/properties/icon.text-property.types.ts"
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { JewelryType } from "akasha/temper/catalog/gear/temper-jewelry-slot/properties/jewelry-type.relation-property.types.ts"
 import type { TemperCatalogThing } from "akasha/temper/catalog/thing/temper-catalog-thing.page-type.types.ts"
 import type { DisplayOrder } from "akasha/temper/thing/properties/display-order.number-property.types.ts"
@@ -9,4 +10,5 @@ export type TemperJewelrySlot = TemperCatalogThing & {
   displayOrder: DisplayOrder
   icon: Icon
   jewelryType: JewelryType
+  hashPlace: HashPlace
 }

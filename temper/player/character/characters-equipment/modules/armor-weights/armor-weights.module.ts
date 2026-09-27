@@ -9,24 +9,19 @@ export const armorWeights = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This table is written out from the armor weight pages rather than by hand.",
+      statement: "The weights are read from the armor weight pages in hash-place order.",
     },
     {
       decisionKind: "decision-kind/constraint",
       statement: "A weight's place in this table is the index a build hash has.",
     },
     {
-      decisionKind: "decision-kind/upkeep",
-      statement: "The key order of this table is the wire order.",
+      decisionKind: "decision-kind/departure",
+      statement: "A weight's armor value at a quality is the grade under its page.",
     },
     {
-      decisionKind: "decision-kind/upkeep",
-      statement: "The order of the armor weight id union is not the wire order.",
-    },
-    {
-      decisionKind: "decision-kind/upkeep",
-      statement: "The generator writes this table outside akasha.",
+      decisionKind: "decision-kind/departure",
+      statement: "A weight with no grade at a quality is worth no armor there.",
     },
   ],
-  hashIndexed: ["STANDARD_TEMPER_ARMOR_WEIGHTS_BY_ID"],
 } as const satisfies Module
