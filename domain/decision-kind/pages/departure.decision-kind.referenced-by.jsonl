@@ -5041,6 +5041,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts","id":"01a05fb0-3ceb-7229-9089-127418274d52"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts","id":"01a0e108-4383-759e-9c5d-2d4067ab9605"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.ts","id":"01a0d62c-4624-7bf3-b478-830ca19d8e09"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.one-of-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts","id":"01a05fd1-d432-7bca-b936-c66974cf77aa"}

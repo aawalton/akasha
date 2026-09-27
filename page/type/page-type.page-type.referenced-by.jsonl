@@ -727,6 +727,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-armor-trait/temper-armor-trait.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-armor-type/temper-armor-type.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-eso-trait-map/temper-eso-trait-map.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-enchant/temper-jewelry-enchant.page-type.ts","typed":true,"deferred":false}
