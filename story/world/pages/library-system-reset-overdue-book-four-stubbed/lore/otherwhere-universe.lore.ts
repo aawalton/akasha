@@ -116,6 +116,10 @@ export const otherwhereUniverse = {
       fact: "The Library keeps no character sheet; what it shows of a person is what it knows of her.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Night owls are the Library's owls, who need bookworm-fed magical quills.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
