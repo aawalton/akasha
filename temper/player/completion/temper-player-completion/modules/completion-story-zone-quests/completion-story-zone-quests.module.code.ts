@@ -1,4 +1,4 @@
-import { SKILL_POINT_STORY_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+import { skillPointStoryZoneSources } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 
 interface OwedStoryZone {
   readonly key: string
@@ -10,7 +10,7 @@ interface OwedStoryZone {
 export function findFirstIncompleteStoryZone(
   zoneQuests: Readonly<Record<string, number>> | undefined
 ): OwedStoryZone | undefined {
-  for (const zone of SKILL_POINT_STORY_ZONE_SOURCES) {
+  for (const zone of skillPointStoryZoneSources()) {
     const completedQuests = zoneQuests?.[zone.key] ?? 0
     if (completedQuests < zone.maxQuests) {
       return {

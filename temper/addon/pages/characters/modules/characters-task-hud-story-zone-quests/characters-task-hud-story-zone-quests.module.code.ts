@@ -1,13 +1,17 @@
 import { currentCharacterEntry } from "akasha/temper/addon/pages/characters/modules/characters-current-entry/characters-current-entry.module.code.ts"
 import { taskHasCardAndPathEntry } from "akasha/temper/addon/pages/characters/modules/characters-task-card-match/characters-task-card-match.module.code.ts"
+import { skillPointPagesCompiledIn } from "akasha/temper/addon/pages/characters/modules/characters-task-progress-resolver-skills/characters-task-progress-resolver-skills.module.code.ts"
 import { questCompleted } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-finder-helpers/skill-point-finder-helpers.module.code.ts"
 import { RAW_ZONES } from "akasha/temper/player/character/skill/skill-point-finder/modules/skill-point-sources/skill-point-sources.module.code.ts"
 import { findFirstIncompleteStoryZone } from "akasha/temper/player/completion/temper-player-completion/modules/completion-story-zone-quests/completion-story-zone-quests.module.code.ts"
+import { readSkillPointPagesWith } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 import type { TaskData } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import "akasha/temper/eso/type/eso-functions-09/eso-functions-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-globals/eso-globals.type-declaration.d.ts"
 
 const STORY_ZONE_QUESTS_PATH = "storyZoneQuests"
+
+readSkillPointPagesWith(skillPointPagesCompiledIn)
 
 interface StoryZoneQuestEnrichment {
   readonly zoneName: string

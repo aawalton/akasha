@@ -9,12 +9,16 @@ import type {
 import type { AccountCheckerInput } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-checker-types/completion-card-checker-types.module.code.ts"
 import { NO_COMPLETION_CATALOGS } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import { resolveGenericCheckerProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-generic-checker-progress/completion-generic-checker-progress.module.code.ts"
-import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
+import { skillPointGeneralSources } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
-import { SKILL_POINT_STORY_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+import { skillPointStoryZoneSources } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 
 holdCompanionCatalogFromCheckout()
 holdSkillCatalogFromCheckout()
+
+const SKILL_POINT_GENERAL_SOURCES = skillPointGeneralSources()
+
+const SKILL_POINT_STORY_ZONE_SOURCES = skillPointStoryZoneSources()
 
 const NO_ACCOUNT: AccountCheckerInput = {
   account: null,

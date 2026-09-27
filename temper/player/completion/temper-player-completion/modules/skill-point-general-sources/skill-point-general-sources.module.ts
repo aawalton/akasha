@@ -9,7 +9,7 @@ export const skillPointGeneralSources = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the skill-point pages rather than by hand.",
+      statement: "Every source is read from its skill point page rather than written here.",
     },
     {
       decisionKind: "decision-kind/constraint",

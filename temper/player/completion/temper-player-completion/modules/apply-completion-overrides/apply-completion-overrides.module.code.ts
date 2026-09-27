@@ -1,10 +1,10 @@
 import { emptySkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
 import type { CompletionOverride } from "akasha/temper/player/completion/temper-player-completion/modules/completion-override/completion-override.module.code.ts"
-import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
+import { skillPointGeneralSources } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
 import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
-import { SKILL_POINT_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+import { skillPointZoneSources } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 
 type SkillPointCompletion = Pick<CharacterCompletion, "skillPoints">
 
@@ -20,14 +20,14 @@ function applySkillPointsOverride<T extends SkillPointCompletion>(
 
   switch (branch) {
     case "general": {
-      const source = SKILL_POINT_GENERAL_SOURCES.find((s) => s.key === key)
+      const source = skillPointGeneralSources().find((s) => s.key === key)
       if (source === undefined) return completion
       const target = Math.min(atLeast, source.maxValue)
       if ((sp[source.key] ?? 0) >= target) return completion
       return { ...completion, skillPoints: { ...sp, [source.key]: target } }
     }
     case "skyshards": {
-      const zone = SKILL_POINT_ZONE_SOURCES.find((z) => z.key === key)
+      const zone = skillPointZoneSources().find((z) => z.key === key)
       if (zone === undefined || zone.maxSkyshards === 0) return completion
       const target = Math.min(atLeast, zone.maxSkyshards)
       if ((sp.skyshards[key] ?? 0) >= target) return completion
@@ -37,7 +37,7 @@ function applySkillPointsOverride<T extends SkillPointCompletion>(
       }
     }
     case "zoneQuests": {
-      const zone = SKILL_POINT_ZONE_SOURCES.find((z) => z.key === key)
+      const zone = skillPointZoneSources().find((z) => z.key === key)
       if (zone === undefined || zone.maxQuests === 0) return completion
       const target = Math.min(atLeast, zone.maxQuests)
       if ((sp.zoneQuests[key] ?? 0) >= target) return completion

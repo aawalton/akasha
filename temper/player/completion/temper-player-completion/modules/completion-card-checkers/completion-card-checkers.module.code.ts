@@ -17,12 +17,12 @@ import { countCompanionRapport } from "akasha/temper/player/completion/temper-pl
 import { isLoreLibraryItemComplete } from "akasha/temper/player/completion/temper-player-completion/modules/completion-lore-library-progress/completion-lore-library-progress.module.code.ts"
 import { isMountTrainingPathComplete } from "akasha/temper/player/completion/temper-player-completion/modules/completion-mount-training-completeness/completion-mount-training-completeness.module.code.ts"
 import { resolveSkillPointItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
-import { SKILL_POINT_GENERAL_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
+import { skillPointGeneralSources } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-general-sources/skill-point-general-sources.module.code.ts"
 import { SKILL_POINT_GROUP_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-group-dungeons/skill-point-group-dungeons.module.code.ts"
 import { SKILL_POINT_PUBLIC_DUNGEON_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-public-dungeons/skill-point-public-dungeons.module.code.ts"
 import {
-  SKILL_POINT_STORY_ZONE_SOURCES,
-  SKILL_POINT_ZONE_SOURCES,
+  skillPointStoryZoneSources,
+  skillPointZoneSources,
 } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 import { SKILL_MORPHS_CHECKER } from "akasha/temper/player/skill-morph/access/modules/skill-morphs-checker/skill-morphs-checker.module.code.ts"
 
@@ -155,41 +155,41 @@ export const COMPLETION_CARD_CHECKERS: Partial<
       switch (branch) {
         case "general": {
           if (sourceKey !== undefined) {
-            const source = SKILL_POINT_GENERAL_SOURCES.find((entry) => entry.key === sourceKey)
+            const source = skillPointGeneralSources().find((entry) => entry.key === sourceKey)
             if (!source) return false
             return (skillPoints[source.key] ?? 0) >= source.maxValue
           }
-          return SKILL_POINT_GENERAL_SOURCES.every(
+          return skillPointGeneralSources().every(
             (source) => (skillPoints[source.key] ?? 0) >= source.maxValue
           )
         }
         case "skyshards": {
           if (sourceKey !== undefined) {
-            const zone = SKILL_POINT_ZONE_SOURCES.find((entry) => entry.key === sourceKey)
+            const zone = skillPointZoneSources().find((entry) => entry.key === sourceKey)
             if (!zone || zone.maxSkyshards === 0) return false
             return (skillPoints.skyshards[sourceKey] ?? 0) >= zone.maxSkyshards
           }
-          return SKILL_POINT_ZONE_SOURCES.filter((zone) => zone.maxSkyshards > 0).every(
-            (zone) => (skillPoints.skyshards[zone.key] ?? 0) >= zone.maxSkyshards
-          )
+          return skillPointZoneSources()
+            .filter((zone) => zone.maxSkyshards > 0)
+            .every((zone) => (skillPoints.skyshards[zone.key] ?? 0) >= zone.maxSkyshards)
         }
         case "zoneQuests": {
           if (sourceKey !== undefined) {
-            const zone = SKILL_POINT_ZONE_SOURCES.find((entry) => entry.key === sourceKey)
+            const zone = skillPointZoneSources().find((entry) => entry.key === sourceKey)
             if (!zone || zone.maxQuests === 0) return false
             return (skillPoints.zoneQuests[sourceKey] ?? 0) >= zone.maxQuests
           }
-          return SKILL_POINT_ZONE_SOURCES.filter((zone) => zone.maxQuests > 0).every(
-            (zone) => (skillPoints.zoneQuests[zone.key] ?? 0) >= zone.maxQuests
-          )
+          return skillPointZoneSources()
+            .filter((zone) => zone.maxQuests > 0)
+            .every((zone) => (skillPoints.zoneQuests[zone.key] ?? 0) >= zone.maxQuests)
         }
         case "storyZoneQuests": {
           if (sourceKey !== undefined) {
-            const zone = SKILL_POINT_STORY_ZONE_SOURCES.find((entry) => entry.key === sourceKey)
+            const zone = skillPointStoryZoneSources().find((entry) => entry.key === sourceKey)
             if (!zone) return false
             return (skillPoints.zoneQuests[sourceKey] ?? 0) >= zone.maxQuests
           }
-          return SKILL_POINT_STORY_ZONE_SOURCES.every(
+          return skillPointStoryZoneSources().every(
             (zone) => (skillPoints.zoneQuests[zone.key] ?? 0) >= zone.maxQuests
           )
         }
@@ -231,7 +231,7 @@ export const COMPLETION_CARD_CHECKERS: Partial<
           case "general":
             return {
               label: "Source",
-              options: SKILL_POINT_GENERAL_SOURCES.map((source) => ({
+              options: skillPointGeneralSources().map((source) => ({
                 value: source.key,
                 label: source.label,
               })),
@@ -239,21 +239,21 @@ export const COMPLETION_CARD_CHECKERS: Partial<
           case "skyshards":
             return {
               label: "Zone",
-              options: SKILL_POINT_ZONE_SOURCES.filter((zone) => zone.maxSkyshards > 0).map(
-                (zone) => ({ value: zone.key, label: zone.label })
-              ),
+              options: skillPointZoneSources()
+                .filter((zone) => zone.maxSkyshards > 0)
+                .map((zone) => ({ value: zone.key, label: zone.label })),
             }
           case "zoneQuests":
             return {
               label: "Zone",
-              options: SKILL_POINT_ZONE_SOURCES.filter((zone) => zone.maxQuests > 0).map(
-                (zone) => ({ value: zone.key, label: zone.label })
-              ),
+              options: skillPointZoneSources()
+                .filter((zone) => zone.maxQuests > 0)
+                .map((zone) => ({ value: zone.key, label: zone.label })),
             }
           case "storyZoneQuests":
             return {
               label: "Zone",
-              options: SKILL_POINT_STORY_ZONE_SOURCES.map((zone) => ({
+              options: skillPointStoryZoneSources().map((zone) => ({
                 value: zone.key,
                 label: zone.label,
               })),

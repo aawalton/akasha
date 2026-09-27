@@ -1,50 +1,125 @@
-import type { SkillPointZoneSource } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-source-types/skill-point-source-types.module.code.ts"
+import type {
+  SkillPointGeneralSource,
+  SkillPointZoneSource,
+} from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-source-types/skill-point-source-types.module.code.ts"
 
-export const SKILL_POINT_ZONE_SOURCES: readonly SkillPointZoneSource[] = [
-  { key: "WP", label: "Wailing Prison", maxQuests: 0, maxSkyshards: 1 },
-  { key: "AD0", label: "Khenarthi's Roost", maxQuests: 0, maxSkyshards: 6 },
-  { key: "AD1", label: "Auridon", maxQuests: 3, maxSkyshards: 16 },
-  { key: "AD2", label: "Grahtwood", maxQuests: 3, maxSkyshards: 16 },
-  { key: "AD3", label: "Greenshade", maxQuests: 3, maxSkyshards: 16 },
-  { key: "AD4", label: "Malabal Tor", maxQuests: 3, maxSkyshards: 16 },
-  { key: "AD5", label: "Reaper's March", maxQuests: 3, maxSkyshards: 16 },
-  { key: "DC0b", label: "Stros M'Kai", maxQuests: 0, maxSkyshards: 3 },
-  { key: "DC0a", label: "Betnikh", maxQuests: 0, maxSkyshards: 3 },
-  { key: "DC1", label: "Glenumbra", maxQuests: 4, maxSkyshards: 16 },
-  { key: "DC2", label: "Stormhaven", maxQuests: 3, maxSkyshards: 16 },
-  { key: "DC3", label: "Rivenspire", maxQuests: 3, maxSkyshards: 16 },
-  { key: "DC4", label: "Alik'r Desert", maxQuests: 3, maxSkyshards: 16 },
-  { key: "DC5", label: "Bangkorai", maxQuests: 3, maxSkyshards: 16 },
-  { key: "EP0b", label: "Bleakrock Isle", maxQuests: 0, maxSkyshards: 3 },
-  { key: "EP0a", label: "Bal Foyen", maxQuests: 0, maxSkyshards: 3 },
-  { key: "EP1", label: "Stonefalls", maxQuests: 3, maxSkyshards: 16 },
-  { key: "EP2", label: "Deshaan", maxQuests: 3, maxSkyshards: 16 },
-  { key: "EP3", label: "Shadowfen", maxQuests: 3, maxSkyshards: 16 },
-  { key: "EP4", label: "Eastmarch", maxQuests: 3, maxSkyshards: 16 },
-  { key: "EP5", label: "The Rift", maxQuests: 3, maxSkyshards: 16 },
-  { key: "CH", label: "Coldharbour", maxQuests: 3, maxSkyshards: 16 },
-  { key: "CY", label: "Cyrodiil", maxQuests: 0, maxSkyshards: 46, pvp: true },
-  { key: "CL", label: "Craglorn", maxQuests: 0, maxSkyshards: 18 },
-  { key: "IC", label: "Imperial City", maxQuests: 1, maxSkyshards: 13, pvp: true },
-  { key: "WR", label: "Wrothgar", maxQuests: 3, maxSkyshards: 17 },
-  { key: "HB", label: "Hew's Bane", maxQuests: 6, maxSkyshards: 6 },
-  { key: "GC", label: "Gold Coast", maxQuests: 8, maxSkyshards: 6 },
-  { key: "VV", label: "Vvardenfell", maxQuests: 3, maxSkyshards: 18 },
-  { key: "CC", label: "Clockwork City", maxQuests: 8, maxSkyshards: 6 },
-  { key: "SU", label: "Summerset", maxQuests: 3, maxSkyshards: 18 },
-  { key: "MM", label: "Murkmire", maxQuests: 7, maxSkyshards: 6 },
-  { key: "NE", label: "Northern Elsweyr", maxQuests: 3, maxSkyshards: 18 },
-  { key: "SE", label: "Southern Elsweyr", maxQuests: 9, maxSkyshards: 6 },
-  { key: "WS", label: "Western Skyrim", maxQuests: 3, maxSkyshards: 18 },
-  { key: "TR", label: "The Reach", maxQuests: 9, maxSkyshards: 6 },
-  { key: "BW", label: "Blackwood", maxQuests: 3, maxSkyshards: 18 },
-  { key: "TD", label: "The Deadlands", maxQuests: 9, maxSkyshards: 6 },
-  { key: "HI", label: "High Isle", maxQuests: 5, maxSkyshards: 18 },
-  { key: "GY", label: "Galen", maxQuests: 9, maxSkyshards: 6 },
-  { key: "AP", label: "Apocrypha", maxQuests: 9, maxSkyshards: 18 },
-  { key: "WW", label: "West Weald", maxQuests: 9, maxSkyshards: 18 },
-  { key: "SO", label: "Solstice", maxQuests: 9, maxSkyshards: 18 },
+export interface SkillPointPage {
+  readonly key?: unknown
+  readonly title?: unknown
+  readonly category?: unknown
+  readonly maxValue?: unknown
+  readonly maxQuests?: unknown
+  readonly maxSkyshards?: unknown
+  readonly pvp?: unknown
+  readonly displayOrder?: unknown
+}
+
+export const SKILL_POINT_FIELDS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "category",
+  "maxValue",
+  "maxQuests",
+  "maxSkyshards",
+  "pvp",
+  "displayOrder",
 ]
 
-export const SKILL_POINT_STORY_ZONE_SOURCES: readonly SkillPointZoneSource[] =
-  SKILL_POINT_ZONE_SOURCES.filter((zone) => zone.maxQuests > 0 && zone.pvp !== true)
+const GENERAL_KEYS: readonly SkillPointGeneralSource["key"][] = [
+  "level",
+  "mainQuests",
+  "tutorial",
+  "foliumDiscognitum",
+  "pvpRank",
+  "maelstromArena",
+  "endlessArchive",
+]
+
+interface SkillPointSources {
+  readonly general: readonly SkillPointGeneralSource[]
+  readonly zones: readonly SkillPointZoneSource[]
+  readonly storyZones: readonly SkillPointZoneSource[]
+}
+
+type ReadPages = (this: void) => readonly SkillPointPage[]
+
+const UNREAD =
+  "the skill point sources are read from the skill point pages, and nothing has read them yet — hold the skill catalogue before the work starts"
+
+let held: SkillPointSources | null = null
+
+let reader: ReadPages | null = null
+
+function numberAt(page: SkillPointPage, value: unknown, what: string): number {
+  if (typeof value !== "number") {
+    throw new Error(`the skill point source ${String(page.key)} states no number for ${what}`)
+  }
+  return value
+}
+
+function textAt(page: SkillPointPage, value: unknown, what: string): string {
+  if (typeof value !== "string") {
+    throw new Error(`the skill point source ${String(page.key)} states no ${what}`)
+  }
+  return value
+}
+
+function generalOf(page: SkillPointPage): SkillPointGeneralSource {
+  const key = GENERAL_KEYS.find((one) => one === page.key)
+  if (key === undefined) {
+    throw new Error(`the skill point source ${String(page.key)} names no count a character holds`)
+  }
+  return {
+    key,
+    label: textAt(page, page.title, "title"),
+    maxValue: numberAt(page, page.maxValue, "its most"),
+  }
+}
+
+function zoneOf(page: SkillPointPage): SkillPointZoneSource {
+  const zone: SkillPointZoneSource = {
+    key: textAt(page, page.key, "key"),
+    label: textAt(page, page.title, "title"),
+    maxQuests: numberAt(page, page.maxQuests, "its quests"),
+    maxSkyshards: numberAt(page, page.maxSkyshards, "its skyshards"),
+  }
+  if (page.pvp === true) zone.pvp = true
+  return zone
+}
+
+function sourcesOf(pages: readonly SkillPointPage[]): SkillPointSources {
+  const placed = [...pages].sort(
+    (one, other) =>
+      numberAt(one, one.displayOrder, "its place") -
+      numberAt(other, other.displayOrder, "its place")
+  )
+  const general = placed.filter((page) => page.category === "general").map(generalOf)
+  const zones = placed.filter((page) => page.category === "zone").map(zoneOf)
+  const storyZones = zones.filter((zone) => zone.maxQuests > 0 && zone.pvp !== true)
+  return { general, zones, storyZones }
+}
+
+export function holdSkillPointPages(pages: readonly SkillPointPage[]): undefined {
+  held = sourcesOf(pages)
+  return undefined
+}
+
+export function readSkillPointPagesWith(read: ReadPages): undefined {
+  reader = read
+  return undefined
+}
+
+export function skillPointSources(): SkillPointSources {
+  if (held === null && reader !== null) held = sourcesOf(reader())
+  if (held === null) throw new Error(UNREAD)
+  return held
+}
+
+export function skillPointZoneSources(): readonly SkillPointZoneSource[] {
+  return skillPointSources().zones
+}
+
+export function skillPointStoryZoneSources(): readonly SkillPointZoneSource[] {
+  return skillPointSources().storyZones
+}

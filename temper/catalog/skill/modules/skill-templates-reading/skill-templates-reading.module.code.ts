@@ -30,6 +30,11 @@ import {
   holdCharacterSources,
 } from "akasha/temper/player/character/source/modules/character-source-reading/character-source-reading.module.code.ts"
 import { temperSkillBar } from "akasha/temper/player/character/temper-skill-bar/temper-skill-bar.page-type.ts"
+import { temperSkillPoint } from "akasha/temper/player/character/temper-skill-point/temper-skill-point.page-type.ts"
+import {
+  holdSkillPointPages,
+  SKILL_POINT_FIELDS,
+} from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 
 export const SKILL_KEYED_BY: readonly (readonly [string, string])[] = [
@@ -379,6 +384,7 @@ export const CATALOG_READS: readonly Read[] = readsOf([
   [temperRace.slug, RACE_FIELDS],
   [temperClass.slug, CLASS_FIELDS],
   [temperSkillBar.slug, ["slug", "title", "displayOrder"]],
+  [temperSkillPoint.slug, SKILL_POINT_FIELDS],
   ...SKILL_KEYED_BY.map(([pageTypeSlug, field]): Read => [pageTypeSlug, ["slug", field]]),
   ...CHARACTER_SOURCE_READS,
   ...GEAR_READS,
@@ -390,6 +396,7 @@ export function catalogTemplatesOf(
   holdCharacterSources(rowsOf)
   holdSkillBars(skillBarsOf(rowsOf(temperSkillBar.slug)))
   holdGear(rowsOf)
+  holdSkillPointPages([...rowsOf(temperSkillPoint.slug)])
   const keys = skillKeysIn(rowsOf)
   return {
     ...skillTemplatesOf(rowsOf(temperSkill.slug), rowsOf(temperScribedSkill.slug), keys),

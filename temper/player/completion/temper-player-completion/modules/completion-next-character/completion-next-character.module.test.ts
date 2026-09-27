@@ -8,7 +8,7 @@ import {
   type NextCharacterInput,
   resolveNextCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-next-character/completion-next-character.module.code.ts"
-import { SKILL_POINT_STORY_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+import { skillPointStoryZoneSources } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 import {
   sparseComplete,
   sparseMissingOne,
@@ -75,7 +75,7 @@ describe("resolveNextCharacter — the order the roster is walked in", () => {
 })
 
 const EVERY_STORY_ZONE: Record<string, number> = Object.fromEntries(
-  SKILL_POINT_STORY_ZONE_SOURCES.map((zone) => [zone.key, zone.maxQuests])
+  skillPointStoryZoneSources().map((zone) => [zone.key, zone.maxQuests])
 )
 
 function mkSkillPointChar(

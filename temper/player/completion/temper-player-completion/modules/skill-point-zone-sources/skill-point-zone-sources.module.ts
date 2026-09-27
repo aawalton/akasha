@@ -9,7 +9,19 @@ export const skillPointZoneSources = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "This code is written out from the skill-point pages rather than by hand.",
+      statement: "Every source is read from its skill point page rather than written here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The sources come in the order of the places their pages state.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A server, a browser and a test hold them as they hold the skill catalogue.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An add-on reads them from the skill point pages as it compiles.",
     },
     {
       decisionKind: "decision-kind/constraint",

@@ -1,6 +1,11 @@
 import { describe, expect, test } from "bun:test"
+import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { findFirstIncompleteStoryZone } from "akasha/temper/player/completion/temper-player-completion/modules/completion-story-zone-quests/completion-story-zone-quests.module.code.ts"
-import { SKILL_POINT_STORY_ZONE_SOURCES } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+import { skillPointStoryZoneSources } from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
+
+holdSkillCatalogFromCheckout()
+
+const SKILL_POINT_STORY_ZONE_SOURCES = skillPointStoryZoneSources()
 
 function everyStoryZoneDone(): Record<string, number> {
   const done: Record<string, number> = {}

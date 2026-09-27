@@ -1,9 +1,21 @@
+import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
 import { skillLineMaxRanks } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.code.ts"
+import { temperSkillPoint } from "akasha/temper/player/character/temper-skill-point/temper-skill-point.page-type.ts"
 import { resolveSkillPointItemProgress } from "akasha/temper/player/completion/temper-player-completion/modules/completion-skill-points-progress/completion-skill-points-progress.module.code.ts"
+import {
+  readSkillPointPagesWith,
+  type SkillPointPage,
+} from "akasha/temper/player/completion/temper-player-completion/modules/skill-point-zone-sources/skill-point-zone-sources.module.code.ts"
 import type { SavedCharacterEntry } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-saved-variables/completion-saved-variables.module.code.ts"
 import type { TaskProgress } from "akasha/temper/player/completion/temper-player-completion/state/modules/completion-task-progress/completion-task-progress.module.code.ts"
 
 const SKILL_RANK_SORT_WEIGHT = 10_000_000
+
+export function skillPointPagesCompiledIn(this: void): readonly SkillPointPage[] {
+  return $pagesOfType<SkillPointPage>(temperSkillPoint)
+}
+
+readSkillPointPagesWith(skillPointPagesCompiledIn)
 
 export function resolveSkillLines(
   charData: SavedCharacterEntry | undefined,

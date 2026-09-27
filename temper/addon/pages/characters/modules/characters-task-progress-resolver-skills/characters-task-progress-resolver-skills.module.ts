@@ -8,4 +8,11 @@ export const charactersTaskProgressResolverSkills = {
     "how far a character's skill lines have ranked up and how far its skill points have got",
   code: "ts",
   test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The skill point sources are the skill point pages, written in as the add-on compiles.",
+    },
+  ],
 } as const satisfies Module

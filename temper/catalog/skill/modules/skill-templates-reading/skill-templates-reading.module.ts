@@ -50,5 +50,9 @@ export const skillTemplatesReading = {
       decisionKind: "decision-kind/departure",
       statement: "The gear pages a build reads are read and held with the skills.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The skill point source pages are read and held with the skills.",
+    },
   ],
 } as const satisfies Module
