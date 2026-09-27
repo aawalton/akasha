@@ -110,6 +110,14 @@ export const otherwhereMainHall = {
       ],
     },
     {
+      fact: "With power at 37, the Library's interface asks Nala to return to the core to synchronize.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
       fact: "The Library's kitchen has woken, and its sacks of salt with it.",
       knowers: [
         "lore-disclosure/game-master",
