@@ -5,6 +5,6 @@ export const defaultQuality = {
   type: "page-type/boolean-property",
   slug: "default-quality",
   propertySlug: "default-quality",
-  definition: "whether a new companion build starts its gear at this quality",
+  definition: "whether gear that states no quality of its own is read at this quality",
   types: "ts",
 } as const satisfies BooleanProperty

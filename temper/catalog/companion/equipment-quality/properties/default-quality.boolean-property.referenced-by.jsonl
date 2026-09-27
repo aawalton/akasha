@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"default-quality.boolean-property.types.ts","path":"temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"default-quality.boolean-property.types.ts","path":"temper/catalog/gear/temper-quality/temper-quality.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts","id":"01a05fcd-aed0-75bf-9fe4-d95291c165fb"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-quality/temper-quality.page-type.ts","id":"01a05fd1-d43f-7460-806b-41a2697dcbed"}
 {"propertySlug":"parts","path":"temper/catalog/companion/equipment-quality/temper-companion-equipment-quality.page-type.ts","id":"01a05fcd-aed0-75bf-9fe4-d95291c165fb"}

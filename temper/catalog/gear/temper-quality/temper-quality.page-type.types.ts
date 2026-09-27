@@ -1,3 +1,4 @@
+import type { DefaultQuality } from "akasha/temper/catalog/companion/equipment-quality/properties/default-quality.boolean-property.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { ArmorLevelScale } from "akasha/temper/catalog/gear/temper-quality/properties/armor-level-scale.number-property.types.ts"
 import type { EsoDisplayQuality } from "akasha/temper/catalog/gear/temper-quality/properties/eso-display-quality.number-property.types.ts"
@@ -19,4 +20,5 @@ export type TemperQuality = TemperCatalogThing & {
   armorLevelScale?: ArmorLevelScale
   weaponLevelScale?: WeaponLevelScale
   setBonusScale?: SetBonusScale
+  defaultQuality?: DefaultQuality
 }

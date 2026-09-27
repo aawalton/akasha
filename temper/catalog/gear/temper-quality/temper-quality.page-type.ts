@@ -25,6 +25,7 @@ export const temperQuality = {
     { pageProperty: "number-property/armor-level-scale", required: false, many: false },
     { pageProperty: "number-property/weapon-level-scale", required: false, many: false },
     { pageProperty: "number-property/set-bonus-scale", required: false, many: false },
+    { pageProperty: "boolean-property/default-quality", required: false, many: false },
   ],
   decisions: [
     {
