@@ -104,6 +104,14 @@ export const otherwhereCoreChamber = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A first sync leaves a Librarian drained and dazed, but unharmed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A sync halts the Library's power drain but leaves it in Emergency Power Mode, near empty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Emergency protocols hamper movement near the core, so the core seems further than it is.",
       knowers: ["lore-disclosure/game-master"],
     },
