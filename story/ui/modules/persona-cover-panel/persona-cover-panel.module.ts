@@ -20,5 +20,14 @@ export const personaCoverPanel = {
       decisionKind: "decision-kind/departure",
       statement: "A persona with no cover is left out rather than drawn empty.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The turn, its characters and their personas are each read by name rather than as a whole page type.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Nothing is read for a step whose names the step before has not given.",
+    },
   ],
 } as const satisfies Module

@@ -12,6 +12,10 @@ import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import {
+  namedShapeDescriptor,
+  type ShapeDescriptor,
+} from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { persona } from "akasha/persona/persona.page-type.ts"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import { characterOther } from "akasha/story/world/characters/character-other/character-other.page-type.ts"
@@ -87,37 +91,62 @@ export function personaCoversOf(
   return held
 }
 
+function named(
+  pageTypeSlug: string,
+  by: "id" | "slug",
+  values: readonly string[]
+): ShapeDescriptor {
+  return namedShapeDescriptor(pageTypeSlug, { by, values: [...values] })
+}
+
 export function PersonaCoverPanel({ turns }: { turns: readonly ClientStoryTurn[] }) {
   const turnId = latestTurnId(turns)
+  if (turnId === null) return null
+  return <TurnCovers turnId={turnId} />
+}
+
+function TurnCovers({ turnId }: { turnId: string }) {
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: storyTurnPlayed.slug,
-      where: [{ key: ID_KEY, in: turnId === null ? [] : [turnId] }],
+      where: [{ key: ID_KEY, in: [turnId] }],
       limit: ONE,
+      shape: named(storyTurnPlayed.slug, ID_KEY, [turnId]),
     }),
     [turnId]
   )
   const turnRows = usePages(turnOptions)
   const characterKeyed = characterSlugsIn(turnRows.rows[0]?.[characters.propertySlug]).join(" ")
+  if (characterKeyed === "") return null
+  return <CharacterCovers characterKeyed={characterKeyed} />
+}
+
+function CharacterCovers({ characterKeyed }: { characterKeyed: string }) {
   const characterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: characterOther.slug,
       where: [{ key: SLUG_KEY, in: inList(characterKeyed) }],
+      shape: named(characterOther.slug, SLUG_KEY, inList(characterKeyed)),
     }),
     [characterKeyed]
   )
   const characterRows = usePages(characterOptions)
-  const slugs = personaSlugsOf(inList(characterKeyed), characterRows.rows)
-  const keyed = slugs.join(" ")
+  const keyed = personaSlugsOf(inList(characterKeyed), characterRows.rows).join(" ")
+  if (keyed === "") return null
+  return <Covers keyed={keyed} />
+}
+
+function Covers({ keyed }: { keyed: string }) {
   const personaOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: persona.slug,
       where: [{ key: SLUG_KEY, in: inList(keyed) }],
+      shape: named(persona.slug, SLUG_KEY, inList(keyed)),
     }),
     [keyed]
   )
   const personaRows = usePages(personaOptions)
-  const covers = personaCoversOf(slugs, personaRows.rows)
+  const covers = personaCoversOf(inList(keyed), personaRows.rows)
 
   if (covers.length === 0) return null
 
