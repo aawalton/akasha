@@ -11,13 +11,17 @@ const SURPLUS_FALL_KIND = "surplus-fall"
 
 const DEEP_LINK_PATH_KEY = "path"
 
-export function notificationFeedRoute(feed: Feed): string {
+function notificationFeedRoute(feed: Feed): string {
   return buildPageHref({
     pageTypeSlug: toPageTypeSlug(NOTIFICATION_FEED_PAGE_TYPE_SLUG),
     slug: feed.slug,
     fallbackSlugSource: null,
     id: feed.id,
   })
+}
+
+export function notificationRoute(link: string | null, feed: Feed): string {
+  return link === null || link === "" ? notificationFeedRoute(feed) : link
 }
 
 export function buildApnsPayload(content: {

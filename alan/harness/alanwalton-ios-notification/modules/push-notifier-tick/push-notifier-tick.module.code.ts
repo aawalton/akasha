@@ -9,7 +9,7 @@ import {
 import {
   buildApnsPayload,
   buildSharedApnsPayload,
-  notificationFeedRoute,
+  notificationRoute,
   type Recipient,
   recipientsFor,
 } from "akasha/alan/harness/alanwalton-ios-notification/modules/push-payload/push-payload.module.code.ts"
@@ -112,7 +112,7 @@ async function pushNotification(
 ): Promise<void> {
   const one = args.notification
   const what = `notification ${one.id}`
-  const route = notificationFeedRoute(one.feed)
+  const route = notificationRoute(one.link, one.feed)
   await fanOut(
     {
       sender: args.sender,

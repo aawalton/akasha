@@ -6,18 +6,15 @@ export const pushPayload = {
   slug: "push-payload",
   definition: "what a push carries, and whose devices it is carried to",
   code: "ts",
+  test: "ts",
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every push deep-links to the feed page.",
+      statement: "A push deep-links to the link its notification states.",
     },
     {
-      decisionKind: "decision-kind/constraint",
-      statement: "The feed page is the only page a notification has.",
-    },
-    {
-      decisionKind: "decision-kind/absence",
-      statement: "No kind of push routes anywhere else.",
+      decisionKind: "decision-kind/departure",
+      statement: "A push whose notification states no link deep-links to the feed page.",
     },
     {
       decisionKind: "decision-kind/constraint",
