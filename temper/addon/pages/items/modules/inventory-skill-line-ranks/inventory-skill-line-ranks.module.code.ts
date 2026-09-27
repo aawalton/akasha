@@ -1,18 +1,20 @@
 import { isObjectRecord } from "akasha/code/type/narrowing/modules/is-object-record/is-object-record.module.code.ts"
 import { getTemperCharactersData } from "akasha/temper/addon/pages/items/modules/inventory-temper-characters-data/inventory-temper-characters-data.module.code.ts"
-import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
-import type { TemperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.types.ts"
+import {
+  type SkillLinePage,
+  skillLinePages,
+} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-api/eso-api.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-01/eso-functions-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-04/eso-functions-04.type-declaration.d.ts"
 
-type LineRow = Pick<TemperSkillLine, "key" | "esoSkillLineId" | "maxRank">
+type LineRow = Pick<SkillLinePage, "key" | "esoSkillLineId" | "maxRank">
 
 function linesByKey(this: void): { [key: string]: LineRow | undefined } {
   const found: { [key: string]: LineRow | undefined } = {}
-  for (const line of $pagesOfType<LineRow>(temperSkillLine)) found[line.key] = line
+  for (const line of skillLinePages()) found[line.key] = line
   return found
 }
 

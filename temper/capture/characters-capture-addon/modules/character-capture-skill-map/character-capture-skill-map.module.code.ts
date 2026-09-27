@@ -1,9 +1,11 @@
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
-import { temperScribedSkill } from "akasha/temper/catalog/skill/temper-scribed-skill/temper-scribed-skill.page-type.ts"
-import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
-import type { TemperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.types.ts"
+import {
+  type SkillPage,
+  scribedSkillPages,
+  skillPages,
+} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.code.ts"
 
-type Placed = Pick<TemperSkill, "esoSkillId" | "hashPlace">
+type Placed = Pick<SkillPage, "esoSkillId" | "hashPlace">
 
 type Places = { [esoSkillId: number]: number | undefined }
 
@@ -18,8 +20,8 @@ function note(this: void, into: Places, one: Placed): undefined {
 
 function placesOf(this: void): Places {
   const found: Places = {}
-  for (const one of $pagesOfType<Placed>(temperSkill)) note(found, one)
-  for (const one of $pagesOfType<Placed>(temperScribedSkill)) note(found, one)
+  for (const one of skillPages()) note(found, one)
+  for (const one of scribedSkillPages()) note(found, one)
   return found
 }
 

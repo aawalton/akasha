@@ -4902,6 +4902,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-map/character-capture-skill-line-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-ranks/character-capture-skill-line-ranks.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-map/character-capture-skill-map.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-strip/skill-morph-strip.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-hud/skill-morph-task-hud.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/characters-skills-morphs-addon/modules/skill-morph-task-progress/skill-morph-task-progress.module.ts","typed":true,"deferred":false}

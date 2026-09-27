@@ -1,7 +1,10 @@
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import {
+  type SkillLinePage,
+  skillLinePages,
+} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.code.ts"
 import { allianceWarEmperor } from "akasha/temper/catalog/skill/line/pages/alliance-war-emperor.temper-skill-line.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
-import type { TemperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.types.ts"
 import { characterClass } from "akasha/temper/catalog/skill/line-category/pages/character-class.temper-skill-line-category.ts"
 import { companion } from "akasha/temper/catalog/skill/line-category/pages/companion.temper-skill-line-category.ts"
 import { none } from "akasha/temper/catalog/skill/line-category/pages/none.temper-skill-line-category.ts"
@@ -12,7 +15,7 @@ import type { TemperClass } from "akasha/temper/catalog/skill/temper-class/tempe
 import { temperRace } from "akasha/temper/catalog/world/temper-race/temper-race.page-type.ts"
 import type { TemperRace } from "akasha/temper/catalog/world/temper-race/temper-race.page-type.types.ts"
 
-type Line = Pick<TemperSkillLine, "slug" | "esoSkillLineId" | "category" | "class" | "hashPlace">
+type Line = SkillLinePage
 
 type Groups = {
   readonly byClass: { [esoClassId: number]: number[] | undefined }
@@ -28,7 +31,7 @@ const NOT_BASE: readonly string[] = [characterClass, racial, companion, none].ma
 let held: Groups | undefined
 
 function linesInPlace(this: void): readonly Line[] {
-  const lines = [...$pagesOfType<Line>(temperSkillLine)]
+  const lines = [...skillLinePages()]
   lines.sort((one, other) => one.hashPlace - other.hashPlace)
   return lines
 }

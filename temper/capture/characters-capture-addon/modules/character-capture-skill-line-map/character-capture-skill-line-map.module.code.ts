@@ -1,10 +1,12 @@
 import "akasha/temper/eso/type/lua-language-extensions/lua-language-extensions.type-declaration.d.ts"
+import {
+  type SkillLinePage,
+  skillLinePages,
+  skillPages,
+} from "akasha/temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.code.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
-import type { TemperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.types.ts"
 import { companion } from "akasha/temper/catalog/skill/line-category/pages/companion.temper-skill-line-category.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
-import { temperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.ts"
-import type { TemperSkill } from "akasha/temper/catalog/skill/temper-skill.page-type.types.ts"
 import { passive } from "akasha/temper/catalog/skill/type/pages/passive.temper-skill-type.ts"
 import { ultimate } from "akasha/temper/catalog/skill/type/pages/ultimate.temper-skill-type.ts"
 import { temperSkillType } from "akasha/temper/catalog/skill/type/temper-skill-type.page-type.ts"
@@ -15,22 +17,7 @@ const PASSIVE = `${temperSkillType.slug}/${passive.slug}`
 
 const ULTIMATE = `${temperSkillType.slug}/${ultimate.slug}`
 
-export type PlayerSkillLine = Pick<
-  TemperSkillLine,
-  "slug" | "esoSkillLineId" | "category" | "hashPlace" | "maxRank" | "displayOrder"
->
-
-type Skill = Pick<
-  TemperSkill,
-  | "esoSkillId"
-  | "skillType"
-  | "skillLineId"
-  | "baseName"
-  | "title"
-  | "morphIndex"
-  | "lineRankNeeded"
-  | "hashPlace"
->
+export type PlayerSkillLine = SkillLinePage
 
 export type MorphableDetail = {
   baseName: string
@@ -46,22 +33,15 @@ export type DetailsByLine = { [esoSkillLineId: number]: readonly MorphableDetail
 
 type Places = { [esoSkillLineId: number]: number | undefined }
 
-let every: readonly PlayerSkillLine[] | undefined
-
 let lines: readonly PlayerSkillLine[] | undefined
 
 let places: Places | undefined
 
 let details: DetailsByLine | undefined
 
-function everySkillLine(this: void): readonly PlayerSkillLine[] {
-  every ??= [...$pagesOfType<PlayerSkillLine>(temperSkillLine)]
-  return every
-}
-
 export function playerSkillLines(): readonly PlayerSkillLine[] {
   if (lines !== undefined) return lines
-  const found = everySkillLine().filter((one) => one.category !== COMPANION)
+  const found = skillLinePages().filter((one) => one.category !== COMPANION)
   found.sort((one, other) => one.hashPlace - other.hashPlace)
   lines = found
   return found
@@ -82,7 +62,7 @@ export function getPlayerSkillLineIndex(esoSkillLineId: number): number {
 }
 
 function groupsOf(this: void): readonly Group[] {
-  const skills = [...$pagesOfType<Skill>(temperSkill)]
+  const skills = [...skillPages()]
   skills.sort((one, other) => one.hashPlace - other.hashPlace)
   const byKey: { [key: string]: Group | undefined } = {}
   const inOrder: Group[] = []
@@ -116,7 +96,7 @@ function groupsOf(this: void): readonly Group[] {
 
 function detailsOf(this: void): DetailsByLine {
   const esoOf: { [address: string]: number | undefined } = {}
-  for (const one of everySkillLine()) {
+  for (const one of skillLinePages()) {
     esoOf[`${temperSkillLine.slug}/${one.slug}`] = one.esoSkillLineId
   }
   const grouped: { [esoSkillLineId: number]: Group[] | undefined } = {}

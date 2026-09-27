@@ -4789,6 +4789,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/temper-addon.page-type.ts","id":"01a06036-9b77-710a-8ddc-ee7c58591896"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-scribed-skill-map/character-capture-scribed-skill-map.module.ts","id":"01a0d62c-d5b4-75e1-b4ce-b66ae5e37c6b"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-line-groups/character-capture-skill-line-groups.module.ts","id":"01a0616b-aaf2-7d29-bf88-e33b5830c654"}
+{"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/modules/character-capture-skill-pages/character-capture-skill-pages.module.ts","id":"01a0e062-b6c8-702c-b74f-ccc8ad13269d"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-capture-addon/temper-characters-capture-addon.domain.ts","id":"01a0616b-4d21-7c3e-9b48-5f0a2c81d6e4"}
 {"propertySlug":"decision-kind","path":"temper/capture/characters-skills-morphs-addon/temper-characters-skills-morphs-addon.domain.ts","id":"01a062ff-2792-7da8-8bfd-3a48ace9bf53"}
 {"propertySlug":"decision-kind","path":"temper/capture/completion-import/modules/completion-input-schema/completion-input-schema.module.ts","id":"01a060d7-c8ce-7583-8247-676a8ee7d0c5"}
