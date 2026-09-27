@@ -6,5 +6,6 @@
 {"propertySlug":"import","fileName":"use-companion-catalog.module.code.tsx","path":"temper/web/modules/use-companion-set-target/use-companion-set-target.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-companion-catalog.module.code.tsx","path":"temper/web/modules/use-companion-suggestions/use-companion-suggestions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-companion-catalog.module.code.tsx","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-companion-catalog.module.code.tsx","path":"temper/web/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-companion-catalog.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/web/temper-web.router-app.ts","id":"01a06401-38c0-764d-a6a9-adb737874f4b"}

@@ -11,5 +11,10 @@ export const useCompanionShoppingData = {
       decisionKind: "decision-kind/departure",
       statement: "A player's own builds are the ones naming the address of that player's account.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The gear the builds want is worked out again whenever the companion catalogue is read again.",
+    },
   ],
 } as const satisfies Module

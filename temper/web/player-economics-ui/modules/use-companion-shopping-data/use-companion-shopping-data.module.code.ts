@@ -17,6 +17,7 @@ import { buildHash as toBuildHash } from "akasha/temper/player/character/formula
 import { useAllCompanionList } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { applyCompanionMetadata } from "akasha/temper/web/modules/build-metadata/build-metadata.module.code.ts"
 import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { usePlayer } from "akasha/temper/web/modules/use-player/use-player.module.code.ts"
 import { useCompletionCompanions } from "akasha/temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts"
 import {
@@ -79,6 +80,8 @@ export function useCompanionShoppingData(userId: string | null): CompanionShoppi
     error: pricingError,
   })
 
+  const catalogRead = useHeldCompanionCatalog()
+
   const buildMap = useMemo(() => {
     const map = new Map<string, { buildData: CompanionState | null }>()
     for (const build of builds) {
@@ -89,7 +92,7 @@ export function useCompanionShoppingData(userId: string | null): CompanionShoppi
       map.set(build.id, { buildData })
     }
     return map
-  }, [builds, accountPage])
+  }, [builds, accountPage, catalogRead])
 
   const shoppingEntities = useMemo(() => {
     const entities: ShoppingEntity[] = []
