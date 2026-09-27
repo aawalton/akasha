@@ -10,7 +10,7 @@ export const theDatingGame00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "While I’m on campus, I decide to take a leisurely walk on the quiet trail next to the stream circling campus, halfway down the hill",
   beats: [
@@ -26,7 +26,8 @@ export const theDatingGame00021 = {
   ],
   issues: [
     '"A side path climbs back up ..., and another drops away downhill, toward home." - No Prompt',
+    '"another drops away downhill, toward home" - home is uphill of campus (turns 2, 17)',
   ],
   lore: ["place/the-dating-game-byu-stream-trail"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
