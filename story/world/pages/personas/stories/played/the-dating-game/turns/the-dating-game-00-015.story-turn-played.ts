@@ -4,13 +4,13 @@ export const theDatingGame00015 = {
   id: "01a0e36a-84cc-7c62-b363-11e3a57defe3",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-015",
-  ownLength: 124,
+  ownLength: 118,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 15,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/writer",
+  turnStatus: "turn-status/recorders",
   action:
     '"You think you could do it? I\'d love a partner on this. Can you make a voice after reading the text without hearing it first?"',
   beats: [
