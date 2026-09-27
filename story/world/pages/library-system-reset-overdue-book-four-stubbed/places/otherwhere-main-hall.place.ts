@@ -73,6 +73,14 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "The break room's dead magical cooler is dry and tight, a fit store for dried bookworms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Each book's spine bears a faint shelf mark that matches a mark on the shelf it belongs on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The break room has a stone sink whose tap still runs cold, clean water.",
       knowers: [
         "lore-disclosure/game-master",
