@@ -82,6 +82,7 @@
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-ops/inventory-ops.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rule-held/inventory-rule-held.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-classify/inventory-rules-classify.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-functions-09.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts","typed":false,"deferred":false}

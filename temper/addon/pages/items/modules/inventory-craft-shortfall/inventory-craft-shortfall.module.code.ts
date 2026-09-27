@@ -1,37 +1,30 @@
-import { buildItemFactsForLink } from "akasha/temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts"
 import { ADDON_NAME } from "akasha/temper/addon/pages/items/modules/inventory-constants/inventory-constants.module.code.ts"
 import { alchemyShortfallResolver } from "akasha/temper/addon/pages/items/modules/inventory-craft-shortfall-alchemy/inventory-craft-shortfall-alchemy.module.code.ts"
 import {
   type CraftMakes,
-  countsTowardHeld,
   craftMakesCategory,
   craftsToFill,
   firstUnmetPassive,
-  heldAccountWide,
   type PassiveNeed,
   passiveRefusal,
   resolverForStation,
-  type StoredCount,
 } from "akasha/temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.code.ts"
 import { provisioningShortfallResolver } from "akasha/temper/addon/pages/items/modules/inventory-craft-shortfall-provisioning/inventory-craft-shortfall-provisioning.module.code.ts"
 import { buildEsoEvalEnv } from "akasha/temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.code.ts"
 import { resolvePriceSource } from "akasha/temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.code.ts"
+import {
+  countHeld,
+  ruleStockTarget,
+  takerFor,
+} from "akasha/temper/addon/pages/items/modules/inventory-rule-held/inventory-rule-held.module.code.ts"
 import { getAncestorChain } from "akasha/temper/addon/pages/items/modules/inventory-rules-classify/inventory-rules-classify.module.code.ts"
 import { getCompiledConfig } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
-import { countEligibleCharacters } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval-allocation/inventory-rules-eval-allocation.module.code.ts"
-import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import {
   clearWritCraftQueue,
   enqueueWritCraft,
 } from "akasha/temper/addon/pages/items/modules/inventory-writ-crafting-queue/inventory-writ-crafting-queue.module.code.ts"
 import type { CompiledOrderedRule } from "akasha/temper/items/rules/core/modules/inventory-rule-compiler-types/inventory-rule-compiler-types.module.code.ts"
-import {
-  planStockChainVisit,
-  stockChainTarget,
-} from "akasha/temper/items/rules/core/modules/stock-chain-visit/stock-chain-visit.module.code.ts"
-import { categoryMatchesItem } from "akasha/temper/items/rules/eval/modules/category-match/category-match.module.code.ts"
 import type { EvalContext } from "akasha/temper/items/rules/eval/modules/eval-env/eval-env.module.code.ts"
-import { evaluateConditions } from "akasha/temper/items/rules/eval/modules/rule-condition-eval/rule-condition-eval.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-07/eso-enums-07.type-declaration.d.ts"
@@ -70,85 +63,6 @@ function say(this: void, message: string): undefined {
   d(`[${ADDON_NAME}] ${message}`)
 }
 
-function isMadeType(itemTypes: readonly number[], itemType: number): boolean {
-  for (const one of itemTypes) {
-    if (one === itemType) return true
-  }
-  return false
-}
-
-function takerFor(
-  rule: CompiledOrderedRule,
-  itemTypes: readonly number[],
-  ctx: EvalContext
-): (this: void, itemLink: string, stolen: boolean) => boolean {
-  const seen = new Map<string, boolean>()
-  return function (this: void, itemLink: string, stolen: boolean): boolean {
-    const key = `${stolen ? "s" : "c"}${itemLink}`
-    const held = seen.get(key)
-    if (held !== undefined) return held
-    const [itemType] = GetItemLinkItemType(itemLink)
-    let takes = false
-    if (isMadeType(itemTypes, itemType)) {
-      const facts = { ...buildItemFactsForLink(itemLink), isStolen: stolen }
-      takes =
-        categoryMatchesItem(rule.categoryId, facts).kind === "match" &&
-        evaluateConditions(rule, facts, ctx).kind === "pass"
-    }
-    seen.set(key, takes)
-    return takes
-  }
-}
-
-function countLive(
-  bagId: number,
-  takes: (this: void, itemLink: string, stolen: boolean) => boolean
-): number {
-  let count = 0
-  const size = GetBagSize(bagId)
-  for (let slot = 0; slot < size; slot++) {
-    const [stack] = GetSlotStackSize(bagId, slot)
-    if (stack === 0) continue
-    const link = GetItemLink(bagId, slot, LINK_STYLE_BRACKETS)
-    if (link !== "" && takes(link, IsItemStolen(bagId, slot))) count += stack
-  }
-  return count
-}
-
-function countStored(
-  itemTypes: readonly number[],
-  takes: (this: void, itemLink: string, stolen: boolean) => boolean,
-  currentCharId: string
-): StoredCount[] {
-  const stored: StoredCount[] = []
-  for (const [locationKey, location] of Object.entries(getDatabase().locations)) {
-    if (!countsTowardHeld(locationKey, currentCharId)) continue
-    let count = 0
-    for (const slots of Object.values(location.bags)) {
-      for (const item of Object.values(slots)) {
-        if (!isMadeType(itemTypes, item.itemType)) continue
-        if (takes(item.itemLink, item.stolen === true)) count += item.stackCount
-      }
-    }
-    stored.push({ locationKey, count })
-  }
-  return stored
-}
-
-function countHeld(
-  itemTypes: readonly number[],
-  takes: (this: void, itemLink: string, stolen: boolean) => boolean,
-  currentCharId: string
-): number {
-  const liveBank = countLive(BAG_BANK, takes) + countLive(BAG_SUBSCRIBER_BANK, takes)
-  return heldAccountWide(
-    countLive(BAG_BACKPACK, takes),
-    liveBank,
-    countStored(itemTypes, takes, currentCharId),
-    currentCharId
-  )
-}
-
 function craftForRule(
   rule: CompiledOrderedRule,
   resolver: CraftShortfallResolver,
@@ -156,9 +70,7 @@ function craftForRule(
   currentCharId: string
 ): boolean {
   const name = `rule ${rule.id ?? rule.categoryId}`
-  const chain = rule.destinationChain
-  const leg = chain === undefined ? undefined : planStockChainVisit(chain)
-  const target = stockChainTarget(chain, countEligibleCharacters(leg?.charEligibility))
+  const target = ruleStockTarget(rule)
   if (target === undefined) {
     say(`${name}: crafted nothing, since its chain has no by-priority leg to count a target from`)
     return false

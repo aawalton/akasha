@@ -23,8 +23,7 @@ export const inventoryCraftShortfall = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "A rule takes an item where the item's category and the rule's conditions both match.",
+      statement: "What a rule holds is counted only among the item types the craft makes.",
     },
     {
       decisionKind: "decision-kind/departure",

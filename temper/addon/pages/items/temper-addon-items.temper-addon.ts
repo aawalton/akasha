@@ -236,6 +236,7 @@ export const temperAddonItems = {
     "module/trading-trader-kiosk-info",
     "module/trading-types",
     "module/tamriel-tomes-buy-all",
+    "module/inventory-rule-held",
   ],
   decisions: [
     {

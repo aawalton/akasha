@@ -4191,6 +4191,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-location-order/inventory-location-order.module.ts","id":"01a0e0a0-2424-7004-af9c-97bb9c20e4e9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.ts","id":"01a06258-b52e-7092-b8df-b96f86d39d15"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rule-held/inventory-rule-held.module.ts","id":"01a0e315-95ad-766e-95c5-a7a104008d5a"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.ts","id":"01a06258-b52f-7911-b65b-636ea6e3179f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.ts","id":"01a06258-b52f-71e3-a07e-8a55157ddd17"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.ts","id":"01a06258-b52f-7219-a9f9-f6d5b67fe4a5"}

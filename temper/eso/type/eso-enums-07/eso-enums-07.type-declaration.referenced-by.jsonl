@@ -67,6 +67,7 @@
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-ops/inventory-ops.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-quest-annotations/inventory-quest-annotations.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rule-held/inventory-rule-held.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-character-finders-companion/inventory-rules-core-character-finders-companion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-enums-07.type-declaration.d.ts","path":"temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts","typed":false,"deferred":false}
