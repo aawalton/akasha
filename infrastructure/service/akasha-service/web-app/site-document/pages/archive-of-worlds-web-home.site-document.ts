@@ -9,5 +9,5 @@ export const archiveOfWorldsWebHome = {
     "Your content will appear here as it is added. Use the sidebar to navigate between collections once they exist.",
   webApp: "web-app/archive-of-worlds-web",
   urlPath: "",
-  lead: "Welcome to your Archive of Worlds. (live check)",
+  lead: "Welcome to your Archive of Worlds.",
 } as const satisfies SiteDocument
