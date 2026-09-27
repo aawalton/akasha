@@ -279,6 +279,7 @@ test("a rule written out and read back is the rule it was", () => {
     locked: true,
     stockScope: "any-character",
     craftShortfall: true,
+    buyShortfall: true,
     conditions: { targetQuantity: 1000000 },
     destinationChain: [{ destination: "bank" }],
   }

@@ -19,3 +19,19 @@ test("a rule that does not stock never compiles as crafting", () => {
   const sell: CategoryRule = { ...STOCK, action: "sell", craftShortfall: true }
   expect("craftShortfall" in compileCategoryRuleToOrdered(sell)).toBe(false)
 })
+
+test("a stocking rule saying it buys its shortfall compiles as buying it", () => {
+  expect(compileCategoryRuleToOrdered({ ...STOCK, buyShortfall: true }).buyShortfall).toBe(true)
+})
+
+test("a stocking rule saying nothing of buying compiles as not buying", () => {
+  expect("buyShortfall" in compileCategoryRuleToOrdered(STOCK)).toBe(false)
+  expect("buyShortfall" in compileCategoryRuleToOrdered({ ...STOCK, buyShortfall: false })).toBe(
+    false
+  )
+})
+
+test("a rule that does not stock never compiles as buying", () => {
+  const sell: CategoryRule = { ...STOCK, action: "sell", buyShortfall: true }
+  expect("buyShortfall" in compileCategoryRuleToOrdered(sell)).toBe(false)
+})

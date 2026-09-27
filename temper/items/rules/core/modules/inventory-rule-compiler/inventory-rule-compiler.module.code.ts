@@ -116,6 +116,7 @@ export function compileCategoryRuleToOrdered(rule: CategoryRule): CompiledOrdere
   if (rule.action === "stock") {
     entry.stockScope = rule.stockScope ?? "any-character"
     if (rule.craftShortfall === true) entry.craftShortfall = true
+    if (rule.buyShortfall === true) entry.buyShortfall = true
   }
   return entry
 }

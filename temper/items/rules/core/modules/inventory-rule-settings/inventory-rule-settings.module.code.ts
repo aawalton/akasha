@@ -74,6 +74,7 @@ function omitUndefinedRuleFields(patch: Partial<CategoryRule>): Partial<Category
   if (patch.destination !== undefined) out.destination = patch.destination
   if (patch.stockScope !== undefined) out.stockScope = patch.stockScope
   if (patch.craftShortfall !== undefined) out.craftShortfall = patch.craftShortfall
+  if (patch.buyShortfall !== undefined) out.buyShortfall = patch.buyShortfall
   if (patch.destinationChain !== undefined) out.destinationChain = patch.destinationChain
   if (patch.active !== undefined) out.active = patch.active
   if (patch.goal !== undefined) out.goal = patch.goal
@@ -155,6 +156,7 @@ export function updateCategoryRule(
       | "destination"
       | "stockScope"
       | "craftShortfall"
+      | "buyShortfall"
       | "destinationChain"
       | "active"
       | "goal"
@@ -356,6 +358,7 @@ export function bulkUpdateCategoryRules(
       | "destinationChain"
       | "stockScope"
       | "craftShortfall"
+      | "buyShortfall"
       | "active"
       | "goal"
       | "title"

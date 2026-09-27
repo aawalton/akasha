@@ -147,6 +147,7 @@ export function pageFromRule(
     ...(rule.destination === undefined ? {} : { destination: rule.destination }),
     ...(rule.stockScope === undefined ? {} : { stockScope: rule.stockScope }),
     ...(rule.craftShortfall === undefined ? {} : { craftShortfall: rule.craftShortfall }),
+    ...(rule.buyShortfall === undefined ? {} : { buyShortfall: rule.buyShortfall }),
   }
   return { page, conditions: conditionsOf(rule), chain: chainEntriesOf(rule.destinationChain) }
 }

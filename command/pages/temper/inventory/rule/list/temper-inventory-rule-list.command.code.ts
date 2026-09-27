@@ -22,6 +22,7 @@ const COLUMNS = [
   "locked",
   "destination",
   "craftShortfall",
+  "buyShortfall",
   "controlled",
 ]
 

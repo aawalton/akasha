@@ -74,6 +74,7 @@ export interface CategoryRule {
   destination?: MoveToDestination
   stockScope?: StockScope
   craftShortfall?: boolean
+  buyShortfall?: boolean
   destinationChain?: DestinationChain
   updatedAt?: number
   conditions?: {

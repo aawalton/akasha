@@ -111,6 +111,7 @@ export interface CompiledOrderedRule extends ResolvedEntry {
   potionEffectsMode?: "all" | "any"
   itemIds?: readonly number[]
   craftShortfall?: true
+  buyShortfall?: true
 }
 
 export const IMPLICIT_TERMINAL_COMPILED_RULE: CompiledOrderedRule = {

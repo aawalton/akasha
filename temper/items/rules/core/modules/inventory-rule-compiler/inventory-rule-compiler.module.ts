@@ -17,6 +17,10 @@ export const inventoryRuleCompiler = {
       statement: "Only a stocking rule saying it crafts its shortfall compiles as crafting it.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "Only a stocking rule saying it buys its shortfall compiles as buying it.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "A compiled rule's place in the list is the order the rules are tried in.",
     },

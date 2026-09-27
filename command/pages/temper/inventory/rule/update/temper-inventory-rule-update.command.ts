@@ -60,5 +60,6 @@ export const temperInventoryRuleUpdate = {
     { argument: "argument/category-rule-id", required: true, saidAs: "word" },
     { argument: "argument/destination-chain" },
     { argument: "argument/craft-shortfall" },
+    { argument: "argument/buy-shortfall" },
   ],
 } as const satisfies Command

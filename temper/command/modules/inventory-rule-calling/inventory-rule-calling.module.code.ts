@@ -60,6 +60,7 @@ export function categoryRow(rule: CategoryRule): Record<string, unknown> {
     locked: rule.locked,
     destination: rule.destination,
     craftShortfall: rule.craftShortfall,
+    buyShortfall: rule.buyShortfall,
   }
 }
 

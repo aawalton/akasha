@@ -49,7 +49,7 @@ function changingWith(held: Partial<Taken>, writing: Writing, done: string[]): P
 }
 
 test("the page declares the id as a word and every field it changes at a flag", () => {
-  expect(page.arguments.length).toBe(13)
+  expect(page.arguments.length).toBe(14)
   const said = page.arguments[10]
   expect(said?.argument).toContain(categoryRuleId.slug)
   expect(said?.required).toBe(true)
@@ -93,6 +93,18 @@ test("a rule told to craft its shortfall is written crafting it, and told not to
       return Promise.resolve()
     })
     await changingWith({ craftShortfall: said }, keeping, [])
+    expect(written).toEqual([said])
+  }
+})
+
+test("a rule told to buy its shortfall is written buying it, and told not to, not", async () => {
+  for (const said of [true, false]) {
+    const written: (boolean | undefined)[] = []
+    const keeping = writingThat((settings) => {
+      written.push(settings.rules.find((one) => one.id === HELD)?.buyShortfall)
+      return Promise.resolve()
+    })
+    await changingWith({ buyShortfall: said }, keeping, [])
     expect(written).toEqual([said])
   }
 })
