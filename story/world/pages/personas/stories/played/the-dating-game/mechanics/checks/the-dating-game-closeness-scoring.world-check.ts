@@ -67,7 +67,7 @@ export const theDatingGameClosenessScoring = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "Scoring is a check that rolls nothing, so a scored turn keeps its reading and answer in its rolls.",
+        "Scoring is a check that rolls nothing, so a scored turn keeps reading and answer in its outcomes.",
     },
     {
       decisionKind: "decision-kind/departure",

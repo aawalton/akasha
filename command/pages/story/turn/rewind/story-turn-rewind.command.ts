@@ -18,24 +18,24 @@ export const storyTurnRewind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rewind takes away the turn's prose file and its rolls file.",
+      statement: "A rewind takes away the turn's prose file and its outcomes file.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rewind takes back every number the turn's landed rolls added to a page.",
+      statement: "A rewind takes back every number the turn's landed outcomes added to a page.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "What a roll added is what its check's code names as added for that roll.",
+      statement: "What an outcome added is what its check's code names as added for that outcome.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A roll only drafted is discarded with the recorders' edits and takes nothing back.",
+        "An outcome only drafted is discarded with the recorders' edits and takes nothing back.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roll whose check is no longer here refuses the rewind.",
+      statement: "An outcome whose check is no longer here refuses the rewind.",
     },
     {
       decisionKind: "decision-kind/departure",

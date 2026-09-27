@@ -27,7 +27,7 @@ const AT = `stories/the-saga/turns/${SLUG}.story-turn-played.ts`
 
 const PROSE_AT = `stories/the-saga/turns/${SLUG}.story-turn-played.prose.txt`
 
-const ROLLS_AT = `stories/the-saga/turns/${SLUG}.story-turn-played.rolls.jsonl`
+const OUTCOMES_AT = `stories/the-saga/turns/${SLUG}.story-turn-played.outcomes.jsonl`
 
 const MASTER = "mari-game-master-the-saga"
 
@@ -123,7 +123,7 @@ function reachOver(turn: Turn, into: Seen, latest = SLUG): Rewinding {
       { at: AT, slug: latest, position: 3 },
     ],
     seatsIn: () => SEATS,
-    present: (_root, path) => path === PROSE_AT || path === ROLLS_AT,
+    present: (_root, path) => path === PROSE_AT || path === OUTCOMES_AT,
     textIn: () => "",
     addingOf: async () => () => [],
     pageAt: () => null,
@@ -144,7 +144,7 @@ function scoredLine(change: number): string {
 function scoredOver(turn: Turn, into: Seen, lines: readonly string[]): Rewinding {
   return {
     ...reachOver(turn, into),
-    textIn: (_root, path) => (path === ROLLS_AT ? `${lines.join("\n")}\n` : ""),
+    textIn: (_root, path) => (path === OUTCOMES_AT ? `${lines.join("\n")}\n` : ""),
     addingOf: async (_root, check) =>
       check === "the-saga-scoring"
         ? (_reading, answered) => {
@@ -190,7 +190,7 @@ test("a rewind clears what the turn made, keeps its action and takes its files i
     turnStatus: `${turnStatus.slug}/world-builder`,
     action: "I open the gate",
   })
-  expect(into.asked).toEqual([taking(PROSE_AT), taking(ROLLS_AT)])
+  expect(into.asked).toEqual([taking(PROSE_AT), taking(OUTCOMES_AT)])
 })
 
 test("a rewind clears which recorders ran and discards the edits they kept beside the turn", async () => {
@@ -313,7 +313,7 @@ test("a turn that is not the latest of its story lands nothing", async () => {
   expect(into.notices).toEqual([])
 })
 
-test("a rewind of a scored turn takes back what its landed rolls added, in the same landing", async () => {
+test("a rewind of a scored turn takes back what its landed outcomes added, in the same landing", async () => {
   const into = seen()
   const turn = turnAt({ action: "I open the gate" })
   const reach = scoredOver(turn, into, [scoredLine(3), scoredLine(-1)])
@@ -327,11 +327,11 @@ test("a rewind of a scored turn takes back what its landed rolls added, in the s
     values: { relationshipPoints: 10 },
     merge: true,
   })
-  expect(into.asked).toEqual([taking(PROSE_AT), taking(ROLLS_AT)])
+  expect(into.asked).toEqual([taking(PROSE_AT), taking(OUTCOMES_AT)])
   expect(answer.report).toContain(`taken back\t${HER}\trelationshipPoints`)
 })
 
-test("a rewind of a turn with no rolls takes nothing back", async () => {
+test("a rewind of a turn with no outcomes takes nothing back", async () => {
   const into = seen()
   const turn = turnAt({ action: "I open the gate" })
   const reach = { ...scoredOver(turn, into, [scoredLine(3)]), present: () => false }
@@ -341,7 +341,7 @@ test("a rewind of a turn with no rolls takes nothing back", async () => {
   expect(answer.report.join("\n")).not.toContain("taken back")
 })
 
-test("rolls only drafted beside the turn are discarded and take nothing back", async () => {
+test("outcomes only drafted beside the turn are discarded and take nothing back", async () => {
   const into = seen()
   const turn = turnAt({ action: "I open the gate", turnStatus: `${turnStatus.slug}/recorders` })
   const reach = {
@@ -355,7 +355,7 @@ test("rolls only drafted beside the turn are discarded and take nothing back", a
   expect(answer.report).toContain("discarded\tthe recorders' kept edits")
 })
 
-test("rolls naming a check that is not here land nothing", async () => {
+test("outcomes naming a check that is not here land nothing", async () => {
   const into = seen()
   const turn = turnAt({ action: "I open the gate" })
   const line = JSON.stringify({ check: "world-check/gone", reading: {}, answered: { change: 3 } })

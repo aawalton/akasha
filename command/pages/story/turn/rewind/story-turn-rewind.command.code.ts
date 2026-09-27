@@ -22,7 +22,10 @@ import {
 } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Answer, Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import { heldAt } from "akasha/command/modules/filling/command-filling.module.code.ts"
-import { type Added, rollsAt } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
+import {
+  type Added,
+  outcomesAt,
+} from "akasha/command/pages/story/settle/story-settle.command.code.ts"
 import { heldOf } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.code.ts"
 import {
   noticesSent,
@@ -121,7 +124,7 @@ function alreadyRewound(
 
 function besideTurn(reach: Rewinding, root: string, turn: Turn): readonly string[] {
   const prose = besideAt(turn.at, PROSE, textAt(turn.value, PROSE) ?? PROSE_HELD)
-  return [prose, rollsAt(turn.at)].filter(
+  return [prose, outcomesAt(turn.at)].filter(
     (one): one is string => one !== null && reach.present(root, one)
   )
 }
@@ -158,7 +161,7 @@ async function undoneOf(
   turn: Turn,
   gone: readonly string[]
 ): Promise<Undone | { readonly refused: string }> {
-  const at = rollsAt(turn.at)
+  const at = outcomesAt(turn.at)
   if (at === null || !gone.includes(at)) return { namings: [], report: [] }
   const added = await addedIn(reach, root, at)
   if ("refused" in added) return added

@@ -32,7 +32,7 @@ export const storySettle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roll is appended to the rolls beside its turn before its answer is told.",
+      statement: "A roll is appended to the outcomes beside its turn before its answer is told.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -61,7 +61,7 @@ export const storySettle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A drafting call reads the rolls as the calling agent's kept edits leave them.",
+      statement: "A drafting call reads the outcomes as the calling agent's kept edits leave them.",
     },
   ],
   name: "settle",

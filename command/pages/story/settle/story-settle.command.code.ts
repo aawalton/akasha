@@ -47,7 +47,7 @@ import type { Rolled } from "akasha/story/world/mechanics/modules/dice-reading/d
 import type { Dice } from "akasha/story/world/mechanics/modules/dice-rolling/dice-rolling.module.code.ts"
 import { thrownFrom } from "akasha/story/world/mechanics/modules/dice-throwing/dice-throwing.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
-import { rolls } from "akasha/story/world/stories/played/turns/properties/rolls.file-property.ts"
+import { outcomes } from "akasha/story/world/stories/played/turns/properties/outcomes.file-property.ts"
 import { storyTurnPlayed } from "akasha/story/world/stories/played/turns/story-turn-played.page-type.ts"
 import { z } from "zod"
 
@@ -176,12 +176,12 @@ export function settlingIndexed(root: string, check: string): string | null {
 
 const INDEXED: Reach = { turnsOf: turnsIndexed, settlingAt: settlingIndexed }
 
-export function rollsAt(turn: string): string | null {
-  return besideAt(turn, rolls.propertySlug, JSONL)
+export function outcomesAt(turn: string): string | null {
+  return besideAt(turn, outcomes.propertySlug, JSONL)
 }
 
 function lastLineAt(root: string, turn: string): string | null {
-  const at = rollsAt(turn)
+  const at = outcomesAt(turn)
   if (at === null) return null
   const path = join(root, at)
   if (statSync(path, { throwIfNoEntry: false }) === undefined) return null
@@ -291,9 +291,9 @@ function placedFor(root: string, held: Taken, reach: Reach): Placed | Refusing {
   }
   const code = reach.settlingAt(root, held.check)
   if (code === null) return { refused: `\`${held.check}\` names no check here`, by: DATA }
-  const at = rollsAt(on.at)
+  const at = outcomesAt(on.at)
   if (at === null) {
-    return { refused: `\`${on.at}\` is no page file, so no rolls sit beside it`, by: DATA }
+    return { refused: `\`${on.at}\` is no page file, so no outcomes sit beside it`, by: DATA }
   }
   return { turns, on, at, code }
 }

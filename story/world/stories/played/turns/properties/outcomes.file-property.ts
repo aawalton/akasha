@@ -1,17 +1,17 @@
 import type { FileProperty } from "akasha/page/file-property/file-property.page-type.types.ts"
 
-export const rolls = {
+export const outcomes = {
   id: "01a0de23-015c-7892-8e17-ce5f54c5a9bc",
   type: "page-type/file-property",
-  slug: "rolls",
-  propertySlug: "rolls",
-  definition: "the rolls settled on a played turn, one to a line",
+  slug: "outcomes",
+  propertySlug: "outcomes",
+  definition: "the outcomes of the checks settled on a played turn, one to a line",
   extensions: ["jsonl"],
   appendOnly: true,
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "One line is one roll a check settled, as one json object.",
+      statement: "One line is one outcome a check settled, as one json object.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -19,7 +19,7 @@ export const rolls = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A roll is kept on the turn the roll settled.",
+      statement: "An outcome is kept on the turn the outcome settled.",
     },
   ],
   types: "ts",

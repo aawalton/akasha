@@ -5,9 +5,9 @@ import { join } from "node:path"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
+  outcomesAt,
   type Reach,
   type Roll,
-  rollsAt,
   settledBefore,
   storySettle,
   type Turn,
@@ -125,9 +125,9 @@ test("a reading that is no keyed reading is refused", () => {
   expect(taken(argv, CALLED)).toHaveProperty("refused")
 })
 
-test("a roll is appended to the rolls beside the story's latest open turn", async () => {
+test("a roll is appended to the outcomes beside the story's latest open turn", async () => {
   const appended = await settledBy("answering", reachOver([LATEST, FIRST]))
-  expect(appended.map((one) => one.at)).toEqual([rollsAt(LATEST.at) ?? "no rolls"])
+  expect(appended.map((one) => one.at)).toEqual([outcomesAt(LATEST.at) ?? "no outcomes"])
   const roll = rollIn(appended[0] as Appended)
   expect(roll.check).toBe("world-check/answering")
   expect(roll.reading).toEqual({ asked: "a leap" })
@@ -173,8 +173,8 @@ test("the first roll on the open turns is seeded by the turn it is settled on", 
 
 test("a roll is seeded by the hash of the roll before it on an earlier open turn", async () => {
   const before = '{"check":"world-check/answering","seed":"earlier"}'
-  const at = rollsAt(FIRST.at)
-  if (at === null) throw new Error("a turn page has rolls beside it")
+  const at = outcomesAt(FIRST.at)
+  if (at === null) throw new Error("a turn page has outcomes beside it")
   writeFileSync(join(ROOT, at), `${before}\n`)
   const roll = rollIn((await settledBy("answering", reachOver([FIRST, LATEST])))[0] as Appended)
   expect(roll.seed).toBe(createHash("sha256").update(before).digest("hex"))
@@ -203,7 +203,7 @@ function scoredArgv(reading: string, turn?: string): readonly string[] {
 test("a call naming a turn settles on that turn rather than the latest", async () => {
   const argv = scoredArgv(HERS, `story-turn-played/${FIRST.slug}`)
   const appended = await settledBy("diceless", reachOver([FIRST, LATEST]), argv)
-  expect(appended.map((one) => one.at)).toEqual([rollsAt(FIRST.at) ?? "no rolls"])
+  expect(appended.map((one) => one.at)).toEqual([outcomesAt(FIRST.at) ?? "no outcomes"])
 })
 
 test("a call naming no turn of the story appends nothing", async () => {
@@ -212,8 +212,8 @@ test("a call naming no turn of the story appends nothing", async () => {
 })
 
 test("a check that rolls nothing settles once on a turn for each character", async () => {
-  const at = rollsAt(LATEST.at)
-  if (at === null) throw new Error("a turn page has rolls beside it")
+  const at = outcomesAt(LATEST.at)
+  if (at === null) throw new Error("a turn page has outcomes beside it")
   const was = { check: "world-check/diceless", reading: JSON.parse(HERS), answered: {} }
   writeFileSync(join(ROOT, at), `${JSON.stringify(was)}\n`)
   expect(await settledBy("diceless", reachOver([LATEST]), scoredArgv(HERS))).toEqual([])

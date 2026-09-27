@@ -9,7 +9,7 @@ export const storyTurnPlayed = {
   extends: ["page-type/turn"],
   runsTabooCheck: false,
   parts: [
-    "file-property/rolls",
+    "file-property/outcomes",
     "module/turn-lifecycle",
     "module/turn-making",
     "module/turn-seats",
@@ -23,7 +23,7 @@ export const storyTurnPlayed = {
     "multi-relation-property/turn-reviewed-by",
   ],
   properties: [
-    { pageProperty: "file-property/rolls", required: false, many: false, default: "jsonl" },
+    { pageProperty: "file-property/outcomes", required: false, many: false, default: "jsonl" },
     {
       pageProperty: "multi-relation-property/characters",
       required: false,
