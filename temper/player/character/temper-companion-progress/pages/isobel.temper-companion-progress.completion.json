@@ -1,7 +1,7 @@
 {
   "build": {
-    "companionId": 6,
     "mainHandWeaponType": 2,
+    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA",
     "armor": {
       "1": {
         "qualityColor": {
@@ -87,6 +87,7 @@
         "isEmpty": false
       }
     },
+    "companionId": 6,
     "jewelry": {
       "1": {
         "qualityColor": {
@@ -123,8 +124,7 @@
       "4": 163442,
       "5": 155693,
       "6": 0
-    },
-    "hash": "AjEIRzHMcxzHMcxzExNTRzGzJEWYqngA"
+    }
   },
   "targetBuildHash": "AjEAQAcwDAMAwDHMcxMTU0cxoA",
   "level": 20,
