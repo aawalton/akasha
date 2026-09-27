@@ -4,13 +4,13 @@ export const theDatingGame00020 = {
   id: "01a0e3a1-f6b6-7332-b7d6-8e14285f822b",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-020",
-  ownLength: 153,
+  ownLength: 121,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 20,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/writer",
+  turnStatus: "turn-status/recorders",
   action:
     "I reach out to shake her hand with a huge smile \"It's a date! I'll see you Saturday!\", then turn to leave.",
   beats: [
