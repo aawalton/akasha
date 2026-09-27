@@ -6,4 +6,10 @@ export const constraintBadges = {
   slug: "constraint-badges",
   definition: "the badges naming what bounds a skill effect",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

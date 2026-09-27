@@ -6167,6 +6167,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/completion-page-own-empty/completion-page-own-empty.module.ts","id":"01a06421-f74b-757b-ab0c-999fac750027"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/completion-summary-tab/completion-summary-tab.module.ts","id":"01a06421-f74b-73f5-8edc-d25f08860028"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/constellation-panel-card/constellation-panel-card.module.ts","id":"01a06432-b190-7c12-8d03-8887dc677b5c"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/constraint-badges/constraint-badges.module.ts","id":"01a06421-2522-7797-9798-69269634bacb"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.ts","id":"01a06432-b190-7747-916a-01f0593a3621"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/effects-panel-card/effects-panel-card.module.ts","id":"01a0642c-5bb3-7bdb-83ac-f01c253585a7"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/equipment-panel/equipment-panel.module.ts","id":"01a0642d-9a17-7211-b1be-9d0aa3197165"}

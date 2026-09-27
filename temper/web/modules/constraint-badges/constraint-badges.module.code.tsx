@@ -6,6 +6,29 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts"
 import type { EffectCondition } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 import type { BadgeVariant } from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
+import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { constraintBadgesAllConditions } from "akasha/temper/web/phrase/pages/constraint-badges-all-conditions.temper-web-phrase.ts"
+import { constraintBadgesAllyHealth } from "akasha/temper/web/phrase/pages/constraint-badges-ally-health.temper-web-phrase.ts"
+import { constraintBadgesAllyNearby } from "akasha/temper/web/phrase/pages/constraint-badges-ally-nearby.temper-web-phrase.ts"
+import { constraintBadgesAnyCondition } from "akasha/temper/web/phrase/pages/constraint-badges-any-condition.temper-web-phrase.ts"
+import { constraintBadgesCondition } from "akasha/temper/web/phrase/pages/constraint-badges-condition.temper-web-phrase.ts"
+import { constraintBadgesEnemyNearby } from "akasha/temper/web/phrase/pages/constraint-badges-enemy-nearby.temper-web-phrase.ts"
+import { constraintBadgesHasStatus } from "akasha/temper/web/phrase/pages/constraint-badges-has-status.temper-web-phrase.ts"
+import { constraintBadgesHealth } from "akasha/temper/web/phrase/pages/constraint-badges-health.temper-web-phrase.ts"
+import { constraintBadgesHealthThreshold } from "akasha/temper/web/phrase/pages/constraint-badges-health-threshold.temper-web-phrase.ts"
+import { constraintBadgesImmovableTarget } from "akasha/temper/web/phrase/pages/constraint-badges-immovable-target.temper-web-phrase.ts"
+import { constraintBadgesMeterRange } from "akasha/temper/web/phrase/pages/constraint-badges-meter-range.temper-web-phrase.ts"
+import { constraintBadgesMeters } from "akasha/temper/web/phrase/pages/constraint-badges-meters.temper-web-phrase.ts"
+import { constraintBadgesMovableTarget } from "akasha/temper/web/phrase/pages/constraint-badges-movable-target.temper-web-phrase.ts"
+import { constraintBadgesNoStatus } from "akasha/temper/web/phrase/pages/constraint-badges-no-status.temper-web-phrase.ts"
+import { constraintBadgesRange } from "akasha/temper/web/phrase/pages/constraint-badges-range.temper-web-phrase.ts"
+import { constraintBadgesStatus } from "akasha/temper/web/phrase/pages/constraint-badges-status.temper-web-phrase.ts"
+import { constraintBadgesTargetCasting } from "akasha/temper/web/phrase/pages/constraint-badges-target-casting.temper-web-phrase.ts"
+import { constraintBadgesTargetNotCasting } from "akasha/temper/web/phrase/pages/constraint-badges-target-not-casting.temper-web-phrase.ts"
+import { constraintBadgesWeapon } from "akasha/temper/web/phrase/pages/constraint-badges-weapon.temper-web-phrase.ts"
 
 interface ConstraintBadgesProps {
   conditions: readonly EffectCondition[]
@@ -13,10 +36,11 @@ interface ConstraintBadgesProps {
 }
 
 export function ConstraintBadges({ conditions, variant }: ConstraintBadgesProps) {
+  const phrase = usePhrase()
   return (
     <>
       {conditions.map((condition, index) => (
-        <ConstraintBadge key={index} condition={condition} variant={variant} />
+        <ConstraintBadge key={index} condition={condition} variant={variant} phrase={phrase} />
       ))}
     </>
   )
@@ -25,10 +49,11 @@ export function ConstraintBadges({ conditions, variant }: ConstraintBadgesProps)
 interface ConstraintBadgeProps {
   condition: EffectCondition
   variant: BadgeVariant
+  phrase: Phrase
 }
 
-function ConstraintBadge({ condition, variant }: ConstraintBadgeProps) {
-  const { label, value } = formatCondition(condition)
+function ConstraintBadge({ condition, variant, phrase }: ConstraintBadgeProps) {
+  const { label, value } = formatCondition(condition, phrase)
 
   return (
     <Badge variant={variant}>
@@ -38,43 +63,50 @@ function ConstraintBadge({ condition, variant }: ConstraintBadgeProps) {
   )
 }
 
-function formatCondition(condition: EffectCondition): { label: string; value: string | null } {
+function formatCondition(
+  condition: EffectCondition,
+  phrase: Phrase
+): { label: string; value: string | null } {
+  const meters = (distance: number) => phrase(constraintBadgesMeters.slug, { distance })
   switch (condition.type) {
     case "health-threshold": {
-      if (condition.below !== undefined) {
-        return { value: `<${condition.below}%`, label: "Health" }
-      }
-      if (condition.above !== undefined) {
-        return { value: `>${condition.above}%`, label: "Health" }
-      }
-      return { value: null, label: "Health Threshold" }
+      const label = phrase(constraintBadgesHealth.slug)
+      if (condition.below !== undefined) return { value: `<${condition.below}%`, label }
+      if (condition.above !== undefined) return { value: `>${condition.above}%`, label }
+      return { value: null, label: phrase(constraintBadgesHealthThreshold.slug) }
     }
 
     case "ally-health": {
-      if (condition.below !== undefined) {
-        return { value: `<${condition.below}%`, label: "Ally Health" }
-      }
-      if (condition.above !== undefined) {
-        return { value: `>${condition.above}%`, label: "Ally Health" }
-      }
-      return { value: null, label: "Ally Health" }
+      const label = phrase(constraintBadgesAllyHealth.slug)
+      if (condition.below !== undefined) return { value: `<${condition.below}%`, label }
+      if (condition.above !== undefined) return { value: `>${condition.above}%`, label }
+      return { value: null, label }
     }
 
     case "range": {
-      if (condition.minDistance !== undefined && condition.maxDistance !== undefined) {
-        return { value: `${condition.minDistance}-${condition.maxDistance}m`, label: "Range" }
+      const label = phrase(constraintBadgesRange.slug)
+      const { minDistance, maxDistance } = condition
+      if (minDistance !== undefined && maxDistance !== undefined) {
+        const value = phrase(constraintBadgesMeterRange.slug, {
+          min: minDistance,
+          max: maxDistance,
+        })
+        return { value, label }
       }
-      if (condition.minDistance !== undefined) {
-        return { value: `>${condition.minDistance}m`, label: "Range" }
-      }
-      if (condition.maxDistance !== undefined) {
-        return { value: `<${condition.maxDistance}m`, label: "Range" }
-      }
-      return { value: null, label: "Range" }
+      if (minDistance !== undefined) return { value: `>${meters(minDistance)}`, label }
+      if (maxDistance !== undefined) return { value: `<${meters(maxDistance)}`, label }
+      return { value: null, label }
     }
 
     case "movable":
-      return { value: null, label: condition.isMovable ? "Movable Target" : "Immovable Target" }
+      return {
+        value: null,
+        label: phrase(
+          condition.isMovable
+            ? constraintBadgesMovableTarget.slug
+            : constraintBadgesImmovableTarget.slug
+        ),
+      }
 
     case "enemy-type": {
       const types = condition.enemyTypes.map(formatEnemyType).join(", ")
@@ -83,33 +115,47 @@ function formatCondition(condition: EffectCondition): { label: string; value: st
 
     case "status": {
       if (condition.hasStatus != null) {
-        return { value: null, label: `Has ${formatStatusType(condition.hasStatus)}` }
+        const status = formatStatusType(condition.hasStatus)
+        return { value: null, label: phrase(constraintBadgesHasStatus.slug, { status }) }
       }
       if (condition.notStatus != null) {
-        return { value: null, label: `No ${formatStatusType(condition.notStatus)}` }
+        const status = formatStatusType(condition.notStatus)
+        return { value: null, label: phrase(constraintBadgesNoStatus.slug, { status }) }
       }
-      return { value: null, label: "Status" }
+      return { value: null, label: phrase(constraintBadgesStatus.slug) }
     }
 
     case "casting":
-      return { value: null, label: condition.isCasting ? "Target Casting" : "Target Not Casting" }
+      return {
+        value: null,
+        label: phrase(
+          condition.isCasting
+            ? constraintBadgesTargetCasting.slug
+            : constraintBadgesTargetNotCasting.slug
+        ),
+      }
 
     case "nearby": {
       const distance = condition.maxDistance ?? 8
-      const target = condition.targetType === "enemy" ? "Enemy" : "Ally"
-      return { value: `<${distance}m`, label: `${target} Nearby` }
+      const nearby =
+        condition.targetType === "enemy"
+          ? constraintBadgesEnemyNearby.slug
+          : constraintBadgesAllyNearby.slug
+      return { value: `<${meters(distance)}`, label: phrase(nearby) }
     }
 
-    case "weapon-type":
-      return { value: null, label: `${formatWeaponType(condition.weaponType)} Weapon` }
+    case "weapon-type": {
+      const weapon = formatWeaponType(condition.weaponType)
+      return { value: null, label: phrase(constraintBadgesWeapon.slug, { weapon }) }
+    }
 
     case "any":
-      return { value: null, label: "Any Condition" }
+      return { value: null, label: phrase(constraintBadgesAnyCondition.slug) }
 
     case "all":
-      return { value: null, label: "All Conditions" }
+      return { value: null, label: phrase(constraintBadgesAllConditions.slug) }
 
     default:
-      return { value: null, label: "Condition" }
+      return { value: null, label: phrase(constraintBadgesCondition.slug) }
   }
 }
