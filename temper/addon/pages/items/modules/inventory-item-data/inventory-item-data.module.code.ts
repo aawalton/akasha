@@ -189,5 +189,11 @@ export function extractItemData(bagId: number, slotIndex: number): ItemData | un
 
   if (IsItemLinkContainer(itemLink)) result.isContainer = true
 
+  const [, enchantHeader, enchantDescription] = GetItemLinkEnchantInfo(itemLink)
+  if (enchantHeader !== "" && enchantDescription !== "") {
+    result.enchantHeader = enchantHeader
+    result.enchantDescription = enchantDescription
+  }
+
   return result
 }

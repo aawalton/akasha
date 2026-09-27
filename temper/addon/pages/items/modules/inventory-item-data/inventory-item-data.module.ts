@@ -32,5 +32,14 @@ export const inventoryItemData = {
       decisionKind: "decision-kind/departure",
       statement: "The game is asked about junk rather than the answer being worked out here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A slot records the enchant the game states for the item's own link, level and charge included.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot whose item has no enchant records none.",
+    },
   ],
 } as const satisfies Module
