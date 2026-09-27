@@ -10,7 +10,7 @@ export const theDatingGame00023 = {
   position: 23,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I walk back to my neighborhood",
   beats: [
     "Alan leaves the stream trail and walks back up the hill from campus toward his neighborhood.",
@@ -20,5 +20,5 @@ export const theDatingGame00023 = {
     "He turns onto Apple Avenue, his own street, quiet in the late Saturday afternoon.",
     "His house is just ahead at 1350.",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
