@@ -3,7 +3,7 @@ import { Heading } from "akasha/design/interface/primitive/modules/heading/headi
 import { Separator } from "akasha/design/interface/primitive/modules/separator/separator.module.code.tsx"
 import { audhdalanWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/audhdalan-web.web-app.ts"
 import {
-  metaOf,
+  metaUnderSite,
   SITE_DOCUMENT,
   siteDocumentAt,
 } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
@@ -42,9 +42,7 @@ export async function loader() {
 
 type SafetyLevelsLoaderData = Awaited<ReturnType<typeof loader>>
 
-export function meta({ data }: { data: SafetyLevelsLoaderData | undefined }) {
-  return metaOf(data?.document, "audhdalan")
-}
+export const meta = metaUnderSite
 
 export default function SafetyLevelsPage({ loaderData }: { loaderData: SafetyLevelsLoaderData }) {
   useLoaderFollowing(READ)

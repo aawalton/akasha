@@ -42,7 +42,7 @@ export async function loader() {
 type HomeLoaderData = Awaited<ReturnType<typeof loader>>
 
 export function meta({ data }: { data: HomeLoaderData | undefined }) {
-  return [{ title: "audhdalan" }, ...metaOf(data?.document, null).slice(1)]
+  return metaOf(data?.document, null)
 }
 
 function Titled({ title }: { title: string }) {

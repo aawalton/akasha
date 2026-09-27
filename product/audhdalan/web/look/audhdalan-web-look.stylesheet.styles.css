@@ -4,4 +4,5 @@
 @source "../../../../alan/harness/**/*.{ts,tsx}";
 @source "../../../../code/router-app/**/*.{ts,tsx}";
 @source "../../../../design/interface/**/*.{ts,tsx}";
+@source "../../../../infrastructure/service/**/*.{ts,tsx}";
 @source "../../../../page/ui/**/*.{ts,tsx}";
