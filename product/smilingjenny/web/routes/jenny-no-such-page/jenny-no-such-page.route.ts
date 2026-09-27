@@ -5,7 +5,7 @@ export const jennyNoSuchPage = {
   type: "page-type/route",
   slug: "jenny-no-such-page",
   definition: "that no page of Jenny's site is at the address a reader named",
-  code: "ts",
+  code: "tsx",
   urlPath: "*",
   decisions: [
     {
@@ -16,6 +16,10 @@ export const jennyNoSuchPage = {
       decisionKind: "decision-kind/departure",
       statement:
         "The root's loader runs beside this one, so the error screen reads the home document.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The route draws a screen, so its not found is drawn by the root's error screen.",
     },
   ],
 } as const satisfies Route
