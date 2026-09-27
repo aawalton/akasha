@@ -4,6 +4,7 @@ export const otherwhere00029 = {
   id: "01a0e511-1ed3-7fe9-9c3f-7593c5a77a1f",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-029",
+  cover: "image/image-06ac8ca3f96bded0",
   ownLength: 109,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -28,5 +29,5 @@ export const otherwhere00029 = {
     "She lies across it, fists locked, as the thrashing weakens under her.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
