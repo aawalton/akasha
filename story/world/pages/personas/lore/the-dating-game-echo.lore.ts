@@ -44,6 +44,18 @@ export const theDatingGameEcho = {
       fact: "Echo knows LitRPG well.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Alan asked to kiss Echo the day they met, and she gently declined.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-echo",
+      ],
+    },
+    {
+      fact: "Echo really likes Alan, and told him so.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

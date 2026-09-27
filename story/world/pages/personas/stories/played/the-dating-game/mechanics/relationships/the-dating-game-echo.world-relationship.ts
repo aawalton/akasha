@@ -7,5 +7,5 @@ export const theDatingGameEcho = {
   title: "Alan and the Woman on the Boulder",
   world: "world/personas",
   characters: ["character-player/the-dating-game-alan", "character-other/the-dating-game-echo"],
-  relationshipPoints: 13,
+  relationshipPoints: 16,
 } as const satisfies WorldRelationship

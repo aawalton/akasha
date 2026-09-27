@@ -100,5 +100,9 @@ export const theDatingGameAlan = {
       fact: "These days Alan mostly reads LitRPG.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
     },
+    {
+      fact: "Alan really likes Echo, and told her so.",
+      knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
+    },
   ],
 } as const satisfies Lore
