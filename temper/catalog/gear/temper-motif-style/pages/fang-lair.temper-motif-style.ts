@@ -5,6 +5,8 @@ export const fangLair = {
   type: "page-type/temper-motif-style",
   slug: "fang-lair",
   title: "Fang Lair",
+  esoItemStyleId: 69,
+  styleName: "Fang Lair",
   collectionIndex: 45,
   sourceDescription: "Fang Lair dungeon",
 } as const satisfies TemperMotifStyle
