@@ -6,6 +6,7 @@ export const celestial = {
   slug: "celestial",
   title: "Celestial",
   esoItemStyleId: 27,
+  styleName: "Celestial",
   collectionIndex: 26,
   sourceDescription: "Craglorn trials",
 } as const satisfies TemperMotifStyle
