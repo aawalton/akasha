@@ -141,6 +141,10 @@ export const otherwhereUniverse = {
       ],
     },
     {
+      fact: "Mana in a body speeds its healing; a night's sleep knits a bite into a tender pink scar.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A Librarian can heal by magic only once she has learned a healing power from a book.",
       knowers: [
         "lore-disclosure/game-master",
