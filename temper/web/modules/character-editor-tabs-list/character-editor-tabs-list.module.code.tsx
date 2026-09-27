@@ -6,12 +6,12 @@ import {
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
-import { characterEditorTabsListChampion } from "akasha/temper/web/phrase/pages/character-editor-tabs-list-champion.temper-web-phrase.ts"
-import { characterEditorTabsListCharacter } from "akasha/temper/web/phrase/pages/character-editor-tabs-list-character.temper-web-phrase.ts"
-import { characterEditorTabsListEquipment } from "akasha/temper/web/phrase/pages/character-editor-tabs-list-equipment.temper-web-phrase.ts"
-import { characterEditorTabsListGeneral } from "akasha/temper/web/phrase/pages/character-editor-tabs-list-general.temper-web-phrase.ts"
-import { characterEditorTabsListSkills } from "akasha/temper/web/phrase/pages/character-editor-tabs-list-skills.temper-web-phrase.ts"
-import { characterEditorTabsListStats } from "akasha/temper/web/phrase/pages/character-editor-tabs-list-stats.temper-web-phrase.ts"
+import { editorTabLabelsChampion } from "akasha/temper/web/phrase/pages/editor-tab-labels-champion.temper-web-phrase.ts"
+import { editorTabLabelsCharacter } from "akasha/temper/web/phrase/pages/editor-tab-labels-character.temper-web-phrase.ts"
+import { editorTabLabelsEquipment } from "akasha/temper/web/phrase/pages/editor-tab-labels-equipment.temper-web-phrase.ts"
+import { editorTabLabelsGeneral } from "akasha/temper/web/phrase/pages/editor-tab-labels-general.temper-web-phrase.ts"
+import { editorTabLabelsSkills } from "akasha/temper/web/phrase/pages/editor-tab-labels-skills.temper-web-phrase.ts"
+import { editorTabLabelsStats } from "akasha/temper/web/phrase/pages/editor-tab-labels-stats.temper-web-phrase.ts"
 import { BarChart3, Info, ShieldHalf, Star, Swords, User } from "lucide-react"
 
 interface CharacterEditorTabsListProps {
@@ -30,32 +30,32 @@ export function CharacterEditorTabsList({ cols }: CharacterEditorTabsListProps) 
       <PageTabsTrigger
         value="general"
         icon={<Info />}
-        label={phrase(characterEditorTabsListGeneral.slug)}
+        label={phrase(editorTabLabelsGeneral.slug)}
       />
       <PageTabsTrigger
         value="character"
         icon={<User />}
-        label={phrase(characterEditorTabsListCharacter.slug)}
+        label={phrase(editorTabLabelsCharacter.slug)}
       />
       <PageTabsTrigger
         value="equipment"
         icon={<ShieldHalf />}
-        label={phrase(characterEditorTabsListEquipment.slug)}
+        label={phrase(editorTabLabelsEquipment.slug)}
       />
       <PageTabsTrigger
         value="skills"
         icon={<Swords />}
-        label={phrase(characterEditorTabsListSkills.slug)}
+        label={phrase(editorTabLabelsSkills.slug)}
       />
       <PageTabsTrigger
         value="champion"
         icon={<Star />}
-        label={phrase(characterEditorTabsListChampion.slug)}
+        label={phrase(editorTabLabelsChampion.slug)}
       />
       <PageTabsTrigger
         value="stats"
         icon={<BarChart3 />}
-        label={phrase(characterEditorTabsListStats.slug)}
+        label={phrase(editorTabLabelsStats.slug)}
         className={cols >= 2 ? "hidden" : undefined}
       />
     </TabsList>

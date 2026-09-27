@@ -9,7 +9,7 @@ export const characterEditorTabsList = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Its wording is read from web phrase pages.",
+      statement: "Its tab labels are read from the shared editor tab label phrase pages.",
     },
   ],
 } as const satisfies Module
