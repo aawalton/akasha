@@ -76,18 +76,7 @@ export const pageFollowing = {
       decisionKind: "decision-kind/departure",
       statement: "Only the file a computed property keeps its reads in is heard for that.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "What a page type carries is read from the file beside it, once in each plan.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The pages of a page type are listed off the index once in each plan.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "A page type with no such file beside it is taken to carry no computed property.",
-    },
+
     {
       decisionKind: "decision-kind/departure",
       statement:

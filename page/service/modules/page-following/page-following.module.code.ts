@@ -1,40 +1,29 @@
 import { type FSWatcher, watch } from "node:fs"
-import { basename, dirname, isAbsolute, join } from "node:path"
+import { join } from "node:path"
 import {
-  everyOfType,
-  type Listed,
   listedAt,
   listedById,
   readingIn,
-  slugFoldersOf,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
-import type { Reading } from "akasha/page/index/modules/shape/index-shape.module.code.ts"
-import {
-  partedIn,
-  uncommittedAt,
-} from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { uncommittedIn } from "akasha/page/modules/uncommitted/page-uncommitted.module.code.ts"
+import { partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import {
   askedIn,
   type Follow,
 } from "akasha/page/service/modules/follow-asking/follow-asking.module.code.ts"
 import {
-  type Narrowed,
   narrowedOver,
   valuedOnce,
   within,
 } from "akasha/page/service/modules/follow-narrowing/follow-narrowing.module.code.ts"
-import {
-  COMPUTED,
-  carriedBeside,
-} from "akasha/page/service/modules/kinds-gathering/kinds-gathering.module.code.ts"
-import {
-  type Kept,
-  keptIn,
-} from "akasha/page/service/modules/reads-keeping/reads-keeping.module.code.ts"
 import { kindsUnder } from "akasha/page/type/modules/descent/page-type-descent.module.code.ts"
 import "akasha/temper/eso/type/eso-timers/eso-timers.type-declaration.d.ts"
+import {
+  type Held,
+  type Planned,
+  pagesOf,
+  plannedFor,
+} from "akasha/page/service/modules/follow-planning/follow-planning.module.code.ts"
 
 export const EVENTS_AT = "/events"
 
@@ -67,13 +56,6 @@ function timedAs<T>(named: () => string, act: () => T): T {
 type Changed = {
   readonly pageTypeSlug: string
   readonly slug?: string
-}
-
-export type Held = {
-  readonly key: string
-  readonly kinds: ReadonlySet<string>
-  readonly slugs: ReadonlySet<string> | null
-  readonly narrowed?: Narrowed
 }
 
 type Stream = {
@@ -158,94 +140,6 @@ export function changedAt(path: string): Changed | null {
 
 export function eventSaid(name: string, body: unknown): string {
   return `event: ${name}\ndata: ${JSON.stringify(body)}\n\n`
-}
-
-type Heard = {
-  readonly folder: string
-  readonly name: string | null
-  readonly kind: string
-  readonly slugs: ReadonlySet<string> | null
-}
-
-type Planned = {
-  readonly pages: ReadonlySet<string>
-  readonly listed: ReadonlyMap<string, string>
-  readonly read: readonly Heard[]
-  readonly keeping: ReadonlyMap<string, ReadonlySet<string>>
-}
-
-function pagesOf(
-  given: string | Reading,
-  kind: string,
-  slugs: ReadonlySet<string> | null
-): readonly Listed[] {
-  if (slugs === null) return everyOfType(given, kind)
-  return [...slugs].flatMap((slug) => listedAt(given, kind, slug))
-}
-
-function fullAt(root: string, at: string): string {
-  return isAbsolute(at) ? at : join(root, at)
-}
-
-export function heardOf(
-  root: string,
-  kind: string,
-  slugs: ReadonlySet<string> | null,
-  kept: Kept
-): readonly Heard[] {
-  return [
-    ...kept.files.map((one) => ({
-      folder: dirname(fullAt(root, one)),
-      name: basename(one),
-      kind,
-      slugs,
-    })),
-    ...kept.folders.map((one) => ({ folder: fullAt(root, one), name: null, kind, slugs })),
-  ]
-}
-
-type Keep = { readonly at: string; readonly kept: Kept }
-
-function keepsOf(root: string, reading: Reading, kind: string): readonly Keep[] {
-  const found: Keep[] = []
-  for (const one of carriedBeside(reading, kind) ?? []) {
-    if (one.pageTypeSlug !== COMPUTED) continue
-    const page = listedAt(reading, COMPUTED, one.pagePropertySlug)[0]
-    const at = page === undefined ? null : uncommittedAt(page.path)
-    if (page === undefined || at === null) continue
-    found.push({ at, kept: keptIn(uncommittedIn(root, page.path)) })
-  }
-  return found
-}
-
-function plannedFor(root: string, helds: readonly Held[]): Planned {
-  const pages = new Set<string>()
-  const listed = new Map<string, string>()
-  const read: Heard[] = []
-  const keeping = new Map<string, Set<string>>()
-  const reading = readingIn(root)
-  const keeps = new Map<string, readonly Keep[]>()
-  for (const held of helds) {
-    for (const kind of held.kinds) {
-      for (const one of pagesOf(reading, kind, held.slugs)) {
-        pages.add(dirname(join(root, one.path)))
-      }
-      try {
-        const kept = keeps.get(kind) ?? keepsOf(root, reading, kind)
-        keeps.set(kind, kept)
-        for (const one of kept) {
-          const folder = dirname(join(root, one.at))
-          const names = keeping.get(folder) ?? new Set<string>()
-          names.add(basename(one.at))
-          keeping.set(folder, names)
-          read.push(...heardOf(root, kind, held.slugs, one.kept))
-        }
-      } catch {}
-      if (held.slugs !== null) continue
-      for (const at of slugFoldersOf(reading, kind)) listed.set(join(root, at), kind)
-    }
-  }
-  return { pages, listed, read, keeping }
 }
 
 function idOf(root: string, one: Changed): string | undefined {
@@ -348,11 +242,14 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
         return undefined
       })
     }
-    for (const one of planned.read) {
-      hear(one.folder, (name) => {
-        if (one.name !== null && name !== one.name) return undefined
-        if (one.slugs === null) return changed({ pageTypeSlug: one.kind })
-        for (const slug of one.slugs) changed({ pageTypeSlug: one.kind, slug })
+    for (const [folder, names] of planned.read) {
+      hear(folder, (name) => {
+        for (const targets of [...(names.get(name) ?? []), ...(names.get(null) ?? [])]) {
+          for (const one of targets) {
+            if (one.slugs === null) changed({ pageTypeSlug: one.kind })
+            else for (const slug of one.slugs) changed({ pageTypeSlug: one.kind, slug })
+          }
+        }
         return undefined
       })
     }

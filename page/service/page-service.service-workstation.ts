@@ -149,6 +149,7 @@ export const pageService = {
     "module/file-answering",
     "module/held-reading",
     "module/follow-asking",
+    "module/follow-planning",
     "module/follow-narrowing",
     "module/kept-rows",
     "module/owned-puts",

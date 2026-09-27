@@ -2,11 +2,13 @@ import { expect, test } from "bun:test"
 import type { ReadableStreamDefaultReader } from "node:stream/web"
 import { askedIn } from "akasha/page/service/modules/follow-asking/follow-asking.module.code.ts"
 import {
+  type Held,
+  heardOf,
+} from "akasha/page/service/modules/follow-planning/follow-planning.module.code.ts"
+import {
   changedAt,
   eventSaid,
   followingFor,
-  type Held,
-  heardOf,
   keysFor,
 } from "akasha/page/service/modules/page-following/page-following.module.code.ts"
 import { z } from "zod"

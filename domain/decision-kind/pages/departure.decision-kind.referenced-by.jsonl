@@ -3345,6 +3345,7 @@
 {"propertySlug":"decision-kind","path":"page/service/modules/file-answering/file-answering.module.ts","id":"01a0784a-085f-7c1d-aec3-7e04a398f007"}
 {"propertySlug":"decision-kind","path":"page/service/modules/follow-asking/follow-asking.module.ts","id":"01a0e05d-fff9-7956-854a-13abc017cf91"}
 {"propertySlug":"decision-kind","path":"page/service/modules/follow-narrowing/follow-narrowing.module.ts","id":"01a0d56f-77e5-72a7-8f84-7e47d24c6d90"}
+{"propertySlug":"decision-kind","path":"page/service/modules/follow-planning/follow-planning.module.ts","id":"01a0e1af-6634-7bb6-b3fe-3561cf6be4d6"}
 {"propertySlug":"decision-kind","path":"page/service/modules/held-reading/held-reading.module.ts","id":"01a0de9c-8e73-7372-b808-9e355be7f9fb"}
 {"propertySlug":"decision-kind","path":"page/service/modules/kept-rows/kept-rows.module.ts","id":"01a0d8af-c6f6-7f0a-a85f-4bc24a857fdd"}
 {"propertySlug":"decision-kind","path":"page/service/modules/kinds-gathering/kinds-gathering.module.ts","id":"01a0723b-ed99-778a-8adb-131a72c2cd98"}
