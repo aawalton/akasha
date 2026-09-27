@@ -10,7 +10,7 @@ export const otherwhere00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“Okay, is this “minutes matter” urgency or can it wait a few hours if needed and is there a book on bookworms I could read to prepare? I’d like to know what I’m getting into here. Are they dangerous like this?”",
   beats: [
@@ -34,7 +34,6 @@ export const otherwhere00010 = {
     "Salt dries a bookworm out and leaves it helpless, curled and still, without killing it.",
     "She closes the book, knowing their habits, their bite and what salt does to them.",
     '"Salt\'s in the break room," Links says, without her asking. "Off the hall. Big box. It keeps."',
-    "The broom leans against the platform beside her. At the dark back of the hall, the chewing goes on.",
   ],
   issues: [
     '"The broom leans against the platform beside you." - No Prompt',
