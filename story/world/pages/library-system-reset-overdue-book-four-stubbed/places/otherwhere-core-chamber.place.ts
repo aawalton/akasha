@@ -115,6 +115,42 @@ export const otherwhereCoreChamber = {
       fact: "A Librarian syncs with the core by laying both hands on the trunk, shoulder-width apart.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Walking toward the trunk, it seemed to come no closer, until all at once it was right there.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The walk to the trunk left Alan's mouth dry and her calves aching, as after a long hike.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Up close, fine blue veins run down into the knot of light and bunch there.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The trunk's hum carries through a palm laid on it, up the arm into the bones of the wrist.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Under Alan's palm the knot of light gathered and brightened, glowing around her fingers.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "With Alan's hand on the knot, warmth spread up her wrist and the hum settled slower, deeper.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "No panel and no voice answered Alan's hand on the trunk.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "A second knot of light glows a shoulder's width from the first, pulsing in time with it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The trunk's surface is smooth, hard as stone, and warm like skin lying in the sun.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
