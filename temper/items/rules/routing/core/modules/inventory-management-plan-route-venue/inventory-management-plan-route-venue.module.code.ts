@@ -12,6 +12,8 @@ import type {
   PlanItem,
   VenueType,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import { deposit } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/pages/deposit.temper-plan-phrase.ts"
+import { temperPlanPhrase } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/temper-plan-phrase.page-type.ts"
 import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 
 export const VENUE_ORDER: VenueType[] = [
@@ -34,6 +36,11 @@ export function venueLabelOf(venue: VenueType): string {
   const titles = heldKeyedTitles(temperVenue.slug)
   if (titles === null) throw new Error(UNREAD)
   return titleOf(titles, venue)
+}
+
+export function planPhraseOf(page: { readonly key: string; readonly title: string }): string {
+  const titles = heldKeyedTitles(temperPlanPhrase.slug)
+  return titles === null ? page.title : titleOf(titles, page.key)
 }
 
 export function buildVenueLabel(venue: VenueType, venueDetail?: string): string {
@@ -105,7 +112,9 @@ const STORAGE_VENUES: ReadonlySet<VenueType> = new Set(["bank", "house-storage",
 export const DETAILED_VENUES: ReadonlySet<VenueType> = new Set(["house-storage", "guild-bank"])
 
 function getDepositNote(action: ItemAction, venue: VenueType): string | undefined {
-  if ((action === "move-to" || action === "stock") && STORAGE_VENUES.has(venue)) return "Deposit"
+  if ((action === "move-to" || action === "stock") && STORAGE_VENUES.has(venue)) {
+    return planPhraseOf(deposit)
+  }
   return undefined
 }
 

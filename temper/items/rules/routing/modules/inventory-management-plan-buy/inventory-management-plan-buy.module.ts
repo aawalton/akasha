@@ -15,5 +15,9 @@ export const inventoryManagementPlanBuy = {
       decisionKind: "decision-kind/departure",
       statement: "A buy rule met by the account's holdings adds no errand.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The buy note and the buying character's name are plan phrase pages.",
+    },
   ],
 } as const satisfies Module

@@ -2,7 +2,10 @@ import { computeItemStock } from "akasha/temper/items/core/modules/compute-item-
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { evaluateBuyRules } from "akasha/temper/items/rules/core/modules/buy-rule-eval/buy-rule-eval.module.code.ts"
 import type { BuyRule } from "akasha/temper/items/rules/core/modules/buy-rule-types/buy-rule-types.module.code.ts"
+import { planPhraseOf } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import type { PlanItem } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import { anyCharacter } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/pages/any-character.temper-plan-phrase.ts"
+import { buy } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/pages/buy.temper-plan-phrase.ts"
 import type {
   CharSimState,
   SimStep,
@@ -10,9 +13,9 @@ import type {
 
 export const BUY_CHARACTER_ID = "__buy__"
 
-export const BUY_CHARACTER_NAME = "Any Character"
-
-const BUY_NOTE = "Buy"
+export function buyCharacterName(): string {
+  return planPhraseOf(anyCharacter)
+}
 
 interface BuyShortfall {
   rule: BuyRule
@@ -50,7 +53,7 @@ function buildBuySimStep(shortfall: BuyShortfall): SimStep {
     stackCount: shortfall.quantity,
     quality: 0,
     action: "sell",
-    note: BUY_NOTE,
+    note: planPhraseOf(buy),
   }
   return {
     venue: "vendor",

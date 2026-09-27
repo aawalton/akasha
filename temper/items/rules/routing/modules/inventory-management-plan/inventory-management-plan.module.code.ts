@@ -12,7 +12,7 @@ import type {
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
 import {
   BUY_CHARACTER_ID,
-  BUY_CHARACTER_NAME,
+  buyCharacterName,
   injectBuySimSteps,
 } from "akasha/temper/items/rules/routing/modules/inventory-management-plan-buy/inventory-management-plan-buy.module.code.ts"
 import {
@@ -160,7 +160,7 @@ export function buildManagementPlan(
       characterId: bestCharId,
       characterName:
         bestCharId === BUY_CHARACTER_ID
-          ? BUY_CHARACTER_NAME
+          ? buyCharacterName()
           : resolveCharacterName(bestCharId, inventory),
       venues: result.venues,
       totalSlots,

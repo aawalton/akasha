@@ -36,5 +36,9 @@ export const inventoryManagementPlan = {
       decisionKind: "decision-kind/departure",
       statement: "Planning gives up after a hundred rounds.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The buying session is named by the any-character plan phrase page.",
+    },
   ],
 } as const satisfies Module

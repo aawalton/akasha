@@ -2,12 +2,17 @@ import type {
   ItemAction,
   MoveToDestination,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import { withDepositNote } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
+import {
+  planPhraseOf,
+  withDepositNote,
+} from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-route-venue/inventory-management-plan-route-venue.module.code.ts"
 import type {
   PlanItem,
   RouteStep,
   VenueType,
 } from "akasha/temper/items/rules/routing/core/modules/inventory-management-plan-types/inventory-management-plan-types.module.code.ts"
+import { deposit } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/pages/deposit.temper-plan-phrase.ts"
+import { withdraw } from "akasha/temper/items/rules/routing/core/temper-plan-phrase/pages/withdraw.temper-plan-phrase.ts"
 
 export function buildCrossCharSteps(
   sourceCharId: string,
@@ -26,7 +31,7 @@ export function buildCrossCharSteps(
     venue: "bank",
     storageKey: "Bank",
     operation: "deposit",
-    item: { ...planItem, note: "Deposit" },
+    item: { ...planItem, note: planPhraseOf(deposit) },
     itemId,
   })
 
@@ -36,7 +41,7 @@ export function buildCrossCharSteps(
       venue: "bank",
       storageKey: "Bank",
       operation: "retrieve",
-      item: { ...planItem, note: "Withdraw" },
+      item: { ...planItem, note: planPhraseOf(withdraw) },
       itemId,
     })
   } else if (effectiveActionVenue != null) {
@@ -45,7 +50,7 @@ export function buildCrossCharSteps(
       venue: "bank",
       storageKey: "Bank",
       operation: "retrieve",
-      item: { ...planItem, note: "Withdraw" },
+      item: { ...planItem, note: planPhraseOf(withdraw) },
       itemId,
     })
     steps.push({
@@ -90,7 +95,7 @@ export function buildSharedStorageSteps(
       venueDetail: retrievalDetail,
       storageKey: retrievalStorageKey,
       operation: "retrieve",
-      item: { ...planItem, note: "Withdraw" },
+      item: { ...planItem, note: planPhraseOf(withdraw) },
       itemId,
     })
     return steps
@@ -118,7 +123,7 @@ export function buildSharedStorageSteps(
         venueDetail: retrievalDetail,
         storageKey: retrievalStorageKey,
         operation: "retrieve",
-        item: { ...planItem, note: "Withdraw" },
+        item: { ...planItem, note: planPhraseOf(withdraw) },
         itemId,
       })
     }

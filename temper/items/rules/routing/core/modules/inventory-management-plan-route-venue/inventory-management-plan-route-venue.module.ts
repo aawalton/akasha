@@ -16,5 +16,9 @@ export const inventoryManagementPlanRouteVenue = {
       decisionKind: "decision-kind/departure",
       statement: "A location the player cannot reach has no venue.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A plan's step words are plan phrase pages, their held titles first.",
+    },
   ],
 } as const satisfies Module

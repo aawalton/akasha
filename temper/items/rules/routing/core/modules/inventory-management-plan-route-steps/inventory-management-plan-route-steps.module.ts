@@ -15,5 +15,9 @@ export const inventoryManagementPlanRouteSteps = {
       decisionKind: "decision-kind/departure",
       statement: "A hand-off deposits before withdrawing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The deposit and withdraw notes are plan phrase pages.",
+    },
   ],
 } as const satisfies Module
