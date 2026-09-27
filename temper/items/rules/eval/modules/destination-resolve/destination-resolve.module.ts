@@ -30,7 +30,11 @@ export const destinationResolve = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A chain naming no by-priority tier leaves the flat destination to answer.",
+      statement: "A chain with no fill tier leaves the flat destination to answer.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A fill tier naming a character carries its own target quantity.",
     },
 
     {

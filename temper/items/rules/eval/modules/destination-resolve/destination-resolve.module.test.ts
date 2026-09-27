@@ -91,7 +91,24 @@ test("a tier gating nothing stocks its target without asking about any character
   })
 })
 
-test("a chain with no by-priority tier leaves the flat destination to answer", () => {
+test("a chain whose fill tier names a character resolves to the chest after it", () => {
+  const rule: CompiledOrderedRule = {
+    categoryId: "consumables",
+    action: "stock",
+    destinationChain: [
+      { destination: "character:8796093022338107", targetQuantity: 20 },
+      { destination: "house-storage:4675" },
+    ],
+  }
+
+  expect(resolveDestination(rule, FACTS, ctxWith({}))).toEqual({
+    kind: "resolved",
+    concrete: "house-storage:4675",
+    targetQuantity: 20,
+  })
+})
+
+test("a chain with no fill tier leaves the flat destination to answer", () => {
   const rule: CompiledOrderedRule = {
     categoryId: "tools",
     action: "stock",
