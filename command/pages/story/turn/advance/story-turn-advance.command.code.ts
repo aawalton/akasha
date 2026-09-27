@@ -1,4 +1,5 @@
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
+import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import {
   type Landing,
@@ -11,6 +12,7 @@ import { character } from "akasha/command/argument/pages/character.argument.ts"
 import { issuesFile } from "akasha/command/argument/pages/issues-file.argument.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
 import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
+import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
 import { reviewer as reviewerArgument } from "akasha/command/argument/pages/reviewer.argument.ts"
 import { turnLore } from "akasha/command/argument/pages/turn-lore.argument.ts"
 import {
@@ -30,7 +32,9 @@ import { heldAt } from "akasha/command/modules/filling/command-filling.module.co
 import { storyTurnAdvance as page } from "akasha/command/pages/story/turn/advance/story-turn-advance.command.ts"
 import {
   type Prompting,
+  type Recorder,
   type Reviewer,
+  recorderPrompt,
   reviewerPrompt,
   writerPrompt,
 } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
@@ -68,6 +72,7 @@ const NAMED = [
   issuesFile,
   proseFile,
   character,
+  recorderArgument,
 ] as const
 
 const COLLECTIONS = "partOfCollections"
@@ -79,6 +84,8 @@ const LORE = "lore"
 const ISSUES = "issues"
 
 const REVIEWED_BY = "reviewedBy"
+
+const RECORDED_BY = "recordedBy"
 
 const PARTED = "/"
 
@@ -93,6 +100,7 @@ type Said = {
   readonly issuesFile?: string | undefined
   readonly proseFile?: string | undefined
   readonly character: readonly string[]
+  readonly recorder?: string | undefined
 }
 
 function kindsIn(said: Said): readonly Handed["kind"][] {
@@ -101,7 +109,14 @@ function kindsIn(said: Said): readonly Handed["kind"][] {
   if (said.beatsFile !== undefined) kinds.push("beats")
   if (said.reviewer !== undefined || said.issuesFile !== undefined) kinds.push("review")
   if (said.proseFile !== undefined || said.character.length > 0) kinds.push("prose")
+  if (said.recorder !== undefined) kinds.push("record")
   return kinds
+}
+
+function recordIn(said: Said): Handed | Refusal {
+  const recorder = said.recorder?.trim() ?? ""
+  if (recorder !== "") return { kind: "record", recorder }
+  return { refused: [`\`${recorderArgument.said}\` names no story recorder`] }
 }
 
 function reviewIn(root: string, said: Said): Handed | Refusal {
@@ -128,6 +143,7 @@ function handedFrom(root: string, said: Said): Handed | Refusal {
   const kind = kinds[0] ?? "lore"
   if (kind === "lore") return { kind, lore: said.turnLore }
   if (kind === "review") return reviewIn(root, said)
+  if (kind === "record") return recordIn(said)
   if (kind === "beats" && said.beatsFile !== undefined) {
     const read = heldAt(root, beatsFile.said, said.beatsFile)
     return "refused" in read ? read : { kind, beats: linesIn(read.text) }
@@ -165,6 +181,7 @@ export function heldOf(turn: Turn): Held | { readonly refused: string } {
     lore: stringsIn(turn.value[LORE]),
     issues: stringsIn(turn.value[ISSUES]),
     reviewedBy: stringsIn(turn.value[REVIEWED_BY]).map(bareOf),
+    recordedBy: stringsIn(turn.value[RECORDED_BY]).map(bareOf),
   }
 }
 
@@ -172,8 +189,20 @@ type Context = {
   readonly game: string
   readonly story: Story | null
   readonly reviewers: readonly Reviewer[]
+  readonly recorders: readonly Recorder[]
   readonly prompting: Prompting
   readonly rulesAt: string
+}
+
+function recorderStarting(recorder: string, persona: string, at: Context): Starting | string {
+  const found = at.recorders.find((one) => one.slug === recorder)
+  if (found === undefined) return `\`${recorder}\` is no story recorder page`
+  const flex = flexOf(
+    at.recorders.map((one) => one.slug),
+    found.slug
+  )
+  const prompt = recorderPrompt(at.prompting, found)
+  return { persona, role: storyRecorderRole.slug, game: at.game, flex, prompt }
 }
 
 function startingOf(start: Start, persona: string, at: Context): Starting | string {
@@ -181,6 +210,7 @@ function startingOf(start: Start, persona: string, at: Context): Starting | stri
     const prompt = writerPrompt(at.prompting, at.rulesAt)
     return { persona, role: writerRole.slug, game: at.game, flex: null, prompt }
   }
+  if (start.kind === "recorder") return recorderStarting(start.recorder, persona, at)
   const found = at.reviewers.find((one) => one.slug === start.reviewer)
   if (found === undefined) return `\`${start.reviewer}\` is no story reviewer page`
   const flex = flexOf(
@@ -243,8 +273,10 @@ async function advancedOn(
   const seat = reach.seatOf(given.root, given.agentId)
   const caller: Caller = seat ?? { role: null, game: null }
   const reviewers = reach.reviewersIn(given.root)
+  const recorders = reach.recordersIn(given.root)
   const slugs = reviewers.map((one) => one.slug)
-  const said = advanced(held, caller, read.handed, slugs)
+  const recorded = recorders.map((one) => one.slug)
+  const said = advanced(held, caller, read.handed, slugs, recorded)
   if ("refused" in said) return refused(said.refused, DATA)
   const naming: Naming = {
     pageTypeSlug: storyTurnPlayed.slug,
@@ -256,15 +288,23 @@ async function advancedOn(
   }
   const asking = reach.fold(given.root, naming)
   if ("refused" in asking) return refused(asking.refused, DATA)
+  if (read.handed.kind === "record") {
+    const why = reach.keep(given.root, given.agentId, turn.at)
+    if (why !== null) return refused(why, DATA)
+  }
+  const kept = said.landsKept ? reach.kept(given.root, turn.at) : []
+  if ("refused" in kept) return refused(kept.refused, DATA)
   const message = `${slug} moves from ${held.status} to ${said.status}`
-  const by = { agentId: given.agentId, writer: given.writer, done }
+  const by = { agentId: given.agentId, writer: given.writer, done, kept }
   const landed = await landing(given.root, asking, message, by)
   if ("refusals" in landed) return keeping(done, refusedBy([...landed.refusals], DATA))
+  if (said.landsKept) reach.release(given.root, turn.at)
   const story = reach.storyOf(given.root, held.game)
   const at: Context = {
     game: held.game,
     story,
     reviewers,
+    recorders,
     prompting: {
       title: story?.title ?? held.game,
       turnAt: turn.at,
@@ -273,7 +313,9 @@ async function advancedOn(
     },
     rulesAt: reach.rulesAt(given.root),
   }
-  const after: Told = { report: [`${slug}\t${held.status}\t${said.status}`], faults: [] }
+  const moving = `${slug}\t${held.status}\t${said.status}`
+  const report = said.landsKept ? [moving, `landed\t${kept.length} kept edit(s)`] : [moving]
+  const after: Told = { report, faults: [] }
   if (said.status !== held.status) await noticesOver(reach, at, said.status, after)
   await seatsStarted(reach, at, said.starts, done, after)
   if (said.stopsCaller && seat !== null) {

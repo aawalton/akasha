@@ -51,6 +51,7 @@ const SEATS: readonly Seated[] = [
   { name: BUILDER, role: "world-builder", game: "the-saga" },
   { name: "mari-reviewer-the-saga-flex-1", role: "reviewer", game: "the-saga" },
   { name: "mari-writer-the-saga", role: "writer", game: "the-saga" },
+  { name: "mari-story-recorder-the-saga-flex-1", role: "story-recorder", game: "the-saga" },
   { name: "mari-reviewer-another-flex-1", role: "reviewer", game: "another" },
 ]
 
@@ -80,16 +81,24 @@ type Seen = {
   readonly asked: Asking[]
   readonly stops: string[]
   readonly notices: string[]
+  readonly releases: string[]
 }
 
 function seen(): Seen {
-  return { folded: [], asked: [], stops: [], notices: [] }
+  return { folded: [], asked: [], stops: [], notices: [], releases: [] }
 }
 
 function reachOver(turn: Turn, into: Seen, latest = SLUG): Rewinding {
   return {
     turnAt: (_root, slug) => (slug === turn.slug ? turn : null),
     reviewersIn: () => [],
+    recordersIn: () => [],
+    keep: () => null,
+    kept: () => [],
+    release: (_root, at) => {
+      into.releases.push(at)
+      return true
+    },
     seatOf: () => null,
     storyOf: () => ({ title: "The Saga", master: MASTER }),
     rulesAt: () => "style/style-rule/pages",
@@ -144,10 +153,28 @@ test("a rewind clears what the turn made, keeps its action and takes its files i
   expect(into.asked).toEqual([taking(PROSE_AT), taking(ROLLS_AT)])
 })
 
-test("a rewind stops the game's reviewer and writer seats and tells its game master and world builder", async () => {
+test("a rewind clears which recorders ran and discards the edits they kept beside the turn", async () => {
+  const into = seen()
+  const turn = turnAt({
+    action: "I open the gate",
+    turnStatus: `${turnStatus.slug}/recorders`,
+    recordedBy: ["story-recorder/cast"],
+  })
+  const answer = await rewoundBy([], reachOver(turn, into), into)
+  expect(answer.refusals).toEqual([])
+  expect(into.folded[0]?.values["recordedBy"]).toBeUndefined()
+  expect(into.releases).toEqual([AT])
+  expect(answer.report).toContain("discarded\tthe recorders' kept edits")
+})
+
+test("a rewind stops the game's reviewer, writer and recorder seats and tells its game master and world builder", async () => {
   const into = seen()
   await rewoundBy([], reachOver(turnAt({ action: "I open the gate" }), into), into)
-  expect(into.stops).toEqual(["mari-reviewer-the-saga-flex-1", "mari-writer-the-saga"])
+  expect(into.stops).toEqual([
+    "mari-reviewer-the-saga-flex-1",
+    "mari-writer-the-saga",
+    "mari-story-recorder-the-saga-flex-1",
+  ])
   expect(into.notices).toEqual([
     `${MASTER}: The turn \`${AT}\` is at world-builder.`,
     `${BUILDER}: The turn \`${AT}\` is at world-builder.`,

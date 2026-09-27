@@ -31,11 +31,30 @@ export const storyTurnAdvance = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn moving into recorders starts one fresh seat for each story recorder.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A recorder's advance moves the edits it drafted beside the turn before it lands.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The last recorder's advance lands every edit kept beside the turn with the move to player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A landing that refuses keeps the edits beside the turn and the turn at recorders.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A seat started here sits as the persona of the game's game master.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reviewer's or the writer's seat is stopped once its own advance lands.",
+      statement:
+        "A reviewer's, the writer's or a recorder's seat is stopped once its advance lands.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -55,5 +74,6 @@ export const storyTurnAdvance = {
     { argument: "argument/issues-file" },
     { argument: "argument/prose-file" },
     { argument: "argument/character", repeats: true },
+    { argument: "argument/recorder" },
   ],
 } as const satisfies Command

@@ -34,7 +34,11 @@ export const storyTurnRewind = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A rewind stops every reviewer and writer seat of the turn's game.",
+      statement: "A rewind stops every reviewer, writer and recorder seat of the turn's game.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A rewind discards the recorders' edits kept beside the turn.",
     },
     {
       decisionKind: "decision-kind/departure",

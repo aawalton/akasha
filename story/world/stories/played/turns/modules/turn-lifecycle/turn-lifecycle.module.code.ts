@@ -1,11 +1,14 @@
 import { gameMaster as gameMasterRole } from "akasha/agent/role/pages/game-master.role.ts"
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
+import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { worldBuilder as worldBuilderRole } from "akasha/agent/role/pages/world-builder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import { wordCount } from "akasha/story/engine/core/modules/word-count/word-count.module.code.ts"
+import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import { gameMaster } from "akasha/story/world/stories/played/turns/turn-status/pages/game-master.turn-status.ts"
 import { player } from "akasha/story/world/stories/played/turns/turn-status/pages/player.turn-status.ts"
+import { recorders as recordersStatus } from "akasha/story/world/stories/played/turns/turn-status/pages/recorders.turn-status.ts"
 import { reviewers as reviewersStatus } from "akasha/story/world/stories/played/turns/turn-status/pages/reviewers.turn-status.ts"
 import { worldBuilder } from "akasha/story/world/stories/played/turns/turn-status/pages/world-builder.turn-status.ts"
 import { writer } from "akasha/story/world/stories/played/turns/turn-status/pages/writer.turn-status.ts"
@@ -16,6 +19,7 @@ export const TURN_STEPS = [
   gameMaster.slug,
   reviewersStatus.slug,
   writer.slug,
+  recordersStatus.slug,
   player.slug,
 ] as const
 
@@ -29,7 +33,11 @@ export const REVIEWERS: TurnStep = reviewersStatus.slug
 
 export const WRITER: TurnStep = writer.slug
 
+export const RECORDERS: TurnStep = recordersStatus.slug
+
 export const PLAYER: TurnStep = player.slug
+
+const MANY: readonly TurnStep[] = [REVIEWERS, RECORDERS]
 
 export const TURN_SENDER = "story-turn"
 
@@ -42,6 +50,8 @@ export const LONGEST_ACTION = 4000
 const TURN_STATUS = turnStatus.slug
 
 const STORY_REVIEWER = storyReviewer.slug
+
+const STORY_RECORDER = storyRecorder.slug
 
 const PROSE_HELD = "txt"
 
@@ -64,6 +74,7 @@ export type Handed =
   | { readonly kind: "beats"; readonly beats: readonly string[] }
   | { readonly kind: "review"; readonly reviewer: string; readonly issues: readonly string[] }
   | { readonly kind: "prose"; readonly prose: string; readonly characters: readonly string[] }
+  | { readonly kind: "record"; readonly recorder: string }
 
 type Kind = Handed["kind"]
 
@@ -73,6 +84,7 @@ export type Held = {
   readonly lore: readonly string[]
   readonly issues: readonly string[]
   readonly reviewedBy: readonly string[]
+  readonly recordedBy: readonly string[]
 }
 
 export type Caller = { readonly role: string | null; readonly game: string | null }
@@ -80,6 +92,7 @@ export type Caller = { readonly role: string | null; readonly game: string | nul
 export type Start =
   | { readonly kind: "reviewer"; readonly reviewer: string }
   | { readonly kind: "writer" }
+  | { readonly kind: "recorder"; readonly recorder: string }
 
 export type Moved = {
   readonly status: TurnStep
@@ -87,6 +100,7 @@ export type Moved = {
   readonly prose: string | null
   readonly starts: readonly Start[]
   readonly stopsCaller: boolean
+  readonly landsKept: boolean
 }
 
 export type Advanced = Moved | { readonly refused: string }
@@ -108,6 +122,7 @@ const ROLE_OF: Readonly<Record<TurnStep, string | null>> = {
   "game-master": GAME_MASTER_ROLE,
   reviewers: reviewerRole.slug,
   writer: writerRole.slug,
+  recorders: storyRecorderRole.slug,
   player: null,
 }
 
@@ -116,6 +131,7 @@ const TAKES: Readonly<Record<TurnStep, Kind | null>> = {
   "game-master": "beats",
   reviewers: "review",
   writer: "prose",
+  recorders: "record",
   player: null,
 }
 
@@ -124,6 +140,7 @@ const SAID_AS: Readonly<Record<Kind, string>> = {
   beats: "the beats (`--beats-file`)",
   review: "one reviewer's issues (`--reviewer`, with `--issues-file` or none)",
   prose: "the prose (`--prose-file`, with `--character`)",
+  record: "one recorder's drafted edits (`--recorder`)",
 }
 
 const WHO: Readonly<Record<TurnStep, string>> = {
@@ -131,6 +148,7 @@ const WHO: Readonly<Record<TurnStep, string>> = {
   "game-master": "the game master",
   reviewers: "the reviewers",
   writer: "the writer",
+  recorders: "the recorders",
   player: "the player",
 }
 
@@ -151,7 +169,7 @@ export function bareOf(address: string): string {
 export function workingSaid(step: TurnStep): string {
   const who = WHO[step]
   const opening = `${who.charAt(0).toUpperCase()}${who.slice(1)}`
-  return `${opening} ${step === REVIEWERS ? "are" : "is"} working…`
+  return `${opening} ${MANY.includes(step) ? "are" : "is"} working…`
 }
 
 export function linesIn(text: string): readonly string[] {
@@ -215,9 +233,11 @@ function moved(
   values: Readonly<Record<string, unknown>>,
   starts: readonly Start[] = [],
   stopsCaller = false,
-  prose: string | null = null
+  prose: string | null = null,
+  landsKept = false
 ): Moved {
-  return { status, values: { turnStatus: statusOf(status), ...values }, prose, starts, stopsCaller }
+  const stated = { turnStatus: statusOf(status), ...values }
+  return { status, values: stated, prose, starts, stopsCaller, landsKept }
 }
 
 function fromWorldBuilder(held: Held, lore: readonly string[]): Advanced {
@@ -276,7 +296,11 @@ function fromReviewer(
   return moved(WRITER, values, [{ kind: "writer" }], true)
 }
 
-function fromWriter(prose: string, characters: readonly string[]): Advanced {
+function fromWriter(
+  prose: string,
+  characters: readonly string[],
+  recorders: readonly string[]
+): Advanced {
   if (prose.trim() === "")
     return { refused: "a writer's advance hands in prose, and this has none" }
   const wrong = unaddressed("character", characters)
@@ -288,14 +312,36 @@ function fromWriter(prose: string, characters: readonly string[]): Advanced {
     ownLength: wordCount(prose),
     ...(kept.length === 0 ? {} : { characters: kept }),
   }
-  return moved(PLAYER, values, [], true, written)
+  if (recorders.length === 0) return moved(PLAYER, values, [], true, written)
+  const starts = recorders.map((recorder): Start => ({ kind: "recorder", recorder }))
+  return moved(RECORDERS, values, starts, true, written)
+}
+
+function fromRecorder(held: Held, recorder: string, recorders: readonly string[]): Advanced {
+  if (!recorders.includes(recorder)) {
+    return {
+      refused: `\`${recorder}\` is no story recorder, and the story recorders are ${recorders.join(", ")}`,
+    }
+  }
+  if (held.recordedBy.includes(recorder)) {
+    return {
+      refused: `\`${recorder}\` has recorded this turn already, and a turn is recorded once`,
+    }
+  }
+  const recordedBy = [...held.recordedBy, recorder]
+  const values = { recordedBy: recordedBy.map((one) => `${STORY_RECORDER}${PARTED}${one}`) }
+  if (!recorders.every((one) => recordedBy.includes(one))) {
+    return moved(RECORDERS, values, [], true)
+  }
+  return moved(PLAYER, values, [], true, null, true)
 }
 
 export function advanced(
   held: Held,
   caller: Caller,
   handed: Handed,
-  reviewers: readonly string[]
+  reviewers: readonly string[],
+  recorders: readonly string[]
 ): Advanced {
   const refused = callerRefused(held, caller)
   if (refused !== null) return { refused }
@@ -311,7 +357,8 @@ export function advanced(
   if (handed.kind === "review") {
     return fromReviewer(held, handed.reviewer, handed.issues, reviewers)
   }
-  return fromWriter(handed.prose, handed.characters)
+  if (handed.kind === "record") return fromRecorder(held, handed.recorder, recorders)
+  return fromWriter(handed.prose, handed.characters, recorders)
 }
 
 export function slugAfter(slug: string): string | null {
@@ -332,7 +379,7 @@ export function makingRefused(latest: Latest | null): string | null {
   if (latest === null) return "This story has no turn yet for a new one to follow."
   const status = latest.status ?? PLAYER
   if (status === PLAYER) return null
-  return `The last turn is still being made: ${WHO[status]} ${status === REVIEWERS ? "are" : "is"} working on it.`
+  return `The last turn is still being made: ${WHO[status]} ${MANY.includes(status) ? "are" : "is"} working on it.`
 }
 
 export function turnAfter(latest: Latest | null, action: string): Made {

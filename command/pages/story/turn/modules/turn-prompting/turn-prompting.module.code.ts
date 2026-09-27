@@ -2,9 +2,17 @@ import { character } from "akasha/command/argument/pages/character.argument.ts"
 import { issuesFile } from "akasha/command/argument/pages/issues-file.argument.ts"
 import { playedTurn } from "akasha/command/argument/pages/played-turn.argument.ts"
 import { proseFile } from "akasha/command/argument/pages/prose-file.argument.ts"
+import { recorder as recorderArgument } from "akasha/command/argument/pages/recorder.argument.ts"
 import { reviewer as reviewerArgument } from "akasha/command/argument/pages/reviewer.argument.ts"
 
 export type Reviewer = {
+  readonly slug: string
+  readonly name: string
+  readonly at: string
+  readonly instructionsAt: string
+}
+
+export type Recorder = {
   readonly slug: string
   readonly name: string
   readonly at: string
@@ -21,6 +29,8 @@ export type Prompting = {
 const PATH = "<path>"
 
 const ADDRESS = "<address>"
+
+const DRAFTING = "akasha change apply --draft"
 
 export function reviewerPrompt(asked: Prompting, reviewer: Reviewer): string {
   return [
@@ -45,6 +55,20 @@ export function writerPrompt(asked: Prompting, rulesAt: string): string {
     "When the prose is done, write it to a file and advance the turn once, naming each character present in it by its address:",
     "",
     `${asked.calledAs} ${playedTurn.said} ${asked.address} ${proseFile.said} ${PATH} ${character.said} ${ADDRESS} ${character.said} ${ADDRESS}`,
+    "",
+    "The advance ends this seat, so make it last.",
+  ].join("\n")
+}
+
+export function recorderPrompt(asked: Prompting, recorder: Recorder): string {
+  return [
+    `You are the ${recorder.name} story recorder, recording what one turn of ${asked.title} changed now that its prose is written.`,
+    "",
+    `The turn is \`${asked.turnAt}\`, with its prose beside it. Your instructions are \`${recorder.instructionsAt}\`, beside the story recorder page \`${recorder.at}\`.`,
+    "",
+    `Read your instructions, then the turn and its prose, and do what the instructions say. Draft your edits with \`${DRAFTING}\`, never land them: the advance lands every recorder's drafted edits with the turn's move to player. When your edits are drafted, advance the turn once:`,
+    "",
+    `${asked.calledAs} ${playedTurn.said} ${asked.address} ${recorderArgument.said} ${recorder.slug}`,
     "",
     "The advance ends this seat, so make it last.",
   ].join("\n")

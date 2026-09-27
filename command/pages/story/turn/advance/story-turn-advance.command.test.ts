@@ -1,6 +1,9 @@
 import { afterAll, expect, test } from "bun:test"
 import { mkdtempSync, rmSync, writeFileSync } from "node:fs"
 import { join } from "node:path"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import type { Landing } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
+import { DATA } from "akasha/command/modules/answering/command-answering.module.code.ts"
 import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
 import {
   storyTurnAdvance,
@@ -13,6 +16,8 @@ import type {
   Turn,
 } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
 import type { Naming } from "akasha/page/service/modules/page-composing/page-composing.module.code.ts"
+import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
+import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import type { TurnStep } from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
 import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
@@ -43,6 +48,26 @@ const REVIEWERS = [
     at: "reviewers/voice.story-reviewer.ts",
     instructionsAt: "reviewers/voice.story-reviewer.instructions.md",
   },
+]
+
+const RECORDERS = [
+  {
+    slug: "memory",
+    name: "Memory",
+    at: "recorders/memory.story-recorder.ts",
+    instructionsAt: "recorders/memory.story-recorder.instructions.md",
+  },
+  {
+    slug: "cast",
+    name: "Cast",
+    at: "recorders/cast.story-recorder.ts",
+    instructionsAt: "recorders/cast.story-recorder.instructions.md",
+  },
+]
+
+const DRAFTED: readonly FileChange[] = [
+  { kind: "add", path: "lore/a-hall.lore.ts", content: "cast\n" },
+  { kind: "add", path: "lore/the-gate.lore.ts", content: "memory\n" },
 ]
 
 const GIVEN: Given = { root: ROOT, calledAs: CALLED, from: "", writer: null, agentId: "an-agent" }
@@ -77,16 +102,42 @@ type Seen = {
   readonly starts: Starting[]
   readonly stops: string[]
   readonly notices: string[]
+  readonly keeps: string[]
+  readonly releases: string[]
+  readonly landings: (readonly FileChange[])[]
 }
 
 function seen(): Seen {
-  return { folded: [], starts: [], stops: [], notices: [] }
+  return {
+    folded: [],
+    starts: [],
+    stops: [],
+    notices: [],
+    keeps: [],
+    releases: [],
+    landings: [],
+  }
 }
 
-function reachOver(turn: Turn, seat: Seated | null, into: Seen): Reach {
+function reachOver(
+  turn: Turn,
+  seat: Seated | null,
+  into: Seen,
+  recorders: typeof RECORDERS = RECORDERS
+): Reach {
   return {
     turnAt: (_root, slug) => (slug === turn.slug ? turn : null),
     reviewersIn: () => REVIEWERS,
+    recordersIn: () => recorders,
+    keep: (_root, agentId, at) => {
+      into.keeps.push(`${agentId ?? ""} ${at}`)
+      return null
+    },
+    kept: () => DRAFTED,
+    release: (_root, at) => {
+      into.releases.push(at)
+      return true
+    },
     seatOf: () => seat,
     storyOf: () => ({ title: "The Saga", master: MASTER }),
     rulesAt: () => "style/style-rule/pages",
@@ -114,11 +165,22 @@ function seatOf(role: string, name: string): Seated {
   return { name, role, game: "the-saga" }
 }
 
-async function advancedBy(argv: readonly string[], reach: Reach) {
+function landingInto(into: Seen, refusals: readonly string[] = []): Landing {
+  return async (_root, _asked, _message, writing) => {
+    into.landings.push(writing?.kept ?? [])
+    return refusals.length === 0 ? LANDED : { refusals, code: DATA }
+  }
+}
+
+async function advancedBy(
+  argv: readonly string[],
+  reach: Reach,
+  landing: Landing = async () => LANDED
+) {
   return await storyTurnAdvance(
     ["--turn", `story-turn-played/${SLUG}`, ...argv],
     GIVEN,
-    async () => LANDED,
+    landing,
     reach
   )
 }
@@ -184,12 +246,14 @@ test("a reviewer that is not the last lands its issues, tells nobody and stops i
   expect(into.stops).toEqual([reviewer])
 })
 
-test("the writer's prose is written beside the turn with its length, and the writer's seat stops", async () => {
+const WRITTEN = ["--prose-file", join(ROOT, "prose.txt"), "--character", "character-player/mara"]
+
+test("with no story recorder the writer's prose lands beside the turn at the player, and the writer's seat stops", async () => {
   const into = seen()
   const writer = "mari-writer-the-saga"
   const answer = await advancedBy(
-    ["--prose-file", join(ROOT, "prose.txt"), "--character", "character-player/mara"],
-    reachOver(turnAt("writer"), seatOf("writer", writer), into)
+    WRITTEN,
+    reachOver(turnAt("writer"), seatOf("writer", writer), into, [])
   )
   expect(answer.refusals).toEqual([])
   expect(into.folded[0]?.values).toEqual({
@@ -199,7 +263,97 @@ test("the writer's prose is written beside the turn with its length, and the wri
     characters: ["character-player/mara"],
   })
   expect(into.folded[0]?.bodies).toEqual({ prose: "Mara opens the gate.\n" })
+  expect(into.starts).toEqual([])
   expect(into.stops).toEqual([writer])
+})
+
+test("the writer's prose moves the turn to the recorders and starts one fresh seat for each", async () => {
+  const into = seen()
+  const writer = "mari-writer-the-saga"
+  const answer = await advancedBy(
+    WRITTEN,
+    reachOver(turnAt("writer"), seatOf("writer", writer), into),
+    landingInto(into)
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.folded[0]?.values["turnStatus"]).toBe(`${turnStatus.slug}/recorders`)
+  expect(into.folded[0]?.bodies).toEqual({ prose: "Mara opens the gate.\n" })
+  expect(into.landings).toEqual([[]])
+  expect(into.starts.map((one) => [one.persona, one.role, one.game, one.flex])).toEqual([
+    ["mari", "story-recorder", "the-saga", "flex-2"],
+    ["mari", "story-recorder", "the-saga", "flex-1"],
+  ])
+  expect(answer.report).toContain("started\tmari-story-recorder-the-saga-flex-2")
+  const prompt = into.starts[0]?.prompt ?? ""
+  expect(prompt).toContain(AT)
+  expect(prompt).toContain("recorders/memory.story-recorder.instructions.md")
+  expect(prompt).toContain("akasha change apply --draft")
+  expect(prompt).toContain(`${CALLED} --turn story-turn-played/${SLUG} --recorder memory`)
+  expect(into.notices).toEqual([
+    `${MASTER}: The turn \`${AT}\` is at recorders.`,
+    `${BUILDER}: The turn \`${AT}\` is at recorders.`,
+  ])
+  expect(into.stops).toEqual([writer])
+})
+
+const RECORDER_SEAT = "mari-story-recorder-the-saga-flex-1"
+
+test("a recorder that is not the last keeps its drafted edits beside the turn, lands none, and stops", async () => {
+  const into = seen()
+  const answer = await advancedBy(
+    ["--recorder", "cast"],
+    reachOver(turnAt("recorders"), seatOf("story-recorder", RECORDER_SEAT), into),
+    landingInto(into)
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.keeps).toEqual([`an-agent ${AT}`])
+  expect(into.folded[0]?.values).toEqual({
+    turnStatus: `${turnStatus.slug}/recorders`,
+    recordedBy: ["story-recorder/cast"],
+  })
+  expect(into.landings).toEqual([[]])
+  expect(into.releases).toEqual([])
+  expect(into.notices).toEqual([])
+  expect(into.stops).toEqual([RECORDER_SEAT])
+})
+
+test("the last recorder lands every recorder's kept edits with the move to player in one landing", async () => {
+  const into = seen()
+  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
+  const answer = await advancedBy(
+    ["--recorder", "memory"],
+    reachOver(turn, seatOf("story-recorder", RECORDER_SEAT), into),
+    landingInto(into)
+  )
+  expect(answer.refusals).toEqual([])
+  expect(into.keeps).toEqual([`an-agent ${AT}`])
+  expect(into.folded[0]?.values).toEqual({
+    turnStatus: `${turnStatus.slug}/player`,
+    recordedBy: ["story-recorder/cast", `${storyRecorder.slug}/${memory.slug}`],
+  })
+  expect(into.landings).toEqual([DRAFTED])
+  expect(into.releases).toEqual([AT])
+  expect(into.notices).toEqual([
+    `${MASTER}: The turn \`${AT}\` is at player.`,
+    `${BUILDER}: The turn \`${AT}\` is at player.`,
+  ])
+  expect(into.stops).toEqual([RECORDER_SEAT])
+})
+
+test("a refused landing keeps the edits beside the turn, the turn at recorders and the seat running", async () => {
+  const into = seen()
+  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
+  const answer = await advancedBy(
+    ["--recorder", "memory"],
+    reachOver(turn, seatOf("story-recorder", RECORDER_SEAT), into),
+    landingInto(into, ["`lore/a-hall.lore.ts` moved since it was read"])
+  )
+  expect(answer.refusals.join(" ")).toContain("lore/a-hall.lore.ts")
+  expect(into.landings).toEqual([DRAFTED])
+  expect(into.releases).toEqual([])
+  expect(into.notices).toEqual([])
+  expect(into.starts).toEqual([])
+  expect(into.stops).toEqual([])
 })
 
 test("an advance from a seat not holding the turn lands nothing", async () => {

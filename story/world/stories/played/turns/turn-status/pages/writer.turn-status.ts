@@ -13,7 +13,11 @@ export const writer = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The writer records the prose and advances the turn to player.",
+      statement: "The writer records the prose and advances the turn to recorders.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn with no story recorder advances from here to player.",
     },
   ],
 } as const satisfies TurnStatus

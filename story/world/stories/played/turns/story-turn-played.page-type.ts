@@ -67,7 +67,8 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn moves through world-builder, game-master, reviewers, writer and player.",
+      statement:
+        "A turn moves through world-builder, game-master, reviewers, writer, recorders and player.",
     },
     {
       decisionKind: "decision-kind/departure",
@@ -80,6 +81,14 @@ export const storyTurnPlayed = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A turn names the reviewers that have already run on it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn names the recorders that have already run on it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A turn reaches player only with every recorder's edits landed in that move.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -108,6 +108,18 @@ describe("playedReady and playedMaking", () => {
     })
   })
 
+  test("a turn whose recorders are still working is kept from the reader and is being made", () => {
+    const recording = turnPage({
+      id: "b",
+      slug: "saga-02",
+      position: 2,
+      turnStatus: at("recorders"),
+      action: "I open the gate",
+    })
+    expect(playedReady([recording, read]).map((row) => row.id)).toEqual(["a"])
+    expect(playedMaking([recording, read])?.step).toBe("recorders")
+  })
+
   test("nothing is being made once the latest turn is at player", () => {
     expect(playedMaking([read])).toBeNull()
     expect(playedMaking([])).toBeNull()

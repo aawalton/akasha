@@ -1,4 +1,5 @@
 import { reviewer as reviewerRole } from "akasha/agent/role/pages/reviewer.role.ts"
+import { storyRecorder as storyRecorderRole } from "akasha/agent/role/pages/story-recorder.role.ts"
 import { writer as writerRole } from "akasha/agent/role/pages/writer.role.ts"
 import {
   type Landing,
@@ -57,7 +58,7 @@ const PROSE_HELD = "txt"
 
 const TRAILING_LINES = /(?:\r?\n)+$/
 
-const STOPPED: readonly string[] = [reviewerRole.slug, writerRole.slug]
+const STOPPED: readonly string[] = [reviewerRole.slug, writerRole.slug, storyRecorderRole.slug]
 
 type Taken = { readonly turn: string; readonly action: string | null }
 
@@ -170,6 +171,7 @@ async function rewoundOn(
     faults: [],
   }
   seatsStopped(reach, given.root, held.game, after)
+  if (reach.release(given.root, turn.at)) after.report.push(`discarded\tthe recorders' kept edits`)
   const master = reach.storyOf(given.root, held.game)?.master ?? null
   await noticesSent(reach, held.game, master, turn.at, WORLD_BUILDER, after)
   if (after.faults.length === 0) return told(after.report)

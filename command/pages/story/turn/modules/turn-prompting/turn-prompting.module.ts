@@ -4,7 +4,7 @@ export const turnPrompting = {
   id: "01a0deca-7611-7c9f-94b0-89aa26759a71",
   type: "page-type/module",
   slug: "turn-prompting",
-  definition: "the prompt a fresh reviewer or writer seat starts on",
+  definition: "the prompt a fresh reviewer, writer or recorder seat starts on",
   code: "ts",
   decisions: [
     {
@@ -19,6 +19,10 @@ export const turnPrompting = {
     {
       decisionKind: "decision-kind/departure",
       statement: "A prompt names the exact advance the seat calls when it is done.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A recorder's prompt says to draft its edits and never land them.",
     },
     {
       decisionKind: "decision-kind/absence",

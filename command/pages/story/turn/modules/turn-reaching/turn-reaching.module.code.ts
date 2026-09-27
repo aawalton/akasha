@@ -6,12 +6,23 @@ import { SEAT_MODE_HEADLESS } from "akasha/agent/seat/launching/modules/seat-mod
 import { startSeat } from "akasha/agent/seat/launching/modules/seat-start/seat-start.module.code.ts"
 import { akashaSeatPathForCaller } from "akasha/agent/seat/modules/akasha-beside/seat-akasha-beside.module.code.ts"
 import { akashaSeatsStated } from "akasha/agent/seat/modules/akasha-read/seat-akasha-read.module.code.ts"
+import type { FileChange } from "akasha/change/modules/answer/change-answer.module.code.ts"
+import {
+  appendEdits,
+  editsIn,
+  keptEdits,
+  sweptAll,
+} from "akasha/change/modules/edits-keeping/edits-keeping.module.code.ts"
 import type { Asking } from "akasha/change/runner/pages/mechanical-change-running/mechanical-change-running.change-runner.code.ts"
 import {
   type Turn as Placed,
   turnsIndexed,
 } from "akasha/command/pages/story/settle/story-settle.command.code.ts"
-import type { Reviewer } from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
+import type {
+  Recorder,
+  Reviewer,
+} from "akasha/command/pages/story/turn/modules/turn-prompting/turn-prompting.module.code.ts"
+import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
   listedAt,
   valuesOfType,
@@ -32,6 +43,8 @@ import {
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { ACTION_BAR_PLAYER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import { storyRecorderInstructions } from "akasha/story/recorder/properties/story-recorder-instructions.file-property.ts"
+import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewerInstructions } from "akasha/story/reviewer/properties/story-reviewer-instructions.file-property.ts"
 import { storyReviewer } from "akasha/story/reviewer/story-reviewer.page-type.ts"
 import { styleRule } from "akasha/story/style/style-rule/style-rule.page-type.ts"
@@ -91,9 +104,15 @@ export type Starting = {
   readonly prompt: string
 }
 
+export type Kept = readonly FileChange[] | { readonly refused: string }
+
 export type Reach = {
   readonly turnAt: (root: string, slug: string) => Turn | null
   readonly reviewersIn: (root: string) => readonly Reviewer[]
+  readonly recordersIn: (root: string) => readonly Recorder[]
+  readonly keep: (root: string, agentId: string | null, turn: string) => string | null
+  readonly kept: (root: string, turn: string) => Kept
+  readonly release: (root: string, turn: string) => boolean
   readonly seatOf: (root: string, agentId: string | null) => Seated | null
   readonly storyOf: (root: string, game: string) => Story | null
   readonly rulesAt: (root: string) => string
@@ -140,8 +159,34 @@ function turnIndexed(root: string, slug: string): Turn | null {
 }
 
 function reviewersIndexed(root: string): readonly Reviewer[] {
-  const kept = storyReviewerInstructions.propertySlug
-  return valuesOfType(root, storyReviewer.slug).flatMap((one) => {
+  return staffIndexed(root, storyReviewer.slug, storyReviewerInstructions.propertySlug)
+}
+
+function recordersIndexed(root: string): readonly Recorder[] {
+  return staffIndexed(root, storyRecorder.slug, storyRecorderInstructions.propertySlug)
+}
+
+function keptForTurn(root: string, agentId: string | null, turn: string): string | null {
+  const page = agentId === null || agentId === "" ? null : agentPathOf(root, agentId)
+  if (page === null) return "the caller has no page, so none of its drafted edits was found"
+  const wrong: string[] = []
+  const moved = keptEdits(root, page, (had) => {
+    if (had.length === 0) return had
+    const into = appendEdits(root, turn, had)
+    if (!("why" in into)) return null
+    wrong.push(into.why)
+    return had
+  })
+  return "why" in moved ? moved.why : (wrong[0] ?? null)
+}
+
+function heldForTurn(root: string, turn: string): Kept {
+  const held = editsIn(root, turn)
+  return "why" in held ? { refused: held.why } : held.rows
+}
+
+function staffIndexed(root: string, type: string, kept: string): readonly Reviewer[] {
+  return valuesOfType(root, type).flatMap((one) => {
     const slug = textAt(one.value, SLUG)
     if (slug === null) return []
     const ending = textAt(one.value, kept) ?? INSTRUCTIONS_HELD
@@ -232,6 +277,10 @@ async function noticeSent(to: string, body: string): Promise<string | null> {
 export const REACHED: Reach = {
   turnAt: turnIndexed,
   reviewersIn: reviewersIndexed,
+  recordersIn: recordersIndexed,
+  keep: keptForTurn,
+  kept: heldForTurn,
+  release: sweptAll,
   seatOf: seatIndexed,
   storyOf: storyIndexed,
   rulesAt: (root) => pagesAtFor(root, styleRule.slug),

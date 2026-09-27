@@ -26,7 +26,20 @@ export const turnLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reviewer's and the writer's seats are stopped once each advances.",
+      statement:
+        "A reviewer's, the writer's and a recorder's seats are stopped once each advances.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The writer's advance goes to recorders, or to player where no story recorder is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The recorder completing the set moves the turn to player.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The move to player from recorders lands every recorder's kept edits with it.",
     },
     {
       decisionKind: "decision-kind/departure",

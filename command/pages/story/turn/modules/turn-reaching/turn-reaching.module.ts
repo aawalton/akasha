@@ -13,7 +13,16 @@ export const turnReaching = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A reviewer or writer seat starts headless, as Alan's, with no seat above it.",
+      statement:
+        "A reviewer, writer or recorder seat starts headless, as Alan's, with no seat above it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A recorder's advance moves the edits its seat kept beside the turn's page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Edits kept beside a turn outlive the seat that drafted them.",
     },
     {
       decisionKind: "decision-kind/departure",
