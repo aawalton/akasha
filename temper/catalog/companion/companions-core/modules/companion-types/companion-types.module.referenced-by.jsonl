@@ -42,6 +42,7 @@
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/companion-skills-panel/companion-skills-panel.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/companion-target-panel-card/companion-target-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/companion-weapons-after-change/companion-weapons-after-change.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/global-companion-bulk-edit-tags/global-companion-bulk-edit-tags.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/recent-companions-card/recent-companions-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"companion-types.module.code.ts","path":"temper/web/modules/use-companion-set-target/use-companion-set-target.module.code.ts","typed":true,"deferred":false}

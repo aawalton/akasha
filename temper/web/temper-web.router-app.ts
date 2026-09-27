@@ -377,5 +377,6 @@ export const temperWeb = {
     "module/use-web-phrases",
     "module/web-phrase-loading",
     "module/version-history-item",
+    "module/companion-weapons-after-change",
   ],
 } as const satisfies RouterApp

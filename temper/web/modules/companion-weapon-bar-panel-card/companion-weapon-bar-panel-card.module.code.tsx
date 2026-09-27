@@ -13,7 +13,6 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { getCompanionWeaponIcon } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-icons/companion-equipment-icons.module.code.ts"
 import type { CompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
-import { isCompanionEquipmentQualityId } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
 import { availableQualityOptions } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-quality-rules/companion-equipment-quality-rules.module.code.ts"
 import {
   type CompanionTraitId,
@@ -26,7 +25,6 @@ import {
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-slots/companion-weapon-slots.module.code.ts"
 import {
   companionWeaponTypes,
-  isCompanionWeaponTypeId,
   isTwoHandedWeapon,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { weaponSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
@@ -38,6 +36,12 @@ import {
 } from "akasha/temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
+import { weaponsAfterChange } from "akasha/temper/web/modules/companion-weapons-after-change/companion-weapons-after-change.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionWeaponBarPanelCardNoQuality } from "akasha/temper/web/phrase/pages/companion-weapon-bar-panel-card-no-quality.temper-web-phrase.ts"
+import { companionWeaponBarPanelCardNoTrait } from "akasha/temper/web/phrase/pages/companion-weapon-bar-panel-card-no-trait.temper-web-phrase.ts"
+import { companionWeaponBarPanelCardNoType } from "akasha/temper/web/phrase/pages/companion-weapon-bar-panel-card-no-type.temper-web-phrase.ts"
+import { companionWeaponBarPanelCardWeapons } from "akasha/temper/web/phrase/pages/companion-weapon-bar-panel-card-weapons.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 export function CompanionWeaponBarPanelCard({
@@ -45,6 +49,10 @@ export function CompanionWeaponBarPanelCard({
   onUpdate,
   readOnly,
 }: CompanionEquipmentPanelProps) {
+  const phrase = usePhrase()
+  const noQuality = phrase(companionWeaponBarPanelCardNoQuality.slug)
+  const noType = phrase(companionWeaponBarPanelCardNoType.slug)
+  const noTrait = phrase(companionWeaponBarPanelCardNoTrait.slug)
   const mainHandSlot = equipment.weapons["main-hand"]
   const mainHandType = mainHandSlot.itemType === "weapon" ? mainHandSlot.data.type : "no-type"
   const isMainHandTwoHanded = mainHandType !== "no-type" && isTwoHandedWeapon(mainHandType)
@@ -53,98 +61,7 @@ export function CompanionWeaponBarPanelCard({
     slotId: CompanionWeaponSlotId,
     field: "type" | "trait" | "quality",
     value: string
-  ) => {
-    const currentSlot = equipment.weapons[slotId]
-    const currentData = currentSlot.itemType === "weapon" ? currentSlot.data : null
-
-    const newType =
-      field === "type" && isCompanionWeaponTypeId(value) ? value : (currentData?.type ?? "no-type")
-
-    const newSlot: CompanionWeaponSlotItem = {
-      itemType: "weapon",
-      data: {
-        slot: slotId,
-        type: newType,
-        trait:
-          field === "trait" && companionTraits().has(value)
-            ? value
-            : (currentData?.trait ?? "no-trait"),
-        quality:
-          field === "quality" && isCompanionEquipmentQualityId(value)
-            ? value
-            : (currentData?.quality ?? "no-quality"),
-      },
-    }
-
-    if (slotId === "main-hand" && field === "type") {
-      const isTwoHanded = newType !== "no-type" && isTwoHandedWeapon(newType)
-
-      if (isTwoHanded) {
-        onUpdate({
-          weapons: {
-            ...equipment.weapons,
-            "main-hand": newSlot,
-            "off-hand": {
-              itemType: "weapon",
-              data: {
-                slot: "off-hand",
-                type: "no-type",
-                trait: "no-trait",
-                quality: "no-quality",
-              },
-            },
-          },
-        })
-        return
-      }
-    }
-
-    if (slotId === "main-hand") {
-      const isNotTwoHanded = newType !== "no-type" && !isTwoHandedWeapon(newType)
-      const offHandSlot = equipment.weapons["off-hand"]
-      const offHandHasType =
-        offHandSlot.itemType === "weapon" && offHandSlot.data.type !== "no-type"
-      if (isNotTwoHanded && !offHandHasType) {
-        onUpdate({
-          weapons: {
-            ...equipment.weapons,
-            "main-hand": newSlot,
-            "off-hand": {
-              itemType: "weapon",
-              data: { ...newSlot.data, slot: "off-hand" },
-            },
-          },
-        })
-        return
-      }
-
-      if (newType === "no-type") {
-        onUpdate({
-          weapons: {
-            ...equipment.weapons,
-            "main-hand": newSlot,
-            "off-hand": {
-              itemType: "weapon",
-              data: {
-                slot: "off-hand",
-                type: "no-type",
-                trait: "no-trait",
-                quality: "no-quality",
-              },
-            },
-          },
-        })
-        return
-      }
-    }
-
-    onUpdate({
-      weapons: {
-        ...equipment.weapons,
-        [slotId]: newSlot,
-      },
-    })
-  }
+  ) => onUpdate({ weapons: weaponsAfterChange(equipment.weapons, slotId, field, value) })
 
   const weaponSlotItems = useMemo(() => {
     const items: CompanionWeaponSlotItem[] = []
@@ -226,7 +143,7 @@ export function CompanionWeaponBarPanelCard({
     <PanelCard
       id="companion-weapons"
       collapsible
-      title="Weapons"
+      title={phrase(companionWeaponBarPanelCardWeapons.slug)}
       headerSubtitle={
         <div className="flex flex-wrap gap-1">
           {weaponQualityCounts.map(([quality, count]) => (
@@ -298,10 +215,10 @@ export function CompanionWeaponBarPanelCard({
                       >
                         <SelectTrigger hideChevron>
                           <Badge variant={getQualityVariant(weaponData?.quality ?? "no-quality")}>
-                            <SelectValue placeholder="No Quality" />
+                            <SelectValue placeholder={noQuality} />
                           </Badge>
                         </SelectTrigger>
-                        <SelectContent nullSentinel={{ value: "no-quality", label: "No Quality" }}>
+                        <SelectContent nullSentinel={{ value: "no-quality", label: noQuality }}>
                           {availableQualityOptions()
                             .filter((quality) => quality.id !== "no-quality")
                             .map((quality) => (
@@ -322,10 +239,10 @@ export function CompanionWeaponBarPanelCard({
                       >
                         <SelectTrigger hideChevron>
                           <Badge variant="elevation-muted">
-                            <SelectValue placeholder="No Type" />
+                            <SelectValue placeholder={noType} />
                           </Badge>
                         </SelectTrigger>
-                        <SelectContent nullSentinel={{ value: "no-type", label: "No Type" }}>
+                        <SelectContent nullSentinel={{ value: "no-type", label: noType }}>
                           {availableWeaponTypes
                             .filter((type) => type.id !== "no-type")
                             .map((type) => (
@@ -342,13 +259,10 @@ export function CompanionWeaponBarPanelCard({
                       >
                         <SelectTrigger hideChevron>
                           <Badge variant="elevation-muted">
-                            <SelectValue placeholder="No Trait" />
+                            <SelectValue placeholder={noTrait} />
                           </Badge>
                         </SelectTrigger>
-                        <SelectContent
-                          nullSentinel={{ value: "no-trait", label: "No Trait" }}
-                          sorted
-                        >
+                        <SelectContent nullSentinel={{ value: "no-trait", label: noTrait }} sorted>
                           {companionTraits()
                             .list.filter((trait) => trait.id !== "no-trait")
                             .map((trait) => (

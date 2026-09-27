@@ -37,6 +37,10 @@ import {
 } from "akasha/temper/web/companions-ui/modules/companion-quality-rules/companion-quality-rules.module.code.ts"
 import { BulkEditTag } from "akasha/temper/web/modules/companion-bulk-edit-tag/companion-bulk-edit-tag.module.code.tsx"
 import type { CompanionEquipmentPanelProps } from "akasha/temper/web/modules/companion-equipment-panel-types/companion-equipment-panel-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionJewelryPanelCardJewelry } from "akasha/temper/web/phrase/pages/companion-jewelry-panel-card-jewelry.temper-web-phrase.ts"
+import { companionJewelryPanelCardNoQuality } from "akasha/temper/web/phrase/pages/companion-jewelry-panel-card-no-quality.temper-web-phrase.ts"
+import { companionJewelryPanelCardNoTrait } from "akasha/temper/web/phrase/pages/companion-jewelry-panel-card-no-trait.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 export function CompanionJewelryPanelCard({
@@ -44,6 +48,9 @@ export function CompanionJewelryPanelCard({
   onUpdate,
   readOnly,
 }: CompanionEquipmentPanelProps) {
+  const phrase = usePhrase()
+  const noQuality = phrase(companionJewelryPanelCardNoQuality.slug)
+  const noTrait = phrase(companionJewelryPanelCardNoTrait.slug)
   const handleJewelryChange = (
     slotId: CompanionJewelrySlotId,
     field: "trait" | "quality",
@@ -143,7 +150,7 @@ export function CompanionJewelryPanelCard({
     <PanelCard
       id="companion-jewelry"
       collapsible
-      title="Jewelry"
+      title={phrase(companionJewelryPanelCardJewelry.slug)}
       headerSubtitle={
         <div className="flex flex-wrap gap-1">
           {jewelryQualityCounts.map(([quality, count]) => (
@@ -203,10 +210,10 @@ export function CompanionJewelryPanelCard({
                       >
                         <SelectTrigger hideChevron>
                           <Badge variant={getQualityVariant(jewelryData?.quality ?? "no-quality")}>
-                            <SelectValue placeholder="No Quality" />
+                            <SelectValue placeholder={noQuality} />
                           </Badge>
                         </SelectTrigger>
-                        <SelectContent nullSentinel={{ value: "no-quality", label: "No Quality" }}>
+                        <SelectContent nullSentinel={{ value: "no-quality", label: noQuality }}>
                           {getAvailableQualityOptions(slot.id)
                             .filter((quality) => quality.id !== "no-quality")
                             .map((quality) => (
@@ -227,13 +234,10 @@ export function CompanionJewelryPanelCard({
                       >
                         <SelectTrigger hideChevron>
                           <Badge variant="elevation-muted">
-                            <SelectValue placeholder="No Trait" />
+                            <SelectValue placeholder={noTrait} />
                           </Badge>
                         </SelectTrigger>
-                        <SelectContent
-                          nullSentinel={{ value: "no-trait", label: "No Trait" }}
-                          sorted
-                        >
+                        <SelectContent nullSentinel={{ value: "no-trait", label: noTrait }} sorted>
                           {companionTraits()
                             .list.filter((trait) => trait.id !== "no-trait")
                             .map((trait) => (

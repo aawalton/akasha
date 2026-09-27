@@ -6247,6 +6247,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/companion-ultimate-slot-card/companion-ultimate-slot-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/companion-version-actions/companion-version-actions.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/companion-weapon-bar-panel-card/companion-weapon-bar-panel-card.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/companion-weapons-after-change/companion-weapons-after-change.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/companions-build-browse-tab/companions-build-browse-tab.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/companions-data-content/companions-data-content.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/companions-filter-bar/companions-filter-bar.module.ts","typed":true,"deferred":false}
