@@ -25,4 +25,5 @@ export const otherwhere00006 = {
     '"And you know nothing. Not one thing." He shuts his eyes, and the runes on him slow.',
   ],
   lore: ["lore/otherwhere-alan"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
