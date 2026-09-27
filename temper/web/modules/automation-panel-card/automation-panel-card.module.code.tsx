@@ -5,7 +5,91 @@ import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { AutomationSelect } from "akasha/temper/web/modules/automation-select/automation-select.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { automationPanelCardAttributes } from "akasha/temper/web/phrase/pages/automation-panel-card-attributes.temper-web-phrase.ts"
+import { automationPanelCardAttributesHint } from "akasha/temper/web/phrase/pages/automation-panel-card-attributes-hint.temper-web-phrase.ts"
+import { automationPanelCardChampionPoints } from "akasha/temper/web/phrase/pages/automation-panel-card-champion-points.temper-web-phrase.ts"
+import { automationPanelCardChampionPointsHint } from "akasha/temper/web/phrase/pages/automation-panel-card-champion-points-hint.temper-web-phrase.ts"
+import { automationPanelCardConfigureDefaults } from "akasha/temper/web/phrase/pages/automation-panel-card-configure-defaults.temper-web-phrase.ts"
+import { automationPanelCardDailyWrits } from "akasha/temper/web/phrase/pages/automation-panel-card-daily-writs.temper-web-phrase.ts"
+import { automationPanelCardDailyWritsHint } from "akasha/temper/web/phrase/pages/automation-panel-card-daily-writs-hint.temper-web-phrase.ts"
+import { automationPanelCardEquipment } from "akasha/temper/web/phrase/pages/automation-panel-card-equipment.temper-web-phrase.ts"
+import { automationPanelCardEquipmentHint } from "akasha/temper/web/phrase/pages/automation-panel-card-equipment-hint.temper-web-phrase.ts"
+import { automationPanelCardFood } from "akasha/temper/web/phrase/pages/automation-panel-card-food.temper-web-phrase.ts"
+import { automationPanelCardFoodHint } from "akasha/temper/web/phrase/pages/automation-panel-card-food-hint.temper-web-phrase.ts"
+import { automationPanelCardLockpicks } from "akasha/temper/web/phrase/pages/automation-panel-card-lockpicks.temper-web-phrase.ts"
+import { automationPanelCardLockpicksHint } from "akasha/temper/web/phrase/pages/automation-panel-card-lockpicks-hint.temper-web-phrase.ts"
+import { automationPanelCardPotions } from "akasha/temper/web/phrase/pages/automation-panel-card-potions.temper-web-phrase.ts"
+import { automationPanelCardPotionsHint } from "akasha/temper/web/phrase/pages/automation-panel-card-potions-hint.temper-web-phrase.ts"
+import { automationPanelCardRepairKits } from "akasha/temper/web/phrase/pages/automation-panel-card-repair-kits.temper-web-phrase.ts"
+import { automationPanelCardRepairKitsHint } from "akasha/temper/web/phrase/pages/automation-panel-card-repair-kits-hint.temper-web-phrase.ts"
+import { automationPanelCardSkills } from "akasha/temper/web/phrase/pages/automation-panel-card-skills.temper-web-phrase.ts"
+import { automationPanelCardSkillsHint } from "akasha/temper/web/phrase/pages/automation-panel-card-skills-hint.temper-web-phrase.ts"
+import { automationPanelCardSoulGems } from "akasha/temper/web/phrase/pages/automation-panel-card-soul-gems.temper-web-phrase.ts"
+import { automationPanelCardSoulGemsHint } from "akasha/temper/web/phrase/pages/automation-panel-card-soul-gems-hint.temper-web-phrase.ts"
+import { automationPanelCardTitle } from "akasha/temper/web/phrase/pages/automation-panel-card-title.temper-web-phrase.ts"
 import { useAutomationSettings } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+
+type ToggleName =
+  | "equipment"
+  | "food"
+  | "potions"
+  | "soulGems"
+  | "repairKits"
+  | "lockpicks"
+  | "dailyWrits"
+  | "skills"
+  | "championPoints"
+  | "attributes"
+
+const ROWS: readonly { toggle: ToggleName; label: string; hint: string }[] = [
+  {
+    toggle: "equipment",
+    label: automationPanelCardEquipment.slug,
+    hint: automationPanelCardEquipmentHint.slug,
+  },
+  { toggle: "food", label: automationPanelCardFood.slug, hint: automationPanelCardFoodHint.slug },
+  {
+    toggle: "potions",
+    label: automationPanelCardPotions.slug,
+    hint: automationPanelCardPotionsHint.slug,
+  },
+  {
+    toggle: "soulGems",
+    label: automationPanelCardSoulGems.slug,
+    hint: automationPanelCardSoulGemsHint.slug,
+  },
+  {
+    toggle: "repairKits",
+    label: automationPanelCardRepairKits.slug,
+    hint: automationPanelCardRepairKitsHint.slug,
+  },
+  {
+    toggle: "lockpicks",
+    label: automationPanelCardLockpicks.slug,
+    hint: automationPanelCardLockpicksHint.slug,
+  },
+  {
+    toggle: "dailyWrits",
+    label: automationPanelCardDailyWrits.slug,
+    hint: automationPanelCardDailyWritsHint.slug,
+  },
+  {
+    toggle: "skills",
+    label: automationPanelCardSkills.slug,
+    hint: automationPanelCardSkillsHint.slug,
+  },
+  {
+    toggle: "championPoints",
+    label: automationPanelCardChampionPoints.slug,
+    hint: automationPanelCardChampionPointsHint.slug,
+  },
+  {
+    toggle: "attributes",
+    label: automationPanelCardAttributes.slug,
+    hint: automationPanelCardAttributesHint.slug,
+  },
+]
 
 interface CharacterAutomationPanelCardProps {
   esoCharacterId: string
@@ -17,6 +101,7 @@ export function CharacterAutomationPanelCard({
   readOnly,
 }: CharacterAutomationPanelCardProps) {
   const { automationSettings, updateCharacterToggle } = useAutomationSettings()
+  const phrase = usePhrase()
 
   if (readOnly) return null
 
@@ -27,146 +112,31 @@ export function CharacterAutomationPanelCard({
     <InputPanelCard
       id="automation"
       collapsible={true}
-      title="Automation"
+      title={phrase(automationPanelCardTitle.slug)}
       headerSubtitle={
         <CardTitleBadges>
           <Link
             href="/settings?tab=automation"
             className="cursor-pointer text-tertiary text-xs hover:text-secondary"
           >
-            Configure Defaults
+            {phrase(automationPanelCardConfigureDefaults.slug)}
           </Link>
         </CardTitleBadges>
       }
     >
-      <InputPanelCard.Row
-        label="Equipment"
-        description={<Text variant="hint">Automatically equip gear to match this build.</Text>}
-      >
-        <AutomationSelect
-          value={settings?.equipment}
-          globalValue={globalChar?.equipment}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "equipment", enabled)}
-        />
-      </InputPanelCard.Row>
-
-      <InputPanelCard.Row
-        label="Food / Drink"
-        description={<Text variant="hint">Automatically stock food and drink for this build.</Text>}
-      >
-        <AutomationSelect
-          value={settings?.food}
-          globalValue={globalChar?.food}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "food", enabled)}
-        />
-      </InputPanelCard.Row>
-
-      <InputPanelCard.Row
-        label="Potions"
-        description={<Text variant="hint">Automatically stock potions for this build.</Text>}
-      >
-        <AutomationSelect
-          value={settings?.potions}
-          globalValue={globalChar?.potions}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "potions", enabled)}
-        />
-      </InputPanelCard.Row>
-
-      <InputPanelCard.Row
-        label="Soul Gems"
-        description={<Text variant="hint">Automatically stock soul gems for this character.</Text>}
-      >
-        <AutomationSelect
-          value={settings?.soulGems}
-          globalValue={globalChar?.soulGems}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "soulGems", enabled)}
-        />
-      </InputPanelCard.Row>
-
-      <InputPanelCard.Row
-        label="Repair Kits"
-        description={
-          <Text variant="hint">Automatically stock repair kits for this character.</Text>
-        }
-      >
-        <AutomationSelect
-          value={settings?.repairKits}
-          globalValue={globalChar?.repairKits}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "repairKits", enabled)}
-        />
-      </InputPanelCard.Row>
-
-      <InputPanelCard.Row
-        label="Lockpicks"
-        description={<Text variant="hint">Automatically stock lockpicks for this character.</Text>}
-      >
-        <AutomationSelect
-          value={settings?.lockpicks}
-          globalValue={globalChar?.lockpicks}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "lockpicks", enabled)}
-        />
-      </InputPanelCard.Row>
-
-      <InputPanelCard.Row
-        label="Daily Writs"
-        description={
-          <Text variant="hint">Enable daily writ crafting automation for this character.</Text>
-        }
-      >
-        <AutomationSelect
-          value={settings?.dailyWrits}
-          globalValue={globalChar?.dailyWrits}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "dailyWrits", enabled)}
-        />
-      </InputPanelCard.Row>
-
-      <InputPanelCard.Row
-        label="Skills"
-        description={
-          <Text variant="hint">
-            Automatically equip skills to match this build. Coming soon — this toggle will take
-            effect once addon support is added.
-          </Text>
-        }
-      >
-        <AutomationSelect
-          value={settings?.skills}
-          globalValue={globalChar?.skills}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "skills", enabled)}
-        />
-      </InputPanelCard.Row>
-
-      <InputPanelCard.Row
-        label="Champion Points"
-        description={
-          <Text variant="hint">
-            Automatically allocate champion points to match this build. Coming soon — this toggle
-            will take effect once addon support is added.
-          </Text>
-        }
-      >
-        <AutomationSelect
-          value={settings?.championPoints}
-          globalValue={globalChar?.championPoints}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "championPoints", enabled)}
-        />
-      </InputPanelCard.Row>
-
-      <InputPanelCard.Row
-        label="Attributes"
-        description={
-          <Text variant="hint">
-            Automatically allocate attributes to match this build. Coming soon — this toggle will
-            take effect once addon support is added.
-          </Text>
-        }
-      >
-        <AutomationSelect
-          value={settings?.attributes}
-          globalValue={globalChar?.attributes}
-          onChange={(enabled) => updateCharacterToggle(esoCharacterId, "attributes", enabled)}
-        />
-      </InputPanelCard.Row>
+      {ROWS.map(({ toggle, label, hint }) => (
+        <InputPanelCard.Row
+          key={toggle}
+          label={phrase(label)}
+          description={<Text variant="hint">{phrase(hint)}</Text>}
+        >
+          <AutomationSelect
+            value={settings?.[toggle]}
+            globalValue={globalChar?.[toggle]}
+            onChange={(enabled) => updateCharacterToggle(esoCharacterId, toggle, enabled)}
+          />
+        </InputPanelCard.Row>
+      ))}
     </InputPanelCard>
   )
 }
