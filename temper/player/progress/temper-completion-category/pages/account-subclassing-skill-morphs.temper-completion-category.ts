@@ -9,4 +9,5 @@ export const accountSubclassingSkillMorphs = {
   tab: "account",
   displayOrder: 16,
   parent: "temper-completion-category/account",
+  morphRankMost: 4,
 } as const satisfies TemperCompletionCategory

@@ -9,4 +9,5 @@ export const charactersSkillMorphs = {
   tab: "characters",
   displayOrder: 15,
   parent: "temper-completion-category/characters",
+  morphRankMost: 4,
 } as const satisfies TemperCompletionCategory
