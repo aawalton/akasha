@@ -12,6 +12,10 @@ import {
   bankFindPartialStackSlot,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-dispatch-bank-slots/inventory-rules-dispatch-bank-slots.module.code.ts"
 import { findMatchedRule } from "akasha/temper/addon/pages/items/modules/inventory-rules-eval/inventory-rules-eval.module.code.ts"
+import {
+  noteServerAction,
+  serverActionWaitMs,
+} from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import { slotKey } from "akasha/temper/addon/pages/items/modules/inventory-slot-key/inventory-slot-key.module.code.ts"
 import { isBackpackRequiredAction } from "akasha/temper/items/rules/core/modules/action-storage-capability/action-storage-capability.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
@@ -85,6 +89,7 @@ export function executeVaultWithdrawals(
       break
     }
     withdrawnLinks.push(stackCount > 1 ? `${itemLink} x${stackCount}` : itemLink)
+    noteServerAction()
     bankMoveItem(BAG_FURNITURE_VAULT, w.slotIndex, BAG_BACKPACK, targetSlot, stackCount)
     ctx.vacated.set(slotKey(BAG_FURNITURE_VAULT, w.slotIndex), true)
     ops++
@@ -153,11 +158,17 @@ export function startVaultDepositChain(
       cleanup()
       return
     }
+    const wait = serverActionWaitMs()
+    if (wait > 0) {
+      zo_callLater(() => issueNext(), wait)
+      return
+    }
     const [stackCount] = GetSlotStackSize(BAG_BACKPACK, slot)
     const itemLink = GetItemLink(BAG_BACKPACK, slot, LINK_STYLE_BRACKETS)
     inFlightSlot = slot
     inFlightLink = stackCount > 1 ? `${itemLink} x${stackCount}` : itemLink
     retries = 0
+    noteServerAction()
     bankMoveItem(BAG_BACKPACK, slot, BAG_FURNITURE_VAULT, targetSlot, stackCount)
     scheduleWatchdog(slot)
   }
@@ -194,6 +205,7 @@ export function startVaultDepositChain(
         cleanup()
         return
       }
+      noteServerAction()
       bankMoveItem(BAG_BACKPACK, inFlightSlot, BAG_FURNITURE_VAULT, targetSlot, srcStack)
       scheduleWatchdog(expectSlot)
     }, VAULT_DEPOSIT_WATCHDOG_MS)

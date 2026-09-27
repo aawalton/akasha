@@ -16,5 +16,13 @@ export const inventoryRulesDispatchBankVault = {
       statement:
         "A visit sends at most a fixed number of vault withdrawals, and says so on stopping there.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Every vault move is counted in the addon's shared server action window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A vault deposit waits where the shared window is full.",
+    },
   ],
 } as const satisfies Module
