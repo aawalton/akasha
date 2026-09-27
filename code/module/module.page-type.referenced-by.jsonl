@@ -4992,7 +4992,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/writer/modules/capture-writer/capture-writer.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/writer/modules/function-answers/function-answers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/writer/modules/run-batched/run-batched.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/poison-effect/poison-effect.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/poison-source/poison-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/catalog/alchemy/modules/potions-crafted-health/potions-crafted-health.module.ts","typed":true,"deferred":false}

@@ -6,7 +6,6 @@ export const temperAlchemy = {
   slug: "temper-alchemy",
   definition: "the potions and poisons a character brews from reagents",
   parts: [
-    "module/poison-effect",
     "module/poison-source",
     "module/potion-source",
     "module/potions-crafted",
