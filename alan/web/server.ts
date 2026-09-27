@@ -1,6 +1,7 @@
 import { join } from "node:path"
 import { signedInAs } from "akasha/alan/harness/better-auth-rr/modules/google-auth-guard/google-auth-guard.module.code.ts"
 import {
+  endedOnTerm,
   type RouterAppServing,
   servedBy,
 } from "akasha/alan/harness/modules/router-app-serving/router-app-serving.module.code.ts"
@@ -38,7 +39,7 @@ const hostname = HOST_SCHEMA.parse(process.env["HOST"])
 
 const TUNNEL_OUTLASTING_IDLE_SECONDS = 120
 
-Bun.serve({
+const server = Bun.serve({
   port,
   hostname,
   idleTimeout: TUNNEL_OUTLASTING_IDLE_SECONDS,
@@ -54,5 +55,7 @@ Bun.serve({
     return servedBy(SERVING, request, url.pathname)
   },
 })
+
+endedOnTerm(server)
 
 console.log(`[alanwalton-web] listening on http://${hostname}:${port}`)
