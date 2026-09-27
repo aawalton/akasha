@@ -6,4 +6,11 @@ export const useSetTargetEntities = {
   slug: "use-set-target-entities",
   definition: "the hook setting a character's target entities",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The characters offered are worked out again whenever the skill catalogue is read again.",
+    },
+  ],
 } as const satisfies Module

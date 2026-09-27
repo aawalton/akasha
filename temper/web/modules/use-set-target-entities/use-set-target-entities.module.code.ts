@@ -11,6 +11,7 @@ import type { CharacterState } from "akasha/temper/player/character/build/module
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { buildHash as toBuildHash } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
+import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import {
   useCharacterLifecycle,
   useCharacterList,
@@ -54,8 +55,12 @@ export function useSetTargetEntities({
   const { setTarget } = useCharacterLifecycle()
 
   const buildMap = useMemo(() => new Map(characterBuilds.map((b) => [b.id, b])), [characterBuilds])
+  const classesRead = classes.data
+  const racesRead = races.data
+  const skillCatalogRead = heldSkillCatalog()
 
   const setTargetEntities = useMemo((): readonly SetTargetEntity[] => {
+    if (skillCatalogRead === null) return []
     if (!isAuthenticated) return []
 
     const decodedMap = new Map<
@@ -66,8 +71,8 @@ export function useSetTargetEntities({
       const metadata = b.buildMetadata
       const decoded = b.buildHash !== "" ? decodeBuild(toBuildHash(b.buildHash)) : null
       decodedMap.set(b.id, {
-        className: decoded ? (classes.data[decoded.character.class]?.name ?? "Unknown") : "Unknown",
-        raceName: decoded ? (races.data[decoded.character.race]?.name ?? "Unknown") : "Unknown",
+        className: decoded ? (classesRead[decoded.character.class]?.name ?? "Unknown") : "Unknown",
+        raceName: decoded ? (racesRead[decoded.character.race]?.name ?? "Unknown") : "Unknown",
         characterName: metadata?.characterName ?? metadata?.name ?? "",
       })
     }
@@ -106,7 +111,16 @@ export function useSetTargetEntities({
           targetManuallyEdited,
         }
       })
-  }, [isAuthenticated, completionCharacters, characterBuilds, buildMap, buildClass])
+  }, [
+    isAuthenticated,
+    completionCharacters,
+    characterBuilds,
+    buildMap,
+    buildClass,
+    classesRead,
+    racesRead,
+    skillCatalogRead,
+  ])
 
   const computeSetTargetArgs = (entityId: string) => {
     const entity = completionCharacters.find((e) => e.id === entityId)

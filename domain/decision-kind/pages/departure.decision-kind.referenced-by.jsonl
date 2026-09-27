@@ -6177,6 +6177,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-rule-templates/use-rule-templates.module.ts","id":"01a0df76-d857-7955-ace5-308c1d68c035"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-scribed-skills/use-scribed-skills.module.ts","id":"01a0642c-5ba4-74a9-a842-ea1f3845976c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-set-catalog/use-set-catalog.module.ts","id":"01a0de3d-b262-75f1-b48f-8c82016f6f74"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.ts","id":"01a0642c-5ba2-72f9-8c49-a10f1650c9de"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.ts","id":"01a0de7a-2f36-70de-8356-060898814bf7"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-temper-import/use-temper-import.module.ts","id":"01a06432-b190-775e-b337-08bc9a817717"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/version-actions/version-actions.module.ts","id":"01a06589-8dc5-7000-8767-4f9e56617cf9"}
