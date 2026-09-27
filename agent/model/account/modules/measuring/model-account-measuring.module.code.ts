@@ -33,6 +33,8 @@ export type Reading = {
   readonly usageReadAt: string | null
   readonly terminalAt: string | null
   readonly subscriptionDisabledReason: string | null
+  readonly subscriptionCanceled: boolean
+  readonly renewalDay: number | null
 }
 
 function numberIn(held: Record<string, unknown>, key: string): number | null {
@@ -64,6 +66,8 @@ export function readingsIn(root: string): readonly Reading[] {
       usageReadAt: textAt(whole, "usageReadAt"),
       terminalAt: textAt(whole, "terminalAt"),
       subscriptionDisabledReason: textAt(whole, "subscriptionDisabledReason"),
+      subscriptionCanceled: whole["subscriptionCanceled"] === true,
+      renewalDay: numberIn(whole, "renewalDay"),
     })
   }
   return found
@@ -116,9 +120,30 @@ export function takenOf(readings: readonly Reading[], now: number): string | nul
   return best === null ? null : best.account
 }
 
-export function marksOf(one: Reading): readonly string[] {
+export function lapseOf(renewalDay: number, now: number): number {
+  const on = new Date(now)
+  const year = on.getFullYear()
+  const month = on.getMonth()
+  const dayIn = (held: number): number =>
+    Math.min(renewalDay, new Date(year, held + 1, 0).getDate())
+  const here = dayIn(month)
+  if (on.getDate() <= here) return new Date(year, month, here).getTime()
+  return new Date(year, month + 1, dayIn(month + 1)).getTime()
+}
+
+function canceledOf(renewalDay: number | null, now: number): string {
+  if (renewalDay === null) return "canceled"
+  const day = new Date(lapseOf(renewalDay, now)).toLocaleDateString("en-US", {
+    month: "short",
+    day: "numeric",
+  })
+  return `canceled, ends ${day}`
+}
+
+export function marksOf(one: Reading, now: number): readonly string[] {
   const found: string[] = []
   if (one.subscriptionDisabledReason !== null) found.push("disabled")
+  else if (one.subscriptionCanceled) found.push(canceledOf(one.renewalDay, now))
   if (one.terminalAt !== null) {
     found.push(one.aliasIndex === null ? "terminal" : `c${one.aliasIndex}`)
   }
@@ -160,7 +185,7 @@ export function linesOf(readings: readonly Reading[], now: number): readonly str
     const held = taken === one.account ? "> " : "  "
     const five = sayPercent(fiveHourSpent(one)).padStart(PERCENT_WIDTH)
     const seven = sayPercent(sevenDaySpent(one)).padStart(PERCENT_WIDTH)
-    const marks = marksOf(one)
+    const marks = marksOf(one, now)
     const tail = marks.length === 0 ? "" : `  ${marks.join(" ")}`
     return (
       `${held}${one.account.padEnd(width)} ${five}% ${clockOf(fiveHourResets(one)).padEnd(CLOCK_WIDTH)}` +

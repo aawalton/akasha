@@ -5,6 +5,7 @@ import {
   fiveHourResets,
   fiveHourSpent,
   inOrder,
+  lapseOf,
   linesOf,
   marksOf,
   type Reading,
@@ -31,6 +32,8 @@ function reading(said: Partial<Reading> & { account: string }): Reading {
     usageReadAt: "2026-08-31T11:00:00.000Z",
     terminalAt: null,
     subscriptionDisabledReason: null,
+    subscriptionCanceled: false,
+    renewalDay: null,
     ...said,
   }
 }
@@ -170,21 +173,21 @@ test("accounts sit in the order their seven-day windows reset", () => {
 test("an account that can no longer renew itself is marked with the alias that signs it back in", () => {
   const one = reading({ account: "a", aliasIndex: 3, terminalAt: "2026-08-31T09:00:00.000Z" })
 
-  expect(marksOf(one)).toEqual(["c3"])
+  expect(marksOf(one, NOW)).toEqual(["c3"])
 })
 
 test("an account carrying no alias is marked terminal rather than with an alias it has not got", () => {
   const one = reading({ account: "a", terminalAt: "2026-08-31T09:00:00.000Z" })
 
-  expect(marksOf(one)).toEqual(["terminal"])
+  expect(marksOf(one, NOW)).toEqual(["terminal"])
 })
 
 test("an account no window has been read of is marked unread", () => {
-  expect(marksOf(reading({ account: "a", usageReadAt: null }))).toEqual(["unread"])
+  expect(marksOf(reading({ account: "a", usageReadAt: null }), NOW)).toEqual(["unread"])
 })
 
 test("an account standing well carries no mark", () => {
-  expect(marksOf(reading({ account: "a" }))).toEqual([])
+  expect(marksOf(reading({ account: "a" }), NOW)).toEqual([])
 })
 
 test("a marked account carries its marks in one order", () => {
@@ -196,7 +199,48 @@ test("a marked account carries its marks in one order", () => {
     subscriptionDisabledReason: "the card was declined",
   })
 
-  expect(marksOf(one)).toEqual(["disabled", "c2", "unread"])
+  expect(marksOf(one, NOW)).toEqual(["disabled", "c2", "unread"])
+})
+
+test("a canceled account is marked with the day its subscription ends", () => {
+  const one = reading({ account: "a", subscriptionCanceled: true, renewalDay: 5 })
+
+  expect(marksOf(one, NOW)).toEqual(["canceled, ends Sep 5"])
+})
+
+test("a canceled account whose renewal day is today ends today", () => {
+  const one = reading({ account: "a", subscriptionCanceled: true, renewalDay: 31 })
+
+  expect(marksOf(one, NOW)).toEqual(["canceled, ends Aug 31"])
+})
+
+test("a canceled account stating no renewal day is marked canceled alone", () => {
+  const one = reading({ account: "a", subscriptionCanceled: true })
+
+  expect(marksOf(one, NOW)).toEqual(["canceled"])
+})
+
+test("a canceled account whose subscription is withdrawn is marked disabled alone", () => {
+  const one = reading({
+    account: "a",
+    subscriptionCanceled: true,
+    renewalDay: 5,
+    subscriptionDisabledReason: "the subscription ended",
+  })
+
+  expect(marksOf(one, NOW)).toEqual(["disabled"])
+})
+
+test("a renewal day past the end of a short month ends on that month's last day", () => {
+  const on = new Date(lapseOf(31, Date.parse("2026-09-10T12:00:00.000Z")))
+
+  expect([on.getMonth(), on.getDate()]).toEqual([8, 30])
+})
+
+test("a renewal day already past this month ends next month", () => {
+  const on = new Date(lapseOf(30, NOW))
+
+  expect([on.getMonth(), on.getDate()]).toEqual([8, 30])
 })
 
 test("an instant nothing states is no clock, and one that is no instant is no clock either", () => {

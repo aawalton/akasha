@@ -63,6 +63,14 @@ export const modelAccountMeasuring = {
         "An account no window has been read of is marked unread rather than as spending zero.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "A canceled account is marked with the day its subscription ends.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A withdrawn account is marked disabled rather than canceled.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "Nothing here fetches.",
     },
