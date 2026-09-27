@@ -96,6 +96,7 @@ export const seat = {
     "text-property/conversation-text",
     "computed-property/turn-state",
     "text-property/bridge-session-id",
+    "computed-property/seat-section",
   ],
   properties: [
     {
@@ -212,6 +213,7 @@ export const seat = {
       many: false,
       uncommitted: true,
     },
+    { pageProperty: "computed-property/seat-section", required: false, many: false },
   ],
   titleColoredBy: "computed-property/working-color",
   loadedBy: "module/agent-stated",
