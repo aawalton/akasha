@@ -19,4 +19,5 @@ export const image2d95944eb0245f20 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/hand-on-face", "pose-tag/looking-away", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/robe"],
 } as const satisfies Image

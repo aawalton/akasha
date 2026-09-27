@@ -19,4 +19,5 @@ export const imageDfa38aa7227e9935 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/silk", "wardrobe-tag/slip-dress", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

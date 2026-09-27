@@ -14,4 +14,5 @@ export const image34b057f52606bce5 = {
     "setting-tag/rocks",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/walking"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/topless", "wardrobe-tag/high-slit"],
 } as const satisfies Image

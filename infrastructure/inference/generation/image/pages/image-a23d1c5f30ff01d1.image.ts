@@ -10,4 +10,5 @@ export const imageA23d1c5f30ff01d1 = {
   subjects: "F",
   settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/barefoot"],
 } as const satisfies Image

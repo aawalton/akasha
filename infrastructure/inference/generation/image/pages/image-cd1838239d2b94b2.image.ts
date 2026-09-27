@@ -19,4 +19,10 @@ export const imageCd1838239d2b94b2 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/stage", "setting-tag/balcony", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/holding-drink", "pose-tag/standing"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/lace",
+    "wardrobe-tag/gloves",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

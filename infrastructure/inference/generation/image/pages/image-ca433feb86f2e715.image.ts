@@ -18,4 +18,5 @@ export const imageCa433feb86f2e715 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image02d2d0e03867f2d9 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/underwater", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/floating"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/wet", "wardrobe-tag/sheer"],
 } as const satisfies Image

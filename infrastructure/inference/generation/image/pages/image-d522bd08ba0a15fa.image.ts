@@ -28,4 +28,5 @@ export const imageD522bd08ba0a15fa = {
     "pose-tag/smiling",
     "pose-tag/portrait",
   ],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gown"],
 } as const satisfies Image

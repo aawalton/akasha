@@ -9,4 +9,11 @@ export const imageC003b98fabd8ee38 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/home"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/camisole",
+    "wardrobe-tag/loungewear",
+    "wardrobe-tag/pants",
+    "wardrobe-tag/cardigan",
+  ],
 } as const satisfies Image

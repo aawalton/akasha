@@ -13,4 +13,5 @@ export const image90942b40aa26e24e = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

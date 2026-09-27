@@ -10,4 +10,5 @@ export const image00947048b754c58d = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down"],
+  wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
 } as const satisfies Image

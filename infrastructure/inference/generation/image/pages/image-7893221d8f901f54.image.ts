@@ -14,4 +14,10 @@ export const image7893221d8f901f54 = {
     "setting-tag/water",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/sitting", "pose-tag/hands-on-chest"],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/bra",
+    "wardrobe-tag/panties",
+  ],
 } as const satisfies Image

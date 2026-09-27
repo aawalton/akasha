@@ -24,4 +24,5 @@ export const image3c596e6c5b89f4af = {
     "setting-tag/field",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/hat", "wardrobe-tag/shirt"],
 } as const satisfies Image

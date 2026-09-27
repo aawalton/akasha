@@ -18,4 +18,10 @@ export const imageDcf5762774fc0657 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/kitchen", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/long-sleeves",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

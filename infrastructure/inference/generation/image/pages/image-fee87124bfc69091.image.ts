@@ -14,4 +14,5 @@ export const imageFee87124bfc69091 = {
     "pose-tag/arms-raised",
     "pose-tag/looking-down",
   ],
+  wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sheer", "wardrobe-tag/topless"],
 } as const satisfies Image

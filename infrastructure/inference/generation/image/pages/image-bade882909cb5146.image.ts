@@ -18,4 +18,5 @@ export const imageBade882909cb5146 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
 } as const satisfies Image

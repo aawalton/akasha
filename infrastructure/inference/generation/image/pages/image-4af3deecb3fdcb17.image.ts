@@ -27,4 +27,5 @@ export const image4af3deecb3fdcb17 = {
   subjects: "F",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/tights"],
 } as const satisfies Image

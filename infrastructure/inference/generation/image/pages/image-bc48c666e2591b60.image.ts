@@ -8,4 +8,5 @@ export const imageBc48c666e2591b60 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/snow", "setting-tag/mountains", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheer"],
 } as const satisfies Image

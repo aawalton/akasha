@@ -13,4 +13,5 @@ export const image0fe9780893c699ef = {
     "setting-tag/temple",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/knees-up"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/robe"],
 } as const satisfies Image

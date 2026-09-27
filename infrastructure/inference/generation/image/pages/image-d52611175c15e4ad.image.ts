@@ -15,4 +15,5 @@ export const imageD52611175c15e4ad = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

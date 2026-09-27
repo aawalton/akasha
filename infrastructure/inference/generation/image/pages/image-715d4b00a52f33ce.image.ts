@@ -19,4 +19,10 @@ export const image715d4b00a52f33ce = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/rain", "setting-tag/city", "setting-tag/night"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/bodysuit",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/lingerie",
+  ],
 } as const satisfies Image

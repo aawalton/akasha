@@ -19,4 +19,5 @@ export const imageE9827efde5e4fb93 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/hot-spring", "setting-tag/water", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/bathing", "pose-tag/eyes-closed"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

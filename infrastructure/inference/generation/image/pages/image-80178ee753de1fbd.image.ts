@@ -9,4 +9,11 @@ export const image80178ee753de1fbd = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/rain", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/tank-top",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

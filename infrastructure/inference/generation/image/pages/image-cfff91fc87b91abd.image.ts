@@ -13,4 +13,5 @@ export const imageCfff91fc87b91abd = {
     "pose-tag/floating",
     "pose-tag/profile",
   ],
+  wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/sheer"],
 } as const satisfies Image

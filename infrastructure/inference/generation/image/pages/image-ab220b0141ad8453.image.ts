@@ -19,4 +19,10 @@ export const imageAb220b0141ad8453 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/profile", "pose-tag/looking-down"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/belt",
+  ],
 } as const satisfies Image

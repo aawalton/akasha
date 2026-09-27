@@ -13,4 +13,5 @@ export const image8d155574b262fb65 = {
     "setting-tag/water",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

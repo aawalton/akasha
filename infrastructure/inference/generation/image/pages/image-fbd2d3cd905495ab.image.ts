@@ -15,4 +15,5 @@ export const imageFbd2d3cd905495ab = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/town", "setting-tag/city"],
   poseTags: ["pose-tag/walking", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans", "wardrobe-tag/sneakers"],
 } as const satisfies Image

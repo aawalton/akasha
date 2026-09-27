@@ -19,4 +19,5 @@ export const imageB13beefb6158b72b = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/boat", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/laughing", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/open-shirt"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const image7014867e49247f31 = {
   subjects: "F",
   settingTags: ["setting-tag/home", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
 } as const satisfies Image

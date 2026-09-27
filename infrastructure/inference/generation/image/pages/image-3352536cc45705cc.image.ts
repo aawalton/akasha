@@ -24,4 +24,5 @@ export const image3352536cc45705cc = {
     "setting-tag/night",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/holding-umbrella", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/silk"],
 } as const satisfies Image

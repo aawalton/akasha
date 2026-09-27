@@ -15,4 +15,5 @@ export const image0013b0bd0a2fc719 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/crop-top"],
 } as const satisfies Image

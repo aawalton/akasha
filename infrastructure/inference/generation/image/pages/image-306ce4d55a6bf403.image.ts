@@ -19,4 +19,5 @@ export const image306ce4d55a6bf403 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/indoor", "setting-tag/tatami-room"],
   poseTags: ["pose-tag/kneeling", "pose-tag/holding-drink", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/kimono"],
 } as const satisfies Image

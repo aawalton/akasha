@@ -9,4 +9,5 @@ export const image3da86bdf156e72dc = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/lingerie", "wardrobe-tag/bra"],
 } as const satisfies Image

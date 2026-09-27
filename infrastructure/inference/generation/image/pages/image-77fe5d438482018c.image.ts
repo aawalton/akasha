@@ -15,4 +15,5 @@ export const image77fe5d438482018c = {
     "pose-tag/hands-on-chest",
     "pose-tag/masturbation",
   ],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

@@ -13,4 +13,10 @@ export const image9a844647c25e39a8 = {
     "setting-tag/city",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/cloak",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/tiara",
+  ],
 } as const satisfies Image

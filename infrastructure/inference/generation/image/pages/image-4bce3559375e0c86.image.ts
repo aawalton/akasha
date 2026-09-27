@@ -15,4 +15,5 @@ export const image4bce3559375e0c86 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/leaning-forward"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

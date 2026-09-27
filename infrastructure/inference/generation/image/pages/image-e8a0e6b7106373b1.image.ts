@@ -23,4 +23,5 @@ export const imageE8a0e6b7106373b1 = {
     "setting-tag/water",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/cloak"],
 } as const satisfies Image

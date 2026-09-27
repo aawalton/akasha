@@ -13,4 +13,5 @@ export const image5f139d8c5497a56a = {
     "setting-tag/lake",
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/jewelry"],
 } as const satisfies Image

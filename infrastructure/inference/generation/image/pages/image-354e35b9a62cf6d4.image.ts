@@ -13,4 +13,5 @@ export const image354e35b9a62cf6d4 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak", "wardrobe-tag/boots"],
 } as const satisfies Image

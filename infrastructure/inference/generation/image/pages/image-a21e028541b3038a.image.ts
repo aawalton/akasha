@@ -18,4 +18,5 @@ export const imageA21e028541b3038a = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/rooftop", "setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/gloves", "wardrobe-tag/boots"],
 } as const satisfies Image

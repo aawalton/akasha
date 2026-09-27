@@ -18,4 +18,5 @@ export const imageAd5bee91b67deffe = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/city-street", "setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/laughing", "pose-tag/looking-up"],
+  wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/sneakers"],
 } as const satisfies Image

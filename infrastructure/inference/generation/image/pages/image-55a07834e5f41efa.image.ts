@@ -13,4 +13,5 @@ export const image55a07834e5f41efa = {
     "setting-tag/city-street",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/legs-up"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
 } as const satisfies Image

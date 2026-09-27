@@ -9,4 +9,5 @@ export const image694a93c5b38a798c = {
   subjects: "F",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/harness", "wardrobe-tag/jewelry"],
 } as const satisfies Image

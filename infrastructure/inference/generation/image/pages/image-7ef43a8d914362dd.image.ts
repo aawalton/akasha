@@ -20,4 +20,5 @@ export const image7ef43a8d914362dd = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/cardigan", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

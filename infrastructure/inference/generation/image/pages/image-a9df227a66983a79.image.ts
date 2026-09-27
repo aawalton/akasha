@@ -19,4 +19,10 @@ export const imageA9df227a66983a79 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-up", "pose-tag/portrait", "pose-tag/head-tilt"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/gold-trim",
+  ],
 } as const satisfies Image

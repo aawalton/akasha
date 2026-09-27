@@ -20,4 +20,10 @@ export const image7905d479c1ea3fe7 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/squatting", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/sports-bra",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/headband",
+  ],
 } as const satisfies Image

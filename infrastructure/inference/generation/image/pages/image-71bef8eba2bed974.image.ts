@@ -19,4 +19,10 @@ export const image71bef8eba2bed974 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/gold-trim",
+  ],
 } as const satisfies Image

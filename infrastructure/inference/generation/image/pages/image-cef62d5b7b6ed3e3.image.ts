@@ -13,4 +13,11 @@ export const imageCef62d5b7b6ed3e3 = {
     "setting-tag/hallway",
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: [
+    "wardrobe-tag/robe",
+    "wardrobe-tag/kimono",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/cleavage",
+  ],
 } as const satisfies Image

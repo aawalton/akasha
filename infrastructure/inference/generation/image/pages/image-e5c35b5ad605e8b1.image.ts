@@ -19,4 +19,10 @@ export const imageE5c35b5ad605e8b1 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/bare-legs",
+  ],
 } as const satisfies Image

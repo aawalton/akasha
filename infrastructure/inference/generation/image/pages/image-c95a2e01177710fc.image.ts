@@ -18,4 +18,5 @@ export const imageC95a2e01177710fc = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
 } as const satisfies Image

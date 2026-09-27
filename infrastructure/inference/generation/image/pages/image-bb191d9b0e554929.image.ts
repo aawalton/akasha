@@ -13,4 +13,5 @@ export const imageBb191d9b0e554929 = {
     "setting-tag/city-street",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/wet", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

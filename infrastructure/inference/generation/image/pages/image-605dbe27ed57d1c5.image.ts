@@ -13,4 +13,5 @@ export const image605dbe27ed57d1c5 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-away", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude", "wardrobe-tag/headband"],
 } as const satisfies Image

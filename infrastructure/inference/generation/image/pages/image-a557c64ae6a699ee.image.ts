@@ -16,4 +16,9 @@ export const imageA557c64ae6a699ee = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dimly-lit", "setting-tag/fog"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-lantern", "pose-tag/close-up"],
+  wardrobeTags: [
+    "wardrobe-tag/spaghetti-straps",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/partial-undress",
+  ],
 } as const satisfies Image

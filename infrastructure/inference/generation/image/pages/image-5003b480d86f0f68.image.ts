@@ -18,4 +18,5 @@ export const image5003b480d86f0f68 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/ocean", "setting-tag/night", "setting-tag/dock"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress"],
 } as const satisfies Image

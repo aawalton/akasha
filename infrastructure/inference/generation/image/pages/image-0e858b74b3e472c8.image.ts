@@ -19,4 +19,5 @@ export const image0e858b74b3e472c8 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/looking-back"],
+  wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

@@ -25,4 +25,10 @@ export const imageC99e2bc4d10bd06c = {
   subjects: "F",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/sheer",
+  ],
 } as const satisfies Image

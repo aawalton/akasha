@@ -27,4 +27,5 @@ export const image578c4423d4a8b747 = {
   subjects: "F",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/headband"],
 } as const satisfies Image

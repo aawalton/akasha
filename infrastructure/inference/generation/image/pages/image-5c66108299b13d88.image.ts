@@ -19,4 +19,10 @@ export const image5c66108299b13d88 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/cave", "setting-tag/luxury", "setting-tag/campfire"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/partial-undress",
+  ],
 } as const satisfies Image

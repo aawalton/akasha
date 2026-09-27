@@ -8,4 +8,9 @@ export const imageCb13ca796c107da4 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/tube-top",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

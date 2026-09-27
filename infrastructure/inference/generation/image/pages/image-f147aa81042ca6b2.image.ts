@@ -18,4 +18,10 @@ export const imageF147aa81042ca6b2 = {
     "pose-tag/standing",
     "pose-tag/portrait",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

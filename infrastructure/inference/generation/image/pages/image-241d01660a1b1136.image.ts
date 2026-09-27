@@ -15,4 +15,5 @@ export const image241d01660a1b1136 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/forest"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/hand-in-hair"],
+  wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings"],
 } as const satisfies Image

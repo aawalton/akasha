@@ -23,4 +23,10 @@ export const imageB2ebc9872c02fbd4 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/belt",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

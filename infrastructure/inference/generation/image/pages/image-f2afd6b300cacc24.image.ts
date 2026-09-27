@@ -15,4 +15,5 @@ export const imageF2afd6b300cacc24 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/dress"],
 } as const satisfies Image

@@ -13,4 +13,11 @@ export const image06313d31121febf6 = {
     "setting-tag/river",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/flower-crown",
+  ],
 } as const satisfies Image

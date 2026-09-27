@@ -20,4 +20,10 @@ export const imageF216b8cf4891bc26 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/strapless",
+    "wardrobe-tag/sheer",
+  ],
 } as const satisfies Image

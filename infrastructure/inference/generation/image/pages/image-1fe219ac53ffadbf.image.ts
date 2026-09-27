@@ -13,4 +13,10 @@ export const image1fe219ac53ffadbf = {
     "setting-tag/daytime",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/looking-up", "pose-tag/walking"],
+  wardrobeTags: [
+    "wardrobe-tag/coat",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/backpack",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

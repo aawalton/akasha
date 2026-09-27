@@ -18,4 +18,5 @@ export const image74611cce696cbfba = {
     "pose-tag/looking-at-viewer",
     "pose-tag/front-view",
   ],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
 } as const satisfies Image

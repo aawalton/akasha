@@ -9,4 +9,5 @@ export const image898ec34238f57e56 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/restaurant", "setting-tag/dining-room", "setting-tag/indoor"],
   poseTags: ["pose-tag/profile", "pose-tag/sitting", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/shirt"],
 } as const satisfies Image

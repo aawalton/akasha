@@ -19,4 +19,5 @@ export const image1f10a7b84176a875 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
+  wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/lingerie"],
 } as const satisfies Image

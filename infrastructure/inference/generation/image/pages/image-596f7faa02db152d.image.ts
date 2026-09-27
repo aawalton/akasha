@@ -18,4 +18,5 @@ export const image596f7faa02db152d = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-5",
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/dress"],
 } as const satisfies Image

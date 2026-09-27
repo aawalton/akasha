@@ -8,4 +8,9 @@ export const image725560bab767ffe9 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

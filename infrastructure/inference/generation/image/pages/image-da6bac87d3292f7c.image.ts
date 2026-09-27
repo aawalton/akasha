@@ -13,4 +13,10 @@ export const imageDa6bac87d3292f7c = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
+  wardrobeTags: [
+    "wardrobe-tag/backless",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

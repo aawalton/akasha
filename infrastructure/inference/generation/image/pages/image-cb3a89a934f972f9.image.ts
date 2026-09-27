@@ -29,4 +29,5 @@ export const imageCb3a89a934f972f9 = {
     "pose-tag/standing",
     "pose-tag/profile",
   ],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/leather", "wardrobe-tag/fully-clothed"],
 } as const satisfies Image

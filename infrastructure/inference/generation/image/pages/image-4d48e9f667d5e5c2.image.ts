@@ -28,4 +28,10 @@ export const image4d48e9f667d5e5c2 = {
     "pose-tag/smiling",
     "pose-tag/portrait",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/jeans",
+    "wardrobe-tag/belt",
+    "wardrobe-tag/t-shirt",
+    "wardrobe-tag/shirt",
+  ],
 } as const satisfies Image

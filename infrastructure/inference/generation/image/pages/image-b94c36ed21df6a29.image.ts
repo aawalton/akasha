@@ -14,4 +14,10 @@ export const imageB94c36ed21df6a29 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/greenhouse", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: [
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/lace",
+    "wardrobe-tag/belt",
+  ],
 } as const satisfies Image

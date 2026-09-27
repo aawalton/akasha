@@ -23,4 +23,5 @@ export const image92873baf6328c2ef = {
     "setting-tag/park",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/tights"],
 } as const satisfies Image

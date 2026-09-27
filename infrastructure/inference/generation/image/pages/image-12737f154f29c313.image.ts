@@ -29,4 +29,5 @@ export const image12737f154f29c313 = {
     "pose-tag/hands-behind-head",
     "pose-tag/lying-down",
   ],
+  wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

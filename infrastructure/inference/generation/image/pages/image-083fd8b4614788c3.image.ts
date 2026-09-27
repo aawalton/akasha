@@ -13,4 +13,10 @@ export const image083fd8b4614788c3 = {
     "pose-tag/back-view",
     "pose-tag/looking-back",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/bodysuit",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/body-paint",
+    "wardrobe-tag/partial-undress",
+  ],
 } as const satisfies Image

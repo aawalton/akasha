@@ -19,4 +19,5 @@ export const imageB2cc1aead6459ec4 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/rooftop", "setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/stretching"],
+  wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
 } as const satisfies Image

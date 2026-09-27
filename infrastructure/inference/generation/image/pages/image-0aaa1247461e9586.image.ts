@@ -24,4 +24,10 @@ export const image0aaa1247461e9586 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/bra",
+    "wardrobe-tag/panties",
+    "wardrobe-tag/lingerie",
+  ],
 } as const satisfies Image

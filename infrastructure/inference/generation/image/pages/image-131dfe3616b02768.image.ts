@@ -20,4 +20,5 @@ export const image131dfe3616b02768 = {
     "setting-tag/forest",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/leggings"],
 } as const satisfies Image

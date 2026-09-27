@@ -8,4 +8,10 @@ export const imageBcc89070db541545 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/headband",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

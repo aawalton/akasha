@@ -13,4 +13,10 @@ export const image17137c19d9f29744 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing"],
+  wardrobeTags: [
+    "wardrobe-tag/headphones",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/towel",
+    "wardrobe-tag/topless",
+  ],
 } as const satisfies Image

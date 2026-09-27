@@ -13,4 +13,10 @@ export const imageD448a68305289bce = {
     "pose-tag/hands-clasped",
     "pose-tag/smiling",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/halter-top",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

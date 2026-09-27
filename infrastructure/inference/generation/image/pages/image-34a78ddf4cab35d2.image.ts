@@ -18,4 +18,5 @@ export const image34a78ddf4cab35d2 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/jungle"],
   poseTags: ["pose-tag/side-by-side", "pose-tag/embracing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/bikini"],
 } as const satisfies Image

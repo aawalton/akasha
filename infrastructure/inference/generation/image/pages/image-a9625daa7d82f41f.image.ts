@@ -14,4 +14,10 @@ export const imageA9625daa7d82f41f = {
     "setting-tag/party",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
+  wardrobeTags: [
+    "wardrobe-tag/kimono",
+    "wardrobe-tag/high-slit",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/mask",
+  ],
 } as const satisfies Image

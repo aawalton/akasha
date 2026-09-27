@@ -19,4 +19,5 @@ export const imageB124e12fa648a943 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/indoor", "setting-tag/art-studio", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/puffed-sleeves"],
 } as const satisfies Image

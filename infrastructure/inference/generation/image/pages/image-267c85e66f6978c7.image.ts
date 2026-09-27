@@ -14,4 +14,5 @@ export const image267c85e66f6978c7 = {
     "pose-tag/arms-raised",
     "pose-tag/full-body",
   ],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

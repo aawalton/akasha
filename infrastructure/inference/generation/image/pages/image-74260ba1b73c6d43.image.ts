@@ -19,4 +19,5 @@ export const image74260ba1b73c6d43 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/dress"],
 } as const satisfies Image

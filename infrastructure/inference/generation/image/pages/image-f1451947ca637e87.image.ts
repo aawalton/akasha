@@ -9,4 +9,5 @@ export const imageF1451947ca637e87 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/underwater", "setting-tag/plain-background"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
 } as const satisfies Image

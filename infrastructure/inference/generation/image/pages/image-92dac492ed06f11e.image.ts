@@ -18,4 +18,5 @@ export const image92dac492ed06f11e = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

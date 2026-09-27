@@ -13,4 +13,10 @@ export const image2c77e032edd556d8 = {
     "setting-tag/rocks",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/looking-up", "pose-tag/full-body"],
+  wardrobeTags: [
+    "wardrobe-tag/sports-bra",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/sneakers",
+    "wardrobe-tag/headband",
+  ],
 } as const satisfies Image

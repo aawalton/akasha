@@ -13,4 +13,11 @@ export const image5bbc1d2a73fb1b68 = {
     "setting-tag/night",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/working", "pose-tag/walking"],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/tunic",
+    "wardrobe-tag/pants",
+    "wardrobe-tag/boots",
+    "wardrobe-tag/cloak",
+  ],
 } as const satisfies Image

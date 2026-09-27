@@ -19,4 +19,5 @@ export const image661713ad93feaf9b = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk"],
 } as const satisfies Image

@@ -9,4 +9,10 @@ export const imageEd8732aea96672cc = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bar", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/kneeling"],
+  wardrobeTags: [
+    "wardrobe-tag/gloves",
+    "wardrobe-tag/high-heels",
+    "wardrobe-tag/body-paint",
+    "wardrobe-tag/writing-on-skin",
+  ],
 } as const satisfies Image

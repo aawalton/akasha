@@ -28,4 +28,10 @@ export const image1ae3bde7c1f00f92 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/smiling",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/tube-top",
+    "wardrobe-tag/strapless",
+    "wardrobe-tag/sheet",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

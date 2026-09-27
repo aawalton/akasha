@@ -13,4 +13,9 @@ export const imageD479eee3104b92c3 = {
     "pose-tag/hands-clasped",
     "pose-tag/close-up",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/camisole",
+    "wardrobe-tag/spaghetti-straps",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image950cae647fff572e = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/shirt"],
 } as const satisfies Image

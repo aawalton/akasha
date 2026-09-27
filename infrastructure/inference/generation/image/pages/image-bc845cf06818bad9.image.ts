@@ -25,4 +25,5 @@ export const imageBc845cf06818bad9 = {
     "setting-tag/ruins",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-on-hip"],
+  wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/jewelry", "wardrobe-tag/barefoot"],
 } as const satisfies Image

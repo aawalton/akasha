@@ -8,4 +8,5 @@ export const image03352868210624df = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/car", "setting-tag/rain"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back", "pose-tag/arms-raised"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

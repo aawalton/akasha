@@ -13,4 +13,5 @@ export const image66a2c15b3b19082a = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/deep-v-neck", "wardrobe-tag/headphones"],
 } as const satisfies Image

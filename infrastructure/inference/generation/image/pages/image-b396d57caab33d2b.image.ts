@@ -14,4 +14,10 @@ export const imageB396d57caab33d2b = {
     "pose-tag/undressing",
     "pose-tag/holding-clothing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/bra",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/sheer",
+  ],
 } as const satisfies Image

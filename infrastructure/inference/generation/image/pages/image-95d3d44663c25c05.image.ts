@@ -18,4 +18,5 @@ export const image95d3d44663c25c05 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/top", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

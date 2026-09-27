@@ -19,4 +19,5 @@ export const image33d13bca696b96ec = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/stage", "setting-tag/vanity"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
+  wardrobeTags: ["wardrobe-tag/t-shirt"],
 } as const satisfies Image

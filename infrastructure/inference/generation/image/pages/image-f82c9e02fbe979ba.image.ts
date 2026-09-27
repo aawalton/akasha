@@ -23,4 +23,5 @@ export const imageF82c9e02fbe979ba = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

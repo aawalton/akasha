@@ -9,4 +9,5 @@ export const image000eef9537f53d4d = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

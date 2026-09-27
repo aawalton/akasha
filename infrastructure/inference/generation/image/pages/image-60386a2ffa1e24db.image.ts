@@ -24,4 +24,5 @@ export const image60386a2ffa1e24db = {
   subjects: "F",
   settingTags: ["setting-tag/forest", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

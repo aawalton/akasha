@@ -12,4 +12,5 @@ export const image676fa0714fee9609 = {
     "setting-tag/abstract-background",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sheer", "wardrobe-tag/lingerie"],
 } as const satisfies Image

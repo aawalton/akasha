@@ -24,4 +24,5 @@ export const imageDfdf5a242cfe5543 = {
     "pose-tag/full-body",
     "pose-tag/legs-spread",
   ],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

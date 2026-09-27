@@ -29,4 +29,5 @@ export const imageF207e3021d9240b6 = {
     "pose-tag/sitting",
     "pose-tag/upper-body",
   ],
+  wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/off-shoulder"],
 } as const satisfies Image

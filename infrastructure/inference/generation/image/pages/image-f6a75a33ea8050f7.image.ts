@@ -18,4 +18,10 @@ export const imageF6a75a33ea8050f7 = {
     "pose-tag/front-view",
     "pose-tag/standing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/saree",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const image68dfd6134952c404 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

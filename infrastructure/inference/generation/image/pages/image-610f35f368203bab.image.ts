@@ -9,4 +9,5 @@ export const image610f35f368203bab = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/panties"],
 } as const satisfies Image

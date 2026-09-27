@@ -29,4 +29,10 @@ export const image63f86e6aa6aee4d3 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/close-up",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/halter-top",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

@@ -19,4 +19,10 @@ export const image72d793f822ac9b9c = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/library"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/coat",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/pants",
+    "wardrobe-tag/belt",
+  ],
 } as const satisfies Image

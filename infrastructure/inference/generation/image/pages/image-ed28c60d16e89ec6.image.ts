@@ -19,4 +19,5 @@ export const imageEd28c60d16e89ec6 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/hotel"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-away", "pose-tag/sitting"],
+  wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/sunglasses"],
 } as const satisfies Image

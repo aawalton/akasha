@@ -18,4 +18,5 @@ export const image353ac62b77a53ca5 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/lying-on-stomach"],
+  wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit", "wardrobe-tag/hat"],
 } as const satisfies Image

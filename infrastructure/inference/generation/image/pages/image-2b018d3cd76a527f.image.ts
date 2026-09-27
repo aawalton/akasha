@@ -24,4 +24,10 @@ export const image2b018d3cd76a527f = {
     "pose-tag/profile",
     "pose-tag/reclining",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/veil",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/topless",
+  ],
 } as const satisfies Image

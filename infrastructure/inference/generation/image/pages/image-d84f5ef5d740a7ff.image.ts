@@ -19,4 +19,5 @@ export const imageD84f5ef5d740a7ff = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/hot-spring", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/chatting", "pose-tag/face-to-face"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
 } as const satisfies Image

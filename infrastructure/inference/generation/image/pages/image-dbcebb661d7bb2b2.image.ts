@@ -18,4 +18,5 @@ export const imageDbcebb661d7bb2b2 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kneeling", "pose-tag/hands-on-chest", "pose-tag/looking-up"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

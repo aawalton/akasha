@@ -14,4 +14,10 @@ export const imageD84789a285ca85eb = {
     "pose-tag/looking-at-viewer",
     "pose-tag/front-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/nipples-visible",
+  ],
 } as const satisfies Image

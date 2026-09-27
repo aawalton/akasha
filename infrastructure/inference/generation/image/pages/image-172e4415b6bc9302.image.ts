@@ -18,4 +18,10 @@ export const image172e4415b6bc9302 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/hallway", "setting-tag/candlelight", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/high-slit",
+  ],
 } as const satisfies Image

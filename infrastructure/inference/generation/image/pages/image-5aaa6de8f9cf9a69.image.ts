@@ -13,4 +13,5 @@ export const image5aaa6de8f9cf9a69 = {
     "setting-tag/ocean",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
 } as const satisfies Image

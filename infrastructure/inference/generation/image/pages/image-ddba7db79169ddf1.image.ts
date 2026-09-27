@@ -8,4 +8,5 @@ export const imageDdba7db79169ddf1 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/halter-top", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

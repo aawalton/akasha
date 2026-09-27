@@ -13,4 +13,5 @@ export const imageE2c676ecb97c04ef = {
     "setting-tag/sky",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/qipao", "wardrobe-tag/hair-accessory"],
 } as const satisfies Image

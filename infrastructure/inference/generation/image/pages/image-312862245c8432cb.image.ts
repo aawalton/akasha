@@ -9,4 +9,5 @@ export const image312862245c8432cb = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/vanity", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-in-mirror", "pose-tag/holding-clothing"],
+  wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie", "wardrobe-tag/topless"],
 } as const satisfies Image

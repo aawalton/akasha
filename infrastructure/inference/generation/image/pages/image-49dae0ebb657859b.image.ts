@@ -14,4 +14,9 @@ export const image49dae0ebb657859b = {
     "pose-tag/looking-at-viewer",
     "pose-tag/hands-on-chest",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/partial-undress",
+  ],
 } as const satisfies Image

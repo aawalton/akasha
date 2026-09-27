@@ -13,4 +13,5 @@ export const imageBecde31f30ce7d2d = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-up"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress"],
 } as const satisfies Image

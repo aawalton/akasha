@@ -24,4 +24,9 @@ export const imageE6c71e7da17d0519 = {
     "pose-tag/sitting",
     "pose-tag/looking-back",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sundress",
+    "wardrobe-tag/spaghetti-straps",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

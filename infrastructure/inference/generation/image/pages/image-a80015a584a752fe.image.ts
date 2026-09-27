@@ -19,4 +19,5 @@ export const imageA80015a584a752fe = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-lantern", "pose-tag/looking-down"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

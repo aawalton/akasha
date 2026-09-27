@@ -9,4 +9,5 @@ export const imageB0341c981efbd299 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/underwater", "setting-tag/dark-background"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
+  wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/jewelry"],
 } as const satisfies Image

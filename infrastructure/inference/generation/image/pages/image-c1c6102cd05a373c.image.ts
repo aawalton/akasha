@@ -9,4 +9,10 @@ export const imageC1c6102cd05a373c = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/restaurant", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/high-slit",
+    "wardrobe-tag/halter-top",
+  ],
 } as const satisfies Image

@@ -24,4 +24,10 @@ export const imageA1ea57c092b98b63 = {
     "setting-tag/water",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/boots",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageCb32c12d2740a185 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/hand-on-face"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/robe", "wardrobe-tag/nude"],
 } as const satisfies Image

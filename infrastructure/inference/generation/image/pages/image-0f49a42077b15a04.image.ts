@@ -13,4 +13,5 @@ export const image0f49a42077b15a04 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/fully-clothed"],
 } as const satisfies Image

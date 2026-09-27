@@ -13,4 +13,5 @@ export const imageF595847624e60bca = {
     "setting-tag/park",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top"],
 } as const satisfies Image

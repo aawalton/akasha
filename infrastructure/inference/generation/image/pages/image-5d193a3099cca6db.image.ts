@@ -14,4 +14,5 @@ export const image5d193a3099cca6db = {
     "setting-tag/water",
   ],
   poseTags: ["pose-tag/looking-back"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/wet", "wardrobe-tag/nude"],
 } as const satisfies Image

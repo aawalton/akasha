@@ -14,4 +14,10 @@ export const image922e9e8bd468adaf = {
     "setting-tag/rocks",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/topless",
+    "wardrobe-tag/wet",
+    "wardrobe-tag/nude",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

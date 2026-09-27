@@ -19,4 +19,5 @@ export const image6343734139b4fc45 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bathtub", "setting-tag/water", "setting-tag/indoor"],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageC5bd9ff82fcd6d99 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
+  wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless"],
 } as const satisfies Image

@@ -8,4 +8,5 @@ export const image99491d8c9ca3fade = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
 } as const satisfies Image

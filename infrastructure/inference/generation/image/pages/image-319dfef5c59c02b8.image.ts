@@ -14,4 +14,12 @@ export const image319dfef5c59c02b8 = {
     "setting-tag/window",
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/sweater",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/partial-undress",
+    "wardrobe-tag/topless",
+  ],
 } as const satisfies Image

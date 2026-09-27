@@ -19,4 +19,11 @@ export const image62bf8e085a87dbb0 = {
     "setting-tag/shop",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/halter-top",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/backless",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

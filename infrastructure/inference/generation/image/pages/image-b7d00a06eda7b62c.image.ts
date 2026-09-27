@@ -18,4 +18,5 @@ export const imageB7d00a06eda7b62c = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit", "setting-tag/rocks"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const image8192ef9a7e5f5212 = {
     "setting-tag/forest",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/walking"],
+  wardrobeTags: ["wardrobe-tag/dress"],
 } as const satisfies Image

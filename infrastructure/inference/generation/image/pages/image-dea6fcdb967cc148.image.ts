@@ -13,4 +13,10 @@ export const imageDea6fcdb967cc148 = {
     "pose-tag/smiling",
     "pose-tag/upper-body",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

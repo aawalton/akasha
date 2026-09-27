@@ -13,4 +13,10 @@ export const image2a1f2c6c7e86ff69 = {
     "setting-tag/indoor",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/laughing"],
+  wardrobeTags: [
+    "wardrobe-tag/topless",
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/shirt",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

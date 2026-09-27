@@ -19,4 +19,5 @@ export const image0d953de65e55acaf = {
   subjects: "F",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/jewelry"],
 } as const satisfies Image

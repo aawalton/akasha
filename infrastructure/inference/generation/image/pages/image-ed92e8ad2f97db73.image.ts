@@ -18,4 +18,5 @@ export const imageEd92e8ad2f97db73 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

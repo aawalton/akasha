@@ -9,4 +9,10 @@ export const imageD30da57708d85cb6 = {
   subjects: "F",
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/silk",
+  ],
 } as const satisfies Image

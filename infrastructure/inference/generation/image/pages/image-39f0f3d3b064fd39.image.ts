@@ -13,4 +13,10 @@ export const image39f0f3d3b064fd39 = {
     "setting-tag/campfire",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/casting-magic", "pose-tag/fighting"],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/boots",
+    "wardrobe-tag/cloak",
+  ],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const imageF2bef5a27782ce3b = {
     "setting-tag/daytime",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const image0b67c07c6ea80d83 = {
     "setting-tag/sky",
   ],
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/gold-trim", "wardrobe-tag/jewelry"],
 } as const satisfies Image

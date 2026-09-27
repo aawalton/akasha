@@ -14,4 +14,5 @@ export const imageE9e15f463d88a9b7 = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/armor"],
 } as const satisfies Image

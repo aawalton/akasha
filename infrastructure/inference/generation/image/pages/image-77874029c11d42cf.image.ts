@@ -19,4 +19,5 @@ export const image77874029c11d42cf = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/temple", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/mask", "wardrobe-tag/hair-accessory"],
 } as const satisfies Image

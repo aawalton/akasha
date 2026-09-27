@@ -19,4 +19,5 @@ export const image0e8a127f6a284273 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/city-street", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/exposed-genitals"],
 } as const satisfies Image

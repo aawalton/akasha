@@ -19,4 +19,5 @@ export const image218abc386e3bae6e = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/high-slit", "wardrobe-tag/sheer"],
 } as const satisfies Image

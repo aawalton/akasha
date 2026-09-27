@@ -19,4 +19,5 @@ export const image5536db83f997758f = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-up"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

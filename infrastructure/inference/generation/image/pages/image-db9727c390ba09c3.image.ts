@@ -8,4 +8,5 @@ export const imageDb9727c390ba09c3 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/lake", "setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

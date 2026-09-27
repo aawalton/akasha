@@ -19,4 +19,5 @@ export const imageB31dca190b944816 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/indoor", "setting-tag/cabin", "setting-tag/fireplace"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

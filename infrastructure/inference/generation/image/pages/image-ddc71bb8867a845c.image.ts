@@ -13,4 +13,11 @@ export const imageDdc71bb8867a845c = {
     "setting-tag/dimly-lit",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/bra",
+    "wardrobe-tag/panties",
+    "wardrobe-tag/garter-belt",
+    "wardrobe-tag/stockings",
+  ],
 } as const satisfies Image

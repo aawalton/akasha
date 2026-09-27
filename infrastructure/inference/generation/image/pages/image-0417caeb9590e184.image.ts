@@ -9,4 +9,10 @@ export const image0417caeb9590e184 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bar", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/bra",
+    "wardrobe-tag/pants",
+    "wardrobe-tag/lingerie",
+  ],
 } as const satisfies Image

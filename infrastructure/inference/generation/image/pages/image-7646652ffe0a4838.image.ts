@@ -23,4 +23,10 @@ export const image7646652ffe0a4838 = {
     "pose-tag/holding-weapon",
     "pose-tag/casting-magic",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/long-sleeves",
+    "wardrobe-tag/fully-clothed",
+  ],
 } as const satisfies Image

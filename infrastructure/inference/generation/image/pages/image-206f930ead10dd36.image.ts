@@ -10,4 +10,5 @@ export const image206f930ead10dd36 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/looking-back"],
+  wardrobeTags: ["wardrobe-tag/tunic"],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const imageDc3441b155e5a67a = {
     "setting-tag/night",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const image4d219fe9505c1b42 = {
     "pose-tag/knees-up",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

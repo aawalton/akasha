@@ -9,4 +9,5 @@ export const image63a1570da41e78ce = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const imageEc75cc3f08f73404 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dimly-lit", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-lantern", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/top"],
 } as const satisfies Image

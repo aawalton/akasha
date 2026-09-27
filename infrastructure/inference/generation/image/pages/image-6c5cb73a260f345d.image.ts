@@ -23,4 +23,5 @@ export const image6c5cb73a260f345d = {
     "setting-tag/city",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const image91b8341766d6556f = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
+  wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

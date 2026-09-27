@@ -9,4 +9,5 @@ export const image19ce0f06decae787 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/desert"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless"],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const image284b8bca03cb2119 = {
     "setting-tag/pool",
   ],
   poseTags: ["pose-tag/lying-down", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

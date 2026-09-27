@@ -25,4 +25,5 @@ export const image1c981cc39547d59f = {
   subjects: "F",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/t-shirt"],
 } as const satisfies Image

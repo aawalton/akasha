@@ -18,4 +18,10 @@ export const imageFdf2f8732919d53c = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

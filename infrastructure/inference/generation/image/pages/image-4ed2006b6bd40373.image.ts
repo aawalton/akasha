@@ -8,4 +8,5 @@ export const image4ed2006b6bd40373 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-back", "pose-tag/holding-clothing"],
+  wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/sports-bra", "wardrobe-tag/headband"],
 } as const satisfies Image

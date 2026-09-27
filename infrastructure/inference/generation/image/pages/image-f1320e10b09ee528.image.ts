@@ -23,4 +23,10 @@ export const imageF1320e10b09ee528 = {
     "setting-tag/daytime",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/sitting"],
+  wardrobeTags: [
+    "wardrobe-tag/bikini",
+    "wardrobe-tag/swimsuit",
+    "wardrobe-tag/sunglasses",
+    "wardrobe-tag/barefoot",
+  ],
 } as const satisfies Image

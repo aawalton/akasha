@@ -18,4 +18,5 @@ export const image441b686c583ecccc = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/cave", "setting-tag/campfire", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

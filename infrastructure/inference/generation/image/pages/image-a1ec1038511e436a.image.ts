@@ -9,4 +9,10 @@ export const imageA1ec1038511e436a = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/undressing"],
+  wardrobeTags: [
+    "wardrobe-tag/topless",
+    "wardrobe-tag/nude",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/wig",
+  ],
 } as const satisfies Image

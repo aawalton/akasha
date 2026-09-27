@@ -13,4 +13,10 @@ export const image921c5473a3c943d9 = {
     "pose-tag/looking-back",
     "pose-tag/standing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/backless",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

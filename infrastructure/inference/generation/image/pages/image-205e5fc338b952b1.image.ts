@@ -8,4 +8,10 @@ export const image205e5fc338b952b1 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/ruins", "setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/fighting", "pose-tag/running", "pose-tag/casting-magic"],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/tunic",
+    "wardrobe-tag/boots",
+  ],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const image8ac2164d3042dd81 = {
     "setting-tag/rocks",
   ],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/towel", "wardrobe-tag/nude"],
 } as const satisfies Image

@@ -8,4 +8,5 @@ export const imageC99d35558d5c5a5c = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/oral-sex", "pose-tag/all-fours"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig"],
 } as const satisfies Image

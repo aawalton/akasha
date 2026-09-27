@@ -20,4 +20,5 @@ export const image45638a02bb44fafb = {
     "setting-tag/mountains",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/long-sleeves", "wardrobe-tag/casual-wear"],
 } as const satisfies Image

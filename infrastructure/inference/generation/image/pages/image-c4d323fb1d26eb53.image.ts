@@ -18,4 +18,5 @@ export const imageC4d323fb1d26eb53 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/dark-background", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

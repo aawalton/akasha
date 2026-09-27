@@ -18,4 +18,5 @@ export const imageDe1270ad9506e7e8 = {
     "pose-tag/smiling",
     "pose-tag/leaning",
   ],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/crop-top", "wardrobe-tag/jeans"],
 } as const satisfies Image

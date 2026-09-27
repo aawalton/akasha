@@ -19,4 +19,5 @@ export const imageB884950d40510921 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/deep-v-neck"],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const imageE7f7cd1691c28fab = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/indoor", "setting-tag/workshop"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/belt"],
 } as const satisfies Image

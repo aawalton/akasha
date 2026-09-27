@@ -18,4 +18,10 @@ export const imageEb99b02d12af5fe1 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: [
+    "wardrobe-tag/corset",
+    "wardrobe-tag/goggles",
+    "wardrobe-tag/belt",
+    "wardrobe-tag/lace",
+  ],
 } as const satisfies Image

@@ -8,4 +8,11 @@ export const image7f26300158dec2cd = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-up", "pose-tag/hands-on-chest"],
+  wardrobeTags: [
+    "wardrobe-tag/topless",
+    "wardrobe-tag/nude",
+    "wardrobe-tag/wig",
+    "wardrobe-tag/tiara",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

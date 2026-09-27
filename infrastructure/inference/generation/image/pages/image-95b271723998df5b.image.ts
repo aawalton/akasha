@@ -19,4 +19,5 @@ export const image95b271723998df5b = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/balcony", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

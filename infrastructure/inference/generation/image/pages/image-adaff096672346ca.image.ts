@@ -19,4 +19,5 @@ export const imageAdaff096672346ca = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/temple", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono"],
 } as const satisfies Image

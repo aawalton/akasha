@@ -14,4 +14,9 @@ export const image34de3dfa4aeb1caf = {
     "pose-tag/looking-at-viewer",
     "pose-tag/hands-on-chest",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/partial-undress",
+  ],
 } as const satisfies Image

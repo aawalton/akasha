@@ -13,4 +13,5 @@ export const imageBbba04af810f1242 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/museum", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

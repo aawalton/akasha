@@ -23,4 +23,5 @@ export const image71b0bf7f2f20bbf3 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/jeans", "wardrobe-tag/sweater"],
 } as const satisfies Image

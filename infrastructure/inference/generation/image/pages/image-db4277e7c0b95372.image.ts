@@ -14,4 +14,5 @@ export const imageDb4277e7c0b95372 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/athletic-wear"],
 } as const satisfies Image

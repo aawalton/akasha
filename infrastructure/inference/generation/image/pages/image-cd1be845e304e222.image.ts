@@ -14,4 +14,10 @@ export const imageCd1be845e304e222 = {
     "pose-tag/portrait",
     "pose-tag/serious-expression",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/tank-top",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/top",
+    "wardrobe-tag/casual-wear",
+  ],
 } as const satisfies Image

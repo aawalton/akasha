@@ -13,4 +13,5 @@ export const imageBb021f80c21d9c5c = {
     "setting-tag/ruins",
   ],
   poseTags: ["pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/robe"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image4f3f0ef6d394ecc5 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/laughing", "pose-tag/hand-on-face", "pose-tag/sitting"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageDff7e1ad850b92ea = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/floating", "pose-tag/jumping", "pose-tag/reaching"],
+  wardrobeTags: ["wardrobe-tag/barefoot"],
 } as const satisfies Image

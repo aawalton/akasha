@@ -20,4 +20,5 @@ export const imageB305a39754eff288 = {
     "setting-tag/candlelight",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/dress"],
 } as const satisfies Image

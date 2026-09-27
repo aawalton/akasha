@@ -14,4 +14,5 @@ export const image08037f7774b620c6 = {
     "pose-tag/close-up",
     "pose-tag/upper-body",
   ],
+  wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

@@ -19,4 +19,10 @@ export const imageDf37c159b734394f = {
     "pose-tag/smiling",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/slip-dress",
+  ],
 } as const satisfies Image

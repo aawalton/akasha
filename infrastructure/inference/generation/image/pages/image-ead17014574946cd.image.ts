@@ -8,4 +8,5 @@ export const imageEad17014574946cd = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/boat"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/bare-legs", "wardrobe-tag/barefoot"],
 } as const satisfies Image

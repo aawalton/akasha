@@ -25,4 +25,9 @@ export const imageD4d7c1941d9109e5 = {
   subjects: "F",
   settingTags: ["setting-tag/dark-background", "setting-tag/night", "setting-tag/studio"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

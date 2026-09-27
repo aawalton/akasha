@@ -13,4 +13,10 @@ export const image4c1840b4322f0ac6 = {
     "setting-tag/desert",
   ],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-away"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/sports-bra",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/headband",
+  ],
 } as const satisfies Image

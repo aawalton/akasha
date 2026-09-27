@@ -13,4 +13,10 @@ export const image25d4870e9ad7bbfa = {
     "setting-tag/city",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/sleeveless",
+  ],
 } as const satisfies Image

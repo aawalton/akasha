@@ -18,4 +18,10 @@ export const image8c79477e6908c1b0 = {
     "pose-tag/knees-up",
     "pose-tag/hand-on-thigh",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/kimono",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/cleavage",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

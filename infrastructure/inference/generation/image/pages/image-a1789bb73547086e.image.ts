@@ -19,4 +19,10 @@ export const imageA1789bb73547086e = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/underwater", "setting-tag/church"],
   poseTags: ["pose-tag/floating", "pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/off-shoulder",
+  ],
 } as const satisfies Image

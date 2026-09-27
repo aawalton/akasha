@@ -19,4 +19,5 @@ export const imageDd5424cdc0be0094 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/cave", "setting-tag/water", "setting-tag/pool"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
+  wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/wet"],
 } as const satisfies Image

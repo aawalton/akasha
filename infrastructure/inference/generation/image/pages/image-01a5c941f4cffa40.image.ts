@@ -19,4 +19,10 @@ export const image01a5c941f4cffa40 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/veil",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

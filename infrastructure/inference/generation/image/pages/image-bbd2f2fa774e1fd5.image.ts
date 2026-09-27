@@ -13,4 +13,9 @@ export const imageBbd2f2fa774e1fd5 = {
     "setting-tag/forest",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/spaghetti-straps",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

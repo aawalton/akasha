@@ -14,4 +14,10 @@ export const image526f9d842319a927 = {
     "setting-tag/water",
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/topless",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/nipples-visible",
+    "wardrobe-tag/kimono",
+  ],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageFfaa2d60ddccc9dc = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-behind-head"],
+  wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/lingerie"],
 } as const satisfies Image

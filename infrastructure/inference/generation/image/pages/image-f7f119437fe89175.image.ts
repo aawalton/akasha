@@ -20,4 +20,5 @@ export const imageF7f119437fe89175 = {
     "pose-tag/laughing",
     "pose-tag/walking",
   ],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/backpack", "wardrobe-tag/t-shirt"],
 } as const satisfies Image

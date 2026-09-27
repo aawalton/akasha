@@ -18,4 +18,11 @@ export const imageDa3ee3d14719c507 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/corset",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/lace",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/belt",
+  ],
 } as const satisfies Image

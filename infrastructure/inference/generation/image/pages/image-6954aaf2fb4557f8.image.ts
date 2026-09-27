@@ -13,4 +13,10 @@ export const image6954aaf2fb4557f8 = {
     "setting-tag/rain",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/back-view", "pose-tag/standing"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/backless",
+    "wardrobe-tag/writing-on-skin",
+  ],
 } as const satisfies Image

@@ -13,4 +13,10 @@ export const image809811bbe29d0ee6 = {
     "setting-tag/park",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/body-paint",
+  ],
 } as const satisfies Image

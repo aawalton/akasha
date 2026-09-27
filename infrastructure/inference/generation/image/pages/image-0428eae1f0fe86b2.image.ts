@@ -23,4 +23,5 @@ export const image0428eae1f0fe86b2 = {
     "setting-tag/water",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

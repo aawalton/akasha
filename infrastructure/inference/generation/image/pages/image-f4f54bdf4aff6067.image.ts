@@ -13,4 +13,10 @@ export const imageF4f54bdf4aff6067 = {
     "pose-tag/back-view",
     "pose-tag/looking-back",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/high-slit",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/bare-legs",
+  ],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image84fe1e8399464e21 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/robe"],
 } as const satisfies Image

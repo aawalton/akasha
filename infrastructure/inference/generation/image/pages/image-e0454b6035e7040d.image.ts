@@ -8,4 +8,9 @@ export const imageE0454b6035e7040d = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/headphones",
+    "wardrobe-tag/tank-top",
+    "wardrobe-tag/spaghetti-straps",
+  ],
 } as const satisfies Image

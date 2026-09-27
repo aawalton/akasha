@@ -18,4 +18,5 @@ export const imageB3b9fa2c37265e99 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/market", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans", "wardrobe-tag/jewelry"],
 } as const satisfies Image

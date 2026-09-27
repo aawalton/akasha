@@ -8,4 +8,5 @@ export const image645c4c2f54ce61de = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
 } as const satisfies Image

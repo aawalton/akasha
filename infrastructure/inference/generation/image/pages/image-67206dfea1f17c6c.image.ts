@@ -18,4 +18,5 @@ export const image67206dfea1f17c6c = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

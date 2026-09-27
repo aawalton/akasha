@@ -19,4 +19,10 @@ export const imageD18c9ba83cd63963 = {
     "pose-tag/holding-umbrella",
     "pose-tag/hand-on-hip",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/crop-top",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/gloves",
+    "wardrobe-tag/boots",
+  ],
 } as const satisfies Image

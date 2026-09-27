@@ -9,4 +9,10 @@ export const image129571d7622690e7 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/vanity", "setting-tag/mirror"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/stockings",
+    "wardrobe-tag/garter-belt",
+  ],
 } as const satisfies Image

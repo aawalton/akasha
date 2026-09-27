@@ -24,4 +24,10 @@ export const image179422dfb2621f9f = {
     "setting-tag/mountains",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/velvet",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/deep-v-neck",
+  ],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const image558917034cba6705 = {
     "setting-tag/ocean",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/face-to-face", "pose-tag/lying-down"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

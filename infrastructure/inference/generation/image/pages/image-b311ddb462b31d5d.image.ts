@@ -23,4 +23,10 @@ export const imageB311ddb462b31d5d = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
+  wardrobeTags: [
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/shirt",
+    "wardrobe-tag/belt",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

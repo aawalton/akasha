@@ -25,4 +25,5 @@ export const imageE84e7e05815ec1d3 = {
   subjects: "F",
   settingTags: ["setting-tag/church", "setting-tag/daytime"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
+  wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie", "wardrobe-tag/dress"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const imageE407c44409d223f0 = {
     "pose-tag/smiling",
     "pose-tag/leaning-forward",
   ],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/top"],
 } as const satisfies Image

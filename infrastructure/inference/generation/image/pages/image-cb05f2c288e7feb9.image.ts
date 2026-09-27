@@ -19,4 +19,10 @@ export const imageCb05f2c288e7feb9 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/hot-spring", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/panties",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

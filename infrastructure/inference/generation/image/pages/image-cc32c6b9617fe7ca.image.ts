@@ -14,4 +14,5 @@ export const imageCc32c6b9617fe7ca = {
     "setting-tag/car",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/crop-top", "wardrobe-tag/jeans"],
 } as const satisfies Image

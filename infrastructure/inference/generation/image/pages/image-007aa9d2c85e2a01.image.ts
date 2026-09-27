@@ -23,4 +23,10 @@ export const image007aa9d2c85e2a01 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-2",
   poseTags: ["pose-tag/squatting", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/sports-bra",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/headband",
+  ],
 } as const satisfies Image

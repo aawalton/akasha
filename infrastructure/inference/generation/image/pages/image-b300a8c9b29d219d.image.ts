@@ -19,4 +19,5 @@ export const imageB300a8c9b29d219d = {
   subjects: "F",
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/swimsuit"],
 } as const satisfies Image

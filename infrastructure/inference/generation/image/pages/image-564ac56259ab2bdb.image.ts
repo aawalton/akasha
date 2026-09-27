@@ -13,4 +13,10 @@ export const image564ac56259ab2bdb = {
     "setting-tag/forest",
   ],
   poseTags: ["pose-tag/back-view", "pose-tag/walking"],
+  wardrobeTags: [
+    "wardrobe-tag/t-shirt",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/sneakers",
+    "wardrobe-tag/backpack",
+  ],
 } as const satisfies Image

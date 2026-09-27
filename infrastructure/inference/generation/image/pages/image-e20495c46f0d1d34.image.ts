@@ -19,4 +19,10 @@ export const imageE20495c46f0d1d34 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/art-studio", "setting-tag/workshop"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/shirt",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

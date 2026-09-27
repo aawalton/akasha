@@ -18,4 +18,5 @@ export const image79a0c7dc406969ce = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/abstract-background", "setting-tag/studio"],
   poseTags: ["pose-tag/profile", "pose-tag/close-up", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/top"],
 } as const satisfies Image

@@ -23,4 +23,10 @@ export const image4fb6281e55533580 = {
     "pose-tag/holding-clothing",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/nude",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/exposed-genitals",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

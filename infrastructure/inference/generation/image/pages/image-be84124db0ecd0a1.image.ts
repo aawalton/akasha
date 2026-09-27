@@ -24,4 +24,5 @@ export const imageBe84124db0ecd0a1 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

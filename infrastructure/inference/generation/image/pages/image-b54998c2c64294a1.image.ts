@@ -13,4 +13,11 @@ export const imageB54998c2c64294a1 = {
     "pose-tag/undressing",
     "pose-tag/back-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/bodysuit",
+    "wardrobe-tag/stockings",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/bare-midriff",
+  ],
 } as const satisfies Image

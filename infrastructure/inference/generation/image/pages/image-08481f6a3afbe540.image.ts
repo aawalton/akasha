@@ -24,4 +24,5 @@ export const image08481f6a3afbe540 = {
     "setting-tag/daytime",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/jacket"],
 } as const satisfies Image

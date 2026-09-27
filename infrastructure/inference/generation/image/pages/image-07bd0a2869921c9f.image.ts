@@ -20,4 +20,5 @@ export const image07bd0a2869921c9f = {
     "pose-tag/hands-clasped",
     "pose-tag/profile",
   ],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves", "wardrobe-tag/casual-wear"],
 } as const satisfies Image

@@ -18,4 +18,11 @@ export const imageBe71580897b43cc4 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/off-shoulder",
+  ],
 } as const satisfies Image

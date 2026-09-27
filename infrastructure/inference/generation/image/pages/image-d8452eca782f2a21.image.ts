@@ -14,4 +14,10 @@ export const imageD8452eca782f2a21 = {
     "pose-tag/smiling",
     "pose-tag/close-up",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/nipples-visible",
+  ],
 } as const satisfies Image

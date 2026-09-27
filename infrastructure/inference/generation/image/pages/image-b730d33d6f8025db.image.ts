@@ -9,4 +9,10 @@ export const imageB730d33d6f8025db = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/stage", "setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/high-slit",
+    "wardrobe-tag/corset",
+  ],
 } as const satisfies Image

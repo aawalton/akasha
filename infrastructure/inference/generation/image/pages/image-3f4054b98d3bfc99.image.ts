@@ -19,4 +19,5 @@ export const image3f4054b98d3bfc99 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties"],
 } as const satisfies Image

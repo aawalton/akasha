@@ -19,4 +19,10 @@ export const imageAd4bf16c90ddb5e2 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/crop-top",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

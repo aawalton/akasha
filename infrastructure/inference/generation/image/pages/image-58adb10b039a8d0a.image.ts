@@ -13,4 +13,10 @@ export const image58adb10b039a8d0a = {
     "pose-tag/profile",
     "pose-tag/standing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/backless",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

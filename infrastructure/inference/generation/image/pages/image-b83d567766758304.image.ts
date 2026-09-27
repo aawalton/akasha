@@ -14,4 +14,10 @@ export const imageB83d567766758304 = {
     "setting-tag/castle",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/nude",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/cloak",
+  ],
 } as const satisfies Image

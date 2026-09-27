@@ -13,4 +13,5 @@ export const imageA3f21e55d43a36e9 = {
     "setting-tag/ocean",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

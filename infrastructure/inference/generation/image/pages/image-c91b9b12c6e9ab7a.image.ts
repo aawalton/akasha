@@ -24,4 +24,5 @@ export const imageC91b9b12c6e9ab7a = {
     "setting-tag/ocean",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/hand-in-hair", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry"],
 } as const satisfies Image

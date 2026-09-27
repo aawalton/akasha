@@ -18,4 +18,5 @@ export const image559c9b22d3eccb0c = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
 } as const satisfies Image

@@ -18,4 +18,10 @@ export const imageEea6367531e2d87a = {
     "pose-tag/looking-at-viewer",
     "pose-tag/hands-clasped",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/halter-top",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

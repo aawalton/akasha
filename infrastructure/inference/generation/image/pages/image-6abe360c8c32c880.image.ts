@@ -9,4 +9,5 @@ export const image6abe360c8c32c880 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/bathing"],
+  wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
 } as const satisfies Image

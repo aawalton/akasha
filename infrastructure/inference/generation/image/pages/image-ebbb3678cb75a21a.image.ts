@@ -18,4 +18,5 @@ export const imageEbbb3678cb75a21a = {
     "pose-tag/profile",
     "pose-tag/hand-on-thigh",
   ],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/qipao", "wardrobe-tag/high-slit"],
 } as const satisfies Image

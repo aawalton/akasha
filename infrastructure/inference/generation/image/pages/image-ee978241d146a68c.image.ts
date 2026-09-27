@@ -23,4 +23,5 @@ export const imageEe978241d146a68c = {
     "setting-tag/garden",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cloak", "wardrobe-tag/gown"],
 } as const satisfies Image

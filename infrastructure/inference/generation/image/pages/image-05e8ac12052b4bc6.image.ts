@@ -18,4 +18,5 @@ export const image05e8ac12052b4bc6 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/volcano", "setting-tag/dimly-lit", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/body-paint"],
 } as const satisfies Image

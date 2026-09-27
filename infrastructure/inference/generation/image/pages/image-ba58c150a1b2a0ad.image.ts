@@ -18,4 +18,10 @@ export const imageBa58c150a1b2a0ad = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/castle", "setting-tag/doorway"],
   poseTags: ["pose-tag/squatting", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/high-slit",
+  ],
 } as const satisfies Image

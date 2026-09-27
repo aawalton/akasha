@@ -9,4 +9,5 @@ export const image417078fbb794d26c = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/gym"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings"],
 } as const satisfies Image

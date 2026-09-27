@@ -8,4 +8,10 @@ export const image94ace0422bc7524d = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/glitter-makeup",
+    "wardrobe-tag/body-paint",
+  ],
 } as const satisfies Image

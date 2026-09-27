@@ -18,4 +18,5 @@ export const image4582dad17180bed6 = {
     "pose-tag/lying-down",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
 } as const satisfies Image

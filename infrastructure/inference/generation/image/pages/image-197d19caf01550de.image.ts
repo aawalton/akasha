@@ -19,4 +19,5 @@ export const image197d19caf01550de = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sundress"],
 } as const satisfies Image

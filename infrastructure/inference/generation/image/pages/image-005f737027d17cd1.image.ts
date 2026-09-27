@@ -9,4 +9,5 @@ export const image005f737027d17cd1 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-down"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

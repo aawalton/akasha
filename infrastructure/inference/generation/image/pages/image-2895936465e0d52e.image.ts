@@ -19,4 +19,5 @@ export const image2895936465e0d52e = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/forest", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/topless"],
 } as const satisfies Image

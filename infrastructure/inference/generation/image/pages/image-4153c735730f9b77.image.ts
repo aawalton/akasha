@@ -23,4 +23,5 @@ export const image4153c735730f9b77 = {
     "setting-tag/rocks",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/backpack"],
 } as const satisfies Image

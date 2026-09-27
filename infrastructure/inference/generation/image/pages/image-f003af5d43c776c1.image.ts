@@ -19,4 +19,5 @@ export const imageF003af5d43c776c1 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/shower", "setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/laughing", "pose-tag/leaning-forward", "pose-tag/looking-up"],
+  wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
 } as const satisfies Image

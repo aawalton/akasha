@@ -14,4 +14,10 @@ export const image545291ae3502c991 = {
     "pose-tag/mouth-open",
     "pose-tag/close-up",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/robe",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/cleavage",
+    "wardrobe-tag/deep-v-neck",
+  ],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const imageA34604395b7fb3f8 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/forest", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-lantern", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/camisole"],
 } as const satisfies Image

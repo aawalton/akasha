@@ -24,4 +24,11 @@ export const imageD6c15ede5d408225 = {
     "setting-tag/daytime",
   ],
   poseTags: ["pose-tag/running", "pose-tag/walking", "pose-tag/smiling", "pose-tag/front-view"],
+  wardrobeTags: [
+    "wardrobe-tag/sports-bra",
+    "wardrobe-tag/tank-top",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/leggings",
+    "wardrobe-tag/athletic-wear",
+  ],
 } as const satisfies Image

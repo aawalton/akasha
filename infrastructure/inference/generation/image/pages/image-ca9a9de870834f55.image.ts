@@ -19,4 +19,5 @@ export const imageCa9a9de870834f55 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/sweater"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageF55a471831b3315b = {
     "pose-tag/upper-body",
     "pose-tag/profile",
   ],
+  wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/sweatpants", "wardrobe-tag/loungewear"],
 } as const satisfies Image

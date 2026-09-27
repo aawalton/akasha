@@ -25,4 +25,5 @@ export const imageB98658bca32a37e7 = {
   subjects: "F",
   settingTags: ["setting-tag/forest", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
+  wardrobeTags: ["wardrobe-tag/cloak"],
 } as const satisfies Image

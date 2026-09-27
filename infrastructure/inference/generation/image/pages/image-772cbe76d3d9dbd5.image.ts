@@ -23,4 +23,10 @@ export const image772cbe76d3d9dbd5 = {
     "setting-tag/night",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/deep-v-neck",
+  ],
 } as const satisfies Image

@@ -14,4 +14,10 @@ export const image26d1c5fbec5ff75a = {
     "pose-tag/eyes-closed",
     "pose-tag/head-tilt",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/tiara",
+    "wardrobe-tag/topless",
+  ],
 } as const satisfies Image

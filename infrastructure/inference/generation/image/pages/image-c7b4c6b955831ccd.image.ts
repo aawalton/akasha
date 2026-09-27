@@ -19,4 +19,5 @@ export const imageC7b4c6b955831ccd = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bathroom", "setting-tag/shower", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

@@ -13,4 +13,11 @@ export const image19a2273ca0512bc1 = {
     "setting-tag/forest",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/cloak",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

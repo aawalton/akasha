@@ -19,4 +19,5 @@ export const imageF50070b997ab5295 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/luxury"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/jewelry", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

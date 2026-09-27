@@ -14,4 +14,10 @@ export const image0a03bac74ba1a54b = {
     "pose-tag/embracing",
     "pose-tag/hand-on-hip",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/backless",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

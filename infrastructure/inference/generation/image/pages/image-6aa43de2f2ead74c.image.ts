@@ -18,4 +18,5 @@ export const image6aa43de2f2ead74c = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/temple", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/kimono"],
 } as const satisfies Image

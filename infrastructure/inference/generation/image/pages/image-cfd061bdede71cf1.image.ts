@@ -18,4 +18,5 @@ export const imageCfd061bdede71cf1 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

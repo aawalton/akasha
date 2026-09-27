@@ -19,4 +19,10 @@ export const image9ed4c10714846572 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/beach", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
+  wardrobeTags: [
+    "wardrobe-tag/topless",
+    "wardrobe-tag/bikini",
+    "wardrobe-tag/veil",
+    "wardrobe-tag/body-paint",
+  ],
 } as const satisfies Image

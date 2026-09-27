@@ -20,4 +20,5 @@ export const imageAe39610eef022237 = {
     "pose-tag/close-up",
     "pose-tag/leaning-forward",
   ],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/cleavage"],
 } as const satisfies Image

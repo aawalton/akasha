@@ -8,4 +8,5 @@ export const imageAfcad2bcc8116340 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/cherry-blossoms"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/skirt", "wardrobe-tag/crop-top"],
 } as const satisfies Image

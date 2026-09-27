@@ -20,4 +20,10 @@ export const imageA2b696441f4ac543 = {
     "setting-tag/candlelight",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
+  wardrobeTags: [
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

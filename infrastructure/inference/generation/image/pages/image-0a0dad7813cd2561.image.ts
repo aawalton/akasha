@@ -10,4 +10,5 @@ export const image0a0dad7813cd2561 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/tiara", "wardrobe-tag/jewelry"],
 } as const satisfies Image

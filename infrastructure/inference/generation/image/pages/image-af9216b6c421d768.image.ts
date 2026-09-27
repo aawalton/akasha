@@ -19,4 +19,5 @@ export const imageAf9216b6c421d768 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/jacket"],
 } as const satisfies Image

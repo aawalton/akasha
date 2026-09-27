@@ -16,4 +16,5 @@ export const image217f2f5dcb1ddbf2 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/castle", "setting-tag/night", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/cleavage"],
 } as const satisfies Image

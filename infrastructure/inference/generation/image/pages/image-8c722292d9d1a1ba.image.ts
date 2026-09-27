@@ -13,4 +13,10 @@ export const image8c722292d9d1a1ba = {
     "pose-tag/looking-at-viewer",
     "pose-tag/front-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/body-paint",
+    "wardrobe-tag/nude",
+    "wardrobe-tag/glitter-makeup",
+    "wardrobe-tag/armor",
+  ],
 } as const satisfies Image

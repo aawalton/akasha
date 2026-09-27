@@ -13,4 +13,5 @@ export const imageAd135023e1349f31 = {
     "setting-tag/mountains",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
 } as const satisfies Image

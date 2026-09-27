@@ -24,4 +24,5 @@ export const image46024ef59bd846d8 = {
     "pose-tag/head-tilt",
     "pose-tag/upper-body",
   ],
+  wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/deep-v-neck"],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const imageE8908379cae0de0e = {
     "setting-tag/bedroom",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headphones"],
 } as const satisfies Image

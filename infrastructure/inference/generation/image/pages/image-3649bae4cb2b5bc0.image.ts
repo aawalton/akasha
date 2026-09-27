@@ -13,4 +13,10 @@ export const image3649bae4cb2b5bc0 = {
     "setting-tag/park",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/long-sleeves",
+    "wardrobe-tag/high-slit",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

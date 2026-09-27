@@ -20,4 +20,10 @@ export const imageB205b0d6a390edd5 = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/headphones",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/long-sleeves",
+  ],
 } as const satisfies Image

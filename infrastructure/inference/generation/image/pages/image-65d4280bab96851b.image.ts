@@ -8,4 +8,5 @@ export const image65d4280bab96851b = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

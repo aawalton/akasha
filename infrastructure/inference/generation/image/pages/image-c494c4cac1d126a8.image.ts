@@ -19,4 +19,11 @@ export const imageC494c4cac1d126a8 = {
     "pose-tag/standing",
     "pose-tag/sitting",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/jacket",
+    "wardrobe-tag/jeans",
+    "wardrobe-tag/sweater",
+    "wardrobe-tag/t-shirt",
+    "wardrobe-tag/coat",
+  ],
 } as const satisfies Image

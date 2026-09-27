@@ -14,4 +14,10 @@ export const image40a2d61f4145f06e = {
     "pose-tag/lying-down",
     "pose-tag/top-down-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/scarf",
+    "wardrobe-tag/stockings",
+    "wardrobe-tag/gloves",
+  ],
 } as const satisfies Image

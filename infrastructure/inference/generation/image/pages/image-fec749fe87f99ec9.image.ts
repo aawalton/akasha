@@ -28,4 +28,5 @@ export const imageFec749fe87f99ec9 = {
     "pose-tag/smiling",
     "pose-tag/full-body",
   ],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageBbf799adc49b3169 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-away", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sleepwear", "wardrobe-tag/topless"],
 } as const satisfies Image

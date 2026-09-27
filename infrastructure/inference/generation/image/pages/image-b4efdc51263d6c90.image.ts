@@ -24,4 +24,11 @@ export const imageB4efdc51263d6c90 = {
     "pose-tag/knees-up",
     "pose-tag/hand-on-face",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/lace",
+    "wardrobe-tag/bikini",
+    "wardrobe-tag/sunglasses",
+  ],
 } as const satisfies Image

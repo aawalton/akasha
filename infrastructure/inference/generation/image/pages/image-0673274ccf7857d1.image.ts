@@ -18,4 +18,5 @@ export const image0673274ccf7857d1 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
 } as const satisfies Image

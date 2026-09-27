@@ -18,4 +18,5 @@ export const imageDc3ff181a2ec3323 = {
     "pose-tag/profile",
     "pose-tag/back-view",
   ],
+  wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/silk", "wardrobe-tag/hair-accessory"],
 } as const satisfies Image

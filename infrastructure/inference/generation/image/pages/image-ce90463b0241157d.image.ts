@@ -9,4 +9,5 @@ export const imageCe90463b0241157d = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/lake"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/bikini", "wardrobe-tag/wet"],
 } as const satisfies Image

@@ -13,4 +13,10 @@ export const image708c1b51a56d15fc = {
     "setting-tag/mountains",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/high-neck",
+    "wardrobe-tag/backless",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const imageBcf9285003fb7d45 = {
     "setting-tag/snow",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
 } as const satisfies Image

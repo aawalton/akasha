@@ -8,4 +8,10 @@ export const image8174014bddf9bead = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/studio", "setting-tag/snow", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/top",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

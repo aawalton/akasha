@@ -23,4 +23,11 @@ export const image16d6b108c5c76106 = {
     "setting-tag/balcony",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

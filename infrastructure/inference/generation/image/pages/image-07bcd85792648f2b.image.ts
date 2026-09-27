@@ -14,4 +14,10 @@ export const image07bcd85792648f2b = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/topless",
+    "wardrobe-tag/wet",
+    "wardrobe-tag/nude",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

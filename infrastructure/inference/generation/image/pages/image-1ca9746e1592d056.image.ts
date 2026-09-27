@@ -19,4 +19,5 @@ export const image1ca9746e1592d056 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/dark-background"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
+  wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk", "wardrobe-tag/lingerie"],
 } as const satisfies Image

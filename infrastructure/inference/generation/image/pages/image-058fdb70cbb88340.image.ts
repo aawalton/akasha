@@ -15,4 +15,5 @@ export const image058fdb70cbb88340 = {
     "setting-tag/autumn",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/coat"],
 } as const satisfies Image

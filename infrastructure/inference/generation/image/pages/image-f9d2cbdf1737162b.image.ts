@@ -14,4 +14,5 @@ export const imageF9d2cbdf1737162b = {
     "pose-tag/holding-drink",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/topless", "wardrobe-tag/barefoot"],
 } as const satisfies Image

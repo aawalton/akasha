@@ -19,4 +19,10 @@ export const image96ee2120d122326e = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/campfire"],
   poseTags: ["pose-tag/walking", "pose-tag/eyes-closed", "pose-tag/reaching"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/sweater",
+    "wardrobe-tag/pants",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

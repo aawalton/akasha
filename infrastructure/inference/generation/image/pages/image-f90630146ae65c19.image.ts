@@ -18,4 +18,10 @@ export const imageF90630146ae65c19 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/hand-in-hair",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/barefoot",
+  ],
 } as const satisfies Image

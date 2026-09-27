@@ -13,4 +13,11 @@ export const image6d6f4e1e695932b4 = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/sports-bra",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/headband",
+    "wardrobe-tag/athletic-wear",
+  ],
 } as const satisfies Image

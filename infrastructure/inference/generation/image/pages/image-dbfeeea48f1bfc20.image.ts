@@ -18,4 +18,5 @@ export const imageDbfeeea48f1bfc20 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/museum", "setting-tag/shop"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

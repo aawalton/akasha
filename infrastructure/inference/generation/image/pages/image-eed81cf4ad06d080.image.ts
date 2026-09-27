@@ -14,4 +14,5 @@ export const imageEed81cf4ad06d080 = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/armor"],
 } as const satisfies Image

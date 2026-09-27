@@ -13,4 +13,10 @@ export const image74457a36c0cbacdc = {
     "setting-tag/night",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/backless",
+    "wardrobe-tag/writing-on-skin",
+  ],
 } as const satisfies Image

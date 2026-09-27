@@ -13,4 +13,11 @@ export const imageC85d0430ad7a9eb6 = {
     "setting-tag/rain",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/backless",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

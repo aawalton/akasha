@@ -14,4 +14,5 @@ export const imageDbf99ada67e650d2 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/city", "setting-tag/daytime"],
   poseTags: ["pose-tag/walking", "pose-tag/looking-back"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/jeans"],
 } as const satisfies Image

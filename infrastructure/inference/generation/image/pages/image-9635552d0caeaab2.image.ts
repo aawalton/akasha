@@ -9,4 +9,11 @@ export const image9635552d0caeaab2 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/jumping"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/bikini",
+    "wardrobe-tag/high-slit",
+  ],
 } as const satisfies Image

@@ -28,4 +28,5 @@ export const imageFf3d9546111e59c1 = {
     "pose-tag/hand-on-hip",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/bikini"],
 } as const satisfies Image

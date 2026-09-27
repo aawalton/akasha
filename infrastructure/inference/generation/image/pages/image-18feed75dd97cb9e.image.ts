@@ -15,4 +15,5 @@ export const image18feed75dd97cb9e = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/towel", "wardrobe-tag/athletic-wear"],
 } as const satisfies Image

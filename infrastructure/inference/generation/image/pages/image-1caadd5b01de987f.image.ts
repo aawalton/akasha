@@ -8,4 +8,5 @@ export const image1caadd5b01de987f = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bathtub", "setting-tag/bathroom", "setting-tag/water"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/wig"],
 } as const satisfies Image

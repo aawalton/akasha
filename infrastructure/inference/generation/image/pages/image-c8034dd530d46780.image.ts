@@ -18,4 +18,5 @@ export const imageC8034dd530d46780 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/outdoor", "setting-tag/campfire"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/belt", "wardrobe-tag/backpack"],
 } as const satisfies Image

@@ -23,4 +23,5 @@ export const imageB1fc84b3e988c07e = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/knees-up"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/swimsuit"],
 } as const satisfies Image

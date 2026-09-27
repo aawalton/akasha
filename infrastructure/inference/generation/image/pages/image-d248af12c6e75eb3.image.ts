@@ -13,4 +13,9 @@ export const imageD248af12c6e75eb3 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/portrait",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/partial-undress",
+    "wardrobe-tag/nude",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

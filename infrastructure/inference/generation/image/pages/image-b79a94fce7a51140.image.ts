@@ -7,4 +7,5 @@ export const imageB79a94fce7a51140 = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

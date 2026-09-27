@@ -24,4 +24,10 @@ export const image38f1a1f42501bfa1 = {
   subjects: "F",
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/cabin"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/halter-top",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

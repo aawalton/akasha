@@ -13,4 +13,10 @@ export const imageB346944f13887c34 = {
     "setting-tag/battlefield",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/holding-weapon"],
+  wardrobeTags: [
+    "wardrobe-tag/tunic",
+    "wardrobe-tag/armor",
+    "wardrobe-tag/cloak",
+    "wardrobe-tag/mask",
+  ],
 } as const satisfies Image

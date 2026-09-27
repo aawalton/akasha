@@ -16,4 +16,5 @@ export const imageD63bebaa2497197c = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/top"],
 } as const satisfies Image

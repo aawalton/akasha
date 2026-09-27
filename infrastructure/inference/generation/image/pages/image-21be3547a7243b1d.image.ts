@@ -19,4 +19,10 @@ export const image21be3547a7243b1d = {
     "pose-tag/upper-body",
     "pose-tag/portrait",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/lingerie",
+  ],
 } as const satisfies Image

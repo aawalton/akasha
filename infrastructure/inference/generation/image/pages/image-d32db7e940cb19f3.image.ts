@@ -24,4 +24,10 @@ export const imageD32db7e940cb19f3 = {
     "setting-tag/sky",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/working"],
+  wardrobeTags: [
+    "wardrobe-tag/hat",
+    "wardrobe-tag/coat",
+    "wardrobe-tag/hoodie",
+    "wardrobe-tag/sweater",
+  ],
 } as const satisfies Image

@@ -8,4 +8,5 @@ export const imageCa34bd4244339b6f = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/headphones"],
 } as const satisfies Image

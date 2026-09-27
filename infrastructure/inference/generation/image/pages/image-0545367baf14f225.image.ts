@@ -18,4 +18,10 @@ export const image0545367baf14f225 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/living-room"],
   poseTags: ["pose-tag/sitting", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/gloves",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

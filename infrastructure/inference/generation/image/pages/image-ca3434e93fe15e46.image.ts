@@ -9,4 +9,5 @@ export const imageCa3434e93fe15e46 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/ocean", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/floating", "pose-tag/jumping", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/shorts", "wardrobe-tag/belt"],
 } as const satisfies Image

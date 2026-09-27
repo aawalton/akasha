@@ -13,4 +13,5 @@ export const imageE2cbc1b427dc29aa = {
     "setting-tag/sky",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/high-neck"],
 } as const satisfies Image

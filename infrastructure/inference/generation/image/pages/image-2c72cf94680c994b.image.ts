@@ -19,4 +19,11 @@ export const image2c72cf94680c994b = {
     "pose-tag/standing",
     "pose-tag/sitting",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sweater",
+    "wardrobe-tag/jacket",
+    "wardrobe-tag/coat",
+    "wardrobe-tag/shirt",
+    "wardrobe-tag/tank-top",
+  ],
 } as const satisfies Image

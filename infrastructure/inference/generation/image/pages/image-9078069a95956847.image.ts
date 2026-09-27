@@ -13,4 +13,10 @@ export const image9078069a95956847 = {
     "pose-tag/hand-on-face",
     "pose-tag/portrait",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

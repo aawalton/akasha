@@ -25,4 +25,10 @@ export const imageBa3af686dbc2e6c5 = {
     "setting-tag/candlelight",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/standing", "pose-tag/walking"],
+  wardrobeTags: [
+    "wardrobe-tag/shirt",
+    "wardrobe-tag/pants",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/boots",
+  ],
 } as const satisfies Image

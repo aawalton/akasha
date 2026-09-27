@@ -13,4 +13,5 @@ export const image4c37a0c790bc3d5f = {
     "setting-tag/night",
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono", "wardrobe-tag/nipples-visible"],
 } as const satisfies Image

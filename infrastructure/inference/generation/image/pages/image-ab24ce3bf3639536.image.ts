@@ -13,4 +13,5 @@ export const imageAb24ce3bf3639536 = {
     "pose-tag/masturbation",
     "pose-tag/looking-up",
   ],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

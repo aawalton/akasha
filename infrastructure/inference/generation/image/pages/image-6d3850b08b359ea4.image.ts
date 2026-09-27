@@ -18,4 +18,5 @@ export const image6d3850b08b359ea4 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/sports-bra"],
 } as const satisfies Image

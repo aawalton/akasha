@@ -13,4 +13,10 @@ export const image9b7dbf4b7cfa6b04 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/sleeveless",
+  ],
 } as const satisfies Image

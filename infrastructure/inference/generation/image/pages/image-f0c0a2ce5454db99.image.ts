@@ -20,4 +20,10 @@ export const imageF0c0a2ce5454db99 = {
     "pose-tag/holding-drink",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/cardigan",
+    "wardrobe-tag/t-shirt",
+    "wardrobe-tag/leggings",
+    "wardrobe-tag/sheet",
+  ],
 } as const satisfies Image

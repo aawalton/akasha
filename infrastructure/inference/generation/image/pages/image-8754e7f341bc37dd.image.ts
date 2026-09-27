@@ -13,4 +13,10 @@ export const image8754e7f341bc37dd = {
     "setting-tag/sky",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/high-neck",
+  ],
 } as const satisfies Image

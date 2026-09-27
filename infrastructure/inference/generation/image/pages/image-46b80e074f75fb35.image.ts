@@ -13,4 +13,10 @@ export const image46b80e074f75fb35 = {
     "pose-tag/standing",
     "pose-tag/profile",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

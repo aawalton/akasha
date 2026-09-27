@@ -18,4 +18,10 @@ export const imageA45dc2571cd0f079 = {
     "pose-tag/full-body",
     "pose-tag/serious-expression",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/tank-top",
+    "wardrobe-tag/jeans",
+    "wardrobe-tag/sneakers",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

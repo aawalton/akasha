@@ -9,4 +9,11 @@ export const image4cb8302c85d57211 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/underwater"],
   poseTags: ["pose-tag/side-by-side", "pose-tag/looking-at-viewer", "pose-tag/standing"],
+  wardrobeTags: [
+    "wardrobe-tag/tank-top",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/bra",
+    "wardrobe-tag/panties",
+  ],
 } as const satisfies Image

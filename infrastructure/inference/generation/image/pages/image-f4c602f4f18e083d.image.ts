@@ -23,4 +23,10 @@ export const imageF4c602f4f18e083d = {
     "pose-tag/smiling",
     "pose-tag/upper-body",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/tiara",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

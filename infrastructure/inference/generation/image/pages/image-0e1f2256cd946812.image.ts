@@ -13,4 +13,11 @@ export const image0e1f2256cd946812 = {
     "pose-tag/legs-spread",
     "pose-tag/kneeling",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/high-slit",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/bare-legs",
+  ],
 } as const satisfies Image

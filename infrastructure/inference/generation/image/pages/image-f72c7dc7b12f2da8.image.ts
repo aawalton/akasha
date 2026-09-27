@@ -8,4 +8,10 @@ export const imageF72c7dc7b12f2da8 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/bathing"],
+  wardrobeTags: [
+    "wardrobe-tag/partial-undress",
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

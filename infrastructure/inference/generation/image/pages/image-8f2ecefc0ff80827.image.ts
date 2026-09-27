@@ -14,4 +14,5 @@ export const image8f2ecefc0ff80827 = {
     "setting-tag/snow",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/back-view"],
+  wardrobeTags: ["wardrobe-tag/armor"],
 } as const satisfies Image

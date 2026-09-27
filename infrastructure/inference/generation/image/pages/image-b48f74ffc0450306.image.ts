@@ -9,4 +9,5 @@ export const imageB48f74ffc0450306 = {
   subjects: "F",
   settingTags: ["setting-tag/indoor", "setting-tag/cabin"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/body-paint"],
 } as const satisfies Image

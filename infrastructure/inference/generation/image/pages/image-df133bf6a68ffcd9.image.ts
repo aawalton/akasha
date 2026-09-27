@@ -9,4 +9,5 @@ export const imageDf133bf6a68ffcd9 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/cafe", "setting-tag/window", "setting-tag/indoor"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/deep-v-neck"],
 } as const satisfies Image

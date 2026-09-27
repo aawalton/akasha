@@ -14,4 +14,5 @@ export const imageCed5449f64c04cc8 = {
     "setting-tag/study",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/profile", "pose-tag/looking-down", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
 } as const satisfies Image

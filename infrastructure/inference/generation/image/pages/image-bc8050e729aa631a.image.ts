@@ -18,4 +18,5 @@ export const imageBc8050e729aa631a = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/top", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

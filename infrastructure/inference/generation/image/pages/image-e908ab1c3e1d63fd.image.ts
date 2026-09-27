@@ -20,4 +20,5 @@ export const imageE908ab1c3e1d63fd = {
     "setting-tag/water",
   ],
   poseTags: ["pose-tag/walking", "pose-tag/looking-back", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sweater", "wardrobe-tag/jeans"],
 } as const satisfies Image

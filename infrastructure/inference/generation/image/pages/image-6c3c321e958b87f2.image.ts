@@ -9,4 +9,5 @@ export const image6c3c321e958b87f2 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-down", "pose-tag/standing", "pose-tag/hands-clasped"],
+  wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/sheer", "wardrobe-tag/cleavage"],
 } as const satisfies Image

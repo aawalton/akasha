@@ -23,4 +23,10 @@ export const image73e3885c657c023c = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/sundress",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/spaghetti-straps",
+  ],
 } as const satisfies Image

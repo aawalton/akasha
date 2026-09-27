@@ -9,4 +9,11 @@ export const imageFaff18176c245b0e = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/hands-clasped", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/long-sleeves",
+    "wardrobe-tag/high-neck",
+    "wardrobe-tag/veil",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

@@ -8,4 +8,10 @@ export const imageAcc76e70a49636c5 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/campfire"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/headband",
+    "wardrobe-tag/bikini",
+    "wardrobe-tag/topless",
+  ],
 } as const satisfies Image

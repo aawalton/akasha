@@ -13,4 +13,5 @@ export const image69ae66a77a2ec54f = {
     "setting-tag/neon-lights",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/back-view"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

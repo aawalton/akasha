@@ -18,4 +18,5 @@ export const imageB92b57b18df5539c = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/tiara", "wardrobe-tag/veil"],
 } as const satisfies Image

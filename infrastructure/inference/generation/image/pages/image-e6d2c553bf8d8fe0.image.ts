@@ -16,4 +16,5 @@ export const imageE6d2c553bf8d8fe0 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/dimly-lit", "setting-tag/fog"],
   poseTags: ["pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/lingerie"],
 } as const satisfies Image

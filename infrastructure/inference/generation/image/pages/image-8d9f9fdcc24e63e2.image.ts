@@ -19,4 +19,5 @@ export const image8d9f9fdcc24e63e2 = {
     "pose-tag/arms-raised",
     "pose-tag/holding-weapon",
   ],
+  wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/gold-trim", "wardrobe-tag/jewelry"],
 } as const satisfies Image

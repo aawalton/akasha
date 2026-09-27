@@ -18,4 +18,5 @@ export const image7308ab7a31bc00f4 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/indoor", "setting-tag/study", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

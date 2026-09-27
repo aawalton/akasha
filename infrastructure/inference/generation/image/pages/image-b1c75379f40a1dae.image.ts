@@ -14,4 +14,5 @@ export const imageB1c75379f40a1dae = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt", "wardrobe-tag/suit"],
 } as const satisfies Image

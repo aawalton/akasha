@@ -19,4 +19,10 @@ export const imageAa98c21fdc8c3cde = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-dress",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/long-sleeves",
+    "wardrobe-tag/deep-v-neck",
+  ],
 } as const satisfies Image

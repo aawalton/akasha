@@ -19,4 +19,5 @@ export const image454f074b71d3c8e5 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

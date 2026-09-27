@@ -14,4 +14,10 @@ export const imageCb7865b44744f959 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/close-up",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/panties",
+    "wardrobe-tag/camisole",
+    "wardrobe-tag/bare-legs",
+  ],
 } as const satisfies Image

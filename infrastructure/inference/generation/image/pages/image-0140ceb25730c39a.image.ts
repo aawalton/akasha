@@ -19,4 +19,5 @@ export const image0140ceb25730c39a = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
   poseTags: ["pose-tag/standing", "pose-tag/playing-music", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/sundress", "wardrobe-tag/jewelry"],
 } as const satisfies Image

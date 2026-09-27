@@ -23,4 +23,5 @@ export const imageA99d9664f00fc912 = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/swimsuit"],
 } as const satisfies Image

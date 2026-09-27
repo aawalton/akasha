@@ -23,4 +23,10 @@ export const image04cfdecc22f91c78 = {
     "setting-tag/fog",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
+  wardrobeTags: [
+    "wardrobe-tag/vest",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/belt",
+    "wardrobe-tag/boots",
+  ],
 } as const satisfies Image

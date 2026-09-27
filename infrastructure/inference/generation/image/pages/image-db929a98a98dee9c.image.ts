@@ -29,4 +29,10 @@ export const imageDb929a98a98dee9c = {
     "pose-tag/smiling",
     "pose-tag/portrait",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sundress",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/deep-v-neck",
+  ],
 } as const satisfies Image

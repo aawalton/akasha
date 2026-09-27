@@ -8,4 +8,5 @@ export const imageDd2b80632ec71bbb = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/hair-accessory"],
 } as const satisfies Image

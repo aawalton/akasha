@@ -24,4 +24,10 @@ export const imageEa8d10fec303cdcf = {
     "setting-tag/window",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/lace",
+    "wardrobe-tag/bodysuit",
+    "wardrobe-tag/sheer",
+  ],
 } as const satisfies Image

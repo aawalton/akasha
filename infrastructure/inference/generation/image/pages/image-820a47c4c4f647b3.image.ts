@@ -18,4 +18,5 @@ export const image820a47c4c4f647b3 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/restaurant", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/silk", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

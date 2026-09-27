@@ -25,4 +25,5 @@ export const image98f0f2cfca3ff096 = {
   subjects: "F",
   settingTags: ["setting-tag/balcony", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/jewelry"],
 } as const satisfies Image

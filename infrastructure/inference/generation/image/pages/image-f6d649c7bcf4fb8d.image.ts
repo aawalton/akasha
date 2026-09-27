@@ -9,4 +9,5 @@ export const imageF6d649c7bcf4fb8d = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/camisole"],
 } as const satisfies Image

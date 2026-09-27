@@ -8,4 +8,5 @@ export const imageBcad26667a68b509 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry", "wardrobe-tag/barefoot"],
 } as const satisfies Image

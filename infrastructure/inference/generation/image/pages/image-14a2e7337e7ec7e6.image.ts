@@ -19,4 +19,10 @@ export const image14a2e7337e7ec7e6 = {
     "setting-tag/dimly-lit",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/spaghetti-straps",
+  ],
 } as const satisfies Image

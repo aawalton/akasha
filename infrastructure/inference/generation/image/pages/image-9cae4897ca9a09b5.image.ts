@@ -12,4 +12,5 @@ export const image9cae4897ca9a09b5 = {
     "setting-tag/plain-background",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/looking-back"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

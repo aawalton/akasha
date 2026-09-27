@@ -12,4 +12,5 @@ export const imageF47d0369a2405b78 = {
     "pose-tag/smiling",
     "pose-tag/arms-raised",
   ],
+  wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/jewelry", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

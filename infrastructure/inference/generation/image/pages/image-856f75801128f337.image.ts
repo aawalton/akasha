@@ -18,4 +18,10 @@ export const image856f75801128f337 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/castle", "setting-tag/outdoor"],
   poseTags: ["pose-tag/fighting", "pose-tag/working"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/high-slit",
+  ],
 } as const satisfies Image

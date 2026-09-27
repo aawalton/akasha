@@ -9,4 +9,9 @@ export const imageF9042dfe9175fbca = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
+  wardrobeTags: [
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/spaghetti-straps",
+    "wardrobe-tag/sleepwear",
+  ],
 } as const satisfies Image

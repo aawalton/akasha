@@ -9,4 +9,5 @@ export const imageF96354c6b001f771 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/museum", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt"],
 } as const satisfies Image

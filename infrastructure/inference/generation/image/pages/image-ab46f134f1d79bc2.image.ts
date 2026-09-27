@@ -14,4 +14,10 @@ export const imageAb46f134f1d79bc2 = {
     "pose-tag/holding-weapon",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/nude",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/belt",
+    "wardrobe-tag/boots",
+  ],
 } as const satisfies Image

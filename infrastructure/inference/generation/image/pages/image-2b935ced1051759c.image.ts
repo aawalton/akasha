@@ -14,4 +14,5 @@ export const image2b935ced1051759c = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/cabin", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/body-paint", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

@@ -9,4 +9,11 @@ export const imageEf69807dab7c2094 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/jacket",
+    "wardrobe-tag/tube-top",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/armor",
+  ],
 } as const satisfies Image

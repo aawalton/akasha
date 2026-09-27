@@ -13,4 +13,5 @@ export const image1c2beb767658d832 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/fighting", "pose-tag/standing", "pose-tag/holding-weapon"],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots", "wardrobe-tag/gloves"],
 } as const satisfies Image

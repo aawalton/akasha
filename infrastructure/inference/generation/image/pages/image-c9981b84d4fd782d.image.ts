@@ -25,4 +25,10 @@ export const imageC9981b84d4fd782d = {
   subjects: "F",
   settingTags: ["setting-tag/greenhouse", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/lace",
+    "wardrobe-tag/silk",
+  ],
 } as const satisfies Image

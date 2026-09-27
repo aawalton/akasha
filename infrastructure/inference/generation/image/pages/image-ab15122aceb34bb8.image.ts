@@ -19,4 +19,5 @@ export const imageAb15122aceb34bb8 = {
   subjects: "F",
   settingTags: ["setting-tag/dimly-lit", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/holding-lantern"],
+  wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

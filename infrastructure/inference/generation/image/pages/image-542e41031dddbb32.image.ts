@@ -18,4 +18,5 @@ export const image542e41031dddbb32 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/jewelry"],
 } as const satisfies Image

@@ -14,4 +14,9 @@ export const imageB6f49d8c0b1eb52c = {
     "pose-tag/looking-at-viewer",
     "pose-tag/close-up",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sleepwear",
+    "wardrobe-tag/crop-top",
+    "wardrobe-tag/spaghetti-straps",
+  ],
 } as const satisfies Image

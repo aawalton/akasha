@@ -18,4 +18,11 @@ export const image48ac7b246315bee0 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/castle", "setting-tag/rocks"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

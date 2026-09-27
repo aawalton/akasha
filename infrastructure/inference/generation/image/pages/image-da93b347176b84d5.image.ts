@@ -19,4 +19,5 @@ export const imageDa93b347176b84d5 = {
     "pose-tag/working",
     "pose-tag/fighting",
   ],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fur"],
 } as const satisfies Image

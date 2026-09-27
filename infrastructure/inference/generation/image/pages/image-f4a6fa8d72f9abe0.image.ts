@@ -13,4 +13,10 @@ export const imageF4a6fa8d72f9abe0 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
+  wardrobeTags: [
+    "wardrobe-tag/backless",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/partial-undress",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

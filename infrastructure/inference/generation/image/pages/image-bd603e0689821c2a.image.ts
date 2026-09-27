@@ -19,4 +19,5 @@ export const imageBd603e0689821c2a = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/bar", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/hat", "wardrobe-tag/silk"],
 } as const satisfies Image

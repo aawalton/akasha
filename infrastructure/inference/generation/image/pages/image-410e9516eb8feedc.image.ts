@@ -13,4 +13,10 @@ export const image410e9516eb8feedc = {
     "pose-tag/full-body",
     "pose-tag/serious-expression",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/crop-top",
+    "wardrobe-tag/shirt",
+    "wardrobe-tag/jeans",
+    "wardrobe-tag/sneakers",
+  ],
 } as const satisfies Image

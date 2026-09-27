@@ -18,4 +18,5 @@ export const image860b74b98e60d250 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/arms-raised"],
+  wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/headphones"],
 } as const satisfies Image

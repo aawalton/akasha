@@ -13,4 +13,5 @@ export const imageF934e737da42ec8b = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/looking-back", "pose-tag/reading", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

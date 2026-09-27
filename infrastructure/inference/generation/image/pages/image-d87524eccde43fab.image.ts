@@ -14,4 +14,9 @@ export const imageD87524eccde43fab = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/workshop"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-on-face", "pose-tag/close-up"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/tube-top",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

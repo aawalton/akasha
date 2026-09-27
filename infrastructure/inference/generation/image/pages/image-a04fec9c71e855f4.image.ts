@@ -14,4 +14,5 @@ export const imageA04fec9c71e855f4 = {
     "setting-tag/bedroom",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/lingerie", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

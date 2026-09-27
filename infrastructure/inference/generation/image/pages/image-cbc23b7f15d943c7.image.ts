@@ -9,4 +9,11 @@ export const imageCbc23b7f15d943c7 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/underwater", "setting-tag/beach", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

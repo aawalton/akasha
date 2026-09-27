@@ -13,4 +13,10 @@ export const imageF7fe8e0cb0de862f = {
     "pose-tag/upper-body",
     "pose-tag/front-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/bare-midriff",
+    "wardrobe-tag/armor",
+  ],
 } as const satisfies Image

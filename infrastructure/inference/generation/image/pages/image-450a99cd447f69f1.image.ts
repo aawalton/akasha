@@ -14,4 +14,5 @@ export const image450a99cd447f69f1 = {
     "setting-tag/candlelight",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

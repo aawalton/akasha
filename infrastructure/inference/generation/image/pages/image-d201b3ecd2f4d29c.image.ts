@@ -8,4 +8,5 @@ export const imageD201b3ecd2f4d29c = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/battlefield", "setting-tag/castle"],
   poseTags: ["pose-tag/fighting", "pose-tag/running"],
+  wardrobeTags: ["wardrobe-tag/armor"],
 } as const satisfies Image

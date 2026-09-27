@@ -19,4 +19,5 @@ export const image433224a3a9092558 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/topless"],
 } as const satisfies Image

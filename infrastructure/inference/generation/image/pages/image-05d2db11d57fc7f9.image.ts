@@ -14,4 +14,5 @@ export const image05d2db11d57fc7f9 = {
     "pose-tag/legs-spread",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

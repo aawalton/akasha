@@ -15,4 +15,5 @@ export const imageE0f2512734f4a5c6 = {
   subjects: "F",
   settingTags: ["setting-tag/indoor", "setting-tag/bathroom", "setting-tag/pool"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk"],
 } as const satisfies Image

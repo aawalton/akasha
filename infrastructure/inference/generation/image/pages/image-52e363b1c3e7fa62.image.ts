@@ -13,4 +13,10 @@ export const image52e363b1c3e7fa62 = {
     "pose-tag/curled-up",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/bare-legs",
+    "wardrobe-tag/barefoot",
+  ],
 } as const satisfies Image

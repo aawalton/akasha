@@ -15,4 +15,5 @@ export const image081306e684dcc9be = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/arcade", "setting-tag/indoor", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/skirt"],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const imageBada79d16325bdbe = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/cowgirl", "pose-tag/reclining", "pose-tag/face-to-face"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

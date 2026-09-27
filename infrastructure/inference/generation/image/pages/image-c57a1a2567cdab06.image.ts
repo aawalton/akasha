@@ -14,4 +14,5 @@ export const imageC57a1a2567cdab06 = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/profile", "pose-tag/sitting", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/loungewear", "wardrobe-tag/sleepwear", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

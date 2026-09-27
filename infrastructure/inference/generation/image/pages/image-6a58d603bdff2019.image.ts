@@ -13,4 +13,10 @@ export const image6a58d603bdff2019 = {
     "pose-tag/arms-raised",
     "pose-tag/front-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/boots",
+    "wardrobe-tag/gloves",
+  ],
 } as const satisfies Image

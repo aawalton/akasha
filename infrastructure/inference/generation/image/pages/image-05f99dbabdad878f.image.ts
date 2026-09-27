@@ -8,4 +8,5 @@ export const image05f99dbabdad878f = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/kissing", "pose-tag/lying-down", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

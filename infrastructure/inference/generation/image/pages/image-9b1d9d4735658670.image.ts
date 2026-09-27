@@ -24,4 +24,5 @@ export const image9b1d9d4735658670 = {
     "setting-tag/balcony",
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-back", "pose-tag/curled-up"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/towel", "wardrobe-tag/partial-undress"],
 } as const satisfies Image

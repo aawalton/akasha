@@ -13,4 +13,10 @@ export const image562ae9015fad6f8f = {
     "pose-tag/arms-crossed",
     "pose-tag/legs-crossed",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/bare-legs",
+  ],
 } as const satisfies Image

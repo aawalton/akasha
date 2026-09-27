@@ -9,4 +9,11 @@ export const imageA48aee1152dafa0d = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/sky", "setting-tag/city"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/high-slit",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

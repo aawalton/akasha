@@ -8,4 +8,5 @@ export const image6ba99cd4da1c3ac8 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

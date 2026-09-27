@@ -24,4 +24,5 @@ export const image1cecc845afdb013e = {
     "setting-tag/candlelight",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleepwear"],
 } as const satisfies Image

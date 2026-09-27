@@ -15,4 +15,5 @@ export const imageDee54238351213ba = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/pants"],
 } as const satisfies Image

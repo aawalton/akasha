@@ -19,4 +19,5 @@ export const imageDab838eca87d0c62 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/dungeon", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/back-view"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/pants", "wardrobe-tag/boots"],
 } as const satisfies Image

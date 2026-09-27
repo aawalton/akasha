@@ -18,4 +18,5 @@ export const imageBdf2e24078988ebd = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/casual-wear"],
 } as const satisfies Image

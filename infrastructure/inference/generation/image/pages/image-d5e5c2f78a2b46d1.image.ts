@@ -19,4 +19,5 @@ export const imageD5e5c2f78a2b46d1 = {
     "pose-tag/hand-in-hair",
     "pose-tag/profile",
   ],
+  wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/sheer"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const imageCebd85f8b3ac69b5 = {
   subjects: "F",
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
+  wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/skirt"],
 } as const satisfies Image

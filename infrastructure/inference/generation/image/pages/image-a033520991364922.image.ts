@@ -13,4 +13,10 @@ export const imageA033520991364922 = {
     "pose-tag/knees-up",
     "pose-tag/sitting",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

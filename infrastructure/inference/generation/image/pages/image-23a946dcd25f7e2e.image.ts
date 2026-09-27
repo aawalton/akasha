@@ -19,4 +19,5 @@ export const image23a946dcd25f7e2e = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/party", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/deep-v-neck", "wardrobe-tag/suit"],
 } as const satisfies Image

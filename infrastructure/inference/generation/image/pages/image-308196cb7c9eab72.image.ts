@@ -13,4 +13,9 @@ export const image308196cb7c9eab72 = {
     "pose-tag/legs-up",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/halter-top",
+    "wardrobe-tag/partial-undress",
+    "wardrobe-tag/barefoot",
+  ],
 } as const satisfies Image

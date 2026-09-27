@@ -21,4 +21,10 @@ export const image13588394539b78e6 = {
     "pose-tag/smiling",
     "pose-tag/front-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

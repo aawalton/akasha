@@ -9,4 +9,5 @@ export const image20b2691bdc21a7fc = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/dimly-lit", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/nipples-visible"],
 } as const satisfies Image

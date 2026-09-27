@@ -14,4 +14,5 @@ export const imageFda6c3166f1e6ddc = {
     "pose-tag/standing",
     "pose-tag/holding-clothing",
   ],
+  wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/robe"],
 } as const satisfies Image

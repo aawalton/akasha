@@ -14,4 +14,10 @@ export const image2f9fe9a36b1b8c59 = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/high-slit",
+    "wardrobe-tag/backless",
+    "wardrobe-tag/headband",
+  ],
 } as const satisfies Image

@@ -13,4 +13,10 @@ export const imageCdf7fd2bf0aaa248 = {
     "pose-tag/lying-down",
     "pose-tag/embracing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/bra",
+    "wardrobe-tag/panties",
+    "wardrobe-tag/wet",
+  ],
 } as const satisfies Image

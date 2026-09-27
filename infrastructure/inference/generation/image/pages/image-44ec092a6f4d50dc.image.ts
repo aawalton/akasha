@@ -24,4 +24,10 @@ export const image44ec092a6f4d50dc = {
     "setting-tag/rocks",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/gown",
+  ],
 } as const satisfies Image

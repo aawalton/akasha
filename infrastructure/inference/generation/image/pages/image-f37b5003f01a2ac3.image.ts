@@ -14,4 +14,9 @@ export const imageF37b5003f01a2ac3 = {
     "pose-tag/profile",
     "pose-tag/smiling",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/spaghetti-straps",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

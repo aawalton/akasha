@@ -18,4 +18,5 @@ export const image8712ecac220c48b9 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/topless", "wardrobe-tag/suit"],
 } as const satisfies Image

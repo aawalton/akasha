@@ -18,4 +18,5 @@ export const imageF04d2dcb186b7b68 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/canyon"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
+  wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/halter-top", "wardrobe-tag/headphones"],
 } as const satisfies Image

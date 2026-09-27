@@ -23,4 +23,10 @@ export const image15ccd585c188b96e = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/t-shirt",
+    "wardrobe-tag/open-shirt",
+  ],
 } as const satisfies Image

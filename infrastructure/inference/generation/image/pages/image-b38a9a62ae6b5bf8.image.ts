@@ -18,4 +18,10 @@ export const imageB38a9a62ae6b5bf8 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: [
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/strapless",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/bikini",
+  ],
 } as const satisfies Image

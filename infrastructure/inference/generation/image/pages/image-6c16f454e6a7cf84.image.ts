@@ -25,4 +25,5 @@ export const image6c16f454e6a7cf84 = {
   subjects: "F",
   settingTags: ["setting-tag/studio", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/tank-top"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageE5525a315c4e2096 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/close-up", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/partial-undress"],
 } as const satisfies Image

@@ -8,4 +8,5 @@ export const imageFad39e7d704fa759 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/sitting"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

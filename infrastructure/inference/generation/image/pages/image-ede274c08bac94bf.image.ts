@@ -14,4 +14,5 @@ export const imageEde274c08bac94bf = {
     "setting-tag/town",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
+  wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/skirt", "wardrobe-tag/kimono"],
 } as const satisfies Image

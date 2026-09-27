@@ -14,4 +14,10 @@ export const image2e88586cfa19c411 = {
     "pose-tag/hands-behind-head",
     "pose-tag/close-up",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/cleavage",
+  ],
 } as const satisfies Image

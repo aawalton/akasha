@@ -14,4 +14,10 @@ export const image82df91ae6fdd50d7 = {
     "setting-tag/park",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/cowgirl", "pose-tag/sitting"],
+  wardrobeTags: [
+    "wardrobe-tag/tunic",
+    "wardrobe-tag/pants",
+    "wardrobe-tag/cloak",
+    "wardrobe-tag/armor",
+  ],
 } as const satisfies Image

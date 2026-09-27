@@ -14,4 +14,11 @@ export const image955cfec93f2295e2 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/legs-crossed",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/bra",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/robe",
+  ],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const imageEf2d3bc1174cce96 = {
     "setting-tag/rooftop",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/shirt", "wardrobe-tag/jeans"],
 } as const satisfies Image

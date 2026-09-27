@@ -8,4 +8,5 @@ export const imageD96fa546bd7972ff = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/underwater", "setting-tag/ocean", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
 } as const satisfies Image

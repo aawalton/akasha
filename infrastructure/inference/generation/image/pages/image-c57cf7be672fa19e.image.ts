@@ -10,4 +10,11 @@ export const imageC57cf7be672fa19e = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/tiara",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/off-shoulder",
+  ],
 } as const satisfies Image

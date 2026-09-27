@@ -14,4 +14,5 @@ export const image602cd4001719bafe = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/jacket", "wardrobe-tag/shirt"],
 } as const satisfies Image

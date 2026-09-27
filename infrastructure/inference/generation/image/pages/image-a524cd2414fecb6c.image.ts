@@ -13,4 +13,11 @@ export const imageA524cd2414fecb6c = {
     "pose-tag/close-up",
     "pose-tag/upper-body",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/cleavage",
+    "wardrobe-tag/harness",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

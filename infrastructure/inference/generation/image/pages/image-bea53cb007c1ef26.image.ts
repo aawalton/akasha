@@ -9,4 +9,5 @@ export const imageBea53cb007c1ef26 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/river", "setting-tag/rain", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/boots", "wardrobe-tag/wig"],
 } as const satisfies Image

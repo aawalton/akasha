@@ -18,4 +18,5 @@ export const image5ceea8a50f316d52 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/cafe", "setting-tag/indoor", "setting-tag/city"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/holding-drink"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shirt"],
 } as const satisfies Image

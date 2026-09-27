@@ -18,4 +18,11 @@ export const image17261062933bde6b = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/hallway", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/velvet",
+    "wardrobe-tag/high-heels",
+    "wardrobe-tag/choker",
+    "wardrobe-tag/cloak",
+  ],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const imageAc16dae2636f9025 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
+  wardrobeTags: ["wardrobe-tag/veil", "wardrobe-tag/sunglasses", "wardrobe-tag/skirt"],
 } as const satisfies Image

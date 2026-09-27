@@ -15,4 +15,10 @@ export const image192db3be8fceb38e = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/mountains", "setting-tag/outdoor", "setting-tag/rocks"],
   poseTags: ["pose-tag/squatting", "pose-tag/reaching"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/sports-bra",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/headband",
+  ],
 } as const satisfies Image

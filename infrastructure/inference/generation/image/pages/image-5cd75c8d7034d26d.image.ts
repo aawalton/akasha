@@ -14,4 +14,5 @@ export const image5cd75c8d7034d26d = {
     "setting-tag/pool",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-in-hair", "pose-tag/leaning"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/towel"],
 } as const satisfies Image

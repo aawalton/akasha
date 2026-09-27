@@ -21,4 +21,5 @@ export const imageBbd749cc57e39c61 = {
     "pose-tag/close-up",
     "pose-tag/leaning-forward",
   ],
+  wardrobeTags: ["wardrobe-tag/tank-top"],
 } as const satisfies Image

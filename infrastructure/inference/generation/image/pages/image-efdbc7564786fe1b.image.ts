@@ -14,4 +14,5 @@ export const imageEfdbc7564786fe1b = {
     "setting-tag/candlelight",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/deep-v-neck"],
 } as const satisfies Image

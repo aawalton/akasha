@@ -13,4 +13,11 @@ export const image471ba169080abfa8 = {
     "pose-tag/hands-clasped",
     "pose-tag/sitting",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/tiara",
+  ],
 } as const satisfies Image

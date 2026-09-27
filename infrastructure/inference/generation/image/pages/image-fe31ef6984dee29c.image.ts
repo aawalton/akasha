@@ -18,4 +18,5 @@ export const imageFe31ef6984dee29c = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/kitchen", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/apron", "wardrobe-tag/puffed-sleeves"],
 } as const satisfies Image

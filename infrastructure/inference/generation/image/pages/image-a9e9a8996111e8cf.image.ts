@@ -13,4 +13,10 @@ export const imageA9e9a8996111e8cf = {
     "setting-tag/castle",
   ],
   poseTags: ["pose-tag/walking", "pose-tag/cowgirl"],
+  wardrobeTags: [
+    "wardrobe-tag/robe",
+    "wardrobe-tag/cloak",
+    "wardrobe-tag/hat",
+    "wardrobe-tag/fully-clothed",
+  ],
 } as const satisfies Image

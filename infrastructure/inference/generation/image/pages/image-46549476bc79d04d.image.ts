@@ -19,4 +19,5 @@ export const image46549476bc79d04d = {
     "pose-tag/profile",
     "pose-tag/portrait",
   ],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans"],
 } as const satisfies Image

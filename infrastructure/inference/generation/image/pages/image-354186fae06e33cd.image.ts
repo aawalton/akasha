@@ -9,4 +9,5 @@ export const image354186fae06e33cd = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
+  wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/deep-v-neck"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image23286950ebbdd84d = {
     "pose-tag/looking-at-viewer",
     "pose-tag/head-tilt",
   ],
+  wardrobeTags: ["wardrobe-tag/long-sleeves"],
 } as const satisfies Image

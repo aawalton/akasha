@@ -23,4 +23,10 @@ export const imageD859201adf3093a9 = {
     "setting-tag/balcony",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

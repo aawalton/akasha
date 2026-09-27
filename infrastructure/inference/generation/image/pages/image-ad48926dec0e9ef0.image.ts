@@ -18,4 +18,5 @@ export const imageAd48926dec0e9ef0 = {
     "pose-tag/lying-on-stomach",
     "pose-tag/back-view",
   ],
+  wardrobeTags: ["wardrobe-tag/nude"],
 } as const satisfies Image

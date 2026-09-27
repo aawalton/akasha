@@ -16,4 +16,5 @@ export const imageAd2b941d8a3612fe = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
+  wardrobeTags: ["wardrobe-tag/shirt"],
 } as const satisfies Image

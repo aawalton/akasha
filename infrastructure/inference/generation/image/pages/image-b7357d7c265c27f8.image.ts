@@ -14,4 +14,5 @@ export const imageB7357d7c265c27f8 = {
     "setting-tag/library",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/sitting", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/top"],
 } as const satisfies Image

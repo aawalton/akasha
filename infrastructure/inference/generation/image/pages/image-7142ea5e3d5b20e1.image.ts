@@ -14,4 +14,5 @@ export const image7142ea5e3d5b20e1 = {
     "setting-tag/city",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/serious-expression"],
+  wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/sheet"],
 } as const satisfies Image

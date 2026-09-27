@@ -13,4 +13,5 @@ export const imageF638e630cfb24bcd = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/walking", "pose-tag/looking-back", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/pants", "wardrobe-tag/boots"],
 } as const satisfies Image

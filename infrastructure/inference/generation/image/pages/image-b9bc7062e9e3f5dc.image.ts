@@ -13,4 +13,10 @@ export const imageB9bc7062e9e3f5dc = {
     "pose-tag/hand-on-face",
     "pose-tag/smiling",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/camisole",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/body-paint",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

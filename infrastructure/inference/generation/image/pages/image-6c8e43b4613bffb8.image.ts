@@ -32,4 +32,5 @@ export const image6c8e43b4613bffb8 = {
     "pose-tag/hand-in-hair",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/cleavage", "wardrobe-tag/wet"],
 } as const satisfies Image

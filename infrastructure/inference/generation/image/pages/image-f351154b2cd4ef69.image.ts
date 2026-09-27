@@ -19,4 +19,9 @@ export const imageF351154b2cd4ef69 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: [
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/partial-undress",
+  ],
 } as const satisfies Image

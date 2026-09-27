@@ -9,4 +9,9 @@ export const imageBaef2aa5a66771bc = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/eyes-closed", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/nipples-visible",
+  ],
 } as const satisfies Image

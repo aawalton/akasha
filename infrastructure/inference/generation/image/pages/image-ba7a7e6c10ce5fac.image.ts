@@ -24,4 +24,5 @@ export const imageBa7a7e6c10ce5fac = {
     "setting-tag/neon-lights",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top", "wardrobe-tag/belt"],
 } as const satisfies Image

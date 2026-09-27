@@ -14,4 +14,5 @@ export const imageDafed0dc61a725b1 = {
     "pose-tag/hands-on-chest",
     "pose-tag/holding-clothing",
   ],
+  wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
 } as const satisfies Image

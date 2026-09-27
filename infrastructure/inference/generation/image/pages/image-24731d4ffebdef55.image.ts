@@ -19,4 +19,5 @@ export const image24731d4ffebdef55 = {
     "setting-tag/ruins",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/gown"],
 } as const satisfies Image

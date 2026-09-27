@@ -9,4 +9,10 @@ export const imageAdbec242acb03306 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/water", "setting-tag/pool"],
   poseTags: ["pose-tag/looking-back"],
+  wardrobeTags: [
+    "wardrobe-tag/partial-undress",
+    "wardrobe-tag/wet",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/armor",
+  ],
 } as const satisfies Image

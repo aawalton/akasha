@@ -8,4 +8,5 @@ export const image635eea2820d33b09 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/headphones"],
 } as const satisfies Image

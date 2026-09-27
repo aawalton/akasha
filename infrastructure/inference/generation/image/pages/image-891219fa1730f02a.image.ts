@@ -13,4 +13,5 @@ export const image891219fa1730f02a = {
     "setting-tag/sky",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/silk"],
 } as const satisfies Image

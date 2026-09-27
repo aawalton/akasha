@@ -14,4 +14,10 @@ export const imageF09e1e54f8c2f36a = {
     "pose-tag/smiling",
     "pose-tag/standing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/jacket",
+    "wardrobe-tag/jeans",
+    "wardrobe-tag/jewelry",
+    "wardrobe-tag/casual-wear",
+  ],
 } as const satisfies Image

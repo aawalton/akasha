@@ -13,4 +13,10 @@ export const image0e9a3a9e310548f9 = {
     "setting-tag/night",
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

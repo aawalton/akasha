@@ -13,4 +13,10 @@ export const image255710d42e89879d = {
     "pose-tag/arms-raised",
     "pose-tag/standing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/backless",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/writing-on-skin",
+  ],
 } as const satisfies Image

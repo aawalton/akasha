@@ -13,4 +13,5 @@ export const imageF1f66e1dbdf52ec6 = {
     "setting-tag/pool",
   ],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/wet", "wardrobe-tag/swimsuit"],
 } as const satisfies Image

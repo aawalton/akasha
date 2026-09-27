@@ -19,4 +19,9 @@ export const image5f39971de4a64cd8 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-away"],
+  wardrobeTags: [
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/sweater",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

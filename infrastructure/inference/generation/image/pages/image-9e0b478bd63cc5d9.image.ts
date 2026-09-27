@@ -13,4 +13,10 @@ export const image9e0b478bd63cc5d9 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back"],
+  wardrobeTags: [
+    "wardrobe-tag/topless",
+    "wardrobe-tag/wet",
+    "wardrobe-tag/towel",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

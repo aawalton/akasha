@@ -14,4 +14,5 @@ export const image65e6068f02f33abb = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/sweater"],
 } as const satisfies Image

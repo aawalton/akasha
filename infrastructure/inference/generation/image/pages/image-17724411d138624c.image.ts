@@ -18,4 +18,9 @@ export const image17724411d138624c = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/nipples-visible",
+  ],
 } as const satisfies Image

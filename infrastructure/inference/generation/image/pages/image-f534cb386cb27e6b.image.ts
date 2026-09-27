@@ -13,4 +13,10 @@ export const imageF534cb386cb27e6b = {
     "setting-tag/rocks",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/hand-in-hair", "pose-tag/looking-up"],
+  wardrobeTags: [
+    "wardrobe-tag/barefoot",
+    "wardrobe-tag/panties",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/nude",
+  ],
 } as const satisfies Image

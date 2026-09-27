@@ -19,4 +19,9 @@ export const image549392866a854d22 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/hot-spring", "setting-tag/indoor", "setting-tag/spa"],
   poseTags: ["pose-tag/sitting", "pose-tag/side-by-side", "pose-tag/looking-away"],
+  wardrobeTags: [
+    "wardrobe-tag/towel",
+    "wardrobe-tag/partial-undress",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

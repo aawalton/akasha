@@ -23,4 +23,5 @@ export const image7625a94b3b0e84de = {
     "setting-tag/autumn",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/shorts"],
 } as const satisfies Image

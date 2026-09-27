@@ -20,4 +20,5 @@ export const image7f87eef43a1fd329 = {
     "setting-tag/outdoor",
   ],
   poseTags: ["pose-tag/smiling", "pose-tag/hand-on-face", "pose-tag/sitting"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

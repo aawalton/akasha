@@ -10,4 +10,5 @@ export const image002a479ca8547c1d = {
   subjects: "F",
   relationshipLevel: "closeness-level/level-3",
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

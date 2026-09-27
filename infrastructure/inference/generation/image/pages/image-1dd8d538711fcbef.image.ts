@@ -13,4 +13,10 @@ export const image1dd8d538711fcbef = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/sleeveless",
+  ],
 } as const satisfies Image

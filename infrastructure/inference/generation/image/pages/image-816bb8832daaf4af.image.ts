@@ -24,4 +24,10 @@ export const image816bb8832daaf4af = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/spaghetti-straps",
+  ],
 } as const satisfies Image

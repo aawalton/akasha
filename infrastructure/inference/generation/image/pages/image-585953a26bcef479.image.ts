@@ -12,4 +12,5 @@ export const image585953a26bcef479 = {
     "setting-tag/plain-background",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
+  wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/bare-legs"],
 } as const satisfies Image

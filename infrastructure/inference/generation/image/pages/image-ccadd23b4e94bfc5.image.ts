@@ -24,4 +24,5 @@ export const imageCcadd23b4e94bfc5 = {
     "pose-tag/profile",
     "pose-tag/eyes-closed",
   ],
+  wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
 } as const satisfies Image

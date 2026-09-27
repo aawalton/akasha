@@ -14,4 +14,5 @@ export const imageDa99e97bba95ec19 = {
     "pose-tag/hands-behind-head",
     "pose-tag/close-up",
   ],
+  wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image

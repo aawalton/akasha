@@ -9,4 +9,11 @@ export const image16632596a037616a = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/library", "setting-tag/study"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/halter-top",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/stockings",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/garter-belt",
+  ],
 } as const satisfies Image

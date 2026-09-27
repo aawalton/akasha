@@ -24,4 +24,10 @@ export const image28d76b34cf62bb37 = {
     "setting-tag/city-street",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/cleavage",
+    "wardrobe-tag/sheer",
+  ],
 } as const satisfies Image

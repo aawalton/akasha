@@ -27,4 +27,5 @@ export const image6712b1b5ee41db94 = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sheer", "wardrobe-tag/headphones"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image6e96605279ec0588 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/dock", "setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
 } as const satisfies Image

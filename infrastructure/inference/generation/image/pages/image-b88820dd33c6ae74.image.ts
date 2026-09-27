@@ -23,4 +23,11 @@ export const imageB88820dd33c6ae74 = {
     "setting-tag/daytime",
   ],
   poseTags: ["pose-tag/lying-down", "pose-tag/reclining"],
+  wardrobeTags: [
+    "wardrobe-tag/sundress",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/sunglasses",
+    "wardrobe-tag/sneakers",
+    "wardrobe-tag/socks",
+  ],
 } as const satisfies Image

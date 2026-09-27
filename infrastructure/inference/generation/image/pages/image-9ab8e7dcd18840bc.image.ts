@@ -19,4 +19,5 @@ export const image9ab8e7dcd18840bc = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/topless", "wardrobe-tag/jeans"],
 } as const satisfies Image

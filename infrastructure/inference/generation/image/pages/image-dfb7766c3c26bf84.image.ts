@@ -13,4 +13,5 @@ export const imageDfb7766c3c26bf84 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/bathing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
 } as const satisfies Image

@@ -19,4 +19,11 @@ export const image7f76a1c5b30c7ba7 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/stage", "setting-tag/studio", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-hip", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/crop-top",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/jacket",
+    "wardrobe-tag/headphones",
+    "wardrobe-tag/goggles",
+  ],
 } as const satisfies Image

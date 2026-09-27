@@ -13,4 +13,5 @@ export const imageC91e913625890b1d = {
     "setting-tag/snow",
   ],
   poseTags: ["pose-tag/walking", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak", "wardrobe-tag/boots"],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const image93de49496813c5fa = {
     "pose-tag/profile",
     "pose-tag/back-view",
   ],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/qipao", "wardrobe-tag/hair-accessory"],
 } as const satisfies Image

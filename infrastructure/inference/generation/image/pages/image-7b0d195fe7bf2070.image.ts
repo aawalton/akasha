@@ -18,4 +18,10 @@ export const image7b0d195fe7bf2070 = {
     "pose-tag/standing",
     "pose-tag/upper-body",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/high-neck",
+    "wardrobe-tag/writing-on-skin",
+  ],
 } as const satisfies Image

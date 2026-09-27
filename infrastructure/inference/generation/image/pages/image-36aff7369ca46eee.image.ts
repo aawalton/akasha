@@ -19,4 +19,5 @@ export const image36aff7369ca46eee = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/arms-raised", "pose-tag/looking-up"],
+  wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/sleepwear"],
 } as const satisfies Image

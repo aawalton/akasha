@@ -20,4 +20,5 @@ export const image3768cb69978a3a87 = {
     "setting-tag/beach",
   ],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

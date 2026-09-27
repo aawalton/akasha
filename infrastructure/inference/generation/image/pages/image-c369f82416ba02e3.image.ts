@@ -14,4 +14,9 @@ export const imageC369f82416ba02e3 = {
     "pose-tag/smiling",
     "pose-tag/reclining",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/nipples-visible",
+  ],
 } as const satisfies Image

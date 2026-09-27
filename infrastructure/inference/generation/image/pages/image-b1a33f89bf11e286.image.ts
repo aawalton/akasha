@@ -14,4 +14,10 @@ export const imageB1a33f89bf11e286 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/standing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/cleavage",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

@@ -29,4 +29,10 @@ export const image9e97733f7fecd80c = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/squatting", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/sports-bra",
+    "wardrobe-tag/shorts",
+    "wardrobe-tag/headband",
+    "wardrobe-tag/barefoot",
+  ],
 } as const satisfies Image

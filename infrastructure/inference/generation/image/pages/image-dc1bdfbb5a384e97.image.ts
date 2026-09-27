@@ -13,4 +13,5 @@ export const imageDc1bdfbb5a384e97 = {
     "setting-tag/rooftop",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/cleavage"],
 } as const satisfies Image

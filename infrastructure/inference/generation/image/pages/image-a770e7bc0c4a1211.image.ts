@@ -13,4 +13,9 @@ export const imageA770e7bc0c4a1211 = {
     "pose-tag/arms-raised",
     "pose-tag/standing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

@@ -23,4 +23,5 @@ export const image191a4dc4db53621f = {
     "setting-tag/library",
   ],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/sheet"],
 } as const satisfies Image

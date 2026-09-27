@@ -19,4 +19,5 @@ export const imageDc53e6873a888587 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-away", "pose-tag/hands-on-chest"],
+  wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweater"],
 } as const satisfies Image

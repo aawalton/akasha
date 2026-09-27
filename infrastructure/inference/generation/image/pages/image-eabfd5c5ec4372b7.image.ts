@@ -9,4 +9,5 @@ export const imageEabfd5c5ec4372b7 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/sky"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/robe", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

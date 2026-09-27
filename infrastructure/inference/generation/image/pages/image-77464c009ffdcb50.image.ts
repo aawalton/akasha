@@ -13,4 +13,10 @@ export const image77464c009ffdcb50 = {
     "setting-tag/beach",
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/walking", "pose-tag/profile"],
+  wardrobeTags: [
+    "wardrobe-tag/coat",
+    "wardrobe-tag/crop-top",
+    "wardrobe-tag/leggings",
+    "wardrobe-tag/bare-midriff",
+  ],
 } as const satisfies Image

@@ -13,4 +13,5 @@ export const image8b5b7216fbd3f9dc = {
     "setting-tag/forest",
   ],
   poseTags: ["pose-tag/walking", "pose-tag/back-view"],
+  wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/jeans", "wardrobe-tag/backpack"],
 } as const satisfies Image

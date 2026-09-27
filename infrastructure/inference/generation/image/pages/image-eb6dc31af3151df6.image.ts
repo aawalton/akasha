@@ -18,4 +18,10 @@ export const imageEb6dc31af3151df6 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/city-street", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/walking", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/high-heels",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

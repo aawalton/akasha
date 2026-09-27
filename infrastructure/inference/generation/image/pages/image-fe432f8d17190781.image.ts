@@ -15,4 +15,5 @@ export const imageFe432f8d17190781 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/tube-top"],
 } as const satisfies Image

@@ -8,4 +8,10 @@ export const image0fedad65ebd577b2 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/battlefield", "setting-tag/night"],
   poseTags: ["pose-tag/fighting", "pose-tag/back-view"],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/bodysuit",
+    "wardrobe-tag/gloves",
+    "wardrobe-tag/boots",
+  ],
 } as const satisfies Image

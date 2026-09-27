@@ -10,4 +10,5 @@ export const image387c68f41f1b01cc = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/jewelry"],
 } as const satisfies Image

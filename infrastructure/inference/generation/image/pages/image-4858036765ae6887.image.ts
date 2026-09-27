@@ -18,4 +18,10 @@ export const image4858036765ae6887 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio", "setting-tag/night", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/headphones",
+    "wardrobe-tag/sheer-dress",
+    "wardrobe-tag/deep-v-neck",
+    "wardrobe-tag/long-sleeves",
+  ],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const imageFd30eadd626a852f = {
     "setting-tag/nature",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/sleeveless"],
 } as const satisfies Image

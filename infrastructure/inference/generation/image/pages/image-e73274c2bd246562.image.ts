@@ -14,4 +14,10 @@ export const imageE73274c2bd246562 = {
     "setting-tag/neon-lights",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: [
+    "wardrobe-tag/jacket",
+    "wardrobe-tag/crop-top",
+    "wardrobe-tag/jeans",
+    "wardrobe-tag/jewelry",
+  ],
 } as const satisfies Image

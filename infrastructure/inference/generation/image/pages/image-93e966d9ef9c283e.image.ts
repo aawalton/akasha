@@ -18,4 +18,10 @@ export const image93e966d9ef9c283e = {
     "pose-tag/full-body",
     "pose-tag/serious-expression",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/jacket",
+    "wardrobe-tag/t-shirt",
+    "wardrobe-tag/jeans",
+    "wardrobe-tag/sneakers",
+  ],
 } as const satisfies Image

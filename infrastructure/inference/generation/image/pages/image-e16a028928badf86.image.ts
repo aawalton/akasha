@@ -14,4 +14,5 @@ export const imageE16a028928badf86 = {
     "pose-tag/eyes-closed",
     "pose-tag/holding-clothing",
   ],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/sheet"],
 } as const satisfies Image

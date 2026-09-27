@@ -14,4 +14,5 @@ export const image299732a3fc47d466 = {
     "setting-tag/dimly-lit",
   ],
   poseTags: ["pose-tag/profile", "pose-tag/sitting", "pose-tag/looking-away"],
+  wardrobeTags: ["wardrobe-tag/shirt"],
 } as const satisfies Image

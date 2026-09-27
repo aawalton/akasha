@@ -19,4 +19,5 @@ export const imageC97cfa670e83bb0a = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/hot-spring", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/sitting", "pose-tag/chatting", "pose-tag/face-to-face"],
+  wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

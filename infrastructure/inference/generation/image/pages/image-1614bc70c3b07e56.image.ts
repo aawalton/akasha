@@ -18,4 +18,10 @@ export const image1614bc70c3b07e56 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/stage", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
+  wardrobeTags: [
+    "wardrobe-tag/gown",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/silk",
+  ],
 } as const satisfies Image

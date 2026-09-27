@@ -14,4 +14,5 @@ export const imageD808c26b3497856b = {
     "pose-tag/looking-back",
     "pose-tag/holding-weapon",
   ],
+  wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/armor", "wardrobe-tag/hair-accessory"],
 } as const satisfies Image

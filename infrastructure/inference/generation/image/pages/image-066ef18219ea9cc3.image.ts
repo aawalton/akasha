@@ -10,4 +10,5 @@ export const image066ef18219ea9cc3 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/pants", "wardrobe-tag/shirt"],
 } as const satisfies Image

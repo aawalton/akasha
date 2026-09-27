@@ -29,4 +29,5 @@ export const image95ded653d526c4d0 = {
     "pose-tag/smiling",
     "pose-tag/portrait",
   ],
+  wardrobeTags: ["wardrobe-tag/kimono"],
 } as const satisfies Image

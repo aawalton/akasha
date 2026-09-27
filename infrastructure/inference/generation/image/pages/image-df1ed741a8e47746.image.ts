@@ -8,4 +8,5 @@ export const imageDf1ed741a8e47746 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/rain"],
   poseTags: ["pose-tag/looking-up", "pose-tag/close-up", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/glitter-makeup"],
 } as const satisfies Image

@@ -14,4 +14,11 @@ export const image7e5e9e1883efcd42 = {
     "pose-tag/smiling",
     "pose-tag/embracing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

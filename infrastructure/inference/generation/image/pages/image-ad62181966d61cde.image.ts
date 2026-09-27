@@ -18,4 +18,10 @@ export const imageAd62181966d61cde = {
     "pose-tag/back-view",
     "pose-tag/profile",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/hair-accessory",
+  ],
 } as const satisfies Image

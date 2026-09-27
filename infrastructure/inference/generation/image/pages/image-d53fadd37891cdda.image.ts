@@ -18,4 +18,5 @@ export const imageD53fadd37891cdda = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/standing"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/top", "wardrobe-tag/jewelry"],
 } as const satisfies Image

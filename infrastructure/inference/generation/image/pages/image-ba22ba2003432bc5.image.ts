@@ -24,4 +24,5 @@ export const imageBa22ba2003432bc5 = {
     "pose-tag/portrait",
     "pose-tag/upper-body",
   ],
+  wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/deep-v-neck"],
 } as const satisfies Image

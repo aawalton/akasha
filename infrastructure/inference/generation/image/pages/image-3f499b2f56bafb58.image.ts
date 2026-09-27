@@ -18,4 +18,10 @@ export const image3f499b2f56bafb58 = {
     "pose-tag/profile",
     "pose-tag/back-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/writing-on-skin",
+  ],
 } as const satisfies Image

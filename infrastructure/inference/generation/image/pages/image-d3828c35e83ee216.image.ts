@@ -19,4 +19,5 @@ export const imageD3828c35e83ee216 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/hot-spring", "setting-tag/pool"],
   poseTags: ["pose-tag/standing", "pose-tag/face-to-face"],
+  wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
 } as const satisfies Image

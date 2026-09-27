@@ -18,4 +18,11 @@ export const image0ba5041afaf9a098 = {
     "pose-tag/arms-raised",
     "pose-tag/smiling",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/sheer",
+    "wardrobe-tag/dress",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/nipples-visible",
+  ],
 } as const satisfies Image

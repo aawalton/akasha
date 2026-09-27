@@ -8,4 +8,5 @@ export const imageFd65206ca8268053 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/shower", "setting-tag/bathroom"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/mouth-open"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

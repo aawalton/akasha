@@ -9,4 +9,5 @@ export const imageE224bfc35fffc3d8 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/bathtub", "setting-tag/bathroom", "setting-tag/water"],
   poseTags: ["pose-tag/sitting", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
 } as const satisfies Image

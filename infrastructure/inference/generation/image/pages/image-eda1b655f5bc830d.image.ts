@@ -18,4 +18,5 @@ export const imageEda1b655f5bc830d = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
 } as const satisfies Image

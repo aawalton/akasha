@@ -18,4 +18,5 @@ export const image4128af3ee63e1b35 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/fog"],
   poseTags: ["pose-tag/reclining", "pose-tag/kissing"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
 } as const satisfies Image

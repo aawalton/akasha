@@ -9,4 +9,5 @@ export const image9638981433a4c0ca = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
+  wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/boots", "wardrobe-tag/gloves"],
 } as const satisfies Image

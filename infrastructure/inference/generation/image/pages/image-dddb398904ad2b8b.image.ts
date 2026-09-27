@@ -18,4 +18,5 @@ export const imageDddb398904ad2b8b = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/dark-background"],
   poseTags: ["pose-tag/kissing", "pose-tag/lying-down", "pose-tag/face-to-face"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

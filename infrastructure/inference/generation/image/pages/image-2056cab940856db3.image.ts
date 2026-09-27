@@ -14,4 +14,5 @@ export const image2056cab940856db3 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/off-shoulder"],
 } as const satisfies Image

@@ -14,4 +14,10 @@ export const imageAe92abac5e71da94 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/sitting",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/bodysuit",
+    "wardrobe-tag/garter-belt",
+  ],
 } as const satisfies Image

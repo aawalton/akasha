@@ -21,4 +21,12 @@ export const imageC8aa95330b3885f9 = {
     "pose-tag/smiling",
     "pose-tag/side-by-side",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/corset",
+    "wardrobe-tag/off-shoulder",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/cleavage",
+    "wardrobe-tag/glitter-makeup",
+  ],
 } as const satisfies Image

@@ -13,4 +13,10 @@ export const imageCfa0f6fb97176fa0 = {
     "setting-tag/hot-spring",
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/wet",
+    "wardrobe-tag/nude",
+    "wardrobe-tag/topless",
+    "wardrobe-tag/headphones",
+  ],
 } as const satisfies Image

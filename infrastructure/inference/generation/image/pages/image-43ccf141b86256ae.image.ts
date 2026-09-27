@@ -19,4 +19,10 @@ export const image43ccf141b86256ae = {
     "pose-tag/upper-body",
     "pose-tag/sitting",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-robe",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/cleavage",
+    "wardrobe-tag/lingerie",
+  ],
 } as const satisfies Image

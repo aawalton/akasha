@@ -13,4 +13,11 @@ export const image71e2b49ea1572f67 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/smiling",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/sleeveless",
+    "wardrobe-tag/high-neck",
+    "wardrobe-tag/bare-shoulders",
+    "wardrobe-tag/writing-on-skin",
+  ],
 } as const satisfies Image

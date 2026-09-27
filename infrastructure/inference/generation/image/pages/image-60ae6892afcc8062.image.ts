@@ -20,4 +20,5 @@ export const image60ae6892afcc8062 = {
   relationshipLevel: "closeness-level/level-2",
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature"],
   poseTags: ["pose-tag/selfie", "pose-tag/looking-at-viewer", "pose-tag/hand-on-hip"],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/deep-v-neck"],
 } as const satisfies Image

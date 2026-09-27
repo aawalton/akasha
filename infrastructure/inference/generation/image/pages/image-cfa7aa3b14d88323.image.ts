@@ -9,4 +9,9 @@ export const imageCfa7aa3b14d88323 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/tatami-room", "setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/embracing"],
+  wardrobeTags: [
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/partial-undress",
+  ],
 } as const satisfies Image

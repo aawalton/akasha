@@ -16,4 +16,5 @@ export const image8f525ca4ec992468 = {
   subjects: "F",
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/leaning-forward"],
+  wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/headband"],
 } as const satisfies Image

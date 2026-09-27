@@ -14,4 +14,5 @@ export const image2cd36a86aa90a023 = {
     "setting-tag/sunset",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
+  wardrobeTags: ["wardrobe-tag/wig", "wardrobe-tag/partial-undress"],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const imageB544c8a1abccd7c2 = {
     "pose-tag/profile",
     "pose-tag/smiling",
   ],
+  wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/qipao", "wardrobe-tag/hair-accessory"],
 } as const satisfies Image

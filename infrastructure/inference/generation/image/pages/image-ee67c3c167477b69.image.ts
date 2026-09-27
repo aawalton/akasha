@@ -15,4 +15,5 @@ export const imageEe67c3c167477b69 = {
     "pose-tag/upper-body",
     "pose-tag/standing",
   ],
+  wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/long-sleeves"],
 } as const satisfies Image

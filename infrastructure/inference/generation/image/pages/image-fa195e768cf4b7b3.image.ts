@@ -13,4 +13,10 @@ export const imageFa195e768cf4b7b3 = {
     "pose-tag/casting-magic",
     "pose-tag/standing",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/robe",
+    "wardrobe-tag/tunic",
+    "wardrobe-tag/boots",
+  ],
 } as const satisfies Image

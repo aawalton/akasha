@@ -18,4 +18,10 @@ export const imageFc544ff70783ac49 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/profile",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/topless",
+    "wardrobe-tag/skirt",
+    "wardrobe-tag/armor",
+    "wardrobe-tag/gloves",
+  ],
 } as const satisfies Image

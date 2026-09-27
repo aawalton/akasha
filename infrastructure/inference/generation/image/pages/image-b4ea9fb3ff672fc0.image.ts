@@ -18,4 +18,5 @@ export const imageB4ea9fb3ff672fc0 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
+  wardrobeTags: ["wardrobe-tag/latex", "wardrobe-tag/bodysuit", "wardrobe-tag/gloves"],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const imageFdba8a82b9018d0e = {
     "pose-tag/smiling",
     "pose-tag/close-up",
   ],
+  wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sheer"],
 } as const satisfies Image

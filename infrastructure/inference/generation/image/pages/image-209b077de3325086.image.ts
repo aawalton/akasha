@@ -14,4 +14,9 @@ export const image209b077de3325086 = {
     "pose-tag/hands-clasped",
     "pose-tag/looking-in-mirror",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/slip-dress",
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/spaghetti-straps",
+  ],
 } as const satisfies Image

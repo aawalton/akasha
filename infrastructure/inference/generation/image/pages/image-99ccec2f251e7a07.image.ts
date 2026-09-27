@@ -24,4 +24,5 @@ export const image99ccec2f251e7a07 = {
     "setting-tag/forest",
   ],
   poseTags: ["pose-tag/running", "pose-tag/face-to-face", "pose-tag/walking"],
+  wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/tank-top"],
 } as const satisfies Image

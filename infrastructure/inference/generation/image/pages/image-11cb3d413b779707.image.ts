@@ -19,4 +19,5 @@ export const image11cb3d413b779707 = {
   subjects: "F",
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
+  wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/belt"],
 } as const satisfies Image

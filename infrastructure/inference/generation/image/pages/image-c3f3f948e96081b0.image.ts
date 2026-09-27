@@ -27,4 +27,5 @@ export const imageC3f3f948e96081b0 = {
   subjects: "F",
   settingTags: ["setting-tag/pool", "setting-tag/spa", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/knees-up"],
+  wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk"],
 } as const satisfies Image

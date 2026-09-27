@@ -9,4 +9,10 @@ export const imageD720b555473511eb = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-in-hair", "pose-tag/looking-at-viewer"],
+  wardrobeTags: [
+    "wardrobe-tag/sheer-dress",
+    "wardrobe-tag/lace",
+    "wardrobe-tag/long-sleeves",
+    "wardrobe-tag/high-neck",
+  ],
 } as const satisfies Image

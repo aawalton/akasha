@@ -19,4 +19,5 @@ export const image6bb50c7b20be80f5 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/ruins", "setting-tag/indoor"],
   poseTags: ["pose-tag/running"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/pants", "wardrobe-tag/boots"],
 } as const satisfies Image

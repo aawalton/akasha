@@ -20,4 +20,5 @@ export const imageDf9660cd4a55a387 = {
     "pose-tag/smiling",
     "pose-tag/holding-hands",
   ],
+  wardrobeTags: ["wardrobe-tag/shirt"],
 } as const satisfies Image

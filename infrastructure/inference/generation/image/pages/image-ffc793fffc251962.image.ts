@@ -18,4 +18,5 @@ export const imageFfc793fffc251962 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-back", "pose-tag/kneeling"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
 } as const satisfies Image

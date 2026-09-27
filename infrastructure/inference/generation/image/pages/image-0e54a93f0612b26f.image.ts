@@ -13,4 +13,5 @@ export const image0e54a93f0612b26f = {
     "setting-tag/water",
   ],
   poseTags: ["pose-tag/bathing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/topless"],
 } as const satisfies Image

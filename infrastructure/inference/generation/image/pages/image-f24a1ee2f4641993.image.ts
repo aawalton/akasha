@@ -18,4 +18,5 @@ export const imageF24a1ee2f4641993 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/park", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/mask", "wardrobe-tag/panties"],
 } as const satisfies Image

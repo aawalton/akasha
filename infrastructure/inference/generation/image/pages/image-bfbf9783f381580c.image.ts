@@ -18,4 +18,10 @@ export const imageBfbf9783f381580c = {
     "pose-tag/looking-at-viewer",
     "pose-tag/smiling",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/gold-trim",
+    "wardrobe-tag/puffed-sleeves",
+    "wardrobe-tag/skirt",
+  ],
 } as const satisfies Image

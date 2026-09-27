@@ -14,4 +14,5 @@ export const image6d2fa448d11a46f0 = {
     "setting-tag/study",
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/sitting", "pose-tag/portrait"],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
 } as const satisfies Image

@@ -18,4 +18,5 @@ export const image2e586a5d6230acac = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight", "setting-tag/dark-background"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
+  wardrobeTags: ["wardrobe-tag/dress"],
 } as const satisfies Image

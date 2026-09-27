@@ -8,4 +8,5 @@ export const image19b9b02674f792ed = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/volcano", "setting-tag/ruins"],
   poseTags: ["pose-tag/fighting"],
+  wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fully-clothed"],
 } as const satisfies Image

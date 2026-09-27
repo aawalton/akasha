@@ -18,4 +18,10 @@ export const imageA59ef264e08588a4 = {
     "pose-tag/holding-drink",
     "pose-tag/back-view",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/garter-belt",
+    "wardrobe-tag/stockings",
+    "wardrobe-tag/topless",
+  ],
 } as const satisfies Image

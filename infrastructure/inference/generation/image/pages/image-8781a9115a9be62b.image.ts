@@ -13,4 +13,5 @@ export const image8781a9115a9be62b = {
     "setting-tag/candlelight",
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

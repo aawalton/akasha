@@ -24,4 +24,11 @@ export const imageFafc370dc5b65ca1 = {
     "pose-tag/looking-at-viewer",
     "pose-tag/legs-spread",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/lingerie",
+    "wardrobe-tag/bra",
+    "wardrobe-tag/garter-belt",
+    "wardrobe-tag/stockings",
+    "wardrobe-tag/robe",
+  ],
 } as const satisfies Image

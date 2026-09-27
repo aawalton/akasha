@@ -14,4 +14,5 @@ export const imageE8324b53a554fd15 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/car", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
+  wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top"],
 } as const satisfies Image

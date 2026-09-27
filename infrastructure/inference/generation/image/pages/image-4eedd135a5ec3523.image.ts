@@ -13,4 +13,10 @@ export const image4eedd135a5ec3523 = {
     "pose-tag/casting-magic",
     "pose-tag/holding-weapon",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/armor",
+    "wardrobe-tag/boots",
+    "wardrobe-tag/gloves",
+    "wardrobe-tag/tunic",
+  ],
 } as const satisfies Image

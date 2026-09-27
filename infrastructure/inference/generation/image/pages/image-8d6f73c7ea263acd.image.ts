@@ -13,4 +13,10 @@ export const image8d6f73c7ea263acd = {
     "pose-tag/profile",
     "pose-tag/looking-back",
   ],
+  wardrobeTags: [
+    "wardrobe-tag/dress",
+    "wardrobe-tag/qipao",
+    "wardrobe-tag/silk",
+    "wardrobe-tag/bare-shoulders",
+  ],
 } as const satisfies Image

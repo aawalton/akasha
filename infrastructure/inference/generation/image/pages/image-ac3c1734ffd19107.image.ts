@@ -20,4 +20,5 @@ export const imageAc3c1734ffd19107 = {
     "pose-tag/hand-on-hip",
     "pose-tag/looking-at-viewer",
   ],
+  wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
 } as const satisfies Image

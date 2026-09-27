@@ -9,4 +9,5 @@ export const imageDaadabc301cfb063 = {
   relationshipLevel: "closeness-level/level-6",
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/bent-over", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/skirt", "wardrobe-tag/topless", "wardrobe-tag/nude"],
 } as const satisfies Image

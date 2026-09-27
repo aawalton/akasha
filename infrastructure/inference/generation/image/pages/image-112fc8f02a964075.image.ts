@@ -12,4 +12,5 @@ export const image112fc8f02a964075 = {
     "setting-tag/abstract-background",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
 } as const satisfies Image

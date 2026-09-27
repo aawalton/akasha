@@ -7,4 +7,5 @@ export const image87f3ecbb4972e3a1 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/forest", "setting-tag/snow"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  wardrobeTags: ["wardrobe-tag/fur"],
 } as const satisfies Image

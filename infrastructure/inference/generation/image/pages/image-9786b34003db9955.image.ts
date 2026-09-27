@@ -18,4 +18,5 @@ export const image9786b34003db9955 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/forest"],
   poseTags: ["pose-tag/close-up", "pose-tag/profile", "pose-tag/embracing", "pose-tag/kissing"],
+  wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
 } as const satisfies Image
