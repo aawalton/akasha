@@ -79,6 +79,10 @@ export const otherwhereMainHall = {
       fact: "Engorged bookworms drain the Library's remaining energy as they devour its books.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Salt dries a bookworm out and leaves it helpless, but the biggest are too big to pick up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
