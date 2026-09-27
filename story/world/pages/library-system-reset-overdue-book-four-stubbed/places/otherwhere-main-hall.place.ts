@@ -39,6 +39,10 @@ export const otherwhereMainHall = {
       fact: "A long path runs back from the counter between massive wooden columns carved low down.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Bookshelves rise to the first ceiling, and a second gallery of shelves runs above all round.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
