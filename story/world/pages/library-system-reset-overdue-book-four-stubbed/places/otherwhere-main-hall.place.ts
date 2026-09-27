@@ -83,6 +83,10 @@ export const otherwhereMainHall = {
       fact: "Salt dries a bookworm out and leaves it helpless, but the biggest are too big to pick up.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The break room's cupboards hold a large box of salt, which never spoils.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
