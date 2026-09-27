@@ -196,12 +196,7 @@ function resolveStockByPriority(
 
 function resolveUseByPriority(facts: ItemFacts, ctx: EvalContext): DestinationResolution {
   const itemKey = facts.itemKey
-  if (itemKey === undefined) {
-    return {
-      kind: "indeterminate",
-      detail: "character:by-priority requires facts.itemKey",
-    }
-  }
+  if (itemKey === undefined) return resolveUseByHolder(facts, ctx)
 
   if (itemKey.kind === "consumable") {
     const wanters = ctx.env.getConsumableWanters(itemKey.itemId)
@@ -245,6 +240,20 @@ function resolveUseByPriority(facts: ItemFacts, ctx: EvalContext): DestinationRe
   }
 
   return { kind: "no-eligible-target", detail: "every priority character already knows item" }
+}
+
+function resolveUseByHolder(facts: ItemFacts, ctx: EvalContext): DestinationResolution {
+  if (facts.known === undefined) {
+    return { kind: "indeterminate", detail: "character:by-priority requires facts.itemKey" }
+  }
+  if (facts.known) {
+    return { kind: "no-eligible-target", detail: "the holder already knows item" }
+  }
+  const holder = ctx.env.getCurrentCharacter()
+  if (holder === "unknown") {
+    return { kind: "indeterminate", detail: "the character holding item is unknown" }
+  }
+  return { kind: "resolved", concrete: `character:${holder}` }
 }
 
 function resolveMasterMotifByPriority(

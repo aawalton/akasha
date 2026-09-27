@@ -52,5 +52,10 @@ export const destinationResolve = {
       statement:
         "Every other item kind resolves to the first eligible character without reading the rest.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An item with no item key resolves to its holder where its known fact says it is unlearned.",
+    },
   ],
 } as const satisfies Module

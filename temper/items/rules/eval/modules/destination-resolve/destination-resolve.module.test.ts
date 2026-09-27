@@ -157,6 +157,57 @@ test("a chapter count the environment cannot answer leaves a master motif indete
   })
 })
 
+const STYLE_PAGE_FACTS: ItemFacts = {
+  itemId: 198961,
+  itemName: "Bound Style Page: Nobility in Decay Bow",
+  itemLink: "|H1:item:198961:124:1:0:0:0:0:0:0:0:0:0:0:0:1:0:0:1:0:0:0|h|h",
+  itemType: 34,
+  specializedItemType: 82,
+  known: false,
+}
+
+test("an item with no item key that its holder can learn is used by its holder", () => {
+  const ctx = ctxWith({
+    getCharacterPriority: () => ["one", "two"],
+    getCurrentCharacter: () => "two",
+  })
+
+  expect(resolveDestination(USE_RULE, STYLE_PAGE_FACTS, ctx)).toEqual({
+    kind: "resolved",
+    concrete: "character:two",
+  })
+})
+
+test("an item with no item key its holder already knows goes to no character", () => {
+  const ctx = ctxWith({ getCurrentCharacter: () => "two" })
+
+  expect(resolveDestination(USE_RULE, { ...STYLE_PAGE_FACTS, known: true }, ctx)).toEqual({
+    kind: "no-eligible-target",
+    detail: "the holder already knows item",
+  })
+})
+
+test("an item with no item key and an unknown holder is indeterminate", () => {
+  expect(resolveDestination(USE_RULE, STYLE_PAGE_FACTS, ctxWith({}))).toEqual({
+    kind: "indeterminate",
+    detail: "the character holding item is unknown",
+  })
+})
+
+test("an item with neither an item key nor a known fact is indeterminate", () => {
+  const ctx = ctxWith({ getCurrentCharacter: () => "two" })
+  const unstated: ItemFacts = {
+    itemId: STYLE_PAGE_FACTS.itemId,
+    itemName: STYLE_PAGE_FACTS.itemName,
+    itemLink: STYLE_PAGE_FACTS.itemLink,
+  }
+
+  expect(resolveDestination(USE_RULE, unstated, ctx)).toEqual({
+    kind: "indeterminate",
+    detail: "character:by-priority requires facts.itemKey",
+  })
+})
+
 test("a chain whose fill tier is its last tier has no surplus to name", () => {
   const rule: CompiledOrderedRule = {
     categoryId: "potions",
