@@ -8,4 +8,5 @@ export const games = {
   icon: "Gamepad2",
   navPlace: 0,
   app: "web-app/alanwalton-web",
+  mobilePinOrder: 1,
 } as const satisfies Nav

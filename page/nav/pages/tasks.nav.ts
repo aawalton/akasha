@@ -8,5 +8,5 @@ export const tasks = {
   icon: "SquareCheckBig",
   navPlace: 4,
   app: "web-app/alanwalton-web",
-  mobilePinOrder: 1,
+  mobilePinOrder: 3,
 } as const satisfies Nav
