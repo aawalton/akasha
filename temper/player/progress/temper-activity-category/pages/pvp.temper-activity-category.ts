@@ -7,4 +7,5 @@ export const pvp = {
   title: "PvP",
   key: "pvp",
   badgeVariant: "red",
+  displayOrder: 10,
 } as const satisfies TemperActivityCategory

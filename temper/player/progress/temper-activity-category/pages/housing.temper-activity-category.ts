@@ -7,4 +7,5 @@ export const housing = {
   title: "Housing",
   key: "housing",
   badgeVariant: "yellow",
+  displayOrder: 8,
 } as const satisfies TemperActivityCategory

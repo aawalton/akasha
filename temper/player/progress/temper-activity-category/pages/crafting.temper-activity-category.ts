@@ -7,4 +7,5 @@ export const crafting = {
   title: "Crafting",
   key: "crafting",
   badgeVariant: "green",
+  displayOrder: 4,
 } as const satisfies TemperActivityCategory

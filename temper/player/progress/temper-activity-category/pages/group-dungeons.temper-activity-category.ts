@@ -7,4 +7,5 @@ export const groupDungeons = {
   title: "Group Dungeons",
   key: "group-dungeons",
   badgeVariant: "orange",
+  displayOrder: 7,
 } as const satisfies TemperActivityCategory

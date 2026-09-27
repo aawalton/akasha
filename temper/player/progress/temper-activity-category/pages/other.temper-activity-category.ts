@@ -7,4 +7,5 @@ export const other = {
   title: "Other",
   key: "other",
   badgeVariant: "green",
+  displayOrder: 9,
 } as const satisfies TemperActivityCategory

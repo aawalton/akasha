@@ -7,4 +7,5 @@ export const trials = {
   title: "Trials",
   key: "trials",
   badgeVariant: "red",
+  displayOrder: 12,
 } as const satisfies TemperActivityCategory

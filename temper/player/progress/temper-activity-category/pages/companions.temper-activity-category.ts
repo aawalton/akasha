@@ -7,4 +7,5 @@ export const companions = {
   title: "Companions",
   key: "companions",
   badgeVariant: "blue",
+  displayOrder: 3,
 } as const satisfies TemperActivityCategory

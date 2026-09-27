@@ -7,4 +7,5 @@ export const characters = {
   title: "Characters",
   key: "characters",
   badgeVariant: "blue",
+  displayOrder: 2,
 } as const satisfies TemperActivityCategory
