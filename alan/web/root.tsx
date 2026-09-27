@@ -30,6 +30,7 @@ import "akasha/alan/web/look/alan-web-look.stylesheet.styles.css"
 import "akasha/alan/web/modules/declared-effects/declared-effects.module.code.ts"
 import { NavCommands } from "akasha/alan/web/modules/nav-command/nav-command.module.code.tsx"
 import { StatusBarSync } from "akasha/alan/web/modules/status-bar-sync/status-bar-sync.module.code.tsx"
+import { TabIcon } from "akasha/alan/web/modules/tab-icon/tab-icon.module.code.tsx"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 import { alanwaltonWeb } from "akasha/infrastructure/service/akasha-service/web-app/pages/alanwalton-web.web-app.ts"
 
@@ -78,15 +79,7 @@ const AUTH_CONFIG: RouteAccessConfig = {
   openAt: openAt(WEB_APP),
 }
 
-export const links: Route.LinksFunction = () => [
-  ...fontPreloading(geistSansWoff2),
-  {
-    rel: "icon",
-    href: "/favicon.svg",
-    type: "image/svg+xml",
-    sizes: "any",
-  },
-]
+export const links: Route.LinksFunction = () => [...fontPreloading(geistSansWoff2)]
 
 export const meta = metaFor(null)
 
@@ -126,6 +119,7 @@ export function Layout({ children }: { children: React.ReactNode }) {
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
         {}
         <Links />
+        <TabIcon />
         <Meta />
         {}
         <script src="/sidebar-boot.js" nonce={nonce} suppressHydrationWarning />
