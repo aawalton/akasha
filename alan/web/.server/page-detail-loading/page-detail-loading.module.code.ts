@@ -14,7 +14,7 @@ import { getDescendantPageTypeSlugs } from "akasha/page/access/modules/page-type
 import { getSequenceConfig } from "akasha/page/access/modules/page-type-config/page-type-config.module.code.ts"
 import { flattenRow } from "akasha/page/access/modules/routing-core/routing-core.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
-import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
+import { addressIn, namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import type { ReaderNeighborLink } from "akasha/page/ui/component/modules/reader-chrome/reader-chrome.module.code.tsx"
 import { filePagesPath } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import { FILE_BACKED_ROSTER_PATH } from "akasha/page/ui-store/collection/modules/file-backing/file-backing.module.code.ts"
@@ -251,22 +251,17 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
       chapterTitle = typeof fullPage.title === "string" ? fullPage.title : null
       chapterNumber = typeof fullPage.chapterNumber === "number" ? fullPage.chapterNumber : null
       const storyRef = fullPage.story
-      const parentStoryId =
-        typeof storyRef === "string"
-          ? storyRef
-          : isRecord(storyRef) && typeof storyRef.id === "string"
-            ? storyRef.id
-            : null
-      if (parentStoryId != null) {
+      const parentStory = typeof storyRef === "string" ? addressIn(storyRef) : null
+      if (parentStory?.kind === "qualified") {
         try {
           const story = await getPage({
-            pageTypeSlug: READING_STORY_SLUG,
-            where: [{ key: "id", eq: parentStoryId }],
+            pageTypeSlug: parentStory.pageTypeSlug,
+            where: [{ key: "slug", eq: parentStory.slug }],
             select: ["id", "slug", "title"],
           })
           if (story != null && typeof story.id === "string") {
             storyHref = buildPageHref({
-              pageTypeSlug: toPageTypeSlug("reading-story"),
+              pageTypeSlug: toPageTypeSlug(parentStory.pageTypeSlug),
               slug: typeof story.slug === "string" ? story.slug : null,
               fallbackSlugSource: typeof story.title === "string" ? story.title : null,
               id: story.id,
