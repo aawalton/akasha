@@ -31,6 +31,10 @@ export const otherwhereMainHall = {
       fact: "The Check-in Counter is carved with trees blossoming into books, words strung like leaves.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Check-in Counter shows as Check-in Counter, Administrator Access Only, 20% Operational.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
