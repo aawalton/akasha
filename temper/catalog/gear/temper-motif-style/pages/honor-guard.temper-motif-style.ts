@@ -5,6 +5,8 @@ export const honorGuard = {
   type: "page-type/temper-motif-style",
   slug: "honor-guard",
   title: "Honor Guard",
+  esoItemStyleId: 80,
+  styleName: "Honor Guard",
   collectionIndex: 54,
   sourceDescription: "Blackrose Prison arena",
 } as const satisfies TemperMotifStyle
