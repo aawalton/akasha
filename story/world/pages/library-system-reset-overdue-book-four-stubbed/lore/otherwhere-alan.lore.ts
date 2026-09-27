@@ -65,8 +65,12 @@ export const otherwhereAlan = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "She has not chosen a name for herself in this body.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      fact: "In this body she calls herself Nala.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "She is more at home in this body than she ever was in the old one.",
