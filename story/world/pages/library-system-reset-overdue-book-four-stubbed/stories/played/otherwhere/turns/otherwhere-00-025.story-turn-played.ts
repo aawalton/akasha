@@ -7,6 +7,15 @@ export const otherwhere00025 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 25,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "I tackle it into the salt, holding it down with my weight until it stops moving",
+  beats: [
+    "Nala throws her whole weight forward and drives the bookworm down into the salt line.",
+    "She lies across it, fists locked behind its mouth, torn arm shaking but holding.",
+    "It bucks under her once, twice, shrieking into the salt, then the shriek thins to a hiss.",
+    "Its skin shrinks and greys beneath her; the thrashing slows, then stops.",
+    "She stays on it, breathing hard, until it is a hard grey coil, alive and still.",
+    "Two dried coils lie beside her in the ruined oval, and her left sleeve is dark with blood.",
+    "Beyond the columns, further back in the gloom, the wet chewing goes on.",
+  ],
 } as const satisfies StoryTurnPlayed
