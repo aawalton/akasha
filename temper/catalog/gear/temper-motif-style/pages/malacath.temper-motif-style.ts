@@ -5,6 +5,7 @@ export const malacath = {
   type: "page-type/temper-motif-style",
   slug: "malacath",
   title: "Malacath",
+  esoItemStyleId: 13,
   collectionIndex: 12,
   sourceDescription: "World Boss dailies from Arzorag (Orsinium)",
   dropSources: [

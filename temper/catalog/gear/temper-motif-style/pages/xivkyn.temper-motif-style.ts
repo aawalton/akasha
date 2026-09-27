@@ -5,6 +5,7 @@ export const xivkyn = {
   type: "page-type/temper-motif-style",
   slug: "xivkyn",
   title: "Xivkyn",
+  esoItemStyleId: 29,
   collectionIndex: 8,
   sourceDescription: "Imperial City Trophy Vaults",
 } as const satisfies TemperMotifStyle

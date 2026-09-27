@@ -5,6 +5,7 @@ export const akaviri = {
   type: "page-type/temper-motif-style",
   slug: "akaviri",
   title: "Akaviri",
+  esoItemStyleId: 33,
   collectionIndex: 4,
   sourceDescription: "Cyrodiil War Researchers",
 } as const satisfies TemperMotifStyle

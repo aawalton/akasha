@@ -5,6 +5,7 @@ export const buoyantArmiger = {
   type: "page-type/temper-motif-style",
   slug: "buoyant-armiger",
   title: "Buoyant Armiger",
+  esoItemStyleId: 52,
   collectionIndex: 35,
   sourceDescription: "Vvardenfell and Halls of Fabrication",
 } as const satisfies TemperMotifStyle

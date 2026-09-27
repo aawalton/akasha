@@ -5,6 +5,7 @@ export const moragTong = {
   type: "page-type/temper-motif-style",
   slug: "morag-tong",
   title: "Morag Tong",
+  esoItemStyleId: 43,
   collectionIndex: 13,
   sourceDescription: "Hall of Justice dailies (Vvardenfell)",
   dropSources: [

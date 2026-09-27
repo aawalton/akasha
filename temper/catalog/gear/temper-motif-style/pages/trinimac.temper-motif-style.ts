@@ -5,6 +5,7 @@ export const trinimac = {
   type: "page-type/temper-motif-style",
   slug: "trinimac",
   title: "Trinimac",
+  esoItemStyleId: 21,
   collectionIndex: 11,
   sourceDescription: "Delve dailies from Guruzug (Orsinium)",
   dropSources: [

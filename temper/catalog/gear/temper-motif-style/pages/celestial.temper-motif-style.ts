@@ -5,6 +5,7 @@ export const celestial = {
   type: "page-type/temper-motif-style",
   slug: "celestial",
   title: "Celestial",
+  esoItemStyleId: 27,
   collectionIndex: 26,
   sourceDescription: "Craglorn trials",
 } as const satisfies TemperMotifStyle

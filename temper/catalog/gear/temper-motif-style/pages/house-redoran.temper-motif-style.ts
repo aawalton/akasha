@@ -5,6 +5,7 @@ export const houseRedoran = {
   type: "page-type/temper-motif-style",
   slug: "house-redoran",
   title: "House Redoran",
+  esoItemStyleId: 48,
   collectionIndex: 38,
   sourceDescription: "Pickpocketing and theft in Vvardenfell",
 } as const satisfies TemperMotifStyle

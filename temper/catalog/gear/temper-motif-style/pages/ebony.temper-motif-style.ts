@@ -5,6 +5,7 @@ export const ebony = {
   type: "page-type/temper-motif-style",
   slug: "ebony",
   title: "Ebony",
+  esoItemStyleId: 40,
   collectionIndex: 19,
   sourceDescription: "Purchased with writ vouchers",
 } as const satisfies TemperMotifStyle

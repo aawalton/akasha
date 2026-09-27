@@ -5,6 +5,7 @@ export const draugr = {
   type: "page-type/temper-motif-style",
   slug: "draugr",
   title: "Draugr",
+  esoItemStyleId: 31,
   collectionIndex: 23,
   sourceDescription: "FG/MG/Undaunted dailies (base game)",
   dropSources: [

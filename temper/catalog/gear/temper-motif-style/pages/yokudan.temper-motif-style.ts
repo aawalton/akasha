@@ -5,6 +5,7 @@ export const yokudan = {
   type: "page-type/temper-motif-style",
   slug: "yokudan",
   title: "Yokudan",
+  esoItemStyleId: 35,
   collectionIndex: 5,
   sourceDescription: "Craglorn daily quests",
 } as const satisfies TemperMotifStyle

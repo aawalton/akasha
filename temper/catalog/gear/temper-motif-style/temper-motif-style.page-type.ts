@@ -9,11 +9,15 @@ export const temperMotifStyle = {
   parts: [
     "number-property/collection-index",
     "multi-relation-property/drop-sources",
+    "number-property/eso-item-style-id",
     "text-property/source-description",
+    "text-property/style-name",
   ],
   properties: [
-    { pageProperty: "number-property/collection-index", required: true, many: false },
-    { pageProperty: "text-property/source-description", required: true, many: false },
+    { pageProperty: "number-property/eso-item-style-id", required: false, many: false },
+    { pageProperty: "text-property/style-name", required: false, many: false },
+    { pageProperty: "number-property/collection-index", required: false, many: false },
+    { pageProperty: "text-property/source-description", required: false, many: false },
     {
       pageProperty: "multi-relation-property/drop-sources",
       required: false,

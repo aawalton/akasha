@@ -5,6 +5,7 @@ export const glass = {
   type: "page-type/temper-motif-style",
   slug: "glass",
   title: "Glass",
+  esoItemStyleId: 28,
   collectionIndex: 6,
   sourceDescription: "Purchased with writ vouchers",
 } as const satisfies TemperMotifStyle

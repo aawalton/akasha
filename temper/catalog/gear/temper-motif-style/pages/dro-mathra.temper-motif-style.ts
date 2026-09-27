@@ -5,6 +5,7 @@ export const droMathra = {
   type: "page-type/temper-motif-style",
   slug: "dro-mathra",
   title: "Dro-m'Athra",
+  esoItemStyleId: 45,
   collectionIndex: 18,
   sourceDescription: "Maw of Lorkhaj trial",
 } as const satisfies TemperMotifStyle

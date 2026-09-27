@@ -5,6 +5,7 @@ export const thievesGuild = {
   type: "page-type/temper-motif-style",
   slug: "thieves-guild",
   title: "Thieves Guild",
+  esoItemStyleId: 11,
   collectionIndex: 21,
   sourceDescription: "Heist quests (Hew's Bane)",
 } as const satisfies TemperMotifStyle

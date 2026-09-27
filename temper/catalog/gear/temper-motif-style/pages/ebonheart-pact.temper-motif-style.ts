@@ -5,6 +5,7 @@ export const ebonheartPact = {
   type: "page-type/temper-motif-style",
   slug: "ebonheart-pact",
   title: "Ebonheart Pact",
+  esoItemStyleId: 24,
   collectionIndex: 16,
   sourceDescription: "EP treasure chests in Cyrodiil",
 } as const satisfies TemperMotifStyle

@@ -5,6 +5,7 @@ export const assassinsLeague = {
   type: "page-type/temper-motif-style",
   slug: "assassins-league",
   title: "Assassins League",
+  esoItemStyleId: 46,
   collectionIndex: 20,
   sourceDescription: "Gold Coast bosses",
 } as const satisfies TemperMotifStyle

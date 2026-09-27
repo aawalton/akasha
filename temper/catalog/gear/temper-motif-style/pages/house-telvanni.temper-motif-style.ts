@@ -5,6 +5,7 @@ export const houseTelvanni = {
   type: "page-type/temper-motif-style",
   slug: "house-telvanni",
   title: "House Telvanni",
+  esoItemStyleId: 51,
   collectionIndex: 33,
   sourceDescription: "Pickpocketing and theft in Vvardenfell",
 } as const satisfies TemperMotifStyle

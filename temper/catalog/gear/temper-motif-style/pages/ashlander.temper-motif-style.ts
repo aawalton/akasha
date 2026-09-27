@@ -5,6 +5,7 @@ export const ashlander = {
   type: "page-type/temper-motif-style",
   slug: "ashlander",
   title: "Ashlander",
+  esoItemStyleId: 54,
   collectionIndex: 36,
   sourceDescription: "Hunting/relic dailies (Vvardenfell)",
   dropSources: [

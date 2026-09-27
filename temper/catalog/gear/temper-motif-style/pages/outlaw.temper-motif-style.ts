@@ -5,6 +5,7 @@ export const outlaw = {
   type: "page-type/temper-motif-style",
   slug: "outlaw",
   title: "Outlaw",
+  esoItemStyleId: 47,
   collectionIndex: 10,
   sourceDescription: "Hew's Bane bosses",
 } as const satisfies TemperMotifStyle

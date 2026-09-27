@@ -5,6 +5,7 @@ export const darkBrotherhood = {
   type: "page-type/temper-motif-style",
   slug: "dark-brotherhood",
   title: "Dark Brotherhood",
+  esoItemStyleId: 12,
   collectionIndex: 28,
   sourceDescription: "Sacrament quests (Gold Coast)",
 } as const satisfies TemperMotifStyle

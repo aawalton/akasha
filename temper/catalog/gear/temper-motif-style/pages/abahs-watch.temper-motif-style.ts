@@ -5,6 +5,7 @@ export const abahsWatch = {
   type: "page-type/temper-motif-style",
   slug: "abahs-watch",
   title: "Abah's Watch",
+  esoItemStyleId: 41,
   collectionIndex: 22,
   sourceDescription: "Thieves Guild Tip Board (Hew's Bane)",
 } as const satisfies TemperMotifStyle

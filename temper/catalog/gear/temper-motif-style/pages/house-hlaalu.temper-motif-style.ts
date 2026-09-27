@@ -5,6 +5,7 @@ export const houseHlaalu = {
   type: "page-type/temper-motif-style",
   slug: "house-hlaalu",
   title: "House Hlaalu",
+  esoItemStyleId: 49,
   collectionIndex: 37,
   sourceDescription: "Pickpocketing and theft in Vvardenfell",
 } as const satisfies TemperMotifStyle

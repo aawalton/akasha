@@ -5,6 +5,7 @@ export const orderOfTheHour = {
   type: "page-type/temper-motif-style",
   slug: "order-of-the-hour",
   title: "Order of the Hour",
+  esoItemStyleId: 16,
   collectionIndex: 25,
   sourceDescription: '"Roar of the Crowds" daily (Gold Coast)',
 } as const satisfies TemperMotifStyle
