@@ -19,4 +19,5 @@ export const image2640a6d4ea07745b = {
   settingTags: ["setting-tag/desert", "setting-tag/tent", "setting-tag/night"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/jewelry", "wardrobe-tag/veil"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

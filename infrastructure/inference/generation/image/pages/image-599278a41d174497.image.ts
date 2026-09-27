@@ -10,4 +10,5 @@ export const image599278a41d174497 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street", "setting-tag/town"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/dress", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/medieval"],
 } as const satisfies Image

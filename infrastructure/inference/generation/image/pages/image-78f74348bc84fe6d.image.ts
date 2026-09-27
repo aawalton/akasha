@@ -20,4 +20,5 @@ export const image78f74348bc84fe6d = {
   settingTags: ["setting-tag/indoor", "setting-tag/cabin", "setting-tag/fireplace"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/cloak", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/historical"],
 } as const satisfies Image

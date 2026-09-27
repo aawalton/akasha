@@ -20,4 +20,5 @@ export const image86626d6df5045981 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/forest"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/hair-accessory"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/fairy"],
 } as const satisfies Image

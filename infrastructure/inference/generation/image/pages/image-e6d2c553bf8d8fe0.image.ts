@@ -17,4 +17,5 @@ export const imageE6d2c553bf8d8fe0 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/fog"],
   poseTags: ["pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

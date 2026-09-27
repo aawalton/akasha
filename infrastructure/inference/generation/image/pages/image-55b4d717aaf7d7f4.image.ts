@@ -10,4 +10,5 @@ export const image55b4d717aaf7d7f4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-away", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

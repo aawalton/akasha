@@ -20,4 +20,5 @@ export const image4c3641d00cd1cc97 = {
   settingTags: ["setting-tag/forest", "setting-tag/night"],
   poseTags: ["pose-tag/walking", "pose-tag/floating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing-eyes", "fantasy-tag/magic"],
 } as const satisfies Image

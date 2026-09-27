@@ -20,4 +20,5 @@ export const image8bf309d7c80f790b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/surreal"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image93538a359e6e4313 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/medieval"],
 } as const satisfies Image

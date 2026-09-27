@@ -10,4 +10,5 @@ export const image5a81c54ad8328a3f = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sheer", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

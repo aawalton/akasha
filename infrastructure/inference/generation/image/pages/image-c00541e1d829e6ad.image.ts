@@ -19,4 +19,5 @@ export const imageC00541e1d829e6ad = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/cosplay"],
 } as const satisfies Image

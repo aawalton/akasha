@@ -9,4 +9,5 @@ export const imageE371daf66b058bbc = {
   settingTags: ["setting-tag/cave", "setting-tag/dungeon", "setting-tag/ruins"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/robe"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

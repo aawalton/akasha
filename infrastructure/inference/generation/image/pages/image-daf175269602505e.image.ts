@@ -9,4 +9,5 @@ export const imageDaf175269602505e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rooftop", "setting-tag/city"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

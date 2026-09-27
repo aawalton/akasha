@@ -9,4 +9,5 @@ export const image4eec6516ac291602 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/bodysuit"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

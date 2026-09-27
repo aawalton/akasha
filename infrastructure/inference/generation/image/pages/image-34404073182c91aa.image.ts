@@ -9,4 +9,5 @@ export const image34404073182c91aa = {
   settingTags: ["setting-tag/campfire"],
   poseTags: ["pose-tag/standing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/magic"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image5f5b0fbf09445c37 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

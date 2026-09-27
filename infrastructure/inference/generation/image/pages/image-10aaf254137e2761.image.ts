@@ -19,4 +19,5 @@ export const image10aaf254137e2761 = {
   settingTags: ["setting-tag/castle", "setting-tag/hallway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/gloves", "wardrobe-tag/tiara"],
+  fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/magic"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageB0cdcc47eb684be2 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/silver-hair", "fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image39bcd36349d223f5 = {
     "pose-tag/hands-clasped",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/pants", "wardrobe-tag/writing-on-skin"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

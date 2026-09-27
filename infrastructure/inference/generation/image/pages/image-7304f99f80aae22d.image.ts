@@ -9,4 +9,5 @@ export const image7304f99f80aae22d = {
   settingTags: ["setting-tag/dark-background", "setting-tag/underwater"],
   poseTags: ["pose-tag/floating", "pose-tag/standing", "pose-tag/front-view", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/bioluminescence", "fantasy-tag/ghost"],
 } as const satisfies Image

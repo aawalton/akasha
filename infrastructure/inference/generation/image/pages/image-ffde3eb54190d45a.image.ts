@@ -10,4 +10,5 @@ export const imageFfde3eb54190d45a = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

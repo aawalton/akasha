@@ -19,4 +19,5 @@ export const image5c866c0a978fe2a0 = {
   settingTags: ["setting-tag/spaceship", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/gloves"],
+  fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk"],
 } as const satisfies Image

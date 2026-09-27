@@ -20,4 +20,5 @@ export const imageBc242ad943db5b90 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/beach", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/topless", "wardrobe-tag/bottomless"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/nature-spirit", "fantasy-tag/magic"],
 } as const satisfies Image

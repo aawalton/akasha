@@ -9,4 +9,5 @@ export const imageC8c4969a3fe4c751 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/t-shirt", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/anime"],
 } as const satisfies Image

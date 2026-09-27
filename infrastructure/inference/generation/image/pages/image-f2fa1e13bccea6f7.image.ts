@@ -10,4 +10,5 @@ export const imageF2fa1e13bccea6f7 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/lingerie", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

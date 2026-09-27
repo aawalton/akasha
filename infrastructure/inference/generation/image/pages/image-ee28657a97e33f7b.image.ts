@@ -19,4 +19,5 @@ export const imageEe28657a97e33f7b = {
   settingTags: ["setting-tag/dark-background", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal"],
 } as const satisfies Image

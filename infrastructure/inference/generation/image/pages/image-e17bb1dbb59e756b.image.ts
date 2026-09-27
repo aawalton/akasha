@@ -20,4 +20,5 @@ export const imageE17bb1dbb59e756b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/lake", "setting-tag/forest"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin"],
 } as const satisfies Image

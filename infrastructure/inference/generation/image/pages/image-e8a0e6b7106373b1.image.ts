@@ -24,4 +24,5 @@ export const imageE8a0e6b7106373b1 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

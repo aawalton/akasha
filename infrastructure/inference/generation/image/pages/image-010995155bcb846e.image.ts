@@ -14,4 +14,5 @@ export const image010995155bcb846e = {
   relationshipLevel: "closeness-level/level-5",
   poseTags: ["pose-tag/reading", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/dress", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/dragon-horns"],
 } as const satisfies Image

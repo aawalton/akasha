@@ -10,4 +10,5 @@ export const image2dfe61f44b21704f = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shirt", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

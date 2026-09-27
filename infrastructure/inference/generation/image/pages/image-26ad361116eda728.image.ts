@@ -19,4 +19,5 @@ export const image26ad361116eda728 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/library", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/writing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

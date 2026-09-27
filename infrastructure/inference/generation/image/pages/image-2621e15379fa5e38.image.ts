@@ -24,4 +24,5 @@ export const image2621e15379fa5e38 = {
     "pose-tag/face-to-face",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

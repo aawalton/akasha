@@ -9,4 +9,5 @@ export const image8cafdcae6ad9c2f5 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

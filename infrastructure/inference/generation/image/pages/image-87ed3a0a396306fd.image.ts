@@ -9,4 +9,5 @@ export const image87ed3a0a396306fd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rocks", "setting-tag/night"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

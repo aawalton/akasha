@@ -19,4 +19,11 @@ export const imageD1c10d4a2b708661 = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/topless"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/fairy",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/nature-spirit",
+    "fantasy-tag/magic",
+  ],
 } as const satisfies Image

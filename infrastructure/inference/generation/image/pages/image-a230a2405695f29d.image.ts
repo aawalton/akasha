@@ -20,4 +20,10 @@ export const imageA230a2405695f29d = {
     "wardrobe-tag/off-shoulder",
     "wardrobe-tag/jewelry",
   ],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/horns",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

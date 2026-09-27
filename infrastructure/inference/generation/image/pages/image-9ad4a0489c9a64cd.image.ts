@@ -19,4 +19,5 @@ export const image9ad4a0489c9a64cd = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/horns", "fantasy-tag/angel", "fantasy-tag/tail"],
 } as const satisfies Image

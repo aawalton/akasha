@@ -9,4 +9,5 @@ export const image05abbebbd29fc229 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/neon-lights", "setting-tag/studio"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

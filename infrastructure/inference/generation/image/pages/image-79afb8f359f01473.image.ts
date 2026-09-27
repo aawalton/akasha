@@ -20,4 +20,10 @@ export const image79afb8f359f01473 = {
   settingTags: ["setting-tag/cave", "setting-tag/library", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/tights"],
+  fantasyTags: [
+    "fantasy-tag/green-skin",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/red-eyes",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

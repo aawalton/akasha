@@ -25,4 +25,5 @@ export const imageBe71580897b43cc4 = {
     "wardrobe-tag/gold-trim",
     "wardrobe-tag/off-shoulder",
   ],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

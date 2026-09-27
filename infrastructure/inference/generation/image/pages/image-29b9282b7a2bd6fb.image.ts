@@ -9,4 +9,5 @@ export const image29b9282b7a2bd6fb = {
   settingTags: ["setting-tag/dark-background", "setting-tag/volcano", "setting-tag/cave"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing", "fantasy-tag/magic"],
 } as const satisfies Image

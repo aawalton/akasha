@@ -20,4 +20,5 @@ export const imageC940defb24de824f = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/backless"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/cosplay"],
 } as const satisfies Image

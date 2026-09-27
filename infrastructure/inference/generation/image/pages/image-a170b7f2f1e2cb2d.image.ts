@@ -9,4 +9,5 @@ export const imageA170b7f2f1e2cb2d = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

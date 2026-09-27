@@ -10,4 +10,5 @@ export const imageDeb472451c0a4d68 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/water", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/bodysuit"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

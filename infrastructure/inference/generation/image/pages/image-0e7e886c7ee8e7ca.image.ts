@@ -15,4 +15,5 @@ export const image0e7e886c7ee8e7ca = {
     "wardrobe-tag/hoodie",
     "wardrobe-tag/shorts",
   ],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/blue-hair"],
 } as const satisfies Image

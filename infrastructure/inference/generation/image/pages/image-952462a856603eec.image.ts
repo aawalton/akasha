@@ -9,4 +9,5 @@ export const image952462a856603eec = {
   settingTags: ["setting-tag/outdoor", "setting-tag/battlefield", "setting-tag/party"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/bra"],
+  fantasyTags: ["fantasy-tag/wings"],
 } as const satisfies Image

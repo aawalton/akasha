@@ -14,4 +14,5 @@ export const image764f39ae355e8b9e = {
     "pose-tag/back-view",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

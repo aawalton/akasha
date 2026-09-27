@@ -10,4 +10,5 @@ export const image836c052e1f63e652 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sheer", "wardrobe-tag/deep-v-neck"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

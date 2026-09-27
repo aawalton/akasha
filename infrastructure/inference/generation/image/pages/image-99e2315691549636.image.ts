@@ -10,4 +10,5 @@ export const image99e2315691549636 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy", "fantasy-tag/monster-girl"],
 } as const satisfies Image

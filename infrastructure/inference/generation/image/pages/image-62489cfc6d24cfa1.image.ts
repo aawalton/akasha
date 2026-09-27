@@ -9,4 +9,5 @@ export const image62489cfc6d24cfa1 = {
   settingTags: ["setting-tag/underwater", "setting-tag/dark-background", "setting-tag/rocks"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/monster-girl"],
 } as const satisfies Image

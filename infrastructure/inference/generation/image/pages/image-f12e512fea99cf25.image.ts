@@ -9,4 +9,5 @@ export const imageF12e512fea99cf25 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal"],
 } as const satisfies Image

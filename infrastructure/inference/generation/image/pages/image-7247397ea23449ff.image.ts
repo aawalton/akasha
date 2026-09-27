@@ -20,4 +20,10 @@ export const image7247397ea23449ff = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/jeans"],
+  fantasyTags: [
+    "fantasy-tag/sci-fi",
+    "fantasy-tag/hologram",
+    "fantasy-tag/ghost",
+    "fantasy-tag/cyberpunk",
+  ],
 } as const satisfies Image

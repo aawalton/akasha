@@ -14,4 +14,5 @@ export const imageD5da281586f056a2 = {
     "pose-tag/leaning",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/cyberpunk"],
 } as const satisfies Image

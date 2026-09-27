@@ -10,4 +10,5 @@ export const image3a24cf6069a90829 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-clothing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

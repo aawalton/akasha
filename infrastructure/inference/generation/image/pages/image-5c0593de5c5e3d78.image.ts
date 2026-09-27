@@ -10,4 +10,10 @@ export const image5c0593de5c5e3d78 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: [
+    "fantasy-tag/android",
+    "fantasy-tag/cyberpunk",
+    "fantasy-tag/glowing",
+    "fantasy-tag/hologram",
+  ],
 } as const satisfies Image

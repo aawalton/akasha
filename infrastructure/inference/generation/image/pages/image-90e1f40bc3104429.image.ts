@@ -9,4 +9,5 @@ export const image90e1f40bc3104429 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/cyberpunk"],
 } as const satisfies Image

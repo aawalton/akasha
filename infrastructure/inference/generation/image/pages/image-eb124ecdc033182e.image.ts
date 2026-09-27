@@ -9,4 +9,5 @@ export const imageEb124ecdc033182e = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kissing", "pose-tag/hand-on-face", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

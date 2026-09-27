@@ -7,4 +7,5 @@ export const image030b48dc8d4e23a8 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/dungeon", "setting-tag/cave", "setting-tag/ruins"],
   poseTags: ["pose-tag/fighting", "pose-tag/standing"],
+  fantasyTags: ["fantasy-tag/ghost", "fantasy-tag/magic", "fantasy-tag/monster-girl"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image435a1131209b3eec = {
   settingTags: ["setting-tag/sports-field", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/sleeveless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const image241d01660a1b1136 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/forest"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

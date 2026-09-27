@@ -9,4 +9,5 @@ export const imageA5805b40ff483a17 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal", "fantasy-tag/hologram"],
 } as const satisfies Image

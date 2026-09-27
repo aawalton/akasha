@@ -10,4 +10,5 @@ export const image7715093dd3af4bf6 = {
   settingTags: ["setting-tag/cave", "setting-tag/volcano", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bodysuit"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic"],
 } as const satisfies Image

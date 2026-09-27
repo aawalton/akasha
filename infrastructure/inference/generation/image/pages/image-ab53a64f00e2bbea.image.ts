@@ -19,4 +19,5 @@ export const imageAb53a64f00e2bbea = {
   settingTags: ["setting-tag/sky"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

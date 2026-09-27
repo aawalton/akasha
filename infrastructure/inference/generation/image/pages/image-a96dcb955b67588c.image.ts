@@ -10,4 +10,5 @@ export const imageA96dcb955b67588c = {
   settingTags: ["setting-tag/night", "setting-tag/campfire", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/pants", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/animal-ears"],
 } as const satisfies Image

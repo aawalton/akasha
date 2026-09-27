@@ -9,4 +9,5 @@ export const imageE242fbd6d8dcb06c = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/halter-top"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

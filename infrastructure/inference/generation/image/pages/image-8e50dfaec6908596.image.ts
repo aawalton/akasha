@@ -9,4 +9,5 @@ export const image8e50dfaec6908596 = {
   settingTags: ["setting-tag/water", "setting-tag/bathtub", "setting-tag/hot-spring"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

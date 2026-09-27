@@ -21,4 +21,5 @@ export const image43a1679e25500e4f = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

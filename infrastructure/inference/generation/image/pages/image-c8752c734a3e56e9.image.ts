@@ -19,4 +19,5 @@ export const imageC8752c734a3e56e9 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/glowing-eyes", "fantasy-tag/green-hair"],
 } as const satisfies Image

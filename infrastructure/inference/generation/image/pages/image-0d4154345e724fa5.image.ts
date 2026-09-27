@@ -20,4 +20,5 @@ export const image0d4154345e724fa5 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

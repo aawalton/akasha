@@ -29,4 +29,10 @@ export const imageD859201adf3093a9 = {
     "wardrobe-tag/off-shoulder",
     "wardrobe-tag/jewelry",
   ],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/blue-hair",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image4dd06c1398fc0a2e = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing-eyes"],
 } as const satisfies Image

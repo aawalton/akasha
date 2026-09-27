@@ -10,4 +10,5 @@ export const imageA19b5e1936f26c0f = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

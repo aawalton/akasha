@@ -10,4 +10,5 @@ export const imageFb2470824fec9174 = {
   settingTags: ["setting-tag/indoor", "setting-tag/study", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/corset"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

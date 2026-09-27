@@ -24,4 +24,10 @@ export const image6db819cb3629194d = {
     "wardrobe-tag/jewelry",
     "wardrobe-tag/glitter-makeup",
   ],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/horns",
+    "fantasy-tag/silver-hair",
+  ],
 } as const satisfies Image

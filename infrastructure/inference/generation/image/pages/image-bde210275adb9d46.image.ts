@@ -11,4 +11,5 @@ export const imageBde210275adb9d46 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

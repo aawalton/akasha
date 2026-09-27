@@ -21,4 +21,5 @@ export const image1e379c3764bceb25 = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
 } as const satisfies Image

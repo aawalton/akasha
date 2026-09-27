@@ -19,4 +19,5 @@ export const imageDd76f1a8bf2eff75 = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/nature-spirit", "fantasy-tag/monster-girl"],
 } as const satisfies Image

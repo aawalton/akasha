@@ -20,4 +20,5 @@ export const image370b610bf3a871c7 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/walking"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/wings"],
 } as const satisfies Image

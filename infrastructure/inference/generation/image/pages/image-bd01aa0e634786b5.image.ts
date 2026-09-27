@@ -9,4 +9,5 @@ export const imageBd01aa0e634786b5 = {
   settingTags: ["setting-tag/ruins", "setting-tag/forest", "setting-tag/waterfall"],
   poseTags: ["pose-tag/sitting", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/scales"],
 } as const satisfies Image

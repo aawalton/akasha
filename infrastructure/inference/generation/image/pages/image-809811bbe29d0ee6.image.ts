@@ -19,4 +19,5 @@ export const image809811bbe29d0ee6 = {
     "wardrobe-tag/deep-v-neck",
     "wardrobe-tag/body-paint",
   ],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

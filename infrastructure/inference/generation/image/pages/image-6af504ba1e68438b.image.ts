@@ -21,4 +21,5 @@ export const image6af504ba1e68438b = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

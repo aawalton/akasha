@@ -15,4 +15,5 @@ export const imageCaa2ebbdef7f5a47 = {
     "pose-tag/legs-up",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

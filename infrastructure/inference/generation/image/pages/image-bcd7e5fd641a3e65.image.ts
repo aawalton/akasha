@@ -9,4 +9,5 @@ export const imageBcd7e5fd641a3e65 = {
   settingTags: ["setting-tag/forest", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/bioluminescence"],
 } as const satisfies Image

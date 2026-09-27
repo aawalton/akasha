@@ -14,4 +14,5 @@ export const image6b8e5374e5fd06bc = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/off-shoulder", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

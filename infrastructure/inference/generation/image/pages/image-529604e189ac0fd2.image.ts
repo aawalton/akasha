@@ -9,4 +9,5 @@ export const image529604e189ac0fd2 = {
   settingTags: ["setting-tag/forest", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-up", "pose-tag/reaching", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/ethereal"],
 } as const satisfies Image

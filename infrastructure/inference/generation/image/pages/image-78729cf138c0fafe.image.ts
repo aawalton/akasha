@@ -24,4 +24,10 @@ export const image78729cf138c0fafe = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: [
+    "fantasy-tag/cyberpunk",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/android",
+    "fantasy-tag/bioluminescence",
+  ],
 } as const satisfies Image

@@ -9,4 +9,11 @@ export const image8f3ace0cd3ddfbee = {
   settingTags: ["setting-tag/dock", "setting-tag/ocean", "setting-tag/rain", "setting-tag/boat"],
   poseTags: ["pose-tag/working", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/boots", "wardrobe-tag/headband", "wardrobe-tag/scarf"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/ghost",
+    "fantasy-tag/warrior",
+    "fantasy-tag/magic",
+    "fantasy-tag/anthro",
+  ],
 } as const satisfies Image

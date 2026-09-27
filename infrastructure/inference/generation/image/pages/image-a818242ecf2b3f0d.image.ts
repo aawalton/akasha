@@ -9,4 +9,5 @@ export const imageA818242ecf2b3f0d = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageCf75a93f8c2de70e = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bare-shoulders", "wardrobe-tag/backless"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

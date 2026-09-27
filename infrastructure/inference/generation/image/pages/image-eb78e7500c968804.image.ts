@@ -30,4 +30,5 @@ export const imageEb78e7500c968804 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

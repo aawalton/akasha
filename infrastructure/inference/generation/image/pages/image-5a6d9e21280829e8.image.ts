@@ -20,4 +20,5 @@ export const image5a6d9e21280829e8 = {
   settingTags: ["setting-tag/indoor", "setting-tag/doorway"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/strapless"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/fairy-tale"],
 } as const satisfies Image

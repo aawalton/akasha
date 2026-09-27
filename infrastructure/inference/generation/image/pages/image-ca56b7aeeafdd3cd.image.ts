@@ -25,4 +25,5 @@ export const imageCa56b7aeeafdd3cd = {
   settingTags: ["setting-tag/workshop", "setting-tag/cabin"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/tank-top", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/animal-ears"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageAb73854db07fa869 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/desert", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/warrior"],
 } as const satisfies Image

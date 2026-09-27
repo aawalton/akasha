@@ -20,4 +20,5 @@ export const image30d522345ff5829b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/nature"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/glowing-eyes", "fantasy-tag/cosplay"],
 } as const satisfies Image

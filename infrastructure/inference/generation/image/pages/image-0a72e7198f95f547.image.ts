@@ -20,4 +20,10 @@ export const image0a72e7198f95f547 = {
   settingTags: ["setting-tag/water", "setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer"],
+  fantasyTags: [
+    "fantasy-tag/wings",
+    "fantasy-tag/cosplay",
+    "fantasy-tag/fairy",
+    "fantasy-tag/magic",
+  ],
 } as const satisfies Image

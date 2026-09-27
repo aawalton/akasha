@@ -10,4 +10,5 @@ export const imageF07fa08c88ecff66 = {
   settingTags: ["setting-tag/city-street", "setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

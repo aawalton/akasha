@@ -9,4 +9,5 @@ export const image1a67610cd9778ece = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/floating"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/ghost", "fantasy-tag/ethereal"],
 } as const satisfies Image

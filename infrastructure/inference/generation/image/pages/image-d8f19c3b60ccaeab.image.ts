@@ -16,4 +16,5 @@ export const imageD8f19c3b60ccaeab = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/dock", "setting-tag/lake"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

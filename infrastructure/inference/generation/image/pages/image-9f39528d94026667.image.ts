@@ -10,4 +10,5 @@ export const image9f39528d94026667 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/hoodie", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

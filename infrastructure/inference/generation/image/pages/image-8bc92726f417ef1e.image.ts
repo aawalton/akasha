@@ -9,4 +9,5 @@ export const image8bc92726f417ef1e = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes"],
 } as const satisfies Image

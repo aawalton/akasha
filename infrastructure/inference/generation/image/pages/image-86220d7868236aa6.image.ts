@@ -9,4 +9,5 @@ export const image86220d7868236aa6 = {
   settingTags: ["setting-tag/bathtub", "setting-tag/water", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

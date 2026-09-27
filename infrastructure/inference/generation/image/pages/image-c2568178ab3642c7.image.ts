@@ -19,4 +19,5 @@ export const imageC2568178ab3642c7 = {
   settingTags: ["setting-tag/indoor", "setting-tag/study", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

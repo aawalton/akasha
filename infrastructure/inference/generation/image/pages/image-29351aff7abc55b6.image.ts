@@ -9,4 +9,10 @@ export const image29351aff7abc55b6 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/gold-trim"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/weapons",
+    "fantasy-tag/silver-hair",
+  ],
 } as const satisfies Image

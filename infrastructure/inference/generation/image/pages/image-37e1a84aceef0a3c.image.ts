@@ -19,4 +19,5 @@ export const image37e1a84aceef0a3c = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/ethereal"],
 } as const satisfies Image

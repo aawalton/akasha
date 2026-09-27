@@ -9,4 +9,5 @@ export const image205036bfcb745457 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/sci-fi"],
 } as const satisfies Image

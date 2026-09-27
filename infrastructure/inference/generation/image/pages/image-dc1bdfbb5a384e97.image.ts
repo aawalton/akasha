@@ -14,4 +14,5 @@ export const imageDc1bdfbb5a384e97 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/magic", "fantasy-tag/glowing"],
 } as const satisfies Image

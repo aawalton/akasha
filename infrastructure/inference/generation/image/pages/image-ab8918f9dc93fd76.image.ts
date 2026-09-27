@@ -10,4 +10,5 @@ export const imageAb8918f9dc93fd76 = {
   settingTags: ["setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/red-eyes"],
 } as const satisfies Image

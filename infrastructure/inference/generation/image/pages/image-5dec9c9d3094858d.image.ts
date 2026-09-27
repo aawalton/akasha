@@ -9,4 +9,5 @@ export const image5dec9c9d3094858d = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic"],
 } as const satisfies Image

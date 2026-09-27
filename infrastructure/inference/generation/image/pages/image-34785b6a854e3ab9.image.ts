@@ -20,4 +20,5 @@ export const image34785b6a854e3ab9 = {
   settingTags: ["setting-tag/underwater", "setting-tag/ocean"],
   poseTags: ["pose-tag/bathing", "pose-tag/floating", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/mermaid", "fantasy-tag/tail"],
 } as const satisfies Image

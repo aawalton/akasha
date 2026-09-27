@@ -10,4 +10,5 @@ export const image4653116ebee6fa50 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/tail"],
 } as const satisfies Image

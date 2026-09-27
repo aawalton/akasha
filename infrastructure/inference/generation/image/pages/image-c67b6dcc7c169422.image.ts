@@ -9,4 +9,5 @@ export const imageC67b6dcc7c169422 = {
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
 } as const satisfies Image

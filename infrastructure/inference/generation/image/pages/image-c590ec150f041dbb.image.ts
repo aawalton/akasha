@@ -9,4 +9,5 @@ export const imageC590ec150f041dbb = {
   settingTags: ["setting-tag/office"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android", "fantasy-tag/glowing"],
 } as const satisfies Image

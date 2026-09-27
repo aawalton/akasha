@@ -15,4 +15,5 @@ export const image5176486858c8300b = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
 } as const satisfies Image

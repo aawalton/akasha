@@ -9,4 +9,5 @@ export const imageD7c68805c4cd1810 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-hip", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageB4cce5335ee5ecbb = {
   settingTags: ["setting-tag/indoor", "setting-tag/doorway", "setting-tag/hotel"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk", "wardrobe-tag/high-slit"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

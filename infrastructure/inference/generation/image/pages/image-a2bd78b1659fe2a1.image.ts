@@ -15,4 +15,5 @@ export const imageA2bd78b1659fe2a1 = {
   settingTags: ["setting-tag/forest", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/red-string"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

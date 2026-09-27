@@ -10,4 +10,5 @@ export const image54aeee1a1e5552f8 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/lace"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

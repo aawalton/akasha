@@ -16,4 +16,5 @@ export const imageD9f596fd9a4d0862 = {
   settingTags: ["setting-tag/abstract-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk"],
 } as const satisfies Image

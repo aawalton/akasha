@@ -9,4 +9,5 @@ export const imageC58ea146b01c9e8c = {
   settingTags: ["setting-tag/battlefield", "setting-tag/outdoor", "setting-tag/ruins"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/warrior"],
 } as const satisfies Image

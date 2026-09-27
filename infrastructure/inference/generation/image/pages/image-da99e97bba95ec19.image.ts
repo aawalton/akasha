@@ -15,4 +15,5 @@ export const imageDa99e97bba95ec19 = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

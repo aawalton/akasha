@@ -19,4 +19,10 @@ export const image2611bebdb5d3096e = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots", "wardrobe-tag/fully-clothed"],
+  fantasyTags: [
+    "fantasy-tag/dragon",
+    "fantasy-tag/monster-girl",
+    "fantasy-tag/magic",
+    "fantasy-tag/warrior",
+  ],
 } as const satisfies Image

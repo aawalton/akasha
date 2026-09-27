@@ -10,4 +10,5 @@ export const image6993dadec55581e2 = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

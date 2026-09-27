@@ -9,4 +9,5 @@ export const imageCbab15f543dfc178 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/rocks"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-up", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/cosmic", "fantasy-tag/glowing"],
 } as const satisfies Image

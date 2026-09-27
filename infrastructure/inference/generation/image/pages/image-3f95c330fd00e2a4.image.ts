@@ -9,4 +9,5 @@ export const image3f95c330fd00e2a4 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

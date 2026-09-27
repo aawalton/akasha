@@ -10,4 +10,5 @@ export const image4ceda478da749511 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/robe"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

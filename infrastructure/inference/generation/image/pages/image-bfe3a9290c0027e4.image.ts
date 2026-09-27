@@ -10,4 +10,5 @@ export const imageBfe3a9290c0027e4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/ruins"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

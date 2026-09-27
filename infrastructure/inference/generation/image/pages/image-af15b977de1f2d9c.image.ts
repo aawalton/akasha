@@ -9,4 +9,5 @@ export const imageAf15b977de1f2d9c = {
   settingTags: ["setting-tag/workshop", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

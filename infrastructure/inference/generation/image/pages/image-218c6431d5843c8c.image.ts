@@ -9,4 +9,10 @@ export const image218c6431d5843c8c = {
   settingTags: ["setting-tag/ruins", "setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/fighting", "pose-tag/holding-weapon", "pose-tag/casting-magic"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe", "wardrobe-tag/fully-clothed"],
+  fantasyTags: [
+    "fantasy-tag/magic",
+    "fantasy-tag/warrior",
+    "fantasy-tag/wings",
+    "fantasy-tag/monster-girl",
+  ],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image0bd96f71731b3788 = {
   settingTags: ["setting-tag/temple", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/kimono"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/silver-hair", "fantasy-tag/red-eyes"],
 } as const satisfies Image

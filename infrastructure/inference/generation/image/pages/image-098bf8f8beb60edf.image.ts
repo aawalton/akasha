@@ -19,4 +19,5 @@ export const image098bf8f8beb60edf = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/skirt", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
 } as const satisfies Image

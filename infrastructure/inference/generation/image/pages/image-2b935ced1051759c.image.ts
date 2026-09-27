@@ -15,4 +15,5 @@ export const image2b935ced1051759c = {
   settingTags: ["setting-tag/indoor", "setting-tag/cabin", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/body-paint", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -7,4 +7,5 @@ export const image0779729a9f2c9ee0 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor"],
   wardrobeTags: ["wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/dragon"],
 } as const satisfies Image

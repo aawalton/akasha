@@ -9,4 +9,5 @@ export const image826f341e038a27af = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
+  fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cosplay"],
 } as const satisfies Image

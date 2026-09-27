@@ -14,4 +14,5 @@ export const image89330d5a2ec9dc6a = {
   ],
   poseTags: ["pose-tag/fighting", "pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/armor", "wardrobe-tag/fully-clothed"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/monster-girl", "fantasy-tag/witch"],
 } as const satisfies Image

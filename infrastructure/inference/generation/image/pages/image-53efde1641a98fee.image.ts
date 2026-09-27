@@ -19,4 +19,5 @@ export const image53efde1641a98fee = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears", "fantasy-tag/demon"],
 } as const satisfies Image

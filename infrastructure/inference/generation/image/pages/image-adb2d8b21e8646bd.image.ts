@@ -15,4 +15,5 @@ export const imageAdb2d8b21e8646bd = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/sheer-robe", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

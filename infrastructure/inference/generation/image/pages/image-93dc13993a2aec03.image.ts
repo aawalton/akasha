@@ -20,4 +20,5 @@ export const image93dc13993a2aec03 = {
   settingTags: ["setting-tag/lake", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/bikini", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/wings"],
 } as const satisfies Image

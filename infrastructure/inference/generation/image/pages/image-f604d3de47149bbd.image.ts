@@ -10,4 +10,5 @@ export const imageF604d3de47149bbd = {
   settingTags: ["setting-tag/hallway", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/belt", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/medieval"],
 } as const satisfies Image

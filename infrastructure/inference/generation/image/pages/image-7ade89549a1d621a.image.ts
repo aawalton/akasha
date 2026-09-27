@@ -9,4 +9,5 @@ export const image7ade89549a1d621a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/silk"],
+  fantasyTags: ["fantasy-tag/cosmic"],
 } as const satisfies Image

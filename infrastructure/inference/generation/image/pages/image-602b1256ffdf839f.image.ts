@@ -9,4 +9,5 @@ export const image602b1256ffdf839f = {
   settingTags: ["setting-tag/indoor", "setting-tag/night", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

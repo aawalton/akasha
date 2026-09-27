@@ -11,4 +11,5 @@ export const imageE894826201c794a3 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

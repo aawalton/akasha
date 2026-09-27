@@ -10,4 +10,5 @@ export const image92453956a50af9c3 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/top", "wardrobe-tag/corset"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/sci-fi", "fantasy-tag/cosplay"],
 } as const satisfies Image

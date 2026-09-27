@@ -19,4 +19,9 @@ export const image71a4f78d1e9ddab3 = {
   settingTags: ["setting-tag/forest", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: [
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/bioluminescence",
+    "fantasy-tag/nature-spirit",
+  ],
 } as const satisfies Image

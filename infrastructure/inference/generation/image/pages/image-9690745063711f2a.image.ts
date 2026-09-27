@@ -29,4 +29,5 @@ export const image9690745063711f2a = {
     "wardrobe-tag/high-neck",
     "wardrobe-tag/dress",
   ],
+  fantasyTags: ["fantasy-tag/gothic"],
 } as const satisfies Image

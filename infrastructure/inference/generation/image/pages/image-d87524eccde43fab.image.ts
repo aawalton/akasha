@@ -19,4 +19,5 @@ export const imageD87524eccde43fab = {
     "wardrobe-tag/tube-top",
     "wardrobe-tag/glitter-makeup",
   ],
+  fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

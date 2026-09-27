@@ -15,4 +15,5 @@ export const image1fb642065e8aba67 = {
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
 } as const satisfies Image

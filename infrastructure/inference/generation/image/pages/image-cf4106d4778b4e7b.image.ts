@@ -10,4 +10,5 @@ export const imageCf4106d4778b4e7b = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

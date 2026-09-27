@@ -10,4 +10,5 @@ export const image46f1e55eb88adf22 = {
   settingTags: ["setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

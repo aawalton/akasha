@@ -21,4 +21,5 @@ export const image1b5596d7671f9b8f = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/bedroom"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

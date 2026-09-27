@@ -9,4 +9,5 @@ export const imageC4e7e77ae47cdff1 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/magic"],
 } as const satisfies Image

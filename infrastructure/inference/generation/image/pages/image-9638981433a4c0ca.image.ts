@@ -10,4 +10,5 @@ export const image9638981433a4c0ca = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/boots", "wardrobe-tag/gloves"],
+  fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/cosplay"],
 } as const satisfies Image

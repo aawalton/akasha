@@ -9,4 +9,5 @@ export const image53fe52adfde6bb53 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-back", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

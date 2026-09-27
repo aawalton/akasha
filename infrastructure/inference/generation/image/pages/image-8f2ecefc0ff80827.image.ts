@@ -15,4 +15,5 @@ export const image8f2ecefc0ff80827 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/medieval"],
 } as const satisfies Image

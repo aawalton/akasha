@@ -10,4 +10,5 @@ export const imageAac86238f9811ce1 = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

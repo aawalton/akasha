@@ -9,4 +9,5 @@ export const image724bba6e17235171 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

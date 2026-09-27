@@ -10,4 +10,5 @@ export const image823bea8fde7c8739 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

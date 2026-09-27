@@ -24,4 +24,10 @@ export const image8152f6e61438809b = {
     "pose-tag/hand-on-face",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: [
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/dragon",
+    "fantasy-tag/scales",
+  ],
 } as const satisfies Image

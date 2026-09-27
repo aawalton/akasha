@@ -14,4 +14,5 @@ export const imageAd1c2549628039ad = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/cosmic", "fantasy-tag/superhero"],
 } as const satisfies Image

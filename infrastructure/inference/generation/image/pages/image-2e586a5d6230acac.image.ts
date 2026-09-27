@@ -19,4 +19,5 @@ export const image2e586a5d6230acac = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight", "setting-tag/dark-background"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/cosplay"],
 } as const satisfies Image

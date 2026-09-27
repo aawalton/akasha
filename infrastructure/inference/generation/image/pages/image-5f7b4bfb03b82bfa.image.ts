@@ -20,4 +20,5 @@ export const image5f7b4bfb03b82bfa = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-away", "pose-tag/profile", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/strapless"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

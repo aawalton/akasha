@@ -9,4 +9,10 @@ export const image720c948195182aa8 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/bodysuit"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/fairy",
+    "fantasy-tag/wings",
+    "fantasy-tag/monster-girl",
+  ],
 } as const satisfies Image

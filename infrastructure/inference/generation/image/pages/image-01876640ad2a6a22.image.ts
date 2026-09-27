@@ -20,4 +20,5 @@ export const image01876640ad2a6a22 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/cherry-blossoms"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/kimono"],
+  fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/warrior"],
 } as const satisfies Image

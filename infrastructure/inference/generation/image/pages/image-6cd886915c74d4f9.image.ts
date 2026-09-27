@@ -20,4 +20,5 @@ export const image6cd886915c74d4f9 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/castle"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy", "fantasy-tag/silver-hair"],
 } as const satisfies Image

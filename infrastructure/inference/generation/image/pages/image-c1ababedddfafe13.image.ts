@@ -9,4 +9,5 @@ export const imageC1ababedddfafe13 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/historical", "fantasy-tag/medieval", "fantasy-tag/warrior"],
 } as const satisfies Image

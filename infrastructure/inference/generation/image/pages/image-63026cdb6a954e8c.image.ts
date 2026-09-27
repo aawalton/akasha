@@ -14,4 +14,5 @@ export const image63026cdb6a954e8c = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

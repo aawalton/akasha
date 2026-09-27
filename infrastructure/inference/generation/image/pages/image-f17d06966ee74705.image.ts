@@ -19,4 +19,5 @@ export const imageF17d06966ee74705 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/hat"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing-eyes", "fantasy-tag/witch"],
 } as const satisfies Image

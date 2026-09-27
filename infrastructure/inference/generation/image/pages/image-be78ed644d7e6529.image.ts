@@ -9,4 +9,5 @@ export const imageBe78ed644d7e6529 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bodysuit", "wardrobe-tag/silk"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
 } as const satisfies Image

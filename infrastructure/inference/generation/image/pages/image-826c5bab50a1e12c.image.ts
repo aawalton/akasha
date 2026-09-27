@@ -13,4 +13,5 @@ export const image826c5bab50a1e12c = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/glowing"],
 } as const satisfies Image

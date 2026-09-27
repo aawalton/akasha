@@ -19,4 +19,5 @@ export const imageC3e423987353fc7b = {
   settingTags: ["setting-tag/studio", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/off-shoulder", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/angel"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image748a85d12dca4886 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/water", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/horns"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image112415b774f79d27 = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android"],
 } as const satisfies Image

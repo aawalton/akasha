@@ -9,4 +9,5 @@ export const imageAd3aa115959157da = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/skirt", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/dragon-horns"],
 } as const satisfies Image

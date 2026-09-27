@@ -19,4 +19,5 @@ export const image05e8ac12052b4bc6 = {
   settingTags: ["setting-tag/volcano", "setting-tag/dimly-lit", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

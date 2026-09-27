@@ -24,4 +24,12 @@ export const image4d1baad39e2ea909 = {
     "pose-tag/reclining",
   ],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/gloves", "wardrobe-tag/jewelry"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/wings",
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/dragon",
+    "fantasy-tag/gothic",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

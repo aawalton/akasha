@@ -10,4 +10,5 @@ export const image005ed7fd7a06ea87 = {
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

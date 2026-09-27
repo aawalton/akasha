@@ -10,4 +10,5 @@ export const imageF8ee8c6932739e87 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/deep-v-neck", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

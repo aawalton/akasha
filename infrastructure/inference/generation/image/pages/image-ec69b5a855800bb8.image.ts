@@ -16,4 +16,5 @@ export const imageEc69b5a855800bb8 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/golden-eyes", "fantasy-tag/hologram"],
 } as const satisfies Image

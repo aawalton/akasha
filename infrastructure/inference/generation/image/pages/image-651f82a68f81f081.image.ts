@@ -9,4 +9,5 @@ export const image651f82a68f81f081 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

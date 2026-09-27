@@ -9,4 +9,5 @@ export const imageBc2a0f90c4856c27 = {
   settingTags: ["setting-tag/bathtub", "setting-tag/water"],
   poseTags: ["pose-tag/hand-on-face", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/golden-eyes", "fantasy-tag/horns"],
 } as const satisfies Image

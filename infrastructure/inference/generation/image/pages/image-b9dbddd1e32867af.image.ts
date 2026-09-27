@@ -19,4 +19,5 @@ export const imageB9dbddd1e32867af = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hat", "wardrobe-tag/dress", "wardrobe-tag/robe"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/witch", "fantasy-tag/glowing"],
 } as const satisfies Image

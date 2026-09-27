@@ -20,4 +20,5 @@ export const image3efb32233a34349f = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/forest"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/purple-hair"],
 } as const satisfies Image

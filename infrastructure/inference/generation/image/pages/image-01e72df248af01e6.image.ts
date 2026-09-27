@@ -19,4 +19,5 @@ export const image01e72df248af01e6 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/witch-hat"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic", "fantasy-tag/witch"],
 } as const satisfies Image

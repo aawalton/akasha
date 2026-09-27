@@ -24,4 +24,10 @@ export const image301330146d85fc7a = {
     "pose-tag/reading",
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/gloves"],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

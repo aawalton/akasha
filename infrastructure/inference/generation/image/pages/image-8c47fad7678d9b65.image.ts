@@ -19,4 +19,5 @@ export const image8c47fad7678d9b65 = {
   settingTags: ["setting-tag/spaceship", "setting-tag/dark-background", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/floating", "pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/cosmic"],
 } as const satisfies Image

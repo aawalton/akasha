@@ -10,4 +10,5 @@ export const image19b6e91d0d0e0844 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/robe"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

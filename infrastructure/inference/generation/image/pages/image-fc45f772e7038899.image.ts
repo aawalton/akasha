@@ -10,4 +10,5 @@ export const imageFc45f772e7038899 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/undressing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/hoodie"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay", "fantasy-tag/anime"],
 } as const satisfies Image

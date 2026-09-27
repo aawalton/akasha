@@ -9,4 +9,5 @@ export const image435331363bcbd6df = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

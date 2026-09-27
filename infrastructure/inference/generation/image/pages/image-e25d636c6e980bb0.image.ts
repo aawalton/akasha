@@ -10,4 +10,5 @@ export const imageE25d636c6e980bb0 = {
   settingTags: ["setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

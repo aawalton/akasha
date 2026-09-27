@@ -14,4 +14,5 @@ export const image590b8b15afd2c72c = {
     "pose-tag/embracing",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

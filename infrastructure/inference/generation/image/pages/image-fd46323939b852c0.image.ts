@@ -10,4 +10,5 @@ export const imageFd46323939b852c0 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/lace", "wardrobe-tag/sheer", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const imageFe9c4da4a6db0d3b = {
     "pose-tag/hand-on-hip",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero"],
 } as const satisfies Image

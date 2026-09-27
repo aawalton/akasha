@@ -19,4 +19,5 @@ export const image547e67a49402a1ca = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/dress", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/cosmic"],
 } as const satisfies Image

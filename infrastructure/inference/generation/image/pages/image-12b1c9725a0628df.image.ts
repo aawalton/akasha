@@ -9,4 +9,5 @@ export const image12b1c9725a0628df = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/arms-crossed", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/dragon-horns"],
 } as const satisfies Image

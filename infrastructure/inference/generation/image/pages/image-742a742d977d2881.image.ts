@@ -9,4 +9,5 @@ export const image742a742d977d2881 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor", "setting-tag/doorway"],
   poseTags: ["pose-tag/floating", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

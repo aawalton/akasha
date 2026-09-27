@@ -9,4 +9,5 @@ export const imageF26b290f70e657a8 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/ghost", "fantasy-tag/glowing"],
 } as const satisfies Image

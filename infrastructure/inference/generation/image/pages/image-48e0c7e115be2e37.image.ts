@@ -19,4 +19,5 @@ export const image48e0c7e115be2e37 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/glowing-eyes"],
 } as const satisfies Image

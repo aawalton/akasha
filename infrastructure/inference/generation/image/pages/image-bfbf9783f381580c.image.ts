@@ -24,4 +24,5 @@ export const imageBfbf9783f381580c = {
     "wardrobe-tag/puffed-sleeves",
     "wardrobe-tag/skirt",
   ],
+  fantasyTags: ["fantasy-tag/medieval"],
 } as const satisfies Image

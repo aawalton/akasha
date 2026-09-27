@@ -16,4 +16,5 @@ export const image0044b8e84e3890a7 = {
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/android"],
 } as const satisfies Image

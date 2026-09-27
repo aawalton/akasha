@@ -9,4 +9,5 @@ export const imageB757a6acab02010e = {
   settingTags: ["setting-tag/rooftop", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/corset", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/android"],
 } as const satisfies Image

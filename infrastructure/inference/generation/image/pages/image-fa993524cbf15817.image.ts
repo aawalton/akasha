@@ -21,4 +21,5 @@ export const imageFa993524cbf15817 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

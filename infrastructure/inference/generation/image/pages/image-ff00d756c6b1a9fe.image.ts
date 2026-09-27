@@ -9,4 +9,5 @@ export const imageFf00d756c6b1a9fe = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageA1d674f2d4006beb = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rocks", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/sheet", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

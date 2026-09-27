@@ -19,4 +19,10 @@ export const image39e9ae930ada6ab8 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/corset"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image8f8063fec5107331 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sports-bra"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

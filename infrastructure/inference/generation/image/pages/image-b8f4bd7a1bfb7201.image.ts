@@ -9,4 +9,5 @@ export const imageB8f4bd7a1bfb7201 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/town", "setting-tag/park"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/sundress"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image65d4280bab96851b = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/golden-eyes"],
 } as const satisfies Image

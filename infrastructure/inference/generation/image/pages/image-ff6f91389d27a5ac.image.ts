@@ -10,4 +10,5 @@ export const imageFf6f91389d27a5ac = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/panties", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

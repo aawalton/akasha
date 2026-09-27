@@ -19,4 +19,10 @@ export const image35a2e6818a2eb4e4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight", "setting-tag/library"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/dragon",
+  ],
 } as const satisfies Image

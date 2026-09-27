@@ -10,4 +10,5 @@ export const image4ed3af7c9629847c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/cherry-blossoms"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy", "fantasy-tag/pink-hair"],
 } as const satisfies Image

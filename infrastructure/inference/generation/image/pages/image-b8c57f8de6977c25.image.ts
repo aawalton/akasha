@@ -9,4 +9,5 @@ export const imageB8c57f8de6977c25 = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit", "setting-tag/hallway"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/mermaid", "fantasy-tag/magic"],
 } as const satisfies Image

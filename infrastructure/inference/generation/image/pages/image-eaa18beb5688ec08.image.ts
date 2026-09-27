@@ -28,4 +28,5 @@ export const imageEaa18beb5688ec08 = {
     "wardrobe-tag/bare-shoulders",
     "wardrobe-tag/glitter-makeup",
   ],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
 } as const satisfies Image

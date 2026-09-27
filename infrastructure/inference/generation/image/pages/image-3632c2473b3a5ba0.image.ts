@@ -20,4 +20,5 @@ export const image3632c2473b3a5ba0 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow", "setting-tag/lake"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/antlers", "fantasy-tag/warrior"],
 } as const satisfies Image

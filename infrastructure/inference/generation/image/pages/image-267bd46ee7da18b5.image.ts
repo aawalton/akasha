@@ -9,4 +9,5 @@ export const image267bd46ee7da18b5 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/hotel"],
   poseTags: ["pose-tag/looking-back", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

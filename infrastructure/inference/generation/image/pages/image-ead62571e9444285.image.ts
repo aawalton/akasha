@@ -15,4 +15,5 @@ export const imageEad62571e9444285 = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

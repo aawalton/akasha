@@ -25,4 +25,5 @@ export const imageFdba8a82b9018d0e = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

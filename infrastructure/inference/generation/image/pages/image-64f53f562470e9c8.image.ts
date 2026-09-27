@@ -14,4 +14,5 @@ export const image64f53f562470e9c8 = {
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/off-shoulder", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
 } as const satisfies Image

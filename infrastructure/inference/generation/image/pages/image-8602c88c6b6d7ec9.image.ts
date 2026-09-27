@@ -10,4 +10,5 @@ export const image8602c88c6b6d7ec9 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/profile", "pose-tag/smiling", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

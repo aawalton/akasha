@@ -9,4 +9,5 @@ export const image0825c943c3e74be1 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/neon-lights", "setting-tag/studio"],
   poseTags: ["pose-tag/kneeling", "pose-tag/profile", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/hologram", "fantasy-tag/glowing"],
 } as const satisfies Image

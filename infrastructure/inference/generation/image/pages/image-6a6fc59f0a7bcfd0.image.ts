@@ -19,4 +19,5 @@ export const image6a6fc59f0a7bcfd0 = {
   settingTags: ["setting-tag/spaceship", "setting-tag/living-room"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/boots", "wardrobe-tag/high-heels"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
 } as const satisfies Image

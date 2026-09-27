@@ -19,4 +19,5 @@ export const image85a9e4a64a2834f1 = {
   settingTags: ["setting-tag/temple"],
   poseTags: ["pose-tag/dancing", "pose-tag/standing", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/saree", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/mythological", "fantasy-tag/historical"],
 } as const satisfies Image

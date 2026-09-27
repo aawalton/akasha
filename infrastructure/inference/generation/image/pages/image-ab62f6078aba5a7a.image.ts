@@ -9,4 +9,5 @@ export const imageAb62f6078aba5a7a = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sheer-dress", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/ethereal"],
 } as const satisfies Image

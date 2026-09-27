@@ -10,4 +10,5 @@ export const imageE38ac3982d56c7df = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageBdf6aecd2df82aa8 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/robe"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

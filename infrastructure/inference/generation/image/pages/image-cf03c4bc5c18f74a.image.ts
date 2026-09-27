@@ -20,4 +20,10 @@ export const imageCf03c4bc5c18f74a = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: [
+    "fantasy-tag/fox-ears",
+    "fantasy-tag/kitsune",
+    "fantasy-tag/animal-ears",
+    "fantasy-tag/tail",
+  ],
 } as const satisfies Image

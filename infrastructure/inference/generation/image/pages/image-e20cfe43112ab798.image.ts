@@ -24,4 +24,10 @@ export const imageE20cfe43112ab798 = {
     "pose-tag/front-view",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/armor", "wardrobe-tag/sheer"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/demon",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

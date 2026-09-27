@@ -9,4 +9,10 @@ export const image0c6669688bcc2b29 = {
   settingTags: ["setting-tag/ruins", "setting-tag/forest"],
   poseTags: ["pose-tag/fighting"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/sheet", "wardrobe-tag/boots"],
+  fantasyTags: [
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/anthro",
+    "fantasy-tag/magic",
+  ],
 } as const satisfies Image

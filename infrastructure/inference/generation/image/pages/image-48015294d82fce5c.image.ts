@@ -20,4 +20,5 @@ export const image48015294d82fce5c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/hallway", "setting-tag/castle"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

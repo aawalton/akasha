@@ -20,4 +20,10 @@ export const image0bb21334ecd4a398 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/strapless"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/green-hair",
+    "fantasy-tag/golden-eyes",
+  ],
 } as const satisfies Image

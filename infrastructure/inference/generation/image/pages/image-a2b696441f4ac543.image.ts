@@ -26,4 +26,10 @@ export const imageA2b696441f4ac543 = {
     "wardrobe-tag/silk",
     "wardrobe-tag/jewelry",
   ],
+  fantasyTags: [
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

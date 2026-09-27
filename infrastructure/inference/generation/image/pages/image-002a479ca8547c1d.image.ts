@@ -11,4 +11,5 @@ export const image002a479ca8547c1d = {
   relationshipLevel: "closeness-level/level-3",
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageD96fa546bd7972ff = {
   settingTags: ["setting-tag/underwater", "setting-tag/ocean", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/mermaid"],
 } as const satisfies Image

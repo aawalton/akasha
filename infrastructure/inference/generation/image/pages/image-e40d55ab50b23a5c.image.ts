@@ -16,4 +16,5 @@ export const imageE40d55ab50b23a5c = {
   settingTags: ["setting-tag/studio", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk"],
 } as const satisfies Image

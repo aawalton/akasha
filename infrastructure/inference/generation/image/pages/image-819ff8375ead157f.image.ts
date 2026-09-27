@@ -9,4 +9,5 @@ export const image819ff8375ead157f = {
   settingTags: ["setting-tag/hallway", "setting-tag/volcano"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/strapless", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing", "fantasy-tag/cosplay"],
 } as const satisfies Image

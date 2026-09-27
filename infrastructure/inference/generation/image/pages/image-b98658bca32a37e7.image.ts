@@ -26,4 +26,5 @@ export const imageB98658bca32a37e7 = {
   settingTags: ["setting-tag/forest", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

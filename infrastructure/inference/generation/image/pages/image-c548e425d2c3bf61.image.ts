@@ -10,4 +10,5 @@ export const imageC548e425d2c3bf61 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

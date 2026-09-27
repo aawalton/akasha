@@ -9,4 +9,5 @@ export const imageD44ac21932cb7981 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-raised", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/superhero"],
 } as const satisfies Image

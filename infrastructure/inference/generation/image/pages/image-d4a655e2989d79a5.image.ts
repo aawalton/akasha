@@ -10,4 +10,5 @@ export const imageD4a655e2989d79a5 = {
   settingTags: ["setting-tag/pool", "setting-tag/underwater", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/floating"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  fantasyTags: ["fantasy-tag/cosmic"],
 } as const satisfies Image

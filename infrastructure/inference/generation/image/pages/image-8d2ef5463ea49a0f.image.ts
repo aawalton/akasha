@@ -19,4 +19,11 @@ export const image8d2ef5463ea49a0f = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: [
+    "fantasy-tag/scales",
+    "fantasy-tag/horns",
+    "fantasy-tag/demon",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/dragon-horns",
+  ],
 } as const satisfies Image

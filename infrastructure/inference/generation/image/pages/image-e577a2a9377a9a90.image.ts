@@ -20,4 +20,5 @@ export const imageE577a2a9377a9a90 = {
   settingTags: ["setting-tag/underwater", "setting-tag/water"],
   poseTags: ["pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/monster-girl", "fantasy-tag/ghost", "fantasy-tag/gothic"],
 } as const satisfies Image

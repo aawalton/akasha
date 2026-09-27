@@ -10,4 +10,5 @@ export const imageAbece5e6ab35c28d = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sheer", "wardrobe-tag/nipples-visible"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

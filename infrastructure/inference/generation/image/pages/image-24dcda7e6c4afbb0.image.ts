@@ -10,4 +10,5 @@ export const image24dcda7e6c4afbb0 = {
   settingTags: ["setting-tag/museum", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

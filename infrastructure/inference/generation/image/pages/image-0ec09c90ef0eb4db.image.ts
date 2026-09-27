@@ -19,4 +19,5 @@ export const image0ec09c90ef0eb4db = {
   settingTags: ["setting-tag/stage", "setting-tag/dark-background"],
   poseTags: ["pose-tag/kneeling", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/android"],
 } as const satisfies Image

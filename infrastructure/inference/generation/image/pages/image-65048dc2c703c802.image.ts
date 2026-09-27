@@ -10,4 +10,5 @@ export const image65048dc2c703c802 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/deep-v-neck", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

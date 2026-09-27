@@ -10,4 +10,5 @@ export const imageE5f70c11e72fa0e5 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

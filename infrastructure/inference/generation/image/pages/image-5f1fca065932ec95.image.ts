@@ -24,4 +24,5 @@ export const image5f1fca065932ec95 = {
     "pose-tag/reading",
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears"],
 } as const satisfies Image

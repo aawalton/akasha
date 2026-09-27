@@ -24,4 +24,10 @@ export const imageE99650941c6c1bbc = {
     "pose-tag/reclining",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/harness", "wardrobe-tag/jewelry"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/horns",
+    "fantasy-tag/purple-hair",
+  ],
 } as const satisfies Image

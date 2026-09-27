@@ -10,4 +10,5 @@ export const imageA34f6af84c267cb5 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image3b00b3c9a78da522 = {
     "pose-tag/hands-clasped",
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/skirt", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
 } as const satisfies Image

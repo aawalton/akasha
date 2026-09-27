@@ -20,4 +20,10 @@ export const image6a719b6a328a17b7 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/tights"],
+  fantasyTags: [
+    "fantasy-tag/green-skin",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/red-eyes",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

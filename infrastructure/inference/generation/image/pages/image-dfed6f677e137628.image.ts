@@ -10,4 +10,5 @@ export const imageDfed6f677e137628 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/silver-hair"],
 } as const satisfies Image

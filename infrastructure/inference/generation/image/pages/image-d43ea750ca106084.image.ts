@@ -9,4 +9,5 @@ export const imageD43ea750ca106084 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/floating", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/topless", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/monster-girl"],
 } as const satisfies Image

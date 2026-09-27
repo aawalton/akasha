@@ -10,4 +10,5 @@ export const imageCa3434e93fe15e46 = {
   settingTags: ["setting-tag/ocean", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/floating", "pose-tag/jumping", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/shorts", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/cosmic"],
 } as const satisfies Image

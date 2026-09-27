@@ -9,4 +9,5 @@ export const image71746c2ad1951508 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/lying-down", "pose-tag/oral-sex"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image26547226cb3bd841 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

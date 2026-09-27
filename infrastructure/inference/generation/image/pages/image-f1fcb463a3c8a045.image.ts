@@ -10,4 +10,5 @@ export const imageF1fcb463a3c8a045 = {
   settingTags: ["setting-tag/studio", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/lingerie", "wardrobe-tag/nipples-visible"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

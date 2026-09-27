@@ -19,4 +19,5 @@ export const image6dbe936351f89299 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/harness", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
 } as const satisfies Image

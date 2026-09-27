@@ -10,4 +10,5 @@ export const image47f8ad6f485272e2 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

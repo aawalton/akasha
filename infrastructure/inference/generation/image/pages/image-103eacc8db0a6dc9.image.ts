@@ -19,4 +19,5 @@ export const image103eacc8db0a6dc9 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/android", "fantasy-tag/silver-hair"],
 } as const satisfies Image

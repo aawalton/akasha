@@ -20,4 +20,5 @@ export const image3d5ee6ce3fa14180 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gown", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/angel", "fantasy-tag/glowing-eyes", "fantasy-tag/mythological"],
 } as const satisfies Image

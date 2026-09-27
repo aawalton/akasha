@@ -9,4 +9,5 @@ export const imageE733025fbd1337af = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

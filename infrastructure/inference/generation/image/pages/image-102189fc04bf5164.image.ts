@@ -10,4 +10,5 @@ export const image102189fc04bf5164 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/silver-hair"],
 } as const satisfies Image

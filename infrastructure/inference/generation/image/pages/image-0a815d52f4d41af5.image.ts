@@ -9,4 +9,5 @@ export const image0a815d52f4d41af5 = {
   settingTags: ["setting-tag/cave", "setting-tag/river"],
   poseTags: ["pose-tag/standing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

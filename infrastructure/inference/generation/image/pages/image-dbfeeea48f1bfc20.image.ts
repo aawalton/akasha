@@ -19,4 +19,5 @@ export const imageDbfeeea48f1bfc20 = {
   settingTags: ["setting-tag/indoor", "setting-tag/museum", "setting-tag/shop"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageEac5b523b1dd5eb3 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image88a784bed69bc549 = {
     "pose-tag/standing",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

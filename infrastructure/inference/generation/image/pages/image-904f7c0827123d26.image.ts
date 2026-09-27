@@ -25,4 +25,5 @@ export const image904f7c0827123d26 = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/bioluminescence"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image8d2fcf36eb44a218 = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/jewelry", "wardrobe-tag/choker"],
+  fantasyTags: ["fantasy-tag/gothic"],
 } as const satisfies Image

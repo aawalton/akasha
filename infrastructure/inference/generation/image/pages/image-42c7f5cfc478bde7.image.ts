@@ -24,4 +24,5 @@ export const image42c7f5cfc478bde7 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/glasses"],
+  fantasyTags: ["fantasy-tag/fairy"],
 } as const satisfies Image

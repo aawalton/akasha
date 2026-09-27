@@ -9,4 +9,5 @@ export const image43e309e810799115 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/warrior"],
 } as const satisfies Image

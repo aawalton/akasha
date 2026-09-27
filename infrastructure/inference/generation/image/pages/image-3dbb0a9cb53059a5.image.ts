@@ -20,4 +20,5 @@ export const image3dbb0a9cb53059a5 = {
   settingTags: ["setting-tag/water"],
   poseTags: ["pose-tag/close-up", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/mermaid"],
 } as const satisfies Image

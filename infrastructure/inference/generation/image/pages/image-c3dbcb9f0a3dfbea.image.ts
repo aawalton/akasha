@@ -19,4 +19,5 @@ export const imageC3dbcb9f0a3dfbea = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/bra"],
+  fantasyTags: ["fantasy-tag/wings"],
 } as const satisfies Image

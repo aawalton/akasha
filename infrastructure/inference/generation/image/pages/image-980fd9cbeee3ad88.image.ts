@@ -10,4 +10,5 @@ export const image980fd9cbeee3ad88 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/lace"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

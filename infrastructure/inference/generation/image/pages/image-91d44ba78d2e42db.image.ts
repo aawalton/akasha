@@ -10,4 +10,5 @@ export const image91d44ba78d2e42db = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

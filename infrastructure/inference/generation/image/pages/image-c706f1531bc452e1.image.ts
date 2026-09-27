@@ -9,4 +9,5 @@ export const imageC706f1531bc452e1 = {
   settingTags: ["setting-tag/bathtub", "setting-tag/water", "setting-tag/hot-spring"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-in-hair", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

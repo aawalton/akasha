@@ -20,4 +20,5 @@ export const imageAdaff096672346ca = {
   settingTags: ["setting-tag/temple", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
 } as const satisfies Image

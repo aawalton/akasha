@@ -16,4 +16,10 @@ export const imageBa3a155516bdf76e = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: [
+    "fantasy-tag/dragon",
+    "fantasy-tag/horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/dragon-horns",
+  ],
 } as const satisfies Image

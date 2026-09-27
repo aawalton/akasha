@@ -9,4 +9,5 @@ export const imageCa946fb5f998d99e = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/art-studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/bare-shoulders", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

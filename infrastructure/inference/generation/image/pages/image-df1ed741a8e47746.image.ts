@@ -9,4 +9,5 @@ export const imageDf1ed741a8e47746 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/rain"],
   poseTags: ["pose-tag/looking-up", "pose-tag/close-up", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

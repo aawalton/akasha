@@ -20,4 +20,11 @@ export const imageCa3a741df4cd2782 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/snow"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/green-hair",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/weapons",
+  ],
 } as const satisfies Image

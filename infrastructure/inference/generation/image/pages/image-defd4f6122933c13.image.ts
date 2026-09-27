@@ -10,4 +10,5 @@ export const imageDefd4f6122933c13 = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

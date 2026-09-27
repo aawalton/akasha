@@ -19,4 +19,5 @@ export const image2d8298fb2582b83d = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/naga"],
 } as const satisfies Image

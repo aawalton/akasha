@@ -15,4 +15,5 @@ export const imageC3d113c3ab42a2f9 = {
     "pose-tag/hands-on-chest",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

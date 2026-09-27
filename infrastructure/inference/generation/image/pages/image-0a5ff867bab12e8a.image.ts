@@ -10,4 +10,5 @@ export const image0a5ff867bab12e8a = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/bedroom"],
   poseTags: ["pose-tag/looking-down", "pose-tag/close-up", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/deep-v-neck", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

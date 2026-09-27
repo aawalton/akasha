@@ -14,4 +14,5 @@ export const imageE11beb34fb4ef7b8 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/topless", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/antlers"],
 } as const satisfies Image

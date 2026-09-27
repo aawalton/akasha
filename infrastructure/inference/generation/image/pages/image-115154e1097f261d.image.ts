@@ -9,4 +9,5 @@ export const image115154e1097f261d = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

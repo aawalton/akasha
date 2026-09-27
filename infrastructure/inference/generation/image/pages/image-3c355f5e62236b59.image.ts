@@ -9,4 +9,5 @@ export const image3c355f5e62236b59 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero"],
 } as const satisfies Image

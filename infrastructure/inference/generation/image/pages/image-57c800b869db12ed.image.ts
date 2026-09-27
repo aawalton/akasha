@@ -27,4 +27,10 @@ export const image57c800b869db12ed = {
     "wardrobe-tag/leather",
     "wardrobe-tag/silk",
   ],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/horns",
+    "fantasy-tag/magic",
+    "fantasy-tag/medieval",
+  ],
 } as const satisfies Image

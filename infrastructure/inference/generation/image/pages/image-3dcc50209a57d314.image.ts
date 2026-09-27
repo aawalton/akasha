@@ -15,4 +15,5 @@ export const image3dcc50209a57d314 = {
     "pose-tag/hands-clasped",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

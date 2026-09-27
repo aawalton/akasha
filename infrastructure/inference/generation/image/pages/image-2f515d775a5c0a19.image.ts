@@ -10,4 +10,5 @@ export const image2f515d775a5c0a19 = {
   settingTags: ["setting-tag/indoor", "setting-tag/greenhouse", "setting-tag/home"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/loungewear"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

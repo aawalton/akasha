@@ -24,4 +24,5 @@ export const image66e585ff54b20e6c = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

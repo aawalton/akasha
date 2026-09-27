@@ -9,4 +9,5 @@ export const image1bcfee61df8764d9 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/topless", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

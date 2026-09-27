@@ -10,4 +10,5 @@ export const image83d9c1437e17aa23 = {
   settingTags: ["setting-tag/cave", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/cosplay"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image0ce6f9fee93098e7 = {
   settingTags: ["setting-tag/studio", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/surreal"],
 } as const satisfies Image

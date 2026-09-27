@@ -26,4 +26,5 @@ export const imageF5006bbbf13cb05a = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image55bbee960205666c = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/body-paint", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

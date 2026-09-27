@@ -20,4 +20,5 @@ export const imageAcae0ddb8b41ba23 = {
   settingTags: ["setting-tag/museum", "setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheet", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

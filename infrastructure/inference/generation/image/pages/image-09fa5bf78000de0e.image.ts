@@ -15,4 +15,5 @@ export const image09fa5bf78000de0e = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/mythological", "fantasy-tag/magic"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image24ae6c9b7bb0acf1 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lace"],
+  fantasyTags: ["fantasy-tag/angel", "fantasy-tag/wings"],
 } as const satisfies Image

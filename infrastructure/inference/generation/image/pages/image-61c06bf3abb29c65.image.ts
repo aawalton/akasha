@@ -9,4 +9,5 @@ export const image61c06bf3abb29c65 = {
   settingTags: ["setting-tag/living-room", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/pink-hair", "fantasy-tag/anime"],
 } as const satisfies Image

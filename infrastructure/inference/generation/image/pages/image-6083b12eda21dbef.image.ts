@@ -9,4 +9,5 @@ export const image6083b12eda21dbef = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/choker"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

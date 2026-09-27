@@ -17,4 +17,5 @@ export const image37f630742a5129a8 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/shirt", "wardrobe-tag/headband"],
+  fantasyTags: ["fantasy-tag/bunny-ears"],
 } as const satisfies Image

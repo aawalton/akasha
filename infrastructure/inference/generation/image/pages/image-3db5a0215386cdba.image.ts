@@ -19,4 +19,5 @@ export const image3db5a0215386cdba = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/fairy-tale", "fantasy-tag/gothic"],
 } as const satisfies Image

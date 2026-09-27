@@ -10,4 +10,5 @@ export const image5c134515d93d522a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/pants-down"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

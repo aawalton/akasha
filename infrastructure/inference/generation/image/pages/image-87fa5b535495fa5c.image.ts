@@ -20,4 +20,5 @@ export const image87fa5b535495fa5c = {
   settingTags: ["setting-tag/forest", "setting-tag/ruins", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/naga"],
 } as const satisfies Image

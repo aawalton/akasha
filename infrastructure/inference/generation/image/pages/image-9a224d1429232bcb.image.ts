@@ -10,4 +10,5 @@ export const image9a224d1429232bcb = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/corset", "wardrobe-tag/mask"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

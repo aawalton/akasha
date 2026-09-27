@@ -10,4 +10,5 @@ export const imageE792e9fd89190200 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/water", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/wet"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image3ac49a8912f0530e = {
   settingTags: ["setting-tag/indoor", "setting-tag/cabin", "setting-tag/kitchen"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/hat"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/magic"],
 } as const satisfies Image

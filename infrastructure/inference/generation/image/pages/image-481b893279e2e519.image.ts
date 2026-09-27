@@ -19,4 +19,5 @@ export const image481b893279e2e519 = {
   settingTags: ["setting-tag/stage", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/silk", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/medieval"],
 } as const satisfies Image

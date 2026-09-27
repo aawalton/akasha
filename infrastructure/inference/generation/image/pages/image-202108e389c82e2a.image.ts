@@ -20,4 +20,5 @@ export const image202108e389c82e2a = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/dock"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/ethereal"],
 } as const satisfies Image

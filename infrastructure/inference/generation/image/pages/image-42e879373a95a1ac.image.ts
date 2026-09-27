@@ -15,4 +15,5 @@ export const image42e879373a95a1ac = {
     "pose-tag/hand-on-face",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/robe", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

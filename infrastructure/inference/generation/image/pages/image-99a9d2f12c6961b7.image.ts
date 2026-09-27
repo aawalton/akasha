@@ -9,4 +9,5 @@ export const image99a9d2f12c6961b7 = {
   settingTags: ["setting-tag/water", "setting-tag/pool"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wet"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/glowing"],
 } as const satisfies Image

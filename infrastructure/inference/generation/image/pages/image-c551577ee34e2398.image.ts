@@ -9,4 +9,5 @@ export const imageC551577ee34e2398 = {
   settingTags: ["setting-tag/night", "setting-tag/city", "setting-tag/rain"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

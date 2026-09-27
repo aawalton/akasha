@@ -9,4 +9,5 @@ export const image951abdaa9e0abfef = {
   settingTags: ["setting-tag/pool", "setting-tag/water", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

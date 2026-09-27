@@ -15,4 +15,10 @@ export const imageFf0f46a1128c96c2 = {
     "wardrobe-tag/silk",
     "wardrobe-tag/off-shoulder",
   ],
+  fantasyTags: [
+    "fantasy-tag/cosmic",
+    "fantasy-tag/blue-skin",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/silver-hair",
+  ],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageC218bc649d6ae4eb = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

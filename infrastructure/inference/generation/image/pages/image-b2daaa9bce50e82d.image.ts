@@ -9,4 +9,5 @@ export const imageB2daaa9bce50e82d = {
   settingTags: ["setting-tag/underwater", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing", "fantasy-tag/ethereal"],
 } as const satisfies Image

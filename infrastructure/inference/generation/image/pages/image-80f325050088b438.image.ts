@@ -19,4 +19,5 @@ export const image80f325050088b438 = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/dragon-horns"],
 } as const satisfies Image

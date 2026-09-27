@@ -9,4 +9,5 @@ export const imageD8f2da3abadb42aa = {
   settingTags: ["setting-tag/castle", "setting-tag/ruins"],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

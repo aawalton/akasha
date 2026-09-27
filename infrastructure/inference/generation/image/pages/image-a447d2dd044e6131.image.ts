@@ -15,4 +15,5 @@ export const imageA447d2dd044e6131 = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

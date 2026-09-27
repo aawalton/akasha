@@ -20,4 +20,5 @@ export const image2bd3fb1909f01111 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image90e0d368ac2afe00 = {
   settingTags: ["setting-tag/museum", "setting-tag/study", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/green-hair"],
 } as const satisfies Image

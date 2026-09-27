@@ -16,4 +16,5 @@ export const image7882de9d40234809 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/canyon", "setting-tag/nature"],
   poseTags: ["pose-tag/selfie", "pose-tag/reaching", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/t-shirt", "wardrobe-tag/backpack"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image3f9a8d9f28868808 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/hat"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/witch"],
 } as const satisfies Image

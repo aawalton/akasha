@@ -20,4 +20,10 @@ export const image5fd727becd071d60 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tube-top"],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/green-hair",
+    "fantasy-tag/golden-eyes",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

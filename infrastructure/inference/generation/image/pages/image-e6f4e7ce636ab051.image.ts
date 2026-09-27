@@ -24,4 +24,10 @@ export const imageE6f4e7ce636ab051 = {
     "wardrobe-tag/off-shoulder",
     "wardrobe-tag/jewelry",
   ],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

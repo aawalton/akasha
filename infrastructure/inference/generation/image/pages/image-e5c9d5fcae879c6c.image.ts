@@ -19,4 +19,5 @@ export const imageE5c9d5fcae879c6c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
 } as const satisfies Image

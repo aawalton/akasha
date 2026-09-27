@@ -10,4 +10,5 @@ export const image2a863f39068c6270 = {
   settingTags: ["setting-tag/hallway", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/medieval"],
 } as const satisfies Image

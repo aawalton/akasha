@@ -10,4 +10,5 @@ export const imageBa379271262e84fd = {
   settingTags: ["setting-tag/mountains", "setting-tag/outdoor", "setting-tag/forest"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

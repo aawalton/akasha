@@ -14,4 +14,5 @@ export const imageC13c0fd847d0e456 = {
     "wardrobe-tag/backless",
     "wardrobe-tag/high-slit",
   ],
+  fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing", "fantasy-tag/ethereal"],
 } as const satisfies Image

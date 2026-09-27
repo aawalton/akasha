@@ -19,4 +19,5 @@ export const image8d5396c7b9570a33 = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/android", "fantasy-tag/hologram", "fantasy-tag/glowing"],
 } as const satisfies Image

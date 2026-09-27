@@ -21,4 +21,5 @@ export const image23286950ebbdd84d = {
     "pose-tag/head-tilt",
   ],
   wardrobeTags: ["wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

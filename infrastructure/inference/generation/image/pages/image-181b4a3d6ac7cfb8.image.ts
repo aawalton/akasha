@@ -9,4 +9,5 @@ export const image181b4a3d6ac7cfb8 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/squatting", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/bioluminescence"],
 } as const satisfies Image

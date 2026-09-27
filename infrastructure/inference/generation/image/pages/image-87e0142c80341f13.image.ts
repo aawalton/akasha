@@ -19,4 +19,5 @@ export const image87e0142c80341f13 = {
   settingTags: ["setting-tag/library"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/glasses"],
+  fantasyTags: ["fantasy-tag/fairy"],
 } as const satisfies Image

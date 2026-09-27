@@ -9,4 +9,5 @@ export const imageDb27a16a7ff77392 = {
   settingTags: ["setting-tag/volcano", "setting-tag/cave"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing"],
 } as const satisfies Image

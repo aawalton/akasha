@@ -20,4 +20,5 @@ export const imageD02b2177c4c4caa8 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/painting"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

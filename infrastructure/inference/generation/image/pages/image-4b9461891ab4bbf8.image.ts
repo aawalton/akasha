@@ -19,4 +19,5 @@ export const image4b9461891ab4bbf8 = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bra"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/glowing", "fantasy-tag/nature-spirit"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image0f349614c8cb8d60 = {
   settingTags: ["setting-tag/rooftop", "setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

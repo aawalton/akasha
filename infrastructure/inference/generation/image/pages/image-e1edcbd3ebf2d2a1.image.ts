@@ -10,4 +10,5 @@ export const imageE1edcbd3ebf2d2a1 = {
   settingTags: ["setting-tag/cave", "setting-tag/rocks", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/gown", "wardrobe-tag/high-slit"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing"],
 } as const satisfies Image

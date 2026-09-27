@@ -19,4 +19,5 @@ export const image93bbc389411705ff = {
   settingTags: ["setting-tag/outdoor", "setting-tag/desert", "setting-tag/mountains"],
   poseTags: ["pose-tag/standing", "pose-tag/portrait", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/deep-v-neck", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

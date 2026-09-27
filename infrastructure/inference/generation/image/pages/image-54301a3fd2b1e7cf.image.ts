@@ -15,4 +15,5 @@ export const image54301a3fd2b1e7cf = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

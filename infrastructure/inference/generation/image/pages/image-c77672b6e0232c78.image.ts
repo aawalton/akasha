@@ -9,4 +9,5 @@ export const imageC77672b6e0232c78 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/shorts", "wardrobe-tag/kimono"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/cosplay"],
 } as const satisfies Image

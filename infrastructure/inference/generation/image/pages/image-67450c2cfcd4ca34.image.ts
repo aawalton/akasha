@@ -9,4 +9,5 @@ export const image67450c2cfcd4ca34 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

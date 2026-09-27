@@ -15,4 +15,5 @@ export const imageE16a028928badf86 = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

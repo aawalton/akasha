@@ -9,4 +9,5 @@ export const imageB5727cecd1b8514f = {
   settingTags: ["setting-tag/workshop", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress", "wardrobe-tag/slip-dress"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

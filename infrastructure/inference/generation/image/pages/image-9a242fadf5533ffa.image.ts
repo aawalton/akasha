@@ -20,4 +20,5 @@ export const image9a242fadf5533ffa = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

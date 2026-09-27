@@ -10,4 +10,5 @@ export const image53d167db665e5e27 = {
   settingTags: ["setting-tag/indoor", "setting-tag/doorway", "setting-tag/window"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

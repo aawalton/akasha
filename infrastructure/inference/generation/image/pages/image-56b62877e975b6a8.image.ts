@@ -19,4 +19,5 @@ export const image56b62877e975b6a8 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

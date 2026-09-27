@@ -9,4 +9,5 @@ export const imageF014b29af69c946c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/balcony"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/anime"],
 } as const satisfies Image

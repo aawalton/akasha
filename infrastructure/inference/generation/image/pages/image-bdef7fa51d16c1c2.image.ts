@@ -19,4 +19,5 @@ export const imageBdef7fa51d16c1c2 = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/android", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
 } as const satisfies Image

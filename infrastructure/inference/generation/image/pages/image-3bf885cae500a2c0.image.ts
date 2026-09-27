@@ -22,4 +22,5 @@ export const image3bf885cae500a2c0 = {
     "wardrobe-tag/nude",
     "wardrobe-tag/glitter-makeup",
   ],
+  fantasyTags: ["fantasy-tag/cosmic"],
 } as const satisfies Image

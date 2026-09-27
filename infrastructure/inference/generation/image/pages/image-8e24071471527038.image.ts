@@ -24,4 +24,12 @@ export const image8e24071471527038 = {
     "pose-tag/standing",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/body-paint"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/green-skin",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/fairy",
+    "fantasy-tag/nature-spirit",
+    "fantasy-tag/bioluminescence",
+  ],
 } as const satisfies Image

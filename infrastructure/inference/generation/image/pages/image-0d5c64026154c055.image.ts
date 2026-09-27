@@ -19,4 +19,10 @@ export const image0d5c64026154c055 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/scales",
+    "fantasy-tag/purple-eyes",
+  ],
 } as const satisfies Image

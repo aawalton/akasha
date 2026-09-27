@@ -29,4 +29,5 @@ export const image7646652ffe0a4838 = {
     "wardrobe-tag/long-sleeves",
     "wardrobe-tag/fully-clothed",
   ],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/cosplay"],
 } as const satisfies Image

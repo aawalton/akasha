@@ -19,4 +19,5 @@ export const imageC95a2e01177710fc = {
   settingTags: ["setting-tag/outdoor", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/cosplay"],
 } as const satisfies Image

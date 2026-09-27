@@ -10,4 +10,5 @@ export const image3aa90f44be346c7b = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/backless", "wardrobe-tag/high-slit"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

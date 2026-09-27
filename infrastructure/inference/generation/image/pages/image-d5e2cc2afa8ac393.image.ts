@@ -9,4 +9,5 @@ export const imageD5e2cc2afa8ac393 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/sports-bra"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

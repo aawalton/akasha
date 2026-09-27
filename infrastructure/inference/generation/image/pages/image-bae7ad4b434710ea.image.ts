@@ -22,4 +22,5 @@ export const imageBae7ad4b434710ea = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/red-string"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

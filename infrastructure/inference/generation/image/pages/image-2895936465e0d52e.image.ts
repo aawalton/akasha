@@ -20,4 +20,5 @@ export const image2895936465e0d52e = {
   settingTags: ["setting-tag/forest", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/bioluminescence"],
 } as const satisfies Image

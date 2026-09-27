@@ -20,4 +20,5 @@ export const image9ee1880590bdf44c = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/historical", "fantasy-tag/cosmic"],
 } as const satisfies Image

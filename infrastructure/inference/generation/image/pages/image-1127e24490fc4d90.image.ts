@@ -10,4 +10,5 @@ export const image1127e24490fc4d90 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/hoodie"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

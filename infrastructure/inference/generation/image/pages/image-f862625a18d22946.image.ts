@@ -10,4 +10,5 @@ export const imageF862625a18d22946 = {
   settingTags: ["setting-tag/bar", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/holding-drink", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

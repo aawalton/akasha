@@ -13,4 +13,5 @@ export const image985e2a61476776b6 = {
     "setting-tag/night",
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-up"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/dragon"],
 } as const satisfies Image

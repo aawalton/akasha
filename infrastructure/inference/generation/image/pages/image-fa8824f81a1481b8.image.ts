@@ -15,4 +15,5 @@ export const imageFa8824f81a1481b8 = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
 } as const satisfies Image

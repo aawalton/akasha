@@ -24,4 +24,10 @@ export const image3c4a5d19f528d46b = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: [
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/android",
+    "fantasy-tag/bioluminescence",
+    "fantasy-tag/elf-ears",
+  ],
 } as const satisfies Image

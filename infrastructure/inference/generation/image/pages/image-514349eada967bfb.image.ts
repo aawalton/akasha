@@ -10,4 +10,5 @@ export const image514349eada967bfb = {
   settingTags: ["setting-tag/bedroom", "setting-tag/vanity", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/cardigan"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

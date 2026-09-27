@@ -9,4 +9,5 @@ export const image287aa5695baef399 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/cabin"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/glasses"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/magic"],
 } as const satisfies Image

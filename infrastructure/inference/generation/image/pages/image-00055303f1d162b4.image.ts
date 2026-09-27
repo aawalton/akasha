@@ -20,4 +20,5 @@ export const image00055303f1d162b4 = {
   relationshipLevel: "closeness-level/level-5",
   poseTags: ["pose-tag/looking-back", "pose-tag/back-view", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/backless"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

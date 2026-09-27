@@ -10,4 +10,5 @@ export const imageA6de78bcdd6999eb = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cloak", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/medieval"],
 } as const satisfies Image

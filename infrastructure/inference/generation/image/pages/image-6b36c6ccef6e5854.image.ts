@@ -9,4 +9,5 @@ export const image6b36c6ccef6e5854 = {
   settingTags: ["setting-tag/bathtub", "setting-tag/indoor", "setting-tag/water"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

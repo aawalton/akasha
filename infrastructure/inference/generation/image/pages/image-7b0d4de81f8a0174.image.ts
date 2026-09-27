@@ -9,4 +9,5 @@ export const image7b0d4de81f8a0174 = {
   settingTags: ["setting-tag/volcano", "setting-tag/dark-background"],
   poseTags: ["pose-tag/front-view", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing", "fantasy-tag/magic"],
 } as const satisfies Image

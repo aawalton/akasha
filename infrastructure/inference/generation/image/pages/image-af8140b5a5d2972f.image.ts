@@ -9,4 +9,5 @@ export const imageAf8140b5a5d2972f = {
   settingTags: ["setting-tag/abstract-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/skirt", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/antlers", "fantasy-tag/wings"],
 } as const satisfies Image

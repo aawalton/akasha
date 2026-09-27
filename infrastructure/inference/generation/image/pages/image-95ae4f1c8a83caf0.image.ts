@@ -9,4 +9,5 @@ export const image95ae4f1c8a83caf0 = {
   settingTags: ["setting-tag/snow", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/antlers"],
 } as const satisfies Image

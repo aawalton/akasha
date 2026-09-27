@@ -10,4 +10,5 @@ export const imageF636c87d89f9dfe8 = {
   settingTags: ["setting-tag/spaceship"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/boots", "wardrobe-tag/choker"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
 } as const satisfies Image

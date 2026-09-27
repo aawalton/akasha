@@ -9,4 +9,5 @@ export const image09f8f9fce2889a41 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

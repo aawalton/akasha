@@ -9,4 +9,5 @@ export const imageC8653837cefae419 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/autumn"],
   poseTags: ["pose-tag/looking-up", "pose-tag/holding-weapon", "pose-tag/top-down-view"],
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/skirt", "wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons"],
 } as const satisfies Image

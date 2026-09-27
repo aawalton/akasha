@@ -15,4 +15,5 @@ export const image7f322b2b795a8b4e = {
     "wardrobe-tag/deep-v-neck",
     "wardrobe-tag/partial-undress",
   ],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

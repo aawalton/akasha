@@ -9,4 +9,5 @@ export const imageA31e0c96c8e16bb7 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/jewelry", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel", "fantasy-tag/mythological"],
 } as const satisfies Image

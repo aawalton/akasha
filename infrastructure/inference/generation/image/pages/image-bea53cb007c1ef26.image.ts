@@ -10,4 +10,5 @@ export const imageBea53cb007c1ef26 = {
   settingTags: ["setting-tag/river", "setting-tag/rain", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/boots", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons"],
 } as const satisfies Image

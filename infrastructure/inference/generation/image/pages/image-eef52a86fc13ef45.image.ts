@@ -9,4 +9,5 @@ export const imageEef52a86fc13ef45 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

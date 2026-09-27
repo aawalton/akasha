@@ -20,4 +20,5 @@ export const image454f074b71d3c8e5 = {
   settingTags: ["setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/sci-fi"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageF96354c6b001f771 = {
   settingTags: ["setting-tag/museum", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

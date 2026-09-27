@@ -19,4 +19,5 @@ export const imageBb9a47b709b33195 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/mythological"],
 } as const satisfies Image

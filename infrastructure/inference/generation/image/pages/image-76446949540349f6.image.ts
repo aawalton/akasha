@@ -20,4 +20,10 @@ export const image76446949540349f6 = {
     "wardrobe-tag/cleavage",
     "wardrobe-tag/bare-shoulders",
   ],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/horns",
+    "fantasy-tag/cosplay",
+    "fantasy-tag/medieval",
+  ],
 } as const satisfies Image

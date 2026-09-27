@@ -20,4 +20,5 @@ export const imageEbd6fbf61b36c3b1 = {
     "wardrobe-tag/gloves",
     "wardrobe-tag/belt",
   ],
+  fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cosplay"],
 } as const satisfies Image

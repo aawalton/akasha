@@ -10,4 +10,5 @@ export const image962cd9ecc8d8d07c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rooftop", "setting-tag/sky"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/cosplay", "fantasy-tag/anime"],
 } as const satisfies Image

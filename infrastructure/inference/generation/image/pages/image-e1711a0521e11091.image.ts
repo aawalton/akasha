@@ -25,4 +25,5 @@ export const imageE1711a0521e11091 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/cyberpunk"],
 } as const satisfies Image

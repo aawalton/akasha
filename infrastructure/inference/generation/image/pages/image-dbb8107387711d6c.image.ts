@@ -13,4 +13,5 @@ export const imageDbb8107387711d6c = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/silk", "wardrobe-tag/bare-legs", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/anime"],
 } as const satisfies Image

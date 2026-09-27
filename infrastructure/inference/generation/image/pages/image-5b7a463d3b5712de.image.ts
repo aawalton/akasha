@@ -9,4 +9,5 @@ export const image5b7a463d3b5712de = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/antlers"],
 } as const satisfies Image

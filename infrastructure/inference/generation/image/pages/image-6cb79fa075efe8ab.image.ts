@@ -9,4 +9,5 @@ export const image6cb79fa075efe8ab = {
   settingTags: ["setting-tag/dark-background", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kissing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry", "wardrobe-tag/tiara"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

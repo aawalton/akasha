@@ -9,4 +9,5 @@ export const imageFf430f7ae03c3803 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/waterfall"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

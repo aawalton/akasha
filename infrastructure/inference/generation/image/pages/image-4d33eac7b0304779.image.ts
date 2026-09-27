@@ -14,4 +14,5 @@ export const image4d33eac7b0304779 = {
     "pose-tag/holding-flowers",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing"],
 } as const satisfies Image

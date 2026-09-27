@@ -19,4 +19,5 @@ export const image483ad8ab4a1767ae = {
   settingTags: ["setting-tag/library", "setting-tag/museum", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

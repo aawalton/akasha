@@ -10,4 +10,5 @@ export const image88527538e7c88257 = {
   settingTags: ["setting-tag/stage"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/stockings", "wardrobe-tag/gloves"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

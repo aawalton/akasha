@@ -9,4 +9,5 @@ export const image106597d6a3507e01 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
 } as const satisfies Image

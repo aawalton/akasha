@@ -9,4 +9,5 @@ export const image86743f446e7c7c2f = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/dragon-horns"],
 } as const satisfies Image

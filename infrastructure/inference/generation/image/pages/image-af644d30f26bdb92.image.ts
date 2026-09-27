@@ -21,4 +21,5 @@ export const imageAf644d30f26bdb92 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/pants", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

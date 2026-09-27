@@ -20,4 +20,5 @@ export const image86554d2b3fc7f48b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/castle", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

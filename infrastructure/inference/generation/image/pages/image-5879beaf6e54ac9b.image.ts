@@ -10,4 +10,5 @@ export const image5879beaf6e54ac9b = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

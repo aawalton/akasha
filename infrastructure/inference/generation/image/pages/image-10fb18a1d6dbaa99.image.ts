@@ -14,4 +14,5 @@ export const image10fb18a1d6dbaa99 = {
     "pose-tag/hand-in-hair",
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/armor", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
 } as const satisfies Image

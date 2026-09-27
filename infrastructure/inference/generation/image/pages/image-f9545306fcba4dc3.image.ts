@@ -9,4 +9,5 @@ export const imageF9545306fcba4dc3 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/lingerie", "wardrobe-tag/bra"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

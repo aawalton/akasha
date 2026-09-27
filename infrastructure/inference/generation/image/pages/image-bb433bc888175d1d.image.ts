@@ -14,4 +14,5 @@ export const imageBb433bc888175d1d = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal", "fantasy-tag/sci-fi"],
 } as const satisfies Image

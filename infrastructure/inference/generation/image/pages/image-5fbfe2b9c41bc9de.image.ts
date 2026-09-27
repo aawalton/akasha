@@ -15,4 +15,5 @@ export const image5fbfe2b9c41bc9de = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image20d284b1dc97d1f9 = {
   settingTags: ["setting-tag/indoor", "setting-tag/kitchen", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/fire"],
 } as const satisfies Image

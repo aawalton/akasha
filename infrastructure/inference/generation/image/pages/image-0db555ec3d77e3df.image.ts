@@ -10,4 +10,5 @@ export const image0db555ec3d77e3df = {
   settingTags: ["setting-tag/cafe", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/profile", "pose-tag/holding-drink"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

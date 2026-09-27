@@ -20,4 +20,5 @@ export const imageCcac63117e970f1b = {
   settingTags: ["setting-tag/forest", "setting-tag/snow", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/silver-hair"],
 } as const satisfies Image

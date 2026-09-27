@@ -19,4 +19,5 @@ export const imageA5ad99fbbcd7fbdb = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/tiara"],
+  fantasyTags: ["fantasy-tag/historical", "fantasy-tag/cosplay"],
 } as const satisfies Image

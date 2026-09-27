@@ -20,4 +20,5 @@ export const image7c6fef7d48853760 = {
   settingTags: ["setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/surreal", "fantasy-tag/cosmic"],
 } as const satisfies Image

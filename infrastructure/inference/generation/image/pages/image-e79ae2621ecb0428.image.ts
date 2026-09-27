@@ -9,4 +9,5 @@ export const imageE79ae2621ecb0428 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/side-by-side", "pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

@@ -24,4 +24,10 @@ export const image74e82683d11232a4 = {
     "pose-tag/reading",
   ],
   wardrobeTags: ["wardrobe-tag/halter-top", "wardrobe-tag/jewelry"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/demon",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

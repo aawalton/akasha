@@ -9,4 +9,5 @@ export const image4dfc9b48e850d23c = {
   settingTags: ["setting-tag/city-street", "setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/painting", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/dress", "wardrobe-tag/high-heels"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageAc69647f9c467cfe = {
     "pose-tag/leaning-forward",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image0651c56896f5fc2b = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/slip-dress", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

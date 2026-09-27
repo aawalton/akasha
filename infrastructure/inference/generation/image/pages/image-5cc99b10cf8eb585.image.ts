@@ -8,4 +8,5 @@ export const image5cc99b10cf8eb585 = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/dark-background"],
   poseTags: ["pose-tag/floating"],
   wardrobeTags: ["wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

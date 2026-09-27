@@ -9,4 +9,5 @@ export const image7e995ad4587fb639 = {
   settingTags: ["setting-tag/mountains", "setting-tag/outdoor", "setting-tag/ruins"],
   poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/medieval", "fantasy-tag/warrior"],
 } as const satisfies Image

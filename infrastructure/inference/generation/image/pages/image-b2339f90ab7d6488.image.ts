@@ -9,4 +9,5 @@ export const imageB2339f90ab7d6488 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/stage"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing", "fantasy-tag/ethereal"],
 } as const satisfies Image

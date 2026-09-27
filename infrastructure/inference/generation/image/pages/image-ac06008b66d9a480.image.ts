@@ -10,4 +10,5 @@ export const imageAc06008b66d9a480 = {
   settingTags: ["setting-tag/cafe", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image2f598d73c19bc1bf = {
   settingTags: ["setting-tag/ruins", "setting-tag/outdoor", "setting-tag/forest"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/scales", "fantasy-tag/naga"],
 } as const satisfies Image

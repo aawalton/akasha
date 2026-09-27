@@ -10,4 +10,5 @@ export const imageF66202feeae1b203 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/silk"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

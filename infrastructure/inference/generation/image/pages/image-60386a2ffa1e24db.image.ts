@@ -25,4 +25,5 @@ export const image60386a2ffa1e24db = {
   settingTags: ["setting-tag/forest", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android"],
 } as const satisfies Image

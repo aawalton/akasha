@@ -10,4 +10,5 @@ export const imageD8e383e618075ce6 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/deep-v-neck", "wardrobe-tag/tiara"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

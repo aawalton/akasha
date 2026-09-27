@@ -21,4 +21,5 @@ export const image17d7efb7cb53fc8e = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/backless"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

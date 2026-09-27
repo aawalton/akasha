@@ -19,4 +19,5 @@ export const image37ebc0d85895fbb9 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/profile", "pose-tag/face-to-face", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/silver-hair"],
 } as const satisfies Image

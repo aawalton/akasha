@@ -9,4 +9,5 @@ export const imageA6b84c94480b698c = {
   settingTags: ["setting-tag/forest", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android", "fantasy-tag/sci-fi"],
 } as const satisfies Image

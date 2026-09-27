@@ -19,4 +19,5 @@ export const image9208d653bf517335 = {
   settingTags: ["setting-tag/indoor", "setting-tag/library", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/elf-ears", "fantasy-tag/dragon"],
 } as const satisfies Image

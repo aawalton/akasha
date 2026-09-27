@@ -20,4 +20,5 @@ export const imageF471905f6b42f57b = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel", "fantasy-tag/glowing"],
 } as const satisfies Image

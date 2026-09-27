@@ -17,4 +17,5 @@ export const image0c5484bbf7d8e2ea = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/headband"],
+  fantasyTags: ["fantasy-tag/bunny-ears"],
 } as const satisfies Image

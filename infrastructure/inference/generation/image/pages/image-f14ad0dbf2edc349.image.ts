@@ -9,4 +9,5 @@ export const imageF14ad0dbf2edc349 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/nature"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

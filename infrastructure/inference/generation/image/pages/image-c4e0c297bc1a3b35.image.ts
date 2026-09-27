@@ -20,4 +20,5 @@ export const imageC4e0c297bc1a3b35 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/wet"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

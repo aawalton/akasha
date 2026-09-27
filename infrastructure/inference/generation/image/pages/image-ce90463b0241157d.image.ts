@@ -10,4 +10,5 @@ export const imageCe90463b0241157d = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/lake"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/bikini", "wardrobe-tag/wet"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

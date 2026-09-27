@@ -19,4 +19,5 @@ export const image51c385721efcdab7 = {
     "pose-tag/full-body",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/surreal"],
 } as const satisfies Image

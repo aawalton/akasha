@@ -9,4 +9,5 @@ export const imageF1f67b7d9542242b = {
   settingTags: ["setting-tag/desert", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/headphones"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

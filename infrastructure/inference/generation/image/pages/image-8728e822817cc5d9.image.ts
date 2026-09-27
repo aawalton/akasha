@@ -19,4 +19,10 @@ export const image8728e822817cc5d9 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/front-view", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: [
+    "fantasy-tag/green-skin",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/android",
+    "fantasy-tag/elf-ears",
+  ],
 } as const satisfies Image

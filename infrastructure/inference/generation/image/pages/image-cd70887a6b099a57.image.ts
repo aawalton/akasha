@@ -10,4 +10,5 @@ export const imageCd70887a6b099a57 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/eating"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/shirt", "wardrobe-tag/pants"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

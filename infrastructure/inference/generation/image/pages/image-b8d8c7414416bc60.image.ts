@@ -10,4 +10,5 @@ export const imageB8d8c7414416bc60 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageC8b38cb849c9652b = {
     "pose-tag/serious-expression",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sports-bra", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

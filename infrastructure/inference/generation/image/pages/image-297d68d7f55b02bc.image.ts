@@ -10,4 +10,5 @@ export const image297d68d7f55b02bc = {
   settingTags: ["setting-tag/party", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/latex"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime", "fantasy-tag/sci-fi"],
 } as const satisfies Image

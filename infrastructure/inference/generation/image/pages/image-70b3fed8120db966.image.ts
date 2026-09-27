@@ -10,4 +10,5 @@ export const image70b3fed8120db966 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

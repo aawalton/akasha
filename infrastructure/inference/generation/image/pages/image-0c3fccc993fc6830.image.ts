@@ -9,4 +9,10 @@ export const image0c3fccc993fc6830 = {
   settingTags: ["setting-tag/battlefield"],
   poseTags: ["pose-tag/casting-magic", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe", "wardrobe-tag/sheet"],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/magic",
+    "fantasy-tag/demon",
+    "fantasy-tag/dragon",
+  ],
 } as const satisfies Image

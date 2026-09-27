@@ -10,4 +10,5 @@ export const imageCdaf63793f96d1c2 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/tiara"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image1f27a741727029a3 = {
   settingTags: ["setting-tag/forest", "setting-tag/mountains", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

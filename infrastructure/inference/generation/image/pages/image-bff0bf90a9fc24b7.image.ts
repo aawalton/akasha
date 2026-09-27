@@ -9,4 +9,5 @@ export const imageBff0bf90a9fc24b7 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/tail", "fantasy-tag/magic"],
 } as const satisfies Image

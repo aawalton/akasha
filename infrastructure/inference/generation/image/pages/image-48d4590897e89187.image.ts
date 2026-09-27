@@ -10,4 +10,5 @@ export const image48d4590897e89187 = {
   settingTags: ["setting-tag/party", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/cosplay"],
 } as const satisfies Image

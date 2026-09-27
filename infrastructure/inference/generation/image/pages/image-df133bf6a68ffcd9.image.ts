@@ -10,4 +10,5 @@ export const imageDf133bf6a68ffcd9 = {
   settingTags: ["setting-tag/cafe", "setting-tag/window", "setting-tag/indoor"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/deep-v-neck"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

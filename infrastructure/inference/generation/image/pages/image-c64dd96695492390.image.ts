@@ -5,4 +5,5 @@ export const imageC64dd96695492390 = {
   type: "page-type/image",
   slug: "image-c64dd96695492390",
   relationshipLevel: "closeness-level/level-1",
+  fantasyTags: ["fantasy-tag/hologram"],
 } as const satisfies Image

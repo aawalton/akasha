@@ -9,4 +9,5 @@ export const image8c20f349a27cdd9c = {
   settingTags: ["setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
 } as const satisfies Image

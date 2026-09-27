@@ -19,4 +19,5 @@ export const image7bd50b2d4d0fe626 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/fairy-tale"],
 } as const satisfies Image

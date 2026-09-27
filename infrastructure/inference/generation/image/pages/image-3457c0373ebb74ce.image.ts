@@ -19,4 +19,5 @@ export const image3457c0373ebb74ce = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

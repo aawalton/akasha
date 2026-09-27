@@ -9,4 +9,5 @@ export const image24070d5a09acb6d2 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/lace", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

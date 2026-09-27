@@ -9,4 +9,5 @@ export const image03ec99087a12cad3 = {
   settingTags: ["setting-tag/cave", "setting-tag/volcano", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/fully-clothed"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/sci-fi"],
 } as const satisfies Image

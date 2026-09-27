@@ -21,4 +21,5 @@ export const image0b45454a226e7754 = {
     "pose-tag/leaning-forward",
   ],
   wardrobeTags: ["wardrobe-tag/harness", "wardrobe-tag/crop-top"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
 } as const satisfies Image

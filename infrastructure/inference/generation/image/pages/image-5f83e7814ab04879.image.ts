@@ -19,4 +19,5 @@ export const image5f83e7814ab04879 = {
   settingTags: ["setting-tag/indoor", "setting-tag/cabin", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/witch-hat"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing"],
 } as const satisfies Image

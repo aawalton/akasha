@@ -19,4 +19,5 @@ export const imageB9bc7062e9e3f5dc = {
     "wardrobe-tag/body-paint",
     "wardrobe-tag/glitter-makeup",
   ],
+  fantasyTags: ["fantasy-tag/golden-eyes"],
 } as const satisfies Image

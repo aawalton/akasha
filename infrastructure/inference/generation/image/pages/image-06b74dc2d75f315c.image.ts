@@ -15,4 +15,5 @@ export const image06b74dc2d75f315c = {
   settingTags: ["setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/mythological", "fantasy-tag/historical"],
 } as const satisfies Image

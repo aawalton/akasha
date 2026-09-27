@@ -19,4 +19,10 @@ export const image6cdf0b456849307a = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: [
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/bioluminescence",
+    "fantasy-tag/nature-spirit",
+    "fantasy-tag/android",
+  ],
 } as const satisfies Image

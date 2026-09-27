@@ -15,4 +15,5 @@ export const image760bc5b04e0faf21 = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic", "fantasy-tag/glowing"],
 } as const satisfies Image

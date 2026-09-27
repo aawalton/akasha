@@ -10,4 +10,5 @@ export const imageD38f64887679d006 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

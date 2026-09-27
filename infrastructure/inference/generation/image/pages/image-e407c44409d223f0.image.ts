@@ -15,4 +15,5 @@ export const imageE407c44409d223f0 = {
     "pose-tag/leaning-forward",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
 } as const satisfies Image

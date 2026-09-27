@@ -10,4 +10,5 @@ export const imageDaa78eb9593eafd4 = {
   settingTags: ["setting-tag/office", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/suit", "wardrobe-tag/jacket", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

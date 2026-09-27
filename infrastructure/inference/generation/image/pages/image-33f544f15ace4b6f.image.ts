@@ -9,4 +9,5 @@ export const image33f544f15ace4b6f = {
   settingTags: ["setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

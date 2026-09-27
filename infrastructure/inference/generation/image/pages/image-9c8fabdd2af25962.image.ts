@@ -9,4 +9,5 @@ export const image9c8fabdd2af25962 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top", "wardrobe-tag/deep-v-neck"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

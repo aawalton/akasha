@@ -9,4 +9,5 @@ export const image00df433cbebf8e6e = {
   relationshipLevel: "closeness-level/level-5",
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-hip", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/gold-trim", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cosplay"],
 } as const satisfies Image

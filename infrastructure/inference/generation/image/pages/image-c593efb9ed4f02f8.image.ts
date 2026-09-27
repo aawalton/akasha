@@ -9,4 +9,5 @@ export const imageC593efb9ed4f02f8 = {
   settingTags: ["setting-tag/underwater", "setting-tag/ruins"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/naga", "fantasy-tag/mermaid"],
 } as const satisfies Image

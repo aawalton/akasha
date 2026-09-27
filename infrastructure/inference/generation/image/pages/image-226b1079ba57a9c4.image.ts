@@ -9,4 +9,10 @@ export const image226b1079ba57a9c4 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak", "wardrobe-tag/boots"],
+  fantasyTags: [
+    "fantasy-tag/magic",
+    "fantasy-tag/warrior",
+    "fantasy-tag/witch",
+    "fantasy-tag/anthro",
+  ],
 } as const satisfies Image

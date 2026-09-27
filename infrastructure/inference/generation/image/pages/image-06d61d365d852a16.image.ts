@@ -9,4 +9,5 @@ export const image06d61d365d852a16 = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

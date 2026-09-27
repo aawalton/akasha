@@ -14,4 +14,5 @@ export const imageBfb8113ac8048726 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/high-heels", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

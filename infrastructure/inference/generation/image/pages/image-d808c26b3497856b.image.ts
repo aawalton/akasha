@@ -15,4 +15,5 @@ export const imageD808c26b3497856b = {
     "pose-tag/holding-weapon",
   ],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/armor", "wardrobe-tag/hair-accessory"],
+  fantasyTags: ["fantasy-tag/historical", "fantasy-tag/warrior"],
 } as const satisfies Image

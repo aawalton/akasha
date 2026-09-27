@@ -9,4 +9,5 @@ export const image5565d1cb62a32bb7 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/field"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing"],
 } as const satisfies Image

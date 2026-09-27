@@ -19,4 +19,5 @@ export const image9a40ef0e874b7e2b = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/wings"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image622c61e3b67e0d01 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/dragon-horns"],
 } as const satisfies Image

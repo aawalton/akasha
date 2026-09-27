@@ -20,4 +20,5 @@ export const image77874029c11d42cf = {
   settingTags: ["setting-tag/temple", "setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/mask", "wardrobe-tag/hair-accessory"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
 } as const satisfies Image

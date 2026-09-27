@@ -9,4 +9,5 @@ export const image2e6e1602e8afb94e = {
   settingTags: ["setting-tag/bedroom", "setting-tag/living-room", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

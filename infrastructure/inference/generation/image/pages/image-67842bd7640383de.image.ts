@@ -9,4 +9,5 @@ export const image67842bd7640383de = {
   settingTags: ["setting-tag/dark-background"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal"],
 } as const satisfies Image

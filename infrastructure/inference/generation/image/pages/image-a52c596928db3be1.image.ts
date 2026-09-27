@@ -18,4 +18,5 @@ export const imageA52c596928db3be1 = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/underwater", "setting-tag/ocean", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
+  fantasyTags: ["fantasy-tag/mermaid", "fantasy-tag/mythological"],
 } as const satisfies Image

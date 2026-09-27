@@ -25,4 +25,5 @@ export const imageDfdf5a242cfe5543 = {
     "pose-tag/legs-spread",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/anthro"],
 } as const satisfies Image

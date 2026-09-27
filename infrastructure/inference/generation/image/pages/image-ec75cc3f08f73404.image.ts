@@ -15,4 +15,5 @@ export const imageEc75cc3f08f73404 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-lantern", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image87c0793c5fcae45f = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset"],
+  fantasyTags: ["fantasy-tag/medieval"],
 } as const satisfies Image

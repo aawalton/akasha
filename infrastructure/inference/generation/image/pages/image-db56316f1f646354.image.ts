@@ -13,4 +13,5 @@ export const imageDb56316f1f646354 = {
     "wardrobe-tag/tube-top",
     "wardrobe-tag/glitter-makeup",
   ],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageD8cc27149e7cf89f = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/armor", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/angel", "fantasy-tag/wings"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageEad56a0b52ab7d8f = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless", "wardrobe-tag/choker"],
+  fantasyTags: ["fantasy-tag/purple-eyes", "fantasy-tag/glowing-eyes"],
 } as const satisfies Image

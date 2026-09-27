@@ -19,4 +19,5 @@ export const image19eaebf69ed2381d = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/witch-hat", "wardrobe-tag/corset", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/witch"],
 } as const satisfies Image

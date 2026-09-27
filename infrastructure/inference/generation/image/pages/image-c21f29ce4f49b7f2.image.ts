@@ -9,4 +9,5 @@ export const imageC21f29ce4f49b7f2 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top", "wardrobe-tag/deep-v-neck"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageCdc9027dea876c1b = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit", "setting-tag/library"],
   poseTags: ["pose-tag/sitting", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings"],
+  fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/elf-ears", "fantasy-tag/red-eyes"],
 } as const satisfies Image

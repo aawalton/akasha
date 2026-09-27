@@ -9,4 +9,5 @@ export const imageB93eda9e72f3ca12 = {
   settingTags: ["setting-tag/party", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/warrior", "fantasy-tag/weapons"],
 } as const satisfies Image

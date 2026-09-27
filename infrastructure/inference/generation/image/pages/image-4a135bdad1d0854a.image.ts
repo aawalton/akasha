@@ -9,4 +9,5 @@ export const image4a135bdad1d0854a = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/beach"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/jewelry", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageB96fba6adebbdc20 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/head-tilt", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

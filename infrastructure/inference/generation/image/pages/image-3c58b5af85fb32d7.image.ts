@@ -19,4 +19,5 @@ export const image3c58b5af85fb32d7 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/blue-skin"],
 } as const satisfies Image

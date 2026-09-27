@@ -20,4 +20,5 @@ export const image038c19c1f8671ec7 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/jungle"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

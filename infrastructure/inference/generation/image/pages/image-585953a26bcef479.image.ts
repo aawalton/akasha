@@ -13,4 +13,5 @@ export const image585953a26bcef479 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

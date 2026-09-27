@@ -10,4 +10,5 @@ export const imageA4df8f9b22803572 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-down", "pose-tag/close-up", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/deep-v-neck"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

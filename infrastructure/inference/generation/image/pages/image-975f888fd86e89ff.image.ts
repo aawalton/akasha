@@ -20,4 +20,5 @@ export const image975f888fd86e89ff = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/puffed-sleeves"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

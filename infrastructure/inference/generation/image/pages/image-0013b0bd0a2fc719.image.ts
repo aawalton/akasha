@@ -16,4 +16,5 @@ export const image0013b0bd0a2fc719 = {
   relationshipLevel: "closeness-level/level-3",
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/crop-top"],
+  fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
 } as const satisfies Image

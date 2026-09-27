@@ -10,4 +10,5 @@ export const imageC232b46983fac24e = {
   settingTags: ["setting-tag/underwater", "setting-tag/ocean"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/scales", "fantasy-tag/mermaid", "fantasy-tag/monster-girl"],
 } as const satisfies Image

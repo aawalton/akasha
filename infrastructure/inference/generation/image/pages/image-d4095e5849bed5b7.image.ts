@@ -9,4 +9,5 @@ export const imageD4095e5849bed5b7 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

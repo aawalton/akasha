@@ -9,4 +9,5 @@ export const image6a5ea06bf8e02c42 = {
   settingTags: ["setting-tag/rooftop", "setting-tag/night", "setting-tag/rain"],
   poseTags: ["pose-tag/embracing", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

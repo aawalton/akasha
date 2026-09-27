@@ -19,4 +19,5 @@ export const image74fa5e9cf7414f74 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

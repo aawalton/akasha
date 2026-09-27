@@ -19,4 +19,5 @@ export const image5b91fdce4231ab3f = {
     "wardrobe-tag/sheet",
     "wardrobe-tag/wig",
   ],
+  fantasyTags: ["fantasy-tag/purple-hair"],
 } as const satisfies Image

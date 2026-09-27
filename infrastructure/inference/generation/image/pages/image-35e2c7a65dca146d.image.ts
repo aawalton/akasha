@@ -9,4 +9,5 @@ export const image35e2c7a65dca146d = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/side-by-side", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/wings"],
 } as const satisfies Image

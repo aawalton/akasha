@@ -9,4 +9,5 @@ export const image687b1a5c3cb9c959 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/outdoor"],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/bodysuit", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/monster-girl"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageBfd8c78ea2744373 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/front-view", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/cosmic"],
 } as const satisfies Image

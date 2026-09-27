@@ -10,4 +10,5 @@ export const imageC081e8e586cad19b = {
   settingTags: ["setting-tag/office", "setting-tag/indoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image85ece8dc84f995ef = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/field"],
   poseTags: ["pose-tag/squatting", "pose-tag/curled-up"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/monster-girl"],
 } as const satisfies Image

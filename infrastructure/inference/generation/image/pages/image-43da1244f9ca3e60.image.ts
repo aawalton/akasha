@@ -16,4 +16,5 @@ export const image43da1244f9ca3e60 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

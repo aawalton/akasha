@@ -19,4 +19,5 @@ export const image3e4a2a65cbcc195f = {
   settingTags: ["setting-tag/indoor", "setting-tag/cabin"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image29d7fdf453202944 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/sky"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/warrior"],
 } as const satisfies Image

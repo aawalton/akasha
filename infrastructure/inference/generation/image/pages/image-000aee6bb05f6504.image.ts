@@ -9,4 +9,5 @@ export const image000aee6bb05f6504 = {
   relationshipLevel: "closeness-level/level-5",
   poseTags: ["pose-tag/arms-crossed", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/mermaid"],
 } as const satisfies Image

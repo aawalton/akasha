@@ -10,4 +10,5 @@ export const image002ed8b12bc2c2be = {
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/standing", "pose-tag/holding-clothing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/robe"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

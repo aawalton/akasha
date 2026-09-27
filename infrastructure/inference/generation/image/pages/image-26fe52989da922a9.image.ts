@@ -10,4 +10,5 @@ export const image26fe52989da922a9 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/loungewear"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

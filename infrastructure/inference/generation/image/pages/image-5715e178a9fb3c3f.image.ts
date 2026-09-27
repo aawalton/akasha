@@ -20,4 +20,5 @@ export const image5715e178a9fb3c3f = {
     "pose-tag/working",
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/leather", "wardrobe-tag/bare-midriff"],
+  fantasyTags: ["fantasy-tag/warrior"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image7423ac4cb2288234 = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/bioluminescence"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image5fdb13efc961f459 = {
   settingTags: ["setting-tag/park", "setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bikini"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/blue-skin", "fantasy-tag/mermaid"],
 } as const satisfies Image

@@ -10,4 +10,10 @@ export const image686983618b7980b5 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: [
+    "fantasy-tag/wings",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/fairy",
+    "fantasy-tag/glowing",
+  ],
 } as const satisfies Image

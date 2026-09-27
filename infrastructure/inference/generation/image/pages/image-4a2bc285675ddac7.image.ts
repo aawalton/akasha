@@ -20,4 +20,5 @@ export const image4a2bc285675ddac7 = {
   settingTags: ["setting-tag/cave"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-up", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image7f6c0128766d0ad5 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts", "wardrobe-tag/belt"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/fairy"],
 } as const satisfies Image

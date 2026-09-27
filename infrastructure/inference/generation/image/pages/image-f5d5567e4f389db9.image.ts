@@ -16,4 +16,10 @@ export const imageF5d5567e4f389db9 = {
   settingTags: ["setting-tag/abstract-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts", "wardrobe-tag/jeans"],
+  fantasyTags: [
+    "fantasy-tag/cosmic",
+    "fantasy-tag/fairy",
+    "fantasy-tag/sci-fi",
+    "fantasy-tag/cyberpunk",
+  ],
 } as const satisfies Image

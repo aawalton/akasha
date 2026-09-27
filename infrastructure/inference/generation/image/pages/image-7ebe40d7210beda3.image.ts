@@ -21,4 +21,5 @@ export const image7ebe40d7210beda3 = {
     "pose-tag/arms-raised",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/glasses"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/magic"],
 } as const satisfies Image

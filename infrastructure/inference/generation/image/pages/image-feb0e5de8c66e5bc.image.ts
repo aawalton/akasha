@@ -9,4 +9,5 @@ export const imageFeb0e5de8c66e5bc = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/forest"],
   poseTags: ["pose-tag/standing", "pose-tag/undressing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/headband"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

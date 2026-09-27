@@ -10,4 +10,5 @@ export const image48beafaed8b501ef = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-clothing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/anime", "fantasy-tag/cosplay"],
 } as const satisfies Image

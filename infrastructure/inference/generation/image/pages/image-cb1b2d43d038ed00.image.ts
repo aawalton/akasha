@@ -19,4 +19,5 @@ export const imageCb1b2d43d038ed00 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/historical"],
 } as const satisfies Image

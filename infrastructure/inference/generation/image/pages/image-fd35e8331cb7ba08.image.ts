@@ -11,4 +11,5 @@ export const imageFd35e8331cb7ba08 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

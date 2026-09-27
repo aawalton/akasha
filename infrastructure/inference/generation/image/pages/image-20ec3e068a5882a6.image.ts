@@ -10,4 +10,5 @@ export const image20ec3e068a5882a6 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

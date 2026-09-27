@@ -9,4 +9,5 @@ export const image93cdbdcf64781727 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/shirt", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

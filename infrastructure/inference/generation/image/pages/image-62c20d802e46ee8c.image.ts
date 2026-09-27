@@ -9,4 +9,5 @@ export const image62c20d802e46ee8c = {
   settingTags: ["setting-tag/night", "setting-tag/city-street", "setting-tag/city"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

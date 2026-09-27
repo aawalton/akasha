@@ -9,4 +9,5 @@ export const imageC236aef6663e5f6d = {
   settingTags: ["setting-tag/indoor", "setting-tag/temple"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono", "wardrobe-tag/nipples-visible"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/silver-hair"],
 } as const satisfies Image

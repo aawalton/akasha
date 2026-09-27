@@ -10,4 +10,5 @@ export const image1730c095277c18f4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/close-up", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/panties"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

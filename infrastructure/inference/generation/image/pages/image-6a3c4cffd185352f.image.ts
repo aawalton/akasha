@@ -9,4 +9,5 @@ export const image6a3c4cffd185352f = {
   settingTags: ["setting-tag/cafe", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/suit", "wardrobe-tag/scarf"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

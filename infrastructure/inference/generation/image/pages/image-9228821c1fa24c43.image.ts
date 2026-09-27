@@ -15,4 +15,5 @@ export const image9228821c1fa24c43 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/armor", "wardrobe-tag/swimsuit"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

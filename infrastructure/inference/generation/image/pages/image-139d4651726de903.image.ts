@@ -10,4 +10,5 @@ export const image139d4651726de903 = {
   settingTags: ["setting-tag/dining-room", "setting-tag/candlelight", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

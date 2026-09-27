@@ -9,4 +9,5 @@ export const image2cbeb75e45264bcb = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/halter-top", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/golden-eyes"],
 } as const satisfies Image

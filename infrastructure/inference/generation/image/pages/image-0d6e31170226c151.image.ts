@@ -25,4 +25,5 @@ export const image0d6e31170226c151 = {
     "wardrobe-tag/spaghetti-straps",
     "wardrobe-tag/fully-clothed",
   ],
+  fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageA317af35962a563c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

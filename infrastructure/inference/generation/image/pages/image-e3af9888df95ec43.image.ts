@@ -9,4 +9,5 @@ export const imageE3af9888df95ec43 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/silk"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

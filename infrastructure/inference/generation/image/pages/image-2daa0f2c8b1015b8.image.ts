@@ -24,4 +24,10 @@ export const image2daa0f2c8b1015b8 = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/off-shoulder", "wardrobe-tag/hat"],
+  fantasyTags: [
+    "fantasy-tag/witch",
+    "fantasy-tag/magic",
+    "fantasy-tag/glowing",
+    "fantasy-tag/fire",
+  ],
 } as const satisfies Image

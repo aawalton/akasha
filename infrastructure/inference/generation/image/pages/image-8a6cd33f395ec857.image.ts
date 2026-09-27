@@ -14,4 +14,5 @@ export const image8a6cd33f395ec857 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/body-paint", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/mythological"],
 } as const satisfies Image

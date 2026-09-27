@@ -14,4 +14,5 @@ export const imageAf182d49d68671bd = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/armor", "wardrobe-tag/harness"],
+  fantasyTags: ["fantasy-tag/wings"],
 } as const satisfies Image

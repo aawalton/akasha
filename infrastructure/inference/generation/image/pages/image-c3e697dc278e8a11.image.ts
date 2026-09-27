@@ -19,4 +19,5 @@ export const imageC3e697dc278e8a11 = {
   settingTags: ["setting-tag/museum", "setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/writing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/dragon-horns"],
 } as const satisfies Image

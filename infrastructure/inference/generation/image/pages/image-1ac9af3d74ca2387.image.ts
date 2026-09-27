@@ -19,4 +19,5 @@ export const image1ac9af3d74ca2387 = {
     "pose-tag/kneeling",
   ],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

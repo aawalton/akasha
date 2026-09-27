@@ -19,4 +19,5 @@ export const imageBc8050e729aa631a = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/top", "wardrobe-tag/spaghetti-straps"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

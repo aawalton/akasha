@@ -14,4 +14,5 @@ export const image25f9686d6028b2fe = {
   settingTags: ["setting-tag/indoor", "setting-tag/museum", "setting-tag/library"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

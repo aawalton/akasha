@@ -19,4 +19,5 @@ export const image5cdfe0cbca1750b1 = {
   settingTags: ["setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

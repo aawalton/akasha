@@ -9,4 +9,5 @@ export const image6b02d017121248ce = {
   settingTags: ["setting-tag/sky"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image0f77af8128fa6cf3 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/rain"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/lingerie", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk"],
 } as const satisfies Image

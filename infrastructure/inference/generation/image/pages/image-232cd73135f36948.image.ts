@@ -15,4 +15,5 @@ export const image232cd73135f36948 = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

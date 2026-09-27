@@ -9,4 +9,5 @@ export const imageF72e49a834f3deaa = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

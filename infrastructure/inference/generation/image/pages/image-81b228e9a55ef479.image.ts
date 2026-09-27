@@ -20,4 +20,10 @@ export const image81b228e9a55ef479 = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/dress"],
+  fantasyTags: [
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/fairy",
+    "fantasy-tag/green-hair",
+    "fantasy-tag/golden-eyes",
+  ],
 } as const satisfies Image

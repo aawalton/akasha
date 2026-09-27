@@ -24,4 +24,5 @@ export const image7d273f3ab435ff54 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

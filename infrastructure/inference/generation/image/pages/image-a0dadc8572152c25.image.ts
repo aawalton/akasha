@@ -9,4 +9,5 @@ export const imageA0dadc8572152c25 = {
   settingTags: ["setting-tag/jungle", "setting-tag/ruins", "setting-tag/forest"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/jewelry", "wardrobe-tag/armor", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/naga", "fantasy-tag/mythological"],
 } as const satisfies Image

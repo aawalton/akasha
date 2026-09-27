@@ -14,4 +14,5 @@ export const image147a3fcfde511ec0 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shorts", "wardrobe-tag/bikini"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -26,4 +26,5 @@ export const image9477d395e72addca = {
     "pose-tag/arms-raised",
   ],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/magic"],
 } as const satisfies Image

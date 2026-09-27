@@ -10,4 +10,5 @@ export const imageCa4fc37885c38a6d = {
   settingTags: ["setting-tag/workshop", "setting-tag/dimly-lit", "setting-tag/hallway"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

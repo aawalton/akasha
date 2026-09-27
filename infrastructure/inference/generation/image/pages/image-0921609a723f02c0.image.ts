@@ -9,4 +9,5 @@ export const image0921609a723f02c0 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk"],
 } as const satisfies Image

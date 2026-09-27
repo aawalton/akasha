@@ -19,4 +19,5 @@ export const image6c1d7dc11b9182b0 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/beach", "setting-tag/night"],
   poseTags: ["pose-tag/kneeling", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  fantasyTags: ["fantasy-tag/wings"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageEaee2f2a64239a90 = {
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/river"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/hair-accessory", "wardrobe-tag/backless"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
 } as const satisfies Image

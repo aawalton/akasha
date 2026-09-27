@@ -9,4 +9,5 @@ export const image3d7ead2a37ab06a2 = {
   settingTags: ["setting-tag/ocean", "setting-tag/rocks", "setting-tag/water"],
   poseTags: ["pose-tag/looking-back", "pose-tag/bathing", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/mermaid"],
 } as const satisfies Image

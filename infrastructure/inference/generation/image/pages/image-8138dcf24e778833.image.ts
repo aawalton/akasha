@@ -14,4 +14,10 @@ export const image8138dcf24e778833 = {
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/topless", "wardrobe-tag/bottomless"],
+  fantasyTags: [
+    "fantasy-tag/fox-ears",
+    "fantasy-tag/kitsune",
+    "fantasy-tag/magic",
+    "fantasy-tag/nature-spirit",
+  ],
 } as const satisfies Image

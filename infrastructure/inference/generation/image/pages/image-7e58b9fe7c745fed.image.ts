@@ -19,4 +19,5 @@ export const image7e58b9fe7c745fed = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/warrior"],
 } as const satisfies Image

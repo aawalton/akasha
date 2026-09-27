@@ -10,4 +10,5 @@ export const imageD707bfc2fa40c839 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

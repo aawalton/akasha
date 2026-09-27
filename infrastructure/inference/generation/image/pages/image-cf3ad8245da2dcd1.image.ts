@@ -9,4 +9,5 @@ export const imageCf3ad8245da2dcd1 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image895ec5d995d8ad41 = {
   settingTags: ["setting-tag/mountains", "setting-tag/outdoor", "setting-tag/forest"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image497675af67155425 = {
   settingTags: ["setting-tag/library", "setting-tag/study", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/demon"],
 } as const satisfies Image

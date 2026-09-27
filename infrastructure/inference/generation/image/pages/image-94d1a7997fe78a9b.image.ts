@@ -19,4 +19,5 @@ export const image94d1a7997fe78a9b = {
   settingTags: ["setting-tag/library", "setting-tag/study", "setting-tag/candlelight"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageA8bf7721fb9afd3f = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
 } as const satisfies Image

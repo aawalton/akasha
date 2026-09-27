@@ -10,4 +10,5 @@ export const image0706f0066c0edd2f = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/bedroom"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/tiara"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

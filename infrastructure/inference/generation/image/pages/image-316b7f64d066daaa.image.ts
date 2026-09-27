@@ -20,4 +20,5 @@ export const image316b7f64d066daaa = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

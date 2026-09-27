@@ -20,4 +20,5 @@ export const image0540d5a7a58f6b37 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/living-room"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/animal-ears", "fantasy-tag/tail"],
 } as const satisfies Image

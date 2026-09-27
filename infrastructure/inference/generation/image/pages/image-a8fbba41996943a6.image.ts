@@ -19,4 +19,5 @@ export const imageA8fbba41996943a6 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/kissing", "pose-tag/embracing", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing"],
 } as const satisfies Image

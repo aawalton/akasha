@@ -9,4 +9,5 @@ export const image2bcc63859db4ba1c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/battlefield", "setting-tag/sky"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/harness"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/warrior"],
 } as const satisfies Image

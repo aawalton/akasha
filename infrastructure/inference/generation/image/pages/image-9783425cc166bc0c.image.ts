@@ -9,4 +9,5 @@ export const image9783425cc166bc0c = {
   settingTags: ["setting-tag/city", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/gold-trim", "wardrobe-tag/high-neck"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero", "fantasy-tag/sci-fi"],
 } as const satisfies Image

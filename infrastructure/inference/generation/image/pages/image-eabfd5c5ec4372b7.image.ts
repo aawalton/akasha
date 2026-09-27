@@ -10,4 +10,5 @@ export const imageEabfd5c5ec4372b7 = {
   settingTags: ["setting-tag/sky"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/robe", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

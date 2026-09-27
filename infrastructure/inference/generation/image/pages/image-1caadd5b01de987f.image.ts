@@ -9,4 +9,5 @@ export const image1caadd5b01de987f = {
   settingTags: ["setting-tag/bathtub", "setting-tag/bathroom", "setting-tag/water"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

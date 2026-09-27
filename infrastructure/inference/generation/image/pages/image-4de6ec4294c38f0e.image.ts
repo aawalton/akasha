@@ -9,4 +9,5 @@ export const image4de6ec4294c38f0e = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/ethereal"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image4a6fb2c3471e435a = {
   settingTags: ["setting-tag/hallway"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
 } as const satisfies Image

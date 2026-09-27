@@ -9,4 +9,5 @@ export const imageFa4094bfbd79ac62 = {
   settingTags: ["setting-tag/ruins", "setting-tag/forest", "setting-tag/rocks"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/naga", "fantasy-tag/scales"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image8254e7822b7da2d3 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/volcano"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing-eyes"],
 } as const satisfies Image

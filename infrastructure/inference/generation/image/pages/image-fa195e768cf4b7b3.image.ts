@@ -19,4 +19,5 @@ export const imageFa195e768cf4b7b3 = {
     "wardrobe-tag/tunic",
     "wardrobe-tag/boots",
   ],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/monster-girl", "fantasy-tag/weapons"],
 } as const satisfies Image

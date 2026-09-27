@@ -19,4 +19,5 @@ export const image79a0c7dc406969ce = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/studio"],
   poseTags: ["pose-tag/profile", "pose-tag/close-up", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/silver-hair"],
 } as const satisfies Image

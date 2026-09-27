@@ -10,4 +10,5 @@ export const imageCafc824c3f76bfb2 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/rooftop"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

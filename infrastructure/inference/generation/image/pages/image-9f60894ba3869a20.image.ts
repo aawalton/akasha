@@ -9,4 +9,5 @@ export const image9f60894ba3869a20 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sky"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/gold-trim", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/weapons"],
 } as const satisfies Image

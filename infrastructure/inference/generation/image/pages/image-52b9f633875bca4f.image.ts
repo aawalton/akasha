@@ -9,4 +9,10 @@ export const image52b9f633875bca4f = {
   settingTags: ["setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/weapons",
+    "fantasy-tag/anime",
+  ],
 } as const satisfies Image

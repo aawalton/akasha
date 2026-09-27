@@ -9,4 +9,5 @@ export const imageA99f18b47a45f6d1 = {
   settingTags: ["setting-tag/library", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/writing-on-skin"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

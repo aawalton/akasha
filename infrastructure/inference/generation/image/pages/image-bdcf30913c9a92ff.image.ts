@@ -9,4 +9,5 @@ export const imageBdcf30913c9a92ff = {
   settingTags: ["setting-tag/indoor", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

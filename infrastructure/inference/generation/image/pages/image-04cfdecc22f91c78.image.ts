@@ -29,4 +29,5 @@ export const image04cfdecc22f91c78 = {
     "wardrobe-tag/belt",
     "wardrobe-tag/boots",
   ],
+  fantasyTags: ["fantasy-tag/warrior"],
 } as const satisfies Image

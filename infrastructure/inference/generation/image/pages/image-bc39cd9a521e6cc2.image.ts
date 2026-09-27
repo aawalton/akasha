@@ -9,4 +9,5 @@ export const imageBc39cd9a521e6cc2 = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

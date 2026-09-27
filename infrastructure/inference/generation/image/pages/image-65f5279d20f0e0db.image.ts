@@ -16,4 +16,5 @@ export const image65f5279d20f0e0db = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/mythological"],
 } as const satisfies Image

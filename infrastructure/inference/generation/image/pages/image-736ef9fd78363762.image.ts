@@ -9,4 +9,5 @@ export const image736ef9fd78363762 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sheer-robe"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

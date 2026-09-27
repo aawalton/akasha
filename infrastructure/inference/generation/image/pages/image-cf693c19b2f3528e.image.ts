@@ -9,4 +9,5 @@ export const imageCf693c19b2f3528e = {
   settingTags: ["setting-tag/temple", "setting-tag/outdoor", "setting-tag/hallway"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/kimono", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
 } as const satisfies Image

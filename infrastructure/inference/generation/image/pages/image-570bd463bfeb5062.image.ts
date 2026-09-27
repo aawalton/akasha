@@ -9,4 +9,5 @@ export const image570bd463bfeb5062 = {
   settingTags: ["setting-tag/market", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/running"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/tunic", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/anthro", "fantasy-tag/medieval"],
 } as const satisfies Image

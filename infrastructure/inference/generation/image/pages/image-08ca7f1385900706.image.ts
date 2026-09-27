@@ -9,4 +9,5 @@ export const image08ca7f1385900706 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/antlers"],
 } as const satisfies Image

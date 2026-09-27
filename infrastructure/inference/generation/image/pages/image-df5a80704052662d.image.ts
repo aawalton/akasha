@@ -10,4 +10,5 @@ export const imageDf5a80704052662d = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jeans", "wardrobe-tag/hoodie"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

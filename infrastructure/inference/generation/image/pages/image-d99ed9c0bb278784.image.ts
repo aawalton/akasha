@@ -9,4 +9,5 @@ export const imageD99ed9c0bb278784 = {
   settingTags: ["setting-tag/battlefield", "setting-tag/sky"],
   poseTags: ["pose-tag/casting-magic", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/leather", "wardrobe-tag/fully-clothed"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic", "fantasy-tag/warrior"],
 } as const satisfies Image

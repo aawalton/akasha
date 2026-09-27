@@ -9,4 +9,5 @@ export const imageFda9c4015082a744 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/halter-top", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/demon"],
 } as const satisfies Image

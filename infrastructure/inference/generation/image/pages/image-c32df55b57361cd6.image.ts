@@ -20,4 +20,5 @@ export const imageC32df55b57361cd6 = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/mermaid"],
 } as const satisfies Image

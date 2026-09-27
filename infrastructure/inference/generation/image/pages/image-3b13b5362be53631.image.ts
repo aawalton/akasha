@@ -14,4 +14,5 @@ export const image3b13b5362be53631 = {
     "pose-tag/hand-in-hair",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/partial-undress", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

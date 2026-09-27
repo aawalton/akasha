@@ -9,4 +9,5 @@ export const image2bf7b118befb2bbb = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/casting-magic", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe", "wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/monster-girl"],
 } as const satisfies Image

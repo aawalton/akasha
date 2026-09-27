@@ -19,4 +19,5 @@ export const imageF7fe8e0cb0de862f = {
     "wardrobe-tag/bare-midriff",
     "wardrobe-tag/armor",
   ],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

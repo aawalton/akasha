@@ -9,4 +9,5 @@ export const imageF6d40d4c977f598d = {
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

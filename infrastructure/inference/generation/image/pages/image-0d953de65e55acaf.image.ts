@@ -20,4 +20,12 @@ export const image0d953de65e55acaf = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/jewelry"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/wings",
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/demon",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/purple-eyes",
+  ],
 } as const satisfies Image

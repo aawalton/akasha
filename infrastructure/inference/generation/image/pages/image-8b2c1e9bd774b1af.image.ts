@@ -19,4 +19,5 @@ export const image8b2c1e9bd774b1af = {
   settingTags: ["setting-tag/beach", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/skirt", "wardrobe-tag/silk"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

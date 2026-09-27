@@ -19,4 +19,5 @@ export const imageD2a7479dab6ed22a = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/kissing", "pose-tag/embracing", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/flower-crown"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

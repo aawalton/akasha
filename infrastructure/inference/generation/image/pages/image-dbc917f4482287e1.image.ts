@@ -25,4 +25,10 @@ export const imageDbc917f4482287e1 = {
     "pose-tag/sitting",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings"],
+  fantasyTags: [
+    "fantasy-tag/green-skin",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/red-eyes",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

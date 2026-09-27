@@ -16,4 +16,5 @@ export const image79074f3164ed0f35 = {
   settingTags: ["setting-tag/abstract-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
 } as const satisfies Image

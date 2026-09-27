@@ -19,4 +19,5 @@ export const imageF5f2a413f7d17b1c = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/red-string"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

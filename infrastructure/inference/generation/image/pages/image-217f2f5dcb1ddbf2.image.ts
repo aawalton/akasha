@@ -17,4 +17,10 @@ export const image217f2f5dcb1ddbf2 = {
   settingTags: ["setting-tag/castle", "setting-tag/night", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/cleavage"],
+  fantasyTags: [
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/dragon",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

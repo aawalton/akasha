@@ -9,4 +9,5 @@ export const image27871a4de16eba54 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/mermaid"],
 } as const satisfies Image

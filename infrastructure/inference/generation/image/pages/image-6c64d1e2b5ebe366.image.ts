@@ -23,4 +23,5 @@ export const image6c64d1e2b5ebe366 = {
     "wardrobe-tag/bare-shoulders",
     "wardrobe-tag/glitter-makeup",
   ],
+  fantasyTags: ["fantasy-tag/cosmic", "fantasy-tag/ethereal"],
 } as const satisfies Image

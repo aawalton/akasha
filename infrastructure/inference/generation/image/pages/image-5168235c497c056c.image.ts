@@ -6,4 +6,10 @@ export const image5168235c497c056c = {
   slug: "image-5168235c497c056c",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit"],
+  fantasyTags: [
+    "fantasy-tag/magic",
+    "fantasy-tag/naga",
+    "fantasy-tag/monster-girl",
+    "fantasy-tag/glowing-eyes",
+  ],
 } as const satisfies Image

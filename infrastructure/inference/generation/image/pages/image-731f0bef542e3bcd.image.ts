@@ -9,4 +9,5 @@ export const image731f0bef542e3bcd = {
   settingTags: ["setting-tag/water", "setting-tag/cave", "setting-tag/rocks"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/scales", "fantasy-tag/green-hair"],
 } as const satisfies Image

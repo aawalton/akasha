@@ -14,4 +14,5 @@ export const imageAdf30f2286911378 = {
     "pose-tag/looking-away",
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/warrior"],
 } as const satisfies Image

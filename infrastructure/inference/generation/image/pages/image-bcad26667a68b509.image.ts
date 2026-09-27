@@ -9,4 +9,5 @@ export const imageBcad26667a68b509 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fire", "fantasy-tag/angel"],
 } as const satisfies Image

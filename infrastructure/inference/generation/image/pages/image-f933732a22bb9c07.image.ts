@@ -10,4 +10,5 @@ export const imageF933732a22bb9c07 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/sheer-robe"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

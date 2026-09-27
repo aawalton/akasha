@@ -20,4 +20,5 @@ export const imageDa93b347176b84d5 = {
     "pose-tag/fighting",
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fur"],
+  fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/medieval"],
 } as const satisfies Image

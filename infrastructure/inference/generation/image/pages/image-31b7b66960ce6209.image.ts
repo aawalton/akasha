@@ -19,4 +19,10 @@ export const image31b7b66960ce6209 = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bikini"],
+  fantasyTags: [
+    "fantasy-tag/sci-fi",
+    "fantasy-tag/cyberpunk",
+    "fantasy-tag/android",
+    "fantasy-tag/bioluminescence",
+  ],
 } as const satisfies Image

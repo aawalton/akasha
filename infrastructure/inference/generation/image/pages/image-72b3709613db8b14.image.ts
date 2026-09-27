@@ -5,4 +5,5 @@ export const image72b3709613db8b14 = {
   type: "page-type/image",
   slug: "image-72b3709613db8b14",
   relationshipLevel: "closeness-level/level-1",
+  fantasyTags: ["fantasy-tag/hologram"],
 } as const satisfies Image

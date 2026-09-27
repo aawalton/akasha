@@ -16,4 +16,5 @@ export const image79c3d966fe37d2ca = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

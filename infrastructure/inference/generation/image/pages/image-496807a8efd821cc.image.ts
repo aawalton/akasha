@@ -10,4 +10,5 @@ export const image496807a8efd821cc = {
   settingTags: ["setting-tag/restaurant", "setting-tag/indoor", "setting-tag/dining-room"],
   poseTags: ["pose-tag/profile", "pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

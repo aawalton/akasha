@@ -10,4 +10,5 @@ export const image906631d4083342ae = {
   settingTags: ["setting-tag/indoor", "setting-tag/party", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail"],
 } as const satisfies Image

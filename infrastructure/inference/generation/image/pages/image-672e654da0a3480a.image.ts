@@ -9,4 +9,5 @@ export const image672e654da0a3480a = {
   settingTags: ["setting-tag/desert", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts", "wardrobe-tag/headphones"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

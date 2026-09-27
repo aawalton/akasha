@@ -25,4 +25,5 @@ export const image980b4a01b55e54e1 = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/athletic-wear"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

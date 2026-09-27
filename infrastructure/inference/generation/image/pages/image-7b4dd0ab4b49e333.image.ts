@@ -9,4 +9,5 @@ export const image7b4dd0ab4b49e333 = {
   settingTags: ["setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nipples-visible"],
+  fantasyTags: ["fantasy-tag/superhero"],
 } as const satisfies Image

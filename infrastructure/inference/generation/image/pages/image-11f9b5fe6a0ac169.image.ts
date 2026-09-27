@@ -10,4 +10,5 @@ export const image11f9b5fe6a0ac169 = {
   settingTags: ["setting-tag/cave", "setting-tag/campfire", "setting-tag/snow"],
   poseTags: ["pose-tag/kneeling", "pose-tag/embracing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/fur"],
+  fantasyTags: ["fantasy-tag/animal-ears"],
 } as const satisfies Image

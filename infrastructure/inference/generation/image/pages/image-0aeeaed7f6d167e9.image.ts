@@ -8,4 +8,5 @@ export const image0aeeaed7f6d167e9 = {
   settingTags: ["setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/magic"],
 } as const satisfies Image

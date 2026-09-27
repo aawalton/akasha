@@ -9,4 +9,5 @@ export const imageB6214b3dd70ad7e4 = {
   settingTags: ["setting-tag/water", "setting-tag/bathtub"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/nude", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image065b276b75fbb103 = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

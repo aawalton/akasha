@@ -30,4 +30,5 @@ export const image1bc778d4e83e56d9 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/veil", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

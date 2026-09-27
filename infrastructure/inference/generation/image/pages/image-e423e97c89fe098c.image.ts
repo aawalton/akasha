@@ -24,4 +24,5 @@ export const imageE423e97c89fe098c = {
     "pose-tag/kneeling",
   ],
   wardrobeTags: ["wardrobe-tag/bodysuit"],
+  fantasyTags: ["fantasy-tag/wings"],
 } as const satisfies Image

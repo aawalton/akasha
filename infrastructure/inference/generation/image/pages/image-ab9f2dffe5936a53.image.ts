@@ -20,4 +20,5 @@ export const imageAb9f2dffe5936a53 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress", "wardrobe-tag/silk"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/cosmic"],
 } as const satisfies Image

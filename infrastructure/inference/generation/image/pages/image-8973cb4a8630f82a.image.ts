@@ -19,4 +19,10 @@ export const image8973cb4a8630f82a = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/bra", "wardrobe-tag/body-paint", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/nature-spirit",
+    "fantasy-tag/magic",
+  ],
 } as const satisfies Image

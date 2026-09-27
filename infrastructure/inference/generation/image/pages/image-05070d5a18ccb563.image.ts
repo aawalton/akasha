@@ -15,4 +15,5 @@ export const image05070d5a18ccb563 = {
     "pose-tag/undressing",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig", "wardrobe-tag/socks"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

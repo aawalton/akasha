@@ -9,4 +9,10 @@ export const image00f1aef53898282a = {
   relationshipLevel: "closeness-level/level-1",
   poseTags: ["pose-tag/fighting", "pose-tag/casting-magic"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe", "wardrobe-tag/sheet"],
+  fantasyTags: [
+    "fantasy-tag/magic",
+    "fantasy-tag/dragon",
+    "fantasy-tag/witch",
+    "fantasy-tag/warrior",
+  ],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageCf745e91c8479eb4 = {
   settingTags: ["setting-tag/office", "setting-tag/study", "setting-tag/indoor"],
   poseTags: ["pose-tag/bent-over", "pose-tag/back-view", "pose-tag/all-fours"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/green-hair"],
 } as const satisfies Image

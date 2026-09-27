@@ -19,4 +19,5 @@ export const image085769c4a2226c18 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/campfire", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair", "fantasy-tag/purple-eyes"],
 } as const satisfies Image

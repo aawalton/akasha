@@ -16,4 +16,5 @@ export const image9e691fe1da7c914e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city", "setting-tag/hallway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

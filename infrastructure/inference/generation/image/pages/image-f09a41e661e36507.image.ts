@@ -19,4 +19,10 @@ export const imageF09a41e661e36507 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/sheet"],
+  fantasyTags: [
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/demon",
+    "fantasy-tag/scales",
+    "fantasy-tag/blue-skin",
+  ],
 } as const satisfies Image

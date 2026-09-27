@@ -12,4 +12,5 @@ export const imageF064d1ab65800dda = {
     "setting-tag/candlelight",
   ],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image8bad5972b3df09f5 = {
   settingTags: ["setting-tag/mountains", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/sheer", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

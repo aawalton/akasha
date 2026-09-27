@@ -9,4 +9,5 @@ export const imageD7df6d8f1c1e6d96 = {
   settingTags: ["setting-tag/night", "setting-tag/rain"],
   poseTags: ["pose-tag/fighting", "pose-tag/casting-magic"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fur", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const imageEf4d63014583460c = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/hands-behind-head", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/dress", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

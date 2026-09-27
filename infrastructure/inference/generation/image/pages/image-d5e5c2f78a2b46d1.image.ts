@@ -20,4 +20,5 @@ export const imageD5e5c2f78a2b46d1 = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

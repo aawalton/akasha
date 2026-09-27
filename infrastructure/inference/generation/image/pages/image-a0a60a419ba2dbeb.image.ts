@@ -9,4 +9,5 @@ export const imageA0a60a419ba2dbeb = {
   settingTags: ["setting-tag/jungle", "setting-tag/ruins"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/naga", "fantasy-tag/mythological"],
 } as const satisfies Image

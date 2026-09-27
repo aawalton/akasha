@@ -14,4 +14,11 @@ export const image3e1cb06c36ab04fd = {
     "pose-tag/standing",
   ],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/green-hair",
+    "fantasy-tag/fairy",
+    "fantasy-tag/magic",
+  ],
 } as const satisfies Image

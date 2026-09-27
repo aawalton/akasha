@@ -21,4 +21,5 @@ export const image59a6045509d7606a = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/field"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/purple-eyes", "fantasy-tag/silver-hair"],
 } as const satisfies Image

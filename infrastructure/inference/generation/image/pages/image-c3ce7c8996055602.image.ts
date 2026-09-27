@@ -8,4 +8,5 @@ export const imageC3ce7c8996055602 = {
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

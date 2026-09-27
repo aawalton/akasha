@@ -19,4 +19,5 @@ export const imageCca6d998825a58e4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/study"],
   poseTags: ["pose-tag/hand-on-face", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/tunic", "wardrobe-tag/sheet", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/silver-hair"],
 } as const satisfies Image

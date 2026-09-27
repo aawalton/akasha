@@ -21,4 +21,5 @@ export const image1d648eeb1bd12c9d = {
     "pose-tag/reaching",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/glasses"],
+  fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/magic"],
 } as const satisfies Image

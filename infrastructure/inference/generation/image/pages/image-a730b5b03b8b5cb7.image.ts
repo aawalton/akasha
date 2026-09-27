@@ -19,4 +19,5 @@ export const imageA730b5b03b8b5cb7 = {
   settingTags: ["setting-tag/castle", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

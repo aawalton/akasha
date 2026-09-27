@@ -9,4 +9,5 @@ export const imageA5c2c6a790534e13 = {
   settingTags: ["setting-tag/underwater", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/profile", "pose-tag/reclining", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sheer", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/ethereal", "fantasy-tag/surreal"],
 } as const satisfies Image

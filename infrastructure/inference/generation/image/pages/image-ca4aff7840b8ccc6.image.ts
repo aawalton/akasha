@@ -6,4 +6,5 @@ export const imageCa4aff7840b8ccc6 = {
   slug: "image-ca4aff7840b8ccc6",
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/outdoor", "setting-tag/ruins"],
+  fantasyTags: ["fantasy-tag/steampunk", "fantasy-tag/android"],
 } as const satisfies Image

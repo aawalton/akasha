@@ -9,4 +9,5 @@ export const image77213cca2cceaf48 = {
   settingTags: ["setting-tag/workshop", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/body-paint", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image868eb995360bced5 = {
   settingTags: ["setting-tag/library", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin", "fantasy-tag/red-eyes"],
 } as const satisfies Image

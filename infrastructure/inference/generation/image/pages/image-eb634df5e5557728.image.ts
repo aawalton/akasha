@@ -9,4 +9,5 @@ export const imageEb634df5e5557728 = {
   settingTags: ["setting-tag/snow", "setting-tag/dark-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress", "wardrobe-tag/tiara"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

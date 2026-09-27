@@ -20,4 +20,5 @@ export const image978523fb6e044f50 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/library"],
   poseTags: ["pose-tag/kneeling", "pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin", "fantasy-tag/red-eyes"],
 } as const satisfies Image

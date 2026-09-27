@@ -9,4 +9,5 @@ export const imageA8c4966b62f19d04 = {
   settingTags: ["setting-tag/spaceship"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/suit", "wardrobe-tag/gloves"],
+  fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk", "fantasy-tag/purple-hair"],
 } as const satisfies Image

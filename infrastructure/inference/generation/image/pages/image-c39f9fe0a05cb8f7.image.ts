@@ -9,4 +9,10 @@ export const imageC39f9fe0a05cb8f7 = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/armor", "wardrobe-tag/jewelry"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/demon",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/scales",
+  ],
 } as const satisfies Image

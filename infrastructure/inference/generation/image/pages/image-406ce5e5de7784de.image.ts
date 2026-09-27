@@ -14,4 +14,5 @@ export const image406ce5e5de7784de = {
     "pose-tag/front-view",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/anime"],
 } as const satisfies Image

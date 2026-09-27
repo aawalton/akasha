@@ -21,4 +21,5 @@ export const image5e7b5eb9ec6bb097 = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/top"],
+  fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk"],
 } as const satisfies Image

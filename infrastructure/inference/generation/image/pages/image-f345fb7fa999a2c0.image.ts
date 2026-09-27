@@ -9,4 +9,5 @@ export const imageF345fb7fa999a2c0 = {
   settingTags: ["setting-tag/spaceship", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots", "wardrobe-tag/gloves"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

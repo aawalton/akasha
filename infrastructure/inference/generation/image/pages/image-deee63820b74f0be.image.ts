@@ -9,4 +9,5 @@ export const imageDeee63820b74f0be = {
   settingTags: ["setting-tag/spaceship", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/floating", "pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

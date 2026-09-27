@@ -10,4 +10,5 @@ export const image2094d376323a2513 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/laughing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/coat"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

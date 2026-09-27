@@ -14,4 +14,10 @@ export const imageB191306f5d45d2dc = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
+  fantasyTags: [
+    "fantasy-tag/weapons",
+    "fantasy-tag/medieval",
+    "fantasy-tag/historical",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

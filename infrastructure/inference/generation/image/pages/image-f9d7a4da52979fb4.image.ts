@@ -19,4 +19,5 @@ export const imageF9d7a4da52979fb4 = {
   settingTags: ["setting-tag/cave", "setting-tag/campfire"],
   poseTags: ["pose-tag/kissing", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/scales"],
 } as const satisfies Image

@@ -26,4 +26,11 @@ export const image91fdfa66da7d6059 = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/jewelry", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/wings",
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/demon",
+    "fantasy-tag/elf-ears",
+  ],
 } as const satisfies Image

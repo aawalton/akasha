@@ -20,4 +20,5 @@ export const image4ed984498cc9ef6e = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/window"],
   poseTags: ["pose-tag/looking-back", "pose-tag/holding-clothing", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/silk", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/wings"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageDf0b13091af75b52 = {
   settingTags: ["setting-tag/studio", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/cosplay"],
 } as const satisfies Image

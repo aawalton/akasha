@@ -9,4 +9,5 @@ export const image7a7f195d5393962c = {
   settingTags: ["setting-tag/beach", "setting-tag/night", "setting-tag/ocean"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sheer-dress", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing"],
 } as const satisfies Image

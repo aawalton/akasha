@@ -9,4 +9,5 @@ export const image4438aa9b3da83b21 = {
   settingTags: ["setting-tag/studio", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageAd5d9d4f10c0b935 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/vanity"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweatpants", "wardrobe-tag/loungewear"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

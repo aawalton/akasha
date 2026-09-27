@@ -14,4 +14,5 @@ export const image83761f87ede6a136 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/sci-fi"],
 } as const satisfies Image

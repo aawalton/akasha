@@ -10,4 +10,5 @@ export const image9e264edfe00ade7d = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/nude", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

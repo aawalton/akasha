@@ -16,4 +16,10 @@ export const imageCf9e5fa1d1e7a517 = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/bodysuit"],
+  fantasyTags: [
+    "fantasy-tag/cyberpunk",
+    "fantasy-tag/android",
+    "fantasy-tag/hologram",
+    "fantasy-tag/sci-fi",
+  ],
 } as const satisfies Image

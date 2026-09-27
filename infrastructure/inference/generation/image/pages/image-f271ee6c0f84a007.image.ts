@@ -9,4 +9,5 @@ export const imageF271ee6c0f84a007 = {
   settingTags: ["setting-tag/indoor", "setting-tag/living-room", "setting-tag/bedroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

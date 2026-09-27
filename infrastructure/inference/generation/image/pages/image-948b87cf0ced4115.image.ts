@@ -9,4 +9,5 @@ export const image948b87cf0ced4115 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

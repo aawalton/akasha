@@ -9,4 +9,5 @@ export const image1d1f29aa6c226e0d = {
   settingTags: ["setting-tag/jungle", "setting-tag/ruins", "setting-tag/forest"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/naga", "fantasy-tag/mythological"],
 } as const satisfies Image

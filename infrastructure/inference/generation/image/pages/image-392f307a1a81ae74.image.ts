@@ -9,4 +9,5 @@ export const image392f307a1a81ae74 = {
   settingTags: ["setting-tag/water", "setting-tag/bathtub", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes", "fantasy-tag/cosplay"],
 } as const satisfies Image

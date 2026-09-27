@@ -10,4 +10,5 @@ export const imageF891091a8db86fc5 = {
   settingTags: ["setting-tag/forest", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

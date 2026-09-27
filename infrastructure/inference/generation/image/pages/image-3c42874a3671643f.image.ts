@@ -15,4 +15,5 @@ export const image3c42874a3671643f = {
   settingTags: ["setting-tag/office", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/suit"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

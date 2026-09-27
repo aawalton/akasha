@@ -10,4 +10,5 @@ export const image1f42dd3ae7f23787 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/tunic"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

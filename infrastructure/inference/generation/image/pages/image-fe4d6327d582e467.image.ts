@@ -10,4 +10,5 @@ export const imageFe4d6327d582e467 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/latex", "wardrobe-tag/stockings"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/demon"],
 } as const satisfies Image

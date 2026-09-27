@@ -15,4 +15,10 @@ export const image807267cc97e579f2 = {
     "pose-tag/dancing",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
+  fantasyTags: [
+    "fantasy-tag/cosmic",
+    "fantasy-tag/fire",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/ethereal",
+  ],
 } as const satisfies Image

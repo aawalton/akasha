@@ -19,4 +19,5 @@ export const image43e71bb8d64023d6 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/slip-dress"],
+  fantasyTags: ["fantasy-tag/cosmic"],
 } as const satisfies Image

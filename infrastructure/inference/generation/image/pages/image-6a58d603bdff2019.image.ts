@@ -19,4 +19,10 @@ export const image6a58d603bdff2019 = {
     "wardrobe-tag/boots",
     "wardrobe-tag/gloves",
   ],
+  fantasyTags: [
+    "fantasy-tag/demon",
+    "fantasy-tag/wings",
+    "fantasy-tag/horns",
+    "fantasy-tag/glowing-eyes",
+  ],
 } as const satisfies Image

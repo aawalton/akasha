@@ -25,4 +25,5 @@ export const imageA0c1dd22cccfd469 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-crossed"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/skirt", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/witch", "fantasy-tag/magic"],
 } as const satisfies Image

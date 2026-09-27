@@ -15,4 +15,5 @@ export const image2d634e79a52a7026 = {
     "pose-tag/reclining",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

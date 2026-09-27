@@ -9,4 +9,5 @@ export const imageF4ac0c125fbf041a = {
   settingTags: ["setting-tag/dungeon", "setting-tag/hallway"],
   poseTags: ["pose-tag/walking", "pose-tag/back-view", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/magic"],
 } as const satisfies Image

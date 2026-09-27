@@ -15,4 +15,5 @@ export const imageDd17ce910b453846 = {
     "pose-tag/front-view",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

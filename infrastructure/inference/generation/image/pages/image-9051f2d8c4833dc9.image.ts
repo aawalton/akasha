@@ -14,4 +14,10 @@ export const image9051f2d8c4833dc9 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
+  fantasyTags: [
+    "fantasy-tag/cosmic",
+    "fantasy-tag/glowing",
+    "fantasy-tag/surreal",
+    "fantasy-tag/hologram",
+  ],
 } as const satisfies Image

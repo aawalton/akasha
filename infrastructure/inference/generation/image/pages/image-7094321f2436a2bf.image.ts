@@ -20,4 +20,5 @@ export const image7094321f2436a2bf = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/floating", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy"],
 } as const satisfies Image

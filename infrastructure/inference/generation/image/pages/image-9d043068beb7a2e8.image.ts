@@ -14,4 +14,5 @@ export const image9d043068beb7a2e8 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

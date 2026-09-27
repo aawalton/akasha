@@ -19,4 +19,5 @@ export const image05150e35a0de66e1 = {
   settingTags: ["setting-tag/home", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageEa89668bf9add5b1 = {
   settingTags: ["setting-tag/dock", "setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/overalls", "wardrobe-tag/boots", "wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/steampunk"],
 } as const satisfies Image

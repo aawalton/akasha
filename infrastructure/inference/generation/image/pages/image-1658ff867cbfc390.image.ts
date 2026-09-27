@@ -19,4 +19,5 @@ export const image1658ff867cbfc390 = {
   settingTags: ["setting-tag/studio", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/saree"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

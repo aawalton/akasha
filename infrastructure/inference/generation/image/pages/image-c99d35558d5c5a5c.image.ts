@@ -9,4 +9,5 @@ export const imageC99d35558d5c5a5c = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/oral-sex", "pose-tag/all-fours"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image9236c10118ad8449 = {
   settingTags: ["setting-tag/spaceship"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

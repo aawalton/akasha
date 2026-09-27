@@ -20,4 +20,5 @@ export const image0e8a127f6a284273 = {
   settingTags: ["setting-tag/city-street", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/exposed-genitals"],
+  fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/glowing", "fantasy-tag/glowing-eyes"],
 } as const satisfies Image

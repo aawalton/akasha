@@ -9,4 +9,5 @@ export const imageE3fca913c7d1f9ba = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing", "fantasy-tag/gothic"],
 } as const satisfies Image

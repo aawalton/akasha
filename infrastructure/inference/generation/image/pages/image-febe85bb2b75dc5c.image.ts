@@ -20,4 +20,5 @@ export const imageFebe85bb2b75dc5c = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/leaning", "pose-tag/reaching", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/cosmic", "fantasy-tag/magic"],
 } as const satisfies Image

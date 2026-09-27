@@ -20,4 +20,5 @@ export const image6f0f19b9731b9d38 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/nature"],
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail"],
 } as const satisfies Image

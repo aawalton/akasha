@@ -19,4 +19,5 @@ export const image441b686c583ecccc = {
   settingTags: ["setting-tag/cave", "setting-tag/campfire", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears", "fantasy-tag/tail"],
 } as const satisfies Image

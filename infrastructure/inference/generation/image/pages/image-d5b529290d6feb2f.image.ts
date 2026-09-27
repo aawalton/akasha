@@ -16,4 +16,5 @@ export const imageD5b529290d6feb2f = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image33f5ba3aee80f8b3 = {
     "pose-tag/hand-on-face",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

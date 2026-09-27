@@ -20,4 +20,5 @@ export const imageD5d34088b862c178 = {
   settingTags: ["setting-tag/night", "setting-tag/city", "setting-tag/rooftop"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shorts", "wardrobe-tag/crop-top", "wardrobe-tag/high-heels"],
+  fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail"],
 } as const satisfies Image

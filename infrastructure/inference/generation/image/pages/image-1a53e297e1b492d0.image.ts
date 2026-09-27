@@ -20,4 +20,5 @@ export const image1a53e297e1b492d0 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/dock", "setting-tag/sunset"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/stockings", "wardrobe-tag/lingerie", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/monster-girl", "fantasy-tag/mermaid"],
 } as const satisfies Image

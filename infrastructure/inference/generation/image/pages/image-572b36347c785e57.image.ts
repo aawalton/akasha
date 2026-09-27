@@ -10,4 +10,5 @@ export const image572b36347c785e57 = {
   settingTags: ["setting-tag/ruins", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/gold-trim", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/mythological"],
 } as const satisfies Image

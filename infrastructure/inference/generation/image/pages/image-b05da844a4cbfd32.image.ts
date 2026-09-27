@@ -25,4 +25,5 @@ export const imageB05da844a4cbfd32 = {
     "wardrobe-tag/veil",
     "wardrobe-tag/jewelry",
   ],
+  fantasyTags: ["fantasy-tag/ethereal", "fantasy-tag/glowing", "fantasy-tag/cosplay"],
 } as const satisfies Image

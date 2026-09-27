@@ -9,4 +9,5 @@ export const image50e413c70f1f226e = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/skirt", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/surreal", "fantasy-tag/glowing"],
 } as const satisfies Image

@@ -19,4 +19,10 @@ export const image2162a94b387d5eb9 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/shirt", "wardrobe-tag/gold-trim"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/weapons",
+  ],
 } as const satisfies Image

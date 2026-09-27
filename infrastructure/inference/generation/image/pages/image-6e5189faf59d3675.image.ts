@@ -19,4 +19,5 @@ export const image6e5189faf59d3675 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing-eyes"],
 } as const satisfies Image

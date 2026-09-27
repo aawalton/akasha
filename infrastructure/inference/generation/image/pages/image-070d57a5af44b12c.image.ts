@@ -10,4 +10,5 @@ export const image070d57a5af44b12c = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/mythological", "fantasy-tag/cosplay"],
 } as const satisfies Image

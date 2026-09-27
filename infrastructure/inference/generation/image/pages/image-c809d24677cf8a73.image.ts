@@ -14,4 +14,5 @@ export const imageC809d24677cf8a73 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/strapless", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image8328e5147d295b5e = {
   settingTags: ["setting-tag/ruins", "setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/naga"],
 } as const satisfies Image

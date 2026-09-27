@@ -10,4 +10,11 @@ export const imageF017db04fd3dcae9 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: [
+    "fantasy-tag/scales",
+    "fantasy-tag/horns",
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/demon",
+  ],
 } as const satisfies Image

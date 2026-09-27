@@ -8,4 +8,11 @@ export const image3018c3c94c2207c1 = {
   settingTags: ["setting-tag/dungeon", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/squatting"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/monster-girl",
+    "fantasy-tag/demon",
+    "fantasy-tag/gothic",
+    "fantasy-tag/magic",
+  ],
 } as const satisfies Image

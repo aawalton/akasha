@@ -14,4 +14,10 @@ export const imageF82a26b92c6d7d59 = {
     "wardrobe-tag/backless",
     "wardrobe-tag/high-slit",
   ],
+  fantasyTags: [
+    "fantasy-tag/surreal",
+    "fantasy-tag/magic",
+    "fantasy-tag/glowing",
+    "fantasy-tag/sci-fi",
+  ],
 } as const satisfies Image

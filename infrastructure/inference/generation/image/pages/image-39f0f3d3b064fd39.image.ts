@@ -19,4 +19,10 @@ export const image39f0f3d3b064fd39 = {
     "wardrobe-tag/boots",
     "wardrobe-tag/cloak",
   ],
+  fantasyTags: [
+    "fantasy-tag/dragon",
+    "fantasy-tag/magic",
+    "fantasy-tag/witch",
+    "fantasy-tag/warrior",
+  ],
 } as const satisfies Image

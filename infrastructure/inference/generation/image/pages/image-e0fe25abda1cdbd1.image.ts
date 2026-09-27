@@ -20,4 +20,5 @@ export const imageE0fe25abda1cdbd1 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/library"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/tights"],
+  fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/elf-ears", "fantasy-tag/red-eyes"],
 } as const satisfies Image

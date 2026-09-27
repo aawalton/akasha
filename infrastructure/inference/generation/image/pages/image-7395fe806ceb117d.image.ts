@@ -10,4 +10,5 @@ export const image7395fe806ceb117d = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/bare-shoulders", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

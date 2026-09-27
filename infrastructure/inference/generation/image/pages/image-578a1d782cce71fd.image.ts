@@ -20,4 +20,5 @@ export const image578a1d782cce71fd = {
   settingTags: ["setting-tag/water", "setting-tag/snow", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/tail", "fantasy-tag/mermaid", "fantasy-tag/scales"],
 } as const satisfies Image

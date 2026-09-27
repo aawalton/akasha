@@ -19,4 +19,5 @@ export const image5884452d20d83fd9 = {
   settingTags: ["setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/bare-legs", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/cosmic"],
 } as const satisfies Image

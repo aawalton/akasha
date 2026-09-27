@@ -19,4 +19,5 @@ export const image5bae30b5b3741ddd = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/nature-spirit", "fantasy-tag/glowing"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image8d31c69c3355041e = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/hands-clasped", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

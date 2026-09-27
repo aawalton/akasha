@@ -9,4 +9,5 @@ export const image2c39bb0c62f60f8c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/fog"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/fire"],
 } as const satisfies Image

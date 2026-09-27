@@ -9,4 +9,5 @@ export const imageF8ac9f78950896ca = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bikini"],
+  fantasyTags: ["fantasy-tag/silver-hair", "fantasy-tag/ethereal"],
 } as const satisfies Image

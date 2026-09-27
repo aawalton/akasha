@@ -19,4 +19,5 @@ export const imageCa59bf71c6dd0001 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  fantasyTags: ["fantasy-tag/unusual-eyes"],
 } as const satisfies Image

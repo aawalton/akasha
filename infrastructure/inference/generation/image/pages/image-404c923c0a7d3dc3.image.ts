@@ -10,4 +10,5 @@ export const image404c923c0a7d3dc3 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/hotel"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/jacket", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime"],
 } as const satisfies Image

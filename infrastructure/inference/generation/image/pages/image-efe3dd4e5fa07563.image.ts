@@ -25,4 +25,5 @@ export const imageEfe3dd4e5fa07563 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-down", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/mermaid"],
 } as const satisfies Image

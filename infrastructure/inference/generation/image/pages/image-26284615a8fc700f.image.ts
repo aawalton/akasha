@@ -14,4 +14,5 @@ export const image26284615a8fc700f = {
     "pose-tag/full-body",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/fairy"],
 } as const satisfies Image

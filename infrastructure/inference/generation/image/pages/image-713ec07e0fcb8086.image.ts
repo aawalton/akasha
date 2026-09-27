@@ -9,4 +9,5 @@ export const image713ec07e0fcb8086 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kneeling", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image0ff835304bc5b866 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/angel"],
 } as const satisfies Image

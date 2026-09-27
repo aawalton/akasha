@@ -20,4 +20,5 @@ export const image49caba5ea2b09c89 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/church"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/fairy"],
 } as const satisfies Image

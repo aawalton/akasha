@@ -9,4 +9,5 @@ export const imageE2c8e1f737d20764 = {
   settingTags: ["setting-tag/mountains", "setting-tag/ocean", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/medieval"],
 } as const satisfies Image

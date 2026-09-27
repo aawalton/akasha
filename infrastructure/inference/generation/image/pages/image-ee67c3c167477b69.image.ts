@@ -16,4 +16,5 @@ export const imageEe67c3c167477b69 = {
     "pose-tag/standing",
   ],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

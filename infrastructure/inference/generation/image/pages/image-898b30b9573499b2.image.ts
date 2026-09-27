@@ -16,4 +16,5 @@ export const image898b30b9573499b2 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/indoor"],
   poseTags: ["pose-tag/holding-lantern", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

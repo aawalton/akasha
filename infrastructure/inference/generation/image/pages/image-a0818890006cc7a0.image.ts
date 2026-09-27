@@ -10,4 +10,5 @@ export const imageA0818890006cc7a0 = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/swimsuit"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

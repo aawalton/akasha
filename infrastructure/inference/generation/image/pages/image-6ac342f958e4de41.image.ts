@@ -20,4 +20,5 @@ export const image6ac342f958e4de41 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/kneeling", "pose-tag/hands-clasped", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/cosplay", "fantasy-tag/angel"],
 } as const satisfies Image

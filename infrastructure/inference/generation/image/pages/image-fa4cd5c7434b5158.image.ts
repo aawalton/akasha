@@ -16,4 +16,5 @@ export const imageFa4cd5c7434b5158 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
 } as const satisfies Image

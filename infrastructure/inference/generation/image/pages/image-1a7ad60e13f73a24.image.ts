@@ -14,4 +14,10 @@ export const image1a7ad60e13f73a24 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/purple-eyes",
+    "fantasy-tag/witch",
+    "fantasy-tag/gothic",
+  ],
 } as const satisfies Image

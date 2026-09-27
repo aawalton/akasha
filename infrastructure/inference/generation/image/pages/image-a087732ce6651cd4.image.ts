@@ -25,4 +25,5 @@ export const imageA087732ce6651cd4 = {
     "wardrobe-tag/belt",
     "wardrobe-tag/backpack",
   ],
+  fantasyTags: ["fantasy-tag/steampunk"],
 } as const satisfies Image

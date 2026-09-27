@@ -19,4 +19,5 @@ export const imageE5ef2b502f4c3c07 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rocks", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/cloak"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

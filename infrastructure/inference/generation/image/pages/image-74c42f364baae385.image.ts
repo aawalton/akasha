@@ -10,4 +10,5 @@ export const image74c42f364baae385 = {
   settingTags: ["setting-tag/museum", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

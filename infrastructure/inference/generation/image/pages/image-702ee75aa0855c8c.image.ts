@@ -19,4 +19,10 @@ export const image702ee75aa0855c8c = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/beach"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/partial-undress"],
+  fantasyTags: [
+    "fantasy-tag/glowing",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/glowing-eyes",
+    "fantasy-tag/fire",
+  ],
 } as const satisfies Image

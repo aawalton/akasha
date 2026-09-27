@@ -9,4 +9,5 @@ export const imageD201b3ecd2f4d29c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/battlefield", "setting-tag/castle"],
   poseTags: ["pose-tag/fighting", "pose-tag/running"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/warrior"],
 } as const satisfies Image

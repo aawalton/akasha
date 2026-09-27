@@ -15,4 +15,10 @@ export const imageB99ed9bf1e89dc70 = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/sheet", "wardrobe-tag/jewelry"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/silver-hair",
+    "fantasy-tag/glowing-eyes",
+  ],
 } as const satisfies Image

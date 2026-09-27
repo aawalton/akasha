@@ -9,4 +9,5 @@ export const imageB21ba1b4874ae520 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/cosmic"],
 } as const satisfies Image

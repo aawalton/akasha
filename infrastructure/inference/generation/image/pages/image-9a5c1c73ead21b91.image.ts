@@ -9,4 +9,5 @@ export const image9a5c1c73ead21b91 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/battlefield"],
   poseTags: ["pose-tag/fighting"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/weapons", "fantasy-tag/monster-girl"],
 } as const satisfies Image

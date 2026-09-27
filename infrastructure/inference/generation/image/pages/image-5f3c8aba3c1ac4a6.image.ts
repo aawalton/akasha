@@ -19,4 +19,5 @@ export const image5f3c8aba3c1ac4a6 = {
   settingTags: ["setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-up", "pose-tag/portrait", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/witch-hat", "wardrobe-tag/cloak", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/magic", "fantasy-tag/witch"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageFa8de5ac9f5fe240 = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/field"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/mermaid", "fantasy-tag/naga", "fantasy-tag/scales"],
 } as const satisfies Image

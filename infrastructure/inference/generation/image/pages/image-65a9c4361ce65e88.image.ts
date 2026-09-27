@@ -9,4 +9,5 @@ export const image65a9c4361ce65e88 = {
   settingTags: ["setting-tag/balcony", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/silver-hair", "fantasy-tag/anime"],
 } as const satisfies Image

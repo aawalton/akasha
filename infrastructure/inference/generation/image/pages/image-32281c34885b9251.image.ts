@@ -19,4 +19,5 @@ export const image32281c34885b9251 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/kissing", "pose-tag/sitting", "pose-tag/face-to-face", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/angel", "fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/demon"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image71c5ed9717c38928 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/golden-eyes", "fantasy-tag/elf-ears"],
 } as const satisfies Image

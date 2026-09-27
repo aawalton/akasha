@@ -20,4 +20,5 @@ export const image6bb50c7b20be80f5 = {
   settingTags: ["setting-tag/ruins", "setting-tag/indoor"],
   poseTags: ["pose-tag/running"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/pants", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/monster-girl", "fantasy-tag/fire", "fantasy-tag/magic"],
 } as const satisfies Image

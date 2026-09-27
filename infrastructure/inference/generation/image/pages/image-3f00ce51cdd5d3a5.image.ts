@@ -9,4 +9,5 @@ export const image3f00ce51cdd5d3a5 = {
   settingTags: ["setting-tag/bathtub", "setting-tag/water"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/reclining", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/golden-eyes"],
 } as const satisfies Image

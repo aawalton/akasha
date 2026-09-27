@@ -10,4 +10,5 @@ export const image2338440d86cfd267 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/red-string"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

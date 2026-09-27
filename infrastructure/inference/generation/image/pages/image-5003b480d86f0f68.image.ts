@@ -19,4 +19,5 @@ export const image5003b480d86f0f68 = {
   settingTags: ["setting-tag/ocean", "setting-tag/night", "setting-tag/dock"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image027f34dc2c8d736e = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
 } as const satisfies Image

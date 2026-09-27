@@ -9,4 +9,5 @@ export const image92683cf0562bbd71 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image46501a3976ef06d9 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/profile", "pose-tag/hand-on-face", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

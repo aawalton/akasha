@@ -10,4 +10,10 @@ export const imageB09500216e96387a = {
   settingTags: ["setting-tag/indoor", "setting-tag/castle", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/corset"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/magic",
+    "fantasy-tag/medieval",
+  ],
 } as const satisfies Image

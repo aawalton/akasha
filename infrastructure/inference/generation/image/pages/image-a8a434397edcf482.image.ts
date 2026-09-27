@@ -9,4 +9,5 @@ export const imageA8a434397edcf482 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/unusual-eyes", "fantasy-tag/horns"],
 } as const satisfies Image

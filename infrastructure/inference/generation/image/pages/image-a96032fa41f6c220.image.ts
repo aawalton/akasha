@@ -30,4 +30,5 @@ export const imageA96032fa41f6c220 = {
     "pose-tag/full-body",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/nature-spirit", "fantasy-tag/glowing-eyes"],
 } as const satisfies Image

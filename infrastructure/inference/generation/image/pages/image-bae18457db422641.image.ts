@@ -9,4 +9,5 @@ export const imageBae18457db422641 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/hot-spring", "setting-tag/snow"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-up", "pose-tag/reaching", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair", "fantasy-tag/cosplay"],
 } as const satisfies Image

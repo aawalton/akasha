@@ -19,4 +19,11 @@ export const image14635b3290e9d5bb = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/candlelight", "setting-tag/library"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/gloves"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/wings",
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/dragon",
+    "fantasy-tag/purple-eyes",
+  ],
 } as const satisfies Image

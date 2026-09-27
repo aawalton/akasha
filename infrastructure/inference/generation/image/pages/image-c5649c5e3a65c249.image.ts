@@ -29,4 +29,5 @@ export const imageC5649c5e3a65c249 = {
     "wardrobe-tag/spaghetti-straps",
     "wardrobe-tag/hair-accessory",
   ],
+  fantasyTags: ["fantasy-tag/pink-hair"],
 } as const satisfies Image

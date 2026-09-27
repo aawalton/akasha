@@ -10,4 +10,5 @@ export const imageA832942f70e3c224 = {
   settingTags: ["setting-tag/castle", "setting-tag/ruins"],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/armor", "wardrobe-tag/barefoot"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image5a9ee76b1fc67d22 = {
   settingTags: ["setting-tag/indoor", "setting-tag/cabin", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/naga", "fantasy-tag/scales"],
 } as const satisfies Image

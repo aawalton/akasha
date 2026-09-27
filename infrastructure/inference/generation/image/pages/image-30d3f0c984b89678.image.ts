@@ -15,4 +15,5 @@ export const image30d3f0c984b89678 = {
   settingTags: ["setting-tag/workshop", "setting-tag/cabin"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/gloves"],
+  fantasyTags: ["fantasy-tag/animal-ears"],
 } as const satisfies Image

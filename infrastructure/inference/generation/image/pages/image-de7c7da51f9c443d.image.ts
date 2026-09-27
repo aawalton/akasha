@@ -9,4 +9,5 @@ export const imageDe7c7da51f9c443d = {
   settingTags: ["setting-tag/city-street", "setting-tag/market"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/walking", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

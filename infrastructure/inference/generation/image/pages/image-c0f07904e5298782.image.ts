@@ -9,4 +9,5 @@ export const imageC0f07904e5298782 = {
   settingTags: ["setting-tag/ruins", "setting-tag/library"],
   poseTags: ["pose-tag/fighting", "pose-tag/kneeling", "pose-tag/casting-magic"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/monster-girl", "fantasy-tag/dragon"],
 } as const satisfies Image

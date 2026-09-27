@@ -19,4 +19,5 @@ export const image0d12904b3c50a28a = {
   settingTags: ["setting-tag/castle", "setting-tag/outdoor"],
   poseTags: ["pose-tag/fighting", "pose-tag/holding-weapon", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/historical", "fantasy-tag/medieval", "fantasy-tag/weapons"],
 } as const satisfies Image

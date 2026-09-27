@@ -25,4 +25,5 @@ export const imageA2bb2332dbfe1c31 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/silver-hair"],
 } as const satisfies Image

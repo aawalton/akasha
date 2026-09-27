@@ -20,4 +20,5 @@ export const imageBfcd4e40e62764f5 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/harness", "wardrobe-tag/hair-accessory"],
+  fantasyTags: ["fantasy-tag/warrior"],
 } as const satisfies Image

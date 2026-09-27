@@ -9,4 +9,5 @@ export const image672b523a79bfabe6 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/silver-hair"],
 } as const satisfies Image

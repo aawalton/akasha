@@ -9,4 +9,5 @@ export const image88386ee1897157fe = {
   settingTags: ["setting-tag/indoor", "setting-tag/cabin", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry", "wardrobe-tag/choker"],
+  fantasyTags: ["fantasy-tag/historical"],
 } as const satisfies Image

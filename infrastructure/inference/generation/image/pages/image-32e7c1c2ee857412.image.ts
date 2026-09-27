@@ -10,4 +10,5 @@ export const image32e7c1c2ee857412 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-up", "pose-tag/head-tilt", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

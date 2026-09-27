@@ -15,4 +15,5 @@ export const image13431444958efa81 = {
     "pose-tag/hand-on-face",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bare-legs"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

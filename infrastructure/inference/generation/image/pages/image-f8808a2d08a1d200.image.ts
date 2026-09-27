@@ -9,4 +9,5 @@ export const imageF8808a2d08a1d200 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/body-paint", "wardrobe-tag/gold-trim"],
+  fantasyTags: ["fantasy-tag/superhero"],
 } as const satisfies Image

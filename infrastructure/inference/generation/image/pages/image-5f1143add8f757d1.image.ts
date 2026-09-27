@@ -25,4 +25,10 @@ export const image5f1143add8f757d1 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/bare-legs"],
+  fantasyTags: [
+    "fantasy-tag/cosplay",
+    "fantasy-tag/wings",
+    "fantasy-tag/fairy",
+    "fantasy-tag/magic",
+  ],
 } as const satisfies Image

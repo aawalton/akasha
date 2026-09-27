@@ -20,4 +20,5 @@ export const image417dee0c632a6da5 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/deep-v-neck"],
+  fantasyTags: ["fantasy-tag/steampunk"],
 } as const satisfies Image

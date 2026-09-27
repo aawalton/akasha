@@ -9,4 +9,5 @@ export const image1d6f127f3b8be467 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/tube-top"],
+  fantasyTags: ["fantasy-tag/golden-eyes"],
 } as const satisfies Image

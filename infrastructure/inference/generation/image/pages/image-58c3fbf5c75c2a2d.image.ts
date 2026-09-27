@@ -9,4 +9,5 @@ export const image58c3fbf5c75c2a2d = {
   settingTags: ["setting-tag/indoor", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/suit", "wardrobe-tag/jacket", "wardrobe-tag/deep-v-neck"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

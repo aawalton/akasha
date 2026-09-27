@@ -20,4 +20,5 @@ export const image886cd4887299de59 = {
   settingTags: ["setting-tag/bathtub", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/gothic"],
 } as const satisfies Image

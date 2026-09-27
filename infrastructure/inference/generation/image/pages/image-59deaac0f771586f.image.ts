@@ -19,4 +19,5 @@ export const image59deaac0f771586f = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/off-shoulder"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

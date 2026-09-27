@@ -24,4 +24,5 @@ export const image820077b1c9dc570f = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/android"],
 } as const satisfies Image

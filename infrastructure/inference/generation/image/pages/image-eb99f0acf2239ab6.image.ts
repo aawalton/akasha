@@ -9,4 +9,5 @@ export const imageEb99f0acf2239ab6 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/head-tilt", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/sheet", "wardrobe-tag/glitter-makeup"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes"],
 } as const satisfies Image

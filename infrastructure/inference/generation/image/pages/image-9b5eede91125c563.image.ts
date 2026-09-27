@@ -9,4 +9,5 @@ export const image9b5eede91125c563 = {
   settingTags: ["setting-tag/abstract-background"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-back", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons", "fantasy-tag/anime"],
 } as const satisfies Image

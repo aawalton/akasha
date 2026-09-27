@@ -9,4 +9,5 @@ export const image3dd9f79930502568 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy"],
 } as const satisfies Image

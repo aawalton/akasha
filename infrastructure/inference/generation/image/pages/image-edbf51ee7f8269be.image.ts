@@ -20,4 +20,5 @@ export const imageEdbf51ee7f8269be = {
   settingTags: ["setting-tag/stage", "setting-tag/party"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

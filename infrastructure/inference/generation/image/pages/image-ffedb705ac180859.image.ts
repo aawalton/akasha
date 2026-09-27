@@ -7,4 +7,5 @@ export const imageFfedb705ac180859 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/floating"],
+  fantasyTags: ["fantasy-tag/demon", "fantasy-tag/monster-girl", "fantasy-tag/gothic"],
 } as const satisfies Image

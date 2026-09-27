@@ -10,4 +10,10 @@ export const imageFd506af9363c4009 = {
   settingTags: ["setting-tag/library", "setting-tag/fireplace", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/skirt", "wardrobe-tag/jewelry"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/blue-skin",
+    "fantasy-tag/golden-eyes",
+  ],
 } as const satisfies Image

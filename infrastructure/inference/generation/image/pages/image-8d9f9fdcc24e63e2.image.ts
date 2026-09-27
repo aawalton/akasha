@@ -20,4 +20,5 @@ export const image8d9f9fdcc24e63e2 = {
     "pose-tag/holding-weapon",
   ],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/gold-trim", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair", "fantasy-tag/weapons"],
 } as const satisfies Image

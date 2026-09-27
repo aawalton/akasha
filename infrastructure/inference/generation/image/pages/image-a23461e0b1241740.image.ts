@@ -10,4 +10,5 @@ export const imageA23461e0b1241740 = {
   settingTags: ["setting-tag/rooftop", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/pants", "wardrobe-tag/shirt"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

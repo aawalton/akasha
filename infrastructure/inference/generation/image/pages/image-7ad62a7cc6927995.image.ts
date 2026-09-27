@@ -19,4 +19,5 @@ export const image7ad62a7cc6927995 = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/jungle", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/panties", "wardrobe-tag/garter-belt"],
+  fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy"],
 } as const satisfies Image

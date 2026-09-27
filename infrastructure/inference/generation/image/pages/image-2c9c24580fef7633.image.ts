@@ -20,4 +20,10 @@ export const image2c9c24580fef7633 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/library"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/tights"],
+  fantasyTags: [
+    "fantasy-tag/green-skin",
+    "fantasy-tag/elf-ears",
+    "fantasy-tag/red-eyes",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

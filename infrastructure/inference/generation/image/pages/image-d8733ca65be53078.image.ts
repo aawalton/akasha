@@ -9,4 +9,5 @@ export const imageD8733ca65be53078 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

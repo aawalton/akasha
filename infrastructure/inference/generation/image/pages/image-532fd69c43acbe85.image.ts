@@ -10,4 +10,5 @@ export const image532fd69c43acbe85 = {
   settingTags: ["setting-tag/park", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans"],
+  fantasyTags: ["fantasy-tag/blue-hair"],
 } as const satisfies Image

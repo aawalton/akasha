@@ -30,4 +30,5 @@ export const image179422dfb2621f9f = {
     "wardrobe-tag/gold-trim",
     "wardrobe-tag/deep-v-neck",
   ],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/cosplay"],
 } as const satisfies Image

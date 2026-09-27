@@ -19,4 +19,5 @@ export const imageC594f93e2552ef88 = {
   settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/pants"],
+  fantasyTags: ["fantasy-tag/animal-ears"],
 } as const satisfies Image

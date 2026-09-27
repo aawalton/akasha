@@ -19,4 +19,10 @@ export const imageDf983f9c971a7e63 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  fantasyTags: [
+    "fantasy-tag/hologram",
+    "fantasy-tag/glowing",
+    "fantasy-tag/android",
+    "fantasy-tag/sci-fi",
+  ],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageDf7a5757151eb652 = {
     "pose-tag/arms-raised",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/cleavage"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageB92b57b18df5539c = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/tiara", "wardrobe-tag/veil"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/fairy-tale"],
 } as const satisfies Image

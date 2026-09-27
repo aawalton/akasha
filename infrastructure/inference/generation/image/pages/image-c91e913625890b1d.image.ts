@@ -14,4 +14,5 @@ export const imageC91e913625890b1d = {
   ],
   poseTags: ["pose-tag/walking", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/warrior"],
 } as const satisfies Image

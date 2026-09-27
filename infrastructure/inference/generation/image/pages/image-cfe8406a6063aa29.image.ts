@@ -9,4 +9,5 @@ export const imageCfe8406a6063aa29 = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/plain-background"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-up", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/shorts"],
+  fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/anime"],
 } as const satisfies Image

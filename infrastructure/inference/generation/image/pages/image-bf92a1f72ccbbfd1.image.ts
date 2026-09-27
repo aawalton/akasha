@@ -9,4 +9,5 @@ export const imageBf92a1f72ccbbfd1 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor", "setting-tag/rocks"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/mermaid"],
 } as const satisfies Image

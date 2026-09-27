@@ -19,4 +19,5 @@ export const image23f7529bda1a712e = {
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/gloves"],
+  fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/wings", "fantasy-tag/cosplay"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image5b4f5483860ca593 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/ethereal", "fantasy-tag/glowing"],
 } as const satisfies Image

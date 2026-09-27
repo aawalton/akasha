@@ -20,4 +20,5 @@ export const image8119f8667d9eb0ef = {
   settingTags: ["setting-tag/outdoor", "setting-tag/ruins", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/nature-spirit"],
 } as const satisfies Image

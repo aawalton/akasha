@@ -9,4 +9,5 @@ export const image4458fefaaa51d19b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/battlefield"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fully-clothed"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic"],
 } as const satisfies Image

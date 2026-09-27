@@ -31,4 +31,5 @@ export const image15182a1e13ec170a = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

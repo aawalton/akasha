@@ -19,4 +19,5 @@ export const imageE04b40efe01545c6 = {
   settingTags: ["setting-tag/battlefield", "setting-tag/outdoor", "setting-tag/ruins"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/kimono", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/warrior"],
 } as const satisfies Image

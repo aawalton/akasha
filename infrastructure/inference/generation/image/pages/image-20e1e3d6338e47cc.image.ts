@@ -25,4 +25,5 @@ export const image20e1e3d6338e47cc = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/indoor"],
   poseTags: ["pose-tag/holding-lantern", "pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/glowing-eyes"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageCc32c6b9617fe7ca = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/crop-top", "wardrobe-tag/jeans"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

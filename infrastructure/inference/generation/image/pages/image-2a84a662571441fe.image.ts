@@ -9,4 +9,5 @@ export const image2a84a662571441fe = {
   settingTags: ["setting-tag/workshop", "setting-tag/dimly-lit", "setting-tag/rocks"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

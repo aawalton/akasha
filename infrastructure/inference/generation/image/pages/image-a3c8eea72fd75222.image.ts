@@ -14,4 +14,5 @@ export const imageA3c8eea72fd75222 = {
     "pose-tag/bent-over",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headphones"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

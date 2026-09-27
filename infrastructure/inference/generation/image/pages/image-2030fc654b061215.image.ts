@@ -24,4 +24,5 @@ export const image2030fc654b061215 = {
     "pose-tag/reading",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
 } as const satisfies Image

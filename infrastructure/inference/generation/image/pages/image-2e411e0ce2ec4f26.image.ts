@@ -9,4 +9,5 @@ export const image2e411e0ce2ec4f26 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shirt", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

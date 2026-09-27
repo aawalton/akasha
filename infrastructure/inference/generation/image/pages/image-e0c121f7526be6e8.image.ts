@@ -5,4 +5,5 @@ export const imageE0c121f7526be6e8 = {
   type: "page-type/image",
   slug: "image-e0c121f7526be6e8",
   relationshipLevel: "closeness-level/level-1",
+  fantasyTags: ["fantasy-tag/bioluminescence"],
 } as const satisfies Image

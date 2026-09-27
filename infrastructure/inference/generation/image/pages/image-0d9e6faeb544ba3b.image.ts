@@ -9,4 +9,5 @@ export const image0d9e6faeb544ba3b = {
   settingTags: ["setting-tag/water", "setting-tag/forest", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image8ba3679e50dd8193 = {
   settingTags: ["setting-tag/forest", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/android", "fantasy-tag/cyberpunk", "fantasy-tag/glowing"],
 } as const satisfies Image

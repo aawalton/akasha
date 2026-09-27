@@ -9,4 +9,5 @@ export const image8bc4ecde52a4a089 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/long-sleeves"],
+  fantasyTags: ["fantasy-tag/medieval"],
 } as const satisfies Image

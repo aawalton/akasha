@@ -10,4 +10,5 @@ export const image417078fbb794d26c = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/gym"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

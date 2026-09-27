@@ -10,4 +10,5 @@ export const image343353eadde37451 = {
   settingTags: ["setting-tag/water", "setting-tag/cave", "setting-tag/rocks"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/back-view", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/mermaid"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageD10f1023867e7475 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/partial-undress"],
+  fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/fire", "fantasy-tag/magic"],
 } as const satisfies Image

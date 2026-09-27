@@ -20,4 +20,5 @@ export const image71a3827fad15c047 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/sky"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/belt", "wardrobe-tag/skirt", "wardrobe-tag/bare-midriff"],
+  fantasyTags: ["fantasy-tag/mythological"],
 } as const satisfies Image

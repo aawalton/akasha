@@ -9,4 +9,5 @@ export const imageC6b9b97c60a90fb9 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint", "wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/cosmic"],
 } as const satisfies Image

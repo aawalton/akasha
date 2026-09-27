@@ -18,4 +18,5 @@ export const imageCb127eee97890e6b = {
     "wardrobe-tag/spaghetti-straps",
     "wardrobe-tag/bare-shoulders",
   ],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

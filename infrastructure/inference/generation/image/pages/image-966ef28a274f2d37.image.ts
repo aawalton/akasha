@@ -9,4 +9,5 @@ export const image966ef28a274f2d37 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/park", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/glowing"],
 } as const satisfies Image

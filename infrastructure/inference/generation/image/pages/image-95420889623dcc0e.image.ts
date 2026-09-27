@@ -9,4 +9,5 @@ export const image95420889623dcc0e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/battlefield", "setting-tag/mountains"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/fighting"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fully-clothed"],
+  fantasyTags: ["fantasy-tag/dragon", "fantasy-tag/monster-girl", "fantasy-tag/magic"],
 } as const satisfies Image

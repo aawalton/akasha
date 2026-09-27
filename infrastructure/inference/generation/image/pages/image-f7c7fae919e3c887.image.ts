@@ -10,4 +10,5 @@ export const imageF7c7fae919e3c887 = {
   settingTags: ["setting-tag/office", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/suit"],
+  fantasyTags: ["fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
 } as const satisfies Image

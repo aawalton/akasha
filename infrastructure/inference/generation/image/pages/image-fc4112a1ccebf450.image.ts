@@ -15,4 +15,5 @@ export const imageFc4112a1ccebf450 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/library"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-lantern"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves", "wardrobe-tag/mask"],
+  fantasyTags: ["fantasy-tag/surreal"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image3923d8741e58d84e = {
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/water"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bikini", "wardrobe-tag/lingerie"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

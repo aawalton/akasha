@@ -9,4 +9,5 @@ export const image062ebb06a0557f98 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress"],
+  fantasyTags: ["fantasy-tag/horns"],
 } as const satisfies Image

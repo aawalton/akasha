@@ -9,4 +9,5 @@ export const imageC948e4a02e54a920 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/scales"],
 } as const satisfies Image

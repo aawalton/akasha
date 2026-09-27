@@ -10,4 +10,5 @@ export const image680eda365a578d8b = {
   settingTags: ["setting-tag/castle", "setting-tag/water", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic"],
 } as const satisfies Image

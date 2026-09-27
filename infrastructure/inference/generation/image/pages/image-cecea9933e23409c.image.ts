@@ -10,4 +10,5 @@ export const imageCecea9933e23409c = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig", "wardrobe-tag/sneakers"],
+  fantasyTags: ["fantasy-tag/cosplay"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageB7d00a06eda7b62c = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit", "setting-tag/rocks"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/bare-shoulders"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/bioluminescence"],
 } as const satisfies Image

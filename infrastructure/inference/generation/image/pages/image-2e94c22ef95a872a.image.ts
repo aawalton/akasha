@@ -10,4 +10,5 @@ export const image2e94c22ef95a872a = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/corset"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image42418ba28c4b3367 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/harness", "wardrobe-tag/backpack"],
+  fantasyTags: ["fantasy-tag/steampunk", "fantasy-tag/cosplay"],
 } as const satisfies Image

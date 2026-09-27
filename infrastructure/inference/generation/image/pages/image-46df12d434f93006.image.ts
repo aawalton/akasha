@@ -24,4 +24,11 @@ export const image46df12d434f93006 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: [
+    "fantasy-tag/horns",
+    "fantasy-tag/wings",
+    "fantasy-tag/dragon-horns",
+    "fantasy-tag/demon",
+    "fantasy-tag/cosplay",
+  ],
 } as const satisfies Image

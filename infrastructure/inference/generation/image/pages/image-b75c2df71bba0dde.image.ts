@@ -14,4 +14,5 @@ export const imageB75c2df71bba0dde = {
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/body-paint"],
+  fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes", "fantasy-tag/monster-girl"],
 } as const satisfies Image

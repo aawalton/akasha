@@ -9,4 +9,5 @@ export const image8134b15e611bf24c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots", "wardrobe-tag/stockings"],
+  fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic", "fantasy-tag/monster-girl"],
 } as const satisfies Image

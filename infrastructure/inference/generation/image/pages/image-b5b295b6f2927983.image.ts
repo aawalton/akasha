@@ -10,4 +10,5 @@ export const imageB5b295b6f2927983 = {
   settingTags: ["setting-tag/temple", "setting-tag/campfire"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/glowing-eyes", "fantasy-tag/mythological"],
 } as const satisfies Image

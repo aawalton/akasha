@@ -25,4 +25,5 @@ export const imageAb220b0141ad8453 = {
     "wardrobe-tag/deep-v-neck",
     "wardrobe-tag/belt",
   ],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image

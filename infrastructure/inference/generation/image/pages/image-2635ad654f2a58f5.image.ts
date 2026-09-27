@@ -9,4 +9,5 @@ export const image2635ad654f2a58f5 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/sheet"],
+  fantasyTags: ["fantasy-tag/magic", "fantasy-tag/mythological", "fantasy-tag/ethereal"],
 } as const satisfies Image

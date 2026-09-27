@@ -9,4 +9,5 @@ export const image1dc3093e6975003c = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/fog"],
   poseTags: ["pose-tag/front-view", "pose-tag/arms-raised", "pose-tag/hands-behind-head"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
+  fantasyTags: ["fantasy-tag/fire"],
 } as const satisfies Image

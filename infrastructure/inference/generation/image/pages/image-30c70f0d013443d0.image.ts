@@ -9,4 +9,5 @@ export const image30c70f0d013443d0 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest"],
   poseTags: ["pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/fully-clothed"],
+  fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/anime"],
 } as const satisfies Image

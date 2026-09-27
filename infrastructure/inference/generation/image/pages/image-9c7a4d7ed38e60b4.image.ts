@@ -15,4 +15,5 @@ export const image9c7a4d7ed38e60b4 = {
   ],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/jeans"],
+  fantasyTags: ["fantasy-tag/elf-ears"],
 } as const satisfies Image

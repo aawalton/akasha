@@ -19,4 +19,5 @@ export const imageBc288f5f08aa6888 = {
   settingTags: ["setting-tag/workshop", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/pants", "wardrobe-tag/armor"],
+  fantasyTags: ["fantasy-tag/sci-fi"],
 } as const satisfies Image

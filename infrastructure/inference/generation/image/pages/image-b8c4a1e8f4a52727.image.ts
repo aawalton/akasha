@@ -24,4 +24,5 @@ export const imageB8c4a1e8f4a52727 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/jewelry"],
+  fantasyTags: ["fantasy-tag/fairy-tale"],
 } as const satisfies Image

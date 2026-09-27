@@ -19,4 +19,5 @@ export const image3f986cfe1f1da753 = {
   settingTags: ["setting-tag/abstract-background", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  fantasyTags: ["fantasy-tag/android", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
 } as const satisfies Image

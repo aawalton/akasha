@@ -19,4 +19,5 @@ export const image085dff2c497161c7 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing-eyes"],
 } as const satisfies Image

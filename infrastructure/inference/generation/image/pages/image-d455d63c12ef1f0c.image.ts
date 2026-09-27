@@ -9,4 +9,5 @@ export const imageD455d63c12ef1f0c = {
   settingTags: ["setting-tag/snow", "setting-tag/river", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/fur"],
+  fantasyTags: ["fantasy-tag/antlers"],
 } as const satisfies Image

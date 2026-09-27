@@ -9,4 +9,5 @@ export const imageB43d64679621eabb = {
   settingTags: ["setting-tag/snow", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/skirt"],
+  fantasyTags: ["fantasy-tag/antlers"],
 } as const satisfies Image

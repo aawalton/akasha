@@ -9,4 +9,5 @@ export const image1f2b708b82665185 = {
   settingTags: ["setting-tag/forest", "setting-tag/sunset", "setting-tag/battlefield"],
   poseTags: ["pose-tag/fighting", "pose-tag/running", "pose-tag/floating", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/tunic", "wardrobe-tag/boots"],
+  fantasyTags: ["fantasy-tag/anthro", "fantasy-tag/magic"],
 } as const satisfies Image

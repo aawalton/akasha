@@ -20,4 +20,5 @@ export const imageAb3f86c48a0fb38d = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-crossed"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/writing-on-skin"],
+  fantasyTags: ["fantasy-tag/magic"],
 } as const satisfies Image
