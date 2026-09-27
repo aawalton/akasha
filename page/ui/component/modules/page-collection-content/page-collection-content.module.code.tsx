@@ -62,6 +62,7 @@ interface PageCollectionContentProps {
   pageTypeSlug: PageTypeSlug
   id: string
   nextUnreadHref?: string | null
+  mobileHeader?: boolean
   children?: ReactNode
 }
 
@@ -69,6 +70,7 @@ export function PageCollectionContent({
   pageTypeSlug,
   id,
   nextUnreadHref,
+  mobileHeader,
   children,
 }: PageCollectionContentProps) {
   const { page, isLoading } = usePage({ pageTypeSlug, id })
@@ -166,8 +168,29 @@ export function PageCollectionContent({
   const frame = detailConfig?.frame
   if (frame === undefined) return drawn
 
+  const frameHeader =
+    mobileHeader === true && page != null
+      ? {
+          title: expandDateMentions(title),
+          showBack: true,
+          mobileOnly: true,
+          menu: (
+            <PageDetailHeaderMenu
+              pageTypeSlug={pageTypeSlug}
+              pageId={id}
+              isFavorite={data.favoritedAt != null}
+              size="icon"
+            />
+          ),
+        }
+      : null
+
   return (
-    <DisplayFrame config={frame} followAnchor={{ ref: endRef, renderTrigger: page }}>
+    <DisplayFrame
+      config={frame}
+      header={frameHeader}
+      followAnchor={{ ref: endRef, renderTrigger: page }}
+    >
       {drawn}
       <div ref={endRef} />
     </DisplayFrame>

@@ -9,7 +9,12 @@ import { PlayedShell } from "akasha/story/world/stories/played/modules/played-sh
 export function Drawing({ pageTypeSlug, id, nextUnreadHref, page }: PageDrawingProps) {
   useFrameFooterMark()
   return (
-    <PageCollectionContent pageTypeSlug={pageTypeSlug} id={id} nextUnreadHref={nextUnreadHref}>
+    <PageCollectionContent
+      pageTypeSlug={pageTypeSlug}
+      id={id}
+      nextUnreadHref={nextUnreadHref}
+      mobileHeader
+    >
       <PlayedShell pageTypeSlug={pageTypeSlug} id={id} page={page ?? null} />
     </PageCollectionContent>
   )

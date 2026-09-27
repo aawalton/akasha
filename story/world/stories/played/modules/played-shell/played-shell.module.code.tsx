@@ -76,6 +76,8 @@ const PANELS_ASIDE = "hidden flex-col gap-4 lg:sticky lg:top-6 lg:self-start min
 
 const ASIDE_UNDRAWN = "hidden"
 
+const TITLE_ROW_WIDE = "hidden min-[584px]:block"
+
 const NOTE_LINE = "font-mono text-tertiary text-xs"
 
 const CLOCK_LINE = "text-secondary text-sm"
@@ -289,12 +291,14 @@ function PlayedStory({
   if (chapters.isLoading || turns.isLoading) return null
 
   const titleRow = (
-    <PageTitleRow
-      pageTypeSlug={pageTypeSlug}
-      id={id}
-      title={title}
-      isFavorite={data.favoritedAt != null}
-    />
+    <div className={TITLE_ROW_WIDE}>
+      <PageTitleRow
+        pageTypeSlug={pageTypeSlug}
+        id={id}
+        title={title}
+        isFavorite={data.favoritedAt != null}
+      />
+    </div>
   )
 
   const bar =
