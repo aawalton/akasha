@@ -54,7 +54,7 @@ type ConditionsPatch = Partial<NonNullable<CategoryRule["conditions"]>>
 
 export interface InventoryRuleFilter {
   id: FilterId
-  label: string
+  label?: string
   priority: number
   isEligible: (categoryId: string, categories: Record<string, ItemCategoryNode>) => boolean
   mutuallyExclusive: readonly FilterId[]

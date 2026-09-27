@@ -2111,6 +2111,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-settings-shape/inventory-rule-settings-shape.module.ts","id":"01a068e2-226a-7523-928d-85398937e67c"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.ts","id":"01a072dd-5d04-75d2-8bb2-1d5b8ac04825"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/potion-restore-resolve/potion-restore-resolve.module.ts","id":"01a060d9-44cb-7685-bea5-8baa5a8a8943"}
+{"propertySlug":"decision-kind","path":"temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.ts","id":"01a06100-3bf9-77a0-a8e9-669771a20507"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.ts","id":"01a06137-f960-762e-920f-bb17bcdd1294"}
 {"propertySlug":"decision-kind","path":"temper/items/rules/eval/modules/category-match/category-match.module.ts","id":"01a06137-f962-7e16-b493-859ad858c122"}

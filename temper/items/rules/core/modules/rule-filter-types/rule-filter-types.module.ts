@@ -23,5 +23,13 @@ export const ruleFilterTypes = {
       decisionKind: "decision-kind/departure",
       statement: "A filter stating it is not offered is shown where a rule has it and never added.",
     },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "A filter states no name of its own; its condition field's page names it.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "The location filter still states a label that nothing shows.",
+    },
   ],
 } as const satisfies Module
