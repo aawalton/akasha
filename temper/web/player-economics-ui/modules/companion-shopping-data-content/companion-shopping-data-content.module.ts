@@ -6,4 +6,10 @@ export const companionShoppingDataContent = {
   slug: "companion-shopping-data-content",
   definition: "the companion gear a player still needs, drawn three ways",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The filter names and empty states are read from phrase pages.",
+    },
+  ],
 } as const satisfies Module

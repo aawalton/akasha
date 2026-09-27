@@ -6,4 +6,10 @@ export const shoppingPageContent = {
   slug: "shopping-page-content",
   definition: "the shopping page a player opens",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page's title and tab names are read from phrase pages.",
+    },
+  ],
 } as const satisfies Module

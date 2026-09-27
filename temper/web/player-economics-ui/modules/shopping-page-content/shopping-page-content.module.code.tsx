@@ -18,6 +18,10 @@ import {
   type CompanionEquipmentQualityId,
   isCompanionEquipmentQualityId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { shoppingPageContentCompanionTab } from "akasha/temper/web/phrase/pages/shopping-page-content-companion-tab.temper-web-phrase.ts"
+import { shoppingPageContentListTab } from "akasha/temper/web/phrase/pages/shopping-page-content-list-tab.temper-web-phrase.ts"
+import { shoppingPageContentTitle } from "akasha/temper/web/phrase/pages/shopping-page-content-title.temper-web-phrase.ts"
 import { CompanionShoppingDataContent } from "akasha/temper/web/player-economics-ui/modules/companion-shopping-data-content/companion-shopping-data-content.module.code.tsx"
 import { ShoppingListTabContent } from "akasha/temper/web/player-economics-ui/modules/shopping-list-tab-content/shopping-list-tab-content.module.code.tsx"
 import type {
@@ -77,6 +81,7 @@ export function ShoppingPageContent({
   shoppingMarks,
   onUpdateShoppingMarks,
 }: ShoppingPageContentProps) {
+  const phrase = usePhrase()
   const shoppingList = useShoppingList(userId)
 
   const { values, update } = useFilterPersistence<ShoppingFilterValues>({
@@ -115,14 +120,22 @@ export function ShoppingPageContent({
       })}
     >
       <PageLayout.Header>
-        <PageTitle>Shopping</PageTitle>
+        <PageTitle>{phrase(shoppingPageContentTitle.slug)}</PageTitle>
       </PageLayout.Header>
 
       <Tabs value={values.tab} onValueChange={(v) => update({ tab: isValidTab(v) ? v : "list" })}>
         <PageLayout.Tabs>
           <TabsList className="@[1016px]:grid grid h-18 w-full @[1016px]:grid-cols-2 grid-cols-2 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
-            <PageTabsTrigger value="list" icon={<ShoppingCart />} label="Shopping List" />
-            <PageTabsTrigger value="companion" icon={<Handshake />} label="Companion" />
+            <PageTabsTrigger
+              value="list"
+              icon={<ShoppingCart />}
+              label={phrase(shoppingPageContentListTab.slug)}
+            />
+            <PageTabsTrigger
+              value="companion"
+              icon={<Handshake />}
+              label={phrase(shoppingPageContentCompanionTab.slug)}
+            />
           </TabsList>
         </PageLayout.Tabs>
 

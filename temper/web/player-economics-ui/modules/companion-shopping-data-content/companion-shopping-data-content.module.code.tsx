@@ -28,6 +28,18 @@ import {
   companionEquipmentQualities,
   isCompanionEquipmentQualityId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import {
+  type Phrase,
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionShoppingDataContentAllOwned } from "akasha/temper/web/phrase/pages/companion-shopping-data-content-all-owned.temper-web-phrase.ts"
+import { companionShoppingDataContentNoTarget } from "akasha/temper/web/phrase/pages/companion-shopping-data-content-no-target.temper-web-phrase.ts"
+import { companionShoppingDataContentOwned } from "akasha/temper/web/phrase/pages/companion-shopping-data-content-owned.temper-web-phrase.ts"
+import { companionShoppingDataContentOwnership } from "akasha/temper/web/phrase/pages/companion-shopping-data-content-ownership.temper-web-phrase.ts"
+import { companionShoppingDataContentQuality } from "akasha/temper/web/phrase/pages/companion-shopping-data-content-quality.temper-web-phrase.ts"
+import { companionShoppingDataContentTitle } from "akasha/temper/web/phrase/pages/companion-shopping-data-content-title.temper-web-phrase.ts"
+import { companionShoppingDataContentUnowned } from "akasha/temper/web/phrase/pages/companion-shopping-data-content-unowned.temper-web-phrase.ts"
 import { CompanionGearByCompanionPanelCard } from "akasha/temper/web/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.code.tsx"
 import { CompanionGearByPricePanelCard } from "akasha/temper/web/player-economics-ui/modules/companion-gear-by-price-panel-card/companion-gear-by-price-panel-card.module.code.tsx"
 import { CompanionGearByTraitPanelCard } from "akasha/temper/web/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx"
@@ -37,10 +49,12 @@ import { PricingRegionNote } from "akasha/temper/web/player-inventory-management
 import { Gamepad2, PackageCheck } from "lucide-react"
 import { type ReactNode, useMemo, useState } from "react"
 
-const OWNERSHIP_ITEMS: BadgeToggleGroupItem[] = [
-  { value: "owned", label: "Owned" },
-  { value: "unowned", label: "Unowned" },
-]
+function ownershipItems(phrase: Phrase): BadgeToggleGroupItem[] {
+  return [
+    { value: "owned", label: phrase(companionShoppingDataContentOwned.slug) },
+    { value: "unowned", label: phrase(companionShoppingDataContentUnowned.slug) },
+  ]
+}
 
 function qualityItems(): Array<BadgeToggleGroupItem & { value: CompanionEquipmentQualityId }> {
   return companionEquipmentQualities().flatMap((q) =>
@@ -61,16 +75,17 @@ interface FilterDef {
   renderGroup: (props: CompanionShoppingDataContentProps) => ReactNode
 }
 
-const COMPANION_SHOPPING_FILTERS: FilterDef[] = [
+const companionShoppingFilters = (phrase: Phrase): FilterDef[] => [
   {
     id: "ownership",
-    label: "Ownership",
+    label: phrase(companionShoppingDataContentOwnership.slug),
     hasValue: ({ gearOwnership }) => gearOwnership !== null,
     renderGroup: ({ gearOwnership, onFilterChange }) => {
-      const selectedOwnership = OWNERSHIP_ITEMS.filter((i) => i.value === gearOwnership)
+      const items = ownershipItems(phrase)
+      const selectedOwnership = items.filter((i) => i.value === gearOwnership)
       return (
         <BadgeToggleGroup
-          items={OWNERSHIP_ITEMS}
+          items={items}
           value={selectedOwnership}
           onSelect={(items) => {
             const onlyItem = items.length === 1 ? items[0] : undefined
@@ -85,7 +100,7 @@ const COMPANION_SHOPPING_FILTERS: FilterDef[] = [
   },
   {
     id: "quality",
-    label: "Quality",
+    label: phrase(companionShoppingDataContentQuality.slug),
     hasValue: ({ gearQualities }) => gearQualities.length > 0,
     renderGroup: ({ gearQualities, onFilterChange }) => {
       const items = qualityItems()
@@ -127,6 +142,9 @@ export function CompanionShoppingDataContent({
 }: CompanionShoppingDataContentProps) {
   const { entityCount, allNeeds, pricing, regionNote, pricingRegion } =
     useCompanionShoppingData(userId)
+  const phrase = usePhrase()
+  const phraseDescription = usePhraseDescription()
+  const filters = useMemo(() => companionShoppingFilters(phrase), [phrase])
 
   const hasActiveFilters = gearOwnership !== null || gearQualities.length > 0
 
@@ -150,19 +168,15 @@ export function CompanionShoppingDataContent({
 
   const [addedFilters, setAddedFilters] = useState<Set<FilterId>>(() => {
     const initial = new Set<FilterId>()
-    for (const f of COMPANION_SHOPPING_FILTERS) {
+    for (const f of filters) {
       if (f.hasValue(props)) initial.add(f.id)
     }
     return initial
   })
 
-  const visibleFilters = COMPANION_SHOPPING_FILTERS.filter(
-    (f) => addedFilters.has(f.id) || f.hasValue(props)
-  )
+  const visibleFilters = filters.filter((f) => addedFilters.has(f.id) || f.hasValue(props))
 
-  const availableFilters = COMPANION_SHOPPING_FILTERS.filter(
-    (f) => !addedFilters.has(f.id) && !f.hasValue(props)
-  )
+  const availableFilters = filters.filter((f) => !addedFilters.has(f.id) && !f.hasValue(props))
 
   function handleAdd(id: string) {
     addFilterId(id, isFilterId, setAddedFilters)
@@ -190,7 +204,10 @@ export function CompanionShoppingDataContent({
     return (
       <PanelToggleProvider>
         <div className="flex flex-col gap-6">
-          <PageTabHeader title="Companion" subtitle={regionHint} />
+          <PageTabHeader
+            title={phrase(companionShoppingDataContentTitle.slug)}
+            subtitle={regionHint}
+          />
           <Card>
             <CardContent>
               <Empty>
@@ -198,10 +215,9 @@ export function CompanionShoppingDataContent({
                   <EmptyMedia variant="icon">
                     <Gamepad2 />
                   </EmptyMedia>
-                  <EmptyTitle>No companion has a target build</EmptyTitle>
+                  <EmptyTitle>{phrase(companionShoppingDataContentNoTarget.slug)}</EmptyTitle>
                   <EmptyDescription>
-                    A shopping list is built from a companion's target build, and none is set.
-                    Importing from the game does not create one.
+                    {phraseDescription(companionShoppingDataContentNoTarget.slug)}
                   </EmptyDescription>
                 </EmptyHeader>
               </Empty>
@@ -216,7 +232,10 @@ export function CompanionShoppingDataContent({
     return (
       <PanelToggleProvider>
         <div className="flex flex-col gap-6">
-          <PageTabHeader title="Companion" subtitle={regionHint} />
+          <PageTabHeader
+            title={phrase(companionShoppingDataContentTitle.slug)}
+            subtitle={regionHint}
+          />
           <Card>
             <CardContent>
               <Empty>
@@ -224,11 +243,9 @@ export function CompanionShoppingDataContent({
                   <EmptyMedia variant="icon">
                     <PackageCheck />
                   </EmptyMedia>
-                  <EmptyTitle>All companion gear accounted for</EmptyTitle>
+                  <EmptyTitle>{phrase(companionShoppingDataContentAllOwned.slug)}</EmptyTitle>
                   <EmptyDescription>
-                    Every piece in your target builds has a matching item somewhere in your
-                    inventory. The match does not check whether that item is already equipped or
-                    otherwise tied up, so a piece may still be worth buying.
+                    {phraseDescription(companionShoppingDataContentAllOwned.slug)}
                   </EmptyDescription>
                 </EmptyHeader>
               </Empty>
@@ -242,7 +259,7 @@ export function CompanionShoppingDataContent({
   return (
     <PanelToggleProvider>
       <div className="flex flex-col gap-6">
-        <PageTabHeader title="Companion" subtitle={regionHint}>
+        <PageTabHeader title={phrase(companionShoppingDataContentTitle.slug)} subtitle={regionHint}>
           <SearchSortFilterRow hasActiveFilters={hasActiveFilters} onReset={handleResetFilters}>
             <FilterButton
               hasActiveFilters={hasActiveFilters || addedFilters.size > 0}
