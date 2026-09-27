@@ -776,6 +776,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/skill/temper-signature-script/temper-signature-script.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/skill/temper-skill.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/skill/type/temper-skill-type.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/temper-item-type/temper-item-type.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/thing/temper-catalog-thing.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/world/item-browser-source/temper-item-browser-source.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/world/skyshard/temper-world-skyshard/temper-world-skyshard.page-type.ts","typed":true,"deferred":false}

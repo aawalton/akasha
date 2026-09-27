@@ -144,6 +144,7 @@
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-enchant-search-category","propertySlug":"eso-enchant-search-category","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-item-ids","propertySlug":"eso-item-ids","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-item-style-id","propertySlug":"eso-item-style-id","fileName":null,"folderName":null}
+{"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-item-type-number","propertySlug":"eso-item-type-number","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-jewelry-trait-type","propertySlug":"eso-jewelry-trait-type","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-lore-category-id","propertySlug":"eso-lore-category-id","fileName":null,"folderName":null}
 {"pageTypeSlug":"number-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"eso-lore-collection-id","propertySlug":"eso-lore-collection-id","fileName":null,"folderName":null}

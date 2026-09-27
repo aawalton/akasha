@@ -2011,6 +2011,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-armor-types.text-property.ts","id":"01a0d8bc-31d5-75b6-a61b-ed960bf34e03"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-set/properties/eso-weapon-types.text-property.ts","id":"01a0d8bc-31d7-7264-be98-dfe8be6e90a0"}
 {"propertySlug":"decision-kind","path":"temper/catalog/side-file/temper-catalog-side-file.domain.ts","id":"01a060ce-b8ca-70c9-aff9-a8d013b9d7e5"}
+{"propertySlug":"decision-kind","path":"temper/catalog/temper-item-type/temper-item-type.page-type.ts","id":"01a0e108-f721-7d6e-bcf7-05c2c0c279ad"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/housing-upstream-verify/housing-upstream-verify.module.ts","id":"01a06282-dfc3-7813-b3f1-ca3f89826794"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/leaf-dump/leaf-dump.module.ts","id":"01a06282-dfc3-7f7d-baf2-78aa71fd248e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/upstream-data/modules/map-data-upstream-verify/map-data-upstream-verify.module.ts","id":"01a06282-dfc3-7a2b-87b4-c262c2239e92"}
