@@ -1,4 +1,10 @@
 import { capacitorCorsHeaders } from "akasha/alan/web/modules/capacitor-cors/capacitor-cors.module.code.ts"
+import { phrasingRead } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
+import { smsOptInInvalidNumber } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/sms-opt-in-invalid-number.web-phrase.ts"
+import { smsOptInInvalidRequest } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/sms-opt-in-invalid-request.web-phrase.ts"
+import { smsOptInNotRecorded } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/sms-opt-in-not-recorded.web-phrase.ts"
+import { smsOptInRefusedBody } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/sms-opt-in-refused-body.web-phrase.ts"
+import { smsOptInWordingChanged } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/sms-opt-in-wording-changed.web-phrase.ts"
 import {
   type Fetcher,
   readingFor,
@@ -117,20 +123,21 @@ export async function action({ request }: { request: Request }): Promise<Respons
     return Response.json({ error: "Method not allowed" }, { status: 405, headers: cors })
   }
 
+  const phrase = await phrasingRead()
   let raw: unknown
   try {
     raw = await request.json()
   } catch {
-    return Response.json({ error: "Invalid request." }, { status: 400, headers: cors })
+    return Response.json(
+      { error: phrase(smsOptInInvalidRequest.slug) },
+      { status: 400, headers: cors }
+    )
   }
 
   const parsed = BodySchema.safeParse(raw)
   if (!parsed.success) {
     return Response.json(
-      {
-        error:
-          "Please enter your name, a valid mobile number, and check the box to agree to receive messages.",
-      },
+      { error: phrase(smsOptInRefusedBody.slug) },
       { status: 400, headers: cors }
     )
   }
@@ -143,7 +150,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
   const e164 = toE164Us(phone)
   if (e164 === null) {
     return Response.json(
-      { error: "Please enter a valid 10-digit US mobile number." },
+      { error: phrase(smsOptInInvalidNumber.slug) },
       { status: 400, headers: cors }
     )
   }
@@ -151,7 +158,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
   const shown = await consentWordingRead()
   if (shown.version !== consentTextVersion) {
     return Response.json(
-      { error: "The wording has changed since this page opened. Please read it again." },
+      { error: phrase(smsOptInWordingChanged.slug) },
       { status: 409, headers: cors }
     )
   }
@@ -167,7 +174,7 @@ export async function action({ request }: { request: Request }): Promise<Respons
   const wrote = await consentWritten(page)
   if ("refused" in wrote) {
     return Response.json(
-      { error: `Could not record your consent: ${wrote.refused}` },
+      { error: phrase(smsOptInNotRecorded.slug, { why: wrote.refused }) },
       { status: 503, headers: cors }
     )
   }

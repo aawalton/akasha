@@ -1,6 +1,10 @@
 "use client"
 
-import type { SeededPhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
+import {
+  type Phrase,
+  phrasingOf,
+  type SeededPhrase,
+} from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import { webPhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/web-phrase.page-type.ts"
 import {
   textAt,
@@ -25,10 +29,6 @@ export function PhrasesSeeded({
 
 const EVERY = 10000
 
-type Fills = Readonly<Record<string, string | number>>
-
-export type Phrase = (slug: string, fills?: Fills) => string
-
 function titlesFrom(rows: readonly Value[]): ReadonlyMap<string, string> {
   const read = new Map<string, string>()
   for (const row of rows) {
@@ -39,22 +39,16 @@ function titlesFrom(rows: readonly Value[]): ReadonlyMap<string, string> {
   return read
 }
 
-function filled(text: string, fills: Fills): string {
-  return Object.entries(fills).reduce(
-    (out, [name, fill]) => out.split(`{${name}}`).join(String(fill)),
-    text
-  )
-}
-
 export function usePhrase(): Phrase {
   const pages = usePages({ pageTypeSlug: webPhrase.slug, limit: EVERY })
   const seed = useContext(Seeded)
-  const phrase = useMemo<Phrase>(() => {
-    const titles = pages.isLoading
-      ? new Map(seed.map((one) => [one.slug, one.title]))
-      : titlesFrom(pages.rows)
-    return (slug, fills = {}) => filled(titles.get(slug) ?? "", fills)
-  }, [pages.isLoading, pages.rows, seed])
+  const phrase = useMemo<Phrase>(
+    () =>
+      phrasingOf(
+        pages.isLoading ? new Map(seed.map((one) => [one.slug, one.title])) : titlesFrom(pages.rows)
+      ),
+    [pages.isLoading, pages.rows, seed]
+  )
   if (pages.error !== null) throw pages.error
   return phrase
 }

@@ -1,9 +1,10 @@
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"alan/atlas-web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"alan/requests-web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"alan/web/root.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"alan/web/routes/alan-web-api-sms-opt-in/alan-web-api-sms-opt-in.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"infrastructure/service/akasha-service/web-app/site-document/modules/head/site-document-head.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/error-screen/web-phrase-error-screen.module.code.tsx","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"product/archive-of-worlds/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"product/audhdalan/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"web-phrase-seeding.module.code.ts","path":"product/wandering-inn-wiki/web/root.tsx","typed":false,"deferred":false}
