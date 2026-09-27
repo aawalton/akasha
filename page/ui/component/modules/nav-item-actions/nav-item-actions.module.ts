@@ -6,4 +6,15 @@ export const navItemActions = {
   slug: "nav-item-actions",
   definition: "The actions offered on a nav item, including deleting it.",
   code: "tsx",
+  test: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A nav item is deleted only after its deletion is asked for and confirmed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The button opening a nav item's actions is named and shows while it has focus.",
+    },
+  ],
 } as const satisfies Module
