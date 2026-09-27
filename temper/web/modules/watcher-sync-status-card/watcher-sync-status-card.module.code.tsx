@@ -12,6 +12,8 @@ import {
   type Phrase,
   usePhrase,
   usePhraseDescription,
+  useWebPhrases,
+  type WebPhrases,
 } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import type {
   WatcherSyncSourceCounts,
@@ -74,10 +76,14 @@ function present(sync: WatcherSyncSummary): Presentation {
   }
 }
 
-function dataDateSentence(sync: WatcherSyncSummary, phrase: Phrase): string {
+function dataDateSentence(
+  sync: WatcherSyncSummary,
+  phrase: Phrase,
+  phrases: WebPhrases | null
+): string {
   return sync.dataCapturedAt === null
     ? ""
-    : ` ${phrase(watcherSyncStatusCardDataDate.slug, { capturedAgo: ago(sync.dataCapturedAt) })}`
+    : ` ${phrase(watcherSyncStatusCardDataDate.slug, { capturedAgo: ago(sync.dataCapturedAt, phrases) })}`
 }
 
 function presentSyncing(sync: WatcherSyncSummary): Presentation {
@@ -99,7 +105,8 @@ function presentSyncing(sync: WatcherSyncSummary): Presentation {
 function sourceDetail(
   source: WatcherSyncSourceCounts,
   countLabel: ((count: number) => string) | null,
-  phrase: Phrase
+  phrase: Phrase,
+  phrases: WebPhrases | null
 ): string {
   if (source.count === 0) return phrase(watcherSyncStatusCardNoneReceived.slug)
 
@@ -107,10 +114,14 @@ function sourceDetail(
     ...(countLabel === null ? [] : [countLabel(source.count)]),
     ...(source.capturedAt === null
       ? []
-      : [phrase(watcherSyncStatusCardCaptured.slug, { ago: ago(source.capturedAt) })]),
+      : [phrase(watcherSyncStatusCardCaptured.slug, { ago: ago(source.capturedAt, phrases) })]),
     ...(source.lastContactAt === null
       ? []
-      : [phrase(watcherSyncStatusCardLastReceived.slug, { ago: ago(source.lastContactAt) })]),
+      : [
+          phrase(watcherSyncStatusCardLastReceived.slug, {
+            ago: ago(source.lastContactAt, phrases),
+          }),
+        ]),
   ]
 
   return parts.length === 0 ? phrase(watcherSyncStatusCardReceived.slug) : parts.join(" · ")
@@ -126,11 +137,12 @@ function SourceRow({
   countLabel: ((count: number) => string) | null
 }) {
   const phrase = usePhrase()
+  const phrases = useWebPhrases()
   return (
     <div className="flex items-baseline justify-between gap-4 text-sm">
       <span className="text-secondary">{label}</span>
       <span className={source.count === 0 ? "text-tertiary" : "text-primary"}>
-        {sourceDetail(source, countLabel, phrase)}
+        {sourceDetail(source, countLabel, phrase, phrases)}
       </span>
     </div>
   )
@@ -139,12 +151,13 @@ function SourceRow({
 export function WatcherSyncStatusCard({ sync }: { sync: WatcherSyncSummary }) {
   const phrase = usePhrase()
   const describe = usePhraseDescription()
+  const phrases = useWebPhrases()
   const { icon: Icon, tone, wording } = present(sync)
   const fills = {
-    connectedAgo: ago(sync.connectedAt),
-    contactAgo: ago(sync.lastContactAt),
-    capturedAgo: ago(sync.dataCapturedAt),
-    dataDate: dataDateSentence(sync, phrase),
+    connectedAgo: ago(sync.connectedAt, phrases),
+    contactAgo: ago(sync.lastContactAt, phrases),
+    capturedAgo: ago(sync.dataCapturedAt, phrases),
+    dataDate: dataDateSentence(sync, phrase, phrases),
   }
   const title = phrase(wording.slug, fills)
   const body = describe(wording.slug, fills)

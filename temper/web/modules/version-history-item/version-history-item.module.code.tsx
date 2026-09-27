@@ -4,7 +4,10 @@ import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { formatTimeAgo } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
-import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import {
+  usePhrase,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { versionHistoryDialogCheckpoint } from "akasha/temper/web/phrase/pages/version-history-dialog-checkpoint.temper-web-phrase.ts"
 import { versionHistoryDialogRestore } from "akasha/temper/web/phrase/pages/version-history-dialog-restore.temper-web-phrase.ts"
 import { versionHistoryDialogVersion } from "akasha/temper/web/phrase/pages/version-history-dialog-version.temper-web-phrase.ts"
@@ -27,6 +30,7 @@ export interface VersionItemProps {
 export function VersionItem({ version, onRestore }: VersionItemProps) {
   const surface = useSurface()
   const phrase = usePhrase()
+  const phrases = useWebPhrases()
   return (
     <div
       className={cn(
@@ -46,7 +50,9 @@ export function VersionItem({ version, onRestore }: VersionItemProps) {
             </Badge>
           )}
         </div>
-        <span className="text-tertiary text-xs">{formatTimeAgo(version.createdAt)}</span>
+        <span className="text-tertiary text-xs">
+          {formatTimeAgo(version.createdAt, new Date(), phrases)}
+        </span>
       </div>
       <Button variant="tertiary" size="sm" onClick={onRestore}>
         {phrase(versionHistoryDialogRestore.slug)}

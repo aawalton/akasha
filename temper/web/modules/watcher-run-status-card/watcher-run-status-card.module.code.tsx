@@ -12,6 +12,8 @@ import {
   type Phrase,
   usePhrase,
   usePhraseDescription,
+  useWebPhrases,
+  type WebPhrases,
 } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import type {
   WatcherRunOperation,
@@ -56,10 +58,15 @@ function firstDetail(operations: readonly WatcherRunOperation[], phrase: Phrase)
   return detail == null ? "" : ` ${phrase(watcherRunStatusCardRecorded.slug, { detail })}`
 }
 
-function present(run: WatcherRunSummary, phrase: Phrase, describe: Phrase): Presentation {
+function present(
+  run: WatcherRunSummary,
+  phrase: Phrase,
+  describe: Phrase,
+  phrases: WebPhrases | null
+): Presentation {
   const count = run.decidingOperations.length
   const fills = {
-    ago: ago(run.reportedAt),
+    ago: ago(run.reportedAt, phrases),
     count,
     failing: nameList(run.decidingOperations, phrase),
     recorded: firstDetail(run.decidingOperations, phrase),
@@ -128,7 +135,8 @@ function present(run: WatcherRunSummary, phrase: Phrase, describe: Phrase): Pres
 export function WatcherRunStatusCard({ run }: { run: WatcherRunSummary }) {
   const phrase = usePhrase()
   const describe = usePhraseDescription()
-  const { icon: Icon, tone, title, body } = present(run, phrase, describe)
+  const phrases = useWebPhrases()
+  const { icon: Icon, tone, title, body } = present(run, phrase, describe, phrases)
 
   return (
     <Card>

@@ -11,6 +11,7 @@ import { ago } from "akasha/temper/web/modules/format-time-ago/format-time-ago.m
 import {
   usePhrase,
   usePhraseDescription,
+  useWebPhrases,
 } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import type { WatcherBuildSummary } from "akasha/temper/web/modules/watcher-build-status/watcher-build-status.module.code.ts"
 import { watcherBuildStatusCardCurrent } from "akasha/temper/web/phrase/pages/watcher-build-status-card-current.temper-web-phrase.ts"
@@ -54,8 +55,9 @@ function present(build: WatcherBuildSummary): Presentation {
 export function WatcherBuildStatusCard({ build }: { build: WatcherBuildSummary }) {
   const phrase = usePhrase()
   const describe = usePhraseDescription()
+  const phrases = useWebPhrases()
   const { icon: Icon, tone, wording } = present(build)
-  const title = phrase(wording.slug, { ago: ago(build.reportedAt) })
+  const title = phrase(wording.slug, { ago: ago(build.reportedAt, phrases) })
   const body = describe(wording.slug)
 
   return (
