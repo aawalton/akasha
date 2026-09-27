@@ -21,10 +21,8 @@ interface MundusSelectDialogProps {
   onSelect: (mundusId: MundusId) => void
 }
 
-function mundusStones(): MundusSource[] {
-  return mundus()
-    .list.filter((m) => m.id !== "no-mundus")
-    .sort((a, b) => a.name.localeCompare(b.name))
+function mundusStones(held: ReturnType<typeof mundus>): MundusSource[] {
+  return held.list.filter((m) => m.id !== "no-mundus").sort((a, b) => a.name.localeCompare(b.name))
 }
 
 export function getMundusById(id: MundusId | null): MundusSource | undefined {
@@ -38,13 +36,14 @@ export function MundusSelectDialog({
   selectedMundusId,
   onSelect,
 }: MundusSelectDialogProps) {
+  const held = mundus()
   const config: FilterableSelectDialogConfig<MundusSource> = useMemo(
     () => ({
       title: "Select Mundus Stone",
       searchPlaceholder: "Search mundus stones...",
       emptyMessage: "No mundus stones found.",
-      categories: [{ id: "all", label: "Mundus Stones", items: mundusStones() }],
-      allItems: [...mundus().list],
+      categories: [{ id: "all", label: "Mundus Stones", items: mundusStones(held) }],
+      allItems: [...held.list],
       filterItem: (item, searchTerm) => {
         const lower = searchTerm.toLowerCase()
         return (
@@ -58,7 +57,7 @@ export function MundusSelectDialog({
         ) : null
       },
     }),
-    []
+    [held]
   )
 
   const handleSelect = (itemId: MundusId) => {

@@ -6,4 +6,10 @@ export const mundusSelectDialog = {
   slug: "mundus-select-dialog",
   definition: "the dialog selecting a mundus stone",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stones offered are drawn again whenever the mundus stones are read again.",
+    },
+  ],
 } as const satisfies Module
