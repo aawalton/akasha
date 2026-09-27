@@ -1,5 +1,6 @@
 import type { Description } from "akasha/page/properties/description.text-property.types.ts"
 import type { Icon } from "akasha/page/properties/icon.text-property.types.ts"
+import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
 import type { TemperPotion } from "akasha/temper/catalog/gear/temper-potion/temper-potion.page-type.types.ts"
 import type { EncodedTraits } from "akasha/temper/catalog/gear/temper-potion-crafted/properties/encoded-traits.number-property.types.ts"
 import type { Recipes } from "akasha/temper/catalog/gear/temper-potion-crafted/properties/recipes.record-property.types.ts"
@@ -13,4 +14,5 @@ export type TemperPotionCrafted = TemperPotion & {
   seconds: PotionSeconds
   recipes: Recipes
   encodedTraits: EncodedTraits
+  hashPlace: HashPlace
 }

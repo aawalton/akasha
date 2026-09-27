@@ -10,6 +10,9 @@
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-potion/temper-potion.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-quality/temper-quality.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"hash-place.number-property.types.ts","path":"temper/catalog/gear/temper-set/temper-set.page-type.types.ts","typed":true,"deferred":false}
@@ -38,6 +41,9 @@
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts","id":"01a05fd1-d432-7a5c-af26-2d6a3db12c15"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts","id":"01a05fd1-d433-7c53-933e-ed171c6f7cf9"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts","id":"01a05fd1-d434-76cd-b1db-563c237e6de6"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts","id":"01a05fd1-d434-7ce2-a20b-6926bf033e6f"}
+{"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts","id":"01a05fd1-d435-7e26-b0e7-584020995ebe"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-potion/temper-potion.page-type.ts","id":"01a0e0a0-9199-7c1b-8a58-f31fdaa90b21"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-quality/temper-quality.page-type.ts","id":"01a05fd1-d43f-7460-806b-41a2697dcbed"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-set/temper-set.page-type.ts","id":"01a05fd1-d441-7c97-bedf-3316d7b4361a"}

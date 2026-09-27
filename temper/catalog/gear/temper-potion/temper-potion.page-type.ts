@@ -8,9 +8,13 @@ export const temperPotion = {
   extends: ["page-type/temper-gear-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
-    { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: false, many: false },
   ],
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A potion no build takes states no hash place.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement: "A potion's hash place is its place among every potion, whichever kind it is.",

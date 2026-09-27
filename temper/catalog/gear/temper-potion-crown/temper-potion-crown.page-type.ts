@@ -13,6 +13,7 @@ export const temperPotionCrown = {
     { pageProperty: "number-property/item-id", required: true, many: false },
     { pageProperty: "text-property/item-level", required: true, many: false },
     { pageProperty: "number-property/potion-seconds", required: true, many: false },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",

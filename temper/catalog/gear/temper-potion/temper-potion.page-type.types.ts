@@ -4,5 +4,5 @@ import type { Key } from "akasha/temper/thing/properties/key.text-property.types
 
 export type TemperPotion = TemperGearThing & {
   key: Key
-  hashPlace: HashPlace
+  hashPlace?: HashPlace
 }
