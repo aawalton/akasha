@@ -14,7 +14,9 @@ export const temperPotionCrafted = {
     { pageProperty: "text-property/item-level", required: true, many: false },
     { pageProperty: "number-property/potion-seconds", required: true, many: false },
     { pageProperty: "record-property/recipes", required: true, many: true, maxCount: null },
+    { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",
+  hashIndexed: ["hashPlace"],
 } as const satisfies PageType

@@ -34,4 +34,5 @@ export const intellectProphecySorceryMagickaRestore = {
     },
   ],
   effects: "jsonl",
+  hashPlace: 36,
 } as const satisfies TemperPotionCrafted

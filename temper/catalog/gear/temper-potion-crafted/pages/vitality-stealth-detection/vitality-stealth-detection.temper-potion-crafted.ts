@@ -153,4 +153,5 @@ export const vitalityStealthDetection = {
     },
   ],
   effects: "jsonl",
+  hashPlace: 14,
 } as const satisfies TemperPotionCrafted

@@ -26,4 +26,5 @@ export const fortitudeIntellectHealthRestoreMagickaRestoreResistanceSpell = {
     },
   ],
   effects: "jsonl",
+  hashPlace: 25,
 } as const satisfies TemperPotionCrafted

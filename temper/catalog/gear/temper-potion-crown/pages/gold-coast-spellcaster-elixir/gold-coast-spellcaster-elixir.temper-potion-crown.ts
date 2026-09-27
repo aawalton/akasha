@@ -14,4 +14,5 @@ export const goldCoastSpellcasterElixir = {
   level: "Scaled",
   seconds: 36.3,
   effects: "jsonl",
+  hashPlace: 2,
 } as const satisfies TemperPotionCrown

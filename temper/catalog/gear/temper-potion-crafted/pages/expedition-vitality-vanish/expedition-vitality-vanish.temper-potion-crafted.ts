@@ -20,4 +20,5 @@ export const expeditionVitalityVanish = {
     },
   ],
   effects: "jsonl",
+  hashPlace: 41,
 } as const satisfies TemperPotionCrafted

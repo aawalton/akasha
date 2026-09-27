@@ -34,4 +34,5 @@ export const protectionResistancePhysicalResistanceSpell = {
     },
   ],
   effects: "jsonl",
+  hashPlace: 11,
 } as const satisfies TemperPotionCrafted
