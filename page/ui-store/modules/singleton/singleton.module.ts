@@ -34,6 +34,11 @@ export const singleton = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "An inventory or item rule's listing carries the condition and destination chain rows beside it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A buff, debuff or vampire stage's listing carries the effect rows filed beside it.",
     },
     {

@@ -11,6 +11,8 @@ const CARRIED: Readonly<Record<string, readonly string[]>> = {
   "temper-skill": ["effects"],
   "temper-grimoire": ["signatureScripts", "affixScripts"],
   "temper-rule-template": ["conditions"],
+  "temper-inventory-rule": ["conditions", "destinationChain"],
+  "temper-item-rule": ["conditions", "destinationChain"],
   "temper-buff-major": ["effects"],
   "temper-buff-minor": ["effects"],
   "temper-buff-other": ["effects"],
