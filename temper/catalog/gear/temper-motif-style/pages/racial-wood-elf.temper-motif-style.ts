@@ -4,6 +4,7 @@ export const racialWoodElf = {
   id: "01a0e0f0-274a-7afd-9987-04e02d97d2cc",
   type: "page-type/temper-motif-style",
   slug: "racial-wood-elf",
-  title: "ITEMSTYLE_RACIAL_WOOD_ELF",
+  title: "Wood Elf",
   esoItemStyleId: 8,
+  styleName: "Wood Elf",
 } as const satisfies TemperMotifStyle
