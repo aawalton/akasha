@@ -72,6 +72,7 @@
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/holdings/temper-location-view/temper-location-view.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-activity-category/temper-activity-category.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-buy-action/temper-buy-action.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"key.text-property.types.ts","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.types.ts","typed":true,"deferred":false}
@@ -153,6 +154,7 @@
 {"propertySlug":"page-property","path":"temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts","id":"01a05fcb-fd2c-79e2-b426-908dcfb8bf4a"}
 {"propertySlug":"page-property","path":"temper/player/holdings/temper-location-view/temper-location-view.page-type.ts","id":"01a0e0d9-4c1e-7000-8d93-bae1e77e9a87"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-activity-category/temper-activity-category.page-type.ts","id":"01a05fc9-9a01-773d-b715-ed0cbfa91604"}
+{"propertySlug":"page-property","path":"temper/player/progress/temper-buy-action/temper-buy-action.page-type.ts","id":"01a0e26e-81e8-733a-ad6e-2c287252b8b9"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-character-condition-field/temper-character-condition-field.page-type.ts","id":"01a0d8a0-f74f-7aab-abac-00f4c0cf0fed"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-comparison-op/temper-comparison-op.page-type.ts","id":"01a05fc9-9a02-7bf9-8334-b9a9baaf4ee4"}
 {"propertySlug":"page-property","path":"temper/player/progress/temper-condition-field/temper-condition-field.page-type.ts","id":"01a07202-f0fd-7b35-bff8-c4cc5e25da86"}
