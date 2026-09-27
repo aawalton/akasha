@@ -735,6 +735,7 @@
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-slot/temper-jewelry-slot.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-trait/temper-jewelry-trait.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-level-band/temper-level-band.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-motif-style/temper-motif-style.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-poison-effect/temper-poison-effect.page-type.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type.page-type.types.ts","path":"temper/catalog/gear/temper-potion-crafted/temper-potion-crafted.page-type.ts","typed":true,"deferred":false}

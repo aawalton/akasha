@@ -20,6 +20,7 @@ export const temperGear = {
     "page-type/temper-jewelry-slot",
     "page-type/temper-jewelry-trait",
     "page-type/temper-jewelry-type",
+    "page-type/temper-level-band",
     "page-type/temper-motif-style",
     "page-type/temper-poison-effect",
     "page-type/temper-potion",
