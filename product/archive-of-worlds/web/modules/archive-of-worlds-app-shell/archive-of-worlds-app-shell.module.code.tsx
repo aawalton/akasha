@@ -19,13 +19,14 @@ import { useMemo } from "react"
 
 interface AppShellProps {
   children: React.ReactNode
+  brand: string
   signedIn: boolean
   ssrNavItems: ReadonlyArray<Record<string, unknown>> | null
 }
 
 const NO_CODED_ITEMS: readonly AppNavItem[] = []
 
-function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
+function AppShellInner({ children, brand, signedIn, ssrNavItems }: AppShellProps) {
   const {
     items: dynamicPrimaryItems,
     onReorder,
@@ -45,7 +46,7 @@ function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
     () => ({
       primaryItems: dynamicPrimaryItems,
       bottomSections: [],
-      brandLabel: "ARCHIVE OF WORLDS",
+      brandLabel: brand.toUpperCase(),
       bottomNavMaxItems: 5,
       footerSlot: <AuthFooter signedIn={signedIn} />,
       skipRoutes: (p) => p === "/sign-in" || p === "/sign-up",
@@ -63,6 +64,7 @@ function AppShellInner({ children, signedIn, ssrNavItems }: AppShellProps) {
       ),
     }),
     [
+      brand,
       signedIn,
       dynamicPrimaryItems,
       dynamicItemIds,
