@@ -5,6 +5,8 @@ export const nighthollow = {
   type: "page-type/temper-motif-style",
   slug: "nighthollow",
   title: "Nighthollow",
+  esoItemStyleId: 111,
+  styleName: "Nighthollow",
   collectionIndex: 80,
   sourceDescription: "Harrowstorm dailies (The Reach)",
   dropSources: [
