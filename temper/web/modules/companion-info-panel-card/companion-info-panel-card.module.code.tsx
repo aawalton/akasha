@@ -13,6 +13,14 @@ import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { toBuildVisibility } from "akasha/temper/player/character/build/build-support/modules/build-visibility/build-visibility.module.code.ts"
 import { useCompanionMetadata } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionInfoPanelCardBuildInfo } from "akasha/temper/web/phrase/pages/companion-info-panel-card-build-info.temper-web-phrase.ts"
+import { companionInfoPanelCardBuildName } from "akasha/temper/web/phrase/pages/companion-info-panel-card-build-name.temper-web-phrase.ts"
+import { companionInfoPanelCardBuildNamePlaceholder } from "akasha/temper/web/phrase/pages/companion-info-panel-card-build-name-placeholder.temper-web-phrase.ts"
+import { companionInfoPanelCardPrivate } from "akasha/temper/web/phrase/pages/companion-info-panel-card-private.temper-web-phrase.ts"
+import { companionInfoPanelCardPublic } from "akasha/temper/web/phrase/pages/companion-info-panel-card-public.temper-web-phrase.ts"
+import { companionInfoPanelCardUnlisted } from "akasha/temper/web/phrase/pages/companion-info-panel-card-unlisted.temper-web-phrase.ts"
+import { companionInfoPanelCardVisibility } from "akasha/temper/web/phrase/pages/companion-info-panel-card-visibility.temper-web-phrase.ts"
 import { useEffect, useState } from "react"
 
 interface CompanionInfoPanelCardProps {
@@ -31,6 +39,7 @@ export function CompanionInfoPanelCard({
   collapseProtected,
 }: CompanionInfoPanelCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const { visibility, isOwner, setVisibility } = useCompanionMetadata()
   const nameReadOnly = !isOwner
 
@@ -44,12 +53,12 @@ export function CompanionInfoPanelCard({
       id="companion-build-info"
       collapsible={true}
       collapseProtected={collapseProtected}
-      title="Build Info"
+      title={phrase(companionInfoPanelCardBuildInfo.slug)}
       className={className}
     >
-      <InputPanelCard.Row label="Build Name">
+      <InputPanelCard.Row label={phrase(companionInfoPanelCardBuildName.slug)}>
         <Input
-          placeholder="Build name..."
+          placeholder={phrase(companionInfoPanelCardBuildNamePlaceholder.slug)}
           value={draftName}
           onChange={(e) => setDraftName(e.target.value)}
           onBlur={() => {
@@ -60,7 +69,7 @@ export function CompanionInfoPanelCard({
         />
       </InputPanelCard.Row>
       {visibility !== "live" && visibility !== "target" && (
-        <InputPanelCard.Row label="Visibility">
+        <InputPanelCard.Row label={phrase(companionInfoPanelCardVisibility.slug)}>
           <Select
             value={visibility}
             onValueChange={(v) => {
@@ -73,9 +82,11 @@ export function CompanionInfoPanelCard({
               <SelectValue />
             </SelectTrigger>
             <SelectContent>
-              <SelectItem value="private">Private</SelectItem>
-              <SelectItem value="unlisted">Unlisted</SelectItem>
-              <SelectItem value="public">Public</SelectItem>
+              <SelectItem value="private">{phrase(companionInfoPanelCardPrivate.slug)}</SelectItem>
+              <SelectItem value="unlisted">
+                {phrase(companionInfoPanelCardUnlisted.slug)}
+              </SelectItem>
+              <SelectItem value="public">{phrase(companionInfoPanelCardPublic.slug)}</SelectItem>
             </SelectContent>
           </Select>
         </InputPanelCard.Row>
