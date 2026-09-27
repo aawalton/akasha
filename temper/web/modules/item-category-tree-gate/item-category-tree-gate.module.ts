@@ -11,5 +11,13 @@ export const itemCategoryTreeGate = {
       decisionKind: "decision-kind/departure",
       statement: "Until the tree is read the screen shows what it is handed instead.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the gate holds reads the tree the gate read, and draws again as it changes.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Reading the tree outside the gate is refused rather than answered empty.",
+    },
   ],
 } as const satisfies Module
