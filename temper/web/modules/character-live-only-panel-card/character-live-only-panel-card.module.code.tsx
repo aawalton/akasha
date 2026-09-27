@@ -13,6 +13,7 @@ import { characterUrl } from "akasha/temper/player/character/build/build-support
 import type { CharacterState } from "akasha/temper/player/character/build/modules/build-types/build-types.module.code.ts"
 import { buildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 
 interface LiveOnlyBuild {
   id: string
@@ -38,6 +39,7 @@ function LiveBuildRow({
   getRaceName: (raceId: RaceId) => string
 }) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const classId = build.buildData?.character?.class
   const raceId = build.buildData?.character?.race
   const className = classId != null && classId !== "no-class" ? getClassName(classId) : null
@@ -50,10 +52,12 @@ function LiveBuildRow({
     >
       <div className="flex items-center justify-between gap-2">
         <span className="truncate text-primary text-sm">
-          {build.name !== "" ? build.name : "Untitled Build"}
+          {build.name !== ""
+            ? build.name
+            : phrase("character-live-only-panel-card--untitled-build")}
         </span>
         <Badge variant="elevation" className="shrink-0">
-          Live
+          {phrase("character-live-only-panel-card--live")}
         </Badge>
       </div>
       {(className != null || raceName != null) && (
@@ -79,6 +83,7 @@ export function CharacterLiveOnlyPanelCard({
   getRaceName,
   onSetTarget,
 }: CharacterLiveOnlyPanelCardProps) {
+  const phrase = usePhrase()
   const liveBuildData = entity.liveBuild.buildData
   const characterName = liveBuildData?.character?.name
   const classId = liveBuildData?.character?.class
@@ -89,7 +94,9 @@ export function CharacterLiveOnlyPanelCard({
   return (
     <PanelCard id={`character-entity-${entity.entityId}`} className="h-auto justify-between">
       <CardContent className="flex flex-col gap-3">
-        <CardTitle className="text-lg">{characterName ?? "Unknown Character"}</CardTitle>
+        <CardTitle className="text-lg">
+          {characterName ?? phrase("character-live-only-panel-card--unknown-character")}
+        </CardTitle>
         {(className != null || raceName != null) && (
           <div className="flex items-center gap-1.5">
             {className != null && <Badge variant="elevation-muted">{className}</Badge>}
@@ -106,7 +113,7 @@ export function CharacterLiveOnlyPanelCard({
           className="w-full"
           onClick={() => onSetTarget(entity.entityId, entity.esoCharacterId, entity.liveBuild.id)}
         >
-          Set target build
+          {phrase("character-live-only-panel-card--set-target-build")}
         </Button>
       </CardContent>
     </PanelCard>

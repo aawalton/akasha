@@ -6,4 +6,10 @@ export const characterLiveOnlyPanelCard = {
   slug: "character-live-only-panel-card",
   definition: "a panel card shown only where a character is live",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
