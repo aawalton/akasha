@@ -10,7 +10,7 @@ export const theDatingGame00011 = {
   position: 11,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     '"Oh! Another LitRPG enthusiast! I\'m so excited I could kiss you right now. I mean..." I stop and turn to face her "Could I? Kiss you right now? I know we just met today, but I really like you."',
   beats: [
@@ -26,5 +26,5 @@ export const theDatingGame00011 = {
     "She lets the words sit a moment, making sure he heard them.",
     "Then she turns, his hand still in hers, and draws him on up the trail beside her.",
   ],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
