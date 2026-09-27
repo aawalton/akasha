@@ -6,4 +6,10 @@ export const ruleCardHeaderRow = {
   slug: "rule-card-header-row",
   definition: "the row for naming and locking a rule card",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The row's placeholder, labels and reorder menu are rule card phrases.",
+    },
+  ],
 } as const satisfies Module

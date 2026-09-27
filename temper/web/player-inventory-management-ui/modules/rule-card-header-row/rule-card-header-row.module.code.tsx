@@ -9,7 +9,22 @@ import {
   DropdownMenuSeparator,
   DropdownMenuTrigger,
 } from "akasha/design/interface/primitive/modules/dropdown-menu/dropdown-menu.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import { addNotes } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/add-notes.temper-rule-card-phrase.ts"
+import { addTitle } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/add-title.temper-rule-card-phrase.ts"
+import { collapseRule } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/collapse-rule.temper-rule-card-phrase.ts"
+import { deleteRule } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/delete-rule.temper-rule-card-phrase.ts"
+import { duplicateRule } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/duplicate-rule.temper-rule-card-phrase.ts"
+import { editNotes } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/edit-notes.temper-rule-card-phrase.ts"
+import { expandRule } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/expand-rule.temper-rule-card-phrase.ts"
+import { moveDown } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/move-down.temper-rule-card-phrase.ts"
+import { moveToBottom } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/move-to-bottom.temper-rule-card-phrase.ts"
+import { moveToTop } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/move-to-top.temper-rule-card-phrase.ts"
+import { moveUp } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/move-up.temper-rule-card-phrase.ts"
+import { ruleActions } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-actions.temper-rule-card-phrase.ts"
+import { viewDescription } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/view-description.temper-rule-card-phrase.ts"
 import { ChevronDown, EllipsisVertical, Info } from "lucide-react"
 
 interface RuleCardHeaderRowProps {
@@ -48,6 +63,11 @@ export function RuleCardHeaderRow({
   openDeleteDialog,
 }: RuleCardHeaderRowProps) {
   const lastLocalIndex = (totalRules ?? 0) - 1 - (controlledRulesCount ?? 0)
+  const phrases = useRuleCardPhrases()
+  const notesTitle = titleIn(
+    phrases,
+    isControlled ? viewDescription.key : rule.notes != null ? editNotes.key : addNotes.key
+  )
 
   return (
     <div className="flex items-center gap-1.5">
@@ -63,7 +83,7 @@ export function RuleCardHeaderRow({
         <InlineEditableText
           value={rule.title ?? ""}
           onChange={(v) => onUpdate?.(rule.id, { title: v.trim().length === 0 ? null : v.trim() })}
-          placeholder="Add a title..."
+          placeholder={titleIn(phrases, addTitle.key)}
           className="min-w-0 flex-1 font-medium text-primary text-sm"
         />
       )}
@@ -72,12 +92,8 @@ export function RuleCardHeaderRow({
           type="button"
           className="inline-flex h-5 w-5 shrink-0 cursor-pointer items-center justify-center rounded transition-colors hover:bg-primary/8"
           onClick={openNotesDialog}
-          title={
-            isControlled ? "View description" : rule.notes != null ? "Edit notes" : "Add notes"
-          }
-          aria-label={
-            isControlled ? "View description" : rule.notes != null ? "Edit notes" : "Add notes"
-          }
+          title={notesTitle}
+          aria-label={notesTitle}
         >
           <Info
             className={`h-3.5 w-3.5 ${isControlled || rule.notes != null ? "text-secondary" : "text-tertiary"}`}
@@ -90,7 +106,7 @@ export function RuleCardHeaderRow({
             <button
               type="button"
               className="inline-flex h-5 w-5 shrink-0 cursor-pointer items-center justify-center rounded text-tertiary transition-colors hover:bg-primary/8"
-              aria-label="Rule actions"
+              aria-label={titleIn(phrases, ruleActions.key)}
             >
               <EllipsisVertical className="h-3.5 w-3.5" />
             </button>
@@ -100,30 +116,32 @@ export function RuleCardHeaderRow({
               disabled={isSortActive || localIndex === 0}
               onClick={() => onReorder?.(rule.id, 0)}
             >
-              Move to Top
+              {titleIn(phrases, moveToTop.key)}
             </DropdownMenuItem>
             <DropdownMenuItem
               disabled={isSortActive || localIndex === 0}
               onClick={() => onReorder?.(rule.id, localIndex - 1)}
             >
-              Move Up
+              {titleIn(phrases, moveUp.key)}
             </DropdownMenuItem>
             <DropdownMenuItem
               disabled={isSortActive || localIndex === lastLocalIndex}
               onClick={() => onReorder?.(rule.id, localIndex + 1)}
             >
-              Move Down
+              {titleIn(phrases, moveDown.key)}
             </DropdownMenuItem>
             <DropdownMenuItem
               disabled={isSortActive || localIndex === lastLocalIndex}
               onClick={() => onReorder?.(rule.id, lastLocalIndex)}
             >
-              Move to Bottom
+              {titleIn(phrases, moveToBottom.key)}
             </DropdownMenuItem>
-            <DropdownMenuItem onClick={() => onDuplicate?.(rule.id)}>Duplicate</DropdownMenuItem>
+            <DropdownMenuItem onClick={() => onDuplicate?.(rule.id)}>
+              {titleIn(phrases, duplicateRule.key)}
+            </DropdownMenuItem>
             <DropdownMenuSeparator />
             <DropdownMenuItem variant="destructive" disabled={isLocked} onClick={openDeleteDialog}>
-              Delete
+              {titleIn(phrases, deleteRule.key)}
             </DropdownMenuItem>
           </DropdownMenuContent>
         </DropdownMenu>
@@ -133,7 +151,7 @@ export function RuleCardHeaderRow({
           type="button"
           className="inline-flex h-5 w-5 shrink-0 cursor-pointer items-center justify-center rounded text-tertiary transition-colors hover:bg-primary/8"
           onClick={() => onToggleExpand(rule.id)}
-          aria-label={isExpanded ? "Collapse rule" : "Expand rule"}
+          aria-label={titleIn(phrases, isExpanded ? collapseRule.key : expandRule.key)}
         >
           <ChevronDown
             className={cn(
@@ -148,12 +166,8 @@ export function RuleCardHeaderRow({
           type="button"
           className="inline-flex h-5 w-5 shrink-0 cursor-pointer items-center justify-center rounded transition-colors hover:bg-primary/8"
           onClick={openNotesDialog}
-          title={
-            isControlled ? "View description" : rule.notes != null ? "Edit notes" : "Add notes"
-          }
-          aria-label={
-            isControlled ? "View description" : rule.notes != null ? "Edit notes" : "Add notes"
-          }
+          title={notesTitle}
+          aria-label={notesTitle}
         >
           <Info
             className={`h-3.5 w-3.5 ${isControlled || rule.notes != null ? "text-secondary" : "text-tertiary"}`}

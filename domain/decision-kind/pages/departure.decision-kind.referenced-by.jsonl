@@ -6408,6 +6408,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-threshold-chips/rule-card-filter-chips-item-threshold-chips.module.ts","id":"01a0636c-5da1-7ffb-be04-07ac7a7b0054"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-quantity/rule-card-filter-chips-quantity.module.ts","id":"01a0636c-5da1-7f8e-9497-93ae6a950055"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-lock/rule-card-filter-lock.module.ts","id":"01a0636c-5da1-7dcb-b5d1-5c73741c0056"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-header-row/rule-card-header-row.module.ts","id":"01a0636c-5da1-7a5f-8508-d6c7fd6e0059"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.ts","id":"01a0e275-9aa4-7173-8a5e-3b4452151fd9"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-priority-row/rule-card-priority-row.module.ts","id":"01a0636c-5da1-7972-b184-8ff940ed005a"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-category-filter-select/rule-category-filter-select.module.ts","id":"01a0636c-5da1-7e06-bb03-84a15644005c"}
