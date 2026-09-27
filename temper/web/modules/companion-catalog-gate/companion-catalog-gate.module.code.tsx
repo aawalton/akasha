@@ -10,12 +10,14 @@ export function CompanionCatalogGate({
   children,
   fallback,
 }: {
-  children: ReactNode
+  children: () => ReactNode
   fallback: ReactNode
 }) {
   const catalog = useCompanionCatalog()
   if (catalog === null) return <>{fallback}</>
   return (
-    <companionCatalogContext.Provider value={catalog}>{children}</companionCatalogContext.Provider>
+    <companionCatalogContext.Provider value={catalog}>
+      {children()}
+    </companionCatalogContext.Provider>
   )
 }

@@ -29,26 +29,28 @@ export default function CompletionPublicPage({ params }: { params: { userId: str
   return (
     <Suspense fallback={skeleton}>
       <CompanionCatalogGate fallback={skeleton}>
-        <RecipeCatalogGate fallback={skeleton}>
-          {() => (
-            <SkillCatalogGate fallback={skeleton}>
-              {() => (
-                <SetCatalogGate fallback={skeleton}>
-                  {() => (
-                    <CompletionPageContent
-                      viewUserId={params.userId}
-                      initialTab={tab}
-                      initialCharacter={searchParams.get("character") ?? undefined}
-                      initialCompanion={searchParams.get("companion") ?? undefined}
-                      initialActivityMode={searchParams.get("activity-mode") ?? undefined}
-                      initialScrollTo={searchParams.get("scrollTo") ?? undefined}
-                    />
-                  )}
-                </SetCatalogGate>
-              )}
-            </SkillCatalogGate>
-          )}
-        </RecipeCatalogGate>
+        {() => (
+          <RecipeCatalogGate fallback={skeleton}>
+            {() => (
+              <SkillCatalogGate fallback={skeleton}>
+                {() => (
+                  <SetCatalogGate fallback={skeleton}>
+                    {() => (
+                      <CompletionPageContent
+                        viewUserId={params.userId}
+                        initialTab={tab}
+                        initialCharacter={searchParams.get("character") ?? undefined}
+                        initialCompanion={searchParams.get("companion") ?? undefined}
+                        initialActivityMode={searchParams.get("activity-mode") ?? undefined}
+                        initialScrollTo={searchParams.get("scrollTo") ?? undefined}
+                      />
+                    )}
+                  </SetCatalogGate>
+                )}
+              </SkillCatalogGate>
+            )}
+          </RecipeCatalogGate>
+        )}
       </CompanionCatalogGate>
     </Suspense>
   )

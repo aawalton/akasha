@@ -14,7 +14,7 @@ export default function ImportPage() {
       <CompanionCatalogGate
         fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 96 })} />}
       >
-        <ImportPageContent />
+        {() => <ImportPageContent />}
       </CompanionCatalogGate>
     </Suspense>
   )

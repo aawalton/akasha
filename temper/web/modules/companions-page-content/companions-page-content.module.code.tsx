@@ -198,17 +198,19 @@ export function CompanionsPageContent({
           <QueryErrorBoundary>
             <Suspense fallback={<ListContentSkeleton />}>
               <CompanionCatalogGate fallback={<ListContentSkeleton />}>
-                <MetricCatalogGate fallback={<ListContentSkeleton />}>
-                  {() => (
-                    <CompanionsDataContent
-                      userId={userId}
-                      isAuthenticated={isAuthenticated}
-                      values={values}
-                      update={update}
-                      deferred={deferred}
-                    />
-                  )}
-                </MetricCatalogGate>
+                {() => (
+                  <MetricCatalogGate fallback={<ListContentSkeleton />}>
+                    {() => (
+                      <CompanionsDataContent
+                        userId={userId}
+                        isAuthenticated={isAuthenticated}
+                        values={values}
+                        update={update}
+                        deferred={deferred}
+                      />
+                    )}
+                  </MetricCatalogGate>
+                )}
               </CompanionCatalogGate>
             </Suspense>
           </QueryErrorBoundary>

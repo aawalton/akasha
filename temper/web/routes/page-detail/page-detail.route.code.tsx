@@ -324,21 +324,23 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
       <CompanionCatalogGate
         fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
       >
-        <MetricCatalogGate
-          fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
-        >
-          {() => (
-            <CompanionEditor
-              buildId={toBuildId(loaderData.buildId)}
-              initialTab={tab}
-              initialBuild={loaderData.initialBuild}
-              initialBuildHash={loaderData.initialBuildHash}
-              isOwner={loaderData.isOwner}
-              initialVisibility={loaderData.initialVisibility}
-              isTargetBuild={loaderData.isTargetBuild}
-            />
-          )}
-        </MetricCatalogGate>
+        {() => (
+          <MetricCatalogGate
+            fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
+          >
+            {() => (
+              <CompanionEditor
+                buildId={toBuildId(loaderData.buildId)}
+                initialTab={tab}
+                initialBuild={loaderData.initialBuild}
+                initialBuildHash={loaderData.initialBuildHash}
+                isOwner={loaderData.isOwner}
+                initialVisibility={loaderData.initialVisibility}
+                isTargetBuild={loaderData.isTargetBuild}
+              />
+            )}
+          </MetricCatalogGate>
+        )}
       </CompanionCatalogGate>
     )
   }

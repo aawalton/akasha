@@ -38,18 +38,20 @@ export default function ShoppingPage({ loaderData }: { loaderData: { userId: str
   return (
     <Suspense fallback={skeleton}>
       <CompanionCatalogGate fallback={skeleton}>
-        <CompanionGearTtcGate fallback={skeleton}>
-          {() => (
-            <ShoppingPageContent
-              initialTab={tab}
-              initialGearOwnership={searchParams.get("gear") ?? undefined}
-              initialGearQualities={searchParams.get("gear-quality") ?? undefined}
-              userId={loaderData.userId}
-              shoppingMarks={shoppingSettings}
-              onUpdateShoppingMarks={updateShoppingMarks}
-            />
-          )}
-        </CompanionGearTtcGate>
+        {() => (
+          <CompanionGearTtcGate fallback={skeleton}>
+            {() => (
+              <ShoppingPageContent
+                initialTab={tab}
+                initialGearOwnership={searchParams.get("gear") ?? undefined}
+                initialGearQualities={searchParams.get("gear-quality") ?? undefined}
+                userId={loaderData.userId}
+                shoppingMarks={shoppingSettings}
+                onUpdateShoppingMarks={updateShoppingMarks}
+              />
+            )}
+          </CompanionGearTtcGate>
+        )}
       </CompanionCatalogGate>
     </Suspense>
   )
