@@ -275,6 +275,20 @@ test("the teller is held to no start limit, so a fast loop cannot silence it", (
   expect(tellingUnitText(TELLER)).toContain("StartLimitIntervalSec=0")
 })
 
+test("the memory ceilings a service states are written in its service section", () => {
+  const text = serviceUnitText(pageOf({ maxMemoryMb: 4096, killMemoryMb: 6144 }))
+  expect(text).toContain("MemoryHigh=4G\n")
+  expect(text).toContain("MemoryMax=6G\n")
+  expect(text.indexOf("MemoryHigh=")).toBeGreaterThan(text.indexOf("[Service]"))
+  expect(text.indexOf("MemoryMax=")).toBeLessThan(text.indexOf("[Install]"))
+})
+
+test("a service stating no memory ceiling is written no memory line", () => {
+  expect(serviceUnitText(pageOf({}))).not.toContain("Memory")
+  expect(serviceUnitText(pageOf({ maxMemoryMb: 1536 }))).not.toContain("MemoryMax")
+  expect(serviceUnitText(pageOf({ maxMemoryMb: 1536 }))).toContain("MemoryHigh=1536M\n")
+})
+
 test("an exit a scheduled service counts as a success fails that unit by nothing", () => {
   const text = serviceUnitText(pageOf({ systemd: { schedule: "daily" } }))
   expect(text).toContain("SuccessExitStatus=143 79 SIGTERM\n")

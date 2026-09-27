@@ -1,4 +1,5 @@
 import { SCRATCH_AT } from "akasha/file/system/modules/scratching/scratching.module.code.ts"
+import { unitLimitLines } from "akasha/infrastructure/machine/provisioning/provisioned-file/modules/unit-limits/unit-limits.module.code.ts"
 import type { ServiceWorkstation } from "akasha/infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.types.ts"
 import { ORIGIN_ENV } from "akasha/page/service/modules/page-calling/page-calling.module.code.ts"
 
@@ -152,6 +153,7 @@ export function serviceUnitText(given: Service): string {
     "",
     ...startingLines(scheduled ? ONESHOT : SIMPLE),
     ...(given.pagesOrigin === undefined ? [] : [`Environment=${ORIGIN_ENV}=${given.pagesOrigin}`]),
+    ...unitLimitLines(given.service),
     ...execLines(given),
   ]
 

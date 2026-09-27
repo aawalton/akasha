@@ -94,6 +94,8 @@ export const serviceWorkstation = {
     { pageProperty: "module-property-group/running", required: false, many: false },
     { pageProperty: "boolean-property/told", required: false, many: false },
     { pageProperty: "boolean-property/restarts-itself", required: false, many: false },
+    { pageProperty: "number-property/max-memory-mb", required: false, many: false },
+    { pageProperty: "number-property/kill-memory-mb", required: false, many: false },
   ],
   decisions: [
     {

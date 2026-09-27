@@ -1,3 +1,4 @@
+import type { KillMemoryMb } from "akasha/infrastructure/memory/limit/properties/kill-memory-mb.number-property.types.ts"
 import type { AkashaService } from "akasha/infrastructure/service/akasha-service/akasha-service.page-type.types.ts"
 import type { Binds } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/binds.text-property.types.ts"
 import type { Enabled } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/enabled.boolean-property.types.ts"
@@ -12,6 +13,7 @@ import type { Unbound } from "akasha/infrastructure/service/akasha-service/servi
 import type { Well } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/well.boolean-property.types.ts"
 import type { WorkedAt } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/worked-at.instant-property.types.ts"
 import type { WorksWithinSeconds } from "akasha/infrastructure/service/akasha-service/service-workstation/properties/works-within-seconds.number-property.types.ts"
+import type { MaxMemoryMb } from "akasha/page/code-file-property/properties/max-memory-mb.number-property.types.ts"
 
 export type ServiceWorkstation = AkashaService & {
   enabled: Enabled
@@ -27,4 +29,6 @@ export type ServiceWorkstation = AkashaService & {
   running?: Running
   told?: Told
   restartsItself?: RestartsItself
+  maxMemoryMb?: MaxMemoryMb
+  killMemoryMb?: KillMemoryMb
 }

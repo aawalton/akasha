@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"max-memory-mb.number-property.types.ts","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"max-memory-mb.number-property.types.ts","path":"page/code-file-property/code-file-property.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}
 {"propertySlug":"page-property","path":"page/code-file-property/code-file-property.page-type.ts","id":"01a0877d-0474-7e0b-9ce4-b84e15eed4ed"}
 {"propertySlug":"parts","path":"page/code-file-property/code-file-property.page-type.ts","id":"01a0877d-0474-7e0b-9ce4-b84e15eed4ed"}
