@@ -1,14 +1,37 @@
 "use client"
 
+import type { SeededPhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import {
   textAt,
   type Value,
 } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { usePages } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
 import { temperWebPhrase } from "akasha/temper/web/phrase/temper-web-phrase.page-type.ts"
-import { useMemo } from "react"
+import { createContext, type ReactNode, useContext, useMemo } from "react"
 
 const EVERY = 10000
+
+const NO_SEED: readonly SeededPhrase[] = []
+
+const Seeded = createContext<readonly SeededPhrase[]>(NO_SEED)
+
+export function TemperPhrasesSeeded({
+  phrases,
+  children,
+}: {
+  phrases: readonly SeededPhrase[]
+  children: ReactNode
+}) {
+  return <Seeded.Provider value={phrases}>{children}</Seeded.Provider>
+}
+
+function seededFrom(seed: readonly SeededPhrase[]): WebPhrases {
+  const read: WebPhrases = new Map(
+    seed.map((one) => [one.slug, { title: one.title, description: one.description ?? null }])
+  )
+  held ??= read
+  return read
+}
 
 interface Worded {
   readonly title: string
@@ -41,12 +64,14 @@ function phrasesFrom(rows: readonly Value[]): WebPhrases {
 
 export function useWebPhrases(): WebPhrases | null {
   const pages = usePages({ pageTypeSlug: temperWebPhrase.slug, limit: EVERY })
+  const seed = useContext(Seeded)
+  const unread = pages.isLoading || pages.error !== null
   const phrases = useMemo(() => {
-    if (pages.isLoading) return null
+    if (unread) return seed.length === 0 ? null : seededFrom(seed)
     held = phrasesFrom(pages.rows)
     return held
-  }, [pages.isLoading, pages.rows])
-  if (pages.error !== null) throw pages.error
+  }, [unread, pages.rows, seed])
+  if (pages.error !== null && seed.length === 0) throw pages.error
   return phrases
 }
 

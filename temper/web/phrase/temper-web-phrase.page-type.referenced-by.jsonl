@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.ts","path":"temper/web/.server/web-phrase-loading/web-phrase-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.ts","path":"temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.ts","path":"temper/web/root.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.ts","path":"temper/web/routes/landing/landing.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.ts","path":"temper/web/routes/temper-requests/temper-requests.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/account-filters-activity.temper-web-phrase.ts","typed":true,"deferred":false}

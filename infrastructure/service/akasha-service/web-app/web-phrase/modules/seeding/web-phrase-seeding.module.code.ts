@@ -6,7 +6,11 @@ import {
 import { webPhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/web-phrase.page-type.ts"
 import { collectPages } from "akasha/page/access/modules/iterate/iterate.module.code.ts"
 
-export type SeededPhrase = { readonly slug: string; readonly title: string }
+export type SeededPhrase = {
+  readonly slug: string
+  readonly title: string
+  readonly description?: string
+}
 
 type Fills = Readonly<Record<string, string | number>>
 
@@ -25,13 +29,17 @@ export async function phrasingRead(): Promise<Phrase> {
   return phrasingOf(new Map(read.map((one) => [one.slug, one.title])))
 }
 
-export async function phrasesRead(): Promise<readonly SeededPhrase[]> {
-  const rows = await collectPages({ pageTypeSlug: webPhrase.slug })
+export async function phrasesRead(
+  pageTypeSlug: string = webPhrase.slug
+): Promise<readonly SeededPhrase[]> {
+  const rows = await collectPages({ pageTypeSlug })
   const read: SeededPhrase[] = []
   for (const row of rows) {
     const slug = stringIn(row.slug)
     const title = stringIn(row.title)
-    if (slug !== null && title !== null) read.push({ slug, title })
+    const description = stringIn(row.description)
+    if (slug === null || title === null) continue
+    read.push(description === null ? { slug, title } : { slug, title, description })
   }
   return read
 }

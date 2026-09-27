@@ -27,9 +27,15 @@ import { CommandPalette } from "akasha/design/interface/primitive/modules/comman
 import { ShortcutSheet } from "akasha/design/interface/primitive/modules/shortcut-sheet/shortcut-sheet.module.code.tsx"
 import { Toaster } from "akasha/design/interface/primitive/modules/sonner/sonner.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
+import { PhrasesSeeded } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import {
+  phrasesRead,
+  type SeededPhrase,
+} from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts"
 import { setStoreDiagnosticsSink } from "akasha/page/ui-store/modules/diagnostics/diagnostics.module.code.ts"
 
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+import { TemperPhrasesSeeded } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { rootDocumentDescription } from "akasha/temper/web/phrase/pages/root-document-description.temper-web-phrase.ts"
 import { rootDocumentTitle } from "akasha/temper/web/phrase/pages/root-document-title.temper-web-phrase.ts"
 import { rootErrorDetails } from "akasha/temper/web/phrase/pages/root-error-details.temper-web-phrase.ts"
@@ -38,6 +44,7 @@ import { rootErrorTitle } from "akasha/temper/web/phrase/pages/root-error-title.
 import { rootGoHome } from "akasha/temper/web/phrase/pages/root-go-home.temper-web-phrase.ts"
 import { rootNotFoundDetails } from "akasha/temper/web/phrase/pages/root-not-found-details.temper-web-phrase.ts"
 import { rootNotFoundTitle } from "akasha/temper/web/phrase/pages/root-not-found-title.temper-web-phrase.ts"
+import { temperWebPhrase } from "akasha/temper/web/phrase/temper-web-phrase.page-type.ts"
 import { TriangleAlert } from "lucide-react"
 import { type ReactNode, useEffect } from "react"
 import {
@@ -52,6 +59,7 @@ import {
   Outlet,
   Scripts,
   ScrollRestoration,
+  useLoaderData,
 } from "react-router"
 import "akasha/code/router-app/vite-client/vite-client.type-declaration.d.ts"
 
@@ -83,8 +91,19 @@ export const meta: MetaFunction = () => [
 export async function loader({ request }: LoaderFunctionArgs<AppLoadContext>) {
   const bounce = await handoverGuard(TEMPER_SITE, request, GUARD)
   if (bounce !== null) return bounce
-  return data({})
+  const [phrases, temperPhrases] = await Promise.all([
+    phrasesRead(),
+    phrasesRead(temperWebPhrase.slug),
+  ])
+  return data({ phrases, temperPhrases })
 }
+
+type Seeds = {
+  readonly phrases?: readonly SeededPhrase[]
+  readonly temperPhrases?: readonly SeededPhrase[]
+}
+
+const NO_PHRASES: readonly SeededPhrase[] = []
 
 export function Layout({ children }: { children: ReactNode }) {
   const nonce = useDocumentNonce()
@@ -129,7 +148,14 @@ export function Layout({ children }: { children: ReactNode }) {
 }
 
 export default function App() {
-  return <Outlet />
+  const seeds = useLoaderData<Seeds>()
+  return (
+    <PhrasesSeeded phrases={seeds?.phrases ?? NO_PHRASES}>
+      <TemperPhrasesSeeded phrases={seeds?.temperPhrases ?? NO_PHRASES}>
+        <Outlet />
+      </TemperPhrasesSeeded>
+    </PhrasesSeeded>
+  )
 }
 
 export function ErrorBoundary({ error }: { error: unknown }) {

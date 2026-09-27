@@ -13,6 +13,10 @@ export const useWebPhrases = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Phrases the root's loader read are shown until the live pages are read.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A slug no phrase page carries is refused rather than shown.",
     },
     {
