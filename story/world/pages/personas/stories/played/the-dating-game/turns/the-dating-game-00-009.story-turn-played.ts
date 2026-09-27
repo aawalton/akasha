@@ -31,4 +31,5 @@ export const theDatingGame00009 = {
     "Her hand stays in his as they climb on into the cold shade.",
   ],
   lore: ["lore/the-dating-game-echo"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
