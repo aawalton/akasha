@@ -17,6 +17,17 @@ test("a sidebar item's actions are named and offer nothing until asked", () => {
   drawn.unmount()
 })
 
+test("clicking a sidebar item's actions button does not follow the item's link", () => {
+  const drawn = render(
+    <a href="/home">
+      <NavItemActionsMenu onDelete={() => {}} />
+    </a>
+  )
+  const clicked = fireEvent.click(drawn.getByRole("button", { name: NAV_ITEM_ACTIONS_LABEL }))
+  expect(clicked).toBe(false)
+  drawn.unmount()
+})
+
 test("cancelling the question deletes nothing", () => {
   let confirmed = 0
   const opened: boolean[] = []

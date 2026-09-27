@@ -58,8 +58,9 @@ export function NavItemDeleteDialog({
 export function NavItemActionsMenu({ onDelete }: { onDelete: () => void }) {
   const [confirming, setConfirming] = useState(false)
 
-  const stopPropagation = (e: React.MouseEvent) => {
+  const keepOnPage = (e: React.MouseEvent) => {
     e.stopPropagation()
+    e.preventDefault()
   }
 
   const stopPointerPropagation = (e: React.PointerEvent) => {
@@ -74,7 +75,7 @@ export function NavItemActionsMenu({ onDelete }: { onDelete: () => void }) {
             type="button"
             aria-label={NAV_ITEM_ACTIONS_LABEL}
             className="rounded p-0.5 text-tertiary opacity-0 transition-opacity hover:text-primary focus-visible:opacity-100 group-hover:opacity-100 [@media(hover:none)]:hidden"
-            onClick={stopPropagation}
+            onClick={keepOnPage}
           >
             <MoreHorizontal className="size-4" />
           </button>
