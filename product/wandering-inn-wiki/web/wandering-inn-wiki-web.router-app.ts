@@ -39,7 +39,7 @@ export const wanderingInnWikiWeb = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "This site serves the pages of one world and its own nav items, and no other page akasha holds.",
+        "This site serves one world's pages, its own nav items and its own site documents, and no other.",
     },
     {
       decisionKind: "decision-kind/departure",
