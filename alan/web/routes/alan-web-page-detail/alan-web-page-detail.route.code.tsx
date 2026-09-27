@@ -1,6 +1,7 @@
 import { loader as pageDetailLoader } from "akasha/alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts"
 import { PageDetailErrorBoundary } from "akasha/alan/web/modules/page-detail-error-boundary/page-detail-error-boundary.module.code.tsx"
 import { PageDetailWithReadMark } from "akasha/alan/web/modules/page-detail-with-read-mark/page-detail-with-read-mark.module.code.tsx"
+import { siteNamedIn } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import {
@@ -17,12 +18,12 @@ import {
 type PageDetailLoaderData = Awaited<ReturnType<typeof pageDetailLoader>>["data"]
 
 function buildPageDetailMeta(
-  loaderData: { title: string | null; faviconIdSuffix: string | null } | undefined
+  loaderData: { title: string | null; faviconIdSuffix: string | null } | undefined,
+  site: string | null
 ): MetaDescriptor[] {
-  if (loaderData == null) return [{ title: "Alan Walton" }]
-  const descriptors: MetaDescriptor[] = [
-    { title: loaderData.title != null && loaderData.title !== "" ? loaderData.title : "Untitled" },
-  ]
+  const title = loaderData?.title ?? site
+  const descriptors: MetaDescriptor[] = title === null ? [] : [{ title }]
+  if (loaderData == null) return descriptors
   if (loaderData.faviconIdSuffix != null) {
     descriptors.push({
       tagName: "link",
@@ -35,8 +36,14 @@ function buildPageDetailMeta(
   return descriptors
 }
 
-export function meta({ data: loaderData }: { data: PageDetailLoaderData | undefined }) {
-  return buildPageDetailMeta(loaderData)
+export function meta({
+  data: loaderData,
+  matches,
+}: {
+  data: PageDetailLoaderData | undefined
+  matches: readonly ({ readonly data: unknown } | undefined)[]
+}) {
+  return buildPageDetailMeta(loaderData, siteNamedIn(matches))
 }
 
 const MEDIA_ONLY_SEARCH_PARAMS: ReadonlySet<string> = new Set(["speed", "variant"])

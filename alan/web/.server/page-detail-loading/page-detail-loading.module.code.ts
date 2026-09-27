@@ -20,6 +20,12 @@ import { data, type LoaderFunctionArgs } from "react-router"
 const NAV_SLUG = "nav"
 const READING_STORY_SLUG = "reading-story"
 
+function nameOf(row: Readonly<Record<string, unknown>> | null | undefined): string | null {
+  const title = row?.title
+  if (typeof title === "string" && title !== "") return title
+  return typeof row?.slug === "string" ? row.slug : null
+}
+
 export async function loader({ params }: LoaderFunctionArgs) {
   const { pageTypeSlug, pageHrefParam } = params
   if (pageTypeSlug === undefined || pageHrefParam === undefined) {
@@ -38,14 +44,14 @@ export async function loader({ params }: LoaderFunctionArgs) {
       pageTypeSlug: brandedSlug,
       idSuffix: parsed.idSuffix,
       slug: parsed.slug ?? undefined,
-      select: ["id", "title"],
+      select: ["id", "title", "slug"],
     })
     return data({
       kind: "nav" as const,
       pageTypeSlug,
       pageHrefParam,
       faviconIdSuffix: parsed.idSuffix,
-      title: navPage && typeof navPage.title === "string" ? navPage.title : null,
+      title: nameOf(navPage),
     })
   }
 
@@ -53,12 +59,12 @@ export async function loader({ params }: LoaderFunctionArgs) {
     pageTypeSlug: brandedSlug,
     idSuffix: parsed.idSuffix,
     slug: parsed.slug ?? undefined,
-    select: ["id", "title"],
+    select: ["id", "title", "slug"],
   })
 
   let resolvedSlug = pageTypeSlug
   let id: string | null = exact && typeof exact.id === "string" ? exact.id : null
-  let title: string | null = exact && typeof exact.title === "string" ? exact.title : null
+  let title: string | null = nameOf(exact)
 
   if (id == null) {
     const subtree = await getDescendantPageTypeSlugs(brandedSlug)
@@ -71,7 +77,7 @@ export async function loader({ params }: LoaderFunctionArgs) {
       if (resolved && typeof resolved.id === "string") {
         id = resolved.id
         if (typeof resolved.pageTypeSlug === "string") resolvedSlug = resolved.pageTypeSlug
-        if (typeof resolved.title === "string") title = resolved.title
+        title = nameOf(resolved)
       }
     }
   }

@@ -54,7 +54,7 @@ export function metaFor(site: string | null): (args: { data: DocumentData | unde
 
 type Matched = { readonly data: unknown } | undefined
 
-function siteNamedIn(matches: readonly Matched[]): string | null {
+export function siteNamedIn(matches: readonly Matched[]): string | null {
   const root = asObjectRecord(matches[0]?.data)
   return stringIn(asObjectRecord(root?.document)?.title)
 }

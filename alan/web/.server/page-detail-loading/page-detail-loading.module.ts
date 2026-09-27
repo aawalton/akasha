@@ -11,5 +11,9 @@ export const pageDetailLoading = {
       decisionKind: "decision-kind/departure",
       statement: "A key is asked of a page type only where that page type declares the key.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page with no title is named by its slug.",
+    },
   ],
 } as const satisfies Module
