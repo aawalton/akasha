@@ -10,6 +10,13 @@ export const temperSkillType = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "text-property/description", required: true, many: false },
   ],
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A skill type's slug is its id.",
+    },
+  ],
+  parts: ["change-generator/skill-type-ids-keeping", "data-table/skill-type-ids"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType

@@ -5087,6 +5087,9 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-script/modules/script-ids-keeping/script-ids-keeping.change-generator.ts","id":"01a0df12-aff3-7ec0-88c9-ba6c5ccadb3d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-script/modules/script-ids/script-ids.data-table.ts","id":"01a0df12-aff3-75c3-9f9e-46310a92b160"}
 {"propertySlug":"decision-kind","path":"temper/catalog/skill/temper-script/properties/slot-type.select-property.ts","id":"01a0cb51-43bc-7ff6-9fdc-0477fff8a78d"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/type/modules/skill-type-ids-keeping/skill-type-ids-keeping.change-generator.ts","id":"01a0e094-6c14-71b8-a523-e04b4c7c7ab3"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/type/modules/skill-type-ids/skill-type-ids.data-table.ts","id":"01a0e094-6c15-7115-b637-4b5598205efa"}
+{"propertySlug":"decision-kind","path":"temper/catalog/skill/type/temper-skill-type.page-type.ts","id":"01a05fca-cb8c-73c3-984c-28544089d7ee"}
 {"propertySlug":"decision-kind","path":"temper/catalog/temper-catalog.domain.ts","id":"01a05fac-7580-7d88-a660-0f4eff1ab95e"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/effect-metric.relation-property.ts","id":"01a0d3fb-ee3d-7a22-b414-2c3736bcc96a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/thing/properties/effect-seconds.number-property.ts","id":"01a05fb0-3ceb-717f-94f6-5ef52cdf0c41"}
