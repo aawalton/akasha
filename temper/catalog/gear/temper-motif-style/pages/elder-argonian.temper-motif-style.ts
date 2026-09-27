@@ -5,6 +5,8 @@ export const elderArgonian = {
   type: "page-type/temper-motif-style",
   slug: "elder-argonian",
   title: "Elder Argonian",
+  esoItemStyleId: 81,
+  styleName: "Elder Argonian",
   collectionIndex: 56,
   sourceDescription: "Dailies (Murkmire)",
   dropSources: [
