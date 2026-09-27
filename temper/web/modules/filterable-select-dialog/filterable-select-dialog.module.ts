@@ -12,5 +12,9 @@ export const filterableSelectDialog = {
       statement:
         "The effect names are worked out again whenever the stats or skill catalogue are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

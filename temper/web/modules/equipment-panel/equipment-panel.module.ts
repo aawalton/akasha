@@ -6,4 +6,10 @@ export const equipmentPanel = {
   slug: "equipment-panel",
   definition: "the armor, jewelry and weapon sections of a build's gear, side by side",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each weapon bar is named by the title on that bar's own page.",
+    },
+  ],
 } as const satisfies Module

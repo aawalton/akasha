@@ -9,6 +9,13 @@ import {
   filterEffectsBySearch,
   groupEffectsBySubcategory,
 } from "akasha/temper/web/modules/stats-filtering/stats-filtering.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { effectsPanelCardMajorBuffs } from "akasha/temper/web/phrase/pages/effects-panel-card-major-buffs.temper-web-phrase.ts"
+import { effectsPanelCardMajorDebuffs } from "akasha/temper/web/phrase/pages/effects-panel-card-major-debuffs.temper-web-phrase.ts"
+import { effectsPanelCardMinorBuffs } from "akasha/temper/web/phrase/pages/effects-panel-card-minor-buffs.temper-web-phrase.ts"
+import { effectsPanelCardMinorDebuffs } from "akasha/temper/web/phrase/pages/effects-panel-card-minor-debuffs.temper-web-phrase.ts"
+import { effectsPanelCardOtherBuffs } from "akasha/temper/web/phrase/pages/effects-panel-card-other-buffs.temper-web-phrase.ts"
+import { effectsPanelCardStatusEffects } from "akasha/temper/web/phrase/pages/effects-panel-card-status-effects.temper-web-phrase.ts"
 
 interface EffectsPanelCardProps {
   id: string
@@ -29,7 +36,9 @@ export function EffectsPanelCard({
   onEffectClick,
   className,
 }: EffectsPanelCardProps) {
+  const phrase = usePhrase()
   const effects = sources.filter(isNamedSource).filter((s) => s.categoryId === effectCategory)
+  const isBuffs = effectCategory === "buffs"
 
   const filteredEffects = filterEffectsBySearch(effects, searchTerm)
   if (filteredEffects.length === 0) return null
@@ -39,17 +48,17 @@ export function EffectsPanelCard({
   const subcategories = [
     {
       key: "major",
-      name: effectCategory === "buffs" ? "Major Buffs" : "Major Debuffs",
+      name: phrase(isBuffs ? effectsPanelCardMajorBuffs.slug : effectsPanelCardMajorDebuffs.slug),
       effects: grouped.major,
     },
     {
       key: "minor",
-      name: effectCategory === "buffs" ? "Minor Buffs" : "Minor Debuffs",
+      name: phrase(isBuffs ? effectsPanelCardMinorBuffs.slug : effectsPanelCardMinorDebuffs.slug),
       effects: grouped.minor,
     },
     {
       key: "other",
-      name: effectCategory === "buffs" ? "Other Buffs" : "Status Effects",
+      name: phrase(isBuffs ? effectsPanelCardOtherBuffs.slug : effectsPanelCardStatusEffects.slug),
       effects: grouped.other,
     },
   ].filter((sub) => sub.effects.length > 0)

@@ -32,6 +32,10 @@ import type { Effect } from "akasha/temper/player/character/formula-framework/mo
 import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { formatEffects } from "akasha/temper/player/character/stat/modules/format-effects/format-effects.module.code.ts"
 import { useHeldMetricCatalog } from "akasha/temper/web/modules/use-metric-catalog/use-metric-catalog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { filterableSelectDialogClearEffectFilters } from "akasha/temper/web/phrase/pages/filterable-select-dialog-clear-effect-filters.temper-web-phrase.ts"
+import { filterableSelectDialogFilterByEffects } from "akasha/temper/web/phrase/pages/filterable-select-dialog-filter-by-effects.temper-web-phrase.ts"
+import { filterableSelectDialogSelectedCount } from "akasha/temper/web/phrase/pages/filterable-select-dialog-selected-count.temper-web-phrase.ts"
 import { Check, ChevronRight, X } from "lucide-react"
 import type { ReactNode } from "react"
 import { useMemo, useState } from "react"
@@ -90,6 +94,7 @@ export function FilterableSelectDialog<T extends FilterableSelectDialogItem>({
         ? ["effects"]
         : []
 
+  const phrase = usePhrase()
   const [search, setSearch] = useState("")
   const [selectedEffects, setSelectedEffects] = useState<readonly BadgeToggleGroupItem[]>([])
   const [expandedGroups, setExpandedGroups] = useState<Set<string>>(new Set(defaultExpandedGroups))
@@ -314,11 +319,15 @@ export function FilterableSelectDialog<T extends FilterableSelectDialogItem>({
                         expandedGroups.has("effects") && "rotate-90"
                       )}
                     />
-                    <span className="font-medium text-sm">Filter by Effects</span>
+                    <span className="font-medium text-sm">
+                      {phrase(filterableSelectDialogFilterByEffects.slug)}
+                    </span>
                     {selectedEffects.length > 0 && (
                       <>
                         <span className="text-secondary text-xs">
-                          ({selectedEffects.length} selected)
+                          {phrase(filterableSelectDialogSelectedCount.slug, {
+                            count: selectedEffects.length,
+                          })}
                         </span>
                         <button
                           type="button"
@@ -327,7 +336,7 @@ export function FilterableSelectDialog<T extends FilterableSelectDialogItem>({
                             e.stopPropagation()
                             setSelectedEffects([])
                           }}
-                          aria-label="Clear all effect filters"
+                          aria-label={phrase(filterableSelectDialogClearEffectFilters.slug)}
                         >
                           <X className="h-3.5 w-3.5" />
                         </button>
