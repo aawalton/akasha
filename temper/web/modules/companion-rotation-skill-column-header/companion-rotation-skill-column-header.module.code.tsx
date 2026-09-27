@@ -19,6 +19,9 @@ import {
   useCompanion,
   useCompanionActions,
 } from "akasha/temper/web/modules/use-companion/use-companion.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionRotationSkillColumnHeaderSelectSkill } from "akasha/temper/web/phrase/pages/companion-rotation-skill-column-header-select-skill.temper-web-phrase.ts"
+import { companionRotationSkillColumnHeaderSelectUltimate } from "akasha/temper/web/phrase/pages/companion-rotation-skill-column-header-select-ultimate.temper-web-phrase.ts"
 import { Plus } from "lucide-react"
 import { useState } from "react"
 
@@ -29,6 +32,7 @@ interface SkillColumnHeaderProps {
 
 export function SkillColumnHeader({ data, stats }: SkillColumnHeaderProps) {
   const [dialogOpen, setDialogOpen] = useState(false)
+  const phrase = usePhrase()
   const build = useCompanion()
   const { updateSkills } = useCompanionActions()
   const { skill, slotId } = data
@@ -52,7 +56,11 @@ export function SkillColumnHeader({ data, stats }: SkillColumnHeaderProps) {
         <CompanionSkillSelectDialog
           open={dialogOpen}
           onOpenChange={setDialogOpen}
-          title={isUltimate ? "Select Ultimate" : "Select Skill"}
+          title={
+            isUltimate
+              ? phrase(companionRotationSkillColumnHeaderSelectUltimate.slug)
+              : phrase(companionRotationSkillColumnHeaderSelectSkill.slug)
+          }
           companionId={build.companion.id}
           isUltimate={isUltimate}
           stats={stats}

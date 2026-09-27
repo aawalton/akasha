@@ -6,4 +6,10 @@ export const companionSkillSlotCard = {
   slug: "companion-skill-slot-card",
   definition: "the card drawing a slot on a companion's skill bar",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

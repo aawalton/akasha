@@ -12,5 +12,10 @@ export const companionSkillSelectDialog = {
       statement:
         "The skills offered are drawn again whenever the companion catalogue is read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Its search and empty wording are web phrase pages; the no-skill name is the catalogue's.",
+    },
   ],
 } as const satisfies Module

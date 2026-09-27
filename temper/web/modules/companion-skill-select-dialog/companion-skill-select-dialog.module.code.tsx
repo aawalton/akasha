@@ -21,6 +21,12 @@ import {
   type FilterableSelectDialogItem,
 } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
+import {
+  phraseIn,
+  useWebPhrases,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionSkillSelectDialogEmpty } from "akasha/temper/web/phrase/pages/companion-skill-select-dialog-empty.temper-web-phrase.ts"
+import { companionSkillSelectDialogSearch } from "akasha/temper/web/phrase/pages/companion-skill-select-dialog-search.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 interface CompanionSkillItem extends FilterableSelectDialogItem {
@@ -43,9 +49,8 @@ interface CompanionSkillSelectDialogProps {
   onSelect: (skillId: CompanionSkillId) => void
 }
 
-const NO_SKILL_ITEM: CompanionSkillItem = {
+const NO_SKILL_ITEM: Omit<CompanionSkillItem, "name"> = {
   id: "no-skill",
-  name: "No Skill",
   skillLineId: "weapon-two-handed",
   skillType: "active",
 }
@@ -75,6 +80,11 @@ export function CompanionSkillSelectDialog({
   onSelect,
 }: CompanionSkillSelectDialogProps) {
   const catalog = useHeldCompanionCatalog()
+  const phrases = useWebPhrases()
+  const noSkillItem: CompanionSkillItem = useMemo(
+    () => ({ ...NO_SKILL_ITEM, name: companionSkillAt("no-skill").name }),
+    [catalog]
+  )
   const { categories, allItems } = useMemo(() => {
     if (companionId === "no-companion") {
       return { categories: [], allItems: [] }
@@ -152,8 +162,8 @@ export function CompanionSkillSelectDialog({
   const config: FilterableSelectDialogConfig<CompanionSkillItem> = useMemo(
     () => ({
       title,
-      searchPlaceholder: "Search skills...",
-      emptyMessage: "No skills found.",
+      searchPlaceholder: phraseIn(phrases, companionSkillSelectDialogSearch.slug),
+      emptyMessage: phraseIn(phrases, companionSkillSelectDialogEmpty.slug),
       categories,
       allItems,
       showEffectFilter: false,
@@ -181,7 +191,7 @@ export function CompanionSkillSelectDialog({
         )
       },
     }),
-    [title, categories, allItems, stats, catalog]
+    [title, categories, allItems, stats, catalog, phrases]
   )
 
   const handleSelect = (itemId: CompanionSkillId) => {
@@ -194,7 +204,7 @@ export function CompanionSkillSelectDialog({
       onOpenChange={onOpenChange}
       selectedItemId="no-skill"
       onSelect={handleSelect}
-      defaultItem={NO_SKILL_ITEM}
+      defaultItem={noSkillItem}
       config={config}
     />
   )

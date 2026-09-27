@@ -8,6 +8,9 @@ import { CompanionSkillBarPanelCard } from "akasha/temper/web/modules/companion-
 import { CompanionSkillSelectDialog } from "akasha/temper/web/modules/companion-skill-select-dialog/companion-skill-select-dialog.module.code.tsx"
 import { useCompanionSkillBars } from "akasha/temper/web/modules/use-companion-skill-bars/use-companion-skill-bars.module.code.ts"
 import { useCompanionFormulaStats } from "akasha/temper/web/modules/use-companion-stats/use-companion-stats.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionSkillsPanelSelectSkill } from "akasha/temper/web/phrase/pages/companion-skills-panel-select-skill.temper-web-phrase.ts"
+import { companionSkillsPanelSelectUltimate } from "akasha/temper/web/phrase/pages/companion-skills-panel-select-ultimate.temper-web-phrase.ts"
 
 interface CompanionSkillsPanelProps {
   companionId: CompanionId
@@ -26,6 +29,7 @@ export function CompanionSkillsPanel({
   columnCount,
   readOnly,
 }: CompanionSkillsPanelProps) {
+  const phrase = usePhrase()
   const { formulaStats } = useCompanionFormulaStats()
   const skillBars = useCompanionSkillBars({
     skills: skills["skill-bar"],
@@ -61,7 +65,7 @@ export function CompanionSkillsPanel({
         <CompanionSkillSelectDialog
           open={skillBars.editingSkillSlot !== null}
           onOpenChange={(open) => !open && skillBars.closeDialogs()}
-          title="Select Skill"
+          title={phrase(companionSkillsPanelSelectSkill.slug)}
           companionId={companionId}
           isUltimate={false}
           stats={formulaStats}
@@ -81,7 +85,7 @@ export function CompanionSkillsPanel({
         <CompanionSkillSelectDialog
           open={skillBars.editingUltimate}
           onOpenChange={(open) => !open && skillBars.closeDialogs()}
-          title="Select Ultimate"
+          title={phrase(companionSkillsPanelSelectUltimate.slug)}
           companionId={companionId}
           isUltimate={true}
           stats={formulaStats}

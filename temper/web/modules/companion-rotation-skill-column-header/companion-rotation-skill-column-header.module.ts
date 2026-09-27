@@ -6,4 +6,10 @@ export const companionRotationSkillColumnHeader = {
   slug: "companion-rotation-skill-column-header",
   definition: "the header naming a skill column of a rotation breakdown",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

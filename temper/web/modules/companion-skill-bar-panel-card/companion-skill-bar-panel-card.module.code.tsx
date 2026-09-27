@@ -10,6 +10,8 @@ import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/comp
 import { companionSkillSlots } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-slots/companion-skill-slots.module.code.ts"
 import { CompanionSkillSlotCard } from "akasha/temper/web/modules/companion-skill-slot-card/companion-skill-slot-card.module.code.tsx"
 import { CompanionUltimateSlotCard } from "akasha/temper/web/modules/companion-ultimate-slot-card/companion-ultimate-slot-card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionSkillBarPanelCardTitle } from "akasha/temper/web/phrase/pages/companion-skill-bar-panel-card-title.temper-web-phrase.ts"
 
 type ActiveCompanionSkillSlotId = "active-1" | "active-2" | "active-3" | "active-4" | "active-5"
 
@@ -40,13 +42,19 @@ export function CompanionSkillBarPanelCard({
   className,
   readOnly,
 }: CompanionSkillBarPanelCardProps) {
+  const phrase = usePhrase()
   const findSkill = (skillId: CompanionSkillId): CompanionSkillTemplate | undefined => {
     if (skillId === "no-skill") return undefined
     return companionSkills().data[skillId]
   }
 
   return (
-    <PanelCard id="companion-skill-bar" collapsible={true} title="Skills" className={className}>
+    <PanelCard
+      id="companion-skill-bar"
+      collapsible={true}
+      title={phrase(companionSkillBarPanelCardTitle.slug)}
+      className={className}
+    >
       {activeCompanionSkillSlots.map((slot) => {
         const skillId = skills[slot.id]
         const skill = findSkill(skillId)

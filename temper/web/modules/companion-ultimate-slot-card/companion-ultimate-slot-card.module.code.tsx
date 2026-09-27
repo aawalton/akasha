@@ -7,6 +7,10 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionUltimateSlotCardClear } from "akasha/temper/web/phrase/pages/companion-ultimate-slot-card-clear.temper-web-phrase.ts"
+import { companionUltimateSlotCardClickToSelect } from "akasha/temper/web/phrase/pages/companion-ultimate-slot-card-click-to-select.temper-web-phrase.ts"
+import { companionUltimateSlotCardEmpty } from "akasha/temper/web/phrase/pages/companion-ultimate-slot-card-empty.temper-web-phrase.ts"
 import { Plus, X } from "lucide-react"
 
 interface CompanionUltimateSlotCardProps {
@@ -25,6 +29,7 @@ export function CompanionUltimateSlotCard({
   readOnly,
 }: CompanionUltimateSlotCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   if (!ultimate) {
     if (readOnly) {
       return (
@@ -40,7 +45,9 @@ export function CompanionUltimateSlotCard({
             <Plus className="h-4 w-4 text-tertiary" />
           </div>
           <div className="min-w-0 flex-1">
-            <div className="truncate font-medium text-sm text-tertiary">Empty Ultimate</div>
+            <div className="truncate font-medium text-sm text-tertiary">
+              {phrase(companionUltimateSlotCardEmpty.slug)}
+            </div>
           </div>
         </div>
       )
@@ -68,8 +75,12 @@ export function CompanionUltimateSlotCard({
           </div>
 
           <div className="min-w-0 flex-1">
-            <div className="truncate font-medium text-sm">Empty Ultimate</div>
-            <div className="truncate text-secondary text-xs">Click to select an ultimate</div>
+            <div className="truncate font-medium text-sm">
+              {phrase(companionUltimateSlotCardEmpty.slug)}
+            </div>
+            <div className="truncate text-secondary text-xs">
+              {phrase(companionUltimateSlotCardClickToSelect.slug)}
+            </div>
           </div>
         </button>
       </div>
@@ -94,8 +105,8 @@ export function CompanionUltimateSlotCard({
                   onClear()
                 }}
                 onPointerDown={(e) => e.stopPropagation()}
-                title="Clear ultimate"
-                aria-label="Clear ultimate"
+                title={phrase(companionUltimateSlotCardClear.slug)}
+                aria-label={phrase(companionUltimateSlotCardClear.slug)}
                 type="button"
               >
                 <X className="h-4 w-4 text-tertiary" />

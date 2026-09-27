@@ -26,6 +26,8 @@ import {
   TargetingBadge,
 } from "akasha/temper/web/modules/targeting-badges/targeting-badges.module.code.tsx"
 import { TimingBadges } from "akasha/temper/web/modules/timing-badges/timing-badges.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionSkillCardEffects } from "akasha/temper/web/phrase/pages/companion-skill-card-effects.temper-web-phrase.ts"
 import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -56,6 +58,7 @@ export function CompanionSkillCard({
   effectsDisplay = "badges",
   className,
 }: CompanionSkillCardProps) {
+  const phrase = usePhrase()
   const iconUrl = getEsoIconUrl(skill.icon)
   const timing = extractSkillTiming(skill.effects)
   const resourceCost = skill.effects.find(isResourceCostEffect)
@@ -137,7 +140,7 @@ export function CompanionSkillCard({
       {}
       {effectsDisplay === "cards" && displayEffects.length > 0 ? (
         <div className="flex flex-col gap-2">
-          <Heading variant="label">Effects</Heading>
+          <Heading variant="label">{phrase(companionSkillCardEffects.slug)}</Heading>
           <div className="flex flex-col gap-2">
             {displayEffects.map((effect, index) => (
               <EffectCard key={index} effect={effect} stats={stats} />

@@ -7,6 +7,10 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import type { CompanionSkillTemplate } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-activation-effect-types/companion-skill-activation-effect-types.module.code.ts"
 import type { CompanionFormulaStats } from "akasha/temper/catalog/companion/companions-core/modules/companion-skill-formula/companion-skill-formula.module.code.ts"
 import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionSkillSlotCardClear } from "akasha/temper/web/phrase/pages/companion-skill-slot-card-clear.temper-web-phrase.ts"
+import { companionSkillSlotCardClickToSelect } from "akasha/temper/web/phrase/pages/companion-skill-slot-card-click-to-select.temper-web-phrase.ts"
+import { companionSkillSlotCardEmpty } from "akasha/temper/web/phrase/pages/companion-skill-slot-card-empty.temper-web-phrase.ts"
 import { Plus, X } from "lucide-react"
 
 interface CompanionSkillSlotCardProps {
@@ -27,6 +31,7 @@ export function CompanionSkillSlotCard({
   readOnly,
 }: CompanionSkillSlotCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   if (!skill) {
     if (readOnly) {
       return (
@@ -42,7 +47,9 @@ export function CompanionSkillSlotCard({
             <Plus className="h-4 w-4 text-tertiary" />
           </div>
           <div className="min-w-0 flex-1">
-            <div className="truncate font-medium text-sm text-tertiary">Empty Slot</div>
+            <div className="truncate font-medium text-sm text-tertiary">
+              {phrase(companionSkillSlotCardEmpty.slug)}
+            </div>
           </div>
         </div>
       )
@@ -67,8 +74,12 @@ export function CompanionSkillSlotCard({
         </div>
 
         <div className="min-w-0 flex-1">
-          <div className="truncate font-medium text-sm">Empty Slot</div>
-          <div className="line-clamp-2 text-secondary text-xs">Click to select a skill</div>
+          <div className="truncate font-medium text-sm">
+            {phrase(companionSkillSlotCardEmpty.slug)}
+          </div>
+          <div className="line-clamp-2 text-secondary text-xs">
+            {phrase(companionSkillSlotCardClickToSelect.slug)}
+          </div>
         </div>
       </button>
     )
@@ -92,8 +103,8 @@ export function CompanionSkillSlotCard({
                   onClear()
                 }}
                 onPointerDown={(e) => e.stopPropagation()}
-                title={`Clear slot ${slotLabel}`}
-                aria-label={`Clear slot ${slotLabel}`}
+                title={phrase(companionSkillSlotCardClear.slug, { slot: slotLabel })}
+                aria-label={phrase(companionSkillSlotCardClear.slug, { slot: slotLabel })}
                 type="button"
               >
                 <X className="h-4 w-4 text-tertiary" />

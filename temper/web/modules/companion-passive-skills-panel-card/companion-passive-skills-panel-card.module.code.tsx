@@ -11,6 +11,8 @@ import type { CompanionState } from "akasha/temper/catalog/companion/companions-
 import { companionAt } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
 import { CompanionSkillCard } from "akasha/temper/web/modules/companion-skill-card/companion-skill-card.module.code.tsx"
 import type { ArmorPieceCounts } from "akasha/temper/web/modules/effect-badge-types/effect-badge-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionPassiveSkillsPanelCardTitle } from "akasha/temper/web/phrase/pages/companion-passive-skills-panel-card-title.temper-web-phrase.ts"
 
 type ArmorWeight = "light" | "medium" | "heavy"
 
@@ -44,6 +46,7 @@ export function CompanionPassiveSkillsPanelCard({
   equipment,
   stats,
 }: CompanionPassiveSkillsPanelCardProps) {
+  const phrase = usePhrase()
   const skills = companionSkills()
   const classPassiveId = companionAt(companionId).classPassiveId
   const classPassive = classPassiveId != null ? (skills.data[classPassiveId] ?? null) : null
@@ -63,7 +66,11 @@ export function CompanionPassiveSkillsPanelCard({
   }
 
   return (
-    <PanelCard id="companion-passive-skills" collapsible title="Passive Skills">
+    <PanelCard
+      id="companion-passive-skills"
+      collapsible
+      title={phrase(companionPassiveSkillsPanelCardTitle.slug)}
+    >
       <div className="space-y-2">
         {}
         {classPassive ? (
