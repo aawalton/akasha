@@ -6,6 +6,7 @@ export const raGada = {
   slug: "ra-gada",
   title: "Ra Gada",
   esoItemStyleId: 44,
+  styleName: "Ra Gada",
   collectionIndex: 17,
   sourceDescription: "Craglorn enemies and containers",
 } as const satisfies TemperMotifStyle
