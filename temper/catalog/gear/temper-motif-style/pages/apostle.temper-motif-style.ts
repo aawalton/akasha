@@ -5,6 +5,8 @@ export const apostle = {
   type: "page-type/temper-motif-style",
   slug: "apostle",
   title: "Apostle",
+  esoItemStyleId: 65,
+  styleName: "Apostle",
   collectionIndex: 42,
   sourceDescription: "Dailies (Clockwork City)",
   dropSources: [
