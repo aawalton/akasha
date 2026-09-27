@@ -4,7 +4,7 @@ export const otherwhere00032 = {
   id: "01a0e524-5aa2-7fbe-a2b5-fa257f614f40",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-032",
-  ownLength: 137,
+  ownLength: 132,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 32,
@@ -17,7 +17,7 @@ export const otherwhere00032 = {
     "character-other/otherwhere-engorged-bookworm-05",
     "character-other/otherwhere-engorged-bookworm-06",
   ],
-  turnStatus: "turn-status/writer",
+  turnStatus: "turn-status/recorders",
   action:
     "“So, you don’t have a plan. Okay, how can we get you more power to wake up the kitchen without finishing off the big bookworm first?”",
   beats: [
