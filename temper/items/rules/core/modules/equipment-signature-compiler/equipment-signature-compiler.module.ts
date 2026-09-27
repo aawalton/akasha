@@ -28,5 +28,9 @@ export const equipmentSignatureCompiler = {
       decisionKind: "decision-kind/departure",
       statement: "An equip type or companion quality takes the number its constant page states.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A player armor or jewelry slot takes the number of the equip type page it links.",
+    },
   ],
 } as const satisfies Module

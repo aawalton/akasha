@@ -4,6 +4,7 @@
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/modules/enchant-reading/enchant-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/modules/graded-effects/graded-effects.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-gear-table.module.code.ts","path":"temper/player/character/characters-equipment/modules/armor-weights/armor-weights.module.code.ts","typed":false,"deferred":false}

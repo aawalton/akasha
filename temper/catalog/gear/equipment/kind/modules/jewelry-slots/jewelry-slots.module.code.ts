@@ -14,6 +14,7 @@ interface JewelrySlotTemplate {
   readonly name: string
   readonly typeId: JewelryTypeId
   readonly icon: string
+  readonly equipType: number | undefined
 }
 
 type Row = Readonly<Record<string, unknown>>
@@ -22,17 +23,22 @@ const held = heldGearTable<JewelrySlotId, JewelrySlotTemplate>("jewelry slots")
 
 export const jewelrySlots = held.table
 
-export function holdJewelrySlots(pages: Iterable<Row>): undefined {
+export function holdJewelrySlots(
+  pages: Iterable<Row>,
+  equipTypeOfJewelryType: ReadonlyMap<string, number>
+): undefined {
   held.hold(
     gearTableOf(
-      inGearOrder(pages, "hashPlace").map(
-        (row): JewelrySlotTemplate => ({
+      inGearOrder(pages, "hashPlace").map((row): JewelrySlotTemplate => {
+        const typeId = slugOf(row.jewelryType) as JewelryTypeId
+        return {
           id: String(row.slug) as JewelrySlotId,
           name: String(row.title),
-          typeId: slugOf(row.jewelryType) as JewelryTypeId,
+          typeId,
           icon: String(row.icon),
-        })
-      )
+          equipType: equipTypeOfJewelryType.get(typeId),
+        }
+      })
     )
   )
 }

@@ -15,6 +15,7 @@ import {
   holdGearTypeNames,
 } from "akasha/temper/catalog/gear/equipment/modules/gear-type-names/gear-type-names.module.code.ts"
 import { holdGraded } from "akasha/temper/catalog/gear/equipment/modules/graded-effects/graded-effects.module.code.ts"
+import { slugOf } from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
 import {
   holdTraits,
   TRAIT_READS,
@@ -124,11 +125,35 @@ export const GEAR_READS: readonly Read[] = [
   ],
 ]
 
+function equipTypeNumbers(rows: Iterable<Row>): ReadonlyMap<string, number> {
+  const numbers = new Map<string, number>()
+  for (const row of rows) {
+    if (typeof row.equipType === "number") numbers.set(String(row.slug), row.equipType)
+  }
+  return numbers
+}
+
+function jewelryEquipTypes(
+  rows: Iterable<Row>,
+  equipTypes: ReadonlyMap<string, number>
+): ReadonlyMap<string, number> {
+  const numbers = new Map<string, number>()
+  for (const row of rows) {
+    const found = equipTypes.get(slugOf(row.slotEquipType))
+    if (found !== undefined) numbers.set(String(row.slug), found)
+  }
+  return numbers
+}
+
 export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undefined {
+  const equipTypes = equipTypeNumbers(rowsOf(temperEquipType.slug))
   holdQualities(qualitiesOf(rowsOf(temperQuality.slug)))
-  holdArmorSlots(rowsOf(temperArmorSlot.slug))
+  holdArmorSlots(rowsOf(temperArmorSlot.slug), equipTypes)
   holdArmorTypes(rowsOf(temperArmorType.slug))
-  holdJewelrySlots(rowsOf(temperJewelrySlot.slug))
+  holdJewelrySlots(
+    rowsOf(temperJewelrySlot.slug),
+    jewelryEquipTypes(rowsOf(temperJewelryType.slug), equipTypes)
+  )
   holdWeaponSlots(rowsOf(temperWeaponSlot.slug))
   holdLevelBands(rowsOf(temperLevelBand.slug))
   holdSetBonusSteps(rowsOf(temperSetBonusStep.slug))

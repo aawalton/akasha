@@ -37,27 +37,6 @@ const PLAYER_ARMOR_TYPE_TO_ESO = esoNumsIn("armor-type")
 
 const PLAYER_QUALITY_TO_ESO = esoNumsIn("quality")
 
-const PLAYER_ARMOR_SLOT_EQUIP_NAMES: Record<string, string> = {
-  head: "EQUIP_TYPE_HEAD",
-  shoulders: "EQUIP_TYPE_SHOULDERS",
-  chest: "EQUIP_TYPE_CHEST",
-  hands: "EQUIP_TYPE_HAND",
-  waist: "EQUIP_TYPE_WAIST",
-  legs: "EQUIP_TYPE_LEGS",
-  feet: "EQUIP_TYPE_FEET",
-}
-
-const PLAYER_JEWELRY_SLOT_EQUIP_NAMES: Record<string, string> = {
-  necklace: "EQUIP_TYPE_NECK",
-  "ring-1": "EQUIP_TYPE_RING",
-  "ring-2": "EQUIP_TYPE_RING",
-}
-
-function equipTypeOfSlot(names: Record<string, string>, slotId: string): number | undefined {
-  const name = names[slotId]
-  return name === undefined ? undefined : equipTypeNumber(name)
-}
-
 function weaponEquipType(isTwoHanded: boolean): number {
   return equipTypeNumber(isTwoHanded ? "EQUIP_TYPE_TWO_HAND" : "EQUIP_TYPE_ONE_HAND")
 }
@@ -77,7 +56,7 @@ export function compileWantedEquipmentForBuild(
     if (slot.itemType !== "armor") continue
     const traitType = esoNumberOfTrait("armor", slot.data.trait)
     if (traitType == null || traitType === 0) continue
-    const equipType = equipTypeOfSlot(PLAYER_ARMOR_SLOT_EQUIP_NAMES, slotId)
+    const equipType = armorSlots.data[slotId].equipType
     if (equipType == null) continue
 
     const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(slot.data.quality)) ?? 5
@@ -92,7 +71,7 @@ export function compileWantedEquipmentForBuild(
     if (slot.itemType !== "jewelry") continue
     const traitType = esoNumberOfTrait("jewelry", slot.data.trait)
     if (traitType == null || traitType === 0) continue
-    const equipType = equipTypeOfSlot(PLAYER_JEWELRY_SLOT_EQUIP_NAMES, slotId)
+    const equipType = jewelrySlots.data[slotId].equipType
     if (equipType == null) continue
 
     const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(slot.data.quality)) ?? 5

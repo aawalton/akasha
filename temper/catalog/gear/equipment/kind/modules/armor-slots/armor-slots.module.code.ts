@@ -3,6 +3,7 @@ import {
   gearTableOf,
   heldGearTable,
   inGearOrder,
+  slugOf,
 } from "akasha/temper/catalog/gear/equipment/modules/held-gear-table/held-gear-table.module.code.ts"
 
 export type ArmorSlotId = ArmorSlotPageSlug
@@ -11,6 +12,7 @@ interface ArmorSlotTemplate {
   readonly id: ArmorSlotId
   readonly name: string
   readonly icon: string
+  readonly equipType: number | undefined
 }
 
 type Row = Readonly<Record<string, unknown>>
@@ -19,7 +21,10 @@ const held = heldGearTable<ArmorSlotId, ArmorSlotTemplate>("armor slots")
 
 export const armorSlots = held.table
 
-export function holdArmorSlots(pages: Iterable<Row>): undefined {
+export function holdArmorSlots(
+  pages: Iterable<Row>,
+  equipTypes: ReadonlyMap<string, number>
+): undefined {
   held.hold(
     gearTableOf(
       inGearOrder(pages, "hashPlace").map(
@@ -27,6 +32,7 @@ export function holdArmorSlots(pages: Iterable<Row>): undefined {
           id: String(row.slug) as ArmorSlotId,
           name: String(row.title),
           icon: String(row.icon),
+          equipType: equipTypes.get(slugOf(row.slotEquipType)),
         })
       )
     )
