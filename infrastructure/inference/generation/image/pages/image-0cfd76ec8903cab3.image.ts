@@ -12,4 +12,5 @@ export const image0cfd76ec8903cab3 = {
     "Keep this young woman's face, short dark brunette wavy bob, large wide-set blue eyes, very fair flawless porcelain skin, small delicate nose and mouth, and youthful sweet appearance EXACTLY the same. Change ONLY her outfit. Dress her in practical light ranger's armor — fitted leather scout armor with a hooded travelling cloak, earthy brown and forest-green tones with warm accents, outdoorsy and capable. Warm natural light, photoreal portrait, soft wilderness background.",
   inputImage: "image/image-84bc5d85ca193601",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-1",
 } as const satisfies Image

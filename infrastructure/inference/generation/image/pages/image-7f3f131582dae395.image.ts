@@ -5,4 +5,5 @@ export const image7f3f131582dae395 = {
   type: "page-type/image",
   slug: "image-7f3f131582dae395",
   subjects: "F",
+  relationshipLevel: "closeness-level/level-3",
 } as const satisfies Image
