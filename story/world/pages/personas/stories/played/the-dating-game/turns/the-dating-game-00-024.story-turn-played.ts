@@ -10,7 +10,7 @@ export const theDatingGame00024 = {
   position: 24,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "Rather than go home, I’m feeling social still, so I go for a walk around my neighborhood instead",
   beats: [
@@ -26,5 +26,5 @@ export const theDatingGame00024 = {
     '"You look like a man who\'s had a good day," she says, her voice low and warm.',
   ],
   lore: ["lore/the-dating-game-grace"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
