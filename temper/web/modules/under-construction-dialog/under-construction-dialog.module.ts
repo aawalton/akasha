@@ -6,4 +6,10 @@ export const underConstructionDialog = {
   slug: "under-construction-dialog",
   definition: "the notice shown where a feature is not built yet",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

@@ -8,7 +8,13 @@ import {
 } from "akasha/temper/catalog/champion-point/modules/champion-point-source/champion-point-source.module.code.ts"
 import type { FilterableSelectDialogConfig } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
 import { FilterableSelectDialog } from "akasha/temper/web/modules/filterable-select-dialog/filterable-select-dialog.module.code.tsx"
-import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { starSelectionDialogAvailable } from "akasha/temper/web/phrase/pages/star-selection-dialog-available.temper-web-phrase.ts"
+import { starSelectionDialogEmpty } from "akasha/temper/web/phrase/pages/star-selection-dialog-empty.temper-web-phrase.ts"
+import { starSelectionDialogSearch } from "akasha/temper/web/phrase/pages/star-selection-dialog-search.temper-web-phrase.ts"
+import { starSelectionDialogSelectCraft } from "akasha/temper/web/phrase/pages/star-selection-dialog-select-craft.temper-web-phrase.ts"
+import { starSelectionDialogSelectFitness } from "akasha/temper/web/phrase/pages/star-selection-dialog-select-fitness.temper-web-phrase.ts"
+import { starSelectionDialogSelectWarfare } from "akasha/temper/web/phrase/pages/star-selection-dialog-select-warfare.temper-web-phrase.ts"
 import { Hammer, Shield, Swords } from "lucide-react"
 import { useMemo, useState } from "react"
 
@@ -24,6 +30,12 @@ const CONSTELLATION_ICONS = {
   warfare: Swords,
   fitness: Shield,
   craft: Hammer,
+} as const
+
+const SELECT_PHRASE = {
+  warfare: starSelectionDialogSelectWarfare.slug,
+  fitness: starSelectionDialogSelectFitness.slug,
+  craft: starSelectionDialogSelectCraft.slug,
 } as const
 
 const NO_STAR = {
@@ -51,6 +63,7 @@ export function StarSelectionDialog({
   slottedStars,
   onSelect,
 }: StarSelectionDialogProps) {
+  const phrase = usePhrase()
   const [selectedItemId, setSelectedItemId] = useState<ChampionPointId>(NO_STAR[constellation])
 
   const stars = championPoints.list
@@ -72,13 +85,13 @@ export function StarSelectionDialog({
 
   const config: FilterableSelectDialogConfig<ChampionPointSource> = useMemo(
     () => ({
-      title: `Select ${capitalize(constellation)} Star`,
-      searchPlaceholder: "Search stars by name or description...",
-      emptyMessage: "No stars found matching your search.",
+      title: phrase(SELECT_PHRASE[constellation]),
+      searchPlaceholder: phrase(starSelectionDialogSearch.slug),
+      emptyMessage: phrase(starSelectionDialogEmpty.slug),
       categories: [
         {
           id: "available",
-          label: "Available Stars",
+          label: phrase(starSelectionDialogAvailable.slug),
           items: availableStars,
         },
       ],
@@ -92,7 +105,7 @@ export function StarSelectionDialog({
       },
       renderIcon: () => <Icon className="h-5 w-5" />,
     }),
-    [constellation, availableStars, Icon]
+    [constellation, availableStars, Icon, phrase]
   )
 
   const handleSelect = (itemId: ChampionPointId) => {

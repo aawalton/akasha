@@ -11,5 +11,9 @@ export const starSelectionDialog = {
       decisionKind: "decision-kind/departure",
       statement: "The stars offered are drawn again whenever the champion stars are read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

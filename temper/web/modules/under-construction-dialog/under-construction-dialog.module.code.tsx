@@ -9,6 +9,10 @@ import {
   DialogHeader,
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { underConstructionDialogClose } from "akasha/temper/web/phrase/pages/under-construction-dialog-close.temper-web-phrase.ts"
+import { underConstructionDialogDescription } from "akasha/temper/web/phrase/pages/under-construction-dialog-description.temper-web-phrase.ts"
+import { underConstructionDialogTitle } from "akasha/temper/web/phrase/pages/under-construction-dialog-title.temper-web-phrase.ts"
 import { Construction } from "lucide-react"
 
 interface UnderConstructionDialogProps {
@@ -22,21 +26,22 @@ export function UnderConstructionDialog({
   onOpenChange,
   featureName,
 }: UnderConstructionDialogProps) {
+  const phrase = usePhrase()
   return (
     <Dialog open={open} onOpenChange={onOpenChange}>
       <DialogContent className="max-w-md">
         <DialogHeader>
           <DialogTitle className="flex items-center gap-2">
             <Construction className="h-5 w-5 text-tertiary" />
-            Under Construction
+            {phrase(underConstructionDialogTitle.slug)}
           </DialogTitle>
           <DialogDescription>
-            The {featureName} feature is currently under development and will be available soon.
+            {phrase(underConstructionDialogDescription.slug, { feature: featureName })}
           </DialogDescription>
         </DialogHeader>
         <DialogFooter>
           <Button variant="secondary" onClick={() => onOpenChange(false)}>
-            Close
+            {phrase(underConstructionDialogClose.slug)}
           </Button>
         </DialogFooter>
       </DialogContent>

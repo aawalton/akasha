@@ -12,6 +12,11 @@ import {
   type TargetArmorId,
   targetArmor,
 } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { targetPanelCardArmor } from "akasha/temper/web/phrase/pages/target-panel-card-armor.temper-web-phrase.ts"
+import { targetPanelCardCount } from "akasha/temper/web/phrase/pages/target-panel-card-count.temper-web-phrase.ts"
+import { targetPanelCardHealth } from "akasha/temper/web/phrase/pages/target-panel-card-health.temper-web-phrase.ts"
+import { targetPanelCardTitle } from "akasha/temper/web/phrase/pages/target-panel-card-title.temper-web-phrase.ts"
 
 const TARGET_HEALTH_OPTIONS = [1, 0.75, 0.5, 0.25] as const
 
@@ -34,9 +39,15 @@ export function TargetPanelCard({
   className,
   readOnly,
 }: TargetPanelCardProps) {
+  const phrase = usePhrase()
   return (
-    <InputPanelCard id="target" collapsible={true} title="Target" className={className}>
-      <InputPanelCard.Row label="Target Armor">
+    <InputPanelCard
+      id="target"
+      collapsible={true}
+      title={phrase(targetPanelCardTitle.slug)}
+      className={className}
+    >
+      <InputPanelCard.Row label={phrase(targetPanelCardArmor.slug)}>
         <Select
           value={target.armor}
           onValueChange={(v) => {
@@ -56,7 +67,7 @@ export function TargetPanelCard({
           </SelectContent>
         </Select>
       </InputPanelCard.Row>
-      <InputPanelCard.Row label="Target Health">
+      <InputPanelCard.Row label={phrase(targetPanelCardHealth.slug)}>
         <Select
           value={String(target.health)}
           onValueChange={(v) => onUpdate({ health: Number(v) })}
@@ -74,7 +85,7 @@ export function TargetPanelCard({
           </SelectContent>
         </Select>
       </InputPanelCard.Row>
-      <InputPanelCard.Row label="Target Count">
+      <InputPanelCard.Row label={phrase(targetPanelCardCount.slug)}>
         <Select
           value={String(target.targetCount)}
           onValueChange={(v) => {

@@ -12,5 +12,9 @@ export const temperAppShell = {
       statement:
         "Every item this shell draws in its navigation is a nav page, and none is in code.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its brand and sign-out wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

@@ -6,4 +6,10 @@ export const timingBadges = {
   slug: "timing-badges",
   definition: "the badges naming when a skill effect lands",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages, spelled as the game spells it.",
+    },
+  ],
 } as const satisfies Module

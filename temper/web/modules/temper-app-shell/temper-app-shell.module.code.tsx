@@ -16,6 +16,9 @@ import {
   TEMPER_APP,
   TEMPER_APP_ID,
 } from "akasha/temper/web/modules/temper-app-id/temper-app-id.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { temperAppShellBrand } from "akasha/temper/web/phrase/pages/temper-app-shell-brand.temper-web-phrase.ts"
+import { temperAppShellSignOut } from "akasha/temper/web/phrase/pages/temper-app-shell-sign-out.temper-web-phrase.ts"
 import { LogOut } from "lucide-react"
 import { useMemo } from "react"
 
@@ -30,16 +33,18 @@ function isAuthRoute(pathname: string): boolean {
 
 function SignOutButton() {
   const { effectiveIsCollapsed } = useSidebarState()
+  const phrase = usePhrase()
+  const signOut = phrase(temperAppShellSignOut.slug)
 
   return (
     <form method="POST" action="/sign-out">
       <button
         type="submit"
-        aria-label="Sign Out"
+        aria-label={signOut}
         className="flex w-full cursor-pointer items-center gap-3 rounded-md px-3 py-2 text-secondary text-sm transition-colors hover:bg-surface-2 hover:text-primary"
       >
         <LogOut className="h-5 w-5 shrink-0" />
-        {!effectiveIsCollapsed && <span>Sign Out</span>}
+        {!effectiveIsCollapsed && <span>{signOut}</span>}
       </button>
     </form>
   )
@@ -53,6 +58,7 @@ interface AppShellProps {
 }
 
 function AppShellInner({ children, ssrNavItems }: AppShellProps) {
+  const phrase = usePhrase()
   const {
     items: dynamicPrimaryItems,
     bottomSections,
@@ -73,7 +79,7 @@ function AppShellInner({ children, ssrNavItems }: AppShellProps) {
     () => ({
       primaryItems: dynamicPrimaryItems,
       bottomSections,
-      brandLabel: "TEMPER",
+      brandLabel: phrase(temperAppShellBrand.slug),
       bottomNavMaxItems: 5,
       footerSlot: <SignOutButton />,
       skipRoutes: isAuthRoute,
@@ -91,6 +97,7 @@ function AppShellInner({ children, ssrNavItems }: AppShellProps) {
       ),
     }),
     [
+      phrase,
       dynamicPrimaryItems,
       bottomSections,
       dynamicItemIds,

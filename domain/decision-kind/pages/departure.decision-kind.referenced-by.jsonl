@@ -6294,13 +6294,17 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/stats-toolbar/stats-toolbar.module.ts","id":"01a0642c-5bb9-7cc8-9782-2ee1c065d7b4"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/subclassing-skill-lines-panel-card/subclassing-skill-lines-panel-card.module.ts","id":"01a06421-f74b-7c10-81f6-98e711570037"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/tab-defaults/tab-defaults.module.ts","id":"01a0640f-850f-70cf-af93-e19e03bde002"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/target-panel-card/target-panel-card.module.ts","id":"01a0642c-5b82-7888-a925-140adcf25275"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/targeting-badges/targeting-badges.module.ts","id":"01a06421-2523-7b65-804e-4591f14e557d"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-app-shell/temper-app-shell.module.ts","id":"01a06429-76ff-706c-b325-038f0e4a4fb7"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-declared-effects/temper-declared-effects.module.ts","id":"01a0640f-8510-7199-93a8-3fa778720f68"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-handover-site/temper-handover-site.module.ts","id":"01a0bb8f-a5d0-75ce-a592-e0fdb309ce8c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.ts","id":"01a0640f-8510-7c72-8ea7-ff3cbcdf74b3"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/timing-badges/timing-badges.module.ts","id":"01a06421-2523-7dae-9237-ae7ee8a3066a"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.ts","id":"01a06421-f74b-7a5d-8386-b8848da70038"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/ttc-listing-client/ttc-listing-client.module.ts","id":"01a0609f-a419-7ed6-80f9-4695f2d6e695"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.ts","id":"01a0642c-5bb1-70ad-ba21-7cb45c72fc9c"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/under-construction-dialog/under-construction-dialog.module.ts","id":"01a06432-b190-752f-9687-9eb4441d0c29"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-account-address/use-account-address.module.ts","id":"01a0d432-ba07-790c-9d52-9b25d2599f63"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-build-sync/use-build-sync.module.ts","id":"01a0640f-8510-7137-a8d9-9ada066e759b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.ts","id":"01a0de52-ecc3-7d27-995b-dd636d5d8cb3"}
