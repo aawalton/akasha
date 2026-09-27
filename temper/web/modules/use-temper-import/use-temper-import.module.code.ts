@@ -129,7 +129,8 @@ export function useTemperImport() {
       let content: string
       try {
         content = await file.text()
-      } catch {
+      } catch (e) {
+        console.error("[use-temper-import] reading the chosen file failed:", e)
         setState({ phase: "error", message: phrase(useTemperImportUnreadable.slug) })
         return
       }
@@ -140,10 +141,8 @@ export function useTemperImport() {
       try {
         data = parseSavedVariablesContent(content, getCompanionIdByDefId)
       } catch (e) {
-        setState({
-          phase: "error",
-          message: e instanceof Error ? e.message : phrase(useTemperImportUnparsed.slug),
-        })
+        console.error("[use-temper-import] parsing the saved variables file failed:", e)
+        setState({ phase: "error", message: phrase(useTemperImportUnparsed.slug) })
         return
       }
 
@@ -297,10 +296,8 @@ export function useTemperImport() {
         }
         setState({ phase: "success", result })
       } catch (e) {
-        setState({
-          phase: "error",
-          message: e instanceof Error ? e.message : phrase(useTemperImportUnexpected.slug),
-        })
+        console.error("[use-temper-import] the import failed:", e)
+        setState({ phase: "error", message: phrase(useTemperImportUnexpected.slug) })
       }
     },
     [userId, phrase]

@@ -37,5 +37,9 @@ export const useTemperImport = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A failed import shows no error's own text, which goes to the console.",
+    },
   ],
 } as const satisfies Module
