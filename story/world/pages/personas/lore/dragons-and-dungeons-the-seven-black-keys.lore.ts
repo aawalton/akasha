@@ -24,7 +24,7 @@ export const dragonsAndDungeonsTheSevenBlackKeys = {
       ],
     },
     {
-      fact: "One key bears the mark scorched where Alan refused the Warden's bargain.",
+      fact: "One key bears the mark scorched into the crossing where Alan refused the bargain.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/dragons-and-dungeons-alan",
