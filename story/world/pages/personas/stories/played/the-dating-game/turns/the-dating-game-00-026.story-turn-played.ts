@@ -7,7 +7,7 @@ export const theDatingGame00026 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 26,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     "“I love walking in the night. My sleep is a little irregular, so sometimes I’ll be out at basically any hour, but the deep night is my favorite. Cool, quiet, calm. I find it soothing.”",
 } as const satisfies StoryTurnPlayed
