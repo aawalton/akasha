@@ -3,6 +3,7 @@ import * as lua from "akasha/design/language/lua-compiler/modules/lua-ast-expres
 import {
   type PagesOf,
   pagesTableFor,
+  type RowsBeside,
 } from "akasha/design/language/lua-compiler/modules/plugin-pages-of-type/plugin-pages-of-type.module.code.ts"
 import * as ts from "typescript"
 
@@ -17,15 +18,20 @@ const SOURCE = [
   "export const every = $pagesOfType(zone)",
   "export const plain = other(zone)",
   "export const unnamed = $pagesOfType({})",
+  "interface Filed { readonly quests: readonly unknown[] }",
+  "export const filed = $pagesOfType<Filed>(zone)",
 ].join("\n")
 
 const pagesHeld: PagesOf = (root, slug) =>
   root === "root" && slug === "zone"
     ? [
-        { path: "b.ts", value: { kind: 2, name: "b", held: [1, null, 3] } },
+        { path: "b.ts", value: { kind: 2, name: "b", held: [1, null, 3], quests: "jsonl" } },
         { path: "a.ts", value: { kind: 1, name: "a", gone: null, at: { x: true } } },
       ]
     : []
+
+const rowsHeld: RowsBeside = (root, path, key) =>
+  root === "root" && path === "b.ts" && key === "quests" ? [{ questId: 7 }, { questId: 8 }] : null
 
 function compiled(): { readonly checker: ts.TypeChecker; readonly calls: ts.CallExpression[] } {
   const file = ts.createSourceFile(AT, SOURCE, ts.ScriptTarget.ESNext, true)
@@ -58,7 +64,7 @@ function tableAt(index: number): unknown {
   const { checker, calls } = compiled()
   const call = calls[index]
   if (call === undefined) throw new Error(`no call ${String(index)}`)
-  const made = pagesTableFor(call, checker, "root", pagesHeld)
+  const made = pagesTableFor(call, checker, "root", pagesHeld, rowsHeld)
   return made === null ? null : heldIn(made)
 }
 
@@ -66,10 +72,10 @@ test("a call naming a type keeps only that type's properties, in the order of th
   expect(tableAt(0)).toEqual([{ kind: 1 }, { kind: 2 }])
 })
 
-test("a call naming no type keeps every property but those holding null", () => {
+test("a call naming no type keeps every property but those holding null, filed ones as stated", () => {
   expect(tableAt(1)).toEqual([
     { kind: 1, name: "a", at: { x: true } },
-    { kind: 2, name: "b", held: [1, 3] },
+    { kind: 2, name: "b", held: [1, 3], quests: "jsonl" },
   ])
 })
 
@@ -79,4 +85,8 @@ test("a call to anything else is left to the compiler", () => {
 
 test("a call handed no page carrying a slug refuses the compile", () => {
   expect(() => tableAt(3)).toThrow("is handed no page whose slug is known")
+})
+
+test("a named property filed beside its page is written as the rows of that file", () => {
+  expect(tableAt(4)).toEqual([[], { quests: [{ questId: 7 }, { questId: 8 }] }])
 })

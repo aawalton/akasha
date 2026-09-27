@@ -1,12 +1,19 @@
+import { existsSync, readFileSync } from "node:fs"
+import { join } from "node:path"
 import type { TransformationContext } from "akasha/design/language/lua-compiler/modules/context-transformation-context/context-transformation-context.module.code.ts"
 import * as lua from "akasha/design/language/lua-compiler/modules/lua-ast-expressions/lua-ast-expressions.module.code.ts"
 import type { Plugin } from "akasha/design/language/lua-compiler/modules/transpile-plugins/transpile-plugins.module.code.ts"
 import { valuesOfType } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import { inLowerKebabCase } from "akasha/page/name-format/pages/lower-kebab-case/lower-kebab-case.name-format.code.ts"
+import { entryRowsIn } from "akasha/page/property-entry/modules/entry-rows/entry-rows.module.code.ts"
 import * as ts from "typescript"
 
 const CALLED = "$pagesOfType"
 
 const SLUG = "slug"
+
+const FILED = "jsonl"
 
 type Paged = {
   readonly path: string
@@ -14,6 +21,25 @@ type Paged = {
 }
 
 export type PagesOf = (root: string, pageTypeSlug: string) => readonly Paged[]
+
+export type RowsBeside = (root: string, path: string, key: string) => readonly unknown[] | null
+
+function rowsFiledBeside(root: string, path: string, key: string): readonly unknown[] | null {
+  const at = besideAt(path, inLowerKebabCase(key), FILED)
+  if (at === null || !existsSync(join(root, at))) return null
+  return entryRowsIn(readFileSync(join(root, at), "utf8")).map((line): unknown => JSON.parse(line))
+}
+
+export function valuesWithRowsBeside(
+  root: string,
+  page: Paged,
+  keys: ReadonlySet<string> | null,
+  rowsBeside: RowsBeside = rowsFiledBeside
+): readonly (readonly [string, unknown])[] {
+  return Object.entries(page.value)
+    .filter(([key]) => keys === null || keys.has(key))
+    .map(([key, held]) => [key, held === FILED ? (rowsBeside(root, page.path, key) ?? held) : held])
+}
 
 function kept(held: unknown): boolean {
   return held !== null && held !== undefined
@@ -70,7 +96,8 @@ export function pagesTableFor(
   node: ts.CallExpression,
   checker: ts.TypeChecker,
   root: string,
-  pagesOf: PagesOf
+  pagesOf: PagesOf,
+  rowsBeside: RowsBeside = rowsFiledBeside
 ): lua.TableExpression | null {
   if (!calledHere(node)) return null
   const keys = keysOf(node, checker)
@@ -79,7 +106,10 @@ export function pagesTableFor(
   )
   return lua.createTableExpression(
     pages.map((page) => {
-      const entries = Object.entries(page.value).filter(([key]) => keys === null || keys.has(key))
+      const entries =
+        keys === null
+          ? Object.entries(page.value)
+          : valuesWithRowsBeside(root, page, keys, rowsBeside)
       return lua.createTableFieldExpression(tableOf(entries))
     }),
     node

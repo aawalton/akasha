@@ -34,6 +34,10 @@ export const pluginPagesOfType = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A property the type names and the page files beside it is written as its rows.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The pages are read from the index at the root directory the compile states.",
     },
     {
