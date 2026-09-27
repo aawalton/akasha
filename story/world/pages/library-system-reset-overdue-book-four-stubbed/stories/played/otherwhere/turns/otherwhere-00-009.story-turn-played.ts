@@ -32,4 +32,5 @@ export const otherwhere00009 = {
     "From the dark back of the hall, past where the gold light reaches, comes a wet, slow chewing sound.",
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
