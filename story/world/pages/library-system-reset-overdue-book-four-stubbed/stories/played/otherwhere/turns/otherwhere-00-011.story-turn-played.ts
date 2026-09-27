@@ -30,4 +30,5 @@ export const otherwhere00011 = {
     "She takes the scoop; it fits her hand, deep enough for a good fistful of salt.",
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
