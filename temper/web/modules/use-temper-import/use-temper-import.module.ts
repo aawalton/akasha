@@ -33,5 +33,9 @@ export const useTemperImport = {
       decisionKind: "decision-kind/departure",
       statement: "An account page made by this import is read back for its address.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

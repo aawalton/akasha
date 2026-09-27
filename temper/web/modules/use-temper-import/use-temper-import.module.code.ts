@@ -28,6 +28,14 @@ import {
   mergeCompanionCompletionForward,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-merge-forward/completion-merge-forward.module.code.ts"
 import type { ImportResult } from "akasha/temper/web/modules/import-result/import-result.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { useTemperImportAccount } from "akasha/temper/web/phrase/pages/use-temper-import-account.temper-web-phrase.ts"
+import { useTemperImportNotLua } from "akasha/temper/web/phrase/pages/use-temper-import-not-lua.temper-web-phrase.ts"
+import { useTemperImportNotSignedIn } from "akasha/temper/web/phrase/pages/use-temper-import-not-signed-in.temper-web-phrase.ts"
+import { useTemperImportUnexpected } from "akasha/temper/web/phrase/pages/use-temper-import-unexpected.temper-web-phrase.ts"
+import { useTemperImportUnparsed } from "akasha/temper/web/phrase/pages/use-temper-import-unparsed.temper-web-phrase.ts"
+import { useTemperImportUnreadable } from "akasha/temper/web/phrase/pages/use-temper-import-unreadable.temper-web-phrase.ts"
+import { useTemperImportUnrecognised } from "akasha/temper/web/phrase/pages/use-temper-import-unrecognised.temper-web-phrase.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 import type { z } from "zod"
 
@@ -94,6 +102,7 @@ type ImportState =
 
 export function useTemperImport() {
   const userId = useUserId()
+  const phrase = usePhrase()
   const [state, setState] = useState<ImportState>({ phase: "idle" })
   const [dragOver, setDragOver] = useState(false)
   const inputRef = useRef<HTMLInputElement>(null)
@@ -107,11 +116,11 @@ export function useTemperImport() {
   const processFile = useCallback(
     async (file: File) => {
       if (userId == null) {
-        setState({ phase: "error", message: "Not authenticated." })
+        setState({ phase: "error", message: phrase(useTemperImportNotSignedIn.slug) })
         return
       }
       if (!file.name.endsWith(".lua")) {
-        setState({ phase: "error", message: "Please select a .lua file." })
+        setState({ phase: "error", message: phrase(useTemperImportNotLua.slug) })
         return
       }
 
@@ -121,7 +130,7 @@ export function useTemperImport() {
       try {
         content = await file.text()
       } catch {
-        setState({ phase: "error", message: "Failed to read file." })
+        setState({ phase: "error", message: phrase(useTemperImportUnreadable.slug) })
         return
       }
 
@@ -133,17 +142,13 @@ export function useTemperImport() {
       } catch (e) {
         setState({
           phase: "error",
-          message: e instanceof Error ? e.message : "Failed to parse saved variables file.",
+          message: e instanceof Error ? e.message : phrase(useTemperImportUnparsed.slug),
         })
         return
       }
 
       if (data.diagnostics.knownSectionCount === 0) {
-        setState({
-          phase: "error",
-          message:
-            "This file's contents weren't recognised. It may have been written by an out-of-date version of the Temper add-ons. Nothing was imported.",
-        })
+        setState({ phase: "error", message: phrase(useTemperImportUnrecognised.slug) })
         return
       }
 
@@ -276,7 +281,7 @@ export function useTemperImport() {
 
         const result: ImportResult = {
           account: {
-            name: "Account",
+            name: phrase(useTemperImportAccount.slug),
             status: data.account === undefined ? "skipped" : accountVerdict.outcome,
           },
           characters: characterEntries.map((entry) => ({
@@ -294,11 +299,11 @@ export function useTemperImport() {
       } catch (e) {
         setState({
           phase: "error",
-          message: e instanceof Error ? e.message : "An unexpected error occurred during import.",
+          message: e instanceof Error ? e.message : phrase(useTemperImportUnexpected.slug),
         })
       }
     },
-    [userId]
+    [userId, phrase]
   )
 
   const handleFileChange = useCallback(
