@@ -11,5 +11,9 @@ export const subclassingSkillMorphsPanelCard = {
       decisionKind: "decision-kind/constraint",
       statement: "A class line no morph was measured for is left out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card's title is its completion category page's title.",
+    },
   ],
 } as const satisfies Module

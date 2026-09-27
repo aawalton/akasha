@@ -9,12 +9,15 @@ import {
 } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { CharacterCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type { CompletionCharacter } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
 import type {
   CharacterSkillMorphProgress,
   MorphableSkillDetail,
 } from "akasha/temper/player/skill-morph/modules/morph-progress-types/morph-progress-types.module.code.ts"
 import { morphableSkillLineIds } from "akasha/temper/player/skill-morph/modules/morphable-skills/morphable-skills.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { skillMorphsProgressPanelCardBase } from "akasha/temper/web/phrase/pages/skill-morphs-progress-panel-card-base.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -60,6 +63,8 @@ export function SkillMorphsProgressPanelCard({
   sortMode,
   sortDirection,
 }: SkillMorphsProgressPanelCardProps) {
+  const phrase = usePhrase()
+  const baseLabel = phrase(skillMorphsProgressPanelCardBase.slug)
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? morphProgress
@@ -124,7 +129,7 @@ export function SkillMorphsProgressPanelCard({
       key: String(a.abilityIndex),
       label: a.baseName,
       children: [
-        { key: "base", label: "Base", count: a.baseCount, total: a.total },
+        { key: "base", label: baseLabel, count: a.baseCount, total: a.total },
         { key: "morph1", label: a.morph1Name, count: a.morph1Count, total: a.total },
         { key: "morph2", label: a.morph2Name, count: a.morph2Count, total: a.total },
       ],
@@ -149,7 +154,7 @@ export function SkillMorphsProgressPanelCard({
       children: [
         {
           key: "base",
-          label: "Base",
+          label: baseLabel,
           children: eligibleCharacters.map(
             (char): CompletionNode => ({
               key: char.id,
@@ -281,7 +286,7 @@ export function SkillMorphsProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Skill Morphs"
+      title={completionCardTitle("characters", "skill-morphs")}
       items={withActivityCategories(items, "characters")}
       totalChildren={totalChildren}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}

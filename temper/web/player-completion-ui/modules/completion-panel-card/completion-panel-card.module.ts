@@ -19,5 +19,9 @@ export const completionPanelCard = {
       decisionKind: "decision-kind/constraint",
       statement: "A search of fewer than three letters narrows nothing.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The total row's label is read from a web phrase page.",
+    },
   ],
 } as const satisfies Module

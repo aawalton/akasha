@@ -11,6 +11,8 @@ import {
   type ActivityCategoryId,
 } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { completionPercent } from "akasha/temper/player/completion/temper-player-completion/modules/completion-percent/completion-percent.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { completionPanelCardTotal } from "akasha/temper/web/phrase/pages/completion-panel-card-total.temper-web-phrase.ts"
 import { useCompletionActivityMode } from "akasha/temper/web/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
 import { useCompletionSearch } from "akasha/temper/web/player-completion-ui/modules/completion-search-context/completion-search-context.module.code.tsx"
 import { CheckIcon, MinusIcon } from "lucide-react"
@@ -282,6 +284,7 @@ export function CompletionPanelCard({
     clear: clearExpanded,
   } = useSetToggle()
   const [cardOpen, setCardOpen] = useState<boolean | undefined>(undefined)
+  const phrase = usePhrase()
   const debugMode = useCompletionActivityMode()
   const search = useCompletionSearch()
   const searchTerm = search.length >= 3 ? search.toLowerCase() : ""
@@ -420,7 +423,7 @@ export function CompletionPanelCard({
         {!isSingleCategory && (
           <>
             <StatRow
-              label="Total"
+              label={phrase(completionPanelCardTotal.slug)}
               value={totalValue}
               useAccentColor
               onClick={

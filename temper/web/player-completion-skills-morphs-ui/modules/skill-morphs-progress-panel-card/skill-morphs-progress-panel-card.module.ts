@@ -15,5 +15,9 @@ export const skillMorphsProgressPanelCard = {
       decisionKind: "decision-kind/constraint",
       statement: "A skill line with no morphable skill is left out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card's title is its completion category page's title.",
+    },
   ],
 } as const satisfies Module

@@ -6,7 +6,10 @@ import {
 } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type { SubclassingSkillMorphProgressResult } from "akasha/temper/player/skill-morph/modules/subclassing-morph-progress/subclassing-morph-progress.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { subclassingSkillMorphsPanelCardBase } from "akasha/temper/web/phrase/pages/subclassing-skill-morphs-panel-card-base.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -35,6 +38,8 @@ export function SubclassingSkillMorphsPanelCard({
   sortMode,
   sortDirection,
 }: SubclassingSkillMorphsPanelCardProps) {
+  const phrase = usePhrase()
+  const baseLabel = phrase(subclassingSkillMorphsPanelCardBase.slug)
   const playableClasses = classes.list.filter((c) => c.id !== "no-class")
 
   const morphByLine = new Map(subclassingSkillMorphs.entries.map((e) => [e.skillLineId, e.skills]))
@@ -49,7 +54,7 @@ export function SubclassingSkillMorphsPanelCard({
           key: String(skill.abilityIndex),
           label: skill.baseName,
           children: [
-            { key: "base", label: "Base", count: skill.baseRank, total: MAX_VARIANT_RANK },
+            { key: "base", label: baseLabel, count: skill.baseRank, total: MAX_VARIANT_RANK },
             {
               key: "morph1",
               label: skill.morph1Name,
@@ -72,7 +77,7 @@ export function SubclassingSkillMorphsPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Subclassing Skill Morphs"
+      title={completionCardTitle("account", "subclassing-skill-morphs")}
       items={withActivityCategories(items, "characters")}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

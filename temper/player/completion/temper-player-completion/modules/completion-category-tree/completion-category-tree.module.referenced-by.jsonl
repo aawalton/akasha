@@ -23,4 +23,6 @@
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/lore-library-panel-card/lore-library-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/lore-library-progress-panel-card/lore-library-progress-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/modules/mount-training-panel-card/mount-training-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"completion-category-tree.module.code.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
