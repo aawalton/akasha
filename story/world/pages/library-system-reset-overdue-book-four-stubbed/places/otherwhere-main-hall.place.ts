@@ -100,6 +100,10 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A salt-dried bookworm stays shrunken and still until water revives it; it keeps for night owls.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A bookworm pressed into heaped salt keeps drying for as long as it is held there.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
