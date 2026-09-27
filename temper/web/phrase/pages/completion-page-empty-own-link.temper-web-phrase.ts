@@ -5,6 +5,4 @@ export const completionPageEmptyOwnLink = {
   type: "page-type/temper-web-phrase",
   slug: "completion-page-empty-own-link",
   title: "If this is your own link, import your ESO data or reload the page.",
-  key: "completion-page-empty-own-link",
-  displayOrder: 4,
 } as const satisfies TemperWebPhrase

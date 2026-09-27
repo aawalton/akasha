@@ -5,6 +5,4 @@ export const completionPageEmptyNoData = {
   type: "page-type/temper-web-phrase",
   slug: "completion-page-empty-no-data",
   title: "No completion data loaded",
-  key: "completion-page-empty-no-data",
-  displayOrder: 2,
 } as const satisfies TemperWebPhrase

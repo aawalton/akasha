@@ -5,6 +5,4 @@ export const completionPageEmptyTitle = {
   type: "page-type/temper-web-phrase",
   slug: "completion-page-empty-title",
   title: "Completion",
-  key: "completion-page-empty-title",
-  displayOrder: 1,
 } as const satisfies TemperWebPhrase
