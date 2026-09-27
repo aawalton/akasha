@@ -28,4 +28,5 @@ export const otherwhere00016 = {
     '"One," he says. His runes slide slowly over his flanks. "Dried, not dead."',
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
