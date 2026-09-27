@@ -126,7 +126,11 @@ export const otherwhereAlan = {
     },
     {
       fact: "Nala's deep-bitten left forearm bleeds onto the salt; the arm is going numb and shaking.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Nala has not yet learned a healing power from any book.",
