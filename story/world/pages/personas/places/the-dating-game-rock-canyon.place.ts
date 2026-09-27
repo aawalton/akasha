@@ -47,5 +47,9 @@ export const theDatingGameRockCanyon = {
       fact: "Around the bend past the first walls, a car-sized boulder sits beside the trail near the creek.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Rock Canyon's quartzite walls are banded pink and grey.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
 } as const satisfies Place
