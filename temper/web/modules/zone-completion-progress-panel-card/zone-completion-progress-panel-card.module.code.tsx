@@ -6,6 +6,8 @@ import type {
   CharacterZoneCompletionProgress,
   CompletionCharacter,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-ui-types/completion-ui-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { zoneCompletionProgressPanelCardHeading } from "akasha/temper/web/phrase/pages/zone-completion-progress-panel-card-heading.temper-web-phrase.ts"
 import {
   type CompletionFilter,
   type CompletionNode,
@@ -36,6 +38,8 @@ export function ZoneCompletionProgressPanelCard({
   sortMode,
   sortDirection,
 }: ZoneCompletionProgressPanelCardProps) {
+  const phrase = usePhrase()
+  const heading = phrase(zoneCompletionProgressPanelCardHeading.slug)
   const isAggregate = selectedCharacterIds.length === 0
   const selectedProgress = isAggregate
     ? zoneProgress
@@ -119,7 +123,7 @@ export function ZoneCompletionProgressPanelCard({
     return (
       <CompletionPanelCard
         id={id}
-        title="Zone Completion"
+        title={heading}
         items={withActivityCategories(items, "exploration")}
         totalChildren={totalChildren}
         filterNode={filterNode}
@@ -152,7 +156,7 @@ export function ZoneCompletionProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Zone Completion"
+      title={heading}
       items={withActivityCategories(items, "exploration")}
       filterNode={filterNode}
       sortMode={sortMode}
