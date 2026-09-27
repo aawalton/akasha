@@ -10,7 +10,7 @@ export const otherwhere00037 = {
   position: 37,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I go fund the librarian’s quarters, strip out of my bloodied clothes and do my best to clean up in the cold water, then collapse into the bed, naked and exhausted.",
   beats: [
@@ -21,7 +21,7 @@ export const otherwhere00037 = {
     "She drags the dust sheet off the bed; underneath it is clean, soft and wide.",
     "She collapses into it naked and exhausted, and is asleep almost at once.",
     "The Library dims its lights to a low amber for the night; nothing disturbs her.",
-    "Morning: the lights brighten again, and she wakes fully rested, her arm's ache gone.",
+    "Morning: the lights brighten again; she wakes rested and strong, but the bitten arm is still raw.",
     "The smell of fresh bread drifts in from somewhere beyond the hall.",
   ],
   issues: [
