@@ -4,13 +4,11 @@ import { esoTraitTypeOf } from "akasha/temper/catalog/companion/companions-core/
 import type { CompanionState } from "akasha/temper/catalog/companion/companions-core/modules/companion-types/companion-types.module.code.ts"
 import { isTwoHandedWeapon } from "akasha/temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts"
 import { companions as companionsData } from "akasha/temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts"
-import {
-  companionQualityToEso,
-  equipTypeNumber,
-} from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts"
+import { companionQualityToEso } from "akasha/temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts"
 import { armorSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/armor-slots/armor-slots.module.code.ts"
 import { resolveQuality } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { jewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
+import { equipTypeNumberOf } from "akasha/temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts"
 import { esoNumberOfTrait } from "akasha/temper/catalog/gear/equipment/modules/trait-reading/trait-reading.module.code.ts"
 import { playerEsoNumOf } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.code.ts"
 import type { TemperEsoPlayerEquipmentConstant } from "akasha/temper/catalog/gear/temper-eso-player-equipment-constant/temper-eso-player-equipment-constant.page-type.types.ts"
@@ -34,7 +32,7 @@ const PLAYER_ARMOR_TYPE_TO_ESO = esoNumsIn("armor-type")
 const PLAYER_QUALITY_TO_ESO = esoNumsIn("quality")
 
 function weaponEquipType(isTwoHanded: boolean): number {
-  return equipTypeNumber(isTwoHanded ? "EQUIP_TYPE_TWO_HAND" : "EQUIP_TYPE_ONE_HAND")
+  return equipTypeNumberOf(isTwoHanded ? "two-hand" : "one-hand")
 }
 
 function companionQualityNumber(quality: string): number {
@@ -95,7 +93,7 @@ export function compileWantedEquipmentForBuild(
         const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(mainHand.data.quality)) ?? 5
         signatures.push({
           esoCharId,
-          equipType: equipTypeNumber("EQUIP_TYPE_OFF_HAND"),
+          equipType: equipTypeNumberOf("off-hand"),
           traitType,
           quality,
         })
@@ -120,7 +118,7 @@ export function compileWantedEquipmentForBuild(
         const quality = PLAYER_QUALITY_TO_ESO.get(resolveQuality(offHand.data.quality)) ?? 5
         signatures.push({
           esoCharId,
-          equipType: equipTypeNumber("EQUIP_TYPE_OFF_HAND"),
+          equipType: equipTypeNumberOf("off-hand"),
           traitType,
           quality,
         })
@@ -205,7 +203,7 @@ export function compileWantedCompanionEquipmentForBuild(
           if (traitType != null) {
             signatures.push({
               companionName,
-              equipType: equipTypeNumber("EQUIP_TYPE_OFF_HAND"),
+              equipType: equipTypeNumberOf("off-hand"),
               traitType,
               quality: companionQualityNumber(offHand.data.quality),
             })

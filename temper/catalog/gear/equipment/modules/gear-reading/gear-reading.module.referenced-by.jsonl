@@ -1,2 +1,3 @@
 {"propertySlug":"import","fileName":"gear-reading.module.code.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"gear-reading.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}

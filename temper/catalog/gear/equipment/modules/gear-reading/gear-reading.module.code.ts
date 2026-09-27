@@ -148,8 +148,19 @@ function jewelryEquipTypes(
   return numbers
 }
 
+let heldEquipTypes: ReadonlyMap<string, number> | null = null
+
+export function equipTypeNumberOf(slug: string): number {
+  if (heldEquipTypes === null)
+    throw new Error("the equip type pages are held with the gear, unread")
+  const found = heldEquipTypes.get(slug)
+  if (found === undefined) throw new Error(`no equip type page is \`${slug}\``)
+  return found
+}
+
 export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undefined {
   const equipTypes = equipTypeNumbers(rowsOf(temperEquipType.slug))
+  heldEquipTypes = equipTypes
   holdQualities(qualitiesOf(rowsOf(temperQuality.slug)))
   holdArmorSlots(rowsOf(temperArmorSlot.slug), equipTypes)
   holdArmorTypes(rowsOf(temperArmorType.slug))

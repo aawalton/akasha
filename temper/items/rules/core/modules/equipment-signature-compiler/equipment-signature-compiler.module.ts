@@ -32,5 +32,9 @@ export const equipmentSignatureCompiler = {
       decisionKind: "decision-kind/departure",
       statement: "A player armor or jewelry slot takes the number of the equip type page it links.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A weapon or shield takes the number of its one-hand, two-hand or off-hand page.",
+    },
   ],
 } as const satisfies Module
