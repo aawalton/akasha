@@ -115,6 +115,40 @@ test("a relation held outside the commit names no page", () => {
   expect(picked(where, "seat")).toBeNull()
 })
 
+function askedOf(query: Query): { readonly rows: readonly unknown[]; readonly n: number } {
+  const asked = asking(root, query)
+  if ("refused" in asked) throw new Error(asked.refused)
+  return { rows: asked.rows, n: asked.n }
+}
+
+test("a question naming no where and no order is paged off the index", () => {
+  const every = askedOf({ pageTypeSlug: KIND, keys: ["slug"] })
+  expect(every.n).toBeGreaterThan(3)
+  expect(askedOf({ pageTypeSlug: KIND, keys: ["slug"], limit: 2 })).toEqual({
+    rows: every.rows.slice(0, 2),
+    n: every.n,
+  })
+  expect(askedOf({ pageTypeSlug: KIND, keys: ["slug"], offset: 1, limit: 2 })).toEqual({
+    rows: every.rows.slice(1, 3),
+    n: every.n,
+  })
+  expect(askedOf({ pageTypeSlug: KIND, keys: ["slug"], limit: 0 })).toEqual({
+    rows: [],
+    n: every.n,
+  })
+  const down = askedOf({ pageTypeSlug: KIND, keys: ["slug"], descending: true, limit: 2 })
+  expect(down.rows).toEqual([...every.rows].reverse().slice(0, 2))
+})
+
+test("a question under a page type many extend is paged across every one of them", () => {
+  const keys = ["slug", "type"]
+  const every = askedOf({ pageTypeSlug: "collection", keys })
+  expect(askedOf({ pageTypeSlug: "collection", keys, offset: 3, limit: 4 })).toEqual({
+    rows: every.rows.slice(3, 7),
+    n: every.n,
+  })
+})
+
 test("a question narrowed this way still runs every test it states", () => {
   const none = { slug: { in: ["gap", "absence"] }, id: { is: "no-such-id" } }
   expect(rowsOf({ pageTypeSlug: KIND, where: none, keys: ["slug"] })).toEqual([])
