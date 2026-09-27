@@ -5029,6 +5029,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/temper-equipment.domain.ts","id":"01a060d5-2f11-79b8-9e55-62a1973c12cc"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/grade/temper-gear-grade.page-type.ts","id":"01a0d3e3-15fd-7894-84c4-490fc66d1590"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/item-set/modules/item-set-categories/item-set-categories.module.ts","id":"01a090e4-4cd1-7dd9-9df4-7d5cf6c4caed"}
+{"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-armor-weight/temper-armor-weight.page-type.ts","id":"01a05fd1-d430-7564-8721-434ab188698f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-player-equipment-constant/modules/eso-player-equipment-constant-pages/eso-player-equipment-constant-pages.module.ts","id":"01a0d62c-4624-7bf3-b478-830ca19d8e09"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/temper-eso-trait-map/properties/trait-id.one-of-property.ts","id":"01a05fd1-d43e-71b5-b24b-b39383044c71"}

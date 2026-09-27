@@ -9,4 +9,5 @@ export const waist = {
   icon: "/resources/gearslot_belt.png",
   displayOrder: 4,
   hashPlace: 4,
+  equipType: 8,
 } as const satisfies TemperArmorSlot

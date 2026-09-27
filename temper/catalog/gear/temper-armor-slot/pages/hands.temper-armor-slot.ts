@@ -9,4 +9,5 @@ export const hands = {
   icon: "/resources/gearslot_hands.png",
   displayOrder: 3,
   hashPlace: 3,
+  equipType: 13,
 } as const satisfies TemperArmorSlot

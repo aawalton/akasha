@@ -9,4 +9,5 @@ export const head = {
   icon: "/resources/gearslot_head.png",
   displayOrder: 0,
   hashPlace: 0,
+  equipType: 1,
 } as const satisfies TemperArmorSlot

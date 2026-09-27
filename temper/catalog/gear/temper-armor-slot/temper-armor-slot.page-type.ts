@@ -12,11 +12,16 @@ export const temperArmorSlot = {
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "text-property/icon", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
+    { pageProperty: "number-property/equip-type", required: true, many: false },
   ],
   decisions: [
     {
       decisionKind: "decision-kind/constraint",
       statement: "An armor slot's hash place is the order a build hash writes the slots in.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An armor slot states the equip type the game gives a piece worn there.",
     },
   ],
   types: "ts",

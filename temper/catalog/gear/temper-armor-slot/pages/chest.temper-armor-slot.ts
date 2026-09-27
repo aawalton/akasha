@@ -9,4 +9,5 @@ export const chest = {
   icon: "/resources/gearslot_chest.png",
   displayOrder: 2,
   hashPlace: 2,
+  equipType: 3,
 } as const satisfies TemperArmorSlot
