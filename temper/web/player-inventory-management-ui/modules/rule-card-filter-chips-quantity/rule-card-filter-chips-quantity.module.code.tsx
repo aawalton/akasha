@@ -10,12 +10,23 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { ALL_STOCKED_OPTIONS } from "akasha/temper/items/rules/core/modules/all-stocked-filter/all-stocked-filter.module.code.ts"
 import { KEEP_QUANTITY_OPTIONS } from "akasha/temper/items/rules/core/modules/keep-quantity-filter/keep-quantity-filter.module.code.ts"
-import { STOCK_THRESHOLD_OPTIONS } from "akasha/temper/items/rules/core/modules/stock-threshold-filter/stock-threshold-filter.module.code.ts"
+import { STOCK_THRESHOLD_COUNTS } from "akasha/temper/items/rules/core/modules/stock-threshold-filter/stock-threshold-filter.module.code.ts"
 import { TARGET_QUANTITY_OPTIONS } from "akasha/temper/items/rules/core/modules/target-quantity-filter/target-quantity-filter.module.code.ts"
 import { ComparisonOpPicker } from "akasha/temper/web/player-inventory-management-ui/modules/comparison-op-picker/comparison-op-picker.module.code.tsx"
 import { EditableTextValue } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-text/rule-card-filter-text.module.code.tsx"
+import {
+  phraseOf,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  titleOfFilter,
+  useConditionFieldTitles,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-field-titles/use-condition-field-titles.module.code.tsx"
+import {
+  optionsOf,
+  useConditionValueOptions,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-value-options/use-condition-value-options.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -99,6 +110,11 @@ export function RuleCardFilterChipQuantity({
     handleItemNamePatternChange,
     handleRemoveFilter,
   } = state
+  const titles = useConditionFieldTitles()
+  const values = useConditionValueOptions()
+  const phrases = useRuleCardPhrases()
+  if (titles === null || values === null || phrases === null) return null
+  const title = titleOfFilter(titles, id)
 
   switch (id) {
     case "all-stocked":
@@ -115,7 +131,7 @@ export function RuleCardFilterChipQuantity({
             </Badge>
           </SelectTrigger>
           <SelectContent>
-            {ALL_STOCKED_OPTIONS.map((opt) => (
+            {optionsOf(values, "all-stocked").map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -134,13 +150,13 @@ export function RuleCardFilterChipQuantity({
               onRemove={() => handleRemoveFilter("stock-threshold")}
               removeLabel="Remove stock threshold filter"
             >
-              Stock <SelectValue />
+              {phraseOf(phrases, "stock-threshold-prefix")} <SelectValue />
             </Badge>
           </SelectTrigger>
           <SelectContent>
-            {STOCK_THRESHOLD_OPTIONS.map((opt) => (
-              <SelectItem key={opt.value} value={opt.value}>
-                {opt.label}
+            {STOCK_THRESHOLD_COUNTS.map((count) => (
+              <SelectItem key={count} value={String(count)}>
+                {phraseOf(phrases, "count-per-character", { count: String(count) })}
               </SelectItem>
             ))}
           </SelectContent>
@@ -163,7 +179,7 @@ export function RuleCardFilterChipQuantity({
             format={(n) => n.toLocaleString("en-US")}
             onChange={(n) => handleValueChange(String(n))}
           />{" "}
-          Value
+          {title}
         </Badge>
       )
 
@@ -185,7 +201,7 @@ export function RuleCardFilterChipQuantity({
             format={(n) => n.toLocaleString("en-US")}
             onChange={(n) => handleMarketValueChange(String(n))}
           />{" "}
-          Market Value
+          {title}
         </Badge>
       )
 
@@ -207,7 +223,7 @@ export function RuleCardFilterChipQuantity({
             format={(n) => n.toLocaleString("en-US")}
             onChange={(n) => handleMerchantValueChange(String(n))}
           />{" "}
-          Merchant Value
+          {title}
         </Badge>
       )
 
@@ -232,7 +248,7 @@ export function RuleCardFilterChipQuantity({
             format={(n) => n.toLocaleString("en-US")}
             onChange={(n) => handleReplacementValueChange(String(n))}
           />{" "}
-          Replacement Value
+          {title}
         </Badge>
       )
 
@@ -246,7 +262,7 @@ export function RuleCardFilterChipQuantity({
               onRemove={() => handleRemoveFilter("keep-quantity")}
               removeLabel="Remove keep quantity filter"
             >
-              Keep <SelectValue />
+              {title} <SelectValue />
             </Badge>
           </SelectTrigger>
           <SelectContent>
@@ -269,7 +285,7 @@ export function RuleCardFilterChipQuantity({
               onRemove={() => handleRemoveFilter("target-quantity")}
               removeLabel="Remove target quantity filter"
             >
-              Target <SelectValue />
+              {title} <SelectValue />
             </Badge>
           </SelectTrigger>
           <SelectContent>

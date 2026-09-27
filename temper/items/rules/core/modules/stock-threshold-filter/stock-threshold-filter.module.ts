@@ -4,7 +4,7 @@ export const stockThresholdFilter = {
   id: "01a06100-3bff-73e7-85b6-9e125fd40021",
   type: "page-type/module",
   slug: "stock-threshold-filter",
-  definition: "the Stock Threshold condition a rule may carry, as the rule editor offers it",
+  definition: "the `stockThreshold` condition a rule may carry, as the rule editor offers it",
   code: "ts",
   decisions: [
     {
@@ -14,6 +14,10 @@ export const stockThresholdFilter = {
     {
       decisionKind: "decision-kind/departure",
       statement: "This filter is shown under its condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter offers counts alone, and a rule card phrase words each count.",
     },
   ],
 } as const satisfies Module

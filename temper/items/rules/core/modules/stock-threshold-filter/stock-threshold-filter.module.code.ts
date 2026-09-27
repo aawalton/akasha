@@ -1,17 +1,7 @@
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type {
-  FilterOption,
-  InventoryRuleFilter,
-} from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
+import type { InventoryRuleFilter } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 
-export const STOCK_THRESHOLD_OPTIONS: FilterOption[] = [
-  { value: "10", label: "10 per character" },
-  { value: "25", label: "25 per character" },
-  { value: "50", label: "50 per character" },
-  { value: "100", label: "100 per character" },
-  { value: "200", label: "200 per character" },
-  { value: "500", label: "500 per character" },
-]
+export const STOCK_THRESHOLD_COUNTS: readonly number[] = [10, 25, 50, 100, 200, 500]
 
 const read = (c: CategoryRule["conditions"]) => c?.stockThreshold
 

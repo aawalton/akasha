@@ -6,4 +6,14 @@ export const ruleCardFilterChipsQuantity = {
   slug: "rule-card-filter-chips-quantity",
   definition: "the chip narrowing a rule by how many of an item a player has",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chip names its filter by the condition field page's title.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The stock threshold chip words its counts with rule card phrases.",
+    },
+  ],
 } as const satisfies Module
