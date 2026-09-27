@@ -1,16 +1,8 @@
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
-import type {
-  FilterOption,
-  InventoryRuleFilter,
-} from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
+import type { InventoryRuleFilter } from "akasha/temper/items/rules/core/modules/rule-filter-types/rule-filter-types.module.code.ts"
 import { checkAncestorRoots } from "akasha/temper/items/rules/core/modules/rule-filter-utils/rule-filter-utils.module.code.ts"
 
 const TRANSMUTED_ELIGIBLE_ROOTS = new Set(["equipment"])
-
-export const TRANSMUTED_OPTIONS: FilterOption[] = [
-  { value: "transmuted", label: "Is Transmuted" },
-  { value: "not-transmuted", label: "Is Not Transmuted" },
-]
 
 const read = (c: CategoryRule["conditions"]) => c?.transmuted
 

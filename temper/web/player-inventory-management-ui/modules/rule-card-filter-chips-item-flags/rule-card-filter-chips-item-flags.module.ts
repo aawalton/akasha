@@ -6,4 +6,11 @@ export const ruleCardFilterChipsItemFlags = {
   slug: "rule-card-filter-chips-item-flags",
   definition: "the chips narrowing a rule by the flags an item has",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A chip's options are its condition field's value pages, and none is drawn before.",
+    },
+  ],
 } as const satisfies Module

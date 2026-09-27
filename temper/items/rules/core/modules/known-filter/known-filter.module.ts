@@ -20,5 +20,9 @@ export const knownFilter = {
       decisionKind: "decision-kind/departure",
       statement: "This filter is shown under its condition field page's title.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "This filter's options are its condition field's value pages.",
+    },
   ],
 } as const satisfies Module

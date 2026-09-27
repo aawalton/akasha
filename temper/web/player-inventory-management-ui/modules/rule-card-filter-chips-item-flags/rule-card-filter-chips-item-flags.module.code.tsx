@@ -9,9 +9,10 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { KNOWN_OPTIONS } from "akasha/temper/items/rules/core/modules/known-filter/known-filter.module.code.ts"
-import { RECONSTRUCTED_OPTIONS } from "akasha/temper/items/rules/core/modules/reconstructed-filter/reconstructed-filter.module.code.ts"
-import { TRANSMUTED_OPTIONS } from "akasha/temper/items/rules/core/modules/transmuted-filter/transmuted-filter.module.code.ts"
+import {
+  optionsOf,
+  useConditionValueOptions,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-value-options/use-condition-value-options.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
 import type { ReactNode } from "react"
 
@@ -43,6 +44,9 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
     handleKnownChange,
     handleRemoveFilter,
   } = state
+  const values = useConditionValueOptions()
+  if (values === null) return null
+  const options = optionsOf(values, id)
 
   switch (id) {
     case "reconstructed":
@@ -59,7 +63,7 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
             </Badge>
           </SelectTrigger>
           <SelectContent>
-            {RECONSTRUCTED_OPTIONS.map((opt) => (
+            {options.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -82,7 +86,7 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
             </Badge>
           </SelectTrigger>
           <SelectContent>
-            {TRANSMUTED_OPTIONS.map((opt) => (
+            {options.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -105,7 +109,7 @@ export function ItemFlagChip({ id, state }: ItemFlagChipProps): ReactNode {
             </Badge>
           </SelectTrigger>
           <SelectContent>
-            {KNOWN_OPTIONS.map((opt) => (
+            {options.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
