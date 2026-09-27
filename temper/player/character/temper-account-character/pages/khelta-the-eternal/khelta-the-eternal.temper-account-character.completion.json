@@ -6680,7 +6680,7 @@
     }
   },
   "companionRapport": {
-    "6": 2147,
+    "6": 2272,
     "13": 817
   },
   "quests": [
@@ -13198,6 +13198,6 @@
   },
   "inventoryCheck": {
     "date": "2026-09-27",
-    "misplaced": 11
+    "misplaced": 15
   }
 }
