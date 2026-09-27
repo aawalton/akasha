@@ -4995,6 +4995,8 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/category/temper-effect-category.page-type.ts","id":"01a0df69-212e-7ce1-bdda-e135f0650bde"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-buff-major/properties/effect-category.text-property.ts","id":"01a0def7-2c25-794a-ac11-70dbe1ddb8fd"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-curse/properties/eso-curse-ids.number-property.ts","id":"01a05fc5-94cd-7c97-9330-6c78011127fa"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-special-effect-type/modules/special-effect-type-ids-keeping/special-effect-type-ids-keeping.change-generator.ts","id":"01a0e0b7-5e01-7336-94de-5abca5d25946"}
+{"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-special-effect-type/modules/special-effect-type-ids/special-effect-type-ids.data-table.ts","id":"01a0e0b7-5e01-7e18-8b83-ef3f18c975d9"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids-keeping/status-effect-type-ids-keeping.change-generator.ts","id":"01a0e0b6-d3f0-78a8-b6a6-785c6a76b5a1"}
 {"propertySlug":"decision-kind","path":"temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids/status-effect-type-ids.data-table.ts","id":"01a0e0b6-d3f1-73ff-9c48-368add0ffd40"}
 {"propertySlug":"decision-kind","path":"temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.ts","id":"01a060b8-08c6-7141-8b6e-044cf34927d5"}

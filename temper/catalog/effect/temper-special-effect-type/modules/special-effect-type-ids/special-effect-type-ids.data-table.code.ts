@@ -1,0 +1,11 @@
+export type SpecialEffectType =
+  | "become-invisible"
+  | "block-all"
+  | "cleanse"
+  | "create-corpse"
+  | "dodge-next-attack"
+  | "heal-to-full"
+  | "ignore-resistance"
+  | "interrupt"
+  | "pull-to-caster"
+  | "reflect-all"

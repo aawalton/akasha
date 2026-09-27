@@ -7,6 +7,7 @@ export const temperSpecialEffectType = {
   definition: "a kind of effect written as an act rather than as a number",
   extends: ["page-type/temper-catalog-thing"],
   properties: [{ pageProperty: "text-property/key", required: true, many: false }],
+  parts: ["change-generator/special-effect-type-ids-keeping", "data-table/special-effect-type-ids"],
   types: "ts",
   schema: "jsonl",
 } as const satisfies PageType
