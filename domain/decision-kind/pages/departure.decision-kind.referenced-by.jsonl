@@ -6388,6 +6388,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/phrase/temper-web-phrase.page-type.ts","id":"01a0e299-6ed9-7114-a745-1830d563ab9f"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.ts","id":"01a06270-883d-7000-98b7-a23674b65603"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.ts","id":"01a06270-883d-7001-a3e2-19a44697e51c"}
+{"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/completion-category-badges/completion-category-badges.module.ts","id":"01a0e2cd-f697-74ce-9ed9-4c2a21c19258"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.ts","id":"01a06267-372c-7002-bf32-c613086380b1"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.ts","id":"01a06363-f687-70fb-8023-b311dc463a1b"}
 {"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/companion-gear-by-companion-panel-card/companion-gear-by-companion-panel-card.module.ts","id":"01a063a1-8cc1-7000-b772-229eab01131b"}

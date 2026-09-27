@@ -1,19 +1,16 @@
 "use client"
 
-import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { PanelCard } from "akasha/design/interface/layout/modules/panel-card/panel-card.module.code.tsx"
 import { buildNodePath } from "akasha/design/interface/pattern/modules/path/path.module.code.ts"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import { StatRow } from "akasha/design/interface/pattern/modules/stat-row/stat-row.module.code.tsx"
 import { useSetToggle } from "akasha/design/interface/pattern/modules/use-set-toggle/use-set-toggle.module.code.ts"
-import {
-  ACTIVITY_CATEGORIES,
-  type ActivityCategoryId,
-} from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
+import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 import { completionPercent } from "akasha/temper/player/completion/temper-player-completion/modules/completion-percent/completion-percent.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { completionPanelCardTotal } from "akasha/temper/web/phrase/pages/completion-panel-card-total.temper-web-phrase.ts"
 import { useCompletionActivityMode } from "akasha/temper/web/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
+import { CompletionCategoryBadges } from "akasha/temper/web/player-completion-ui/modules/completion-category-badges/completion-category-badges.module.code.tsx"
 import { useCompletionSearch } from "akasha/temper/web/player-completion-ui/modules/completion-search-context/completion-search-context.module.code.tsx"
 import { CheckIcon, MinusIcon } from "lucide-react"
 import type { ReactNode } from "react"
@@ -350,18 +347,7 @@ export function CompletionPanelCard({
 
     const debugLabel =
       debugMode && node.activityCategories && node.activityCategories.length > 0 ? (
-        <span className="flex flex-wrap items-center gap-1.5">
-          <span>{node.label}</span>
-          {node.activityCategories.map((cat) => (
-            <Badge
-              key={cat}
-              variant={ACTIVITY_CATEGORIES.data[cat].badgeVariant}
-              className="text-[10px]"
-            >
-              {ACTIVITY_CATEGORIES.data[cat].name}
-            </Badge>
-          ))}
-        </span>
+        <CompletionCategoryBadges label={node.label} categories={node.activityCategories} />
       ) : (
         node.label
       )

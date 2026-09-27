@@ -6448,6 +6448,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-completion-ui/modules/completion-category-badges/completion-category-badges.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-completion-ui/modules/completion-search-context/completion-search-context.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.ts","typed":true,"deferred":false}

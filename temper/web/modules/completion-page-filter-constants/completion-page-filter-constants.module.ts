@@ -12,5 +12,9 @@ export const completionPageFilterConstants = {
       statement:
         "Status and sort names are web phrase pages; skill type names are the skill type pages'.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An activity category filter is named by the keyed title its page holds.",
+    },
   ],
 } as const satisfies Module

@@ -10,6 +10,7 @@ export const temperPlayerCompletionUi = {
     "module/completion-panel-card",
     "module/completion-search-context",
     "module/use-completion",
+    "module/completion-category-badges",
   ],
   decisions: [
     {

@@ -11,5 +11,9 @@ export const completionPageContent = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Activity category names are read from the activity category pages.",
+    },
   ],
 } as const satisfies Module

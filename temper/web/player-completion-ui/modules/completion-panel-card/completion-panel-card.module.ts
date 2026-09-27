@@ -23,5 +23,9 @@ export const completionPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The total row's label is read from a web phrase page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A row in debug mode hands its categories to the completion category badges.",
+    },
   ],
 } as const satisfies Module

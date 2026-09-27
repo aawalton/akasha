@@ -30,10 +30,10 @@ import { CompletionCharactersTab } from "akasha/temper/web/modules/completion-ch
 import { CompletionCompanionsTab } from "akasha/temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx"
 import { CompletionPageEmpty } from "akasha/temper/web/modules/completion-page-empty/completion-page-empty.module.code.tsx"
 import {
-  buildActivityItems,
   SKILL_TYPE_ITEMS,
   sortOptions,
   statusItems,
+  useActivityItems,
   VALID_TABS,
 } from "akasha/temper/web/modules/completion-page-filter-constants/completion-page-filter-constants.module.code.ts"
 import { CompletionPageOwnEmpty } from "akasha/temper/web/modules/completion-page-own-empty/completion-page-own-empty.module.code.tsx"
@@ -190,7 +190,7 @@ export function CompletionPageContent({
     label: phrase(completionPageContentToggleDebug.slug),
     onTrigger: toggleDebug,
   })
-  const activityItems = useMemo(() => buildActivityItems(values.debug), [values.debug])
+  const activityItems = useActivityItems(values.debug)
 
   const selectedActivity = useMemo(
     () => activityItems.filter((a) => values.activity.includes(a.value)),

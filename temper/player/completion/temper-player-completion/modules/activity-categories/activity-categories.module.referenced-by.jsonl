@@ -46,5 +46,6 @@
 {"propertySlug":"import","fileName":"activity-categories.module.code.ts","path":"temper/web/modules/zone-completion-progress-panel-card/zone-completion-progress-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"activity-categories.module.code.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/skill-morphs-progress-panel-card/skill-morphs-progress-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"activity-categories.module.code.ts","path":"temper/web/player-completion-skills-morphs-ui/modules/subclassing-skill-morphs-panel-card/subclassing-skill-morphs-panel-card.module.code.tsx","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"activity-categories.module.code.ts","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"activity-categories.module.code.ts","path":"temper/web/player-completion-ui/modules/completion-category-badges/completion-category-badges.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"activity-categories.module.code.ts","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/completion/temper-player-completion/temper-player-completion.domain.ts","id":"01a06103-061c-7f39-82ee-5a83ddec0f3d"}
