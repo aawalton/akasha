@@ -22,7 +22,15 @@ export const recipientResolverRegistry = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Each of a game's two seats is started by a notice that a turn moved.",
+      statement: "A game with a world builder seat has a writer seat as well.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each of a game's three seats is started by a notice that a turn moved.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A writer seat is started by that notice alone.",
     },
     {
       decisionKind: "decision-kind/departure",

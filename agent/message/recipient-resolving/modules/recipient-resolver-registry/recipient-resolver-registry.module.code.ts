@@ -34,6 +34,8 @@ const GAME_MASTER = "game-master"
 
 const WORLD_BUILDER = "world-builder"
 
+const WRITER = "writer"
+
 const GAME_SEAT_TOKEN_THRESHOLD = 150_000
 
 interface GameSeats {
@@ -41,6 +43,7 @@ interface GameSeats {
   readonly master: string
   readonly persona: string | null
   readonly builder: string | null
+  readonly writer: string | null
 }
 
 function seatOf(persona: string, role: string, game: string, root: string): string | null {
@@ -65,7 +68,8 @@ export function gameSeatsIn(root: string): readonly GameSeats[] {
     if (typeof game !== "string" || typeof master !== "string" || master === "") continue
     const persona = personaOf(master, game, root)
     const builder = persona === null ? null : seatOf(persona, WORLD_BUILDER, game, root)
-    found.push({ game, master, persona, builder })
+    const writer = persona === null ? null : seatOf(persona, WRITER, game, root)
+    found.push({ game, master, persona, builder, writer })
   }
   return found
 }
@@ -97,28 +101,37 @@ function gameSeatSpec(
 }
 
 export function gameSeatSpecs(seats: readonly GameSeats[]): readonly OnDemandAgentSpec[] {
-  return seats.flatMap(({ game, master, persona, builder }) => {
+  return seats.flatMap(({ game, master, persona, builder, writer }) => {
     const startAs = (role: string): FirstStart | null =>
       persona === null ? null : { persona, role, domain: game, principal: ACTION_BAR_PLAYER }
     const bar = heardFrom(master, ACTION_BAR_SENDER, "action-bar")
     const noticed = heardFrom(master, TURN_SENDER, TURN_SENDER)
-    if (builder === null) {
-      return [gameSeatSpec(master, game, [bar, noticed], startAs(GAME_MASTER))]
-    }
-    return [
+    const specs = [
       gameSeatSpec(
         master,
         game,
-        [bar, noticed, heardFrom(master, builder, WORLD_BUILDER)],
+        builder === null
+          ? [bar, noticed]
+          : [bar, noticed, heardFrom(master, builder, WORLD_BUILDER)],
         startAs(GAME_MASTER)
       ),
-      gameSeatSpec(
-        builder,
-        game,
-        [heardFrom(builder, master, GAME_MASTER), heardFrom(builder, TURN_SENDER, TURN_SENDER)],
-        startAs(WORLD_BUILDER)
-      ),
     ]
+    if (builder !== null) {
+      specs.push(
+        gameSeatSpec(
+          builder,
+          game,
+          [heardFrom(builder, master, GAME_MASTER), heardFrom(builder, TURN_SENDER, TURN_SENDER)],
+          startAs(WORLD_BUILDER)
+        )
+      )
+    }
+    if (writer !== null) {
+      specs.push(
+        gameSeatSpec(writer, game, [heardFrom(writer, TURN_SENDER, TURN_SENDER)], startAs(WRITER))
+      )
+    }
+    return specs
   })
 }
 

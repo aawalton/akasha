@@ -20,6 +20,8 @@ const MASTER = theTower.coordinatorAgent
 
 const BUILDER = "iris-world-builder-the-tower"
 
+const WRITER = "iris-writer-the-tower"
+
 function towerSpecs() {
   return gameSeatSpecs(gameSeatsIn(ROOT).filter((one) => one.game === theTower.slug))
 }
@@ -30,8 +32,8 @@ function heard(name: string, sender: string): boolean {
   return spec.wakeSources.some((rule) => ruleMatches(rule, { sender, content: "" }))
 }
 
-test("the tower's game master seat and its world builder seat each have a spec", () => {
-  expect(towerSpecs().map((one) => one.name)).toEqual([MASTER, BUILDER])
+test("the tower's game master, world builder and writer seats each have a spec", () => {
+  expect(towerSpecs().map((one) => one.name)).toEqual([MASTER, BUILDER, WRITER])
 })
 
 test("the game master seat is started by the action bar and by its world builder", () => {
@@ -45,9 +47,15 @@ test("the world builder seat is started by its game master, and never by the act
   expect(heard(BUILDER, `agent:${ACTION_BAR_SENDER}`)).toBe(false)
 })
 
-test("both game seats are started by a notice that a turn moved", () => {
+test("every game seat is started by a notice that a turn moved", () => {
   expect(heard(MASTER, `agent:${TURN_SENDER}`)).toBe(true)
   expect(heard(BUILDER, `agent:${TURN_SENDER}`)).toBe(true)
+  expect(heard(WRITER, `agent:${TURN_SENDER}`)).toBe(true)
+})
+
+test("the writer seat is started by a notice alone, never by the action bar or the game master", () => {
+  expect(heard(WRITER, `agent:${ACTION_BAR_SENDER}`)).toBe(false)
+  expect(heard(WRITER, `agent:${MASTER}`)).toBe(false)
 })
 
 test("a game seat that never ran is started as its persona, role and game, for the player", () => {
@@ -55,11 +63,14 @@ test("a game seat that never ran is started as its persona, role and game, for t
   expect(starts).toEqual([
     { persona: "iris", role: "game-master", domain: theTower.slug, principal: ACTION_BAR_PLAYER },
     { persona: "iris", role: "world-builder", domain: theTower.slug, principal: ACTION_BAR_PLAYER },
+    { persona: "iris", role: "writer", domain: theTower.slug, principal: ACTION_BAR_PLAYER },
   ])
 })
 
 test("a game master named by no persona and game is started by nothing when it never ran", () => {
-  const specs = gameSeatSpecs([{ game: "a-game", master: "a-seat", persona: null, builder: null }])
+  const specs = gameSeatSpecs([
+    { game: "a-game", master: "a-seat", persona: null, builder: null, writer: null },
+  ])
   expect(specs.map((one) => one.firstStart)).toEqual([undefined])
 })
 
