@@ -1,11 +1,6 @@
-import {
-  heldWebPhrases,
-  phraseIn,
-} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
-import { versionActionsFetchFailed } from "akasha/temper/web/phrase/pages/version-actions-fetch-failed.temper-web-phrase.ts"
-import { versionActionsFetchFailedStatus } from "akasha/temper/web/phrase/pages/version-actions-fetch-failed-status.temper-web-phrase.ts"
-import { versionActionsUnknownError } from "akasha/temper/web/phrase/pages/version-actions-unknown-error.temper-web-phrase.ts"
 import { z } from "zod"
+
+export type VersionsFailure = "signed-out" | "unread"
 
 interface CharacterVersion {
   id: string
@@ -27,14 +22,11 @@ const characterVersionSchema = z.object({
   buildMetadata: z.record(z.string(), z.unknown()),
 })
 
-const responseSchema = z.union([
-  z.object({ versions: z.array(characterVersionSchema) }),
-  z.object({ error: z.string() }),
-])
+const responseSchema = z.object({ versions: z.array(characterVersionSchema) })
 
 export async function getCharacterVersions(
   buildSlug: string
-): Promise<{ versions: CharacterVersion[] } | { error: string }> {
+): Promise<{ versions: CharacterVersion[] } | { failure: VersionsFailure }> {
   try {
     const response = await fetch(`/api/character-versions/${encodeURIComponent(buildSlug)}`, {
       method: "GET",
@@ -42,17 +34,14 @@ export async function getCharacterVersions(
       headers: { Accept: "application/json" },
     })
     if (!response.ok) {
-      return {
-        error: phraseIn(heldWebPhrases(), versionActionsFetchFailedStatus.slug, {
-          status: response.status,
-        }),
-      }
+      console.error(
+        `[version-actions] the versions of ${buildSlug} answered HTTP ${response.status}`
+      )
+      return { failure: response.status === 401 ? "signed-out" : "unread" }
     }
     return responseSchema.parse(await response.json())
   } catch (err) {
-    const phrases = heldWebPhrases()
-    const reason =
-      err instanceof Error ? err.message : phraseIn(phrases, versionActionsUnknownError.slug)
-    return { error: phraseIn(phrases, versionActionsFetchFailed.slug, { reason }) }
+    console.error(`[version-actions] reading the versions of ${buildSlug} failed:`, err)
+    return { failure: "unread" }
   }
 }

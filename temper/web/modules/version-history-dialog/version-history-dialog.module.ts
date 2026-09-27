@@ -37,5 +37,9 @@ export const versionHistoryDialog = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A failure is worded by its kind, and the error behind it goes to the console.",
+    },
   ],
 } as const satisfies Module

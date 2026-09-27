@@ -1,10 +1,4 @@
-import {
-  heldWebPhrases,
-  phraseIn,
-} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
-import { companionVersionActionsFetchFailed } from "akasha/temper/web/phrase/pages/companion-version-actions-fetch-failed.temper-web-phrase.ts"
-import { companionVersionActionsFetchFailedStatus } from "akasha/temper/web/phrase/pages/companion-version-actions-fetch-failed-status.temper-web-phrase.ts"
-import { companionVersionActionsUnknownError } from "akasha/temper/web/phrase/pages/companion-version-actions-unknown-error.temper-web-phrase.ts"
+import type { VersionsFailure } from "akasha/temper/web/modules/version-actions/version-actions.module.code.ts"
 import { z } from "zod"
 
 interface CompanionVersion {
@@ -27,14 +21,11 @@ const companionVersionSchema = z.object({
   buildMetadata: z.record(z.string(), z.unknown()),
 })
 
-const responseSchema = z.union([
-  z.object({ versions: z.array(companionVersionSchema) }),
-  z.object({ error: z.string() }),
-])
+const responseSchema = z.object({ versions: z.array(companionVersionSchema) })
 
 export async function getCompanionVersions(
   buildSlug: string
-): Promise<{ versions: CompanionVersion[] } | { error: string }> {
+): Promise<{ versions: CompanionVersion[] } | { failure: VersionsFailure }> {
   try {
     const response = await fetch(`/api/companion-versions/${encodeURIComponent(buildSlug)}`, {
       method: "GET",
@@ -42,19 +33,14 @@ export async function getCompanionVersions(
       headers: { Accept: "application/json" },
     })
     if (!response.ok) {
-      return {
-        error: phraseIn(heldWebPhrases(), companionVersionActionsFetchFailedStatus.slug, {
-          status: response.status,
-        }),
-      }
+      console.error(
+        `[companion-version-actions] the versions of ${buildSlug} answered HTTP ${response.status}`
+      )
+      return { failure: response.status === 401 ? "signed-out" : "unread" }
     }
     return responseSchema.parse(await response.json())
   } catch (err) {
-    const phrases = heldWebPhrases()
-    const reason =
-      err instanceof Error
-        ? err.message
-        : phraseIn(phrases, companionVersionActionsUnknownError.slug)
-    return { error: phraseIn(phrases, companionVersionActionsFetchFailed.slug, { reason }) }
+    console.error(`[companion-version-actions] reading the versions of ${buildSlug} failed:`, err)
+    return { failure: "unread" }
   }
 }

@@ -30,12 +30,14 @@ import {
 import { RestoreConfirmDialog } from "akasha/temper/web/modules/restore-confirm-dialog/restore-confirm-dialog.module.code.tsx"
 import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import type { VersionsFailure } from "akasha/temper/web/modules/version-actions/version-actions.module.code.ts"
 import {
   type BuildVersion,
   VersionItem,
 } from "akasha/temper/web/modules/version-history-item/version-history-item.module.code.tsx"
 import { versionHistoryDialogAccountNotLoaded } from "akasha/temper/web/phrase/pages/version-history-dialog-account-not-loaded.temper-web-phrase.ts"
 import { versionHistoryDialogAutoSaved } from "akasha/temper/web/phrase/pages/version-history-dialog-auto-saved.temper-web-phrase.ts"
+import { versionHistoryDialogBuildUnread } from "akasha/temper/web/phrase/pages/version-history-dialog-build-unread.temper-web-phrase.ts"
 import { versionHistoryDialogCheckpointCreated } from "akasha/temper/web/phrase/pages/version-history-dialog-checkpoint-created.temper-web-phrase.ts"
 import { versionHistoryDialogCheckpointFailed } from "akasha/temper/web/phrase/pages/version-history-dialog-checkpoint-failed.temper-web-phrase.ts"
 import { versionHistoryDialogCheckpoints } from "akasha/temper/web/phrase/pages/version-history-dialog-checkpoints.temper-web-phrase.ts"
@@ -47,6 +49,8 @@ import { versionHistoryDialogNamePlaceholder } from "akasha/temper/web/phrase/pa
 import { versionHistoryDialogRestoreFailed } from "akasha/temper/web/phrase/pages/version-history-dialog-restore-failed.temper-web-phrase.ts"
 import { versionHistoryDialogRestored } from "akasha/temper/web/phrase/pages/version-history-dialog-restored.temper-web-phrase.ts"
 import { versionHistoryDialogSave } from "akasha/temper/web/phrase/pages/version-history-dialog-save.temper-web-phrase.ts"
+import { versionHistoryDialogSignedOut } from "akasha/temper/web/phrase/pages/version-history-dialog-signed-out.temper-web-phrase.ts"
+import { versionHistoryDialogVersionsUnread } from "akasha/temper/web/phrase/pages/version-history-dialog-versions-unread.temper-web-phrase.ts"
 import { versionHistoryDialogWaiting } from "akasha/temper/web/phrase/pages/version-history-dialog-waiting.temper-web-phrase.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 import { toast } from "sonner"
@@ -63,7 +67,7 @@ interface VersionHistoryDialogProps {
   buildMetadata: Record<string, unknown>
   loadVersions: (
     buildSlug: string
-  ) => Promise<{ versions: readonly BuildVersion[] } | { error: string }>
+  ) => Promise<{ versions: readonly BuildVersion[] } | { failure: VersionsFailure }>
   onVersionRestored?: () => void
 }
 
@@ -142,14 +146,20 @@ export function VersionHistoryDialog({
     setIsLoading(true)
     const result = await loadVersions(buildSlug)
 
-    if ("error" in result) {
-      toast.error(result.error)
+    if ("failure" in result) {
+      toast.error(
+        phrase(
+          result.failure === "signed-out"
+            ? versionHistoryDialogSignedOut.slug
+            : versionHistoryDialogVersionsUnread.slug
+        )
+      )
     } else {
       setVersions(result.versions)
     }
 
     setIsLoading(false)
-  }, [buildSlug, loadVersions])
+  }, [buildSlug, loadVersions, phrase])
 
   useEffect(() => {
     if (open) {
@@ -162,7 +172,15 @@ export function VersionHistoryDialog({
       toast.error(phrase(versionHistoryDialogNameMissing.slug))
       return
     }
-    if (userId != null && accountPage == null) {
+    if (userId == null) {
+      toast.error(phrase(versionHistoryDialogSignedOut.slug))
+      return
+    }
+    if (buildSlug == null) {
+      toast.error(phrase(versionHistoryDialogBuildUnread.slug))
+      return
+    }
+    if (accountPage == null) {
       setIsWaitingForAccount(true)
       return
     }
@@ -175,9 +193,8 @@ export function VersionHistoryDialog({
       setCheckpointName("")
       fetchVersions()
     } catch (error) {
-      toast.error(
-        error instanceof Error ? error.message : phrase(versionHistoryDialogCheckpointFailed.slug)
-      )
+      console.error("[version-history-dialog] saving the checkpoint failed:", error)
+      toast.error(phrase(versionHistoryDialogCheckpointFailed.slug))
     }
     setIsCreatingCheckpoint(false)
   }
@@ -217,9 +234,8 @@ export function VersionHistoryDialog({
       onVersionRestored?.()
       onOpenChange(false)
     } catch (error) {
-      toast.error(
-        error instanceof Error ? error.message : phrase(versionHistoryDialogRestoreFailed.slug)
-      )
+      console.error("[version-history-dialog] restoring the version failed:", error)
+      toast.error(phrase(versionHistoryDialogRestoreFailed.slug))
     }
     setIsRestoring(false)
     setShowRestoreConfirm(false)
