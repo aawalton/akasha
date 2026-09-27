@@ -1,3 +1,3 @@
 {"id":"01a0e0cb-e79b-76ef-888c-184415c7f677","title":"Sleep","startedAt":"2026-09-27T03:00:00.000Z","dailyTracking":"01a0e24e-b004-7000-a919-934ed207d5c7","endedAt":"2026-09-27T12:30:00.000Z","safetyLevel":"3","difficultyLevel":"0"}
-{"id":"01a0e2e4-dff0-7e75-a295-2cbdf053d6f7","title":"Hygiene","startedAt":"2026-09-27T12:30:00.000Z","dailyTracking":"01a0e24e-b004-7000-a919-934ed207d5c7","safetyLevel":"3","difficultyLevel":"1","endedAt":"2026-09-27T12:35:00.000Z"}
-{"id":"01a0e2e4-ea10-7cb9-bc8f-7a52e9dce086","title":"Projects","startedAt":"2026-09-27T12:35:00.000Z","dailyTracking":"01a0e24e-b004-7000-a919-934ed207d5c7","safetyLevel":"3","difficultyLevel":"2"}
+{"id":"01a0e2e4-dff0-7e75-a295-2cbdf053d6f7","title":"Hygiene","startedAt":"2026-09-27T12:30:00.000Z","dailyTracking":"01a0e24e-b004-7000-a919-934ed207d5c7","endedAt":"2026-09-27T12:35:00.000Z","safetyLevel":"3","difficultyLevel":"1"}
+{"id":"01a0e2e4-ea10-7cb9-bc8f-7a52e9dce086","title":"Projects","startedAt":"2026-09-27T12:35:00.000Z","dailyTracking":"01a0e24e-b004-7000-a919-934ed207d5c7","safetyLevel":"4","difficultyLevel":"2"}
