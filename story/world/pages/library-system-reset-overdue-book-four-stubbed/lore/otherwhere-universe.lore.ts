@@ -122,7 +122,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "The Library keeps no character sheet; what it shows of a person is what it knows of her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Night owls are the Library's owls, who need bookworm-fed magical quills.",
