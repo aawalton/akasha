@@ -43,7 +43,7 @@ test("breaking the glass runs no check", async () => {
 test("a body that lands is recorded as read, so writing over it again is not refused", async () => {
   const root = repoWith()
   expect((await wrote(root, ["--message", "held"])).code).toBe(OK)
-  const again = put(root, "again.txt", "written twice\n")
+  const again = put(root, "again.txt", 'export const twice = "written twice"\n')
   const said = await landedFrom(
     ["--file-path", "akasha/two.ts", "--content-file", again],
     givenIn(root)
