@@ -16,6 +16,7 @@ const SETTLE_MS = 50
 
 interface Watch {
   readonly stop: () => void
+  readonly offerAgain: (id: string) => void
 }
 
 export function watchMessagesTo(
@@ -80,6 +81,10 @@ export function watchMessagesTo(
     stop: (): undefined => {
       clearInterval(backstop)
       watcher?.close()
+    },
+    offerAgain: (id: string): undefined => {
+      offered.delete(id)
+      wake()
     },
   }
 }
