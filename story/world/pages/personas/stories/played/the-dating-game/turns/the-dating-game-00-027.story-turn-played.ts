@@ -27,5 +27,6 @@ export const theDatingGame00027 = {
   ],
   issues: ['"her gold eyes rest on you a moment, unhurried" - No Prompt'],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T19:15:00.000Z",
 } as const satisfies StoryTurnPlayed
