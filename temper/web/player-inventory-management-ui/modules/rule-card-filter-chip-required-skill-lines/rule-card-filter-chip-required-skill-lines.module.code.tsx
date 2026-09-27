@@ -18,10 +18,23 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
-import type { RequiredSkillLinesCondition } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
-import { useRemoveFilterLabel } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  phraseOf,
+  useRemoveFilterLabel,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  optionsOf,
+  useConditionValueOptions,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-value-options/use-condition-value-options.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
+import { countSkillLine } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/count-skill-line.temper-rule-card-phrase.ts"
+import { countSkillLines } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/count-skill-lines.temper-rule-card-phrase.ts"
+import { modeHeading } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/mode-heading.temper-rule-card-phrase.ts"
+import { selectSkillLines } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/select-skill-lines.temper-rule-card-phrase.ts"
+import { skillLinesHeading } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/skill-lines-heading.temper-rule-card-phrase.ts"
 import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
@@ -44,10 +57,7 @@ export function skillLineOptions(): readonly BadgeToggleGroupItem[] {
     .map((sl) => ({ value: sl.id, label: sl.name }))
 }
 
-const MODE_OPTIONS: readonly { value: RequiredSkillLinesCondition["mode"]; label: string }[] = [
-  { value: "all-maxed", label: "all maxed" },
-  { value: "any-not-maxed", label: "any below max" },
-]
+const MODE_FIELD = "required-skill-lines"
 
 export function RuleCardFilterChipRequiredSkillLines({
   state,
@@ -60,15 +70,22 @@ export function RuleCardFilterChipRequiredSkillLines({
   } = state
   const options = skillLineOptions()
   const removeLabel = useRemoveFilterLabel()
+  const phrases = useRuleCardPhrases()
+  const values = useConditionValueOptions()
+  const modeOptions = values === null ? [] : optionsOf(values, MODE_FIELD)
 
   const selectedItems: readonly BadgeToggleGroupItem[] = requiredSkillLinesValue.skillLineIds
     .map((id) => options.find((o) => o.value === id))
     .filter((opt): opt is BadgeToggleGroupItem => opt !== undefined)
 
   const triggerLabel =
-    selectedItems.length === 0
-      ? "Select Skill Lines"
-      : `${selectedItems.length} Skill Line${selectedItems.length === 1 ? "" : "s"}`
+    phrases === null
+      ? ""
+      : selectedItems.length === 0
+        ? titleIn(phrases, selectSkillLines.key)
+        : phraseOf(phrases, selectedItems.length === 1 ? countSkillLine.key : countSkillLines.key, {
+            count: String(selectedItems.length),
+          })
 
   return (
     <Popover>
@@ -85,7 +102,7 @@ export function RuleCardFilterChipRequiredSkillLines({
             {selectedItems.length > 0 && (
               <>
                 {" — "}
-                {MODE_OPTIONS.find((o) => o.value === requiredSkillLinesValue.mode)?.label}
+                {modeOptions.find((o) => o.value === requiredSkillLinesValue.mode)?.label}
               </>
             )}
           </span>
@@ -93,7 +110,7 @@ export function RuleCardFilterChipRequiredSkillLines({
       </PopoverTrigger>
       <PopoverContent align="start" className="flex flex-col gap-2">
         <Text variant="hint" className="font-medium">
-          Mode
+          {titleIn(phrases, modeHeading.key)}
         </Text>
         <Select
           value={requiredSkillLinesValue.mode}
@@ -103,7 +120,7 @@ export function RuleCardFilterChipRequiredSkillLines({
             <SelectValue />
           </SelectTrigger>
           <SelectContent>
-            {MODE_OPTIONS.map((opt) => (
+            {modeOptions.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -111,7 +128,7 @@ export function RuleCardFilterChipRequiredSkillLines({
           </SelectContent>
         </Select>
         <Text variant="hint" className="font-medium">
-          Skill Lines
+          {titleIn(phrases, skillLinesHeading.key)}
         </Text>
         <BadgeToggleGroup
           items={options}

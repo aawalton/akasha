@@ -11,5 +11,10 @@ export const ruleCardFilterChipRequiredSkillLines = {
       decisionKind: "decision-kind/departure",
       statement: "The chip's remove label is the remove-filter phrase.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The modes are condition value pages, and the chip's other words are rule card phrases.",
+    },
   ],
 } as const satisfies Module
