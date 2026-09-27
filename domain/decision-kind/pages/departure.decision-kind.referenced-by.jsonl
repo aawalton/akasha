@@ -5449,6 +5449,7 @@
 {"propertySlug":"decision-kind","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.ts","id":"01a0d417-685a-7536-aae7-8ce26e0dfc6b"}
 {"propertySlug":"decision-kind","path":"temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.ts","id":"01a0d417-b676-7d76-87ba-29c4cd637ae9"}
 {"propertySlug":"decision-kind","path":"temper/eso/string/modules/engine-strings/engine-strings.data-table.ts","id":"01a0d417-2b3b-7497-869e-3567ed677896"}
+{"propertySlug":"decision-kind","path":"temper/eso/string/modules/eso-markup/eso-markup.module.ts","id":"01a0e155-9dba-7f72-9426-d3555dba05d2"}
 {"propertySlug":"decision-kind","path":"temper/eso/string/temper-eso-string.domain.ts","id":"01a0d417-0c97-720e-8c62-96038b6b3ee6"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-keybindings/eso-keybindings.type-declaration.ts","id":"01a06381-67c1-7c64-b1db-c19ebd0acd9e"}
 {"propertySlug":"decision-kind","path":"temper/eso/type/eso-main-menu-bar/eso-main-menu-bar.type-declaration.ts","id":"01a061fe-1496-7011-81fe-5f31d724998b"}

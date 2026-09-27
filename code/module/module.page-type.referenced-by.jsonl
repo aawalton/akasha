@@ -5450,6 +5450,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/saved-variable/saved-vars-migration/modules/saved-vars-migration/saved-vars-migration.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/string/modules/engine-strings-reading/engine-strings-reading.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/string/modules/engine-strings-seeding/engine-strings-seeding.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/string/modules/eso-markup/eso-markup.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/game-archive/game-archive.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/game-art/game-art.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/eso/ui-harness/modules/game-manifest/game-manifest.module.ts","typed":true,"deferred":false}

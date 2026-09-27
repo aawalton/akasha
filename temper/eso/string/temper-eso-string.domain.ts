@@ -9,6 +9,7 @@ export const temperEsoString = {
     "data-table/engine-strings",
     "module/engine-strings-reading",
     "module/engine-strings-seeding",
+    "module/eso-markup",
   ],
   decisions: [
     {
