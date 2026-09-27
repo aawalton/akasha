@@ -1,6 +1,7 @@
 "use client"
 
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
+import { temperBag } from "akasha/temper/catalog/world/temper-bag/temper-bag.page-type.ts"
 import { classifyItem } from "akasha/temper/items/core/modules/classify-item/classify-item.module.code.ts"
 import {
   ESO_BAG_BACKPACK,
@@ -22,10 +23,14 @@ import type {
   InventoryCurrencies,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type { ItemCategories } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
-import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+import {
+  type KeyedTitles,
+  titleOf,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import {
   InventoryPanelCard,
   type InventorySortMode,
@@ -80,7 +85,8 @@ function buildTypeBranches(
 
 function buildCharacterBranches(
   group: InventoryLocationGroup,
-  categories: ItemCategories
+  categories: ItemCategories,
+  bags: KeyedTitles
 ): readonly InventoryNode[] {
   if (!group.bagCapacities) return buildTypeBranches(group.items, categories)
 
@@ -96,7 +102,7 @@ function buildCharacterBranches(
   if (worn.length > 0 || group.bagCapacities[ESO_BAG_WORN] !== undefined) {
     branches.push({
       key: "worn",
-      label: "Worn",
+      label: titleOf(bags, "worn"),
       children: buildTypeBranches(worn, categories),
       slotCount: worn.length,
       bagCapacity: group.bagCapacities[ESO_BAG_WORN],
@@ -106,7 +112,7 @@ function buildCharacterBranches(
   if (backpack.length > 0 || group.bagCapacities[ESO_BAG_BACKPACK] !== undefined) {
     branches.push({
       key: "backpack",
-      label: "Backpack",
+      label: titleOf(bags, "backpack"),
       children: buildTypeBranches(backpack, categories),
       slotCount: backpack.length,
       bagCapacity: group.bagCapacities[ESO_BAG_BACKPACK],
@@ -138,8 +144,10 @@ export function InventoryLocationTypePanelCard({
   const isSingleton = card.groups.length === 1 && card.locationType !== "guild"
   const categories = useItemCategories()
   const companionCatalogRead = useHeldCompanionCatalog()
+  const bags = useKeyedTitles(temperBag.slug)
 
   const nodes = useMemo(() => {
+    if (bags === null) return []
     if (isSingleton) {
       const onlyGroup = card.groups[0]
       if (onlyGroup === undefined) return []
@@ -153,7 +161,7 @@ export function InventoryLocationTypePanelCard({
       }
 
       if (card.locationType === "character") {
-        const charBranches = buildCharacterBranches(onlyGroup, categories)
+        const charBranches = buildCharacterBranches(onlyGroup, categories, bags)
         const character = currencies?.characters[onlyGroup.locationKey]
         if (character) {
           const currencyBranch = buildCurrencyBranch(
@@ -178,7 +186,7 @@ export function InventoryLocationTypePanelCard({
 
     return card.groups.map((group): InventoryNode => {
       if (card.locationType === "character") {
-        const charChildren = buildCharacterBranches(group, categories)
+        const charChildren = buildCharacterBranches(group, categories, bags)
         const character = currencies?.characters[group.locationKey]
         const currencyBranch = character
           ? buildCurrencyBranch(character.balances, currencyTitles, conversionRates)
@@ -209,6 +217,7 @@ export function InventoryLocationTypePanelCard({
     conversionRates,
     categories,
     companionCatalogRead,
+    bags,
   ])
 
   const singletonGroup = isSingleton ? card.groups[0] : undefined

@@ -15,6 +15,7 @@ import { ScrollArea } from "akasha/design/interface/primitive/modules/scroll-are
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { temperBag } from "akasha/temper/catalog/world/temper-bag/temper-bag.page-type.ts"
 import { temperLocationType } from "akasha/temper/catalog/world/temper-location-type/temper-location-type.page-type.ts"
 import {
   hasAnyValue,
@@ -137,9 +138,13 @@ export function AffectedItemsViews({
     [items, categories, companionCatalogRead]
   )
   const locations = useKeyedTitles(temperLocationType.slug)
+  const bags = useKeyedTitles(temperBag.slug)
   const locationNodes = useMemo(
-    () => (locations === null ? [] : buildAffectedItemLocationNodes(items, locations, categories)),
-    [items, locations, categories, companionCatalogRead]
+    () =>
+      locations === null || bags === null
+        ? []
+        : buildAffectedItemLocationNodes(items, locations, bags, categories),
+    [items, locations, bags, categories, companionCatalogRead]
   )
   const smartTypeExpanded = useMemo(() => computeSmartTreeExpanded(typeNodes), [typeNodes])
   const smartLocationExpanded = useMemo(

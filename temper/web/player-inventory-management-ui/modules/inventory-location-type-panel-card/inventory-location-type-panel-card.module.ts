@@ -12,5 +12,9 @@ export const inventoryLocationTypePanelCard = {
       statement:
         "Companion trait names are drawn again whenever the companion catalogue is read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character's worn and backpack branches are named by the bag pages.",
+    },
   ],
 } as const satisfies Module

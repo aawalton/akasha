@@ -19,5 +19,9 @@ export const affectedItemsTreeBuilder = {
       decisionKind: "decision-kind/departure",
       statement: "A guild is drawn with its own level even where only one guild has items.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The worn and backpack levels are named by the bag pages.",
+    },
   ],
 } as const satisfies Module

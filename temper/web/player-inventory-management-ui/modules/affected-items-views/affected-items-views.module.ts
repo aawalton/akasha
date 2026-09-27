@@ -12,5 +12,9 @@ export const affectedItemsViews = {
       statement:
         "Companion trait names are drawn again whenever the companion catalogue is read again.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The By Location tree is named from the location type and bag pages.",
+    },
   ],
 } as const satisfies Module

@@ -1,4 +1,6 @@
 {"propertySlug":"import","fileName":"temper-bag.page-type.ts","path":"temper/items/rules/core/modules/location-filter/location-filter.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-bag.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-bag.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-location-type-panel-card/inventory-location-type-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-bag.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chips-item-selection-chips/rule-card-filter-chips-item-selection-chips.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-bag.page-type.ts","path":"temper/web/routes/inventory/inventory.route.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-bag.page-type.types.ts","path":"temper/catalog/world/temper-bag/pages/backpack.temper-bag.ts","typed":true,"deferred":false}

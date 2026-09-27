@@ -105,6 +105,7 @@ interface LocationGroup {
 export function buildAffectedItemLocationNodes(
   items: readonly AffectedItem[],
   locations: KeyedTitles,
+  bags: KeyedTitles,
   categories: ItemCategories
 ): readonly InventoryNode[] {
   const accumulator = new Map<string, { affected: AffectedItem; index: number }[]>()
@@ -146,7 +147,7 @@ export function buildAffectedItemLocationNodes(
 
     if (isSingleton) {
       const group = requireFirst(groups, "groups")
-      const locationChildren = buildLocationGroupChildren(group, categories)
+      const locationChildren = buildLocationGroupChildren(group, bags, categories)
       nodes.push({
         key: locationType,
         label: titleOf(locations, locationType),
@@ -156,7 +157,7 @@ export function buildAffectedItemLocationNodes(
       const locationNodes: InventoryNode[] = groups.map((group) => ({
         key: group.locationKey,
         label: group.displayName,
-        children: buildLocationGroupChildren(group, categories),
+        children: buildLocationGroupChildren(group, bags, categories),
       }))
       nodes.push({
         key: locationType,
@@ -171,6 +172,7 @@ export function buildAffectedItemLocationNodes(
 
 function buildLocationGroupChildren(
   group: LocationGroup,
+  bags: KeyedTitles,
   categories: ItemCategories
 ): readonly InventoryNode[] {
   const { roots, keyed } = categories
@@ -190,14 +192,14 @@ function buildLocationGroupChildren(
     if (wornEntries.length > 0) {
       branches.push({
         key: "worn",
-        label: "Worn",
+        label: titleOf(bags, "worn"),
         children: buildTypeBranchesFromEntries(wornEntries, keyed),
       })
     }
     if (backpackEntries.length > 0) {
       branches.push({
         key: "backpack",
-        label: "Backpack",
+        label: titleOf(bags, "backpack"),
         children: buildTypeBranchesFromEntries(backpackEntries, keyed),
       })
     }
