@@ -18,6 +18,7 @@ export const worldCheck = {
     "world-check/the-dating-game-closeness-scoring",
     "world-check/otherwhere-action-check",
     "world-check/otherwhere-harm",
+    "world-check/otherwhere-standing",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
   decisions: [
