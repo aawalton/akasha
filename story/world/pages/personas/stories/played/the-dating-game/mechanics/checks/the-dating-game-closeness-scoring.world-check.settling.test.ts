@@ -2,31 +2,62 @@ import { expect, test } from "bun:test"
 import { settled } from "akasha/story/world/pages/personas/stories/played/the-dating-game/mechanics/checks/the-dating-game-closeness-scoring.world-check.settling.code.ts"
 
 const AT = {
+  character: "her",
   validation: 2,
   acknowledgment: 1,
   reassurance: 0,
-  emotionalIntimacy: 3,
+  emotionalIntimacy: 2,
   turnedAway: 0,
+  quotes: {
+    validation: "you did great",
+    acknowledgment: "that sounds hard",
+    emotionalIntimacy: ["I feel it too", "me too"],
+    turnedAway: "he walks on",
+  },
 }
 
 test("the four scores add up to the points earned", () => {
-  expect(settled(AT)).toEqual({ answered: { earned: 6, lost: 0, change: 6 } })
+  expect(settled(AT)).toEqual({ answered: { earned: 5, lost: 0, change: 5 } })
 })
 
 test("each missed bid costs two points", () => {
   expect(settled({ ...AT, turnedAway: 2 })).toEqual({
-    answered: { earned: 6, lost: 4, change: 2 },
+    answered: { earned: 5, lost: 4, change: 1 },
   })
 })
 
-test("missed bids can take more than the interaction earned", () => {
+test("missed bids can take more than the turn earned", () => {
   expect(settled({ ...AT, validation: 0, emotionalIntimacy: 0, turnedAway: 1 })).toEqual({
     answered: { earned: 1, lost: 2, change: -1 },
   })
 })
 
-test("a skill scored above three is refused", () => {
-  expect(settled({ ...AT, reassurance: 4 })).toHaveProperty("refused")
+test("a skill scored above two is refused", () => {
+  expect(settled({ ...AT, reassurance: 3 })).toHaveProperty("refused")
+})
+
+test("a reading naming no character is refused", () => {
+  expect(settled({ ...AT, character: "" })).toHaveProperty("refused")
+})
+
+test("a skill scored above nought with no quote is refused", () => {
+  expect(settled({ ...AT, quotes: { ...AT.quotes, validation: "" } })).toHaveProperty("refused")
+})
+
+test("a missed bid with no quote is refused", () => {
+  expect(
+    settled({
+      ...AT,
+      turnedAway: 1,
+      quotes: { validation: "a", acknowledgment: "b", emotionalIntimacy: "c" },
+    })
+  ).toHaveProperty("refused")
+})
+
+test("a skill scored nought needs no quote", () => {
+  expect(settled({ ...AT, quotes: { ...AT.quotes, reassurance: undefined } })).toHaveProperty(
+    "answered"
+  )
 })
 
 test("a skill scored in part is refused", () => {
