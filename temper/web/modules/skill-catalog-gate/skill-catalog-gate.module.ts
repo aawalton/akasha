@@ -11,5 +11,9 @@ export const skillCatalogGate = {
       decisionKind: "decision-kind/departure",
       statement: "Until the catalogue is read the screen shows what it is handed to show instead.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The content is drawn again whenever the catalogue is read again.",
+    },
   ],
 } as const satisfies Module

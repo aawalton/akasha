@@ -142,26 +142,28 @@ export function CharactersPageContent({
         <QueryErrorBoundary>
           <Suspense fallback={<ListContentSkeleton />}>
             <SkillCatalogGate fallback={<ListContentSkeleton />}>
-              <SetCatalogGate fallback={<ListContentSkeleton />}>
-                {() => (
-                  <MetricCatalogGate fallback={<ListContentSkeleton />}>
-                    {() => (
-                      <CharactersDataContent
-                        userId={userId}
-                        isAuthenticated={isAuthenticated}
-                        tab={tab}
-                        search={values.search}
-                        selectedRole={values.role}
-                        selectedClass={values.class}
-                        sortBy={values.sortBy}
-                        sortDirection={values.sortDirection}
-                        update={update}
-                        deferred={deferred}
-                      />
-                    )}
-                  </MetricCatalogGate>
-                )}
-              </SetCatalogGate>
+              {() => (
+                <SetCatalogGate fallback={<ListContentSkeleton />}>
+                  {() => (
+                    <MetricCatalogGate fallback={<ListContentSkeleton />}>
+                      {() => (
+                        <CharactersDataContent
+                          userId={userId}
+                          isAuthenticated={isAuthenticated}
+                          tab={tab}
+                          search={values.search}
+                          selectedRole={values.role}
+                          selectedClass={values.class}
+                          sortBy={values.sortBy}
+                          sortDirection={values.sortDirection}
+                          update={update}
+                          deferred={deferred}
+                        />
+                      )}
+                    </MetricCatalogGate>
+                  )}
+                </SetCatalogGate>
+              )}
             </SkillCatalogGate>
           </Suspense>
         </QueryErrorBoundary>

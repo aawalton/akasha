@@ -50,9 +50,11 @@ export function HomePageContent() {
           <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
             <CompanionCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
               <SkillCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
-                <SetCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
-                  {() => <HomeDataContent />}
-                </SetCatalogGate>
+                {() => (
+                  <SetCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
+                    {() => <HomeDataContent />}
+                  </SetCatalogGate>
+                )}
               </SkillCatalogGate>
             </CompanionCatalogGate>
           </Suspense>

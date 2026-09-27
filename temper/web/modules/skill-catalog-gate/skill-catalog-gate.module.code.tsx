@@ -7,9 +7,9 @@ export function SkillCatalogGate({
   children,
   fallback,
 }: {
-  children: ReactNode
+  children: () => ReactNode
   fallback: ReactNode
 }) {
   const catalog = useSkillCatalog()
-  return <>{catalog === null ? fallback : children}</>
+  return <>{catalog === null ? fallback : children()}</>
 }

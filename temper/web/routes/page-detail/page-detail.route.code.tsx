@@ -294,23 +294,25 @@ export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
           <SkillCatalogGate
             fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
           >
-            <MetricCatalogGate
-              fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
-            >
-              {() => (
-                <CharacterEditor
-                  buildId={toBuildId(loaderData.buildId)}
-                  initialTab={tab}
-                  initialBuild={loaderData.initialBuild}
-                  initialBuildHash={loaderData.initialBuildHash}
-                  isOwner={loaderData.isOwner}
-                  initialVisibility={loaderData.initialVisibility}
-                  isTargetBuild={loaderData.isTargetBuild}
-                  availableSkills={skills.list}
-                  availableSets={catalog.list}
-                />
-              )}
-            </MetricCatalogGate>
+            {() => (
+              <MetricCatalogGate
+                fallback={<PageLayoutSkeleton config={simplePageSkeleton({ titleWidth: 160 })} />}
+              >
+                {() => (
+                  <CharacterEditor
+                    buildId={toBuildId(loaderData.buildId)}
+                    initialTab={tab}
+                    initialBuild={loaderData.initialBuild}
+                    initialBuildHash={loaderData.initialBuildHash}
+                    isOwner={loaderData.isOwner}
+                    initialVisibility={loaderData.initialVisibility}
+                    isTargetBuild={loaderData.isTargetBuild}
+                    availableSkills={skills.list}
+                    availableSets={catalog.list}
+                  />
+                )}
+              </MetricCatalogGate>
+            )}
           </SkillCatalogGate>
         )}
       </SetCatalogGate>
