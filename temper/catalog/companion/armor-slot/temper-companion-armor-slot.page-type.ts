@@ -8,8 +8,7 @@ export const temperCompanionArmorSlot = {
   extends: ["page-type/temper-companion-thing"],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
-    { pageProperty: "number-property/equip-type", required: true, many: false },
-    { pageProperty: "relation-property/slot-equip-type", required: false, many: false },
+    { pageProperty: "relation-property/slot-equip-type", required: true, many: false },
   ],
   types: "ts",
   schema: "jsonl",

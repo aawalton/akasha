@@ -6,7 +6,6 @@ export const ring1 = {
   slug: "ring-1",
   key: "ring-1",
   title: "Ring 1",
-  equipType: 12,
   slotEquipType: "temper-equip-type/ring",
   slotCategory: "ring",
   equipmentIconName: "ring",

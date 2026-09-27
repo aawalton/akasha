@@ -6,7 +6,7 @@ export const temperEquipType = {
   slug: "temper-equip-type",
   definition: "a kind of place the game says a piece is equipped in",
   extends: ["page-type/temper-catalog-thing"],
-  parts: ["relation-property/slot-equip-type"],
+  parts: ["relation-property/slot-equip-type", "number-property/equip-type"],
   properties: [{ pageProperty: "number-property/equip-type", required: true, many: false }],
   decisions: [
     {

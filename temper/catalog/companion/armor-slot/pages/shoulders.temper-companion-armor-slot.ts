@@ -6,7 +6,6 @@ export const shoulders = {
   slug: "shoulders",
   key: "shoulders",
   title: "Shoulders",
-  equipType: 4,
   slotEquipType: "temper-equip-type/shoulders",
   equipmentIconName: "shoulders",
 } as const satisfies TemperCompanionArmorSlot

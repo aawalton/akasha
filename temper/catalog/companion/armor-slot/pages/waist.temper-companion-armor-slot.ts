@@ -6,7 +6,6 @@ export const waist = {
   slug: "waist",
   key: "waist",
   title: "Waist",
-  equipType: 8,
   slotEquipType: "temper-equip-type/waist",
   equipmentIconName: "belt",
 } as const satisfies TemperCompanionArmorSlot

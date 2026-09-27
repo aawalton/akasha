@@ -1,7 +1,7 @@
 import type { Id } from "akasha/page/properties/id.text-property.types.ts"
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { ArmorType } from "akasha/temper/catalog/companion/armor-weight/properties/armor-type.number-property.types.ts"
-import type { EquipType } from "akasha/temper/catalog/companion/thing/properties/equip-type.number-property.types.ts"
+import type { EquipType } from "akasha/temper/catalog/gear/temper-equip-type/properties/equip-type.number-property.types.ts"
 import type { ItemId } from "akasha/temper/catalog/thing/properties/item-id.number-property.types.ts"
 import type { AmountCount } from "akasha/temper/player/character/temper-account/properties/amount-count.number-property.types.ts"
 import type { Bag } from "akasha/temper/player/character/temper-account/properties/bag.number-property.types.ts"
