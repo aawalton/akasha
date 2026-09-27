@@ -6,6 +6,16 @@ import { ItemRow } from "akasha/design/interface/pattern/modules/item-row/item-r
 import { formatGold } from "akasha/design/interface/primitive/modules/format-gold/format-gold.module.code.ts"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
+import {
+  type Phrase,
+  usePhrase,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { unmappedItemsPanelCardAllCovered } from "akasha/temper/web/phrase/pages/unmapped-items-panel-card-all-covered.temper-web-phrase.ts"
+import { unmappedItemsPanelCardHiddenByFilter } from "akasha/temper/web/phrase/pages/unmapped-items-panel-card-hidden-by-filter.temper-web-phrase.ts"
+import { unmappedItemsPanelCardLoading } from "akasha/temper/web/phrase/pages/unmapped-items-panel-card-loading.temper-web-phrase.ts"
+import { unmappedItemsPanelCardNoInventory } from "akasha/temper/web/phrase/pages/unmapped-items-panel-card-no-inventory.temper-web-phrase.ts"
+import { unmappedItemsPanelCardTitle } from "akasha/temper/web/phrase/pages/unmapped-items-panel-card-title.temper-web-phrase.ts"
+import { unmappedItemsPanelCardTotal } from "akasha/temper/web/phrase/pages/unmapped-items-panel-card-total.temper-web-phrase.ts"
 import { AffectedItemsViews } from "akasha/temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx"
 import {
   decideUnmappedItemsPanelState,
@@ -19,16 +29,16 @@ interface UnmappedItemsPanelCardProps extends InventoryReadState {
   totalCount: number
 }
 
-function emptyHint(state: Exclude<UnmappedItemsPanelState, "items">): string {
+function emptyHint(phrase: Phrase, state: Exclude<UnmappedItemsPanelState, "items">): string {
   switch (state) {
     case "loading":
-      return "Loading your inventory."
+      return phrase(unmappedItemsPanelCardLoading.slug)
     case "no-inventory":
-      return "No inventory has reached this page, so nothing has been checked against your rules."
+      return phrase(unmappedItemsPanelCardNoInventory.slug)
     case "hidden-by-filter":
-      return "Every unmapped item is at another location. Clear the location filter to see them."
+      return phrase(unmappedItemsPanelCardHiddenByFilter.slug)
     case "all-covered":
-      return "All inventory items are covered by a rule."
+      return phrase(unmappedItemsPanelCardAllCovered.slug)
     default:
       return assertNever(state)
   }
@@ -40,6 +50,7 @@ export function UnmappedItemsPanelCard({
   isInventoryLoading,
   hasInventory,
 }: UnmappedItemsPanelCardProps) {
+  const phrase = usePhrase()
   const total = useMemo(() => {
     let stackCount = 0
     let totalValue: number | undefined
@@ -60,10 +71,15 @@ export function UnmappedItemsPanelCard({
   })
 
   return (
-    <PanelCard id="unmapped-items" collapsible forceMount title="Unmapped Items">
+    <PanelCard
+      id="unmapped-items"
+      collapsible
+      forceMount
+      title={phrase(unmappedItemsPanelCardTitle.slug)}
+    >
       {state !== "items" ? (
         <Text variant="hint" className="py-4 text-center">
-          {emptyHint(state)}
+          {emptyHint(phrase, state)}
         </Text>
       ) : (
         <AffectedItemsViews
@@ -72,7 +88,7 @@ export function UnmappedItemsPanelCard({
           showFlatTab={false}
           header={
             <ItemRow
-              label="Total"
+              label={phrase(unmappedItemsPanelCardTotal.slug)}
               quantity={total.stackCount}
               value={total.totalValue !== undefined ? formatGold(total.totalValue) : undefined}
               accent

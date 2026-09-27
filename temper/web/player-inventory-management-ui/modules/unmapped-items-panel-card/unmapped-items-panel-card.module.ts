@@ -6,4 +6,10 @@ export const unmappedItemsPanelCard = {
   slug: "unmapped-items-panel-card",
   definition: "the card naming the items no rule reaches",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The card's title, total label and empty hints are read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
