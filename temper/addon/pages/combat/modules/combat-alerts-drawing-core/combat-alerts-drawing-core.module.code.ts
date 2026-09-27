@@ -326,7 +326,7 @@ function createWorldTexture(
 }
 Draw.CreateWorldTexture = createWorldTexture
 
-export function removeWorldTexture(this: void, key: DrawingKey): undefined {
+function removeWorldTexture(this: void, key: DrawingKey): undefined {
   const icon = Draw.activeIcons[key]
   if (icon === undefined) {
     CRUTCH.dbgOther('|cFF0000Icon "' + tostring(key) + '" does not exist')

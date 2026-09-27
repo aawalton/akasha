@@ -6,7 +6,7 @@ export type DrawingColor = readonly number[]
 export type OrientationPart = number | readonly number[]
 export type DrawingOrientation = readonly OrientationPart[]
 
-export interface DrawingIconOrientation {
+interface DrawingIconOrientation {
   pitch: number | undefined
   yaw: number | undefined
   roll: number | undefined
@@ -100,7 +100,7 @@ export interface SpaceTextureOptions {
   bottom?: number
 }
 
-export interface SpaceBackdropOptions {
+interface SpaceBackdropOptions {
   width?: number
   height?: number
   centerColor?: DrawingColor
@@ -108,7 +108,7 @@ export interface SpaceBackdropOptions {
   roll?: number
 }
 
-export interface SpaceCompositeOptions {
+interface SpaceCompositeOptions {
   size?: number
   init: (this: void, composite: TextureCompositeControl) => void
 }
@@ -120,13 +120,13 @@ export interface SpaceOptions {
   composite?: SpaceCompositeOptions
 }
 
-export type DrawingLinePointsFunc = (
+type DrawingLinePointsFunc = (
   this: void
 ) => LuaMultiReturn<[x1: number, y1: number, z1: number, x2: number, y2: number, z2: number]>
 
 export type SuppressionFilter = (this: void, unitTag: string) => boolean
 
-export interface AttachedIconData {
+interface AttachedIconData {
   priority: number
   texture: string | undefined
   size: number
