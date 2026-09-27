@@ -5,6 +5,8 @@ export const dreadhorn = {
   type: "page-type/temper-motif-style",
   slug: "dreadhorn",
   title: "Dreadhorn",
+  esoItemStyleId: 62,
+  styleName: "Dreadhorn",
   collectionIndex: 41,
   sourceDescription: "Falkreath Hold dungeon",
 } as const satisfies TemperMotifStyle
