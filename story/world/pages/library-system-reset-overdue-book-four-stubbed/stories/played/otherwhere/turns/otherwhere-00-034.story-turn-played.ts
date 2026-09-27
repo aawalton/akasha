@@ -10,7 +10,7 @@ export const otherwhere00034 = {
   position: 34,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I go back down to the core and put my hands in the same places as before.",
   beats: [
     "Nala goes back down the spiral stair into the round chamber, under its dim blue-green glow.",
@@ -22,5 +22,5 @@ export const otherwhere00034 = {
     "A window opens: Synchronization Complete.",
   ],
   lore: ["place/otherwhere-core-chamber"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
