@@ -5,6 +5,8 @@ export const dragonguard = {
   type: "page-type/temper-motif-style",
   slug: "dragonguard",
   title: "Dragonguard",
+  esoItemStyleId: 92,
+  styleName: "Dragonguard",
   collectionIndex: 62,
   sourceDescription: "Dragon hunt/Delve dailies (Southern Elsweyr)",
   dropSources: [
