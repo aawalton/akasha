@@ -21,74 +21,55 @@ interface CompanionRapportSource {
   sources: readonly string[]
 }
 
-const COMPANION_RAPPORT_SOURCES: readonly CompanionRapportSource[] = [
-  {
-    companionId: "azandar",
-    defId: 9,
-    name: "Azandar",
-    sources: ["Enchanting Writ Daily", "Necrom Delve Daily (Ordinator Tilena)"],
-  },
-  {
-    companionId: "bastian",
-    defId: 1,
-    name: "Bastian",
-    sources: ["Mages Guild Daily (Alvur Baren)"],
-  },
-  {
-    companionId: "ember",
-    defId: 5,
-    name: "Ember",
-    sources: [
-      "Thieves Guild Heist Daily",
-      "Mages Guild Daily (Alvur Baren)",
-      "High Isle Delve Daily (Wayllod)",
-    ],
-  },
-  {
-    companionId: "isobel",
-    defId: 6,
-    name: "Isobel",
-    sources: ["Undaunted Daily (Bolgrul)", "High Isle World Boss Daily (Parisse Plouff)"],
-  },
-  {
-    companionId: "mirri",
-    defId: 2,
-    name: "Mirri",
-    sources: ["Fighters Guild Daily (Cardea Gallus)", "Ashlander Relic Daily (Numani-Rasi)"],
-  },
-  {
-    companionId: "sharp-as-night",
-    defId: 8,
-    name: "Sharp-as-Night",
-    sources: [
-      "Ashlander Daily (Sorim-Nakar or Numani-Rasi)",
-      "Necrom World Boss Daily (Ordinator Nelyn)",
-    ],
-  },
-  {
-    companionId: "tanlorin",
-    defId: 12,
-    name: "Tanlorin",
-    sources: ["Fighters Guild Daily (Cardea Gallus)", "Alchemy Writ Daily"],
-  },
-  {
-    companionId: "zerith-var",
-    defId: 13,
-    name: "Zerith-var",
-    sources: ["Defense Force Daily (Zahari, Grahtwood Northern Gate)", "Tales of Tribute Daily"],
-  },
-]
+interface CompanionRapportPage {
+  readonly key?: unknown
+  readonly firstName?: unknown
+  readonly esoCompanionId?: unknown
+  readonly rapportDailies?: unknown
+}
+
+let heldSources: readonly CompanionRapportSource[] | null = null
+
+function dailiesOf(rows: unknown): readonly string[] {
+  const dailies: string[] = []
+  if (!Array.isArray(rows)) return dailies
+  for (const row of rows) {
+    if (typeof row !== "object" || row === null) continue
+    const { questName } = row as Record<string, unknown>
+    if (typeof questName === "string") dailies.push(questName)
+  }
+  return dailies
+}
+
+function rapportSources(): readonly CompanionRapportSource[] {
+  if (heldSources !== null) return heldSources
+  const found: CompanionRapportSource[] = []
+  for (const page of $pagesOfType<CompanionRapportPage>(temperEsoCompanion)) {
+    const { key, firstName, esoCompanionId, rapportDailies } = page
+    if (typeof key !== "string" || typeof esoCompanionId !== "number") continue
+    if (!Array.isArray(rapportDailies)) continue
+    found.push({
+      companionId: key,
+      defId: esoCompanionId,
+      name: typeof firstName === "string" ? firstName : key,
+      sources: dailiesOf(rapportDailies),
+    })
+  }
+  found.sort((one, other) => (one.companionId < other.companionId ? -1 : 1))
+  heldSources = found
+  return found
+}
 
 readCompanionQuestGroupsWith(() =>
   companionQuestGroupsOf($pagesOfType<CompanionQuestPage>(temperEsoCompanion))
 )
 
 export function companionIdOfDefId(defId: number): string | undefined {
-  return COMPANION_RAPPORT_SOURCES.find((entry) => entry.defId === defId)?.companionId
+  return rapportSources().find((entry) => entry.defId === defId)?.companionId
 }
 
 function defIdOf(this: void, companionId: string): number | undefined {
-  return COMPANION_RAPPORT_SOURCES.find((entry) => entry.companionId === companionId)?.defId
+  return rapportSources().find((entry) => entry.companionId === companionId)?.defId
 }
 
 export interface CompanionRapportEnrichment {
@@ -107,7 +88,7 @@ export function pickFirstUnfinishedCompanion(
   rapport: Record<number, number> | undefined,
   completedQuestIds: ReadonlySet<number>
 ): CompanionRapportEnrichment | undefined {
-  for (const entry of COMPANION_RAPPORT_SOURCES) {
+  for (const entry of rapportSources()) {
     const raw = rapport?.[entry.defId]
     const currentPoints = raw === undefined ? 0 : clampRapportProgress(raw)
     const rapportLeft = currentPoints < MAX_COMPANION_RAPPORT

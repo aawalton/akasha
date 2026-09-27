@@ -5,13 +5,15 @@ import {
   resolveCompanionRapport,
   resolveLoreLibrary,
 } from "akasha/temper/addon/pages/characters/modules/characters-task-progress-resolver-world/characters-task-progress-resolver-world.module.code.ts"
-import { ALL_COMPANION_IDS } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
+import { allCompanionIds } from "akasha/temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts"
 import { characterEntry } from "akasha/temper/addon/pages/characters/test-fixtures/characters-task-progress-test-utils/characters-task-progress-test-utils.test-fixture.code.ts"
 import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import { companionQuestGroups } from "akasha/temper/player/completion/temper-player-completion/modules/companion-quest-data/companion-quest-data.module.code.ts"
 import { MAX_COMPANION_RAPPORT } from "akasha/temper/player/completion/temper-player-completion/modules/companion-rapport/companion-rapport.module.code.ts"
 
 holdPagesOfTypeFromCheckout()
+
+const ALL_COMPANION_IDS = allCompanionIds()
 
 function itemAt<T>(items: readonly T[], index: number, what: string): T {
   const item = items[index]
@@ -31,8 +33,8 @@ const BASTIAN_FIRST = itemAt(BASTIAN_QUESTS, 0, "bastian holds no first quest")
 const BASTIAN_SECOND = itemAt(BASTIAN_QUESTS, 1, "bastian holds no second quest")
 
 const TOTAL_RAPPORT = ALL_COMPANION_IDS.length * MAX_COMPANION_RAPPORT
-const COMPANION_A = itemAt(ALL_COMPANION_IDS, 0, "ALL_COMPANION_IDS holds no first companion")
-const COMPANION_B = itemAt(ALL_COMPANION_IDS, 1, "ALL_COMPANION_IDS holds no second companion")
+const COMPANION_A = itemAt(ALL_COMPANION_IDS, 0, "the companion pages place no first companion")
+const COMPANION_B = itemAt(ALL_COMPANION_IDS, 1, "the companion pages place no second companion")
 
 const LORE_CATEGORY = itemAt(LORE_LIBRARY_DATA, 0, "LORE_LIBRARY_DATA holds no category")
 const LORE_COLLECTION = itemAt(

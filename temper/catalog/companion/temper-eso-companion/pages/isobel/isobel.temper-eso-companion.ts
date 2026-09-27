@@ -14,5 +14,6 @@ export const isobel = {
   firstName: "Isobel",
   passiveEffects: "jsonl",
   companionQuests: "jsonl",
+  rapportDailies: "jsonl",
   hashPlace: 4,
 } as const satisfies TemperEsoCompanion

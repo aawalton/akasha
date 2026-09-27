@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/addon/pages/characters/modules/characters-task-hud-companion-rapport/characters-task-hud-companion-rapport.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-eso-companion.page-type.ts","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.test.ts","typed":false,"deferred":false}

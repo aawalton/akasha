@@ -14,5 +14,6 @@ export const zerithVar = {
   firstName: "Zerith-var",
   passiveEffects: "jsonl",
   companionQuests: "jsonl",
+  rapportDailies: "jsonl",
   hashPlace: 8,
 } as const satisfies TemperEsoCompanion

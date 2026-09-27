@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/skill/properties/skill-effects.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/companion-quests.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/companion/temper-eso-companion/properties/rapport-dailies.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/bonuses.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/gear/temper-set/properties/icons.page-property-entry.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property-entry.page-type.types.ts","path":"temper/catalog/pursuit/temper-achievement-category/properties/achievements.page-property-entry.ts","typed":true,"deferred":false}

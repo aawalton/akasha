@@ -14,5 +14,6 @@ export const ember = {
   firstName: "Ember",
   passiveEffects: "jsonl",
   companionQuests: "jsonl",
+  rapportDailies: "jsonl",
   hashPlace: 3,
 } as const satisfies TemperEsoCompanion

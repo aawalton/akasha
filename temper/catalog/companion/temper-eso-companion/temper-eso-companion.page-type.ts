@@ -11,6 +11,7 @@ export const temperEsoCompanion = {
     "number-property/required-rapport-level",
     "page-property-entry/companion-quests",
     "page-property-entry/passive-effects",
+    "page-property-entry/rapport-dailies",
     "relation-property/alliance",
     "text-property/class-passive-id",
     "text-property/subtitle",
@@ -25,6 +26,7 @@ export const temperEsoCompanion = {
     { pageProperty: "text-property/class-passive-id", required: false, many: false },
     { pageProperty: "page-property-entry/passive-effects", required: false, many: false },
     { pageProperty: "page-property-entry/companion-quests", required: false, many: false },
+    { pageProperty: "page-property-entry/rapport-dailies", required: false, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
   ],
   decisions: [

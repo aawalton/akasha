@@ -11,5 +11,21 @@ export const companionsIdMap = {
       decisionKind: "decision-kind/constraint",
       statement: "A companion's index here is the index a saved build hash carries.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion's index is the build-hash place its companion page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The companions are listed in the order of those places.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A page at place zero is no companion, and is left out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The add-on reads the companion pages as it compiles.",
+    },
   ],
 } as const satisfies Module

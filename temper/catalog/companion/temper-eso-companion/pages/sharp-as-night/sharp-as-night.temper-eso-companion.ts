@@ -14,5 +14,6 @@ export const sharpAsNight = {
   firstName: "Sharp-as-Night",
   passiveEffects: "jsonl",
   companionQuests: "jsonl",
+  rapportDailies: "jsonl",
   hashPlace: 5,
 } as const satisfies TemperEsoCompanion

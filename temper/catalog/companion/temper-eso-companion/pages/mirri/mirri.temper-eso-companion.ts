@@ -14,5 +14,6 @@ export const mirri = {
   firstName: "Mirri",
   passiveEffects: "jsonl",
   companionQuests: "jsonl",
+  rapportDailies: "jsonl",
   hashPlace: 2,
 } as const satisfies TemperEsoCompanion

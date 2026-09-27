@@ -3949,6 +3949,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-equipment-refresh/companions-equipment-refresh.module.ts","id":"01a0611d-84d7-7825-a380-e661d8b35a05"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-equipment-rows/companions-equipment-rows.module.ts","id":"01a0611d-84d8-7602-83da-54ad2d53b4dd"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-events/companions-events.module.ts","id":"01a0611d-84d9-7779-9148-3a4577993184"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-id-map/companions-id-map.module.ts","id":"01a0611d-84dd-7991-bda4-54827db48eac"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-inventory-matcher/companions-inventory-matcher.module.ts","id":"01a0611d-84dd-7692-b051-cdbafe3f791d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-overview-rapport/companions-overview-rapport.module.ts","id":"01a0611d-84dd-77d5-88e1-b34569c99e53"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/characters/modules/companions-panel/companions-panel.module.ts","id":"01a0611d-84de-7c65-8411-3dd9d941484a"}
@@ -4985,6 +4986,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/modules/companion-address/companion-address.module.ts","id":"01a0d47b-69f6-7148-8788-0b66c90ea8b7"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/properties/alliance.relation-property.ts","id":"01a0cb4e-2ed1-7e8e-a8c9-ff9076977804"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/properties/companion-quests.page-property-entry.ts","id":"01a0e091-e9da-78c5-a2f3-0a14822277f1"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/temper-eso-companion/properties/rapport-dailies.page-property-entry.ts","id":"01a0e0eb-6d9b-7d1b-89e5-763c8a530c6d"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/thing/temper-companion-thing.page-type.ts","id":"01a05fcc-694c-762c-bcd1-1691361636e2"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/trait/grade/temper-companion-trait-grade.page-type.ts","id":"01a0d3e2-b138-7ae3-a092-02aca2555e4f"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/trait/properties/companion-metric.relation-property.ts","id":"01a0d3d2-e04b-7a25-bebc-6c7c9d72dad7"}

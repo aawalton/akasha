@@ -14,5 +14,6 @@ export const tanlorin = {
   firstName: "Tanlorin",
   passiveEffects: "jsonl",
   companionQuests: "jsonl",
+  rapportDailies: "jsonl",
   hashPlace: 7,
 } as const satisfies TemperEsoCompanion

@@ -34,5 +34,21 @@ export const charactersTaskHudCompanionRapport = {
       decisionKind: "decision-kind/departure",
       statement: "A daily is named with whoever offers it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The dailies a companion likes are the rows filed beside her companion page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A companion page filing no dailies is left out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Companions are walked in the order of their keys.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The add-on reads the companion pages as it compiles.",
+    },
   ],
 } as const satisfies Module

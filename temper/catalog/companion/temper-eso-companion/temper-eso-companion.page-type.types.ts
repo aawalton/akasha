@@ -3,6 +3,7 @@ import type { ClassPassiveId } from "akasha/temper/catalog/companion/temper-eso-
 import type { CompanionQuests } from "akasha/temper/catalog/companion/temper-eso-companion/properties/companion-quests.page-property-entry.types.ts"
 import type { EsoCompanionId } from "akasha/temper/catalog/companion/temper-eso-companion/properties/eso-companion-id.number-property.types.ts"
 import type { PassiveEffects } from "akasha/temper/catalog/companion/temper-eso-companion/properties/passive-effects.page-property-entry.types.ts"
+import type { RapportDailies } from "akasha/temper/catalog/companion/temper-eso-companion/properties/rapport-dailies.page-property-entry.types.ts"
 import type { Subtitle } from "akasha/temper/catalog/companion/temper-eso-companion/properties/subtitle.text-property.types.ts"
 import type { TemperCompanionThing } from "akasha/temper/catalog/companion/thing/temper-companion-thing.page-type.types.ts"
 import type { HashPlace } from "akasha/temper/catalog/companion/trait/properties/hash-place.number-property.types.ts"
@@ -18,5 +19,6 @@ export type TemperEsoCompanion = TemperCompanionThing & {
   classPassiveId?: ClassPassiveId
   passiveEffects?: PassiveEffects
   companionQuests?: CompanionQuests
+  rapportDailies?: RapportDailies
   hashPlace: HashPlace
 }
