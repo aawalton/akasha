@@ -5,6 +5,8 @@ export const huntsman = {
   type: "page-type/temper-motif-style",
   slug: "huntsman",
   title: "Huntsman",
+  esoItemStyleId: 77,
+  styleName: "Huntsman",
   collectionIndex: 51,
   sourceDescription: "March of Sacrifices dungeon",
 } as const satisfies TemperMotifStyle
