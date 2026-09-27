@@ -25,4 +25,5 @@ export const otherwhere00025 = {
     "Two dried coils lie beside her in the ruined oval, and her left sleeve is dark with blood.",
     "Beyond the columns, further back in the gloom, the wet chewing goes on.",
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
