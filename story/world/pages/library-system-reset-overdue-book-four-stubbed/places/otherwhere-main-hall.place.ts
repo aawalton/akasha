@@ -123,6 +123,10 @@ export const otherwhereMainHall = {
       fact: "Bookworms are needed to make magical quills, and fertilise soil for magical herbs.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The small engorged bookworms are the size of a small dog.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
