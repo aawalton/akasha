@@ -10,7 +10,7 @@ export const theDatingGame00023 = {
   position: 23,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I walk back to my neighborhood",
   beats: [
     "Alan leaves the stream trail and walks back up the hill from campus toward his neighborhood.",
@@ -21,5 +21,6 @@ export const theDatingGame00023 = {
     "His house is just ahead at 1350.",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/picture", "story-recorder/memory"],
+  recordedBy: ["story-recorder/picture", "story-recorder/memory", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T17:00:00.000Z",
 } as const satisfies StoryTurnPlayed
