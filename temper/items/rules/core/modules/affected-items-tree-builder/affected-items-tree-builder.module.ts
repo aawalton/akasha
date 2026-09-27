@@ -23,5 +23,9 @@ export const affectedItemsTreeBuilder = {
       decisionKind: "decision-kind/departure",
       statement: "The worn and backpack levels are named by the bag pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A type level is keyed by its tree slug and named by its tree page's title.",
+    },
   ],
 } as const satisfies Module

@@ -11,5 +11,9 @@ export const classifyItem = {
       decisionKind: "decision-kind/departure",
       statement: "An item is tried against the roots it is handed, in the order they are handed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item no branch takes falls under the tree's miscellaneous and other branches.",
+    },
   ],
 } as const satisfies Module

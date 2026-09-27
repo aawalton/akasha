@@ -210,12 +210,12 @@ export function buildInventoryTypeNodes(
   category: InventoryTypeCategory,
   categories: ItemCategoriesKeyed
 ): readonly InventoryNode[] {
-  const treeNode: ItemCategoryNode | undefined = categories[category.toLowerCase()]
+  const treeNode: ItemCategoryNode | undefined = categories[category]
 
   if (!treeNode?.children) {
-    return buildNameGroupedLeaves(entries, category === "Companion")
+    return buildNameGroupedLeaves(entries, category === "companion")
   }
 
-  const useCompanionTraits = category === "Companion"
+  const useCompanionTraits = category === "companion"
   return buildDataDrivenNodes(entries, treeNode.children, 1, useCompanionTraits)
 }

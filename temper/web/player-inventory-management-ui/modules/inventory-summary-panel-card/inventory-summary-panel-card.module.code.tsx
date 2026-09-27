@@ -2,6 +2,7 @@
 
 import type { InventoryTypeSummary } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
+import { useItemCategories } from "akasha/temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { inventorySummaryPanelCardCurrencies } from "akasha/temper/web/phrase/pages/inventory-summary-panel-card-currencies.temper-web-phrase.ts"
 import { inventorySummaryPanelCardSummary } from "akasha/temper/web/phrase/pages/inventory-summary-panel-card-summary.temper-web-phrase.ts"
@@ -27,9 +28,10 @@ export function InventoryTypeSummaryPanelCard({
   subdued,
 }: InventoryTypeSummaryPanelCardProps) {
   const phrase = usePhrase()
+  const categories = useItemCategories().keyed
   const items: InventoryNode[] = summary.groups.map((group) => ({
     key: group.category,
-    label: group.category,
+    label: categories[group.category]?.name ?? group.category,
     stackCount: group.totalItems,
     totalValue: group.totalValue,
     slotCount: group.occupiedSlots,

@@ -1,4 +1,7 @@
-import type { CategoryPath } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import type {
+  CategoryPath,
+  ItemCategoryRoots,
+} from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { OwnItemValues } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 
 export interface InventoryItemRow {
@@ -35,30 +38,38 @@ export interface InventoryItemRow {
 }
 
 export type InventoryTypeCategory =
-  | "Companion"
-  | "Knowledge"
-  | "Tasks"
-  | "Consumables"
-  | "Equipment"
-  | "Crafting"
-  | "Furnishings"
-  | "Miscellaneous"
+  | "companion"
+  | "knowledge"
+  | "tasks"
+  | "consumables"
+  | "equipment"
+  | "crafting"
+  | "furnishings"
+  | "miscellaneous"
 
 export const INVENTORY_TYPE_CATEGORY_ORDER: InventoryTypeCategory[] = [
-  "Companion",
-  "Knowledge",
-  "Tasks",
-  "Consumables",
-  "Equipment",
-  "Crafting",
-  "Furnishings",
-  "Miscellaneous",
+  "companion",
+  "knowledge",
+  "tasks",
+  "consumables",
+  "equipment",
+  "crafting",
+  "furnishings",
+  "miscellaneous",
 ]
 
 const INVENTORY_TYPE_CATEGORY_SET = new Set<string>(INVENTORY_TYPE_CATEGORY_ORDER)
 
 export function isInventoryTypeCategory(value: unknown): value is InventoryTypeCategory {
   return typeof value === "string" && INVENTORY_TYPE_CATEGORY_SET.has(value)
+}
+
+export function inventoryTypeCategoryOf(
+  head: string | undefined,
+  roots: ItemCategoryRoots
+): InventoryTypeCategory {
+  const id = roots.find((root) => root.name === head)?.id
+  return isInventoryTypeCategory(id) ? id : "miscellaneous"
 }
 
 export interface InventoryTypeEntry {

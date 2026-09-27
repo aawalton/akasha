@@ -10,7 +10,18 @@ export function classifyItem(item: ClassifiableItem, roots: ItemCategoryRoots): 
     const path = matchNode(item, category)
     if (path) return path
   }
-  return ["Miscellaneous", "Other"]
+  return pathNamedBy(["miscellaneous", "other"], roots)
+}
+
+export function pathNamedBy(ids: readonly string[], roots: ItemCategoryRoots): CategoryPath {
+  const names: string[] = []
+  let level: readonly ItemCategoryNode[] = roots
+  for (const id of ids) {
+    const node = level.find((one) => one.id === id)
+    names.push(node?.name ?? id)
+    level = node?.children ?? []
+  }
+  return names
 }
 
 function matchNode(item: ClassifiableItem, node: ItemCategoryNode): CategoryPath | null {

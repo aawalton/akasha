@@ -14,7 +14,7 @@ import {
   type InventoryItemRow,
   type InventoryTypeCategory,
   type InventoryTypeEntry,
-  isInventoryTypeCategory,
+  inventoryTypeCategoryOf,
 } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import { buildInventoryTypeNodes } from "akasha/temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
@@ -22,7 +22,10 @@ import type {
   CurrencyBalances,
   InventoryCurrencies,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import type { ItemCategories } from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
+import {
+  categoryTitleOf,
+  type ItemCategories,
+} from "akasha/temper/items/core/modules/item-category-tree/item-category-tree.module.code.ts"
 import {
   type KeyedTitles,
   titleOf,
@@ -63,8 +66,7 @@ function buildTypeBranches(
   const categoryMap = new Map<InventoryTypeCategory, InventoryTypeEntry[]>()
   for (const item of items) {
     const path = classifyItem(item, categories.roots)
-    const head = path[0]
-    const category: InventoryTypeCategory = isInventoryTypeCategory(head) ? head : "Miscellaneous"
+    const category = inventoryTypeCategoryOf(path[0], categories.roots)
     let list = categoryMap.get(category)
     if (!list) {
       list = []
@@ -79,7 +81,7 @@ function buildTypeBranches(
     if (!entries || entries.length === 0) continue
     result.push({
       key: category,
-      label: category,
+      label: categoryTitleOf(categories, category),
       children: buildInventoryTypeNodes(entries, category, categories.keyed),
     })
   }
@@ -162,7 +164,7 @@ export function InventoryLocationTypePanelCard({
           row,
           path: classifyItem(row, categories.roots),
         }))
-        return buildInventoryTypeNodes(entries, "Crafting", categories.keyed)
+        return buildInventoryTypeNodes(entries, "crafting", categories.keyed)
       }
 
       if (card.locationType === "character") {

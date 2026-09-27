@@ -45,7 +45,7 @@ function childLeavesOf(node: InventoryNode | undefined): readonly InventoryLeafN
 test("two slots holding one item fold into a leaf that opens that item's tooltip", () => {
   const [built] = buildInventoryTypeNodes(
     [entryOf("a", MACE_LINK), entryOf("b", MACE_LINK)],
-    "Equipment",
+    "equipment",
     {}
   )
   const leaf = leafOf(built)
@@ -58,7 +58,7 @@ test("two slots holding one item fold into a leaf that opens that item's tooltip
 test("two items of one name and quality but different links are a branch of leaves, each with its tooltip", () => {
   const [built] = buildInventoryTypeNodes(
     [entryOf("a", MACE_LINK), entryOf("b", OTHER_MACE_LINK)],
-    "Equipment",
+    "equipment",
     {}
   )
   const children = childLeavesOf(built)
@@ -70,7 +70,7 @@ test("a leaf's tooltip carries the enchant its own slot was read with", () => {
   const entry = entryOf("a", MACE_LINK)
   entry.row.enchantHeader = "Absorb Stamina Enchantment"
   entry.row.enchantDescription = "Deals |cffffff1124|r Physical Damage."
-  const leaf = leafOf(buildInventoryTypeNodes([entry], "Equipment", {})[0])
+  const leaf = leafOf(buildInventoryTypeNodes([entry], "equipment", {})[0])
   expect(leaf.tooltipInstance?.enchantHeader).toBe("Absorb Stamina Enchantment")
   expect(leaf.tooltipInstance?.enchantDescription).toBe("Deals |cffffff1124|r Physical Damage.")
 })
@@ -78,7 +78,7 @@ test("a leaf's tooltip carries the enchant its own slot was read with", () => {
 test("a leaf's tooltip carries the values its own slot's link was read with", () => {
   const entry = entryOf("a", MACE_LINK)
   entry.row.ownValues = { requiredLevel: 50, requiredCp: 160, weaponPower: 1335 }
-  const leaf = leafOf(buildInventoryTypeNodes([entry], "Equipment", {})[0])
+  const leaf = leafOf(buildInventoryTypeNodes([entry], "equipment", {})[0])
   expect(leaf.tooltipInstance?.own).toEqual({
     requiredLevel: 50,
     requiredCp: 160,
@@ -89,7 +89,7 @@ test("a leaf's tooltip carries the values its own slot's link was read with", ()
 test("slots with no link still fold together, with no tooltip to open", () => {
   const [built] = buildInventoryTypeNodes(
     [entryOf("a", undefined), entryOf("b", undefined)],
-    "Equipment",
+    "equipment",
     {}
   )
   const leaf = leafOf(built)

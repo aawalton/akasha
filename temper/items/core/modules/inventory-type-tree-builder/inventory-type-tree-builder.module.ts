@@ -20,5 +20,9 @@ export const inventoryTypeTreeBuilder = {
       decisionKind: "decision-kind/departure",
       statement: "Slots of one name holding different items are a branch of a leaf for each.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A category is found in the tree by its slug.",
+    },
   ],
 } as const satisfies Module

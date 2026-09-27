@@ -11,5 +11,9 @@ export const inventorySummaryPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "The Summary title and the Currencies row are web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A category row is named by its item category tree page.",
+    },
   ],
 } as const satisfies Module

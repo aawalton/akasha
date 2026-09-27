@@ -29,5 +29,9 @@ export const inventoryGrouping = {
       decisionKind: "decision-kind/departure",
       statement: "A location a page names is shown by that page's title.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Placed furnishings file under the tree's furnishings and placed branches.",
+    },
   ],
 } as const satisfies Module

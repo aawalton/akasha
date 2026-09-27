@@ -35,7 +35,7 @@ export function InventoryTypePanelCard({
   return (
     <InventoryPanelCard
       id={`inventory-${categoryId}`}
-      title={group.category}
+      title={categories[group.category]?.name ?? group.category}
       items={nodes}
       sortMode={sortMode}
       sortDirection={sortDirection}

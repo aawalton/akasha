@@ -5,6 +5,7 @@ import { computeValue } from "akasha/temper/items/core/modules/inventory-display
 import {
   INVENTORY_TYPE_CATEGORY_ORDER,
   type InventoryTypeEntry,
+  inventoryTypeCategoryOf,
 } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import { buildInventoryTypeNodes } from "akasha/temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
@@ -64,14 +65,16 @@ function buildTypeBranchesFromEntries(
   entries: readonly InventoryTypeEntry[],
   keyed: ItemCategoriesKeyed
 ): readonly InventoryNode[] {
+  const roots = Object.values(keyed)
   const byCategory = new Map<string, InventoryTypeEntry[]>()
   for (const entry of entries) {
     const l0 = entry.path[0]
     if (l0 == null) continue
-    let list = byCategory.get(l0)
+    const category = inventoryTypeCategoryOf(l0, roots)
+    let list = byCategory.get(category)
     if (!list) {
       list = []
-      byCategory.set(l0, list)
+      byCategory.set(category, list)
     }
     list.push(entry)
   }
@@ -82,7 +85,7 @@ function buildTypeBranchesFromEntries(
     if (!categoryEntries || categoryEntries.length === 0) continue
     const children = buildInventoryTypeNodes(categoryEntries, category, keyed)
     if (children.length === 0) continue
-    nodes.push({ key: category.toLowerCase(), label: category, children })
+    nodes.push({ key: category, label: keyed[category]?.name ?? category, children })
   }
   return nodes
 }
@@ -207,7 +210,7 @@ function buildLocationGroupChildren(
   }
 
   if (group.locationType === "craftbag") {
-    return buildInventoryTypeNodes(entries, "Crafting", keyed)
+    return buildInventoryTypeNodes(entries, "crafting", keyed)
   }
 
   return buildTypeBranchesFromEntries(entries, keyed)

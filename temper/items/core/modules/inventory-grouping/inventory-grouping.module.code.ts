@@ -1,5 +1,8 @@
 import { heldTraitOfEso } from "akasha/temper/catalog/gear/equipment/modules/eso-trait-map/eso-trait-map.module.code.ts"
-import { classifyItem } from "akasha/temper/items/core/modules/classify-item/classify-item.module.code.ts"
+import {
+  classifyItem,
+  pathNamedBy,
+} from "akasha/temper/items/core/modules/classify-item/classify-item.module.code.ts"
 import { computeValue } from "akasha/temper/items/core/modules/inventory-display-value/inventory-display-value.module.code.ts"
 import {
   INVENTORY_TYPE_CATEGORY_ORDER,
@@ -8,17 +11,14 @@ import {
   type InventoryTypeEntry,
   type InventoryTypeGroup,
   type InventoryTypeSummary,
-  isInventoryTypeCategory,
+  inventoryTypeCategoryOf,
 } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type {
   InventoryDatabase,
   InventoryItemData,
   InventoryLocationData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
-import type {
-  CategoryPath,
-  ItemCategoryRoots,
-} from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import type { ItemCategoryRoots } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
 import type { OwnItemValues } from "akasha/temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.code.ts"
 import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import {
@@ -302,14 +302,12 @@ export function groupInventoryByType(
   roots: ItemCategoryRoots
 ): InventoryTypeSummary {
   const categoryMap = new Map<InventoryTypeCategory, InventoryTypeEntry[]>()
+  const placed = pathNamedBy(["furnishings", "furn-placed"], roots)
 
   for (const [locationKey, location] of Object.entries(inventory.locations)) {
     for (const row of flattenLocationItems(locationKey, location)) {
-      const path = row.key.includes("-placed-")
-        ? (["Furnishings", "Placed"] satisfies CategoryPath)
-        : classifyItem(row, roots)
-      const head = path[0]
-      const category: InventoryTypeCategory = isInventoryTypeCategory(head) ? head : "Miscellaneous"
+      const path = row.key.includes("-placed-") ? placed : classifyItem(row, roots)
+      const category = inventoryTypeCategoryOf(path[0], roots)
 
       let entries = categoryMap.get(category)
       if (!entries) {
