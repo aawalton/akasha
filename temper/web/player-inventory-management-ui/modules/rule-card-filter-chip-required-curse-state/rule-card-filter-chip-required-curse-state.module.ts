@@ -15,5 +15,9 @@ export const ruleCardFilterChipRequiredCurseState = {
       decisionKind: "decision-kind/departure",
       statement: "The chip's remove label is the remove-filter phrase.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The chip's prompt and heading are rule card phrases.",
+    },
   ],
 } as const satisfies Module

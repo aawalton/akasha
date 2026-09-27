@@ -14,10 +14,16 @@ import {
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { RequiredCurseStateCondition } from "akasha/temper/items/rules/core/modules/required-curse-state-filter-types/required-curse-state-filter-types.module.code.ts"
 import { curses } from "akasha/temper/player/character/source/modules/curses/curses.module.code.ts"
-import { useRemoveFilterLabel } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  useRemoveFilterLabel,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { useRuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-card/use-rule-card.module.code.ts"
+import { curseStateHeading } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/curse-state-heading.temper-rule-card-phrase.ts"
+import { selectCurseState } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/select-curse-state.temper-rule-card-phrase.ts"
 import type { ReactNode } from "react"
 
 type RuleCardState = ReturnType<typeof useRuleCard>
@@ -36,6 +42,8 @@ export function RuleCardFilterChipRequiredCurseState({
 }: RuleCardFilterChipRequiredCurseStateProps): ReactNode {
   const { requiredCurseStateValue, handleRequiredCurseStateChange, handleRemoveFilter } = state
   const removeLabel = useRemoveFilterLabel()
+  const phrases = useRuleCardPhrases()
+  const selectLabel = titleIn(phrases, selectCurseState.key)
   const held = curses().list
   const stateOptions = CURSE_STATES.map((value) => ({
     value,
@@ -43,7 +51,7 @@ export function RuleCardFilterChipRequiredCurseState({
   }))
 
   const selectedOption = stateOptions.find((o) => o.value === requiredCurseStateValue?.state)
-  const triggerLabel = selectedOption?.label ?? "Select Curse State"
+  const triggerLabel = selectedOption?.label ?? selectLabel
 
   return (
     <Popover>
@@ -60,14 +68,14 @@ export function RuleCardFilterChipRequiredCurseState({
       </PopoverTrigger>
       <PopoverContent align="start" className="flex flex-col gap-2">
         <Text variant="hint" className="font-medium">
-          Curse State
+          {titleIn(phrases, curseStateHeading.key)}
         </Text>
         <Select
           value={requiredCurseStateValue?.state ?? ""}
           onValueChange={handleRequiredCurseStateChange}
         >
           <SelectTrigger>
-            <SelectValue placeholder="Select Curse State" />
+            <SelectValue placeholder={selectLabel} />
           </SelectTrigger>
           <SelectContent>
             {stateOptions.map((opt) => (
