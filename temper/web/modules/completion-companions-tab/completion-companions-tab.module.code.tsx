@@ -24,6 +24,13 @@ import { CompanionRapportPanelCard } from "akasha/temper/web/modules/companion-r
 import { CompanionSkillLinesProgressPanelCard } from "akasha/temper/web/modules/companion-skill-lines-progress-panel-card/companion-skill-lines-progress-panel-card.module.code.tsx"
 import { CompanionsSummaryPanelCard } from "akasha/temper/web/modules/companions-summary-panel-card/companions-summary-panel-card.module.code.tsx"
 import { useCompletionToolbar } from "akasha/temper/web/modules/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { completionCompanionsTabAllCompanions } from "akasha/temper/web/phrase/pages/completion-companions-tab-all-companions.temper-web-phrase.ts"
+import { completionCompanionsTabCompanion } from "akasha/temper/web/phrase/pages/completion-companions-tab-companion.temper-web-phrase.ts"
+import { completionCompanionsTabSearch } from "akasha/temper/web/phrase/pages/completion-companions-tab-search.temper-web-phrase.ts"
+import { completionCompanionsTabStatus } from "akasha/temper/web/phrase/pages/completion-companions-tab-status.temper-web-phrase.ts"
+import { completionCompanionsTabUnsyncedMany } from "akasha/temper/web/phrase/pages/completion-companions-tab-unsynced-many.temper-web-phrase.ts"
+import { completionCompanionsTabUnsyncedOne } from "akasha/temper/web/phrase/pages/completion-companions-tab-unsynced-one.temper-web-phrase.ts"
 import { useMemo, useState } from "react"
 
 type FilterId = "status" | "companion"
@@ -34,12 +41,12 @@ function isFilterId(id: string): id is FilterId {
 
 interface CompanionsFilterDef {
   id: FilterId
-  label: string
+  label: { readonly slug: string }
 }
 
 const COMPANIONS_FILTERS: CompanionsFilterDef[] = [
-  { id: "status", label: "Status" },
-  { id: "companion", label: "Companion" },
+  { id: "status", label: completionCompanionsTabStatus },
+  { id: "companion", label: completionCompanionsTabCompanion },
 ]
 
 interface CompletionCompanionsTabProps {
@@ -59,6 +66,7 @@ export function CompletionCompanionsTab({
   companionSummary,
   companionProgressData,
 }: CompletionCompanionsTabProps) {
+  const phrase = usePhrase()
   const {
     completionFilter,
     sortMode,
@@ -164,9 +172,15 @@ export function CompletionCompanionsTab({
     <TabsContent value="companions">
       <PanelToggleProvider active={active}>
         <div className="flex flex-col gap-6">
-          <PageTabHeader title={selectedCompanion?.label ?? "All Companions"}>
+          <PageTabHeader
+            title={selectedCompanion?.label ?? phrase(completionCompanionsTabAllCompanions.slug)}
+          >
             <SearchSortFilterRow hasActiveFilters={hasActiveFilters} onReset={onReset}>
-              <SearchButton value={search} onChange={onSearchChange} placeholder="Search..." />
+              <SearchButton
+                value={search}
+                onChange={onSearchChange}
+                placeholder={phrase(completionCompanionsTabSearch.slug)}
+              />
               <SortButton
                 options={sortOptions}
                 sorts={[{ field: sortMode, direction: sortDirection }]}
@@ -178,14 +192,17 @@ export function CompletionCompanionsTab({
               />
               <FilterButton
                 hasActiveFilters={hasCompanionValue || hasStatusValue || addedFilters.size > 0}
-                emptySelectOptions={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+                emptySelectOptions={availableFilters.map((f) => ({
+                  id: f.id,
+                  label: phrase(f.label.slug),
+                }))}
                 onEmptySelect={handleAdd}
               >
                 <div className="flex flex-col gap-3">
                   {visibleFilters.map((filterDef) => (
                     <FilterGroup
                       key={filterDef.id}
-                      label={filterDef.label}
+                      label={phrase(filterDef.label.slug)}
                       onRemove={() => handleRemove(filterDef.id)}
                     >
                       {filterDef.id === "status" && (
@@ -209,7 +226,10 @@ export function CompletionCompanionsTab({
                     </FilterGroup>
                   ))}
                   <AddFilterButton
-                    options={availableFilters.map((f) => ({ id: f.id, label: f.label }))}
+                    options={availableFilters.map((f) => ({
+                      id: f.id,
+                      label: phrase(f.label.slug),
+                    }))}
                     onAdd={handleAdd}
                   />
                 </div>
@@ -218,10 +238,16 @@ export function CompletionCompanionsTab({
           </PageTabHeader>
           {unleveledCompanionCount > 0 && (
             <p className="text-secondary text-sm">
-              Companion levels have synced for {leveledCompanionCount} of {companionProgress.length}{" "}
-              companions. The {unleveledCompanionCount} not yet synced{" "}
-              {unleveledCompanionCount === 1 ? "is" : "are"} excluded from Companion Level, not
-              counted as zero.
+              {phrase(
+                unleveledCompanionCount === 1
+                  ? completionCompanionsTabUnsyncedOne.slug
+                  : completionCompanionsTabUnsyncedMany.slug,
+                {
+                  leveled: leveledCompanionCount,
+                  total: companionProgress.length,
+                  unleveled: unleveledCompanionCount,
+                }
+              )}
             </p>
           )}
           <ResponsiveColumns hasSummaryPanel>

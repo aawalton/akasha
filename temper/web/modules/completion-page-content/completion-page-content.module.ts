@@ -6,4 +6,10 @@ export const completionPageContent = {
   slug: "completion-page-content",
   definition: "the completion page's tabs and what each tab is handed to draw",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

@@ -380,6 +380,7 @@ export const temperWeb = {
     "module/companion-weapons-after-change",
     "module/character-passive-search-row",
     "module/automation-tab-wording",
+    "module/completion-page-tabs-list",
   ],
   decisions: [
     {

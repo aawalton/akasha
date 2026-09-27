@@ -6,4 +6,10 @@ export const completionCompanionsTab = {
   slug: "completion-companions-tab",
   definition: "the completion page's companions tab, its toolbar and its cards",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

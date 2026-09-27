@@ -10,11 +10,7 @@ import {
 import { scrollToCard } from "akasha/design/interface/layout/modules/scroll-to-card/scroll-to-card.module.code.ts"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
-import {
-  PageTabsTrigger,
-  Tabs,
-  TabsList,
-} from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+import { Tabs } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { useDebouncedValue } from "akasha/design/interface/primitive/modules/use-debounced-value/use-debounced-value.module.code.ts"
 import { useKeyboardBinding } from "akasha/design/interface/primitive/modules/use-keyboard-registry/use-keyboard-registry.module.code.ts"
@@ -36,11 +32,12 @@ import { CompletionPageEmpty } from "akasha/temper/web/modules/completion-page-e
 import {
   buildActivityItems,
   SKILL_TYPE_ITEMS,
-  SORT_OPTIONS,
-  STATUS_ITEMS,
+  sortOptions,
+  statusItems,
   VALID_TABS,
 } from "akasha/temper/web/modules/completion-page-filter-constants/completion-page-filter-constants.module.code.ts"
 import { CompletionPageOwnEmpty } from "akasha/temper/web/modules/completion-page-own-empty/completion-page-own-empty.module.code.tsx"
+import { CompletionPageTabsList } from "akasha/temper/web/modules/completion-page-tabs-list/completion-page-tabs-list.module.code.tsx"
 import { CompletionSummaryTab } from "akasha/temper/web/modules/completion-summary-tab/completion-summary-tab.module.code.tsx"
 import {
   type CompletionToolbarContextValue,
@@ -48,13 +45,16 @@ import {
 } from "akasha/temper/web/modules/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
 import { useCompletionFilters } from "akasha/temper/web/modules/use-completion-filters/use-completion-filters.module.code.ts"
 import { useCompletionProgress } from "akasha/temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { completionPageContentTitle } from "akasha/temper/web/phrase/pages/completion-page-content-title.temper-web-phrase.ts"
+import { completionPageContentToggleDebug } from "akasha/temper/web/phrase/pages/completion-page-content-toggle-debug.temper-web-phrase.ts"
 import { CompletionActivityModeContext } from "akasha/temper/web/player-completion-ui/modules/completion-activity-mode-context/completion-activity-mode-context.module.code.tsx"
 import type {
   CompletionFilter,
   CompletionSortMode,
 } from "akasha/temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx"
 import { CompletionSearchContext } from "akasha/temper/web/player-completion-ui/modules/completion-search-context/completion-search-context.module.code.tsx"
-import { ChevronLeft, Globe, Handshake, LayoutDashboard, Swords } from "lucide-react"
+import { ChevronLeft, Globe } from "lucide-react"
 import { useCallback, useEffect, useMemo, useRef } from "react"
 
 function skeletonFor(initialTab: string | undefined) {
@@ -166,9 +166,12 @@ export function CompletionPageContent({
     }
   }
 
+  const phrase = usePhrase()
+  const statusItemList = useMemo(() => statusItems(phrase), [phrase])
+  const sortOptionList = useMemo(() => sortOptions(phrase), [phrase])
   const selectedStatus = useMemo(
-    () => STATUS_ITEMS.filter((s) => values.completionFilter.includes(s.value)),
-    [values.completionFilter]
+    () => statusItemList.filter((s) => values.completionFilter.includes(s.value)),
+    [values.completionFilter, statusItemList]
   )
 
   const activityCategoryFilter: ActivityCategoryId[] = values.activity.filter(
@@ -184,7 +187,7 @@ export function CompletionPageContent({
   useKeyboardBinding({
     id: "completion.toggle-debug",
     chord: "Mod+Alt+A",
-    label: "Toggle completion debug view",
+    label: phrase(completionPageContentToggleDebug.slug),
     onTrigger: toggleDebug,
   })
   const activityItems = useMemo(() => buildActivityItems(values.debug), [values.debug])
@@ -239,10 +242,10 @@ export function CompletionPageContent({
       completionFilter,
       sortMode: values.sortMode,
       sortDirection: values.sortDirection,
-      sortOptions: SORT_OPTIONS,
+      sortOptions: sortOptionList,
       search: values.search,
       selectedStatus,
-      statusItems: STATUS_ITEMS,
+      statusItems: statusItemList,
       hasActiveFilters: completionHasActiveFilters,
       onReset: handleResetCompletion,
       onStatusSelect: (items: readonly BadgeToggleGroupItem[]) =>
@@ -260,6 +263,8 @@ export function CompletionPageContent({
       completionHasActiveFilters,
       handleResetCompletion,
       update,
+      sortOptionList,
+      statusItemList,
     ]
   )
 
@@ -298,7 +303,7 @@ export function CompletionPageContent({
                     </Link>
                   </Button>
                 )}
-                <PageTitle>Completion</PageTitle>
+                <PageTitle>{phrase(completionPageContentTitle.slug)}</PageTitle>
                 {viewUserId != null && (
                   <PageTitleBadges>
                     <Globe className="size-4 text-tertiary" />
@@ -317,12 +322,7 @@ export function CompletionPageContent({
               }}
             >
               <PageLayout.Tabs>
-                <TabsList className="@[1016px]:grid grid h-18 w-full @[1016px]:grid-cols-4 grid-cols-4 rounded-none min-[584px]:flex min-[584px]:h-9 min-[584px]:rounded-lg">
-                  <PageTabsTrigger value="summary" icon={<LayoutDashboard />} label="Summary" />
-                  <PageTabsTrigger value="account" icon={<Globe />} label="Account" />
-                  <PageTabsTrigger value="characters" icon={<Swords />} label="Characters" />
-                  <PageTabsTrigger value="companions" icon={<Handshake />} label="Companions" />
-                </TabsList>
+                <CompletionPageTabsList />
               </PageLayout.Tabs>
 
               <PageLayout.Content>

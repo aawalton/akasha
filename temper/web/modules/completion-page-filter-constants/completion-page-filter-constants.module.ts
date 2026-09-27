@@ -6,4 +6,11 @@ export const completionPageFilterConstants = {
   slug: "completion-page-filter-constants",
   definition: "the tabs, statuses, skill types and sort options the completion page admits",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Status and sort names are web phrase pages; skill type names are the skill type pages'.",
+    },
+  ],
 } as const satisfies Module

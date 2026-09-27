@@ -10,6 +10,8 @@ import type { CharacterProgressData } from "akasha/temper/web/modules/character-
 import { CharactersTabFilters } from "akasha/temper/web/modules/characters-tab-filters/characters-tab-filters.module.code.tsx"
 import { CharactersTabPanels } from "akasha/temper/web/modules/characters-tab-panels/characters-tab-panels.module.code.tsx"
 import { useCompletionToolbar } from "akasha/temper/web/modules/completion-toolbar-context/completion-toolbar-context.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { completionCharactersTabAllCharacters } from "akasha/temper/web/phrase/pages/completion-characters-tab-all-characters.temper-web-phrase.ts"
 import { useMemo } from "react"
 
 interface CompletionCharactersTabProps {
@@ -45,6 +47,7 @@ export function CompletionCharactersTab({
   onCharacterSummaryClick,
   characterSummary,
 }: CompletionCharactersTabProps) {
+  const phrase = usePhrase()
   const {
     completionFilter,
     sortMode,
@@ -153,7 +156,7 @@ export function CompletionCharactersTab({
       <PanelToggleProvider active={active}>
         <div className="flex flex-col gap-6">
           <CharactersTabFilters
-            title={selectedCharacter?.label ?? "All Characters"}
+            title={selectedCharacter?.label ?? phrase(completionCharactersTabAllCharacters.slug)}
             search={search}
             sortOptions={sortOptions}
             sortMode={sortMode}

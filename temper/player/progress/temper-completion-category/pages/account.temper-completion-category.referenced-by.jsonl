@@ -17,3 +17,4 @@
 {"propertySlug":"completion-category-parent","path":"temper/player/progress/temper-completion-category/pages/account-subclassing-skill-lines.temper-completion-category.ts","id":"01a05fcb-e4bd-7777-823a-e444492b0f35"}
 {"propertySlug":"completion-category-parent","path":"temper/player/progress/temper-completion-category/pages/account-subclassing-skill-morphs.temper-completion-category.ts","id":"01a05fcb-e4bd-7c1d-8a04-78c91b2500c1"}
 {"propertySlug":"completion-category-parent","path":"temper/player/progress/temper-completion-category/pages/account-tales-of-tribute.temper-completion-category.ts","id":"01a05fcb-e4bd-772f-8c2b-4b2c2e317d76"}
+{"propertySlug":"import","fileName":"account.temper-completion-category.ts","path":"temper/web/modules/completion-page-tabs-list/completion-page-tabs-list.module.code.tsx","typed":false,"deferred":false}

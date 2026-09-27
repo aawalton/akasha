@@ -25,6 +25,7 @@
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"temper/web/modules/completion-characters-tab/completion-characters-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"temper/web/modules/completion-companions-tab/completion-companions-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"temper/web/modules/completion-page-content/completion-page-content.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"temper/web/modules/completion-page-tabs-list/completion-page-tabs-list.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"temper/web/modules/completion-summary-tab/completion-summary-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"tabs.module.code.tsx","path":"temper/web/modules/editor-tab-panels/editor-tab-panels.module.code.tsx","typed":false,"deferred":false}
