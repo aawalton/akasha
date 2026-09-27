@@ -72,6 +72,7 @@ const PLAYED = {
   characters: ["character-player/mara"],
   ownLength: 4,
   prose: "txt",
+  endsAt: "2026-09-26T09:05:00.000Z",
 }
 
 function turnAt(more: Record<string, unknown> = {}): Turn {
@@ -176,7 +177,7 @@ async function rewoundBy(argv: readonly string[], reach: Rewinding, into: Seen) 
   )
 }
 
-test("a rewind clears what the turn made, keeps its action and takes its files in one landing", async () => {
+test("a rewind clears what the turn made, its end time too, keeps its action and takes its files in one landing", async () => {
   const into = seen()
   const answer = await rewoundBy([], reachOver(turnAt({ action: "I open the gate" }), into), into)
   expect(answer.refusals).toEqual([])
