@@ -43,6 +43,10 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The appointments listed are those after that end time, soonest first.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Every section a panel reads is composed, and the panels named settle what is drawn.",
     },

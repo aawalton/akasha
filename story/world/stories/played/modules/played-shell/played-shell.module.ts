@@ -67,6 +67,10 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The appointments still to come with the story's character are listed under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The panels sit in a drawer on a narrow screen and beside the run on a wide one.",
     },
 

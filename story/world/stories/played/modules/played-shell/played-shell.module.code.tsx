@@ -35,12 +35,15 @@ import { usePlayedBeside } from "akasha/story/world/stories/played/modules/playe
 import { PlayedChannel } from "akasha/story/world/stories/played/modules/played-channel/played-channel.module.code.tsx"
 import { PlayedPanels } from "akasha/story/world/stories/played/modules/played-panels/played-panels.module.code.tsx"
 import {
+  PLAYED_APPOINTMENT_AT_KEY,
+  PLAYED_APPOINTMENT_PAGE_TYPE_SLUG,
   PLAYED_CHAPTER_PAGE_TYPE_SLUG,
   PLAYED_CHAPTER_STORY_KEY,
   PLAYED_POSITION_KEY,
   PLAYED_TURN_COLLECTIONS_KEY,
   PLAYED_TURN_PAGE_TYPE_SLUG,
   type PlayedList,
+  playedAppointmentsListOf,
   playedChaptersOf,
   playedClockOf,
   playedEnvelope,
@@ -50,6 +53,7 @@ import {
   playedReady,
   playedTail,
   playedTurnsOf,
+  playedUpcomingOf,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
 import {
   stateOf,
@@ -75,6 +79,8 @@ const ASIDE_UNDRAWN = "hidden"
 const NOTE_LINE = "font-mono text-tertiary text-xs"
 
 const CLOCK_LINE = "text-secondary text-sm"
+
+const UPCOMING_LIST = "-mt-4 flex flex-col gap-1 text-sm text-tertiary"
 
 const GAME_UNREAD = "The game beside this story went unread, so only its own prose is drawn."
 
@@ -222,6 +228,20 @@ function PlayedStory({
   const characterAddress = namedAs(characterPlayer.slug, textIn(characters.rows[0]?.slug), null)
   const lastTurn = useMemo(() => lastTurnOf(ready), [ready])
   const clock = useMemo(() => playedClockOf(ready), [ready])
+  const appointmentOptions = useMemo<UsePagesSupabaseOptions>(
+    () => ({
+      pageTypeSlug: PLAYED_APPOINTMENT_PAGE_TYPE_SLUG,
+      where: [{ key: "characters", includes: characterAddress }],
+      order: [{ by: PLAYED_APPOINTMENT_AT_KEY, dir: "asc" }],
+      shape: shapeOf(playedAppointmentsListOf(characterAddress)),
+    }),
+    [characterAddress]
+  )
+  const appointments = usePages(appointmentOptions)
+  const upcoming = useMemo(
+    () => playedUpcomingOf(appointments.rows, ready),
+    [appointments.rows, ready]
+  )
   const filed = usePlayedState(characterAddress, lastTurn)
   const characterName = textIn(characters.rows[0]?.title)
   const state = useMemo(() => {
@@ -306,6 +326,15 @@ function PlayedStory({
         <>
           {titleRow}
           {clock === null ? null : <p className={CLOCK_LINE}>{clock}</p>}
+          {upcoming.length === 0 ? null : (
+            <ul className={UPCOMING_LIST}>
+              {upcoming.map((one) => (
+                <li key={one.id}>
+                  {one.when} · {one.title}
+                </li>
+              ))}
+            </ul>
+          )}
           {beside.kind === "unread" ? <p className={NOTE_LINE}>{GAME_UNREAD}</p> : null}
         </>
       }

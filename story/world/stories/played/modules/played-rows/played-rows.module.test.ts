@@ -11,6 +11,7 @@ import {
   playedTail,
   playedTitleOf,
   playedTurnsOf,
+  playedUpcomingOf,
 } from "akasha/story/world/stories/played/modules/played-rows/played-rows.module.code.ts"
 import { turnStatus } from "akasha/story/world/stories/played/turns/turn-status/turn-status.page-type.ts"
 
@@ -143,6 +144,29 @@ describe("playedClockOf", () => {
     ]
     expect(playedClockOf(rows)).toBeNull()
     expect(playedClockOf([])).toBeNull()
+  })
+})
+
+describe("playedUpcomingOf", () => {
+  const ready = [turnPage({ id: "t", position: 1, endsAt: "2026-09-26T12:04:00.000Z" })]
+  const meeting = (id: string, appointmentAt: string): Page =>
+    asPage({ pageTypeSlug: "world-appointment", id, title: `Meet ${id}`, appointmentAt })
+
+  test("lists the appointments after the latest turn's end time, soonest first", () => {
+    const rows = [
+      meeting("late", "2026-10-10T19:00:00.000Z"),
+      meeting("past", "2026-09-26T09:00:00.000Z"),
+      meeting("soon", "2026-10-03T11:00:00.000Z"),
+    ]
+    expect(playedUpcomingOf(rows, ready)).toEqual([
+      { id: "soon", when: "Saturday, October 3 · 11:00 AM", title: "Meet soon" },
+      { id: "late", when: "Saturday, October 10 · 7:00 PM", title: "Meet late" },
+    ])
+  })
+
+  test("lists nothing where the turns carry no time", () => {
+    const rows = [meeting("soon", "2026-10-03T11:00:00.000Z")]
+    expect(playedUpcomingOf(rows, [turnPage({ id: "t", position: 1 })])).toEqual([])
   })
 })
 

@@ -137,14 +137,64 @@ const PLAYED_CLOCK = new Intl.DateTimeFormat("en-US", {
   minute: "2-digit",
 })
 
-export function playedClockOf(ready: readonly Page[]): string | null {
-  const ends = playedOrder(ready).at(-1)?.[PLAYED_TURN_ENDS_AT_KEY]
-  if (typeof ends !== "string") return null
-  const at = new Date(ends)
-  if (Number.isNaN(at.getTime())) return null
+export const PLAYED_APPOINTMENT_PAGE_TYPE_SLUG = "world-appointment"
+
+export const PLAYED_APPOINTMENT_AT_KEY = "appointmentAt"
+
+const PLAYED_APPOINTMENT_CHARACTERS_KEY = "characters"
+
+export type PlayedAppointment = {
+  readonly id: string
+  readonly when: string
+  readonly title: string
+}
+
+function instantIn(value: unknown): Date | null {
+  if (typeof value !== "string") return null
+  const at = new Date(value)
+  return Number.isNaN(at.getTime()) ? null : at
+}
+
+function clockSaid(at: Date): string {
   const part = new Map(PLAYED_CLOCK.formatToParts(at).map((one) => [one.type, one.value]))
   const day = `${part.get("weekday")}, ${part.get("month")} ${part.get("day")}`
   return `${day} · ${part.get("hour")}:${part.get("minute")} ${part.get("dayPeriod")}`
+}
+
+function endedAt(ready: readonly Page[]): Date | null {
+  return instantIn(playedOrder(ready).at(-1)?.[PLAYED_TURN_ENDS_AT_KEY])
+}
+
+export function playedClockOf(ready: readonly Page[]): string | null {
+  const at = endedAt(ready)
+  return at === null ? null : clockSaid(at)
+}
+
+export function playedAppointmentsListOf(characterAddress: string): PlayedList {
+  return storyOnly(
+    PLAYED_APPOINTMENT_PAGE_TYPE_SLUG,
+    PLAYED_APPOINTMENT_CHARACTERS_KEY,
+    characterAddress
+  )
+}
+
+export function playedUpcomingOf(
+  appointments: readonly Page[],
+  ready: readonly Page[]
+): readonly PlayedAppointment[] {
+  const now = endedAt(ready)
+  if (now === null) return []
+  const upcoming: { readonly at: Date; readonly row: Page }[] = []
+  for (const row of appointments) {
+    const at = instantIn(row[PLAYED_APPOINTMENT_AT_KEY])
+    if (at !== null && at > now) upcoming.push({ at, row })
+  }
+  upcoming.sort((one, two) => one.at.getTime() - two.at.getTime())
+  return upcoming.map(({ at, row }) => ({
+    id: row.id,
+    when: clockSaid(at),
+    title: playedTitleOf(row),
+  }))
 }
 
 export function playedTail(rows: readonly Page[]): PlayedTail {
