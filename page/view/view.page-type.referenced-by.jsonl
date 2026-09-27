@@ -24,7 +24,6 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/curses-most-seen.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/enchantments-alphabetical.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/enchantments-most-seen.view.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/games-all.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/images-all.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/images-best.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/items-alphabetical.view.ts","typed":true,"deferred":false}
@@ -60,6 +59,7 @@
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/species-most-seen.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/spells-alphabetical.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/spells-most-seen.view.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/stories-played.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/tasks-not-completed.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/tasks-today.view.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"view.page-type.types.ts","path":"page/view/pages/tasks-up-next.view.ts","typed":true,"deferred":false}

@@ -31,4 +31,4 @@
 {"propertySlug":"import","fileName":"story-played.page-type.types.ts","path":"story/world/pages/tower-and-the-star/stories/played/tower-and-the-star/tower-and-the-star.story-played.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"story/world/world.page-type.ts","id":"01a063ce-6216-7000-8f40-f471a7c21987"}
 {"propertySlug":"target-page-type","path":"agent/properties/assignment-game.relation-property.ts","id":"01a0d483-495d-76a8-914a-46aea985626c"}
-{"propertySlug":"view-page-type","path":"page/view/pages/games-all.view.ts","id":"01a0d444-18f3-7b60-b381-1a06a6081457"}
+{"propertySlug":"view-page-type","path":"page/view/pages/stories-played.view.ts","id":"01a0d444-18f3-7b60-b381-1a06a6081457"}
