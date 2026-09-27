@@ -31,5 +31,6 @@ export const inferenceZimageUp = {
     },
   ],
   name: "zimage-up",
+  maxWallSeconds: 1800,
   arguments: [],
 } as const satisfies Command
