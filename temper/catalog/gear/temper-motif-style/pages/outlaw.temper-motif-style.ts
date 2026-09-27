@@ -6,6 +6,7 @@ export const outlaw = {
   slug: "outlaw",
   title: "Outlaw",
   esoItemStyleId: 47,
+  styleName: "Outlaw",
   collectionIndex: 10,
   sourceDescription: "Hew's Bane bosses",
 } as const satisfies TemperMotifStyle
