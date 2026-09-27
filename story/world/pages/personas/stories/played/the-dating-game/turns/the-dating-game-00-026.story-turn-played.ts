@@ -25,5 +25,6 @@ export const theDatingGame00026 = {
     '"So where do your feet take you, at that hour?"',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T17:06:00.000Z",
 } as const satisfies StoryTurnPlayed
