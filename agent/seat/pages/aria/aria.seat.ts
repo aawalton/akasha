@@ -9,7 +9,7 @@ export const aria = {
   role: "role/game-master",
   person: "person/alan",
   startMode: "seat-mode/interactive",
-  onCall: false,
+  onCall: true,
   registrationAccount: "model-account/aawalton",
   claudeCodeSessionUuid: "e8d019fa-bc94-477c-b804-d9bac7cfb1a2",
 } as const satisfies Seat
