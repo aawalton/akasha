@@ -224,7 +224,6 @@ export const otherwhereHallBack = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "The broom's bristles are worn short and splayed, and skip over salt as much as push it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -263,6 +262,14 @@ export const otherwhereHallBack = {
     },
     {
       fact: "The broom handle scuffed a gap a hand wide in the edge of Nala's salt oval.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "A small engorged bookworm weighs twenty-odd pounds.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The second small bookworm stopped circling Nala's oval and lifted its blind head toward the gap.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],

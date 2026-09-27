@@ -4,6 +4,7 @@ export const otherwhere00021 = {
   id: "01a0e4da-c957-72ef-b9b1-a24f69c01be8",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-021",
+  cover: "image/image-8445581f602e19db",
   ownLength: 131,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -14,7 +15,7 @@ export const otherwhere00021 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I reach out with the broom and hook it around one of the worms, pulling it into the salt",
   beats: [
@@ -28,5 +29,5 @@ export const otherwhere00021 = {
   ],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
