@@ -127,6 +127,7 @@ declare const EVENT_MAIL_TAKE_ALL_ATTACHMENTS_IN_CATEGORY_RESPONSE: number
 declare const EVENT_MAIL_TAKE_ATTACHED_ITEM_SUCCESS: number
 declare const EVENT_MAIL_TAKE_ATTACHED_MONEY_SUCCESS: number
 declare const EVENT_MAP_PING: number
+declare const EVENT_MATCH_TRADING_HOUSE_ITEM_NAMES_COMPLETE: number
 declare const EVENT_MONEY_UPDATE: number
 declare const EVENT_MOUNTED_STATE_CHANGED: number
 declare const EVENT_MOUNT_FAILURE: number

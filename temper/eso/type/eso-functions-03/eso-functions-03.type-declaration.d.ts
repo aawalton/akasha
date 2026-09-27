@@ -264,6 +264,13 @@ declare const RequestPostItemOnTradingHouse: (
   quantity?: number,
   postingPrice?: number
 ) => void
+declare const SetPendingItemPurchaseByItemUniqueId: (
+  this: void,
+  itemUniqueId?: Id64,
+  purchasePrice?: number
+) => void
+declare const ClearPendingItemPurchase: (this: void) => void
+declare const ConfirmPendingItemPurchase: (this: void) => void
 declare const ClearAllTradingHouseSearchTerms: (this: void) => void
 declare function SetTradingHouseFilter(
   this: void,
@@ -334,6 +341,16 @@ declare function GetTradingHouseListingItemLink(
   linkStyle?: number
 ): string
 declare function GetTradingHouseCooldownRemaining(this: void): number
+declare function MatchTradingHouseItemNames(this: void, searchText?: string): number | undefined
+declare function GetMatchTradingHouseItemNamesResult(
+  this: void,
+  taskId?: number,
+  resultIndex?: number
+): LuaMultiReturn<[itemName: string, itemNameHash: number]>
+declare function GetNumMatchTradingHouseItemNamesResults(
+  this: void,
+  taskId?: number
+): number | undefined
 declare function GetNumZones(this: void): number
 declare function SetMapToPlayerLocation(this: void): SetMapResultCode
 declare function DoesCurrentMapMatchMapForPlayerLocation(this: void): boolean
