@@ -30,4 +30,5 @@ export const theDatingGame00010 = {
     "She tugs his hand, and they walk on up the canyon.",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed
