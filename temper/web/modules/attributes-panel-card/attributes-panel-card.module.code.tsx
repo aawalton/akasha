@@ -5,10 +5,21 @@ import { Button } from "akasha/design/interface/primitive/modules/button/button.
 import { Input } from "akasha/design/interface/primitive/modules/input/input.module.code.tsx"
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
-import { capitalize } from "akasha/text/writing/modules/capitalize/capitalize.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { attributesPanelCardHealth } from "akasha/temper/web/phrase/pages/attributes-panel-card-health.temper-web-phrase.ts"
+import { attributesPanelCardMagicka } from "akasha/temper/web/phrase/pages/attributes-panel-card-magicka.temper-web-phrase.ts"
+import { attributesPanelCardSetAll } from "akasha/temper/web/phrase/pages/attributes-panel-card-set-all.temper-web-phrase.ts"
+import { attributesPanelCardStamina } from "akasha/temper/web/phrase/pages/attributes-panel-card-stamina.temper-web-phrase.ts"
+import { attributesPanelCardTitle } from "akasha/temper/web/phrase/pages/attributes-panel-card-title.temper-web-phrase.ts"
 import { Maximize2 } from "lucide-react"
 
 type AttributeKey = "magicka" | "health" | "stamina"
+
+const LABEL_OF = {
+  magicka: attributesPanelCardMagicka.slug,
+  health: attributesPanelCardHealth.slug,
+  stamina: attributesPanelCardStamina.slug,
+} as const satisfies Record<AttributeKey, string>
 
 interface AttributesPanelCardProps {
   attributes: {
@@ -28,6 +39,7 @@ export function AttributesPanelCard({
   readOnly,
 }: AttributesPanelCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const setAllAttributesTo = (attr: AttributeKey) => {
     onUpdate({
       magicka: attr === "magicka" ? 64 : 0,
@@ -49,9 +61,14 @@ export function AttributesPanelCard({
   }
 
   return (
-    <InputPanelCard id="attributes" collapsible={true} title="Attributes" className={className}>
+    <InputPanelCard
+      id="attributes"
+      collapsible={true}
+      title={phrase(attributesPanelCardTitle.slug)}
+      className={className}
+    >
       {(["magicka", "health", "stamina"] as const).map((attr) => (
-        <InputPanelCard.Row key={attr} label={capitalize(attr)}>
+        <InputPanelCard.Row key={attr} label={phrase(LABEL_OF[attr])}>
           <Input
             type="number"
             min={0}
@@ -69,7 +86,7 @@ export function AttributesPanelCard({
             variant="secondary"
             className="h-9 w-9 shrink-0"
             onClick={() => setAllAttributesTo(attr)}
-            title={`Set all 64 points to ${attr}`}
+            title={phrase(attributesPanelCardSetAll.slug, { attribute: phrase(LABEL_OF[attr]) })}
             disabled={readOnly}
           >
             <Maximize2 className="h-4 w-4" />

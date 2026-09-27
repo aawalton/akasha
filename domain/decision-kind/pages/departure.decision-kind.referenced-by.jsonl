@@ -6126,6 +6126,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/account-progress/account-progress.module.ts","id":"01a06421-f74b-7ac7-a2c3-4120a9e80006"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/armor-card/armor-card.module.ts","id":"01a0642d-9a17-7abb-8e55-5319438ebc16"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/armor-panel-card/armor-panel-card.module.ts","id":"01a0642d-9a17-7544-8ead-6c25afebc88f"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/attributes-panel-card/attributes-panel-card.module.ts","id":"01a0642c-5b74-7c5a-a0d1-3f4087f2855f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/auth-provider-wrapper/auth-provider-wrapper.module.ts","id":"01a06432-b190-7bdd-9689-8a19b01cb487"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/automation-tab/automation-tab.module.ts","id":"01a06432-b190-7270-aa46-13a81135597b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-date-line/build-date-line.module.ts","id":"01a0d6db-3513-7e6e-900d-32de1dfa4c87"}
