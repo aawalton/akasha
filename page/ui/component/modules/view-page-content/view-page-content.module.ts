@@ -6,4 +6,18 @@ export const viewPageContent = {
   slug: "view-page-content",
   definition: "the body of a view page, with its tabs and their settings",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The page types a view may list leave out view, page type and nav, known by slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A nav page or page type with no title is named by its slug.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What the page says when it has no view is read live from web phrases.",
+    },
+  ],
 } as const satisfies Module

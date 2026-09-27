@@ -4,6 +4,9 @@ import { PageTitleBadges } from "akasha/design/interface/layout/modules/page-lay
 import { PAGE_TITLE_CLASSES } from "akasha/design/interface/layout/modules/page-layout-data/page-layout-data.module.code.ts"
 import { useLayoutSearchParams } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import { TabsContent } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
+import { usePhrase } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/modules/reading/web-phrase-reading.module.code.tsx"
+import { viewPageEmpty } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-page-empty.web-phrase.ts"
+import { viewPageEmptyTitle } from "akasha/infrastructure/service/akasha-service/web-app/web-phrase/pages/view-page-empty-title.web-phrase.ts"
 import type { PropertyDefinition } from "akasha/page/core/modules/page-data/page-data.module.code.ts"
 import { parseNavConfig } from "akasha/page/core/schema/modules/nav-config/nav-config.module.code.ts"
 import { parsePageTypeData } from "akasha/page/core/schema/modules/pages/pages.module.code.ts"
@@ -33,10 +36,16 @@ import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type
 import { ArrowLeft } from "lucide-react"
 import { useCallback, useEffect, useMemo, useState } from "react"
 
-const SYSTEM_PAGE_TYPE_NAMES = new Set(["View", "Page Type", "Nav"])
-
 const PAGE_TYPE_SLUG = "page-type"
 const NAV_SLUG = toPageTypeSlug("nav")
+
+const SYSTEM_PAGE_TYPES: ReadonlySet<string> = new Set(["view", PAGE_TYPE_SLUG, NAV_SLUG])
+
+function nameOf(properties: Readonly<Record<string, unknown>> | undefined): string {
+  const title = properties?.title
+  if (typeof title === "string" && title !== "") return title
+  return typeof properties?.slug === "string" ? properties.slug : ""
+}
 
 interface ViewPageContentProps {
   navItemIdParam: string
@@ -128,16 +137,13 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
   const pageTypeOptions: PageTypeOption[] = useMemo(
     () =>
       pageTypes
-        .filter((pt) => {
-          const name = String(pt.properties?.title ?? "")
-          return !SYSTEM_PAGE_TYPE_NAMES.has(name)
-        })
+        .filter((pt) => !SYSTEM_PAGE_TYPES.has(String(pt.properties?.slug ?? "")))
         .map((pt) => ({
           id: pt._id,
-          name: String(pt.properties?.title ?? ""),
+          name: nameOf(pt.properties),
         }))
         .sort((a, b) => a.name.localeCompare(b.name)),
-    [pageTypes, userId]
+    [pageTypes]
   )
 
   const navTypeDefinitions = useMemo<readonly PropertyDefinition[]>(() => {
@@ -153,7 +159,8 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
 
   const navData = useMemo(() => toPageDataJSON(navItemPage?.properties), [navItemPage])
 
-  const pageName = String(navItemPage?.properties?.title ?? "View")
+  const pageName = nameOf(navItemPage?.properties)
+  const phrase = usePhrase()
 
   const backHref =
     typeof navItemPage?.properties?.backHref === "string"
@@ -231,8 +238,8 @@ export function ViewPageContent({ navItemIdParam }: ViewPageContentProps) {
         syncUrl
         storagePrefix={`view-${navItemIdParam}`}
         empty={{
-          title: "No views",
-          description: "Create a view to get started.",
+          title: phrase(viewPageEmptyTitle.slug),
+          description: phrase(viewPageEmpty.slug),
         }}
       >
         {viewTabItems.map((viewTab) => (
