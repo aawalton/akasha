@@ -101,13 +101,12 @@ export const otherwhereMainHall = {
     },
     {
       fact: "A bookworm pressed into heaped salt keeps drying for as long as it is held there.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Salted bookworm skin goes dry and rough, easy to grip, though the mouth end still bites.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -248,7 +247,6 @@ export const otherwhereMainHall = {
       fact: "A second salting shrank the nearest bookworm along half its length, but it still moves.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Moving silently did not hide Nala; the blind bookworm turned and tracked her anyway.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -267,6 +265,14 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The salted bookworm lies at Nala's feet by the salt box, its mouth open and working.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala pinned the salted bookworm in the heaped salt; it shrinks and weakens but isn't still yet.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The pinned bookworm's teeth caught Nala's forearm, a shallow stinging scrape.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],

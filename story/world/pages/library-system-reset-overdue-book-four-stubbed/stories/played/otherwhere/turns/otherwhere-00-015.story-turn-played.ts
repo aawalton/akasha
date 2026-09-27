@@ -4,6 +4,7 @@ export const otherwhere00015 = {
   id: "01a0e496-745a-7809-8f3b-2411a6882500",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-015",
+  cover: "image/image-ea808d8330f2d273",
   ownLength: 193,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -14,7 +15,7 @@ export const otherwhere00015 = {
     "character-other/otherwhere-links",
     "character-other/otherwhere-engorged-bookworm-01",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I push it over onto the salt and hold it there",
   beats: [
     "She drops down and grabs the bookworm behind its head, where the salt has dried its skin rough.",
@@ -30,5 +31,5 @@ export const otherwhere00015 = {
   ],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
