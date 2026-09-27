@@ -6,6 +6,7 @@ export const akaviri = {
   slug: "akaviri",
   title: "Akaviri",
   esoItemStyleId: 33,
+  styleName: "Akaviri",
   collectionIndex: 4,
   sourceDescription: "Cyrodiil War Researchers",
 } as const satisfies TemperMotifStyle
