@@ -1,5 +1,6 @@
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.ts","path":"temper/items/rules/core/modules/inventory-rule-to-pages/inventory-rule-to-pages.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.ts","path":"temper/items/rules/core/modules/inventory-rule-writes/inventory-rule-writes.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-condition-field.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/use-condition-field-titles/use-condition-field-titles.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/all-stocked.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/bop-tradeable.temper-condition-field.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-condition-field.page-type.types.ts","path":"temper/player/progress/temper-condition-field/pages/bound.temper-condition-field.ts","typed":true,"deferred":false}
