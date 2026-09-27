@@ -6,4 +6,10 @@ export const inventoryTab = {
   slug: "inventory-tab",
   definition: "the inventory tab of settings, where logging and safety are set",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

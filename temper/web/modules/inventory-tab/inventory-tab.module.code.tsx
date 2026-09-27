@@ -19,6 +19,16 @@ import {
   type GuildBankListState,
   resolveGuildBankListState,
 } from "akasha/temper/web/modules/guild-bank-list-state/guild-bank-list-state.module.code.ts"
+import {
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryTabDataUnreadable } from "akasha/temper/web/phrase/pages/inventory-tab-data-unreadable.temper-web-phrase.ts"
+import { inventoryTabLoadFailed } from "akasha/temper/web/phrase/pages/inventory-tab-load-failed.temper-web-phrase.ts"
+import { inventoryTabManagedGuildBanks } from "akasha/temper/web/phrase/pages/inventory-tab-managed-guild-banks.temper-web-phrase.ts"
+import { inventoryTabNoGuildBanks } from "akasha/temper/web/phrase/pages/inventory-tab-no-guild-banks.temper-web-phrase.ts"
+import { inventoryTabNoInventoryData } from "akasha/temper/web/phrase/pages/inventory-tab-no-inventory-data.temper-web-phrase.ts"
+import { inventoryTabWatcher } from "akasha/temper/web/phrase/pages/inventory-tab-watcher.temper-web-phrase.ts"
 import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
 import { AlertCircle, Package } from "lucide-react"
@@ -29,6 +39,7 @@ interface InventoryTabProps {
 }
 
 export function InventoryTab({ active }: InventoryTabProps) {
+  const phrase = usePhrase()
   const userId = useUserId()
   const { inventory, isLoading, isError, capturedAt } = useInventory(userId)
   const { managedSet, updateManagedGuildBanks } = useManagedGuildBanks()
@@ -52,7 +63,7 @@ export function InventoryTab({ active }: InventoryTabProps) {
 
   return (
     <ResponsiveColumns>
-      <InputPanelCard id="managed-guild-banks" title="Managed Guild Banks">
+      <InputPanelCard id="managed-guild-banks" title={phrase(inventoryTabManagedGuildBanks.slug)}>
         {state === "ready" ? (
           guildBanks.map((gb) => (
             <InputPanelCard.Row key={gb.key} label={gb.displayName}>
@@ -73,6 +84,8 @@ export function InventoryTab({ active }: InventoryTabProps) {
 }
 
 function GuildBankListPlaceholder({ state }: { state: Exclude<GuildBankListState, "ready"> }) {
+  const phrase = usePhrase()
+  const phraseDescription = usePhraseDescription()
   switch (state) {
     case "loading":
       return (
@@ -88,12 +101,8 @@ function GuildBankListPlaceholder({ state }: { state: Exclude<GuildBankListState
             <EmptyMedia variant="icon">
               <AlertCircle />
             </EmptyMedia>
-            <EmptyTitle>Couldn't load your inventory</EmptyTitle>
-            <EmptyDescription>
-              Temper could not read your inventory data just now, so it cannot tell which guild
-              banks you have. This is a fault on Temper's side — not your game, and not your
-              add-ons. Reloading the page will try again.
-            </EmptyDescription>
+            <EmptyTitle>{phrase(inventoryTabLoadFailed.slug)}</EmptyTitle>
+            <EmptyDescription>{phraseDescription(inventoryTabLoadFailed.slug)}</EmptyDescription>
           </EmptyHeader>
         </Empty>
       )
@@ -104,12 +113,9 @@ function GuildBankListPlaceholder({ state }: { state: Exclude<GuildBankListState
             <EmptyMedia variant="icon">
               <AlertCircle />
             </EmptyMedia>
-            <EmptyTitle>Your inventory data could not be read</EmptyTitle>
+            <EmptyTitle>{phrase(inventoryTabDataUnreadable.slug)}</EmptyTitle>
             <EmptyDescription>
-              Temper has an inventory reading for this account but could not reassemble it, so it
-              cannot tell which guild banks are in it. The data arrived — reading it is what failed,
-              which is Temper's fault rather than your game's. A fresh sync will replace the
-              reading.
+              {phraseDescription(inventoryTabDataUnreadable.slug)}
             </EmptyDescription>
           </EmptyHeader>
         </Empty>
@@ -121,12 +127,11 @@ function GuildBankListPlaceholder({ state }: { state: Exclude<GuildBankListState
             <EmptyMedia variant="icon">
               <Package />
             </EmptyMedia>
-            <EmptyTitle>No inventory data yet</EmptyTitle>
+            <EmptyTitle>{phrase(inventoryTabNoInventoryData.slug)}</EmptyTitle>
             <EmptyDescription>
-              Temper has not received any inventory data for this account, so it has nothing to list
-              here yet. Inventory reaches Temper through the{" "}
+              {phraseDescription(inventoryTabNoInventoryData.slug)}{" "}
               <LayoutLink href="/watcher" className="text-accent hover:underline">
-                Watcher
+                {phrase(inventoryTabWatcher.slug)}
               </LayoutLink>
               .
             </EmptyDescription>
@@ -140,12 +145,8 @@ function GuildBankListPlaceholder({ state }: { state: Exclude<GuildBankListState
             <EmptyMedia variant="icon">
               <Package />
             </EmptyMedia>
-            <EmptyTitle>No guild banks in your inventory data</EmptyTitle>
-            <EmptyDescription>
-              Your inventory data reached Temper and contains no guild banks. TemperItems can only
-              record a guild bank once you have opened it in game, so a bank you have not opened
-              since installing the add-on will not be here yet.
-            </EmptyDescription>
+            <EmptyTitle>{phrase(inventoryTabNoGuildBanks.slug)}</EmptyTitle>
+            <EmptyDescription>{phraseDescription(inventoryTabNoGuildBanks.slug)}</EmptyDescription>
           </EmptyHeader>
         </Empty>
       )
