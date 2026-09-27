@@ -5,6 +5,8 @@ export const systresGuardian = {
   type: "page-type/temper-motif-style",
   slug: "systres-guardian",
   title: "Systres Guardian",
+  esoItemStyleId: 132,
+  styleName: "Systres Guardian",
   collectionIndex: 98,
   sourceDescription: "Delve dailies (High Isle)",
   dropSources: [
