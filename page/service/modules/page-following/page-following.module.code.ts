@@ -50,6 +50,10 @@ const SPACED_MS = 500
 
 const PLANNED_AFTER_MS = 250
 
+const COUNTED_MS = 60_000
+
+const MB = 1024 * 1024
+
 type Changed = {
   readonly pageTypeSlug: string
   readonly slug?: string
@@ -248,6 +252,21 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
   const owed = new Map<string, ReturnType<typeof setTimeout>>()
   let hearing = new Map<string, readonly ((name: string) => undefined)[]>()
   let planning: ReturnType<typeof setTimeout> | null = null
+  const counted = { plans: 0, heard: 0, pushed: 0 }
+
+  setInterval(() => {
+    const memory = process.memoryUsage()
+    const helds = [...streams.values()].reduce((sum, one) => sum + one.helds.length, 0)
+    process.stdout.write(
+      `following: ${streams.size} streams, ${helds} follows, ${watchers.size} folders watched, ` +
+        `${sentAt.size} pages spaced, ${counted.plans} plans, ${counted.heard} changes heard, ` +
+        `${counted.pushed} pushes in the last minute; heap ${Math.round(memory.heapUsed / MB)} MB, ` +
+        `rss ${Math.round(memory.rss / MB)} MB\n`
+    )
+    counted.plans = 0
+    counted.heard = 0
+    counted.pushed = 0
+  }, COUNTED_MS).unref()
 
   const send = (one: Changed): undefined => {
     const id = idOf(root, one)
@@ -255,12 +274,14 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
     for (const stream of streams.values()) {
       const keys = keysFor(stream.helds, one, valued)
       if (keys.length === 0) continue
+      counted.pushed += 1
       stream.send(eventSaid("page", { ...one, ...(id === undefined ? {} : { id }), keys }))
     }
     return undefined
   }
 
   const changed = (one: Changed): undefined => {
+    counted.heard += 1
     const named = `${one.pageTypeSlug}/${one.slug ?? ""}`
     if (owed.has(named)) return undefined
     const wait = (sentAt.get(named) ?? 0) + SPACED_MS - Date.now()
@@ -276,6 +297,7 @@ export function followingFor(root: string, beatMs: number = BEAT_MS): Following 
   }
 
   const plan = (): undefined => {
+    counted.plans += 1
     const helds = [...streams.values()].flatMap((one) => one.helds)
     let planned: Planned
     try {

@@ -106,5 +106,9 @@ export const pageFollowing = {
       decisionKind: "decision-kind/departure",
       statement: "What such a stream held unread is let go with it rather than kept.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Each minute one line says how much following is held, and the memory in use.",
+    },
   ],
 } as const satisfies Module
