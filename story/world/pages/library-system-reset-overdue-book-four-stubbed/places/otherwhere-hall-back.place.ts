@@ -142,19 +142,19 @@ export const otherwhereHallBack = {
     },
     {
       fact: "A salt ring moved caterpillar-fashion, front laid before back is swept up, stays unbroken.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A caterpillar ring moves only a few feet a minute, slow enough for bookworms to close in.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Double-thick, the box's salt makes a ring about four feet across and six long, little to spare.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Each few feet of sweeping scatters a little salt, so a travelling ring thins as it goes.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A broom's bristles sweep salt onto a bookworm from past the reach of its lunge.",
@@ -230,6 +230,30 @@ export const otherwhereHallBack = {
     },
     {
       fact: "The broom's bristles are worn short and splayed, and skip over salt as much as push it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala emptied the salt box, sweeping her ring into an oval four feet across and six feet long.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala inches her salt oval caterpillar-fashion down the center of the hall, from inside it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Two small engorged bookworms came off their heaps at Nala and stopped dead at her salt oval.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "At the oval's center Nala is just beyond the reach of the two bookworms circling its edge.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "A much deeper, bigger roar rolled out between the columns from far back in the dark.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "The salt along the tail of Nala's oval has worn thin in a patch.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],

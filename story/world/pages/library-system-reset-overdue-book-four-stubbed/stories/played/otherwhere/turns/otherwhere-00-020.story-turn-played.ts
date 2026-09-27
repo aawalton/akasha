@@ -4,6 +4,7 @@ export const otherwhere00020 = {
   id: "01a0e4b7-eda1-7c64-8b2f-2043450e2bcd",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-020",
+  cover: "image/image-ee168ded1cda1a5b",
   ownLength: 323,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -15,7 +16,7 @@ export const otherwhere00020 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "“Well, good thing there is a bit more salt.” I widen the circle to two feet from me to give some space, then use the rest of the salt to lengthen it forward into an oval, then go back to the beginning and sweep the back part forward until it is about four feet across again, inching forward, like a worm made of salt.",
   beats: [
@@ -37,5 +38,5 @@ export const otherwhere00020 = {
   ],
   lore: ["place/otherwhere-hall-back", "place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
