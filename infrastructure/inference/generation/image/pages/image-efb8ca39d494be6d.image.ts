@@ -11,4 +11,5 @@ export const imageEfb8ca39d494be6d = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

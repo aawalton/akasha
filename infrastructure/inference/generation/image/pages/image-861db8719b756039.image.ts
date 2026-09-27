@@ -21,4 +21,5 @@ export const image861db8719b756039 = {
   ],
   poseTags: ["pose-tag/walking", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/sweatpants", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

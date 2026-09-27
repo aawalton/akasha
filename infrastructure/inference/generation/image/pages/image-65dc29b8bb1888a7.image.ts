@@ -11,4 +11,5 @@ export const image65dc29b8bb1888a7 = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

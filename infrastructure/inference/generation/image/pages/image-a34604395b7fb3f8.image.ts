@@ -16,4 +16,5 @@ export const imageA34604395b7fb3f8 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-lantern", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/camisole"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

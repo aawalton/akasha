@@ -26,4 +26,5 @@ export const imageE1711a0521e11091 = {
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

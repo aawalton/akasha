@@ -17,4 +17,5 @@ export const image2ca03114f7fe23b0 = {
   poseTags: ["pose-tag/standing", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

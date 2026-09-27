@@ -19,4 +19,5 @@ export const imageDe1270ad9506e7e8 = {
     "pose-tag/leaning",
   ],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/crop-top", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

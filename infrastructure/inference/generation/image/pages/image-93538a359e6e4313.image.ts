@@ -20,4 +20,5 @@ export const image93538a359e6e4313 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageAa5a82b89e1bc8ef = {
   settingTags: ["setting-tag/office", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

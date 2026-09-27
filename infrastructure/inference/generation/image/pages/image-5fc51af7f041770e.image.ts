@@ -15,4 +15,5 @@ export const image5fc51af7f041770e = {
     "wardrobe-tag/partial-undress",
   ],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

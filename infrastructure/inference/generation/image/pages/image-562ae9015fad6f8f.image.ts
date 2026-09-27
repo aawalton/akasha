@@ -19,4 +19,5 @@ export const image562ae9015fad6f8f = {
     "wardrobe-tag/bare-shoulders",
     "wardrobe-tag/bare-legs",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

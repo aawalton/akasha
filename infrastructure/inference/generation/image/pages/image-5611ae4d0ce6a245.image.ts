@@ -9,4 +9,5 @@ export const image5611ae4d0ce6a245 = {
   settingTags: ["setting-tag/cave", "setting-tag/underwater", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

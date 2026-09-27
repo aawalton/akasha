@@ -11,4 +11,5 @@ export const imageFdce62fcae829e39 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/bare-shoulders", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

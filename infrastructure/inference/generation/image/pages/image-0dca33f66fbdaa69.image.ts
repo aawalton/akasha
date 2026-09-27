@@ -19,4 +19,5 @@ export const image0dca33f66fbdaa69 = {
   settingTags: ["setting-tag/stage", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/playing-music", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/pants", "wardrobe-tag/vest", "wardrobe-tag/boots"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

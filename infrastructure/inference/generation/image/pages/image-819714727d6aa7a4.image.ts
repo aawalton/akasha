@@ -11,4 +11,5 @@ export const image819714727d6aa7a4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/rain"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/sitting", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

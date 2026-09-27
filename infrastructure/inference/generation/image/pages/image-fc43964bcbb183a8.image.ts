@@ -10,4 +10,5 @@ export const imageFc43964bcbb183a8 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/hotel"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

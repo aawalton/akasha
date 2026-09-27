@@ -19,4 +19,5 @@ export const image15d2bec4490419cb = {
   settingTags: ["setting-tag/bedroom", "setting-tag/fireplace"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageBf8441ca4d2e19d1 = {
   settingTags: ["setting-tag/river", "setting-tag/night", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

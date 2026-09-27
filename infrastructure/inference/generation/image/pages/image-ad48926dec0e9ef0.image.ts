@@ -19,4 +19,5 @@ export const imageAd48926dec0e9ef0 = {
     "pose-tag/back-view",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

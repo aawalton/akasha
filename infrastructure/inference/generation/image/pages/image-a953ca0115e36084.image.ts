@@ -9,4 +9,5 @@ export const imageA953ca0115e36084 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/vanity", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-in-mirror", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

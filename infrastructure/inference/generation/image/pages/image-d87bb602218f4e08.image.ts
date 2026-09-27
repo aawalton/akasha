@@ -19,4 +19,5 @@ export const imageD87bb602218f4e08 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

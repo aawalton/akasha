@@ -20,4 +20,5 @@ export const image766a00f0634338ad = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

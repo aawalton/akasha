@@ -20,4 +20,5 @@ export const image38ab9b590a1cf99a = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

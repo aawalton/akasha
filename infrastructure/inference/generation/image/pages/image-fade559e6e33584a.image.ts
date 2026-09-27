@@ -9,4 +9,5 @@ export const imageFade559e6e33584a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

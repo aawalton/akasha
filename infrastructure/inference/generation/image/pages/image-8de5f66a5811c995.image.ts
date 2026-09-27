@@ -20,4 +20,5 @@ export const image8de5f66a5811c995 = {
   settingTags: ["setting-tag/park", "setting-tag/outdoor"],
   poseTags: ["pose-tag/jumping", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

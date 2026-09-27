@@ -11,4 +11,5 @@ export const imageEff3fc3aa85dca48 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const image79074f3164ed0f35 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

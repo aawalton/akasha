@@ -21,4 +21,5 @@ export const image471ba169080abfa8 = {
     "wardrobe-tag/tiara",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageD1b4ee55e9824055 = {
   settingTags: ["setting-tag/balcony", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

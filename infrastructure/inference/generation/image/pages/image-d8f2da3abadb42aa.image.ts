@@ -10,4 +10,5 @@ export const imageD8f2da3abadb42aa = {
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

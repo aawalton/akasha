@@ -9,4 +9,5 @@ export const image3ae49259b298f380 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/dress", "wardrobe-tag/backless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

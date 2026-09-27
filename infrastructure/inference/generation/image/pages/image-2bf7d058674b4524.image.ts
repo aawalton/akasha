@@ -30,4 +30,5 @@ export const image2bf7d058674b4524 = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

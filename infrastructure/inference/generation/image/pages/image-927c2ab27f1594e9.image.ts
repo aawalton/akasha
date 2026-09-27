@@ -19,4 +19,5 @@ export const image927c2ab27f1594e9 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/serious-expression"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

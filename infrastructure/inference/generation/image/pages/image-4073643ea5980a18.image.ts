@@ -11,4 +11,5 @@ export const image4073643ea5980a18 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/hoodie"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

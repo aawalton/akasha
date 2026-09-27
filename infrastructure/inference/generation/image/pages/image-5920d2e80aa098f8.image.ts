@@ -14,4 +14,5 @@ export const image5920d2e80aa098f8 = {
     "pose-tag/hand-on-face",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/lingerie", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

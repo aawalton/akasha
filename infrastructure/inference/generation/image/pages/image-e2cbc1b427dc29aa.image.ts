@@ -14,4 +14,5 @@ export const imageE2cbc1b427dc29aa = {
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/high-neck"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

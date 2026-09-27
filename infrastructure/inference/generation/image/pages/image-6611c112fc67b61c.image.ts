@@ -9,4 +9,5 @@ export const image6611c112fc67b61c = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/fireplace"],
   poseTags: ["pose-tag/lying-down", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const imageCe543388203c0f19 = {
     "pose-tag/looking-back",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/choker", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

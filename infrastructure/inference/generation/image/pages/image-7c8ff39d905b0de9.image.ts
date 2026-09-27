@@ -9,4 +9,5 @@ export const image7c8ff39d905b0de9 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

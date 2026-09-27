@@ -10,4 +10,5 @@ export const image421d70885b09ee7e = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

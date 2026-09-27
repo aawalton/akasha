@@ -26,4 +26,5 @@ export const imageE169c4c60d4e94af = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

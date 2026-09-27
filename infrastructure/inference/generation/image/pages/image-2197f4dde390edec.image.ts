@@ -9,4 +9,5 @@ export const image2197f4dde390edec = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/glitter-makeup"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageEf0aa5d44ccd9f96 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

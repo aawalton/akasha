@@ -14,4 +14,5 @@ export const imageB552fd8dedfe35ac = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/partial-undress", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

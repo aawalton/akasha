@@ -20,4 +20,5 @@ export const image3c8c32ece8ed3d23 = {
   poseTags: ["pose-tag/kissing", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

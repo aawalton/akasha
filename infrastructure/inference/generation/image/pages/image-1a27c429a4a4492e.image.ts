@@ -25,4 +25,5 @@ export const image1a27c429a4a4492e = {
     "wardrobe-tag/gloves",
   ],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/weapons", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

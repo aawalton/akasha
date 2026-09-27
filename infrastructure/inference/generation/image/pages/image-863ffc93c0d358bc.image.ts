@@ -10,4 +10,5 @@ export const image863ffc93c0d358bc = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/red-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

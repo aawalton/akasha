@@ -10,4 +10,5 @@ export const imageB96fba6adebbdc20 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/head-tilt", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
   fantasyTags: ["fantasy-tag/fire"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

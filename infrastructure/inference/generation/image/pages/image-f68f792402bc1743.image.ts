@@ -9,4 +9,5 @@ export const imageF68f792402bc1743 = {
   settingTags: ["setting-tag/castle", "setting-tag/indoor", "setting-tag/hallway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/wig"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

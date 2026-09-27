@@ -19,4 +19,5 @@ export const imageF92343644cb5c70c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/jungle"],
   poseTags: ["pose-tag/embracing", "pose-tag/laughing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

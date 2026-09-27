@@ -15,4 +15,5 @@ export const image2dc3fa9b4a768e72 = {
     "wardrobe-tag/glitter-makeup",
   ],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

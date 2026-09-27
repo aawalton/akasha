@@ -9,4 +9,5 @@ export const image30a6cc42da52ec8e = {
   settingTags: ["setting-tag/stage", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

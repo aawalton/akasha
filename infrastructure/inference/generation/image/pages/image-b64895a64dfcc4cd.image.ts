@@ -19,4 +19,5 @@ export const imageB64895a64dfcc4cd = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/kissing", "pose-tag/embracing", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/latina"],
 } as const satisfies Image

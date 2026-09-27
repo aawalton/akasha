@@ -17,4 +17,5 @@ export const imageFe432f8d17190781 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tube-top"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image5c80adfda8c0d3e2 = {
     "pose-tag/hands-on-chest",
   ],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/lingerie", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

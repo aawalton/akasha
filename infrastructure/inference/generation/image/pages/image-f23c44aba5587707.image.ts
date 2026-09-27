@@ -10,4 +10,5 @@ export const imageF23c44aba5587707 = {
   settingTags: ["setting-tag/balcony", "setting-tag/night"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/glitter-makeup"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

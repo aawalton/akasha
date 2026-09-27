@@ -19,4 +19,5 @@ export const image58238d747c51ebfd = {
   settingTags: ["setting-tag/bathroom", "setting-tag/indoor", "setting-tag/shower"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/shirt", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

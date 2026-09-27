@@ -17,4 +17,5 @@ export const image0044b8e84e3890a7 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

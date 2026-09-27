@@ -10,4 +10,5 @@ export const image8a4875d4edce3746 = {
   poseTags: ["pose-tag/legs-spread", "pose-tag/masturbation", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wig", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

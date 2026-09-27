@@ -9,4 +9,5 @@ export const image03f20284cc236207 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/water", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

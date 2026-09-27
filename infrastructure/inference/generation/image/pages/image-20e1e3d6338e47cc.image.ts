@@ -26,4 +26,5 @@ export const image20e1e3d6338e47cc = {
   poseTags: ["pose-tag/holding-lantern", "pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

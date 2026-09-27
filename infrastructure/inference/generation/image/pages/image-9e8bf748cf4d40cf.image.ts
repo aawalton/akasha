@@ -19,4 +19,5 @@ export const image9e8bf748cf4d40cf = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/balcony"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/headphones", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageAb8ad51eac882ee1 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/rocks"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image66fa96e3b1b67675 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android", "fantasy-tag/bioluminescence"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

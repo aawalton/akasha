@@ -10,4 +10,5 @@ export const imageBc2a0f90c4856c27 = {
   poseTags: ["pose-tag/hand-on-face", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/golden-eyes", "fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

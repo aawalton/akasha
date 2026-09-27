@@ -25,4 +25,5 @@ export const imageBc1603fe979f82db = {
     "pose-tag/leaning",
   ],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

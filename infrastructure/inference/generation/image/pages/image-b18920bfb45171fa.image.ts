@@ -20,4 +20,5 @@ export const imageB18920bfb45171fa = {
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/sheer", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

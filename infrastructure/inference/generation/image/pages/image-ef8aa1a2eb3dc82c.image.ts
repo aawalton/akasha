@@ -10,4 +10,5 @@ export const imageEf8aa1a2eb3dc82c = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

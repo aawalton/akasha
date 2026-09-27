@@ -20,4 +20,5 @@ export const image7de030dad9fcddb4 = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/side-by-side", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/bare-shoulders", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageF9545306fcba4dc3 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/lingerie", "wardrobe-tag/bra"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const image33b9130172f18f7f = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/looking-away", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

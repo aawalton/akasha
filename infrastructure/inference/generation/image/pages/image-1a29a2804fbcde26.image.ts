@@ -10,4 +10,5 @@ export const image1a29a2804fbcde26 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/undressing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/robe"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

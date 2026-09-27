@@ -20,4 +20,5 @@ export const imageC594f93e2552ef88 = {
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/pants"],
   fantasyTags: ["fantasy-tag/animal-ears"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

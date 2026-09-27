@@ -19,4 +19,5 @@ export const imageE1f7dcc732d8197a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/looking-in-mirror"],
   wardrobeTags: ["wardrobe-tag/panties", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

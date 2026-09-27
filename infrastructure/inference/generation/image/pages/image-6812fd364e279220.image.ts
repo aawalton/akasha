@@ -15,4 +15,5 @@ export const image6812fd364e279220 = {
     "wardrobe-tag/topless",
   ],
   fantasyTags: ["fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

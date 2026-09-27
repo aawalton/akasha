@@ -19,4 +19,5 @@ export const imageFc651c25db608ba5 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

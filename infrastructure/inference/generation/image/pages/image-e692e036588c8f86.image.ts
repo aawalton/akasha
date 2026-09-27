@@ -19,4 +19,5 @@ export const imageE692e036588c8f86 = {
     "pose-tag/hand-on-face",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

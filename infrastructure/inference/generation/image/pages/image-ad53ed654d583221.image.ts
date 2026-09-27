@@ -10,4 +10,5 @@ export const imageAd53ed654d583221 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/silver-hair", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

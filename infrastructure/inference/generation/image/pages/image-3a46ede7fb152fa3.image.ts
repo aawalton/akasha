@@ -9,4 +9,5 @@ export const image3a46ede7fb152fa3 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

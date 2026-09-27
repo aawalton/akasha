@@ -15,4 +15,5 @@ export const imageD96bbc56e9e20eee = {
   settingTags: ["setting-tag/museum", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

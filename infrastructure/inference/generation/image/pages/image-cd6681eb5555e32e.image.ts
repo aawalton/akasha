@@ -10,4 +10,5 @@ export const imageCd6681eb5555e32e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint", "wardrobe-tag/gold-trim"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image09836f89f55ba8e8 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image837c047bc9806667 = {
   settingTags: ["setting-tag/indoor", "setting-tag/night", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/sleeveless", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

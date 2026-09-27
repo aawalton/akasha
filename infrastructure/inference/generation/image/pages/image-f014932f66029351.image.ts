@@ -9,4 +9,5 @@ export const imageF014932f66029351 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

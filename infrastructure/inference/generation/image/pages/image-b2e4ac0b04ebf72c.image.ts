@@ -9,4 +9,5 @@ export const imageB2e4ac0b04ebf72c = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

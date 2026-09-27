@@ -11,4 +11,5 @@ export const imageB6f981a01690efec = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

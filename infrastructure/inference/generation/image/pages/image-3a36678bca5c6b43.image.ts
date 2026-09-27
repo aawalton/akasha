@@ -24,4 +24,5 @@ export const image3a36678bca5c6b43 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gown", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const image7459a663b30c036e = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/chatting", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

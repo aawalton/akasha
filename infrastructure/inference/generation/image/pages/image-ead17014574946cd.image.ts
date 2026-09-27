@@ -9,4 +9,5 @@ export const imageEad17014574946cd = {
   settingTags: ["setting-tag/indoor", "setting-tag/boat"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/bare-legs", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const image526ef4dc5cc1a47f = {
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image60185f6d5a00ce70 = {
   settingTags: ["setting-tag/castle", "setting-tag/hallway", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak", "wardrobe-tag/fully-clothed"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

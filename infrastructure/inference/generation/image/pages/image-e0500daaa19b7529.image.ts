@@ -10,4 +10,5 @@ export const imageE0500daaa19b7529 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint", "wardrobe-tag/red-string"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

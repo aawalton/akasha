@@ -26,4 +26,5 @@ export const imageC73d8e72be1fddf4 = {
   settingTags: ["setting-tag/castle", "setting-tag/party", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gown", "wardrobe-tag/slip-dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

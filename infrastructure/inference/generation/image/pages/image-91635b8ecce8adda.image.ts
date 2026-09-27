@@ -14,4 +14,5 @@ export const image91635b8ecce8adda = {
     "pose-tag/mouth-open",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

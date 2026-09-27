@@ -9,4 +9,5 @@ export const image0219fb4528caec90 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/playing-music", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/glasses", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

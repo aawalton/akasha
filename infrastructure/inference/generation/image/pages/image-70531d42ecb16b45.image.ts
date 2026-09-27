@@ -15,4 +15,5 @@ export const image70531d42ecb16b45 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/loungewear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

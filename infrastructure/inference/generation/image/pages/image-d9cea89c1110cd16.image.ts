@@ -10,4 +10,5 @@ export const imageD9cea89c1110cd16 = {
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

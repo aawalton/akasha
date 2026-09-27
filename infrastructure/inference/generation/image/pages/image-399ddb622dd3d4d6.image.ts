@@ -20,4 +20,5 @@ export const image399ddb622dd3d4d6 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

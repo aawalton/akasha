@@ -11,4 +11,5 @@ export const image35df070831327c4e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt", "wardrobe-tag/glasses"],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

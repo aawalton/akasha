@@ -11,4 +11,5 @@ export const image0cc9008510fb3292 = {
   settingTags: ["setting-tag/balcony", "setting-tag/outdoor", "setting-tag/home"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/selfie"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

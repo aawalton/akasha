@@ -20,4 +20,5 @@ export const image7cefdb75bd12604b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/deep-v-neck", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

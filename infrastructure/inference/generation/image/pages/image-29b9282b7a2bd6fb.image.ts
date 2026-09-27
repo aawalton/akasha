@@ -10,4 +10,5 @@ export const image29b9282b7a2bd6fb = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

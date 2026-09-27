@@ -26,4 +26,5 @@ export const image98939bb5f15f8d37 = {
     "pose-tag/back-view",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

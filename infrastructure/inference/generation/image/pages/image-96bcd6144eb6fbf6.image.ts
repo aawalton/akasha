@@ -10,4 +10,5 @@ export const image96bcd6144eb6fbf6 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/garter-belt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

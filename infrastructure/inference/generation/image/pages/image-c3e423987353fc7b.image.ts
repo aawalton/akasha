@@ -20,4 +20,5 @@ export const imageC3e423987353fc7b = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/off-shoulder", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image440d5c556cd4e160 = {
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

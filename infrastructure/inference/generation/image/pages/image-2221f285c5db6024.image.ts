@@ -9,4 +9,5 @@ export const image2221f285c5db6024 = {
   settingTags: ["setting-tag/water", "setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/bathing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

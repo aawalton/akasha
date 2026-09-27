@@ -10,4 +10,5 @@ export const imageC590ec150f041dbb = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

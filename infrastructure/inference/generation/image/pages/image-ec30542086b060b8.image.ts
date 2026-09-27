@@ -9,4 +9,5 @@ export const imageEc30542086b060b8 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight", "setting-tag/night"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/slip-dress", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

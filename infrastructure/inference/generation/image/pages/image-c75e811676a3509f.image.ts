@@ -19,4 +19,5 @@ export const imageC75e811676a3509f = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/autumn"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/hat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

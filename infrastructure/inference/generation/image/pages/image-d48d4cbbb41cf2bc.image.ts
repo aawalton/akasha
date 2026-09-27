@@ -9,4 +9,5 @@ export const imageD48d4cbbb41cf2bc = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

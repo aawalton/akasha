@@ -10,4 +10,5 @@ export const imageEf6ac5e8a2df6c73 = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

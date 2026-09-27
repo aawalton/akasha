@@ -20,4 +20,5 @@ export const image454f3d03d8623e0c = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/stretching", "pose-tag/bent-over"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

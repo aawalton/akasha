@@ -15,4 +15,5 @@ export const image1c67a99a47d7d5bc = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

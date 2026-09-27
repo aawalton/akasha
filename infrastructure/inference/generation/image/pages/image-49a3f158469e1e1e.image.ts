@@ -26,4 +26,5 @@ export const image49a3f158469e1e1e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/glasses"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image2a196e9650823a86 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/animal-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

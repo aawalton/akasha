@@ -9,4 +9,5 @@ export const image073161b8ccf1db41 = {
   settingTags: ["setting-tag/church", "setting-tag/hallway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

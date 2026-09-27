@@ -20,4 +20,5 @@ export const image72b4efd4f3cb7bba = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/sheet"],
   fantasyTags: ["fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

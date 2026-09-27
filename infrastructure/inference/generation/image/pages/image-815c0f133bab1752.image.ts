@@ -19,4 +19,5 @@ export const image815c0f133bab1752 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/sheer", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

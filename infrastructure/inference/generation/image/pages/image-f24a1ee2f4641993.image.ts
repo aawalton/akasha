@@ -19,4 +19,5 @@ export const imageF24a1ee2f4641993 = {
   settingTags: ["setting-tag/park", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/mask", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

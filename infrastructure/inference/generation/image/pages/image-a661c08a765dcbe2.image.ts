@@ -19,4 +19,5 @@ export const imageA661c08a765dcbe2 = {
   settingTags: ["setting-tag/indoor", "setting-tag/living-room"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

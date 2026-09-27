@@ -20,4 +20,5 @@ export const image1962e013a3bff087 = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

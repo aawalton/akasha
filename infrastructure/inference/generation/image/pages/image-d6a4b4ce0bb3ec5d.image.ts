@@ -11,4 +11,5 @@ export const imageD6a4b4ce0bb3ec5d = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow", "setting-tag/park"],
   poseTags: ["pose-tag/selfie", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/scarf", "wardrobe-tag/hat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

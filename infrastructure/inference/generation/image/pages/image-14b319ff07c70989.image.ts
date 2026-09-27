@@ -21,4 +21,5 @@ export const image14b319ff07c70989 = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-down", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/wings"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

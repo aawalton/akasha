@@ -20,4 +20,5 @@ export const image7c5255eae47fa0d4 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

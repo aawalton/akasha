@@ -16,4 +16,5 @@ export const image3f612a7883bd847e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/scarf"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

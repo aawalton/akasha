@@ -10,4 +10,5 @@ export const imageA5b20bb22988cf9e = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/red-string", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

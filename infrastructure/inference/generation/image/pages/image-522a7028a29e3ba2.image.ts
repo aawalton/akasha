@@ -29,4 +29,5 @@ export const image522a7028a29e3ba2 = {
     "pose-tag/embracing",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

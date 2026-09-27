@@ -20,4 +20,5 @@ export const imageAa6d5a47524f274c = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/cloak"],
   fantasyTags: ["fantasy-tag/fairy-tale"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

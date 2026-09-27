@@ -20,4 +20,5 @@ export const image37ebc0d85895fbb9 = {
   poseTags: ["pose-tag/profile", "pose-tag/face-to-face", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image0ad2585738afed5d = {
   settingTags: ["setting-tag/stage"],
   poseTags: ["pose-tag/standing", "pose-tag/playing-music", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

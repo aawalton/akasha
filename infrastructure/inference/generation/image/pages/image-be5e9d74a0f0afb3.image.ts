@@ -20,4 +20,5 @@ export const imageBe5e9d74a0f0afb3 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

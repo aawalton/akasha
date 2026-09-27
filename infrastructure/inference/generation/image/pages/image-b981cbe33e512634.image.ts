@@ -9,4 +9,5 @@ export const imageB981cbe33e512634 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/ocean"],
   poseTags: ["pose-tag/legs-spread", "pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

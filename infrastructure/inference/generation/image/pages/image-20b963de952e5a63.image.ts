@@ -20,4 +20,5 @@ export const image20b963de952e5a63 = {
   settingTags: ["setting-tag/cafe", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/holding-drink", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

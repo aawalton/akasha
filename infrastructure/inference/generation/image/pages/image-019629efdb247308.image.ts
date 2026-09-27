@@ -9,4 +9,5 @@ export const image019629efdb247308 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/selfie", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

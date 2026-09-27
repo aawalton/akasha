@@ -9,4 +9,5 @@ export const image0834de5b40db6692 = {
   settingTags: ["setting-tag/pool", "setting-tag/water", "setting-tag/night"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

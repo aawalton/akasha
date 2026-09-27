@@ -10,4 +10,5 @@ export const image27871a4de16eba54 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/mermaid"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

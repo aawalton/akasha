@@ -15,4 +15,5 @@ export const image8ab48ba2534f5733 = {
     "wardrobe-tag/bare-legs",
   ],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/ethereal", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

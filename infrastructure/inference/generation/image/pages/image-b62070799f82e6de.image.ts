@@ -9,4 +9,5 @@ export const imageB62070799f82e6de = {
   settingTags: ["setting-tag/indoor", "setting-tag/party"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/silk", "wardrobe-tag/slip-dress", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

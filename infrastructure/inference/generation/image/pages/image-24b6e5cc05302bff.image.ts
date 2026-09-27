@@ -11,4 +11,5 @@ export const image24b6e5cc05302bff = {
   poseTags: ["pose-tag/squatting", "pose-tag/undressing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/pants-down"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

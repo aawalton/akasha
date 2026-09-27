@@ -20,4 +20,5 @@ export const image755fbf5ce35a53c2 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/deep-v-neck", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

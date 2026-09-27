@@ -24,4 +24,5 @@ export const image51d553453f997afe = {
   ],
   poseTags: ["pose-tag/walking", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

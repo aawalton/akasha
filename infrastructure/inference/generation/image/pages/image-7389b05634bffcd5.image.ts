@@ -9,4 +9,5 @@ export const image7389b05634bffcd5 = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/bathroom", "setting-tag/rocks"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

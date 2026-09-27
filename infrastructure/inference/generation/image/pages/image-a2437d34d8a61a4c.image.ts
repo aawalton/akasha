@@ -19,4 +19,5 @@ export const imageA2437d34d8a61a4c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/rocks"],
   poseTags: ["pose-tag/arms-crossed", "pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/headband", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

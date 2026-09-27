@@ -20,4 +20,5 @@ export const image809811bbe29d0ee6 = {
     "wardrobe-tag/body-paint",
   ],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

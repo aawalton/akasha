@@ -20,4 +20,5 @@ export const image5003b480d86f0f68 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

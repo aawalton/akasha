@@ -14,4 +14,5 @@ export const imageD145a3b9ddc183f3 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/bikini", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

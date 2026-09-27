@@ -9,4 +9,5 @@ export const image7213fe3f7d5c403c = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

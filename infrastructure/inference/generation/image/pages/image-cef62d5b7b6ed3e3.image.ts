@@ -21,4 +21,5 @@ export const imageCef62d5b7b6ed3e3 = {
     "wardrobe-tag/cleavage",
   ],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

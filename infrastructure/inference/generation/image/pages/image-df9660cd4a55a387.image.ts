@@ -21,4 +21,5 @@ export const imageDf9660cd4a55a387 = {
     "pose-tag/holding-hands",
   ],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

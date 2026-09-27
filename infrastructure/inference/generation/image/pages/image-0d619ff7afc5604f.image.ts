@@ -9,4 +9,5 @@ export const image0d619ff7afc5604f = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

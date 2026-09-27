@@ -9,4 +9,5 @@ export const imageDb2a7d5403a0c707 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/sex", "pose-tag/oral-sex", "pose-tag/legs-up", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

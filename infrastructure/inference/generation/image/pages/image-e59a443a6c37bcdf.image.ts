@@ -10,4 +10,5 @@ export const imageE59a443a6c37bcdf = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/serious-expression"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

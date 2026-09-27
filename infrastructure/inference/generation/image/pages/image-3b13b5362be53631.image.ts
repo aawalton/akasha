@@ -15,4 +15,5 @@ export const image3b13b5362be53631 = {
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/partial-undress", "wardrobe-tag/sheet"],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

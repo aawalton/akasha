@@ -11,4 +11,5 @@ export const image47893781ad799be4 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-clothing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

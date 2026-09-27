@@ -9,4 +9,5 @@ export const image8d60720850e8daf4 = {
   settingTags: ["setting-tag/water", "setting-tag/pool", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

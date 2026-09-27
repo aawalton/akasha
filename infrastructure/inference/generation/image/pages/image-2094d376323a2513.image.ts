@@ -11,4 +11,5 @@ export const image2094d376323a2513 = {
   poseTags: ["pose-tag/sitting", "pose-tag/laughing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/coat"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageDf79fe6900ba7fe0 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/corset", "wardrobe-tag/lace"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

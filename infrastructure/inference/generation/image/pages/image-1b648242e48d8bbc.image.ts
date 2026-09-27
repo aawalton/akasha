@@ -15,4 +15,5 @@ export const image1b648242e48d8bbc = {
     "wardrobe-tag/boots",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

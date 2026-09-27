@@ -19,4 +19,5 @@ export const imageF6c79cdcf446bca9 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/deep-v-neck", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

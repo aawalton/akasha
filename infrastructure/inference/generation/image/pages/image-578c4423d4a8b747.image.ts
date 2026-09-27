@@ -29,4 +29,5 @@ export const image578c4423d4a8b747 = {
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/headband"],
   fantasyTags: ["fantasy-tag/bunny-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

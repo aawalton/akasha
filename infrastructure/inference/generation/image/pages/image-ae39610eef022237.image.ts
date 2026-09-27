@@ -22,4 +22,5 @@ export const imageAe39610eef022237 = {
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

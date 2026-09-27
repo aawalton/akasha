@@ -10,4 +10,5 @@ export const imageBad122474f5054f8 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

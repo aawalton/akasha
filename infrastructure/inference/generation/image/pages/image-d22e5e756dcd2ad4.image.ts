@@ -10,4 +10,5 @@ export const imageD22e5e756dcd2ad4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/crop-top", "wardrobe-tag/leggings"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

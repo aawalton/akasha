@@ -11,4 +11,5 @@ export const image01ead0998c2248f3 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/high-heels", "wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

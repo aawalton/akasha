@@ -16,4 +16,5 @@ export const image82081859503bc6ce = {
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

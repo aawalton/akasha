@@ -9,4 +9,5 @@ export const imageE9f8ce31422dcf22 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

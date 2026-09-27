@@ -20,4 +20,5 @@ export const imageFa195e768cf4b7b3 = {
     "wardrobe-tag/boots",
   ],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/monster-girl", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

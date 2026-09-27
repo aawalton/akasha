@@ -9,4 +9,5 @@ export const image52639a73671aa0cd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

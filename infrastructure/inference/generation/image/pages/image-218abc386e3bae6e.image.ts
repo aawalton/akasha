@@ -20,4 +20,5 @@ export const image218abc386e3bae6e = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/high-slit", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

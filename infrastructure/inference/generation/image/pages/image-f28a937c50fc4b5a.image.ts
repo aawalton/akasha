@@ -10,4 +10,5 @@ export const imageF28a937c50fc4b5a = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

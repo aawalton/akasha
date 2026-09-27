@@ -19,4 +19,5 @@ export const image8a7cddd39ed9816a = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

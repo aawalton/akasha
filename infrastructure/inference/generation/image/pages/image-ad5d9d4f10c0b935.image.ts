@@ -11,4 +11,5 @@ export const imageAd5d9d4f10c0b935 = {
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweatpants", "wardrobe-tag/loungewear"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

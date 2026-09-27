@@ -19,4 +19,5 @@ export const imageF253454a07def81d = {
   settingTags: ["setting-tag/library", "setting-tag/study", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/tunic", "wardrobe-tag/wet", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

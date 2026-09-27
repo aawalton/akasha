@@ -9,4 +9,5 @@ export const image9c116e88799c3d5e = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/indoor", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/partial-undress", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

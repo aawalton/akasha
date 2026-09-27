@@ -21,4 +21,5 @@ export const image77874029c11d42cf = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/mask", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

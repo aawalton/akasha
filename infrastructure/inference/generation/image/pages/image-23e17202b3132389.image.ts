@@ -9,4 +9,5 @@ export const image23e17202b3132389 = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cleavage"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

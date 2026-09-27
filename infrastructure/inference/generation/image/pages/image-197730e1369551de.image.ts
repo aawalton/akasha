@@ -10,4 +10,5 @@ export const image197730e1369551de = {
   settingTags: ["setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/lingerie", "wardrobe-tag/bra"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

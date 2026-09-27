@@ -9,4 +9,5 @@ export const imageF0b91de541870b3a = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/reclining", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/panties", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

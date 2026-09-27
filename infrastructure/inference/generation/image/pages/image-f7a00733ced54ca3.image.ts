@@ -10,4 +10,5 @@ export const imageF7a00733ced54ca3 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/body-paint", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

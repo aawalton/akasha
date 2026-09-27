@@ -9,4 +9,5 @@ export const image9fc8abfcbfabf92d = {
   settingTags: ["setting-tag/church", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/gown", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageC701a5950ef2d221 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

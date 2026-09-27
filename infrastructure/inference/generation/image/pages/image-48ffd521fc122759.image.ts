@@ -25,4 +25,5 @@ export const image48ffd521fc122759 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/hat"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image637064add6cb4670 = {
   settingTags: ["setting-tag/library"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shirt", "wardrobe-tag/writing-on-skin"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

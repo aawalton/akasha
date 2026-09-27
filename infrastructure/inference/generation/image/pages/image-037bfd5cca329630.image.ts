@@ -9,4 +9,5 @@ export const image037bfd5cca329630 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image0b89a589fbade582 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/witch-hat"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image3e1d0ab451c00cc9 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/window"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

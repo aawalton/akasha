@@ -9,4 +9,5 @@ export const image2065a46532fe6304 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/beach"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

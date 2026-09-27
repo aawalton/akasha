@@ -20,4 +20,5 @@ export const image306ce4d55a6bf403 = {
   settingTags: ["setting-tag/indoor", "setting-tag/tatami-room"],
   poseTags: ["pose-tag/kneeling", "pose-tag/holding-drink", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/kimono"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

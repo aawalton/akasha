@@ -15,4 +15,5 @@ export const image8c4482d013b305ee = {
   ],
   poseTags: ["pose-tag/profile", "pose-tag/looking-down", "pose-tag/sitting", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

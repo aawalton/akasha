@@ -11,4 +11,5 @@ export const imageAd2256a474b615f6 = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

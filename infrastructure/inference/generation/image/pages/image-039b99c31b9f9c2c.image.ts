@@ -24,4 +24,5 @@ export const image039b99c31b9f9c2c = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress", "wardrobe-tag/loungewear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image02e19eb6b64f18fd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/campfire"],
   poseTags: ["pose-tag/cross-legged", "pose-tag/sitting", "pose-tag/eating"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image90e3496fbab4b208 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

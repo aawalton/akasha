@@ -20,4 +20,5 @@ export const imageD0521003797a0df4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-in-hair", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/deep-v-neck"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image2fcf30c482e34e9d = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

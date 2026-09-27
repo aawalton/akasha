@@ -9,4 +9,5 @@ export const imageD6d4b815db833172 = {
   settingTags: ["setting-tag/rooftop", "setting-tag/city", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/crop-top", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

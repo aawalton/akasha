@@ -9,4 +9,5 @@ export const image2070f597bbc0614b = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/glitter-makeup"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

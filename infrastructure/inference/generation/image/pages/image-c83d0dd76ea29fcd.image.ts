@@ -9,4 +9,5 @@ export const imageC83d0dd76ea29fcd = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

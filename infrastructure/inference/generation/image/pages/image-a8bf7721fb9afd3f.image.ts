@@ -20,4 +20,5 @@ export const imageA8bf7721fb9afd3f = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

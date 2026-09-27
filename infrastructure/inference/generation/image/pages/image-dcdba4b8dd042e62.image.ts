@@ -9,4 +9,5 @@ export const imageDcdba4b8dd042e62 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/tongue-out", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

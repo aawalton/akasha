@@ -11,4 +11,5 @@ export const imageF604d3de47149bbd = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/belt", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

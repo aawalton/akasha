@@ -16,4 +16,5 @@ export const image415200e8d5d8f529 = {
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

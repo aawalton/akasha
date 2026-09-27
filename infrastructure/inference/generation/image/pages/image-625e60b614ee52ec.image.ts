@@ -10,4 +10,5 @@ export const image625e60b614ee52ec = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/skirt", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

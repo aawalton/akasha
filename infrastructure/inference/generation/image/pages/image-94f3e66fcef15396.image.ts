@@ -9,4 +9,5 @@ export const image94f3e66fcef15396 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/autumn", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

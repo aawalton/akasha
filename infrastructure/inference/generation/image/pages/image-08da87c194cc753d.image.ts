@@ -10,4 +10,5 @@ export const image08da87c194cc753d = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/skirt", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/bioluminescence", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

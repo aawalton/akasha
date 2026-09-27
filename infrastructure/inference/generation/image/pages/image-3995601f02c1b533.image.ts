@@ -11,4 +11,5 @@ export const image3995601f02c1b533 = {
   poseTags: ["pose-tag/reclining", "pose-tag/hands-behind-head", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/dragon-horns", "fantasy-tag/scales"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

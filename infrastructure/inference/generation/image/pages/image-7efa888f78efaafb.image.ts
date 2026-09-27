@@ -21,4 +21,5 @@ export const image7efa888f78efaafb = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing-eyes", "fantasy-tag/bioluminescence"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

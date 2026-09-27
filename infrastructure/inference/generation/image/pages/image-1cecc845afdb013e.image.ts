@@ -25,4 +25,5 @@ export const image1cecc845afdb013e = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleepwear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image84d915fa9f7fefb9 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-on-face", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/high-neck", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

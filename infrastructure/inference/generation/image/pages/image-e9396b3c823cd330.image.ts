@@ -11,4 +11,5 @@ export const imageE9396b3c823cd330 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sheet", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

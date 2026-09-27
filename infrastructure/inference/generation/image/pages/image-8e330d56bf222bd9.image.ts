@@ -14,4 +14,5 @@ export const image8e330d56bf222bd9 = {
     "pose-tag/arms-raised",
   ],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

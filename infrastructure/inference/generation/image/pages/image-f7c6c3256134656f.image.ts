@@ -9,4 +9,5 @@ export const imageF7c6c3256134656f = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

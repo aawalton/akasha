@@ -21,4 +21,5 @@ export const image8e2319eca988ce69 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

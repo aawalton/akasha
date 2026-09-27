@@ -19,4 +19,5 @@ export const image1fc2d56f71d8be7b = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

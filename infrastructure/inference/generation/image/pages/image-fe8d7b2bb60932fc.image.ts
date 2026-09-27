@@ -14,4 +14,5 @@ export const imageFe8d7b2bb60932fc = {
     "pose-tag/oral-sex",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

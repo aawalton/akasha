@@ -9,4 +9,5 @@ export const imageCaf11cd9f322c064 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/campfire"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

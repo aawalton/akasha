@@ -9,4 +9,5 @@ export const image14b3f70d414bc964 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/water"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/writing-on-skin"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

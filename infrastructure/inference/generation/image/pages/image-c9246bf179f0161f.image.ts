@@ -19,4 +19,5 @@ export const imageC9246bf179f0161f = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rocks", "setting-tag/beach"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

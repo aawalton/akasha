@@ -9,4 +9,5 @@ export const imageFaf3aba7b93f90cc = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/sky"],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

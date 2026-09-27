@@ -10,4 +10,5 @@ export const imageEe098065c6ffa54b = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

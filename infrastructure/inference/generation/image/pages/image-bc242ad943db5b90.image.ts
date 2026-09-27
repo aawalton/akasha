@@ -21,4 +21,5 @@ export const imageBc242ad943db5b90 = {
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/topless", "wardrobe-tag/bottomless"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/nature-spirit", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

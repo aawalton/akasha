@@ -25,4 +25,5 @@ export const image801fb3b4d0660860 = {
     "pose-tag/arms-crossed",
   ],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

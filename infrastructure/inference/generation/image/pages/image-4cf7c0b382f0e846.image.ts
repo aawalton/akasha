@@ -10,4 +10,5 @@ export const image4cf7c0b382f0e846 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/ocean", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/dress", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageA80b8044517fcd28 = {
   settingTags: ["setting-tag/indoor", "setting-tag/balcony", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const imageCe58757fcc1c377a = {
     "wardrobe-tag/lace",
   ],
   fantasyTags: ["fantasy-tag/steampunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

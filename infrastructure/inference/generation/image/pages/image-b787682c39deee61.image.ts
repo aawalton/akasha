@@ -10,4 +10,5 @@ export const imageB787682c39deee61 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/face-to-face", "pose-tag/close-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

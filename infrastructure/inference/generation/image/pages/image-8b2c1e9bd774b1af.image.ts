@@ -20,4 +20,5 @@ export const image8b2c1e9bd774b1af = {
   poseTags: ["pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/skirt", "wardrobe-tag/silk"],
   fantasyTags: ["fantasy-tag/fire"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

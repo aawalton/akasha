@@ -19,4 +19,5 @@ export const imageBce64ccd6c345738 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-away", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sheet", "wardrobe-tag/sleepwear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

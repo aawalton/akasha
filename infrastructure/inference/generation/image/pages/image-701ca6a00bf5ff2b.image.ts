@@ -19,4 +19,5 @@ export const image701ca6a00bf5ff2b = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/profile", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

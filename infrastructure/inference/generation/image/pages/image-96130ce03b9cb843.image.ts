@@ -10,4 +10,5 @@ export const image96130ce03b9cb843 = {
   poseTags: ["pose-tag/top-down-view", "pose-tag/oral-sex", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

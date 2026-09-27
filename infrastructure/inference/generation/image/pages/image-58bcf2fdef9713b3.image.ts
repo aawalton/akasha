@@ -11,4 +11,5 @@ export const image58bcf2fdef9713b3 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-down", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

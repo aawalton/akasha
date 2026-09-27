@@ -14,4 +14,5 @@ export const image69509ad0b5ab753b = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

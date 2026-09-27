@@ -16,4 +16,5 @@ export const imageD113405200ee500d = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/library"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

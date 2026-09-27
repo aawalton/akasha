@@ -9,4 +9,5 @@ export const imageC7af59eb358fa503 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/shirt", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

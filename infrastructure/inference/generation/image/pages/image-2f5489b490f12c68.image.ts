@@ -15,4 +15,5 @@ export const image2f5489b490f12c68 = {
   settingTags: ["setting-tag/art-studio", "setting-tag/workshop", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/fully-clothed"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

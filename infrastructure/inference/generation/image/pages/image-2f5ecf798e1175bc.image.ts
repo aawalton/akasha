@@ -9,4 +9,5 @@ export const image2f5ecf798e1175bc = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

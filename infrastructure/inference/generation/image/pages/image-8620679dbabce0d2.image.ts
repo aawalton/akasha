@@ -19,4 +19,5 @@ export const image8620679dbabce0d2 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/mountains"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/harness", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

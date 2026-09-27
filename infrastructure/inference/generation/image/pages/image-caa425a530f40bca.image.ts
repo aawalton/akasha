@@ -16,4 +16,5 @@ export const imageCaa425a530f40bca = {
     "wardrobe-tag/belt",
   ],
   fantasyTags: ["fantasy-tag/steampunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

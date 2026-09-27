@@ -10,4 +10,5 @@ export const image826f341e038a27af = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

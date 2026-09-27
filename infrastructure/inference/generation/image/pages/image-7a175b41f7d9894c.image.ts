@@ -14,4 +14,5 @@ export const image7a175b41f7d9894c = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

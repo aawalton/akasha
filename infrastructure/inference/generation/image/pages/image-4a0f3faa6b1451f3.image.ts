@@ -20,4 +20,5 @@ export const image4a0f3faa6b1451f3 = {
   settingTags: ["setting-tag/indoor", "setting-tag/office", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image46f1e55eb88adf22 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

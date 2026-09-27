@@ -10,4 +10,5 @@ export const image651f82a68f81f081 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

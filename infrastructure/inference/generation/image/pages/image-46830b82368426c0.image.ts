@@ -15,4 +15,5 @@ export const image46830b82368426c0 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/high-slit", "wardrobe-tag/backless"],
   fantasyTags: ["fantasy-tag/android", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const image376d1533e02af106 = {
     "pose-tag/knees-up",
   ],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

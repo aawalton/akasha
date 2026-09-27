@@ -19,4 +19,5 @@ export const imageCe198d16f98e7769 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

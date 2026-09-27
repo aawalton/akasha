@@ -20,4 +20,5 @@ export const imageD40eefc55aaadb03 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

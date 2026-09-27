@@ -9,4 +9,5 @@ export const imageEd2a6d390e34bc12 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/living-room"],
   poseTags: ["pose-tag/reclining", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

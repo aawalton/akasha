@@ -11,4 +11,5 @@ export const imageFf4d58dea6589621 = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

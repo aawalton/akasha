@@ -20,4 +20,5 @@ export const image963ed52a48bcf817 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/glowing-eyes", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

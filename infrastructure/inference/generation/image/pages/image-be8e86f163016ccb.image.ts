@@ -10,4 +10,5 @@ export const imageBe8e86f163016ccb = {
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

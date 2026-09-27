@@ -9,4 +9,5 @@ export const imageD192c30aed4eb4c4 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint", "wardrobe-tag/wig"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

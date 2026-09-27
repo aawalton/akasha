@@ -14,4 +14,5 @@ export const image5658bc8e5e81b4f8 = {
   ],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

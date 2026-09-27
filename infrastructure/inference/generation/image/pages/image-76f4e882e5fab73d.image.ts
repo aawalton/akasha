@@ -9,4 +9,5 @@ export const image76f4e882e5fab73d = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

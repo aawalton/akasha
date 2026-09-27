@@ -11,4 +11,5 @@ export const image75cffe5127628b38 = {
   poseTags: ["pose-tag/looking-down", "pose-tag/close-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/deep-v-neck", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

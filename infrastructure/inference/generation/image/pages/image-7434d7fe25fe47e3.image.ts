@@ -20,4 +20,5 @@ export const image7434d7fe25fe47e3 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/ocean", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jacket", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

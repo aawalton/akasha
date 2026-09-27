@@ -16,4 +16,5 @@ export const imageFa8824f81a1481b8 = {
   ],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

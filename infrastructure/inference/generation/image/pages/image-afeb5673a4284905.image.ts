@@ -9,4 +9,5 @@ export const imageAfeb5673a4284905 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

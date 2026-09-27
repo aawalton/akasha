@@ -24,4 +24,5 @@ export const imageD3cba5edaceafbf3 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/cardigan", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

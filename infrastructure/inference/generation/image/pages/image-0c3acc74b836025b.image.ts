@@ -20,4 +20,5 @@ export const image0c3acc74b836025b = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

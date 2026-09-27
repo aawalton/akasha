@@ -19,4 +19,5 @@ export const image91b8341766d6556f = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

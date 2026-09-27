@@ -20,4 +20,5 @@ export const image48545ef7353de05a = {
   settingTags: ["setting-tag/pool", "setting-tag/luxury"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

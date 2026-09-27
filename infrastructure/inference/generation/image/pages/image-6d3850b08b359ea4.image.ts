@@ -19,4 +19,5 @@ export const image6d3850b08b359ea4 = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sports-bra"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

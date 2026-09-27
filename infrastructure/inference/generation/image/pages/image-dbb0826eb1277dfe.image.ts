@@ -9,4 +9,5 @@ export const imageDbb0826eb1277dfe = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/front-view", "pose-tag/serious-expression"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

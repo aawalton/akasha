@@ -11,4 +11,5 @@ export const imageF4659f5a570167ef = {
   poseTags: ["pose-tag/side-by-side", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/panties", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/naga"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

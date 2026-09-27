@@ -20,4 +20,5 @@ export const image483ad8ab4a1767ae = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

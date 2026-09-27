@@ -11,4 +11,5 @@ export const image8ff81c23cf7ba41a = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/bare-legs", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

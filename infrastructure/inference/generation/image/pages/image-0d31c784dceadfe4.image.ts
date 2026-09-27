@@ -10,4 +10,5 @@ export const image0d31c784dceadfe4 = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

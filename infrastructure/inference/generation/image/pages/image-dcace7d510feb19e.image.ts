@@ -19,4 +19,5 @@ export const imageDcace7d510feb19e = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/corset", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

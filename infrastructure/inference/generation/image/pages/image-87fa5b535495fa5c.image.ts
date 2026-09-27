@@ -21,4 +21,5 @@ export const image87fa5b535495fa5c = {
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/naga"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

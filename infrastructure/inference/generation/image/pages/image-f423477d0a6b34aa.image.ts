@@ -19,4 +19,5 @@ export const imageF423477d0a6b34aa = {
   settingTags: ["setting-tag/stage", "setting-tag/balcony", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves", "wardrobe-tag/gown"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

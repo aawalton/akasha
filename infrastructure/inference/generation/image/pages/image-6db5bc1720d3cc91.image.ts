@@ -21,4 +21,5 @@ export const image6db5bc1720d3cc91 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

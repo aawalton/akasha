@@ -20,4 +20,5 @@ export const image386e4fd1c9195e78 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/veil", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

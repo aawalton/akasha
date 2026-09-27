@@ -11,4 +11,5 @@ export const imageFa04b6ae0d55bfeb = {
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/camisole"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

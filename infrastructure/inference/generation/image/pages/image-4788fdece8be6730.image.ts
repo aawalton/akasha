@@ -25,4 +25,5 @@ export const image4788fdece8be6730 = {
     "wardrobe-tag/deep-v-neck",
     "wardrobe-tag/sleepwear",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

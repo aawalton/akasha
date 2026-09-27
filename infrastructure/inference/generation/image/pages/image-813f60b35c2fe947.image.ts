@@ -17,4 +17,5 @@ export const image813f60b35c2fe947 = {
     "wardrobe-tag/bare-midriff",
   ],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

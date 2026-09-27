@@ -9,4 +9,5 @@ export const imageBaa5943a4d06c3dc = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace", "setting-tag/gym"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

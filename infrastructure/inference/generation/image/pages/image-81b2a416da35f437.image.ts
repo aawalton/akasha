@@ -19,4 +19,5 @@ export const image81b2a416da35f437 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/veil", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageCa946fb5f998d99e = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/bare-shoulders", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

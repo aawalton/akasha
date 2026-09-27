@@ -10,4 +10,5 @@ export const imageDdd457a42779959e = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/library"],
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/long-sleeves", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

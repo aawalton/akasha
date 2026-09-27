@@ -20,4 +20,5 @@ export const image0c58ec1d886bd837 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/pool", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-back", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

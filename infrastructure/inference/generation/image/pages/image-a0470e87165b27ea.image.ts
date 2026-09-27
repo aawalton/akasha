@@ -9,4 +9,5 @@ export const imageA0470e87165b27ea = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway"],
   poseTags: ["pose-tag/kissing", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts", "wardrobe-tag/athletic-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

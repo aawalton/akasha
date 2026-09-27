@@ -10,4 +10,5 @@ export const imageFdb9da8c0df5f60e = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/mirror"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

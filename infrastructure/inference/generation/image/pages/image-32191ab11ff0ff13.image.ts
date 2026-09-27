@@ -11,4 +11,5 @@ export const image32191ab11ff0ff13 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/profile", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

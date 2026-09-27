@@ -10,4 +10,5 @@ export const image33c08292d738c6cb = {
   settingTags: ["setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

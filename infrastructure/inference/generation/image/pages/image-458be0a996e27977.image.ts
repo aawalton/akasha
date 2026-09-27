@@ -10,4 +10,5 @@ export const image458be0a996e27977 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image412126449ee314e7 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/jumping", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/jeans", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

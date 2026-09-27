@@ -11,4 +11,5 @@ export const image78eda2eff70425d7 = {
   poseTags: ["pose-tag/front-view", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/robe", "wardrobe-tag/nipples-visible"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

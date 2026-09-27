@@ -20,4 +20,5 @@ export const image95d3d44663c25c05 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/horns", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

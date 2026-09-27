@@ -20,4 +20,5 @@ export const image2a5b2db96d359da3 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

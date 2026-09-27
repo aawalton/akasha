@@ -9,4 +9,5 @@ export const image559d94981ecbe82c = {
   settingTags: ["setting-tag/art-studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/embracing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

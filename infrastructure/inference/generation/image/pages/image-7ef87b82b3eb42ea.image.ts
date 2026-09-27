@@ -20,4 +20,5 @@ export const image7ef87b82b3eb42ea = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/park"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

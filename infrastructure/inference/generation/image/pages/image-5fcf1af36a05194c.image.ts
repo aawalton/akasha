@@ -9,4 +9,5 @@ export const image5fcf1af36a05194c = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub", "setting-tag/water"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-up", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

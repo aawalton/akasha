@@ -10,4 +10,5 @@ export const image61114a1fcf44b3ed = {
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-back", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

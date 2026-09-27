@@ -9,4 +9,5 @@ export const image2c31a07cfea13ede = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/curled-up", "pose-tag/looking-at-viewer", "pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

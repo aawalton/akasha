@@ -25,4 +25,5 @@ export const image5fac0239727a2add = {
     "wardrobe-tag/hair-accessory",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair", "fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image3eb79fba89b21709 = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

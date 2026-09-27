@@ -9,4 +9,5 @@ export const imageB386a64d0f1ea40c = {
   settingTags: ["setting-tag/bedroom", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-in-mirror", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

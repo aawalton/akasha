@@ -24,4 +24,5 @@ export const image0176e6a90cf75bc1 = {
     "wardrobe-tag/garter-belt",
     "wardrobe-tag/panties",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

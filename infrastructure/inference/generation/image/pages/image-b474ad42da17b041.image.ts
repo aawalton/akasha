@@ -19,4 +19,5 @@ export const imageB474ad42da17b041 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/serious-expression"],
   wardrobeTags: ["wardrobe-tag/backpack"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

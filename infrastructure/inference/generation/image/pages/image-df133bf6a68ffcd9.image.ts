@@ -11,4 +11,5 @@ export const imageDf133bf6a68ffcd9 = {
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

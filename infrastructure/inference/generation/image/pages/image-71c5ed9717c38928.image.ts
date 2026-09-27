@@ -10,4 +10,5 @@ export const image71c5ed9717c38928 = {
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/golden-eyes", "fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

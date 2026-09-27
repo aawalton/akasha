@@ -9,4 +9,5 @@ export const image29d8084154f12ec1 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/lying-down", "pose-tag/knees-up", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

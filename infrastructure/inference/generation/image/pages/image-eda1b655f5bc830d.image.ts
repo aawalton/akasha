@@ -19,4 +19,5 @@ export const imageEda1b655f5bc830d = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

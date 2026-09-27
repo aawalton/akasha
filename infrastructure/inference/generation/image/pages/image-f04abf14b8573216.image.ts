@@ -10,4 +10,5 @@ export const imageF04abf14b8573216 = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

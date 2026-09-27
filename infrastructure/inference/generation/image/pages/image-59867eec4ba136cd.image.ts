@@ -24,4 +24,5 @@ export const image59867eec4ba136cd = {
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/eyes-closed", "pose-tag/smiling", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

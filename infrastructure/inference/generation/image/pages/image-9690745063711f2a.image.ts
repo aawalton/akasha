@@ -30,4 +30,5 @@ export const image9690745063711f2a = {
     "wardrobe-tag/dress",
   ],
   fantasyTags: ["fantasy-tag/gothic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const imageB243dd493b0e3fa0 = {
   settingTags: ["setting-tag/market", "setting-tag/shop", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

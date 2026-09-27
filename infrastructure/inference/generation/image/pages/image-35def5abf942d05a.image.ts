@@ -9,4 +9,5 @@ export const image35def5abf942d05a = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/bodysuit", "wardrobe-tag/gloves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

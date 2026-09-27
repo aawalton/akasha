@@ -25,4 +25,5 @@ export const imageCe576ab0164e8597 = {
     "wardrobe-tag/gloves",
   ],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

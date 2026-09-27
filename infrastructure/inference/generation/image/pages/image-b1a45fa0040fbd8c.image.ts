@@ -22,4 +22,5 @@ export const imageB1a45fa0040fbd8c = {
   ],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

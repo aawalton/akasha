@@ -9,4 +9,5 @@ export const imageAe42931890c2e0cd = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts", "wardrobe-tag/gloves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

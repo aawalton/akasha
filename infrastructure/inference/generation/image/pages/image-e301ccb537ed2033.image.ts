@@ -19,4 +19,5 @@ export const imageE301ccb537ed2033 = {
   settingTags: ["setting-tag/indoor", "setting-tag/night", "setting-tag/balcony"],
   poseTags: ["pose-tag/arms-crossed", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

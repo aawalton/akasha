@@ -14,4 +14,5 @@ export const imageD5a04955811341f3 = {
     "pose-tag/embracing",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

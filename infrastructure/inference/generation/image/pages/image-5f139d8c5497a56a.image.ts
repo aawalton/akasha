@@ -14,4 +14,5 @@ export const image5f139d8c5497a56a = {
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

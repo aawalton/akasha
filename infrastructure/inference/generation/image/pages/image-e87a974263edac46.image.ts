@@ -10,4 +10,5 @@ export const imageE87a974263edac46 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

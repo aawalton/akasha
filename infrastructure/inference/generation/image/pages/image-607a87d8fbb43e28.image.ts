@@ -10,4 +10,5 @@ export const image607a87d8fbb43e28 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/eating", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/apron", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

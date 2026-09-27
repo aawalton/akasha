@@ -10,4 +10,5 @@ export const image8df13cb2092cd3f7 = {
   settingTags: ["setting-tag/indoor", "setting-tag/tatami-room"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/panties", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

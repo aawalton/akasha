@@ -19,4 +19,5 @@ export const image89b07c2990c04b83 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/balcony"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/belt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

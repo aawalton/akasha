@@ -21,4 +21,5 @@ export const imageE043d35f0822852d = {
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin", "fantasy-tag/red-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

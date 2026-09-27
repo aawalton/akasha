@@ -15,4 +15,5 @@ export const image45a6a79ad04d44cb = {
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

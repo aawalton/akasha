@@ -20,4 +20,5 @@ export const image78d2625839a278ab = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

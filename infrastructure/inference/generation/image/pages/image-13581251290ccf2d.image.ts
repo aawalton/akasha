@@ -16,4 +16,5 @@ export const image13581251290ccf2d = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/leaning-forward", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

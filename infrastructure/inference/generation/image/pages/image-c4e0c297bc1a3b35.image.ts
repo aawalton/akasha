@@ -21,4 +21,5 @@ export const imageC4e0c297bc1a3b35 = {
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/wet"],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

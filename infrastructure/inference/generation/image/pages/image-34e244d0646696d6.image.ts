@@ -19,4 +19,5 @@ export const image34e244d0646696d6 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace", "setting-tag/living-room"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-hip", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/puffed-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

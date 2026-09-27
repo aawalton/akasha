@@ -20,4 +20,5 @@ export const imageE12796661a5c1b4d = {
   poseTags: ["pose-tag/profile", "pose-tag/close-up", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/black"],
 } as const satisfies Image

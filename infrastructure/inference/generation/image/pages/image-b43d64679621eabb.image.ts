@@ -10,4 +10,5 @@ export const imageB43d64679621eabb = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/antlers"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageD9acaccaf4153406 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

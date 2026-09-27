@@ -10,4 +10,5 @@ export const imageAbe596a6b838ad19 = {
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

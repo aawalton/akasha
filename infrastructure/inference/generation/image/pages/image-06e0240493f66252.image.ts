@@ -10,4 +10,5 @@ export const image06e0240493f66252 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/pants"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

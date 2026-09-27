@@ -14,4 +14,5 @@ export const image0361749c58242a6a = {
   ],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

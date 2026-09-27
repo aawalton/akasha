@@ -10,4 +10,5 @@ export const image1dfaead07d468fc1 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/indoor"],
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/sheer", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

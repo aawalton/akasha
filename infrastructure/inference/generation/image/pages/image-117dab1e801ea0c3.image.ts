@@ -30,4 +30,5 @@ export const image117dab1e801ea0c3 = {
     "pose-tag/standing",
   ],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

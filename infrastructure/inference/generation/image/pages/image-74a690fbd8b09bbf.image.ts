@@ -16,4 +16,5 @@ export const image74a690fbd8b09bbf = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/pants", "wardrobe-tag/jacket"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

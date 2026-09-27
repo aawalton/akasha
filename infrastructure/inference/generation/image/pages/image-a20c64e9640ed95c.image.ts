@@ -9,4 +9,5 @@ export const imageA20c64e9640ed95c = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/mouth-open"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

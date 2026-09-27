@@ -19,4 +19,5 @@ export const imageCe2086ab94ab71cb = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/leggings"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

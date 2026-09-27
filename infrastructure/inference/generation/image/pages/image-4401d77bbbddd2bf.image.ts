@@ -20,4 +20,5 @@ export const image4401d77bbbddd2bf = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

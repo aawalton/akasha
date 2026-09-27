@@ -25,4 +25,5 @@ export const image8c111ed90b0756f5 = {
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

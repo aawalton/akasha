@@ -9,4 +9,5 @@ export const image82ba547aa2304111 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

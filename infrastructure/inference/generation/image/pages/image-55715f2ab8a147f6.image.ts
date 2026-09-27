@@ -19,4 +19,5 @@ export const image55715f2ab8a147f6 = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/profile", "pose-tag/close-up", "pose-tag/front-view", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
 } as const satisfies Image

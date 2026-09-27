@@ -19,4 +19,5 @@ export const image2e0272bfbbc4e39d = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

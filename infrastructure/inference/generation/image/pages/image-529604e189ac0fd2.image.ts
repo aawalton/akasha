@@ -10,4 +10,5 @@ export const image529604e189ac0fd2 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-up", "pose-tag/reaching", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

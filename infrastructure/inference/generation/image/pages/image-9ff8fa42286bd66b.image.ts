@@ -24,4 +24,5 @@ export const image9ff8fa42286bd66b = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageF46f30c9c729bac3 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

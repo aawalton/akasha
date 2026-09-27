@@ -11,4 +11,5 @@ export const image71f0098b79c9f69f = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

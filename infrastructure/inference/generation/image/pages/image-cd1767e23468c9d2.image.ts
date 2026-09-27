@@ -20,4 +20,5 @@ export const imageCd1767e23468c9d2 = {
   settingTags: ["setting-tag/beach", "setting-tag/sunset", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-drink", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image3eeff2d6c8854c54 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

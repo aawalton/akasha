@@ -9,4 +9,5 @@ export const image94c43ed759070005 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/art-studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

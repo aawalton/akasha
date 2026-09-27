@@ -15,4 +15,5 @@ export const image40297df10b45a150 = {
     "wardrobe-tag/cleavage",
     "wardrobe-tag/bare-legs",
   ],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

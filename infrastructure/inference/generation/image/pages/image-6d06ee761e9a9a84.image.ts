@@ -20,4 +20,5 @@ export const image6d06ee761e9a9a84 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

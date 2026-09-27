@@ -16,4 +16,5 @@ export const imageFaff18176c245b0e = {
     "wardrobe-tag/veil",
     "wardrobe-tag/jewelry",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

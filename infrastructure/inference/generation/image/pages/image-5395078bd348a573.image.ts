@@ -9,4 +9,5 @@ export const image5395078bd348a573 = {
   settingTags: ["setting-tag/studio", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

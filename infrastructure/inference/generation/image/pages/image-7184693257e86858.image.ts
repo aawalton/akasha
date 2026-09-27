@@ -15,4 +15,5 @@ export const image7184693257e86858 = {
   settingTags: ["setting-tag/office", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

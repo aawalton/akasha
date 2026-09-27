@@ -21,4 +21,5 @@ export const image5cbf32c1dc4652e1 = {
   ],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/robe", "wardrobe-tag/lace"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

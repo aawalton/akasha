@@ -21,4 +21,5 @@ export const image2895936465e0d52e = {
   poseTags: ["pose-tag/reclining", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/bioluminescence"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

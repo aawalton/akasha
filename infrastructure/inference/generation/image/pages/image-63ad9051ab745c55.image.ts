@@ -11,4 +11,5 @@ export const image63ad9051ab745c55 = {
   poseTags: ["pose-tag/squatting", "pose-tag/undressing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

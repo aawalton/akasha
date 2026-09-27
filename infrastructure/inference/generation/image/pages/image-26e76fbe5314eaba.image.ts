@@ -17,4 +17,5 @@ export const image26e76fbe5314eaba = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

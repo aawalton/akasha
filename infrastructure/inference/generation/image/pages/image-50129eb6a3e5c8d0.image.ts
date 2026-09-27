@@ -15,4 +15,5 @@ export const image50129eb6a3e5c8d0 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

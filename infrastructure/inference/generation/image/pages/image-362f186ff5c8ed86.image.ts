@@ -19,4 +19,5 @@ export const image362f186ff5c8ed86 = {
   settingTags: ["setting-tag/shower", "setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const imageFacd845195d22c3d = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/sweater", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

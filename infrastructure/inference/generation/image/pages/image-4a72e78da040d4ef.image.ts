@@ -10,4 +10,5 @@ export const image4a72e78da040d4ef = {
   settingTags: ["setting-tag/park", "setting-tag/outdoor", "setting-tag/pool"],
   poseTags: ["pose-tag/standing", "pose-tag/laughing", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

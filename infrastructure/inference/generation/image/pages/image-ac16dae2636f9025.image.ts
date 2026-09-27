@@ -25,4 +25,5 @@ export const imageAc16dae2636f9025 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/veil", "wardrobe-tag/sunglasses", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

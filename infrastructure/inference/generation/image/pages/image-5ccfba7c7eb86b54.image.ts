@@ -20,4 +20,5 @@ export const image5ccfba7c7eb86b54 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

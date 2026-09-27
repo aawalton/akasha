@@ -21,4 +21,5 @@ export const imageDac439a0bbfcbd28 = {
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/fur", "wardrobe-tag/tunic"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

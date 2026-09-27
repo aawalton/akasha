@@ -20,4 +20,5 @@ export const image1bc3411f4a3ebfcc = {
   settingTags: ["setting-tag/neon-lights", "setting-tag/dark-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

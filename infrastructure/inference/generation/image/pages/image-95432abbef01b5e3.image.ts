@@ -9,4 +9,5 @@ export const image95432abbef01b5e3 = {
   settingTags: ["setting-tag/indoor", "setting-tag/mirror"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/sleeveless", "wardrobe-tag/backless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

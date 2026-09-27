@@ -19,4 +19,5 @@ export const imageF585519d5fe62251 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/indoor", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

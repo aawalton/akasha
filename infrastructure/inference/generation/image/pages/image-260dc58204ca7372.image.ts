@@ -9,4 +9,5 @@ export const image260dc58204ca7372 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/dress", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

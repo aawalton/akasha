@@ -20,4 +20,5 @@ export const image1a811fd340b4203e = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

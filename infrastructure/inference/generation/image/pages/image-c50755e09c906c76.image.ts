@@ -19,4 +19,5 @@ export const imageC50755e09c906c76 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/close-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

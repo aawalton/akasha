@@ -15,4 +15,5 @@ export const imageC99331800c717619 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

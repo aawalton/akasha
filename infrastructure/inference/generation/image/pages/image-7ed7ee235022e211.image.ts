@@ -19,4 +19,5 @@ export const image7ed7ee235022e211 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bra", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

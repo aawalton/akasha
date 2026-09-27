@@ -20,4 +20,5 @@ export const image8eaf9813aac6cd16 = {
   settingTags: ["setting-tag/balcony", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/open-shirt", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

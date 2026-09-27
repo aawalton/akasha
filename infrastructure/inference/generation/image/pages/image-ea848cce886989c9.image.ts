@@ -11,4 +11,5 @@ export const imageEa848cce886989c9 = {
   poseTags: ["pose-tag/looking-down", "pose-tag/close-up", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/sheer", "wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

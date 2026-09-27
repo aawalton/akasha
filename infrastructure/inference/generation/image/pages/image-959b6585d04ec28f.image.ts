@@ -10,4 +10,5 @@ export const image959b6585d04ec28f = {
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans", "wardrobe-tag/scarf"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

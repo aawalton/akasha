@@ -10,4 +10,5 @@ export const image5dec9c9d3094858d = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

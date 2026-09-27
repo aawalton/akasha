@@ -9,4 +9,5 @@ export const imageC3ce7c8996055602 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

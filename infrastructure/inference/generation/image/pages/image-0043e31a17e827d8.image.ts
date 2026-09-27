@@ -20,4 +20,5 @@ export const image0043e31a17e827d8 = {
   relationshipLevel: "closeness-level/level-3",
   poseTags: ["pose-tag/laughing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

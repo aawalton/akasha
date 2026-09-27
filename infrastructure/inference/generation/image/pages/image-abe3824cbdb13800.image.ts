@@ -17,4 +17,5 @@ export const imageAbe3824cbdb13800 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

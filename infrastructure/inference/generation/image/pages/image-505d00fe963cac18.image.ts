@@ -29,4 +29,5 @@ export const image505d00fe963cac18 = {
     "pose-tag/looking-back",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

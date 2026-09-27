@@ -9,4 +9,5 @@ export const image1237734beda84463 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

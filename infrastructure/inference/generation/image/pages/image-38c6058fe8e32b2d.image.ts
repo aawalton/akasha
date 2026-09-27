@@ -21,4 +21,5 @@ export const image38c6058fe8e32b2d = {
     "pose-tag/curled-up",
   ],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/sweatpants", "wardrobe-tag/loungewear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image1138838dbc771bbb = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageD88981e202e5c0e0 = {
   settingTags: ["setting-tag/cave", "setting-tag/dimly-lit", "setting-tag/rocks"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

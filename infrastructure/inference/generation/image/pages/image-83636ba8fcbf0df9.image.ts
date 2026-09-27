@@ -14,4 +14,5 @@ export const image83636ba8fcbf0df9 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/bikini", "wardrobe-tag/athletic-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image2e586a5d6230acac = {
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

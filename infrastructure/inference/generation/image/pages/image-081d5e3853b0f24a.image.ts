@@ -20,4 +20,5 @@ export const image081d5e3853b0f24a = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rooftop", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

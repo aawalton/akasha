@@ -9,4 +9,5 @@ export const imageD709f202b43edb3c = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

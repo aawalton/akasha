@@ -15,4 +15,5 @@ export const image12fc79c048ca265f = {
     "wardrobe-tag/gold-trim",
   ],
   fantasyTags: ["fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

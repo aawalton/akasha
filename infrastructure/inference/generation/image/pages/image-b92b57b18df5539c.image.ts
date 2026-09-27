@@ -20,4 +20,5 @@ export const imageB92b57b18df5539c = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/tiara", "wardrobe-tag/veil"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/fairy-tale"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image40e012099c01b4e6 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

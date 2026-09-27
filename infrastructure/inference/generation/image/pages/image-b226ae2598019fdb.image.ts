@@ -9,4 +9,5 @@ export const imageB226ae2598019fdb = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/lying-down", "pose-tag/kneeling", "pose-tag/sitting", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image6601fdc4de7b3f07 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

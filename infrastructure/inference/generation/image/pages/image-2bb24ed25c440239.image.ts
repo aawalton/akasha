@@ -9,4 +9,5 @@ export const image2bb24ed25c440239 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/dress", "wardrobe-tag/backless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

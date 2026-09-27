@@ -19,4 +19,5 @@ export const image90d183cb54d1cdb3 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow", "setting-tag/balcony"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cloak", "wardrobe-tag/fur"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

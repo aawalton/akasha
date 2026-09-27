@@ -19,4 +19,5 @@ export const imageDcf9da60b7dc2ee6 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/fireplace", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

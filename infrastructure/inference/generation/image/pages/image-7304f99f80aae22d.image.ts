@@ -10,4 +10,5 @@ export const image7304f99f80aae22d = {
   poseTags: ["pose-tag/floating", "pose-tag/standing", "pose-tag/front-view", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/bioluminescence", "fantasy-tag/ghost"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

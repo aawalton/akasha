@@ -9,4 +9,5 @@ export const image45d6a6e08bbb496f = {
   settingTags: ["setting-tag/sky", "setting-tag/night", "setting-tag/mountains"],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const image95ff85d185371a24 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

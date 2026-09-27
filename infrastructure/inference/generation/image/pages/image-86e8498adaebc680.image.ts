@@ -20,4 +20,5 @@ export const image86e8498adaebc680 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/field"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image80defc1ab3226189 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

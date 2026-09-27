@@ -25,4 +25,5 @@ export const image9acb92d43d8ed63b = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

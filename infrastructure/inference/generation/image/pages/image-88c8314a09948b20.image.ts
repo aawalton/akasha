@@ -9,4 +9,5 @@ export const image88c8314a09948b20 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/park"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sundress", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

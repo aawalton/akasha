@@ -20,4 +20,5 @@ export const image88b846f053cc2abc = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/glowing-eyes", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image8757e188ed01ea25 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

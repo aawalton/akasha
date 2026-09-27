@@ -9,4 +9,5 @@ export const imageE6cf7f6eb7836d1e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/desert"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

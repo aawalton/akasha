@@ -11,4 +11,5 @@ export const image7eb28c2ed458058b = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/blue-skin", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageD83f31b470ce3c5e = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/camisole"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

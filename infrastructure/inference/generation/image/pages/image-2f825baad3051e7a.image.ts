@@ -10,4 +10,5 @@ export const image2f825baad3051e7a = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/bathing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

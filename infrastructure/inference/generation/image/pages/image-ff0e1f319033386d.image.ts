@@ -25,4 +25,5 @@ export const imageFf0e1f319033386d = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

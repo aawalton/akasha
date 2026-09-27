@@ -10,4 +10,5 @@ export const image115154e1097f261d = {
   poseTags: ["pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

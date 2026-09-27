@@ -14,4 +14,5 @@ export const image46e6d9e577fbb0b4 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

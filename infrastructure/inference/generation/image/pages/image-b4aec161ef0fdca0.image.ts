@@ -20,4 +20,5 @@ export const imageB4aec161ef0fdca0 = {
   settingTags: ["setting-tag/desert", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

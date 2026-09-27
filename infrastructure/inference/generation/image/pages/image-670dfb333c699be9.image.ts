@@ -16,4 +16,5 @@ export const image670dfb333c699be9 = {
   settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/sweater", "wardrobe-tag/backpack"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

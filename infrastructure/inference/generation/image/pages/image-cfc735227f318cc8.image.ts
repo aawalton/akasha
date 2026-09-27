@@ -21,4 +21,5 @@ export const imageCfc735227f318cc8 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

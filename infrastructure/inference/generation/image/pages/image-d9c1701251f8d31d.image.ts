@@ -11,4 +11,5 @@ export const imageD9c1701251f8d31d = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/sleepwear", "wardrobe-tag/camisole"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

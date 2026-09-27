@@ -9,4 +9,5 @@ export const image172d5fecc8da671a = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/rocks"],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

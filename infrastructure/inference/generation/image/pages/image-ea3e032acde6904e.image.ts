@@ -15,4 +15,5 @@ export const imageEa3e032acde6904e = {
     "wardrobe-tag/choker",
   ],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

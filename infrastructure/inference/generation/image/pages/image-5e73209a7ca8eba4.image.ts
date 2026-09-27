@@ -9,4 +9,5 @@ export const image5e73209a7ca8eba4 = {
   settingTags: ["setting-tag/underwater", "setting-tag/pool", "setting-tag/snow"],
   poseTags: ["pose-tag/floating", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

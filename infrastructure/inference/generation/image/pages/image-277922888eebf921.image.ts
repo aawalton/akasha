@@ -9,4 +9,5 @@ export const image277922888eebf921 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

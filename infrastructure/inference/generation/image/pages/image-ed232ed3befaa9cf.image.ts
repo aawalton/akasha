@@ -10,4 +10,5 @@ export const imageEd232ed3befaa9cf = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image923713e5a99159be = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

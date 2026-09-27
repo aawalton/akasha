@@ -20,4 +20,5 @@ export const image40680ac424ea912f = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/kitchen"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-up", "pose-tag/reading", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

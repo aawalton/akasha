@@ -15,4 +15,5 @@ export const image9d75234f8f0b327d = {
     "wardrobe-tag/body-paint",
   ],
   fantasyTags: ["fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

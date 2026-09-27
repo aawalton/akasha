@@ -20,4 +20,5 @@ export const image62c87182b09eea8c = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/gaming", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

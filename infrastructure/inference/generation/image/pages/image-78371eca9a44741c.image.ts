@@ -10,4 +10,5 @@ export const image78371eca9a44741c = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-back", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

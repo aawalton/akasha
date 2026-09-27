@@ -14,4 +14,5 @@ export const imageF13a846b5e0daff2 = {
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/holding-hands", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

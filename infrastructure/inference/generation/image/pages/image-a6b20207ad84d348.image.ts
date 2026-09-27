@@ -19,4 +19,5 @@ export const imageA6b20207ad84d348 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

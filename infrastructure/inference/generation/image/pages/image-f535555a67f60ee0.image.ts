@@ -9,4 +9,5 @@ export const imageF535555a67f60ee0 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/hotel"],
   poseTags: ["pose-tag/lying-down", "pose-tag/straddling", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

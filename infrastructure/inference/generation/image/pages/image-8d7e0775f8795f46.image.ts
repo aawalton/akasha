@@ -17,4 +17,5 @@ export const image8d7e0775f8795f46 = {
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheet", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

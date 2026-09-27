@@ -20,4 +20,5 @@ export const image8c47fad7678d9b65 = {
   poseTags: ["pose-tag/floating", "pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/cosmic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageF4a3956688134b0d = {
   settingTags: ["setting-tag/boat", "setting-tag/water", "setting-tag/cabin"],
   poseTags: ["pose-tag/reclining", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/silk", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

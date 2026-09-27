@@ -27,4 +27,5 @@ export const image1c981cc39547d59f = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

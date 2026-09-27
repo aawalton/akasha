@@ -11,4 +11,5 @@ export const image0842ba827cb0acbd = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-down", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig", "wardrobe-tag/socks"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

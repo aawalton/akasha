@@ -9,4 +9,5 @@ export const image31b926e6fa595813 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/rocks"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

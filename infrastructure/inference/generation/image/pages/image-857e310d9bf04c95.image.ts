@@ -20,4 +20,5 @@ export const image857e310d9bf04c95 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

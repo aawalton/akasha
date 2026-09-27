@@ -15,4 +15,5 @@ export const image3b6b8cdd2fb3ff50 = {
     "wardrobe-tag/nipples-visible",
   ],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

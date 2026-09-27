@@ -19,4 +19,5 @@ export const image813c4a4048a5d610 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/lying-down", "pose-tag/stretching", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleepwear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

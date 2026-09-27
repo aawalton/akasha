@@ -20,4 +20,5 @@ export const image44507a6af7d5fba2 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/shirt", "wardrobe-tag/gold-trim"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

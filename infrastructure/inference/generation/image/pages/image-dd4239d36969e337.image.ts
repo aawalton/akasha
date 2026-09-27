@@ -20,4 +20,5 @@ export const imageDd4239d36969e337 = {
   settingTags: ["setting-tag/balcony", "setting-tag/indoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/robe", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

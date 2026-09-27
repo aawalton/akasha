@@ -20,4 +20,5 @@ export const image112415b774f79d27 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image75356688ea4413d0 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless", "wardrobe-tag/tube-top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

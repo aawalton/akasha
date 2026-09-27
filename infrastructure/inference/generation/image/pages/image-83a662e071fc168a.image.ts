@@ -10,4 +10,5 @@ export const image83a662e071fc168a = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless", "wardrobe-tag/high-slit"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

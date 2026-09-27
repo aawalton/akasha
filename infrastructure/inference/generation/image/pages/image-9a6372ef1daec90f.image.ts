@@ -9,4 +9,5 @@ export const image9a6372ef1daec90f = {
   settingTags: ["setting-tag/river", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sex", "pose-tag/lying-on-stomach", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

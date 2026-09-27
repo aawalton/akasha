@@ -20,4 +20,5 @@ export const imageA4fa0f5bf8eca97d = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/green-skin", "fantasy-tag/glowing-eyes", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

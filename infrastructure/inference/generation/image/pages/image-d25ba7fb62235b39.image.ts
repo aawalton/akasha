@@ -14,4 +14,5 @@ export const imageD25ba7fb62235b39 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

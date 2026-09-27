@@ -10,4 +10,5 @@ export const image8f09bccb717f3fb0 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/library"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

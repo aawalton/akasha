@@ -11,4 +11,5 @@ export const imageF522a67b00cba76b = {
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/hoodie", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

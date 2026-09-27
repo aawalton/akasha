@@ -11,4 +11,5 @@ export const image2b433f1330edd452 = {
   poseTags: ["pose-tag/profile", "pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/loungewear", "wardrobe-tag/shirt", "wardrobe-tag/pants"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

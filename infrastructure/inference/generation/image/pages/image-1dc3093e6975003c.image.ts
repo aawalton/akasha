@@ -10,4 +10,5 @@ export const image1dc3093e6975003c = {
   poseTags: ["pose-tag/front-view", "pose-tag/arms-raised", "pose-tag/hands-behind-head"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/fire"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

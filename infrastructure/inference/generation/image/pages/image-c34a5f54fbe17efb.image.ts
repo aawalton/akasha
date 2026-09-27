@@ -14,4 +14,5 @@ export const imageC34a5f54fbe17efb = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageB5b521800b1438cc = {
   settingTags: ["setting-tag/boat", "setting-tag/ocean", "setting-tag/sunset"],
   poseTags: ["pose-tag/leaning", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageDf48c27c5c4b8342 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

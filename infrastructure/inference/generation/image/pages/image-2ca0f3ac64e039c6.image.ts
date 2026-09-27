@@ -20,4 +20,5 @@ export const image2ca0f3ac64e039c6 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/ocean"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

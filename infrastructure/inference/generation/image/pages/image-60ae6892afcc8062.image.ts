@@ -22,4 +22,5 @@ export const image60ae6892afcc8062 = {
   poseTags: ["pose-tag/selfie", "pose-tag/looking-at-viewer", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/purple-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

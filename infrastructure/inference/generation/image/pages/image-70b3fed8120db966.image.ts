@@ -11,4 +11,5 @@ export const image70b3fed8120db966 = {
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

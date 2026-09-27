@@ -9,4 +9,5 @@ export const image5366f9cf1955b9be = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

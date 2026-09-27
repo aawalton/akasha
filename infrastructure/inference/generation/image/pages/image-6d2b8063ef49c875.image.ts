@@ -20,4 +20,5 @@ export const image6d2b8063ef49c875 = {
   settingTags: ["setting-tag/boat", "setting-tag/ocean", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/bikini", "wardrobe-tag/bare-midriff"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

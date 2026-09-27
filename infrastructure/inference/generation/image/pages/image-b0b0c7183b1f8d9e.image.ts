@@ -14,4 +14,5 @@ export const imageB0b0c7183b1f8d9e = {
     "pose-tag/smiling",
     "pose-tag/head-tilt",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

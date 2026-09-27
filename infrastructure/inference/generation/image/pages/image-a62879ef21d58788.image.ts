@@ -19,4 +19,5 @@ export const imageA62879ef21d58788 = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

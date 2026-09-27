@@ -11,4 +11,5 @@ export const image83784b4b72057d77 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-down", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

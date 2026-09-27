@@ -10,4 +10,5 @@ export const imageFeb0e5de8c66e5bc = {
   poseTags: ["pose-tag/standing", "pose-tag/undressing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/headband"],
   fantasyTags: ["fantasy-tag/fire"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

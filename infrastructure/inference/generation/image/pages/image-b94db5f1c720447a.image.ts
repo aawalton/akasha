@@ -19,4 +19,5 @@ export const imageB94db5f1c720447a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-spread", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

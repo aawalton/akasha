@@ -19,4 +19,5 @@ export const imageC1aab8efb9544a8c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/dock", "setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

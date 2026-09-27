@@ -10,4 +10,5 @@ export const imageC706f1531bc452e1 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-in-hair", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

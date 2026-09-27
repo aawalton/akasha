@@ -9,4 +9,5 @@ export const image89e1c5e4b5959b85 = {
   settingTags: ["setting-tag/abstract-background"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

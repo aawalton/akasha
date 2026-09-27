@@ -20,4 +20,5 @@ export const image3ac4236fb40e2013 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/nature"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/strapless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

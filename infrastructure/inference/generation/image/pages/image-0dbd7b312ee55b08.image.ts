@@ -15,4 +15,5 @@ export const image0dbd7b312ee55b08 = {
     "wardrobe-tag/body-paint",
   ],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

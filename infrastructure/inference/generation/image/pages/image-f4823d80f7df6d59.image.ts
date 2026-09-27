@@ -30,4 +30,5 @@ export const imageF4823d80f7df6d59 = {
     "pose-tag/stretching",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

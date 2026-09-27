@@ -20,4 +20,5 @@ export const image26ad361116eda728 = {
   poseTags: ["pose-tag/sitting", "pose-tag/writing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

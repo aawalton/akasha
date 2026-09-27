@@ -9,4 +9,5 @@ export const image515a3982e9b50bc2 = {
   relationshipLevel: "closeness-level/level-4",
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

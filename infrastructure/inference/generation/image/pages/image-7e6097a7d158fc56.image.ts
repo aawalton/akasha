@@ -20,4 +20,5 @@ export const image7e6097a7d158fc56 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

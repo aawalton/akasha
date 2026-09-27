@@ -11,4 +11,5 @@ export const imageF1fcb463a3c8a045 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/lingerie", "wardrobe-tag/nipples-visible"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const image77fe5d438482018c = {
     "pose-tag/masturbation",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

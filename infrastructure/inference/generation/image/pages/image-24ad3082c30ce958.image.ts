@@ -10,4 +10,5 @@ export const image24ad3082c30ce958 = {
   poseTags: ["pose-tag/selfie", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/coat", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

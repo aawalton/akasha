@@ -9,4 +9,5 @@ export const image831dfe01d30fcd7a = {
   settingTags: ["setting-tag/indoor", "setting-tag/study", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-down", "pose-tag/painting"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageC95a2e01177710fc = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

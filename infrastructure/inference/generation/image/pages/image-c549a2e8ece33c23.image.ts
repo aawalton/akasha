@@ -9,4 +9,5 @@ export const imageC549a2e8ece33c23 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/hotel"],
   poseTags: ["pose-tag/back-view", "pose-tag/all-fours", "pose-tag/looking-back", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

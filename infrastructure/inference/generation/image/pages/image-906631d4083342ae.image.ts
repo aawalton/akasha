@@ -11,4 +11,5 @@ export const image906631d4083342ae = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

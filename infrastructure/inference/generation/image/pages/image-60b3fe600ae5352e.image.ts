@@ -9,4 +9,5 @@ export const image60b3fe600ae5352e = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/stretching", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

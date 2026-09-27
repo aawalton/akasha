@@ -9,4 +9,5 @@ export const image00374c8100d21246 = {
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/kissing", "pose-tag/bathing", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

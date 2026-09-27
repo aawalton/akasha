@@ -20,4 +20,5 @@ export const image7e41e15f97623283 = {
   settingTags: ["setting-tag/cafe", "setting-tag/indoor"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

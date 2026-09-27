@@ -15,4 +15,5 @@ export const image3220abef1dca8737 = {
     "wardrobe-tag/silk",
   ],
   fantasyTags: ["fantasy-tag/steampunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

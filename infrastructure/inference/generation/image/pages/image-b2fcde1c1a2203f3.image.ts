@@ -11,4 +11,5 @@ export const imageB2fcde1c1a2203f3 = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

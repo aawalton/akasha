@@ -21,4 +21,5 @@ export const image5715e178a9fb3c3f = {
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/leather", "wardrobe-tag/bare-midriff"],
   fantasyTags: ["fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

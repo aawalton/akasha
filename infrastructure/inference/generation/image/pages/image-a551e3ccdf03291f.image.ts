@@ -19,4 +19,5 @@ export const imageA551e3ccdf03291f = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

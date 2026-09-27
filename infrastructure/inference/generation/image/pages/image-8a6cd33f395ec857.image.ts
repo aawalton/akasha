@@ -15,4 +15,5 @@ export const image8a6cd33f395ec857 = {
   ],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/body-paint", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

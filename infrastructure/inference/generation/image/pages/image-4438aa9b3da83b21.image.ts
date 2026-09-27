@@ -10,4 +10,5 @@ export const image4438aa9b3da83b21 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

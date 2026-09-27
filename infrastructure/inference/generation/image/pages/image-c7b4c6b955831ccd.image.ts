@@ -20,4 +20,5 @@ export const imageC7b4c6b955831ccd = {
   settingTags: ["setting-tag/bathroom", "setting-tag/shower", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

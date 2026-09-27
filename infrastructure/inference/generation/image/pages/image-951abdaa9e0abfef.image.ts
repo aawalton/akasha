@@ -10,4 +10,5 @@ export const image951abdaa9e0abfef = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

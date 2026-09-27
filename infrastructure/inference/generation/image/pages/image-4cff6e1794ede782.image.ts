@@ -10,4 +10,5 @@ export const image4cff6e1794ede782 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

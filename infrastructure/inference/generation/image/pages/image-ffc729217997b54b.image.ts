@@ -21,4 +21,5 @@ export const imageFfc729217997b54b = {
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/winking"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

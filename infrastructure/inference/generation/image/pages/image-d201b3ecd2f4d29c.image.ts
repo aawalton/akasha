@@ -10,4 +10,5 @@ export const imageD201b3ecd2f4d29c = {
   poseTags: ["pose-tag/fighting", "pose-tag/running"],
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

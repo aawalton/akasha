@@ -14,4 +14,5 @@ export const image9fd57ce442d3988f = {
     "pose-tag/kneeling",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

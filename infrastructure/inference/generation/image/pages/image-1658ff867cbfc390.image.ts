@@ -20,4 +20,5 @@ export const image1658ff867cbfc390 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/saree"],
   fantasyTags: ["fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

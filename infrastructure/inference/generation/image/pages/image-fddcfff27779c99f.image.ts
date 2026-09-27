@@ -20,4 +20,5 @@ export const imageFddcfff27779c99f = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/scarf"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

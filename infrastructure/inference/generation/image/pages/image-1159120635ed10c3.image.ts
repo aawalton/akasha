@@ -19,4 +19,5 @@ export const image1159120635ed10c3 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/shower"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

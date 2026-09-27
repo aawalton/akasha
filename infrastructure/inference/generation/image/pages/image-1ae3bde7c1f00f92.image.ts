@@ -34,4 +34,5 @@ export const image1ae3bde7c1f00f92 = {
     "wardrobe-tag/sheet",
     "wardrobe-tag/jewelry",
   ],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

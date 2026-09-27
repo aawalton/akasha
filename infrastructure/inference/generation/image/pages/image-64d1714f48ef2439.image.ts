@@ -10,4 +10,5 @@ export const image64d1714f48ef2439 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/gold-trim", "wardrobe-tag/high-neck"],
   fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/latina"],
 } as const satisfies Image

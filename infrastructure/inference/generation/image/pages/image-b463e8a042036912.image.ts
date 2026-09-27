@@ -20,4 +20,5 @@ export const imageB463e8a042036912 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/gaming"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

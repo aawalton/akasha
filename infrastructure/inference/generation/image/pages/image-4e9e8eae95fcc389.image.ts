@@ -20,4 +20,5 @@ export const image4e9e8eae95fcc389 = {
   settingTags: ["setting-tag/boat", "setting-tag/outdoor", "setting-tag/balcony"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

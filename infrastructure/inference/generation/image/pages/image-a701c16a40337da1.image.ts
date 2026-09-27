@@ -11,4 +11,5 @@ export const imageA701c16a40337da1 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/belt", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

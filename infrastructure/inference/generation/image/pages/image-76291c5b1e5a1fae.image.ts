@@ -10,4 +10,5 @@ export const image76291c5b1e5a1fae = {
   poseTags: ["pose-tag/kneeling", "pose-tag/oral-sex", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

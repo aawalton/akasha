@@ -9,4 +9,5 @@ export const image24f04b6ee3364112 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/straddling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

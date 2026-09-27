@@ -15,4 +15,5 @@ export const imageF8343e7b0109d0f7 = {
     "wardrobe-tag/high-slit",
     "wardrobe-tag/hair-accessory",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

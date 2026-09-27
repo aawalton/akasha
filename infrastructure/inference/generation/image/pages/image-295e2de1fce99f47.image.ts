@@ -20,4 +20,5 @@ export const image295e2de1fce99f47 = {
   settingTags: ["setting-tag/rooftop", "setting-tag/pool", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/sheer", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

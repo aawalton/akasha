@@ -30,4 +30,5 @@ export const imageF4c602f4f18e083d = {
     "wardrobe-tag/jewelry",
   ],
   fantasyTags: ["fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

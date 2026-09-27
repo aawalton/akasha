@@ -20,4 +20,5 @@ export const image6c9953f69961b4f5 = {
   settingTags: ["setting-tag/city", "setting-tag/city-street", "setting-tag/rain"],
   poseTags: ["pose-tag/squatting", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/pants", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

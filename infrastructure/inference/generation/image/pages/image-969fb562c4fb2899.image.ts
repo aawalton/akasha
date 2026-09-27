@@ -23,4 +23,5 @@ export const image969fb562c4fb2899 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

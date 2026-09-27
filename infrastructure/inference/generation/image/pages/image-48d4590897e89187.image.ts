@@ -11,4 +11,5 @@ export const image48d4590897e89187 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

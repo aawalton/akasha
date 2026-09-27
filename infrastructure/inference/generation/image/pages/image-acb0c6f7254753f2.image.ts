@@ -10,4 +10,5 @@ export const imageAcb0c6f7254753f2 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

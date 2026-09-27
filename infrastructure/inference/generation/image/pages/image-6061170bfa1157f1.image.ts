@@ -9,4 +9,5 @@ export const image6061170bfa1157f1 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/fog"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

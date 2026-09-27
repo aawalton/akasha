@@ -14,4 +14,5 @@ export const imageBc10eda7b1c88745 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/coat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

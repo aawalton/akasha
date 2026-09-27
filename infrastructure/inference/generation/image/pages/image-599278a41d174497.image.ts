@@ -11,4 +11,5 @@ export const image599278a41d174497 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/dress", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

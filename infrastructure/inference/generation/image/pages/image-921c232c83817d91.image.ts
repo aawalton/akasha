@@ -9,4 +9,5 @@ export const image921c232c83817d91 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-down", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/exposed-genitals", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

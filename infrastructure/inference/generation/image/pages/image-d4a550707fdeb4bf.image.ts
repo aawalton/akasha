@@ -9,4 +9,5 @@ export const imageD4a550707fdeb4bf = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/reclining", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/latex", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

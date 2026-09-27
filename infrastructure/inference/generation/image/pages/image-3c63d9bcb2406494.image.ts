@@ -11,4 +11,5 @@ export const image3c63d9bcb2406494 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

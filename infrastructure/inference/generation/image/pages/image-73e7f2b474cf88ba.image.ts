@@ -11,4 +11,5 @@ export const image73e7f2b474cf88ba = {
   poseTags: ["pose-tag/arms-crossed", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/lingerie", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

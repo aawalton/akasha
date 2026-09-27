@@ -25,4 +25,5 @@ export const imageAb06eef6187d713e = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/leggings", "wardrobe-tag/tights"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

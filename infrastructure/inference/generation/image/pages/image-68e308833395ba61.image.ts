@@ -20,4 +20,5 @@ export const image68e308833395ba61 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/bedroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

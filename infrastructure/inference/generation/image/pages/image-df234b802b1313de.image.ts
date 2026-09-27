@@ -9,4 +9,5 @@ export const imageDf234b802b1313de = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/indoor"],
   poseTags: ["pose-tag/lying-down", "pose-tag/knees-up", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

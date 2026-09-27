@@ -16,4 +16,5 @@ export const image21fb7f3e04b32963 = {
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

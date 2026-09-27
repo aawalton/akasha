@@ -19,4 +19,5 @@ export const image863b54c83dc9f538 = {
   settingTags: ["setting-tag/balcony", "setting-tag/outdoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

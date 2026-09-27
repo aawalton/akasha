@@ -15,4 +15,5 @@ export const imageCfff91fc87b91abd = {
   ],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

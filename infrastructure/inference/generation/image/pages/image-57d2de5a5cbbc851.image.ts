@@ -19,4 +19,5 @@ export const image57d2de5a5cbbc851 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/reclining", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

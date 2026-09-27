@@ -20,4 +20,5 @@ export const image7e13b22384c29b71 = {
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-back", "pose-tag/profile", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

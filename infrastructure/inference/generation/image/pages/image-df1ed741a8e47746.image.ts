@@ -10,4 +10,5 @@ export const imageDf1ed741a8e47746 = {
   poseTags: ["pose-tag/looking-up", "pose-tag/close-up", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

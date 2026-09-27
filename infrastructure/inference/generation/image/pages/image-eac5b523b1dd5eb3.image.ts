@@ -11,4 +11,5 @@ export const imageEac5b523b1dd5eb3 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

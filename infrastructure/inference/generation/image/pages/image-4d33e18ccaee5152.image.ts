@@ -10,4 +10,5 @@ export const image4d33e18ccaee5152 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/boots"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

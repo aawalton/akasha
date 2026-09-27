@@ -9,4 +9,5 @@ export const imageB47ca82af5dff090 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

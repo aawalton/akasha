@@ -11,4 +11,5 @@ export const image1c4a72eb97548f1d = {
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/high-slit", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

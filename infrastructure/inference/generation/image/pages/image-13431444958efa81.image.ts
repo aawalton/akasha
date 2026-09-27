@@ -16,4 +16,5 @@ export const image13431444958efa81 = {
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bare-legs"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

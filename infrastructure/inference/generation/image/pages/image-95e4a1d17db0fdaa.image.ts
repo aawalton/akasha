@@ -9,4 +9,5 @@ export const image95e4a1d17db0fdaa = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/living-room"],
   poseTags: ["pose-tag/kissing", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

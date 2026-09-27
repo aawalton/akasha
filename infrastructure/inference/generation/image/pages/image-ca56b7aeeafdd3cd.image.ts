@@ -26,4 +26,5 @@ export const imageCa56b7aeeafdd3cd = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/tank-top", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/animal-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

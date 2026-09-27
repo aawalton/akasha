@@ -20,4 +20,5 @@ export const imageB9f2b7ede489c5c3 = {
   settingTags: ["setting-tag/indoor", "setting-tag/workshop", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/skirt", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

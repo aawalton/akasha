@@ -19,4 +19,5 @@ export const image6133db70eb51cf6e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/canyon", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/sunglasses", "wardrobe-tag/backpack"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

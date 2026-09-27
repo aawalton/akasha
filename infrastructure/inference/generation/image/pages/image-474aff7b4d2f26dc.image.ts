@@ -15,4 +15,5 @@ export const image474aff7b4d2f26dc = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/glasses"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

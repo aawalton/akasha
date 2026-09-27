@@ -19,4 +19,5 @@ export const imageB3b9fa2c37265e99 = {
   settingTags: ["setting-tag/market", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image40b80d7322aa19d8 = {
   settingTags: ["setting-tag/office", "setting-tag/study", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/off-shoulder", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

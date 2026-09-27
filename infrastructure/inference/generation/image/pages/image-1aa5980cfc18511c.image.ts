@@ -11,4 +11,5 @@ export const image1aa5980cfc18511c = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

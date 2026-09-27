@@ -9,4 +9,5 @@ export const imageBf51d09fc7ffc8c1 = {
   settingTags: ["setting-tag/church", "setting-tag/hallway", "setting-tag/rocks"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

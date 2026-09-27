@@ -20,4 +20,5 @@ export const imageDbbd7bcc27a9146e = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/skirt", "wardrobe-tag/lace"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

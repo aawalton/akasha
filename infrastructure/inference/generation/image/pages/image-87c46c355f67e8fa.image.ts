@@ -10,4 +10,5 @@ export const image87c46c355f67e8fa = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

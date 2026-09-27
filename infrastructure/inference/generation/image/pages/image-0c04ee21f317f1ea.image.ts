@@ -10,4 +10,5 @@ export const image0c04ee21f317f1ea = {
   settingTags: ["setting-tag/pool", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

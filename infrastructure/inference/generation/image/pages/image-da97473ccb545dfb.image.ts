@@ -20,4 +20,5 @@ export const imageDa97473ccb545dfb = {
   settingTags: ["setting-tag/indoor", "setting-tag/castle", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/lingerie", "wardrobe-tag/mask"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

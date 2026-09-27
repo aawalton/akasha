@@ -11,4 +11,5 @@ export const imageBaf379fce4ba2d7e = {
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

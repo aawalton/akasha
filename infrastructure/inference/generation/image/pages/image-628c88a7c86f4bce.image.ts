@@ -19,4 +19,5 @@ export const image628c88a7c86f4bce = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/lying-down", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

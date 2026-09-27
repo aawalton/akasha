@@ -15,4 +15,5 @@ export const image9597250113ec368b = {
     "pose-tag/embracing",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

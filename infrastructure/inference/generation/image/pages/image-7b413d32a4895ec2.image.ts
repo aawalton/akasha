@@ -10,4 +10,5 @@ export const image7b413d32a4895ec2 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bodysuit", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

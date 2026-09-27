@@ -10,4 +10,5 @@ export const imageEe77663f15f624b0 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/wig"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

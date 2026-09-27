@@ -19,4 +19,5 @@ export const image253ced7091f39fda = {
   settingTags: ["setting-tag/night", "setting-tag/city-street", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/pants", "wardrobe-tag/jacket"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

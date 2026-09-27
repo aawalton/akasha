@@ -19,4 +19,5 @@ export const imageDda61012a3550eb7 = {
   settingTags: ["setting-tag/indoor", "setting-tag/doorway"],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

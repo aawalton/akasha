@@ -20,4 +20,5 @@ export const image9d96f9a3d30fc401 = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/home"],
   poseTags: ["pose-tag/walking", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/stockings", "wardrobe-tag/tights"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

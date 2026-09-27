@@ -19,4 +19,5 @@ export const image823da7a2e5ac7e6f = {
   settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/walking", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/skirt", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

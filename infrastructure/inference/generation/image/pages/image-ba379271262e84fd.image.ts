@@ -11,4 +11,5 @@ export const imageBa379271262e84fd = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

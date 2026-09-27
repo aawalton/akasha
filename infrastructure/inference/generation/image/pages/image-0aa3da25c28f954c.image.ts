@@ -11,4 +11,5 @@ export const image0aa3da25c28f954c = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

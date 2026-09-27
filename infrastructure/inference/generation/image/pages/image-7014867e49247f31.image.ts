@@ -26,4 +26,5 @@ export const image7014867e49247f31 = {
   settingTags: ["setting-tag/home", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

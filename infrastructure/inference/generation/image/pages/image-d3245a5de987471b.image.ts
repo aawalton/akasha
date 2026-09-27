@@ -20,4 +20,5 @@ export const imageD3245a5de987471b = {
   settingTags: ["setting-tag/indoor", "setting-tag/luxury", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

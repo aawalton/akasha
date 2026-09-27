@@ -19,4 +19,5 @@ export const imageC540a1367910744f = {
   settingTags: ["setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/off-shoulder", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

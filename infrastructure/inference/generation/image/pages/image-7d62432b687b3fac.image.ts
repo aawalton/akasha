@@ -9,4 +9,5 @@ export const image7d62432b687b3fac = {
   settingTags: ["setting-tag/indoor", "setting-tag/living-room"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

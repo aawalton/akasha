@@ -10,4 +10,5 @@ export const image03ee4a02e86b9544 = {
   settingTags: ["setting-tag/restaurant", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/deep-v-neck"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

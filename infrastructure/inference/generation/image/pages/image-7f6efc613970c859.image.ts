@@ -11,4 +11,5 @@ export const image7f6efc613970c859 = {
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/robe"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

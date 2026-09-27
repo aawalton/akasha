@@ -9,4 +9,5 @@ export const imageE987e12860bca79b = {
   settingTags: ["setting-tag/ruins", "setting-tag/outdoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-clothing", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/deep-v-neck", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

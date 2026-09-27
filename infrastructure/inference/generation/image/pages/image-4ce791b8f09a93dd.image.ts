@@ -9,4 +9,5 @@ export const image4ce791b8f09a93dd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/canyon", "setting-tag/rocks"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

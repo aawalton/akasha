@@ -14,4 +14,5 @@ export const image12598453842e23e3 = {
     "pose-tag/lying-down",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

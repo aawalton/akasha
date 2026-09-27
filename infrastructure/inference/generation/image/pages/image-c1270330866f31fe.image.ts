@@ -9,4 +9,5 @@ export const imageC1270330866f31fe = {
   settingTags: ["setting-tag/outdoor", "setting-tag/desert", "setting-tag/rocks"],
   poseTags: ["pose-tag/hand-on-face", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

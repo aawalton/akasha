@@ -19,4 +19,5 @@ export const imageA117e18f935d8948 = {
   settingTags: ["setting-tag/castle", "setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

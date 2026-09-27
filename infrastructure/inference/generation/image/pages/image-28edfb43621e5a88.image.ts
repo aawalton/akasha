@@ -10,4 +10,5 @@ export const image28edfb43621e5a88 = {
   poseTags: ["pose-tag/hand-on-face", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tunic", "wardrobe-tag/harness", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

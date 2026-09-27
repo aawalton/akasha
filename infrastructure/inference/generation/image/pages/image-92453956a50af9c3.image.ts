@@ -11,4 +11,5 @@ export const image92453956a50af9c3 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/top", "wardrobe-tag/corset"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/sci-fi", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

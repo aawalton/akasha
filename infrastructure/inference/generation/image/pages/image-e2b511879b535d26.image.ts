@@ -19,4 +19,5 @@ export const imageE2b511879b535d26 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/balcony"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/wet", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

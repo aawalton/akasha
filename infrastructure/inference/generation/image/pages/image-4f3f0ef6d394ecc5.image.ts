@@ -21,4 +21,5 @@ export const image4f3f0ef6d394ecc5 = {
   ],
   poseTags: ["pose-tag/laughing", "pose-tag/hand-on-face", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

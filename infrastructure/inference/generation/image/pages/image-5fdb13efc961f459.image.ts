@@ -21,4 +21,5 @@ export const image5fdb13efc961f459 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bikini"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/blue-skin", "fantasy-tag/mermaid"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

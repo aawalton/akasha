@@ -20,4 +20,5 @@ export const image240836810f68c5fc = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/mixed", "ethnicity-tag/white"],
 } as const satisfies Image

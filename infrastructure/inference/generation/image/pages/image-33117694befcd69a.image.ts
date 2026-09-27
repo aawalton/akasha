@@ -10,4 +10,5 @@ export const image33117694befcd69a = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/halter-top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

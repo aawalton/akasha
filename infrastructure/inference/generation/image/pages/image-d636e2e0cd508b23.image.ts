@@ -15,4 +15,5 @@ export const imageD636e2e0cd508b23 = {
     "pose-tag/masturbation",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

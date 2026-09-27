@@ -15,4 +15,5 @@ export const image6ff0941a77806a96 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image6ba99cd4da1c3ac8 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

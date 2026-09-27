@@ -20,4 +20,5 @@ export const image8c722292d9d1a1ba = {
     "wardrobe-tag/armor",
   ],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

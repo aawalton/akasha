@@ -15,4 +15,5 @@ export const image4e75e862f78ebf10 = {
     "wardrobe-tag/cloak",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic", "fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

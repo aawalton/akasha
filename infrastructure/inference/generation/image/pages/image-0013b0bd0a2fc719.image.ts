@@ -17,4 +17,5 @@ export const image0013b0bd0a2fc719 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/crop-top"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

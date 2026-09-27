@@ -10,4 +10,5 @@ export const imageF1c792c2c266e8f0 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bodysuit", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

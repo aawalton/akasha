@@ -19,4 +19,5 @@ export const imageBba0f40fca73b121 = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/jungle", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

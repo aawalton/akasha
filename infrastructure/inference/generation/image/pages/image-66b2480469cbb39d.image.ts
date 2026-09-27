@@ -9,4 +9,5 @@ export const image66b2480469cbb39d = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

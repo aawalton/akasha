@@ -9,4 +9,5 @@ export const imageDb79a2e76b96fb39 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/town"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

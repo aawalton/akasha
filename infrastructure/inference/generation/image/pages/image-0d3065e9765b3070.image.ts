@@ -11,4 +11,5 @@ export const image0d3065e9765b3070 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/sheer", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

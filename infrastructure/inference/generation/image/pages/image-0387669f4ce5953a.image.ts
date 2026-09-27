@@ -9,4 +9,5 @@ export const image0387669f4ce5953a = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/hotel"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

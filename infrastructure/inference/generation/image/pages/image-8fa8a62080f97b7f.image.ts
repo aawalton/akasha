@@ -10,4 +10,5 @@ export const image8fa8a62080f97b7f = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   fantasyTags: ["fantasy-tag/unusual-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image5519387bacbb9d6f = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/glowing-eyes", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

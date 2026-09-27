@@ -11,4 +11,5 @@ export const imageC301184d0232d544 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/luxury"],
   poseTags: ["pose-tag/reclining", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

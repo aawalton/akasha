@@ -10,4 +10,5 @@ export const image4de6ec4294c38f0e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

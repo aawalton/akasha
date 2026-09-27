@@ -20,4 +20,5 @@ export const image9648d74df1da9635 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

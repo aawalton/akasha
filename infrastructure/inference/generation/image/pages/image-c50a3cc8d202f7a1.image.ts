@@ -9,4 +9,5 @@ export const imageC50a3cc8d202f7a1 = {
   settingTags: ["setting-tag/library"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/open-shirt", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageA5185ca3bfe464a1 = {
   settingTags: ["setting-tag/dimly-lit", "setting-tag/park"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

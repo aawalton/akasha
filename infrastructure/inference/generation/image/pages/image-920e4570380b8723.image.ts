@@ -9,4 +9,5 @@ export const image920e4570380b8723 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/curled-up", "pose-tag/sleeping", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

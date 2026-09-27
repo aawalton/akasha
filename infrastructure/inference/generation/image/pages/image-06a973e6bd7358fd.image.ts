@@ -19,4 +19,5 @@ export const image06a973e6bd7358fd = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/party"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

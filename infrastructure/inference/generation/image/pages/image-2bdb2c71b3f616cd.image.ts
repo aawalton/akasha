@@ -19,4 +19,5 @@ export const image2bdb2c71b3f616cd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/car"],
   poseTags: ["pose-tag/leaning", "pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans", "wardrobe-tag/boots"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

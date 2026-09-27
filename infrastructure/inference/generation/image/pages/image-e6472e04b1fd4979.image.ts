@@ -9,4 +9,5 @@ export const imageE6472e04b1fd4979 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-in-mirror"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jeans", "wardrobe-tag/open-shirt"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

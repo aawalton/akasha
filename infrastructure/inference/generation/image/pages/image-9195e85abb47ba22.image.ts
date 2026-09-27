@@ -10,4 +10,5 @@ export const image9195e85abb47ba22 = {
   settingTags: ["setting-tag/desert", "setting-tag/outdoor", "setting-tag/beach"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

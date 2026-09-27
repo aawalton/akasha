@@ -9,4 +9,5 @@ export const imageA5e264291de5849a = {
   settingTags: ["setting-tag/city-street", "setting-tag/night", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

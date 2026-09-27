@@ -10,4 +10,5 @@ export const imageAd3aa115959157da = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/skirt", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/dragon-horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

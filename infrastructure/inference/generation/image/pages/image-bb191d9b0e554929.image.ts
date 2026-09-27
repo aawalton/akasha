@@ -14,4 +14,5 @@ export const imageBb191d9b0e554929 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/wet", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

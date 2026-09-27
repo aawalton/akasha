@@ -9,4 +9,5 @@ export const image81dd241c5235847e = {
   settingTags: ["setting-tag/bedroom", "setting-tag/luxury", "setting-tag/castle"],
   poseTags: ["pose-tag/sex", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

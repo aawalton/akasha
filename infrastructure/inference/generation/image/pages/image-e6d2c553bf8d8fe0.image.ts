@@ -18,4 +18,5 @@ export const imageE6d2c553bf8d8fe0 = {
   poseTags: ["pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

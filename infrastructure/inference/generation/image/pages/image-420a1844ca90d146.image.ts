@@ -10,4 +10,5 @@ export const image420a1844ca90d146 = {
   settingTags: ["setting-tag/dock", "setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image842e833601a42ad3 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shorts", "wardrobe-tag/boots"],
+  ethnicityTags: ["ethnicity-tag/latina"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image67206dfea1f17c6c = {
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -27,4 +27,5 @@ export const image8fe930adddb0463f = {
   ],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/jacket"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

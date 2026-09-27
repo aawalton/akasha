@@ -9,4 +9,5 @@ export const imageEf7865f006191800 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/hot-spring", "setting-tag/rocks"],
   poseTags: ["pose-tag/reclining", "pose-tag/reaching", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

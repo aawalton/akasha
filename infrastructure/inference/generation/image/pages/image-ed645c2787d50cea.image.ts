@@ -9,4 +9,5 @@ export const imageEd645c2787d50cea = {
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/luxury"],
   poseTags: ["pose-tag/straddling", "pose-tag/kneeling", "pose-tag/lying-down", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

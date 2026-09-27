@@ -9,4 +9,5 @@ export const image1007083adbd5c086 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

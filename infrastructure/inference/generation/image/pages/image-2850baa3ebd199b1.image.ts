@@ -11,4 +11,5 @@ export const image2850baa3ebd199b1 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/partial-undress", "wardrobe-tag/robe"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

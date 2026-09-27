@@ -20,4 +20,5 @@ export const image81f4da17b7a3ea24 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/back-view", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/lingerie", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

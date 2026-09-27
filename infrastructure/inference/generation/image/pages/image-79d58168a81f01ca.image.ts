@@ -10,4 +10,5 @@ export const image79d58168a81f01ca = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/bare-shoulders", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

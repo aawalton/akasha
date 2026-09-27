@@ -10,4 +10,5 @@ export const imageE05883a407f47a0c = {
   settingTags: ["setting-tag/office", "setting-tag/indoor", "setting-tag/study"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top", "wardrobe-tag/suit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

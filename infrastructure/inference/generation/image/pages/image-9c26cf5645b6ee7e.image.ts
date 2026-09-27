@@ -20,4 +20,5 @@ export const image9c26cf5645b6ee7e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/glowing-eyes", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageE6da64e5e863ce04 = {
   settingTags: ["setting-tag/arcade", "setting-tag/indoor", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-up", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/overalls"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

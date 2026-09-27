@@ -9,4 +9,5 @@ export const imageDbb3000cf711c9a9 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

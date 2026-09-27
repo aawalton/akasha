@@ -19,4 +19,5 @@ export const image672b43dcc8115fc1 = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/bathing", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

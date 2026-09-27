@@ -26,4 +26,5 @@ export const imageDfdf5a242cfe5543 = {
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/anthro"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image8661c8146f85a0d0 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

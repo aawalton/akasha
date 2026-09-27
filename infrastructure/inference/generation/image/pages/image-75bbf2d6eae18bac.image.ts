@@ -9,4 +9,5 @@ export const image75bbf2d6eae18bac = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/sheet", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

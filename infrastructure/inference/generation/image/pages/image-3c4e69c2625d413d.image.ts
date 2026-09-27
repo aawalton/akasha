@@ -20,4 +20,5 @@ export const image3c4e69c2625d413d = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image2f9fe9a36b1b8c59 = {
     "wardrobe-tag/headband",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

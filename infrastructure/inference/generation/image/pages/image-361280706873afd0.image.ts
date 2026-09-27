@@ -19,4 +19,5 @@ export const image361280706873afd0 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/rocks"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

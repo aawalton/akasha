@@ -22,4 +22,5 @@ export const imageDb8acb643e950b40 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/glasses"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

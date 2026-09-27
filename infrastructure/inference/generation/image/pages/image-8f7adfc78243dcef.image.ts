@@ -14,4 +14,5 @@ export const image8f7adfc78243dcef = {
     "pose-tag/embracing",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image48d2adf49d5e20ca = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/straddling", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

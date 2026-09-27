@@ -9,4 +9,5 @@ export const imageD5ae09cc7b30b400 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/fireplace"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/qipao", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

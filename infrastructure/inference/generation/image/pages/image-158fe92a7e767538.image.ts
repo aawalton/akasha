@@ -10,4 +10,5 @@ export const image158fe92a7e767538 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image25833e834d00751f = {
   settingTags: ["setting-tag/pool", "setting-tag/indoor", "setting-tag/bathroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/wet", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

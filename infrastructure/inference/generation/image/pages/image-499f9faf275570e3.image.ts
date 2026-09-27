@@ -10,4 +10,5 @@ export const image499f9faf275570e3 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

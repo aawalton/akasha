@@ -10,4 +10,5 @@ export const imageB93eda9e72f3ca12 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/warrior", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

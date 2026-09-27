@@ -10,4 +10,5 @@ export const image10303f92e8cb3247 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-raised", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

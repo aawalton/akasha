@@ -21,4 +21,5 @@ export const imageEcd59a7336267f27 = {
     "pose-tag/looking-back",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/jeans", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

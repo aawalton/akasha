@@ -9,4 +9,5 @@ export const image8219ae8568c5311c = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/coat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

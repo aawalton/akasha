@@ -25,4 +25,5 @@ export const imageCb63e1280287e54f = {
     "wardrobe-tag/high-slit",
   ],
   fantasyTags: ["fantasy-tag/historical", "fantasy-tag/medieval", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

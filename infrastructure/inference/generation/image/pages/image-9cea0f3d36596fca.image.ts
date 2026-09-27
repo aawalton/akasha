@@ -9,4 +9,5 @@ export const image9cea0f3d36596fca = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

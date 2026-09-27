@@ -11,4 +11,5 @@ export const image0430bc295931c39c = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/sheer", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

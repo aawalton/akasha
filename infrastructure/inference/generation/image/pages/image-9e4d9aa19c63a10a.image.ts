@@ -15,4 +15,5 @@ export const image9e4d9aa19c63a10a = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

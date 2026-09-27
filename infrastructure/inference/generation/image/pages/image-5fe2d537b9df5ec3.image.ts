@@ -14,4 +14,5 @@ export const image5fe2d537b9df5ec3 = {
     "pose-tag/tongue-out",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

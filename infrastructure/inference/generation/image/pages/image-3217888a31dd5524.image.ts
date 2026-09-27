@@ -15,4 +15,5 @@ export const image3217888a31dd5524 = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/home"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

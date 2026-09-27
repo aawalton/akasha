@@ -10,4 +10,5 @@ export const image19ce0f06decae787 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/desert"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

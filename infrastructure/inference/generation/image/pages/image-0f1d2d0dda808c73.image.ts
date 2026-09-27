@@ -9,4 +9,5 @@ export const image0f1d2d0dda808c73 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/shirt", "wardrobe-tag/bottomless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

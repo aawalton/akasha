@@ -10,4 +10,5 @@ export const image30571ba3450b5b1d = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub", "setting-tag/water"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

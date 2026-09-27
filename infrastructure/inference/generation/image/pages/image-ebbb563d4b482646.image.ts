@@ -20,4 +20,5 @@ export const imageEbbb563d4b482646 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

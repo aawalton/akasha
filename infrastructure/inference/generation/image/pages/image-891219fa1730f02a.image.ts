@@ -14,4 +14,5 @@ export const image891219fa1730f02a = {
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

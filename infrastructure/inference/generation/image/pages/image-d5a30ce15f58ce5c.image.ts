@@ -16,4 +16,5 @@ export const imageD5a30ce15f58ce5c = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/snow", "setting-tag/campfire"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

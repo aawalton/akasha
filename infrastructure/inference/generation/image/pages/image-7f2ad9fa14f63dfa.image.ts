@@ -10,4 +10,5 @@ export const image7f2ad9fa14f63dfa = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/pants", "wardrobe-tag/backpack"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

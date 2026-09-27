@@ -19,4 +19,5 @@ export const image0b6d88701fa83c54 = {
   settingTags: ["setting-tag/indoor", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

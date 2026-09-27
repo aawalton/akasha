@@ -15,4 +15,5 @@ export const imageE4260c622928bf95 = {
     "wardrobe-tag/bare-legs",
   ],
   fantasyTags: ["fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

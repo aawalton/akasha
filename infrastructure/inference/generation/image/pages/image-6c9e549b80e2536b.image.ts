@@ -10,4 +10,5 @@ export const image6c9e549b80e2536b = {
   settingTags: ["setting-tag/car", "setting-tag/daytime", "setting-tag/city"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/profile", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

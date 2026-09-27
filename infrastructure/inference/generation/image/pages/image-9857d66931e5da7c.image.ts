@@ -20,4 +20,5 @@ export const image9857d66931e5da7c = {
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/hologram", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

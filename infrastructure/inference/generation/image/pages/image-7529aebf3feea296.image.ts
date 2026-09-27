@@ -9,4 +9,5 @@ export const image7529aebf3feea296 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image4216cb186c7c242b = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-flowers"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/purple-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

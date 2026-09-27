@@ -9,4 +9,5 @@ export const imageE39955b521999ba3 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/daytime"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

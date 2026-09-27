@@ -20,4 +20,5 @@ export const image27c4e6cf12d7f999 = {
   settingTags: ["setting-tag/home", "setting-tag/gym", "setting-tag/plain-background"],
   poseTags: ["pose-tag/cross-legged", "pose-tag/eyes-closed", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image82868dda83c5cc4b = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/all-fours", "pose-tag/lying-on-stomach", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

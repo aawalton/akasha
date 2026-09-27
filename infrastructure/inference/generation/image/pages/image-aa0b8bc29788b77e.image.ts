@@ -19,4 +19,5 @@ export const imageAa0b8bc29788b77e = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kissing", "pose-tag/sex", "pose-tag/cowgirl", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

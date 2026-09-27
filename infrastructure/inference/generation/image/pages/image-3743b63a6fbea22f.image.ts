@@ -9,4 +9,5 @@ export const image3743b63a6fbea22f = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

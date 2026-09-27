@@ -9,4 +9,5 @@ export const image56363210752a6f47 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/ocean"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/all-fours", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

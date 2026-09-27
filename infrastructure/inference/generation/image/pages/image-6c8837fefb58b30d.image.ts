@@ -20,4 +20,5 @@ export const image6c8837fefb58b30d = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-up", "pose-tag/profile", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageB8c57f8de6977c25 = {
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/mermaid", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageF4ee4678652c28dd = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sleeping", "pose-tag/curled-up", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

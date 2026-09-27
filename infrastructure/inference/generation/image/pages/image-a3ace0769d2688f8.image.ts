@@ -19,4 +19,5 @@ export const imageA3ace0769d2688f8 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/fireplace"],
   poseTags: ["pose-tag/kneeling", "pose-tag/cowgirl", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

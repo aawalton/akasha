@@ -19,4 +19,5 @@ export const imageDc270ec75684bb5a = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

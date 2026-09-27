@@ -20,4 +20,5 @@ export const image4b9461891ab4bbf8 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bra"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/glowing", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

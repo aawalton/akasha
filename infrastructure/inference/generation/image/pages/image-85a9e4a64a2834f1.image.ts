@@ -20,4 +20,5 @@ export const image85a9e4a64a2834f1 = {
   poseTags: ["pose-tag/dancing", "pose-tag/standing", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/saree", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/mythological", "fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

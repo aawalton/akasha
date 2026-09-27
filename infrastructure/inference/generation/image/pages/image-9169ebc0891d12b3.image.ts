@@ -29,4 +29,5 @@ export const image9169ebc0891d12b3 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/shirt", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

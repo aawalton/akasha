@@ -15,4 +15,5 @@ export const image81ea9ddad8489e08 = {
   settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/jacket"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

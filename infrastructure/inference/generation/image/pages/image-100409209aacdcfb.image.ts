@@ -25,4 +25,5 @@ export const image100409209aacdcfb = {
     "wardrobe-tag/slip-dress",
     "wardrobe-tag/cleavage",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

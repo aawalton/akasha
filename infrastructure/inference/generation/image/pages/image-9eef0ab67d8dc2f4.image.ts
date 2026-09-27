@@ -10,4 +10,5 @@ export const image9eef0ab67d8dc2f4 = {
   settingTags: ["setting-tag/restaurant", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

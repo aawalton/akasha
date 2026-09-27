@@ -20,4 +20,5 @@ export const image124d44e0cd44134e = {
     "pose-tag/looking-back",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/long-sleeves", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

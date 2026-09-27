@@ -10,4 +10,5 @@ export const image9a8b37d135bffab6 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-flowers"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/purple-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

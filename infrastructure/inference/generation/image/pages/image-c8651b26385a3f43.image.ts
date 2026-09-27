@@ -19,4 +19,5 @@ export const imageC8651b26385a3f43 = {
   settingTags: ["setting-tag/museum", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

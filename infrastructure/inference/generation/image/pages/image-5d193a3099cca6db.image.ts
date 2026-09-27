@@ -15,4 +15,5 @@ export const image5d193a3099cca6db = {
   ],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/wet", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

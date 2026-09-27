@@ -11,4 +11,5 @@ export const image856419c754122b19 = {
   poseTags: ["pose-tag/looking-down", "pose-tag/hands-clasped", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

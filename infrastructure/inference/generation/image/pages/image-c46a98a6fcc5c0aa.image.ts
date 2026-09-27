@@ -19,4 +19,5 @@ export const imageC46a98a6fcc5c0aa = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/gym"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/crop-top", "wardrobe-tag/leggings"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

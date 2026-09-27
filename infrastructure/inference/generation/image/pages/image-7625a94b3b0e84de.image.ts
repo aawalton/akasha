@@ -24,4 +24,5 @@ export const image7625a94b3b0e84de = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

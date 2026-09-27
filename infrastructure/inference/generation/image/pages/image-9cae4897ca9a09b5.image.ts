@@ -14,4 +14,5 @@ export const image9cae4897ca9a09b5 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/anime", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

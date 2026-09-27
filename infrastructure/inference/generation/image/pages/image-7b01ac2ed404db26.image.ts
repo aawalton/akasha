@@ -20,4 +20,5 @@ export const image7b01ac2ed404db26 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/flower-crown"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

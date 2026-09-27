@@ -9,4 +9,5 @@ export const image79533ff020b94991 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

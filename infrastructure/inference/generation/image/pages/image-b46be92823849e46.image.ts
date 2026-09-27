@@ -19,4 +19,5 @@ export const imageB46be92823849e46 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/rain"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/sitting", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sheet", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

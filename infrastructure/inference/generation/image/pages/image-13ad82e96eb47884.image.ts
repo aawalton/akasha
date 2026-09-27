@@ -20,4 +20,5 @@ export const image13ad82e96eb47884 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/stretching", "pose-tag/reclining", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

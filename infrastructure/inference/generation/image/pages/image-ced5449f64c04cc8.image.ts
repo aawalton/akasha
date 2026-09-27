@@ -15,4 +15,5 @@ export const imageCed5449f64c04cc8 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/profile", "pose-tag/looking-down", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

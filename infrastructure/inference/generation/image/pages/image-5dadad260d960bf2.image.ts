@@ -9,4 +9,5 @@ export const image5dadad260d960bf2 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/mouth-open"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

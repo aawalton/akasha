@@ -20,4 +20,5 @@ export const imageFfaa2d60ddccc9dc = {
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-behind-head"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image0ec09c90ef0eb4db = {
   poseTags: ["pose-tag/kneeling", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

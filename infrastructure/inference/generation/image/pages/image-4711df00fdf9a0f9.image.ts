@@ -9,4 +9,5 @@ export const image4711df00fdf9a0f9 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/face-to-face", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

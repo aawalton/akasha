@@ -19,4 +19,5 @@ export const image99f59d1048c24cf1 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/daytime"],
   poseTags: ["pose-tag/reclining", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

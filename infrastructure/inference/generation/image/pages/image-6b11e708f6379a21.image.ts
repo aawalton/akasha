@@ -14,4 +14,5 @@ export const image6b11e708f6379a21 = {
   ],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

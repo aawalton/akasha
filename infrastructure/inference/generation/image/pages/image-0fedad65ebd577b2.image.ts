@@ -15,4 +15,5 @@ export const image0fedad65ebd577b2 = {
     "wardrobe-tag/boots",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

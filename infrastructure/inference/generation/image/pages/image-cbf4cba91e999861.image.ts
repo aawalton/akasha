@@ -10,4 +10,5 @@ export const imageCbf4cba91e999861 = {
   settingTags: ["setting-tag/indoor", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/jacket"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

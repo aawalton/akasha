@@ -20,4 +20,5 @@ export const image1ca9746e1592d056 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/dark-background"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

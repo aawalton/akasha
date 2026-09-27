@@ -9,4 +9,5 @@ export const imageB2849e704c6250d1 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/cloak"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

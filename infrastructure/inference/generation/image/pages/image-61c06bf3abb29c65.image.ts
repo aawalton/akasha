@@ -10,4 +10,5 @@ export const image61c06bf3abb29c65 = {
   poseTags: ["pose-tag/reclining", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/pink-hair", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

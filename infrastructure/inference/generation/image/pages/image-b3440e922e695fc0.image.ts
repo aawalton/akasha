@@ -10,4 +10,5 @@ export const imageB3440e922e695fc0 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

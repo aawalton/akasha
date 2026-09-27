@@ -19,4 +19,5 @@ export const imageBb91b7d86989f872 = {
   settingTags: ["setting-tag/rocks", "setting-tag/studio", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

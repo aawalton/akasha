@@ -15,4 +15,5 @@ export const image3585e8e0588ca9d6 = {
     "wardrobe-tag/body-paint",
   ],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

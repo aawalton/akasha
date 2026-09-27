@@ -25,4 +25,5 @@ export const imageDbb9d703b51b90af = {
     "pose-tag/looking-away",
   ],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/dress", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image53b264bf4ea02d52 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/profile", "pose-tag/smiling", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

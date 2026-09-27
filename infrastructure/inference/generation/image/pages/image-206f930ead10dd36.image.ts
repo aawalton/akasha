@@ -12,4 +12,5 @@ export const image206f930ead10dd36 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/tunic"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

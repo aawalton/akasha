@@ -15,4 +15,5 @@ export const image9d043068beb7a2e8 = {
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

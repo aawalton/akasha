@@ -10,4 +10,5 @@ export const image2e4dc0379909a8c2 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image780cd56c613927ba = {
   poseTags: ["pose-tag/sitting", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/dragon"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

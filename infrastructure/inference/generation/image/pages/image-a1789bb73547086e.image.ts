@@ -26,4 +26,5 @@ export const imageA1789bb73547086e = {
     "wardrobe-tag/off-shoulder",
   ],
   fantasyTags: ["fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

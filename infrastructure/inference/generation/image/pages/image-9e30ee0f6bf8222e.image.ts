@@ -9,4 +9,5 @@ export const image9e30ee0f6bf8222e = {
   settingTags: ["setting-tag/temple"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

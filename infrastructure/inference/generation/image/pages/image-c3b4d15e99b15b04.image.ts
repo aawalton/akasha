@@ -20,4 +20,5 @@ export const imageC3b4d15e99b15b04 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/long-sleeves", "wardrobe-tag/jacket"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

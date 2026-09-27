@@ -19,4 +19,5 @@ export const imageCb127eee97890e6b = {
     "wardrobe-tag/bare-shoulders",
   ],
   fantasyTags: ["fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

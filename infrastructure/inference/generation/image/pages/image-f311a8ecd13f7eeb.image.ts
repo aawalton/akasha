@@ -15,4 +15,5 @@ export const imageF311a8ecd13f7eeb = {
   settingTags: ["setting-tag/studio", "setting-tag/art-studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

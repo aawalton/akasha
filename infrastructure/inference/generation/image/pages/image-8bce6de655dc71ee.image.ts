@@ -9,4 +9,5 @@ export const image8bce6de655dc71ee = {
   settingTags: ["setting-tag/hotel", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

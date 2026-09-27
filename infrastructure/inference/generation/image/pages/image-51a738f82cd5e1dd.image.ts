@@ -20,4 +20,5 @@ export const image51a738f82cd5e1dd = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/spa"],
   poseTags: ["pose-tag/sitting", "pose-tag/face-to-face", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

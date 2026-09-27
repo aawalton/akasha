@@ -20,4 +20,5 @@ export const imageE2ae1e94ca1e5fa3 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/robe"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const imageDc12dfb9c2007064 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

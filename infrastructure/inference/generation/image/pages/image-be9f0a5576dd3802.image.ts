@@ -10,4 +10,5 @@ export const imageBe9f0a5576dd3802 = {
   poseTags: ["pose-tag/standing", "pose-tag/hand-in-hair", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

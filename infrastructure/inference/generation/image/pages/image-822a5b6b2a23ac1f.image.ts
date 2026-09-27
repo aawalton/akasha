@@ -15,4 +15,5 @@ export const image822a5b6b2a23ac1f = {
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

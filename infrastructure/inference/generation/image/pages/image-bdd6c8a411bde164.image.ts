@@ -19,4 +19,5 @@ export const imageBdd6c8a411bde164 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/squatting", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

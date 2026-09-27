@@ -20,4 +20,5 @@ export const imageA730b5b03b8b5cb7 = {
   poseTags: ["pose-tag/kissing", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

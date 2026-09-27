@@ -10,4 +10,5 @@ export const image2cbeb75e45264bcb = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/halter-top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -30,4 +30,5 @@ export const imageC5649c5e3a65c249 = {
     "wardrobe-tag/hair-accessory",
   ],
   fantasyTags: ["fantasy-tag/pink-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

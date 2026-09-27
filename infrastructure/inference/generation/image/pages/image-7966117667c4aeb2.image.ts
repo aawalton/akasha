@@ -9,4 +9,5 @@ export const image7966117667c4aeb2 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const imageD4a655e2989d79a5 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/floating"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
   fantasyTags: ["fantasy-tag/cosmic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

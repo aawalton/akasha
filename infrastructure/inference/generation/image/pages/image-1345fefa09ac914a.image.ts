@@ -20,4 +20,5 @@ export const image1345fefa09ac914a = {
   settingTags: ["setting-tag/bathroom", "setting-tag/shower", "setting-tag/indoor"],
   poseTags: ["pose-tag/back-view", "pose-tag/profile", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

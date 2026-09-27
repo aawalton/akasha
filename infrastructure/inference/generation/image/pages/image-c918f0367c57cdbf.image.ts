@@ -16,4 +16,5 @@ export const imageC918f0367c57cdbf = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

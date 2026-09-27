@@ -22,4 +22,5 @@ export const imageAc3c1734ffd19107 = {
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

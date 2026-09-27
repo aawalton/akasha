@@ -9,4 +9,5 @@ export const image8477f6c36605b345 = {
   settingTags: ["setting-tag/cafe", "setting-tag/kitchen", "setting-tag/workshop"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

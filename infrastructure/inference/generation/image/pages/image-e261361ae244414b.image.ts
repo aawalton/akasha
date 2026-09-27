@@ -9,4 +9,5 @@ export const imageE261361ae244414b = {
   settingTags: ["setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/bare-shoulders", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

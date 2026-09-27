@@ -20,4 +20,5 @@ export const image33664c24539d03bd = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/eating", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

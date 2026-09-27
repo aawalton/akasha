@@ -10,4 +10,5 @@ export const imageF73f762522f279ae = {
   settingTags: ["setting-tag/office", "setting-tag/indoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/camisole"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

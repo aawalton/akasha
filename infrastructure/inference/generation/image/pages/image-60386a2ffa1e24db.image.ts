@@ -26,4 +26,5 @@ export const image60386a2ffa1e24db = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

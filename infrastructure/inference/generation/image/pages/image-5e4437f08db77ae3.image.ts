@@ -19,4 +19,5 @@ export const image5e4437f08db77ae3 = {
   settingTags: ["setting-tag/garden", "setting-tag/outdoor", "setting-tag/greenhouse"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-drink", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/pants", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

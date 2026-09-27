@@ -9,4 +9,5 @@ export const image200f84842ab77954 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/off-shoulder", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

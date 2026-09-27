@@ -10,4 +10,5 @@ export const image6317acc07ea9e206 = {
   settingTags: ["setting-tag/indoor", "setting-tag/tatami-room", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/robe", "wardrobe-tag/cleavage"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

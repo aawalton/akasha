@@ -15,4 +15,5 @@ export const imageE577f3abdd9ef819 = {
   ],
   poseTags: ["pose-tag/profile", "pose-tag/looking-down", "pose-tag/sitting", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageD8fc9245652503ea = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/kissing", "pose-tag/close-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

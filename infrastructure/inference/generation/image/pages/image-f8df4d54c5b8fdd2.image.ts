@@ -24,4 +24,5 @@ export const imageF8df4d54c5b8fdd2 = {
     "wardrobe-tag/flower-crown",
   ],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

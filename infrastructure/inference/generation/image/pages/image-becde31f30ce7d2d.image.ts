@@ -14,4 +14,5 @@ export const imageBecde31f30ce7d2d = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

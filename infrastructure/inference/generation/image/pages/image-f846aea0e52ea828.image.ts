@@ -10,4 +10,5 @@ export const imageF846aea0e52ea828 = {
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/legs-crossed"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer-dress"],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

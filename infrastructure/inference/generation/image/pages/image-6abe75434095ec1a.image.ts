@@ -19,4 +19,5 @@ export const image6abe75434095ec1a = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/home"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/belt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

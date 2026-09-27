@@ -15,4 +15,5 @@ export const imageAd1c2549628039ad = {
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cosmic", "fantasy-tag/superhero"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

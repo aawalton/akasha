@@ -11,4 +11,5 @@ export const imageEf18a150bca952c0 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-clothing", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

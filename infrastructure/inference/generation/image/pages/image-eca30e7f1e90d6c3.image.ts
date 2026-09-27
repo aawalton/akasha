@@ -19,4 +19,5 @@ export const imageEca30e7f1e90d6c3 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bra", "wardrobe-tag/panties", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

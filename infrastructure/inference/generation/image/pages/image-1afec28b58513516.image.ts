@@ -10,4 +10,5 @@ export const image1afec28b58513516 = {
   settingTags: ["setting-tag/desert", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageEe992bbccb2b7022 = {
   settingTags: ["setting-tag/stage", "setting-tag/dark-background"],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/tights"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

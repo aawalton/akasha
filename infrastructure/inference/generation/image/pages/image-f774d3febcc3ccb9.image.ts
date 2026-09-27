@@ -9,4 +9,5 @@ export const imageF774d3febcc3ccb9 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/forest"],
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

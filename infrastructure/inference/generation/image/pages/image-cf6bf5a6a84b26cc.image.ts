@@ -19,4 +19,5 @@ export const imageCf6bf5a6a84b26cc = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/sleepwear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image5311bbde81d306fb = {
   settingTags: ["setting-tag/outdoor", "setting-tag/beach", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

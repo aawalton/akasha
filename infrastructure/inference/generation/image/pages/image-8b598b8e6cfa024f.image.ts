@@ -10,4 +10,5 @@ export const image8b598b8e6cfa024f = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/robe", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

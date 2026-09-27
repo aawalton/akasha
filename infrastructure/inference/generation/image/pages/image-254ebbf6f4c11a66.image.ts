@@ -9,4 +9,5 @@ export const image254ebbf6f4c11a66 = {
   settingTags: ["setting-tag/beach", "setting-tag/night", "setting-tag/ocean", "setting-tag/water"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

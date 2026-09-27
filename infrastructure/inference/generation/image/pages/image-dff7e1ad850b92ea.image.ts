@@ -21,4 +21,5 @@ export const imageDff7e1ad850b92ea = {
   poseTags: ["pose-tag/floating", "pose-tag/jumping", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

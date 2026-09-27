@@ -15,4 +15,5 @@ export const image63b0635c86ea28f0 = {
   settingTags: ["setting-tag/living-room", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/sitting", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

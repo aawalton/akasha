@@ -9,4 +9,5 @@ export const image8c5a13b4f459f72e = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/cave"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

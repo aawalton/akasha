@@ -20,4 +20,5 @@ export const image87db7c6aad890821 = {
   settingTags: ["setting-tag/beach", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

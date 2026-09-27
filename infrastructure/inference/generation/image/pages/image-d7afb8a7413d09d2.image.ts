@@ -9,4 +9,5 @@ export const imageD7afb8a7413d09d2 = {
   settingTags: ["setting-tag/lake", "setting-tag/water", "setting-tag/outdoor", "setting-tag/fog"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

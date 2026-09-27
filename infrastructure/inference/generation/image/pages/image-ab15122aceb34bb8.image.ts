@@ -21,4 +21,5 @@ export const imageAb15122aceb34bb8 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/holding-lantern"],
   wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/unusual-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

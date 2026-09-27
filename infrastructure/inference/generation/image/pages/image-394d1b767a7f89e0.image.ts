@@ -9,4 +9,5 @@ export const image394d1b767a7f89e0 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/sky"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

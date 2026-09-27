@@ -15,4 +15,5 @@ export const image80f8a9249be97f79 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/off-shoulder", "wardrobe-tag/sleepwear"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

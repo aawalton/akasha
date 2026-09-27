@@ -22,4 +22,5 @@ export const image829c088b374f2ee3 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/glasses"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

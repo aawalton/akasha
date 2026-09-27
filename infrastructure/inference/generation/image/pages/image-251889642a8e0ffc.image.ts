@@ -20,4 +20,5 @@ export const image251889642a8e0ffc = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/witch-hat"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/fire", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

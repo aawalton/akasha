@@ -20,4 +20,5 @@ export const imageF0789844829f0c75 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/sleeping", "pose-tag/curled-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

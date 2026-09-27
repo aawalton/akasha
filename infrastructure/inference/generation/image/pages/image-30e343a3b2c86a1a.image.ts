@@ -19,4 +19,5 @@ export const image30e343a3b2c86a1a = {
   settingTags: ["setting-tag/living-room", "setting-tag/home", "setting-tag/indoor"],
   poseTags: ["pose-tag/all-fours"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

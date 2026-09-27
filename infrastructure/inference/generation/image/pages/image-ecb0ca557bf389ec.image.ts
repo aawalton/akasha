@@ -9,4 +9,5 @@ export const imageEcb0ca557bf389ec = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

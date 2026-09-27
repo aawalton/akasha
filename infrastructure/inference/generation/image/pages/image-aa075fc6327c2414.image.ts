@@ -9,4 +9,5 @@ export const imageAa075fc6327c2414 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-away", "pose-tag/looking-in-mirror"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

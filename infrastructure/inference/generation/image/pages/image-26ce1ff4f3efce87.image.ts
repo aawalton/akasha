@@ -9,4 +9,5 @@ export const image26ce1ff4f3efce87 = {
   settingTags: ["setting-tag/workshop", "setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/skirt", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

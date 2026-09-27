@@ -25,4 +25,5 @@ export const image3352536cc45705cc = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/holding-umbrella", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

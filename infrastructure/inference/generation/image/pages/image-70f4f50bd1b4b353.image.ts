@@ -20,4 +20,5 @@ export const image70f4f50bd1b4b353 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/deep-v-neck", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

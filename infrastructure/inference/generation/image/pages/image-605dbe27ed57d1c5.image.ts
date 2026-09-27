@@ -14,4 +14,5 @@ export const image605dbe27ed57d1c5 = {
   ],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-away", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

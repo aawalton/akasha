@@ -10,4 +10,5 @@ export const image1d6c35b17369a195 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/lingerie", "wardrobe-tag/slip-dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

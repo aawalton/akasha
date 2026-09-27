@@ -16,4 +16,5 @@ export const imageC9c515d0e9f57608 = {
   settingTags: ["setting-tag/market", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

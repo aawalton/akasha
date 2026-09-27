@@ -10,4 +10,5 @@ export const imageE45496d83d8a78bc = {
   poseTags: ["pose-tag/floating", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

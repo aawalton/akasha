@@ -10,4 +10,5 @@ export const image1d953c33884fd41a = {
   settingTags: ["setting-tag/indoor", "setting-tag/balcony", "setting-tag/window"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

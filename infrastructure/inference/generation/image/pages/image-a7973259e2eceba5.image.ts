@@ -18,4 +18,5 @@ export const imageA7973259e2eceba5 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/bunny-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

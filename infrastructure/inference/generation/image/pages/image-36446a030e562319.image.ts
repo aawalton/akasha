@@ -10,4 +10,5 @@ export const image36446a030e562319 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/all-fours", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

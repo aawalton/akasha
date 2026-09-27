@@ -20,4 +20,5 @@ export const image33021bdc0fb29f2f = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/glowing-eyes", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

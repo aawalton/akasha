@@ -20,4 +20,5 @@ export const imageDc53e6873a888587 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-away", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

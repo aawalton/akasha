@@ -11,4 +11,5 @@ export const imageAa0f2623d663df8c = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

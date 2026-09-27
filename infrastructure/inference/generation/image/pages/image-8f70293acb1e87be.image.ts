@@ -26,4 +26,5 @@ export const image8f70293acb1e87be = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image9638981433a4c0ca = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/boots", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageB5ccbd04c425fc4a = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/garden"],
   poseTags: ["pose-tag/embracing", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

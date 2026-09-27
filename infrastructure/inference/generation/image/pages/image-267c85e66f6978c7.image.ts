@@ -15,4 +15,5 @@ export const image267c85e66f6978c7 = {
     "pose-tag/full-body",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

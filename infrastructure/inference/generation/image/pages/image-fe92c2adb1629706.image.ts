@@ -9,4 +9,5 @@ export const imageFe92c2adb1629706 = {
   settingTags: ["setting-tag/underwater", "setting-tag/dark-background", "setting-tag/nature"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

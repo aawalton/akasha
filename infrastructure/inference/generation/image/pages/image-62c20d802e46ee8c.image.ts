@@ -10,4 +10,5 @@ export const image62c20d802e46ee8c = {
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/dragon-horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

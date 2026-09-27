@@ -10,4 +10,5 @@ export const image91fb936589b486aa = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/mini-dress", "wardrobe-tag/hat"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

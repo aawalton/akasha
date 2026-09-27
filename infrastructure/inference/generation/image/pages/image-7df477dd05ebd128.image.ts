@@ -10,4 +10,5 @@ export const image7df477dd05ebd128 = {
   poseTags: ["pose-tag/sitting", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/naga", "fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

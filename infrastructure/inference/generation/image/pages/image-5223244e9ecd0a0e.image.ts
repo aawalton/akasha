@@ -10,4 +10,5 @@ export const image5223244e9ecd0a0e = {
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

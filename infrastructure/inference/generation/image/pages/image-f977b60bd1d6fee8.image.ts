@@ -21,4 +21,5 @@ export const imageF977b60bd1d6fee8 = {
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/corset", "wardrobe-tag/tiara"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/fairy-tale"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

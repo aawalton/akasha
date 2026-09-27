@@ -11,4 +11,5 @@ export const imageCd70887a6b099a57 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/eating"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/shirt", "wardrobe-tag/pants"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

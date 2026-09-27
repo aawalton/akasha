@@ -19,4 +19,5 @@ export const image948f56b838322fb9 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

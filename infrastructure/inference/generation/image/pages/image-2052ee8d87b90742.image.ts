@@ -9,4 +9,5 @@ export const image2052ee8d87b90742 = {
   settingTags: ["setting-tag/workshop", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

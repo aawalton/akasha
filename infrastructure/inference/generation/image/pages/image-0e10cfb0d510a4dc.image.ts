@@ -10,4 +10,5 @@ export const image0e10cfb0d510a4dc = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/hotel"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

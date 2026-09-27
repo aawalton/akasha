@@ -20,4 +20,5 @@ export const image26aa1caadda77dc2 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/android", "fantasy-tag/bioluminescence"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

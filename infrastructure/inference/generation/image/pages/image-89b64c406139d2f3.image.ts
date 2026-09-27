@@ -19,4 +19,5 @@ export const image89b64c406139d2f3 = {
   settingTags: ["setting-tag/indoor", "setting-tag/study", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/strapless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

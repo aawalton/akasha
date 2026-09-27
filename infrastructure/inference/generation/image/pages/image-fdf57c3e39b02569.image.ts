@@ -20,4 +20,5 @@ export const imageFdf57c3e39b02569 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/jungle"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

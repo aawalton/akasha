@@ -10,4 +10,5 @@ export const imageCc3f3be6fe843ee1 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/unusual-eyes"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

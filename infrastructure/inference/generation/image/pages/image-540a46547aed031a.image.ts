@@ -24,4 +24,5 @@ export const image540a46547aed031a = {
     "pose-tag/knees-up",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

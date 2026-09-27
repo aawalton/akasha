@@ -14,4 +14,5 @@ export const imageC1c455e374ce026f = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/corset", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/horns", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

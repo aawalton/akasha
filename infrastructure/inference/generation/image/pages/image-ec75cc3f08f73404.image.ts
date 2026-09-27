@@ -16,4 +16,5 @@ export const imageEc75cc3f08f73404 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/holding-lantern", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/spaghetti-straps", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

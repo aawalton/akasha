@@ -20,4 +20,5 @@ export const image6e5189faf59d3675 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

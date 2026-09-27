@@ -29,4 +29,5 @@ export const imageFe7931901c6f5aea = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

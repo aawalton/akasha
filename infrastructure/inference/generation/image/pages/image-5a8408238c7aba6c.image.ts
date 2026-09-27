@@ -10,4 +10,5 @@ export const image5a8408238c7aba6c = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

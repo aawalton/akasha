@@ -19,4 +19,5 @@ export const imageDc3ff181a2ec3323 = {
     "pose-tag/back-view",
   ],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/silk", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

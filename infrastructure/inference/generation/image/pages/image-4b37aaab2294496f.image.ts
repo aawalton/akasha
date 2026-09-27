@@ -25,4 +25,5 @@ export const image4b37aaab2294496f = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/hat", "wardrobe-tag/coat", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -12,4 +12,5 @@ export const image0a0dad7813cd2561 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/tiara", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

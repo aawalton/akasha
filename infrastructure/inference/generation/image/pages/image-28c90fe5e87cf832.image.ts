@@ -20,4 +20,5 @@ export const image28c90fe5e87cf832 = {
   settingTags: ["setting-tag/indoor", "setting-tag/living-room", "setting-tag/library"],
   poseTags: ["pose-tag/sitting", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

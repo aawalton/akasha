@@ -21,4 +21,5 @@ export const image9450c7d9d8e3d9c6 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

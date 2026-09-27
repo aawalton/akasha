@@ -20,4 +20,5 @@ export const image93efb4627da7aa56 = {
   settingTags: ["setting-tag/cafe", "setting-tag/restaurant", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

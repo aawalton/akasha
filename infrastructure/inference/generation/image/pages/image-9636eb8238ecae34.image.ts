@@ -10,4 +10,5 @@ export const image9636eb8238ecae34 = {
   poseTags: ["pose-tag/floating", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

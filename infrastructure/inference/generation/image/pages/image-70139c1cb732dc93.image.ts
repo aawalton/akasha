@@ -10,4 +10,5 @@ export const image70139c1cb732dc93 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

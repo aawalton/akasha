@@ -16,4 +16,5 @@ export const imageA33eb1bddcdca52f = {
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

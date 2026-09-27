@@ -21,4 +21,5 @@ export const image00055303f1d162b4 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/back-view", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/backless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

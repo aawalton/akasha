@@ -16,4 +16,5 @@ export const imageE0f2512734f4a5c6 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bathroom", "setting-tag/pool"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

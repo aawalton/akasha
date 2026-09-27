@@ -16,4 +16,5 @@ export const image3478eb2d47f7d8bb = {
   settingTags: ["setting-tag/kitchen", "setting-tag/cafe", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/apron", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

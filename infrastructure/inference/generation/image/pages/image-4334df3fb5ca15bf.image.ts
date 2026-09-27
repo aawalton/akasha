@@ -20,4 +20,5 @@ export const image4334df3fb5ca15bf = {
   settingTags: ["setting-tag/shower", "setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

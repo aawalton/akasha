@@ -11,4 +11,5 @@ export const imageE224bfc35fffc3d8 = {
   poseTags: ["pose-tag/sitting", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/lingerie", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

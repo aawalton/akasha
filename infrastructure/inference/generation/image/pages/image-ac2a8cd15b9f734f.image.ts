@@ -10,4 +10,5 @@ export const imageAc2a8cd15b9f734f = {
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-skin"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

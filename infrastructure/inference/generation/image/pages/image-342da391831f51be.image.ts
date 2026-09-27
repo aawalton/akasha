@@ -20,4 +20,5 @@ export const image342da391831f51be = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/camisole"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image24e1642a6d1b6ba8 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

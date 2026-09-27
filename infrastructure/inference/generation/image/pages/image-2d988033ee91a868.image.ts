@@ -11,4 +11,5 @@ export const image2d988033ee91a868 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/jungle"],
   poseTags: ["pose-tag/reclining", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image0392e25425221f3a = {
   settingTags: ["setting-tag/library", "setting-tag/bedroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/leaning-forward", "pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/lingerie", "wardrobe-tag/garter-belt"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

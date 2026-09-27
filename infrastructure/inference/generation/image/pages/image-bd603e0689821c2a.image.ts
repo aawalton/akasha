@@ -21,4 +21,5 @@ export const imageBd603e0689821c2a = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/hat", "wardrobe-tag/silk"],
   fantasyTags: ["fantasy-tag/witch"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

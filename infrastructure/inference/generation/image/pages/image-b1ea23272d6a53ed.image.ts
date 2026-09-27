@@ -17,4 +17,5 @@ export const imageB1ea23272d6a53ed = {
   poseTags: ["pose-tag/sitting", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

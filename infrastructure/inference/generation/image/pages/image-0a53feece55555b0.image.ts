@@ -9,4 +9,5 @@ export const image0a53feece55555b0 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/rocks"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

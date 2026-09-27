@@ -19,4 +19,5 @@ export const imageFfc793fffc251962 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-back", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

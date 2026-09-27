@@ -25,4 +25,5 @@ export const image6f826406872d21fb = {
     "pose-tag/arms-raised",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

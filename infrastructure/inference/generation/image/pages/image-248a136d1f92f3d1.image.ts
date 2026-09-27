@@ -17,4 +17,5 @@ export const image248a136d1f92f3d1 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

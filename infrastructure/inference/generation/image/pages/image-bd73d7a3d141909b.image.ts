@@ -20,4 +20,5 @@ export const imageBd73d7a3d141909b = {
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/bioluminescence"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

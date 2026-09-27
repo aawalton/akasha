@@ -20,4 +20,5 @@ export const image783473eaf819ba66 = {
   settingTags: ["setting-tag/indoor", "setting-tag/office", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageCdb8dbdd1ca08499 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/dress", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

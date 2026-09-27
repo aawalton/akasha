@@ -15,4 +15,5 @@ export const imageEfdbc7564786fe1b = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/deep-v-neck"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

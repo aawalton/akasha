@@ -11,4 +11,5 @@ export const image6c3c321e958b87f2 = {
   poseTags: ["pose-tag/looking-down", "pose-tag/standing", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/sheer", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

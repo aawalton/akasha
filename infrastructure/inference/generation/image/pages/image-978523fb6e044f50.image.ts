@@ -21,4 +21,5 @@ export const image978523fb6e044f50 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin", "fantasy-tag/red-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

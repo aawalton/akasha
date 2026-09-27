@@ -14,4 +14,5 @@ export const imageCec6031bef9f3f6f = {
     "pose-tag/eyes-closed",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

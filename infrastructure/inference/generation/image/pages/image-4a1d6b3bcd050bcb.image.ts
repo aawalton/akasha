@@ -10,4 +10,5 @@ export const image4a1d6b3bcd050bcb = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

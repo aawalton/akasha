@@ -25,4 +25,5 @@ export const imageF90630146ae65c19 = {
     "wardrobe-tag/barefoot",
   ],
   fantasyTags: ["fantasy-tag/fairy"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

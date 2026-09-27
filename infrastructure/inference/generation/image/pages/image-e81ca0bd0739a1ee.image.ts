@@ -20,4 +20,5 @@ export const imageE81ca0bd0739a1ee = {
   settingTags: ["setting-tag/outdoor", "setting-tag/car"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shorts", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

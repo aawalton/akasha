@@ -19,4 +19,5 @@ export const image58de75dd58b90b9c = {
   settingTags: ["setting-tag/indoor", "setting-tag/living-room", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image45c10ada409529c8 = {
   poseTags: ["pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/lingerie", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing-eyes", "fantasy-tag/wings"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

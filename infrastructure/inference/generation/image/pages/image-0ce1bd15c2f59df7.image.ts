@@ -9,4 +9,5 @@ export const image0ce1bd15c2f59df7 = {
   settingTags: ["setting-tag/car", "setting-tag/rain"],
   poseTags: ["pose-tag/selfie", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/nipples-visible"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const imageC4d9d2f3552ea7d5 = {
     "wardrobe-tag/puffed-sleeves",
   ],
   fantasyTags: ["fantasy-tag/historical", "fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

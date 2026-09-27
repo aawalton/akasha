@@ -16,4 +16,5 @@ export const imageFbd2d3cd905495ab = {
   settingTags: ["setting-tag/outdoor", "setting-tag/town", "setting-tag/city"],
   poseTags: ["pose-tag/walking", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

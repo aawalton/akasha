@@ -19,4 +19,5 @@ export const imageFb1b854cd739d439 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/temple"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/cloak"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

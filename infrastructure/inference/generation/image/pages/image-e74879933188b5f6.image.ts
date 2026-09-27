@@ -19,4 +19,5 @@ export const imageE74879933188b5f6 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
 } as const satisfies Image

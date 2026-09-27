@@ -10,4 +10,5 @@ export const imageD40745223947afc8 = {
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fire"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

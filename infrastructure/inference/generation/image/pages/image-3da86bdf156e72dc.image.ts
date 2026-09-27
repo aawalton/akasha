@@ -10,4 +10,5 @@ export const image3da86bdf156e72dc = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/lingerie", "wardrobe-tag/bra"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

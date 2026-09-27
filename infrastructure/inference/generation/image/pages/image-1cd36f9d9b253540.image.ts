@@ -16,4 +16,5 @@ export const image1cd36f9d9b253540 = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/cafe", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

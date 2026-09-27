@@ -31,4 +31,5 @@ export const imageB4efdc51263d6c90 = {
     "wardrobe-tag/bikini",
     "wardrobe-tag/sunglasses",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

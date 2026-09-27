@@ -26,4 +26,5 @@ export const image904f7c0827123d26 = {
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/bioluminescence"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

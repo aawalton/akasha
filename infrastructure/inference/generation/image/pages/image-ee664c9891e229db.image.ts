@@ -9,4 +9,5 @@ export const imageEe664c9891e229db = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/choker"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

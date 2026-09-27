@@ -10,4 +10,5 @@ export const image4ef114d48f4d43c3 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/scales"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

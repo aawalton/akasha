@@ -25,4 +25,5 @@ export const image65db7edf43577153 = {
     "pose-tag/looking-away",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

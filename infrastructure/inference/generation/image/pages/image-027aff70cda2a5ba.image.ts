@@ -15,4 +15,5 @@ export const image027aff70cda2a5ba = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/leggings", "wardrobe-tag/loungewear"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

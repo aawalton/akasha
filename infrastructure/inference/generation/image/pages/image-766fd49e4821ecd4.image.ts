@@ -20,4 +20,5 @@ export const image766fd49e4821ecd4 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/cherry-blossoms"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/kimono"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

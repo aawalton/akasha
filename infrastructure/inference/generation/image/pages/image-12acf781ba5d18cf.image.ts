@@ -11,4 +11,5 @@ export const image12acf781ba5d18cf = {
   poseTags: ["pose-tag/lying-down", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

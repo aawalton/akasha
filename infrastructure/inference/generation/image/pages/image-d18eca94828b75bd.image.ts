@@ -10,4 +10,5 @@ export const imageD18eca94828b75bd = {
   settingTags: ["setting-tag/castle", "setting-tag/indoor", "setting-tag/luxury"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

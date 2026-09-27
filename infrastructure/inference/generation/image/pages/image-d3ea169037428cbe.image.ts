@@ -25,4 +25,5 @@ export const imageD3ea169037428cbe = {
     "pose-tag/back-view",
   ],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image3acd63fac3a1eaf7 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/tent"],
   poseTags: ["pose-tag/cross-legged", "pose-tag/eating", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

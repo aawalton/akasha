@@ -10,4 +10,5 @@ export const imageEda2ebce20bf4040 = {
   poseTags: ["pose-tag/cross-legged", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/top", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

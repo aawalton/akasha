@@ -20,4 +20,5 @@ export const image098bf8f8beb60edf = {
   ],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/skirt", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

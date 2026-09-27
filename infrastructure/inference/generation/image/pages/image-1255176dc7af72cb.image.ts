@@ -9,4 +9,5 @@ export const image1255176dc7af72cb = {
   settingTags: ["setting-tag/pool", "setting-tag/spa", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

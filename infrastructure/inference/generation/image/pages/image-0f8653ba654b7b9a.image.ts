@@ -10,4 +10,5 @@ export const image0f8653ba654b7b9a = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress", "wardrobe-tag/stockings"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/weapons", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

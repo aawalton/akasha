@@ -9,4 +9,5 @@ export const image28bc28a2a4f1042d = {
   settingTags: ["setting-tag/workshop"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageEc22df6d8c386859 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

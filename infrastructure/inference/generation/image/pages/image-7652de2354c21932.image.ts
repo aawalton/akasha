@@ -20,4 +20,5 @@ export const image7652de2354c21932 = {
   settingTags: ["setting-tag/balcony", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

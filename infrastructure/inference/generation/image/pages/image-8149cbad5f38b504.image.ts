@@ -9,4 +9,5 @@ export const image8149cbad5f38b504 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

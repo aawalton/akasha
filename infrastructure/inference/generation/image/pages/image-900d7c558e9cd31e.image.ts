@@ -9,4 +9,5 @@ export const image900d7c558e9cd31e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/serious-expression"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

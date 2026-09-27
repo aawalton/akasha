@@ -9,4 +9,5 @@ export const image3d3da11664e807c8 = {
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/laughing", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

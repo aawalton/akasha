@@ -9,4 +9,5 @@ export const imageDe7ce0018604af1e = {
   settingTags: ["setting-tag/sky", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/back-view", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/backless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

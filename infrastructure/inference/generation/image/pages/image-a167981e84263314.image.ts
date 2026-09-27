@@ -19,4 +19,5 @@ export const imageA167981e84263314 = {
   settingTags: ["setting-tag/sports-field", "setting-tag/outdoor", "setting-tag/field"],
   poseTags: ["pose-tag/squatting"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image5c215700f1d8f917 = {
     "pose-tag/smiling",
     "pose-tag/head-tilt",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

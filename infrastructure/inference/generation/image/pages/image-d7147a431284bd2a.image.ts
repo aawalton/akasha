@@ -20,4 +20,5 @@ export const imageD7147a431284bd2a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/reading", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lace", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

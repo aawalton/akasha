@@ -10,4 +10,5 @@ export const image091260504eb3da49 = {
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/bare-midriff"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image3c6296a1b710dc59 = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin", "fantasy-tag/red-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image3533ccae932dbcd2 = {
     "wardrobe-tag/body-paint",
   ],
   fantasyTags: ["fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

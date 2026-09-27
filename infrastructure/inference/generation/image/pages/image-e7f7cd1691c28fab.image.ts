@@ -20,4 +20,5 @@ export const imageE7f7cd1691c28fab = {
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

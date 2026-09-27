@@ -10,4 +10,5 @@ export const imageAd8231a75d1c20d9 = {
   poseTags: ["pose-tag/straddling", "pose-tag/cowgirl", "pose-tag/kneeling", "pose-tag/tongue-out"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

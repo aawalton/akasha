@@ -11,4 +11,5 @@ export const imageEb3d69da2680af4d = {
   settingTags: ["setting-tag/garden", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

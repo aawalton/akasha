@@ -9,4 +9,5 @@ export const image6def480ea189c940 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/campfire"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

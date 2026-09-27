@@ -20,4 +20,5 @@ export const imageD10b451fe8a84cb8 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/greenhouse"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/deep-v-neck", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageAd177041daed7b6a = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/night", "setting-tag/water"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

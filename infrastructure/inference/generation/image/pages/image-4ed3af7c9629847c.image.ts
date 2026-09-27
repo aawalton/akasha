@@ -11,4 +11,5 @@ export const image4ed3af7c9629847c = {
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy", "fantasy-tag/pink-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

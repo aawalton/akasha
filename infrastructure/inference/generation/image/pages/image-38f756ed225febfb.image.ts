@@ -22,4 +22,5 @@ export const image38f756ed225febfb = {
   poseTags: ["pose-tag/sitting", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

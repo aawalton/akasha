@@ -9,4 +9,5 @@ export const imageF60422c3dfcd4c53 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const imageF24d5efc58febd6a = {
   ],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

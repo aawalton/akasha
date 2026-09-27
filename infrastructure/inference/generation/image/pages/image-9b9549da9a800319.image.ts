@@ -19,4 +19,5 @@ export const image9b9549da9a800319 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/slip-dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

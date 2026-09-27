@@ -15,4 +15,5 @@ export const imageB18d05e7aa0b1c07 = {
     "wardrobe-tag/off-shoulder",
   ],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

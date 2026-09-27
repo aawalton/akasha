@@ -19,4 +19,5 @@ export const image4c40d233df0798e6 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/snow"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/curled-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/hat", "wardrobe-tag/scarf"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

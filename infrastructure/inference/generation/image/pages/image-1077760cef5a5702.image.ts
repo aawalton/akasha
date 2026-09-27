@@ -10,4 +10,5 @@ export const image1077760cef5a5702 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/off-shoulder", "wardrobe-tag/glasses"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

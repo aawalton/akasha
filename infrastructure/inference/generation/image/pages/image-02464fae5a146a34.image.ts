@@ -21,4 +21,5 @@ export const image02464fae5a146a34 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/hands-clasped", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/cosplay", "fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

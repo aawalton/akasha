@@ -29,4 +29,5 @@ export const imageB90d34fe1385be83 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

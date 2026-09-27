@@ -10,4 +10,5 @@ export const image9703c5a0e1223fc1 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden"],
   poseTags: ["pose-tag/leaning", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

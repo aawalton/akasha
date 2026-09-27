@@ -20,4 +20,5 @@ export const image8c2a94d5361329dc = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/beach"],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

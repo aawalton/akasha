@@ -20,4 +20,5 @@ export const image1bc7cae7a2f581bb = {
   poseTags: ["pose-tag/kissing", "pose-tag/face-to-face", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/ethereal", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

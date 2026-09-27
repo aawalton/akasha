@@ -20,4 +20,5 @@ export const imageB124e12fa648a943 = {
   settingTags: ["setting-tag/indoor", "setting-tag/art-studio", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/puffed-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

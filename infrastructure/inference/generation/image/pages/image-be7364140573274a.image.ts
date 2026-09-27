@@ -10,4 +10,5 @@ export const imageBe7364140573274a = {
   poseTags: ["pose-tag/front-view", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/bioluminescence", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

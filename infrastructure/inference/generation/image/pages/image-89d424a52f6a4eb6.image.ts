@@ -15,4 +15,5 @@ export const image89d424a52f6a4eb6 = {
   ],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/sitting", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

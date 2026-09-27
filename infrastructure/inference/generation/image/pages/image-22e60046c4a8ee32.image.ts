@@ -20,4 +20,5 @@ export const image22e60046c4a8ee32 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/sleepwear", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/red-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

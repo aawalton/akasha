@@ -20,4 +20,5 @@ export const image4b626924438c0388 = {
   settingTags: ["setting-tag/beach", "setting-tag/ocean", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

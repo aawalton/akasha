@@ -20,4 +20,5 @@ export const image34a280d7e117b976 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/nature"],
   poseTags: ["pose-tag/running", "pose-tag/walking", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

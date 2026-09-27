@@ -10,4 +10,5 @@ export const image86fe67e6afed9daf = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/skirt", "wardrobe-tag/topless", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

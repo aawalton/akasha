@@ -16,4 +16,5 @@ export const image931a391f2eb617e8 = {
     "wardrobe-tag/writing-on-skin",
   ],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

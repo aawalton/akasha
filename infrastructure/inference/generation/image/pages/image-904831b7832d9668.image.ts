@@ -25,4 +25,5 @@ export const image904831b7832d9668 = {
     "pose-tag/hands-clasped",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageCef45e38cc8ee446 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

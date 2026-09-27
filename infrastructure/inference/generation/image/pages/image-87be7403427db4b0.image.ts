@@ -10,4 +10,5 @@ export const image87be7403427db4b0 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-up", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/ethereal", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

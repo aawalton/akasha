@@ -10,4 +10,5 @@ export const image62489cfc6d24cfa1 = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/monster-girl"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

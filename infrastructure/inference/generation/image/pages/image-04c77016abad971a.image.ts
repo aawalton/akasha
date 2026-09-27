@@ -14,4 +14,5 @@ export const image04c77016abad971a = {
     "pose-tag/leaning-forward",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

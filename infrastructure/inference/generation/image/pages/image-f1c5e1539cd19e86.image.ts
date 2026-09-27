@@ -10,4 +10,5 @@ export const imageF1c5e1539cd19e86 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/pants-down", "wardrobe-tag/hoodie"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

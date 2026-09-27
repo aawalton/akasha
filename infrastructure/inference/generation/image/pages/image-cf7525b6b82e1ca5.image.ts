@@ -25,4 +25,5 @@ export const imageCf7525b6b82e1ca5 = {
     "wardrobe-tag/jewelry",
     "wardrobe-tag/hair-accessory",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

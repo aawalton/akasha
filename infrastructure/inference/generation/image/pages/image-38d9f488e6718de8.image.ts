@@ -14,4 +14,5 @@ export const image38d9f488e6718de8 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/walking"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

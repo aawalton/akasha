@@ -11,4 +11,5 @@ export const image875ddb4c1022b154 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/camisole", "wardrobe-tag/slip-dress"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

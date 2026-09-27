@@ -10,4 +10,5 @@ export const image0ab86c3bd7aac23c = {
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/purple-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

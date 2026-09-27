@@ -30,4 +30,5 @@ export const image3a8e949290224f1e = {
     "wardrobe-tag/cleavage",
   ],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/demon", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

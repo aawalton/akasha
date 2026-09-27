@@ -9,4 +9,5 @@ export const imageD8bc1fc0cd8dad61 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/cowgirl", "pose-tag/sex", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

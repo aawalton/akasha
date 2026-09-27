@@ -22,4 +22,5 @@ export const imageA557c64ae6a699ee = {
     "wardrobe-tag/partial-undress",
   ],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

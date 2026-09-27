@@ -20,4 +20,5 @@ export const image1ac9af3d74ca2387 = {
   ],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

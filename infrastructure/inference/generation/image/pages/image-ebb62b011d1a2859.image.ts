@@ -9,4 +9,5 @@ export const imageEbb62b011d1a2859 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

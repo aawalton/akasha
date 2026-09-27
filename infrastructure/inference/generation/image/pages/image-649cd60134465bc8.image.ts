@@ -9,4 +9,5 @@ export const image649cd60134465bc8 = {
   settingTags: ["setting-tag/studio", "setting-tag/fog", "setting-tag/dark-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

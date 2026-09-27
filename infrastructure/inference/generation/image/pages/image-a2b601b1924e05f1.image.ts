@@ -9,4 +9,5 @@ export const imageA2b601b1924e05f1 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/canyon", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

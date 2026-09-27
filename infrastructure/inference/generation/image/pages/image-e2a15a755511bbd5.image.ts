@@ -25,4 +25,5 @@ export const imageE2a15a755511bbd5 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/laughing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

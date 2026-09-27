@@ -14,4 +14,5 @@ export const imageE964ab65ed5cbfef = {
     "pose-tag/arms-crossed",
   ],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/dress", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

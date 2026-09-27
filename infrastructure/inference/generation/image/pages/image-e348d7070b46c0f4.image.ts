@@ -19,4 +19,5 @@ export const imageE348d7070b46c0f4 = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/tube-top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

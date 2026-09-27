@@ -21,4 +21,5 @@ export const image8981ad97521c59eb = {
   poseTags: ["pose-tag/looking-back", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/backless", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

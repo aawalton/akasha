@@ -17,4 +17,5 @@ export const image241d01660a1b1136 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

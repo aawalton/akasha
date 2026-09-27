@@ -9,4 +9,5 @@ export const imageAaefd6e58d40f1eb = {
   settingTags: ["setting-tag/dark-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

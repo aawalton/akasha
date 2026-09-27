@@ -9,4 +9,5 @@ export const image846e7dc23e6affcb = {
   settingTags: ["setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

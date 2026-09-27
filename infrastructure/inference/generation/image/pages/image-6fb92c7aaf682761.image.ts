@@ -25,4 +25,5 @@ export const image6fb92c7aaf682761 = {
     "fantasy-tag/nature-spirit",
     "fantasy-tag/android",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

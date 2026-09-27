@@ -25,4 +25,5 @@ export const image8c3c781da8c03b01 = {
   ],
   wardrobeTags: ["wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/android", "fantasy-tag/bioluminescence"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

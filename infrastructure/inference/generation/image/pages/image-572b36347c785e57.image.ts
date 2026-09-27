@@ -11,4 +11,5 @@ export const image572b36347c785e57 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/gold-trim", "wardrobe-tag/sheet"],
   fantasyTags: ["fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

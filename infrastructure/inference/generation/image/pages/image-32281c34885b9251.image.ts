@@ -20,4 +20,5 @@ export const image32281c34885b9251 = {
   poseTags: ["pose-tag/kissing", "pose-tag/sitting", "pose-tag/face-to-face", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/angel", "fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/demon"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

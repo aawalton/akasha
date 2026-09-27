@@ -17,4 +17,5 @@ export const image4bce3559375e0c86 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

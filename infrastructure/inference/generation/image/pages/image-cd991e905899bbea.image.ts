@@ -9,4 +9,5 @@ export const imageCd991e905899bbea = {
   settingTags: ["setting-tag/beach", "setting-tag/night", "setting-tag/ocean"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

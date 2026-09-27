@@ -10,4 +10,5 @@ export const image21bdfb1fd5da8ae8 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweater", "wardrobe-tag/glasses"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

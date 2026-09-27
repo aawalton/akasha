@@ -20,4 +20,5 @@ export const image3438de5650580dcb = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/standing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

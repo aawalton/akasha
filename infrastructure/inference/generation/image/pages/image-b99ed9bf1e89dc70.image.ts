@@ -21,4 +21,5 @@ export const imageB99ed9bf1e89dc70 = {
     "fantasy-tag/silver-hair",
     "fantasy-tag/glowing-eyes",
   ],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

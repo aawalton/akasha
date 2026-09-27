@@ -9,4 +9,5 @@ export const image48e9e305f0c12897 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/rocks"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

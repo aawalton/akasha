@@ -19,4 +19,5 @@ export const imageEe2050304c74cfd2 = {
     "wardrobe-tag/puffed-sleeves",
     "wardrobe-tag/cleavage",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

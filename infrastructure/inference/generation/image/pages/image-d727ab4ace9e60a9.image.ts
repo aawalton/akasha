@@ -15,4 +15,5 @@ export const imageD727ab4ace9e60a9 = {
     "wardrobe-tag/high-neck",
   ],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

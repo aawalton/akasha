@@ -10,4 +10,5 @@ export const image30c70f0d013443d0 = {
   poseTags: ["pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

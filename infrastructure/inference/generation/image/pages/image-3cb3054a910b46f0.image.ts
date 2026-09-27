@@ -15,4 +15,5 @@ export const image3cb3054a910b46f0 = {
     "wardrobe-tag/wig",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/warrior", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

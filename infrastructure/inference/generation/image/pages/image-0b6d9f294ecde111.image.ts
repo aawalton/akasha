@@ -20,4 +20,5 @@ export const image0b6d9f294ecde111 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

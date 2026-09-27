@@ -9,4 +9,5 @@ export const imageA4aaa3e291c17609 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageE9827efde5e4fb93 = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/water", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/bathing", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

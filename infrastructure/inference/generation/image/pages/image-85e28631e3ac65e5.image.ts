@@ -19,4 +19,5 @@ export const image85e28631e3ac65e5 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/fireplace"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

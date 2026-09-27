@@ -21,4 +21,5 @@ export const image3f4611d8707dc98a = {
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bikini"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

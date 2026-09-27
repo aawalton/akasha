@@ -16,4 +16,5 @@ export const image8718312b7dcb5cf1 = {
   settingTags: ["setting-tag/garden", "setting-tag/outdoor", "setting-tag/park"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

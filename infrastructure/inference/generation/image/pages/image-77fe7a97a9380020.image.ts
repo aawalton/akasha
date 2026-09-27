@@ -25,4 +25,5 @@ export const image77fe7a97a9380020 = {
   ],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/mermaid"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

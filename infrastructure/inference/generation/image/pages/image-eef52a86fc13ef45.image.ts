@@ -10,4 +10,5 @@ export const imageEef52a86fc13ef45 = {
   poseTags: ["pose-tag/reclining", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

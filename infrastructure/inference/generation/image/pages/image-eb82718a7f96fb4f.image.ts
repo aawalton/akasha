@@ -9,4 +9,5 @@ export const imageEb82718a7f96fb4f = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

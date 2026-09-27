@@ -21,4 +21,5 @@ export const image3154d51a74b2023c = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageCce699871408e30a = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

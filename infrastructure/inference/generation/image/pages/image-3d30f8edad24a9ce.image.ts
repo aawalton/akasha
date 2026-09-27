@@ -9,4 +9,5 @@ export const image3d30f8edad24a9ce = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/mouth-open"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

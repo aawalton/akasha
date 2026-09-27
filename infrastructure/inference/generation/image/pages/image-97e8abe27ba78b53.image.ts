@@ -20,4 +20,5 @@ export const image97e8abe27ba78b53 = {
   poseTags: ["pose-tag/winking", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

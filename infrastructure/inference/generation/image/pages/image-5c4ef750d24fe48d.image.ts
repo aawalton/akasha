@@ -20,4 +20,5 @@ export const image5c4ef750d24fe48d = {
   settingTags: ["setting-tag/living-room", "setting-tag/indoor"],
   poseTags: ["pose-tag/cross-legged", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/leggings"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const imageD988332bf0156bb5 = {
     "pose-tag/top-down-view",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

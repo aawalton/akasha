@@ -9,4 +9,5 @@ export const image2a983e982f936710 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/forest", "setting-tag/snow"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

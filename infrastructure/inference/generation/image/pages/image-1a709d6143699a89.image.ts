@@ -9,4 +9,5 @@ export const image1a709d6143699a89 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-raised", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

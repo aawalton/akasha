@@ -20,4 +20,5 @@ export const imageBff53f9cd6c38429 = {
   settingTags: ["setting-tag/cafe", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/writing", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

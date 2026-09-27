@@ -17,4 +17,5 @@ export const image9171fea9266c9bce = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/sheer", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

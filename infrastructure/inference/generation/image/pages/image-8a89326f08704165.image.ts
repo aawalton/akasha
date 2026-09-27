@@ -24,4 +24,5 @@ export const image8a89326f08704165 = {
   ],
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-away", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

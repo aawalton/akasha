@@ -10,4 +10,5 @@ export const imageB3a728573e379631 = {
   settingTags: ["setting-tag/city-street", "setting-tag/city", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

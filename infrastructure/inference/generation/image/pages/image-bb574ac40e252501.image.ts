@@ -20,4 +20,5 @@ export const imageBb574ac40e252501 = {
   poseTags: ["pose-tag/kissing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image30d522345ff5829b = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/glowing-eyes", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

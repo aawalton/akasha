@@ -19,4 +19,5 @@ export const image29c891559e995040 = {
   settingTags: ["setting-tag/city-street", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/skirt", "wardrobe-tag/leather"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

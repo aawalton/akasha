@@ -15,4 +15,5 @@ export const imageEf35c9d8d5f13415 = {
     "wardrobe-tag/skirt",
   ],
   fantasyTags: ["fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

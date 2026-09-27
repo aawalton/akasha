@@ -19,4 +19,5 @@ export const image33e63f00110cc859 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background", "setting-tag/rain"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

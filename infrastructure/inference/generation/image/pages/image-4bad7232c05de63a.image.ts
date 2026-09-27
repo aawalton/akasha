@@ -9,4 +9,5 @@ export const image4bad7232c05de63a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/campfire"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-at-viewer", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

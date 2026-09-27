@@ -20,4 +20,5 @@ export const image671ed871660f1998 = {
   poseTags: ["pose-tag/sitting", "pose-tag/working", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

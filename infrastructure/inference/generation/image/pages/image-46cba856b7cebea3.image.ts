@@ -24,4 +24,5 @@ export const image46cba856b7cebea3 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/crop-top", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

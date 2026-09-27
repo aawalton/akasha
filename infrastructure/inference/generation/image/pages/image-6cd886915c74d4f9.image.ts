@@ -21,4 +21,5 @@ export const image6cd886915c74d4f9 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

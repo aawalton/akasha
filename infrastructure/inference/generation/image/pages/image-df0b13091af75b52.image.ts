@@ -10,4 +10,5 @@ export const imageDf0b13091af75b52 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

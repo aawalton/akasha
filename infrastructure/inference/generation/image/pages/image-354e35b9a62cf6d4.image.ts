@@ -15,4 +15,5 @@ export const image354e35b9a62cf6d4 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/dragon", "fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

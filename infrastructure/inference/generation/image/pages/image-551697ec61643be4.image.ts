@@ -15,4 +15,5 @@ export const image551697ec61643be4 = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

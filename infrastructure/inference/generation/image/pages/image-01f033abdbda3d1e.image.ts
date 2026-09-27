@@ -10,4 +10,5 @@ export const image01f033abdbda3d1e = {
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/naga", "fantasy-tag/mermaid", "fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image06313d31121febf6 = {
     "wardrobe-tag/flower-crown",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

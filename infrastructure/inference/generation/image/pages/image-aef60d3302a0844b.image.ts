@@ -9,4 +9,5 @@ export const imageAef60d3302a0844b = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
+  ethnicityTags: ["ethnicity-tag/latina"],
 } as const satisfies Image

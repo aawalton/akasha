@@ -20,4 +20,5 @@ export const imageCd1be845e304e222 = {
     "wardrobe-tag/top",
     "wardrobe-tag/casual-wear",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

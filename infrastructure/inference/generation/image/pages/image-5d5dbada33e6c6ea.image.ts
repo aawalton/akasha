@@ -9,4 +9,5 @@ export const image5d5dbada33e6c6ea = {
   settingTags: ["setting-tag/studio", "setting-tag/workshop", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

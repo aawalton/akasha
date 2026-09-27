@@ -25,4 +25,5 @@ export const imageB8c4a1e8f4a52727 = {
   ],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/fairy-tale"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

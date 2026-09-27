@@ -20,4 +20,5 @@ export const imageE1b41c16c20622d0 = {
   settingTags: ["setting-tag/hallway", "setting-tag/indoor", "setting-tag/luxury"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

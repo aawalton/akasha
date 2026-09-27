@@ -9,4 +9,5 @@ export const imageEa7b122efa6ad5c7 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

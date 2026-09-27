@@ -10,4 +10,5 @@ export const imageD7ada5731583fac7 = {
   settingTags: ["setting-tag/garden", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/laughing", "pose-tag/holding-drink", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

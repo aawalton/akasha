@@ -19,4 +19,5 @@ export const image4f5fd5cfb94587ef = {
   settingTags: ["setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/loungewear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

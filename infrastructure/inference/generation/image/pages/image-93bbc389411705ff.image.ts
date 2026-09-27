@@ -20,4 +20,5 @@ export const image93bbc389411705ff = {
   poseTags: ["pose-tag/standing", "pose-tag/portrait", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/deep-v-neck", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

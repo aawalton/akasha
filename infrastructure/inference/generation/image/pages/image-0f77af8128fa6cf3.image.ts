@@ -21,4 +21,5 @@ export const image0f77af8128fa6cf3 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/lingerie", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

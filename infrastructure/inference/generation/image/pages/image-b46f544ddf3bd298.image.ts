@@ -9,4 +9,5 @@ export const imageB46f544ddf3bd298 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

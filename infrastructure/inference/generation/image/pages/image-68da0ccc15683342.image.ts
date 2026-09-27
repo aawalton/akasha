@@ -15,4 +15,5 @@ export const image68da0ccc15683342 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/lingerie", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

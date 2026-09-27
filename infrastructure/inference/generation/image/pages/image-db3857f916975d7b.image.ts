@@ -19,4 +19,5 @@ export const imageDb3857f916975d7b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image100a38f74b3f0e70 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

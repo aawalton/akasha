@@ -16,4 +16,5 @@ export const image8fbc65fefaf1e07d = {
   settingTags: ["setting-tag/cafe", "setting-tag/city-street", "setting-tag/city"],
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

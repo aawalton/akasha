@@ -16,4 +16,5 @@ export const image34bfcdd3d09c5591 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/office"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

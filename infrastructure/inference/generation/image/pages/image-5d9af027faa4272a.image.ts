@@ -9,4 +9,5 @@ export const image5d9af027faa4272a = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image65ccc874fcc1de0d = {
   settingTags: ["setting-tag/office", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt", "wardrobe-tag/suit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

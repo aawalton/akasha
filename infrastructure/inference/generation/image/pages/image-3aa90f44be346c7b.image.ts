@@ -11,4 +11,5 @@ export const image3aa90f44be346c7b = {
   poseTags: ["pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/backless", "wardrobe-tag/high-slit"],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

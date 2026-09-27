@@ -19,4 +19,5 @@ export const image764a13642dbe7e52 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

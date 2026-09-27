@@ -20,4 +20,5 @@ export const imageDddb398904ad2b8b = {
   poseTags: ["pose-tag/kissing", "pose-tag/lying-down", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/scales"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

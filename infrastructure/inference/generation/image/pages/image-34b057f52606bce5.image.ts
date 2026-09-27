@@ -15,4 +15,5 @@ export const image34b057f52606bce5 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/walking"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/topless", "wardrobe-tag/high-slit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

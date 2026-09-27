@@ -14,4 +14,5 @@ export const imageBb56b38c149750d3 = {
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/sheer", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

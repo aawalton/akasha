@@ -9,4 +9,5 @@ export const image0a7de51ce2701fac = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/nature"],
   poseTags: ["pose-tag/walking", "pose-tag/back-view", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/jeans", "wardrobe-tag/backpack"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

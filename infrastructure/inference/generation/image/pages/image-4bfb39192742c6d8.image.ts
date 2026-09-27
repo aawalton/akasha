@@ -8,4 +8,5 @@ export const image4bfb39192742c6d8 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/serious-expression"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

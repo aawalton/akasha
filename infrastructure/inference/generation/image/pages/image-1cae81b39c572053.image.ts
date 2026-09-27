@@ -19,4 +19,5 @@ export const image1cae81b39c572053 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/lying-down", "pose-tag/lying-on-stomach", "pose-tag/sleeping"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

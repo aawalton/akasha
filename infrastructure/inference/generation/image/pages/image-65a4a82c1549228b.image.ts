@@ -9,4 +9,5 @@ export const image65a4a82c1549228b = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

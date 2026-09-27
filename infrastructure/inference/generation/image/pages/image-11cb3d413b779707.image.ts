@@ -20,4 +20,5 @@ export const image11cb3d413b779707 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/belt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

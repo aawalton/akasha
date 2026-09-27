@@ -21,4 +21,5 @@ export const imageA0eaf5796f808e87 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

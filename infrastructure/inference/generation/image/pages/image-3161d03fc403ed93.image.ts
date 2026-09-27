@@ -20,4 +20,5 @@ export const image3161d03fc403ed93 = {
   settingTags: ["setting-tag/indoor", "setting-tag/office", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

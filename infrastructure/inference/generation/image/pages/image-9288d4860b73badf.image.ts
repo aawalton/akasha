@@ -9,4 +9,5 @@ export const image9288d4860b73badf = {
   settingTags: ["setting-tag/bedroom", "setting-tag/hotel"],
   poseTags: ["pose-tag/straddling", "pose-tag/sitting", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

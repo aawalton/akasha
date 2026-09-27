@@ -9,4 +9,5 @@ export const image27bbb8a4411a47b4 = {
   settingTags: ["setting-tag/jungle", "setting-tag/nature"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

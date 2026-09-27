@@ -9,4 +9,5 @@ export const image3d9cc0a32758294f = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/snow"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

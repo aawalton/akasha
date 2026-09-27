@@ -9,4 +9,5 @@ export const image2b748d379e092894 = {
   settingTags: ["setting-tag/workshop"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

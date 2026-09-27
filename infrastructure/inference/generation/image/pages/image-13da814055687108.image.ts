@@ -10,4 +10,5 @@ export const image13da814055687108 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

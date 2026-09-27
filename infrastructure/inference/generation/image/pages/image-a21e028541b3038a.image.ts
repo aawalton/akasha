@@ -20,4 +20,5 @@ export const imageA21e028541b3038a = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/gloves", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

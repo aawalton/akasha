@@ -20,4 +20,5 @@ export const imageEafac629108e274f = {
   settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/walking", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

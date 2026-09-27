@@ -11,4 +11,5 @@ export const image7c3e48d25ff1c1e7 = {
   poseTags: ["pose-tag/bent-over", "pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/wig", "wardrobe-tag/socks", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

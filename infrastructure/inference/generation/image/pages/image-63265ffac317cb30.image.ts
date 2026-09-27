@@ -9,4 +9,5 @@ export const image63265ffac317cb30 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/sky"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

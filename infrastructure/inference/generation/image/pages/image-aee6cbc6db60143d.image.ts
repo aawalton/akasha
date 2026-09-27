@@ -20,4 +20,5 @@ export const imageAee6cbc6db60143d = {
     "wardrobe-tag/deep-v-neck",
     "wardrobe-tag/long-sleeves",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

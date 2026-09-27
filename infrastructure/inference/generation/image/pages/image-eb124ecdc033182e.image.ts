@@ -10,4 +10,5 @@ export const imageEb124ecdc033182e = {
   poseTags: ["pose-tag/kissing", "pose-tag/hand-on-face", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

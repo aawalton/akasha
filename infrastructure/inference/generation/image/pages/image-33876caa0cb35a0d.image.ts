@@ -19,4 +19,5 @@ export const image33876caa0cb35a0d = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/hands-behind-head", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

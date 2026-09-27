@@ -9,4 +9,5 @@ export const image5bab237be1892d49 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/ocean"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/straddling", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

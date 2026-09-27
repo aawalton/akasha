@@ -10,4 +10,5 @@ export const imageAb7f89effd6f12e1 = {
   settingTags: ["setting-tag/cave", "setting-tag/water", "setting-tag/underwater"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/latina"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const imageE46404ca4958ed78 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/hat", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

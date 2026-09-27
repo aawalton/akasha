@@ -9,4 +9,5 @@ export const image7207470c6444c44f = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
 } as const satisfies Image

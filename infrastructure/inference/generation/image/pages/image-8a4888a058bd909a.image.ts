@@ -19,4 +19,5 @@ export const image8a4888a058bd909a = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

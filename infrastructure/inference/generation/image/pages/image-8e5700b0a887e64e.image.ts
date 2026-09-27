@@ -15,4 +15,5 @@ export const image8e5700b0a887e64e = {
     "pose-tag/sitting",
   ],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

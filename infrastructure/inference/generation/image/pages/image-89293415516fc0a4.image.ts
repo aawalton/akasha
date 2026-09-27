@@ -9,4 +9,5 @@ export const image89293415516fc0a4 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/town"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

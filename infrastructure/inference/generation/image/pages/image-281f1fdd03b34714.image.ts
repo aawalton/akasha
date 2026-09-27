@@ -9,4 +9,5 @@ export const image281f1fdd03b34714 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/dress", "wardrobe-tag/halter-top"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

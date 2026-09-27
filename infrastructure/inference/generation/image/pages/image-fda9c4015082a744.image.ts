@@ -10,4 +10,5 @@ export const imageFda9c4015082a744 = {
   poseTags: ["pose-tag/standing", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/halter-top", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/demon"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

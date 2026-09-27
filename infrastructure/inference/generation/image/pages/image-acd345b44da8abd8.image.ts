@@ -15,4 +15,5 @@ export const imageAcd345b44da8abd8 = {
     "pose-tag/reclining",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

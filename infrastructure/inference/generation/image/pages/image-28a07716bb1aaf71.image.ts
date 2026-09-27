@@ -9,4 +9,5 @@ export const image28a07716bb1aaf71 = {
   settingTags: ["setting-tag/hallway", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

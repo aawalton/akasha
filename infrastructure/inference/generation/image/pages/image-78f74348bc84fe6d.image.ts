@@ -21,4 +21,5 @@ export const image78f74348bc84fe6d = {
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/cloak", "wardrobe-tag/bare-legs"],
   fantasyTags: ["fantasy-tag/warrior", "fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

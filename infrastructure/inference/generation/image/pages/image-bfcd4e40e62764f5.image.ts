@@ -21,4 +21,5 @@ export const imageBfcd4e40e62764f5 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/harness", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

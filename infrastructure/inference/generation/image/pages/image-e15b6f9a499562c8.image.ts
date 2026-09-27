@@ -10,4 +10,5 @@ export const imageE15b6f9a499562c8 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/hands-on-chest", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

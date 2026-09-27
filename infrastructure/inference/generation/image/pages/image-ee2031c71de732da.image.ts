@@ -15,4 +15,5 @@ export const imageEe2031c71de732da = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/fur", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/antlers", "fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

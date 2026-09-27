@@ -14,4 +14,5 @@ export const image7ddc32a58d9614ea = {
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

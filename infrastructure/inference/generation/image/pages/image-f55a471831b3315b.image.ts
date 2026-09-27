@@ -21,4 +21,5 @@ export const imageF55a471831b3315b = {
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/sweatpants", "wardrobe-tag/loungewear"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

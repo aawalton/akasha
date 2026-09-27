@@ -19,4 +19,5 @@ export const imageEaa9ad0125a40353 = {
   settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/jeans", "wardrobe-tag/belt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

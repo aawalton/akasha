@@ -10,4 +10,5 @@ export const image9b5eede91125c563 = {
   poseTags: ["pose-tag/floating", "pose-tag/looking-back", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/weapons", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

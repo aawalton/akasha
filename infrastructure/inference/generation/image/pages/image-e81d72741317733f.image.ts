@@ -14,4 +14,5 @@ export const imageE81d72741317733f = {
     "pose-tag/side-by-side",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

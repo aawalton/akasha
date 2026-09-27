@@ -9,4 +9,5 @@ export const image7971adf4b29c970d = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

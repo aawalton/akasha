@@ -9,4 +9,5 @@ export const image26d14d6bece3bfdc = {
   settingTags: ["setting-tag/bedroom", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageEeea1e06f3da662c = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/kimono", "wardrobe-tag/robe", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

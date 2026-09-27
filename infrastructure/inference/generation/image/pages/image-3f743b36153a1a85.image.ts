@@ -16,4 +16,5 @@ export const image3f743b36153a1a85 = {
   ],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/slip-dress"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

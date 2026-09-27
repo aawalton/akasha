@@ -19,4 +19,5 @@ export const imageB8fa61e4700bd7da = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/nature"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/side-by-side"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/tube-top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

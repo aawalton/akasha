@@ -20,4 +20,5 @@ export const image547e67a49402a1ca = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/dress", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/cosmic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

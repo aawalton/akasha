@@ -21,4 +21,5 @@ export const image1f10a7b84176a875 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/ethereal", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

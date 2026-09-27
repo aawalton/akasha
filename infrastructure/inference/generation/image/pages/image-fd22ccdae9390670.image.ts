@@ -10,4 +10,5 @@ export const imageFd22ccdae9390670 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/bare-legs", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

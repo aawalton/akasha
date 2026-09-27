@@ -19,4 +19,5 @@ export const imageC2486f31750c2cb5 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/close-up", "pose-tag/kissing", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

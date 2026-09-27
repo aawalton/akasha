@@ -10,4 +10,5 @@ export const imageEd8c94968d20fe15 = {
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

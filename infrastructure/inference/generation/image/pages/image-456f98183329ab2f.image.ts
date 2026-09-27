@@ -16,4 +16,5 @@ export const image456f98183329ab2f = {
     "wardrobe-tag/slip-dress",
   ],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

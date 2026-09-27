@@ -10,4 +10,5 @@ export const imageDbb4390ea92b5756 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/robe", "wardrobe-tag/bra"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

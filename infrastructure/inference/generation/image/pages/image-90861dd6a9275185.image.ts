@@ -20,4 +20,5 @@ export const image90861dd6a9275185 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/robe"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

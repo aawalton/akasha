@@ -18,4 +18,5 @@ export const imageEaea88c80d46afd4 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/sci-fi", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image8c181ededb799584 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/robe"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

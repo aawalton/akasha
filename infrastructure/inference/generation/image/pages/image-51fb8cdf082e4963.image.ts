@@ -9,4 +9,5 @@ export const image51fb8cdf082e4963 = {
   settingTags: ["setting-tag/workshop"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

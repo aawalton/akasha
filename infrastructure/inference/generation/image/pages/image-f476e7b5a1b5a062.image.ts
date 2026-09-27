@@ -10,4 +10,5 @@ export const imageF476e7b5a1b5a062 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

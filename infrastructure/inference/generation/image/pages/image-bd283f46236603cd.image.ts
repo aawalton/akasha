@@ -20,4 +20,5 @@ export const imageBd283f46236603cd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/water", "setting-tag/nature"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image441b686c583ecccc = {
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears", "fantasy-tag/tail"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

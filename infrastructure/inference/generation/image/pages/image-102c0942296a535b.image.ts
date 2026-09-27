@@ -9,4 +9,5 @@ export const image102c0942296a535b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/canyon", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

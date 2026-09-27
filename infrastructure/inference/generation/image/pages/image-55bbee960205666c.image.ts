@@ -10,4 +10,5 @@ export const image55bbee960205666c = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/body-paint", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

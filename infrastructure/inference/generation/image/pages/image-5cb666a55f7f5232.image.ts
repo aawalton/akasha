@@ -11,4 +11,5 @@ export const image5cb666a55f7f5232 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-down", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

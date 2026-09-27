@@ -9,4 +9,5 @@ export const image529dcc88bb323630 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/hot-spring"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

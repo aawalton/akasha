@@ -11,4 +11,5 @@ export const image67af1f998c97c499 = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-down", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/wig", "wardrobe-tag/socks"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

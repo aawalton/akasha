@@ -14,4 +14,5 @@ export const image512c67f38b0b5aed = {
   ],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/backless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

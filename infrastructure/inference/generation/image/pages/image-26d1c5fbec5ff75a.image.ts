@@ -21,4 +21,5 @@ export const image26d1c5fbec5ff75a = {
     "wardrobe-tag/topless",
   ],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

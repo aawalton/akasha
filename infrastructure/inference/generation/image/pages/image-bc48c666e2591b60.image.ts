@@ -9,4 +9,5 @@ export const imageBc48c666e2591b60 = {
   settingTags: ["setting-tag/snow", "setting-tag/mountains", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageFa4094bfbd79ac62 = {
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/naga", "fantasy-tag/scales"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image950cae647fff572e = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

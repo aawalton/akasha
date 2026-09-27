@@ -25,4 +25,5 @@ export const image9f48eeeed31903a6 = {
     "pose-tag/hand-on-face",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image7e880dc743ca6bf8 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-hip", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cardigan", "wardrobe-tag/backpack"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

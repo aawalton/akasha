@@ -14,4 +14,5 @@ export const imageEb48b7adcb1a160d = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/qipao", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

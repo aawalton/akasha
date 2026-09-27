@@ -20,4 +20,5 @@ export const image15c1601aebd0a298 = {
   settingTags: ["setting-tag/ocean", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/laughing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

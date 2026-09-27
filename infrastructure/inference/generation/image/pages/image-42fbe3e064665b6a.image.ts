@@ -15,4 +15,5 @@ export const image42fbe3e064665b6a = {
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/socks"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

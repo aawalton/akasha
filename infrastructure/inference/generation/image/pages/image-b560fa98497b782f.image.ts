@@ -9,4 +9,5 @@ export const imageB560fa98497b782f = {
   settingTags: ["setting-tag/spa", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/eating", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

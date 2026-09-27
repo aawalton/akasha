@@ -9,4 +9,5 @@ export const imageD990894d3e0cb39b = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/park"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

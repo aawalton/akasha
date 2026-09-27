@@ -22,4 +22,5 @@ export const image4520228bc0f350a8 = {
     "wardrobe-tag/spaghetti-straps",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image7e6f689e94f03043 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

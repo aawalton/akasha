@@ -9,4 +9,5 @@ export const image95cd66ac49b18289 = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageFe1efad2bc92ca0d = {
   settingTags: ["setting-tag/outdoor", "setting-tag/snow", "setting-tag/mountains"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/corset", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

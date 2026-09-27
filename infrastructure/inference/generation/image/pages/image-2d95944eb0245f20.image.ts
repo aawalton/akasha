@@ -20,4 +20,5 @@ export const image2d95944eb0245f20 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/hand-on-face", "pose-tag/looking-away", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/robe"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

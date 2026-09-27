@@ -10,4 +10,5 @@ export const image205036bfcb745457 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageC13c0fd847d0e456 = {
     "wardrobe-tag/high-slit",
   ],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageEfe22e55affff834 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/shirt", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

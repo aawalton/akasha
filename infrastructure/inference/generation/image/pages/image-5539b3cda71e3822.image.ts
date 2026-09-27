@@ -9,4 +9,5 @@ export const image5539b3cda71e3822 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/high-slit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

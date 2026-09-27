@@ -10,4 +10,5 @@ export const image698967d400ed997d = {
   poseTags: ["pose-tag/reclining", "pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes", "fantasy-tag/monster-girl"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageAf86b9a3244205c7 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/tongue-out", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

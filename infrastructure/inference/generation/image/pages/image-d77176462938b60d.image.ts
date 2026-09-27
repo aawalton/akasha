@@ -20,4 +20,5 @@ export const imageD77176462938b60d = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image461962f909a70dc4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

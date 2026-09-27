@@ -30,4 +30,5 @@ export const image32790aa0eca07b9d = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/towel"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

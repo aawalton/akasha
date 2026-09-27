@@ -9,4 +9,5 @@ export const image72ecaa0f4bbbd02a = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/bikini", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

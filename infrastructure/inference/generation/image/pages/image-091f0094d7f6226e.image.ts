@@ -20,4 +20,5 @@ export const image091f0094d7f6226e = {
   settingTags: ["setting-tag/underwater", "setting-tag/ocean"],
   poseTags: ["pose-tag/kneeling", "pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

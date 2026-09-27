@@ -9,4 +9,5 @@ export const image5df1841853c74321 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/dress", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
 } as const satisfies Image

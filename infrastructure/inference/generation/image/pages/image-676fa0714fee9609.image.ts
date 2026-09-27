@@ -14,4 +14,5 @@ export const image676fa0714fee9609 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sheer", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/glowing", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

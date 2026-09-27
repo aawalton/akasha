@@ -15,4 +15,5 @@ export const image39bcd36349d223f5 = {
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/pants", "wardrobe-tag/writing-on-skin"],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageA834beb428c4c08c = {
   settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

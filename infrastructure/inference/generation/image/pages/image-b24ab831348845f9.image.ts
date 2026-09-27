@@ -20,4 +20,5 @@ export const imageB24ab831348845f9 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/deep-v-neck"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

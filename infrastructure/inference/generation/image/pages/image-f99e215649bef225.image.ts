@@ -11,4 +11,5 @@ export const imageF99e215649bef225 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/gloves", "wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

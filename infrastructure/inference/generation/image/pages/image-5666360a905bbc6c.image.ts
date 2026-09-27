@@ -19,4 +19,5 @@ export const image5666360a905bbc6c = {
   settingTags: ["setting-tag/mountains", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/backpack"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

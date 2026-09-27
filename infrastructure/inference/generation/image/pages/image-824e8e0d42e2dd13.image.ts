@@ -11,4 +11,5 @@ export const image824e8e0d42e2dd13 = {
   poseTags: ["pose-tag/profile", "pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

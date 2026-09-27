@@ -20,4 +20,5 @@ export const image409cf9bdb692fca2 = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/chatting", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

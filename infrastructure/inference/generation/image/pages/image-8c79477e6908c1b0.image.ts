@@ -25,4 +25,5 @@ export const image8c79477e6908c1b0 = {
     "wardrobe-tag/bare-shoulders",
   ],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune", "fantasy-tag/fire"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

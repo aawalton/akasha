@@ -14,4 +14,5 @@ export const imageAfbe6d0f30a37714 = {
     "pose-tag/upper-body",
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

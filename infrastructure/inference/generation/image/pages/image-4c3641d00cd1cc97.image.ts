@@ -21,4 +21,5 @@ export const image4c3641d00cd1cc97 = {
   poseTags: ["pose-tag/walking", "pose-tag/floating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing-eyes", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

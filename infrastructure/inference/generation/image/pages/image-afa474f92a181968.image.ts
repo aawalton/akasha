@@ -9,4 +9,5 @@ export const imageAfa474f92a181968 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/back-view", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/hair-accessory", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

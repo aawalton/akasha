@@ -9,4 +9,5 @@ export const imageC5747d2815cfe64a = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/tatami-room"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/bare-shoulders", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

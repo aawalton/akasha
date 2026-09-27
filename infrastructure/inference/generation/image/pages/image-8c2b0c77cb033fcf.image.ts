@@ -9,4 +9,5 @@ export const image8c2b0c77cb033fcf = {
   settingTags: ["setting-tag/underwater", "setting-tag/pool"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/floating", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

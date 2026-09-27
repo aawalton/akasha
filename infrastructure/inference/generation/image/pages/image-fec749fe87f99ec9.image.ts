@@ -29,4 +29,5 @@ export const imageFec749fe87f99ec9 = {
     "pose-tag/full-body",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

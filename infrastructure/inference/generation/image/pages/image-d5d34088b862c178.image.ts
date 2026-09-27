@@ -21,4 +21,5 @@ export const imageD5d34088b862c178 = {
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shorts", "wardrobe-tag/crop-top", "wardrobe-tag/high-heels"],
   fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

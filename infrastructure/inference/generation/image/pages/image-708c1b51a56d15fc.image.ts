@@ -19,4 +19,5 @@ export const image708c1b51a56d15fc = {
     "wardrobe-tag/backless",
     "wardrobe-tag/hair-accessory",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

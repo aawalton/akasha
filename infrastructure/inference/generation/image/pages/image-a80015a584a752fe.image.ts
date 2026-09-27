@@ -20,4 +20,5 @@ export const imageA80015a584a752fe = {
   settingTags: ["setting-tag/bedroom", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-lantern", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

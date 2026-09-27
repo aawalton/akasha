@@ -10,4 +10,5 @@ export const image47f443f523a2946a = {
   poseTags: ["pose-tag/kneeling", "pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

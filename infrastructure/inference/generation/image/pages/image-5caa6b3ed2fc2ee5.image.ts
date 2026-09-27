@@ -15,4 +15,5 @@ export const image5caa6b3ed2fc2ee5 = {
   settingTags: ["setting-tag/city-street", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/walking"],
   wardrobeTags: ["wardrobe-tag/coat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image2c75ac3c3c66bfdb = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/off-shoulder", "wardrobe-tag/socks"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageB29d78903bb7d4b8 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/reclining", "pose-tag/side-by-side"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image374c3210187e1238 = {
   settingTags: ["setting-tag/bar", "setting-tag/party", "setting-tag/indoor"],
   poseTags: ["pose-tag/dancing", "pose-tag/arms-raised", "pose-tag/laughing", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/mini-dress", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

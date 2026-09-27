@@ -21,4 +21,5 @@ export const image01876640ad2a6a22 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image7094321f2436a2bf = {
   poseTags: ["pose-tag/floating", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

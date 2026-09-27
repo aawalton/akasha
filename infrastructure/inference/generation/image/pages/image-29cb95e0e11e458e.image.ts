@@ -27,4 +27,5 @@ export const image29cb95e0e11e458e = {
     "wardrobe-tag/witch-hat",
   ],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/witch", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

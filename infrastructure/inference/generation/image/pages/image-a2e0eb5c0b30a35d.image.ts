@@ -26,4 +26,5 @@ export const imageA2e0eb5c0b30a35d = {
     "wardrobe-tag/high-slit",
   ],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

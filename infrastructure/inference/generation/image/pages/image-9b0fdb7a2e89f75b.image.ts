@@ -20,4 +20,5 @@ export const image9b0fdb7a2e89f75b = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/bedroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/holding-drink", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

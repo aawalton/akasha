@@ -10,4 +10,5 @@ export const imageD5e2cc2afa8ac393 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/sports-bra"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -29,4 +29,5 @@ export const imageDac18533c64d0165 = {
     "wardrobe-tag/off-shoulder",
     "wardrobe-tag/sweater",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

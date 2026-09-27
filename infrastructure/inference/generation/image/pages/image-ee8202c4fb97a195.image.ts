@@ -10,4 +10,5 @@ export const imageEe8202c4fb97a195 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

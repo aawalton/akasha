@@ -25,4 +25,5 @@ export const imageD6b632add687a792 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/chatting", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/partial-undress", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

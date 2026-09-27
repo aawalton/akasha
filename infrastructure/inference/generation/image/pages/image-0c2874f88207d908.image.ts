@@ -10,4 +10,5 @@ export const image0c2874f88207d908 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/vest", "wardrobe-tag/shirt", "wardrobe-tag/goggles"],
   fantasyTags: ["fantasy-tag/steampunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image8424d126db6ddbbf = {
   settingTags: ["setting-tag/cafe", "setting-tag/daytime"],
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

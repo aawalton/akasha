@@ -9,4 +9,5 @@ export const image24bb051b148a926c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/jeans", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

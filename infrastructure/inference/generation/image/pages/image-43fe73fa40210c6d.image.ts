@@ -21,4 +21,5 @@ export const image43fe73fa40210c6d = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

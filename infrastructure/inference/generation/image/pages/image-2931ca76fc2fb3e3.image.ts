@@ -19,4 +19,5 @@ export const image2931ca76fc2fb3e3 = {
   settingTags: ["setting-tag/garden", "setting-tag/outdoor", "setting-tag/park"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image49d59d27b188c02c = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/sitting", "pose-tag/chatting", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageCe6410dae368b43a = {
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/shirt", "wardrobe-tag/writing-on-skin"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

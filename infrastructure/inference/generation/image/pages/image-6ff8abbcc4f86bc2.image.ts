@@ -20,4 +20,5 @@ export const image6ff8abbcc4f86bc2 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/dragon-horns", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

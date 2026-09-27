@@ -9,4 +9,5 @@ export const imageC87c5c688663e67f = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

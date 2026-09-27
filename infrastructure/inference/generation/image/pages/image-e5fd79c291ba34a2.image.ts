@@ -10,4 +10,5 @@ export const imageE5fd79c291ba34a2 = {
   poseTags: ["pose-tag/fighting", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/robe", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/ghost", "fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/black"],
 } as const satisfies Image

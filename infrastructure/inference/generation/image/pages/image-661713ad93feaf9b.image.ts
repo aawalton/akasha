@@ -20,4 +20,5 @@ export const image661713ad93feaf9b = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

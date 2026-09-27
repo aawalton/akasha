@@ -11,4 +11,5 @@ export const imageDb84860c7aed745c = {
   poseTags: ["pose-tag/looking-down", "pose-tag/close-up", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/cleavage", "wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

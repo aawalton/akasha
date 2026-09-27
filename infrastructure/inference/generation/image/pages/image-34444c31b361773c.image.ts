@@ -14,4 +14,5 @@ export const image34444c31b361773c = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/exposed-genitals"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

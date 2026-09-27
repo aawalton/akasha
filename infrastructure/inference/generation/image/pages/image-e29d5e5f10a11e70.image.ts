@@ -9,4 +9,5 @@ export const imageE29d5e5f10a11e70 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageC0a88e23a630c790 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

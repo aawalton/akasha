@@ -29,4 +29,5 @@ export const imageF1320e10b09ee528 = {
     "wardrobe-tag/sunglasses",
     "wardrobe-tag/barefoot",
   ],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/latina"],
 } as const satisfies Image

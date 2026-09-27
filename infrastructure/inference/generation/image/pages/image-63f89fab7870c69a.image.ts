@@ -25,4 +25,5 @@ export const image63f89fab7870c69a = {
     "pose-tag/leaning",
   ],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageC0a61cf3d391faee = {
   poseTags: ["pose-tag/leaning-forward", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

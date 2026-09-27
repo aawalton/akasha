@@ -25,4 +25,5 @@ export const image816fd607e6680e7c = {
     "pose-tag/curled-up",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

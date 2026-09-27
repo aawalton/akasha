@@ -9,4 +9,5 @@ export const imageC236d1298ba5e2b1 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/doorway"],
   poseTags: ["pose-tag/selfie", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image26284615a8fc700f = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/fairy"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image934070a3e3567e9a = {
   ],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/robe", "wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

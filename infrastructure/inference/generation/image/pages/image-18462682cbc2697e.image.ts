@@ -25,4 +25,5 @@ export const image18462682cbc2697e = {
   settingTags: ["setting-tag/garden", "setting-tag/greenhouse", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless", "wardrobe-tag/belt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

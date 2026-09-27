@@ -20,4 +20,5 @@ export const image77afe6880902cb32 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/abstract-background"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sheer", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

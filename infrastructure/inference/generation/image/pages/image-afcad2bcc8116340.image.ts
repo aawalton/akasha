@@ -10,4 +10,5 @@ export const imageAfcad2bcc8116340 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/skirt", "wardrobe-tag/crop-top"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image8484fa5676528097 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/legs-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

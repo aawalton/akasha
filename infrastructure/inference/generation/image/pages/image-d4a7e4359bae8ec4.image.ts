@@ -10,4 +10,5 @@ export const imageD4a7e4359bae8ec4 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts", "wardrobe-tag/wig"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

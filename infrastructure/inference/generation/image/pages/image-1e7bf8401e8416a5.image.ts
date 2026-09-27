@@ -11,4 +11,5 @@ export const image1e7bf8401e8416a5 = {
   settingTags: ["setting-tag/office", "setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

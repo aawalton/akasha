@@ -9,4 +9,5 @@ export const image813822b3d5e3b277 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const imageAd5d2f59784b7c42 = {
     "pose-tag/leaning-forward",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/leggings", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image2f57dd0eeee239aa = {
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image1e91ed6eb1efbe4a = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/lingerie", "wardrobe-tag/bra"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

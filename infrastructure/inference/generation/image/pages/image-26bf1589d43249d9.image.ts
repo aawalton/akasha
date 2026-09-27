@@ -25,4 +25,5 @@ export const image26bf1589d43249d9 = {
     "pose-tag/knees-up",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

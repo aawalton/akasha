@@ -10,4 +10,5 @@ export const imageD94d6eee31b7ae23 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/tunic", "wardrobe-tag/scarf"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic", "fantasy-tag/ghost"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/black"],
 } as const satisfies Image

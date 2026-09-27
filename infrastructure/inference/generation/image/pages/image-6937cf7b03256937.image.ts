@@ -19,4 +19,5 @@ export const image6937cf7b03256937 = {
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

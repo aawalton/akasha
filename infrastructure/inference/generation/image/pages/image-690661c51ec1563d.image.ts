@@ -9,4 +9,5 @@ export const image690661c51ec1563d = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/exposed-genitals", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

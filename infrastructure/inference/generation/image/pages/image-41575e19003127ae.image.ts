@@ -19,4 +19,5 @@ export const image41575e19003127ae = {
   settingTags: ["setting-tag/workshop"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

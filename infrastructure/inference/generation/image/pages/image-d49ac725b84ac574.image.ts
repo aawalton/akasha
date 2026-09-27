@@ -26,4 +26,5 @@ export const imageD49ac725b84ac574 = {
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin", "fantasy-tag/red-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

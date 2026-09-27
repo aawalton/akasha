@@ -27,4 +27,5 @@ export const imageF216b8cf4891bc26 = {
     "wardrobe-tag/sheer",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/purple-eyes", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

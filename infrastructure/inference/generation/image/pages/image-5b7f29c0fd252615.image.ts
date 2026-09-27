@@ -25,4 +25,5 @@ export const image5b7f29c0fd252615 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/holding-drink"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image66e155d201210e8c = {
   settingTags: ["setting-tag/living-room", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

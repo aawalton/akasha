@@ -10,4 +10,5 @@ export const image0362a03f6258fe16 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/robe"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

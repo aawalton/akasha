@@ -20,4 +20,5 @@ export const image3aa9749b4e307f13 = {
   settingTags: ["setting-tag/river", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

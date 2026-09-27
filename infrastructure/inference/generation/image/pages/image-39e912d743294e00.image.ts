@@ -19,4 +19,5 @@ export const image39e912d743294e00 = {
   settingTags: ["setting-tag/sports-field", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

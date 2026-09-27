@@ -19,4 +19,5 @@ export const image62c20d3ed58f7fd7 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

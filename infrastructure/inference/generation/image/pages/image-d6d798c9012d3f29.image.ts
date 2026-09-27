@@ -19,4 +19,5 @@ export const imageD6d798c9012d3f29 = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

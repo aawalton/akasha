@@ -11,4 +11,5 @@ export const image8cb082ca63a9e780 = {
   settingTags: ["setting-tag/garden", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/profile", "pose-tag/standing", "pose-tag/looking-away", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

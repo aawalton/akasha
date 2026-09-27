@@ -19,4 +19,5 @@ export const image43f256dcacb6ff53 = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/holding-flowers"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

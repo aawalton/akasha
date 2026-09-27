@@ -9,4 +9,5 @@ export const imageAb6f550a8e031334 = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/stretching", "pose-tag/arms-raised", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -15,4 +15,5 @@ export const image2ba9d89f9a63cffe = {
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/stockings", "wardrobe-tag/bikini"],
   fantasyTags: ["fantasy-tag/mermaid"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

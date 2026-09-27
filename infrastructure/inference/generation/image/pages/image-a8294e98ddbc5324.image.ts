@@ -15,4 +15,5 @@ export const imageA8294e98ddbc5324 = {
     "pose-tag/hand-on-hip",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/mixed", "ethnicity-tag/asian"],
 } as const satisfies Image

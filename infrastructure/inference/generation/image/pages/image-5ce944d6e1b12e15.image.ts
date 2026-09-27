@@ -10,4 +10,5 @@ export const image5ce944d6e1b12e15 = {
   settingTags: ["setting-tag/indoor", "setting-tag/office", "setting-tag/study"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/open-shirt", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

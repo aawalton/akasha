@@ -9,4 +9,5 @@ export const imageCa4bcb29fece4356 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/town"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

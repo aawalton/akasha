@@ -10,4 +10,5 @@ export const image48b1682606314ff5 = {
   settingTags: ["setting-tag/desert", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/pants", "wardrobe-tag/boots"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

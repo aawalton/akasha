@@ -14,4 +14,5 @@ export const imageEd7f9b22b2981f97 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

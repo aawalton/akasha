@@ -20,4 +20,5 @@ export const image0f5c5c9befa7fba8 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/headphones"],
   fantasyTags: ["fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

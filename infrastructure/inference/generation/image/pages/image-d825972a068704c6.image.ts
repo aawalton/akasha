@@ -9,4 +9,5 @@ export const imageD825972a068704c6 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/indoor"],
   poseTags: ["pose-tag/straddling", "pose-tag/lying-down", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

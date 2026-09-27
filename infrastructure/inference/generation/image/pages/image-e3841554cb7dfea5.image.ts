@@ -9,4 +9,5 @@ export const imageE3841554cb7dfea5 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/snow"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/fur", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageE60597295b6ecae7 = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-back", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/scales", "fantasy-tag/naga", "fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

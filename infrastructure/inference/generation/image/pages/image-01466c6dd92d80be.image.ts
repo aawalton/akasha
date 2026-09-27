@@ -20,4 +20,5 @@ export const image01466c6dd92d80be = {
   relationshipLevel: "closeness-level/level-2",
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

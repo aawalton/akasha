@@ -22,4 +22,5 @@ export const image23286950ebbdd84d = {
   ],
   wardrobeTags: ["wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

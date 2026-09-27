@@ -15,4 +15,5 @@ export const image7b7b998337ef2eb6 = {
   ],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/skirt", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

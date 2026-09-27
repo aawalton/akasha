@@ -15,4 +15,5 @@ export const image625cd7b1faf8c8ed = {
   settingTags: ["setting-tag/park", "setting-tag/outdoor", "setting-tag/autumn"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

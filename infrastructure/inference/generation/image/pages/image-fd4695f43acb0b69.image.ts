@@ -10,4 +10,5 @@ export const imageFd4695f43acb0b69 = {
   poseTags: ["pose-tag/standing", "pose-tag/casting-magic", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/boots", "wardrobe-tag/gloves", "wardrobe-tag/tunic"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

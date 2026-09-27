@@ -10,4 +10,5 @@ export const imageCf745e91c8479eb4 = {
   poseTags: ["pose-tag/bent-over", "pose-tag/back-view", "pose-tag/all-fours"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/green-hair"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

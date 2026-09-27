@@ -21,4 +21,5 @@ export const image30ebbd3826577aec = {
   poseTags: ["pose-tag/reaching", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing-eyes", "fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

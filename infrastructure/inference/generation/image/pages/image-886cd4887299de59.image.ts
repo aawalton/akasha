@@ -21,4 +21,5 @@ export const image886cd4887299de59 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/gothic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

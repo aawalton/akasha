@@ -10,4 +10,5 @@ export const image546799b88512519b = {
   settingTags: ["setting-tag/bathroom", "setting-tag/shower", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/towel"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

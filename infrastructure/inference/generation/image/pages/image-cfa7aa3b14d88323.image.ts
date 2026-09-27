@@ -15,4 +15,5 @@ export const imageCfa7aa3b14d88323 = {
     "wardrobe-tag/partial-undress",
   ],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

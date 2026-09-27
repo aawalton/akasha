@@ -9,4 +9,5 @@ export const image72fcde908c8fc02c = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/high-heels"],
+  ethnicityTags: ["ethnicity-tag/latina"],
 } as const satisfies Image

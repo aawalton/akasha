@@ -14,4 +14,5 @@ export const imageC5335110607e2d22 = {
     "pose-tag/eyes-closed",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/bodysuit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

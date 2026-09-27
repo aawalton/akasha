@@ -10,4 +10,5 @@ export const imageFe7e2188200013cd = {
   settingTags: ["setting-tag/living-room", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/sweatpants", "wardrobe-tag/loungewear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

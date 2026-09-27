@@ -10,4 +10,5 @@ export const image1584ad360e43fa00 = {
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread", "pose-tag/masturbation"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/pink-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

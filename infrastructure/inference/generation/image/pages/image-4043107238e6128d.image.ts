@@ -10,4 +10,5 @@ export const image4043107238e6128d = {
   settingTags: ["setting-tag/ruins", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

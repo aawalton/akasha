@@ -11,4 +11,5 @@ export const imageA576e5af4bede186 = {
   settingTags: ["setting-tag/cafe", "setting-tag/indoor", "setting-tag/restaurant"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image7a7f195d5393962c = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sheer-dress", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/bioluminescence", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

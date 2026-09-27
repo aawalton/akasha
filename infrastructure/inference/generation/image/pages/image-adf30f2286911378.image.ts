@@ -15,4 +15,5 @@ export const imageAdf30f2286911378 = {
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/cloak"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

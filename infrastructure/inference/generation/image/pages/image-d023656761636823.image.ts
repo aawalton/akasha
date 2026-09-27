@@ -9,4 +9,5 @@ export const imageD023656761636823 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/campfire"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -30,4 +30,5 @@ export const image6db819cb3629194d = {
     "fantasy-tag/horns",
     "fantasy-tag/silver-hair",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

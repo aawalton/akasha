@@ -9,4 +9,5 @@ export const image7c3e5ac105f694a2 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/living-room"],
   poseTags: ["pose-tag/kissing", "pose-tag/reclining", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

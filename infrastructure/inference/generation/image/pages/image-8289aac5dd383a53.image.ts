@@ -20,4 +20,5 @@ export const image8289aac5dd383a53 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/daytime", "setting-tag/indoor"],
   poseTags: ["pose-tag/reading", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

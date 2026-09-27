@@ -9,4 +9,5 @@ export const image0dce21a1d923a311 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/boat", "setting-tag/ocean"],
   poseTags: ["pose-tag/looking-back", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/skirt", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image3c97ea1f56560ec8 = {
   settingTags: ["setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/serious-expression"],
   wardrobeTags: ["wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

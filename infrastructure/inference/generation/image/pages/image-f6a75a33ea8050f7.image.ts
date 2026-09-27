@@ -24,4 +24,5 @@ export const imageF6a75a33ea8050f7 = {
     "wardrobe-tag/gold-trim",
     "wardrobe-tag/jewelry",
   ],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image0854ac7589604bd7 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image7d6e31e1611ff07c = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

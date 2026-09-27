@@ -26,4 +26,5 @@ export const imageA68fb7ed7fba13f3 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sheer", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/silver-hair", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

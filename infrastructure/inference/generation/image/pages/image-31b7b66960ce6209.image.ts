@@ -25,4 +25,5 @@ export const image31b7b66960ce6209 = {
     "fantasy-tag/android",
     "fantasy-tag/bioluminescence",
   ],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image5afd54d8bdc7ef89 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/lying-down", "pose-tag/cowgirl", "pose-tag/sex", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

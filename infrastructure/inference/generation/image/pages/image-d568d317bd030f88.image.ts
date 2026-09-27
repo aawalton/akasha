@@ -24,4 +24,5 @@ export const imageD568d317bd030f88 = {
   ],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-up", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/harness"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

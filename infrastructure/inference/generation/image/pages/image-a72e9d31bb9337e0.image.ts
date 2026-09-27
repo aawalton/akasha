@@ -9,4 +9,5 @@ export const imageA72e9d31bb9337e0 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/candlelight"],
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

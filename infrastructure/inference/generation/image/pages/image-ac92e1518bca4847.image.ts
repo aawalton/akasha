@@ -10,4 +10,5 @@ export const imageAc92e1518bca4847 = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

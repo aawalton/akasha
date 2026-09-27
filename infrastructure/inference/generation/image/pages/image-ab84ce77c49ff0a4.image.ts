@@ -20,4 +20,5 @@ export const imageAb84ce77c49ff0a4 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/dock", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

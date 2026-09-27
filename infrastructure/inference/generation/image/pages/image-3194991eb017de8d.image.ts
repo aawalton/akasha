@@ -20,4 +20,5 @@ export const image3194991eb017de8d = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/purple-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image46f6cc7476ca7055 = {
   poseTags: ["pose-tag/reclining", "pose-tag/top-down-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/sheet"],
   fantasyTags: ["fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

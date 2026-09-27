@@ -15,4 +15,5 @@ export const image3d527ecc70dae6c8 = {
     "wardrobe-tag/gloves",
     "wardrobe-tag/belt",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

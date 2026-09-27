@@ -15,4 +15,5 @@ export const image52fff657dde7a49b = {
     "pose-tag/legs-up",
   ],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

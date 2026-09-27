@@ -9,4 +9,5 @@ export const imageB7e85be951a1b957 = {
   settingTags: ["setting-tag/night", "setting-tag/pool", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

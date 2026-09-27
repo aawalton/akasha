@@ -19,4 +19,5 @@ export const image452c41882b4d38cd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field"],
   poseTags: ["pose-tag/leaning", "pose-tag/eyes-closed", "pose-tag/looking-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

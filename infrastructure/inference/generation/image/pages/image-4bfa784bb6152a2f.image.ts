@@ -14,4 +14,5 @@ export const image4bfa784bb6152a2f = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/tube-top", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

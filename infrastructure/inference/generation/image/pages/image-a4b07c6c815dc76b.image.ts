@@ -20,4 +20,5 @@ export const imageA4b07c6c815dc76b = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

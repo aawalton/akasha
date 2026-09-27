@@ -20,4 +20,5 @@ export const imageAed67a01affd1bce = {
   settingTags: ["setting-tag/dock", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/shorts", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

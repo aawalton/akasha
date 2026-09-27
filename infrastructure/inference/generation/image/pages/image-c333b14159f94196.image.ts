@@ -11,4 +11,5 @@ export const imageC333b14159f94196 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/rain"],
   poseTags: ["pose-tag/looking-away", "pose-tag/profile", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

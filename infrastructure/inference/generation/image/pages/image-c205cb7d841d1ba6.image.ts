@@ -30,4 +30,5 @@ export const imageC205cb7d841d1ba6 = {
     "pose-tag/looking-back",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

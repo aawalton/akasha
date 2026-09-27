@@ -19,4 +19,5 @@ export const imageF94dcfbfde4487ee = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/straddling", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

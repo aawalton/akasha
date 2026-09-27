@@ -21,4 +21,5 @@ export const image7c6fef7d48853760 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/off-shoulder"],
   fantasyTags: ["fantasy-tag/surreal", "fantasy-tag/cosmic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

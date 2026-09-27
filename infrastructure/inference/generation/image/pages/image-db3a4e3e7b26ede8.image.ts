@@ -14,4 +14,5 @@ export const imageDb3a4e3e7b26ede8 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/dress", "wardrobe-tag/sundress"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

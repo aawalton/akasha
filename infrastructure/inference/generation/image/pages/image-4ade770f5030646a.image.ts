@@ -9,4 +9,5 @@ export const image4ade770f5030646a = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

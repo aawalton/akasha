@@ -20,4 +20,5 @@ export const image7b8866ca726f438a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/sleepwear", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

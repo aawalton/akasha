@@ -19,4 +19,5 @@ export const image8f520c63885d0eff = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

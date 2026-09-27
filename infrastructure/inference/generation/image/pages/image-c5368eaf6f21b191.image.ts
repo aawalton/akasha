@@ -9,4 +9,5 @@ export const imageC5368eaf6f21b191 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-at-viewer", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/sleepwear"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

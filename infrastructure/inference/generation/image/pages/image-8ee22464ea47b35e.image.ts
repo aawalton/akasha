@@ -20,4 +20,5 @@ export const image8ee22464ea47b35e = {
   poseTags: ["pose-tag/profile", "pose-tag/close-up", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
 } as const satisfies Image

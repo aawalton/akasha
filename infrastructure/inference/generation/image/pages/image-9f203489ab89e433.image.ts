@@ -19,4 +19,5 @@ export const image9f203489ab89e433 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/shower"],
   poseTags: ["pose-tag/looking-up", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

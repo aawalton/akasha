@@ -10,4 +10,5 @@ export const imageF2379d00de3b3fd9 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-clasped"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/choker", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

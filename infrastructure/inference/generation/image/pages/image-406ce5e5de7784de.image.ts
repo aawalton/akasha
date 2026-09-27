@@ -15,4 +15,5 @@ export const image406ce5e5de7784de = {
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

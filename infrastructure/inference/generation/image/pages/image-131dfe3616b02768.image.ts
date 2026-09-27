@@ -21,4 +21,5 @@ export const image131dfe3616b02768 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/back-view", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/leggings"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

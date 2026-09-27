@@ -10,4 +10,5 @@ export const image0825c943c3e74be1 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/profile", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/hologram", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

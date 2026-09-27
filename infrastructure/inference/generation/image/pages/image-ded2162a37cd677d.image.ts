@@ -9,4 +9,5 @@ export const imageDed2162a37cd677d = {
   settingTags: ["setting-tag/abstract-background"],
   poseTags: ["pose-tag/reclining", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

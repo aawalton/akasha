@@ -19,4 +19,5 @@ export const image7926411277917c0d = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city", "setting-tag/city-street"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/strapless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

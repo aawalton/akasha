@@ -10,4 +10,5 @@ export const image39136df1078816d1 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/high-neck", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/sci-fi", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

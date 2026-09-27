@@ -20,4 +20,5 @@ export const image019da940e09504a9 = {
   settingTags: ["setting-tag/city-street", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/reaching", "pose-tag/running", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/scarf", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

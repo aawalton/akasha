@@ -9,4 +9,5 @@ export const image21a90dff492d36c4 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/water", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

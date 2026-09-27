@@ -19,4 +19,5 @@ export const image8712ecac220c48b9 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/topless", "wardrobe-tag/suit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

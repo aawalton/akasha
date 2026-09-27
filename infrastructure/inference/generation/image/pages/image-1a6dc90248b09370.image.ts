@@ -9,4 +9,5 @@ export const image1a6dc90248b09370 = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

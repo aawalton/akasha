@@ -19,4 +19,5 @@ export const imageA033520991364922 = {
     "wardrobe-tag/bare-shoulders",
     "wardrobe-tag/hair-accessory",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

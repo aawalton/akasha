@@ -20,4 +20,5 @@ export const image2c07325185a3e353 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/dock", "setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

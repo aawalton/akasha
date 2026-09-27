@@ -17,4 +17,5 @@ export const imageCbc23b7f15d943c7 = {
     "wardrobe-tag/nude",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

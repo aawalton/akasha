@@ -24,4 +24,5 @@ export const image98c4acba25bac5ad = {
   ],
   poseTags: ["pose-tag/walking", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

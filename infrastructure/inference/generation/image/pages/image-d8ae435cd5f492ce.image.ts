@@ -9,4 +9,5 @@ export const imageD8ae435cd5f492ce = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/living-room"],
   poseTags: ["pose-tag/lying-down", "pose-tag/straddling", "pose-tag/kissing", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

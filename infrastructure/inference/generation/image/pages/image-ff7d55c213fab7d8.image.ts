@@ -16,4 +16,5 @@ export const imageFf7d55c213fab7d8 = {
     "wardrobe-tag/high-neck",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

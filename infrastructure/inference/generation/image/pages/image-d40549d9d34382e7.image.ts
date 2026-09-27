@@ -22,4 +22,5 @@ export const imageD40549d9d34382e7 = {
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

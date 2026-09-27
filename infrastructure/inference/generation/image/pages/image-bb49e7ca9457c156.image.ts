@@ -30,4 +30,5 @@ export const imageBb49e7ca9457c156 = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/vest", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

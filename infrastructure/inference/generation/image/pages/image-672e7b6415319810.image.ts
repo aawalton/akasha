@@ -20,4 +20,5 @@ export const image672e7b6415319810 = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/lake"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/wet", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageF4ac0c125fbf041a = {
   poseTags: ["pose-tag/walking", "pose-tag/back-view", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

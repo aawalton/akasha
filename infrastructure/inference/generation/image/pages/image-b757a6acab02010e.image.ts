@@ -10,4 +10,5 @@ export const imageB757a6acab02010e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/corset", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

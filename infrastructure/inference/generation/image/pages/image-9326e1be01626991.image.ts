@@ -19,4 +19,5 @@ export const image9326e1be01626991 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace", "wardrobe-tag/camisole"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

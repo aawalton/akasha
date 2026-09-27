@@ -9,4 +9,5 @@ export const imageE2668b9638001136 = {
   settingTags: ["setting-tag/indoor", "setting-tag/workshop"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

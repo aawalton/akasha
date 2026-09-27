@@ -31,4 +31,5 @@ export const image510b084d0cb690f6 = {
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/tunic"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

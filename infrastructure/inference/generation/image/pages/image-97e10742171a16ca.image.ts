@@ -19,4 +19,5 @@ export const image97e10742171a16ca = {
   settingTags: ["setting-tag/indoor", "setting-tag/party", "setting-tag/kitchen"],
   poseTags: ["pose-tag/laughing", "pose-tag/leaning-forward", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/headband", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

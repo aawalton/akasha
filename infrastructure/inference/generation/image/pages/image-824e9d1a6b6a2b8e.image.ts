@@ -19,4 +19,5 @@ export const image824e9d1a6b6a2b8e = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

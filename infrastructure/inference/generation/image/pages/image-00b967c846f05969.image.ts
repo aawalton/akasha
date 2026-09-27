@@ -9,4 +9,5 @@ export const image00b967c846f05969 = {
   relationshipLevel: "closeness-level/level-3",
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageD7ae0ab76c7e9679 = {
   settingTags: ["setting-tag/rooftop", "setting-tag/night", "setting-tag/rain", "setting-tag/city"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts", "wardrobe-tag/boots"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

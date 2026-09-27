@@ -20,4 +20,5 @@ export const imageAecdc47f8931a41f = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/leaning", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

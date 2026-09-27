@@ -9,4 +9,5 @@ export const imageBe7d6669a6eab1c0 = {
   settingTags: ["setting-tag/spa", "setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/back-view", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/latina"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image3900127d851e91df = {
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/skirt", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

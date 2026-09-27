@@ -11,4 +11,5 @@ export const imageD434c57c9016eab1 = {
   poseTags: ["pose-tag/bent-over", "pose-tag/undressing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/pants-down", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

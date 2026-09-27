@@ -10,4 +10,5 @@ export const image58c3fbf5c75c2a2d = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/suit", "wardrobe-tag/jacket", "wardrobe-tag/deep-v-neck"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

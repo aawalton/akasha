@@ -10,4 +10,5 @@ export const image50e413c70f1f226e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/skirt", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/surreal", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

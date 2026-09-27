@@ -9,4 +9,5 @@ export const imageD3535e211ead4c40 = {
   settingTags: ["setting-tag/hallway", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/standing", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/lingerie", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
 } as const satisfies Image

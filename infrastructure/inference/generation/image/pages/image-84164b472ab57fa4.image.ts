@@ -20,4 +20,5 @@ export const image84164b472ab57fa4 = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/outdoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

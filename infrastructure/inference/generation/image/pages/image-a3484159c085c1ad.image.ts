@@ -19,4 +19,5 @@ export const imageA3484159c085c1ad = {
   settingTags: ["setting-tag/indoor", "setting-tag/study", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

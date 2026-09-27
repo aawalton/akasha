@@ -20,4 +20,5 @@ export const imageCec8ebc6c91a473b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/face-to-face", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

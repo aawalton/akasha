@@ -20,4 +20,5 @@ export const imageC12ddae07e0e255e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/bioluminescence", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

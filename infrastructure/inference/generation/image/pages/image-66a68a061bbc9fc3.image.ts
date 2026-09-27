@@ -9,4 +9,5 @@ export const image66a68a061bbc9fc3 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/sex", "pose-tag/lying-down", "pose-tag/standing", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

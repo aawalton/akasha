@@ -15,4 +15,5 @@ export const image854b6328c1d5889c = {
     "pose-tag/eyes-closed",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

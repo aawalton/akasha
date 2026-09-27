@@ -9,4 +9,5 @@ export const image1bea69f503a669fd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/bedroom"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

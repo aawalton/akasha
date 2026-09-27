@@ -20,4 +20,5 @@ export const image4801b87772d1e958 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

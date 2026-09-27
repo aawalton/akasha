@@ -17,4 +17,5 @@ export const imageA48aee1152dafa0d = {
     "wardrobe-tag/jewelry",
   ],
   fantasyTags: ["fantasy-tag/weapons", "fantasy-tag/magic", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

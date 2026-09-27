@@ -10,4 +10,5 @@ export const image52018ee167f1d5df = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/bathtub", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

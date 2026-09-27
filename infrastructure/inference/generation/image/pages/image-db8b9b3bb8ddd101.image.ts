@@ -14,4 +14,5 @@ export const imageDb8b9b3bb8ddd101 = {
     "pose-tag/oral-sex",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

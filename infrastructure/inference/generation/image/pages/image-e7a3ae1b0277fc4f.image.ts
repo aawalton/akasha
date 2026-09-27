@@ -9,4 +9,5 @@ export const imageE7a3ae1b0277fc4f = {
   settingTags: ["setting-tag/shower", "setting-tag/bathroom"],
   poseTags: ["pose-tag/legs-spread", "pose-tag/looking-at-viewer", "pose-tag/mouth-open"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

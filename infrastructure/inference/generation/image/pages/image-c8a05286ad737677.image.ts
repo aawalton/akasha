@@ -9,4 +9,5 @@ export const imageC8a05286ad737677 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/silk", "wardrobe-tag/qipao"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

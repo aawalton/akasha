@@ -20,4 +20,5 @@ export const image5acc98c2dc6f1eee = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/curled-up", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

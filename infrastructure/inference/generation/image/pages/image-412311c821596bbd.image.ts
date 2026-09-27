@@ -19,4 +19,5 @@ export const image412311c821596bbd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street", "setting-tag/market"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cloak"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageE8b0b4f304de35c0 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/sleepwear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

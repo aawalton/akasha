@@ -15,4 +15,5 @@ export const imageF934e737da42ec8b = {
   poseTags: ["pose-tag/looking-back", "pose-tag/reading", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/backless", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

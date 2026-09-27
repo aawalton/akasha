@@ -10,4 +10,5 @@ export const image874a017cee3153f8 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-crossed"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/blue-skin"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

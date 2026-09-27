@@ -9,4 +9,5 @@ export const image0d15a74a10b1fa58 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-down", "pose-tag/arms-raised", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

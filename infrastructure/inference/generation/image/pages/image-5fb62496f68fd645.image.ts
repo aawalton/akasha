@@ -25,4 +25,5 @@ export const image5fb62496f68fd645 = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

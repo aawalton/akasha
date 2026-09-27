@@ -9,4 +9,5 @@ export const image3dc64cfab6d24f43 = {
   settingTags: ["setting-tag/shower", "setting-tag/bathroom"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/hand-on-thigh"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

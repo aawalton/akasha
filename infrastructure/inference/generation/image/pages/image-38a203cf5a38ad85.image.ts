@@ -19,4 +19,5 @@ export const image38a203cf5a38ad85 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/desert", "setting-tag/rocks"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-hip", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/choker", "wardrobe-tag/belt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

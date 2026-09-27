@@ -21,4 +21,5 @@ export const imageAb94736232961e71 = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bikini", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

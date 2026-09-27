@@ -9,4 +9,5 @@ export const imageAc53733dab834e32 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/campfire"],
   poseTags: ["pose-tag/cross-legged", "pose-tag/eating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

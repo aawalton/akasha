@@ -10,4 +10,5 @@ export const imageF567ed051b2cb3bb = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/restaurant"],
   poseTags: ["pose-tag/standing", "pose-tag/eating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/apron"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

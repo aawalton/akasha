@@ -19,4 +19,5 @@ export const imageFf7ad4582ccd6fb1 = {
   settingTags: ["setting-tag/market", "setting-tag/outdoor", "setting-tag/city-street"],
   poseTags: ["pose-tag/standing", "pose-tag/working", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/shirt", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

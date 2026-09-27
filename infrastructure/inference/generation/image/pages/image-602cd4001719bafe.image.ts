@@ -15,4 +15,5 @@ export const image602cd4001719bafe = {
   settingTags: ["setting-tag/city-street", "setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/jacket", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

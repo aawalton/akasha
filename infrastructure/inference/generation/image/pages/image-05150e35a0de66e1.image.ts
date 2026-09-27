@@ -20,4 +20,5 @@ export const image05150e35a0de66e1 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/partial-undress", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/fairy"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

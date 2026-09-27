@@ -15,4 +15,5 @@ export const imageFda6c3166f1e6ddc = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/robe"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

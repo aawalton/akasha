@@ -24,4 +24,5 @@ export const imageDb2a2a02dbc157a4 = {
     "wardrobe-tag/corset",
     "wardrobe-tag/strapless",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image5aaa6de8f9cf9a69 = {
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

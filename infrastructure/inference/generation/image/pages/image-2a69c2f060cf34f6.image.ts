@@ -9,4 +9,5 @@ export const image2a69c2f060cf34f6 = {
   settingTags: ["setting-tag/sky", "setting-tag/mountains", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/high-neck"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

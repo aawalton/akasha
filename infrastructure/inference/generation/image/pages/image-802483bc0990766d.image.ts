@@ -10,4 +10,5 @@ export const image802483bc0990766d = {
   poseTags: ["pose-tag/kneeling", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/kimono", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/fox-ears", "fantasy-tag/kitsune"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageFebe85bb2b75dc5c = {
   poseTags: ["pose-tag/leaning", "pose-tag/reaching", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/cosmic", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

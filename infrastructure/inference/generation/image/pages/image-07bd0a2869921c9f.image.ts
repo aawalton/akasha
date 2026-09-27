@@ -21,4 +21,5 @@ export const image07bd0a2869921c9f = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image84b1fafbbb32ea18 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/ocean"],
   poseTags: ["pose-tag/straddling", "pose-tag/lying-down", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

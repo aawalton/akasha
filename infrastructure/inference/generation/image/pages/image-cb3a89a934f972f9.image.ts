@@ -31,4 +31,5 @@ export const imageCb3a89a934f972f9 = {
   ],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/leather", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

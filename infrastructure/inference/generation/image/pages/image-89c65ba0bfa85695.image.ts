@@ -21,4 +21,5 @@ export const image89c65ba0bfa85695 = {
   poseTags: ["pose-tag/sitting", "pose-tag/curled-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

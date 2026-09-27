@@ -10,4 +10,5 @@ export const image95fe61439f08e9c0 = {
   settingTags: ["setting-tag/snow", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/coat"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

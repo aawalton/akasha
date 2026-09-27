@@ -14,4 +14,5 @@ export const image8b92e1812f1a370d = {
   ],
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/tank-top", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

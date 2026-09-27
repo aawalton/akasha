@@ -10,4 +10,5 @@ export const imageDa01f2c02157cbaf = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/pants-down"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

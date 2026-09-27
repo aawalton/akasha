@@ -20,4 +20,5 @@ export const imageCb688ef104aefaaa = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

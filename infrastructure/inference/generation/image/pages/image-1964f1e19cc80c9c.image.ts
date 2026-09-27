@@ -10,4 +10,5 @@ export const image1964f1e19cc80c9c = {
   settingTags: ["setting-tag/library", "setting-tag/indoor", "setting-tag/hallway"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

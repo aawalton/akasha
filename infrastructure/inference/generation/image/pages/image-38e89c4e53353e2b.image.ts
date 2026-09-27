@@ -19,4 +19,5 @@ export const image38e89c4e53353e2b = {
   settingTags: ["setting-tag/forest", "setting-tag/nature", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/walking"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/backpack"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image0de5fbf0dc392c8c = {
   settingTags: ["setting-tag/library"],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

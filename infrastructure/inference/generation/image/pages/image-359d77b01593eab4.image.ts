@@ -24,4 +24,5 @@ export const image359d77b01593eab4 = {
     "pose-tag/embracing",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

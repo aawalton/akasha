@@ -15,4 +15,5 @@ export const image0735e1789517b7c8 = {
     "wardrobe-tag/gloves",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

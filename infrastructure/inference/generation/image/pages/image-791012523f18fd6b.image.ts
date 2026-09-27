@@ -9,4 +9,5 @@ export const image791012523f18fd6b = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/outdoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

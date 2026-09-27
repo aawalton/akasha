@@ -10,4 +10,5 @@ export const image9776aba85d21819e = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-down", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

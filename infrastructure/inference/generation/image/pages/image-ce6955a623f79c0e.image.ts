@@ -19,4 +19,5 @@ export const imageCe6955a623f79c0e = {
     "pose-tag/kneeling",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/qipao", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

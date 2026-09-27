@@ -10,4 +10,5 @@ export const imageB73b240065a8cf0c = {
   poseTags: ["pose-tag/all-fours", "pose-tag/straddling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/wig", "wardrobe-tag/garter-belt"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

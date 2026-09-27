@@ -10,4 +10,5 @@ export const image4199e55d72472e59 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/silk", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

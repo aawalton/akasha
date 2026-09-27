@@ -20,4 +20,5 @@ export const imageDf8b509eede2e525 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

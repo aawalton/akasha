@@ -10,4 +10,5 @@ export const imageC8082a9870e23938 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/campfire"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/fur"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

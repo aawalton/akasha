@@ -20,4 +20,5 @@ export const imageC29c7aa9c310fbe3 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/angel", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

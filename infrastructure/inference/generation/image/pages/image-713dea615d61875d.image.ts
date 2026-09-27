@@ -9,4 +9,5 @@ export const image713dea615d61875d = {
   settingTags: ["setting-tag/snow", "setting-tag/mountains", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

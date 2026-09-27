@@ -25,4 +25,5 @@ export const imageCdf5f4d5f69492c0 = {
     "pose-tag/curled-up",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/loungewear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

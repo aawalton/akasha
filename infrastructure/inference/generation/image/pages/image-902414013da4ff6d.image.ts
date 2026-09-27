@@ -11,4 +11,5 @@ export const image902414013da4ff6d = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/suit", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/bunny-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

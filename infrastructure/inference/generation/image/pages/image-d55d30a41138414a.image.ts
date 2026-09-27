@@ -9,4 +9,5 @@ export const imageD55d30a41138414a = {
   settingTags: ["setting-tag/mountains", "setting-tag/outdoor", "setting-tag/rocks"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/squatting"],
   wardrobeTags: ["wardrobe-tag/vest", "wardrobe-tag/pants", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

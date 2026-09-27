@@ -9,4 +9,5 @@ export const image9a1da95aa9219783 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-in-mirror"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jeans", "wardrobe-tag/nipples-visible"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

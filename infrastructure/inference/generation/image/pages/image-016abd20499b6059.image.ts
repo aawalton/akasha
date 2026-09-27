@@ -9,4 +9,5 @@ export const image016abd20499b6059 = {
   settingTags: ["setting-tag/workshop"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

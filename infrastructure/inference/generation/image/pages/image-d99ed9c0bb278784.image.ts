@@ -10,4 +10,5 @@ export const imageD99ed9c0bb278784 = {
   poseTags: ["pose-tag/casting-magic", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/leather", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic", "fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

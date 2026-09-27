@@ -9,4 +9,5 @@ export const image3adbe9e693eb2825 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-down", "pose-tag/top-down-view", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image93bde1a97f89acd8 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/bare-shoulders", "wardrobe-tag/backless"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/nature-spirit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

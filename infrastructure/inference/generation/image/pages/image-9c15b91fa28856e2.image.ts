@@ -19,4 +19,5 @@ export const image9c15b91fa28856e2 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/window"],
   poseTags: ["pose-tag/stretching", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

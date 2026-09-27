@@ -14,4 +14,5 @@ export const imageA0859737974b650d = {
     "pose-tag/full-body",
   ],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/sleeveless", "wardrobe-tag/high-slit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

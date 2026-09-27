@@ -20,4 +20,5 @@ export const imageC2568178ab3642c7 = {
   poseTags: ["pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

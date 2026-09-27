@@ -10,4 +10,5 @@ export const image58fd866822cbd2ff = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor"],
   poseTags: ["pose-tag/eating", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/backless", "wardrobe-tag/cleavage"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

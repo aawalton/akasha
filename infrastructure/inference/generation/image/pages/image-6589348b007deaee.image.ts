@@ -9,4 +9,5 @@ export const image6589348b007deaee = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -23,4 +23,5 @@ export const imageD0c6b27001abc0e1 = {
   ],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

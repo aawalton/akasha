@@ -9,4 +9,5 @@ export const imageC0f5467e86860d4d = {
   settingTags: ["setting-tag/outdoor", "setting-tag/castle"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const imageF41a7d962034c552 = {
     "pose-tag/arms-raised",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

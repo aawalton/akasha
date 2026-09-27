@@ -21,4 +21,5 @@ export const image1373e20ed5db65cb = {
     "pose-tag/standing",
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

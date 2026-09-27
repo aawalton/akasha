@@ -15,4 +15,5 @@ export const imageF34bbe9fb97c770e = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/robe", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

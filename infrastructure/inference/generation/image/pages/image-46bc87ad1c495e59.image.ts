@@ -9,4 +9,5 @@ export const image46bc87ad1c495e59 = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/athletic-wear"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

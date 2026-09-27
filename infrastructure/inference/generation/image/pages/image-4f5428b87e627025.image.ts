@@ -10,4 +10,5 @@ export const image4f5428b87e627025 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

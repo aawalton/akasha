@@ -20,4 +20,5 @@ export const image6011a53f78801dfc = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

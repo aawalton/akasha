@@ -9,4 +9,5 @@ export const image17821442bc3f8ae7 = {
   settingTags: ["setting-tag/workshop", "setting-tag/office"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/glasses"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

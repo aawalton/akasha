@@ -9,4 +9,5 @@ export const image8cf54492dc55b39e = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/luxury"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

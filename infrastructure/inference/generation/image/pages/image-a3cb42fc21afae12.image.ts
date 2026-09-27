@@ -10,4 +10,5 @@ export const imageA3cb42fc21afae12 = {
   settingTags: ["setting-tag/ruins", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/gloves", "wardrobe-tag/partial-undress", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/latina"],
 } as const satisfies Image

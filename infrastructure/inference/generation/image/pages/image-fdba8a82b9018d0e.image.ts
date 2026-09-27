@@ -26,4 +26,5 @@ export const imageFdba8a82b9018d0e = {
   ],
   wardrobeTags: ["wardrobe-tag/sheer-robe", "wardrobe-tag/sheer"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

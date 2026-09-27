@@ -19,4 +19,5 @@ export const image27369b6812b39afe = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/profile", "pose-tag/face-to-face", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
 } as const satisfies Image

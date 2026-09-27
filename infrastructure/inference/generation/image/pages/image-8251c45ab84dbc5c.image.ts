@@ -15,4 +15,5 @@ export const image8251c45ab84dbc5c = {
     "pose-tag/front-view",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/long-sleeves", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageC9964234f135b3b6 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rocks", "setting-tag/nature"],
   poseTags: ["pose-tag/squatting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const imageAf329651759dca33 = {
   settingTags: ["setting-tag/library", "setting-tag/window", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-drink", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageD026d7bac5772ddd = {
   settingTags: ["setting-tag/office", "setting-tag/city", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/hands-clasped", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/shirt", "wardrobe-tag/suit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

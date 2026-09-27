@@ -19,4 +19,5 @@ export const image61252f2e8b1750f7 = {
   settingTags: ["setting-tag/bar", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-drink", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/vest", "wardrobe-tag/shirt", "wardrobe-tag/suit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

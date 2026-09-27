@@ -9,4 +9,5 @@ export const image498bf2704111635d = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city", "setting-tag/city-street"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up", "pose-tag/serious-expression"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

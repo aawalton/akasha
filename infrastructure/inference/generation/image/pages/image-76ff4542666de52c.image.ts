@@ -9,4 +9,5 @@ export const image76ff4542666de52c = {
   settingTags: ["setting-tag/indoor", "setting-tag/hallway", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/kissing", "pose-tag/leaning", "pose-tag/embracing", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless", "wardrobe-tag/robe"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

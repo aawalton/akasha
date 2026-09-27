@@ -15,4 +15,5 @@ export const image8105e06772c7004e = {
     "pose-tag/looking-back",
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/backless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

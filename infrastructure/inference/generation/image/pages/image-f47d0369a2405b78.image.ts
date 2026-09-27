@@ -20,4 +20,5 @@ export const imageF47d0369a2405b78 = {
     "fantasy-tag/demon",
     "fantasy-tag/elf-ears",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

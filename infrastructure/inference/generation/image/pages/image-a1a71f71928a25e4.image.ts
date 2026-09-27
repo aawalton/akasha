@@ -10,4 +10,5 @@ export const imageA1a71f71928a25e4 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/daytime"],
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/shorts", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

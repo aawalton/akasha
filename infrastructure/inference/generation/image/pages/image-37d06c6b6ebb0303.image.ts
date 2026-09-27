@@ -10,4 +10,5 @@ export const image37d06c6b6ebb0303 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk", "wardrobe-tag/high-slit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

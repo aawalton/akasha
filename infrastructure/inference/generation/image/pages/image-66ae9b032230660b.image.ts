@@ -25,4 +25,5 @@ export const image66ae9b032230660b = {
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/blue-skin"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

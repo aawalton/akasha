@@ -24,4 +24,5 @@ export const imageB4776fa6c0c523a6 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/hat", "wardrobe-tag/hoodie", "wardrobe-tag/coat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image55513fe1da0abff6 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/legs-up", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

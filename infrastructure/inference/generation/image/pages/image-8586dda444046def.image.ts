@@ -9,4 +9,5 @@ export const image8586dda444046def = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/leaning-forward", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/qipao"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

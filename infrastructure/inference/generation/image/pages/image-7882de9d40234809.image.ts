@@ -17,4 +17,5 @@ export const image7882de9d40234809 = {
   poseTags: ["pose-tag/selfie", "pose-tag/reaching", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/t-shirt", "wardrobe-tag/backpack"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -30,4 +30,5 @@ export const image97cede98e2ff40ae = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/hat", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

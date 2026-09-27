@@ -25,4 +25,5 @@ export const imageFf98d21700ae42b0 = {
     "wardrobe-tag/long-sleeves",
   ],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image8a01a97958cff66b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

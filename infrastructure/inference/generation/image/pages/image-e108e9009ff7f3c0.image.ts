@@ -15,4 +15,5 @@ export const imageE108e9009ff7f3c0 = {
   ],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/barefoot", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

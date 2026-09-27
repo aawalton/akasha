@@ -20,4 +20,5 @@ export const image3d90fc56bceb5f79 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/boat", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

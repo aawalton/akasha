@@ -19,4 +19,5 @@ export const imageEd791077fd81c1b2 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

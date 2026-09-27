@@ -9,4 +9,5 @@ export const image9add68749b552015 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

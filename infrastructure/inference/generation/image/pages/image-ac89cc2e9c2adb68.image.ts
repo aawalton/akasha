@@ -9,4 +9,5 @@ export const imageAc89cc2e9c2adb68 = {
   settingTags: ["setting-tag/water", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/hands-behind-head", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

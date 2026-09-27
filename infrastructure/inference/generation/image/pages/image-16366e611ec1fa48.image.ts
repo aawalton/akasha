@@ -9,4 +9,5 @@ export const image16366e611ec1fa48 = {
   settingTags: ["setting-tag/hallway", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/leaning", "pose-tag/standing", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/topless", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/mixed"],
 } as const satisfies Image

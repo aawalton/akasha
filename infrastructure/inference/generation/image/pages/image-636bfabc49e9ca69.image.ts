@@ -25,4 +25,5 @@ export const image636bfabc49e9ca69 = {
     "fantasy-tag/nature-spirit",
     "fantasy-tag/bioluminescence",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

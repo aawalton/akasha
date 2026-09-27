@@ -20,4 +20,5 @@ export const imageDd920052ce902e04 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/autumn", "setting-tag/forest"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

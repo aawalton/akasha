@@ -9,4 +9,5 @@ export const image7081c5b4f468ba9d = {
   settingTags: ["setting-tag/indoor", "setting-tag/dark-background"],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

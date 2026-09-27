@@ -15,4 +15,5 @@ export const image40e0249805c1ba17 = {
   settingTags: ["setting-tag/museum", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/upper-body", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

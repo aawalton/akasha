@@ -21,4 +21,5 @@ export const imageF34c6ccdf5cef147 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/topless", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/monster-girl"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

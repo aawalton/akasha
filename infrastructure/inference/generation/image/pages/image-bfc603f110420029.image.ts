@@ -19,4 +19,5 @@ export const imageBfc603f110420029 = {
   settingTags: ["setting-tag/park", "setting-tag/outdoor", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/profile", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

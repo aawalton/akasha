@@ -20,4 +20,5 @@ export const image3bf35771eb31056a = {
   settingTags: ["setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

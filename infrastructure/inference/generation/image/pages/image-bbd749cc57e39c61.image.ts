@@ -23,4 +23,5 @@ export const imageBbd749cc57e39c61 = {
   ],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

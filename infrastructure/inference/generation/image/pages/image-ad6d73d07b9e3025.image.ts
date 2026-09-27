@@ -19,4 +19,5 @@ export const imageAd6d73d07b9e3025 = {
     "pose-tag/arms-raised",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/wet", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

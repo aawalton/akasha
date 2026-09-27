@@ -25,4 +25,5 @@ export const imageFf4b745e5efc6258 = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

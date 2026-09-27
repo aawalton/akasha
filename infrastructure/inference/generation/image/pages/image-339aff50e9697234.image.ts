@@ -9,4 +9,5 @@ export const image339aff50e9697234 = {
   settingTags: ["setting-tag/indoor", "setting-tag/tatami-room", "setting-tag/home"],
   poseTags: ["pose-tag/reclining", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

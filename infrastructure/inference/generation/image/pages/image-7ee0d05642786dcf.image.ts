@@ -25,4 +25,5 @@ export const image7ee0d05642786dcf = {
     "wardrobe-tag/tiara",
   ],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

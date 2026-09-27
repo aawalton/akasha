@@ -25,4 +25,5 @@ export const imageC6a19ca523910102 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/stretching", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/leggings", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

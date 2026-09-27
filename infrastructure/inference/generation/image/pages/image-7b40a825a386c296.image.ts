@@ -20,4 +20,5 @@ export const image7b40a825a386c296 = {
   poseTags: ["pose-tag/sitting", "pose-tag/writing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

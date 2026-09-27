@@ -20,4 +20,5 @@ export const image687980f306915d05 = {
   poseTags: ["pose-tag/kissing", "pose-tag/sitting", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

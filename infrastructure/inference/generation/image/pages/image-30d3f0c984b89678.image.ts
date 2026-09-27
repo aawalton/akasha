@@ -16,4 +16,5 @@ export const image30d3f0c984b89678 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/animal-ears"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

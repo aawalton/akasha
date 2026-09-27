@@ -21,4 +21,5 @@ export const image578a1d782cce71fd = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/tail", "fantasy-tag/mermaid", "fantasy-tag/scales"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

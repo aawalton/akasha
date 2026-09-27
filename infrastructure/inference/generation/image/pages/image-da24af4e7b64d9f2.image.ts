@@ -9,4 +9,5 @@ export const imageDa24af4e7b64d9f2 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/campfire"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-thigh", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

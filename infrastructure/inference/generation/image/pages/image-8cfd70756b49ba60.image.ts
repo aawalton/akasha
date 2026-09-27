@@ -9,4 +9,5 @@ export const image8cfd70756b49ba60 = {
   settingTags: ["setting-tag/stage"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-up", "pose-tag/mouth-open"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

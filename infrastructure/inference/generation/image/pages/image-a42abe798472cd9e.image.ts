@@ -9,4 +9,5 @@ export const imageA42abe798472cd9e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/tank-top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

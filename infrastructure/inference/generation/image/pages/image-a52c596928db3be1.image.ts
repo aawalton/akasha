@@ -19,4 +19,5 @@ export const imageA52c596928db3be1 = {
   settingTags: ["setting-tag/underwater", "setting-tag/ocean", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   fantasyTags: ["fantasy-tag/mermaid", "fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

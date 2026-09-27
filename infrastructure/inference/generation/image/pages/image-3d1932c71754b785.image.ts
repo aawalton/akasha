@@ -9,4 +9,5 @@ export const image3d1932c71754b785 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/bare-shoulders", "wardrobe-tag/backless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

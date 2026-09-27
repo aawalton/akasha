@@ -20,4 +20,5 @@ export const imageC97cfa670e83bb0a = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/sitting", "pose-tag/chatting", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

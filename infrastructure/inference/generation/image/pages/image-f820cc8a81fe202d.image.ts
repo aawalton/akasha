@@ -15,4 +15,5 @@ export const imageF820cc8a81fe202d = {
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/lingerie", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

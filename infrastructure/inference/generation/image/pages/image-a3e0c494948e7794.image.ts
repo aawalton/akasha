@@ -20,4 +20,5 @@ export const imageA3e0c494948e7794 = {
     "pose-tag/reading",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/strapless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

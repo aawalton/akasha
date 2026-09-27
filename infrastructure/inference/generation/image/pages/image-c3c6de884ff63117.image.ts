@@ -14,4 +14,5 @@ export const imageC3c6de884ff63117 = {
     "pose-tag/mouth-open",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

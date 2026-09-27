@@ -10,4 +10,5 @@ export const image306eb8cf0ae8c262 = {
   poseTags: ["pose-tag/legs-up", "pose-tag/hand-on-thigh", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

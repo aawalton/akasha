@@ -10,4 +10,5 @@ export const image1bb581aac6518de7 = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/fur", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/anthro", "fantasy-tag/animal-ears", "fantasy-tag/tail"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image5def2c3783e928a8 = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/snow", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

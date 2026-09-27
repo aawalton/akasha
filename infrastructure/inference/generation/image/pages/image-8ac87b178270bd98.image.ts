@@ -10,4 +10,5 @@ export const image8ac87b178270bd98 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/suit", "wardrobe-tag/tights", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/fire"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

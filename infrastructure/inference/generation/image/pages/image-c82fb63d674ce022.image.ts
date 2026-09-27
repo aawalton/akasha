@@ -9,4 +9,5 @@ export const imageC82fb63d674ce022 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/hotel"],
   poseTags: ["pose-tag/legs-spread", "pose-tag/sex", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

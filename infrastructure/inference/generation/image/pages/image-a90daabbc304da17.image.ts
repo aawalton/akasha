@@ -9,4 +9,5 @@ export const imageA90daabbc304da17 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/ocean"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/mixed"],
 } as const satisfies Image

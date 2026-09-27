@@ -16,4 +16,5 @@ export const imageBb26fe821e48726d = {
     "fantasy-tag/glowing-eyes",
     "fantasy-tag/android",
   ],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

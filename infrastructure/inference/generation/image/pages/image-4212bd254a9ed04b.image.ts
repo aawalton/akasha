@@ -17,4 +17,5 @@ export const image4212bd254a9ed04b = {
   poseTags: ["pose-tag/sitting", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

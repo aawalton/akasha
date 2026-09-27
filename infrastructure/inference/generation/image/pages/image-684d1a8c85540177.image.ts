@@ -10,4 +10,5 @@ export const image684d1a8c85540177 = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk", "wardrobe-tag/choker"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

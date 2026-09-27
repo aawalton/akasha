@@ -20,4 +20,5 @@ export const imageC10d5fbca232c4e6 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/office"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

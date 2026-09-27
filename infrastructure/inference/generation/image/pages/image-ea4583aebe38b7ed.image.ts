@@ -24,4 +24,5 @@ export const imageEa4583aebe38b7ed = {
     "pose-tag/front-view",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/skirt", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

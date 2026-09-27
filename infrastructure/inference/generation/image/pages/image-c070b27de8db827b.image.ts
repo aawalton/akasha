@@ -15,4 +15,5 @@ export const imageC070b27de8db827b = {
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/pants"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

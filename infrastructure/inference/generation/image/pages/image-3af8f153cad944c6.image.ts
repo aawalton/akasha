@@ -11,4 +11,5 @@ export const image3af8f153cad944c6 = {
   poseTags: ["pose-tag/looking-down", "pose-tag/hands-clasped", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/sheer", "wardrobe-tag/robe"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

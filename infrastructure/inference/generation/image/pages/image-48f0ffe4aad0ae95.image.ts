@@ -9,4 +9,5 @@ export const image48f0ffe4aad0ae95 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/red-string"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

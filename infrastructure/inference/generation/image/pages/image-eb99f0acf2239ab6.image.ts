@@ -10,4 +10,5 @@ export const imageEb99f0acf2239ab6 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/head-tilt", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/sheet", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/unusual-eyes"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

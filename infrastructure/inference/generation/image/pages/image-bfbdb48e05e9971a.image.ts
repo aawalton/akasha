@@ -20,4 +20,5 @@ export const imageBfbdb48e05e9971a = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/fog"],
   poseTags: ["pose-tag/walking", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/belt", "wardrobe-tag/boots"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

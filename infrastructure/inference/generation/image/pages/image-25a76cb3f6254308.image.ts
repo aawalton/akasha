@@ -11,4 +11,5 @@ export const image25a76cb3f6254308 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/bodysuit", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

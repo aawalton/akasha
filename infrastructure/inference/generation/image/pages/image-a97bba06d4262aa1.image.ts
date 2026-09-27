@@ -10,4 +10,5 @@ export const imageA97bba06d4262aa1 = {
   poseTags: ["pose-tag/kissing", "pose-tag/sitting", "pose-tag/face-to-face", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/green-hair", "fantasy-tag/purple-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

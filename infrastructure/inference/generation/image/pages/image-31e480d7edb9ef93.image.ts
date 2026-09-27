@@ -20,4 +20,5 @@ export const image31e480d7edb9ef93 = {
   settingTags: ["setting-tag/hot-spring", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/kissing", "pose-tag/bathing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

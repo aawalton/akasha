@@ -9,4 +9,5 @@ export const imageEd567346510d757c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/canyon", "setting-tag/nature"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/shorts", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

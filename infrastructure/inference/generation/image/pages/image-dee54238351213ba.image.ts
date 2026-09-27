@@ -17,4 +17,5 @@ export const imageDee54238351213ba = {
   poseTags: ["pose-tag/standing", "pose-tag/walking", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/pants"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image91ca824c05ef14fc = {
   settingTags: ["setting-tag/bedroom", "setting-tag/hotel"],
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/latina"],
 } as const satisfies Image

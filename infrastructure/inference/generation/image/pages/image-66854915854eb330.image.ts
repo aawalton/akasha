@@ -21,4 +21,5 @@ export const image66854915854eb330 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/silver-hair", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

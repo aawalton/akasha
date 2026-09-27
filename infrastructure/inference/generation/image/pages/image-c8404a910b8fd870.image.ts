@@ -16,4 +16,5 @@ export const imageC8404a910b8fd870 = {
   settingTags: ["setting-tag/market", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

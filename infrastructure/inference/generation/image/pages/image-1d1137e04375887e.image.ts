@@ -10,4 +10,5 @@ export const image1d1137e04375887e = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/laughing", "pose-tag/walking"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/boots"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

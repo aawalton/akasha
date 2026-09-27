@@ -15,4 +15,5 @@ export const imageC8d658d173543abb = {
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight", "setting-tag/library"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/dress", "wardrobe-tag/slip-dress"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

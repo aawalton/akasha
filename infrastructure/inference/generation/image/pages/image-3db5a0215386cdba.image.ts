@@ -20,4 +20,5 @@ export const image3db5a0215386cdba = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/cloak"],
   fantasyTags: ["fantasy-tag/fairy-tale", "fantasy-tag/gothic"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

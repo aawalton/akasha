@@ -9,4 +9,5 @@ export const image1a43c6405e4e2993 = {
   settingTags: ["setting-tag/water", "setting-tag/night"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/writing-on-skin"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

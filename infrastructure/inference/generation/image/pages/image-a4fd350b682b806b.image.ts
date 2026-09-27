@@ -9,4 +9,5 @@ export const imageA4fd350b682b806b = {
   settingTags: ["setting-tag/snow", "setting-tag/mountains", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/armor"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

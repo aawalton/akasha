@@ -20,4 +20,5 @@ export const imageF92699dc8143fb01 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/holding-hands"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

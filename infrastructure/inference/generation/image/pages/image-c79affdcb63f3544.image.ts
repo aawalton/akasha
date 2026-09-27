@@ -9,4 +9,5 @@ export const imageC79affdcb63f3544 = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

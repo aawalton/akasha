@@ -14,4 +14,5 @@ export const image33c4f0b4a93f4073 = {
     "pose-tag/head-tilt",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image3ccf77fa2d464613 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden", "setting-tag/sunset"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image3d681280d3cf8630 = {
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/scales", "fantasy-tag/mermaid"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

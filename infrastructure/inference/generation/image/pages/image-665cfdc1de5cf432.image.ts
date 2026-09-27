@@ -20,4 +20,5 @@ export const image665cfdc1de5cf432 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/profile", "pose-tag/curled-up", "pose-tag/sleeping"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

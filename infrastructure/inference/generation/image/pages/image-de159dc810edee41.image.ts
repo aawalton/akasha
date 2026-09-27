@@ -19,4 +19,5 @@ export const imageDe159dc810edee41 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/leaning-forward"],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/robe", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

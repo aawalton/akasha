@@ -9,4 +9,5 @@ export const image200c7267ca312c03 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/nude", "wardrobe-tag/bottomless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageD691183d0c06d097 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/rocks"],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image26976c2dc539f7a3 = {
   settingTags: ["setting-tag/hallway", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/kissing", "pose-tag/leaning", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -24,4 +24,5 @@ export const image4eefb2443e65d721 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/leggings", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

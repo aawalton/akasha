@@ -9,4 +9,5 @@ export const image3b5192e5111bfdc6 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/rocks"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

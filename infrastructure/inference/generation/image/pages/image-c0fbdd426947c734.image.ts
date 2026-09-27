@@ -9,4 +9,5 @@ export const imageC0fbdd426947c734 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/campfire"],
   poseTags: ["pose-tag/sleeping", "pose-tag/reclining", "pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/headband", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

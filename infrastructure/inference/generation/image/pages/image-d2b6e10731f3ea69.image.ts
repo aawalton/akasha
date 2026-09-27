@@ -19,4 +19,5 @@ export const imageD2b6e10731f3ea69 = {
   settingTags: ["setting-tag/boat", "setting-tag/outdoor", "setting-tag/ocean"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/arms-crossed"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

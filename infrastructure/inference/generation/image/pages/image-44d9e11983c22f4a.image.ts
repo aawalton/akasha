@@ -9,4 +9,5 @@ export const image44d9e11983c22f4a = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

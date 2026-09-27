@@ -9,4 +9,5 @@ export const image796877fccfe472bd = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headband", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image6dab09b3dd01133c = {
   settingTags: ["setting-tag/water", "setting-tag/dark-background", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/sheer-dress", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

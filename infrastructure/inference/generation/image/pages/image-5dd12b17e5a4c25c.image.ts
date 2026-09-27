@@ -14,4 +14,5 @@ export const image5dd12b17e5a4c25c = {
     "wardrobe-tag/partial-undress",
   ],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/sci-fi", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

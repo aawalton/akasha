@@ -11,4 +11,5 @@ export const imageB0341c981efbd299 = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/scales", "fantasy-tag/mermaid", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

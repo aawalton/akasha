@@ -9,4 +9,5 @@ export const image0054d8b902e004da = {
   relationshipLevel: "closeness-level/level-5",
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/latina"],
 } as const satisfies Image

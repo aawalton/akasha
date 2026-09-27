@@ -19,4 +19,5 @@ export const image1510945dc1178760 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/balcony"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hand-on-face", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/sheer", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

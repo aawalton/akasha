@@ -20,4 +20,5 @@ export const image0052ae4b2e2f5e28 = {
   poseTags: ["pose-tag/kissing", "pose-tag/sitting", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

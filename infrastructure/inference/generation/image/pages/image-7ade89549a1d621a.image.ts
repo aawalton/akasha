@@ -10,4 +10,5 @@ export const image7ade89549a1d621a = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/silk"],
   fantasyTags: ["fantasy-tag/cosmic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

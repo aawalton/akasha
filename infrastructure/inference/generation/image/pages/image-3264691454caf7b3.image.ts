@@ -24,4 +24,5 @@ export const image3264691454caf7b3 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

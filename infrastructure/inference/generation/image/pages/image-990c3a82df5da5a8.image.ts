@@ -25,4 +25,5 @@ export const image990c3a82df5da5a8 = {
     "pose-tag/arms-crossed",
   ],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

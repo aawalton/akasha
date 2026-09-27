@@ -9,4 +9,5 @@ export const image4eadbc1bec396ef6 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background", "setting-tag/neon-lights"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

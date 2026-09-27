@@ -24,4 +24,5 @@ export const imageA235a5e84a20626a = {
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/bikini", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

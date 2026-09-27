@@ -20,4 +20,5 @@ export const image26fe810fd6f71720 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

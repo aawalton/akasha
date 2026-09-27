@@ -25,4 +25,5 @@ export const image18a71d29c776ec81 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/dress", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

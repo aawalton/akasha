@@ -9,4 +9,5 @@ export const image26de8c21d8270882 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/daytime"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

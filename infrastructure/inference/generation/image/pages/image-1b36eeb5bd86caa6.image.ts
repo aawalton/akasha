@@ -14,4 +14,5 @@ export const image1b36eeb5bd86caa6 = {
   ],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageA7b609de1e9c5d20 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/armor", "wardrobe-tag/stockings"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/magic", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

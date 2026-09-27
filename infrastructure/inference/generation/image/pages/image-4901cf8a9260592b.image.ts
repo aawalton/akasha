@@ -20,4 +20,5 @@ export const image4901cf8a9260592b = {
   settingTags: ["setting-tag/water", "setting-tag/outdoor", "setting-tag/lake"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

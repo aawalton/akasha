@@ -16,4 +16,5 @@ export const imageAdb2d8b21e8646bd = {
   ],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/sheer-robe", "wardrobe-tag/cleavage"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const imageE5d67823c7d0d8fd = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/dark-background"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/slip-dress", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageF62cbb00e217893f = {
   settingTags: ["setting-tag/dark-background", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/front-view", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

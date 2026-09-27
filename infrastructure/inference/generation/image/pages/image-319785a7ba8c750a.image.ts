@@ -9,4 +9,5 @@ export const image319785a7ba8c750a = {
   settingTags: ["setting-tag/bedroom", "setting-tag/hotel"],
   poseTags: ["pose-tag/kneeling", "pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

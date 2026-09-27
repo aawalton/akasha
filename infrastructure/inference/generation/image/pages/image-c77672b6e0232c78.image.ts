@@ -10,4 +10,5 @@ export const imageC77672b6e0232c78 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-weapon"],
   wardrobeTags: ["wardrobe-tag/crop-top", "wardrobe-tag/shorts", "wardrobe-tag/kimono"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

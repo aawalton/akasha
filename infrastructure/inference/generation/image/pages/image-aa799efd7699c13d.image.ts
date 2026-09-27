@@ -19,4 +19,5 @@ export const imageAa799efd7699c13d = {
   settingTags: ["setting-tag/indoor", "setting-tag/doorway", "setting-tag/bedroom"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

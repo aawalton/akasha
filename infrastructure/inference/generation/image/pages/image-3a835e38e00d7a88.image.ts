@@ -15,4 +15,5 @@ export const image3a835e38e00d7a88 = {
     "pose-tag/head-tilt",
   ],
   wardrobeTags: ["wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

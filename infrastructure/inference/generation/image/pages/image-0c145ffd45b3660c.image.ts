@@ -10,4 +10,5 @@ export const image0c145ffd45b3660c = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/shirt", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

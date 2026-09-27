@@ -9,4 +9,5 @@ export const imageDf3503e5e99ae074 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/library"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

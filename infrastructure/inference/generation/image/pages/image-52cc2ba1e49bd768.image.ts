@@ -14,4 +14,5 @@ export const image52cc2ba1e49bd768 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/hand-on-face", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless", "wardrobe-tag/qipao"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

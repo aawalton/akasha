@@ -9,4 +9,5 @@ export const imageAf103bc82708586b = {
   settingTags: ["setting-tag/bedroom", "setting-tag/window", "setting-tag/rain"],
   poseTags: ["pose-tag/kissing", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian", "ethnicity-tag/white"],
 } as const satisfies Image

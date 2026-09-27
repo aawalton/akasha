@@ -11,4 +11,5 @@ export const image8f0cee479d61cffd = {
   poseTags: ["pose-tag/bent-over", "pose-tag/looking-at-viewer", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/socks"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

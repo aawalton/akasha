@@ -20,4 +20,5 @@ export const image447fc836fc1ece23 = {
   settingTags: ["setting-tag/doorway", "setting-tag/field"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/towel"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

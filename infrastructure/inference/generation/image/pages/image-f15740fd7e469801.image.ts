@@ -20,4 +20,5 @@ export const imageF15740fd7e469801 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/bedroom"],
   poseTags: ["pose-tag/lying-down", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

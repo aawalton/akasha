@@ -10,4 +10,5 @@ export const imageBd01aa0e634786b5 = {
   poseTags: ["pose-tag/sitting", "pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/scales"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

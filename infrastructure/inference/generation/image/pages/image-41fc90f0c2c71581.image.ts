@@ -9,4 +9,5 @@ export const image41fc90f0c2c71581 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/choker"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

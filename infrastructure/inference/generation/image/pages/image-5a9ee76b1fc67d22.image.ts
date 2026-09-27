@@ -20,4 +20,5 @@ export const image5a9ee76b1fc67d22 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/naga", "fantasy-tag/scales"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

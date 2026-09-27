@@ -20,4 +20,5 @@ export const image6dc80766d0654d0a = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/reading", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/skirt", "wardrobe-tag/glasses"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

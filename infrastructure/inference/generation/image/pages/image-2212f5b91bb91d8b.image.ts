@@ -19,4 +19,5 @@ export const image2212f5b91bb91d8b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain", "setting-tag/nature"],
   poseTags: ["pose-tag/embracing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/swimsuit", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

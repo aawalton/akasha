@@ -19,4 +19,5 @@ export const image74611cce696cbfba = {
     "pose-tag/front-view",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

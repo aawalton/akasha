@@ -9,4 +9,5 @@ export const imageF920cec926dcafbb = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/forest"],
   poseTags: ["pose-tag/walking", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/backpack", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

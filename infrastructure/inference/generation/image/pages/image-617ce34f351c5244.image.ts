@@ -10,4 +10,5 @@ export const image617ce34f351c5244 = {
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/holding-drink"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -25,4 +25,5 @@ export const imageAbf11cdf2a92c746 = {
     "pose-tag/hand-on-hip",
   ],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

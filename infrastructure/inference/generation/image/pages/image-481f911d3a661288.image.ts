@@ -11,4 +11,5 @@ export const image481f911d3a661288 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-behind-head", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

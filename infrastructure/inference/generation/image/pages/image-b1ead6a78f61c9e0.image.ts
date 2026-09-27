@@ -9,4 +9,5 @@ export const imageB1ead6a78f61c9e0 = {
   settingTags: ["setting-tag/pool", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

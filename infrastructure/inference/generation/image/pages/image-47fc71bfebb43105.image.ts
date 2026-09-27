@@ -12,4 +12,5 @@ export const image47fc71bfebb43105 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/lace"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

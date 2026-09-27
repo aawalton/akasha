@@ -10,4 +10,5 @@ export const imageFbe91bdd8e7ea500 = {
   settingTags: ["setting-tag/bathtub", "setting-tag/bathroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/sitting", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/lingerie", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

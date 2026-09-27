@@ -20,4 +20,5 @@ export const image3ac49a8912f0530e = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron", "wardrobe-tag/hat"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

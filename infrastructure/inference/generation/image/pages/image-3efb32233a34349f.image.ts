@@ -21,4 +21,5 @@ export const image3efb32233a34349f = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/purple-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

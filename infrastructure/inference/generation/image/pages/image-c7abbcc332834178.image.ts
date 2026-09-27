@@ -16,4 +16,5 @@ export const imageC7abbcc332834178 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/long-sleeves", "wardrobe-tag/high-neck"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

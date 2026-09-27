@@ -15,4 +15,5 @@ export const image41b9f72065df290f = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/vest", "wardrobe-tag/spaghetti-straps"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

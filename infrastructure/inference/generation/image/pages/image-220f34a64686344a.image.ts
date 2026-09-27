@@ -24,4 +24,5 @@ export const image220f34a64686344a = {
     "pose-tag/leaning-forward",
   ],
   wardrobeTags: ["wardrobe-tag/off-shoulder", "wardrobe-tag/leggings", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

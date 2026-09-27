@@ -14,4 +14,5 @@ export const imageCf72536dd32e7dd7 = {
   ],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-back", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/partial-undress", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

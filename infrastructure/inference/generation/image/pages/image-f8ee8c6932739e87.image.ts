@@ -11,4 +11,5 @@ export const imageF8ee8c6932739e87 = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/deep-v-neck", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

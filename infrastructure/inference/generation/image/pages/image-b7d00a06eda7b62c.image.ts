@@ -20,4 +20,5 @@ export const imageB7d00a06eda7b62c = {
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/glowing", "fantasy-tag/bioluminescence"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image39f281f12efb62c7 = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/sheer-dress", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

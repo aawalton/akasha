@@ -10,4 +10,5 @@ export const image8a3c862aa3c3595f = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/front-view", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/veil"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

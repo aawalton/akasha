@@ -20,4 +20,5 @@ export const imageE8a96fa424769d45 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field"],
   poseTags: ["pose-tag/cross-legged", "pose-tag/sitting", "pose-tag/laughing"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

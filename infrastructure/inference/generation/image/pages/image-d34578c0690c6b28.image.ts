@@ -9,4 +9,5 @@ export const imageD34578c0690c6b28 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/park"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

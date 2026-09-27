@@ -26,4 +26,5 @@ export const imageC1e56aac7183da39 = {
     "wardrobe-tag/glitter-makeup",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/dragon-horns", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

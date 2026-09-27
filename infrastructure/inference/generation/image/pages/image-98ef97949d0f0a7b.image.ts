@@ -9,4 +9,5 @@ export const image98ef97949d0f0a7b = {
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/kissing", "pose-tag/lying-down", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

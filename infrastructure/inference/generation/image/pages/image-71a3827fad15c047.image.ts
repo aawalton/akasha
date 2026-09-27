@@ -21,4 +21,5 @@ export const image71a3827fad15c047 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/belt", "wardrobe-tag/skirt", "wardrobe-tag/bare-midriff"],
   fantasyTags: ["fantasy-tag/mythological"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

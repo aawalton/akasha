@@ -12,4 +12,5 @@ export const image60e44fbe35e480bb = {
   poseTags: ["pose-tag/looking-back", "pose-tag/portrait", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/silk", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

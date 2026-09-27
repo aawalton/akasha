@@ -15,4 +15,5 @@ export const image3e6aede6a9e81b83 = {
   settingTags: ["setting-tag/market"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

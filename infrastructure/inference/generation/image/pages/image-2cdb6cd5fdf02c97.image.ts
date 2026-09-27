@@ -19,4 +19,5 @@ export const image2cdb6cd5fdf02c97 = {
   settingTags: ["setting-tag/vanity"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/garter-belt", "wardrobe-tag/stockings"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

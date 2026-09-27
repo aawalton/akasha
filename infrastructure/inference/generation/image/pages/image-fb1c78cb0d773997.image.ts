@@ -20,4 +20,5 @@ export const imageFb1c78cb0d773997 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/silk", "wardrobe-tag/gold-trim"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

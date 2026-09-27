@@ -19,4 +19,5 @@ export const image83dded61b997e3ca = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/holding-lantern", "pose-tag/looking-down", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/camisole", "wardrobe-tag/top", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

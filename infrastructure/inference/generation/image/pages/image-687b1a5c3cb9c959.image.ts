@@ -10,4 +10,5 @@ export const image687b1a5c3cb9c959 = {
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/bodysuit", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/monster-girl"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

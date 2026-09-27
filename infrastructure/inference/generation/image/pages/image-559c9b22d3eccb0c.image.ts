@@ -19,4 +19,5 @@ export const image559c9b22d3eccb0c = {
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

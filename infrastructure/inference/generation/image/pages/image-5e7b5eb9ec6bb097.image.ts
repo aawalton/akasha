@@ -22,4 +22,5 @@ export const image5e7b5eb9ec6bb097 = {
   ],
   wardrobeTags: ["wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/hologram", "fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

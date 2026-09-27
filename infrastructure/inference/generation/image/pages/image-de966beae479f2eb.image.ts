@@ -20,4 +20,5 @@ export const imageDe966beae479f2eb = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/wings", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

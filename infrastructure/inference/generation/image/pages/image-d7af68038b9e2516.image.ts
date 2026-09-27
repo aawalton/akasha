@@ -15,4 +15,5 @@ export const imageD7af68038b9e2516 = {
   ],
   poseTags: ["pose-tag/looking-down", "pose-tag/smiling", "pose-tag/sitting", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

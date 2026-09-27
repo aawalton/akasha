@@ -20,4 +20,5 @@ export const image726b1d4c30433336 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/glowing-eyes", "fantasy-tag/android"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

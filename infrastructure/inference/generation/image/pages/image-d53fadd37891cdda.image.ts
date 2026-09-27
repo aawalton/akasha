@@ -19,4 +19,5 @@ export const imageD53fadd37891cdda = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/top", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

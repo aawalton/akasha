@@ -20,4 +20,5 @@ export const image9786b34003db9955 = {
   poseTags: ["pose-tag/close-up", "pose-tag/profile", "pose-tag/embracing", "pose-tag/kissing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

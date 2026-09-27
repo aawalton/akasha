@@ -10,4 +10,5 @@ export const image27dca6ef3138a143 = {
   settingTags: ["setting-tag/balcony", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/robe"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

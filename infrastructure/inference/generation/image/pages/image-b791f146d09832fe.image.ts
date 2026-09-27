@@ -9,4 +9,5 @@ export const imageB791f146d09832fe = {
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/kneeling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/kimono"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

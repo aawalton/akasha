@@ -9,4 +9,5 @@ export const image5dc721d0126b4673 = {
   settingTags: ["setting-tag/shower", "setting-tag/bathroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kissing", "pose-tag/embracing", "pose-tag/standing", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white", "ethnicity-tag/latina"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageCad9e47d2ee64c4f = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-in-hair", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/long-sleeves", "wardrobe-tag/high-neck"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

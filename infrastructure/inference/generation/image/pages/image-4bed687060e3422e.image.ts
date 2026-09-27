@@ -9,4 +9,5 @@ export const image4bed687060e3422e = {
   settingTags: ["setting-tag/studio", "setting-tag/night", "setting-tag/sky"],
   poseTags: ["pose-tag/back-view", "pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

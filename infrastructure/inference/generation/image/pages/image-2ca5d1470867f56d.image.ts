@@ -9,4 +9,5 @@ export const image2ca5d1470867f56d = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

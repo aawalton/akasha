@@ -10,4 +10,5 @@ export const image09ad26dc66bb779a = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/art-studio"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheet", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

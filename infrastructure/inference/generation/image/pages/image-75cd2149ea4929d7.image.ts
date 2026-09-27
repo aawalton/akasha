@@ -23,4 +23,5 @@ export const image75cd2149ea4929d7 = {
   ],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/headband", "wardrobe-tag/tank-top"],
   fantasyTags: ["fantasy-tag/bunny-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

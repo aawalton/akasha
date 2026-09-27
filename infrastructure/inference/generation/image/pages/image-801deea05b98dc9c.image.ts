@@ -22,4 +22,5 @@ export const image801deea05b98dc9c = {
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

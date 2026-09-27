@@ -10,4 +10,5 @@ export const image7ccab60e521f87a4 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city", "setting-tag/balcony"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

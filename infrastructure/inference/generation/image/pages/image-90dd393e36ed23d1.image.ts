@@ -19,4 +19,5 @@ export const image90dd393e36ed23d1 = {
   settingTags: ["setting-tag/indoor", "setting-tag/cabin"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/jeans", "wardrobe-tag/hat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

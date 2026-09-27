@@ -20,4 +20,5 @@ export const imageA8fbba41996943a6 = {
   poseTags: ["pose-tag/kissing", "pose-tag/embracing", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/fairy", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

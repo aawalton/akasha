@@ -25,4 +25,5 @@ export const imageA8f6809a4f8813b5 = {
     "pose-tag/looking-away",
   ],
   wardrobeTags: ["wardrobe-tag/sleepwear", "wardrobe-tag/towel", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image48ca3379c7bdb777 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/mountains", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

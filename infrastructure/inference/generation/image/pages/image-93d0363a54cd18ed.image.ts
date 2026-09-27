@@ -9,4 +9,5 @@ export const image93d0363a54cd18ed = {
   settingTags: ["setting-tag/workshop", "setting-tag/indoor"],
   poseTags: ["pose-tag/squatting", "pose-tag/looking-at-viewer", "pose-tag/leaning"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/boots", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

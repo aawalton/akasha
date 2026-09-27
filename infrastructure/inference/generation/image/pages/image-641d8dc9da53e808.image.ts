@@ -10,4 +10,5 @@ export const image641d8dc9da53e808 = {
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer-dress", "wardrobe-tag/barefoot"],
   fantasyTags: ["fantasy-tag/cosmic", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

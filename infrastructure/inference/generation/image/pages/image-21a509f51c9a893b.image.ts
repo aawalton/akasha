@@ -20,4 +20,5 @@ export const image21a509f51c9a893b = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/plain-background"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/jacket", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

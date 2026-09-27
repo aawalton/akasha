@@ -19,4 +19,5 @@ export const image1c05c480e1aa4556 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/fog"],
   poseTags: ["pose-tag/standing", "pose-tag/playing-music", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

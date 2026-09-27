@@ -24,4 +24,5 @@ export const image15ff90ba84c31c77 = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

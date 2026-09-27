@@ -9,4 +9,5 @@ export const image17365a50071f5435 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

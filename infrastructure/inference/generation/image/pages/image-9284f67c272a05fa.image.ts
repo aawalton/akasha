@@ -9,4 +9,5 @@ export const image9284f67c272a05fa = {
   settingTags: ["setting-tag/sky", "setting-tag/sunset"],
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

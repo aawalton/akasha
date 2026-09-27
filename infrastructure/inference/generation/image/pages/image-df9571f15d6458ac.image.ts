@@ -20,4 +20,5 @@ export const imageDf9571f15d6458ac = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

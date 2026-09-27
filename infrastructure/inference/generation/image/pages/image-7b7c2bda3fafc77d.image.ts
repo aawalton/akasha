@@ -9,4 +9,5 @@ export const image7b7c2bda3fafc77d = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/party"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

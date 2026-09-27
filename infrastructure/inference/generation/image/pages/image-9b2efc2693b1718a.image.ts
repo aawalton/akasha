@@ -19,4 +19,5 @@ export const image9b2efc2693b1718a = {
   settingTags: ["setting-tag/park", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/walking", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/leggings", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

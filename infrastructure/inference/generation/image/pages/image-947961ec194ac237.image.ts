@@ -9,4 +9,5 @@ export const image947961ec194ac237 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/shower"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/holding-drink"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

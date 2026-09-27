@@ -10,4 +10,5 @@ export const image329d50dc1dd53168 = {
   poseTags: ["pose-tag/smiling", "pose-tag/standing", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

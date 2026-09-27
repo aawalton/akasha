@@ -10,4 +10,5 @@ export const image948b87cf0ced4115 = {
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

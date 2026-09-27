@@ -10,4 +10,5 @@ export const imageA7508575f2a9b3c2 = {
   poseTags: ["pose-tag/reaching", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/tank-top", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

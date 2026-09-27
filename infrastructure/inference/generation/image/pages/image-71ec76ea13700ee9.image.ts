@@ -9,4 +9,5 @@ export const image71ec76ea13700ee9 = {
   settingTags: ["setting-tag/doorway", "setting-tag/indoor", "setting-tag/dark-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/jacket"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

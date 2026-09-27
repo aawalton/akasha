@@ -10,4 +10,5 @@ export const image9341a553f4296d50 = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/candlelight"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

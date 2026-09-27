@@ -9,4 +9,5 @@ export const image61b281969bbabb07 = {
   settingTags: ["setting-tag/cabin", "setting-tag/fireplace"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

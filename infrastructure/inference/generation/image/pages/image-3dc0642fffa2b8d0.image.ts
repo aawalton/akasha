@@ -9,4 +9,5 @@ export const image3dc0642fffa2b8d0 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

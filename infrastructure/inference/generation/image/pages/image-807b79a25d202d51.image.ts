@@ -9,4 +9,5 @@ export const image807b79a25d202d51 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/indoor", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-in-mirror"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/robe"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

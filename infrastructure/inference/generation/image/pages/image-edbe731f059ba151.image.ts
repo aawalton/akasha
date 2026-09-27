@@ -9,4 +9,5 @@ export const imageEdbe731f059ba151 = {
   settingTags: ["setting-tag/beach", "setting-tag/rocks", "setting-tag/outdoor"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

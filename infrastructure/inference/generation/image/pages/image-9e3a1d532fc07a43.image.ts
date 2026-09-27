@@ -20,4 +20,5 @@ export const image9e3a1d532fc07a43 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/topless", "wardrobe-tag/sunglasses"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

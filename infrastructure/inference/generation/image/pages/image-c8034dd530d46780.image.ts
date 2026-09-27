@@ -19,4 +19,5 @@ export const imageC8034dd530d46780 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/campfire"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/belt", "wardrobe-tag/backpack"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

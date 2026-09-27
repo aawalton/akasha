@@ -20,4 +20,5 @@ export const imageE2de387a28486cee = {
   settingTags: ["setting-tag/balcony", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/leaning", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

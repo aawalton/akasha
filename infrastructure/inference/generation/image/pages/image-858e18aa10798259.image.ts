@@ -26,4 +26,5 @@ export const image858e18aa10798259 = {
     "pose-tag/looking-away",
   ],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

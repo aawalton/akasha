@@ -9,4 +9,5 @@ export const imageC13c4da6483f3f72 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/indoor", "setting-tag/night"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/shorts", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

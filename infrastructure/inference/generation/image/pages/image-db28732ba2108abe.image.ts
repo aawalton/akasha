@@ -24,4 +24,5 @@ export const imageDb28732ba2108abe = {
     "pose-tag/reclining",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

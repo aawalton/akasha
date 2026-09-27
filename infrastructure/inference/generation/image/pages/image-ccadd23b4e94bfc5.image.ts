@@ -25,4 +25,5 @@ export const imageCcadd23b4e94bfc5 = {
     "pose-tag/eyes-closed",
   ],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

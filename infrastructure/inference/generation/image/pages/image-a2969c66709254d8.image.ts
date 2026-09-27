@@ -11,4 +11,5 @@ export const imageA2969c66709254d8 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/luxury"],
   poseTags: ["pose-tag/reclining"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

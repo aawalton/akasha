@@ -19,4 +19,5 @@ export const imageF9b779021aa343e7 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/close-up", "pose-tag/profile", "pose-tag/face-to-face"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

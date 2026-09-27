@@ -8,4 +8,5 @@ export const imageDf09974777f4896d = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

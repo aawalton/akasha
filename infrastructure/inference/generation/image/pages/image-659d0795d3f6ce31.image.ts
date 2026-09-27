@@ -9,4 +9,5 @@ export const image659d0795d3f6ce31 = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/stockings", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

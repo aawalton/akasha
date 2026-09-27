@@ -9,4 +9,5 @@ export const imageAfc4354152ad64b8 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/selfie", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

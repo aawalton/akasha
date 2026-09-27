@@ -9,4 +9,5 @@ export const imageA637c3befec453e2 = {
   settingTags: ["setting-tag/underwater", "setting-tag/ruins", "setting-tag/temple"],
   poseTags: ["pose-tag/floating", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

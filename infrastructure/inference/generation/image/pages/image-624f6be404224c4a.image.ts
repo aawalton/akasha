@@ -24,4 +24,5 @@ export const image624f6be404224c4a = {
     "pose-tag/leaning",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

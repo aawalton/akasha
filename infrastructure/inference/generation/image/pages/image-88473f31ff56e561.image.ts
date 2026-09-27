@@ -10,4 +10,5 @@ export const image88473f31ff56e561 = {
   settingTags: ["setting-tag/museum", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

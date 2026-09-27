@@ -9,4 +9,5 @@ export const image331068d1b6a17431 = {
   settingTags: ["setting-tag/city-street", "setting-tag/rain", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/swimsuit", "wardrobe-tag/boots"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

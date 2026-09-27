@@ -10,4 +10,5 @@ export const image66ceec8f70d61ca4 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/living-room"],
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

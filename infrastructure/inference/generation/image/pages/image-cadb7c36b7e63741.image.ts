@@ -14,4 +14,5 @@ export const imageCadb7c36b7e63741 = {
     "pose-tag/looking-down",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

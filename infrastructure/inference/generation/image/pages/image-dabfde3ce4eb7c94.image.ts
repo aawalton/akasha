@@ -19,4 +19,5 @@ export const imageDabfde3ce4eb7c94 = {
   settingTags: ["setting-tag/indoor", "setting-tag/living-room"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/knees-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace", "wardrobe-tag/sheer"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

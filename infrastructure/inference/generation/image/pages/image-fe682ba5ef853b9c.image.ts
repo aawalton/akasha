@@ -9,4 +9,5 @@ export const imageFe682ba5ef853b9c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/city"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

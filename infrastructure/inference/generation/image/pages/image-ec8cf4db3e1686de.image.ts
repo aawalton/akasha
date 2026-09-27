@@ -20,4 +20,5 @@ export const imageEc8cf4db3e1686de = {
   settingTags: ["setting-tag/desert", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/holding-flowers", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shorts", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

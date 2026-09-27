@@ -9,4 +9,5 @@ export const imageB446c11f8fecf2db = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/bedroom"],
   poseTags: ["pose-tag/all-fours", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

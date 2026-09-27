@@ -10,4 +10,5 @@ export const imageF1451947ca637e87 = {
   settingTags: ["setting-tag/underwater", "setting-tag/plain-background"],
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

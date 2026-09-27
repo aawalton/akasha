@@ -20,4 +20,5 @@ export const image3d560e4853101984 = {
   settingTags: ["setting-tag/beach", "setting-tag/dock", "setting-tag/outdoor"],
   poseTags: ["pose-tag/laughing", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/jeans"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

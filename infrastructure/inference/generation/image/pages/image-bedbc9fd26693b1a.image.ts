@@ -10,4 +10,5 @@ export const imageBedbc9fd26693b1a = {
   poseTags: ["pose-tag/standing", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

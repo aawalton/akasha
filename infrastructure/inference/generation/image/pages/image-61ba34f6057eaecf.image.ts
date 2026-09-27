@@ -16,4 +16,5 @@ export const image61ba34f6057eaecf = {
   settingTags: ["setting-tag/market", "setting-tag/shop", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-back", "pose-tag/eating", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/sundress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

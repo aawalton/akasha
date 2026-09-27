@@ -11,4 +11,5 @@ export const imageB4207bd72a6b798e = {
   poseTags: ["pose-tag/standing", "pose-tag/legs-up", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

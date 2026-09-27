@@ -10,4 +10,5 @@ export const imageFf9025ccb09a88b7 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/head-tilt", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
   fantasyTags: ["fantasy-tag/fire", "fantasy-tag/magic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

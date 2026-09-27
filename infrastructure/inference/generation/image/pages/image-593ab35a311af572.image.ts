@@ -11,4 +11,5 @@ export const image593ab35a311af572 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/holding-lantern"],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/dress", "wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

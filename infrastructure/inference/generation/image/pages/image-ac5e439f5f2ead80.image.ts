@@ -19,4 +19,5 @@ export const imageAc5e439f5f2ead80 = {
     "pose-tag/hand-on-hip",
   ],
   wardrobeTags: ["wardrobe-tag/qipao", "wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

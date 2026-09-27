@@ -11,4 +11,5 @@ export const image2338440d86cfd267 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/hands-clasped", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/red-string"],
   fantasyTags: ["fantasy-tag/fairy-tale"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

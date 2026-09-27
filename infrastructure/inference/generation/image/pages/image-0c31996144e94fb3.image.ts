@@ -20,4 +20,5 @@ export const image0c31996144e94fb3 = {
   settingTags: ["setting-tag/balcony", "setting-tag/night", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/silk", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

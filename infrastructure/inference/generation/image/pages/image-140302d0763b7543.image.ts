@@ -19,4 +19,5 @@ export const image140302d0763b7543 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

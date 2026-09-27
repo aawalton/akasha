@@ -16,4 +16,5 @@ export const imageFde2447036bd29a5 = {
     "pose-tag/leaning",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

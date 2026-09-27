@@ -9,4 +9,5 @@ export const image2053118078518a74 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor", "setting-tag/town"],
   poseTags: ["pose-tag/lying-down", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

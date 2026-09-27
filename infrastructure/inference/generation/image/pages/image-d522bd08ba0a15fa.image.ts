@@ -29,4 +29,5 @@ export const imageD522bd08ba0a15fa = {
     "pose-tag/portrait",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gown"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

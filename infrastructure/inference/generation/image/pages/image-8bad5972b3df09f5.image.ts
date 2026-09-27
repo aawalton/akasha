@@ -10,4 +10,5 @@ export const image8bad5972b3df09f5 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/sheer", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

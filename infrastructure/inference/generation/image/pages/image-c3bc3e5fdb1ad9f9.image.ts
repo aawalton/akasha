@@ -9,4 +9,5 @@ export const imageC3bc3e5fdb1ad9f9 = {
   settingTags: ["setting-tag/night", "setting-tag/pool"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

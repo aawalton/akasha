@@ -18,4 +18,5 @@ export const imageE7a486c77c4f2943 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

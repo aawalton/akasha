@@ -19,4 +19,5 @@ export const imageB38e02fddf4140e3 = {
   settingTags: ["setting-tag/bar", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/winking", "pose-tag/holding-drink"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/vest", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

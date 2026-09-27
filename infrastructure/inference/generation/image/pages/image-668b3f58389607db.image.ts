@@ -9,4 +9,5 @@ export const image668b3f58389607db = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/beach"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

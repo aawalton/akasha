@@ -26,4 +26,5 @@ export const image9ed4c10714846572 = {
     "wardrobe-tag/body-paint",
   ],
   fantasyTags: ["fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

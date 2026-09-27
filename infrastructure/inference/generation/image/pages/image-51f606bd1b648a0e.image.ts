@@ -9,4 +9,5 @@ export const image51f606bd1b648a0e = {
   settingTags: ["setting-tag/greenhouse", "setting-tag/garden", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/embracing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image3366193a491aeaa7 = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/skirt"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

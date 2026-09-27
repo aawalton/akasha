@@ -15,4 +15,5 @@ export const imageA8c7860c316f9c1b = {
   settingTags: ["setting-tag/living-room", "setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

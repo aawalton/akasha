@@ -9,4 +9,5 @@ export const image66c343eae1025629 = {
   settingTags: ["setting-tag/pool", "setting-tag/night", "setting-tag/outdoor"],
   poseTags: ["pose-tag/leaning", "pose-tag/arms-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

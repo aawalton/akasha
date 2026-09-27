@@ -20,4 +20,5 @@ export const image9d6087d747c9079c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/lingerie"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

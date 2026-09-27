@@ -9,4 +9,5 @@ export const image07d6f1003747b68a = {
   settingTags: ["setting-tag/balcony", "setting-tag/night", "setting-tag/city"],
   poseTags: ["pose-tag/selfie", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

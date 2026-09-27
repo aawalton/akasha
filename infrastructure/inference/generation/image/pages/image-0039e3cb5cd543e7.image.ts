@@ -9,4 +9,5 @@ export const image0039e3cb5cd543e7 = {
   relationshipLevel: "closeness-level/level-1",
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/top", "wardrobe-tag/goggles"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

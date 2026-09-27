@@ -18,4 +18,5 @@ export const image1aed0aeefc422579 = {
   poseTags: ["pose-tag/smiling", "pose-tag/looking-at-viewer", "pose-tag/hands-on-chest"],
   wardrobeTags: ["wardrobe-tag/apron", "wardrobe-tag/shirt"],
   fantasyTags: ["fantasy-tag/bunny-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image01475cb6fadfad2a = {
   relationshipLevel: "closeness-level/level-6",
   poseTags: ["pose-tag/kneeling", "pose-tag/holding-drink", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

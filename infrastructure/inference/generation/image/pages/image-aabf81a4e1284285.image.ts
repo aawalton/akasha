@@ -21,4 +21,5 @@ export const imageAabf81a4e1284285 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/reading", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-skin", "fantasy-tag/red-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageDb55f65ce65121b4 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/city"],
   poseTags: ["pose-tag/embracing", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

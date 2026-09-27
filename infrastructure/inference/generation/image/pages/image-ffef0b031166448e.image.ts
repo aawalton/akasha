@@ -20,4 +20,5 @@ export const imageFfef0b031166448e = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/window"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/backless"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

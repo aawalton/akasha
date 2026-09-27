@@ -19,4 +19,5 @@ export const image6b7c49fed3570c8e = {
   settingTags: ["setting-tag/outdoor", "setting-tag/sunset", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

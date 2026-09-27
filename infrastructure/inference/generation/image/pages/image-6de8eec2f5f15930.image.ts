@@ -14,4 +14,5 @@ export const image6de8eec2f5f15930 = {
     "pose-tag/profile",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/towel"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

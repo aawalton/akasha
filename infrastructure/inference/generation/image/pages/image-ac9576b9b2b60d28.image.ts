@@ -15,4 +15,5 @@ export const imageAc9576b9b2b60d28 = {
     "pose-tag/looking-at-viewer",
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/pants"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

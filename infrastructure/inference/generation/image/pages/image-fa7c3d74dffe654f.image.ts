@@ -9,4 +9,5 @@ export const imageFa7c3d74dffe654f = {
   settingTags: ["setting-tag/gym", "setting-tag/indoor", "setting-tag/mirror"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bodysuit", "wardrobe-tag/tights"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

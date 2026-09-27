@@ -9,4 +9,5 @@ export const image8c35a6768b27ae30 = {
   poseTags: ["pose-tag/standing", "pose-tag/casting-magic", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/tunic", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/magic", "fantasy-tag/monster-girl"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

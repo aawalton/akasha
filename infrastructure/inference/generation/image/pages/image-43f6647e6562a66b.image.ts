@@ -9,4 +9,5 @@ export const image43f6647e6562a66b = {
   settingTags: ["setting-tag/indoor", "setting-tag/bathroom", "setting-tag/shower"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/wet", "wardrobe-tag/towel"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image65d4280bab96851b = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

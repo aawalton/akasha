@@ -9,4 +9,5 @@ export const image3e926e381e50c68b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/mountains"],
   poseTags: ["pose-tag/reaching", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const imageDab838eca87d0c62 = {
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/pants", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

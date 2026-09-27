@@ -10,4 +10,5 @@ export const imageB365f51a982b5960 = {
   settingTags: ["setting-tag/garden", "setting-tag/outdoor", "setting-tag/sunset"],
   poseTags: ["pose-tag/side-by-side", "pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/silk", "wardrobe-tag/spaghetti-straps"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

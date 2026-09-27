@@ -19,4 +19,5 @@ export const image083fd8b4614788c3 = {
     "wardrobe-tag/body-paint",
     "wardrobe-tag/partial-undress",
   ],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageDeab3c561bc14069 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/ocean"],
   poseTags: ["pose-tag/kneeling", "pose-tag/embracing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

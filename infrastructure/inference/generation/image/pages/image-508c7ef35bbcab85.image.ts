@@ -25,4 +25,5 @@ export const image508c7ef35bbcab85 = {
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/jewelry", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image11dbaad258c774b3 = {
   settingTags: ["setting-tag/studio", "setting-tag/dark-background"],
   poseTags: ["pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

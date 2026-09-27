@@ -16,4 +16,5 @@ export const image843560fbc70af6ea = {
   settingTags: ["setting-tag/field", "setting-tag/outdoor", "setting-tag/mountains"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

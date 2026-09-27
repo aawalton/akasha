@@ -9,4 +9,5 @@ export const image22b9ee285385da3c = {
   settingTags: ["setting-tag/indoor", "setting-tag/tatami-room"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

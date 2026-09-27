@@ -14,4 +14,5 @@ export const image03544a8b13c600ea = {
     "pose-tag/arms-crossed",
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

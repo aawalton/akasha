@@ -10,4 +10,5 @@ export const image750c8fd80bdcfa25 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/bathroom"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/towel", "wardrobe-tag/topless", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

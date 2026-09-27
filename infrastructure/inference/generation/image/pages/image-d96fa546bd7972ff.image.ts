@@ -10,4 +10,5 @@ export const imageD96fa546bd7972ff = {
   poseTags: ["pose-tag/floating", "pose-tag/looking-at-viewer", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/mermaid"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

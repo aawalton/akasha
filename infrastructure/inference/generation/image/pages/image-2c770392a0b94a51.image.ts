@@ -21,4 +21,5 @@ export const image2c770392a0b94a51 = {
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jewelry", "wardrobe-tag/lingerie"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

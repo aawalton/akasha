@@ -19,4 +19,5 @@ export const image3abfdf6ffc1c8733 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/doorway", "setting-tag/field"],
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/jewelry", "wardrobe-tag/barefoot"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

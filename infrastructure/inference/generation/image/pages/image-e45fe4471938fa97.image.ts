@@ -9,4 +9,5 @@ export const imageE45fe4471938fa97 = {
   relationshipLevel: "closeness-level/level-3",
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -11,4 +11,5 @@ export const image419777e3bb93fe08 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/looking-back", "pose-tag/profile", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/cloak", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

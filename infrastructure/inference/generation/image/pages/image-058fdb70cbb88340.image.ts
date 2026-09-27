@@ -16,4 +16,5 @@ export const image058fdb70cbb88340 = {
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/coat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

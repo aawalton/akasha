@@ -24,4 +24,5 @@ export const image71b0bf7f2f20bbf3 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-back", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/jeans", "wardrobe-tag/sweater"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

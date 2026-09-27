@@ -20,4 +20,5 @@ export const image5c866c0a978fe2a0 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/full-body"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/sci-fi", "fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

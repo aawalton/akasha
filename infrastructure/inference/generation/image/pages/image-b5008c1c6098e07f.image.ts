@@ -9,4 +9,5 @@ export const imageB5008c1c6098e07f = {
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/jewelry"],
   fantasyTags: ["fantasy-tag/angel"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

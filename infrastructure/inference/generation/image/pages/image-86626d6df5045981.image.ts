@@ -21,4 +21,5 @@ export const image86626d6df5045981 = {
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/hair-accessory"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/fairy"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image23f7529bda1a712e = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/gloves"],
   fantasyTags: ["fantasy-tag/dragon-horns", "fantasy-tag/wings", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

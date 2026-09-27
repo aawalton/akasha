@@ -14,4 +14,5 @@ export const imageEce8d1bc7e743ed0 = {
     "pose-tag/full-body",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image86fccd8c56b43459 = {
   settingTags: ["setting-tag/car", "setting-tag/night"],
   poseTags: ["pose-tag/reclining", "pose-tag/legs-up", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/slip-dress", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const image48f87273556ce282 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/sunset"],
   poseTags: ["pose-tag/sitting", "pose-tag/leaning", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image0e54a93f0612b26f = {
   ],
   poseTags: ["pose-tag/bathing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/headphones", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

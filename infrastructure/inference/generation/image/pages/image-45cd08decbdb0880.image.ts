@@ -9,4 +9,5 @@ export const image45cd08decbdb0880 = {
   settingTags: ["setting-tag/studio", "setting-tag/plain-background"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/partial-undress", "wardrobe-tag/armor"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

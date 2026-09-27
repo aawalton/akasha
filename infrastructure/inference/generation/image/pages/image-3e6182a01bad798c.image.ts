@@ -9,4 +9,5 @@ export const image3e6182a01bad798c = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/off-shoulder", "wardrobe-tag/bottomless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

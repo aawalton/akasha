@@ -9,4 +9,5 @@ export const image886a59d60d0b4e2e = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/workshop"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/reading"],
   wardrobeTags: ["wardrobe-tag/tube-top", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

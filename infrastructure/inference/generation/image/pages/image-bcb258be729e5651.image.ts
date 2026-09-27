@@ -20,4 +20,5 @@ export const imageBcb258be729e5651 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/garden"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/shirt", "wardrobe-tag/bare-midriff"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

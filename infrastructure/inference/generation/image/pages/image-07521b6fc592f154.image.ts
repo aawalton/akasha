@@ -25,4 +25,5 @@ export const image07521b6fc592f154 = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const image353ac62b77a53ca5 = {
   settingTags: ["setting-tag/beach", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/lying-on-stomach"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit", "wardrobe-tag/hat"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

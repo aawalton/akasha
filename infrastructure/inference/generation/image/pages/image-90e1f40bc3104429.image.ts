@@ -10,4 +10,5 @@ export const image90e1f40bc3104429 = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/upper-body"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/cyberpunk"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

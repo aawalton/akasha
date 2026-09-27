@@ -10,4 +10,5 @@ export const imageA878288cfc3d959e = {
   settingTags: ["setting-tag/indoor", "setting-tag/home", "setting-tag/library"],
   poseTags: ["pose-tag/reading", "pose-tag/sitting", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/long-sleeves", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

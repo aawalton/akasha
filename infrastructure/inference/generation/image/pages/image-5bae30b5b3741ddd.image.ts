@@ -20,4 +20,5 @@ export const image5bae30b5b3741ddd = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/nature-spirit", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

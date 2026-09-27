@@ -19,4 +19,5 @@ export const image9303611fc2d60dd9 = {
   settingTags: ["setting-tag/studio", "setting-tag/fog", "setting-tag/dark-background"],
   poseTags: ["pose-tag/kneeling", "pose-tag/reclining", "pose-tag/kissing", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/jewelry", "wardrobe-tag/partial-undress", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

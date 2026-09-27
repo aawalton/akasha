@@ -9,4 +9,5 @@ export const imageAc8bf673c303cd19 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/campfire"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-at-viewer", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

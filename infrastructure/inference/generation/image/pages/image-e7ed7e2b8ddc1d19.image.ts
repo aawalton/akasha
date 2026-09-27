@@ -18,4 +18,5 @@ export const imageE7ed7e2b8ddc1d19 = {
   relationshipLevel: "closeness-level/level-1",
   settingTags: ["setting-tag/kitchen", "setting-tag/restaurant", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/profile"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

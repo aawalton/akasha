@@ -29,4 +29,5 @@ export const image140893222f98252e = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/jacket", "wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

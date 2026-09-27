@@ -9,4 +9,5 @@ export const imageBcb6fd16410c1845 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/lying-down", "pose-tag/kneeling", "pose-tag/oral-sex", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

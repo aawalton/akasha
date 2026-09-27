@@ -19,4 +19,5 @@ export const image9505faeea0063e27 = {
   settingTags: ["setting-tag/indoor", "setting-tag/luxury"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/gown", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

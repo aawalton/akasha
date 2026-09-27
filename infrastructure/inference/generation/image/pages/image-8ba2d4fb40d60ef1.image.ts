@@ -10,4 +10,5 @@ export const image8ba2d4fb40d60ef1 = {
   poseTags: ["pose-tag/kneeling", "pose-tag/legs-spread", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

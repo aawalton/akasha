@@ -19,4 +19,5 @@ export const image860b74b98e60d250 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/night", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-up", "pose-tag/arms-raised"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

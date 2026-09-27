@@ -14,4 +14,5 @@ export const image558917034cba6705 = {
   ],
   poseTags: ["pose-tag/reclining", "pose-tag/face-to-face", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

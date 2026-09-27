@@ -8,4 +8,5 @@ export const image7d2d3bc8f43553cc = {
   relationshipLevel: "closeness-level/level-5",
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

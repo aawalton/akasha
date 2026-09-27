@@ -15,4 +15,5 @@ export const imageA9736168420a628d = {
     "pose-tag/legs-crossed",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/panties"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

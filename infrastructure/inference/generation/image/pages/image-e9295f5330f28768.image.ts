@@ -19,4 +19,5 @@ export const imageE9295f5330f28768 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/kissing", "pose-tag/face-to-face", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

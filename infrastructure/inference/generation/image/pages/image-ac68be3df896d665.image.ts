@@ -19,4 +19,5 @@ export const imageAc68be3df896d665 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/field", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/spaghetti-straps", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

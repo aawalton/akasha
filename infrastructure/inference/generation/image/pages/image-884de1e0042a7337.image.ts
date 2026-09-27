@@ -14,4 +14,5 @@ export const image884de1e0042a7337 = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/cloak", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

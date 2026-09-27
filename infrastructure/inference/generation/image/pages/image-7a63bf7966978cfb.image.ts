@@ -10,4 +10,5 @@ export const image7a63bf7966978cfb = {
   poseTags: ["pose-tag/reaching", "pose-tag/standing", "pose-tag/fighting"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/leather", "wardrobe-tag/fully-clothed"],
   fantasyTags: ["fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

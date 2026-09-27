@@ -39,4 +39,5 @@ export const image3dd6104c59a4a9e9 = {
   ],
   wardrobeTags: ["wardrobe-tag/long-sleeves", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

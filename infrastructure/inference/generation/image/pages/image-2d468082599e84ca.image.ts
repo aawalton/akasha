@@ -22,4 +22,5 @@ export const image2d468082599e84ca = {
   ],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

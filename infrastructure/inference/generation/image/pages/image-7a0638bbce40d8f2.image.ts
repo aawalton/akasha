@@ -11,4 +11,5 @@ export const image7a0638bbce40d8f2 = {
   poseTags: ["pose-tag/looking-down", "pose-tag/holding-clothing", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/topless", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

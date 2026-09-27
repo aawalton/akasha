@@ -20,4 +20,5 @@ export const image59e8a2cb41bcc00c = {
   settingTags: ["setting-tag/indoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

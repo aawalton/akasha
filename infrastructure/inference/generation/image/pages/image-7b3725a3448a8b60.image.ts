@@ -9,4 +9,5 @@ export const image7b3725a3448a8b60 = {
   settingTags: ["setting-tag/office", "setting-tag/study", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-spread", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/bottomless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

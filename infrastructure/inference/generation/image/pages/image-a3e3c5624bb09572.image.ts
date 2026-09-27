@@ -14,4 +14,5 @@ export const imageA3e3c5624bb09572 = {
   ],
   poseTags: ["pose-tag/looking-back", "pose-tag/bathing", "pose-tag/profile", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -16,4 +16,5 @@ export const imageFe52b03fd8c7dc6e = {
   settingTags: ["setting-tag/town", "setting-tag/outdoor", "setting-tag/city", "setting-tag/sky"],
   poseTags: ["pose-tag/walking", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/coat", "wardrobe-tag/jeans", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

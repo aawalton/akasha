@@ -24,4 +24,5 @@ export const image67559fb920ce759c = {
     "wardrobe-tag/sheet",
     "wardrobe-tag/headphones",
   ],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

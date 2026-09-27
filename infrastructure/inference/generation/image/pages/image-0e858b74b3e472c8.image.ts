@@ -21,4 +21,5 @@ export const image0e858b74b3e472c8 = {
   poseTags: ["pose-tag/looking-back"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/bare-shoulders"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/silver-hair", "fantasy-tag/purple-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

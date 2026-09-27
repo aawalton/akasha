@@ -11,4 +11,5 @@ export const image5c8f41f658c18c03 = {
   poseTags: ["pose-tag/sitting", "pose-tag/profile", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweatpants", "wardrobe-tag/top"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

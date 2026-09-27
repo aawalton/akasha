@@ -16,4 +16,5 @@ export const imageAdbec242acb03306 = {
     "wardrobe-tag/armor",
   ],
   fantasyTags: ["fantasy-tag/dragon", "fantasy-tag/scales", "fantasy-tag/monster-girl"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -19,4 +19,5 @@ export const imageAb47cf731f825b66 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony", "setting-tag/daytime"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

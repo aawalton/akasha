@@ -9,4 +9,5 @@ export const imageC985d3136e0e01cd = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/lying-on-stomach", "pose-tag/legs-spread"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/body-paint"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

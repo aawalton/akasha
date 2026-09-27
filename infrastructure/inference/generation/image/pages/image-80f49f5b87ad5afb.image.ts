@@ -9,4 +9,5 @@ export const image80f49f5b87ad5afb = {
   settingTags: ["setting-tag/city-street", "setting-tag/night", "setting-tag/rain"],
   poseTags: ["pose-tag/standing", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

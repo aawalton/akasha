@@ -10,4 +10,5 @@ export const imageEee733143d10d052 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/mirror"],
   poseTags: ["pose-tag/looking-back", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

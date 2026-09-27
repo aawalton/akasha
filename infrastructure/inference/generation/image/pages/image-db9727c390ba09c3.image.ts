@@ -9,4 +9,5 @@ export const imageDb9727c390ba09c3 = {
   settingTags: ["setting-tag/lake", "setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

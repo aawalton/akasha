@@ -19,4 +19,5 @@ export const image96eccbdf37675a8b = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city-street"],
   poseTags: ["pose-tag/sitting", "pose-tag/knees-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

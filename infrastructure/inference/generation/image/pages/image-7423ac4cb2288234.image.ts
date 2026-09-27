@@ -20,4 +20,5 @@ export const image7423ac4cb2288234 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/topless"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/bioluminescence"],
+  ethnicityTags: ["ethnicity-tag/black"],
 } as const satisfies Image

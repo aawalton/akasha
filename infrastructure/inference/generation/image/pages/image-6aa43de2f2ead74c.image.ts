@@ -19,4 +19,5 @@ export const image6aa43de2f2ead74c = {
   settingTags: ["setting-tag/temple", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/kimono"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

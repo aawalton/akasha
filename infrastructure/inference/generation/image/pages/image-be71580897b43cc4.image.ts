@@ -26,4 +26,5 @@ export const imageBe71580897b43cc4 = {
     "wardrobe-tag/off-shoulder",
   ],
   fantasyTags: ["fantasy-tag/historical"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

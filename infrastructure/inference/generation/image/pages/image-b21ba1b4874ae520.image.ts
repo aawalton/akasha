@@ -10,4 +10,5 @@ export const imageB21ba1b4874ae520 = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/body-paint"],
   fantasyTags: ["fantasy-tag/superhero", "fantasy-tag/cosmic"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

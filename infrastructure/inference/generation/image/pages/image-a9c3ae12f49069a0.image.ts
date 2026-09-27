@@ -11,4 +11,5 @@ export const imageA9c3ae12f49069a0 = {
   poseTags: ["pose-tag/squatting", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude", "wardrobe-tag/wig"],
   fantasyTags: ["fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

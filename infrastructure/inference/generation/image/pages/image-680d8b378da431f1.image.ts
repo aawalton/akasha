@@ -11,4 +11,5 @@ export const image680d8b378da431f1 = {
   poseTags: ["pose-tag/standing", "pose-tag/legs-up", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/boots"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

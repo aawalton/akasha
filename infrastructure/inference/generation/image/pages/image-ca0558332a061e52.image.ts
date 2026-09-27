@@ -11,4 +11,5 @@ export const imageCa0558332a061e52 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/rain"],
   poseTags: ["pose-tag/looking-away", "pose-tag/sitting", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

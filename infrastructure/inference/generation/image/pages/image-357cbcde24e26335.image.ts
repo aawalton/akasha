@@ -25,4 +25,5 @@ export const image357cbcde24e26335 = {
   ],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/elf-ears", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

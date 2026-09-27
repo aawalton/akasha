@@ -20,4 +20,5 @@ export const imageFb719c0950f1e573 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/city", "setting-tag/field"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/cardigan", "wardrobe-tag/sweater", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -17,4 +17,5 @@ export const image48aab28e668bca8f = {
   poseTags: ["pose-tag/close-up", "pose-tag/smiling", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/casual-wear"],
   fantasyTags: ["fantasy-tag/cyberpunk", "fantasy-tag/hologram"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

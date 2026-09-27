@@ -16,4 +16,5 @@ export const imageC2d0dfb52b80f0b4 = {
     "wardrobe-tag/barefoot",
   ],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/weapons", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

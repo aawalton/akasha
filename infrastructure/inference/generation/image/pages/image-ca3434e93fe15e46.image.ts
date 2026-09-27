@@ -11,4 +11,5 @@ export const imageCa3434e93fe15e46 = {
   poseTags: ["pose-tag/floating", "pose-tag/jumping", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/shorts", "wardrobe-tag/belt"],
   fantasyTags: ["fantasy-tag/cosmic"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

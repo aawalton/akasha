@@ -21,4 +21,5 @@ export const image13d53976c1dff2a2 = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/towel"],
   fantasyTags: ["fantasy-tag/elf-ears"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

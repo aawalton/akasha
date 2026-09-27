@@ -22,4 +22,5 @@ export const image254a708b789b9f1e = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/portrait", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/slip-dress", "wardrobe-tag/bare-shoulders", "wardrobe-tag/silk"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/purple-eyes", "fantasy-tag/silver-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

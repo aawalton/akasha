@@ -11,4 +11,5 @@ export const imageEad56a0b52ab7d8f = {
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/topless", "wardrobe-tag/choker"],
   fantasyTags: ["fantasy-tag/purple-eyes", "fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

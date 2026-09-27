@@ -20,4 +20,5 @@ export const image626870124d646f40 = {
   settingTags: ["setting-tag/forest", "setting-tag/outdoor", "setting-tag/autumn"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/partial-undress", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

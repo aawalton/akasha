@@ -11,4 +11,5 @@ export const imageFf88223898c1f6f6 = {
   poseTags: ["pose-tag/standing", "pose-tag/legs-spread", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/pants-down"],
   fantasyTags: ["fantasy-tag/blue-hair", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

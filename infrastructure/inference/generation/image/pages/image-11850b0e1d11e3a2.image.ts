@@ -15,4 +15,5 @@ export const image11850b0e1d11e3a2 = {
   ],
   wardrobeTags: ["wardrobe-tag/body-paint", "wardrobe-tag/gold-trim"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/superhero", "fantasy-tag/sci-fi"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

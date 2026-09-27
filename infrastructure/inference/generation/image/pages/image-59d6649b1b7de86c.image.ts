@@ -9,4 +9,5 @@ export const image59d6649b1b7de86c = {
   settingTags: ["setting-tag/snow", "setting-tag/hot-spring"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-up", "pose-tag/reaching"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

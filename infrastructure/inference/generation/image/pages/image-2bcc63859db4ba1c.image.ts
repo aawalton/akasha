@@ -10,4 +10,5 @@ export const image2bcc63859db4ba1c = {
   poseTags: ["pose-tag/looking-back", "pose-tag/smiling", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/harness"],
   fantasyTags: ["fantasy-tag/wings", "fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

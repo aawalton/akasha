@@ -9,4 +9,5 @@ export const image6a3e67f613155178 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/veil", "wardrobe-tag/sheet"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

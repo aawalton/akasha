@@ -20,4 +20,5 @@ export const image71ffae488695a5ea = {
   settingTags: ["setting-tag/outdoor", "setting-tag/castle", "setting-tag/daytime"],
   poseTags: ["pose-tag/eating", "pose-tag/looking-at-viewer", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

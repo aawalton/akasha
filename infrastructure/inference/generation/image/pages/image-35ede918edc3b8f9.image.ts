@@ -20,4 +20,5 @@ export const image35ede918edc3b8f9 = {
   settingTags: ["setting-tag/dock", "setting-tag/water", "setting-tag/outdoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bikini", "wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

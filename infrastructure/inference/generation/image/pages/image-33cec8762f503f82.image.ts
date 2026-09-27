@@ -10,4 +10,5 @@ export const image33cec8762f503f82 = {
   poseTags: ["pose-tag/standing", "pose-tag/reaching", "pose-tag/chatting"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/horns"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

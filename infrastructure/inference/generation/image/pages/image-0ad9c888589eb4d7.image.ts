@@ -10,4 +10,5 @@ export const image0ad9c888589eb4d7 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/holding-clothing"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/high-slit"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

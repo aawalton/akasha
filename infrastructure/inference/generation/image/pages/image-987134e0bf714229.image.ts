@@ -19,4 +19,5 @@ export const image987134e0bf714229 = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/dark-background"],
   poseTags: ["pose-tag/holding-lantern", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/bare-shoulders", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

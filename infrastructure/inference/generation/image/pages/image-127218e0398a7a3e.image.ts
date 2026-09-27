@@ -15,4 +15,5 @@ export const image127218e0398a7a3e = {
   settingTags: ["setting-tag/bedroom", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/hand-in-hair"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/strapless"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

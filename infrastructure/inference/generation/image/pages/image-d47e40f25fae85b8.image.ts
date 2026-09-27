@@ -20,4 +20,5 @@ export const imageD47e40f25fae85b8 = {
   settingTags: ["setting-tag/canyon", "setting-tag/outdoor", "setting-tag/desert"],
   poseTags: ["pose-tag/looking-back", "pose-tag/leaning", "pose-tag/standing"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/mini-dress", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

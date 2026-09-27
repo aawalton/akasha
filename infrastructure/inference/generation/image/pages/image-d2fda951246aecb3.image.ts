@@ -25,4 +25,5 @@ export const imageD2fda951246aecb3 = {
     "pose-tag/hand-on-face",
   ],
   wardrobeTags: ["wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

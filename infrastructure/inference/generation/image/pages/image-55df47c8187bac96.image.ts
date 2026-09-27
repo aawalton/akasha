@@ -19,4 +19,5 @@ export const image55df47c8187bac96 = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/home"],
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

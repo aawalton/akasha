@@ -10,4 +10,5 @@ export const imageCbab15f543dfc178 = {
   poseTags: ["pose-tag/reclining", "pose-tag/looking-up", "pose-tag/lying-down"],
   wardrobeTags: ["wardrobe-tag/dress"],
   fantasyTags: ["fantasy-tag/cosmic", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

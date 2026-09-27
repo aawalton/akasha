@@ -19,4 +19,5 @@ export const imageBf690f61c04a2c4c = {
   settingTags: ["setting-tag/sports-field", "setting-tag/outdoor"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/skirt", "wardrobe-tag/hat"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

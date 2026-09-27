@@ -10,4 +10,5 @@ export const image059e769642da9c64 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/hoodie", "wardrobe-tag/shorts", "wardrobe-tag/wig"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

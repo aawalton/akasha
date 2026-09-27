@@ -20,4 +20,5 @@ export const imageF50070b997ab5295 = {
   settingTags: ["setting-tag/indoor", "setting-tag/luxury"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/jewelry", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image358b4b2a15c5835c = {
   settingTags: ["setting-tag/outdoor", "setting-tag/park", "setting-tag/daytime"],
   poseTags: ["pose-tag/standing", "pose-tag/laughing", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/athletic-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

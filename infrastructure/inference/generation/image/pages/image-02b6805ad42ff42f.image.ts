@@ -9,4 +9,5 @@ export const image02b6805ad42ff42f = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/office"],
   poseTags: ["pose-tag/standing", "pose-tag/painting", "pose-tag/looking-away"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/shirt", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

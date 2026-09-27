@@ -25,4 +25,5 @@ export const image30c50de6fafe892f = {
     "pose-tag/smiling",
   ],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

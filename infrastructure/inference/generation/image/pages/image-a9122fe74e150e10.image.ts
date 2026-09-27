@@ -9,4 +9,5 @@ export const imageA9122fe74e150e10 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub", "setting-tag/candlelight"],
   poseTags: ["pose-tag/kissing", "pose-tag/sitting", "pose-tag/face-to-face", "pose-tag/embracing"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

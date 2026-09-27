@@ -19,4 +19,5 @@ export const imageDc62c2ca87b6cdef = {
   settingTags: ["setting-tag/indoor", "setting-tag/window", "setting-tag/office"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/deep-v-neck"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

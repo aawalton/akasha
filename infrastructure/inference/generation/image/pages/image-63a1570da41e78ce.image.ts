@@ -10,4 +10,5 @@ export const image63a1570da41e78ce = {
   settingTags: ["setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/glitter-makeup"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

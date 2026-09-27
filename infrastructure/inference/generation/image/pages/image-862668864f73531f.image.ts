@@ -9,4 +9,5 @@ export const image862668864f73531f = {
   settingTags: ["setting-tag/bedroom", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

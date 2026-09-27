@@ -19,4 +19,5 @@ export const imageD27eb5b274ea8776 = {
     "pose-tag/side-by-side",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

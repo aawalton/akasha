@@ -9,4 +9,5 @@ export const imageAee62330f7c01268 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/night", "setting-tag/hot-spring"],
   poseTags: ["pose-tag/standing", "pose-tag/leaning-forward", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/topless", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

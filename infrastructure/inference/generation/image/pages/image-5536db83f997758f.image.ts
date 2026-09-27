@@ -20,4 +20,5 @@ export const image5536db83f997758f = {
   settingTags: ["setting-tag/water"],
   poseTags: ["pose-tag/standing", "pose-tag/profile", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

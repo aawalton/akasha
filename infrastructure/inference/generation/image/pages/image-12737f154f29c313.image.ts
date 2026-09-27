@@ -30,4 +30,5 @@ export const image12737f154f29c313 = {
     "pose-tag/lying-down",
   ],
   wardrobeTags: ["wardrobe-tag/sundress", "wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

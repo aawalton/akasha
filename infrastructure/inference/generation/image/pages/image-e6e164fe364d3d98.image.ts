@@ -20,4 +20,5 @@ export const imageE6e164fe364d3d98 = {
   settingTags: ["setting-tag/indoor", "setting-tag/home"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/playing-music"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/top"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

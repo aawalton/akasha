@@ -9,4 +9,5 @@ export const imageEb82725b07eb9515 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/canyon"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/tank-top", "wardrobe-tag/pants", "wardrobe-tag/headphones"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

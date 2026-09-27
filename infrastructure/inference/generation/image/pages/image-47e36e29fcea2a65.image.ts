@@ -9,4 +9,5 @@ export const image47e36e29fcea2a65 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/balcony", "setting-tag/ocean"],
   poseTags: ["pose-tag/cowgirl", "pose-tag/kneeling", "pose-tag/sex"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/sunglasses"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

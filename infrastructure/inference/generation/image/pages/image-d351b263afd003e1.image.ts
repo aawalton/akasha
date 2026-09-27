@@ -20,4 +20,5 @@ export const imageD351b263afd003e1 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/studio"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer", "pose-tag/head-tilt"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/deep-v-neck"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -14,4 +14,5 @@ export const image3266b758e04a412f = {
     "pose-tag/back-view",
   ],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

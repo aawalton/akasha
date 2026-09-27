@@ -19,4 +19,5 @@ export const image50fcc068a3e5eade = {
   settingTags: ["setting-tag/bedroom", "setting-tag/indoor"],
   poseTags: ["pose-tag/kneeling", "pose-tag/cowgirl", "pose-tag/kissing", "pose-tag/oral-sex"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

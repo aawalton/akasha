@@ -10,4 +10,5 @@ export const image72fc413f6b2c06a3 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-in-mirror", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/jeans"],
   fantasyTags: ["fantasy-tag/purple-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

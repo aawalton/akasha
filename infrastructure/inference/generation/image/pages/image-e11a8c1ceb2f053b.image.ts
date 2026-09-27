@@ -15,4 +15,5 @@ export const imageE11a8c1ceb2f053b = {
     "pose-tag/looking-back",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/sheer", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

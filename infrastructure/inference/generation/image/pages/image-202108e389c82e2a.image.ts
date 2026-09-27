@@ -21,4 +21,5 @@ export const image202108e389c82e2a = {
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/standing", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/sleeveless"],
   fantasyTags: ["fantasy-tag/glowing-eyes", "fantasy-tag/ethereal"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

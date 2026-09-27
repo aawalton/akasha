@@ -11,4 +11,5 @@ export const image0bf3a2007473d783 = {
   poseTags: ["pose-tag/standing", "pose-tag/undressing"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/shorts"],
   fantasyTags: ["fantasy-tag/blue-hair"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

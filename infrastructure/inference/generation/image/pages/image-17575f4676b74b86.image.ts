@@ -20,4 +20,5 @@ export const image17575f4676b74b86 = {
     "pose-tag/close-up",
   ],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/bra", "wardrobe-tag/bikini"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

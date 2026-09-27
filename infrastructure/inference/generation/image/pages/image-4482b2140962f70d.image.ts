@@ -19,4 +19,5 @@ export const image4482b2140962f70d = {
   settingTags: ["setting-tag/indoor", "setting-tag/studio"],
   poseTags: ["pose-tag/kissing", "pose-tag/close-up", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

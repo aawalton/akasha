@@ -11,4 +11,5 @@ export const image290f4087972bd7e2 = {
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/tube-top", "wardrobe-tag/partial-undress"],
   fantasyTags: ["fantasy-tag/magic", "fantasy-tag/glowing-eyes"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

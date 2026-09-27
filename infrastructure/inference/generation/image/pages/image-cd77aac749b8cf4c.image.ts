@@ -25,4 +25,5 @@ export const imageCd77aac749b8cf4c = {
     "pose-tag/head-tilt",
   ],
   wardrobeTags: ["wardrobe-tag/t-shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

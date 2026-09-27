@@ -25,4 +25,5 @@ export const image4a09d9a5faec071c = {
     "wardrobe-tag/corset",
   ],
   fantasyTags: ["fantasy-tag/historical", "fantasy-tag/medieval"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -21,4 +21,5 @@ export const image16a28f7f17666af7 = {
   poseTags: ["pose-tag/standing", "pose-tag/full-body", "pose-tag/front-view"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/nude"],
   fantasyTags: ["fantasy-tag/cat-ears", "fantasy-tag/tail"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

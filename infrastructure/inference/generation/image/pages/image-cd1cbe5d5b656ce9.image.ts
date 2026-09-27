@@ -20,4 +20,5 @@ export const imageCd1cbe5d5b656ce9 = {
   settingTags: ["setting-tag/waterfall", "setting-tag/outdoor", "setting-tag/nature"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-in-hair", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/lace", "wardrobe-tag/wet"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

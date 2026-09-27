@@ -20,4 +20,5 @@ export const image6c8e535e468c43fc = {
   settingTags: ["setting-tag/indoor", "setting-tag/fireplace"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-down"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/cloak"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image2b0de142abb37e7b = {
   settingTags: ["setting-tag/ruins", "setting-tag/indoor", "setting-tag/rocks"],
   poseTags: ["pose-tag/standing", "pose-tag/working"],
   wardrobeTags: ["wardrobe-tag/pants", "wardrobe-tag/shirt"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

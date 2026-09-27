@@ -16,4 +16,5 @@ export const image2e0ee169f998ae59 = {
     "wardrobe-tag/bare-legs",
   ],
   fantasyTags: ["fantasy-tag/ethereal", "fantasy-tag/glowing"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

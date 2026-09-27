@@ -19,4 +19,5 @@ export const image153627aa48c23cdf = {
   settingTags: ["setting-tag/outdoor", "setting-tag/balcony"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/nude", "wardrobe-tag/jewelry"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

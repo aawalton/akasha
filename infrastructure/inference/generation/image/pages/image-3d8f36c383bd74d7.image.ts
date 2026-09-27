@@ -19,4 +19,5 @@ export const image3d8f36c383bd74d7 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/reclining", "pose-tag/eyes-closed"],
   wardrobeTags: ["wardrobe-tag/swimsuit", "wardrobe-tag/sunglasses"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

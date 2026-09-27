@@ -19,4 +19,5 @@ export const image4147338ec38eadbb = {
   settingTags: ["setting-tag/restaurant", "setting-tag/indoor"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/off-shoulder", "wardrobe-tag/gown"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

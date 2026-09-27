@@ -11,4 +11,5 @@ export const image34b311812e84440b = {
   poseTags: ["pose-tag/profile", "pose-tag/looking-away", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/silk"],
   fantasyTags: ["fantasy-tag/elf-ears", "fantasy-tag/green-hair", "fantasy-tag/golden-eyes"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -20,4 +20,5 @@ export const image2a81eb19eea44d99 = {
   settingTags: ["setting-tag/pool", "setting-tag/outdoor", "setting-tag/daytime"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/looking-back", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/swimsuit"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

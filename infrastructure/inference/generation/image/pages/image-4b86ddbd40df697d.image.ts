@@ -11,4 +11,5 @@ export const image4b86ddbd40df697d = {
   poseTags: ["pose-tag/looking-back", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/backless", "wardrobe-tag/dress", "wardrobe-tag/hat"],
   fantasyTags: ["fantasy-tag/cosplay", "fantasy-tag/anime"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

@@ -10,4 +10,5 @@ export const imageA110ff8d1cb7dbd1 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/city"],
   poseTags: ["pose-tag/standing", "pose-tag/hand-on-hip"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/belt", "wardrobe-tag/choker"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

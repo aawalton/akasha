@@ -19,4 +19,5 @@ export const image29acd68394316a88 = {
   settingTags: ["setting-tag/workshop", "setting-tag/indoor", "setting-tag/office"],
   poseTags: ["pose-tag/standing", "pose-tag/working", "pose-tag/profile"],
   wardrobeTags: ["wardrobe-tag/overalls", "wardrobe-tag/t-shirt", "wardrobe-tag/apron"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

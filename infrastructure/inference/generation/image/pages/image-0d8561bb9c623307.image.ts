@@ -20,4 +20,5 @@ export const image0d8561bb9c623307 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/living-room"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/legs-crossed"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/robe", "wardrobe-tag/bodysuit"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

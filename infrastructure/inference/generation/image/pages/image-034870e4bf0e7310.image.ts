@@ -25,4 +25,5 @@ export const image034870e4bf0e7310 = {
     "pose-tag/legs-crossed",
   ],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/bare-legs"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageD3f471f2c509ea1f = {
   settingTags: ["setting-tag/indoor", "setting-tag/living-room", "setting-tag/fireplace"],
   poseTags: ["pose-tag/sitting", "pose-tag/legs-crossed", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/robe", "wardrobe-tag/bare-legs", "wardrobe-tag/bare-shoulders"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

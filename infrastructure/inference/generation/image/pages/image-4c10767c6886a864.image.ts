@@ -9,4 +9,5 @@ export const image4c10767c6886a864 = {
   settingTags: ["setting-tag/bathroom", "setting-tag/bathtub", "setting-tag/candlelight"],
   poseTags: ["pose-tag/reclining", "pose-tag/looking-at-viewer", "pose-tag/legs-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

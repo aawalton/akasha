@@ -9,4 +9,5 @@ export const imageE4f6e305c16fef15 = {
   settingTags: ["setting-tag/bedroom", "setting-tag/window", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/cross-legged", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

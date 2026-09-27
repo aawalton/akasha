@@ -19,4 +19,5 @@ export const imageDa811df98385efe7 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/nature", "setting-tag/daytime"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/legs-crossed"],
   wardrobeTags: ["wardrobe-tag/lingerie", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

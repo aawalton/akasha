@@ -15,4 +15,5 @@ export const image65c10992ad0cf4f9 = {
   ],
   wardrobeTags: ["wardrobe-tag/corset", "wardrobe-tag/skirt", "wardrobe-tag/glitter-makeup"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/cosplay"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

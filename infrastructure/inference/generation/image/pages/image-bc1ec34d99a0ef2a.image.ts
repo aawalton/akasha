@@ -19,4 +19,5 @@ export const imageBc1ec34d99a0ef2a = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit", "setting-tag/candlelight"],
   poseTags: ["pose-tag/looking-at-viewer", "pose-tag/smiling", "pose-tag/sitting"],
   wardrobeTags: ["wardrobe-tag/dress", "wardrobe-tag/gold-trim"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

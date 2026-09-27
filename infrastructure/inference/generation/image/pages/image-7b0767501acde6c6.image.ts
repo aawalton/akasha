@@ -15,4 +15,5 @@ export const image7b0767501acde6c6 = {
     "wardrobe-tag/bare-legs",
   ],
   fantasyTags: ["fantasy-tag/surreal"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

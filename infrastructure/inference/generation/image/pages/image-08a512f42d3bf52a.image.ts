@@ -19,4 +19,5 @@ export const image08a512f42d3bf52a = {
   settingTags: ["setting-tag/indoor", "setting-tag/party"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/suit", "wardrobe-tag/deep-v-neck", "wardrobe-tag/gown"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

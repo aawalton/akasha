@@ -20,4 +20,5 @@ export const image386dbf1bb091e873 = {
   settingTags: ["setting-tag/studio", "setting-tag/indoor", "setting-tag/plain-background"],
   poseTags: ["pose-tag/arms-raised", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/hair-accessory"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

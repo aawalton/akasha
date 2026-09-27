@@ -14,4 +14,5 @@ export const image6edd122aa1ac26bb = {
     "pose-tag/holding-clothing",
   ],
   wardrobeTags: ["wardrobe-tag/sports-bra", "wardrobe-tag/bikini", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

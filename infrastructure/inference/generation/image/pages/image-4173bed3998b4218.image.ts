@@ -9,4 +9,5 @@ export const image4173bed3998b4218 = {
   settingTags: ["setting-tag/snow"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-back", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/sheer", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

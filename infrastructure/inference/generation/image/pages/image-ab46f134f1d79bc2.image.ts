@@ -21,4 +21,5 @@ export const imageAb46f134f1d79bc2 = {
     "wardrobe-tag/boots",
   ],
   fantasyTags: ["fantasy-tag/medieval", "fantasy-tag/weapons"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

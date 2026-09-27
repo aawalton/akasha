@@ -20,4 +20,5 @@ export const image1e41b95b53005d90 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/studio"],
   poseTags: ["pose-tag/portrait", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/top", "wardrobe-tag/long-sleeves"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

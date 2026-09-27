@@ -14,4 +14,5 @@ export const imageD8f388d3f56bdfda = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/portrait"],
   wardrobeTags: ["wardrobe-tag/saree", "wardrobe-tag/off-shoulder", "wardrobe-tag/silk"],
+  ethnicityTags: ["ethnicity-tag/south-asian"],
 } as const satisfies Image

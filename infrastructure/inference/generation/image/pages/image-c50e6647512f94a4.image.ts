@@ -19,4 +19,5 @@ export const imageC50e6647512f94a4 = {
   settingTags: ["setting-tag/kitchen", "setting-tag/dining-room", "setting-tag/window"],
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/eating"],
   wardrobeTags: ["wardrobe-tag/sweater", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/mixed", "ethnicity-tag/white"],
 } as const satisfies Image

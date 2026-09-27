@@ -19,4 +19,5 @@ export const image5f3fc9166660f1c3 = {
   settingTags: ["setting-tag/bedroom"],
   poseTags: ["pose-tag/reclining", "pose-tag/lying-on-stomach", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/tights", "wardrobe-tag/partial-undress"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

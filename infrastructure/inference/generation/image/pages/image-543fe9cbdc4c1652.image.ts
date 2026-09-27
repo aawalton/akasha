@@ -15,4 +15,5 @@ export const image543fe9cbdc4c1652 = {
   settingTags: ["setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/close-up", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/bare-shoulders", "wardrobe-tag/robe", "wardrobe-tag/off-shoulder"],
+  ethnicityTags: ["ethnicity-tag/mixed"],
 } as const satisfies Image

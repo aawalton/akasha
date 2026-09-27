@@ -9,4 +9,5 @@ export const image0f67f15e70d19910 = {
   settingTags: ["setting-tag/tatami-room", "setting-tag/indoor", "setting-tag/dimly-lit"],
   poseTags: ["pose-tag/kneeling", "pose-tag/looking-up"],
   wardrobeTags: ["wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

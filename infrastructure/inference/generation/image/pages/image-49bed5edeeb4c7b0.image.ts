@@ -19,4 +19,5 @@ export const image49bed5edeeb4c7b0 = {
   settingTags: ["setting-tag/outdoor", "setting-tag/doorway"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/barefoot", "wardrobe-tag/sleepwear", "wardrobe-tag/cloak"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const image183fcfba60bd64a5 = {
   settingTags: ["setting-tag/park", "setting-tag/field", "setting-tag/outdoor"],
   poseTags: ["pose-tag/standing", "pose-tag/back-view"],
   wardrobeTags: ["wardrobe-tag/jeans", "wardrobe-tag/t-shirt", "wardrobe-tag/sneakers"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

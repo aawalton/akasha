@@ -20,4 +20,5 @@ export const imageE04b40efe01545c6 = {
   poseTags: ["pose-tag/standing", "pose-tag/holding-weapon", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/armor", "wardrobe-tag/kimono", "wardrobe-tag/skirt"],
   fantasyTags: ["fantasy-tag/warrior"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

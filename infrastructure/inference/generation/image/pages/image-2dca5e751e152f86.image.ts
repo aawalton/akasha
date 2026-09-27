@@ -15,4 +15,5 @@ export const image2dca5e751e152f86 = {
   ],
   poseTags: ["pose-tag/sitting", "pose-tag/smiling", "pose-tag/looking-down", "pose-tag/close-up"],
   wardrobeTags: ["wardrobe-tag/shirt", "wardrobe-tag/casual-wear"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image

@@ -9,4 +9,5 @@ export const imageAef459a2b8e4759c = {
   settingTags: ["setting-tag/library", "setting-tag/indoor"],
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer"],
   wardrobeTags: ["wardrobe-tag/open-shirt", "wardrobe-tag/topless", "wardrobe-tag/nipples-visible"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

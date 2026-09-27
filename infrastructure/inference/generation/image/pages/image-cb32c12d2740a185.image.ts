@@ -20,4 +20,5 @@ export const imageCb32c12d2740a185 = {
   settingTags: ["setting-tag/indoor", "setting-tag/bedroom", "setting-tag/studio"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-away", "pose-tag/hand-on-face"],
   wardrobeTags: ["wardrobe-tag/topless", "wardrobe-tag/robe", "wardrobe-tag/nude"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

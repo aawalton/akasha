@@ -9,4 +9,5 @@ export const image8162bf8b0fb130bb = {
   settingTags: ["setting-tag/night", "setting-tag/outdoor", "setting-tag/campfire"],
   poseTags: ["pose-tag/standing", "pose-tag/looking-at-viewer", "pose-tag/kneeling"],
   wardrobeTags: ["wardrobe-tag/nude", "wardrobe-tag/headband"],
+  ethnicityTags: ["ethnicity-tag/asian"],
 } as const satisfies Image

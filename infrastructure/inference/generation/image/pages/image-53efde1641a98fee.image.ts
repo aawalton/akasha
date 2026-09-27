@@ -20,4 +20,5 @@ export const image53efde1641a98fee = {
   poseTags: ["pose-tag/sitting", "pose-tag/looking-at-viewer", "pose-tag/smiling"],
   wardrobeTags: ["wardrobe-tag/armor"],
   fantasyTags: ["fantasy-tag/horns", "fantasy-tag/elf-ears", "fantasy-tag/demon"],
+  ethnicityTags: ["ethnicity-tag/white"],
 } as const satisfies Image
