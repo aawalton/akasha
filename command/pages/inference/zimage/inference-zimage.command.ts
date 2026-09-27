@@ -59,6 +59,14 @@ export const inferenceZimage = {
       statement: "The image is written where the caller named that image and nowhere else.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An image rendered here lands as an image page stating how it was rendered.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "`--no-persist` leaves the image where it was written and lands no page.",
+    },
+    {
       decisionKind: "decision-kind/constraint",
       statement: "One workload runs on the GPU at a time.",
     },
@@ -91,6 +99,7 @@ export const inferenceZimage = {
     { argument: "argument/steps" },
     { argument: "argument/guidance" },
     { argument: "argument/output", required: true },
+    { argument: "argument/no-persist" },
     { argument: "argument/prompt-file" },
     { argument: "argument/negative-prompt-file" },
     { argument: "argument/model" },

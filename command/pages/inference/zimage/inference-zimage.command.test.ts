@@ -11,6 +11,7 @@ import {
   at,
   copiedSaid,
   inferenceZimage,
+  makingOf,
   readIn,
   scratchAt,
   stagedInto,
@@ -77,6 +78,36 @@ test("the defaults on the argument pages hold where nothing said them", () => {
     expect(said.taken.loraScales).toBe("1.0")
     expect(said.taken.model).toBe("beyond-reality-3")
   }
+})
+
+test("a render lands a page unless told not to", () => {
+  const kept = readIn(RENDERED, CALLED)
+  const left = readIn([...RENDERED, "--no-persist"], CALLED)
+  expect("refused" in kept || kept.taken.noPersist).toBe(false)
+  expect("refused" in left ? false : left.taken.noPersist).toBe(true)
+})
+
+test("the page landed states how the image was rendered", () => {
+  const made = makingOf({
+    model: "beyond-reality-3",
+    prompt: "a cat",
+    seed: 7,
+    steps: 8,
+    guidance: 1,
+    width: 1024,
+    height: 1024,
+  })
+  expect(made).toEqual({
+    service: "zimage",
+    operation: "generate",
+    model: "beyond-reality-3",
+    prompt: "a cat",
+    seed: 7,
+    steps: 8,
+    guidance: 1,
+    width: 1024,
+    height: 1024,
+  })
 })
 
 test("a guidance that is no number is refused", async () => {

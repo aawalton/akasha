@@ -15,6 +15,7 @@ import { loraScales } from "akasha/command/argument/pages/lora-scales.argument.t
 import { model as modelArgument } from "akasha/command/argument/pages/model.argument.ts"
 import { negativePrompt as negativePromptArgument } from "akasha/command/argument/pages/negative-prompt.argument.ts"
 import { negativePromptFile } from "akasha/command/argument/pages/negative-prompt-file.argument.ts"
+import { noPersist } from "akasha/command/argument/pages/no-persist.argument.ts"
 import { output as outputArgument } from "akasha/command/argument/pages/output.argument.ts"
 import { promptFile } from "akasha/command/argument/pages/prompt-file.argument.ts"
 import { renderPrompt } from "akasha/command/argument/pages/render-prompt.argument.ts"
@@ -40,6 +41,11 @@ import {
   runComfyGraph,
 } from "akasha/infrastructure/inference/client/modules/comfy-client/comfy-client.module.code.ts"
 import { drawSeed } from "akasha/infrastructure/inference/client/modules/inference-seed/inference-seed.module.code.ts"
+import {
+  type Making,
+  makingValues,
+} from "akasha/infrastructure/inference/generation/image/modules/making/image-making.module.code.ts"
+import { landImage } from "akasha/infrastructure/inference/generation/image/modules/picture-landing/picture-landing.module.code.ts"
 import { homeOf } from "akasha/infrastructure/inference/generation/zimage/modules/explore-batch/zimage-explore-batch.module.code.ts"
 import { buildModelGraph } from "akasha/infrastructure/inference/generation/zimage/modules/graph/zimage-graph.module.code.ts"
 import {
@@ -47,6 +53,7 @@ import {
   MODELS,
   toModelId,
 } from "akasha/infrastructure/inference/generation/zimage/modules/models/zimage-models.module.code.ts"
+import { defaultPersistImageDeps } from "akasha/infrastructure/inference/run/modules/persist-image/persist-image.module.code.ts"
 
 const DEFAULT_PORT = "8678"
 
@@ -65,6 +72,7 @@ const PAGES = [
   modelArgument,
   negativePromptArgument,
   negativePromptFile,
+  noPersist,
   outputArgument,
   promptFile,
   renderPrompt,
@@ -169,6 +177,20 @@ async function staged(
   return { name }
 }
 
+type Rendered = {
+  readonly model: string
+  readonly prompt: string
+  readonly seed: number
+  readonly steps: number
+  readonly guidance: number
+  readonly width: number
+  readonly height: number
+}
+
+export function makingOf(rendered: Rendered): Making {
+  return { service: "zimage", operation: "generate", ...rendered }
+}
+
 async function generating(
   taken: Taken,
   prosed: Prosed,
@@ -245,6 +267,14 @@ async function generating(
   await mkdir(dirname(outPath), { recursive: true })
   await writeFile(outPath, png)
   done.push(`${png.byteLength} bytes are at ${outPath}, at seed ${seed}`)
+  if (taken.noPersist) return told(done)
+  const made = makingOf({ model: modelId, prompt, seed, steps, guidance, width, height })
+  await landImage(
+    defaultPersistImageDeps(),
+    png,
+    makingValues(made, () => false),
+    done
+  )
   return told(done)
 }
 
