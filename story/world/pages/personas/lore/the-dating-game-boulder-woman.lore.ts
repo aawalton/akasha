@@ -45,7 +45,7 @@ export const theDatingGameBoulderWoman = {
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
-      fact: "She speaks only in words someone else has just said, choosing which to give back.",
+      fact: "She speaks only in words others have said, any she ever heard, leaning toward the newest.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
