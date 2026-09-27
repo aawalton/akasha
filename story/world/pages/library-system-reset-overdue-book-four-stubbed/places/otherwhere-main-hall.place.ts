@@ -263,10 +263,7 @@ export const otherwhereMainHall = {
       fact: "Nala's third salt throw missed; the bookworm jerked aside, and the salt lies heaped beside it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The salted bookworm lies at Nala's feet by the salt box, its mouth open and working.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Nala pinned the salted bookworm in the heaped salt; it shrinks and weakens but isn't still yet.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
