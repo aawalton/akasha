@@ -5,6 +5,8 @@ export const bloodforge = {
   type: "page-type/temper-motif-style",
   slug: "bloodforge",
   title: "Bloodforge",
+  esoItemStyleId: 61,
+  styleName: "Bloodforge",
   collectionIndex: 40,
   sourceDescription: "Bloodroot Forge dungeon",
 } as const satisfies TemperMotifStyle
