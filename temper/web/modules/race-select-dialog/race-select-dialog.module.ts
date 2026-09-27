@@ -15,5 +15,10 @@ export const raceSelectDialog = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The no-race choice is named by the no-race race page, read from the held catalog.",
+    },
   ],
 } as const satisfies Module

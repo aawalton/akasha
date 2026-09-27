@@ -10,7 +10,7 @@
 {"propertySlug":"import","fileName":"races.module.code.ts","path":"temper/web/modules/character-live-only-panel-card/character-live-only-panel-card.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"races.module.code.ts","path":"temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"races.module.code.ts","path":"temper/web/modules/identity-panel-card/identity-panel-card.module.code.tsx","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"races.module.code.ts","path":"temper/web/modules/race-select-dialog/race-select-dialog.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"races.module.code.ts","path":"temper/web/modules/race-select-dialog/race-select-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"races.module.code.ts","path":"temper/web/modules/recent-characters-card/recent-characters-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"races.module.code.ts","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}

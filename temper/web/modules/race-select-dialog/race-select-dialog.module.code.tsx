@@ -1,7 +1,10 @@
 "use client"
 
 import { getRaceIconUrl } from "akasha/temper/catalog/character-race/modules/race-icon-url/race-icon-url.module.code.ts"
-import type { RaceId } from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
+import {
+  type RaceId,
+  races,
+} from "akasha/temper/catalog/character-race/modules/races/races.module.code.ts"
 import {
   allRaceSources,
   NO_RACE_SOURCE,
@@ -37,7 +40,13 @@ export function RaceSelectDialog({
   onSelect,
 }: RaceSelectDialogProps) {
   const sorted = sortedRaces()
-  const all = allRaceSources()
+  const noRaceName = races.data[NO_RACE_SOURCE.id].name
+  const noRaceSource = useMemo(() => ({ ...NO_RACE_SOURCE, name: noRaceName }), [noRaceName])
+  const sources = allRaceSources()
+  const all = useMemo(
+    () => sources.map((source) => (source.id === noRaceSource.id ? noRaceSource : source)),
+    [sources, noRaceSource]
+  )
   const phrases = useWebPhrases()
   const config: FilterableSelectDialogConfig<RaceSource> = useMemo(
     () => ({
@@ -74,7 +83,7 @@ export function RaceSelectDialog({
       onOpenChange={onOpenChange}
       selectedItemId={selectedRaceId}
       onSelect={handleSelect}
-      defaultItem={NO_RACE_SOURCE}
+      defaultItem={noRaceSource}
       config={config}
     />
   )
