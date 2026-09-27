@@ -14,6 +14,9 @@ import { useSurface } from "akasha/design/interface/primitive/modules/surface-pr
 import type { BuffOrDebuffSource } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 import type { EffectSource } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import { explainBuff } from "akasha/temper/player/character/stat/modules/buff-or-debuff-explainer/buff-or-debuff-explainer.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { buffOrDebuffExplanationDialogNoSource } from "akasha/temper/web/phrase/pages/buff-or-debuff-explanation-dialog-no-source.temper-web-phrase.ts"
+import { buffOrDebuffExplanationDialogProvidedBy } from "akasha/temper/web/phrase/pages/buff-or-debuff-explanation-dialog-provided-by.temper-web-phrase.ts"
 
 interface BuffOrDebuffExplanationDialogProps {
   open: boolean
@@ -29,6 +32,7 @@ export function BuffOrDebuffExplanationDialog({
   sources,
 }: BuffOrDebuffExplanationDialogProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
 
   if (!buff) {
     return null
@@ -47,7 +51,9 @@ export function BuffOrDebuffExplanationDialog({
           {}
           {explanation.sources.length > 0 && (
             <div className="space-y-2">
-              <h3 className="font-semibold text-sm">Provided By</h3>
+              <h3 className="font-semibold text-sm">
+                {phrase(buffOrDebuffExplanationDialogProvidedBy.slug)}
+              </h3>
               <div className={cn("space-y-2 rounded-md p-3", surfaceClass(surface + 1))}>
                 {explanation.sources.map((source, index) => (
                   <div key={index} className="flex items-center justify-between gap-4">
@@ -65,8 +71,7 @@ export function BuffOrDebuffExplanationDialog({
           {explanation.sources.length === 0 && (
             <div className={cn("rounded-md p-4 text-center", surfaceClass(surface + 1))}>
               <p className="text-sm text-tertiary">
-                No skill or potion in this build provides this buff. Some set bonuses grant buffs
-                directly, so check your equipped sets.
+                {phrase(buffOrDebuffExplanationDialogNoSource.slug)}
               </p>
             </div>
           )}

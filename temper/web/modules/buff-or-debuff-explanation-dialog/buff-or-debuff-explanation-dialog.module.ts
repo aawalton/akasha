@@ -6,4 +6,10 @@ export const buffOrDebuffExplanationDialog = {
   slug: "buff-or-debuff-explanation-dialog",
   definition: "the dialog explaining a buff or a debuff",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module
