@@ -1,1 +1,15 @@
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/chest.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/feet.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/hands.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/head.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/legs.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/main-hand.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/neck.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/off-hand.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/one-hand.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/poison.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/ring.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/shoulders.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/two-hand.temper-equip-type.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/catalog/gear/temper-equip-type/pages/waist.temper-equip-type.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
