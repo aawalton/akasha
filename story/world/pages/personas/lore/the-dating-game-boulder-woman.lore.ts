@@ -72,7 +72,10 @@ export const theDatingGameBoulderWoman = {
       fact: "Every word she said after Alan called up to her was one of his.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
-    { fact: "Her name is Echo.", knowers: ["lore-disclosure/game-master"] },
+    {
+      fact: "Her name is Echo.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
     {
       fact: "She laughs without any sound, just a breath let out and a bright look.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
