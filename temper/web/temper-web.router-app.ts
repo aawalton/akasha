@@ -192,6 +192,7 @@ export const temperWeb = {
     "module/effects-panel-card",
     "module/equipment-panel",
     "module/equipment-types",
+    "module/eso-markup-text",
     "module/filterable-select-dialog",
     "module/food-drink-select-dialog",
     "module/format-time-ago",

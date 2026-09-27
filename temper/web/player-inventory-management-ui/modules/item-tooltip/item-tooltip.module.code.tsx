@@ -8,7 +8,7 @@ import type {
 import { convertIconPathToUrl } from "akasha/temper/player/character/characters-equipment/modules/get-equipment-icon/get-equipment-icon.module.code.ts"
 import { EquipmentIcon } from "akasha/temper/web/characters-equipment-ui/modules/equipment-icon/equipment-icon.module.code.tsx"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
-import { EsoMarkupText } from "akasha/temper/web/player-inventory-management-ui/modules/eso-markup-text/eso-markup-text.module.code.tsx"
+import { EsoMarkupText } from "akasha/temper/web/modules/eso-markup-text/eso-markup-text.module.code.tsx"
 
 const STYLE_NAMES: Record<number, string> = {
   1: "Aldmeri",
