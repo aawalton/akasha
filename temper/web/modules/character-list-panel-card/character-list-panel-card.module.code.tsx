@@ -16,6 +16,9 @@ import { buildId } from "akasha/temper/player/character/formula-framework/module
 import type { ClassId } from "akasha/temper/player/character/formula-framework/modules/class-id/class-id.module.code.ts"
 import type { RoleId } from "akasha/temper/player/character/source/modules/character-roles/character-roles.module.code.ts"
 import { buildDateLine } from "akasha/temper/web/modules/build-date-line/build-date-line.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { characterListPanelCardMyBuild } from "akasha/temper/web/phrase/pages/character-list-panel-card-my-build.temper-web-phrase.ts"
+import { characterListPanelCardUntitled } from "akasha/temper/web/phrase/pages/character-list-panel-card-untitled.temper-web-phrase.ts"
 
 interface CharacterListPanelCardBuild {
   id: string
@@ -44,6 +47,7 @@ export function CharacterListPanelCard({
   isOwnBuild,
   userHandle,
 }: CharacterListPanelCardProps) {
+  const phrase = usePhrase()
   const buildData = build.buildData
 
   return (
@@ -58,10 +62,12 @@ export function CharacterListPanelCard({
       >
         <CardHeader className="flex-col items-stretch pb-3">
           <CardTitle className="text-lg">
-            {build.name !== "" ? build.name : "Untitled Build"}
+            {build.name !== "" ? build.name : phrase(characterListPanelCardUntitled.slug)}
             <CardTitleBadges>
               {!isOwnBuild && userHandle != null && <Badge variant="accent">{userHandle}</Badge>}
-              {isOwnBuild && <Badge variant="accent">My Build</Badge>}
+              {isOwnBuild && (
+                <Badge variant="accent">{phrase(characterListPanelCardMyBuild.slug)}</Badge>
+              )}
             </CardTitleBadges>
           </CardTitle>
           {buildData?.character != null &&
