@@ -35,4 +35,5 @@ export const otherwhere00004 = {
     "The panel stays, hanging in the air before her eyes and moving when she turns her head.",
   ],
   lore: ["place/otherwhere-core-chamber"],
+  reviewedBy: ["story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
