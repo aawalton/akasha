@@ -6408,7 +6408,10 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-action-row/rule-card-action-row.module.ts","id":"01a0636c-5d9b-7ced-ac2b-1712d9b2003d"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-controlled-conditions/rule-card-controlled-conditions.module.ts","id":"01a0636c-5d9b-75a6-9606-38540c960042"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-delete-dialog/rule-card-delete-dialog.module.ts","id":"01a0636c-5d9b-78ef-b4d7-86e55d060044"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-chain/rule-card-destination-chain.module.ts","id":"01a0636c-5d9b-7729-a0c5-95ad7e410045"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-format/rule-card-destination-format.module.ts","id":"01a0636c-5d9b-71fc-ab4b-253da6d40046"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-tier-eligibility/rule-card-destination-tier-eligibility.module.ts","id":"01a0636c-5da1-7c94-bd1e-ec989a3c0047"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-destination-tier/rule-card-destination-tier.module.ts","id":"01a0636c-5da1-797f-a883-3f02881c0048"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-can-level-morphs/rule-card-filter-chip-can-level-morphs.module.ts","id":"01a0636c-5da1-795e-85c1-29e384530049"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-item-ids/rule-card-filter-chip-item-ids.module.ts","id":"01a0dece-5017-7174-a964-bbaa92cf078a"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-potion-effects/rule-card-filter-chip-potion-effects.module.ts","id":"01a0636c-5da1-7b4f-885a-0989f745004a"}

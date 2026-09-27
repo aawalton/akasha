@@ -1,12 +1,15 @@
 "use client"
 
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type {
   DestinationChain,
   Tier,
 } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import { RuleCardDestinationTier } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-destination-tier/rule-card-destination-tier.module.code.tsx"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
+import { ruleCardDestinationChainAddTier } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-chain-add-tier.temper-rule-card-phrase.ts"
 import { Plus } from "lucide-react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
@@ -27,6 +30,7 @@ export function RuleCardDestinationChain({
   destinationOptions,
   onChange,
 }: RuleCardDestinationChainProps) {
+  const phrases = useRuleCardPhrases()
   const tiers: readonly Tier[] = chain ?? []
 
   function handleTierChange(index: number, next: Tier) {
@@ -81,7 +85,7 @@ export function RuleCardDestinationChain({
       <div className="flex items-center gap-1.5">
         <ButtonBadge variant="elevation-muted" onClick={handleAddTier}>
           <Plus className="size-3" />
-          Add Tier
+          {titleIn(phrases, ruleCardDestinationChainAddTier.key)}
         </ButtonBadge>
       </div>
     </div>

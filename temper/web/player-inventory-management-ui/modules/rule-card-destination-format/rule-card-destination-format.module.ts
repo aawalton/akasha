@@ -12,5 +12,9 @@ export const ruleCardDestinationFormat = {
       statement:
         "Bank and Guild Bank are read from venue pages, the rest from location type pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A by-priority destination is worded by a rule card phrase, read as held.",
+    },
   ],
 } as const satisfies Module

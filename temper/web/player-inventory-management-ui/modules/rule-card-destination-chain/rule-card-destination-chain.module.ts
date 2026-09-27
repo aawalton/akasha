@@ -6,4 +6,10 @@ export const ruleCardDestinationChain = {
   slug: "rule-card-destination-chain",
   definition: "the chain of destinations a rule tries in turn",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The add tier button is worded by a rule card phrase.",
+    },
+  ],
 } as const satisfies Module

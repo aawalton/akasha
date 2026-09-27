@@ -19,6 +19,7 @@ import {
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
 import { Switch } from "akasha/design/interface/primitive/modules/switch-control/switch-control.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { CanLevelMorphsCondition } from "akasha/temper/items/rules/core/modules/can-level-morphs-filter-types/can-level-morphs-filter-types.module.code.ts"
 import type { CharEligibility } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
 import type {
@@ -26,13 +27,27 @@ import type {
   RequiredSkillLinesMode,
 } from "akasha/temper/items/rules/core/modules/required-skill-lines-filter-types/required-skill-lines-filter-types.module.code.ts"
 import { skillLineOptions } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-filter-chip-required-skill-lines/rule-card-filter-chip-required-skill-lines.module.code.tsx"
+import {
+  phraseOf,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import {
+  titleOfFilter,
+  useConditionFieldTitles,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-field-titles/use-condition-field-titles.module.code.tsx"
+import {
+  optionsOf,
+  useConditionValueOptions,
+} from "akasha/temper/web/player-inventory-management-ui/modules/use-condition-value-options/use-condition-value-options.module.code.tsx"
+import { ruleCardDestinationTierEligibilityActive } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-eligibility-active.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierEligibilityAdd } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-eligibility-add.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierEligibilityCanLevel } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-eligibility-can-level.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierEligibilityModeHeading } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-eligibility-mode-heading.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierEligibilitySkillLine } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-eligibility-skill-line.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierEligibilitySkillLines } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-eligibility-skill-lines.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierEligibilityToggleCanLevel } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-eligibility-toggle-can-level.temper-rule-card-phrase.ts"
 import type { ReactNode } from "react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
-
-const MODE_OPTIONS: readonly { value: RequiredSkillLinesMode; label: string }[] = [
-  { value: "all-maxed", label: "all maxed" },
-  { value: "any-not-maxed", label: "any below max" },
-]
 
 function isEligibilityEmpty(eligibility: CharEligibility | undefined): boolean {
   if (eligibility === undefined) return true
@@ -77,6 +92,14 @@ export function RuleCardDestinationTierEligibility({
   const requiredSkillLines = charEligibility?.requiredSkillLines
   const canLevelMorphs = charEligibility?.canLevelMorphs
   const options = skillLineOptions()
+  const phrases = useRuleCardPhrases()
+  const fields = useConditionFieldTitles()
+  const values = useConditionValueOptions()
+  const modeOptions = values === null ? [] : optionsOf(values, "required-skill-lines")
+  const canLevelTitle = fields === null ? "" : titleOfFilter(fields, "can-level-morphs")
+  const skillLinesTitle = fields === null ? "" : titleOfFilter(fields, "required-skill-lines")
+  const phrased = (key: string, fills: Readonly<Record<string, string>> = {}): string =>
+    phrases === null ? "" : phraseOf(phrases, key, fills)
 
   const selectedItems: readonly BadgeToggleGroupItem[] =
     requiredSkillLines?.skillLineIds
@@ -86,11 +109,22 @@ export function RuleCardDestinationTierEligibility({
   const isActive = !isEligibilityEmpty(charEligibility)
 
   const summaryParts: string[] = []
-  if (canLevelMorphs !== undefined) summaryParts.push("can-level")
-  if (selectedItems.length > 0) {
-    summaryParts.push(`${selectedItems.length} skill line${selectedItems.length === 1 ? "" : "s"}`)
+  if (canLevelMorphs !== undefined) {
+    summaryParts.push(titleIn(phrases, ruleCardDestinationTierEligibilityCanLevel.key))
   }
-  const triggerLabel = isActive ? `Eligibility — ${summaryParts.join(", ")}` : "+ Eligibility"
+  if (selectedItems.length > 0) {
+    summaryParts.push(
+      phrased(
+        selectedItems.length === 1
+          ? ruleCardDestinationTierEligibilitySkillLine.key
+          : ruleCardDestinationTierEligibilitySkillLines.key,
+        { count: String(selectedItems.length) }
+      )
+    )
+  }
+  const triggerLabel = isActive
+    ? phrased(ruleCardDestinationTierEligibilityActive.key, { summary: summaryParts.join(", ") })
+    : titleIn(phrases, ruleCardDestinationTierEligibilityAdd.key)
 
   function handleCanLevelToggle(checked: boolean) {
     const next: CanLevelMorphsCondition | undefined = checked ? { mode: "can-level" } : undefined
@@ -131,16 +165,16 @@ export function RuleCardDestinationTierEligibility({
       <PopoverContent align="start" className="flex flex-col gap-3">
         <div className="flex items-center justify-between gap-2">
           <Text variant="hint" className="font-medium">
-            Can Level Morphs
+            {canLevelTitle}
           </Text>
           <Switch
             checked={canLevelMorphs !== undefined}
             onCheckedChange={handleCanLevelToggle}
-            aria-label="Toggle can level morphs eligibility"
+            aria-label={titleIn(phrases, ruleCardDestinationTierEligibilityToggleCanLevel.key)}
           />
         </div>
         <Text variant="hint" className="font-medium">
-          Required Skill Lines — Mode
+          {phrased(ruleCardDestinationTierEligibilityModeHeading.key, { field: skillLinesTitle })}
         </Text>
         <Select
           value={requiredSkillLines?.mode ?? "all-maxed"}
@@ -150,7 +184,7 @@ export function RuleCardDestinationTierEligibility({
             <SelectValue />
           </SelectTrigger>
           <SelectContent>
-            {MODE_OPTIONS.map((opt) => (
+            {modeOptions.map((opt) => (
               <SelectItem key={opt.value} value={opt.value}>
                 {opt.label}
               </SelectItem>
@@ -158,7 +192,7 @@ export function RuleCardDestinationTierEligibility({
           </SelectContent>
         </Select>
         <Text variant="hint" className="font-medium">
-          Required Skill Lines
+          {skillLinesTitle}
         </Text>
         <BadgeToggleGroup
           items={options}

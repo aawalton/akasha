@@ -4,6 +4,7 @@ import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.
 import { ButtonBadge } from "akasha/design/interface/badge/modules/button-badge/button-badge.module.code.tsx"
 import { EditableNumber } from "akasha/design/interface/form/modules/editable-number/editable-number.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type {
   CharEligibility,
   MoveToDestination,
@@ -12,7 +13,20 @@ import type {
 import { CharacterTargetSelect } from "akasha/temper/web/player-inventory-management-ui/modules/character-target-select/character-target-select.module.code.tsx"
 import { DestinationCascade } from "akasha/temper/web/player-inventory-management-ui/modules/destination-cascade/destination-cascade.module.code.tsx"
 import { RuleCardDestinationTierEligibility } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-destination-tier-eligibility/rule-card-destination-tier-eligibility.module.code.tsx"
+import {
+  phraseOf,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
+import { ruleCardDestinationTierMoveDown } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-move-down.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierMoveUp } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-move-up.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierNumber } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-number.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierRemove } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-remove.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierSetBound } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-set-bound.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierSetBounded } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-set-bounded.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierSetTarget } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-set-target.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierSetUnbounded } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-set-unbounded.temper-rule-card-phrase.ts"
+import { ruleCardDestinationTierUnbound } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-card-destination-tier-unbound.temper-rule-card-phrase.ts"
 import { ArrowDown, ArrowUp, ChevronRight, Trash2 } from "lucide-react"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 
@@ -37,6 +51,7 @@ export function RuleCardDestinationTier({
   onMoveUp,
   onMoveDown,
 }: RuleCardDestinationTierProps) {
+  const phrases = useRuleCardPhrases()
   const unbounded = tier.targetQuantity === undefined
 
   function handleDestinationChange(destination: MoveToDestination) {
@@ -59,7 +74,9 @@ export function RuleCardDestinationTier({
     <div className="flex flex-wrap items-center gap-1.5">
       {}
       <Badge variant="elevation-muted" className="shrink-0">
-        {`Tier ${index + 1}`}
+        {phrases === null
+          ? ""
+          : phraseOf(phrases, ruleCardDestinationTierNumber.key, { number: String(index + 1) })}
       </Badge>
 
       {}
@@ -81,7 +98,11 @@ export function RuleCardDestinationTier({
       {}
       <ChevronRight className="size-3 text-tertiary" />
       {unbounded ? (
-        <ButtonBadge variant="elevation" onClick={handleUnboundedToggle} aria-label="Set target">
+        <ButtonBadge
+          variant="elevation"
+          onClick={handleUnboundedToggle}
+          aria-label={titleIn(phrases, ruleCardDestinationTierSetTarget.key)}
+        >
           x ∞
         </ButtonBadge>
       ) : (
@@ -98,9 +119,17 @@ export function RuleCardDestinationTier({
       <ButtonBadge
         variant="elevation-muted"
         onClick={handleUnboundedToggle}
-        aria-label={unbounded ? "Set bounded target quantity" : "Set unbounded target quantity"}
+        aria-label={titleIn(
+          phrases,
+          unbounded
+            ? ruleCardDestinationTierSetBounded.key
+            : ruleCardDestinationTierSetUnbounded.key
+        )}
       >
-        {unbounded ? "set bound" : "unbound"}
+        {titleIn(
+          phrases,
+          unbounded ? ruleCardDestinationTierSetBound.key : ruleCardDestinationTierUnbound.key
+        )}
       </ButtonBadge>
 
       {}
@@ -118,7 +147,7 @@ export function RuleCardDestinationTier({
           size="icon-sm"
           onClick={onMoveUp}
           disabled={index === 0}
-          aria-label="Move tier up"
+          aria-label={titleIn(phrases, ruleCardDestinationTierMoveUp.key)}
         >
           <ArrowUp className="size-3.5" />
         </Button>
@@ -128,7 +157,7 @@ export function RuleCardDestinationTier({
           size="icon-sm"
           onClick={onMoveDown}
           disabled={index === totalTiers - 1}
-          aria-label="Move tier down"
+          aria-label={titleIn(phrases, ruleCardDestinationTierMoveDown.key)}
         >
           <ArrowDown className="size-3.5" />
         </Button>
@@ -137,7 +166,7 @@ export function RuleCardDestinationTier({
           variant="tertiary"
           size="icon-sm"
           onClick={onRemove}
-          aria-label="Remove tier"
+          aria-label={titleIn(phrases, ruleCardDestinationTierRemove.key)}
         >
           <Trash2 className="size-3.5" />
         </Button>

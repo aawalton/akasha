@@ -6,4 +6,11 @@ export const ruleCardDestinationTierEligibility = {
   slug: "rule-card-destination-tier-eligibility",
   definition: "whether a destination tier is open to a rule",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Headings are condition field titles, modes condition values, the rest rule card phrases.",
+    },
+  ],
 } as const satisfies Module
