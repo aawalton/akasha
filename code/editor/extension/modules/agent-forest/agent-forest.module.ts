@@ -78,15 +78,7 @@ export const agentForest = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat whose role is handler falls in the section `handlers`.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Any other seat assigned a story played falls in the section that story is named.",
-    },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "Every other seat falls in the section `personas`.",
+      statement: "A seat falls in the section the seat section module names for that seat.",
     },
     {
       decisionKind: "decision-kind/departure",

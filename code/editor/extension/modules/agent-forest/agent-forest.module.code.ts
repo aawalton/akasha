@@ -1,4 +1,9 @@
 import * as path from "node:path"
+import {
+  HANDLERS,
+  PERSONAS,
+  seatSectionOf,
+} from "akasha/agent/seat/fleet/modules/seat-section/seat-section.computed-property-module.code.ts"
 import type { AgentTreeRow } from "akasha/alan/harness/code-editor/data-interface/pages/agent-tree/agent-tree.code-editor-data-interface.code.ts"
 import type { SeatMode } from "akasha/code/editor/extension/modules/seat-mode/seat-mode.module.code.ts"
 import type { SubagentNode } from "akasha/code/editor/extension/modules/subagent-reading/subagent-reading.module.code.ts"
@@ -136,18 +141,8 @@ export function assembleForest(
   return sortByName(roots.map((r) => build(r, new Set())).filter(holdsSomethingRunning))
 }
 
-const PERSONAS = "personas"
-
-const HANDLERS = "handlers"
-
-const HANDLER_ROLE = "handler"
-
-const GAME = "story-played/"
-
 function sectionOf(row: SeatRow | undefined): string {
-  if (row?.role === HANDLER_ROLE) return HANDLERS
-  const assignment = row?.assignment ?? null
-  return assignment?.startsWith(GAME) === true ? assignment.slice(GAME.length) : PERSONAS
+  return seatSectionOf(row?.role ?? null, row?.assignment ?? null)
 }
 
 function sectionRow(title: string, seats: readonly AgentTreeRow[]): AgentTreeRow {

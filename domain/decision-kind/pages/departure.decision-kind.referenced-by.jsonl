@@ -262,6 +262,7 @@
 {"propertySlug":"decision-kind","path":"agent/seat/fleet/modules/seat-forest-reading/seat-forest-reading.module.ts","id":"01a09523-af7d-79d0-b719-7194a9ac6954"}
 {"propertySlug":"decision-kind","path":"agent/seat/fleet/modules/seat-forest/seat-forest.module.ts","id":"01a069bd-bdc5-755e-a5da-244f293078f7"}
 {"propertySlug":"decision-kind","path":"agent/seat/fleet/modules/seat-handle/seat-handle.module.ts","id":"01a06983-278f-73b4-b978-513711cc100d"}
+{"propertySlug":"decision-kind","path":"agent/seat/fleet/modules/seat-section/seat-section.computed-property-module.ts","id":"01a0e3e8-a98b-74d1-91a6-5896d43a88b6"}
 {"propertySlug":"decision-kind","path":"agent/seat/fleet/modules/seat-work/seat-work.module.ts","id":"01a0695a-d2ea-764d-9899-b8a6f4e9acd3"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/modules/compose-boot/compose-boot.module.ts","id":"01a069c8-f654-7765-bacf-c9f586d7aa13"}
 {"propertySlug":"decision-kind","path":"agent/seat/launching/modules/pane-capping/pane-capping.module.ts","id":"01a0e31c-9dfb-72e7-8217-ccc7bb763e61"}

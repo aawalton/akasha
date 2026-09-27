@@ -6,6 +6,7 @@ export const seatFleet = {
   slug: "seat-fleet",
   definition: "all of the seats",
   parts: [
+    "computed-property-module/seat-section",
     "module/seat-by-name",
     "module/seat-children",
     "module/seat-facts",
