@@ -5,6 +5,8 @@ export const welkynar = {
   type: "page-type/temper-motif-style",
   slug: "welkynar",
   title: "Welkynar",
+  esoItemStyleId: 73,
+  styleName: "Welkynar",
   collectionIndex: 53,
   sourceDescription: "Cloudrest trial",
 } as const satisfies TemperMotifStyle
