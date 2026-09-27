@@ -7,6 +7,7 @@ export const necklace = {
   key: "necklace",
   title: "Necklace",
   equipType: 2,
+  slotEquipType: "temper-equip-type/neck",
   slotCategory: "necklace",
   equipmentIconName: "necklace",
   allowsLegendary: false,

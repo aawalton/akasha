@@ -5,4 +5,5 @@
 {"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/companion-armor.temper-browser-category.ts","id":"01a0e10d-1b60-7503-8236-bc308da6f342"}
 {"propertySlug":"import","fileName":"head.temper-equip-type.ts","path":"temper/addon/pages/items/modules/inventory-browser-category-types/inventory-browser-category-types.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"head.temper-equip-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"slot-equip-type","path":"temper/catalog/companion/armor-slot/pages/head.temper-companion-armor-slot.ts","id":"01a05fcd-ea68-7959-b8e9-b586bdc6014b"}
 {"propertySlug":"slot-equip-type","path":"temper/catalog/gear/temper-armor-slot/pages/head.temper-armor-slot.ts","id":"01a05fd4-d96d-706f-9d80-32f481500169"}

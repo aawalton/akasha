@@ -1,6 +1,10 @@
+{"propertySlug":"import","fileName":"slot-equip-type.relation-property.types.ts","path":"temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"slot-equip-type.relation-property.types.ts","path":"temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slot-equip-type.relation-property.types.ts","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slot-equip-type.relation-property.types.ts","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"slot-equip-type.relation-property.types.ts","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"page-property","path":"temper/catalog/companion/armor-slot/temper-companion-armor-slot.page-type.ts","id":"01a05fcd-aece-70c8-8784-e3afaec07950"}
+{"propertySlug":"page-property","path":"temper/catalog/companion/jewelry-slot/temper-companion-jewelry-slot.page-type.ts","id":"01a05fcd-aecf-75d4-9252-0fa9f6ad750b"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-armor-slot/temper-armor-slot.page-type.ts","id":"01a05fd1-d430-78b6-bef0-e0208b62ccf9"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-jewelry-type/temper-jewelry-type.page-type.ts","id":"01a05fd1-d433-7778-b5e5-05081a435bde"}
 {"propertySlug":"page-property","path":"temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts","id":"01a05fd1-d442-7dfe-a4bd-c74ac70298ff"}

@@ -9,6 +9,7 @@ export const temperCompanionArmorSlot = {
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/equip-type", required: true, many: false },
+    { pageProperty: "relation-property/slot-equip-type", required: false, many: false },
   ],
   types: "ts",
   schema: "jsonl",

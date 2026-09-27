@@ -2,4 +2,6 @@
 {"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/jewelry-all.temper-browser-category.ts","id":"01a0e10d-1b61-70ad-beae-a983f41f6608"}
 {"propertySlug":"browser-equip-types","path":"temper/items/core/temper-browser-category/pages/jewelry-ring.temper-browser-category.ts","id":"01a0e10d-1b61-7a6b-9326-a243ac4dcaa2"}
 {"propertySlug":"import","fileName":"ring.temper-equip-type.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"slot-equip-type","path":"temper/catalog/companion/jewelry-slot/pages/ring-1.temper-companion-jewelry-slot.ts","id":"01a05fcd-ea6a-7bbd-88b2-04999beea4f5"}
+{"propertySlug":"slot-equip-type","path":"temper/catalog/companion/jewelry-slot/pages/ring-2.temper-companion-jewelry-slot.ts","id":"01a05fcd-ea6a-72a1-a726-0c764ac290d7"}
 {"propertySlug":"slot-equip-type","path":"temper/catalog/gear/temper-jewelry-type/pages/ring.temper-jewelry-type.ts","id":"019e46b4-42ad-7d1a-b334-98e313db5afb"}

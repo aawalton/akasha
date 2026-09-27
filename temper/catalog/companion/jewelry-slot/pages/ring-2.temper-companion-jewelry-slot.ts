@@ -7,6 +7,7 @@ export const ring2 = {
   key: "ring-2",
   title: "Ring 2",
   equipType: 12,
+  slotEquipType: "temper-equip-type/ring",
   slotCategory: "ring",
   equipmentIconName: "ring",
   allowsLegendary: true,
