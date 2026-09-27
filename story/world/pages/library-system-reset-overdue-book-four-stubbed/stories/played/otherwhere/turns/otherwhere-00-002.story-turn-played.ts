@@ -15,8 +15,8 @@ export const otherwhere00002 = {
     'I let the shorts drop to the floor, more comfortable in my black compression tights anyways and slip out of my shoes, standing in my socks on the floor. Somehow, I feel comfortable in my new skin, more comfortable than I was before. "Okay, I guess we\'re implementing isekai protocol. Status? Character Sheet? System?" I try to visualize myself to see if the blue box in front of me changes.',
   beats: [
     "She lets the black shorts go; they slide down her legs and puddle on the soft floor.",
-    "The compression tights underneath hang loose, wrinkled at the knees and bunched at the ankles.",
-    "Their waistband slides down her hips and needs hitching up, but they're easier than the shorts.",
+    "The compression tights underneath still fit snug, hugging her narrower legs waist to ankle.",
+    "They stay put, and they're easier than the shorts.",
     "She steps out of the light blue slip-ons and stands in her socks.",
     "The sock heels sag past her own heels; the floor is cool and springy underneath.",
     "In the red light she feels at ease in this body, more at home than in the old one, not knowing why.",
