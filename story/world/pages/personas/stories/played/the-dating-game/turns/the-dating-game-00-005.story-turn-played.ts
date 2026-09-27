@@ -7,6 +7,6 @@ export const theDatingGame00005 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 5,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action: "\"You're Echo? That's a really pretty name. I'm a big fan of unusual names.\"",
 } as const satisfies StoryTurnPlayed
