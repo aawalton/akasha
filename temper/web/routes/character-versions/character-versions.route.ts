@@ -7,4 +7,10 @@ export const characterVersions = {
   definition: "the saved revisions of a character's build",
   code: "ts",
   urlPath: "api/character-versions/:buildSlug",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal answers a reason code and no wording, which the client words.",
+    },
+  ],
 } as const satisfies Route
