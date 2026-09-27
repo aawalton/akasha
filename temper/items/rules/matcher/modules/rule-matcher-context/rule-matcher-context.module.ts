@@ -15,5 +15,9 @@ export const ruleMatcherContext = {
       decisionKind: "decision-kind/departure",
       statement: "The build-derived half is reusable across many inventory readings.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The motifs a character knows are keyed by motif number, read off her lore books.",
+    },
   ],
 } as const satisfies Module

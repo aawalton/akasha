@@ -77,7 +77,7 @@ export const inventoryCharactersReading = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "What a character knows of a style comes from motifKnowledge, or the lore table where it is absent.",
+        "What a character knows of a motif comes from her lore books, keyed by motif number.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -2,12 +2,13 @@ import { DataError } from "akasha/code/error/errors-core/modules/exit-code/exit-
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import { savedVariablesRootSchema } from "akasha/temper/eso/saved-variable/modules/account-wide/account-wide.module.code.ts"
 import { parseLuaSavedVariablesFile } from "akasha/temper/eso/saved-variable/modules/lua-parser/lua-parser.module.code.ts"
-import { STYLE_TO_CHAPTERS } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
-import { parseMotifBookName } from "akasha/temper/items/core/modules/motif-name-parser/motif-name-parser.module.code.ts"
+import {
+  knownMotifChaptersByStyleFromLore,
+  STYLE_TO_CHAPTERS,
+} from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import { getScriptItemIdByName } from "akasha/temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.code.ts"
 import type { ItemKey } from "akasha/temper/items/rules/core/modules/use-destination-types/use-destination-types.module.code.ts"
 import { loadSkillCatalog } from "akasha/temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
 import type { MorphCharacterCompletion } from "akasha/temper/player/skill-morph/access/modules/morph-completion-shapes/morph-completion-shapes.module.code.ts"
 import type { MorphSkillLineProgressMap } from "akasha/temper/player/skill-morph/modules/character-morph-progress-eso/character-morph-progress-eso.module.code.ts"
 import { z } from "zod"
@@ -115,8 +116,6 @@ const ROOT_SCHEMA = savedVariablesRootSchema(ACCOUNT_WIDE_SCHEMA)
 
 const CRAFTING_MOTIFS_CATEGORY_INDEX = "2"
 
-const CRAFTING_MOTIFS_CATEGORY = 2
-
 function valuesAsNumbers(listOrRecord: unknown): readonly number[] {
   if (Array.isArray(listOrRecord)) {
     const out: number[] = []
@@ -144,50 +143,20 @@ function collectRecipeResultIds(recipes: z.infer<typeof RECIPES_SCHEMA>): Readon
   return ids
 }
 
-interface ParsedMotifCoord {
-  readonly styleId: number
-  readonly chapterId: number
-}
-
-const FILE_COORDS_TO_STYLE_CHAPTER: ReadonlyMap<string, ParsedMotifCoord> = (() => {
-  const map = new Map<string, ParsedMotifCoord>()
-  const category = LORE_LIBRARY_DATA.find((one) => one.categoryIndex === CRAFTING_MOTIFS_CATEGORY)
-  if (!category) return map
-  for (const collection of category.collections) {
-    for (const book of collection.books) {
-      const parsed = parseMotifBookName(book.name)
-      if (parsed === undefined || parsed.chapterId === null) continue
-      map.set(`${collection.collectionIndex}:${book.bookIndex}`, {
-        styleId: parsed.styleId,
-        chapterId: parsed.chapterId,
-      })
-    }
-  }
-  return map
-})()
-
 function collectMotifChaptersByStyle(
   loreLibrary: z.infer<typeof LORE_LIBRARY_SCHEMA>
 ): ReadonlyMap<number, ReadonlySet<number>> {
-  const out = new Map<number, Set<number>>()
-  if (!loreLibrary) return out
-  const motifCategory = loreLibrary[CRAFTING_MOTIFS_CATEGORY_INDEX]
-  if (!motifCategory) return out
+  const motifCategory = loreLibrary?.[CRAFTING_MOTIFS_CATEGORY_INDEX]
+  if (!motifCategory) return new Map()
+  const booksByCollection = new Map<number, Set<number>>()
   for (const [collectionKey, knownBooks] of Object.entries(motifCategory)) {
     const collection = Number(collectionKey)
     if (!Number.isInteger(collection)) continue
-    for (const bookIndex of valuesAsNumbers(knownBooks)) {
-      const parsed = FILE_COORDS_TO_STYLE_CHAPTER.get(`${collection}:${bookIndex}`)
-      if (parsed === undefined) continue
-      let chapterSet = out.get(parsed.styleId)
-      if (chapterSet === undefined) {
-        chapterSet = new Set<number>()
-        out.set(parsed.styleId, chapterSet)
-      }
-      chapterSet.add(parsed.chapterId)
-    }
+    booksByCollection.set(collection, new Set(valuesAsNumbers(knownBooks)))
   }
-  return out
+  return knownMotifChaptersByStyleFromLore(
+    (collectionIndex, bookIndex) => booksByCollection.get(collectionIndex)?.has(bookIndex) === true
+  )
 }
 
 function collectMotifKnowledgeByStyle(
@@ -294,11 +263,11 @@ export function knownMotifChapters(
   held: CharacterKnowledge,
   styleId: number
 ): ReadonlySet<number> | undefined {
-  return held.motifKnowledgeByStyle.get(styleId) ?? held.motifChaptersByStyle.get(styleId)
+  return held.motifChaptersByStyle.get(styleId)
 }
 
 export function knownMotifStyleIds(held: CharacterKnowledge): ReadonlySet<number> {
-  return new Set([...held.motifKnowledgeByStyle.keys(), ...held.motifChaptersByStyle.keys()])
+  return new Set(held.motifChaptersByStyle.keys())
 }
 
 export function knowsItem(held: CharacterKnowledge, itemKey: ItemKey): boolean {

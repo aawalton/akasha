@@ -174,6 +174,7 @@
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking-lists/craft-cooking-lists.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking/craft-cooking.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-inventory/craft-inventory.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-knowledge/craft-knowledge.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-mig-jewelry-swap/craft-mig-jewelry-swap.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-options/craft-options.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"eso-globals.type-declaration.d.ts","path":"temper/addon/pages/items/crafting-station/modules/craft-panel-init/craft-panel-init.module.code.ts","typed":false,"deferred":false}

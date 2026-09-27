@@ -34,8 +34,6 @@ export function lookupKnownMotifChapters(
   charId: string,
   styleId: number
 ): ReadonlySet<number> | undefined {
-  const byStyleId = context.knownMotifsByStyleIdByCharacter.get(charId)?.get(styleId)
-  if (byStyleId !== undefined) return byStyleId
   return context.knownMotifsByCharacter.get(charId)?.get(styleId)
 }
 

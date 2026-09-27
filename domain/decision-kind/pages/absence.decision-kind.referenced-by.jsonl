@@ -1872,6 +1872,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall-plan/inventory-craft-shortfall-plan.module.ts","id":"01a0d4a7-fd95-712e-997a-e1cf26ec6a80"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-craft-shortfall/inventory-craft-shortfall.module.ts","id":"01a0d4ac-7aff-775b-b639-3af515c95fd0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.ts","id":"01a06258-b52f-7219-a9f9-f6d5b67fe4a5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.ts","id":"01a06258-b532-7d2c-96c6-42f3ce92a045"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-venue-exit/inventory-venue-exit.module.ts","id":"01a0cc42-6b1f-7a05-9d38-4e7b21c6f9a0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/sales-addon-name/sales-addon-name.module.ts","id":"01a060e2-3181-7b51-b345-f0965034e14a"}

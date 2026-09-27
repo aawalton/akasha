@@ -15,5 +15,9 @@ export const ruleMatcherContextTypes = {
       decisionKind: "decision-kind/departure",
       statement: "A reader absent from the context leaves the matching condition unjudged.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Known motif chapters are read by motif number from the lore books alone.",
+    },
   ],
 } as const satisfies Module

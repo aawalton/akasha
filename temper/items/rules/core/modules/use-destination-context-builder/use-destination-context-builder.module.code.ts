@@ -73,13 +73,8 @@ export function buildUseDestinationContext(context: RuleMatcherContext): UseDest
           return known.has(itemKey.resultItemId)
         }
         case "motif": {
-          const chaptersByStyleMap = context.knownMotifsByStyleIdByCharacter.get(charId)
-          const loreMap = context.knownMotifsByCharacter.get(charId)
-          if (chaptersByStyleMap === undefined && loreMap === undefined) {
-            return true
-          }
-          const knownChapters =
-            chaptersByStyleMap?.get(itemKey.styleId) ?? loreMap?.get(itemKey.styleId)
+          if (!context.knownMotifsByCharacter.has(charId)) return true
+          const knownChapters = lookupKnownMotifChapters(context, charId, itemKey.styleId)
           if (knownChapters === undefined) return false
           if (itemKey.chapterId === null) {
             const styleChapters = STYLE_TO_CHAPTERS[itemKey.styleId]

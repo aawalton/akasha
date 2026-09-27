@@ -4105,6 +4105,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/alchemy-station-types/alchemy-station-types.module.ts","id":"01a06054-98bd-71bf-8f8d-ba29e4db147c"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/alchemy-station/alchemy-station.module.ts","id":"01a06054-98bc-78f0-afbb-f7343cb932bb"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-cooking-lists/craft-cooking-lists.module.ts","id":"01a08e69-e336-7e71-b562-58e9c8e75d47"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-knowledge/craft-knowledge.module.ts","id":"01a061c7-e852-7375-898b-883039b51d97"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-list-state/craft-list-state.module.ts","id":"01a0d9f8-89e5-7095-8daa-434e41286c2f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-text-style/craft-text-style.module.ts","id":"01a0da30-ff4e-7028-9642-e994a28eaed0"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.ts","id":"01a0d8c4-0001-7ea2-88c2-7e79f5cc462e"}
@@ -4151,6 +4152,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.ts","id":"01a06258-b52f-7911-b65b-636ea6e3179f"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-inspire/inventory-rules-core-inspire.module.ts","id":"01a06258-b52f-71e3-a07e-8a55157ddd17"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-motif-knowledge/inventory-rules-core-motif-knowledge.module.ts","id":"01a06258-b52f-7219-a9f9-f6d5b67fe4a5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-deposits/inventory-rules-dispatch-bank-deposits.module.ts","id":"01a06258-b530-7646-901c-b102e187b412"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced-confirm/inventory-rules-dispatch-bank-paced-confirm.module.ts","id":"01a06258-b530-714c-9441-2a4a09f6f3b7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-bank-paced/inventory-rules-dispatch-bank-paced.module.ts","id":"01a06258-b530-7ef5-9ff0-40428a6c5232"}
@@ -5410,6 +5412,7 @@
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-types/inventory-types.module.ts","id":"01a060c5-3c23-76ec-aa93-fa279ae67a96"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/item-link-parser/item-link-parser.module.ts","id":"01a060bf-747c-74be-8914-30e2ea6cabe8"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.ts","id":"01a060c5-3c25-71a5-8ae6-6300f17e08b1"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.ts","id":"01a060e6-c3e6-7bba-973c-033c3a1970b5"}
 {"propertySlug":"decision-kind","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}
 {"propertySlug":"decision-kind","path":"temper/items/filters/addon/modules/filter-bar-controls/filter-bar-controls.module.ts","id":"01a0614b-6736-7575-aaa0-1766a1adf1a8"}

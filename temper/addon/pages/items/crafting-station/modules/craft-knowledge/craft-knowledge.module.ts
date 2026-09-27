@@ -6,4 +6,15 @@ export const craftKnowledge = {
   slug: "craft-knowledge",
   definition: "what a character knows, asked of the knowledge modules beside this one",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Another character's motif knowledge is her captured lore books, as the rules read it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The current character's motif knowledge is asked of the game.",
+    },
+  ],
 } as const satisfies Module

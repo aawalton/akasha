@@ -6,4 +6,14 @@ export const inventoryRulesCoreMotifKnowledge = {
   slug: "inventory-rules-core-motif-knowledge",
   definition: "how many chapters of a motif a character knows, from the characters add-on's data",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A character's motif knowledge is read off her captured lore library, by book.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The captured motif knowledge keyed by item style id is not read here.",
+    },
+  ],
 } as const satisfies Module

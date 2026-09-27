@@ -308,7 +308,7 @@ export function isStyleNeeded(
   if (id !== false && id !== undefined) {
     for (const [, char] of ipairs(Characters.getCharacters())) {
       if (STATE.Account.style.tracking[char] === true) {
-        if (!Knowledge.isItemKnownByLink(char, link)) {
+        if (!Knowledge.isMotifKnownByLink(char, link)) {
           if (char === STATE.CurrentPlayer) {
             STATE.SELF = true
           }

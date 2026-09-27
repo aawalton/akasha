@@ -1,4 +1,5 @@
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { knownMotifChaptersByStyleFromLore } from "akasha/temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.code.ts"
 import type {
   CharacterBuildInput,
   CompanionBuildInput,
@@ -77,7 +78,15 @@ export function buildDerivedContext(
   )
   const characterLevels = new Map<string, number>()
   const knownRecipesByCharacter = compileKnownRecipes(completionCharacters)
-  const knownMotifsByCharacter = compileKnownMotifs(completionCharacters)
+  const knownMotifsByCharacter = new Map<string, Map<number, Set<number>>>()
+  for (const [charId, books] of compileKnownMotifs(completionCharacters)) {
+    knownMotifsByCharacter.set(
+      charId,
+      knownMotifChaptersByStyleFromLore(
+        (collectionIndex, bookIndex) => books.get(collectionIndex)?.has(bookIndex) === true
+      )
+    )
+  }
   const knownMotifsByStyleIdByCharacter = compileKnownMotifsByStyleId(completionCharacters)
   const knownScriptsByCharacter = compileKnownScripts(completionCharacters)
   const researchedTraitsByCharacter = compileResearchableTraits(completionCharacters)

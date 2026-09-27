@@ -6,4 +6,20 @@ export const motifChapterSet = {
   slug: "motif-chapter-set",
   definition: "the motif chapters each style has, read off the lore library",
   code: "ts",
+  test: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A motif is keyed by the number its book names, never by the game's item style id.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A known master book teaches every chapter of its motif.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The addon, the planner and the tooltip read motif knowledge through this module.",
+    },
+  ],
 } as const satisfies Module
