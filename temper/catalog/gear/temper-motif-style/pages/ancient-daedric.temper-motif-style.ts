@@ -5,6 +5,8 @@ export const ancientDaedric = {
   type: "page-type/temper-motif-style",
   slug: "ancient-daedric",
   title: "Ancient Daedric",
+  esoItemStyleId: 119,
+  styleName: "Ancient Daedric",
   collectionIndex: 86,
   sourceDescription: "Treasure maps and antiquities (Deadlands)",
 } as const satisfies TemperMotifStyle
