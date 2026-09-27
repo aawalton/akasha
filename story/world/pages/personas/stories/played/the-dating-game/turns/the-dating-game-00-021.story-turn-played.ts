@@ -10,7 +10,7 @@ export const theDatingGame00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "While I’m on campus, I decide to take a leisurely walk on the quiet trail next to the stream circling campus, halfway down the hill",
   beats: [
@@ -22,7 +22,6 @@ export const theDatingGame00021 = {
     "The light comes through the leaves in patches, warm on the path, cool in the shade.",
     "After the canyon's cold walls and the booth's hush, the easy quiet here is its own kind of rest.",
     "Ahead, the trail follows the stream on around the hill.",
-    "A side path climbs back up toward the Broadcasting Building, and another drops toward home.",
   ],
   issues: [
     '"A side path climbs back up ..., and another drops away downhill, toward home." - No Prompt',
