@@ -5,6 +5,8 @@ export const sunspire = {
   type: "page-type/temper-motif-style",
   slug: "sunspire",
   title: "Sunspire",
+  esoItemStyleId: 86,
+  styleName: "Sunspire",
   collectionIndex: 61,
   sourceDescription: "Sunspire trial",
 } as const satisfies TemperMotifStyle
