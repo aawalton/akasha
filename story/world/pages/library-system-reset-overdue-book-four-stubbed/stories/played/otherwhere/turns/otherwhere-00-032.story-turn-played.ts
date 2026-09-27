@@ -17,7 +17,7 @@ export const otherwhere00032 = {
     "character-other/otherwhere-engorged-bookworm-05",
     "character-other/otherwhere-engorged-bookworm-06",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "“So, you don’t have a plan. Okay, how can we get you more power to wake up the kitchen without finishing off the big bookworm first?”",
   beats: [
@@ -29,6 +29,7 @@ export const otherwhere00032 = {
     '"And every book you put back on its right shelf gives me a little. Match the mark on the spine."',
     'He flicks his tail at the scattered books. "There are rather a lot of them."',
   ],
+  issues: ["\"I just can't carry salt\" - Links's solid purple hand carried the broom in turn 9"],
   lore: ["lore/otherwhere-universe", "place/otherwhere-hall-back", "place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
