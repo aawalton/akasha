@@ -233,6 +233,14 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
+      fact: "Dried bookworms feed the Library power once stored dry and safe for the night owls.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
       fact: "Salt ground into an open bite burns fiercely but does it no further harm.",
       knowers: ["lore-disclosure/game-master"],
     },
