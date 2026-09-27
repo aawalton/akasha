@@ -4,6 +4,7 @@ export const racialOrc = {
   id: "01a0e0f0-274a-7b4d-bc94-f486bd2e37fd",
   type: "page-type/temper-motif-style",
   slug: "racial-orc",
-  title: "ITEMSTYLE_RACIAL_ORC",
+  title: "Orc",
   esoItemStyleId: 3,
+  styleName: "Orc",
 } as const satisfies TemperMotifStyle
