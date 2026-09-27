@@ -32,6 +32,10 @@ export const pageWriting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A write answers every path it put, whether or not that path changed.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A path taken away that has no body refuses the write.",
     },
     {

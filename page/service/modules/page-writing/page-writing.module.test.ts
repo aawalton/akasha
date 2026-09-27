@@ -20,6 +20,7 @@ import {
   thrownWhy,
   unreadIn,
   writerFor,
+  wroteBy,
 } from "akasha/page/service/modules/page-writing/page-writing.module.code.ts"
 import {
   AT,
@@ -83,6 +84,10 @@ test("a path put names the change adding a body and a path taken away the change
       given: { at: "akasha/b.ts" },
     },
   ])
+})
+
+test("a write sent again after it landed names the path it put", () => {
+  expect(wroteBy(editsIn(asking(putting("x"))), []).wrote).toEqual([AT])
 })
 
 test("one write is committed under its own message", () => {

@@ -193,6 +193,18 @@ export function landedFault(said: Refused): Fault {
   return said.code === INPUT ? "caller" : "service"
 }
 
+export function wroteBy(
+  asked: readonly Edit[],
+  landed: readonly string[]
+): { readonly wrote: readonly string[]; readonly took: readonly string[] } {
+  const gone = new Set(asked.filter((one) => one.at === TAKE).map((one) => one.given.at))
+  const put = asked.filter((one) => one.at === PUT).map((one) => one.given.at)
+  return {
+    wrote: [...new Set([...landed.filter((one) => !gone.has(one)), ...put])],
+    took: landed.filter((one) => gone.has(one)),
+  }
+}
+
 export async function landedIn(root: string, batch: readonly Asked[]): Promise<Faulted<Wrote>> {
   const first = batch[0]
   if (first === undefined)
@@ -209,11 +221,11 @@ export async function landedIn(root: string, batch: readonly Asked[]): Promise<F
       done,
     })
     if ("refusals" in said) return { refused: said.refusals.join(" — "), fault: landedFault(said) }
-    const gone = new Set(asked.filter((one) => one.at === TAKE).map((one) => one.given.at))
+    const answered = wroteBy(asked, said.landed)
     return {
       commit: said.commit,
-      wrote: [...said.landed.filter((one) => !gone.has(one)), ...beside(root, batch, kept)],
-      took: said.landed.filter((one) => gone.has(one)),
+      wrote: [...answered.wrote, ...beside(root, batch, kept)],
+      took: answered.took,
     }
   } catch (thrown) {
     return { refused: thrownWhy(batch, thrown, done), fault: "service" }
