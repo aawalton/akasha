@@ -1,6 +1,7 @@
 import type { SpecialEffectType } from "akasha/temper/catalog/effect/temper-special-effect-type/modules/special-effect-type-ids/special-effect-type-ids.data-table.code.ts"
 import type { StatusEffectType } from "akasha/temper/catalog/effect/temper-status-effect-type/modules/status-effect-type-ids/status-effect-type-ids.data-table.code.ts"
 import type { TargetScope } from "akasha/temper/catalog/effect/temper-target-scope/modules/target-scope-ids/target-scope-ids.data-table.code.ts"
+import type { TargetType } from "akasha/temper/catalog/effect/temper-target-type/modules/target-type-ids/target-type-ids.data-table.code.ts"
 import type {
   ActivationBuffEffect,
   ActivationDebuffEffect,
@@ -17,15 +18,6 @@ export type DamageType =
   | "disease"
   | "bleed"
   | "oblivion"
-
-export type TargetType =
-  | "self"
-  | "enemy"
-  | "ally"
-  | "self-and-ally"
-  | "self-or-ally"
-  | "lowest-health-ally"
-  | "ground"
 
 export interface Targeting {
   type: TargetType

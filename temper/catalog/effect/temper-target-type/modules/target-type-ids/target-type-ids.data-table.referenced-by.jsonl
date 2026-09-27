@@ -1,1 +1,5 @@
+{"propertySlug":"import","fileName":"target-type-ids.data-table.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-formatters/companion-effect-formatters.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"target-type-ids.data-table.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-formula-extraction/companion-formula-extraction.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"target-type-ids.data-table.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-rotation-state/companion-rotation-state.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"target-type-ids.data-table.code.ts","path":"temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/effect/temper-target-type/temper-target-type.page-type.ts","id":"01a05fc5-94d2-7f4f-9b3c-6c27e1c09266"}

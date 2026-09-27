@@ -16,7 +16,7 @@ import {
   type RotationState,
   type SkillState,
 } from "akasha/temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts"
-import type { TargetType } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
+import type { TargetType } from "akasha/temper/catalog/effect/temper-target-type/modules/target-type-ids/target-type-ids.data-table.code.ts"
 
 function classifySkill(skillId: CompanionSkillId): RotationCategory {
   const skill = companionSkills().data[skillId]

@@ -9,10 +9,10 @@ import {
   type CompanionValueFormula,
   getFormulaCoefficientType,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-value-formula/companion-value-formula.module.code.ts"
+import type { TargetType } from "akasha/temper/catalog/effect/temper-target-type/modules/target-type-ids/target-type-ids.data-table.code.ts"
 import type {
   DamageType,
   EffectCondition,
-  TargetType,
 } from "akasha/temper/catalog/skill-kind/modules/skill-activation-effect-types/skill-activation-effect-types.module.code.ts"
 
 type EffectTriggerType =

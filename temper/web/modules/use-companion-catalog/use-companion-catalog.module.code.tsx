@@ -37,6 +37,7 @@ import { temperSpecialEffectType } from "akasha/temper/catalog/effect/temper-spe
 import { temperStatusEffectType } from "akasha/temper/catalog/effect/temper-status-effect-type/temper-status-effect-type.page-type.ts"
 import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
 import { temperTargetScope } from "akasha/temper/catalog/effect/temper-target-scope/temper-target-scope.page-type.ts"
+import { temperTargetType } from "akasha/temper/catalog/effect/temper-target-type/temper-target-type.page-type.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 import { temperRotationBreakdownRow } from "akasha/temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts"
 import { createContext, useContext, useMemo } from "react"
@@ -86,7 +87,9 @@ export function useCompanionCatalog(): CompanionCatalog | null {
   const statusEffects = usePages({ pageTypeSlug: temperStatusEffectType.slug, limit: EVERY })
   const specialEffects = usePages({ pageTypeSlug: temperSpecialEffectType.slug, limit: EVERY })
   const targetScopes = usePages({ pageTypeSlug: temperTargetScope.slug, limit: EVERY })
+  const targetTypes = usePages({ pageTypeSlug: temperTargetType.slug, limit: EVERY })
   const read = [
+    targetTypes,
     targetScopes,
     specialEffects,
     statusEffects,
@@ -159,6 +162,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
       [temperStatusEffectType.slug, statusEffects.rows],
       [temperSpecialEffectType.slug, specialEffects.rows],
       [temperTargetScope.slug, targetScopes.rows],
+      [temperTargetType.slug, targetTypes.rows],
     ])
     return holdCompanionCatalog(companionCatalogFrom((slug) => byType.get(slug) ?? []))
   }, [
@@ -196,6 +200,7 @@ export function useCompanionCatalog(): CompanionCatalog | null {
     statusEffects.rows,
     specialEffects.rows,
     targetScopes.rows,
+    targetTypes.rows,
   ])
   if (failed !== null) throw failed
   return catalog

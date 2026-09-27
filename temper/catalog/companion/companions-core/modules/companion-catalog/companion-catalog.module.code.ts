@@ -83,12 +83,14 @@ export interface CompanionCatalogParts {
   readonly statusEffectTypes: readonly CompanionRoleTemplate[]
   readonly specialEffectTypes: readonly CompanionRoleTemplate[]
   readonly targetScopes: readonly CompanionRoleTemplate[]
+  readonly targetTypes: readonly CompanionRoleTemplate[]
 }
 
 export interface CompanionCatalog {
   readonly statusEffectTypes: readonly CompanionRoleTemplate[]
   readonly specialEffectTypes: readonly CompanionRoleTemplate[]
   readonly targetScopes: readonly CompanionRoleTemplate[]
+  readonly targetTypes: readonly CompanionRoleTemplate[]
   readonly effectCategoryOrder: Readonly<Record<string, number>>
   readonly breakdownRows: readonly RotationBreakdownRowTemplate[]
   readonly effectCategories: Readonly<Record<string, BuffCategory>>
@@ -153,6 +155,7 @@ export function catalogOf({
   statusEffectTypes,
   specialEffectTypes,
   targetScopes,
+  targetTypes,
 }: CompanionCatalogParts): CompanionCatalog {
   const companionsById: Record<string, CompanionTemplate> = {}
   for (const companion of companions) companionsById[companion.id] = companion
@@ -166,6 +169,7 @@ export function catalogOf({
     statusEffectTypes,
     specialEffectTypes,
     targetScopes,
+    targetTypes,
     roles,
     baseRoles,
     qualities,
