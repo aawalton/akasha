@@ -33,6 +33,15 @@ export const pageService = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A read pulls from disk only the pages its query needs, when its query needs them.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "The pages system service builds no large cache or index of the pages to run.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Reads are answered in parallel.",
     },
     {
