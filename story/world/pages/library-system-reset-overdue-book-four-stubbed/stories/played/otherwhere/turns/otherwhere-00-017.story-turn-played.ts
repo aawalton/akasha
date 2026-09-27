@@ -4,10 +4,13 @@ export const otherwhere00017 = {
   id: "01a0e4a2-ba45-7a22-9f77-0741d748b5be",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-017",
+  ownLength: 151,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 17,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  turnStatus: "turn-status/reviewers",
   action:
     "“Okay, that was harder than expected. Is there an easy way here that I’m missing, or were you really expecting me to take on a room of these with a broom?”",
   beats: [
