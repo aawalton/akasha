@@ -5,6 +5,8 @@ export const westWealdLegion = {
   type: "page-type/temper-motif-style",
   slug: "west-weald-legion",
   title: "West Weald Legion",
+  esoItemStyleId: 148,
+  styleName: "West Weald Legion",
   collectionIndex: 111,
   sourceDescription: "Mirrormoor Incursion dailies (Gold Road)",
   dropSources: [
