@@ -3,6 +3,7 @@ import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companio
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { emptySkillPointProgress } from "akasha/temper/player/completion/modules/completion-progress/completion-progress.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
 import { NO_COMPLETION_CATALOGS as NONE } from "akasha/temper/player/completion/temper-player-completion/modules/completion-catalogs/completion-catalogs.module.code.ts"
 import {
   type NextCharacterInput,
@@ -16,6 +17,7 @@ import {
 
 holdCompanionCatalogFromCheckout()
 holdSkillCatalogFromCheckout()
+holdLoreLibraryFromCheckout()
 
 const CARD = "lore-library-character"
 const CATEGORY = 1

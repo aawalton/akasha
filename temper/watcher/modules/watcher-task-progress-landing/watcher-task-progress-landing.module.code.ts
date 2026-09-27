@@ -14,6 +14,7 @@ import {
   type CharacterCompletion,
   characterCompletionSchema,
 } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
+import { loadLoreLibrary } from "akasha/temper/player/completion/modules/held-lore-library-loading/held-lore-library-loading.module.code.ts"
 import { applyCompletionOverrides } from "akasha/temper/player/completion/temper-player-completion/modules/apply-completion-overrides/apply-completion-overrides.module.code.ts"
 import { isUnmeasuredCard } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-task-progress/completion-card-task-progress.module.code.ts"
 import {
@@ -90,6 +91,7 @@ function loadCatalogs(): Promise<unknown> {
     loadRecipeCatalog(),
     loadCompanionCatalog(),
     loadSkillCatalog(),
+    loadLoreLibrary(),
   ])
 }
 

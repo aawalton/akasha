@@ -2,6 +2,7 @@ import { holdCompanionCatalogFromCheckout } from "akasha/temper/catalog/companio
 import { holdRecipeCatalogFromCheckout } from "akasha/temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog/recipe-list-catalog.module.test-fixtures.ts"
 import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.test-fixtures.ts"
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
 
 export const PAGE = `import type { TemperTask } from "../../temper-task.page-type.types.ts"
 
@@ -20,5 +21,6 @@ export async function catalogsHeld(): Promise<unknown> {
     holdRecipeCatalogFromCheckout(),
     holdCompanionCatalogFromCheckout(),
     holdSkillCatalogFromCheckout(),
+    holdLoreLibraryFromCheckout(),
   ]
 }

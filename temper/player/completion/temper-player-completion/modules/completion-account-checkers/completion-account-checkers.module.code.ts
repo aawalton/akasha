@@ -1,6 +1,6 @@
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { AccountCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { loreLibrary } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts"
 import { transformAccountLoreUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"
 import { grandMasterStationNodes } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-nodes/completion-account-nodes.module.code.ts"
 import {
@@ -219,7 +219,7 @@ export const ACCOUNT_COMPLETION_CARD_CHECKERS: Partial<
 
   "lore-library": countChecker(({ rows }) => {
     if (!rows.some((row) => isCharacterMeasured(row.completion))) return undefined
-    const union = transformAccountLoreUnion(LORE_LIBRARY_DATA, rows)
+    const union = transformAccountLoreUnion(loreLibrary(), rows)
     return measured(union.knownCount, union.totalBooks)
   }),
 

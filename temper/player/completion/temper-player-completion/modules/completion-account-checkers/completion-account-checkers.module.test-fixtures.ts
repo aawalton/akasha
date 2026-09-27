@@ -4,8 +4,7 @@ import { holdSetCatalogFromCheckout } from "akasha/temper/player/character/chara
 import { holdSkillCatalogFromCheckout } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.test-fixtures.ts"
 import { grimoires } from "akasha/temper/player/character/skill/modules/scribing-grimoires/scribing-grimoires.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
-
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
 import { transformAccountLoreUnion } from "akasha/temper/player/completion/temper-player-completion/modules/completion-account-lore-union/completion-account-lore-union.module.code.ts"
 import {
   transformAccountRecipeUnion,
@@ -59,7 +58,9 @@ if (FIRST_LIST === undefined || FIRST_RECIPE === undefined) {
 const FIRST_GRIMOIRE = grimoires.list[0]
 if (FIRST_GRIMOIRE === undefined) throw new Error("test fixture: no grimoire")
 
-const FIRST_LORE_CATEGORY = LORE_LIBRARY_DATA[0]
+const LORE = holdLoreLibraryFromCheckout()
+
+const FIRST_LORE_CATEGORY = LORE[0]
 const FIRST_LORE_COLLECTION = FIRST_LORE_CATEGORY?.collections[0]
 const FIRST_LORE_BOOK = FIRST_LORE_COLLECTION?.books[0]
 if (
@@ -230,7 +231,7 @@ export function summaryOf({ account, rows, catalogs }: AccountCheckerInput): Acc
     transformAntiquityLoreProgress(account, catalogs.antiquityCategories),
     transformCollectiblesProgress(account, catalogs.collectibleCategories),
     transformItemSetProgress(account, catalogs.setCategories),
-    transformAccountLoreUnion(LORE_LIBRARY_DATA, rows),
+    transformAccountLoreUnion(LORE, rows),
     transformAccountPoiUnion(transformPoiProgress(rows, catalogs.poiZones), catalogs.poiZones),
     transformAccountQuestUnion(transformQuestProgress(rows, catalogs.questZones)),
     transformAccountRecipeUnion(transformRecipeProgress(rows)),

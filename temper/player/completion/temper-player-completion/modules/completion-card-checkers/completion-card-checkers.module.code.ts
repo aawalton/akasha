@@ -1,7 +1,7 @@
 import { getEsoDateString } from "akasha/temper/player/character/formula-framework/modules/eso-date/eso-date.module.code.ts"
 import { skillLines } from "akasha/temper/player/character/skill/line/modules/skill-lines/skill-lines.module.code.ts"
 import type { CharacterCompletion } from "akasha/temper/player/completion/modules/completion-record/completion-record.module.code.ts"
-import { LORE_LIBRARY_DATA } from "akasha/temper/player/completion/modules/lore-library-data/lore-library-data.module.code.ts"
+import { loreLibrary } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.code.ts"
 import {
   countAchievementPath,
   isAchievementPathDone,
@@ -70,13 +70,13 @@ export const COMPLETION_CARD_CHECKERS: Partial<
       return false
     },
     isItemComplete(completion, itemPath) {
-      return isLoreLibraryItemComplete(LORE_LIBRARY_DATA, completion, itemPath)
+      return isLoreLibraryItemComplete(loreLibrary(), completion, itemPath)
     },
     getItemPickerLevels(_completions, currentPath) {
       if (currentPath.length === 0) {
         return {
           label: "Category",
-          options: LORE_LIBRARY_DATA.map((category) => ({
+          options: loreLibrary().map((category) => ({
             value: category.categoryIndex,
             label: category.name,
           })),
@@ -85,7 +85,7 @@ export const COMPLETION_CARD_CHECKERS: Partial<
 
       if (currentPath.length === 1) {
         const categoryIndex = Number(currentPath[0])
-        const category = LORE_LIBRARY_DATA.find((entry) => entry.categoryIndex === categoryIndex)
+        const category = loreLibrary().find((entry) => entry.categoryIndex === categoryIndex)
         if (!category) return null
         return {
           label: "Collection",

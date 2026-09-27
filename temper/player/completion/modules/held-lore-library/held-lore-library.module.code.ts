@@ -74,3 +74,11 @@ export function holdLoreLibrary(library: LoreLibrary): LoreLibrary {
 export function heldLoreLibrary(): LoreLibrary | null {
   return held
 }
+
+const UNREAD =
+  "the lore library is read from pages, and nothing has read it yet — await `loadLoreLibrary()` where the work starts, or hold it before the work starts"
+
+export function loreLibrary(): LoreLibrary {
+  if (held !== null) return held
+  throw new Error(UNREAD)
+}
