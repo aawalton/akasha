@@ -25,6 +25,14 @@ import type { DrawnSection } from "akasha/infrastructure/service/akasha-service/
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { methodologyPanels } from "akasha/temper/web/modules/companion-engine-methodology/companion-engine-methodology.module.code.tsx"
 import { KNOWN_ISSUES_METHODOLOGY_PANELS } from "akasha/temper/web/modules/known-issues-methodology/known-issues-methodology.module.code.tsx"
+import {
+  usePhrase,
+  usePhraseDescription,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { methodologyPageContentCompanionEngine } from "akasha/temper/web/phrase/pages/methodology-page-content-companion-engine.temper-web-phrase.ts"
+import { methodologyPageContentKnownIssues } from "akasha/temper/web/phrase/pages/methodology-page-content-known-issues.temper-web-phrase.ts"
+import { methodologyPageContentNoKnownIssues } from "akasha/temper/web/phrase/pages/methodology-page-content-no-known-issues.temper-web-phrase.ts"
+import { methodologyPageContentTitle } from "akasha/temper/web/phrase/pages/methodology-page-content-title.temper-web-phrase.ts"
 import { ChevronLeft, FlaskConical, TriangleAlert } from "lucide-react"
 
 interface MethodologyPageContentProps {
@@ -33,6 +41,10 @@ interface MethodologyPageContentProps {
 }
 
 export function MethodologyPageContent({ initialTab, sections }: MethodologyPageContentProps) {
+  const phrase = usePhrase()
+  const phraseDescription = usePhraseDescription()
+  const companionEngine = phrase(methodologyPageContentCompanionEngine.slug)
+  const knownIssues = phrase(methodologyPageContentKnownIssues.slug)
   return (
     <PageLayout
       skeleton={tabbedPageSkeleton({
@@ -49,7 +61,7 @@ export function MethodologyPageContent({ initialTab, sections }: MethodologyPage
               <ChevronLeft className="h-4 w-4" />
             </Link>
           </Button>
-          <PageTitle>Methodology</PageTitle>
+          <PageTitle>{phrase(methodologyPageContentTitle.slug)}</PageTitle>
         </div>
       </PageLayout.Header>
 
@@ -63,22 +75,22 @@ export function MethodologyPageContent({ initialTab, sections }: MethodologyPage
             <PageTabsTrigger
               value="companion-engine"
               icon={<FlaskConical />}
-              label="Companion Engine"
+              label={companionEngine}
             />
-            <PageTabsTrigger value="known-issues" icon={<TriangleAlert />} label="Known Issues" />
+            <PageTabsTrigger value="known-issues" icon={<TriangleAlert />} label={knownIssues} />
           </TabsList>
         </PageLayout.Tabs>
 
         <PageLayout.Content>
           <TabsContent value="companion-engine">
             <div className="flex flex-col gap-6">
-              <PageTabHeader title="Companion Engine" />
+              <PageTabHeader title={companionEngine} />
               <ResponsiveColumns>{methodologyPanels(sections)}</ResponsiveColumns>
             </div>
           </TabsContent>
           <TabsContent value="known-issues">
             <div className="flex flex-col gap-6">
-              <PageTabHeader title="Known Issues" />
+              <PageTabHeader title={knownIssues} />
               {KNOWN_ISSUES_METHODOLOGY_PANELS.length > 0 ? (
                 <ResponsiveColumns>{KNOWN_ISSUES_METHODOLOGY_PANELS}</ResponsiveColumns>
               ) : (
@@ -87,11 +99,9 @@ export function MethodologyPageContent({ initialTab, sections }: MethodologyPage
                     <EmptyMedia variant="icon">
                       <TriangleAlert />
                     </EmptyMedia>
-                    <EmptyTitle>Temper does not publish a known-issues list yet</EmptyTitle>
+                    <EmptyTitle>{phrase(methodologyPageContentNoKnownIssues.slug)}</EmptyTitle>
                     <EmptyDescription>
-                      This tab is empty because nothing has been written into it, not because Temper
-                      checked and found nothing. Read the blank list as "not published here" rather
-                      than "nothing is wrong."
+                      {phraseDescription(methodologyPageContentNoKnownIssues.slug)}
                     </EmptyDescription>
                   </EmptyHeader>
                 </Empty>
