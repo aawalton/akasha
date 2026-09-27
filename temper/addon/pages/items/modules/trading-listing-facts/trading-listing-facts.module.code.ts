@@ -9,10 +9,12 @@ import { parseNumber } from "akasha/code/type/narrowing/modules/parse-number/par
 import { stringIn } from "akasha/code/type/narrowing/modules/string-in/string-in.module.code.ts"
 import { categoryRoots } from "akasha/temper/addon/pages/items/modules/inventory-category-tree/inventory-category-tree.module.code.ts"
 import { buildUnlockItemKey } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-character-finders/inventory-rules-core-character-finders.module.code.ts"
+import { potionRestoresCompiledIn } from "akasha/temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts"
 import type { BrowseListing } from "akasha/temper/economy/trading/listing/modules/browse-listings/browse-listings.module.code.ts"
 import { classifyItemToNodeIds } from "akasha/temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts"
 import type { InventoryItemData } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type { ClassifiableItem } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import { readPotionRestoresFrom } from "akasha/temper/items/rules/core/modules/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import {
   buildItemFactsFromInventoryItem,
   resolveBookItemKey,
@@ -40,6 +42,8 @@ function scriptsCompiledIn(this: void): Iterable<ScriptNamed> {
 }
 
 readScriptsFrom(scriptsCompiledIn)
+
+readPotionRestoresFrom(potionRestoresCompiledIn)
 
 function linkToInventoryItem(itemLink: string, stackCount: number): InventoryItemData {
   const [filterTypeBroad, filterTypeSpecific] = GetItemLinkFilterTypeInfo(itemLink)

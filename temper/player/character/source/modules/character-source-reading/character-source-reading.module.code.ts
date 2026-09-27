@@ -1,6 +1,7 @@
 import {
   holdPotions,
   POTION_READS,
+  potionRestoresOf,
   potionsOf,
 } from "akasha/temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts"
 import { temperCurse } from "akasha/temper/catalog/effect/temper-curse/temper-curse.page-type.ts"
@@ -11,6 +12,7 @@ import {
   skillSlotsOf,
 } from "akasha/temper/catalog/skill-kind/modules/skill-slots/skill-slots.module.code.ts"
 import { temperAlliance } from "akasha/temper/catalog/world/temper-alliance/temper-alliance.page-type.ts"
+import { readPotionRestoresFrom } from "akasha/temper/items/rules/core/modules/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import {
   BUFF_OR_DEBUFF_READS,
   buffsAndDebuffsOf,
@@ -120,4 +122,6 @@ export function holdCharacterSources(rowsOf: (pageTypeSlug: string) => Iterable<
   holdSkillSlots(skillSlotsOf(rowsOf(temperSkillSlot.slug)))
   holdBuffsAndDebuffs(buffsAndDebuffsOf(rowsOf))
   holdPotions(potionsOf(rowsOf))
+  const restores = potionRestoresOf(rowsOf)
+  readPotionRestoresFrom(() => restores)
 }

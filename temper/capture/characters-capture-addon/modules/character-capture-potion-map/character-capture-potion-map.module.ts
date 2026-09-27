@@ -24,5 +24,9 @@ export const characterCapturePotionMap = {
       decisionKind: "decision-kind/departure",
       statement: "A potion no page states takes the no-potion page's place.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What each potion restores is compiled in from the potion pages as well.",
+    },
   ],
 } as const satisfies Module

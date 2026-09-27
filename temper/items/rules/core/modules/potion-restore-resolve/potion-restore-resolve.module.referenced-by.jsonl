@@ -1,3 +1,7 @@
 {"propertySlug":"import","fileName":"potion-restore-resolve.module.code.ts","path":"temper/addon/pages/items/modules/inventory-build-item-facts/inventory-build-item-facts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"potion-restore-resolve.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"potion-restore-resolve.module.code.ts","path":"temper/capture/characters-capture-addon/modules/character-capture-potion-map/character-capture-potion-map.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"potion-restore-resolve.module.code.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"potion-restore-resolve.module.code.ts","path":"temper/items/rules/eval/modules/build-item-facts-from-inventory-item/build-item-facts-from-inventory-item.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"potion-restore-resolve.module.code.ts","path":"temper/player/character/source/modules/character-source-reading/character-source-reading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"temper/items/rules/core/temper-items-rules-core.domain.ts","id":"01a060d9-44cd-7bbd-88e3-944b7a932e9a"}

@@ -1,42 +1,32 @@
-const POTION_ITEM_ID_TO_RESTORE_METRICS: Record<number, readonly string[]> = {
-  [64710]: ["health-restore", "magicka-restore", "stamina-restore"],
-  [112427]: ["magicka-restore"],
-  [112428]: ["stamina-restore"],
-  [124674]: ["health-restore"],
-  [27036]: ["health-restore"],
-  [27037]: ["magicka-restore"],
-  [27038]: ["stamina-restore"],
-  [176041]: ["health-restore", "magicka-restore"],
-  [176040]: ["magicka-restore"],
-  [176042]: ["stamina-restore"],
-  [34125]: ["health-restore"],
-  [42406]: ["health-restore"],
-  [54857]: ["stamina-restore"],
-  [54858]: ["magicka-restore"],
-  [54859]: ["health-restore", "magicka-restore", "stamina-restore"],
-  [61028]: ["health-restore"],
-  [61029]: ["stamina-restore"],
-  [61030]: ["magicka-restore"],
-  [64510]: ["health-restore"],
-  [64741]: ["health-restore", "magicka-restore", "stamina-restore"],
-  [68350]: ["magicka-restore"],
-  [68351]: ["magicka-restore"],
-  [68352]: ["stamina-restore"],
-  [68353]: ["stamina-restore"],
-  [68356]: ["health-restore"],
-  [71071]: ["health-restore"],
-  [71072]: ["magicka-restore"],
-  [71073]: ["stamina-restore"],
-  [74728]: ["stamina-restore"],
-  [74729]: ["stamina-restore"],
-  [112430]: ["health-restore"],
-  [135111]: ["health-restore"],
-  [135114]: ["health-restore", "magicka-restore", "stamina-restore"],
-  [135125]: ["magicka-restore"],
-  [135127]: ["stamina-restore"],
-  [214314]: ["health-restore", "magicka-restore", "stamina-restore"],
-  [217946]: ["health-restore", "magicka-restore", "stamina-restore"],
-  [224832]: ["magicka-restore", "stamina-restore"],
+import { slugIn } from "akasha/change/modules/target-narrowing/target-narrowing.module.code.ts"
+
+export type PotionRestores = {
+  readonly itemId: number
+  readonly restores: readonly string[]
+}
+
+type RestoresByItemId = { [itemId: number]: readonly string[] | undefined }
+
+const UNREAD =
+  "no potion pages are read yet — the skill catalogue names them when it is held, and an add-on names the ones compiled into it"
+
+let given: (() => Iterable<PotionRestores>) | undefined
+
+let restoresByItemId: RestoresByItemId | undefined
+
+export function readPotionRestoresFrom(potions: () => Iterable<PotionRestores>): undefined {
+  given = potions
+  restoresByItemId = undefined
+  return undefined
+}
+
+function restoresByItemIdOf(): RestoresByItemId {
+  if (given === undefined) throw new Error(UNREAD)
+  const found: RestoresByItemId = {}
+  for (const one of given()) {
+    found[one.itemId] = one.restores.map(slugIn)
+  }
+  return found
 }
 
 const RESTORE_HEALTH_EFFECT_ID = 1
@@ -89,5 +79,6 @@ export function resolvePotionRestoreMetricIds(
   if (encodedTraits !== 0) {
     return decodePotionRestoreMetricIds(encodedTraits)
   }
-  return POTION_ITEM_ID_TO_RESTORE_METRICS[itemId]
+  restoresByItemId ??= restoresByItemIdOf()
+  return restoresByItemId[itemId]
 }

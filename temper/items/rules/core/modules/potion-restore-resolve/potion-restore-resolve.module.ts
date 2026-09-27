@@ -37,8 +37,15 @@ export const potionRestoreResolve = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "The item id table is written out from the alchemy and mined-item pages rather than by hand.",
+      statement: "A potion known by item id restores what its potion page states it restores.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Outside the game the potion pages are read as the skill catalogue holds them.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An add-on reads the potion pages compiled into it.",
     },
     {
       decisionKind: "decision-kind/departure",

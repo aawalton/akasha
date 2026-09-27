@@ -3,6 +3,7 @@ import {
   type DataFile,
 } from "akasha/code/type/narrowing/modules/create-data-file/create-data-file.module.code.ts"
 import { parseString } from "akasha/code/type/narrowing/modules/parse-string/parse-string.module.code.ts"
+import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
 import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/temper-buff-major.page-type.ts"
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
@@ -11,6 +12,7 @@ import { temperPotionCrafted } from "akasha/temper/catalog/gear/temper-potion-cr
 import { temperPotionCrown } from "akasha/temper/catalog/gear/temper-potion-crown/temper-potion-crown.page-type.ts"
 import { temperPotionDropped } from "akasha/temper/catalog/gear/temper-potion-dropped/temper-potion-dropped.page-type.ts"
 import { temperReagent } from "akasha/temper/catalog/gear/temper-reagent/temper-reagent.page-type.ts"
+import type { PotionRestores } from "akasha/temper/items/rules/core/modules/potion-restore-resolve/potion-restore-resolve.module.code.ts"
 import type { Effect } from "akasha/temper/player/character/formula-framework/modules/effect/effect.module.code.ts"
 import type { EffectSourceInterface } from "akasha/temper/player/character/formula-framework/modules/effect-source/effect-source.module.code.ts"
 import {
@@ -78,11 +80,17 @@ const FIELDS: readonly string[] = [
   "hashPlace",
 ]
 
+const RESTORING_TYPES: readonly string[] = [
+  temperPotionCrown.slug,
+  temperPotionDropped.slug,
+  temperPotion.slug,
+]
+
 export const POTION_READS: readonly Read[] = [
-  [temperPotionCrown.slug, [...FIELDS, "itemId"]],
-  [temperPotionDropped.slug, [...FIELDS, "itemId"]],
+  [temperPotionCrown.slug, [...FIELDS, "itemId", "restores"]],
+  [temperPotionDropped.slug, [...FIELDS, "itemId", "restores"]],
   [temperPotionCrafted.slug, [...FIELDS, "recipes"]],
-  [temperPotion.slug, ["slug", "key", "title", "hashPlace"]],
+  [temperPotion.slug, ["slug", "key", "title", "hashPlace", "itemId", "restores"]],
   [temperReagent.slug, ["slug", "title"]],
   ...BUFF_TYPES.map((pageTypeSlug): Read => [pageTypeSlug, ["slug", "key"]]),
   [temperMetricTree.slug, ["slug", "nodeId"]],
@@ -172,6 +180,19 @@ export function potionsOf(rowsOf: (pageTypeSlug: string) => Iterable<Row>): Poti
     .map((row) => placed(row, "none", lookups))
   const read = inHashPlaces([...kinds, ...none])
   return createDataFile<PotionSource>()(Object.fromEntries(read.map((one) => [one.id, one])))
+}
+
+export function potionRestoresOf(
+  rowsOf: (pageTypeSlug: string) => Iterable<Row>
+): readonly PotionRestores[] {
+  const found = new Map<number, PotionRestores>()
+  for (const pageTypeSlug of RESTORING_TYPES) {
+    for (const row of rowsOf(pageTypeSlug)) {
+      if (typeof row.itemId !== "number" || row.restores === undefined) continue
+      found.set(row.itemId, { itemId: row.itemId, restores: stringsIn(row.restores) })
+    }
+  }
+  return [...found.values()]
 }
 
 let held: Potions | null = null
