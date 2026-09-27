@@ -36,5 +36,9 @@ export const equipmentSignatureCompiler = {
       decisionKind: "decision-kind/departure",
       statement: "A weapon or shield takes the number of its one-hand, two-hand or off-hand page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A quality no constant page numbers takes the default quality's number.",
+    },
   ],
 } as const satisfies Module
