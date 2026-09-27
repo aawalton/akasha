@@ -203,6 +203,10 @@ export const otherwhereMainHall = {
       fact: "The nearest engorged bookworm Nala has seen is about the size of a small dog.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "Links can rake a bookworm with his claws in lynx form, at a cost in power.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
