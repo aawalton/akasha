@@ -6,4 +6,10 @@ export const ruleCardFilterLock = {
   slug: "rule-card-filter-lock",
   definition: "the lock keeping one of a rule's filters from changing",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The lock's aria-label and dialog title are rule card phrases.",
+    },
+  ],
 } as const satisfies Module

@@ -8,16 +8,19 @@ import {
   DialogTitle,
 } from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import { Lock } from "lucide-react"
 import { useState } from "react"
 
 export function FilterLock({ reason }: { reason: string }) {
   const [open, setOpen] = useState(false)
+  const phrases = useRuleCardPhrases()
   return (
     <>
       <button
         type="button"
-        aria-label="Why is this filter locked?"
+        aria-label={titleIn(phrases, "why-filter-locked")}
         className="-mr-1 cursor-pointer rounded-sm p-0.5 text-current/50 hover:text-current"
         onPointerDown={(e) => e.stopPropagation()}
         onClick={(e) => {
@@ -30,7 +33,7 @@ export function FilterLock({ reason }: { reason: string }) {
       <Dialog open={open} onOpenChange={setOpen}>
         <DialogContent className="sm:max-w-sm">
           <DialogHeader>
-            <DialogTitle>Locked Filter</DialogTitle>
+            <DialogTitle>{titleIn(phrases, "locked-filter")}</DialogTitle>
           </DialogHeader>
           <DialogBody>
             <Text variant="hint">{reason}</Text>
