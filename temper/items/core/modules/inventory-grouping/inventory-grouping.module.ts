@@ -16,5 +16,14 @@ export const inventoryGrouping = {
       decisionKind: "decision-kind/departure",
       statement: "A slot's trait type goes to the tooltip only with the trait text read with it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A slot whose own link has no trait shows no trait text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A slot with no sell value recorded sells for nothing, since one above 0 is recorded.",
+    },
   ],
 } as const satisfies Module

@@ -125,12 +125,15 @@ export function ownValuesOf(item: InventoryItemData): OwnItemValues | undefined 
   const own: OwnItemValues = {}
   if (item.requiredLevel > 0) own.requiredLevel = item.requiredLevel
   if (item.requiredCP > 0) own.requiredCp = item.requiredCP
-  if (item.merchantValue !== undefined) own.merchantValue = item.merchantValue
+  own.merchantValue = item.merchantValue ?? 0
   if (item.weaponPower !== undefined) own.weaponPower = item.weaponPower
   if (item.armorRating !== undefined) own.armorRating = item.armorRating
   if (item.traitDescription !== undefined) {
     own.traitType = item.traitType
     own.traitDescription = item.traitDescription
+  } else if (item.traitType === 0) {
+    own.traitType = 0
+    own.traitDescription = ""
   }
   if (item.abilityHeader !== undefined && item.abilityDescription !== undefined) {
     own.hasOnUseAbility = true

@@ -19,7 +19,7 @@ const MACE: InventoryItemData = {
 }
 
 test("a slot read before its link's own values were captured still gives its level and CP", () => {
-  expect(ownValuesOf(MACE)).toEqual({ requiredLevel: 50, requiredCp: 160 })
+  expect(ownValuesOf(MACE)).toEqual({ requiredLevel: 50, requiredCp: 160, merchantValue: 0 })
 })
 
 test("a slot's own link values reach the tooltip, its trait type going with its trait text", () => {
@@ -49,6 +49,16 @@ test("a slot's own link values reach the tooltip, its trait type going with its 
   })
 })
 
-test("a slot with no level and nothing read off its own link gives no values", () => {
-  expect(ownValuesOf({ ...MACE, requiredLevel: 0, requiredCP: 0 })).toBeUndefined()
+test("a slot with no sell value recorded sells for nothing, rather than for the bare item's value", () => {
+  expect(ownValuesOf({ ...MACE, requiredLevel: 0, requiredCP: 0 })).toEqual({ merchantValue: 0 })
+})
+
+test("a slot whose own link has no trait gives no trait text, rather than the bare item's", () => {
+  expect(ownValuesOf({ ...MACE, traitType: 0 })).toEqual({
+    requiredLevel: 50,
+    requiredCp: 160,
+    merchantValue: 0,
+    traitType: 0,
+    traitDescription: "",
+  })
 })
