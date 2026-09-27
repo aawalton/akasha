@@ -25,5 +25,7 @@ export const otherwhere00019 = {
     '"And every time you push the ring along, the broom opens a gap in its edge for a moment."',
     "Her feet are only a foot and a half from the salt, she works out; a head over the line could reach.",
   ],
+  issues: ['"A head stretched over that line could reach them." - Leave It Open'],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
