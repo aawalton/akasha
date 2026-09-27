@@ -7,8 +7,19 @@ export const theDatingGame00021 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 21,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "While I’m on campus, I decide to take a leisurely walk on the quiet trail next to the stream circling campus, halfway down the hill",
+  beats: [
+    "While he is on campus, Alan goes halfway down the hill to the quiet trail beside the stream.",
+    "The stream circles the campus, and the trail runs along it in the shade.",
+    "Willows lean over the water, and the maples along the bank are just starting to turn.",
+    "On a Saturday afternoon the trail is nearly empty; he has it almost to himself.",
+    "He walks slowly, in no hurry, the stream talking low beside him.",
+    "The light comes through the leaves in patches, warm on the path, cool in the shade.",
+    "After the canyon's cold walls and the booth's hush, the easy quiet here is its own kind of rest.",
+    "Ahead, the trail follows the stream on around the hill.",
+    "A side path climbs back up toward the Broadcasting Building, and another drops toward home.",
+  ],
   lore: ["place/the-dating-game-byu-stream-trail"],
 } as const satisfies StoryTurnPlayed
