@@ -18,7 +18,7 @@ export const temperBrowserCategory = {
   properties: [
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "relation-property/browser-category-parent", required: false, many: false },
-    { pageProperty: "select-property/browser-match", required: false, many: false },
+    { pageProperty: "select-property/browser-match", required: true, many: false },
     {
       pageProperty: "multi-relation-property/browser-item-types",
       required: false,

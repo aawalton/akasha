@@ -11,7 +11,7 @@ import type { TemperThing } from "akasha/temper/thing/temper-thing.page-type.typ
 export type TemperBrowserCategory = TemperThing & {
   displayOrder: DisplayOrder
   parent?: BrowserCategoryParent
-  match?: BrowserMatch
+  match: BrowserMatch
   itemTypes?: BrowserItemTypes
   specializedItemTypes?: BrowserSpecializedItemTypes
   weaponTypes?: BrowserWeaponTypes
