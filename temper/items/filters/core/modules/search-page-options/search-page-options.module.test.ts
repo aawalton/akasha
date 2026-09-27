@@ -20,6 +20,14 @@ import { shoulders } from "akasha/temper/catalog/gear/temper-equip-type/pages/sh
 import { twoHand } from "akasha/temper/catalog/gear/temper-equip-type/pages/two-hand.temper-equip-type.ts"
 import { waist } from "akasha/temper/catalog/gear/temper-equip-type/pages/waist.temper-equip-type.ts"
 import type { TemperEquipType } from "akasha/temper/catalog/gear/temper-equip-type/temper-equip-type.page-type.types.ts"
+import { epic } from "akasha/temper/catalog/gear/temper-quality/pages/epic.temper-quality.ts"
+import { fine } from "akasha/temper/catalog/gear/temper-quality/pages/fine.temper-quality.ts"
+import { legendary } from "akasha/temper/catalog/gear/temper-quality/pages/legendary.temper-quality.ts"
+import { mythic } from "akasha/temper/catalog/gear/temper-quality/pages/mythic.temper-quality.ts"
+import { noQuality } from "akasha/temper/catalog/gear/temper-quality/pages/no-quality.temper-quality.ts"
+import { normal } from "akasha/temper/catalog/gear/temper-quality/pages/normal.temper-quality.ts"
+import { superior } from "akasha/temper/catalog/gear/temper-quality/pages/superior.temper-quality.ts"
+import type { TemperQuality } from "akasha/temper/catalog/gear/temper-quality/temper-quality.page-type.types.ts"
 import { axe } from "akasha/temper/catalog/gear/temper-weapon-type/pages/axe/axe.temper-weapon-type.ts"
 import { battleaxe } from "akasha/temper/catalog/gear/temper-weapon-type/pages/battleaxe/battleaxe.temper-weapon-type.ts"
 import { bow } from "akasha/temper/catalog/gear/temper-weapon-type/pages/bow/bow.temper-weapon-type.ts"
@@ -34,7 +42,10 @@ import { noType } from "akasha/temper/catalog/gear/temper-weapon-type/pages/no-t
 import { restorationStaff } from "akasha/temper/catalog/gear/temper-weapon-type/pages/restoration-staff/restoration-staff.temper-weapon-type.ts"
 import { sword } from "akasha/temper/catalog/gear/temper-weapon-type/pages/sword/sword.temper-weapon-type.ts"
 import type { TemperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.types.ts"
-import { numberedOptions } from "akasha/temper/items/filters/core/modules/search-page-options/search-page-options.module.code.ts"
+import {
+  gameNamedOptions,
+  numberedOptions,
+} from "akasha/temper/items/filters/core/modules/search-page-options/search-page-options.module.code.ts"
 
 const WEAPON_TYPES: readonly TemperWeaponType[] = [
   axe,
@@ -130,5 +141,50 @@ test("a page numbered 0 or stating no number is no option, and the rest go by nu
   ).toEqual([
     { value: "1", label: "One" },
     { value: "2", label: "Two" },
+  ])
+})
+
+test("the quality pages offer the six qualities the filter offered by hand, and Mythic after them", () => {
+  const qualities: readonly TemperQuality[] = [
+    epic,
+    fine,
+    legendary,
+    mythic,
+    noQuality,
+    normal,
+    superior,
+  ]
+  expect(
+    gameNamedOptions(
+      qualities,
+      (row) => row.esoDisplayQuality,
+      (row) => row.gameName
+    )
+  ).toEqual([
+    { value: "0", label: "Trash" },
+    { value: "1", label: "Normal" },
+    { value: "2", label: "Fine" },
+    { value: "3", label: "Superior" },
+    { value: "4", label: "Epic" },
+    { value: "5", label: "Legendary" },
+    { value: "6", label: "Mythic" },
+  ])
+})
+
+test("a game-named option may be numbered 0, and a row naming no number or no name is no option", () => {
+  expect(
+    gameNamedOptions(
+      [
+        { name: "One", number: 1 },
+        { name: "Zero", number: 0 },
+        { name: "Unnumbered", number: undefined },
+        { number: 2 },
+      ],
+      (row) => row.number,
+      (row) => row.name
+    )
+  ).toEqual([
+    { value: "0", label: "Zero" },
+    { value: "1", label: "One" },
   ])
 })
