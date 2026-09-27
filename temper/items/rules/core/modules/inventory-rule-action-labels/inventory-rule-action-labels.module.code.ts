@@ -1,47 +1,10 @@
 import { assertNever } from "akasha/code/type/narrowing/modules/assert-never/assert-never.module.code.ts"
 import type { ItemAction } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { ITEM_ACTION_PAGES } from "akasha/temper/player/progress/temper-item-action/modules/item-action-pages/item-action-pages.module.code.ts"
 
 function getActionVerbLabel(action: ItemAction): string {
-  switch (action) {
-    case "nothing":
-      return "Keep"
-    case "lock":
-      return "Lock"
-    case "unlock":
-      return "Unlock"
-    case "sell":
-      return "Sell"
-    case "fence-sell":
-      return "Fence"
-    case "fence-launder":
-      return "Launder"
-    case "list":
-      return "List"
-    case "deconstruct":
-      return "Deconstruct"
-    case "refine":
-      return "Refine"
-    case "research":
-      return "Research"
-    case "use":
-      return "Use"
-    case "open":
-      return "Open"
-    case "destroy":
-      return "Destroy"
-    case "move-to":
-      return "Move"
-    case "character-equip":
-      return "Equip"
-    case "companion-equip":
-      return "Equip Companion"
-    case "stock":
-      return "Stock"
-    case "mail":
-      return "Mail"
-    default:
-      return assertNever(action)
-  }
+  const page = ITEM_ACTION_PAGES.find((one) => one.slug === action)
+  return page === undefined ? action : page.title
 }
 
 interface FormatActionLabelArgs {
@@ -69,23 +32,28 @@ export function formatActionLabel(args: FormatActionLabelArgs): string {
     case "destroy":
       return getActionVerbLabel(action)
     case "use":
-      return destinationLabel != null ? `Use on ${destinationLabel}` : "Use"
+      return destinationLabel != null
+        ? `${getActionVerbLabel(action)} on ${destinationLabel}`
+        : getActionVerbLabel(action)
     case "move-to": {
-      if (destinationLabel == null) return "Move"
+      if (destinationLabel == null) return getActionVerbLabel(action)
       if (atDestination === true) return `Keep on ${destinationLabel}`
       const moved = quantity !== undefined ? ` ×${quantity}` : ""
       return `Move to ${destinationLabel}${moved}`
     }
     case "character-equip":
-      return destinationLabel != null ? `Equip on ${destinationLabel}` : "Equip"
     case "companion-equip":
-      return destinationLabel != null ? `Equip on ${destinationLabel}` : "Equip Companion"
+      return destinationLabel != null
+        ? `${getActionVerbLabel("character-equip")} on ${destinationLabel}`
+        : getActionVerbLabel(action)
     case "stock": {
       const held = targetQuantity !== undefined ? ` ×${targetQuantity}` : ""
-      return `Stock${held}`
+      return `${getActionVerbLabel(action)}${held}`
     }
     case "mail":
-      return destinationLabel != null ? `Mail to ${destinationLabel}` : "Mail"
+      return destinationLabel != null
+        ? `${getActionVerbLabel(action)} to ${destinationLabel}`
+        : getActionVerbLabel(action)
     default:
       return assertNever(action)
   }

@@ -14,6 +14,14 @@ export const inventoryRuleActionLabels = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "An action's verb is the title of that action's item action page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The titles are read from the item action pages the addon build also holds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An action with a destination is shown with the destination named.",
     },
     {
