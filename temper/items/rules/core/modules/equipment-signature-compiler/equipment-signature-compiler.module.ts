@@ -40,5 +40,9 @@ export const equipmentSignatureCompiler = {
       decisionKind: "decision-kind/departure",
       statement: "A quality no constant page numbers takes the default quality's number.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The weapon bars walked are the weapon bar pages, in their display order.",
+    },
   ],
 } as const satisfies Module

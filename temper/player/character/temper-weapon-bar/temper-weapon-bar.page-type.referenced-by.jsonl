@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"temper-weapon-bar.page-type.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-weapon-bar.page-type.ts","path":"temper/web/modules/use-gear-pages/use-gear-pages.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-bar.page-type.types.ts","path":"temper/player/character/temper-weapon-bar/pages/backup-weapon-bar.temper-weapon-bar.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-weapon-bar.page-type.types.ts","path":"temper/player/character/temper-weapon-bar/pages/primary-weapon-bar.temper-weapon-bar.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}

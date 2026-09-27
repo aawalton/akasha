@@ -5,6 +5,7 @@ import {
   qualitiesOf,
 } from "akasha/temper/catalog/gear/equipment/kind/modules/equipment-qualities/equipment-qualities.module.code.ts"
 import { holdJewelrySlots } from "akasha/temper/catalog/gear/equipment/kind/modules/jewelry-slots/jewelry-slots.module.code.ts"
+import { holdWeaponBarPages } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-bars/weapon-bars.module.code.ts"
 import { holdWeaponSlots } from "akasha/temper/catalog/gear/equipment/kind/modules/weapon-slots/weapon-slots.module.code.ts"
 import {
   ENCHANT_READS,
@@ -44,6 +45,7 @@ import { holdArmorWeights } from "akasha/temper/player/character/characters-equi
 import { holdLevelBands } from "akasha/temper/player/character/characters-equipment/modules/level-scaling/level-scaling.module.code.ts"
 import { holdSetBonusSteps } from "akasha/temper/player/character/characters-equipment/modules/set-source/set-source.module.code.ts"
 import { holdWeaponTypes } from "akasha/temper/player/character/characters-equipment/modules/weapon-types-data/weapon-types-data.module.code.ts"
+import { temperWeaponBar } from "akasha/temper/player/character/temper-weapon-bar/temper-weapon-bar.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
 
@@ -73,6 +75,7 @@ export const GEAR_READS: readonly Read[] = [
     ],
   ],
   [temperSetBonusStep.slug, ["slug", "setBonusScale"]],
+  [temperWeaponBar.slug, ["slug", "displayOrder"]],
   [temperEsoPlayerEquipmentConstant.slug, ["slug", "constantFamily", "constantId", "esoNum"]],
   [temperArmorSlot.slug, ["slug", "title", "icon", "hashPlace", "slotEquipType"]],
   [temperArmorType.slug, ["slug", "title", "armorMultiplier", "enchantmentMultiplier"]],
@@ -171,6 +174,7 @@ export function holdGear(rowsOf: (pageTypeSlug: string) => Iterable<Row>): undef
   holdWeaponSlots(rowsOf(temperWeaponSlot.slug))
   holdLevelBands(rowsOf(temperLevelBand.slug))
   holdSetBonusSteps(rowsOf(temperSetBonusStep.slug))
+  holdWeaponBarPages(rowsOf(temperWeaponBar.slug))
   holdPlayerEquipmentConstants(rowsOf(temperEsoPlayerEquipmentConstant.slug))
   holdArmorWeights(rowsOf(temperArmorWeight.slug), rowsOf(temperGearGrade.slug))
   holdWeaponTypes(rowsOf(temperWeaponType.slug), rowsOf(temperGearGrade.slug))

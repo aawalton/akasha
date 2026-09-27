@@ -5,4 +5,5 @@ export const backupWeaponBar = {
   type: "page-type/temper-weapon-bar",
   slug: "backup-weapon-bar",
   title: "Backup Bar",
+  displayOrder: 2,
 } as const satisfies TemperWeaponBar

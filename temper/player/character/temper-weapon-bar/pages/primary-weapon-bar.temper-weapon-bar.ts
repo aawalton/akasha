@@ -5,4 +5,5 @@ export const primaryWeaponBar = {
   type: "page-type/temper-weapon-bar",
   slug: "primary-weapon-bar",
   title: "Primary Bar",
+  displayOrder: 1,
 } as const satisfies TemperWeaponBar

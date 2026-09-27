@@ -1,3 +1,5 @@
+{"propertySlug":"import","fileName":"weapon-bars.module.code.ts","path":"temper/catalog/gear/equipment/modules/gear-reading/gear-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"weapon-bars.module.code.ts","path":"temper/items/rules/core/modules/equipment-signature-compiler/equipment-signature-compiler.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"weapon-bars.module.code.ts","path":"temper/player/character/characters-equipment/modules/bulk-update-weapons/bulk-update-weapons.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"weapon-bars.module.code.ts","path":"temper/player/character/characters-equipment/modules/mythic-set-rules/mythic-set-rules.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"weapon-bars.module.code.ts","path":"temper/player/character/characters-equipment/modules/weapon-slot-access/weapon-slot-access.module.code.ts","typed":true,"deferred":false}

@@ -22,6 +22,7 @@ import { temperWeaponEnchant } from "akasha/temper/catalog/gear/temper-weapon-en
 import { temperWeaponSlot } from "akasha/temper/catalog/gear/temper-weapon-slot/temper-weapon-slot.page-type.ts"
 import { temperWeaponTrait } from "akasha/temper/catalog/gear/temper-weapon-trait/temper-weapon-trait.page-type.ts"
 import { temperWeaponType } from "akasha/temper/catalog/gear/temper-weapon-type/temper-weapon-type.page-type.ts"
+import { temperWeaponBar } from "akasha/temper/player/character/temper-weapon-bar/temper-weapon-bar.page-type.ts"
 import { useMemo } from "react"
 
 const EVERY = 5000
@@ -42,6 +43,7 @@ export function useGearPages(): GearPages {
   const levelBands = usePages({ pageTypeSlug: temperLevelBand.slug, limit: EVERY })
   const setBonusSteps = usePages({ pageTypeSlug: temperSetBonusStep.slug, limit: EVERY })
   const constants = usePages({ pageTypeSlug: temperEsoPlayerEquipmentConstant.slug, limit: EVERY })
+  const weaponBars = usePages({ pageTypeSlug: temperWeaponBar.slug, limit: EVERY })
   const weaponSlots = usePages({ pageTypeSlug: temperWeaponSlot.slug, limit: EVERY })
   const armorWeights = usePages({ pageTypeSlug: temperArmorWeight.slug, limit: EVERY })
   const grades = usePages({ pageTypeSlug: temperGearGrade.slug, limit: EVERY })
@@ -63,6 +65,7 @@ export function useGearPages(): GearPages {
     levelBands,
     setBonusSteps,
     constants,
+    weaponBars,
     weaponSlots,
     armorWeights,
     grades,
@@ -89,6 +92,7 @@ export function useGearPages(): GearPages {
         [temperLevelBand.slug, levelBands.rows],
         [temperSetBonusStep.slug, setBonusSteps.rows],
         [temperEsoPlayerEquipmentConstant.slug, constants.rows],
+        [temperWeaponBar.slug, weaponBars.rows],
         [temperWeaponSlot.slug, weaponSlots.rows],
         [temperArmorWeight.slug, armorWeights.rows],
         [temperGearGrade.slug, grades.rows],
@@ -111,6 +115,7 @@ export function useGearPages(): GearPages {
       levelBands.rows,
       setBonusSteps.rows,
       constants.rows,
+      weaponBars.rows,
       weaponSlots.rows,
       armorWeights.rows,
       grades.rows,
