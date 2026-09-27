@@ -7,8 +7,17 @@ export const otherwhere00032 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 32,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“So, you don’t have a plan. Okay, how can we get you more power to wake up the kitchen without finishing off the big bookworm first?”",
+  beats: [
+    "Nala asks how they can get him power to wake the kitchen without finishing the big one first.",
+    'Links bristles. "I have plans. I just can\'t carry salt." His eyes flicker blue, text scrolling.',
+    '"Three more and I leave Emergency Power Mode. The alarm stops and the kitchen wakes."',
+    '"Those coils feed me once they\'re stored dry and safe for the night owls, not left on the floor."',
+    '"The dead cooler in the break room is dry and tight. It\'ll keep them."',
+    '"And every book you put back on its right shelf gives me a little. Match the mark on the spine."',
+    'He flicks his tail at the scattered books. "There are rather a lot of them."',
+  ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-hall-back", "place/otherwhere-main-hall"],
 } as const satisfies StoryTurnPlayed
