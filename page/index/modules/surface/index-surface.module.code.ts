@@ -49,7 +49,7 @@ export function filedAt(
   return join(uniqueKind, scope, propertySlug, bucket, said)
 }
 
-const HELD_AT_MOST = 64_000_000
+const HELD_AT_MOST = 8_000_000
 
 type Kept = {
   readonly mark: string

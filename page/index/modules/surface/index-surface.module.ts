@@ -91,6 +91,10 @@ export const indexSurface = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "That bound is eight million characters, well under the whole index.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A reader takes that surface rather than reaching for the disk.",
     },
     {
