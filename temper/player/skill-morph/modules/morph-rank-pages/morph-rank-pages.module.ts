@@ -4,7 +4,8 @@ export const morphRankPages = {
   id: "01a0e1b5-bd09-7ac2-8ffe-f2da006a5c0e",
   type: "page-type/module",
   slug: "morph-rank-pages",
-  definition: "the morph rank cap an add-on compiles in from the morph completion pages",
+  definition:
+    "the morph rank cap, bar slot totals and free slot budget an add-on compiles in from pages",
   code: "ts",
   decisions: [
     {

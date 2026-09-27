@@ -1,8 +1,3 @@
-const TOTAL_ACTIVE_SLOTS = 10
-const TOTAL_ULTIMATE_SLOTS = 2
-
-const FREE_SLOT_BUDGET = 3
-
 const VARIANT_ORDER: Record<"base" | "morph1" | "morph2", number> = {
   base: 0,
   morph1: 1,
@@ -53,6 +48,8 @@ interface MorphSuggestionInput {
   expectedSkillsByEsoLineId: ReadonlyMap<number, ReadonlyArray<ExpectedMorphableSkillForSuggestion>>
   skillLineRanks: ReadonlyMap<number, number>
   morphRankMost: number
+  slotTotals: { active: number; ultimate: number }
+  freeSlotMost: number
 }
 
 export interface MorphSuggestionEntry {
@@ -236,11 +233,11 @@ export function selectMorphSuggestions(input: MorphSuggestionInput): MorphSugges
       if (!entry.isIncompatible) fillableActive++
     }
   }
-  const emptyActive = Math.max(0, TOTAL_ACTIVE_SLOTS - slottedActive)
-  const emptyUltimate = Math.max(0, TOTAL_ULTIMATE_SLOTS - slottedUltimate)
+  const emptyActive = Math.max(0, input.slotTotals.active - slottedActive)
+  const emptyUltimate = Math.max(0, input.slotTotals.ultimate - slottedUltimate)
   const wastedActive = fillableActive > 0 ? emptyActive : 0
   const wastedUltimate = fillableUltimate > 0 ? emptyUltimate : 0
-  const isComplete = wastedActive + wastedUltimate <= FREE_SLOT_BUDGET
+  const isComplete = wastedActive + wastedUltimate <= input.freeSlotMost
 
   return {
     suggestions: capped.length > 0 ? capped : undefined,
