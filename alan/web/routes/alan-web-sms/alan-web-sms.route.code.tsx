@@ -21,12 +21,23 @@ const OPT_IN = "opt-in"
 
 const OPT_OUT = "opt-out"
 
+const TERMS = "terms"
+
+const PRIVACY = "privacy"
+
 export async function loader() {
-  const [document, wording] = await Promise.all([
+  const [document, wording, terms, privacy] = await Promise.all([
     siteDocumentAt(WEB_APP, "sms"),
     consentWordingRead(),
+    siteDocumentAt(WEB_APP, TERMS),
+    siteDocumentAt(WEB_APP, PRIVACY),
   ])
-  return { document, wording }
+  return {
+    document,
+    wording,
+    terms: { title: terms.title, href: `/${TERMS}` },
+    privacy: { title: privacy.title, href: `/${PRIVACY}` },
+  }
 }
 
 type SmsLoaderData = Awaited<ReturnType<typeof loader>>
@@ -37,8 +48,12 @@ export function meta({ data }: { data: SmsLoaderData | undefined }) {
 
 export default function SmsRoute({ loaderData }: { loaderData: SmsLoaderData }) {
   useLoaderFollowing(READ)
-  const { document, wording } = loaderData
+  const { document, wording, terms, privacy } = loaderData
   const afterward = document.sections.find((one) => one.anchor === OPT_OUT)?.lead ?? null
-  const beneath = { [OPT_IN]: <SmsOptInForm wording={wording} afterward={afterward} /> }
+  const beneath = {
+    [OPT_IN]: (
+      <SmsOptInForm wording={wording} afterward={afterward} terms={terms} privacy={privacy} />
+    ),
+  }
   return <SiteDocumentDrawing document={document} beneath={beneath} />
 }

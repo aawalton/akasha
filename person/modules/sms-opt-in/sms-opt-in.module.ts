@@ -41,5 +41,10 @@ export const smsOptIn = {
       decisionKind: "decision-kind/departure",
       statement: "Each link beside the box reaches a whole document rather than a section here.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "Each link is named by its document's title, and every other word is a web phrase.",
+    },
   ],
 } as const satisfies Module
