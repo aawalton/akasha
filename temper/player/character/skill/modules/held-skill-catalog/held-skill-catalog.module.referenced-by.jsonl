@@ -17,6 +17,7 @@
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/home-page-content/home-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/scribing-selection-dialog/scribing-selection-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/script-edit-dialog/script-edit-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/use-set-target-entities/use-set-target-entities.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.code.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"held-skill-catalog.module.test-fixtures.ts","path":"command/pages/temper/inventory/automation/set/temper-inventory-automation-set.command.test.ts","typed":false,"deferred":false}

@@ -32,5 +32,10 @@ export const useCompletionProgress = {
       decisionKind: "decision-kind/constraint",
       statement: "The first body answered with is that account's.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The rows every tab counts from are made again whenever a catalogue is read again.",
+    },
   ],
 } as const satisfies Module

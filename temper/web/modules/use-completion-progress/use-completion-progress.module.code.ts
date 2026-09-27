@@ -1,5 +1,7 @@
 import type { BadgeToggleGroupItem } from "akasha/design/interface/badge/modules/badge-toggle-group/badge-toggle-group.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
+import { heldSetCatalog } from "akasha/temper/player/character/characters-equipment/modules/sets-all/sets-all.module.code.ts"
+import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import {
   accountCompletionSchema,
   characterCompletionSchema,
@@ -19,6 +21,7 @@ import { useCharacterProgress } from "akasha/temper/web/modules/character-progre
 import type { CompanionProgressData } from "akasha/temper/web/modules/companion-progress/companion-progress.module.code.ts"
 import { useCompanionProgress } from "akasha/temper/web/modules/companion-progress/companion-progress.module.code.ts"
 import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
+import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { useCompletionBodies } from "akasha/temper/web/modules/use-completion-bodies/use-completion-bodies.module.code.ts"
 import { useCompletionCatalogs } from "akasha/temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.code.ts"
 import {
@@ -86,13 +89,17 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
   const { characters: bareRows } = viewUserId != null ? viewCharacters : ownCharacters
   const { companions: bareCompanionRows } = viewUserId != null ? viewCompanions : ownCompanions
 
+  const skillCatalogRead = heldSkillCatalog()
+  const setCatalogRead = heldSetCatalog()
+  const companionCatalogRead = useHeldCompanionCatalog()
+
   const rows = useMemo(
     () =>
       bareRows.map((row) => ({
         ...row,
         completion: characterBodies.bodies.get(row.id) ?? null,
       })),
-    [bareRows, characterBodies.bodies]
+    [bareRows, characterBodies.bodies, skillCatalogRead, setCatalogRead, companionCatalogRead]
   )
   const companionRows = useMemo(
     () =>
@@ -100,12 +107,12 @@ export function useCompletionProgress(viewUserId: string | undefined): Completio
         ...row,
         completion: companionBodies.bodies.get(row.id) ?? null,
       })),
-    [bareCompanionRows, companionBodies.bodies]
+    [bareCompanionRows, companionBodies.bodies, companionCatalogRead]
   )
   const accountCompletion = useMemo(() => {
-    for (const body of accountBodies.bodies.values()) return body
+    for (const body of accountBodies.bodies.values()) return { ...body }
     return null
-  }, [accountBodies.bodies])
+  }, [accountBodies.bodies, skillCatalogRead, setCatalogRead, companionCatalogRead])
 
   const isLoading =
     catalogsLoading ||
