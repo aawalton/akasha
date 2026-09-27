@@ -6,6 +6,7 @@ export const dragonsAndDungeonsTheChainMakers = {
   slug: "dragons-and-dungeons-the-chain-makers",
   title: "The Chain-Makers",
   world: "world/personas",
+  secrets: "jsonl",
   facts: [
     {
       fact: "The chain-makers collared Tygryth and scattered his three young, three hundred years ago.",
