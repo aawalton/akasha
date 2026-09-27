@@ -8071,7 +8071,7 @@
   "companionRapport": {
     "1": 4058,
     "5": 5500,
-    "6": 2932,
+    "6": 3071,
     "9": 5500
   },
   "quests": [
@@ -16059,11 +16059,11 @@
   "bagSize": 215,
   "allianceRank": 13,
   "dailyWrits": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "completed": 7
   },
   "dailyWritStates": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "seen": [
       5,
       3,
@@ -16079,13 +16079,13 @@
       2,
       7,
       3,
-      4,
-      5
+      5,
+      4
     ]
   },
   "bankVisitDate": "2026-09-26",
   "inventoryCheck": {
-    "date": "2026-09-26",
-    "misplaced": 0
+    "date": "2026-09-27",
+    "misplaced": 16
   }
 }
