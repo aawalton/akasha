@@ -12,6 +12,12 @@ import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue
 import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { useInventory } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.code.ts"
 import { useManagedGuildBanks } from "akasha/temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.code.ts"
+import {
+  phraseOf,
+  useRuleCardPhrases,
+} from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
+import { useDestinationOptionsUnnamedCharacter } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/use-destination-options-unnamed-character.temper-rule-card-phrase.ts"
+import { useDestinationOptionsUnnamedStorageChest } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/use-destination-options-unnamed-storage-chest.temper-rule-card-phrase.ts"
 import { useMemo } from "react"
 
 interface DestinationItem {
@@ -38,10 +44,13 @@ export function useDestinationOptions(): DestinationOptions {
   const { managedSet } = useManagedGuildBanks()
   const venues = useKeyedTitles(temperVenue.slug)
   const places = useKeyedTitles(temperLocationType.slug)
+  const phrases = useRuleCardPhrases()
 
   return useMemo(() => {
     const venueTitle = (key: string): string => (venues === null ? key : titleOf(venues, key))
     const placeTitle = (key: string): string => (places === null ? key : titleOf(places, key))
+    const unnamed = (key: string, id: string): string =>
+      phrases === null ? "" : phraseOf(phrases, key, { id })
     const groups: DestinationCategoryGroup[] = [
       { category: "bank", label: venueTitle("bank"), items: [], defaultValue: "bank" },
       {
@@ -58,7 +67,10 @@ export function useDestinationOptions(): DestinationOptions {
       if (entries.length > 0) {
         const characterItems: DestinationItem[] = entries.map(([charId, charData]) => ({
           value: `character:${charId}`,
-          label: charData.displayName !== "" ? charData.displayName : `Character ${charId}`,
+          label:
+            charData.displayName !== ""
+              ? charData.displayName
+              : unnamed(useDestinationOptionsUnnamedCharacter.key, charId),
         }))
         const firstCharacter = characterItems[0]
         if (firstCharacter !== undefined) {
@@ -103,7 +115,10 @@ export function useDestinationOptions(): DestinationOptions {
         if (chestId === undefined) continue
         cofferItems.push({
           value: `house-storage:${chestId}`,
-          label: loc.displayName !== "" ? loc.displayName : `Storage Chest ${chestId}`,
+          label:
+            loc.displayName !== ""
+              ? loc.displayName
+              : unnamed(useDestinationOptionsUnnamedStorageChest.key, chestId),
         })
       }
     }
@@ -130,5 +145,5 @@ export function useDestinationOptions(): DestinationOptions {
     }
 
     return { groups, getCategoryFor, getDefaultForCategory }
-  }, [inventory, managedSet, venues, places])
+  }, [inventory, managedSet, venues, places, phrases])
 }

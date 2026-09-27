@@ -20,5 +20,9 @@ export const useDestinationOptions = {
       decisionKind: "decision-kind/departure",
       statement: "The Character group's name is read from the character location type page.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An unnamed character or storage chest is labelled by a rule card phrase.",
+    },
   ],
 } as const satisfies Module
