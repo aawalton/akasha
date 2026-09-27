@@ -89,6 +89,8 @@ const RECORDED_BY = "recordedBy"
 
 const PROSE = "prose"
 
+const CHARACTERS = "characters"
+
 const PARTED = "/"
 
 type Taken = { readonly turn: string; readonly handed: Handed }
@@ -321,6 +323,7 @@ async function advancedOn(
       turnAt: turn.at,
       address: `${storyTurnPlayed.slug}${PARTED}${slug}`,
       calledAs: given.calledAs,
+      lore: reach.loreOf(given.root, stringsIn(said.values[CHARACTERS] ?? turn.value[CHARACTERS])),
     },
   }
   const moving = `${slug}\t${held.status}\t${said.status}`

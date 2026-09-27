@@ -43,6 +43,10 @@ const BUILDER = "mari-world-builder-the-saga"
 
 const WRITER = "mari-writer-the-saga"
 
+const MARA = "character-player/mara"
+
+const MARA_LORE = "world/lore/mara.lore.ts"
+
 function toldAll(step: TurnStep): string[] {
   return [MASTER, BUILDER, WRITER].map((to) => `${to}: The turn \`${AT}\` is at ${step}.`)
 }
@@ -134,6 +138,7 @@ function reachOver(
       into.notices.push(`${to}: ${body}`)
       return null
     },
+    loreOf: (_root, characters) => (characters.includes(MARA) ? [MARA_LORE] : []),
   }
 }
 
@@ -252,6 +257,7 @@ test("the writer's first prose lands beside the turn and starts one fresh seat f
   expect(prompt).toContain(AT)
   expect(prompt).toContain("its prose")
   expect(prompt).toContain("reviewers/continuity.story-reviewer.instructions.md")
+  expect(prompt).toContain(`The lore about the turn's characters is on \`${MARA_LORE}\`.`)
   expect(prompt).toContain(
     `${CALLED} --turn story-turn-played/${SLUG} --reviewer continuity --issues-file <path>`
   )

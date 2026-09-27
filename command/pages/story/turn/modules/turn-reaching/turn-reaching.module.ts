@@ -39,5 +39,10 @@ export const turnReaching = {
       decisionKind: "decision-kind/departure",
       statement: "A notice starts a game seat that never ran.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The lore about a turn's characters is every unwithheld lore page about one or its persona.",
+    },
   ],
 } as const satisfies Module

@@ -17,6 +17,11 @@ export const turnPrompting = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A reviewer's prompt names every lore page about the turn's characters or their personas.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A prompt names the exact advance the seat calls when it is done.",
     },
     {

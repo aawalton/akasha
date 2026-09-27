@@ -25,8 +25,10 @@ import type {
 import { agentPathOf } from "akasha/domain/context/modules/warranting/warranting.module.code.ts"
 import {
   listedAt,
+  valuesByPath,
   valuesOfType,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
+import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
 import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
 import { valueAt } from "akasha/page/modules/value/page-value.module.code.ts"
 import {
@@ -42,6 +44,9 @@ import {
   taking,
 } from "akasha/page/service/modules/page-putting/page-putting.module.code.ts"
 import { ACTION_BAR_PLAYER } from "akasha/story/engine/core/modules/action-bar-message/action-bar-message.module.code.ts"
+import { lore } from "akasha/story/lore/lore.page-type.ts"
+import { loreAbout } from "akasha/story/lore/properties/lore-about.relation-property.ts"
+import { withheldIn } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import { storyRecorderInstructions } from "akasha/story/recorder/properties/story-recorder-instructions.file-property.ts"
 import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
 import { storyReviewerInstructions } from "akasha/story/reviewer/properties/story-reviewer-instructions.file-property.ts"
@@ -84,6 +89,8 @@ const ROLE_STATED = "role-slug"
 
 const GAME_STATED = "domain-slug"
 
+const PERSONA = "persona"
+
 export type Turn = { readonly at: string; readonly slug: string; readonly value: Value }
 
 export type Seated = {
@@ -117,6 +124,7 @@ export type Reach = {
   readonly start: (starting: Starting, done: string[]) => Promise<string>
   readonly stop: (root: string, seat: string) => undefined
   readonly notify: (to: string, body: string) => Promise<string | null>
+  readonly loreOf: (root: string, characters: readonly string[]) => readonly string[]
 }
 
 export type Rewinding = Reach & {
@@ -219,6 +227,26 @@ function storyIndexed(root: string, game: string): Story | null {
   return { title: textAt(value, TITLE) ?? game, master: textAt(value, MASTER) }
 }
 
+function personaAt(root: string, character: string): string | null {
+  const address = addressIn(character)
+  if (address.kind !== "qualified") return null
+  const listed = listedAt(root, address.pageTypeSlug, address.slug)[0]
+  const value = listed === undefined ? null : valueAt(listed.path, root)
+  return value === null ? null : textAt(value, PERSONA)
+}
+
+function loreIndexed(root: string, characters: readonly string[]): readonly string[] {
+  const personas = characters.flatMap((one) => personaAt(root, one) ?? [])
+  const about = new Set([...characters, ...personas])
+  const withheld = withheldIn(root)
+  const found: string[] = []
+  for (const [path, value] of valuesByPath(root, lore.slug)) {
+    const said = textAt(value, loreAbout.propertySlug)
+    if (said !== null && about.has(said) && !withheld.includes(path)) found.push(path)
+  }
+  return found.sort()
+}
+
 function foldedOver(
   root: string,
   naming: Naming
@@ -283,6 +311,7 @@ export const REACHED: Reach = {
   start: seatStarted,
   stop: stoppedApart,
   notify: noticeSent,
+  loreOf: loreIndexed,
 }
 
 function seatsStated(): readonly Seated[] {

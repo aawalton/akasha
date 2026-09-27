@@ -116,6 +116,7 @@ function reachOver(turn: Turn, into: Seen, latest = SLUG): Rewinding {
       into.notices.push(`${to}: ${body}`)
       return null
     },
+    loreOf: () => [],
     turnsOf: () => [
       { at: "stories/the-saga/turns/the-saga-00-002.story-turn-played.ts", slug: "x", position: 2 },
       { at: AT, slug: latest, position: 3 },
