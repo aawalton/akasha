@@ -16,6 +16,7 @@ export const temperCompanionBaseRole = {
     "text-property/default-main-hand",
     "text-property/default-off-hand",
     "text-property/default-weapon-role-ids",
+    "change-generator/base-roles-keeping",
   ],
   properties: [
     { pageProperty: "text-property/key", required: true, many: false },

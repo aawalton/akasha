@@ -160,6 +160,7 @@
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"page/type/page-property/change-generators/typing/page-property-typing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"story/ui/played-panel/change-generators/drawing/played-panel-drawing.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/addon/build/deploy-check/modules/eso-sandbox-manifest-writing/eso-sandbox-manifest-writing.change-generator.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/companion/base-role/modules/base-roles-keeping/base-roles-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/skill/line/modules/skill-line-ids-keeping/skill-line-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/skill/temper-grimoire/modules/grimoire-ids-keeping/grimoire-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"change.module.code.ts","path":"temper/catalog/skill/temper-script/modules/script-ids-keeping/script-ids-keeping.change-generator.code.ts","typed":true,"deferred":false}

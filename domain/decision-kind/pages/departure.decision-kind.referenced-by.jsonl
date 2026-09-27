@@ -4882,6 +4882,7 @@
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/modules/races/races.module.ts","id":"01a0608a-c133-737f-a474-8e8f27869f5c"}
 {"propertySlug":"decision-kind","path":"temper/catalog/character-race/temper-character-race.domain.ts","id":"01a0608a-c133-7d7f-96d5-f0070cf3a77a"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/armor-weight/temper-companion-armor-weight.page-type.ts","id":"01a0debe-d7ef-75ff-9915-543ddba45c06"}
+{"propertySlug":"decision-kind","path":"temper/catalog/companion/base-role/modules/base-roles-keeping/base-roles-keeping.change-generator.ts","id":"01a0e07a-3589-7aed-b335-183201e914e3"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/base-role/properties/role-total-metric.relation-property.ts","id":"01a0df21-8c4e-789e-9dd7-201540a55991"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/base-role/temper-companion-base-role.page-type.ts","id":"01a05fce-1851-7d9f-9f36-f8f9bf8792ea"}
 {"propertySlug":"decision-kind","path":"temper/catalog/companion/base-stat/temper-companion-base-stat.page-type.ts","id":"01a0ded3-d592-77b3-9bed-24fef59501e9"}

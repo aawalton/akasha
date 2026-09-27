@@ -43,5 +43,10 @@ export const slugUnionKeeping = {
       decisionKind: "decision-kind/departure",
       statement: "A file already with the body that would be written again is left alone.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A keeper writing some other file from the pages reads and writes them as this does.",
+    },
   ],
 } as const satisfies Module

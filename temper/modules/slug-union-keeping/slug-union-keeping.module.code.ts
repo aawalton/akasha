@@ -62,28 +62,29 @@ export function keepingTurns(keeping: Keeping, change: Change): boolean {
   )
 }
 
-export function slugUnionsKept(keeping: Keeping, change: Change): Written {
-  if (!keepingTurns(keeping, change)) return NOTHING
+export type KeptPage = {
+  readonly pageType: string | null
+  readonly value: Readonly<Record<string, unknown>>
+}
+
+export function pagesKept(keeping: Keeping, change: Change): readonly KeptPage[] | null {
   const cast = shadowFor(change)
-  if ("refused" in cast) return NOTHING
-  const slugs: string[][] = keeping.unions.map(() => [])
+  if ("refused" in cast) return null
   const types = new Set(keeping.unions.map((union) => typeOf(keeping, union)))
   const paths = new Set(
     [...types].flatMap((type) => [...cast.shadow.index.everyOfType(type)].map((one) => one.path))
   )
   for (const path of change.changed) if (isPageOf(keeping, path)) paths.add(path)
+  const found: KeptPage[] = []
   for (const path of paths) {
     const value = cast.shadow.pageOf(path)
-    const held = value?.slug
-    const pageType = pageTypeAt(path)
-    if (value === null || value === undefined || typeof held !== "string") continue
-    const at = keeping.unions.findIndex(
-      (union) => typeOf(keeping, union) === pageType && union.holds(value)
-    )
-    if (at >= 0) slugs[at]?.push(held)
+    if (value !== null && value !== undefined) found.push({ pageType: pageTypeAt(path), value })
   }
-  const written = unionsBody(keeping.unions.map((union, at) => [union.name, slugs[at] ?? []]))
-  const body = textIn(formattedBody(change.root, keeping.at, BYTES.encode(written)).body)
+  return found
+}
+
+export function writtenAgain(keeping: Keeping, change: Change, text: string): Written {
+  const body = textIn(formattedBody(change.root, keeping.at, BYTES.encode(text)).body)
   const was = textOf(change.after(keeping.at))
   if (was === body) return NOTHING
   return {
@@ -94,4 +95,24 @@ export function slugUnionsKept(keeping: Keeping, change: Change): Written {
     ],
     said: [`\`${keeping.at}\` written again from the ${keeping.from}`],
   }
+}
+
+export function slugUnionsKept(keeping: Keeping, change: Change): Written {
+  if (!keepingTurns(keeping, change)) return NOTHING
+  const pages = pagesKept(keeping, change)
+  if (pages === null) return NOTHING
+  const slugs: string[][] = keeping.unions.map(() => [])
+  for (const { pageType, value } of pages) {
+    const held = value.slug
+    if (typeof held !== "string") continue
+    const at = keeping.unions.findIndex(
+      (union) => typeOf(keeping, union) === pageType && union.holds(value)
+    )
+    if (at >= 0) slugs[at]?.push(held)
+  }
+  return writtenAgain(
+    keeping,
+    change,
+    unionsBody(keeping.unions.map((union, at) => [union.name, slugs[at] ?? []]))
+  )
 }
