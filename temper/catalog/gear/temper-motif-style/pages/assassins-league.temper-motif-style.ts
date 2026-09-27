@@ -6,6 +6,7 @@ export const assassinsLeague = {
   slug: "assassins-league",
   title: "Assassins League",
   esoItemStyleId: 46,
+  styleName: "Assassins League",
   collectionIndex: 20,
   sourceDescription: "Gold Coast bosses",
 } as const satisfies TemperMotifStyle
