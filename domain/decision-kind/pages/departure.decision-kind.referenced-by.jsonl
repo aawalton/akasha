@@ -6156,6 +6156,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-metadata/build-metadata.module.ts","id":"01a061c0-88d8-7527-81f9-44b8e63a9668"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-version-created-at/build-version-created-at.module.ts","id":"01a0d6ce-62ac-73a1-a83d-9df3d5744100"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/build-version-page-type/build-version-page-type.module.ts","id":"01a0d89d-06f0-7eb8-8829-32d2898f9816"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/builds-browse-tab/builds-browse-tab.module.ts","id":"01a0642c-5b8f-74e0-93ce-35ce478bf46e"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/bulk-set-edit-tag/bulk-set-edit-tag.module.ts","id":"01a0642d-9a17-7914-a5e0-bc31c4a7d032"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/cadwell-progress-panel-card/cadwell-progress-panel-card.module.ts","id":"01a06421-f74b-7cbd-b36d-266f303f0011"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/catalog-page-content/catalog-page-content.module.ts","id":"01a06432-b190-782b-8618-ba15af2e1097"}

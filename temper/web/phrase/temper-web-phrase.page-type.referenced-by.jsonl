@@ -119,6 +119,14 @@
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/build-info-panel-card-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/build-info-panel-card-unlisted.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/build-info-panel-card-visibility.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/builds-browse-tab-characters.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/builds-browse-tab-clear-filters.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/builds-browse-tab-create-first.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/builds-browse-tab-no-builds-found.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/builds-browse-tab-no-builds-yet.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/builds-browse-tab-no-matching.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/builds-browse-tab-public-builds.temper-web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/builds-browse-tab-try-adjusting.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/catalog-document-title.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/catalog-page-content-dungeons.temper-web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-web-phrase.page-type.types.ts","path":"temper/web/phrase/pages/catalog-page-content-title.temper-web-phrase.ts","typed":true,"deferred":false}

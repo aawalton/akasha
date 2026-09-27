@@ -6,4 +6,10 @@ export const buildsBrowseTab = {
   slug: "builds-browse-tab",
   definition: "the tab browsing character builds",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

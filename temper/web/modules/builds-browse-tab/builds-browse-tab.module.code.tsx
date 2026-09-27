@@ -26,6 +26,15 @@ import {
 } from "akasha/temper/web/modules/characters-filter-types/characters-filter-types.module.code.ts"
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { NewCharacterPanelCard } from "akasha/temper/web/modules/new-character-panel-card/new-character-panel-card.module.code.tsx"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { buildsBrowseTabCharacters } from "akasha/temper/web/phrase/pages/builds-browse-tab-characters.temper-web-phrase.ts"
+import { buildsBrowseTabClearFilters } from "akasha/temper/web/phrase/pages/builds-browse-tab-clear-filters.temper-web-phrase.ts"
+import { buildsBrowseTabCreateFirst } from "akasha/temper/web/phrase/pages/builds-browse-tab-create-first.temper-web-phrase.ts"
+import { buildsBrowseTabNoBuildsFound } from "akasha/temper/web/phrase/pages/builds-browse-tab-no-builds-found.temper-web-phrase.ts"
+import { buildsBrowseTabNoBuildsYet } from "akasha/temper/web/phrase/pages/builds-browse-tab-no-builds-yet.temper-web-phrase.ts"
+import { buildsBrowseTabNoMatching } from "akasha/temper/web/phrase/pages/builds-browse-tab-no-matching.temper-web-phrase.ts"
+import { buildsBrowseTabPublicBuilds } from "akasha/temper/web/phrase/pages/builds-browse-tab-public-builds.temper-web-phrase.ts"
+import { buildsBrowseTabTryAdjusting } from "akasha/temper/web/phrase/pages/builds-browse-tab-try-adjusting.temper-web-phrase.ts"
 import { FolderOpen, Search } from "lucide-react"
 import { useCallback, useMemo } from "react"
 
@@ -116,6 +125,7 @@ export function BuildsBrowseTab({
   onVisibleCountChange,
   paginationResetKey,
 }: BuildsBrowseTabProps) {
+  const phrase = usePhrase()
   const renderCharacterCard = useCallback(
     (build: DecodedBuild) => (
       <CharacterListCardWithHandle
@@ -139,11 +149,19 @@ export function BuildsBrowseTab({
               <EmptyMedia variant="icon">
                 <FolderOpen />
               </EmptyMedia>
-              <EmptyTitle>{tab === "build" ? "No builds yet" : "No builds found"}</EmptyTitle>
+              <EmptyTitle>
+                {phrase(
+                  tab === "build"
+                    ? buildsBrowseTabNoBuildsYet.slug
+                    : buildsBrowseTabNoBuildsFound.slug
+                )}
+              </EmptyTitle>
               <EmptyDescription>
-                {tab === "build"
-                  ? "Create your first build to plan your stats and optimize your potential."
-                  : "Public builds shared by other players will appear here."}
+                {phrase(
+                  tab === "build"
+                    ? buildsBrowseTabCreateFirst.slug
+                    : buildsBrowseTabPublicBuilds.slug
+                )}
               </EmptyDescription>
             </EmptyHeader>
             {tab === "build" && isAuthenticated && (
@@ -166,12 +184,12 @@ export function BuildsBrowseTab({
               <EmptyMedia variant="icon">
                 <Search />
               </EmptyMedia>
-              <EmptyTitle>No matching builds</EmptyTitle>
-              <EmptyDescription>Try adjusting your search or filters.</EmptyDescription>
+              <EmptyTitle>{phrase(buildsBrowseTabNoMatching.slug)}</EmptyTitle>
+              <EmptyDescription>{phrase(buildsBrowseTabTryAdjusting.slug)}</EmptyDescription>
             </EmptyHeader>
             <EmptyContent>
               <Button variant="secondary" size="sm" onClick={onClearFilters}>
-                Clear filters
+                {phrase(buildsBrowseTabClearFilters.slug)}
               </Button>
             </EmptyContent>
           </Empty>
@@ -184,7 +202,7 @@ export function BuildsBrowseTab({
     <PaginatedCardGrid
       items={filteredBuilds}
       renderItem={renderCharacterCard}
-      itemLabel="characters"
+      itemLabel={phrase(buildsBrowseTabCharacters.slug)}
       initialVisibleCount={restoredVisibleCount ?? undefined}
       onVisibleCountChange={onVisibleCountChange}
       resetKey={paginationResetKey}
