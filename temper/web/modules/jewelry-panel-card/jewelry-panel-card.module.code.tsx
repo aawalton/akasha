@@ -78,9 +78,11 @@ export function JewelryPanelCard({
     })
   }
 
+  const slotsRead = jewelrySlots.list
+
   const jewelrySlotItems = useMemo(
-    () => jewelrySlots.list.map((slot) => equipment.jewelry[slot.id]),
-    [equipment.jewelry]
+    () => slotsRead.map((slot) => equipment.jewelry[slot.id]),
+    [equipment.jewelry, slotsRead]
   )
 
   const jewelrySets = useMemo(
@@ -117,8 +119,8 @@ export function JewelryPanelCard({
   )
 
   const jewelryMythicSlots = useMemo(
-    () => getMythicSlots(equipment.jewelry, availableSets, jewelrySlots.list),
-    [equipment.jewelry, availableSets]
+    () => getMythicSlots(equipment.jewelry, availableSets, slotsRead),
+    [equipment.jewelry, availableSets, slotsRead]
   )
 
   const handleBulkUpdateJewelryTrait = (oldValue: JewelryTraitId, newValue: JewelryTraitId) => {

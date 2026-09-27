@@ -6,4 +6,10 @@ export const jewelryPanelCard = {
   slug: "jewelry-panel-card",
   definition: "the three jewelry slots of a build, with the bulk edits that reach them all",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The slots are drawn again whenever the gear tables are read again.",
+    },
+  ],
 } as const satisfies Module

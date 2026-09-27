@@ -6,4 +6,10 @@ export const weaponBarPanelCard = {
   slug: "weapon-bar-panel-card",
   definition: "the front and back weapon bars of a build, with the bulk edits reaching both",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The slots are drawn again whenever the gear tables are read again.",
+    },
+  ],
 } as const satisfies Module

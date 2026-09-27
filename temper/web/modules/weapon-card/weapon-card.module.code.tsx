@@ -122,16 +122,18 @@ export function WeaponCard({
     return getValidSetsForSlot(availableSets, slotId, itemType, null)
   }, [availableSets, slotId, itemType])
 
+  const typesRead = weaponTypes.list
+
   const validWeaponTypeOptions = useMemo(() => {
     if (!selectedSet) {
-      return weaponTypes.list
+      return typesRead
     }
     const validTypeIds = getValidTypesForSet(selectedSet, slotId)
     if (validTypeIds.length === 1) {
-      return weaponTypes.list.filter((t) => validTypeIds.includes(t.id))
+      return typesRead.filter((t) => validTypeIds.includes(t.id))
     }
-    return weaponTypes.list.filter((t) => t.id === "no-type" || validTypeIds.includes(t.id))
-  }, [selectedSet, slotId])
+    return typesRead.filter((t) => t.id === "no-type" || validTypeIds.includes(t.id))
+  }, [selectedSet, slotId, typesRead])
 
   const handleSetSelect = (setId: Slug) => {
     const newSet = getSetById(setId, availableSets)

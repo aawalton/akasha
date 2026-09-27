@@ -6,4 +6,11 @@ export const weaponCard = {
   slug: "weapon-card",
   definition: "a weapon slot: its type, set, trait, enchant and quality, each pickable",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The weapon types offered are drawn again whenever the gear tables are read again.",
+    },
+  ],
 } as const satisfies Module

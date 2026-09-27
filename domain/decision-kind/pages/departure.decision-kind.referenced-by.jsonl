@@ -6135,6 +6135,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/format-time-ago/format-time-ago.module.ts","id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/import-result/import-result.module.ts","id":"01a0640f-8510-79d2-a33e-1cfc18d185ee"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/item-category-tree-gate/item-category-tree-gate.module.ts","id":"01a0e0db-a703-790c-b757-6b5db7ae0776"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.ts","id":"01a0642d-9a17-7e93-9404-efd12df3f8b9"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.ts","id":"01a06432-b190-70c9-b375-374e6c886d6a"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.ts","id":"01a0e0a0-2424-7003-ad9b-86cbf222b843"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/kiosk-names-loading/kiosk-names-loading.module.ts","id":"01a0e0b5-f996-7000-99ed-1f1b5400201e"}
@@ -6190,6 +6191,8 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-build-status/watcher-build-status.module.ts","id":"01a0640f-8510-74a0-a7e6-a020f4b468ed"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-run-status/watcher-run-status.module.ts","id":"01a0640f-8510-71f3-afa2-898d69327ed2"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/watcher-sync-status/watcher-sync-status.module.ts","id":"01a0640f-8510-7f94-b946-33ea0f305e1f"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/weapon-bar-panel-card/weapon-bar-panel-card.module.ts","id":"01a0642d-9a17-7966-86d1-afc3af62dec0"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/weapon-card/weapon-card.module.ts","id":"01a0642d-9a17-71b0-8afa-a9b9f5057fc6"}
 {"propertySlug":"decision-kind","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.ts","id":"01a06363-f687-70fb-8023-b311dc463a1b"}
 {"propertySlug":"decision-kind","path":"temper/web/player-economics-ui/modules/use-companion-shopping-data/use-companion-shopping-data.module.ts","id":"01a063a1-8cc1-7010-8b74-d5f6fa0b08d5"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}

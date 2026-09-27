@@ -71,6 +71,9 @@ export function WeaponBarPanelCard({
     return false
   }
 
+  const slotsRead = weaponSlotsData.list
+  const typesRead = weaponTypes.data
+
   const weaponSlots = useMemo(() => {
     const equipmentBars: WeaponBars = {
       "primary-weapon-bar": equipment["primary-weapon-bar"],
@@ -78,7 +81,7 @@ export function WeaponBarPanelCard({
     }
 
     const slots: ReturnType<typeof getWeaponItem>[] = []
-    for (const slotConfig of weaponSlotsData.list) {
+    for (const slotConfig of slotsRead) {
       if (slotConfig.id === "poison") continue
       const slot = getWeaponItem(equipmentBars, slotConfig.id, barId)
       const isHidden = shouldHideWeaponSlot(equipmentBars, slotConfig.id, barId)
@@ -87,14 +90,14 @@ export function WeaponBarPanelCard({
         if (
           slotConfig.id === "main-hand" &&
           isWeaponSlot(slot) &&
-          weaponTypes.data[slot.data.type].isTwoHanded
+          typesRead[slot.data.type].isTwoHanded
         ) {
           slots.push(slot)
         }
       }
     }
     return slots
-  }, [equipment["primary-weapon-bar"], equipment["backup-weapon-bar"], barId])
+  }, [equipment["primary-weapon-bar"], equipment["backup-weapon-bar"], barId, slotsRead, typesRead])
 
   const weaponSets = useMemo(
     () =>
