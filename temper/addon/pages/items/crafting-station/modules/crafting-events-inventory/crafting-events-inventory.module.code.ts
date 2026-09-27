@@ -10,6 +10,11 @@ import {
   stripLink,
   updateMatsInfo,
 } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.code.ts"
+import {
+  rememberSlotItem,
+  removedSlotItem,
+  type SlotItems,
+} from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-slot-items/crafting-slot-items.module.code.ts"
 import { STATE } from "akasha/temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.code.ts"
 import "akasha/design/language/lua-compiler/eso-sandbox/eso-sandbox.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-crafting-events/eso-crafting-events.type-declaration.d.ts"
@@ -22,6 +27,8 @@ import "akasha/temper/eso/type/eso-world-map-pins/eso-world-map-pins.type-declar
 
 const asSharedInventorySlotData = (value: { bagId: number }): SharedInventorySlotData =>
   value as SharedInventorySlotData
+
+const SLOT_ITEMS: SlotItems = {}
 
 function isTrackedBag(this: void, bag: number): boolean {
   return (
@@ -49,6 +56,7 @@ export function stampCachedSlots(this: void): undefined {
     for (const [slot, data] of pairs(SHARED_INVENTORY.GetBagCache(bag))) {
       data.uid = Id64ToString(GetItemUniqueId(bag, slot))
       data.lnk = stripLink(GetItemLink(bag, slot))
+      rememberSlotItem(SLOT_ITEMS, bag, slot, { lnk: data.lnk, uid: data.uid })
     }
   }
 }
@@ -87,7 +95,8 @@ export function onInventorySlotAdded(
   if (!isTrackedBag(bag)) {
     return
   }
-  const link = stripLink(GetItemLink(bag, slot))
+  const itemLink = GetItemLink(bag, slot)
+  const link = stripLink(itemLink)
   const [a1, a2, a3] = GetItemLinkStacks(link)
 
   let stored = STATE.Account.storage[link]
@@ -119,6 +128,9 @@ export function onInventorySlotAdded(
   updateMatsInfo(link)
   data.uid = Id64ToString(GetItemUniqueId(bag, slot))
   data.lnk = link
+  if (itemLink !== "") {
+    rememberSlotItem(SLOT_ITEMS, bag, slot, { lnk: link, uid: data.uid })
+  }
   if (isValidEquip(GetItemLinkEquipType(link))) {
     if (isLocked(bag, slot) === true) {
       updateStored("removed", data, replace)
@@ -131,13 +143,19 @@ export function onInventorySlotAdded(
 export function onInventorySlotRemoved(
   this: void,
   bag: number,
-  _slot: number,
+  slot: number,
   data: SharedInventorySlotData
 ): undefined {
   if (!isTrackedBag(bag)) {
     return
   }
-  const link = stripLink(defined(data.lnk))
+  const item = removedSlotItem(SLOT_ITEMS, bag, slot, data)
+  if (item === undefined) {
+    return
+  }
+  data.lnk = item.lnk
+  data.uid = item.uid
+  const link = stripLink(item.lnk)
   const [a1, a2, a3] = GetItemLinkStacks(link)
 
   const stored = applyStorageCounts(STATE.Account.storage, link, [

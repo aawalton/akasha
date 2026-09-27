@@ -4174,6 +4174,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/craft-window-frames/craft-window-frames.module.ts","id":"01a0d8c4-0001-7ea2-88c2-7e79f5cc462e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/crafting-events-inventory/crafting-events-inventory.module.ts","id":"01a061c7-e877-7485-ab99-a082b1282463"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/crafting-slot-handler-stats/crafting-slot-handler-stats.module.ts","id":"01a061c7-e879-7974-affb-2305b596cf40"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/crafting-slot-items/crafting-slot-items.module.ts","id":"01a0e47b-71ea-7da1-8b2b-61ccd411a4e5"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/knowledge-curated-motifs/knowledge-curated-motifs.module.ts","id":"01a0622b-dc56-709a-8da0-de660a3730f7"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/knowledge-main/knowledge-main.module.ts","id":"01a0622b-dc5b-7521-9cc9-030f60f5f84e"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/crafting-station/modules/knowledge-register-strings/knowledge-register-strings.module.ts","id":"01a0621c-5173-7987-89b7-b1202e2f7211"}

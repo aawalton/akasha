@@ -311,6 +311,7 @@ export const craftingStation = {
     "module/zone-scan",
     "module/zone-types",
     "module/zone-ui-strings",
+    "module/crafting-slot-items",
   ],
   decisions: [
     {

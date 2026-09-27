@@ -3509,6 +3509,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-helpers/crafting-helpers.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-public-api/crafting-public-api.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-slot-handler-stats/crafting-slot-handler-stats.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-slot-items/crafting-slot-items.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/crafting-state/crafting-state.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-base-data-motifs/knowledge-base-data-motifs.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/crafting-station/modules/knowledge-base-data-plans/knowledge-base-data-plans.module.ts","typed":true,"deferred":false}
