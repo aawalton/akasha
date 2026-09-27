@@ -7,8 +7,8 @@ export function RecipeCatalogGate({
   children,
   fallback,
 }: {
-  children: ReactNode
+  children: () => ReactNode
   fallback: ReactNode
 }) {
-  return <>{useRecipeCatalog() === null ? fallback : children}</>
+  return <>{useRecipeCatalog() === null ? fallback : children()}</>
 }
