@@ -53,6 +53,20 @@ export const loreWithholding = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Whether one path is withheld is answered from that page, and the lore the index files about it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "One path is withheld exactly where the whole list withholds it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A caller holding a few paths asks about each rather than listing every lore page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A path is withheld where the path, links followed, ends in a withheld page's path.",
     },
     {

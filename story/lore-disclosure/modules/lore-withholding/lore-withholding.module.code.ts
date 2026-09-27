@@ -1,5 +1,5 @@
 import { existsSync, readdirSync } from "node:fs"
-import { dirname, join, matchesGlob, sep } from "node:path"
+import { basename, dirname, join, matchesGlob, normalize, sep } from "node:path"
 import { insideOf, settled } from "akasha/agent/hook/modules/settling/settling.module.code.ts"
 import { SUBAGENT_MARK } from "akasha/agent/modules/read-record/read-record.module.code.ts"
 import { gameMaster } from "akasha/agent/role/pages/game-master.role.ts"
@@ -10,13 +10,17 @@ import { role } from "akasha/agent/seat/properties/role.relation-property.ts"
 import { storeIn, TREES } from "akasha/file/modules/git-place/git-place.module.code.ts"
 import {
   everyOfType,
+  listedAnywhere,
   listedAt,
   valueByPath,
   valuesByPath,
 } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { addressIn } from "akasha/page/modules/address/page-address.module.code.ts"
-import { besideAt } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
-import { idsNaming } from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
+import { besideAt, partedIn } from "akasha/page/modules/file-name/page-file-name.module.code.ts"
+import {
+  idsNaming,
+  namersThrough,
+} from "akasha/page/modules/reference-reading/page-reference-reading.module.code.ts"
 import {
   textAt,
   type Value,
@@ -141,6 +145,47 @@ export function withheldFor(root: string, agentId: string | null): readonly stri
   return gameMasterIn(root, agentId) ? withheldIn(root) : []
 }
 
+const LORE_KINDS: readonly string[] = [lore.slug, place.slug]
+
+const PAGE_HELD = "ts"
+
+function toldAt(root: string, path: string): boolean {
+  const value = valueByPath(root, path)
+  return value !== null && toldIn(value)
+}
+
+function secretsHeldAt(root: string, path: string, slug: string, kind: string): boolean {
+  const page = join(dirname(path), `${slug}.${kind}.${PAGE_HELD}`)
+  if (besideAt(page, loreSecrets.propertySlug, SECRETS_HELD) !== path) return false
+  const value = valueByPath(root, page)
+  return value !== null && textAt(value, loreSecrets.propertySlug) !== null
+}
+
+export function withheldPath(root: string, given: string): boolean {
+  const path = normalize(given)
+  const parted = partedIn(path)
+  if (parted === null) return false
+  const lorn = LORE_KINDS.includes(parted.pageType)
+  if (basename(path) !== `${parted.slug}.${parted.pageType}.${PAGE_HELD}`) {
+    return lorn && secretsHeldAt(root, path, parted.slug, parted.pageType)
+  }
+  if (lorn) {
+    const listed = listedAnywhere(root, parted.pageType, parted.slug)
+    return listed.some((one) => one.path === path) && !toldAt(root, path)
+  }
+  if (!path.startsWith(STORY)) return false
+  const about = namersThrough(root, path, loreAbout.slug).filter(
+    (one) => partedIn(one)?.pageType === lore.slug
+  )
+  return about.length > 0 && about.every((one) => !toldAt(root, one))
+}
+
+export type Withholding = (path: string) => boolean
+
+export function withholdingFor(root: string, agentId: string | null): Withholding | null {
+  return gameMasterIn(root, agentId) ? (path) => withheldPath(root, path) : null
+}
+
 export function withheldAt(at: string, withheld: readonly string[]): boolean {
   const found = settled(at)
   return withheld.some((one) => found.endsWith(`${sep}${one}`))
@@ -151,9 +196,17 @@ export function anyWithheld(
   agentId: string | null,
   paths: readonly string[]
 ): boolean {
-  const withheld = withheldFor(root, agentId)
-  if (withheld.length === 0) return false
-  return paths.some((one) => withheldAt(join(root, one), withheld))
+  const holds = withholdingFor(root, agentId)
+  return holds !== null && paths.some(holds)
+}
+
+export function pathWithheld(
+  root: string,
+  withheld: readonly string[] | Withholding,
+  path: string
+): boolean {
+  if (typeof withheld === "function") return withheld(path)
+  return withheld.length > 0 && withheldAt(join(root, path), withheld)
 }
 
 function treesIn(root: string): readonly string[] {

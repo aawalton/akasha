@@ -16,6 +16,8 @@ import {
   withheldAt,
   withheldFor,
   withheldIn,
+  withheldPath,
+  withholdingFor,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 import {
   GAME_MASTER_SEAT,
@@ -27,6 +29,7 @@ import {
   REVIEWER_SEAT,
   SECRETS_AT,
   TARGET_AT,
+  TOLD_AT,
   toldAlso,
   UNDER_GAME_MASTER,
   WRITER_SEAT,
@@ -124,6 +127,40 @@ test("a page outside the stories is never withheld for the lore about it", () =>
   expect(secretTargetsIn(root, [LORE_AT])).toEqual([])
   expect(withheldIn(root)).toEqual([LORE_AT])
   expect(OUTSIDE_AT.startsWith("story/")).toBe(false)
+})
+
+const ASKED_ABOUT: readonly string[] = [
+  LORE_AT,
+  TARGET_AT,
+  SECRETS_AT,
+  TOLD_AT,
+  OUTSIDE_AT,
+  "story/world/pages/held/lore/sealed.lore.referenced-by.jsonl",
+  "story/world/pages/held/lore/sealed.lore.secrets.jsonl",
+  "agent/seat/pages/held/held.seat.ts",
+]
+
+function agreeing(root: string): undefined {
+  const every = withheldIn(root)
+  for (const one of ASKED_ABOUT)
+    expect([one, withheldPath(root, one)]).toEqual([one, every.includes(one)])
+}
+
+test("one path is withheld exactly where the whole list withholds it", () => {
+  agreeing(loreWorld(scratch))
+  agreeing(loreWorld(scratch, undefined, true))
+  agreeing(loreWorld(scratch, "persona/held"))
+  const told = loreWorld(scratch)
+  toldAlso(told)
+  agreeing(told)
+})
+
+test("only a game master's seat is handed a check on each path", () => {
+  const root = loreWorld(scratch)
+  expect(withholdingFor(root, OTHER_SEAT)).toBeNull()
+  expect(withholdingFor(root, null)).toBeNull()
+  expect(withholdingFor(root, GAME_MASTER_SEAT)?.(LORE_AT)).toBe(true)
+  expect(withholdingFor(root, GAME_MASTER_SEAT)?.(OUTSIDE_AT)).toBe(false)
 })
 
 test("every other caller is withheld nothing", () => {

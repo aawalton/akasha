@@ -47,7 +47,7 @@ export const TARGET_AT = "story/world/pages/held/characters/hidden.world-charact
 
 export const OUTSIDE_AT = "persona/pages/held/held.persona.ts"
 
-const TOLD_AT = "story/world/pages/held/lore/told.lore.ts"
+export const TOLD_AT = "story/world/pages/held/lore/told.lore.ts"
 
 const TARGET_TYPE = "world-character"
 
@@ -160,7 +160,23 @@ function toldFacts(): readonly unknown[] {
   return [{ fact: "told", knowers: [addressOf(disclosureType.slug, gameMasterKnower.slug)] }]
 }
 
+const ABOUT_AT: Readonly<Record<string, string>> = {
+  [TARGET]: TARGET_AT,
+  [addressOf("persona", "held")]: OUTSIDE_AT,
+}
+
+function aboutWritten(root: string, about: string, namings: readonly Naming[]): undefined {
+  const at = ABOUT_AT[about]
+  if (at !== undefined) referencesWritten(root, at, namings)
+}
+
+const SEALED: Naming = { propertySlug: loreAbout.slug, path: LORE_AT, id: LORE_ID }
+
 export function toldAlso(root: string): undefined {
+  aboutWritten(root, TARGET, [
+    SEALED,
+    { propertySlug: loreAbout.slug, path: TOLD_AT, id: "01a0d600-0000-7000-8000-000000000006" },
+  ])
   valueAlsoFiled(root, lore.slug, [
     {
       path: TOLD_AT,
@@ -214,6 +230,7 @@ export function loreWorld(scratch: Scratch, about: string = TARGET, told = false
   const root = realpathSync(scratch.rootFor("lore-withholding-"))
   seatsFiled(root)
   pagesFiled(root, about, told)
+  aboutWritten(root, about, [SEALED])
   referencesWritten(root, ROLE_AT, [
     { propertySlug: role.propertySlug, path: GAME_MASTER_AT, id: GAME_MASTER_SEAT },
   ])

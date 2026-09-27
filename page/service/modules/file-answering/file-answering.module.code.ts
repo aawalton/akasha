@@ -1,4 +1,3 @@
-import { join } from "node:path"
 import { FILE_PROPERTY } from "akasha/page/index/modules/entries/index-entries.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
@@ -15,8 +14,9 @@ import { carriedFor } from "akasha/page/service/modules/kinds-gathering/kinds-ga
 import type { Faulted } from "akasha/page/service/modules/refusal-fault/refusal-fault.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import {
+  pathWithheld,
   REFUSED_WHOLE,
-  withheldAt,
+  type Withholding,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 export type Named = {
@@ -61,7 +61,7 @@ function listing(root: string, asked: Named): readonly { readonly path: string }
 export function filing(
   root: string,
   asked: Named,
-  withheld: readonly string[] = []
+  withheld: readonly string[] | Withholding = []
 ): Faulted<Filed> {
   const carried = carriedFor(root, asked.pageTypeSlug).find((one) => one.key === asked.key)
   if (carried === undefined) {
@@ -81,7 +81,7 @@ export function filing(
   if (first === undefined) {
     return { refused: `\`${namedIn(asked)}\` is no page here`, fault: "caller" }
   }
-  if (withheldAt(join(root, first.path), withheld)) {
+  if (pathWithheld(root, withheld, first.path)) {
     return { refused: REFUSED_WHOLE, withheld: true, fault: "caller" }
   }
   const value = valueAt(first.path, root)

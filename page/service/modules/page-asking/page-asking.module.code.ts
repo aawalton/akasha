@@ -1,4 +1,3 @@
-import { join } from "node:path"
 import { headAt } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import {
   listedAt,
@@ -37,9 +36,10 @@ import {
 } from "akasha/page/service/modules/where-testing/where-testing.module.code.ts"
 import type { Carried } from "akasha/page/type/modules/declared-properties/declared-properties.module.code.ts"
 import {
+  pathWithheld,
   WITHHELD,
-  withheldAt,
-  withheldFor,
+  type Withholding,
+  withholdingFor,
 } from "akasha/story/lore-disclosure/modules/lore-withholding/lore-withholding.module.code.ts"
 
 const PAGE_TYPE = "page-type"
@@ -221,13 +221,14 @@ export function answeringWithin(
   return { said: `{"rows":[${held.join(",")}],"n":${asked.n}${at}}` }
 }
 
+type Withheld = readonly string[] | Withholding
+
 function loreRefused(
   root: string,
   sorted: readonly Valued[],
-  withheld: readonly string[]
+  withheld: Withheld
 ): Faulted<Asked> | null {
-  if (withheld.length === 0) return null
-  if (!sorted.some((one) => withheldAt(join(root, one.path), withheld))) return null
+  if (!sorted.some((one) => pathWithheld(root, withheld, one.path))) return null
   return { refused: LORE_REFUSED, withheld: true, fault: "caller" }
 }
 
@@ -235,7 +236,7 @@ function countedFirst(
   root: string,
   query: Query,
   counting: readonly Counting[],
-  withheld: readonly string[]
+  withheld: Withheld
 ): Faulted<Asked> {
   const counted = computedInto(root, counting)
   const darkened = unlit(query, counted.dark)
@@ -252,7 +253,7 @@ function narrowedFirst(
   query: Query,
   counting: readonly Counting[],
   working: boolean,
-  withheld: readonly string[]
+  withheld: Withheld
 ): Faulted<Asked> {
   const rows = counting.map((one) => one.row)
   const held = rows.filter((one) => narrows(one.value, query.where))
@@ -267,11 +268,7 @@ function narrowedFirst(
   return answering(query, counted.rows, sorted.length, counted.read)
 }
 
-export function asking(
-  root: string,
-  query: Query,
-  withheld: readonly string[] = []
-): Faulted<Asked> {
+export function asking(root: string, query: Query, withheld: Withheld = []): Faulted<Asked> {
   const { limit, offset } = query
   if (limit !== undefined && (!Number.isInteger(limit) || limit < 0)) {
     const refused = `a limit is a whole number that is not below nothing, and ${limit} is not`
@@ -321,6 +318,6 @@ export function asking(
 
 export function askingAt(root: string, query: Query, asker: string | null = null): Faulted<Asked> {
   const at = headAt(root)
-  const asked = asking(root, query, withheldFor(root, asker))
+  const asked = asking(root, query, withholdingFor(root, asker) ?? [])
   return "refused" in asked ? asked : { ...asked, at }
 }
