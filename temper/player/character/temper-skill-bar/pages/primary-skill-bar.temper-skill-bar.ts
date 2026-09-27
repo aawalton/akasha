@@ -5,4 +5,5 @@ export const primarySkillBar = {
   type: "page-type/temper-skill-bar",
   slug: "primary-skill-bar",
   title: "Primary Bar",
+  displayOrder: 0,
 } as const satisfies TemperSkillBar

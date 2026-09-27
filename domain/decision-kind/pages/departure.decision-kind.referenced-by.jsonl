@@ -5765,6 +5765,9 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-account/properties/stacks.page-property-entry.ts","id":"01a06053-b382-7f4e-90f1-013329a77547"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-character.domain.ts","id":"01a05fac-7581-7a09-a912-5277eaa7f144"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-mine/temper-mine.page-type.ts","id":"01a05fcd-f557-7231-b2a4-ecded061b740"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-bar/modules/skill-bar-ids-keeping/skill-bar-ids-keeping.change-generator.ts","id":"01a0e096-154d-71c2-9c95-3eafcaed31c6"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-bar/modules/skill-bar-ids/skill-bar-ids.data-table.ts","id":"01a0e096-154e-7aad-9c47-c2d3bbb6448d"}
+{"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-bar/temper-skill-bar.page-type.ts","id":"01a05fcd-f558-70b6-8f78-cec3aed405a1"}
 {"propertySlug":"decision-kind","path":"temper/player/character/temper-skill-point/properties/pvp.boolean-property.ts","id":"01a0c621-d1a9-7038-b83c-67261a3d7bce"}
 {"propertySlug":"decision-kind","path":"temper/player/character/thing/temper-character-thing.page-type.ts","id":"01a05fc7-2438-772b-b909-71a3ac0f3bc7"}
 {"propertySlug":"decision-kind","path":"temper/player/completion/modules/completion-record/completion-record.module.ts","id":"01a0607a-9cbc-7c27-9e61-4050a73b66e7"}

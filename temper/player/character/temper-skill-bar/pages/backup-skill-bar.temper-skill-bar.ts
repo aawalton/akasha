@@ -5,4 +5,5 @@ export const backupSkillBar = {
   type: "page-type/temper-skill-bar",
   slug: "backup-skill-bar",
   title: "Backup Bar",
+  displayOrder: 1,
 } as const satisfies TemperSkillBar
