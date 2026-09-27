@@ -10,7 +10,7 @@ export const theDatingGame00015 = {
   position: 15,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     '"You think you could do it? I\'d love a partner on this. Can you make a voice after reading the text without hearing it first?"',
   beats: [
@@ -20,8 +20,8 @@ export const theDatingGame00015 = {
     '"I\'d love a partner on this," she gives back, meaning it, though her eyes stay a touch careful.',
     "She nods at the rest, sure of herself, as easy as a craftswoman asked if she can use her tools.",
     '"Without hearing it first," she says, and taps her throat: yes.',
-    "Then she holds out her open palm to him, flat, the way a narrator waits for a script.",
-    '"Reading the text," she says, and lifts her eyebrows, waiting for him to give her some.',
+    "She holds her open palm out to him, flat, and lifts her eyebrows.",
+    '"Reading the text," she says, her palm still open between them.',
   ],
   issues: ['"the way a narrator holds out a hand for the script" - No Prompt'],
   lore: ["lore/the-dating-game-echo"],
