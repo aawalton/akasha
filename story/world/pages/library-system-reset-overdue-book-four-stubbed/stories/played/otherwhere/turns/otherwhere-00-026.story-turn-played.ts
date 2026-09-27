@@ -15,7 +15,7 @@ export const otherwhere00026 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "“Links, is the big one the last one, or are there more?”",
   beats: [
     "Still kneeling on the dried coil, Nala calls out to Links, asking if the big one is the last.",
@@ -24,6 +24,9 @@ export const otherwhere00026 = {
     "His too-large eyes drop to her dripping left sleeve and stay there a moment.",
     '"You\'re bleeding on my floor," he says, but it comes out quieter than the rest.',
   ],
+  issues: [
+    '"Still kneeling on the dried coil" - in 025 she lies across the coil, pinning it with her weight',
+  ],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
