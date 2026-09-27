@@ -4,6 +4,8 @@ const ROOT = "."
 
 const HELD = new Map<string, ReadonlySet<string> | null>()
 
+const RUNS_HELD = 64
+
 const APART = "\0"
 
 function ignoring(root: string, paths: readonly string[]): ReadonlySet<string> | null {
@@ -24,6 +26,8 @@ export function gitIgnoring(root: string, paths: readonly string[]): ReadonlySet
   const key = [root, ...paths].join(APART)
   if (HELD.has(key)) return HELD.get(key) ?? null
   const found = ignoring(root, paths)
+  const oldest = HELD.size >= RUNS_HELD ? HELD.keys().next() : null
+  if (oldest !== null && oldest.done !== true) HELD.delete(oldest.value)
   HELD.set(key, found)
   return found
 }

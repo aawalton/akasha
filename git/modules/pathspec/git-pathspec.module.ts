@@ -32,6 +32,14 @@ export const gitPathspec = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The last sixty-four runs asked are held, and an older one goes.",
+    },
+    {
+      decisionKind: "decision-kind/constraint",
+      statement: "A long-lived process asks about a new run of paths at every landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "Whether a path is ignored is read from the ignore patterns rather than from the git index.",
     },
