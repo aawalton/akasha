@@ -1,1 +1,13 @@
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-ask-label.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boost-button.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boost-points-label.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boost-title.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boosted.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-boosting.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-costs.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-open-button.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-open-title.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-opened.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-opening.web-phrase.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"web-phrase.page-type.types.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/pages/feature-request-points-held.web-phrase.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/web-app/web-app.page-type.ts","id":"01a05b26-f8b6-7d74-a301-0488daed8bbc"}
