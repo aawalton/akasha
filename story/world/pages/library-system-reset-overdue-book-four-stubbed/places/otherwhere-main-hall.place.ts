@@ -72,6 +72,10 @@ export const otherwhereMainHall = {
       fact: "The break room's cupboards also hold chipped mugs, a dented tin scoop and a small bucket.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
+    {
+      fact: "The break room has a stone sink whose tap still runs cold, clean water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
 
     {
       fact: "Among the books near the counter lies Bookworm Care for Library Assistants, a plain guide.",
