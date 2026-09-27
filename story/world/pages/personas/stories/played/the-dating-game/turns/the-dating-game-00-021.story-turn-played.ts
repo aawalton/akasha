@@ -4,13 +4,13 @@ export const theDatingGame00021 = {
   id: "01a0e3c2-ce6b-745b-ba86-7e31f6a3edd8",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-021",
-  ownLength: 172,
+  ownLength: 155,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 21,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/writer",
+  turnStatus: "turn-status/recorders",
   action:
     "While I’m on campus, I decide to take a leisurely walk on the quiet trail next to the stream circling campus, halfway down the hill",
   beats: [
