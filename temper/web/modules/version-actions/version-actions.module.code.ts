@@ -1,3 +1,10 @@
+import {
+  heldWebPhrases,
+  phraseIn,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { versionActionsFetchFailed } from "akasha/temper/web/phrase/pages/version-actions-fetch-failed.temper-web-phrase.ts"
+import { versionActionsFetchFailedStatus } from "akasha/temper/web/phrase/pages/version-actions-fetch-failed-status.temper-web-phrase.ts"
+import { versionActionsUnknownError } from "akasha/temper/web/phrase/pages/version-actions-unknown-error.temper-web-phrase.ts"
 import { z } from "zod"
 
 interface CharacterVersion {
@@ -35,12 +42,17 @@ export async function getCharacterVersions(
       headers: { Accept: "application/json" },
     })
     if (!response.ok) {
-      return { error: `Failed to fetch versions: HTTP ${response.status}` }
+      return {
+        error: phraseIn(heldWebPhrases(), versionActionsFetchFailedStatus.slug, {
+          status: response.status,
+        }),
+      }
     }
     return responseSchema.parse(await response.json())
   } catch (err) {
-    return {
-      error: `Failed to fetch versions: ${err instanceof Error ? err.message : "Unknown error"}`,
-    }
+    const phrases = heldWebPhrases()
+    const reason =
+      err instanceof Error ? err.message : phraseIn(phrases, versionActionsUnknownError.slug)
+    return { error: phraseIn(phrases, versionActionsFetchFailed.slug, { reason }) }
   }
 }
