@@ -10,7 +10,7 @@ export const theDatingGame00020 = {
   position: 20,
   prose: "txt",
   characters: ["character-other/the-dating-game-echo", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "I reach out to shake her hand with a huge smile \"It's a date! I'll see you Saturday!\", then turn to leave.",
   beats: [
@@ -21,7 +21,6 @@ export const theDatingGame00020 = {
     "He goes back down the quiet hall toward the door.",
     'Behind him, faint through the hush of the empty building, her voice comes after him: "Saturday."',
     "Outside, the lot is still mostly bare and the afternoon sun lies warm across campus.",
-    "Up the hill, Rock Canyon opens dark between the mountains where the day began.",
   ],
   issues: ['"Rock Canyon opens dark between the mountains, where the day began" - Leave It Open'],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
