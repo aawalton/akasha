@@ -1,13 +1,7 @@
 "use client"
 
 import { ResponsiveColumns } from "akasha/design/interface/layout/modules/responsive-columns/responsive-columns.module.code.tsx"
-import { LayoutLink } from "akasha/design/interface/layout/modules/router-context/router-context.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
-import {
-  Alert,
-  AlertDescription,
-  AlertTitle,
-} from "akasha/design/interface/primitive/modules/alert/alert.module.code.tsx"
 import { useUserId } from "akasha/page/ui/modules/use-user-id/use-user-id.module.code.tsx"
 import { partitionUnmanagedGuildBanks } from "akasha/temper/items/core/modules/inventory-guild-bank-filter/inventory-guild-bank-filter.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
@@ -25,6 +19,7 @@ import type {
   RuleSortField,
 } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-filter-types/inventory-filter-types.module.code.ts"
 import { InventoryRulesFilterBar } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-filter-bar/inventory-rules-filter-bar.module.code.tsx"
+import { InventoryRulesNoInventory } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-no-inventory/inventory-rules-no-inventory.module.code.tsx"
 import { EntityRulesPanels } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-tab-entity-rules-panels/inventory-rules-tab-entity-rules-panels.module.code.tsx"
 import { ItemRulesPanels } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-tab-item-rules-panels/inventory-rules-tab-item-rules-panels.module.code.tsx"
 import { inventoryRulePanelVisibility } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-tab-panel-visibility/inventory-rules-tab-panel-visibility.module.code.ts"
@@ -42,7 +37,7 @@ import { useInventoryRulesSettingsState } from "akasha/temper/web/player-invento
 import { useInventoryRulesTabAffectedItems } from "akasha/temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-affected-items/use-inventory-rules-tab-affected-items.module.code.ts"
 import { useInventoryRulesTabDescriptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-inventory-rules-tab-descriptions/use-inventory-rules-tab-descriptions.module.code.ts"
 import { useRuleMatcherContext } from "akasha/temper/web/player-inventory-management-ui/modules/use-rule-matcher-context/use-rule-matcher-context.module.code.ts"
-import { Package } from "lucide-react"
+
 import { useMemo, useRef } from "react"
 
 interface InventoryRulesTabProps {
@@ -237,23 +232,7 @@ export function InventoryRulesTab({
 
   return (
     <div className="flex flex-col gap-6">
-      {inventory == null && !isInventoryLoading && (
-        <Alert>
-          <Package />
-          <AlertTitle>No inventory has reached this page</AlertTitle>
-          <AlertDescription>
-            <p>
-              Inventory comes from the file the TemperItems add-on writes while you play, and the
-              Watcher syncs that file for you. The starter rules below are inactive; enable the ones
-              you want once your inventory arrives.{" "}
-              <LayoutLink href="/watcher" className="font-medium underline">
-                Check sync status
-              </LayoutLink>
-              .
-            </p>
-          </AlertDescription>
-        </Alert>
-      )}
+      {inventory == null && !isInventoryLoading && <InventoryRulesNoInventory />}
       <InventoryRulesFilterBar
         ruleStatus={ruleStatus}
         ruleLock={ruleLock}

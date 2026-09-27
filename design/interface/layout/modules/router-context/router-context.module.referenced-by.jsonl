@@ -16,7 +16,7 @@
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/modules/inventory-tab/inventory-tab.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/modules/watcher-page-content/watcher-page-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-location-data-content/inventory-location-data-content.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-tab/inventory-rules-tab.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-rules-no-inventory/inventory-rules-no-inventory.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/inventory-type-data-content/inventory-type-data-content.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/pricing-region-note/pricing-region-note.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"router-context.module.code.tsx","path":"temper/web/player-inventory-management-ui/modules/rule-card-priority-row/rule-card-priority-row.module.code.tsx","typed":false,"deferred":false}

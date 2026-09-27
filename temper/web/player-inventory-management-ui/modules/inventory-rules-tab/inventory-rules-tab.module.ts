@@ -6,4 +6,10 @@ export const inventoryRulesTab = {
   slug: "inventory-rules-tab",
   definition: "the tab where a reader keeps every inventory rule",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The no-inventory alert is its own module, worded by web phrase pages.",
+    },
+  ],
 } as const satisfies Module
