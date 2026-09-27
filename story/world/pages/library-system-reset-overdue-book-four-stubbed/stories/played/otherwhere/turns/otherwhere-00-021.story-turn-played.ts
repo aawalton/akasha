@@ -27,4 +27,5 @@ export const otherwhere00021 = {
     "The second bookworm stops circling and lifts its blind head toward the gap.",
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
