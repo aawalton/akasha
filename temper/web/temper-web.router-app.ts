@@ -376,5 +376,6 @@ export const temperWeb = {
     "page-type/temper-web-phrase",
     "module/use-web-phrases",
     "module/web-phrase-loading",
+    "module/version-history-item",
   ],
 } as const satisfies RouterApp

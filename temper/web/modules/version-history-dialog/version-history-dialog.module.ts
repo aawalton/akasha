@@ -33,5 +33,9 @@ export const versionHistoryDialog = {
       statement:
         "A checkpoint whose account page never comes is refused aloud rather than dropped.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

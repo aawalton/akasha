@@ -68,7 +68,7 @@
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/modules/jewelry-card/jewelry-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/modules/targeting-badges/targeting-badges.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/modules/timing-badges/timing-badges.module.code.tsx","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/modules/version-history-item/version-history-item.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/modules/weapon-card/weapon-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/player-completion-ui/modules/completion-panel-card/completion-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"badge.module.code.tsx","path":"temper/web/player-economics-ui/modules/companion-gear-by-trait-panel-card/companion-gear-by-trait-panel-card.module.code.tsx","typed":false,"deferred":false}

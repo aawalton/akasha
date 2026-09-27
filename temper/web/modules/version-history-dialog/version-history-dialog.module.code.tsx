@@ -1,7 +1,6 @@
 "use client"
 
 import type { Json } from "akasha/code/type/narrowing/modules/json-value/json-value.module.code.ts"
-import { Badge } from "akasha/design/interface/badge/modules/badge/badge.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { cn } from "akasha/design/interface/primitive/modules/cn/cn.module.code.ts"
 import {
@@ -28,23 +27,31 @@ import {
   buildAddressOf,
   buildVersionPageTypeOf,
 } from "akasha/temper/web/modules/build-version-page-type/build-version-page-type.module.code.ts"
-import { formatTimeAgo } from "akasha/temper/web/modules/format-time-ago/format-time-ago.module.code.ts"
 import { RestoreConfirmDialog } from "akasha/temper/web/modules/restore-confirm-dialog/restore-confirm-dialog.module.code.tsx"
 import { useAccountAddress } from "akasha/temper/web/modules/use-account-address/use-account-address.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import {
+  type BuildVersion,
+  VersionItem,
+} from "akasha/temper/web/modules/version-history-item/version-history-item.module.code.tsx"
+import { versionHistoryDialogAccountNotLoaded } from "akasha/temper/web/phrase/pages/version-history-dialog-account-not-loaded.temper-web-phrase.ts"
+import { versionHistoryDialogAutoSaved } from "akasha/temper/web/phrase/pages/version-history-dialog-auto-saved.temper-web-phrase.ts"
+import { versionHistoryDialogCheckpointCreated } from "akasha/temper/web/phrase/pages/version-history-dialog-checkpoint-created.temper-web-phrase.ts"
+import { versionHistoryDialogCheckpointFailed } from "akasha/temper/web/phrase/pages/version-history-dialog-checkpoint-failed.temper-web-phrase.ts"
+import { versionHistoryDialogCheckpoints } from "akasha/temper/web/phrase/pages/version-history-dialog-checkpoints.temper-web-phrase.ts"
+import { versionHistoryDialogCreating } from "akasha/temper/web/phrase/pages/version-history-dialog-creating.temper-web-phrase.ts"
+import { versionHistoryDialogEmpty } from "akasha/temper/web/phrase/pages/version-history-dialog-empty.temper-web-phrase.ts"
+import { versionHistoryDialogHeading } from "akasha/temper/web/phrase/pages/version-history-dialog-heading.temper-web-phrase.ts"
+import { versionHistoryDialogNameMissing } from "akasha/temper/web/phrase/pages/version-history-dialog-name-missing.temper-web-phrase.ts"
+import { versionHistoryDialogNamePlaceholder } from "akasha/temper/web/phrase/pages/version-history-dialog-name-placeholder.temper-web-phrase.ts"
+import { versionHistoryDialogRestoreFailed } from "akasha/temper/web/phrase/pages/version-history-dialog-restore-failed.temper-web-phrase.ts"
+import { versionHistoryDialogRestored } from "akasha/temper/web/phrase/pages/version-history-dialog-restored.temper-web-phrase.ts"
+import { versionHistoryDialogSave } from "akasha/temper/web/phrase/pages/version-history-dialog-save.temper-web-phrase.ts"
+import { versionHistoryDialogWaiting } from "akasha/temper/web/phrase/pages/version-history-dialog-waiting.temper-web-phrase.ts"
 import { useCallback, useEffect, useRef, useState } from "react"
 import { toast } from "sonner"
 
 const ACCOUNT_WAIT_MS = 60_000
-
-interface BuildVersion {
-  id: string
-  versionNumber: number
-  isCheckpoint: boolean
-  checkpointName: string | null
-  createdAt: string | null
-  buildHash: string
-  buildMetadata: Record<string, unknown>
-}
 
 interface VersionHistoryDialogProps {
   open: boolean
@@ -76,6 +83,7 @@ export function VersionHistoryDialog({
   onVersionRestored,
 }: VersionHistoryDialogProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const userId = useUserId()
   const accountPage = useAccountAddress(userId).address
   const optimisticCreate = useOptimisticCreatePage((args) => createPage(args))
@@ -151,7 +159,7 @@ export function VersionHistoryDialog({
 
   const handleCreateCheckpoint = async () => {
     if (checkpointName.trim() === "") {
-      toast.error("Please enter a checkpoint name")
+      toast.error(phrase(versionHistoryDialogNameMissing.slug))
       return
     }
     if (userId != null && accountPage == null) {
@@ -163,11 +171,13 @@ export function VersionHistoryDialog({
     setIsCreatingCheckpoint(true)
     try {
       await createCheckpointMutation({ checkpointName: checkpointName.trim() })
-      toast.success("Checkpoint created")
+      toast.success(phrase(versionHistoryDialogCheckpointCreated.slug))
       setCheckpointName("")
       fetchVersions()
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to create checkpoint")
+      toast.error(
+        error instanceof Error ? error.message : phrase(versionHistoryDialogCheckpointFailed.slug)
+      )
     }
     setIsCreatingCheckpoint(false)
   }
@@ -183,10 +193,10 @@ export function VersionHistoryDialog({
     }
     const gaveUp = setTimeout(() => {
       setIsWaitingForAccount(false)
-      toast.error("Your account did not load, so the checkpoint was not saved. Try again.")
+      toast.error(phrase(versionHistoryDialogAccountNotLoaded.slug))
     }, ACCOUNT_WAIT_MS)
     return () => clearTimeout(gaveUp)
-  }, [isWaitingForAccount, accountPage])
+  }, [isWaitingForAccount, accountPage, phrase])
 
   const handleRestoreClick = (version: BuildVersion) => {
     setSelectedVersion(version)
@@ -203,11 +213,13 @@ export function VersionHistoryDialog({
         buildHash: selectedVersion.buildHash,
         buildMetadata: selectedVersion.buildMetadata,
       })
-      toast.success("Build restored to selected version")
+      toast.success(phrase(versionHistoryDialogRestored.slug))
       onVersionRestored?.()
       onOpenChange(false)
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to restore version")
+      toast.error(
+        error instanceof Error ? error.message : phrase(versionHistoryDialogRestoreFailed.slug)
+      )
     }
     setIsRestoring(false)
     setShowRestoreConfirm(false)
@@ -222,7 +234,7 @@ export function VersionHistoryDialog({
       <Dialog open={open} onOpenChange={onOpenChange}>
         <DialogContent className="sm:max-w-md">
           <DialogHeader>
-            <DialogTitle>Version History</DialogTitle>
+            <DialogTitle>{phrase(versionHistoryDialogHeading.slug)}</DialogTitle>
           </DialogHeader>
 
           <DialogBody className="space-y-4">
@@ -230,7 +242,7 @@ export function VersionHistoryDialog({
             <div className={cn("rounded-lg p-3", surfaceClass(surface + 1))}>
               <div className="flex gap-2">
                 <Input
-                  placeholder="Checkpoint name"
+                  placeholder={phrase(versionHistoryDialogNamePlaceholder.slug)}
                   value={checkpointName}
                   onChange={(e) => setCheckpointName(e.target.value)}
                   disabled={isCreatingCheckpoint || isWaitingForAccount}
@@ -250,11 +262,13 @@ export function VersionHistoryDialog({
                     isCreatingCheckpoint || isWaitingForAccount ? "disabled:cursor-wait" : undefined
                   }
                 >
-                  {isCreatingCheckpoint
-                    ? "Creating..."
-                    : isWaitingForAccount
-                      ? "Waiting for account..."
-                      : "Save"}
+                  {phrase(
+                    isCreatingCheckpoint
+                      ? versionHistoryDialogCreating.slug
+                      : isWaitingForAccount
+                        ? versionHistoryDialogWaiting.slug
+                        : versionHistoryDialogSave.slug
+                  )}
                 </Button>
               </div>
             </div>
@@ -267,7 +281,7 @@ export function VersionHistoryDialog({
                 </div>
               ) : versions.length === 0 ? (
                 <div className="py-8 text-center text-secondary text-sm">
-                  No checkpoints yet. Save a checkpoint to capture the current build.
+                  {phrase(versionHistoryDialogEmpty.slug)}
                 </div>
               ) : (
                 <div className="space-y-4">
@@ -275,7 +289,7 @@ export function VersionHistoryDialog({
                   {checkpoints.length > 0 && (
                     <div className="space-y-2">
                       <Heading variant="label" className="px-1">
-                        Checkpoints
+                        {phrase(versionHistoryDialogCheckpoints.slug)}
                       </Heading>
                       {checkpoints.map((version) => (
                         <VersionItem
@@ -291,7 +305,7 @@ export function VersionHistoryDialog({
                   {autoVersions.length > 0 && (
                     <div className="space-y-2">
                       <Heading variant="label" className="px-1">
-                        Auto-saved
+                        {phrase(versionHistoryDialogAutoSaved.slug)}
                       </Heading>
                       {autoVersions.map((version) => (
                         <VersionItem
@@ -316,36 +330,5 @@ export function VersionHistoryDialog({
         isRestoring={isRestoring}
       />
     </>
-  )
-}
-
-interface VersionItemProps {
-  version: BuildVersion
-  onRestore: () => void
-}
-
-function VersionItem({ version, onRestore }: VersionItemProps) {
-  const surface = useSurface()
-  return (
-    <div
-      className={cn(
-        "flex items-center justify-between gap-3 rounded-lg px-3 py-2",
-        surfaceClass(surface + 1)
-      )}
-    >
-      <div className="flex flex-col gap-1">
-        <div className="flex items-center gap-2">
-          {version.isCheckpoint ? (
-            <Badge variant="accent">{version.checkpointName ?? "Checkpoint"}</Badge>
-          ) : (
-            <Badge variant="elevation">v{version.versionNumber}</Badge>
-          )}
-        </div>
-        <span className="text-tertiary text-xs">{formatTimeAgo(version.createdAt)}</span>
-      </div>
-      <Button variant="tertiary" size="sm" onClick={onRestore}>
-        Restore
-      </Button>
-    </div>
   )
 }

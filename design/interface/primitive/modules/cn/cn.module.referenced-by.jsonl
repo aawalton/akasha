@@ -152,6 +152,7 @@
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/text-area-panel-card/text-area-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/ultimate-slot-card/ultimate-slot-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/modules/version-history-item/version-history-item.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/player-economics-ui/modules/shopping-next-location-panel-card/shopping-next-location-panel-card.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"cn.module.code.ts","path":"temper/web/player-inventory-management-ui/modules/rule-card-header-row/rule-card-header-row.module.code.tsx","typed":false,"deferred":false}
