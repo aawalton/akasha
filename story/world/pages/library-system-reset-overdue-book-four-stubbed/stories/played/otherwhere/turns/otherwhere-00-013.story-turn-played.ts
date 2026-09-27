@@ -4,6 +4,7 @@ export const otherwhere00013 = {
   id: "01a0e489-dd34-71c7-a633-78513de1aff3",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-013",
+  cover: "image/image-fbf89f9627f0d73a",
   ownLength: 283,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
@@ -14,7 +15,7 @@ export const otherwhere00013 = {
     "character-other/otherwhere-links",
     "character-other/otherwhere-engorged-bookworm-01",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I refill the scoop and wait for the bookworm to get closer this time before covering it in the salt",
   beats: [
@@ -34,5 +35,5 @@ export const otherwhere00013 = {
   ],
   lore: ["place/otherwhere-main-hall", "lore/otherwhere-universe"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

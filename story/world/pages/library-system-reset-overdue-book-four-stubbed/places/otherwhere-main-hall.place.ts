@@ -85,7 +85,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "A small engorged bookworm moves at a slow walk, but lunges a few feet fast to bite.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A scoop of salt flung by hand carries about ten feet before it scatters.",
@@ -229,6 +229,14 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The salted bookworm's shriek stopped the chewing, and other bookworms lifted blind heads toward it.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "A second salting shrank the nearest bookworm along half its length, but it still moves.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala's tin scoop lies in the gloom behind the bookworm, which is between her and the scoop.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
