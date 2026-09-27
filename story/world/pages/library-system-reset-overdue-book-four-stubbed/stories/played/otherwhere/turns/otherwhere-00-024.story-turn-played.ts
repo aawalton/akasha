@@ -14,7 +14,7 @@ export const otherwhere00024 = {
     "character-other/otherwhere-engorged-bookworm-03",
     "character-other/otherwhere-engorged-bookworm-04",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I hold down the first worm with a knee, grab two more handfuls of salt, then wait for the second worm to lunge, grabbing it by the neck as well",
   beats: [
@@ -27,5 +27,5 @@ export const otherwhere00024 = {
     "Its skin puckers and hisses under the salt; it thrashes, weaker now, but still strong in her grip.",
     "Blood runs down her left arm and drips onto the salt, and the arm is going numb and shaky.",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
