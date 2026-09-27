@@ -88,6 +88,10 @@ export const otherwhereAlan = {
       fact: "The Library pulled Alan because his magical signature is compatible with its core.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "His is the first compatible signature Links has found in 468 years.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
