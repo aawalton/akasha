@@ -24,8 +24,10 @@ interface CompanionVersion {
   buildMetadata: Record<string, unknown>
 }
 
+type VersionsRefusal = "signed-out" | "unread"
+
 function jsonResponse(
-  body: { versions: readonly CompanionVersion[] } | { error: string },
+  body: { versions: readonly CompanionVersion[] } | { reason: VersionsRefusal },
   headers: Headers,
   status = 200
 ): Response {
@@ -39,7 +41,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
   const reached = reader === null ? null : await accountOfContributor(reader)
   const accountId = reached?.ok === true ? reached.account : null
   if (accountId === null) {
-    return jsonResponse({ error: "Not authenticated" }, headers, 401)
+    return jsonResponse({ reason: "signed-out" }, headers, 401)
   }
 
   const build = buildAddressOf("companion-build", params.buildSlug)
@@ -82,12 +84,7 @@ export async function loader({ params, request }: Route.LoaderArgs): Promise<Res
 
     return jsonResponse({ versions: [...checkpoints, ...autoVersions] }, headers)
   } catch (err) {
-    return jsonResponse(
-      {
-        error: `Failed to fetch versions: ${err instanceof Error ? err.message : "Unknown error"}`,
-      },
-      headers,
-      500
-    )
+    console.error(`[companion-versions] reading the versions of ${build} failed:`, err)
+    return jsonResponse({ reason: "unread" }, headers, 500)
   }
 }

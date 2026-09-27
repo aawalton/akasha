@@ -7,4 +7,10 @@ export const companionVersions = {
   definition: "the saved revisions of a companion's build",
   code: "ts",
   urlPath: "api/companion-versions/:buildSlug",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A refusal answers a reason code and no wording, which the client words.",
+    },
+  ],
 } as const satisfies Route
