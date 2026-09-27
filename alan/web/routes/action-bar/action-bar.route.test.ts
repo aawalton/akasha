@@ -124,6 +124,25 @@ test("an action makes the game's next turn and tells every game seat, starting a
   ])
 })
 
+test("a turn made is answered as made while the seats are still being told of it", async () => {
+  const { effects, made } = effectsWith({ write: () => new Promise<never>(() => {}) })
+  const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
+  expect(answered.status).toBe(200)
+  expect(await answered.json()).toEqual({ ok: true, id: "the-game-00-003" })
+  expect(made).toEqual([`${GAME}: I wait`])
+})
+
+test("a turn made is answered as made where telling a seat of it throws", async () => {
+  const { effects } = effectsWith({
+    write: async () => {
+      throw new Error("the forwarder went away")
+    },
+  })
+  const answered = await answerActionBar(asked({ gameExternalId: GAME, text: "I wait" }), effects)
+  expect(answered.status).toBe(200)
+  expect(await answered.json()).toEqual({ ok: true, id: "the-game-00-003" })
+})
+
 test("an action while the latest turn is being made is refused with what is making it", async () => {
   const said = "The last turn is still being made: the world builder is working on it."
   const { effects, written } = effectsWith({ make: async () => ({ kind: "refused", said }) })

@@ -25,6 +25,10 @@ export const actionBarAnswering = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A turn made is answered as made before those seats are told of it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "Feedback is a message to the seat the game names as its coordinator agent.",
     },
     {

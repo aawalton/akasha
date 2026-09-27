@@ -272,18 +272,30 @@ async function turnMade(
     console.error(`a turn of ${game} was not made: ${made.why}`)
     return answer({ ok: false, error: NOT_LISTENING }, 503)
   }
-  for (const to of noticedOf(seat, game)) {
-    const body = noticeOf(made.at, WORLD_BUILDER)
-    const told = await writtenBy(effects, {
-      to,
-      from: TURN_SENDER,
-      warrant: ANNOUNCE,
-      body,
-      startedOnDemand: true,
-    })
-    if (told.kind === "refused") console.error(`${to} was not told of ${made.slug}: ${told.detail}`)
-  }
+  void toldOfTurn(effects, seat, game, made)
   return answer({ ok: true, id: made.slug }, 200)
+}
+
+async function toldOfTurn(
+  effects: ActionBarEffects,
+  seat: string,
+  game: string,
+  made: { readonly slug: string; readonly at: string }
+): Promise<void> {
+  const body = noticeOf(made.at, WORLD_BUILDER)
+  await Promise.all(
+    noticedOf(seat, game).map(async (to) => {
+      const told = await writtenBy(effects, {
+        to,
+        from: TURN_SENDER,
+        warrant: ANNOUNCE,
+        body,
+        startedOnDemand: true,
+      })
+      if (told.kind === "refused")
+        console.error(`${to} was not told of ${made.slug}: ${told.detail}`)
+    })
+  )
 }
 
 export async function answerActionBar(
