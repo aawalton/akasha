@@ -4,5 +4,5 @@ export const errorScreenNotFound = {
   id: "01a0e340-ba01-7dc9-9454-78014e332ffd",
   type: "page-type/web-phrase",
   slug: "error-screen-not-found",
-  title: "The requested page could not be found (live check).",
+  title: "The requested page could not be found.",
 } as const satisfies WebPhrase
