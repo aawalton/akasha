@@ -16,7 +16,7 @@ export const otherwhere00028 = {
     "character-other/otherwhere-engorged-bookworm-04",
     "character-other/otherwhere-engorged-bookworm-05",
   ],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "“Fine, we do this the hard way then.” I soak up the blood I’ve lost into my shirt and tights and then roll in the salt, until I’m as covered as I can be, as uncomfortable as that is. I then retrieve what is left of the broom and sweep the remaining salt into one big pile. Then I go find the next small one and lead it back to the pile, waiting until its close and then tackling it into the pile of salt.",
   beats: [
@@ -34,5 +34,5 @@ export const otherwhere00028 = {
     "It coils just past the scattered salt, head low, between her and the dark.",
   ],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
