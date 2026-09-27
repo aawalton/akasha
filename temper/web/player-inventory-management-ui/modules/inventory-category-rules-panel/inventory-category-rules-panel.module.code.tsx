@@ -10,8 +10,21 @@ import {
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { CardTitleBadges } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
+import { titleIn } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import type { CategoryRule } from "akasha/temper/items/rules/core/modules/inventory-rule-types/inventory-rule-types.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { inventoryCategoryRulesPanelAddRule } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-add-rule.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelCollapseAll } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-collapse-all.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelEmptyDescription } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-empty-description.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelEmptyTitle } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-empty-title.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelExpandAll } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-expand-all.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelNoMatchDescription } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-no-match-description.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelNoMatchTitle } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-no-match-title.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelResetAll } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-reset-all.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelResetKeepsLocked } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-reset-keeps-locked.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelResetTitle } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-reset-title.temper-web-phrase.ts"
+import { inventoryCategoryRulesPanelTitle } from "akasha/temper/web/phrase/pages/inventory-category-rules-panel-title.temper-web-phrase.ts"
 import type {
   ActiveStatusFilter,
   LockStatusFilter,
@@ -20,7 +33,13 @@ import { ResetBadge } from "akasha/temper/web/player-inventory-management-ui/mod
 import type { InventoryRulesHandlers } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-rules-handlers/inventory-rules-handlers.module.code.ts"
 import { RuleBulkActionBadge } from "akasha/temper/web/player-inventory-management-ui/modules/rule-bulk-action-badge/rule-bulk-action-badge.module.code.tsx"
 import { RuleCard } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card/rule-card.module.code.tsx"
+import { useRuleCardPhrases } from "akasha/temper/web/player-inventory-management-ui/modules/rule-card-phrase/rule-card-phrase.module.code.tsx"
 import type { DestinationOptions } from "akasha/temper/web/player-inventory-management-ui/modules/use-destination-options/use-destination-options.module.code.ts"
+import { ruleActive } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-active.temper-rule-card-phrase.ts"
+import { ruleDuplicate } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-duplicate.temper-rule-card-phrase.ts"
+import { ruleInactive } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-inactive.temper-rule-card-phrase.ts"
+import { ruleLocked } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-locked.temper-rule-card-phrase.ts"
+import { ruleUnlocked } from "akasha/temper/web/player-inventory-management-ui/temper-rule-card-phrase/pages/rule-unlocked.temper-rule-card-phrase.ts"
 import { Plus } from "lucide-react"
 import { useCallback, useState } from "react"
 
@@ -92,6 +111,8 @@ export function CategoryRulesPanel({
     handleBulkForceSetCategoryInactive,
   } = handlers
 
+  const phrase = usePhrase()
+  const statuses = useRuleCardPhrases()
   const ruleCount = rules.length
   const [expandedIds, setExpandedIds] = useState<Set<string>>(new Set())
   const allExpanded = ruleCount > 0 && expandedIds.size >= ruleCount
@@ -110,12 +131,12 @@ export function CategoryRulesPanel({
       collapsible
       forceMount
       id="category-rules"
-      title="Category Rules"
+      title={phrase(inventoryCategoryRulesPanelTitle.slug)}
       headerSubtitle={
         <CardTitleBadges className="w-full flex-wrap">
           {activeCategoryRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Active"
+              label={titleIn(statuses, ruleActive.key)}
               count={activeCategoryRuleIds.length}
               variant="accent"
               ruleDescriptions={activeDescriptions}
@@ -128,7 +149,7 @@ export function CategoryRulesPanel({
           )}
           {inactiveCategoryRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Inactive"
+              label={titleIn(statuses, ruleInactive.key)}
               count={inactiveCategoryRuleIds.length}
               variant="elevation-muted"
               ruleDescriptions={inactiveDescriptions}
@@ -141,7 +162,7 @@ export function CategoryRulesPanel({
           )}
           {duplicateCategoryRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Duplicate"
+              label={titleIn(statuses, ruleDuplicate.key)}
               count={duplicateCategoryRuleIds.length}
               variant="elevation-muted"
               ruleDescriptions={duplicateDescriptions}
@@ -153,7 +174,7 @@ export function CategoryRulesPanel({
           )}
           {lockedCategoryRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Locked"
+              label={titleIn(statuses, ruleLocked.key)}
               count={lockedCategoryRuleIds.length}
               variant="elevation-muted"
               onShow={() => onRuleLockChange(["locked"])}
@@ -164,7 +185,7 @@ export function CategoryRulesPanel({
           )}
           {unlockedCategoryRuleIds.length > 0 && (
             <RuleBulkActionBadge
-              label="Unlocked"
+              label={titleIn(statuses, ruleUnlocked.key)}
               count={unlockedCategoryRuleIds.length}
               variant="elevation-muted"
               ruleDescriptions={unlockedDescriptions}
@@ -189,15 +210,19 @@ export function CategoryRulesPanel({
                   }
                 }}
               >
-                {allExpanded ? "Collapse All" : "Expand All"}
+                {phrase(
+                  allExpanded
+                    ? inventoryCategoryRulesPanelCollapseAll.slug
+                    : inventoryCategoryRulesPanelExpandAll.slug
+                )}
               </ButtonBadge>
               <ResetBadge
-                title="Reset Category Rules?"
-                description={
+                title={phrase(inventoryCategoryRulesPanelResetTitle.slug)}
+                description={phrase(
                   rules.some((r) => r.locked)
-                    ? "This will reset all unlocked category rules to their defaults. Locked rules will be preserved."
-                    : "This will reset all category rules to their defaults. Custom rules will be lost."
-                }
+                    ? inventoryCategoryRulesPanelResetKeepsLocked.slug
+                    : inventoryCategoryRulesPanelResetAll.slug
+                )}
                 onReset={handleResetCategoryRules}
               />
             </div>
@@ -208,9 +233,9 @@ export function CategoryRulesPanel({
       {ruleCount === 0 ? (
         <Empty>
           <EmptyHeader>
-            <EmptyTitle>No rules yet</EmptyTitle>
+            <EmptyTitle>{phrase(inventoryCategoryRulesPanelEmptyTitle.slug)}</EmptyTitle>
             <EmptyDescription>
-              Add rules to automatically sort inventory items into bank, list for sale, or sell.
+              {phrase(inventoryCategoryRulesPanelEmptyDescription.slug)}
             </EmptyDescription>
           </EmptyHeader>
           <Button
@@ -221,7 +246,7 @@ export function CategoryRulesPanel({
             }
           >
             <Plus className="size-3.5" />
-            Add Rule
+            {phrase(inventoryCategoryRulesPanelAddRule.slug)}
           </Button>
         </Empty>
       ) : (
@@ -229,8 +254,10 @@ export function CategoryRulesPanel({
           {filteredCategoryRules.length === 0 && (
             <Empty>
               <EmptyHeader>
-                <EmptyTitle>No matching rules</EmptyTitle>
-                <EmptyDescription>No category rules match the current filter.</EmptyDescription>
+                <EmptyTitle>{phrase(inventoryCategoryRulesPanelNoMatchTitle.slug)}</EmptyTitle>
+                <EmptyDescription>
+                  {phrase(inventoryCategoryRulesPanelNoMatchDescription.slug)}
+                </EmptyDescription>
               </EmptyHeader>
             </Empty>
           )}
@@ -267,7 +294,7 @@ export function CategoryRulesPanel({
             }
           >
             <Plus className="size-3.5" />
-            Add Rule
+            {phrase(inventoryCategoryRulesPanelAddRule.slug)}
           </button>
         </div>
       )}
