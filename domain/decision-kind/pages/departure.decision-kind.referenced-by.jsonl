@@ -6226,6 +6226,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/action-options/action-options.module.ts","id":"01a0636c-5d96-7dc6-a22c-810f2f640002"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.ts","id":"01a0636c-5d96-799f-a4a3-b169e3670004"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/deconstruct-scope-select/deconstruct-scope-select.module.ts","id":"01a0636c-5d97-7c22-964b-407b1edd000a"}
+{"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/destination-cascade/destination-cascade.module.ts","id":"01a0636c-5d97-776a-8d86-38240ccf000b"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory-settings/hooks-inventory-settings.module.ts","id":"01a0636c-5d97-7966-a4c8-930054ce000c"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/hooks-inventory/hooks-inventory.module.ts","id":"01a0636c-5d97-76ed-b991-13a9b7f8000d"}
 {"propertySlug":"decision-kind","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.ts","id":"01a0636c-5d9a-7374-a500-82c80d66000f"}

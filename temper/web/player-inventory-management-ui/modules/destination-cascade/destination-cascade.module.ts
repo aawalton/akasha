@@ -6,4 +6,10 @@ export const destinationCascade = {
   slug: "destination-cascade",
   definition: "the linked selects naming where a rule puts an item",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Any place of a group reads Any and the group's name, read from its page.",
+    },
+  ],
 } as const satisfies Module

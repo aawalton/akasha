@@ -44,10 +44,9 @@ export function DestinationCascade({
 
   const isSentinel = destination === "house-storage" || destination === "guild-bank"
   const itemValue = hasItems || isSentinel ? destination : undefined
+  const anyLabel = `Any ${currentGroup.label}`
   const itemLabel = isSentinel
-    ? destination === "house-storage"
-      ? "Any Housing Storage"
-      : "Any Guild Bank"
+    ? anyLabel
     : currentGroup.items.find((i) => i.value === destination)?.label
 
   function handleCategoryChange(value: string) {
@@ -100,9 +99,9 @@ export function DestinationCascade({
             <SelectContent
               nullSentinel={
                 currentGroup.category === "housing-storage"
-                  ? { value: "house-storage", label: "Any Housing Storage" }
+                  ? { value: "house-storage", label: anyLabel }
                   : currentGroup.category === "guild-bank"
-                    ? { value: "guild-bank", label: "Any Guild Bank" }
+                    ? { value: "guild-bank", label: anyLabel }
                     : undefined
               }
             >
