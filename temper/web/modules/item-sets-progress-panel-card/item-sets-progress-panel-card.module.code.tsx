@@ -2,6 +2,7 @@ import type { SortDirection } from "akasha/design/interface/pattern/modules/sort
 import type { ActivityCategoryId } from "akasha/temper/player/completion/temper-player-completion/modules/activity-categories/activity-categories.module.code.ts"
 
 import type { AccountCardId } from "akasha/temper/player/completion/temper-player-completion/modules/completion-card-registry/completion-card-registry.module.code.ts"
+import { completionCardTitle } from "akasha/temper/player/completion/temper-player-completion/modules/completion-category-tree/completion-category-tree.module.code.ts"
 import type {
   ItemSetOverallProgress,
   ItemSetSubcategoryProgress,
@@ -89,7 +90,7 @@ export function ItemSetsProgressPanelCard({
   return (
     <CompletionPanelCard
       id={id}
-      title="Item Sets"
+      title={completionCardTitle("account", "item-sets")}
       items={items}
       filterNode={createNodeFilter(completionFilter ?? [], activityCategoryFilter ?? [])}
       sortMode={sortMode}

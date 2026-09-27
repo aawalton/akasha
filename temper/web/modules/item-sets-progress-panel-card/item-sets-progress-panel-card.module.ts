@@ -6,4 +6,10 @@ export const itemSetsProgressPanelCard = {
   slug: "item-sets-progress-panel-card",
   definition: "the item set pieces the account has collected, by category",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its title is read from the account item sets completion category page.",
+    },
+  ],
 } as const satisfies Module
