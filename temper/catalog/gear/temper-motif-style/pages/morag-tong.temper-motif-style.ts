@@ -6,6 +6,7 @@ export const moragTong = {
   slug: "morag-tong",
   title: "Morag Tong",
   esoItemStyleId: 43,
+  styleName: "Morag Tong",
   collectionIndex: 13,
   sourceDescription: "Hall of Justice dailies (Vvardenfell)",
   dropSources: [
