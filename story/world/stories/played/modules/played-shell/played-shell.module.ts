@@ -63,11 +63,17 @@ export const playedShell = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The in-game time the latest turn at player ends at is a line under the title.",
+      statement:
+        "The in-game time the latest turn at player ends at is drawn first beside the run.",
     },
     {
       decisionKind: "decision-kind/departure",
       statement: "The appointments still to come with the story's character are listed under it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A story with an in-game time or an appointment to come has the panels beside the run drawn.",
     },
     {
       decisionKind: "decision-kind/departure",
