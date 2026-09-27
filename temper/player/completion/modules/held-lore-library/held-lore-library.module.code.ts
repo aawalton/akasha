@@ -1,9 +1,4 @@
-import {
-  numberAt,
-  slugAt,
-  textAt,
-  type Value,
-} from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
+import type { Value } from "akasha/page/modules/value-reading/page-value-reading.module.code.ts"
 import { temperLoreCategory } from "akasha/temper/catalog/pursuit/temper-lore-category/temper-lore-category.page-type.ts"
 import { temperLoreBook } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-book/temper-lore-book.page-type.ts"
 import { temperLoreCollection } from "akasha/temper/catalog/pursuit/temper-lore-collection/temper-lore-collection.page-type.ts"
@@ -22,16 +17,20 @@ export const LORE_LIBRARY_READS: readonly (readonly [string, readonly string[]])
   [temperLoreBook.slug, ["collection", "bookIndex", "title"]],
 ]
 
-function booksBySlug(rows: readonly Value[]): Map<string, Book[]> {
+function titleOf(row: Value): string {
+  const title = row.title
+  return typeof title === "string" ? title : ""
+}
+
+function booksByCollection(rows: readonly Value[]): Map<string, Book[]> {
   const books = new Map<string, Book[]>()
   for (const row of rows) {
-    const collection = slugAt(row, "collection")
-    const bookIndex = numberAt(row, "bookIndex")
-    const name = textAt(row, "title")
-    if (collection === null || bookIndex === null || name === null) continue
+    const { collection, bookIndex, title } = row
+    if (typeof collection !== "string" || typeof bookIndex !== "number") continue
+    if (typeof title !== "string") continue
     const held = books.get(collection)
-    if (held === undefined) books.set(collection, [{ bookIndex, name }])
-    else held.push({ bookIndex, name })
+    if (held === undefined) books.set(collection, [{ bookIndex, name: title }])
+    else held.push({ bookIndex, name: title })
   }
   return books
 }
@@ -39,18 +38,18 @@ function booksBySlug(rows: readonly Value[]): Map<string, Book[]> {
 export function loreLibraryFrom(rowsOf: (pageTypeSlug: string) => readonly Value[]): LoreLibrary {
   const names = new Map<number, string>()
   for (const row of rowsOf(temperLoreCategory.slug)) {
-    const index = numberAt(row, "esoLoreCategoryId")
-    if (index !== null) names.set(index, textAt(row, "title") ?? "")
+    const index = row.esoLoreCategoryId
+    if (typeof index === "number") names.set(index, titleOf(row))
   }
-  const books = booksBySlug(rowsOf(temperLoreBook.slug))
+  const books = booksByCollection(rowsOf(temperLoreBook.slug))
   const collections = new Map<number, LoreCollectionEntry[]>()
   for (const row of rowsOf(temperLoreCollection.slug)) {
-    const category = numberAt(row, "esoLoreCategoryId")
-    const collectionIndex = numberAt(row, "esoCollectionIndex")
-    const slug = textAt(row, "slug")
-    if (category === null || collectionIndex === null || slug === null) continue
-    const listed = [...(books.get(slug) ?? [])].sort((a, b) => a.bookIndex - b.bookIndex)
-    const entry = { collectionIndex, name: textAt(row, "title") ?? "", books: listed }
+    const { esoLoreCategoryId: category, esoCollectionIndex: collectionIndex, slug } = row
+    if (typeof category !== "number" || typeof collectionIndex !== "number") continue
+    if (typeof slug !== "string") continue
+    const address = `${temperLoreCollection.slug}/${slug}`
+    const listed = [...(books.get(address) ?? [])].sort((a, b) => a.bookIndex - b.bookIndex)
+    const entry = { collectionIndex, name: titleOf(row), books: listed }
     const held = collections.get(category)
     if (held === undefined) collections.set(category, [entry])
     else held.push(entry)
