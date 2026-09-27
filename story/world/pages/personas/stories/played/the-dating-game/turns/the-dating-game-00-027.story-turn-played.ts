@@ -7,7 +7,7 @@ export const theDatingGame00027 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 27,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     "“Usually just around the neighborhood. Sometime up the canyon, into the forest. I’ve watched the sun rise from the top of the mountain a few times.”",
 } as const satisfies StoryTurnPlayed
