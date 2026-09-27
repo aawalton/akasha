@@ -67,7 +67,11 @@ export const reviewQueue = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The three images after the one shown are loaded ahead.",
+      statement: "A review asks for more images while a hundred are still held ahead.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The hundred images after the one shown are held ahead.",
     },
   ],
 } as const satisfies Module

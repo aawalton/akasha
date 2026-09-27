@@ -9,6 +9,7 @@ import {
   gradeColor,
   graded,
   gradeSaid,
+  LOOKAHEAD,
   OPENING,
   type Queued,
   type Review,
@@ -70,7 +71,7 @@ test("Grading an image shows the next image the review covers.", () => {
   expect(shownOf(stepped.review)?.id).toBe("id-1")
   expect(stepped.review.total).toBe(39)
   expect(stepped.review.done).toEqual([{ one: { id: "id-0", slug: "image-0" }, grade: "A" }])
-  expect(stepped.asking).toBeNull()
+  expect(stepped.asking).toEqual({ base: 0, limit: WINDOW, place: "kept" })
   expect(countsOf(stepped.review).get("A")).toBe(1)
 })
 
@@ -130,19 +131,29 @@ test("A grade that fails to be written puts its image back.", () => {
 })
 
 test("A review asks the store for more images before the images it holds run out.", () => {
-  const near = skipped(holding(queued(6), 100, 0, 1))
-  expect(near.asking).toEqual({ base: 0, limit: WINDOW, place: "kept" })
-  const far = skipped(holding(queued(20), 100))
+  const near = skipped(holding(queued(6), 1000, 0, 1))
+  expect(near.asking).toEqual({ base: 2, limit: WINDOW, place: "kept" })
+  const far = skipped(holding(queued(WINDOW), 1000))
   expect(far.asking).toBeNull()
   const last = graded(holding(queued(1), 100), "A")
   expect(last.asking).toEqual({ base: 0, limit: WINDOW, place: "first" })
 })
 
-test("The three images after the one shown are loaded ahead.", () => {
-  expect(aheadOf(holding(queued(10), 10, 0, 2)).map((one) => one.id)).toEqual([
-    "id-3",
-    "id-4",
-    "id-5",
-  ])
+test("A review asks for more images while a hundred are still held ahead.", () => {
+  const stepped = skipped(holding(queued(LOOKAHEAD + 50, 40), 1000, 40, 0))
+  expect(aheadOf(stepped.review)).toHaveLength(LOOKAHEAD)
+  expect(stepped.asking).toEqual({ base: 41, limit: WINDOW, place: "kept" })
+  const answer = { base: 41, rows: queued(WINDOW, 41), total: 1000 }
+  const refilled = answered(stepped.review, answer, "kept", new Set())
+  expect(shownOf(refilled)?.id).toBe("id-41")
+  expect(aheadOf(refilled)).toHaveLength(LOOKAHEAD)
+  expect(skipped(refilled).asking).toBeNull()
+})
+
+test("The hundred images after the one shown are held ahead.", () => {
+  const ahead = aheadOf(holding(queued(WINDOW), WINDOW, 0, 2))
+  expect(ahead).toHaveLength(LOOKAHEAD)
+  expect(ahead[0]?.id).toBe("id-3")
+  expect(ahead.at(-1)?.id).toBe(`id-${LOOKAHEAD + 2}`)
   expect(aheadOf(holding(queued(2))).map((one) => one.id)).toEqual(["id-1"])
 })

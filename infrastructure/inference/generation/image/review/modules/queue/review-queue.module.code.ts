@@ -53,9 +53,11 @@ export type Answer = {
   readonly total: number
 }
 
-export const WINDOW = 60
+export const LOOKAHEAD = 100
 
-export const AHEAD = 3
+export const WINDOW = LOOKAHEAD * 2
+
+const REFILL_BELOW = LOOKAHEAD + LOOKAHEAD / 2
 
 export const OPENING: Review = { base: 0, rows: [], total: 0, at: 0, done: [] }
 
@@ -68,7 +70,7 @@ export function shownOf(review: Review): Queued | null {
 }
 
 export function aheadOf(review: Review): readonly Queued[] {
-  const count = Math.min(AHEAD, review.rows.length - 1)
+  const count = Math.min(LOOKAHEAD, review.rows.length - 1)
   const ahead: Queued[] = []
   for (let step = 1; step <= count; step += 1) {
     const one = review.rows[(review.at + step) % review.rows.length]
@@ -89,9 +91,9 @@ function clamped(at: number, length: number): number {
 
 function toppedUp(review: Review): Asking | null {
   const left = review.rows.length - review.at - 1
-  if (left > AHEAD) return null
+  if (left >= REFILL_BELOW) return null
   if (review.base + review.rows.length >= review.total) return null
-  return { base: review.base, limit: WINDOW, place: "kept" }
+  return { base: review.base + review.at, limit: WINDOW, place: "kept" }
 }
 
 export function answered(
@@ -104,8 +106,8 @@ export function answered(
   const total = Math.max(rows.length, answer.total - (answer.rows.length - rows.length))
   const shown = shownOf(review)
   const kept = shown === null ? -1 : rows.findIndex((one) => one.id === shown.id)
-  const at =
-    place === "first" ? 0 : place === "last" ? rows.length - 1 : kept >= 0 ? kept : review.at
+  const moved = review.at + review.base - answer.base
+  const at = place === "first" ? 0 : place === "last" ? rows.length - 1 : kept >= 0 ? kept : moved
   return { ...review, base: answer.base, rows, total, at: clamped(at, rows.length) }
 }
 
