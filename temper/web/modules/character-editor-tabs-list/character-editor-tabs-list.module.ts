@@ -6,4 +6,10 @@ export const characterEditorTabsList = {
   slug: "character-editor-tabs-list",
   definition: "the tabs the character editor lists",
   code: "tsx",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
+  ],
 } as const satisfies Module

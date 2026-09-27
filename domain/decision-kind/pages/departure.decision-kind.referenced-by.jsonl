@@ -6151,6 +6151,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/champion-points-panel-card/champion-points-panel-card.module.ts","id":"01a06421-f74b-722c-9330-74c477580012"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-achievements-panel-card/character-achievements-panel-card.module.ts","id":"01a06421-f74b-7d4b-bfa1-cf2d5df70013"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-companion-rapport-panel-card/character-companion-rapport-panel-card.module.ts","id":"01a06421-f74b-7b1b-9302-c4893adf0014"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/character-editor-tabs-list/character-editor-tabs-list.module.ts","id":"01a0642c-5b87-7905-916b-30572f40b7dd"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-level-panel-card/character-level-panel-card.module.ts","id":"01a06421-f74b-7fa3-954a-6f7d00050015"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-live-only-panel-card/character-live-only-panel-card.module.ts","id":"01a0642c-5b8c-7103-bb20-3b45d03008e8"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/character-management-panel-card/character-management-panel-card.module.ts","id":"01a06589-8d6b-7000-a576-a0cff7027bd0"}
