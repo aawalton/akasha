@@ -18,3 +18,4 @@
 {"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/items/filters/core/modules/search-equip-slot-filter/search-equip-slot-filter.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-equip-type.page-type.types.ts","path":"temper/items/filters/core/modules/search-page-options/search-page-options.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"temper/catalog/gear/temper-gear.domain.ts","id":"01a05fba-ce3c-7cc6-bd0f-2d8917043895"}
+{"propertySlug":"target-page-type","path":"temper/catalog/gear/temper-equip-type/properties/slot-equip-type.relation-property.ts","id":"01a0e11a-058e-7d90-a71c-7f1d20c2a965"}

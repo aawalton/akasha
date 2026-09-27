@@ -13,6 +13,7 @@ export const temperArmorSlot = {
     { pageProperty: "text-property/icon", required: true, many: false },
     { pageProperty: "number-property/hash-place", required: true, many: false },
     { pageProperty: "number-property/equip-type", required: true, many: false },
+    { pageProperty: "relation-property/slot-equip-type", required: false, many: false },
   ],
   decisions: [
     {

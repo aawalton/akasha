@@ -9,4 +9,5 @@ export const mainHand = {
   icon: "/resources/gearslot_mainhand.png",
   displayOrder: 0,
   equipType: 14,
+  slotEquipType: "temper-equip-type/main-hand",
 } as const satisfies TemperWeaponSlot

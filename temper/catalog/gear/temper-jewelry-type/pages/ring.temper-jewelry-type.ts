@@ -8,4 +8,5 @@ export const ring = {
   key: "ring",
   validSlots: ["temper-jewelry-slot/ring-1", "temper-jewelry-slot/ring-2"],
   equipType: 12,
+  slotEquipType: "temper-equip-type/ring",
 } as const satisfies TemperJewelryType

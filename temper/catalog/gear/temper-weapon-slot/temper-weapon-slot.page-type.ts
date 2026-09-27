@@ -11,6 +11,7 @@ export const temperWeaponSlot = {
     { pageProperty: "text-property/key", required: true, many: false },
     { pageProperty: "number-property/display-order", required: true, many: false },
     { pageProperty: "number-property/equip-type", required: true, many: false },
+    { pageProperty: "relation-property/slot-equip-type", required: false, many: false },
   ],
   decisions: [
     {

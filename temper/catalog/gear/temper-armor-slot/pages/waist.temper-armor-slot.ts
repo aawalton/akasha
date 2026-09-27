@@ -10,4 +10,5 @@ export const waist = {
   displayOrder: 4,
   hashPlace: 4,
   equipType: 8,
+  slotEquipType: "temper-equip-type/waist",
 } as const satisfies TemperArmorSlot

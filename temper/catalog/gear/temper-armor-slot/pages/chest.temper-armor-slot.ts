@@ -10,4 +10,5 @@ export const chest = {
   displayOrder: 2,
   hashPlace: 2,
   equipType: 3,
+  slotEquipType: "temper-equip-type/chest",
 } as const satisfies TemperArmorSlot
