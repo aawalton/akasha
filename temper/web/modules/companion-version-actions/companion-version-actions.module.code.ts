@@ -1,3 +1,10 @@
+import {
+  heldWebPhrases,
+  phraseIn,
+} from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
+import { companionVersionActionsFetchFailed } from "akasha/temper/web/phrase/pages/companion-version-actions-fetch-failed.temper-web-phrase.ts"
+import { companionVersionActionsFetchFailedStatus } from "akasha/temper/web/phrase/pages/companion-version-actions-fetch-failed-status.temper-web-phrase.ts"
+import { companionVersionActionsUnknownError } from "akasha/temper/web/phrase/pages/companion-version-actions-unknown-error.temper-web-phrase.ts"
 import { z } from "zod"
 
 interface CompanionVersion {
@@ -35,12 +42,19 @@ export async function getCompanionVersions(
       headers: { Accept: "application/json" },
     })
     if (!response.ok) {
-      return { error: `Failed to fetch versions: HTTP ${response.status}` }
+      return {
+        error: phraseIn(heldWebPhrases(), companionVersionActionsFetchFailedStatus.slug, {
+          status: response.status,
+        }),
+      }
     }
     return responseSchema.parse(await response.json())
   } catch (err) {
-    return {
-      error: `Failed to fetch versions: ${err instanceof Error ? err.message : "Unknown error"}`,
-    }
+    const phrases = heldWebPhrases()
+    const reason =
+      err instanceof Error
+        ? err.message
+        : phraseIn(phrases, companionVersionActionsUnknownError.slug)
+    return { error: phraseIn(phrases, companionVersionActionsFetchFailed.slug, { reason }) }
   }
 }

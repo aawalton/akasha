@@ -15,5 +15,9 @@ export const companionVersionActions = {
       decisionKind: "decision-kind/departure",
       statement: "A failure comes back as a message rather than as a raised error.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Its wording is read from web phrase pages.",
+    },
   ],
 } as const satisfies Module

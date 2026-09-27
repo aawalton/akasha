@@ -18,7 +18,17 @@ import { usePagesUIRouter } from "akasha/page/ui/modules/navigation-context/navi
 import type { BuildId } from "akasha/temper/player/character/formula-framework/modules/branded-id/branded-id.module.code.ts"
 import { useCompanion } from "akasha/temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts"
 import { getCompanionVersions } from "akasha/temper/web/modules/companion-version-actions/companion-version-actions.module.code.ts"
+import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { VersionHistoryDialog } from "akasha/temper/web/modules/version-history-dialog/version-history-dialog.module.code.tsx"
+import { companionManagementPanelCardBuildManagement } from "akasha/temper/web/phrase/pages/companion-management-panel-card-build-management.temper-web-phrase.ts"
+import { companionManagementPanelCardCancel } from "akasha/temper/web/phrase/pages/companion-management-panel-card-cancel.temper-web-phrase.ts"
+import { companionManagementPanelCardDeleteBuild } from "akasha/temper/web/phrase/pages/companion-management-panel-card-delete-build.temper-web-phrase.ts"
+import { companionManagementPanelCardDeleteDescription } from "akasha/temper/web/phrase/pages/companion-management-panel-card-delete-description.temper-web-phrase.ts"
+import { companionManagementPanelCardDeleteFailed } from "akasha/temper/web/phrase/pages/companion-management-panel-card-delete-failed.temper-web-phrase.ts"
+import { companionManagementPanelCardDeleteTitle } from "akasha/temper/web/phrase/pages/companion-management-panel-card-delete-title.temper-web-phrase.ts"
+import { companionManagementPanelCardDeleting } from "akasha/temper/web/phrase/pages/companion-management-panel-card-deleting.temper-web-phrase.ts"
+import { companionManagementPanelCardUntitledBuild } from "akasha/temper/web/phrase/pages/companion-management-panel-card-untitled-build.temper-web-phrase.ts"
+import { companionManagementPanelCardVersionHistory } from "akasha/temper/web/phrase/pages/companion-management-panel-card-version-history.temper-web-phrase.ts"
 import { useState } from "react"
 import { toast } from "sonner"
 
@@ -34,6 +44,7 @@ export function CompanionManagementPanelCard({
   className,
 }: CompanionManagementPanelCardProps) {
   const surface = useSurface()
+  const phrase = usePhrase()
   const router = usePagesUIRouter()
   const [showDeleteDialog, setShowDeleteDialog] = useState(false)
   const [showVersionHistory, setShowVersionHistory] = useState(false)
@@ -53,7 +64,11 @@ export function CompanionManagementPanelCard({
       await deleteBuild()
       router.push("/companion-build")
     } catch (error) {
-      toast.error(error instanceof Error ? error.message : "Failed to delete companion")
+      toast.error(
+        error instanceof Error
+          ? error.message
+          : phrase(companionManagementPanelCardDeleteFailed.slug)
+      )
       setIsDeleting(false)
       setShowDeleteDialog(false)
     }
@@ -68,15 +83,15 @@ export function CompanionManagementPanelCard({
       <PanelCard
         id="companion-management"
         collapsible
-        title="Build Management"
+        title={phrase(companionManagementPanelCardBuildManagement.slug)}
         className={className}
       >
         <div className="flex flex-wrap justify-between gap-2">
           <Button variant="destructive" onClick={() => setShowDeleteDialog(true)}>
-            Delete Build
+            {phrase(companionManagementPanelCardDeleteBuild.slug)}
           </Button>
           <Button variant="secondary" onClick={() => setShowVersionHistory(true)}>
-            Version History
+            {phrase(companionManagementPanelCardVersionHistory.slug)}
           </Button>
         </div>
       </PanelCard>
@@ -96,10 +111,16 @@ export function CompanionManagementPanelCard({
       <AlertDialog open={showDeleteDialog} onOpenChange={setShowDeleteDialog}>
         <AlertDialogContent>
           <AlertDialogHeader>
-            <AlertDialogTitle>Delete Build?</AlertDialogTitle>
+            <AlertDialogTitle>
+              {phrase(companionManagementPanelCardDeleteTitle.slug)}
+            </AlertDialogTitle>
             <AlertDialogDescription>
-              This will permanently delete &quot;
-              {buildName !== "" ? buildName : "Untitled Build"}&quot;. This action cannot be undone.
+              {phrase(companionManagementPanelCardDeleteDescription.slug, {
+                name:
+                  buildName !== ""
+                    ? buildName
+                    : phrase(companionManagementPanelCardUntitledBuild.slug),
+              })}
             </AlertDialogDescription>
           </AlertDialogHeader>
           <AlertDialogFooter className="sm:justify-between">
@@ -109,10 +130,12 @@ export function CompanionManagementPanelCard({
               disabled={isDeleting}
               className={isDeleting ? "disabled:cursor-wait" : undefined}
             >
-              {isDeleting ? "Deleting..." : "Delete Build"}
+              {isDeleting
+                ? phrase(companionManagementPanelCardDeleting.slug)
+                : phrase(companionManagementPanelCardDeleteBuild.slug)}
             </AlertDialogAction>
             <AlertDialogCancel disabled={isDeleting} className={surfaceClass(surface + 1)}>
-              Cancel
+              {phrase(companionManagementPanelCardCancel.slug)}
             </AlertDialogCancel>
           </AlertDialogFooter>
         </AlertDialogContent>
