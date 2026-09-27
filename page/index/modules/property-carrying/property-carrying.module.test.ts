@@ -256,6 +256,14 @@ test("a face works out what it says for the name it is asked rather than for eve
   expect(generatedIn(facing, SECTIONED)).toBe(true)
 })
 
+test("a face held for a root is let go once the work that asked for it is done", async () => {
+  const root = rooted()
+  const facing = facingOn(root)
+  expect(facingOn(root)).toBe(facing)
+  await Promise.resolve()
+  expect(facingOn(root)).not.toBe(facing)
+})
+
 test("a file carrying no section is not the file of a property naming no file", () => {
   const root = rooted()
   entriesFiled(root, { ...SAYS, generated: true })

@@ -178,6 +178,11 @@ export const propertyCarrying = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A face held for a root is let go once the work asking for it is done, so it outlives no landing.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A face held that way reads one index reading rather than one for each question.",
     },
     {

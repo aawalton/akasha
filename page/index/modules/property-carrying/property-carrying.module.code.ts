@@ -252,6 +252,7 @@ export function facingOn(root: string): Facing {
   const found = FACING.get(root)
   if (found !== undefined) return found
   const made = facingIn(root, readingIn(root))
+  if (FACING.size === 0) queueMicrotask(() => FACING.clear())
   FACING.set(root, made)
   return made
 }
