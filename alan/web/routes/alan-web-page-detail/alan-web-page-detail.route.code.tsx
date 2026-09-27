@@ -4,6 +4,7 @@ import { PageDetailWithReadMark } from "akasha/alan/web/modules/page-detail-with
 import { siteNamedIn } from "akasha/infrastructure/service/akasha-service/web-app/site-document/modules/reading/site-document-reading.module.code.ts"
 import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
+import { seedPagesStore } from "akasha/page/ui-store/modules/singleton/singleton.module.code.ts"
 import {
   DISPLAY_PARAM,
   parseDisplayMode,
@@ -54,6 +55,15 @@ const READING_STORY = "reading-story"
 
 const NAV_READ: readonly string[] = ["nav"]
 
+const seeded = new WeakSet<object>()
+
+function seededOnce(seeds: Readonly<Record<string, unknown>>): undefined {
+  if (typeof window === "undefined" || seeded.has(seeds)) return
+  seeded.add(seeds)
+  if (Object.keys(seeds).length > 0) seedPagesStore(seeds)
+  return undefined
+}
+
 function changedSearchParamKeys(current: URL, next: URL): Set<string> {
   const keys = new Set<string>()
   const all = new Set([...current.searchParams.keys(), ...next.searchParams.keys()])
@@ -95,6 +105,7 @@ export default function PageDetailRoute({ loaderData }: { loaderData: PageDetail
     return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />
   }
 
+  seededOnce(loaderData.seeds)
   const brandedSlug = toPageTypeSlug(loaderData.pageTypeSlug)
   return (
     <PageDetailWithReadMark

@@ -54,6 +54,11 @@ export async function awaitPagesStoreReady(): Promise<PagesStore> {
   return getPagesStore()
 }
 
+export function seedPagesStore(answers: Readonly<Record<string, unknown>>): undefined {
+  void getPagesStore().then((store) => store.seed(answers))
+  return undefined
+}
+
 export async function readPagesAgain(pageTypeSlug: string): Promise<void> {
   const store = await getPagesStore()
   await store.readSlugAgain(pageTypeSlug)

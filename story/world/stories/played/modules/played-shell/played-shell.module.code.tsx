@@ -40,9 +40,11 @@ import {
   PLAYED_POSITION_KEY,
   PLAYED_TURN_COLLECTIONS_KEY,
   PLAYED_TURN_PAGE_TYPE_SLUG,
+  type PlayedList,
   playedChaptersOf,
   playedEnvelope,
   playedHrefsOf,
+  playedListsOf,
   playedMaking,
   playedReady,
   playedTail,
@@ -85,8 +87,8 @@ const ONE = 1
 
 const TURN_TITLES: ChapterProseTitles = "hidden"
 
-function storyOnly(pageTypeSlug: string, key: string, storyAddress: string): ShapeDescriptor {
-  return namedShapeDescriptor(pageTypeSlug, { by: "where", key, values: [storyAddress] })
+function shapeOf(list: PlayedList): ShapeDescriptor {
+  return namedShapeDescriptor(list.pageTypeSlug, list.named)
 }
 
 function textIn(value: unknown): string {
@@ -155,24 +157,25 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   const title = textIn(data.title)
   const slug = textIn(data.slug)
   const storyAddress = namedAs(pageTypeSlug, slug, null)
+  const lists = useMemo(() => playedListsOf(storyAddress), [storyAddress])
 
   const chapterOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: PLAYED_CHAPTER_PAGE_TYPE_SLUG,
       where: [{ key: PLAYED_CHAPTER_STORY_KEY, eq: storyAddress }],
       order: [{ by: PLAYED_POSITION_KEY, dir: "asc" }],
-      shape: storyOnly(PLAYED_CHAPTER_PAGE_TYPE_SLUG, PLAYED_CHAPTER_STORY_KEY, storyAddress),
+      shape: shapeOf(lists.chapters),
     }),
-    [storyAddress]
+    [storyAddress, lists]
   )
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
       pageTypeSlug: PLAYED_TURN_PAGE_TYPE_SLUG,
       where: [{ key: PLAYED_TURN_COLLECTIONS_KEY, includes: storyAddress }],
       order: [{ by: PLAYED_POSITION_KEY, dir: "asc" }],
-      shape: storyOnly(PLAYED_TURN_PAGE_TYPE_SLUG, PLAYED_TURN_COLLECTIONS_KEY, storyAddress),
+      shape: shapeOf(lists.turns),
     }),
-    [storyAddress]
+    [storyAddress, lists]
   )
   const chapters = usePages(chapterOptions)
   const turns = usePages(turnOptions)
@@ -194,9 +197,9 @@ export function PlayedShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
       pageTypeSlug: characterPlayer.slug,
       where: [{ key: STORY_KEY, eq: storyAddress }],
       limit: ONE,
-      shape: storyOnly(characterPlayer.slug, STORY_KEY, storyAddress),
+      shape: shapeOf(lists.character),
     }),
-    [storyAddress]
+    [storyAddress, lists]
   )
   const characters = usePages(characterOptions)
   const characterAddress = namedAs(characterPlayer.slug, textIn(characters.rows[0]?.slug), null)

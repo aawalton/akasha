@@ -262,7 +262,8 @@ export function createStoreFollowing(
   readingAgain: ReadonlyMap<string, ReadAgain>,
   fetchImpl: FetchImpl | null,
   open: (at: string) => StreamLike,
-  canStream: boolean = inABrowser()
+  canStream: boolean = inABrowser(),
+  seeded: Set<string> = new Set()
 ): StoreFollowing {
   const heardBy = new Map<string, Set<() => undefined>>()
   const readingNow = new Map<string, Owed>()
@@ -307,6 +308,10 @@ export function createStoreFollowing(
     },
     caughtUp: () => {
       for (const key of new Set([...readingAgain.keys(), ...heardBy.keys()])) heard(key, undefined)
+      return undefined
+    },
+    took: (keys) => {
+      for (const key of keys) if (seeded.delete(key)) readAgainNow(key, undefined)
       return undefined
     },
   })

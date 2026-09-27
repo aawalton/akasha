@@ -42,6 +42,11 @@ export const changeFollowing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A list first drawn from an answer the page carried is read once more when the stream takes its key.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A stream closed for good is opened again after a wait that doubles to a minute.",
     },
     {

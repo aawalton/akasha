@@ -1,5 +1,6 @@
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
+import type { NamedPages } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
 import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
 import type { GameState } from "akasha/story/engine/core/modules/state-schema/state-schema.module.code.ts"
@@ -25,6 +26,30 @@ export const PLAYED_CHAPTER_STORY_KEY = "story"
 export const PLAYED_TURN_COLLECTIONS_KEY = "partOfCollections"
 
 export const PLAYED_POSITION_KEY = "position"
+
+export const PLAYED_CHARACTER_PAGE_TYPE_SLUG = "character-player"
+
+const PLAYED_CHARACTER_STORY_KEY = "story"
+
+export type PlayedList = { readonly pageTypeSlug: string; readonly named: NamedPages }
+
+export type PlayedLists = {
+  readonly chapters: PlayedList
+  readonly turns: PlayedList
+  readonly character: PlayedList
+}
+
+function storyOnly(pageTypeSlug: string, key: string, storyAddress: string): PlayedList {
+  return { pageTypeSlug, named: { by: "where", key, values: [storyAddress] } }
+}
+
+export function playedListsOf(storyAddress: string): PlayedLists {
+  return {
+    chapters: storyOnly(PLAYED_CHAPTER_PAGE_TYPE_SLUG, PLAYED_CHAPTER_STORY_KEY, storyAddress),
+    turns: storyOnly(PLAYED_TURN_PAGE_TYPE_SLUG, PLAYED_TURN_COLLECTIONS_KEY, storyAddress),
+    character: storyOnly(PLAYED_CHARACTER_PAGE_TYPE_SLUG, PLAYED_CHARACTER_STORY_KEY, storyAddress),
+  }
+}
 
 const PLAYED_TURN_STATUS_KEY = "turnStatus"
 

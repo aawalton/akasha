@@ -15,5 +15,14 @@ export const pageDetailLoading = {
       decisionKind: "decision-kind/departure",
       statement: "A page with no title is named by its slug.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A story played carries the reads its first drawing makes, answered as its reader's own reads are.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A read that goes unanswered here is left for the browser to make.",
+    },
   ],
 } as const satisfies Module

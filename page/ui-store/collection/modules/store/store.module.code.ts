@@ -25,6 +25,7 @@ import {
   attachFetch,
   type FetchImpl,
   FILE_BACKING_POLL_MS,
+  filePagesPath,
   type ReadAgain,
 } from "akasha/page/ui-store/collection/modules/fetch-attach/fetch-attach.module.code.ts"
 import {
@@ -53,6 +54,10 @@ import {
 import { decodeJwtSub } from "akasha/page/ui-store/realtime/modules/jwt-sub/jwt-sub.module.code.ts"
 
 const ROSTER_RETRY_MS = 2_000
+
+const SEED_HELD_MS = 30_000
+
+type Seed = { readonly body: unknown; readonly at: number }
 
 const canUnref = (timer: unknown): timer is { readonly unref: () => undefined } =>
   typeof timer === "object" &&
@@ -88,6 +93,7 @@ export interface PagesStore {
   readonly followPages: (at: FollowingAt) => undefined
   readonly watchPage: (pageTypeSlug: string, id: string, told: () => undefined) => PageWatch
   readonly rosterNamed: (pageTypeSlugs: readonly string[]) => Promise<readonly string[]>
+  readonly seed: (answers: Readonly<Record<string, unknown>>) => undefined
 }
 
 export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesStore {
@@ -104,11 +110,31 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
   let proactiveTimer: ReturnType<typeof setTimeout> | null = null
   let registryHolder: AcquireRegistry | null = null
 
-  const fetchImpl: FetchImpl | null =
+  const seeds = new Map<string, Seed>()
+  const seededKeys = new Set<string>()
+
+  const seedFresh = (path: string): Seed | null => {
+    const held = seeds.get(path)
+    if (held === undefined) return null
+    if (Date.now() - held.at <= SEED_HELD_MS) return held
+    seeds.delete(path)
+    return null
+  }
+
+  const fetched: FetchImpl | null =
     fileBacking.fetchImpl ??
     (typeof globalThis.fetch === "function" ? (input, init) => globalThis.fetch(input, init) : null)
+  const fetchImpl: FetchImpl | null =
+    fetched === null
+      ? null
+      : (input, init) => {
+          const held = init?.method === undefined ? seedFresh(input) : null
+          if (held === null) return fetched(input, init)
+          seeds.delete(input)
+          return Promise.resolve(Response.json(held.body))
+        }
   const pollMs = fileBacking.pollMs ?? FILE_BACKING_POLL_MS
-  const following = createStoreFollowing(readingAgain, fetchImpl, streamAt)
+  const following = createStoreFollowing(readingAgain, fetchImpl, streamAt, undefined, seededKeys)
   const readRoster: RosterReader | null =
     fileBacking.roster ?? (fetchImpl === null ? null : rosterOverFetch(fetchImpl))
 
@@ -268,6 +294,8 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
   ): (() => undefined) | null => {
     if (fetchImpl === null) return null
     const key = named === undefined ? pageTypeSlug : namedShapeKey(pageTypeSlug, named)
+    const carry = fileBacking.carry?.[pageTypeSlug] ?? []
+    if (seedFresh(filePagesPath(pageTypeSlug, carry, named)) !== null) seededKeys.add(key)
     following.follow(key, followedOf(pageTypeSlug, named))
     const detach = attachFetch(
       {
@@ -281,7 +309,7 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
         followed: following.live,
       },
       pageTypeSlug,
-      fileBacking.carry?.[pageTypeSlug] ?? [],
+      carry,
       named
     )
     return () => {
@@ -340,6 +368,11 @@ export function createPagesStore(fileBacking: FileBackingOptions = {}): PagesSto
     followPages: following.followPages,
     watchPage: following.watchPage,
     rosterNamed,
+    seed: (answers) => {
+      const at = Date.now()
+      for (const [path, body] of Object.entries(answers)) seeds.set(path, { body, at })
+      return undefined
+    },
     setAuth: (args) => {
       const told = args.owner !== undefined
       const incoming = told

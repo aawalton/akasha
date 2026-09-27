@@ -86,5 +86,18 @@ export const store = {
       decisionKind: "decision-kind/departure",
       statement: "A view may follow one page by id and be told each time that page is pushed.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A store takes answers a page carried, each keyed by the read it answers.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "An answer carried is taken in place of its read once, and only within thirty seconds.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The roster carried that way lets a shape attach without waiting to ask for it.",
+    },
   ],
 } as const satisfies Module

@@ -29,5 +29,10 @@ export const alanWebPageDetail = {
       statement:
         "The title and the reader's neighbours are worked out again as soon as they change.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The reads the loader carried are handed to the page store before it asks for them.",
+    },
   ],
 } as const satisfies Route

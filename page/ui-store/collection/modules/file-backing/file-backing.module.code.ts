@@ -3,7 +3,7 @@ import { RosterUnreachable } from "akasha/page/access/modules/file-backed-roster
 
 export type PageTypeBacking = "file" | "unknown"
 
-const FILE_BACKED_ROSTER_PATH = "/api/page-types"
+export const FILE_BACKED_ROSTER_PATH = "/api/page-types"
 
 export type RosterAnswer = ReadonlySet<string> | RosterUnreachable
 
