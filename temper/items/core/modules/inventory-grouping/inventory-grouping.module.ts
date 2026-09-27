@@ -25,5 +25,9 @@ export const inventoryGrouping = {
       statement:
         "A slot with no sell value recorded sells for nothing, since one above 0 is recorded.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A location a page names is shown by that page's title.",
+    },
   ],
 } as const satisfies Module

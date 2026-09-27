@@ -16,5 +16,18 @@ export const locationClassify = {
       statement:
         "What a kind of place is titled, and the order kinds are shown in, are its page's.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The crafting bag is named by the title of its location type page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The furniture vault is named by the title of its venue page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A location no page names, or read where no page is held, keeps the name captured.",
+    },
   ],
 } as const satisfies Module

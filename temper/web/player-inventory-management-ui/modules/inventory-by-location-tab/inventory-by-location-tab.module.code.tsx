@@ -27,6 +27,7 @@ import type {
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import { titleOf } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import type { LocationTypeId } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { temperVenue } from "akasha/temper/items/rules/routing/core/temper-venue/temper-venue.page-type.ts"
 import { heldSkillCatalog } from "akasha/temper/player/character/skill/modules/held-skill-catalog/held-skill-catalog.module.code.ts"
 import { temperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
@@ -75,9 +76,11 @@ export function InventoryByLocationTab({
 }: InventoryByLocationTabProps) {
   const locations = useKeyedTitles(temperLocationType.slug)
   const currencyTitles = useKeyedTitles(temperInventoryCurrency.slug)
+  const venues = useKeyedTitles(temperVenue.slug)
   const summary = useMemo(
-    () => (locations === null ? UNREAD_SUMMARY : groupInventoryByLocation(inventory, locations)),
-    [inventory, locations]
+    () =>
+      locations === null ? UNREAD_SUMMARY : groupInventoryByLocation(inventory, locations, venues),
+    [inventory, locations, venues]
   )
 
   const skillCatalogRead = heldSkillCatalog()

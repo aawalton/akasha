@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/addon/pages/items/modules/inventory-location-order/inventory-location-order.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/affected-items-views/affected-items-views.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-location-type.page-type.ts","path":"temper/web/player-inventory-management-ui/modules/inventory-by-location-tab/inventory-by-location-tab.module.code.tsx","typed":false,"deferred":false}

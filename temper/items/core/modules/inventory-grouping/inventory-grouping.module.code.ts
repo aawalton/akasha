@@ -25,6 +25,7 @@ import {
   classifyLocation,
   getLocationDisplayName,
   type LocationTypeId,
+  locationNamesFrom,
 } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 
 interface FilterableGroup {
@@ -220,8 +221,10 @@ function flattenLocationItems(
 
 export function groupInventoryByLocation(
   inventory: InventoryDatabase,
-  locations: KeyedTitles
+  locations: KeyedTitles,
+  venues: KeyedTitles | null = null
 ): InventoryLocationSummary {
+  const named = locationNamesFrom(locations, venues)
   const locationGroups: InventoryLocationGroup[] = []
   let totalItems = 0
   let totalOccupiedSlots = 0
@@ -256,7 +259,7 @@ export function groupInventoryByLocation(
 
     const group: InventoryLocationGroup = {
       locationKey,
-      displayName: getLocationDisplayName(locationKey, location.displayName),
+      displayName: getLocationDisplayName(locationKey, location.displayName, named),
       locationType,
       lastScanned: location.lastScanned,
       items,

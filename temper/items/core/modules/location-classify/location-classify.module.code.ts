@@ -1,3 +1,5 @@
+import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+
 const LOCATION_TYPE_IDS = [
   "character",
   "bank",
@@ -25,10 +27,31 @@ function isAllDigits(s: string): boolean {
   return true
 }
 
-export function getLocationDisplayName(key: string, storedDisplayName: string): string {
-  if (key === "CraftBag") return "Crafting Bag"
-  if (key === "FurnitureVault") return "Furniture Vault"
-  return storedDisplayName
+export type LocationNamed = (key: string) => string | undefined
+
+const NAMED_BY_PLACE: Readonly<Record<string, string>> = { CraftBag: "craftbag" }
+
+const NAMED_BY_VENUE: Readonly<Record<string, string>> = { FurnitureVault: "furniture-vault" }
+
+export function locationNamesFrom(
+  places: KeyedTitles | null,
+  venues: KeyedTitles | null
+): LocationNamed {
+  return (key) => {
+    const place = NAMED_BY_PLACE[key]
+    if (place !== undefined) return places?.titles.get(place)
+    const venue = NAMED_BY_VENUE[key]
+    if (venue !== undefined) return venues?.titles.get(venue)
+    return undefined
+  }
+}
+
+export function getLocationDisplayName(
+  key: string,
+  storedDisplayName: string,
+  named?: LocationNamed
+): string {
+  return named?.(key) ?? storedDisplayName
 }
 
 export function classifyLocation(key: string): LocationTypeId {
