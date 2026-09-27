@@ -7,4 +7,5 @@ export const ultimate = {
   title: "Ultimate",
   key: "ultimate",
   hashPlace: 5,
+  holdsUltimate: true,
 } as const satisfies TemperSkillSlot

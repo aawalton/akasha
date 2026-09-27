@@ -10,4 +10,5 @@ export const charactersSkillMorphs = {
   displayOrder: 15,
   parent: "temper-completion-category/characters",
   morphRankMost: 4,
+  freeSlotMost: 3,
 } as const satisfies TemperCompletionCategory
