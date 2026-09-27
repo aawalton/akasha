@@ -7,7 +7,7 @@ export const theDatingGame00010 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 10,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     '"Oh, I love Tolkein. Have you read CS Lewis? I don\'t like his fiction quite as much, but I\'ve found his non-fiction deeply inspiring. I love the story of how The Lord of the Rings got written on a bet between the two of them. Modern fantasy really started in that Inklings club."\n\n"These days I mostly read LitRPG, are you familiar with that at all?"',
 } as const satisfies StoryTurnPlayed
