@@ -4213,6 +4213,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-buy/inventory-rules-dispatch-buy.module.ts","id":"01a06258-b531-7fee-9693-0454e9110b2d"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-buy/inventory-rules-dispatch-guild-buy.module.ts","id":"01a0e352-edcd-7365-bbbf-d6e0582757a8"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-guild-crafting/inventory-rules-dispatch-guild-crafting.module.ts","id":"01a06258-b531-7efe-864b-ce4a1f797ba8"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-mail/inventory-rules-dispatch-mail.module.ts","id":"01a06258-b531-7c6d-ad77-2d9e288f65cc"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-open-queue/inventory-rules-dispatch-open-queue.module.ts","id":"01a06258-b532-71fb-afd5-5f1ec8ac2594"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-refine/inventory-rules-dispatch-refine.module.ts","id":"01a06258-b532-781e-9570-7a7a6d5dd5df"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-dispatch-vendor/inventory-rules-dispatch-vendor.module.ts","id":"01a06258-b532-7d2c-96c6-42f3ce92a045"}

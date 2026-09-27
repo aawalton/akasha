@@ -5,6 +5,10 @@ import {
   forEachPendingAction,
 } from "akasha/temper/addon/pages/items/modules/inventory-rules-core/inventory-rules-core.module.code.ts"
 import { formatItemList } from "akasha/temper/addon/pages/items/modules/inventory-rules-core-report/inventory-rules-core-report.module.code.ts"
+import {
+  noteServerAction,
+  serverActionWaitMs,
+} from "akasha/temper/addon/pages/items/modules/inventory-server-action-window/inventory-server-action-window.module.code.ts"
 import "akasha/design/language/lua-compiler/language-extensions/language-extensions.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-16/eso-enums-16.type-declaration.d.ts"
@@ -109,6 +113,11 @@ export function onOpenMailbox(): undefined {
     }
 
     const batch = requireAt(batches, batchIndex, "batches")
+    const wait = serverActionWaitMs(batch.items.length + 1)
+    if (wait > 0) {
+      zo_callLater(() => sendNextBatch(), wait)
+      return
+    }
     batchIndex++
 
     let attachSlot = 1
@@ -127,6 +136,7 @@ export function onOpenMailbox(): undefined {
         continue
       }
 
+      noteServerAction()
       QueueItemAttachment(item.bagId, item.slotIndex, attachSlot)
       batchLinks.push(item.itemLink)
       attached.push(item)
@@ -164,6 +174,7 @@ export function onOpenMailbox(): undefined {
       }
     )
 
+    noteServerAction()
     SendMail(batch.recipient, "Temper Inventory", "")
   }
 

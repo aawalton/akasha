@@ -13,7 +13,15 @@ export const inventoryServerActionWindow = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every bulk sender in the addon counts its actions in one shared window.",
+      statement: "The addon's bulk senders count their actions in one shared window.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The bank's paced chain keeps a window of its own and is not counted here.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A sender needing room for several actions at once waits until all of them fit.",
     },
     {
       decisionKind: "decision-kind/departure",

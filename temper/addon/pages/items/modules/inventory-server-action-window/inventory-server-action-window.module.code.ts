@@ -9,14 +9,16 @@ const ACTION_HELD_MS = ACTION_WINDOW_MS + ACTION_WINDOW_MARGIN_MS
 let sentAt: number[] = []
 let pacedRuns = 0
 
-export function serverActionWaitMs(this: void): number {
+export function serverActionWaitMs(this: void, count = 1): number {
   const now = GetGameTimeMilliseconds()
   const kept: number[] = []
   for (const at of sentAt) if (now - at < ACTION_HELD_MS) kept.push(at)
   sentAt = kept
-  const oldest = kept[0]
-  if (kept.length < ACTION_LIMIT || oldest === undefined) return 0
-  const wait = ACTION_HELD_MS - (now - oldest)
+  const over = kept.length + count - ACTION_LIMIT
+  if (over <= 0) return 0
+  const freeing = kept[over - 1]
+  if (freeing === undefined) return 0
+  const wait = ACTION_HELD_MS - (now - freeing)
   return wait > 0 ? wait : 1
 }
 
