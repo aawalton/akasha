@@ -30,6 +30,11 @@ export const fileWriteNarrow = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A `contains` condition is lowered to `contains-ignoring-case`, as the browser runs it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "One key has one test of each name.",
     },
     {

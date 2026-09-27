@@ -47,7 +47,9 @@ export function loweredFrom(condition: PageCondition): Lowered {
     const one = scalarText(condition.neq)
     return one === null ? noScalar : { key, test: { "not-in": [one] } }
   }
-  if ("contains" in condition) return { key, test: { contains: condition.contains } }
+  if ("contains" in condition) {
+    return { key, test: { "contains-ignoring-case": condition.contains } }
+  }
   if ("includes" in condition) {
     const one = scalarText(condition.includes)
     return one === null ? noScalar : { key, test: { has: one } }

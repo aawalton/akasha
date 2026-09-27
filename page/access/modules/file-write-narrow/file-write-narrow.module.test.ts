@@ -26,6 +26,13 @@ describe("a narrow is lowered whole or it refuses", () => {
     })
   })
 
+  test("contains lowers to `contains-ignoring-case`, as the browser runs it", () => {
+    expect(loweredFrom({ key: "title", contains: "Dawn" })).toEqual({
+      key: "title",
+      test: { "contains-ignoring-case": "Dawn" },
+    })
+  })
+
   test("an `or` refuses rather than widening the write", () => {
     const held = loweredFrom({ or: [{ key: "a", eq: "1" }] })
     expect("refused" in held).toBe(true)
