@@ -15,5 +15,9 @@ export const companionManagementPanelCard = {
       decisionKind: "decision-kind/departure",
       statement: "A delete refused before it starts is worded by the kind of refusal.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A delete that fails shows no error's own text, which goes to the console.",
+    },
   ],
 } as const satisfies Module

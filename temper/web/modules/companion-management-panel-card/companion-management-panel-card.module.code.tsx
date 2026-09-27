@@ -69,16 +69,15 @@ export function CompanionManagementPanelCard({
       await deleteBuild()
       router.push("/companion-build")
     } catch (error) {
+      console.error("[companion-management-panel-card] deleting the build failed:", error)
       toast.error(
-        error instanceof CompanionDeleteRefused
-          ? phrase(
-              error.kind === "signed-out"
-                ? companionManagementPanelCardSignedOut.slug
-                : companionManagementPanelCardUnread.slug
-            )
-          : error instanceof Error
-            ? error.message
-            : phrase(companionManagementPanelCardDeleteFailed.slug)
+        phrase(
+          !(error instanceof CompanionDeleteRefused)
+            ? companionManagementPanelCardDeleteFailed.slug
+            : error.kind === "signed-out"
+              ? companionManagementPanelCardSignedOut.slug
+              : companionManagementPanelCardUnread.slug
+        )
       )
       setIsDeleting(false)
       setShowDeleteDialog(false)
