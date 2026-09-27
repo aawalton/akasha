@@ -151,6 +151,10 @@ export const pageUncommitted = {
       statement: "A file already read is read again once its moment or its size has changed.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "The values of the last 1024 files read are held, and an older file's go.",
+    },
+    {
       decisionKind: "decision-kind/absence",
       statement: "A reader takes no lock.",
     },

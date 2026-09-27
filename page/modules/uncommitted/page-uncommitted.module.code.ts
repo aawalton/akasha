@@ -126,6 +126,8 @@ type Remembered = {
 
 const remembered = new Map<string, Remembered>()
 
+const REMEMBERED_AT_MOST = 1024
+
 export function uncommittedIn(root: string, page: string): Value | null {
   const at = uncommittedAt(page)
   if (at === null) return null
@@ -138,6 +140,9 @@ export function uncommittedIn(root: string, page: string): Value | null {
   const seen = remembered.get(full)
   if (seen !== undefined && seen.at === found.mtimeMs && seen.size === found.size) return seen.value
   const value = valuesIn(full, at)
+  remembered.delete(full)
+  const oldest = remembered.size >= REMEMBERED_AT_MOST ? remembered.keys().next() : null
+  if (oldest !== null && oldest.done !== true) remembered.delete(oldest.value)
   remembered.set(full, { at: found.mtimeMs, size: found.size, value })
   return value
 }
