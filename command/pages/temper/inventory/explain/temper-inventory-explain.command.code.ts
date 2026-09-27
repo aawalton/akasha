@@ -235,6 +235,7 @@ async function walkedFor(
     wantedEquipment: config.wantedEquipment,
     wantedCompanionEquipment: config.wantedCompanionEquipment,
     db,
+    currentCharacter: copyHolderOfLocation(resolved.locationKey) ?? undefined,
   })
   const { item, location } = resolved
   const nodeIds = caps.classifyItemToNodeIds(item)

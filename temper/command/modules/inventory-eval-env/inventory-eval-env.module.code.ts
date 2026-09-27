@@ -35,6 +35,7 @@ interface CliEvalEnvDeps {
   readonly wantedEquipment?: ReadonlyArray<WantedEquipmentSignature>
   readonly wantedCompanionEquipment?: ReadonlyArray<WantedCompanionEquipmentSignature>
   readonly db?: InventoryDatabase
+  readonly currentCharacter?: string
 }
 
 const UNKNOWN = "unknown"
@@ -47,6 +48,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     wantedEquipment,
     wantedCompanionEquipment,
     db,
+    currentCharacter,
   } = deps
   const itemIdToCooldownGroup = compileItemIdToCooldownGroup(db)
   const knownInBag = compileKnownInBag(db, charactersById)
@@ -69,7 +71,7 @@ export function buildCliEvalEnv(deps: CliEvalEnvDeps): EvalEnv {
     },
 
     getCharacterPriority: () => characterPriority,
-    getCurrentCharacter: () => UNKNOWN,
+    getCurrentCharacter: () => currentCharacter ?? UNKNOWN,
     getAllCharacters: () => Array.from(charactersById.keys()),
 
     getCharacterSkillLineRanks: (charId, skillLineId) => {

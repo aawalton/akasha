@@ -14,6 +14,10 @@ export const inventoryEvalEnv = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The current character is the one the caller names, and unknown where none is.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A character knows a recipe or a motif or a script and nothing else.",
     },
     {

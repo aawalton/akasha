@@ -88,6 +88,16 @@ test("what only the running game knows is answered unknown rather than guessed",
   expect(env.getConsumableStock(1, "111")).toBe("unknown")
 })
 
+test("the current character is the one the caller names", () => {
+  const env = buildCliEvalEnv({
+    charactersById: new Map(),
+    characterPriority: [],
+    wantedConsumables: {},
+    currentCharacter: "111",
+  })
+  expect(env.getCurrentCharacter()).toBe("111")
+})
+
 const CLOTHIER = 2
 
 test("a trait comes from the characters capture, and one nothing names reads as unknown", () => {

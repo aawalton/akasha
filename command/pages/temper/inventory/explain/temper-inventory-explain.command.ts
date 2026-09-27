@@ -45,6 +45,10 @@ export const temperInventoryExplain = {
       decisionKind: "decision-kind/departure",
       statement: "That allocation counts the copies every other scan holds, as the addon does.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The character whose scan holds the item is the current character of the trace.",
+    },
   ],
   name: "explain",
   arguments: [
