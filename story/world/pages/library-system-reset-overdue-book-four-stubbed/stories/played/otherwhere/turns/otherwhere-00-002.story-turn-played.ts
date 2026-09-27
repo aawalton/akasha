@@ -10,13 +10,13 @@ export const otherwhere00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     'I let the shorts drop to the floor, more comfortable in my black compression tights anyways and slip out of my shoes, standing in my socks on the floor. Somehow, I feel comfortable in my new skin, more comfortable than I was before. "Okay, I guess we\'re implementing isekai protocol. Status? Character Sheet? System?" I try to visualize myself to see if the blue box in front of me changes.',
   beats: [
     "She lets the black shorts go; they slide down her legs and puddle on the soft floor.",
     "The compression tights underneath hang loose, wrinkled at the knees and bunched at the ankles.",
-    "Their waistband rides low on her hips, but they stay up, and they're easier than the shorts.",
+    "Their waistband slides down her hips and needs hitching up, but they're easier than the shorts.",
     "She steps out of the light blue slip-ons and stands in her socks.",
     "The sock heels sag past her own heels; the floor is cool and springy underneath.",
     "In the red light she feels at ease in this body, more at home than in the old one, not knowing why.",
@@ -30,7 +30,6 @@ export const otherwhere00002 = {
     "The lit veins run down toward the floor on her side and gather at about the height of her hand.",
     "There they pulse slow and even, in time with the hum, while the rest of the trunk still flickers.",
     "The hum deepens through her socks, and the trunk's warmth reaches her across the floor.",
-    "It is the only thing in the red chamber that answered her voice.",
   ],
   issues: [
     '"it\'s the only thing that answered your voice" - Leave It Open',
