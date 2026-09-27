@@ -4,10 +4,17 @@ export const otherwhere00024 = {
   id: "01a0e4ee-6e2d-77eb-94b3-6db9d4865ef6",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-024",
+  ownLength: 181,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 24,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/otherwhere-alan",
+    "character-other/otherwhere-engorged-bookworm-03",
+    "character-other/otherwhere-engorged-bookworm-04",
+  ],
+  turnStatus: "turn-status/reviewers",
   action:
     "I hold down the first worm with a knee, grab two more handfuls of salt, then wait for the second worm to lunge, grabbing it by the neck as well",
   beats: [
