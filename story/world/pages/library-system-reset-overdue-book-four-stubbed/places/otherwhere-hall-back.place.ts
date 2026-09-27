@@ -224,7 +224,6 @@ export const otherwhereHallBack = {
       fact: "A small engorged bookworm weighs twenty-odd pounds.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Two dried bookworm coils lie in the broken salt oval.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -243,7 +242,7 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Salt clings in a crust to blood-damp cloth, and flakes off with every hard tussle.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "A bookworm biting salt-crusted cloth is salted and lets go, but its teeth sink in first.",
@@ -255,7 +254,7 @@ export const otherwhereHallBack = {
     },
     {
       fact: "The chewed broom still sweeps, its bristles bitten ragged down one side.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Further back in the gloom beyond the columns, wet chewing still goes on.",
