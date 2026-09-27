@@ -1,4 +1,5 @@
 import { describe, expect, test } from "bun:test"
+import { holdLoreLibraryFromCheckout } from "akasha/temper/player/completion/modules/held-lore-library/held-lore-library.module.test-fixtures.ts"
 import {
   buildCrossCharacterCompletionIndex,
   materializeCrossCharacterProgress,
@@ -11,6 +12,8 @@ import {
   EMPTY_ACCOUNT,
   mkRosterEntry,
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-progress-index/completion-progress-index.module.test-fixtures.ts"
+
+holdLoreLibraryFromCheckout()
 
 describe("buildCrossCharacterCompletionIndex", () => {
   test("returns the container with one characters entry per roster character", () => {
