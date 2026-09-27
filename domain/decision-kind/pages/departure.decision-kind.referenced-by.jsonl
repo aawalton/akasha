@@ -4149,6 +4149,7 @@
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-eso-eval-env/inventory-eso-eval-env.module.ts","id":"01a06258-b52a-73ae-8e70-29b3bb5beb50"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-events/inventory-events.module.ts","id":"01a06258-b52b-7a61-a1ab-0439cd103604"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-item-data/inventory-item-data.module.ts","id":"01a06258-b52d-7b46-8cda-3be08ef726d7"}
+{"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-location-order/inventory-location-order.module.ts","id":"01a0e0a0-2424-7004-af9c-97bb9c20e4e9"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-plan/inventory-plan.module.ts","id":"01a06258-b52e-7092-b8df-b96f86d39d15"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-resolved-action-record/inventory-resolved-action-record.module.ts","id":"01a09a1e-4d31-7c62-b8f4-3a90e7f51c04"}
 {"propertySlug":"decision-kind","path":"temper/addon/pages/items/modules/inventory-rules-core-confirm-dialog/inventory-rules-core-confirm-dialog.module.ts","id":"01a06258-b52f-7911-b65b-636ea6e3179f"}
@@ -5419,12 +5420,14 @@
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/companion-gear-diff/companion-gear-diff.module.ts","id":"01a0626e-3e05-7e6d-98ef-c71fb6d1a1cb"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/compute-item-stock/compute-item-stock.module.ts","id":"01a0626e-3e05-7d4e-803d-d88f172652ca"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","id":"01a0612e-28d6-7df8-bb5c-419ce436eb8f"}
-{"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","id":"01a060d9-498b-782c-aa63-7f9ef5125ebe"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.ts","id":"01a0d5b6-43b6-77aa-8216-966a0d5e77c2"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-parser/inventory-parser.module.ts","id":"01a060c5-3c22-7fe6-8e12-c63f5595790d"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/inventory-types/inventory-types.module.ts","id":"01a060c5-3c23-76ec-aa93-fa279ae67a96"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.ts","id":"01a060d9-498d-7a88-8425-e671811fadae"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/item-link-parser/item-link-parser.module.ts","id":"01a060bf-747c-74be-8914-30e2ea6cabe8"}
-{"propertySlug":"decision-kind","path":"temper/items/core/modules/location-type-data/location-type-data.module.ts","id":"01a060d9-4989-7621-819f-d8c567133ec6"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/keyed-titles-loading/keyed-titles-loading.module.ts","id":"01a0e0a0-2424-7001-a6c0-c7e720ca1843"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.ts","id":"01a0e0a0-2424-7000-94a9-679ea86899bc"}
+{"propertySlug":"decision-kind","path":"temper/items/core/modules/location-classify/location-classify.module.ts","id":"01a060d9-498c-776f-ae38-08519b2ea266"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.ts","id":"01a060c5-3c25-71a5-8ae6-6300f17e08b1"}
 {"propertySlug":"decision-kind","path":"temper/items/core/modules/script-knowledge-lookup/script-knowledge-lookup.module.ts","id":"01a060e6-c3e6-7bba-973c-033c3a1970b5"}
 {"propertySlug":"decision-kind","path":"temper/items/core/temper-items-core.domain.ts","id":"01a060bf-747b-7eda-a723-f1700350219d"}
@@ -6019,6 +6022,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/format-time-ago/format-time-ago.module.ts","id":"01a06432-b190-70c7-9a7e-6b7554e6dccf"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/import-result/import-result.module.ts","id":"01a0640f-8510-79d2-a33e-1cfc18d185ee"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.ts","id":"01a06432-b190-70c9-b375-374e6c886d6a"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.ts","id":"01a0e0a0-2424-7003-ad9b-86cbf222b843"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.ts","id":"01a0de73-1714-784a-96bf-19fa89a27ce0"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-landing/mine-row-landing.module.ts","id":"01a0d8c0-ee3f-7d46-8a94-09141a86ca9b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/mine-row-reading/mine-row-reading.module.ts","id":"01a0d8d0-d4ed-7067-9018-4e495b5cba65"}
@@ -6045,6 +6049,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-catalogs/use-completion-catalogs.module.ts","id":"01a06421-f74b-780d-8790-490781880039"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","id":"01a06421-f74b-726d-a820-51afc5be003b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.ts","id":"01a0640f-8510-7768-9aee-350974e45eea"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.ts","id":"01a0e0a0-2424-7002-ba1d-fa31bcb70e5b"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.ts","id":"01a0de73-1714-7025-882f-ddee0054b5c9"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-player/use-player.module.ts","id":"01a06354-4b4b-79cd-a3ce-5867c52ff199"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/use-recipe-catalog/use-recipe-catalog.module.ts","id":"01a0de64-3221-76c6-b047-3d627aa593b5"}

@@ -427,6 +427,8 @@
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/catalog/skill/modules/skill-templates-reading/skill-templates-reading.module.test.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/eso/declaration/modules/eso-declaration-pages/eso-declaration-pages.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.test-fixtures.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/rules/core/modules/inventory-rule-from-pages/inventory-rule-from-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/items/rules/core/modules/item-rule-pages/item-rule-pages.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-value-reading.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts","typed":true,"deferred":false}

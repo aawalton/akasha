@@ -15,6 +15,7 @@ import { ScrollArea } from "akasha/design/interface/primitive/modules/scroll-are
 import { surfaceClass } from "akasha/design/interface/primitive/modules/surface-class/surface-class.module.code.ts"
 import { useSurface } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import { Text } from "akasha/design/interface/primitive/modules/text-body/text-body.module.code.tsx"
+import { temperLocationType } from "akasha/temper/catalog/world/temper-location-type/temper-location-type.page-type.ts"
 import {
   hasAnyValue,
   type InventoryNode,
@@ -25,6 +26,7 @@ import {
 } from "akasha/temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 import { ESO_QUALITY_TEXT_CLASSES } from "akasha/temper/web/characters-equipment-ui/modules/eso-quality-text-classes/eso-quality-text-classes.module.code.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import {
   leafToValueData,
   type ValueExplanationData,
@@ -127,7 +129,11 @@ export function AffectedItemsViews({
   const [valueDialogData, setValueDialogData] = useState<ValueExplanationData | null>(null)
   const [valueDialogOpen, setValueDialogOpen] = useState(false)
   const typeNodes = useMemo(() => buildAffectedItemNodes(items), [items])
-  const locationNodes = useMemo(() => buildAffectedItemLocationNodes(items), [items])
+  const locations = useKeyedTitles(temperLocationType.slug)
+  const locationNodes = useMemo(
+    () => (locations === null ? [] : buildAffectedItemLocationNodes(items, locations)),
+    [items, locations]
+  )
   const smartTypeExpanded = useMemo(() => computeSmartTreeExpanded(typeNodes), [typeNodes])
   const smartLocationExpanded = useMemo(
     () => computeSmartTreeExpanded(locationNodes),

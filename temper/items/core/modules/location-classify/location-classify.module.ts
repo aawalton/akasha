@@ -6,4 +6,15 @@ export const locationClassify = {
   slug: "location-classify",
   definition: "which kind of place an inventory location key names",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A kind of place is named here by the key its location type page states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "What a kind of place is titled, and the order kinds are shown in, are its page's.",
+    },
+  ],
 } as const satisfies Module

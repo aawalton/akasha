@@ -1,6 +1,8 @@
 import { ESO_BAG_WORN } from "akasha/temper/items/core/modules/eso-bag-constants/eso-bag-constants.module.code.ts"
-import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
-import type { LocationTypeId } from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+import {
+  classifyLocation,
+  type LocationTypeId,
+} from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 
 export type InventoryLocationConditionId =
   | Exclude<LocationTypeId, "character">

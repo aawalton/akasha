@@ -6,20 +6,25 @@ import type {
 } from "akasha/temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import {
-  type LocationTypeId,
-  locationTypes,
-} from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+  type KeyedTitles,
+  titleOf,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import { InventoryPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-panel-card/inventory-panel-card.module.code.tsx"
 
 interface InventoryLocationSummaryPanelCardProps {
   summary: InventoryLocationSummary
+  locations: KeyedTitles
   currencyCount?: number
   currencyGoldTotal?: number
   onItemClick?: (key: string) => void
   scopeNote?: React.ReactNode
 }
 
-function buildSummaryNodes(groups: readonly InventoryLocationGroup[]): readonly InventoryNode[] {
+function buildSummaryNodes(
+  groups: readonly InventoryLocationGroup[],
+  locations: KeyedTitles
+): readonly InventoryNode[] {
   const typeMap = new Map<LocationTypeId, InventoryLocationGroup[]>()
   for (const group of groups) {
     let list = typeMap.get(group.locationType)
@@ -57,7 +62,7 @@ function buildSummaryNodes(groups: readonly InventoryLocationGroup[]): readonly 
     }
     nodes.push({
       key: locationType,
-      label: locationTypes.data[locationType]?.name ?? locationType,
+      label: titleOf(locations, locationType),
       stackCount: totalItems,
       totalValue,
       slotCount: occupiedSlots,
@@ -68,12 +73,13 @@ function buildSummaryNodes(groups: readonly InventoryLocationGroup[]): readonly 
 
 export function InventoryLocationSummaryPanelCard({
   summary,
+  locations,
   currencyCount,
   currencyGoldTotal,
   onItemClick,
   scopeNote,
 }: InventoryLocationSummaryPanelCardProps) {
-  const baseNodes = buildSummaryNodes(summary.groups)
+  const baseNodes = buildSummaryNodes(summary.groups, locations)
   const items: readonly InventoryNode[] =
     currencyCount !== undefined
       ? [

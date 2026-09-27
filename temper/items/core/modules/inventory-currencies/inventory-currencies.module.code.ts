@@ -1,8 +1,11 @@
-import { currencies } from "akasha/temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"
 import type {
   CurrencyBalances,
   InventoryCurrencies,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import {
+  type KeyedTitles,
+  titleOf,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 
 interface CurrencySummaryRow {
   key: string
@@ -28,16 +31,17 @@ interface CurrencyLeafNode {
 
 export function buildLocationCurrencyNodes(
   balances: CurrencyBalances,
+  currencies: KeyedTitles,
   conversionRates?: Record<string, number>
 ): readonly CurrencyLeafNode[] {
   const nodes: CurrencyLeafNode[] = []
-  for (const key of currencies.ids) {
+  for (const key of currencies.keys) {
     const amount = balances[key] ?? 0
     if (amount <= 0) continue
     const rate = conversionRates?.[key]
     nodes.push({
       key,
-      label: currencies.data[key].name,
+      label: titleOf(currencies, key),
       stackCount: amount,
       totalValue: rate !== undefined ? Math.round(amount * rate) : undefined,
     })
@@ -52,10 +56,11 @@ interface CurrencyGoldSummary {
 
 export function computeCurrencyGoldTotal(
   inventoryCurrencies: InventoryCurrencies | undefined,
+  currencies: KeyedTitles,
   conversionRates: Record<string, number> | undefined
 ): CurrencyGoldSummary | undefined {
   if (!inventoryCurrencies) return undefined
-  const summary = summarizeCurrencies(inventoryCurrencies)
+  const summary = summarizeCurrencies(inventoryCurrencies, currencies)
   if (summary.rows.length === 0) return undefined
 
   const count = summary.rows.length
@@ -74,7 +79,10 @@ export function computeCurrencyGoldTotal(
   return { count, goldTotal: hasAny ? goldTotal : undefined }
 }
 
-export function summarizeCurrencies(inventoryCurrencies: InventoryCurrencies): CurrencySummary {
+export function summarizeCurrencies(
+  inventoryCurrencies: InventoryCurrencies,
+  currencies: KeyedTitles
+): CurrencySummary {
   const characterIds = Object.keys(inventoryCurrencies.characters)
   const characterNames: Record<string, string> = {}
   for (const charId of characterIds) {
@@ -85,7 +93,7 @@ export function summarizeCurrencies(inventoryCurrencies: InventoryCurrencies): C
 
   const rows: CurrencySummaryRow[] = []
 
-  for (const key of currencies.ids) {
+  for (const key of currencies.keys) {
     const characterAmounts: Record<string, number> = {}
     let total = 0
 
@@ -108,7 +116,7 @@ export function summarizeCurrencies(inventoryCurrencies: InventoryCurrencies): C
     if (total > 0) {
       rows.push({
         key,
-        label: currencies.data[key].name,
+        label: titleOf(currencies, key),
         characterAmounts,
         bankAmount,
         accountAmount,

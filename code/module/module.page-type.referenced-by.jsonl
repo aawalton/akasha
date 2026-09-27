@@ -3808,6 +3808,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-junk-queue/inventory-junk-queue.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-live-net-worth/inventory-live-net-worth.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-location-keys/inventory-location-keys.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-location-order/inventory-location-order.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-location-tooltip/inventory-location-tooltip.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/pages/items/modules/inventory-lock-overlay/inventory-lock-overlay.module.ts","typed":true,"deferred":false}
@@ -5480,7 +5481,6 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/eso-trait-reverse-map/eso-trait-reverse-map.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-craft-bag-types/inventory-craft-bag-types.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-currencies/inventory-currencies.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-database-shape/inventory-database-shape.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-display-value/inventory-display-value.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.ts","typed":true,"deferred":false}
@@ -5510,10 +5510,11 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-link-parser/item-link-parser.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-name-pattern/item-name-pattern.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/item-tooltip-types/item-tooltip-types.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/keyed-titles-loading/keyed-titles-loading.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/keyed-titles/keyed-titles.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/location-character-row/location-character-row.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/location-classify/location-classify.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/location-condition/location-condition.module.ts","typed":true,"deferred":false}
-{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/location-type-data/location-type-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/motif-chapter-set/motif-chapter-set.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/motif-name-parser/motif-name-parser.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/items/core/modules/recipe-result-id-lookup/recipe-result-id-lookup.module.ts","typed":true,"deferred":false}
@@ -6321,6 +6322,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/jewelry-panel-card/jewelry-panel-card.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/keyboard-shortcuts-data/keyboard-shortcuts-data.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/keyboard-shortcuts-page-content/keyboard-shortcuts-page-content.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/keyed-titles-gate/keyed-titles-gate.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/known-issues-methodology/known-issues-methodology.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/leaderboard-columns/leaderboard-columns.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/lore-library-panel-card/lore-library-panel-card.module.ts","typed":true,"deferred":false}
@@ -6421,6 +6423,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-completion-progress/use-completion-progress.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-filtered-builds/use-filtered-builds.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-import-error-toast/use-import-error-toast.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-keyed-titles/use-keyed-titles.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-metric-catalog/use-metric-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-partner-build-url/use-partner-build-url.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/web/modules/use-passive-filter/use-passive-filter.module.ts","typed":true,"deferred":false}

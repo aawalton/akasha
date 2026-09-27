@@ -1,4 +1,20 @@
-import type { LocationTypeId } from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+const LOCATION_TYPE_IDS = [
+  "character",
+  "bank",
+  "craftbag",
+  "housing-storage",
+  "house",
+  "companion",
+  "guild",
+] as const
+
+export type LocationTypeId = (typeof LOCATION_TYPE_IDS)[number]
+
+const LOCATION_TYPE_SET: ReadonlySet<string> = new Set(LOCATION_TYPE_IDS)
+
+export function isLocationTypeId(value: string): value is LocationTypeId {
+  return LOCATION_TYPE_SET.has(value)
+}
 
 function isAllDigits(s: string): boolean {
   if (s.length === 0) return false

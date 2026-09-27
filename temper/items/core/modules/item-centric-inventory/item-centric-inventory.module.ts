@@ -6,4 +6,10 @@ export const itemCentricInventory = {
   slug: "item-centric-inventory",
   definition: "every place an item is held, filed under the item",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "An item's places are ordered by kind in the order the caller hands in.",
+    },
+  ],
 } as const satisfies Module

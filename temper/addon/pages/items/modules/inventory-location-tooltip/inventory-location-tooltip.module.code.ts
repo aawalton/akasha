@@ -1,3 +1,4 @@
+import { locationTypeOrder } from "akasha/temper/addon/pages/items/modules/inventory-location-order/inventory-location-order.module.code.ts"
 import { buildLocationTooltipLines } from "akasha/temper/addon/pages/items/modules/inventory-location-tooltip-lines/inventory-location-tooltip-lines.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { buildItemCentricInventory } from "akasha/temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
@@ -53,7 +54,7 @@ export function showLocationBreakdown(anchorTo: Control, itemId: number): undefi
     hideLocationBreakdown()
     return
   }
-  const inventory = buildItemCentricInventory(getDatabase())
+  const inventory = buildItemCentricInventory(getDatabase(), locationTypeOrder())
   const lines = buildLocationTooltipLines(inventory.get(itemId))
   if (lines.length === 0) {
     hideLocationBreakdown()
@@ -83,7 +84,9 @@ export function showLocationBreakdown(anchorTo: Control, itemId: number): undefi
 function locationLines(this: void, item: TooltipItem): readonly TooltipLine[] {
   const itemId = GetItemLinkItemId(item.link)
   if (itemId <= 0) return []
-  return buildLocationTooltipLines(buildItemCentricInventory(getDatabase()).get(itemId))
+  return buildLocationTooltipLines(
+    buildItemCentricInventory(getDatabase(), locationTypeOrder()).get(itemId)
+  )
 }
 
 export function registerLocationTooltip(): undefined {

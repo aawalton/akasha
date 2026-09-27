@@ -15,14 +15,12 @@ import type {
   InventoryLocationData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
 import type { CategoryPath } from "akasha/temper/items/core/modules/item-category-tree-types/item-category-tree-types.module.code.ts"
+import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import {
   classifyLocation,
   getLocationDisplayName,
-} from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
-import {
   type LocationTypeId,
-  locationTypes,
-} from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 
 interface FilterableGroup {
   items: readonly InventoryItemRow[]
@@ -97,8 +95,6 @@ export interface InventoryLocationSummary {
   totalValue: number | undefined
   groups: readonly InventoryLocationGroup[]
 }
-
-const LOCATION_TYPE_ORDER: LocationTypeId[] = [...locationTypes.ids]
 
 const CAPACITY_LOCATION_TYPES: ReadonlySet<LocationTypeId> = new Set([
   "character",
@@ -189,7 +185,10 @@ function flattenLocationItems(
   return items
 }
 
-export function groupInventoryByLocation(inventory: InventoryDatabase): InventoryLocationSummary {
+export function groupInventoryByLocation(
+  inventory: InventoryDatabase,
+  locations: KeyedTitles
+): InventoryLocationSummary {
   const locationGroups: InventoryLocationGroup[] = []
   let totalItems = 0
   let totalOccupiedSlots = 0
@@ -248,8 +247,8 @@ export function groupInventoryByLocation(inventory: InventoryDatabase): Inventor
   }
 
   locationGroups.sort((a, b) => {
-    const typeA = LOCATION_TYPE_ORDER.indexOf(a.locationType)
-    const typeB = LOCATION_TYPE_ORDER.indexOf(b.locationType)
+    const typeA = locations.keys.indexOf(a.locationType)
+    const typeB = locations.keys.indexOf(b.locationType)
     if (typeA !== typeB) return typeA - typeB
     return a.displayName.localeCompare(b.displayName)
   })

@@ -10,12 +10,14 @@ import {
   writeFiles,
 } from "akasha/page/query/modules/store-writing/store-writing.module.code.ts"
 import { instantOf } from "akasha/temper/items/core/modules/capture-instant/capture-instant.module.code.ts"
-import { currencies } from "akasha/temper/items/core/modules/inventory-currency-data/inventory-currency-data.module.code.ts"
 import type {
   CurrencyBalances,
   InventoryDatabase,
   InventoryItemData,
 } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+import { loadKeyedTitles } from "akasha/temper/items/core/modules/keyed-titles-loading/keyed-titles-loading.module.code.ts"
+import { temperInventoryCurrency } from "akasha/temper/player/holdings/temper-inventory-currency/temper-inventory-currency.page-type.ts"
 import { ACCOUNT_PAGE_TYPE_SLUG } from "akasha/temper/watcher/modules/watcher-account-page/watcher-account-page.module.code.ts"
 import type {
   Landed,
@@ -51,18 +53,9 @@ const DATA_PROPERTY = "data"
 
 const DATA_ENDING = "json"
 
-const CURRENCY_PAGE_TYPE = "temper-inventory-currency"
-
 const ACCOUNT_SCOPES = ["account", "bank"] as const
 
 const CHARACTER_SCOPE = "character"
-
-const CURRENCY_ADDRESSES: ReadonlyMap<string, string> = new Map(
-  currencies.ids.map((id) => [
-    id,
-    `${CURRENCY_PAGE_TYPE}/${currencies.data[id].name.toLowerCase().split(" ").join("-")}`,
-  ])
-)
 
 const ROW_PROPERTIES = [
   LOCATIONS_PROPERTY,
@@ -87,7 +80,10 @@ interface InventoryLandingDeps {
   readonly writeFiles?: WriteFiles
   readonly upsert?: InventoryPageUpsert
   readonly waiting?: Waiting
+  readonly currencies?: () => Promise<KeyedTitles>
 }
+
+const readCurrencies = (): Promise<KeyedTitles> => loadKeyedTitles(temperInventoryCurrency.slug)
 
 function locationIdsIn(values: InventoryValues): readonly string[] {
   return Object.keys(values.inventory.locations).sort()
@@ -209,25 +205,32 @@ export function stackRowsOf(values: InventoryValues, minted: () => string): stri
   return jsonlBodyOf(lines)
 }
 
-function pursedIn(purse: CurrencyBalances): readonly (readonly [string, number])[] {
+function pursedIn(
+  purse: CurrencyBalances,
+  currencies: KeyedTitles
+): readonly (readonly [string, number])[] {
   const held: (readonly [string, number])[] = []
   for (const key of Object.keys(purse)) {
-    const address = CURRENCY_ADDRESSES.get(key)
+    const slug = currencies.slugs.get(key)
     const amount = purse[key]
-    if (address === undefined || amount === undefined) continue
-    held.push([address, amount])
+    if (slug === undefined || amount === undefined) continue
+    held.push([`${temperInventoryCurrency.slug}/${slug}`, amount])
   }
   return [...held].sort((one, two) => one[0].localeCompare(two[0]))
 }
 
-export function currencyRowsOf(values: InventoryValues, minted: () => string): string {
+export function currencyRowsOf(
+  values: InventoryValues,
+  minted: () => string,
+  currencies: KeyedTitles
+): string {
   const held = values.inventory.currencies
   const lines: string[] = []
   if (held === undefined) return jsonlBodyOf(lines)
   for (const scope of ACCOUNT_SCOPES) {
     const purse = held[scope]
     if (purse === undefined) continue
-    for (const [currencyKey, amount] of pursedIn(purse)) {
+    for (const [currencyKey, amount] of pursedIn(purse, currencies)) {
       lines.push(
         jsonRowOf([
           ["id", minted()],
@@ -241,7 +244,7 @@ export function currencyRowsOf(values: InventoryValues, minted: () => string): s
   for (const esoCharacterId of Object.keys(held.characters).sort()) {
     const one = held.characters[esoCharacterId]
     if (one === undefined) continue
-    for (const [currencyKey, amount] of pursedIn(one.balances)) {
+    for (const [currencyKey, amount] of pursedIn(one.balances, currencies)) {
       lines.push(
         jsonRowOf([
           ["id", minted()],
@@ -312,12 +315,17 @@ export function craftingLevelRowsOf(values: InventoryValues, minted: () => strin
   return jsonlBodyOf(lines)
 }
 
-function rowsFor(property: string, values: InventoryValues, minted: () => string): string {
+function rowsFor(
+  property: string,
+  values: InventoryValues,
+  minted: () => string,
+  currencies: KeyedTitles
+): string {
   if (property === LOCATIONS_PROPERTY) return locationRowsOf(values, minted)
   if (property === BAG_SIZES_PROPERTY) return bagSizeRowsOf(values, minted)
   if (property === CRAFTING_LEVELS_PROPERTY) return craftingLevelRowsOf(values, minted)
   if (property === PLACED_FURNISHINGS_PROPERTY) return placedFurnishingRowsOf(values, minted)
-  if (property === CURRENCIES_PROPERTY) return currencyRowsOf(values, minted)
+  if (property === CURRENCIES_PROPERTY) return currencyRowsOf(values, minted, currencies)
   return stackRowsOf(values, minted)
 }
 
@@ -355,9 +363,16 @@ export async function landAccountInventory(
   const read = deps.readPages ?? readPages
   const write = deps.writeFiles ?? writeFiles
   const upsert = deps.upsert ?? upsertPage
+  const currenciesRead = deps.currencies ?? readCurrencies
   const unplaced = noPagePathWhy(ACCOUNT_PAGE_TYPE_SLUG, values.accountSlug)
 
   const tryOnce = async (): Promise<Tried> => {
+    let currencies: KeyedTitles
+    try {
+      currencies = await currenciesRead()
+    } catch (error) {
+      return { outcome: "again", why: `the currency pages were not read: ${String(error)}` }
+    }
     const found = await read([{ pageTypeSlug: ACCOUNT_PAGE_TYPE_SLUG, slug: values.accountSlug }])
     if (!found.ok) return { outcome: "again", why: found.why }
     const pagePath = found.bodies[0]?.path
@@ -367,7 +382,7 @@ export async function landAccountInventory(
     for (const property of ROW_PROPERTIES) {
       const path = besidePathOf(pagePath, property, ROWS_ENDING)
       if (path === null) return { outcome: "refused", why: unplaced }
-      puts.push({ path, content: rowsFor(property, values, minted) })
+      puts.push({ path, content: rowsFor(property, values, minted, currencies) })
     }
     const dataPath = besidePathOf(pagePath, DATA_PROPERTY, DATA_ENDING)
     if (dataPath === null) return { outcome: "refused", why: unplaced }

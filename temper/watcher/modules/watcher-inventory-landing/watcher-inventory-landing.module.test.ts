@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import { asPage } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type { InventoryDatabase } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import { holdKeyedTitlesFromCheckout } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.test-fixtures.ts"
 import { archivalFortunes } from "akasha/temper/player/holdings/temper-inventory-currency/pages/archival-fortunes.temper-inventory-currency.ts"
 import { gold } from "akasha/temper/player/holdings/temper-inventory-currency/pages/gold.temper-inventory-currency.ts"
 import { telVarStones } from "akasha/temper/player/holdings/temper-inventory-currency/pages/tel-var-stones.temper-inventory-currency.ts"
@@ -23,6 +24,10 @@ import type {
   WriteFiles,
 } from "akasha/temper/watcher/modules/watcher-page-landing/watcher-page-landing.module.code.ts"
 import { z } from "zod"
+
+const CURRENCIES = holdKeyedTitlesFromCheckout(temperInventoryCurrency.slug)
+
+const currenciesHeld = async () => CURRENCIES
 
 const ACCOUNT_SLUG = "account-01a053fe-00ef-7d9b-9231-0340262cf86e"
 
@@ -254,6 +259,7 @@ test("every row file lands beside the account page in one write", async () => {
     readPages: accountFound,
     writeFiles: write,
     upsert: upsertNothing,
+    currencies: currenciesHeld,
   })
   expect(landed).toEqual({ outcome: "landed", at: "c2" })
   expect(written.map((one) => one.path)).toEqual([
@@ -273,7 +279,12 @@ test("the write states the commit the account page was read at", async () => {
     sent.push(read)
     return { ok: true, at: "c2" }
   }
-  const deps = { readPages: accountFound, writeFiles: write, upsert: upsertNothing }
+  const deps = {
+    readPages: accountFound,
+    writeFiles: write,
+    upsert: upsertNothing,
+    currencies: currenciesHeld,
+  }
   await landAccountInventory(VALUES, () => "id-1", deps)
   expect(sent).toEqual(["c1"])
 })
@@ -284,7 +295,12 @@ test("a second reading writes the same paths again rather than being left alone"
     paths.push(puts.map((one) => one.path))
     return { ok: true, at: "c2" }
   }
-  const deps = { readPages: accountFound, writeFiles: write, upsert: upsertNothing }
+  const deps = {
+    readPages: accountFound,
+    writeFiles: write,
+    upsert: upsertNothing,
+    currencies: currenciesHeld,
+  }
   await landAccountInventory(VALUES, () => "id-1", deps)
   await landAccountInventory(WORN, () => "id-2", deps)
   expect(paths).toHaveLength(2)
@@ -301,6 +317,7 @@ test("the account page is told which row files it now carries", async () => {
     readPages: accountFound,
     writeFiles: async () => ({ ok: true, at: "c2" }),
     upsert,
+    currencies: currenciesHeld,
   })
   expect(set).toEqual(inventoryPageKeys(VALUES))
 })
@@ -362,7 +379,7 @@ test("every slot holding something becomes a row, bag by bag and slot by slot", 
 })
 
 test("each purse becomes a row naming the currency's own page", () => {
-  expect(rowsIn(currencyRowsOf(PURSES, counting("p")))).toEqual([
+  expect(rowsIn(currencyRowsOf(PURSES, counting("p"), CURRENCIES))).toEqual([
     {
       id: "p1",
       scope: "account",
@@ -396,7 +413,7 @@ test("each purse becomes a row naming the currency's own page", () => {
       lastScannedAt: new Date(PURSE_SCANNED * MS).toISOString(),
     },
   ])
-  expect(currencyRowsOf(VALUES, counting("p"))).toBe("")
+  expect(currencyRowsOf(VALUES, counting("p"), CURRENCIES)).toBe("")
 })
 
 test("each furnishing placed in a home becomes a row without its empty links", () => {
@@ -479,6 +496,7 @@ test("a store that will not answer is refused rather than written to", async () 
     writeFiles: write,
     upsert: upsertNothing,
     waiting: async () => undefined,
+    currencies: currenciesHeld,
   })
   expect(landed.outcome).toBe("refused")
   expect(wrote).toBe(false)

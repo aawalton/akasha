@@ -6,11 +6,8 @@ import type {
 import {
   classifyLocation,
   getLocationDisplayName,
-} from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
-import {
   type LocationTypeId,
-  locationTypes,
-} from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 
 export interface ItemLocationEntry {
   locationKey: string
@@ -31,26 +28,28 @@ export interface ItemCentricEntry {
   locations: readonly ItemLocationEntry[]
 }
 
-const LOCATION_TYPE_ORDER: readonly LocationTypeId[] = locationTypes.ids
-
 export function compareStrings(a: string, b: string): number {
   if (a < b) return -1
   if (a > b) return 1
   return 0
 }
 
-function compareLocations(a: ItemLocationEntry, b: ItemLocationEntry): number {
-  const byType =
-    LOCATION_TYPE_ORDER.indexOf(a.locationType) - LOCATION_TYPE_ORDER.indexOf(b.locationType)
-  if (byType !== 0) return byType
-  const byName = compareStrings(a.displayName, b.displayName)
-  if (byName !== 0) return byName
-  if (a.bagId !== b.bagId) return a.bagId - b.bagId
-  return a.slotIndex - b.slotIndex
+function comparingLocations(
+  locationOrder: readonly string[]
+): (a: ItemLocationEntry, b: ItemLocationEntry) => number {
+  return (a, b) => {
+    const byType = locationOrder.indexOf(a.locationType) - locationOrder.indexOf(b.locationType)
+    if (byType !== 0) return byType
+    const byName = compareStrings(a.displayName, b.displayName)
+    if (byName !== 0) return byName
+    if (a.bagId !== b.bagId) return a.bagId - b.bagId
+    return a.slotIndex - b.slotIndex
+  }
 }
 
 export function buildItemCentricInventory(
-  inventory: InventoryDatabase | null
+  inventory: InventoryDatabase | null,
+  locationOrder: readonly string[]
 ): Map<number, ItemCentricEntry> {
   const result = new Map<number, ItemCentricEntry>()
   if (inventory === null) return result
@@ -100,6 +99,7 @@ export function buildItemCentricInventory(
     }
   }
 
+  const compareLocations = comparingLocations(locationOrder)
   for (const locations of locationsById.values()) {
     locations.sort(compareLocations)
   }

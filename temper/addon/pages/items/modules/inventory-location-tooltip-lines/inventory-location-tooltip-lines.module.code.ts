@@ -3,7 +3,7 @@ import type {
   ItemCentricEntry,
   ItemLocationEntry,
 } from "akasha/temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
-import type { LocationTypeId } from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+import type { LocationTypeId } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import type { TooltipLine } from "akasha/temper/window/modules/tooltip-lines/tooltip-lines.module.code.ts"
 
 const LOCATION_TYPE_COLOR: Record<LocationTypeId, string> = {

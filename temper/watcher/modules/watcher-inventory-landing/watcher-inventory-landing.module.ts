@@ -66,7 +66,11 @@ export const watcherInventoryLanding = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A currency page is named from the currency's name, lowered and hyphened.",
+      statement: "A currency page is found by the key its page states, as the scan words it.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The currency pages are read as a reading lands, and read again when they change.",
     },
     {
       decisionKind: "decision-kind/departure",

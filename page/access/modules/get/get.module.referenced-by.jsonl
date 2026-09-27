@@ -24,6 +24,7 @@
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-loading/companion-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/catalog/pursuit/temper-recipe-list/modules/recipe-list-catalog-loading/recipe-list-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/command/modules/inventory-settings-access/inventory-settings-access.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/items/core/modules/keyed-titles-loading/keyed-titles-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/player/character/characters-equipment/modules/set-catalog-loading/set-catalog-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/player/character/companion-build/modules/filing/companion-build-filing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"get.module.code.ts","path":"temper/player/character/skill/modules/skill-catalog-loading/skill-catalog-loading.module.code.ts","typed":false,"deferred":false}

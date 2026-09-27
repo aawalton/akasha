@@ -8,11 +8,15 @@ import {
 } from "akasha/temper/items/core/modules/inventory-grouping-types/inventory-grouping-types.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import { buildInventoryTypeNodes } from "akasha/temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts"
-import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import {
+  type KeyedTitles,
+  titleOf,
+} from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
+import {
+  classifyLocation,
+  isLocationTypeId,
   type LocationTypeId,
-  locationTypes,
-} from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
 import type { AffectedItem } from "akasha/temper/items/rules/core/modules/inventory-rule-matcher-types/inventory-rule-matcher-types.module.code.ts"
 
 function toTypeEntry(affected: AffectedItem, index: number): InventoryTypeEntry {
@@ -86,7 +90,8 @@ interface LocationGroup {
 }
 
 export function buildAffectedItemLocationNodes(
-  items: readonly AffectedItem[]
+  items: readonly AffectedItem[],
+  locations: KeyedTitles
 ): readonly InventoryNode[] {
   const accumulator = new Map<string, { affected: AffectedItem; index: number }[]>()
   const locationMap = new Map<string, LocationGroup>()
@@ -116,7 +121,8 @@ export function buildAffectedItemLocationNodes(
   }
 
   const nodes: InventoryNode[] = []
-  for (const locationType of locationTypes.ids) {
+  for (const locationType of locations.keys) {
+    if (!isLocationTypeId(locationType)) continue
     const groups = typeMap.get(locationType)
     if (!groups || groups.length === 0) continue
 
@@ -129,7 +135,7 @@ export function buildAffectedItemLocationNodes(
       const locationChildren = buildLocationGroupChildren(group)
       nodes.push({
         key: locationType,
-        label: locationTypes.data[locationType].name,
+        label: titleOf(locations, locationType),
         children: locationChildren,
       })
     } else {
@@ -140,7 +146,7 @@ export function buildAffectedItemLocationNodes(
       }))
       nodes.push({
         key: locationType,
-        label: locationTypes.data[locationType].name,
+        label: titleOf(locations, locationType),
         children: locationNodes,
       })
     }

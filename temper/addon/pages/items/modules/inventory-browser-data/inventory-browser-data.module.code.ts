@@ -5,13 +5,14 @@ import type {
   LocationViewKind,
   LocationViewOption,
 } from "akasha/temper/addon/pages/items/modules/inventory-browser-types/inventory-browser-types.module.code.ts"
+import { locationTypeOrder } from "akasha/temper/addon/pages/items/modules/inventory-location-order/inventory-location-order.module.code.ts"
 import { getDatabase } from "akasha/temper/addon/pages/items/modules/inventory-saved-variables-ref/inventory-saved-variables-ref.module.code.ts"
 import { buildItemCentricInventory } from "akasha/temper/items/core/modules/item-centric-inventory/item-centric-inventory.module.code.ts"
 import {
   classifyLocation,
   getLocationDisplayName,
+  type LocationTypeId,
 } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
-import type { LocationTypeId } from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
 import "akasha/temper/eso/type/eso-enums-01/eso-enums-01.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-enums-09/eso-enums-09.type-declaration.d.ts"
 import "akasha/temper/eso/type/eso-functions-08/eso-functions-08.type-declaration.d.ts"
@@ -56,7 +57,7 @@ function dynamicKindForLocationType(locationType: LocationTypeId): LocationViewK
 }
 
 export function buildBrowserRows(this: void): BrowserRow[] {
-  const view = buildItemCentricInventory(getDatabase())
+  const view = buildItemCentricInventory(getDatabase(), locationTypeOrder())
   const rows: BrowserRow[] = []
 
   for (const entry of view.values()) {

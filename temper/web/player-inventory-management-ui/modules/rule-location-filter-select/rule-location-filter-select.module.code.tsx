@@ -8,18 +8,16 @@ import {
   SelectTrigger,
   SelectValue,
 } from "akasha/design/interface/primitive/modules/select-control/select-control.module.code.tsx"
-import { classifyLocation } from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { temperLocationType } from "akasha/temper/catalog/world/temper-location-type/temper-location-type.page-type.ts"
+import { titleOf } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import {
+  classifyLocation,
+  isLocationTypeId,
   type LocationTypeId,
-  locationTypes,
-} from "akasha/temper/items/core/modules/location-type-data/location-type-data.module.code.ts"
+} from "akasha/temper/items/core/modules/location-classify/location-classify.module.code.ts"
+import { useKeyedTitles } from "akasha/temper/web/modules/use-keyed-titles/use-keyed-titles.module.code.tsx"
 import { ChevronRight } from "lucide-react"
 import { useMemo } from "react"
-
-const LOCATION_TYPE_SET = new Set<string>(locationTypes.ids)
-function isLocationTypeId(value: string): value is LocationTypeId {
-  return LOCATION_TYPE_SET.has(value)
-}
 
 const SINGLE_VALUE_LOCATION_TYPES: ReadonlySet<LocationTypeId> = new Set(["bank", "craftbag"])
 
@@ -60,10 +58,14 @@ export function RuleLocationFilterSelect({
       .sort((a, b) => a.displayName.localeCompare(b.displayName))
   }, [selectedType, inventory])
 
-  const typeOptions = locationTypes.ids
+  const locations = useKeyedTitles(temperLocationType.slug)
+  const kindTitle = (kind: string): string => (locations === null ? kind : titleOf(locations, kind))
+
+  const typeOptions = (locations?.keys ?? [])
+    .filter(isLocationTypeId)
     .map((t) => ({
       value: t,
-      label: locationTypes.data[t]?.name ?? t,
+      label: kindTitle(t),
     }))
     .sort((a, b) => a.label.localeCompare(b.label))
 
@@ -131,9 +133,7 @@ export function RuleLocationFilterSelect({
                 </Badge>
               </SelectTrigger>
               <SelectContent>
-                <SelectItem value={selectedType}>
-                  All {locationTypes.data[selectedType]?.name ?? selectedType}
-                </SelectItem>
+                <SelectItem value={selectedType}>All {kindTitle(selectedType)}</SelectItem>
                 {specificOptions.map((opt) => (
                   <SelectItem key={opt.key} value={opt.key}>
                     {opt.displayName}

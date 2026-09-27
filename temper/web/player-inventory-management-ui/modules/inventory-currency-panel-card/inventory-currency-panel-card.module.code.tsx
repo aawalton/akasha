@@ -3,14 +3,16 @@
 import { summarizeCurrencies } from "akasha/temper/items/core/modules/inventory-currencies/inventory-currencies.module.code.ts"
 import type { InventoryNode } from "akasha/temper/items/core/modules/inventory-node-types/inventory-node-types.module.code.ts"
 import type { InventoryCurrencies } from "akasha/temper/items/core/modules/inventory-types/inventory-types.module.code.ts"
+import type { KeyedTitles } from "akasha/temper/items/core/modules/keyed-titles/keyed-titles.module.code.ts"
 import { InventoryPanelCard } from "akasha/temper/web/player-inventory-management-ui/modules/inventory-panel-card/inventory-panel-card.module.code.tsx"
 import { useMemo } from "react"
 
 function buildCurrencyNodes(
   currencies: InventoryCurrencies,
+  titles: KeyedTitles,
   conversionRates?: Record<string, number>
 ): readonly InventoryNode[] {
-  const summary = summarizeCurrencies(currencies)
+  const summary = summarizeCurrencies(currencies, titles)
   if (summary.rows.length === 0) return []
 
   const hasNonCharacterSource = summary.rows.some(
@@ -75,16 +77,18 @@ function buildCurrencyNodes(
 
 interface InventoryCurrencyPanelCardProps {
   currencies: InventoryCurrencies
+  titles: KeyedTitles
   conversionRates?: Record<string, number>
 }
 
 export function InventoryCurrencyPanelCard({
   currencies,
+  titles,
   conversionRates,
 }: InventoryCurrencyPanelCardProps) {
   const nodes = useMemo(
-    () => buildCurrencyNodes(currencies, conversionRates),
-    [currencies, conversionRates]
+    () => buildCurrencyNodes(currencies, titles, conversionRates),
+    [currencies, titles, conversionRates]
   )
 
   if (nodes.length === 0) return null

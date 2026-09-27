@@ -317,6 +317,8 @@ export const temperWeb = {
     "module/use-recipe-catalog",
     "module/rule-templates-gate",
     "module/use-rule-templates",
+    "module/keyed-titles-gate",
+    "module/use-keyed-titles",
     "module/metric-catalog-gate",
     "module/use-metric-catalog",
     "module/skill-catalog-gate",
