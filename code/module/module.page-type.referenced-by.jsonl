@@ -4948,6 +4948,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/inventory-constants-catalog-capture/inventory-constants-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-filter-type-constants/item-filter-type-constants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-style-catalog-capture/item-style-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/item-type-constants/item-type-constants.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/lore-library-catalog-capture/lore-library-catalog-capture.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/game-catalog-capture-addon/modules/poi-catalog-capture/poi-catalog-capture.module.ts","typed":true,"deferred":false}
@@ -4981,6 +4982,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/interface-string-catalog/interface-string-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/inventory-constants-catalog/inventory-constants-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/item-set-catalog/item-set-catalog.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/item-style-catalog/item-style-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/poi-catalog/poi-catalog.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/capture/shape/modules/recipe-catalog/recipe-catalog.module.ts","typed":true,"deferred":false}

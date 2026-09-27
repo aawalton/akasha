@@ -101,6 +101,8 @@ declare const SOUNDS: Readonly<Record<string, string>>
 declare const ZO_Tooltip_AddDivider: (tooltip: TooltipControl) => void
 
 declare const ITEMSTYLE_NONE: number
+declare const ITEMSTYLE_MIN_VALUE: number
+declare const ITEMSTYLE_MAX_VALUE: number
 
 declare const ITEMSTYLE_RACIAL_BRETON: number
 declare const ITEMSTYLE_RACIAL_REDGUARD: number

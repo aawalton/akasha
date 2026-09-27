@@ -26,6 +26,7 @@ export const temperGameCatalogCaptureAddon = {
     "module/inventory-constants-catalog-capture",
     "module/item-filter-type-constants",
     "module/item-set-catalog-capture",
+    "module/item-style-catalog-capture",
     "module/item-type-constants",
     "module/lore-library-catalog-capture",
     "module/poi-catalog-capture",

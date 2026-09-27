@@ -13,6 +13,7 @@ import type { InterfaceColorCatalogData } from "akasha/temper/capture/shape/modu
 import type { InterfaceStringCatalogData } from "akasha/temper/capture/shape/modules/interface-string-catalog/interface-string-catalog.module.code.ts"
 import type { InventoryConstantsCatalogData } from "akasha/temper/capture/shape/modules/inventory-constants-catalog/inventory-constants-catalog.module.code.ts"
 import type { ItemSetCatalogEntry } from "akasha/temper/capture/shape/modules/item-set-catalog/item-set-catalog.module.code.ts"
+import type { ItemStyleCatalogData } from "akasha/temper/capture/shape/modules/item-style-catalog/item-style-catalog.module.code.ts"
 import type { LoreLibraryCatalogCategory } from "akasha/temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.code.ts"
 import type { PoiCatalogZone } from "akasha/temper/capture/shape/modules/poi-catalog/poi-catalog.module.code.ts"
 import type { RecipeCatalogList } from "akasha/temper/capture/shape/modules/recipe-catalog/recipe-catalog.module.code.ts"
@@ -49,6 +50,7 @@ export interface CatalogPayload {
   interfaceStringCatalog?: InterfaceStringCatalogData
   engineAnswerCatalog?: EngineAnswerCatalogData
   sandboxLibraryCatalog?: SandboxLibraryCatalogData
+  itemStyleCatalog?: ItemStyleCatalogData
   completed: boolean
   collectionSkips?: Record<string, string>
   apiVersion?: string

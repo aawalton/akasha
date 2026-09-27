@@ -20,6 +20,7 @@ export const temperCaptureShape = {
     "module/interface-string-catalog",
     "module/inventory-constants-catalog",
     "module/item-set-catalog",
+    "module/item-style-catalog",
     "module/lore-library-catalog",
     "module/poi-catalog",
     "module/recipe-catalog",

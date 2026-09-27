@@ -4852,6 +4852,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/inventory-constants-catalog-capture/inventory-constants-catalog-capture.module.ts","id":"01a06127-6637-741d-b7cf-e75c80c39e3d"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/item-filter-type-constants/item-filter-type-constants.module.ts","id":"01a06127-6642-7422-baf1-357f6f2e6d5f"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/item-set-catalog-capture/item-set-catalog-capture.module.ts","id":"01a06127-6644-7d5a-b5dd-845d71c2890e"}
+{"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/item-style-catalog-capture/item-style-catalog-capture.module.ts","id":"01a0e0f2-697c-7cf9-9031-3b1551744880"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/item-type-constants/item-type-constants.module.ts","id":"01a06127-6646-7876-957d-a9127eb6ef26"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/lore-library-catalog-capture/lore-library-catalog-capture.module.ts","id":"01a060e2-3184-7000-83bf-82062963f749"}
 {"propertySlug":"decision-kind","path":"temper/capture/game-catalog-capture-addon/modules/poi-catalog-capture/poi-catalog-capture.module.ts","id":"01a060e2-3184-76cf-a0d0-62b8d40daca8"}
@@ -4881,6 +4882,7 @@
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/engine-globals-catalog/engine-globals-catalog.module.ts","id":"01a0ca9b-a3a0-7ec2-86bc-abbb99ef6d88"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/interface-color-catalog/interface-color-catalog.module.ts","id":"01a0d3f5-9078-73ed-8bca-db2004eeec48"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/interface-string-catalog/interface-string-catalog.module.ts","id":"01a0d415-b913-7f5a-8c9e-4d9aef5b8f80"}
+{"propertySlug":"decision-kind","path":"temper/capture/shape/modules/item-style-catalog/item-style-catalog.module.ts","id":"01a0e0f2-697c-7914-9c4d-73ebcefa5651"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/lore-library-catalog/lore-library-catalog.module.ts","id":"01a0604d-239f-785b-a09c-fcdf56dbb060"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/poi-catalog/poi-catalog.module.ts","id":"01a0604d-239f-7a9e-93f5-6776a2876885"}
 {"propertySlug":"decision-kind","path":"temper/capture/shape/modules/recipe-catalog/recipe-catalog.module.ts","id":"01a0604d-23a0-7cb1-93da-f155d5f49f5b"}
