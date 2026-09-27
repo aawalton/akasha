@@ -1,4 +1,8 @@
 import {
+  type CompanionCatalog,
+  companionCatalog,
+} from "akasha/temper/catalog/companion/companions-core/modules/companion-catalog/companion-catalog.module.code.ts"
+import {
   type CompanionMetricCatalog,
   companionMetrics,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-metrics/companion-metrics.module.code.ts"
@@ -18,33 +22,43 @@ export function registerCompanionDecoder(decoder: CompanionDecoder): undefined {
   _decoder = decoder
 }
 
-function once<T>(factory: () => T): () => T {
-  let cell: { value: T } | undefined
-  return () => {
-    if (cell === undefined) {
-      cell = { value: factory() }
-    }
-    return cell.value
-  }
-}
+const BUILDS = new WeakMap<CompanionCatalog, CompanionState>()
 
-const getReferenceBuild = once((): CompanionState => {
+function getReferenceBuild(): CompanionState {
+  const catalog = companionCatalog()
+  const already = BUILDS.get(catalog)
+  if (already !== undefined) return already
   if (!_decoder)
     throw new Error(
       "Companion decoder not registered — import @akasha/temper-companion-codec/companion-codec to trigger registerCompanionDecoder()"
     )
   const decoded = _decoder(buildHash(REFERENCE_BUILD_CODE))
   if (!decoded) throw new Error("Failed to decode reference build")
+  BUILDS.set(catalog, decoded)
   return decoded
-})
+}
 
-const BASELINES = new WeakMap<CompanionMetricCatalog, ReferenceBaseline>()
+const BASELINES = new WeakMap<
+  CompanionCatalog,
+  WeakMap<CompanionMetricCatalog, ReferenceBaseline>
+>()
+
+function baselinesFor(
+  catalog: CompanionCatalog
+): WeakMap<CompanionMetricCatalog, ReferenceBaseline> {
+  const kept = BASELINES.get(catalog)
+  if (kept !== undefined) return kept
+  const made = new WeakMap<CompanionMetricCatalog, ReferenceBaseline>()
+  BASELINES.set(catalog, made)
+  return made
+}
 
 export function getReferenceBaseline(): ReferenceBaseline {
-  const catalog = companionMetrics()
-  const already = BASELINES.get(catalog)
+  const byMetrics = baselinesFor(companionCatalog())
+  const metrics = companionMetrics()
+  const already = byMetrics.get(metrics)
   if (already !== undefined) return already
   const worked = computeReferenceBaseline(getReferenceBuild())
-  BASELINES.set(catalog, worked)
+  byMetrics.set(metrics, worked)
   return worked
 }

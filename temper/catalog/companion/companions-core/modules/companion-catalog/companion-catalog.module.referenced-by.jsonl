@@ -39,6 +39,7 @@
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-weapon-types/companion-weapon-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companions-base-source/companions-base-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companions/companions.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/reference-build-data/reference-build-data.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/rotation-breakdown-rows/rotation-breakdown-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/companions-core/modules/rotation-types/rotation-types.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"companion-catalog.module.code.ts","path":"temper/catalog/companion/temper-eso-companion-equipment-constant/modules/eso-companion-equipment-constant-pages/eso-companion-equipment-constant-pages.module.code.ts","typed":false,"deferred":false}

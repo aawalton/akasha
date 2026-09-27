@@ -23,5 +23,10 @@ export const referenceBuildData = {
       decisionKind: "decision-kind/departure",
       statement: "The baseline is worked out again for each companion stat catalogue held.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The reference build and its baseline are worked out again for each companion catalogue held.",
+    },
   ],
 } as const satisfies Module
