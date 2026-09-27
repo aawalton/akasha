@@ -31,5 +31,7 @@ export const theDatingGame00008 = {
     "She catches his hand and squeezes it, then holds on a moment longer than she needs to.",
     "She looks up at him, bright and unguarded, waiting for whatever he says next.",
   ],
+  issues: ['"ready for whatever you say next" - No Prompt'],
   lore: ["lore/the-dating-game-alan"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
