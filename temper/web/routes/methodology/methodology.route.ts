@@ -7,4 +7,10 @@ export const methodology = {
   definition: "how Temper works out what it tells a player",
   code: "tsx",
   urlPath: "methodology",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
+  ],
 } as const satisfies Route

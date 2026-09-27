@@ -7,12 +7,13 @@ import { CompanionGearTtcGate } from "akasha/temper/web/modules/companion-gear-t
 import { useShoppingMarks } from "akasha/temper/web/modules/player-settings/player-settings.module.code.ts"
 import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+import { shoppingDocumentTitle } from "akasha/temper/web/phrase/pages/shopping-document-title.temper-web-phrase.ts"
 import { ShoppingPageContent } from "akasha/temper/web/player-economics-ui/modules/shopping-page-content/shopping-page-content.module.code.tsx"
 import { Suspense } from "react"
 import { data, useSearchParams } from "react-router"
 
 export function meta() {
-  return [{ title: "Temper | Shopping" }]
+  return [{ title: shoppingDocumentTitle.title }]
 }
 
 export async function loader({ request }: { request: Request }) {

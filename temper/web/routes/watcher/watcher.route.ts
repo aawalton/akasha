@@ -12,5 +12,9 @@ export const watcher = {
       decisionKind: "decision-kind/departure",
       statement: "What the watcher last sent is shown again as soon as it changes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
   ],
 } as const satisfies Route

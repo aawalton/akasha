@@ -12,5 +12,9 @@ export const settings = {
       decisionKind: "decision-kind/departure",
       statement: "The player's email is shown again as soon as their person page changes.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
   ],
 } as const satisfies Route

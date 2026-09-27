@@ -7,4 +7,10 @@ export const shopping = {
   definition: "what a player means to buy, and where it is cheapest",
   code: "tsx",
   urlPath: "shopping",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
+  ],
 } as const satisfies Route

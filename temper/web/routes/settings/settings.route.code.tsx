@@ -6,6 +6,7 @@ import { accountOfContributor } from "akasha/person/modules/enrolment/person-enr
 import { SettingsPageContent } from "akasha/temper/web/modules/settings-page-content/settings-page-content.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
 import { TEMPER_SITE } from "akasha/temper/web/modules/temper-handover-site/temper-handover-site.module.code.ts"
+import { settingsDocumentTitle } from "akasha/temper/web/phrase/pages/settings-document-title.temper-web-phrase.ts"
 import { Suspense } from "react"
 import { data, redirect, useSearchParams } from "react-router"
 
@@ -14,7 +15,7 @@ type SettingsReader = { id: string; email: string | null }
 const READ = ["person"]
 
 export function meta() {
-  return [{ title: "Temper | Settings" }]
+  return [{ title: settingsDocumentTitle.title }]
 }
 
 export async function loader({ request }: { request: Request }) {

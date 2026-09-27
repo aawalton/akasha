@@ -9,6 +9,7 @@ import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts
 import { useLoaderFollowing } from "akasha/page/ui/modules/loader-following/loader-following.module.code.ts"
 import { MethodologyPageContent } from "akasha/temper/web/modules/methodology-page-content/methodology-page-content.module.code.tsx"
 import { tabDefaultFor } from "akasha/temper/web/modules/tab-defaults/tab-defaults.module.code.ts"
+import { methodologyDocumentTitle } from "akasha/temper/web/phrase/pages/methodology-document-title.temper-web-phrase.ts"
 import { Suspense } from "react"
 import { useSearchParams } from "react-router"
 
@@ -23,7 +24,7 @@ export async function loader() {
 type MethodologyLoaderData = Awaited<ReturnType<typeof loader>>
 
 export function meta() {
-  return [{ title: "Temper | Methodology" }]
+  return [{ title: methodologyDocumentTitle.title }]
 }
 
 export default function MethodologyPage({ loaderData }: { loaderData: MethodologyLoaderData }) {

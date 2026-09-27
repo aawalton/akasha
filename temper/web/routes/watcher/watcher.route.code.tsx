@@ -23,6 +23,7 @@ import {
   summarizeWatcherSync,
   type WatcherSyncSourceCounts,
 } from "akasha/temper/web/modules/watcher-sync-status/watcher-sync-status.module.code.ts"
+import { watcherDocumentTitle } from "akasha/temper/web/phrase/pages/watcher-document-title.temper-web-phrase.ts"
 import { Suspense } from "react"
 import { data } from "react-router"
 
@@ -35,7 +36,7 @@ const ACCOUNT = "temper-account"
 const READ = [ENROLMENT, ACCOUNT_CHARACTER, ACCOUNT]
 
 export function meta() {
-  return [{ title: "Temper | Watcher" }]
+  return [{ title: watcherDocumentTitle.title }]
 }
 
 function isoInstant(value: unknown): string | null {

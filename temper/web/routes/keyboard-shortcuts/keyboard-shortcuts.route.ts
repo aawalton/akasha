@@ -7,4 +7,10 @@ export const keyboardShortcuts = {
   definition: "the keystrokes the site answers to",
   code: "tsx",
   urlPath: "keyboard-shortcuts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The document title is read from this route's web phrase page.",
+    },
+  ],
 } as const satisfies Route
