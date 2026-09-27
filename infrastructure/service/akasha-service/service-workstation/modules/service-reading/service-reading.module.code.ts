@@ -129,6 +129,8 @@ export function serviceIn(
   const worksWithinSeconds = value.worksWithinSeconds
   const told = value.told
   const restartsItself = value.restartsItself
+  const maxMemoryMb = value.maxMemoryMb
+  const killMemoryMb = value.killMemoryMb
   return {
     id,
     type: namedAs(PAGE_TYPE, SERVICE_PAGE_TYPE, null),
@@ -142,6 +144,8 @@ export function serviceIn(
     ...(typeof worksWithinSeconds === "number" ? { worksWithinSeconds } : {}),
     ...(typeof told === "boolean" ? { told } : {}),
     ...(typeof restartsItself === "boolean" ? { restartsItself } : {}),
+    ...(typeof maxMemoryMb === "number" ? { maxMemoryMb } : {}),
+    ...(typeof killMemoryMb === "number" ? { killMemoryMb } : {}),
   }
 }
 

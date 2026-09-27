@@ -10,6 +10,7 @@
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-putting-up/service-putting-up.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/service-telling/service-telling.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"unit-writing.module.code.ts","path":"infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"infrastructure/service/akasha-service/service-workstation/service-workstation.page-type.ts","id":"01a05a3f-b42a-754e-af3c-8b30ed9d6ad1"}

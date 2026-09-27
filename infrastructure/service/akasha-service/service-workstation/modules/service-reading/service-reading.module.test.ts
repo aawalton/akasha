@@ -11,6 +11,7 @@ import {
   systemdIn,
 } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.code.ts"
 import { serviceReading } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/service-reading/service-reading.module.ts"
+import { serviceUnitText } from "akasha/infrastructure/service/akasha-service/service-workstation/modules/unit-writing/unit-writing.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import { pageType } from "akasha/page/type/page-type.page-type.ts"
 
@@ -65,6 +66,24 @@ test("a value missing what a service needs is read as none", () => {
     delete held[key]
     expect(serviceIn(ROOT, held)).toBe(null)
   }
+})
+
+test("the memory limits a page states are read from its page", () => {
+  const read = serviceIn(ROOT, { ...WHOLE, maxMemoryMb: 4096, killMemoryMb: 6144 })
+  expect(read?.maxMemoryMb).toBe(4096)
+  expect(read?.killMemoryMb).toBe(6144)
+  expect(serviceIn(ROOT, { ...WHOLE, maxMemoryMb: "4G" })?.maxMemoryMb).toBe(undefined)
+})
+
+test("the memory limits a service's own page states reach the unit written for it", () => {
+  const read = readFor(ROOT, "page-service")
+  expect("services" in read).toBe(true)
+  if (!("services" in read)) return
+  const one = read.services[0]
+  if (one === undefined) throw new Error("no page-service was read")
+  const text = serviceUnitText(one)
+  expect(text).toContain("\nMemoryHigh=")
+  expect(text).toContain("\nMemoryMax=")
 })
 
 test("a value stating enabled as anything but a boolean is read as none", () => {

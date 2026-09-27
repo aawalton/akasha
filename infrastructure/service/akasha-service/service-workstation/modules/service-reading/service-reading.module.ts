@@ -43,6 +43,10 @@ export const serviceReading = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "The memory limits a service's page states are read from that page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "An option this system does not have is dropped rather than carried through.",
     },
     {
