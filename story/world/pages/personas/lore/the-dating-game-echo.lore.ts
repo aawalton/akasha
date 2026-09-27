@@ -68,6 +68,14 @@ export const theDatingGameEcho = {
       fact: "Echo can do many distinct voices, from a gravel-throated dwarf to a chirpy game announcer.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Words someone else wrote count for Echo as said, so she can read any text aloud.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Echo can give a character a voice from the page alone, without hearing it first.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
