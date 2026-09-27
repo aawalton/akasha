@@ -80,7 +80,7 @@ test("every buff and debuff a grimoire's affix row names is one the stats turn i
   for (const rows of Object.values(GRIMOIRE_AFFIX_ROWS)) {
     for (const row of rows) {
       for (const reference of [...(row.grantedBuffs ?? []), ...(row.appliedDebuffs ?? [])]) {
-        expect(buffOrDebuff.has(slugIn(reference))).toBe(true)
+        expect(buffOrDebuff().has(slugIn(reference))).toBe(true)
       }
     }
   }

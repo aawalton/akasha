@@ -10,13 +10,7 @@ export const temperFormulaFramework = {
     "module/arithmetic-node",
     "module/branded-id",
     "module/buff-or-debuff-source",
-    "module/buffs-major",
-    "module/buffs-minor",
-    "module/buffs-other",
     "module/class-id",
-    "module/debuffs-major",
-    "module/debuffs-minor",
-    "module/debuffs-other",
     "module/display-formula-convert",
     "module/display-formula-latex",
     "module/display-formula-node",
@@ -45,10 +39,7 @@ export const temperFormulaFramework = {
       decisionKind: "decision-kind/departure",
       statement: "The number a tree comes to and the tree a reader sees are worked out apart.",
     },
-    {
-      decisionKind: "decision-kind/departure",
-      statement: "The buff and debuff tables here are written out from the temper pages.",
-    },
+
     {
       decisionKind: "decision-kind/constraint",
       statement: "A module here reaching a Date is never reached by addon code.",

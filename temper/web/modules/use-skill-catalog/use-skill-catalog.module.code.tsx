@@ -6,6 +6,9 @@ import { temperBuffMajor } from "akasha/temper/catalog/effect/temper-buff-major/
 import { temperBuffMinor } from "akasha/temper/catalog/effect/temper-buff-minor/temper-buff-minor.page-type.ts"
 import { temperBuffOther } from "akasha/temper/catalog/effect/temper-buff-other/temper-buff-other.page-type.ts"
 import { temperCurse } from "akasha/temper/catalog/effect/temper-curse/temper-curse.page-type.ts"
+import { temperDebuffMajor } from "akasha/temper/catalog/effect/temper-debuff-major/temper-debuff-major.page-type.ts"
+import { temperDebuffMinor } from "akasha/temper/catalog/effect/temper-debuff-minor/temper-debuff-minor.page-type.ts"
+import { temperDebuffOther } from "akasha/temper/catalog/effect/temper-debuff-other/temper-debuff-other.page-type.ts"
 import { temperVampireStage } from "akasha/temper/catalog/effect/temper-vampire-stage/temper-vampire-stage.page-type.ts"
 import { temperSkillLine } from "akasha/temper/catalog/skill/line/temper-skill-line.page-type.ts"
 import { temperSkillLineCategory } from "akasha/temper/catalog/skill/line-category/temper-skill-line-category.page-type.ts"
@@ -55,7 +58,13 @@ export function useSkillCatalog(): SkillCatalog | null {
   const stages = usePages({ pageTypeSlug: temperVampireStage.slug, limit: EVERY })
   const attributes = usePages({ pageTypeSlug: temperAttribute.slug, limit: EVERY })
   const foodsAndDrinks = usePages({ pageTypeSlug: temperFoodOrDrink.slug, limit: EVERY })
+  const majorDebuffs = usePages({ pageTypeSlug: temperDebuffMajor.slug, limit: EVERY })
+  const minorDebuffs = usePages({ pageTypeSlug: temperDebuffMinor.slug, limit: EVERY })
+  const otherDebuffs = usePages({ pageTypeSlug: temperDebuffOther.slug, limit: EVERY })
   const read = [
+    majorDebuffs,
+    minorDebuffs,
+    otherDebuffs,
     foodsAndDrinks,
     attributes,
     stages,
@@ -104,6 +113,9 @@ export function useSkillCatalog(): SkillCatalog | null {
       [temperVampireStage.slug, stages.rows],
       [temperAttribute.slug, attributes.rows],
       [temperFoodOrDrink.slug, foodsAndDrinks.rows],
+      [temperDebuffMajor.slug, majorDebuffs.rows],
+      [temperDebuffMinor.slug, minorDebuffs.rows],
+      [temperDebuffOther.slug, otherDebuffs.rows],
     ])
     return holdSkillCatalog(
       skillCatalogOf(catalogTemplatesOf((pageTypeSlug) => byType.get(pageTypeSlug) ?? []))
@@ -131,6 +143,9 @@ export function useSkillCatalog(): SkillCatalog | null {
     stages.rows,
     attributes.rows,
     foodsAndDrinks.rows,
+    majorDebuffs.rows,
+    minorDebuffs.rows,
+    otherDebuffs.rows,
   ])
   if (failed !== null) throw failed
   return catalog

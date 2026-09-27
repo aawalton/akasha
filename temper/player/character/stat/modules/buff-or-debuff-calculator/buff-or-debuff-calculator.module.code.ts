@@ -26,8 +26,9 @@ export function calculateBuffs(sources: readonly EffectSource[]): readonly BuffO
     for (const effect of source.effects) {
       if (isBuffOrDebuffEffect(effect)) {
         const buffId = getBuffOrDebuffId(effect)
-        if (buffOrDebuff.has(buffId)) {
-          buffSources.push(buffOrDebuff.data[buffId])
+        const buff = buffOrDebuff().data[buffId]
+        if (buff !== undefined) {
+          buffSources.push(buff)
         }
       }
     }

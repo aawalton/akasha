@@ -32,7 +32,7 @@ function formatDelta(delta: number, metric: MetricChange["metric"]): string {
 }
 
 function BuffChangeRow({ buffId, isAdded }: { buffId: BuffOrDebuffId; isAdded: boolean }) {
-  const buffData = buffOrDebuff.data[buffId]
+  const buffData = buffOrDebuff().data[buffId]
   const name = buffData?.name ?? buffId
 
   return (

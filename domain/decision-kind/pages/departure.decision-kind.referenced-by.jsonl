@@ -5666,6 +5666,7 @@
 {"propertySlug":"decision-kind","path":"temper/player/character/companion-build/properties/base-roles.select-property.ts","id":"01a06862-c4ee-780f-ab05-93eb2cdb2991"}
 {"propertySlug":"decision-kind","path":"temper/player/character/companion-build/version/companion-build-version.page-type.ts","id":"01a0d897-3e34-7904-836e-7392f33aea6a"}
 {"propertySlug":"decision-kind","path":"temper/player/character/companion-build/version/properties/companion-build-version-build.relation-property.ts","id":"01a0d897-3e34-79c5-b28b-56528e0bcb3a"}
+{"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.ts","id":"01a06070-82dd-75fc-a816-ccfe176b1e07"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/eso-date/eso-date.module.ts","id":"01a06070-82e2-764c-be2a-e7c281e7063e"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/metric-id/metric-id.module.ts","id":"01a06070-82e2-7238-b411-953800ec8442"}
 {"propertySlug":"decision-kind","path":"temper/player/character/formula-framework/modules/source-category/source-category.module.ts","id":"01a06070-82e4-7b83-980a-be8cb831e18a"}

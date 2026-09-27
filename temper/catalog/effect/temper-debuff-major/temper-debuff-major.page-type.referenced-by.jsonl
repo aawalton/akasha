@@ -1,5 +1,7 @@
 {"propertySlug":"import","fileName":"temper-debuff-major.page-type.ts","path":"temper/catalog/companion/companions-core/modules/companion-effect-reading/companion-effect-reading.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-debuff-major.page-type.ts","path":"temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-major.page-type.ts","path":"temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"temper-debuff-major.page-type.ts","path":"temper/web/modules/use-skill-catalog/use-skill-catalog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-breach/major-breach.temper-debuff-major.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-brittle/major-brittle.temper-debuff-major.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"temper-debuff-major.page-type.types.ts","path":"temper/catalog/effect/temper-debuff-major/pages/major-cowardice/major-cowardice.temper-debuff-major.ts","typed":true,"deferred":false}

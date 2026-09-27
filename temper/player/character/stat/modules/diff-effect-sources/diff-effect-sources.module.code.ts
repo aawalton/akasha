@@ -119,7 +119,7 @@ function extractBuffIds(effects: readonly Effect[]): readonly BuffOrDebuffId[] {
   for (const effect of effects) {
     if (!isBuffOrDebuffEffect(effect)) continue
     const id = "buffId" in effect ? effect.buffId : effect.debuffId
-    if (buffOrDebuff.has(id)) {
+    if (buffOrDebuff().has(id)) {
       ids.push(id)
     }
   }

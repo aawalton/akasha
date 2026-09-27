@@ -13,10 +13,8 @@ import { specialEffectTypes } from "akasha/temper/catalog/skill-kind/modules/spe
 import { statusEffectTypes } from "akasha/temper/catalog/skill-kind/modules/status-effect-types/status-effect-types.module.code.ts"
 import { buffOrDebuff } from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
 
-const buffOrDebuffByName: Readonly<Record<string, { name: string }>> = buffOrDebuff.data
-
 function buffLabel(buff: string): string {
-  return buffOrDebuffByName[buff]?.name ?? companionActivationBuffName(buff) ?? buff
+  return buffOrDebuff().data[buff]?.name ?? companionActivationBuffName(buff) ?? buff
 }
 
 export function formatBuffType(buff: ActivationBuffType): string {

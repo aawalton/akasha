@@ -14,7 +14,14 @@ type Row = Readonly<Record<string, unknown>>
 
 type RowsOf = (pageTypeSlug: string) => readonly Row[]
 
-export const EFFECT_KEYS: readonly string[] = ["slug", "key", "effectCategory", "effects"]
+export const EFFECT_KEYS: readonly string[] = [
+  "slug",
+  "key",
+  "title",
+  "description",
+  "effectCategory",
+  "effects",
+]
 
 export const EFFECT_TYPES: readonly string[] = [
   temperBuffMajor.slug,

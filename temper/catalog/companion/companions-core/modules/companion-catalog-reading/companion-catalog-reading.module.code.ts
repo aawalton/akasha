@@ -87,9 +87,14 @@ import { temperCompanionWeaponType } from "akasha/temper/catalog/companion/weapo
 import { temperEffectCategory } from "akasha/temper/catalog/effect/category/temper-effect-category.page-type.ts"
 import { temperTargetArmor } from "akasha/temper/catalog/effect/temper-target-armor/temper-target-armor.page-type.ts"
 import {
+  buffsAndDebuffsOf,
+  holdBuffsAndDebuffs,
+} from "akasha/temper/player/character/formula-framework/modules/buff-or-debuff-source/buff-or-debuff-source.module.code.ts"
+import {
   holdTargetArmors,
   targetArmorsOf,
 } from "akasha/temper/player/character/source/modules/target-armors/target-armors.module.code.ts"
+import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 import { temperRotationBreakdownRow } from "akasha/temper/player/progress/temper-rotation-breakdown-row/temper-rotation-breakdown-row.page-type.ts"
 
 type Row = Readonly<Record<string, unknown>>
@@ -146,6 +151,7 @@ export const CATALOG_READS: readonly (readonly [string, readonly string[]])[] = 
   [temperRotationBreakdownRow.slug, BREAKDOWN_ROW_KEYS],
   [temperTargetArmor.slug, TARGET_ARMOR_KEYS],
   [temperEffectCategory.slug, EFFECT_CATEGORY_KEYS],
+  [temperMetricTree.slug, ["slug", "nodeId"]],
 ]
 
 function mechanicsFrom(rows: readonly Row[]): CombatMechanics {
@@ -217,6 +223,7 @@ function namedFrom(rows: readonly Row[]): readonly CompanionRoleTemplate[] {
 
 export function companionCatalogFrom(rowsOf: RowsOf): CompanionCatalog {
   holdTargetArmors(targetArmorsOf(rowsOf(temperTargetArmor.slug)))
+  holdBuffsAndDebuffs(buffsAndDebuffsOf(rowsOf))
   return catalogOf({
     companions: companionsFrom(rowsOf(temperEsoCompanion.slug)),
     skills: companionSkillsFrom(rowsOf(temperCompanionSkill.slug)),

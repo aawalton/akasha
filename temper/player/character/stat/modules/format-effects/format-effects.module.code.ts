@@ -65,7 +65,7 @@ export function formatEffects(
 
 function getBuffDebuffName(effect: BuffOrDebuffEffect): string {
   const id = "buffId" in effect ? effect.buffId : effect.debuffId
-  return buffOrDebuff.has(id) ? buffOrDebuff.data[id].name : id
+  return buffOrDebuff().data[id]?.name ?? id
 }
 
 function formatMetricEffectsInternal(effects: readonly MetricEffect[]): readonly string[] {
