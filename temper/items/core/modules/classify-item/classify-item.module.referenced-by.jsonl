@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/classify-item-node-ids/classify-item-node-ids.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/classify-item/classify-item.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/inventory-grouping/inventory-grouping.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/core/modules/inventory-type-tree-builder/inventory-type-tree-builder.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"classify-item.module.code.ts","path":"temper/items/rules/core/modules/affected-items-tree-builder/affected-items-tree-builder.module.code.ts","typed":false,"deferred":false}
