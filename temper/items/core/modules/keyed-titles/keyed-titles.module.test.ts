@@ -28,7 +28,7 @@ test("the keys are ordered as their pages say", () => {
 })
 
 test("a key is titled as its page is, and a key no page states is titled by itself", () => {
-  expect(titleOf(PLACES, "craftbag")).toBe("Crafting Bag")
+  expect(titleOf(PLACES, "craftbag")).toBe("Craft Bag")
   expect(titleOf(CURRENCIES, "telvarStones")).toBe("Tel Var Stones")
   expect(titleOf(CURRENCIES, "seals")).toBe("seals")
 })

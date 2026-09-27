@@ -12,5 +12,9 @@ export const useDestinationOptions = {
       statement:
         "A destination a venue or location type page names is labelled by that page's title.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The Craft Bag group's name is read from the craftbag location type page.",
+    },
   ],
 } as const satisfies Module

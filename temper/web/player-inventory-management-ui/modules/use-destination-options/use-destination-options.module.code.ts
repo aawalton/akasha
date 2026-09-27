@@ -44,7 +44,12 @@ export function useDestinationOptions(): DestinationOptions {
     const placeTitle = (key: string): string => (places === null ? key : titleOf(places, key))
     const groups: DestinationCategoryGroup[] = [
       { category: "bank", label: venueTitle("bank"), items: [], defaultValue: "bank" },
-      { category: "craft-bag", label: "Craft Bag", items: [], defaultValue: "craft-bag" },
+      {
+        category: "craft-bag",
+        label: placeTitle("craftbag"),
+        items: [],
+        defaultValue: "craft-bag",
+      },
     ]
 
     const characters = inventory?.currencies?.characters
