@@ -1,10 +1,10 @@
 import { textOf } from "akasha/code/body/modules/body-text/body-text.module.code.ts"
 import {
-  baseOf,
   changeOf,
   diskAt,
 } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
 import { commitThere } from "akasha/git/modules/commit-reading/commit-reading.module.code.ts"
+import { headAt } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import { listedAt } from "akasha/page/index/modules/reading/index-reading.module.code.ts"
 import {
   secretNamed,
@@ -137,7 +137,7 @@ export function reading(given: Reading, asked: Asked, places: Placing = placing)
     if (anyWithheld(given.root, given.asking ?? null, placed.paths)) {
       return { refused: REFUSED_WHOLE, withheld: true, fault: "caller" }
     }
-    const at = named ?? baseOf(given.root)
+    const at = named ?? headAt(given.root)
     const change = changeOf(given.root, at, [])
     const bodies = placed.paths.map((one) => ({
       path: one,

@@ -16,5 +16,17 @@ export const headCommit = {
       decisionKind: "decision-kind/departure",
       statement: "The commit is answered as the hash naming it.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A caller asking often reads that hash off the files git keeps, running no git.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The folder those files sit in is asked of git once for each root, and held.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A hash those files do not hold loose is answered by git.",
+    },
   ],
 } as const satisfies Module

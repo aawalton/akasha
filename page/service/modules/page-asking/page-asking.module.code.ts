@@ -1,5 +1,5 @@
 import { join } from "node:path"
-import { baseOf } from "akasha/command/modules/landing-change-composing/landing-change-composing.module.code.ts"
+import { headAt } from "akasha/git/modules/head-commit/head-commit.module.code.ts"
 import {
   listedAt,
   readingIn,
@@ -320,7 +320,7 @@ export function asking(
 }
 
 export function askingAt(root: string, query: Query, asker: string | null = null): Faulted<Asked> {
-  const at = baseOf(root)
+  const at = headAt(root)
   const asked = asking(root, query, withheldFor(root, asker))
   return "refused" in asked ? asked : { ...asked, at }
 }
