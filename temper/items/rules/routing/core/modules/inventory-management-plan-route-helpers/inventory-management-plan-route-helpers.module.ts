@@ -16,5 +16,9 @@ export const inventoryManagementPlanRouteHelpers = {
       decisionKind: "decision-kind/departure",
       statement: "An item with no captured value contributes nothing to a total.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The furniture vault is named by its venue page's title.",
+    },
   ],
 } as const satisfies Module
