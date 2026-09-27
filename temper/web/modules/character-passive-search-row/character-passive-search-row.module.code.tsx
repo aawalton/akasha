@@ -3,7 +3,7 @@ import { FilterButton } from "akasha/design/interface/pattern/modules/filter-but
 import { SearchButton } from "akasha/design/interface/pattern/modules/search-button/search-button.module.code.tsx"
 import { SearchSortFilterRow } from "akasha/design/interface/pattern/modules/search-sort-filter-row/search-sort-filter-row.module.code.tsx"
 import {
-  PASSIVE_CATEGORY_FILTER_ITEMS,
+  usePassiveCategoryFilterItems,
   type usePassiveFilter,
 } from "akasha/temper/web/modules/use-passive-filter/use-passive-filter.module.code.ts"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
@@ -16,6 +16,7 @@ export interface CharacterPassiveSearchRowProps {
 
 export function CharacterPassiveSearchRow({ filter }: CharacterPassiveSearchRowProps) {
   const phrase = usePhrase()
+  const categoryItems = usePassiveCategoryFilterItems()
   const { passiveCategory } = filter
   return (
     <SearchSortFilterRow
@@ -31,7 +32,7 @@ export function CharacterPassiveSearchRow({ filter }: CharacterPassiveSearchRowP
         <div className="flex flex-col gap-2">
           <div className="font-medium text-sm">{phrase(characterEditorContentCategory.slug)}</div>
           <BadgeToggleGroup
-            items={PASSIVE_CATEGORY_FILTER_ITEMS}
+            items={categoryItems}
             value={passiveCategory != null ? [{ value: passiveCategory, label: "" }] : []}
             onSelect={filter.handlePassiveCategorySelect}
             unselectedVariant="elevation-muted"

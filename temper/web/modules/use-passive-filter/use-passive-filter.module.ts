@@ -6,4 +6,10 @@ export const usePassiveFilter = {
   slug: "use-passive-filter",
   definition: "the hook filtering passive skills",
   code: "ts",
+  decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The category names it offers are the skill line category pages' titles.",
+    },
+  ],
 } as const satisfies Module

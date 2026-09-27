@@ -9,7 +9,7 @@ export const characterPassiveSearchRow = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
-      statement: "Its wording is read from web phrase pages.",
+      statement: "Its wording is read from web phrase pages and the skill line category pages.",
     },
   ],
 } as const satisfies Module
