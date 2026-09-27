@@ -24,5 +24,9 @@ export const theDatingGame00021 = {
     "Ahead, the trail follows the stream on around the hill.",
     "A side path climbs back up toward the Broadcasting Building, and another drops toward home.",
   ],
+  issues: [
+    '"A side path climbs back up ..., and another drops away downhill, toward home." - No Prompt',
+  ],
   lore: ["place/the-dating-game-byu-stream-trail"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
