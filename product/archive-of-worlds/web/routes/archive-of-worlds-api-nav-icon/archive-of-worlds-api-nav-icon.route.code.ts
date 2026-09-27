@@ -23,6 +23,6 @@ export async function loader({ params }: { params: { idSuffix: string } }): Prom
   const svg = await buildNavIconSvg(iconName, NAV_ICON_ACCENT, ARCHIVE_OF_WORLDS_STROKE_WIDTH)
 
   headers.set("Content-Type", "image/svg+xml; charset=utf-8")
-  headers.set("Cache-Control", "private, max-age=300")
+  headers.set("Cache-Control", "no-cache")
   return new Response(svg, { headers })
 }

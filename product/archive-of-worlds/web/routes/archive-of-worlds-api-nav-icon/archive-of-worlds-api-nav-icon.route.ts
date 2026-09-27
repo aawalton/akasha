@@ -7,4 +7,10 @@ export const archiveOfWorldsApiNavIcon = {
   definition: "the icon drawn for a nav entry",
   code: "ts",
   urlPath: "api/nav-icon/:idSuffix",
+  decisions: [
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "No browser keeps an icon, so a changed nav icon is drawn at once.",
+    },
+  ],
 } as const satisfies Route

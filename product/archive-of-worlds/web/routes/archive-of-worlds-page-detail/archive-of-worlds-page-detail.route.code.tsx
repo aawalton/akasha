@@ -1,90 +1,19 @@
 import {
-  getPageByIdSuffix,
-  getPageByIdSuffixAcrossTypes,
-} from "akasha/page/access/modules/get/get.module.code.ts"
-import { getDescendantPageTypeSlugs } from "akasha/page/access/modules/page-type/page-type.module.code.ts"
-import { PageDetailContent } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
-import { ViewPageContent } from "akasha/page/ui/component/modules/view-page-content/view-page-content.module.code.tsx"
-import { parsePageHrefParam } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
-import { toPageTypeSlug } from "akasha/page/url/modules/page-type-slug/page-type-slug.module.code.ts"
-import { data } from "react-router"
+  type PageDetailLoaderData,
+  PageDetailView,
+  pageDetailData,
+  pageDetailMeta,
+} from "akasha/alan/harness/web-page-answer/modules/page-detail-loader/page-detail-loader.module.code.tsx"
 import type { Route } from "./+types/archive-of-worlds-page-detail.route.code"
 
-const NAV_SLUG = "nav"
-
-export function meta({ data: loaderData }: Route.MetaArgs) {
-  if (loaderData?.faviconIdSuffix == null) return []
-  return [
-    {
-      tagName: "link",
-      rel: "icon",
-      href: `/api/nav-icon/${loaderData.faviconIdSuffix}`,
-      type: "image/svg+xml",
-      sizes: "any",
-    },
-  ]
-}
-
 export async function loader({ params }: Route.LoaderArgs) {
-  const { pageTypeSlug, pageHrefParam } = params
-
-  const parsed = parsePageHrefParam(pageHrefParam)
-  if (!parsed) {
-    throw new Response("Not Found", { status: 404 })
-  }
-
-  if (pageTypeSlug === NAV_SLUG) {
-    return data({
-      kind: "nav" as const,
-      pageTypeSlug,
-      pageHrefParam,
-      faviconIdSuffix: parsed.idSuffix,
-    })
-  }
-
-  const brandedSlug = toPageTypeSlug(pageTypeSlug)
-
-  const exact = await getPageByIdSuffix({
-    pageTypeSlug: brandedSlug,
-    idSuffix: parsed.idSuffix,
-    slug: parsed.slug ?? undefined,
-    select: ["id"],
-  })
-
-  let resolvedSlug = pageTypeSlug
-  let id: string | null = exact && typeof exact.id === "string" ? exact.id : null
-
-  if (id == null) {
-    const subtree = await getDescendantPageTypeSlugs(brandedSlug)
-    if (subtree.length > 1) {
-      const resolved = await getPageByIdSuffixAcrossTypes({
-        pageTypeSlugs: subtree,
-        idSuffix: parsed.idSuffix,
-        slug: parsed.slug ?? undefined,
-      })
-      if (resolved && typeof resolved.id === "string") {
-        id = resolved.id
-        if (typeof resolved.pageTypeSlug === "string") resolvedSlug = resolved.pageTypeSlug
-      }
-    }
-  }
-
-  if (id == null) {
-    throw new Response("Not Found", { status: 404 })
-  }
-
-  return data({
-    kind: "detail" as const,
-    pageTypeSlug: resolvedSlug,
-    id,
-    faviconIdSuffix: null,
-  })
+  return pageDetailData(params)
 }
 
-export default function PageDetailRoute({ loaderData }: Route.ComponentProps) {
-  if (loaderData.kind === "nav") {
-    return <ViewPageContent navItemIdParam={loaderData.pageHrefParam} />
-  }
-  const brandedSlug = toPageTypeSlug(loaderData.pageTypeSlug)
-  return <PageDetailContent pageTypeSlug={brandedSlug} id={loaderData.id} />
+export function meta({ data: loaderData }: { data: PageDetailLoaderData | undefined }) {
+  return pageDetailMeta(loaderData)
+}
+
+export default function PageDetailRoute({ loaderData }: { loaderData: PageDetailLoaderData }) {
+  return <PageDetailView loaderData={loaderData} />
 }
