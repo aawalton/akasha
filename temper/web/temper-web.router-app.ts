@@ -283,6 +283,7 @@ export const temperWeb = {
     "module/temper-declared-effects",
     "module/temper-handover-site",
     "module/temper-pages-resolver",
+    "module/temper-query-error-boundary",
     "module/text-area-panel-card",
     "module/timing-badges",
     "module/trait-research-progress-panel-card",

@@ -7,7 +7,6 @@ import {
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { listPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
-import { QueryErrorBoundary } from "akasha/design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import {
   PageTabsTrigger,
@@ -36,6 +35,7 @@ import {
 } from "akasha/temper/web/modules/companions-filter-types/companions-filter-types.module.code.ts"
 import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate/metric-catalog-gate.module.code.tsx"
 import { NewCompanionButton } from "akasha/temper/web/modules/new-companion-button/new-companion-button.module.code.tsx"
+import { TemperQueryErrorBoundary } from "akasha/temper/web/modules/temper-query-error-boundary/temper-query-error-boundary.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { companionsPageContentBrowse } from "akasha/temper/web/phrase/pages/companions-page-content-browse.temper-web-phrase.ts"
 import { companionsPageContentBuild } from "akasha/temper/web/phrase/pages/companions-page-content-build.temper-web-phrase.ts"
@@ -218,7 +218,7 @@ export function CompanionsPageContent({
         </PageLayout.Tabs>
 
         <PageLayout.Content>
-          <QueryErrorBoundary>
+          <TemperQueryErrorBoundary>
             <Suspense fallback={<ListContentSkeleton />}>
               <CompanionCatalogGate fallback={<ListContentSkeleton />}>
                 {() => (
@@ -236,7 +236,7 @@ export function CompanionsPageContent({
                 )}
               </CompanionCatalogGate>
             </Suspense>
-          </QueryErrorBoundary>
+          </TemperQueryErrorBoundary>
         </PageLayout.Content>
       </Tabs>
     </PageLayout>

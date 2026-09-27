@@ -16,7 +16,6 @@ import {
   EmptyMedia,
   EmptyTitle,
 } from "akasha/design/interface/pattern/modules/empty/empty.module.code.tsx"
-import { QueryErrorBoundary } from "akasha/design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
 import { PagesUILink as Link } from "akasha/page/ui/modules/navigation-context/navigation-context.module.code.tsx"
 import { decodeBuild } from "akasha/temper/player/character/build/build-codec/modules/build-codec/build-codec.module.code.ts"
@@ -35,6 +34,7 @@ import { RecentCharactersCard } from "akasha/temper/web/modules/recent-character
 import { RecentCompanionsCard } from "akasha/temper/web/modules/recent-companions-card/recent-companions-card.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
+import { TemperQueryErrorBoundary } from "akasha/temper/web/modules/temper-query-error-boundary/temper-query-error-boundary.module.code.tsx"
 import { useHeldCompanionCatalog } from "akasha/temper/web/modules/use-companion-catalog/use-companion-catalog.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { homePageContentBringCharacters } from "akasha/temper/web/phrase/pages/home-page-content-bring-characters.temper-web-phrase.ts"
@@ -55,7 +55,7 @@ export function HomePageContent() {
         <PageTitle>{phrase(homePageContentTitle.slug)}</PageTitle>
       </PageLayout.Header>
       <PageLayout.Content>
-        <QueryErrorBoundary>
+        <TemperQueryErrorBoundary>
           <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
             <CompanionCatalogGate fallback={<ListContentSkeleton showTabTitle={false} />}>
               {() => (
@@ -69,7 +69,7 @@ export function HomePageContent() {
               )}
             </CompanionCatalogGate>
           </Suspense>
-        </QueryErrorBoundary>
+        </TemperQueryErrorBoundary>
       </PageLayout.Content>
     </PageLayout>
   )

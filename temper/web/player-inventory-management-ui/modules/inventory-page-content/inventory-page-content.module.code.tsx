@@ -7,7 +7,6 @@ import {
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
-import { QueryErrorBoundary } from "akasha/design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import {
   PageTabsTrigger,
@@ -16,6 +15,7 @@ import {
   TabsList,
 } from "akasha/design/interface/pattern/modules/tabs/tabs.module.code.tsx"
 import { useFilterPersistence } from "akasha/design/interface/pattern/modules/use-filter-persistence/use-filter-persistence.module.code.ts"
+import { TemperQueryErrorBoundary } from "akasha/temper/web/modules/temper-query-error-boundary/temper-query-error-boundary.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { inventoryPageContentByLocation } from "akasha/temper/web/phrase/pages/inventory-page-content-by-location.temper-web-phrase.ts"
 import { inventoryPageContentByType } from "akasha/temper/web/phrase/pages/inventory-page-content-by-type.temper-web-phrase.ts"
@@ -289,7 +289,7 @@ export function InventoryPageContent({
         </PageLayout.Tabs>
         <PageLayout.Content>
           <TabsContent value="rules">
-            <QueryErrorBoundary>
+            <TemperQueryErrorBoundary>
               <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
                 <InventoryRulesTab
                   ruleStatus={values.ruleStatus}
@@ -314,10 +314,10 @@ export function InventoryPageContent({
                   deferred={deferred}
                 />
               </Suspense>
-            </QueryErrorBoundary>
+            </TemperQueryErrorBoundary>
           </TabsContent>
           <TabsContent value="type">
-            <QueryErrorBoundary>
+            <TemperQueryErrorBoundary>
               <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
                 <InventoryTypeDataContent
                   search={values.search}
@@ -339,10 +339,10 @@ export function InventoryPageContent({
                   deferred={deferred}
                 />
               </Suspense>
-            </QueryErrorBoundary>
+            </TemperQueryErrorBoundary>
           </TabsContent>
           <TabsContent value="location">
-            <QueryErrorBoundary>
+            <TemperQueryErrorBoundary>
               <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
                 <InventoryLocationDataContent
                   search={values.search}
@@ -364,7 +364,7 @@ export function InventoryPageContent({
                   deferred={deferred}
                 />
               </Suspense>
-            </QueryErrorBoundary>
+            </TemperQueryErrorBoundary>
           </TabsContent>
         </PageLayout.Content>
       </Tabs>

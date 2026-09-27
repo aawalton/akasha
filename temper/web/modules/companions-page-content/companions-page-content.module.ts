@@ -15,5 +15,9 @@ export const companionsPageContent = {
       decisionKind: "decision-kind/departure",
       statement: "Its wording is read from web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Content that fails to load is worded by the Temper query error boundary.",
+    },
   ],
 } as const satisfies Module

@@ -11,5 +11,9 @@ export const inventoryPageContent = {
       decisionKind: "decision-kind/departure",
       statement: "The page title and tab names are web phrase pages.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "Content that fails to load is worded by the Temper query error boundary.",
+    },
   ],
 } as const satisfies Module

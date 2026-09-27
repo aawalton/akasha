@@ -1,10 +1,10 @@
 import type { Module } from "akasha/code/module/module.page-type.types.ts"
 
-export const charactersPageContent = {
-  id: "01a0642c-5b93-7865-a089-1fc284f52edb",
+export const temperQueryErrorBoundary = {
+  id: "01a0e2ef-9f7b-7112-92f7-3db49e72b28f",
   type: "page-type/module",
-  slug: "characters-page-content",
-  definition: "what the characters page has",
+  slug: "temper-query-error-boundary",
+  definition: "the query error boundary a Temper screen holds, worded by web phrase pages",
   code: "tsx",
   decisions: [
     {
@@ -13,7 +13,7 @@ export const charactersPageContent = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Content that fails to load is worded by the Temper query error boundary.",
+      statement: "A failure shows the same generic wording whatever the error was.",
     },
   ],
 } as const satisfies Module

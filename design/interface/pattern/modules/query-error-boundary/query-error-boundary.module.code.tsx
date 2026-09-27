@@ -14,17 +14,22 @@ import {
   CardContent,
 } from "akasha/design/interface/primitive/modules/card/card.module.code.tsx"
 import { FolderOpen } from "lucide-react"
-import { Component, type ReactNode } from "react"
+import { Component, type ErrorInfo, type ReactNode } from "react"
+
+type QueryErrorBoundaryWording = {
+  readonly title: string
+  readonly description: string
+  readonly retry: string
+}
 
 type QueryErrorBoundaryProps = {
   children: ReactNode
+  wording: QueryErrorBoundaryWording
 }
 
 type QueryErrorBoundaryState = {
   error: Error | null
 }
-
-const THREW = "An error occurred"
 
 export class QueryErrorBoundary extends Component<
   QueryErrorBoundaryProps,
@@ -39,9 +44,14 @@ export class QueryErrorBoundary extends Component<
     return { error }
   }
 
+  componentDidCatch(error: Error, info: ErrorInfo): undefined {
+    console.error("[query-error-boundary] content failed to load:", error, info.componentStack)
+  }
+
   render(): ReactNode {
     const held = this.state.error
     if (held === null) return this.props.children
+    const { wording } = this.props
     return (
       <Card>
         <CardContent>
@@ -50,8 +60,8 @@ export class QueryErrorBoundary extends Component<
               <EmptyMedia variant="icon">
                 <FolderOpen />
               </EmptyMedia>
-              <EmptyTitle>Failed to load</EmptyTitle>
-              <EmptyDescription>{held.message === "" ? THREW : held.message}</EmptyDescription>
+              <EmptyTitle>{wording.title}</EmptyTitle>
+              <EmptyDescription>{wording.description}</EmptyDescription>
             </EmptyHeader>
             <EmptyContent>
               <Button
@@ -61,7 +71,7 @@ export class QueryErrorBoundary extends Component<
                   this.setState({ error: null })
                 }}
               >
-                Try again
+                {wording.retry}
               </Button>
             </EmptyContent>
           </Empty>

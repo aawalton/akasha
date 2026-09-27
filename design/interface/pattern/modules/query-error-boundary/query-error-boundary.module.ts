@@ -4,7 +4,7 @@ export const queryErrorBoundary = {
   id: "01a061ed-653b-73ef-8556-969d798ee2a5",
   type: "page-type/module",
   slug: "query-error-boundary",
-  definition: "the boundary showing a failed query's error where its content would be",
+  definition: "the boundary showing that a query failed where its content would be",
   code: "tsx",
   decisions: [
     {
@@ -16,8 +16,16 @@ export const queryErrorBoundary = {
       statement: "React offers no function form of an error boundary.",
     },
     {
+      decisionKind: "decision-kind/departure",
+      statement: "An error caught is logged to the console.",
+    },
+    {
       decisionKind: "decision-kind/absence",
-      statement: "Nothing is logged where an error is caught.",
+      statement: "The boundary shows no error's own text.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The screen holding the boundary hands it every word it shows.",
     },
     {
       decisionKind: "decision-kind/departure",

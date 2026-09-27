@@ -7,7 +7,6 @@ import {
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { listPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
-import { QueryErrorBoundary } from "akasha/design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import type { SortDirection } from "akasha/design/interface/pattern/modules/sort-types/sort-types.module.code.ts"
 import {
   PageTabsTrigger,
@@ -33,6 +32,7 @@ import { MetricCatalogGate } from "akasha/temper/web/modules/metric-catalog-gate
 import { NewCharacterButton } from "akasha/temper/web/modules/new-character-button/new-character-button.module.code.tsx"
 import { SetCatalogGate } from "akasha/temper/web/modules/set-catalog-gate/set-catalog-gate.module.code.tsx"
 import { SkillCatalogGate } from "akasha/temper/web/modules/skill-catalog-gate/skill-catalog-gate.module.code.tsx"
+import { TemperQueryErrorBoundary } from "akasha/temper/web/modules/temper-query-error-boundary/temper-query-error-boundary.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { charactersPageContentCharacterBuilds } from "akasha/temper/web/phrase/pages/characters-page-content-character-builds.temper-web-phrase.ts"
 import { ChevronLeft, Gamepad2, Hammer, Search, Trophy } from "lucide-react"
@@ -159,7 +159,7 @@ export function CharactersPageContent({
       </PageLayout.Tabs>
 
       <PageLayout.Content>
-        <QueryErrorBoundary>
+        <TemperQueryErrorBoundary>
           <Suspense fallback={<ListContentSkeleton />}>
             <SkillCatalogGate fallback={<ListContentSkeleton />}>
               {() => (
@@ -186,7 +186,7 @@ export function CharactersPageContent({
               )}
             </SkillCatalogGate>
           </Suspense>
-        </QueryErrorBoundary>
+        </TemperQueryErrorBoundary>
       </PageLayout.Content>
     </PageLayout>
   )

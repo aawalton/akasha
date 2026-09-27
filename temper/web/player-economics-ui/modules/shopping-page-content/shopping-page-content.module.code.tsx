@@ -6,7 +6,6 @@ import {
   PageTitle,
 } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { tabbedPageSkeleton } from "akasha/design/interface/layout/modules/skeleton-presets/skeleton-presets.module.code.ts"
-import { QueryErrorBoundary } from "akasha/design/interface/pattern/modules/query-error-boundary/query-error-boundary.module.code.tsx"
 import {
   PageTabsTrigger,
   Tabs,
@@ -18,6 +17,7 @@ import {
   type CompanionEquipmentQualityId,
   isCompanionEquipmentQualityId,
 } from "akasha/temper/catalog/companion/companions-core/modules/companion-equipment-qualities/companion-equipment-qualities.module.code.ts"
+import { TemperQueryErrorBoundary } from "akasha/temper/web/modules/temper-query-error-boundary/temper-query-error-boundary.module.code.tsx"
 import { usePhrase } from "akasha/temper/web/modules/use-web-phrases/use-web-phrases.module.code.tsx"
 import { shoppingPageContentCompanionTab } from "akasha/temper/web/phrase/pages/shopping-page-content-companion-tab.temper-web-phrase.ts"
 import { shoppingPageContentListTab } from "akasha/temper/web/phrase/pages/shopping-page-content-list-tab.temper-web-phrase.ts"
@@ -141,7 +141,7 @@ export function ShoppingPageContent({
 
         <PageLayout.Content>
           <TabsContent value="list">
-            <QueryErrorBoundary>
+            <TemperQueryErrorBoundary>
               <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
                 <ShoppingListTabContent
                   userId={userId}
@@ -150,11 +150,11 @@ export function ShoppingPageContent({
                   onUpdateShoppingMarks={onUpdateShoppingMarks}
                 />
               </Suspense>
-            </QueryErrorBoundary>
+            </TemperQueryErrorBoundary>
           </TabsContent>
 
           <TabsContent value="companion">
-            <QueryErrorBoundary>
+            <TemperQueryErrorBoundary>
               <Suspense fallback={<ListContentSkeleton showTabTitle={false} />}>
                 <CompanionShoppingDataContent
                   userId={userId}
@@ -164,7 +164,7 @@ export function ShoppingPageContent({
                   onFilterChange={update}
                 />
               </Suspense>
-            </QueryErrorBoundary>
+            </TemperQueryErrorBoundary>
           </TabsContent>
         </PageLayout.Content>
       </Tabs>

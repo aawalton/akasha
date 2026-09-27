@@ -6353,6 +6353,7 @@
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-declared-effects/temper-declared-effects.module.ts","id":"01a0640f-8510-7199-93a8-3fa778720f68"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-handover-site/temper-handover-site.module.ts","id":"01a0bb8f-a5d0-75ce-a592-e0fdb309ce8c"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/temper-pages-resolver/temper-pages-resolver.module.ts","id":"01a0640f-8510-7c72-8ea7-ff3cbcdf74b3"}
+{"propertySlug":"decision-kind","path":"temper/web/modules/temper-query-error-boundary/temper-query-error-boundary.module.ts","id":"01a0e2ef-9f7b-7112-92f7-3db49e72b28f"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/timing-badges/timing-badges.module.ts","id":"01a06421-2523-7dae-9237-ae7ee8a3066a"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/trait-research-progress-panel-card/trait-research-progress-panel-card.module.ts","id":"01a06421-f74b-7a5d-8386-b8848da70038"}
 {"propertySlug":"decision-kind","path":"temper/web/modules/ttc-listing-client/ttc-listing-client.module.ts","id":"01a0609f-a419-7ed6-80f9-4695f2d6e695"}
