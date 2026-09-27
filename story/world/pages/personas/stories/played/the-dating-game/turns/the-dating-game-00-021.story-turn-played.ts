@@ -10,7 +10,7 @@ export const theDatingGame00021 = {
   position: 21,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "While I’m on campus, I decide to take a leisurely walk on the quiet trail next to the stream circling campus, halfway down the hill",
   beats: [
@@ -29,5 +29,6 @@ export const theDatingGame00021 = {
   ],
   lore: ["place/the-dating-game-byu-stream-trail"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T12:25:00.000Z",
 } as const satisfies StoryTurnPlayed
