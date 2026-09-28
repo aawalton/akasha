@@ -4,10 +4,13 @@ export const otherwhereIii00011 = {
   id: "01a0ea55-7830-7903-88bd-aac75c2cf41a",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-011",
+  ownLength: 602,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 11,
-  stepStatus: "step-status/writer",
+  prose: "txt",
+  characters: ["character-player/otherwhere-iii-nala"],
+  stepStatus: "step-status/reviewers",
   action:
     "I watch the TV screen quietly, gathering information to help me get oriented and blend into this new world.",
   beats: [
