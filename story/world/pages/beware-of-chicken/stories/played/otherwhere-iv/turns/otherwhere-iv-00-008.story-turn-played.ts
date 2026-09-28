@@ -10,7 +10,7 @@ export const otherwhereIv00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala", "character-other/otherwhere-iv-zhao-jun"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"This is a deep secret, and in some places men have died for speaking it. I would not want to risk your repaying your hospitality with unkindness, so let me test your readiness for this secret first. When the sun rises in the morning and sets in the evening, what is moving?"',
   beats: [
@@ -34,6 +34,6 @@ export const otherwhereIv00008 = {
     '"Now, if you please: why does the moon wax and wane?"',
   ],
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-heavens-and-dao"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T08:39:00.000Z",
 } as const satisfies StoryTurnPlayed
