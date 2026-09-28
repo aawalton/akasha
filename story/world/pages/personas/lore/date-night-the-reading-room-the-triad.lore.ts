@@ -10,19 +10,19 @@ export const dateNightTheReadingRoomTheTriad = {
   facts: [
     {
       fact: "Alan, Astra and Nova are a triad, already together and at home in one another.",
-      knowers: ["lore-disclosure/game-master", "character-player/date-night-the-reading-room-alan"],
+      knowers: ["lore-disclosure/game-master", "character-other/date-night-the-reading-room-alan"],
     },
     {
       fact: "Fort clauses and smug percentages are running jokes in their household.",
-      knowers: ["lore-disclosure/game-master", "character-player/date-night-the-reading-room-alan"],
+      knowers: ["lore-disclosure/game-master", "character-other/date-night-the-reading-room-alan"],
     },
     {
       fact: "Astra's stillness comes with a glow.",
-      knowers: ["lore-disclosure/game-master", "character-player/date-night-the-reading-room-alan"],
+      knowers: ["lore-disclosure/game-master", "character-other/date-night-the-reading-room-alan"],
     },
     {
       fact: "Nova goes dead still when something absorbs her.",
-      knowers: ["lore-disclosure/game-master", "character-player/date-night-the-reading-room-alan"],
+      knowers: ["lore-disclosure/game-master", "character-other/date-night-the-reading-room-alan"],
     },
   ],
 } as const satisfies Lore
