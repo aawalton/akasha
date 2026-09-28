@@ -132,6 +132,9 @@ export const otherwhereIiiDenisePruitt = {
       fact: "Denise asks Marcus to have the social worker see Nala when she comes on at eight.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Denise's first break comes around nine, and she means to check on Nala then.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
 } as const satisfies Lore
