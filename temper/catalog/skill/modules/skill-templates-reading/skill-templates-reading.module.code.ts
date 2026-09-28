@@ -36,7 +36,7 @@ import {
 } from "akasha/temper/player/completion/temper-player-completion/modules/completion-page-reading/completion-page-reading.module.code.ts"
 import { temperMetricTree } from "akasha/temper/player/progress/temper-metric-tree/temper-metric-tree.page-type.ts"
 
-export const SKILL_KEYED_BY: readonly (readonly [string, string])[] = [
+const SKILL_KEYED_BY: readonly (readonly [string, string])[] = [
   [temperSkillLine.slug, "key"],
   [temperSkillType.slug, "key"],
   [temperGrimoire.slug, "key"],
@@ -51,7 +51,7 @@ export const SKILL_KEYED_BY: readonly (readonly [string, string])[] = [
   [temperMetricTree.slug, "nodeId"],
 ]
 
-export const SKILL_FIELDS: readonly string[] = [
+const SKILL_FIELDS: readonly string[] = [
   "slug",
   "key",
   "title",
@@ -70,11 +70,7 @@ export const SKILL_FIELDS: readonly string[] = [
   "hashPlace",
 ]
 
-export const SCRIBED_SKILL_FIELDS: readonly string[] = [
-  ...SKILL_FIELDS,
-  "grimoireId",
-  "focusScriptId",
-]
+const SCRIBED_SKILL_FIELDS: readonly string[] = [...SKILL_FIELDS, "grimoireId", "focusScriptId"]
 
 const NO_SKILL = "no-skill"
 
@@ -88,7 +84,7 @@ const FOREVER = "seconds"
 
 export class SkillUnkeyed extends Error {}
 
-export type SkillKeys = {
+type SkillKeys = {
   readonly names: (said: unknown) => boolean
   readonly of: (said: unknown, where: string) => string
 }
@@ -181,12 +177,12 @@ function inPlace<Row extends Value>(rows: Iterable<Row>): readonly Row[] {
   )
 }
 
-export type SkillTemplates = {
+type SkillTemplates = {
   readonly skills: readonly SkillTemplate[]
   readonly scribedSkills: readonly ScribedSkillTemplate[]
 }
 
-export const SCRIPT_FIELDS: readonly string[] = [
+const SCRIPT_FIELDS: readonly string[] = [
   "slug",
   "key",
   "title",
@@ -217,7 +213,7 @@ function scriptOf(row: Value): ScriptTemplate {
   }
 }
 
-export function scriptTemplatesOf(rows: Iterable<Value>): readonly ScriptTemplate[] {
+function scriptTemplatesOf(rows: Iterable<Value>): readonly ScriptTemplate[] {
   return inPlace(rows).map(scriptOf)
 }
 
@@ -237,7 +233,7 @@ export function skillTemplatesOf(
   }
 }
 
-export const GRIMOIRE_FIELDS: readonly string[] = [
+const GRIMOIRE_FIELDS: readonly string[] = [
   "slug",
   "key",
   "title",
@@ -289,7 +285,7 @@ function grimoireOf(row: Value, keys: SkillKeys): GrimoireTemplate {
   } as GrimoireTemplate
 }
 
-export const LINE_FIELDS: readonly string[] = [
+const LINE_FIELDS: readonly string[] = [
   "slug",
   "key",
   "title",
