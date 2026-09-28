@@ -31,6 +31,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Triage asks name, birth date and address; a patient may give none and still be seen.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A patient with no ID is logged under a placeholder name until she gives one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
