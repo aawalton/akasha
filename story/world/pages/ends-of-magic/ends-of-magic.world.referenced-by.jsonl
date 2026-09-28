@@ -114,6 +114,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-human.lore.ts","id":"01a0e9f2-ad9d-7f6c-9f4f-7b22d446e18a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-insight.lore.ts","id":"01a0e9f8-2dc5-7c21-bf26-bbf2c58c3fd3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-itonia.lore.ts","id":"01a0e9f7-12e8-79bc-9a3a-674e06223dd7"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-keihonia.lore.ts","id":"01a0e9fa-5276-7922-8358-318e5a6c1ee1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-knuld.lore.ts","id":"01a0e9f4-0047-7c65-bc2b-b122456fb6cd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-levels.lore.ts","id":"01a0e9f5-a5d5-793c-bc32-493bc44b9eea"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-leviathan.lore.ts","id":"01a0e9fa-0d15-7d08-acac-eb60bf12a931"}
@@ -136,6 +137,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ranks.lore.ts","id":"01a0e9f5-a5d6-7c9e-991f-48643d63340f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-recognition.lore.ts","id":"01a0e9f2-0287-70eb-a91d-b85d7384a3c7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-roni.lore.ts","id":"01a0e9f9-115f-77ee-9a5b-9304a5ffae23"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sangrad.lore.ts","id":"01a0e9fa-527b-72e2-b3d4-469f8d5068d5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sarah.lore.ts","id":"01a0e9f8-7a17-7d21-9ef7-5cc105b5edd0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sarya.lore.ts","id":"01a0e9f6-e50a-7ce2-b976-0be135f4c73c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sea-monster.lore.ts","id":"01a0e9fa-0d15-710b-85ad-539d048efd51"}
@@ -207,7 +209,9 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-giantsrest-dominion.world-organization.ts","id":"01a0e9f3-5ca5-7770-9e44-0d5d426ee13a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-guardians-of-esebus.world-organization.ts","id":"01a0e9f8-bd22-7985-80f1-620339ec9750"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-itonia.world-organization.ts","id":"01a0e9f7-12e8-7507-afbe-ea00ff423668"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-keihonia.world-organization.ts","id":"01a0e9fa-527c-750d-a2e6-e5d0c31506a2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-litcliff.world-organization.ts","id":"01a0e9f6-77ec-7beb-a73a-ba37606d0eef"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-sangrad.world-organization.ts","id":"01a0e9fa-527c-77cf-ac76-73f2bfab1723"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-seers-of-itonia.world-organization.ts","id":"01a0e9f7-12e8-7de1-b4d5-d6def4e0c35a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-siblings-of-itonia.world-organization.ts","id":"01a0e9f7-12e9-76c5-8fd6-0511a2d76591"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-the-nails.world-organization.ts","id":"01a0e9f4-5851-7b0a-9b2f-f797d786c8fd"}
