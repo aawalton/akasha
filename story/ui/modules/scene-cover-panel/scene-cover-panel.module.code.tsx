@@ -12,8 +12,8 @@ import {
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import type { ClientStoryTurn } from "akasha/story/ui/modules/client-story-session/client-story-session.module.code.ts"
 import type { PlayedTurnCover } from "akasha/story/ui/played-panel/modules/panel-drawing/panel-drawing.module.code.ts"
-import { ChevronLeft, ChevronRight } from "lucide-react"
-import { useState } from "react"
+import { ChevronLeft, ChevronRight, ChevronsLeft, ChevronsRight } from "lucide-react"
+import { type ReactNode, useState } from "react"
 
 const ONE = 1
 
@@ -39,6 +39,29 @@ export function pagedAt(covers: readonly TurnCover[], picked: string | null): nu
   return at === -1 ? covers.length - 1 : at
 }
 
+export type Step = "first" | "earlier" | "later" | "last"
+
+export function steppedTo(
+  covers: readonly TurnCover[],
+  at: number,
+  step: Step
+): TurnCover | undefined {
+  const to = { first: 0, earlier: at - ONE, later: at + ONE, last: covers.length - ONE }[step]
+  return to === at ? undefined : covers[to]
+}
+
+type StepButton = { readonly step: Step; readonly label: string; readonly icon: ReactNode }
+
+const BEFORE: readonly StepButton[] = [
+  { step: "first", label: "First turn", icon: <ChevronsLeft aria-hidden /> },
+  { step: "earlier", label: "Earlier turn", icon: <ChevronLeft aria-hidden /> },
+]
+
+const AFTER: readonly StepButton[] = [
+  { step: "later", label: "Later turn", icon: <ChevronRight aria-hidden /> },
+  { step: "last", label: "Latest turn", icon: <ChevronsRight aria-hidden /> },
+]
+
 type ScenePanelProps = {
   readonly turns: readonly ClientStoryTurn[]
   readonly turnCovers: readonly PlayedTurnCover[]
@@ -52,37 +75,32 @@ export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
   const at = pagedAt(covers, pickedFor(paged, turnId))
   const shown = covers[at]
   if (shown === undefined) return null
-  const earlier = covers[at - 1]
-  const later = covers[at + 1]
+  const stepped = ({ step, label, icon }: StepButton) => {
+    const to = steppedTo(covers, at, step)
+    return (
+      <Button
+        key={step}
+        variant="secondary"
+        size="icon-sm"
+        aria-label={label}
+        disabled={to === undefined}
+        onClick={() => {
+          if (to !== undefined) setPaged({ from: turnId, to: to.id })
+        }}
+      >
+        {icon}
+      </Button>
+    )
+  }
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
       <figure className="flex flex-col gap-2">
         <PageCover coverUrl={shown.source} />
         {covers.length > ONE ? (
           <figcaption className="flex items-center justify-between">
-            <Button
-              variant="secondary"
-              size="icon-sm"
-              aria-label="Earlier turn"
-              disabled={earlier === undefined}
-              onClick={() => {
-                if (earlier !== undefined) setPaged({ from: turnId, to: earlier.id })
-              }}
-            >
-              <ChevronLeft aria-hidden />
-            </Button>
+            <span className="flex gap-1">{BEFORE.map(stepped)}</span>
             <span className="font-mono text-[12px] text-secondary">Turn {shown.number}</span>
-            <Button
-              variant="secondary"
-              size="icon-sm"
-              aria-label="Later turn"
-              disabled={later === undefined}
-              onClick={() => {
-                if (later !== undefined) setPaged({ from: turnId, to: later.id })
-              }}
-            >
-              <ChevronRight aria-hidden />
-            </Button>
+            <span className="flex gap-1">{AFTER.map(stepped)}</span>
           </figcaption>
         ) : null}
       </figure>

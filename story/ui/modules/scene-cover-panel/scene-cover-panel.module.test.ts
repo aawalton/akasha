@@ -3,6 +3,7 @@ import { COVER_WIDTH_ASKED } from "akasha/story/ui/modules/character-cover-panel
 import {
   pagedAt,
   pickedFor,
+  steppedTo,
   turnCoversOf,
 } from "akasha/story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx"
 
@@ -33,6 +34,22 @@ test("the paging opens on the latest turn with a cover", () => {
   expect(pagedAt(covers, null)).toBe(1)
   expect(pagedAt(covers, "a")).toBe(0)
   expect(pagedAt(covers, "gone")).toBe(1)
+})
+
+test("first and last jump to the ends, and a step stops at each end", () => {
+  const covers = [
+    { id: "a", number: 1, source: "" },
+    { id: "b", number: 2, source: "" },
+    { id: "c", number: 3, source: "" },
+  ]
+  expect(steppedTo(covers, 1, "first")?.id).toBe("a")
+  expect(steppedTo(covers, 1, "last")?.id).toBe("c")
+  expect(steppedTo(covers, 1, "earlier")?.id).toBe("a")
+  expect(steppedTo(covers, 1, "later")?.id).toBe("c")
+  expect(steppedTo(covers, 0, "first")).toBeUndefined()
+  expect(steppedTo(covers, 0, "earlier")).toBeUndefined()
+  expect(steppedTo(covers, 2, "last")).toBeUndefined()
+  expect(steppedTo(covers, 2, "later")).toBeUndefined()
 })
 
 test("a turn paged to holds only until a later turn is drawn", () => {

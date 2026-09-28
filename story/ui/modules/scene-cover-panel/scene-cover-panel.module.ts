@@ -24,6 +24,15 @@ export const sceneCoverPanel = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "Outside those arrows, one button jumps to the first turn cover and one to the latest.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A button that would stay on the turn cover drawn is greyed out.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "The turn covers paged through are the ones the panel is handed rather than read here.",
     },
     {
