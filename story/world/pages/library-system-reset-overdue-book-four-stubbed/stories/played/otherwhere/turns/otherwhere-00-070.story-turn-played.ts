@@ -10,7 +10,7 @@ export const otherwhere00070 = {
   position: 70,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action:
     "**Okay, let the work, I'd like you to identify books we've found that I should read to prepare for the opening**",
   beats: [
@@ -30,5 +30,5 @@ export const otherwhere00070 = {
   ],
   issues: ['"Counter Keeping sits on its low shelf a few steps from the Counter." - Leave It Open'],
   lore: ["place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
