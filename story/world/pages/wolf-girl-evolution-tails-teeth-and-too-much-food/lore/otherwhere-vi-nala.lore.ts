@@ -66,27 +66,35 @@ export const otherwhereViNala = {
     },
     {
       fact: "Nala's status reads Name: Nala, Level: 1/10, Race: Human (Tier 0), Gender: Female.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Nala's status shows Class: —, for she has none yet.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Nala's HP is 30/30, her SP 19/28 from cold and fright, and her MP 5/5.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Nala's stats: Strength 3, Dexterity 4, Vitality 3, Intelligence 9, Willpower 6.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Nala's Charisma is 3 and her Luck 2.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
     {
       fact: "Nala's status lists no active skills, no passive skills and no traits.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Saying Status opens Nala's status; System, Character Sheet and Menu bring nothing.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
+    },
+    {
+      fact: "Nala's status letters move with her gaze and fade when she stops holding them in mind.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-vi-nala"],
     },
   ],
 } as const satisfies Lore

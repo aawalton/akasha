@@ -4,13 +4,14 @@ export const otherwhereVi00002 = {
   id: "01a0ea1f-d870-755a-a4ff-7417b35658e0",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vi-00-002",
+  cover: "image/image-0d2a00dcde953750",
   ownLength: 279,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vi"],
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     '"Okay" I say quietly to myself. "This is definitely not Earth. Isekai protocol. System? Status? Character Sheet? Menu?" I focus on myself and see if anything comes up.',
   beats: [
@@ -34,5 +35,5 @@ export const otherwhereVi00002 = {
   issues: ['"You are in a wet, freezing hollow, with a status and nothing else." - Leave It Open'],
   lore: ["lore/otherwhere-vi-system", "lore/otherwhere-vi-nala"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
