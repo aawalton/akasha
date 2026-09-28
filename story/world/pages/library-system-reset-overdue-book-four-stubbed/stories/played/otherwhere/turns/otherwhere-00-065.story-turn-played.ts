@@ -25,4 +25,5 @@ export const otherwhere00065 = {
     "The rest lies dark, the hospital wing among it.",
   ],
   lore: ["lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
