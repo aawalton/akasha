@@ -81,19 +81,15 @@ function SegmentView({
 }
 
 export function ChapterProse({
-  title,
   text,
   segments,
-  showTitle,
   muted,
   gameExternalId,
   submitPlayerAction,
   signedOutNotice,
 }: {
-  title: string
   text: string
   segments?: readonly ClientProseSegment[]
-  showTitle: boolean
   muted: boolean
   gameExternalId?: string
   submitPlayerAction: SubmitPlayerAction
@@ -101,15 +97,6 @@ export function ChapterProse({
 }) {
   return (
     <section className="flex flex-col gap-3">
-      {showTitle ? (
-        <h2
-          className={`font-mono text-[11px] ${
-            muted ? "text-tertiary" : "text-blue"
-          } uppercase tracking-[0.28em]`}
-        >
-          {title}
-        </h2>
-      ) : null}
       <div className={`flex flex-col gap-[0.8em] ${READER_PROSE_TYPOGRAPHY}`}>
         {segments !== undefined ? (
           segments.map((segment, i) => (

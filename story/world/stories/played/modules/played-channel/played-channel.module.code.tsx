@@ -50,10 +50,8 @@ export function PlayedChannel({
             </div>
           ) : null}
           <ChapterProse
-            title={row.turn.title}
             text={row.turn.text}
             segments={row.turn.segments}
-            showTitle={false}
             muted={row.muted}
             gameExternalId={gameExternalId}
             submitPlayerAction={submit}

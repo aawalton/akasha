@@ -14,10 +14,8 @@ const submitsNothing: SubmitPlayerAction = async () => ({
 function drawProse(body: string) {
   return (
     <ChapterProse
-      title=""
       text={body}
       segments={proseSegmentsOf(body)}
-      showTitle={false}
       muted={false}
       submitPlayerAction={submitsNothing}
       signedOutNotice={null}
