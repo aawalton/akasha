@@ -4,6 +4,7 @@ export const imageBa379271262e84fd = {
   id: "019f1838-34ef-722f-8ae2-d81b5031561e",
   type: "page-type/image",
   slug: "image-ba379271262e84fd",
+  grade: "F",
   persona: "persona/aelwyn",
   subjects: "F",
   relationshipLevel: "closeness-level/level-1",
