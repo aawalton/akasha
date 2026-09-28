@@ -20,6 +20,18 @@ export const otherwhereVSaryasPalace = {
       fact: "The palace has a glass hall far below sea level, looking out under the ocean.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The causeway to the palace hides fortifications along its length.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Enchantments on the undersea hall calm the sea monsters that swarm outside its glass.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The palace garden has trees whose leaves drip water.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
