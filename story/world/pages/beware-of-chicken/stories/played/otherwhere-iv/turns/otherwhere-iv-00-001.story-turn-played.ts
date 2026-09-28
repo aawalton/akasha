@@ -12,6 +12,6 @@ export const otherwhereIv00001 = {
   characters: ["character-player/otherwhere-iv-nala"],
   stepStatus: "step-status/recorders",
   lore: ["lore/otherwhere-iv-nala", "place/otherwhere-iv-willow-bend"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T05:40:00.000Z",
 } as const satisfies StoryTurnPlayed
