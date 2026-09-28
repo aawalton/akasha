@@ -30,6 +30,14 @@ export const otherwhereGolems = {
       ],
     },
     {
+      fact: "Shelving golems never speak; they answer a command with a slow creaking bow and set to work.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "A shelving golem's long arms reach the high shelves without a ladder, but it works slowly.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
       fact: "The two shelving golems stand silent beside the Counter, waiting on her word.",
       knowers: [
         "lore-disclosure/game-master",
