@@ -11,4 +11,5 @@ export const irisWorldBuilderOtherwhere = {
   startMode: "seat-mode/interactive",
   onCall: true,
   registrationAccount: "model-account/aawalton",
+  claudeCodeSessionUuid: "b0014417-934d-4b58-b848-44d7805504f4",
 } as const satisfies Seat
