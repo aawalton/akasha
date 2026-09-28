@@ -15,6 +15,7 @@ import type { Narrows } from "akasha/page/view/properties/narrows.record-propert
 import type { Nav } from "akasha/page/view/properties/nav.relation-property.types.ts"
 import type { PageSize } from "akasha/page/view/properties/page-size.number-property.types.ts"
 import type { ReorderCommand } from "akasha/page/view/properties/reorder-command.text-property.types.ts"
+import type { ViewEmbeddedBy } from "akasha/page/view/properties/view-embedded-by.relation-property.types.ts"
 import type { ViewPageType } from "akasha/page/view/properties/view-page-type.relation-property.types.ts"
 import type { ViewPlace } from "akasha/page/view/properties/view-place.number-property.types.ts"
 import type { ViewPredicate } from "akasha/page/view/properties/view-predicate.text-property.types.ts"
@@ -43,4 +44,5 @@ export type View = Page & {
   galleryCardSize?: GalleryCardSize
   reorderCommand?: ReorderCommand
   lockedPageType?: LockedPageType
+  embeddedBy?: ViewEmbeddedBy
 }

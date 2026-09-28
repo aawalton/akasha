@@ -70,6 +70,12 @@ export const hooks = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A view another page type embeds is none of the views the page type it lists holds.",
+    },
+
+    {
+      decisionKind: "decision-kind/departure",
       statement: "One page type is read alone by its slug rather than with every page type.",
     },
     {

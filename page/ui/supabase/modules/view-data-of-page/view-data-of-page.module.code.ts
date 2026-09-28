@@ -223,6 +223,10 @@ export function isFileSpelledView(properties: Readonly<Record<string, unknown>>)
   )
 }
 
+export function isEmbeddedView(properties: Readonly<Record<string, unknown>>): boolean {
+  return textOf(properties.embeddedBy) !== undefined
+}
+
 function viewDataFromFile(
   properties: Readonly<Record<string, unknown>>,
   resolvePageTypeId?: PageTypeIdBySlug

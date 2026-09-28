@@ -37,6 +37,7 @@ export const view = {
     "text-property/view-predicate",
     "text-property/visible-properties",
     "module/key-naming",
+    "relation-property/view-embedded-by",
   ],
   properties: [
     { pageProperty: "text-property/title", required: true, many: false },
@@ -75,6 +76,7 @@ export const view = {
     { pageProperty: "select-property/gallery-card-size", required: false, many: false },
     { pageProperty: "text-property/reorder-command", required: false, many: false },
     { pageProperty: "boolean-property/locked-page-type", required: false, many: false },
+    { pageProperty: "relation-property/view-embedded-by", required: false, many: false },
   ],
   decisions: [
     {
@@ -122,7 +124,7 @@ export const view = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "A view naming a page type and no nav is gathered by the page type that view lists.",
+        "A view naming a page type and neither a nav nor an embedder is gathered by that page type.",
     },
   ],
   types: "ts",

@@ -127,6 +127,7 @@
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/page-property.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/type/properties/title-colored-by.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/view/properties/nav.relation-property.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/view/properties/view-embedded-by.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"page/view/properties/view-page-type.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/access/properties/person-access-kind.relation-property.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"relation-property.page-type.types.ts","path":"person/access/properties/person-access-person.relation-property.ts","typed":true,"deferred":false}

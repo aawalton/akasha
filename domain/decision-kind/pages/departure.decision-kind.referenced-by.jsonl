@@ -3578,6 +3578,7 @@
 {"propertySlug":"decision-kind","path":"page/view/properties/narrows.record-property.ts","id":"01a063ee-2a3b-732c-983b-68ef37a472f5"}
 {"propertySlug":"decision-kind","path":"page/view/properties/nav.relation-property.ts","id":"01a0680d-4d00-7001-8a73-4f2c6d9e4102"}
 {"propertySlug":"decision-kind","path":"page/view/properties/sort-key.text-property.ts","id":"01a0680d-4d00-7005-8f26-2a7d5c1b4106"}
+{"propertySlug":"decision-kind","path":"page/view/properties/view-embedded-by.relation-property.ts","id":"01a0e9c5-2c88-7054-9397-eb29fc5b95fc"}
 {"propertySlug":"decision-kind","path":"page/view/properties/view-page-type.relation-property.ts","id":"01a078d1-cb91-71c2-895b-d2fc87b9e79e"}
 {"propertySlug":"decision-kind","path":"page/view/properties/view-predicate.text-property.ts","id":"01a0680d-4d00-7002-b647-3d1a8c5f4103"}
 {"propertySlug":"decision-kind","path":"page/view/properties/view-sorts.record-property.ts","id":"01a0680d-4d00-7004-a139-6e5c8b2f4105"}

@@ -31,6 +31,7 @@ import {
   type UsePagesSupabaseOptions,
   usePages,
 } from "akasha/page/ui/supabase/modules/use-pages/use-pages.module.code.ts"
+import { isEmbeddedView } from "akasha/page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
 import type { PageRow } from "akasha/page/ui-store/collection/modules/page-row/page-row.module.code.ts"
 import {
   namedShapeDescriptor,
@@ -315,5 +316,10 @@ export function useViewsForPageType({
   pageTypeSlug?: string | undefined
 }): ViewsFound {
   const where = useMemo(() => viewsWhere(pageTypeSlug, PAGE_TYPE_KEY, PAGE_TYPE), [pageTypeSlug])
-  return useViewsWhere(where, pageTypeSlug)
+  const found = useViewsWhere(where, pageTypeSlug)
+  const views = useMemo(
+    () => found.views.filter((one) => !isEmbeddedView(one.properties)),
+    [found.views]
+  )
+  return { views, isLoading: found.isLoading }
 }

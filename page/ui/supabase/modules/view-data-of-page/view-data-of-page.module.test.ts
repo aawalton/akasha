@@ -1,5 +1,6 @@
 import { expect, test } from "bun:test"
 import {
+  isEmbeddedView,
   isFileSpelledView,
   viewDataOfPage,
 } from "akasha/page/ui/supabase/modules/view-data-of-page/view-data-of-page.module.code.ts"
@@ -24,6 +25,15 @@ test("a view carrying its nav item alone is read from its file", () => {
 
 test("a view whose settings the browser wrote is not read from its file", () => {
   expect(isFileSpelledView({ config: { version: 1 } })).toBe(false)
+})
+
+test("a view naming the page type embedding it is an embedded view", () => {
+  expect(isEmbeddedView({ pageType: "image", embeddedBy: "page-type/quoin" })).toBe(true)
+})
+
+test("a view naming no embedding page type is no embedded view", () => {
+  expect(isEmbeddedView({ pageType: "image" })).toBe(false)
+  expect(isEmbeddedView({ pageType: "image", embeddedBy: "" })).toBe(false)
 })
 
 test("a view names the page type its pages are of", () => {
