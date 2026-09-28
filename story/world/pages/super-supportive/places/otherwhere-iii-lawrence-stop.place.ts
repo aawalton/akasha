@@ -6,6 +6,12 @@ export const otherwhereIiiLawrenceStop = {
   slug: "otherwhere-iii-lawrence-stop",
   title: "The Lawrence Stop",
   world: "world/super-supportive",
+  facts: [
+    {
+      fact: "Lawrence is a rebuilt elevated station with a glass-walled platform, a stair and an elevator.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+  ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
