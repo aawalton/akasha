@@ -290,17 +290,14 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Twice struck by the big bookworm's thrash, Nala aches all over and is hurting badly.",
+      fact: "Crushed by the big bookworm's roll, Nala lies by the honey jar, too hurt to get up.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Salt burning in its gullet, the big bookworm convulsed; its grey hide puckered and cracked.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "The big bookworm's thrashing slowed, and it swung its salt-rimmed mouth back toward Nala.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Salt crust pressed to the big bookworm's cracked hide burns deep, and it rolls to scrape it off.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
