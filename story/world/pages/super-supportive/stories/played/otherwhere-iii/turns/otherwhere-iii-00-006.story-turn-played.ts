@@ -32,5 +32,6 @@ export const otherwhereIii00006 = {
   ],
   lore: ["place/otherwhere-iii-lawrence-stop", "place/otherwhere-iii-uptown-memorial-er"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/mechanics"],
   endsAt: "2037-01-31T05:07:00.000Z",
 } as const satisfies StoryTurnPlayed
