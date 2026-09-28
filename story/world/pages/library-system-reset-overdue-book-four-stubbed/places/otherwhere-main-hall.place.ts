@@ -104,7 +104,7 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The wardrobe's three robes are deep blue wool, whole and unmothed, smelling of cedar.",
+      fact: "The wardrobe's robes are deep blue wool, whole and unmothed, smelling of cedar; one is left.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
