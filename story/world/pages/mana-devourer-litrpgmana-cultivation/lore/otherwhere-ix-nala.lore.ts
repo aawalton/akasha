@@ -37,6 +37,10 @@ export const otherwhereIxNala = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
     {
+      fact: "Nala weighs about a hundred and five pounds, some two and a half young shardbacks.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Her skin is pale and fair, with freckles across her nose and cheeks.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },

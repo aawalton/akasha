@@ -104,5 +104,21 @@ export const otherwhereIxShardback = {
       fact: "A young shardback has about ninety health.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A rushing shardback lays its quills flat to run; they bristle up the instant its back is touched.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Glasswing kites take young shardbacks, so a young one jinks aside from anything dropping at it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its thick hide and stout ribs take a blow to the back well; a hard one winds it more than harms.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A pinned shardback thrashes and twists its head round to bite whatever holds it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
