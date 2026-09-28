@@ -131,6 +131,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-blights.lore.ts","id":"01a0e9fc-5fc7-7352-85ed-a97623286a0f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-bone-obelisk.lore.ts","id":"01a0e9fc-3f03-7081-a89d-69baf751b9ae"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-brannoc-tull.lore.ts","id":"01a0ea03-9afe-7e85-99de-c6b60fb321cc"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-brookberry.lore.ts","id":"01a0ea09-2b1e-7c0b-861f-e13b905f79c2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-brox.lore.ts","id":"01a0e9f8-a115-781f-9d47-a549f6ac6723"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-builds.lore.ts","id":"01a0ea00-21ac-7696-af34-edf45bfe88a7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-cala-dha-drex.lore.ts","id":"01a0e9f8-a115-7312-9fb0-0ceb82e0901b"}
@@ -205,6 +206,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ghoul.lore.ts","id":"01a0e9f9-9dd7-77fc-a5b3-7aaf76077f21"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-giant.lore.ts","id":"01a0e9f4-fc81-7f9c-b43d-6ecd90372988"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-giantsrest-dominion.lore.ts","id":"01a0e9f3-5ca4-7d93-8500-cd4dc58f4e4b"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gloamberry.lore.ts","id":"01a0ea09-2b1f-71a3-b217-71f0f54edbd8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-gloamcat.lore.ts","id":"01a0e9f6-9c3e-772d-8755-88a819d85a1c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-glowfern.lore.ts","id":"01a0ea08-ddd3-7782-80d0-43b44877984d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-god.lore.ts","id":"01a0e9f7-bd90-796b-bf05-d0cac1d2a588"}
@@ -379,10 +381,12 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-adamant.world-item.ts","id":"01a0ea02-a52c-7dd5-87d4-8f0f77a1c1ce"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-arena-crystal.world-item.ts","id":"01a0ea04-ac69-7dc4-b3de-2b00050fcb63"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-armatures.world-item.ts","id":"01a0e9f7-1df0-7f0b-9df1-215879eac4c8"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-brookberry.world-item.ts","id":"01a0ea09-2b1f-7a1f-b17a-81122818158a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-diplomats-friend.world-item.ts","id":"01a0e9f9-8feb-71d7-8538-2c764af15c39"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-dungeon-cores.world-item.ts","id":"01a0e9fb-c0e7-7a92-b9b6-de78a69ea8ee"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-flesh-tree.world-item.ts","id":"01a0e9ff-cb81-7fbb-a1a7-6c1fdcee017e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-floating-stones.world-item.ts","id":"01a0ea04-e182-70b9-a46f-32e2d07ec75f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-gloamberry.world-item.ts","id":"01a0ea09-2b1f-72dd-97bd-c4ca26115580"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-glowfern.world-item.ts","id":"01a0ea08-ddd4-7661-ae17-4d4636212273"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-golem-cores.world-item.ts","id":"01a0e9fa-7a12-719c-9c7a-89bd29abda09"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-last-arrows-of-olita.world-item.ts","id":"01a0ea04-4cd3-70ad-95af-b2fb6c0555f6"}
