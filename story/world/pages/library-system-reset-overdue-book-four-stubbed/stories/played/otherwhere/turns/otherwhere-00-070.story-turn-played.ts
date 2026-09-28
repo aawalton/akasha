@@ -27,4 +27,5 @@ export const otherwhere00070 = {
     "Links: so for now a patron who comes in hurt gets food and shelter, nothing more.",
   ],
   lore: ["place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
