@@ -4,6 +4,7 @@ export const thePrimalHunter0210Chapter1336SimulatedExperimentation = {
   id: "01a06730-4e35-7f16-a6ba-e2a047ca9fbd",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0210-chapter-1336-simulated-experimentation",
+  ownProgress: 3002,
   title: "Chapter 1336 - Simulated Experimentation",
   story: "story-read/the-primal-hunter",
   position: 210,

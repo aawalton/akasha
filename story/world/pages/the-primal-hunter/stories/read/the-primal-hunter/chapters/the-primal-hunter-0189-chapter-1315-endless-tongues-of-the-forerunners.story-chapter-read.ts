@@ -4,6 +4,7 @@ export const thePrimalHunter0189Chapter1315EndlessTonguesOfTheForerunners = {
   id: "01a06730-4e2a-75a3-ad13-e7f1699ff6ad",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0189-chapter-1315-endless-tongues-of-the-forerunners",
+  ownProgress: 2891,
   title: "Chapter 1315 - Endless Tongues of the Forerunners",
   story: "story-read/the-primal-hunter",
   position: 189,

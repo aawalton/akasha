@@ -4,6 +4,7 @@ export const thePrimalHunter0179Chapter1382GateOfAbundance = {
   id: "01a0a5cf-5650-77f1-86cc-854baa47b80b",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0179-chapter-1382-gate-of-abundance",
+  ownProgress: 2751,
   position: 179,
   publishedAt: "2026-09-15",
   unit: "unit/words",

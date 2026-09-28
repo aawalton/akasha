@@ -4,6 +4,7 @@ export const thePrimalHunter0182Chapter1308ArachnecNestmother = {
   id: "01a06730-4e27-71f4-8e5e-34e5cfaf0b18",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0182-chapter-1308-arachnec-nestmother",
+  ownProgress: 2716,
   title: "Chapter 1308 - Arachnec Nestmother",
   story: "story-read/the-primal-hunter",
   position: 182,

@@ -4,6 +4,7 @@ export const thePrimalHunter0194Chapter1320ManipulationForExpectedBenefits = {
   id: "01a06730-4e2b-72c0-9112-2d7b7374e957",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0194-chapter-1320-manipulation-for-expected-benefits",
+  ownProgress: 2808,
   title: "Chapter 1320 - Manipulation For Expected Benefits",
   story: "story-read/the-primal-hunter",
   position: 194,

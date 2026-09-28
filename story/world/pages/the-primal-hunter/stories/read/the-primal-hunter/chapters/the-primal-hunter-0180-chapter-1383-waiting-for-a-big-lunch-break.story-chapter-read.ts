@@ -4,6 +4,7 @@ export const thePrimalHunter0180Chapter1383WaitingForABigLunchBreak = {
   id: "01a0aaf5-b7b7-7447-9097-68f91008f0c7",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0180-chapter-1383-waiting-for-a-big-lunch-break",
+  ownProgress: 2858,
   position: 180,
   publishedAt: "2026-09-16",
   unit: "unit/words",

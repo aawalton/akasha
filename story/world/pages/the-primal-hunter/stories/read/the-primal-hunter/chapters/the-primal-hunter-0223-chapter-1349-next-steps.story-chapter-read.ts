@@ -4,6 +4,7 @@ export const thePrimalHunter0223Chapter1349NextSteps = {
   id: "01a06730-4e39-7a75-8666-e7ac746c65e4",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0223-chapter-1349-next-steps",
+  ownProgress: 2578,
   title: "Chapter 1349 - Next Steps",
   story: "story-read/the-primal-hunter",
   position: 223,

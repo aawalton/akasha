@@ -4,6 +4,7 @@ export const thePrimalHunter0208Chapter1334ExploringNewTerritory = {
   id: "01a06730-4e34-7068-a5e2-18e51303b0f8",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0208-chapter-1334-exploring-new-territory",
+  ownProgress: 2824,
   title: "Chapter 1334 - Exploring New Territory",
   story: "story-read/the-primal-hunter",
   position: 208,

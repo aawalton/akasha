@@ -4,6 +4,7 @@ export const thePrimalHunter0182Chapter1385OneOfTheGreatestMinds = {
   id: "01a0b544-3b91-7d94-81f7-f039e912364a",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0182-chapter-1385-one-of-the-greatest-minds",
+  ownProgress: 3021,
   position: 182,
   publishedAt: "2026-09-18",
   unit: "unit/words",

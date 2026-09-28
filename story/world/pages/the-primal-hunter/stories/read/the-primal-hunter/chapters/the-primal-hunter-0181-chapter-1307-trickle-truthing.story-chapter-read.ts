@@ -4,6 +4,7 @@ export const thePrimalHunter0181Chapter1307TrickleTruthing = {
   id: "01a06730-4e27-7982-aa51-a46927903a03",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0181-chapter-1307-trickle-truthing",
+  ownProgress: 2607,
   title: "Chapter 1307 - Trickle-Truthing",
   story: "story-read/the-primal-hunter",
   position: 181,

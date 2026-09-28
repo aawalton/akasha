@@ -4,6 +4,7 @@ export const thePrimalHunter0186Chapter1312HopeAmidstDoubt = {
   id: "01a06730-4e28-7fb1-8f10-ef15f945a343",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0186-chapter-1312-hope-amidst-doubt",
+  ownProgress: 2772,
   title: "Chapter 1312 - Hope Amidst Doubt",
   story: "story-read/the-primal-hunter",
   position: 186,

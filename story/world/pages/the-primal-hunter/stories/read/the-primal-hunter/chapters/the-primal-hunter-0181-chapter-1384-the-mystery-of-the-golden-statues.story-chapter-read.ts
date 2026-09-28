@@ -4,6 +4,7 @@ export const thePrimalHunter0181Chapter1384TheMysteryOfTheGoldenStatues = {
   id: "01a0b01d-c1cf-75f4-8787-f44f2f3341e0",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0181-chapter-1384-the-mystery-of-the-golden-statues",
+  ownProgress: 2703,
   position: 181,
   publishedAt: "2026-09-17",
   unit: "unit/words",

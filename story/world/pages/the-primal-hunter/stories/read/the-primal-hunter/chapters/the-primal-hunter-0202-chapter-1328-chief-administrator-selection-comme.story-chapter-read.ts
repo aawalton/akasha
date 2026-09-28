@@ -4,6 +4,7 @@ export const thePrimalHunter0202Chapter1328ChiefAdministratorSelectionComme = {
   id: "01a06730-4e32-7274-9dd9-aebf8fc6aead",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0202-chapter-1328-chief-administrator-selection-comme",
+  ownProgress: 2885,
   title: "Chapter 1328 - Chief Administrator Selection Comme",
   story: "story-read/the-primal-hunter",
   position: 202,

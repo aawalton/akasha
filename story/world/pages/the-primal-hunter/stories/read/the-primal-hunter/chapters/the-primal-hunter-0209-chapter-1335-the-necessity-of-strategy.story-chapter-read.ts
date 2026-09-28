@@ -4,6 +4,7 @@ export const thePrimalHunter0209Chapter1335TheNecessityOfStrategy = {
   id: "01a06730-4e35-70cb-99f8-7454bce132d9",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0209-chapter-1335-the-necessity-of-strategy",
+  ownProgress: 2836,
   title: "Chapter 1335 - The Necessity of Strategy",
   story: "story-read/the-primal-hunter",
   position: 209,

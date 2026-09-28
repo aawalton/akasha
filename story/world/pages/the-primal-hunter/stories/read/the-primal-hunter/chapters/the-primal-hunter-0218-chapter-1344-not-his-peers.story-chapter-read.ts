@@ -4,6 +4,7 @@ export const thePrimalHunter0218Chapter1344NotHisPeers = {
   id: "01a06730-4e37-726b-a1de-b20a4333de31",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0218-chapter-1344-not-his-peers",
+  ownProgress: 2613,
   title: "Chapter 1344 - Not His Peers",
   story: "story-read/the-primal-hunter",
   position: 218,

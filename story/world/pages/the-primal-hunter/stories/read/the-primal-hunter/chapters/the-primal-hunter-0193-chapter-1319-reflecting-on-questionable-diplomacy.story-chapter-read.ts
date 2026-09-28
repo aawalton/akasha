@@ -4,6 +4,7 @@ export const thePrimalHunter0193Chapter1319ReflectingOnQuestionableDiplomacy = {
   id: "01a06730-4e2b-7589-bf2b-8efe4ed58bdc",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0193-chapter-1319-reflecting-on-questionable-diplomacy",
+  ownProgress: 2615,
   title: "Chapter 1319 - Reflecting On Questionable Diplomacy",
   story: "story-read/the-primal-hunter",
   position: 193,

@@ -4,6 +4,7 @@ export const thePrimalHunter0206Chapter1332WorldOfTheExaltedPrima = {
   id: "01a06730-4e34-729e-9e9c-255fed3ddcf1",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0206-chapter-1332-world-of-the-exalted-prima",
+  ownProgress: 2635,
   title: "Chapter 1332 - World of the Exalted Prima",
   story: "story-read/the-primal-hunter",
   position: 206,

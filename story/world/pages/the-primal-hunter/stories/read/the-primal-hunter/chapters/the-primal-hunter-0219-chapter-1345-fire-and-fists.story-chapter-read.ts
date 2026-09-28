@@ -4,6 +4,7 @@ export const thePrimalHunter0219Chapter1345FireAndFists = {
   id: "01a06730-4e38-7e45-bf9b-6210c71cb062",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0219-chapter-1345-fire-and-fists",
+  ownProgress: 2801,
   title: "Chapter 1345 - Fire & Fists",
   story: "story-read/the-primal-hunter",
   position: 219,
