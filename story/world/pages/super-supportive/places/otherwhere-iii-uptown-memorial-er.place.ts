@@ -151,6 +151,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "The back corner of the waiting room is out of earshot of the triage window and the guard.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Near that corner only the man asleep across three chairs sits, and he sleeps on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
