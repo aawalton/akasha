@@ -23,6 +23,10 @@ test("a seat assigned a game is drawn under that game", () => {
   expect(seatSectionOf(OTHER_ROLE, GAME)).toBe("a-game")
 })
 
+test("a seat assigned a written story is drawn under that story", () => {
+  expect(seatSectionOf(OTHER_ROLE, "story-written/a-story")).toBe("a-story")
+})
+
 test("a handler assigned a game is still drawn under the handlers", () => {
   expect(seatSectionOf(HANDLER, GAME)).toBe(HANDLERS)
 })

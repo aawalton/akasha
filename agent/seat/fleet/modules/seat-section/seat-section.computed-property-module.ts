@@ -14,7 +14,7 @@ export const seatSection = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A seat assigned a game is drawn under that game.",
+      statement: "A seat assigned a story of any kind is drawn under that story.",
     },
     {
       decisionKind: "decision-kind/departure",

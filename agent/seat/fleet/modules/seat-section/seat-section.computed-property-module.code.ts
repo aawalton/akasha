@@ -6,10 +6,11 @@ const ROLE = "role/"
 
 const HANDLER = "handler"
 
-const GAME = "story-played/"
+const STORIES = ["story-played/", "story-written/"]
 
 export function seatSectionOf(role: string | null, assignment: string | null): string {
   const said = role?.startsWith(ROLE) === true ? role.slice(ROLE.length) : role
   if (said === HANDLER) return HANDLERS
-  return assignment?.startsWith(GAME) === true ? assignment.slice(GAME.length) : PERSONAS
+  const story = STORIES.find((opening) => assignment?.startsWith(opening) === true)
+  return story === undefined || assignment === null ? PERSONAS : assignment.slice(story.length)
 }
