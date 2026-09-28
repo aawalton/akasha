@@ -80,5 +80,29 @@ export const otherwhereIxShardback = {
       fact: "A shardback rattles its quills with a dry sound like glass beads shaken hard in a cup.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "A shardback kept always in front tires of circling within a few minutes, and tests with a feint.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A feint is a short rush and snap that stops just short; a quarry that flinches back is prey.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A quarry that meets a feint by stepping in, shouting or striking the snout usually turns it off.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A young shardback turned away twice gives up and goes after easier blood.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A lone young shardback is hungry and bolder than a grown one, and quicker to give up.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A young shardback has about ninety health.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore

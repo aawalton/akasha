@@ -131,6 +131,14 @@ export const otherwhereIxGlassgrassFlats = {
       fact: "From Tollmere's side the Brass Road skirts the Flats' south edge west to the barrier gate.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Glassgrass pressed flat underfoot snaps into short shards; a trodden patch is safe to stand on.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Pivoting bare feet on fresh glassgrass slices the soles; stepping straight down does not.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Place
