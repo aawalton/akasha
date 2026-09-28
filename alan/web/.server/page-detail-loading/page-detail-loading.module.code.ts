@@ -1,9 +1,11 @@
 import { answerPageTypes } from "akasha/alan/web/.server/alan-answer-page-types/alan-answer-page-types.module.code.ts"
 import { answerPages } from "akasha/alan/web/.server/alan-answer-pages/alan-answer-pages.module.code.ts"
+import { pageIcon } from "akasha/alan/web/.server/page-icon/page-icon.module.code.ts"
 import { resolveReaderNeighbors } from "akasha/alan/web/modules/alan-reader-neighbors/alan-reader-neighbors.module.code.ts"
 import { resolveNextUnreadHref } from "akasha/alan/web/modules/next-unread/next-unread.module.code.ts"
 import { isRecord } from "akasha/code/type/narrowing/modules/is-record/is-record.module.code.ts"
 import { stringsIn } from "akasha/code/type/narrowing/modules/strings-in/strings-in.module.code.ts"
+import { textIn } from "akasha/code/type/narrowing/modules/text-in/text-in.module.code.ts"
 import {
   getPage,
   getPageByIdSuffix,
@@ -183,8 +185,7 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
       kind: "nav" as const,
       pageTypeSlug,
       pageHrefParam,
-      faviconIdSuffix: parsed.idSuffix,
-      faviconIcon: navPage && typeof navPage.icon === "string" ? navPage.icon : "",
+      tabIcon: textIn(navPage?.icon),
       title: nameOf(navPage),
     })
   }
@@ -225,6 +226,7 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
   const seeding = seedsFor(request, resolvedSlug, id, pageSlug).then((seeds) =>
     coveredBy(request, seeds, resolvedSlug, resolvedId, pageSlug)
   )
+  const iconing = pageIcon(resolvedSlug, id)
 
   let readerPrev: ReaderNeighborLink | null = null
   let readerNext: ReaderNeighborLink | null = null
@@ -297,8 +299,7 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
     kind: "detail" as const,
     pageTypeSlug: resolvedSlug,
     id,
-    faviconIdSuffix: null,
-    faviconIcon: "",
+    tabIcon: await iconing,
     title,
     readerPrev,
     readerNext,

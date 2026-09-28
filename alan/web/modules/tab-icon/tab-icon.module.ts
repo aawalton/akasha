@@ -23,11 +23,15 @@ export const tabIcon = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "Every other page's tab icon is the site's icon.",
+      statement: "Every other page's tab icon is the icon that page is drawn with.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The deepest route naming a nav page names the tab icon.",
+      statement: "A page drawn with no icon of its own has the site's icon as its tab icon.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "The deepest route naming an icon names the tab icon.",
     },
   ],
 } as const satisfies Module
