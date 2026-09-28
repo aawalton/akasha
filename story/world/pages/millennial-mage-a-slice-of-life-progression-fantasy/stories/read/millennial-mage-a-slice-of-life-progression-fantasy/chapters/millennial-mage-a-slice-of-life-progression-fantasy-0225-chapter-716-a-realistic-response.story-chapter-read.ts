@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0225Chapter716ARealisti
   id: "01a06743-b3df-7000-9a4b-201b31006372",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0225-chapter-716-a-realistic-response",
+  ownProgress: 2945,
   title: "Chapter: 716 - A Realistic Response",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 225,

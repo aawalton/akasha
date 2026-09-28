@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0192Chapter750AMeditati
   id: "01a09fcd-ebb9-7904-a95a-8210e21dd25b",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0192-chapter-750-a-meditative-moment",
+  ownProgress: 3106,
   position: 192,
   publishedAt: "2026-09-14",
   unit: "unit/words",

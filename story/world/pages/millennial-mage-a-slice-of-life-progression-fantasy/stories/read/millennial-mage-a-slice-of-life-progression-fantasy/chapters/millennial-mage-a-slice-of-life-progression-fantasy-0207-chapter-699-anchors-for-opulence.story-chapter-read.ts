@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0207Chapter699AnchorsFo
   id: "01a06731-ae91-7000-9150-0626cb881feb",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0207-chapter-699-anchors-for-opulence",
+  ownProgress: 2989,
   title: "Chapter: 699 - Anchors for Opulence",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 207,

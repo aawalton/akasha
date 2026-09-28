@@ -4,6 +4,7 @@ export const metaworldHopecore0184VotingForArtVolume1AndVolume2 = {
   id: "01a0ce95-ded6-702d-8f6b-673f28848aa2",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0184-voting-for-art-volume-1-and-volume-2",
+  ownProgress: 836,
   position: 184,
   publishedAt: "2026-09-23",
   unit: "unit/words",

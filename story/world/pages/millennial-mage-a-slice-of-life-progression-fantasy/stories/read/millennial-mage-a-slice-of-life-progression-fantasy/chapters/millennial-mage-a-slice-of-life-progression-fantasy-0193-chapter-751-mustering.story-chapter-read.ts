@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0193Chapter751Mustering
   id: "01a0aa1c-723f-7150-9bab-b8327153c269",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0193-chapter-751-mustering",
+  ownProgress: 2513,
   position: 193,
   publishedAt: "2026-09-16",
   unit: "unit/words",

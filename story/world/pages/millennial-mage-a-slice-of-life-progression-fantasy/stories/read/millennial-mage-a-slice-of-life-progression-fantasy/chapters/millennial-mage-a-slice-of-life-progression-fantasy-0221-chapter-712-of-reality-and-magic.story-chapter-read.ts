@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0221Chapter712OfReality
   id: "01a06743-b3d9-7001-a43d-fe6233d56be1",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0221-chapter-712-of-reality-and-magic",
+  ownProgress: 3012,
   title: "Chapter: 712 - Of Reality and Magic",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 221,

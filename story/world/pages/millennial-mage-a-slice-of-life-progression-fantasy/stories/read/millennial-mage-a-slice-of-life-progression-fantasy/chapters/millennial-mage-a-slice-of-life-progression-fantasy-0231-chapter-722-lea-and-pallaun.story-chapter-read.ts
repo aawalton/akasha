@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0231Chapter722LeaAndPal
   id: "01a06743-b3eb-7000-9acf-c35d4e3a0ca1",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0231-chapter-722-lea-and-pallaun",
+  ownProgress: 2609,
   title: "Chapter: 722 - Lea and Pallaun",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 231,

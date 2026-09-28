@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0222Chapter713DoneDoneD
   id: "01a06743-b3da-7000-9f97-4b2758532d64",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0222-chapter-713-done-done-done",
+  ownProgress: 3052,
   title: "Chapter: 713 - Done, Done, Done",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 222,

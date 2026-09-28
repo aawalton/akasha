@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0213Chapter705TheReachO
   id: "01a06743-b3cd-7000-977f-947e9785f6b6",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0213-chapter-705-the-reach-of-authority",
+  ownProgress: 2954,
   title: "Chapter: 705 - The Reach of Authority",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 213,

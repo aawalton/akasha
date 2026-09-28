@@ -4,6 +4,7 @@ export const metaworldHopecore0186Chapter105ClosingTime2 = {
   id: "01a0e2f7-4023-735f-8e89-74d560b4b1df",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0186-chapter-105-closing-time-2",
+  ownProgress: 1909,
   position: 186,
   publishedAt: "2026-09-27",
   unit: "unit/words",

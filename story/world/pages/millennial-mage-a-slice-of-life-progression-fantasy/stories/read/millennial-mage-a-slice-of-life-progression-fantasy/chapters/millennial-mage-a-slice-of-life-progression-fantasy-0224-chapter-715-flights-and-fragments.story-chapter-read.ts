@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0224Chapter715FlightsAn
   id: "01a06743-b3dc-7000-a798-e05da5e44c4a",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0224-chapter-715-flights-and-fragments",
+  ownProgress: 2736,
   title: "Chapter: 715 - Flights and Fragments",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 224,

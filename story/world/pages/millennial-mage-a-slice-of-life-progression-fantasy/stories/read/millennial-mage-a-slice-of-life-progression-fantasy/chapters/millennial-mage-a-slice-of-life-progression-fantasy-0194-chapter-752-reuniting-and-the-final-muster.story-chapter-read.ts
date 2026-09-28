@@ -5,6 +5,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0194Chapter752Reuniting
     id: "01a0b469-febe-732d-9577-aa07855c9bd2",
     type: "page-type/story-chapter-read",
     slug: "millennial-mage-a-slice-of-life-progression-fantasy-0194-chapter-752-reuniting-and-the-final-muster",
+    ownProgress: 2671,
     position: 194,
     publishedAt: "2026-09-18",
     unit: "unit/words",

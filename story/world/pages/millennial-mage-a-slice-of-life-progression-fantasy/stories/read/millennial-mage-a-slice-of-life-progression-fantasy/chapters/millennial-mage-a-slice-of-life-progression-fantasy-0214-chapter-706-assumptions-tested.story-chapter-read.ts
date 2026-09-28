@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0214Chapter706Assumptio
   id: "01a06743-b3cd-7001-9169-edbb9ebe4093",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0214-chapter-706-assumptions-tested",
+  ownProgress: 3345,
   title: "Chapter: 706 - Assumptions, Tested",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 214,

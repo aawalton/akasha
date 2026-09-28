@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0229Chapter720LeaAndRan
   id: "01a06743-b3e5-7000-abc1-86ad366d47cd",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0229-chapter-720-lea-and-rane",
+  ownProgress: 2743,
   title: "Chapter: 720 - Lea and Rane",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 229,

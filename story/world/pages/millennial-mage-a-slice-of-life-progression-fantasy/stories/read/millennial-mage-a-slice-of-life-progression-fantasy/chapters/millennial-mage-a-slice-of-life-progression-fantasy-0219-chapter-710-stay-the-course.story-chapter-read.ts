@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0219Chapter710StayTheCo
   id: "01a06743-b3d8-7000-8a19-504a037c1db7",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0219-chapter-710-stay-the-course",
+  ownProgress: 2587,
   title: "Chapter: 710 - Stay the Course",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 219,

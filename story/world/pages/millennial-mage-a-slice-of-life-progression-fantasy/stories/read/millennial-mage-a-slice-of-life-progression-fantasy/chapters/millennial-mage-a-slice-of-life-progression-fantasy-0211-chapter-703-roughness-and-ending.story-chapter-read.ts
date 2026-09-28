@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0211Chapter703Roughness
   id: "01a06743-b3cb-7000-9a49-d9e14a805930",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0211-chapter-703-roughness-and-ending",
+  ownProgress: 2959,
   title: "Chapter: 703 - Roughness and Ending",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 211,

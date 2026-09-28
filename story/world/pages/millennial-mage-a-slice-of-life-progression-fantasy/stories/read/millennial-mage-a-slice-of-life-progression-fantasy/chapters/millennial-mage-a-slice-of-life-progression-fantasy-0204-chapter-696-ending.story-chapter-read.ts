@@ -8,7 +8,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0204Chapter696Ending = 
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 204,
   ownLength: 4451,
-  ownProgress: 3732,
+  ownProgress: 4451,
   unit: "unit/words",
   publishedAt: "2026-04-20",
   externalIdentity: [

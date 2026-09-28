@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0217Chapter708Recogniti
   id: "01a06743-b3d4-7000-9c6a-562eb3ecf99c",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0217-chapter-708-recognition-and-progress",
+  ownProgress: 3195,
   title: "Chapter: 708 - Recognition and Progress",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 217,

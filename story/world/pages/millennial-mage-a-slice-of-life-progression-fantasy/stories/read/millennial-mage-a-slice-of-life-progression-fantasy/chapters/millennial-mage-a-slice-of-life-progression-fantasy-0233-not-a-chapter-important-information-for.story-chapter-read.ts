@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0233NotAChapterImportan
   id: "01a06743-b3ed-7000-ac17-57777ec9f259",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0233-not-a-chapter-important-information-for",
+  ownProgress: 428,
   title: "<Not a Chapter> Important Information for Readers and Supporters <Update>",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 233,

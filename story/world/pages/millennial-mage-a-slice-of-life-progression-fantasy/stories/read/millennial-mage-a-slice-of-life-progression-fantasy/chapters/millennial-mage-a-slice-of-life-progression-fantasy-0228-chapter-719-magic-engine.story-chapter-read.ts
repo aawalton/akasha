@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0228Chapter719MagicEngi
   id: "01a06743-b3e4-7000-aeda-3a35f6f519a7",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0228-chapter-719-magic-engine",
+  ownProgress: 2575,
   title: "Chapter: 719 - Magic-Engine",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 228,

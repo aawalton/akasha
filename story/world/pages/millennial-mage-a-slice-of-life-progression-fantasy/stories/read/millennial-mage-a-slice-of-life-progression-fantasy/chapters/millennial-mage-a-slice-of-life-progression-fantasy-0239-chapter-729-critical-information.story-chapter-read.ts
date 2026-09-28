@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0239Chapter729CriticalI
   id: "01a06743-b3f9-7000-86b1-5c3151ad08de",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0239-chapter-729-critical-information",
+  ownProgress: 3084,
   title: "Chapter: 729 - Critical Information",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 239,

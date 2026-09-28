@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0037ContinueTheStoryBoo
   id: "01a083e8-108c-78ad-a9be-752df40589ca",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0037-continue-the-story-book-13-homebound",
+  ownProgress: 148,
   position: 37,
   publishedAt: "2026-09-09",
   unit: "unit/words",

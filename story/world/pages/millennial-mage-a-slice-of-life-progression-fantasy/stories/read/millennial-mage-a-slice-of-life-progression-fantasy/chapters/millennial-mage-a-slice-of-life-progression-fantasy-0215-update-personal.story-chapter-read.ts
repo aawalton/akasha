@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0215UpdatePersonal = {
   id: "01a06743-b3ce-7000-b7be-7b8bea7fcba1",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0215-update-personal",
+  ownProgress: 146,
   title: "<Update> Personal",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 215,

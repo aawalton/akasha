@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0240Chapter730RealVoid 
   id: "01a06743-b401-7000-8a4f-66462235289a",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0240-chapter-730-real-void",
+  ownProgress: 2952,
   title: "Chapter: 730 - Real Void",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 240,

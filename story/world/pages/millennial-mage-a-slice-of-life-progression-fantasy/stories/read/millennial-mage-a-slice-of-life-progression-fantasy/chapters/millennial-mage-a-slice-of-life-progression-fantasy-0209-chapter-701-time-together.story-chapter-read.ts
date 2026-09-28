@@ -4,6 +4,7 @@ export const millennialMageASliceOfLifeProgressionFantasy0209Chapter701TimeToget
   id: "01a06731-ae93-7000-b299-8f0e45cae035",
   type: "page-type/story-chapter-read",
   slug: "millennial-mage-a-slice-of-life-progression-fantasy-0209-chapter-701-time-together",
+  ownProgress: 3062,
   title: "Chapter: 701 - Time Together",
   story: "story-read/millennial-mage-a-slice-of-life-progression-fantasy",
   position: 209,
