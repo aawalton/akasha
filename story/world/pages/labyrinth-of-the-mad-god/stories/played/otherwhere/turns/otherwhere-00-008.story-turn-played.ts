@@ -10,7 +10,7 @@ export const otherwhere00008 = {
   position: 8,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "“Okay, isekai protocol. System? Status? Character sheet? If you left me here with truly nothing, I might as well fucking die now, and then I won’t be any entertainment for anyone.”",
   beats: [
@@ -26,7 +26,8 @@ export const otherwhere00008 = {
     "Its half-closed eyes open fully and fix on her.",
     "Its tongue slides out, forked and dark, and tastes the air in her direction.",
   ],
+  issues: ['"Nala stands at the stream mouth" - she knelt there last turn; prose has her kneeling'],
   lore: ["lore/otherwhere-interface", "lore/otherwhere-mire-monitors"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   endsAt: "2026-09-28T15:05:00.000Z",
 } as const satisfies StoryTurnPlayed
