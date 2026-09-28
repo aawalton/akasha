@@ -10,7 +10,7 @@ export const otherwhere00040 = {
   position: 40,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I take a loaf, and then eat chunks of it while I walk around to explore.",
   beats: [
     "Nala takes a loaf and tears off a chunk: the bread is dense and nutty, its crust glazed in honey.",
@@ -21,5 +21,5 @@ export const otherwhere00040 = {
     "Stacked in the corner are a dozen sacks of coarse salt, each about twenty pounds.",
   ],
   lore: ["place/otherwhere-kitchen"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
