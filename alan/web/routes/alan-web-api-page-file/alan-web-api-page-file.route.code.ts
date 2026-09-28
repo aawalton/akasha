@@ -20,7 +20,7 @@ const SIZED_HELD = 64
 
 const sized = new Map<string, Uint8Array<ArrayBuffer>>()
 
-export function snappedWidth(asked: string | null): number | null {
+function snappedWidth(asked: string | null): number | null {
   if (asked === null) return null
   const width = Number(asked)
   if (!Number.isFinite(width) || width <= 0) return null
