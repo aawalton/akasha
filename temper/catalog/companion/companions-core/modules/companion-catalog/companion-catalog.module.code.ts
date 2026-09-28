@@ -52,14 +52,14 @@ export interface RotationBreakdownRowTemplate {
   readonly description: string
 }
 
-export interface CompanionSlots {
+interface CompanionSlots {
   readonly armor: readonly CompanionSlotTemplate[]
   readonly jewelry: readonly CompanionSlotTemplate[]
   readonly weapon: readonly CompanionSlotTemplate[]
   readonly skill: readonly CompanionSlotTemplate[]
 }
 
-export interface CompanionCatalogParts {
+interface CompanionCatalogParts {
   readonly effectCategoryOrder: Readonly<Record<string, number>>
   readonly breakdownRows: readonly RotationBreakdownRowTemplate[]
   readonly effectCategories: Readonly<Record<string, BuffCategory>>
@@ -239,7 +239,7 @@ export function companionSlotAt(
   return slot
 }
 
-export interface CompanionSlotTable<Id extends string, Held extends { readonly id: Id }> {
+interface CompanionSlotTable<Id extends string, Held extends { readonly id: Id }> {
   readonly ids: readonly Id[]
   readonly list: readonly Held[]
   readonly data: Readonly<Record<Id, Held>>
