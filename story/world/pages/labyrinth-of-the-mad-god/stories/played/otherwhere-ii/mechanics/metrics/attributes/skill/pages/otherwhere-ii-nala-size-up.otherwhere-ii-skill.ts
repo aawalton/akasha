@@ -1,13 +1,13 @@
 import type { OtherwhereIiSkill } from "akasha/story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere-ii/mechanics/metrics/attributes/skill/otherwhere-ii-skill.page-type.types.ts"
 
-export const otherwhereNalaForaging = {
-  id: "01a0e9a0-42e7-75cc-8bd4-241e4a5ca60e",
+export const otherwhereIiNalaSizeUp = {
+  id: "01a0e9a0-42e7-7236-bbc2-7335a632e0d4",
   type: "page-type/otherwhere-ii-skill",
-  slug: "otherwhere-nala-foraging",
-  title: "Foraging",
-  description: "Finding food and water in the wild, and sensing what is safe to eat.",
+  slug: "otherwhere-ii-nala-size-up",
+  title: "Size up",
+  description: "Reading how dangerous a creature is, and a prickle of warning when danger is near.",
   character: "character-player/otherwhere-ii-nala",
-  value: 1,
+  value: 0,
   minValue: 0,
   maxValue: 10,
   history: "jsonl",

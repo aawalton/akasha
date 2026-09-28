@@ -1,11 +1,11 @@
 import type { OtherwhereIiSkill } from "akasha/story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere-ii/mechanics/metrics/attributes/skill/otherwhere-ii-skill.page-type.types.ts"
 
-export const otherwhereNalaSizeUp = {
-  id: "01a0e9a0-42e7-7236-bbc2-7335a632e0d4",
+export const otherwhereIiNalaStealth = {
+  id: "01a0e9a0-42e8-786b-853c-57641b07a03f",
   type: "page-type/otherwhere-ii-skill",
-  slug: "otherwhere-nala-size-up",
-  title: "Size up",
-  description: "Reading how dangerous a creature is, and a prickle of warning when danger is near.",
+  slug: "otherwhere-ii-nala-stealth",
+  title: "Stealth",
+  description: "Moving and keeping still unseen and unheard.",
   character: "character-player/otherwhere-ii-nala",
   value: 0,
   minValue: 0,
