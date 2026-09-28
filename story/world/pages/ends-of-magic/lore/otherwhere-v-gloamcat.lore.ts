@@ -121,5 +121,21 @@ export const otherwhereVGloamcat = {
       fact: "Night, day one: something large moved under the ferns toward Nala's back as she crept to the log.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
+    {
+      fact: "Prey that breaks into a run draws the gloamcat's rush at once; it runs far faster than a person.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Rushing Nala as she runs for the log, it reaches her back ten yards short of the log's mouth.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Its rush from behind ends in a leap for the back of the neck, heavy and low.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Prey that drops flat or twists aside as it leaps makes it overshoot, and it takes a breath to turn.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
