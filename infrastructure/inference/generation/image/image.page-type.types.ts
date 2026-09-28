@@ -1,6 +1,7 @@
 import type { Prompt } from "akasha/agent/model/test/properties/prompt.text-property.types.ts"
 import type { EsoDay } from "akasha/infrastructure/inference/generation/image/properties/eso-day.calendar-date-property.types.ts"
 import type { ImageAgeTags } from "akasha/infrastructure/inference/generation/image/properties/image-age-tags.multi-relation-property.types.ts"
+import type { ImageAlbums } from "akasha/infrastructure/inference/generation/image/properties/image-albums.multi-relation-property.types.ts"
 import type { ImageBytes } from "akasha/infrastructure/inference/generation/image/properties/image-bytes.file-property.types.ts"
 import type { ImageEthnicityTags } from "akasha/infrastructure/inference/generation/image/properties/image-ethnicity-tags.multi-relation-property.types.ts"
 import type { ImageFantasyTags } from "akasha/infrastructure/inference/generation/image/properties/image-fantasy-tags.multi-relation-property.types.ts"
@@ -53,4 +54,5 @@ export type Image = Page & {
   ethnicityTags?: ImageEthnicityTags
   ageTags?: ImageAgeTags
   subjects?: ImageSubjects
+  albums?: ImageAlbums
 }

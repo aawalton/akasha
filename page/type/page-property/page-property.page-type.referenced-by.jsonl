@@ -112,6 +112,7 @@
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"graph/predicate/properties/follows.record-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/cluster/k8s-type/manifest/properties/build-env.one-of-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/inference/generation/image/properties/image-age-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/inference/generation/image/properties/image-albums.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/inference/generation/image/properties/image-ethnicity-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/inference/generation/image/properties/image-fantasy-tags.multi-relation-property.types.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-property.page-type.ts","path":"infrastructure/inference/generation/image/properties/image-pose-tags.multi-relation-property.types.ts","typed":true,"deferred":false}

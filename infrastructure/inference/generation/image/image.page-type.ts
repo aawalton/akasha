@@ -30,6 +30,8 @@ export const image = {
     "multi-relation-property/reference-images",
     "text-property/service-versions",
     "page-type/image-tag",
+    "page-type/image-album",
+    "multi-relation-property/image-albums",
     "multi-relation-property/image-setting-tags",
     "multi-relation-property/image-pose-tags",
     "multi-relation-property/image-wardrobe-tags",
@@ -106,6 +108,12 @@ export const image = {
       maxCount: null,
     },
     { pageProperty: "text-property/image-subjects", required: false, many: false },
+    {
+      pageProperty: "multi-relation-property/image-albums",
+      required: false,
+      many: true,
+      maxCount: null,
+    },
   ],
   decisions: [
     {
