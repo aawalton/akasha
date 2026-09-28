@@ -5,6 +5,7 @@ import { persona } from "akasha/persona/persona.page-type.ts"
 import {
   COVER_WIDTH_ASKED,
   characterCoversOf,
+  charactersDrawn,
   charactersIn,
   latestTurnId,
   pagedAt,
@@ -134,4 +135,14 @@ test("a character with no cover, or no row, is left out", () => {
   const named = charactersIn([other("a"), other("b")])
   const rows = new Map([[characterOther.slug, [row({ slug: "a" })]]])
   expect(characterCoversOf(named, rows)).toEqual([])
+})
+
+test("the story's player is drawn where no open turn names a character", () => {
+  expect(charactersDrawn(undefined, player("p"))).toEqual([
+    { pageTypeSlug: characterPlayer.slug, slug: "p" },
+  ])
+  expect(charactersDrawn([other("a")], player("p"))).toEqual([
+    { pageTypeSlug: characterOther.slug, slug: "a" },
+  ])
+  expect(charactersDrawn(undefined, "")).toEqual([])
 })

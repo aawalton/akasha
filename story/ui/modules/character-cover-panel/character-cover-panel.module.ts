@@ -14,6 +14,11 @@ export const characterCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "Where no open turn names a character, as after a chapter closes, the story's player is drawn.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "The character the player plays is drawn as every other character is.",
     },
     {

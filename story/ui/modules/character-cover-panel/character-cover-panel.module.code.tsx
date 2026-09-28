@@ -71,6 +71,11 @@ export function charactersIn(value: unknown): readonly Character[] {
   return held
 }
 
+export function charactersDrawn(value: unknown, player: string): readonly Character[] {
+  const named = charactersIn(value)
+  return named.length > 0 || player === "" ? named : charactersIn([player])
+}
+
 export function slugsOf(named: readonly Character[], pageTypeSlug: string): readonly string[] {
   return named.filter((one) => one.pageTypeSlug === pageTypeSlug).map((one) => one.slug)
 }
@@ -147,20 +152,23 @@ function shapeNamed(
 type CoverPanelProps = {
   readonly turns: readonly ClientStoryTurn[]
   readonly turnCovers: readonly PlayedTurnCover[]
+  readonly player: string
 }
 
-export function CharacterCoverPanel({ turns, turnCovers }: CoverPanelProps) {
+export function CharacterCoverPanel({ turns, turnCovers, player }: CoverPanelProps) {
   const turnId = latestTurnId(turns)
   if (turnId === null) return null
-  return <TurnCovers turnId={turnId} turnCovers={turnCovers} />
+  return <TurnCovers turnId={turnId} turnCovers={turnCovers} player={player} />
 }
 
 function TurnCovers({
   turnId,
   turnCovers,
+  player,
 }: {
   turnId: string
   turnCovers: readonly PlayedTurnCover[]
+  player: string
 }) {
   const turnOptions = useMemo<UsePagesSupabaseOptions>(
     () => ({
@@ -174,7 +182,7 @@ function TurnCovers({
   const rows = usePages(turnOptions).rows
   const [paged, setPaged] = useState<Paged | null>(null)
   const turn = rows.find((row) => row[ID_KEY] === turnId)
-  const keyed = keyedOf(charactersIn(turn?.[characters.propertySlug]))
+  const keyed = keyedOf(charactersDrawn(turn?.[characters.propertySlug], player))
   const covers = turnCoversOf(turnCovers)
   if (keyed === "" && covers.length === 0) return null
   const picture =

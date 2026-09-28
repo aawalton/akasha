@@ -31,6 +31,11 @@ export const playedRows = {
     {
       decisionKind: "decision-kind/departure",
       statement:
+        "The covers a story's chapters kept are carried first, in chapter order, then the open turns'.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
         "A turn stating no cover carries none, and a turn stating no position is numbered by its place.",
     },
     {

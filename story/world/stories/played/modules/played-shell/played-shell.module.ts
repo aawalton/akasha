@@ -91,6 +91,11 @@ export const playedShell = {
       decisionKind: "decision-kind/departure",
       statement: "The state drawn is what the story's character player's own pages hold.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "The panels are handed the story's character player, whether or not a turn is open.",
+    },
 
     {
       decisionKind: "decision-kind/departure",

@@ -30,6 +30,14 @@ export const panelDrawing = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Those covers take in the covers of the turns the story's chapters took.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A panel is handed the story's character player, or nothing where it has none.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "A panel is handed what sends the game a choice, where the game has a game master.",
     },

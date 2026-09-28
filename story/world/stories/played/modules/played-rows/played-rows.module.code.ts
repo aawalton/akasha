@@ -1,4 +1,5 @@
 import { asNumber } from "akasha/code/type/narrowing/modules/as-number/as-number.module.code.ts"
+import { asRecordOrEmpty } from "akasha/code/type/narrowing/modules/as-record/as-record.module.code.ts"
 import type { Page } from "akasha/page/core/modules/page-types/page-types.module.code.ts"
 import type { NamedPages } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import { buildPageHref } from "akasha/page/url/modules/page-href/page-href.module.code.ts"
@@ -237,8 +238,27 @@ export function playedTurnsOf(
 
 const PLAYED_COVER_KEY = "cover"
 
-export function playedCoversOf(rows: readonly Page[]): readonly PlayedTurnCover[] {
+const PLAYED_TURN_COVERS_KEY = "turnCovers"
+
+function chapterCoversOf(row: Page): readonly PlayedTurnCover[] {
+  const listed = row[PLAYED_TURN_COVERS_KEY]
+  if (!Array.isArray(listed)) return []
   const held: PlayedTurnCover[] = []
+  for (const one of listed) {
+    const entry = asRecordOrEmpty(one)
+    const number = asNumber(entry[PLAYED_POSITION_KEY])
+    const cover = entry[PLAYED_COVER_KEY]
+    if (number === null || typeof cover !== "string" || cover === "") continue
+    held.push({ id: `${row.id}:${number}`, number, cover })
+  }
+  return held
+}
+
+export function playedCoversOf(
+  chapters: readonly Page[],
+  rows: readonly Page[]
+): readonly PlayedTurnCover[] {
+  const held: PlayedTurnCover[] = playedOrder(chapters).flatMap(chapterCoversOf)
   for (const [index, row] of playedOrder(rows).entries()) {
     const cover = row[PLAYED_COVER_KEY]
     if (typeof cover !== "string" || cover === "") continue

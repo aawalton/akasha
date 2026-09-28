@@ -19,6 +19,7 @@ const turnOf = (id: string, text: string): ClientStoryTurn => ({ id, title: id, 
 const runOf = (turns: readonly ClientStoryTurn[]): PanelRun => ({
   turns,
   turnCovers: [],
+  player: "",
   beats: undefined,
   hrefById: new Map(),
   earlier: 0,

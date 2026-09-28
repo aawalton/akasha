@@ -89,7 +89,7 @@ describe("playedCoversOf", () => {
     const rows = turnsNumbering(PLAYED_ROWS_DRAWN + 2).map((row) =>
       turnPage({ id: row.id, position: row.position, cover: `image/${row.id}` })
     )
-    const covers = playedCoversOf(rows)
+    const covers = playedCoversOf([], rows)
     expect(covers).toHaveLength(PLAYED_ROWS_DRAWN + 2)
     expect(covers[0]).toEqual({ id: "id-0", number: 1, cover: "image/id-0" })
   })
@@ -100,9 +100,24 @@ describe("playedCoversOf", () => {
       turnPage({ id: "loose", cover: "image/loose" }),
       turnPage({ id: "a", position: 1, cover: "image/a" }),
     ]
-    expect(playedCoversOf(rows)).toEqual([
+    expect(playedCoversOf([], rows)).toEqual([
       { id: "a", number: 1, cover: "image/a" },
       { id: "loose", number: 3, cover: "image/loose" },
+    ])
+  })
+
+  test("carries the covers each chapter kept, chapters in order, before the open turns' covers", () => {
+    const chapter = (id: string, position: number, turnCovers: unknown): Page =>
+      asPage({ pageTypeSlug: "story-chapter-played", id, position, turnCovers })
+    const chapters = [
+      chapter("c2", 2, [{ position: 3, cover: "image/three" }]),
+      chapter("c1", 1, [{ position: 1, cover: "image/one" }, { position: 2 }]),
+    ]
+    const open = [turnPage({ id: "t4", position: 4, cover: "image/four" })]
+    expect(playedCoversOf(chapters, open)).toEqual([
+      { id: "c1:1", number: 1, cover: "image/one" },
+      { id: "c2:3", number: 3, cover: "image/three" },
+      { id: "t4", number: 4, cover: "image/four" },
     ])
   })
 })
