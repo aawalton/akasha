@@ -10,5 +10,6 @@ export const otherwhere = {
   externalId: "otherwhere",
   coordinatorAgent: "iris-game-master-otherwhere",
   chapterBreak: "A task the Library set is done.",
+  opensAt: "2026-09-26T00:00:00.000Z",
   panels: ["played-panel/character-cover", "played-panel/story-so-far"],
 } as const satisfies StoryPlayed
