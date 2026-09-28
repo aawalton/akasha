@@ -143,7 +143,7 @@ function typeOf(read: Taken): string {
   return read.chapter ? storyChapterWritten.slug : storyTurnPlayed.slug
 }
 
-type Context = {
+export type Context = {
   readonly game: string
   readonly story: Story | null
   readonly reviewers: readonly Reviewer[]
@@ -181,7 +181,7 @@ async function noticesOver(reach: Reach, root: string, at: Context, status: Turn
   await noticesSent(reach, root, at.game, master, turn, status, after, at.prompting.lore, noun)
 }
 
-async function seatsStarted(
+export async function seatsStarted(
   reach: Reach,
   at: Context,
   starts: readonly Start[],

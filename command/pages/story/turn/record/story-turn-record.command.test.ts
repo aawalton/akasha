@@ -1,0 +1,87 @@
+import { expect, test } from "bun:test"
+import type { Given } from "akasha/command/modules/calling/calling.module.code.ts"
+import {
+  AT,
+  landingInto,
+  reachOver,
+  type Seen,
+  SLUG,
+  seen,
+  turnAt,
+} from "akasha/command/pages/story/turn/advance/story-turn-advance.command.test-fixtures.ts"
+import type { Turn } from "akasha/command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts"
+import { storyTurnRecord } from "akasha/command/pages/story/turn/record/story-turn-record.command.code.ts"
+import { memory } from "akasha/story/recorder/pages/memory.story-recorder.ts"
+import { storyRecorder } from "akasha/story/recorder/story-recorder.page-type.ts"
+import {
+  RECORDERS,
+  statusOf,
+} from "akasha/story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts"
+
+const GIVEN: Given = {
+  root: "/nowhere",
+  calledAs: "akasha story turn record",
+  from: "",
+  writer: null,
+  agentId: null,
+}
+
+async function recordedBy(turn: Turn, into: Seen) {
+  return await storyTurnRecord(
+    ["--turn", `story-turn-played/${SLUG}`],
+    GIVEN,
+    landingInto(into),
+    reachOver(turn, null, into)
+  )
+}
+
+test("a turn at player no recorder ran on moves to recorders and starts a seat for each recorder", async () => {
+  const into = seen()
+  const answer = await recordedBy(turnAt("player", { prose: "txt" }), into)
+  expect(answer.refusals).toEqual([])
+  expect(into.folded).toEqual([
+    {
+      pageTypeSlug: "story-turn-played",
+      slug: SLUG,
+      path: AT,
+      merge: true,
+      values: { stepStatus: statusOf(RECORDERS) },
+    },
+  ])
+  expect(into.steps).toEqual(["read", `hold ${AT}`, "read", "land", `free ${AT}`])
+  expect(into.starts.map((one) => [one.role, one.game])).toEqual([
+    ["story-recorder", "the-saga"],
+    ["story-recorder", "the-saga"],
+  ])
+  expect(into.starts.every((one) => one.prompt.includes(AT))).toBe(true)
+  expect(answer.report).toContain(`${SLUG}\tplayer\trecorders`)
+})
+
+test("a turn a recorder ran on already is refused, and nothing is done", async () => {
+  const into = seen()
+  const turn = turnAt("player", { recordedBy: [`${storyRecorder.slug}/${memory.slug}`] })
+  const answer = await recordedBy(turn, into)
+  expect(answer.refusals.join(" ")).toContain("was recorded already")
+  expect(into.folded).toEqual([])
+  expect(into.starts).toEqual([])
+})
+
+test("a turn before player is refused, and nothing is done", async () => {
+  const into = seen()
+  const answer = await recordedBy(turnAt("writer"), into)
+  expect(answer.refusals.join(" ")).toContain("is at writer")
+  expect(into.folded).toEqual([])
+  expect(into.starts).toEqual([])
+})
+
+test("a turn naming no played turn here is refused", async () => {
+  const into = seen()
+  const answer = await storyTurnRecord(
+    ["--turn", "story-turn-played/the-saga-00-099"],
+    GIVEN,
+    landingInto(into),
+    reachOver(turnAt("player"), null, into)
+  )
+  expect(answer.refusals.join(" ")).toContain("names no played turn here")
+  expect(into.starts).toEqual([])
+})

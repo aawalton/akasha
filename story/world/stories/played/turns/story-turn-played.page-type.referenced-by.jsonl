@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"command/pages/story/turn/advance/story-turn-advance.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"command/pages/story/turn/record/story-turn-record.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"command/pages/story/turn/rewind/story-turn-rewind.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"story-turn-played.page-type.ts","path":"story/lore-disclosure/modules/lore-scrubbing/lore-scrubbing.module.test.ts","typed":false,"deferred":false}

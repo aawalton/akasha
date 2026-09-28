@@ -16,6 +16,7 @@ export const storyTurn = {
     "module/turn-reaching",
     "module/turn-ready-pushing",
     "module/turn-written",
+    "command/story-turn-record",
   ],
   name: "turn",
 } as const satisfies Namespace
