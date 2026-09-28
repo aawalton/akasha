@@ -203,7 +203,7 @@ export const otherwhereMainHall = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "The Library's first task for its Librarian is to clear the engorged bookworms from the hall.",
+      fact: "Nala has cleared the engorged bookworms from the hall, the Library's first task for her.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
