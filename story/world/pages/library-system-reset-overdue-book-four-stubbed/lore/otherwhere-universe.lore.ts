@@ -390,6 +390,18 @@ export const otherwhereUniverse = {
       ],
     },
     {
+      fact: "At 100 power the interface shows Library Power: 100 / 100, Stores Full.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Full, the Library pours what more it gains out along the ley lines, and Links feels it go.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "The Library's lights begin to sink toward evening amber as a long afternoon's work ends.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
       fact: "The Library's current task is Reopen the Library: serve a patron.",
       knowers: [
         "lore-disclosure/game-master",
