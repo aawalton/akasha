@@ -10,7 +10,7 @@ export const otherwhereVii00005 = {
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action:
     '"Thanks for the tip. Harvest is always busy, so I\'ll help there if I can. Who should I talk to about that?"',
   beats: [
@@ -38,6 +38,6 @@ export const otherwhereVii00005 = {
     'He takes the straw out of his teeth. "Who are you, then? And who\'s to speak for you?"',
   ],
   lore: ["place/otherwhere-vii-ashford", "lore/otherwhere-vii-ennis"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T07:09:00.000Z",
 } as const satisfies StoryTurnPlayed
