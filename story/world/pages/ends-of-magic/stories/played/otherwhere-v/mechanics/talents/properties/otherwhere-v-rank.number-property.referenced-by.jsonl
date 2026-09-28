@@ -1,3 +1,5 @@
 {"propertySlug":"import","fileName":"otherwhere-v-rank.number-property.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/talents/otherwhere-v-talent.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"otherwhere-v-rank.number-property.types.ts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.types.ts","typed":true,"deferred":false}
 {"propertySlug":"page-property","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/talents/otherwhere-v-talent.page-type.ts","id":"01a0ea00-7cea-7b8e-a94e-3a1d2f196a6c"}
+{"propertySlug":"page-property","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/utility-skills/otherwhere-v-utility-skill.page-type.ts","id":"01a0ea01-5719-755d-94fd-72e8bfea55a6"}
 {"propertySlug":"parts","path":"story/world/pages/ends-of-magic/stories/played/otherwhere-v/mechanics/talents/otherwhere-v-talent.page-type.ts","id":"01a0ea00-7cea-7b8e-a94e-3a1d2f196a6c"}
