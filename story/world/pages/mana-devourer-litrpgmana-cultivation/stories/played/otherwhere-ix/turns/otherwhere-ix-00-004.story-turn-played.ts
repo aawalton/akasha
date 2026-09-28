@@ -10,7 +10,7 @@ export const otherwhereIx00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-ix-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "As it gets close, I jump up into the air as high as I can, then try to land on top of it with all of my weight.",
   beats: [
@@ -35,7 +35,8 @@ export const otherwhereIx00004 = {
     "[Unique trait established: ???.]",
     "The words hang there, calm and patient, over the beast still twisting at her leg.",
   ],
+  issues: ['"The words hang there, calm and patient" - No Prompt'],
   lore: ["lore/otherwhere-ix-shardback", "lore/otherwhere-ix-nala"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:35:00.000Z",
 } as const satisfies StoryTurnPlayed
