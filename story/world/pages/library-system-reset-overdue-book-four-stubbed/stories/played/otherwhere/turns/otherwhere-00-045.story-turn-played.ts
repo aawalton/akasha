@@ -10,7 +10,7 @@ export const otherwhere00045 = {
   position: 45,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I pull myself up, pick up the third bag, for one more attempt. This time, as soon as the bag goes in, I leave as quick as I can manage.",
   beats: [
@@ -26,5 +26,5 @@ export const otherwhere00045 = {
     "Links crouches over her, fur flat, watching the gloom where the worm has gone.",
   ],
   lore: ["place/otherwhere-hall-back"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
