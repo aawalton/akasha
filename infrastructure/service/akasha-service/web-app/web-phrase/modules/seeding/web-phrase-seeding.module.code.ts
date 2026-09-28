@@ -44,7 +44,7 @@ export async function phrasesRead(
   return read
 }
 
-export type SeededDocument = DocumentData & { readonly phrases: readonly SeededPhrase[] }
+type SeededDocument = DocumentData & { readonly phrases: readonly SeededPhrase[] }
 
 export function seededLoaderAt(webApp: string, urlPath: string): () => Promise<SeededDocument> {
   return async () => {
