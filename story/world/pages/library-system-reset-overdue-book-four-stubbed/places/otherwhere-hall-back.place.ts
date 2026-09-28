@@ -246,6 +246,18 @@ export const otherwhereHallBack = {
       ],
     },
     {
+      fact: "The big bookworm's round mouth gapes wide enough to take a sack of salt whole.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Salt in a bookworm's mouth and gullet burns it far worse than salt on its hide.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A bookworm choking on salt thrashes wildly, and the big one's thrashing can crush.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "Salt ground into an open bite burns fiercely but does it no further harm.",
       knowers: ["lore-disclosure/game-master"],
     },
