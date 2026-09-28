@@ -156,7 +156,11 @@ export const otherwhereAlan = {
     },
     {
       fact: "Nala read Shelf Sight through in an hour on the counter's step, and gained its power.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
   secrets: "jsonl",

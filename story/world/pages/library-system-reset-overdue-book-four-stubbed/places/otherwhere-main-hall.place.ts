@@ -45,7 +45,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Opening Shelf Sight costs 1 mana, and the sight then holds for an hour.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "With Shelf Sight open, sorting a section at a time, a Librarian reshelves some thirty an hour.",
@@ -83,30 +87,7 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "Until the Library has more power, the quarters' taps run only cold.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "The quarters' taps run hot once the Library reaches 50 power.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
-    {
-      fact: "Before then, Links can heat one tubful of water for 1 power.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "The quarters have a deep stone tub but no shower; thick linen towels hang beside it.",
       knowers: [
@@ -311,14 +292,7 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-    {
-      fact: "Links told Nala that eight more reshelved books would make the quarters' taps run hot.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
-      ],
-    },
+
     {
       fact: "With Shelf Sight open, each book's right shelf glows faintly across the hall.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
