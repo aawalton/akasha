@@ -353,7 +353,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Long ago the main hall had every shelf full and its lamps lit gold.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
   secrets: "jsonl",

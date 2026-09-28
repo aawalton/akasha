@@ -357,8 +357,12 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "Nala's fourth sync brings her to connection 4; her interface gains a map of the Library.",
-      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+      fact: "Since her fourth sync, Nala's interface shows a map of the Library.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "The map shows the Library's rooms with power lit, and the rest, the hospital wing among them, dark.",
@@ -417,12 +421,12 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "Since her fourth sync, Nala's interface shows a map of the Library.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
       fact: "The map lights the main hall, the kitchen, the quarters and the core below.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
   secrets: "jsonl",
