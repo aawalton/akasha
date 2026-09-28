@@ -9,5 +9,5 @@ export const jensHighBarAndLowBar = {
   parents: ["all-about-alan-topic/undefined-expectations"],
   related: ["all-about-alan-topic/living-with-jen"],
   settled:
-    "Jen's ideal expectations are high and her practical ones are low, and I am never sure which I will be getting.\n\nShe always starts with the high bar and then negotiates down.\n\nFor the ten-day trip I was about to leave on at the end of September 2026, she had implied the low bar at some times and the high bar at others.",
+    "Jen's ideal expectations are high and her practical ones are low, and I am never sure which I will be getting.\n\nShe always starts with the high bar and then negotiates down.\n\nSo the low bar is not a second option beside the high one. I only reach it through a negotiation, and unless I pay that price I face the high bar by default.\n\nShe can negotiate herself down, but only when it is painful enough for her to be worth the cost of giving up what she wants.\n\nFor the ten-day trip I was about to leave on at the end of September 2026, she had implied the low bar at some times and the high bar at others.",
 } as const satisfies AllAboutAlanTopic
