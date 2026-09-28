@@ -1,0 +1,197 @@
+Lira woke curled awkwardly between two chairs, one serving as an improvised bed and the other as a makeshift leg rest. The arrangement had seemed smart when she collapsed into it the previous night, but now, in the morning, every joint in her body disagreed with her stupid choices. Her neck and lower back protested loudly, but it was nothing compared to her left shoulder, which had spent the entire night pressed into the wood at a bad angle.
+
+She groaned softly as she unfolded herself from the nest of furniture and stretched until her spine produced several deeply satisfying cracks. Only after that did she begin to feel human again.
+
+“Yorad. Luneth. Velar.”
+
+A soft wave of magic washed over her body. The self-cleaning spell removed the dust from her clothes, smoothed wrinkles from the fabric, and erased most of the evidence that she had slept like a goblin in a cave. It did not replicate the restorative effects of actual sleep, unfortunately, but it was close enough to create the illusion of dignity.
+
+Next came her hair.
+
+“Pika. Cavira. Frushum.”
+
+She ran a hand through her tangled morning hair. A moment later, the chaotic mess reorganized itself into a neat, practical braid draped over one shoulder.
+
+Lira inspected herself in a small, broken shard of mirror with mild approval. She still looked slightly tired around the eyes, but other than that, she looked impeccable.
+
+Her attention immediately shifted toward the enchanted paper she had left on the floor the night before.
+
+To her immense satisfaction, it was still functioning. Six hours later, the page remained intact and continued radiating steady warmth into the alcove. There were visible signs of strain, certainly, as the paper had dried noticeably, becoming more brittle and slightly yellowed, the edges also beginning to curl inward from prolonged exposure to heat. But for all intents and purposes, the spell remained functional.
+
+Lira crouched beside it, studying the result with growing excitement. Paper was clearly not an ideal long-term medium, especially for fire magic, but it was far more durable than she had initially assumed. Her little furnace design had survived an entire night, which made it workable as a whole.
+
+Encouraged, Lira left the alcove and stepped into the main library proper.
+
+The building was blissfully quiet. Dira and Juliet, the two punished maids Hesta had sent, were finally gone, recalled to normal duties after completing their sentence. Lira almost felt disappointed; they had actually been fairly competent once properly directed, even if they liked working on everything together.
+
+The first floor was empty except for her. Warmth radiated gently from Edward’s heating plates, making the library far more pleasant than it ever was. As she walked her usual inspection route, Lira absentmindedly tidied minor imperfections, a crooked book was straightened, and a poorly stacked pile was corrected. She also absorbed one mildly interesting volume about the life of knights and magically cleaned the grime from another whose binding looked especially rough.
+
+Dust was already returning.
+
+Lira ran a finger along the edge of a shelf and found it lightly coated again. She frowned slightly. Old books shed endlessly, and cleaning them manually felt like a time sink.
+
+If only she could automate it somehow.
+
+She had attempted large-scale magical cleaning before, but traditional spellcasting proved far too draining. Whether using wind or earth, active magic left her exhausted far too quickly, especially given the sheer scale of the library. She could, in theory, increase her magical stamina by pursuing higher-tier spells and expanding her mana pool. But doing that would make her glow like a beacon to anyone with a modest amount of mana sensitivity.
+
+She was already dangerously ambitious as it was; she would rather not paint an active target on her back.
+
+Then her eyes landed on one of the heating plaques mounted along the wall.
+
+Warmth radiated steadily from it, completely independent of Edward’s continued involvement.
+
+Lira stopped walking and narrowed her eyes.
+
+That was it. Runic magic had an upfront cost. Once cast, however, the enchantment no longer actively drained the caster. The magical structure sustained itself through the symbol and the ambient mana.
+
+Which meant… she could create a dusting enchantment.
+
+Lira turned so quickly she nearly tripped over her own feet before hurrying back into her alcove with renewed energy.
+
+Her first instinct was to adapt an existing spell.
+
+Pika. Terran. Frushum.
+
+Her earth manipulation spell was something she rarely used, but it would still be easier to adapt an existing spell than to start from scratch.
+
+She considered the idea for approximately ten seconds before dismissing it. Like all spells centered around Pika, it required active control, which made it fundamentally unsuited to passive runic use.
+
+Her second idea involved modifying her self-cleaning spell.
+
+Yorad. Luneth. Velar.
+
+A general-purpose cleaning enchantment had obvious appeal. Something that simply cleaned whatever it touched.
+
+But the more she thought about it, the more horrifying the concept became.
+
+A broadly defined cleaning enchantment sounded like an excellent way to accidentally erase ink, polish skin off flesh, or strip the finish from every piece of furniture in range. The spell had the word Velar for defining clarity, but how would she clarify the nature of everything in a simple cantrip? She had learned long ago that magic rewarded specificity; that was why the candle ignition spell was easier and more efficient than the general ignition spell.
+
+Eventually, she settled on a basic structure.
+
+Kisar. Terran. Kaldris.
+
+Symbol. Earth. Retrieval.
+
+Dust was, at its most basic level, small earth matter… mostly… probably. It was close enough for magic to work.
+
+Her understanding of earth magic was weaker than fire, however, so before attempting the imprint, she prepared properly.
+
+She summoned several books.
+
+A philosophical treatise discussing the symbolic meaning of earth as foundation, permanence, and materiality. A farming manual detailing soil composition and land maintenance. A text on artifact preservation that discussed dirt accumulation and cleaning methods.
+
+Then she entered meditation.
+
+“Pika. Selan. Tureth.”
+
+Hours might have passed… or perhaps only one. It was difficult to tell in that strange, focused state. Her mind drifted between concepts of dirt, particles, stone, dust accumulation, and retrieval until eventually the spell clicked into place.
+
+Kisar. Terran. Kaldris.
+
+Click.
+
+Lira exhaled in satisfaction, learning new spells was always exhilarating.
+
+She copied the rune for Terran from her father’s lexicon onto fresh paper, then cast it.
+
+“Kisar. Terran. Kaldris.”
+
+At first, nothing obvious happened. Then, slowly, very slowly, she noticed dust particles beginning to gather toward the paper.
+
+It was painfully inefficient.
+
+Lira frowned. That’s when she heard a sound behind her.
+
+Thunk.
+
+She turned just in time to watch the loose brick concealing her father’s lexicon compartment slide slightly out of place before dropping to the floor.
+
+Then, horrifyingly, it began inching across the stone toward the paper.
+
+It wasn’t particularly fast, roughly a centimeter every ten seconds, but it was undeniably moving.
+
+She groaned.
+
+“Of course.”
+
+The spell was attempting to retrieve all earth, not just dust. That explained why it was so weak. Its magical effort was being distributed across every stone in the room, including bricks, mortar, and likely half the building.
+
+She bent to retrieve the paper and discovered another problem. It was stuck to the floor. The magical pull had anchored it firmly in place. When she tugged harder, the paper tore instead, disrupting the rune and collapsing the spell.
+
+The brick stopped moving.
+
+Lira sighed.
+
+This version was a complete failure. She needed even more specificity. Which meant more words. Tier One, it was.
+
+After some consideration, she revised the structure by augmenting it with a couple of words.
+
+Kisar. Picos. Terran. Kaldris. Velar.
+
+Symbol. Diminution. Earth. Retrieval. Clarity.
+
+She found Picos, diminution, in her father’s lexicon and added it to the design. The logic was straightforward: specify that only small particulates of earth would matter, then reinforce with clarity as a safeguard.
+
+This time, the meditation process was significantly easier. She already understood the broader structure. She only needed to refine concepts of scale, filtering, and acceptable targets.
+
+Click.
+
+She tested again on a new paper.
+
+“Kisar. Picos. Terran. Kaldris. Velar.”
+
+Immediately, dust began moving visibly.
+
+Particles gathered across the floor and shelves, pulled toward the paper like invisible currents of air were sweeping through the room. Lira grinned as she watched a tiny mound of dust begin forming atop the rune. And most importantly, the brick remained unaffected.
+
+Now for more practical testing.
+
+Five minutes later, Lira stood inside one of the filthy upper-floor rooms, holding an open sack in one hand and a paper in the other. Before leaving the alcove, she had already improved the rune’s design slightly by incorporating directional arrows formed from repeated Kaldris symbols pointing inward toward the central Terran rune.
+
+It was aesthetically pleasing and logically reinforced.
+
+She placed the paper into the sack and positioned it so its mouth remained open, then cast it.
+
+“Kisar. Picos. Terran. Kaldris. Velar.”
+
+The result was immediate and glorious.
+
+Dust surged through the room in visible streams, funneling directly into the open sack: shelves cleared, corners emptied, and furniture surfaces emerged from beneath layers of gray.
+
+In less than a minute, the room looked visibly cleaner.
+
+The sack, meanwhile, was becoming alarmingly full.
+
+Lira blinked as the dust continued packing itself inside with unnerving efficiency.
+
+The bag bulged outward ominously and kept filling until the dirt started overflowing, only to then be affected by the magic again in an endless loop.
+
+That was... mildly concerning.
+
+She reached in to retrieve the paper only to realize the dust had compacted so densely around it that locating the sheet manually was no longer realistic.
+
+“Oh, for heaven’s sake.”
+
+She sighed and improvised.
+
+“Asatan. Tir. Kisar.”
+
+Using ink manipulation, she focused carefully on the buried rune through the fabric and forcibly destabilized the design, collapsing the enchanted writing into an incoherent blot of ink.
+
+The spell ended instantly, and the dust stopped moving.
+
+Lira stared thoughtfully at the absurdly overfilled sack.
+
+Clearly, the system worked extremely well... perhaps too well.
+
+She would need some kind of deactivation mechanism eventually. A proper off-switch would be useful if she intended scalable use. But that problem could wait.
+
+For now, she looked around the dramatically cleaner room and smiled.
+
+This had barely cost her anything: some ink, a sheet of paper, and a small initial spell investment.
+
+And in exchange?
+
+She might be able to clean the upper floors at a pace she previously could never imagine.
+
+Runic magic was rapidly becoming her favorite branch of spellcraft.
