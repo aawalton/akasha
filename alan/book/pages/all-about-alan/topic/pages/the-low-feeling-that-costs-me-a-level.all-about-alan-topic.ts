@@ -5,13 +5,12 @@ export const theLowFeelingThatCostsMeALevel = {
   type: "page-type/all-about-alan-topic",
   slug: "the-low-feeling-that-costs-me-a-level",
   title: "The Low Feeling That Costs Me A Level",
-  definition:
-    "the down feeling that is often just how it is in there, and what it does to my numbers",
+  definition: "the down feeling and what it does to my numbers",
   parents: ["all-about-alan-topic/safety-level"],
   related: [
     "all-about-alan-topic/where-safety-has-got-to",
     "all-about-alan-topic/what-my-record-gives-me-back",
   ],
   settled:
-    "Feeling down is often just what it feels like in there.\n\nIt acts as a minus one or minus two modifier to my safety level.\n\nIf my level is high enough it is not a problem. If it is low enough I do not even start.\n\nWhen I am on the margin, it matters.\n\nOn 27 August 2026 I was at two to three against a rebuild at difficulty three, which is that band.",
+    "Feeling down generally has at least one reason behind it.\n\nOn 28 September 2026 the reasons were a lack of sleep, extra load, an unexpected disruption, a lack of consistent positive boosts, and responsibility mode from leaving on a trip the next day.\n\nIt acts as a minus one or minus two modifier to my safety level.\n\nIf my level is high enough it is not a problem. If it is low enough I do not even start.\n\nWhen I am on the margin, it matters.\n\nOn 27 August 2026 I was at two to three against a rebuild at difficulty three, which is that band.",
 } as const satisfies AllAboutAlanTopic
