@@ -4,13 +4,14 @@ export const otherwhere00049 = {
   id: "01a0e5af-a2ab-7920-af9c-7f74a6311a0c",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-049",
+  cover: "image/image-fd4154e22fc32980",
   ownLength: 120,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 49,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "I grab the last sack and shove it as deep as I can get",
   beats: [
     "Nala snatches up the last fresh sack while the worm still gags and spits salt.",
@@ -25,5 +26,5 @@ export const otherwhere00049 = {
   ],
   lore: ["place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
