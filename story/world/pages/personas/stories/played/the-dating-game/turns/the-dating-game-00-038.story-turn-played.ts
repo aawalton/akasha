@@ -11,7 +11,7 @@ export const theDatingGame00038 = {
   position: 38,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action: "“Mind if I join you again another night?”",
   beats: [
     'Alan: "Mind if I join you again another night?"',
@@ -25,5 +25,6 @@ export const theDatingGame00038 = {
     '"She touches his arm lightly in goodbye" - at level 1 touch goes no further than a greeting',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-26T19:44:00.000Z",
 } as const satisfies StoryTurnPlayed

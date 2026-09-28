@@ -76,6 +76,10 @@ export const theDatingGameGrace = {
       fact: "Grace told Alan she is due at a bedside at eight, so she must leave soon.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Grace told Alan she'd like him to join her again another night.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
