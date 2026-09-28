@@ -293,7 +293,7 @@ export const otherwhereHallBack = {
       ],
     },
     {
-      fact: "A jar of honey sits at the edge of the gloom behind Nala; no salt sacks are left there.",
+      fact: "One sack of salt and a jar of honey sit at the edge of the gloom behind Nala.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
