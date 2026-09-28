@@ -22,4 +22,5 @@ export const theDatingGame00049 = {
   ],
   lore: ["lore/the-dating-game-aelwyn", "place/the-dating-game-provo-river-trail"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
