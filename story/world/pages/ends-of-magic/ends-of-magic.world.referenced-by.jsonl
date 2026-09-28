@@ -156,6 +156,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dimensional-magic.lore.ts","id":"01a0e9fe-e84a-763e-8f04-9f9cf949db35"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-diplomats-friend.lore.ts","id":"01a0e9f9-8feb-7e96-a709-40c17fd31e55"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-disadvantage.lore.ts","id":"01a0e9f8-2dc4-7ed1-bb2d-afa5064c96df"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-distal-expansion.lore.ts","id":"01a0ea05-f881-7928-97ce-a71e29db9134"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-divinity.lore.ts","id":"01a0e9f5-6821-700d-a7eb-2c1701adb00d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dorvan-hesk.lore.ts","id":"01a0ea04-6a58-773a-8aaf-07d64ffa90ac"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dracolizard.lore.ts","id":"01a0e9f8-965e-7052-9329-b2fc13974c65"}
@@ -455,6 +456,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-baduds-grid.world-organization.ts","id":"01a0e9fc-7097-75ab-9142-908e855494a2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-continuance-council.world-organization.ts","id":"01a0ea01-0e97-7ab1-bf59-84bc8219c8fd"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-council-of-eighty-nine.world-organization.ts","id":"01a0ea01-0e97-7ee7-9d9b-faccee0ca497"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-distal-expansion.world-organization.ts","id":"01a0ea05-f882-7619-8c2a-54907cc638ca"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-edrani-empire.world-organization.ts","id":"01a0ea02-5e4d-7fb3-8beb-9b95b9933b73"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-elothian-rangers.world-organization.ts","id":"01a0e9f7-12e8-75a8-b358-0cf9d3db91e6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-esebus.world-organization.ts","id":"01a0e9f8-bd22-748f-a9aa-7b12853cb0b6"}
