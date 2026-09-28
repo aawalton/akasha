@@ -15,7 +15,7 @@ export const otherwhere = {
     "played-panel/character-cover",
     "played-panel/scene-cover",
     "played-panel/time",
-    "played-panel/character-sheet",
+    "played-panel/otherwhere-sheet",
     "played-panel/story-so-far",
   ],
 } as const satisfies StoryPlayed
