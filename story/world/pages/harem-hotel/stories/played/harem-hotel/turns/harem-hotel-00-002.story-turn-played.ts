@@ -4,7 +4,7 @@ export const haremHotel00002 = {
   id: "01a0e843-4f81-7572-9f9b-63017adca42f",
   type: "page-type/story-turn-played",
   slug: "harem-hotel-00-002",
-  cover: "image/image-238dd5b97ecf70db",
+  cover: "image/image-7e9067046e4fc819",
   ownLength: 480,
   unit: "unit/words",
   partOfCollections: ["story-played/harem-hotel"],
