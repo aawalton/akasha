@@ -10,7 +10,7 @@ export const otherwhereIii00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I hit the warmth button again and stand up, getting ready to get on the train",
   beats: [
     "Nala presses PUSH FOR HEAT again; the lamps hum and glow orange over her.",
@@ -32,6 +32,6 @@ export const otherwhereIii00003 = {
     'The nurse says, "Honey, where are your shoes? Do you need some help?"',
   ],
   lore: ["place/otherwhere-iii-red-line-car"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2037-01-31T04:54:00.000Z",
 } as const satisfies StoryTurnPlayed
