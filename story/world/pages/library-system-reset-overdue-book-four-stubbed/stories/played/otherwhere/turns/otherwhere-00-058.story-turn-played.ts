@@ -23,4 +23,5 @@ export const otherwhere00058 = {
     "The glow fades from the shelves just as she slides the last book of the counter's heaps into place.",
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
