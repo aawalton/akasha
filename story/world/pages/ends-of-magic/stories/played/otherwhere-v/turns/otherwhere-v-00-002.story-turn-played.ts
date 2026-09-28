@@ -10,7 +10,7 @@ export const otherwhereV00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Okay…isekai protocol. System? Status? Davrar? Davrar…I remember that name. Nathan, have you merged with the system yet? If so, could you send me some help? I know you can and wouldn’t want me to go through what you did.”",
   beats: [
@@ -53,7 +53,7 @@ export const otherwhereV00002 = {
     "Box, cont.: will be rewarded.",
     "Box: Davrar hopes you will survive and prosper.",
     "The box hangs in the air in front of her.",
-    "Dusk is coming on in a forest full of unseen callers.",
+    "Beyond the hollow's rim, the shade between the trunks has gone blue-grey.",
     "She is barefoot, with nothing in her hands, and the brook runs away downhill from the spring.",
   ],
   issues: [
