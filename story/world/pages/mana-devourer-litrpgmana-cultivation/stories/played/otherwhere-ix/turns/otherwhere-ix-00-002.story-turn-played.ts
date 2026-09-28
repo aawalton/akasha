@@ -39,6 +39,6 @@ export const otherwhereIx00002 = {
   ],
   lore: ["lore/otherwhere-ix-shardback", "place/otherwhere-ix-glassgrass-flats"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T15:32:00.000Z",
 } as const satisfies StoryTurnPlayed
