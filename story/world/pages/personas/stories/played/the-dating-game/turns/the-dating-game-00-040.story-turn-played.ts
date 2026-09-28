@@ -4,13 +4,14 @@ export const theDatingGame00040 = {
   id: "01a0e7b9-81ef-7e20-847e-57e3989ad7e5",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-040",
+  cover: "image/image-4c54343c0786d730",
   ownLength: 132,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 40,
   prose: "txt",
   characters: ["character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "In the morning, I wake up and go through my normal routine, then decide to go to the Provo Rec Center to work out.",
   beats: [
@@ -25,6 +26,6 @@ export const theDatingGame00040 = {
   issues: ['"the lobby lies dim and still, the whole building shut for the day" - Leave It Open'],
   lore: ["place/the-dating-game-provo-recreation-center"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-27T09:15:00.000Z",
 } as const satisfies StoryTurnPlayed

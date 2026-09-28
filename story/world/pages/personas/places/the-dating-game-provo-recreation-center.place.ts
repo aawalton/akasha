@@ -13,11 +13,11 @@ export const theDatingGameProvoRecreationCenter = {
     },
     {
       fact: "The Provo Recreation Center opens Monday to Saturday, 5 AM to 10 PM.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
       fact: "The Provo Recreation Center is closed on Sundays, its doors locked and its lot empty.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
   ],
 } as const satisfies Place
