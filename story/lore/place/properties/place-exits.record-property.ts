@@ -9,6 +9,7 @@ export const placeExits = {
   properties: [
     { pageProperty: "relation-property/place-exit-to", required: false, many: false },
     { pageProperty: "text-property/place-exit-way", required: true, many: false },
+    { pageProperty: "select-property/place-exit-direction", required: false, many: false },
   ],
   decisions: [
     {

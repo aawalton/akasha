@@ -84,6 +84,7 @@
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"narrow-comparison","propertySlug":"comparison","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"only-on","propertySlug":"only-on","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"operating-system","propertySlug":"operating-system","fileName":null,"folderName":null}
+{"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"place-exit-direction","propertySlug":"direction","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"placed-by","propertySlug":"placed-by","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"platform","propertySlug":"platform","fileName":null,"folderName":null}
 {"pageTypeSlug":"select-property","targetPageTypeSlug":null,"unique":null,"uniquePropertySlug":null,"slug":"player-color","propertySlug":"player-color","fileName":null,"folderName":null}

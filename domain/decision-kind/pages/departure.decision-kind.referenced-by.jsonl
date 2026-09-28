@@ -3734,6 +3734,7 @@
 {"propertySlug":"decision-kind","path":"story/lore/lore.page-type.ts","id":"01a0d41b-785e-7bb8-b6fd-3c32ff5a377a"}
 {"propertySlug":"decision-kind","path":"story/lore/place/place.page-type.ts","id":"01a0d42e-f05d-7b7a-b366-dceb25db06b5"}
 {"propertySlug":"decision-kind","path":"story/lore/place/properties/place-depth.number-property.ts","id":"01a0d42e-fdd4-7681-86a9-535b7194e760"}
+{"propertySlug":"decision-kind","path":"story/lore/place/properties/place-exit-direction.select-property.ts","id":"01a0e852-6698-7328-af74-74fd83f985b4"}
 {"propertySlug":"decision-kind","path":"story/lore/place/properties/place-exits.record-property.ts","id":"01a0d42f-0689-7bf1-96eb-c0c92d2ccd82"}
 {"propertySlug":"decision-kind","path":"story/lore/properties/lore-about.relation-property.ts","id":"01a0d426-439c-7d51-9d3c-9df614dce06f"}
 {"propertySlug":"decision-kind","path":"story/lore/properties/lore-facts.record-property.ts","id":"01a0deeb-9c4e-7516-894d-7586de664d47"}

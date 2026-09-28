@@ -13,6 +13,7 @@ export const place = {
     "record-property/place-exits",
     "relation-property/place-exit-to",
     "text-property/place-exit-way",
+    "select-property/place-exit-direction",
   ],
   properties: [
     { pageProperty: "relation-property/place-within", required: false, many: false },
