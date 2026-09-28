@@ -14,11 +14,11 @@ export const haremHotelOdile = {
     },
     {
       fact: "Odile is tall and long-legged, pale, with cool grey eyes and a red-painted mouth.",
-      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Odile wears her black hair pinned in a sleek chignon.",
-      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Odile has small high tits with dark nipples and a trimmed black bush over her cunt.",
@@ -26,12 +26,7 @@ export const haremHotelOdile = {
     },
     {
       fact: "Odile is composed and formal, calls Alan sir, and has a dry wit that rarely smiles.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/harem-hotel-alan",
-        "character-other/harem-hotel-odile",
-        "character-other/harem-hotel-wren",
-      ],
+      knowers: ["lore-disclosure/game-master"],
     },
     {
       fact: "Odile likes to give orders in sex, and likes even more being made to lose the thread of them.",
@@ -45,55 +40,6 @@ export const haremHotelOdile = {
       fact: "Odile gives her name only when Alan asks for it.",
       knowers: ["lore-disclosure/game-master"],
     },
-    {
-      fact: "Odile kept the lobby alone longer than she can remember; Alan is the first guest she has checked in.",
-      knowers: ["lore-disclosure/game-master"],
-    },
-    {
-      fact: "Odile's small high tits are pale, with dark nipples.",
-      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
-    },
-    {
-      fact: "Under her composure, Odile kisses slow, deep and hungry.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/harem-hotel-alan",
-        "character-other/harem-hotel-odile",
-      ],
-    },
-    {
-      fact: "On floor 1 Odile gives Wren orders, and Wren does as she says.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/harem-hotel-alan",
-        "character-other/harem-hotel-odile",
-        "character-other/harem-hotel-wren",
-      ],
-    },
-    {
-      fact: "Odile wears silk knickers under her black skirt.",
-      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
-    },
-    {
-      fact: "Odile is wetter than anything in her face or voice lets on.",
-      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
-    },
-    {
-      fact: "Odile goes utterly still at a new touch, then yields to it by a fraction.",
-      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
-    },
-    {
-      fact: "Odile gives orders in sex, and loses the end of them under Alan's hand.",
-      knowers: [
-        "lore-disclosure/game-master",
-        "character-player/harem-hotel-alan",
-        "character-other/harem-hotel-odile",
-        "character-other/harem-hotel-wren",
-      ],
-    },
-    {
-      fact: "Odile tries to swallow the sounds she makes in sex, and fails.",
-      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
-    },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
