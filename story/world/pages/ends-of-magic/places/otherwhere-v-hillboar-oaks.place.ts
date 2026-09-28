@@ -32,11 +32,11 @@ export const otherwhereVHillboarOaks = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Serrinford men hunt hillboar in the oaks each late autumn, always with rangers along.",
+      fact: "No one in Serrinford hunts hillboar; the rangers only drive strays back from the ford.",
       knowers: ["lore-disclosure/game-master"],
     },
     {
-      fact: "Villagers gather mushrooms and acorns at the oaks' edge by day and leave before dusk.",
+      fact: "In autumn villagers keep out of the oaks; in spring they gather mushrooms at the edge.",
       knowers: ["lore-disclosure/game-master"],
     },
     {

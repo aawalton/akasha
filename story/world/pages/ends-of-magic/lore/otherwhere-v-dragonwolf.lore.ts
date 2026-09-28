@@ -24,5 +24,25 @@ export const otherwhereVDragonwolf = {
       fact: "To a seasoned hunter, dragonwolves are lesser prey next to Elothia's hillboars.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A grown dragonwolf is larger than a horse, sooty grey, with ember eyes and smoke at its jaws.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A grown dragonwolf is about level two hundred and fifty.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A dragonwolf's breath is a gout of fire that sets grass and trees alight.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dragonwolves hunt in pairs over high, rocky ground, ranging many miles.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Dragonwolves shun the settled rim and come near villages only in the hardest winters.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
