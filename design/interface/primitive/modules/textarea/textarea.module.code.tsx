@@ -16,11 +16,15 @@ function sendsNow(event: EnterPressed): boolean {
   return event.key === "Enter" && !event.shiftKey && !event.nativeEvent.isComposing
 }
 
+const RETURN_SENDS = "[return-sends]"
+
+const BREAK = "\n"
+
 type LineAsked = { readonly inputType: string; readonly data: string | null }
 
 function breaksLine(asked: LineAsked): boolean {
   if (asked.inputType === "insertLineBreak" || asked.inputType === "insertParagraph") return true
-  return asked.inputType === "insertText" && asked.data === "\n"
+  return asked.inputType === "insertText" && asked.data === BREAK
 }
 
 function useReturnSends(
@@ -33,17 +37,32 @@ function useReturnSends(
     let shifted = false
     const onKeyDown = (event: KeyboardEvent) => {
       shifted = event.shiftKey
+      console.info(RETURN_SENDS, "keydown", event.key, event.keyCode, event.isComposing)
     }
     const onBeforeInput = (event: InputEvent) => {
-      if (shifted || !breaksLine(event)) return
+      console.info(RETURN_SENDS, "beforeinput", event.inputType, event.cancelable, event.data)
+      if (shifted || !breaksLine(event) || !event.cancelable) return
       event.preventDefault()
       latest.current()
     }
+    const onInput = (event: Event) => {
+      if (!(event instanceof InputEvent)) return
+      console.info(RETURN_SENDS, "input", event.inputType, event.data)
+      if (shifted || !breaksLine(event)) return
+      const caret = textarea.selectionStart
+      const value = textarea.value
+      if (caret < 1 || value[caret - 1] !== BREAK) return
+      textarea.value = `${value.slice(0, caret - 1)}${value.slice(caret)}`
+      textarea.setSelectionRange(caret - 1, caret - 1)
+      setTimeout(() => latest.current(), 0)
+    }
     textarea.addEventListener("keydown", onKeyDown)
     textarea.addEventListener("beforeinput", onBeforeInput)
+    textarea.addEventListener("input", onInput)
     return () => {
       textarea.removeEventListener("keydown", onKeyDown)
       textarea.removeEventListener("beforeinput", onBeforeInput)
+      textarea.removeEventListener("input", onInput)
     }
   }, [])
 }
