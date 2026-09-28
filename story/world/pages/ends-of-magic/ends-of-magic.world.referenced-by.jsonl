@@ -3,6 +3,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/designs/otherwhere-v.story-design.ts","id":"01a0e9e3-ccfb-79d0-9cb6-8572cc1a5b59"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-aarl.lore.ts","id":"01a0e9f3-638a-7ede-b5da-f741ec38e64a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-aether.lore.ts","id":"01a0e9f2-2f0f-7932-8b96-3ac81d234690"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-birdfolk.lore.ts","id":"01a0e9f3-7322-7b79-aafb-70403eb47d0e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-davrar.lore.ts","id":"01a0e9e8-d642-7142-965b-86465a26f55b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-giantsrest-dominion.lore.ts","id":"01a0e9f3-5ca4-7d93-8500-cd4dc58f4e4b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-human.lore.ts","id":"01a0e9f2-ad9d-7f6c-9f4f-7b22d446e18a"}
@@ -13,6 +14,8 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spell-tiers.lore.ts","id":"01a0e9f3-4d9a-7db8-90f9-b3a6e3962cd2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-spellcasting.lore.ts","id":"01a0e9f2-d738-7550-a9d0-9f426c066099"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-status.lore.ts","id":"01a0e9f2-c28a-78e7-9ef1-4138eaf3cb30"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-tigerman.lore.ts","id":"01a0e9f3-7322-7b74-a55e-8f463df581ac"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wolfman.lore.ts","id":"01a0e9f3-7323-7056-86f3-36c27a89fec4"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-aether.world-mechanic.ts","id":"01a0e9f2-2f10-736b-99be-e0174be67f89"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mana.world-mechanic.ts","id":"01a0e9f1-9e7c-76a5-9ea4-b57cfe527aad"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-recognition.world-mechanic.ts","id":"01a0e9f2-0288-779d-b904-1f8ce57346d9"}
@@ -20,8 +23,11 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spellcasting.world-mechanic.ts","id":"01a0e9f2-d739-7a80-a12b-5e79ad1de335"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-status.world-mechanic.ts","id":"01a0e9f2-c28b-70d4-a7d0-eef9cc222d10"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/organizations/otherwhere-v-giantsrest-dominion.world-organization.ts","id":"01a0e9f3-5ca5-7770-9e44-0d5d426ee13a"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-birdfolk.world-species.ts","id":"01a0e9f3-7323-7d89-88bb-272ffe812118"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-human.world-species.ts","id":"01a0e9f2-ad9e-78fd-9bb0-4ef14ed97ce8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-orc.world-species.ts","id":"01a0e9f2-e898-7417-a141-cc3a277c8fe7"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-tigerman.world-species.ts","id":"01a0e9f3-7323-7d2d-9d06-742138401d43"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-wolfman.world-species.ts","id":"01a0e9f3-7323-75d8-8ad9-badaf61ec434"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-ascendant-academy.place.ts","id":"01a0e9f3-448a-73d9-9b80-820afab7510a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-chokiz-estate.place.ts","id":"01a0e9f3-448b-7097-a3ef-67f13ae9df9b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/places/otherwhere-v-drozahn.place.ts","id":"01a0e9f3-448b-7c9e-96ed-f13cbd91cb57"}
