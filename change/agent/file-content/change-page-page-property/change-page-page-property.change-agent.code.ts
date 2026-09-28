@@ -1,3 +1,4 @@
+import { addPageProperty } from "akasha/change/mechanical/file-content/add/add-page-property/add-page-property.change-mechanical-file-content.ts"
 import { changePagePageProperty } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.ts"
 import { changePagePagePropertyRelation } from "akasha/change/mechanical/file-content/change/change-page-page-property-relation/change-page-page-property-relation.change-mechanical-file-content.ts"
 import { changeMechanicalFileContent } from "akasha/change/mechanical/file-content/change-mechanical-file-content.page-type.ts"
@@ -7,16 +8,30 @@ import {
   refusing,
 } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import {
+  addressedIn,
+  afterIn,
+  declaresIn,
   holdsIn,
+  type Read,
   readFor,
   targetsIn,
+  typeIn,
 } from "akasha/change/modules/page-knowing/page-knowing.module.code.ts"
-import { manyIn } from "akasha/change/modules/page-literal/page-literal.module.code.ts"
+import {
+  assignedIn,
+  literalIn,
+  manyIn,
+} from "akasha/change/modules/page-literal/page-literal.module.code.ts"
 import { reach, type World } from "akasha/change/modules/shadow/change-shadow.module.code.ts"
+import { spelledAs } from "akasha/change/modules/value-spelling/value-spelling.module.code.ts"
 import { parsedAs } from "akasha/code/reading/modules/code-source/code-source.module.code.ts"
 
 const CHANGE_PAGE_PROPERTY =
   `${changeMechanicalFileContent.slug}/${changePagePageProperty.slug}` as const
+
+const ADD_PAGE_PROPERTY = `${changeMechanicalFileContent.slug}/${addPageProperty.slug}` as const
+
+const TRAILING_LINES = /\n+$/
 
 const CHANGE_PAGE_PROPERTY_RELATION =
   `${changeMechanicalFileContent.slug}/${changePagePagePropertyRelation.slug}` as const
@@ -35,6 +50,29 @@ export type ChangePagePropertyAsked = {
   readonly to: string
 }
 
+type Known = Extract<Read, { readonly known: unknown }>
+
+function statedIn(at: string, text: string, key: string): boolean {
+  const owner = literalIn(parsedAs(at, text))
+  return owner !== null && assignedIn(owner, key) !== null
+}
+
+async function added(world: World, read: Known, given: ChangePagePropertyAsked): Promise<Answer> {
+  if (declaresIn(world, read.value, given.key) === false) {
+    const stated = typeIn(read.value) ?? "its page type"
+    return refusing(`\`${given.key}\` is no property \`${stated}\` declares, so nothing is stated`)
+  }
+  const to = given.to.replace(TRAILING_LINES, "")
+  const addressed = addressedIn(read.known, read.value, given.key, to)
+  if ("refused" in addressed) return refusing(addressed.refused)
+  const holds = holdsIn(world, read.value, given.key)
+  const value = spelledAs(addressed.value, holds ?? undefined)
+  if (value === null) return refusing(`\`${to}\` is no ${holds}, so nothing is stated`)
+  const after = afterIn(world, read.value, given.key)
+  const asked = { at: given.at, key: given.key, value }
+  return (await reach(world, ADD_PAGE_PROPERTY, after === null ? asked : { ...asked, after })).said
+}
+
 export async function changePageProperty(
   world: World,
   given: ChangePagePropertyAsked
@@ -46,6 +84,10 @@ export async function changePageProperty(
     return refusing(
       `\`${given.key}\` holds many values, which \`add-property-values\` and \`remove-property-value\` change`
     )
+  }
+  const absent = text !== null && !statedIn(given.at, text, given.key)
+  if (absent && declaresIn(world, read.value, given.key) !== null) {
+    return await added(world, read, given)
   }
   if (targetsIn(read.known, read.value, given.key).length > 0) {
     return (await reach(world, CHANGE_PAGE_PROPERTY_RELATION, given)).said

@@ -45,7 +45,18 @@ export const held = {
 const CARRIED = [
   { key: "value", pageTypeSlug: "number-property" },
   { key: "shown", pageTypeSlug: "boolean-property" },
+  { key: "endsAt", pageTypeSlug: "instant-property" },
+  { key: "count", pageTypeSlug: "number-property" },
 ]
+
+const SIBLING = {
+  id: "01a072c8-f35d-7ffc-afc3-75b72460b05a",
+  slug: "other",
+  endsAt: "2026-09-28T10:00:00.000Z",
+  value: 3,
+  shown: false,
+  count: 2,
+} as Value
 
 function worldTold(slug: string | null, target: string | null, body = BODY): World {
   const known = knownOf({
@@ -55,9 +66,10 @@ function worldTold(slug: string | null, target: string | null, body = BODY): Wor
   })
   const index = {
     knownIn: () => known,
-    pageByPath: () => PAGE,
+    pageByPath: () => (body === BODY ? PAGE : { ...PAGE, value: 10, shown: true }),
     propertiesIfNamed: () => (body === BODY ? null : CARRIED),
     kindsUnder: (kind: string) => new Set([kind]),
+    valuesByPath: () => new Map([["other", SIBLING]]),
   }
   return {
     root: "/nowhere",
@@ -118,6 +130,42 @@ test("a value that is no number is refused for a key declared a number", async (
 
   expect(said.edits).toEqual([])
   expect(said.refused).toBe("`ten` is no number, so nothing is restated")
+})
+
+test("a key the page type declares and the page states not yet is added where its siblings put it", async () => {
+  const world = worldTold(null, null, METRIC_BODY)
+
+  const said = await changePageProperty(world, {
+    at: AT,
+    key: "endsAt",
+    to: "2026-09-28T11:27:00.000Z",
+  })
+
+  expect(said.refused).toBeNull()
+  expect(bodyOf(said, () => METRIC_BODY)).toBe(
+    METRIC_BODY.replace(
+      `  slug: "held",\n`,
+      `  slug: "held",\n  endsAt: "2026-09-28T11:27:00.000Z",\n`
+    )
+  )
+})
+
+test("a number key the page states not yet is added as a number", async () => {
+  const world = worldTold(null, null, METRIC_BODY)
+
+  const said = await changePageProperty(world, { at: AT, key: "count", to: "4" })
+
+  expect(said.refused).toBeNull()
+  expect(bodyOf(said, () => METRIC_BODY)).toContain("  shown: true,\n  count: 4,\n}")
+})
+
+test("a key the page type does not declare is refused rather than added", async () => {
+  const world = worldTold(null, null, METRIC_BODY)
+
+  const said = await changePageProperty(world, { at: AT, key: "nowhere", to: "x" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`nowhere` is no property `seat` declares, so nothing is stated")
 })
 
 test("an argument this change was handed no value for is refused by the key", async () => {
