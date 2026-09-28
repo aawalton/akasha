@@ -64,5 +64,29 @@ export const otherwhereViNala = {
       fact: "Nala woke in Moss Hollow a little after moonrise on day one.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Nala's status reads Name: Nala, Level: 1/10, Race: Human (Tier 0), Gender: Female.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's status shows Class: —, for she has none yet.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's HP is 30/30, her SP 19/28 from cold and fright, and her MP 5/5.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's stats: Strength 3, Dexterity 4, Vitality 3, Intelligence 9, Willpower 6.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's Charisma is 3 and her Luck 2.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's status lists no active skills, no passive skills and no traits.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
 } as const satisfies Lore
