@@ -7,4 +7,5 @@
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-a91067296890bf175/iris-a91067296890bf175.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-game-master-otherwhere-x-ad27a77d27ddd7999/iris-game-master-otherwhere-x-ad27a77d27ddd7999.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-world-builder-otherwhere-iii-a1128a174ae773ab0/iris-world-builder-otherwhere-iii-a1128a174ae773ab0.subagent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-world-builder-otherwhere-x-af31e9e52f743c4da/iris-world-builder-otherwhere-x-af31e9e52f743c4da.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
