@@ -23,6 +23,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-dennar.world-character.ts","id":"01a0e9f9-d8c2-7208-8f28-b9c9d427209f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-dorvan-hesk.world-character.ts","id":"01a0ea04-6a57-70ca-ba27-82649983f0d6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-dravik.world-character.ts","id":"01a0e9f9-d8c3-76db-82af-4208e17be6ef"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-eddra.world-character.ts","id":"01a0ea05-3116-74c9-a205-91bc5d5ac084"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-edes.world-character.ts","id":"01a0e9f9-d8c3-771a-98d7-99e1bb89d97f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-emerald.world-character.ts","id":"01a0e9fa-40d7-773e-9f3e-94e7eed00d59"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-enfanalin.world-character.ts","id":"01a0e9fa-40d8-74ed-99ef-3f8f10c48233"}
@@ -47,6 +48,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-kia.world-character.ts","id":"01a0e9fd-3be2-791a-837b-90994f0ee0c7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-kullal.world-character.ts","id":"01a0e9fd-3be3-79c2-83e6-3967fb2faa7d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-last-champion-of-deiman.world-character.ts","id":"01a0e9ff-5951-7e43-8f56-09004229e93c"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-linnet.world-character.ts","id":"01a0ea05-3117-7661-bb4a-266d96e260cb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-liren-vail.world-character.ts","id":"01a0e9fb-fb52-77a8-b3a7-8afc3bb7252f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-lyra-alys.world-character.ts","id":"01a0e9ff-5952-7cfd-865a-83f0321d12ce"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-maren-thale.world-character.ts","id":"01a0ea03-9afe-7cbc-8cd4-507ace2443ad"}
@@ -158,6 +160,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-earth-born-bodies.lore.ts","id":"01a0e9f9-19f5-7504-a9e2-47d60483f680"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-earth-born.lore.ts","id":"01a0e9f6-d213-7854-95cf-fd845269d68c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-eclipsemaw.lore.ts","id":"01a0e9fa-0d14-77ed-90a6-62b353554801"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-eddra.lore.ts","id":"01a0ea05-3117-7d37-9d5c-02ccc6044eda"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-edes.lore.ts","id":"01a0e9f9-d8c4-7970-8f55-8acb61c9414e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-edicts.lore.ts","id":"01a0e9f4-c9f7-76cb-87ef-1e2091c3743b"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-edrani-empire.lore.ts","id":"01a0ea02-5e4b-7669-8f39-959fb9eb6c1c"}
@@ -232,6 +235,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-levels.lore.ts","id":"01a0e9f5-a5d5-793c-bc32-493bc44b9eea"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-leviathan.lore.ts","id":"01a0e9fa-0d15-7d08-acac-eb60bf12a931"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-lich.lore.ts","id":"01a0e9fb-c05e-76dc-bda7-5864850cb0b4"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-linnet.lore.ts","id":"01a0ea05-3117-7ea4-b7df-a099bdb71ccb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-liren-vail.lore.ts","id":"01a0e9fb-fb54-7acd-9e5f-5b5a60b21a64"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-litcliff.lore.ts","id":"01a0e9f6-77eb-7452-b057-c789bab5650c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-living-shadow.lore.ts","id":"01a0e9fc-3f05-7fc7-9015-e94660578d37"}
