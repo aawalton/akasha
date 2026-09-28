@@ -4,6 +4,7 @@ export const catGirlEvolution0148145WheelOfTraits = {
   id: "01a06731-b01f-7001-9c5e-aad376a1ddae",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0148-145-wheel-of-traits",
+  ownProgress: 2296,
   title: "145 - Wheel of Traits!",
   story: "story-read/cat-girl-evolution",
   position: 148,

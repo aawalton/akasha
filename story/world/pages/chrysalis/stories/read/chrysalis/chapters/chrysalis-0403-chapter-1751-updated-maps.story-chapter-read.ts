@@ -4,6 +4,7 @@ export const chrysalis0403Chapter1751UpdatedMaps = {
   id: "01a0672c-eb69-700a-a1fd-08395984c525",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0403-chapter-1751-updated-maps",
+  ownProgress: 1147,
   title: "Chapter 1751 - Updated Maps",
   story: "story-read/chrysalis",
   position: 403,

@@ -4,6 +4,7 @@ export const chrysalis0402Chapter1750Progress = {
   id: "01a0672c-eb69-7009-8381-904f856a8dc8",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0402-chapter-1750-progress",
+  ownProgress: 946,
   title: "Chapter 1750 - Progress",
   story: "story-read/chrysalis",
   position: 402,

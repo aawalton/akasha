@@ -4,6 +4,7 @@ export const catGirlEvolution0168165Hag = {
   id: "01a0c2ca-e792-71b3-8a00-c663d77f0011",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0168-165-hag",
+  ownProgress: 3343,
   position: 168,
   publishedAt: "2026-09-21",
   unit: "unit/words",

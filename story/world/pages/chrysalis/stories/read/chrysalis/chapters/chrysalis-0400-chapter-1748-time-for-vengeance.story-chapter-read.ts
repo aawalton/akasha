@@ -4,6 +4,7 @@ export const chrysalis0400Chapter1748TimeForVengeance = {
   id: "01a0672c-eb69-7007-bdb5-a731651448b5",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0400-chapter-1748-time-for-vengeance",
+  ownProgress: 1032,
   title: "Chapter 1748 - Time for Vengeance",
   story: "story-read/chrysalis",
   position: 400,

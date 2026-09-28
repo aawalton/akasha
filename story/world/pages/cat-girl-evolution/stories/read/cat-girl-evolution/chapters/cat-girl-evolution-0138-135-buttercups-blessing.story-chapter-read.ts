@@ -4,6 +4,7 @@ export const catGirlEvolution0138135ButtercupsBlessing = {
   id: "01a06731-b01b-7000-83c2-5834e7061bee",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0138-135-buttercups-blessing",
+  ownProgress: 2597,
   title: "135 - Buttercup's Blessing",
   story: "story-read/cat-girl-evolution",
   position: 138,

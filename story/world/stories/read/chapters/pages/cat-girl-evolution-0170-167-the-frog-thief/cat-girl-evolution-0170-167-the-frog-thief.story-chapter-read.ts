@@ -4,6 +4,7 @@ export const catGirlEvolution0170167TheFrogThief = {
   id: "01a0d79a-2a7d-7259-ac88-fb9ba28e5a03",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0170-167-the-frog-thief",
+  ownProgress: 2347,
   position: 170,
   publishedAt: "2026-09-25",
   unit: "unit/words",

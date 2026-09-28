@@ -4,6 +4,7 @@ export const catGirlEvolution0164161Connection = {
   id: "01a09b14-dc99-728c-a7c9-6adfc397419f",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0164-161-connection",
+  ownProgress: 2478,
   position: 164,
   publishedAt: "2026-09-13",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const catGirlEvolution0141138WereHavingSoftTacosLater = {
   id: "01a06731-b01b-7003-ad25-0cb63725094e",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0141-138-were-having-soft-tacos-later",
+  ownProgress: 2873,
   title: "138 - We're Having Soft Tacos Later!",
   story: "story-read/cat-girl-evolution",
   position: 141,

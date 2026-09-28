@@ -4,6 +4,7 @@ export const chrysalis0405Chapter1753OutIntoTheSlimeOnceMore = {
   id: "01a0672c-eb69-700c-8248-65d215208eb8",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0405-chapter-1753-out-into-the-slime-once-more",
+  ownProgress: 1091,
   title: "Chapter 1753 - Out Into the Slime Once More",
   story: "story-read/chrysalis",
   position: 405,

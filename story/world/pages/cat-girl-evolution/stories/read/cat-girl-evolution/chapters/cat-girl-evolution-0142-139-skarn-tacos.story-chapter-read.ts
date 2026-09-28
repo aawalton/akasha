@@ -4,6 +4,7 @@ export const catGirlEvolution0142139SkarnTacos = {
   id: "01a06731-b01c-7000-b82c-d44b44c46be4",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0142-139-skarn-tacos",
+  ownProgress: 2121,
   title: "139 - Skarn Tacos",
   story: "story-read/cat-girl-evolution",
   position: 142,

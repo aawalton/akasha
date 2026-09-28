@@ -4,6 +4,7 @@ export const chrysalis0404Chapter1752ExpandedNursery = {
   id: "01a0672c-eb69-700b-8de6-d5d710d20919",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0404-chapter-1752-expanded-nursery",
+  ownProgress: 1301,
   title: "Chapter 1752 - Expanded Nursery",
   story: "story-read/chrysalis",
   position: 404,

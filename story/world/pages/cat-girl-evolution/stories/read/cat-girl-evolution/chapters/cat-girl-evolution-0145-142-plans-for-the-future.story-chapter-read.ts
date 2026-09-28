@@ -4,6 +4,7 @@ export const catGirlEvolution0145142PlansForTheFuture = {
   id: "01a06731-b01d-7001-8748-b169c5003f93",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0145-142-plans-for-the-future",
+  ownProgress: 2965,
   title: "142 - Plans for the Future",
   story: "story-read/cat-girl-evolution",
   position: 145,

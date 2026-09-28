@@ -4,6 +4,7 @@ export const catGirlEvolution0163160TheStageIsSet = {
   id: "01a088d8-23da-75c4-888d-64bd53040531",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0163-160-the-stage-is-set",
+  ownProgress: 2960,
   position: 163,
   publishedAt: "2026-09-10",
   unit: "unit/words",

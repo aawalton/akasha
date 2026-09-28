@@ -4,6 +4,7 @@ export const catGirlEvolution0166163TheFrogDefenders = {
   id: "01a0a942-611b-7e95-9627-ebc104f3517f",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0166-163-the-frog-defenders",
+  ownProgress: 2453,
   position: 166,
   publishedAt: "2026-09-16",
   unit: "unit/words",

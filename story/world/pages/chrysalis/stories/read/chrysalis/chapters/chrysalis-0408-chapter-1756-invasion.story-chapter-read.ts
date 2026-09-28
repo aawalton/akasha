@@ -4,6 +4,7 @@ export const chrysalis0408Chapter1756Invasion = {
   id: "01a0672c-eb69-700f-8414-4969348da0ec",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0408-chapter-1756-invasion",
+  ownProgress: 986,
   title: "Chapter 1756 - Invasion!",
   story: "story-read/chrysalis",
   position: 408,

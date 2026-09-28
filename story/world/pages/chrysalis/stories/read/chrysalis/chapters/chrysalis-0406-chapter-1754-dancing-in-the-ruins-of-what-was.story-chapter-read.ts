@@ -4,6 +4,7 @@ export const chrysalis0406Chapter1754DancingInTheRuinsOfWhatWas = {
   id: "01a0672c-eb69-700d-83ac-ece39a97cc64",
   type: "page-type/story-chapter-read",
   slug: "chrysalis-0406-chapter-1754-dancing-in-the-ruins-of-what-was",
+  ownProgress: 976,
   title: "Chapter 1754 - Dancing in the Ruins of What Was",
   story: "story-read/chrysalis",
   position: 406,

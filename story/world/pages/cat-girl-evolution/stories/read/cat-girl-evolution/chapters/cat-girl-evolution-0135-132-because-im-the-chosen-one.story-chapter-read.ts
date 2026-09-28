@@ -4,6 +4,7 @@ export const catGirlEvolution0135132BecauseImTheChosenOne = {
   id: "01a06731-b019-7002-a348-f5f692ba4f7a",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0135-132-because-im-the-chosen-one",
+  ownProgress: 2756,
   title: "132 - Because I'm the Chosen One",
   story: "story-read/cat-girl-evolution",
   position: 135,

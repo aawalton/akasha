@@ -4,6 +4,7 @@ export const catGirlEvolution0155152HeistPrep = {
   id: "01a06731-b020-7003-aaf6-81ed89eb443e",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0155-152-heist-prep",
+  ownProgress: 2958,
   title: "152 - Heist Prep",
   story: "story-read/cat-girl-evolution",
   position: 155,

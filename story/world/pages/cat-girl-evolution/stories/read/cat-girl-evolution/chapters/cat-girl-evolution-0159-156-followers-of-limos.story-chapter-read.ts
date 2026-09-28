@@ -4,6 +4,7 @@ export const catGirlEvolution0159156FollowersOfLimos = {
   id: "01a06731-b021-7003-8cfc-c4a7e99af407",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0159-156-followers-of-limos",
+  ownProgress: 1758,
   title: "156 - Followers of Limos",
   story: "story-read/cat-girl-evolution",
   position: 159,

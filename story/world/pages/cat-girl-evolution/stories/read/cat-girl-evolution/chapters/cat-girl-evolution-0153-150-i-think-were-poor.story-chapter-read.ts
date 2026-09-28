@@ -4,6 +4,7 @@ export const catGirlEvolution0153150IThinkWerePoor = {
   id: "01a06731-b020-7001-91b1-3b7e5d167fa5",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0153-150-i-think-were-poor",
+  ownProgress: 2172,
   title: "150 - I Think We're Poor",
   story: "story-read/cat-girl-evolution",
   position: 153,

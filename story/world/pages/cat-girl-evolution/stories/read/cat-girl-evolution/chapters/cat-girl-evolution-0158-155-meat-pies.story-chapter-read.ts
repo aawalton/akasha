@@ -4,6 +4,7 @@ export const catGirlEvolution0158155MeatPies = {
   id: "01a06731-b021-7002-93d5-67bbb8242825",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0158-155-meat-pies",
+  ownProgress: 2182,
   title: "155 - Meat Pies",
   story: "story-read/cat-girl-evolution",
   position: 158,

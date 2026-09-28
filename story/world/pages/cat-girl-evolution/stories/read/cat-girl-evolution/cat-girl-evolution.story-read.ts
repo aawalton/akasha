@@ -5,6 +5,7 @@ export const catGirlEvolution = {
   type: "page-type/story-read",
   slug: "cat-girl-evolution",
   grade: "C",
+  following: true,
   unit: "unit/words",
   title: "Cat Girl Evolution",
   world: "world/cat-girl-evolution",

@@ -4,6 +4,7 @@ export const catGirlEvolution0169166FatefulMeeting = {
   id: "01a0cd4b-1198-7d75-8067-6b93e60db5db",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0169-166-fateful-meeting",
+  ownProgress: 1850,
   position: 169,
   publishedAt: "2026-09-23",
   unit: "unit/words",

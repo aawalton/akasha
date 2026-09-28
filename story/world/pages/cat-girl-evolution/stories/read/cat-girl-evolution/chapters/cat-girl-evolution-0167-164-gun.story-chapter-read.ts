@@ -4,6 +4,7 @@ export const catGirlEvolution0167164Gun = {
   id: "01a0b38b-7f5e-7e06-9891-17ac101356a5",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0167-164-gun",
+  ownProgress: 2276,
   position: 167,
   publishedAt: "2026-09-18",
   unit: "unit/words",
