@@ -79,7 +79,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Frostnip waits behind worse cases: an hour or two in the chairs, then ten minutes with a doctor.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "A doctor sees her feet, finds frostnip only, and asks nothing about papers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
-  secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
 } as const satisfies Place
