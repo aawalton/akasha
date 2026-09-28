@@ -25,4 +25,6 @@ export const theDatingGame00041 = {
     'She starts folding the tripod. "I\'m doing my cooldown up the trail a ways before I head down."',
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/mechanics"],
+  endsAt: "2026-09-27T10:12:00.000Z",
 } as const satisfies StoryTurnPlayed
