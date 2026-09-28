@@ -14,7 +14,7 @@ export const haremHotelOdile = {
     },
     {
       fact: "Odile is tall and long-legged, pale, with cool grey eyes and a red-painted mouth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
     },
     {
       fact: "Odile wears her black hair pinned in a sleek chignon.",
@@ -48,6 +48,27 @@ export const haremHotelOdile = {
     {
       fact: "Odile kept the lobby alone longer than she can remember; Alan is the first guest she has checked in.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Odile's small high tits are pale, with dark nipples.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Under her composure, Odile kisses slow, deep and hungry.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+      ],
+    },
+    {
+      fact: "On floor 1 Odile gives Wren orders, and Wren does as she says.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-odile",
+        "character-other/harem-hotel-wren",
+      ],
     },
   ],
 } as const satisfies Lore

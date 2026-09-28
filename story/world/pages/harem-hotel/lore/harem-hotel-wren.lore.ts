@@ -38,11 +38,27 @@ export const haremHotelWren = {
     },
     {
       fact: "Wren gives her name the moment Alan speaks to her.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+      ],
     },
     {
       fact: "On floor 1 Wren answers to Odile, and teases her for her stiffness.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Wren's nipples are pink.",
+      knowers: ["lore-disclosure/game-master", "character-player/harem-hotel-alan"],
+    },
+    {
+      fact: "Wren moans loud and unashamed when she is kissed.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/harem-hotel-alan",
+        "character-other/harem-hotel-wren",
+      ],
     },
   ],
   secrets: "jsonl",

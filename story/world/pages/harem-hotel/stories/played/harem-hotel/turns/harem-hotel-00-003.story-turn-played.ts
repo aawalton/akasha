@@ -15,7 +15,7 @@ export const haremHotel00003 = {
     "character-other/harem-hotel-odile",
     "character-other/harem-hotel-wren",
   ],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     '"Why waste time? Come over here and I\'ll work on both of you together." I step towards Odile and pull her into a passionate kiss, then turn to Wren as she approaches and kiss her just as deeply.',
   beats: [
@@ -43,5 +43,5 @@ export const haremHotel00003 = {
     '"Then do it."',
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
