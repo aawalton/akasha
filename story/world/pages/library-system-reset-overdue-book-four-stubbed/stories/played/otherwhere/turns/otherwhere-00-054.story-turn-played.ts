@@ -10,7 +10,7 @@ export const otherwhere00054 = {
   position: 54,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "I take the loaf four now and eat it while I collect the clothes I left In the hall, put on what I’m missing, and take the extra robe back to my room. **Okay Links, you need more power. How do we get it for you?**",
   beats: [
@@ -24,5 +24,5 @@ export const otherwhere00054 = {
     'Links: "Eight books and your taps run hot. Patrons pay a point each too, once the counter works."',
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
