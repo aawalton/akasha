@@ -279,5 +279,61 @@ export const otherwhereIvThreeStonesFolk = {
       fact: "A night hunt with men of the village needs the headman's leave, or it will offend him.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Tie Bo has hunted boar for twenty years, with a spear that has an iron bar across the haft.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Xu Hong is a square, sun-browned woman.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Xu Hong bowed deep to Nala and called her honored spirit.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "A night hunt with men of the village needs the headman's leave.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "The headman of Three Stones is called Headman Gu.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Xu Hong invited Nala to eat rice first at the Zhao house, just below the track.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Xu Hong asked Nala to speak to the headman, who won't refuse a spirit but might refuse Zhao Jun.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
   ],
 } as const satisfies Lore

@@ -88,5 +88,21 @@ export const otherwhereIvNala = {
       fact: "Nala told Zhao Jun she is a spirit of knowledge newly given physical form.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
+    {
+      fact: "Nala told Zhao Jun the beast may be a spirit beast, and to hunt it at night with barred spears.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
+    {
+      fact: "Nala advised paying hunters a share of the spoils, and selling a spirit beast's corpse to the sect.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-iv-nala",
+        "character-other/otherwhere-iv-zhao-jun",
+      ],
+    },
   ],
 } as const satisfies Lore
