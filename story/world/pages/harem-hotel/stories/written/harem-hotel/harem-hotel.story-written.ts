@@ -9,4 +9,5 @@ export const haremHotel = {
   domain: "domain/harem-hotel-explicitness",
   unit: "unit/words",
   chapterBreak: "A floor's task is met and its stairs open.",
+  coordinatorAgent: "mari-game-master-harem-hotel",
 } as const satisfies StoryWritten
