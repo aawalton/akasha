@@ -11,7 +11,7 @@ export const otherwhereIv00003 = {
   position: 3,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I am a spirit of knowledge who recently achieved physical form. If you can deliver me safely to the nearest orthodox sect, you will be rewarded. If that is beyond you, I will have to find another.”",
   beats: [
@@ -36,6 +36,6 @@ export const otherwhereIv00003 = {
   ],
   lore: ["lore/otherwhere-iv-three-stones-folk", "lore/otherwhere-iv-hidden-spring-sect"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/picture", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/picture", "story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T06:48:00.000Z",
 } as const satisfies StoryTurnPlayed

@@ -84,5 +84,9 @@ export const otherwhereIvNala = {
       fact: "Her hands are small and narrow, with thin fingers, and freckled on the back.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
+    {
+      fact: "Nala told Zhao Jun she is a spirit of knowledge newly given physical form.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
   ],
 } as const satisfies Lore

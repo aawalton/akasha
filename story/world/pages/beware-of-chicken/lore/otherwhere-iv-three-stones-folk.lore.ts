@@ -93,11 +93,39 @@ export const otherwhereIvThreeStonesFolk = {
     },
     {
       fact: "The only sect the villagers can name is the Hidden Spring Sect, somewhere north of Lanqiao.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "No one in Three Stones has been to a sect, and none knows the way past Lanqiao.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Zhao Jun farms the top terraces above Three Stones.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Zhao Jun has never been past the county.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Something breaks Zhao Jun's terrace walls at night, and he does not know what.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Zhao Jun took Nala for a spirit, begged her pardon, and told her the trampled rice is nothing.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Zhao Jun offered to take Nala down to Three Stones, where his wife would feed her.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "The headman of Three Stones is a learned man.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Nobody in Three Stones knows the road on past Lanqiao.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
 } as const satisfies Lore

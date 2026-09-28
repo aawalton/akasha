@@ -3,6 +3,7 @@
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/ui/modules/character-cover-panel/character-cover-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/ui/modules/player-character-panel/player-character-panel.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.test.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"character-other.page-type.types.ts","path":"story/world/pages/beware-of-chicken/stories/played/otherwhere-iv/characters/otherwhere-iv-zhao-jun.character-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.types.ts","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/characters/harem-hotel-odile.character-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.types.ts","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/characters/harem-hotel-wren.character-other.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"character-other.page-type.types.ts","path":"story/world/pages/labyrinth-of-the-mad-god/stories/played/otherwhere/characters/otherwhere-glassrun-monitor-far.character-other.ts","typed":true,"deferred":false}
