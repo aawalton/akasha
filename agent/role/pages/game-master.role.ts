@@ -181,6 +181,7 @@ export const gameMaster = {
         "His sheet is drawn from those pages alone, so a number left unwritten shows him a stale sheet.",
       aids: [
         "A metric page takes its new value, and its history a line of the turn's number and that value.",
+        "Write the new value with the `change-page-page-property` change, the number bare.",
         "Add a history line with the `append-lines` change; a history is never written over.",
         "A skill the turn advanced takes its new rank, level and demonstrations on its holding page.",
         "Define no mechanic; ask the world builder for one the turn needs, and hold only what is defined.",
