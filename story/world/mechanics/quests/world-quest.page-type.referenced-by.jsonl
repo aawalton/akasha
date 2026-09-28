@@ -1,6 +1,11 @@
 {"propertySlug":"extends-type","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
 {"propertySlug":"import","fileName":"world-quest.page-type.ts","path":"story/world/stories/played/modules/played-state-beside/played-state-beside.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.types.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/quests/super-supportive-assist-ro-den-quest.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/quests/super-supportive-gala-waitstaff-quest.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/quests/super-supportive-hazardous-materials-disposal-quest.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/quests/super-supportive-marleck-berries-quest.world-quest.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/quests/super-supportive-minor-medical-emergency-quest.world-quest.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/basic-quest.world-quest.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/heroic-quest.world-quest.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-quest.page-type.types.ts","path":"story/world/pages/the-wandering-inn/mechanics/quests/legendary-quest.world-quest.ts","typed":true,"deferred":false}
