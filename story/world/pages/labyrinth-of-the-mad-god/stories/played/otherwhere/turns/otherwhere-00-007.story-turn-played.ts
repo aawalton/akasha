@@ -10,7 +10,7 @@ export const otherwhere00007 = {
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I keep circling the beach, looking for a source of fresh water",
   beats: [
     "Nala sets off south along the shore to look for fresh water, toward the taller palms.",
@@ -40,5 +40,5 @@ export const otherwhere00007 = {
     "place/otherwhere-glassrun",
     "place/otherwhere-lowland-wood",
   ],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
