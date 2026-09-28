@@ -4,13 +4,14 @@ export const otherwhereV00005 = {
   id: "01a0ea1a-6e27-7bcd-939c-7a37e006b719",
   type: "page-type/story-turn-played",
   slug: "otherwhere-v-00-005",
+  cover: "image/image-63641e8c29b449ba",
   ownLength: 384,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-v"],
   position: 5,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I break into a run, getting into the log as quickly as possible",
   beats: [
     "Nala breaks into a run for the log, straight through the waist-high ferns in the black.",
@@ -33,6 +34,6 @@ export const otherwhereV00005 = {
   issues: ['"heavier than you are" - a gloamcat is lynx-sized, lighter than Nala even petite'],
   lore: ["lore/otherwhere-v-gloamcat"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T19:02:00.000Z",
 } as const satisfies StoryTurnPlayed

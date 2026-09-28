@@ -127,7 +127,7 @@ export const otherwhereVGloamcat = {
     },
     {
       fact: "Rushing Nala as she runs for the log, it reaches her back ten yards short of the log's mouth.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
     {
       fact: "Its rush from behind ends in a leap for the back of the neck, heavy and low.",
@@ -136,6 +136,10 @@ export const otherwhereVGloamcat = {
     {
       fact: "Prey that drops flat or twists aside as it leaps makes it overshoot, and it takes a breath to turn.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Night, day one: the beast bit the back of Nala's neck and shoulder twice as she crawled for the log.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
   ],
 } as const satisfies Lore

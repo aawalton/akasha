@@ -208,5 +208,9 @@ export const otherwhereVFernHollow = {
       fact: "In full dark the drifting green lights light nothing; they are only points to steer between.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
     },
+    {
+      fact: "The fallen log's hollow is dry and close inside, and smells of rot and earth.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
   ],
 } as const satisfies Place
