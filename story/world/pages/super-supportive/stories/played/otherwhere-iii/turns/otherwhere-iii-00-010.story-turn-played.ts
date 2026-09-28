@@ -11,4 +11,5 @@ export const otherwhereIii00010 = {
   action:
     "\"Thank you, but I'm on my own for now. Yesterday I would have had you call my boyfriend, but that ship has sunk. Thank you for your kindness, you've really been a lifesaver today.\"",
   lore: ["lore/otherwhere-iii-denise-pruitt"],
+  endsAt: "2037-01-31T05:29:00.000Z",
 } as const satisfies StoryTurnPlayed
