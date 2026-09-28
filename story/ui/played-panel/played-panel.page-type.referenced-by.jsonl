@@ -1,6 +1,7 @@
 {"propertySlug":"import","fileName":"played-panel.page-type.ts","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-panel.page-type.ts","path":"story/ui/played-panel/modules/panel-loading/panel-loading.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"played-panel.page-type.types.ts","path":"story/ui/played-panel/pages/other-characters/other-characters.played-panel.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"played-panel.page-type.types.ts","path":"story/ui/played-panel/pages/otherwhere-map/otherwhere-map.played-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"played-panel.page-type.types.ts","path":"story/ui/played-panel/pages/otherwhere-player-character/otherwhere-player-character.played-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"played-panel.page-type.types.ts","path":"story/ui/played-panel/pages/player-character/player-character.played-panel.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"played-panel.page-type.types.ts","path":"story/ui/played-panel/pages/quest-list/quest-list.played-panel.ts","typed":true,"deferred":false}
