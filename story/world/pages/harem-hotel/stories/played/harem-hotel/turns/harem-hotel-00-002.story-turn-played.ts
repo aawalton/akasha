@@ -4,10 +4,17 @@ export const haremHotel00002 = {
   id: "01a0e843-4f81-7572-9f9b-63017adca42f",
   type: "page-type/story-turn-played",
   slug: "harem-hotel-00-002",
+  ownLength: 489,
   unit: "unit/words",
   partOfCollections: ["story-played/harem-hotel"],
   position: 2,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: [
+    "character-player/harem-hotel-alan",
+    "character-other/harem-hotel-odile",
+    "character-other/harem-hotel-wren",
+  ],
+  turnStatus: "turn-status/reviewers",
   action: '"Okay..." I stand up. "I\'m on my feet, check me in?"',
   beats: [
     'Alan says "Okay...", swings his feet down and stands up off the chaise.',
