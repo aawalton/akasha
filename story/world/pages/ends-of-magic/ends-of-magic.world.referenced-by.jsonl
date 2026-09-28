@@ -262,6 +262,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-ranks.lore.ts","id":"01a0e9f5-a5d6-7c9e-991f-48643d63340f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-recognition.lore.ts","id":"01a0e9f2-0287-70eb-a91d-b85d7384a3c7"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-redeye.lore.ts","id":"01a0e9fa-9425-70aa-b0d9-d5e94a87f3cb"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-rod-of-annihilation.lore.ts","id":"01a0ea03-e06e-73ba-85ec-c73f80bd5a71"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-roni.lore.ts","id":"01a0e9f9-115f-77ee-9a5b-9304a5ffae23"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sago.lore.ts","id":"01a0e9fa-e2ae-73db-93a7-3da15ea7ccfc"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sangrad.lore.ts","id":"01a0e9fa-527b-72e2-b3d4-469f8d5068d5"}
@@ -341,6 +342,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-mithril.world-item.ts","id":"01a0ea03-09a4-7da3-9b36-f3dfc1b170e4"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-olive.world-item.ts","id":"01a0e9ff-cb81-71d6-9ae2-671e8e2e32df"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-pine.world-item.ts","id":"01a0e9ff-cb81-798d-a94d-9ac7239a26bc"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-rod-of-annihilation.world-item.ts","id":"01a0ea03-e06f-7efa-8de6-de5965f44cd6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-shield-of-solemnance.world-item.ts","id":"01a0ea03-8131-7c55-a291-0fb44d2d1e8f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-aether.world-mechanic.ts","id":"01a0e9f2-2f10-736b-99be-e0174be67f89"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-alchemy.world-mechanic.ts","id":"01a0e9f9-8feb-7761-bf49-5f15a59df502"}
