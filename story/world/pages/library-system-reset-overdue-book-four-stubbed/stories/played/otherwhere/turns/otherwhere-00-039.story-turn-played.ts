@@ -23,4 +23,5 @@ export const otherwhere00039 = {
     "There is no one here, and no sign of who baked them.",
   ],
   lore: ["place/otherwhere-kitchen", "lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
