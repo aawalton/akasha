@@ -7,7 +7,18 @@ export const theDatingGame00036 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 36,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "“Not at the very end. The room was small and his kids were there. I saw him about a week before though. I guess most would consider a few weeks ago to be recent. It feels no different than forty years ago or forty seconds ago to me.”",
+  beats: [
+    'Alan: "Not at the very end. The room was small and his kids were there."',
+    '"I saw him about a week before though."',
+    '"I guess most would consider a few weeks ago to be recent."',
+    '"It feels no different than forty years ago or forty seconds ago to me."',
+    'Grace nods slowly at the small room. "That\'s how it should be, his kids around him."',
+    '"And a week before counts. They know who came. I\'ve watched it, over and over."',
+    'At "forty years or forty seconds" she looks at him a long moment, taking it in, not arguing it.',
+    '"Then I\'ll stop calling it close," she says gently. "It\'s just when it is, for you."',
+    'The corner of her red mouth lifts. "Nothing\'s ever far away, for you. I think I like that."',
+  ],
 } as const satisfies StoryTurnPlayed
