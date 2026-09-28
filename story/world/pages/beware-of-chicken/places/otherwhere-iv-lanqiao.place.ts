@@ -16,12 +16,9 @@ export const otherwhereIvLanqiao = {
   facts: [
     {
       fact: "Lanqiao is the market town thirty li down the river from Three Stones.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
-    {
-      fact: "Lanqiao is a walled mortal town.",
-      knowers: ["lore-disclosure/game-master"],
-    },
+    { fact: "Lanqiao is a walled mortal town.", knowers: ["lore-disclosure/game-master"] },
     {
       fact: "Its name comes from its old blue-grey stone bridge, where the river road crosses to the east bank.",
       knowers: ["lore-disclosure/game-master"],
