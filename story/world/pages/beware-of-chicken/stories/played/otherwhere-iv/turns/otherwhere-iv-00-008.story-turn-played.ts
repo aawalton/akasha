@@ -34,5 +34,6 @@ export const otherwhereIv00008 = {
     '"Now, if you please: why does the moon wax and wane?"',
   ],
   lore: ["lore/otherwhere-iv-gu-household", "lore/otherwhere-iv-heavens-and-dao"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T08:39:00.000Z",
 } as const satisfies StoryTurnPlayed
