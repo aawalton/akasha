@@ -6,5 +6,5 @@ export const otherwhereVElothianRangers = {
   slug: "otherwhere-v-elothian-rangers",
   title: "The Elothian Rangers",
   world: "world/ends-of-magic",
-  description: "A body of rangers on the continent of Elothia.",
+  description: "A body of rangers.",
 } as const satisfies WorldOrganization

@@ -6,5 +6,5 @@ export const otherwhereVSeersOfItonia = {
   slug: "otherwhere-v-seers-of-itonia",
   title: "The Seers of Itonia",
   world: "world/ends-of-magic",
-  description: "An order of seers who foretell the future from a cave above Itonia.",
+  description: "An order of seers.",
 } as const satisfies WorldOrganization

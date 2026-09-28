@@ -6,5 +6,5 @@ export const otherwhereVSiblingsOfItonia = {
   slug: "otherwhere-v-siblings-of-itonia",
   title: "The Siblings of Itonia",
   world: "world/ends-of-magic",
-  description: "The warriors of the city-state of Itonia.",
+  description: "A band of warriors.",
 } as const satisfies WorldOrganization

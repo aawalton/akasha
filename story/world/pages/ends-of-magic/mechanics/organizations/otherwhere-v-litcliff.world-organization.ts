@@ -6,5 +6,5 @@ export const otherwhereVLitcliff = {
   slug: "otherwhere-v-litcliff",
   title: "Litcliff",
   world: "world/ends-of-magic",
-  description: "A port city on the southern coast of the Giantsrest continent, ruled by its peers.",
+  description: "A port city-state.",
 } as const satisfies WorldOrganization

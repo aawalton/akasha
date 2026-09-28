@@ -6,5 +6,5 @@ export const otherwhereVTheNails = {
   slug: "otherwhere-v-the-nails",
   title: "The Nails",
   world: "world/ends-of-magic",
-  description: "A Giantsrest body of mages that hunts and questions the Dominion's troublemakers.",
+  description: "A body of mages.",
 } as const satisfies WorldOrganization

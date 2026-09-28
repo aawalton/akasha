@@ -7,5 +7,5 @@ export const otherwhereVAdventurers = {
   title: "Adventurers",
   world: "world/ends-of-magic",
   aliases: ["the Adventurer's Guild"],
-  description: "Mortal fighters who hunt monsters and clear dungeons for pay and renown.",
+  description: "Mortal monster-hunters.",
 } as const satisfies WorldOrganization

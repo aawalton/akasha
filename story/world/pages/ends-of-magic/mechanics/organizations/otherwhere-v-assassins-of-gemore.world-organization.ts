@@ -6,5 +6,5 @@ export const otherwhereVAssassinsOfGemore = {
   slug: "otherwhere-v-assassins-of-gemore",
   title: "The Assassins of Gemore",
   world: "world/ends-of-magic",
-  description: "A secretive order of assassins in the free city of Gemore.",
+  description: "A guild of assassins.",
 } as const satisfies WorldOrganization

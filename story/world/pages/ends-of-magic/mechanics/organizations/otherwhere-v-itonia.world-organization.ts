@@ -6,5 +6,5 @@ export const otherwhereVItonia = {
   slug: "otherwhere-v-itonia",
   title: "Itonia",
   world: "world/ends-of-magic",
-  description: "A city-state below a tall mountain, run by oligarchs.",
+  description: "A city-state.",
 } as const satisfies WorldOrganization

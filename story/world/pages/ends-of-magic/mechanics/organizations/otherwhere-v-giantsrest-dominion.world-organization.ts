@@ -7,5 +7,5 @@ export const otherwhereVGiantsrestDominion = {
   title: "The Giantsrest Dominion",
   world: "world/ends-of-magic",
   aliases: ["Giantsrest"],
-  description: "A slave-holding mage-empire ruled from the city of Giantsrest.",
+  description: "A mage-empire.",
 } as const satisfies WorldOrganization

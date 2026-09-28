@@ -6,5 +6,5 @@ export const otherwhereVGemore = {
   slug: "otherwhere-v-gemore",
   title: "Gemore",
   world: "world/ends-of-magic",
-  description: "A free city of escaped slaves and adventurers on the Giantsrest continent.",
+  description: "A free city-state.",
 } as const satisfies WorldOrganization
