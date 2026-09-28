@@ -7,4 +7,6 @@ export const theDatingGame = {
   title: "The Dating Game — story design",
   world: "world/personas",
   premise: "md",
+  visualStyle: "fantasy photorealistic",
+  imageSeed: 381241034,
 } as const satisfies StoryDesign
