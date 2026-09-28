@@ -49,6 +49,10 @@ export const theDatingGameAlan = {
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
     {
+      fact: "Alan has an adventurer shirt he wears to ren faires.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
       fact: "Alan told the woman from the boulder his name.",
       knowers: ["lore-disclosure/game-master", "character-other/the-dating-game-echo"],
     },

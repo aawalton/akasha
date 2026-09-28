@@ -25,5 +25,17 @@ export const theDatingGameAelwyn = {
       fact: "She works out talking brightly to a phone set on a small tripod on a stump.",
       knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
     },
+    {
+      fact: "Aelwyn records her workouts on her phone, talking to viewers she calls travelers.",
+      knowers: ["lore-disclosure/game-master", "character-player/the-dating-game-alan"],
+    },
+    {
+      fact: "Aelwyn called Alan a fellow adventurer and turned her phone on him, still recording.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/the-dating-game-alan",
+        "character-other/the-dating-game-aelwyn",
+      ],
+    },
   ],
 } as const satisfies Lore
