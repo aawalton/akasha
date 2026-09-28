@@ -37,6 +37,8 @@ export const otherwhereViii00002 = {
     "The kitchen on Tanners Row feeds whoever queues at dawn, about now, if she is hungry.",
     "He waits, thumb hooked in his coat pocket, for her answer before he points her anywhere.",
   ],
+  issues: ['"The iron tip of the stick rests in the gravel by his boot." - No Prompt'],
   lore: ["place/otherwhere-viii-carrowgate", "place/otherwhere-viii-weir-gardens"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T05:45:00.000Z",
 } as const satisfies StoryTurnPlayed
