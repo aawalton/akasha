@@ -4,6 +4,7 @@ export const imageCe21330ef341443b = {
   id: "019f1837-f1bb-7d30-b8d0-629910ad3b2e",
   type: "page-type/image",
   slug: "image-ce21330ef341443b",
+  grade: "F",
   persona: "persona/aelwyn",
   service: "image-edit-kontext",
   operation: "edit",
