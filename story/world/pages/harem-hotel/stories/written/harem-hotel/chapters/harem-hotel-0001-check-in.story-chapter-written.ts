@@ -4,6 +4,7 @@ export const haremHotel0001CheckIn = {
   id: "01a0e98b-69e6-7b24-921b-0d0c330bba59",
   type: "page-type/story-chapter-written",
   slug: "harem-hotel-0001-check-in",
+  cover: "image/image-ccfd9cd65571a64c",
   ownProgress: 548,
   position: 1,
   unit: "unit/words",
@@ -11,7 +12,7 @@ export const haremHotel0001CheckIn = {
   story: "story-written/harem-hotel",
   ownLength: 4106,
   prose: "txt",
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   beats: [
     "You wake dressed on a velvet chaise in a grand old hotel lobby, with no memory of arriving.",
     "The lobby is dark wood, brass and oxblood velvet, lit by a chandelier and green-shaded lamps.",
@@ -91,5 +92,5 @@ export const haremHotel0001CheckIn = {
     "character-other/harem-hotel-wren",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryChapterWritten

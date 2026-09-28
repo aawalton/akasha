@@ -9,5 +9,5 @@ export const haremHotelFloor1 = {
   character: "character-player/harem-hotel-alan",
   objective:
     "To check in, make the concierge come and make the bellhop come, then come inside one of them, his choice. When that is done, the gate to the stairs opens.",
-  status: "active",
+  status: "complete",
 } as const satisfies HaremHotelFloor
