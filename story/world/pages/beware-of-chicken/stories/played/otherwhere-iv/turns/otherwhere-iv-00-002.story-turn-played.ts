@@ -10,7 +10,7 @@ export const otherwhereIv00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action: "A start walking toward the village, keeping my eyes and ears open for signs of danger",
   beats: [
     "Nala sets off barefoot down the cart track on the river's left bank, eyes and ears open.",
