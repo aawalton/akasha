@@ -7,7 +7,14 @@ export const otherwhere00069 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 69,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action: "**Links, how long until the main floor is cleared at this rate?**",
+  beats: [
+    "Nala asks Links, silently, how long the golems will take to clear the main level at this pace.",
+    "Links answers in her head: some 2,880 loose books still lie across the hall.",
+    '"Each shelver does about thirty an hour, a book every two minutes, as you do with Shelf Sight."',
+    "\"They don't tire and they don't sleep. Sixty an hour between them, day and night: about two days.\"",
+    "By the Counter, the first golem's arm folds back down, empty, and it stoops for the next book.",
+  ],
   lore: ["lore/otherwhere-golems"],
 } as const satisfies StoryTurnPlayed
