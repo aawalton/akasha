@@ -10,7 +10,7 @@ export const otherwhereVi00004 = {
   position: 4,
   prose: "txt",
   characters: ["character-player/otherwhere-vi-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/game-master",
   action:
     "I take a long drink from the running water while its next to me, then I follow the trail around the rim, hoping to find a way down below, keeping careful track of the direction the water is.",
   beats: [
@@ -39,7 +39,8 @@ export const otherwhereVi00004 = {
     "One steps back into the shadow of a boulder and is simply not there any more.",
     "The other stays where it is, head low, watching her.",
   ],
+  issues: ['"The other stays where it is, head low, its eyes on you." - No Prompt'],
   lore: ["place/otherwhere-vi-hollow-stream"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T21:30:00.000Z",
 } as const satisfies StoryTurnPlayed
