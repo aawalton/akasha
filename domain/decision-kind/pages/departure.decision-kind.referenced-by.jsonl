@@ -1238,6 +1238,7 @@
 {"propertySlug":"decision-kind","path":"alan/web/.server/device-secret-context/device-secret-context.module.ts","id":"01a0655e-d39a-7632-bb48-cb68d5895b87"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/home-dni-param/home-dni-param.module.ts","id":"01a0655e-d399-7f57-a5ed-36dc75b69609"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/page-detail-loading/page-detail-loading.module.ts","id":"01a0655e-d39b-7b16-9974-8d43261a1726"}
+{"propertySlug":"decision-kind","path":"alan/web/.server/page-icon/page-icon.module.ts","id":"01a0e7e2-2a04-72ea-9442-507f9e453362"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/picture-answering/picture-answering.module.ts","id":"01a09c61-a5d9-766a-9d6d-662757fe1a24"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/readout-guarding/readout-guarding.module.ts","id":"01a0655e-d39a-743e-a192-9fef67057d38"}
 {"propertySlug":"decision-kind","path":"alan/web/.server/route-access-holding/route-access-holding.module.ts","id":"01a0655e-d39a-7381-af75-83593fd6c7b1"}

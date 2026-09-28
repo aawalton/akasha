@@ -70,6 +70,7 @@ export const alanWeb = {
     "module/page-detail-error-boundary",
     "module/page-detail-loading",
     "module/page-detail-with-read-mark",
+    "module/page-icon",
     "module/picture-answering",
     "module/pull-to-refresh",
     "module/pull-to-refresh-decider",

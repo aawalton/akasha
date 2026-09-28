@@ -9,6 +9,7 @@
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/handover-rr/modules/handover-session/handover-session.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/harness/stoplight/modules/stoplights-activity-content/stoplights-activity-content.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/action-bar-answering/action-bar-answering.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/.server/page-icon/page-icon.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/routes/alan-web-api-handover-exchange/alan-web-api-handover-exchange.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"alan/web/routes/alan-web-api-seat-message/alan-web-api-seat-message.route.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"text-in.module.code.ts","path":"code/editor/extension/modules/subagent-core/subagent-core.module.code.ts","typed":false,"deferred":false}
