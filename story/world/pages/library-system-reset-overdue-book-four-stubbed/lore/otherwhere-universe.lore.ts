@@ -264,6 +264,18 @@ export const otherwhereUniverse = {
         "character-other/otherwhere-links",
       ],
     },
+    {
+      fact: "A woken golem takes up work only at a Librarian's spoken command.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
+    },
+    {
+      fact: "The shelving golems come fully awake and up to the main hall by the next morning.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
