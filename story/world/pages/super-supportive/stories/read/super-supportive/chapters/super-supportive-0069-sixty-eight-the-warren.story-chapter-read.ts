@@ -4,6 +4,7 @@ export const superSupportive0069SixtyEightTheWarren = {
   id: "01a06730-4e1f-7158-a9d3-c031038b12ef",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0069-sixty-eight-the-warren",
+  ownProgress: 3929,
   title: "SIXTY-EIGHT: The Warren",
   story: "story-read/super-supportive",
   position: 69,

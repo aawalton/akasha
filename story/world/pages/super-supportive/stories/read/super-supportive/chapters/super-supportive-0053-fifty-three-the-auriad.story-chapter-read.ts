@@ -4,6 +4,7 @@ export const superSupportive0053FiftyThreeTheAuriad = {
   id: "01a06730-4e12-7ce4-aa2c-947c5bf374ad",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0053-fifty-three-the-auriad",
+  ownProgress: 2792,
   title: "FIFTY-THREE: The Auriad",
   story: "story-read/super-supportive",
   position: 53,

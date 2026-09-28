@@ -4,6 +4,7 @@ export const superSupportive0046FortySixLife = {
   id: "01a06730-4e0d-7d8e-a43c-f8075b51234f",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0046-forty-six-life",
+  ownProgress: 2715,
   title: "FORTY-SIX: Life",
   story: "story-read/super-supportive",
   position: 46,

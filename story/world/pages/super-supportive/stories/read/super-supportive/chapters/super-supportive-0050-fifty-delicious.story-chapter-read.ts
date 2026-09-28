@@ -4,6 +4,7 @@ export const superSupportive0050FiftyDelicious = {
   id: "01a06730-4e10-73c9-9167-48f64efe8cdf",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0050-fifty-delicious",
+  ownProgress: 1764,
   title: "FIFTY: Delicious",
   story: "story-read/super-supportive",
   position: 50,

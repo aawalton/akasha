@@ -4,6 +4,7 @@ export const superSupportive0066SixtyFiveIntake = {
   id: "01a06730-4e1d-7477-a761-e7de56e32c41",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0066-sixty-five-intake",
+  ownProgress: 4835,
   title: "SIXTY-FIVE: Intake",
   story: "story-read/super-supportive",
   position: 66,

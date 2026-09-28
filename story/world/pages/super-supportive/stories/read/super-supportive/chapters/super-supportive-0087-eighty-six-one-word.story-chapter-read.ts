@@ -4,6 +4,7 @@ export const superSupportive0087EightySixOneWord = {
   id: "01a06730-4e42-7379-b054-f0e8f752e471",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0087-eighty-six-one-word",
+  ownProgress: 3965,
   title: "EIGHTY-SIX: One Word",
   story: "story-read/super-supportive",
   position: 87,

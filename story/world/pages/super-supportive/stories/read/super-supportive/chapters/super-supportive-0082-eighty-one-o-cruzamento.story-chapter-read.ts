@@ -4,6 +4,7 @@ export const superSupportive0082EightyOneOCruzamento = {
   id: "01a06730-4e3b-7eb7-be1d-ca98c33f74e5",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0082-eighty-one-o-cruzamento",
+  ownProgress: 2310,
   title: "EIGHTY-ONE: O Cruzamento",
   story: "story-read/super-supportive",
   position: 82,

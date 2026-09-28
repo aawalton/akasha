@@ -4,6 +4,7 @@ export const superSupportive0077SeventySixTheRescueGame = {
   id: "01a06730-4e32-7afc-ab68-ad6cf6d7d18b",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0077-seventy-six-the-rescue-game",
+  ownProgress: 7091,
   title: "SEVENTY-SIX: The Rescue Game",
   story: "story-read/super-supportive",
   position: 77,

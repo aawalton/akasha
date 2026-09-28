@@ -4,6 +4,7 @@ export const superSupportive0049FortyNineWordsForDemons = {
   id: "01a06730-4e10-717c-8290-6ab502689a99",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0049-forty-nine-words-for-demons",
+  ownProgress: 3431,
   title: "FORTY-NINE: Words for Demons",
   story: "story-read/super-supportive",
   position: 49,

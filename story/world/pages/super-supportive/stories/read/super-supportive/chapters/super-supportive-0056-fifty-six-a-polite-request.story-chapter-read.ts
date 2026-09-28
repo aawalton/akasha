@@ -4,6 +4,7 @@ export const superSupportive0056FiftySixAPoliteRequest = {
   id: "01a06730-4e14-7346-a3d8-df5be8a0f8bb",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0056-fifty-six-a-polite-request",
+  ownProgress: 3422,
   title: "FIFTY-SIX: A Polite Request",
   story: "story-read/super-supportive",
   position: 56,

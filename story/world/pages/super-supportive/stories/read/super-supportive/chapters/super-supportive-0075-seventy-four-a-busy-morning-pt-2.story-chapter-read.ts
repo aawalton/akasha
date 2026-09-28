@@ -4,6 +4,7 @@ export const superSupportive0075SeventyFourABusyMorningPt2 = {
   id: "01a06730-4e2b-7a7a-a534-5f1a967ac056",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0075-seventy-four-a-busy-morning-pt-2",
+  ownProgress: 7358,
   title: "SEVENTY-FOUR: A Busy Morning, pt. 2",
   story: "story-read/super-supportive",
   position: 75,

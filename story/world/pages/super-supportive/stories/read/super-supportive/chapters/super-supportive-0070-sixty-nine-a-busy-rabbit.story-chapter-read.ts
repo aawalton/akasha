@@ -4,6 +4,7 @@ export const superSupportive0070SixtyNineABusyRabbit = {
   id: "01a06730-4e21-75d0-9fb8-3b7d7c148239",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0070-sixty-nine-a-busy-rabbit",
+  ownProgress: 7961,
   title: "SIXTY-NINE: A Busy Rabbit",
   story: "story-read/super-supportive",
   position: 70,

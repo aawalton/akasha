@@ -4,6 +4,7 @@ export const superSupportive0064SixtyThreeHomePt2 = {
   id: "01a06730-4e1a-7e72-87c4-cd17f6ecbbac",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0064-sixty-three-home-pt-2",
+  ownProgress: 5179,
   title: "SIXTY-THREE: Home, pt. 2",
   story: "story-read/super-supportive",
   position: 64,

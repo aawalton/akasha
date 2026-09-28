@@ -4,6 +4,7 @@ export const superSupportive0057FiftySevenAScaleTips = {
   id: "01a06730-4e14-77ec-91b4-b06647266c34",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0057-fifty-seven-a-scale-tips",
+  ownProgress: 3776,
   title: "FIFTY-SEVEN: A Scale Tips",
   story: "story-read/super-supportive",
   position: 57,

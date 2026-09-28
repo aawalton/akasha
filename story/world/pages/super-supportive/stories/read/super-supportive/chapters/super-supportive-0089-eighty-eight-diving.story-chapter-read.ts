@@ -4,6 +4,7 @@ export const superSupportive0089EightyEightDiving = {
   id: "01a06730-4e43-79c4-b4ad-1a9636a44383",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0089-eighty-eight-diving",
+  ownProgress: 5795,
   title: "EIGHTY-EIGHT: Diving",
   story: "story-read/super-supportive",
   position: 89,

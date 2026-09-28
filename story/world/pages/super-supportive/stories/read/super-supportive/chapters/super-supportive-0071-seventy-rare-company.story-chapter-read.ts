@@ -4,6 +4,7 @@ export const superSupportive0071SeventyRareCompany = {
   id: "01a06730-4e22-7137-910d-e9b3d5cdddfe",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0071-seventy-rare-company",
+  ownProgress: 3493,
   title: "SEVENTY: Rare Company",
   story: "story-read/super-supportive",
   position: 71,

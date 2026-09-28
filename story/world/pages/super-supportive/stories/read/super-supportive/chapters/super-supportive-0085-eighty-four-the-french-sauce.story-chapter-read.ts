@@ -4,6 +4,7 @@ export const superSupportive0085EightyFourTheFrenchSauce = {
   id: "01a06730-4e40-7ac8-9431-4a6bffe3d83f",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0085-eighty-four-the-french-sauce",
+  ownProgress: 5782,
   title: "EIGHTY-FOUR: The French Sauce",
   story: "story-read/super-supportive",
   position: 85,

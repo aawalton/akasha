@@ -4,6 +4,7 @@ export const superSupportive0047FortySevenThunderLettuce = {
   id: "01a06730-4e0e-7d71-ae4d-0bf5e5a04182",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0047-forty-seven-thunder-lettuce",
+  ownProgress: 2866,
   title: "FORTY-SEVEN: Thunder Lettuce",
   story: "story-read/super-supportive",
   position: 47,

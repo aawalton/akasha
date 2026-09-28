@@ -4,6 +4,7 @@ export const superSupportive0088EightySevenIncautiousCaring = {
   id: "01a06730-4e42-7655-a599-d27bfa745975",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0088-eighty-seven-incautious-caring",
+  ownProgress: 4175,
   title: "EIGHTY-SEVEN: Incautious Caring",
   story: "story-read/super-supportive",
   position: 88,

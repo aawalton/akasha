@@ -4,6 +4,7 @@ export const superSupportive0051FiftyOneTakeMeSomewhereBetter = {
   id: "01a06730-4e11-78d6-83f8-cc34f26217ab",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0051-fifty-one-take-me-somewhere-better",
+  ownProgress: 2835,
   title: "FIFTY-ONE: Take Me Somewhere Better",
   story: "story-read/super-supportive",
   position: 51,

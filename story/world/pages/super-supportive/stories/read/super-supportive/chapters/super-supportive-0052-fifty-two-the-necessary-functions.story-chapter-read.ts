@@ -4,6 +4,7 @@ export const superSupportive0052FiftyTwoTheNecessaryFunctions = {
   id: "01a06730-4e11-7b2b-b31c-65fb41090f51",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0052-fifty-two-the-necessary-functions",
+  ownProgress: 2829,
   title: "FIFTY-TWO: The Necessary Functions",
   story: "story-read/super-supportive",
   position: 52,

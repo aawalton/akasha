@@ -4,6 +4,7 @@ export const superSupportive0067SixtySixPinball = {
   id: "01a06730-4e1d-772d-8ce4-199373df02c0",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0067-sixty-six-pinball",
+  ownProgress: 3837,
   title: "SIXTY-SIX: Pinball",
   story: "story-read/super-supportive",
   position: 67,

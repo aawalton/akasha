@@ -4,6 +4,7 @@ export const superSupportive0068SixtySevenGoals = {
   id: "01a06730-4e1f-7a8f-b6cb-c17370cfaa83",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0068-sixty-seven-goals",
+  ownProgress: 6715,
   title: "SIXTY-SEVEN: Goals",
   story: "story-read/super-supportive",
   position: 68,

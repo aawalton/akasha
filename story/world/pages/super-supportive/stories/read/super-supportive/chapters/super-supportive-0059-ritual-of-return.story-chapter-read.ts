@@ -4,6 +4,7 @@ export const superSupportive0059RitualOfReturn = {
   id: "01a06730-4e14-75f8-b457-0a158f987740",
   type: "page-type/story-chapter-read",
   slug: "super-supportive-0059-ritual-of-return",
+  ownProgress: 120,
   title: "Ritual of Return",
   story: "story-read/super-supportive",
   position: 59,
