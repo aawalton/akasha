@@ -25,6 +25,6 @@ export const theDatingGame00048 = {
   ],
   lore: ["lore/the-dating-game-aelwyn"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-27T11:54:00.000Z",
 } as const satisfies StoryTurnPlayed
