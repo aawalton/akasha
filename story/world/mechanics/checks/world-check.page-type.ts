@@ -46,6 +46,7 @@ export const worldCheck = {
     "world-check/otherwhere-vii-harm",
     "world-check/otherwhere-vii-needs",
     "world-check/otherwhere-vii-standing",
+    "world-check/otherwhere-vii-cultivating",
     "world-check/otherwhere-viii-time-passing",
   ],
   properties: [{ pageProperty: "module-property-group/settling", required: true, many: false }],
