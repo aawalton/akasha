@@ -4,6 +4,7 @@ export const beneathTheDragoneyeMoons0020HeyWhereDidTheChaptersGo = {
   id: "01a06731-af16-7001-a461-957272dc77eb",
   type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0020-hey-where-did-the-chapters-go",
+  ownProgress: 80,
   title: "Hey! Where did the chapters go?",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 20,

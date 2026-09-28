@@ -4,6 +4,7 @@ export const beneathTheDragoneyeMoons0008WorldbuildingWhatCausedTheDeadzone = {
   id: "01a06731-af14-7000-a675-02c83d479fce",
   type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0008-worldbuilding-what-caused-the-deadzone",
+  ownProgress: 411,
   title: "Worldbuilding - What caused the deadzone?",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 8,

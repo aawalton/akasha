@@ -4,6 +4,7 @@ export const beneathTheDragoneyeMoons0018BtdemCrossoverArtwork = {
   id: "01a06731-af15-7008-bf7a-a611f3b377f6",
   type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0018-btdem-crossover-artwork",
+  ownProgress: 258,
   title: "BTDEM Crossover Artwork!",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 18,

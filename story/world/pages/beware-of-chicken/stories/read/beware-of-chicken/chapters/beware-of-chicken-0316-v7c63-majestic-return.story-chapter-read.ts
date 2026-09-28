@@ -4,6 +4,7 @@ export const bewareOfChicken0316V7c63MajesticReturn = {
   id: "01a06731-ade3-7001-a2b5-9fca5c1f4436",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0316-v7c63-majestic-return",
+  ownProgress: 2008,
   title: "v7c63: Majestic Return",
   story: "story-read/beware-of-chicken",
   position: 316,

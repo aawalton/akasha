@@ -4,6 +4,7 @@ export const beneathTheDragoneyeMoons0013CatchupArtwork = {
   id: "01a06731-af15-7003-85e8-4c108c47a751",
   type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0013-catchup-artwork",
+  ownProgress: 48,
   title: "Catchup Artwork!",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 13,

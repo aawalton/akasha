@@ -4,6 +4,7 @@ export const beneathTheDragoneyeMoons0011ChapterDragoneyeMortis13 = {
   id: "01a06731-af15-7001-ac9d-9b4455098ed5",
   type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0011-chapter-dragoneye-mortis-1-3",
+  ownProgress: 1880,
   title: "Chapter ??? - Dragoneye Mortis 1.3",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 11,

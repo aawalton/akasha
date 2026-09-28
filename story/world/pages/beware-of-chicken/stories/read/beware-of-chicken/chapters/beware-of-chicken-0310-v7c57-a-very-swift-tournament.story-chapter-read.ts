@@ -4,6 +4,7 @@ export const bewareOfChicken0310V7c57AVerySwiftTournament = {
   id: "01a06731-addf-7006-b4b9-d0e2131f0a16",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0310-v7c57-a-very-swift-tournament",
+  ownProgress: 2296,
   title: "v7c57: A Very Swift Tournament",
   story: "story-read/beware-of-chicken",
   position: 310,

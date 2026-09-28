@@ -4,6 +4,7 @@ export const bewareOfChicken0304V7c51ToStrideForwardUndaunted = {
   id: "01a06731-addf-7000-8339-c3a756d54ec4",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0304-v7c51-to-stride-forward-undaunted",
+  ownProgress: 2389,
   title: "v7c51: To Stride Forward, Undaunted",
   story: "story-read/beware-of-chicken",
   position: 304,

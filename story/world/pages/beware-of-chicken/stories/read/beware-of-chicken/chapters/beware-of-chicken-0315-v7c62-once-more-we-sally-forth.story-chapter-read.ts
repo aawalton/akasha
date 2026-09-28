@@ -4,6 +4,7 @@ export const bewareOfChicken0315V7c62OnceMoreWeSallyForth = {
   id: "01a06731-ade3-7000-bb34-3e8bfdc5e84b",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0315-v7c62-once-more-we-sally-forth",
+  ownProgress: 2335,
   title: "v7c62: Once More, we Sally Forth",
   story: "story-read/beware-of-chicken",
   position: 315,

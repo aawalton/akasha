@@ -4,6 +4,7 @@ export const bewareOfChicken0292V7c39WestwardLeading = {
   id: "01a06731-add9-7007-b1f7-8c2a52888434",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0292-v7c39-westward-leading",
+  ownProgress: 1835,
   title: "v7c39: Westward Leading",
   story: "story-read/beware-of-chicken",
   position: 292,

@@ -8,7 +8,7 @@ export const bewareOfChicken0287V7c34MetalToWater = {
   story: "story-read/beware-of-chicken",
   position: 287,
   ownLength: 2456,
-  ownProgress: 619,
+  ownProgress: 2456,
   unit: "unit/words",
   publishedAt: "2026-03-04",
   externalIdentity: [

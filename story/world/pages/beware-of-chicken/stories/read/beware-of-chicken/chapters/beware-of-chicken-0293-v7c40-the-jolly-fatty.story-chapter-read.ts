@@ -4,6 +4,7 @@ export const bewareOfChicken0293V7c40TheJollyFatty = {
   id: "01a06731-add9-7008-afb0-8fc1206baa9f",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0293-v7c40-the-jolly-fatty",
+  ownProgress: 2020,
   title: "v7c40: The Jolly Fatty",
   story: "story-read/beware-of-chicken",
   position: 293,

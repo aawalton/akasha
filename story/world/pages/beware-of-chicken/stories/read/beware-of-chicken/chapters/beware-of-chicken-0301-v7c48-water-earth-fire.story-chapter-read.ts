@@ -4,6 +4,7 @@ export const bewareOfChicken0301V7c48WaterEarthFire = {
   id: "01a06731-addb-7003-afd1-dfd05e8bfdda",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0301-v7c48-water-earth-fire",
+  ownProgress: 3499,
   title: "v7c48: Water, Earth, Fire",
   story: "story-read/beware-of-chicken",
   position: 301,

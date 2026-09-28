@@ -4,6 +4,7 @@ export const bewareOfChicken0302V7c49WindDown = {
   id: "01a06731-addd-7000-af16-4be3b6f7354c",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0302-v7c49-wind-down",
+  ownProgress: 2024,
   title: "v7c49: Wind Down",
   story: "story-read/beware-of-chicken",
   position: 302,

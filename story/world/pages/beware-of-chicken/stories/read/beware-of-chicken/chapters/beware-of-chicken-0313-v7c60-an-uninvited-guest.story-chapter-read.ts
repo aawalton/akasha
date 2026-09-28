@@ -4,6 +4,7 @@ export const bewareOfChicken0313V7c60AnUninvitedGuest = {
   id: "01a06731-ade1-7000-ae16-cd325c26cd9a",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0313-v7c60-an-uninvited-guest",
+  ownProgress: 2116,
   title: "v7c60: An Uninvited Guest",
   story: "story-read/beware-of-chicken",
   position: 313,

@@ -4,6 +4,7 @@ export const bewareOfChicken0306V7c53GoldenBlood = {
   id: "01a06731-addf-7002-925b-1379d5621fea",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0306-v7c53-golden-blood",
+  ownProgress: 1925,
   title: "v7c53: Golden Blood",
   story: "story-read/beware-of-chicken",
   position: 306,

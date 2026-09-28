@@ -4,6 +4,7 @@ export const bewareOfChicken0291V7c38ReflectionOfTheWorld = {
   id: "01a06731-add9-7006-b36e-cb2d70ecb2a8",
   type: "page-type/story-chapter-read",
   slug: "beware-of-chicken-0291-v7c38-reflection-of-the-world",
+  ownProgress: 2285,
   title: "v7c38: Reflection of the World",
   story: "story-read/beware-of-chicken",
   position: 291,
