@@ -129,7 +129,12 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "Aldo Reeve's farm is the big thatched one past the green; he threshes in its barn this week.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
     },
     {
       fact: "Threshing is swinging a flail on the barn's beaten earth from dawn to dusk; men do it.",
@@ -137,7 +142,11 @@ export const otherwhereViiAshford = {
     },
     {
       fact: "Women winnow the threshed grain with baskets in the barn door's draught, for six pennies a day.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
+      ],
     },
     {
       fact: "Aldo hires by sight: he wants no trouble, a name, and a word from someone he knows.",
@@ -189,6 +198,14 @@ export const otherwhereViiAshford = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "In Aldo's barn men thresh barley with flails on beaten earth; he says flails are men's work.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
   ],

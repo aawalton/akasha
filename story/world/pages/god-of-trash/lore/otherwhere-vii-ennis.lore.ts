@@ -220,6 +220,30 @@ export const otherwhereViiEnnis = {
         "character-other/otherwhere-vii-ennis",
       ],
     },
+    {
+      fact: "The carter pointed Nala to Aldo Reeve's barn, but said he would not speak for her.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "The carter raised his offer for Nala's shirt to twenty pennies.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "The carter told Nala he'd be at the midden behind Ashford's mill till noon.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-ennis",
+      ],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

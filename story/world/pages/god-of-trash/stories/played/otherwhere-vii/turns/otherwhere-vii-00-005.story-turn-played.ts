@@ -39,5 +39,6 @@ export const otherwhereVii00005 = {
   ],
   lore: ["place/otherwhere-vii-ashford", "lore/otherwhere-vii-ennis"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T07:09:00.000Z",
 } as const satisfies StoryTurnPlayed

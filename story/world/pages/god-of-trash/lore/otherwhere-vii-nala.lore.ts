@@ -46,6 +46,7 @@ export const otherwhereViiNala = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-ennis",
+        "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
     {
@@ -107,6 +108,14 @@ export const otherwhereViiNala = {
         "lore-disclosure/game-master",
         "character-player/otherwhere-vii-nala",
         "character-other/otherwhere-vii-ennis",
+      ],
+    },
+    {
+      fact: "Nala came barefoot and damp to Aldo Reeve's barn and asked him for harvest work.",
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-vii-nala",
+        "character-other/otherwhere-vii-aldo-reeve",
       ],
     },
   ],
