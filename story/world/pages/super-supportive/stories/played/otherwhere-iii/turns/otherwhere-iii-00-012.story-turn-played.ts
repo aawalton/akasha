@@ -4,13 +4,14 @@ export const otherwhereIii00012 = {
   id: "01a0ea69-e919-726b-ba74-0474b0f6ef61",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iii-00-012",
+  cover: "image/image-9a3e1faa5fd5af2d",
   ownLength: 195,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iii"],
   position: 12,
   prose: "txt",
   characters: ["character-player/otherwhere-iii-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“I’m afraid not. Or at least, my ID is in the wallet my ex-boyfriend dumped somewhere with my phone. I never memorized it.” I look back up at the screen. “Um…I think I need to get to the Artonan Consulate in the morning. Is that far from here?”",
   beats: [
@@ -28,6 +29,6 @@ export const otherwhereIii00012 = {
   ],
   lore: ["place/otherwhere-iii-uptown-memorial-er", "place/super-supportive-artonan-consulate-4"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2037-01-31T07:09:00.000Z",
 } as const satisfies StoryTurnPlayed
