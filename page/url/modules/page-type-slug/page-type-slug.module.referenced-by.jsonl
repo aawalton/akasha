@@ -65,6 +65,7 @@
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"story/world/world.page-type.page-component.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"temper/player/character/build/build-support/modules/build-url/build-url.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"page-type-slug.module.code.ts","path":"temper/web/routes/page-detail/page-detail.route.code.tsx","typed":false,"deferred":false}

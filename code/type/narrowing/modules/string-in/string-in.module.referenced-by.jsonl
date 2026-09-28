@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"infrastructure/service/akasha-service/web-app/web-phrase/modules/seeding/web-phrase-seeding.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"page/ui/markdown/modules/markdown-renderer/markdown-renderer.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"person/modules/sms-consent/sms-consent.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"string-in.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/items/modules/trading-listing-facts/trading-listing-facts.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/addon/pages/temper-core/temper-errors/modules/errors-addon-build-ids/errors-addon-build-ids.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"string-in.module.code.ts","path":"temper/catalog/companion/companions-core/modules/companion-catalog-reading/companion-catalog-reading.module.code.ts","typed":false,"deferred":false}

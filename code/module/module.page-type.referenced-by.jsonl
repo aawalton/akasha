@@ -2695,6 +2695,7 @@
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/wandering-inn/modules/site/site.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/read/wandering-inn/modules/syncing/syncing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/written/chapters/modules/chapter-making/chapter-making.module.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/written/modules/chapter-writing/chapter-writing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"story/world/stories/written/modules/nightly-chapter-writing/nightly-chapter-writing.module.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"module.page-type.types.ts","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.ts","typed":true,"deferred":false}

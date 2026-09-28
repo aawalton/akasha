@@ -20,5 +20,6 @@
 {"propertySlug":"import","fileName":"shape-descriptor.module.code.ts","path":"story/world/stories/played/modules/played-rows/played-rows.module.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"shape-descriptor.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape-descriptor.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"shape-descriptor.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"shape-descriptor.module.code.ts","path":"temper/web/modules/use-lore-library/use-lore-library.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"page/ui-store/collection/page-ui-store-collection.domain.ts","id":"01a071cd-798c-75bd-88c7-7e266f938b90"}

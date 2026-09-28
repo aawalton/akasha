@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"story/world/stories/played/modules/played-sheet-rows/played-sheet-rows.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"story/world/stories/played/turns/modules/turn-making/turn-making.module.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"temper/catalog/alchemy/modules/potion-source/potion-source.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"strings-in.module.code.ts","path":"temper/web/player-completion-ui/modules/use-completion/use-completion.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"code/type/narrowing/type-narrowing.domain.ts","id":"01a05c94-2c03-7ab7-b93f-49a8ed498a29"}

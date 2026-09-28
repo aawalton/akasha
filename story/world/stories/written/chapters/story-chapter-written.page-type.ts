@@ -8,7 +8,7 @@ export const storyChapterWritten = {
   pluralSlug: "chapters",
   extends: ["page-type/chapter"],
   runsTabooCheck: false,
-  parts: ["module/chapter-making"],
+  parts: ["module/chapter-making", "module/chapter-panels"],
   detailConfig: {
     frame: {
       edgeToEdge: true,

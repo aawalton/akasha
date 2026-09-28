@@ -2,6 +2,7 @@
 
 import type { PageDrawingProps } from "akasha/page/ui/component/modules/page-detail-content/page-detail-content.module.code.tsx"
 import { PageReaderContent } from "akasha/page/ui/component/modules/page-reader-content/page-reader-content.module.code.tsx"
+import { ChapterPanels } from "akasha/story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx"
 
 export function Drawing({
   pageTypeSlug,
@@ -19,6 +20,11 @@ export function Drawing({
       readerNext={readerNext}
       storyHref={storyHref}
       onReadToEnd={onReadToEnd}
+      around={(column) => (
+        <ChapterPanels pageTypeSlug={pageTypeSlug} id={id}>
+          {column}
+        </ChapterPanels>
+      )}
     />
   )
 }

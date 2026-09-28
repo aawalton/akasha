@@ -1,4 +1,5 @@
 {"propertySlug":"import","fileName":"panel-loading.module.code.ts","path":"story/ui/played-panel/modules/panel-loading/panel-loading.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"panel-loading.module.code.ts","path":"story/world/stories/played/modules/played-panels/played-panels.module.code.tsx","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"panel-loading.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"panel-loading.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"story/ui/played-panel/played-panel.page-type.ts","id":"01a0c49e-6107-758a-9dfe-efd394605239"}

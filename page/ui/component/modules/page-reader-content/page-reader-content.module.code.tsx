@@ -75,6 +75,18 @@ interface PageReaderContentProps {
   storyHref?: string | null
   onReadToEnd?: () => void
   drawProse?: (body: string) => ReactNode
+  around?: (column: ReactNode) => ReactNode
+}
+
+function ReaderColumn({
+  around,
+  children,
+}: {
+  around: ((column: ReactNode) => ReactNode) | undefined
+  children: ReactNode
+}) {
+  if (around !== undefined) return around(children)
+  return <PageLayout.Content className={READER_COLUMN}>{children}</PageLayout.Content>
 }
 
 export function PageReaderContent({
@@ -85,6 +97,7 @@ export function PageReaderContent({
   storyHref,
   onReadToEnd,
   drawProse,
+  around,
 }: PageReaderContentProps) {
   const source = useReaderPageSource()
   const { pageTypeData, isLoading: pageTypeIsLoading } = source.useReaderPageType(pageTypeSlug)
@@ -205,7 +218,7 @@ export function PageReaderContent({
         {page ? (
           <>
             {detailConfig?.showReadingProgress === true && <ReadingProgressBar />}
-            <PageLayout.Content className={READER_COLUMN}>
+            <ReaderColumn around={around}>
               <div className="flex flex-col gap-8 py-6">
                 {(readerPrev != null || readerNext != null) && (
                   <ReaderPager prev={readerPrev ?? null} next={readerNext ?? null} position="top" />
@@ -239,7 +252,7 @@ export function PageReaderContent({
                   />
                 )}
               </div>
-            </PageLayout.Content>
+            </ReaderColumn>
           </>
         ) : (
           <PageLayout.Content>

@@ -7,6 +7,7 @@
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/modules/otherwhere-the-library-map/otherwhere-the-library-map.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/world/stories/played/modules/played-shell/played-shell.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/world/stories/read/modules/reader-shell/reader-shell.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"story/world/stories/written/chapters/modules/chapter-panels/chapter-panels.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/characters-character-ui/modules/use-characters/use-characters.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/companions-ui/modules/use-companions/use-companions.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"use-pages.module.code.ts","path":"temper/web/modules/dungeons-tab/dungeons-tab.module.code.tsx","typed":false,"deferred":false}
