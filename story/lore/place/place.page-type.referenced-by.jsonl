@@ -205,11 +205,15 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-alzore-zone.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-depths.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-dungeon.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-smithy.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-tavern.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-brass-road.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-drathok-office.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-elasar-auction-chamber.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-entrerea.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-fanata.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-glassgrass-flats.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-grand-library.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-kessen-zone.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-kessenhold.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-malar-zone.place.ts","typed":true,"deferred":false}
