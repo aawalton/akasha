@@ -4,6 +4,7 @@ export const beneathTheDragoneyeMoons0005InterludeBonusContentBlackCrowWhiteDove
   id: "01a06731-af13-7004-b340-82ef4629176d",
   type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0005-interlude-bonus-content-black-crow-white-dove",
+  ownProgress: 315,
   title: "Interlude - Bonus Content - Black Crow//White Dove",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 5,

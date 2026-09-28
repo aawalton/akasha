@@ -4,6 +4,7 @@ export const azarinthHealer0020Chapter936TheNextSteps = {
   id: "01a06731-affb-7001-837d-ba37fd6ee805",
   type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0020-chapter-936-the-next-steps",
+  ownProgress: 3208,
   title: "Chapter 936 The next steps",
   story: "story-read/azarinth-healer",
   position: 20,

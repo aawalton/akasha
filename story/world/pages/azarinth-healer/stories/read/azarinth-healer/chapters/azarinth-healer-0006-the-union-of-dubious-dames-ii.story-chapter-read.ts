@@ -4,6 +4,7 @@ export const azarinthHealer0006TheUnionOfDubiousDamesIi = {
   id: "01a06731-aff7-7000-b78f-01b9368988e4",
   type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0006-the-union-of-dubious-dames-ii",
+  ownProgress: 2289,
   title: "The Union of Dubious Dames II",
   story: "story-read/azarinth-healer",
   position: 6,

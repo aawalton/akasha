@@ -14,6 +14,7 @@ export const arkendrithyst = {
     },
   ],
   author: "Arcs",
+  following: true,
   grade: "C",
   publicationStatus: "completed",
   externalTags: [

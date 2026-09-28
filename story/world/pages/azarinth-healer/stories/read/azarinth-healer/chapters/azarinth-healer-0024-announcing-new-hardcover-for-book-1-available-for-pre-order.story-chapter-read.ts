@@ -4,6 +4,7 @@ export const azarinthHealer0024AnnouncingNewHardcoverForBook1AvailableForPreOrde
   id: "01a06731-affc-7002-8d10-a2ddaf0370dc",
   type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0024-announcing-new-hardcover-for-book-1-available-for-pre-order",
+  ownProgress: 84,
   title:
     "Announcing new hardcover for book 1 available for pre-order! Not a chapter again, I'm sorry.",
   story: "story-read/azarinth-healer",

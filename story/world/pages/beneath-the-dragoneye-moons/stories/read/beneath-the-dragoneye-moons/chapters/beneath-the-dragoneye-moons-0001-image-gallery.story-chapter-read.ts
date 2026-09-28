@@ -4,6 +4,7 @@ export const beneathTheDragoneyeMoons0001ImageGallery = {
   id: "01a06731-af13-7000-a3b2-c7eecb1ade81",
   type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0001-image-gallery",
+  ownProgress: 96,
   title: "Image Gallery!",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 1,

@@ -4,6 +4,7 @@ export const azarinthHealer0016NotAChapterUpdateOnTheStorySerializedVersion = {
   id: "01a06731-affa-7001-bc02-b6a6fb032b5c",
   type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0016-not-a-chapter-update-on-the-story-serialized-version",
+  ownProgress: 488,
   title: "Not a chapter - Update on the story/serialized version",
   story: "story-read/azarinth-healer",
   position: 16,

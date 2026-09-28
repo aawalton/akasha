@@ -4,6 +4,7 @@ export const azarinthHealer0003Chapter3GlowingMoss = {
   id: "01a06731-aff5-7001-8fd5-4c597adb8125",
   type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0003-chapter-3-glowing-moss",
+  ownProgress: 3544,
   title: "Chapter 3 Glowing Moss",
   story: "story-read/azarinth-healer",
   position: 3,

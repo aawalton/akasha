@@ -4,6 +4,7 @@ export const alexaThymeFormerlyAlexithymia0001Chapter1ThePrincipalSOffice1 = {
   id: "01a06585-ef14-713b-84f7-1a999bc57744",
   type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0001-chapter-1-the-principal-s-office-1",
+  ownProgress: 2579,
   title: "Chapter 1: The Principal's Office (1)",
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 1,

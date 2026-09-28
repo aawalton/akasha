@@ -4,6 +4,7 @@ export const alexaThymeFormerlyAlexithymia0003PrologueIi = {
   id: "01a06585-ef14-7826-9a0c-3cfd1ffce36e",
   type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0003-prologue-ii",
+  ownProgress: 1589,
   title: "Prologue II",
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 3,

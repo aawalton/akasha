@@ -4,6 +4,7 @@ export const alexaThymeFormerlyAlexithymia0007Chapter124TheArrivalFourHoursEarli
   id: "01a06585-ef15-7e28-8d45-d808adbc1808",
   type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0007-chapter-124-the-arrival-four-hours-earlier",
+  ownProgress: 3037,
   title: "Chapter 124  The Arrival (Four Hours Earlier)",
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 7,

@@ -4,6 +4,7 @@ export const beneathTheDragoneyeMoons0004InterludeTheMagicElementsExplained = {
   id: "01a06731-af13-7003-b393-15331d8e2ea2",
   type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0004-interlude-the-magic-elements-explained",
+  ownProgress: 1392,
   title: "Interlude - The Magic Elements Explained!",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 4,

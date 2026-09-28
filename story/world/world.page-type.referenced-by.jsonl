@@ -23,6 +23,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cat-girl-evolution/cat-girl-evolution.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/chaos-seeds/chaos-seeds.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/chloe-the-zombie-a-monster-evolution-litrpg/chloe-the-zombie-a-monster-evolution-litrpg.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/choose-your-apocalypse-a-litrpg-apocalypse-progression/choose-your-apocalypse-a-litrpg-apocalypse-progression.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/chrysalis/chrysalis.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cinnamon-bun/cinnamon-bun.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/cornerstone/cornerstone.world.ts","typed":true,"deferred":false}
@@ -49,6 +50,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/flesh-eater-demon-evolution-litrpg/flesh-eater-demon-evolution-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/forge-of-destiny/forge-of-destiny.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/gamer-girl-evolution/gamer-girl-evolution.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/gifted/gifted.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/god-of-trash/god-of-trash.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/guardian-of-aster-fall/guardian-of-aster-fall.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/harem-hotel/harem-hotel.world.ts","typed":true,"deferred":false}
@@ -57,6 +59,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/hell-difficulty-tutorial/hell-difficulty-tutorial.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/hell-horizon-healer/hell-horizon-healer.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/hell-hound-evolution-litrpg/hell-hound-evolution-litrpg.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/how-to-magic-anthropologist-in-another-world/how-to-magic-anthropologist-in-another-world.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/hyrule/hyrule.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/incremental-torture-an-idle-system-tower-climbing/incremental-torture-an-idle-system-tower-climbing.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/journey-to-veresavir-fantasy-litrpg/journey-to-veresavir-fantasy-litrpg.world.ts","typed":true,"deferred":false}
@@ -67,6 +70,7 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/leveling-up-the-world/leveling-up-the-world.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/library-system-reset-overdue-book-four-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/light-cleric/light-cleric.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/maid-ascension/maid-ascension.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mana-devourer-litrpgmana-cultivation.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mark-of-the-crijik/mark-of-the-crijik.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/mark-of-the-fool/mark-of-the-fool.world.ts","typed":true,"deferred":false}
@@ -114,7 +118,9 @@
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/syl-a-slime-monster-evolution-litrpg/syl-a-slime-monster-evolution-litrpg.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/system-change-system-universe/system-change-system-universe.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/system-girl-system-mc-world-hopping-comedy/system-girl-system-mc-world-hopping-comedy.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-archmage-coefficient-op-archmage-mage-academy/the-archmage-coefficient-op-archmage-mage-academy.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-beholder/the-beholder.world.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-bookstore/the-bookstore.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-calamitous-bob-stubbed/the-calamitous-bob-stubbed.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-connected-system/the-connected-system.world.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world.page-type.types.ts","path":"story/world/pages/the-dungeon-of-one-thousand-deaths/the-dungeon-of-one-thousand-deaths.world.ts","typed":true,"deferred":false}

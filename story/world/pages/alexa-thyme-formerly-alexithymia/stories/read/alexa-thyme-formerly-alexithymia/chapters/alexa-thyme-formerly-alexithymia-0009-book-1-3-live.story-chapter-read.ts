@@ -4,6 +4,7 @@ export const alexaThymeFormerlyAlexithymia0009Book13Live = {
   id: "01a06585-ef15-7476-8e52-75168f51c673",
   type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0009-book-1-3-live",
+  ownProgress: 110,
   title: "Book 1 - 3 Live.",
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 9,

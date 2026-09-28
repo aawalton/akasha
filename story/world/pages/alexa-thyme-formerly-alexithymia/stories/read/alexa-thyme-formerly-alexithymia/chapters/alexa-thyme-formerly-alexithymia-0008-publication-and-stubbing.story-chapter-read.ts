@@ -4,6 +4,7 @@ export const alexaThymeFormerlyAlexithymia0008PublicationAndStubbing = {
   id: "01a06585-ef15-71c9-89d4-6056fa044fad",
   type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0008-publication-and-stubbing",
+  ownProgress: 124,
   title: "Publication and Stubbing",
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 8,

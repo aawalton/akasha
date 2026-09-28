@@ -4,6 +4,7 @@ export const beneathTheDragoneyeMoons0007ChapterTheCovenOfFabulousWitchesIii = {
   id: "01a06731-af13-7006-aa0d-589b2d4638c2",
   type: "page-type/story-chapter-read",
   slug: "beneath-the-dragoneye-moons-0007-chapter-the-coven-of-fabulous-witches-iii",
+  ownProgress: 2546,
   title: "Chapter ???? – The Coven of Fabulous Witches III",
   story: "story-read/beneath-the-dragoneye-moons",
   position: 7,

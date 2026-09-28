@@ -4,6 +4,7 @@ export const alexaThymeFormerlyAlexithymia0004Chapter42SundayIntoMondayReunion =
   id: "01a06585-ef14-7a29-a3b9-5a095b0c794e",
   type: "page-type/story-chapter-read",
   slug: "alexa-thyme-formerly-alexithymia-0004-chapter-42-sunday-into-monday-reunion",
+  ownProgress: 2557,
   title: "Chapter 42  Sunday into Monday Reunion",
   story: "story-read/alexa-thyme-formerly-alexithymia",
   position: 4,

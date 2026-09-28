@@ -4,6 +4,7 @@ export const azarinthHealer0002Chapter2GenericWolvesWhoWouldVeGuessed = {
   id: "01a06731-aff5-7000-b6e7-8464a341b9cb",
   type: "page-type/story-chapter-read",
   slug: "azarinth-healer-0002-chapter-2-generic-wolves-who-would-ve-guessed",
+  ownProgress: 3491,
   title: "Chapter 2 Generic wolves - who would've guessed",
   story: "story-read/azarinth-healer",
   position: 2,
