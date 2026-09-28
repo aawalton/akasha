@@ -241,6 +241,18 @@ export const otherwhereUniverse = {
       ],
     },
     {
+      fact: "The Library sets its Librarian no dress; she may wear what she likes.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Patrons of many peoples know the Library's deep blue robe as a Librarian's.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
+      fact: "Peoples judge bare skin differently; covered and neat offends almost none of them.",
+      knowers: ["lore-disclosure/game-master", "character-other/otherwhere-links"],
+    },
+    {
       fact: "Asking a patron what it is, rather than who, offends most peoples.",
       knowers: [
         "lore-disclosure/game-master",
