@@ -24,4 +24,5 @@ export const otherwhere00049 = {
     "Overhead, the hall's gold light brightens another shade.",
   ],
   lore: ["place/otherwhere-hall-back"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
