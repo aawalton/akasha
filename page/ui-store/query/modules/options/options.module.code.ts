@@ -26,7 +26,7 @@ export type UseViewQueryOptions = {
   viewUpdatedAt?: string
   crossType?: boolean
   crossTypeDescriptor?: ShapeDescriptor
-  shape?: ShapeDescriptor
+  shapes?: readonly ShapeDescriptor[]
   gatingTargetSlugs?: readonly string[]
   displayTargetSlugs?: readonly string[]
 }

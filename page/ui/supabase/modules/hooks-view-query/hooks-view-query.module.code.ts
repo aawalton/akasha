@@ -41,22 +41,31 @@ function valuesNamedIn(condition: PageCondition): readonly string[] | null {
   return null
 }
 
-export function relationShapeOf(
+const ASKED_APART_AT_MOST = 100
+
+const NO_SHAPES: readonly ShapeDescriptor[] = []
+
+export function relationShapesOf(
   pageTypeSlug: string | undefined,
   filters: PageWhere | undefined,
   properties: readonly PropertyDefinition[] | undefined
-): ShapeDescriptor | undefined {
-  if (pageTypeSlug === undefined || filters === undefined) return undefined
+): readonly ShapeDescriptor[] {
+  if (pageTypeSlug === undefined || filters === undefined) return NO_SHAPES
   for (const one of filters) {
     if (!("key" in one)) continue
     const type = properties?.find((p) => p.id === one.key)?.type
     if (type === undefined || !RELATIONS.has(type)) continue
     const values = valuesNamedIn(one)
-    if (values !== null) {
-      return namedShapeDescriptor(pageTypeSlug, { by: "where", key: one.key, values })
+    if (values === null) continue
+    const key = one.key
+    if (values.length > ASKED_APART_AT_MOST) {
+      return [namedShapeDescriptor(pageTypeSlug, { by: "where", key, values })]
     }
+    return values.map((value) =>
+      namedShapeDescriptor(pageTypeSlug, { by: "where", key, values: [value] })
+    )
   }
-  return undefined
+  return NO_SHAPES
 }
 
 export function usePageViewQuery({
@@ -126,15 +135,15 @@ export function usePageViewQuery({
     }
   }, [crossPredicate])
 
-  const shape = useMemo(
-    () => relationShapeOf(pageTypeSlug, filters, properties),
+  const shapes = useMemo(
+    () => relationShapesOf(pageTypeSlug, filters, properties),
     [pageTypeSlug, filters, properties]
   )
 
   const result = useViewPagesSupabase({
     pageTypeId,
     pageTypeSlug,
-    shape,
+    shapes,
     sorts,
     filters,
     properties,

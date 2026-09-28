@@ -6,11 +6,13 @@ import type { Page } from "akasha/page/core/modules/page-types/page-types.module
 import { createHeldSnapshots } from "akasha/page/ui/cache/modules/listing-readiness/listing-readiness.module.code.ts"
 import {
   useAcquireFilteredStream,
+  useAcquireShapes,
   useAcquireSlug,
   useAcquireSlugs,
   usePipelineLive,
 } from "akasha/page/ui/cache/modules/tanstack-live/tanstack-live.module.code.ts"
 import { useCoreDefinitionsReady } from "akasha/page/ui/cache/modules/use-core-definitions-ready/use-core-definitions-ready.module.code.ts"
+import type { ShapeDescriptor } from "akasha/page/ui-store/collection/modules/shape-descriptor/shape-descriptor.module.code.ts"
 import type { UseViewQueryOptions } from "akasha/page/ui-store/query/modules/options/options.module.code.ts"
 import {
   createViewPipeline,
@@ -33,13 +35,20 @@ const HELD_VIEWS = 256
 
 const HELD = createHeldSnapshots<ViewResult>(HELD_VIEWS)
 
+const NO_SHAPES: readonly ShapeDescriptor[] = []
+
 export function useViewQuery(options: UseViewQueryOptions): UseViewQueryResult {
-  const shape = options.crossType === true ? options.crossTypeDescriptor : options.shape
-  const slugAcquire = useAcquireSlug(
-    options.crossType === true || shape !== undefined ? undefined : options.pageTypeSlug
-  )
-  const filteredAcquire = useAcquireFilteredStream(shape)
-  const acquire = options.crossType === true || shape !== undefined ? filteredAcquire : slugAcquire
+  const crossType = options.crossType === true
+  const shapes = crossType ? NO_SHAPES : (options.shapes ?? NO_SHAPES)
+  const named = crossType || shapes.length > 0
+  const slugAcquire = useAcquireSlug(named ? undefined : options.pageTypeSlug)
+  const crossAcquire = useAcquireFilteredStream(crossType ? options.crossTypeDescriptor : undefined)
+  const shapesAcquire = useAcquireShapes(shapes)
+  const acquire = crossType
+    ? crossAcquire
+    : shapes.length > 0
+      ? { ready: shapesAcquire.ready, error: null }
+      : slugAcquire
   const gatingTargets = useAcquireSlugs(options.gatingTargetSlugs)
   useAcquireSlugs(options.displayTargetSlugs)
   const coreDefinitionsReady = useCoreDefinitionsReady()

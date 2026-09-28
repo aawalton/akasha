@@ -17,5 +17,14 @@ export const hooksViewQuery = {
       decisionKind: "decision-kind/departure",
       statement: "A relation holding many values narrows a view as a relation holding one does.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A view asks for the pages naming each related page apart, so no answer runs past its ceiling.",
+    },
+    {
+      decisionKind: "decision-kind/stopgap",
+      statement: "A view naming more than a hundred related pages asks for them in one answer.",
+    },
   ],
 } as const satisfies Module
