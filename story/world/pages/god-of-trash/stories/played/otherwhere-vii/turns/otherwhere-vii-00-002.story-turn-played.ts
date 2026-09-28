@@ -10,14 +10,14 @@ export const otherwhereVii00002 = {
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-vii-nala", "character-other/otherwhere-vii-ennis"],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "I pull myself out of the ditch as best I can then look to see who is coming up the road.",
   beats: [
-    "Nala hauls herself the last of the way out of the ditch and onto the road, mud to the shins.",
+    "Nala stands at the top of the bank, mud to the shins, and steps up onto the road.",
     "Ditch water runs out of the shirt and down the backs of her legs.",
     "Her body is lighter than she expects, and her balance sits lower.",
-    "She overshoots the lip of the bank and catches herself on the grass ridge between the ruts.",
+    "Her first step lands short and she catches herself on the grass ridge between the ruts.",
     "The ruts are cold and gritty under bare feet, and small stones bite her soft soles.",
     "She turns toward the sound, back along the road away from the village.",
     "In the grey-gold dawn light a cart comes up the road at a walk, from the flat country behind.",
@@ -32,7 +32,6 @@ export const otherwhereVii00002 = {
     "His eyes stop longest on her shirt.",
     "His words are not English, yet Nala understands every one of them without effort.",
     'He says, "Robbed, are you? Or run off from somebody?"',
-    "He waits, reins in hand, and does not get down.",
   ],
   issues: [
     '"hauls herself the last of the way out of the ditch" - she climbed out onto the road last turn',
