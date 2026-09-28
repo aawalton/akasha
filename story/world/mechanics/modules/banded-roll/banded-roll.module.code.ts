@@ -21,9 +21,9 @@ const ACT = z.object({
   bonuses: z.array(BONUS).default([]),
 })
 
-export type Outcome = "strong" | "success" | "cost" | "failure"
+type Outcome = "strong" | "success" | "cost" | "failure"
 
-export type Checked = {
+type Checked = {
   readonly succeeded: boolean
   readonly outcome: Outcome
   readonly total: number
