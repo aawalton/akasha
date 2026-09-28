@@ -15,6 +15,10 @@ export const superSupportiveArtonanConsulate4 = {
       fact: "From Lawrence it is about half an hour south on the Red Line, then a short walk.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "On a Saturday the lobby opens at nine with no classes, and Gorgon is at the desk as always.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   within: "place/otherwhere-iii-chicago",
   secrets: "jsonl",
