@@ -168,6 +168,23 @@ test("a key the page type does not declare is refused rather than added", async 
   expect(said.refused).toBe("`nowhere` is no property `seat` declares, so nothing is stated")
 })
 
+test("a key with many values is refused with the line `add-property-values` takes for it", async () => {
+  const many = BODY.replace(
+    `  assignmentSlug:`,
+    `  characters: ["character/one"],\n  assignmentSlug:`
+  )
+  const world = worldTold(null, null, many)
+
+  const said = await changePageProperty(world, { at: AT, key: "characters", to: "character/two" })
+
+  expect(said.edits).toEqual([])
+  expect(said.refused ?? "").toStartWith("`characters` holds many values, so nothing is stated.")
+  expect(said.refused ?? "").toContain(
+    `\`add-property-values\`, handing it \`added: ${AT} characters <value>\``
+  )
+  expect(said.refused ?? "").toContain("`remove-property-value`")
+})
+
 test("an argument this change was handed no value for is refused by the key", async () => {
   const said = await runChange(worldTold("slug", null), { key: "slug" })
 

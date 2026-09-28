@@ -50,6 +50,15 @@ export const changePagePageProperty = {
       statement:
         "The refusal for many values names the changes putting a value in and taking a value out.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That refusal spells the line `add-property-values` takes for the page and key refused.",
+    },
+    {
+      decisionKind: "decision-kind/absence",
+      statement: "Nothing here puts one value among many, since a value here is stated anew whole.",
+    },
   ],
   changeKind: "change-kind/change-checked",
   maxCpuSeconds: 30,

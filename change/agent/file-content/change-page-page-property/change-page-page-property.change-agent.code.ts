@@ -52,6 +52,15 @@ export type ChangePagePropertyAsked = {
 
 type Known = Extract<Read, { readonly known: unknown }>
 
+function manyRefused(at: string, key: string): string {
+  return (
+    `\`${key}\` holds many values, so nothing is stated. ` +
+    `Put one in with \`add-property-values\`, handing it \`added: ${at} ${key} <value>\`, ` +
+    `one line for each value, and take one out with \`remove-property-value\`, ` +
+    `handing it \`at\`, \`key\` and \`value\``
+  )
+}
+
 function statedIn(at: string, text: string, key: string): boolean {
   const owner = literalIn(parsedAs(at, text))
   return owner !== null && assignedIn(owner, key) !== null
@@ -81,9 +90,7 @@ export async function changePageProperty(
   if ("refused" in read) return refusing(`${read.refused}, so no property is stated`)
   const text = world.textOf(given.at)
   if (text !== null && manyIn(parsedAs(given.at, text), given.key)) {
-    return refusing(
-      `\`${given.key}\` holds many values, which \`add-property-values\` and \`remove-property-value\` change`
-    )
+    return refusing(manyRefused(given.at, given.key))
   }
   const absent = text !== null && !statedIn(given.at, text, given.key)
   if (absent && declaresIn(world, read.value, given.key) !== null) {
