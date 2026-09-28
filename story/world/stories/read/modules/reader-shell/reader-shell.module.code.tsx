@@ -1,5 +1,6 @@
 "use client"
 
+import { PageLayout } from "akasha/design/interface/layout/modules/page-layout/page-layout.module.code.tsx"
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
 import { toPageDataJSON } from "akasha/page/ui/component/modules/page-data-json/page-data-json.module.code.ts"
 import { usePage } from "akasha/page/ui/supabase/modules/use-page/use-page.module.code.ts"
@@ -25,8 +26,6 @@ import {
   newestChapterAtMs,
 } from "akasha/story/world/stories/read/modules/chapter-turns/chapter-turns.module.code.ts"
 import { useMemo } from "react"
-
-const SHELL_BLOCK = "mx-auto flex w-full max-w-[710px] flex-col gap-4 px-6 pt-6"
 
 const UNNAMED: ShapeDescriptor = { shapeKey: "story-chapters-unnamed" }
 
@@ -64,7 +63,7 @@ export function ReaderShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
   if (isLoading || turns.length === 0) return null
 
   return (
-    <div className={SHELL_BLOCK}>
+    <PageLayout.Header className="flex flex-col gap-4">
       <AlertControls
         needsPermissionPrompt={alerts.needsPermissionPrompt}
         onEnable={alerts.enableAlerts}
@@ -74,6 +73,6 @@ export function ReaderShell({ pageTypeSlug, id }: { pageTypeSlug: PageTypeSlug; 
         hrefById={hrefById}
         newestAtMs={newestAtMs}
       />
-    </div>
+    </PageLayout.Header>
   )
 }
