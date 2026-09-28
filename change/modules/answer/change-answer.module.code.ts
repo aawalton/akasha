@@ -300,9 +300,13 @@ export function expanded(one: FileChange, textOf: BodyOf): Expanded {
 
 export type Replayed = ReadonlyMap<string, Held | null>
 
+export function overlaid(held: Replayed, textOf: BodyOf): BodyOf {
+  return (path) => (held.has(path) ? (held.get(path) ?? null) : textOf(path))
+}
+
 export function replayed(said: Said, textOf: BodyOf): Replayed | { readonly refused: string } {
   const held = new Map<string, Held | null>()
-  const over: BodyOf = (path) => (held.has(path) ? (held.get(path) ?? null) : textOf(path))
+  const over = overlaid(held, textOf)
   for (const one of said.edits) {
     const grown = expanded(one, over)
     if ("refused" in grown) return grown

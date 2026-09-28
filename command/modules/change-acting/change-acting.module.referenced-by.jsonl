@@ -13,5 +13,7 @@
 {"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/change/subagent/take/change-subagent-take.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/story/settle/story-settle.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/story/tell/story-tell.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.code.ts","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"change-acting.module.code.ts","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"change-acting.module.test-fixtures.ts","path":"command/modules/change-acting/change-acting.module.test.ts","typed":false,"deferred":false}
 {"propertySlug":"parts","path":"command/command.page-type.ts","id":"01a04bdd-596d-7b81-9204-1a882f474a5f"}

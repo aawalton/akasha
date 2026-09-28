@@ -1383,6 +1383,8 @@
 {"propertySlug":"decision-kind","path":"command/pages/sms/send/sms-send.command.ts","id":"01a0685f-c8ed-7008-b892-0bc284782555"}
 {"propertySlug":"decision-kind","path":"command/pages/story/settle/story-settle.command.ts","id":"01a0de28-48fb-7823-9024-31f713cc562f"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/cancel/story-turn-cancel.command.ts","id":"01a0e7d8-5f60-71ff-af7a-8f3d30913009"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/drop/story-turn-kept-drop.command.ts","id":"01a0ea39-db28-7124-a2ce-64c6a8ac070c"}
+{"propertySlug":"decision-kind","path":"command/pages/story/turn/kept/list/story-turn-kept-list.command.ts","id":"01a0ea39-db29-78af-a3aa-0999fd2a6dde"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-lore-in-play/turn-lore-in-play.module.ts","id":"01a0e96b-42b5-75aa-a0e0-23dc5a700c05"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-prompting/turn-prompting.module.ts","id":"01a0deca-7611-7c9f-94b0-89aa26759a71"}
 {"propertySlug":"decision-kind","path":"command/pages/story/turn/modules/turn-reaching/turn-reaching.module.ts","id":"01a0deca-7611-7847-a6a4-5c79cbbc8739"}

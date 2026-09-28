@@ -53,6 +53,7 @@
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/seat/supervisor/seat-supervisor.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/sms/sms.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/story/story.namespace.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/story/turn/kept/story-turn-kept.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/story/turn/story-turn.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/talos/talos.namespace.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"namespace.page-type.types.ts","path":"command/pages/temper/addon/temper-addon.namespace.ts","typed":true,"deferred":false}

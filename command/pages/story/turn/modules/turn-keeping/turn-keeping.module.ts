@@ -16,5 +16,24 @@ export const turnKeeping = {
       decisionKind: "decision-kind/departure",
       statement: "A kept edit to the turn's own page is lifted into the turn's values.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A kept edit that no longer fits is derived again from the lines it changes, onto the page now.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A kept edit whose new lines the page holds already goes rather than landing twice.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "What is derived again is kept only once every edit kept beside the turn fits.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A kept edit fitting nothing refuses the landing, naming that edit and the call taking it away.",
+    },
   ],
 } as const satisfies Module
