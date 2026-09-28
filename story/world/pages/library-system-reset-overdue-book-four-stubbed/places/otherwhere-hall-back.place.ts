@@ -254,7 +254,11 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Within a minute the big bookworm's teeth split the lodged sack; it gapes and gags up salt.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala rammed a second sack into the gagging mouth and sprang back; its thrash only clipped her.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Salt ground into an open bite burns fiercely but does it no further harm.",
@@ -289,7 +293,7 @@ export const otherwhereHallBack = {
       ],
     },
     {
-      fact: "Two sacks of salt and a jar of honey sit at the edge of the gloom behind Nala.",
+      fact: "One sack of salt and a jar of honey sit at the edge of the gloom behind Nala.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
