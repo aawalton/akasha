@@ -203,7 +203,10 @@
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-quarters.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-i-room-exits.computed-property.code.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-alzore-zone.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-depths.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-arena-dungeon.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-brass-road.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-elasar-auction-chamber.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-entrerea.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-fanata.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/places/otherwhere-ix-glassgrass-flats.place.ts","typed":true,"deferred":false}
