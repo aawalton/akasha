@@ -181,6 +181,26 @@ export const otherwhereUniverse = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A linked Librarian can learn the Library's own magic from its books, whatever her affinity.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Library book teaching a power to send a book to its shelf is lost among the hall's heaps.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Links cannot sense where a lost book lies among the heaps; the Library only knows it is there.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "At 50 power the Library's golems wake, and shelving golems among them.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The Library has two shelving golems, each reshelving some twenty books a day.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The Library's kitchen stores sacks of salt.",
       knowers: [
         "lore-disclosure/game-master",

@@ -28,6 +28,10 @@ export const otherwhereMainHall = {
       ],
     },
     {
+      fact: "The shelving book, Returns and Reshelving, lies under a broken desk halfway back on the left.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The main hall is dimly lit, brighter once a Librarian syncs, and gloomy beyond the entrance.",
       knowers: ["lore-disclosure/game-master"],
     },
