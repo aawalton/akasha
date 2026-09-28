@@ -153,6 +153,14 @@ export const otherwhereViiEnnis = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "Ennis takes a no on a sale without sulking, and raises his offer later when she's colder.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "On the ride Ennis asks what she means to do, and says Ashford hires hands for threshing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The carter offered Nala bread, cheese and the ride to Ashford, no coin, to sort one sack clean.",
       knowers: [
         "lore-disclosure/game-master",
