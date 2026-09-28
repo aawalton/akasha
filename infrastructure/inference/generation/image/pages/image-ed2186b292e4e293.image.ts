@@ -8,6 +8,9 @@ export const imageEd2186b292e4e293 = {
   operation: "edit",
   model: "qwen-image-edit-2511-lightning+beyond-reality-3",
   inputImage: "image/image-a99e54077778133a",
+  title: "Ryn Stretching in the Sunrise Mist",
+  persona: "persona/ryn",
+  albums: ["image-album/persona-sunbathing"],
   serviceVersions: [
     "torch 2.9.1",
     "torch-vision 0.24.1",
