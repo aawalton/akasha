@@ -25,4 +25,5 @@ export const otherwhere00051 = {
   issues: ['"In moments the tub is steaming hot." - Leave It Open'],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
   recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
+  endsAt: "2026-09-28T08:20:00.000Z",
 } as const satisfies StoryTurnPlayed
