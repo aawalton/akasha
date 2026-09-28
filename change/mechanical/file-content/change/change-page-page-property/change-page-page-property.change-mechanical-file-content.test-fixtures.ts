@@ -8,3 +8,14 @@ export const kept = {
   partSlugs: ["kept/one"],
 } as const satisfies PageType
 `
+
+export const METRIC_BODY = `import type { Metric } from "../metric.page-type.ts"
+
+export const health = {
+  id: "01a072c8-f35d-7ffc-afc3-75b72460b05a",
+  type: "page-type/metric",
+  slug: "health",
+  value: 10,
+  shown: true,
+} as const satisfies Metric
+`

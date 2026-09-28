@@ -20,6 +20,18 @@ export const changePagePageProperty = {
       "decisionKind": "decision-kind/departure",
       "statement": "A newline ending the value asked for is dropped.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key told to hold a number or a boolean is stated anew bare, as that kind.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A value that is no such number or boolean is refused.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A key told no kind is stated anew as text.",
+    },
   ],
   changeKind: "change-kind/change-mechanical",
 } as const satisfies ChangeMechanicalFileContent

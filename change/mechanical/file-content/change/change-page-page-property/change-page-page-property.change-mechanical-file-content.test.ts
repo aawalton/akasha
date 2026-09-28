@@ -1,6 +1,9 @@
 import { expect, test } from "bun:test"
 import { restated } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.code.ts"
-import { BODY } from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.test-fixtures.ts"
+import {
+  BODY,
+  METRIC_BODY,
+} from "akasha/change/mechanical/file-content/change/change-page-page-property/change-page-page-property.change-mechanical-file-content.test-fixtures.ts"
 import type { Answer } from "akasha/change/modules/answer/change-answer.module.code.ts"
 import { bodyOf } from "akasha/change/test-fixtures/shadow-world/shadow-world.test-fixture.code.ts"
 
@@ -89,4 +92,44 @@ test("what a key states already is refused though a newline ends what was asked 
 
 test("nothing here judges whether that key may be restated", () => {
   expect(ranOn(AT, BODY, "id", "01a00000-0000-7000-8000-000000000000").refused).toBe(null)
+})
+
+const METRIC_AT = "akasha/held/health.metric.ts"
+
+test("a key holding a number is stated anew as a number", () => {
+  const said = restated(METRIC_AT, METRIC_BODY, "value", "8", "number")
+  expect(said.edits).toEqual([
+    { kind: "replace", path: METRIC_AT, contentFrom: "  value: 10,", contentTo: "  value: 8," },
+  ])
+})
+
+test("a key holding a boolean is stated anew as a boolean", () => {
+  const said = restated(METRIC_AT, METRIC_BODY, "shown", "false", "boolean")
+  expect(bodyOf(said, () => METRIC_BODY)).toBe(METRIC_BODY.replace("shown: true", "shown: false"))
+})
+
+test("a value that is no number is refused for a key holding a number", () => {
+  const said = restated(METRIC_AT, METRIC_BODY, "value", "eight", "number")
+  expect(said.edits).toEqual([])
+  expect(said.refused).toBe("`eight` is no number, so nothing is restated")
+})
+
+test("a value that is no boolean is refused for a key holding a boolean", () => {
+  const said = restated(METRIC_AT, METRIC_BODY, "shown", "yes", "boolean")
+  expect(said.refused).toBe("`yes` is no boolean, so nothing is restated")
+})
+
+test("a number the key states already is refused", () => {
+  const said = restated(METRIC_AT, METRIC_BODY, "value", "10\n", "number")
+  expect(said.refused).toBe("`10` is what `value` states already")
+})
+
+test("a key the page states nothing under is refused for a number", () => {
+  const said = restated(METRIC_AT, METRIC_BODY, "maximum", "8", "number")
+  expect(said.refused).toBe(`\`${METRIC_AT}\` states no number under \`maximum\``)
+})
+
+test("a key holding a number is refused as text where no kind is handed in", () => {
+  const said = restated(METRIC_AT, METRIC_BODY, "value", "8")
+  expect(said.refused).toBe(`\`${METRIC_AT}\` states no text under \`value\``)
 })
