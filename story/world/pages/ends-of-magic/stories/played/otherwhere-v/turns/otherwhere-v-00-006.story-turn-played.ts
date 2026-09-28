@@ -4,13 +4,14 @@ export const otherwhereV00006 = {
   id: "01a0ea31-818d-786b-934c-7cb8f3d873ac",
   type: "page-type/story-turn-played",
   slug: "otherwhere-v-00-006",
+  cover: "image/image-0032478a86c9dd9f",
   ownLength: 236,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-v"],
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-v-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "I turn and catch the jaws with my hands, then wrap my thighs around it's neck and squeeze the breath out of it.",
   beats: [
@@ -28,6 +29,6 @@ export const otherwhereV00006 = {
   ],
   lore: ["lore/otherwhere-v-gloamcat", "lore/otherwhere-v-injury"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T19:10:00.000Z",
 } as const satisfies StoryTurnPlayed

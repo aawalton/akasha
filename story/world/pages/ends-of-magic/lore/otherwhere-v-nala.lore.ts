@@ -233,6 +233,10 @@ export const otherwhereVNala = {
       fact: "Nala dies of her wounds in the ferns about 19:10 on day one, without waking.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Night, day one: in the log's mouth, Nala's fingers had no strength left to grip the beast's jaws.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore

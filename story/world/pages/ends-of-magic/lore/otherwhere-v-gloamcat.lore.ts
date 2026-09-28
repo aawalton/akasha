@@ -173,5 +173,13 @@ export const otherwhereVGloamcat = {
       fact: "Night, day one: it drags Nala out of the log's mouth and twenty yards upslope into thick fern.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Night, day one: the beast bit Nala a third time, deep in the side of her neck.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
+    {
+      fact: "The beast's fur is coarse and thick, and its cheek under the fur is hard as bone.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-v-nala"],
+    },
   ],
 } as const satisfies Lore
