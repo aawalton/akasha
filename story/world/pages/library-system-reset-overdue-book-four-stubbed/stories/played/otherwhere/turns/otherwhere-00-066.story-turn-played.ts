@@ -22,4 +22,5 @@ export const otherwhere00066 = {
     "From the hall beyond the passage comes a sound new to her here: a slow creak of wood and brass.",
   ],
   lore: ["lore/otherwhere-golems", "lore/otherwhere-universe"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
