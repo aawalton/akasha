@@ -57,6 +57,18 @@ export const otherwhereIxChampions = {
       knowers: ["lore-disclosure/game-master"],
     },
     {
+      fact: "A new Champion's class begins at Tier Novice 1; a summoned one's names its home world.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Champion keeps any subclass, shown after a slash on the same class line.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Champion's status gains a Faith line in the place of the sixth attribute.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "A Champion earns Faith by claiming zones, earning titles and doing the god's quests.",
       knowers: ["lore-disclosure/game-master"],
     },
