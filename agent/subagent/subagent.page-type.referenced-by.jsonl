@@ -2,7 +2,6 @@
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"agent/subagent/modules/presence/subagent-presence.module.test-fixtures.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/modules/edits-repointing/edits-repointing.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.ts","path":"command/pages/initiative/delete/initiative-delete.command.test.ts","typed":false,"deferred":false}
-{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/awen-a2667ea18826461cf/awen-a2667ea18826461cf.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-world-builder-otherwhere-iii-a459968142a8c7b60/iris-world-builder-otherwhere-iii-a459968142a8c7b60.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-world-builder-otherwhere-iii-ac400fe76f0c0e971/iris-world-builder-otherwhere-iii-ac400fe76f0c0e971.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-world-builder-otherwhere-iii-adaf6f49b523c88cf/iris-world-builder-otherwhere-iii-adaf6f49b523c88cf.subagent.ts","typed":true,"deferred":false}
