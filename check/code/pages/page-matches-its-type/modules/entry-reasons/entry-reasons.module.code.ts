@@ -197,63 +197,118 @@ export function groupedFor(
   return found
 }
 
+type Step = {
+  readonly shaped: Carried
+  readonly field: string
+  readonly named: string
+  readonly max: number | null
+  readonly format: string | null
+  readonly inside: Opened
+}
+
+type Plan = {
+  readonly slug: string
+  readonly pageFor: PageFor
+  readonly fieldsIn: Fielding
+  readonly missing: readonly (readonly [string, string])[]
+  readonly steps: ReadonlyMap<string, Step>
+}
+
+const PLANNED = new WeakMap<ReadonlyMap<string, Carried>, Plan>()
+
+function stepOf(shaped: Carried, shaping: Shaping): Step {
+  const field = shaped.pagePropertySlug
+  const fieldPage = shaping.pageFor(shaped)
+  const given = fieldPage === null ? null : numberAt(fieldPage, "maxLength")
+  return {
+    shaped,
+    field,
+    named: `${shaping.slug} ${field}`,
+    max: shaped.maxLength ?? given,
+    format: fieldPage === null ? null : formatOf(fieldPage),
+    inside: shaping.fieldsIn(shaped),
+  }
+}
+
+function planMade(shaping: Shaping): Plan {
+  const { fields, slug, pageFor, fieldsIn } = shaping
+  const missing: (readonly [string, string])[] = []
+  const steps = new Map<string, Step>()
+  for (const [key, shaped] of fields) {
+    steps.set(key, stepOf(shaped, shaping))
+    if (!shaped.required || shaped.uncommitted || shaped.secret) continue
+    if (shaped.fixed !== undefined) continue
+    if (shaped.pageTypeSlug === COMPUTED) continue
+    const field = shaped.pagePropertySlug
+    missing.push([key, `does not state \`${slug} ${field}\`, which \`${slug}\` requires`])
+  }
+  return { slug, pageFor, fieldsIn, missing, steps }
+}
+
+function planOf(shaping: Shaping): Plan {
+  const found = PLANNED.get(shaping.fields)
+  if (
+    found !== undefined &&
+    found.slug === shaping.slug &&
+    found.pageFor === shaping.pageFor &&
+    found.fieldsIn === shaping.fieldsIn
+  ) {
+    return found
+  }
+  const made = planMade(shaping)
+  PLANNED.set(shaping.fields, made)
+  return made
+}
+
+function steppedOf(step: Step, stated: unknown, shaping: Shaping, said: string[]): undefined {
+  const { shaped, field, named, max, format, inside } = step
+  const many = Array.isArray(stated)
+  if (shaped.many && many && shaped.maxCount !== null && stated.length > shaped.maxCount) {
+    said.push(`holds ${stated.length} of \`${named}\`, over the count of ${shaped.maxCount}`)
+  }
+  if (shaped.many && many) {
+    const twice = twiceIn(stated, named)
+    if (twice !== null) said.push(twice)
+  }
+  for (const each of many ? stated : [stated]) {
+    const why = overLength(each, max, named, "")
+    if (why !== null) said.push(why)
+    const off = offFormat(each, format, shaping.formatting, named)
+    if (off !== null) said.push(off)
+    if (inside.fields.size === 0 && inside.among.length === 0) continue
+    if (typeof each !== "object" || each === null || Array.isArray(each)) {
+      if (!inside.plain) said.push(noRecordIn(each, named))
+      continue
+    }
+    const fitting = fittingIn(inside, inside.fields, each as Value)
+    if (fitting === null) {
+      said.push(noMemberIn(named))
+      continue
+    }
+    const within: Shaping = { ...shaping, fields: fitting, slug: field }
+    said.push(...fieldsOf(each as Value, within, NOTHING))
+  }
+}
+
 export function fieldsOf(
   entry: Value,
   shaping: Shaping,
   unjudged: ReadonlySet<string>
 ): readonly string[] {
   const said: string[] = []
-  const { fields, slug, pageFor, formatting, fieldsIn } = shaping
-  for (const [key, shaped] of fields) {
-    if (unjudged.has(key)) continue
-    if (!shaped.required || shaped.uncommitted || shaped.secret) continue
-    if (shaped.fixed !== undefined) continue
-    if (shaped.pageTypeSlug === COMPUTED) continue
-    if (key in entry) continue
-    const field = shaped.pagePropertySlug
-    said.push(`does not state \`${slug} ${field}\`, which \`${slug}\` requires`)
+  const { slug, missing, steps } = planOf(shaping)
+  for (const [key, reason] of missing) {
+    if (unjudged.has(key) || key in entry) continue
+    said.push(reason)
   }
-  for (const [inner, stated] of Object.entries(entry)) {
+  for (const inner of Object.keys(entry)) {
     if (unjudged.has(inner)) continue
-    const shaped = fields.get(inner)
-    if (shaped === undefined) {
+    const step = steps.get(inner)
+    if (step === undefined) {
       said.push(`states \`${slug} ${inner}\`, which \`${slug}\` does not declare`)
       continue
     }
-    const field = shaped.pagePropertySlug
-    const fieldPage = pageFor(shaped)
-    const stood = fieldPage === null ? null : numberAt(fieldPage, "maxLength")
-    const max = shaped.maxLength ?? stood
-    const format = fieldPage === null ? null : formatOf(fieldPage)
-    const many = Array.isArray(stated)
-    if (shaped.many && many && shaped.maxCount !== null && stated.length > shaped.maxCount) {
-      said.push(
-        `holds ${stated.length} of \`${slug} ${field}\`, over the count of ${shaped.maxCount}`
-      )
-    }
-    if (shaped.many && many) {
-      const twice = twiceIn(stated, `${slug} ${field}`)
-      if (twice !== null) said.push(twice)
-    }
-    const inside = fieldsIn(shaped)
-    for (const each of many ? stated : [stated]) {
-      const why = overLength(each, max, `${slug} ${field}`, "")
-      if (why !== null) said.push(why)
-      const off = offFormat(each, format, formatting, `${slug} ${field}`)
-      if (off !== null) said.push(off)
-      if (inside.fields.size === 0 && inside.among.length === 0) continue
-      if (typeof each !== "object" || each === null || Array.isArray(each)) {
-        if (!inside.plain) said.push(noRecordIn(each, `${slug} ${field}`))
-        continue
-      }
-      const fitting = fittingIn(inside, inside.fields, each as Value)
-      if (fitting === null) {
-        said.push(noMemberIn(`${slug} ${field}`))
-        continue
-      }
-      const within: Shaping = { ...shaping, fields: fitting, slug: field }
-      said.push(...fieldsOf(each as Value, within, NOTHING))
-    }
+    steppedOf(step, entry[inner], shaping, said)
   }
   return said
 }
