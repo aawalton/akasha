@@ -109,6 +109,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-magic-resistance.lore.ts","id":"01a0e9f7-bb0c-7015-871e-63a818ff0a0f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-magic-resistant-ingredients.lore.ts","id":"01a0e9f9-8feb-76c1-9eab-f235b8a597e8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mana.lore.ts","id":"01a0e9f1-9e7b-73c8-94a8-373d7d681b6f"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mental-magic.lore.ts","id":"01a0e9f9-e5c9-7517-b142-3d61aaeaaeb8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-monster.lore.ts","id":"01a0e9f8-36f3-7de0-a972-f2f9fbdc839f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-mortal.lore.ts","id":"01a0e9f6-6b00-73b2-8290-602a85fa08d5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-muckgrabber.lore.ts","id":"01a0e9f9-9dd8-73b9-80cc-717e61ca7ae7"}
@@ -167,6 +168,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-levels.world-mechanic.ts","id":"01a0e9f5-a5d7-7ce0-a37c-2d433bb134b3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-magic-resistance.world-mechanic.ts","id":"01a0e9f7-bb0d-7767-9c8d-feb2ec3caf11"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mana.world-mechanic.ts","id":"01a0e9f1-9e7c-76a5-9ea4-b57cfe527aad"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-mental-magic.world-mechanic.ts","id":"01a0e9f9-e5ca-7fda-990d-cc6bf1c43666"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-ranks.world-mechanic.ts","id":"01a0e9f5-a5d7-7328-a028-7300ae370972"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-recognition.world-mechanic.ts","id":"01a0e9f2-0288-779d-b904-1f8ce57346d9"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-spell-tiers.world-mechanic.ts","id":"01a0e9f3-1a10-7b12-9cc2-eb30939b9dec"}
