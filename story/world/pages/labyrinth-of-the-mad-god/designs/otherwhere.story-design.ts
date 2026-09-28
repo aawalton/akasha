@@ -21,6 +21,7 @@ export const otherwhere = {
     "Each chapter closes when a phase of the trial Nala is in comes to its end. Later chapters follow wherever the trial and what comes after it take her.",
   continuity:
     "Canon stands as the first book tells it up to the moment Earth's people are pulled into their trials, and from there Nala's choices are her story. The canon protagonist's own trial is somewhere else, and Nala's path does not meet his unless play earns it.",
-  visualStyle: "fantasy photorealistic",
+  visualStyle:
+    "High-budget CGI fantasy feature film still, blockbuster studio VFX: physically based materials, subsurface-scattered skin, strand-level hair and simulated cloth; cinematic key light with strong rim light and warm practical sources, volumetric haze and light shafts; filmic teal-and-amber grade with deep blacks and soft rolled-off highlights; anamorphic lens, oval bokeh, faint flare, shallow depth of field; grand, meticulously detailed production design and epic composed framing.",
   imageSeed: 381241034,
 } as const satisfies StoryDesign
