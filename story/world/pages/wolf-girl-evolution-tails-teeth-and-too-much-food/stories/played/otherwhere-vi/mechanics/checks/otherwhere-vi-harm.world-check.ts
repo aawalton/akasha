@@ -47,6 +47,16 @@ export const otherwhereViHarm = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A weapon braced against a charge strikes with the charger's might, not the holder's.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A blunt staff so braced strikes solid and turns the charge; a sharpened one strikes heavy.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A blow landed strongly adds four, and one landed at a cost deals half.",
     },
     {
