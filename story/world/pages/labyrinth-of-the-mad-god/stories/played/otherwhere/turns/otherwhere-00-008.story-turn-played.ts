@@ -27,5 +27,6 @@ export const otherwhere00008 = {
     "Its tongue slides out, forked and dark, and tastes the air in her direction.",
   ],
   lore: ["lore/otherwhere-interface", "lore/otherwhere-mire-monitors"],
+  reviewedBy: ["story-reviewer/style"],
   endsAt: "2026-09-28T15:05:00.000Z",
 } as const satisfies StoryTurnPlayed
