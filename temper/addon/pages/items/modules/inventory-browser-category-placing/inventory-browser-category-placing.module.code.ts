@@ -7,12 +7,12 @@ export interface CategoryPageRow {
   readonly parent?: string
 }
 
-export interface PlacedSubfilter {
+interface PlacedSubfilter {
   readonly slug: string
   readonly label: string
 }
 
-export interface PlacedCategory {
+interface PlacedCategory {
   readonly slug: string
   readonly label: string
   readonly subfilters: readonly PlacedSubfilter[]
