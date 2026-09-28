@@ -11,7 +11,10 @@ import {
   isValidSeatName,
   resolveOptionalSeatId,
 } from "akasha/agent/seat/fleet/modules/seat-handle/seat-handle.module.code.ts"
-import { launchSeatUnderTmux } from "akasha/agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
+import {
+  type LaunchSeatOpts,
+  launchSeatUnderTmux,
+} from "akasha/agent/seat/launching/modules/launch-seat-tmux/launch-seat-tmux.module.code.ts"
 import {
   isSeatMode,
   SEAT_MODE_HEADLESS,
@@ -81,6 +84,13 @@ function readFlexValue(raw: string | undefined): string | null {
     )
   }
   return raw
+}
+
+export function detachedLaunch(
+  input: StartSeatInput,
+  seat: { readonly name: string; readonly agentId: string; readonly account: string }
+): LaunchSeatOpts {
+  return { ...seat, prompt: input.prompt ?? "", mode: input.startMode }
 }
 
 export async function startSeat(input: StartSeatInput, done: string[] = []): Promise<StartedSeat> {
@@ -216,7 +226,7 @@ export async function startSeat(input: StartSeatInput, done: string[] = []): Pro
     )
   }
   done.push(`wrote the page for ${agentId}`)
-  await launchSeatUnderTmux({ name, agentId, account, prompt: "", mode: startMode })
+  await launchSeatUnderTmux(detachedLaunch(input, { name, agentId, account }))
   done.push(`launched ${agentId} in \`${name}\` under tmux, ${startMode}`)
 
   return { agentId, name, startMode }
@@ -254,14 +264,13 @@ function written(started: StartedSeat, json: boolean): undefined {
   process.stdout.write(`${agentId}\t${name}\t${startMode}\n`)
 }
 
+export async function promptAsked(asked: StartAsked): Promise<string | undefined> {
+  return asked.promptFile === undefined ? asked.seatPrompt : await readStdinOrFile(asked.promptFile)
+}
+
 export default async function seatStart(asked: StartAsked, done: string[] = []): Promise<void> {
   const startMode = asked.startMode ?? SEAT_MODE_INTERACTIVE
-
-  let prompt: string | undefined
-  if (startMode === SEAT_MODE_HEADLESS) {
-    prompt =
-      asked.promptFile === undefined ? asked.seatPrompt : await readStdinOrFile(asked.promptFile)
-  }
+  const prompt = await promptAsked(asked)
 
   const started = await startSeat(
     {

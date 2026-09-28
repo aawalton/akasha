@@ -6,7 +6,13 @@ export const seatStart = {
   slug: "seat-start",
   definition: "how a command starts a seat",
   code: "ts",
+  test: "ts",
   decisions: [
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "A start in either mode gives the seat the prompt it was handed as its first turn.",
+    },
     {
       decisionKind: "decision-kind/departure",
       statement:
