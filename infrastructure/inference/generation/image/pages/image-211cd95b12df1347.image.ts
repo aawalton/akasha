@@ -4,6 +4,8 @@ export const image211cd95b12df1347 = {
   id: "01a0e9ee-8eff-7dc9-9951-d1440b069fb0",
   type: "page-type/image",
   slug: "image-211cd95b12df1347",
+  title: "A Glance Back from the Pond Dock",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
