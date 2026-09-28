@@ -13,7 +13,7 @@ export const otherwhereIii00004 = {
     "character-player/otherwhere-iii-nala",
     "character-other/otherwhere-iii-denise-pruitt",
   ],
-  stepStatus: "step-status/game-master",
+  stepStatus: "step-status/writer",
   action:
     "“Yes, please.” I say quietly. “My stupid EX-boyfriend left me here with nothing and I’m a thousand miles from home. I mean, I don’t usually mind the cold, but this is a little much for bare feet.”",
   beats: [
@@ -25,7 +25,7 @@ export const otherwhereIii00004 = {
     "Nala sits; the nurse unzips her lunch bag and pulls out a rolled pair of grey wool socks.",
     '"Spares. I always carry spares." She hands them over.',
     "Nala works the thick socks on over the tights; the wool on her burning toes is rough and wonderful.",
-    'The nurse leans to look at the toes first, red and blotched white: "Frostnip. You caught it early."',
+    'The nurse leans to look at the toes first, red and swollen: "Frostnip. You caught it early."',
     "\"Keep 'em warm and dry, and they'll be fine by tomorrow. I'm Denise. ER nurse, Uptown Memorial.\"",
     'The recorded voice says, "Sheridan," and the doors open on snow and close again.',
     "Denise: \"My stop's Lawrence, two more. Come in with me. We'll get you seen and warm.\"",
