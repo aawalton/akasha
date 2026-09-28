@@ -24,7 +24,10 @@ export const gameMaster = {
       name: "Beats Not Prose",
       act: "Hand in a turn or chapter as beats, one plain event per line, and never write its prose.",
       warrant: "The writer holds the style rules, so prose the game master writes skips them.",
-      aids: ["A played turn's last beat is the fork the turn ends on."],
+      aids: [
+        "A played turn's last beat is the fork the turn ends on.",
+        "A beat is at most 100 characters.",
+      ],
     },
     {
       directiveKind: "directive-kind/rule",
