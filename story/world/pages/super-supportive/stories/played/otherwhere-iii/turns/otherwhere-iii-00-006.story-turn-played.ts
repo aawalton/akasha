@@ -10,4 +10,5 @@ export const otherwhereIii00006 = {
   stepStatus: "step-status/game-master",
   action: '"Definitely. Thank you."',
   lore: ["place/otherwhere-iii-lawrence-stop", "place/otherwhere-iii-uptown-memorial-er"],
+  endsAt: "2037-01-31T05:07:00.000Z",
 } as const satisfies StoryTurnPlayed
