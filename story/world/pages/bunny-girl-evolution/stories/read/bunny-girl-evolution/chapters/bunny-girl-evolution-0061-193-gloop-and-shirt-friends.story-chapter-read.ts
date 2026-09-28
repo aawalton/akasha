@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0061193GloopAndShirtFriends = {
   id: "01a06731-ae61-7000-a200-66ca64642a45",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0061-193-gloop-and-shirt-friends",
+  ownProgress: 3920,
   title: "193 - Gloop and Shirt Friends",
   story: "story-read/bunny-girl-evolution",
   position: 61,

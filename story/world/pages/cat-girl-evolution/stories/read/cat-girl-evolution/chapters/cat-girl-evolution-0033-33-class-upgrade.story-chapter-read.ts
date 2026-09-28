@@ -4,6 +4,7 @@ export const catGirlEvolution003333ClassUpgrade = {
   id: "01a06731-aff1-7000-9bd1-be2f9a381561",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0033-33-class-upgrade",
+  ownProgress: 3488,
   title: "33 - Class Upgrade",
   story: "story-read/cat-girl-evolution",
   position: 33,

@@ -4,6 +4,7 @@ export const catGirlEvolution001414ExternalManaManipulation = {
   id: "01a06731-afec-7001-9dfe-12a0cbb98f99",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0014-14-external-mana-manipulation",
+  ownProgress: 2407,
   title: "14 - External Mana Manipulation",
   story: "story-read/cat-girl-evolution",
   position: 14,

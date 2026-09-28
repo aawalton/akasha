@@ -4,6 +4,7 @@ export const catGirlEvolution002323SeafoodSquadron = {
   id: "01a06731-afee-7004-bd93-432fd1158449",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0023-23-seafood-squadron",
+  ownProgress: 2302,
   title: "23 - Seafood Squadron",
   story: "story-read/cat-girl-evolution",
   position: 23,

@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0068200IFeelSoUseless = {
   id: "01a06731-ae6a-7000-b0aa-dff0f2a572e6",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0068-200-i-feel-so-useless",
+  ownProgress: 3920,
   title: "200 - I Feel So Useless",
   story: "story-read/bunny-girl-evolution",
   position: 68,

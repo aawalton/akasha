@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0067199GatheringOfOldFriends = {
   id: "01a06731-ae68-7000-9d22-3d1697e17f1a",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0067-199-gathering-of-old-friends",
+  ownProgress: 3003,
   title: "199 - Gathering of Old Friends",
   story: "story-read/bunny-girl-evolution",
   position: 67,

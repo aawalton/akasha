@@ -4,6 +4,7 @@ export const catGirlEvolution002828YonasName = {
   id: "01a06731-afef-7002-ae97-a65ee6ccb462",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0028-28-yonas-name",
+  ownProgress: 2348,
   title: "28 - Yona's Name",
   story: "story-read/cat-girl-evolution",
   position: 28,

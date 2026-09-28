@@ -4,6 +4,7 @@ export const catGirlEvolution003030SoulWeapon = {
   id: "01a06731-afef-7004-ae42-6f632e15f4b8",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0030-30-soul-weapon",
+  ownProgress: 3427,
   title: "30 - Soul Weapon",
   story: "story-read/cat-girl-evolution",
   position: 30,

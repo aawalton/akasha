@@ -4,6 +4,7 @@ export const catGirlEvolution002727PrincessYonaTheSmartestCatToEverLive = {
   id: "01a06731-afef-7001-8a13-cec1e8cf0f57",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0027-27-princess-yona-the-smartest-cat-to-ever-live",
+  ownProgress: 2403,
   title: "27 - Princess Yona, the Smartest Cat to Ever Live",
   story: "story-read/cat-girl-evolution",
   position: 27,

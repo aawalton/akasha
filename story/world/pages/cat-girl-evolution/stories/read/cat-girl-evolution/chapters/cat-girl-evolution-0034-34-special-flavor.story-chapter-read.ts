@@ -4,6 +4,7 @@ export const catGirlEvolution003434SpecialFlavor = {
   id: "01a06731-aff2-7000-9f60-e464ad0b56f2",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0034-34-special-flavor",
+  ownProgress: 3104,
   title: "34 - Special Flavor",
   story: "story-read/cat-girl-evolution",
   position: 34,

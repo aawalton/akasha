@@ -4,6 +4,7 @@ export const catGirlEvolution001010AStrangeButFortuitousEncounter = {
   id: "01a06731-afeb-7009-ab6d-85482d8f56e5",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0010-10-a-strange-but-fortuitous-encounter",
+  ownProgress: 2524,
   title: "10 - A Strange, but Fortuitous Encounter",
   story: "story-read/cat-girl-evolution",
   position: 10,

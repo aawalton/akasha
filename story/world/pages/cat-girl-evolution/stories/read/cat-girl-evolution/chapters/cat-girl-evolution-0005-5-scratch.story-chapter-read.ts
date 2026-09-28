@@ -4,6 +4,7 @@ export const catGirlEvolution00055Scratch = {
   id: "01a06731-afeb-7004-96f8-3ef521ced853",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0005-5-scratch",
+  ownProgress: 1793,
   title: "5 - Scratch",
   story: "story-read/cat-girl-evolution",
   position: 5,

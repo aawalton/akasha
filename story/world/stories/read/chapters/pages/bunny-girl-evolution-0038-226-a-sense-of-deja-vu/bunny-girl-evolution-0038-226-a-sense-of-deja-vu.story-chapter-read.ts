@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0038226ASenseOfDejaVu = {
   id: "01a0c825-87a7-7dff-9de5-a0ec46be83ef",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0038-226-a-sense-of-deja-vu",
+  ownProgress: 2889,
   position: 38,
   publishedAt: "2026-09-22",
   unit: "unit/words",

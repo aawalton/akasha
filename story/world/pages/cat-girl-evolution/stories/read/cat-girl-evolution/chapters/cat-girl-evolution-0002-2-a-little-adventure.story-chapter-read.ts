@@ -4,6 +4,7 @@ export const catGirlEvolution00022ALittleAdventure = {
   id: "01a06731-afeb-7001-9c37-dfca6854602c",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0002-2-a-little-adventure",
+  ownProgress: 2158,
   title: "2 - A Little Adventure",
   story: "story-read/cat-girl-evolution",
   position: 2,

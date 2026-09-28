@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0059191DoNotSpeakFurther = {
   id: "01a06731-ae5c-7001-8515-ff1e31f8db28",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0059-191-do-not-speak-further",
+  ownProgress: 3295,
   title: "191 - Do Not Speak Further",
   story: "story-read/bunny-girl-evolution",
   position: 59,

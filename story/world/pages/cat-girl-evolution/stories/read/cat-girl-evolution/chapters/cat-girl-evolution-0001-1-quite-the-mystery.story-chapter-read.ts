@@ -4,6 +4,7 @@ export const catGirlEvolution00011QuiteTheMystery = {
   id: "01a06731-afeb-7000-9543-def8abb98245",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0001-1-quite-the-mystery",
+  ownProgress: 2036,
   title: "1 - Quite the Mystery",
   story: "story-read/cat-girl-evolution",
   position: 1,

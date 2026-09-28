@@ -4,6 +4,7 @@ export const catGirlEvolution002929PerfectDisguise = {
   id: "01a06731-afef-7003-a1be-daf5e212e4f3",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0029-29-perfect-disguise",
+  ownProgress: 2607,
   title: "29 - Perfect Disguise",
   story: "story-read/cat-girl-evolution",
   position: 29,

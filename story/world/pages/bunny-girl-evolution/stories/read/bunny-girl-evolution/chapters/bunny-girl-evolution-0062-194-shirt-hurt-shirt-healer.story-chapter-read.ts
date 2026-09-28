@@ -4,6 +4,7 @@ export const bunnyGirlEvolution0062194ShirtHurtShirtHealer = {
   id: "01a06731-ae62-7000-a2b4-d4deeb1f8d5d",
   type: "page-type/story-chapter-read",
   slug: "bunny-girl-evolution-0062-194-shirt-hurt-shirt-healer",
+  ownProgress: 4410,
   title: "194 - Shirt Hurt! Shirt Healer!",
   story: "story-read/bunny-girl-evolution",
   position: 62,

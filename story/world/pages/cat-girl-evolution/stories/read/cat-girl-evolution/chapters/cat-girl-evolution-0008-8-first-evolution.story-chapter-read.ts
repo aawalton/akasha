@@ -4,6 +4,7 @@ export const catGirlEvolution00088FirstEvolution = {
   id: "01a06731-afeb-7007-8c1c-8ba7cd1d2314",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0008-8-first-evolution",
+  ownProgress: 1949,
   title: "8 - First Evolution",
   story: "story-read/cat-girl-evolution",
   position: 8,

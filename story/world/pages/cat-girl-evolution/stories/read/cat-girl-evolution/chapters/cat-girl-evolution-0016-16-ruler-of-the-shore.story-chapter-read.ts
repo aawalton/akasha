@@ -4,6 +4,7 @@ export const catGirlEvolution001616RulerOfTheShore = {
   id: "01a06731-afed-7000-b45e-370685c6a428",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0016-16-ruler-of-the-shore",
+  ownProgress: 2211,
   title: "16 - Ruler of the Shore",
   story: "story-read/cat-girl-evolution",
   position: 16,

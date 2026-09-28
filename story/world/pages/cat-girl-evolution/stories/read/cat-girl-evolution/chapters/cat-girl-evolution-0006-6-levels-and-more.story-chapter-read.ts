@@ -4,6 +4,7 @@ export const catGirlEvolution00066LevelsAndMore = {
   id: "01a06731-afeb-7005-9dc2-57e55e183fd4",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0006-6-levels-and-more",
+  ownProgress: 1924,
   title: "6 - Levels and More",
   story: "story-read/cat-girl-evolution",
   position: 6,
