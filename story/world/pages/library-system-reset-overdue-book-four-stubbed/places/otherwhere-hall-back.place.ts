@@ -60,7 +60,6 @@ export const otherwhereHallBack = {
       fact: "The big engorged bookworm is bloated and matte grey, its colored mouth rings blotched.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "An engorged bookworm has no eyes, and a round mouth rimmed with rows of jagged teeth.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -161,7 +160,6 @@ export const otherwhereHallBack = {
       fact: "Each few feet of sweeping scatters a little salt, so a travelling ring thins as it goes.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "A bookworm dragged onto a salt line is burned by it, and its thrashing scuffs a gap in the line.",
       knowers: ["lore-disclosure/game-master"],
@@ -182,17 +180,14 @@ export const otherwhereHallBack = {
       fact: "Salted bookworm skin goes dry and rough, easy to grip, though the mouth end still bites.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "The broom's bristles are worn short and splayed, and skip over salt as much as push it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "A much deeper, bigger roar rolled out between the columns from far back in the dark.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "A small engorged bookworm weighs twenty-odd pounds.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -297,7 +292,6 @@ export const otherwhereHallBack = {
       fact: "Salt burning in its gullet, the big bookworm convulsed; its grey hide puckered and cracked.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-
     {
       fact: "Salt crust pressed to the big bookworm's cracked hide burns deep, and it rolls to scrape it off.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -328,7 +322,11 @@ export const otherwhereHallBack = {
     },
     {
       fact: "One more sack of salt deep in its gullet would dry the big bookworm out; on its hide, far more.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "Left alone, the big bookworm scrapes and gags off its salt and slowly recovers.",
