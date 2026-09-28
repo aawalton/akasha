@@ -43,4 +43,5 @@ export const haremHotel00004 = {
     'The concierge, eyes shut, says through her teeth, "Not yet, sir, not—" and doesn\'t finish.',
   ],
   lore: ["lore/harem-hotel-wren"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
