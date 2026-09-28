@@ -92,7 +92,7 @@ export const storyTurnPlayed = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A turn reaches player only with every recorder's edits landed in that move.",
+      statement: "A turn reaches player only once every recorder's edits have landed.",
     },
     {
       decisionKind: "decision-kind/departure",

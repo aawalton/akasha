@@ -68,7 +68,8 @@ export const turnLifecycle = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The move to player from recorders lands every recorder's kept edits with it.",
+      statement:
+        "Each recorder's advance lands the edits that recorder drafted, with its own move.",
     },
     {
       decisionKind: "decision-kind/departure",

@@ -52,16 +52,15 @@ export const storyTurnAdvance = {
     {
       decisionKind: "decision-kind/departure",
       statement:
-        "The last recorder's advance lands every edit kept beside the turn with the move to player.",
+        "Every recorder's advance lands the edits that recorder drafted with its own move.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement:
-        "Every recorder's advance folds the kept edits to the turn's own page into its move.",
+      statement: "No edit waits beside a turn past the advance that moved it there.",
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "An edit folded into a move is kept no longer, so no later move writes over it.",
+      statement: "Every recorder's advance folds its edits to the turn's own page into its move.",
     },
     {
       decisionKind: "decision-kind/departure",

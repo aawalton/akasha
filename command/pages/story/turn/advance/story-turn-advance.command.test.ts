@@ -29,6 +29,7 @@ import {
   SLUG,
   seatOf,
   seen,
+  storing,
   toldAll,
   turnAt,
   WRITER,
@@ -222,26 +223,25 @@ test("the writer's rewrite skips the reviewers, moving the turn to the recorders
 
 const RECORDER_SEAT = "mari-story-recorder-the-saga-flex-1"
 
-test("a recorder that is not the last keeps its drafted edits beside the turn, lands none, and stops", async () => {
+test("each recorder lands only its own edits, so nothing kept waits for a later landing to stale it", async () => {
   const into = seen()
-  const answer = await advancedBy(
-    ["--recorder", "cast"],
-    reachOver(turnAt("recorders"), seatOf("story-recorder", RECORDER_SEAT), into),
-    landingInto(into)
-  )
+  const first = DRAFTED.slice(0, 1)
+  const second = DRAFTED.slice(1)
+  const kept = storing(into, { cast: first, memory: second })
+  kept.as("cast")
+  await advancedBy(["--recorder", "cast"], kept.reach(turnAt("recorders")), landingInto(into))
+  expect(into.folded[0]?.values["stepStatus"]).toBe(`${stepStatus.slug}/recorders`)
+  expect(kept.store).toEqual([])
+  kept.as("memory")
+  const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
+  const answer = await advancedBy(["--recorder", "memory"], kept.reach(turn), landingInto(into))
   expect(answer.refusals).toEqual([])
-  expect(into.keeps).toEqual([`an-agent ${AT}`])
-  expect(into.folded[0]?.values).toEqual({
-    stepStatus: `${stepStatus.slug}/recorders`,
-    recordedBy: ["story-recorder/cast"],
-  })
-  expect(into.landings).toEqual([[]])
-  expect(into.releases).toEqual([])
-  expect(into.notices).toEqual([])
-  expect(into.stops).toEqual([RECORDER_SEAT])
+  expect(into.landings).toEqual([first, second])
+  expect(kept.store).toEqual([])
+  expect(into.stops).toEqual([RECORDER_SEAT, RECORDER_SEAT])
 })
 
-test("the last recorder lands every recorder's kept edits with the move to player in one landing", async () => {
+test("the last recorder lands its drafted edits with the move to player in one landing", async () => {
   const into = seen()
   const turn = turnAt("recorders", { recordedBy: ["story-recorder/cast"] })
   const answer = await advancedBy(
@@ -279,7 +279,7 @@ test("a recorder's kept edit to the turn's own page is folded into the move to p
   expect(into.landings).toEqual([DRAFTED])
 })
 
-test("a recorder that is not the last folds its edit to the turn's own page into its move and keeps it no longer", async () => {
+test("a recorder that is not the last folds its edit to the turn's own page into its move", async () => {
   const into = seen()
   const reach = {
     ...reachOver(turnAt("recorders"), seatOf("story-recorder", RECORDER_SEAT), into),
@@ -287,14 +287,9 @@ test("a recorder that is not the last folds its edit to the turn's own page into
   }
   const answer = await advancedBy(["--recorder", "cast"], reach, landingInto(into))
   expect(answer.refusals).toEqual([])
-  expect(into.folded[0]?.values).toEqual({
-    endsAt: "2026-09-26T09:05:00.000Z",
-    stepStatus: `${stepStatus.slug}/recorders`,
-    recordedBy: ["story-recorder/cast"],
-  })
-  expect(into.landings).toEqual([[]])
-  expect(into.unkeeps).toEqual([[ENDED]])
-  expect(into.releases).toEqual([])
+  expect(into.folded[0]?.values["endsAt"]).toBe("2026-09-26T09:05:00.000Z")
+  expect(into.landings).toEqual([DRAFTED])
+  expect(into.releases).toEqual([AT])
 })
 
 test("a refused landing gives the caller its drafted edits back, and leaves the turn at recorders and the seat running", async () => {

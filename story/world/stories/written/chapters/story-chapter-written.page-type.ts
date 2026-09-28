@@ -54,7 +54,7 @@ export const storyChapterWritten = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "The recorders' drafted edits wait beside the chapter until its last recorder.",
+      statement: "Each recorder's drafted edits land with that recorder's own advance.",
     },
     {
       decisionKind: "decision-kind/absence",

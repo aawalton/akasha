@@ -238,6 +238,28 @@ export function racing(start: Turn): Race {
   return { reach, landing, now: () => turn }
 }
 
+export type Stored = {
+  readonly reach: (turn: Turn) => Reach
+  readonly store: FileChange[]
+  readonly as: (recorder: string) => void
+}
+
+export function storing(into: Seen, rows: Readonly<Record<string, readonly FileChange[]>>): Stored {
+  const store: FileChange[] = []
+  let caller = ""
+  const reach = (turn: Turn): Reach => ({
+    ...reachOver(turn, seatOf("story-recorder", "mari-story-recorder-the-saga-flex-1"), into),
+    keep: () => {
+      const mine = rows[caller] ?? []
+      store.push(...mine)
+      return mine
+    },
+    kept: () => [...store],
+    release: () => store.splice(0).length > 0,
+  })
+  return { reach, store, as: (recorder) => (caller = recorder) }
+}
+
 export const CHAPTER_AT = "stories/the-saga/chapters/the-saga-0002.story-chapter-written.ts"
 
 export const CHAPTER_ARGV = ["--chapter", "story-chapter-written/the-saga-0002"]

@@ -200,7 +200,7 @@ test("a turn with issues goes game master, writer, then recorders, and is review
   expect(rewritten.starts.map((one) => one.kind)).toEqual(["recorder", "recorder"])
 })
 
-test("a recorder that is not the last names itself, keeps the turn with the recorders and lands nothing kept", () => {
+test("a recorder that is not the last names itself, keeps the turn with the recorders and lands its own edits", () => {
   const said = movedOf(
     advanced(heldAt("recorders"), RECORDER, { kind: "record", recorder: CAST }, TWO)
   )
@@ -208,10 +208,10 @@ test("a recorder that is not the last names itself, keeps the turn with the reco
   expect(said.values).toEqual({ stepStatus: at("recorders"), recordedBy: [recordedBy(CAST)] })
   expect(said.starts).toEqual([])
   expect(said.stopsCaller).toBe(true)
-  expect(said.landsKept).toBe(false)
+  expect(said.landsKept).toBe(true)
 })
 
-test("the last recorder moves the turn to the player, landing every recorder's kept edits", () => {
+test("the last recorder moves the turn to the player, landing its own edits", () => {
   const held = heldAt("recorders", { recordedBy: [CAST] })
   const said = movedOf(advanced(held, RECORDER, { kind: "record", recorder: memory.slug }, TWO))
   expect(said.status).toBe("player")

@@ -354,7 +354,7 @@ function fromRecorder(held: Held, recorder: string, recorders: readonly string[]
   const recordedBy = [...held.recordedBy, recorder]
   const values = { recordedBy: recordedBy.map((one) => `${STORY_RECORDER}${PARTED}${one}`) }
   if (!recorders.every((one) => recordedBy.includes(one))) {
-    return moved(RECORDERS, values, [], true)
+    return moved(RECORDERS, values, [], true, null, true)
   }
   return moved(PLAYER, values, [], true, null, true)
 }
