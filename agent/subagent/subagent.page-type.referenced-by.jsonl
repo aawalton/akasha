@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/echo-a6bd26ba230e5619e/echo-a6bd26ba230e5619e.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/echo-ac12bedf891474b79/echo-ac12bedf891474b79.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/echo-ae25c72cec94ae7c7/echo-ae25c72cec94ae7c7.subagent.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/iris-a7aa1510b108a93a9/iris-a7aa1510b108a93a9.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/mari-a1e40d808efa99cc9/mari-a1e40d808efa99cc9.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"subagent.page-type.types.ts","path":"agent/subagent/pages/mari-aff3b7e557be4395a/mari-aff3b7e557be4395a.subagent.ts","typed":true,"deferred":false}
 {"propertySlug":"parts","path":"agent/agent.page-type.ts","id":"01a06257-7813-710a-a637-a50b6dd747d9"}
