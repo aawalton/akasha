@@ -266,7 +266,7 @@ export const otherwhereHallBack = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Crushed by the big bookworm's roll, Nala lies by the honey jar, too hurt to get up.",
+      fact: "Nala lies in the salt short of the gloom, a deep fresh bite bleeding, too weak to rise.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
@@ -285,10 +285,7 @@ export const otherwhereHallBack = {
       fact: "A roll of the big bookworm's bulk can pin and crush whoever clings to it.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Nala caught the big bookworm mid-body; it rolled on her and crushed her senseless.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "Links dragged the senseless Nala clear to the edge of the gloom, at a cost of the Library's power.",
       knowers: [
