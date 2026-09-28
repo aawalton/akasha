@@ -15,7 +15,6 @@ The vision thins, and you're back at the trunk, arms tingling, breathing hard, u
 A window opens:
 
     Synchronization Complete
-    Librarian Link: Connection 3
 
 A second window unfolds beneath it, one you've never seen before:
 
