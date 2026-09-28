@@ -71,5 +71,34 @@ export const otherwhereViGreypineWeald = {
       fact: "Sneezewort, a pale herb the Guild buys for potions, grows in the Weald's damp clearings.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The Earthen Bear is Tier 1, level 12, with some 140 HP; it strikes crushing, and its hide wards six.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The pack's wolves are Tier 0, levels 3 to 9, with 25 to 45 HP; they bite solid, and fur wards one.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A Weald boar is Tier 0, level 4, with 35 HP; it gores solid, and its hide wards two.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A rabbit or squirrel is Tier 0, level 1, with 4 HP; a horned rabbit level 2 with 8 HP.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "A greyback adder is Tier 0, level 3, with 6 HP; its bite poisons, 1 HP a minute for ten minutes.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Three army deserters camp in an old charcoal clearing on the Wenmarch track, robbing lone walkers.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "The deserters are level 6 to 8 humans with no Class, armed with a spear, a knife and a club.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
+  secrets: "jsonl",
 } as const satisfies Place
