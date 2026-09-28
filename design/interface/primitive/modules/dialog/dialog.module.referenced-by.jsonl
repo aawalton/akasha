@@ -8,6 +8,7 @@
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"page/ui/component/modules/view-tab-context-menu/view-tab-context-menu.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"product/kofi/feature-request/modules/boost-dialog/feature-request-boost-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"product/kofi/feature-request/modules/propose-dialog/feature-request-propose-dialog.module.code.tsx","typed":false,"deferred":false}
+{"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"story/ui/modules/scene-cover-panel/scene-cover-panel.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/buff-or-debuff-explanation-dialog/buff-or-debuff-explanation-dialog.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/companion-rotation-skill-column-header/companion-rotation-skill-column-header.module.code.tsx","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"dialog.module.code.tsx","path":"temper/web/modules/companion-stat-explanation-dialog/companion-stat-explanation-dialog.module.code.tsx","typed":false,"deferred":false}

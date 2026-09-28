@@ -1,6 +1,11 @@
 "use client"
 
 import { Button } from "akasha/design/interface/primitive/modules/button/button.module.code.tsx"
+import {
+  Dialog,
+  DialogContent,
+  DialogTitle,
+} from "akasha/design/interface/primitive/modules/dialog/dialog.module.code.tsx"
 import { SurfaceProvider } from "akasha/design/interface/primitive/modules/surface-provider/surface-provider.module.code.tsx"
 import {
   coverSource,
@@ -17,13 +22,21 @@ import { type ReactNode, useState } from "react"
 
 const ONE = 1
 
-export type TurnCover = { readonly id: string; readonly number: number; readonly source: string }
+export type TurnCover = {
+  readonly id: string
+  readonly number: number
+  readonly source: string
+  readonly whole: string
+}
 
 export function turnCoversOf(turnCovers: readonly PlayedTurnCover[]): readonly TurnCover[] {
   const held: TurnCover[] = []
   for (const one of turnCovers) {
     const source = coverSource(one.cover, COVER_WIDTH_ASKED)
-    if (source !== null) held.push({ id: one.id, number: one.number, source })
+    const whole = coverSource(one.cover)
+    if (source !== null && whole !== null) {
+      held.push({ id: one.id, number: one.number, source, whole })
+    }
   }
   return held
 }
@@ -50,6 +63,14 @@ export function steppedTo(
   return to === at ? undefined : covers[to]
 }
 
+export function keyStep(key: string): Step | null {
+  if (key === "ArrowLeft") return "earlier"
+  if (key === "ArrowRight") return "later"
+  if (key === "Home") return "first"
+  if (key === "End") return "last"
+  return null
+}
+
 type StepButton = { readonly step: Step; readonly label: string; readonly icon: ReactNode }
 
 const BEFORE: readonly StepButton[] = [
@@ -70,6 +91,7 @@ type ScenePanelProps = {
 export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
   const turnId = latestTurnId(turns)
   const [paged, setPaged] = useState<Paged | null>(null)
+  const [viewing, setViewing] = useState(false)
   const covers = turnCoversOf(turnCovers)
   if (turnId === null || covers.length === 0) return null
   const at = pagedAt(covers, pickedFor(paged, turnId))
@@ -92,10 +114,41 @@ export function SceneCoverPanel({ turns, turnCovers }: ScenePanelProps) {
       </Button>
     )
   }
+  const goTo = (step: Step) => {
+    const to = steppedTo(covers, at, step)
+    if (to !== undefined) setPaged({ from: turnId, to: to.id })
+  }
   return (
     <SurfaceProvider level={1} className="flex flex-col gap-3 rounded-xl p-4 shadow-sm">
+      <Dialog open={viewing} onOpenChange={setViewing}>
+        <DialogContent
+          variant="bare"
+          showCloseButton
+          className="max-h-[95vh] items-center sm:max-w-[95vw] [&>[data-slot=dialog-close]]:rounded-full [&>[data-slot=dialog-close]]:bg-black/60 [&>[data-slot=dialog-close]]:p-2 [&>[data-slot=dialog-close]]:text-white"
+          onKeyDown={(event) => {
+            const step = keyStep(event.key)
+            if (step === null) return
+            event.preventDefault()
+            goTo(step)
+          }}
+        >
+          <DialogTitle className="sr-only">Turn {shown.number}</DialogTitle>
+          <img
+            src={shown.whole}
+            alt={`Turn ${shown.number}`}
+            className="block max-h-[95vh] max-w-[95vw] rounded-md object-contain"
+          />
+        </DialogContent>
+      </Dialog>
       <figure className="flex flex-col gap-2">
-        <PageCover coverUrl={shown.source} />
+        <button
+          type="button"
+          aria-label={`View turn ${shown.number} full size`}
+          className="cursor-zoom-in rounded-md"
+          onClick={() => setViewing(true)}
+        >
+          <PageCover coverUrl={shown.source} />
+        </button>
         {covers.length > ONE ? (
           <figcaption className="flex items-center justify-between">
             <span className="flex gap-1">{BEFORE.map(stepped)}</span>

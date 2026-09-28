@@ -32,6 +32,15 @@ export const sceneCoverPanel = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "Clicking the turn cover opens it whole, fitted to the window, over the page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement:
+        "That view closes on Escape, a click outside it, or its close button, and its arrow keys page.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement:
         "The turn covers paged through are the ones the panel is handed rather than read here.",
     },
