@@ -109,7 +109,7 @@ import { temperRotationBreakdownRow } from "akasha/temper/player/progress/temper
 
 type Row = Readonly<Record<string, unknown>>
 
-export type RowsOf = (pageTypeSlug: string) => readonly Row[]
+type RowsOf = (pageTypeSlug: string) => readonly Row[]
 
 const NAMED_KEYS: readonly string[] = ["slug", "key", "title"]
 
