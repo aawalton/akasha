@@ -4,13 +4,14 @@ export const otherwhere00038 = {
   id: "01a0e553-e3f4-7552-8ab9-1bf5b1457204",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-038",
+  cover: "image/image-2b0048d1b50ab748",
   ownLength: 97,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 38,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "I check the wardrobe to see what is available after several hundred years without a librarian.",
   beats: [
@@ -23,5 +24,5 @@ export const otherwhere00038 = {
   ],
   lore: ["place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
