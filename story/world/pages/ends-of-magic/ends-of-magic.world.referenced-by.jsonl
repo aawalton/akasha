@@ -17,6 +17,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-cala-dha-drex.world-character.ts","id":"01a0e9f8-a115-7915-bf7a-d8f85086e8e3"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-colborn.world-character.ts","id":"01a0e9f9-005b-7ae7-be86-857e6945621e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-corvel-anthe.world-character.ts","id":"01a0ea05-96c9-7fd6-8aeb-5dcceecbe804"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-dace-harl.world-character.ts","id":"01a0ea05-f768-7e1d-9f97-5ed27c37f472"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-dalo.world-character.ts","id":"01a0e9f9-005c-7175-acfa-d1476b6f4217"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-davion.world-character.ts","id":"01a0e9f9-65df-7135-bd2e-8687aa40b673"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-deiman.world-character.ts","id":"01a0e9f9-65df-7045-8acf-5a385121f70e"}
@@ -69,6 +70,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-quenfi.world-character.ts","id":"01a0e9fa-ee0c-7c2b-a262-d7c94d9e9424"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-raf.world-character.ts","id":"01a0e9f9-91ec-7515-8912-edfeb0ffe30e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-roni.world-character.ts","id":"01a0e9f9-115e-7f84-92a9-371bb6198011"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-rusk-pell.world-character.ts","id":"01a0ea05-f769-77e1-b264-fcbcf5059498"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-sarah.world-character.ts","id":"01a0e9f8-7a17-7fcf-b601-4b52e9e6e30e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-sarya.world-character.ts","id":"01a0e9f6-e509-78ec-bf38-9a4e0791dd94"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-seral.world-character.ts","id":"01a0e9fe-d7bf-751b-a64c-cca527f81d16"}
@@ -142,6 +144,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-corvel-anthe.lore.ts","id":"01a0ea05-96c9-76b4-a662-35cbf9fa1b41"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-council-of-eighty-nine.lore.ts","id":"01a0ea01-0e96-73da-bc89-b64b8f9d902e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-customs.lore.ts","id":"01a0ea05-739a-7a87-aa6c-d812dedaaf15"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dace-harl.lore.ts","id":"01a0ea05-f769-751e-a01f-81a273d5df66"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dalo.lore.ts","id":"01a0e9f9-005c-7b7e-9343-b59dc67045fe"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-davion.lore.ts","id":"01a0e9f9-65e0-7ce1-ae22-64c3e701f2f2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-davrar.lore.ts","id":"01a0e9e8-d642-7142-965b-86465a26f55b"}
@@ -290,6 +293,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-redeye.lore.ts","id":"01a0e9fa-9425-70aa-b0d9-d5e94a87f3cb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-rod-of-annihilation.lore.ts","id":"01a0ea03-e06e-73ba-85ec-c73f80bd5a71"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-roni.lore.ts","id":"01a0e9f9-115f-77ee-9a5b-9304a5ffae23"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-rusk-pell.lore.ts","id":"01a0ea05-f769-7b39-bf12-096db63ff8a4"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sago.lore.ts","id":"01a0e9fa-e2ae-73db-93a7-3da15ea7ccfc"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sangrad.lore.ts","id":"01a0e9fa-527b-72e2-b3d4-469f8d5068d5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sarah.lore.ts","id":"01a0e9f8-7a17-7d21-9ef7-5cc105b5edd0"}

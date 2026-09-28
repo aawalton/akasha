@@ -69,6 +69,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-corvel-anthe.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-council-of-eighty-nine.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-customs.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dace-harl.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-dalo.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-davion.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-davrar.lore.ts","typed":true,"deferred":false}
@@ -217,6 +218,7 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-redeye.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-rod-of-annihilation.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-roni.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-rusk-pell.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sago.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sangrad.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sarah.lore.ts","typed":true,"deferred":false}
