@@ -11,7 +11,7 @@ export const otherwhere00006 = {
   position: 6,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action:
     "“You might as well take it. I’m clearly going to die without help anyways.” I say, while offering it again",
   beats: [
@@ -29,5 +29,6 @@ export const otherwhere00006 = {
   issues: ['"The forest\'s noise closes over the place where it was." - Leave It Open'],
   lore: ["lore/otherwhere-copperbacks"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
+  endsAt: "2026-09-28T13:42:00.000Z",
 } as const satisfies StoryTurnPlayed
