@@ -33,7 +33,7 @@ export const otherwhereCopperbacks = {
     },
     {
       fact: "Copperbacks throw sticks, fruit and stones at intruders from the canopy.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "Copperbacks are beasts: their calls are no speech, and Gift of Tongues gives them no words.",
