@@ -4,6 +4,7 @@ export const metaworldHopecore0133Chapter79AChangeIsGonnaCome = {
   id: "01a06731-af1a-7003-8222-a73f851febab",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0133-chapter-79-a-change-is-gonna-come",
+  ownProgress: 3017,
   title: "CHAPTER 79 - A Change Is Gonna Come",
   story: "story-read/metaworld-hopecore",
   position: 133,

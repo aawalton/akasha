@@ -4,6 +4,7 @@ export const metaworldHopecore0176Chapter101OBlowMyBullyBoysBlow = {
   id: "01a090ca-2c43-7d19-b53b-a5a3747ac266",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0176-chapter-101-o-blow-my-bully-boys-blow",
+  ownProgress: 3328,
   position: 176,
   publishedAt: "2026-09-11",
   unit: "unit/words",

@@ -4,6 +4,7 @@ export const metaworldHopecore0179Chapter102BigMouthStrikesAgain2 = {
   id: "01a0aac0-4fac-7144-8318-90095721fa7a",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0179-chapter-102-big-mouth-strikes-again-2",
+  ownProgress: 3077,
   position: 179,
   publishedAt: "2026-09-16",
   unit: "unit/words",

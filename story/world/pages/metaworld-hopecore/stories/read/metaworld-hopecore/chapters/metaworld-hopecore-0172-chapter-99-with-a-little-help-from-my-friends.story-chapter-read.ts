@@ -4,6 +4,7 @@ export const metaworldHopecore0172Chapter99WithALittleHelpFromMyFriends = {
   id: "01a07252-32ee-7819-8180-cd363c724f72",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0172-chapter-99-with-a-little-help-from-my-friends",
+  ownProgress: 3215,
   story: "story-read/metaworld-hopecore",
   position: 172,
   publishedAt: "2026-09-05",

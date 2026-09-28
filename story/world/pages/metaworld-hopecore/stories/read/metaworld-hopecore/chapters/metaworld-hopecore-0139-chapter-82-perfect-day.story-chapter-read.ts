@@ -4,6 +4,7 @@ export const metaworldHopecore0139Chapter82PerfectDay = {
   id: "01a06731-af1d-7001-9eb3-147b7fbe19e6",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0139-chapter-82-perfect-day",
+  ownProgress: 2633,
   title: "CHAPTER 82 - Perfect Day",
   story: "story-read/metaworld-hopecore",
   position: 139,

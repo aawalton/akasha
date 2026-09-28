@@ -4,6 +4,7 @@ export const metaworldHopecore0180Chapter103PaintItBlack = {
   id: "01a0bc21-2fa4-7bb2-847c-dffae8f858bb",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0180-chapter-103-paint-it-black",
+  ownProgress: 2786,
   position: 180,
   publishedAt: "2026-09-19",
   unit: "unit/words",

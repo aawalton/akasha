@@ -4,6 +4,7 @@ export const metaworldHopecore0161Chapter93SixteenGoingOnSeventeen = {
   id: "01a06731-af30-7000-8a93-f35fd9fcfae5",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0161-chapter-93-sixteen-going-on-seventeen",
+  ownProgress: 4360,
   title: "CHAPTER 93 - Sixteen Going on Seventeen",
   story: "story-read/metaworld-hopecore",
   position: 161,

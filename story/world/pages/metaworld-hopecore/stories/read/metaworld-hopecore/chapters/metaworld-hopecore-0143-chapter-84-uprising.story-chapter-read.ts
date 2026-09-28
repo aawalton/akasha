@@ -4,6 +4,7 @@ export const metaworldHopecore0143Chapter84Uprising = {
   id: "01a06731-af1f-7000-b077-496dbd2aee5e",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0143-chapter-84-uprising",
+  ownProgress: 3043,
   title: "CHAPTER 84 - Uprising",
   story: "story-read/metaworld-hopecore",
   position: 143,

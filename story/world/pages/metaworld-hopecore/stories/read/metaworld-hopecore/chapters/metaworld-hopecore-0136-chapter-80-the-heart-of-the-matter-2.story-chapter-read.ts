@@ -4,6 +4,7 @@ export const metaworldHopecore0136Chapter80TheHeartOfTheMatter2 = {
   id: "01a06731-af1b-7002-ae78-6459178509e0",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0136-chapter-80-the-heart-of-the-matter-2",
+  ownProgress: 3193,
   title: "CHAPTER 80 - The Heart of the Matter (2) ",
   story: "story-read/metaworld-hopecore",
   position: 136,

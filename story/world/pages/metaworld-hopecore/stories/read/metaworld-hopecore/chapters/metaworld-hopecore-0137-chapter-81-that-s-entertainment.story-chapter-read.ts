@@ -4,6 +4,7 @@ export const metaworldHopecore0137Chapter81ThatSEntertainment = {
   id: "01a06731-af1c-7000-9a6a-a47c77435197",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0137-chapter-81-that-s-entertainment",
+  ownProgress: 3056,
   title: "CHAPTER 81 — That's Entertainment!",
   story: "story-read/metaworld-hopecore",
   position: 137,

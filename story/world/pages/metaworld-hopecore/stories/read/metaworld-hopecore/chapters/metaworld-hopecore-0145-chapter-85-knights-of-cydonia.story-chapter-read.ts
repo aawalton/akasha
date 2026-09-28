@@ -4,6 +4,7 @@ export const metaworldHopecore0145Chapter85KnightsOfCydonia = {
   id: "01a06731-af21-7000-a44a-420fa81c333d",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0145-chapter-85-knights-of-cydonia",
+  ownProgress: 2268,
   title: "CHAPTER 85 - Knights of Cydonia",
   story: "story-read/metaworld-hopecore",
   position: 145,

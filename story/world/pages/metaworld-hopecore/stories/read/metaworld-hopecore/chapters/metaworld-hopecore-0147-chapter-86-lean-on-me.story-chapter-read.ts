@@ -4,6 +4,7 @@ export const metaworldHopecore0147Chapter86LeanOnMe = {
   id: "01a06731-af24-7000-9231-c03f051f6ea9",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0147-chapter-86-lean-on-me",
+  ownProgress: 2713,
   title: "CHAPTER 86 — Lean on Me",
   story: "story-read/metaworld-hopecore",
   position: 147,

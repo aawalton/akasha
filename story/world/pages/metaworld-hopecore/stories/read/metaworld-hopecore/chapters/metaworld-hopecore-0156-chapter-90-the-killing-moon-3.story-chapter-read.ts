@@ -4,6 +4,7 @@ export const metaworldHopecore0156Chapter90TheKillingMoon3 = {
   id: "01a06731-af29-7000-9e55-43f18b740387",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0156-chapter-90-the-killing-moon-3",
+  ownProgress: 2638,
   title: " CHAPTER 90 — The Killing Moon (3) ",
   story: "story-read/metaworld-hopecore",
   position: 156,

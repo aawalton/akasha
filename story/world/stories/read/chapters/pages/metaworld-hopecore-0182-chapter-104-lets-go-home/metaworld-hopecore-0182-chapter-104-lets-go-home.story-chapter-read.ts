@@ -4,6 +4,7 @@ export const metaworldHopecore0182Chapter104LetsGoHome = {
   id: "01a0bf5a-d1e3-75a8-ad6c-99173929a331",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0182-chapter-104-lets-go-home",
+  ownProgress: 3019,
   position: 182,
   publishedAt: "2026-09-20",
   unit: "unit/words",

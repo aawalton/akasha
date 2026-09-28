@@ -4,6 +4,7 @@ export const metaworldHopecore0150Chapter88GoodRiddanceTimeOfYourLife = {
   id: "01a06731-af27-7000-a7c9-f8a9bc90ef5d",
   type: "page-type/story-chapter-read",
   slug: "metaworld-hopecore-0150-chapter-88-good-riddance-time-of-your-life",
+  ownProgress: 1929,
   title: "CHAPTER 88 - Good Riddance (Time of Your Life) ",
   story: "story-read/metaworld-hopecore",
   position: 150,
