@@ -11,7 +11,7 @@ export const otherwhere00058 = {
   position: 58,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/recorders",
+  turnStatus: "turn-status/player",
   action:
     "**Great, anything you need from me to get the shelvers working? If not, I'll keep going until this part is done.**",
   beats: [
@@ -25,5 +25,5 @@ export const otherwhere00058 = {
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/picture"],
+  recordedBy: ["story-recorder/memory", "story-recorder/picture", "story-recorder/mechanics"],
 } as const satisfies StoryTurnPlayed

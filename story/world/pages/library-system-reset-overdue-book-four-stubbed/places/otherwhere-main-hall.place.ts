@@ -87,7 +87,6 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "The quarters have a deep stone tub but no shower; thick linen towels hang beside it.",
       knowers: [
@@ -182,7 +181,7 @@ export const otherwhereMainHall = {
     },
     {
       fact: "The lowest shelves are in reach from the floor; higher ones need the hall's rolling ladders.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "Each book's spine bears a faint shelf mark that matches a mark on the shelf it belongs on.",
@@ -292,7 +291,6 @@ export const otherwhereMainHall = {
         "character-other/otherwhere-links",
       ],
     },
-
     {
       fact: "With Shelf Sight open, each book's right shelf glows faintly across the hall.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
@@ -304,6 +302,10 @@ export const otherwhereMainHall = {
         "character-player/otherwhere-alan",
         "character-other/otherwhere-links",
       ],
+    },
+    {
+      fact: "Nala reshelved all the heaps beside the counter, the hall's gold light edging brighter.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The quarters' taps now run hot.",
