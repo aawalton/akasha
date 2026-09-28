@@ -27,11 +27,11 @@ export const otherwhereIvThreeStonesVillage = {
     },
     {
       fact: "By early morning farmers in straw hats work knee-deep in the paddies, weeding.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "Water buffalo graze on the field banks, and white egrets stalk the flooded terraces.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
     {
       fact: "The rice was transplanted this month, and families now weed and mind the water.",
@@ -84,6 +84,14 @@ export const otherwhereIvThreeStonesVillage = {
     {
       fact: "The woods above the bend are feared this spring: something big breaks paddy walls at night.",
       knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Near the top of the terraces a paddy wall by the track is broken open, its rice flattened.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
+    },
+    {
+      fact: "Nala slid into the terrace below the broken wall and trampled a row of a farmer's rice.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-iv-nala"],
     },
   ],
 } as const satisfies Place

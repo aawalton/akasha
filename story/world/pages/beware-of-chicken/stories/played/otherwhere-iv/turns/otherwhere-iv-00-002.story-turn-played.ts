@@ -4,13 +4,14 @@ export const otherwhereIv00002 = {
   id: "01a0e9f1-31b2-7790-adbb-bbc195f510e9",
   type: "page-type/story-turn-played",
   slug: "otherwhere-iv-00-002",
+  cover: "image/image-c360d525f930879f",
   ownLength: 665,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-iv"],
   position: 2,
   prose: "txt",
   characters: ["character-player/otherwhere-iv-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "A start walking toward the village, keeping my eyes and ears open for signs of danger",
   beats: [
     "Nala sets off barefoot down the cart track on the river's left bank, eyes and ears open.",
@@ -52,6 +53,6 @@ export const otherwhereIv00002 = {
     "place/otherwhere-iv-willow-bend",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory", "story-recorder/picture"],
   endsAt: "2026-09-28T06:42:00.000Z",
 } as const satisfies StoryTurnPlayed
