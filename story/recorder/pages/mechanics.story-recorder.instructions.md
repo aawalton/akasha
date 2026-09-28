@@ -12,7 +12,7 @@ Settle each check the turn calls for on this turn, naming no dice where the chec
 
 `akasha story settle --story <story> --turn <this turn> --check <check> --reading <json> --draft`
 
-A settling refused because the check is settled on this turn already means the turn is recorded already, so change nothing that settling would have changed. After each settling, draft onto the page keeping it every number the answer changes, with `akasha change apply --draft`. Where the mechanics say to file a page that is not there yet, draft it. A skill page you file states a `description`: a sentence or two on what the skill does, as the story has shown it to its holder and as the world's own system would put it to them. Where a mechanic calls for a value on the turn's own page, draft it onto the turn's page, with `add-property-to-pages` for a key the turn does not state yet; it lands folded into the move to player.
+A settling refused because the check is settled on this turn already means the turn is recorded already, so change nothing that settling would have changed. After each settling, draft onto the page keeping it every number the answer changes, with `akasha change apply --draft`. Where the mechanics say to file a page that is not there yet, draft it. A mechanic page you file states no `description`, since the world builder writes every one. Where a mechanic calls for a value on the turn's own page, draft it onto the turn's page, with `add-property-to-pages` for a key the turn does not state yet; it lands folded into the move to player.
 
 Every edit you make is drafted, and you land nothing. The advance moving the turn to its player lands your edits.
 
