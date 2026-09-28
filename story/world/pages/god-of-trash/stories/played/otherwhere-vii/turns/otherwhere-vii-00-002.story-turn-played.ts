@@ -4,6 +4,7 @@ export const otherwhereVii00002 = {
   id: "01a0ea21-6f9d-71b9-921d-f759c9443e7b",
   type: "page-type/story-turn-played",
   slug: "otherwhere-vii-00-002",
+  cover: "image/image-9fc00e9e344cb41c",
   ownLength: 329,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere-vii"],
@@ -43,6 +44,6 @@ export const otherwhereVii00002 = {
     "place/otherwhere-vii-ashford-road-ditch",
   ],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
   endsAt: "2026-09-28T06:16:00.000Z",
 } as const satisfies StoryTurnPlayed
