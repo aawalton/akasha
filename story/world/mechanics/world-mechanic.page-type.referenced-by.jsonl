@@ -130,11 +130,13 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/mechanics/the-tower-death-loop.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/personas/stories/played/the-tower/mechanics/the-tower-resolution.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-1963-agreement.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-abundance.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-affixation.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-agility.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-appeal.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-arbitration.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-authority-control.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-authority-greeting.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-authority-sense.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-authority.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-automorph.world-mechanic.ts","typed":true,"deferred":false}
@@ -143,7 +145,9 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-avowed-stipend.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-balance.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-battlefield-support.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-bolstering.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-bound-authority.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-building-up-a-spell.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-carriage.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-chaos-index.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-chaos-potential.world-mechanic.ts","typed":true,"deferred":false}
@@ -154,6 +158,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-class-hoarding.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-class-shift.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-class-trait.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-closeness.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-cnh-hero-admissions.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-contact-priority.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-contract-of-service.world-mechanic.ts","typed":true,"deferred":false}
@@ -161,10 +166,12 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-contract-tattoo.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-contract-verified-profile.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-corruption-incident.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-daharsee.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-demon-allotment.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-dexterity.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-divergence-rank.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-double-on.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-elemental-alignment.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-emergency-orders.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-emergency-summons.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-emergency-teleport.world-mechanic.ts","typed":true,"deferred":false}
@@ -189,6 +196,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-leveling.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-live-trade-negotiation.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-loving-lie.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-masterpiece-spell.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-mental-texting.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-mourning-name.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-name-tags.world-mechanic.ts","typed":true,"deferred":false}
@@ -200,12 +208,14 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-pre-affixation-trade.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-preservation.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-primary-summoner.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-priming.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-priority-rank.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-privacy-of-the-house.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-privileges.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-processing.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-proprioception.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-quest.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-quiescence.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-rare-class.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-reflexes.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-refusal.world-mechanic.ts","typed":true,"deferred":false}
@@ -220,6 +230,7 @@
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-skill-facets.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-skill.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-speed.world-mechanic.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-spell-abbreviation.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-spell-impression.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-spree.world-mechanic.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"world-mechanic.page-type.types.ts","path":"story/world/pages/super-supportive/mechanics/mechanics/super-supportive-stamina.world-mechanic.ts","typed":true,"deferred":false}
