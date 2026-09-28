@@ -72,5 +72,90 @@ export const otherwhereIxNala = {
       fact: "A glassgrass blade cut Nala's palm, and one knee of her tights is already nicked through.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-ix-nala"],
     },
+    {
+      fact: "The system has not yet taken hold of Nala.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "It takes hold at her first sleep, her first wound from a beast, or her first call on it.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Taking hold, the system shows: [System integration initialising.] then [Processing…]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Next: [Subject's World of Origin: Earth. Documented.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Next: [No summoning ritual recorded. No binding recorded. Subject is unclaimed.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Next: [Greetings, Nala. Welcome to Firrelia, The First World.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Next: [You are hereby bound to a Firrelian system, through which the potential of your",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "...body and soul will be summarily measured.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Last: [Inborn trait established: Unset.] and [Unique trait established: ???.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Unset reads: [Unset: Your pattern has not yet set. Cores you absorb award half again",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "...the attributes, and each core you affix may leave its mark upon your body.]",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala's status reads Class: Otherworlder (Earth) (Tier: Novice 1), then Health and Mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her status lists Strength, Agility, Arcana, Constitution, Spirit, and a greyed [???: 0].",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her numbers are kept on her health, mana, level and attribute pages.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Nala is G Grade; her mana core, low in her belly, makes G Grade Spirit Mana.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She cannot yet sense her own mana, and has no skill, spell, title or core.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her Otherworlder class menu is greyed until level 50.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Firrelian humans grow no facial hair, so as a woman Nala carries no bearded tell.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "She passes for a Firrelian human until Identify reads her class or her talk gives her away.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Her shirt and tights are cloth no Firrelian loom makes; a close look marks them strange.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "An unclaimed otherworlder is worth a hundred gold or more to a buyer for an arena.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
+  secrets: "jsonl",
 } as const satisfies Lore
