@@ -45,7 +45,7 @@ export const otherwhereAlan = {
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
-      fact: "Nala wears a past Librarian's blue wool robe, cinched with a pouched belt, and felt slippers.",
+      fact: "Nala's clothes now are a past Librarian's blue wool robe, a pouched belt and felt slippers.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
