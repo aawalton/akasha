@@ -15,6 +15,10 @@ export const otherwhereIiiLawrenceStop = {
       fact: "The stair and the Lawrence Avenue sidewalk are slush over salt, with new snow blowing.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Before dawn the avenue is dark: a shut diner, a laundromat, the unlit marquee of the Aragon.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
