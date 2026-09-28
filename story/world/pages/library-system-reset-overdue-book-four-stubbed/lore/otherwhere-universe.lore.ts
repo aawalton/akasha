@@ -153,7 +153,7 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "Every scattered book Nala returns to its right shelf gives the Library a little power.",
+      fact: "Each book returned to its right shelf gives the Library one point of power.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -161,7 +161,7 @@ export const otherwhereUniverse = {
       ],
     },
     {
-      fact: "Each patron the Library serves, once its doors reopen, gives it a little power.",
+      fact: "Each patron the Library serves, once its doors reopen, gives it one point of power.",
       knowers: [
         "lore-disclosure/game-master",
         "character-player/otherwhere-alan",
@@ -195,14 +195,6 @@ export const otherwhereUniverse = {
         "character-player/otherwhere-alan",
         "character-other/otherwhere-links",
       ],
-    },
-    {
-      fact: "Each book returned to its right shelf gives the Library one point of power.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
-    {
-      fact: "Each patron the Library serves gives it one point of power.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
   secrets: "jsonl",

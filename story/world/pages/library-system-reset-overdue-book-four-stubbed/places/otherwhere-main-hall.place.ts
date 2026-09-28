@@ -115,10 +115,7 @@ export const otherwhereMainHall = {
       fact: "The wardrobe's robes are deep blue wool, whole and unmothed, smelling of cedar; two hang there.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
-    {
-      fact: "Soft felt slippers and a leather belt with a drawstring pouch lie at the wardrobe's foot.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
-    },
+
     {
       fact: "The wardrobe holds a past Librarian's plain robes, long on Nala but wearable.",
       knowers: [
@@ -285,7 +282,11 @@ export const otherwhereMainHall = {
     },
     {
       fact: "Links told Nala that eight more reshelved books would make the quarters' taps run hot.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
   ],
   secrets: "jsonl",
