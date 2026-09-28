@@ -4,6 +4,7 @@ export const haremHotel00004 = {
   id: "01a0e859-3813-7cc0-92ea-4d897aac402f",
   type: "page-type/story-turn-played",
   slug: "harem-hotel-00-004",
+  cover: "image/image-a4f11fc89525fb87",
   ownLength: 867,
   unit: "unit/words",
   partOfCollections: ["story-played/harem-hotel"],
@@ -44,5 +45,5 @@ export const haremHotel00004 = {
   ],
   lore: ["lore/harem-hotel-wren"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed
