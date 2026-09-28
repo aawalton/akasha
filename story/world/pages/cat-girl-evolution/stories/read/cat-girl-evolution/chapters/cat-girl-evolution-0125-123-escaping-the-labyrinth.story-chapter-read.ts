@@ -4,6 +4,7 @@ export const catGirlEvolution0125123EscapingTheLabyrinth = {
   id: "01a06731-b018-7002-a770-745967d70578",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0125-123-escaping-the-labyrinth",
+  ownProgress: 2102,
   title: "123 - Escaping the Labyrinth",
   story: "story-read/cat-girl-evolution",
   position: 125,

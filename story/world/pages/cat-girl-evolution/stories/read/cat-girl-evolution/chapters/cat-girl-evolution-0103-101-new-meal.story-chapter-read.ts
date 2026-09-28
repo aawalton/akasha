@@ -4,6 +4,7 @@ export const catGirlEvolution0103101NewMeal = {
   id: "01a06731-b011-7000-a248-5fe46f1f337a",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0103-101-new-meal",
+  ownProgress: 3305,
   title: "101 - New Me(al)",
   story: "story-read/cat-girl-evolution",
   position: 103,

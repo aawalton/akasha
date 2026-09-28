@@ -4,6 +4,7 @@ export const catGirlEvolution009494WhileSheWasSleeping = {
   id: "01a06731-b00b-7000-8c83-87d1a3f0d5dd",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0094-94-while-she-was-sleeping",
+  ownProgress: 1982,
   title: "94 - While She Was Sleeping",
   story: "story-read/cat-girl-evolution",
   position: 94,

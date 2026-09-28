@@ -4,6 +4,7 @@ export const catGirlEvolution0107105IveGotMyEyeOnYou = {
   id: "01a06731-b012-7002-8093-156ce6ca67a5",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0107-105-ive-got-my-eye-on-you",
+  ownProgress: 2192,
   title: "105 - I've Got My Eye On You",
   story: "story-read/cat-girl-evolution",
   position: 107,

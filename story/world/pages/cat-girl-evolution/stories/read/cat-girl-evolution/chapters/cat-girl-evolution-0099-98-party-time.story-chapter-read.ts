@@ -4,6 +4,7 @@ export const catGirlEvolution009998PartyTime = {
   id: "01a06731-b00e-7000-b72e-265599eb3bf3",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0099-98-party-time",
+  ownProgress: 2596,
   title: "98 - Party Time!",
   story: "story-read/cat-girl-evolution",
   position: 99,

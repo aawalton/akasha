@@ -4,6 +4,7 @@ export const catGirlEvolution0126124YonaTheDevourer = {
   id: "01a06731-b018-7003-8a03-bec3ff737220",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0126-124-yona-the-devourer",
+  ownProgress: 2656,
   title: "124 - Yona, the Devourer",
   story: "story-read/cat-girl-evolution",
   position: 126,

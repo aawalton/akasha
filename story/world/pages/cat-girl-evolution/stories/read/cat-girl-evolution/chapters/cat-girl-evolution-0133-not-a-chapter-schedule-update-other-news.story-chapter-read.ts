@@ -4,6 +4,7 @@ export const catGirlEvolution0133NotAChapterScheduleUpdateOtherNews = {
   id: "01a06731-b019-7000-a143-baf42745f932",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0133-not-a-chapter-schedule-update-other-news",
+  ownProgress: 783,
   title: "(NOT A CHAPTER) Schedule update + other news",
   story: "story-read/cat-girl-evolution",
   position: 133,

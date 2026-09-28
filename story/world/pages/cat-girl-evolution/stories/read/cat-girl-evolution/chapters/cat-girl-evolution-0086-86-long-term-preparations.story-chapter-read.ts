@@ -4,6 +4,7 @@ export const catGirlEvolution008686LongTermPreparations = {
   id: "01a06731-b009-7001-a4cc-3640930c804c",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0086-86-long-term-preparations",
+  ownProgress: 2841,
   title: "86 - Long Term Preparations",
   story: "story-read/cat-girl-evolution",
   position: 86,

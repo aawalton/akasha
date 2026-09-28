@@ -4,6 +4,7 @@ export const catGirlEvolution0108106Hypothetically = {
   id: "01a06731-b012-7003-bd39-345ac91193bc",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0108-106-hypothetically",
+  ownProgress: 2728,
   title: "106 - Hypothetically...",
   story: "story-read/cat-girl-evolution",
   position: 108,

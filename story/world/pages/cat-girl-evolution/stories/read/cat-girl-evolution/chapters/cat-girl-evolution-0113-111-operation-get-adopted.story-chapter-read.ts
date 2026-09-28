@@ -4,6 +4,7 @@ export const catGirlEvolution0113111OperationGetAdopted = {
   id: "01a06731-b014-7001-a831-dfe1911067a9",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0113-111-operation-get-adopted",
+  ownProgress: 2674,
   title: "111 - Operation Get Adopted",
   story: "story-read/cat-girl-evolution",
   position: 113,

@@ -4,6 +4,7 @@ export const catGirlEvolution0127125AbbysDungeon = {
   id: "01a06731-b018-7004-a30b-0bf5da4c346e",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0127-125-abbys-dungeon",
+  ownProgress: 2193,
   title: "125 - Abby's Dungeon",
   story: "story-read/cat-girl-evolution",
   position: 127,

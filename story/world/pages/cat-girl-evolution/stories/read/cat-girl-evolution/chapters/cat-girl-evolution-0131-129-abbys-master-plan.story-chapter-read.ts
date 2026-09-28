@@ -4,6 +4,7 @@ export const catGirlEvolution0131129AbbysMasterPlan = {
   id: "01a06731-b018-7008-a069-c01a3eeb92f8",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0131-129-abbys-master-plan",
+  ownProgress: 2034,
   title: "129 - Abby's Master Plan",
   story: "story-read/cat-girl-evolution",
   position: 131,

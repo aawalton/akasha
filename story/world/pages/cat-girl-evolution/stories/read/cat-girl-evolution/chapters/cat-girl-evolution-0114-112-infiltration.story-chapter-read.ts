@@ -4,6 +4,7 @@ export const catGirlEvolution0114112Infiltration = {
   id: "01a06731-b015-7000-94e7-cff035e5b8fd",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0114-112-infiltration",
+  ownProgress: 3459,
   title: "112 - Infiltration",
   story: "story-read/cat-girl-evolution",
   position: 114,

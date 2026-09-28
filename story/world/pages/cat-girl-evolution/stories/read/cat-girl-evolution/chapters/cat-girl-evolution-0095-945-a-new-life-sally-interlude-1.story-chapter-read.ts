@@ -4,6 +4,7 @@ export const catGirlEvolution0095945ANewLifeSallyInterlude1 = {
   id: "01a06731-b00b-7001-a181-c2e3e7831196",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0095-945-a-new-life-sally-interlude-1",
+  ownProgress: 2514,
   title: "94.5 - A New Life (Sally Interlude 1)",
   story: "story-read/cat-girl-evolution",
   position: 95,

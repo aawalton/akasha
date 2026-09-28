@@ -4,6 +4,7 @@ export const catGirlEvolution008787DemonQueenYona = {
   id: "01a06731-b00a-7000-a5b7-26989c356ce8",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0087-87-demon-queen-yona",
+  ownProgress: 2300,
   title: "87 - Demon Queen Yona",
   story: "story-read/cat-girl-evolution",
   position: 87,

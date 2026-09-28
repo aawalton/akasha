@@ -4,6 +4,7 @@ export const catGirlEvolution0116114ToldYouSo = {
   id: "01a06731-b016-7001-bdd2-b63cb66a9fbc",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0116-114-told-you-so",
+  ownProgress: 2378,
   title: "114 - Told You So",
   story: "story-read/cat-girl-evolution",
   position: 116,

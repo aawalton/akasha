@@ -4,6 +4,7 @@ export const catGirlEvolution0134131TheHeroAlwaysWins = {
   id: "01a06731-b019-7001-a72f-1e21c50fa5f5",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0134-131-the-hero-always-wins",
+  ownProgress: 2284,
   title: "131 - The Hero Always Wins",
   story: "story-read/cat-girl-evolution",
   position: 134,

@@ -4,6 +4,7 @@ export const catGirlEvolution0130128GluttonyWantsJoakim = {
   id: "01a06731-b018-7007-8c07-8ffafe2dbace",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0130-128-gluttony-wants-joakim",
+  ownProgress: 2364,
   title: "128 - Gluttony Wants Joakim",
   story: "story-read/cat-girl-evolution",
   position: 130,

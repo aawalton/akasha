@@ -4,6 +4,7 @@ export const catGirlEvolution0106104WelcomeToMaligarB3Start = {
   id: "01a06731-b012-7001-8c98-a02d4513a791",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0106-104-welcome-to-maligar-b3-start",
+  ownProgress: 2586,
   title: "104 - Welcome to Maligar (B3 start)",
   story: "story-read/cat-girl-evolution",
   position: 106,

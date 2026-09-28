@@ -4,6 +4,7 @@ export const catGirlEvolution009796AVeryExcitingTrainingArc = {
   id: "01a06731-b00d-7000-ae42-fbb1c334f825",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0097-96-a-very-exciting-training-arc",
+  ownProgress: 2514,
   title: "96 - A Very Exciting Training Arc",
   story: "story-read/cat-girl-evolution",
   position: 97,

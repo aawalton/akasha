@@ -4,6 +4,7 @@ export const catGirlEvolution0128126Catfight = {
   id: "01a06731-b018-7005-a1cd-0e168a763703",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0128-126-catfight",
+  ownProgress: 2300,
   title: "126 - Catfight",
   story: "story-read/cat-girl-evolution",
   position: 128,

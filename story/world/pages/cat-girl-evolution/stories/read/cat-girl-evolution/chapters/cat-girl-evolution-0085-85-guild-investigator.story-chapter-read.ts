@@ -4,6 +4,7 @@ export const catGirlEvolution008585GuildInvestigator = {
   id: "01a06731-b009-7000-a591-1c9efc959660",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0085-85-guild-investigator",
+  ownProgress: 3142,
   title: "85 - Guild Investigator",
   story: "story-read/cat-girl-evolution",
   position: 85,

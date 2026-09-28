@@ -4,6 +4,7 @@ export const catGirlEvolution0120118HauntedHouse = {
   id: "01a06731-b017-7001-8a0a-8b8a09457827",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0120-118-haunted-house",
+  ownProgress: 2250,
   title: "118 - Haunted House",
   story: "story-read/cat-girl-evolution",
   position: 120,

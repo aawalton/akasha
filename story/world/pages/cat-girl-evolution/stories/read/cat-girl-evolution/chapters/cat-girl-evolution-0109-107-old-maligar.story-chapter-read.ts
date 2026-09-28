@@ -4,6 +4,7 @@ export const catGirlEvolution0109107OldMaligar = {
   id: "01a06731-b013-7000-ba2b-31911c787bed",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0109-107-old-maligar",
+  ownProgress: 2649,
   title: "107 - Old Maligar",
   story: "story-read/cat-girl-evolution",
   position: 109,

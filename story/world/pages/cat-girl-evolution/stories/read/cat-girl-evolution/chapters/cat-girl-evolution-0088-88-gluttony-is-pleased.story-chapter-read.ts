@@ -4,6 +4,7 @@ export const catGirlEvolution008888GluttonyIsPleased = {
   id: "01a06731-b00a-7001-b05e-fe7b75f2639f",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0088-88-gluttony-is-pleased",
+  ownProgress: 2785,
   title: "88 - Gluttony is Pleased",
   story: "story-read/cat-girl-evolution",
   position: 88,

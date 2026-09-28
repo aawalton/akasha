@@ -4,6 +4,7 @@ export const catGirlEvolution009292Winter2 = {
   id: "01a06731-b00a-7005-8caa-25d9e185de6e",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0092-92-winter-2",
+  ownProgress: 2326,
   title: "92 - Winter (2)",
   story: "story-read/cat-girl-evolution",
   position: 92,

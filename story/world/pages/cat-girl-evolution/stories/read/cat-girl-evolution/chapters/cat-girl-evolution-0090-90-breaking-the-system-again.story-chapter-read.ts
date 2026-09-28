@@ -4,6 +4,7 @@ export const catGirlEvolution009090BreakingTheSystemAgain = {
   id: "01a06731-b00a-7003-9a34-c4df47309c6d",
   type: "page-type/story-chapter-read",
   slug: "cat-girl-evolution-0090-90-breaking-the-system-again",
+  ownProgress: 2638,
   title: "90 - Breaking the System (again)",
   story: "story-read/cat-girl-evolution",
   position: 90,
