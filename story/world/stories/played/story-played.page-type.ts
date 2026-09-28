@@ -41,6 +41,7 @@ export const storyPlayed = {
     "instant-property/story-opens-at",
     "relation-property/cover-reroll",
     "text-property/cover-reroll-refused",
+    "service-workstation/cover-rerolling",
   ],
   decisions: [
     {

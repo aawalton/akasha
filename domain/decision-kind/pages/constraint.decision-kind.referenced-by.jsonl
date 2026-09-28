@@ -430,6 +430,7 @@
 {"propertySlug":"decision-kind","path":"product/wandering-inn-wiki/web/modules/innworld-visitor/innworld-visitor.module.ts","id":"01a0c66a-55f9-793b-99d9-b3d8617e6db8"}
 {"propertySlug":"decision-kind","path":"story/world/characters/properties/max-level.computed-property.ts","id":"01a0657a-9ccc-799d-b3da-5f74e280345a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/modules/cover-rerolling/cover-rerolling.module.ts","id":"01a0e851-25d9-756c-ab3b-35fef0612b06"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/service-workstations/cover-rerolling/cover-rerolling.service-workstation.ts","id":"01a0e853-50d7-72fe-a224-748adb47cde2"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-banned-symbols/addon-banned-symbols.module.ts","id":"01a06365-e827-7002-bfdd-914c6a139782"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-dependency-cycle/addon-dependency-cycle.module.ts","id":"01a06297-7f6a-7306-9a6f-acca84ccb4b8"}
 {"propertySlug":"decision-kind","path":"temper/addon/build/deploy-check/modules/addon-dependency-floor/addon-dependency-floor.module.ts","id":"01a06297-7f6a-7664-ac3d-ea7ecf537e2f"}
