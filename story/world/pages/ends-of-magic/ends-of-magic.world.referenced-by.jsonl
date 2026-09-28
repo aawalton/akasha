@@ -53,13 +53,16 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-olita.world-character.ts","id":"01a0e9fa-ee0c-7708-adda-dfe36d473440"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-othryx.world-character.ts","id":"01a0e9fb-6915-731b-a1b4-5078bf8edf1d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-phryne.world-character.ts","id":"01a0e9fd-9171-7871-bb5b-ce15a6bd648b"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-poppy.world-character.ts","id":"01a0e9fe-d7bf-7baa-a02e-2b16d12df22d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-quenfi.world-character.ts","id":"01a0e9fa-ee0c-7c2b-a262-d7c94d9e9424"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-raf.world-character.ts","id":"01a0e9f9-91ec-7515-8912-edfeb0ffe30e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-roni.world-character.ts","id":"01a0e9f9-115e-7f84-92a9-371bb6198011"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-sarah.world-character.ts","id":"01a0e9f8-7a17-7fcf-b601-4b52e9e6e30e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-sarya.world-character.ts","id":"01a0e9f6-e509-78ec-bf38-9a4e0791dd94"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-seral.world-character.ts","id":"01a0e9fe-d7bf-751b-a64c-cca527f81d16"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-sereth.world-character.ts","id":"01a0e9fa-ee0d-7248-a4b0-85a98f9df32e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-shai.world-character.ts","id":"01a0e9f9-91ec-7db2-95d9-f61503c3b7b1"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-shom.world-character.ts","id":"01a0e9fe-d7c0-719b-91d9-9e27a49e515e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-shong.world-character.ts","id":"01a0e9fa-2b5e-7733-aa94-079d23e65132"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-sklias.world-character.ts","id":"01a0e9fb-fb53-7e0f-b5b2-53af501caa3d"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/characters/otherwhere-v-slick.world-character.ts","id":"01a0e9fc-d638-7740-abfc-ddd380e3190e"}
@@ -217,6 +220,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-parasite.lore.ts","id":"01a0e9fd-5acf-766f-8317-56cd53ad452a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-phryne.lore.ts","id":"01a0e9fd-9171-7da4-969f-8c50ab2b85a1"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-polite-war.lore.ts","id":"01a0e9fe-b555-765a-bc0a-ad7e5a628abb"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-poppy.lore.ts","id":"01a0e9fe-d7c0-71e3-8725-1d746491ac51"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-quenfi.lore.ts","id":"01a0e9fa-ee0d-764d-a532-e3d184b317ba"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-questor-grids.lore.ts","id":"01a0e9fb-e180-791f-9968-d2c2ab99d2bc"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-questor.lore.ts","id":"01a0e9f6-13bd-7b2a-a28c-6e493420d732"}
@@ -236,8 +240,10 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-seals.lore.ts","id":"01a0e9fa-d593-792d-9d3b-c192b7bc7c40"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-seers-of-itonia.lore.ts","id":"01a0e9f7-12e8-7e2f-8fe2-72f4bad18614"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-seminary-of-assassins.lore.ts","id":"01a0e9fc-7097-7834-84d2-12b4f0f08db4"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-seral.lore.ts","id":"01a0e9fe-d7c0-7a12-9360-334b0276ad35"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sereth.lore.ts","id":"01a0e9fa-ee0d-76f3-88b4-48e875c80ca6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-shai.lore.ts","id":"01a0e9f9-91ed-7a79-b34d-a28a0233e1e5"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-shom.lore.ts","id":"01a0e9fe-d7c0-7518-87c8-704a137ac0fb"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-shong.lore.ts","id":"01a0e9fa-2b5f-7c6d-bcbb-20b8a9693441"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-siblings-of-itonia.lore.ts","id":"01a0e9f7-12e8-714a-9f51-5b46384028d2"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sklias.lore.ts","id":"01a0e9fb-fb54-7450-b865-f2e3fbae796b"}
