@@ -84,6 +84,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "Denise believes the stranded story and takes Nala for a woman in trouble, not a liar.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Denise grew up on Chicago's South Side and has never lived out West.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
