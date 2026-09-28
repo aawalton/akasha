@@ -36,6 +36,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "She would sooner walk Nala into her ER to be seen than leave her on a train.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She knows a hospital sees anyone who walks in, with no ID or money needed.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
