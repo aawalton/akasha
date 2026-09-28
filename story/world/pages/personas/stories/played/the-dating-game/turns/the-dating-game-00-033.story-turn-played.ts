@@ -24,4 +24,5 @@ export const theDatingGame00033 = {
     "She is quiet a moment, and the evening settles around them among the stones.",
     '"Your father, and your grandfather," she says gently. "Tell me about them, if you want to."',
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
