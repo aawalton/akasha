@@ -67,6 +67,10 @@ export const otherwhereIiiUptownMemorialEr = {
       fact: "Denise clocks in at 5:30 and can stay with Nala only a few minutes before her shift.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "Wet socks come off at triage, and the ER gives her dry hospital socks with rubber treads.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
