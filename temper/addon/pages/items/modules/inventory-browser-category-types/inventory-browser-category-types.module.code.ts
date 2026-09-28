@@ -7,7 +7,7 @@ export interface CategoryTypesRow {
   readonly equipTypes?: readonly string[]
 }
 
-export type NumberByAddress = Readonly<Record<string, number>>
+type NumberByAddress = Readonly<Record<string, number>>
 
 export interface CategoryNumbers {
   readonly itemTypes: NumberByAddress
