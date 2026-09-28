@@ -45,7 +45,7 @@ function kept(held: unknown): boolean {
   return held !== null && held !== undefined
 }
 
-export function luaOf(held: unknown): lua.Expression {
+function luaOf(held: unknown): lua.Expression {
   if (typeof held === "string") return lua.createStringLiteral(held)
   if (typeof held === "number") return lua.createNumericLiteral(held)
   if (typeof held === "boolean") return lua.createBooleanLiteral(held)
@@ -126,7 +126,7 @@ function rootOf(context: TransformationContext): string {
   return root
 }
 
-export function pagesOfTypePlugin(pagesOf: PagesOf = valuesOfType): Plugin {
+function pagesOfTypePlugin(pagesOf: PagesOf = valuesOfType): Plugin {
   return {
     visitors: {
       [ts.SyntaxKind.CallExpression]: (node, context) =>
