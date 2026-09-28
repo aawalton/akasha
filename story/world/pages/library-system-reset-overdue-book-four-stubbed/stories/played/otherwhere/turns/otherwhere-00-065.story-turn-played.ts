@@ -10,7 +10,7 @@ export const otherwhere00065 = {
   position: 65,
   prose: "txt",
   characters: ["character-player/otherwhere-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: "I go back to the basement and sync with the core again.",
   beats: [
     "Nala winds down the spiral staircase into the round chamber, the amber light fading behind her.",
@@ -25,5 +25,5 @@ export const otherwhere00065 = {
     "The rest lies dark, the hospital wing among it.",
   ],
   lore: ["lore/otherwhere-universe"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
