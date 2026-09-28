@@ -34,4 +34,5 @@ export const otherwhere00041 = {
   ],
   lore: ["place/otherwhere-kitchen", "place/otherwhere-hall-back"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
