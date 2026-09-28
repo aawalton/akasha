@@ -4,6 +4,8 @@ export const image4e41e13017014138 = {
   id: "01a0e9ed-f1f6-74b3-97dd-e8e5042fe41a",
   type: "page-type/image",
   slug: "image-4e41e13017014138",
+  title: "Orange Kanga Under a Wide Blue Sky",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
