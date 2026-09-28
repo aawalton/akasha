@@ -32,7 +32,7 @@ import {
   slugsOf,
 } from "akasha/story/ui/modules/character-cover-panel/character-cover-panel.module.code.tsx"
 import { otherCharacters } from "akasha/story/ui/played-panel/pages/other-characters/other-characters.played-panel.ts"
-import { otherwherePlayerCharacter } from "akasha/story/ui/played-panel/pages/otherwhere-player-character/otherwhere-player-character.played-panel.ts"
+import { otherwhereTheLibraryPlayerCharacter } from "akasha/story/ui/played-panel/pages/otherwhere-the-library-player-character/otherwhere-the-library-player-character.played-panel.ts"
 import { playerCharacter } from "akasha/story/ui/played-panel/pages/player-character/player-character.played-panel.ts"
 import { playedPanel } from "akasha/story/ui/played-panel/played-panel.page-type.ts"
 import { characters } from "akasha/story/world/characters/properties/characters.multi-relation-property.ts"
@@ -105,7 +105,7 @@ async function seedsFor(
 
 const COVER_PANELS: readonly string[] = [
   playerCharacter.slug,
-  otherwherePlayerCharacter.slug,
+  otherwhereTheLibraryPlayerCharacter.slug,
   otherCharacters.slug,
 ].map((slug) => namedAs(playedPanel.slug, slug, null))
 

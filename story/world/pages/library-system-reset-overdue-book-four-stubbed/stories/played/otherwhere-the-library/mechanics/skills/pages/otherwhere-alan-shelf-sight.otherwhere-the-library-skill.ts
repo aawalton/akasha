@@ -5,5 +5,5 @@ export const otherwhereAlanShelfSight = {
   type: "page-type/otherwhere-the-library-skill",
   slug: "otherwhere-alan-shelf-sight",
   character: "character-player/otherwhere-alan",
-  skill: "world-skill/otherwhere-shelf-sight",
+  skill: "world-skill/otherwhere-the-library-shelf-sight",
 } as const satisfies OtherwhereTheLibrarySkill

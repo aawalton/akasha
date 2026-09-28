@@ -24,9 +24,9 @@ export const playedPanel = {
     "played-panel/time",
     "played-panel/tower-player-character",
     "played-panel/player-character",
-    "played-panel/otherwhere-player-character",
+    "played-panel/otherwhere-the-library-player-character",
     "played-panel/other-characters",
-    "played-panel/otherwhere-map",
+    "played-panel/otherwhere-the-library-map",
     "number-property/panel-position",
   ],
   decisions: [

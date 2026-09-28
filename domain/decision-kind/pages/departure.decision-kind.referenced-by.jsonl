@@ -3793,7 +3793,7 @@
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/modules/panel-turning/panel-turning.module.ts","id":"01a0c4a9-ae08-7564-ae1b-c05deab3547b"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/modules/pool-panel/pool-panel.module.ts","id":"01a0c4a1-be31-7274-b419-1776b8ae4de4"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/other-characters/other-characters.played-panel.ts","id":"01a0e81f-b53a-7ac1-a0c7-8ad8ee82a3aa"}
-{"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/otherwhere-player-character/otherwhere-player-character.played-panel.ts","id":"01a0e81f-b53b-713a-a982-cd2e49fd35ad"}
+{"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/otherwhere-the-library-player-character/otherwhere-the-library-player-character.played-panel.ts","id":"01a0e81f-b53b-713a-a982-cd2e49fd35ad"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/player-character/player-character.played-panel.ts","id":"01a0e81f-b53b-7dba-96d1-85a5175ffc7c"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/scene-cover/scene-cover.played-panel.ts","id":"01a0e7ff-1168-797c-8a26-c0ae6e03e8e5"}
 {"propertySlug":"decision-kind","path":"story/ui/played-panel/pages/tower-player-character/tower-player-character.played-panel.ts","id":"01a0e81e-5023-74e7-b569-9edb68b86b81"}
@@ -3850,9 +3850,9 @@
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/mechanics/ranks/wakefulness-tier/cornerstone-wakefulness-tier.page-type.ts","id":"01a0dee6-492e-7912-9c50-5b25d4ebb420"}
 {"propertySlug":"decision-kind","path":"story/world/pages/cornerstone/stories/written/cornerstone/mechanics/metrics/attributes/cornerstone-faculty.page-type.ts","id":"01a0dee4-467b-76be-b386-8f81567faec4"}
 {"propertySlug":"decision-kind","path":"story/world/pages/harem-hotel/stories/written/harem-hotel/mechanics/floors/harem-hotel-floor.page-type.ts","id":"01a0e822-39b3-7bc0-be8e-4a7093388b67"}
-{"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-action-check.world-check.ts","id":"01a0e35d-c37f-706b-b681-d6e791bc2b7a"}
-{"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-harm.world-check.ts","id":"01a0e363-de4d-707a-b798-b425b58c417a"}
-{"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-standing.world-check.ts","id":"01a0e365-14b9-7ffb-bde4-00f1f3dbfa23"}
+{"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-the-library-action-check.world-check.ts","id":"01a0e35d-c37f-706b-b681-d6e791bc2b7a"}
+{"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-the-library-harm.world-check.ts","id":"01a0e363-de4d-707a-b798-b425b58c417a"}
+{"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/checks/otherwhere-the-library-standing.world-check.ts","id":"01a0e365-14b9-7ffb-bde4-00f1f3dbfa23"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/modules/otherwhere-map-layout/otherwhere-map-layout.module.ts","id":"01a0e863-bc42-789f-a623-475bb544d5dd"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/modules/otherwhere-map/otherwhere-map.module.ts","id":"01a0e837-c54e-7f48-a2d2-3bab24d2082e"}
 {"propertySlug":"decision-kind","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/otherwhere-the-library-room.page-type.ts","id":"01a0e834-91e0-78f1-ba2a-bdbdabf299fd"}
