@@ -4,10 +4,13 @@ export const theDatingGame00037 = {
   id: "01a0e58f-c615-750f-a220-4668d84aa41c",
   type: "page-type/story-turn-played",
   slug: "the-dating-game-00-037",
+  ownLength: 102,
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 37,
-  turnStatus: "turn-status/writer",
+  prose: "txt",
+  characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
+  turnStatus: "turn-status/reviewers",
   action:
     "“Nothing ever close or far. It just is. Almost like standing outside of time and looking at it from the side, other than this one moment I’m experiencing now.”",
   beats: [
