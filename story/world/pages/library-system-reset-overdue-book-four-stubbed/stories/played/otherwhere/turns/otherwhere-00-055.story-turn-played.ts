@@ -7,8 +7,17 @@ export const otherwhere00055 = {
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 55,
-  turnStatus: "turn-status/game-master",
+  turnStatus: "turn-status/writer",
   action:
     "**Three thousand is a lot. Is there any magic available to make this faster? Telekineses? Divination? …Bookmancy? Even a library assistant?**",
+  beats: [
+    "Nala aims a thought at Links: three thousand is a lot; is there magic to make it faster?",
+    "She runs through the options: telekinesis, divination, bookmancy, even a library assistant?",
+    'Links: "Assistants? None. Not for centuries. You are the whole staff."',
+    'Links: "But linked to me, you can learn my own magic from my books, whatever your affinity."',
+    'Links: "There is a book that teaches sending a book home to its shelf. It is in here somewhere."',
+    "His eyes flicker blue, then dim: \"Lost in the heaps. I know it's here; I can't tell you where.\"",
+    'Links: "At fifty power my golems wake, and there are shelving golems among them."',
+  ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
 } as const satisfies StoryTurnPlayed
