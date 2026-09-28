@@ -10,4 +10,5 @@ export const otherwhereIii00003 = {
   stepStatus: "step-status/game-master",
   action: "I hit the warmth button again and stand up, getting ready to get on the train",
   lore: ["place/otherwhere-iii-red-line-car"],
+  endsAt: "2037-01-31T04:54:00.000Z",
 } as const satisfies StoryTurnPlayed
