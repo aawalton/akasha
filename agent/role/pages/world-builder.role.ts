@@ -40,6 +40,18 @@ export const worldBuilder = {
     },
     {
       directiveKind: "directive-kind/rule",
+      name: "Sole Describer",
+      act: "Write every mechanic's description yourself, as the What It Is rule on world-mechanic says.",
+      warrant:
+        "The player reads a mechanic by its description, and only you know what it may say unspoiled.",
+      aids: [
+        "At your step, describe each mechanic page of your story that states no description yet.",
+        "A game master or recorder filing a mechanic page leaves its description to you.",
+        "Rewrite a description the game master sends a reviewer's issue on, and land it before answering.",
+      ],
+    },
+    {
+      directiveKind: "directive-kind/rule",
       name: "Yes Or Not Yet",
       act: "Answer a game master's 'may I know X yet?' with yes and the telling, or with not yet alone.",
       warrant: "A reason given for not yet tells the game master what the not yet guards.",
