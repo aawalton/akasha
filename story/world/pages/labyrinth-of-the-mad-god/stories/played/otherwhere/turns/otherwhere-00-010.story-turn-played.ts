@@ -28,5 +28,6 @@ export const otherwhere00010 = {
   ],
   lore: ["lore/otherwhere-mire-monitors", "lore/otherwhere-death"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
+  recordedBy: ["story-recorder/memory"],
   endsAt: "2026-09-28T15:10:00.000Z",
 } as const satisfies StoryTurnPlayed
