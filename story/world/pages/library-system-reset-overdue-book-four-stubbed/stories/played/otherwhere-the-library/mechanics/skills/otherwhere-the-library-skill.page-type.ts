@@ -8,12 +8,20 @@ export const otherwhereTheLibrarySkill = {
   pluralSlug: "skills",
   extends: ["page-type/world-skill"],
   parts: [
-    "relation-property/otherwhere-skill-character",
-    "relation-property/otherwhere-skill-skill",
+    "relation-property/otherwhere-the-library-skill-character",
+    "relation-property/otherwhere-the-library-skill-skill",
   ],
   properties: [
-    { pageProperty: "relation-property/otherwhere-skill-character", required: true, many: false },
-    { pageProperty: "relation-property/otherwhere-skill-skill", required: true, many: false },
+    {
+      pageProperty: "relation-property/otherwhere-the-library-skill-character",
+      required: true,
+      many: false,
+    },
+    {
+      pageProperty: "relation-property/otherwhere-the-library-skill-skill",
+      required: true,
+      many: false,
+    },
   ],
   types: "ts",
   schema: "jsonl",

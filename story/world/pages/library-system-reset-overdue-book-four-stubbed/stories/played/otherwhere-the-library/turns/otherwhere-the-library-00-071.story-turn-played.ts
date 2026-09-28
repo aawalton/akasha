@@ -42,9 +42,9 @@ export const otherwhereTheLibrary00071 = {
     '"It hasn\'t taken" - Links set Counter Keeping to read now; grasped whole, a book grants its power',
   ],
   lore: [
-    "lore/otherwhere-universe",
-    "lore/otherwhere-peoples",
-    "lore/otherwhere-alan",
+    "lore/otherwhere-the-library-universe",
+    "lore/otherwhere-the-library-peoples",
+    "lore/otherwhere-the-library-alan",
     "place/otherwhere-main-hall",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],

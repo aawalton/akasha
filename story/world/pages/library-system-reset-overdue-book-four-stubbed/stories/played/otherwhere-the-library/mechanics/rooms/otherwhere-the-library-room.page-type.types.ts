@@ -1,16 +1,16 @@
 import type { Title } from "akasha/page/properties/title.text-property.types.ts"
 import type { WorldMechanic } from "akasha/story/world/mechanics/world-mechanic.page-type.types.ts"
-import type { OtherwhereRoomDepth } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-room-depth.computed-property.types.ts"
-import type { OtherwhereRoomExits } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-room-exits.computed-property.types.ts"
-import type { OtherwhereRoomLit } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-room-lit.boolean-property.types.ts"
-import type { OtherwhereRoomPlace } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-room-place.relation-property.types.ts"
-import type { OtherwhereRoomShownTo } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-room-shown-to.multi-relation-property.types.ts"
+import type { OtherwhereTheLibraryRoomDepth } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-depth.computed-property.types.ts"
+import type { OtherwhereTheLibraryRoomExits } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-exits.computed-property.types.ts"
+import type { OtherwhereTheLibraryRoomLit } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-lit.boolean-property.types.ts"
+import type { OtherwhereTheLibraryRoomPlace } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-place.relation-property.types.ts"
+import type { OtherwhereTheLibraryRoomShownTo } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/properties/otherwhere-the-library-room-shown-to.multi-relation-property.types.ts"
 
 export type OtherwhereTheLibraryRoom = WorldMechanic & {
   title: Title
-  lit: OtherwhereRoomLit
-  shownTo?: OtherwhereRoomShownTo
-  place?: OtherwhereRoomPlace
-  depth?: OtherwhereRoomDepth
-  exits?: OtherwhereRoomExits
+  lit: OtherwhereTheLibraryRoomLit
+  shownTo?: OtherwhereTheLibraryRoomShownTo
+  place?: OtherwhereTheLibraryRoomPlace
+  depth?: OtherwhereTheLibraryRoomDepth
+  exits?: OtherwhereTheLibraryRoomExits
 }

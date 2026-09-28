@@ -1,1 +1,0 @@
-export type OtherwhereRoomLit = boolean
