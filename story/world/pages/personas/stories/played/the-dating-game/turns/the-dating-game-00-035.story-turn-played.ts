@@ -7,7 +7,7 @@ export const theDatingGame00035 = {
   unit: "unit/words",
   partOfCollections: ["story-played/the-dating-game"],
   position: 35,
-  turnStatus: "turn-status/world-builder",
+  turnStatus: "turn-status/game-master",
   action:
     "“My grandfather, my father’s father, he just passed a few weeks ago. Last one of my grandparents to go, all of them lived to their late 80’s or 90’s. He was 97. First one in his direct line to live past 45, as far back as he could track. Never thought he’d live that long. Didn’t want to for the last ten years, but made peace with it in the end.”",
 } as const satisfies StoryTurnPlayed
