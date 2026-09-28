@@ -232,6 +232,7 @@
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/model.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/negative-prompt-file.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/negative-prompt.argument.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/new-fact.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/new-frames.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/no-persist.argument.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"argument.page-type.types.ts","path":"command/argument/pages/no-upload.argument.ts","typed":true,"deferred":false}

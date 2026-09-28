@@ -27,6 +27,7 @@ import { takenFor } from "akasha/command/argument/modules/taking/argument-taking
 import { draft as draftArgument } from "akasha/command/argument/pages/draft.argument.ts"
 import { fact as factArgument } from "akasha/command/argument/pages/fact.argument.ts"
 import { knower as knowerArgument } from "akasha/command/argument/pages/knower.argument.ts"
+import { newFact as newFactArgument } from "akasha/command/argument/pages/new-fact.argument.ts"
 import { page as pageArgument } from "akasha/command/argument/pages/page.argument.ts"
 import {
   answering,
@@ -64,7 +65,7 @@ import { loreSecrets } from "akasha/story/lore/properties/lore-secrets.file-prop
 import { loreDisclosure } from "akasha/story/lore-disclosure/lore-disclosure.page-type.ts"
 import { gameMaster } from "akasha/story/lore-disclosure/pages/game-master.lore-disclosure.ts"
 
-const NAMED = [pageArgument, factArgument, knowerArgument, draftArgument] as const
+const NAMED = [pageArgument, factArgument, knowerArgument, newFactArgument, draftArgument] as const
 
 const HELD = "jsonl"
 
@@ -88,6 +89,7 @@ export type Taken = {
   readonly page: string
   readonly fact: string
   readonly knowers: readonly string[]
+  readonly adds: boolean
   readonly drafts: boolean
 }
 
@@ -102,7 +104,7 @@ export function taken(argv: readonly string[], calledAs: string): Read {
   if (named === "") return { refused: `\`${pageArgument.said}\` names no page` }
   if (said === "") return { refused: `\`${factArgument.said}\` names no fact` }
   const knowers = held.knower.map((one) => one.trim()).filter((one) => one !== "")
-  return { page: named, fact: said, knowers, drafts: held.draft }
+  return { page: named, fact: said, knowers, adds: held.newFact, drafts: held.draft }
 }
 
 export type Reading = {
@@ -142,7 +144,12 @@ export function knowersFor(named: readonly string[]): readonly string[] {
   return [GAME_MASTER, ...new Set(named.filter((one) => one !== GAME_MASTER))]
 }
 
-export function toldIn(telling: Telling, fact: string, named: readonly string[]): Telling | string {
+export function toldIn(
+  telling: Telling,
+  fact: string,
+  named: readonly string[],
+  adds = false
+): Telling | string {
   const knowers = knowersFor(named)
   const at = telling.told.findIndex((one) => one.fact === fact)
   const was = telling.told[at]
@@ -156,9 +163,14 @@ export function toldIn(telling: Telling, fact: string, named: readonly string[])
     }
   }
   const held = telling.secrets.indexOf(fact)
-  if (held < 0) return `no fact on the page reads \`${fact}\` word for word`
+  if (held < 0 && !adds) {
+    return `no fact on the page reads \`${fact}\` word for word, and \`${newFactArgument.said}\` adds a fact the page holds nowhere`
+  }
   if (fact.length > loreFact.maxLength) {
-    return `\`${fact}\` runs to ${fact.length} characters, and a told fact holds at most ${loreFact.maxLength}, so the world builder rewords that secret to fit before it is told`
+    const runs = `\`${fact}\` runs to ${fact.length} characters, and a told fact holds at most ${loreFact.maxLength}`
+    return held < 0
+      ? runs
+      : `${runs}, so the world builder rewords that secret to fit before it is told`
   }
   return {
     told: [...telling.told, { fact, knowers }],
@@ -254,7 +266,7 @@ export function askedFor(held: Taken, reading: Reading): readonly Asking[] | str
     told: recordsIn(value?.[loreFacts.propertySlug]),
     secrets: secretsAt(reading, secretsFile),
   }
-  const now = toldIn(was, held.fact, held.knowers)
+  const now = toldIn(was, held.fact, held.knowers, held.adds)
   if (typeof now === "string") return now
   const text = reading.textOf(at)
   if (text === null) return `\`${at}\` holds no body to tell a fact on`

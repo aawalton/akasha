@@ -37,18 +37,29 @@ const BODY = [
 
 test("a call names the page, the fact and each knower", () => {
   const read = taken(["--page", PAGE, "--fact", "It rains.", "--knower", HER], CALLED)
-  expect(read).toEqual({ page: PAGE, fact: "It rains.", knowers: [HER], drafts: false })
+  expect(read).toEqual({
+    page: PAGE,
+    fact: "It rains.",
+    knowers: [HER],
+    adds: false,
+    drafts: false,
+  })
 })
 
 test("a call naming no knower tells the game master alone", () => {
   const read = taken(["--page", PAGE, "--fact", "It rains."], CALLED)
-  expect(read).toEqual({ page: PAGE, fact: "It rains.", knowers: [], drafts: false })
+  expect(read).toEqual({ page: PAGE, fact: "It rains.", knowers: [], adds: false, drafts: false })
   expect(knowersFor([])).toEqual([GAME_MASTER])
 })
 
 test("a call saying --draft drafts rather than lands", () => {
   const read = taken(["--page", PAGE, "--fact", "It rains.", "--draft"], CALLED)
-  expect(read).toEqual({ page: PAGE, fact: "It rains.", knowers: [], drafts: true })
+  expect(read).toEqual({ page: PAGE, fact: "It rains.", knowers: [], adds: false, drafts: true })
+})
+
+test("a call saying --new-fact adds a fact the page holds nowhere", () => {
+  const read = taken(["--page", PAGE, "--fact", "It rains.", "--new-fact"], CALLED)
+  expect(read).toEqual({ page: PAGE, fact: "It rains.", knowers: [], adds: true, drafts: false })
 })
 
 const AT = "story/world/pages/held/lore/grove.lore.ts"
@@ -80,9 +91,32 @@ test("a tell drafts the page as the landing's formatter lays it out", () => {
   expect(Reflect.get(asked[0]?.given ?? {}, "new")).toBe("laid\n")
 })
 
-function tellOf(fact: string, knowers: readonly string[] = [HER]): Taken {
-  return { page: PAGE, fact, knowers, drafts: true }
+function tellOf(fact: string, knowers: readonly string[] = [HER], adds = false): Taken {
+  return { page: PAGE, fact, knowers, adds, drafts: true }
 }
+
+test("a new fact is told onto the page and leaves the secrets file untouched", () => {
+  const bodies = new Map([
+    [AT, BODY],
+    [SECRETS_AT, '"one"\n'],
+  ])
+  const asked = askedFor(tellOf("It rains.", [HER], true), readingOf(bodies, []))
+  if (typeof asked === "string") throw new Error(asked)
+  expect(asked.map((one) => Reflect.get(one.given, "at"))).toEqual([AT])
+  expect(JSON.stringify(asked)).toContain(
+    `fact: \\"It rains.\\", knowers: [\\"${GAME_MASTER}\\", \\"${HER}\\"]`
+  )
+})
+
+test("a new fact that reads as a secret word for word tells that secret", () => {
+  const bodies = new Map([
+    [AT, BODY],
+    [SECRETS_AT, '"one"\n"two"\n'],
+  ])
+  const asked = askedFor(tellOf("two", [HER], true), readingOf(bodies, []))
+  if (typeof asked === "string") throw new Error(asked)
+  expect(asked.map((one) => Reflect.get(one.given, "at"))).toEqual([AT, SECRETS_AT])
+})
 
 test("a tell reads the page and its secrets through the reading it is given", () => {
   const bodies = new Map([
@@ -175,6 +209,20 @@ test("a fact already told gains the knowers it lacks and loses none", () => {
 
 test("a fact the page does not hold is refused", () => {
   expect(typeof toldIn({ told: [], secrets: ["one"] }, "none", [])).toBe("string")
+})
+
+test("a fact said to be new is told, and the secrets stay as they were", () => {
+  expect(toldIn({ told: [], secrets: ["one"] }, "none", [HER], true)).toEqual({
+    told: [{ fact: "none", knowers: [GAME_MASTER, HER] }],
+    secrets: ["one"],
+  })
+})
+
+test("a new fact longer than a fact may run is refused", () => {
+  const long = "x".repeat(101)
+  const said = toldIn({ told: [], secrets: [] }, long, [], true)
+  expect(String(said)).toContain("at most 100")
+  expect(String(said)).not.toContain("secret")
 })
 
 test("a secret longer than a fact may run is refused rather than told", () => {

@@ -32,6 +32,15 @@ export const storyTell = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement:
+        "A fact the page holds nowhere is refused, unless the call says it is new, when it is told.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A new fact is told at once rather than kept first among the secrets.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A page whose last secret is told keeps no secrets file.",
     },
     {
@@ -73,6 +82,7 @@ export const storyTell = {
     { argument: "argument/page", required: true },
     { argument: "argument/fact", required: true },
     { argument: "argument/knower", repeats: true },
+    { argument: "argument/new-fact" },
     { argument: "argument/draft" },
   ],
 } as const satisfies Command
