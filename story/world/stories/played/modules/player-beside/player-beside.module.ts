@@ -26,7 +26,7 @@ export const playerBeside = {
     },
     {
       decisionKind: "decision-kind/departure",
-      statement: "A read that refuses is answered nothing rather than thrown on.",
+      statement: "A read that refuses is reported and answered nothing rather than thrown on.",
     },
     {
       decisionKind: "decision-kind/absence",

@@ -1,8 +1,8 @@
 "use client"
 
 import { namedAs } from "akasha/page/modules/address/page-address.module.code.ts"
-import { askComposed } from "akasha/page/query/modules/store-spelled-asking/store-spelled-asking.module.code.ts"
 import { characterPlayer } from "akasha/story/world/characters/character-player/character-player.page-type.ts"
+import { askedLoudly } from "akasha/story/world/stories/played/modules/played-asking/played-asking.module.code.ts"
 import { storyPlayed } from "akasha/story/world/stories/played/story-played.page-type.ts"
 
 const EXTERNAL_KEY = "externalId"
@@ -30,12 +30,12 @@ export function playerIn(stories: readonly Played[], players: readonly Played[])
 
 export async function playerOf(game: string): Promise<string | null> {
   const [stories, players] = await Promise.all([
-    askComposed({
+    askedLoudly({
       "page-type": storyPlayed.slug,
       where: { externalId: { is: game } },
       keys: [EXTERNAL_KEY, SLUG_KEY],
     }),
-    askComposed({ "page-type": characterPlayer.slug, keys: [SLUG_KEY, STORY_KEY] }),
+    askedLoudly({ "page-type": characterPlayer.slug, keys: [SLUG_KEY, STORY_KEY] }),
   ])
   if (!stories.ok || !players.ok) return null
   return playerIn(stories.answer.rows, players.answer.rows)
