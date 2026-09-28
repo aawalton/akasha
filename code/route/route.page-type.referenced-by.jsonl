@@ -171,6 +171,7 @@
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-page-types/innworld-api-page-types.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-api-pages/innworld-api-pages.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-home/innworld-home.route.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-nav-view/innworld-nav-view.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-no-such-page/innworld-no-such-page.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-page-detail/innworld-page-detail.route.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"route.page-type.types.ts","path":"product/wandering-inn-wiki/web/routes/innworld-page-listing/innworld-page-listing.route.ts","typed":true,"deferred":false}

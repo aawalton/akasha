@@ -14,6 +14,7 @@ export const wanderingInnWikiWebRoutes = {
     "route/innworld-api-page-types",
     "route/innworld-api-pages",
     "route/innworld-home",
+    "route/innworld-nav-view",
     "route/innworld-page-detail",
     "route/innworld-page-listing",
     "route/innworld-no-such-page",

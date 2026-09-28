@@ -3,6 +3,7 @@ import { index, layout, type RouteConfig, route } from "@react-router/dev/routes
 export default [
   layout("routes/_app-layout.tsx", [
     index("routes/innworld-home/innworld-home.route.code.tsx"),
+    route("nav/:pageHrefParam", "routes/innworld-nav-view/innworld-nav-view.route.code.tsx"),
     route(
       ":pageTypeSlug/:pageHrefParam",
       "routes/innworld-page-detail/innworld-page-detail.route.code.tsx"
