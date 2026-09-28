@@ -14,7 +14,7 @@ export const otherwhereGlassrun = {
     },
     {
       fact: "It meets the Black Shore about two miles south of where Nala woke, between double palm rows.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "Its lowest half mile runs brackish with the tide, too salt to drink.",

@@ -4,13 +4,14 @@ export const otherwhere00007 = {
   id: "01a0e9da-5202-7077-9fdd-b564f5759119",
   type: "page-type/story-turn-played",
   slug: "otherwhere-00-007",
+  cover: "image/image-51d01810941da535",
   ownLength: 437,
   unit: "unit/words",
   partOfCollections: ["story-played/otherwhere"],
   position: 7,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/recorders",
+  stepStatus: "step-status/player",
   action: "I keep circling the beach, looking for a source of fresh water",
   beats: [
     "Nala sets off south along the shore to look for fresh water, toward the taller palms.",
@@ -41,5 +42,5 @@ export const otherwhere00007 = {
     "place/otherwhere-lowland-wood",
   ],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/memory", "story-recorder/mechanics"],
+  recordedBy: ["story-recorder/memory", "story-recorder/mechanics", "story-recorder/picture"],
 } as const satisfies StoryTurnPlayed

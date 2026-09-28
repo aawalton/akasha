@@ -9,7 +9,7 @@ export const otherwhereMireMonitors = {
   facts: [
     {
       fact: "Mire monitors are lizards seven feet long, mud-brown with a purple sheen in sunlight.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "A mire monitor has rows of hooked teeth, black claws and a tail half its length.",

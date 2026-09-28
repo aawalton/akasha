@@ -42,7 +42,7 @@ export const otherwhereBlackShore = {
     },
     {
       fact: "A hole dug in the sand anywhere on the beach fills with seawater, salt as the sea.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-nala"],
     },
     {
       fact: "The sea is salt, and drinking it deepens thirst rather than easing it.",
