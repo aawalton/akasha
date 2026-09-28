@@ -6,6 +6,7 @@
 {"propertySlug":"import","fileName":"place.page-type.ts","path":"story/world/stories/played/turns/modules/turn-lifecycle/turn-lifecycle.module.code.ts","typed":false,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/cornerstone/places/cornerstone-the-founding-camp-the-bound-ground.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-1.place.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-2.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-core-chamber.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-hall-back.place.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"place.page-type.types.ts","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-hospital-wing.place.ts","typed":true,"deferred":false}
