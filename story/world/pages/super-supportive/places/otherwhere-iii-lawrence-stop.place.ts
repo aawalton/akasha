@@ -11,6 +11,10 @@ export const otherwhereIiiLawrenceStop = {
       fact: "Lawrence is a rebuilt elevated station with a glass-walled platform, a stair and an elevator.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "The stair and the Lawrence Avenue sidewalk are slush over salt, with new snow blowing.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
   within: "place/otherwhere-iii-chicago",
