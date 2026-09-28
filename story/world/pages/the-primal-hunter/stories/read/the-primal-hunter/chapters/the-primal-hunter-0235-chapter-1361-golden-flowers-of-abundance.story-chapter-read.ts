@@ -4,6 +4,7 @@ export const thePrimalHunter0235Chapter1361GoldenFlowersOfAbundance = {
   id: "01a06730-4e42-7cf6-ad89-dd2767e99cf7",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0235-chapter-1361-golden-flowers-of-abundance",
+  ownProgress: 2667,
   title: "Chapter 1361 - Golden Flowers of Abundance",
   story: "story-read/the-primal-hunter",
   position: 235,

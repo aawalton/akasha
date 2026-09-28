@@ -4,6 +4,7 @@ export const thePrimalHunter0185Chapter1388SharpenedFangs = {
   id: "01a0cf05-3872-70d7-8a9e-9edeb02cf86f",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0185-chapter-1388-sharpened-fangs",
+  ownProgress: 2680,
   position: 185,
   publishedAt: "2026-09-23",
   unit: "unit/words",

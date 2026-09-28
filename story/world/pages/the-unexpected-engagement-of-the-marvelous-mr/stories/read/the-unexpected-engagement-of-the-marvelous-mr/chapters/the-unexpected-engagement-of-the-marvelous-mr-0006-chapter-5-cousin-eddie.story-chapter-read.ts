@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0006Chapter5CousinEddie = {
   id: "01a06730-4e34-7684-bcfd-77ddba0f9262",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0006-chapter-5-cousin-eddie",
+  ownProgress: 1765,
   title: "Chapter 5 - Cousin Eddie",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 6,

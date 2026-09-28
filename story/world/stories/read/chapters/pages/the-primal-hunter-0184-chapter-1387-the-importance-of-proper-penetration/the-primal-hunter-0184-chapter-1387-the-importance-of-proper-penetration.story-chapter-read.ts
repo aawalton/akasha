@@ -4,6 +4,7 @@ export const thePrimalHunter0184Chapter1387TheImportanceOfProperPenetration = {
   id: "01a0c9dc-9d8b-7f83-a879-8bd3efce2fa2",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0184-chapter-1387-the-importance-of-proper-penetration",
+  ownProgress: 2761,
   position: 184,
   publishedAt: "2026-09-22",
   unit: "unit/words",

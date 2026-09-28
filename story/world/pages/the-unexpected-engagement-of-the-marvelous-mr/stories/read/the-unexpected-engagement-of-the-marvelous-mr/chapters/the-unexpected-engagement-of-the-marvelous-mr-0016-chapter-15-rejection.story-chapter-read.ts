@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0016Chapter15Rejection = {
   id: "01a06730-4e39-77c6-8b78-52fb2f3ab902",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0016-chapter-15-rejection",
+  ownProgress: 2253,
   title: "Chapter 15 - Rejection",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 16,

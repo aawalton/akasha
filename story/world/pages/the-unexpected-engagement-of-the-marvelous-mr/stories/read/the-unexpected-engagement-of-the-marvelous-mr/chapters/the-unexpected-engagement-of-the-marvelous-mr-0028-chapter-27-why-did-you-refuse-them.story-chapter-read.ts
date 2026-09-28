@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0028Chapter27WhyDidYouRefuse
   id: "01a06730-4e3d-721a-ac04-1916385e1af9",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0028-chapter-27-why-did-you-refuse-them",
+  ownProgress: 3148,
   title: "Chapter 27 - Why Did You Refuse Them",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 28,

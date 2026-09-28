@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0012Chapter11AVisitToTheGroo
   id: "01a06730-4e38-7acf-8362-dfd88e1e04b2",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0012-chapter-11-a-visit-to-the-groom",
+  ownProgress: 2879,
   title: "Chapter 11 - A Visit to the Groom",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 12,

@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0013Chapter12TheRideHome = {
   id: "01a06730-4e39-7982-a524-43cf21f14e9d",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0013-chapter-12-the-ride-home",
+  ownProgress: 2785,
   title: "Chapter 12 - The Ride Home",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 13,

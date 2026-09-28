@@ -4,6 +4,7 @@ export const thePrimalHunter0231Chapter1357TrioOfOverpoweredManiacs = {
   id: "01a06730-4e41-7abe-ae86-5e4de9d8a6c9",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0231-chapter-1357-trio-of-overpowered-maniacs",
+  ownProgress: 2817,
   title: "Chapter 1357 - Trio of Overpowered Maniacs",
   story: "story-read/the-primal-hunter",
   position: 231,

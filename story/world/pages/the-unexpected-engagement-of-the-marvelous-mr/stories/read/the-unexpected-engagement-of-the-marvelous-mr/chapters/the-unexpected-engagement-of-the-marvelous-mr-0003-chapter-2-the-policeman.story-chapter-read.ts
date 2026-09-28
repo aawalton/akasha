@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0003Chapter2ThePoliceman = {
   id: "01a06730-4e34-7943-97d2-001786a2bf84",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0003-chapter-2-the-policeman",
+  ownProgress: 2279,
   title: "Chapter 2 - The Policeman",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 3,

@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0002Chapter1TheInvitationsAr
   id: "01a06730-4e34-7510-8885-e006af6a2702",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0002-chapter-1-the-invitations-arrive",
+  ownProgress: 2179,
   title: "Chapter 1 - The Invitations Arrive",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 2,

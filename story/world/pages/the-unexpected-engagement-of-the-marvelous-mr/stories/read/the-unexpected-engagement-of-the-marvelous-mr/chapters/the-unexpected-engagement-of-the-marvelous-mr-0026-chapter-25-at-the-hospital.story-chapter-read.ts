@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0026Chapter25AtTheHospital =
   id: "01a06730-4e3c-75a0-a908-a81397927f3c",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0026-chapter-25-at-the-hospital",
+  ownProgress: 1865,
   title: "Chapter 25 - At the Hospital",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 26,

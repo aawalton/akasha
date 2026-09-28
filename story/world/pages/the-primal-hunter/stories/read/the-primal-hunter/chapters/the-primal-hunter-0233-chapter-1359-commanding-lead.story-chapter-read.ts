@@ -4,6 +4,7 @@ export const thePrimalHunter0233Chapter1359CommandingLead = {
   id: "01a06730-4e42-720e-ba12-66031018a472",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0233-chapter-1359-commanding-lead",
+  ownProgress: 2751,
   title: "Chapter 1359 - Commanding Lead",
   story: "story-read/the-primal-hunter",
   position: 233,

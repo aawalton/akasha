@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0007Chapter6TheExchangeOfLet
   id: "01a06730-4e34-7955-af1c-8d50b6a1d19d",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0007-chapter-6-the-exchange-of-letters",
+  ownProgress: 2156,
   title: "Chapter 6 - The Exchange of Letters",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 7,

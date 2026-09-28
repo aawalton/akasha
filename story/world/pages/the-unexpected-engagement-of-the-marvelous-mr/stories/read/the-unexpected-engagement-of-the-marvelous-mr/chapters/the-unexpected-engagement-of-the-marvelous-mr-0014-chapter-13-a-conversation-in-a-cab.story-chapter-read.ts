@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0014Chapter13AConversationIn
   id: "01a06730-4e39-72ce-9af5-7f147ecb8634",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0014-chapter-13-a-conversation-in-a-cab",
+  ownProgress: 1495,
   title: "Chapter 13 - A Conversation in a Cab",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 14,

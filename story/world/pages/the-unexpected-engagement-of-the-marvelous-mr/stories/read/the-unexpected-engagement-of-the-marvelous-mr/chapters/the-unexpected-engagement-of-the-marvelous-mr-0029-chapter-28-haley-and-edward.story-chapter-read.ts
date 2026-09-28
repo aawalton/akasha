@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0029Chapter28HaleyAndEdward 
   id: "01a06730-4e3d-768d-bcdd-bcf9f7fedc55",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0029-chapter-28-haley-and-edward",
+  ownProgress: 2659,
   title: "Chapter 28 - Haley and Edward",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 29,

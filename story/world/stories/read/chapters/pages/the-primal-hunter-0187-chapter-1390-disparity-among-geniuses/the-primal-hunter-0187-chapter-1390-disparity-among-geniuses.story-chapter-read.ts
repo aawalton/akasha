@@ -4,6 +4,7 @@ export const thePrimalHunter0187Chapter1390DisparityAmongGeniuses = {
   id: "01a0d94e-ebab-7e6e-b103-cbeecae676fe",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0187-chapter-1390-disparity-among-geniuses",
+  ownProgress: 2850,
   position: 187,
   publishedAt: "2026-09-25",
   unit: "unit/words",

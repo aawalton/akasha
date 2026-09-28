@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0005Chapter4TheEveningAndMor
   id: "01a06730-4e34-730d-8728-806bd9915c8f",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0005-chapter-4-the-evening-and-morning-editions",
+  ownProgress: 2442,
   title: "Chapter 4 - The Evening and Morning Editions",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 5,

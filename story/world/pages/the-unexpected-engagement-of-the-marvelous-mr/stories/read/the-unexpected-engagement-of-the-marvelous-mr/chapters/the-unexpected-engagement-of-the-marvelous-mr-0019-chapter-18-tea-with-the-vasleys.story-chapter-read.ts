@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0019Chapter18TeaWithTheVasle
   id: "01a06730-4e3a-7047-ad6f-f2bea5e4e804",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0019-chapter-18-tea-with-the-vasleys",
+  ownProgress: 1037,
   title: "Chapter 18 - Tea with the Vasleys",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 19,

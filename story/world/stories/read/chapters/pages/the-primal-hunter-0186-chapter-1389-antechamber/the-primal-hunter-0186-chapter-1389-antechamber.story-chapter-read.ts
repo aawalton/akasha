@@ -4,6 +4,7 @@ export const thePrimalHunter0186Chapter1389Antechamber = {
   id: "01a0d42b-8211-7de6-93a7-b2157f6455e4",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0186-chapter-1389-antechamber",
+  ownProgress: 2910,
   position: 186,
   publishedAt: "2026-09-24",
   unit: "unit/words",

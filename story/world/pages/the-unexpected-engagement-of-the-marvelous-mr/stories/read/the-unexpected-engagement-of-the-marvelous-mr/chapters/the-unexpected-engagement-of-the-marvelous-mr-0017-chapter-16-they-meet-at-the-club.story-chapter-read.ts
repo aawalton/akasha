@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0017Chapter16TheyMeetAtTheCl
   id: "01a06730-4e39-76f6-a672-6dbb1abde24a",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0017-chapter-16-they-meet-at-the-club",
+  ownProgress: 2034,
   title: "Chapter 16 - They Meet at the Club",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 17,

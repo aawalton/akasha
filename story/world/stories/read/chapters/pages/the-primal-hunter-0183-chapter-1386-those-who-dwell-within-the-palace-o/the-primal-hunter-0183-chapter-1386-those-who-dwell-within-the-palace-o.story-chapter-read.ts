@@ -4,6 +4,7 @@ export const thePrimalHunter0183Chapter1386ThoseWhoDwellWithinThePalaceO = {
   id: "01a0c4b7-0c7e-723a-898f-56d9fa4c1859",
   type: "page-type/story-chapter-read",
   slug: "the-primal-hunter-0183-chapter-1386-those-who-dwell-within-the-palace-o",
+  ownProgress: 2585,
   position: 183,
   publishedAt: "2026-09-21",
   unit: "unit/words",

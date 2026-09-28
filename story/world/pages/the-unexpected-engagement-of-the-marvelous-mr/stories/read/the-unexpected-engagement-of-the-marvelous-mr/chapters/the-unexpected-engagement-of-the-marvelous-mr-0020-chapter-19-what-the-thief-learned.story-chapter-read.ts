@@ -4,6 +4,7 @@ export const theUnexpectedEngagementOfTheMarvelousMr0020Chapter19WhatTheThiefLea
   id: "01a06730-4e3a-73a8-b5ec-37cdeeb53966",
   type: "page-type/story-chapter-read",
   slug: "the-unexpected-engagement-of-the-marvelous-mr-0020-chapter-19-what-the-thief-learned",
+  ownProgress: 1925,
   title: "Chapter 19 - What the Thief Learned",
   story: "story-read/the-unexpected-engagement-of-the-marvelous-mr",
   position: 20,
