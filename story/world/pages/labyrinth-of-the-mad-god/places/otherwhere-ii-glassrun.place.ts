@@ -1,9 +1,9 @@
 import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
 
-export const otherwhereGlassrun = {
+export const otherwhereIiGlassrun = {
   id: "01a0e98e-a9b8-7490-a8a0-e6e43c6bc249",
   type: "page-type/place",
-  slug: "otherwhere-glassrun",
+  slug: "otherwhere-ii-glassrun",
   title: "The Glassrun",
   world: "world/labyrinth-of-the-mad-god",
   within: "place/otherwhere-ii-cinder-isle",

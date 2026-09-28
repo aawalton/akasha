@@ -499,8 +499,6 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/harem-hotel/lore/harem-hotel-wren.lore.ts","id":"01a0e839-1d44-7ef7-8480-b9ced0184381"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-1.place.ts","id":"01a0e839-1d45-7f73-8fd6-eb4e4e6f7e63"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/harem-hotel/places/harem-hotel-floor-2.place.ts","id":"01a0e85a-e945-7e32-8fc8-e739f5f158e9"}
-{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-cinder-isle-plants.lore.ts","id":"01a0e98e-a9b7-717a-95e2-9c9de6da43f9"}
-{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-copperbacks.lore.ts","id":"01a0e98e-a9b7-7a81-92ea-4edc292ed81c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-abilities.lore.ts","id":"01a0e9a3-9f50-71f9-9927-8bc2e235e4d4"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-ability-paths.lore.ts","id":"01a0e9d8-1fa6-7c50-b714-f9ae4d9b412c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-alma.lore.ts","id":"01a0e9ce-117e-7562-a3d5-3c023027438a"}
@@ -519,6 +517,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-bonecrunchers.lore.ts","id":"01a0e9c0-87b2-7dea-b149-93bd925ccbff"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-bret.lore.ts","id":"01a0e9ca-c7c3-7652-9583-7c60b02e8526"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-challenge-constructs.lore.ts","id":"01a0e9c4-861d-725b-ba6a-8cfefbdcb85b"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-cinder-isle-plants.lore.ts","id":"01a0e98e-a9b7-717a-95e2-9c9de6da43f9"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-cinder-isle-small-life.lore.ts","id":"01a0e99c-0532-74e1-a8b8-97ffcb0cb429"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-city-buildings.lore.ts","id":"01a0e9d4-c3d9-7795-b74a-1ef9196a4d91"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-city-tiers-and-roles.lore.ts","id":"01a0e9da-a1a2-75f9-9195-54aec6138fa3"}
@@ -528,6 +527,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-concepts.lore.ts","id":"01a0e9da-48af-762f-8f03-e2a3fffd0529"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-conduit-crayfish.lore.ts","id":"01a0e9c2-fe14-7893-8510-53df94ff9d57"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-consumables.lore.ts","id":"01a0e9d3-bf2d-7cfa-a2ff-c408db8f3d9b"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-copperbacks.lore.ts","id":"01a0e98e-a9b7-7a81-92ea-4edc292ed81c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-coyotes.lore.ts","id":"01a0e9c3-c616-7d18-b318-9776a4f73101"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-creatures.lore.ts","id":"01a0e9a5-b2a2-71b2-ba8d-b054010e2d2b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-crimson-beetles.lore.ts","id":"01a0e9c3-c617-75f1-b31c-8075c5705eb8"}
@@ -566,6 +566,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-guardian-of-the-tower.lore.ts","id":"01a0e9ce-df76-7de1-80d9-86b38e3073b0"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-herald-of-slaughter.lore.ts","id":"01a0e9c5-5f88-7c2c-9d09-d851585521ff"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-hollow-god.lore.ts","id":"01a0e9c7-1b29-7ada-9e58-78a19622330b"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-interface.lore.ts","id":"01a0e9a4-b08a-7a48-8816-c684d593aaf0"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-item-cores-and-crafting.lore.ts","id":"01a0e9d0-bfd6-78b7-9092-65e31ac44397"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-item-modifications.lore.ts","id":"01a0e9d0-bfd6-77de-a50e-7d43f9ca9833"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-item-rarity.lore.ts","id":"01a0e9d0-bfd7-76b8-85ab-f3bd5c0985e0"}
@@ -592,6 +593,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-magitech.lore.ts","id":"01a0e9d4-c3da-71d5-a2ca-91499a345041"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-mana-frequencies.lore.ts","id":"01a0e9d9-2740-751c-8742-641f4a1ba398"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-meta-and-secondary.lore.ts","id":"01a0e9da-48b0-7531-b92c-47652abd338c"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-mire-monitors.lore.ts","id":"01a0e98e-a9b7-7f57-b9e0-258856271076"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-mirium-and-flo.lore.ts","id":"01a0e9ca-c7c4-78a4-b806-58a1245b964c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-monster-ants.lore.ts","id":"01a0e9c4-861d-79ab-8d21-6871cc04eda3"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-multiverse.lore.ts","id":"01a0e9a5-b2a3-7e17-96c9-c05fc7ca108e"}
@@ -667,12 +669,9 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-yoro.lore.ts","id":"01a0e9cd-42e7-73cc-9e9f-c306b3e59bdf"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-zenith.lore.ts","id":"01a0e9c9-1a4c-7a57-977f-a90231ee56f4"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-ii-zora.lore.ts","id":"01a0e9cf-bd37-704e-9e18-a7955b96ec55"}
-{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-interface.lore.ts","id":"01a0e9a4-b08a-7a48-8816-c684d593aaf0"}
-{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/lore/otherwhere-mire-monitors.lore.ts","id":"01a0e98e-a9b7-7f57-b9e0-258856271076"}
-{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-black-shore.place.ts","id":"01a0e984-b973-745d-b2f3-58c4e8c5e363"}
-{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-glassrun.place.ts","id":"01a0e98e-a9b8-7490-a8a0-e6e43c6bc249"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-aurora-lake.place.ts","id":"01a0e9bd-41ef-7cc8-9977-4a4022cdc585"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-aurora.place.ts","id":"01a0e9bd-41f0-721f-ad1e-332173f60fe6"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-black-shore.place.ts","id":"01a0e984-b973-745d-b2f3-58c4e8c5e363"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-blackmist-bog.place.ts","id":"01a0e9ba-dd9e-73de-980f-81d39665375b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-blade-world.place.ts","id":"01a0e9bf-c1f3-7db7-8c34-c97882f6bc5c"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-bladewind-badlands.place.ts","id":"01a0e9bd-41f0-7e2d-90e1-dd986a9e41fd"}
@@ -688,6 +687,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-evaluation-course.place.ts","id":"01a0e9bb-b06e-79c4-b525-5ed1c0cf128b"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-fringe.place.ts","id":"01a0e9bf-c1f4-7e85-a36e-787676ef995e"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-frontier.place.ts","id":"01a0e9bd-41f0-77fb-bfdd-1b4b5628cc70"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-glassrun.place.ts","id":"01a0e98e-a9b8-7490-a8a0-e6e43c6bc249"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-grand-arena-of-papillion.place.ts","id":"01a0e9ba-0813-7f2a-bd7c-45986def4c92"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-gullrock-head.place.ts","id":"01a0e99b-64b0-7a2e-97bf-980ed0d9bdb3"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-highlands.place.ts","id":"01a0e99b-64b1-7d6f-afdc-c68c988ec31e"}
@@ -695,6 +695,7 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-labyrinth-heart.place.ts","id":"01a0e9bf-c1f5-7295-bc9b-99944cb1530d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-labyrinth-rifts.place.ts","id":"01a0e9be-c9be-7036-9cde-e89ef5c114b4"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-lemur-village.place.ts","id":"01a0e9be-00c7-7cda-a2de-66225c225bd8"}
+{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-lowland-wood.place.ts","id":"01a0e98e-a9b8-760c-b499-173eb506ff12"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-mana-saturated-mine.place.ts","id":"01a0e9be-00c7-7491-a36c-b8e79bfad83d"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-obelisk-point.place.ts","id":"01a0e99b-64b1-76b5-841f-c3b0e55970d2"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-old-strangler.place.ts","id":"01a0e98e-a9b8-7fd2-a6e1-075142639c90"}
@@ -713,7 +714,6 @@
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-velen.place.ts","id":"01a0e9bc-75a2-7271-85e8-40bb760d97a3"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-waterfall-cave.place.ts","id":"01a0e9be-00c8-768b-b2dd-8c9884a6bafd"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-ii-xanian.place.ts","id":"01a0e9be-00c8-75ed-bab0-7505a6f69b7b"}
-{"propertySlug":"lore-knowers","path":"story/world/pages/labyrinth-of-the-mad-god/places/otherwhere-lowland-wood.place.ts","id":"01a0e98e-a9b8-760c-b499-173eb506ff12"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-the-library-alan.lore.ts","id":"01a0e351-5e01-72bb-84a6-ff6eda9ca6a6"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-the-library-golems.lore.ts","id":"01a0e82c-5b35-7986-9145-92079b3b1bd8"}
 {"propertySlug":"lore-knowers","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-the-library-links.lore.ts","id":"01a0e354-0a4d-7180-8246-1ef006ad01e6"}

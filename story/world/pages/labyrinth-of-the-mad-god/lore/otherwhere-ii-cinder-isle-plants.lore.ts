@@ -1,9 +1,9 @@
 import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
 
-export const otherwhereCinderIslePlants = {
+export const otherwhereIiCinderIslePlants = {
   id: "01a0e98e-a9b7-717a-95e2-9c9de6da43f9",
   type: "page-type/lore",
-  slug: "otherwhere-cinder-isle-plants",
+  slug: "otherwhere-ii-cinder-isle-plants",
   title: "Plants of the Cinder Isle",
   world: "world/labyrinth-of-the-mad-god",
   facts: [

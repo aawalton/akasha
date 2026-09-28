@@ -6,5 +6,5 @@ export const otherwhereIiGlassrunMonitorNear = {
   slug: "otherwhere-ii-glassrun-monitor-near",
   title: "The Nearer Mire Monitor",
   story: "story-played/otherwhere-ii",
-  place: "place/otherwhere-glassrun",
+  place: "place/otherwhere-ii-glassrun",
 } as const satisfies CharacterOther

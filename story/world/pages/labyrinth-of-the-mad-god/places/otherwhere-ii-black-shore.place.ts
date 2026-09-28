@@ -1,9 +1,9 @@
 import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
 
-export const otherwhereBlackShore = {
+export const otherwhereIiBlackShore = {
   id: "01a0e984-b973-745d-b2f3-58c4e8c5e363",
   type: "page-type/place",
-  slug: "otherwhere-black-shore",
+  slug: "otherwhere-ii-black-shore",
   title: "The Black Shore",
   world: "world/labyrinth-of-the-mad-god",
   within: "place/otherwhere-ii-cinder-isle",

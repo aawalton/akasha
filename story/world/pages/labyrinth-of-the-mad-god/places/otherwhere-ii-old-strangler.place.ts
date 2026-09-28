@@ -6,7 +6,7 @@ export const otherwhereIiOldStrangler = {
   slug: "otherwhere-ii-old-strangler",
   title: "The Old Strangler",
   world: "world/labyrinth-of-the-mad-god",
-  within: "place/otherwhere-lowland-wood",
+  within: "place/otherwhere-ii-lowland-wood",
   facts: [
     {
       fact: "The Old Strangler is a giant fig whose roots long ago choked and rotted out its host tree.",

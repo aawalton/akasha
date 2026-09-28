@@ -1,9 +1,9 @@
 import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
 
-export const otherwhereLowlandWood = {
+export const otherwhereIiLowlandWood = {
   id: "01a0e98e-a9b8-760c-b499-173eb506ff12",
   type: "page-type/place",
-  slug: "otherwhere-lowland-wood",
+  slug: "otherwhere-ii-lowland-wood",
   title: "The Lowland Wood",
   world: "world/labyrinth-of-the-mad-god",
   within: "place/otherwhere-ii-cinder-isle",

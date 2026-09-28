@@ -1,9 +1,9 @@
 import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
 
-export const otherwhereCopperbacks = {
+export const otherwhereIiCopperbacks = {
   id: "01a0e98e-a9b7-7a81-92ea-4edc292ed81c",
   type: "page-type/lore",
-  slug: "otherwhere-copperbacks",
+  slug: "otherwhere-ii-copperbacks",
   title: "Copperbacks",
   world: "world/labyrinth-of-the-mad-god",
   facts: [

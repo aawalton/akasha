@@ -1,9 +1,9 @@
 import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
 
-export const otherwhereMireMonitors = {
+export const otherwhereIiMireMonitors = {
   id: "01a0e98e-a9b7-7f57-b9e0-258856271076",
   type: "page-type/lore",
-  slug: "otherwhere-mire-monitors",
+  slug: "otherwhere-ii-mire-monitors",
   title: "Mire Monitors",
   world: "world/labyrinth-of-the-mad-god",
   facts: [

@@ -1,9 +1,9 @@
 import type { Lore } from "akasha/story/lore/lore.page-type.types.ts"
 
-export const otherwhereInterface = {
+export const otherwhereIiInterface = {
   id: "01a0e9a4-b08a-7a48-8816-c684d593aaf0",
   type: "page-type/lore",
-  slug: "otherwhere-interface",
+  slug: "otherwhere-ii-interface",
   title: "The Interface",
   world: "world/labyrinth-of-the-mad-god",
   facts: [
