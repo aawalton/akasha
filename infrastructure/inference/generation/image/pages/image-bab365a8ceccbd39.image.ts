@@ -4,6 +4,8 @@ export const imageBab365a8ceccbd39 = {
   id: "01a0e9e7-9d5c-7afb-96de-27ff7cd32125",
   type: "page-type/image",
   slug: "image-bab365a8ceccbd39",
+  title: "Coconut and Leopard Print Against the Tree",
+  albums: ["image-album/park-sunbathing"],
   service: "zimage",
   operation: "generate",
   model: "beyond-reality-3",
