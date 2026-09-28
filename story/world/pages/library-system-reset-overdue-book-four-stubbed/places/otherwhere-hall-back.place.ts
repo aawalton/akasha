@@ -233,7 +233,7 @@ export const otherwhereHallBack = {
       ],
     },
     {
-      fact: "Two fresh salt sacks and the honey jar sit at the gloom's edge.",
+      fact: "One fresh salt sack and the honey jar sit at the gloom's edge.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
@@ -327,11 +327,15 @@ export const otherwhereHallBack = {
     },
     {
       fact: "Burned three times, the big bookworm jerks its mouth away from a sack thrust straight at it.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
     {
       fact: "The big bookworm follows a fleeing Librarian's honey smell, slower than she can run.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+    },
+    {
+      fact: "Nala's fifth sack burst short in its mouth as it jerked away; its answering lunge missed.",
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
   ],
 } as const satisfies Place
