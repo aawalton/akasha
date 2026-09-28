@@ -29,6 +29,6 @@ export const otherwhere00008 = {
   issues: ['"Nala stands at the stream mouth" - she knelt there last turn; prose has her kneeling'],
   lore: ["lore/otherwhere-interface", "lore/otherwhere-mire-monitors"],
   reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
   endsAt: "2026-09-28T15:05:00.000Z",
 } as const satisfies StoryTurnPlayed
