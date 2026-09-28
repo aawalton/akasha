@@ -57,6 +57,10 @@ export const playedRows = {
     },
     {
       decisionKind: "decision-kind/departure",
+      statement: "A story with no turn at player says the end time its latest chapter states.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A story stating the day it opens on has its days said as a count from that day.",
     },
     {

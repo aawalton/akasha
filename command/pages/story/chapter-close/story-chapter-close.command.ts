@@ -37,6 +37,10 @@ export const storyChapterClose = {
       decisionKind: "decision-kind/departure",
       statement: "A chapter keeps the cover of each turn it takes, under that turn's number.",
     },
+    {
+      decisionKind: "decision-kind/departure",
+      statement: "A chapter keeps the end time of the last turn it takes as its own.",
+    },
   ],
   name: "chapter-close",
   arguments: [

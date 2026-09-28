@@ -185,6 +185,18 @@ describe("playedClockOf", () => {
     expect(playedClockOf([])).toBeNull()
   })
 
+  test("says the time the latest chapter ends at where no turn is open", () => {
+    const chapter = (id: string, position: number, endsAt: string): Page =>
+      asPage({ pageTypeSlug: "story-chapter-played", id, position, endsAt })
+    const chapters = [
+      chapter("c2", 2, "2026-09-27T21:10:00.000Z"),
+      chapter("c1", 1, "2026-09-26T09:00:00.000Z"),
+    ]
+    expect(playedClockOf([], null, chapters)).toBe("Sunday, September 27 · 9:10 PM")
+    const open = [turnPage({ id: "t", position: 9, endsAt: "2026-09-28T07:00:00.000Z" })]
+    expect(playedClockOf(open, null, chapters)).toBe("Monday, September 28 · 7:00 AM")
+  })
+
   test("counts the days from the day the story opens on rather than naming a date", () => {
     const rows = [turnPage({ id: "a", position: 1, endsAt: "2026-10-02T21:15:00.000Z" })]
     expect(playedClockOf(rows, "2026-09-26T00:00:00.000Z")).toBe("Day 7 · 9:15 PM")

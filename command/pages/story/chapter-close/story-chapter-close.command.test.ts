@@ -1,6 +1,7 @@
 import { expect, test } from "bun:test"
 import {
   chapterSlugOf,
+  endsAtOf,
   lastTurnOf,
   openThrough,
   proseOf,
@@ -50,6 +51,16 @@ test("a chapter says the slug and position of the last turn it takes", () => {
   ]
   expect(lastTurnOf(turns)).toEqual({ lastTurn: "otherwhere-00-049", lastTurnPosition: 49 })
   expect(lastTurnOf([])).toBeNull()
+})
+
+test("a chapter ends when its last turn ends, and states no end where that turn states none", () => {
+  const turns = [
+    { at: "b", slug: "t-00-002", position: 2, endsAt: "2026-09-27T21:10:00.000Z" },
+    { at: "a", slug: "t-00-001", position: 1, endsAt: "2026-09-27T20:00:00.000Z" },
+  ]
+  expect(endsAtOf(turns)).toEqual({ endsAt: "2026-09-27T21:10:00.000Z" })
+  expect(endsAtOf([{ at: "a", slug: "t-00-001", position: 1 }])).toBeNull()
+  expect(endsAtOf([])).toBeNull()
 })
 
 test("a chapter keeps the cover of each turn it takes that has one, under the turn's number", () => {

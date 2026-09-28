@@ -12,6 +12,7 @@ export const storyChapterPlayed = {
     "record-property/chapter-turn-covers",
     "text-property/last-turn",
     "number-property/last-turn-position",
+    "instant-property/chapter-ends-at",
   ],
   properties: [
     {
@@ -22,6 +23,7 @@ export const storyChapterPlayed = {
     },
     { pageProperty: "text-property/last-turn", required: false, many: false },
     { pageProperty: "number-property/last-turn-position", required: false, many: false },
+    { pageProperty: "instant-property/chapter-ends-at", required: false, many: false },
   ],
   detailConfig: {
     frame: {

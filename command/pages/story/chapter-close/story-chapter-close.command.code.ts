@@ -54,6 +54,7 @@ const COLLECTIONS = "partOfCollections"
 const STORY = "story"
 const POSITION = "position"
 const COVER = "cover"
+const ENDS_AT = "endsAt"
 const SLUG = "slug"
 
 const A_NOT_SLUG = /[^a-z0-9]+/g
@@ -68,6 +69,7 @@ type Turn = {
   readonly slug: string
   readonly position: number
   readonly cover?: string
+  readonly endsAt?: string
 }
 
 type TurnCover = { readonly position: number; readonly cover: string }
@@ -121,6 +123,12 @@ export function lastTurnOf(turns: readonly Turn[]): LastTurn | null {
   return last === null ? null : { lastTurn: last.slug, lastTurnPosition: last.position }
 }
 
+export function endsAtOf(turns: readonly Turn[]): { readonly endsAt: string } | null {
+  let last: Turn | null = null
+  for (const one of turns) if (last === null || one.position > last.position) last = one
+  return last?.endsAt === undefined ? null : { endsAt: last.endsAt }
+}
+
 function storyOf(slug: string): string {
   const parted = slug.lastIndexOf(PARTED)
   return parted < 0 ? slug : slug.slice(parted + 1)
@@ -135,11 +143,13 @@ function turnsOf(root: string, named: string): readonly Turn[] {
     if (!Array.isArray(within) || !within.includes(named)) continue
     if (typeof position !== "number" || typeof slug !== "string") continue
     const cover = one.value[COVER]
+    const endsAt = one.value[ENDS_AT]
     found.push({
       at: one.path,
       slug,
       position,
       ...(typeof cover === "string" && cover !== "" ? { cover } : {}),
+      ...(typeof endsAt === "string" && endsAt !== "" ? { endsAt } : {}),
     })
   }
   return found
@@ -203,6 +213,7 @@ async function closed(
       prose: HELD,
       ...(turnCovers.length === 0 ? {} : { turnCovers }),
       ...lastTurnOf(turns),
+      ...endsAtOf(turns),
     },
     bodies: { prose },
   }

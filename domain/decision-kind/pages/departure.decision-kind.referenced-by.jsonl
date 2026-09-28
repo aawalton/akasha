@@ -3848,6 +3848,7 @@
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-kind.select-property.ts","id":"01a063ce-6216-7005-95f1-cc6876e8a107"}
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-mechanic.relation-property.ts","id":"01a063ce-6216-7007-b529-a31661f9223d"}
 {"propertySlug":"decision-kind","path":"story/world/properties/reading-slug.text-property.ts","id":"01a063ce-6216-7003-82e9-30fd6cf9ebfc"}
+{"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/chapter-ends-at.instant-property.ts","id":"01a0e7f2-5cad-7cc4-a9a1-e2277ecfaf2e"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/chapter-turn-covers.record-property.ts","id":"01a0e5cc-d3bc-7308-be9d-19011bb2e2f4"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/last-turn-position.number-property.ts","id":"01a0e5d3-d337-7dbd-bb65-0131d5ddf66a"}
 {"propertySlug":"decision-kind","path":"story/world/stories/played/chapters/properties/last-turn.text-property.ts","id":"01a0e5d3-d337-7946-9983-82bda3d41a93"}

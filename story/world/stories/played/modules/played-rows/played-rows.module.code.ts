@@ -172,12 +172,17 @@ function clockSaid(at: Date, opensAt: Date | null): string {
   return `${day} · ${part.get("hour")}:${part.get("minute")} ${part.get("dayPeriod")}`
 }
 
-function endedAt(ready: readonly Page[]): Date | null {
-  return instantIn(playedOrder(ready).at(-1)?.[PLAYED_TURN_ENDS_AT_KEY])
+function endedAt(ready: readonly Page[], chapters: readonly Page[]): Date | null {
+  const latest = playedOrder(ready).at(-1) ?? playedOrder(chapters).at(-1)
+  return instantIn(latest?.[PLAYED_TURN_ENDS_AT_KEY])
 }
 
-export function playedClockOf(ready: readonly Page[], opensAt: unknown = null): string | null {
-  const at = endedAt(ready)
+export function playedClockOf(
+  ready: readonly Page[],
+  opensAt: unknown = null,
+  chapters: readonly Page[] = []
+): string | null {
+  const at = endedAt(ready, chapters)
   return at === null ? null : clockSaid(at, instantIn(opensAt))
 }
 
@@ -192,9 +197,10 @@ export function playedAppointmentsListOf(characterAddress: string): PlayedList {
 export function playedUpcomingOf(
   appointments: readonly Page[],
   ready: readonly Page[],
-  opensAt: unknown = null
+  opensAt: unknown = null,
+  chapters: readonly Page[] = []
 ): readonly PlayedAppointment[] {
-  const now = endedAt(ready)
+  const now = endedAt(ready, chapters)
   if (now === null) return []
   const upcoming: { readonly at: Date; readonly row: Page }[] = []
   for (const row of appointments) {
