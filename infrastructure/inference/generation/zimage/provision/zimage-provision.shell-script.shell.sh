@@ -57,6 +57,32 @@ FILES = [
         "diffusion_models",
         "beyond-reality-3_fp8.safetensors",
     ),
+    # The local engine of `akasha inference edit`: Qwen-Image-Edit-2511 at fp8, its
+    # Qwen2.5-VL text encoder and VAE, and the 8-step Lightning LoRA it runs under.
+    (
+        "Comfy-Org/Qwen-Image-Edit_ComfyUI",
+        "split_files/diffusion_models/qwen_image_edit_2511_fp8mixed.safetensors",
+        "diffusion_models",
+        "qwen_image_edit_2511_fp8mixed.safetensors",
+    ),
+    (
+        "Comfy-Org/Qwen-Image_ComfyUI",
+        "split_files/text_encoders/qwen_2.5_vl_7b_fp8_scaled.safetensors",
+        "text_encoders",
+        "qwen_2.5_vl_7b_fp8_scaled.safetensors",
+    ),
+    (
+        "Comfy-Org/Qwen-Image_ComfyUI",
+        "split_files/vae/qwen_image_vae.safetensors",
+        "vae",
+        "qwen_image_vae.safetensors",
+    ),
+    (
+        "lightx2v/Qwen-Image-Edit-2511-Lightning",
+        "Qwen-Image-Edit-2511-Lightning-8steps-V1.0-bf16.safetensors",
+        "loras",
+        "Qwen-Image-Edit-2511-Lightning-8steps-V1.0-bf16.safetensors",
+    ),
 ]
 
 # The per-eval LoRA lands here as a checkpoint argument, not a provision download.
