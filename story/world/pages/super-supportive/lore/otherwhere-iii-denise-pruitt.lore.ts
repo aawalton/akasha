@@ -32,6 +32,10 @@ export const otherwhereIiiDenisePruitt = {
       fact: "She hears a man leaving a woman stranded as abuse, and takes it seriously.",
       knowers: ["lore-disclosure/game-master"],
     },
+    {
+      fact: "She would sooner walk Nala into her ER to be seen than leave her on a train.",
+      knowers: ["lore-disclosure/game-master"],
+    },
   ],
   secrets: "jsonl",
 } as const satisfies Lore
