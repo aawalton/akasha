@@ -633,6 +633,8 @@
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-maesha.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana-capacity.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana-cycling.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana-poisoning.lore.ts","typed":true,"deferred":false}
+{"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana-toxicosis.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-mana.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-markus-brown.lore.ts","typed":true,"deferred":false}
 {"propertySlug":"import","fileName":"lore.page-type.types.ts","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-maxen.lore.ts","typed":true,"deferred":false}
