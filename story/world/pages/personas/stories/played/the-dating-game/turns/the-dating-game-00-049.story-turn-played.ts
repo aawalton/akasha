@@ -10,7 +10,7 @@ export const theDatingGame00049 = {
   position: 49,
   prose: "txt",
   characters: ["character-other/the-dating-game-aelwyn", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action: '"Deal, I\'m looking forward to it!"',
   beats: [
     'He says, "Deal, I\'m looking forward to it!"',
@@ -21,5 +21,5 @@ export const theDatingGame00049 = {
     '"I\'m editing you in tonight. You look very heroic in that shirt. The comments are gonna love you."',
   ],
   lore: ["lore/the-dating-game-aelwyn", "place/the-dating-game-provo-river-trail"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
