@@ -30,5 +30,5 @@ export const otherwhere00052 = {
   issues: ['"The water has gone cool on your skin, and your stomach gives a long" - Leave It Open'],
   lore: ["lore/otherwhere-links"],
   reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
-  recordedBy: ["story-recorder/mechanics"],
+  recordedBy: ["story-recorder/mechanics", "story-recorder/memory"],
 } as const satisfies StoryTurnPlayed
