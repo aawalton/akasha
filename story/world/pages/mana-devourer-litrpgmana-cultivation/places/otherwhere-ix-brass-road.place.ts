@@ -6,6 +6,7 @@ export const otherwhereIxBrassRoad = {
   slug: "otherwhere-ix-brass-road",
   title: "The Brass Road",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  within: "place/otherwhere-ix-kessen-zone",
   facts: [
     {
       fact: "The Brass Road is the Kessen Zone's trade road, running east and west.",

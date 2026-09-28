@@ -6,6 +6,7 @@ export const otherwhereIxTinleafSeep = {
   slug: "otherwhere-ix-tinleaf-seep",
   title: "The Tinleaf Seep",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  within: "place/otherwhere-ix-glassgrass-flats",
   facts: [
     {
       fact: "Three tinleaf trees stand together an hour's walk east-northeast of where Nala woke.",

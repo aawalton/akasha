@@ -6,6 +6,7 @@ export const otherwhereIxStillstones = {
   slug: "otherwhere-ix-stillstones",
   title: "The Stillstones",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  within: "place/otherwhere-ix-glassgrass-flats",
   facts: [
     {
       fact: "The Stillstones are a ring of eleven standing stones in the Flats, two days north of Tollmere.",

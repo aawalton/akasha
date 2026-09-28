@@ -6,6 +6,7 @@ export const otherwhereIxKessenhold = {
   slug: "otherwhere-ix-kessenhold",
   title: "Kessenhold",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  within: "place/otherwhere-ix-kessen-zone",
   facts: [
     {
       fact: "Kessenhold is the Kessen Zone's chartered city, nine days east of Tollmere.",

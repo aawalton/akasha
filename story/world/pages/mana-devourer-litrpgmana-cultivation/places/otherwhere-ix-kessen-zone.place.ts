@@ -6,6 +6,7 @@ export const otherwhereIxKessenZone = {
   slug: "otherwhere-ix-kessen-zone",
   title: "The Kessen Zone",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  within: "place/otherwhere-ix-entrerea",
   facts: [
     {
       fact: "The Kessen Zone is an E Grade zone on the continent of Entrerea.",

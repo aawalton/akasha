@@ -6,6 +6,7 @@ export const otherwhereIxTollmere = {
   slug: "otherwhere-ix-tollmere",
   title: "Tollmere",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  within: "place/otherwhere-ix-kessen-zone",
   facts: [
     {
       fact: "Tollmere is a walled Orrow waystation on the Brass Road, at the eastern edge of the Flats.",

@@ -6,6 +6,7 @@ export const otherwhereIxGlassgrassFlats = {
   slug: "otherwhere-ix-glassgrass-flats",
   title: "The Glassgrass Flats",
   world: "world/mana-devourer-litrpgmana-cultivation",
+  within: "place/otherwhere-ix-kessen-zone",
   facts: [
     {
       fact: "The Glassgrass Flats are open plains of stiff, pale, translucent grass that chimes in wind.",
