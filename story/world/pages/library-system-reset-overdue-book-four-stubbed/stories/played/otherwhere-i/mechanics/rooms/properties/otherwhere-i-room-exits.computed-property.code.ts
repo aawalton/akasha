@@ -3,11 +3,11 @@ import type { Place } from "akasha/story/lore/place/place.page-type.types.ts"
 import type { PlaceExitDirection } from "akasha/story/lore/place/properties/place-exit-direction.select-property.types.ts"
 import { otherwhereIRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/otherwhere-i-room.page-type.ts"
 import type { OtherwhereIRoom } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/otherwhere-i-room.page-type.types.ts"
+import type { OtherwhereIRoomExits } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-i-room-exits.computed-property.types.ts"
 import type { OtherwhereTheLibraryRoomExitTo } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-the-library-room-exit-to.relation-property.types.ts"
-import type { OtherwhereTheLibraryRoomExits } from "akasha/story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/properties/otherwhere-the-library-room-exits.computed-property.types.ts"
 
 export const ROOMS =
-  "story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-the-library/mechanics/rooms/pages"
+  "story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages"
 
 const FILE_END = `.${otherwhereIRoom.slug}.ts`
 
@@ -33,7 +33,7 @@ function roomsByPlace(reach: Reach): ReadonlyMap<string, Seen> {
   return found
 }
 
-export const work: Work<OtherwhereIRoom, OtherwhereTheLibraryRoomExits> = (page, reach) => {
+export const work: Work<OtherwhereIRoom, OtherwhereIRoomExits> = (page, reach) => {
   const seenBy = page.shownTo ?? []
   if (page.place === undefined || seenBy.length === 0) return null
   const told = reach.target<Place>(page.place)?.exits ?? []

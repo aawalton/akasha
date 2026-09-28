@@ -4,7 +4,7 @@ export const otherwhereLinks = {
   id: "01a0e363-5bac-7d58-8eb3-5ccfbcfd1d8e",
   type: "page-type/otherwhere-i-power",
   slug: "otherwhere-links",
-  character: "character-other/otherwhere-links",
+  character: "character-other/otherwhere-i-links",
   value: 100,
   minValue: 0,
   maxValue: 100,

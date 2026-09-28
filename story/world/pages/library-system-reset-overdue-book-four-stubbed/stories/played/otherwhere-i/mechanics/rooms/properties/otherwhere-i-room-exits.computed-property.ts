@@ -1,9 +1,9 @@
 import type { ComputedProperty } from "akasha/page/computed-property/computed-property.page-type.types.ts"
 
-export const otherwhereTheLibraryRoomExits = {
+export const otherwhereIRoomExits = {
   id: "01a0e85e-5914-79c3-9ba6-92e60f4b03aa",
   type: "page-type/computed-property",
-  slug: "otherwhere-the-library-room-exits",
+  slug: "otherwhere-i-room-exits",
   propertySlug: "exits",
   definition: "the rooms of the Library a room's place has exits to, each with its direction",
   holds: "records",

@@ -11,8 +11,8 @@ export const otherwhereTheLibraryHospitalWing = {
       fact: "The Library's hospital wing stays shut and dark until the Library has more power to open it.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
+        "character-player/otherwhere-i-alan",
+        "character-other/otherwhere-i-links",
       ],
     },
   ],

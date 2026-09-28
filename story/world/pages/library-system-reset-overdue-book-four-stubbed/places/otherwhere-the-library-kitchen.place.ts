@@ -20,13 +20,13 @@ export const otherwhereTheLibraryKitchen = {
       fact: "The kitchen lies through an arched door on the main hall's right side, down a short corridor.",
       knowers: [
         "lore-disclosure/game-master",
-        "character-player/otherwhere-alan",
-        "character-other/otherwhere-links",
+        "character-player/otherwhere-i-alan",
+        "character-other/otherwhere-i-links",
       ],
     },
     {
       fact: "The kitchen is long and warm, with hanging copper pots, a great stone oven and an oak table.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
     {
       fact: "Fresh loaves cool on the oak table, baked by the kitchen on its own.",
@@ -34,7 +34,7 @@ export const otherwhereTheLibraryKitchen = {
     },
     {
       fact: "Nala found fresh loaves cooling on the kitchen's oak table, with no one there who baked them.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
     {
       fact: "Only the great oven is lit; the other hearths stay cold until the kitchen's golems return.",
@@ -42,23 +42,23 @@ export const otherwhereTheLibraryKitchen = {
     },
     {
       fact: "The kitchen's bread is dense and nutty, with a crust glazed in honey.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
     {
       fact: "The pantry's low door is at the kitchen's far end, beside the great oven.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
     {
       fact: "A wide door opens from the kitchen onto a long staff dining hall, dim, its tables dust-sheeted.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
     {
       fact: "A pantry off the kitchen holds six sacks of coarse salt, each about twenty pounds.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
     {
       fact: "Nala can carry one sack of salt easily, or two at a stagger; more takes extra trips.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
     {
       fact: "The Library's honey carries a faint magic, and a bookworm is drawn to its smell.",
@@ -66,11 +66,11 @@ export const otherwhereTheLibraryKitchen = {
     },
     {
       fact: "Honey holds a thick crust of salt that clings through a tussle better than damp cloth does.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
     {
       fact: "The pantry also keeps jars of honey and bins of roots and vegetables.",
-      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
+      knowers: ["lore-disclosure/game-master", "character-player/otherwhere-i-alan"],
     },
   ],
 } as const satisfies Place

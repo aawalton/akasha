@@ -10,7 +10,7 @@ export const otherwhereTheLibrary00071 = {
   partOfCollections: ["story-played/otherwhere-i"],
   position: 71,
   prose: "txt",
-  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  characters: ["character-player/otherwhere-i-alan", "character-other/otherwhere-i-links"],
   stepStatus: "step-status/player",
   action:
     "**No book that will let me cast a spell to read a book? I'm a speed reader (4000 WPM), so I can read fast, but I'm sure magic could make that faster.** I got and collect the two books and sit down to read them.",

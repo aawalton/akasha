@@ -4,7 +4,7 @@ export const otherwhereAlan = {
   id: "01a0e363-036f-7fc9-aebd-f2581522f6f5",
   type: "page-type/otherwhere-i-mana",
   slug: "otherwhere-alan",
-  character: "character-player/otherwhere-alan",
+  character: "character-player/otherwhere-i-alan",
   value: 18,
   minValue: 0,
   maxValue: 18,

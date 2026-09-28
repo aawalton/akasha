@@ -10,7 +10,7 @@ export const otherwhereTheLibrary00067 = {
   partOfCollections: ["story-played/otherwhere-i"],
   position: 67,
   prose: "txt",
-  characters: ["character-player/otherwhere-alan"],
+  characters: ["character-player/otherwhere-i-alan"],
   stepStatus: "step-status/player",
   action: "I yawn and stretch, then get out of bed and open the door",
   beats: [

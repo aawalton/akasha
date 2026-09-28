@@ -8,5 +8,5 @@ export const otherwhereTheLibraryMainHall = {
   world: "world/library-system-reset-overdue-book-four-stubbed",
   lit: true,
   place: "place/otherwhere-the-library-main-hall",
-  shownTo: ["character-player/otherwhere-alan"],
+  shownTo: ["character-player/otherwhere-i-alan"],
 } as const satisfies OtherwhereIRoom

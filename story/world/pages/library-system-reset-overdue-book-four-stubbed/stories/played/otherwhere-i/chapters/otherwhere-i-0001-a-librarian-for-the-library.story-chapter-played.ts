@@ -1,9 +1,9 @@
 import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
 
-export const otherwhereTheLibrary0001ALibrarianForTheLibrary = {
+export const otherwhereI0001ALibrarianForTheLibrary = {
   id: "01a0e5b4-cf97-7d47-bc55-03f0575c779d",
   type: "page-type/story-chapter-played",
-  slug: "otherwhere-the-library-0001-a-librarian-for-the-library",
+  slug: "otherwhere-i-0001-a-librarian-for-the-library",
   position: 1,
   unit: "unit/words",
   title: "A Librarian for the Library",

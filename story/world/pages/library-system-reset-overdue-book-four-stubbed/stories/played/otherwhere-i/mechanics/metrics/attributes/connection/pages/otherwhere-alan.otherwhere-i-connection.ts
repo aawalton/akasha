@@ -4,7 +4,7 @@ export const otherwhereAlan = {
   id: "01a0e363-5bab-7d1e-bd4d-eb11623c8fce",
   type: "page-type/otherwhere-i-connection",
   slug: "otherwhere-alan",
-  character: "character-player/otherwhere-alan",
+  character: "character-player/otherwhere-i-alan",
   value: 4,
   minValue: 0,
   history: "jsonl",

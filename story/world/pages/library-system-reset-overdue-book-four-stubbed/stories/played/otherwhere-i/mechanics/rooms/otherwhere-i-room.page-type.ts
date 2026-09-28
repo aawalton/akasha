@@ -31,7 +31,7 @@ export const otherwhereIRoom = {
     "module/otherwhere-the-library-map-layout",
     "relation-property/otherwhere-the-library-room-place",
     "computed-property/otherwhere-the-library-room-depth",
-    "computed-property/otherwhere-the-library-room-exits",
+    "computed-property/otherwhere-i-room-exits",
     "relation-property/otherwhere-the-library-room-exit-to",
   ],
   properties: [
@@ -58,7 +58,7 @@ export const otherwhereIRoom = {
       many: false,
     },
     {
-      pageProperty: "computed-property/otherwhere-the-library-room-exits",
+      pageProperty: "computed-property/otherwhere-i-room-exits",
       required: false,
       many: false,
     },

@@ -5,7 +5,7 @@
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-the-library-links.lore.ts","id":"01a0e354-0a4d-7180-8246-1ef006ad01e6"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-the-library-peoples.lore.ts","id":"01a0e94a-ae39-7dbd-9979-349a949bb3d7"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/lore/otherwhere-the-library-universe.lore.ts","id":"01a0e353-a986-76af-a305-0815d85c584a"}
-{"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/mechanics/skills/otherwhere-the-library-shelf-sight.world-skill.ts","id":"01a0e7da-4cd6-7933-8410-b02405d93c50"}
+{"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/mechanics/skills/otherwhere-i-shelf-sight.world-skill.ts","id":"01a0e7da-4cd6-7933-8410-b02405d93c50"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-break-room.place.ts","id":"01a0e93b-e4cb-7bb1-8051-9c5839907f58"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-check-in-counter.place.ts","id":"01a0e952-ef90-7a86-a61d-99554952631a"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/places/otherwhere-the-library-core-chamber.place.ts","id":"01a0e352-2864-7c4b-a01b-dd4e52d91ced"}
@@ -24,7 +24,7 @@
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/mechanics/otherwhere-the-library-standing.world-mechanic.ts","id":"01a0e366-de42-7635-b8f9-c27d3c81ee79"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/mechanics/otherwhere-the-library-time.world-mechanic.ts","id":"01a0e7f3-cfdd-73f4-a20c-714b2b179d8a"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/relationships/otherwhere-links.world-relationship.ts","id":"01a0e364-3bbd-77ae-910f-2230cc84f779"}
-{"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-the-library-break-room.otherwhere-i-room.ts","id":"01a0e836-4c62-7b91-b337-85281cc6f171"}
+{"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-i-break-room.otherwhere-i-room.ts","id":"01a0e836-4c62-7b91-b337-85281cc6f171"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-the-library-core-chamber.otherwhere-i-room.ts","id":"01a0e836-4c63-756a-a56e-9c3849160b22"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-the-library-hospital-wing.otherwhere-i-room.ts","id":"01a0e836-4c63-7e48-8e98-5c78e6fc1c2e"}
 {"propertySlug":"world","path":"story/world/pages/library-system-reset-overdue-book-four-stubbed/stories/played/otherwhere-i/mechanics/rooms/pages/otherwhere-the-library-kitchen.otherwhere-i-room.ts","id":"01a0e836-4c63-71f8-998b-6e667bf417eb"}

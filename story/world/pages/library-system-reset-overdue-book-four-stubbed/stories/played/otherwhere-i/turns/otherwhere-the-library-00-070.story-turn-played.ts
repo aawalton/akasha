@@ -10,7 +10,7 @@ export const otherwhereTheLibrary00070 = {
   partOfCollections: ["story-played/otherwhere-i"],
   position: 70,
   prose: "txt",
-  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  characters: ["character-player/otherwhere-i-alan", "character-other/otherwhere-i-links"],
   stepStatus: "step-status/player",
   action:
     "**Okay, let the work, I'd like you to identify books we've found that I should read to prepare for the opening**",

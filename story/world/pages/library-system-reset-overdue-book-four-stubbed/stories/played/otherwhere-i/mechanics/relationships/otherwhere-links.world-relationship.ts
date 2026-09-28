@@ -6,6 +6,6 @@ export const otherwhereLinks = {
   slug: "otherwhere-links",
   title: "Nala and Links",
   world: "world/library-system-reset-overdue-book-four-stubbed",
-  characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
+  characters: ["character-player/otherwhere-i-alan", "character-other/otherwhere-i-links"],
   relationshipPoints: 85,
 } as const satisfies WorldRelationship

@@ -10,7 +10,7 @@ export const otherwhereTheLibrary00068 = {
   partOfCollections: ["story-played/otherwhere-i"],
   position: 68,
   prose: "txt",
-  characters: ["character-player/otherwhere-alan"],
+  characters: ["character-player/otherwhere-i-alan"],
   stepStatus: "step-status/player",
   action:
     '"You must be the shelving helpers. Go ahead and work on shelving all the unshelved books on the main floor, starting from the counter."',

@@ -1,9 +1,9 @@
 import type { CharacterOther } from "akasha/story/world/characters/character-other/character-other.page-type.types.ts"
 
-export const otherwhereTheLibraryEngorgedBookworm01 = {
-  id: "01a0e365-5604-781e-9c62-052cbdeb6739",
+export const otherwhereIEngorgedBookworm03 = {
+  id: "01a0e4ba-5cd6-78ff-a2cf-c214550ff86b",
   type: "page-type/character-other",
-  slug: "otherwhere-the-library-engorged-bookworm-01",
-  title: "Big Engorged Bookworm",
+  slug: "otherwhere-i-engorged-bookworm-03",
+  title: "Engorged Bookworm",
   story: "story-played/otherwhere-i",
 } as const satisfies CharacterOther

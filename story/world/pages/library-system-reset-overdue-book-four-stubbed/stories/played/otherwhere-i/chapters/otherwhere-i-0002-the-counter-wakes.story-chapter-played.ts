@@ -1,9 +1,9 @@
 import type { StoryChapterPlayed } from "akasha/story/world/stories/played/chapters/story-chapter-played.page-type.types.ts"
 
-export const otherwhereTheLibrary0002TheCounterWakes = {
+export const otherwhereI0002TheCounterWakes = {
   id: "01a0e811-e0b3-731a-aec7-c4f246e84df5",
   type: "page-type/story-chapter-played",
-  slug: "otherwhere-the-library-0002-the-counter-wakes",
+  slug: "otherwhere-i-0002-the-counter-wakes",
   position: 2,
   unit: "unit/words",
   title: "The Counter Wakes",
