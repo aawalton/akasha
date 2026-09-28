@@ -21,6 +21,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-cave-bat.lore.ts","id":"01a0ea36-bc3e-7270-845f-00699427ee84"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ciphelos.lore.ts","id":"01a0ea35-dfa7-744f-a2f3-22a27feb7b7d"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-contracts.lore.ts","id":"01a0ea36-a88f-7790-9bd3-3c75c0a52b9d"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-cursed-giant.lore.ts","id":"01a0ea37-6f22-78f5-a44b-179f9c75f2e9"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-cyclops.lore.ts","id":"01a0ea36-c313-7d7b-aab0-5e0b894eb3c4"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-demon.lore.ts","id":"01a0ea35-8a68-7183-a4f4-da3688e31df8"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-drathok.lore.ts","id":"01a0ea37-019b-75c9-a420-0e374b2e0f36"}
@@ -90,6 +91,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-blue-scaled-folk.world-species.ts","id":"01a0ea36-4160-7df7-826a-2a68455c2234"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-boar-man.world-species.ts","id":"01a0ea36-ce8c-76b2-b5c9-8b61dd389bb6"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-cave-bat.world-species.ts","id":"01a0ea36-bc40-7c57-801a-526cf4400d04"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-cursed-giant.world-species.ts","id":"01a0ea37-6f23-7139-8447-b1649e66bb14"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-cyclops.world-species.ts","id":"01a0ea36-c314-7502-b872-c1a4bfc1a423"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-demon.world-species.ts","id":"01a0ea35-8a69-78b5-b535-14a293e45552"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/species/otherwhere-ix-fae.world-species.ts","id":"01a0ea34-d6f4-7ea9-bf65-9bfe3977e537"}
