@@ -102,7 +102,7 @@ export function recorderPrompt(asked: Prompting, recorder: Recorder): string {
     `The ${noun} is \`${asked.turnAt}\`, with its prose beside it. Your instructions are \`${recorder.instructionsAt}\`, beside the story recorder page \`${recorder.at}\`.`,
     ...writtenSaid(asked.written, noun),
     "",
-    `Read your instructions, then the ${noun} and its prose, and do what the instructions say. Draft your edits with \`${DRAFTING}\`, never land them: the advance lands every recorder's drafted edits with the ${noun}'s move to player. When your edits are drafted, advance the ${noun} once:`,
+    `Read your instructions, then the ${noun} and its prose, and do what the instructions say. Draft your edits with \`${DRAFTING}\`, never land them: your advance lands them with your move. When your edits are drafted, advance the ${noun} once:`,
     "",
     `${advancing(asked)} ${recorderArgument.said} ${recorder.slug}`,
     "",
