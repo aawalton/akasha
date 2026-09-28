@@ -182,7 +182,11 @@ export const otherwhereUniverse = {
     },
     {
       fact: "A linked Librarian can learn the Library's own magic from its books, whatever her affinity.",
-      knowers: ["lore-disclosure/game-master"],
+      knowers: [
+        "lore-disclosure/game-master",
+        "character-player/otherwhere-alan",
+        "character-other/otherwhere-links",
+      ],
     },
     {
       fact: "A Library book teaching a power to send a book to its shelf is lost among the hall's heaps.",
