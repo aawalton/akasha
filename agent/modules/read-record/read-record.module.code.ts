@@ -133,7 +133,7 @@ function sighted(held: Reading): boolean {
   return held.linesShown !== undefined
 }
 
-export function markedChanged(held: Reading): boolean {
+function markedChanged(held: Reading): boolean {
   return held.changedAt !== undefined
 }
 
