@@ -10,7 +10,7 @@ export const otherwhere00010 = {
   position: 10,
   prose: "txt",
   characters: ["character-player/otherwhere-nala"],
-  stepStatus: "step-status/reviewers",
+  stepStatus: "step-status/recorders",
   action: "I charge it again, trying to get an arm around its neck and the shard in its eye",
   beats: [
     "Nala comes up off her knees and charges the nearer lizard again, the shard raised in her right hand.",
@@ -27,6 +27,6 @@ export const otherwhere00010 = {
     "Then there is nothing.",
   ],
   lore: ["lore/otherwhere-mire-monitors", "lore/otherwhere-death"],
-  reviewedBy: ["story-reviewer/continuity"],
+  reviewedBy: ["story-reviewer/continuity", "story-reviewer/style"],
   endsAt: "2026-09-28T15:10:00.000Z",
 } as const satisfies StoryTurnPlayed
