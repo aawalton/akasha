@@ -21,4 +21,5 @@ export const otherwhere00059 = {
     'Links: "Or ignore it and keep shelving. It will keep asking."',
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
