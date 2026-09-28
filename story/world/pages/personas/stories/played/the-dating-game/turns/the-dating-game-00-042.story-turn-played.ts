@@ -25,4 +25,5 @@ export const theDatingGame00042 = {
     "She drops her pack there and sinks into a long, easy stretch, humming to herself.",
   ],
   lore: ["place/the-dating-game-rock-canyon"],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
