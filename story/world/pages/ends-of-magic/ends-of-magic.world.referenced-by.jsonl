@@ -31,6 +31,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-algoa.lore.ts","id":"01a0e9f6-d51f-7b2a-bd5e-99bb61712666"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-althorn.lore.ts","id":"01a0e9f7-46c8-78db-bae1-f76555b75852"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-amoh.lore.ts","id":"01a0e9f7-46c8-7d33-a9e6-f2cead231468"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-antimagic.lore.ts","id":"01a0e9f8-bed4-7074-bfd2-fbc992226f1e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-aresi.lore.ts","id":"01a0e9f7-46c8-7e27-b19e-372dee5e7392"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-armatures.lore.ts","id":"01a0e9f7-1def-73d5-acd3-18b529924156"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-artha.lore.ts","id":"01a0e9f7-b02d-7dd1-bd20-7c7ccf60947e"}
@@ -109,6 +110,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-wolfman.lore.ts","id":"01a0e9f3-7323-7056-86f3-36c27a89fec4"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/items/otherwhere-v-armatures.world-item.ts","id":"01a0e9f7-1df0-7f0b-9df1-215879eac4c8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-aether.world-mechanic.ts","id":"01a0e9f2-2f10-736b-99be-e0174be67f89"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-antimagic.world-mechanic.ts","id":"01a0e9f8-bed5-799c-8bb3-d1436bba9468"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-class-skills.world-mechanic.ts","id":"01a0e9f7-46bc-7bd8-9ec4-39e937d7e5f0"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-classes.world-mechanic.ts","id":"01a0e9f4-b58b-76b0-96e5-32ad38b6c219"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/mechanics/otherwhere-v-disadvantage.world-mechanic.ts","id":"01a0e9f8-2dc5-7fde-9692-2083432d174f"}
