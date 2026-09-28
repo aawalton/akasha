@@ -27,6 +27,14 @@ export const otherwhereMainHall = {
   ],
   facts: [
     {
+      fact: "The Library's north is the main hall's front, its Check-in Counter end; its back is south.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
+      fact: "Facing into the hall from the Counter, as one faces south, the hall's right is west.",
+      knowers: ["lore-disclosure/game-master"],
+    },
+    {
       fact: "The main hall is at the top of the spiral staircase from the core chamber.",
       knowers: ["lore-disclosure/game-master", "character-player/otherwhere-alan"],
     },
