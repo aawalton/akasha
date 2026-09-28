@@ -26,7 +26,11 @@ export function iconByDescent(
   return null
 }
 
-export async function pageIcon(pageTypeSlug: string, id: string): Promise<string | null> {
+type PageIcons = { readonly drawn: string | null; readonly byType: string | null }
+
+const NO_ICONS: PageIcons = { drawn: null, byType: null }
+
+export async function pageIcon(pageTypeSlug: string, id: string): Promise<PageIcons> {
   try {
     const [page, types] = await Promise.all([
       getPage({ pageTypeSlug, where: [{ key: "id", eq: id }], select: ["id", "icon"] }),
@@ -36,12 +40,15 @@ export async function pageIcon(pageTypeSlug: string, id: string): Promise<string
       _id: typeof row.id === "string" ? row.id : "",
       properties: { slug: row.slug, icon: row.icon, extends: row.extends },
     }))
-    return iconByDescent(page?.icon, pageTypes, pageTypeSlug)
+    return {
+      drawn: iconByDescent(page?.icon, pageTypes, pageTypeSlug),
+      byType: iconByDescent(null, pageTypes, pageTypeSlug),
+    }
   } catch (err) {
     console.error(
       `page-icon: the icon of ${pageTypeSlug}/${id} went unread, so its tab shows the site's icon`,
       err
     )
-    return null
+    return NO_ICONS
   }
 }

@@ -9,6 +9,10 @@ export const pageDetailLoading = {
   decisions: [
     {
       decisionKind: "decision-kind/departure",
+      statement: "A page carries the icon its page type gives it beside the icon it is drawn with.",
+    },
+    {
+      decisionKind: "decision-kind/departure",
       statement: "A key is asked of a page type only where that page type declares the key.",
     },
     {

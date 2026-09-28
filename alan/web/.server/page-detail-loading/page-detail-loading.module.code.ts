@@ -301,11 +301,13 @@ export async function loader({ params, request }: LoaderFunctionArgs) {
     }
   }
 
+  const icons = await iconing
   return data({
     kind: "detail" as const,
     pageTypeSlug: resolvedSlug,
     id,
-    tabIcon: await iconing,
+    tabIcon: icons.drawn,
+    typeIcon: icons.byType,
     title,
     readerPrev,
     readerNext,
