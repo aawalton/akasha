@@ -29,5 +29,6 @@ export const otherwhereIii00005 = {
     '"This is us, honey. It\'s one block to the ER. You coming?"',
   ],
   lore: ["lore/otherwhere-iii-denise-pruitt", "place/otherwhere-iii-uptown-memorial-er"],
+  reviewedBy: ["story-reviewer/continuity"],
   endsAt: "2037-01-31T05:01:00.000Z",
 } as const satisfies StoryTurnPlayed
