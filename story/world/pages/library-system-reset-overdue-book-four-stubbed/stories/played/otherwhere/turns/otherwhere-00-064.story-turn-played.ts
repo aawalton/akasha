@@ -28,4 +28,5 @@ export const otherwhere00064 = {
     "Overhead, the hall's gold light begins to sink toward evening amber.",
     'Links: "Full. First time in centuries. Anything more you shelve pours out along the ley lines."',
   ],
+  reviewedBy: ["story-reviewer/style"],
 } as const satisfies StoryTurnPlayed
