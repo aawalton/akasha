@@ -99,6 +99,7 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-eleven-worlds.lore.ts","id":"01a0ea37-f783-7b83-b32c-48a154bdecc1"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-elundite.lore.ts","id":"01a0ea40-bcb6-71ee-85a0-8f95d8883fae"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ember.lore.ts","id":"01a0ea3a-98a8-7829-9636-8d1b0e2ddfdb"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-enchanted-greaves.lore.ts","id":"01a0ea42-c3b8-7bed-a115-57d8e70ed1a8"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-enchanting.lore.ts","id":"01a0ea3c-7579-737f-b601-fe914bb93ff2"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-essence-stones.lore.ts","id":"01a0ea40-2bae-7dff-9bed-8af22aad02f6"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-ethereal-chains.lore.ts","id":"01a0ea42-1abe-7c07-be3d-4abb145aafa7"}
@@ -115,11 +116,13 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-fischor.lore.ts","id":"01a0ea40-bcb6-751f-b9d7-647b37bce994"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-fish-folk.lore.ts","id":"01a0ea34-d6f4-77a5-a779-8601beb31d53"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-fish-guard.lore.ts","id":"01a0ea40-95f3-793d-938a-d64b2783d1b7"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-flame-retardant-cuirass.lore.ts","id":"01a0ea42-c3b9-7d35-8e13-b0376a37dab0"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-food-and-drink.lore.ts","id":"01a0ea3d-9051-735d-86a4-c4d735cd4a50"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-forthos.lore.ts","id":"01a0ea39-281e-7c0e-ab4f-4fe77bc31f3c"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-garrow-venn.lore.ts","id":"01a0ea41-5f06-7610-a125-16c3b0710d0f"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-giant-arachnid.lore.ts","id":"01a0ea36-5f15-7fec-9b13-8736da824986"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-gladiators.lore.ts","id":"01a0ea3c-5146-72dc-83d9-bc412d45e5db"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-glaive.lore.ts","id":"01a0ea42-c3b9-7a8f-b832-962330fe702c"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-glasswing-kite.lore.ts","id":"01a0ea3d-5212-766b-9b1f-ea8f9b82b0a6"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-gold-skinned-folk.lore.ts","id":"01a0ea35-942e-7c39-a1fe-7093a161fcab"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/lore/otherwhere-ix-grades.lore.ts","id":"01a0ea37-28a7-7763-8487-d3faa92b01df"}
@@ -237,9 +240,12 @@
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-chameleon-potion.world-item.ts","id":"01a0ea3f-fe99-725b-a244-c3923fa4205a"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-cleansing-powders.world-item.ts","id":"01a0ea40-bcb6-7033-88d9-b89ec5e71f3e"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-elundite.world-item.ts","id":"01a0ea40-bcb6-7f5f-b979-f3d549f12118"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-enchanted-greaves.world-item.ts","id":"01a0ea42-c3b9-7051-8421-54eda0659916"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-essence-stones.world-item.ts","id":"01a0ea40-2bb0-792f-bf59-f7169053107a"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-ethereal-chains.world-item.ts","id":"01a0ea42-1ac1-7e54-9ad8-9d785948d366"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-fischor.world-item.ts","id":"01a0ea40-bcb6-7e5f-9360-e3b8e060d030"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-flame-retardant-cuirass.world-item.ts","id":"01a0ea42-c3ba-7bfc-bd57-dfaa47b9c9bf"}
+{"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-glaive.world-item.ts","id":"01a0ea42-c3ba-71f6-9ba6-329f9a3791ee"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-healing-potion.world-item.ts","id":"01a0ea3f-fe99-7a60-979a-6d3eb4866ac2"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-kraken-meat.world-item.ts","id":"01a0ea41-7fd7-7ecc-bac9-f13f81c996b0"}
 {"propertySlug":"world","path":"story/world/pages/mana-devourer-litrpgmana-cultivation/mechanics/items/otherwhere-ix-malichor.world-item.ts","id":"01a0ea40-2bb0-7e3c-9383-e9bba24e0440"}
