@@ -10,7 +10,7 @@ export const theDatingGame00038 = {
   position: 38,
   prose: "txt",
   characters: ["character-other/the-dating-game-grace", "character-player/the-dating-game-alan"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/game-master",
   action: "“Mind if I join you again another night?”",
   beats: [
     'Alan: "Mind if I join you again another night?"',
@@ -21,6 +21,9 @@ export const theDatingGame00038 = {
     "She turns toward the far gate, the lantern swinging low at her side.",
     "Its small gold light moves off between the dark rows of stones, under the pines.",
   ],
-  issues: ['"Its small gold light moves off between the dark rows of stones" - Leave It Open'],
-  reviewedBy: ["story-reviewer/style"],
+  issues: [
+    '"Its small gold light moves off between the dark rows of stones" - Leave It Open',
+    '"She touches his arm lightly in goodbye" - at level 1 touch goes no further than a greeting',
+  ],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
