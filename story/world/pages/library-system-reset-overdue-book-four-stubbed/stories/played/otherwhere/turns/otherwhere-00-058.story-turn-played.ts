@@ -10,7 +10,7 @@ export const otherwhere00058 = {
   position: 58,
   prose: "txt",
   characters: ["character-player/otherwhere-alan", "character-other/otherwhere-links"],
-  turnStatus: "turn-status/reviewers",
+  turnStatus: "turn-status/recorders",
   action:
     "**Great, anything you need from me to get the shelvers working? If not, I'll keep going until this part is done.**",
   beats: [
@@ -23,5 +23,5 @@ export const otherwhere00058 = {
     "The glow fades from the shelves just as she slides the last book of the counter's heaps into place.",
   ],
   lore: ["lore/otherwhere-universe", "place/otherwhere-main-hall"],
-  reviewedBy: ["story-reviewer/style"],
+  reviewedBy: ["story-reviewer/style", "story-reviewer/continuity"],
 } as const satisfies StoryTurnPlayed
