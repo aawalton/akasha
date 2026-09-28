@@ -23,8 +23,6 @@ const AXIS_KEY = "axis"
 
 const OBJECTIVE_KEY = "objective"
 
-const REWARD_KEY = "reward"
-
 const STATUS_KEY = "status"
 
 const CHARACTERS_KEY = "characters"
@@ -142,12 +140,10 @@ export function questsIn(rows: readonly QueryRow[]): readonly Quest[] {
     const title = textIn(row.values[TITLE_KEY])
     const objective = textIn(row.values[OBJECTIVE_KEY])
     if (id === null || title === null || objective === null) continue
-    const reward = textIn(row.values[REWARD_KEY])
     quests.push({
       id,
       title,
       objective,
-      ...(reward === null ? {} : { reward }),
       status: textIn(row.values[STATUS_KEY]) === COMPLETE ? COMPLETE : ACTIVE,
     })
   }

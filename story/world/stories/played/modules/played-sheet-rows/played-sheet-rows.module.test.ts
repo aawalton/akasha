@@ -33,7 +33,6 @@ const QUEST_ROW = {
     slug: "the-kiss",
     title: "The Kiss",
     objective: "kiss her",
-    reward: "WILL +1",
     status: "complete",
   },
 }
@@ -84,7 +83,6 @@ test("a quest is keyed by its page's slug, and any status but complete is active
       id: "the-kiss",
       title: "The Kiss",
       objective: "kiss her",
-      reward: "WILL +1",
       status: "complete",
     },
     { id: "x", title: "X", objective: "y", status: "active" },
