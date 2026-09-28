@@ -245,6 +245,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-last-arrows-of-olita.lore.ts","id":"01a0ea04-4cd3-79aa-ab4b-db9e66d56477"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-last-champion-of-deiman.lore.ts","id":"01a0e9ff-5952-7ba0-8ee1-2a16e4f32947"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-law.lore.ts","id":"01a0ea05-739b-7785-b08d-340e626ac6a5"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-leaphare.lore.ts","id":"01a0ea08-8542-7baf-8c78-c52f006b415a"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-levels.lore.ts","id":"01a0e9f5-a5d5-793c-bc32-493bc44b9eea"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-leviathan.lore.ts","id":"01a0e9fa-0d15-7d08-acac-eb60bf12a931"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-lich.lore.ts","id":"01a0e9fb-c05e-76dc-bda7-5864850cb0b4"}
@@ -333,6 +334,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-stanel.lore.ts","id":"01a0e9fe-3d10-71ea-b48b-f0aa79dee76e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-status.lore.ts","id":"01a0e9f2-c28a-78e7-9ef1-4138eaf3cb30"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-stella.lore.ts","id":"01a0e9f8-7a18-793f-88f3-48cc448f3376"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-stingmidge.lore.ts","id":"01a0ea08-8542-75cc-b1ca-e8143fc04fb6"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-sudraiel.lore.ts","id":"01a0e9fe-3d10-710a-8a98-452ecf189c75"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-summoning.lore.ts","id":"01a0e9ff-7e03-7ba5-863f-e644247f0ce8"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/lore/otherwhere-v-suse.lore.ts","id":"01a0e9f9-91ed-7b6c-b1f0-d659d675b48c"}
@@ -520,6 +522,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-knuld.world-species.ts","id":"01a0e9f4-0048-730a-9889-ee95faaf3f46"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-lamp-moth.world-species.ts","id":"01a0ea06-e83e-7071-a7c3-6376e9bf0ac5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-lantern-owl.world-species.ts","id":"01a0ea06-e83e-79c4-8e8f-75f0a8b07ece"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-leaphare.world-species.ts","id":"01a0ea08-8542-79bf-af8e-674bd24d84d5"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-leviathan.world-species.ts","id":"01a0e9fa-0d16-7ba4-92ec-09bdf67d1341"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-lich.world-species.ts","id":"01a0e9fb-c05f-73c3-a08e-906ecd9f7f7f"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-living-shadow.world-species.ts","id":"01a0e9fc-3f05-7cff-9e51-f5324d2fb6f8"}
@@ -536,6 +539,7 @@
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-soul-eater.world-species.ts","id":"01a0e9fd-5ad0-7f5f-a45e-4bbaa0240e9e"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-spider-monster.world-species.ts","id":"01a0e9ff-2b3e-7260-b1e7-d50808abbd5c"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-stalker.world-species.ts","id":"01a0e9f8-f7c8-76f1-8e3f-9c1fe26eb6aa"}
+{"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-stingmidge.world-species.ts","id":"01a0ea08-8543-7694-a7c4-d5ee4e0b4a83"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-thornling.world-species.ts","id":"01a0ea08-3b2c-7eec-ba14-8db18cac9321"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-three-headed-centipede.world-species.ts","id":"01a0e9ff-2b3e-7f5f-8b5f-60598d0dcc33"}
 {"propertySlug":"world","path":"story/world/pages/ends-of-magic/mechanics/species/otherwhere-v-tigerman.world-species.ts","id":"01a0e9f3-7323-7d2d-9d06-742138401d43"}
